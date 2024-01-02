@@ -122,7 +122,7 @@ of the two approaches are fundamentally incompatible. See [this note](https://gi
 
 ### Why is this important?
 
-The GDK is key to [our Strategy](https://about.gitlab.com/company/strategy/#how),
+The GDK is key to [our Strategy](/handbook/company/strategy/#how),
 as the GDK is the entrypoint to contribution to the GitLab project itself. Without 
 the GDK, many contributors would have to learn the specifics of every 
 service that a local environment must run to function, the commands required to 

@@ -22,7 +22,7 @@ As a Support Engineer, you will:
 
 - resolve customer issues via email and video conferencing.
 - support a mix of Self-managed and GitLab.com (SaaS) customers.
-- collaborate with our [Product](/handbook/product/) and [Development](https://about.gitlab.com/handbook/engineering/development/) Teams to build new features and fix bugs.
+- collaborate with our [Product](/handbook/product/) and [Development](/handbook/engineering/development/) Teams to build new features and fix bugs.
 - create and update documentation based on customer interactions.
 - work hard to solve customer problems while delighting them along the way.
 - participate in regular rotations for weekday and weekend on-call coverage (daytime only), providing emergency support to our Self-managed and SaaS customers, or working with our SaaS Production team to coordinate incident communications.
@@ -124,7 +124,7 @@ Our hiring process for this Support Engineer position typically follows five sta
 
 ### How you'll grow in the role
 
-Support career progression is documented in [Engineer Career Development - Support Department](https://about.gitlab.com/handbook/engineering/career-development/#support-department).
+Support career progression is documented in [Engineer Career Development - Support Department](/handbook/engineering/career-development/#support-department).
 
 ### Senior Support Engineer
 
@@ -142,13 +142,13 @@ Generally they meet the following criteria. They:
 - drive product enhancements and fixes based on product expertise and customer interactions.
 - contribute to one or more complementary projects.
 
-A Senior Support Engineer may be interested in exploring Support Management as an alternative at this point. See [Engineering Career Development](https://about.gitlab.com/handbook/engineering/career-development/) for more detail.
+A Senior Support Engineer may be interested in exploring Support Management as an alternative at this point. See [Engineering Career Development](/handbook/engineering/career-development/) for more detail.
 
 ### Staff Support Engineer
 
 #### Job Grade
 
-The Staff Support Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades). Promotion to the Staff level is based on [merit and company need](https://about.gitlab.com/handbook/engineering/career-development/#support-department).
+The Staff Support Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades). Promotion to the Staff level is based on [merit and company need](/handbook/engineering/career-development/#support-department).
 
 A Senior Support Engineer will be promoted to Staff Support Engineer when they have
 demonstrated significant leadership and impact; typically around resolving customer issues. This may
@@ -163,7 +163,7 @@ involve any type of consistent performance above and beyond the senior level. Fo
 
 ## Career Ladder
 
-For more details on the engineering career ladders, please review the [engineering career development](https://about.gitlab.com/handbook/engineering/career-development/#roles) handbook page.
+For more details on the engineering career ladders, please review the [engineering career development](/handbook/engineering/career-development/#roles) handbook page.
 
 ## How you'll be measured
 

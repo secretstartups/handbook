@@ -6,10 +6,10 @@ description: "The GitLab team page for the Pipeline Execution Group."
 ## Vision
 
 For an understanding of what this team is going to be working on take a look at [the product
-vision](/direction/verify/). This team is responsible for delivering on the following directions:
+vision](https://about.gitlab.com/direction/verify/). This team is responsible for delivering on the following directions:
 
-- [Continuous Integration](/direction/verify/continuous_integration/)
-- [Merge Trains](/direction/verify/merge_trains/)
+- [Continuous Integration](https://about.gitlab.com/direction/verify/continuous_integration/)
+- [Merge Trains](https://about.gitlab.com/direction/verify/merge_trains/)
 
 ## Mission
 
@@ -114,10 +114,10 @@ classDiagram
 
 Not included in the Pipeline Execution group's domain:
 
-- Secrets Management, see the [direction page](/direction/release/secrets_management/)
-- Pipeline Authoring, see the [direction page](/direction/verify/pipeline_authoring/)
-- Compliance in Pipelines, see the [direction page](/direction/govern/compliance/compliance-management/)
-- [Job artifacts: storage and management of artifacts is the gateway for many CI/CD features](/direction/verify/build_artifacts/)
+- Secrets Management, see the [direction page](https://about.gitlab.com/direction/release/secrets_management/)
+- Pipeline Authoring, see the [direction page](https://about.gitlab.com/direction/verify/pipeline_authoring/)
+- Compliance in Pipelines, see the [direction page](https://about.gitlab.com/direction/govern/compliance/compliance-management/)
+- [Job artifacts: storage and management of artifacts is the gateway for many CI/CD features](https://about.gitlab.com/direction/verify/build_artifacts/)
 
 ## Technical Roadmap
 
@@ -356,7 +356,7 @@ Our planning timeline follows the [GitLab Product Development timeline](/handboo
 - By one week after each monthly release:
   - Engineers have completed refining the assigned `Verify::P*` issues and move them to `workflow::ready for development` and removing the `needs weight` label. Tagging in the PM and EM for visibility.
 
-**Note:** The EM and PM may need to modify the team commitments and schedule work for the upcoming milestone as we focus on [Customer Results](https://about.gitlab.com/handbook/values/#results) over what we plan.
+**Note:** The EM and PM may need to modify the team commitments and schedule work for the upcoming milestone as we focus on [Customer Results](/handbook/values/#results) over what we plan.
 
 #### How Engineering Refines Issues
 
@@ -449,7 +449,7 @@ At any point, if an issue becomes blocked, it would be in the `workflow::blocked
 
 `workflow::ready for development` means that an issue has been sufficiently [refined and weighted by Engineering](##how-engineering-refines-issues). Issues in this state that are labeled `cicd::active` are ones that should be worked on in a milestone. When a developer starts working on an issue they should [set the milestone](#setting-the-milestone) to that of the one where the issue will most likely be completed, rather than the one where it is started.
 
-`workflow::awaiting security release` is applied by an engineer after the security issue has passed verification and this label signals that it is ready for production but awaiting the next [monthly security release](/handbook/security/#timing-of-the-monthly-security-release). When this label is applied, the issue's milestone should also be updated to the next milestone to align with when the next security release will happen.
+`workflow::awaiting security release` is applied by an engineer after the security issue has passed verification and this label signals that it is ready for production but awaiting the next [monthly security release](https://about.gitlab.com/handbook/engineering/releases/security-releases/). When this label is applied, the issue's milestone should also be updated to the next milestone to align with when the next security release will happen.
 
 `workflow::feature-flagged` is applied to an issue that is being enabled through a separate feature flag rollout issue. Once the feature is validated the status is moved to `workflow::complete` and the issue is closed.
 
@@ -593,8 +593,8 @@ The Pipeline Execution group supports the product marketing categories described
 
 | Label                 | |  | | |
 | ----------------------| -------| ----|------------| ---|
-| `Category:Continuous Integration` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Category%3AContinuous%20Integration) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=Category%3AContinuous%20Integration) | [Direction](/direction/verify/continuous_integration/) | [Documentation](https://docs.gitlab.com/ee/ci/) |
-| `Category:Merge Trains` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Category%3AMerge%20Trains) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=Category%3AMerge%20Trains) | [Direction](/direction/verify/merge_trains/) | [Documentation](https://docs.gitlab.com/ee/ci/pipelines/merge_trains.html) |
+| `Category:Continuous Integration` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Category%3AContinuous%20Integration) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=Category%3AContinuous%20Integration) | [Direction](https://about.gitlab.com/direction/verify/continuous_integration/) | [Documentation](https://docs.gitlab.com/ee/ci/) |
+| `Category:Merge Trains` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Category%3AMerge%20Trains) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=Category%3AMerge%20Trains) | [Direction](https://about.gitlab.com/direction/verify/merge_trains/) | [Documentation](https://docs.gitlab.com/ee/ci/pipelines/merge_trains.html) |
 
 #### Feature Labels
 
@@ -678,7 +678,7 @@ Suppose working one milestone ahead to design the big solution is not possible. 
 - If it is taking more than a week to understand and investigate the technical feasibility for the design solution, update the workflow label to `~workflow::blocked` and change the assignee to engineering DRIs until the technical discussion is resolved. If the discussion is expected to go on longer, reducing the chances of the design solution being delivered in the intended milestone, consider creating [a spike issue](/handbook/engineering/development/ops/verify/pipeline-execution/#spikes) for the discussion that blocks the current issue.
 - Engineers and Product Designers should stay in contact and frequently align throughout the [Build track](/handbook/product-development-flow/#build-track) to avoid unplanned changes.
 
-#### Collaborating with the Wider Community on Community Merge Requests
+### Collaborating with the Wider Community on Community Merge Requests
 
 For more details on how to contribute to GitLab generally, please see our [documentation](https://docs.gitlab.com/ee/development/contributing/).
 

@@ -5,7 +5,7 @@ description: The Purchase Team of the Fulfillment Sub-department at GitLab
 
 ## Mission
 
-For more details about the product vision for Fulfillment, see our [Fulfillment](/direction/fulfillment/) page.
+For more details about the product vision for Fulfillment, see our [Fulfillment](https://about.gitlab.com/direction/fulfillment/) page.
 
 The Purchase group manages the [Purchase category](/handbook/product/categories/#purchase-group).
 
@@ -62,13 +62,13 @@ At the end of the milestone, all the issues still open on the active milestone b
 
 ### Milestone planning
 
-It is important for long term planning for the team to accomplish what we agree to at the beginning of the milestone. A significant aspect to completing our planned work is accurately weighting issues. The explanation of weights is specified on the [Fulfillment Sub-department page](https://about.gitlab.com/handbook/engineering/development/fulfillment/#estimation). We further specify, as a baseline, a 5 should roughly take 2 engineering weeks of work to complete. Issues with a weight of 1 should be rare and reserved for cases with no logic changes such as changing the text in a dialog or fixing a comment. A weight of 2 should be used when there are 1 or 2 minor logic changes. Likewise if an issue contains significant unknowns or will span multiple projects and many files, don't hesitate to weight at 8 or higher. This should trigger us to look more closely at breaking the issue into smaller issues, or more closely defining the implementation requirements.
+It is important for long term planning for the team to accomplish what we agree to at the beginning of the milestone. A significant aspect to completing our planned work is accurately weighting issues. The explanation of weights is specified on the [Fulfillment Sub-department page](/handbook/engineering/development/fulfillment/#estimation). We further specify, as a baseline, a 5 should roughly take 2 engineering weeks of work to complete. Issues with a weight of 1 should be rare and reserved for cases with no logic changes such as changing the text in a dialog or fixing a comment. A weight of 2 should be used when there are 1 or 2 minor logic changes. Likewise if an issue contains significant unknowns or will span multiple projects and many files, don't hesitate to weight at 8 or higher. This should trigger us to look more closely at breaking the issue into smaller issues, or more closely defining the implementation requirements.
 
 We use the rolling average of the past 3 milestones to determine the total weight of the current milestone. We expect this to increase over time as we weight issues higher and become more familiar with types of work requested.
 
 ### Refinement
 
-Issues that require refinement have the `workflow::refinement` label: they should be refined according to the [estimation template](https://about.gitlab.com/handbook/engineering/development/fulfillment/#estimation-template). A single engineer can do the refinement. They can ask other team members for a review or seek input to understand the domain knowledge better when in doubt.
+Issues that require refinement have the `workflow::refinement` label: they should be refined according to the [estimation template](/handbook/engineering/development/fulfillment/#estimation-template). A single engineer can do the refinement. They can ask other team members for a review or seek input to understand the domain knowledge better when in doubt.
 
 If you see issues that are very similar or dependent on each other's solution, consider having the refinement/solution discussion on its epic or create a sub-epic to house the discussions. You can also create a foundation issue to discuss solutions if the issues need common foundational work to be done. Make sure that both the issues are updated to indicate where the discussions happen.
 

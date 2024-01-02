@@ -4,6 +4,8 @@ description: Support Operations documentation page for Pagerduty change manageme
 canonical_path: "/handbook/support/readiness/operations/docs/pagerduty/change_management"
 ---
 
+<sup>*Introduced via [support-team-meta#4077](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4077)*</sup>
+
 ## Schedule changes
 
 **Note** This only applies for the non-shadow schedules. For changing shadow

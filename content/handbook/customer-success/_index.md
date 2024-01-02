@@ -133,7 +133,7 @@ Visit [this page](/handbook/customer-success/csm/gainsight/) for more informatio
 
 ### Dogfooding
 
-Outside of Engineering the Customer Success team has the largest concentration of tooling development capability. The team has unique needs that can't always be solved by GitLab's single [DevOps platform](/solutions/devops-platform/). However, it is important to [dogfood](/handbook/values/#dogfooding) and avoid [dogfooding anti-patterns](https://about.gitlab.com/handbook/engineering/development/principles/#dogfooding-antipatterns). As a result the [Product organization heavily weights internal customers](/handbook/values/#dogfooding) when considering prioritization. If you are considering building tooling in support of Customer Success priorities outside of GitLab, please follow the [dogfooding process](/handbook/values/#dogfooding).
+Outside of Engineering the Customer Success team has the largest concentration of tooling development capability. The team has unique needs that can't always be solved by GitLab's single [DevOps platform](/solutions/devops-platform/). However, it is important to [dogfood](/handbook/values/#dogfooding) and avoid [dogfooding anti-patterns](/handbook/engineering/development/principles/#dogfooding-antipatterns). As a result the [Product organization heavily weights internal customers](/handbook/values/#dogfooding) when considering prioritization. If you are considering building tooling in support of Customer Success priorities outside of GitLab, please follow the [dogfooding process](/handbook/values/#dogfooding).
 
 ### Customer Success AWS Test Account
 
@@ -180,7 +180,7 @@ Customer Success team members maintain a [FAQ](/handbook/customer-success/faq/) 
 - [Sales Skills Best Practices](/handbook/sales/training/)
 - [Sales Discovery Questions](/handbook/sales/qualification-questions/)
 - [EE Product Qualification Questions](/handbook/sales/qualification-questions/)
-- [GitLab Positioning](https://about.gitlab.com/handbook/positioning-faq/)
+- [GitLab Positioning](/handbook/positioning-faq/)
 - [FAQ from prospects](/handbook/sales/faq-from-prospects/)
 - [Client Use Cases](/handbook/use-cases/)
 - [Proof of Value Guidelines](/handbook/customer-success/solutions-architects/tools-and-resources/pov)

@@ -302,7 +302,7 @@ In some cases, it may be more appropriate and [efficient](/handbook/values/#bori
 
 - Soliciting feedback (e.g. gathering community input on a proposal)
 - Explaining upcoming or ongoing changes to GitLab (**not** breaking changes, changes which require users to take action, or otherwise sensitive)
-- Sharing updates on a live, ongoing incident (this would be owned by the [Communications Manager on Call](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#communications-manager-on-call-cmoc-responsibilities))
+- Sharing updates on a live, ongoing incident (this would be owned by the [Communications Manager on Call](/handbook/engineering/infrastructure/incident-management/#communications-manager-on-call-cmoc-responsibilities))
 
 Using a public issue has a few advantages:
 

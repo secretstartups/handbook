@@ -6,7 +6,7 @@ description: "Provides a general overview of some of the limits applied exclusiv
 
 ## Overview
 
-[Infrastructure team](https://about.gitlab.com/handbook/engineering/infrastructure/) is responsible for driving the evolution of GitLab.com. They control and monitor our biggest GitLab instance.
+[Infrastructure team](/handbook/engineering/infrastructure/) is responsible for driving the evolution of GitLab.com. They control and monitor our biggest GitLab instance.
 
 GitLab.com has certain customizations specific to it. These customization are  managed through the [chef-repo](https://gitlab.com/gitlab-com/gl-infra/chef-repo)(internal).
 

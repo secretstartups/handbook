@@ -51,7 +51,7 @@ Established Projects are those that have proven their value, are mature, and are
     - In the General settings, find and expand the "Badges" section.
     - Enter "Maintainers" as the badge name.
     - Provide the link to the team page in the handbook. This should be the team-specific page that lists the team Slack handle, team members, and board details.
-    - Use a custom badge image URL structured as suggested: `https://img.shields.io/badge/maintained_by-{{team_name}}-blue`. Replace `{{team_name}}` with the appropriate test-platform [team name](https://handbook.gitlab.com/handbook/engineering/infrastructure/test-platform/#engage-with-us).
+    - Use a custom badge image URL structured as suggested: `https://img.shields.io/badge/maintained_by-{{team_name}}-blue`. Replace `{{team_name}}` with the appropriate test-platform [team name](/handbook/engineering/infrastructure/test-platform/#engage-with-us).
     - After filling in the details, select "Add badge" to create the maintainer badge.
     - If there are multiple maintainers, create separate maintainer badges 
   - Adhere to [GitLab's code of conduct and privacy policies](https://about.gitlab.com/community/contribute/code-of-conduct/).
@@ -121,7 +121,7 @@ frequency that is right for you.
 
 Our sub-department's work can span over 10k+ issues hence as a result, we have specific team boards for the 3 teams in Test Platform Sub-department.
 
-### Test and Tools Infrastrcuture
+### Test and Tools Infrastructure
 
 [This board](https://gitlab.com/groups/gitlab-org/-/boards/425899) shows the current ownership of workload / issues related to test tooling and test infrastructure needs.
 

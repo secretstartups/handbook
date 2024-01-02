@@ -92,7 +92,7 @@ The following links are related to administrative tasks, mainly for self-managed
 
 ### Architecture
 
-Documentation about the current architecture or any significant changes to it. The latter usually come in the form of an [Architecture Blueprint](https://about.gitlab.com/handbook/engineering/architecture/workflow/):
+Documentation about the current architecture or any significant changes to it. The latter usually come in the form of an [Architecture Blueprint](/handbook/engineering/architecture/workflow/):
 
 * [Container Registry Metadata Database](https://docs.gitlab.com/ee/architecture/blueprints/container_registry_metadata_database/) - Blueprint for the architecture change to move metadata from the storage backend into a database.
 

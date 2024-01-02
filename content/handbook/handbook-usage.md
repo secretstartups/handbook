@@ -123,7 +123,7 @@ Preference contributable diagrams over uploading images or other less contributa
 
 ### Editing the handbook
 
-Strongly consider learning how to edit the [handbook using git](https://about.gitlab.com/handbook/git-page-update) and/or via [the web IDE](https://about.gitlab.com/handbook/git-page-update/#webide-using-the-browser).
+Strongly consider learning how to edit the [handbook using git](https://about.gitlab.com/handbook/git-page-update) and/or via [the web IDE](/handbook/git-page-update/#webide-using-the-browser).
 Please read through the [Writing Style Guidelines](/handbook/communication/#writing-style-guidelines) before contributing.
 
 #### Fine points
@@ -226,7 +226,7 @@ All team members will have this added to their Okta access when they join the co
 
 The handbook is a living document and we'll occasionally need to change URLs or move pages. This is [the process Growth Marketing uses to set up and manage redirects](/handbook/marketing/inbound-marketing/search-marketing/#request-an-aboutgitlabcom-redirect) for about.gitlab.com.
 
-When you rename a file/URL please remember to add a redirect to [`redirects.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/redirects.yml) by [following this process](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/redirects_on_about_gitlab_com.md). You'll also want to ensure you find/replace all instances of the old URL/anchor with the new one, which can be accomplished using this [practical handbook edits example](https://about.gitlab.com/handbook/practical-handbook-edits/#find-and-replace-a-string-in-all-matching-files).
+When you rename a file/URL please remember to add a redirect to [`redirects.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/redirects.yml) by [following this process](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/redirects_on_about_gitlab_com.md). You'll also want to ensure you find/replace all instances of the old URL/anchor with the new one, which can be accomplished using this [practical handbook edits example](/handbook/practical-handbook-edits/#find-and-replace-a-string-in-all-matching-files).
 
 ## Management
 

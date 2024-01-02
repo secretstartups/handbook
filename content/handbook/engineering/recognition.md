@@ -63,7 +63,7 @@ Categories are reevaluated by CTO leadership and changed as necessary.
 
 Considerations include:
 
-1. The team member operates within GitLab and in their particular area of achievement in concordance with [GitLab Values](https://handbook.gitlab.com/handbook/values/)
+1. The team member operates within GitLab and in their particular area of achievement in concordance with [GitLab Values](/handbook/values/)
 1. The team member has not won a Quarterly Achiever award within the current fiscal year
 
 ### Engineering Quarterly Achievers Process and Timeline

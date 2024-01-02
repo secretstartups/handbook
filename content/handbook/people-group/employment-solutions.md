@@ -162,7 +162,7 @@ Each year a spreadsheet with the project details and hours logged against the wo
 
 ## Engineering internships
 
-Engineering is currently hiring interns. The [engineering internships handbook page](https://about.gitlab.com/handbook/engineering/internships/) has more information on this.
+Engineering is currently hiring interns. The [engineering internships handbook page](/handbook/engineering/internships/) has more information on this.
 
 Interships require a fixed term contract during the internship, which is not possible in all countries.
 

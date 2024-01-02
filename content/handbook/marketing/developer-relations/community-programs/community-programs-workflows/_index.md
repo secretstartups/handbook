@@ -45,7 +45,7 @@ The application to GitLab for Startups is [a Marketo form](/handbook/marketing/d
 The verification process differs by program.
 See these handbook pages for more detail:
 
-- [GitLab for Education workflows](https://handbook.gitlab.com/handbook/marketing/developer-relations/community-programs/community-programs-workflows/edu-program-workflows)
+- [GitLab for Education workflows](/handbook/marketing/developer-relations/community-programs/community-programs-workflows/edu-program-workflows)
 - [GitLab for Open Source workflows](/handbook/marketing/developer-relations/community-programs/automated-community-programs/oss-program-verification/)
 - [GitLab for Startups workflows](/handbook/marketing/developer-relations/community-programs/community-programs-workflows/startups-program-workflows)
 

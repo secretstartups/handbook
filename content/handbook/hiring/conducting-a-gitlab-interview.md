@@ -201,7 +201,7 @@ The scoring definitions for GitLab's Engineering Division are defined differentl
   - The candidate demonstrated clear opposition to either our Collaboration, Diversity, or Results values
   - The candidate demonstrated unwillingness to learn our Efficiency, Iteration, or Transparency values
 
-More info on [engineering hiring practices](https://about.gitlab.com/handbook/engineering/#hiring-practices).
+More info on [engineering hiring practices](/handbook/engineering/#hiring-practices).
 
 ##### Level Categories in Engineering Scorecards
 

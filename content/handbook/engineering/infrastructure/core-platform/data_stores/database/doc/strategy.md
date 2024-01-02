@@ -33,8 +33,8 @@ We are intentionally requiring that the data for GitLab lives in a single data-s
 
 ##### Why a single database?
 
-- Our [company strategy](https://about.gitlab.com/company/strategy/) is built around the [advantages of a single application](/handbook/product/single-application/).
-  - Sid describes the importance of our single database strategy and the [Flywheel with two turbos](https://about.gitlab.com/company/strategy/#flywheel-with-two-turbos) in [this video](https://youtu.be/TGulb4sGJ9g?t=877).
+- Our [company strategy](/handbook/company/strategy/) is built around the [advantages of a single application](/handbook/product/single-application/).
+  - Sid describes the importance of our single database strategy and the [Flywheel with two turbos](/handbook/company/strategy/#flywheel-with-two-turbos) in [this video](https://youtu.be/TGulb4sGJ9g?t=877).
 - Our current efforts around database scalability are focusing on database sharding as a solution.
 
 ##### The trouble with microservices

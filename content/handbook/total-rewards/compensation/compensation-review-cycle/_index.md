@@ -1,6 +1,5 @@
 ---
 title: Annual Compensation Review Cycle
-description: "On this page, we explain how we carry out the Annual Compensation Review Cycle."
 ---
 
 ## Introduction

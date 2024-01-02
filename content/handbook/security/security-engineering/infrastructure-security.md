@@ -7,7 +7,7 @@ description: "GitLab's Infrastructure Security provides security oversight of th
 
 ### Mission
 
-GitLab's Infrastructure Security team is responsible for the planning, execution, and support of proactive initiatives specific to the security of GitLab.com. Its core mission is to become [Infrastructure Department](https://about.gitlab.com/handbook/engineering/infrastructure/)'s stable counterpart in Security. This is achieved by sharing the SRE view of GitLab.com, but with a strong security focus. Infrastructure Security's engagements take place in the form of infrastructure change reviews, SaaS infrastructure access & permissions models, cloud security best practices, operating system security, security monitoring at the host and container level, vulnerability management, and patching policies.
+GitLab's Infrastructure Security team is responsible for the planning, execution, and support of proactive initiatives specific to the security of GitLab.com. Its core mission is to become [Infrastructure Department](/handbook/engineering/infrastructure/)'s stable counterpart in Security. This is achieved by sharing the SRE view of GitLab.com, but with a strong security focus. Infrastructure Security's engagements take place in the form of infrastructure change reviews, SaaS infrastructure access & permissions models, cloud security best practices, operating system security, security monitoring at the host and container level, vulnerability management, and patching policies.
 
 Further details can be found in the [job family description]({{< ref "/job-families/security/infrastructure-security" >}}).
 
@@ -21,7 +21,7 @@ The team's mission overlaps with that of several other teams. That being said, i
 
 #### Infrastructure Security & Infrastructure Department
 
-The [Infrastructure Department](https://about.gitlab.com/handbook/engineering/infrastructure/) is focused on availability, reliability, performance, and scalability efforts of GitLab.com. The fast pace that's intrinsic to running a rapidly growing SaaS can often prove challenging to secure - operational issues, technical & security debt, rapid implementation of new technologies, all present serious security risks that could impact the success of the SaaS in the long run. This is where Infrastructure Security comes into play by serving the Infrastructure Department in 2 specific modes:
+The [Infrastructure Department](/handbook/engineering/infrastructure/) is focused on availability, reliability, performance, and scalability efforts of GitLab.com. The fast pace that's intrinsic to running a rapidly growing SaaS can often prove challenging to secure - operational issues, technical & security debt, rapid implementation of new technologies, all present serious security risks that could impact the success of the SaaS in the long run. This is where Infrastructure Security comes into play by serving the Infrastructure Department in 2 specific modes:
 
 - As an **internal consultancy** to help review and challenge decisions from a security standpoint (i.e. how to improve the security of k8s, what to log, what approach to take to access production environments in a secure and auditable way ...)
 - As an **external enabler** to simplify security nuances for all the teams and provide smooth engagement to make it easier for all the teams to be better at Infrastructure Security.

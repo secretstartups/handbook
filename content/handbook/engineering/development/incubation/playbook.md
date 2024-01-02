@@ -15,7 +15,7 @@ This playbook contains useful tips and tricks an Incubation Engineer may employ 
 
 ### Structuring each Project page
 
-Each Incubation Engineering project has its own handbook page which is linked from our [list of current projects](https://about.gitlab.com/handbook/engineering/development/incubation/#current-focus).
+Each Incubation Engineering project has its own handbook page which is linked from our [list of current projects](/handbook/engineering/development/incubation/#current-focus).
 
 The following sections are should be included:
 
@@ -35,7 +35,7 @@ What is the iterative approach that we'll be taking for each project?  How do we
 
 Outline our marketing strategy.  How do we intend to find early adopters, build communities, and get potential users interested in our projects?
 
-If you're building a feature that should have a distinct name then please reach out to #marketing for assistance, and take into account our [Product and Feature Naming Guidelines](https://about.gitlab.com/handbook/product/product-principles/#product-and-feature-naming-guidelines).
+If you're building a feature that should have a distinct name then please reach out to #marketing for assistance, and take into account our [Product and Feature Naming Guidelines](/handbook/product/product-principles/#product-and-feature-naming-guidelines).
 
 #### Jobs to be Done (JTBD)
 
@@ -48,7 +48,7 @@ Each SEG should add a section to their handbook page and create a table with 3 t
 * A link to a confidential research issue
 * A link to a public roadmap issue or epic
 
-**Job statements** should be written from the perspective of the user and describe the problem they are trying to solve. As in "When [situation], I want to [job], so I can [outcome]." See the JTBD page in the UX handbook for [guidance on writing job statements](https://about.gitlab.com/handbook/product/ux/jobs-to-be-done/#how-to-write-a-jtbd).
+**Job statements** should be written from the perspective of the user and describe the problem they are trying to solve. As in "When [situation], I want to [job], so I can [outcome]." See the JTBD page in the UX handbook for [guidance on writing job statements](/handbook/product/ux/jobs-to-be-done/#how-to-write-a-jtbd).
 
 The **Maturity Rating** should align with how maturity is measured in GitLab (minimal, viable, etc.), and should be measured using the same criteria as [described in the Product handbook](https://about.gitlab.com/direction/maturity/).
 
@@ -56,12 +56,12 @@ The **Research Issue** should be a confidental issue in the SEG project with inf
 
 The **Roadmap Issue** (or Epic) should be a public resource for the SEG to communicate the planned roadmap and current state of development.
 
-An example of this structure can be seen on the [Mobile DevOps Handbook Page](https://about.gitlab.com/handbook/engineering/development/incubation/mobile-devops/#jobs-to-be-done).
+An example of this structure can be seen on the [Mobile DevOps Handbook Page](/handbook/engineering/development/incubation/mobile-devops/#jobs-to-be-done).
 
 
 #### GitLab Product Development Group affinity
 
-List the the [product development groups](https://about.gitlab.com/handbook/product/categories/), if any, that the SEG project may impact as a link to the appropriate handbook page. In the early stages this may not be known and may change as the SEG project evolves, please update when there are changes.
+List the the [product development groups](/handbook/product/categories/), if any, that the SEG project may impact as a link to the appropriate handbook page. In the early stages this may not be known and may change as the SEG project evolves, please update when there are changes.
 
 #### References
 
@@ -88,7 +88,7 @@ In order to maintain consistency, the process below should be followed when star
 
 Every 2 weeks a meeting between the CEO and VP of Incubation Engineering is scheduled. In advance of that meeting
 Incubation Engineering team members are expected to showcase their work in a short video. Beside the
-[YouTube guidelines](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/), there are some
+[YouTube guidelines](/handbook/marketing/marketing-operations/youtube/), there are some
 guidelines for said video:
 
 1. Add your video to the playlists, and remove your older video from latest
@@ -135,11 +135,11 @@ Additionally, Field Marketing has active Slack channels where events are planned
 
 ### User and customer conversations
 
-User and customer conversations are considered to be an [important part of product development](https://www.svpg.com/pledge-to-customers/), and they are equally important when it comes to Incubation Engineering projects. Direct conversations with users will provide insights into their perspectives, expectations, and behaviors that would not be possible otherwise. Incubation Engineering team members should look for every opportunity to discuss their projects with users and leverage what they've learned to inform [JTBD](https://about.gitlab.com/handbook/product/ux/jobs-to-be-done/) and influence product direction.
+User and customer conversations are considered to be an [important part of product development](https://www.svpg.com/pledge-to-customers/), and they are equally important when it comes to Incubation Engineering projects. Direct conversations with users will provide insights into their perspectives, expectations, and behaviors that would not be possible otherwise. Incubation Engineering team members should look for every opportunity to discuss their projects with users and leverage what they've learned to inform [JTBD](/handbook/product/ux/jobs-to-be-done/) and influence product direction.
 
 Incubation Engineering team members should aspire to be involved in at least a couple of conversations each month. These conversations can take many forms - from direct conversations, to joining customer calls with folks in other departments, to conversations at a meetup or conference.
 
-Take advantage of GitLab resources with guidance on how to [facilitate customer interviews](https://about.gitlab.com/handbook/product/ux/ux-research/facilitating-user-interviews/) and look for opportunities to join calls with other product leaders to learn about their approach.
+Take advantage of GitLab resources with guidance on how to [facilitate customer interviews](/handbook/product/ux/ux-research/facilitating-user-interviews/) and look for opportunities to join calls with other product leaders to learn about their approach.
 
 For Incubation Engineering team members not familiar with customer conversations, it is perfectly okay to simply _shadow_ calls and to say nothing throughout the call. Introduce yourself if invited, and help GitLab team members by keeping notes.
 
@@ -170,30 +170,30 @@ For UX support, see how Product Designers [engage with Single Engineer Groups (S
 
 ### Releasing Features
 
-When releasing features, ensure you engage the [Application Security team](https://about.gitlab.com/handbook/security/security-engineering/application-security/stable-counterparts.html) if your feature matches the [guidelines of what should be reviewed](https://about.gitlab.com/handbook/security/security-engineering/application-security/appsec-reviews.html#what-should-be-reviewed), and follow the [guidelines for documentation](https://about.gitlab.com/handbook/product/ux/technical-writing/workflow/#documentation-for-a-product-change).
+When releasing features, ensure you engage the [Application Security team](/handbook/security/security-engineering/application-security/stable-counterparts.html) if your feature matches the [guidelines of what should be reviewed](/handbook/security/security-engineering/application-security/appsec-reviews.html#what-should-be-reviewed), and follow the [guidelines for documentation](/handbook/product/ux/technical-writing/workflow/#documentation-for-a-product-change).
 
 ### Write a Release Post
 
 Once you expect your publicly visible feature to be in the
-next release, it's time to write a [release post](https://about.gitlab.com/handbook/marketing/blog/release-posts/). Start this process as early as
+next release, it's time to write a [release post](/handbook/marketing/blog/release-posts/). Start this process as early as
 possible, it's easier to move it to the next review cycle than to rush the
 process.
 
 Due to the SEG-nature of our group the process is slightly different from
 the default. As you wear both the Engineer's and PM's hats, the process is
 faster, but you'll also lack a second pair of eyes. Check out the [PM
-Contributors](https://about.gitlab.com/handbook/marketing/blog/release-posts/#pm-contributors)
+Contributors](/handbook/marketing/blog/release-posts/#pm-contributors)
 section of the release post Handbook page for the default process. Here is a
 Incubation-adjusted TL;DR:
 
 1. If you created a feature issue that used the [feature issue template]
    (https://about.gitlab.com/handbook/product/product-processes/#feature-templates),
    use the [release post item generator](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/bin/release-post-item)
-2. Alternatively, create your [Release post MR manually](https://about.gitlab.com/handbook/marketing/blog/release-posts/#option-2-manual-mr-creation)
+2. Alternatively, create your [Release post MR manually](/handbook/marketing/blog/release-posts/#option-2-manual-mr-creation)
 3. Go through the "PM release post item checklist". Note that in Incubation
    Engineering **you act as both the PM and EM**.
 4. The only required reviewer is the Technical Writer for the Stage/Group your
-   feature is located in. See the [Tech Writer Assignments](https://about.gitlab.com/handbook/product/ux/technical-writing/#designated-technical-writers)
+   feature is located in. See the [Tech Writer Assignments](/handbook/product/ux/technical-writing/#designated-technical-writers)
    to find out who that is.
 5. Other Reviewers are optional, but it's recommended to add the PM for the
    group of the feature for visibility.
@@ -246,4 +246,4 @@ A more successful strategy is to create a Google Form without too many freetext 
 Polywork embeds Google Forms, so the users don't have to leave the site.
 
 If you ask for contact details for follow up questions, you have a set of recruits that may be more open to follow up in-person interviews if needed.
- (Note: Contact details are PII data. Do not use it beyond the usecase indicated on the form, do not save it elsewhere and delete immediately after use. Refer to our [Privacy Page](https://about.gitlab.com/handbook/legal/privacy/) for details)
+ (Note: Contact details are PII data. Do not use it beyond the usecase indicated on the form, do not save it elsewhere and delete immediately after use. Refer to our [Privacy Page](/handbook/legal/privacy/) for details)

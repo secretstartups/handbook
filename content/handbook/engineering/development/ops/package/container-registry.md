@@ -5,7 +5,7 @@ title: Package:Container Registry Group
 ## The Team
 
 The Container Registry is part of the GitLab [Package
-stage](/handbook/engineering/development/ops/package/), which integrates with [GitLab's CI/CD product](/direction/ops/).
+stage](/handbook/engineering/development/ops/package/), which integrates with [GitLab's CI/CD product](https://about.gitlab.com/direction/ops/).
 
 ## Who We Are
 
@@ -46,7 +46,7 @@ The DRI for a given project can be identified by looking at the corresponding ep
 ```md
 ## Owners
 
-* Team: [Container Registry](https://about.gitlab.com/handbook/engineering/development/ops/package/container-registry/)
+* Team: [Container Registry](/handbook/engineering/development/ops/package/container-registry/)
 * Most appropriate slack channel to reach out to: `#g_container-registry`
 * Best individual to reach out to: <!-- GitLab handle of the DRI, or "TBD" if none has been assigned yet -->
 * PM: @trizzi
@@ -61,7 +61,7 @@ Additionally, we maintain a list of active projects and the assigned DRI on this
 
 We use quarterly Objectives and Key Results as a tool to help us plan and measure how to achieve Key Performance Indicators (KPIs).
 
-Here is the [standard, company-wide process for OKRs](https://about.gitlab.com/company/okrs/)
+Here is the [standard, company-wide process for OKRs](/handbook/company/okrs/)
 
 ### Performance indicators
 
@@ -71,7 +71,7 @@ We measure the value we contribute by using [performance indicator metrics](/han
 
 ### What Are We Working On
 
-Here is a list of active projects and initiatives that we are currently working on, along with the corresponding [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/):
+Here is a list of active projects and initiatives that we are currently working on, along with the corresponding [DRI](/handbook/people-group/directly-responsible-individuals/):
 
 | Project                                                                                                                                        | DRI                                  | Backup DRI                            |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ------------------------------------- |

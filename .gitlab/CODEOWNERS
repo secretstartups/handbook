@@ -92,7 +92,7 @@
 /content/handbook/security/security-assurance/observation-remediation-procedure.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
 /content/handbook/security/security-operations/sirt/security-incident-communication-plan.md @joshlemos @jfuentes2 @gitlab-com/egroup @gitlab-com/handbook
 /content/handbook/security/security-operations/sirt/sec-incident-response.md @joshlemos @jfuentes2 @gitlab-com/egroup @gitlab-com/handbook
-/content/handbook/security/secops-oncall.md @joshlemos @jlongo_gitlab @jfuentes2 @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/security-operations/secops-oncall.md @joshlemos @jlongo_gitlab @jfuentes2 @gitlab-com/egroup @gitlab-com/handbook
 /content/handbook/security/security-assurance/governance/sec-training.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
 /content/handbook/security/security-assurance/security-risk/third-party-risk-management.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
 /content/handbook/security/token-management-standard.md @joshlemos @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
@@ -101,6 +101,11 @@
 /content/handbook/finance/expenses.md @brobins @gitlab-com/egroup @gitlab-com/handbook
 /content/handbook/security/security-assurance/dedicated-compliance/poam-deviation-request-procedure.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
 /content/handbook/security/security-assurance/control-health-effectiveness-rating.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/engineering/infrastructure/production/_index.md @marin @meks
+/content/handbook/engineering/infrastructure/change-management.md @marin @meks @joergheilig
+/content/handbook/engineering/infrastructure/database/disaster-recovery.md @marin @meks
+/content/handbook/engineering/infrastructure/network-security.md @marin @meks
+/content/handbook/engineering/infrastructure/production/architecture/ @marin @meks
 /content/handbook/security/physical-security-standard-for-company-assets.md @joshlemos @jlongo_gitlab @plafoucriere @gitlab-com/egroup @gitlab-com/handbook
 
 # These optional entries are for when no codeowner is found.
@@ -165,9 +170,170 @@
 /content/handbook/eba/ @chrisweber44
 
 ^[engineering]
-/content/handbook/engineering/ @akramer
+/content/handbook/engineering/ @joergheilig
 /content/job-families/engineering/ @joergheilig
 /content/job-families/engineering/incubation/ @bmarnane
+/content/handbook/engineering/cross-functional-prioritization.md @joergheilig @david
+/content/handbook/engineering/metrics/ @meks @lmai1 @rymai
+/content/handbook/engineering/open-source/ @rymai @meks @nick_vh
+/content/handbook/developer-onboarding.md @joergheilig
+/content/handbook/engineering/performance.md @timzallmann
+
+^[Development-department]
+/content/handbook/engineering/workflow/ @timzallmann @cdu1 @wayne @sgoldstein @dsatcher @m_gill @jeromezng
+/content/handbook/engineering/development/ @timzallmann @cdu1 @wayne @sgoldstein @dsatcher @m_gill @jeromezng
+/content/handbook/engineering/core-development.md @timzallmann @sgoldstein @m_gill @dsatcher
+/content/handbook/engineering/expansion-development.md @bmarnane @wayne @jeromezng @mray2020
+/content/handbook/engineering/development/ops/ @sgoldstein @cheryl.li @nicolewilliams
+/content/handbook/engineering/development/ops/monitor/respond/ @kbychu @francoisrose
+/content/handbook/engineering/development/ops/monitor/observability.md @nicholasklick @mappelman
+/content/handbook/engineering/development/ops/verify/ @cheryl.li @carolinesimpson @shampton @marknuzzo @nicolewilliams
+/content/handbook/engineering/development/ops/verify/pipeline-execution/ @carolinesimpson
+/content/handbook/engineering/development/ops/verify/pipeline-authoring/ @marknuzzo
+/content/handbook/engineering/development/ops/verify/runner/ @nicolewilliams
+/content/handbook/engineering/development/ops/verify/pipeline-security/ @shampton
+/content/handbook/engineering/development/ops/package/ @crystalpoole
+/content/handbook/engineering/development/ops/deploy/ @nmezzopera
+/content/handbook/engineering/development/analytics/analytics-instrumentation/ @bastirehm @timzallmann
+/content/handbook/engineering/development/analytics/analytics-instrumentation/gitlab_com_performance_dashboard.md @bastirehm
+/content/handbook/engineering/development/database.md @alexives
+/content/handbook/engineering/development/dev/ @timzallmann
+/content/handbook/engineering/development/dev/training/ic-to-manager.md @dsatcher
+/content/handbook/engineering/development/dev/create/ @dsatcher
+/content/handbook/engineering/development/dev/create/ide/ @oregand
+/content/handbook/engineering/development/dev/plan/plan-fe/ @donaldcook @timzallmann @johnhope
+/content/handbook/engineering/development/dev/manage/ @wortschi @m_gill @mksionek
+/content/handbook/engineering/development/dev/manage/foundations/ @samdbeckham @tauriedavis
+/content/handbook/engineering/development/dev/manage/import-and-integrate/ @wortschi
+/content/handbook/engineering/development/dev/plan/optimize.md @blabuschagne
+/content/handbook/engineering/development/dev/plan/ @donaldcook @timzallmann @johnhope @kushalpandya @blabuschagne
+/content/handbook/engineering/development/dev/plan/product-planning.md @kushalpandya
+/content/handbook/engineering/development/dev/plan/knowledge.md @johnhope
+/content/handbook/engineering/development/dev/plan/plan-project-management-be.md @donaldcook
+/content/handbook/engineering/development/fulfillment/ @jeromezng @jameslopez @csouthard @rhardarson @isandin @shreyasagarwal @tgolubeva @courtmeddaugh @ofernandez2 @alex_martin @ppalanikumar
+/content/handbook/engineering/development/fulfillment/utilization/ @csouthard @alex_martin
+/content/handbook/engineering/development/fulfillment/provision.md @isandin @courtmeddaugh
+/content/handbook/engineering/development/fulfillment/fulfillment-platform.md @jameslopez @ofernandez2
+/content/handbook/engineering/development/fulfillment/purchase.md @shreyasagarwal @ppalanikumar
+/content/handbook/engineering/development/growth/ @wayne @pcalder @kniechajewicz
+/content/handbook/engineering/development/data-science/ @mray2020 @bmarnane
+/content/handbook/engineering/development/data-science/ai-framework.md @bastirehm @m_gill @timzallmann
+/content/handbook/engineering/development/sec/ @wayne @twoodham @pcalder
+/content/handbook/engineering/development/sec/govern/ @adil.farrukh @alan @jayswain @kniechajewicz @nmccorrison @nrosandich @pcalder
+/content/handbook/engineering/development/sec/govern/anti-abuse.md @jayswain
+/content/handbook/engineering/development/sec/govern/authorization.md @jayswain
+/content/handbook/engineering/development/sec/govern/authentication.md @adil.farrukh
+/content/handbook/engineering/development/sec/govern/compliance.md @nrosandich
+/content/handbook/engineering/development/sec/govern/security-policies/ @alan
+/content/handbook/engineering/development/sec/govern/threat-insights.md @kniechajewicz @nmccorrison
+/content/handbook/engineering/development/sec/secure/ @wayne @twoodham
+/content/handbook/engineering/development/sec/secure/composition-analysis.md @thiagocsf @gonzoyumo @fcatteau
+/content/handbook/engineering/development/sec/secure/vulnerability-research/ @wayne @idawson
+/content/handbook/engineering/frontend/ @timzallmann
+/content/handbook/engineering/development/director-shadow-program.md @wayne
+
+^[Infrastructure-Quality-department]
+/content/handbook/engineering/infrastructure-quality.md @marin @meks @cdeleon_gitlab @dcroft @vincywilson
+
+^[Infrastructure-department]
+/content/handbook/engineering/infrastructure/ @cdu1 @cdeleon_gitlab @dcroft @marin @meks @vincywilson
+/content/handbook/engineering/infrastructure/performance-indicators.md @cdu1 @cdeleon_gitlab @dcroft @marin @meks @vincywilson @rymai
+/content/handbook/engineering/infrastructure/team/scalability/ @rnienaber @marin
+/content/handbook/engineering/infrastructure/team/delivery/ @amyphillips @marin @mbursi
+/content/handbook/engineering/infrastructure/team/gitlab-dedicated/ @o-lluch @marin
+/content/handbook/engineering/infrastructure/team/gitlab-dedicated/us-public-sector-services.md @sdumesnil @marin
+/content/handbook/engineering/infrastructure/team/gitlab-dedicated/switchboard.md @ashiel @marin
+/content/handbook/engineering/infrastructure/platforms/ @marin @rnienaber @amyphillips
+/content/handbook/engineering/infrastructure/team/reliability/ @dawsmith @kwanyangu @meks
+/content/handbook/engineering/infrastructure/incident-management/ @dawsmith @kwanyangu @meks
+/content/handbook/engineering/infrastructure/emergency-change-processes.md @marin @meks
+/content/handbook/engineering/infrastructure/service-maturity-model.md @rnienaber @marin @meks
+/content/handbook/engineering/monitoring/ @cdu1 @marin @meks
+/content/handbook/engineering/releases/ @amyphillips @marin @mbursi
+/content/handbook/engineering/deployments-and-releases/ @amyphillips @marin @mbursi
+/content/handbook/engineering/infrastructure/production/running-on-kubernetes.md @cdu1 @marin @meks
+/content/handbook/engineering/infrastructure/team/dei.md @andrewn
+/content/handbook/engineering/careers/matrix/infrastructure @marin @kwanyangu @meks @dawsmith @amyphillips @rnienaber  @mbursi
+/content/handbook/engineering/error-budgets/ @marin @rnienaber
+/content/handbook/engineering/infrastructure/capacity-planning/ @andrewn @gitlab-org/scalability
+/content/handbook/engineering/infrastructure/core-platform/ @cdu1
+/content/handbook/engineering/infrastructure/core-platform/systems/distribution/ @cdu1 @plu8
+/content/handbook/engineering/infrastructure/core-platform/systems/geo/ @juan-silva
+/content/handbook/engineering/infrastructure/core-platform/systems/gitaly.md @andrashorvath @jcaigitlab
+/content/handbook/engineering/infrastructure/core-platform/systems/cloud-connector/ @pjphillips
+/content/handbook/engineering/infrastructure/core-platform/data_stores/search/ @changzhengliu
+/content/handbook/engineering/infrastructure/core-platform/data_stores/database/ @alexives
+/content/handbook/engineering/infrastructure/core-platform/data_stores/tenant-scale.md @arturoherrero
+
+^[Quality-department]
+/content/handbook/engineering/automation.md @meks @rymai
+/content/handbook/engineering/infrastructure/test-platform/onboarding/ @ghosh-abhinaba @kkolpakova @ksvoboda @vincywilson
+/content/handbook/engineering/infrastructure/test-platform/ @ghosh-abhinaba @kkolpakova @ksvoboda @meks @vincywilson
+/content/handbook/engineering/infrastructure/test-platform/quad-planning/ @ghosh-abhinaba @kkolpakova @ksvoboda @vincywilson
+/content/handbook/engineering/infrastructure/test-platform/test-and-tools-infrastructure-team.md @ghosh-abhinaba
+/content/handbook/engineering/infrastructure/test-platform/test-engineering-team.md @kkolpakova
+/content/handbook/engineering/infrastructure/test-platform/self-managed-platform-team/ @ksvoboda
+/content/handbook/engineering/quality/engineering-productivity/ @meks @dcroft @jennli @ddieulivol @alinamihaila @godfat-gitlab @nao.hashizume @rymai @splattael
+/content/handbook/engineering/quality/engineering-analytics.md @meks @cdeleon_gitlab @lmai1
+
+^[Incubation-department]
+/content/handbook/engineering/development/incubation/ @bmarnane
+/content/handbook/engineering/development/incubation/mlops/ @bmarnane @eduardobonet
+/content/handbook/engineering/development/incubation/mobile-devops/ @bmarnane @darbyfrey
+/content/handbook/engineering/development/incubation/cloud-seed.md @bmarnane @sri19
+/content/handbook/engineering/development/incubation/jamstack/ @bmarnane
+/content/handbook/engineering/development/incubation/ai-assist.md @bmarnane
+/content/handbook/engineering/development/incubation/real-time-collaboration/ @bmarnane
+/content/handbook/engineering/development/incubation/okr.md @bmarnane @akotte
+/content/handbook/engineering/development/incubation/server-runtime/ @bmarnane
+/content/handbook/engineering/development/incubation/no-code.md @bmarnane
+/content/handbook/engineering/development/incubation/service-desk.md @bmarnane @msaleiko
+/content/handbook/engineering/development/incubation/breach-and-attack-simulation.md @bmarnane @erran
+/content/handbook/engineering/development/incubation/airflow.md @bmarnane
+
+^[Engineering-READMEs]
+/content/handbook/engineering/readmes/andras-horvath.md @andrashorvath
+/content/handbook/engineering/readmes/bartek-marnane.md @bmarnane
+/content/handbook/engineering/readmes/ben-king.md @benjaminking
+/content/handbook/engineering/readmes/craig-miskell.md @cmiskell
+/content/handbook/engineering/readmes/cynthia-ng.md @cynthia
+/content/handbook/engineering/readmes/emily-chang.md @emchang
+/content/handbook/engineering/readmes/izzy-fee.md @izzyfee
+/content/handbook/engineering/readmes/james-lopes.md @JamesRLopes
+/content/handbook/engineering/readmes/jane-gianoutsos.md @jgianoutsos
+/content/handbook/engineering/readmes/juan-silva.md @juan-silva
+/content/handbook/engineering/readmes/kamil-trzcinski.md @ayufan
+/content/handbook/engineering/readmes/katrin-leinweber.md @katrinleinweber
+/content/handbook/engineering/readmes/lee-matos.md @lbot
+/content/handbook/engineering/readmes/lyle-kozloff.md @lyle
+/content/handbook/engineering/readmes/marin-jankovski.md @marin
+/content/handbook/engineering/readmes/mark-nuzzo.md @marknuzzo
+/content/handbook/engineering/readmes/matt-nohr.md @mnohr
+/content/handbook/engineering/readmes/max-woolf.md @mwoolf
+/content/handbook/engineering/readmes/mike-dunninger.md @mdunninger
+/content/handbook/engineering/readmes/mike-lockhart.md @mlockhart
+/content/handbook/engineering/readmes/mlunoe.md @mlunoe
+/content/handbook/engineering/readmes/rebecca-spainhower.md @rspainhower
+/content/handbook/engineering/readmes/ronnie-alfaro.md @ralfaro
+/content/handbook/engineering/readmes/savas-vedova.md @svedova
+/content/handbook/engineering/readmes/sean-carroll.md @sean_carroll
+/content/handbook/engineering/readmes/thong-kuah.md @tkuah
+/content/handbook/engineering/readmes/wayne-haber.md @wayne
+/content/handbook/engineering/readmes/nick-veenhof.md @nick_vh
+
+[SourceCode]
+/content/handbook/engineering/development/dev/create/source-code-be/ @sean_carroll @robotmay_gitlab @igor.drozdov @vyaklushin
+
+[CodeReview]
+/content/handbook/engineering/development/dev/create/code-review/ @phikai @kisha.mavryck @andr3
+/content/handbook/engineering/development/dev/create/code-review/backend/ @kisha.mavryck @kerrizor @marc_shaw @dskim_gitlab @garyh @patrickbajao
+/content/handbook/engineering/development/dev/create/code-review/frontend.md @andr3
+
+^[Code-Creation]
+/content/handbook/engineering/development/dev/create/code-creation.md @kbychu @mnohr
+
+^[Editor-Extensions]
+/content/handbook/engineering/development/dev/create/editor-extensions.md @phikai @francoisrose
 
 ^[finance]
 /content/handbook/finance/ @brobins
@@ -320,7 +486,7 @@
 
 ^[product]
 /content/handbook/product/ @david
-/content/handbook/product/product-processes/product-mgt-operations/board-deck-prep.md @natalie.pinto 
+/content/handbook/product/product-processes/product-mgt-operations/board-deck-prep.md @natalie.pinto
 /content/job-families/product/technical-writer.md @susantacker @dianalogan @kpaizee
 /content/job-families/product/product-design-management.md @vkarnes
 /content/job-families/product/product-designer.md @vkarnes

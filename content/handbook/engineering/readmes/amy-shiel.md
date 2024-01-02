@@ -18,7 +18,7 @@ Hi there. My current role is Engineering Manager on the Switchboard Team. We are
 
 ## How you can help me
 - **Feedback** 
-  - I love receiving feedback using the [Situation - Behavior - Impact Model (SBI)](https://about.gitlab.com/handbook/people-group/guidance-on-feedback/#s-b-i-model) but all feedback is greatly appreciated particularly in relation to async working style. GitLab is my first experience of working in an async fashion and feedback will accelerate my learning
+  - I love receiving feedback using the [Situation - Behavior - Impact Model (SBI)](/handbook/people-group/guidance-on-feedback/#s-b-i-model) but all feedback is greatly appreciated particularly in relation to async working style. GitLab is my first experience of working in an async fashion and feedback will accelerate my learning
 - **Inclusion** 
   - I appreciate context sharing and inclusion so please cc me / invite me / @ me where you think I should be included particularly when it involves Switchboard, Dedicated or Infrastructure
 

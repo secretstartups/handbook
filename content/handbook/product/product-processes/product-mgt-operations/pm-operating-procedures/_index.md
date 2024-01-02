@@ -113,7 +113,7 @@ At GitLab, we develop our product for self-managed as well as SaaS-hosted custom
 
 We call this the [Product Group](/handbook/company/team/structure/#product-groups) model. It is an extension of the classic quad concept at the leadership level and is currently comprised of Development, Quality, User Experience, Infrastructure, Product, and Security.
 
-The Product Group can be used to facilitate a [global optimization](/handbook/values/#global-optimization), including product-wide [technical debt](https://about.gitlab.com/handbook/engineering/workflow/#technical-debt).
+The Product Group can be used to facilitate a [global optimization](/handbook/values/#global-optimization), including product-wide [technical debt](/handbook/engineering/workflow/#technical-debt).
 
 ### Working with Product Management across the company
 
@@ -238,7 +238,7 @@ which must include delivering on our greater company strategy of [dual flywheels
 part of the product direction.
 To support contributions product managers may consider the following guidelines:
 
-1. Aim to review and respond to community contributions within 4 working days- see [review response SLO](https://about.gitlab.com/handbook/engineering/workflow/code-review/#review-response-slo).
+1. Aim to review and respond to community contributions within 4 working days- see [review response SLO](/handbook/engineering/workflow/code-review/#review-response-slo).
    Contributions for well-defined `~direction` or `%Backlog` issues will be prioritised.
 1. For contributions that impact user experience, following the [contribution guidelines](https://about.gitlab.com/community/contribute/),
    the Product Designer for the group should review the MR and provide feedback on the MR.

@@ -590,7 +590,7 @@ Next Steps: SDR chatters the BDR Assigned and lets them know you didn't find act
 **There is a Duplicate Account**  |  Chatter Sales Support and ask them to merge the accounts. The chatter should be on the account that is more active   |
 | **An Opp has moved into Stage 1 but has Incorrect Data**      |  Chatter your manager who will then reach out to someone in Sales Dev Operations  |
 | **Unclear Territory Assignment**   |  Chatter an AE from each of the potential territories   |
-| **Requesting SAO Credit on a Web Direct Opp**      |  Chatter Sales Dev Ops or the Director of Commercial Sales Development and [use this format](/handbook/marketing/sales-development/#how-do-i-request-sao-credit-on-a-web-direct-opportunity)   |
+| **Requesting SAO Credit on an Opp**      |  Chatter Sales Dev Ops or the Director of Commercial Sales Development and [use this format](/handbook/marketing/sales-development/#how-do-i-request-sao-credit-on-a-web-direct-opportunity)   |
 **Account is in Restricted Status**  |  Chatter the SAE and ask permission to reach out  |
 
 
@@ -620,7 +620,7 @@ When a territory moves from one BDR to another but the previous BDR remains with
     *   If an existing SFDC Large/Enterprise Customer account already exists, verify that the SFDC lead/prospect is not part of the existing GitLab subscription before working the lead by sending a short snippet like, "Hi XYZ, Thanks for reaching out. ABC company current has a GitLab subscription, are you currently using a GitLab license and if so, what version?". If they are, please follow the "Convert to Account" instructions above.
     *   Read the ZoomInfo description to check for **USA** PubSec indicators which will include words like the following in the description: County, City Of, State, University, College, Defense, Intelligence, Agency, Mission, Mission Critical, Mission Support, Speed to Mission, System Integrator, Contract Vehicle, Government Bid, Government Contract, Civilian, or Task Order.  **Canadian government leads get routed to the AMER commercial team.**
 4. Press **Find Duplicates**
-    *   SDRs/BDRs should use this screen to check to see if 1) the matched account is an “Actively Working” account that would cause the lead to need to be re-routed to the BDR Assigned or 2) whether there is a duplicate record that needs to be merged [Ensure you keep oldest `Initial Source`. See video here](https://handbook.gitlab.com/handbook/marketing/sales-development/#duplicate-lead-and-contact-videos) or 3) whether there is another lead at that company active in sequence.
+    *   SDRs/BDRs should use this screen to check to see if 1) the matched account is an “Actively Working” account that would cause the lead to need to be re-routed to the BDR Assigned or 2) whether there is a duplicate record that needs to be merged [Ensure you keep oldest `Initial Source`. See video here](/handbook/marketing/sales-development/#duplicate-lead-and-contact-videos) or 3) whether there is another lead at that company active in sequence.
         *   The lead owner will make sure to use search techniques that allow for the most accurate results. On the Find Duplicates screen, they will need to scroll to the `Matched Account` section to see if the BDR prospecting status is “Actively Working”. If so, they will need to transfer to BDR.
         *   If it is not an Actively Working account, then the next step is to scroll to the top to see if there are `Matched Leads` or `Matched Contacts` that are a match. If so, then our merging process here will need to be followed.
         *  The lead owner should also check the `Matched Opportunities` Section to see if there is an active Opportunity for the account be it SAE/AE-owned or Channel owned (`Resale Partner` last column) The lead owner should determine if this lead is related to any active opportunity and then pass along the lead if relevant.
@@ -790,7 +790,7 @@ There will be times when an SDR or BDR is working a prospect and, after connecti
 
 On the opportunity record in Salesforce, compose a new Chatter message that includes the following:
 1. Tag a member of the Operations Team (Ramona Elliott or Ed Bao) or the Director of Global Commercial Sales Development (Brian Tabbert). **Do not tag Sales Support Yourself** 
-2. Include a link to the record in Salesforce that shows your related two-way activity in the past 60 days. If your related activity is a phone call, you must have entered the details of the phone call into the Qualification Notes field on the lead record at the time of the call in order for it to be considered. Qualification Notes entered after the Web Direct opportunity has been created will not be considered for credit.
+2. Include a link to the record in Salesforce that shows your related two-way activity in the past 60 days. If your related activity is a phone call, you must have entered the details of the phone call into the Qualification Notes field on the lead record at the time of the call in order for it to be considered. Qualification Notes entered after the Web Direct opportunity has been created will not be considered for credit. If your related activity is a Zoom meeting, you should follow [our process for creating an opportunity](https://handbook.gitlab.com/handbook/marketing/sales-development/#when-do-i-create-an-opportunity).
 3. Explain how you influenced their decision to purchase GitLab (helped with evaluation, uncovered a need, provided value, etc)
 
 The Operations team and/or Director will review the information and decide whether SAO credit is warranted. If confirmed, they will Chatter Sales Support to add you to the opportunity. If rejected, they will communicate to you the reasoning for their decision.
@@ -1521,13 +1521,11 @@ Past Business Development Representatives have shared their best practice steps 
 
 ## Sales Development Organization Time Off
 
-While we have a "no ask, must tell" PTO policy we ask that, in accordance with the [Time Off Policy](/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off), you give your manager a heads up early of your intended time off so that they can help arrange cover for your tasks, if necessary. We want to help our team members being able to fully unplug from work during their PTO, while not having to worry about their workload or target attainment. Based on this, we have created this PTO Territory Planning Issue that you can use to strategize your work and be aligned to the GitLab value of being a [Manager of One](/handbook/leadership/#managers-of-one).
+In accordance with the [Time Off Policy](/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off), you need give your manager a heads up early of your intended time off so that they can help arrange cover for your tasks, if necessary.
 
-To help BDRs and SDRs who are on PTO please review [this video](https://www.youtube.com/watch?v=sDzeqbd0Jes) on how to sequence on behalf of your teammembers.
+ We want to help our team members being able to fully unplug from work during their PTO, while not having to worry about their workload or target attainment. Based on this, we have created this PTO Territory Planning Issue that you can use to strategize your work and be aligned to the GitLab value of being a [Manager of One](/handbook/leadership/#managers-of-one).
 
-Please also review [this video](https://www.youtube.com/watch?v=vsJBP4-WIBk&ab_channel=GitLabUnfiltered) on how to clone a teammates B1 or S1 lead view in order to sequence MQL leads for them.
-
-To log a PTO Territory Planning request, please go to the Issue list on the SDR GitLab project [here](https://gitlab.com/gitlab-com/marketing/sdr/-/issues/new#) and choose `PTO_Planning_Issue` from the `Description` drop-down list.
+To log a PTO Territory Planning request, please go to the Issue list on the SDR GitLab project [here](https://gitlab.com/gitlab-com/marketing/sdr/-/issues/new#) and choose `PTO_Coverage_Template` from the `Description` drop-down list.All of these requests are then managed through the [board here.](https://gitlab.com/gitlab-com/marketing/sales-development/-/boards/7220707) and all next steps and guidelines are on the issue description.
 
 ## Sales Development Org Announcement Process:
 

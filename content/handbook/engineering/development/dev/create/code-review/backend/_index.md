@@ -41,7 +41,7 @@ You can find our dashboards here:
 
 ## Team OKRs
 
-Objectives and Key Results (OKRs) help align our team towards what really matters. These happen quarterly, align up through the stage, and are based on [company OKRs](/company/okrs/) and the [engineering OKR process](/handbook/engineering/#engineering-okr-process). We check in on the status of our progress routinely throughout the quarter, at least on a monthly basis, to determine whether we are on track or need to pivot in order to accomplish or change these goals.
+Objectives and Key Results (OKRs) help align our team towards what really matters. These happen quarterly, align up through the stage, and are based on [company OKRs](/handbook/company/okrs/) and the [engineering OKR process](/handbook/engineering/#engineering-okr-process). We check in on the status of our progress routinely throughout the quarter, at least on a monthly basis, to determine whether we are on track or need to pivot in order to accomplish or change these goals.
 
 [For a list of current and past OKRs for our team, use this link.](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=title_asc&state=opened&label_name%5B%5D=group%3A%3Acode%20review&first_page_size=20)
 
@@ -51,7 +51,7 @@ See the [work section](/handbook/engineering/development/dev/create/code-review/
 
 ### Working with our team
 
-As stewards for some of the more high profile features - Merge Request pages, Approval Rules, etc - we receive a large number of inquires and requests for assistance or information about them, as well as the dependent features that it encompasses. We welcome them, as issues or Slack inquires, and we strive to be responsive to these, in the interest of [Collaboration](https://about.gitlab.com/handbook/values/#collaboration) and [Results](https://about.gitlab.com/handbook/values/#results), but we also must balance the value of [Efficiency](https://about.gitlab.com/handbook/values/#efficiency).
+As stewards for some of the more high profile features - Merge Request pages, Approval Rules, etc - we receive a large number of inquires and requests for assistance or information about them, as well as the dependent features that it encompasses. We welcome them, as issues or Slack inquires, and we strive to be responsive to these, in the interest of [Collaboration](/handbook/values/#collaboration) and [Results](/handbook/values/#results), but we also must balance the value of [Efficiency](/handbook/values/#efficiency).
 
 Our target is to respond to incoming requests within 2 working days, although we will frequently respond more quickly, depending on team member availability, experience, and workload.
 

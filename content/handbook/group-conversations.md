@@ -131,10 +131,10 @@ If your Group Conversation is optional and you need to move the date, please wor
 | [People](/handbook/people-group/) | Wendy Barnes | Yes | Twice per quarter | | EBA to CPO |
 | [Product](/handbook/product/) | [Month PLT Leader Rotation](/handbook/product/product-leadership/#product-group-conversation-leader-rotation) | Yes | Quarterly | | EBAs in Product |
 | [Support](/handbook/support/) | Lyle Kozloff, Lee Matos | Yes | Twice per quarter | @lbot @lyle @vparsons| EBA to Engineering |
-| [Security](/handbook/security/) | Josh Lemos | Yes | Every other month| | EBA to Engineering |
-| [UX](/handbook/product/ux/) | Christie Lenneville | Yes | Every other month | | EBA to Engineering |
-| [Development](https://about.gitlab.com/handbook/engineering/development/) | Christopher Lefelhocz | Yes | Every other month | | EBA to Engineering |
-| [Infrastructure & Quality](https://about.gitlab.com/handbook/engineering/infrastructure-quality/) | Mek Stittri | Yes | Quarterly | | EBA to Engineering |
+| [Security](/handbook/security/) | Josh Lemos | Yes | Every other month| | EBA to Security |
+| [UX](/handbook/product/ux/) | Christie Lenneville | Yes | Every other month | | EBA to Product |
+| [Development](/handbook/engineering/development/) | Christopher Lefelhocz | Yes | Every other month | | EBA to Engineering |
+| [Infrastructure & Quality](/handbook/engineering/infrastructure-quality/) | Mek Stittri | Yes | Quarterly | | EBA to Engineering |
 | [General](/handbook/ceo/) | Sid Sijbrandij | No | Every other month | | EBA to CEO|
 | [Alliances](/handbook/alliances/) | Nima Badiey | No | Quarterly | | EBA to VP of Alliances |
 | [IT](/handbook/business-technology/it) | Nabitha Rao | Yes | Quarterly | | EBA to VP of Business Technology |
@@ -152,7 +152,7 @@ If your Group Conversation is optional and you need to move the date, please wor
 | Tuesday 2023-11-28 | People | Wendy Barnes | November 14 |
 | Tuesday 2023-12-12 | Finance | Brian Robins | November 28th |
 | Wednesday 2024-01-03 | Support | Lyle Kozloff, Lee Matos | December 20 |
-| Thursday 2024-01-4 | Security | Josh Lemos | December 20 |
+| Thursday 2024-01-11 | Security | Josh Lemos | December 20 |
 | Wednesday 2024-01-24 | Infrastructure & Quality | Mek Stittri | January 16 |
 | Wednesday 2024-01-31 | IT | Nabitha Rao | January 23 |
 | Thursday 2024-02-01 | Development | Tim Zallmann | January 24 |

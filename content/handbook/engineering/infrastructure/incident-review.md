@@ -29,7 +29,7 @@ As a general guideline, it is recommended to follow the incident review process 
 1. A high severity issue that has a resolution time longer than 30 minutes
 1. A high severity monitoring failure
 
-A review can be optionally conducted for incidents which do not meet the above criteria but keep in mind that synchronous meetings are demanding of our time and we do our best to [embrace asynchronous communication](/company/culture/all-remote/asynchronous/).
+A review can be optionally conducted for incidents which do not meet the above criteria but keep in mind that synchronous meetings are demanding of our time and we do our best to [embrace asynchronous communication](/handbook/company/culture/all-remote/asynchronous/).
 
 For all reviews, it is *not* necessary to complete all sections. For the sake of expediency, you can complete areas of the review which highlight what you, as the review author, want to bring to the attention of the larger organization and which drive the generation of corrective actions related to the incident.
 

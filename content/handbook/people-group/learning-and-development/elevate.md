@@ -15,6 +15,13 @@ At this time, Elevate is only available for current People Leaders, People Busin
 
 In FY24, 85% of people leaders will complete Elevate and earn the GitLab Elevate certification.
 
+## What team members are saying about Elevate
+
+1. `Much more confidence handling things when they go wrong. I react completely differently to situations now. Also I see myself as a manager whereas I didn’t before and felt like I was making it up as I went.`
+1. `I'm much more comfortable to give feedback using the frameworks we learned during the program. Also feel much more confident about my DNA as a manager by listening to others managers.`
+1. `I now have an actionable set of tools available which helps me navigate any kind of conversation.`
+1. `The different frameworks that were introduced are immensely helpful. I have been relying on them in numerous situations and find it to be really impactful.`
+
 ## What is Elevate
 
 Elevate is a highly interactive, all-remote program where managers will learn with, and from, each other. The goal is to provide a common, well understood leadership framework which demonstrates GitLab [values]({{< ref "values" >}}), [leadership competencies](/handbook/competencies/#manager-and-leadership-competencies), and [mission]({{< ref "mission" >}}).
@@ -39,7 +46,7 @@ Elevate is organized into 5 learning modules. Read more about the skills covered
 Elevate runs for a total of 6 months and is organized into 5 learning modules. In each module, participants spend a total of 3-4 hours in the following learning activities:
 
 | Steps | Title | Description | Time Spent |
-| ----- | ----- | ---------- | ----- |
+| ------- | ----- | ---------- | ----- |
 | Step 1 | Live Learning Session | 1x monthly synchronous learning session on the relevant module topic | 50 minutes |
 | Step 2 | Asynchronous Learning | Videos, reading, journaling, self-reflections, and quizzes to reinforce concepts completed in Level Up | 45 minutes |
 | Step 3 | Group Coaching | Cross-functional group coaching sessions with 10-12 other GitLab people leaders to practice module concepts | 80 minutes |
@@ -48,17 +55,6 @@ Elevate runs for a total of 6 months and is organized into 5 learning modules. I
 Watch this video for a walk through of each step:
 
 {{< youtube "Eyh-Az13o0U" >}}
-
-## What team members are saying about Elevate
-
-1. `Much more confidence handling things when they go wrong. I react completely differently to situations now. Also I see myself as a manager whereas I didn’t before and felt like I was making it up as I went.`
-1. `I'm much more comfortable to give feedback using the frameworks we learned during the program. Also feel much more confident about my DNA as a manager by listening to others managers.`
-1. `I now have an actionable set of tools available which helps me navigate any kind of conversation.`
-1. `The different frameworks that were introduced are immensely helpful. I have been relying on them in numerous situations and find it to be really impactful.`
-
-## Additional Commitments
-
-{{< vimeo "837210402?h=339ddf730f" >}}
 
 ### Pre-Certification Coaching
 

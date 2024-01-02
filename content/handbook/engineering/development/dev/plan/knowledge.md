@@ -72,7 +72,7 @@ The purpose of this meeting is to:
 - Reprioritize
 - Ask for help
 
-DRIs should keep issues up to date with [workflow labels](https://about.gitlab.com/handbook/engineering/development/dev/plan/knowledge/#use-of-labels) and [health status](https://about.gitlab.com/handbook/engineering/development/dev/plan/#keeping-health-status-accurate) on an ongoing basis rather than waiting for this meeting.
+DRIs should keep issues up to date with [workflow labels](/handbook/engineering/development/dev/plan/knowledge/#use-of-labels) and [health status](/handbook/engineering/development/dev/plan/#keeping-health-status-accurate) on an ongoing basis rather than waiting for this meeting.
 
 #### Planning Meeting (monthly)
 
@@ -127,8 +127,8 @@ are essential. The table below describes these and gives the reason why.
 
 | Label | Use | Handbook Guidance | DRI |
 |---    | --- | ---               | --- |
-| ~workflow::* | Communicates the current workflow state of an issue. Important for understanding progress & quantifying risk during the course of a milestone. | [Updating Issues Throughout Development](https://about.gitlab.com/handbook/engineering/workflow/#updating-issues-throughout-development) | Engineer |
-| ~type::* | Communicates the type of work being done. Used to quantify and report the split of work to roles inside and outside GitLab. | [Work Type Classification](https://about.gitlab.com/handbook/engineering/metrics/#work-type-classification) | |
+| ~workflow::* | Communicates the current workflow state of an issue. Important for understanding progress & quantifying risk during the course of a milestone. | [Updating Issues Throughout Development](/handbook/engineering/workflow/#updating-issues-throughout-development) | Engineer |
+| ~type::* | Communicates the type of work being done. Used to quantify and report the split of work to roles inside and outside GitLab. | [Work Type Classification](/handbook/engineering/metrics/#work-type-classification) | |
 | ~Deliverable/~Stretch | ~Deliverable communicates to customers and stakeholders that we intend to deliver an issue within the assigned milestone. ~Stretch indicates that it might be started during the milestone but is not expected to complete. | [Release Scoping Labels](https://docs.gitlab.com/ee/development/labels/#release-scoping-labels) | Engineering Manager |
 
 ### Collaboration
@@ -137,7 +137,7 @@ Close collaboration outside of Knowledge group or Engineering discipline is ofte
 
 #### Pipeline Authoring
 
-Changes to the pages product often require changes to pipeline configuration. Help is available from the [Pipeline Authoring](https://about.gitlab.com/handbook/engineering/development/ops/verify/pipeline-authoring/) team, who are directly responsible for this functionality.
+Changes to the pages product often require changes to pipeline configuration. Help is available from the [Pipeline Authoring](/handbook/engineering/development/ops/verify/pipeline-authoring/) team, who are directly responsible for this functionality.
 
 It's encouraged to engage with this team when spiking and planning new work for the pages product. Reference your spike or planning issue when reaching out to [#g_pipeline-authoring](https://gitlab.slack.com/archives/C019R5JD44E) for any requested guidance. You can use the `@verify-pa-backend` Slack group to specifically ping the backend team. Engaging with the team at the earliest ensures they're able to set aside capacity to help with minimal disruption to their own roadmap.
 

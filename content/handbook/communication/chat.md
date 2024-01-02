@@ -100,13 +100,13 @@ These channels are for teams and GitLab team-members interested in a specific fe
 
 #### Group Channels (g_)
 
-Group channels (prefixed with a `g_`) correspond to a [DevOps Stage group](/handbook/product/categories/#hierarchy) and other [engineering departments and teams](https://about.gitlab.com/handbook/engineering/#engineering-departments--teams).
+Group channels (prefixed with a `g_`) correspond to a [DevOps Stage group](/handbook/product/categories/#hierarchy) and other [engineering departments and teams](/handbook/engineering/#engineering-departments--teams).
 
 **Example**
 
 - **[`#g_create`](https://gitlab.slack.com/archives/g_create)**: Channel for the [Create](/handbook/product/categories/#create-stage) development group.
 - **[`#g_create_source-code`](https://gitlab.slack.com/archives/g_create_source-code)**: Channel for the [Source Code](/handbook/product/categories/#source-code-group) development group.
-- **[`#g_geo`](https://gitlab.slack.com/archives/g_geo)**: Dedicated to the [Geo group](https://about.gitlab.com/handbook/engineering/development/enablement/systems/geo/).
+- **[`#g_geo`](https://gitlab.slack.com/archives/g_geo)**: Dedicated to the [Geo group](/handbook/engineering/development/enablement/systems/geo/).
 
 #### Location Channels (loc_)
 
@@ -258,7 +258,7 @@ Sub-department channels (prefixed with `sd_`) correspond to sub-departments with
 
 **Example**
 
-- **[`#sd_dev_engineering`](https://gitlab.slack.com/archives/sd_dev_engineering)**: For the [Engineering Dev sub-department](https://about.gitlab.com/handbook/engineering/development/dev/).
+- **[`#sd_dev_engineering`](https://gitlab.slack.com/archives/sd_dev_engineering)**: For the [Engineering Dev sub-department](/handbook/engineering/development/dev/).
 
 #### Social Groups
 

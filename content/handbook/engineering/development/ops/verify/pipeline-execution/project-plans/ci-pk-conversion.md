@@ -8,7 +8,8 @@ description: "Weekly Project Plan for converting the primary keys to bigint - Pi
 ## CI Data Partitioning - Weekly Project Plan
 
 ### Milestones Goals
-- 17.1: primary key conversion to bigint for ci_pipelines completed
+- 16.9: backfill of ci_builds fk completed
+- 17.0: primary key conversion to bigint for ci_pipelines completed
 
 <details markdown="1">
     <summary markdown="span">Archive</summary>
@@ -104,7 +105,6 @@ description: "Weekly Project Plan for converting the primary keys to bigint - Pi
   - [~] p_ci_builds.upstream_pipeline_id
   - [~] p_ci_builds.commit_id
 
-</details>
 
 ## Milestone 16.5 (September 18, 2023 - October 16, 2023)
 
@@ -240,13 +240,23 @@ We will continue to create the necessary MRs for updating the indexes
     - [x] ci_sources_pipelines.pipeline_id
     - [x] ci_sources_pipelines.source_pipeline_id
 
+
+</details>
+
 ### Milestone 16.8 (December 11, 2023 - January 12, 2024)
 
 #### Team Capacity:
 
 - 1 BE
 
-#### Goals:
+#### Goals: 
+
+We are continuing to monitor the progress of the foreign key backfill on ci_builds this milestone. 
+Improvements to backfill progress were made for a significant impact following the partitioning of ci_builds last milestone.
+It now looks like the backfill should complete within 6 weeks rather than 6 months. As such we are pulling the planned work up.  
+After discussion with the database team, it seems like we are good to go ahead and swap the primary key column on ci_pipelines 
+before the backfill on ci_builds completes. As such we intend to complete that in 16.8. This will allow us to move forward with 
+partitioning of ci_pipelines while the backfile contines.
 
 ##### Bigint conversion
 
@@ -263,12 +273,18 @@ We will continue to create the necessary MRs for updating the indexes
 
 - 1 BE
 
-#### Goals:
+#### Goals: 
+
+Backfill of bigint Pipeline FKs is projected to finish near the end of January 2024. 
+As such we should be able to create the indexes and foreign key constraints for p_ci_builds.
+
 
 ##### Bigint conversion
 
-- [ ] Remove the triggers and integer columns for ci_pipelines.id
-
+- Create indexes and/or foreign key constraint and swap columns for:
+    - [ ] p_ci_builds.auto_canceled_by_id
+    - [ ] p_ci_builds.upstream_pipeline_id
+    - [ ] p_ci_builds.commit_id
 
 ### Milestone 16.10 (February 12, 2024 - March 8, 2024)
 
@@ -276,10 +292,13 @@ We will continue to create the necessary MRs for updating the indexes
 
 - 1 BE
 
-#### Goals:
+#### Goals: 
+Backfill of bigint Pipeline FKs is projected to finish near the end of January 2024. 
+We should be able to remove the triggers and the integer column on ci_pipelines once the backfill is complete and the foreign key has been updated on p_ci_builds. 
 
 ##### Bigint conversion
 - [ ] Remove the ignore rules for ci_pipelines.id
+- [ ] Remove the triggers and integer columns for ci_pipelines.id
 
 ### Milestone 16.11 (March 11, 2024 - April 12, 2024)
 
@@ -287,47 +306,29 @@ We will continue to create the necessary MRs for updating the indexes
 
 - 1 BE
 
-#### Goals:
+#### Goals: 
+We will plan to have the MRs for next milestone ready to go in this milestone as well given Tian's limited availability in 17.0.
 
-### Milestone 17.0 (April 15, 2024 - May 10, 2024)
-
-- Backfill of bigint Pipeline FKs is projected to finish near the end of April 2024
-
-#### Team Capacity:
-
-- 0 BE (Note: Tian will be frontline responder this milestone)
-
-#### Goals:
-
-- Create indexes and/or foreign key constraint and swap columns for:
-    - [ ] p_ci_builds.auto_canceled_by_id
-    - [ ] p_ci_builds.upstream_pipeline_id
-    - [ ] p_ci_builds.commit_id
-
-
-### Milestone 17.1 (May 13, 2024 - June 14, 2024)
-
-#### Team Capacity:
-
-- 1 BE
-
-#### Goals:
-
+##### Bigint conversion
 - Remove the triggers and integer columns for:
     - [ ] p_ci_builds.auto_canceled_by_id
     - [ ] p_ci_builds.upstream_pipeline_id
     - [ ] p_ci_builds.commit_id
 
-
-### Milestone 17.2 (June 15, 2024 - July 19, 2024)
+### Milestone 17.0 (April 15, 2024 - May 10, 2024)
 
 #### Team Capacity:
 
-- 1 BE
+- 0 BE (Note: Tian will be frontline responder this milestone)
 
-#### Goals:
+#### Goals: 
+Merging of the final MRs to remove the ignore rules. This should wrap up the conversion of the ci_pipelines PK. 
+There are other tables requiring PK conversion, but they are smaller and less connected. Their completion will 
+be planned into other team work. 
 
+##### Bigint conversion
 - Remove the ignore rules for:
     - [ ] p_ci_builds.auto_canceled_by_id
     - [ ] p_ci_builds.upstream_pipeline_id
     - [ ] p_ci_builds.commit_id
+

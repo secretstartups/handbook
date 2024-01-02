@@ -11,7 +11,7 @@ title: "Infrastructure Product Management"
 
 ## Responsibilities
 
-The responsibilities of the Infrastructure Product Manager are [documented in the job-families page](https://handbook.gitlab.com/job-families/product/product-manager/#infrastructure).
+The responsibilities of the Infrastructure Product Manager are [documented in the job-families page](/job-families/product/product-manager/#infrastructure).
 
 ## Engagement Model
 ### Inbound Requests
@@ -51,10 +51,10 @@ Types of requests:
 For general inquiries, use the [Infrastructure PM Slack Channel](https://gitlab.slack.com/archives/infra-product).
 
 ## Workflow
-To request assistance from the Infrastructure Product Manager, add the ~"infrapm" label to an issue. Next, the Infra PM will consider the issue by moving it to the ~"workflow::problem validation" phase for validation, scoping, and prioritization. After completing these steps, if the Infra PM determines the effort is worth pursuing, they will then follow the established [Infrastructure team](https://about.gitlab.com/handbook/engineering/infrastructure/#teams) workflows by adding the appropriate team label and moving the issue to the ~"workflow-infra::Triage" phase for engineering review.
+To request assistance from the Infrastructure Product Manager, add the ~"infrapm" label to an issue. Next, the Infra PM will consider the issue by moving it to the ~"workflow::problem validation" phase for validation, scoping, and prioritization. After completing these steps, if the Infra PM determines the effort is worth pursuing, they will then follow the established [Infrastructure team](/handbook/engineering/infrastructure/#teams) workflows by adding the appropriate team label and moving the issue to the ~"workflow-infra::Triage" phase for engineering review.
 
 ## Prioritization Framework
-To prioritize initiatives, the Infra PM uses the framework [documented in the Product handbook](https://about.gitlab.com/handbook/product/product-processes/#prioritization).
+To prioritize initiatives, the Infra PM uses the framework [documented in the Product handbook](/handbook/product/product-processes/#prioritization).
 
 ## Issue Board
 Infrastructure Product Manager Tasks are tracked on the [Infra PM Issue Board](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/1880375?label_name[]=infrapm)

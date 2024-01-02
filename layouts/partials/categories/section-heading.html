@@ -232,7 +232,7 @@
     <td>
     {{- $pagePath := path.Join "/handbook" . }}
     {{- with page.GetPage $pagePath }}
-    <a href="{{ .Permalink }}">[<i class="fa fa-book"></i> {{ .Title }}</a>
+    <a href="{{ .Permalink }}"><i class="fa fa-book"></i> {{ .Title }}</a>
     {{- end }}
     </td>
 </tr>

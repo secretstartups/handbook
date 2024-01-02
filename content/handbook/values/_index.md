@@ -193,7 +193,7 @@ No need to brainstorm, wait for consensus, or [do with two what you can do yours
 ##### Blameless problem solving
 
 Investigate mistakes in a way that focuses on the situational aspects of a failure’s mechanism and the decision-making process that led to the failure, rather than cast blame on a person or team.
-We hold blameless [root cause analyses](https://codeascraft.com/2012/05/22/blameless-postmortems/) and [retrospectives](https://about.gitlab.com/handbook/engineering/management/group-retrospectives/) for stakeholders to speak up without fear of punishment or retribution.
+We hold blameless [root cause analyses](https://codeascraft.com/2012/05/22/blameless-postmortems/) and [retrospectives](/handbook/engineering/management/group-retrospectives/) for stakeholders to speak up without fear of punishment or retribution.
 
 ##### Short toes
 
@@ -379,7 +379,7 @@ We value the ability to maintain focus and motivation when work is tough and ask
 
 It's important that we keep our focus on action, and don't fall into the trap of analysis paralysis or sticking to a slow, quiet path without risk. Decisions should be thoughtful, but delivering fast results requires the fearless acceptance of occasionally making mistakes; our bias for action also allows us to course correct quickly. Everyone will make mistakes, but it's the relative number of mistakes against all decisions made (i.e. percentage of mistakes), and the swift correction or resolution of that mistake, which is important. A key to success with transparency is to always combine an observation with (1) questions (to ensure understanding) *and* (2) suggestions for solutions / improvement to the group that can take action.  We don't make general complaints without including and supporting the groups that can effect change. Success with transparency almost always requires effective [collaboration](#collaboration).
 
-An example of our bias for action can be seen in our [Follow the Sun Coverage model](https://about.gitlab.com/handbook/engineering/development/#follow-the-sun-coverage).
+An example of our bias for action can be seen in our [Follow the Sun Coverage model](/handbook/engineering/development/#follow-the-sun-coverage).
 
 ##### Disagree, commit, and disagree
 

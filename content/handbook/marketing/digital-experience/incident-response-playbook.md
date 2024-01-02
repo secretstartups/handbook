@@ -56,4 +56,4 @@ To unpublish a page (either a blog post, or a marketing site page), navigate to 
    1. Settings -> Webhooks -> CI Pipeline runner -> Webhook settings -> toggle the “Active” state to off. 
 
 ### CMS Support Plan
-If non of the above is working, please refer to the [CMS Support Plan](https://handbook.gitlab.com/handbook/marketing/digital-experience/cms-support-plan/)
+If non of the above is working, please refer to the [CMS Support Plan](/handbook/marketing/digital-experience/cms-support-plan/)

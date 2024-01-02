@@ -21,9 +21,9 @@ The following people are permanent members of the Create:Editor Extensions Group
 The following people are temporary members ([borrow process](/handbook/product/product-processes/#borrow)) of the Create:Editor Extensions Group, each one working on a specific area:
 
 - Language Server
-  - [Olena HK.](https://about.gitlab.com/company/team/#ohoral)
+  - [Olena HK.](/handbook/company/team/#ohoral)
 - VS Code extension
-  - [Sri Rang](https://about.gitlab.com/company/team/#sri19)
+  - [Sri Rang](/handbook/company/team/#sri19)
 
 ### Stable counterparts
 
@@ -37,13 +37,13 @@ The following people are [stable counterparts](/handbook/leadership/#stable-coun
 
 The Editor Extensions group is responsible for the following [product categories](/handbook/product/categories/#editor-extensions-group):
 
-- [Editor Extensions](/direction/create/editor_extensions/)
+- [Editor Extensions](https://about.gitlab.com/direction/create/editor_extensions/)
 
 ## Communication
 
 We have a sync meeting as a team once per week.
 Recordings are uploaded to the [Editor Extensions Category](https://www.youtube.com/playlist?list=PL05JrBw4t0KoC0pFfuNOAQjKxe4_ypFKc) playlist on GitLab Unfiltered.
-When the discussion is finished, we stop the recording and stay on the call for the remaining time to have a group [coffee chat](https://handbook.gitlab.com/handbook/company/culture/all-remote/informal-communication/#coffee-chats).
+When the discussion is finished, we stop the recording and stay on the call for the remaining time to have a group [coffee chat](/handbook/company/culture/all-remote/informal-communication/#coffee-chats).
 
 Additionally to our main team's slack channels, each extension/project we work on has its own slack channel:
 
@@ -116,7 +116,7 @@ This increases speed of development as we aim to reach GA for Code Suggestions, 
 
 This intentional siloing is a temporary measure.
 While we do need to cultivate deep expertise in each project,
-the mid-term vision for the team is to provide opportunities for [everyone to contribute](https://handbook.gitlab.com/handbook/company/mission/) across each project.
+the mid-term vision for the team is to provide opportunities for [everyone to contribute](/handbook/company/mission/) across each project.
 This will increase collaboration, team resiliency, and provide opportunities for growth.
 
 ## Knowledge sharing

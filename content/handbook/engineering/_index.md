@@ -92,7 +92,7 @@ There are four departments within the Engineering Division:
 
 ### Workflows
 
-- [Developer onboarding](https://about.gitlab.com/handbook/developer-onboarding/)
+- [Developer onboarding](/handbook/developer-onboarding/)
 - [Engineering Demo Process](/handbook/engineering/demos/)
 - [Engineering Workflow](/handbook/engineering/workflow/)
     - [Code Review](/handbook/engineering/workflow/code-review/)
@@ -141,7 +141,7 @@ To maintain high availability, Engineering runs a weekly SaaS Availability stand
 
 Each week the Infrastructure team reports on incidents and key metrics. Updating these items at the top of the
 [Engineering Allocation Meeting Agenda](https://docs.google.com/document/d/1Zk3qgbn8iDyJRq0i5C5LPBgEopY6o1tpYEKfdNfA9Bg/edit#heading=h.5t67v3au7sd4)
-is the responsibility of the Engineering Manager for the [General Squad](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/#general-squad) in Reliability.
+is the responsibility of the Engineering Manager for the [General Squad](/handbook/engineering/infrastructure/team/reliability/#general-squad) in Reliability.
 
 1. Incident Review
    - Include any [S1 incidents](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/?sort=created_date&state=all&label_name%5B%5D=incident&label_name%5B%5D=severity%3A%3A1&first_page_size=100) that have occurred since the previous meeting.

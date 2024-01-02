@@ -68,14 +68,14 @@ In addition to GitLab's [communication guidelines](/handbook/communication) and 
 
 ## Meetings
 
-GitLab is an all-remote, timezone distributed company as such we optimize for asynchronous communication. While some topics benefit from a real-time discussion, we should always evaluate meetings to ensure they are valuable. We follow the [guidance for all-remote meetings](/company/culture/all-remote/meetings/), including starting and ending on time - or earlier.
+GitLab is an all-remote, timezone distributed company as such we optimize for asynchronous communication. While some topics benefit from a real-time discussion, we should always evaluate meetings to ensure they are valuable. We follow the [guidance for all-remote meetings](/handbook/company/culture/all-remote/meetings/), including starting and ending on time - or earlier.
 
 [Infrastructure](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV9vamk2ZGtpMWZyYzhnOHFxOWZldXUxanRkMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) and [Quality](https://calendar.google.com/calendar/u/0?cid=Y19qcm92dGttZWVjMWlpMG8zcmY4cThwbWxia0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) team calendars are shared with the company.
 
 A well prepared meeting:
 
 1. *must* have a Google Doc agenda attached to the invite, organized by date, and with edit rights open to GitLab. This allows participants to prepare before the start of each meeting, and take notes druing the meeting.
-1. *must* [start on time](/company/culture/all-remote/meetings/#3-start-on-time-end-on-time)
+1. *must* [start on time](/handbook/company/culture/all-remote/meetings/#3-start-on-time-end-on-time)
 1. *can* have a read-only, and discussion section. Read-only section does not get verbalized, but the questions around read-only items can be asked in the discussion section
 1. *can* have multiple topics.
 1. *can* be deliberately be scheduled to occur twice to better include all global participants. This is considered to be the *same* meeting, just held at different times.
@@ -92,11 +92,11 @@ The following cross-functional meetings are regularly scheduled:
 |Quality all-hands meeting | Quality Department Bi-Weekly | Quality |Every other Wed/Thur|
 |Quality team demo's and discussion| [Quality Test Architecture & Coffee](https://youtube.com/playlist?list=PL05JrBw4t0KqqL3Vw3_5Uv9cxSOdPNhoY) | Quality |Every other Wed/Thur |
 |Reliability oncall handover meetings, newsletter discussion | [Team Newsletter issues](https://gitlab.com/gitlab-com/gl-infra/reliability-reports/-/issues) | Reliability | Weekly |
-|Anything for Reliability Leadership | Reliability [Ask me Anything](https://handbook.gitlab.com/handbook/communication/ask-me-anything/) | Reliability (anyone is welcome) | Monthly (last Wednesday) |
+|Anything for Reliability Leadership | Reliability [Ask me Anything](/handbook/communication/ask-me-anything/) | Reliability (anyone is welcome) | Monthly (last Wednesday) |
 
 ## OKR
 
-Department level view of [OKR](/company/okrs/) and scoring is on our [Infrastructure & Quality OKR page](/handbook/engineering/infrastructure-quality/okrs/)
+Department level view of [OKR](/handbook/company/okrs/) and scoring is on our [Infrastructure & Quality OKR page](/handbook/engineering/infrastructure-quality/okrs/)
 
 Each sub-department has different guidance on OKR:
 
@@ -108,7 +108,7 @@ Each sub-department has different guidance on OKR:
 
 ## Key Review
 
-[Key Review meetings](/handbook/key-review/) provide the department leadership an opportunity to inform the executive team of our [performance indicator](#performance-indicators/) progress, results on OKRs, and updates on any [Cross-functional Key Initiatives](/company/team/structure/working-groups/#top-cross-functional-initiatives) which we are leading.
+[Key Review meetings](/handbook/key-review/) provide the department leadership an opportunity to inform the executive team of our [performance indicator](#performance-indicators/) progress, results on OKRs, and updates on any [Cross-functional Key Initiatives](/handbook/company/team/structure/working-groups/#top-cross-functional-initiatives) which we are leading.
 
 Key Review meetings are facilitated and led by the currently responsible VP, with Directors being the backup DRIs.
 

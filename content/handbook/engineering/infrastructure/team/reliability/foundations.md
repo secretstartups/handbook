@@ -82,7 +82,7 @@ We endeavor to triage incoming requests twice per week. If you have an issue tha
 
 ## Considerations for tooling and maintaining our services.
 
-- We support [dogfooding](https://about.gitlab.com/handbook/engineering/development/principles/#dogfooding) when it makes sense to do so.
+- We support [dogfooding](/handbook/engineering/development/principles/#dogfooding) when it makes sense to do so.
   - We consider the scale at which we run gitlab.com and the additional engineering effort required to dogfood, weighed against the capacity and other priorities of the team.
 - When considering external tooling, we look first to other open source projects that are part of [CNCF](https://www.cncf.io/)
 - Further evaluation criteria include:
@@ -162,7 +162,7 @@ For more context, see the related [discussion issue](https://gitlab.com/gitlab-c
   - Success Criteria: no lower than 4 out of 5 average for questions around psychological safety, satisfaction with the team and feeling supported.
   - Current status: green
     - To encourage people to be as honest as possible, we are not sharing specific results beyond the team.
-- Performance ([Results](https://handbook.gitlab.com/handbook/values/#results))
+- Performance ([Results](/handbook/values/#results))
   - OKRs - OKRs are generated each quarter based on current commitments while also including spare capacity for unplanned work.
     - Success Criteria: > 80% completion of OKRs
     - Current Status: tbd pending final review of our cost savings efforts scores.
@@ -172,14 +172,14 @@ For more context, see the related [discussion issue](https://gitlab.com/gitlab-c
   - Service SLOs
     - Success Criteria: Meets or Exceeds availability SLOs for services we own.
     - TODO: Create and add link to overview dashboard
-- Activity ([Results](https://handbook.gitlab.com/handbook/values/#results))
+- Activity ([Results](/handbook/values/#results))
   - Corrective Actions Over Time (specific to the Foundations Team)
-    - Success Criteria: Meets or exceeds the [Reliability SLO](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html#service-level-agreements)
+    - Success Criteria: Meets or exceeds the [Reliability SLO](/handbook/engineering/infrastructure/team/reliability/issues.html#service-level-agreements)
     - Current Status: Green for Sev 1 and Sev 2 CAs.
   - Track the rate of closed MRs for projects for services we own.
     - Success Criteria: TBD. Gather data to see if there is any correlation between MR activity and reliability numbers for services we own.
   - TODO: Add Sisense or Tableau dashboards to visualize these issue metrics
-- Communication and [Collaboration](https://handbook.gitlab.com/handbook/values/#collaboration)
+- Communication and [Collaboration](/handbook/values/#collaboration)
   - Customer Satisfaction
     - Foundations Engineering Manager will send out quarterly surveys to the rest of Infrastructure with questions regarding ease of collaboration, ease of getting needs met and pain points.
     - Success Criteria: average rating of 4 out of 5 for questions about ease of collaboration and getting needs met.
@@ -187,10 +187,10 @@ For more context, see the related [discussion issue](https://gitlab.com/gitlab-c
     - Most recent Survey Results: [June 2023](https://docs.google.com/spreadsheets/d/1GWykJteo7dHRr3bkXz5oO1u8rf2S1ePRELgb_N4oy5s/edit?usp=sharing):
       - How Easy is it to collaborate with Foundations? 4.25 out of 5
       - How Easy is it to get help from Foundations? 4.25 out of 5
-- [Efficiency](https://handbook.gitlab.com/handbook/values/#efficiency) and Flow
+- [Efficiency](/handbook/values/#efficiency) and Flow
   - Issue/MR Metrics
     - Issue Lead Time
-      - Success Criteria: Meets or exceeds current [Reliability SLO](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html#service-level-agreements)
+      - Success Criteria: Meets or exceeds current [Reliability SLO](/handbook/engineering/infrastructure/team/reliability/issues.html#service-level-agreements)
     - Throughput times for MRs by team members
       - Success Criteria: TBD
     - TODO: Add Sisence or Tableau dashboards to visualize these metrics
@@ -275,12 +275,12 @@ In addition to striving to embrace GitLab's values, the Foundations team seeks t
 #### Project Management
 
 The Foundations team top level Epic can be found [here](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/1175)
-We follow Platforms Project Management practices as outlined in the [Handbook](https://about.gitlab.com/handbook/engineering/infrastructure/platforms/project-management/).
+We follow Platforms Project Management practices as outlined in the [Handbook](/handbook/engineering/infrastructure/platforms/project-management/).
 Below builds on top of those guidelines.
 
 ##### OKRs
 
-- For Objectives and Key Results, we align with [Platforms guidance](https://about.gitlab.com/handbook/engineering/infrastructure/platforms/#okr) for creation and structure.
+- For Objectives and Key Results, we align with [Platforms guidance](/handbook/engineering/infrastructure/platforms/#okr) for creation and structure.
 - DRIs should update the % progress on OKRs every Wednesday. Status updates go in the Epic descriptions.
 - A due date should be set on on the epic. If the timeline is unknown, use the end of the planned quarter to start. It can always be adjusted as the work unfolds.
 
@@ -290,12 +290,16 @@ We suggest that Epics follow this structure:
 
 ```markdown
 ## Context
-<Context about the work and what problem it is intended to solve>
+<!-- Context about the work and what problem it is intended to solve -->
 
-### DRI: @user
-<Who is the responsible individual?>
+## DRI: @user
+<!-- Who is the responsible individual? -->
 
-## Milestones/Exit Criteria
+### Participants:
+
+<!-- List of users that are actively picking up issues in the epic -->
+
+## Exit Criteria
 <!--
 How will we know when we have achieved our goal?
 How is the work broken down into smaller concrete pieces.
@@ -303,35 +307,28 @@ Measurable chunks of progress towards the larger objective. Link to child Epics 
 If possible, with weighted % totaling up to 100%
 -->
 
-## Decision log
-<a collapsible section to track and make visible any decisions made along the way>
-
-{{% details summary="Log" %}}
-{{% details summary="date" %}}
-[decision taken and why]
-{{% /details %}}
-{{% /details %}}
-
 ## Administrative
 
-<A copy paste section for creating child epics/issues, ensuring that they relate to the current epic and have the correct labels>
+<!--A copy paste section for creating child epics/issues, ensuring that they relate to the current epic and have the correct labels-->
 
+\`\`\`
 /epic [current epic]
-/label ~"team::Foundations ~"workflow-infra::Proposal"
-
+/labels ~"devops::Platforms" ~"team::Foundations" ~"workflow-infra::Triage" ~"Reliability::P4" 
+\`\`\`
 
 ## Status history
 
-<Previous summary statements are moved into the development log in a collapsible section to give visibility into updates over time>
+<!--Previous summary statements are moved into the development log in a collapsible section to give visibility into updates over time-->
 
-{{% details summary="Previous statuses" %}}
-{{% details summary="Status - yyyy-mm-dd" %}}
+{{% details summary="Click to expand" %}}
 
-{{% /details %}}
+- Status - yyyy-mm-dd
+   - Previous update
+
 {{% /details %}}
 
 ## Status yyyy-mm-dd
-<Updates should be made weekly, even if no progress has been made. If no progress to report, give context as to why>
+<!-- Updates should be made weekly, even if no progress has been made. If no progress to report, give context as to why -->
 
 ```
 
@@ -340,20 +337,25 @@ Here are some optional sections to include if you find it helpful:
 ```markdown
 ## Problems
 
-<Delve into further detail about the problems the work is seeking to solve, in greater depth than the Context section >
-
-### Participants
-
-<List additional engineers involved in the effort>
+<!-- Delve into further detail about the problems the work is seeking to solve, in greater depth than the Context section -->
 
 ## References
 
-<Links to related OKRs, Epics or issues, external resources etc>
+<!-- Links to related OKRs, Epics or issues, external resources etc -->
 
 ## Demos
 
 | Demo Date | Demo Link | Highlights |
 |-----------|-----------|------------|
+
+## Decision log
+<!-- a collapsible section to track and make visible any decisions made along the way -->
+
+{{% details summary="Log" %}}
+{{% details summary="date" %}}
+[decision taken and why]
+{{% /details %}}
+{{% /details %}}
 
 ```
 
@@ -394,15 +396,14 @@ The overview can include:
 
 #### Communication with stakeholders
 
-- [GitLab OKRs](/handbook/engineering/okrs/) capture our commitments for each quarter and are generally updated every Tuesday
-  - Updates should give sufficient context for leadership to understand current status and explain any changes in health status, completion dates or deliverables.
-- GitLab Epics capture large pieces of work and those labeled "In Progress" are also generally updated on Tuesdays
-- GitLab Issues capture smaller, concrete pieces of work, and those labeled "In Progress" should be updated twice weekly or whenever a portion of work has been completed.
+- [GitLab OKRs](/handbook/engineering/okrs/) capture our commitments for each quarter and are generally updated every Wednesday.
+- GitLab Epics capture large pieces of work and those labeled `~workflow-infra::In Progress` are updated every Wednesday.
+- GitLab Issues capture smaller, concrete pieces of work, and those labeled `~workflow-infra::In Progress` should be updated weekly or whenever a portion of work has been completed.
 - Slack is the default method of reaching out between team members
-  - [#g_infra_foundations](https://gitlab.slack.com/archives/C0313V3L5T6) is for work related discussions, external requests, etc
-  - [#g_infra_foundations_social](https://gitlab.slack.com/archives/C04QVEXBVL3) is for socializing and standups
-  - [#g_infra_foundations_notifications](https://gitlab.slack.com/archives/C04RZC5TPPD) is for automated MR notifications
+  - [#g_infra_foundations](https://gitlab.slack.com/archives/C0313V3L5T6) - work related discussions, external requests, etc
+  - [#g_infra_foundations_social](https://gitlab.slack.com/archives/C04QVEXBVL3) - socializing and standups
+  - [#g_infra_foundations_notifications](https://gitlab.slack.com/archives/C04RZC5TPPD) - automated MR notifications
+  - [#g_infra_foundations_alerts](https://gitlab.enterprise.slack.com/archives/C04Q7RQC7FF) - pipeline failures and service alerts
   - We also have team slack handles that enable us to get the whole team's attention at once
     - @infra-dwarves is our internal handle, meant for intra-team communication
     - @infra-foundations can be used by external stakeholders when they need to get our attention outside of #g_infra_foundations
-- We currently have monthly sync meetings with Delivery::Systems, as they are the biggest "customer" of Foundations and it is important to stay closely aligned with expectations and ongoing work.

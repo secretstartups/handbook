@@ -4,6 +4,8 @@ description: Support Operations workflows and policies page for Gratis Support r
 canonical_path: "/handbook/support/readiness/operations/docs/policies/gratis_support"
 ---
 
+<sup>*Introduced via [support-team-meta#2408](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/2408)*</sup>
+
 This document focuses solely on the workflows and policies for Gratis Support
 requests. If you are looking for a more in-depth description, please review
 the [Support handbook page on requesting gratis support](/handbook/support/gratis-support/).

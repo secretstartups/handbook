@@ -17,4 +17,4 @@ Chrome Enterprise allows IT administrators a way to build a quick and effective 
 
 ## How changes are made
 
-IT admins will propose and create a change in a [CR](https://gitlab.com/gitlab-com/business-technology/change-management). The Change is Alpha tested on a sampling of test machines. The Change is proposed and pushed to the [IT Security Beta Testers](https://handbook.gitlab.com/handbook/business-technology/it/security/) for broader testing and feedback collection. After the final testing is finished, Changes are announced and pushed out to all managed endpoints. 
+IT admins will propose and create a change in a [CR](https://gitlab.com/gitlab-com/business-technology/change-management). The Change is Alpha tested on a sampling of test machines. The Change is proposed and pushed to the [IT Security Beta Testers](/handbook/business-technology/it/security/) for broader testing and feedback collection. After the final testing is finished, Changes are announced and pushed out to all managed endpoints. 

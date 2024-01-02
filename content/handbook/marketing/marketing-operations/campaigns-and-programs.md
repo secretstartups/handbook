@@ -392,7 +392,6 @@ If this is to set up a program that involves a channel partner, you must also fo
 
 ##### Hybrid Marketo Templates
 
-
 - Executive Roundtables - `Hybrid template`: [YYYYMMDD_ExecutiveRoundtable_Topic_Region_EventType_template](https://app-ab13.marketo.com/#ME6028A1)
 - Speaking Session - `Hybrid template`: [YYYYMMDD_SpeakingSession_EventType_Template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME5092A1)
 - Vendor Arranged Meetings (1:1 meetings) - `Hybrid template`: [YYYYMMDD_ArrangedMeetingsVendorName_Region_EventType_template](https://app-ab13.marketo.com/#PG5698A1)
@@ -400,10 +399,8 @@ If this is to set up a program that involves a channel partner, you must also fo
 [For virtual workshops, please follow directions in the virtual workshop set-up section.](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#virtual-workshop-logistical-set-up) In-person workshops utilize a similar setup, but do not involve the Zoom requirements. If you have a workshop to set up that is not one of the workshops listed below, you can still utilize any of these templates for backend setup and then use a [copy doc](https://docs.google.com/document/d/1j43mf7Lsq2AXoNwiygGAr_laiFzmokNCfMHi7KNLjuA/edit#heading=h.tl82wncgutxu) to indicate all copy adjustments that are required (you will also update the baseline Marketo tokens during the setup process).
    - Project Management: [YYYYMMDD_Workshop_ProjectManagement_EventType](https://app-ab13.marketo.com/#ME6536A1)
    - Security: [YYYYMMDD_Workshop_SecurityWorkshop_EventType](https://app-ab13.marketo.com/#ME6521A1)
-   - DevOps Automation: [YYYYMMDD_Workshop_DevOpsAutomation_EventType](https://app-ab13.marketo.com/#ME6532A1)
-   - Advanced CI/CD: [YYYYMMDD_Workshop_CI/CD_EventType](https://app-ab13.marketo.com/#ME6807A1)
-   - Jenkins [YYYYMMDD_Workshop_Jenkins_EventType](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME8285A1)
-   - GitOps Hands On: [YYYYMMDD_Workshop_GitOpsHands-on_EventType](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME14657A1)
+   - Advanced CI/CD: [YYYYMMDD_Workshop_CI/CD_EventType](https://app-ab13.marketo.com/#ME6807A1)  
+   - Jenkins [YYYYMMDD_Workshop_Jenkins_EventType](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME8285A1) 
    - AI in DevSecOps: [YYYYMMDD_Workshop_AIDevSecOps_EventType](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME16197A1)
    - GitHub GitLab Migration: [YYYYMMDD_Workshop_GitHubGitLab_EventType](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME13738A1)
 
@@ -420,10 +417,8 @@ If this is to set up a program that involves a channel partner, you must also fo
 - Owned Event - `Virtual - Hopin only`: [YYYYMMDD_OwnedEvent_Hopin_EventType_Template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME11445A1)
     - For Events using HopIn, follow all steps below in addition to steps outlined [here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-use-hopin-connector).
 
-##### Webcasts and Self-Service Marketo Templates
+##### Webcasts Marketo Templates
 - Zoom GitLab Hosted Webcast: [YYYYMMDD_WebcastTopic_Region](https://app-ab13.marketo.com/#ME5512A1)
-- Self-Service Virtual Event without Promotion: [YYYYMMDD_SelfServiceTopic_Region](https://app-ab13.marketo.com/#ME5143A1)
-- Self-Service Virtual Event with Promotion (with or without Marketo Landing Page): [YYYYMMDD_SelfServiceTopic_Region (with Promotion)](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME8760A1)
 - Sponsored Webcast: [YYYYMMDD_ExternalWebcastVendorName_Topic_Region](https://app-ab13.marketo.com/#PG5523A1)
 
 #### Partner Campaign Setup
@@ -444,19 +439,19 @@ If this is to set up a program that involves a channel partner, you must also fo
     - Note that it is important that all tokens are completed as the "Interesting Moments" Smart Campaigns pushes information to Salesforce based on the tokens. Depending on the campaign, some auto-responders and emails rely on tokens as well.
     - Note that the token for `Event Location` should be filled in with the `City` for `In-Person` events and `Virtually` for `virtual events`.
     - You do not need to update the following tokens upon setup:
-        - ((my.email header image url}} - This is optional. You will need this if you had custom images created.
-        - {{my.ondemandurl}} - This will be entered AFTER the event date. It is the link to the recorded webcast. You will need to come back after the event and update this token.
-- Update the utm_campaign field following the process outlined [here](/handbook/marketing/utm-strategy/#utm-campaign).
-- **Partner Campaigns** will need to also to update the `{{my.partner name}}` and `{{my.partner crm id}}` for proper routing
+        - `{{my.email header image url}}` - This is optional. You will need this if you had custom images created.
+        - `{{my.ondemandurl}}` - This will be entered AFTER the event date. It is the link to the recorded webcast. You will need to come back after the event and update this token.
+- Update the utm_campaign field following the process outlined [here](/handbook/marketing/utm-strategy/#utm-campaign). 
+- **Partner Campaigns** will need to also to update the `{{my.partner name}}` and `{{my.partner crm id}}` for proper routing 
 - For live events, be sure to update the `reply email` token. This is used in the confirmation email. You need to add the correct email address for cancellations or special accomodations, and update the subject to something descriptive. Keep the `%20` between each word in the subject so the subject populates correctly.
 
 ### Step 4: Activate Marketo smart campaign(s)
-* If this is a `Gated Content` campaign, follow the detailed set-up instructions on the [content in campaigns page](https://handbook.gitlab.com/handbook/marketing/demand-generation/campaigns/content-in-campaigns/#marketo-automation-and-setup-for-gated-landing-page).
+* If this is a `Gated Content` campaign, follow the detailed set-up instructions on the [content in campaigns page](/handbook/marketing/demand-generation/campaigns/content-in-campaigns/#marketo-automation-and-setup-for-gated-landing-page).
 * If this is a `Vendor Arranged Meeting`:
      * Click the `Smart Campaigns` folder
      * Select the `01 Interesting Moments` smart campaign
-          * The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign
-* If this is `Self-Service with Promotion` or `Speaking Session` follow the below activation instructions:
+          * The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign 
+* If this is `Speaking Session` follow the below activation instructions:
      * Click the `Smart Campaigns` folder
      * Select the `01a Registration Flow` smart campaign
           * The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag.
@@ -502,11 +497,11 @@ If this is to set up a program that involves a channel partner, you must also fo
 ### Step 5: Setting Landing Page / Smart Campaign Expiration (Asset Expiration)
 As of early 2022, Adobe has introduced a new feature to Marketo called `asset expiration`, which can be read about in Marketo's documentation [here](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/local-asset-expiration.html?lang=en#:~:text=Right%2Dclick%20on%20your%20desired,Choose%20an%20expiration%20date). This applies to smart campaigns and landing pages. For GitLab's use case, we have enabled this feature for the following role permissions: `Field Marketing User`, `Marketing Program Managers` and `Marketing User`. If you do not have these permissions would like this feature enabled, please submit an `access request`.
 
-##### Asset Expiration Use Cases
-All programs have different necessities so it will be important to determine how `asset expiration` should be utilized for various program types. Guidance can be supplied by MktgOps, if needed, but utilize this method for the majority of cases:
-- `Conference`, `Direct Mail`, `Executive Roundtable`, `Owned Event`, `Self-Service Virtual Event` (if no on-demand component), `Speaking Session`, `Sponsored Webcast` (if no on-demand component), `Survey`, `Vendor Arranged Meeting`, `Workshop`: For one-time programs that are completely done after a specific date and will not use an `Attended On-Demand` member status over time, set the expiration of assets at 4 weeks after the event and at the end of the day, so at 23:55 PST. For example, if a `conference` or `executive roundtable` program type occurs on the April 3, schedule asset expiration for end day on May 1.
-- `Content syndication` or Campaigns where the end of the campaign is difficult to pinpoint: there are 2 different options to consider:
-    - Set up expiration **12 weeks after the estimated campaign end**, again at the end of the day. This is useful for campaigns where a third-party is handling lead collection for us and we are manually uploading lead lists. This also supplies a buffer in the event the SLA is not met on schedule and the campaign runs longer than anticipated.
+##### Asset Expiration Use Cases 
+All programs have different necessities so it will be important to determine how `asset expiration` should be utilized for various program types. Guidance can be supplied by MktgOps, if needed, but utilize this method for the majority of cases: 
+- `Conference`, `Direct Mail`, `Executive Roundtable`, `Owned Event`, `Speaking Session`, `Sponsored Webcast` (if no on-demand component), `Survey`, `Vendor Arranged Meeting`, `Workshop`: For one-time programs that are completely done after a specific date and will not use an `Attended On-Demand` member status over time, set the expiration of assets at 4 weeks after the event and at the end of the day, so at 23:55 PST. For example, if a `conference` or `executive roundtable` program type occurs on the April 3, schedule asset expiration for end day on May 1.
+- `Content syndication` or Campaigns where the end of the campaign is difficult to pinpoint: there are 2 different options to consider: 
+    - Set up expiration **12 weeks after the estimated campaign end**, again at the end of the day. This is useful for campaigns where a third-party is handling lead collection for us and we are manually uploading lead lists. This also supplies a buffer in the event the SLA is not met on schedule and the campaign runs longer than anticipated. 
     - **Do not use asset expiration at all**. We often have content syndication focused programs that go on indefinitely so expiration does not make sense to utilize in this case. Assets can be discontinued in the future.
 - `Gated Content`: It is not recommended to use asset expiration as these remain in use for long periods of time.
 - `Webcast`: It is not recommended to use asset expiration as these typically have an on-demand component.

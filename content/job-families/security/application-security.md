@@ -129,7 +129,7 @@ The role is a [grade 10](/handbook/total-rewards/compensation/compensation-calcu
 #### Distinguished Application Security Engineer Responsibilities
 
 - Includes all [Staff level responsibilities listed](#staff-application-security-engineer-responsibilities).
-- Drive the technical direction, roadmap, and [6-month architecture blueprints](https://about.gitlab.com/handbook/engineering/architecture/#architecture-at-gitlab) of the Application Security program.
+- Drive the technical direction, roadmap, and [6-month architecture blueprints](/handbook/engineering/architecture/#architecture-at-gitlab) of the Application Security program.
 - Drive the business value relation of metrics calculations for the Application Security program.
 - Represent the Application Security team across and outside of GitLab as a subject matter expert in technology, development, and application security concepts.
 - Work in a leveraged manner influencing other organizations and teams across GitLab with application security approaches and a focus on problem solving.

@@ -31,7 +31,7 @@ These situations will be discussed on a case-by-case basis.
 
 **Examples of requests that may be approved:**
 
-- A [LinkedIn Learning](/handbook/people-group/learning-and-development/linkedin-learning/) license when there are none remaining in the Learning & Development Team's allocation.
+- A [LinkedIn Learning](/handbook/people-group/learning-and-development/linkedin-learning/) license
 - A Backend Engineer who is not on a performance improvement plan seeking a bachelor's degree in Computer Science.
 - A People Operations Team member seeking a master's in Human Resources with a concentration in International Employee Relations.
 - A Security Analyst seeking to take courses to gain a Cybersecurity certificate through an accredited college or university.
@@ -201,7 +201,7 @@ Examples of English Language Courses:
 
 **Approver (above $1,000 USD):** Manager, E-Group Member
 
-### Self-Service Learning (Skillserve, Coursera, Others)
+### Self-Service Learning (Skillserve, Coursera, LinkedIn Learning Others)
 
 **Description:** GitLab supports team members who wish to continue their growth within their professional career. The course must be related to your career development goal, Individual Growth Plan (IGP), and/or serves the [mission]({{< ref "mission" >}}) of GitLab as a company.
 
@@ -216,16 +216,6 @@ Examples of English Language Courses:
 **Eligibility for Reimbursement:** The course must be related code based learning. A final grade report or satisfactory certificate of completion are required to receive reimbursements over $1,000 USD.
 
 **Approver (above $1,000 USD):** Manager, E-Group Member
-
-### [LinkedIn Learning](https://www.linkedin.com/learning/?u=2255073)
-
-**Before using your Growth & Development Benefit for a LinkedIn Learning license, check in the #learninganddevelopment Slack channel if there are any L&D allocated licenses available.**
-
-**Description:**  The Learning & Development team have an allocation of LinkedIn Learning licenses that can be assigned to team members, but their may be periods of time when the license limit is reached, which may cause long wait times for one to become available for new team members. In these instances we encourage team members to utilise their Growth & Development benefit to purchase their own license, which will help facilitate participation in L&D initiatives.
-
-**Eligibility for Reimbursement:** When there are no company LinkedIn Learning licenses available. Invoice/receipt required when submitting through Navan Expense.
-
-**Approver (above $1,000 USD):**  N/A as an annual license cost does not exceed $1,000 USD.
 
 ### Crucial Conversations training
 
