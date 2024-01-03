@@ -34,12 +34,19 @@ Once the form has been submitted, the L&R Support Engineer should follow the wor
 - Going to the `Zuora Subscriptions` tab.
 - Selecting the appropriate namespace and pressing the `Apply Ultimate Trial` button.
 
+#### Namespaces with a prior Ultimate trial
+
+GitLab.com Premium to Ultimate subscription trials are handled similarly to regular trials regarding namespace eligibility. If a namespace previously underwent a trial (e.g. prior to being upgraded to a Premium subscription), attempting to initiate an Ultimate trial will result in the error `Validation failed: Gl namespace can have only one trial`.
+
+In order to bypass this validation:
+1. **Interim curent state:** Support team should submit a [RFH request](https://gitlab.com/gitlab-com/fulfilment-sub-department/section-fulfilment-request-for-help) to Fulfillment to clear the trial history for the namespace. Once cleared, the trial can be applied.
+1. **Coming soon:** The Fulfillment team is working to [update this validation](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/7382) to skip the existing trial history check for this specific trial type and allow for more than one trial per namespace.
+
 #### Workflow caveats
 
 - For all trials, the renewal start date must align with the end date of the prior subscription term therefore requests for Ultimate trials with the purpose of extending ahead of the renewal date should be denied. It is GitLab policy to align renewal dates with the end of the prior subscription term.
-- Currently GitLab.com Ultimate trials cannot be extended. Once the trial period has elapsed the `Apply Ultimate Trial` button may be displayed again if the namespace remains on Premium after expiration, however pressing the button will not work, as namespaces can only have one trial. This is a known limitation which will be addressed in future versions.
+- GitLab.com Ultimate trials cannot be extended past the 30-day duration. 
 - GitLab.com trials are only available for the GitLab Ultimate Subscription plan.
-- GitLab.com Premium to Ultimate subscription trials are handled similarly to regular trials regarding namespace eligibility. Therefore if a namespace previously underwent a trial (e.g. prior to being upgraded to a Premium subscription), attempting to initiate an Ultimate trial will be unsuccessful, as we only permit one trial per namespace.
 
 ## Extending trials
 
