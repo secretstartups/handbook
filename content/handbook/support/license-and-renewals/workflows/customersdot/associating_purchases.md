@@ -45,7 +45,7 @@ Consider using the [Support::L&R::Change Customers Portal Contact](https://gitla
 If the requestor is an existing subscription contact, have access to the Customer Portal account or email address of the previous owner, guide them to:
 
 1. Trigger a [one time sign-in link](https://customers.gitlab.com/customers/sign_in?legacy=true) to the existing owner's email.
-1. [Claim the account](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#change-account-owner-information) by changing over the personal details.
+1. [Claim the account](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#change-profile-owner-information) by changing over the profile owner details.
 1. [Link their GitLab account](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#link-a-gitlabcom-account) to the Customers Portal account or [change the linked account](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#change-the-linked-account) for authentication.
 1. Once the requestor has updated the account on the Customers Portal, verify that the `Sold To:` contact in the Zuora account matches the Customers Portal account. Follow the [Update Zuora Sold To contact using CustomersDot workflow](#update-zuora-sold-to-contact-using-customersdot) if they do not match.
 
