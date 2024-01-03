@@ -102,6 +102,7 @@
     {{- partial "performance-indicators/chart" (dict "data" . "open" $open) -}}
   {{- end -}}
   {{- with .tableau_data }}
+		**Tableau Chart:**
   	{{- partial "performance-indicators/tableau-chart" (dict "data" . "open" $open) }}
   {{- end }}
 {{- end -}}
