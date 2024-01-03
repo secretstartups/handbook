@@ -42,7 +42,7 @@ Use this workflow for requests to change subscription owner, transfer ownership,
 
 Consider using the [Support::L&R::Change Customers Portal Contact](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/Support/Self-Managed/Change%20Customers%20Portal%20Contact.yaml) macro so the requestor can self-service. **Important**: Do not add the existing `Sold To:` contact as a CC. The requester would see the email address, which would be considered a leak of Personal Data.
 
-If the requester is a existing subscription contact and has access to the Customer Portal account or email address of the previous owner, guide them to:
+If the requester is an existing subscription contact and has access to the Customer Portal account or email address of the previous owner, guide them to:
 
 1. Trigger a [one time sign-in link](https://customers.gitlab.com/customers/sign_in?legacy=true) to the existing owner's email.
 1. [Claim the account](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#change-profile-owner-information) by changing over the profile owner details.
