@@ -17,7 +17,9 @@ Most things work just as any other customer, but there are some differences list
 
 ### Alliance Partner Slack channel
 
-We share a Slack channel with the Alliance Partner Support team. These are named #a_[Alliance Partner name]. This is a good place to engage with their Support team directly for questions and collaboration. If the topic is a specific ticket, do include the Partner ticket id.
+GitLab Support share a Slack channel with the Alliance Partner support team. These are named #a_[Alliance Partner name]. The channel is primarily used for escalations, but can also be used for collaboration between support teams, when warranted.
+
+We do not solve issues in Slack, only in tickets. But we can reach out in the Slack channel if we need more information from the Alliance Partner support team. This could for instance be if an issue involves both GitLab and Alliance Partner products, or to help get material needed to troubleshoot an issue. If the topic is a specific ticket, do include the Alliance Partner ticket id.
 
 ### Regular touch points
 
