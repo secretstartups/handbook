@@ -1,0 +1,19 @@
+{{- /*  Initialize. */}}
+{{- $department := "" }}
+
+{{ $mentors := where (partials.IncludeCached "data/team" page) "mentor" "eq" true }}
+
+<table>
+    <thead>
+      <th>Name</th>
+      <th>Role</th>
+    </thead>
+    <tbody>
+        {{ range $mentors }}
+        <tr>
+            <td>{{ partial "member" . }}</td>
+            <td>{{.role | safe.HTML}}</td>
+        </tr>
+        {{ end }}
+    </tbody>
+</table>
