@@ -76,8 +76,8 @@ graph LR
 - **Cadence**: Every Thursday EOD
 - **Rules**:
     1. The weekly update comment should summarize the current status, progress and remaining work with ETA, confidence in completion, upcoming steps, and highlight any areas requiring help or support.
-    2. Some good examples for the EOW updates can be found [here](https://gitlab.com/groups/gitlab-org/-/epics/8628#note_1090732793) and [here](https://gitlab.com/groups/gitlab-org/-/epics/5152#note_1029337901). 
-    3. **Ensure that issues and epics are updated by Thursday of each week**, enabling the Engineering Manager to provide a summary to the `#test-platform` sub-department for enhanced visibility on Friday.
+    2. Some good examples for the EOW updates can be found [here](https://gitlab.com/groups/gitlab-org/-/epics/8628#note_1090732793) and [here](https://gitlab.com/groups/gitlab-org/-/epics/5152#note_1029337901). Tag the required individuals along with the manager of the team in the EOW updates. 
+    3. **Ensure that issues and epics are updated by Thursday of each week**. This allows for a comprehensive summary to be provided to the `#test-platform` sub-department channel on Friday, enhancing overall visibility and coordination.
 
 #### Monthly Retrospective [Async]
 - **Cadence**: First Monday to Wednesday of each month
