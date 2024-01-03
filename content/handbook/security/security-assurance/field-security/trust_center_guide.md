@@ -24,9 +24,9 @@ This package provides detailed security information to prospective and existing 
 
 ## Two types of Trust Center documentation
 
-- **Readily available information**: The first step on the trust journey, this package is a compilation of publicly available documentation designed to introduce GitLab’s approach to security. Directly available from the [Customer Assurance Package page](https://about.gitlab.com/security/cap/). *All the documents in the Community Package are included in the Customer Packages*.
+- **Readily available information**: The first step on the trust journey, this package is a compilation of publicly available documentation designed to introduce GitLab’s approach to security. Directly available from the [Trust Center](https://trust.gitlab.com).
 
-- **Information under NDA**: This package provides detailed security information to prospective and existing customers for completing vendor security assessments. Due to the sensitive nature of the documentation, an NDA is required to be in place prior to sharing the Customer Packages. Please review the [CAP request process](/handbook/security/security-assurance/field-security/customer-assurance-package.html#cap-request-process) for more details.
+- **Information under NDA**: This package provides detailed security information to prospective and existing customers for completing vendor security assessments. Due to the sensitive nature of the documentation, an NDA is required to be in place prior to sharing specific documents (such as SOC 2 Type 2). The NDA signing process will happened directly through SafeBase.
 
 Due to the nature of some of GitLab's security reports, the [Customer Package](https://about.gitlab.com/security/cap/) is available under a [Non Disclosure Agreement](/handbook/legal/NDA/) or contractual confidentiality  clauses only.
 
@@ -36,12 +36,12 @@ These resources can be requested by a GitLab team member on behalf of a customer
 
 Customers or prospects can request a copy using the `Request by Email` option on our [Customer Assurance Package](https://about.gitlab.com/security/cap/) webpage.
 
-### Requesting new collateral in the CAP
+### Requesting new collateral for the Trust Center
 
-To request new or updated CAP collateral, click the button below:
+To request new or updated Trust Center collateral, click the button below:
 
 <div class="d-grid gap-2 my-4">
-<a href="https://gitlab.com/gitlab-com/gl-security/security-assurance/field-security-team/field-security/-/issues/new?issuable_template=cap_collateral_request" class="btn bg-primary text-white btn-lg">New or updated CAP collateral</a>
+<a href="https://gitlab.com/gitlab-com/gl-security/security-assurance/field-security-team/field-security/-/issues/new?issuable_template=cap_collateral_request" class="btn bg-primary text-white btn-lg">New or updated Trust Center collateral</a>
 </div>
 
 #### SME owned collateral
