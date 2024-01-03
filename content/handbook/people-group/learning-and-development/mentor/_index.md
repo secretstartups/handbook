@@ -71,7 +71,7 @@ The following team members are available as mentors. Schedule a [coffee chat](/h
 
 The `Expertise` column comes from the team member .yaml entry and might not include all subjects they can help you with.
 
-{{< group-by-expertise "Merge Request Coach" >}}
+{{< mentors >}}
 
 ## Become a mentor
 
