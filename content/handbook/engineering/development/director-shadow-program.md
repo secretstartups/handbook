@@ -160,7 +160,7 @@ No, not at this time.
 | January 1, 2024 | Not Available | |
 | January 8 |  [Sameera Perera](https://www.linkedin.com/in/perera-sameera) | Non-GitLab Shadow - Director of R&D @ Celigo |
 | January 15 | Available | |
-| January 22 | Available | |
+| January 22 | Available | [Tyler DeCaire](https://gitlab.com/tdecaire) | Solutions Architect
 | January 29 | [Carla Drago](https://gitlab.com/carlad-gl) | Senior Backend Engineer |
 
 
