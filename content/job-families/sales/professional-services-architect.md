@@ -13,7 +13,7 @@ You will play a critical role in the success of Professional Services engagement
 | [Intermediate Architect](#technical-architect) | [Grade 6](/handbook/total-rewards/compensation/compensation-calculator/#customer-success) |
 | [Senior Architect](#senior-technical-architect) | [Grade 7](/handbook/total-rewards/compensation/compensation-calculator/#customer-success) |
 | [Staff Architect](#staff-technical-architect) | [Grade 9](/handbook/total-rewards/compensation/compensation-calculator/#customer-success) |
-| [Senior Manager, Professional Service Architects](#senior-manager-professional-service-architects) | [Grade 9](/handbook/total-rewards/compensation/compensation-calculator/#customer-success) |
+| [Senior Manager, Professional Service Architects](#senior-manager-professional-services-technical-architects) | [Grade 9](/handbook/total-rewards/compensation/compensation-calculator/#customer-success) |
 
 ### Performance Indicator
 
@@ -92,9 +92,9 @@ You will play a critical role in the success of Professional Services engagement
 - Extends the Senior Technical Architect requirements
 - Has experience with the additional responsibilities of a Staff Techincal Architect
 
-### Senior Manager, Professional Service Architects
+### Senior Manager, Professional Services Technical Architects
 
-The Senior Technical Architect Manager, Professional Services reports to the Director, Professional Services.
+The Senior Manager, Professional Services Technical Architects role reports to the Director, Professional Services.
 
 #### Responsibilities
 
