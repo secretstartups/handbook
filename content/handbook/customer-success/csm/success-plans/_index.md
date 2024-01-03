@@ -77,7 +77,7 @@ As the success plan is a mutually agreed upon living document, the primary forma
 
 The structure of the success plan slide deck focuses on [objectives](#customer-objectives) & [initiatives](#initiatives) as defined above, as well as specific focus on the customer enablement plan and an outline of next steps at any given time. It makes it easy to visualize progress and key details in a way that’s clear and easy to follow, and identify needed updates or demonstrate measurable results.
 
-For ease of discovery and visibility, the success plan slide deck is [linked from the Gainsight success plan](#link-to-the-slide-deck-from-gainsight) using a designated field on the plan info screen. The permissions for the slide deck should be set to Editor for everyone at GitLab, to maximize the ability to collaborate.
+For ease of discovery and visibility, the success plan slide deck must be located in the appropriate [Google Drive Customer Folder](https://drive.google.com/drive/u/1/folders/0B-ytP5bMib9Ta25aSi13Q25GY1U?resourcekey=0-MBirIe2vWyQXYi8cJEkH2Q) as well as [linked in the customer's Gainsight success plan](#link-to-the-slide-deck-from-gainsight) using the designated field on the plan info screen (to the right of Approval Status). The permissions for the slide deck should be set to Editor for everyone at GitLab, to maximize the ability to collaborate.
 
 ### Gainsight success plan
 
