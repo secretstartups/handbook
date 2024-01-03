@@ -104,7 +104,7 @@
   {{- with .tableau_data -}}
   	{{- partial "performance-indicators/tableau-chart" (dict "data" . "open" $open) -}}
   {{- end -}}
-{{- end }}
+{{- end -}}
 
 {{- with .urls }}
 **URL(s):**
