@@ -112,7 +112,7 @@ Are you new to GitLab? Join this webinar, where we will review what GitLab is, h
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_MDTjG0rJTF-rukCbPlqVDA#/registration)
 
 #### Hands-On GitLab CI Lab 
-##### DecembJanuary 10th, 2023 at 10:00-11:30AM UTC / 11:00AM-12:30PM CET
+##### January 10th, 2023 at 10:00-11:30AM UTC / 11:00AM-12:30PM CET
 
 Join us for a hands-on GitLab CI lab and learn how it can fit in your organization!
 
