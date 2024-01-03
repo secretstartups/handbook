@@ -369,11 +369,11 @@ Below is the high level timeline for the formal assessment in Q4 FY24 (Nov, Dec,
 - **2023-12-01:** 5:00pm PST Workday Calibration will be locked
 - **2023-12-01 - 2023-12-08:** Total Rewards and final E-Group review and approval
 - **2023-12-11 - 2023-12-22 (5:00pm PST):** Managers will have access to Workday Talent Assessment to finalize evaluations
-- **2024-01-02 - 2024-01-31:** Managers can communicate Performance/Growth Potential assessment to team members
-- **2024-02-01:** Talent Assessments pending in Workday will be auto advanced to team members*
-- **2024-02-09:** Annual Compensation Review Kicks off for Managers
+- **2024-01-02 - 2024-02-09:** Managers can communicate Performance/Growth Potential assessment to team members
+- **2024-02-12:** Talent Assessments pending in Workday will be auto advanced to team members*
+- **2024-01-09:** Annual Compensation Review Kicks off for Managers
 
-*Team members who are on Leave of Absence (LOA) on 2024-02-01 are excluded from the auto advancement of their talent assessment until they return to work.
+*Team members who are on Leave of Absence (LOA) on 2024-02-12 are excluded from the auto advancement of their talent assessment until they return to work.
 
 ### Cadence
 
