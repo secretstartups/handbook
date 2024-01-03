@@ -25,11 +25,27 @@ IT Security's main function is maintaining internal security posture of GitLab. 
 
 We use our [IT Security](https://gitlab.com/groups/gitlab-com/-/boards/3481285) board to track a lot of our work. If you need assistance with an IT Security issue, you can open an issue in our [issue tracker](https://gitlab.com/groups/gitlab-com/it/security/-/issues) with the ~it-security-status::needs-review label.
 
-## [IT Security and Compliance Tools](/handbook/business-technology/it/security/tools.html.md)
+## [IT Security Tools](/handbook/business-technology/it/security/tools.html.md)
 
 IT Security has some tools at our disposal in order to help the company maintain a SAFE and Secure. These tools include a VPN Solution NordLayer and a Google Drive security tool called Nira. Please follow the link above for more information about these tools. If you have any questions about these tools, please reach out in the [#it_security_help](https://gitlab.slack.com/archives/C03ET01KZK7) Slack channel.
 
+## IT Security Beta Test Program
 
+The IT Security team has built a voluntary beta test program in order to properly test endpoint compliance standards and receive GitLab's latest and greatest updates. GitLab team members can join or leave the program at anytime by indicating in [#it-security-beta-testers](https://gitlab.slack.com/archives/C04Q2J9UB3N) Slack channel. If you wish to join the program, please join the Slack channel and ask to be included in the program. The same goes for leaving the program, please indicate in the Slack channel that you would not like to participate any longer. 
+
+###  Types of testing that happens
+
+IT Security Beta Testers will have access to new changes that includes software and OS patching, new features in Jamf, IT compliance changes, new features in SentinelOne, and any new software we are considering implementing in our tech stack. 
+
+### How a change is introduced
+
+A change issue is created in the Change Management [issue tracker](https://gitlab.com/gitlab-com/business-technology/change-management). The change is then quickly rolled out in an Alpha test consisting of a handful of test endpoints to make sure no major issues or workflow stoppages occur. An announcement is made in the [#it-security-beta-testers](https://gitlab.slack.com/archives/C04Q2J9UB3N) Slack channel linking the change issue. The Change is shortly deployed and discussion occurs in either the Slack thread of the Change announcement or the Change Issue in GitLab. Once feedback has been obtained, IT Security and relevant stakeholders decide on a production release to GitLab.
+
+Members of the beta test program can also recommend new changes they would like to see in the tech stack as well. In order to do so, please create a [change issue](https://gitlab.com/gitlab-com/business-technology/change-management) and post the issue in the [#it-security-beta-testers](https://gitlab.slack.com/archives/C04Q2J9UB3N) Slack channel.
+
+## Secure System Configuration
+
+Part of IT Securty's initiative is to secure Endpoints. For more information, please take a look at our [Secure System Configuration](~/content/handbook/business-technology/it/security/system-configuration.md) guide. 
 
 
 Helpful links and resources:
@@ -56,3 +72,6 @@ Helpful links and resources:
         - [Red Team](/handbook/security/threat-management/red-team)
         - [Security Research](/handbook/security/threat-management/security-research/)
  [Team Member Enablement](/handbook/business-technology/team-member-enablement/) handbook page.
+
+
+[def]: /handbook/business-technology/it/security/system-configuration

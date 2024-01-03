@@ -6,7 +6,7 @@ RoleName: "Account Executive, Mid-Market"
 ## Responsibilities
 
 - Account Executive, Mid-market (AE) will report to a VP of Commercial Sales
-- Support GitLab for our [Mid Market](https://about.gitlab.com/handbook/sales/#market-segmentation) prospects.
+- Support GitLab for our [Mid Market](/handbook/sales/#market-segmentation) prospects.
 - Contribute to root cause analyses on wins/losses.
   - Communicate lessons learned to the team, including account managers, the marketing team, and the technical team.
 - Take ownership of your book of business
@@ -14,7 +14,7 @@ RoleName: "Account Executive, Mid-Market"
   - document the buying process
   - document next steps and owners
   - ensure pipeline accuracy based on evidence and not hope
-- Contribute to documenting improvements in our [sales handbook](https://about.gitlab.com/handbook/sales/).
+- Contribute to documenting improvements in our [sales handbook](/handbook/sales/).
 - Provide account leadership and direction in the pre- and post-sales process
 - Be the voice of the customer by contributing product ideas to our public [issue tracker](https://gitlab.com/gitlab-org/gitlab-ee/issues)
 

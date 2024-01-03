@@ -30,7 +30,7 @@ as soon as the documents are ready for review.
       [this Epic](https://gitlab.com/groups/gitlab-com/support/-/epics/188)
 - Add a link to the document into the Support Promotions Projects spreadsheet
 - Complete the document with the Support Engineer
-- Create a public Google Docs view link to the document for everyone at Gitlab
+- Create a public Google Docs view link to the document for everyone at GitLab
   to allow sharing, as this is the document that will be used in the promotion
   calibration and approval process
 - Discuss the promotion candidate with your manager
@@ -49,8 +49,9 @@ as soon as the documents are ready for review.
 
 #### Announcement
 
-- Once approval has been received from People team, notify the engineer.
-- Send a message to the `#team-member-updates` Slack channel.
+- Once approval has been received from People team, notify the support engineer.
+- Ask the Support Engineer to create a [checklist issue](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=Promotion-JobTitleUpdates) for themselves to update their job title where appropriate.
+- Announce in the `#team-member-updates` Slack channel.
 - Share the message from `#team-member-updates` into the `#support-team-chat` channel for Support Team visibility.
 - Go multi-modal and [add an announcement](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/SWIR/) to the [Support Week in Review (SWIR)](/handbook/support/#support-week-in-review), using the "Team Member Updates" category
 - Move the promotion doc to the [Individual Docs folder](https://drive.google.com/drive/search?q=Individual%20Docs)

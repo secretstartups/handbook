@@ -5,12 +5,6 @@ description: DevOps Platform POV Scope and Acceptance
 ---
 
 
-
-
-
-
-{{% include "includes/solutions-architects-navigation.md" %}}
-
 ## DevOps Platform POV Scope and Acceptance
 
 The platform value play will provide an overview of the DevOps Platform solution and the pain points it addresses across the enterprise instead of individual stages or silos, outline key quenstions you can ask to assess the customer's needs and identify the relevant aspects of the solution, and offer paths to other discussions of GitLab's value.
@@ -55,7 +49,7 @@ If you have identified the platform POV, reach out to the Strategic Field team f
 
 ### Proof Points Consideration
 
-If the platform based POV is focusing on the technical metrix, it may require setup of HA-based Gitlab with scalable runner fleets which can result in a wide range of technical issues. The account team needs to possess this technical capabilities with priority support. This scope of work needs to be managed with a detailed project management steps and issue tracking. The technical metrics acceptance must be clarified and mutually agreed with feasibility to carry out in 4-6 weeks.
+If the platform based POV is focusing on the technical metrix, it may require setup of HA-based GitLab with scalable runner fleets which can result in a wide range of technical issues. The account team needs to possess this technical capabilities with priority support. This scope of work needs to be managed with a detailed project management steps and issue tracking. The technical metrics acceptance must be clarified and mutually agreed with feasibility to carry out in 4-6 weeks.
 
 It is recommended to provide proof points from other sources, instead of carrying out large scale POV. For example the proof points can be obtained using gitlab.com itself and reference customers with similar user and repo counts, and similar technology / cloud profile.
 
@@ -63,8 +57,8 @@ It is recommended to provide proof points from other sources, instead of carryin
 
 SA working with SAE and AE can define the POV scope with the customer, with alignment to the business values and the GitLab solution. For each solution, the typical scope and acceptances are listed for reference but the team should define the scope, time and execution with acceptance for each engagement.
 
-- [DevSecOps](https://about.gitlab.com/handbook/customer-success/solutions-architects/tools-and-resources/pov/devsecops/)
-- [Software Compliance](https://about.gitlab.com/handbook/customer-success/solutions-architects/tools-and-resources/pov/compliance/)
-- [Automated Software Delivery](https://about.gitlab.com/handbook/customer-success/solutions-architects/tools-and-resources/pov/automation/)
+- [DevSecOps](/handbook/customer-success/solutions-architects/tools-and-resources/pov/devsecops/)
+- [Software Compliance](/handbook/customer-success/solutions-architects/tools-and-resources/pov/compliance/)
+- [Automated Software Delivery](/handbook/customer-success/solutions-architects/tools-and-resources/pov/automation/)
 
 

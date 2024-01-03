@@ -5,13 +5,6 @@ description: Automated Software Delivery POV Scope and Acceptance
 ---
 
 
-
-
-
-
-{{% include "includes/solutions-architects-navigation.md" %}}
-
-
 ## Automated Software Delivery POV Scope and Acceptance
 
 The Automated Software Delivery solution is identified for organizations who are trying to reduce the complexity and increase the velocity of Continuous Integration (CI) and Continuous Delivery/Deployment (CD) capabilities to deliver better software faster.
@@ -47,9 +40,9 @@ The key objective of the POV is to validate the value of a tightly connected CI/
 
 SA working with SAE and AE can define the POV scope with the customer, with alignment to the business values and the GitLab solution. For each solution, the typical scope and acceptances are listed for reference but the team should define the scope, time and execution with acceptance for each engagement.
 
-- [DevSecOps](https://about.gitlab.com/handbook/customer-success/solutions-architects/tools-and-resources/pov/devsecops/)
-- [Software Compliance](https://about.gitlab.com/handbook/customer-success/solutions-architects/tools-and-resources/pov/compliance/)
-- [DevOps Platform](https://about.gitlab.com/handbook/customer-success/solutions-architects/tools-and-resources/pov/platform/)
+- [DevSecOps](/handbook/customer-success/solutions-architects/tools-and-resources/pov/devsecops/)
+- [Software Compliance](/handbook/customer-success/solutions-architects/tools-and-resources/pov/compliance/)
+- [DevOps Platform](/handbook/customer-success/solutions-architects/tools-and-resources/pov/platform/)
 
 
 

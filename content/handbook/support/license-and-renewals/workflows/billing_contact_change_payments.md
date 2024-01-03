@@ -26,7 +26,7 @@ In the past when making contact changes in Zuora this was done by billing.  Rece
 1. Verify that they are associated with the account / authorised to make the request, by checking the following:
    - If the requester has access to the current subscription information in [CustomersDot](https://customers.gitlab.com/customers/sign_in).
    - If the requester is presently listed as the `Sold To:` contact currently on file.
-   - If they pass the [account ownership verification](/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases.html#ownership-verification)
+   - If they pass the [account ownership verification](/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases#ownership-verification)
 1. To update the Zuora contact information from within [CustomersDot](https://customers.gitlab.com/customers/sign_in) refer to the [Update Zuora Sold To contact using CustomersDot](/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases/#update-zuora-sold-to-contact-using-customersdot) section of the `Associating purchases with additional accounts` page in the L&R workflow portion of the handbook.
 1. If the change to Zuora is outside changing either the `Bill To:` or `Sold To:` on record or their address information, please transfer the ticket to AR and in a private update inform them of what needs to be changed along with why we need them to make this change themselves.
 
@@ -58,7 +58,7 @@ The most common issue that we will see is the renewal license being generated wi
 
 When an entity change occurs the original account and subscription associated with that account in Zuora are cancelled and a new account and subscription are created.  This causes the group that is associated with the original subscription to drop to the Free tier of service until the new subscription is associated to the group.
 
-These situations are handled by the account manager for the customer by opening an [IR ticket](https://gitlab-com.gitlab.io/support/internal-requests-form/) and selecting the option `Billing Entity change` from under the `SaaS Subscription Related` section of the dropdown list.
+These situations are handled by the account manager for the customer by opening an [Internal Request](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/). Use the **GitLab Support Internal Requests for Global customers** request option, and **Billing Entity change** for the internal request type.
 
 ### How to handle Billing Entity changes
 
@@ -164,7 +164,7 @@ GitLab provides subscriptions on an annual basis which are not eligible for term
 1. Use the [`General::Accounts Receivable`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360038646513) macro to transfer the ticket to AR to advise and process if relevant. They will reply to the customer once done.
 
 Note: we cannot do partial refunds, so when a refund is requested, the whole
-subscription will have to be cancelled and refunded. See [Renewal reversal](/handbook/support/license-and-renewals/workflows/billing_contact_change_payments.html#renewal-reversal) for accidental renewal scenarios.
+subscription will have to be cancelled and refunded. See [Renewal reversal](/handbook/support/license-and-renewals/workflows/billing_contact_change_payments#renewal-reversal) for accidental renewal scenarios.
 
 ## Invoice
 

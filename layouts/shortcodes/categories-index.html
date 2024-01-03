@@ -1,0 +1,27 @@
+{{ $categories := partials.IncludeCached "data/categories" . }}
+{{ $stages := partials.IncludeCached "data/stages" . }}
+
+<table>
+    <thead>
+        <tr>
+        <th>Category</th>
+        <th>Group</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{ range $k, $v := $categories }}
+        <tr>
+        <td>{{ .name }} <code>{{$k}}</code></td>
+        <td>{{- $cat := $k }}
+            {{- range $key, $data := $stages }}
+            {{- range $k, $v := $data.groups }}
+                {{- if in .categories $cat }}
+                <a href="#{{$k}}">{{ $v.name }}</a>
+                {{- end }}
+            {{- end }}
+            {{- end }}
+        </td>
+        </tr>
+        {{ end }}
+    </tbody>
+</table>

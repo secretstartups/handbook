@@ -16,16 +16,16 @@ description: "The Fulfillment Sub-department is responsible for the infrastructu
 | [Fulfillment Direction](https://about.gitlab.com/direction/fulfillment/) | Fulfillment vision and what we are working on next. |
 | [docs.gitlab.com Subscription](https://docs.gitlab.com/ee/subscriptions/) | Customer-facing documentation around GitLab subscriptions, including Customer Portal (customers.gitlab.com) information. |
 | Fulfillment Guide (this page) | Documentation around CustomersDot Admin tools and process documentation that is not part of the docs.gitlab.com Subscription documentation above. |
-| [Fulfillment Development Sub-Department](https://about.gitlab.com/handbook/engineering/development/fulfillment/) | Team members, stable counterparts (PM, UX, Quality, Security, EntApps, Field Ops, Sales, Billing, Customer Success, Support Engineering), project management processes, and more. |
+| [Fulfillment Development Sub-Department](/handbook/engineering/development/fulfillment/) | Team members, stable counterparts (PM, UX, Quality, Security, EntApps, Field Ops, Sales, Billing, Customer Success, Support Engineering), project management processes, and more. |
 | [Internal Handbook - Fulfillment](https://internal.gitlab.com/handbook/product/fulfillment/) | Documentation that can't be in the public handbook. Minimize this to only [Not Public](/handbook/communication/confidentiality-levels/#not-public) information. |
 | [Cloud Licesing Overview (External)](/pricing/licensing-faq/cloud-licensing/) | Why Cloud Licensing, data collected, customer pre-requisites |
 | [Cloud Licensing (Internal)](https://internal.gitlab.com/handbook/product/fulfillment/cloudlicensing/cloud-licensing/) | Internal handbook information about Cloud Licensing |
-| [Deal Desk Handbook](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/) | Standard Quote Configuration (new subscription, amend subscription, add-on quote creation, upgrade or product switch during subscription term, renewal, channel deals, true-ups, co-terms, Starter/Bronze End of Availability, SuperSonics, Professional Services), Non-Standard Quotes (Contract Resets, Concurrent Subscriptions, Multi-year Deals, Ramp deals), Alliance Marketplace Private Offers, and more.  |
-| [Sales Order Processing](https://about.gitlab.com/handbook/sales/field-operations/order-processing/) | Account and opportunity creation, quote configuration, approvals process, opportunity booking requirements, closing an opportunity. |
+| [Deal Desk Handbook](/handbook/sales/field-operations/sales-operations/deal-desk/) | Standard Quote Configuration (new subscription, amend subscription, add-on quote creation, upgrade or product switch during subscription term, renewal, channel deals, true-ups, co-terms, Starter/Bronze End of Availability, SuperSonics, Professional Services), Non-Standard Quotes (Contract Resets, Concurrent Subscriptions, Multi-year Deals, Ramp deals), Alliance Marketplace Private Offers, and more.  |
+| [Sales Order Processing](/handbook/sales/field-operations/order-processing/) | Account and opportunity creation, quote configuration, approvals process, opportunity booking requirements, closing an opportunity. |
 | [Internal Support](/handbook/support/internal-support/) | Submitting all requests around licensing, subscription, trials, and grace periods. |
 | [Licensing FAQ](/pricing/licensing-faq/) | Common questions around purchasing, licensing, billing, contacting sales, and more |
 | [Finance and Legal Authorization Matrix](/handbook/finance/authorization-matrix/) | |
-| [Trade Compliance](https://about.gitlab.com/handbook/legal/trade-compliance/) | |
+| [Trade Compliance](/handbook/legal/trade-compliance/) | |
 | [Billing, invoice and payment requests](/handbook/support/license-and-renewals/workflows/billing_contact_change_payments.html) | Zuora contact change, Zuora entity change and effects on SM/SaaS subscriptions, cancellations, downgrades, refunds, invoices, payments, credit card removals, renewal reversals, split payment requests |
 | [Troubleshooting: True Ups, licenses + EULAs](/handbook/business-technology/enterprise-applications/quote-to-cash/troubleshooting/) | |
 | [Quote-to-Cash systems documentation (EntApps)](/handbook/business-technology/enterprise-applications/quote-to-cash/) | Overview of systems, EntApps Architecture, Process Flow Diagrams, Entity Relationship Diagrams |
@@ -181,7 +181,7 @@ Once subscription is renewed, the `Access temporarily extended until YYYY-MM-DD`
 | Customer account labeled as having bad debt | Billing team has identified this account as having bad debt. You will see either of these fields populated on the Zuora Billing Account: `Support hold`, `Credit hold`. |
 | Customer account belongs to a trade restricted country | Customers with the SoldTo address in [these countries](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/6431#proposal) are not eligible for a temporary extension. |
 
-All technical problems should be shared with Fulfillment according to [these instructions](https://gitlab.com/gitlab-org/fulfillment/meta/-/issues/1514#instructions-please-read-before-posting). Once the problem has been reported, please follow the existing process of submitting an [Internal Request](https://gitlab-com.gitlab.io/support/internal-requests-form/) to Support so that your customer can receive a subscription extension.
+All technical problems should be shared with Fulfillment according to [these instructions](https://gitlab.com/gitlab-org/fulfillment/meta/-/issues/1514#instructions-please-read-before-posting). Once the problem has been reported, please follow the existing process of submitting an [Internal Request](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/) to Support so that your customer can receive a subscription extension. Use either the **GitLab Support Internal Requests for Global customers** or **GitLab Support Internal Requests for Federal customers** request option, then select the appropriate internal request type, either for SaaS or Self-Managed.
 
 ### Accessing GCP logs
 
@@ -256,7 +256,7 @@ There’s an automated process (Zuora Workflow) that sets `Subscription.TurnOnAu
 ##### Other public docs
 
 - [Auto-renewals FAQ](https://about.gitlab.com/pricing/faq-improved-billing-and-subscription-management/#auto-renewals)
-- [Community programs renewal workflow](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/automated-community-programs/#renewal)
+- [Community programs renewal workflow](/handbook/marketing/developer-relations/community-programs/automated-community-programs/#renewal)
 
 ##### Developer docs
 
@@ -726,7 +726,7 @@ If a bug is discovered that impacts Fulfillment, including provisioning, purchas
 **Reporting the issue**
 
 1. Open a new [Fulfillment Meta bug intake issue](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/new) (select the bug_intake template) outlining what is known about the bug.
-   1. Tag [Fulfillment Product Management](https://about.gitlab.com/handbook/engineering/development/fulfillment/#fulfillment-product-management) by mentioning the `@fulfillment-group/leadership/fulfillment-pm` group.
+   1. Tag [Fulfillment Product Management](/handbook/engineering/development/fulfillment/#fulfillment-product-management) by mentioning the `@fulfillment-group/leadership/fulfillment-pm` group.
    1. Assign the issue to `ofernandez2` for review and action.
 1. Post the link to the issue on Slack in #s_fulfillment and in #business-fulfillment-sync for broad awareness and review.
 
@@ -762,7 +762,7 @@ You can look at sample code that generates the counts by searching for `subscrip
 
 **What is Operational vs Optional Data?**
 
-Our [service usage data](https://about.gitlab.com/handbook/legal/privacy/customer-product-usage-information/) primarily aggregate counts from your instance (e.g. counts of issues or MRs) and is sent to GitLab on a weekly (or slower) cadence.
+Our [service usage data](/handbook/legal/privacy/customer-product-usage-information/) primarily aggregate counts from your instance (e.g. counts of issues or MRs) and is sent to GitLab on a weekly (or slower) cadence.
 
 1. Operational Data: This is the data that is tied to your subscription account/license. Our goal with this data is to capture aggregate counts to help the GitLab Customer Success and Sales teams help customers better adopt GitLab and get value out of their investment. Those counters can be viewed on metrics.gitlab.com by searching for "operational" and looking for the operational category. These operational events are agnostic of how you've activated your instance.
 2. Optional Data: [Optional Data](https://metrics.gitlab.com/?q=optional) is a similar type of metric (aggregate counts) but a much larger set than the Operational metrics. This is configured/opted-out by you, in your instance, and has nothing to do with your subscription. If you choose to share that data our Product teams would appreciate the insights to understand where to invest R&D resources to continue to mature our platform. Otherwise, you can ignore for your renewal and follow the opt-out steps documented [here](https://docs.gitlab.com/ee/development/service_ping/index.html#disable-service-ping).
@@ -808,9 +808,9 @@ We will minimize such logic and remove it from the application code whenever pos
 
 ### Prioritization Process
 
-Our roadmap is prioritized and scheduled following our [Project management process](https://about.gitlab.com/handbook/engineering/development/fulfillment/#project-management-process). We aim to update this roadmap every month as a part of our milestone [planning process](https://about.gitlab.com/handbook/engineering/development/fulfillment/#planning).
+Our roadmap is prioritized and scheduled following our [Project management process](/handbook/engineering/development/fulfillment/#project-management-process). We aim to update this roadmap every month as a part of our milestone [planning process](/handbook/engineering/development/fulfillment/#planning).
 
-To request work to be added to the Fulfillment roadmap, please follow our [intake request process](https://about.gitlab.com/handbook/engineering/development/fulfillment/#intake-request). Changes in priorities of this roadmap follow our [prioritization process](https://about.gitlab.com/handbook/engineering/development/fulfillment/#prioritization).
+To request work to be added to the Fulfillment roadmap, please follow our [intake request process](/handbook/engineering/development/fulfillment/#intake-request). Changes in priorities of this roadmap follow our [prioritization process](/handbook/engineering/development/fulfillment/#prioritization).
 
 The source of truth for all Fulfillment projects is our **[in-product Fulfillment Roadmap](https://gitlab.com/groups/gitlab-org/-/roadmap?state=all&sort=end_date_asc&layout=QUARTERS&timeframe_range_type=THREE_YEARS&label_name%5B%5D=Fulfillment+Roadmap&progress=COUNT&show_progress=true&show_milestones=false&milestones_type=GROUP)**.
 
@@ -864,13 +864,13 @@ Prioritization based on the established criteria will drive the order in which w
 
 To minimize impact and give more predictability to partner teams, we will minimize changes to initiatives that we’ve already agreed with cross-functional partners to do within the ongoing quarter.
 
-Anyone can request new items to be added to the roadmap via an [intake request](https://about.gitlab.com/handbook/engineering/development/fulfillment/#intake-request).
+Anyone can request new items to be added to the roadmap via an [intake request](/handbook/engineering/development/fulfillment/#intake-request).
 
 #### Quarterly cross-functional review
 
 One of our prioritization goals is to maximize overall team output across Fulfillment and cross-functional partners. We want to give transparency to all GitLab team members about the work that Fulfillment and its partner teams plan to deliver.
 
-To enable this, we will do a roadmap review with our [stable counterparts](https://about.gitlab.com/handbook/engineering/development/fulfillment/#stable-counterparts) before the beginning of a new fiscal quarter. As part of this review, we gather feedback on roadmap priorities, update the roadmap based on the feedback, and agree with partners on the scope and delivery milestones for the upcoming 3-6 months.
+To enable this, we will do a roadmap review with our [stable counterparts](/handbook/engineering/development/fulfillment/#stable-counterparts) before the beginning of a new fiscal quarter. As part of this review, we gather feedback on roadmap priorities, update the roadmap based on the feedback, and agree with partners on the scope and delivery milestones for the upcoming 3-6 months.
 
 During these quarterly reviews we will aim to commit up to 70% of Fulfillment’s engineering capacity for the upcoming quarter, and no more than 30% of capacity for the quarter after. This is meant to provide enough visibility into upcoming activities for cross-functional partners to plan for them while leaving room for reprioritization and changes as needed.
 

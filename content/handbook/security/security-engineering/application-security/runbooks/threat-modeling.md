@@ -3,6 +3,10 @@ title: "AppSec Threat Modeling Process"
 description: "This threat modeling process is tailored to GitLab features."
 ---
 
+## :warning: Prioritization Note
+
+[As of 2023-11-02, AppSec is only prioritizing P1 AppSec reviews and threat models](https://gitlab.com/gitlab-com/gl-security/appsec/appsec-team/-/issues/475#note_1632226713). This does not mean P2 or P3 AppSec reviews or threat model requests can't be submitted, but please understand that due to capacity limitations we will only be able to prioritize P1 reviews. Reach out to us in the #sec-appsec Slack channel if you have any questions or concerns.
+
 ## Using the `threat model` scoped labels
 
 To assist in the creation of threat models the two labels `~threat model::needed` and `~threat model::done`
@@ -37,7 +41,7 @@ for various threat modeling cases throughout GitLab.
   [Stage V - Vulnerability and Weakness Analysis]({{< ref "/handbook/security/threat-modeling/#stage-v---vulnerability-and-weakness-analysis" >}})
   would be the actual technical review process which allows us to verify
   the assumptions of the two previous stages.
-  
+
 In total this would reflect the
 [evidence driven threat model]({{< ref "/handbook/security/threat-modeling#evidence-driven-threat-model" >}})
 within the review.
@@ -79,7 +83,7 @@ graph TB
 ```
 
 Considering this diagram we can already spot a trust boundary between the
-`agentk` and the `Gitlab` components. The flow of data is also depicted
+`agentk` and the `GitLab` components. The flow of data is also depicted
 in a usable way for threat modeling and the involved components wich consume
 or provide data are visible. Such a diagram can now be used and complemented
 with actual threat and security context to form an actual threat model.

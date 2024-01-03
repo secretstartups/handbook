@@ -10,8 +10,8 @@ Resellers, integrators and other sales and services partners join the
 partner program in the Open track. Open is for all partners in the DevOps
 space, or ItaaS and other adjacent spaces that are committed to investing
 in their DevOps practice buildout. Also, the Open track is for partners seeking
-to develop customers or just wanting to learn about Gitlab and participate in
-the Gitlab partner community. GitLab Open Partners may or may not be
+to develop customers or just wanting to learn about GitLab and participate in
+the GitLab partner community. GitLab Open Partners may or may not be
 transacting partners, and can earn product discounts or referral fees.
 
 ## Contacting Support
@@ -64,7 +64,7 @@ the circumstances under which a ticket is raised. Some examples are:
 
 1. An Open Partner is doing internal training, testing or knowledge
    building. They should raise a ticket under their account using their
-   [NFR licences](https://about.gitlab.com/handbook/resellers/#nfr-programpolicy).
+   [NFR licences](/handbook/resellers/#nfr-programpolicy).
 
 These examples are not exhaustive. If in doubt, ask questions about the
 situation under which the ticket is being raised.

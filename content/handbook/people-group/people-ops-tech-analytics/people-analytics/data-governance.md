@@ -43,7 +43,7 @@ Here are some guidelines that the GitLab Data and other functional teams follow 
 
 By following these guidelines, we can ensure that we are only collecting and processing personal data that is necessary for our business needs, and that we are protecting the privacy and security of our team members.
 
-When collecting and processing personal data related to people data analytics at GitLab, it is important to determine the lawful basis for processing. You can read more about this topic in [GitLab's Employee Privacy Policy](https://about.gitlab.com/handbook/legal/privacy/employee-privacy-policy/). In the data team, we use [Slowly Changing Dimensions](/handbook/business-technology/data-team/platform/edw/#slowly-changing-dimensions--snapshots) to cover both the current and historical view of the data in the warehouse. Depending on the type of People Data collected, we use different slowly changing dimensions.
+When collecting and processing personal data related to people data analytics at GitLab, it is important to determine the lawful basis for processing. You can read more about this topic in [GitLab's Employee Privacy Policy](/handbook/legal/privacy/employee-privacy-policy/). In the data team, we use [Slowly Changing Dimensions](/handbook/business-technology/data-team/platform/edw/#slowly-changing-dimensions--snapshots) to cover both the current and historical view of the data in the warehouse. Depending on the type of People Data collected, we use different slowly changing dimensions.
 
 - Where consent is the lawful basis
 

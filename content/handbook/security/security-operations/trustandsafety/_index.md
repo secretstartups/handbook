@@ -21,12 +21,12 @@ We want to make our corner of the internet a little safer, but also be the best 
 
 ## Our Responsibilities
 
-- Detect user generated [Abuse on gitLab.com]({{< ref "abuse-on-gitlab-com" >}})
+- Detect user generated [Abuse on GitLab.com]({{< ref "abuse-on-gitlab-com" >}})
 - Review reported accounts for abusive activity on GitLab.com.
 - Remove user generated content on GitLab.com that violate of our [Terms of Service](https://about.gitlab.com/terms/).
 - Mitigating malicious user generated activity on GitLab.com.
 - Review Account Reinstatement requests.
-- Review [DMCA](https://about.gitlab.com/handbook/dmca/) (Digital Millennium Copyright Act) and Trademark Infringement notices.
+- Review [DMCA](/handbook/dmca/) (Digital Millennium Copyright Act) and Trademark Infringement notices.
 - Reporting malicious activity impacting GitLab.com to the relevant service providers.
 
 ### <i class="fas fa-users" id="biz-tech-icons"></i> The Team
@@ -70,8 +70,8 @@ We want to make our corner of the internet a little safer, but also be the best 
 
 ### Reporting Abuse
 
-- To report **abusive** activity, see our [Abuse on Gitlab.com page]({{< ref "abuse-on-gitlab-com" >}}).
-- Copyright and Trademark infringements, see our [Intellectual Property on Gitlab.com page]({{< ref "intellectual-property-on-gitlab-com" >}}).
+- To report **abusive** activity, see our [Abuse on GitLab.com page]({{< ref "abuse-on-gitlab-com" >}}).
+- Copyright and Trademark infringements, see our [Intellectual Property on GitLab.com page]({{< ref "intellectual-property-on-gitlab-com" >}}).
 - Frequently Asked Questions, see our [FAQ page]({{< ref "./faq" >}}).
 
 ### Working with GitLab Trust and Safety Team
@@ -82,7 +82,7 @@ We want to make our corner of the internet a little safer, but also be the best 
 
 Feature proposals can be submitted for the following:
 
-- [Gitlab.com](https://gitlab.com/gitlab-com),
+- [GitLab.com](https://gitlab.com/gitlab-com),
 - GitLab [CE](https://about.gitlab.com/install/?version=ce) and;
 - GitLab [EE](https://about.gitlab.com/install/);
 

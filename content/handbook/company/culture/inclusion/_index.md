@@ -109,7 +109,7 @@ Source: GitLab's People Analytics Team, WorkDay
 - Have a request for DIB support?  [Open an issue here](https://gitlab.com/gitlab-com/people-group/dib-diversity-inclusion-and-belonging/diversity-and-inclusion/-/issues/new?issue%5Bmilestone_id%5D=).
 - Stay updated via our slack channel - `#diversity_inclusion_and_belonging`
 - Have questions or suggestions for diversity, inclusion and belonging?  Please email `diversityinclusion@gitlab.com`
-- **Monthly DIB Initiatives Company Call**. This call will allow time for GitLab team members to gain an understanding of what we are doing with DIB here at GitLab. It is the second Wednesday of every month. If you aren't able to attend live calls, and would like to listen in on past calls, you can do so [here](https://www.youtube.com/playlist?list=PL05JrBw4t0KqB4N2ruo8nsCwQzBocw-Hn) with our DIB playlist.  You have to be logged into GitLab Unfiltered. If you are not sure how to log into GitLab Unfiltered, you can review how to [here](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube).
+- **Monthly DIB Initiatives Company Call**. This call will allow time for GitLab team members to gain an understanding of what we are doing with DIB here at GitLab. It is the second Wednesday of every month. If you aren't able to attend live calls, and would like to listen in on past calls, you can do so [here](https://www.youtube.com/playlist?list=PL05JrBw4t0KqB4N2ruo8nsCwQzBocw-Hn) with our DIB playlist.  You have to be logged into GitLab Unfiltered. If you are not sure how to log into GitLab Unfiltered, you can review how to [here](/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube).
 
 ## Values
 
@@ -311,7 +311,7 @@ If you are a team member on a GitLab Inc or Federal contract and a disabled vete
 
 ### Diversity, Inclusion & Belonging Training and Learning Opportunities
 
-- [Gitlab's Diversity, Inclusion & Belonging Certification on Gitlab LevelUp](https://levelup.gitlab.com/learn/course/dib-training-certification/gitlab-dib-certification-training/welcome-to-gitlab-dib-certification-training?client=internal-team-members)
+- [GitLab's Diversity, Inclusion & Belonging Certification on GitLab LevelUp](https://levelup.gitlab.com/learn/course/dib-training-certification/gitlab-dib-certification-training/welcome-to-gitlab-dib-certification-training?client=internal-team-members)
 - [Live Inclusion training](https://www.youtube.com/watch?v=gsQ2OsmgqVM&feature=youtu.be)
 - [Live Ally training](https://www.youtube.com/watch?v=wwZeFjDc4zE&feature=youtu.be)
 - Understanding [unconscious bias]({{< ref "unconscious-bias" >}})
@@ -386,7 +386,7 @@ We encourage organizers of events that are supported through our [GitLab Diversi
 - **Ethnicity**: Can be more broadly defined as “large groups of people classed according to common racial, national, tribal, religious, linguistic, or cultural origin or background.”
     - For example people who are Black/African Descent can have a variety of ethnicities such as African,  African American, Afro-Caribbean, Afro-Latinx etc. Whilst physical characteristics can be similar there could be cultural differences.
 - **Underrepresented Group** This can be defined as a group whose percentage of the population in a given group is lower than their percentage of the population of country, community, organization or otherwise.
-    - An example of this at Gitlab is: Women within Senior Leadership is still low compared to Men within Senior Leadership. Which meant that Gitlab created the goal of 50% of all senior leadership should be women by December 2021 to address the imbalance within this underrepresented group.
+    - An example of this at GitLab is: Women within Senior Leadership is still low compared to Men within Senior Leadership. Which meant that GitLab created the goal of 50% of all senior leadership should be women by December 2021 to address the imbalance within this underrepresented group.
 - **TMRG (Team Member Resource Group)** - In other organizations, a TMRG can be an ERG (Employee Resource Group). TMRGs are voluntary, team member-led groups focused on fostering diversity, inclusion and belonging within GitLab. These groups help team members build stronger internal and external connections; offer social, educational, and outreach activities; create development opportunities for future leaders; and increase engagement among team members.
 - **Ally** - A diversity, inclusion and belonging "ally" is someone who is willing to take action in support of another person, in order to remove barriers that impede that person from contributing their skills and talents in the workplace or community.
 - **Allyship** - Is the state of being an ally, supporting or being a member of  groups or associations of the people you are an ally too. An example of this is someone who does not identify as part of the [LGBTQI+](https://socialprotection-humanrights.org/key-issues/disadvantaged-and-vulnerable-groups/lgbtqi/) community being a part of the TMRG and supporting the endeavors.

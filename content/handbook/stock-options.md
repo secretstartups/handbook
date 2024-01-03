@@ -37,7 +37,7 @@ The difference in these two types of grants are, generally, as follows:
 
 ### Restricted Stock Units (RSUs)
 
-In September 2021, in connection with our IPO that occurred on October 14, 2021, our board of directors and stockholders approved the  2021 Equity Incentive Plan (the “2021 Plan”) as a successor to our 2015 Plan (together the “Plans”). The  2021 Plan authorizes the award of both stock options, which are intended to qualify for tax treatment  under Section 422 of the Internal Revenue Code, and nonqualified stock options, as well for the award of  restricted stock awards (“RSAs”), stock appreciation rights (“SARs”), restricted stock units (RSUs), and performance and stock  bonus awards. Pursuant to the 2021 Plan, NQ stock options may be granted only to our team  members. Since September 2021, we have issued RSUs for grants of shares of the Company’s common stock, the vesting of which is based on the requisite service requirement. Generally, the Company’s RSUs are subject to forfeiture and are expected to vest over two to four years ratably on a combination of bi-annual and quarterly basis. For RSU Grant Cadence and Vesting please see the following [slide deck](https://docs.google.com/presentation/d/1x65JGyptF3_eRQHcrESxWkBMEvbn5JVs/edit#slide=id.gf031717001_1_447)
+In September 2021, in connection with our IPO that occurred on October 14, 2021, our board of directors and stockholders approved the  2021 Equity Incentive Plan (the “2021 Plan”) as a successor to our 2015 Plan (together the “Plans”). The  2021 Plan authorizes the award of both stock options, which are intended to qualify for tax treatment  under Section 422 of the Internal Revenue Code, and nonqualified stock options, as well for the award of  restricted stock awards (“RSAs”), stock appreciation rights (“SARs”), restricted stock units (RSUs), and performance and stock  bonus awards. Pursuant to the 2021 Plan, NQ stock options may be granted only to our team  members. Since September 2021, we have issued RSUs for grants of shares of the Company’s common stock, the vesting of which is based on the requisite service requirement. Generally, the Company’s RSUs are subject to forfeiture and are expected to vest over two to four years ratably on a combination of bi-annual and quarterly basis. For RSU Grant Cadence and Vesting please see the following [slide deck](https://docs.google.com/presentation/d/1a3iisaLdoMFdujTyh9K2gYB2eOTi1xC2Ul7ycj7HkSg/edit#slide=id.p)
 
 ### Sell-to-cover - RSUs
 
@@ -67,32 +67,26 @@ In September 2021, the Company’s board of directors and its stockholders appro
 1. Must be actively employed at the beginning of the Offering Period to enroll
 1. Must be actively employed on the last date of the Purchase Period to be able to purchase
 1. Eligible ESPP GitLab Entities
-  - Canada Corp (Canada)
-  - GmbH (Germany)
-  - BV (Netherlands/Belgium/Finland)
-  - Inc. & Federal (United States)
-  - Ltd (United Kingdom)
-  - PTY Ltd (Australia/New Zealand)
-  - Ireland Ltd (Ireland) - as of 2023-06-01
-  - BV (Finland)  - as of 2023-06-01
-
-### Changing Contribution Amounts
-
-  - Contribution increases and decreases are limited during Offering and Purchase Periods
-  - Increases: Team members may not increase their contributions after the Offering Period begins.
-  - Decreases: Team Members  may decrease their contribution rates once during any Offering Period.
-
-### Stop Contributions
-
-  - Team members may reduce their contribution to 0% during an offering period.
-  - Any prior contributions will be used to purchase shares on the scheduled purchase date.
-  - At the end of the offering period, the team member will be automatically withdrawn from the offering period effective as of the day after the purchase date following the date of the request.
-  - Team members would need to re-enroll as a new participant in the next open enrollment window and begin a new Offering Period  if they wish to participate in the future.
-
-### Withdrawals
-
-  - Team members may withdraw from the ESPP at any time and receive a refund of their withheld contributions. The refunds are processed through Payroll.
-  - Team members who withdraw would need to re-enroll in order to participate in future Offering Periods.
+   - Canada Corp (Canada)
+   - GmbH (Germany)
+   - BV (Netherlands/Belgium/Finland)
+   - Inc. & Federal (United States)
+   - Ltd (United Kingdom)
+   - PTY Ltd (Australia/New Zealand)
+   - Ireland Ltd (Ireland) - as of 2023-06-01
+   - BV (Finland)  - as of 2023-06-01
+1. Changing Contribution Amounts
+   - Contribution increases and decreases are limited during Offering and Purchase Periods
+   - Increases: Team members may not increase their contributions after the Offering Period begins.
+   - Decreases: Team Members  may decrease their contribution rates once during any Offering Period.
+1. Stop Contributions
+   - Team members may reduce their contribution to 0% during an offering period.
+   - Any prior contributions will be used to purchase shares on the scheduled purchase date.
+   - At the end of the offering period, the team member will be automatically withdrawn from the offering period effective as of the day after the purchase date following the date of the request.
+   - Team members would need to re-enroll as a new participant in the next open enrollment window and begin a new Offering Period  if they wish to participate in the future.
+1. Withdrawals
+   - Team members may withdraw from the ESPP at any time and receive a refund of their withheld contributions. The refunds are processed through Payroll.
+   - Team members who withdraw would need to re-enroll in order to participate in future Offering Periods.
 
 Details on eligibility, enrollment, calculations, pricing and dollar value can be found at [ESPP Training Deck](https://docs.google.com/presentation/d/1X_IcuK8ORiQg_nsi1km6c9_Ewbv5FD1bdnO06C-snV8/edit#slide=id.gede224808f_0_39)
 
@@ -152,7 +146,7 @@ Vesting means that you have to remain employed by, or are otherwise a service pr
 
 RSUs are grants of shares of the Company’s common stock, the vesting of which is based on the requisite service requirement. Generally, the Company’s RSUs are subject to forfeiture and are expected to vest over two to four years ratably on a combination of bi-annual and quarterly basis. New hire grants vest after 6 months, quarterly thereafter over the 4 years.  Refresh grants vest quarterly over 4 years.
 
-Per our [SAFE framework](https://about.gitlab.com/handbook/legal/safe-framework/), we do not add specific dates to the handbook regarding equity. For more information on grant cadence & vesting, please see the following [slide deck](https://docs.google.com/presentation/d/1x65JGyptF3_eRQHcrESxWkBMEvbn5JVs/edit#slide=id.gf031717001_1_447).
+Per our [SAFE framework](/handbook/legal/safe-framework/), we do not add specific dates to the handbook regarding equity. For more information on grant cadence & vesting, please see the following [slide deck](https://docs.google.com/presentation/d/1a3iisaLdoMFdujTyh9K2gYB2eOTi1xC2Ul7ycj7HkSg/edit#slide=id.p).
 
 - RSUs begin vesting on the corresponding grant date.
 - RSUs are reviewed for approval quarterly.
@@ -201,7 +195,7 @@ With the implementation of WorkDay, interfaces to ETrade provide for electronic 
 
 ### Taxes
 
-Tax law is complex and you should consult a tax attorney or other tax advisor who is familiar with startup stock options before making any decisions. Please go to the [tax team's stock options]({{< ref "/handbook/tax/stock-options" >}}) page for more information on taxation of stock options.
+Tax law is complex and you should consult a tax attorney or other tax advisor who is familiar with startup stock options before making any decisions. Please go to the [tax team's stock options](https://internal.gitlab.com/handbook/tax/stock-options/) page for more information on taxation of stock options.
 
 ### US employees with Incentive Stock Options (ISOs)
 

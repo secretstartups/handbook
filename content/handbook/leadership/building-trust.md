@@ -137,6 +137,7 @@ Take a [coaching approach]({{< ref "coaching" >}}) and have the team members tal
 [1-1 meetings]({{< ref "1-1" >}}) can serve as an opportunity for managers and team members to get to know each other on a personal and professional level. Nobody is alike, and each person has a different unique background and story. A communication or management approach that works well on one team member might not work on another. By showing vulnerability during 1-1 discussions, team members can build trust.
 
 **How to build trust in 1-1 meetings:** One way to do this is to ensure team members have plenty of time to talk about the weekend or what fun things are going on in their lives. Managers can spend the first 5-10 minutes of the call, letting it be about "them." Before diving straight into "work topics," especially at the beginning of a new working relationship, pause and ask about family, hobbies, the weekend, etc. Try to remember things team members mention about family, pets, hobbies, or other things going on in their life. If they live in a particular part of the world, managers can spend time getting to know what's happening regionally. Follow up with questions related to a team member's home.
+For some great tips on how to make small talk and build connection through communication listen to [Rachel Greenwald in Episode 89 of Think Fast, Talk Smart](https://www.youtube.com/watch?v=jLFH9Q3VQsc).
 
 
 ### Leverage the Building High Performing Teams Model
@@ -144,6 +145,8 @@ Take a [coaching approach]({{< ref "coaching" >}}) and have the team members tal
 The [Building High Performing Teams model](https://internal.gitlab.com/handbook/company/high-performing-teams/) is one of the most widely used and accepted models for team development. A big component of the model is building trust. To reach high performance, teams need to trust each other and share mutual regard where people are supported and respected. There is a willingness to be forthright, open, and free in working with team members. Review the [high performing teams page](https://internal.gitlab.com/handbook/company/high-performing-teams/) for strategies to build trust.
 
 **How to apply the building higher performing teams model:** Review the strategies to improve [building high performing teams](https://internal.gitlab.com/handbook/company/high-performing-teams/) at GitLab. Managers can conduct an assessment with their teams to see if team members trust one another. Use the resources outlined to facilitate a discussion.
+
+A [curated list of external resources](/handbook/people-group/learning-and-development/manager-development/high-performing-teams/) has also been compiled which may help when adopting this model.
 
 ### Ask for Feedback
 

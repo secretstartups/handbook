@@ -76,7 +76,7 @@ TBA
 
 ### Team Onboarding
 
-- _Coming soon_
+- *Coming soon*
 
 ### Career Development
 
@@ -94,12 +94,12 @@ Use the following agenda template for monthly/quarterly checkpoints with your ma
 
 We follow the workflows outlined in the [UX section](/handbook/product/ux/how-we-work/) of the handbook. In addition, we do the following:
 
-* Track [team-specif OKRs](#okrs) to execute our UX Department strategy.
-* Use our own [UX Definition of Done (DoD)](#ux-definition-of-done-dod).
-* Participate in the [monthly milestone kick off](/handbook/product/ux/ux-department-workflow/#milestone-kickoff). Together with Product Managers, we record a video with a focus on the user experience, front-end (user interface design) and research innitiatives.
-    * [View all Milestone Kickoff playlists](https://about.gitlab.com/direction/kickoff/#ops-section)
-* Perform synchronous and asyncrhonous [design reviews](/handbook/product/ux/ux-resources/#synchronous-design-reviews).
-    * [Watch our syncrhonous design reviews on Youtube](https://www.youtube.com/watch?v=AYO97sRry4E&list=PL05JrBw4t0Kpnb8RDztlfpryAYip1OMwb)
+- Track [team-specif OKRs](#okrs) to execute our UX Department strategy.
+- Use our own [UX Definition of Done (DoD)](#ux-definition-of-done-dod).
+- Participate in the [monthly milestone kick off](/handbook/product/ux/ux-department-workflow/#milestone-kickoff). Together with Product Managers, we record a video with a focus on the user experience, front-end (user interface design) and research innitiatives.
+    - [View all Milestone Kickoff playlists](https://about.gitlab.com/direction/kickoff/#ops-section)
+- Perform synchronous and asyncrhonous [design reviews](/handbook/product/ux/ux-resources/#synchronous-design-reviews).
+    - [Watch our syncrhonous design reviews on Youtube](https://www.youtube.com/watch?v=AYO97sRry4E&list=PL05JrBw4t0Kpnb8RDztlfpryAYip1OMwb)
 
 ### Recurring Meetings
 
@@ -113,7 +113,7 @@ To keep the process efficient, depending on the scope of a problem, a Product De
 
 You can add the following checklist to an issue description to help illustrate the "completeness" of a design proposal:
 
-```
+```markdown
 
 ### UX Definition of Done
 

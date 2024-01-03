@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/customer-success/professional-services-engineering/workflows/intake/on-prem.html
 title: On-prem Intake
 category: Technical Intake
 ---

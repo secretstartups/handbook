@@ -1,5 +1,5 @@
 ---
-title: "Gitlab France S.A.S."
+title: "GitLab France S.A.S."
 description: "GitLab France S.A.S. benefits specific to France-based team members."
 ---
 
@@ -37,7 +37,7 @@ Eligible France Team Members will receive an Holiday Bonus annually. The Holiday
 The bonus is 1% of Total Gross Compensation that was paid through the prior 12 month period (June 1st to May 31st). Variable compensation such as bonus, commission, and overtime are included in the total compensation calculation.
 The Holiday Bonus is taxable, and subject to social charges and income tax. Team Members must be employed in the month of June to receive the annual bonus.
 
-## Gitlab France S.A.S. Parental Leave
+## GitLab France S.A.S. Parental Leave
 
 ### Statutory Parental Leave
 
@@ -66,14 +66,14 @@ The Holiday Bonus is taxable, and subject to social charges and income tax. Team
 
 To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in Time Off by Deel at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy]({{< ref "general-and-entity-benefits#parental-leave" >}}).
 
-## Gitlab France S.A.S. Paid Time Off (Vacation)
+## GitLab France S.A.S. Paid Time Off (Vacation)
 
 - GitLab France S.A.S. team members can review [statutory requirements for paid time off in relation to vacation](/handbook/paid-time-off/#gitlab-sas-france).
 - Team members must always submit their leave via the [Mihi Platform](https://2.mihi.info/Account/Login?ReturnUrl=%2F) **as well as** [Time Off by Deel](/handbook/paid-time-off/#time-off-by-deel) in Slack.
 
 Please be aware of your applicable statutory vacation categories in Mihi and use your balances in this order:
 
-- **(If applicable) Reduction of Working Time**: In cases where employees need to work beyond the legal 35 hours, certain roles within GitLab may benefit from reduced working time (RTT) to compensate for the extended working hours. The formula for calculating each year's RTT balances is: Days In a Year - weekend days - 25 statutory vacation days - public holidays in weekdays - 218 = RTT. The accrual period for RTT days is January 1st - December 31st each year, and accrual balances do not roll over.  **Please use this accrual balance first, when submitting vacation in Mihi's platform.**
+- **(If applicable) Reduction of Working Time**: In cases where employees need to work beyond the legal working time for their role, certain roles within GitLab may benefit from reduced working time (RTT) to compensate for the extended working hours. The formula for calculating each year's RTT balances is: Days In a Year - weekend days - 25 statutory vacation days - public holidays in weekdays - 218 = RTT. The accrual period for RTT days is January 1st - December 31st each year, and accrual balances do not roll over.  **Please use this accrual balance first, when submitting vacation in Mihi's platform.**
 - **Vacation Days CP N-1**: Statutory accrual rollover from the previous June 1, 2022 to May 31, 2023. If you do not have Reduction of Working Time, please use this accrual balance first, related to vacation.
 - **Vacation Days CP N**: Currently accruing from June 1, 2023  to May 31, 2024 at 2.08 days per month. Please use this accrual balance if you have no CP N-1 balance, related to vacation.
 - **Overflow OOO**: France team members are now given a bulk balance of 30 days annually to be available at their discretion in accordance with GitLab’s Flex Time Off policy only in the event that there is no available balance in the above leave type categories, as applicable. There is no requirement that the 30 days are used.

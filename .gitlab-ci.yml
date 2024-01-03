@@ -82,7 +82,6 @@ variables:
     - apk update
     - apk upgrade
     - apk add go npm yq curl coreutils
-    - ./scripts/update-counts.sh
     - ./scripts/sync-data.sh
     - npm ci
     - hugo --enableGitInfo
@@ -161,7 +160,7 @@ deploy s3:
 
 markdownlint:
   image:
-    name: davidanson/markdownlint-cli2:0.4.0
+    name: davidanson/markdownlint-cli2:v0.11.0
     entrypoint: ["/bin/sh", "-c"]
   stage: test
   needs: []

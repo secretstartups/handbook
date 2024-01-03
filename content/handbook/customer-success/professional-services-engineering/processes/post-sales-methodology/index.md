@@ -23,7 +23,7 @@ GitLab professional services employs three different workflows that control proj
 
 ## 1. Pre-sales
 
-_Note: for presales scoping and SOW signature, see the [pre-sales methodology page](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/processes/pre-sales-methodology)*
+_Note: for presales scoping and SOW signature, see the [pre-sales methodology page](/handbook/customer-success/professional-services-engineering/processes/pre-sales-methodology)*
 
 ### PS/EM Assessment
 
@@ -75,7 +75,7 @@ There are 2 project that track internal time, Creditable and Non Creditable.  If
 
 #### Kickoff
 
-See the details in the Project workflow section of the [PS Project Management](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/project-mgmt/) page.
+See the details in the Project workflow section of the [PS Project Management](/handbook/customer-success/professional-services-engineering/project-mgmt/) page.
 
 ### Plan
 
@@ -91,12 +91,12 @@ After the meeting, based on meeting notes, create issues in the gitlab.com custo
 
 ### Build/Validate
 
-The build validation step is a bit vague on purpose because it depends on what was included in the scope of the engagement. The PSE can use the [delivery kits mapped to our service offerings](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/framework/#service-offering-framework) which include templatized discovery documents, automation software to facilitate service delivery, and templatized deliverable documents. Most of the collateral will be modified and updated right from the delivery kits so this section is intentionally light on detail.
+The build validation step is a bit vague on purpose because it depends on what was included in the scope of the engagement. The PSE can use the [delivery kits mapped to our service offerings](/handbook/customer-success/professional-services-engineering/framework/#service-offering-framework) which include templatized discovery documents, automation software to facilitate service delivery, and templatized deliverable documents. Most of the collateral will be modified and updated right from the delivery kits so this section is intentionally light on detail.
 
 
 ### Train
 
-PSEs or Technical Instructors who deliver GitLab Education Services instructor-led courses can use the following workflow to ensure smooth interactions with customers. In addition, PSEs and Technical Instructors should complete these [GitLab Certified Trainer](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-certified-trainer-process/) steps for each course they are scheduled to deliver.
+PSEs or Technical Instructors who deliver GitLab Education Services instructor-led courses can use the following workflow to ensure smooth interactions with customers. In addition, PSEs and Technical Instructors should complete these [GitLab Certified Trainer](/handbook/customer-success/professional-services-engineering/gitlab-certified-trainer-process/) steps for each course they are scheduled to deliver.
 
 #### Preparation steps
 
@@ -113,7 +113,7 @@ PSEs or Technical Instructors who deliver GitLab Education Services instructor-l
       - [GitLab System Administration course outline](https://about.gitlab.com/services/education/admin/)  
       - [System Requirements](https://about.gitlab.com/services/education/prereq/)  
 
-1. The Project Coordinator will set up a Zoom Meeting or Webinar session for each session using [these set up instructions](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/remote-training-session-setup/) and add the registration link(s) to the issue. You will receive an email message with your unique link to join the Zoom Meeting or Webinar session. Make sure to locate the Zoom information within the email message and familiarize yourself with the Zoom functionality. Here is a useful Zoom article for [Managing Attendees and Panelists in a Webinar](https://support.zoom.us/hc/en-us/articles/115004834466-Managing-attendees-and-panelists-in-a-webinar). Depending on your Zoom set up, you may want to log into https://zoom.us, go to Join a Meeting, and enter the meeting ID/webinar ID to start the Zoom session.
+1. The Project Coordinator will set up a Zoom Meeting or Webinar session for each session using [these set up instructions](/handbook/customer-success/professional-services-engineering/remote-training-session-setup/) and add the registration link(s) to the issue. You will receive an email message with your unique link to join the Zoom Meeting or Webinar session. Make sure to locate the Zoom information within the email message and familiarize yourself with the Zoom functionality. Here is a useful Zoom article for [Managing Attendees and Panelists in a Webinar](https://support.zoom.us/hc/en-us/articles/115004834466-Managing-attendees-and-panelists-in-a-webinar). Depending on your Zoom set up, you may want to log into https://zoom.us, go to Join a Meeting, and enter the meeting ID/webinar ID to start the Zoom session.
 
 1. At least 2 weeks prior to the training session, the Project Coordinator will email the session registration link(s) to the customer, asking them to send the link(s) to each of the employees whom they want to attend the session(s). When each person registers, they will receive an automated confirmation email with a Zoom Meeting or Webinar join link unique to each person, along with a link to add the session to their calendar.
 
@@ -123,9 +123,9 @@ PSEs or Technical Instructors who deliver GitLab Education Services instructor-l
 
 1. Review the train-the-trainer (T3) video for the course you are delivering.
 
-1. Review and follow the [Instructor Pre-Training Checklist](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/processes/delivery-checklists/) to ensure that you are properly prepared for your delivery.
+1. Review and follow the [Instructor Pre-Training Checklist](/handbook/customer-success/professional-services-engineering/processes/delivery-checklists/) to ensure that you are properly prepared for your delivery.
 
-1. Review, practice, and use these [PS Remote Training Tips and Tricks](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/remote-training-tips/).
+1. Review, practice, and use these [PS Remote Training Tips and Tricks](/handbook/customer-success/professional-services-engineering/remote-training-tips/).
 
 1. Complete the GitLab Training Lab set up steps below. Make sure that you review the lab exercises and ensure that the labs are working properly prior to the first day of class.
 
@@ -137,7 +137,7 @@ PS uses the [GitLab Demo Cloud](http://gitlabdemo.com/) as the standard environm
 
 **1. GitLab Demo System invitation codes**
 1. The Project Coordinator will generate the invitation code for your class and provide the invitation code information approximately a week prior to your class start date as part of the instructor friendly reminders post within your Kantata project.
-1. Follow the instructions on the [Demo System Invitation Code Redemption handbook page](https://about.gitlab.com/handbook/customer-success/demo-systems/#invitation-code-redemption) to redeem the invitation code and access the lab environment.
+1. Follow the instructions on the [Demo System Invitation Code Redemption handbook page](/handbook/customer-success/demo-systems/#invitation-code-redemption) to redeem the invitation code and access the lab environment.
 1. For any edits/extensions/etc or any custom redemption rules (different durations than our standards), contact the GitLab Professional Services Operations team for assistance.
 
 **2. Share the invitation code and access instructions with attendees**:
@@ -145,7 +145,7 @@ PS uses the [GitLab Demo Cloud](http://gitlabdemo.com/) as the standard environm
 
 #### Training Closeout
 
-1. Review the [Instructor Post-Training Checklist](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/processes/delivery-checklists/) to ensure that you have followed all of the steps to close out your training class.
+1. Review the [Instructor Post-Training Checklist](/handbook/customer-success/professional-services-engineering/processes/delivery-checklists/) to ensure that you have followed all of the steps to close out your training class.
 1. The Project Coordinator will download the attendance report and send a close out email to the customer using an email template located in the [email communication templates](https://docs.google.com/document/d/1rJ9q9gEzsumRxDhoWEe45u70efmKA0eWNg69WONuCYs/edit?usp=sharing).
 
 ### Complete

@@ -22,9 +22,9 @@ This page documents frequently asked questions from our partner community on how
 When should I submit a Deal Registration? What opportunities am I able to register?
 </summary>
 
-GitLab has a [Partner Sourced Deal Registration](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-sourced-deal-registration) (DR) program for (i) Resale, (ii) MSP, and (iii) Referral opportunities. You should submit a Partner Sourced DR for an opportunity where you are **sourcing net-new business for GitLab**, which can apply to opportunities for new logo, co-term add-on/upsell, or add-on/upsell as part of a renewal. Note, there can only be one Partner Sourced DR approved for an opportunity, as only one partner can source a deal. You should not submit a Partner Sourced DR if you did not source the opportunity, and you will generally receive Co-Sell discounts for these deals. Partner Sourced and Co-Sell opportunities are discussed further in the [Partner handbook](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#definitions-and-qualifications).
+GitLab has a [Partner Sourced Deal Registration](/handbook/sales/field-operations/channel-operations/#partner-sourced-deal-registration) (DR) program for (i) Resale, (ii) MSP, and (iii) Referral opportunities. You should submit a Partner Sourced DR for an opportunity where you are **sourcing net-new business for GitLab**, which can apply to opportunities for new logo, co-term add-on/upsell, or add-on/upsell as part of a renewal. Note, there can only be one Partner Sourced DR approved for an opportunity, as only one partner can source a deal. You should not submit a Partner Sourced DR if you did not source the opportunity, and you will generally receive Co-Sell discounts for these deals. Partner Sourced and Co-Sell opportunities are discussed further in the [Partner handbook](/handbook/resellers/channel-working-with-GitLab/#definitions-and-qualifications).
 
-GitLab also has a [Service Attach DR](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#service-attach-opportunities) program which applies to opportunities where partners are selling their own professional services into a customer environment at the time of a GitLab product sale.
+GitLab also has a [Service Attach DR](/handbook/sales/field-operations/channel-operations/#service-attach-opportunities) program which applies to opportunities where partners are selling their own professional services into a customer environment at the time of a GitLab product sale.
 
 </details>
 
@@ -35,7 +35,7 @@ I am unable to log into the Partner Portal to submit a Deal Registration (DR). H
 
 If you have a Partner Portal account but are unable to login, please [select “Forgot Password”](https://partners.gitlab.com/English/) to reset your password. If you do not have a Partner Portal account, please [select “Request Portal Access”](https://partners.gitlab.com/English/) to set up an account. Please contact `partnersupport@gitlab.com` for assistance ​​if you have followed the directions but are still having issues.
 
-Note, to submit a Deal Registration, you must first be an authorized GitLab partner as well as have completed the [required training](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#training--certification-requirements-for-transactions-deal-registrations-nfrs-and-letters-of-authorization-loas) in order to be granted access to submit a DR.
+Note, to submit a Deal Registration, you must first be an authorized GitLab partner as well as have completed the [required training](/handbook/resellers/channel-working-with-GitLab/#training--certification-requirements-for-transactions-deal-registrations-nfrs-and-letters-of-authorization-loas) in order to be granted access to submit a DR.
 
 </details>
 
@@ -58,7 +58,7 @@ The Channel Account Manager (CAM) assigned to the Deal Registration (DR) has rev
 Where can I find information on GitLab’s partner discounts, incentives, and rebate programs?
 </summary>
 
-Please review the [GitLab Program Discounts and Incentive Guide](https://partners.gitlab.com/prm/English/s/assets?collectionId=49440) in the GitLab Partner Portal which contains information on our partner discounts, incentives, rebate programs and more. You can also refer to the [Partner handbook](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#definitions-and-qualifications) for an overview.
+Please review the [GitLab Program Discounts and Incentive Guide](https://partners.gitlab.com/prm/English/s/assets?collectionId=49440) in the GitLab Partner Portal which contains information on our partner discounts, incentives, rebate programs and more. You can also refer to the [Partner handbook](/handbook/resellers/channel-working-with-GitLab/#definitions-and-qualifications) for an overview.
 
 </details>
 
@@ -80,7 +80,7 @@ If the opportunity is for new or add-on/upsell business:
 - **sourced** by the partner (including adding licenses as part of a renewal opportunity), the partner should submit a Partner Sourced Deal Registration (DR) for the opportunity. If the DR is approved, GitLab will provide Partner Sourced discounts for the new or add-on/upsell portion of the deal.
 - **not sourced** by the partner, the partner will generally receive co-sell discounts.
 
-If the opportunity is a flat renewal, please refer to the [Partner Operations handbook](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#incumbency-renewals) for rules on partner incumbency.
+If the opportunity is a flat renewal, please refer to the [Partner Operations handbook](/handbook/sales/field-operations/channel-operations/#incumbency-renewals) for rules on partner incumbency.
 
 Please refer to the [GitLab Program Discounts Incentive Guide](https://partners.gitlab.com/prm/English/s/assets?collectionId=49439) for more information regarding our partner program discounts.
 
@@ -100,7 +100,7 @@ Open Partners located in regions/countries:
 
 Select Partners may choose to transact directly with GitLab (excluding certain regions) or via the region's authorized distributor(s).
 
-Refer to the [Partner Operations handbook](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#distributor-requirements-and-coverage-by-geo-and-market) for more information on distribution coverage, requirements, and contact information.
+Refer to the [Partner Operations handbook](/handbook/sales/field-operations/channel-operations/#distributor-requirements-and-coverage-by-geo-and-market) for more information on distribution coverage, requirements, and contact information.
 
 </details>
 
@@ -109,7 +109,7 @@ Refer to the [Partner Operations handbook](https://about.gitlab.com/handbook/sal
 How do I determine which distributor covers my region?
 </summary>
 
-Please refer to the [Partner Operations handbook](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#distributor-requirements-and-coverage-by-geo-and-market) for details on distribution coverage, requirements, and contact information.
+Please refer to the [Partner Operations handbook](/handbook/sales/field-operations/channel-operations/#distributor-requirements-and-coverage-by-geo-and-market) for details on distribution coverage, requirements, and contact information.
 
 </details>
 
@@ -118,7 +118,7 @@ Please refer to the [Partner Operations handbook](https://about.gitlab.com/handb
 How can I request a GitLab quote for my customer?
 </summary>
 
-- Open partners with an Authorized Distributor in region should [contact their distributor](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#distributor-requirements-and-coverage-by-geo-and-market).
+- Open partners with an Authorized Distributor in region should [contact their distributor](/handbook/sales/field-operations/channel-operations/#distributor-requirements-and-coverage-by-geo-and-market).
 - Select partners that transact directly with GitLab and/or Open partners without an Authorized Distributor in region should contact the GitLab sales representative for the customer account. Please contact your Channel Account Manager or `partnersupport@gitlab.com` if you are unsure of which GitLab sales representative to contact for your quote request
 
 </details>
@@ -128,7 +128,7 @@ How can I request a GitLab quote for my customer?
 Can we include different product tiers (premium and ultimate), deployment types (SaaS and Self-Managed), and/or term lengths (e.g., 12 and 24 months) on the same quote?
 </summary>
 
-No, we cannot mix product tiers, deployment types, and/or term lengths on the same quote. Please refer to the [Deal Desk handbook](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#quoting-different-product-tiers-deployment-types-and-term-lengths-on-the-same-quote) for more information.
+No, we cannot mix product tiers, deployment types, and/or term lengths on the same quote. Please refer to the [Deal Desk handbook](/handbook/sales/field-operations/sales-operations/deal-desk/#quoting-different-product-tiers-deployment-types-and-term-lengths-on-the-same-quote) for more information.
 
 </details>
 
@@ -187,7 +187,7 @@ The minimum quantity required to be renewed is the customers "Billable users" (S
 My customer worked with a different reseller for their previous order. Are you able to transfer incumbency (i.e., incumbent partner discounts) to my organization for the customer’s renewal?
 </summary>
 
-Yes, if the customer provides formal communication through email to confirm they would like to work with you for this renewal (i.e., the new reseller), we are able to transfer incumbency discounts. Refer to the [Partner Operations handbook](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#incumbency-renewals) for further details.
+Yes, if the customer provides formal communication through email to confirm they would like to work with you for this renewal (i.e., the new reseller), we are able to transfer incumbency discounts. Refer to the [Partner Operations handbook](/handbook/sales/field-operations/channel-operations/#incumbency-renewals) for further details.
 
 </details>
 
@@ -196,7 +196,7 @@ Yes, if the customer provides formal communication through email to confirm they
 If my customer wants to add seats to their instance before their renewal, does the add-on need to be processed before I can request a renewal quote for the entire subscription?
 </summary>
 
-Yes, for the customer’s overall license count to be accurate during the renewal, add-on licenses need to be fully processed before GitLab can generate a renewal quote. Refer to the [Deal Desk handbook](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#transacting-a-separate-add-on-opportunity-prior-to-renewal) for further guidance.
+Yes, for the customer’s overall license count to be accurate during the renewal, add-on licenses need to be fully processed before GitLab can generate a renewal quote. Refer to the [Deal Desk handbook](/handbook/sales/field-operations/sales-operations/deal-desk/#transacting-a-separate-add-on-opportunity-prior-to-renewal) for further guidance.
 
 </details>
 
@@ -217,7 +217,7 @@ On a case-by-case basis, your GitLab sales representative can request a temporar
 Does GitLab have an Order Requirements Checklist that details the PO requirements for order acceptance and booking?
 </summary>
 
-Please refer to the [Sales Order Processing handbook](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#submit-an-opportunity-for-booking) for opportunity booking requirements.
+Please refer to the [Sales Order Processing handbook](/handbook/sales/field-operations/order-processing/#submit-an-opportunity-for-booking) for opportunity booking requirements.
 
 </details>
 
@@ -235,7 +235,7 @@ A signed GitLab quote/order form is acceptable in place of a PO as long as the d
 How do I ensure my PO submission will count toward GitLab’s current fiscal quarter?
 </summary>
 
-Please refer to the guidelines listed in the [Sales Order Processing handbook](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#end-of-quarter-bookings) regarding end-of-quarter bookings.
+Please refer to the guidelines listed in the [Sales Order Processing handbook](/handbook/sales/field-operations/order-processing/#end-of-quarter-bookings) regarding end-of-quarter bookings.
 
 </details>
 
@@ -244,7 +244,7 @@ Please refer to the guidelines listed in the [Sales Order Processing handbook](h
 I submitted a renewal PO in advance of the renewal date, when will the PO be booked?
 </summary>
 
-[New business, add-on](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#new-businessadd-on-opportunities), and [renewal](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#renewal-opportunities) orders are processed no more than 15 days prior to an opportunity's close date. Note, the start date for renewals is the last day of the customers current subscription term.
+[New business, add-on](/handbook/sales/field-operations/order-processing/#new-businessadd-on-opportunities), and [renewal](/handbook/sales/field-operations/order-processing/#renewal-opportunities) orders are processed no more than 15 days prior to an opportunity's close date. Note, the start date for renewals is the last day of the customers current subscription term.
 
 </details>
 
@@ -253,7 +253,7 @@ I submitted a renewal PO in advance of the renewal date, when will the PO be boo
 What is GitLab's ECCN?
 </summary>
 
-You can find our ECCN in our [Trade Compliance handbook](https://about.gitlab.com/handbook/legal/trade-compliance/#how-do-trade-control-laws-apply-to-gitlab-software).
+You can find our ECCN in our [Trade Compliance handbook](/handbook/legal/trade-compliance/#how-do-trade-control-laws-apply-to-gitlab-software).
 
 </details>
 
@@ -303,7 +303,7 @@ The partner contact that receives the GitLab invoice will also receive a copy of
 My customer is asking that the purchase confirmation email with license/activation code be resent to the same end user contact that was listed on the PO/Quote. How can we request that the purchase confirmation email be resent?
 </summary>
 
-The partner that received the Gitlab invoice (i.e., Distributor for two-tier deal, Reseller for one-tier deal) needs to [submit the support ticket](https://support.gitlab.com/hc/en-us/requests/new) with the GitLab invoice attached to request the purchase confirmation email be resent to the same end user contact.
+The partner that received the GitLab invoice (i.e., Distributor for two-tier deal, Reseller for one-tier deal) needs to [submit the support ticket](https://support.gitlab.com/hc/en-us/requests/new) with the GitLab invoice attached to request the purchase confirmation email be resent to the same end user contact.
 
 </details>
 
@@ -312,7 +312,7 @@ The partner that received the Gitlab invoice (i.e., Distributor for two-tier dea
 My customer did not receive the purchase confirmation email with license/activation code due to the PO/Quote listing the wrong end user contact. How can we request that the purchase confirmation email be sent to the new/updated end user contact?
 </summary>
 
-The partner that received the Gitlab invoice (i.e., Distributor for two-tier deal, Reseller for one-tier deal) needs to [submit the support ticket](https://support.gitlab.com/hc/en-us/requests/new) with the GitLab invoice attached to request the purchase confirmation email be sent to a new end user contact.
+The partner that received the GitLab invoice (i.e., Distributor for two-tier deal, Reseller for one-tier deal) needs to [submit the support ticket](https://support.gitlab.com/hc/en-us/requests/new) with the GitLab invoice attached to request the purchase confirmation email be sent to a new end user contact.
 
 **Important to note**, the GitLab Sales Rep cannot change the end user contact post-sale on behalf of the partner or customer. The request to change the end user contact must either be submitted by the (i) partner that received the GitLab invoice as outlined above or (ii) customer contact listed on the final GitLab quote (i.e., the person that received the license).
 

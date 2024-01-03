@@ -10,7 +10,7 @@ title: "Customer Success Engineering Handbook"
 
 
 
-View the [CSM Handbook homepage](https://about.gitlab.com/handbook/customer-success/csm/) for additional CSM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM-related handbook pages.
 
 ---
 
@@ -18,7 +18,7 @@ View the [CSM Handbook homepage](https://about.gitlab.com/handbook/customer-succ
 
 The Customer Success Engineer (CSE) provides deep subject matter expertise on GitLab technical and product solutions and best practices in order to drive measurable value for GitLab customers.  CSEs work alongside CSMs to provide customers with technical guidance, go in-depth on use case implementation, and demonstrate the value of GitLab product capabilities, leading to product adoption, expansion, and greater value realized by our customers.
 
-![cse-value-acceleration](https://about.gitlab.com/handbook/customer-success/csm/cse/LandAdoptExpand.png)
+![cse-value-acceleration](/handbook/customer-success/csm/cse/LandAdoptExpand.png)
 
 ## Team
 
@@ -100,7 +100,7 @@ graph TD
 
 When involving a CSE in a customer's adoption journey or other technical implementation effort, some initial details are needed to scope the engagement:
 
-1. **Objective in the success plan:** link directly to the objective within the customer's [success plan](https://about.gitlab.com/handbook/customer-success/csm/success-plans/) (this link is available under the "three-dot" menu on the objective within Gainsight)
+1. **Objective in the success plan:** link directly to the objective within the customer's [success plan](/handbook/customer-success/csm/success-plans/) (this link is available under the "three-dot" menu on the objective within Gainsight)
    1. **Expected effort:** Captured within the objective in Gainsight; Will the CSE be engaged for a one-off event, or for a longer period of time (e.g. one to multiple weeks)? If longer, what is the expected duration? *Examples of different engagements & accompanying scope include:*
       1. Hands-on demo: if this is the entirety of the engagement this would be a one-off; if this is a piece of a larger engagement plan then the scope would be longer
       1. Use case adoption enablement campaign: the CSE will engage with the customer in several ways to enable user groups on the usage of a given GitLab use case. This would be a longer term engagement.

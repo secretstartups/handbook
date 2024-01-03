@@ -1,14 +1,7 @@
 ---
-
 title: "Product Design Pairs"
 description: "Product designer pairs rotation schedule"
 ---
-
-
-
-
-
-
 
 ## Design Pairs
 
@@ -24,7 +17,7 @@ Pair designing gives Product Designers a consistent partner to ideate with at th
 
 This is the rotation schedule for FY24-Q3 and Q4 (2023-08-01 until 2024-01-31).
 
-[//]: # TIP: To update the table below, create the schedule in a temporary spreadsheet, and then copy/paste the rows into an online markdown generator (https://www.google.com/search?q=copy-table-in-excel-and-paste-as-a-markdown-table)
+<!-- TIP: To update the table below, create the schedule in a temporary spreadsheet, and then copy/paste the rows into an online markdown generator (https://www.google.com/search?q=copy-table-in-excel-and-paste-as-a-markdown-table) -->
 
 | Designer               | Design Pair                |
 |------------------------|----------------------------|

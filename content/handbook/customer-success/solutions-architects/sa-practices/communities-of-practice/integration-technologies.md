@@ -3,8 +3,6 @@
 title: "Integration Technologies"
 ---
 
-{{% include "includes/solutions-architects-navigation.md" %}}
-
 
 # Integration Technologies
 

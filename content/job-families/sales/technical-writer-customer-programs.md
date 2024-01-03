@@ -2,7 +2,7 @@
 title: "Technical Writer, Customer Programs"
 ---
 
-The Technical Writer, Customer Programs is a part of the [Customer Success Manager](/job-families/sales/customer-success-management/) team, and focuses on creating the content to enable our customer digital journey, while also contributing to Gitlab docs and blog posts to ensure the ‘how-to’ learnings shared across our team are memorialized for our customer to benefit.
+The Technical Writer, Customer Programs is a part of the [Customer Success Manager](/job-families/sales/customer-success-management/) team, and focuses on creating the content to enable our customer digital journey, while also contributing to GitLab docs and blog posts to ensure the ‘how-to’ learnings shared across our team are memorialized for our customer to benefit.
 
 ## Levels
 
@@ -49,10 +49,10 @@ The Senior Technical Writer, Customer Programs is a [grade 7](/handbook/total-re
 
 ## Performance Indicators
 
-- [Time-to-Value KPI's](https://about.gitlab.com/handbook/customer-success/vision/#time-to-value-kpis)
-- [Net Retention](https://about.gitlab.com/handbook/customer-success/vision/#retention-and-reasons-for-churn)
-- [Retention, Gross & Net](https://about.gitlab.com/handbook/customer-success/vision/#retention-gross--net-dollar-weighted)
-- [Reason for Churn/Expansion, Dollar Weighted](https://about.gitlab.com/handbook/customer-success/vision/#retention-gross--net-dollar-weighted)
+- [Time-to-Value KPI's](/handbook/customer-success/vision/#time-to-value-kpis)
+- [Net Retention](/handbook/customer-success/vision/#retention-and-reasons-for-churn)
+- [Retention, Gross & Net](/handbook/customer-success/vision/#retention-gross--net-dollar-weighted)
+- [Reason for Churn/Expansion, Dollar Weighted](/handbook/customer-success/vision/#retention-gross--net-dollar-weighted)
 
 ## Career Ladder
 

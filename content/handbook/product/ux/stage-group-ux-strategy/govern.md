@@ -1,14 +1,7 @@
 ---
-
 title: "Govern UX"
 description: "The Govern UX team’s goal is to provide the best experience in keeping your application safe after your code is in production"
 ---
-
-
-
-
-
-
 
 ### Overview
 
@@ -39,7 +32,7 @@ Generally, developers are the users of the vulnerability reports in the MR/pipel
 
 Primary Jobs To Be Done (JTBD):
 - When I make sure my company’s applications aren’t vulnerable to bad actors, I want to monitor the traffic coming to my application and detect the possibility of an attack (SQL injection attempts, XSS attempts, vulnerability scanners, etc) so I can know what parts of the application I need to protect better.
-- When a bad actor successfully attacks my system, I want to look at the WAF logs to determine the attack vector (how they got in) so I can secure the weak points in my application.  
+- When a bad actor successfully attacks my system, I want to look at the WAF logs to determine the attack vector (how they got in) so I can secure the weak points in my application.
 - When I want to make sure I’m being successful in my role, I want to be able to confirm if a data breach happened, if any systems went down as a result of an attack, to what extent our security controls negatively impact uptime or throughput, and how much maintenance did the security controls require this quarter, so I can track and meet my OKRs.
 - When I want to avoid putting out constant fires, I want to be proactive by creating tooling to understand events occurring in my application so I can catch security risks before they can be compromised.
 - When our proactive security measures fail, I want to prioritize incident response so I can keep our environments (and our customer data) safe.

@@ -1,7 +1,7 @@
 ---
 title: "SMB Account Executive Roles"
 RoleName: "SMB Customer Advocate"
-description: "Learn more about SMB Account Executive roles at Gitlab including requirements, responsibilities and more."
+description: "Learn more about SMB Account Executive roles at GitLab including requirements, responsibilities and more."
 ---
 
 ## Job Grade
@@ -111,11 +111,11 @@ Ticket status can be updated in the following ways:
 
 #### Pitch
 
-**Here are some basic resources for pitching Gitlab and our different product offerings:**
+**Here are some basic resources for pitching GitLab and our different product offerings:**
 
-- [GitLab product messaging](https://about.gitlab.com/handbook/marketing/strategic-marketing/)
-- [GitLab product tiers](https://about.gitlab.com/handbook/marketing/strategic-marketing/)
-- [Tier Messaging](https://about.gitlab.com/handbook/marketing/strategic-marketing/)
+- [GitLab product messaging](/handbook/marketing/strategic-marketing/)
+- [GitLab product tiers](/handbook/marketing/strategic-marketing/)
+- [Tier Messaging](/handbook/marketing/strategic-marketing/)
 - [Product Feature Comparison](https://about.gitlab.com/pricing/feature-comparison/)
 - [Product Pricing](https://about.gitlab.com/pricing/)
 - [DevOps Tools Landscape](https://about.gitlab.com/competition/)
@@ -176,11 +176,11 @@ Below are some common drivers the SMB team has seen for a customer to gravitate 
 **Some resources for negotiation:**
 
 - [Our Pricing Model](/handbook/company/pricing/)
-- [Common Negotiation Mistakes](https://about.gitlab.com/handbook/sales/training/)
+- [Common Negotiation Mistakes](/handbook/sales/training/)
 - [Pricing Approval Matrix](https://docs.google.com/document/d/1-8TG8YLAQB-465mFLYnX3wkB6C6-0aI1A4CzdfjpacU/edit?pli=1)
-- [Handling Price Objections](https://about.gitlab.com/handbook/sales/training/)
-- [More on Price Objections](https://about.gitlab.com/handbook/sales/training/)
-- [Process for Agreement Terms Negotiations](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#process-for-agreement-terms-negotiations-when-applicable)
+- [Handling Price Objections](/handbook/sales/training/)
+- [More on Price Objections](/handbook/sales/training/)
+- [Process for Agreement Terms Negotiations](/handbook/sales/field-operations/order-processing/#process-for-agreement-terms-negotiations-when-applicable)
 
 1. Premium edition - we typically do not negotiate, but we can sometimes make exceptions in special cases such as multi-year agreements and high volume deals
     - By default, we do not offer any discounts

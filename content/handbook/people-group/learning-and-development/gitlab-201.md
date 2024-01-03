@@ -1,5 +1,5 @@
 ---
-title: GitLab 201 Tool
+title: GitLab 201
 ---
 
 Welcome to GitLab 201. This is a self-paced course consisting of reading material, video tutorials and knowledge assessments at the end of each lesson. To become complete GitLab 201, participants will have to pass all 3 lessons with at least 80%. We recommend that courses are completed and passed in order.
@@ -30,7 +30,7 @@ To get started with the GitLab 201, you will need:
 
 ## Lesson 1: Epics
 
-Epics let you manage your portfolio of projects more efficiently and with less effort by tracking groups of issues that share a theme, across projects and milestones. Epics are great for [project management](https://about.gitlab.com/handbook/marketing/project-management-guidelines/epics/) as they help to better [enhance your workflow](https://about.gitlab.com/blog/2020/01/21/epics-three-features-accelerate-your-workflow/).
+Epics let you manage your portfolio of projects more efficiently and with less effort by tracking groups of issues that share a theme, across projects and milestones. Epics are great for [project management](/handbook/marketing/project-management-guidelines/epics/) as they help to better [enhance your workflow](https://about.gitlab.com/blog/2020/01/21/epics-three-features-accelerate-your-workflow/).
 
 ### Uses
 

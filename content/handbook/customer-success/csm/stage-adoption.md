@@ -10,14 +10,14 @@ title: "Stage Adoption Metrics"
 
 
 
-View the [CSM Handbook homepage](https://about.gitlab.com/handbook/customer-success/csm/) for additional CSM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM-related handbook pages.
 
 - - -
 
-**2023-06-15 Note:** The approach described below is no longer in active use. The [Use Case Adoption Scoring](https://about.gitlab.com/handbook/customer-success/product-usage-data/use-case-adoption/) page should be referenced for thresholds and information on the methodology CSMs use for measuring adoption of use cases.
+**2023-06-15 Note:** The approach described below is no longer in active use. The [Use Case Adoption Scoring](/handbook/customer-success/product-usage-data/use-case-adoption/) page should be referenced for thresholds and information on the methodology CSMs use for measuring adoption of use cases.
 {: .alert .alert-warning}
 
-As part of the CSM's mandate to drive stage adoption and expansion with customers, we need to define exactly what it means to adopt a stage at GitLab. [For more information on how stage expansion is recorded and reported on, please visit this page](https://about.gitlab.com/handbook/customer-success/csm/success-plans/#open-and-categorize-a-stage-adoption-objective-within-a-success-plan-in-gainsight)
+As part of the CSM's mandate to drive stage adoption and expansion with customers, we need to define exactly what it means to adopt a stage at GitLab. [For more information on how stage expansion is recorded and reported on, please visit this page](/handbook/customer-success/csm/success-plans/#open-and-categorize-a-stage-adoption-objective-within-a-success-plan-in-gainsight)
 The detail below is a guide to defining what it takes to say a customer has adopted that stage within GitLab. We define stage adoption as >25% of the account using a stage as defined below. Less than 25% (roughly) is presumed to be a pilot or work in progress toward a significant foothold of a stage providing value within the company.
 
 ## Manage
@@ -98,10 +98,10 @@ If there is no data currently being recorded for your customer in version.gitlab
 Using data from version.gitlab.com and the [Metrics Dictionary](https://docs.gitlab.com/ee/development/internal_analytics/metrics/metrics_dictionary.html) you can determine if the customer is doing the following:
 
 - Using one of more of our security testing tools (SAST, DAST, Container Scanning, Dependency Scanning) with continuous growth over 3 months
-- SAST jobs (counts.sast_jobs)  
+- SAST jobs (counts.sast_jobs)
 - DAST jobs (counts.dast_jobs)
 - Dependency scanning jobs (counts.dependency_scanning_jobs)
-- License management jobs (counts.license_management_jobs)  
+- License management jobs (counts.license_management_jobs)
 - Secret detection jobs (counts.secret_detection_jobs)
 - Container scanning jobs - counts.container_scanning_jobs
 
@@ -124,7 +124,7 @@ Usage Discovery Questions:
 Usage Discovery Questions:
 
 1. Are you using GitLab to deploy your applications?
-1. Do you use GitLab pages to create, manage and deploy static sites?
+1. Do you use GitLab Pages to create, manage and deploy static sites?
 1. Are you making use of review apps to get a full production like environment in every merge request?
 1. How do you currently manage your releases? (i.e. versioning, release notes, etc.)
 

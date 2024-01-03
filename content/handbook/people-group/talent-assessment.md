@@ -5,7 +5,7 @@ description: "Overview of three critical pieces of GitLab's talent development p
 <!-- markdownlint-disable MD051 -->
 ## Purpose
 
-The purpose of the Talent Assessment Program is to identify and retain team members who drive the success of our organization. This is a top priority and strategic process for people managers at GitLab. Our Talent Assessment Program (which is a critical piece of our overall [Talent Development Program]({{< ref "talent-development-program" >}})) serves as a mechanism to help mitigate a couple of our biggest concerns: [lack of performance management]({{< ref "mitigating-concerns#underperformance" >}}) and [losing key people]({{< ref "mitigating-concerns#key-people-leave" >}}).
+The purpose of the Talent Assessment Program is to identify and retain team members who drive the success of our organization. This is a top priority and strategic process for people managers at GitLab. Our Talent Assessment Program (which is a critical piece of our overall [Talent Development Program]({{< ref "talent-development-program" >}})) serves as a mechanism to help mitigate a couple of our biggest concerns: [lack of performance management](https://internal-handbook.gitlab.io/handbook/leadership/mitigating-concerns/#underperformance) and [losing key people](https://internal-handbook.gitlab.io/handbook/leadership/mitigating-concerns/#key-people-leave).
 
 Additional key benefits of the Assessment Program include:
 
@@ -35,7 +35,7 @@ For team members with a tenure up to three months to the launch of the Talent As
 | Performance ↑ <br> Growth Potential →  | **Developing Growth Potential** | **Growing Growth Potential** | **Exceeding Growth Potential** |
 |-----------------|---------------|---------------|----------------|
 | **Exceeding** | **Box 5** Team member is consistently surpassing performance expectations in their current role but needs to continue to grow in current role, or has not exhibited the willingness or ability to grow in the current role.| **Box 2** Team member is consistently surpassing performance expectations in their current role, makes valuable contributions and consistently demonstrates competencies required. They have shown willingness and/or ability to further grow in their role and they may be ready to take on additional responsibilities in the next 12 months. | **Box 1** Team member is developing faster than the demands of their current position and/or division. Team member has been given additional assignments and has demonstrated high-level commitment/achieved significant results. Team member is ready to broaden their skill set and take on significantly greater scope and responsibility |
-| **Performing** | **Box 7** Team member is currently meeting expectations of their role. Team member is not willing or able to absorb greater scope, impact or complexity. | **Box 4** Team member is currently meeting expectations and has shown willingness or ability to further grow; may not be ready to absorb greater scope, impact or complexity in the next 12 months. | **Box 3** Team member is contributing as expected and is meeting performance expectations. They have shown willingness and/or ability to further grow in their role and they may be ready to take on additional responsibilities in the near future. |
+| **Performing** | **Box 7** Team member is currently meeting expectations of their role, and/or team member is not willing or able to absorb greater scope, impact or complexity. | **Box 4** Team member is currently meeting expectations and has shown willingness or ability to further grow; may not be ready to absorb greater scope, impact or complexity in the next 12 months. | **Box 3** Team member is contributing as expected and is meeting performance expectations. They have shown willingness and/or ability to further grow in their role and they may be ready to take on additional responsibilities in the near future. |
 | **Developing** | **Box 9** Team member is not meeting performance expectations and there is still more to learn in the current position, **or**, team member has not been in the position long enough (promotion, new to the role, or new hire) to adequately demonstrate the pillars of growth potential for a sustained period of time. | **Box 8** Team member has not been in the position long enough to adequately demonstrate their capacity (promotion, new to the role, or new hire), or may have lost pace with changes in the organization. The team member has shown the willingness and/or ability to grow in the role aligned with the pillars of growth or has had opportunity to consistently demonstrate performance and growth potential. | **Box 6** The team member is not meeting the requirements of their current role, but has demonstrated willingness and ability to extend beyond scope once ramped, and/or is showing the willingness and ability to grow further with additional guidance or direction. The team member could be more successful in the current role with more direction/time to ramp, or in another role or department that more appropriately suits their skill set.|
 
 This matrix is an individual assessment tool that evaluates both a team members current contribution to the organization and their potential level of contribution.
@@ -108,15 +108,16 @@ Examples:
 
 Note that this is an expected distribution, not a forced distribution. The bell curve distribution aligns with what is most commonly used as a benchmark in the industry and serves as a baseline for us to review and calibrate against. There may be exceptions that are justified that can be discussed and reviewed during calibration. Where deviations from the expected distribution occur, managers should use this as a data point to further review and work with their leadership to ensure appropriate growth plans are in place, proper role fit exists, hiring plans are adjusted, that we are promoting at a fair and accurate rate.
 
+**We expect roughly ~5% of team members to be assess as [TNTR (Too New To Rate)](/handbook/people-group/talent-assessment/#too-new-to-rate).**
 Performance:
 
-- **Developing**: 10-15%, not yet meeting all of the expectations
+- **Developing**: 10%, not yet meeting all of the expectations
 - **Performing**: 60-65%, “on track” and meeting expectations
 - **Exceeding**: 25%, consistently surpasses the demands of their current role
 
 Growth Potential:
 
-- **Developing**: 10-15%
+- **Developing**: 10%
 - **Growing**: 60-65%
 - **Exceeding**: 25%
 
@@ -299,7 +300,7 @@ The calibration session is one of the most important pieces of the Performance/G
 
 It is likely not necessary to discuss each team member in detail, particularly for larger groups. Calibration sessions typically focuses on gaps, outliers and areas that might require additional management attention and/or alignment.
 
-As a best practice, we should calibrate outliers. "Outliers" are typically considered to [Box 1 ("Exceeding Growth Potential" and "Exceeding Performance") and Box 9 ("Developing Growth Potential" and "Developing Performance")]({{< ref "talent-assessment" >}}). [People Business Partners]({{< ref "/handbook/people-group#people-business-partner-alignment-to-division" >}}) and business leaders have discretion to expand this threshold as needed, but live calibration for team members in Box 1 and Box 9 should be the baseline across the board.
+As a best practice, we should calibrate outliers. "Outliers" are typically considered to [Box 1 ("Exceeding Growth Potential" and "Exceeding Performance") and Box 9 ("Developing Growth Potential" and "Developing Performance")]({{< ref "/handbook/people-group/talent-assessment" >}}). [People Business Partners]({{< ref "/handbook/people-group#people-business-partner-alignment-to-division" >}}) and business leaders have discretion to expand this threshold as needed, but live calibration for team members in Box 1 and Box 9 should be the baseline across the board.
 
 A few additional reasons to consider calibrating beyond Box 1 and Box 9 are:
 
@@ -369,7 +370,10 @@ Below is the high level timeline for the formal assessment in Q4 FY24 (Nov, Dec,
 - **2023-12-01 - 2023-12-08:** Total Rewards and final E-Group review and approval
 - **2023-12-11 - 2023-12-22 (5:00pm PST):** Managers will have access to Workday Talent Assessment to finalize evaluations
 - **2024-01-02 - 2024-01-31:** Managers can communicate Performance/Growth Potential assessment to team members
-- **2024 Date TBD:** Annual Compensation Review Kicks off for Managers
+- **2024-02-01:** Talent Assessments pending in Workday will be auto advanced to team members*
+- **2024-02-09:** Annual Compensation Review Kicks off for Managers
+
+*Team members who are on Leave of Absence (LOA) on 2024-02-01 are excluded from the auto advancement of their talent assessment until they return to work.
 
 ### Cadence
 
@@ -412,8 +416,8 @@ Aligned with the [timeline](#timeline), managers can see final assessments for e
 
 The cut-off date to determine whether to assess team members as Too New to Rate based on recent promotion/transfer for the FY24 Talent Assessment cycle is based on their time in role prior to the start of the Talent Assessment cycle, **October 16, 2023**. Guidelines are as follows:
 
-1. **If a team member interviews and transfers or is promoted to a new role, with an effective date within 90 days of the start of the talent assessment cycle or throughout the talent assessment cycle (2023-07-15 to 2023-11-03), guidance would be that they should be assessed as Too New to Rate.** This includes most FY24-Q3 promotions which have an effective date of 2023-08-01.
-1. **If a team member interviews and transfers to a new role or was promoted to a new role more than 90 days before the start of the talent assessment cycle (before 2023-07-15) they would be assessed based on the new level/role.**
+1. **If a team member interviews and transfers or is promoted to a new role, with an effective date within 90 days of the start of the talent assessment cycle or throughout the talent assessment cycle (on or after 2023-07-16), guidance would be that they should be assessed as Too New to Rate.** This includes most FY24-Q3 promotions which have an effective date of 2023-08-01.
+1. **If a team member interviews and transfers to a new role or was promoted to a new role more than 90 days before the start of the talent assessment cycle (on or before 2023-07-15) they would be assessed based on the new level/role.**
 
 It is important to note that because being promoted recognizes high performance both in terms of increased scope/responsibility and monetarily through compensation increase therefore a **promotion "resets" the performance factor evaluation**.
 
@@ -552,6 +556,10 @@ If they will be returning from leave before the due date to communicate [Talent 
 
 It’s important to ensure you are assessing the team member's performance for their contributions while working during the assessment time period. There should be no adverse impact on their overall assessment due to being on leave for a portion of the period. During calibration, please remain vigilant to ensure no private details related to their time away are disclosed. Please reach out to your PBP to discuss the specific details related to your team member.
 
+**My team member is on leave of absence during the Talent Assessment communication window. What happens to their Talent Assessment?**
+
+Please do not action the To-Do task "Meet with your Employee" if your team member is on leave of absence (LOA). We will exclude team members on LOA from the auto advancement setting on 2024-02-01 and you can communicate their talent assessment when they return to work.
+
 **My team member was assessed as key talent last year, and is not for this assessment period. How should I handle communication with them?**
 
 There is no guarantee that team members will retain their key talent assessment each assessment period. Make sure to explain the reasons why their key talent assessment has changed, including how we assess Key Talent and the [definition outlined in the Handbook](#key-talent).
@@ -631,7 +639,7 @@ Recommended process for our FY'24 Q2 cycle will be as follows:
 
     - **Achievements**
 
-      List your 3 most significant achievements since the last formal [Talent Assessment]({{< ref "talent-assessment" >}}), aligned with the job responsibilities and expectations of the role. This can include significant impact to the department or company, customer-impact, community-impacting, etc. Feedback can also be included in this section if applicable.
+      List your 3 most significant achievements since the last formal [Talent Assessment]({{< ref "/handbook/people-group/talent-assessment" >}}), aligned with the job responsibilities and expectations of the role. This can include significant impact to the department or company, customer-impact, community-impacting, etc. Feedback can also be included in this section if applicable.
 
     - **Strengths & Opportunities in Role**
 
@@ -675,7 +683,7 @@ We have intentionally provided a longer timeline to ensure different business gr
 
 ## Succession Planning
 
-Succession planning is an important step in our Talent Assessment process. Completing the [Performance/Growth Potential Assessment]({{< ref "talent-assessment" >}}) gives leaders a fresh overview of the top performers and the highest growth team members in their respective organizations. Particularly for individuals in Senior Leadership roles and above (the [S-Group]({{< ref "structure#s-group" >}}) and depending on structure the [Director-Group]({{< ref "structure#director-group" >}})), a recommended next step following the Performance/Growth Potential assessment is to do succession planning.
+Succession planning is an important step in our Talent Assessment process. Completing the [Performance/Growth Potential Assessment]({{< ref "/handbook/people-group/talent-assessment" >}}) gives leaders a fresh overview of the top performers and the highest growth team members in their respective organizations. Particularly for individuals in Senior Leadership roles and above (the [S-Group]({{< ref "structure#s-group" >}}) and depending on structure the [Director-Group]({{< ref "structure#director-group" >}})), a recommended next step following the Performance/Growth Potential assessment is to do succession planning.
 
 Succession planning ensures we are identifying and developing future GitLab leaders to ensure business continuity in the event of an unforeseen change, and providing the current leadership team the opportunity to grow and scale. It may provide an opportunity to diversify our leadership team by developing our internal bench of talent. Note, potential alone does not determine who will be a successor. Strong succession candidates should demonstrate sustained exceeding performance and growth, aspire to have a role at the next level, and be ready for a much larger role in the near term.
 
@@ -732,7 +740,7 @@ The succession planning process might vary slightly for different areas of the b
 
 ### Key Talent Criteria
 
-Key Talent makes up roughly ~10% of the population. Key Talent represents team members who have a significant impact on GitLab's success. They deliver quality results that are instrumental in moving critical company initiatives forward and do so consistently in alignment with our values. These team members are often recognized as experts in their current role. Team members, at any level, can be considered Key Talent.
+Key Talent makes up roughly ~10% of the population. Key Talent represents team members who have a significant impact on GitLab's present and future success. They deliver quality results that are instrumental in moving critical company initiatives forward and do so consistently in alignment with our values. These team members are often recognized as experts in their current role. Team members, at any level, can be considered Key Talent.
 
 Team members identified as Key Talent typically have knowledge, skills, and experience that:
 

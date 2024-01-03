@@ -8,13 +8,13 @@ title: Cadence Calls
 
 
 
-View the [CSM Handbook homepage](https://about.gitlab.com/handbook/customer-success/csm/) for additional CSM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM-related handbook pages.
 
 - - -
 
 ## Overview
 
-One of the primary tools CSMs have to become a trusted advisor and assess and improve account [health](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/) is the customer cadence call. This is an opportunity for the CSM and the customer team to sync on business outcomes, priorities, progress on initiatives, and concerns, and it is a great opportunity to bring in other GitLab team members that the CSM feels should be included (for example, [Product](https://about.gitlab.com/handbook/customer-success/csm/product/) to review feature requests and the roadmap).
+One of the primary tools CSMs have to become a trusted advisor and assess and improve account [health](/handbook/customer-success/csm/health-score-triage/) is the customer cadence call. This is an opportunity for the CSM and the customer team to sync on business outcomes, priorities, progress on initiatives, and concerns, and it is a great opportunity to bring in other GitLab team members that the CSM feels should be included (for example, [Product](/handbook/customer-success/csm/product/) to review feature requests and the roadmap).
 
 Cadence calls are an important aspect of CSM engagement to continue to understand customer's evolving needs, ensure GitLab is delivering value and outcomes, unblock barriers, address issues, collect feedback, nurture relationships, and ensure the customer continues to have positive experiences.
 
@@ -22,9 +22,9 @@ Cadence calls are an important aspect of CSM engagement to continue to understan
 
 - **Enterprise**: Cadence calls should be weekly during onboarding and otherwise at least biweekly for P1 customers and monthly for P2 customers, considering specific customer needs and stage in customer lifecycle.
 - **Commercial**: Cadence calls should be weekly during onboarding and at least once quarter otherwise, considering specific customer needs and stage in customer lifecycle.
-- **Scale**: Cadence calls are not scheduled on an ongoing basis for Scale CSE customers. Calls with customers are offered programmatically based on the key points defined in the [Scale CSE customer lifecycle](https://about.gitlab.com/handbook/customer-success/csm/segment/scale/#customer-lifecycle).
+- **Scale**: Cadence calls are not scheduled on an ongoing basis for Scale CSE customers. Calls with customers are offered programmatically based on the key points defined in the [Scale CSE customer lifecycle](/handbook/customer-success/csm/segment/scale/#customer-lifecycle).
 
-Cadence calls should be [captured in Gainsight](https://about.gitlab.com/handbook/customer-success/csm/gainsight/timeline/#how-to-log-activities-in-timeline), which [drives the Engagement scorecard metric](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/#gainsight-scorecard-attributes-and-calculations).
+Cadence calls should be [captured in Gainsight](/handbook/customer-success/csm/gainsight/timeline/#how-to-log-activities-in-timeline), which [drives the Engagement scorecard metric](/handbook/customer-success/csm/health-score-triage/#gainsight-scorecard-attributes-and-calculations).
 
 ## Lifecycle of a cadence call
 
@@ -50,7 +50,7 @@ The topics and the naming of the cadence call (when you send an invite to the cu
 - "GitLab - Bi-weekly Collaboration" (Adapt, depending on the frequency)
 - "GitLab - CSM Call"
 
-By developing an agenda and doing advance preparation for the meeting, the CSM (and the rest of the [account team](https://about.gitlab.com/handbook/customer-success/account-team/)) will be ready with relevant questions and information for the customer.
+By developing an agenda and doing advance preparation for the meeting, the CSM (and the rest of the [account team](/handbook/customer-success/account-team/)) will be ready with relevant questions and information for the customer.
 
 #### Tasklist for the first cadence call
 
@@ -59,9 +59,9 @@ The following items are to be covered/completed in your initial cadence call/kic
 - Have introductions between the account team and the customer
 - Identify purchase reasons and primary use cases
 - Identify training needs and agree on enablement sessions
-  - New Customers: Discuss the [Intro to GitLab and the Intro to CI/CD enablement sessions](https://about.gitlab.com/handbook/customer-success/csm/workshops/) in your first cadence call
-  - Existing Customers: Discuss other [enablement sessions](https://about.gitlab.com/handbook/customer-success/csm/workshops/) in-line with their desired use cases and potential expansion opportunities (it can be helpful to start discussing future sessions/topics right after one is delivered and it's fresh in their mind)
-  - Scale Customers: Share the [landing page for upcoming webinars](https://about.gitlab.com/handbook/customer-success/csm/segment/scale/webinar-calendar/), and encourage them to sign up for the Intro to GitLab and the Intro to CI/CD webinars at a minimum
+  - New Customers: Discuss the [Intro to GitLab and the Intro to CI/CD enablement sessions](/handbook/customer-success/csm/workshops/) in your first cadence call
+  - Existing Customers: Discuss other [enablement sessions](/handbook/customer-success/csm/workshops/) in-line with their desired use cases and potential expansion opportunities (it can be helpful to start discussing future sessions/topics right after one is delivered and it's fresh in their mind)
+  - Scale Customers: Share the [landing page for upcoming webinars](/handbook/customer-success/csm/segment/scale/webinar-calendar/), and encourage them to sign up for the Intro to GitLab and the Intro to CI/CD webinars at a minimum
 - Share our [support offerings](https://about.gitlab.com/support/)
 - If the customer is on a SaaS subscription:
   - Share [Status](https://status.gitlab.com/) and [Communications Preferences](/handbook/company/preference-center/) pages with customer
@@ -99,9 +99,9 @@ The CSM should drive the call proactively so the customer sees a value in it and
 
 In addition to the [GitLab external communication guidelines](/handbook/communication/#external-communication), here are a few tips for having a strong cadence call:
 
-- **Be engaged.** [It's acceptable at GitLab to multitask or divert your attention during meetings](/handbook/communication/), but during a cadence call this isn't a good idea. The CSM is leading this call, and it's important to follow what is being discussed and keep the conversation moving to make the most of the alloted time. The CSM should be guiding the discussion, and [taking notes](#cadence-call-notes) (or have already asked another member of the [account team](https://about.gitlab.com/handbook/customer-success/account-team/) to take notes).
-- **Be flexible.** Having an agenda is crucial to a well-run cadence call, but it's equally important to be ready to go off-script. If the customer has something urgent that they need to discuss, or the conversation goes on a tangent that may yield good information, don't try to force it back to the prepared agenda. Address the customer concerns, embrace new information with relevant questions, and anything on the agenda that isn't critical can be delayed until the next cadence call. This relates to [being "audible-ready"](https://about.gitlab.com/handbook/sales/command-of-the-message/#overview) in customer conversations.
-- **Be responsive.** No matter how much the CSM and [account team](https://about.gitlab.com/handbook/customer-success/account-team/) prepare for the call, the customer can still throw a curveball. If they ask for information nobody on the call knows, be honest and acknowledge that, but make a plan to get that information and [follow up](#after-the-call). If you think you can answer the question, make an effort but still assure the customer you will verify what the best answer is. Do your best in the moment, and [follow up on everything else in a timely manner](#after-the-call).
+- **Be engaged.** [It's acceptable at GitLab to multitask or divert your attention during meetings](/handbook/communication/), but during a cadence call this isn't a good idea. The CSM is leading this call, and it's important to follow what is being discussed and keep the conversation moving to make the most of the alloted time. The CSM should be guiding the discussion, and [taking notes](#cadence-call-notes) (or have already asked another member of the [account team](/handbook/customer-success/account-team/) to take notes).
+- **Be flexible.** Having an agenda is crucial to a well-run cadence call, but it's equally important to be ready to go off-script. If the customer has something urgent that they need to discuss, or the conversation goes on a tangent that may yield good information, don't try to force it back to the prepared agenda. Address the customer concerns, embrace new information with relevant questions, and anything on the agenda that isn't critical can be delayed until the next cadence call. This relates to [being "audible-ready"](/handbook/sales/command-of-the-message/#overview) in customer conversations.
+- **Be responsive.** No matter how much the CSM and [account team](/handbook/customer-success/account-team/) prepare for the call, the customer can still throw a curveball. If they ask for information nobody on the call knows, be honest and acknowledge that, but make a plan to get that information and [follow up](#after-the-call). If you think you can answer the question, make an effort but still assure the customer you will verify what the best answer is. Do your best in the moment, and [follow up on everything else in a timely manner](#after-the-call).
 
 Before you end the call, take a few minutes to summarize the highlights of what was discussed, and review the action items and who is responsible for each of them. It's also worth reminding everyone of when the *next* cadence call is.
 
@@ -134,7 +134,7 @@ When crafting your follow up messages to customers, follow the below recommended
 1. Include a short summary of what the link contains so they understand why it's valuable to them before they click on it.
 1. Often, we ask questions posed in customer calls to other GitLab team members. Don't copy & paste exactly your conversation; edit it to make sure it flows and makes sense to the customer and only contains the information they need.
 1. Proofread! Before clicking send, always re-read your emails (aloud if that helps) to ensure it makes sense and doesn't have any errors. Remember customers don't always have as much context as we do, so read it from their perspective.
-1. Make sure you [BCC Salesforce](https://about.gitlab.com/handbook/customer-success/using-salesforce-within-customer-success/#tracking-emails-within-salesforce) on your emails. For important emails, you can also [BCC Gainsight](https://about.gitlab.com/handbook/customer-success/csm/gainsight/timeline/#bccing-emails), but this is not recommended for all emails as it can make the Timeline noisy.
+1. Make sure you [BCC Salesforce](/handbook/customer-success/using-salesforce-within-customer-success/#tracking-emails-within-salesforce) on your emails. For important emails, you can also [BCC Gainsight](/handbook/customer-success/csm/gainsight/timeline/#bccing-emails), but this is not recommended for all emails as it can make the Timeline noisy.
 
 ## Cadence Call Notes
 
@@ -145,48 +145,48 @@ The rationale for saving call notes in this manner is as follows:
 - The naming convention ""`Customer` - Meeting Notes" allows for fast searching using [Google Cloud Search for Work](https://cloudsearch.google.com/)
 - Call notes frequently contain sensitive information and are for the internal sales team and management to review and should be kept in a place everyone who might need access can find them.
 - A folder structure allows non-Customer Success executives and support staff to easily locate the notes in the case of an escalation.
-- Call notes are tightly linked to the [health score](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/) and should be available for reference in the same location as the health scorecard in Gainsight.
+- Call notes are tightly linked to the [health score](/handbook/customer-success/csm/health-score-triage/) and should be available for reference in the same location as the health scorecard in Gainsight.
 - Access to Gainsight is limited to CSMs, so other members of the Sales and Customer Success organizations will look for notes in Google Drive.
 - If a team member who created the Google Doc leaves GitLab, the notes will remain accessible to everyone, as they live in the shared Google Drive folder.
 
 Customer call notes should also always be linked in the C360 for the account, under the "Summary" tab, in the "Account Attributes (Editable)" section, in the "Google Doc Notes" field.
 
-When CSMs are logging calls in Gainsight [Timeline](https://about.gitlab.com/handbook/customer-success/csm/gainsight/timeline/), they need to copy & paste the link to the Google Doc. They should either write a simple summary of the meeting along with the link, or have the link be a direct deep link to the date the call happened, so as to not duplicate efforts.
+When CSMs are logging calls in Gainsight [Timeline](/handbook/customer-success/csm/gainsight/timeline/), they need to copy & paste the link to the Google Doc. They should either write a simple summary of the meeting along with the link, or have the link be a direct deep link to the date the call happened, so as to not duplicate efforts.
 
-At the end of each customer call any changes to customer health should be reflected in the customer's Gainsight account. You have a few ways to update the CSM Sentiment and Product Sentiment for an account's health score, described in [Determining CSM Sentiment and Product Risk](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/#determining-CSM-sentiment-and-product-risk), the easiest of which is updating it directly when logging the call.
+At the end of each customer call any changes to customer health should be reflected in the customer's Gainsight account. You have a few ways to update the CSM Sentiment and Product Sentiment for an account's health score, described in [Determining CSM Sentiment and Product Risk](/handbook/customer-success/csm/health-score-triage/#determining-CSM-sentiment-and-product-risk), the easiest of which is updating it directly when logging the call.
 
 ### Best Practices for Note-Taking
 
 - Write down your *agenda* (including questions you want to ask) in advance. This way you can quickly add your notes for the specific context.
-- If you're comfortable in writing in [Markdown format](https://about.gitlab.com/handbook/markdown-guide/), use it to quickly structure your notes in real time.
+- If you're comfortable in writing in [Markdown format](/handbook/markdown-guide/), use it to quickly structure your notes in real time.
 - Allow yourself time directly after the call to clean up your notes. Avoid scheduling back-to-back meetings.
 - Practice slowing down call conversations. Stopping the dialog for a few seconds to say “let me write that down” tells the customer what they said is important to you.
 - Ask your SAE/AE/SA to take notes with you. After the meeting combine and add detail.
 - Use [Chorus](/handbook/business-technology/tech-stack/#chorus) to record your calls so there's less pressure for you to take note of everything.
-- Sometimes it makes sense for somebody on the [account team](https://about.gitlab.com/handbook/customer-success/account-team/) to go back through the call in Chorus to transcribe it.
+- Sometimes it makes sense for somebody on the [account team](/handbook/customer-success/account-team/) to go back through the call in Chorus to transcribe it.
 - Write notes in whatever is easiest and always copy them to the source of truth meeting notes doc. If you can write them in the source of truth in the first place, you’ll be more efficient and consistent, and your account team will be able to follow along real-time.
 
 ## Cadence Call Topics
 
 The below non-exhaustive list is simply suggestions for cadence calls, and other topics may be more important, so use the suggestions at your discretion.
 
-There are two sections, [General Suggestions](https://about.gitlab.com/handbook/customer-success/csm/cadence-calls/#general-suggestions) is for topics that are good at any time, and [Ephemeral Suggestions](https://about.gitlab.com/handbook/customer-success/csm/cadence-calls/#ephemeral-suggestions) is for topics that are ephemeral, such as release-specific topics or requests from Product Managers.
+There are two sections, [General Suggestions](/handbook/customer-success/csm/cadence-calls/#general-suggestions) is for topics that are good at any time, and [Ephemeral Suggestions](/handbook/customer-success/csm/cadence-calls/#ephemeral-suggestions) is for topics that are ephemeral, such as release-specific topics or requests from Product Managers.
 
 ### General Suggestions
 
 These are suggestions that can be used at any time on customer calls.
 
 - Follow up on previously discussed items
-- Questions about their [strategic and business outcomes](https://about.gitlab.com/handbook/customer-success/csm/success-plans/questions-techniques/) and review of progress
+- Questions about their [strategic and business outcomes](/handbook/customer-success/csm/success-plans/questions-techniques/) and review of progress
 - Periodically (a couple times per year) ask about new goals or objectives they have coming up
 - Review upcoming features and releases
-- Questions relating to [Stage Adoption](https://about.gitlab.com/handbook/customer-success/csm/stage-adoption/)
+- Questions relating to [Stage Adoption](/handbook/customer-success/csm/stage-adoption/)
 - Discovery questions about their usage, best practices, typical workflows, etc.
 - Learn about the customer's preferred product areas by asking what they are mainly using in terms of tools, integrations, IDEs, languages, etc., in order to know what to highlight from new releases
 - Discuss if there are any areas for user enablement or training
 - Mention upcoming GitLab [workshops/events](https://about.gitlab.com/events/) in their region (or even ones in other regions)
 - Questions about how they are leveraging other tools or integrations
-- Updates on [customer requested features](https://about.gitlab.com/handbook/customer-success/csm/issue-prioritization/#cadence-calls)
+- Updates on [customer requested features](/handbook/customer-success/csm/issue-prioritization/#cadence-calls)
 - Discuss if their users have any feedback, pain points, or blockers
 - Ask if there is anything the CSM can assist on towards resolution (feature requests, support tickets, etc.)
 - Ask about any gaps in or outdated information in Gainsight (watch an [8 minute video](https://youtu.be/yk95b6u26So) for recommendations!)

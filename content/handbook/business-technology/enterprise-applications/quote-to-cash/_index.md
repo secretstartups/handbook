@@ -21,18 +21,18 @@ The quote-to-cash (QTC) process encompasses customer account management, order f
 
 #### Salesforce
 - Salesforce is used as our CRM tool for managing customer Leads, Contacts, Accounts, Opportunities and Quotes.
-- Salesforce is owned by the [Sales Systems](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/) team at GitLab, and implements changes from the process owners.
-- The [Quoting process](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#quote-configuration) itself is owned by the [Deal Desk team](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/).
+- Salesforce is owned by the [Sales Systems](/handbook/sales/field-operations/sales-systems/) team at GitLab, and implements changes from the process owners.
+- The [Quoting process](/handbook/sales/field-operations/order-processing/#quote-configuration) itself is owned by the [Deal Desk team](/handbook/sales/field-operations/sales-operations/deal-desk/).
 
 #### Zuora CPQ
 - Zuora CPQ is our Configure, Price, Quote tool used for Sales Assisted deals
-- Zuora CPQ is a managed package in Salesforce that has been extended for Quote Approvals by [Sales Systems](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/)
-- The [Quote Approval process](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#standard-quote-approval) itself is owned by the [Deal Desk team](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/).
+- Zuora CPQ is a managed package in Salesforce that has been extended for Quote Approvals by [Sales Systems](/handbook/sales/field-operations/sales-systems/)
+- The [Quote Approval process](/handbook/sales/field-operations/order-processing/#standard-quote-approval) itself is owned by the [Deal Desk team](/handbook/sales/field-operations/sales-operations/deal-desk/).
 
 #### Zuora 360
 - Zuora 360 is a stock connector between Zuora and Salesforce, is transfers Zuora subscription information to Salesforce.
-- Zuora 360 the job is owned by [Enterprise Applications](/handbook/business-technology/enterprise-applications/), the extension of Zuora Subscription data in Salesforce for Add-ons and Renewals deal is owned by [Sales Systems](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/).
-- The [Add-On](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#amend-subscription-quote) and [Renewal](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#renew-subscription-quote) processes are owned by the [Deal Desk team](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/).
+- Zuora 360 the job is owned by [Enterprise Applications](/handbook/business-technology/enterprise-applications/), the extension of Zuora Subscription data in Salesforce for Add-ons and Renewals deal is owned by [Sales Systems](/handbook/sales/field-operations/sales-systems/).
+- The [Add-On](/handbook/sales/field-operations/sales-operations/deal-desk/#amend-subscription-quote) and [Renewal](/handbook/sales/field-operations/sales-operations/deal-desk/#renew-subscription-quote) processes are owned by the [Deal Desk team](/handbook/sales/field-operations/sales-operations/deal-desk/).
 
 #### Zuora Billing
 - Zuora is used as our billing and revenue tool for managing customer subscriptions, payments and invoicing.
@@ -44,7 +44,7 @@ The quote-to-cash (QTC) process encompasses customer account management, order f
 
 #### CustomersDot (Customers Portal)
 - CustomersDot is used when the customer logs in to manage their subscriptions
-- GitLab engineers created CustomersDot and it is owned by the [Fulfillment team](https://about.gitlab.com/handbook/engineering/development/fulfillment/)
+- GitLab engineers created CustomersDot and it is owned by the [Fulfillment team](/handbook/engineering/development/fulfillment/)
 - CustomersDot integrates with Zuora to enable self-service purchasing and subscription management
 
 #### NetSuite

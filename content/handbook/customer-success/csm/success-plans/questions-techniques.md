@@ -9,25 +9,25 @@ title: "Questions & Techniques for Success Plan Discovery"
 
 
 
-View the [CSM Handbook homepage](https://about.gitlab.com/handbook/customer-success/csm/) for additional CSM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM-related handbook pages.
 
 ----
 
-The questions and techniques described on this page will provide you with some ways to drive a strategic conversation with a customer, and explore the information you need to develop an [effective success plan](https://about.gitlab.com/handbook/customer-success/csm/success-plans/).  A Success Plan should always be a continuation of the [Command Plan](https://about.gitlab.com/handbook/sales/sales-operating-procedures/engage-and-educate-the-customer/#step-5-qualify-the-opportunity) where available.  The below questions are for further expanding on what we know from the Command Plan, or refreshing on objectives if it has been some time.
+The questions and techniques described on this page will provide you with some ways to drive a strategic conversation with a customer, and explore the information you need to develop an [effective success plan](/handbook/customer-success/csm/success-plans/).  A Success Plan should always be a continuation of the [Command Plan](/handbook/sales/sales-operating-procedures/engage-and-educate-the-customer/#step-5-qualify-the-opportunity) where available.  The below questions are for further expanding on what we know from the Command Plan, or refreshing on objectives if it has been some time.
 
 ## Open-ended questions
 
 Asking open-ended questions is the most effective way to get clarity from the customer about what they are trying to do, what their priorities are at the moment, and their plans for the future. Calling back to your Command of Message trainig, don't forget about TED. This acronym  provides a basic framework of open-ended questions to ask during customer calls.
 
-*T* Tell me about...  
-*E* Explain for me...  
-*D* Describe for me...  
+*T* Tell me about...
+*E* Explain for me...
+*D* Describe for me...
 
 ## “Where do we go from here?”
 
 The most straightforward and open-ended approach to starting a conversation about stage adoption, growth, and strategic objectives is something to the effect of:
 
-> "So I know right now you're using [[use cases](https://about.gitlab.com/handbook/use-cases/) in use, such as SCM, CI, etc.] - where can we go from here to maximize your success and value?"
+> "So I know right now you're using [[use cases](/handbook/use-cases/) in use, such as SCM, CI, etc.] - where can we go from here to maximize your success and value?"
 
 This question creates an opening to explore driving additional value for the customer, with the customer leading.  From here, we can explore with the customer use cases or features they're interested in knowing more about, business problems they could solve using GitLab, or anything else related to GitLab or DevSecOps. This one question also sets you up for more targeted follow-ups.
 
@@ -58,7 +58,7 @@ Once you’ve opened the conversation, use some of the other techniques to gathe
 
 ## “Day in the Life”
 
-Asking about developer or team workflows is a good way to better understand a customer’s current toolchain and SDLC process. This is useful in developing a plan to drive stage adoption, and to ask about pain points, [metrics](https://about.gitlab.com/handbook/sales/command-of-the-message/metrics/#connect-metrics-with-positive-business-outcomes), and dig towards business outcomes.
+Asking about developer or team workflows is a good way to better understand a customer’s current toolchain and SDLC process. This is useful in developing a plan to drive stage adoption, and to ask about pain points, [metrics](/handbook/sales/command-of-the-message/metrics/#connect-metrics-with-positive-business-outcomes), and dig towards business outcomes.
 
 - “Take me through the workflow of an average developer. What tools are they using? How long does it take for them to go from starting a feature to submitting the merge request?”
 - “What are the bottlenecks you see in your current processes?”
@@ -67,7 +67,7 @@ Asking about developer or team workflows is a good way to better understand a cu
 ## Metrics Based Questions
 
 Ask your stakeholders about the metrics they care about, how they measure them now (if at all) and how GitLab can help measure those.
-Ask the customers the following questions that tie back to [our three Value Drivers…](https://about.gitlab.com/handbook/sales/command-of-the-message/#customer-value-drivers)
+Ask the customers the following questions that tie back to [our three Value Drivers…](/handbook/sales/command-of-the-message/#customer-value-drivers)
 
 - Increase Operational Efficiencies
 - Deliver Better Products Faster
@@ -90,7 +90,7 @@ Ask the customers the following questions that tie back to [our three Value Driv
 ## Stage Adoption
 
 We also want to ask about Stage Adoption metrics so that we can tie their GitLab usage into Stage Adoption.
-(**Note:** All of these can be found along with how we measure stage adoption in our [Stage Adoption Metrics](https://about.gitlab.com/handbook/customer-success/csm/stage-adoption/) page)
+(**Note:** All of these can be found along with how we measure stage adoption in our [Stage Adoption Metrics](/handbook/customer-success/csm/stage-adoption/) page)
 
 - **Plan**
   - What tools do you use to organize, plan and track project work?
@@ -127,7 +127,7 @@ We also want to ask about Stage Adoption metrics so that we can tie their GitLab
   - Do you look for known vulnerabilities in your external dependencies?
 - **Release**
   - Are you using GitLab to deploy your applications?
-  - Do you use GitLab pages to create, manage and deploy static sites?
+  - Do you use GitLab Pages to create, manage and deploy static sites?
   - Are you making use of review apps to get a full production like environment in every merge request?
   - How do you currently manage your releases? (i.e. versioning, release notes, etc.)
 - **Configure**
@@ -208,7 +208,7 @@ For example:
 >
 > **Customer:** The CTO has an objective to reduce the time it takes to ship releases so we can get new features to market faster.
 
-By asking additional "why does this matter?" questions after the initial mention of wanting to set up GitLab with HA, the CSM in this scenario was able to get to a business outcome that comes straight from senior leadership. From here, the CSM can [ask about metrics](https://about.gitlab.com/handbook/sales/command-of-the-message/metrics/#connect-metrics-with-positive-business-outcomes), pain points, other tools in their DevOps workflow, and other discovery questions to understand success criteria for the business outcome.
+By asking additional "why does this matter?" questions after the initial mention of wanting to set up GitLab with HA, the CSM in this scenario was able to get to a business outcome that comes straight from senior leadership. From here, the CSM can [ask about metrics](/handbook/sales/command-of-the-message/metrics/#connect-metrics-with-positive-business-outcomes), pain points, other tools in their DevOps workflow, and other discovery questions to understand success criteria for the business outcome.
 
 If you'd like to see more examples of how to use the Five Whys framework and what it could look like in practice, take a look at the [Five Whys breakout session from SKO 2021](https://gitlab.edcast.com/insights/breakout-leveling).
 

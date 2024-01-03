@@ -1,6 +1,6 @@
 ---
 title: "GitLab Mission"
-description: "GitLab believe that all digital products should be open to contributions; from legal documents to movie scripts, and from websites to chip designs."
+description: "We at GitLab believe that all digital products should be open to contributions; from legal documents to movie scripts, and from websites to chip designs."
 canonical_path: "/company/mission/"
 ---
 
@@ -27,7 +27,7 @@ To ensure that **everyone can contribute with GitLab** we allow anyone to create
 ### Everyone can contribute to GitLab, the application{#contribute-to-gitlab-application}
 
 We actively welcome contributors to ensure that **everyone can contribute to GitLab, the application**. When **everyone can contribute**, users become contributors and we greatly
-increase the rate of innovation. We think that it is logical that our collaboration tools are a collaborative
+increase the rate of innovation to benefit customers and users. We think that it is logical that our collaboration tools are a collaborative
 work themselves. More than [3,000 people from the wider community](http://contributors.gitlab.com/) have contributed to GitLab to make that a reality.
 
 We do this by having quality code, tests, documentation, popular frameworks,
@@ -107,6 +107,6 @@ This policy is in alignment with our mission, contributor and employee code-of-c
 
 ## Mitigating Concerns
 
-We acknowledge the concerns to achieving our goals. We document them in our [Mitigating Concerns page](/handbook/leadership/mitigating-concerns/).
+We acknowledge the concerns to achieving our goals. We document them in our [Mitigating Concerns page](https://internal-handbook.gitlab.io/handbook/leadership/mitigating-concerns/).
 
 {{% include "includes/take-gitlab-for-a-spin.md" %}}

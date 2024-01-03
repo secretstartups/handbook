@@ -39,7 +39,7 @@ Our co-founder and CEO Sid Sijbrandij discusses this in a blog post entitled "[W
 
 Particularly in comparison to companies in cities with high costs of living, such as London, San Francisco, Singapore, Sydney, etc., an all-remote company realizes [a notable set of advantages]({{< ref "compensation#why-we-pay-local-rates" >}}) by hiring brilliant minds in locales with lower costs of living.
 
-Funds that would be reserved for salaries — necessary to compete in hot labor markets — can be redirected to areas such as [research and development](https://about.gitlab.com/blog/2018/06/12/how-ux-research-impacts-product-decisions/) (R&D), [acquisitions](https://about.gitlab.com/handbook/acquisitions/), and [hiring more people](https://about.gitlab.com/jobs/).
+Funds that would be reserved for salaries — necessary to compete in hot labor markets — can be redirected to areas such as [research and development](https://about.gitlab.com/blog/2018/06/12/how-ux-research-impacts-product-decisions/) (R&D), [acquisitions](/handbook/acquisitions/), and [hiring more people](https://about.gitlab.com/jobs/).
 
 These additional investments can be made simply by lowering a company's overall spend on compensation, but only if a company is willing to hire in locales where a dollar goes farther than the [SF Benchmark](/handbook/total-rewards/compensation/compensation-calculator#sf-benchmark).
 

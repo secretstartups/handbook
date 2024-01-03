@@ -30,13 +30,13 @@ This chart reflects the available signatories for each of GitLab's entities. The
 | GitLab PTY Ltd, Australia | Jess Dallmar & Rob Allen. Backup: Craig Mestel|
 | GitLab PTY Ltd, New Zealand | Jess Dallman & Rob Allen. Backup: Craig Mestel|
 | GitLab Ireland LTD | Rob Allen & Pattie Egan. Backup: Craig Mestel|
-| GitLab UK Ltd | Rob Allen, Pattie Egan, Erin Mannix|
-| GitLab Canada Corp | Craig Mestel, Erin Mannix |
-| GitLab GK, Japan | Jess Dallmar, Rob Allen. Backups: Erin Mannix, Craig Mestel |
+| GitLab UK Ltd | Rob Allen, Pattie Egan|
+| GitLab Canada Corp | Craig Mestel, Simon Mundy |
+| GitLab GK, Japan | Jess Dallmar, Rob Allen. Backups: Simon Mundy, Craig Mestel |
 | GitLab IT BV | Rob Allen & Pattie Egan. Backup: Craig Mestel|
-| GitLab South Korea | Jess Dallmar & Rob Allen. Backup: Erin Mannix, Craig Mestel |
+| GitLab South Korea | Jess Dallmar & Rob Allen. Backup: Craig Mestel |
 | GitLab France S.A.S. | Rob Allen & Pattie Egan. Backup: Craig Mestel|
-| GitLab Singapore PTE. LTD. | Jess Dallmar & Rob Allen. Backup: Erin Mannix|
+| GitLab Singapore PTE. LTD. | Jess Dallmar & Rob Allen |
 | JCLs | Choose signatory from the list above. For the US, Morgan Wilkins can also sign. |
 | PEOs | The Candidate Experience Specialist processing the offer. For JCLs, choose Morgan Wilkins or Marissa Ferber |
 
@@ -343,7 +343,7 @@ LOAs should be treated like contracts, where RSUs are only features in US ones a
     - #1 Hiring Manager (receives a copy)
     - #2 Candidate (needs to sign)
     - #3 People Ops (receives a copy)
-    - #3 Nitin Upadhyay (receives a copy)
+    - #3 Nitin Upadhyay and Julia Demina (receives a copy)
     - This ensures that the contract goes to the GitLab signatory to sign first, as well as the recruiter for a Cc and once signed by them it will go to the People Experience for an update of records.
 1. Then click "Done".
 1. When the JCL is signed, ensure that you merge profiles before Hiring to avoid creating duplicate profile
@@ -386,6 +386,33 @@ GitLab has entities in Singapore, South Korea, and France. All team members in t
 Reminder: France requires contracts to be individually drafted by the Legal team. There is a [SSOT document](https://docs.google.com/spreadsheets/d/1HQxOwt30v1qffulaZay61aj_A5edQgb_zfBrhoq0CgA/edit#gid=0) where we keep track of these requests.
 
 Always ensure the start date is on a Monday, unless Monday is a holiday or the non-Monday date is legally required.
+
+## Creating a French Offer
+
+1. You will receive a req to create a French Offer.
+1. Please ensure that you complete the [SSOT document](https://docs.google.com/spreadsheets/d/1HQxOwt30v1qffulaZay61aj_A5edQgb_zfBrhoq0CgA/edit#gid=0).
+1. Ensure the start date is on a Monday, unless Monday is a holiday or the non-Monday date is legally required.
+1. Send the SSOT form to the Legal Team in the [Frenchcontracts_CES](https://gitlab.slack.com/archives/C05R0R495L6) requesting assistance with the offer. When making the request in the channel, please indicate the candidate's name and their number on the SSOT document.
+1. One of the Legal Team members will respond with the following information:
+    - The GreenHouse Offer Template that you should use (A,B or C)
+    - The wording that should be added to the template (including information on where the wording should be placed). This wording will be placed as provided by Legal on both the English & French sides in English.
+    - If the offer does not include draw language, Legal will confirm which part of the offer template should be removed.
+
+Once this information has been received, please go onto GH and follow the steps below:
+1. Click on the settings icon
+1. Select ‘Offer Templates’ on the left-hand side
+1. Search for the Template as advised by Legal
+    - A: France (35 hour w OTE & draw) [use for ETAM only] CES TO EDIT
+    - B: France (35 hour w OTE & draw) [Cadre ONLY] CES TO EDIT
+    - C: France (218 day w OTE and draw) [Cadre ONLY] CES TO EDIT
+1. Click on the three dots on the right-hand side of the template you will be using and select the ‘download’ tab
+1. Open the document in Google Docs
+1. Make all the changes as advised by the Legal Team and save the document
+1. Go back to the offer templates page on GH
+1. Click on ‘Upload New’ on the right-hand side
+1. Upload the amended document
+1. Then follow the normal offer creation process in GH and select your uploaded document as the offer template for this offer.
+1. Please remember to delete this template once you have completed the process and the offer has been signed by the signatory & the candidate
 
 ## CXC (NOTE: HIRING IS CURRENTLY PAUSED HERE: Please speak with Enablement before sending offer letters)
 
@@ -455,7 +482,7 @@ The process for creating and sending an agreement is as follows:
 1. Click *Upload* to place new hire’s statement of work in this folder
 1. Inform the Global Upside team (gitlabHR@globalpeoservices.com) of any new hires by sending email template *Email to Global Upside* under “Email the Team” in Greenhouse to let them know that a new SOW was uploaded into Egnyte and the employee’s name.
 1. The Candidate Experience Specialist should add the candidate to the [PEO Tracking Sheet](https://docs.google.com/spreadsheets/d/1gSOVTJ1Yv-YsSaliJwKVf-1H0vBZXxb5NWFiqCwT-uo/edit#gid=0) and keep track of communication between GitLab.
-1. For candidates from Costa Rica, you will be asked to provide a translation of the job description in Spanish. In this case, you should reach out to the appropriate person in the [Localization](https://about.gitlab.com/handbook/marketing/localization/) page.
+1. For candidates from Costa Rica, you will be asked to provide a translation of the job description in Spanish. In this case, you should reach out to the appropriate person in the [Localization](/handbook/marketing/localization/) page.
 1. Once Global Upside has drafted up the contract, they will place it in Egnyte and email the CES to review and approve.
     -CES should double-check that the contract reflects all the correct information that we sent to them.
 1. Once the contract is signed by the new hire, Global Upside will notify the CES.
@@ -630,7 +657,7 @@ To initiate the process to submit the contract for e-signatures via DocuSign:
 
 Please follow the outlined steps below before sending the unsigned copy of the Contract to the Counsel:
 
-- (*)Open the saved unsigned contract in Google Drive, remove Gitlab signatory from the below fields -
+- (*)Open the saved unsigned contract in Google Drive, remove GitLab signatory from the below fields -
     1. **Summary Key of Terms** - Delete the GitLab Signatory's name and leave the field blank.
     1. **Scroll down to the end of the contract** - replace Signatory's name with “GitLab Signatory”. Save the contract as a PDF format.
 - To send the contract out to the German Counsel, CES can follow the below email structure through Gmail-
@@ -638,7 +665,6 @@ Please follow the outlined steps below before sending the unsigned copy of the C
     - **Subject line**  : Please Send Physical Contract for “Name of the new hire”
     - **Body of the email** : Expand the Text expander snippet “ GCtogermancounsel”
     - **Attachment** : CES to attach the unsigned PDF contract
-- Once the email is sent to the German counsel, CES adds the candidate to the German contract tracker. A link to this is in the contract templates received in the Service Desk.
 - In order to inform the candidate regarding the physical copies sent out via post, go to the Greenhouse profile of the ​​candidate, using the “email the “candidate name” function, select the template “ German Contract already sent to counsel”.
 - A welcome email should be sent to the candidate, and they should be marked as hired as per the normal hiring process.
 - Once the candidate has confirmed that they have received the physical contract in mail. CES will send the email template "German Contract step 2" to the candidate and close out the issue.

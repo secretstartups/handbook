@@ -12,9 +12,22 @@ description: "A running log of Field Operations changes (Sales Ops, CS Ops, Chan
 
 The Field Operations Changelog keeps a running log of Field Ops changes related to Sales Ops, CS Ops, Channel Ops & Deal Desk. The log is organized by fiscal year/quarter and sub-organized by the bi-weekly Field Ops release milestone/epic. It was started in Q3-FY22 and is organized by newest updates at the top. Any entries that were included in a Field Ops Release are **bolded**.
 
-To learn more about Field Ops releases, see the [Field Ops Release Schedule handbook page](https://about.gitlab.com/handbook/sales/field-operations/release-schedule/).
+To learn more about Field Ops releases, see the [Field Ops Release Schedule handbook page](/handbook/sales/field-operations/release-schedule/).
 
 ## Q4-FY24
+
+### 2023-12-18 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/427))
+
+**[Clari Feature Updates](https://clari.my.site.com/customer/s/article/Deal-Risk-Momentum-Indicators)**
+
+**[Customer Reminders to Link SaaS Subscriptions](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/6283)**
+
+**[Ultimate trials for SaaS Premium Customers](https://internal.gitlab.com/handbook/product/fulfillment/saas-ultimate-trials/)**
+
+
+### 2023-12-04 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/424))
+
+**[Update to Clari Session Timeout Configuration](https://internal.gitlab.com/handbook/sales/sales-tools/sales-forecasting/#logging-into-clari)**
 
 ### 2023-11-07 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/403))
 
@@ -50,7 +63,7 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 **[Tableau License Availability to CRO Org](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/23843)**
 
-**[SKUs for Statements of Work (SOWs)](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#quoting-professional-services)**
+**[SKUs for Statements of Work (SOWs)](/handbook/sales/field-operations/sales-operations/deal-desk/#quoting-professional-services)**
 
 **[Improvements to Bill To / Sold To Contact Management in CustomersDot](/handbook/product/fulfillment-guide/#billing-account-contacts)**
 
@@ -124,9 +137,9 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ### 2022-12-05 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/227))
 
-**[Clari Launch and SFDC Forecasting Enhancements for Partner Teams](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#clari-forecasting-for-partner-managers-and-leaders)**
+**[Clari Launch and SFDC Forecasting Enhancements for Partner Teams](/handbook/sales/field-operations/channel-operations/#clari-forecasting-for-partner-managers-and-leaders)**
 
-**[Channel Sales Permission Update for Changing Opportunity Ownership in Salesforce](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-sourced-deal-registration-resale-opportunities)**
+**[Channel Sales Permission Update for Changing Opportunity Ownership in Salesforce](/handbook/sales/field-operations/channel-operations/#partner-sourced-deal-registration-resale-opportunities)**
 
 
 ### 2022-11-07 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/197))
@@ -143,15 +156,15 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ### 2022-10-17 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/192))
 
-**Sales Ops: [Chorus Data Retention Policy Extension](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/go-to-market/chorus/#security--privacy-controls)**
+**Sales Ops: [Chorus Data Retention Policy Extension](/handbook/sales/field-operations/sales-operations/go-to-market/chorus/#security--privacy-controls)**
 
-**Sales Ops: [Update to Changing Opportunity Ownership in Salesforce](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#changing-opportunity-ownership-in-salesforce)**
+**Sales Ops: [Update to Changing Opportunity Ownership in Salesforce](/handbook/sales/field-operations/gtm-resources/#changing-opportunity-ownership-in-salesforce)**
 
 ### 2022-10-03 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/185))
 
 **Deal Desk/Fulfillment: [Quarterly Subscription Reconciliation (QSR) Notifications Now Available in SFDC](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/4592)**
 
-**Marketing Ops: [Marketo Sales Insights Access Removal](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#marketo-sales-insight)**
+**Marketing Ops: [Marketo Sales Insights Access Removal](/handbook/marketing/marketing-operations/marketo/#marketo-sales-insight)**
 
 **Marketing Ops/Sales Systems: [Changes to MQL fields](systems#2697)**
 
@@ -159,7 +172,7 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 **Sales Ops: [NEW Required Opportunity Field for Intended Product](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/2808)**
 
-**Sales Ops: [Chorus SSO Login Now Available](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/go-to-market/chorus/)**
+**Sales Ops: [Chorus SSO Login Now Available](/handbook/sales/field-operations/sales-operations/go-to-market/chorus/)**
 
 **Sales Ops: [New Field: PTE Likely to Uptier](https://internal.gitlab.com/handbook/sales/propensity_models/)**
 
@@ -194,7 +207,7 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ### 2022-06-27 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/143))
 
-**Sales Ops: [Auto population of ISR fields on Accounts and Opportunities](https://about.gitlab.com/handbook/sales/insidesales/#isr-alignment)**
+**Sales Ops: [Auto population of ISR fields on Accounts and Opportunities](/handbook/sales/insidesales/#isr-alignment)**
 
 
 ### 2022-05-31 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/128))
@@ -208,14 +221,14 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 **Sales Ops: [Forecasting Updates in Clari](https://internal.gitlab.com/sales/sales-forecasting/)**
 
-**Deal Desk & Order Management: [Quarterly CSAT Survey](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#2-regional-support-satisfaction)**
+**Deal Desk & Order Management: [Quarterly CSAT Survey](/handbook/sales/field-operations/sales-operations/deal-desk/#2-regional-support-satisfaction)**
 
 
 ## Q1-FY23
 
 ### 2022-04-18 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/109))
 
-**CS Ops: [SaaS Free/Trial Account Data in Salesforce](https://about.gitlab.com/handbook/customer-success/product-usage-data/freemium-saas-usage-data)**
+**CS Ops: [SaaS Free/Trial Account Data in Salesforce](/handbook/customer-success/product-usage-data/freemium-saas-usage-data)**
 
 **Sales Ops: [Chorus Support Slack Channel](https://join.slack.com/share/enQtMzM2MTk5MDAyODY3Ni0xNTZkMDE3ZTc5MDkwOWJmZjQ2YjEyNDUzODQxNzJkMmUyMjA1NDNhMWVkNjU4M2IyM2NjNjgwNTAyNTVlZDM3)**
 
@@ -225,13 +238,13 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 **Sales Ops: [Chorus Scheduler](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/2683#proposed-controls)**
 
-**Sales Ops: [Chorus License Change for Managers & Field Operations](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/go-to-market/chorus/#swim-lanes)**
+**Sales Ops: [Chorus License Change for Managers & Field Operations](/handbook/sales/field-operations/sales-operations/go-to-market/chorus/#swim-lanes)**
 
 ### 2022-03-21 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/100))
 
 **Deal Desk: [New Quote Approval Requirement for Annually Paid Renewals](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/2460)**
 
-**Sales Ops: [PS-Only Opportunities included in FY23 Opp Holdover Policy](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#opportunity-holdover-criteria)**
+**Sales Ops: [PS-Only Opportunities included in FY23 Opp Holdover Policy](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#opportunity-holdover-criteria)**
 
 **Sales Ops: [Chorus Recordings Mass Deletion after 6 months](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/2683#proposed-controls)**
 
@@ -241,11 +254,11 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 **Sales Ops: [Sales Managers Alerted in #wins-key-deals](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/2136)**
 
-**Alliance Ops: [Introducing the New GitLab Alliance Partner Program](https://about.gitlab.com/handbook/alliances/)**
+**Alliance Ops: [Introducing the New GitLab Alliance Partner Program](/handbook/alliances/)**
 
 ### 2022-03-07 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/94))
 
-**CS Ops: [Customer License Utilization: Salesforce App](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/license-usage-app/)**
+**CS Ops: [Customer License Utilization: Salesforce App](/handbook/sales/field-operations/sales-systems/license-usage-app/)**
 
 **Customer Programs: [Expand Criteria for Required Contact Role "GitLab Admin" to all customers](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1297)**
 
@@ -281,7 +294,7 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ### 2021-11-15 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/72))
 
-**Deal Desk: [6 new Annual True-Up SKUs](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#quoting-annual-true-ups)**
+**Deal Desk: [6 new Annual True-Up SKUs](/handbook/sales/field-operations/sales-operations/deal-desk/#quoting-annual-true-ups)**
 
 **Channel Ops: [Reseller Name Now Populates on Distributor Order Forms](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/1942)**
 
@@ -330,9 +343,9 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 CSOPS: [Gainsight Dashboard filtering: added CSM Manager as filter](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/445)
 
-CSOPS: [At-Risk Customer Dashboard](https://gitlab.gainsightcloud.com/v1/ui/home#/8e0f5cb6-c8e1-4b06-8cd2-92af72d76615), [issue](https://gitlab.com/groups/gitlab-com/-/epics/1462) and [handbook page](https://about.gitlab.com/handbook/customer-success/csm/renewals/#tracking-account-health-and-risks)
+CSOPS: [At-Risk Customer Dashboard](https://gitlab.gainsightcloud.com/v1/ui/home#/8e0f5cb6-c8e1-4b06-8cd2-92af72d76615), [issue](https://gitlab.com/groups/gitlab-com/-/epics/1462) and [handbook page](/handbook/customer-success/csm/renewals/#tracking-account-health-and-risks)
 
-CSOPS: [Gainsight: License Utilization calculations now use billable_user_count](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/400) and [handbook](https://about.gitlab.com/handbook/customer-success/product-usage-data/use-case-adoption/)
+CSOPS: [Gainsight: License Utilization calculations now use billable_user_count](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/400) and [handbook](/handbook/customer-success/product-usage-data/use-case-adoption/)
 
 Customer Programs: [Updated digital onboarding program and CSM playbook to include links to Docs](https://gitlab.com/gitlab-com/customer-success/tam/-/issues/470)
 
@@ -357,7 +370,7 @@ Customer Programs: [Launched Customer Webinar Invite - Advanced CI/CD with large
 
 [Partner Program and System Changes](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/49)
 
-[FY22 Billing and Subscription Management Experience Improvements (Project Super Sonics) - Sales Order Processing Handbook Page Updates](https://about.gitlab.com/handbook/sales/field-operations/order-processing/)
+[FY22 Billing and Subscription Management Experience Improvements (Project Super Sonics) - Sales Order Processing Handbook Page Updates](/handbook/sales/field-operations/order-processing/)
 
 [Deal Desk Smart Templates](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/32)
 

@@ -75,8 +75,8 @@ Ability to travel if needed and comply with the company’s travel policy.
 
 ### Coordinator and Intermediate Performance Indicators
 
-- [Net new business created](https://about.gitlab.com/handbook/marketing/performance-indicators/#net-new-business-pipeline-created)
-- [Pipe to Spend](https://about.gitlab.com/handbook/marketing/performance-indicators/#pipe-to-spend-per-marketing-activity)
+- [Net new business created](/handbook/marketing/performance-indicators/#net-new-business-pipeline-created)
+- [Pipe to Spend](/handbook/marketing/performance-indicators/#pipe-to-spend-per-marketing-activity)
 
 ### Senior Corporate Events Manager
 
@@ -99,7 +99,7 @@ The Senior Corporate Events Manager is a [grade 7](/handbook/total-rewards/compe
 
 #### Senior Corporate Events Manager Performance Indicators
 
-- [50% or more SOV compared to most published competitor](https://about.gitlab.com/handbook/marketing/performance-indicators/#50-or-more-sov-compared-to-most-published-competitor)
+- [50% or more SOV compared to most published competitor](/handbook/marketing/performance-indicators/#50-or-more-sov-compared-to-most-published-competitor)
 
 ### Senior Global Events Manager
 
@@ -135,10 +135,10 @@ Ability to travel if needed and comply with the company’s travel policy.
 
 #### Senior Global Events Manager Performance Indicators
 
-- [Net new business created](https://about.gitlab.com/handbook/marketing/performance-indicators/#net-new-business-pipeline-created)
-- [Pipe to Spend](https://about.gitlab.com/handbook/marketing/performance-indicators/#pipe-to-spend-per-marketing-activity)
-- [50% or more SOV compared to most published competitor](https://about.gitlab.com/handbook/marketing/performance-indicators/#50-or-more-sov-compared-to-most-published-competitor)
-- [Marketing efficency ratio](https://about.gitlab.com/handbook/marketing/performance-indicators/#marketing-efficiency-ratio)
+- [Net new business created](/handbook/marketing/performance-indicators/#net-new-business-pipeline-created)
+- [Pipe to Spend](/handbook/marketing/performance-indicators/#pipe-to-spend-per-marketing-activity)
+- [50% or more SOV compared to most published competitor](/handbook/marketing/performance-indicators/#50-or-more-sov-compared-to-most-published-competitor)
+- [Marketing efficency ratio](/handbook/marketing/performance-indicators/#marketing-efficiency-ratio)
 
 ## Specialties
 
@@ -238,11 +238,11 @@ The Senior Manager, Corporate Events is a [grade 9](/handbook/total-rewards/comp
 
 #### Manager and Senior Manager Performance Indicators
 
-- [Net new business created](https://about.gitlab.com/handbook/marketing/performance-indicators/#net-new-business-pipeline-created)
-- [Pipe to Spend](https://about.gitlab.com/handbook/marketing/performance-indicators/#pipe-to-spend-per-marketing-activity)
-- [50% or more SOV compared to most published competitor](https://about.gitlab.com/handbook/marketing/performance-indicators/#50-or-more-sov-compared-to-most-published-competitor)
-- [Marketing efficency ratio](https://about.gitlab.com/handbook/marketing/performance-indicators/#marketing-efficiency-ratio)
-- [LTV / CAC ratio](https://about.gitlab.com/handbook/marketing/performance-indicators/#ltv--cac-ratio)
+- [Net new business created](/handbook/marketing/performance-indicators/#net-new-business-pipeline-created)
+- [Pipe to Spend](/handbook/marketing/performance-indicators/#pipe-to-spend-per-marketing-activity)
+- [50% or more SOV compared to most published competitor](/handbook/marketing/performance-indicators/#50-or-more-sov-compared-to-most-published-competitor)
+- [Marketing efficency ratio](/handbook/marketing/performance-indicators/#marketing-efficiency-ratio)
+- [LTV / CAC ratio](/handbook/marketing/performance-indicators/#ltv--cac-ratio)
 
 ### Director, Corporate Events
 
@@ -283,11 +283,11 @@ The Director, Corporate Events is a [grade 10](/handbook/total-rewards/compensat
 
 #### Director Performance Indicators
 
-- [Net new business created](https://about.gitlab.com/handbook/marketing/performance-indicators/#net-new-business-pipeline-created)
-- [Pipe to Spend](https://about.gitlab.com/handbook/marketing/performance-indicators/#pipe-to-spend-per-marketing-activity)
-- [50% or more SOV compared to most published competitor](https://about.gitlab.com/handbook/marketing/performance-indicators/#50-or-more-sov-compared-to-most-published-competitor)
-- [Marketing efficency ratio](https://about.gitlab.com/handbook/marketing/performance-indicators/#marketing-efficiency-ratio)
-- [LTV / CAC ratio](https://about.gitlab.com/handbook/marketing/performance-indicators/#ltv--cac-ratio)
+- [Net new business created](/handbook/marketing/performance-indicators/#net-new-business-pipeline-created)
+- [Pipe to Spend](/handbook/marketing/performance-indicators/#pipe-to-spend-per-marketing-activity)
+- [50% or more SOV compared to most published competitor](/handbook/marketing/performance-indicators/#50-or-more-sov-compared-to-most-published-competitor)
+- [Marketing efficency ratio](/handbook/marketing/performance-indicators/#marketing-efficiency-ratio)
+- [LTV / CAC ratio](/handbook/marketing/performance-indicators/#ltv--cac-ratio)
 
 ## Career Ladder
 

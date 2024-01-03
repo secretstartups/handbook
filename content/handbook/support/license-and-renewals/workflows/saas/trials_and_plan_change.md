@@ -5,10 +5,41 @@ description: "How to handle GitLab.com subscription trials and plan changes"
 category: GitLab.com subscriptions & purchases
 ---
 
-## Request for Premium trial
+## Handling GitLab.com trial requests
 
-GitLab.com [only offers the self-service ability to trial the Ultimate subscription](https://gitlab.com/gitlab-org/customers-gitlab-com/issues/409).
-GitLab.com support can assist with trials of other plans. Ask the user to create the GitLab.com Ultimate trial, then change the plan via the CustomersDot admin `GitLab Groups` page.
+
+### GitLab.com customers without a subscription
+
+1. New customers without an existing GitLab.com subscription and namespace can apply for a 30-day GitLab Ultimate subscription by completing the following [form](https://gitlab.com/-/trial_registrations/new?glm_source=about.gitlab.com/&glm_content=default-saas-trial).
+1. GitLab.com users who have an existing namespace but do not have an active GitLab.com subscription can go to the billing section for their group namespace and press the `Start Trial` button. If a trial previously existed on that namespace, the button will not be present. In such situations the user will need to contact GitLab Sales to request a new trial or a trial extension.
+
+### GitLab.com customers with a Premium Subscription
+
+GitLab.com Premium customers who want to trial SaaS Ultimate have two options to do so:
+
+1. Request an Ultimate trial from [GitLab's public trial page](https://about.gitlab.com/free-trial/?hosted=sass). This will require the customer to set up a new namespace to which to apply the trial. No Sales or Support action will be required.
+1. Temporarily upgrade their existing GitLab Premium subscription to a GitLab Ultimate Trial.
+
+- As part of the initiative to enable current SaaS Premium customers to trial SaaS Ultimate on their primary namespace, the first iteration implementation now grants L&R Support the capability to temporarily upgrade an existing Premium subscription to an Ultimate trial subscription. To facilitate this process, the customer's Account Executive must use the following instructions:
+
+   - Go to the [Support Super Form](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/); you must have a [Zendesk Light Agent account](/handbook/support/internal-support/#requesting-a-zendesk-light-agent-account) to use this form.
+   - Under `What is this request concerning`, select `License and Renewal Related Requests` > `GitLab Support Internal Request for Global Customers`.
+   - In the form that appears, under `What type of GitLab Support Internal Request is this for?`, select `SaaS Trial Related` > `Request an Ultimate trial for a customer using a Premium subscription`.
+   - Fill out the required fields and click Submit request. If you need assistance filling out the form, please ask in the `#support_operations` Slack channel.
+
+Once the form has been submitted, the L&R Support Engineer should follow the workflow outlined in the following [video](https://www.youtube.com/watch?v=wJCrh45Ug2Q), which entails:
+
+- Locating the correct `Customer` record by searching `Customers`.
+- Clicking the (i) info button on the customer record.
+- Going to the `Zuora Subscriptions` tab.
+- Selecting the appropriate namespace and pressing the `Apply Ultimate Trial` button.
+
+#### Workflow caveats
+
+- For all trials, the renewal start date must align with the end date of the prior subscription term therefore requests for Ultimate trials with the purpose of extending ahead of the renewal date should be denied. It is GitLab policy to align renewal dates with the end of the prior subscription term.
+- Currently GitLab.com Ultimate trials cannot be extended. Once the trial period has elapsed the `Apply Ultimate Trial` button may be displayed again if the namespace remains on Premium after expiration, however pressing the button will not work, as namespaces can only have one trial. This is a known limitation which will be addressed in future versions.
+- GitLab.com trials are only available for the GitLab Ultimate Subscription plan.
+- GitLab.com Premium to Ultimate subscription trials are handled similarly to regular trials regarding namespace eligibility. Therefore if a namespace previously underwent a trial (e.g. prior to being upgraded to a Premium subscription), attempting to initiate an Ultimate trial will be unsuccessful, as we only permit one trial per namespace.
 
 ## Extending trials
 
@@ -44,18 +75,7 @@ If a customer is requesting a trial extension, please follow [Working with Sales
 
 **Note**: We cannot extend the trial if the customer hasn't started one on the namespace. The Subscription name field in the ZenDesk Mechanizer app is there for that reason. When there's a Subscription name, the mechanizer will create a new trial for the namespace.
 
-## Applying a trial to a namespace with an active subscription
 
-> [As of 2022-07-01](https://gitlab.com/gitlab-com/support/managers/change-management/-/issues/10), Support won't act on any request for trials on top of plans.
-
-A namespace cannot have a trial and an active subscription run
-concurrently.
-
-A workaround is to advise the customer to create a new group and request a trial
-for it in order to test the  higher plan features. See more in the [Sales FAQ for Trials over Paid Plans on GitLab SaaS](https://docs.google.com/document/d/14oypfuslV75Uqw_JWvJmoxCEtrOQ_At_DIm4sk8KzvM/edit?usp=sharing).
-
-There is an [open feature request #12186](https://gitlab.com/gitlab-org/gitlab/-/issues/12186)
-requesting to implement this functionality in GitLab.
 
 ## Workflow diagram
 
@@ -86,14 +106,14 @@ Plan changes should **never** be done manually except in the following cases:
 
 Plan changes on a paid non-trial namespace should be done through a subscription purchase.
 
-If a manual plan change is required for non-emergencies, a [legal issue](https://about.gitlab.com/handbook/legal/#3-other-legal-requests) must be created and approved by legal as manually changing a plan causes data discrepancies, can cause legal issues, and can cause bug issues.
+If a manual plan change is required for non-emergencies, a [legal issue](/handbook/legal/#3-other-legal-requests) must be created and approved by legal as manually changing a plan causes data discrepancies, can cause legal issues, and can cause bug issues.
 
 ### Downgrading to a free plan
 
 Before actioning a downgrade request:
 
-1. Ensure that the requester provides authorization per the [Ownership verification workflow](/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases.html#ownership-verification).
-1. Determine whether they want to pursue a refund. If they do, then follow the [refunds workflow](/handbook/support/license-and-renewals/workflows/billing_contact_change_payments.html#refunds).
+1. Ensure that the requester provides authorization per the [Ownership verification workflow](/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases#ownership-verification).
+1. Determine whether they want to pursue a refund. If they do, then follow the [refunds workflow](/handbook/support/license-and-renewals/workflows/billing_contact_change_payments#refunds).
 
 | Example Ticket | Date |
 | --- | --- |
@@ -115,14 +135,6 @@ From CustomerDot you can only change the plan type not the subscription end date
 
 If you get an error, use admin following the instructions in the next section.
 
-### Using GitLab.com Admin
-
-1. Go to the namespace admin page (`/admin/users/username` or `/admin/groups/group_path`).
-1. Click `Edit`.
-1. Change the `Plan` to the appropriate plan (`Ultimate` or `Premium`).
-   - Don't use `Ultimate Trial` or `Premium Trial` in these cases -- these plans are intended for use by automated systems only, and may [cause an error](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/3698) on the namespace when set incorrectly.
-1. Add [an admin note]({{ ref "admin_note" >}}).
-1. Click `Save`.
 
 ### How to create an NFR (Not for resale) SaaS License
 
@@ -135,7 +147,7 @@ To extend a trial SaaS extension.
 
 1. The NFR partner needs to either signup for a trial at: <https://about.gitlab.com/free-trial/> or start a trial from within their current GitLab namespace.
 1. Once they have a valid namespace for their trial they need to provide this to support.
-1. The support engineer requires [console access to CustomersDot](/handbook/support/license-and-renewals/workflows/customersdot/customer_console.html) to GitLab Rails to update the namespace.
+1. The support engineer requires [console access to CustomersDot](/handbook/support/license-and-renewals/workflows/customersdot/customer_console) to GitLab Rails to update the namespace.
 1. Within the CustomersDot rails console you should execute the command: ``` view_namespace '<group name space>' ```
 1. This will return the partners namespace information and order information. Get the order 'id' (i.e. 123456), you will need it for the next command.
 

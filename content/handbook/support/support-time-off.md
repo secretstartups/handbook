@@ -133,7 +133,7 @@ If they want to pause, put the ticket on-hold. Otherwise:
 
 1. Use the [OOO Ticket Summary](https://gitlab.com/search?search=360080271299&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar)
    macro, providing the same information as described in the
-   [Workflow](/handbook/support/workflows/ooo-ticket-management.html#workflow)
+   [Workflow](/handbook/support/workflows/ooo-ticket-management#workflow)
    topic of the `OOO Ticket Management` page.
 1. Notify your group of the list of tickets that need responses during your
    absence and ask for volunteers to take responsibility for those.
@@ -146,7 +146,7 @@ If they want to pause, put the ticket on-hold. Otherwise:
    1. Work to resolve and close as many of your assigned tickets as possible.
    1. Contribute more to first responses and other people's tickets - internal comments, pairing
       sessions - to make up for not taking new tickets of your own.
-1. Follow the [OOO Ticket Management](/handbook/support/workflows/ooo-ticket-management.html)
+1. Follow the [OOO Ticket Management](/handbook/support/workflows/ooo-ticket-management)
    process to arrange for others to take care of your tickets in your absence.
 1. Update your [GitLab status](https://docs.gitlab.com/ee/user/profile/index.html#set-your-current-status) to ensure you're not auto-assigned to GDPR requests:
 
@@ -156,8 +156,10 @@ If they want to pause, put the ticket on-hold. Otherwise:
 ## How Support Handles Family and Friends Days
 
 During [Family and Friends Days](/handbook/company/family-and-friends-day/#upcoming-family-and-friends-days) GitLab Support continues
-to operate as normal. During the month of a Family and Friends Days, choose a day off to spend as you please.
+to operate as normal. Starting from Q1/FY25, during each quarter you are free to take a day off at your convenience, to celebrate Family and Friends day.
 Please follow the same guidelines as you would in [Choosing and Recording Time Off](#choosing-and-recording-time-off).
+
+
 
 ## How Support Handles Holidays
 

@@ -19,7 +19,7 @@ This process is not unlike writing tests for your software. Only communicate a (
 
 Having a **"handbook first"** mentality ensures there is no duplication; the handbook is always up to date, and others are better able to contribute.
 
-Beyond being "handbook first," we are also "public handbook first." When information is [internal-only](/handbook/communication/confidentiality-levels/#internal), it should be captured in the internal handbook, but we default to the public handbook for anything that can be [made public](/handbook/communication/confidentiality-levels/#not-public). This ensures that everyone has access to any information that can be [SAFEly](https://about.gitlab.com/handbook/legal/safe-framework/) shared. This supports the GitLab [values](/handbook/values/), including transparency, efficiency, and results. It also protects against the internal handbook becoming a home for information that should otherwise be public or a conflicting or duplicative source of truth.
+Beyond being "handbook first," we are also "public handbook first." When information is [internal-only](/handbook/communication/confidentiality-levels/#internal), it should be captured in the internal handbook, but we default to the public handbook for anything that can be [made public](/handbook/communication/confidentiality-levels/#not-public). This ensures that everyone has access to any information that can be [SAFEly](/handbook/legal/safe-framework/) shared. This supports the GitLab [values](/handbook/values/), including transparency, efficiency, and results. It also protects against the internal handbook becoming a home for information that should otherwise be public or a conflicting or duplicative source of truth.
 <!-- blank line -->
 
 <figure class="video_container">
@@ -123,7 +123,7 @@ Preference contributable diagrams over uploading images or other less contributa
 
 ### Editing the handbook
 
-Strongly consider learning how to edit the [handbook using git](https://about.gitlab.com/handbook/git-page-update) and/or via [the web IDE](https://about.gitlab.com/handbook/git-page-update/#webide-using-the-browser).
+Strongly consider learning how to edit the [handbook using git](https://about.gitlab.com/handbook/git-page-update) and/or via [the web IDE](/handbook/git-page-update/#webide-using-the-browser).
 Please read through the [Writing Style Guidelines](/handbook/communication/#writing-style-guidelines) before contributing.
 
 #### Fine points
@@ -219,14 +219,14 @@ All team members will have this added to their Okta access when they join the co
 
 #### What if I have questions about the internal handbook or want to help with it?
 
-- Questions about what should be in the internal handbook vs in the public handbook?  See the [safe framework](https://about.gitlab.com/handbook/legal/safe-framework/#safe) or ask in `#safe`.
+- Questions about what should be in the internal handbook vs in the public handbook?  See the [safe framework](/handbook/legal/safe-framework/#safe) or ask in `#safe`.
 - Questions about updating the internal handbook or volunteering to help with enhancing it?  Join the `#internal-handbook` channel.
 
 ## Moving Pages and Adding Redirects to the Handbook
 
-The handbook is a living document and we'll occasionally need to change URLs or move pages. This is [the process Growth Marketing uses to set up and manage redirects](https://about.gitlab.com/handbook/marketing/inbound-marketing/search-marketing/#request-an-aboutgitlabcom-redirect) for about.gitlab.com.
+The handbook is a living document and we'll occasionally need to change URLs or move pages. This is [the process Growth Marketing uses to set up and manage redirects](/handbook/marketing/inbound-marketing/search-marketing/#request-an-aboutgitlabcom-redirect) for about.gitlab.com.
 
-When you rename a file/URL please remember to add a redirect to [`redirects.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/redirects.yml) by [following this process](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/redirects_on_about_gitlab_com.md). You'll also want to ensure you find/replace all instances of the old URL/anchor with the new one, which can be accomplished using this [practical handbook edits example](https://about.gitlab.com/handbook/practical-handbook-edits/#find-and-replace-a-string-in-all-matching-files).
+When you rename a file/URL please remember to add a redirect to [`redirects.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/redirects.yml) by [following this process](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/redirects_on_about_gitlab_com.md). You'll also want to ensure you find/replace all instances of the old URL/anchor with the new one, which can be accomplished using this [practical handbook edits example](/handbook/practical-handbook-edits/#find-and-replace-a-string-in-all-matching-files).
 
 ## Management
 
@@ -350,13 +350,13 @@ Unless it’s a small change like a typo, always have another team member review
 
 The [`www-gitlab-com` project](https://gitlab.com/gitlab-com/www-gitlab-com/) contains the blog, marketing website, and handbook. As a maintainer, you will have access to all three. In most cases, you should only merge changes to the handbook and loop in the marketing team for any MR related to the blog or marketing site.
 
-For example, don’t merge blog posts without following the process outlined in the [Blog handbook](https://about.gitlab.com/handbook/marketing/blog/). Publishing on the marketing blog requires approval from the Editorial Team. Note, [anyone can write and publish](https://about.gitlab.com/handbook/marketing/blog/unfiltered/) a blog post for [GitLab’s Unfiltered Blog](https://about.gitlab.com/handbook/marketing/blog/unfiltered/).
+For example, don’t merge blog posts without following the process outlined in the [Blog handbook](/handbook/marketing/blog/). Publishing on the marketing blog requires approval from the Editorial Team. Note, [anyone can write and publish](/handbook/marketing/blog/unfiltered/) a blog post for [GitLab’s Unfiltered Blog](/handbook/marketing/blog/unfiltered/).
 
-Similarly, don't merge website updates without marketing in the loop. Follow the [instructions for updating the website](https://about.gitlab.com/handbook/marketing/digital-experience/website/#updating-the-marketing-website) or [requesting help from the marketing team](https://about.gitlab.com/handbook/marketing/digital-experience/#requesting-support).
+Similarly, don't merge website updates without marketing in the loop. Follow the [instructions for updating the website](/handbook/marketing/digital-experience/website/#updating-the-marketing-website) or [requesting help from the marketing team](/handbook/marketing/digital-experience/#requesting-support).
 
 ### Broad Permissions
 
-Being a maintainer gives you access to much more than just the ability to merge. You can see a [full list of permissions](https://docs.gitlab.com/ee/user/permissions.html#project-members-permissions) in the docs. Keep in mind that you’ll have access to a broad set of settings and configuration for the project. Don’t adjust any settings or make any structural changes without approval from the [marketing Digital Experience team](https://about.gitlab.com/handbook/marketing/digital-experience/).
+Being a maintainer gives you access to much more than just the ability to merge. You can see a [full list of permissions](https://docs.gitlab.com/ee/user/permissions.html#project-members-permissions) in the docs. Keep in mind that you’ll have access to a broad set of settings and configuration for the project. Don’t adjust any settings or make any structural changes without approval from the [marketing Digital Experience team](/handbook/marketing/digital-experience/).
 
 ### Granting others maintain access
 

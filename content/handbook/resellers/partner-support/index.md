@@ -19,16 +19,16 @@ title: "Partner Support"
 
 This page is intended for Sales and Channel team members to review quick links and common questions that come to the Partner Operations team.
 
-*All team members work all regions, according to the timezone they work within. For fastest answers see [How to contact us](https://about.gitlab.com/handbook/resellers/partner-support/#how-to-contact-us), please do not contact individual Partner Operations team members via DM or chatter.*
+*All team members work all regions, according to the timezone they work within. For fastest answers see [How to contact us](/handbook/resellers/partner-support/#how-to-contact-us), please do not contact individual Partner Operations team members via DM or chatter.*
 
 ### Where to Get Help for Frequent Support Needs
 
 - Channel quoting & quoting assistance, chatter `@Partner Operations` on the record
-   - Please note that `@Partner Operations` is responsible for distributor quoting currently. [The sales team is responsible for reseller-direct quoting.](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#opportunity-requirements-to-request-a-quote) It is not the Channel Manager's responsibility to quote channel opportunities.
+   - Please note that `@Partner Operations` is responsible for distributor quoting currently. [The sales team is responsible for reseller-direct quoting.](/handbook/sales/field-operations/channel-operations/#opportunity-requirements-to-request-a-quote) It is not the Channel Manager's responsibility to quote channel opportunities.
 - Partner Account Creation, chatter `@Partner Operations`
 - SFDC opportunity record assistance, chatter `@Partner Operations` on the record
 - Pre- and post-sales support. The SA, sales, and support teams should be utilized for these needs.
-- Billing account set-up - chatter the partner account owner or `@Billing Ops` see [Creating a Partner BIlling Account](https://about.gitlab.com/handbook/resellers/partner-support/#creating-a-partner-billing-account-for-a-new-partner-entity) for instructions.
+- Billing account set-up - chatter the partner account owner or `@Billing Ops` see [Creating a Partner BIlling Account](/handbook/resellers/partner-support/#creating-a-partner-billing-account-for-a-new-partner-entity) for instructions.
 - Channel Account Management and training
    - Partner Operations provides enablement tools, how-to guides, and support getting into GitLab’s partner systems. We answer questions and troubleshoot for partners and CAMs who may have questions via partnersupport@gitlab.com. One-on-one trainings and live portal walkthroughs are out of scope. For assistance with these, CAMs are encouraged to use the tools listed below.
 
@@ -47,7 +47,7 @@ Partners can contact the Partner Support team at partnersupport@gitlab.com.
 <details>
 <summary markdown="span">Quick Links</summary>
 - [Partner Guide (internal-only)](https://docs.google.com/document/d/1HOzcdl22JRRbqo0SLPDsoUiM8NpNkf6-L2eiUHr6HZ4/edit)
-- [Gitlab Partner Portal](https://partners.gitlab.com/English/)
+- [GitLab Partner Portal](https://partners.gitlab.com/English/)
 - [Channels Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1508300?label_name[]=Channel)
 - [Internal GitLab Channel Partner Program Discounts and Incentive Guide](https://docs.google.com/document/d/1qiT_2EsnL20c4w0hyZ_CGaJQIzj8CSCsHERoR80cwws/edit?usp=sharing)
 - [Certification Dashboard](https://docs.google.com/spreadsheets/d/1PnjHrOtZAYlkQpNoSsAzNt0sT1oZh76Xy2x33CfCQ9k/edit?usp=sharing)
@@ -56,14 +56,14 @@ Partners can contact the Partner Support team at partnersupport@gitlab.com.
 
 <details>
 <summary markdown="span">Handbook Pages</summary>
-- [Channel Partner Handbook](https://about.gitlab.com/handbook/resellers/)
-- [Channel Program Guide](https://about.gitlab.com/handbook/resellers/Channel-Program-Guide/)
-- [Partner Certifications & training](https://about.gitlab.com/handbook/resellers/training/)
-- [NFR Policy](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#not-for-resale-nfr-program-and-policy )
-- [Channel Operations](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/)
-- [Channel Programs Operations](https://about.gitlab.com/handbook/sales/channel/channel-programs-ops)
-- [Deal Desk](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#)
-- [Quoting Channel Deals](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#quoting-channel-deals)
+- [Channel Partner Handbook](/handbook/resellers/)
+- [Channel Program Guide](/handbook/resellers/Channel-Program-Guide/)
+- [Partner Certifications & training](/handbook/resellers/training/)
+- [NFR Policy](/handbook/resellers/channel-working-with-GitLab/#not-for-resale-nfr-program-and-policy )
+- [Channel Operations](/handbook/sales/field-operations/channel-operations/)
+- [Channel Programs Operations](/handbook/sales/channel/channel-programs-ops)
+- [Deal Desk](/handbook/sales/field-operations/sales-operations/deal-desk/#)
+- [Quoting Channel Deals](/handbook/sales/field-operations/sales-operations/deal-desk/#quoting-channel-deals)
 </details>
 
 <details>
@@ -73,20 +73,20 @@ _These links are useful to share with authorized reseller partners who already h
 - [Online Agreement](https://partners.gitlab.com/prm/English/s/assets?id=290599)
 - [Deal Registration Guide](https://partners.gitlab.com/prm/English/s/assets?id=391183)
 - [Partner Locator Guide](https://partners.gitlab.com/prm/English/s/assets?id=288270)
-   - _Partners are able to log in and view a PDF of the Partner Agreement. GitLab Team members can visit the [Reseller Agreement](https://about.gitlab.com/handbook/resellers/reseller-agreement/) page. There is no separate PDF outside of the partner portal._
+   - _Partners are able to log in and view a PDF of the Partner Agreement. GitLab Team members can visit the [Reseller Agreement](/handbook/resellers/reseller-agreement/) page. There is no separate PDF outside of the partner portal._
 </details>
 
 ## Quote to Cash
 
-For a detailed explanation of the Quote to Cash process, visit the [Channel Operations Handbook page](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#opportunity-requirements-to-request-a-quote). Basic details can be found below.
+For a detailed explanation of the Quote to Cash process, visit the [Channel Operations Handbook page](/handbook/sales/field-operations/channel-operations/#opportunity-requirements-to-request-a-quote). Basic details can be found below.
 - Distribution:
    - Quotes are managed by the Partner Order Operations team
-   - Reseller partner remit their POs to distribution. [Distributors remit their POs to the Partner Order Operations team](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#po-remittance).
+   - Reseller partner remit their POs to distribution. [Distributors remit their POs to the Partner Order Operations team](/handbook/sales/field-operations/order-processing/#po-remittance).
 - Reseller-direct:
    - Quotes are the responsibility of the field sales team
-   - [Resellers remit their POs to the sales team managing the opportunity](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#po-remittance)
+   - [Resellers remit their POs to the sales team managing the opportunity](/handbook/sales/field-operations/order-processing/#po-remittance)
 
-Post-sales support, license resends, email changes, and other subscription assistance is the [responsibility of the partner named on the opportunity](https://about.gitlab.com/handbook/resellers/partner-support/#customer-support-subscription-changes-and-email-updates).
+Post-sales support, license resends, email changes, and other subscription assistance is the [responsibility of the partner named on the opportunity](/handbook/resellers/partner-support/#customer-support-subscription-changes-and-email-updates).
 
 ## Creating a Partner Billing Account for a New Partner Entity
 
@@ -99,14 +99,14 @@ We do not create entire new accounts for separate partner entities with the same
   
 ## Basic Training Requirements
 
-For a list of basic training requirements for NFRs, Deal Registration, and Transacting, visit the [Channel Partners: Working with GitLab Handbook Page](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#training--certification-requirements-for-transactions-deal-registrations-and-nfrs)
+For a list of basic training requirements for NFRs, Deal Registration, and Transacting, visit the [Channel Partners: Working with GitLab Handbook Page](/handbook/resellers/channel-working-with-GitLab/#training--certification-requirements-for-transactions-deal-registrations-and-nfrs)
 
-For detailed information and requirements, visit the [Partner Training, Certifications, and Enablement Handbook Page](https://about.gitlab.com/handbook/resellers/training/)
+For detailed information and requirements, visit the [Partner Training, Certifications, and Enablement Handbook Page](/handbook/resellers/training/)
 
 
 ## NFR Licenses
 
-Please review the [NFR policy](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#requesting-a-gitlab-nrf-not-for-resale-license) to see details about what partners can be eligible to receive. If a Partner would like to request or renew a NFR license they can review how to in the Partner Handbook on the [Working with GitLab page under "Requesting a GitLab NFR License"](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#requesting-a-gitlab-nfr-not-for-resale-license). They should be directed to log into the Partner Portal, click on the `Support` or `Services` tab, and choose the "NFR" icon. They'll be directed to a Google form that sends their request to the Partner Operations team. Partners should review the NFR Policy link in the form prior to submitting it to understand the requirements.
+Please review the [NFR policy](/handbook/resellers/channel-working-with-GitLab/#requesting-a-gitlab-nrf-not-for-resale-license) to see details about what partners can be eligible to receive. If a Partner would like to request or renew a NFR license they can review how to in the Partner Handbook on the [Working with GitLab page under "Requesting a GitLab NFR License"](/handbook/resellers/channel-working-with-GitLab/#requesting-a-gitlab-nfr-not-for-resale-license). They should be directed to log into the Partner Portal, click on the `Support` or `Services` tab, and choose the "NFR" icon. They'll be directed to a Google form that sends their request to the Partner Operations team. Partners should review the NFR Policy link in the form prior to submitting it to understand the requirements.
 
 When Partner Operations receives the request, they will review the partner account to verify the partner meets NFR eligibility requirements. If they do, Partner Operations will submit the NFR request to GitLab's license support team to be fulfilled. If the partner does not meet the eligibility requirements, they will email the submitter and explain the missing requirements and how to fulfill them.
 
@@ -144,13 +144,13 @@ _Partner user instructions can be found: in the Partner Guide ([internal-only li
 
 If a partner organization already exists in our system (Impartner/SFDC), but a new rep needs a login, the instructions are fairly simple. That person should visit our [partner portal](https://partners.gitlab.com), and scroll down to the login section. On the left side of the page, there's an option to "Request Portal Access."
 
-![PHD_HB_Request_Portal_Access](https://about.gitlab.com/handbook/resellers/partner-support/source/images/PHD_HB_Request_Portal_Access.png)
+![PHD_HB_Request_Portal_Access](/handbook/resellers/partner-support/source/images/PHD_HB_Request_Portal_Access.png)
 
 The partner will be directed to a page that asks them to confirm the company they work for. After they confirm, they should click next, and fill in their information. After submitting the information, they'll receive login credentials.
 
 ### GitLab Internal Access to the Partner Portal Front End
 
-GitLab Channel Team members who wish to have logins to the Partner Portal for partner demo purposes may create a login [according to the instructions above](https://about.gitlab.com/handbook/resellers/partner-support/#creating-a-partner-portal-login). When asked to confirm/choose which company you work for, choose "GitLab PS." This will provide you the same view as our partners.
+GitLab Channel Team members who wish to have logins to the Partner Portal for partner demo purposes may create a login [according to the instructions above](/handbook/resellers/partner-support/#creating-a-partner-portal-login). When asked to confirm/choose which company you work for, choose "GitLab PS." This will provide you the same view as our partners.
 
 
 ## Partner Account Creation

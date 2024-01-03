@@ -11,7 +11,7 @@ TMRGs are voluntary, team member-led groups focused on fostering diversity, incl
 
 Team Member **Resource Group** provide support for an underrepresented group
 
-- The purpose for this type of TMRG is to develop and elevate that underrepresented group within Gitlab. To provide a voice and a safe space for people who identify as a part of that group and their allies. With aim of increasing and developing the sense of belonging.
+- The purpose for this type of TMRG is to develop and elevate that underrepresented group within GitLab. To provide a voice and a safe space for people who identify as a part of that group and their allies. With aim of increasing and developing the sense of belonging.
 
 Team Member **Advocacy Group**
 
@@ -45,7 +45,7 @@ Ordered alphabetically to avoid the perception that any TMRG is more important t
 | [Black @ GitLab]({{< ref "tmrg-gitlab-black" >}}) | [April Marks](https://gitlab.com/aprilmarks), [Marcus Carter](https://gitlab.com/marcusbriancarter), [Madou Coulibaly](https://gitlab.com/madou), [Mam Joof](https://gitlab.com/mjoof1) | #black-at-gitlab |  [Sign up for future meetings (Google group)](https://groups.google.com/a/gitlab.com/g/black-tmrg) | [Black @ GitLab Agenda](https://docs.google.com/document/d/1G9Be3e3hjj3gexLmrmR1bqzaEErP-4BfDgJR4q_jUTw/edit#heading=h.vf9sdppkn4e0) | [David DeSanto](https://gitlab.com/david) |
 | [GitLab Pride]({{< ref "tmrg-gitlab-pride" >}}) | [Alex Hanselka](https://gitlab.com/ahanselka) and [Helen Mason](https://gitlab.com/hmason) | #lgbtq | [Sign up for future meetings (Google group)](https://groups.google.com/a/gitlab.com/g/pride-tmrg) | [Pride Agenda](https://docs.google.com/document/d/11D-Izm5mbopEUCY036Qr0bHx6UePMyfkzhUfNDE-mnk/edit?usp=sharing) | Robin Schulman |
 | [GitLab Women]({{< ref "tmrg-gitlab-women" >}}) | [Kyla Gradin Dahl](https://gitlab.com/kyla), [Samantha Lee](/handbook/company/team/#slee24), [Winnie Chan](https://gitlab.com/wyychan)  | #women | [Sign up for future meetings (google group)](https://groups.google.com/a/gitlab.com/g/womenstmrg) | [Women Agenda](https://docs.google.com/document/d/1bJ3Y8IVjnssPpRa3IUafdzC0wsJUU6rYCGf-YEiDHeg/edit) | Robin Schulman |
-| [GitLab Caregivers](tmrg-caregivers) | Jackie Porter, Gena Schwam | #caregivers-tmrg | TBA | [Caregivers Agenda](https://docs.google.com/document/d/1taPLNLkVvTayEzySFUU5XKZeSK9tmsK-WELu_Pp14m8/edit?usp=sharing)| Wendy Barnes|
+| [GitLab Caregivers](tmrg-caregivers.md) | Jackie Porter, Gena Schwam | #caregivers-tmrg | TBA | [Caregivers Agenda](https://docs.google.com/document/d/1taPLNLkVvTayEzySFUU5XKZeSK9tmsK-WELu_Pp14m8/edit?usp=sharing)| Wendy Barnes|
 
 ## Executive Sponsorship
 
@@ -510,7 +510,7 @@ Having short terms and long term goals for the TMRG is extremely important in de
 
 - Work with the wider TMRG on the TMRGs priorities
     - Leadership should distill these down into a manageable number of goals
-- Utilize a goal setting methodology such as [OKRs]({{< ref "okrs" >}}) or [SMART](https://www.mindtools.com/pages/article/smart-goals.htm) to set the goals in a practical way
+- Utilize a goal setting methodology such as [OKRs]({{< ref "/handbook/company/okrs" >}}) or [SMART](https://www.mindtools.com/pages/article/smart-goals.htm) to set the goals in a practical way
 - Add these goals to your quarterly strategy issue for the TMRG
 - Assign a working group or DRI/s to the goal
 - Share the goals with your executive sponsor and the wider GitLab team through the Monthly Initiatives Call
@@ -528,11 +528,13 @@ To help develop goals you may want to utilize goal setting activities to assist 
 
 ### Finance & Budgets for TMRGs
 
-Each TMRG has a budget of $8000 per year (subject to change during each fiscal year planning) to assist in the activities they wish to engage in to further develop the TMRG, Enable and Empower the members, develop activities & events or to buy merchandise.
+Each TMRG has access to a budget on a per quarter basis to assist in the activities they wish to engage in to further develop the TMRG, Enable and Empower the members, develop activities & events or to buy merchandise.
+
+Details on how to access to the budget are below
 
 **Expenses could include but not limited to:**
 
-- Paying a speaker to present at Gitlab
+- Paying a speaker to present at GitLab
 - Purchasing TMRG specific Swag
 - External Consultants to help problem solve on TMRG issues
 - Sponsoring a partnership with a external vendor
@@ -542,31 +544,27 @@ Each TMRG has a budget of $8000 per year (subject to change during each fiscal y
 
 Feel free to get creative with how you support and engage the TMRG utilizing the budget to do so.
 
-**Quarterly Forecast Process**
+**Accessing TMRG Budget**
 
-The VP, Diversity Inclusion, and Belonging and G&A Finance Business Partner will review the consolidated TMRG budget by quarter to confirm the total planned expenses are aligned with our quarterly budget.
+Each quarter the DIB Team have a defined amount of funds accessible by the TMRG, in order to access the funds, prior to the quarter beginning the TMRG must provide a plan with a defined amount of budget they require for the quarter. Any funds not assigned or requested will be used by the DIB Team for other activities, partnerships and programming.
 
-On a quarterly basis, each TMRG DRI is responsible for updating the [TMRG Forecast Tracking Spreadsheet](https://docs.google.com/spreadsheets/d/1-BZrH1KsRBYl9r0EYEy6VXlKyvGGf585mwoj9Vz5rgA/edit#gid=1333381534) for expected expenses for the remainder of the year. Deadlines for updates are due the 1st day of the following months:
+On a quarterly basis, each TMRG DRI is responsible for updating the [TMRG Forecast Tracking Spreadsheet](https://docs.google.com/spreadsheets/d/1-BZrH1KsRBYl9r0EYEy6VXlKyvGGf585mwoj9Vz5rgA/edit#gid=1333381534) for expected expenses for the remainder of the year. Deadlines for updates are due the middle of the following months:
 
-- March
-- June
-- September
-- November - (adjusted timing to align with Annual Planning)
+- January
+- April
+- July
+- October
 
-From FY24 we will be requiring all TMRGs to have had the budget finalized in the [TMRG Forecast Tracking Spreadsheet](https://docs.google.com/spreadsheets/d/1-BZrH1KsRBYl9r0EYEy6VXlKyvGGf585mwoj9Vz5rgA/edit#gid=1333381534) by the 2nd of week of the Quarter.
-
-The DIB team will also do a final check 30 days before the end of the quarter to see if your budget will be spent before the end of the quarter.
-
-As our finance processes are a use it or lose it policy we want to ensure that if budget is not being utilized we can reassign that budgeted amount to other initiatives, TMGs or supporting external partnerships.
+As our finance processes are a use it or lose it policy we want to ensure that if budget is not being utilized we can reassign that budgeted amount to other initiatives, TMRGs or supporting external partnerships.
 
 **Submitting/Approval of Expenses**
 
-Purchases made on behalf of Gitlab should follow the [procurement process outlined in the handbook](/handbook/finance/procurement/#--what-is-procurement).
+Purchases made on behalf of GitLab should follow the [procurement process outlined in the handbook](/handbook/finance/procurement/#--what-is-procurement).
 Prior to submitting a Coupa requisition, please adjust the Billing portion of the requisition for each line item by selecting the magnifying glass. Confirm that the expense is coded to Department: G&A: DIB and Class (tag): TMRG. If procurement or The DIB Team are submitting the requisition on your behalf, please give them instructions to make these adjustments. If these changes are not made, then the expense will default to the team member’s department and the expense will not align to the TMRG budget.
 
-**Swag-** If the purchase is Swag, please follow the outlined process in the [handbook](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/#swag-for-tmrgs).
+**Swag-** If the purchase is Swag, please follow the outlined process in the [handbook](/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/#swag-for-tmrgs).
 
-**Charitable Contributions-** For all Charitable Contributions please follow the outlined process in the [handbook](/handbook/finance/procurement/charitable-contributions/) before submitting through Coupa. Please note that all charitable contributions must receive Board approval, so please allow 1-3 months for processing and approval.
+**Charitable Contributions-** Please follow the [Philanthropy Policy](/handbook/legal/philanthropy-policy/)
 
 **Team Member Expensed-** In some instances, TMRG team members will need to follow the [expense reimbursement policy](/handbook/finance/expenses/). If an item is purchased individually upfront (i.e. meals, books) and the item was budgeted, the team member will submit the receipt to get reimbursed. Reach out in #expense-reporting-inquiries for a new expense tag prior to the event.
 When submitting expenses for reimbursement, please add the “TMRG” classification and the expense tag to your expense when submitting the report.
@@ -608,9 +606,9 @@ This would be a great opportunity to include your Executive Sponsor
 
 In addition to executive sponsorship, some of our TMRGs have found gaining Director+ sponsors very beneficial in the advancement of there TMRG, MIT TMRG is a great example of this.
 
-### Hold your first All Gitlab event/session
+### Hold your first All GitLab event/session
 
-A great way to gain traction and have an initial goal. Is to develop a All Gitlab event. Check out the [Coming Out Day session](https://www.youtube.com/watch?v=OUKWs6hkMQY) from the Pride TMRG.
+A great way to gain traction and have an initial goal. Is to develop a All GitLab event. Check out the [Coming Out Day session](https://www.youtube.com/watch?v=OUKWs6hkMQY) from the Pride TMRG.
 
 Develop a working group and figure out how you want to do this. Ideas could include but not limited to:
 

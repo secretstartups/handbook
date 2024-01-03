@@ -380,7 +380,7 @@ Each year beginning in FY24, the Data Team will facilitate a survey to solicit a
 
 ### YouTube
 
-We encourage everyone to record videos and post to GitLab Unfiltered. The [handbook page on YouTube](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#post-everything) does an excellent job of telling why we should be doing this. If you're uploading a video for the data team, be sure to do the following extra steps:
+We encourage everyone to record videos and post to GitLab Unfiltered. The [handbook page on YouTube](/handbook/marketing/marketing-operations/youtube/#post-everything) does an excellent job of telling why we should be doing this. If you're uploading a video for the data team, be sure to do the following extra steps:
 
 - Add `data` as a video tag
 - Add it to the [Data Team playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrRVTZY33WEHv8SjlA_-keI)

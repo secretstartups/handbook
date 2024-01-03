@@ -94,8 +94,6 @@ Invoices can be emailed to <i>[invoices@gitlab.coupahost.com](mailto:invoices@gi
 
 ## <i aria-hidden="true" style="color:rgb(252,109,38); font-size:.85em" class="fab fa-gitlab fa-fw"></i> Invoice Payments
 
-{: #tanuki-orange}
-
 - The first step to getting an invoice paid is to review the appropriate [procurement process]({{< ref "../procurement" >}}).
 - If the vendor is being used for the first time, we will need to invite them to onboard with Coupa. This instruction is also outlined in the [procurement page]({{< ref "../procurement" >}}).
     - **The procurement portion must be completed first.**  Once the procurement process is complete, with all approvals, we can process the invoice.

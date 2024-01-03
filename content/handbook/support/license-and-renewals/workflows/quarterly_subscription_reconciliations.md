@@ -5,7 +5,7 @@ description: Workflow for QSR dispute, pausing QSR, resolving max seats, and tri
 ---
 ## Overview
 
-This page provides guidance for handling tickets about the quarterly subscription reconciliation process, including disputes, escalation, pausing QSR, resetting max seats, and how to retry a reconciliation.
+This page provides guidance for handling tickets about the [quarterly subscription reconciliation process](https://docs.gitlab.com/ee/subscriptions/quarterly_reconciliation.html), including disputes, escalation, pausing QSR, resetting max seats, and how to retry a reconciliation.
 
 ## General Workflow
 
@@ -40,7 +40,7 @@ Given that support team has no influence over the process at this point, direct 
 
 **Important:** Support team should not be disabling QSR on a subscription except in the cases of confirmed bug behavior.
 
-1. If QSR needs to be disabled on a subscription due to a customer dispute or any other non-bug issue, refer to the sales-ops handbook page on [How To Temporarily Pause Quarterly Subscription Reconciliation](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-to-temporarily-pause-auto-renewal-quarterly-subscription-reconciliation-and-operational-data).  The sales account manager should be following this workflow to request a temporary pause on QSR.
+1. If QSR needs to be disabled on a subscription due to a customer dispute or any other non-bug issue, refer to the sales-ops handbook page on [How To Temporarily Pause Quarterly Subscription Reconciliation](/handbook/sales/field-operations/order-processing/#how-to-temporarily-pause-auto-renewal-quarterly-subscription-reconciliation-and-operational-data).  The sales account manager should be following this workflow to request a temporary pause on QSR.
 
 1. In the event a bug has been confirmed which is causing an incorrect QSR amount to be quoted, due to the time-sensitive nature of reconciliations Support team have the ability to disable QSR manually on a subscription through the customersDot Admin interface, and we should do so in these cases.
 
@@ -56,9 +56,9 @@ Given that support team has no influence over the process at this point, direct 
 
 ## Resolving Max Seats Overages
 
-**Important:** Do not reset a namespace's `Max Seats` without the necessary approvals in chatter. View this step as waiving trueups, and refer to the sales-ops handbook page [Waived True-Ups: Policy and Approval Requirements](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#waived-true-ups-policy-and-approval-requirements)
+**Important:** Do not reset a namespace's `Max Seats` without the necessary approvals in chatter. View this step as waiving trueups, and refer to the sales-ops handbook page [Waived True-Ups: Policy and Approval Requirements](/handbook/sales/field-operations/order-processing/#waived-true-ups-policy-and-approval-requirements)
 
-If approvals are given for resetting `Max Seats`, you can use the ZenDesk Mechanizer App > [Max Seats tool](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer/#set-max-seats), or do so through console access.  Document the action in the relevant ticket, or in an [internal-request](https://gitlab-com.gitlab.io/support/internal-requests-form/). In the case where QSR is approved for refund, approval for `Max seats` reset is still needed.
+If approvals are given for resetting `Max Seats`, you can use the ZenDesk Mechanizer App > [Max Seats tool](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer/#set-max-seats), or do so through console access.  Document the action in the relevant ticket, or in an [internal-request](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/). Use the **GitLab Support Internal Requests for Global customers** request option, and **Reset max seats for QSR** for the internal request type. In the case where QSR is approved for refund, approval for `Max seats` reset is still needed.
 
 Be sure that you are setting this value such that it only eliminates the approved and waived overages. In many cases, you can simply set this value to the namespace's current usage, but use some common sense here too like reviewing the ticket, screenshots, customer interactions, etc to be sure you are setting the proper amount.  Ask in slack if you're unsure.
 
@@ -70,4 +70,4 @@ The `Perform reconciliation` button, located on the details page of a [Reconcili
 
 Updating the default credit card in customersdot automatically re-triggers QSR payment (unless something goes wrong). You can see a successful re-trigger by looking at the status of the reconciliation event. The re-trigger can be done up to 3 months after a failed QSR event. If the payment did not get triggered, check that the card is set to default in customersdot.
 
-The customer will receive an [email](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/main/app/views/reconciliation_mailer/payment_failed.text.erb) when the reconciliation has failed and be provided with instructions on how to retry; this information is also available in our [docs](https://docs.gitlab.com/ee/subscriptions/quarterly_reconciliation.html#troubleshooting-failed-payment).
+The customer will receive an [email](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/main/app/views/reconciliation_mailer/payment_failed.text.erb) when the reconciliation has failed and be provided with instructions on how to retry; this information is also available in our [docs](https://docs.gitlab.com/ee/subscriptions/quarterly_reconciliation#troubleshooting-failed-payment).

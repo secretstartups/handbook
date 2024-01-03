@@ -14,14 +14,59 @@ Search for channels using either the `Search GitLab` toolbar, using a channel na
 
 ## Channels
 
+### Key Slack channels
+
+The alphabetically sorted starter list below spotlights a few of GitLab's many Slack channels in an effort to provide guidance to team members regarding the best places to ask specific questions and/or engage in discussion on a variety of topics. See Slack's [Help Center](https://slack.com/help/articles/205239967-Join-a-channel) for instructions on browsing all available channels.
+
+| Channel                              | Purpose                                                                                                                                                                                                                              |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `#company-fyi`                       | Official company announcements, restricted permission levels to ensure high-signal; all GitLab team members are automatically added to this channel.                                                      |
+| `#whats-happening-at-gitlab`         | Open to all team members for unofficial updates which are important and/or useful to **most or all** of GitLab, including reminders, events, project updates, etc.; all GitLab team members are automatically added to this channel. |
+| `#diversity_inclusion_and_belonging` | Stay up to date on GitLab’s latest [Diversity, Inclusion and Belonging](/handbook/company/culture/inclusion/) initiatives and share feedback and thoughts about how we can make our environment even more inclusive.                          |
+| `#expense-reporting-inquiries`       | For questions pertaining to [expenses](/handbook/spending-company-money/) (e.g. Expensify).                                                                                                                                          |
+| `#git-help`                          | Specific questions about using Git in the terminal.                                                                                                                                                                                  |
+| `#is-this-known`                     | Get help in finding existing issues for existing problems.                                                                                                                                                                           |
+| `#it_help`                           | Create a Help Request in this channel should you have any IT general questions or trouble with setup (e.g. 2FA, accounts, etc.).                                                                                                     |                                                                             |
+| `#mr-buddies`                        | For any questions regarding merge requests.                                                                                                                                                                                          |
+| `#new_team_members`                  | For new GitLab team members to introduce themselves to the company and for existing team members to share updates with new hires.                                                                                                    |
+| `#new-vacancies`                  | For all GitLab team members to be aware of internal opportunities, as well as all job openings as they are listed. Please review the [referral process](/handbook/hiring/referral-process/) page to find out more about referring someone for a role.                                                                                                   |
+| `#payroll`                           | For questions pertaining to [payroll](/handbook/finance/payroll/) and [contractor invoices](/handbook/finance/payroll/#non-us) (e.g. ADP, etc.).                                                                                     |
+| `#people-connect`                         | For general People Ops questions (e.g. [onboarding](/handbook/people-group/general-onboarding/), [offboarding](/handbook/people-group/offboarding/), [team meetings](/handbook/company/culture/all-remote/meetings/), etc.). Also for anything related to compensation, benefits, or equity. You can also check out the Total Rewards [issue tracker](https://gitlab.com/gitlab-com/people-group/total-rewards/issues) and [handbook page](/handbook/total-rewards/)!                  |
+| `#safe`                            | SAFE                                                                                  |
+| `#security`                            | Security                                                                                  |
+| `#talent-acquisition`                | For questions about [referrals](/handbook/hiring/referral-process/), the [hiring process](/handbook/hiring/), and/or candidate status.                                                                                               |
+| `#team-member-updates`               | To stay updated on transitions/promotions, new GitLab team members joining, work anniversaries, etc.                                                                                                                                 |
+
 ### General Channels
+
+{: #random-room}
 
 There are a lot of general channels, just to name a few:
 
-- **[`#whats-happening-at-gitlab`](https://gitlab.slack.com/archives/general)**: General announcements and company-wide broadcasts
 - **[`#questions`](https://gitlab.slack.com/archives/questions)**: Ask all of GitLab for help with any question you have... and then go document it after you find the answer :)
 - **[`#thanks`](https://gitlab.slack.com/archives/thanks)**: Where GitLab team-members can [say thanks](/handbook/communication/#say-thanks) to those GitLab team-members who did a great job, helped a customer, or helped you!
+- **[`#office-today`](https://gitlab.slack.com/archives/office-today)**: GitLab is an [all-remote](/handbook/company/culture/all-remote/) organization. Where’s your office today?
+- **[`#remote`](https://gitlab.slack.com/archives/travel)**: To share news, thoughts, feedback and anything else pertaining to remote work! Learn more about [GitLab's approach to remote work](/handbook/company/culture/all-remote/)
+- **[`#travel`](https://gitlab.slack.com/archives/travel)**: A place to discuss all things [travel](/handbook/company/culture/all-remote/people/#travelers)
+- **[`#women`](https://gitlab.slack.com/archives/travel)**: Employee resource group for members and allies.
+- **[`#values`](https://gitlab.slack.com/archives/travel)**: Channel to discuss iterations on GitLab values
 - **[`#random`](https://gitlab.slack.com/archives/random)**:  Socialize and share random snippets with your fellow GitLab team-members.
+
+### Getting in touch with the e-group
+
+To get in touch with the [e-group](/handbook/company/team/?department=executive) on Slack, you can use the following channels. When in doubt, you can use the general `#e-group` channel to reach out to the entire group.
+
+| Member | Channel      |
+| ------ | ------------ |
+| CEO    | `#ceo`       |
+| CFO    | `#finance`   |
+| CProdO | `#product`   |
+| CTO    | `#cto`       |
+| CRO    | `#cro`       |
+| CMO    | `#cmo` |
+| CPO    | `#cpo` |
+| CLO    | `#legal`     |
+| CISO   | `#ciso`      |
 
 ### Team Channels
 
@@ -55,13 +100,13 @@ These channels are for teams and GitLab team-members interested in a specific fe
 
 #### Group Channels (g_)
 
-Group channels (prefixed with a `g_`) correspond to a [DevOps Stage group](/handbook/product/categories/#hierarchy) and other [engineering departments and teams](https://about.gitlab.com/handbook/engineering/#engineering-departments--teams).
+Group channels (prefixed with a `g_`) correspond to a [DevOps Stage group](/handbook/product/categories/#hierarchy) and other [engineering departments and teams](/handbook/engineering/#engineering-departments--teams).
 
 **Example**
 
 - **[`#g_create`](https://gitlab.slack.com/archives/g_create)**: Channel for the [Create](/handbook/product/categories/#create-stage) development group.
 - **[`#g_create_source-code`](https://gitlab.slack.com/archives/g_create_source-code)**: Channel for the [Source Code](/handbook/product/categories/#source-code-group) development group.
-- **[`#g_geo`](https://gitlab.slack.com/archives/g_geo)**: Dedicated to the [Geo group](https://about.gitlab.com/handbook/engineering/development/enablement/systems/geo/).
+- **[`#g_geo`](https://gitlab.slack.com/archives/g_geo)**: Dedicated to the [Geo group](/handbook/engineering/development/enablement/systems/geo/).
 
 #### Location Channels (loc_)
 
@@ -113,7 +158,7 @@ If there's a channel not listed below, please add in alphabetical order with an 
 | [`#loc_india`](https://app.slack.com/client/T02592416/CDKF2QND7) | Indians at GitLab |
 | [`#loc_indianapolis`](https://app.slack.com/client/T02592416/C01071LFT3J) | Local Indiana/Indianapolis GitLab team members |
 | [`#loc_ireland`](https://app.slack.com/client/T02592416/CFN507G9H) |  |
-| [`#loc_israel`](https://app.slack.com/client/T02592416/CLTSE8L91) | Sync Locally for Gitlab team members in Israel |
+| [`#loc_israel`](https://app.slack.com/client/T02592416/CLTSE8L91) | Sync Locally for GitLab team members in Israel |
 | [`#loc_italy`](https://app.slack.com/client/T02592416/CCL55MRH6) |  |
 | [`#loc_japan`](https://app.slack.com/client/T02592416/CSWKAJ8HF) |  |
 | [`#loc_kansas-city`](https://app.slack.com/client/T02592416/CHWJVF61W) | Channel for KC GitLabbers |
@@ -154,7 +199,7 @@ If there's a channel not listed below, please add in alphabetical order with an 
 | [`#loc_rdu`](https://app.slack.com/client/T02592416/CGCCE7ZAR) | For those who live or visit the Raleigh Durham area in North Carolina, U.S.A. |
 | [`#loc_romania`](https://app.slack.com/client/T02592416/CMTAGFMTR) | 🇷🇴  |
 | [`#loc_russia`](https://app.slack.com/client/T02592416/CM8C6FXPC) |  |
-| [`#loc_sacramento_reno`](https://app.slack.com/client/T02592416/CH4MFKWQ7) | Visiting Sacramento, Roseville, Folsom, Elk Grove, Rocklin, Reno or even Tahoe? For Gitlab team members based in the area and anyone who is visiting |
+| [`#loc_sacramento_reno`](https://app.slack.com/client/T02592416/CH4MFKWQ7) | Visiting Sacramento, Roseville, Folsom, Elk Grove, Rocklin, Reno or even Tahoe? For GitLab team members based in the area and anyone who is visiting |
 | [`#loc_sanantonio`](https://app.slack.com/client/T02592416/CPPEK0E4X) | Channel for San Antonio GitLab Team Members |
 | [`#loc_sask`](https://app.slack.com/client/T02592416/CR2QGNAMS) | Saskatchewan (Canada) folks. |
 | [`#loc_sc`](https://app.slack.com/client/T02592416/C01BCDZV2QY) | For GitLab team members living in South Carolina. |
@@ -184,7 +229,7 @@ If there's a channel not listed below, please add in alphabetical order with an 
 | [`#loc-costa-rica`](https://app.slack.com/client/T02592416/C01TG4VLFDK) |  |
 | [`#loc-dublin`](https://app.slack.com/client/T02592416/CBK3B7EGM) | Connection with the Dublin team |
 | [`#loc-latam`](https://app.slack.com/client/T02592416/CTA13962D) | For all team members from Latam , rest of the world welcome as well |
-| [`#loc-midwest-u-s`](https://app.slack.com/client/T02592416/CC0BVGJTT) | To connect with Gitlab team members in the Midwest region of the U.S. |
+| [`#loc-midwest-u-s`](https://app.slack.com/client/T02592416/CC0BVGJTT) | To connect with GitLab team members in the Midwest region of the U.S. |
 | [`#loc-utah`](https://app.slack.com/client/T02592416/C1F6XRA77) |  |
 | [`#loc-west-lafayette`](https://app.slack.com/client/T02592416/CQ8HG9NNA) | West Lafayette, IN GitLab team members |
 | [`#locnewyork`](https://app.slack.com/client/T02592416/CPLALPZ1Q) |  |
@@ -213,7 +258,7 @@ Sub-department channels (prefixed with `sd_`) correspond to sub-departments with
 
 **Example**
 
-- **[`#sd_dev_engineering`](https://gitlab.slack.com/archives/sd_dev_engineering)**: For the [Engineering Dev sub-department](https://about.gitlab.com/handbook/engineering/development/dev/).
+- **[`#sd_dev_engineering`](https://gitlab.slack.com/archives/sd_dev_engineering)**: For the [Engineering Dev sub-department](/handbook/engineering/development/dev/).
 
 #### Social Groups
 

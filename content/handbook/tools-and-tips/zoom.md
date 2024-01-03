@@ -193,7 +193,7 @@ Now all meetings that use your Personal Meeting ID (PMI) will require you to "ad
 
 ### Enable authenticated-only meeting attendees
 
-As an added security measure, you can restrict the meeting by requiring any attendee to be authenticated to Zoom with a Gitlab zoom account.
+As an added security measure, you can restrict the meeting by requiring any attendee to be authenticated to Zoom with a GitLab zoom account.
 This is meant to ensure only people who have logged in to Zoom can attend the meeting.
 This is not recommended for meetings with attendees that are not GitLab team members such as customers or someone interviewing for GitLab employment.
 It should be noted that this needs to be set up before the meeting, not during the meeting.
@@ -204,7 +204,7 @@ Here is a quick video tutorial how to do this:
 
 **Steps for a new meeting:**
 
-1. During the meeting creation, in the Security section there is an option in the Zoom client that says: "Only authenticated users can join: Gitlab Internal Only" or select the "Sign in to Zoom" option so users with any Zoom account can join. Click the check box next to this option.
+1. During the meeting creation, in the Security section there is an option in the Zoom client that says: "Only authenticated users can join: GitLab Internal Only" or select the "Sign in to Zoom" option so users with any Zoom account can join. Click the check box next to this option.
 1. If you are in Zoom via the browser, the option is still in the Security section but is labeled: "Require authentication to join".
 1. Proceed as normal with your meeting creation, and click Save.
 1. This process only works in the Zoom client or from the gitlab.zoom.us website. If you're scheduling it within Google calendar, schedule as normal and edit the meeting following the steps in the next section for an existing meeting.
@@ -247,6 +247,28 @@ Meeting Surveys is enabled for everyone at GitLab, however to get this to work, 
 **Viewing Survey Results**
 
 1. Go to [Reports](https://zoom.us/account/report?isPersonal=true#/usageReports/meeting) > Meeting > change the `Registration Report` drop down to `Survey Report`.
+
+### Zoom Clips
+
+**Enable Zoom Clips**
+
+Zoom Clips is enabled for everyone at GitLab, however to get this to work, you will need to enable the feature within your account.
+
+1. Sign in to the [Zoom web portal](https://zoom.us/signin).
+1. Go to your [account settings](https://gitlab.zoom.us/profile/setting).
+1. Search for `Clips` and toggle the feature on.
+
+**How to Create a Clip**
+
+1. Open the Zoom app on your computer.
+1. On the top menu bar, click `Clips`.
+    1. Note: If you have many products on your menu bar, click the More icon `(...)`` to access Clips.
+1. Click on `Create Clip`.
+
+**How to Access Your Clips**
+
+1. Sign in to the [Zoom web portal](https://zoom.us/signin).
+1. Go to [Clips](https://gitlab.zoom.us/clips/library) in the left sidebar.
 
 ---
 

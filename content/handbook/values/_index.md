@@ -13,7 +13,7 @@ weight: -20
 <!-- markdownlint-disable MD051 -->
 GitLab's six core values are
 [**🤝 Collaboration**](#collaboration),
-[**📈 Results**](#results),
+[**📈 Results for Customers**](#results),
 [**⏱️ Efficiency**](#efficiency),
 [**🌐 Diversity, Inclusion & Belonging**](#diversity-inclusion),
 [**👣 Iteration**](#iteration), and
@@ -50,8 +50,8 @@ but they should always take each suggestion seriously and try to respond and exp
 
 We value caring for others.
 Demonstrating we care for people provides an effective framework for challenging directly and delivering feedback.
-We disagree with companies that say [Evaluate People Accurately, Not "Kindly"](https://inside.bwater.com/publications/principles_excerpt).
-We're all for accurate assessment, but we think it must be done in a kind way.
+Kindness doesn't mean holding back on feedback or avoiding disagreements, these are crucial to professional growth and getting results for customers.
+Kindness means you make a separation between the work and the person, you can criticize someone's work but still be respectful to the person.
 Give as much positive feedback as you can, and do it in a public way.
 
 ##### Share
@@ -193,7 +193,7 @@ No need to brainstorm, wait for consensus, or [do with two what you can do yours
 ##### Blameless problem solving
 
 Investigate mistakes in a way that focuses on the situational aspects of a failure’s mechanism and the decision-making process that led to the failure, rather than cast blame on a person or team.
-We hold blameless [root cause analyses](https://codeascraft.com/2012/05/22/blameless-postmortems/) and [retrospectives](https://about.gitlab.com/handbook/engineering/management/group-retrospectives/) for stakeholders to speak up without fear of punishment or retribution.
+We hold blameless [root cause analyses](https://codeascraft.com/2012/05/22/blameless-postmortems/) and [retrospectives](/handbook/engineering/management/group-retrospectives/) for stakeholders to speak up without fear of punishment or retribution.
 
 ##### Short toes
 
@@ -273,18 +273,34 @@ We demonstrate collaboration when we take action to help others and include othe
   </tr>
 </table>
 
-## 📈 Results {#results}
+## 📈 Results for Customers {#results}
 
-We do what we promised to each other, customers, users, and investors.
+We exist to help our customers achieve more. Everything we do should be in service of making our customers successful with GitLab. Results for Customers is at the top of our values hierarchy, as our customers achieving results drives overall business performance that enables everything else.
 
-##### Measure results not hours
+The Results for Customers value is displayed through the following operating principles:
 
-We care about what you achieve: the code you shipped, the user you made happy, and the team member you helped. Someone who took the afternoon
-off shouldn't feel like they did something wrong. You don't have to defend how you spend your day. We trust team members to do the right thing instead of having rigid rules. We trust team members to show up and do their best work. Do not incite competition by proclaiming how many hours you worked yesterday. If you are working too many hours, talk to your manager to discuss solutions.
+##### Set Ambitious & Measurable goals
 
-##### Customer results
+While we iterate with small changes, we strive for large, ambitious results. We have an ambitious [mission](/handbook/company/mission/) and [vision](/handbook/company/vision/), and we aim to be the best in the world across all our functions. Setting ambitious, measurable goals enables us to best deliver customer results.  We agree in writing on measurable goals. Within the company we use [OKRs](/handbook/company/okrs/) to stay accountable. We have and report against [KPIs](/handbook/company/kpis/) with guiding targets.
 
-Our focus is to improve the results that customers achieve, which requires being aware of [the Concur effect](https://twitter.com/ryanfalor/status/1182647229414166528?s=12).
+##### Understand our customers
+
+All GitLab team members should understand our customers’ needs, issues, and value propositions. We understand how they use GitLab and what they need from a platform in order to meet their goals. Internally facing teams consider the impact of their work as it pertains indirectly to GitLab's customers.
+
+We better understand customers and their needs through:
+- Reviewing public facing GitLab issues from our customers and users
+- Reading customer stories from Marketing and Sales
+- Attending Customer fireside chats
+- Learning feedback from our customers and users on product features and roadmap
+
+##### Co-create
+
+We create together with our customers. There is an open dialogue between GitLab and our customers so that we can better identify what they need. As a result of building a solution for them, we can also bring that solution to the world.
+
+
+##### Keep end users in sight
+
+Our focus is to improve the results that customers achieve. At GitLab, one way to drive customer results is through platform enhancements that drive the most value for direct users. This requires being aware of [the Concur effect](https://twitter.com/ryanfalor/status/1182647229414166528?s=12).
 
 [Arvind Narayanan](https://www.cs.princeton.edu/~arvindn/), a Princeton Professor, described his frustration with Blackboard in a viral Tweet:
 
@@ -310,6 +326,10 @@ At GitLab, we want to drive customer results through focusing on platform enhanc
 1. **Our existing scope**. For example, when customers asked for better integrations and complained about integration costs and effort, we responded by expanding our scope to create a [single application](/handbook/product/single-application/) for the DevOps lifecycle.
 1. **Our assumptions**. Every company works differently, so we can’t assume that what works well for us will support our customers’ needs. When we have an idea, we must directly validate our assumptions with customers to ensure we create scalable, highly relevant solutions.
 1. **What we control**. We should take responsibility for what the **customer experiences**, even when it isn’t entirely in our control. We aim to treat every customer-managed instance downtime as a [$1M a day problem](https://gitlab.com/gitlab-com/www-gitlab-com/commit/8b7857c1f7c59c53e4a9c0d6008830459d817497).
+
+##### Measure impact, not activity
+
+We care about what you achieve: the code you shipped, the needle you moved, the user you made happy, and the team member you helped. Someone who took the afternoon off shouldn’t feel like they did something wrong, unless it negatively impacted a goal or result they were responsible for. You don’t have to defend how you spend your day. We trust team members to do the right thing instead of having rigid rules. We trust team members to show up and do their best work. Do not incite competition by proclaiming how many hours you worked yesterday. If you are working too many hours, talk to your manager to discuss solutions.
 
 ##### Dogfooding
 
@@ -349,35 +369,6 @@ We expect team members to complete tasks that they are assigned. You are respons
 
 At an exponentially-scaling startup, time gained or lost has compounding effects. Try to get the results as fast as possible, but without compromising our other values and [ways we communicate](https://about.gitlab.com/handbook/communication), so the compounding of results can begin and we can focus on the next improvement.
 
-##### Ambitious
-
-While we iterate with small changes, we strive for large, ambitious results. We achieve these through:
-
-   1. Keeping the focus on the [results](#results) and the outcome
-   1. Aiming to be best in the world across [all our functions](/handbook/leadership/no-matrix-organization/)
-   1. Not being satisfied with the status quo and setting higher goals
-      1. Ambitious [mission](/handbook/company/mission/#mission) and [vision](/handbook/company/vision/)
-      1. [Ambitious OKRs](/handbook/company/okrs/#okrs-are-stretch-goals-by-default)
-      1. Having and reporting against [KPIs](/handbook/company/kpis/#what-are-kpis) with guiding targets
-   1. Having other people adopt our way of working
-      1. [Handbook](/handbook/)
-      1. [Certifications](https://about.gitlab.com/learn/certifications/public/)
-      1. Promotion of processes
-         1. [Blog posts](https://about.gitlab.com/blog/)
-         1. [Webcasts](https://about.gitlab.com/webcast/)
-         1. [Events](https://about.gitlab.com/events/)
-         1. [Community Forum](https://forum.gitlab.com/)
-         1. [Job board](https://boards.greenhouse.io/gitlab)
-   1. Proactively critiquing ourselves
-      1. [Highlight where we fall short](https://about.gitlab.com/direction/maturity/)
-      1. [Have outside experts rate us](https://about.gitlab.com/why-gitlab/)
-      1. [Have users compare us to the alternative](https://about.gitlab.com/competition/)
-   1. Increasing engagement with GitLab
-      1. [Pageviews](https://about.gitlab.com/handbook/marketing/inbound-marketing/#measuring-progress)
-      1. [Certifications](https://about.gitlab.com/learn/certifications/public/)
-      1. [Surveys](https://about.gitlab.com/developer-survey/)
-   1. [Not tolerating low performance](/handbook/leadership/underperformance/#introduction)
-   1. Preventing [risk aversion](#low-level-of-shame)
 
 ##### Perseverance
 
@@ -388,7 +379,7 @@ We value the ability to maintain focus and motivation when work is tough and ask
 
 It's important that we keep our focus on action, and don't fall into the trap of analysis paralysis or sticking to a slow, quiet path without risk. Decisions should be thoughtful, but delivering fast results requires the fearless acceptance of occasionally making mistakes; our bias for action also allows us to course correct quickly. Everyone will make mistakes, but it's the relative number of mistakes against all decisions made (i.e. percentage of mistakes), and the swift correction or resolution of that mistake, which is important. A key to success with transparency is to always combine an observation with (1) questions (to ensure understanding) *and* (2) suggestions for solutions / improvement to the group that can take action.  We don't make general complaints without including and supporting the groups that can effect change. Success with transparency almost always requires effective [collaboration](#collaboration).
 
-An example of our bias for action can be seen in our [Follow the Sun Coverage model](https://about.gitlab.com/handbook/engineering/development/#follow-the-sun-coverage).
+An example of our bias for action can be seen in our [Follow the Sun Coverage model](/handbook/engineering/development/#follow-the-sun-coverage).
 
 ##### Disagree, commit, and disagree
 
@@ -468,7 +459,7 @@ We demonstrate results when we do what we promised to each other, customers, use
 
 At GitLab, efficiency means producing [results](#results) without wasting materials, time, or energy. We optimize solutions globally for the broader GitLab community over one person or a small group. Focus on efficiency should be global in nature, not just local to a given function. Global efficiency could include efficiency with customers, candidates, and contributors as well. It is easy to prioritize consistency over efficiency because consistency is often more efficient initially and makes managing processes more efficient. We should slow down when optimizing for consistency. Taking a company-wide lens when evaluating changes will help ensure that new processes will improve efficiency for GitLab as a whole and be the best decision for the company as a whole.
 
-When we work internally with other team members, we leverage Gitlab's unique working practices and operating principles to achieve top efficiency. We do not expect people outside of GitLab to conform to GitLab's ways of working, and we will make accommodations to work effectively with them. For example, we may collaborate heavily in-person and not default to async communications.
+When we work internally with other team members, we leverage GitLab's unique working practices and operating principles to achieve top efficiency. We do not expect people outside of GitLab to conform to GitLab's ways of working, and we will make accommodations to work effectively with them. For example, we may collaborate heavily in-person and not default to async communications.
 
 ##### Only Healthy Constraints
 
@@ -601,7 +592,7 @@ We demonstrate efficiency when we work on the right things, not doing more than 
 
 ## 🌐 Diversity, Inclusion & Belonging {#diversity-inclusion}
 
-Diversity, inclusion and belonging are fundamental to the success of GitLab. We aim to make a significant impact in our efforts to foster an environment where everyone can thrive. We are designing a multidimensional approach to ensure that GitLab is a place where people from every background and circumstance feel like they belong and can contribute. We actively chose to [build and institutionalize](https://www.russellreynolds.com/en/insights/reports-surveys/diversity-and-inclusion-gamechangers) a culture that is [inclusive](/handbook/company/culture/inclusion/) and supports all team members equally in the process of achieving their professional goals. We hire globally and encourage hiring in a diverse set of countries. We work to make everyone feel welcome and to increase the participation of underrepresented minorities and nationalities in our community and company. For example, we celebrate our sponsorship of [diversity, inclusion & belonging events](https://about.gitlab.com/blog/2016/03/24/sponsorship-update/) and double the base [referral bonus amount](/handbook/incentives/#referral-bonuses).
+Diversity, inclusion and belonging are fundamental to the success of GitLab. We aim to make a significant impact in our efforts to foster an environment where everyone can thrive. We are designing a multidimensional approach to ensure that GitLab is a place where people from every background and circumstance feel like they belong and can contribute. We actively chose to [build and institutionalize](https://www.russellreynolds.com/en/insights/reports-surveys/diversity-and-inclusion-gamechangers) a culture that is [inclusive](/handbook/company/culture/inclusion/) and supports all team members equally in the process of achieving their professional goals. We hire globally and encourage hiring in a diverse set of countries. We work to make everyone feel welcome and to increase the participation of underrepresented minorities and nationalities in our community and company. For example, we celebrate our sponsorship of [diversity, inclusion & belonging events](https://about.gitlab.com/blog/2016/03/24/sponsorship-update/).
 
 ##### Bias towards asynchronous communication
 
@@ -827,9 +818,9 @@ Iteration enables [results](#results) and [efficiency](#efficiency)
 
 *In the [GitLab Unfiltered video](https://youtu.be/2r0UeZ5p57Y) embedded above, GitLab CEO and co-founder Sid Sijbrandij shares key operating principles to reinforce iteration in an organization.*
 
-##### Start with a goal in broad strokes
+##### Start with a long-term vision
 
-Iteration involves driving results in pursuit of a goal. While the goal may change as we iterate, we are unlikely to be successful if we don't start with a vision of what we are working toward. Iteration for the sake of iteration can lead to inefficiencies and not deliver desired results.
+Iteration involves driving results in pursuit of a long-term vision. While the intermediate goals may change as we iterate, we are unlikely to be successful if we don't start with a vision of what we are working toward. Shipping that vision in iterations allows us to learn from customers using it and adjust the vision if needed. Iteration for the sake of iteration can lead to inefficiencies and not deliver desired results.
 
 ##### Don't wait
 
@@ -1058,7 +1049,7 @@ and processes with the **whole community** and the world in the spirit of open s
 
 In line with our value of transparency and being public by default, all GitLab team member [profiles](https://docs.gitlab.com/ee/user/profile/#user-profile) should be public. Public profiles also enable broader collaboration and efficiencies between teams. To do so, please make sure that the checkbox under the [Private profile](https://docs.gitlab.com/ee/user/profile/#private-profile) option is unchecked [in your profile settings](https://gitlab.com/-/profile). If you do not feel comfortable with your full name or location on your profile, please change it to what feels appropriate to you as these are displayed even on private profiles.
 
-Because we are public by default and have the [SAFE framework](https://about.gitlab.com/handbook/legal/safe-framework/) we don't need to make cases for why things should be transparent. If something is unSAFE and needs to remain [not public](/handbook/communication/confidentiality-levels/#not-public) it can be.
+Because we are public by default and have the [SAFE framework](/handbook/legal/safe-framework/) we don't need to make cases for why things should be transparent. If something is unSAFE and needs to remain [not public](/handbook/communication/confidentiality-levels/#not-public) it can be.
 
 ##### Not public
 
@@ -1294,12 +1285,6 @@ In a [GitLab Unfiltered interview on values](https://youtu.be/7kMQj4O4ZGU), GitL
 
 Our values are updated frequently and as needed. Everyone is welcome to make a suggestion to improve them. To update: make a merge request and assign it to the CEO. If you're a [team member](/handbook/company/team/) or in the [core team](https://about.gitlab.com/community/core-team/) please post a link to the MR in the `#values` Slack channel. If you're not part of those groups, please send a direct Twitter message to [@sytses](https://twitter.com/sytses).
 
-## Number of contributors and updates over time
-
-To reinforce that GitLab's values are a living document, we [capture contributions to this page in a Sisense dashboard](https://app.periscopedata.com/app/gitlab/796025/Values-Page-Contributions). The dashboard tracks number of contributors as well as number of Git commits. You can also view individual changes on the [list of recent commits](https://gitlab.com/gitlab-com/content-sites/handbook/-/commits/main/).
-
-<iframe class="dashboard-embed" src="https://app.periscopedata.com/shared/9af373c1-2c9a-4329-a314-4f38595cf2e6??embed=true" style="height: 40em; width: 100%;"> </iframe>
-
 ## How do we reinforce our values
 
 Whatever behavior you reward will become your values. We reinforce our values by:
@@ -1409,9 +1394,9 @@ Our [mission](/handbook/company/mission/#mission) is that **everyone can contrib
 
 ## Mitigating Concerns
 
-We have a page which documents our [Mitigating Concerns](/handbook/leadership/mitigating-concerns/). Many of our values help to mitigate some of these concerns.
+We have a page which documents our [Mitigating Concerns](https://internal-handbook.gitlab.io/handbook/leadership/mitigating-concerns/). Many of our values help to mitigate some of these concerns.
 
-## GitLab Values Knowledge Assessment
+## GitLab Values Quiz
 
-Anyone with a GitLab account can access the GitLab values knowledge assessment. To obtain a certificate, you will need to complete this [learning course](https://levelup.gitlab.com/courses/gitlab-values) in Level Up and earn at least an 80%. Once the quiz has been passed, you will receive a certificate for your Level Up profile. You can also share the badge on your personal LinkedIn page. If you have questions, please reach out to our L&D team at `learning@gitlab.com`.
+Anyone with a GitLab account can access the GitLab Values Quiz. To participate in the quiz, you will need to complete this [learning course](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab-values-training/gitlab-values-training/first-lesson) in Level Up. If you have questions, please reach out to our L&D team at `learning@gitlab.com`.
 <!-- markdownlint-enable MD051 -->

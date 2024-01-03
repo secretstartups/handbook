@@ -69,7 +69,7 @@ feedback in the [discussion issue](https://gitlab.com/gitlab-com/support/support
 
 ### Cliff of definite underperformance
 
-A support engineer is definitively underperforming when they handle less than 7 tickets in any of 3 of the past 4 weeks. <i class="fa-solid fa-triangle-exclamation"></i>
+A support engineer is definitively underperforming when they handle less than 8 tickets in any of 3 of the past 4 weeks. <i class="fa-solid fa-triangle-exclamation"></i>
 
 A support engineer is considered to have handled a ticket when they leave either
 a public or internal comment on a ticket.
@@ -103,9 +103,10 @@ each financial quarter.
    - the number for the Cliff of Definite Underperformance (CoDU) as observed for the 12 month period concluding prior to the listed quarter.
    - a link to the notification issue when the number was reviewed for that period.
 
-| **Quarter** | **CoDU Number** | **Notification Issue**  |
+| **Quarter** | **Cliff Number** | **Notification Issue**  |
 |------------| -------- |------|--------------------------|
-| FY24-Q3 (Current) | 7 | [STM#5494](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/5494) |
+| FY24-Q4 (Current) | 8 | [STM#5672](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/5672) |
+| FY24-Q3 | 7 | [STM#5494](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/5494) |
 | FY24-Q2 | 7 | Nil - practice started in FY24-Q3 |
 | FY24-Q1 | 6 | |
 | FY23-Q4 | 5 | |
@@ -278,7 +279,7 @@ coverage.
 
 ## Holiday Coverage Planning
 
-We are mindful of [holidays](/handbook/support/support-time-off.html#holiday-time-off-ticket-management) that impact large parts of the team. The following are official holidays for mostly APAC team members, which we plan coverage for outside of global practices:
+We are mindful of [holidays](/handbook/support/support-time-off#holiday-time-off-ticket-management) that impact large parts of the team. The following are official holidays for mostly APAC team members, which we plan coverage for outside of global practices:
 
 | **Holiday**                             | **Date**           | **Countries**              | **Notes**                                                                                                                                  |
 |-----------------------------------------|--------------------|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
@@ -324,8 +325,7 @@ To refer to past planning issues, see issues linked to the [[APAC] Holiday Cover
           <li>Release Review Party</li>
           <li>APAC Office Hours</li>
           <li>Social Call</li>
-          <li>APAC Book Club - [Tribal Leadership](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4854) <br>weekly between 2023-02-16 to 2023-04-06</li>
-         </ul>
+        </ul>
       </td>
     </tr>
   </tbody>

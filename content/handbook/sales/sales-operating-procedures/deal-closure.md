@@ -12,7 +12,7 @@ description: "GitLab sales process for deal closure"
 
 # DEAL CLOSURE
 
-You have obtained the verbal commit from the economic buyer and it’s now time to close the opportunity and get the deal signature.  You will need to reapply **[MEDDPPICC](https://about.gitlab.com/handbook/sales/meddppicc/)** throughout this phase to accomplish the following tasks and close the deal:  
+You have obtained the verbal commit from the economic buyer and it’s now time to close the opportunity and get the deal signature.  You will need to reapply **[MEDDPPICC](/handbook/sales/meddppicc/)** throughout this phase to accomplish the following tasks and close the deal:  
 
 1. Create a Mutual Close Plan
 1. Create a Deal Package
@@ -79,11 +79,11 @@ Additionally, during the negotiation phase you should also be working with the C
 
 #### 3.2.1 Capture Customer Success Criteria
 
-**The Solution Architect (SA) Documents Success Criteria**  This can be accomplished by [facilitating a discovery workshop](https://docs.google.com/presentation/d/1NtURhF4TH3mYqhjaDiwDbhq5m5y2GMfOv8BtxOtp2w0/edit#slide=id.g8920d2a269_0_609) asking questions about what a successful rollout plan looks like, the expectations around user experience during a transition period, and how to educate the customer's end-users. This process will help clarify whether [positioning professional services](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/positioning/) is appropriate at this stage during the customer buying journey.  
+**The Solution Architect (SA) Documents Success Criteria**  This can be accomplished by [facilitating a discovery workshop](https://docs.google.com/presentation/d/1NtURhF4TH3mYqhjaDiwDbhq5m5y2GMfOv8BtxOtp2w0/edit#slide=id.g8920d2a269_0_609) asking questions about what a successful rollout plan looks like, the expectations around user experience during a transition period, and how to educate the customer's end-users. This process will help clarify whether [positioning professional services](/handbook/customer-success/professional-services-engineering/positioning/) is appropriate at this stage during the customer buying journey.  
 
 This activity should produce a document that clearly articulates what done looks like and when done is successful. The document should be signed by an accountable individual from both parties and verbally discussed.
 
-#### 3.2.2 [Create Customer Success Plan](https://about.gitlab.com/handbook/customer-success/csm/success-plans/)
+#### 3.2.2 [Create Customer Success Plan](/handbook/customer-success/csm/success-plans/)
 
 **The SA and CSM work with the customer to create a Customer Success Plan.**  A Success Plan is an interactive map to align the purchase (including renewals!) reasons to customer outcomes, develop joint accountabilities, measure progress and evolve as customers’ needs change. Put another way, it’s the way the customer can see and know that they’re obtaining significantly more value than the cost of a product or service. Click on the link above to follow the steps to create a Customer Success Plan.
 
@@ -96,7 +96,7 @@ Once negotiations are concluded and a final price point per user and terms are e
 
 This step can be looked at as an extension of the negotiation process and the time horizon for final quote approval, and MSA review can vary greatly between the Commercial Sales and Enterprise Sales based on the customer’s purchasing processes.
 
-### 4.1 [Create a New Quote](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/community-program-applications/#step-3-create-a-new-quote)
+### 4.1 [Create a New Quote](/handbook/marketing/developer-relations/community-programs/community-program-applications/#step-3-create-a-new-quote)
 
 A quote is created in Salesforce. Click the heading above to follow the process. Generally once you submit a quote it will be sent to the customer's legal team to redline and review.
 
@@ -124,4 +124,4 @@ The final stage is signature. By this time the due diligence, negotiations, and 
 1. Update the opportunity in Salesforce as Closed/Won or Lost
 2. AE/SAE coordinates a [Welcome Call](https://gitlab.com/gitlab-com/account-management/templates/customer-collaboration-project-template/-/issues/24) to introduce the CSM to the customer stakeholders.
 
-Congratulations! You are now ready to move the deal to the [Retain and Expand](https://about.gitlab.com/handbook/sales/sales-operating-procedures/retain-and-expand/) phase.
+Congratulations! You are now ready to move the deal to the [Retain and Expand](/handbook/sales/sales-operating-procedures/retain-and-expand/) phase.

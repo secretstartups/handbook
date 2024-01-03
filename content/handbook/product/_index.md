@@ -54,7 +54,7 @@ For a small improvement, please feel free to merge the MR yourself. Otherwise, t
 It is your responsibility to communicate with relevant team members about your merge request. Here are some best practices to follow:
 
 - For significant changes affecting the whole Product or Engineering team, consult Product Operations for the best communication strategy.
-- For changes specific to product management, tag `@gl-product` in the merge request before merging.
+- For changes specific to product management, tag `@gl-product-pm` in the merge request before merging.
 - Indicate in the comment whether you are requesting contributions and feedback or simply providing information.
 - For changes relevant to other teams, tag department leads such as the VP of UX, VP of Development, or the Director of Quality Engineering in the merge request before merging.
 - Share and cross-post the merge request link with a brief description in relevant channels such as Slack `#product`, `#product-leadership`, `#eng-managers`, and `#ux-managers`.
@@ -108,7 +108,7 @@ Learn about our Product Leadership Team and learn about them via their personal 
 - [**Learning and Development for Product Management**](/handbook/product/product-manager-role/learning-and-development/)
 - [**Product Budgeting Process**](/handbook/product-development-budgeting/)
 - [**Product Development Flow**](/handbook/product-development-flow/)
-- [**Product Development Timeline**](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline)
+- [**Product Development Timeline**](/handbook/engineering/workflow/#product-development-timeline)
 - [**Analytics Instrumentation Guide**](/handbook/product/analytics-instrumentation-guide/)
 - [**Product Management CDF and competencies**](/handbook/product/product-manager-role/product-CDF-competencies/)
 - [**Product Manager Onboarding**](/handbook/product/product-manager-role/#product-manager-onboarding)
@@ -116,7 +116,7 @@ Learn about our Product Leadership Team and learn about them via their personal 
 - [**Product Manager SAFE (legal) Guidance**](/handbook/product/product-safe-guidance/)
 - [**Product Operations Releases**](/handbook/product/product-operations/#product-operations-releases)
 - [**Product Pricing Model**](/handbook/company/pricing/)
-- [**Release Posts**](https://about.gitlab.com/handbook/marketing/blog/release-posts/)
+- [**Release Posts**](/handbook/marketing/blog/release-posts/)
 - [**Tiering Guidance for Features**](/handbook/product/tiering-guidance-for-features/#learning-opportunities)
 
 ### Communicating with the Product Division
@@ -125,7 +125,8 @@ Below are team emails and handles that can be used for different departments and
 
 - `@gl-product-leadership` tags all group managers, directors and VPs in the Product Division
 - `@gl-product-plt` tags all direct reports to the VP Product in the Product Division
-- `@gl-product` tags to all members of Product Management, Product Monetization and Product Operations in the Product Division
+- `@gl-product-pm` tags to all members of Product Management, Product Monetization and Product Operations in the Product Division
+- `@gl-product` tags to all members in the Product Division: Product Management, Product Monetization, Product Operations, Product Design, User Research, and Technical Writing
 - `product@gitlab.com` emails all members of Product Management, Product Monetization and Product Operations in the Product Division
 - `ux-department@gitlab.com` emails all members of UX (UX Research, Technical Writing and Product Design) in the Product Division
 - `@gitlab-com/gitlab-ux` tags all members of UX (UX Research, Technical Writing and Product Design) in the Product Division

@@ -53,7 +53,7 @@ experience related to managing subscriptions. We achieve this by:
 
 ## Regional L&R Teams
 
-- AMER Team [Page](amer-region.html)
+- AMER Team [Page](/handbook/support/license-and-renewals/amer-region)
 - APAC Team Page
 - EMEA Team Page
 
@@ -68,7 +68,7 @@ Before starting to work L&R tickets, be sure you complete the
 
 As an L&R Engineer, you will want to understand some core concepts of terms, expressions and
 features we interact with every day. The next few paragraphs explain these concepts, which can also
-be referred to in the [terminology table](#common-terminology).
+be referred to in the [terminology table](/handbook/support/license-and-renewals/license-and-renewals-glossary).
 
 **Subscription** is a term used to explain the purchase of a specific tier of features for a set
 amount of time. There are two factors that comprise a subscription:
@@ -89,7 +89,7 @@ representative to request an exemption as part of the sales purchase or renewal 
   - As noted on GitLab's [statement of support](https://about.gitlab.com/support/statement-of-support/#version-support),
   our Support team are (in almost all circumstances) unable to assist customers running below
   GitLab `14.x`, so this should provide further encouragement for customers to upgrade.
-- [Post-sales exemptions for Cloud Licensing](/handbook/support/license-and-renewals/workflows/self-managed/cloud-licensing.html#post-sale-exemptions-support)
+- [Post-sales exemptions for Cloud Licensing](/handbook/support/license-and-renewals/workflows/self-managed/cloud-licensing#post-sale-exemptions-support)
 are rare and require an internal request and Sales VP approval.
 - License files are still used for Self-Managed **Trials**.
 
@@ -119,7 +119,7 @@ that customers apply to their Self-Managed instance. Some benefits of a Cloud Li
 - Allows for the ability to use **Quarterly Subscription Reconciliation (QSR)** to reconcile
 Users over Subscription
 
-[**Quarterly Subscription Reconciliation (QSR)**](./workflows/quarterly_subscription_reconciliations.html)
+[**Quarterly Subscription Reconciliation (QSR)**](/handbook/support/license-and-renewals/workflows/quarterly_subscription_reconciliations)
 is a method to reconcile any additional usage over the subscription agreement, such as when there
 are **Users over Subscription**. When enabled, QSR is performed each quarter (every three months)
 and generates an invoice if seat usage has increased over the current maximum.
@@ -169,7 +169,7 @@ for further information.
   tickets from customers as well as from GitLab Team Members (Sales, CSMs,
   etc.). The tickets from team members are called "internal requests," and
   information about those is available on the
-  [working internal requests workflow page](/handbook/support/license-and-renewals/workflows/working_internal_requests.html).
+  [working internal requests workflow page](/handbook/support/license-and-renewals/workflows/working_internal_requests).
 - Creating and/or updating [marketing pages](#marketing-pages),
   [product documentation](#product-documentation) and the
   [GitLab Handbook](#handbook-pages) and [workflows](#workflows) around
@@ -202,7 +202,7 @@ CustomersDot, use this information:
 
 A Salesforce.com (SFDC) account makes collaboration with Sales team members more
 efficient, primarily because you'll be able to receive notifications when you're
-tagged in a Chatter message (see the [working with Sales workflow](/handbook/support/license-and-renewals/workflows/working_with_sales.html)).
+tagged in a Chatter message (see the [working with Sales workflow](/handbook/support/license-and-renewals/workflows/working_with_sales)).
 
 When creating an [individual/bulk access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request), use the following information:
 
@@ -257,7 +257,7 @@ When creating an [individual/bulk access request](https://gitlab.com/gitlab-com/
 
 ### Workflows
 
-- [License & renewals workflows](workflows/index.html)
+- [License & renewals workflows](/handbook/support/license-and-renewals/workflows/index.html)
 
 ### Useful tools
 
@@ -274,7 +274,7 @@ When creating an [individual/bulk access request](https://gitlab.com/gitlab-com/
 As you work through the queue and on issues, if you spot something in the
 [Fulfillment backlog](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=group%3A%3Afulfillment)
 that would makes things better for customers and Support, please label it with
-`Support Interest::Categorize`. See [Support's issue list for Fulfillment](./workflows/managing_product_issues.html#supports-issue-list-for-fulfillment) for more information.
+`Support Interest::Categorize`. See [Support's issue list for Fulfillment](/handbook/support/license-and-renewals/workflows/managing_product_issues#supports-issue-list-for-fulfillment) for more information.
 
 ##### Fulfillment stage
 
@@ -326,11 +326,11 @@ The queue should not be used for the following:
 - [Business Ops](/handbook/business-technology/)
   - [Business Systems: Enterprise Applications, Integrations, and Flow](/handbook/business-technology/enterprise-applications/integrations/)
   - [Troubleshooting: True Ups, Licenses + EULAs](/handbook/business-technology/enterprise-applications/quote-to-cash/troubleshooting/)
-- [Sales](https://about.gitlab.com/handbook/sales/)
-  - [Sales Segmentation](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/)
-  - [Sales Territories](https://about.gitlab.com/handbook/sales/territories/)
-- [Marketing](https://about.gitlab.com/handbook/marketing/)
-  - [Sales Enablement: GitLab.com subscriptions](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enablement/dotcom-subscriptions/)
+- [Sales](/handbook/sales/)
+  - [Sales Segmentation](/handbook/sales/field-operations/gtm-resources/)
+  - [Sales Territories](/handbook/sales/territories/)
+- [Marketing](/handbook/marketing/)
+  - [Sales Enablement: GitLab.com subscriptions](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enablement/dotcom-subscriptions/)
 
 ### Issue trackers
 
@@ -338,24 +338,3 @@ The queue should not be used for the following:
 | ------------- |------------------------------------------------------------------------------------------------------------------------------------|
 | [GitLab Issue Tracker](https://gitlab.com/gitlab-org/gitlab/issues) | Issues related to self-managed or GitLab.com functionality or backend processing                                                   |
 | [CustomersDot](https://gitlab.com/gitlab-org/customers-gitlab-com/issues) | Issues caused specifically by something within CustomersDot or affecting self-managed license generation, generated licenses |
-
-## Common Terminology
-
-|Term|Description|
-|--|--|
-|Add-on|An optional extra that can be purchased to increase the limits of what is available in GitLab. Common examples of this are a `Seat add-on` where additional seats are purchased during the subscription term, or an additional `Storage` or `Compute Minutes` purchase (on SaaS only).|
-|[Cloud Licensing](https://about.gitlab.com/pricing/licensing-faq/cloud-licensing/) / Cloud Activation *(SM Only)* | The preferred method of activating a self managed subscription where [subscription data is synchronized daily](https://docs.gitlab.com/ee/subscriptions/self_managed/#subscription-data-synchronization) from the customer instance to Customers.gitlab.com.  Unlike a License File, a cloud activation code does not need to be re-applied when the subscription is modified or renewed.|
-|Customers Portal / CustomersDOT / customers.gitlab.com|Available at [customers.gitlab.com](https://customers.gitlab.com), the customers portal allows customers to view, manage and purchase subscriptions. L&R Engineers can generate, modify and send subscription information from here.|
-|[GitLab Dedicated](https://docs.gitlab.com/ee/subscriptions/gitlab_dedicated/)|Provides the benefits of SaaS (fully managed maintenance and operations) with infrastructure-level isolation while the customer has access to Administrator account on their instance.|
-|Legacy License File / License Key *(SM Only)*| License files are now a legacy option used to provide SM trials, or for customers subject to certain criteria. License files are necessary to activate a subscription prior to GitLab 14.1.  License files typically have a maximum validity of one year, and must be re-issued and uploaded again if a subscription is modified or renewed.|
-|[Namespace](https://docs.gitlab.com/ee/user/namespace/#namespaces) *(SaaS Only)*|A top-level group on gitlab.com where a subscription is applied. The subscription plan is available to all subgroups and projects under the namespace|
-|Offline Cloud Licensing *(SM Only)*| In situations where customers must maintain an instance without Internet access, an [Offline Cloud License](https://about.gitlab.com/pricing/licensing-faq/cloud-licensing/#offline-cloud-licensing)) provides the benefits of Cloud Licensing by generating a usage data file locally.  The customer is prompted to upload this file monthly.
-|[Quarterly Subscription Reconciliation (QSR)](https://docs.gitlab.com/ee/subscriptions/quarterly_reconciliation.html)|Introduced as a “Pay as you Go” alternative to True-Ups. A QSR is processed quarterly and will deliver cost savings versus the annual approach of True-Ups.|
-|Seat|A seat represents GitLab’s implementation of a ‘concurrent software license’, which means the maximum number of users who will use the GitLab application and access paid features at any one time. Customers can change the specific users working with a GitLab Seat, providing the total seats in use does not exceed the total number of seats purchased.
-|Self-Managed (**SM**)|Instances of the GitLab application managed by the customers themselves. The customers retain complete access and administrative control over their environment.|
-|Software-as-a-Service (**SaaS**)|GitLab.com is the Software as a Service (SaaS) offering for the GitLab product. GitLab team members handle the maintenance, operation and upgrading of GitLab.com.|
-|Subscription|Typically, a 12-month agreement to receive access to a tier of features in GitLab.|
-|Trial|A short trial (usually at most 30 days) of GitLab paid features with [some restrictions](https://about.gitlab.com/free-trial/#what-is-included-in-my-free-trial-what-is-excluded) when used on SaaS. Customers can initiate a trial directly for both SaaS and Self-Managed on gitlab.com.  Trials are often requested by GitLab Sales to extend subscriptions when a customer purchase has not been finalized.|
-|True-Ups|A method of reconciling `Users over Subscription` after the subscription term has expired. True-Ups require the full subscription fee for Users over Subscription to cover the previous subscription term.|
-|User|A user on the GitLab platform. Most users will occupy a seat, subject to [some exceptions](https://about.gitlab.com/pricing/licensing-faq/#GitLab.com). Users can include administrator accounts (on Self-Managed), as well as automated job or bot users.
-|[Users over Subscription](https://docs.gitlab.com/ee/subscriptions/self_managed/index.html#users-over-subscription) (**SM**) / [Seats owed](https://docs.gitlab.com/ee/subscriptions/gitlab_com/index.html#seats-owed) (**SaaS**) |GitLab permits additional usage over the purchased seat agreement, ensuring more users can be added during the subscription term without unnecessary obstacles. This overage can be processed at any time by adding more seats to the current subscription (seats add-on), processing the overage annually (`True-Ups`) or quarterly (`Quarterly Subscription Reconciliation`).|

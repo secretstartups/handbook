@@ -35,7 +35,7 @@ In FY23 Q1, mentees in current organized mentorship programs reported the affect
 
 1. Be encouraged to prioritize, and be held accountable for, your [career development]({{< ref "career-development" >}})
 1. Learn new skills related to your current role, your future career goals, or an area that you're passionate about
-1. Set and reach clearly outlined [goals]({{< ref "okrs" >}}).
+1. Set and reach clearly outlined [goals]({{< ref "/handbook/company/okrs" >}}).
 
 ### Benefits for the mentor
 
@@ -71,6 +71,8 @@ The following team members are available as mentors. Schedule a [coffee chat](/h
 
 The `Expertise` column comes from the team member .yaml entry and might not include all subjects they can help you with.
 
+{{< group-by-expertise "Merge Request Coach" >}}
+
 ## Become a mentor
 
 1. Indicate your mentorship availability on the GitLab team page by setting the `mentor` status to `true`. This will appear on the team page with a line that reads `Available as a mentor`. [Example MR](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/75890)
@@ -82,7 +84,7 @@ Learn more about organized mentorship programs for team members:
 1. [Company-Wide](company-program)
 1. [Minorities in Tech](/handbook/company/culture/inclusion/erg-minorities-in-tech/mentoring/)
 1. [Women at GitLab](/handbook/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/)
-1. [Aspiring Managers](https://about.gitlab.com/handbook/engineering/development/dev/training/ic-to-manager/#aspiring-manager-mentorship-pilot-program)
+1. [Aspiring Managers](/handbook/engineering/development/dev/training/ic-to-manager/#aspiring-manager-mentorship-pilot-program)
 1. [Finance Team](/handbook/finance/) is running a [mentorship program](/handbook/finance/growth-and-development/mentorship).
 
 ## Resources
@@ -216,7 +218,7 @@ These resources are meant to provide both mentors and mentees with additional pe
 
 {{< youtube "u4kTlK5mUHc" >}}
 
-1. The [Engineering department](https://about.gitlab.com/handbook/engineering/) outlines [strategies for mentors and mentees](https://about.gitlab.com/handbook/engineering/career-development/mentoring/) with suggestions on how to host meetings and set and evaluate goals.
+1. The [Engineering department](/handbook/engineering/) outlines [strategies for mentors and mentees](/handbook/engineering/career-development/mentoring/) with suggestions on how to host meetings and set and evaluate goals.
 1. The [Support team]({{< ref "/handbook/support" >}}) has outlined expectations and examples on [Mentorship in Support Engineering]({{< ref "/handbook/support/engineering/mentorship" >}}).
 1. [Career growth resources at GitLab]({{< ref "career-development" >}})
 1. [Harvard Business Review: What efficient mentorship looks like](https://hbr.org/2020/08/what-efficient-mentorship-looks-like)

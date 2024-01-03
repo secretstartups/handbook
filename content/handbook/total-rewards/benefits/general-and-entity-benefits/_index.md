@@ -25,7 +25,7 @@ For any questions relating to benefits, please reach out to [Total Rewards](/han
 - [GitLab GK (Japan)]({{< ref "gitlab-gk" >}})
 - [GitLab Ireland LTD]({{< ref "gitlab-ireland-ltd" >}})
 - [GitLab Korea LTD]({{< ref "korea-ltd-benefits" >}})
-- [Gitlab France S.A.S.]({{< ref "france-sas" >}})
+- [GitLab France S.A.S.]({{< ref "france-sas" >}})
 - [GitLab Singapore Pte Ltd]({{< ref "singapore-pte-ltd" >}})
 - [Remote Technology (Brazil,Denmark, Spain, Italy, Switzerland, South Africa, Mexico, Hungary, Sweden and Austria)]({{< ref "remote-com" >}})
 - [Papaya Global (UAE, Italy)]({{< ref "papaya-global" >}})
@@ -168,7 +168,7 @@ GitLab plans to continue to iterate on fertility benefits as we evaluate and enh
 
 GitLab's paid Parental Leave is available for any active team member (regardless of gender) who becomes a parent through childbirth or adoption while working at GitLab. This benefit is available to all team members on their first day of work, as long as their child was born or newly adopted during their employment at GitLab.
 
-GitLab team members are encouraged to decide for themselves how much time they'd like to take and how to take it, but the entire 16-week Parental Leave balance must be used prior to the child's first birthday or the first anniversary of the adoption. For many reasons, a team member may require more time off. Any GitLab team member can request additional unpaid leave for up to 4 weeks, and we are happy to address anyone with additional leave requests on a one-on-one basis.
+GitLab team members are encouraged to decide for themselves how much time they'd like to take and how to take it, but the entire 16-week Parental Leave balance must be used prior to the child's first birthday or the first anniversary of the adoption.
 
 The information in this section is specific to GitLab's 16-week paid Parental Leave. Different countries may provide team members with their own statutory Parental Leave (including maternity/paternity) benefits. Please review your country's statutory [Parental Leave](#entity-benefits) benefits for more information on how to apply and tenure requirements (if applicable). If you live in a country where a statutory Parental Leave benefit is available, you will be required to claim statutory Parental Leave pay (if eligible), and GitLab will supplement any gaps. When allowed by law GitLab's 16-week balance is per birth or adoption event per year and runs concurrently with these statutory benefits.
 
@@ -180,14 +180,20 @@ You don't have to take your Parental Leave in one continuous period, we encourag
 
 **A few things to note:**
 
-- If you are planning to change or extend your Parental Leave by using a different type of leave such as PTO, unpaid leave or any local statutory leave, please send an e-mail to leaves@gitlab.com.
+- If you are planning to change or extend your Parental Leave by using a different type of leave such as PTO or any local statutory leave, please send an e-mail to leaves@gitlab.com.
 - When determing the dates of your leave, GitLab uses a 1/7 formula (1 week = 7 days). This means if you are planning on returning to work on a Monday, the last day of your leave will be Sunday. Please use this formula when submitting your Time Off by Deel request.
+
+### Taking PTO After Taking Parental Leave
+
+If you need to take more time off after Parental Leave, you may utilize GitLab's [Paid Time Off policy]({{< ref "paid-time-off#a-gitlab-team-members-guide-to-time-off" >}}) with manager coordination. This time off should be discussed with your Manager following the same reporting guidelines outlined in the PTO policy (double the amount of notice as the amount requested), but if business critical deadlines will be missed your Manager may ask you to change the dates.
+
+Please submit the dates of your PTO in [Time Off by Deel]({{< ref "paid-time-off#time-off-by-deel" >}}) by selecting `Vacation`.
 
 ### How to Initiate Your Parental Leave
 
 Some team members may feel comfortable sharing their news sooner than other team members. You can share your news with your Manager whenever you feel comfortable, but we recommend communicating your plan to your manager at least 2-3 months before your leave starts for workload planning purposes. In the meantime, familiarize yourself with the steps below and specific leave requirements in your [country]({{< ref "general-and-entity-benefits#entity-benefits" >}}) (if any).
 
-**To initiate your Parental Leave, submit your time off by selecting the `Parental Leave` label in Time Off by Deel no less than 30 days prior to the start of your leave.** We understand that Parental Leave dates may change, so you can edit the dates in Time Off by Deel at a later time if you need to adjust the dates of your Parental Leave. It's important that you submit a tentative date 30 days in advance, but some countries have their own reporting requirements.  Please review your own [country's](#entity-benefits) reporting requirements to ensure you are reporting your leave according to these regulations.
+**30 days prior to the start of your leave** Enter your Parental Leave into Time Off by Deel by selecting the `Parental Leave` label. We understand the Parental Leave dates may change, so you can edit the dates in Time Off by Deel as needed. It's important that you submit the request in Deel, 30 days in advance, but some countries have their own reporting requirements. Please review your own [country's](#entity-benefits) reporting requirements to ensure you are reporting your leave according to these regulations.
 
 We realize that if you are going on adoptive parental leave, a 30 day notice period may not be possible. In these situations, you should notify your manager as soon as possible and enter the dates in Time Off by Deel when you can.
 
@@ -198,12 +204,6 @@ Your manager and the Absence Management team will be notified after you submit y
 - Parental leave includes public holidays and scheduled Family and Friends Days that occur within the start and end date of parental leave, but some countries allow team members to rollover public holidays that occured while on Parental Leave. Be sure to review your country's policy on this when planning the dates of your leave.
     - If eligible to roll over public holidays, and you'd like to use them to extend your time away, please enter this as `Public Holiday` in Time Off by Deel and add a note indicating "rolling over holidays which occured while on parental leave".
 - Some countries require extra paperwork or have specific leave requirements, which are subject to change as legal requirements change. Please take a look at your [country's leave policy](#entity-benefits).
-
-### Taking PTO After Taking Parental Leave
-
-If you need to take more time off after taking 16 weeks of Parental Leave, you can utilize our [Paid Time Off policy]({{< ref "paid-time-off#a-gitlab-team-members-guide-to-time-off" >}}). This time should be discussed with your Manager prior to the start of your Parental leave, and you will need to return to work for at least 7 calendar days before PTO can begin.
-
-Please submit the dates of your PTO in [Time Off by Deel]({{< ref "paid-time-off#time-off-by-deel" >}}) by selecting `Vacation`.
 
 ### Commission Payout and Quota Relief
 
@@ -237,7 +237,7 @@ Sales management has discretion on how to cover a team member's territory while 
 
 For Solution Architects and Management and Customer Success Managers and Management, payment will be calculated for individuals using actual team performance while on leave. These roles will not be eligible for quota relief during parental leave.
 
-For Sales roles with a utilization attainment, like the [Professional Services Engineer](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#team-metrics), since the utilization attainment is based on delivering above 70% of available billable hours, we apply the baseline attainment linked to utilization attainment, 50%.
+For Sales roles with a utilization attainment, like the [Professional Services Engineer](/handbook/customer-success/professional-services-engineering/#team-metrics), since the utilization attainment is based on delivering above 70% of available billable hours, we apply the baseline attainment linked to utilization attainment, 50%.
 
 At the end of 90 continuous days of parental or medical leave, a one time payment of the 50% billable utilization attainment will be paid. Utilization payout during parental or medical leave is not based on prior individual performance, since projects identified for billable utilization are based on sales engagements and services attached, and not determined by individual performance.
 
@@ -271,6 +271,7 @@ You can learn more about parental leave and how to apply in the [Benefits sectio
 - Expecting parents sign up for the program before they start their Parental Leave. (If you decide you would like to participate in this program while on leave that is ok too!)
 - Barbara (from [Your 4th Trimester](https://drive.google.com/file/d/1NOkpt1oBruKunt3IdR6bQuvR0P2ht6Tg/view)) will start working with the team member prior to their leave and 30 days before the end of their Parental Leave
 - To apply for this coaching program, please notify Total Rewards that you would like to participate in the program by sending an email to growth-development@gitlab.com
+- Note the program cost is funded within your [Growth and Development](/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit) benefit
 
 #### Tips for a smoother transition
 

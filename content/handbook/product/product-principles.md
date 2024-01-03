@@ -88,15 +88,15 @@ When considering how to scope a feature for a release, remember that it is ok to
 MVC means reducing the scope so we can ship quickly. It doesn’t mean shipping something that hurts the usability of GitLab. First impressions are important. A feature that does not offer enough value or hinders the user experience may have a negative effect that discourages users from trying that feature again in the future. If there are obvious gaps in your MVC or you can anticipate follow-up requests, consider whether your feature is complete enough to be released to users. If you are unsure whether your feature is complete enough to be an MVC (or if you know your feature is not complete enough to be an MVC and you want to gather additional feedback), you can use approaches such as dogfooding, [beta programs](https://docs.gitlab.com/ee/policy/experiment-beta-support.html), feature flags, and/or user research to help build confidence in your decision. In terms of talking about your feature, it's ok to add a release post item that announces your incomplete feature (making clear that it is an early iteration, and points to the direction for the feature) and follow up in a later release post with a new item when you've completed more of the functionality. As long as you call it cookie dough, not a cookie, it manages user expectations.
 
 Examples:
-- Ship a feature through the API and not the UI -  [See this release post](https://about.gitlab.com/releases/2022/09/22/gitlab-15-4-released/#graphql-api-endpoint-for-deleting-attachments-from-project) as a great example of this approach was used to build a GraphQL endpoint for deleting attachment from a project. 
-- Exposing a minimal set of functionality  - [See this release post](https://about.gitlab.com/releases/2022/11/22/gitlab-15-6-released/#admin-area-runners-job-queued-and-duration-times) where a basic read-only page displaying queued jobs was added and more capabilities were added in subsequent releases. 
+- Ship a feature through the API and not the UI -  [See this release post](https://about.gitlab.com/releases/2022/09/22/gitlab-15-4-released/#graphql-api-endpoint-for-deleting-attachments-from-project) as a great example of this approach was used to build a GraphQL endpoint for deleting attachment from a project.
+- Exposing a minimal set of functionality  - [See this release post](https://about.gitlab.com/releases/2022/11/22/gitlab-15-6-released/#admin-area-runners-job-queued-and-duration-times) where a basic read-only page displaying queued jobs was added and more capabilities were added in subsequent releases.
 
 There are scenarios when an MVC approach is not advised. These include:
 - When changing core parts of the experience - An example of a core experience is [comments](https://docs.gitlab.com/ee/user/discussions/#comments-and-threads). When building this out for work items, we waited to release the new feature to end users until we reached parity with comments in Issues and MRs.
 
 ### Iteration
 
-An MVC approach is a byproduct of our spirit of iteration. That means we [break problems down](/handbook/product-development-flow/#build-phase-1-plan) as [small as possible](/handbook/values/#make-small-merge-requests), use [merge request rate as a performance indicator](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#development-department-mr-rate), and focus on [reduced cycle time](/handbook/values/#reduce-cycle-time). Thinking iteratively is not always intuitive, and breaking certain topics or projects down can be challenging. Here's a helpful [video](https://www.youtube.com/watch?v=zwoFDSb__yM) from our CEO with guidance on how to think more iteratively.
+An MVC approach is a byproduct of our spirit of iteration. That means we [break problems down](/handbook/product-development-flow/#build-phase-1-plan) as [small as possible](/handbook/values/#make-small-merge-requests), use [merge request rate as a performance indicator](/handbook/engineering/development/performance-indicators/#development-department-mr-rate), and focus on [reduced cycle time](/handbook/values/#reduce-cycle-time). Thinking iteratively is not always intuitive, and breaking certain topics or projects down can be challenging. Here's a helpful [video](https://www.youtube.com/watch?v=zwoFDSb__yM) from our CEO with guidance on how to think more iteratively.
 
 Here is a [great video](https://www.youtube.com/watch?v=MwHHErfX9hI) that illustrates how to build MVCs using Iteration. It shows Lego climbing obstacles. The first design fails. The second one can climb a book and so on. It also illustrates how modularity and good interfaces help with iteration as things get complex.
 
@@ -111,6 +111,8 @@ Our customers choose SaaS because it reduces their operating costs, helps them a
 - Release features in SaaS alongside self-managed or earlier
 - Design features so that they can be implemented in SaaS without downtime. If each team does a rearchitecture once every 2 years that requires downtime, then, as of this writing, it would imply 20 downtimes a year.
 - Involve infrastructure team early in your design process to ensure that not only is there no downtime, but that the deployment to SaaS can be low toil.
+
+SaaS First does not mean SaaS only. For more information on parity between SaaS and self-managed, see our parity principle: #parity-between-saas-and-self-managed-deployments
 
 #### Feedback issues
 
@@ -186,7 +188,7 @@ You should prefer well-considered choices based on current best practices. Avoid
 When considering adding new configuration, we follow the following principles:
 
 - **Ensure a great experience by default** - GitLab should work perfectly right out of the box for most users. While it should be resisted, sometimes configuration is inevitable or preferable. Your configuration must not make that [experience worse](https://gitlab.com/gitlab-org/gitlab/issues/14432) and should always _get out of the way of the user_.
-    - **GitLab.com values should be the default** - the settings used on GitLab.com should be the defaults for self-managed. Not only does this provide a consistent experience for users, but we get the highest fidelity feedback via GitLab.com. If we find that the GitLab.com setting is wrong, it is usually wrong for self-managed too. If you believe you have a strong case for using custom (non-default) settings for Gitlab.com, please document the justification in alignment with your Product Section Lead. Any custom (non-default) settings for GitLab.com need to be [tracked here](https://docs.gitlab.com/ee/user/gitlab_com/).
+    - **GitLab.com values should be the default** - the settings used on GitLab.com should be the defaults for self-managed. Not only does this provide a consistent experience for users, but we get the highest fidelity feedback via GitLab.com. If we find that the GitLab.com setting is wrong, it is usually wrong for self-managed too. If you believe you have a strong case for using custom (non-default) settings for GitLab.com, please document the justification in alignment with your Product Section Lead. Any custom (non-default) settings for GitLab.com need to be [tracked here](https://docs.gitlab.com/ee/user/gitlab_com/).
 - **Encourage favorable behaviors by limiting configuration** - Convention also implies that we're encouraging our customers to do things
 in a certain way. A very concrete example of this is the ability to disable pipelines. We believe that our integrated solution will give a superior user experience and we're motivated to encourage this behavior. For this reason, adding a configuration to allow disabling this permanently (be that in a template or instance-wide), is something that should be avoided.
 - **Design for users not intermediaries** - GitLab should avoid falling into the [Blackboard trap](https://twitter.com/random_walker/status/1182637292869115904) of building a product that administrators of GitLab love because it is configurable, but developers and other users of GitLab hate because it is overly complex and confusing.
@@ -207,7 +209,7 @@ Sometimes fast deployments are needed to fix a service or application outage tha
 
 #### Parity between SaaS and Self-managed deployments
 
-We want to provide the same capabilities to end users regardless of the method they choose to use GitLab (GitLab SaaS or Self-managed). At the same time, we believe in the power of a [single code base](/handbook/product/single-application/#single-codebase). Therefore we strive to maintain feature parity between SaaS and Self-managed installations. 
+We want to provide the same capabilities to end users regardless of the method they choose to use GitLab (GitLab SaaS or Self-managed). At the same time, we believe in the power of a [single code base](/handbook/product/single-application/#single-codebase). Therefore we strive to maintain feature parity between SaaS and Self-managed installations.
 
 In line with our [SaaS-first](#saas-first) principle, some features may be released on SaaS to gain operational experience prior to recommending and supporting customers using it. All features will eventually be made available across SaaS and self-managed once those learnings have been applied.
 
@@ -272,7 +274,7 @@ If the decision to add a configuration follows the [principles above](/handbook/
 
 #### Every feature is owned by a group
 
-Features should be owned by one group, including the respective DRIs of that group. Make sure that the documentation metadata and the `features.yml` for your team are kept up to date to make it easier for other teams to find the correct owner. 
+Features should be owned by one group, including the respective DRIs of that group. Make sure that the documentation metadata and the `features.yml` for your team are kept up to date to make it easier for other teams to find the correct owner.
 
 This principle is important because unowned product features are unsupervised, and continue to accrue technical debt over time. This increases the risk of performance and maintenance issues, which tend to only get resolved once the situation has become critical. In addition, by having clear DRIs for our entire surface area, teams are able to advocate for investment and/or removal of features. If you encounter a feature that does not seem to be owned or documented, work with the team that originally introduced the functionality to decide on ownership. If the feature is large and needs to be broken down, document which elements are owned by which team. If you cannot decide who should own the feature, escalate the decision to the lowest common reporting line between the involved teams. If there are features that no group wants to own, or features that a group no longer wants to own, that feature should be considered for deprecation and removal.
 
@@ -314,7 +316,7 @@ planning aspirationally means that we won't always be able to deliver everything
 that we wanted to try in every release, and similar to our [OKRs](/handbook/ceo/#three-levels-of-performance),
 we believe this is a good thing. We don't want to shy away from challenging
 ourselves and always want to keep a sense of urgency, and aiming for more helps
-us do that. Also see [the importance of velocity](https://about.gitlab.com/handbook/engineering/development/principles/#the-importance-of-velocity)
+us do that. Also see [the importance of velocity](/handbook/engineering/development/principles/#the-importance-of-velocity)
 
 We arrived at our preference for ambitious planning after measuring our velocity and finding that our velocity was unchanged whether we scheduled ambitiously or scheduled for providing slack.
 
@@ -619,7 +621,7 @@ And for **developers of GitLab** including the third parties, this has significa
 1. Their work isn't limited in functionality, because they're changing the code of the product itself.
 1. Their code will be tested along with the rest of the product as things change refactoring is easier, reducing the likelihood that it suffers from [software atrophy](https://vijay.tech/articles/wiki/SoftwareEngineering/SoftwareAtrophyAnExample) because something is hard to change.
 1. Community effort is not wasted on developing multiple plugins that all ultimately do the same thing and compete with each other for usage.
-1. Developers don't have to sacrifice [velocity in favor of predictability](https://about.gitlab.com/handbook/engineering/development/principles/#velocity-over-predictability), since they don't have to worry about breaking the plugin API.
+1. Developers don't have to sacrifice [velocity in favor of predictability](/handbook/engineering/development/principles/#velocity-over-predictability), since they don't have to worry about breaking the plugin API.
 
 Overall, we believe that this approach creates the best possible experience for both the users of and the contributors to GitLab, and to that end we encourage people to [contribute functionality to GitLab directly](/community/contribute/).
 
@@ -681,7 +683,7 @@ use eventually, even if they're not ready to today.
 
 #### Prioritize current adopters
 
-By focusing on next-generation development flows, personas, and use cases - we build features and experiences where our initial users are in the relatively small population of early adopters. While we might build experiences to support them today, we presume there will always be a much larger population of future users of these experiences. Therefore, we optimize GitLab to support the larger number of current and future adopters of next-generation principles - those who are beginning to operate in the workflow (modern), team setup (developer first), or application architectures (cloud native) we support. We focus our investment in the most modern workflows that will best support those current adopters. This will come at the cost of sustained investment in initial workflows for early adopters. When doing so we will ensure we clearly communicate with our users what the preferred path is. 
+By focusing on next-generation development flows, personas, and use cases - we build features and experiences where our initial users are in the relatively small population of early adopters. While we might build experiences to support them today, we presume there will always be a much larger population of future users of these experiences. Therefore, we optimize GitLab to support the larger number of current and future adopters of next-generation principles - those who are beginning to operate in the workflow (modern), team setup (developer first), or application architectures (cloud native) we support. We focus our investment in the most modern workflows that will best support those current adopters. This will come at the cost of sustained investment in initial workflows for early adopters. When doing so we will ensure we clearly communicate with our users what the preferred path is.
 
 For example - We first provided the ability to attach Kubernetes Clusters via the Certificate method. After realizing this wasn't optimal for production use cases we added the GitLab Agent for Kubernetes method of cluster attachment. As soon as we were certain that the certificate method was no longer the preferred method we communicated via our docs and in the product that the Agent was the preferred path for current adopters. This should not mean an immediate [deprecation](https://docs.gitlab.com/ee/development/deprecation_guidelines/), but a clear signal that the legacy method will become deprecated once the alternative approach is able to substitute it.
 

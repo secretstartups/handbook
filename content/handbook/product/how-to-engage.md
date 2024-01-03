@@ -68,7 +68,7 @@ If a customer expresses interest by simply mentioning an issue number or e.g. "a
 
 The Product Manager is responsible for figuring all of this out, but being one step ahead of them will speed things up.
 
-If a customer is a member of our Product [Customer Advisory Board](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/CAB/), the CSM should add two labels: `~CAB Takeaway` and `~CAB Takeaway Qx FY20xx` to the issue.
+If a customer is a member of our Product [Customer Advisory Board](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/CAB/), the CSM should add two labels: `~CAB Takeaway` and `~CAB Takeaway Qx FY20xx` to the issue.
 
 It is highly recommended to use the feedback template below to make this easier.
 
@@ -83,7 +83,7 @@ You can copy/paste this to make sure you don't miss anything or [create a commen
 The following ~customer is interested in this capability 
 
 - Subscription: ~"GitLab Ultimate" OR ~"GitLab Premium" OR ~"GitLab Free" 
-- Product: ~"self-managed" OR ~SaaS 
+- Product: ~"self-managed" OR ~SaaS OR ~"SaaS Dedicated"
 - Link to request:
 - Priority: ~customer priority::
 - Why interested:
@@ -114,15 +114,15 @@ These dashboards represent the relative importance of a given issue to the speci
 
 #### Customer collaboration projects
 
-Customers that are assigned a Customer Success Manager typically have a [collaboration project](https://about.gitlab.com/handbook/customer-success/csm/customer-collaboration-project/) on GitLab.com, which is used to share information, document customer details, and track issues in a place that both the GitLab team and the customer's team can access.
+Customers that are assigned a Customer Success Manager typically have a [collaboration project](/handbook/customer-success/csm/customer-collaboration-project/) on GitLab.com, which is used to share information, document customer details, and track issues in a place that both the GitLab team and the customer's team can access.
 
 Generally, CSMs maintain a main issue and/or enable the [CS-Tool - TAM issue tracker](https://gitlab.com/gitlab-com/cs-tools/gitlab-cs-tools/tam-issue-tracking), which lists out all feature requests the customer is interested in with links to the public GitLab issue.
 
-When a customer expresses interest in a feature, the CSM should capture that in the public GitLab issue, as well as add it as an entry in the main feature tracking issue of the [customer's collaboration project](https://about.gitlab.com/handbook/customer-success/csm/customer-collaboration-project/).
+When a customer expresses interest in a feature, the CSM should capture that in the public GitLab issue, as well as add it as an entry in the main feature tracking issue of the [customer's collaboration project](/handbook/customer-success/csm/customer-collaboration-project/).
 
 The feature tracking issue should be maintained regularly by updating priority (elaborated on below) and milestones as the single source of truth on customer product needs. It can also be used for reviewing metrics of previously delivered feature requests.
 
-If there is a lot of discussion with the customer about a specific feature request, create an issue on the customer [collaboration project](https://about.gitlab.com/handbook/customer-success/csm/engagement/) about it and list that issue as a related issue on the main GitLab issue. This is another signal of the main product issue of customer interest and also allows discussion with the customer and internal GitLab team members about their needs and concerns.
+If there is a lot of discussion with the customer about a specific feature request, create an issue on the customer [collaboration project](/handbook/customer-success/csm/engagement/) about it and list that issue as a related issue on the main GitLab issue. This is another signal of the main product issue of customer interest and also allows discussion with the customer and internal GitLab team members about their needs and concerns.
 
 #### How do I escalate a feature request?
 
@@ -130,7 +130,7 @@ If you have followed the process of creating/commenting on issues and have not g
 
 If a customer has identified an issue that is high priority for them, such as a work-stoppage bug or a feature required for the customer to meet a deadline, follow the expected steps for logging and tracking customer feature requests above by adding the customer's interest in a GitLab issue and including it in the collaboration project issue. In addition, [reach out to the Product Manager](/handbook/product/how-to-engage/#where-to-reach-product-managers) who is [responsible for the corresponding group](/handbook/product/how-to-engage/#which-product-manager-should-i-contact) and discuss it with them directly. A general idea of high priority is that the customer needs a particular feature as soon as possible.
 
-**Critical Priority Requests** are extremely rare, but, when they occur, they are agreed upon by both Product and Engineering, with the CSM facilitating the request. If a customer is unable to continue using GitLab without a specific feature, the CSM should begin the [triaging the account](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/), follow the process to indicate customer interest in the issue, then set up regular check-ins with the Product and Engineering teams to assess the status of the feature, expectations, and potential secondary plans. For the product & engineering process, please refer to the details of a [critical customer merge request](https://docs.gitlab.com/ee/development/code_review.html#customer-critical-merge-requests).
+**Critical Priority Requests** are extremely rare, but, when they occur, they are agreed upon by both Product and Engineering, with the CSM facilitating the request. If a customer is unable to continue using GitLab without a specific feature, the CSM should begin the [triaging the account](/handbook/customer-success/csm/health-score-triage/), follow the process to indicate customer interest in the issue, then set up regular check-ins with the Product and Engineering teams to assess the status of the feature, expectations, and potential secondary plans. For the product & engineering process, please refer to the details of a [critical customer merge request](https://docs.gitlab.com/ee/development/code_review.html#customer-critical-merge-requests).
 
 ### Why do product teams prefer we ask about the problem rather than the solution?
 
@@ -221,21 +221,13 @@ Following the process described below will ensure that customer interest in feat
 
 ## Product Joining Customer Calls
 
-It can be very helpful for both Product and customers to be on a call together to discuss feedback, roadmaps, etc.
+It can be very helpful for both Product and customers to be on a call together to discuss feedback, roadmaps, etc. Take the following steps to ensure an efficient and productive meeting:
 
-It is best practice to ask for a PM to join your call through the slack channel for their [group or category](/handbook/product/categories/#devops-stages). Direct messages are problematic because it is hard to loop in other PMs if the right person for the call is not included in the DM, and it limits visibility into topics that may be discussed. If you are unsure about the right group to reach out to, you can ask in the general [#product](https://gitlab.slack.com/archives/C0NFPSFA8) channel.
-
-When including a member of the Product team on the call it is important that they have as much information and context as possible in advance. In order for the call to be successful it is important that you collect and share as much context as possible from all attendees in advance.
-
-Also make sure you have a detailed agenda set at least 24 hours before the call that is shared with both the customer and the Product team.
-
-Take the following steps to ensure an efficient and productive meeting:
-
-### Collecting Customer Context
+### Collect Customer Context
 
 In advance to the product call, have a conversation with the customer about expectations and their background.
 
-Ask the following questions as applicable:
+Ask the following questions, as applicable:
 
    - What features and/or functionality do they want to discuss?
    - How familiar are they with those features and/or functionality?
@@ -244,27 +236,18 @@ Ask the following questions as applicable:
    - Are they more interested in an overview of the functionality that already exists or in future roadmap functionality?
    - What are their goals for this call?
 
-### Prep the PM
+### Contact the Appropriate PM
 
-Once you have the context from the customer, share it with Product as soon as possible, so they have the appropriate background going into the call.
+It is best practice to ask for a PM to join your call through the slack channel for their [group or category](/handbook/product/categories/#devops-stages). Direct messages are problematic because it is hard to loop in other PMs if the right person for the call is not included in the DM, and it limits visibility into topics that may be discussed. If you are unsure about the right group to reach out to, you can ask in the general [#product](https://gitlab.slack.com/archives/C0NFPSFA8) channel.
 
-Ideally, provide them as much of the following details as possible:
+Before reaching out to the PM, fill out the [PM Customer Meeting Briefing Document](https://docs.google.com/document/d/1TPJwjJTOrlrtuJ_srs631ndL6dkiwl9yIi3PPtgStos/edit#heading=h.sujaka5bd7jl) and send it to the PM along with your request. The PM will review the doc and let you know if they are able to attend the meeting. PMs may decline meeting requests if they do not receive the context doc or if it is only partially complete. We recommend sending this context along with your request at least 3 business days before the meeting. The PM will review the document and provide feedback to ask for further clarity if needed.
 
-   - Are they Ultimate, Premium, or Free users?
-   - Do they have SaaS or self-managed, and if self-managed what version are they on?
-   - One-sentence summary of customer health
-   - Link to the running customer meeting notes Google doc
-   - Who will be attending the call and their role/persona
-   - What do they want to talk about?
-   - List of specific questions the customer has
-   - Do they want a forward-looking roadmap?
-   - Are they interested in specific issues/topics?
-   - What are they trying to accomplish on the call?
-   - What is their general attitude?  Are they friendly, curious, frustrated, or angry?
+In addition, once the call is scheduled, make sure you have a detailed agenda set at least 24 hours before the call that is shared with both the customer and the Product team.
+
 
 ### EBR Preparation
 
-CSMs regularly hold [Executive Business Reviews](https://about.gitlab.com/handbook/customer-success/csm/ebr/) with their customers and often request involvement from Product Managers. When a CSM is looking for Product involvement, they will reach out to the PM (in their group Slack channel) with the date, time, and desired topic.
+CSMs regularly hold [Executive Business Reviews](/handbook/customer-success/csm/ebr/) with their customers and often request involvement from Product Managers. When a CSM is looking for Product involvement, they will reach out to the PM (in their group Slack channel) with the date, time, and desired topic.
 
 The CSM will involve the PM in preparation for the EBR, working with them to ensure expectations of content, timing, and desired outcomes are fully established.
 
@@ -293,7 +276,7 @@ When a support request is opened, labels will automatically be assigned to categ
 Three fields are particularly important when triaging requests:
 
 - Priority: How time critical the request is, `urgent` requests should be treated with a high priority
-- Impact: Potential impact to the business, based on [total contract value (TCV)](https://about.gitlab.com/handbook/sales/sales-term-glossary/)
+- Impact: Potential impact to the business, based on [total contract value (TCV)](/handbook/sales/sales-term-glossary/)
 - Stage: Which stage the request relates to
 
 All Product Managers should ensure they are set up to receive label notifications for their respective stages:

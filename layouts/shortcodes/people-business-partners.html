@@ -1,25 +1,17 @@
-{{ $dataURL := printf "https://gitlab.com/gitlab-com/www-gitlab-com/-/raw/master/data/people_group/people_business_partners.yml"}}
-{{ with resources.GetRemote $dataURL }}
-  {{ with .Err}}
-    <h2>Unable to fetch performance indicator Data</h2>
-  {{ else }}
-      {{ $data := . | transform.Unmarshal }}
-      
-      <table style="display: table; width: 50%;">
-          <thead>
-              <tr>
-                  <th>Contact</th>
-                  <th>Division - Department</th>
-              </tr>
-          </thead>
-          <tbody>
-              {{ range $data }}
-              <tr>
-                  <td>{{ .name }}</td>
-                  <td>{{ .present }}</td>
-              </tr>
-              {{ end }}
-          </tbody>
-      </table>
-  {{ end }}
-{{ end }}
+{{ $peopleBusinessPartners := partials.IncludeCached "data/people-business-partners" page }}
+<table style="display: table;">
+    <thead>
+        <tr>
+            <th style="width: 30%;">Contact</th>
+            <th>Division - Department</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{ range $peopleBusinessPartners }}
+        <tr>
+            <td>{{ partial "member-by-name" .name }}</td>
+            <td>{{ .present }}</td>
+        </tr>
+        {{ end }}
+    </tbody>
+</table>

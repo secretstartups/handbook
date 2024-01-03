@@ -32,13 +32,13 @@ This workflow is to request a review of an Abuse Report.  All blocked accounts s
 
 1. They are verified to belong to the group/project they are requesting information about.
    - In some instances we can provide limited information to non project members who reported legitimate abusive activity.
-   - The content or information regarding the reported activity/content is still available on Gitlab.com.
+   - The content or information regarding the reported activity/content is still available on GitLab.com.
 
 ### An Abuse Report review request **cannot** be submitted when
 
 1. The requesting account has been blocked.
-   - If the account owner is requesting access to the account to retrieve information, follow the [Reinstating Blocked Accounts](/handbook/support/workflows/reinstating-blocked-accounts.html) workflow instead.
-1. Namespace or Trademark Disputes - [Workflow](/handbook/support/workflows/information-request.html#namespace-and-trademark-claims)
-1. Ownership Dispute Policy - [Workflow](/handbook/support/workflows/information-request.html#ownership-disputes )
+   - If the account owner is requesting access to the account to retrieve information, follow the [Reinstating Blocked Accounts](/handbook/support/workflows/reinstating-blocked-accounts) workflow instead.
+1. Namespace or Trademark Disputes - [Workflow](/handbook/support/workflows/information-request#namespace-and-trademark-claims)
+1. Ownership Dispute Policy - [Workflow](/handbook/support/workflows/information-request#ownership-disputes )
 1. Continued Abuse from an already reported account ie:  The person(s) are creating multiple accounts to circumvent a block or evade detection.
    - A detailed abuse report can be sent to <abuse@gitlab.com> and must be sent from an attended mailbox.

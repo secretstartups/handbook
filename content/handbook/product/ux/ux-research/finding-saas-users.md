@@ -1,14 +1,7 @@
 ---
-
 title: "Finding SaaS users"
 description: "How we target SaaS research participants to meet specific criteria"
 ---
-
-
-
-
-
-
 
 ## Finding SaaS (GitLab.com) users
 
@@ -17,6 +10,7 @@ description: "How we target SaaS research participants to meet specific criteria
 We have a variety of methods for identifying and [recruiting participants for research studies](/handbook/product/ux/ux-research/recruiting-participants), including Respondent.io and recruiting via social media. However, there are situations where these methods aren't suitable and you need to be able to find users based on a very specific criteria backed by objective usage data rather than self-reported or inferred data. The best way to do this is to take advantage of the usage and demographic data we have in our data warehouse.
 
 **A non-exhaustive list of examples of when finding users via the data warehouse would be appropriate:**
+
 - You are looking for users with a certain volume of usage of a feature or stage rather than simply being users of a stage
 - You are looking for users that have interacted with a specific type of object or content on GitLab (ex: epics, snippets, wiki, etc.)
 - You need to understand the broader context of the group or project the user is working within (ex: users in groups with less than 30 users, users in Gold plan groups, users in projects with no repository usage)
@@ -24,7 +18,7 @@ We have a variety of methods for identifying and [recruiting participants for re
 ### Pre-requisites
 
 1. You query the data warehouse using Structured Query Language (SQL). There are countless guides to learning SQL available for free on the Web. There are many different flavors of SQL, and the one we use is [Snowflake](https://docs.snowflake.com/en/index.html). However, most basic functionality is consistent among the major variations of SQL, so don't feel like you need to seek out Snowflake-specific resources.
-1. In order to query the data warehouse, you'll need [Editor access](/handbook/business-technology/data-team/platform/periscope/#editor-access) to Sisense (formerly Periscope). This requires completing an [access request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/).
+1. In order to query the data warehouse, you'll need Editor access to Sisense (formerly Periscope). This requires completing an [access request](/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/).
 1. [Data for Product Managers](/handbook/business-technology/data-team/programs/data-for-product-managers/) provides an overview of how the gain access to the SQL Explorer in Sisense where you will write and execute your queries, as well as providing a high level over view of how the warehouse is structured.
 1. The Data team [documents individual data warehouse tables](https://dbt.gitlabdata.com/#!/overview) using a tool called dbt. Some tables are better documented and contain purpose descriptions and explanations of different columns, and some unfortunately do not. However, documentation does improve over time.
 
@@ -49,6 +43,7 @@ LIMIT 100
 ### Object Tables (projects, issues, merge requests, etc)
 
 We have a tables containing records for all of our "top level" objects in GitLab, among others:
+
 - projects
 - groups
 - issues

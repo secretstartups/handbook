@@ -45,7 +45,7 @@ Most challenges associated with all-remote L&D can be addressed at the [hiring s
 
 Clear communication is one of the best ways to overcome remote challenges.[GitLab's handbook]({{< ref "/handbook" >}}) captures everything an employee needs to know promoting autonomy and [efficiency]({{< ref "values#efficiency" >}}) for communication, processes, and procedures by putting everything in one place.
 
-Managers can set, share, and track team goals, or ["objectives and key results" (OKRs)]({{< ref "okrs" >}}) for visibility across the team and company.
+Managers can set, share, and track team goals, or ["objectives and key results" (OKRs)]({{< ref "/handbook/company/okrs" >}}) for visibility across the team and company.
 
 One potential downside for all-remote teams is having timely and adequate access to people and information. Managers can ensure everyone has the needed access to information by [documenting everything]({{< ref "values#write-things-down" >}}).
 
@@ -92,7 +92,7 @@ Hence, GitLab managers are [expected]({{< ref "structure#management-group" >}}) 
 
 One of the best ways to keep a remote team aligned is to regularly review the [Learning and Development Team's Purpose, Vision, Mission, and Objectives]({{< ref "/handbook/people-group/learning-and-development#overview" >}}).
 
-Gitlab's L&D team has a [regular meeting schedule]({{< ref "/handbook/people-group/learning-and-development#learning--development-team-meetings" >}}) to brainstorm, strategize, discuss and collaborate, assign tasks, review feedback or data, and assess progress on the team's strategy and roadmap.
+GitLab's L&D team has a [regular meeting schedule]({{< ref "/handbook/people-group/learning-and-development#learning--development-team-meetings" >}}) to brainstorm, strategize, discuss and collaborate, assign tasks, review feedback or data, and assess progress on the team's strategy and roadmap.
 
 ## What are some tips for building a successful remote team L&D program?
 
@@ -231,11 +231,11 @@ More Group Conversations are listed below.
 
 ### Key Monthly Reviews
 
-Learning and development occurs more naturally when team members are well-informed. If there are knowledge gaps in the company strategy, it's difficult to apply new learnings. Particularly in all-remote settings, it's important to make OKRs ([Objectives and Key Results]({{< ref "okrs" >}})) visible across the company.
+Learning and development occurs more naturally when team members are well-informed. If there are knowledge gaps in the company strategy, it's difficult to apply new learnings. Particularly in all-remote settings, it's important to make OKRs ([Objectives and Key Results]({{< ref "/handbook/company/okrs" >}})) visible across the company.
 
 This allows team members to educate themselves on what matters to each functional group, enabling new learnings to map to something tangible in their day-to-day work.
 
-Learn more about [GitLab's OKRs]({{< ref "okrs" >}}).
+Learn more about [GitLab's OKRs]({{< ref "/handbook/company/okrs" >}}).
 
 {{< youtube "FXpBol1TwiI" >}}
 

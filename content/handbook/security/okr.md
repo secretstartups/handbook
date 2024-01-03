@@ -4,7 +4,7 @@ title: "Security OKRs"
 
 ## Security OKRs
 
-The Security organization executes quarterly [Objectives and Key Results or OKRs]({{< ref "okrs" >}}).
+The Security organization executes quarterly [Objectives and Key Results or OKRs]({{< ref "/handbook/company/okrs" >}}).
 
 ### How We Plan, Assign, and Execute Work
 
@@ -12,7 +12,32 @@ Four Mondays before the start of the fiscal quarter, in the days after the CEO s
 
 From FY24 Q1 forward all Security OKRs are documented in the [GitLab OKR project](https://gitlab.com/gitlab-com/gitlab-OKRs). For easy filtering, all Security Objective and KR issues have [Label = Division: Security](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&label_name%5B%5D=Division%3A%20Security&first_page_size=100) applied.
 
-Larger initiatives that span the scope of multiple teams or projects may require a [Working Group]({{< ref "working-groups" >}}).
+Larger initiatives that span the scope of multiple teams or projects may require a [Working Group]({{< ref "/handbook/company/working-groups" >}}).
+
+KRs must be defined as SMART Goals, and have to have definition of done.
+
+Reminder: *SMART* stands for *Specific, Measurable, Achievable, Relevant, and Time-bound*.
+
+### Labels
+
+Labels are applied to our OKRs and KRs to ease grouping and search, but also to reflect their priority.
+
+Apply:
+
+- The `~Division: Security` label to both OKRs and KRs
+- The `FY<yy>-Q<x>` label to both OKRs and KRs
+- The `~OKR` label to OKRs only
+- The ~`sec-okr::p<x>` priority label (see below) to OKRs only
+
+#### Priority label
+
+We use the following labels to reflect the priority of our OKRs:
+
+The Priority [scoped](https://docs.gitlab.com/ee/user/project/labels.html#scoped-labels) label ranges from 0 to 2 and is applied to OKRs.
+
+- `sec-okr::p0`: 100% complete within the quarter RCA if not done
+- `sec-okr::p1`: 70% completed across the team/Objective, important
+- `sec-okr::p2`: Stretch (future P1 or P0, if we knock out P0/1 we will hit these)
 
 ### What does it mean to be a DRI for a KR?
 
@@ -41,8 +66,8 @@ Being a DRI for a KR includes:
 
 ## Milestones
 
-- [ ] Milestone 1: Description: `add here` Due Date: `add here` DRI: `add here`
-- [ ] Milestone 2: Description: `add here` Due Date: `add here` DRI: `add here`
+- [ ] Milestone 1: Description: `add here` DRI: `add here`
+- [ ] Milestone 2: Description: `add here` DRI: `add here`
 - etc.
 ```
 
@@ -52,18 +77,18 @@ Field updates:
 - Progress %
 - Health Status: On Track/Needs Attention/At Risk
 
-:scissors: Copy and paste the below into the GitLab.com KR Issue(s)
+:scissors: Copy and paste the below into the GitLab.com KR Issue(s) at the end of the week
 
 ```text
 ## Weekly KR Update for the week of YYYY-MM-DD
 
 ## What was accomplished this week
 
-- 
+-
 
 ## What will be accomplished next week
 
-- 
+-
 ```
 
 With `YYYY-MM-DD` being the beginning of the week (Monday, even if this day if a holiday or a Family and Friends day).

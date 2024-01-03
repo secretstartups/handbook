@@ -117,6 +117,13 @@ After they have verified it, do the following:
 - Reply to the ticket using macro `Support::Support-Ops::Deletion Forthcoming`
 - Delete the support account of the end-user
 
+If the user who is requesting to have their Zendesk account deleted has any
+tickets that are not yet closed (for example, the ticket they've made the
+deletion request in), you will need to close them via the API before you
+will be able to delete their user profile. For further guidance on how
+to do this, please see our API documentation on
+[how to change the status of a ticket to closed](/handbook/support/readiness/operations/docs/zendesk/api/#change-status-to-closed).
+
 #### Requested via account deletion issue
 
 If it is requested via an account deletion issue, locate the user in Zendesk

@@ -10,7 +10,7 @@ Welcome to the Billing Ops Handbook
 
 The Billing Operations Team is part of the Revenue Operations organization. Our Billing Team is responsible for the billing functions of our global account portfolio.
 
-**The Gitlab Billing Team comprises three regional teams:**
+**The GitLab Billing Team comprises three regional teams:**
 
 - Americas - West Region
 - Americas - East Region
@@ -35,9 +35,9 @@ Please see the internal [Wiki](https://gitlab.com/gitlab-com/Finance-Division/fi
 
 ### Helpful Links
 
-- [How to create an opportunity/build a quote?](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/)
-- [Order requirements](https://about.gitlab.com/handbook/sales/field-operations/order-processing/)
-- [Contacting the Legal team](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#process-for-agreement-terms-negotiations-when-applicable-and-contacting-legal)
+- [How to create an opportunity/build a quote?](/handbook/sales/field-operations/sales-operations/deal-desk/)
+- [Order requirements](/handbook/sales/field-operations/order-processing/)
+- [Contacting the Legal team](/handbook/sales/field-operations/order-processing/#process-for-agreement-terms-negotiations-when-applicable-and-contacting-legal)
 - [Questions about licenses and plans]({{< ref "/handbook/support/internal-support#common-internal-requests---sales-team--customer-success-managers--accounts-receivable" >}})
 - [Zuora Billing Tech Stack Guide]({{< ref "zuora-billing" >}})
 
@@ -88,7 +88,7 @@ See also: [Internal Billing Checklist](https://gitlab.com/gitlab-com/Finance-Div
 
 Salesforce is used for sourcing customers, creating quotes, and housing all customer information and supporting documentation. The Billing Team utilizes SFDC to view all related customer documentation and account information.
 
-See also: [Business Operations - Salesforce Reference](https://about.gitlab.com/handbook/sales/field-operations/sfdc/)
+See also: [Business Operations - Salesforce Reference](/handbook/sales/field-operations/sfdc/)
 
 ### Zuora
 
@@ -108,7 +108,7 @@ See also: [Business Operations - Salesforce Reference](https://about.gitlab.com/
 
 Zendesk is our support queue for customer inquiries. Each case is then converted into a Zendesk ticket and filtered into a `View`, ordered by category. As part of their daily workflow, the Billing Operations Team monitor these views and process tickets through completion.
 
-See also: [Zendesk](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/zendesk/)
+See also: [Zendesk](/handbook/marketing/developer-relations/workflows-tools/zendesk/)
 
 ## How to get Help
 
@@ -188,7 +188,7 @@ Section 6. PAYMENT OF FEES, article 6.7 in our standard terms of service.
 
 > 6.7 Any unpaid Fees are subject to a finance charge of one percent (1.0%) per month, or the maximum permitted by law, whichever is lower, plus all expenses of collection, including reasonable attorneys’ fees. Fees under this Agreement are exclusive of any and all taxes or duties, now or hereafter imposed by any governmental authority, including, but not limited to any national, state or provincial tax, sales tax, value-added tax, property and similar taxes, if any. Fees under this Agreement shall be paid without any withholding or deduction. **In the case of any deduction or withholding requirements, Customer will pay any required withholding itself and will not reduce the amount to be paid to GitLab on account thereof.**
 
-You can view our GitLab Subscription Agreement [here](https://about.gitlab.com/handbook/legal/subscription-agreement/)
+You can view our GitLab Subscription Agreement [here](/handbook/legal/subscription-agreement/)
 
 </details>
 
@@ -265,7 +265,7 @@ As a global company, GitLab has locations around the world.
 - GitLab GmbH in Germany
 - GitLab PTY LTD in Australia
 
-[Quote Entity Information](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#quote-entity-information)
+[Quote Entity Information](/handbook/sales/field-operations/sales-operations/deal-desk/#quote-entity-information)
 
 **Note:** all initial web direct subscriptions ordered through the portal are placed on the US entity.
 

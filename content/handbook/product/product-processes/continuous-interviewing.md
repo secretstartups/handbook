@@ -37,7 +37,7 @@ The following is a non-exhaustive list of approaches to finding customers open t
 - Continuously communicate to the customer success team that we are open to customer calls, but make it clear that these are customer interviews, not sales calls. Use the #customer-success Slack channel or open a [CSM project issue](https://gitlab.com/gitlab-com/customer-success/tam/-/issues/new?issueable_template=Product%20Engagement)
     - Attend monthly Customer Success Managers (CSM) meetings and make requests for continuous interviews within their Google Doc agenda
     - Set up coffee chats with CSMs to discuss continuous interviewing requests
-- Additional resources for [participant recruitment through UX Research](https://about.gitlab.com/handbook/engineering/ux/ux-research/recruiting-participants/)
+- Additional resources for [participant recruitment through UX Research](/handbook/engineering/ux/ux-research/recruiting-participants/)
 
 #### Tips for leading continuous interviews
 

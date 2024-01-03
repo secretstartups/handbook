@@ -25,7 +25,7 @@ The Renewal Operations team is responsible for building, maintaining and optimiz
 - Ensure an exceptional level of data quality within tools and systems
 - Identify, build and iterate process improvements to improve account management effectiveness
 
-Find more information about how we drive the above initiatives on the [Renewals Managers - What we Do](https://about.gitlab.com/handbook/customer-success/renewals-managers/what/) page
+Find more information about how we drive the above initiatives on the [Renewals Managers - What we Do](/handbook/customer-success/renewals-managers/what/) page
 
 
 Below is a breakdown of the 4-part [Renewal Operations Strategy](https://docs.google.com/document/d/1W63d98cMVXfMvqAey8vbd2JRlfOWHLK-Yu23hhZQGTI/edit#heading=h.xion0u9mlv5c).
@@ -48,6 +48,7 @@ Below is a breakdown of the 4-part [Renewal Operations Strategy](https://docs.go
 | ------ | ------ |
 | [John Budreski](https://gitlab.com/jbudreski ) | [Manager, Renewal Operations](/job-families/sales/renewal-operations-analyst/#manager-renewal-operations-requirements) |
 | [Heather Kacmarski](https://gitlab.com/hkacmarski) | [Renewal Operations Analyst](/job-families/sales/renewal-operations-analyst/) |
+| [Laura Simmons](https://gitlab.com/simmons-laura) | [Renewal Operations Analyst](/job-families/sales/renewal-operations-analyst/) |
 
 ## Get in Touch
 
@@ -57,7 +58,7 @@ Head over to [#renewal-ops](https://join.slack.com/share/enQtNDQwMzIxMzIzNzQ2Mi1
 
 Renewal Operations supports the Renewals, Success and Sales Teams: Directors & Area Sales Managers, Renewals Managers, Account Executives, Strategic Account Executives and collaborates with Customer Success Operations, Sales Operations and Sales Strategy.
 
-[**Renewals Team**](https://about.gitlab.com/handbook/customer-success/renewals-managers/home/) is Renewal Operations’ direct focus, our primary customers are Renewals leaders; the insights, strategies, and actionable campaigns are built to assist the Renewal Managers and Account Executives with the renewal process.  Renewals Operations provides intelligent insights for the large amount of upcoming renewals managed by Account Teams to allow a more focused approach.
+[**Renewals Team**](/handbook/customer-success/renewals-managers/home/) is Renewal Operations’ direct focus, our primary customers are Renewals leaders; the insights, strategies, and actionable campaigns are built to assist the Renewal Managers and Account Executives with the renewal process.  Renewals Operations provides intelligent insights for the large amount of upcoming renewals managed by Account Teams to allow a more focused approach.
 
 **Customer Success Operations** helps organize and collect pertinent product usage, and  customer health data that the Renewal Operations Team uses to identify insights and engagement strategies. For example, creating automated one-to-many campaigns in Gainsight to support product adoption.
 
@@ -71,11 +72,11 @@ The Renewal Operations team primary focus is to support the Global Renewals team
 
 To reach out to Renewal Operations within Salesforce simply @ mention @Renewal-Ops in chatter on the relevant Opportunity or Account. Renewal Operations can assist with:
 
-- Territory Assignment Questions or Corrections ([for a Territory Change Request please follow the instructions here](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#territory-ownership-renewals-managers))
+- Territory Assignment Questions or Corrections ([for a Territory Change Request please follow the instructions here](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#territory-ownership-renewals-managers))
 - Renewal Manager Opportunity Assignment
 - Renewal Ownership (Tier) Re-assignment
-- [Renewal Forecast](https://about.gitlab.com/handbook/customer-success/renewals-managers/what/#forecasting) field updates
-- [Closed Details](https://about.gitlab.com/handbook/customer-success/renewals-managers/what/#analytics) updates
+- [Renewal Forecast](/handbook/customer-success/renewals-managers/what/#forecasting) field updates
+- [Closed Details](/handbook/customer-success/renewals-managers/what/#analytics) updates
 - Renewal Forecast guidance
 - Complex Opportunity management guidance
 - Renewal Manager Opportunity Split
@@ -84,11 +85,11 @@ To reach out to Renewal Operations within Salesforce simply @ mention @Renewal-O
 
 ### Quoting, Approvals and Bookings
 
-For questions on Quoting, Approvals, Opportunity Booking or Opportunity data quality refer to the [Sales Order Processing Handbook Page](https://about.gitlab.com/handbook/sales/field-operations/order-processing/) or reach out to [Deal Desk via chatter by @ mention to @Sales-Suport](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#communicating-with-the-deal-desk-team)
+For questions on Quoting, Approvals, Opportunity Booking or Opportunity data quality refer to the [Sales Order Processing Handbook Page](/handbook/sales/field-operations/order-processing/) or reach out to [Deal Desk via chatter by @ mention to @Sales-Suport](/handbook/sales/field-operations/sales-operations/deal-desk/#communicating-with-the-deal-desk-team)
 
 ### Compensation
 
-For Compensation related questions please reach out to @Sales-Comp on chatter. Renewal Operations does not approve Churn exception requests, to request a Churn exception [please follow the process outlined here.](https://about.gitlab.com/handbook/customer-success/renewals-managers/how/#churn-exceptions).
+For Compensation related questions please reach out to @Sales-Comp on chatter. Renewal Operations does not approve Churn exception requests, to request a Churn exception [please follow the process outlined here.](/handbook/customer-success/renewals-managers/how/#churn-exceptions).
 
 ## Renewal Operations Process Cadences
 

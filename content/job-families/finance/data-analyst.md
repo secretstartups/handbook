@@ -209,7 +209,7 @@ The requirements of the Staff Data Analyst extend the Senior Data Analyst role a
 - Assist with data driven planning and strategy
 - Focus on cross-functional analysis that can help drive marketing conversations
 - Reports to [Director of Marketing Strategy and Performance](/job-families/marketing/marketing-strategy/#director-marketing-strategy) working closely with the Chief Marketing Officer
-- Member of the [Marketing Strategy and Performance Team](https://about.gitlab.com/handbook/marketing/strategy-performance/)
+- Member of the [Marketing Strategy and Performance Team](/handbook/marketing/strategy-performance/)
 
 #### Web Analyst
 
@@ -225,7 +225,7 @@ The requirements of the Staff Data Analyst extend the Senior Data Analyst role a
 - 3+ years experience Google Analytics (or related tool), Google Search Console and experience with at least one SEO tool.
 - Technical/industry experience focused on SEO online advertising to improve lead generation, sales pipeline, and revenue.
 - Reports to [Director of Marketing Strategy and Performance](/job-families/marketing/marketing-strategy/#director-marketing-strategy) working closely with the Chief Marketing Officer
-- Member of the [Marketing Strategy and Performance Team](https://about.gitlab.com/handbook/marketing/strategy-performance/)
+- Member of the [Marketing Strategy and Performance Team](/handbook/marketing/strategy-performance/)
 
 ### People
 

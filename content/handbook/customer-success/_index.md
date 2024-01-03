@@ -6,7 +6,7 @@ description: >-
   partners with our customers to deliver value and positive business outcomes throughout
   their journey with GitLab
 ---
-The Customer Success department is part of the [GitLab Sales](https://about.gitlab.com/handbook/sales/) function who partners with our customers to deliver value and positive business outcomes throughout their journey with GitLab.
+The Customer Success department is part of the [GitLab Sales](/handbook/sales/) function who partners with our customers to deliver value and positive business outcomes throughout their journey with GitLab.
 
 The team can be reached in [Slack channel](https://gitlab.slack.com/archives/customer-success) (internal only).
 
@@ -28,7 +28,7 @@ To deliver value to all customers by engaging in a consistent, repeatable, scala
 
 ## Vision Page
 
-The ["Customer Success Vision Page"](https://about.gitlab.com/handbook/customer-success/vision/) provides the long-term view of company wide success to which the customer success will be building in partnership with the value centers of the GitLab organization (i.e., Marketing, Sales, Product/Engineering, Support, Finance and IT).
+The ["Customer Success Vision Page"](/handbook/customer-success/vision/) provides the long-term view of company wide success to which the customer success will be building in partnership with the value centers of the GitLab organization (i.e., Marketing, Sales, Product/Engineering, Support, Finance and IT).
 
 ## Department Initiatives
 
@@ -60,56 +60,56 @@ Utilizing built-in monitoring instrumentation and [a scalable HA architecture](h
 
 ## Customer Success Playbooks
 
-See the [Playbooks Page](https://about.gitlab.com/handbook/customer-success/playbooks/)
+See the [Playbooks Page](/handbook/customer-success/playbooks/)
 
 ## Customer Terrain Mapping Engagements
 
 Terrain Mapping discovery engagements provide customers with the benefit of GitLab's experience with DevOps methodologies, Git, GitLab, CI, CD and monitoring by brainstorming a high level, first draft discovery of the elements of a success plan to address various challenges. They are also mapped to professional services that can help with some of the elements identified in the engagement.
 
-See the [Terrain Mapping Engagements Page](https://about.gitlab.com/handbook/customer-success/customer-terrain-mapping/)
+See the [Terrain Mapping Engagements Page](/handbook/customer-success/customer-terrain-mapping/)
 
 ## Customer Success Groups
 
 ### Solutions Architects
 
-- [Solutions Architects handbook](https://about.gitlab.com/handbook/customer-success/solutions-architects/)
-- [Public Sector Solutions Architects handbook](https://about.gitlab.com/handbook/customer-success/public-sector/solutions-architects/)
+- [Solutions Architects handbook](/handbook/customer-success/solutions-architects/)
+- [Public Sector Solutions Architects handbook](/handbook/customer-success/public-sector/solutions-architects/)
 
 ### Professional Services
 
-- [Professional Services handbook](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/)
+- [Professional Services handbook](/handbook/customer-success/professional-services-engineering/)
 
 ### Customer Success Managers
 
-- [Customer Success Manager handbook](https://about.gitlab.com/handbook/customer-success/csm/)
-- [Commercial CSM handbook](https://about.gitlab.com/handbook/customer-success/comm-sales/#customer-success-managers)
+- [Customer Success Manager handbook](/handbook/customer-success/csm/)
+- [Commercial CSM handbook](/handbook/customer-success/comm-sales/#customer-success-managers)
 
 ### Renewals Managers
 
-- [Renewals Managers handbook](https://about.gitlab.com/handbook/customer-success/renewals-managers/home)
+- [Renewals Managers handbook](/handbook/customer-success/renewals-managers/home)
 
 
 ### Demo Systems
 
-- [Demo Systems documentation](https://about.gitlab.com/handbook/customer-success/demo-systems/)
+- [Demo Systems documentation](/handbook/customer-success/demo-systems/)
 
 ## Account Team
 
 The account team is comprised of the Strategic Account Executive/Account Executive, Solutions Architect (Enterprise), and Customer Success Manager.
 
-[More information about the account team](https://about.gitlab.com/handbook/customer-success/account-team/)
+[More information about the account team](/handbook/customer-success/account-team/)
 
 ## Overlap Between Solution Architects and Customer Success Managers
 
 SA owns 1) pre-sales technical evaluation and relationships prior to the initial sale and 2) tier upgrades and new business units (i.e., connected new) within an existing customer. CSM owns 1) post-sales customer relationship and 2) license upgrades within an existing customer.
 
-[More information on the transition and ownership between Pre-Sales and Post-Sales](https://about.gitlab.com/handbook/customer-success/pre-sales-post-sales-transition/)
+[More information on the transition and ownership between Pre-Sales and Post-Sales](/handbook/customer-success/pre-sales-post-sales-transition/)
 
 ## Other Resources
 
 ### Education and Enablement
 
-As a Solutions Architect, Customer Success Manager, or Professional Services Engineer, it is important to be continuously learning more about our product and related industry topics. The [education and enablement handbook page](https://about.gitlab.com/handbook/customer-success/education-enablement/) provides a dashboard of aggregated resources that we encourage you to use to get up to speed.
+As a Solutions Architect, Customer Success Manager, or Professional Services Engineer, it is important to be continuously learning more about our product and related industry topics. The [education and enablement handbook page](/handbook/customer-success/education-enablement/) provides a dashboard of aggregated resources that we encourage you to use to get up to speed.
 
 ### Customer Workshops
 
@@ -117,23 +117,23 @@ As a Solutions Architect, Customer Success Manager, or Professional Services Eng
 
 CSM-Created, Enablement Focus:
 
-- [All CSM-created workshops](https://about.gitlab.com/handbook/customer-success/csm/workshops/)
+- [All CSM-created workshops](/handbook/customer-success/csm/workshops/)
 
 SA-Created, Hands-On Focus:
 
-- [Hands-On Workshops](https://about.gitlab.com/handbook/customer-success/solutions-architects/tools-and-resources/#hands-on-workshops)
+- [Hands-On Workshops](/handbook/customer-success/solutions-architects/tools-and-resources/#hands-on-workshops)
 
 ### Using Salesforce within Customer Success
 
-Visit [this page](https://about.gitlab.com/handbook/customer-success/using-salesforce-within-customer-success/) for more info on using Salesforce within Customer Success.
+Visit [this page](/handbook/customer-success/using-salesforce-within-customer-success/) for more info on using Salesforce within Customer Success.
 
 ### Using Gainsight with Customer Success
 
-Visit [this page](https://about.gitlab.com/handbook/customer-success/csm/gainsight/) for more information on using Gainsight within Customer Success.
+Visit [this page](/handbook/customer-success/csm/gainsight/) for more information on using Gainsight within Customer Success.
 
 ### Dogfooding
 
-Outside of Engineering the Customer Success team has the largest concentration of tooling development capability. The team has unique needs that can't always be solved by GitLab's single [DevOps platform](/solutions/devops-platform/). However, it is important to [dogfood](/handbook/values/#dogfooding) and avoid [dogfooding anti-patterns](https://about.gitlab.com/handbook/engineering/development/principles/#dogfooding-antipatterns). As a result the [Product organization heavily weights internal customers](/handbook/values/#dogfooding) when considering prioritization. If you are considering building tooling in support of Customer Success priorities outside of GitLab, please follow the [dogfooding process](/handbook/values/#dogfooding).
+Outside of Engineering the Customer Success team has the largest concentration of tooling development capability. The team has unique needs that can't always be solved by GitLab's single [DevOps platform](/solutions/devops-platform/). However, it is important to [dogfood](/handbook/values/#dogfooding) and avoid [dogfooding anti-patterns](/handbook/engineering/development/principles/#dogfooding-antipatterns). As a result the [Product organization heavily weights internal customers](/handbook/values/#dogfooding) when considering prioritization. If you are considering building tooling in support of Customer Success priorities outside of GitLab, please follow the [dogfooding process](/handbook/values/#dogfooding).
 
 ### Customer Success AWS Test Account
 
@@ -160,7 +160,7 @@ Anyone can establish a [Community of Practice](initiatives/communities-of-practi
 
 ### Frequently Asked Questions
 
-Customer Success team members maintain a [FAQ](https://about.gitlab.com/handbook/customer-success/faq/) to keep questions customers ask documented in a place where everyone can view and contribute to.
+Customer Success team members maintain a [FAQ](/handbook/customer-success/faq/) to keep questions customers ask documented in a place where everyone can view and contribute to.
 
 ### Customer Success resource links outside handbook
 
@@ -175,18 +175,18 @@ Customer Success team members maintain a [FAQ](https://about.gitlab.com/handbook
 
 ### Other Sales Topics
 
-- [Sales Handbook](https://about.gitlab.com/handbook/sales/)
+- [Sales Handbook](/handbook/sales/)
 - [Sales Operations](/handbook/business-technology/)
-- [Sales Skills Best Practices](https://about.gitlab.com/handbook/sales/training/)
-- [Sales Discovery Questions](https://about.gitlab.com/handbook/sales/qualification-questions/)
-- [EE Product Qualification Questions](https://about.gitlab.com/handbook/sales/qualification-questions/)
-- [GitLab Positioning](https://about.gitlab.com/handbook/positioning-faq/)
-- [FAQ from prospects](https://about.gitlab.com/handbook/sales/faq-from-prospects/)
-- [Client Use Cases](https://about.gitlab.com/handbook/use-cases/)
-- [Proof of Value Guidelines](https://about.gitlab.com/handbook/customer-success/solutions-architects/tools-and-resources/pov)
+- [Sales Skills Best Practices](/handbook/sales/training/)
+- [Sales Discovery Questions](/handbook/sales/qualification-questions/)
+- [EE Product Qualification Questions](/handbook/sales/qualification-questions/)
+- [GitLab Positioning](/handbook/positioning-faq/)
+- [FAQ from prospects](/handbook/sales/faq-from-prospects/)
+- [Client Use Cases](/handbook/use-cases/)
+- [Proof of Value Guidelines](/handbook/customer-success/solutions-architects/tools-and-resources/pov)
 - [Account Planning Template for Large/Strategic Accounts](https://docs.google.com/presentation/d/1yQ6W7I30I4gW5Vi-TURIz8ZxnmL88uksCl0u9oyRrew/edit?ts=58b89146#slide=id.g1c9fcf1d5b_0_24))
-- [Sales Demo](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/)
-- [Sales Development Group Handbook](https://about.gitlab.com/handbook/marketing/sales-development/)
+- [Sales Demo](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/)
+- [Sales Development Group Handbook](/handbook/marketing/sales-development/)
 - [With Whom to Talk to Ask Questions or Give Feedback on a GitLab feature](/handbook/product/categories/#devops-stages)
 - [CEO Preferences when speaking with prospects and customers](/handbook/ceo/#sales-meetings)
 

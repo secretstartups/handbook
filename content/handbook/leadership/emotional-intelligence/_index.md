@@ -15,7 +15,7 @@ One of the most important factors in people's decisions to stay or leave a job i
 
 EQ is defined as the ability to understand and manage your own emotions, as well as recognize and influence the emotions of those around you, according to [Harvard Business review](https://online.hbs.edu/blog/post/emotional-intelligence-in-leadership). At GitLab, we operate in an [all-remote environment](/handbook/company/culture/all-remote/guide/) where [team members communicate](/handbook/communication/) virtually across the globe. By fostering EQ, we can establish a level of connection in an all-remote environment.
 
-Better EQ provides better relations with remote teams. EQ plays an important role in helping maintain order between teams that consist of [diverse cultures and backgrounds](/handbook/company/culture/inclusion/). At GitLab, we rely on [low-context communications](/handbook/company/culture/all-remote/effective-communication/), [Slack channels]({{< ref "communication#key-slack-channels" >}}), email, and [video calls]({{< ref "communication#video-calls" >}}) to get our message across. There are less opportunities to practice our EQ.
+Better EQ provides better relations with remote teams. EQ plays an important role in helping maintain order between teams that consist of [diverse cultures and backgrounds](/handbook/company/culture/inclusion/). At GitLab, we rely on [low-context communications](/handbook/company/culture/all-remote/effective-communication/), [Slack channels](/handbook/communication/chat), email, and [video calls]({{< ref "communication#video-calls" >}}) to get our message across. There are less opportunities to practice our EQ.
 
 Considering that these communication channels do not always express our true feelings, developing our EQ will be a tool for us to pick up on emotional cues and help us read between the lines to better understand the message.
 
@@ -41,7 +41,7 @@ There are five main components of EQ:
 | **Relationship Management.** | The ability to build and maintain healthy relationships through conflict management, teamwork, and to inspire others. | Inspirational Leadership, Influence, Developing Others & Teamwork, and Conflict Management |
 | **Motivation.** | The ability to pursue goals with energy and persistence and a passion to work for reasons that go beyond money or status. | Optimism , Organizational Committment, and Achievement  |
 
-The components of EQ were developed by psychologist and writer [Daniel Goleman and his colleages](http://jbedwardsandassociates.com/wp-content/uploads/2015/12/HBR-What-makes-a-great-leader-D.-Goleman.pdf). They documented how people with high EQ outperform others in terms of success as managers and executives, yearly sales, and lower turnover rates. Furthermore, they have shown the increasing importance that EQ plays as professionals progress in their careers and reach higher levels of management.
+The components of EQ were developed by psychologist and writer Daniel Goleman and his colleagues. They documented how people with high EQ outperform others in terms of success as managers and executives, yearly sales, and lower turnover rates. Furthermore, they have shown the increasing importance that EQ plays as professionals progress in their careers and reach higher levels of management.
 
 Pure technical skills and intellectual ability are prerequisites for top positions, but they do not differentiate top performers from the rest as well as interpersonal abilities do.
 

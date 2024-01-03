@@ -9,7 +9,7 @@ title: Customer Success Escalations Process
 
 
 
-View the [CSM Handbook homepage](https://about.gitlab.com/handbook/customer-success/csm/) for additional CSM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM-related handbook pages.
 
 - - -
 
@@ -88,7 +88,7 @@ At the beginning of the escalation, the DRI must be determined - the DRI owns th
 - Technical Support is ultimately accountable for driving resolution to the support case, including escalation to Engineering, Security, and/or Infrastructure teams.  Incident escalation processes should be leveraged for a single incident / support case.
 
 
-- [Declare a GitLab.com Incident](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#report-an-incident-via-slack) if you suspect a widespread issue on GitLab.com
+- [Declare a GitLab.com Incident](/handbook/engineering/infrastructure/incident-management/#report-an-incident-via-slack) if you suspect a widespread issue on GitLab.com
 - [Escalate an individual support ticket to Support Management](/handbook/support/internal-support/support-ticket-attention-requests.html) for cases with context that necessitate they should be handled outside of standard priority order.
 - Have the customer [trigger Emergency Support](https://about.gitlab.com/support/#how-to-trigger-emergency-support) for S1/instance down issues to connect directly with the Support Engineer on-call.
    - You can also [page the on-call support manager](/handbook/support/on-call/#paging-the-on-call-manager) in cases where you've received word that a customer attempted to raise an emergency, but the on-call engineer was not paged.
@@ -136,7 +136,7 @@ This channel will remain open until the escalation is closed and should be liste
 ##### Escalation Tracker Doc
 
 
-If a [Critical or High-Level escalation](https://about.gitlab.com/handbook/customer-success/csm/escalations/#critical-and-high-level-escalations) has been created, CSMs should create an escalation document using the [Escalation Tracker Template](https://docs.google.com/document/d/1DFW9WDigDZTRQlArqvyaLl_GcYi5lwsxKKKtcjB49s0/edit#) (internal GitLab access only).
+If a [Critical or High-Level escalation](/handbook/customer-success/csm/escalations/#critical-and-high-level-escalations) has been created, CSMs should create an escalation document using the [Escalation Tracker Template](https://docs.google.com/document/d/1DFW9WDigDZTRQlArqvyaLl_GcYi5lwsxKKKtcjB49s0/edit#) (internal GitLab access only).
 
 Copy and save the document for the individual customer and replace (CUSTOMER) with the customer name, complete the required fields
 
@@ -230,10 +230,10 @@ See the [Support Engineering Guide to Escalations](/handbook/support/internal-su
 
 ## Engineering's role in Escalations
 
-Engineering support will usually come via Support Engineering, however it's worth noting that under some conditions [Engineering / Product may prioritize bug fixes and feature requests](https://about.gitlab.com/handbook/engineering/#critical-customer-escalations) related to an escalation.
+Engineering support will usually come via Support Engineering, however it's worth noting that under some conditions [Engineering / Product may prioritize bug fixes and feature requests](/handbook/engineering/#critical-customer-escalations) related to an escalation.
 
 ## Related Links
 
 - [Support Engineering Page](/handbook/support/) and [Support Engineering Escalation Procedures](/handbook/support/workflows/working-with-issues.html)
 - [Product Escalation Issue Template](https://gitlab.com/gitlab-com/Product/issues/new?issuable_template=Product-Support-Request) to request Product Team support for roadmap / future needs, prioritization of enhancements and/or issues and troubleshooting of customer issues.
-- [Customer Health Assessment and Account Triaging](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/)
+- [Customer Health Assessment and Account Triaging](/handbook/customer-success/csm/health-score-triage/)

@@ -5,12 +5,6 @@ description: Hands-on Workshop
 ---
 
 
-
-
-
-
-{{% include "includes/solutions-architects-navigation.md" %}}
-
 ## Hands-on Workshop
 
 

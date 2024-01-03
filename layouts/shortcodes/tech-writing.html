@@ -1,0 +1,44 @@
+{{ $stages := partials.IncludeCached "data/stages" page }}
+{{ $stages = sort $stages "section" }}
+<table>
+	<thead>
+		<tr>
+			<th>Section</th>
+			<th>Stage</th>
+			<th>Group</th>
+			<th>Assigned technical writer</th>
+		</tr>
+	</thead>
+	<tbody>
+		{{- range $stages }}
+		{{- $section := .section }}
+		{{- $display_name := .display_name}}
+		{{- range .groups }}
+		<tr>
+			<td><a href="{{ ref page (printf "/handbook/product/categories#%s-section" $section) }}">{{ $section }}</a></td>
+			<td><a href="{{ ref page (printf "/handbook/product/categories#%s-stage" (lower $display_name)) }}">{{ $display_name }}</a></td>
+			<td><a href="{{ ref page (printf "/handbook/product/categories#%s-group" (anchorize .name)) }}">{{ .name }}</a></td>
+			<td>
+				{{- with .tech_writer -}}
+					{{- if reflect.IsSlice . -}}
+						{{- range . -}}
+							{{- if hasPrefix . "#" -}}
+								<img src="/images/slack-mark.png" style="padding:4px" alt="Slack Logo" class="avatar" height="40" width="40"> {{ . }}
+							{{- else -}}
+								{{- partial "member-by-name" . }}<br>
+							{{- end -}}
+						{{- end -}}
+					{{- else -}}
+						{{- if hasPrefix . "#" }}
+							<img src="/images/slack-mark.png" style="padding:4px" alt="Slack Logo" class="avatar" height="40" width="40"> {{ . }}
+						{{- else }}
+							{{- partial "member-by-name" . }}
+						{{- end }}
+					{{- end }}
+				{{- end }}
+			</td>
+		</tr>
+		{{- end }}
+		{{- end }}
+	</tbody>
+</table>

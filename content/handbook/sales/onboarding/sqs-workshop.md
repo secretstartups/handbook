@@ -26,28 +26,29 @@ This [SQS 2023 Agenda sheet](https://docs.google.com/spreadsheets/d/1f64fZCKbrz7
 ## Sales Quick Start Remote Agenda:
 
 
-### SQS 34 - August 2023
+### SQS 36 - January  2024
 
-- Workshop times quoted are United States Eastern Standard Time (Atlanta, Georgia) (UTC -4)
+- Workshop times quoted are United States Eastern Standard Time (Atlanta, Georgia) (UTC -5)
 
 | DATE | START TIME | END TIME | ACTIVITY | SME ASSIGNED |
 | ------ | ------ | ------ | ------ | ------ |
-| Oct 4, 2023 | 11:00a ET | 11:50a ET | Welcome Call | Field Enablement |
-| Oct 9, 2023 | 10:30a ET | 11:50a ET | Command of the Message: Essential Questions Exercise | Field Enablement |
-| Oct 10, 2023 | 10:30a ET | 11:50a ET | Command of the Message: Value Card Exercise | Field Enablement  |
-| Oct 11, 2023 | 10:30a ET | 11:50a ET | Command of the Message: Discovery Question Exercise |  Field Enablement |
-| Oct 12, 2023 | 10:30a ET | 11:50a ET | Command of the Message: Differentiator Exercise | Field Enablement  |
-| Oct 13, 2023 | 10:30a ET | 11:50a ET | Command of the Message: MEDDPPICC & Breakout Call Prep | Field Enablement  |
-| Oct 16, 2023 | 10:30a ET | 10:50a ET | Operational Excellence: Into to Gitlab Field Security | Field Security   |
-| Oct 16, 2023 | 11:00a ET | 11:50a ET | Solution Focus: Intro to Competition | Competitive Intelligence   |
-| Oct 17, 2023 | 10:30a ET | 11:20a ET | Better Together: Intro to GitLab Alliances |  Alliances & Channel Team |
-| Oct 17, 2023 | 11:30a ET | 12:20p ET | Mock Discovery Call 1 | Mock Customers  |
-| Oct 18, 2023 | 10:30a ET | 11:20a ET | Customer Focus: Professional Services | Professioanl Services Team   |
-| Oct 18, 2023 | 11:30a ET | 12:20p ET  | Operational Excellence: Intro to Rev Ops | Rev Ops Team   |
-| Oct 19, 2023 | 10:30a ET | 10:50a ET | Operational Excellence: Intro to GitLab Legal | Legal Team  |
-| Oct 19, 2023 | 11:00a ET | 11:50a ET | Mock Discovery Call 2 | Mock Customers |
-| Oct 20, 2023 | 10:30a ET | 11:20a ET | Partners in Closing: Intro to Channel Sales |  Alliances & Channel Team   |
-| Oct 20, 2023 | 11:30a ET | 12:20p ET | Customer Focus: Customer Success Management Overview | Customer Success Team  |
+| Jan 4, 2024 | 10:00a ET | 11:20a ET | Welcome Call | Field Enablement   |
+| Jan 8, 2024 | 10:30a ET | 11:50a ET | Command of the Message: Essential Questions Exercise | Field Enablement |
+| Jan 9, 2024 | 10:30a ET | 11:50a ET | Command of the Message: Value Card Exercise | Field Enablement  |
+| Jan 10, 2024 | 10:30a ET | 11:50a ET | Command of the Message: Discovery Question Exercise | Field Enablement  |
+| Jan 11, 2024 | 10:30a ET | 11:50a ET | Command of the Message: Differentiator Exercise | Field Enablement  |
+| Jan 12, 2024 | 10:30a ET | 11:50a ET | Command of the Message: MEDDPPICC & Breakout Call Prep | Field Enablement  |
+| Jan 15, 2024 | 11:00a ET | 11:30a ET | Operational Excellence: Into to GitLab Field Security | Field Security   |
+| Jan 15, 2024 | 11:30a ET | 12:20p ET | Better Together: Intro to GitLab Alliances | Alliances & Channel    |
+| Jan 16, 2024 | 10:30a ET | 10:50a ET  | Operational Excellence: Intro to GitLab Legal | Legal |
+| Jan 16, 2024 | 11:30a ET | 12:20p ET | Solution Focus: Intro to Competition | Product Marketing   |
+| Jan 17, 2024 | 11:00a ET | 11:50a ET | Partners in Closing: Intro to Channel Sales | Alliances & Channel     |
+| Jan 18, 2024 | 11:00a ET | 11:50a ET  | Discussion: Professional Services | Professioanl Services   |
+| Jan 19, 2024 | 11:00a ET | 11:50a ET | Customer Focus: Customer Success Management Overview | Customer Success |
+| Jan 22, 2024 | 11:00a ET | 11:50a ET  | Operational Excellence: Intro to Sales Ops | Revenue Operations  |
+| Jan 23, 2024 | 11:00a ET | 11:50a ET  | Operational Excellence: Working with Sales Dev | Marketing  |
+| Jan 22, 2024 | 12:00p ET | 12:50p ET | Mock Discovery Call 1 | Mock Customers  |
+| Jan 23, 2024 | 12:00p ET | 12:50p ET | Mock Discovery Call 2 | Mock Customers |
 
 
 

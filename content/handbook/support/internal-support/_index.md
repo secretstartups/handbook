@@ -16,11 +16,12 @@ Please read the next sections on [GitLab Support's Purpose](#gitlab-supports-pur
 
 | Problem | What to do |
 | ------ | ------ |
+| I want to see tickets | Get a [Light Agent ZenDesk account](#requesting-a-zendesk-light-agent-account). |
 | My customer can't open a ticket (or they get closed)  | Make sure they are a [support contact](https://about.gitlab.com/support/managing-support-contacts/#managing-contacts). Or maybe, [they can't log into ZenDesk](#if-a-customer-cannot-login-to-gitlab-support-zendesk--customer-portal).  |
-| Customer is asking about a ticket | You probably want a [Support Ticket Attention Requestion (STAR)](#i-want-to-escalate-a-ticket). If no ticket, [open one](#requesting-support-for-customers) |
+| Customer is asking about a ticket | Check the status of the ticket in Zendesk with your Light Agent account. Reach out to the assigned Support Engineer, or add an internal note with the customers ask. If there is a need, you can open a [Support Ticket Attention Requestion (STAR)](#i-want-to-escalate-a-ticket). If no ticket, [open one](#requesting-support-for-customers) .|
 | My customer has [an emergency](https://about.gitlab.com/support/definitions/#Definitions%20of%20Support%20Impact)! | The customer must send a **new** [email](https://internal.gitlab.com/handbook/support/#raising-an-emergency) (internal) to [trigger an emergency](https://about.gitlab.com/support/#how-to-trigger-emergency-support). If not an emergency, you can [STAR it](#i-want-to-escalate-a-ticket).
-| My customer has a subscription / license issue  | If a [ticket with the customer](#requesting-support-for-customers) is not possible, open [an internal request](#internal-requests)  |
-| I want to see tickets | Get a [Light Agent ZenDesk account](#requesting-a-zendesk-light-agent-account) |
+| My customer has a subscription / license issue  | If a [ticket with the customer](#requesting-support-for-customers) is not possible, open [an internal request](#internal-requests).  |
+
 
 This is not an exhaustive list. For anything else you believe the Support team covers, please check the table of contents or search this page.
 
@@ -55,7 +56,7 @@ If your customer contacts you requiring technical support, the following options
 1. In sensitive cases where asking a customer to open a ticket would aggravate a situation, you can open a Support ticket on behalf of the customer.
    - **Note:** You cannot be logged into Zendesk if you choose this option, because Zendesk automatically closes any tickets submitted with `gitlab.com` email addresses. Instead, use a private/incognito window in your browser to submit the ticket. When submitting the ticket, in the "Your email address" field, enter your customer's email address. If you should be CC'd on the ticket, please request it in the ticket body.
 
-External customers should not be cc'd on [Internal Requests](https://gitlab-com.gitlab.io/support/internal-requests-form/). Communication with Customers is only provided through [Support tickets](https://gitlab.zendesk.com) initiated by the Customer themselves, or tickets opened on their behalf.
+External customers should not be cc'd on [Internal Requests](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/). Communication with Customers is only provided through [Support tickets](https://gitlab.zendesk.com) initiated by the Customer themselves, or tickets opened on their behalf.
 
 #### Support does not action out of Slack
 
@@ -68,7 +69,7 @@ There are several reasons why Support cannot respond to customer-specific reques
 - When we are trying to solve a current customer problem, we frequently [search resolved tickets in Zendesk](/handbook/support/readiness/operations/docs/zendesk/searching/). Since Slack content is deleted after 90 days, we may lose valuable information if a customer's problem and/or the solutions to it are discussed in Slack instead of a Zendesk ticket.
 - We want to keep all of our records of a customer's technical support problems and their solutions in a single place (Zendesk).
 
-If you want to request that we place additional attention on an **existing** ticket or internal request, please use the [Support Ticket Attention Request Form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/support_escalation/) ([handbook entry](/handbook/support/internal-support/support-ticket-attention-requests.html)).
+If you want to request that we place additional attention on an **existing** ticket or internal request, please use the [Support Ticket Attention Request Form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/support_escalation/) ([handbook entry](/handbook/support/internal-support/support-ticket-attention-requests)).
 
 ### Requesting support for GitLab.com users that have account or login issues
 
@@ -112,7 +113,7 @@ Note that you cannot send public replies to customers with a Light Agent account
 
 | Request    | What To Do                                                   |
 | ---------- | ------------------------------------------------------------ |
-| Upgrade Assistance | **Global organizations:** [Review the offering](https://about.gitlab.com/support/scheduling-upgrade-assistance/), then open a new ticket in the global support portal <br> **Public Sector organizations:** [Open a ticket](https://about.gitlab.com/support/scheduling-upgrade-assistance/#us-federal-support) in the U.S. Federal support portal |
+| Upgrade Assistance | **Global organizations:** [Review the offering](https://about.gitlab.com/support/scheduling-upgrade-assistance/), then open a new ticket in the global support portal <br> **Public Sector organizations:** [Open a ticket](https://about.gitlab.com/support/scheduling-upgrade-assistance/#us-federal-support) in the U.S. Government support portal |
 | Who is on-call for Customer Emergencies? | Run `/chatops run oncall support` in a direct message to `GitLab Chatops` and review the results. This will **not** page the on-call engineer. |
 | Who is on-call for GitLab.com CMOC? | Run `/chatops run oncall cmoc` in a direct message to `GitLab Chatops` and review the results. This will **not** page the on-call engineer. |
 | Excessive reCaptcha on GitLab.com | While it's happening, post in [#support_gitlab-com](https://gitlab.slack.com/messages/C4XFU81LG/) and link to the issue/MR in question to be added to the allowlist. |
@@ -145,7 +146,7 @@ You can request Support to contact GitLab.com users on your behalf. Here are som
 
 ### Internal Requests
 
-All internal requests regarding licensing, subscriptions, trials, and grace period extensions should be filed using the [GitLab Support Internal Request form](https://gitlab-com.gitlab.io/support/internal-requests-form/). Customers should not be cc'd on Internal Requests.
+All internal requests regarding licensing, subscriptions, trials, and grace period extensions should be filed using the [GitLab Support Internal Request form](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/). Customers should not be cc'd on Internal Requests.
 
 #### Internal Request SLO
 
@@ -222,7 +223,7 @@ A list of common scenarios and the appropriate option are detailed in the follow
 | **SaaS Subscription Related** | |
 | Extend an (almost) expired subscription | Use this when the customer has a subscription with us and their grace period is (almost) expired. Please note we cannot extend the actual subscription. This instead makes a trial for the namespace and uses that for the extension. Check the [What is included and excluded in trials](https://about.gitlab.com/free-trial/#what-is-included-in-my-free-trial-what-is-excluded) page for more context. |
 | Investigate incorrect subscription info | Use this when the customer has a subscription with us and something is incorrect in their subscription information. This includes problems with: true-ups, subscription mismatches, can't apply subscription to group/namespace, and current seat usage counts. |
-| Reset max seats for QSR | Use this after [approval to waive the overage](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#waived-true-ups-policy-and-approval-requirements) has been granted and documented via SFDC chatter. Once that is done, file the form to request that Support reset the max seats. |
+| Reset max seats for QSR | Use this after [approval to waive the overage](/handbook/sales/field-operations/order-processing/#waived-true-ups-policy-and-approval-requirements) has been granted and documented via SFDC chatter. Once that is done, file the form to request that Support reset the max seats. |
 | SaaS NFR license request | Ensure the group on GitLab.com has started a trial, then use this option to request a SaaS NFR subscription generation. |
 | Billing Entity Change | Use this as part of the process of a billing entity change, to check whether the correct subscription is associated with the customer's group. |
 | Link Subscription to Namespace | Use this when a customer has contacted you to request that their subscription is linked to a provided namespace. Prior to submitting the request, please ensure that you have first received written confirmation from the account owner to link their subscription to the provided namespace. We require sales to upload evidence of this into SFDC and then provide a link to it. An email link or screenshot should be added to the `Google Docs, Notes, & Attachments object` section of the customer's account record in SalesForce.|
@@ -248,7 +249,7 @@ A list of common scenarios and the appropriate option are detailed in the follow
 | Wider Community License | Use this to request a community license be generated. Please note for any license lasting longer more than 90 days, manager approval is required. Without an approving manager's email being provided, the ticket will be closed out |
 | Use this for any license & renewal issues where no other options fit. Please note if this form is used when an option **does** exist, the request will be closed and you will need to submit a new request using the correct form. |
 
-Grace period extensions are treated similarly to trial extensions for both Self-managed and GitLab.com SaaS. To request these, file a request using the [GitLab Support Internal Request form](https://gitlab-com.gitlab.io/support/internal-requests-form/) with the correct option as highlighted in the table above.
+Grace period extensions are treated similarly to trial extensions for both Self-managed and GitLab.com SaaS. To request these, file a request using the [GitLab Support Internal Request form](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/) with the correct option as highlighted in the table above.
 
 Please consider the following:
 
@@ -263,9 +264,9 @@ A copy of the license email sent to the customer is automatically logged under t
 
 ---
 
-### US Federal Internal Requests
+### US Government Support Internal Requests
 
-**Public Sector organizations:** For confidential license issues relating to US Federal customers, GitLab team members can [open a case with US Federal Support](https://gitlab-com.gitlab.io/support/support-ops/forms/us-federal-internal-request-form/).
+**Public Sector organizations:** For confidential license issues relating to US Government support customers, GitLab team members can [open a case with US Government Support](https://gitlab-com.gitlab.io/support/support-ops/forms/us-federal-internal-request-form/).
 
 ### Request for a license as a GitLab Team Member
 
@@ -286,7 +287,7 @@ Here are some options to get basic seat count information:
 1. Info from 2 plus *Seats in Subscription*, *Max Seats Used*, and *Start Date*
     - [Customers portal admin](https://customers.gitlab.com/admin/customer) (requires access via Okta)
 
-If none of the above self-serve options work, file a request using the [GitLab Support Internal Request form](https://gitlab-com.gitlab.io/support/internal-requests-form/)
+If none of the above self-serve options work, file a request using the [GitLab Support Internal Request form](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/)
 with the `Other` option providing the Group URL and any additional context.
 
 > **Note:** Support will only provide you with a screenshot of the billing page's subscription info. This includes:
@@ -306,7 +307,7 @@ Customers can get their subscription information and a list of users using a sea
 ### I Want to Escalate a Ticket
 
 To keep the term "*escalation*" [MECEFU](/handbook/communication/#mecefu-terms), Support uses the term "**support ticket attention request**" (STAR) to make sure
-[account escalations](https://about.gitlab.com/handbook/customer-success/csm/escalations/) are distinct. "Escalation" can also be confused with "emergency" or "incident."
+[account escalations](/handbook/customer-success/csm/escalations/) are distinct. "Escalation" can also be confused with "emergency" or "incident."
 
 Please open a **support ticket attention request**, during [GitLab Global Support Hours](https://about.gitlab.com/support/#definitions-of-gitlab-global-support-hours) only, if
 any of these are true:
@@ -316,40 +317,40 @@ any of these are true:
 - the ticket requires immediate intervention to address a high level of customer dissatisfaction
 - Support Management oversight is required in order to bring structure and focus to the situation
 
-[More about support ticket attention requests](/handbook/support/internal-support/support-ticket-attention-requests.html)
+[More about support ticket attention requests](/handbook/support/internal-support/support-ticket-attention-requests)
 
-Please open an **[account escalation](https://about.gitlab.com/handbook/customer-success/csm/escalations/)** if:
+Please open an **[account escalation](/handbook/customer-success/csm/escalations/)** if:
 
 - There is account level risk because of a single ticket or an aggregation of several issues.
 - Visibility and attention from multiple departments is required to restore customer confidence and resolve the issue.
 
-[More about account escalations](https://about.gitlab.com/handbook/customer-success/csm/escalations)
+[More about account escalations](/handbook/customer-success/csm/escalations)
 
 Please open an **emergency ticket** if:
 
 - a customer is facing a situation that meets our [Definitions of Support Impact](https://about.gitlab.com/support/definitions/#Definitions%20of%20Support%20Impact) for "Emergency"
 
-[More about how Support Engineers handle emergency tickets](/handbook/support/workflows/customer_emergencies_workflows.html)
+[More about how Support Engineers handle emergency tickets](/handbook/support/workflows/customer_emergencies_workflows)
 
 Please declare a **GitLab.com incident** if:
 
 - you've noticed a common pattern of reported problems between SaaS customers
-- you've experienced and verified a [loss of functionality over a period lasting more than 5 minutes](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#definition-of-outage-vs-degraded-vs-disruption-and-when-to-communicate)
-- you suspect a [high severity bug](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#high-severity-bugs) has been deployed to GitLab.com
+- you've experienced and verified a [loss of functionality over a period lasting more than 5 minutes](/handbook/engineering/infrastructure/incident-management/#definition-of-outage-vs-degraded-vs-disruption-and-when-to-communicate)
+- you suspect a [high severity bug](/handbook/engineering/infrastructure/incident-management/#high-severity-bugs) has been deployed to GitLab.com
 
-[More about GitLab.com incidents](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/)
+[More about GitLab.com incidents](/handbook/engineering/infrastructure/incident-management/)
 
 Please declare a **security incident** if:
 
 - you have information about a critical issues that may affect the confidentiality, integrity, or availability of GitLab services or data
 
-[More about Security incidents](/handbook/security/security-operations/sirt/engaging-security-on-call.html#incident-severity)
+[More about Security incidents](/handbook/security/security-operations/sirt/engaging-security-on-call#incident-severity)
 
 ---
 
 ### I want to make a change to a setting in the GitLab.com Admin interface
 
-The Infrastructure team is the admin of GitLab.com, and any changes to product tuneables go through the [change request workflow](https://about.gitlab.com/handbook/engineering/infrastructure/change-management/#change-request-workflows).
+The Infrastructure team is the admin of GitLab.com, and any changes to product tuneables go through the [change request workflow](/handbook/engineering/infrastructure/change-management/#change-request-workflows).
 
 ## Other
 

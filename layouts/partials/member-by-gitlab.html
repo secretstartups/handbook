@@ -1,0 +1,14 @@
+{{ $username := . }}
+{{- $img := "https://about.gitlab.com/images/gitlab-logo-extra-whitespace.png" -}}
+{{- $teamDict := partials.IncludeCached "team/by-gitlab" . -}}
+{{- $data := index $teamDict $username -}}
+{{- with $data }}
+  {{- with path.BaseName $data.picture }}
+    {{- if ne . "gitlab-logo-extra-whitespace" }}
+      {{- $img = printf "https://about.gitlab.com/images/team/%s-crop.jpg" . -}}
+    {{- end }}
+  {{- end }}
+<span  style="white-space: nowrap;">{{- partial "member" . -}}</span>
+{{- else -}}
+<span class="not-found" style="white-space: nowrap;"><img class="avatar" src="https://about.gitlab.com/images/gitlab-logo-extra-whitespace.png" width="40" height="40" alt="{{ $username }}" class="my-2">@{{ $username }}</span>
+{{- end -}}

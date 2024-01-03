@@ -13,7 +13,7 @@ See also [opstrace#1949](https://gitlab.com/gitlab-org/opstrace/opstrace/-/issue
 
 A standard response is available as a macro: [`Support::SaaS::Temp IP Ban`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360045599533))
 
-Please also see [the log requests workflow](/handbook/support/workflows/log_requests.html) for what information we can provide when responding.
+Please also see [the log requests workflow](/handbook/support/workflows/log_requests) for what information we can provide when responding.
 
 ## Searching
 
@@ -158,7 +158,7 @@ An IP can become rate-limited if a customer attempts to export or download proje
 
 - `json.path`: `/namespace/project/download_export`
 
-### Handling Gitlab.com "Access Denied" errors (CloudFlare Block)
+### Handling GitLab.com "Access Denied" errors (CloudFlare Block)
 
 There may be cases where a user is being blocked by CloudFlare and they are not being blocked due to rate limiting. You can typically request a screenshot of the CloudFlare “Access Denied” page or have the customer perform a `curl` with the `-i` flag to retrieve the relevant headers:
 
@@ -189,7 +189,7 @@ Note the `HTTP 403` response and `error code 1020`.
 
 Once you obtain this information you should open an issue in our [Reliability tracker](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues) providing the `cf-ray` ID and the timestamp (date) to request that the IP address block be removed. You can also consult the #infrastructure-lounge Slack channel with the open issue for further assistance. Some blocks may happen as a result of a mitigation effort, so you may want to verify that a [contact request](https://gitlab.com/gitlab-com/support/internal-requests/-/issues) is not open on the internal board.
 
-Note that IP addresses may be blocked if they are identified as being from a [current US embargoed country](https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information) as per [our Terms of Use](https://about.gitlab.com/handbook/legal/subscription-agreement/). Blocks are done automatically through CloudFlare's GeoLocation block methods and cannot be changed. You can [enter an IP address](https://www.maxmind.com/en/geoip2-precision-demo) to determine how it is classified and verify against [the list of countries](https://about.gitlab.com/handbook/legal/trade-compliance/). A user can consider [requesting a data correction](https://support.maxmind.com/geoip-data-correction-request/) of their IP address but it is not guaranteed and GitLab has no control over this process.
+Note that IP addresses may be blocked if they are identified as being from a [current US embargoed country](https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information) as per [our Terms of Use](/handbook/legal/subscription-agreement/). Blocks are done automatically through CloudFlare's GeoLocation block methods and cannot be changed. You can [enter an IP address](https://www.maxmind.com/en/geoip2-precision-demo) to determine how it is classified and verify against [the list of countries](/handbook/legal/trade-compliance/). A user can consider [requesting a data correction](https://support.maxmind.com/geoip-data-correction-request/) of their IP address but it is not guaranteed and GitLab has no control over this process.
 
 ## Applying for an exception
 

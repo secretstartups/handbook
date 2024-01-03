@@ -1,22 +1,11 @@
 ---
-
 title: "UX Research at GitLab"
 description: "The goal of UX Research at GitLab is to connect with GitLab users all around the world and gather insight into their behaviors, motivations, and goals."
 ---
 
-
-
-
-
-
-
 The goal of UX research at GitLab is to connect with GitLab users all around the world and gather insight into their behaviors, motivations, and goals. We use these insights to inform and strengthen product and design decisions.
 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/EQ750KX_6nU" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
+{{< youtube "EQ750KX_6nU" >}}
 
 UX Researchers are one of the many GitLab Team Members who conduct user research. Other roles, such as Product Managers and Product Designers, frequently conduct research with guidance from the UX Research team.
 
@@ -128,15 +117,15 @@ Below is a full list of our UX Research team handbook content:
 - [Research participation gratuities](/handbook/product/ux/ux-research-coordination/incentives)
 - [Getting the word out about research insights](/handbook/product/ux/ux-research-coordination/shareouts)
 - [ReOps procurement best practices](/handbook/product/ux/ux-research-coordination/reops-procurement)
-- [First Look UX Research panel](/handbook/product/ux/ux-research-coordination/first-look-ux-research-panel/)
 - [Finding SaaS users](/handbook/product/ux/ux-research/finding-saas-users/)
 - [UX research recruiting email tips](/handbook/product/ux/ux-research/recruiting-participants/recruiting-email-tips/)
 
 ### Measures and processes the UX Research team is responsible for
 
 - [System Usability Scale](/handbook/product/ux/performance-indicators/system-usability-scale/)
-     - [System Usability Scale responder outreach](/handbook/product/ux/performance-indicators/system-usability-scale/sus-outreach.html)
+     - [System Usability Scale responder outreach](/handbook/product/ux/performance-indicators/system-usability-scale/sus-outreach/)
      - [System Usability Scale database](/handbook/product/ux/sus-database/)
+- [Paid Net Promoter Score](/handbook/product/ux/performance-indicators/paid-nps/)
 - [Assessing Category Maturity](/handbook/product/ux/category-maturity/)
     - [Category Maturity Scorecards](/handbook/product/ux/category-maturity/category-maturity-scorecards/)
     - [Category Maturity - Competitor Comparison](/handbook/product/ux/category-maturity/competitor-comparison/)

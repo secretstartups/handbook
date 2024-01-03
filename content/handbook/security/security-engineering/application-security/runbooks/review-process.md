@@ -3,6 +3,10 @@ title: "AppSec Review Template Process"
 description: "This review template is tailored to application security reviews of GitLab features. Parts of it might be applicable to other software, other parts might not."
 ---
 
+## :warning: Prioritization Note
+
+[As of 2023-11-02, AppSec is only prioritizing P1 AppSec reviews and threat models](https://gitlab.com/gitlab-com/gl-security/appsec/appsec-team/-/issues/475#note_1632226713). This does not mean P2 or P3 AppSec reviews or threat model requests can't be submitted, but please understand that due to capacity limitations we will only be able to prioritize P1 reviews. Reach out to us in the #sec-appsec Slack channel if you have any questions or concerns.
+
 ## Review preparation
 
 To start an actual review a few preparation steps need to be done in order to
@@ -165,5 +169,5 @@ In order to close the review issue there should be either a follow up issue or
 MR on the respective development repository. If a follow up is missing it
 should be created by the reviewer and linked to in the respective finding
 thread. For those issues the normal [triage
-process]({{< ref "/handbook/security/#issue-triage" >}})
+process](https://about.gitlab.com/handbook/engineering/quality/issue-triage/)
 applies.

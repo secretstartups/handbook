@@ -55,7 +55,7 @@ These fields are populated manually by Sales Ops on the user record as part of n
 
 We stamp the values from these fields onto our opportunity records at various points during the sales cycle, and we use these fields to tell us which sales team worked on each opportunity.
 
-For more info on user hierarchy, please see [this page](https://about.gitlab.com/handbook/sales/sales-term-glossary/#user-hierarchy).
+For more info on user hierarchy, please see [this page](/handbook/sales/sales-term-glossary/#user-hierarchy).
 
 #### Key Salesforce Fields for Reporting by Account Characteristics
 

@@ -6,19 +6,10 @@ description: >-
   transparency and collaboration
 ---
 
-{{% include "includes/solutions-architects-navigation.md" %}}
-
-
 # Activity Capture
 
 
 Solutions Architects record all customer and prospect activity to promote **transparency** and **collaboration**. By consistently capturing our prospect or customer-facing activity, we can perform analysis for further reporting to establish **efficient** decision making for GitLab's business.
-
-
-
-
-
-
 
 ## Why Record Customer Activities?
 
@@ -48,7 +39,7 @@ SA prospect/customer activity is recorded into `Task` objects within Salesforce 
     - **Related To** - Search for and set this to the Salesforce `Opportunity` associated with the activity.
     - **Name**  - Please search for and populate the `Name` field with a prospect/customer contact existing in Salesforce that was part of the activity.   <i>`Name` is currently a single select field. Choose any contact that was part of the meeting, if possible. In the future, we may have the ability to select multiple contacts.</i>
     - **Subject**  - High-level description of the activity. Usually, the subject of the calendar event for this activity is appropriate.
-    - **[SA] Activity Type** - Choose the type(s) of activity for this customer/prospect interaction  (ie. Demo, POV Related, Presentation/Pitch). For description of each activity type, refer to [this page](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc). 
+    - **[SA] Activity Type** - Choose the type(s) of activity for this customer/prospect interaction  (ie. Demo, POV Related, Presentation/Pitch). For description of each activity type, refer to [this page](/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc). 
     - **Persona Levels** (Optional if unknown) - Select the customer/prospect participants' levels in this activity. Current options include: `Individual Contributor, Manager/Director, Executive` _Note: Executive should be used for any VP, C-level or the Economic Buyer_
     - **Persona Functions** (Optional if unknown) - Select the customer/prospect functions represented during the activity (ie. Development, Security, DevOps)
     - **Description** - Enter a summary of the interaction. Two to three sentences are usually sufficient, but more detail is ok. Try to capture the meeting's intent, how it went (the outcome or customer/prospect sentiment), and any prospect/customer perceived next steps. It is highly encouraged that you provide a link to more detailed notes of your meeting. You can use [Google Docs Bookmarks](https://support.google.com/docs/answer/45893) to do so.
@@ -56,7 +47,7 @@ SA prospect/customer activity is recorded into `Task` objects within Salesforce 
 
 #### Activity type description
 
-All activities should fall into one of the categories described in the [activity type descriptions](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc)
+All activities should fall into one of the categories described in the [activity type descriptions](/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc)
 
 #### Example Activity Description
 
@@ -85,7 +76,7 @@ _Tip:_ You can create a dedicated slack section for all of your Troops related c
 
 ### SA Specific Opportunity Fields
 
-An **SA Validated Tech Evaluation** is a set of SA-assisted activities a prospect or a customer undertakes to make a decision on whether or not a GitLab solution will provide the value they expect. These activities include and are not limited to a guided trial, POV, value stream assessment, workshops, and strategy roadmap planning. An SA Validated Tech Evaluation does not start until a prospect or customer explicitly engages in an evaluation of value and involves meaningful engagement with a GitLab SA.  Ideally, the GitLab SA has created a techncial win plan as part of an SA Validated Tech Evaluation.  **If the GitLab SA does not know the next actions to progress the evaluation towards closure, it's an indication that there is NOT an SA Validated Tech Evaluation that the SA is meaningfully engaged on.**  
+An **SA Validated Tech Evaluation** is a set of SA-assisted activities a prospect or a customer undertakes to make a decision on whether or not a GitLab solution will provide the value they expect. These activities include and are not limited to a guided trial, POV, value stream assessment, workshops, and strategy roadmap planning. An SA Validated Tech Evaluation does not start until a prospect or customer explicitly engages in an evaluation of value and involves meaningful engagement with a GitLab SA. As part of an SA Validated Tech Evaluation, the GitLab SA should create a [Technical Close Plan](/handbook/customer-success/solutions-architects/sa-practices/technical-close-plan/).  **If the GitLab SA does not know the next actions to progress the evaluation towards closure, it's an indication that there is NOT an SA Validated Tech Evaluation that the SA is meaningfully engaged on.**  
 
 To assist with the analysis of SA guided technical evaluations by our prospects and customer, the SA team maintains four opportunity fields in Salesforce. These four fields can be updated through Troops.ai or within the opportunity in Salesforce:
 
@@ -116,7 +107,7 @@ In case that the opportunity has been closed in Salesforce, and you did not have
 
 ### Proof of Value (POV) Updates
 
-Proof of Values are [tracked in salesforce](https://about.gitlab.com/handbook/customer-success/solutions-architects/tools-and-resources/pov/#tracking-a-pov-in-salesforce) but can be created or updated through Troops by:
+Proof of Values are [tracked in salesforce](/handbook/customer-success/solutions-architects/tools-and-resources/pov/#tracking-a-pov-in-salesforce) but can be created or updated through Troops by:
 
 - **Create POV**: Clicking on the `Add a Proof of Value` button
     - on the Troops `You just had a meeting` notification in slack
@@ -175,8 +166,8 @@ This [tutorial](https://www.youtube.com/watch?v=BhkaI-Sl4nc) explains how to set
 
 Email communication with customers can be recorded in Salesforce within the account's activity history. There are two options to track this activity:
 
-1. BCC your "email to Salesforce address". Instructions to obtain this address are found on this [page](https://about.gitlab.com/handbook/customer-success/using-salesforce-within-customer-success/#tracking-emails-within-salesforce).
-2. Or, download the [Salesforce Chrome plugin](https://about.gitlab.com/handbook/sales/prospect-engagement-best-practices) to easily log customer-related emails.
+1. BCC your "email to Salesforce address". Instructions to obtain this address are found on this [page](/handbook/customer-success/using-salesforce-within-customer-success/#tracking-emails-within-salesforce).
+2. Or, download the [Salesforce Chrome plugin](/handbook/sales/prospect-engagement-best-practices) to easily log customer-related emails.
 
 Email communication that is collected and stored in Salesforce is not measured or reported on at this time. It can be useful to collect for sharing information with the broader sales team.
 

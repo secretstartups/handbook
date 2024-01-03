@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/customer-success/professional-services-engineering/education-services/sysadminhandsonlab8.html
 title: "GitLab System Administration Hands-on Guide: Lab 8"
 description: "This hands-on lab guide is designed to walk you through the lab exercises used in the GitLab System Administration course."
 ---
@@ -47,7 +46,7 @@ curl -i http://localhost:80
 sudo gitlab-ctl restart nginx
 ```
 
-1. Verify the clients (e.g. the GitLab runner) can communicate with GitLab again.
+1. Verify the clients (e.g. the GitLab Runner) can communicate with GitLab again.
 
 ```bash
 sudo gitlab-ctl tail nginx/gitlab_access.log

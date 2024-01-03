@@ -79,7 +79,7 @@ With some changes made in FY24, some fields used in Gainsight for account classi
 
 ## Gainsight User Provisioning
 
-See [Gainsight User Administration](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/gainsight/gainsight-user-management).
+See [Gainsight User Administration](/handbook/sales/field-operations/customer-success-operations/gainsight/gainsight-user-management).
 
 ## Gainsight data structure
 
@@ -299,7 +299,7 @@ The following fields are pushed from Gainsight to their associated Salesforce fi
 
 </details>
 
-To see the complete list of fields and objects that are synced back from Gainsight to Salesforce, see [Using Gainsight Data in SFDC](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-gainsight-data-in-sfdc/).
+To see the complete list of fields and objects that are synced back from Gainsight to Salesforce, see [Using Gainsight Data in SFDC](/handbook/customer-success/product-usage-data/using-gainsight-data-in-sfdc/).
 
 ## Gainsight rules engine
 
@@ -494,7 +494,7 @@ The Gainsight integration with Snowflake is still new, so we use a Data Designer
 
 ### Explanation of redis, namespace_ids, and snowplow collection
 
-The data team does not use Snowplow as a source for the new Automated Service Ping processes. Instead, they use clones of Gitlab.com postgres and GitLab.com Redis counters.
+The data team does not use Snowplow as a source for the new Automated Service Ping processes. Instead, they use clones of GitLab.com postgres and GitLab.com Redis counters.
 
 Here are the four types of Service Ping we have:
 

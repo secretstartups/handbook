@@ -1,5 +1,4 @@
 ---
-
 title: "UX Group Strategy"
 description: "The UX department stage group strategy pages"
 ---

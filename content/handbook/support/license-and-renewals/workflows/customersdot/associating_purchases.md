@@ -62,6 +62,8 @@ First, verify the customer's identity as outlined under [ownership verification]
 
 #### Process for existing CustomersDot user
 
+**Warning**: A new `Customer` record will be created if updating a billing account contact to an email address for which a `Customer` record doesn't yet exist. So please be sure to follow the steps in the presented order to avoid this side-effect, or follow the [Process for non-existing CustomersDot user](#process-for-non-existing-customersdot-user), if the requestor is not an existing CustomersDot user.
+
 If the requestor is an existing CustomersDot user when doing an email search:
 
 1. Follow [Add subscription management contact workflow](#add-subscription-management-contact).
@@ -87,6 +89,8 @@ If the requestor is not an existing CustomersDot user when doing an email search
 
 **Note 2:** We do not accept vouches from GitLab Team Members (including Account Owners listed in SFDC) as proof of a customer's association to a subscription.
 
+**Note 3:** If you need to escalate any ownership verification requests to the Legal and Compliance team please open a [Subscription-Ownership-Change-Escalation](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=Subscription-Ownership-Change-Escalation) issue.
+
 We need **one** of the following in order to verify eligibility for the subscription ownership change:
 
 1. Approval from the existing contact
@@ -104,7 +108,26 @@ We need **one** of the following in order to verify eligibility for the subscrip
    - License file can be decoded in customersDot from `Licenses` -> `Validate License` (`/admin/license/validate_license`)
    - **Copies of license activation code emails** are not permissible articles of proof.
       - Please use the Redaction Zendesk app to censor the activation code if such a cloud activation code email is provided.
-1. Option for unactivated licenses purchased through a reseller only: Reseller can verify the account ownership change through an ticket request. Support is responsible for [confirming the account was purchased through a reseller](/handbook/support/license-and-renewals/workflows/working_with_reseller_related_requests.html#identifying-whether-a-customer-purchased-through-reseller), and verifying that the email address domain used by the reseller to make the request matches the key Contacts email domain in the subscription details in Zuora. Reseller can either open a ticket with this request or the customer can CC the reseller and also confirm that they would like to authorize the reseller to participate in the ticket.
+1. For a SaaS customer you can verify that the ticket requestor is an owner in the namespace attached to the subscription by:
+   1. Asking them to:
+      1. Login to their gitlab.com namespace as a group owner.
+      1. Open an API call to their namespace URL: "https://gitlab.com/api/v4/namespaces/<customer_namespace>/gitlab_subscription".
+      1. Copy/paste the returned data to the support ticket.
+   1. Using a gitlab.com admin account to verify the accuracy of the provided
+      subscription data and then approving or denying the request accordingly.
+1. Option for unactivated licenses purchased through a reseller only: Reseller can verify the account ownership change through an ticket request. Support is responsible for [confirming the account was purchased through a reseller](/handbook/support/license-and-renewals/workflows/working_with_reseller_related_requests#identifying-whether-a-customer-purchased-through-reseller), and verifying that the email address domain used by the reseller to make the request matches the key Contacts email domain in the subscription details in Zuora. Reseller can either open a ticket with this request or the customer can CC the reseller and also confirm that they would like to authorize the reseller to participate in the ticket.
+
+### Fixing typos
+
+Support may receive an [Internal Request](/handbook/support/license-and-renewals/workflows/working_internal_requests/) to correct a typo in a customer's email address and resend the license or activation code to a valid address. Use the following workflow to validate such requests before making any changes:
+
+1. (Cloud license only, proceed to step 2 for Offline/Legacy) In CustomersDot, find the subscription name on the [Cloud Activation](https://customers.gitlab.com/admin/cloud_activation) page. Ensure the activation code has not been used; if it has not been activated yet, there will be no "Self Managed Instance Activations" tab for this cloud activation.
+1. [Check the Mailgun logs](/handbook/support/license-and-renewals/workflows/customersdot/troubleshoot_errors_while_making_purchases/#troubleshooting-email-delivery-from-customerdot) to verify that the license email was sent but failed to reach the intended customer. If the email with the typo does not exist, the Mailgun log entry will display a failed mail delivery attempt (commonly shown as a **550 error code**).
+1. Log the error by taking a screenshot of the error message and attach it to the ticket.
+1. Validate the correct email address with the Account Manager who submitted the request in writing before correcting the typo.
+1. Update the Sold to contact email address on the Billing Account and the related Customers Portal account.
+1. Resend the license or activation code to the corrected email address.
+1. Advise the Account Manager to update the email for the Contact in SFDC for their records.
 
 ### Update Zuora Sold To contact using CustomersDot
 

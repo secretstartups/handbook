@@ -7,6 +7,8 @@ description: "Discover GitLab's benefits for team members in Ireland"
 
 GitLab offers a private medical plan through VHI which gives you access to cutting-edge medical treatments, health screenings and protection against the high medical costs of private care. GitLab covers 100% of the premiums for team members and eligible dependents.
 
+Please see the [brochure](https://drive.google.com/file/d/1s2Wa8K1tJm9E720ml5r1eJehjkQjIx-p/view?usp=sharing) to help guide you through the range of benefits and services available.  
+
 For a full breakdown of plan descriptions please review the following [Company Plan Plus Level 1.3 details](https://drive.google.com/file/d/1pnyWAp71MMYzdsUm1rk0o4gq7k8cdvJO/view?usp=sharing) and [Table of Benefits](https://drive.google.com/file/d/1-0cfnrKSTyQIyAEro3wR7i2aBLHsvXEv/view?usp=sharing).
 
 To find out which hospitals and treatment centers are covered on your plan, please refer to the directories of approved facilities which are available at `Vhi.ie/downloads` or contact VHI directly via the Corporate Advice Line: `056 777 5800`.

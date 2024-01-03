@@ -10,20 +10,20 @@ description: Learning Pathways available to Support team members
 
 ## Support Learning Pathways
 
-All the learning pathways we have in Support are listed [here](https://gitlab-com.gitlab.io/support/team/skills-by-subject.html). Each pathway contains a set of modules, and a module may reside in multiple pathways.
+All the learning pathways we have in Support are listed [here](https://gitlab-com.gitlab.io/support/team/skills-by-subject). Each pathway contains a set of modules, and a module may reside in multiple pathways.
 
 To create an issue for yourself with one of the module templates:
 
-- Click on the module you want to pursue from the [Skills Catalog](https://gitlab-com.gitlab.io/support/team/skills-catalog.html) page
+- Click on the module you want to pursue from the [Skills Catalog](https://gitlab-com.gitlab.io/support/team/skills-catalog) page
 - Title it as ***Your Name*: *Module Name***
 - Assign it to yourself
 - Now you're all set to follow the instructions in the module!
 
-**NOTE:** Contact your [Onboarding Buddy](/handbook/support/training/onboarding_buddy.html) if you have any questions about these pathways. Buddies are always happy to help!
+**NOTE:** Contact your [Onboarding Buddy](/handbook/support/training/onboarding_buddy) if you have any questions about these pathways. Buddies are always happy to help!
 
 ## Support hybrid model
 
-The hybrid model is a structured training plan that will prepare you to work on both [SaaS](https://docs.gitlab.com/ee/subscriptions/gitlab_com/) and [self-managed](https://docs.gitlab.com/ee/subscriptions/self_managed/) support issues. The ultimate goal is to split your time roughly 50%/50% between the two. You may find these [checkpoints](/handbook/support/training/onboarding_hybrid_path_checkpoints.html) helpful while working through the hybrid model path.
+The hybrid model is a structured training plan that will prepare you to work on both [SaaS](https://docs.gitlab.com/ee/subscriptions/gitlab_com/) and [self-managed](https://docs.gitlab.com/ee/subscriptions/self_managed/) support issues. The ultimate goal is to split your time roughly 50%/50% between the two. You may find these [checkpoints](/handbook/support/training/onboarding_hybrid_path_checkpoints) helpful while working through the hybrid model path.
 
 <div class="x-scrollable">
 <div style="width: 1800px;">
@@ -97,7 +97,7 @@ Typically, for a new team member in Support, completion of the below onboarding 
 
 ### Choosing your initial Area of Focus
 
-Work with your manager to decide your initial [Area of Focus](/handbook/support/support-engineer-responsibilities.html#support-engineer-areas-of-focus).
+Work with your manager to decide your initial [Area of Focus](/handbook/support/support-engineer-responsibilities#support-engineer-areas-of-focus).
 
 1. For GitLab (SaaS or Self-managed), complete the [GitLab Support Learning pathway](#gitlab-support-learning-pathway).
 1. For License & Renewals, complete the [License and Renewals Learning Pathway](#license-and-renewals-learning-pathway).
@@ -137,7 +137,7 @@ After you complete an Area of Focus, talk with your manager about joining an on-
 
 | Module | Duration | Description |
 | ------ | ------ | ------ |
-| [GitLab.com CMOC](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=GitLab-com%20CMOC) | 1 Day | Understand the responsibilities of being the [Communications Manager On Call (CMOC)](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) for an active GitLab.com incident |
+| [GitLab.com CMOC](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=GitLab-com%20CMOC) | 1 Day | Understand the responsibilities of being the [Communications Manager On Call (CMOC)](/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) for an active GitLab.com incident |
 | [Customer Emergencies](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=Customer%20Emergencies) | 1 Week | Understand the responsibilities of being on-call for Customer Emergencies |
 
 ### Support Engineer Achievable Progress - First 6 Months
@@ -189,7 +189,7 @@ It is recommended that you complete the modules in the order listed, unless an i
 | ------ | ------ | ------ |
 | [Support Manager Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/main/.gitlab/issue_templates/Support-Manager-Basics.md) | 2 Weeks | Understand support management processes and workflows, including on-call rotations |
 | [Git & GitLab Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/main/.gitlab/issue_templates/Git-GitLab-Basics.md) | 1 Week | Understand our products and services |
-| [Gitlab Support Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/main/.gitlab/issue_templates/GitLab-Support-Basics.md) | 1 Day | Understand how GitLab Support operates and the most common workflows |
+| [GitLab Support Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/main/.gitlab/issue_templates/GitLab-Support-Basics.md) | 1 Day | Understand how GitLab Support operates and the most common workflows |
 | [ZenDesk Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/main/.gitlab/issue_templates/Zendesk-Basics.md) | 1 Day | Utilize ZenDesk to perform ticket management |
 | [Triaging Tickets](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=Triaging%20Tickets) | 4 Days | Understand how to triage tickets including the triage view in Zendesk |
 | [Customer Emergencies](https://gitlab.com/gitlab-com/support/support-training/-/blob/main/.gitlab/issue_templates/Customer-Emergencies.md) | 1 Week | Understand the responsibilities of being on-call for Customer Emergencies |

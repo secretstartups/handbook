@@ -1,0 +1,26 @@
+{{- /*  Initialize. */}}
+{{- $department := "" }}
+
+{{- /* Get params. */}}
+{{- with (.Get 0) }}
+  {{- $department = . }}
+{{- else }}
+  {{- errorf "The %q shortcode requires a single positional argument for department."}}
+{{- end }}
+
+<table>
+    <thead>
+        <th>Name</th>
+        <th>Role</th>
+    </thead>
+    <tbody>
+        {{- range $k, $v := partials.IncludeCached "team/by-name" . }}
+          {{- if in .departments $department }}
+          <tr>
+              <td>{{ partial "member-by-name" .name }}</td>
+              <td>{{ .role | safe.HTML }}</td>
+          </tr>
+          {{- end }}
+        {{- end }}
+    </tbody>
+</table>

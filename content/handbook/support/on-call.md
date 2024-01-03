@@ -14,7 +14,7 @@ There are four on-call rotations in Support:
 - [US Federal Emergencies](/handbook/support/workflows/customer_emergencies_workflows#us-federal-on-call) - which is similar to Customer Emergencies, but has different hours and a US Citizen requirement to participate in
 - [Support Manager On-call](/handbook/support/workflows/support_manager-on-call) - in which Support Manager are an escalation point for issues raised by Support Engineers and GitLab team members and missed PagerDuty notifications
 
-For customers that have [Priority Support](/support/#priority-support), the Support Engineering Team is on-call in these capacities and available to assist with emergencies. What constitutes an emergency is defined in our [definitions of support impact](https://about.gitlab.com/support/definitions/#definitions-of-support-impact).
+For customers that have [Priority Support](https://about.gitlab.com/support/#priority-support), the Support Engineering Team is on-call in these capacities and available to assist with emergencies. What constitutes an emergency is defined in our [definitions of support impact](https://about.gitlab.com/support/definitions/#definitions-of-support-impact).
 
 We take on-call seriously. There are [escalation policies](https://gitlab.pagerduty.com/escalation_policies#PKV6GCH) in place so that if a first responder does not respond fast enough another team member or members is/are alerted. Such policies aren't expected to ever be triggered, but they cover extreme and unforeseeable circumstances.
 
@@ -22,7 +22,7 @@ We take on-call seriously. There are [escalation policies](https://gitlab.pagerd
 
 ### Be alert and available
 
-When you are on call you are expected to be available and ready to respond to PagerDuty pings as soon as possible, and certainly within the emergency response time set by our [Service Level Agreements](/support/#priority-support).
+When you are on call you are expected to be available and ready to respond to PagerDuty pings as soon as possible, and certainly within the emergency response time set by our [Service Level Agreements](https://about.gitlab.com/support/#priority-support).
 
 If you have plans outside of your work space while being on call, then being available may require bringing a laptop and reliable internet connection with you.
 
@@ -72,7 +72,7 @@ PagerDuty is the single source of truth for on-call hours, rotation order and es
 
 There are several ways to view current and future schedules:
 
-1. On gitlab.io: [View the current and next week's assignments](https://gitlab-com.gitlab.io/support/team/oncall.html)
+1. On gitlab.io: [View the current and next week's assignments](https://gitlab-com.gitlab.io/support/team/oncall)
 1. In PagerDuty: View the [Customer Emergencies schedule](https://gitlab.pagerduty.com/schedules) and the [escalation policy](https://gitlab.pagerduty.com/escalation_policies#PKV6GCH)
 1. In Google Calendar, [subscribe to your on-call schedule](https://support.pagerduty.com/docs/schedules-in-apps#section-export-only-your-on-call-shifts)
 1. In the `#spt-gg-forest` slack channel, you can see who is on-call for the different schedules today
@@ -175,8 +175,8 @@ Generally: if there's a situation that occurred (or is actively happening) durin
 
 Some rotations have specific handover procedures:
 
-- [CMOC - End of Shift Handover Procedure](/handbook/support/workflows/cmoc_workflows.html#end-of-shift-handover-procedure)
-- [CEOC - Post-call](/handbook/support/workflows/customer_emergencies_workflows.html#post-call)
+- [CMOC - End of Shift Handover Procedure](/handbook/support/workflows/cmoc_workflows#end-of-shift-handover-procedure)
+- [CEOC - Post-call](/handbook/support/workflows/customer_emergencies_workflows#post-call)
 
 ### Viewing all on-call pages in one place
 
@@ -285,7 +285,7 @@ Note that some teams in GitLab are using Zapier with a paid plan, but Support En
 1. Zapier will now look for emails with that label and should find the test email we triggered earlier
 1. Choose the test email and "Continue with selected record" to start setting up the action
 1. For the Action, use the `Slack` app with the `Set Status` event
-1. Continue until you can specifiy the input for the status:
+1. Continue until you can specify the input for the status:
    - `Status Text` – you'll likely want to specify your rotation name here
    - `Status Emoji` – you'll likely want to use `:pagerduty:` here
    - `Expiration Time` – you'll want to use the duration of your shift here so the status is automatically cleared when your shift is done

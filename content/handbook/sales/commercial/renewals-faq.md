@@ -21,13 +21,13 @@ Q: When is my GitLab subscription due for renewal?
 
 A: Login to customers.gitlab.com to see the renewal/ expiry date.
 
-![renewal.due](https://about.gitlab.com/handbook/sales/images/when.is.my.renewal.due.png)
+![renewal.due](/handbook/sales/images/when.is.my.renewal.due.png)
 
 Q: Where can I manage my GitLab subscription and upcoming renewal?
 
 A: Once logged into to customer.gitlab.com, you will see various options regarding your upcoming renewal, including *Upgrade Plan* & *Add More Seats*.
 
-![manage.renewal](https://about.gitlab.com/handbook/sales/images/where.can.i.manage.png)
+![manage.renewal](/handbook/sales/images/where.can.i.manage.png)
 
 Q: Will my GitLab subscription auto renew?
 
@@ -38,7 +38,7 @@ A: Once logged into to customer.gitlab.com, you will see one of the following un
 
 *Renews* indicates Auto Renew is On, *Expire*s indicates Auto Renew is Off.  Should you wish to turn Auto Renew back on, you can select the *Resume Subscription* option.
 
-![manage.renewal](https://about.gitlab.com/handbook/sales/images/am.i.on.auto.renew.png)
+![manage.renewal](/handbook/sales/images/am.i.on.auto.renew.png)
 
 Q: When my GitLab subscription is due for renewal, am I able to add or remove licenses?
 
@@ -50,7 +50,7 @@ More information on this can be found [here](https://docs.gitlab.com/ee/subscrip
 
 Q: I see I was charged for a Quarterly Subscription Reconciliation. What is is this for?
 
-A: Quarterly reconciliation occurs when you exceed your license limit. You will be charged an overage based on the maximum number of seats you used during the quarter.  
+A: Quarterly reconciliation occurs when you exceed your license limit. You will be charged an overage based on the maximum number of seats you used during the quarter.
 
 More information on this can be found [here](https://docs.gitlab.com/ee/subscriptions/quarterly_reconciliation.html).
 
@@ -60,7 +60,7 @@ Q: In the GitLab Customers Portal, I see the option to cancel my subscription. W
 
 A: In customers.gitlab.com, if *Cancel subscription* is highlighted then this means auto-renew is turned on. Clicking *Cancel* turns off auto-renew. You will still have access to your paid features until the subscription expiration date.
 
-![renewal.status](https://about.gitlab.com/handbook/sales/images/renewal.status.png)
+![renewal.status](/handbook/sales/images/renewal.status.png)
 
 Q: In the GitLab Customers Portal, I see the option to resume my subscription. What happens if I click resume?
 
@@ -104,7 +104,7 @@ Q: How can I check to see when my customers subscription is due for renewal?
 
 A: You can find when a Customer is up for renewal by checking the *Next Renewal Date* field on the Account. If an Account has multiple Subscriptions you can navigate to the relevant *Renewal Opportunit*y and check the *Subscription Renewal Date.*
 
-Q: How can I check to see if my customer has successfully linked their Gitlab.com user account to their CDot user account?
+Q: How can I check to see if my customer has successfully linked their GitLab.com user account to their CDot user account?
 
 A: First, navigate to https://customers.gitlab.com/admin/customer/.  From this page, you can use the *Zuora* and *Impersonate* tabs to validate that the information in these portals matches CustomerDot
 
@@ -166,15 +166,15 @@ A: Once a customer follows the process outlined above, the renewal opportunity o
 
 Q: If my customer advised they want to purchase through the channel, what action should I take?
 
-A: You can renew a Direct customer via the Channel within the existing Renewal Opportunity and following the Quoting process of [Channel/Alliance quotes](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#quoting-partner-deals).
+A: You can renew a Direct customer via the Channel within the existing Renewal Opportunity and following the Quoting process of [Channel/Alliance quotes](/handbook/sales/field-operations/channel-operations/#quoting-partner-deals).
 
 Q: If my customer wants to move from Self-Managed to a SaaS instance or vice-versa, what steps do I need to take?
 
-A: This will involve the customer swapping product offerings.  Therefore, if a customer wishes to change products at time of renewal, follow the standard [Renewal Quoting process](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#renew-subscription-quote). If a Customer wishes to switch products during the contract term follow the [Amendment Quoting process](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#b--upgrade-or-switch-products-during-the-subscription-term).
+A: This will involve the customer swapping product offerings.  Therefore, if a customer wishes to change products at time of renewal, follow the standard [Renewal Quoting process](/handbook/sales/field-operations/sales-operations/deal-desk/#renew-subscription-quote). If a Customer wishes to switch products during the contract term follow the [Amendment Quoting process](/handbook/sales/field-operations/sales-operations/deal-desk/#b--upgrade-or-switch-products-during-the-subscription-term).
 
 Q: My customer wants to consolidate multiple Subscriptions into one.  How do I action this?
 
-A: Reach out to Deal Desk for guidance as early as possible. If all the relevant Subscriptions are co-termed (have the same end dates) and the consolidation is occurring at the time of Renewal then build the quote with all the consolidating products on the Renewal Opportunity that is associated to the namespace that will remain active. Once the Order Form is signed, [Submit the Opportunity for Booking](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#submit-an-opportunity-for-booking). For the remaining Renewal Opportunities reach out to Deal Desk via chatter and request they be Closed Lost with Closed Lost Reason = Merged into another opportunity. In the instance where a customer is requesting to consolidate Subscriptions which requires one or more Subscriptions to be early-renewed then consolidate the Subscriptions via [Contract Reset](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#contract-reset).
+A: Reach out to Deal Desk for guidance as early as possible. If all the relevant Subscriptions are co-termed (have the same end dates) and the consolidation is occurring at the time of Renewal then build the quote with all the consolidating products on the Renewal Opportunity that is associated to the namespace that will remain active. Once the Order Form is signed, [Submit the Opportunity for Booking](/handbook/sales/field-operations/order-processing/#submit-an-opportunity-for-booking). For the remaining Renewal Opportunities reach out to Deal Desk via chatter and request they be Closed Lost with Closed Lost Reason = Merged into another opportunity. In the instance where a customer is requesting to consolidate Subscriptions which requires one or more Subscriptions to be early-renewed then consolidate the Subscriptions via [Contract Reset](/handbook/sales/field-operations/sales-operations/deal-desk/#contract-reset).
 
 Q: My customer has exceed over their licenses count for the first time.  What action should I take?
 

@@ -26,9 +26,9 @@ A successful public offering is a significant milestone, but it is not GitLab’
 
 Market capitalization (stock price x shares outstanding) will be the result of a combination of factors most directly associated with the following areas:
 
-1. Size of [total addressable market](https://about.gitlab.com/handbook/sales/tam/)
+1. Size of [total addressable market](/handbook/sales/tam/)
 1. Consistency of execution
-1. [Competitive position](/handbook/leadership/mitigating-concerns/#introduction)
+1. [Competitive position](https://internal-handbook.gitlab.io/handbook/leadership/mitigating-concerns/#introduction)
 1. Clarity of [value proposition](/handbook/company/strategy/#organization)
 1. Perception of management [team](/handbook/company/team/)
 
@@ -36,7 +36,7 @@ As GitLab team members, delivering on our annual plan and long-term strategy are
 
 ## Short Term Focus Can Be A Distraction
 
-A finer point on valuation: In the long run, our underlying business performance will be the fundamental driver of GitLab's stock price. Workplace conversations on the stock price can be a distraction; we should instead shift discussions to our KPIs and focus on growing [the change in annual recurring revenue (ARR)](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/).
+A finer point on valuation: In the long run, our underlying business performance will be the fundamental driver of GitLab's stock price. Workplace conversations on the stock price can be a distraction; we should instead shift discussions to our KPIs and focus on growing [the change in annual recurring revenue (ARR)](/handbook/sales/sales-term-glossary/arr-in-practice/).
 
 Long-term initiatives may take years to show profitable results, and in the short term they can create drag. Teams that become overly focused on stock price will tend to avoid longer-term investments, preferring to boost revenue and profit in the short term. This is why it's important that incentives are in place to grow the company over the long term.
 
@@ -53,7 +53,7 @@ Our financial planning process includes setting a division's spend based on reve
 ## Transparency
 
 1. Transparency is a [core value of GitLab](/handbook/values/#transparency).
-1. We want to maintain the same overall level of transparency as a public company that we have as a private company. For example, indicators of revenue such as our [win rate](https://about.gitlab.com/handbook/sales/#win-rate) will no longer be accessible externally, but in other areas transparency will be increased: financial profile.
+1. We want to maintain the same overall level of transparency as a public company that we have as a private company. For example, indicators of revenue such as our [win rate](/handbook/sales/#win-rate) will no longer be accessible externally, but in other areas transparency will be increased: financial profile.
 1. There are high expectations to do what you say. With our level of transparency people may not be used to how much we say, and we will be held to a new level of expectations on what we do.
 1. When we are required to publicly release quarterly financials, we may be required to adjust the timing of or level of detail associated with certain key metrics.
 
@@ -70,7 +70,7 @@ In situations where we are using the standard communications channels that other
 
 1. Iteration is a [core value of GitLab](/handbook/values/#iteration).
 1. We want to maintain the same velocity of iterating as a public company that we have as a private company.
-1. Iteration is a key factor in shipping new [releases](https://about.gitlab.com/releases/) [every month](https://about.gitlab.com/handbook/engineering/releases/).
+1. Iteration is a key factor in shipping new [releases](https://about.gitlab.com/releases/) [every month](/handbook/engineering/releases/).
 
 ## Disclaimer
 
@@ -88,6 +88,6 @@ Statements on this page are being made pursuant to, and in accordance with, Rule
 >
 > Now, we're not totally in control of that. The majority of GitLab is owned by venture capitalists. But, we do have some sway. If, as an executive team, you're not interested in being acquired, it's harder to acquire a company.
 >
-> We're always more [optimistic](/handbook/values/#focus-on-improvement) about the future than anybody outside of the company. That means that we have to keep growing. We have to keep growing [IACV](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/), and keep growing our revenue.
+> We're always more [optimistic](/handbook/values/#focus-on-improvement) about the future than anybody outside of the company. That means that we have to keep growing. We have to keep growing [IACV](/handbook/sales/sales-term-glossary/arr-in-practice/), and keep growing our revenue.
 >
 > We keep investing in the future in order to not get bought. We've been very clear with our investors what our intentions were from the start. We're doing everything we can to stay independent. - *GitLab co-founder and CEO Sid Sijbrandij*

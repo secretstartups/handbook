@@ -16,10 +16,10 @@ The purpose of this page is to centralize and document all key Go To Market poli
 
 ## Account Ownership Rules of Engagement
 
-- [Account Ownership Rules of Engagement Handbook](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/)
+- [Account Ownership Rules of Engagement Handbook](/handbook/sales/field-operations/gtm-resources/)
 
 ## Territory Tables
-- [Account Ownership Territory Tables Handbook](https://about.gitlab.com/handbook/sales/territories/)
+- [Account Ownership Territory Tables Handbook](/handbook/sales/territories/)
 
 ## Territory Success Planning (TSP)
 
@@ -93,4 +93,4 @@ Ops will review these requests on a periodic basis, and provide a response in th
 
 The Primary Quote system is a 1:1 relationship in SFDC that connects the total transaction amount on a quote with the amount on its related opportunity. This is to ensure we are forecasting the same amount that we will book and enables further automation as the quote is sent to Zuora billing. To support sales situations that require multiple quotes (for instance: a small deal option and a big deal option), sales reps can identify which one of their quote is "Primary".
 
-[Primary Quote technical documentation here:](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/#primary-quote-system)
+[Primary Quote technical documentation here:](/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/#primary-quote-system)

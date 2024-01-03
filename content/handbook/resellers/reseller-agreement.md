@@ -60,7 +60,7 @@ Capitalized terms used in this Agreement shall be defined where first used or as
 
 1.15 “**Software**” means software, and other branded offerings sold by GitLab as agreed to between the Parties in an Order Form, including but not limited to, the self-managed and/or SaaS version of GitLab’s DevOps Lifecycle Application Platform.
 
-1.16 “**Terms and Conditions**” means Gitlab’s standard terms and conditions applicable to the Products and Services, including GitLab’s Subscription Agreement and Professional Services Agreement located at <https://about.gitlab.com/terms> as may be updated in GitLab’s sole discretion from time to time.
+1.16 “**Terms and Conditions**” means GitLab’s standard terms and conditions applicable to the Products and Services, including GitLab’s Subscription Agreement and Professional Services Agreement located at <https://about.gitlab.com/terms> as may be updated in GitLab’s sole discretion from time to time.
 
 1.17 “**Trademarks**” means a Party’s corporate name, logo, and “button” or “icon” for use within third party software to indicate an available integration or partnership, and any other logos, slogan(s), service marks, trademarks, trade names and certification marks.
 

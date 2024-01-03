@@ -45,7 +45,7 @@ At a minimum it usually makes sense to invite your team to the session, but you 
 1. Upload it to Google Drive.
 1. Upload it to YouTube:
 
-   - Follow the [instructions](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#access) to get access.
+   - Follow the [instructions](/handbook/marketing/marketing-operations/youtube/#access) to get access.
    - Add it to your team's playlist (if available).
    - You can copy the description from a [previous talk](https://www.youtube.com/watch?v=CW0SujsABrs&list=PLFGfElNsQthZ-D0khZ_NSb5Bdl2xkF97m&index=2).
    - You can screenshot the first slide and use that as the video thumbnail.

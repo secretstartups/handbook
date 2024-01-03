@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/customer-success/professional-services-engineering/workflows/intake/aws.html
 title: AWS Intake
 category: Technical Intake
 ---

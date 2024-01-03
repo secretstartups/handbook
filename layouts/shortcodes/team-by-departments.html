@@ -1,0 +1,53 @@
+{{- /* <!-- TODO: make this list dynamic based on the `borrow` field in yaml files --> */}}
+{{- /*  Initialize. */}}
+{{- $departments := slice }}
+{{- $managerRoles := slice }}
+
+{{- if .IsNamedParams }}
+  {{- with .Get "departments"}}
+    {{- $departments = strings.Split . "," }}
+  {{- end }}
+  {{- with .Get "manager-roles" }}
+    {{- $managerRoles = strings.Split . "," }}
+  {{- end }}
+  {{- with .Get "department" }}
+    {{- $departments = append (strings.Split . ",") $departments }}
+  {{- end }}
+{{- else }}
+  {{- $departments = (slice (.Get 0)) }}
+{{- end }}
+
+{{- $team := partials.IncludeCached "data/team" page }}
+{{- $teamDict := dict }}
+{{- range $departments }}
+  {{- $department := . }}
+  {{ range  $team }}
+    {{- if in .departments $department }}
+      {{- $teamDict = merge $teamDict (dict .name . ) }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+
+{{- range $managerRoles }}
+  {{- $role := . }}
+  {{ range $team }}
+    {{- if eq .job_title $role}}
+      {{- $teamDict = merge $teamDict (dict .name . ) }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+
+<table>
+    <thead>
+        <th>Name</th>
+        <th>Role</th>
+    </thead>
+    <tbody>
+        {{- range $k, $v := $teamDict }}
+          <tr>
+              <td>{{ partial "member-by-gitlab" $v.gitlab }}</td>
+              <td>{{ $v.role | safe.HTML }}</td>
+          </tr>
+        {{- end }}
+    </tbody>
+</table>

@@ -10,7 +10,7 @@ description: "Description of duties and scope for Account Deletion and Data Acce
 
 ## Overview
 
-This document provides an overview of what account deletion and data access requests are and who is responsible for processing the different aspects of each request. To learn how to process each type of request as a Support Engineer, refer to the [workflows page](/handbook/support/workflows/account_deletion_access_request_workflows.html).
+This document provides an overview of what account deletion and data access requests are and who is responsible for processing the different aspects of each request. To learn how to process each type of request as a Support Engineer, refer to the [workflows page](/handbook/support/workflows/account_deletion_access_request_workflows).
 
 Under numerous global and national data privacy laws, users can request to have their GitLab SaaS accounts, along with any other information that we have stored about them, deleted. They can also request to obtain more details about their data, including information about **what** data GitLab has stored about them.
 
@@ -44,4 +44,4 @@ Exceptions to this procedure will be tracked as per the [Information Security Po
 
 ## References
 
-- [Controlled Document Procedure](/handbook/security/controlled-document-procedure.html)
+- [Controlled Document Procedure](/handbook/security/controlled-document-procedure)

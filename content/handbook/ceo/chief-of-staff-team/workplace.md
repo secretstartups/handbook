@@ -280,7 +280,7 @@ See below for an A/B comparison of how an inward-facing GitLab *handbook* page i
 
 ![GitLab all-remote team](https://about.gitlab.com/images/all-remote/GitLab-All-Remote-Zoom-Team-Tanuki.jpg){: .shadow.medium.center}
 
-GitLab's [Brand and Digital Design](https://about.gitlab.com/handbook/marketing/digital-experience/) team are building out images and illustrations to visualize all-remote.
+GitLab's [Brand and Digital Design](/handbook/marketing/digital-experience/) team are building out images and illustrations to visualize all-remote.
 
 *This section will be refreshed upon completion of the FY23 remote work brand refresh.*
 
@@ -423,7 +423,7 @@ We gathered the workplace design community in June 2021 for **REMOTE by GitLab**
 
 ### Social media
 
-We incorporate all-remote content on GitLab’s [social media](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/) accounts, and are investigating a visual approach to new mediums that are aligned with culture and lifestyle stories.
+We incorporate all-remote content on GitLab’s [social media](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/) accounts, and are investigating a visual approach to new mediums that are aligned with culture and lifestyle stories.
 
 We are working with talent branding to surface relevant all-remote stories from GitLab team members to talent acquisition channels and review sites, such as Glassdoor, LinkedIn and Comparably.
 

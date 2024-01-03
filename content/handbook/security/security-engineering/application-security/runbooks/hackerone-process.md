@@ -199,11 +199,12 @@ Remediation of this vulnerability happens within the SIRT issue and typically in
   - For High and Critical CVSS, two team members must react with a thumbsup emoji on the note
   - If needed, make a request in `#sec-appsec` when your note has not received enough votes
 - After Bug Bounty Council approval:
+  - Consider explaining the CVSS score and council discussion points on the canonical issue. This helps teams understand the severity during remediation and, when the issue becomes public, it gives transparency to researchers and customers on how we reached a given score.
   - If 30 days have passed since the issue was triaged, the approved award may be paid in advance of a confirmed fix using the `04 - Bounty Award / Reviewed and Awarded Prior to Fix` common response.
   - Once a fix is shipped, award the remaining amount (or full amount if none was awarded at time of triage) using the `02 - Bounty Award` common response
   - Add a 💰 emoji to the bug bounty council thread after paying the bounty award.
 
-We can award GitLab swag to reporters who have submitted a quality report that did not qualify for a monetary reward in our Bug Bounty program. To award swag, please follow the [swag nomination process](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/community-appreciation/#nomination-process) that is managed by our Developer Relations team.
+We can award GitLab swag to reporters who have submitted a quality report that did not qualify for a monetary reward in our Bug Bounty program. To award swag, please follow the [swag nomination process](/handbook/marketing/developer-relations/contributor-success/community-appreciation/#nomination-process) that is managed by our Developer Relations team.
 
 ## Managing issues
 
@@ -309,7 +310,7 @@ GitLab reporters with 3 or more valid reports are eligible for a 1-year Ultimate
 1. Validate that the three reports were valid. That means they are `Triaged` or `Resolved`.
 1. Validate that the three reports have not been used to obtain a previous license.
 1. If the reports are not valid, respond to the reporter on H1 explaining the reason the license is not being issued.
-1. If the reports are valid, visit the [GitLab Support Internal Requests page](https://gitlab-com.gitlab.io/support/internal-requests-form/) and select `Hacker One Reporter License` as the request type.
+1. If the reports are valid, visit the [GitLab Support Internal Requests page](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/) and use the **GitLab Support Internal Requests for Global customers** request option, then select **Hacker One Reporter license** for the internal request type.
     - For `Contact Name` use the reporter's full name if available, otherwise their H1 handle
     - For `Contact Email` use the reporter's `[username]@wearehackerone.com` email address
 1. Enter the associated license information in the [H1 License Award sheet](https://docs.google.com/spreadsheets/d/1qJZ9jfIvQuSU5u4odj4Db_CRKJ_GHegtSZQvJx36FUE/edit)
@@ -326,8 +327,8 @@ Members of the public can ask questions about our HackerOne bug bounty program h
 
 All members of the HackerOne triage team have access to GitLab Ultimate licenses. HackerOne will inform us annually when the license needs to be renewed.
 
-- Visit the [GitLab Support Internal Requests page](https://gitlab-com.gitlab.io/support/internal-requests-form/)
-- Select the `Other` template
+- Visit the [GitLab Support Internal Requests page](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/)
+- Use the **GitLab Support Internal Requests for Global customers** request option, then select **Hacker One Reporter license** for the internal request type.
 - Paste the following:
 
 ```text

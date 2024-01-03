@@ -8,7 +8,7 @@ title: "CSE Segment: Scale"
 
 
 
-View the [CSM Handbook homepage](https://about.gitlab.com/handbook/customer-success/csm/) for additional CSM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM-related handbook pages.
 
 ---
 **Overview**
@@ -17,7 +17,7 @@ At GitLab, we take customer success seriously, and our Scale Customer Success En
 
 [For the ARR thresholds for the Scale customer segment please reference this Wiki page](https://gitlab.com/gitlab-com/customer-success/csm/-/wikis/CSM-Segments) (GitLab Internal).
 
-1\. **[Customer Enablement Webinar Program](https://about.gitlab.com/handbook/customer-success/csm/segment/scale/webinar-calendar/):**
+1\. **[Customer Enablement Webinar Program](/handbook/customer-success/csm/segment/scale/webinar-calendar/):**
 
 - Informative and interactive webinars for customers.
 
@@ -37,7 +37,7 @@ At GitLab, we take customer success seriously, and our Scale Customer Success En
 
 - Improves overall customer satisfaction.
 
-3\. **[Pooled Scale CSE Model for Key Accounts:](https://about.gitlab.com/handbook/customer-success/csm/segment/scale/scale-operating-rhythm/#scale-engagement-request-process)**
+3\. **[Pooled Scale CSE Model for Key Accounts:](/handbook/customer-success/csm/segment/scale/scale-operating-rhythm/#scale-engagement-request-process)**
 
 - Collaboration with sales for high-risk or expansion accounts.
 
@@ -59,7 +59,9 @@ At GitLab, we take customer success seriously, and our Scale Customer Success En
 
 ### **Operating Rhythm and Active Campaigns**
 
-The [Scale CSE operating rhythm](https://about.gitlab.com/handbook/customer-success/csm/segment/scale/scale-operating-rhythm/) outlines procedures Scale CSEs use to engage with customers as well as how account owners can request Scale CSE engagement outside of the normal operating rhythm during the customer lifecycle.
+![Customer Lifecycle Journey Scale CSE](/handbook/customer-success/csm/segment/scale/CustomerLifecycleJourneywithMetrics-ScaleCSE_Nov-2023.png)
+
+The [Scale CSE operating rhythm](/handbook/customer-success/csm/segment/scale/scale-operating-rhythm/) outlines procedures Scale CSEs use to engage with customers as well as how account owners can request Scale CSE engagement outside of the normal operating rhythm during the customer lifecycle.
 
 Active Campaigns: [Email Content - GitLab Internal Only](https://docs.google.com/document/d/1Db6y_i2gPQrPnJkJpAAbfFKQtw4c5VgSFJcHKDG-4hk/edit)
 

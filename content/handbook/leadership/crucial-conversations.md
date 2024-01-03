@@ -149,3 +149,4 @@ Below are additional resources on influencing and leadership for you to review.
 - [5 Leadership Strategies Proven to Improve Performance on Your Team](https://crestcomleadership.com/2016/12/01/5-leadership-strategies-to-improve-performance-in-your-company/)
 - [The 7 Best Books to Improve Influencing Skills](https://www.roffeypark.com/influencing-skills/the-7-best-books-to-improve-influencing-skills/)
 - [7 Ways to Build Influence in the Workplace](https://www.inc.com/jayson-demers/7-ways-to-build-influence-in-the-workplace.html)
+- [The Power of Vulnerability](https://www.youtube.com/watch?v=iCvmsMzlF7o)

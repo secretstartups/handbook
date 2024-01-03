@@ -24,17 +24,10 @@ To see what training is coming soon, view the [Field Enablement Spotlight issue 
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|
-| Nov 6 | Sales Ops Update: ASM Clari Best Practices | Clari Team |
-| Nov 9 | Sales Ops Update: AE Clari Best Practices | Clari Team |
-| Nov 16 | Competitive Update  | Joe K. |
-| Nov 23 | *No Session - Thanksgiving - US Holiday*  | N/A |
-| Nov 30 | Customer Win Stories & Enablement - Leveraging Professional Services | Melanie R. |
-| Dec 7 | TBD |  |
-| Dec 14 | TBD |  |
-| Dec 21 | TBD |  |
-| Dec 28 | TBD |  |
+| Dec 21 | **No Session** |  |
+| Dec 28 | **No Session** |  |
 | Jan 4 | TBD |  |
-| Jan 11 | TBD |  |
+| Jan 11 | ZoomInfo Overview | ZoomInfo Team |
 | Jan 18 | *No session during the last week of the quarter* | N/A |
 | Jan 25 | *No session during the last week of the quarter* | N/A |
 
@@ -47,6 +40,10 @@ To see what training is coming soon, view the [Field Enablement Spotlight issue 
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2023-12-14 | **[Code Suggestions GTM Launch Overview](https://drive.google.com/file/d/1NRqKjVdznClZNT2mFqdP7aYHkmSyfyCA/view?usp=drive_link)** | Private |
+| 2023-11-30 | **[Winning with Professional Services: Customer Stories](https://drive.google.com/file/d/1LkNyGpygFHpVY_b-6_nkY3m109lNqmb9/view?usp=drive_link)** | Private |
+| 2023-11-16 | **[FY24-Q4 Competitive Update](https://drive.google.com/file/d/12DsBAI4vC9mwc8_SrJuixNERL1_JKbzu/view?usp=drive_link)**  | Private |
+| 2023-11-09 | **[Sales Ops Update: AE Clari Best Practices](https://drive.google.com/file/d/1RGjNV4XvB-MkW-OTgw3ITu8-oGlKkns1/view?usp=drive_link)** | Private |
 | 2023-11-02 | **[How to Implement DORA Metrics in GitLab](https://drive.google.com/file/d/1XDqR6peiMYIBs-jdNuvXaz4WlTVqJsTU/view?usp=drive_link)** | Private |
 | 2023-10-19 | **[Pitching GitLab and the Top 10 Reasons Why](https://drive.google.com/file/d/1Mod-ZvWgt85gg55JQke0H1OmGlGm-0sp/view?usp=share_link)**  | Private |
 | 2023-10-12 | **[Analyst Relations - New Gartner & Forrester Security Reports](https://drive.google.com/file/d/1eHc9R-hOtnUT9KNB0oGMTi5mANZGLDKd/view?usp=drive_link)**  | Private |
@@ -175,7 +172,7 @@ To see what training is coming soon, view the [Field Enablement Spotlight issue 
 | 2020-03-19 | **[True-Ups](https://youtu.be/vNWUz1BGs2E)** | Public |
 | 2020-03-12 | **[The GitLab Journey & The SCM Use Case](https://youtu.be/GN891Bqc6QY)** | Public |
 | 2020-03-05 | **[The GitLab Journey & The CI Use Case](https://youtu.be/JoeaTYIH5lI)** | Public |
-| 2020-02-27 | **[Q1 FY21 GitLab Release Update](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/release-updates/#123128-sales-enablement)** | Public |
+| 2020-02-27 | **[Q1 FY21 GitLab Release Update](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/release-updates/#123128-sales-enablement)** | Public |
 | 2020-02-06 | **[SKO Preview](https://youtu.be/wFqMfGSXsXQ)** | Public |
 | 2020-01-13 | **[FY21 Product Outlook - Ops Section](https://youtu.be/dLBPS1T5Wbk)** | Public |
 | 2020-01-13 | **[FY21 Product Outlook - Secure and Protect](https://youtu.be/jbuvqD2Ge3M)** | Public |
@@ -200,7 +197,7 @@ To see what training is coming soon, view the [Field Enablement Spotlight issue 
 </details>
 
 
-**Note: To watch private videos on GitLab Unfiltered, please look at the Handbook page on [watching private videos.](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube) which includes a link to [this 2-minute video](https://www.youtube.com/watch?v=dZtCuOf5aGk).**
+**Note: To watch private videos on GitLab Unfiltered, please look at the Handbook page on [watching private videos.](/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube) which includes a link to [this 2-minute video](https://www.youtube.com/watch?v=dZtCuOf5aGk).**
 
 ## Get an invite to the weekly session
 
@@ -232,14 +229,14 @@ There are a few places to see previous Sales Enablement sessions:
 
 ## Enablement pages
 
-- [GitLab CI/CD for GitHub FAQ](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enablement/github-ci-cd-faq/)
-- [Cloud Native Ecosystem](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enablement/cloud-native-ecosystem/)
-- [Enterprise IT Roles](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enterprise-it-roles/)
+- [GitLab CI/CD for GitHub FAQ](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enablement/github-ci-cd-faq/)
+- [Cloud Native Ecosystem](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enablement/cloud-native-ecosystem/)
+- [Enterprise IT Roles](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enterprise-it-roles/)
 - [How to set up Chorus.ai call recording](/handbook/business-technology/tech-stack/#chorus)
-- [GitLab Serverless FAQ](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enablement/serverless-faq/)
-- [GitLab.com Subscriptions](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enablement/dotcom-subscriptions/)
-- [Services to Accelerate Customer Adoption](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/sales-enablement)
-- [Collaborating with Community Programs](https://about.gitlab.com/handbook/sales/training/sales-enablement-sessions/enablement/collaborating-community-programs/)
+- [GitLab Serverless FAQ](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enablement/serverless-faq/)
+- [GitLab.com Subscriptions](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/enablement/dotcom-subscriptions/)
+- [Services to Accelerate Customer Adoption](/handbook/customer-success/professional-services-engineering/sales-enablement)
+- [Collaborating with Community Programs](/handbook/sales/training/sales-enablement-sessions/enablement/collaborating-community-programs/)
 
 ## To request new sales enablement sessions
 
@@ -349,7 +346,7 @@ The moderator should serve as the host of the call and overall wingperson for th
 
 - Upload recorded session to the [Continuing Education](https://drive.google.com/drive/folders/1-d_XgvwChwJhqyVAkasoaJfbEvX6Db-f?usp=sharing) Google Drive folder.
 - Upload recorded session to the [Field Strategy & Enablement](https://gitlab.highspot.com/spots/615dd82071cff4c4b2bcbc32) spot on Highspot. Make sure the video properties are set to "internal" and to "prevent downloading or remixing."
-- Update future & past sessions list with the Google Drive recording link in the [Sales Enablement Sessions Handbook.](https://about.gitlab.com/handbook/sales/training/sales-enablement-sessions/#sales-enablement-sessions)
+- Update future & past sessions list with the Google Drive recording link in the [Sales Enablement Sessions Handbook.](/handbook/sales/training/sales-enablement-sessions/#sales-enablement-sessions)
 - Add session recording to the [Field Enablement Spotlight: Continuous Education at GitLab](https://gitlab.highspot.com/items/6480e56aff37cbf397ac752f) Highspot page.
 - Promote the recorded session availability on #Sales & #customer-success Slack channels.
 - Check the zoom meeting report & record the number of total attendees as a comment in the issue.

@@ -244,7 +244,7 @@ Candidates for the director positions can expect the hiring process to follow th
 - Successful candidates will subsequently be made an offer via email
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
-### Vice President (VP) of Security
+### Vice President (VP), Security
 
 This position reports to the [CISO](/job-families/legal-and-corporate-affairs/chief-legal-officer/)
 
@@ -254,7 +254,8 @@ The VP of Security is a [grade 12](/handbook/total-rewards/compensation/compensa
 
 #### VP of Security Responsibilities
 
-- Set the vision of a Gitlab Security function with a clear roadmap
+- Extends that of the Senior Director, Security requirements
+- Set the vision of a GitLab Security function with a clear roadmap
 - Build and maintain a rapidly growing team with top-tier talent
 - Embrace GitLab's values by balancing transparency and security
 - Establish and implement security policies, procedures, standards, and guidelines
@@ -263,7 +264,8 @@ The VP of Security is a [grade 12](/handbook/total-rewards/compensation/compensa
 - Manage a best-in-class bug-bounty program with the highest rewards
 - Act as central point-of-contact to Facility Security Officer for cleared facilities
 
-#### VP of Security Requirements
+
+#### VP of Product Security Requirements
 
 VPs of Security must have all of the following attributes.
 
@@ -277,19 +279,23 @@ Must-haves:
 - Ability to excel in a remote-only, multicultural, distributed environment
 - Possess domain knowledge of common information security management frameworks, regulatory requirements, and applicable standards
 - Excellent project and program management skills and techniques
+- Experience leading security teams in a SaaS company
+- Demonstrable success securing high-availability cloud services
 
 Nice-to-haves
 Great candidates will have some meaningful proportion of the following.
 
 - Working knowledge of the GitLab application
-- Product/Platform company experience
 - Self-managed (on-prem) software experience
-- SaaS software experience
 - Experience with internet-scale services
 - Developer platform/tool industry experience
 - Deep open source software (OSS) experience
 - Relevant academic background
 - US Government security clearance
+
+#### VP, Security Performance Indicators
+
+
 
 #### Hiring Process
 
@@ -298,7 +304,7 @@ Candidates for the director positions can expect the hiring process to follow th
 - Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule an interview with CISO
 - Candidates will then be invited to schedule separate 60 minute interviews with three leaders of the organization
-- Candidates will then be invited to schedule an interview with CEO
+- Candidates will then be invited to schedule separate two 45 minute interviews with cross-functional team members
 - Successful candidates will subsequently be made an offer via email
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 

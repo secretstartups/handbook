@@ -1,0 +1,28 @@
+{{- /*  Initialize. */}}
+{{- $expertise := "" }}
+
+{{- /* Get params. */}}
+{{- with (.Get 0) }}
+  {{- $expertise = . }}
+{{- else }}
+  {{- errorf "The %q shortcode requires a single positional argument."}}
+{{- end }}
+
+{{- $teamMembers := partials.IncludeCached "team/by-name" . }}
+
+<table>
+  <thead>
+      <th>Name</th>
+      <th>Role</th>
+  </thead>
+  <tbody>
+    {{- range $teamMembers }}
+    {{- if in .expertise $expertise }}
+      <tr>
+        <td>{{ partial "member-by-name" .name }}</td>
+        <td>{{ .role | safe.HTML }}</td>
+      </tr>
+    {{- end }}
+    {{- end }}
+  </tbody>
+</table>

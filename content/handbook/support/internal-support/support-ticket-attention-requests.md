@@ -5,7 +5,7 @@ description: Process documentation for getting additional attention on a ticket 
 
 ## Overview
 
-This document outlines the process for managing support tickets that, due to business-critical situations, require our attention or an initial response more quickly than what is defined in our [standard response time.](https://about.gitlab.com/support/#priority-support).
+This document outlines the process for managing support tickets that, due to the situation that is critical for the customer's business, require our attention or an initial response more quickly than what is defined in our [standard response time.](https://about.gitlab.com/support/#priority-support).
 
 ## What is a Support Ticket Attention Request (STAR)?
 
@@ -18,7 +18,7 @@ The following two types of tickets can have additional attention requested using
 
 >**Please use the STAR process instead of posting in Slack channels.** Requesting eyes on, asking for an immediate opinion on, or requesting additional attention for a ticket, in any Support-related Slack channel, creates unnecessary stress on Support Engineers who may be working on other priority tickets.
 
-Once submitted, an issue is created in the [Support Ticket Attention Request](https://gitlab.com/gitlab-com/support/ticket-attention-requests/-/issues) issue tracker. The issue is automatically assigned to the [Support Manager on-call](/handbook/support/workflows/support_manager-on-call.html).
+Once submitted, an issue is created in the [Support Ticket Attention Request](https://gitlab.com/gitlab-com/support/ticket-attention-requests/-/issues) issue tracker. The issue is automatically assigned to the [Support Manager on-call](/handbook/support/workflows/support_manager-on-call).
 
 When you STAR a ticket, a thread is created in the [#support_ticket-attention-requests](https://gitlab.slack.com/archives/CBVAE1L48) Slack channel.
 
@@ -27,13 +27,15 @@ When you STAR a ticket, a thread is created in the [#support_ticket-attention-re
 1. When management oversight is required to bring structure and focus to a ticket, and ensure the necessary resources are allocated to it. For example, if:
     - The first-response [SLA](https://about.gitlab.com/support/#service-level-agreements) of the ticket has been breached by one hour or more (see [Before you STAR a ticket](#before-you-star-a-ticket)).
     - The ticket requires immediate intervention to address a high level of customer dissatisfaction.
+    - The ticket requires increased attention from the support team due to business reasons, even if it hasn't breached the SLA yet.
+    - The ticket's priority is objectively lower when assessed in relation to the [Support Impact](https://about.gitlab.com/support/#priority-support) guidelines.
 1. When the progress of a ticket has stalled, and the ticket needs to be elevated to a different engineer (based on their skill set) so that GitLab can resolve the ticket more quickly.
 
 ### When is a STAR not appropriate?
 
-1. It is a **business-critical** situation where existing or future business is at risk -> [raise an account escalation](https://about.gitlab.com/handbook/customer-success/csm/escalations/#initiating-managing-and-closing-an-escalation)
+1. It is a **business-critical** situation for GitLab where existing or future business is at risk so attention from CSM is needed -> [raise an account escalation](/handbook/customer-success/csm/escalations/#initiating-managing-and-closing-an-escalation)
 1. It is an **emergency** -> Advise the customer to [raise an emergency](https://internal.gitlab.com/handbook/support/#raising-an-emergency) (internal Handbook link, GitLab team members only; only Premium/Ultimate customers are eligible to trigger emergencies)
-1. It is a **SaaS incident** -> [check the GitLab Status Page](https://status.gitlab.com/) or [report an incident](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#reporting-an-incident)
+1. It is a **SaaS incident** -> [check the GitLab Status Page](https://status.gitlab.com/) or [report an incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident)
 1. You want to pass additional information to the engineer working on the ticket --> Leave an internal note in the ticket in Zendesk or reach out to the Support Engineer working the ticket in a Slack channel like `#support_gitlab-com` or `#support_self-managed`.
 
 ### Before you STAR a ticket
@@ -42,7 +44,7 @@ When you STAR a ticket, a thread is created in the [#support_ticket-attention-re
 
 Check that the ticket meets basic eligibility for STAR treatment:
 
-1. **Is the ticket about L&R (subscription, plan, renewal, licensing, trials)?** Please see our [Workflow for handling Plan/License Ticket Attention Requests](/handbook/support/license-and-renewals/workflows/managers_working_with_extensions.html) and its decision flowchart. Requests for customer convenience (that is, when a loss of functionality is not imminent) may not be prioritized.
+1. **Is the ticket about L&R (subscription, plan, renewal, licensing, trials)?** Please see our [Workflow for handling Plan/License Ticket Attention Requests](/handbook/support/license-and-renewals/workflows/managers_working_with_extensions) and its decision flowchart. Requests for customer convenience (that is, when a loss of functionality is not imminent) may not be prioritized.
    - L&R STAR requests must include all relevant information, like group name, subscription name, license holder.
 1. **Are we waiting for information from the customer, or from you?** Ensure the latest response is *from the customer* (or from a GitLab team member, in the case of Internal Requests). If the latest response is from GitLab Support, we are waiting for necessary information.
 1. **Is the ticket within SLA?** Review the SLA associated with the ticket, and the amount of time left until breach, by logging into [Zendesk](https://gitlab.zendesk.com) using Okta.
@@ -65,7 +67,7 @@ Check that the ticket meets basic eligibility for STAR treatment:
 1. Topics that fall into our general out-of-scope [definition](https://about.gitlab.com/support/statement-of-support/#out-of-scope).
 1. Tickets for which there is *no acceptable business-case provided* that justifies additional attention.
 1. Tickets missing the customer Organization information ("Needs Org"). Instead: Review requirements in our Needs Org workflow, and ping in the `#support_operations` Slack channel.
-1. Tickets that do not appear to have the correct SLA assigned to them. Instead: Review requirements in our [SLA workflow](/handbook/support/workflows/sla_and_views.html), and ping in the `#support_operations` Slack channel.
+1. Tickets that do not appear to have the correct SLA assigned to them. Instead: Review requirements in our [SLA workflow](/handbook/support/workflows/sla_and_views), and ping in the `#support_operations` Slack channel.
 
 ## Submitting a Support Ticket Attention Request (STAR) / Starring a ticket
 
@@ -77,7 +79,7 @@ The Zendesk STAR App is available only during our [Global Support Hours](https:/
 
 To access, click on the Apps button located in the top right of the page (underneath your profile icon). When you click on it, it will expand to show the STAR form within Zendesk.
 
-![Zendesk App Button.png](../images/zendesk_app_button.png)
+![Zendesk App Button.png](../images/Zendesk_App_Button.png)
 
 When you use this method, the app automatically acquires most of the required information directly from the ticket. That's a lot less work for you, and you can be assured that the data will already be validated before it is sent to the Support Managers for evaluation.
 
@@ -118,7 +120,7 @@ Once submitted, an issue is created in the [Support Ticket Attention Request](ht
 
 ## Unstarring a ticket (Support use only)
 
-Depending on the request, the [Support Manager on-call](/handbook/support/workflows/support_manager-on-call.html) may decide that a STAR is without merit. Please be aware that we take into consideration the current state of the entirety of the ticket queue, and already existing STARs, when determining the appropriate prioritization for your STAR request.
+Depending on the request, the [Support Manager on-call](/handbook/support/workflows/support_manager-on-call) may decide that a STAR is without merit. Please be aware that we take into consideration the current state of the entirety of the ticket queue, and already existing STARs, when determining the appropriate prioritization for your STAR request.
 
 When unstarring a ticket, the manager must set expectations with the requester by documenting the following in the STAR Issue:
 

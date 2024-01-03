@@ -1,14 +1,7 @@
 ---
-
 title: "How to recruit UX Research participants"
 description: "How to find the right participants for research studies at GitLab"
 ---
-
-
-
-
-
-
 
 At GitLab, our UX Research Operations Coordinators work closely with those requesting research to make sure the people they are gathering feedback from are the right ones. If you are filling in for a UX Research Operations Coordinator, use [this page](/handbook/product/ux/ux-research-coordination/research-coordinator-fill-in/) as a reference.
 
@@ -55,7 +48,7 @@ It’s best to think of tasks and responsibilities instead of job titles, becaus
 
 ### Craft your screener
 
-The screener has a specific function - it’s meant to identify the people who are your target demographic, so that you can ask them the things you really want to know in the study. A best practice is to copy the [Screener Template](https://docs.google.com/document/d/1hMchH7C7Af2jCLeV9SK89F0ajT3m-hojJ0MmZnV5wmE/edit) (internal link only) in Google Docs and collaborate with your stakeholders until all questions are finalized. For tips on how to write an effective screener, check out [this page](/handbook/product/ux/ux-research/write-effective-screener/). Then, you’ll create a screener in Qualtrics that includes the questions. If you don’t have access to Qualtrics, [request it](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/). Recruiting will not begin until the finalized screener is created in Qualtrics and shared with the UX Research Operations Coordinators.
+The screener has a specific function - it’s meant to identify the people who are your target demographic, so that you can ask them the things you really want to know in the study. A best practice is to copy the [Screener Template](https://docs.google.com/document/d/1hMchH7C7Af2jCLeV9SK89F0ajT3m-hojJ0MmZnV5wmE/edit) (internal link only) in Google Docs and collaborate with your stakeholders until all questions are finalized. For tips on how to write an effective screener, check out [this page](/handbook/product/ux/ux-research/write-effective-screener/). Then, you’ll create a screener in Qualtrics that includes the questions. If you don’t have access to Qualtrics, [request it](/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/). Recruiting will not begin until the finalized screener is created in Qualtrics and shared with the UX Research Operations Coordinators.
 
 Your questions on the screener *must* match your participant criteria. This allows the UX Research Operations Coordinator to review your desired criteria and know which answers you want to see on the screener. The more abstract or open-ended you get in the screener, the harder it is for UX Research Operations Coordinators to parse which answer it is you’re looking for. A best practice is to avoid using open-ended questions in screeners.
 
@@ -65,6 +58,7 @@ Participants must agree to each of these questions to take part in moderated stu
 - Consent to store the recording in GitLab
 
 Determine if you need the IP Assignment and/or GitLab's Individual Contributor License Agreement
+
 - Learn more about the [IP Assignment and when to show it](/handbook/product/ux/ux-research-coordination/IP-Assignment/#when-to-show-the-ip-assignment)
 
 Common questions we include are:
@@ -109,6 +103,7 @@ To schedule participants, you will need to create a Calendly event. The UX Resea
 ### Open a recruitment request issue
 
 Prior to opening a recruitment issue, please have all materials ready:
+
 - Screener
 - Script
 - Recruitment timelines
@@ -116,12 +111,14 @@ Prior to opening a recruitment issue, please have all materials ready:
 Without these materials the UX research operations coordinator will not be able to move forward with your request. When prematurely creating recruitment issues it will over-inflate our tracking on turn around time for recruitment issues.
 
 **Step 1 - Open a Recruitment Request Issue**
+
 This step provides us with all the necessary information we need to complete your request.
 
 - Navigate to the [UX Research Project](https://gitlab.com/gitlab-org/ux-research/-/issues) and open a new issue.
 - Select the <Recruiting Request> template and fill in the information required.
 
 **Step 2 - Wait one-two working days**
+
 The UX Research Operations Coordinator will claim the study within one-two working days and work with you to find your participants. They will reach out to you with any further questions and an update on their timeline. When your study is claimed, the coordinator will remove the `ReOps::Triage` label. It will be replaced to identify they are working on it e.g. `ReOps::Cait` - for Caitlin Faughnan.
 
 #### What if I want to get a head start, but I’m not quite ready?
@@ -137,6 +134,7 @@ The UX Research Operations Coordinator is responsible for launching recruitment 
 #### What recruitment method will be used?
 
 The UX Research Operations Coordinator assigned to your project will select the best method for recruitment, based on the recruitment criteria. That may include using multiple approaches, depending on the criteria. Options include:
+
 1. Data Warehouse
 1. Marketo
 1. Respondent.io - a third party recruitment tool
@@ -144,7 +142,6 @@ The UX Research Operations Coordinator assigned to your project will select the 
 1. Direct Sourcing via LinkedIn
 1. Docs Site Banner
 1. UserTesting.com - a third party recruitment tool (primarily used by Product Designers to self-serve)
-1. First Look Research Panel
 
 Learn more about these [recruitment methods](/handbook/product/ux/ux-research-coordination/recruitment-methods/).
 
@@ -165,6 +162,7 @@ Since you created a Recruitment issue to kick off your process, this is automati
 #### What if I found my own participants and just need to hand out incentives?
 
 If you have a scenario where you didn’t create a Recruitment issue and need to distribute incentives, you’ll need to open an Incentives Request issue.
+
 - Navigate to the [UX Research Project](https://gitlab.com/gitlab-org/ux-research/-/issues) and open a new issue.
 - Select the `Incentives Request` template and fill in the information required.
 - Paste the link to the spreadsheet in the issue.
@@ -182,7 +180,7 @@ In all cases, the UX Research Operations Coordinator will keep you updated on th
 
 ### Promotional games
 
-If you are planning to recruit users through a promotional game or contest (e.g., Opportunity to win 1 of 3 $30 (or equivalent currency) Amazon Gift cards), please review the following information in the [handbook](https://about.gitlab.com/handbook/legal/ux-research-pilot/) and consult with legal. For information on contacting legal, please refer to [how to reach us](https://about.gitlab.com/handbook/legal/#how-to-reach-us) in the Legal Team handbook page. Engaging legal for approval and creating an incentive request must be completed before conducting research involving promotional game or contests.
+If you are planning to recruit users through a promotional game or contest (e.g., Opportunity to win 1 of 3 $30 (or equivalent currency) Amazon Gift cards), please review the following information in the [handbook](/handbook/legal/ux-research-pilot/) and consult with legal. For information on contacting legal, please refer to [how to reach us](/handbook/legal/#how-to-reach-us) in the Legal Team handbook page. Engaging legal for approval and creating an incentive request must be completed before conducting research involving promotional game or contests.
 
 #### Respondent.io process and strategy
 
@@ -198,29 +196,26 @@ Once the coordinator has created the campaign, they will invite the interviewers
 - Naming your project
     - Create a public name that is not too specific; you don't want to give away too much about your criteria because people may game your screener. Example: `Seeking GitLab users!` is fine, while `Seeking daily GitLab CI/CD users with 3+ years of experience!` is too specific.
     - Give a private name that will allow internal team members to see which project is theirs. For example: `Lorie: CI/CD pipeline set up exp.`
-
 - Adding your calendar
     - Respondent requires us to schedule, pay, and communicate with participants within the platform. It's a major taboo to try to lure platform participants elsewhere.
     - Connect your Google calendar in the `calendars` tab of your project.
     - Navigate to advanced settings and specify the minimum time before new bookings to `8 hours` or more. This will prevent people from scheduling surprise sessions for first thing in the morning while you are sleeping.
     - Set the max number of bookings per day to whatever you are comfortable with. A recommendation is 3-4 sessions per day: more than that is quite taxing.
     - Set a buffer time between sessions so you have time to finish your notes and take a quiick break before starting another session. A recommendation is 15 minutes.
-
 - Using Zoom
 When setting up your Respondent project make sure to use your personal Zoom room link, as you can't change the link per participant (this means each participant will have the same Zoom room link). Additionally, be sure to turn off the password requirement for these sessions.
-
 - Important platform etiquette:
     - Mark participants as `attended` promptly after conducting the interview. This creates a notification for the coordinator that there are participants who need to be paid.
     - Only mark someone as `no-show` if they made no effort to get in touch with you about rescheduling the interview. A `no-show` is highly punitive for participants' rating on the platform.
     - Similarly, if you must reschedule a session, enable the participant to reschedule with as much advance notice as possible. If you do not show up for a session, or cancel within 24 hours, we get a negative rating and have to pay the participant anyway.
     - Please keep an eye on your messages within the project. It is recommended that you check them first thing on days that you have interviews scheduled. Participants may reach out to reschedule, or to ask about a technical issue. It's best to address these up front, rather than waiting in an empty Zoom and getting increasingly frustrated 🙂
 
-
 ##### Process for providing payment through Respondent.io
 
 Respondent requires us to pay participants directly through the platform.
 
 In order to pay participants in Respondent.io, there are several steps required:
+
 1. Select your project (after launching a study) in Respondent.io
 1. Locate people in the Participants tab who have successfully completed the study and click on the Mark As Attended button
 1. Fill out a quick survey question to rate the participant (i.e., Positive, Negative, Neutral)
@@ -271,6 +266,6 @@ Keeping things short and sweet increases the completion rate of screeners.
 
 A lot of the conversation above occurred in the recruitment request.
 
-The UX Research Operations Coordinator took great care in creating a segment from our research panel (GitLab First Look). Because the study was about accessibility, a topic about which many people are passionate, this study was a good one to use custom subject lines and email copy. The UX Research Operations Coordinator sent out an email with the subject line `New study - let's talk accessibility`. After two emails, we received over 20 responses.
+The UX Research Operations Coordinator took great care in creating a segment from our research panel. Because the study was about accessibility, a topic about which many people are passionate, this study was a good one to use custom subject lines and email copy. The UX Research Operations Coordinator sent out an email with the subject line `New study - let's talk accessibility`. After two emails, we received over 20 responses.
 
 The UX Research Operations Coordinator highlighted in green the people who said they do accessibility testing in their jobs, and strongly agreed that accessibility compliance is important (4 total). They highlighted in orange people who only fit the latter criterion (9). Altogether, this is a surplus of participants, however, we now have some participants that we can reach out to directly when the next accessibility study is available.

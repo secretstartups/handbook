@@ -41,7 +41,7 @@ These are tickets in a support form assigned to an agent but the SGG value is
 "Not Applicable". This causes them to sit in a void where only the assignee
 would see them. When you come across these, you need to set the SGG to a
 assignee's SGG value (you can locate that via the
-[Support Global Groups page](https://gitlab-com.gitlab.io/support/team/sgg.html)
+[Support Global Groups page](https://gitlab-com.gitlab.io/support/team/sgg)
 of the Support team page).
 
 To help with this, we recommend setting up a view with the following conditions:

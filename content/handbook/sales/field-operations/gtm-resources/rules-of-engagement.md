@@ -14,7 +14,7 @@ description: "Rules of Engagement"
 
 
 
-### Objectives  
+### Objectives
 
 The purpose of this page is to provide clear guidelines around GitLab's FY24 GTM Rules of Engagement in the following areas:
 
@@ -22,7 +22,7 @@ The purpose of this page is to provide clear guidelines around GitLab's FY24 GTM
 2. Opportunity Ownership
 3. Opportunity Order Type
 
-**For more information on terms and other sales information, please visit GitLab's [Go to Market](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/) page.**
+**For more information on terms and other sales information, please visit GitLab's [Go to Market](/handbook/sales/field-operations/gtm-resources/) page.**
 
 
 ### Account Ownership Rules of Engagement
@@ -33,7 +33,7 @@ The purpose of this page is to provide clear guidelines around GitLab's FY24 GTM
 
 ### ROE for Banned Countries:
 
-Additional information on Trade Compliance can be found on the [Legal HB Page for Embargoed Countries](https://about.gitlab.com/handbook/legal/trade-compliance/)
+Additional information on Trade Compliance can be found on the [Legal HB Page for Embargoed Countries](/handbook/legal/trade-compliance/)
 1. Embargoed Accounts (Countries and Cities):
     - Account Address Country equals CU,IR,SS,SD,SY,KP OR [ZI] Country OR  [Admin] Address Country equals Crimea,Cuba,Iran,North Korea,Sudan,Syria
     - Account Address City, [ZI] City OR [Admin] Address City equals Sevastopol, Simferopol, Kerch, Yevpatoria, Yalta, Feodosia, Dzhankoi, Alushta, Bakhchysarai,Krasnoperekopsk, Saky, Armiansk, Sudak, Bilohirsk, Shcholkine, Inkerman, Staryi Krym,Alupka (Cities in Crimea Region)
@@ -86,10 +86,10 @@ Account ownership will be determined by the Sales Segment and Address.  All chil
     **When does this policy apply?**
 
     1. If it is confirmed there has been no activity documented in SFDC in the last 9 weeks and no open opportunity, the team should collaborate and move the Account immediately in FY24.
-    2. If mutual agreement between the SAE/AE and a key individual in the Account (i.e. COO, CTO) is reached to re-engage at a later date and such agreement is documented in the Command Plan, the Account does not move.  
+    2. If mutual agreement between the SAE/AE and a key individual in the Account (i.e. COO, CTO) is reached to re-engage at a later date and such agreement is documented in the Command Plan, the Account does not move.
     3. Applies to Named or Major Accounts.
 
-    **Use Case(s):**  
+    **Use Case(s):**
 
     1. Account Demographic data indicates the Account should move segments, and there is no documented activity on the Account, the Account moves in FY24.
 
@@ -97,11 +97,11 @@ Account ownership will be determined by the Sales Segment and Address.  All chil
 - Non-compliance to these policies goes against the GitLab values and it will be up to the SAE or AE Leadership Team's discretion as to applicable disciplinary action.
 - If an Account is identified as incorrectly assigned to you, regardless of whether you know someone in the Account, the SAE/AE should not engage in any capacity and instead partner with Sales Support to immediately transfer the Account and open or improperly closed won opportunity ownership to the correct SAE/AE. The transferring SAE/AE is expected to take this action and actively communicate in a manner that optimizes the prospect/customer experience.
 - In the event a SAE/AE unknowingly engages with an Account that is not theirs, they should log SFDC activity and notify the correct Account owner. If there is no collaboration initiated with the correct Account owner, your actions will be reviewed by your segment and regional leadership team.
-- SAEs/AEs are not permitted to sell into accounts they do not own in SFDC.  
+- SAEs/AEs are not permitted to sell into accounts they do not own in SFDC.
 
 #### Parent/Child Segmentation:
 
-All Accounts in a hierarchy will adopt the MAX Segmentation of any account in the hierarchy. Expanded definitions and examples can be found in the handbook’s [Systems Terminology Definitions](https://about.gitlab.com/handbook/sales/sales-term-glossary/#parent-and-child-accounts).
+All Accounts in a hierarchy will adopt the MAX Segmentation of any account in the hierarchy. Expanded definitions and examples can be found in the handbook’s [Systems Terminology Definitions](/handbook/sales/sales-term-glossary/#parent-and-child-accounts).
 
 #### Named Account
 
@@ -138,7 +138,7 @@ An account that clearly has their own buying authority and purchasing process.
 1. **Private Equity or Holding Company** - Accounts where the governing entity is a Private Equity firm or Holding Company will be considered standalone Accounts. As such, they will not be parented and will include the name of the holding company in the `Holding Company Name` field. Ownership & segmentation will be based on the individual account attributes and NOT the Holding Company or PE account attributes.
 2. **Joint Venture**:A business entity created by two or more parties, generally characterized by shared ownership, shall be considered as a stand-alone entity. As such, they will not be parented, and segmentation will be based on the employee count of this particular account.
 3. **Government Holding Entity - Child Accounts:**: Public Sector accounts are identified by the Public Sector Account Checkbox on the Account. Once identified, ownership would be determined by the country alignment below. The definition of a PubSec account is the same for United States Public Sector and Rest of World Public Sector.
-    1. **United States:** [Gitlab Public Sector Rules of Engagement Handbook Page](https://about.gitlab.com/handbook/sales/public-sector/)
+    1. **United States:** [GitLab Public Sector Rules of Engagement Handbook Page](/handbook/sales/public-sector/)
     2. **Rest of World:** [ROW Public Sector Rules of Engagement Handbook Page](https://docs.google.com/document/d/1GR8fFQQhaGlH18quMkbEbY1gIvj0_4-LVRxdHpuZW20/edit#heading=h.kk8kup16ppw8)
         1. **APAC:** All countries covered by Enterprise.
         2. **EMEA:** All countries covered by Enterprise.
@@ -154,7 +154,7 @@ Accounts that are categorized as an independent Franchise or Consultant are cons
 Accounts that have had employee count and/or address information updated that would require a region or segment change, timing on when the account will move will follow the February 1st Confirmed Segment and Stale Accounts Exception policies. If the change is due to organizational changes (i.e Merges and acquisitions) and the org change happened during this FY, the account will move to the correct owner next FY.
 
 **Use Case(s):**
-1. Account data was accurate and there was an acquisition. The Account gets realigned to the correct Ultimate Parent in FY25. If the child account being acquired is stale, the Stale Accounts Exception policy applies.  
+1. Account data was accurate and there was an acquisition. The Account gets realigned to the correct Ultimate Parent in FY25. If the child account being acquired is stale, the Stale Accounts Exception policy applies.
 
 #### Net New Accounts
 
@@ -222,9 +222,9 @@ Accounts will be reviewed annually prior to the Fiscal Year planning process and
         1. Holdover opportunities
         1. When an Renewals Manager or SDR has created an opportunity but has not yet transitioned it to the correct AE/SAE
         1. Stage of the opportunity at time of account ownership change
-        1. [GSI or MSP opportunties](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-sourced-deal-registration-msp-opportunities), where the end user is different to whom gets the license. In this case, the opportunity will be assigned to the owner of the end user account.
+        1. [GSI or MSP opportunties](/handbook/sales/field-operations/channel-operations/#partner-sourced-deal-registration-msp-opportunities), where the end user is different to whom gets the license. In this case, the opportunity will be assigned to the owner of the end user account.
 1. **Sales Admin Owned Opportunities:** When new opportunities are created due to web portal purchases, they are temporarily assigned to the Sales Admin User and are changed to the correct (and active) Sales User in the following cadences:
-    - For accounts with known attributes (employees and location), the account gets routed to the correct owner via the Account Demographics process.  Twice weekly Sales Operations reviews the corresponding opportunity and updates the Opportunity owner to match the Account owner (unless exceptions apply).  
+    - For accounts with known attributes (employees and location), the account gets routed to the correct owner via the Account Demographics process.  Twice weekly Sales Operations reviews the corresponding opportunity and updates the Opportunity owner to match the Account owner (unless exceptions apply).
     - For accounts without known attributes (employees and location not identified), the account and corresponding opportunity are manually reviewed by Sales Operations twice weekly and assigned to the correct owners.
         - If Sales Operations is unable to identify enough attributes to correctly assign the account or opportunity, they will remain in Sales Admin owned and allocated to SMB for crediting.
 
@@ -289,10 +289,10 @@ Within a Geo under one Sales VP, it is the Sales VP's responsibility to obtain a
 
 **Understanding Order Type Assignment, Rules and Definitions**
 
-**Source of Data:** The account attributes used to properly assign Order Type are defined and explained in the [Sales Term Glossary](https://about.gitlab.com/handbook/sales/sales-term-glossary/#customer-definitions-for-external-reporting) section of the handbook.
+**Source of Data:** The account attributes used to properly assign Order Type are defined and explained in the [Sales Term Glossary](/handbook/sales/sales-term-glossary/#customer-definitions-for-external-reporting) section of the handbook.
 
 **Common Manual Override Scenarios:** Although Order Type is generated automatically on an opportunity, there are common scenarios in which it could require updating via a manual override:
-- [Customers Returning More Than 180 Days After Subscription Term End Date](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunity-requirements-for-returning-customers)
+- [Customers Returning More Than 180 Days After Subscription Term End Date](/handbook/sales/field-operations/gtm-resources/#opportunity-requirements-for-returning-customers)
 - Refunds
 - Incorrect Parenting/Hierarchies
 

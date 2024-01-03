@@ -96,16 +96,23 @@ On [this page]({{< ref "/handbook/people-group/calendars" >}}) you can find our 
 
 Each quarter a Slack reminder will go out in #people-manager-and-above channel to review the next quarter calendar events. Each month shows Task, which outlines the people manager responsibility associated with the specific program, and (if applicable) highlights the Key Date. We will also leverage our Manager Newsletter and the Company Newsletter for broadcasting our programs widely.
 
+### Updating calendars
+
+Each month on the first Monday there's a calendar reminder to update the calendars on that date. This calendar reminder includes People Business Partners and the DRI in L&D.
+Also with sharing the calendars in the news letters People Business Partners and L&D will be tagged.
+
+The goal of the calendar is to include information at least two quarters ahead of the current quarter. For questions about the updates to the calendars you can always reach out to People Connect.
+
 ## People Business Partner Alignment to Division
 
 Please reach out to your aligned People Business Partner (PBP) to engage in the following areas:
 
 - Career development/[Promotions]({{< ref "promotions-transfers" >}})
-- [Succession planning]({{< ref "talent-assessment" >}})
+- [Succession planning]({{< ref "/handbook/people-group/talent-assessment" >}})
 - New organizational structures or re-alignment of team members
-- [Talent Assessment programs]({{< ref "talent-assessment" >}})
+- [Talent Assessment programs]({{< ref "/handbook/people-group/talent-assessment" >}})
 - Team member retention
-- [Team member Engagement tools]({{< ref "talent-assessment#impact-of-being-identified-as-key-talent" >}})
+- [Team member Engagement tools]({{< ref "/handbook/people-group/talent-assessment#impact-of-being-identified-as-key-talent" >}})
 - [Coaching]({{< ref "coaching" >}}) guidance
 - An unbiased third party to discuss issues or problems and possible ideas for next steps
 - [Organizational Design]({{< ref "/handbook/people-group/organizational-design" >}})
@@ -219,7 +226,7 @@ GitLab does not actively search for LinkedIn profiles that have inaccurate infor
 - If the team member cannot confirm the profile, team members should reach out to the People Connect Team in the #people-connect Slack channel with the LinkedIn profile in question.
 - The People Connect Team member will confirm in Workday that they are not/have not been a team member.
 - The People Connect Team member will confirm with talent acquisition to confirm if they have ever been interviewed, made an offer or were declined.
-- The People Connect Team member will reach out to the [Developer Relations team](https://about.gitlab.com/handbook/marketing/community-relations/) to confirm if they are an active wider community member via the [#developer-relations](https://gitlab.slack.com/archives/C0R04UMT9) Slack channel, using the `@community-team` tag.
+- The People Connect Team member will reach out to the [Developer Relations team](/handbook/marketing/community-relations/) to confirm if they are an active wider community member via the [#developer-relations](https://gitlab.slack.com/archives/C0R04UMT9) Slack channel, using the `@devrel-team` tag.
 - If they are a confirmed member of the wider community but not a team member, the Developer Relations team will reach out the profile and ask them to change their profile to match their GitLab involvement.
 - If they are not a current member of the wider community and talent acquisition has confirmed they do not have a profile in Greenhouse, talent acquisition will create a Do Not Hire profile.
 - The People Connect Team member will report the account to LinkedIn via the [Reporting Inaccurate Information on Another Member's Profile](https://www.linkedin.com/help/linkedin/answer/30200?src=or-search&veh=www.google.com%7Cor-search)

@@ -13,16 +13,20 @@ red="\e[31m"
 # Globals
 HANDBOOK_REPO=$(git rev-parse --show-toplevel)
 DIRECTORY_TO_SPLIT=NOSET
+export FILTER_BRANCH_SQUELCH_WARNING=1
 
 # Command line options
 DUBDUBDUB_REPO=$(git rev-parse --show-toplevel)/../www-gitlab-com
 IS_HANDBOOK=false
 IS_COMPANY=false
 IS_ENGINEERING=false
+IS_MARKETING=false
 SECTION=NOSET
 TITLE=NOTSET
 ICON=NOTSET
 REPORT_OUT=NOTSET
+USE_FILTER_REPO=false
+TMP_REPO=/tmp/gitlab-migration
 # SECTION=job-families
 # TITLE="Job Families"
 # ICON="fa-solid fa-users"
@@ -55,6 +59,8 @@ while [ "$1" != "" ]; do
                                     ;;
         -E | --engineering)         IS_ENGINEERING=true
                                     ;;
+        -M | --marketing)           IS_MARKETING=true
+                                    ;;
         -s | --section)             shift
                                     SECTION=$1
                                     ;;
@@ -66,6 +72,12 @@ while [ "$1" != "" ]; do
                                     ;;
         -r | --www-repo)            shift
                                     DUBDUBDUB_REPO=$1
+                                    ;;
+        -T | --temp-loc)            shift
+                                    TMP_REPO=$1
+                                    ;;
+        -g | --filter-repo)         USE_FILTER_REPO=true
+                                    echo -e "${bold}Using Git Filter Repo (experimental)...${normal}"
                                     ;;
         -o | --out)                 shift
                                     REPORT_OUT=$1
@@ -132,6 +144,9 @@ elif [[ $IS_COMPANY == true ]]; then
 elif [[ $IS_ENGINEERING == true ]]; then
         DIRECTORY_TO_SPLIT=sites/handbook/source/handbook/engineering/$SECTION
         NEW_SECTION=content/handbook/engineering/$SECTION
+elif [[ $IS_MARKETING == true ]]; then
+        DIRECTORY_TO_SPLIT=sites/handbook/source/handbook/marketing/$SECTION
+        NEW_SECTION=content/handbook/marketing/$SECTION
 else
     DIRECTORY_TO_SPLIT=sites/uncategorized/source/$SECTION
     NEW_SECTION=content/$SECTION
@@ -155,56 +170,95 @@ git pull
 
 # Prepare directories
 echo -e "${bold}Making a copy of the www-gitlab-com repo directory...${normal}"
-mkdir /tmp/gitlab-migration
-cp -r $DUBDUBDUB_REPO /tmp/gitlab-migration/www-gitlab-com
-cd /tmp/gitlab-migration/www-gitlab-com
+mkdir -p $TMP_REPO
+TMP_REPO=$TMP_REPO/$(echo $DUBDUBDUB_REPO |rev| cut -d '/' -f 1|rev)
+cp -r $DUBDUBDUB_REPO $TMP_REPO
 
-# subtree split the directories
-echo -e "${bold}Performing git subtree split... this might take a few minutes...${normal}"
-git remote rm origin
-git filter-branch --subdirectory-filter $DIRECTORY_TO_SPLIT -- --all
+echo -e "${bold}Switch to copy of www-gitlab-com at ${TMP_REPO}...${normal}"
+cd $TMP_REPO
 
-git filter-branch -f --index-filter 'git ls-files -s | sed -e "s/\t\"*/&'$SECTION'\//" |
-    GIT_INDEX_FILE=$GIT_INDEX_FILE.new \
-        git update-index --index-info &&
- mv "$GIT_INDEX_FILE.new" "$GIT_INDEX_FILE"' HEAD
+if [[ $USE_FILTER_REPO == "true" ]]; then
+  echo -e "${bold}Performing git filter repo... this might take a few minutes...${normal}"
+  git remote rm origin
+  git filter-repo --preserve-commit-encoding --force --path $DIRECTORY_TO_SPLIT
+else
+  # subtree split the directories
+  echo -e "${bold}Performing git subtree split... this might take a few minutes...${normal}"
+  git remote rm origin
+  git filter-branch --subdirectory-filter $DIRECTORY_TO_SPLIT -- --all
 
-# Clean up everything outside of the content and .git directories
-echo -e "${bold}Cleaning up www-gitlab-com repo before commit and migration...${normal}"
-for i in $(/bin/ls -a); do
-    case $i in
-    .)              continue
-                    ;;
-    ..)             continue
-                    ;;
-    .git)           continue
-                    ;;
-    $SECTION)      continue
-                    ;;
-    *)
-        rm -rf $i
-    esac
-done
+  git filter-branch -f --index-filter 'git ls-files -s | sed -e "s/\t\"*/&'$SECTION'\//" |
+      GIT_INDEX_FILE=$GIT_INDEX_FILE.new \
+          git update-index --index-info &&
+   mv "$GIT_INDEX_FILE.new" "$GIT_INDEX_FILE"' HEAD
+
+   # Clean up everything outside of the content and .git directories
+   echo -e "${bold}Cleaning up www-gitlab-com repo before commit and migration...${normal}"
+   for i in $(/bin/ls -a); do
+       case $i in
+       .)              continue
+                       ;;
+       ..)             continue
+                       ;;
+       .git)           continue
+                       ;;
+       $SECTION)      continue
+                       ;;
+       *)
+           rm -rf $i
+       esac
+   done
+fi
+
 
 # Migrate the content from dubdubdub to handbook using git pull
 # This preserves the git history of all the files we're pulling in
 echo -e "${bold}Performing migration from www-gitlab-com copy to handbook...${normal}"
 cd $HANDBOOK_REPO
 git checkout -b $BRANCH_NAME
-git remote add $SECTION /tmp/gitlab-migration/www-gitlab-com
+git remote add $SECTION $TMP_REPO
 git pull $SECTION master --allow-unrelated-histories --no-edit
-if [[ $IS_HANDBOOK == true ]]; then
-  NEW_SECTION_PATH=content/handbook/$SECTION
-  git mv $SECTION content/handbook/
-elif [[ $IS_COMPANY == true ]]; then
-  NEW_SECTION_PATH=content/handbook/company/$SECTION
-  git mv $SECTION content/handbook/company/
-elif [[ $IS_ENGINEERING == true ]]; then
-  NEW_SECTION_PATH=content/handbook/engineering/$SECTION
-  git mv $SECTION content/handbook/engineering/
+
+
+if [[ $USE_FILTER_REPO == "true" ]]; then
+  if [[ $IS_HANDBOOK == true ]]; then
+    NEW_SECTION_PATH=content/handbook/$SECTION
+    git mv sites/handbook/source/handbook/$SECTION content/handbook/
+    rmdir sites/handbook/source/handbook sites/handbook/source sites/handbook sites
+  elif [[ $IS_COMPANY == true ]]; then
+    NEW_SECTION_PATH=content/handbook/company/$SECTION
+    git mv sites/uncategorized/source/company/$SECTION content/handbook/company/
+    rmdir sites/uncategorized/source/company sites/uncategorized/source sites/uncategorized sites
+  elif [[ $IS_ENGINEERING == true ]]; then
+    NEW_SECTION_PATH=content/handbook/engineering/$SECTION
+    git mv sites/handbook/source/handbook/engineering/$SECTION content/handbook/engineering/
+    rmdir sites/handbook/source/handbook/engineering sites/handbook/source/handbook sites/handbook/source sites/handbook sites
+  elif [[ $IS_MARKETING == true ]]; then
+    NEW_SECTION_PATH=content/handbook/marketing/$SECTION
+    git mv sites/handbook/source/handbook/marketing/$SECTION content/handbook/marketing/
+    rmdir sites/handbook/source/handbook/marketing sites/handbook/source/handbook sites/handbook/source sites/handbook sites
+  else
+    NEW_SECTION_PATH=content/$SECTION
+    git mv sites/uncategorized/source/$SECTION content/
+    rmdir sites/uncategorized/source sites/uncategorized sites
+  fi
 else
-  NEW_SECTION_PATH=content/$SECTION
-  git mv $SECTION content/
+  if [[ $IS_HANDBOOK == true ]]; then
+    NEW_SECTION_PATH=content/handbook/$SECTION
+    git mv $SECTION content/handbook/
+  elif [[ $IS_COMPANY == true ]]; then
+    NEW_SECTION_PATH=content/handbook/company/$SECTION
+    git mv $SECTION content/handbook/company/
+  elif [[ $IS_ENGINEERING == true ]]; then
+    NEW_SECTION_PATH=content/handbook/engineering/$SECTION
+    git mv $SECTION content/handbook/engineering/
+  elif [[ $IS_MARKETING == true ]]; then
+    NEW_SECTION_PATH=content/handbook/marketing/$SECTION
+    git mv $SECTION content/handbook/marketing/
+  else
+    NEW_SECTION_PATH=content/$SECTION
+    git mv $SECTION content/
+  fi
 fi
 
 if [ -f $NEW_SECTION_PATH/index.html.md ]; then
@@ -226,182 +280,6 @@ menu:
 ---
 EOF
 fi
-
-cd content
-
-# Migrated Sections using fully qualified url on about
-echo "Migrating links which have been migrated to the new handbook..."
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/anti-harassment/~](/handbook/anti-harassment/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/group-conversations/~](/handbook/group-conversations/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/infrastructure-standards/~](/handbook/infrastructure-standards/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/tools-and-tips/~](/handbook/tools-and-tips/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/total-rewards/~](/handbook/total-rewards/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/e-group-weekly/~](/handbook/e-group-weekly/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/security/~](/handbook/security/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/key-review/~](/handbook/key-review/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/entity/~](/handbook/entity/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/board-meetings/~](/handbook/board-meetings/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/it/~](/handbook/it/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/spending-company-money/~](/handbook/spending-company-money/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/only-healthy-constraints/~](/handbook/only-healthy-constraints/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/handbook-usage/~](/handbook/handbook-usage/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/values/~](/handbook/values/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/tax/~](/handbook/tax/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/internal-audit/~](/handbook/internal-audit/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/about/~](/handbook/about/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/content-websites/~](/handbook/content-websites/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/product/~](/handbook/product/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/ceo/~](/handbook/ceo/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/product-development-budgeting/~](/handbook/product-development-budgeting/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/eba/~](/handbook/eba/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/business-technology/~](/handbook/business-technology/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/support/~](/handbook/support/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/on-call/~](/handbook/on-call/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/labor-and-employment-notices/~](/handbook/labor-and-employment-notices/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/people-group/~](/handbook/people-group/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/teamops/~](/handbook/teamops/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/incentives/~](/handbook/incentives/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/stock-options/~](/handbook/stock-options/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/esg/~](/handbook/esg/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/documentation/~](/handbook/documentation/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/finance/~](/handbook/finance/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/hiring/~](/handbook/hiring/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/paid-time-off/~](/handbook/paid-time-off/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/being-a-public-company/~](/handbook/being-a-public-company/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/communication/~](/handbook/communication/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/inspired-by-gitlab/~](/handbook/inspired-by-gitlab/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/faq-gitlab-licensing-technology-to-independent-chinese-company/~](/handbook/faq-gitlab-licensing-technology-to-independent-chinese-company/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/leadership/~](/handbook/leadership/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/competencies/~](/handbook/competencies/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/people-policies/~](/handbook/people-policies/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/on-call/~](/handbook/on-call/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/travel/~](/handbook/travel/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/_index/~](/handbook/_index/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/product-development-flow/~](/handbook/product-development-flow/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/company/~](/handbook/company/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/using-gitlab-at-gitlab/~](/handbook/using-gitlab-at-gitlab/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/esg/~](/handbook/esg/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/company/~](/handbook/company/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/job-families~](/job-families~g" {} +
-
-# Migrated Sections using fully qualified url on handbook
-echo "Migrating links for the new handbook  which been migrated to the new handbook..."
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/anti-harassment/~](/handbook/anti-harassment/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/group-conversations/~](/handbook/group-conversations/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/infrastructure-standards/~](/handbook/infrastructure-standards/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/tools-and-tips/~](/handbook/tools-and-tips/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/total-rewards/~](/handbook/total-rewards/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/e-group-weekly/~](/handbook/e-group-weekly/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/security/~](/handbook/security/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/key-review/~](/handbook/key-review/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/entity/~](/handbook/entity/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/board-meetings/~](/handbook/board-meetings/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/it/~](/handbook/it/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/spending-company-money/~](/handbook/spending-company-money/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/only-healthy-constraints/~](/handbook/only-healthy-constraints/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/handbook-usage/~](/handbook/handbook-usage/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/values/~](/handbook/values/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/tax/~](/handbook/tax/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/internal-audit/~](/handbook/internal-audit/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/about/~](/handbook/about/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/content-websites/~](/handbook/content-websites/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/product/~](/handbook/product/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/ceo/~](/handbook/ceo/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/product-development-budgeting/~](/handbook/product-development-budgeting/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/eba/~](/handbook/eba/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/business-technology/~](/handbook/business-technology/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/support/~](/handbook/support/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/on-call/~](/handbook/on-call/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/labor-and-employment-notices/~](/handbook/labor-and-employment-notices/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/people-group/~](/handbook/people-group/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/teamops/~](/handbook/teamops/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/incentives/~](/handbook/incentives/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/stock-options/~](/handbook/stock-options/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/esg/~](/handbook/esg/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/documentation/~](/handbook/documentation/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/finance/~](/handbook/finance/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/hiring/~](/handbook/hiring/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/paid-time-off/~](/handbook/paid-time-off/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/being-a-public-company/~](/handbook/being-a-public-company/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/communication/~](/handbook/communication/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/inspired-by-gitlab/~](/handbook/inspired-by-gitlab/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/faq-gitlab-licensing-technology-to-independent-chinese-company/~](/handbook/faq-gitlab-licensing-technology-to-independent-chinese-company/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/leadership/~](/handbook/leadership/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/competencies/~](/handbook/competencies/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/people-policies/~](/handbook/people-policies/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/on-call/~](/handbook/on-call/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/travel/~](/handbook/travel/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/_index/~](/handbook/_index/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/product-development-flow/~](/handbook/product-development-flow/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/company/~](/handbook/company/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/using-gitlab-at-gitlab/~](/handbook/using-gitlab-at-gitlab/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/esg/~](/handbook/esg/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](/company/~](/handbook/company/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/job-families~](/job-families~g" {} +
-
-# Sections not yet migrated
-echo "Fixing links which haven't been migrated yet..."
-find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/alliances/~](https://about.gitlab.com/handbook/alliances/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/create-directory/~](https://about.gitlab.com/handbook/create-directory/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/customer-success/~](https://about.gitlab.com/handbook/customer-success/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/developer-onboarding/~](https://about.gitlab.com/handbook/developer-onboarding/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/dmca/~](https://about.gitlab.com/handbook/dmca/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/engineering/~](https://about.gitlab.com/handbook/engineering/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/entity-specific-employment-policies/~](https://about.gitlab.com/handbook/entity-specific-employment-policies/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/gdpr/~](https://about.gitlab.com/handbook/gdpr/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/git-page-update/~](https://about.gitlab.com/handbook/git-page-update/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/glossary/~](https://about.gitlab.com/handbook/glossary/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/integrator/~](https://about.gitlab.com/handbook/integrator/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/journeys/~](https://about.gitlab.com/handbook/journeys/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/legal/~](https://about.gitlab.com/handbook/legal/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/markdown-guide/~](https://about.gitlab.com/handbook/markdown-guide/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/marketing/~](https://about.gitlab.com/handbook/marketing/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/organizational-change-management/~](https://about.gitlab.com/handbook/organizational-change-management/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/positioning-faq/~](https://about.gitlab.com/handbook/positioning-faq/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/practical-handbook-edits/~](https://about.gitlab.com/handbook/practical-handbook-edits/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/questions/~](https://about.gitlab.com/handbook/questions/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/resellers/~](https://about.gitlab.com/handbook/resellers/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/sales/~](https://about.gitlab.com/handbook/sales/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/style-guide/~](https://about.gitlab.com/handbook/style-guide/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/use-cases/~](https://about.gitlab.com/handbook/use-cases/~g" {} +
-
-# Sections which won't be migrated
-echo "Fixing links for sections which won't be migrated..."
-find . -type f -name "*.md" -exec sed -i '' "s~](/blog/~](https://about.gitlab.com/blog/~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~](/direction/~](https://about.gitlab.com/direction/~g" {} +
-
-# Clean up the markdown and erb files a bit
-echo  "Cleaning up markdown files..."
-find . -type f -name "*.md" -exec sed -i '' "s~layout: handbook-page-toc~~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~layout: markdown_page~~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~## On this page~~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~{:.no_toc .hidden-md .hidden-lg}~~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~- TOC~~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~{:toc .hidden-md .hidden-lg}~~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~{:.no_toc}~~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~{:.toc}~~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~{::options parse_block_html=\"true\" /}~~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~{:toc .toc-list-icons .hidden-md .hidden-lg}~~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~{:no_toc .hidden-md .hidden-lg}~~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~{: .shadow}~~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~{:toc}~~g" {} +
-
-echo  "Cleaning up  any erb files..."
-find . -type f -name "*.erb" -exec sed -i '' "s~layout: handbook-page-toc~~g" {} +
-find . -type f -name "*.erb" -exec sed -i '' "s~layout: markdown_page~~g" {} +
-find . -type f -name "*.erb" -exec sed -i '' "s~## On this page~~g" {} +
-find . -type f -name "*.erb" -exec sed -i '' "s~{:.no_toc .hidden-md .hidden-lg}~~g" {} +
-find . -type f -name "*.erb" -exec sed -i '' "s~- TOC~~g" {} +
-find . -type f -name "*.erb" -exec sed -i '' "s~{:toc .hidden-md .hidden-lg}~~g" {} +
-find . -type f -name "*.erb" -exec sed -i '' "s~{:.no_toc}~~g" {} +
-find . -type f -name "*.erb" -exec sed -i '' "s~{:.toc}~~g" {} +
-find . -type f -name "*.erb" -exec sed -i '' "s~{::options parse_block_html=\"true\" /}~~g" {} +
-find . -type f -name "*.erb" -exec sed -i '' "s~{:toc .toc-list-icons .hidden-md .hidden-lg}~~g" {} +
-find . -type f -name "*.erb" -exec sed -i '' "s~{:no_toc .hidden-md .hidden-lg}~~g" {} +
-find . -type f -name "*.erb" -exec sed -i '' "s~{: .shadow}~~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~{:toc}~~g" {} +
-
-cd ..
 
 # Run markdownlint to try to fix as many errors as possible
 
@@ -425,14 +303,15 @@ if [[ $IS_COMPANY == true ]]; then
   echo "content/handbook/company/$SECTION/**/*.md" >> .markdownlintignore
   sed -i '' "s~\"ignores\": \[~\"ignores\": \[\n    \"content/handbook/company/$SECTION/**/*.md\",~g" .markdownlint-cli2.jsonc
 elif [[ $IS_ENGINEERING == true ]]; then
-  echo "content/handbook/engineering/$SECTION/**/*.md" >> .markdownlintignore
-  sed -i '' "s~\"ignores\": \[~\"ignores\": \[\n    \"content/handbook/engineering/$SECTION/**/*.md\",~g" .markdownlint-cli2.jsonc
-elif [[ $IS_HANDBOOK == true ]]; then
-  echo "content/handbook/$SECTION/**/*.md" >> .markdownlintignore
-  sed -i '' "s~\"ignores\": \[~\"ignores\": \[\n    \"content/handbook/$SECTION/**/*.md\",~g" .markdownlint-cli2.jsonc
-else
-  echo "content/$SECTION/**/*.md" >> .markdownlintignore
-  sed -i '' "s~\"ignores\": \[~\"ignores\": \[\n    \"content/$SECTION/**/*.md\",~g" .markdownlint-cli2.jsonc
+  echo "Skipping mdlintignore as already have a blanket one for engineering"
+elif [[ $IS_MARKETING == true ]]; then
+  echo "Skipping mdlintignore as already have a blanket one for marketing"
+# elif [[ $IS_HANDBOOK == true ]]; then
+#   echo "content/handbook/$SECTION/**/*.md" >> .markdownlintignore
+#   sed -i '' "s~\"ignores\": \[~\"ignores\": \[\n    \"content/handbook/$SECTION/**/*.md\",~g" .markdownlint-cli2.jsonc
+# else
+#   echo "content/$SECTION/**/*.md" >> .markdownlintignore
+#   sed -i '' "s~\"ignores\": \[~\"ignores\": \[\n    \"content/$SECTION/**/*.md\",~g" .markdownlint-cli2.jsonc
 fi
 
 # Commit the result and raise an MR against the new handbook repo
@@ -450,6 +329,36 @@ to fix most markdown liniting errors although a number will still persist.  We h
 HANDBOOK_MR_OUTPUT=$(glab mr create --push --no-editor -y -b main -a jamiemaynard -l "handbook::operations" -t "$MR_TITLE" -d "$MR_DESCRIPTION")
 echo $HANDBOOK_MR_OUTPUT
 
+if [[ $IS_MARKETING == "true" || $IS_ENGINEERING == "true" ]]; then
+  echo "Skipping cleaning up www-gitlab-com"
+  echo -e "${bold}Cleaning up the copy of www-gitlab-com repo...${normal}"
+  rm -rf /tmp/gitlab-migration
+  cat << EOF >> $REPORT_OUT
+---
+title: $TITLE
+Description: Migration report for moving the handbooks $SECTION section
+---
+
+## Migration Report for "$TITLE"
+
+**Section:** $SECTION
+
+**Completed:** $(date)
+
+Please complete the following tasks:
+
+- [ ] Review the MR in handbook for the new content
+  - MR Link: [$HANDBOOK_MR_OUTPUT]($HANDBOOK_MR_OUTPUT)
+- [ ] Move files in to place
+- [ ] Convert .erb files to markdown and shortcodes
+- [ ] Fix outstanding markdown lint errors (optional)
+- [ ] Merge MR for \`handbook\`
+
+EOF
+  cat $REPORT_OUT
+  exit 0
+fi
+
 echo -e "${bold}Moving on to clean up of www-gitlab-com repo...${normal}"
 cd $DUBDUBDUB_REPO
 # Setup redirects in dubdubdub
@@ -462,7 +371,10 @@ if [[ $IS_COMPANY == true ]]; then
   REDIRECT_TARGET=https://handbook.gitlab.com/handbook/company/$SECTION
 elif [[ $IS_ENGINEERING == true ]]; then
   REDIRECT_SOURCE=/handbook/engineering/$SECTION
-  REDIRECT_TARGET=https://handbook.gitlab.com/handbook/enginnering/$SECTION
+  REDIRECT_TARGET=https://handbook.gitlab.com/handbook/engineering/$SECTION
+elif [[ $IS_MARKETING == true ]]; then
+  REDIRECT_SOURCE=/handbook/marketing/$SECTION
+  REDIRECT_TARGET=https://handbook.gitlab.com/handbook/marketing/$SECTION
 elif [[ $IS_HANDBOOK == true ]]; then
   REDIRECT_SOURCE=/handbook/$SECTION
   REDIRECT_TARGET=https://handbook.gitlab.com/handbook/$SECTION

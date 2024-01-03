@@ -48,7 +48,7 @@ The Data Team performs Proof of Value Evaluations (PoVs) for all new technologie
 ### Phase 2: Scoping & Policy Awareness
 
 1. Review the [Procurement New Software Guide](/handbook/finance/procurement/new-software/) to ensure you understand the latest procurement process to follow.
-1. Execute an [NDA](https://about.gitlab.com/handbook/legal/NDA/) with each Vendor included in the Evaluation.
+1. Execute an [NDA](/handbook/legal/NDA/) with each Vendor included in the Evaluation.
 1. Obtain preliminary pricing to help validate established budget. If no existing budget is established, work with the Department lead to determine if the project is feasible. Let's not waste time or energy for projects we can't fund.
 
 ### Phase 3: Evaluation Design
@@ -85,10 +85,9 @@ Evaluation Design is the most complex part of the PoV.
 | Program Name | Purpose |
 | :--- | :--- |
 | [Data Catalog](/handbook/business-technology/data-team/data-catalog/) | Catalog of dashboards, data sets, and analytics projects |
-| [Data for Finance](/handbook/business-technology/data-team/programs/data-for-finance/) | Information to help Financial Analysts |
 | [Data for Product Managers](/handbook/business-technology/data-team/programs/data-for-product-managers/) | Information to help Product Managers |
 | [Data for Product Analysis](/handbook/product/product-analysis/) | Information to help Product Analysts |
-| [Analytics Instrumentation Group](https://about.gitlab.com/handbook/engineering/development/analytics/analytics-instrumentation/) | Information covering the Analytics Instrumentation team |
-| [Data for Marketing Analysts](https://about.gitlab.com/handbook/marketing/inbound-marketing/search-marketing/analytics/) | Information to help Marketing Analysts |
-| [Data for Sales Analysts](https://about.gitlab.com/handbook/sales/field-operations/sales-strategy/) | Information to help Sales Analysts |
+| [Analytics Instrumentation Group](/handbook/engineering/development/analytics/analytics-instrumentation/) | Information covering the Analytics Instrumentation team |
+| [Data for Marketing Analysts](/handbook/marketing/inbound-marketing/search-marketing/analytics/) | Information to help Marketing Analysts |
+| [Data for Sales Analysts](/handbook/sales/field-operations/sales-strategy/) | Information to help Sales Analysts |
 | [Data Triage](/handbook/business-technology/data-team/how-we-work/triage/) | Daily process to ensure the data platform remains available for analytics. |

@@ -4,6 +4,8 @@ description: Support Operations documentation page for account deletion weekly r
 canonical_path: "/handbook/support/readiness/operations/docs/gitlab/adwr"
 ---
 
+<sup>*Introduced via [support-team-meta#3190](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3190)*</sup>
+
 ## What is the ADWR
 
 ADWR (Account Deletion Weekly Report) is a project within gitlab.com that

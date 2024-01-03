@@ -12,9 +12,9 @@ Security Engineers will need to collaborate with and ultimately hand over their 
 
 If a team does not have capacity or a desire to assist, a Security Engineer's work can still continue; everyone can contribute.
 
-Requests from Security Engineers for new features and enhancements should follow the process in ["Requesting something to be scheduled"](https://about.gitlab.com/handbook/engineering/workflow/#requesting-something-to-be-scheduled)
+Requests from Security Engineers for new features and enhancements should follow the process in ["Requesting something to be scheduled"](/handbook/engineering/workflow/#requesting-something-to-be-scheduled)
 
-This does not apply to addressing security vulnerabilities or dependency updates, which have [separate processes for triage and patching](#issue-triage).
+This does not apply to addressing security vulnerabilities or dependency updates, which have separate processes for triage and patching.
 
 ## External Code Contributions
 

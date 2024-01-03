@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/customer-success/professional-services-engineering/education-services/gitlabpmhandsonlab5.html
 title: "GitLab Project Management Hands-On Guide: Lab 5"
 description: "This Hands-On Guide walks you through the lab exercises used in the GitLab Project Management course."
 ---
@@ -77,18 +76,18 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
     ```markdown
    ## Instructions
    Use this issue to capture research that must take place before continued development of a feature.
-   
+
    ### Summary
    <!--In 2 sentences or fewer, describe the problem to be solved or the question to be answered.  -->
-   
+
    ### Impact Statement
    <!-- Describe importance of solving the problem. How will it affect the feature or product direction?  -->
-   
+
    ### Tasks
    - [ ] Assign participants and DRI
    - [ ] Apply appropriate priority and team labels
    - [ ] Assign to an upcoming product sprint
-   
+
    /label ~"Status::Open"
     ```
 

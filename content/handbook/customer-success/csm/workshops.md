@@ -8,7 +8,7 @@ title: Workshops and Enablement Sessions
 
 
 
-View the [CSM Handbook homepage](https://about.gitlab.com/handbook/customer-success/csm/) for additional CSM-related handbook pages.
+View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional CSM-related handbook pages.
 
 - - -
 
@@ -26,18 +26,18 @@ One of the tools CSMs have to speed customer onboarding, increase user adoption,
 **Use-case Enablement**: Enabling the use cases into which a customer expresses readiness to adopt as a part of their desired business outcome. CSMs enable customers by creating quick time to value, overcoming technical roadblocks, and ensuring stickiness. The CSM provides the customer with guidance on adopting use cases to maximize value attribution and to align adoption to the customer's desired positive business outcomes. CSM-led enablement can occur via workshops as listed below and is a part of the CSM-led customer success plan.
 
 
-**Use-case Expansion**: Driving expansion into new use cases as a part of an account planning motion, in line with the SAE or AE, to ensure the customer receives increasing ROI and creates happy customers that grow. This motion starts with a discovery process to open the door to a more in-depth discovery, with demos and workshops focused on value-positioning that lead to the customer saying 'yes' and agreeing to adopt that use case. [The CSM can track this expansion within an existing success plan objective](https://about.gitlab.com/handbook/customer-success/csm/success-plans/#components-of-a-success-plan) or create a different objective to track this expansion initiative.
+**Use-case Expansion**: Driving expansion into new use cases as a part of an account planning motion, in line with the SAE or AE, to ensure the customer receives increasing ROI and creates happy customers that grow. This motion starts with a discovery process to open the door to a more in-depth discovery, with demos and workshops focused on value-positioning that lead to the customer saying 'yes' and agreeing to adopt that use case. [The CSM can track this expansion within an existing success plan objective](/handbook/customer-success/csm/success-plans/#components-of-a-success-plan) or create a different objective to track this expansion initiative.
 
 
 **Where do I track the use-case enablement and expansion?**
-The steps to expand or enable on a use case are a part of the success plan, and are a part of a larger motion to drive towards a customer's desired business outcome [(leading to product adoption milestones being realized)](https://about.gitlab.com/handbook/customer-success/csm/success-plans/#components-of-a-success-plan)
+The steps to expand or enable on a use case are a part of the success plan, and are a part of a larger motion to drive towards a customer's desired business outcome [(leading to product adoption milestones being realized)](/handbook/customer-success/csm/success-plans/#components-of-a-success-plan)
 
 ## Frequency of Enablement Sessions
 
 As often as needed.  For PR1 Customers, we look to see an enablement session at a minimum  every 6 months. For PR2, every 12 months.
 The CSM first offers enablement sessions during onboarding so the customer is aware that they are available and the list of typical sessions that can be done.  Additionally, the CSM should offer a specific session when working with a customer on a use case enablement. The customer collaboration project now has a default issue that has the list of current offerings with a brief description.
 
-Sessions should be [captured in Gainsight](https://about.gitlab.com/handbook/customer-success/csm/gainsight/timeline/#how-to-log-activities-in-timeline), which [drives the Engagement scorecard metric](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/#gainsight-scorecard-attributes-and-calculations).  Record the date and type of session it was as well as an approximate number of attendees.
+Sessions should be [captured in Gainsight](/handbook/customer-success/csm/gainsight/timeline/#how-to-log-activities-in-timeline), which [drives the Engagement scorecard metric](/handbook/customer-success/csm/health-score-triage/#gainsight-scorecard-attributes-and-calculations).  Record the date and type of session it was as well as an approximate number of attendees.
 
 ## Type of sessions
 
@@ -54,13 +54,13 @@ The following are already developed, have been given to multiple customers and a
 - **WebIDE and Markdown** *(for anyone looking to make changes to code or Pages)* - Covers what you can do with the built-in GitLab WebIDE to make changes to code, files, Pages directly from the GitLab web UI, as well as tips & tricks you can do with GitLab markdown in issues, merge requests, epics, Pages, etc.
 - **Git Basics** *(for those who want to contribute on their local machine)* - Focuses on the command line interface into GitLab that a developer may need to pull/push code to/from the GitLab server
 - **CI/CD Basics** *(for those who want to learn about automated build/test/deploy pipelines)* - Covers the basics of how to set up a pipeline to build, test, and deploy your code
-- [**Advanced CI/CD**](https://about.gitlab.com/handbook/customer-success/workshops/ci-workshop.html) *(for those interested in learning more about CI/CD)* - Requires basic CI/CD knowledge and covers advanced topics such as includes/extends, rules, child pipelines, and more (specific content will be curated)
-- [**GitLab Security and Compliance**](https://about.gitlab.com/handbook/customer-success/workshops/secure/) *(for security, developers, managers, and PMs)* - Covers an overview of the security features including how developers see the scan results in the merge request and how security teams can review the results in the Security Dashboard
+- [**Advanced CI/CD**](/handbook/customer-success/workshops/ci-workshop.html) *(for those interested in learning more about CI/CD)* - Requires basic CI/CD knowledge and covers advanced topics such as includes/extends, rules, child pipelines, and more (specific content will be curated)
+- [**GitLab Security and Compliance**](/handbook/customer-success/workshops/secure/) *(for security, developers, managers, and PMs)* - Covers an overview of the security features including how developers see the scan results in the merge request and how security teams can review the results in the Security Dashboard
 - [**DevSecOps Adoption Path**](https://gitlab.highspot.com/items/636013fdcba3439c837f10d7?lfrm=ssrp.1#1) *(for security & developers)* - A prescriptive and curated route to adopting GitLab Secure scanners to get the most ROI as quickly as possible with Secure. This is a great workshop for customers who are struggling with Secure adoption or are just beginning their journey on Ultimate and using GitLab Secure.
 - **GitLab as a PM tool** *(for PMs, scrum masters, team leads, developers)* - Focuses on organization and use of epics, sub-epics, roadmaps, issues, labels, milestones, and boards
 - **Issue, labels, and boards** *(for those interested in learning more about GitLab PM)* - Covers more tips & tricks on issues, labels, and boards and is good follow-on after the PM session
 - **DevOps Metrics with GitLab** *(for managers, PMs, team leads)* - Goes over what the DORA4 metrics are, why it is useful to track them, and what is available in GitLab
-- [**Innersourcing with GitLab**](https://about.gitlab.com/handbook/customer-success/workshops/innersource-workshop.html) *(for teams interested in starting code-sharing initiatives internally)* - Goes over what is innersourcing, why it is useful, and what are the key things needed for success, followed by how to get started in GitLab
+- [**Innersourcing with GitLab**](/handbook/customer-success/workshops/innersource-workshop.html) *(for teams interested in starting code-sharing initiatives internally)* - Goes over what is innersourcing, why it is useful, and what are the key things needed for success, followed by how to get started in GitLab
 - **GitOps with GitLab** *(for teams looking to use GitLab for Infrastructure as Code)* - Goes over what is GitOps, how it is more than just Infrastructure as Code, what are the benefits, and how to get started with GitLab
 - **GitLab Administration** *(for GitLab Admins of self-managed instances)* - Goes over GitLab components and architecture, installs, upgrades, admin area of the UI, common CLI commands, and back-ups
 - **Permissions & Access with GitLab** *(for GitLab Admins of self-managed instances)* - Goes over permission access at the Group, Subgroup, Project, and Member levels, and discusses how to effectively tie access in with supported authentication protocols for on and offboarding
@@ -120,12 +120,12 @@ Similar to taking notes in a cadence call, it is useful to add to your running n
 ### Best Practices for Note-Taking & Planning
 
 - Write down your *agenda* (including questions you want to ask). This way you can quickly add your notes for the specific context.
-- If you're comfortable writing in [Markdown format](https://about.gitlab.com/handbook/markdown-guide/), use it to quickly structure your notes in real time.
+- If you're comfortable writing in [Markdown format](/handbook/markdown-guide/), use it to quickly structure your notes in real time.
 - Allow yourself time directly after the call to clean up your notes. Avoid scheduling back-to-back meetings.
 - Practice slowing down call conversations. Stopping the dialog for a few seconds to say “let me write that down” tells the customer what they said is important to you.
 - Ask your SAE/AE/SA to take notes with you. After the meeting combine and add detail.
 - Use [Chorus](/handbook/business-technology/tech-stack/#chorus) to record your calls so there's less pressure for you to take note of everything.
-- Sometimes it makes sense for somebody on the [account team](https://about.gitlab.com/handbook/customer-success/account-team/) to go back through the call in Chorus to transcribe it.
+- Sometimes it makes sense for somebody on the [account team](/handbook/customer-success/account-team/) to go back through the call in Chorus to transcribe it.
 - Write notes in whatever is easiest and always copy them to your best source of truth. If you can write them in the source of truth in the first place, you’ll be more efficient and consistent
 - Leverage the [Workshop Planning Checklist](https://docs.google.com/document/d/1MQuIq8_QWvZJi_zKMzwkIf9Ewps4nezmcvQ6YuzomSA/edit) for planning calls with the customer
 

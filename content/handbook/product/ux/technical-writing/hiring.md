@@ -1,16 +1,6 @@
 ---
-
 title: "Hiring Technical Writers"
-description: "The internal process for hiring Technical Writers at GitLab."
 ---
-
-
-
-
-
-
-
-# Hiring Technical Writers
 
 As GitLab grows, the Technical Writing team expands, and team members participate in interviews. A defined interview
 process is important for a consistent hiring process.
@@ -147,4 +137,3 @@ For anything unclear to you, or needs a follow-up, or needs further investigatio
 - Be thoughtful to choose the result ("Strong Yes," "Yes," "No," "Strong No").
 - Submit the scorecard.
 - Discuss with your coach, if you're being shadowed.
-

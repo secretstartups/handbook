@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandsonlab2.html
 title: "GitLab CI/CD Hands-On Guide: Lab 2"
 description: "This Hands-On Guide walks you through the lab exercises in the GitLab CI/CD course."
 ---
@@ -40,7 +39,7 @@ description: "This Hands-On Guide walks you through the lab exercises in the Git
 1. Select **Commit changes**.
 
 
-### C. View a pipeline’s status, stages, jobs, and GitLab runner
+### C. View a pipeline’s status, stages, jobs, and GitLab runners
 
 1. In the left navigation pane, click **CI/CD > Pipelines** to see an overview of all pipelines. The top row in the overview shows the pipeline that started a few seconds ago, when you committed `.gitlab-ci.yml`. The status icon at the left of the row should say either **running** or **passed**.
 1. Click the status icon of the top row to see the details of the most recent pipeline. You’ll see columns representing the pipeline’s stages, and widgets representing jobs within each stage.

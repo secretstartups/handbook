@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/customer-success/professional-services-engineering/education-services/gitlabpmhandsonlab3.html
 title: "GitLab Project Management Hands-On Guide: Lab 3"
 description: "This Hands-On Guide walks you through the lab exercises used in the GitLab Project Management course."
 ---
@@ -13,7 +12,7 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 
 1. Navigate to the GitLab project [landing page](https://gitlab.com/gitlab-org/gitlab). Note the namespace structure indicated by the top of the page. You should be in the **GitLab** project inside the **GitLab.org** group.
 1. In the breadcrumbs at the top of the page, click **GitLab.org** to navigate to the parent group.
-1. Note the number of epics, issues, and merge requests indicated in the left pane. These numbers represent work items across all subgroups and projects inside **Gitlab.org**.
+1. Note the number of epics, issues, and merge requests indicated in the left pane. These numbers represent work items across all subgroups and projects inside **GitLab.org**.
 1. In the left pane, click **Epics**. This takes you to a searchable list of epics in **GitLab.org** and all its subgroups.
 1. In the left pane, click **Epics > Roadmap**. Spend a moment scrolling the displayed milestones and open epics.
 

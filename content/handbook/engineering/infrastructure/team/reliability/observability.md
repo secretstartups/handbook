@@ -1,0 +1,148 @@
+---
+aliases: /handbook/engineering/infrastructure/team/reliability/observability.html
+title: "Reliability:Observability Team"
+---
+
+## Mission
+
+The Reliability::Observability team at GitLab mission is to Build, Run and Own the entire lifecycle of the suite of services that enable observability of
+the GitLab SaaS environments.  These services allow Infrastructure, Development & Product teams to observe running products and
+contribute to our overall reliability and scalability goals.
+
+
+## Vision
+
+The Reliability::Observability team is seeking to provide a common entry point for service owners to interact with all facets of the observability platform. We are looking to help teams self-serve their needs with access via context-specific interfaces. For example, we should facilitate user-friendly workflows for viewing, adding, updating, and removing observability integrations with the user's infrastructure, systems, and services. The interfaces will also enable service owners to assign permissions and delegate to authorized users or groups so that multiple team members can collaborate and jointly manage their configuration.
+
+Functionally, our team is focused on owning the reliability/scalability/security of the existing observability services.  This means introducing new observability capabilities  for existing services that improve the overall observability/reliability/scalability of the GitLab SaaS environments and reducing the effort required to provide these services.
+
+Our team should be seeking to build their services on top of Reliability::Foundations services and cloud vendor managed products to reduce complexity, improve efficiency and deliver new capabilities quicker.
+
+### Values when looking at tools and services we run
+
+1.  [Dogfood](/handbook/engineering/development/principles/#dogfooding) where it makes sense.
+1. If we don't dogfood, we value following [CNCF](https://www.cncf.io/) or other open source projects since these are likely to be tools that will align with our vision
+1. For evaluating tools we use, we have a set of evaluation criteria:
+  1. What is the vision of the tool or feature?  Is it being actively developed or in maintenance only mode?
+  1. What is the maturity of the tool or feature.
+    - [Service Maturity](/handbook/engineering/infrastructure/service-maturity-model/)
+    - [Category Maturity](https://about.gitlab.com/direction/maturity/)
+1. How can the tool increase our [bus factor](https://en.wikipedia.org/wiki/Bus_factor) - we don't want just one DRI for a tool.
+1. Cost matters - don't just consider license/compute costs. Consider the administrative costs too.
+
+Observability services includes providing:
+
+- [Log shipping, storage and analysis platforms](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/logging)
+- Metric shipping, storage and analysis platforms (Promethues, Thanos & Grafana)
+- On-call management (PagerDuty)
+- Best practises for observing services at GitLab
+- Tracing?
+- Data feeds? (Logs to SIEM?, others?)
+- Others?
+
+The team does not explicitly have any product responsibilities in the Monitor stage group but we should contribute the lessons we learn from running production systems at scale back to the product team and we should advocate for GitLab to contain features that would allow us to DogFood.
+
+The team does not explicitly own observability for [GitLab Dedicated](/handbook/engineering/infrastructure/team/gitlab-dedicated/).  The current team focus as of early 2023 is for GitLab.com, but in the long run, we plan to build a platform that will be used for all SaaS products.
+
+## Services We Own
+
+| Service | Label | Description | Resources |
+| --- | :---: | --- | --- |
+| AlertManager      | `service::AlertManager`  | |
+| BigQuery          | N/A                      | Part of `service::Logging`. <br/> BigQuery is used for searching archived logs in GCS | [Runbook](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/logging#searching-in-object-storage-gcs) |
+| Elasticsearch     | `service::Elasticsearch` | Part of of `service::Logging`. <br /> Elasticsearch is used to provide near-term storage for logs used for troubleshooting and diagnostics. | |
+| ErrorTracking     | `service::ErrorTracking` | | |
+| Grafana           | `service::Grafana`       | | [Runbooks](https://gitlab.com/gitlab-com/runbooks/-/blob/master/dashboards/README.md) |
+| Jaeger            | `service::Jaeger`        | Part of `service::Tracing` | |
+| Logging           | `service::Logging`       | Our log shipping and archiving infrastructure.| [Runbooks](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/logging) |
+| Prometheus        | `service::Prometheus`    | | [Runbooks](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/monitoring#instrumentation) |
+| PagerDuty         | N/A                      | | [Application](https://gitlab.pagerduty.com) |
+| Sentry            | `service::Sentry`        | Part of `service::ErrorTracking` | [Application](https://sentry.gitlab.net) |
+| Stackdriver       | `service::Stackdriver`   | Part of `service::Logging` | |
+| Thanos            | `service::Thanos`        | Long-term storage for metrics data. | [Thanos](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/monitoring#scaling-prometheus-thanos) |
+| Pingdom           |                          | Pingdom is used for up/down monitoring of externally-facing endpoints | |
+| Dead Man's Snitch |                          | Dead Man's Snitch provides synthetic monitoring and inactivity alerts. | |
+| Status.io         |                          | [Status.io](/handbook/support/workflows/cmoc_workflows.html#about-statusio) - overlap with Support | |
+
+## Overlap
+
+1. With Scalability on
+   1. [Projections team](/handbook/engineering/infrastructure/team/scalability/projections.html) for use of Thanos
+   1. [Frameworks team](/handbook/engineering/infrastructure/team/scalability/frameworks.html) in the [Service Catalog](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/2098)
+1. With the Reliability:Foundations team to use the underlying platforms (GKE) they provide
+1. With [Observability Group](/handbook/product/categories/#observability-group) for dogfooding overlaps and feedback for Infra team needs
+1. With data team on Sisense dashboards.
+1. With Support for ownership of tooling for CMOC duties like Status.io
+
+## How We Work
+
+### Working with Us
+
+For general communication and questions, the team can be found in the [#g_infra_observability](https://gitlab.slack.com/archives/C0496692EHY) channel in slack. Requests for support should be submitted as a GitLab issue in the [Reliability issue tracker](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues) labeled with [`team::Observability`](/handbook/engineering/infrastructure/team/reliability/issues.html#team-labels), [`workflow-infra::Triage`](/handbook/engineering/infrastructure/team/reliability/issues.html#workflow-labels), and a [service label](/handbook/engineering/infrastructure/team/reliability/issues.html#service-labels) (if known).
+
+### Workflow
+
+1. We organize work into monthly milestones, with names following the convention `o11y-YYYY-MM`
+1. We follow the [general workflow](/handbook/engineering/infrastructure/team/reliability/#how-we-work) for Reliability, with minor adjustments to the [workflow labels](/handbook/engineering/infrastructure/team/reliability/issues.html#workflow-labels) under the standard [issue triage process](/handbook/engineering/infrastructure/team/reliability/issues.html).
+    1. We utilize an additional `workflow-infra::backlog` label for issues that have been triaged, but not yet scheduled and marked as `workflow-infra::Ready`.
+    1. We move issues to `workflow-infra::Ready` when they are scheduled into a milestone.
+    1. Specific `service::` labels in-use by our team are noted above, under [Services We Own](/handbook/engineering/infrastructure/team/reliability/observability.html#services-we-own)
+
+## Performance Indicators
+
+- Reliability SLx of Grafana and underlying dashboards.
+- Reliability SLx of Kibana - including ingestion delays.
+
+## Team Members
+
+{{< team-by-manager-slug manager="liam-m" department="Reliability:Observability" >}}
+
+## Key Technical Skills
+
+- Kibana/Elastic cluster management.  Fluentd/log shipping pipeline.
+- GKE, for example, we will likely be containerizing/K8s for things O11y runs.  Also
+- knowledge of how log shipping with sidecars works.
+- Grafana, Prometheus, Thanos management.
+
+
+## Common Links
+
+- [Current Working board](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/5041767?label_name[]=Squad%3A%3AObservability)
+- [Current Triage board](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/1676912?label_name[]=Squad%3A%3AObservability)
+- [Current Epic Board](https://gitlab.com/groups/gitlab-com/gl-infra/-/epic_boards/38727?label_name[]=team%3A%3AObservability)
+
+### Metrics Specific Vision
+
+We are creating a simpler customer experience to ship metrics to thanos with remote write.  The [envisioned Architecture](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/thanos/architecture.md) for remote write will enable tenants to more easily configure [Prometheus remote write](https://prometheus.io/docs/prometheus/latest/configuration/configuration/#remote_write) instead of setting up Thanos SideCar and various Thanos Store configuration.  We will also then move rule evaluation for things like the service metrics SLx to the Thanos rulers.
+
+
+### Log Shipping Specific Vision
+
+Similar to metrics, we want to make the experience of shipping logs to our Observability tooling simpler.  The [current architecture](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/logging?ref_type=heads#logging-infrastructure-overview) is complex.  The goal would be to enable a remote-write like experience for logs.  Teams would only need to add a sidecar log processor like [Promtail](https://grafana.com/docs/loki/latest/clients/promtail/) or [Fluentd](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/logging?ref_type=heads#fluentd).  From there, they only need an endpoint, tennant ID and credientials.  On the backend, the Observability tooling would be able handle the ingestion of logs and shipping to long term storage for compliance and security along with shipping to a queryable place for teams to do investigation. Additionally the move to a tenant based model will enable us to enforce limits and quotas, as a further control to prevent unexpected log growth.
+
+### Useful links / videos for learning;
+
+Readiness Reviews:
+
+- [Thanos Readiness review](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/thanos/overview.md)
+
+Runbooks:
+
+- [Thanos runbooks in monitoring](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/monitoring)
+- [Log Shipping](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/logging)
+- [Dashboards](https://gitlab.com/gitlab-com/runbooks/-/tree/master/dashboards)
+- [Sentry](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/sentry)
+
+
+How our monitoring stack works:
+
+- [SLOconf: GitLab’s journey to SLO Monitoring](https://www.youtube.com/watch?v=CbX1nZL7biQ)
+- [How We are Dealing with Metrics at Scale on GitLab.com](https://www.youtube.com/watch?v=6sfr2IGJQXk)
+- [Practical Capacity Planning using Prometheus](https://www.youtube.com/watch?v=YHV0qkKBz7o)
+- [Practical Anomaly Detection using Prometheus](https://vimeo.com/341141334)
+
+Examples of work:
+
+- [Prometheus Service Issues](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/?label_name%5B%5D=Service%3A%3APrometheus)
+- [Thanos Service Issues](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=Service%3A%3AThanos&first_page_size=100)
+- [Elastic Search Service Issues](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/?label_name%5B%5D=Service%3A%3AElasticsearch)

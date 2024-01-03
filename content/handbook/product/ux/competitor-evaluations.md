@@ -1,15 +1,7 @@
 ---
-
 title: "Competitor Evaluations"
 description: "Competitor evaluations help us understand how a competing product addresses the Jobs-To-Be-Done that our product also tries to address."
 ---
-
-##
-
-
-
-
-
 
 ## What are competitor evaluations?
 

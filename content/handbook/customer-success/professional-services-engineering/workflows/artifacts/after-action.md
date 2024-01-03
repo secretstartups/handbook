@@ -1,5 +1,4 @@
 ---
-aliases: /handbook/customer-success/professional-services-engineering/workflows/artifacts/after-action.html
 title: After Action Reports
 category: Artifacts
 ---

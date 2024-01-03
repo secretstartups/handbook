@@ -1,15 +1,7 @@
 ---
-
 title: "Analyzing and synthesizing user research data"
 description: "Guidelines for how to analzye survey verbatim"
 ---
-
-
-
-
-
-
-
 
 It can be tempting to complete a set of interviews or usability tests and think your research project is done. However, without a process for systematically reviewing and making sense of the data you've collected, you risk leaving valuable insights on the table. The next step is to zoom out and look at your findings through a process called **research synthesis**.
 
@@ -64,4 +56,4 @@ Once you're happy with your groupings, distill your findings into [actionable or
 
 ### Using Dovetail in research synthesis
 
-Dovetail is a powerful tool available to Gitlab Team Members which allows you to [upload research data and tag to help distill insights](/handbook/product/ux/dovetail/#the-ux-research-teams-guide-to-documenting-insights-in-dovetail). Gitlab Team Members can create their own custom tags or follow the UX Research Team's set of Gitlab Global Tags or Gitlab Section Tags. More information on the Global Tags and helpful tips on creating custom tags can be found on our [Documenting Research Insights in Dovetail](/handbook/product/ux/dovetail/#tagging-data-in-dovetail) handbook page.
+Dovetail is a powerful tool available to GitLab Team Members which allows you to [upload research data and tag to help distill insights](/handbook/product/ux/dovetail/#the-ux-research-teams-guide-to-documenting-insights-in-dovetail). GitLab Team Members can create their own custom tags or follow the UX Research Team's set of GitLab Global Tags or GitLab Section Tags. More information on the Global Tags and helpful tips on creating custom tags can be found on our [Documenting Research Insights in Dovetail](/handbook/product/ux/dovetail/#tagging-data-in-dovetail) handbook page.

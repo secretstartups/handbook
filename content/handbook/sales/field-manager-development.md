@@ -131,7 +131,7 @@ This program will leverage content from the GitLab Manager Challenge and address
 - [Field Manager Spotlight: GROW Model](https://youtu.be/uCuQjwrkNO4) featuring Ed Cepulis (Sr. Director, Channel Programs and Enablement) (11 minutes)
 - [Role Play Breakout Activity: GROW Coaching Model](https://youtu.be/Yagj9t7BDF4) (35 minutes, GitLab internal only))
 - [Manager Operating Rhythm & Closing](https://youtu.be/q2Z6mviXGjg) (5 minutes)
-    - [Manager Operating Rhythm (MOR)](https://about.gitlab.com/handbook/sales/manager-operating-rhythm/) Handbook page
+    - [Manager Operating Rhythm (MOR)](/handbook/sales/manager-operating-rhythm/) Handbook page
 
 <br>
 

@@ -81,16 +81,16 @@ Before scheduling with an E-Group member, please be sure to reach out to their p
 
 ## Scheduling for Ashley Kramer, Chief Marketing & Strategy Officer
 
-- Please coordinate with Ashley’s Sr. EBA, Jeanette McCarthy, to schedule meetings.
+- Please coordinate with Ashley’s Sr. EBA to schedule meetings.
 - Priority will be given to customer & E-Group meetings - even last minute.
 - Flexible for early/late calls to support EMEA & APAC, but please check with EBA first.
 - Prefers “appropriate length” conversations, so short meetings are okay on the calendar (e.g. if a topic only needs 10 mins, book 10 mins instead of 30, etc.).
-- For scheduling questions, please do not tag @Ashley, reach out/tag @Jeanette McCarthy.
+- For scheduling questions, please do not tag @Ashley, reach out/tag @aschrauth (INTERIM support).
 - Include meeting agendas in invites and/or briefing docs (excluding coffee chats) at least 24 hours in advance.
 
 ## Scheduling for Jörg Heilig, Interim CTO
 
-- All meeting requests should go through Sr. EBA, Marisa Carlson.
+- All meeting requests should go through Sr. EBA, Kim Hohmann.
 - Priority given to candidate interviews, CEO, E-Group, GitLab BoD, and direct reports to the CTO.
 - Limited availability due to personal commitments from 9-10am PT Mon.-Fri. due personal commitments
 - Can often make meetings during these blocks, if given advance notice, but strong preference for meeting outside of these times

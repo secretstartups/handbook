@@ -4,7 +4,7 @@ title: RFI/RFP Process
 description: >-
   Solution Architect Assisted RFI/RFP Process
 ---
-{{% include "includes/solutions-architects-navigation.md" %}}
+
 
 ## RFI/RFP Process
  
@@ -32,7 +32,7 @@ But more importantly, be sure that there is a product fit. If what is asked for 
 
 ### Process of Responding to RFx
 
-Generally, RFx's have a fixed timeline and require input from different functions within Gitlab e.g. Solution Architects, Professional Services, Legal, etc.. The DRI (Direct Responsible Individual) is the Strategic Account Executive (SAE) for the Account. A GitLab issues assist in the coordination, task assignment and tracking of the progress. The best place to create the issue is in the Account project, if one exists, or in a central project where such activities are created and tracked. Occasionally, they can be created in an arbitrary personal project space and shared with other team members is no other suitable place can be found. Build an outline in the issue. The outline should include the following things:
+Generally, RFx's have a fixed timeline and require input from different functions within GitLab e.g. Solution Architects, Professional Services, Legal, etc.. The DRI (Direct Responsible Individual) is the Strategic Account Executive (SAE) for the Account. A GitLab issues assist in the coordination, task assignment and tracking of the progress. The best place to create the issue is in the Account project, if one exists, or in a central project where such activities are created and tracked. Occasionally, they can be created in an arbitrary personal project space and shared with other team members is no other suitable place can be found. Build an outline in the issue. The outline should include the following things:
 
 1. Any customer’s instructions regarding organization
 1. A rational organization of information that will answer all of the questions and requirements
@@ -49,7 +49,7 @@ After the issue is created, create a Google document and start filling in the de
 In the event that the RFx requires:
 
 - A security questionnaire or legal review, please follow the process described on the [RFP Process page](/handbook/security/security-assurance/field-security/) in the handbook.
-- A professional services component, the [Selling Professional Services](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/selling/) handbook page will be of help.
+- A professional services component, the [Selling Professional Services](/handbook/customer-success/professional-services-engineering/selling/) handbook page will be of help.
 
 Each of these processes will likely require the creation of issues. Be sure to link these issues to the main response issue for tracking purposes.
 

@@ -29,7 +29,7 @@ The following support specialties are excluded from gratis support for prospects
 - [upgrade assistance](https://about.gitlab.com/support/scheduling-upgrade-assistance/)
 - migration assistance
 - architecture review
-- [namesquatting requests](/support/workflows/namesquatting_policy.html)
+- [namesquatting requests](/support/workflows/namesquatting_policy)
 - for [PoVs](https://about.gitlab.com/customer-success/solutions-architects/tools-and-resources/pov/), support is limited to resolving errors from a setup (and not the setup process itself)
 - All response times are reasonable effort, with an internal SLO of 24 hours.
 

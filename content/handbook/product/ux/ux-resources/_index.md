@@ -1,14 +1,7 @@
 ---
-
 title: "UX Resources"
 description: "This page includes information about UX Resources to help you do your job as a product desginer at GitLab."
 ---
-
-
-
-
-
-
 
 This page includes information about UX Resources to help you do your job. It is not intended to be an all-inclusive list or to limit the methodologies or approaches you might take in your daily work. If you believe that something useful is missing, please submit an MR!
 
@@ -105,11 +98,6 @@ Once each quarter, we run a [System Usability Scale (SUS)](/handbook/product/ux/
 
 - [SUS results by quarter](/handbook/product/ux/performance-indicators/#perception-of-system-usability)
 
-### GitLab First Look
-
-At GitLab, we want everyone to be able to contribute. To that end we created First Look where we accept applicants to participate in various studies and testing.
-
-- [GitLab First Look](/handbook/product/ux/ux-research-coordination/first-look-ux-research-panel)
 
 ## UX performance indicators
 

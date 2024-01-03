@@ -53,7 +53,7 @@ These templates should be used during the [onboarding process](/handbook/people-
    - ARs for Slack groups for internal GitLab team members
    - ARs using a role based template
    - ARs for access removal
-   - ARs resulting from a [User Access Review](/handbook/security/security-assurance/security-compliance/access-reviews.html) in which users are marked for an access change by the technical/business owner performing the review
+   - ARs resulting from a [User Access Review](/handbook/security/security-assurance/security-compliance/access-reviews) in which users are marked for an access change by the technical/business owner performing the review
 
   Please note that ARs for access to internal systems for "external to GitLab individuals" require managerial approval. This includes access to Google Workspace security groups.
 
@@ -78,7 +78,7 @@ These templates should be used during the [onboarding process](/handbook/people-
 
 - All requests for new service accounts require a New Service Account Request:
 
-  - [Gitlab.com Service Account Request](/handbook/security/access-management-policy.html#requesting-gitlabcom-service-account-for-automation)
+  - [GitLab.com Service Account Request](/handbook/security/access-management-policy.html#requesting-gitlabcom-service-account-for-automation)
   - [GCP Service Account Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GCP_Google_Service_Account_Request)
   - [Other System Service Account Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=New_Service_Account_Request)
 
@@ -154,7 +154,7 @@ GitLab operates its access management under the [principle of least privilege](h
 
 - All attempts will be made for individual access removal requests to be processed within the SLA requested. If no SLA is noted, access will be deprovisioned within 5 business days of the submission of the issue.
 
-- If access removal needs to occur immediately, please follow the [panic email procedures]({{< ref "_index.md#panic-email" >}}), which will alert the on-call Security team member(s).
+- If access removal needs to occur immediately, please follow the [panic email procedures]({{< ref "#reporting-an-incident" >}}), which will alert the on-call Security team member(s).
 
 ### Job Transfers
 

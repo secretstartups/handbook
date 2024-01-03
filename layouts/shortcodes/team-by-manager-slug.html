@@ -1,0 +1,48 @@
+{{- /*  Initialize. */}}
+{{- $members := slice }}
+{{- $manager := dict }}
+{{- $managerSlug := "" }}
+
+{{- /* Get params. */}}
+{{- with (.Get 0) }}
+  {{- $managerSlug = . }}
+{{- else }}
+  {{- with (.Get "manager") }}
+    {{- $managerSlug = . }}
+  {{- else }}
+    {{- errorf "The %q shortcode requires a single positional argument for manger slug."}}
+  {{- end }}
+{{- end }}
+
+{{- $team := partials.IncludeCached "data/team" page }}
+{{- $manager = index (where $team "slug" "eq" $managerSlug) 0 }}
+{{- $members = where $team "reports_to" "eq" $managerSlug }}
+
+{{- with (.Get "team") }}
+  {{ $members = where $members "role" "like" . }}
+{{- end }}
+
+{{- with (.Get "department") }}
+  {{ $members = where $members "departments" "intersect" (slice .) }}
+{{- end }}
+
+<table>
+    <thead>
+        <th>Name</th>
+        <th>Role</th>
+    </thead>
+    <tbody>
+        {{- with $manager }}
+        <tr>
+          <td>{{ partial "member" . }}</td>
+          <td>{{ .role | safe.HTML }}</td>
+        </tr>
+        {{- end }}
+        {{- range $members }}
+          <tr>
+              <td>{{ partial "member" . }}</td>
+              <td>{{ .role | safe.HTML }}</td>
+          </tr>
+        {{- end }}
+    </tbody>
+</table>

@@ -21,10 +21,18 @@ The timeline for each quarter is as follows. A detailed calendar with DRIs and p
 ### One week before quarter end:
 
 1. CEO, CFO, CRO, CMO, CLO, Investor Relations, Corp FP&A discuss the top business & industry themes from the quarter
-1. Based on messaging themes, IR to draft v1 of earnings call script and Q&A. Preliminary reviews are done with the CFO and CMO, followed by final reviews with the CEO to finalize the script before earnings call
-1. Set aside blocks of time on the CEO and CFO calendars for earnings callbacks
+1. Based on messaging themes, IR to draft an outline of the script to be reviewed by CMO and CFO
 
-- CEO, CFO, and IR will participate in the sell side research analyst callbacks, starting shortly after the regular earnings webcast concludes.  These will be 20 minutes in duration
+### First and second week after quarter end:
+
+1. v1 of earnings call script and Q&A are drafted.
+1. Preliminary reviews are done with the CFO and CMO, followed by final reviews with the CEO to finalize the script before earnings call
+    1. the script should be drafted in short concise sentences.
+    1. The Google Doc should be in pageless format for ease of readability.
+
+1. Blocks of time are set aside on the CEO and CFO calendars for earnings callbacks
+
+- CEO, CFO, and IR will participate in the sell side research analyst callbacks, starting shortly after the regular earnings webcast concludes.  These will be 15 minutes in duration with a 5 minute break
 - CEO, CFO, and IR will also participate in buy side callbacks the following day with the largest institutional shareholders.  These will be 25 minutes in duration
 - CFO will schedule blocks of time over the next several weeks to allow for at least 80 additional buy side callbacks.  After the 15th day of the third month of the quarter, GitLab will not be conducting individual meetings with investors until the next public earnings release.
 - Each callback will have an internal document that captures the questions and the prior dialogue with the investor

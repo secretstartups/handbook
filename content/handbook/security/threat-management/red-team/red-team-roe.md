@@ -61,7 +61,7 @@ The sections below outline general rules all Red Team operations.
 
 ### Team Member Privacy
 
-As security professionals, we aim to be ethical in every engagement while maintaining the spirit of mimicking real-world attacks. We respect the privacy of the employees at GitLab and follow the guidelines mentioned in the [Employee Privacy Policy](https://about.gitlab.com/handbook/legal/privacy/employee-privacy-policy/) during our engagements.
+As security professionals, we aim to be ethical in every engagement while maintaining the spirit of mimicking real-world attacks. We respect the privacy of the employees at GitLab and follow the guidelines mentioned in the [Employee Privacy Policy](/handbook/legal/privacy/employee-privacy-policy/) during our engagements.
 
 ### Critical Vulnerabilities and Exploits
 
@@ -82,8 +82,8 @@ If we ever suspect an impact to production, we will do the following:
 1. Suspend any activities related to the impact
 1. Immediately inform everyone defined as a "trusted participant" for the operation
 1. If a security incident is required, [engage SIRT]({{< ref "sec-incident-response#engaging-sirt" >}})
-1. If an infrastructure incident is required, [engage the on-call SRE](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#reporting-an-incident)
-1. Perform a proper [root cause analysis](https://about.gitlab.com/handbook/engineering/root-cause-analysis/) following resolution of the incident
+1. If an infrastructure incident is required, [engage the on-call SRE](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident)
+1. Perform a proper [root cause analysis](/handbook/engineering/root-cause-analysis/) following resolution of the incident
 
 ## Common Techniques
 

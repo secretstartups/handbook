@@ -26,7 +26,7 @@ Introductory text, logos, or whatever the group wants here
 - If you are sending a first response without taking assignment, [check our guidelines](/handbook/support/workflows/working-on-tickets/#helping-with-a-first-response-without-taking-assignment), and try to help find an assignee for it.
   - Consider keeping yourself CCed on ticket, at least till an assignee is found.
   - If nobody volunteered or has the knowledge to take it, extend the audience to the wider support team by cross-posting your request on either #support_self-managed, or #support_gilab-com.
-  - Consider tagging specific team members referring to the [Skills by person](https://gitlab-com.gitlab.io/support/team/skills-by-person.html) page, to increase your chances of finding the best DRI for the case.
+  - Consider tagging specific team members referring to the [Skills by person](https://gitlab-com.gitlab.io/support/team/skills-by-person) page, to increase your chances of finding the best DRI for the case.
   - As a last resort, ask the manager on-call to help find an assignee.
 
 ### How to handle High Priority tickets

@@ -8,15 +8,15 @@ description: "Provides a general overview of how the GitLab.com (SaaS) context i
 
 This page is meant to provide a general overview of how GitLab SaaS (GitLab.com) is different from self-managed instances of GitLab.
 
-Please note that context for the following sections on this page should be covered by the various [workflows](index.html) that Support utilizes when working with GitLab SaaS along with the [GitLab.com Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/main/.gitlab/issue_templates/GitLab-com-Basics.md) training module.
+Please note that context for the following sections on this page should be covered by the various [workflows](/handbook/support/workflows) that Support utilizes when working with GitLab SaaS along with the [GitLab.com Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/main/.gitlab/issue_templates/GitLab-com-Basics.md) training module.
 
 ## GitLab.com Architecture
 
-GitLab.com is the largest known GitLab instance. It is monitored and maintained 24/7 by our [infrastructure team](https://about.gitlab.com/handbook/engineering/infrastructure/).
+GitLab.com is the largest known GitLab instance. It is monitored and maintained 24/7 by our [infrastructure team](/handbook/engineering/infrastructure/).
 
-The Support team should have a general understanding of [its architecture](https://about.gitlab.com/handbook/engineering/infrastructure/production/architecture/) along with how to access logs ([Kibana]({{< ref "kibana" >}}) and error reports ([Sentry]({{< ref "sentry" >}})) to troubleshoot reported issues.
+The Support team should have a general understanding of [its architecture](/handbook/engineering/infrastructure/production/architecture/) along with how to access logs ([Kibana]({{< ref "kibana" >}}) and error reports ([Sentry]({{< ref "sentry" >}})) to troubleshoot reported issues.
 
-As well, Support team members should be aware that Gitlab.com has certain customizations. These customization are applied through the [chef-repo](https://gitlab.com/gitlab-com/gl-infra/chef-repo). Details of Gitlab.com customizatons can be found in [GitLab.com custom limits](/handbook/support/workflows/gitlab-com_customizations.html)
+As well, Support team members should be aware that GitLab.com has certain customizations. These customization are applied through the [chef-repo](https://gitlab.com/gitlab-com/gl-infra/chef-repo). Details of GitLab.com customizatons can be found in [GitLab.com custom limits](/handbook/support/workflows/gitlab-com_customizations)
 
 Numerous Support team members including all SaaS focused ones also assist with incidents as [CMOC]({{< ref "cmoc_workflows" >}}).
 

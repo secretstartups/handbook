@@ -1,14 +1,7 @@
 ---
-
 title: Product Designer Workflow
 description: "Here are some guidelines to help Product Designers manage their work at GitLab"
 ---
-
-##
-
-
-
-
 
 ## Planning and managing capacity
 
@@ -33,6 +26,7 @@ Product Designers are responsible for work assignments in their stage group and 
 Designers are [managers of one](/handbook/values/#managers-of-one) and responsible for managing their own capacity. Below is a list of some types of work that designers can work on throughout a milestone. We've divided them into three categories (must do, should do, and nice to do) to help with appropriate prioritization. Use these as a guide and collaborate closely with your Product Design Manager. For example, if you and your manager agree with investing more time on Pajamas issues for a milestone or two, then you may need to reduce the number of current milestone issues you commit to during that timeframe. Your manager can help you create the space within your capacity to do so.
 
 Must do:
+
 - Merge request (MR) reviews, including community contributions. See [MR Reviews guidelines](/handbook/product/ux/product-designer/mr-reviews/).
 - Other designers' feedback requests. These can be in issues, MRs, Figma, the [`#ux-coworking`](https://gitlab.slack.com/app_redirect?channel=ux_coworking) Slack channel, or elsewhere. See related sections [Design Reviews](#design-reviews) and [Investigate possible dependencies](#investigate-possible-dependencies).
 - Last minute adjustments, if any, to issues in the current release milestone and labeled `Deliverable`.
@@ -41,6 +35,7 @@ Must do:
 - Share your work with other team members at GitLab through a UX showcase presentation, a Slack post or by adding it as a discussion topic in the weekly UX meeting.
 
 Should do:
+
 - [UX OKRs](/handbook/company/okrs/).
 - Tasks that improve understanding of users and their journeys or workflows (e.g. [UX Scorecards](/handbook/product/ux/ux-scorecards/))
 - Issues in the current release milestone and labeled `Stretch`.
@@ -48,6 +43,7 @@ Should do:
 - Fill in ToDo blocks in Pajamas where we haven't fully speced out components or examples. You can easily search for these [here](https://gitlab.com/search?group_id=5387503&project_id=4456656&scope=blobs&search=todo).
 
 Nice to do:
+
 - [Beautifying our UI](/handbook/product/ux/product-design/#beautifying-our-ui).
 - Issues labeled [`Seeking community contributions`](https://gitlab.com/groups/gitlab-org/-/issues?state=opened&label_name%5B%5D=Seeking+community+contributions&label_name%5B%5D=UX) or other low-hanging usability problems you can fix with an MR.
 - Issues in future milestones. For example, in the next release milestone, [Next 2-3 months](https://gitlab.com/groups/gitlab-org/-/issues?state=opened&milestone_title=Next+2-3+months&label_name%5B%5D=UX), [Next 3-6 months](https://gitlab.com/groups/gitlab-org/-/issues?state=opened&milestone_title=Next+3-6+months&label_name%5B%5D=UX), or [Backlog](https://gitlab.com/groups/gitlab-org/-/issues?state=opened&milestone_title=Backlog&label_name%5B%5D=UX).
@@ -59,7 +55,7 @@ See also [How we use labels](/handbook/product/ux/ux-department-workflow/#how-we
 
 #### Engagement with Single Engineer Groups (SEGs)
 
-The [Incubation Engineering Department](https://about.gitlab.com/handbook/engineering/development/incubation/) utilizes a Single Engineer Group (SEG) to work on "new market" efforts with a directive to move fast, ship, get feedback, and iterate. Occasionally, SEG efforts touch high-usage areas of our product (such as the Issue and MR views), and these engineers will request temporary design support (through the Product Design Manager) to drive the experience direction.
+The [Incubation Engineering Department](/handbook/engineering/development/incubation/) utilizes a Single Engineer Group (SEG) to work on "new market" efforts with a directive to move fast, ship, get feedback, and iterate. Occasionally, SEG efforts touch high-usage areas of our product (such as the Issue and MR views), and these engineers will request temporary design support (through the Product Design Manager) to drive the experience direction.
 
 Product Designers and their managers should feel comfortable performing in-depth design critiques in issues and as part of MR reviews like they do for their Product Design peers. The goal is for UX to closely collaborate with Incubation Engineering to ensure a great experience for our users.
 
@@ -81,12 +77,12 @@ In some cases, the SEG focuses on new areas of the product that doesn't have a d
 
 Issue weights are optional, but weighting issues can be useful for planning. They enable Product Designers to understand their capacity, evaluate impact of time off, facilitate trade-off conversations with Product Managers, and help the Product Design Manager identify teams that need more UX support.
 
-When weighting issues, we aim for [velocity over predictibility](https://about.gitlab.com/handbook/engineering/development/principles/#velocity-over-predictability). This means that we don't need to be accurate at first, we just need to get better. This paragraph has a [useful explanation of estimation](https://about.gitlab.com/handbook/engineering/development/analytics/analytics-instrumentation/#estimation) at GitLab.
+When weighting issues, we aim for [velocity over predictibility](/handbook/engineering/development/principles/#velocity-over-predictability). This means that we don't need to be accurate at first, we just need to get better. This paragraph has a [useful explanation of estimation](/handbook/engineering/development/analytics/analytics-instrumentation/#estimation) at GitLab.
 
 #### How to Use UX Issue Weighting
 
 1. Review upcoming issues and think about how you would break down the work.
-2. Use the chart below to assign an issue weight. If you don't know enough about the issue to add a weight, you can work with the Product Manager to get more clarity.
+1. Use the chart below to assign an issue weight. If you don't know enough about the issue to add a weight, you can work with the Product Manager to get more clarity.
 1. Record your issue weight. There are a few ways to do this, so check with your team to see what they prefer:
     - Use Google docs to list issues and corresponding weights
     - Create a linked issue for the UX work and add a weight to the issue. This issue will be closed after UX work is finished, so that the issue weight won't count toward the engineering team's issue weights.
@@ -126,7 +122,7 @@ This section provides an overview of how we work with issues. But it's very impo
 
 ### Triaging UX issues
 
-Every Product Designer at GitLab is empowered to triage issues with "~UX", ["~UX debt"](https://about.gitlab.com/handbook/engineering/workflow/#ux-debt) and ["~UI polish"](https://about.gitlab.com/handbook/engineering/workflow/#ui-polish) labels, or should be included for feedback by the responsible PM and EM instead. Use [Priority labels](https://about.gitlab.com/handbook/engineering/quality/issue-triage/index.html#priority) to propose the time in which the issue should be solved and [Severity labels](https://about.gitlab.com/handbook/engineering/quality/issue-triage/index.html#severity) to communicate its impact on users. Always work to align and communicate with your PM and EMs on the labels assigned.
+Every Product Designer at GitLab is empowered to triage issues with "~UX", ["~UX debt"](/handbook/engineering/workflow/#ux-debt) and ["~UI polish"](/handbook/engineering/workflow/#ui-polish) labels, or should be included for feedback by the responsible PM and EM instead. Use [Priority labels](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/index.html#priority) to propose the time in which the issue should be solved and [Severity labels](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/index.html#severity) to communicate its impact on users. Always work to align and communicate with your PM and EMs on the labels assigned.
 
 ### Scheduling issues in a milestone
 
@@ -161,7 +157,7 @@ Other key benefits of making `User Experience` an official part of group's miles
 Part of the role of product designers is to lead and facilitate idea generation within our teams. We are all very busy working with PMs to drive forward our product roadmaps and solve known UX problems, but remember there are also undiscovered problems out there that are definitely worth solving. Here are a few activities and resources to inspire you!
 
 - Run a sync (such as a [ThinkBig!](/handbook/product/ux/thinkbig/) session), async, or combination workshop to generate ideas. Define a scope and invite  participants from product, engineering, ux research, and other areas for best results.
-- Reach out to [sales](https://about.gitlab.com/handbook/sales/), [customer success](https://about.gitlab.com/handbook/customer-success/) or [marketing](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/design/) counterparts for a new perspective. You can also invite these counterparts as optional attendees to your regular meetings.
+- Reach out to [sales](/handbook/sales/), [customer success](/handbook/customer-success/) or [marketing](/handbook/marketing/brand-and-product-marketing/design/) counterparts for a new perspective. You can also invite these counterparts as optional attendees to your regular meetings.
 - Prioritize a round of [problem validation research](/handbook/product/ux/ux-research/problem-validation-and-methods/) together with Product Managers and UX research. Talk to customers about their experiences building software in a very open-ended way, see what keeps them up at night, what slows them down, and what impedes their productivity.
 - Discover unknown pain points:
     - [Dovetail](/handbook/product/ux/dovetail/) is used to analyze data, collaborate on insights, and as our current research repository.
@@ -194,7 +190,7 @@ The visual design of GitLab has come a long way from naive simplicity to sophist
 1. **Discovery** - Ability to interact and explore that leads to learning and proficiency while being mistake adverse
 1. **Capability** - Features and function that allow a user to complete a task and process automation
 
-<img src="/handbook/product/ux/product-designer/sophisticated-simplicity-venn.svg" alt="Three-part venn diagram with the terms structure, discovery, and capability overlapping to create sophisticated simplicity in the center.">
+[Three-part venn diagram with the terms structure, discovery, and capability overlapping to create sophisticated simplicity in the center.](sophisticated-simplicity-venn.svg)
 
 An imbalance in any of these tenets can lead to a less than ideal experience.
 
@@ -209,7 +205,7 @@ Here's a sample set of questions you can ask yourself when designing:
 - Is the content hierarchy and flow clear?
 - Are like items grouped and are groups clearly defined?
 - Does this content or functionality need to be visible all the time and for everyone?
-- Does this content or functionality need to be present in this context? Is it helpful _and_ necessary?
+- Does this content or functionality need to be present in this context? Is it helpful *and* necessary?
 - Does discovery allow a user to avoid mistakes or recover from them easily?
 - Is the structure in support of discovery and use of advanced capabilities?
 - Is this feature and/or capability even needed or used, or what would happen if it was removed?
@@ -239,19 +235,13 @@ When applying iterative design, you should consider the longer-term strategy or 
 
 #### GitLab Design Talks: Iteration
 
-<!-- blank line -->
-<iframe height="315" width="560" src="https://www.youtube.com/embed/0lhjzU-QZ2w?start=286&amp;end=359"></iframe>Think big, ship small, move fast with iteration
+{{< youtube "0lhjzU-QZ2w?start=286&amp;end=359" >}}
 
-<blockquote>
-"Our relationship with uncertainty: When we conduct research and design we have some level of certainty about how effective it’s going to be, but it isn’t until we ship it and get it in the hands of many users that we truly understand how effective the thing is that we designed."
-</blockquote>
+> "Our relationship with uncertainty: When we conduct research and design we have some level of certainty about how effective it’s going to be, but it isn’t until we ship it and get it in the hands of many users that we truly understand how effective the thing is that we designed."
 
-<!-- blank line -->
-<iframe height="315" width="560" src="https://www.youtube.com/embed/VrXQiik3Q9U?start=244&amp;end=334"></iframe>A new designer's take on iteration
+{{< youtube "VrXQiik3Q9U?start=244&amp;end=334" >}}
 
-<blockquote>
-"Breaking things down creates psychological safety for me as a designer."
-</blockquote>
+> "Breaking things down creates psychological safety for me as a designer."
 
 ### Design Reviews
 
@@ -272,26 +262,26 @@ In practice, this is what it means for designers:
 1. Decide what the best format is to give others a glimpse into the work you need feedback on: It could be anything from an issue, a short text blurb, screenshots, a Figma file, or a short, up-to 5-minute walkthrough recording of the problem you are trying to solve.
 1. Remember to share the customer problem, known constraints, and what kind of feedback you need. Be specific about what you want feedback on and also what you do not want feedback on, and where you want the feedback to be provided. Read more about [employing multimodal communication](/handbook/communication/#multimodal-communication).
 1. Post your item with a short description to the [`#ux-coworking`](https://gitlab.slack.com/app_redirect?channel=ux_coworking) Slack channel and any other channel where you'd like to get feedback (e.g. your Groups channel, etc.). Be sure to provide a link to the item requiring review as well as a link to the location where feedback should be left. Capturing feedback in issues will ensure you can refer back to it later, whereas Slack messages will eventually disappear.
-1. If you're recording a video, it's recommended (but not required) to default to using Zoom as your recording tool. Please make sure to upload the video to our [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) YouTube channel, because it serves as the single-source-of-truth for videos and makes them easily searchable and accessible to the wider GitLab community. Set the visibility to "Public" (unless your video contains confidential information), and add it to the "UX" playlist (and any other relevant playlists). For more information, see our [YouTube uses and access](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/) page.
+1. If you're recording a video, it's recommended (but not required) to default to using Zoom as your recording tool. Please make sure to upload the video to our [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) YouTube channel, because it serves as the single-source-of-truth for videos and makes them easily searchable and accessible to the wider GitLab community. Set the visibility to "Public" (unless your video contains confidential information), and add it to the "UX" playlist (and any other relevant playlists). For more information, see our [YouTube uses and access](/handbook/marketing/marketing-operations/youtube/) page.
 1. Comment on your feature issue with a link to the video and links to all references made ([example](https://gitlab.com/gitlab-org/gitlab/-/issues/217355#note_435285696)), such as related issues, epics, or Figma files. Also add those reference links to the video's description, so that everyone can follow and participate ([example](https://www.loom.com/share/f99878181fe7429d8c0a9d94bfd8b943)).
 1. You can also open an issue dedicated to capturing feedback ([example](https://gitlab.com/gitlab-org/gitlab/-/issues/241511)), and attach all references and information needed for review within the issue description. This will allow the threads to focus solely on providing and discussing feedback. Attach this issue as related to the main feature issue.
 
 **Examples**
+
 - [Add a new list iteration - feedback request](https://gitlab.com/gitlab-org/gitlab/-/issues/284610)
 - [Swimlane boards loading states - Skeleton loaders feedback request](https://gitlab.com/gitlab-org/gitlab/-/issues/277240)
 - [Right issuable sidebar patterns feedback request](https://gitlab.com/gitlab-org/gitlab/-/issues/270117)
 - [Geo: Maintenance mode design](https://gitlab.com/gitlab-org/gitlab/-/issues/201757)
 
-
 #### Who to include in design reviews
 
 Deciding who to include in a design review, whether an informal share or a request for feedback around specific questions, can be daunting when you are new to GitLab or a team. Here are a few guides:
 
-* Your Product Manager, Engineering Manager, Frontend Engineers and Product Design Manager should always have opportunities to review and provide feedback on all of your work. The easiest way to do this is to include them on the issue so it's more of a collaboration through the design process than a formal review request.
-* The peer designers of your Section are excellent reviewers at any time in your process.
-* If your work impacts other Stages, include those counterparts.
-* If your work touches navigation, global headers/footers, a change to a Pajamas pattern, or something else with broad impact, always ask for a UX Dept review in the `#ux_coworking` Slack channel or mention `@gitlab-com/gitlab-ux/designers` in GitLab. For navigation changes, also follow [this guidance from the Foundations team](/handbook/product/ux/navigation/).
-* Sometimes the list of reviewers includes people from other Departments, such as Customer Success, Sales or Marketing. For example, if you are using brand assets in a way that different from brand guidelines, you should provide an opportunity for that team to give feedback. If you aren't sure who to include in your design review process, ask your Product Design Manager.
+- Your Product Manager, Engineering Manager, Frontend Engineers and Product Design Manager should always have opportunities to review and provide feedback on all of your work. The easiest way to do this is to include them on the issue so it's more of a collaboration through the design process than a formal review request.
+- The peer designers of your Section are excellent reviewers at any time in your process.
+- If your work impacts other Stages, include those counterparts.
+- If your work touches navigation, global headers/footers, a change to a Pajamas pattern, or something else with broad impact, always ask for a UX Dept review in the `#ux_coworking` Slack channel or mention `@gitlab-com/gitlab-ux/designers` in GitLab. For navigation changes, also follow [this guidance from the Foundations team](/handbook/product/ux/navigation/).
+- Sometimes the list of reviewers includes people from other Departments, such as Customer Success, Sales or Marketing. For example, if you are using brand assets in a way that different from brand guidelines, you should provide an opportunity for that team to give feedback. If you aren't sure who to include in your design review process, ask your Product Design Manager.
 
 ### Partnering with Technical Writers
 
@@ -302,7 +292,7 @@ UI text includes button or menu labels, error messages in the UI or in log files
 - Add the `documentation` label. Documentation changes resulting from UI text changes follow the [Documentation for a product change](/handbook/product/ux/technical-writing/workflow/#documentation-for-a-product-change) workflow.
 - Message the [Technical Writer for the group](/handbook/product/ux/technical-writing/#designated-technical-writers) in the design issue to request a review, including any specific files or lines they should review, and how to preview or understand the location/context of the text from the user's perspective. You can also message the writer in the MR to perform a final check of the agreed text.
 - Finalizing the UI text should be a collaboration between the Product Designer and the Technical Writer to produce the best possible usable and accurate text-based solution.
-- Often team members from Product, Marketing, Legal or other departments will have their own requirements for UI copy. To reduce back-and-forth revisions and design-by-committee, the Product Designer is recommended to ask these team members to provide the goals for what the text needs to communicate, rather than ideas for the text itself. 
+- Often team members from Product, Marketing, Legal or other departments will have their own requirements for UI copy. To reduce back-and-forth revisions and design-by-committee, the Product Designer is recommended to ask these team members to provide the goals for what the text needs to communicate, rather than ideas for the text itself.
 
 #### Collaborating on in-product reference information
 
@@ -324,7 +314,6 @@ UX Researchers work closely with Product Managers and Product Designers to ensur
 - Ensure you follow the [process to request research](/handbook/product/ux/ux-research/how-uxr-team-operates/#how-to-request-research) (even if you are conducting the research yourself)
 - Ensure you follow the process to document research findings
 
-
 ### Refine MVC
 
 - UX issues have a tendency to expand in scope. Work with your PM and developers to revisit which aspects of the design are “must-haves” versus those that can be pushed until later. Document non-MVC concepts and research in new issues, marking the new issues as related to the original issue. If you’re ever unsure how to split apart large issues, work with your Product Design Manager.
@@ -337,7 +326,7 @@ For iteration inspiration watch our Product Designers discuss [iteration at GitL
 
 - After you've validated your solution with users, propose just one solution. Proposing multiple alternative solutions for others to pick undermines your position as a UX expert and leads to design by committee. If you have a good reason to propose multiple alternative solutions, make sure to explain why.
 - When sharing asynchronously in an issue, make sure your audience has the context necessary to understand your proposal and how they can help. Is it clear who will use the solution and what it will enable them to accomplish? Do you need feedback or assistance from stakeholders? If so, on what specifically? Or, are you looking for approval? To make reviewing easier, have you highlighted things that changed since the last review?
-    - Consider using the [collapsed content sections](https://about.gitlab.com/handbook/markdown-guide/#collapse) to include information that would support points being made without distracting the reader from the main point. This is demonstrated in [this issue comment around using analytics about file sizes](https://about.gitlab.com/handbook/markdown-guide/#collapse).
+    - Consider using the [collapsed content sections](/handbook/markdown-guide/#collapse) to include information that would support points being made without distracting the reader from the main point. This is demonstrated in [this issue comment around using analytics about file sizes](/handbook/markdown-guide/#collapse).
 - `@mention` your Product Design Manager on the issue for feedback. Product Design Managers have a broader view of work that's happening across the product, enabling them to provide feedback that is helpful for maintaining strategic alignment, a consistent level of quality, and functional consistency.
 - Frame design discussions around the customer and the problem being solved, not the UI or functionality itself. When presenting, start with the current state and how it fails to meet user needs, and then walk through the proposed solution from the user’s point of view. As the discussion unfolds, continually tie everything back to the user’s experience and needs.
 - Anticipate questions that others might have, and try to answer them in your proposal comments. You don’t have to explain everything, but try to communicate a bit of your rationale every time you propose something. This is particularly important when proposing changes or challenging the status quo, because it reduces the feedback loop and time spent on unnecessary discussions. It also builds the UX Department’s credibility, because we deal with a lot of seemingly subjective issues.
@@ -371,7 +360,7 @@ For iteration inspiration watch our Product Designers discuss [iteration at GitL
 | Detailed redlines or specs | √ |  |
 
 - If the solution needs to be broken out into smaller issues for implementation, apply the `workflow::planning breakdown` label and stay involved by walking PM and Engineering through the proposed solution and participating in the conversation to break down the issue.
-- If the solution needs to be scheduled by PM and/or EM, apply the `workflow::scheduling` label and mention the [responsible product manager](/handbook/product/categories/#devops-stages) to [schedule it](https://about.gitlab.com/handbook/engineering/workflow/#scheduling-issues). It is also the Product Designer's responsibility to communicate with the assigned engineer to ensure they understand the solution.
+- If the solution needs to be scheduled by PM and/or EM, apply the `workflow::scheduling` label and mention the [responsible product manager](/handbook/product/categories/#devops-stages) to [schedule it](/handbook/engineering/workflow/#scheduling-issues). It is also the Product Designer's responsibility to communicate with the assigned engineer to ensure they understand the solution.
 - If the issue is meant for implementation in the current milestone, review the solution with the assigned engineer(s) and/or engineering manager. If they are comfortable with the solution, you can apply the `workflow::ready for development` label.
 - There are times that a Product Manager might request that an issue is moved to the Build phase before the Product Designer feels that the experience meets UX Department standards. In that case, the Product Designer should create follow-on issues and/or apply the `UX debt` label to indicate that the product doesn’t meet UX requirements and will require immediate iteration.
 
@@ -381,8 +370,7 @@ Socializing design work provides Product Designers with opportunities to mentor,
 
 Product Designers are encouraged to socialize their work internally through Slack, Unfiltered, and [UX showcases](/handbook/product/ux/ux-showcase/) to open new pathways to collaboration and other teams with similar objectives and overlapping JTBDs to address opportunities.
 
-Other ways to socialize design decisions is by writing design focused [blog posts](https://about.gitlab.com/handbook/marketing/blog/) and [speaking at events/conferences](https://about.gitlab.com/handbook/marketing/corporate-communications/speaking-resources/). This type of engagement empowers designers outside GitLab to draw inspiration from our work. The additional visibility can also positively impact our hiring pipeline by providing future applicants a glimpse of what working in the UX Department at GitLab looks like. Sharing brings in more transparency into the design-decision making process and benefits community members by [reducing threshold to contributions](/handbook/values/#transparency). 
-
+Other ways to socialize design decisions is by writing design focused [blog posts](/handbook/marketing/blog/) and [speaking at events/conferences](/handbook/marketing/corporate-communications/speaking-resources/). This type of engagement empowers designers outside GitLab to draw inspiration from our work. The additional visibility can also positively impact our hiring pipeline by providing future applicants a glimpse of what working in the UX Department at GitLab looks like. Sharing brings in more transparency into the design-decision making process and benefits community members by [reducing threshold to contributions](/handbook/values/#transparency).
 
 ### Follow through
 
@@ -458,7 +446,7 @@ Each milestone we focus on a specific area of the product (previous milestone th
 
 ### Useful links & tips
 
-- [Open UX Paper Cuts MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?scope=all&state=opened&label_name%5B%5D=UX%20Paper%20Cuts) 
+- [Open UX Paper Cuts MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?scope=all&state=opened&label_name%5B%5D=UX%20Paper%20Cuts)
 - All available [utility classes](https://unpkg.com/browse/@gitlab/ui@64.10.1/src/scss/utilities.scss)
 - You can speed up your workflow a bit by creating [comment templates](https://docs.gitlab.com/ee/user/profile/comment_templates.html) for commonly used actions, like assigning a reviewer or approving an MR  (for example, you could create an "Approve" comment template including the `/approve`, `/remove_reviewer`, and `/unsubscribe` quick actions)
 
@@ -466,6 +454,21 @@ Each milestone we focus on a specific area of the product (previous milestone th
 
 - Try pinging the developers on your MR suggested by reviewer roulette
 - People are super helpful in Slack channels `#g_manage_foundations` and `#gitlab-ui`
+
+### Suggesting Paper Cuts to the team
+
+The Paper Cuts team welcomes suggestions as an input to their planning.
+
+When there is a problem you think may be a good fit for the Paper Cuts team:
+
+- If an issue already exists:
+    1. Add the `~"UX Paper Cuts"` label and a group label appropriate to the functionality affected.
+    1. Leave a brief comment on the issue explaining why it may be a good fit for Paper Cuts work.
+- If an issue does not exist:
+    1. Mention the problem in the [Paper cuts possibilities & requests](https://gitlab.com/gitlab-org/gitlab/-/issues/417911) issue for discussion.
+
+UX Paper Cuts team members will triage existing issues and ideas mentioned in the possibilities and requests discussion and incorporate actionable changes as they plan their work.
+Issues that are not good candidates for Paper Cuts work will have the `~"UX Paper Cuts"` label removed and a Paper Cuts team member will leave a brief comment on why the issue is not a good fit.
 
 ## Approach to communication
 
@@ -479,9 +482,10 @@ As design can be subjective, discussion can heat up. Sometimes team members won'
 
 Our primary design tool is [Figma](https://www.figma.com/). As a product designer or product design manager in the UX department, you will have a Professional Figma license and access to the GitLab team in Figma. You don’t need to do anything on your end, other than accept the invite sent to your GitLab email account during onboarding.
 
-Anyone else in GitLab can access your files when you either share the file URL or invite them directly via email, but we ask that you only give them “can view” permissions. Anyone with “can edit” permissions is considered a paid seat and must have approval. A user with “can view“ permission will still be able to comment on and inspect design files. 
+Anyone else in GitLab can access your files when you either share the file URL or invite them directly via email, but we ask that you only give them “can view” permissions. Anyone with “can edit” permissions is considered a paid seat and must have approval. A user with “can view“ permission will still be able to comment on and inspect design files.
 
 If you want to invite team members to collaborate on your FigJam boards, you can do this by starting an [open session](https://help.figma.com/hc/en-us/articles/4410786053911-Invite-visitors-to-an-open-session). This feature allows for team members with or without a FigJam license to have edit access as long as the board has been enabled for an open session and the link for the board is shared with them. Open sessions will only run for **24 hours** at a time. If you want team members to be able to edit your files across multiple days, you will need to restart the open session each day.
+If there are concerns about keeping information on your Figjam board SAFE, you can add [password protection](https://help.figma.com/hc/en-us/articles/5726720100247-Add-password-protection-to-files). That way only those with the password can edit the board when the open session is enabled. 
 
 GitLab has a public Figma profile where anyone can duplicate or remix files we have published. You can view our profile under the Community tab of the GitLab team section, or navigate to https://www.figma.com/@GitLab.
 

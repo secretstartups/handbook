@@ -1,13 +1,6 @@
 ---
-
 title: "Using RITE to test navigation"
 ---
-
-
-
-
-
-
 
 Rapid Iterative Testing and Evaluation (RITE) is a [usability testing method](/handbook/product/ux/ux-research/rite/) in which you evaluate a prototype multiple times in a rapid and iterative manner. The goal is not to determine statistical validity, but to observe behaviors, learn insights, and iterate rapidly. This is different from traditional usability testing, because you iterate during testing rather than waiting until the end to make changes. This method is intended to identify and fix as many usability issues as possible while verifying the effectiveness of changes made within testing. This will result in a navigation prototype that we can be highly confident about (in the context of usability), which helps to remove uncertainty around whether a proposed solution will be usable.
 
@@ -18,6 +11,7 @@ You have a navigation design concept that you want to move forward with, and you
 **Goal:** Learn if users can navigate to a task with the new navigation design, assess basic usability, identify aspects works/don't work with the design, and obtain additional insight such as initial impressions and other qualitative feedback.
 
 **The types of research questions this method can answer:**
+
 - *Do users know where to go to complete a task with your navigation design? Why or why not?*
 - *Can users complete tasks with your navigation design? Why or why not?*
 - *Can users discover something new in the UI with your navigation design? Why or why not?*
@@ -34,6 +28,7 @@ You have a navigation design concept that you want to move forward with, and you
 **Recommended sample size:**  It varies, depending on whether or not you continue to find issues. With the RITE method, you start with 3 participants, fix any usability issues that were found with the initial design, and test with 2 additional participants for a total of 5 participants. If no additional issues are found you’re done. If additional issues are found, add another 3 participants until no further issues are found.
 
 **What to capture:**
+
 - How participants navigate to complete tasks
     - Common paths (whether correct or not)
        - Why they chose that path via qualitative feedback
@@ -56,6 +51,7 @@ You have a navigation design concept that you want to move forward with, and you
 |C|Issues with no obvious cause or due to other factors, such as task instructions. |Collect more data in the upcoming session until they can be promoted to Category A or B.|
 
 **Qualitative feedback about their experience**
+
 - Post-task questions:
     - Do you have any feedback on the activity you just worked on?
     - Was anything particularly easy or difficult (if not already mentioned)? why?
@@ -75,6 +71,7 @@ Refer to the [RITE handbook page](/handbook/product/ux/ux-research/rite/#a-sampl
 To report brief/initial findings in Slack or in an Issue, please use the following format:
 
 **After the first 3 participants:**
+
 - Number of usability issues found
 - Usability issues found with a brief description of each
     - For example, “2 out of 3 participants struggled to find a recent project with the new placement of the [button or element name].”
@@ -85,17 +82,14 @@ To report brief/initial findings in Slack or in an Issue, please use the followi
 - Note any issues that you plan to address before running the next 2 participants.
 
 **After the next 2 participants:**
+
 - If additional issues are found:
     - Note the number of usability issues found, provide descriptions of each issue, and any themes around behaviors (same as format above for the first 3 participants).
     - Note any other interesting observations or feedback.
     - Note any issues that you plan to address before running 3 additional participants (repeat adding participants as indicated above).
-
 - If no additional issues are found:
     - Note that no additional usability issues were found
     - Themes around behaviors and any associated feedback
         - For example, “All 3 participants were able to find the [name or element name] easily.” The placement is where they expected to find it, and they felt the label was intuitive.
 
 In addition, if there is any context that you can provide in your interpretation of the results that is helpful. For example, if participants selected Merge Requests in the left sidebar, you can add that the common incorrect first click in this area may be due to the task calling out a merge request.
-
-
-

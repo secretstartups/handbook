@@ -144,22 +144,37 @@ We use virtual environments for local dbt development because it ensures that ea
 
 #### Cloning models locally
 
-The following commands enable zero copy cloning using DBT selections syntax to clone entire lineages. This is far faster and more cost-effective than running the models using DBT but do not run any DBT validations. As such, all dbt users are encourage to use these commands to set up your environment.
-- Ensure you have dbt setup and are able to run models
-- These local commands run using the SnowFlake user configured in `/.dbt/profiles.yml`, and will skip any table which your user does not have permissions to.  
-- These commands run using the same logic as the dbt CI pipelines, using the DBT_MODELS as a variable to select a given lineage.
-- You need to be in the `/analytics` directory to run these commands.
-- Because the `make` commands for local cloning are not part of the virtual environment, the suggested workflow is to run local clone operations in a separate terminal window from the terminal window that's running your dbt virtual environment.
-- If you encounter an error as below:
+This command enables zero copy cloning using DBT selections syntax to clone entire lineages. This is far faster and more cost-effective than running the models using DBT but do not run any DBT validations. As such, all dbt users are encouraged to use this command to set up your environment.
 
+**Prerequisites:**
+
+- Ensure you have dbt setup and are able to run models
+- These local commands run using the SnowFlake user configured in `/.dbt/profiles.yml`, and will skip any table which your user does not have permissions to.
+- These commands run using the same logic as the dbt CI pipelines, using the `DBT_MODELS` as a variable to select a given lineage.
+- You need to be in the `/analytics` directory to run these commands.
+
+**Usage:**
+
+To use the new `clone-dbt-select-local-user-noscript` command, you have to specify a `DBT_MODELS` variable. For example, to clone only the `dim_subscription` model, you would execute the following command:
+```
+make DBT_MODELS="dim_subscription" clone-dbt-select-local-user-noscript
+```
+This will clone the DBT model from the `prod` branch into your local user database (i.e., `{user_name}_PROD`). You can use dbt selectors: @, +, etc to select the entire lineage that you want to copy over your local database.
+
+**Tips:**
+
+- If you encounter an error as below:
 ```
 Compilation Error
   dbt found 7 package(s) specified in packages.yml, but only 0 package(s) installed in dbt_packages. Run "dbt deps" to install package dependencies.
 ```
+  - Run `make dbt-deps` from the root of the analytics folder and retry the command.
 
-  - Run `make dbt-deps` from the root of the analytics folder and retry the command.  
+**Transition Note:**
 
-##### Cloning into local user DB
+We are actively transitioning to the new `clone-dbt-select-local-user-noscript` command. The old `clone-dbt-select-local-user` command will still be available for a limited time, but we encourage you to start using the new command as soon as possible.
+
+##### Cloning into local user DB (python scripts - pre-`dbt clone`)
 
 - This clones the given DBT model lineage into the active branch DB (ie. `{user_name}_PROD`)
   - `make DBT_MODELS="<dbt_selector>" clone-dbt-select-local-user`
@@ -989,14 +1004,13 @@ We implement 12 categories of Trusted Data Framework (TDF) monitors and tests (m
 1. [Schema tests](/handbook/business-technology/data-team/platform/dbt-guide/#schema-tests) to validate the integrity of a schema
 1. [Column Value tests](/handbook/business-technology/data-team/platform/dbt-guide/#column-value-tests) to determine if the data value in a column matches pre-defined thresholds or literals
 1. [Rowcount tests](/handbook/business-technology/data-team/platform/dbt-guide/#rowcount-tests) to determine if the number of rows in a table over a pre-defined period of time match pre-defined thresholds or literals
-1. [Golden Data tests](/handbook/business-technology/data-team/platform/dbt-guide/#golden-data-tests) to determine if pre-defined high-value data exists in a table
 1. [Custom SQL tests](/handbook/business-technology/data-team/platform/dbt-guide/#custom-sql) any valid SQL that doesn't conform to the above categories
 
 Our tests are stored in 2 primary places - either in a YAML file within our [main project](https://gitlab.com/gitlab-data/analytics) or within our [Data Tests](https://gitlab.com/gitlab-data/data-tests) project.
 
 Schema and Column Value tests will usually be in the main project. These will be in `schema.yml` and `sources.yml` files in the same directory as the models they represent.
 
-Rowcount, Golden Data, and any other custom SQL tests will always be in the [Data Tests](https://gitlab.com/gitlab-data/data-tests) project. This is a private project for internal GitLab use only.
+Rowcount, and any other custom SQL tests will always be in the [Data Tests](https://gitlab.com/gitlab-data/data-tests) project. This is a private project for internal GitLab use only.
 
 ##### Tagging
 
@@ -1150,51 +1164,6 @@ Purpose: We have a fast-growing business and should always have at least 50 and 
     "date_trunc('day',created_date) >= '2020-01-01'"
 ) }}
 
-```
-
-#### Golden Data Tests
-
-Some data is so important it should always exist in your data warehouse and should never change: your top customer's record, the 2019 total global users count, the KPI result when you passed 1,000,000 subscriptions. Some of these cases can be solved by a developing new database capabilities, but this can be complicated and may not always match your existing data processing workflow. In addition, bugs can be accidentally added to data transforms or someone can accidentally run a bad UPDATE versus a critical production table. The Golden Data test is a specialized type of Column Value test that validates the existence of a known data literal and helps catch these problems when they occur.
-
-Golden Data tests are implemented using CSVs. To preserve privacy and to enable users to encode any data they need to, we store the Golden Data CSVs in the [Data Tests](https://gitlab.com/gitlab-data/data-tests/-/tree/main/) project under the `/data` folder.  These files are imported into our production runs as a [dbt package](https://docs.getdbt.com/docs/building-a-dbt-project/package-management/) and uploaded in the `prep.tdf` schema.
-
-Users can create a test that uses the Golden Data Macros to run the comparison.
-
-##### Golden Data Test Examples
-
-Purpose: ACME is our most important customer. This test validates ACME is always in our DIM_ACCOUNT table. This is controlled by the [`model_golden_data_comparison`](https://dbt.gitlabdata.com/#!/macro/macro.gitlab_snowflake.model_golden_data_comparison) macro.
-
-```csv
--- dim_account_golden_data
-account_name, account_status, account_currency, is_deleted, crm_id
-ACME, Active, USD, FALSE, 0016100001BrzkTQZY
-```
-
-```sql
-{{ config({
-    "tags": ["tdf","dim_account"]
-    })
-}}
-
-{{ model_golden_data_comparison('dim_account') }}
-```
-
-Similarly, if this same data exists in a source table in the RAW database, the format would be as shown below. This is controlled by the [`source_golden_data_comparison`](https://dbt.gitlabdata.com/#!/macro/macro.gitlab_snowflake.source_golden_data_comparison) macro.
-
-
-```csv
--- sfdc_account_raw_golden_data
-name, status, currency, deleted, id
-ACME, Active, USD, FALSE, 0016100001BrzkTQZY
-```
-
-```sql
-{{ config({
-    "tags": ["tdf","sfdc"]
-    })
-}}
-
-{{ source_golden_records_comparison('sfdc','account') }}
 ```
 
 #### Custom SQL
@@ -1413,9 +1382,9 @@ Sometimes the data team receives requests to delete personal data from the Snowf
 
 There are 2 flavours:
 1. The GDPR deletion request applies to all GitLab sources, and therefore all tables in the data warehouse need to be checked and updated. [Macro](https://dbt.gitlabdata.com/#!/macro/macro.gitlab_snowflake.gdpr_delete). Use this macro if the issue that requesting a GDPR deletion states `Deletion Request (Full)` (in either the title or issue description).
-2. The GDPR deletion request applies to only GitLab.com related sources and therefore only Gitlab.com related tables in the data warehouse need to be checked and updated. [Macro](https://dbt.gitlabdata.com/#!/macro/macro.gitlab_snowflake.gdpr_delete_gitlab_dotcom). Use this macro only if the issue that requesting a GDPR deletion states `Deletion Request (GitLab.com Only` (in either the title or issue description).
+2. The GDPR deletion request applies to only GitLab.com related sources and therefore only GitLab.com related tables in the data warehouse need to be checked and updated. [Macro](https://dbt.gitlabdata.com/#!/macro/macro.gitlab_snowflake.gdpr_delete_gitlab_dotcom). Use this macro only if the issue that requesting a GDPR deletion states `Deletion Request (GitLab.com Only` (in either the title or issue description).
 
-Specific to the second flavour, check when creating a new snapshot model or rename an existing snapshot model, if the `dbt` macro covers the models involved. Check if the filtering in the macro applies to the applicable snapshot tables in case of a GDPR deletions request for Gitlab.com only related sources.
+Specific to the second flavour, check when creating a new snapshot model or rename an existing snapshot model, if the `dbt` macro covers the models involved. Check if the filtering in the macro applies to the applicable snapshot tables in case of a GDPR deletions request for GitLab.com only related sources.
 
 #### Make snapshots table available in prod database
 
@@ -1578,6 +1547,7 @@ The way a model is materialized will directly impact how long the model runs dur
 - Table models should be used when there is complex query logic that negatively impacts downstream queries if it were to be performed with each query.
 - Incremental models should be used when the table is a size M or larger, the model run time is a size L or larger, and existing source data changes very little day to day.
   - Incremental models should be set to never full refresh if the table a XL size or larger, the source data does not update old records, and there is low risk of the schema of the source data changing.
+  - Incremental models can use a temporary table or a view for the incremental load and may have different performance.  Each option should be evaluated when creating a new incremental model. Further details can be found [here](https://docs.getdbt.com/reference/resource-configs/snowflake-configs#temporary-tables).
 
 #### Query Optimization
 

@@ -125,7 +125,7 @@ In the event that you are interested in more than one opening, there is no limit
 
 1. You will have to complete a full interview process for each role you apply to, so be mindful of the time commitment for each application you submit.
 1. Due to capacity, the recruiting team will only process 3 of your applications at a time based on which ones you decide to prioritize. Any other applications outside of the 3 will be processed after the prioritized roles's interviews are completed.
-1. In the effort to be as transparent as possible and avoid sending multiple competing Gitlab offers, there will be an added step to the process after your final interview where you will discuss with your recruiter which role you’re interested in before any official offer documents can be sent.
+1. In the effort to be as transparent as possible and avoid sending multiple competing GitLab offers, there will be an added step to the process after your final interview where you will discuss with your recruiter which role you’re interested in before any official offer documents can be sent.
 1. If you already have interviewed with us, you can apply for a different role again, but please take note that there may be a cooldown period of 6 months or more if it's a similar role, depending on the reason for not moving forward which is communicated by the recruiter.
 
 Example of dual Interview process outline
@@ -233,7 +233,7 @@ Our [mission]({{< ref "mission" >}}) makes it clear that we believe in a world w
 - [Life at GitLab](https://about.gitlab.com/jobs/)
 - [How We're Changing the Look of DevOps and Remote Work, One Iteration at a Time](https://builtin.com/brand-studio/gitlab-changing-look-devops-remote-work?utm_source=linkedin&utm_medium=social_media&utm_campaign=gitlab)
 - [GitLab's guide to starting a new remote role](/handbook/company/culture/all-remote/getting-started/)
-- [Life at GitLab Content Library]({{< ref "content-library" >}})
+- [Life at GitLab Content Library]({{< ref "/handbook/people-group/employment-branding/content-library" >}})
 {{% /details %}}
 
 ### What our team members are saying

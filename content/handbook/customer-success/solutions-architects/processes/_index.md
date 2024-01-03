@@ -4,12 +4,6 @@ title: Solutions Architects Processes
 ---
 
 
-
-
-
-
-{{% include "includes/solutions-architects-navigation.md" %}}
-
 # Solutions Architects Processes
 
 
@@ -36,29 +30,34 @@ To following process maps are best viewed in full screen.  Please note that many
 
 ## SA Activity Capture
 
-Solutions Architects record all customer and prospect activity to promote **transparency** and **collaboration**. By consistently capturing our customer facing activity, we can perform analysis for further reporting to establish **efficient** decision making for GitLab's business. More information on this process can be found on the [SA Activity Capture](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/activity-capture/) page.
+Solutions Architects record all customer and prospect activity to promote **transparency** and **collaboration**. By consistently capturing our customer facing activity, we can perform analysis for further reporting to establish **efficient** decision making for GitLab's business. More information on this process can be found on the [SA Activity Capture](/handbook/customer-success/solutions-architects/processes/activity-capture/) page.
 
 We have a [standard meeting notes document](https://docs.google.com/document/d/1TlG1ZDKtd3YcV_yZg9YxQ52HRxNCpYXJLyDblxBz-vU/edit?usp=sharing) that is formatted to enable the activity capture in Troops which should be utilised for each customer engagement
 
-## Customer Strategy Planning
+## Customer Success Plan
 
-A customer Strategy Plan is a customer-facing and mutually agreed roadmap for achieving value through GitLab adoption. This is an outcome of collaboration between GitLab Solution Architecture and the customer with the primary objective of ensuring customers are successful.  The process is designed to support shifting from product scoped conversations (focusing on specific features or functions and limited to a specific subset of DevSecOps stages) towards solution (addressing specific pain points) or strategic (shaping business outcomes through holistic organizational process innovation and transformation tied to top strategic initiatives ) scopes. This Strategy Plan starts in the pre-sales process and is intended to carry through to the post-sales [Success Plan](https://about.gitlab.com/handbook/customer-success/csm/success-plans/). The customer Success Plan is intended to be dynamic and should therefore be regularly reviewed on an agreed-upon cadence.
+A Customer Success Plan is a customer-facing and mutually agreed roadmap for achieving value through GitLab adoption. This is an outcome of collaboration between GitLab Solution Architecture and the customer with the primary objective of ensuring customers are successful.  The process is designed to support shifting from product scoped conversations (focusing on specific features or functions and limited to a specific subset of DevSecOps stages) towards solution (addressing specific pain points) or strategic (shaping business outcomes through holistic organizational process innovation and transformation tied to top strategic initiatives ) scopes. This Success Plan starts in the pre-sales process and is intended to carry through to the post-sales [Success Plan](/handbook/customer-success/csm/success-plans/). The Customer Success Plan is intended to be dynamic and should therefore be regularly reviewed on an agreed-upon cadence.
 
-Customer Strategy Planning core goal is to identify:
+Customer Success Planning core goal is to identify and state:
+- Business outcomes
 - Key business stakeholders
 - High-impact strategic requirements
 - Current state of customer technology ecosystem
 - Current and desired capabilities
 - Operational alignment with strategic objectives 
-- Perceived gaps and deficiencies in current capabilities.
+- Perceived gaps and deficiencies in current capabilities
 
-Customer Strategy Planning process:
-1. Solutions Architect assigned to the Account will initiate the process during customer technical discovery (Stage 3 - Technical Evaluation) and will remain the DRI
-1. Solution Architect will utilize [standard template](https://docs.google.com/presentation/d/1npyhUebp68YkccLlJP5R_6gmtQjfELpB1mBGWfroVmY/edit#slide=id.g1f06a8a4d73_0_501) to capture all necessary information in a collaborative session with the customer
-1. Where applicable, Solution Architect will engage other functions (CSM, Professional Services) towards the end of technical evaluation 
-1. Solution Architect will share the results with the customer
-1. Account Team and the customer will agree on the cadence for reviewing and updating the Strategy Plan during and after the sales cycle
-1. The customer Strategy Plan will be shared with the CSM team when the account moves into Post-Sales.
+Customer Success Planning process:
+1. The Solutions Architect starts with a [Technical Close Plan](/handbook/customer-success/solutions-architects/sa-practices/technical-close-plan/) during customer technical discovery (Stage 3 - Technical Evaluation) to understand the customer business outcomes and will remain the DRI
+1. After the Technical Evaluation completes successfully, the Solutions Architect will utilize the [standard template](https://docs.google.com/presentation/d/1npyhUebp68YkccLlJP5R_6gmtQjfELpB1mBGWfroVmY/edit#slide=id.g1f06a8a4d73_0_501) in a collaborative session with the customer to capture any necessary information not already captured in the [Technical Close Plan](/handbook/customer-success/solutions-architects/sa-practices/technical-close-plan/), tracking the document in the `Customer Success Plan` field on the opportunity in Salesforce
+1. After the initial Customer Success Plan is drafted, the link to the document will be updated by the Solution Architect in the `Customer Success Plan` field on the opportunity in Salesforce in a timely manner and before the opportunity closes
+1. Where applicable, the Solution Architect will engage other functions (CSM, Professional Services) towards the end of technical evaluation to ensure long-term alignment, using the `CSM Ready` field on the opportunity in Salesforce to indicate plan readiness
+1. The Solution Architect will share the results with the customer, either part of or in support of a proposal
+1. The account team should ask the customer if they are willing to sign the plan as a gesture of joint commitment to the plan
+1. The Solutions Architect should follow the meeting with an email summary, potentially using this [email template](https://gitlab.highspot.com/items/656e20d882b4b085aafe3a3c?lfrm=shp.0), ensuring the customer is aligned with the plan and acceptance is capture
+1. After reviewing and securing buy-in with the customer, capture the acceptance of the Customer Success Plan in Salesforce using the `Customer Accepted` field on the opportunity
+1. The Account Team and the customer will agree on the cadence for reviewing and updating the Success Plan during and after the sales cycle
+1. The Customer Success Plan will be reviewed with the CSM team when the account moves into Post-Sales
 
 
 ## Positioning Professional Services
@@ -68,7 +67,7 @@ Please add "Positioned PS" as SA activity type after you have positoned it for y
 
 ## Engaging Professional Services
 
-Follow the process detailed in the [Working with Professional Services](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/working-with/#for-sales-reps-and-sas-how-to-order-professional-services)
+Follow the process detailed in the [Working with Professional Services](/handbook/customer-success/professional-services-engineering/working-with/#for-sales-reps-and-sas-how-to-order-professional-services)
 handbook page.
 
 Simplified process description:
@@ -127,7 +126,7 @@ Enterprise Solutions Architects typically support sales teams made up of Sales D
 
 1. **Salesforce**
 [To-do] Add info on views and reports to use during the sales cycle. Also, guidance on SA being listed on opportunities and accounts (there is not any info in our current handbook)
-1. **Gainsight** Primarily for account planning in partnership with SAE and CSM. The easiest way to access Gainsight is via Salesforce. See the [Account Planning in Gainsight](https://about.gitlab.com/handbook/sales/gainsight/account-planning/) page for details.
+1. **Gainsight** Primarily for account planning in partnership with SAE and CSM. The easiest way to access Gainsight is via Salesforce. See the [Account Planning in Gainsight](/handbook/sales/gainsight/account-planning/) page for details.
 1. **Slack** Create a public internal team slack channel for your cross-functional team. This will allow you to collaborate easily without sending DM's.
 1. **Google Drive** There is a shared [GitLab Sales](https://drive.google.com/drive/folders/0BzQII5CcGHkKSFFJWkx3R1lUdGM?usp=sharing) folder. Running customer notes and other documents related to a specific customer should be stored in the [Customers and Prospects Subfolder](https://drive.google.com/drive/folders/0B-ytP5bMib9Ta25aSi13Q25GY1U?usp=sharing) under the appropriate letter and customer name subfolder.
 1. <b>[GitLab Account Management Project](https://gitlab.com/gitlab-com/account-management)</b> may be used for a POV and/or CSM collaboration with a customer post-sale.
@@ -135,7 +134,7 @@ Enterprise Solutions Architects typically support sales teams made up of Sales D
 
 ### Account Planning 
 
-Account planning helps the SAE and the SA elevate opportunity-driven conversations into value-based conversations that focus on the customer's value drivers. It is a critical step in strategically supporting the customer at the account level, and facilitates more efficient opportunity planning. See the [Using Gainsight for SAs](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/account-planning) page for details. 
+Account planning helps the SAE and the SA elevate opportunity-driven conversations into value-based conversations that focus on the customer's value drivers. It is a critical step in strategically supporting the customer at the account level, and facilitates more efficient opportunity planning. See the [Using Gainsight for SAs](/handbook/customer-success/solutions-architects/processes/account-planning) page for details. 
 
 ### Quarterly Exchange
 At the end of a quarter, an SA team meets to share what they have been focused on to either share learnings or gather insights. 
@@ -197,13 +196,13 @@ Solution Architects should participate in [technical discovery](#technical-disco
 
 - GitLab demos
 - GitLab technical deep dives
-- [Gitlab hands-on workshops & Labs](https://about.gitlab.com/handbook/customer-success/solutions-architects/demo-architect/#labshands-on-content)
+- [GitLab hands-on workshops & Labs](/handbook/customer-success/solutions-architects/demo-architect/#labshands-on-content)
 - Whiteboarding sessions
 - Prospect Q&A sessions
 - RFI/RFP completion
 - PoV planning, documentation and execution strategy 
 - [Security Audits](https://about.gitlab.comhandbook/security/security-assurance/field-security/customer-security-assessment-process.html)
-- [SOW Scoping with Professional Services](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/selling/)
+- [SOW Scoping with Professional Services](/handbook/customer-success/professional-services-engineering/selling/)
 
 SA's may also work in tandem with a CSM to support existing customers, especially when expand opportunities exist within the account. And SA's may also have regular touch points smaller customers who do not have a CSM assigned.
 
@@ -211,7 +210,7 @@ SA's may also work in tandem with a CSM to support existing customers, especiall
 
 - On a high level note, SAs are the pre-sales advisors for our prospective as well as existing customers and CSMs manage the post-sales relationship of existing customers and are responsible for the GitLab adoption.  
 
-Further details can be found here: (https://about.gitlab.com/handbook/customer-success/#overlap-between-solution-architects-and-customer-success-managers)
+Further details can be found here: (/handbook/customer-success/#overlap-between-solution-architects-and-customer-success-managers)
 
 #### Technical Discovery and Demo Preparation
 
@@ -291,25 +290,25 @@ When workload exceeds the SA's capacity or when there is a request from other de
 
 ### Commercial Engagement Model
 
-SA engagement for customer interactions, RFP's, audits and more ([how to engage a Commercial SA](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/commercial/)) can be requested by an SMB or Mid-Market Account Executive or other GitLab team-member using the SA Request button on the Salesforce Opportunity. Find more information about engagement considerations, triage process and expectations in dedicated [Commercial Solutions Architecture Engagement Model](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/commercial/#commercial-solutions-architecture-engagement-model) handbook page.
+SA engagement for customer interactions, RFP's, audits and more ([how to engage a Commercial SA](/handbook/customer-success/solutions-architects/processes/commercial/)) can be requested by an SMB or Mid-Market Account Executive or other GitLab team-member using the SA Request button on the Salesforce Opportunity. Find more information about engagement considerations, triage process and expectations in dedicated [Commercial Solutions Architecture Engagement Model](/handbook/customer-success/solutions-architects/processes/commercial/#commercial-solutions-architecture-engagement-model) handbook page.
 
 ### APAC Account Engagement Model
 
 APAC SAs are aligned regionally into regions such as ANZ, SEA (South-East Asia), India, South Korea and Japan in close alignment to the Strategic Account Leaders, Commercial AEs and Channels Managers territories. Teams collaborate to the standards [Working Agreements](#working-agreements). 
 
 ### Alliances SA Engagement Model
-The Alliance SA team is global. The Alliance SA's are aligned with Alliance Partner Managers/Directors and the Alliance Business Development Managers. In customer accounts where an Alliance partner technology is involved, an Alliance SA engagement for customer interactions can be requested by an Account Executive / SA / CSM using the appropriate issue board. For more details, click on [how to engage an Alliance SA](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/alliance/). Here's the [Alliance Triage Board](https://gitlab.com/gitlab-com/alliances/gitlab-alliances-team/alliance-sa-work/-/boards/2245192) and the [issue template](https://gitlab.com/gitlab-com/alliances/gitlab-alliances-team/alliance-sa-work/-/issues/new?issuable_template=GitLab%20Internal%20Assistance) 
+The Alliance SA team is global. The Alliance SA's are aligned with Alliance Partner Managers/Directors and the Alliance Business Development Managers. In customer accounts where an Alliance partner technology is involved, an Alliance SA engagement for customer interactions can be requested by an Account Executive / SA / CSM using the appropriate issue board. For more details, click on [how to engage an Alliance SA](/handbook/customer-success/solutions-architects/processes/alliance/). Here's the [Alliance Triage Board](https://gitlab.com/gitlab-com/alliances/gitlab-alliances-team/alliance-sa-work/-/boards/2245192) and the [issue template](https://gitlab.com/gitlab-com/alliances/gitlab-alliances-team/alliance-sa-work/-/issues/new?issuable_template=GitLab%20Internal%20Assistance) 
 
 ### Channel SA Engagement Model
 The Channel SA's are aligned globally with the Channel program team as well as regionally with Channel Sales Directors and Channel Account Managers. Channel SA's are primarily focused on developing Partner relationships as opposed to direct Customer relationships.  Our primary community served are the regional Channel Sales Directors and their Channel Account Managers (CAMs), Partner teams, and our own managment.  Generally for direct customer opportunity support, engage the appropriate GitLab SA community for your customer.  Channel SA's can provide backup to the Customer SA community in support of a Partner aligned opportunity.  
 
 Most Opportunity based enagement should start with the CAM and they should identify the appropriate Channel SA to engage.  If you do not know the CAM for your account / partner reach out via the `#channel-sales` slack channel for general sales questions about working with partners or finding help with a specific channel opportunity.  
 
-In customer accounts where a Channel partner is involved, engagement with the Partner from a Channel SA can be requested by an Account Executive / SA / CSM.  For more details, click on [how to engage a Channel SA](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/channel/).  The details on Channel SA engagement model can be found in this [RACI spreadsheet](https://docs.google.com/spreadsheets/d/1AxDrQp2HeIXfomw8QRrb0gemQCHktt_BR3ufpLTtxNc/).
+In customer accounts where a Channel partner is involved, engagement with the Partner from a Channel SA can be requested by an Account Executive / SA / CSM.  For more details, click on [how to engage a Channel SA](/handbook/customer-success/solutions-architects/processes/channel/).  The details on Channel SA engagement model can be found in this [RACI spreadsheet](https://docs.google.com/spreadsheets/d/1AxDrQp2HeIXfomw8QRrb0gemQCHktt_BR3ufpLTtxNc/).
 
 ### Subject Matter Expert Engagement Model
 
-Before you invite or request an [Subject Matter Expert](https://about.gitlab.com/handbook/customer-success/solutions-architects/sa-practices/subject-matter-experts) for your opportunity, ensure your opportunity is fully qualified. The SME should be requested by the primary Solutions Architect. This will help make sure we're using our resources efficiently and effectively.
+Before you invite or request an [Subject Matter Expert](/handbook/customer-success/solutions-architects/sa-practices/subject-matter-experts) for your opportunity, ensure your opportunity is fully qualified. The SME should be requested by the primary Solutions Architect. This will help make sure we're using our resources efficiently and effectively.
 
 Create an issue in the [SME Triage Project](https://gitlab.com/gitlab-com/customer-success/sa-triage-boards/sme-triage) using the template. You can have a look on the [board](https://gitlab.com/gitlab-com/customer-success/sa-triage-boards/sme-triage/-/boards/5983907) for current engagements.
 

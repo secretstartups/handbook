@@ -4,6 +4,8 @@ description: Support Operations documentation page for the account deletion form
 canonical_path: "/handbook/support/readiness/operations/docs/gitlab/account_deletions"
 ---
 
+<sup>*Introduced via [support-team-meta#1329](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/1329)*</sup>
+
 ## What is the account deletion form?
 
 The account deletion form is a simple HTMl form generated via GitLab Pages that
