@@ -413,6 +413,7 @@ Executive Risk Owners are responsible for ensuring that long term treatment plan
  - Establish realistic target delivery dates for each KR. Due to the nature of operational risks, we expect many of these dates to be up to 4 years in the future. Try to establish at least one KR per quarter to show incremental progress.
  - Scoring: Subtract '10' (our risk tolerance threshold) from the current risk score to identify the reduction required to move the risk within tolerance. Divide this by the number of KRs. The remainder is the amount the score will be reduced each time a KR is complete. This number can be adjusted judgmentally as required.
 
+ In the event the Executive Risk Owner chooses not to pursue a [Risk Treatment](https://handbook.gitlab.com/handbook/security/security-assurance/security-risk/third-party-risk-management/#tprm-risk-acceptance-process) related KR in a given quarter due to competing priorities, a Risk Acceptance should be formalized to document the business rationale. This Risk Acceptance should contain rationale documenting why the risk of delaying additional Risk Treatment is less than the risk of pursuing the competing priority.
 
 #### StORM Reporting Schedule
 
