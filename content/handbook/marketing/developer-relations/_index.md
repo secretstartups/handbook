@@ -76,34 +76,34 @@ Teams within Developer Relations are reachable in these Slack channels:
 
 Community engagement:
 
-[<i class="fas fa-shield-alt"></i> Code of Conduct Enforcement](/handbook/marketing/developer-relations/workflows-tools/code-of-conduct-enforcement/)
-[<i class="fas fa-volume-up"></i> Community Response Process](/handbook/marketing/developer-relations/developer-evangelism/community-response/)
-[<i class="fas fa-calendar-alt"></i> Events](/handbook/marketing/developer-relations/events/)
+- [<i class="fas fa-shield-alt"></i> Code of Conduct Enforcement](/handbook/marketing/developer-relations/workflows-tools/code-of-conduct-enforcement/)
+- [<i class="fas fa-volume-up"></i> Community Response Process](/handbook/marketing/developer-relations/developer-evangelism/community-response/)
+- [<i class="fas fa-calendar-alt"></i> Events](/handbook/marketing/developer-relations/events/)
 
 Community platforms:
 
-[<i class="fab fa-discourse"></i> Discourse Forum](/handbook/marketing/developer-relations/workflows-tools/forum/)
-[<i class="fab fa-discord"></i> Discord](/handbook/marketing/developer-relations/workflows-tools/discord/)
-[<i class="fab fa-reddit"></i> Reddit](/handbook/marketing/developer-relations/workflows-tools/reddit/)
-[<i class="fab fa-stack-overflow"></i> StackOverflow](/handbook/marketing/developer-relations/workflows-tools/stackoverflow/)
-[<i class="fas fa-eye"></i> Common Room](/handbook/marketing/developer-relations/workflows-tools/common-room/)
+- [<i class="fab fa-discourse"></i> Discourse Forum](/handbook/marketing/developer-relations/workflows-tools/forum/)
+- [<i class="fab fa-discord"></i> Discord](/handbook/marketing/developer-relations/workflows-tools/discord/)
+- [<i class="fab fa-reddit"></i> Reddit](/handbook/marketing/developer-relations/workflows-tools/reddit/)
+- [<i class="fab fa-stack-overflow"></i> StackOverflow](/handbook/marketing/developer-relations/workflows-tools/stackoverflow/)
+- [<i class="fas fa-eye"></i> Common Room](/handbook/marketing/developer-relations/workflows-tools/common-room/)
 
 Content:
 
-[<i class="far fa-edit"></i> Community newsletter](/handbook/marketing/developer-relations/developer-evangelism/community-newsletter/)
-[<i class="far fa-edit"></i> Content Review / Fix Fridays](/handbook/marketing/developer-relations/workflows-tools/content-review/)
-[<i class="fas fa-chart-line"></i> UTM Tracking Strategy](/handbook/marketing/developer-relations/utm-strategy/)
-[<i class="far fa-folder-open"></i> Campaign management](/handbook/marketing/developer-relations/community-apps/campaign-manager/)
+- [<i class="far fa-edit"></i> Community newsletter](/handbook/marketing/developer-relations/developer-evangelism/community-newsletter/)
+- [<i class="far fa-edit"></i> Content Review / Fix Fridays](/handbook/marketing/developer-relations/workflows-tools/content-review/)
+- [<i class="fas fa-chart-line"></i> UTM Tracking Strategy](/handbook/marketing/developer-relations/utm-strategy/)
+- [<i class="far fa-folder-open"></i> Campaign management](/handbook/marketing/developer-relations/community-apps/campaign-manager/)
 
 Organization:
 
-[<i class="fas fa-credit-card"></i> Team Budgets](/handbook/marketing/developer-relations/workflows-tools/team-budgets)
-[<i class="fas fa-shopping-cart"></i> Swag operations](/handbook/marketing/developer-relations/workflows-tools/swag/)
-[<i class="fas fa-magic"></i> Automated Community Programs](/handbook/marketing/developer-relations/community-programs/automated-community-programs/)
-[<i class="fas fa-robot"></i> Zapier](/handbook/marketing/developer-relations/workflows-tools/zapier/)
-[<i class="fas fa-inbox"></i> Zendesk](/handbook/marketing/developer-relations/workflows-tools/zendesk/)
-[<i class="fas fa-envelope"></i> Email](/handbook/marketing/developer-relations/workflows-tools/e-mail/)
-[<i class="fab fa-twitter"></i> Twitter/X](/handbook/marketing/developer-relations/workflows-tools/twitter/)
+- [<i class="fas fa-credit-card"></i> Team Budgets](/handbook/marketing/developer-relations/workflows-tools/team-budgets)
+- [<i class="fas fa-shopping-cart"></i> Swag operations](/handbook/marketing/developer-relations/workflows-tools/swag/)
+- [<i class="fas fa-magic"></i> Automated Community Programs](/handbook/marketing/developer-relations/community-programs/automated-community-programs/)
+- [<i class="fas fa-robot"></i> Zapier](/handbook/marketing/developer-relations/workflows-tools/zapier/)
+- [<i class="fas fa-inbox"></i> Zendesk](/handbook/marketing/developer-relations/workflows-tools/zendesk/)
+- [<i class="fas fa-envelope"></i> Email](/handbook/marketing/developer-relations/workflows-tools/e-mail/)
+- [<i class="fab fa-twitter"></i> Twitter/X](/handbook/marketing/developer-relations/workflows-tools/twitter/)
 
 #### Community Interest
 
