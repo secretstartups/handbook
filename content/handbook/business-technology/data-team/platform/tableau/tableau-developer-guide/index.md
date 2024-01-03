@@ -52,6 +52,25 @@ The `data/performance_indicators.yml` file in the handbook repositories is the b
   is_key: true
 ```
 
+For additional clarity, the exact syntax of this code block is very important so that it can be read like JSON data. Sometimes you might be updating an existing handbook yml file with everything filled out, except the chart is currently a Sisense chart. To replace the Sisense chart, replace the lines of code which point to the Sisense chart. You can leave everything else in the file as-is.
+
+If you just want to embed a chart without any height, filter, or parameter specifications you would use the following:
+```yml
+  tableau_data:
+    charts:
+      - url:
+```
+
+
+Which, in plain English, is:
+
+```yml
+(tab)tableau_data:
+(tab)(tab)charts:
+(tab)(tab)(tab)-(space)url:
+```
+
+
 ## Row Level Security
 
 To use Row Level Security within Tableau the developer will need to use an entitlement table, found in `prod.entitlement`.  The entitlement table will be joined with the appropriate source table using the Tableau Data Modeling interface; this ensures that the tables can be properly filtered at query time and will allow for extracts to properly implement row level security.  Once the entitlement table is joined to its corresponding source table, a data source filter needs to be added to ensure the rows are correctly filtered to the current user.
