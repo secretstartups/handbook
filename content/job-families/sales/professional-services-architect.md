@@ -4,7 +4,7 @@ description: "As a highly visible and customer-facing position, you will work wi
 ---
 
 As a highly visible and customer-facing position, you will work with an exceptional Professional Services organization, and the wider Customer Success team, including Professional Services Engineers, Project Managers, and Solution Architects.
-You will play a critical role in the success of Professional Services engagements as we expanded our world class professional consulting organization that has a proven track record of working with clients from different industries around the world. The Professional Services Technical Architect reports to the Senior Manager, Professional Service Architects.
+You will play a critical role in the success of Professional Services engagements as we expanded our world class professional consulting organization that has a proven track record of working with clients from different industries around the world. The Professional Services Technical Architect reports to the Senior Manager, Professional Services Technical Architects.
 
 #### Levels
 
