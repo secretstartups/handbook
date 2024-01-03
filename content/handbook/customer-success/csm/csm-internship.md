@@ -15,7 +15,7 @@ Internships are a great way for a GitLab team member to learn about being a Cust
 
 ## How to find a mentor in the CSM team
 
-The first step you will need to take in order to start an internship in Product Management is to find a mentor from the [CSM team](/company/team/?department=csm). Feel free to reach out to any CSMs, particularly ones who are in a similar timezone to you to discuss an internship, or to reach out to a CSM Manager for guidance.
+The first step you will need to take in order to start an internship in Customer Success is to find a mentor from the [CSM team](/company/team/?department=csm). Feel free to reach out to any CSMs, particularly ones who are in a similar timezone to you to discuss an internship, or to reach out to a CSM Manager for guidance.
 
 If you're not sure who to reach out to, you can also post in the [#customer-success](https://gitlab.enterprise.slack.com/archives/C5D346V08) Slack channel and express your interest in an internship and that you are looking for a mentor.
 
