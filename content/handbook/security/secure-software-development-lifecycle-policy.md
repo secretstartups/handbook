@@ -1,5 +1,5 @@
 ---
-title: "Secure Software Development Lifecycle Policy"
+title: "Software Development Lifecycle Policy"
 ---
 
 {{% alert title="This is a Controlled Document" color="danger" %}}
@@ -29,13 +29,20 @@ This stage occurs across different mediums depending upon each team's individual
 
 During this stage, the following information is established:
 
-- business requirements are identified
+- problem statement and desired results
 - scope is defined
+- identification of key stakeholders
 - a detailed project plan with milestones and deliverables is created
 
-### Analysis
+### Requirements
 
-During the analysis stage, requirements are gathered from stakeholders relevant to each project.
+During the requirements stage, requirements are gathered from stakeholders relevant to each project.
+
+At a minimum, requirements must identify:
+
+- what the application or functionality will do
+- the necessary components
+- the resources required to complete the project
 
 Identified requirements are documented in the project management tool and made available for review and approval by relevant stakeholders.
 
@@ -43,7 +50,17 @@ Identified requirements are documented in the project management tool and made a
 
 During the design stage, design documents are captured in the project management tool as version controlled documents.
 
-Design documents must be approved by relevant stakeholders prior to being merged.
+Considerations for design documents are:
+
+- Architecture: Teams define if they want a specific type of template or if they want to implement any type of industry practice.
+
+- User Interface: Teams define the way users will be interacting with the application or function. 
+
+- Security: Developers must define how they will keep the application secure. This includes deciding how to protect user data and general application data.
+
+- Programming: Define the project’s tech and tool stack. 
+
+Design documents must be approved by relevant stakeholders prior to being merged (prototyping).
 
 ### Development and Testing
 
