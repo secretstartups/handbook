@@ -70,6 +70,7 @@ Which, in plain English, is:
 (tab)(tab)(tab)-(space)url:
 ```
 
+Please note, a tab is two spaces.
 
 ## Row Level Security
 
