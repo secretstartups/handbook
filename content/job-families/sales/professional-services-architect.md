@@ -10,10 +10,10 @@ You will play a critical role in the success of Professional Services engagement
 
 | Professional Services Technical Architect | Grade |
 | - | - |
-| [Intermediate Architect](#technical-architect) | [Grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
-| [Senior Architect](#senior-technical-architect) | [Grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
-| [Staff Architect](#staff-technical-architect) | [Grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
-| [Senior Manager, Professional Service Architects](#senior-manager-professional-service-architects) | [Grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
+| [Intermediate Architect](#technical-architect) | [Grade 6](/handbook/total-rewards/compensation/compensation-calculator/#customer-success) |
+| [Senior Architect](#senior-technical-architect) | [Grade 7](/handbook/total-rewards/compensation/compensation-calculator/#customer-success) |
+| [Staff Architect](#staff-technical-architect) | [Grade 9](/handbook/total-rewards/compensation/compensation-calculator/#customer-success) |
+| [Senior Manager, Professional Service Architects](#senior-manager-professional-service-architects) | [Grade 9](/handbook/total-rewards/compensation/compensation-calculator/#customer-success) |
 
 ### Performance Indicator
 
