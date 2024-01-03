@@ -40,6 +40,10 @@ The content is divided into three key categories of competencies. [LevelUp](http
 
 - [Chorus Playlist](https://chorus.ai/playlists/741604) gives you access to the recordings of the best CSM calls. The recordings are continuously updated, so keep this playlist bookmarked for best practices.
 
+#### CSM Intership
+
+- [CSM Internship for learning](/handbook/customer-success/csm/csm-internship/)
+
 #### Customer Success Management
 
 - [Customer Success Management Fundamentals](https://www.linkedin.com/learning/customer-success-management-fundamentals) (LinkedIn Learning)
