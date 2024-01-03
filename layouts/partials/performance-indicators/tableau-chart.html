@@ -1,5 +1,5 @@
 {{- $open := .open -}}
-{{- range .data.charts }}
+{{- range .data.charts -}}
 <details {{ if eq $open true }}open="open"{{ end }}>	
     <summary>Chart (<a class="external-link" href="{{ .url }}">Tableau↗</a>) </summary>
     <div style="min-height: {{ .height | default "300px" }};">
@@ -17,4 +17,4 @@
 			</tableau-viz>
 		</div>
 </details>
-{{- end }}
+{{- end -}}

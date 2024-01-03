@@ -102,6 +102,7 @@
     {{- partial "performance-indicators/chart" (dict "data" . "open" $open) -}}
   {{- end -}}
   {{- with .tableau_data -}}
+		<tableau-viz id="tableau-viz"></tableau-viz>
   	{{- partial "performance-indicators/tableau-chart" (dict "data" . "open" $open) -}}
   {{- end -}}
 {{- end -}}
