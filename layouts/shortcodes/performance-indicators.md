@@ -1,5 +1,5 @@
 {{- $data := slice }}
-{{- $dataURL := printf "https://gitlab.com/gitlab-com/content-sites/handbook/-/blob/annie-analyst-main-patch-aa44/data/performance_indicators/%s.yml" (.Get 0) }}
+{{- $dataURL := printf "https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/c2aacb71b9137f306f5b952c9c4f37f470751700/data/performance_indicators/%s.yml" (.Get 0) }}
 {{- with resources.GetRemote $dataURL }}
   {{- with .Err}}
     <h2>Unable to fetch performance indicator Data</h2>
