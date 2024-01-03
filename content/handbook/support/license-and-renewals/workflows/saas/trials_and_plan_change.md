@@ -45,7 +45,7 @@ In order to bypass this validation:
 #### Workflow caveats
 
 - For all trials, the renewal start date must align with the end date of the prior subscription term therefore requests for Ultimate trials with the purpose of extending ahead of the renewal date should be denied. It is GitLab policy to align renewal dates with the end of the prior subscription term.
-- GitLab.com Ultimate trials cannot be extended past the 30-day duration. 
+- GitLab.com Ultimate trials cannot be extended past the 30-day duration.
 - GitLab.com trials are only available for the GitLab Ultimate Subscription plan.
 
 ## Extending trials
