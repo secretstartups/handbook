@@ -98,9 +98,9 @@ graph LR
        3. Share it to `#test-tools-infrastructure-team` and cross-post to `#test-platform`.
 
 #### Social Hours [Sync]
-- **Cadence**: Monthly on last Thursday, 45 mins
+- **Cadence**: Quarterly on last Thursday, 45 mins
 - **Rules**:
-    1. Foster non-work-related interactions (playing online retro-games, discussion on wines and what not!) for team bonding.
+    1. This is a virtual team building activity adhereting to the [Gitlab's team building policy](https://handbook.gitlab.com/handbook/finance/expenses/#team-building).
     2. The social hours will be scheduled inclusively across multiple time zones.
     3. This is also an **optional** meeting, respecting individual's priorities. 
 
