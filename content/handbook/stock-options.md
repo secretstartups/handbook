@@ -81,6 +81,7 @@ In September 2021, the Company’s board of directors and its stockholders appro
    - Contribution increases and decreases are limited during Offering and Purchase Periods
    - Increases: Team members may not increase their contributions after the Offering Period begins.
    - Decreases: Team Members  may decrease their contribution rates once during any Offering Period.
+
 ### Stop Contributions
 
    - Team members may reduce their contribution to 0% during an offering period.
