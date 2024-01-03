@@ -102,3 +102,54 @@ Could we get assistance to fix the delay?
 Thank you!
 ```
 
+## Service Ping
+
+### Monitoring
+
+Currently we have a few dashboard to monitor and investigate malfunctions:
+
+[Service Ping Health](https://app.periscopedata.com/app/gitlab/968489/Analytics-Instrumentation---Service-Ping-Health). The most important charts:
+
+1. Recorded Usage Pings Created Per Week - allows to quickly identify abnormal amount of event received in the recent weeks
+2. Completed vs Failed  Service Ping Hosts - compares Service Ping generation success rate. Helps to identify potential payload generation bugs.
+3. Service Ping fail reasons - list of error messages captured during Service Ping generation. Provides more context for the previous chart.
+
+[Service Ping Exploration Dashboard](https://app.periscopedata.com/app/gitlab/1049395/Service-Ping-Exploration-Dashboard):
+
+1. Timed out metrics in last 30 days - list of metrics which time outed during generated (no value was provided).
+
+### Alerts
+
+You will be alerted by the [Data](https://about.gitlab.com/handbook/business-technology/data-team/) team and their
+[Monte Carlo alerting](https://about.gitlab.com/handbook/business-technology/data-team/platform/monte-carlo/).
+
+### Locating the problem
+
+First you need to identify at which stage in Service Ping data pipeline the drop is occurring.
+
+Start at [Service Ping Health Dashboard](https://app.periscopedata.com/app/gitlab/968489) on Sisense.
+
+You can use [this query](https://gitlab.com/gitlab-org/gitlab/-/issues/347298#note_836685350) as an example, to start detecting when the drop started.
+
+### Troubleshoot the GitLab application layer
+
+In the past we conducted an investigation into an unexpected drop in Service ping Payload events volume.
+GitLab team members can view more information in [this confidential issue](https://gitlab.com/gitlab-data/analytics/-/issues/11071)
+
+### Troubleshoot VersionApp layer
+
+Check if the [export jobs](https://gitlab.com/gitlab-org/gitlab-services/version.gitlab.com/-/tree/main/#data-export-using-pipeline-schedules) are successful.
+
+Check [Service Ping errors](https://app.periscopedata.com/app/gitlab/968489?widget=14609989&udv=0) in the [Service Ping Health Dashboard](https://app.periscopedata.com/app/gitlab/968489).
+
+### Troubleshoot Google Storage layer
+
+Check if the files are present in [Google Storage](https://console.cloud.google.com/storage/browser/cloudsql-gs-production-efd5e8-cloudsql-exports;tab=objects?project=gs-production-efd5e8&prefix=&forceOnObjectsSortingFiltering=false).
+
+### Troubleshoot the data warehouse layer
+
+Reach out to the [Data team](https://about.gitlab.com/handbook/business-technology/data-team/) to ask about current state of data warehouse. On their handbook page there is a [section with contact details](https://about.gitlab.com/handbook/business-technology/data-team/#how-to-connect-with-us).
+
+### Troubleshoot integration with Salesforce
+
+Verify Version app [Sidekiq jobs](https://version.gitlab.com/sidekiq/) are not failing and queues are healthy.
