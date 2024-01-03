@@ -3,7 +3,7 @@ aliases: /handbook/customer-success/csm/adoption-landing-zones/CI
 title: "CI Adoption Landing Zone"
 description: "A page containing links to helpful CI resources for the CSM team and our customers"
 ---
-![CI Adoption Journey Map](/images/handbook/customer-success/ci-adoption-journey-map.png){: .shadow}
+![CI Adoption Journey Map](/images/handbook/customer-success/ci-adoption-journey-map.png)
 
 <table>
 <thead>
