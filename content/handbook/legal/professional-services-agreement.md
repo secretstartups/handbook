@@ -1,6 +1,5 @@
 ---
 title: "GitLab Professional Services Agreement"
-description: "Learn more about GitLab Professional Services Agreement."
 ---
 
 This Professional Services Agreement, including any exhibits, schedules, appendices and addenda (collectively, the “Agreement”) is between GitLab Inc. with offices at 268 Bush Street, Suite 350, San Francisco, CA 94104, or a different GitLab Affiliate listed as “GitLab” on an Order Form, (in each case, “GitLab”), and the individual or entity signing any SOW, or any Order Form, that references this Agreement (“Customer”). This Agreement is entered into (the “Effective Date”) on the earlier of (a) GitLab’s acceptance of an Order Form referencing this Agreement, or (b) GitLab and Customer executing an SOW referencing this Agreement.
