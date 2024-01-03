@@ -52,7 +52,6 @@ Each PS Engagement will include a Project Plan based on the activities outlined 
    - A Project Lead is assigned: this can be a Project Manager, or other Professional Services team member
 7. PS Operations: If the Project Manager has not yet had the Project Prep meeting, then PS Ops will send [Welcome email](https://docs.google.com/document/d/1je9dqVJpFFMv7aw9WhPeQ8aufx6Sj3OZveqaHHd212w/edit?usp=sharing) and [existing customer initiation email](https://docs.google.com/document/d/1eNPXLmstMLoatpOBIhxrJgnPFgqYByPaJoFQRd2kz9U/edit?usp=sharing)
 6. Project Lead: Begins planning the project
-   - Conducts an internal [Account Team to Professional Services Transition meeting](https://docs.google.com/document/d/1fOmBxXf9MqYHQ8LZD5nIepu5WcFeTiwss59RJbd3BWE/edit?usp=sharing) which includes EM, PSE, TA, and opitionally the Project Coordinator, Regional Manager, AE, and/or CSM
    - Completes the PS Customer Success Planning issue template, located in the customer Epic
    - [PS Customer Success Planning Meeting](https://docs.google.com/document/d/1fOmBxXf9MqYHQ8LZD5nIepu5WcFeTiwss59RJbd3BWE/edit?usp=sharing) (PM, Engagement Manager, PSE, and/or Technical Architect and the account team)
    - If a CSM is assigned, follow [these steps](/handbook/customer-success/csm/engaging-with-ps/) outlining the engagement guidelines, throughout the customer project
