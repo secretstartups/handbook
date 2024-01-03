@@ -278,18 +278,20 @@ There are set location options in Greenhouse to make this possible. Recruiters c
 | Location selection in Greenhouse | Countries where the associated job will post on LinkedIn |
 | -------------------------------- | -------------------------------------------------------- |
 | Remote | United States, Canada, United Kingdom, Netherlands, Ireland, Australia |
-| Remote, Global | United States, Canada, United Kingdom, Netherlands, India, Australia, Ireland |
+| Remote, Global | United States, Canada, United Kingdom, Netherlands, Australia, Ireland |
 | Remote, Americas | United States, Canada, Mexico, Chile, Costa Rica |
 | Remote, EMEA | United Kingdom, Netherlands, Germany, France, Ireland, South Africa, Belgium |
 | Remote, Europe | United Kingdom, Netherlands, Germany, France, Ireland |
-| Remote, APAC | Australia, New Zealand, South Korea, Singapore, Japan, India, Phillipines |
+| Remote, APAC | Australia, New Zealand, South Korea, Singapore, Japan, Phillipines |
 | Remote, Asia | Singapore, Phillipines, South Korea, Japan |
 | Remote, US | United States |
 | Remote, North America | United States, Canada |
 | Remote, France | France |
+| Remote, India | India |
 | Remote, Japan | Japan |
 | Remote, Germany | Germany |
 | Remote, Netherlands | Netherlands |
+| Remote, Philippines | Philippines |
 | Remote, Sweden | Sweden |
 | Remote, United Kingdom | United Kingdom |
 | Remote, Australia | Australia |
