@@ -759,7 +759,7 @@ PerkSpot is a one-stop shop for thousands of exclusive discounts and in more tha
 You can enroll anytime at
 [gitlab.perkspot.com](https://gitlab.perkspot.com)
 - Click on "Create Your Account"
-- Using Access Code: "GitLabPerks"
+- [Using Access Code](https://docs.google.com/document/d/1gWhxyWgqxdHA8LskuG93FiFXFJhA7TNWwu3MDifjyQ4/edit)
 
 PerkSpot [Overview Flyer](https://drive.google.com/file/d/1k0CsjErpcy4DUXqmOq3BYe8fHAC02t0B/view?usp=sharing)
 If you have any questions on discounts or the PerkSpot platform,please reach out to cs@perkspot.com or 866-606-6057.
