@@ -757,7 +757,7 @@ PerkSpot is a one-stop shop for thousands of exclusive discounts and in more tha
 - Brands review – search for the Brands you’re looking for using the PerkSpot Brands tab and narrowing your discount search
 
 You can enroll anytime at
-[gitlab.perkspot.com](gitlab.perkspot.com)
+[gitlab.perkspot.com](https://gitlab.perkspot.com)
 - Click on "Create Your Account"
 - Using Access Code: "GitLabPerks"
 
