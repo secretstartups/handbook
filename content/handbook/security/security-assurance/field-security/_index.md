@@ -77,7 +77,7 @@ Do you have an idea, feedback, or recommendation for how Field Security can bett
 - [Customer Assurance Activities Procedure]({{< ref "customer-security-assessment-process" >}})
 - [Trust Center]({{< ref "trust_center_guide" >}})
 - [RFP Completion]({{< ref "field-security-rfp" >}})
-- [Knowledge Base]({{< ref "knowledege_base" >}})
+- [Knowledge Base]({{< ref "knowledge_base" >}})
 - [Field Security Study]({{< ref "field-security-study" >}})
 - [Evangelism]({{< ref "evangelism" >}})
 - [Field Security Sales Training Program]({{< ref "fsstp" >}})
