@@ -104,7 +104,7 @@ Corresponding handbook pages:
 
 # What I am working on improving
 
-Please be an [accountability partner](https://medium.com/@MaryLouWrites/accountability-partners-what-are-they-and-how-do-i-get-some-c5ebd1a828ef) for me on the following items:
+Please be an [accountability partner](https://web.archive.org/web/20221209205931/https://medium.com/@MaryLouWrites/accountability-partners-what-are-they-and-how-do-i-get-some-c5ebd1a828ef) for me on the following items:
 
 * When I make requests or ask questions, confirm I always include the why, the priority, and the expected time frames 
 * In meetings, don't talk for more than 60 seconds without pausing for questions.
