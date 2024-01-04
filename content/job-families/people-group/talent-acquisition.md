@@ -152,11 +152,13 @@ The Manager, Recruiting is a [grade 8](/handbook/total-rewards/compensation/comp
 
 ##### Requirements
 
-- You have at least 6 years of recruiting experience within a growing organization
-- You have at least 2 years experience recruiting for executive level roles
-- Consistent track record with sourcing, recruiting, and closing extraordinary talent (especially passive)
+- Experience leading recruiting teams in fast paced, ambiguous environments
+- Experience setting goals and managing hiring forecasts with timely execution/delivery 
+- Direct experience hiring for senior level roles within aligned functional area
+- Consistent track record with sourcing, recruiting, and closing extraordinary talent through utilizing recruitment best practices
 - You have experience leading a recruiting team and driving performance, job satisfaction, and accountability
 - Experience executing on hiring plans and recruiting strategy
+- Experience advising business stakeholders and building scalable structure and process in unstructured environments
 - Proven organizational skills with high attention to detail and the ability to prioritize
 - Confidence to learn new technologies (MAC, Google Workspace, GitLab) and translate that learning to others
 - Experience building and defining recruiting pipeline metrics and data
