@@ -1,5 +1,7 @@
 {{- $data := slice }}
-{{- $dataURL := printf "https://gitlab.com/gitlab-com/www-gitlab-com/-/raw/c2aacb71b9137f306f5b952c9c4f37f470751700/data/performance_indicators/%s.yml" (.Get 0) }}
+{{- $dataURL := printf "https://gitlab.com/gitlab-com/www-gitlab-com/-/raw/1a1ef3043f15889e974549af3b0f805e671cb772/data/performance_indicators/%s.yml" (.Get 0) }}
+{{ $js := resources.Get "js/tableau.js" | js.Build  }}
+<script type="text/javascript" src="{{ $js.RelPermalink }}" defer></script>
 {{- with resources.GetRemote $dataURL }}
   {{- with .Err}}
     <h2>Unable to fetch performance indicator Data</h2>
