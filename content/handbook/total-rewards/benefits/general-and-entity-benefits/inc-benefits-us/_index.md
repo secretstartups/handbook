@@ -590,6 +590,7 @@ All employer contributions are pre-tax contributions. Team members can still mak
 - The team member must have a contribution for a check date to be eligible for the employer match.
 - Employer matching will be released into participant accounts three business days after the check date.
 - For team members who defer more than 6% on each check date, an annual true-up will be conducted after calendar year end.
+- The 401(k) match runs calendar year.
 
 ### 401(k) Rollover
 
