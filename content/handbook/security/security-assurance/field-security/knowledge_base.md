@@ -1,50 +1,40 @@
 ---
-title: AnswerBase
+title: Knowledge Base
 ---
 
-## What is AnswerBase?
+## What is the knowledge base?
 
-AnswerBase is an internal only library of question and answer pairs related to GitLab, Inc. and the GitLab solutions. AnswerBase is a living library that is updated and expanded by questionnaires from our prospects and customers. These questionnaires are related to efforts such as RFx requests, third party risk assessments, and supplier due diligence requests. AnswerBase is designed to serve both Field Security and all other team members.
+The knowledge base is an internal only library of question and answer pairs related to GitLab, Inc. and the GitLab solutions. The knowledge base is a living library that is updated and expanded by questionnaires from our prospects and customers. These questionnaires are related to efforts such as RFx requests, third party risk assessments, and supplier due diligence requests. The knowledge base is designed to serve both Field Security and all other team members.
 
-## How can I use AnswerBase?
+## How can I use the knowledge base?
 
-You can use AnswerBase in a manner similar to any other digital or physical library, **to answer questions and conduct research.**
+You can use the knowledge base in a manner similar to any other digital or physical library, **to answer questions and conduct research.**
 
-AnswerBase is a self-service tool that enables you to quickly search for keywords related to topics of interest from our prospects and customers. Your searches will produce a list of question and answer pairs that closely match your keywords, providing you with the information you need to confidently respond to prospects and customers.
+The knowledge base is a self-service tool that enables you to quickly search for keywords related to topics of interest from our prospects and customers. Your searches will produce a list of question and answer pairs that closely match your keywords, providing you with the information you need to confidently respond to prospects and customers.
 
-### What are some use cases for AnswerBase?
+### What are some use cases for the knowledge base?
 
 - Preparing talking points for a prospect or customer meeting
 - Responding to an email from a prospect or customer; and
 - Learning more about the GitLab solutions and how we operate internally at GitLab, Inc.
 
-### How does Field Security use AnswerBase?
+### How does Field Security use the knowledge base?
 
 - To increase our efficiency and effectiveness when executing [Customer Assurance Activities]({{< ref "customer-security-assessment-process" >}})
 
-## How can I access AnswerBase?
+## How can I access the knowledge base?
 
-AnswerBase is powered by our third party tool, OneTrust [Vendorpedia]({{< ref "vendorpedia" >}}). Vendorpedia has been added as a baseline entitlement, so all team members will receive access to AnswerBase.
+The knowledge base is powered by our Trust Center tool, [SafeBase](https://app.safebase.io/knowledge). SafeBase has been added as a baseline entitlement, so all team members will receive Knowledge Base viewer access to SafeBase.
 
-This video will show you how easy it is to access and use AnswerBase!
+Please check out this [page](https://help.safebase.io/en/articles/6117207-knowledge-base-overview#h_615c8940e2) to learn more about how to navigate the Knowledge Base!
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" width="320" height="240">
-    <source src="../AnswerBase Training Video - Final.mp4" type="video/mp4">
-    <source src="../AnswerBase Training Video - Final.ogg" type="video/ogg">
-    <source src="../AnswerBase Training Video - Final.webm" type="video/webm">
-  </video>
-</figure>
+When you have Knowledge Base viewer access, you will also be able to access the Q&As through **Slack!** Just type **/kb-search *security keywords*** into any Slack channel to view potential answers. A link is available to view the entries in SafeBase as well. This will be very handy especially during customer meetings when requiring a timely answer to a relevant security question.
 
 ## Maintenance and Improvements
 
-AnswerBase is a living library that is continuously being updated and expanded. As Field Security completes questionnaires within Vendorpedia, the AnswerBase libraries are updated with current and accurate answers. Field Security updates the structure and tagging within AnswerBase in an ad-hoc manner to ensure AnswerBase remains an easy to navigate and effective self-service tool for all team members.
+The knowledge base is a living library that is continuously being updated and expanded. As Field Security completes questionnaires, the the knowledge base libraries are updated with current and accurate answers. Field Security updates the structure and tagging within the knowledge base in an ad-hoc manner to ensure The knowledge base remains an easy to navigate and effective self-service tool for all team members.
 
 If you have suggestions for improvements, please reach out to Field Security via any of the contact methods listed below.
-
-## Quality Guide
-
-Please see our [AnswerBase Quality Guide]({{< ref "answerbase_quality_guide" >}}) to understand how we structure and format AnswerBase.
 
 ## Contact the Field Security Team
 
