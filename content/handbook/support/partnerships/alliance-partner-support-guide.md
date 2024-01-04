@@ -1,3 +1,9 @@
+---
+
+title: Alliance Partner Support Guide
+description: "Guide for Support Engineering on how to work with Alliance Partners"
+---
+
 ## GitLab contacts
 
   - **DRI** Tine Sørensen - Manager, Support Engineering, EMEA - @tsorensen
@@ -23,11 +29,11 @@ We do not solve issues in Slack, only in tickets. But we can reach out in the Sl
 
 ### Regular touch points
 
-We have regular meetings with our Alliance Partners' support team, to ensure collaboration works well and customers receive stellar support. Reach out to the [Alliance partner DRI](https://handbook.gitlab.com/handbook/support/alliance-partners/#gitlab-contacts) to get topics on the agenda.
+We have regular meetings with our Alliance Partners' support team, to ensure collaboration works well and customers receive stellar support. Reach out to the [Alliance partner DRI](https://handbook.gitlab.com/handbook/support/partnerships/alliance-partner-support-guide/#gitlab-contacts) to get topics on the agenda.
 
 ### ZenDesk organization
 
-Do not add anyone to Alliance Partner ZenDesk organizations. Reach out to [contacts above](https://handbook.gitlab.com/handbook/support/alliance-partners/#gitlab-contacts) if needed.
+Do not add anyone to Alliance Partner ZenDesk organizations. Reach out to [contacts above](https://handbook.gitlab.com/handbook/support/partnerships/alliance-partner-support-guide/#gitlab-contacts) if needed.
 
 ## Support Guide
 
@@ -45,7 +51,7 @@ Alliance Partner support team needs to add customer as cc when they create the t
 
 Be mindful that GitLab support process may differ from how the support team works at an Alliance Partner, which might not always be intuitive. Always [assume positive intent](https://handbook.gitlab.com/handbook/values/#assume-positive-intent).
 
-Also note that specific partners can have [special processes](https://internal.gitlab.com/handbook/support/alliance-partners/#specific-alliance-partners) (GitLab internal link, only team members can access).
+Also note that specific partners can have [special processes](https://internal.gitlab.com/handbook/support/specific-alliance-partners/) (GitLab internal link, only team members can access).
 
 ### Scope
 
