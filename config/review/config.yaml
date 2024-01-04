@@ -2,3 +2,4 @@
 canonifyURLs: false
 relativeURLs: true
 uglyURLs: true
+baseURL: https://gitlab-com.gitlab.io
