@@ -28,7 +28,7 @@ All meeting recordings are available at the [Core Team meeting Playlist](https:/
 
 ## Contacting Core Team members
 
-Core Team members can be reached by [mentioning](https://docs.gitlab.com/ee/user/group/subgroups/index.html#mentioning-subgroups) `@gitlab-org/gitlab-core-team` in issues or merge requests.
+Core Team members can be reached by [mentioning](https://docs.gitlab.com/ee/user/group/subgroups/index#mentioning-subgroups) `@gitlab-org/gitlab-core-team` in issues or merge requests.
 
 While GitLab is the primary means of contact, the Core Team can also be contacted on the [#core](https://gitlab.slack.com/messages/core) Slack channel.
 
@@ -180,7 +180,7 @@ All the channels Core Team members have access to, should follow the [SAFE guide
 
 ### Developer permissions for GitLab projects
 
-To improve their development experience, Core Team members are granted [`Developer` permissions](https://docs.gitlab.com/ee/user/permissions.html#group-members-permissions) on the [`gitlab-org` group](https://gitlab.com/gitlab-org), where the vast majority of projects for GitLab (the product) reside. For any project under that group, and among other abilities, this enables them to:
+To improve their development experience, Core Team members are granted [`Developer` permissions](https://docs.gitlab.com/ee/user/permissions#group-members-permissions) on the [`gitlab-org` group](https://gitlab.com/gitlab-org), where the vast majority of projects for GitLab (the product) reside. For any project under that group, and among other abilities, this enables them to:
 
 - Create branches on the source project instead of forks
 - Assign merge requests
@@ -199,9 +199,9 @@ This will list their profile on [the Core Team page](/community/core-team/) as w
 
 ### GitLab top tier license
 
-To enable contributions and to gain insight on GitLab capabilities, Core Team members can [request a free top tier license for development purposes](/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows.html#contributing-to-the-gitlab-enterprise-edition-ee).
+To enable contributions and to gain insight on GitLab capabilities, Core Team members can [request a free top tier license for development purposes](/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows#contributing-to-the-gitlab-enterprise-edition-ee).
 
-GitLab top tier licenses in SaaS or self-managed instances are granted to Core Team members for 1 year and can be renewed for another year during the Core Team member term. If a member decides to step down but still wishes to contribute to GitLab occasionally, they will still be eligible for a GitLab license, but the renewal period will be the [standard 3 months given to other GitLab community members](/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows.html#contributing-to-the-gitlab-enterprise-edition-ee).
+GitLab top tier licenses in SaaS or self-managed instances are granted to Core Team members for 1 year and can be renewed for another year during the Core Team member term. If a member decides to step down but still wishes to contribute to GitLab occasionally, they will still be eligible for a GitLab license, but the renewal period will be the [standard 3 months given to other GitLab community members](/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows#contributing-to-the-gitlab-enterprise-edition-ee).
 
 There is no specific limit on the number of seats that Core Team members can request. We trust Core Team members to use their own judgement to estimate the number of users they will need for development purposes, and not to use the license for for-profit purposes.
 
