@@ -133,22 +133,6 @@ Our sub-department's work can span over 10k+ issues hence as a result, we have s
 
 [This board](https://gitlab.com/groups/gitlab-org/-/boards/1512645?label_name[]=Quality) shows the current ownership of workload / issues related to testing and tooling needs to support feature development within Core Development and Expansion Development department.
 
-### Workflow Labels
-
-Issues and epics should always use one of the following workflow labels:
-
-| Label | Description |
-| --- | --- |
-| `workflow-test-platform::Triage`   | Applied to all new issues automatically.  It indicates that the issue has not yet been reviewed by the team. <br>**Note**: This label should not be used on epics. |
-| `workflow-test-platform::Proposal` | Applied when an issue or epic requires discussion, input or review. This label should be used when there there is not enough scope defined to begin work. |
-| `workflow-test-platform::Ready`    | Applied after triage, for any work in an issue or epic that is ready to start but is not yet scheduled. It should be clear what needs to be done in the epic or issue. If there are no immediate tasks because it requires more discussion, use the `workflow-test-platform::Proposal` label |
-| `workflow-test-platform::In Progress` | Applied _only_ after the issue has a Test Platform Team member as an assignee or a DRI assigned for an epic.  It is meant to represent work that is actively in-progress and not to indicate that an issue will be worked on in the future. |
-| `workflow-test-platform::Blocked` | Applied when an issue or epic cannot proceed because it is waiting on other tasks to complete. All blocked work should have a clear description about why it is blocked with a related issue that can be tracked. |
-| `workflow-test-platform::Stalled` | Applied when an issue was in-progress, but work has stopped due to unrelated priority shifts. All stalled work should have a clear description about why it is stalled with a related issue that can be tracked. |
-| `workflow-test-platform::Cancelled` | Applied when closing incomplete work because it is decided that no more will be done on an issue or epic. |
-| `workflow-test-platform::Done` | Applied when an issue or epic has been closed and the work is complete. |
-
-
 ## How to use the boards
 
 Each project planning, scheduling and triaging process will happen in the team boards.
