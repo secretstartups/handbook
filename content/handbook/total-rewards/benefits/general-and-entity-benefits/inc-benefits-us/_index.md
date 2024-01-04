@@ -531,7 +531,7 @@ Effective 2024, GitLab offers access to 529 plan investments to US team members 
 
 To learn more visit ScholarShare529.com/employer or email: workplace529@scholarshare.com
 
-Enroll anytime at [ScholarShare529](ScholarShare529.com) or call 800-544-5248.
+Enroll anytime at [ScholarShare529](https://www.ScholarShare529.com) or call 800-544-5248.
 [ScholarShare Flyer Guide](https://drive.google.com/file/d/1D3k31fDxkeks7XigTa_Cn0_itIYoQW1A/view?usp=sharing) & [529 Overview](https://drive.google.com/file/d/1GXAdVLVJLsruj-2s9twpQ3p1c6CzOAFn/view?usp=sharing).  
 
 Want more information?
