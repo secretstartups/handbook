@@ -277,13 +277,13 @@ Of course, you'll also attend meetings that the CEO attends. During meetings, yo
 1. Publicly advise when people are not following the [communication guidelines]({{< ref communication >}}) ([see more details below.](#promote-communication-best-practices)). For example, remind team members to stop screen sharing to encourage communication.
 1. Share [thanks]({{< ref "communication#say-thanks" >}}) in the `#thanks` channel in Slack when it comes from a customer or wider community member in a meeting.
 1. Speak up when the [CEO displays flawed behavior]({{< ref "ceo#flaws ">}}").
-1. Immediately following meetings, score the CEO on overall positivity score in the `Positivity Score` google sheet shared with `ceo-shadow@gitlab.com`. Each shadow should give a score for all meetings attended. Scores can range from 1 (the least positive someone could respectfully be) to 5 (CEO was highly engaged, reactions were authentically positive), focused on the CEO's presence and reactions during the meeting. At the end of the day, post the score for each meeting to the `#ceo-shadow-private` Slack channel and `@` mention the CEO.
+1. Immediately following meetings, score the CEO on overall positivity score from 1 to 5. The score should focus on the CEO's presence and reactions during the meeting. The Shadows should put themselves in the shoes of team members who are in attendance. How positive and empowered would they feel after leaving the meeting? Each shadow should give a score for all meetings attended. At the end of the day, post the score for each meeting to the `#ceo-shadow-private` Slack channel and `@` mention the CEO.
   - Score definitions:
-    - `1`: the least positive someone could respectfully be; not at all engaged, reactions were not positive
-    - `2`: was not very engaged, reactions could have been more positive
-    - `3`: Engagement was neither positive, nor negative. Reactions were neutral
-    - `4`: was engaged, reactions were mostly positive
-    - `5`: was highly engaged, reactions were authentically positive
+    - `1`: reactions were not positive, the least positive someone could respectfully be
+    - `2`: reactions were generally not positive, could have been more positive
+    - `3`: reactions were neutral, or neutral on the balance, being a mix of positive and not positive
+    - `4`: reactions were mostly positive
+    - `5`: reactions were authentically positive
 
 #### Collecting and managing tasks
 
