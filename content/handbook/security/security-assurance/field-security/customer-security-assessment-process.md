@@ -19,10 +19,16 @@ It's no surprise that GitLab Customers and Prospects conduct Security due dilige
 
 ### **GitLab Team Members**
 
-We will start all CAA requests (with the exception of Contract Reviews) by sharing the Trust Center with the customer. The Trust Center will answer many of the customers questions and will enable us to provide the customer with a more efficient and comprehensive experience. Please select the appropriate box for your request below, it will direct you to an issue template on our board.
+We will start all CAA requests (with the exception of Contract Reviews) by **sharing the Trust Center with the customer**. The Trust Center will answer many of the customers questions and will enable us to provide the customer with a more efficient and comprehensive experience. 
 Please be sure to complete **all** of the requested information in the template, and please reach out to us in #sec-fieldsecurity with any questions.
 
 **Please do not assign the issue. Field Security will assign the issue to the appropriate team member. Thank you!**
+
+### For Questionnaires
+
+The process will be directly be handled in SafeBase. Customers/prospects who have access to the [Trust Center](https://trust.gitlab.com) can directly upload questionnaires from there by clicking the *upload link* in the message top at the top of the Trust Center.
+
+For GitLab internal team members, on a given SafeBase account page, a new questionnaire file or link can be added to the account to be picked up by the Field Security team if it respects the conditions (ARR threshold, etc.)
 
 ### For Customer Calls and General Requests
 
@@ -52,7 +58,7 @@ The Field Security Team also maintains the following resources for **GitLab Team
 
 ### Knowledge Base
 
-For information on how Field Security uses AnswerBase and how it can support your workflows, please visit our [Knowledge Base]({{< ref "knowledge_base" >}}) page.
+For information on how Field Security uses SafeBase and how it can support your workflows, please visit our [Knowledge Base]({{< ref "knowledge_base" >}}) page.
 
 ### Feedback from Field Security
 
