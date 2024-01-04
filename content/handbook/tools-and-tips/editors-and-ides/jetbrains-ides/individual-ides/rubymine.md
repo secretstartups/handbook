@@ -88,3 +88,7 @@ If you want to add more schemas from `config/database.yml`:
 1. Right click on top level of database, and view `Properties` (or the "wrench" button)
 1. Go to the `Schemas` tab
 1. Select the schemas you want.
+
+## Miscellaneous
+
+- To enable "Navigate to Test" (<kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>t</kbd>) for EE code, right click on `ee/spec` directory and choose "Mark Directory As...", "Test Sources".
