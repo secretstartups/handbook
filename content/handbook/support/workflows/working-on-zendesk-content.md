@@ -23,7 +23,7 @@ Whether you're proposing minor changes directly or something bigger following an
 
 ### Macros
 
-Macros are [deployed immediately](../readiness/operations/docs/change_managment/#zendesk-macros-change-management) and thus require review from Support Operations.
+Macros are [deployed immediately](../readiness/operations/docs/change_management/#zendesk-macros-change-management) and thus require review from Support Operations.
 
 For information on macros, please see [Zendesk Global Macros](/handbook/support/readiness/operations/docs/zendesk/macros/).
 
