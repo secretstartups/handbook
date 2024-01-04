@@ -27,7 +27,7 @@ description: "A page containing links to helpful CI resources for the CSM team a
   <tr>
     <td>Migration</td>
     <td><ul><li><a href="https://about.gitlab.com/services/catalog/">PS Offerings</a></li>
-    <td><ul><li><a href="https://about.gitlab.com/blog/2023/11/01/jenkins-gitlab-ultimate-guide-to-modernizing-cicd-environment/">Jenkins to GitLab: The ultimate guide to modernizing your CI/CD environment</a></li>
+    <li><a href="https://about.gitlab.com/blog/2023/11/01/jenkins-gitlab-ultimate-guide-to-modernizing-cicd-environment/">Jenkins to GitLab: The ultimate guide to modernizing your CI/CD environment</a></li>
     <li><a href="https://about.gitlab.com/services/catalog/">PS Offerings</a></li>
     <li>Migration guidance from 4 different CI tools (<a href="https://docs.gitlab.com/ee/ci/migration/bamboo.html">Bamboo</a>, <a href="https://docs.gitlab.com/ee/ci/migration/github_actions.html">GitHub Actions</a>, <a href="https://docs.gitlab.com/ee/ci/migration/jenkins.html">Jenkins</a>, <a href="https://docs.gitlab.com/ee/ci/migration/circleci.html">CircleCI</a>)</li></ul></td>
   </tr>
