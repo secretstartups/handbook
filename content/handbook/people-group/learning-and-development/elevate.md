@@ -62,7 +62,7 @@ After you complete Module 5, team members will attend a pre-certification coachi
 
 The intention of this session is to allow space to practice and ask questions about what certification will look and feel like.
 
-To prepare for your pre-certification coaching session, review instructions outlined [here](https://docs.google.com/document/d/1Jt_7xyoA8D_2pqWCVGHAwv1YkLBrzTWy7Q0vXZ1J384/edit?usp=drive_link).
+To prepare for your pre-certification coaching session, review instructions outlined [here](https://docs.google.com/document/d/1fLywGTJHZppgZBoV6QbucXTc8UNxjUB_VbDiU9MPn3A/edit).
 
 Starting with Round 3, pre-certification coaching sessions are required. For Round 2, they are optional.
 
@@ -77,9 +77,9 @@ The certification for Elevate is not meant to be scary! It's a time to demonstra
 **Elevate Participant Action Items:**
 
 1. Sign up for a 50 minute certification session that works for your schedule. The sign up issue for your cohort will be shared in Slack.
-1. Review the 4 scenarios that you might be asked about in the session [here](https://docs.google.com/document/d/11Pbp7R0s0uR6xJ1IMbcFKPyGLtpyz-2NHauviDTV1fQ/edit?usp=drive_link).
-1. Make a copy of the [Elevate Tools and Frameworks resource](https://docs.google.com/document/d/1lHX1Hz8LlSrwdzXBJxalLfzyzU94QnzcWQkdmpPhdP8/edit?usp=drive_link) for your own note take and certification prep.
-1. Understand how your performance will be assessed by reviewing the grading rubric [here](https://docs.google.com/document/d/1o-NggrHovX-aUgAqxPIIHF-rAPvMdx3myu6bYqhFKys/edit?usp=drive_link)
+1. Review the 4 scenarios that you might be asked about in the session [here](https://docs.google.com/document/d/1vugl8dAeEIX3UxMCIusgG3_HDH6QEABenIf72y83ujg/edit).
+1. Make a copy of the [Elevate Tools and Frameworks resource](https://docs.google.com/document/d/1o-JbkF7uB0pQmf1NJcuZkmak3s-eXaMxo_BL1bIlCPU/edit) for your own note take and certification prep.
+1. Understand how your performance will be assessed by reviewing the grading rubric [here](https://docs.google.com/document/d/1jzbJ-7aa9Qwn6fv111pKLJ6llYg7z_tPCx-O3mWQi2c/edit)
 1. Practice and ask questions in you cohort Slack channel
 
 **What to expect in the certification session:**
