@@ -87,7 +87,7 @@ flowchart LR
     DE --> Deployments
     DE --> Releases
     SP --> Ops
-    click OPs "/handbook/engineering/infrastructure/team/ops/"
+    click Ops "/handbook/engineering/infrastructure/team/ops/"
     SP --> Foundations
     click Foundations "/handbook/engineering/infrastructure/team/foundations/"
     SP --> Scalability
