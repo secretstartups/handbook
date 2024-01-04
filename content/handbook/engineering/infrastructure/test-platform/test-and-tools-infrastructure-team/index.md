@@ -126,7 +126,7 @@ graph LR
 
 ### Roadmap Planning
 
-Cadence: Quarterly
+Cadence: Planned yearly, reviewed quarterly
 
 #### Pre-work and departmental sign-off
 
