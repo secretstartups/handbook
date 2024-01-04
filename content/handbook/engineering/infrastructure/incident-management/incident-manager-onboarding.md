@@ -44,7 +44,7 @@ It is more efficient to staff Incident Manager roles with fewer, but frequently 
 
 Special Coverage Days will be designated by creation of an Issue. The Issue will indicate the approach to scheduling for the specific event and will provide a table for volunteers to add their name. A DRI will be clearly noted and will be responsible for transferring the resulting coverage to PagerDuty. 
 
-During period with Special Coverage, indicated in the issue, Pager Duty schedule is void - incident managers are not expected to follow the PD schedule, however they are expected tocollaborate DRI to provide full coverage for the given period.
+During period with Special Coverage, indicated in the issue, Pager Duty schedule is void - incident managers are not expected to follow the PD schedule, however they are expected to collaborate DRI to provide full coverage for the given period.
 
 ### Onboard as an Incident Manager
 To onboard, [create an Incident Manager onboarding issue](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/new?issuable_template=onboarding-im).
