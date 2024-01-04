@@ -53,7 +53,7 @@ Each PS Engagement will include a Project Plan based on the activities outlined 
 7. PS Operations: If the Project Manager has not yet had the Project Prep meeting, then PS Ops will send [Welcome email](https://docs.google.com/document/d/1je9dqVJpFFMv7aw9WhPeQ8aufx6Sj3OZveqaHHd212w/edit?usp=sharing) and [existing customer initiation email](https://docs.google.com/document/d/1eNPXLmstMLoatpOBIhxrJgnPFgqYByPaJoFQRd2kz9U/edit?usp=sharing)
 6. Project Lead: Begins planning the project
    - Completes the PS Customer Success Planning issue template, located in the customer Epic
-   - [PS Customer Success Planning Meeting](https://docs.google.com/document/d/1fOmBxXf9MqYHQ8LZD5nIepu5WcFeTiwss59RJbd3BWE/edit?usp=sharing) (PM, Engagement Manager, PSE, and/or Technical Architect and the account team)
+   - [PS Project Success Planning Meeting](https://docs.google.com/document/d/1fOmBxXf9MqYHQ8LZD5nIepu5WcFeTiwss59RJbd3BWE/edit?usp=sharing) (PM, Engagement Manager, PSE, and/or Technical Architect and the account team)
    - If a CSM is assigned, follow [these steps](/handbook/customer-success/csm/engaging-with-ps/) outlining the engagement guidelines, throughout the customer project
    - Submit resource request via Kantata to match the mutually agreed upon customer project schedule
 
