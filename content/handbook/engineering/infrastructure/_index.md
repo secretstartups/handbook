@@ -13,6 +13,10 @@ These responsibilities have cost efficiency as an additional driving force, rein
 Many other teams also contribute to the success of the SaaS platform because [GitLab.com is not a role](/handbook/company/team/structure/#gitlabcom-isnt-a-role).
 However, it is the responsibility of the Infrastructure Department to drive the ongoing evolution of the SaaS platform, enabled by platform observability data.
 
+## Getting Assistance
+
+If you’re a GitLab team member and are looking to alert the Infrastructure teams about an availability issue with GitLab.com, please find quick instructions to report an incident here: [Reporting an Incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident).
+
 ## Vision
 
 The Infrastructure Department operates a fast, secure, and reliable SaaS platform to which (and with which) [everyone can contribute][contribute].
@@ -83,7 +87,9 @@ flowchart LR
     DE --> Deployments
     DE --> Releases
     SP --> Ops
+    click OPs "/handbook/engineering/infrastructure/team/ops/"
     SP --> Foundations
+    click Foundations "/handbook/engineering/infrastructure/team/foundations/"
     SP --> Scalability
     click Scalability "/handbook/engineering/infrastructure/team/scalability/"
     Scalability --> Observability
@@ -171,7 +177,8 @@ The Infrastructure department hires for a number of different technical speciali
 
 ## Other Pages
 
-- [On-call Handover](/handbook/engineering/infrastructure/team/reliability/on-call-handover/)
+- [On-call Handover](/handbook/engineering/infrastructure/team/ops/on-call-handover/)
+- [SRE Onboarding](/handbook/engineering/infrastructure/team/ops/sre-onboarding/)
 - [GitLab.com data breach notification policy](/security/#data-breach-notification-policy)
 - [Infrastructure careers and internships][interning]
 - [Coding at scale](/handbook/engineering/infrastructure/coding-at-scale/)
