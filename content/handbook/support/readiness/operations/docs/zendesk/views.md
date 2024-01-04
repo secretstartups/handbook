@@ -85,11 +85,51 @@ graph TD;
 
 #### Zendesk US Government
 
-We currently utilize a [v1 sync repo](../../change_management/sync_repos#v1) for
-manages macros in Zendesk Global.
+We currently utilize a [v2 sync repo](../../change_management/sync_repos#v2) for
+managing automations in Zendesk Global.
 
-The project that makes this work is
-[here](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/views)
+The two projects that make this work are:
+
+- [Support managed content project](https://gitlab.com/gitlab-com/support/zendesk-us-government/views)
+- [Sync repo project](https://gitlab.com/gitlab-support-readiness/zendesk-us-government/views)
+
+Deployments are done on the 1st of each month at 0000 UTC.
+
+The basic process for management of triggers would be:
+
+```mermaid
+graph TD;
+  A -->|Columns, sorting, grouping modification| B
+  A -->|Anything else| E
+  B --> C
+  C --> D
+  D --> I
+  E --> F
+  F -->|Conditions modification| G
+  F -->|Creation| K
+  F -->|Deactivation| N
+  G --> H
+  H --> I
+  I --> J
+  K --> L
+  L --> M
+  M --> G
+  N --> G
+  A{What kind of change is it?}
+  B[Merge request created<br>in Support managed<br>content project]
+  C[Support Manager reviews,<br>approves, and merges<br>the changes]
+  D[Webhook fires to trigger<br>submodule update on<br>sync repo project]
+  E[support-team-meta issue is created]
+  F{Support Readiness determines<br>actions needed}
+  G[Support Readiness creates<br>merge request in<br>sync repo project]
+  H[Support Readiness reviews,<br>approves, and merges<br>the changes]
+  I[Commit is made on default<br>branch of sync repo project]
+  J[Sync scripts perform updates to<br>Zendesk during next deployment]
+  K[Support Readiness creates<br>placeholder view in Zendesk]
+  L[Support Readiness creates<br>merge request in Support<br>managed content project]
+  M[Support Manager reviews,<br>approves, and merges<br>the changes]
+  N[Support Readiness tells<br>Support to move the file<br>in the Support managed<br>content project after a<br>specific date]
+```
 
 ## Performing actions in Zendesk
 
