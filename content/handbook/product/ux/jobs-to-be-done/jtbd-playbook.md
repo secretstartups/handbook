@@ -4,7 +4,7 @@ description: >-
   GitLab follows a series of steps and exercises to discover and develop job canvases from basic assumptions all the way to validated and ranked outcomes and opportunities.
 ---
 
-How we conduct JTBD research at GitLab follows a process (outlined below), closely mirroring the [JTBD Playbook by Jim Kalbach](https://www.amazon.com/Jobs-Be-Done-Playbook-Organization/dp/1933820683/ref=sr_1_1?hvadid=589897626135&hvdev=c&hvlocphy=9031237&hvnetw=g&hvqmt=e&hvrand=12931916200397110223&hvtargid=kwd-962517945317&hydadcr=21723_13345240&keywords=jobs+to+be+done+playbook&qid=1698425662&sr=8-1). The playbook takes teams from basic assumptions all the way to a list of ranked outcomes that your customers care about the most. Going through this process can be hugely beneficial for a team and we have done a lot of the heavy lifting for you. It is **highly recommended** to have a UX Researcher, or someone knowledgeable in JTBD practice, as the DRI to drive this effort for your team. 
+How we conduct JTBD research at GitLab follows a process closely mirroring the [JTBD Playbook by Jim Kalbach](https://www.amazon.com/Jobs-Be-Done-Playbook-Organization/dp/1933820683/ref=sr_1_1?hvadid=589897626135&hvdev=c&hvlocphy=9031237&hvnetw=g&hvqmt=e&hvrand=12931916200397110223&hvtargid=kwd-962517945317&hydadcr=21723_13345240&keywords=jobs+to+be+done+playbook&qid=1698425662&sr=8-1). The playbook takes teams from basic assumptions all the way to a list of ranked outcomes that your customers care about the most. Going through this process can be hugely beneficial for a team and we have done a lot of the heavy lifting for you. It is **highly recommended** to have a UX Researcher, or someone knowledgeable in JTBD practice, as the DRI to drive this effort for your team. 
 
 Use this playbook to complete your JTBD canvases. For more information on each part of the canvas, refer to [anatomy of a JTBD canvas](handbook/product/ux/jobs-to-be-done/#anatomy-of-a-jtbd-canvas).  
 
@@ -22,13 +22,13 @@ Note: It often makes sense to go through these steps and examine several main jo
 
 Once you’ve landed on the main job and job performer, start a **JTBD canvas**. [Here’s a link to the FigJam template](https://www.figma.com/file/Z4lsAOLH1ANN3pstQFYgSk/Jobs-to-be-done----Playbook-Template?type=whiteboard&node-id=0%3A1&t=oMR9VPNke7aIfCoU-1) that has the initial assumptive canvas to fill out as well as spots for the rest of the steps in the Playbook.
 
-Step 0 in the template explains each part of the JTBD canvas (as well as [this section in the handbook](handbook/product/ux/jobs-to-be-done/#anatomy-of-a-jtbd-canvas)), and has some detailed instructions for this first stage of documenting your assumptions regarding the main job (which is why we call it an ‘assumptive’ JTBD canvas). 
+Step 0 in the template explains each part of the JTBD canvas (as does [this section in the handbook](handbook/product/ux/jobs-to-be-done/#anatomy-of-a-jtbd-canvas)), and has some detailed instructions for this first stage of documenting your assumptions regarding the main job (which is why we call it an ‘assumptive’ JTBD canvas). 
 
 ## Step 3: Conduct Interviews
 
-Create a new canvas for each interview. It’s recommended to have a moderator and a notetaker, where the notetaker is in charge of filling out the canvas while the participant and moderator are talking. Good practice is to show the canvas your notetaker filled out to the participant at the end of the interview, to confirm that you recorded their actions accurately. We recommend 5 interviews, each for an hour. If you see a lot of variance in jobs, talk to more participants until patterns start to become evident.
+Recruit a few (3-5) people who perform the main job you're investigating. Create a new copy of your assumptive canvas for each interview. It’s recommended to have a moderator and a notetaker, where the notetaker is in charge of filling out the canvas while the participant and moderator are talking. Good practice is to show the canvas your notetaker filled out to the participant at the end of the interview, to confirm that you recorded their actions accurately. We recommend 5 interviews, each for an hour. If you see a lot of variance in jobs, talk to more participants until patterns start to become evident.
 
-There is an[ interview guide](https://www.figma.com/file/Z4lsAOLH1ANN3pstQFYgSk/Jobs-to-be-done----Playbook-Template?type=whiteboard&node-id=78-2318&t=oMR9VPNke7aIfCoU-4) included in the FigJam template. The goal of the interviews is to enable the job performers to tell you how and why they do the job. What are the [job steps](handbook/product/ux/jobs-to-be-done/#job-steps-how-does-the-job-performer-get-the-job-done)? [Desired outcomes](handbook/product/ux/jobs-to-be-done/#outcomes-how-does-the-job-performer-measure-the-success-of-getting-the-job-done)? [Related jobs](handbook/product/ux/jobs-to-be-done/#related-jobs-what-else-is-the-job-performer-trying-to-get-done)? [Circumstances](handbook/product/ux/jobs-to-be-done/#circumstances-what-are-the-factors-or-condictions-that-make-a-difference-in-how-the-job-gets-done)?
+There is an [interview guide](https://www.figma.com/file/Z4lsAOLH1ANN3pstQFYgSk/Jobs-to-be-done----Playbook-Template?type=whiteboard&node-id=78-2318&t=oMR9VPNke7aIfCoU-4) included in the FigJam template. The goal of the interviews is to enable the job performers to tell you how and why they do the job. What are the [job steps](handbook/product/ux/jobs-to-be-done/#job-steps-how-does-the-job-performer-get-the-job-done)? [Desired outcomes](handbook/product/ux/jobs-to-be-done/#outcomes-how-does-the-job-performer-measure-the-success-of-getting-the-job-done)? [Related jobs](handbook/product/ux/jobs-to-be-done/#related-jobs-what-else-is-the-job-performer-trying-to-get-done)? [Circumstances](handbook/product/ux/jobs-to-be-done/#circumstances-what-are-the-factors-or-condictions-that-make-a-difference-in-how-the-job-gets-done)?
 
 ## Step 4: Synthesize
 
@@ -38,7 +38,7 @@ From the various interview canvases, create a single, synthesized canvas that be
 
 It’s now time to take your synthesized canvas and put it to the test with external participants. You’ll need to conduct another round of interviews (between 5 and 10 in total), who perform your main job as one of their main jobs (you can screen for this). Note: If you’re hearing the same things over and over without gaining new insights, you can stop interviewing new participants.
 
-These interviews can be more of a show and tell. You can share your synthesized canvas with the participant, and have them go through it and comment. What’s missing? What is unclear? What tasks do they not do? What unique circumstances do they have? At the end, you should have a solid idea of what the ‘core’ of your job performer canvas looks like. [add link to interview guide](link)
+These interviews can be more of a show and tell. You can share your synthesized canvas with the participant, and have them go through it and comment. What’s missing? What is unclear? What tasks do they not do? What unique circumstances do they have? At the end, you should have a solid idea of what the ‘core’ of your job performer canvas looks like. <!-- TODO: [add link to interview guide](link) -->
 
 ## Step 6: Construct Outcome Statements
 
@@ -106,3 +106,5 @@ The result of the workshop should be that the team understands the top opportuni
 You and your team now have a list of the most important areas to focus on - a list that you can share with other teams and stakeholders (even customers!) to help bring clarity and confidence to your product roadmap. 
 
 The list of opportunities will remain relevant for a long time (until you release changes to your product that address the opportunities), because they aren’t based on particular features or solutions, but larger outcomes that users want to achieve. Re-survey your job performers about certain outcome statements after your team has made some changes, in order to see if the opportunity score has decreased (meaning you’ve made positive progress to fulfilling the desired outcome).
+
+<!-- TODO: Connect to UX Themes (in a future MR)>

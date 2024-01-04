@@ -6,7 +6,7 @@ description: >-
 
 This page acts as the single source of truth for the record of Jobs to be Done canvases that have completed the GitLab Playbook process.
 
-For each canvas / job performer we list each outcome statment that received a score of 10 or higher. As a reminder, we perceive opportunity score as having a severity as explained in [this table](link)
+For each canvas / job performer we list each outcome statment that received a score of 10 or higher. As a reminder, we perceive opportunity score as having a severity as explained at the end of the [determine opportunity scores section of the playbook](/handbook/product/ux/jobs-to-be-done/jtbd-playbook/#step-7-determine-opportunity-scores).
 
 ## Code Author
 
