@@ -1,17 +1,16 @@
 ---
-title: How we do JTBD research at GitLab: A Playbook
+title: How we do JTBD research at GitLab (A Playbook)
 description: >-
   GitLab follows a series of steps and exercises to discover and develop job canvases from basic assumptions all the way to validated and ranked outcomes and opportunities.
 ---
 
 How we conduct JTBD research at GitLab follows a process (outlined below), closely mirroring the [JTBD Playbook by Jim Kalbach](https://www.amazon.com/Jobs-Be-Done-Playbook-Organization/dp/1933820683/ref=sr_1_1?hvadid=589897626135&hvdev=c&hvlocphy=9031237&hvnetw=g&hvqmt=e&hvrand=12931916200397110223&hvtargid=kwd-962517945317&hydadcr=21723_13345240&keywords=jobs+to+be+done+playbook&qid=1698425662&sr=8-1). The playbook takes teams from basic assumptions all the way to a list of ranked outcomes that your customers care about the most. Going through this process can be hugely beneficial for a team and we have done a lot of the heavy lifting for you. It is **highly recommended** to have a UX Researcher, or someone knowledgeable in JTBD practice, as the DRI to drive this effort for your team. 
 
-Use this playbook to complete your JTBD canvases. For more information on each part of the canvas, refer to [anatomy of a JTBD canvas].  
+Use this playbook to complete your JTBD canvases. For more information on each part of the canvas, refer to [anatomy of a JTBD canvas](handbook/product/ux/jobs-to-be-done/#anatomy-of-a-jtbd-canvas).  
 
 The time it takes to run through the entire playbook process can vary a lot, depending on factors such as how many jobs you’re examining, the complexity and variance within those jobs, and your team’s familiarity with JTBD. We recommend budgeting at least one full quarter to devote to this effort. 
 
-
-This page covers the 'how' of Jobs to be Done. For more on 'what' Jobs to be Done is, head over to the [main page](handbook/product/ux/jobs-to-be-done/).
+This page covers the _how_ of Jobs to be Done. For more on _what_ Jobs to be Done _is_, head over to the [main page](handbook/product/ux/jobs-to-be-done/).
 
 ## Step 1: Pick your job performer and main job
 
@@ -29,7 +28,7 @@ Step 0 in the template explains each part of the JTBD canvas (as well as [this s
 
 Create a new canvas for each interview. It’s recommended to have a moderator and a notetaker, where the notetaker is in charge of filling out the canvas while the participant and moderator are talking. Good practice is to show the canvas your notetaker filled out to the participant at the end of the interview, to confirm that you recorded their actions accurately. We recommend 5 interviews, each for an hour. If you see a lot of variance in jobs, talk to more participants until patterns start to become evident.
 
-There is an[ interview guide](https://www.figma.com/file/Z4lsAOLH1ANN3pstQFYgSk/Jobs-to-be-done----Playbook-Template?type=whiteboard&node-id=78-2318&t=oMR9VPNke7aIfCoU-4) included in the FigJam template. The goal of the interviews is to enable the job performers to tell you how and why they do the job (i.e., What are the job steps[link]? Desired outcomes[link]? Related jobs[link]? Circumstances[link]?)
+There is an[ interview guide](https://www.figma.com/file/Z4lsAOLH1ANN3pstQFYgSk/Jobs-to-be-done----Playbook-Template?type=whiteboard&node-id=78-2318&t=oMR9VPNke7aIfCoU-4) included in the FigJam template. The goal of the interviews is to enable the job performers to tell you how and why they do the job. What are the [job steps](handbook/product/ux/jobs-to-be-done/#job-steps-how-does-the-job-performer-get-the-job-done)? [Desired outcomes](handbook/product/ux/jobs-to-be-done/#outcomes-how-does-the-job-performer-measure-the-success-of-getting-the-job-done)? [Related jobs](handbook/product/ux/jobs-to-be-done/#related-jobs-what-else-is-the-job-performer-trying-to-get-done)? [Circumstances](handbook/product/ux/jobs-to-be-done/#circumstances-what-are-the-factors-or-condictions-that-make-a-difference-in-how-the-job-gets-done)?
 
 ## Step 4: Synthesize
 
@@ -43,7 +42,7 @@ These interviews can be more of a show and tell. You can share your synthesized 
 
 ## Step 6: Construct Outcome Statements
 
-For each job step in your validated job map, construct an outcome statement. An outcome statement represents how your job performer might judge the success of a particular job step, (i.e., what the job performer needs to accomplish). Check the handbook section[link] for more on how to construct an outcome statement.
+For each job step in your validated job map, construct an outcome statement. An outcome statement represents how your job performer might judge the success of a particular job step, (i.e., what the job performer needs to accomplish). Check the [handbook section](handbook/product/ux/jobs-to-be-done/#outcomes-how-does-the-job-performer-measure-the-success-of-getting-the-job-done) for more on how to construct an outcome statement.
 
 Note: Your main job will have roughly 1-5 outcome statements, and you will also have more specific outcome statements for each job step, and/or for each micro job. 
 
@@ -85,10 +84,10 @@ If all the scores on your survey are less than 10, that’s great - but remember
 
 | Opportunity Score | Severity | 
 | ----- | ----------- | 
-| 16-20    | Act immeditately - house is on fire!    | 
-| 10-15    | Prioritize as soon as possible    | 
-| 7-9    | Keep on eye on   | 
-| 6 or below    | Probably not a priority right now   | 
+| 16-20 | Act immeditately - house is on fire! | 
+| 10-15 | Prioritize as soon as possible | 
+| 7-9  | Keep on eye on   | 
+| 6 or below | Probably not a priority right now | 
 
 
 ### Align on Ranked Outcomes: Workshop
