@@ -848,6 +848,74 @@ To make sure that the hand-offs maximize internal efficiencies, it is required t
      - When kicking off the call, summarize the BDR research and reason for reaching out, such compelling events, Persons with LIM, etc
      - After prospect acknowledges their compelling event and internal situation, discovery call continues with pre agreed upon structure with AE.
 
+### Shared BDR-AE-SA Demos
+
+Organizing a shared demo makes it more simple for us to offer spontaneously a demonstration of GitLab, which should result in a easier handover of opps, and ease to create opps. As BDRs, we arranged the execution of this demo by creating a zoom webinar, and configuring the whole event so that the administrative side is automated.
+
+#### Process For Running a Group Demo
+
+1. Define the criteria that qualifies an opportunity as eligible to go to a shared demo.
+
+- **SAL/AE is involved only:** The SAL can invite his/her/their customers or contacts in order to add value to their ongoing discussion, if the AE/SAL finds it relevant. This is in the context of a conversation with the prospect/customer.
+
+- **SAL/AE and BDR are involved**: the BDR schedules a discovery meeting with the SAL (whether it is a prospect or customer) that generates a qualified opportunity. Once the opportunity is created, the SAL/BDR suggests the shared demo instead of the individual demo based on the priority of the opportunity (importance of the account, number of licenses, amount of the opportunity, persona). This is in the context of a conversation with the prospect/customer. There needs to be an opportunity in this case to suggest the demo, for the sake of collaboration between the SAL and the BDR.
+
+- **BDR is involved only**: When a lead with decision power or significant influence in the org (no individual contributor) expresses a high interest for GitLab (aka: high read/open rates on an email, response received by phone with interest confirmed) AND when the BDR has a tangible reason to think that there is a need in the division/team/company (research, information obtained through other leads in the same org), the BDR can leverage the shared demo for HOT leads to create interest or a sense of urgency, the goal being to have the lead jump on an introductory meeting after the shared demo."
+
+2. Define the criteria for different groups of attendees who can join this demo: 
+
+- **Attendees coming from a BDR conversation:** in order to attend a demo, this attendee needs to be part of an opportunity in at least stage 1- Discovery. 
+
+- **Attendees coming from the AE’s conversations:** the AE can leverage this shared demo to invite his own contacts. 
+
+3. Step-by-step guide to plan a demo:
+
+- Get a Zoom Webinars license: you don’t have a Webinar licence by default, so you need to open an access request issue on GitLab to ask for one: here.
+
+- Go on Zoom SSO > Webinars (on the left under Meetings) > Schedule a webinar. You will be able to save the entire configuration of the webinar as a template, in order not to set it up again.
+
+- Change the topic (this will be the title of your demo, and the name of the event on Google Calendar), the description (describes the content of the demo, the idea is to adapt the focus of the demo depending on your attendees), set the date/time of the demo, and the duration (note that setting a certain duration will not stop the zoom webinar once the time has gone). 
+
+- Tick the box ‘Required’ next to registration. 
+
+- You can change the Dial country to the country of the demo attendees if the demo is language specific. 
+
+- In the Option Category, tick the following: Q&A, Automatically record webinar, Include email address in attendee report. 
+
+- In the Alternative Hosts category, put your SAL and your Solutions Architect. 
+
+- Click on ‘Schedule’ 
+
+- In order to add the event on your calendar, click on the calendar button next to ‘Time’
+
+- Now you can start changing a few settings. Let’s start with the configuration of the registrations. First go on ‘Invitations’ and click on Edit next to Registration Settings:
+
+- You can choose to manually or automatically approve. Automatic approval is advised. 
+
+- You can tick ‘Send an email to host when someone registers’
+
+- Then go on Questions next to ‘registration’ (same window). Here you can set the fields asked in the registration form. Email and first name are already there by default. You can tick: Last Name, Organization and Title, and tick the box ‘Required’ for each. 
+
+- Lastly, go on Custom Questions and create a new question to ask: “what are your expectations for this demo? What do you want to see?” or something that gives an idea to the SA of what are the attendees' expectations (configure the question as ‘Short answer’). 
+
+- Let’s change general settings. Go on Email settings and change: 
+
+- The email language if your demo is delivered in another language than English. It will automatically change the language of your reminder/follow-up emails/confirmation emails. 
+
+- Email contact set as: you as a BDR or another person, as your team prefers. 
+
+- Confirmation email to registrants: you can add another subject and/or a little paragraph in addition to the event information. 
+
+- Reminder email: you can choose to send one or several, 1 hour and/or 1 day and/or 1 week before the event starts. Change the subject and/or add a little paragraph. 
+
+- You can activate follow-up emails to attendees, and choose the subject + how much time after the demo the email will be sent + the paragraph to be sent (you can add resources that are relevant to the content of the demo that was delivered). 
+
+- You can also activate a follow-up email to absentees. 
+
+- Go to Q&A : a few boxes are already ticked already (attendees can submit questions, allow anonymous questions, allow attendees to view answered questions only). You can choose to enable attendees to view all questions and upvote/comment them, or only answered questions. This is a way for your team to control questions that may be sensitive to answer. 
+
+- Last but not least: click ‘Save as Template’ above email settings! This way you will not have to set this up again. Now you are done! 
+
 ## BDR FO Outbound Process
 
 BDR outbound lead generation is done by prospecting to companies and individuals who could be a great fit for our product. Prospecting is the process of finding and developing new business through searching for potential customers with the end goal of moving these people through the sales funnel until they eventually convert into customers.
