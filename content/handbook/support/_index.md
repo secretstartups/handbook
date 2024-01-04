@@ -180,6 +180,7 @@ FY24 was a challenging year in many aspects. As the workload and customer expect
 
 In FY23 / FY24 we moved towards dividing the team into globally distributed groups of engineers. In FY25 we’ll build on that foundation and extend towards differentiating support offerings to better align with customer requirements. This year, we will:
 - Progress enhanced support offerings while partnering more closely with the Customer Success team to meet our customers business needs.
+- Improve how we route and address customer tickets to an appropriate expert with a mind for growing individual engineers from just starting their support journey to complete stewardship of the support journey experience.
 
 ## Team culture and how it supports our ability to achieve results
 
@@ -189,9 +190,9 @@ Expand our enablement, training, and education to prepare the current and future
 
 ## Delight our customers
 
-FY24 was a year of better understanding the needs of our customers. In FY25 we will focus on _delighting_ them. We will:
+FY24 was a year of better understanding the needs of our customers. In FY25 we will focus on *delighting* them. We will:
 - Pair with our customers and train engineers in setting and exceeding customer expectations.
-- Improve our ways to serve customers and resolve their problems before a ticket is even opened while keeping that context to enrich tickets for Support Engineers if a ticket _is_ needed.
+- Improve our ways to serve customers and resolve their problems before a ticket is even opened while keeping that context to enrich tickets for Support Engineers if a ticket *is* needed.
 - Improve our understanding of Support Delivery Quality and how we can consistently provide world class service.
 
 ---
