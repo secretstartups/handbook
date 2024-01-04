@@ -26,15 +26,9 @@ This package provides detailed security information to prospective and existing 
 
 - **Readily available information**: The first step on the trust journey, this package is a compilation of publicly available documentation designed to introduce GitLab’s approach to security. Directly available from the [Trust Center](https://trust.gitlab.com).
 
-- **Information under NDA**: This package provides detailed security information to prospective and existing customers for completing vendor security assessments. Due to the sensitive nature of the documentation, an NDA is required to be in place prior to sharing specific documents (such as SOC 2 Type 2). The NDA signing process will happened directly through SafeBase.
+- **Information under NDA**: This information provides detailed security information to prospective and existing customers for completing vendor security assessments. Due to the sensitive nature of the documentation, an NDA is required to be in place prior to sharing specific documents (such as SOC 2 Type 2). The NDA signing process will happened directly through SafeBase.
 
-Due to the nature of some of GitLab's security reports, the [Customer Package](https://about.gitlab.com/security/cap/) is available under a [Non Disclosure Agreement](/handbook/legal/NDA/) or contractual confidentiality  clauses only.
-
-**Note**: Customers who have registered for services via GitLab.com and paid via credit card will be required to sign a purpose specific [NDA](/handbook/legal/NDA/) before the CAP can be distributed.
-
-These resources can be requested by a GitLab team member on behalf of a customer/prospect using the **Customer Assurance workflow** in the [#sec-fieldsecurity](https://gitlab.slack.com/archives/CV5A53V70) slack channel or opening an issue directly in the [Customer Assurance Service Desk](https://gitlab.com/gitlab-com/gl-security/security-assurance/field-security-team/customer-assurance-activities/caa-servicedesk).
-
-Customers or prospects can request a copy using the `Request by Email` option on our [Customer Assurance Package](https://about.gitlab.com/security/cap/) webpage.
+Due to the nature of some of GitLab's security reports, certain documents on the [Trust Center](https://trust.gitlab.com) is only available once an NDA has been signed on the SafeBase platform through the clickwrap process.
 
 ### Requesting new collateral for the Trust Center
 
