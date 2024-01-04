@@ -146,7 +146,7 @@ broken pipelines, deployments, etc.
 |-------------------------|:----:|-----------------|--------------|
 | Account Settings        | v2   | N/A | [zendesk-us-government/account-settings](https://gitlab.com/gitlab-support-readiness/zendesk-us-government/account-settings) |
 | Agents                  | v1   | N/A | [support/support-ops/zendesk-us-federal/agents](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/agents) |
-| Apps                    | v1   | N/A | [support/support-ops/zendesk-us-federal/zendesk-apps](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/zendesk-apps) |
+| Apps                    | v2   | N/A | [zendesk-us-government/apps](https://gitlab.com/gitlab-support-readiness/zendesk-us-government/apps) |
 | Articles                | N/A  | N/A | N/A |
 | Automations             | v2   | [zendesk-us-government/automations](https://gitlab.com/gitlab-com/support/zendesk-us-government/automations) | [zendesk-us-government/automations](https://gitlab.com/gitlab-support-readiness/zendesk-us-government/automations) |
 | Groups                  | v2   | N/A | [zendesk-us-government/groups](https://gitlab.com/gitlab-support-readiness/zendesk-us-government/groups) |
