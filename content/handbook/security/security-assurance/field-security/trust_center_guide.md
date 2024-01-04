@@ -16,11 +16,9 @@ Are you looking for GitLab's Trust Center?
 
 - **GitLab.com page**:
 This package provides detailed security information to prospective and existing GitLab.com SaaS and self-managed customers for completing vendor security assessments.
-{{% /details %}}
 
 - **GitLab Dedicated page**:
 This package provides detailed security information to prospective and existing GitLab Dedicated customers for completing vendor security assessments.
-{{% /details %}}
 
 ## Two types of Trust Center documentation
 
