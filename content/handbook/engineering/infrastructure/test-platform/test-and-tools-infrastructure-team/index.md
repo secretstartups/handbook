@@ -61,13 +61,13 @@ graph LR
 - We prioritize asynchronous communication and a handbook-first approach, in line with GitLab's all-remote, timezone-distributed structure.
 - We emphasize the [Maker’s Schedule](http://www.paulgraham.com/makersschedule.html), focusing on productive, uninterrupted work.
 - Most mandatory recurring meetings are scheduled on Tuesdays and Thursdays.
-- We reserve approximately 50% of Fridays for learning new technologies and conducting research work, ensuring our team stays abreast of industry trends and fosters innovation in our projects. This time is dedicated to exploring emerging tools, deep-diving into subjects relevant to our work, engaging in self-directed learning, and experimenting with new ideas or proof-of-concepts. Team members have their calendar marked with this dedicated learning time. Any new meeting requests during these hours should be communicated beforehand, respecting this essential period for personal and professional development.
+- We reserve approximately 3-4 hours per week of focus time for learning new technologies and conducting research work, ensuring our team stays abreast of industry trends and fosters innovation in our projects. This time is dedicated to exploring emerging tools, deep-diving into subjects relevant to our work, engaging in self-directed learning, and experimenting with new ideas or proof-of-concepts. Team members have their calendars marked with this dedicated learning time. Any new meeting requests during these hours should be communicated beforehand, respecting this essential personal and professional development period.
 - All meeting agendas could be found in the [Team Shared Drive]() as well as in the meeting invite.
 
 ### Work Related Rituals
 #### Standup Notes [Async]
 - **Cadence**: Daily
-- **Rules**:
+- **Guidelines**:
     1. Share daily plans via Geekbot update in `#test-tools-infrastructure-team`.
     2. Keep updates concise and focused.
     3. This is **optional**, respecting individual work styles discussed [here](https://gitlab.com/gitlab-org/quality/quality-engineering/team-tasks/-/issues/2181#note_1646017808).
@@ -145,10 +145,6 @@ The team currently works cross-functionally, and our task ownership spans multip
 ## Current OKR 
 
 Every quarter, the team commits to [Objectives and Key Results (OKRs)](/company/okrs/). Here is an [overview](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/5399) of our current Test and Tools Infrastructure team OKR: 
-
-* TBD
-* TBD
-
 
 ## Performance Indicators
 TBD
