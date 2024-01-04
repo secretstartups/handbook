@@ -51,7 +51,9 @@ Steps to add to the Asana calendar:
 
 To request an email send, please [open an issue](https://gitlab.com/gitlab-com/marketing/lifecycle-marketing/-/issues/new?issuable_template=request-email) for consideration of your MVC email idea, and provide as much detail as possible (especially around the audience), and please respect if the determination is that "the juice isn't worth the squeeze" and that we may want to delay the launch until some foundational audience segmentations are established. Please review the `Email Review Protocol` section below for more detail.
 
-**SLA:** There is a standard 5 Business Day SLA in place for new email requests. All details in the "Submitter Checklist" of the issue must be complete in order to be triaged to the appropriate Campaign Manager and/or Lifecycle Marketing Manager.
+**SLA:** There is a standard 5 Business Day SLA in place for new email requests. All details in the "Submitter Checklist" of the issue must be complete in order to be triaged to the appropriate Campaign Manager and/or Lifecycle Marketing Manager. 
+
+Please note: Invitation and follow-up emails will not be sent on Thursdays, due to our ongoing nurture programs. 
 
 **Assign issues to:** You must assign issues to the corresponding Lifecycle Marketing Manager for review before send.
 * `@aklatzkin`: Global, AMER, Corporate Events, Newsletters
@@ -78,6 +80,7 @@ Below are the information from the issue template that will need to be filled ou
 - **Subject Line**: 50 character max is preferred (30-40 characters for mobile devices)
 - **Email Body Copy**: Can be a text snippet within issue, clearly identified comment on issue or attach a Google Doc with copy. The copy must be approved before requesting the email.
 - **Target Date to Send Email**: at a minimum a few days notice is preferred because we need to balancing the number of emails being sent to our database so they are not perceived (or marked) as spam; however, a simple email can be turned in a few hours if absolutely necessary
+    - Please note invitation and follow-up emails will not be sent on Thursdays due to our ongoing nurture programs
 - **Recipient List**: Emails can be sent to one of the [existing segments](/handbook/marketing/marketing-operations/marketo#geographic-dma-list ) or a recipient list can be provided as a .csv file
     -  Audience should be appropriately segmented and tokens selected for personalization (if applicable)
     -  All subscribers are selected list are opted-in to receive your message
@@ -237,7 +240,7 @@ As the email builder, you are responsible for making sure the email is formatted
 * After your QA is complete, send a sample to the business owner for review.
 
 ### Email QA Checklist - Business owner
-<!-- DO NOT CHANGE THIS ANCHOR -->
+
 The following outlines the business owner QA that the requestor (not builder) should complete before approving the email. 
 
 As the requestor/business owner, you are responsible for QA on content, spelling, grammar, dates/times, and links. You have joint ownership with the email builder to make sure the email looks good and is easy for the user to read, in line with our email best practices.
@@ -284,15 +287,14 @@ All Campaign Managers and reviewers should adhere to the following protocol for 
 To send an operational email, fill out an issue and follow protocol found [here](/handbook/marketing/marketing-operations/email-management/operational-email-sends/#customer-comms-email).
 
 ## Sales nominated flows in Marketo
-<!-- DO NOT CHANGE THIS ANCHOR -->
+
 
 In some cases, when invitations need to be more specific for an event, the Sales Nominated flows are used to allow sales to nominate who will receive the invite.
 
 Note: if someone is nominated, but is unmailable (due to unsubscribe, invalid email, or hard bounce), they will not receive the invitation.
 
 ### Activating the sales nominated flow in Marketo
-{: #sales-nominated-activation}
-<!-- DO NOT CHANGE THIS ANCHOR -->
+
 
 Sales Nominated automation smart lists are applied to Marketo program templates where sales nominated flows are relevant.
 
@@ -315,7 +317,6 @@ Send sample to the DRI for the program (i.e. workshop owner) who is responsible 
     - End On: Day of the event
 
 ### Removing sales nominated scheduled deployment
-<!-- DO NOT CHANGE THIS ANCHOR -->
 
 You can remove specific recurrences of scheduled sales nominated deployments. The FMC is responsible for this change for field marketing activities, and campaign managers are responsible for this change for demand generation activities.
 
@@ -323,7 +324,6 @@ To cancel a send, follow [these directions](/handbook/marketing/marketing-operat
 
 
 #### Adding a nurture email program to Intelligent Nurture programs/streams
-<!-- DO NOT CHANGE THIS ANCHOR -->
 
 After you have created the Email Program (see above: [Creating a nurture email program for the Intelligent Nurture](/handbook/marketing/lifecycle-marketing/email-processes-requests/#create-nurture-email)) and tested your email (including checking UTM parameters), your email is ready to be activated in the Intelligent Nurture.
 
@@ -346,7 +346,6 @@ The following is where different offer types should align in the email nurture s
 [SEE THIS DIAGRAM FOR WHERE CONTENT IS FIT FOR THE INTELLIGENT NURTURE](https://docs.google.com/presentation/d/1j6F-3ZOFtFM9Tjz1srzbqLjSA56sK7lR2LPdKSl57Vo/edit#slide=id.g165f27d5f94_0_10)
 
 #### Adding an A/B test to Intelligent Nurture
-<!-- DO NOT CHANGE THIS ANCHOR -->
 
 Because our intelligent nurture is setup calling to programs, we cannot use Marketo's Champion/Challenger to A/B test emails. 
 

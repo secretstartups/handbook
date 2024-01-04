@@ -78,26 +78,26 @@ Below we explain the labels created and what each one is for:
 <!-- DO NOT CHANGE THIS ANCHOR -->
 The following shows the day of the week and cadence of the different streams in the Intelligent Nurture:
 
-* AMER:  Thursday, 9:00 AM PT
-* EMEA: Tuesday, 1:00 AM PT
-* APAC: Tuesday, 6:30 PM PT
-* LATAM: Tuesday, 9:00 AM PT. 
+* AMER:  Thursday, 8:30 AM PT
+* EMEA: Thursday, 1:00 AM PT
+* APAC: Wednesday (Thursday APAC time), 6:30 PM PT
+* LATAM: Thursday, 8:30 AM PT. 
 * Localized
-   - Spanish: Inactive
-   - French: Tuesday, 1:00AM PT
-   - German: Inactive
-   - Japanese: Tuesday, 5:00PM PT
-   - Korean: Tuesday, 5:00PM PT
-   - Portuguese: Inactive
+   - Spanish: Inactive - leads rerouted to English nurtures
+   - French: Thursday, 1:00AM PT
+   - German: Inactive - relaunching end of Jan 2024
+   - Japanese: Wednesday (Thursday JP time), 5:00PM PT
+   - Korean: Wednesday (Thursday JP time), 5:00PM PT
+   - Portuguese: Inactive - leads rerouted to English nurtures
 * PubSec
-   - PubSec Default: Wednesday, 7:00AM PT 
-   - Civilian (CIV): Wednesday, 7:00AM PT
-   - Department of Defense (DoD): Wednesday, 7:00 AM PT
-   - Federal Systems Integrators (FSI): Wednesday, 7:00AM PT
-   - National Security Group (NSG): Wednesday, 7:00AM PT
-   - SLED: Wednesday, 7:00AM PT 
+   - PubSec Default: Thursday, 7:00AM PT 
+   - Civilian (CIV): Thursday, 7:00AM PT
+   - Department of Defense (DoD): Thursday, 7:00 AM PT
+   - Federal Systems Integrators (FSI): Thursday, 7:00AM PT
+   - National Security Group (NSG): Thursday, 7:00AM PT
+   - SLED: Thursday, 7:00AM PT 
 * Non-Demand Generation Nurture
-   - All Remote: Tuesday, 6:00AM PDT (not actively being maintained)
+   - All Remote: Thursday, 6:00AM PDT (not actively being maintained)
 
 ### Intelligent Nurture Processes
 <!-- DO NOT CHANGE THIS ANCHOR -->
