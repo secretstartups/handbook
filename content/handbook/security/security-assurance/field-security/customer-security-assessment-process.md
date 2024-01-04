@@ -66,11 +66,11 @@ The Field Security Team has the unique privilege of conversing with and receivin
 
 - Search for [General Information about GitLab](https://about.gitlab.com) in our public handbook.
 - Review [GitLab's Product Security Documentation](https://docs.gitlab.com).
-- Review [GitLab's Customer Assurance Package](https://about.gitlab.com/security/cap/) and download publically available security assurance documents. To request our `NDA Required` Customer Assurance Pacakge (that includes our SOC2 report), utilize the `Request by Email` option.
+- Review [GitLab's Trust Center](https://trust.gitlab.com) and download publically available security assurance documents. To request our `NDA Required` Customer Assurance Pacakge (that includes our SOC2 report), utilize the `Request Access` option on SafeBase.
 
 ## Self-Attestations
 
-In the spirit of iteration, GitLab is continuously evolving our list of compliance self-attestations. Completed self-attestations are reviewed annually for continued applicability and can be found in our [Customer Assurance Package.](https://about.gitlab.com/security/cap/) Customers can submit suggestions and requests for new self-attestations through their Account Manager. GitLab team members can submit recommendations for future compliance assessments through the [Regulatory Security Compliance Feedback and Field Research epic](https://gitlab.com/groups/gitlab-com/gl-security/-/epics/56).
+In the spirit of iteration, GitLab is continuously evolving our list of compliance self-attestations. Completed self-attestations are reviewed annually for continued applicability and can be found in our [Trust Center.](https://trust.gitlab.com) Customers can submit suggestions and requests for new self-attestations through their Account Manager. GitLab team members can submit recommendations for future compliance assessments through the [Regulatory Security Compliance Feedback and Field Research epic](https://gitlab.com/groups/gitlab-com/gl-security/-/epics/56).
 
 ## Service Level Agreements
 
