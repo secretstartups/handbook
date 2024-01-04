@@ -74,22 +74,22 @@ graph LR
 
 #### End-of-Week Status Update [Async]
 - **Cadence**: Every Thursday EOD
-- **Rules**:
+- **Guidelines**:
     1. The weekly update comment should summarize the current status, progress and remaining work with ETA, confidence in completion, upcoming steps, and highlight any areas requiring help or support.
     2. Some good examples for the EOW updates can be found [here](https://gitlab.com/groups/gitlab-org/-/epics/8628#note_1090732793) and [here](https://gitlab.com/groups/gitlab-org/-/epics/5152#note_1029337901). Tag the required individuals along with the manager of the team in the EOW updates. 
     3. **Ensure that issues and epics are updated by Thursday of each week**. This allows for a comprehensive summary to be provided to the `#test-platform` sub-department channel on Friday, enhancing overall visibility and coordination.
 
 #### Monthly Retrospective [Async]
-- **Cadence**: First Monday to Wednesday of each month
-- **Rules**:
-    1. Contribute to the retrospective issue for the `Test & Tools Infrastructure Team` specifically in the [Quality Retrospective project](https://gitlab.com/gl-retrospectives/quality). The issue will be automatically shared in the team channel.
+- **Cadence**: Monthly
+- **Guidelines**:
+    1. Contribute to the retrospective issue created in the [Quality Retrospective project](https://gitlab.com/gl-retrospectives/quality). The retrospective issue will be automatically created and shared in the `#test-platform-lounge` channel on the first Monday of every month.
     2. Engage in constructive feedback and action-oriented discussions.
-    3. Engineering Manager to summarize action items by the end of the week. The kudos will also be summarized and shared to `#thanks` for organization visibility. A summary of the retrospective will be shared to `#test-platform` for broader sub-platform level visibility.
+    3. Engineering Manager to summarize action items by the end of the week. The kudos will also be summarized and shared to `#thanks` for organization visibility.
     4. The team retrospective will be in line with [Gitlab's retrospective guidelines](https://handbook.gitlab.com/handbook/engineering/management/group-retrospectives/)
 
 #### Team Meeting & Demos [Sync]
 - **Cadence**: Bi-weekly on Tuesday, 25 mins
-- **Rules**:
+- **Guidelines**:
     1. Bi-weekly meetings will occur within Project tracks and within working groups. Time zone differences will lead to segmented meetings. Solo project track members may opt for asynchronous updates and detailed discussions in 1:1s.
     2. Focus on live discussions, milestone reviews, and backlog refinement.
     3. Record quick ~5 mins demo for completed work and share in the agenda doc. We also encourage everyone to record videos and post to GitLab Unfiltered. [The handbook page on YouTube](https://handbook.gitlab.com/handbook/marketing/marketing-operations/youtube/#post-everything) does an excellent job of telling why we should be doing this. If you’re uploading a video for the demos, be sure to do the following extra steps:
@@ -98,11 +98,10 @@ graph LR
        3. Share it to `#test-tools-infrastructure-team` and cross-post to `#test-platform`.
 
 #### Social Hours [Sync]
-- **Cadence**: Quarterly on last Thursday, 45 mins
+- **Cadence**: Quarterly
 - **Rules**:
     1. This is a virtual team building activity adhereting to the [Gitlab's team building policy](https://handbook.gitlab.com/handbook/finance/expenses/#team-building).
-    2. The social hours will be scheduled inclusively across multiple time zones.
-    3. This is also an **optional** meeting, respecting individual's priorities. 
+    2. Social hours will be organized across different time zones, in sync with the `test-platform` sub-department's schedule.
 
 ### Personal/Career Development Rituals
 #### Weekly 1:1 Meeting with Engineering Manager
@@ -114,11 +113,9 @@ graph LR
 
 #### Goal Setting & Review
 - **Rules**:
-    1. A confidential issue will be created in the [Team Workbook](https://gitlab.com/gitlab-org/quality/work-log) for setting individual goals. 
-    2. Ensure every team member establishes their goals by the first quarter of each financial year. For new hires, the goal setting process should be accomplished in the onboarding process.
-    3. Align individual goals with team and company objectives.
+    1. We follow the [individual gowth plan model](https://handbook.gitlab.com/handbook/people-group/learning-and-development/career-development/igp-guide/). The process of launching your IGP is documented [here](https://handbook.gitlab.com/handbook/people-group/learning-and-development/career-development/igp-guide/).
     4. Leverage 1:1s with your manager to discuss the progress on the goals and next steps. 
-    5. Consider preparing a worklog document each week following this [template](https://docs.google.com/document/d/1LXP5cqVfOZ983QJYbP870tZXO0iIs4OwqLIcT-REekk/edit?usp=sharing) in the [Team Workbook](https://gitlab.com/gitlab-org/quality/work-log) to keep track of your contributions. This will assist in remembering contributions beyond usual project activities, highlighting them for consideration in performance reviews. One such example could be found [here](https://gitlab.com/gitlab-org/quality/work-log/-/issues/1). 
+    5. Additionaly, consider preparing a worklog document each week in the [Team Workbook](https://gitlab.com/gitlab-org/quality/work-log) to keep track of your contributions. This will assist in remembering contributions beyond usual project activities, highlighting them for consideration in performance reviews. One such example could be found [here](https://gitlab.com/gitlab-org/quality/work-log/-/issues/1). 
        1. Create an issue with format - `<Name>-Worklog-<Financial Year>`.
        2. Keep updating the worklog each week.
        3. Once the quarter ends, add a summary of the major contributions of the quarter to the description. 
