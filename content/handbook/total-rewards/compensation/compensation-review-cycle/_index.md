@@ -6,7 +6,7 @@ title: Annual Compensation Review Cycle
 
 On this page, we explain how we carry out the Annual Compensation Review (ACR) cycle. For more information on the process and input review for the Compensation Review Process, please see the following [handbook page]({{< ref "review-cycle-inputs" >}}).
 
-If you have any feedback or questions about the compensation review cycle, please contact [People Connect](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group).
+If you have any feedback or questions about the compensation review cycle, please contact [People Connect](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group). For feedback to help inform iterations for future cycles, please utilize the [feedback issue (internal only)](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/1827).
 
 ## Annual Compensation Review
 
