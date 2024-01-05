@@ -331,9 +331,9 @@ The table includes free/community and paid tiers associated with GitLab's self-m
 - P = Premium
 - U = Ultimate
 
-### Product Adoption - North Star Metrics and Leading Indicators for CI
+### Product Adoption - Lighthouse Metrics and Leading Indicators for CI
 
-The SSOT Handbook Page for Product Adoption - North Star Metrics and Leading Indicators can be found in the [Enterprise Data Team Handbook](https://internal.gitlab.com/handbook/enterprise-data/company-kpis/product-adoption-north-star-metrics/)
+The SSOT Handbook Page for Product Adoption - Lighthouse Metrics and Leading Indicators can be found in the [Enterprise Data Team Handbook](https://internal.gitlab.com/handbook/enterprise-data/company-kpis/product-adoption-lighthouse-metrics/)
 
 #### Additional Documentation Links
 
