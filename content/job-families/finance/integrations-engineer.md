@@ -125,7 +125,7 @@ Extends the Senior Integration Engineer responsibilities:
 - Design and implement solutions for specific business needs.
 - Lead and manage large-scale integration & automation development projects, ensuring timely delivery and alignment with business goals.
 - Create and maintain comprehensive documentation of integration architectures, configurations, and processes.
-- Closely work with business analysts, PMs, architects, engineers and business users to understand the business requirements, including working with 3rd party integrators 
+- Closely work with business analysts, PMs, architects, engineers and business users to understand the business requirements, including working with 3rd party integrators.
 - Provide recommendations for standard methodologies pertaining to integration design and development, with a mind towards best practices
 - Exceptional communication skills, both written and verbal Detail-oriented, organized, self-motivated, hardworking, and a great team player with excellent interpersonal skills
 
