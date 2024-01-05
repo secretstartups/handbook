@@ -157,14 +157,11 @@ Duration: ~1 week
 
 ### Support Assistance
   - Around 20% of weekly time is set aside for support tasks, balancing our roadmap work with emerging support needs.
-  - Team members diligently monitor `#test-platform` and other pertinent slack channels and issue discussions, staying alert for any requests for assistance or support. 
-  - Relevant support requests are converted into issues. Add ~"team::Test and Tools Infrastructure" label in the issues to track it in the team's [backlog board](https://gitlab.com/groups/gitlab-org/-/boards/7168288?label_name%5B%5D=team%3A%3ATest%20and%20Tools%20Infrastructure). Creating issues is a critical activity for our team, even for those quickly resolved through Slack communications. Documenting both the problem and its resolution in an issue helps in maintaining a comprehensive record. This practice aids in future referencing and knowledge sharing, and it also enables us to track the time and resources invested in resolving these issues.
-  - Ensure each issue is tagged with a `type` label that indicates its association with specific tooling, enabling streamlined tracking and management. 
-    - [TBD relevant types for TTI team to track, eg. `type::maintenance`]
+  - Team members actively monitors `#test-platform`, `#test-tools-infrastructure-team` channels and issues related to Test and Tools Infrastructure. 
+  - Relevant support requests are converted into issues. Add ~"team::Test and Tools Infrastructure" label in the issues to track it in the team's [support request board](https://gitlab.com/groups/gitlab-org/-/boards/7252729?label_name%5B%5D=team%3A%3ATest%20and%20Tools%20Infrastructure). For our team, creating issues is essential, including those swiftly resolved on Slack, as it documents problems and solutions for a complete record and tracks the effort outside of regular project tracks.
+  - Ensure each issue is tagged with one of `~"type::feature"`, `~"type::bug`, `~"type::maintenance` following [workflow classification guidelins](https://handbook.gitlab.com/handbook/engineering/metrics/#work-type-classification).
   - Team members analyze the issue and add a priority based on the [Reliability Department's prioritization framework](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues/#priority). P1 issues will be taken up on an urgent basis the same week based on the availability of the relevant team members. Lower-priority issues are scheduled for review and discussion in our next bi-weekly meeting for capacity planning.
-  - The issues should be following the [Test Platform workflow label guidelines](../project-management/index.md#workflow-labels).
-  - Updates on the support requests should be communicated at the end of each week in the issue comments.
-  - Team members should record support activities (usually outside of general project tracks) and progress in the worklog for transparency and tracking.
+  - The issues should be following the [workflow label guidelines](../project-management/index.md#workflow-labels).
 
 ### Borrow requests
 
