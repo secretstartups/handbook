@@ -26,9 +26,12 @@ Any Category Maturity Scorecard effort should have a corresponding issue created
 
 Refer to the [Category Maturity](https://about.gitlab.com/direction/maturity/) page to understand scoring. It is important to note that:
 
-- **Minimal:** Category Maturity Scorecard is *not* required.
-- **Viable:** Category Maturity Scorecard is conducted with internal users who are dogfooding.
-- **Competitive and Complete:** Category Maturity Scorecard is conducted with external users on the JTBDs.
+| Category level | Conducted with?                   | Usability status                                                                                           | GitLab Design standards criteria              | Competitive add-on                    |
+|----------------|-----------------------------------|------------------------------------------------------------------------------------------------------------|-----------------------------------------------|---------------------------------------|
+| Complete       | External users on the JTBDs       | A (High quality/Exceeds expectations). This is the same grading system as the UX Scorecard grading rubric. | Meets 100% of GitLab design standards         | GitLab scores: Best in class          |
+| Competitive    | External users on the JTBDs       | B (Meets expectations). This is the same grading system as the UX Scorecard grading rubric.                | Meets 100% of GitLab design standards         | GitLab scores: Equal or Best in class |
+| Viable         | Internal users who are dogfooding | C (Average). This is the same grading system from the UX Scorecard grading rubric.                         | Meets 100% of GitLab design standards         | (not required)                        |
+| Minimal        | (not required)                    | D (Poor). This is the same grading system from the UX Scorecard grading rubric.                            | Meets at least 80% of GitLab design standards | (not required)                        |
 
 Previously completed Category Maturity Scorecards can be found in this [epic](https://gitlab.com/groups/gitlab-org/-/epics/6930).
 
@@ -38,7 +41,7 @@ See how Scorecards relate to Category Maturity Scorecards in the [UX Scorecards]
 
 All of the UX Scorecards can be found in this [epic](https://gitlab.com/groups/gitlab-org/-/epics/1714).
 
-## Setup
+## Steps for running a Category Maturity Scorecard study
 
 ### Step 0: Jobs to be Done (JTBD)
 
