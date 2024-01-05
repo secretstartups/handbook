@@ -131,7 +131,7 @@ Cadence: Planned yearly, reviewed quarterly
 #### Pre-work and departmental sign-off
 
 Duration: ~3 weeks
-    - Our roadmap preparation is an intensive two-week process, led by a [DRI](https://handbook.gitlab.com/handbook/people-group/directly-responsible-individuals/). During this phase, DRIs take the lead in drafting the roadmap using [the roadmap prep-work template]() for necessary project tracks. This involves gathering inputs from the team, various stakeholders, assessing past performance, and aligning with the strategic goals of the Test and Tools Infrastructure Team. 
+    - Our roadmap preparation is an intensive two-week process, led by a [DRI](https://handbook.gitlab.com/handbook/people-group/directly-responsible-individuals/). During this phase, DRIs take the lead in drafting the roadmap using [the roadmap prep-work template](https://gitlab.com/gitlab-org/quality/work-log/-/blob/main/templates/roadmap-pre-work-template.md?ref_type=heads) for necessary project tracks. This involves gathering inputs from the team, various stakeholders, assessing past performance, and aligning with the strategic goals of the Test and Tools Infrastructure Team. 
     - Upon completion of the preparation phase, the roadmap from various project tracks is assembled into a handbook page MR and presented to the Test-Platform Sub-Department Director for review and sign-off. This ensures alignment with broader organizational objectives and secures executive buy-in.
     - Merge the MR once approved and share it across the Test Platform department.
 
@@ -140,20 +140,29 @@ Duration: ~3 weeks
 Duration: ~1 week
   - This translation process is meticulous, ensuring that each milestone is broken down into manageable, clearly defined tasks following the [issue creation guideline for tracks](../roadmap.md#overview).
   - Project track specific GitLab board is created with the combination of epic, team label ~"team::Test and Tools Infrastructure" and the [Workflow Labels](../project-management/index.md#workflow-labels). 
-  - Each issues/epics in the roadmap is assigned.  
-  - A MR is raised and merged to add the Epics and Issue Board in the [Roadmap handbook page](./roadmap-test-and-tools-infrastructure.md).
+  - Each issues/epics in the roadmap is assigned to a DRI.  
+  - Epic, Issues and Boards are added to [Roadmap handbook page](./roadmap-test-and-tools-infrastructure.md).
+  - Our project tracks are guided by the [Lean Startup Principles](https://theleanstartup.com/principles), particularly the Build-Measure-Learn feedback loop, which emphasizes rapid prototyping, continuous iteration, and learning from real-world feedback. The stages include:
+    
+    ```mermaid
+    graph LR
+        A[Build-Measure-Learn Feedback Loop]
+        A --> B[Discovery]
+        B --> C[Prototyping]
+        C --> D[Implementation]
+        D --> E[Guardrailing]
+        E --> F[Monitoring]
 
-- Our project tracks are guided by the [Lean Startup Principles](https://theleanstartup.com/principles), particularly the Build-Measure-Learn feedback loop, which emphasizes rapid prototyping, continuous iteration, and learning from real-world feedback. The stages include:
-  - **Discovery**: Engaging in data-driven analysis to develop clear, actionable goals. This aligns with the 'Learn' phase, where understanding customer needs is crucial.
-  - **Prototyping**: Conducting exploratory studies and developing proof-of-concepts. We adopt a fail-fast mechanism, encouraging innovation and risk-taking to create a minimal viable product (MVP).
-  - **Implementation**: Executing the plan with agility having an emphasis on scaling the MVP to [MVC](../../../../product/product-principles.md#the-minimal-viable-change-mvc) and iterate over it.  
-  - **Guardrailing**: Build necessary guardrails (both process and technology) to prevent regression to previous states. 
-  - **Monitoring**: Continuous data-driven monitoring for user feedback, anomalies and assess the impact on key business metrics and performance indicators.
-
+        B -->|Learn Phase| G[Understand Customer Needs]
+        C -->|Fail-Fast Mechanism| H[Create MVP]
+        D -->|Agility & Scaling| I[MVC Iteration]
+        E -->|Prevent Regression| J[Process & Technology Guardrails]
+        F -->|Data-Driven| K[User Feedback & Business Metrics]
+    ```
 
 #### Roadmap review and reporting
-    - Adhering to our team's [bi-weekly ritual](#team-meeting-and-demos-sync), we conduct reviews to assess progress, address challenges, and recalibrate goals if necessary. These sessions are crucial for maintaining momentum and ensuring alignment with our roadmap.
-    - We provide comprehensive quarterly reports using this [template](), detailing the progress of our roadmap initiatives. These reports offer insights into achievements, learnings, and areas needing attention, contributing to transparent communication and strategic planning for upcoming quarters.
+  - Adhering to our team's [bi-weekly ritual](#team-meeting-and-demos-sync), we conduct reviews to assess progress, address challenges, and recalibrate goals if necessary. These sessions are crucial for maintaining momentum and ensuring alignment with our roadmap.
+  - We provide comprehensive quarterly reports using this [template](https://gitlab.com/gitlab-org/quality/work-log/-/blob/main/templates/quarterly-business-report-template.md?ref_type=heads), detailing the progress of our roadmap initiatives. These reports offer insights into achievements, learnings, and areas needing attention, contributing to transparent communication and strategic planning for upcoming quarters.
 
 ### Support Assistance
   - Around 20% of weekly time is set aside for support tasks, balancing our roadmap work with emerging support needs.
