@@ -105,7 +105,7 @@ flowchart LR
     click Switchboard "/handbook/engineering/infrastructure/team/gitlab-dedicated/switchboard/"
 
     TP --> TTI[Test and Tools Infrastructure]
-    click TTI "engineering/infrastructure/test-platform/dev-qe-team/"
+    click TTI "/handbook/engineering/infrastructure/test-platform/test-and-tools-infrastructure-team/"
     TP --> SMP[Self-Managed Platform]
     click SMP "/handbook/engineering/infrastructure/test-platform/self-managed-platform-team/"
     TP --> TE[Test Engineering]
