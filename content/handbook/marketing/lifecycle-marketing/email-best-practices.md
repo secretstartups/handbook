@@ -102,20 +102,18 @@ Engagement and Audience Retention: Quality content captures the attention of you
 
 In summary, developing good content within the body of the email is essential for attracting, retaining, and converting your recipients. A well-designed email filled with valuable content can make the difference between the success and failure of your email marketing campaigns.
 
-The **Click-Through Rate (CTR)** percentage in an email marketing campaign for a software and web application company like GitLab can vary, but a good general benchmark is a CTR ranging from 2% to 5%. However, it's important to note that this value can vary significantly depending on various factors, such as the quality of the subscriber list, content relevance, the effectiveness of calls to action (CTA), and proper audience segmentation.
-
-That said, it's important to remember that the ideal CTR can vary from one company to another and largely depends on the specific goals of the campaign. Some campaigns may have a higher CTR if the content is highly relevant, and the audience is highly engaged, while others may have lower CTRs if they are sent to a broader and more diverse list.
-
 
 **Delivery Rate:**
+*GitLab benchmark: 97%*
 
 Our delivery rate should be in the high 90s.  Anything below this number needs to be addressed. A low delivery rate could be indicative of two things: poor list quality or the wrong email service provider.
 
-How is the delivery rate calculated? Number of emails delivered divided by number of emails sent.
+How to calculate delivery rate: Number of emails delivered / number of emails sent.
 
 Example: 950/1000 = 95% Delivery Rate.
 
 **Open Rate:**
+*GitLab benchmark: 23%*
 
 Importance of Subject Lines in Email Marketing:
 
@@ -136,25 +134,41 @@ The KPI most directly impacted by the subject line is the Open Rate. This metric
 For a software and web application company like GitLab, the average open rate percentage may vary, but a good benchmark is between 20% and 30%.
 
 If our open rate is low, consider testing different subject lines or preheaders to see what style works best with our customers.
-How is the open rate calculated? Number of emails opened divided by the number of emails delivered.
+
+How to calculate open rate: Number of emails opened / number of emails delivered
 
 Example: 200/1000 = 20% Open Rate
 
+**Click Rate (CTR)**
+ *GitLab benchmark: 2%*
+
+ The click rate is the measure of how many people who received the email clicked on CTA, image, or links within the body of the email. 
+ 
+ The average click through percentages in email marketing campaigns for software and web application companies like GitLab can vary, but a good general benchmark is a CTR ranging from 2% to 5%. 
+ 
+This value can vary significantly depending on various factors, such as the quality of the subscriber list, content relevance, the effectiveness of calls to action (CTA), and proper audience segmentation.
+
+That said, it's important to remember that the ideal CTR can vary from one company to another and largely depends on the specific goals of the campaign. Some campaigns may have a higher CTR if the content is highly relevant, and the audience is highly engaged, while others may have lower CTRs if they are sent to a broader and more diverse list.
+
+How to calculate click-through rate: Number of clicks / number of emails delivered
+
 **Click To Open Rate:**
+*GitLab Benchmark: 7%*
 
 There are several factors which could go into a low click-to-open rate, such as our email design, our content, our call to action — really any element in the body of our email.
  
 It is a little more challenging to isolate what may be causing a low click-to-open rate, which is why we need to set up some A/B test splits to determine the cause.
  
-How to calculate the Click To Open Rate: Unique Clicks divided by number of emails open.
+How to calculate the Click To Open Rate: Unique Clicks / number of emails open.
 
 Example: 50/200 = 25%
 
 **Opt-Out Rate:**
+*GitLab Benchmark: 0.3%*
 
 Generally a good (low) unsubscribe (or opt-out rate) is below 0.2%. But anything above 1% is a problem. Determining why customers are opting out can be a challenge, so be proactive. Set up a brief survey for people who do opt out asking why.
 
-How is the Opt-out rate calculated? Total Opt-outs divided by the number of emails delivered.
+How to calculate opt-out rate: Total Opt-outs / number of emails delivered.
 
 Example: 5/950 = 0.5% Unsubscribe Rate.
 
