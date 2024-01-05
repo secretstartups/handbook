@@ -98,20 +98,20 @@ graph LR
 
 #### Social Hours [Sync]
 - **Cadence**: Quarterly
-- **Rules**:
+- **Guidelines**:
     1. This is a virtual team building activity adhereting to the [Gitlab's team building policy](https://handbook.gitlab.com/handbook/finance/expenses/#team-building).
     2. Social hours will be organized across different time zones, in sync with the `test-platform` sub-department's schedule.
 
 ### Personal/Career Development Rituals
 #### Weekly 1:1 Meeting with Engineering Manager
 - **Cadence**: Weekly, 25 mins
-- **Rules**:
+- **Guidelines**:
     1. Discuss both professional and personal development goals.
     2. Maintain confidentiality and openness.
     3. Follow the [1:1 process](https://handbook.gitlab.com/handbook/leadership/1-1/) mentioned in the handbook. 
 
 #### Goal Setting & Review
-- **Rules**:
+- **Guidelines**:
     1. We follow the [individual gowth plan model](https://handbook.gitlab.com/handbook/people-group/learning-and-development/career-development/igp-guide/). The process of launching your IGP is documented [here](https://handbook.gitlab.com/handbook/people-group/learning-and-development/career-development/igp-guide/).
     4. Leverage 1:1s with your manager to discuss the progress on the goals and next steps. 
     5. Additionaly, consider preparing a worklog document each week in the [Team Workbook](https://gitlab.com/gitlab-org/quality/work-log) to keep track of your contributions. This will assist in remembering contributions beyond usual project activities, highlighting them for consideration in performance reviews. One such example could be found [here](https://gitlab.com/gitlab-org/quality/work-log/-/issues/1). 
