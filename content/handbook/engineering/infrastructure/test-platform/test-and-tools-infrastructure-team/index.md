@@ -70,7 +70,6 @@ graph LR
 - **Guidelines**:
     1. Share daily plans via Geekbot update in `#test-tools-infrastructure-team`.
     2. Keep updates concise and focused.
-    3. This is **optional**, respecting individual work styles discussed [here](https://gitlab.com/gitlab-org/quality/quality-engineering/team-tasks/-/issues/2181#note_1646017808).
 
 #### End-of-Week Status Update [Async]
 - **Cadence**: Every Thursday EOD
