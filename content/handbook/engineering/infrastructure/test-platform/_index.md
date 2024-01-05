@@ -99,7 +99,7 @@ The following people are members of the Self-Managed Platform team:
 
 The following people are members of the Test Engineering team:
 
-{{< team-by-manager-role role="Interim Director, Test Platform" team="(Engineer in Test)" >}}
+{{< team-by-manager-slug "kkolpakova" >}}
 
 ## Engage with Us
 
