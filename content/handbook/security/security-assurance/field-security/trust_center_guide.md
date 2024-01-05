@@ -15,18 +15,18 @@ Are you looking for GitLab's Trust Center?
 ## GitLab offers Trust Centers tailored to customer needs
 
 - **GitLab.com page**:
-This package provides detailed security information to prospective and existing GitLab.com SaaS and self-managed customers for completing vendor security assessments.
+This page provides detailed security information to prospective and existing GitLab.com SaaS and self-managed customers for completing vendor security assessments.
 
 - **GitLab Dedicated page**:
-This package provides detailed security information to prospective and existing GitLab Dedicated customers for completing vendor security assessments.
+This page provides detailed security information to prospective and existing GitLab Dedicated customers for completing vendor security assessments.
 
 ## Two types of Trust Center documentation
 
-- **Readily available information**: The first step on the trust journey, this package is a compilation of publicly available documentation designed to introduce GitLab’s approach to security. Directly available from the [Trust Center](https://trust.gitlab.com).
+- **Readily available information**: The first step on the trust journey, these documents are publicly available and are designed to introduce GitLab’s approach to security. Directly available from the [Trust Center](https://trust.gitlab.com).
 
-- **Information under NDA**: This information provides detailed security information to prospective and existing customers for completing vendor security assessments. Due to the sensitive nature of the documentation, an NDA is required to be in place prior to sharing specific documents (such as SOC 2 Type 2). The NDA signing process will happened directly through SafeBase.
+- **Information under NDA**: These documents provide detailed security information to prospective and existing customers for completing vendor security assessments. Due to the sensitive nature of the documentation, an NDA is required to be in place prior to viewing specific documents (such as SOC 2 Type 2). The NDA signing process will happened directly through the Trust Center.
 
-Due to the nature of some of GitLab's security reports, certain documents on the [Trust Center](https://trust.gitlab.com) is only available once an NDA has been signed on the SafeBase platform through the clickwrap process.
+Due to the nature of some of GitLab's security reports, certain documents on the [Trust Center](https://trust.gitlab.com) are only available once an NDA has been signed through the clickwrap process on the Trust Center.
 
 ### Requesting new collateral for the Trust Center
 

@@ -19,19 +19,19 @@ It's no surprise that GitLab Customers and Prospects conduct Security due dilige
 
 ### **GitLab Team Members**
 
-We will start all CAA requests (with the exception of Contract Reviews) by **sharing the Trust Center with the customer**. The Trust Center will answer many of the customers questions and will enable us to provide the customer with a more efficient and comprehensive experience.
+We will start all CAA requests (with the exception of Contract Reviews) by **sharing the Trust Center with the customer**. The Trust Center will answer many of the customer's questions and will enable us to provide the customer with a more efficient and comprehensive experience.
 
 **Please do not assign the issue. Field Security will assign the issue to the appropriate team member. Thank you!**
 
 ### For Questionnaires
 
-The process will be directly be handled in SafeBase. Customers/prospects who have access to the [Trust Center](https://trust.gitlab.com) can directly upload questionnaires from there by clicking the *upload link* in the message top at the top of the Trust Center.
+The process will be directly be handled in SafeBase. Customers/prospects who have access to the [Trust Center](https://trust.gitlab.com) can directly upload questionnaires by clicking the *Submit a Questionnaire* link at the top of the Trust Center.
 
 For GitLab internal team members, on a given SafeBase account page, a new questionnaire file or link can be added to the account to be picked up by the Field Security team if it respects the conditions (ARR threshold, etc.)
 
 ### For Customer Calls and General Requests
 
-Please use the `Customer Call Box` above and follow the instructions.
+Please use the `Customer Call Request` or `General Request` buttons above and follow the instructions.
 
 - Be sure to include all requested information to expedite the process.
 - ARR or potential ARR is required
@@ -71,7 +71,7 @@ The Field Security Team has the unique privilege of conversing with and receivin
 
 - Search for [General Information about GitLab](https://about.gitlab.com) in our public handbook.
 - Review [GitLab's Product Security Documentation](https://docs.gitlab.com).
-- Review [GitLab's Trust Center](https://trust.gitlab.com) and download publically available security assurance documents. To request our `NDA Required` Customer Assurance Pacakge (that includes our SOC2 report), utilize the `Request Access` option on SafeBase.
+- Review [GitLab's Trust Center](https://trust.gitlab.com) and download publically available security assurance documents. To request our `NDA Required` documents, such as our SOC2 report, utilize the `Request Access` button in the Trust Center.
 
 ## Self-Attestations
 
@@ -82,7 +82,7 @@ In the spirit of iteration, GitLab is continuously evolving our list of complian
 - **Security Questionnaires:** 10 Business Day. SA or CSM will utlize the Knowledge Base and/or other self-service resources prior to requesting Field Security assistance. SA or CSM will ensure everyone on the Field Security team has access to any files or portals.
 - **Contract Reviews:** 5 Business Days. Field Security must be engaged in all relevant Contract Reviews.
 - **Customer Calls:** SA or CSM will provide context to the Customer or Prospects questions or concerns prior to the meeting. Field Security will provide a PowerPoint presentation with critical information about GitLab Security and specifics to the Customer or Prospect's request. Field Security must be invited to all relevant Customer Meetings.
-- **Security Documents:** Managed through the Trust Center. Create a General Request for unique enquiries that can't be satisfied through self-serve
+- **Security Documents:** Managed through the Trust Center. Create a General Request for unique enquiries that can't be satisfied through the Trust Center.
 
 ## Exceptions
 
