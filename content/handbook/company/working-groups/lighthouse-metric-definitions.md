@@ -1,18 +1,18 @@
 ---
-title: "North Star Metric Definitions"
-description: "Drive cross-functional alignment around North Star Metric Definitions for Customer Use Case Adoption."
+title: "Lighthouse Metric Definitions"
+description: "Drive cross-functional alignment around Lighthouse Metric Definitions for Customer Use Case Adoption."
 status: active
 ---
 
 ## Purpose
 
-This working group is charged with driving the necessary cross-functional alignment, prioritization, and execution required to define the [North Star Metric and Leading Indicators](/handbook/business-technology/data-team/data-catalog/product-usage-data/#north-star-metrics-and-leading-indicators) for each Customer Product Adoption Use Case. This #north-star-metric-defintions working group ladders up and is an input to the #customer-use-case-adoption working group. The #north-star-metric-defintions working group has a narrower scope than the #customer-use-case-adoption working group and is focused on defining the North Star Metrics and Leading Indicators. The #customer-use-case-adoption working group defined the CI Adoption North Star Metric and Leading Indicators. The #north-star-metric-definitions working group will create a Single Playbook for determining which metric(s) best measure customer adoption of a use case. The playbook will be used to define the Security and Compliance North Star Metrics and Leading indicators in FY24-Q4. The formation of this working group will accelerate efforts to win against GitHub and reduce Churn & Contraction.
+This working group is charged with driving the necessary cross-functional alignment, prioritization, and execution required to define the [Lighthouse Metric and Leading Indicators](https://internal.gitlab.com/handbook/enterprise-data/company-kpis/product-adoption-lighthouse-metrics/) for each Customer Product Adoption Use Case. This #lighthouse-metric-defintions working group ladders up and is an input to the #customer-use-case-adoption working group. The #lighthouse-metric-defintions working group has a narrower scope than the #customer-use-case-adoption working group and is focused on defining the Lighthouse Metrics and Leading Indicators. The #customer-use-case-adoption working group defined the CI Adoption Lighthouse Metric and Leading Indicators. The #lighthouse-metric-definitions working group will create a Single Playbook for determining which metric(s) best measure customer adoption of a use case. The playbook will be used to define the Security and Compliance Lighthouse Metrics and Leading indicators in FY24-Q4. The formation of this working group will accelerate efforts to win against GitHub and reduce Churn & Contraction.
 
 **Desired Outcomes**
 
-1. Develop a single, cross-functional playbook to define the North Star Metrics and Leading Indicators for each Customer Product Adoption Use Case
-1. Drive **cross-functional alignment** around the North Star Metrics and Leading Indicators definition process across sales, customer success, product, data, finance, etc.
-1. Publish a certified Tableau dashboard that shows the performance of the North Star Metrics versus target for CI, Security, and Compliance
+1. Develop a single, cross-functional playbook to define the Lighthouse Metrics and Leading Indicators for each Customer Product Adoption Use Case
+1. Drive **cross-functional alignment** around the Lighthouse Metrics and Leading Indicators definition process across sales, customer success, product, data, finance, etc.
+1. Publish a certified Tableau dashboard that shows the performance of the Lighthouse Metrics versus target for CI, Security, and Compliance
 
 ### FY24-Q4 Customer Use Cases in Scope
 
@@ -26,21 +26,21 @@ This working group is charged with driving the necessary cross-functional alignm
 |--------------------------------|------------|
 | Date Created                   | 2023-11-01 |
 | Target End Date                | 2024-01-31 |
-| Slack                          | #wg_north-star-metric-definitions |
-| Google Doc                     | [North Star Metric Definitions Agenda](https://docs.google.com/document/d/1MFpr7p8nu5qTwo8xaIyX1aPyYT2ulk2yqXKUJYx676M/edit#heading=h.5pzaui1699w8) |
+| Slack                          | #wg_lighthouse-metric-definitions |
+| Google Doc                     | [Lighthouse Metric Definitions Agenda](https://docs.google.com/document/d/1MFpr7p8nu5qTwo8xaIyX1aPyYT2ulk2yqXKUJYx676M/edit#heading=h.5pzaui1699w8) |
 | Epic - Primary                 | [Primary](https://gitlab.com/groups/gitlab-data/-/epics/1083)|
 | Epic - Security                | [Security](https://gitlab.com/gitlab-data/analytics/-/issues/18848) |
 | Epic - Compliance              | [Compliance](https://gitlab.com/gitlab-data/analytics/-/issues/18849) |
-| Board                          | [North Star Metric Definitions Board](https://gitlab.com/gitlab-data/analytics/-/boards/7148077?label_name[]=WorkingGroup%3A%3ANorthStarMetric) |
+| Board                          | [Lighthouse Metric Definitions Board](https://gitlab.com/gitlab-data/analytics/-/boards/7148077?label_name%5B%5D=WorkingGroup%3A%3ALighthouseMetric) |
 | Overview & Status              | See [Exit criteria](#exit-criteria) below |
 
 ## Exit criteria
 
 Note that these goals are aspirational so we set a high bar (and potentially achieving something that is good enough vs. setting a low bar and not achieving something that is good enough).
 
-- [ ] North Star Metrics for Security and Compliance have been defined in the handbook
-- [ ] Publish a Certified Tableau Dashboard that shows the performance of the North Star Metric versus target for CI, Security, and Compliance
-- [ ] Publish a single, cross-functional playbook to define the North Star Metrics and Leading Indicators in the handbook
+- [ ] Lighthouse Metrics for Security and Compliance have been defined in the handbook
+- [ ] Publish a Certified Tableau Dashboard that shows the performance of the Lighthouse Metric versus target for CI, Security, and Compliance
+- [ ] Publish a single, cross-functional playbook to define the Lighthouse Metrics and Leading Indicators in the handbook
 
 ## Roles and Responsibilities
 
@@ -78,14 +78,14 @@ Note that these goals are aspirational so we set a high bar (and potentially ach
 | Opportunity canvas and defining outcomes      | Hillary Benson, Sam White, Sarah Waldner | Product Management - Compliance                                   |
 | Opportunity canvas and defining outcomes      | Hillary Benson, Sarah Waldner, Sam White | Product Management - Security                                     |
 | Instrument New Metrics                        | Jackie Porter, Sam White, Sam Kerr, Sarah Waldner | Product Management - CI, Security, Compliance, Analytics Instrumentation |
-| Defining North Star Metrics in the Hanbook    | Israel Weeks                       | Enterprise Data                                                          |
+| Defining Lighthouse Metrics in the Hanbook    | Israel Weeks                       | Enterprise Data                                                          |
 | Build and publish certified Tableau dashboard | Naheil McAvinue                    | Enterprise Data                                                          |
 | Build dbt data models                         | Israel Weeks                       | Enterprise Data                                                          |
 
 ## Multimodal Communication
 
 - Apply the following labels to issues and epics to enable tracking and team wide visibility
-    - `WorkingGroup::NorthStarMetric`
+    - `WorkingGroup::LighthouseMetric`
     - `UseCase::CI`
     - `UseCase::Security`
     - `UseCase::Compliance`
