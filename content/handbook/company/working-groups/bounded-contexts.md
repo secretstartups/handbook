@@ -130,3 +130,5 @@ For stages still missing participants we will seek support from Engineering lead
 | Member                | Kassio Borges         | Staff Backend Engineer, Plan::Knowledge |
 | Member                | Aakriti Gupta         | Senior Backend Engineer, Systems:Geo |
 | Member                | Peter Leitzen         | Staff Backend Engineer, Engineering Productivity |
+| Member                | Abhinaba Ghosh        | Engineering Manager, Test & Tools Infrastructure |
+| Member                | Mohamed Hamda         | Backend Engineer, Fulfillment::Provision |
