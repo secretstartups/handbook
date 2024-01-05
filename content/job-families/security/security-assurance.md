@@ -29,15 +29,15 @@ Team members in the Security Assurance Department at GitLab are customer and ris
 
 ## Levels
 
-###  Engineer, Security Assurance (Intermediate)
+### Engineer, Security Assurance (Intermediate)
 
 This position reports to the manager of the corresponding Security Assurance specialty.
 
-####  Engineer, Security Assurance (Intermediate) Job Grade
+#### Engineer, Security Assurance (Intermediate) Job Grade
 
 The Engineer, Security Assurance (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#####  Engineer, Security Assurance (Intermediate) Responsibilities
+##### Engineer, Security Assurance (Intermediate) Responsibilities
 
 - Proven ability to successfully communicate with cross-functional teams
 - Proven ability to successfully operate in an all-remote environment
@@ -184,7 +184,7 @@ Additional details about our process can be found on our [hiring page](/handbook
 
 ###### Responsibilities
 
-- The responsibilities of a Security Assurance Automation Engineer, plus; 
+- The responsibilities of a Security Assurance Automation Engineer, plus;
 Design, engineer, deploy, and maintain custom automation projects
 - Evaluate Security Assurance tools for use by the Security Automation Department
 - Design and gather metrics data for the Security Assurance Automation program
