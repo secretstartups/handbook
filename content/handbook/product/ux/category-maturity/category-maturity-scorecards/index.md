@@ -26,7 +26,7 @@ Any Category Maturity Scorecard effort should have a corresponding issue created
 
 Refer to the [Category Maturity](https://about.gitlab.com/direction/maturity/) page to understand scoring. It is important to note that:
 
-| Category level | Conducted with?                   | Usability status                                                                                           | GitLab Design standards criteria              | Competitive add-on                    |
+| Category level | Conducted with?                   | [Usability status](https://handbook.gitlab.com/handbook/product/ux/ux-scorecards/#overall-experience)                                                                                          | [GitLab Design standards](https://docs.gitlab.com/ee/development/contributing/design.html) criteria              | [Competitive add-on](https://handbook.gitlab.com/handbook/product/ux/category-maturity/competitor-comparison/)                    |
 |----------------|-----------------------------------|------------------------------------------------------------------------------------------------------------|-----------------------------------------------|---------------------------------------|
 | Complete       | External users on the JTBDs       | A (High quality/Exceeds expectations). This is the same grading system as the UX Scorecard grading rubric. | Meets 100% of GitLab design standards         | GitLab scores: Best in class          |
 | Competitive    | External users on the JTBDs       | B (Meets expectations). This is the same grading system as the UX Scorecard grading rubric.                | Meets 100% of GitLab design standards         | GitLab scores: Equal or Best in class |
