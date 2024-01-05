@@ -24,7 +24,7 @@ The knowledge base is a self-service tool that enables you to quickly search for
 
 ## How can I access the knowledge base?
 
-The knowledge base is powered by our Trust Center tool, [SafeBase](https://app.safebase.io/knowledge). 
+The knowledge base is powered by our Trust Center tool, [SafeBase](https://app.safebase.io/knowledge).
 
 Please check out this [page](https://help.safebase.io/en/articles/6117207-knowledge-base-overview#h_615c8940e2) to learn more about how to navigate the Knowledge Base!
 
