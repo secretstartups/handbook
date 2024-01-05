@@ -114,7 +114,7 @@ graph LR
 - **Guidelines**:
     1. We follow the [individual gowth plan model](https://handbook.gitlab.com/handbook/people-group/learning-and-development/career-development/igp-guide/). The process of launching your IGP is documented [here](https://handbook.gitlab.com/handbook/people-group/learning-and-development/career-development/igp-guide/).
     4. Leverage 1:1s with your manager to discuss the progress on the goals and next steps. 
-    5. Additionaly, consider preparing a worklog document each week in the [Team Workbook](https://gitlab.com/gitlab-org/quality/work-log) to keep track of your contributions. This will assist in remembering contributions beyond usual project activities, highlighting them for consideration in performance reviews. One such example could be found [here](https://gitlab.com/gitlab-org/quality/work-log/-/issues/1). 
+    5. Additionaly, consider preparing a worklog issue in the [Team Workbook](https://gitlab.com/gitlab-org/quality/work-log/-/blob/main/templates/worklog-temaplte.md?ref_type=heads) to keep track of your contributions. This will assist in remembering contributions beyond usual project activities, highlighting them for consideration in performance reviews. One such example could be found [here](https://gitlab.com/gitlab-org/quality/work-log/-/issues/1). 
        1. Create an issue with format - `<Name>-Worklog-<Financial Year>`.
        2. Keep updating the worklog each week.
        3. Once the quarter ends, add a summary of the major contributions of the quarter to the description. 
