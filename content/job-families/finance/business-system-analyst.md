@@ -167,6 +167,10 @@ Extends the Principal, Business Systems Analyst requirements plus:
 - [Average Issues](https://about.gitlab.com/handbook/business-technology/metrics/#average-issues)
 - [Average Merge Requests](https://about.gitlab.com/handbook/business-technology/metrics/#average-merge-request)
 
+## Career Ladder
+
+Any IT team member can explore lateral career moves within the broader IT job family, provided they fulfill the responsibilities and requirements associated with the desired role.
+
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
