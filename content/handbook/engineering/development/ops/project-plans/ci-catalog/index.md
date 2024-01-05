@@ -23,33 +23,34 @@ CI Catalog GA Epic: [https://gitlab.com/groups/gitlab-org/-/epics/12153](https:/
 ### Milestone 16.8 (December 16, 2023 - January 12, 2024)
 
 #### Goals:
-- Complete initial template to component migration [list](https://gitlab.com/gitlab-org/gitlab/-/issues/432540#list).
+- Complete initial template to component migration [list](https://gitlab.com/groups/gitlab-org/-/epics/12289#list).
+  - AutoDevOps [Build component](https://gitlab.com/components/autodevops/-/blob/main/templates/build.yml?ref_type=heads) and [Test component](https://gitlab.com/gitlab-org/gitlab/-/issues/433265) is complete but discussion on whether `Test` should exist due to future deprecation.
 - Improve UI in the Catalog details page [[1](https://gitlab.com/gitlab-org/gitlab/-/issues/421922), [2](https://gitlab.com/gitlab-org/gitlab/-/issues/431899)]
 - Implement [Your resource](https://gitlab.com/gitlab-org/gitlab/-/issues/433013) tab in the index page 
 - Add [components](https://gitlab.com/gitlab-org/gitlab/-/issues/424967) tab to the catalog details page 
+  - BE/FE collaboration needed before [feature flag](https://gitlab.com/gitlab-org/gitlab/-/issues/426443) can be rolled out. 
 - Move inputs to GA ready by completing [text interpolation for arrays and !reference](https://gitlab.com/gitlab-org/gitlab/-/issues/433002).
 
 #### Updates:
 
 [Create reusable components for the CI Catalog](https://gitlab.com/groups/gitlab-org/-/epics/12066)
 
-- 70% complete, Needs Attention, ETA: `16.8`
+- 70% complete, Needs Attention
 - Status:
-  - January 2024 weekly community competition strategy meeting took place on 2023-12-19.
-  - `gitlab.com/components` has been claimed now.
-  - [Build](https://gitlab.com/gitlab-org/gitlab/-/issues/433266) is complete with README to be created shortly.
   - Progress % is based on the [Components scope for the Beta release of CI Catalog](https://gitlab.com/groups/gitlab-org/-/epics/12066#note_1666060424)
 - Work in Progress:
-  - [Migrate GitLab-maintained templates to components](https://gitlab.com/gitlab-org/gitlab/-/issues/432540#list)
+  - [Migrate GitLab-maintained templates to components](https://gitlab.com/groups/gitlab-org/-/epics/12289#list)
   - [Creation of component helpers for future contributions to CI Components](https://gitlab.com/gitlab-org/gitlab/-/issues/430818)
   - Alignment on what is needed for [Beta of the Global Catalog](https://gitlab.com/groups/gitlab-org/-/epics/12066#note_1666060424).
     The team agrees that the following will be tackled post-Beta (though discussions are already underway):
     - [How to maintain/review contributions and manage group ownership of GitLab maintained components](https://gitlab.com/gitlab-org/gitlab/-/issues/432768)
     - [How to designate GitLab “verified” / “official” components](https://gitlab.com/gitlab-org/gitlab/-/issues/432535)
   - [Determine](https://gitlab.com/gitlab-org/gitlab/-/issues/432281#goals) which team members will be reviewing the MRs for newly added components.
-    - As of 2023-12-22, discussions [continue](https://gitlab.com/gitlab-org/gitlab/-/issues/432540#note_1678603735 ) with internal teams for popular GitLab-maintained templates for review and testing.
+    - During week of 2024-01-05, an internal GitLab group has been created and owners/maintainers of gitlab.com/components have been added for now to be pinged to help with review and testing.
+    - https://gitlab.com/components/gitlab-issue-templates created to enforce consistency with MRs and streamline how contributions will be accepted for gitlab.com/components.
 - Risks/Blockers:
-  - Getting other teams involved in testing of template to component migration list and components ownership.  Discussion are ongoing regarding migration approach (Example can be found [here](https://gitlab.com/gitlab-org/gitlab/-/issues/432540#note_1705759840)) for ECS and EC2 templates.
+  - Getting alignment on [direction](https://gitlab.com/groups/gitlab-org/-/epics/12289#note_1712718380) for AWS ECS/EC2 templates migrations.
+  - Getting teams to prioritize template migrations.
 
 ### Milestone 16.9 (January 13, 2024 - February 9, 2024)
 
