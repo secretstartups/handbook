@@ -31,7 +31,7 @@ This working group is charged with driving the necessary cross-functional alignm
 | Epic - Primary                 | [Primary](https://gitlab.com/groups/gitlab-data/-/epics/1083)|
 | Epic - Security                | [Security](https://gitlab.com/gitlab-data/analytics/-/issues/18848) |
 | Epic - Compliance              | [Compliance](https://gitlab.com/gitlab-data/analytics/-/issues/18849) |
-| Board                          | [Lighthouse Metric Definitions Board](https://gitlab.com/gitlab-data/analytics/-/boards/7148077?label_name[]=WorkingGroup%3A%3ANorthStarMetric) |
+| Board                          | [Lighthouse Metric Definitions Board](https://gitlab.com/gitlab-data/analytics/-/boards/7148077?label_name%5B%5D=WorkingGroup%3A%3ALighthouseMetric) |
 | Overview & Status              | See [Exit criteria](#exit-criteria) below |
 
 ## Exit criteria
