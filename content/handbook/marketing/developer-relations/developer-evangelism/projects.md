@@ -154,26 +154,6 @@ The [log4j-resources](https://gitlab.com/gitlab-de/log4j-resources) project prov
 
 Maintainers: [Developer Evangelism team](/handbook/marketing/developer-relations/developer-evangelism/)
 
-### o11y.love
-
-[o11y.love](https://o11y.love/) is a collection of useful learning resources for observability. The [project](https://gitlab.com/everyonecancontribute/observability/o11y.love) is built using Markdown, MkDocs and GitLab Pages and organized in the [EveryoneCanContribute cafe](#everyonecancontribute-cafe) community.
-
-Goal: Provide a learning platform, and add helpful resources from GitLab related to Observability. 
-
-Maintainer: [Michael Friedrich](/handbook/company/team/#dnsmichi)
-
-### opsindev.news Newsletter
-
-[opsindev.news](https://opsindev.news) is @dnsmichi's personal newsletter to learn in public, share thought leadership ideas, and educate readers with the latest in DevSecOps, AI, Observability and Cloud-Native. Tips and tools, and event CFPs are curated too.
-
-Established: 2022-02. Subscribers as of 2024-01: 350+. 
-
-Goal: Personal brand development, thought leadership, sharing GitLab resources (AI, GitLab Duo, release posts) and a public handbook (newsletter archive) to search.
-
-The platform with Buttondown and GitLab Pages is documented in the [Contributing guide](https://opsindev.news/contributing/). The newsletter is maintained in public in Michael's namespace: https://gitlab.com/dnsmichi/opsindev.news The domain and Buttondown account is owned by Michael, and privately expensed.
-
-Maintainer: [Michael Friedrich](/handbook/company/team/#dnsmichi)
-
 ## Workshops
 
 ### DevOps and GitLab
