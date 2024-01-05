@@ -24,14 +24,22 @@ If you have questions, suggestions for improvement, or find this process doesnâ€
 
 Any Category Maturity Scorecard effort should have a corresponding issue created in the GitLab UX Research project. Ensure the label `CM Scorecard` is applied to the issue to aid in tracking UX research efforts.
 
-Refer to the [Category Maturity](https://about.gitlab.com/direction/maturity/) page to understand scoring. It is important to note that:
+It is important to note that there are specifc requirements that should be met before considering a Category Maturity Scorecard study. These requirements are designed to capture:
 
-| Category level | Conducted with?                   | [Usability status](https://handbook.gitlab.com/handbook/product/ux/ux-scorecards/#overall-experience)                                                                                          | [GitLab Design standards](https://docs.gitlab.com/ee/development/contributing/design.html) criteria              | [Competitive add-on](https://handbook.gitlab.com/handbook/product/ux/category-maturity/competitor-comparison/)                    |
+- Usability progression
+- Adherance to the GitLab Design Standards
+- How we stack up against at least one competitor
+
+The below table outlines the requirements for each maturity level:
+
+| Category level | Conducted with?                   | [Usability status](https://handbook.gitlab.com/handbook/product/ux/ux-scorecards/#overall-experience)                                                                                          | [GitLab Design Standards](https://docs.gitlab.com/ee/development/contributing/design.html) criteria              | [Competitive add-on](https://handbook.gitlab.com/handbook/product/ux/category-maturity/competitor-comparison/)                    |
 |----------------|-----------------------------------|------------------------------------------------------------------------------------------------------------|-----------------------------------------------|---------------------------------------|
 | Complete       | External users on the JTBDs       | **A** (High quality/Exceeds expectations). This is the same grading system as the UX Scorecard grading rubric. | Meets 100% of GitLab design standards         | GitLab scores: **Best in class**          |
 | Competitive    | External users on the JTBDs       | **B** (Meets expectations). This is the same grading system as the UX Scorecard grading rubric.                | Meets 100% of GitLab design standards         | GitLab scores: **Equal** or **Best in class** |
 | Viable         | Internal users who are dogfooding | **C** (Average). This is the same grading system from the UX Scorecard grading rubric.                         | Meets 100% of GitLab design standards         | (not required)                        |
 | Minimal        | (not required)                    | **D** (Poor). This is the same grading system from the UX Scorecard grading rubric.                            | Meets at least 80% of GitLab design standards | (not required)                        |
+
+Refer to the [Category Maturity](https://about.gitlab.com/direction/maturity/) page to understand scoring of a Category Maturity Scorecard study. 
 
 Previously completed Category Maturity Scorecards can be found in this [epic](https://gitlab.com/groups/gitlab-org/-/epics/6930).
 
