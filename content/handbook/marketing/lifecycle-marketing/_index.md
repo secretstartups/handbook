@@ -24,9 +24,9 @@ This role works closely across Marketing for all things email, and directly with
 [Read the job family here >>](/job-families/marketing/marketing-campaign-manager/#user-lifecycle-marketing)
 
 For more information on email marketing at GitLab, please visit the following pages:
-* [Nurture programs](/handbook/marketing/lifecycle-marketing/emails-nurture/) 
-* [Best practices](/handbook/marketing/lifecycle-marketing/email-best-practices), 
-* [Email processes and requests](/handbook/marketing/lifecycle-marketing/email-processes-requests)
+* [Nurture programs](https://handbook.gitlab.com/handbook/marketing/lifecycle-marketing/emails-nurture/) 
+* [Best practices](https://handbook.gitlab.com/handbook/marketing/lifecycle-marketing/email-best-practices/), 
+* [Email processes and requests](https://handbook.gitlab.com/handbook/marketing/lifecycle-marketing/email-processes-requests/)
 
 Please reach out to Allie Klatzkin or Luis Diego D'ambrosio with any questions.
 
