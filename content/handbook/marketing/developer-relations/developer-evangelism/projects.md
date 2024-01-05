@@ -4,11 +4,6 @@ title: "Projects"
 ---
 
 
-
-
-
-
-
 ## Introduction
 
 We maintain our projects in the public [gitlab-de group](https://gitlab.com/gitlab-de). This group has access to an Ultimate subscription.
@@ -23,7 +18,7 @@ All projects are organized in sub-groups on the top level. No projects are allow
 |--------------|-----|--------------|
 | [playground](https://gitlab.com/gitlab-de/playground) | all | Test projects, simple demo cases, code snippets, etc. without support |
 | [use-cases](https://gitlab.com/gitlab-de/use-cases) | all | Use cases for specific topics for product demos, talks, thought leadership, research |
-| [use-cases/ai](https://gitlab.com/gitlab-de/use-cases/ai) | all | [AI workflows and use cases](/solutions/ai/) |
+| [use-cases/ai](https://gitlab.com/gitlab-de/use-cases/ai) | all | [GitLab Duo workflows, coffee chats, learning AI, use cases](https://about.gitlab.com/gitlab-duo/) |
 | [use-cases/cicd-components-catalog](https://gitlab.com/gitlab-de/use-cases/cicd-components-catalog) |  @iganbaruch | GitLab CI/CD Components Catalog use cases |
 | [use-cases/efficiency](https://gitlab.com/gitlab-de/use-cases/efficiency) | @dnsmichi | Efficiency use cases (CI/CD, container images, workflows, CLI, etc.) |
 | [use-cases/gitlab-api](https://gitlab.com/gitlab-de/use-cases/gitlab-api) | @dnsmichi | GitLab API use cases with libraries and scripts |
@@ -121,24 +116,36 @@ Assigned resources:
 1. The domain `remote-dev.dev` has been purchased through the Google DNS service and points to the Kubernetes cluster's public IP.
 1. The TLS certificates have been generated manually with Let's Encrypt and need to be renewed quarterly (2023-08-15), following the [documentation steps](https://gitlab.com/gitlab-de/use-cases/remote-development/agent-kubernetes-gke).
 
-## Product Awareness Initiatives
+## Product Adoption Initiatives
 
 ### GitLab Duo Coffee Chat
 
 Live learning session with AI-powered workflows throughout the DevSecOps lifecycle, with the help of GitLab Duo. We discuss, explore, research, learn, debug, create product feedback and feature ideas, and discover new features and workflows.
 
-The coffee chats should inspire our customers and users to learn how to use GitLab Duo and adopt best practices -- by example, making mistakes, trying different routes, and achieving better results.
+Goal: The coffee chats helps our customers learn how to use GitLab Duo and adopt best practices – by example, making mistakes, trying different routes, and achieving better results and DevSecOps efficiency. 
 
-- [YouTube Playlist](https://www.youtube.com/watch?v=A4nwH_5j9gM&list=PL05JrBw4t0Kp5uj_JgQiSvHw1jQu0mSVZ)
+- [GitLab group with projects](https://gitlab.com/gitlab-de/use-cases/ai/gitlab-duo-coffee-chat)
+- [YouTube playlist](https://go.gitlab.com/xReaA1)
+- [GitLab Duo](https://go.gitlab.com/Z1vBGD) 
+- [Talk: Efficient DevSecOps Workflows with a little help from AI](https://go.gitlab.com/T864XF) - [content epic](https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics/402)
 - [Organization issue](https://gitlab.com/gitlab-com/marketing/developer-relations/dev-evangelism/de-tmm-meta/-/issues/375)
 
-Maintainer: [Michael Friedrich, @dnsmichi](/handbook/company/team/#dnsmichi)
+Maintainer: [Michael Friedrich, @dnsmichi](https://about.gitlab.com/handbook/company/team/#dnsmichi)
+
+### CI/CD Components Catalog 
+
+Collaborate with product and engineering to help seed the CI/CD component catalog through CI/CD template migration for [GitLab-maintained components](https://gitlab.com/components). Help maintain and review contributions from community competition and hackathons. Repurpose the learnings into content and story-telling ([content epic](https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics/399)). 
+
+This initiative is part of the [CI Adoption WG](https://handbook.gitlab.com/handbook/company/working-groups/customer-use-case-adoption/) and contributions by Developer Relations ([epic](https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics/317)). 
+
+Goal: Help customers with CI/CD components for DevSecOps Efficiency. Learn best practices and share them in blog posts, tutorials, workshops. 
+
+Maintainers: [Michael Friedrich, @dnsmichi](https://about.gitlab.com/company/team/#dnsmichi), [Itzik Gan Baruch, @iganbaruch](https://about.gitlab.com/company/team/#iganbaruch)
 
 ## Learning Collections
 
 ### Our Work Environments
 
-* [Brendan's dotfiles](https://gitlab.com/brendan/dotfiles)
 * [Michael's dotfiles](https://gitlab.com/dnsmichi/dotfiles) covered in [this blog post](https://about.gitlab.com/blog/2020/04/17/dotfiles-document-and-automate-your-macbook-setup/)
 
 ### log4j-resources
@@ -151,22 +158,19 @@ Maintainers: [Developer Evangelism team](/handbook/marketing/developer-relations
 
 [o11y.love](https://o11y.love/) is a collection of useful learning resources for observability. The [project](https://gitlab.com/everyonecancontribute/observability/o11y.love) is built using Markdown, MkDocs and GitLab Pages and organized in the [EveryoneCanContribute cafe](#everyonecancontribute-cafe) community.
 
-Maintainer: [Michael Friedrich](/handbook/company/team/#dnsmichi)
-
-### Opentelemetry with GitLab Research
-
-- Purpose: "Research OpenTelemetry with Tracing to help achieve CI/CD Observability in GitLab."
-- Motivation: [Feature proposal for CI/Observability: Tracing with OpenTelemetry](https://gitlab.com/gitlab-org/gitlab/-/issues/338943)
-
-The [project](https://gitlab.com/everyonecancontribute/observability/opentelemetry-gitlab-research) provides all notes, configuration, dev environments, research [changelog](https://gitlab.opentelemetry.love/changelog/), etc. and is deployed with GitLab Pages and MkDocs to [gitlab.opentelemetry.love/](https://gitlab.opentelemetry.love/). The subdomain is on purpose as long as the research continues; the main domain `opentelemetry.love` will be used by Michael for other projects.
+Goal: Provide a learning platform, and add helpful resources from GitLab related to Observability. 
 
 Maintainer: [Michael Friedrich](/handbook/company/team/#dnsmichi)
 
 ### opsindev.news Newsletter
 
-[opsindev.news](https://opsindev.news) is a newsletter inspired by the problem of too many resources, spread around Slack channels and Twitter/LinkedIn feeds where the information can be overwhelming. The target audience is developers learning Ops and DevOps, as well as engineers facing day-2-ops challenges. The newsletter is based on the latest news, telling a story and diving into the latest technology. Tips and tools and CFPs for events are curated too.
+[opsindev.news](https://opsindev.news) is @dnsmichi's personal newsletter to learn in public, share thought leadership ideas, and educate readers with the latest in DevSecOps, AI, Observability and Cloud-Native. Tips and tools, and event CFPs are curated too.
 
-The platform with Buttondown and GitLab Pages is documented in the [Contributing guide](https://opsindev.news/contributing/). The newsletter is maintained in public in Michael's namespace: https://gitlab.com/dnsmichi/opsindev.news
+Established: 2022-02. Subscribers as of 2024-01: 350+. 
+
+Goal: Personal brand development, thought leadership, sharing GitLab resources (AI, GitLab Duo, release posts) and a public handbook (newsletter archive) to search.
+
+The platform with Buttondown and GitLab Pages is documented in the [Contributing guide](https://opsindev.news/contributing/). The newsletter is maintained in public in Michael's namespace: https://gitlab.com/dnsmichi/opsindev.news The domain and Buttondown account is owned by Michael, and privately expensed.
 
 Maintainer: [Michael Friedrich](/handbook/company/team/#dnsmichi)
 
@@ -176,11 +180,15 @@ Maintainer: [Michael Friedrich](/handbook/company/team/#dnsmichi)
 
 #### DevOps with GitLab CI Course - Build Pipelines and Deploy to AWS
 
+Published: 2022. 
+
 [GitLab Hero](/community/heroes/members/) [Valentin Despa](https://twitter.com/vdespa) created the 5h course in collaboration Michael Friedrich, who helped with the [course outline review](https://gitlab.com/everyonecancontribute/workshops/gitlab-ci-freecodecamp/-/merge_requests/1).
 
 [![](https://img.youtube.com/vi/PGyhBwLyK2U/0.jpg)](https://www.youtube.com/watch?v=PGyhBwLyK2U "DevOps with GitLab CI Course - Build Pipelines and Deploy to AWS")
 
 #### Efficient DevSecOps Pipelines in a Cloud Native World
+
+Published: 2021. 
 
 The [slides](https://docs.google.com/presentation/d/12ifd_w7G492FHRaS9CXAXOGky20pEQuV-Qox8V4Rq8s/edit) provide a 10+ hours workshop created by Michael Friedrich for the Open Source Automation Days 2021. The exercises in the slides refer to [a workshop project](https://gitlab.com/gitlab-de/workshops/ci-cd-pipeline-efficiency-workshop) which also includes the solutions.
 
@@ -222,6 +230,8 @@ The [slides](https://docs.google.com/presentation/d/1bj8FqU5I-Og-Yf9rDbp0qRjV4AX
 
 #### Recent Recordings
 
+Published: 2021.
+
 [![](https://img.youtube.com/vi/id9klDUrGN8/0.jpg)](https://www.youtube.com/watch?v=id9klDUrGN8 "TalentQL Pipeline workshop in October 2021")
 [![](https://img.youtube.com/vi/kTNfi5z6Uvk/0.jpg)](https://www.youtube.com/watch?v=kTNfi5z6Uvk "1. Swiss Meetup 2021 in January")
 
@@ -257,6 +267,8 @@ German language:
 
 #### Kubernetes Observability workshop for Kube Simplify
 
+Published: 2022. 
+
 Michael Friedrich provides a 3.5 hours live workshop on Kubernetes Observability for the [Kube Simplify workshop series](https://kubesimplify.github.io/live-workshops/) as a free learning resource. After an introduction, the workshop starts with an overview of monitoring, metrics with Prometheus, and how to build and use dashboards in Kubernetes. Alerts, incidents and SLOs are practiced by example, building the bridge into more Observability data with tracing, logs and more event types. Chaos engineering is practiced with Chaos Mesh to trigger alerts when DNS errors force an app to leak memory. This allows users to practice the [KubeCon EU 2022 demo](https://youtu.be/BkREMg8adaI) themselves. Scaling, long term storage, security workflows as well as new innovative ideas with OpenTelemetry and eBPF are discussed too. The workshop includes exercises and solutions ready for production environments afterwards.
 
 Resources:
@@ -267,30 +279,6 @@ Resources:
 Recording:
 
 [![Kube Simplify: Kubernetes Observability workshop](https://img.youtube.com/vi/sMEEVbZ4NFM/0.jpg)](https://www.youtube.com/watch?v=sMEEVbZ4NFM)
-
-
-#### Practical Kubernetes Monitoring with Prometheus
-
-The [slides](https://docs.google.com/presentation/d/17XVCbiC4PZYvpreZINmhNltmT-DDCo3LjoaPgqpsxVo/edit) provide a 4+ hours workshop, more details are available [on Michael Friedrich's personal blog](https://dnsmichi.at/2021/09/14/monitoring-kubernetes-with-prometheus-and-grafana-free-workshop/). The following topics will be practiced:
-
-- Monitoring, quo vadis puts the traditional monitoring in contrast to microservices.
-- Prometheus and Grafana shares the basic knowledge on Prometheus, PromQL, Service Discovery and terminology required to understand.
-- Kubernetes dives into understanding what to monitor, and how.
-- Prometheus Operator dives into the concept of the package, and kube-prometheus installing a full stack. You'll dive into the UI of Prometheus, Grafana and the Alert Manager.
-- K8s monitoring with Prometheus walks you through the - amazing - default Grafana dashboards, instructs you to deploy a Go demo app with the CRD ServiceMonitor, Container Metrics and kube-state-metrics exercises to practice PromQL queries.
-- Advanced Monitoring practices with a Python app and own metrics, deployed to the GitLab container registry and to Kubernetes to query with PromQL in Grafana dashboards. Storage with Thanos/Cortex, Service Discovery is touched as well.
-- Alerts and Escalations dives into the Alert Manager and rules, mapped into the PrometheusRule CRD.
-- SLA, SLO, SLI keeps you busy with learning about Service Level Objectives for your production environment, providing thoughts on CI/CD quality gates with Keptn - and the OpenSLO spec, Pyrra and Sloth.
-- Observability moves from Monitoring to metrics, logs, traces and beyond.
-- Secure Monitoring discusses TLS, secret management, Infrastructure as code workflows, Container security and RBAC & policies.
-- Ideas on more monitoring with Prometheus exporters, podtato-head, Chaos Engineering, etc.
-
-A shorter version of the workshop [as a talk](https://docs.google.com/presentation/d/1EEBJFgeThlVEeC_E3tOYGicU2X0S9vPGsba49EQSNwk/edit) was provided by Michael Friedrich at PromCon NA 2021, a zero day event at KubeCon NA.
-
-[![](https://img.youtube.com/vi/CyQNYT1ZQQ8/0.jpg)](https://www.youtube.com/watch?v=CyQNYT1ZQQ8 "PromCon NA: Practical Kubernetes Monitoring with Prometheus")
-
-
-
 
 
 ## OSS Projects
