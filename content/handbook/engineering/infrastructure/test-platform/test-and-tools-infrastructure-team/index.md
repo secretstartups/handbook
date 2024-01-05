@@ -165,7 +165,7 @@ Duration: ~1 week
 
 ### Borrow requests
 
-It is highly unlikely that members of the Test Tools and Infrastructure team will be borrowed, as our focus does not align with general Test Engineering support. Our work is driven by a unique [roadmap](./roadmap-test-and-tools-infrastructure.md), and any incoming requests are calibrated based on our [Support Assistance Process](#support-assistance). However, if a team is developing their test tooling and infrastructure and requires short-term support to centralize their solution with expert guidance, the following process should be adhered to:
+Depending on the business needs, skillsets, timelines, and workload on SETs in other teams, members of the Test Tools and Infrastructure team could be requested to assist in other areas. In such case, the following process should be adhered to:
 
 1. Initiate a [borrow request issue](https://gitlab.com/gitlab-com/Product/-/issues/new?issuable_template=Borrow-Request-Lite) with the `~SET Borrow` label.
 2. Submit requests at least two weeks in advance for adequate preparation and resource planning.
