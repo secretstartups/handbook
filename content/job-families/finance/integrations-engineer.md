@@ -264,7 +264,7 @@ Extends that of the Manger, Enterprise Architecture & Integration Engineering re
 - Expert knowledge of IT best practices, policies, and regulations, including a clear understanding of client/server technology and network architecture.
 - Excellent project management skills and strong ability to prioritize.
 
-### Performance Indicators
+## Performance Indicators
 
 - [Evaluating System or Process Efficiency](/handbook/business-technology/metrics/#evaluating-system-or-process-efficiency)
 - [Average Merge Request](/handbook/business-technology/metrics/#average-merge-request)
@@ -274,9 +274,9 @@ Extends that of the Manger, Enterprise Architecture & Integration Engineering re
 - Number of reference architecture designs
 - Ensure that architecture related decisions follow the different department roadmaps
 
-### Career Ladder
+## Career Ladder
 
-The next step in the Integrations Engineering job family is to move a higher level IC role which is not yet defined at GitLab.
+Any IT team member can explore lateral career moves within the broader IT job family, provided they fulfill the responsibilities and requirements associated with the desired role.
 
 ## Hiring Process
 
