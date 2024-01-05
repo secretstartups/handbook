@@ -108,7 +108,7 @@ We recommend these general timelines for completion based on your level to enabl
 ## Important Materials for Review
 
 The following materials are recommended for managers to review ahead of planning:
-- [Workday Job Aid (internal only)](To be linked when ready): Please utilize the job aid for instructions on how to access and use the planning tool in Workday.
+- [Workday Job Aid (internal only)](https://docs.google.com/document/d/1zjWqzYKblfzH4fo2OfMzUU3fwWXfdX4ILwwzJqmMrww/edit): Please utilize the job aid for instructions on how to access and use the planning tool in Workday.
 - [Information Guide for Managers (internal only)](https://docs.google.com/document/d/1ZSC0lVo3di9JFJy4kwy9QSGChrI8F3jdO34iG0yO3Sg/edit): The information guide provides additional detail to what has been provided in the handbook.
 
 ## Annual Compensation Review Guidelines
