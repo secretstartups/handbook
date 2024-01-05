@@ -1,14 +1,7 @@
 ---
-
 title: "Verify:Runner"
 description: "The GitLab Runner team page."
 ---
-
-
-
-
-
-
 
 ## Vision
 
@@ -18,15 +11,15 @@ By 2025, our vision for GitLab Runner is that the runner's setup and day-to-day 
 
 Our mission is to enable organizations to efficiently run GitLab CI/CD jobs on any computing platform and do so in an operationally efficient and highly secure way at any scale.
 
-This team maps to [Verify](/handbook/product/categories/#verify-stage) devops stage.
+This team maps to [Verify](/handbook/product/categories/#verify-stage) DevOps stage.
 
 ## Product Strategy and Roadmap
 
 The product strategy and roadmap for the runner product categories are covered on the following direction pages.
 
-- [Runner Core](/direction/verify/runner_core/)
-- [Runner Fleet](/direction/verify/runner_fleet)
-- [Runner SaaS](/direction/verify/runner_saas)
+- [Runner Core](https://about.gitlab.com/direction/verify/runner_core/)
+- [Runner Fleet](https://about.gitlab.com/direction/verify/runner_fleet)
+- [Runner SaaS](https://about.gitlab.com/direction/verify/runner_saas)
 
 ## UX strategy
 
@@ -41,18 +34,18 @@ In the [OPS section](https://internal.gitlab.com/handbook/company/performance-in
 
 The following people are permanent members of the Verify:Runner group:
 
-<%= direct_team(manager_role: 'Senior Engineering Manager, Verify:Runner') %>
+{{< team-by-manager-role "Engineering Manager(.*)Verify:Runner" >}}
 
 ## Stable Counterparts
 
-<%= stable_counterparts(role_regexp: /[,&] Verify:Runner/, direct_manager_role: 'Senior Engineering Manager, Verify:Runner') %>
+{{< stable-counterparts role="Verify:Runner" manager-role="Engineering Manager(.*)Verify:Runner" >}}
 
 For a more comprehensive list of counterparts, look at the [runner product
 categtory](/handbook/product/categories/#runner-group)
 
 ## Dashboards
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Runner" } %>
+{{% cross-functional-dashboards filters="Runner" %}}
 
 ## Projects we maintain
 
@@ -91,7 +84,7 @@ is added to each project with maintainer permission. We also try to align tools 
   - [Release tool](https://gitlab.com/gitlab-org/ci-cd/runner-tools/releaser)
   - [GitLab Changelog](https://gitlab.com/gitlab-org/ci-cd/runner-tools/gitlab-changelog)
   - [Release index generator](https://gitlab.com/gitlab-org/ci-cd/runner-tools/release-index-generator)
-  
+
 ### Runner SaaS projects
 
 - Images
@@ -158,7 +151,7 @@ The commitments for the iteration plan are directly related to the capacity of t
 1. The PM adds the scoped label `~candidate::x.y` to each issue. For example `~candidate::16.0`
 1. The PM assigns the iteration planning issues to the runner EM, UX, QE and TW counterparts.
 1. The EM reviews all candidate tech debt, bugs, security and feature issues and applies the `deliverable` label to issues based on team capacity. The deliverable label signals a commitment for delivery and is tied directly to our team KPIs. Any issue not receiving the `deliverable` label will be treated as stretch and pulled in as team members have capacity.
-1. At minimum, three business days prior to GitLab's monthly release [kickoff](https://about.gitlab.com/handbook/engineering/workflow/#kickoff) livestream, the PM, EM, Quality and UX leads finalize the iteration plan for the upcoming milestone.
+1. At minimum, three business days prior to GitLab's monthly release [kickoff](/handbook/engineering/workflow/#kickoff) livestream, the PM, EM, Quality and UX leads finalize the iteration plan for the upcoming milestone.
 
 As we have a lot of involvement with our stable counterparts and reliability team, we also add a section to our iteration plan to reflect any `blocking` or `relating` issues.
 1. The engineering team adds all `blocking` or `related` reliability issues to the iteration plan.
@@ -177,7 +170,7 @@ At a minimum we will always identify our top priorities using `~"Runner::P1"`.
 1. `~"Runner::P2"` means "normal priority".
 1. `~"Runner::P3"` means "reduced priority".
 1. `~"Runner::P*"` labels can and should differ from `~priority:*` labels.
-    [`~priority:*`](/handbook/engineering/quality/issue-triage/#priority) labels imply the timeline for when issues will be addressed.
+    [`~priority:*`](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#priority) labels imply the timeline for when issues will be addressed.
     While `~"Runner::P*"` indicate priority for the scheduled iteration.
 
 ### Design and development process
@@ -227,7 +220,7 @@ These limits are intended to help with the work load on the reviewers and mainta
 
 When a new developer joins Runner, their responsibility will include maintaining the runner project and all satelite repositories we own from their first day. This means that the developer will get Maintainer access to our repositories and will be added to the [`runner-maintainers`](https://gitlab.com/groups/gitlab-com/runner-maintainers/-/group_members?with_inherited_permissions=exclude) group so they appear in merge request approval group.
 
-This allows the onboarding developer to grow organically over time in their responsibilities, which might include (non-exhaustive) code reviews, incident response, operations and releases. We should still follow the [traditional two-stage review process](https://about.gitlab.com/handbook/engineering/workflow/code-review/) for merges in most cases (incident response and operations being exceptions if the situation warrants it).
+This allows the onboarding developer to grow organically over time in their responsibilities, which might include (non-exhaustive) code reviews, incident response, operations and releases. We should still follow the [traditional two-stage review process](/handbook/engineering/workflow/code-review/) for merges in most cases (incident response and operations being exceptions if the situation warrants it).
 
 ### Becoming a maintainer for one of our projects
 
@@ -318,7 +311,7 @@ Some notes/suggestions:
 
 ### On issues
 
-Issues worked on by the Runner group a group label of `~group::runner`. Issues that contribute to the verify stage of the devops toolchain have the `~devops::verify` label.
+Issues worked on by the Runner group a group label of `~group::runner`. Issues that contribute to the verify stage of the DevOps toolchain have the `~devops::verify` label.
 
 ### Get our attention
 

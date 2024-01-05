@@ -92,7 +92,7 @@ Hence, GitLab managers are [expected]({{< ref "structure#management-group" >}}) 
 
 One of the best ways to keep a remote team aligned is to regularly review the [Learning and Development Team's Purpose, Vision, Mission, and Objectives]({{< ref "/handbook/people-group/learning-and-development#overview" >}}).
 
-Gitlab's L&D team has a [regular meeting schedule]({{< ref "/handbook/people-group/learning-and-development#learning--development-team-meetings" >}}) to brainstorm, strategize, discuss and collaborate, assign tasks, review feedback or data, and assess progress on the team's strategy and roadmap.
+GitLab's L&D team has a [regular meeting schedule]({{< ref "/handbook/people-group/learning-and-development#learning--development-team-meetings" >}}) to brainstorm, strategize, discuss and collaborate, assign tasks, review feedback or data, and assess progress on the team's strategy and roadmap.
 
 ## What are some tips for building a successful remote team L&D program?
 
@@ -131,12 +131,12 @@ At a high level, this is how new team members are onboarded at GitLab.
 
 1. On a new hire's first day, they are invited to create a GitLab account
 1. Within their GitLab account is an [onboarding issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#all-gitlabbers) with over 200 tasks, including [GitLab's Guide to Starting a Remote Role]({{< ref "./getting-started" >}})
-  - Onboarding items are extremely prescriptive
-  - Rather than bundling a complex series of asks into one "task," as is common elsewhere, GitLab strives to remove ambiguity
+    - Onboarding items are extremely prescriptive
+    - Rather than bundling a complex series of asks into one "task," as is common elsewhere, GitLab strives to remove ambiguity
 1. Each new hire is assigned an Onboarding Buddy as an added resource beyond the individual's manager
-  - The Onboarding Buddy is a serious role, replete with [its own Handbook page]({{< ref "onboarding-buddies" >}})
-  - The Onboarding Buddy provides assistance in any way, where no question is silly or too minute, to ensure the new hire has all questions addressed
-  - If a concern or obstacle is surfaced to the Onboarding Buddy, and there is no solution in the Handbook, the Onboarding Buddy works with the new hire to create a merge request for the enlightenment of all future new hires
+    - The Onboarding Buddy is a serious role, replete with [its own Handbook page]({{< ref "onboarding-buddies" >}})
+    - The Onboarding Buddy provides assistance in any way, where no question is silly or too minute, to ensure the new hire has all questions addressed
+    - If a concern or obstacle is surfaced to the Onboarding Buddy, and there is no solution in the Handbook, the Onboarding Buddy works with the new hire to create a merge request for the enlightenment of all future new hires
 1. The onboarding process is self-directed and self-guided, with new hires encouraged to lean on [documentation]({{< ref "./handbook-first" >}}t) in the [Handbook]({{< ref "/handbook" >}}) — as well as conversing with any GitLab team member — to get up to speed.
 
 Read more in GitLab's [complete guide to remote onboarding]({{< ref "./onboarding" >}}).
@@ -188,9 +188,9 @@ The attendees are encouraged to collect notes in a Google document and distribut
 
 Example:
 - [Kubecon 2019 notes](https://docs.google.com/document/d/1CdcERqUJrSoyA6OU9D3CMz8SRYFbJwvcLJDtkgdSEsg/edit#heading=h.jki4vp3yq19q).  This document contains:
-  - Pictures of interesting slides
-  - Notes on those slides written by the conference attendees
-  - Links to interesting presentations and documents from the conference
+    - Pictures of interesting slides
+    - Notes on those slides written by the conference attendees
+    - Links to interesting presentations and documents from the conference
 - Link to document distributed to Slack channels for the Protect team and Engineering overall
 - Link to document added to [Engineering week in review](https://docs.google.com/document/d/1Oglq0-rLbPFRNbqCDfHT0-Y3NkVEiHj6UukfYijHyUs) document.
 

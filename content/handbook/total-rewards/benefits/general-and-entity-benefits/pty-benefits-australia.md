@@ -165,7 +165,7 @@ Time in lieu should be requested via [Time Off by Deel]({{< ref "paid-time-off#t
 
 Sick and carer's leave (also known as personal leave or personal / carer's leave) lets an employee take time off to help them deal with personal illness, caring responsibilities and family emergencies. Team members will be entitled to personal/carer’s leave in accordance with the Fair Work Act 2009 (Cth) as varied from time to time.
 
-**Paid Carer's Leave:**
+**Paid Personal/Carer's Leave:**
 
 Currently team members are entitled to 10 days of paid personal/carer’s leave for each year of continuous service for full-time team members and pro rata for part-time team members based on ordinary hours of work.
 
@@ -180,7 +180,7 @@ An immediate family member is a:
 
 - spouse or former spouse
 - de facto partner or former de facto partner
-child
+- child
 - parent
 - grandparent
 - grandchild
@@ -216,7 +216,7 @@ An immediate family member is a:
 
 - spouse or former spouse
 - de facto partner or former de facto partner
-child
+- child
 - parent
 - grandparent
 - grandchild

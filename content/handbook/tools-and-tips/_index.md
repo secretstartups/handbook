@@ -129,7 +129,7 @@ This can be done by running `find source/handbook -type f | xargs wc -w` from th
 
 ### Trainee maintainer issue upkeep
 
-Part of the [maintainer training process](https://about.gitlab.com/handbook/engineering/workflow/code-review/#trainee-maintainer) is to keep track of Merge Request that have been reviewed and writing down an assessment on the review in the maintainer training issue.
+Part of the [maintainer training process](/handbook/engineering/workflow/code-review/#trainee-maintainer) is to keep track of Merge Request that have been reviewed and writing down an assessment on the review in the maintainer training issue.
 Manual upkeep of the maintainer training issue can be time consuming. There are tools that others have built to help with this task:
 
 - <https://gitlab.com/nolith/review-tanuki>
@@ -646,12 +646,12 @@ Please reach out to the People Connect Team in the `#people-connect` Slack chann
 1. Create your calendar invite
 1. Add your Zoom link
 1. Add an agenda or relevant content
-1. Under Add Guests, add `Gitlab Team Meetings` in addition to anyone else you want invited (if you want the entire company invited please use everyone@).
+1. Under Add Guests, add `GitLab Team Meetings` in addition to anyone else you want invited (if you want the entire company invited please use everyone@).
 
    **Note:** This will appear like adding a room, which is expected
    {: .note}
 
-   ![Adding Gitlab Team Meetings](/handbook/tools-and-tips/images/adding-gitlab-team-meetings.png)
+   ![Adding GitLab Team Meetings](/handbook/tools-and-tips/images/adding-gitlab-team-meetings.png)
 
 #### Managing invite responses
 
@@ -857,7 +857,7 @@ Set up an [email signature](https://support.google.com/mail/answer/8395) which i
 <span style="font-family: serif;font-size: small;display: block;">John Doe</span>
 <span style="color: #999999;font-family: sans-serif;font-size: small;display: block;">Frontend Engineer | GitLab</span>
 
-<img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-rgb.png" alt="Gitlab Logo" width="98" height="37">
+<img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-rgb.png" alt="GitLab Logo" width="98" height="37">
 
 #### Email signature if employed by our German entity
 
@@ -866,7 +866,7 @@ If you are employed by our German entity GitLab GmbH, you will need to include s
 <span style="font-family: serif;font-size: small;display: block;">John Doe</span>
 <span style="color: #999999;font-family: sans-serif;font-size: small;display: block;">Frontend Engineer | GitLab</span>
 
-<img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-rgb.png" alt="Gitlab Logo" width="98" height="37">
+<img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-rgb.png" alt="GitLab Logo" width="98" height="37">
 
 <span style="font-family: serif;font-size: small;display: block;">GitLab GmbH  | Sitz: München  | Registergericht: Amtsgericht München, HRB 237630  | Geschäftsführer: James John Gladen und Craig Adam Mestel</span>
 

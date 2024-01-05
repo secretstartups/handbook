@@ -20,7 +20,7 @@ I used to be a manager, and I clearly still have a fairly manager-like outlook o
 but I purposely went back to being an individual contributor,
 especially to focus on project work, and collaborate with other teams.
 
-I believe I've come to really embrace the [GitLab Values](https://handbook.gitlab.com/handbook/values/),
+I believe I've come to really embrace the [GitLab Values](/handbook/values/),
 but it initially took me months to really internalize,
 and I'm still working on excelling in some areas.
 
@@ -29,13 +29,13 @@ books, movies, food, birds (and birding), puzzles, Lego, Canada, languages, and 
 
 ### My assumptions
 
-Being at GitLab, I generally assume that people are following or embody the [GitLab Values](https://handbook.gitlab.com/handbook/values/).
+Being at GitLab, I generally assume that people are following or embody the [GitLab Values](/handbook/values/).
 In particular, the assumptions I have about others tend to be the same things people say about me:
 
-- You'll [do what you say you will](https://handbook.gitlab.com/handbook/values/#ownership).
-- You'll [share, especially by asking for help](https://handbook.gitlab.com/handbook/values/#share).
-- You're [direct](https://handbook.gitlab.com/handbook/values/#directness).
-- You'll [provide feedback if you have any](https://handbook.gitlab.com/handbook/values/#give-feedback-effectively).
+- You'll [do what you say you will](/handbook/values/#ownership).
+- You'll [share, especially by asking for help](/handbook/values/#share).
+- You're [direct](/handbook/values/#directness).
+- You'll [provide feedback if you have any](/handbook/values/#give-feedback-effectively).
 
 ## Availability and communication preferences
 
@@ -54,7 +54,7 @@ If it's outside my working hours, you can still send an invite to propose a time
 You will find me regularly in team meetings,
 and in various [donut](https://www.donut.com/) channels.
 
-I also participate in [TMRGs](https://handbook.gitlab.com/handbook/company/culture/inclusion/erg-guide/),
+I also participate in [TMRGs](/handbook/company/culture/inclusion/erg-guide/),
 namely Women+, and Global voices.
 
 Ways to connect with me:
@@ -90,11 +90,11 @@ Ways to connect with me:
 - **I take ownership of my work and focus on results with a bias for action.** At best, this means I deliver, and get a lot done.
 At worst, I lose focus of the human element, seem very certain of an opinion, and/or I'm unintentially discouraging or not giving others the opportunities to contribute.
   - **What to do at its worst**: Tell me you'd like to contribute or remind me to think of the human impact.
-  Let me know that you might disagree with my idea, as many of them are [strong opinions weakly held](https://handbook.gitlab.com/handbook/ceo/#flaws).
+  Let me know that you might disagree with my idea, as many of them are [strong opinions weakly held](/handbook/ceo/#flaws).
   Because I don't do this consciously, I will never get mad at someone for letting me know.
 - **I'm direct.** At best, it means I'm being transparent and providing feedback.
-At worst, the feedback will read as criticizing, forgetting the "kind" part of [directness](https://handbook.gitlab.com/handbook/values/#directness).
-  - **What to do at its worst**: [Give me feedback](https://handbook.gitlab.com/handbook/values/#give-feedback-effectively) on what didn't work for you.
+At worst, the feedback will read as criticizing, forgetting the "kind" part of [directness](/handbook/values/#directness).
+  - **What to do at its worst**: [Give me feedback](/handbook/values/#give-feedback-effectively) on what didn't work for you.
   Level of directness varies by country/culture and I recognize that I'm on the direct end, so it's okay to remind me of that.
 - **I reprioritize constantly.** At best, this means that important and impactful things get done quickly.
 At worst, it means that I miss a deliverable that you were waiting for.

@@ -63,7 +63,7 @@ Discourse implements an intelligent spam prevention system, which leads to users
 - Topics unrelated to GitLab, DevOps, etc. and text with many external URLs often is spam.
   - Take action with `Delete User > Delete and Block User`. This also deletes the post.
 - There are bots which copy the body text of another topic or reply, and create their own new topic with a new URL. Discourse detects them as `New user typed their first post suspiciously fast, suspected bot or spammer behavior.`
-  - Take action with `Delete User > Delete and Block User`.  
+  - Take action with `Delete User > Delete and Block User`.
 - False positives
   - Short replies such as `Me too.`
   - A copy-pasted question from a different platform.
@@ -204,7 +204,7 @@ F --> |Yes, using GitLab.com| G["ping #support_gitlab-com"]
 F --> |Yes, self-managed| H["ping #support_self-managed"]
 F --> |No| I["Direct them to support.gitlab.com"]
 A --> J("GitLab vs Competitor")
-J --> |Question|K["Find answer via devops tools page/blog and link"]
+J --> |Question|K["Find answer via DevOps tools page/blog and link"]
 J --> |Discussion|L["Link on #competition"]
 A --> M("Feature Proposal")
 M --> |Already exists|N["Link to the open issue"]
@@ -244,7 +244,7 @@ After a forum topic is created in the Internal category, team members have the a
 
 - To edit the title, category, or tags of the topic, click the pencil icon on the top.
 - To edit the description, use the pencil icon at the bottom of the topic next to 'Reply'. Note that the pencil icon may be collapsed within the ellipsis menu.
-- Editing a topic description only is available for [trust level 4](/handbook/marketing/developer-relations/workflows-tools/forum/#user-trust-levels) and moderators. Ask an administrator to update the [team member trust level](/handbook/marketing/developer-relations/workflows-tools/forum/#team-member-trust-level) if necessary.  
+- Editing a topic description only is available for [trust level 4](/handbook/marketing/developer-relations/workflows-tools/forum/#user-trust-levels) and moderators. Ask an administrator to update the [team member trust level](/handbook/marketing/developer-relations/workflows-tools/forum/#team-member-trust-level) if necessary.
 
 A sandbox topic to test editing is available [here (internal)](https://forum.gitlab.com/t/draft-announcement-sandbox-test-for-everyone/71974).
 
@@ -291,7 +291,7 @@ Steps for bannering on Discourse:
 
 The Discourse instance `forum.gitlab.com` is operated by the Discourse team on [their SaaS platform](https://www.discourse.org/pricing). The Discourse platform was started as self-hosted instance in 2015, and later [migrated to Discourse SaaS in February 2020](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/139). The domain is managed by the GitLab infrastructure team.
 
-Updates and important security fixes are applied by the Discourse team. Technical owners can reach out to their support team. For business organization and subscription updates, please open [a confidential issue in the Developer Evangelist Meta Project](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues). 
+Updates and important security fixes are applied by the Discourse team. Technical owners can reach out to their support team. For business organization and subscription updates, please open [a confidential issue in the Developer Evangelist Meta Project](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues).
 
 In October 2021, the Discourse forum exceeded 1 million monthly page views. More metric reports can be created using the [Admin dashboard](https://forum.gitlab.com/admin).
 
@@ -318,7 +318,7 @@ Administrators can promote team members to trust level 4 manually, for example w
 
 #### Categories
 
-The [forum categories](https://forum.gitlab.com/categories) allow to group posts by sections and topics. Users can also subscribe to category notifications. The top-level categories are inspired by the DevSecOps lifecycle, common questions about GitLab features, and community activities. 
+The [forum categories](https://forum.gitlab.com/categories) allow to group posts by sections and topics. Users can also subscribe to category notifications. The top-level categories are inspired by the DevSecOps lifecycle, common questions about GitLab features, and community activities.
 
 Categories are also shown in a dropdown when users follow the `New topic` action on the forum landing page. We try to keep the category list short and concise.
 
@@ -330,17 +330,17 @@ There are two categories serving a special purpose, they must not be removed:
 For requesting a new category, please review the following steps:
 
 1. Do you want to filter specific topics, or subscribe to notifications? If yes, please consider using [tags](#tags) instead.
-1. New categories should fit as subcategory into the existing top-level categories. We try to avoid bigger layout changes to avoid breaking contributor workflows. 
+1. New categories should fit as subcategory into the existing top-level categories. We try to avoid bigger layout changes to avoid breaking contributor workflows.
 1. Create a [new issue in the Developer Evangelist Meta Project](https://gitlab.com/gitlab-com/marketing/developer-relations/dev-evangelism/de-tmm-meta/-/issues) to discuss, and add details about forum DRIs, expected topic count, and impact. Assign the issue to technical owners using this quick action: `/assign @dnsmichi @sugaroverflow`.
 
-#### Tags 
+#### Tags
 
 Users can add tags to topics; higher trust levels also allow tag creation. Users can filter topics by tag, and subscribe to tag notifications too. This helps with specific workflows for docs and blog teams.
 
 The tag group [`feedback`](https://forum.gitlab.com/tag_groups/6) includes the following tags:
 
-- [`docs-feedback`](https://forum.gitlab.com/tag/docs-feedback) is used by the technical writing team to invite for docs.gitlab.com feedback. 
-- [`blog-feedback`](https://forum.gitlab.com/tag/blog-feedback) is embedded on the GitLab blog footer as CTA for feedback. 
+- [`docs-feedback`](https://forum.gitlab.com/tag/docs-feedback) is used by the technical writing team to invite for docs.gitlab.com feedback.
+- [`blog-feedback`](https://forum.gitlab.com/tag/blog-feedback) is embedded on the GitLab blog footer as CTA for feedback.
 
 #### Settings
 

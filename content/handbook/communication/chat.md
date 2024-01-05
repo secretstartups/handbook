@@ -100,13 +100,13 @@ These channels are for teams and GitLab team-members interested in a specific fe
 
 #### Group Channels (g_)
 
-Group channels (prefixed with a `g_`) correspond to a [DevOps Stage group](/handbook/product/categories/#hierarchy) and other [engineering departments and teams](https://about.gitlab.com/handbook/engineering/#engineering-departments--teams).
+Group channels (prefixed with a `g_`) correspond to a [DevOps Stage group](/handbook/product/categories/#hierarchy) and other [engineering departments and teams](/handbook/engineering/#engineering-departments--teams).
 
 **Example**
 
 - **[`#g_create`](https://gitlab.slack.com/archives/g_create)**: Channel for the [Create](/handbook/product/categories/#create-stage) development group.
 - **[`#g_create_source-code`](https://gitlab.slack.com/archives/g_create_source-code)**: Channel for the [Source Code](/handbook/product/categories/#source-code-group) development group.
-- **[`#g_geo`](https://gitlab.slack.com/archives/g_geo)**: Dedicated to the [Geo group](https://about.gitlab.com/handbook/engineering/development/enablement/systems/geo/).
+- **[`#g_geo`](https://gitlab.slack.com/archives/g_geo)**: Dedicated to the [Geo group](/handbook/engineering/development/enablement/systems/geo/).
 
 #### Location Channels (loc_)
 
@@ -158,7 +158,7 @@ If there's a channel not listed below, please add in alphabetical order with an 
 | [`#loc_india`](https://app.slack.com/client/T02592416/CDKF2QND7) | Indians at GitLab |
 | [`#loc_indianapolis`](https://app.slack.com/client/T02592416/C01071LFT3J) | Local Indiana/Indianapolis GitLab team members |
 | [`#loc_ireland`](https://app.slack.com/client/T02592416/CFN507G9H) |  |
-| [`#loc_israel`](https://app.slack.com/client/T02592416/CLTSE8L91) | Sync Locally for Gitlab team members in Israel |
+| [`#loc_israel`](https://app.slack.com/client/T02592416/CLTSE8L91) | Sync Locally for GitLab team members in Israel |
 | [`#loc_italy`](https://app.slack.com/client/T02592416/CCL55MRH6) |  |
 | [`#loc_japan`](https://app.slack.com/client/T02592416/CSWKAJ8HF) |  |
 | [`#loc_kansas-city`](https://app.slack.com/client/T02592416/CHWJVF61W) | Channel for KC GitLabbers |
@@ -199,7 +199,7 @@ If there's a channel not listed below, please add in alphabetical order with an 
 | [`#loc_rdu`](https://app.slack.com/client/T02592416/CGCCE7ZAR) | For those who live or visit the Raleigh Durham area in North Carolina, U.S.A. |
 | [`#loc_romania`](https://app.slack.com/client/T02592416/CMTAGFMTR) | 🇷🇴  |
 | [`#loc_russia`](https://app.slack.com/client/T02592416/CM8C6FXPC) |  |
-| [`#loc_sacramento_reno`](https://app.slack.com/client/T02592416/CH4MFKWQ7) | Visiting Sacramento, Roseville, Folsom, Elk Grove, Rocklin, Reno or even Tahoe? For Gitlab team members based in the area and anyone who is visiting |
+| [`#loc_sacramento_reno`](https://app.slack.com/client/T02592416/CH4MFKWQ7) | Visiting Sacramento, Roseville, Folsom, Elk Grove, Rocklin, Reno or even Tahoe? For GitLab team members based in the area and anyone who is visiting |
 | [`#loc_sanantonio`](https://app.slack.com/client/T02592416/CPPEK0E4X) | Channel for San Antonio GitLab Team Members |
 | [`#loc_sask`](https://app.slack.com/client/T02592416/CR2QGNAMS) | Saskatchewan (Canada) folks. |
 | [`#loc_sc`](https://app.slack.com/client/T02592416/C01BCDZV2QY) | For GitLab team members living in South Carolina. |
@@ -229,7 +229,7 @@ If there's a channel not listed below, please add in alphabetical order with an 
 | [`#loc-costa-rica`](https://app.slack.com/client/T02592416/C01TG4VLFDK) |  |
 | [`#loc-dublin`](https://app.slack.com/client/T02592416/CBK3B7EGM) | Connection with the Dublin team |
 | [`#loc-latam`](https://app.slack.com/client/T02592416/CTA13962D) | For all team members from Latam , rest of the world welcome as well |
-| [`#loc-midwest-u-s`](https://app.slack.com/client/T02592416/CC0BVGJTT) | To connect with Gitlab team members in the Midwest region of the U.S. |
+| [`#loc-midwest-u-s`](https://app.slack.com/client/T02592416/CC0BVGJTT) | To connect with GitLab team members in the Midwest region of the U.S. |
 | [`#loc-utah`](https://app.slack.com/client/T02592416/C1F6XRA77) |  |
 | [`#loc-west-lafayette`](https://app.slack.com/client/T02592416/CQ8HG9NNA) | West Lafayette, IN GitLab team members |
 | [`#locnewyork`](https://app.slack.com/client/T02592416/CPLALPZ1Q) |  |
@@ -258,7 +258,7 @@ Sub-department channels (prefixed with `sd_`) correspond to sub-departments with
 
 **Example**
 
-- **[`#sd_dev_engineering`](https://gitlab.slack.com/archives/sd_dev_engineering)**: For the [Engineering Dev sub-department](https://about.gitlab.com/handbook/engineering/development/dev/).
+- **[`#sd_dev_engineering`](https://gitlab.slack.com/archives/sd_dev_engineering)**: For the [Engineering Dev sub-department](/handbook/engineering/development/dev/).
 
 #### Social Groups
 

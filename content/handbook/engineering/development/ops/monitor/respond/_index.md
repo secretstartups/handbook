@@ -1,14 +1,7 @@
 ---
-
 title: "Respond Group"
 description: "The Respond Group a part of the Monitor Stage of the DevOps lifecycle."
 ---
-
-
-
-
-
-
 
 ## Respond
 The **Respond** group at GitLab is responsible for building tools that enable DevOps teams to respond to, triage and remediate errors and IT alerts for the systems and applications they maintain. We aim to provide a streamlined Operations experience within GitLab that enables the individuals who write the code, to maintain it at the same time.
@@ -25,11 +18,11 @@ You can follow along with the team's accomplishments by reading the [latest week
 
 ## Team members
 
-<%= direct_team(manager_role: 'Fullstack Engineering Manager, Monitor:Respond') %>
+{{< team-by-manager-role role="Engineering Manager(.*)Monitor:Respond" team="Monitor:Respond" >}}
 
 ## Stable counterparts
 
-<%= stable_counterparts(role_regexp: /(?<!:)Monitor(?!:Observability)/, direct_manager_role: 'Fullstack Engineering Manager, Monitor:Respond') %>
+{{< stable-counterparts role="Monitor|Observability" >}}
 
 ## Communication
 
@@ -44,7 +37,7 @@ You can follow along with the team's accomplishments by reading the [latest week
 
 ## Dashboards
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Respond" } %>
+{{% cross-functional-dashboards filters="Respond" %}}
 
 ## Working Agreements
 
@@ -64,7 +57,7 @@ You can follow along with the team's accomplishments by reading the [latest week
     * If the discussion has gotten off-track, you can't tell what the action item should be, or you don't have an opinion yourself, make the plan up! Then communicate it.
 * It's also ok to express a direct opinion about what you think is best when presenting a set of options.
     * It's way easier to engage with your work if you believe in what you're building. Advocate for it.
-* Sometimes it’s necessary to accept risk to make progress.  
+* Sometimes it’s necessary to accept risk to make progress.
 
 ### ⏱️ [Efficiency](/handbook/values/#efficiency)
 
@@ -107,21 +100,21 @@ The Engineering Manager and Product Manager want to make unblocking the team the
 
 The Product Manager is responsible for scheduling issues in a given milestone. The engineering team will make sure that issues are scoped and well-defined enough to implement and whether they need UX involvement and/or technical investigation.
 
-See also [Measuring Say Do ratio](https://about.gitlab.com/handbook/engineering/development/ops/monitor/respond/#measuring-say-do-ratio) for more on milestone commitments.
+See also [Measuring Say Do ratio](/handbook/engineering/development/ops/monitor/respond/#measuring-say-do-ratio) for more on milestone commitments.
 
 #### Scheduling bugs
 
-When new bugs are reported, the Engineering Manager ensures that they have proper [Priority](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#priority) and [Severity](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity) labels. Bugs are discussed in the [weekly triage issue](https://gitlab.com/gitlab-org/quality/triage-reports/-/issues/?label_name%5B%5D=group%3A%3Arespond) and are scheduled according to severity, priority, and the capacity of the teams. Ideally, we should work on a few bugs each release regardless of priority or severity.
+When new bugs are reported, the Engineering Manager ensures that they have proper [Priority](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#priority) and [Severity](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity) labels. Bugs are discussed in the [weekly triage issue](https://gitlab.com/gitlab-org/quality/triage-reports/-/issues/?label_name%5B%5D=group%3A%3Arespond) and are scheduled according to severity, priority, and the capacity of the teams. Ideally, we should work on a few bugs each release regardless of priority or severity.
 
 #### Scheduling technical debt
 
 As new technical debt issues are created, the Engineering Manager and Product Manager will triage, prioritize and schedule these issues.   When new issues are created by Monitor team members, add any relevant context to the description about the priority or timing of the issue, as this will help streamline the triage work.
 
-Technical debt is planned following the [standard prioritization scheduling](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#priority).
+Technical debt is planned following the [standard prioritization scheduling](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#priority).
 
 ### Weekly async updates
 
-As part of the [Ops sub-department Async Updates](https://about.gitlab.com/handbook/engineering/development/ops/#async-updates-no-status-in-meetings), the EM is responsible for sharing a weekly team update.
+As part of the [Ops sub-department Async Updates](/handbook/engineering/development/ops/#async-updates-no-status-in-meetings), the EM is responsible for sharing a weekly team update.
 
 Weekly update flow:
 1. Monday
@@ -144,7 +137,7 @@ Links
 
 Community contributions are encouraged and prioritized at GitLab. Please check out the [Contribute page](/community/contribute/) on our website for guidelines on contributing to GitLab overall.
 
-Within the Monitor stage, Product Management will assist a community member with questions regarding priority and scope. If a community member has technical questions on implementation, Engineering Managers will connect them with [MR coaches](https://handbook.gitlab.com/job-families/expert/merge-request-coach) within the team to collaborate with.
+Within the Monitor stage, Product Management will assist a community member with questions regarding priority and scope. If a community member has technical questions on implementation, Engineering Managers will connect them with [MR coaches](/job-families/expert/merge-request-coach) within the team to collaborate with.
 
 ### Using spikes to inform design decisions
 
@@ -153,13 +146,13 @@ Engineers use spikes to conduct research, prototyping, and investigation to gain
 
 ### Assigning MRs for code review
 
-Engineers should typically ignore the suggestion from [Dangerbot's](https://docs.gitlab.com/ee/development/dangerbot.html) Reviewer Roulette and assign their MRs to be reviewed by a [frontend engineer](https://about.gitlab.com/company/team/?department=monitor-respond-fe-team) or [backend engineer](https://about.gitlab.com/company/team/?department=monitor-respond-be-team) from the Respond Group. If the MR has domain specific knowledge to another team or a person outside of the Respond Group, the author should assign their MR to be reviewed by an appropriate domain expert. The MR author should use the Reviewer Roulette suggestion when assigning the MR to a maintainer.
+Engineers should typically ignore the suggestion from [Dangerbot's](https://docs.gitlab.com/ee/development/dangerbot.html) Reviewer Roulette and assign their MRs to be reviewed by a [frontend engineer](/handbook/company/team/?department=monitor-respond-fe-team) or [backend engineer](/handbook/company/team/?department=monitor-respond-be-team) from the Respond Group. If the MR has domain specific knowledge to another team or a person outside of the Respond Group, the author should assign their MR to be reviewed by an appropriate domain expert. The MR author should use the Reviewer Roulette suggestion when assigning the MR to a maintainer.
 
 Advantages of keeping most MR reviews inside the Respond Group include:
 
 * Quicker reviews because the reviewers hopefully already have the context and don't need additional research to figure out how the MR is supposed to work.
 * Knowledge sharing among the engineers in the Respond Group.
-* Design reviews currently follow a [different process](https://about.gitlab.com/handbook/product/ux/product-designer/mr-reviews/#how-to-assign-mr-reviews). For design reviews, follow the "Reviewer roulette" recommendation (will only be shown if the MR is non-draft and has a ~UX label applied), and ensure you provide context for how to set up the feature they will be testing. For example, for testing alerts:
+* Design reviews currently follow a [different process](/handbook/product/ux/product-designer/mr-reviews/#how-to-assign-mr-reviews). For design reviews, follow the "Reviewer roulette" recommendation (will only be shown if the MR is non-draft and has a ~UX label applied), and ensure you provide context for how to set up the feature they will be testing. For example, for testing alerts:
 
 ```
 <!---
@@ -204,7 +197,7 @@ How we measure Say Do ratio:
 1. Ideally 1 goal = 1 epic. There can be exceptions, some goals don't map 1:1 with an epic. That's ok.
 1. Say = number of goals planned (i.e. committed) at the start of the milestone.
 1. Do = number of goals achieved at the end of the milestone (i.e. number of epics closed, usually).
-1. The Engineering Manager reports the ratio in the [weekly async update](https://about.gitlab.com/handbook/engineering/development/ops/monitor/respond/#weekly-async-updates) with some context and the recent trend.
+1. The Engineering Manager reports the ratio in the [weekly async update](/handbook/engineering/development/ops/monitor/respond/#weekly-async-updates) with some context and the recent trend.
 
 How this differs from past approaches:
 1. We do not apply the `~deliverable` label to issues committed to being completed in the current milestone.
@@ -284,7 +277,7 @@ The Respond team uses labels for issue tracking and to organize issue boards.  M
   - `~"type::feature"`: [Feature Issues](/handbook/product/product-processes/#feature-issues)
   - `~"type::bug"`: [Bug Issues](/handbook/product/product-processes/#bug-issues)
   - `~technical debt` : [Technical Debt](/handbook/engineering/workflow/#technical-debt)
-- **Workflow**: required. 
+- **Workflow**: required.
   - `workflow::refinement`: Issues that need further input from team members in order for it to be `workflow::ready for development`.
   - `workflow::blocked`: Waiting on external factors or another issue to be completed before work can resume.
   - `workflow::ready for development`: The issue is refined and ready to be scheduled in a current or future milestone.
@@ -300,8 +293,8 @@ Just like the rest of the company, we use [Time Off by Deel](/handbook/paid-time
 A list of interesting content related to the areas of the Respond group:
 
 - **On-Call**
-  - [Google's SRE Workbook, Chapter 8 - On-Call](https://sre.google/workbook/on-call/) 
+  - [Google's SRE Workbook, Chapter 8 - On-Call](https://sre.google/workbook/on-call/)
 - **Incident Response**
-  - [Google's SRE Workbook, Chapter 9 - Incident Response](https://sre.google/workbook/incident-response/) 
+  - [Google's SRE Workbook, Chapter 9 - Incident Response](https://sre.google/workbook/incident-response/)
 - **Postmortem Culture: Learning from Failure**
-  - [Google's SRE Workbook, Chapter 9 - Incident Response](https://sre.google/workbook/postmortem-culture/)  
+  - [Google's SRE Workbook, Chapter 9 - Incident Response](https://sre.google/workbook/postmortem-culture/)

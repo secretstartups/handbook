@@ -18,12 +18,12 @@ description: >-
 
 | Team | Engineering Managers |
 | ---- | -------------------- |
-| [Create Stage](/handbook/engineering/development/dev/create/) | [Darva Satcher](https://about.gitlab.com/company/team/#dsatcher) (Senior Manager, Engineering) |
-| [Create:Code Creation](/handbook/engineering/development/dev/create/code-creation/) | [Matt Nohr](https://about.gitlab.com/company/team/#mnohr) (Backend) |
-| [Create:Code Review](/handbook/engineering/development/dev/create/code-review/) | [Matt Nohr](https://about.gitlab.com/company/team/#mnohr) (Backend, Acting) [André Luís](https://about.gitlab.com/company/team/#andr3) (Frontend) |
-| [Create:Editor Extensions](/handbook/engineering/development/dev/create/editor-extensions/) | [François Rosé](https://about.gitlab.com/company/team/#francoisrose) (Fullstack) |
-| [Create:IDE](/handbook/engineering/development/dev/create/ide/) | [David O'Regan](https://about.gitlab.com/company/team/#oregand) (Fullstack) |
-| [Create:Source Code](/handbook/engineering/development/dev/create/source-code-be/) | [Sean Carroll](https://about.gitlab.com/company/team/#sean_carroll) (Backend) [André Luís](https://about.gitlab.com/company/team/#andr3) (Frontend) |
+| [Create Stage](/handbook/engineering/development/dev/create/) | [Darva Satcher](/handbook/company/team/#dsatcher) (Senior Manager, Engineering) |
+| [Create:Code Creation](/handbook/engineering/development/dev/create/code-creation/) | [Matt Nohr](/handbook/company/team/#mnohr) (Backend) |
+| [Create:Code Review](/handbook/engineering/development/dev/create/code-review/) | [Matt Nohr](/handbook/company/team/#mnohr) (Backend, Acting) [André Luís](/handbook/company/team/#andr3) (Frontend) |
+| [Create:Editor Extensions](/handbook/engineering/development/dev/create/editor-extensions/) | [François Rosé](/handbook/company/team/#francoisrose) (Fullstack) |
+| [Create:IDE](/handbook/engineering/development/dev/create/ide/) | [David O'Regan](/handbook/company/team/#oregand) (Fullstack) |
+| [Create:Source Code](/handbook/engineering/development/dev/create/source-code-be/) | [Sean Carroll](/handbook/company/team/#sean_carroll) (Backend) [André Luís](/handbook/company/team/#andr3) (Frontend) |
 
 ## Mission
 

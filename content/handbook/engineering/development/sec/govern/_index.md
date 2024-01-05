@@ -1,13 +1,6 @@
 ---
-
 title: Govern Stage
 ---
-
-
-
-
-
-
 
 The Govern engineering groups are responsible for the [Govern Stage](/handbook/product/categories/#govern-stage) of the product.
 
@@ -19,77 +12,67 @@ The stage vision is captured on the [Govern product direction](https://about.git
 
 ## Groups
 
-* [Anti-abuse](anti-abuse/)
-* [Authentication](authentication/)
-* [Authorization](authorization/)
-* [Compliance](compliance/)
-* [Security Policies](security-policies/)
-* [Threat Insights](threat-insights/)
+- [Anti-abuse](anti-abuse/)
+- [Authentication](authentication/)
+- [Authorization](authorization/)
+- [Compliance](compliance/)
+- [Security Policies](security-policies/)
+- [Threat Insights](threat-insights/)
 
 ## Priorities
 
-Group priorities are reviewed collaboratively with product counterparts and published on the Govern direction pages 
+Group priorities are reviewed collaboratively with product counterparts and published on the Govern direction pages
 
-* [Anti-abuse](https://about.gitlab.com/direction/govern/anti-abuse/#priorities)
-* [Authentication](https://about.gitlab.com/direction/govern/authentication/#priorities) 
-* [Authorization](https://about.gitlab.com/direction/govern/authorization/#priorities)
-* [Compliance](https://about.gitlab.com/direction/govern/compliance/tactical-priorities.html#priorities) 
-* [Security Policies](https://about.gitlab.com/direction/govern/security_policies/#priorities) 
-* [Threat Insights](https://about.gitlab.com/direction/govern/threat_insights/16_threat_insights_priorities.html#priorities)
+- [Anti-abuse](https://about.gitlab.com/direction/govern/anti-abuse/#priorities)
+- [Authentication](https://about.gitlab.com/direction/govern/authentication/#priorities)
+- [Authorization](https://about.gitlab.com/direction/govern/authorization/#priorities)
+- [Compliance](https://about.gitlab.com/direction/govern/compliance/tactical-priorities.html#priorities)
+- [Security Policies](https://about.gitlab.com/direction/govern/security_policies/#priorities)
+- [Threat Insights](https://about.gitlab.com/direction/govern/threat_insights/16_threat_insights_priorities.html#priorities)
 
 
 ## Stage development people leaders
 
-<%=
-departments = ['Govern']
-department_regexp = /(#{Regexp.union(departments)})/
-
-direct_team(role_regexp: department_regexp, manager_slug: 'pcalder')
-%>
+{{< team-by-manager-slug manager="pcalder" role="Govern" >}}
 
 To contact Govern stage development people leaders leaders use the following aliases:
-* GitLab: `@gitlab-org/govern/managers`
-* Slack: `@s_govern_managers`
+
+- GitLab: `@gitlab-org/govern/managers`
+- Slack: `@s_govern_managers`
 
 ## All Team Members
 
 ### Anti-abuse
-<%=  direct_team(role_regexp: /Engineer(.*)Govern:Anti-Abuse/, manager_slug: 'jayswain') %>
+
+{{% team-by-manager-slug manager="jayswain" team="Engineer(.*)Govern:Anti-Abuse" %}}
 
 ### Authentication
-<%=  direct_team(role_regexp: /Engineer(.*)Govern:Authentication/, manager_slug: 'adil.farrukh') %>
+
+{{% team-by-manager-slug manager="adil.farrukh" team="Engineer(.*)Govern:Authentication" %}}
 
 ### Authorization
-<%=  direct_team(role_regexp: /Engineer(.*)Govern:Authorization/, manager_slug: 'jayswain') %>
+
+{{% team-by-manager-slug manager="jayswain" team="Engineer(.*)Govern:Authorization" %}}
 
 ### Compliance
-<%= direct_team(role_regexp: /Engineer(.*)Govern:Compliance/, manager_slug: 'nrosandich') %>
+
+{{% team-by-manager-slug manager="nrosandich" team="Engineer(.*)Govern:Compliance" %}}
 
 ### Security Policies
-<%=  direct_team(role_regexp: /Engineer(.*)Govern:Security Policies/, manager_slug: 'maciejparuszewski') %>
+
+{{% team-by-manager-slug manager="maciejparuszewski" team="Engineer(.*)Govern:Security Policies" %}}
 
 ### Threat Insights
-<%=  direct_team(role_regexp: /Engineer(.*)Govern:Threat Insights/, manager_slug: 'nmccorrison') %>
-<%=  direct_team(role_regexp: /Engineer(.*)Govern:Threat Insights/, manager_slug: 'kniechajewicz') %>
+
+{{% team-by-manager-slug manager="nmccorrison" team="Engineer(.*)Govern:Threat Insights" %}}
+
+{{% team-by-manager-slug manager="kniechajewicz" team="Engineer(.*)Govern:Threat Insights" %}}
 
 ## Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(
-      role_regexp: /[,&] Govern/,
-      direct_manager_role: nil,
-      other_manager_roles: [
-        'Engineering Manager, Govern:Authorization and Anti-abuse',
-        'Engineering Manager, Govern:Authentication',
-        'Engineering Manager, Govern:Compliance',
-        'Engineering Manager, Govern:Security Policies',
-        'Engineering Manager, Govern:Threat Insights',
-        'Engineering Manager, Growth and Govern:Threat Insights',
-        'Director of Engineering for Secure, Govern, and Growth',
-        'Senior Engineering Manager, Govern and Growth'
-      ])
-%>
+{{% stable-counterparts role="Govern" other-manager-roles="Engineering Manager(.*)Govern:Authorization and Anti-abuse|Engineering Manager(.*)Govern:Authentication|Engineering Manager(.*)Govern:Compliance|Engineering Manager(.*)Govern:Security Policies|Engineering Manager(.*)Govern:Threat Insights|Engineering Manager(.*)Growth and Govern:Threat Insights|Director of Engineering for Secure(.*)Govern(.*)and Growth|Senior Engineering Manager(.*)Govern and Growth" %}}
 
 ## Skills
 
@@ -104,28 +87,14 @@ Because we have a wide range of domains to cover, it requires a lot of different
 | SQL (PostgreSQL)  | _Various_            |
 | Docker/Kubernetes | Threat Detection     |
 
-#### Cross-functional Backlog
-
-**[Sisense](https://app.periscopedata.com/app/gitlab/1000952/Interdepartment-Embedded-Dashboard)**
-
-We also track our backlog of issues, including past due security and infradev issues, and total open SUS-impacting issues and bugs.
-
-<%= partial "handbook/engineering/metrics/partials/_backlog_dashboard.erb", locals: { filter_type: filter_type_for("quality", "stage"), filter_value: filter_value_for("quality", "stage", "govern") } %>
-
-#### Merged Merge Request Types
-
-**[Sisense](https://app.periscopedata.com/app/gitlab/976854/Merge-Request-Types-Detail)**
-
-MR Type labels help us report what we're working on to industry analysts in a way that's consistent across the engineering department. The dashboard below shows the trend of MR Types over time and a list of merged MRs.
-
-<%= partial "handbook/engineering/metrics/partials/_mr_types_dashboard.erb", locals: { filter_type: filter_type_for("quality", "stage"), filter_value: filter_value_for("quality", "stage", "govern") } %>
+{{% cross-functional-dashboards filters="govern" stage=true %}}
 
 ### Product Documentation Links
 
-* [Security Dashboard](https://docs.gitlab.com/ee/user/application_security/security_dashboard/)
-* [Vulnerability Pages](https://docs.gitlab.com/ee/user/application_security/vulnerabilities/)
-* [Security scanner integration](https://docs.gitlab.com/ee/development/integrations/secure.html)
-* [Secure and Govern terminology](https://docs.gitlab.com/ee/user/application_security/terminology/)
+- [Security Dashboard](https://docs.gitlab.com/ee/user/application_security/security_dashboard/)
+- [Vulnerability Pages](https://docs.gitlab.com/ee/user/application_security/vulnerabilities/)
+- [Security scanner integration](https://docs.gitlab.com/ee/development/integrations/secure.html)
+- [Secure and Govern terminology](https://docs.gitlab.com/ee/user/application_security/terminology/)
 
 ## Engineering Managers
 
@@ -135,17 +104,17 @@ We meet bi-weekly synchronously to discuss stage and group wide topics. We prima
 ### Engineering Leadership - Backup Plans and Escalation
 
 
-The following table lists the Govern Stage management [backup plan](https://about.gitlab.com/handbook/engineering/management/#engineering-manager-backup).
+The following table lists the Govern Stage management [backup plan](/handbook/engineering/management/#engineering-manager-backup).
 
-| Team Member               | Covered by                | Escalation            |
-| -----                     | -----                     | -----                 |
-| Phil Calder               | Wayne Haber               | Bartek Marnane        |
-| Alan (Maciej) Paruszewski | Nathan Rosandich          | Phil Calder           |
-| Nathan Rosandich          | Alan (Maciej) Paruszewski | Phil Calder           |
-| Kamil Niechajewicz        | Neil McCorrison           | Phil Calder           |
-| Neil McCorrison           | Kamil Niechajewicz        | Phil Calder           |
-| Jay Swain                 | Adil Farrukh              | Phil Calder           |
-| Adil Farrukh              | Jay Swain                 | Phil Calder           |
+| Team Member                                 | Covered by                                  | Escalation                               |
+|---------------------------------------------|---------------------------------------------|------------------------------------------|
+| {{< member-by-name "Phil Calder" >}}        | {{< member-by-name "Wayne Haber" >}}        | {{< member-by-name "Bartek Marnane" >}}  |
+| {{< member-by-gitlab "alan" >}}             | {{< member-by-name "Nathan Rosandich" >}}   | {{< member-by-name "Phil Calder" >}}     |
+| {{< member-by-name "Nathan Rosandich" >}}   | {{< member-by-gitlab "alan" >}}             | {{< member-by-name "Phil Calder" >}}     |
+| {{< member-by-name "Kamil Niechajewicz" >}} | {{< member-by-name "Neil McCorrison" >}}    | {{< member-by-name "Phil Calder" >}}     |
+| {{< member-by-name "Neil McCorrison" >}}    | {{< member-by-name "Kamil Niechajewicz" >}} | {{< member-by-name "Phil Calder" >}}     |
+| {{< member-by-name "Jay Swain" >}}          | {{< member-by-name "Adil Farrukh" >}}       | {{< member-by-name "Phil Calder" >}}     |
+| {{< member-by-name "Adil Farrukh" >}}       | {{< member-by-name "Jay Swain" >}}          | {{< member-by-name "Phil Calder" >}}     |
 
 Team members should contact any Govern Engineering Manager by mentioning in `#sd_govern_engineering` or `#sec-growth-development-people-leaders` if they need management support for a problem that arises, such as a production incident or feature change lock, when their direct manager is not available. The Govern manager can provide guidance and coordination to ensure that the team member receives the appropriate help.
 
@@ -246,7 +215,7 @@ Engineering Managers to provide status updates, to be shared with product counte
 
 ## Govern staff meeting
 
-The Govern stage engineering department leaders meet every two weeks to discuss stage and group topics in the `Govern and Growth staff meeting`, 
+The Govern stage engineering department leaders meet every two weeks to discuss stage and group topics in the `Govern and Growth staff meeting`,
 and optionally every week in the `Expansion Development` staff  and `Sec Growth senior leaders development` staff meetings.
 
 Meetings have an agenda and are async-first, where the aim is to resolve discussions async and leave time in the meeting to deep dive into topics that require more discussion.
@@ -254,11 +223,11 @@ Meetings have an agenda and are async-first, where the aim is to resolve discuss
 
 ## Links and resources
 
-<%= partial("handbook/engineering/development/sec/govern/shared_links.erb") %>
+{{% include "includes/engineering/govern-shared-links.md" %}}
 * Group [#g_govern_security_policies](https://gitlab.slack.com/archives/CU9V380HW)
 * Group [#g_govern_threat_insights](https://gitlab.slack.com/archives/CV09DAXEW)
 * Group [#g_govern_compliance](https://gitlab.slack.com/messages/CN7C8029H)
-* [Software Supply Chain Security working group](https://about.gitlab.com/company/team/structure/working-groups/software-supply-chain-security/)
+* [Software Supply Chain Security working group](/handbook/company/team/structure/working-groups/software-supply-chain-security/)
 
 ### Technical Documentation Links
 

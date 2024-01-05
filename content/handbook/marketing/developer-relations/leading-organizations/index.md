@@ -20,7 +20,7 @@ Our goal is for 10% of GitLab customers to be Leading Organizations by FY25Q4. T
 
 ## Qualification
 
-Definition: A company or individual that reaches 15 merged merge requests or more over a trailing three full calendar month basis. See more about qualification Leading Organizations in the [code review section](https://about.gitlab.com/handbook/engineering/workflow/code-review/#leading-organizations).
+Definition: A company or individual that reaches 15 merged merge requests or more over a trailing three full calendar month basis. See more about qualification Leading Organizations in the [code review section](/handbook/engineering/workflow/code-review/#leading-organizations).
 
 Continued program membership for existing Leading Organizations will be reviewed [quarterly](/handbook/communication/#communicating-dates-and-time).
 
@@ -48,7 +48,7 @@ Lack of developer talent is one of the biggest threats to businesses. Contributi
 
 Leading Organizations receive:
 
-- Faster time to review [service level objective](https://about.gitlab.com/handbook/engineering/workflow/code-review/#review-response-slo) from GitLab team members
+- Faster time to review [service level objective](/handbook/engineering/workflow/code-review/#review-response-slo) from GitLab team members
 - A quarterly dialogue with the Contributor Success team to discuss features important to you and define next steps
 - Public recognition with special Leading Organization badge visible on LinkedIn and other social channels
 - Opportunities to increase employer brand visibility through blog posts on GitLab.com, contributor stories, and social media

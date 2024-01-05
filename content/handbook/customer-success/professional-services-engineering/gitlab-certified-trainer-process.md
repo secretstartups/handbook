@@ -36,7 +36,7 @@ GitLab Professional Education Services manages the certification process for all
 
 **Step 4**: As you earn each certification, add the digital verification badge to your LinkedIn profile!
 
-## Gitlab Certified Trainer - Cadidate Process for Partners looking to obtain GitLab Certified Training Partner Status
+## GitLab Certified Trainer - Cadidate Process for Partners looking to obtain GitLab Certified Training Partner Status
 
 GitLab Professional Education Services Manages the certification process in coordination with the Channel Sales Managers for trainers who work at our Channel Partners.
 Here are the steps required to obtain GitLab Certified Trainer Certification for a given course:
@@ -51,4 +51,4 @@ Here are the steps required to obtain GitLab Certified Trainer Certification for
 <br>*Surveys from students employed by the trainer’s organization will not be included in the calculation of this rating.
 <br>++ Proof of professional trainer credentials can be one of the following: a resume with at least 1 year of professional training experience, certification/diploma from external professional educator organization, and/or certified trainer certification from another IT vendor education services organization.
 
-If you are interested in becoming a Certified Trainer, please reach out to your Gitlab Account Manager today!
+If you are interested in becoming a Certified Trainer, please reach out to your GitLab Account Manager today!

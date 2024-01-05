@@ -43,7 +43,7 @@ In order to open a backfill:
 *For roles being repurposed*: the business leader owns communication to the team to discuss rationale and drive clarity. PBP/Strategy team partners on reallocation decisions.
 1. Once the role is approved/decision has been reached and all has been documented in the issue, the recruiter can create a position in Greenhouse for approval and move to the next step of the process.
 
-For the Product and Engineering backfill or transfer process, see this [handbook page](https://about.gitlab.com/handbook/engineering/hiring/).
+For the Product and Engineering backfill or transfer process, see this [handbook page](/handbook/engineering/hiring/).
 
 ### Create or Review the Job Family (DRI: Hiring Manager)
 
@@ -278,18 +278,20 @@ There are set location options in Greenhouse to make this possible. Recruiters c
 | Location selection in Greenhouse | Countries where the associated job will post on LinkedIn |
 | -------------------------------- | -------------------------------------------------------- |
 | Remote | United States, Canada, United Kingdom, Netherlands, Ireland, Australia |
-| Remote, Global | United States, Canada, United Kingdom, Netherlands, India, Australia, Ireland |
+| Remote, Global | United States, Canada, United Kingdom, Netherlands, Australia, Ireland |
 | Remote, Americas | United States, Canada, Mexico, Chile, Costa Rica |
 | Remote, EMEA | United Kingdom, Netherlands, Germany, France, Ireland, South Africa, Belgium |
 | Remote, Europe | United Kingdom, Netherlands, Germany, France, Ireland |
-| Remote, APAC | Australia, New Zealand, South Korea, Singapore, Japan, India, Phillipines |
+| Remote, APAC | Australia, New Zealand, South Korea, Singapore, Japan, Phillipines |
 | Remote, Asia | Singapore, Phillipines, South Korea, Japan |
 | Remote, US | United States |
 | Remote, North America | United States, Canada |
 | Remote, France | France |
+| Remote, India | India |
 | Remote, Japan | Japan |
 | Remote, Germany | Germany |
 | Remote, Netherlands | Netherlands |
+| Remote, Philippines | Philippines |
 | Remote, Sweden | Sweden |
 | Remote, United Kingdom | United Kingdom |
 | Remote, Australia | Australia |

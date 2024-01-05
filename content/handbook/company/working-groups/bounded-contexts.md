@@ -117,3 +117,19 @@ For stages still missing participants we will seek support from Engineering lead
 | Member                | Furkan Ayhan          | Senior Backend Engineer, Verify:Pipeline Authoring |
 | Member                | Smriti Garg           | Senior Backend Engineer, Govern:Authentication |
 | Member                | Aboobacker MK         | Senior Backend Engineer, Govern:Authentication |
+| Member                | Sean Carroll          | Engineering Manager, Create:Source Code |
+| Member                | Ahmed Hemdan          | Senior Backend Engineer, Secure:Static Analysis |
+| Member                | Ethan Urie            | Staff Backend Engineer, Secure:Secret Detection |
+| Member                | Gabriel Mazetto       | Senior Backend Engineer, Systems:Geo |
+| Member                | Vitali Tatarintev     | Senior Backend Engineer, Create:Code Creation |
+| Member                | Sashi Kumar Kumaresan | Staff Backend Engineer, Govern:Security Policies |
+| Member                | Vasilii Iakliushin    | Staff Backend Engineer, Create::Source Code |
+| Member                | Remy Coutable         | Principal Engineer, Quality |
+| Member                | Eduardo Bonet         | Staff Incubation Engineer, MLOps |
+| Member                | Vij Hawoldar          | Senior Backend Engineer, Fulfillment::Utilization |
+| Member                | Kassio Borges         | Staff Backend Engineer, Plan::Knowledge |
+| Member                | Aakriti Gupta         | Senior Backend Engineer, Systems:Geo |
+| Member                | Peter Leitzen         | Staff Backend Engineer, Engineering Productivity |
+| Member                | Abhinaba Ghosh        | Engineering Manager, Test & Tools Infrastructure |
+| Member                | Mohamed Hamda         | Backend Engineer, Fulfillment::Provision |
+| Member                | Andrei Zubov          | Senior Frontend Engineer, Environments |

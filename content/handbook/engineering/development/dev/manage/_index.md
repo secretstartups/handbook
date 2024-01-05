@@ -205,7 +205,7 @@ All meetings should have an agenda prepared at least 12 hours in advance. If thi
 ## Links and resources
 {: #links}
 
-<%= partial("handbook/engineering/development/dev/manage/shared_links.erb") %>
+{{% include "includes/engineering/manage/shared-links.md" %}}
 * Our handbook pages
   * [Authentication and Authorization](/handbook/engineering/development/dev/manage/authentication-and-authorization/)
   * [Foundations](/handbook/engineering/development/dev/manage/foundations/)

@@ -10,7 +10,7 @@ This is our Tableau embed demo page.  It is used to demonstrate how we can embed
 
 ### Viz from Public Tableau site
 
-The source url for a view from the public Tableau site can be found by looking at a list of [views available for embedding](https://handbook.gitlab.com/handbook/business-technology/data-team/platform/tableau/embed-demo/#views-availble-for-public-embedding). 
+The source url for a view from the public Tableau site can be found by looking at a list of [views available for embedding](/handbook/business-technology/data-team/platform/tableau/embed-demo/#views-availble-for-public-embedding). 
 
 [A short video demonstrating how to do the embed.](https://youtu.be/Vry_yqUP2C8)
 

@@ -21,4 +21,5 @@ done
 # Download the team.yml file direct from the public handbook website.
 # The combined team.yml is generated, so it's not checked in the repo.
 # See www-gitlab-com/doc/team_database.md for more details.
+echo "fetching team.yml..."
 wget -qO "$PUBLIC_DATA_DIR/team.yml" "https://about.gitlab.com/company/team/team.yml"

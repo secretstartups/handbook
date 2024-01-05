@@ -57,7 +57,7 @@ Iterate until we're confident in the behavior and performance of the new Package
 #### Beta
 
 This state is where we start enabling the Package Registry for a few selected projects on GitLab.com. Take this opportunity to:
-- Apply [dogfooding](https://about.gitlab.com/handbook/values/#dogfooding). For example, some GitLab teams could be interested in using the new Package Registry.
+- Apply [dogfooding](/handbook/values/#dogfooding). For example, some GitLab teams could be interested in using the new Package Registry.
 - Let selected users test the new Package Registry.
   - The related issue/epic is usually followed by several users. Some of them might be interested in using the Package Registry even if it is in Beta.
 

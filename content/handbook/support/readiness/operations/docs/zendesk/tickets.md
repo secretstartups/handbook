@@ -26,7 +26,7 @@ We currently maintain all groups via Zendesk itself.
   - CC blacklist: <noreply@google.com>
   - CC email subject: `[{{ticket.account}}] Update: {{ticket.title}}`
   - CC email text:
-    > You are registered as a CC on this support request ({{ticket.url}}). Reply
+    > You are registered as a CC on this support request ({{ticket.link}}). Reply
     > to this email to add a comment to the request.
     >
     > {{ticket.comments_formatted}}

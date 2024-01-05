@@ -1,14 +1,7 @@
 ---
-
 title: "Create:Code Review BE Team"
 description: The Create:Code Review BE team is responsible for all backend aspects of the product categories that fall under the Code Review group of the Create stage.
 ---
-
-
-
-
-
-
 
 The Create:Code Review BE team is responsible for all backend aspects of the product categories that fall under the [Code Review group][group] of the [Create stage][stage] of the [DevOps lifecycle][lifecycle].
 
@@ -26,21 +19,29 @@ We are currently focused on:
 
 The following people are permanent members of the Create:Code Review Group:
 
-<%= direct_team(manager_role: 'Backend Engineering Manager, Create:Code Review', role_regexp: /Code Review/) %>
+{{< team-by-manager-role role="Backend Engineering Manager(.*)Create:Code Review" team="Code Review" >}}
 
 ## Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /Code Review/, direct_manager_role: 'Backend Engineering Manager, Create:Code Review') %>
+{{< stable-counterparts role="Code Review" manager-role="Backend Engineering Manager(.*)Create:Code Review" >}}
 
 ## Metrics and KPIs
 
-<%= partial("handbook/engineering/development/dev/create/code-review/backend/metrics.erb") %>
+These KPIs are a subset of the [Development Department Performance Indicators](/handbook/engineering/development/performance-indicators/) and configured for just the Create:Code Review Backend Team.
+
+{{< sisense dashboard="922124" chart="13660165" >}}
+
+You can find our dashboards here:
+
+- [Code Review BE KPIs](https://app.periscopedata.com/app/gitlab/922124/Code-Review-BE-KPIs)
+- [Development Department Performance Indicators](/handbook/engineering/development/performance-indicators/)
+
 
 ## Team OKRs
 
-Objectives and Key Results (OKRs) help align our team towards what really matters. These happen quarterly, align up through the stage, and are based on [company OKRs](/company/okrs/) and the [engineering OKR process](/handbook/engineering/#engineering-okr-process). We check in on the status of our progress routinely throughout the quarter, at least on a monthly basis, to determine whether we are on track or need to pivot in order to accomplish or change these goals.
+Objectives and Key Results (OKRs) help align our team towards what really matters. These happen quarterly, align up through the stage, and are based on [company OKRs](/handbook/company/okrs/) and the [engineering OKR process](/handbook/engineering/#engineering-okr-process). We check in on the status of our progress routinely throughout the quarter, at least on a monthly basis, to determine whether we are on track or need to pivot in order to accomplish or change these goals.
 
 [For a list of current and past OKRs for our team, use this link.](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=title_asc&state=opened&label_name%5B%5D=group%3A%3Acode%20review&first_page_size=20)
 
@@ -50,7 +51,7 @@ See the [work section](/handbook/engineering/development/dev/create/code-review/
 
 ### Working with our team
 
-As stewards for some of the more high profile features - Merge Request pages, Approval Rules, etc - we receive a large number of inquires and requests for assistance or information about them, as well as the dependent features that it encompasses. We welcome them, as issues or Slack inquires, and we strive to be responsive to these, in the interest of [Collaboration](https://about.gitlab.com/handbook/values/#collaboration) and [Results](https://about.gitlab.com/handbook/values/#results), but we also must balance the value of [Efficiency](https://about.gitlab.com/handbook/values/#efficiency).
+As stewards for some of the more high profile features - Merge Request pages, Approval Rules, etc - we receive a large number of inquires and requests for assistance or information about them, as well as the dependent features that it encompasses. We welcome them, as issues or Slack inquires, and we strive to be responsive to these, in the interest of [Collaboration](/handbook/values/#collaboration) and [Results](/handbook/values/#results), but we also must balance the value of [Efficiency](/handbook/values/#efficiency).
 
 Our target is to respond to incoming requests within 2 working days, although we will frequently respond more quickly, depending on team member availability, experience, and workload.
 
@@ -93,14 +94,114 @@ Many issues require work on both the backend and frontend, but the weight of tha
 
 ### What to work on
 
-<%= partial("handbook/engineering/development/dev/create/what_to_work_on.erb", locals: { group: "Code Review", slack_channel: 'g_create_code-review' }) %>
+The primary source for things to work on is the [Code Review backend issue board][issue board]
+for the current iteration cycle (don't forget to filter by milestone!), which
+lists all of the Deliverable and Stretch issues scheduled for this cycle in
+priority order.
 
+The lists are compiled by the Product Manager following the [product prioritization
+process], with input from the team, engineering managers, and other stakeholders.
+The iteration cycle lasts from the 18th of one month until the 17th of the next,
+and is identified by the GitLab version set to be released.
+
+There is also the [Code Review backend _assignment_ issue board][assignment board]
+(again, don't forget to filter by milestone!), which shows the same Deliverable
+and Stretch issues, now grouped by assignee, with the left-most list listing
+issues not currently assigned to any backend engineer. On each list, the issues
+are again ordered by priority.
+
+#### What to work on first
+
+Deliverables are considered top priority and are expected to be done by the end
+of the iteration cycle on the 17th, in time for the [monthly release][releases-handbook].
+
+These top priority issues are assigned to engineers on or ahead of the 18th of
+the month, when the iteration cycle is kicked off, and it is their responsibility
+to make a best effort to get them done during that cycle, and to inform their
+engineering manager if anything is standing in the way of their success.
+You can find the issues assigned to you on the [Code Review backend assignment
+issue board][assignment board] (again, don't forget to filter by milestone!).
+
+Many things can happen during a month that can result in a deliverable
+not actually being completed by the end of a cycle, and while this usually
+indicates that the engineering manager was too optimistic in their estimation
+of the issue's weight, or that an engineer's other responsibilities ended up
+taking up more time than expected, this should never come as a surprise to the
+engineering manager.
+
+The sooner this potential outcome is anticipated and communicated, the more time
+there is to see if anything can be done to prevent it, like reducing the scope
+of the deliverable, or finding a different engineer who may have more time to
+finish a deliverable that hasn't been started yet.
+If this outcome cannot be averted and the deliverable ends up missing the
+cycle, it will simply be moved to the next cycle to be finished up, and the
+engineer and engineering manager will have a chance to
+[retrospect](#retrospectives) and learn from what happened.
+
+Generally, your deliverables are expected to take up about 75% of the
+time you spend working in a month. The other 25% is set aside for other
+responsibilities (code review, community merge request coaching, [helping
+people out in Slack, participating in discussions in issues][collaboration],
+etc), as well as urgent issues that come up during the month and need someone
+working on them immediately (regressions, security issues, customer issues, etc).
+
+#### What to work on next
+
+If you have time to spare after finishing your deliverables and other
+activities, you can spend the remaining time working on Stretch issues, which
+can also be found on the [Code Review backend issue board][issue board] and [Code Review backend
+assignment issue board][assignment board] (again, don't forget to filter by
+milestone!).
+
+These lower priority issues are _not_ expected to be done by the end of the
+iteration cycle, but are to be Deliverables in the _next_ cycle, so any progress
+made on them ahead of time is a bonus.
+
+Stretch issues are usually not directly assigned to people, except in cases
+where there is clearly a most appropriate person to work on them, like in the
+case of technical debt, bugs related to work someone did recently, or issues
+someone started on before but hasn't had a chance to finish yet.
+
+If no Stretch issues are assigned to you yet, you can find new ones to pick up
+in the left-most list of the [Code Review backend assignment issue board][assignment
+board] (again, don't forget to filter by milestone!), which lists all issues
+not currently assigned to any backend engineer. As the issues are ordered by
+priority, they should be picked up starting at the top. When you assign
+an issue to yourself to indicate you're working on it, it will move to your list
+and out of the left-most unassigned list, and the second issue will rise to the
+top for other engineers to pick up.
+
+If anything is blocking you from getting started with the top issue immediately,
+like unanswered questions or unclear requirements, you can skip it and consider
+a lower priority issue, as long as you put your findings and questions in the
+issue, so that the next engineer who comes around may find it in a better state.
+
+Instead of picking up Stretch issues, you may also choose to spend any
+spare time working on anything else that you believe will have a significant
+positive impact on the product or the company in general.
+As the [general guidelines] state, "we recognize that inspiration is
+perishable, so if you’re enthusiastic about something that generates great
+results in relatively little time feel free to work on that."
+
+We expect people to be [managers of one][efficiency] and prefer [responsibility
+over rigidity][efficiency], so there's no need to ask for permission if you
+decide to work on something that's not on the issue board, but please keep your
+other responsibilities in mind, and make sure that there is an issue, you are
+assigned to it, and consider sharing it in [#g_create_code-review].
+
+[product prioritization process]: /handbook/product/product-processes/#how-we-prioritize-work
+[how-we-plan]: /direction/#how-we-plan-releases
+[collaboration]: /handbook/values/#collaboration
+[general guidelines]: /handbook/values/
+[efficiency]: /handbook/values/#efficiency
+[#g_create_code-review]: https://gitlab.slack.com/archives/g_create_code-review
+[releases-handbook]: /handbook/engineering/releases/
 [issue board]: https://gitlab.com/groups/gitlab-org/-/boards/412126?label_name[]=group::code%20review&label_name[]=backend
 [assignment board]: https://gitlab.com/groups/gitlab-org/-/boards/2142016
 
 ### Deep Dives
 
-<%= partial("handbook/engineering/development/dev/create/deep_dives.erb") %>
+{{% include "includes/engineering/create/deep-dives.md" %}}
 
 ### Performance Monitoring
 
@@ -135,7 +236,7 @@ by `action` and/or `controller`.
 
 #### Priority and Severity
 
-More details can be found in the handbook for [severity](/handbook/engineering/quality/issue-triage/#severity) and [priority](/handbook/engineering/quality/issue-triage/#priority)
+More details can be found in the handbook for [severity](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity) and [priority](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#priority)
 
 #### Calendar Invites
 

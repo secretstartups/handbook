@@ -103,7 +103,7 @@ The Developer Evangelism Program Manager is a [grade 6](/handbook/total-rewards/
 ### Requirements
 
 - Excellent written and verbal communication skills
-- Background in or deep curiosity about the cloud computing and devops ecosystem
+- Background in or deep curiosity about the cloud computing and DevOps ecosystem
 - Track record of success in a software company
 - At least 3-5 years work experience in a fast-paced working environment
 - Exceptional organizational skills
@@ -185,7 +185,7 @@ The next step for both individual contributors and managers of people is to move
 
 ### Performance Indicators
 
-- Support [Unique Wider Community Contributors per Month](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#unique-wider-community-contributors-per-month)
+- Support [Unique Wider Community Contributors per Month](/handbook/engineering/quality/performance-indicators/#unique-wider-community-contributors-per-month)
 - [Twitter impressions](/handbook/marketing/developer-relations/developer-evangelism/metrics/)
 - Support [New Unique Web Vistors Per Month](/handbook/marketing/performance-indicators/#new-unique-web-visitors-aboutgitlabcom)
 - Impressions per month. Number of combined impressions/organic views from the Developer Evangelism team, from a designated number of sources (e.g. social, events, content, etc.)

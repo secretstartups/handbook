@@ -76,7 +76,7 @@ also refer to insights around the demonstration purpose and area of product walk
 
 - **Professional Service Support** - SA have a clear understanding of the client's available internal skills and capabilities and assist their clients in ways to become successful in a quicker way when skills gaps are identified. As a result of that, GitLab Professionals Services support adds customer value to mitigate risk and accelerate speed to success. Since the SA owns the initiation of the ProServ division at GitLab for our customers outlined here - and a significant amount of follow up and cadence is expected as a SA service to our regional customers.
 
-- **SA Assistance - Subject Matter** - A [SA] is requested to support another Gitlab Team Member with their advanced knowledge and understanding in a certain subject, without owning the particular engagement or opportunity.
+- **SA Assistance - Subject Matter** - A [SA] is requested to support another GitLab Team Member with their advanced knowledge and understanding in a certain subject, without owning the particular engagement or opportunity.
 
 - **SA Assistance - Manager** - To be used by [SA] Manager in case of assisting a customer engagement.
 

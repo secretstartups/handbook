@@ -175,26 +175,28 @@ Security Risk maintains multiple templated versions of the SIG questionnaire for
 
 {{% details summary="SIG Lite Plus" %}}
 - [SIG Lite Plus](https://docs.google.com/spreadsheets/d/1wvpY3oF8sG_UbnQzzlbXs85ahsfLiDQp/edit?usp=drive_link&ouid=103289635706160914358&rtpof=true&sd=true)
-    - The SIG Lite Plus questionnaire is leveraged most commonly and should be utilized for all Red vendors and Orange SaaS systems. We refer to our SIG Lite as the "SIG Lite Plus" as it includes full scope SIG questionnaires for domains "A. Enterprise Risk Management" and "E. Human Resource Security". All other domains include standard SIG Lite content. Our objective here is to obtain additional information related to personal computers and background checks.
-    - The following 18 domains are included within the scope of the SIG Lite Plus questionnaire:
-        - A. Enterprise Risk Management (Full SIG Content)
-        - B. Security Policy
-        - C. Organizational Security
+    - The SIG Lite Plus questionnaire is leveraged most commonly and should be utilized for all Red vendors and Orange SaaS systems. We refer to our SIG Lite as the "SIG Lite Plus" as it includes full scope SIG questionnaires for domains "E. Human Resource Security and V. Cloud Services". All other domains include standard SIG Lite content. Our objective here is to obtain additional information related to cloud security and the use of personal computers and employee background checks.
+    - The following 20 domains are included within the scope of the SIG Lite Plus questionnaire:
+        - A. Enterprise Risk Management
+        - B. Nth Party Management
+        - C. Information Assurance
         - D. Asset and Info Management
         - E. Human Resources Security (Full SIG Content)
-        - F. Physical and Environmental
+        - F. Physical and Environmental Security
         - G. IT Operations Management
         - H. Access Control
-        - I. Application Security
+        - I. Application Management
         - J. Cybersecurity Incident Mgmt
         - K. Operational Resilience
-        - L. Compliance and Ops Risk
-        - M. Endpoint Device Security
+        - L. Compliance Management
+        - M. Endpoint Security
         - N. Network Security
-        - P. Privacy
+        - P. Privacy Management
+        - R. Artificial Intelligence
+        - S. Supply Chain Risk Mgmt
         - T. Threat Management
         - U. Server Security
-        - V. Cloud Hosting Services
+        - V. Cloud Services (Full SIG Content)
 {{% /details %}}
 
 {{% details summary="Professional Services SIG" %}}
@@ -205,10 +207,10 @@ Security Risk maintains multiple templated versions of the SIG questionnaire for
         - E. Human Resources Security (Full SIG Content)
         - F. Physical and Environmental
         - H. Access Control
-        - L. Compliance and Ops Risk
+        - L. Compliance Management
         - M. Endpoint Device Security
         - N. Network Security
-        - P. Privacy
+        - P. Privacy Management
         - T. Threat Management
 
 {{% /details %}}
@@ -250,8 +252,8 @@ The Security Risk team facilitates multiple functions to maintain accuracy of Te
 In specific instances, requirements for the performance or contents of TPRM reviews may vary from the standard process defined above:
 1. For privacy-driven TPRM reviews, instances where GitLab **receives** personal data from a third party in a [Controller-to-Controller](/handbook/legal/privacy/#privacy-terms) transfer do not require a TPRM review. The Privacy team will classify the nature of the relationship as part of the Privacy assessment during the procurement process.
 1. Law Firms, Accountants and Auditors may receive data, including red data, in a [Controller-to-Controller relationship](/handbook/legal/privacy/#privacy-terms), meaning these types of entities have direct obligations and standards for processing data under law. As such, these entities may be treated as Orange vendors.
-1. Instances where Gitlab team members provide their own data to a third-party [Data Controller](/handbook/legal/privacy/#privacy-terms), in which the team member personally acknowledges the third-party's terms, may not require a TPRM assessment.  Examples may include signing up for health, coaching or counseling benefits where GitLab only finances the service but does not send or receive data on behalf of team members and team members voluntarily decide to enter the program.
-1. Field Marketing events do not require the completion of a Security review as the gathering of contact information for GL Team Members and prospects is considered to be standard for the normal course of business for the Field Marketing team. Note that if the Field Marketing Team is commissioning the use of software to facilitate its operations or have hired a Vendor to collect data on behalf of Gitlab, these vendors may be subject to TPRM review as they could be considered a [Data Processor]((/handbook/legal/privacy/#privacy-terms))(see 1. above for more information). GitLab receiving event data from another organizer or GitLab sharing event data with other independent organizations and/or sponsors does not require a TPRM assessment.
+1. Instances where GitLab team members provide their own data to a third-party [Data Controller](/handbook/legal/privacy/#privacy-terms), in which the team member personally acknowledges the third-party's terms, may not require a TPRM assessment.  Examples may include signing up for health, coaching or counseling benefits where GitLab only finances the service but does not send or receive data on behalf of team members and team members voluntarily decide to enter the program.
+1. Field Marketing events do not require the completion of a Security review as the gathering of contact information for GL Team Members and prospects is considered to be standard for the normal course of business for the Field Marketing team. Note that if the Field Marketing Team is commissioning the use of software to facilitate its operations or have hired a Vendor to collect data on behalf of GitLab, these vendors may be subject to TPRM review as they could be considered a [Data Processor]((/handbook/legal/privacy/#privacy-terms))(see 1. above for more information). GitLab receiving event data from another organizer or GitLab sharing event data with other independent organizations and/or sponsors does not require a TPRM assessment.
 
 ### Other Types of Third Party Assessments
 

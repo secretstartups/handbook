@@ -66,7 +66,7 @@ Each member of the Delivery group is part of this vision:
 
 ## Guiding Principles
 
-These are a set of statements or questions we can use within the group to evaluate whether what we are doing is the right thing to do. When deciding on a piece of work to commit to, we should ask ourselves whether the work aligns with these principles. The principles will be driven by the Delivery Group Strategy, domain experts and Delivery Group Members. These are likely to change slightly over time as we learn and should not be considered static. Additionally, these principles are additive to the [GitLab Values](https://handbook.gitlab.com/handbook/values/) and we aim not to duplicate those here.
+These are a set of statements or questions we can use within the group to evaluate whether what we are doing is the right thing to do. When deciding on a piece of work to commit to, we should ask ourselves whether the work aligns with these principles. The principles will be driven by the Delivery Group Strategy, domain experts and Delivery Group Members. These are likely to change slightly over time as we learn and should not be considered static. Additionally, these principles are additive to the [GitLab Values](/handbook/values/) and we aim not to duplicate those here.
 
 These principles are intended to help everyone work independently in a way that is aligned with our Group and strategy.
 
@@ -301,7 +301,7 @@ The Delivery group uses priority labels to indicate order under which work is ne
 | Delivery::P3 | Issue should be completed once other urgent work is done. |
 | Delivery::P4 | **Default priority**. A nice-to-have improvement, non-blocking technical debt, or a discussion issue. Issue might be completed in future or work completely abandoned. |
 
-The group uses priority labels differently to the [general issue triage priority definition](/handbook/engineering/quality/issue-triage/#priority) in order to avoid ambiguity that comes with difference in timelines between Stage teams and Infrastructure teams. We have different timelines (release brings different expectations for Delivery), different DRI's (no PM for Delivery), and different importance (Blocked release means that no one can ship anything).
+The group uses priority labels differently to the [general issue triage priority definition](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#priority) in order to avoid ambiguity that comes with difference in timelines between Stage teams and Infrastructure teams. We have different timelines (release brings different expectations for Delivery), different DRI's (no PM for Delivery), and different importance (Blocked release means that no one can ship anything).
 
 #### Other Labels
 
@@ -365,10 +365,10 @@ The Delivery group generally has working epics assigned to a [DRI] who is respon
 
 ### Merge Requests
 
-The Delivery group respects the Company principle of [everything starting with a merge request](https://about.gitlab.com/handbook/communication/#start-with-a-merge-request).
+The Delivery group respects the Company principle of [everything starting with a merge request](/handbook/communication/#start-with-a-merge-request).
 
 1. All Merge Requests (MRs) must go through the review process.
-1. MRs should be labeled with the [Delivery labels](https://about.gitlab.com/handbook/engineering/infrastructure/team/delivery/#labels).
+1. MRs should be labeled with the [Delivery labels](/handbook/engineering/infrastructure/team/delivery/#labels).
 1. It is expected that MR author assigns reviewers once the MR is ready to go.
 1. Follow [GitLab Code Review Guidelines](https://docs.gitlab.com/ee/development/code_review.html).
 1. We [dogfood the Reviewers feature](https://docs.gitlab.com/ee/development/code_review.html#dogfooding-the-reviewers-feature) to assign reviewers to an MR.
@@ -381,7 +381,7 @@ Besides, we try to apply some best practices when doing Merge Requests:
   - Project - The reviewer should be knowledgeable or at least familiarized with the project, for example, release-tools reviews are normally handled by backend engineers, while k8s-workloads reviews are handled by SREs.
   - Context - If you're working closely with a peer, it's recommended to assign it to this team member for shorter review cycles.
   - Release manager (or capacity) - If a team member is a [release manager](https://about.gitlab.com/community/release-managers/) and they're working on a release task, they should not be bothered with reviews.
-- The usual [code-review turnaround]([link](https://about.gitlab.com/handbook/engineering/workflow/code-review/#review-response-slo)) is of two business days.
+- The usual [code-review turnaround]([link](/handbook/engineering/workflow/code-review/#review-response-slo)) is of two business days.
   - This doesn't apply if the merge request is associated with a ~Delivery::P1 item. In that case, the Merge Request review has to be treated with priority and urgency.
 - If the merge request has all the required approvals it can be merged by the author.
 - If you are assigned as a Reviewer, and you think to not be the best fit for the Merge Request (out of working hours, not enough understanding, don't have the capacity to review, etc.), please mention this to the merge request author so they can find another maintainer available or select an alternate team member that you feel would be better suited.
@@ -427,6 +427,7 @@ Prior to 2020, the team impact overview was created in Slack, and in the years t
 1. [Year overview for 2020](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/1446)
 1. [Year overview for 2021](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/2171)
 1. [Year overview for 2022](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/2726)
+1. [Year overview for 2023](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/19887)
 
 [delivery issue tracker]: https://gitlab.com/gitlab-com/gl-infra/delivery
 [team training]: /handbook/engineering/infrastructure/team/delivery/training/

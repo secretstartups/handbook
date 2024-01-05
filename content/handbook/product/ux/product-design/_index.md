@@ -39,7 +39,7 @@ Some UX teams have documented detailed information about their ways of working a
 - CI/CD and [Saas Platforms](https://about.gitlab.com/direction/saas-platforms/)
     - [CI/CD](/handbook/product/ux/stage-group-ux-strategy/ci-cd/) (`@gitlab-com/gitlab-ux/cicd-ux`)
 - [Sec](https://about.gitlab.com/direction/security/)
-    - [Secure and Govern](https://about.gitlab.com/handbook/engineering/ux/stage-group-ux-strategy/sec/) (`@gitlab-com/gitlab-ux/secure-govern-ux`)
+    - [Secure and Govern](/handbook/engineering/ux/stage-group-ux-strategy/sec/) (`@gitlab-com/gitlab-ux/secure-govern-ux`)
 - Fulfillment and Growth UX
     - Growth UX team: [How we approach experiments](/handbook/product/ux/ux-resources/experimentation/)
     - Fulfillment UX team: [How we work](/handbook/product/ux/stage-group-ux-strategy/fulfillment/)
@@ -80,7 +80,7 @@ Product Designer Tools
 
 - [UX Scorecard](/handbook/product/ux/ux-scorecards/)
 - [Category Maturity Scorecard](/handbook/product/ux/category-maturity/category-maturity-scorecards/)
-- [UX Issue Triage](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#ux)
+- [UX Issue Triage](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#ux)
 - [Heuristics](/handbook/product/ux/heuristics/)
 - [Competitor Evaluation](https://gitlab.com/gitlab-org/competitor-evaluations) (*GitLab Team Member access only*)
 - [UX Cloud Sandbox](/handbook/product/ux/ux-research/ux-cloud-sandbox/)

@@ -1,13 +1,6 @@
 ---
-
 title: Dev Sub-department
 ---
-
-
-
-
-
-
 
 ## Vision
 
@@ -21,83 +14,78 @@ We thrive for ownership of the things that we built by having a clear view on it
 The Dev sub-department is taking care of the first part of the DevSecOps Lifecycle with the following stages and the specific groups:
 
 1. [Manage](/handbook/product/categories/#manage-stage)
-  * [Manage:Authentication and Authorization](/handbook/engineering/development/dev/manage/authentication-and-authorization)
-  * [Manage:Foundations](/handbook/engineering/development/dev/manage/foundations/)
-  * [Manage:Import and Integrate](/handbook/engineering/development/dev/manage/import-and-integrate)
+    - [Manage:Authentication and Authorization](/handbook/engineering/development/dev/manage/authentication-and-authorization)
+    - [Manage:Foundations](/handbook/engineering/development/dev/manage/foundations/)
+    - [Manage:Import and Integrate](/handbook/engineering/development/dev/manage/import-and-integrate)
 1. [Plan](/handbook/product/categories/#plan-stage)
-  * [Plan:Project Management](/handbook/engineering/development/dev/plan-project-management/)
-  * [Plan:Product Planning](/handbook/engineering/development/dev/plan/product-planning/)
-  * [Plan:Optimize](/handbook/engineering/development/dev/plan/optimize)
-  * [Plan:Editor](/handbook/engineering/development/dev/plan/editor/)
+    - [Plan:Project Management](/handbook/engineering/development/dev/plan-project-management/)
+    - [Plan:Product Planning](/handbook/engineering/development/dev/plan/product-planning/)
+    - [Plan:Optimize](/handbook/engineering/development/dev/plan/optimize)
+    - [Plan:Editor](/handbook/engineering/development/dev/plan/editor/)
 1. [Create](/handbook/product/categories/#create-stage)
-  * [Create: Source Code BE](/handbook/engineering/development/dev/create/source-code-be/)
-  * [Create: Source Code FE](/handbook/engineering/development/dev/create/code-review/frontend/)
-  * [Create: Code Review BE](/handbook/engineering/development/dev/create/code-review/backend/)
-  * [Create: Code Review FE](/handbook/engineering/development/dev/create/code-review/frontend/)
-  * [Create: IDE](/handbook/engineering/development/dev/create/ide/)
-  * [Create: Code Creation](/handbook/engineering/development/dev/create/code-creation/)
-  * [Create: Editor Extensions](/handbook/engineering/development/dev/create/editor-extensions/)
-  * [Create Frontend](/handbook/engineering/frontend/create/)
+    - [Create: Source Code BE](/handbook/engineering/development/dev/create/source-code-be/)
+    - [Create: Source Code FE](/handbook/engineering/development/dev/create/code-review/frontend/)
+    - [Create: Code Review BE](/handbook/engineering/development/dev/create/code-review/backend/)
+    - [Create: Code Review FE](/handbook/engineering/development/dev/create/code-review/frontend/)
+    - [Create: IDE](/handbook/engineering/development/dev/create/ide/)
+    - [Create: Code Creation](/handbook/engineering/development/dev/create/code-creation/)
+    - [Create: Editor Extensions](/handbook/engineering/development/dev/create/editor-extensions/)
+    - [Create Frontend](/handbook/engineering/frontend/create/)
 
 ## Who we are
 
 ### Manage
 
-#### Manage:Authentication and Authorization
-<%= direct_team(manager_role: 'Engineering Manager, Manage:Authentication and Authorization') %>
-
 #### Manage:Foundations
-<%= direct_team(manager_role: 'Engineering Manager, Manage:Foundations') %>
+
+{{< team-by-manager-role "Engineering Manager(.*)Manage:Foundations" >}}
 
 #### Manage:Import and Integrate
-<%= direct_team(manager_role: 'Engineering Manager, Manage:Import and Integrate') %>
 
-#### Manage:Workspace
-<%= direct_team(manager_role: 'Engineering Manager, Manage:Workspace') %>
-
+{{< team-by-manager-role "Engineering Manager(.*)Manage:Import and Integrate" >}}
 
 ### Plan
 
 #### Plan:Project Management
-<%= direct_team(manager_role: 'Engineering Manager, Plan:Project Management') %>
+
+{{< team-by-manager-role "Engineering Manager(.*)Plan:Project Management" >}}
 
 #### Plan:Product Planning
-<%= direct_team(manager_role: 'Fullstack Engineering Manager, Plan:Product Planning') %>
+
+{{< team-by-manager-role "Engineering Manager(.*)Plan:Product Planning" >}}
 
 #### Plan:Optimize
-<%= direct_team(manager_role: 'Fullstack Engineering Manager, Plan:Optimize') %>
+
+{{< team-by-manager-role "Engineering Manager(.*)Plan:Optimize" >}}
 
 #### Plan:Knowledge
-<%= direct_team(manager_role: 'Senior Manager, Engineering, Plan', role_regexp: /[,&] (Plan:Knowledge)/) %>
+
+
+{{< team-by-manager-role role="Senior Manager, Engineering(.*)Plan" team="[,&] (Plan:Knowledge)" >}}
 
 ### Create
 
 #### Create:Source Code
-<%= direct_team(manager_role: 'Backend Engineering Manager, Create:Source Code') %>
+
+{{< team-by-manager-role "Backend Engineering Manager(.*)Create:Source Code" >}}
 
 #### Create:Code Review
-<%= direct_team(manager_role: 'Backend Engineering Manager, Create:Code Review') %>
 
-#### Create:IDE
-<%= direct_team(manager_role: 'Engineering Manager, Create:IDE') %>
+{{< team-by-manager-role "Backend Engineering Manager(.*)Create:Code Review" >}}
 
 #### Create:Source Code Frontend
-<%= direct_team(manager_role: 'Frontend Engineering Manager, Create:Source Code, Create:Code Review, Delivery & Scalability', role_regexp: /(?!Code Review)Source Code/) %>
+
+{{< team-by-manager-role role="Frontend Engineering Manager(.*)Create:Source Code" team="Create:Source Code" >}}
 
 #### Create:Code Review Frontend
-<%= direct_team(manager_role: 'Frontend Engineering Manager, Create:Source Code, Create:Code Review, Delivery & Scalability', role_regexp: /(?!Source Code)Code Review/) %>
 
-#### Create:Code Creation
-<%= direct_team(manager_role: 'Backend Engineering Manager, Create:Code Creation, Create:Code Review') %>
-
-#### Create:Editor Extensions
-<%= direct_team(manager_role: 'Engineering Manager, Create:Editor Extensions') %>
+{{< team-by-manager-role role="Frontend Engineering Manager(.*)Create:Source Code" team="Create:Code Review" >}}
 
 ## Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /[,&] Dev/, direct_manager_role: 'Director of Engineering, Dev') %>
+{{< stable-counterparts manager-role="Director of Engineering, Dev" role="[,&] Dev" >}}
 
 ## How we work
 
@@ -121,14 +109,13 @@ One way that groups can keep error budgets in mind is by automating a weekly rem
 
 A [Slack workflow](https://gitlab.com/gitlab-com/gl-infra/scalability/-/snippets/2299544) can be created that allows any member of the team to provide a quick update on the current error budget status.
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_section_dashboard.erb", locals: { filter_value: "dev" } %>
-
+{{% cross-functional-dashboards filters="dev" section=true %}}
 
 ## Common Links
 
- * Issue Tracker
- * Slack Channels
-    * #sd_dev_engineering
-    * #s_manage
-    * #s_plan
-    * #s_create
+- Issue Tracker
+- Slack Channels
+    - #sd_dev_engineering
+    - #s_manage
+    - #s_plan
+    - #s_create

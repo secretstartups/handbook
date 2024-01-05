@@ -51,7 +51,7 @@ An example with fake numbers:
 - wave 2 percentage for Ultimate: (73% - 65%) + 73% = 81%
 In this example the sample is under the population, hence the next wave percentage is higher than the population to try and make that up. 
 3. Waves should be ~5000 users. Mark the desired number of users out of that 5000 that fit your percentages for each plan type with the name of the wave you are sending.
-4. Paste all the user IDs for that wave into a new sheet, following the [process for uploading user IDs into Qualtrics](https://about.gitlab.com/handbook/engineering/ux/qualtrics/#distributing-your-survey-to-gitlabcom-users).
+4. Paste all the user IDs for that wave into a new sheet, following the [process for uploading user IDs into Qualtrics](/handbook/engineering/ux/qualtrics/#distributing-your-survey-to-gitlabcom-users).
 5. Once the mailing list has been created in Qualtrics double-check that no @gitlab.com email addresses were included, and create a new email distribution for the SaaS PNPS survey in Qualtrics using the `PNPS Survey Distribution - Current Survey Template`. **Make sure to edit the advanced survey options to set the link expiration to the last day of the quarter**. 
 6. Typically emails are scheduled to go out Monday - Friday early in the morning US time (8 - 9am Eastern Time) with the goal of maximizing visibility and responses, but this is far from scientific and open to change. Qualtrics supports scheduling email ahead of time.
 
@@ -61,7 +61,7 @@ Once all email waves have been sent, add the user IDs that were used this quarte
 
 We give PNPS survey respondents the option to indicate whether they would be open to a follow-up interview when filling in the survey. As part of the analysis, a list of users that agreed to the follow-up is generated. 
 
-After the quarterly analysis is shared out, UX Research initiates outreach to PNPS responders who opted into contact via this [automated issue](https://gitlab.com/gitlab-com/Product/-/blob/main/.gitlab/issue_templates/ProdOps-PNPS-Responder-Outreach.md). The detailed PNPS responder outreach workflow can be seen [here](https://about.gitlab.com/handbook/product/product-processes/#pnps-responder-outreach).
+After the quarterly analysis is shared out, UX Research initiates outreach to PNPS responders who opted into contact via this [automated issue](https://gitlab.com/gitlab-com/Product/-/blob/main/.gitlab/issue_templates/ProdOps-PNPS-Responder-Outreach.md). The detailed PNPS responder outreach workflow can be seen [here](/handbook/product/product-processes/#pnps-responder-outreach).
 
 ### Displaying the data
 

@@ -1,6 +1,6 @@
 ---
 
-title: "Gitlab IT 101"
+title: "GitLab IT 101"
 ---
 
 
@@ -9,9 +9,9 @@ title: "Gitlab IT 101"
 
 
 
-## Welcome To Gitlab!
+## Welcome To GitLab!
 
-Congratulations on joining Gitlab! This page is dedicated to the IT onboarding experience, here at Gitlab we use many applications and the latest hardware to enable you to complete your work to the best of your ability! While it may seen a little bit overwhelming at the start the Team member enablement team is here to make the process as easy as possible!
+Congratulations on joining GitLab! This page is dedicated to the IT onboarding experience, here at GitLab we use many applications and the latest hardware to enable you to complete your work to the best of your ability! While it may seen a little bit overwhelming at the start the Team member enablement team is here to make the process as easy as possible!
 
 ## Getting Started
 
@@ -34,7 +34,7 @@ Tip: After setup, if you don’t see the Wi-Fi status icon in the menu bar, you 
 
 #### Apple ID
 
-- We recommend creating a new Apple ID for Gitlab to keep your personal and work data separate. You can also reimburse apps using an Apple ID created with your Gitlab account. Your Apple ID consists of an email address and a password. It’s the account you use for everything you do with Apple—including using the App Store, Apple TV app, Apple Book Store, iCloud, Messages, and more.
+- We recommend creating a new Apple ID for GitLab to keep your personal and work data separate. You can also reimburse apps using an Apple ID created with your GitLab account. Your Apple ID consists of an email address and a password. It’s the account you use for everything you do with Apple—including using the App Store, Apple TV app, Apple Book Store, iCloud, Messages, and more.
 
 #### Initial Setup Part 2
 

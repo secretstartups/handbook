@@ -5,7 +5,7 @@ title: "Open Source Growth Strategy"
 
 ## Strategy
 
-We will be executing in 4 key areas in support of the company's broader [dual-flywheels](/company/strategy/#dual-flywheels) strategy to attain more contributions. The 4 key areas together are the building blocks of our contributor & contribution 10x acceleration strategy.
+We will be executing in 4 key areas in support of the company's broader [dual-flywheels](/handbook/company/strategy/#dual-flywheels) strategy to attain more contributions. The 4 key areas together are the building blocks of our contributor & contribution 10x acceleration strategy.
 
 ```mermaid
 flowchart LR
@@ -55,11 +55,11 @@ Provide an outstanding and efficient contributor experience, from onboarding mat
 
 * **Why:** Provide fast and efficient contributor experience via our tooling. Our contributor tooling needs to be optimized for contributor productivity
 * **Epic:** <https://gitlab.com/groups/gitlab-com/quality/-/epics/2>
-* **DRI:** [Engineering Productivity team](/handbook/engineering/quality/engineering-productivity/)
+* **DRI:** [Engineering Productivity team](/handbook/engineering/infrastructure/engineering-productivity/)
 
 #### Product groups focus
 
-* **Why:** Contribution submissions, backlog, and technology stack vary amongst all [product groups](/company/team/structure/#product-groups). Providing a healthy community backlog alignment & establishing a common best practice outreach for all product groups.
+* **Why:** Contribution submissions, backlog, and technology stack vary amongst all [product groups](/handbook/company/team/structure/#product-groups). Providing a healthy community backlog alignment & establishing a common best practice outreach for all product groups.
 * **Epic:** <https://gitlab.com/groups/gitlab-org/-/epics/9074>
 * **DRI:** [Product Operations](/handbook/product/product-operations/), [Developer Relations team](/handbook/marketing/developer-relations/) & [Contributor Success team](/handbook/marketing/developer-relations/contributor-success/)
 

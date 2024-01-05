@@ -1,14 +1,7 @@
 ---
-
 title: Fulfillment Diversity, inclusion, and belonging
 description: "Fulfillment Diversity, inclusion, and belonging initiatives and metrics"
 ---
-
-
-
-
-
-
 
 ## Fulfillment Social
 
@@ -38,12 +31,12 @@ Every quarter, we set aside our work and host a virtual get-together to socializ
 
 We have Fulfillment onboarding templates ([BE/FE engineer](https://gitlab.com/gitlab-org/fulfillment-meta/-/blob/master/.gitlab/issue_templates/onboarding.md), [UX engineer](https://gitlab.com/gitlab-org/fulfillment-meta/-/blob/master/.gitlab/issue_templates/onboarding_UX.md)), [Software Engineer in Test](https://gitlab.com/gitlab-org/quality/team-tasks/-/blob/master/.gitlab/issue_templates/Onboarding.md#L110).
 
-As part of onboarding, you will be assigned an onboarding buddy that will make you feel welcomed as well as schedule a number of coffee chats to get to know other Fulfillment team members. 
+As part of onboarding, you will be assigned an onboarding buddy that will make you feel welcomed as well as schedule a number of coffee chats to get to know other Fulfillment team members.
 
 ### MR DIB and collaboration metrics
 
-<embed width="<%= 99 %>%" height="350" src="<%= signed_periscope_url(dashboard: 1035767, chart: 14739244, embed: 'v2') %>">
+{{< sisense dashboard="1035767" chart="14739244" height="350" >}}
 
-<embed width="<%= 99 %>%" height="350" src="<%= signed_periscope_url(dashboard: 1035767, chart: 14739479, embed: 'v2') %>">
+{{< sisense dashboard="1035767" chart="14739479" height="350" >}}
 
-<embed width="<%= 99 %>%" height="350" src="<%= signed_periscope_url(dashboard: 1035767, chart: 14739535, embed: 'v2') %>">
+{{< sisense dashboard="1035767" chart="14739535" height="350" >}}

@@ -108,7 +108,7 @@ It spins up the following types of machines:
 
       to perform the upgrade. This will stop the chef-client service, stop the
       runner and cleanup the machines, run the chef-client to fetch the new
-      version and finally, start gitlab runner again.
+      version and finally, start GitLab Runner again.
 
 #### When builds are pending on dev.gitlab.org
 

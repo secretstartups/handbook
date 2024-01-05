@@ -23,7 +23,7 @@ While the allure of working on numerous areas is tempting, I focus on my strengt
 
 I was captivated to [GitLab Values](/handbook/values/), and now as part of the team, I've had the pleasure to experience and live by these values. Now, I hold the following assumptions about my colleagues:
 
-- You [mean well](https://about.gitlab.com/handbook/values/#assume-positive-intent)
+- You [mean well](/handbook/values/#assume-positive-intent)
 - You'll [fulfill your commitments](/handbook/values/#ownership).
 - You're [direct](/handbook/values/#directness).
 

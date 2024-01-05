@@ -504,7 +504,7 @@ important to those working within Zendesk:
 | `support_pg_management_project_errors`                     | The Support ticket involves project errors                                                |
 | `support_pg_management_project_import_export`              | The Support ticket involves import/export                                                 |
 | `support_pg_management_project_other`                      | The Support ticket involves something else about projects                                 |
-| `support_pg_management_project_pages`                      | The Support ticket involves GitLab pages                                                  |
+| `support_pg_management_project_pages`                      | The Support ticket involves GitLab Pages                                                  |
 | `support_pg_management_project_questions`                  | The Support ticket involves project questions                                             |
 | `support_pg_management_project_service_desk`               | The Support ticket involves service desk                                                  |
 | `support_pg_management_project_settings`                   | The Support ticket involves project settings                                              |
@@ -595,6 +595,7 @@ important to those working within Zendesk:
 | `lnr_saas_trial`                   | Indicates the L&R internal request is about a SaaS trial |
 | `lnr_saas_trial_extension`         | Indicates the problem type is "Extend a SaaS trial" |
 | `lnr_saas_trial_edit`              | Indicates the problem type is "Change existing SaaS trial plan" |
+| `lnr_saas_trial_over_plan`         | Indicates the problem type is "Request an Ultimate trial for a customer using a Premium subscription" |
 | `lnr_sm_license`                   | Indicates the L&R internal request is about a self-managed license |
 | `lnr_sm_license_extension`         | Indicates the problem type is "Extend an (almost) expired subscription" |
 | `lnr_sm_license_receive_error`     | Indicates the problem type is "Customer did not receive the license" |

@@ -27,6 +27,10 @@ Competitors like [Github](https://github.blog/2022-12-08-experiment-the-hidden-c
 
 Additionally, new players are entering the market advocating for up to 5x GitLab SaaS runner build speed such as [puzl.cloud](https://gitlab-pipelines.puzl.cloud/) and [actuated.dev](https://actuated.dev/), shifting the perception of GitLabs positioning as a leader in CI build speed.
 
+## Out-of-scope
+
+The visibility & observability of build speed for customer jobs will not be scope of this working group, as it's part ot [CI Insights](https://gitlab.com/groups/gitlab-org/-/epics/12071) from the [Fleet Visibility](https://about.gitlab.com/direction/verify/fleet_visibility/) team.
+
 ## Business Outcomes
 
 1. Establish a repeatable process and framework to measure CI build speed and performance. The process must include the frequency of measurements (quarterly, semi-annual, annual).

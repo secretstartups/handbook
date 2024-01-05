@@ -63,8 +63,8 @@ The Dashboard currently shows teams where the logged-in user is a member, and a 
 - Click on the "Create team" button to open the Create team form
 - Enter the Team Name & a short description about the team
 - If your team has a `utm_content` prefix, you can supply it here, this is optional.
-- If the team has a general campaign for all campaigns, specify the `utm_campaign` value here for the UTM Campaign field. For example, the Community team uses the `community` as the default value for all UTM tracking done by programs in the team. You can override this value, by settign specific campaign values.
-- Enter the UTM Budget (`utm_budget`) for the team, this will be the default value for all campaigns, you can override this for spcific campaigns.
+- If the team has a general campaign for all campaigns, specify the `utm_campaign` value here for the UTM Campaign field. For example, the Community team uses the `community` as the default value for all UTM tracking done by programs in the team. You can override this value, by setting specific campaign values.
+- Enter the UTM Budget (`utm_budget`) for the team, this will be the default value for all campaigns, you can override this for specific campaigns.
 - If you only want Admins of a team to create campaigns & manage campaign, enable the `Only Admins can create Campaigns` checkbox. When set, other members will be limited to creating campaign links.
 - Click on Create team and you should be directed to the new team's page if successful.
 
@@ -103,7 +103,7 @@ Click on the "Make Admin" button next to a team member to elevate their privileg
 
 - To create a new Campaign, Click on the "New Campaign" button in a Team's page.
 - The `Create New Campaign` form modal will pop up, provide a title and description for the campaign & click `Save`.
-- You will be redirected to the newly created campaign's page if succssful.
+- You will be redirected to the newly created campaign's page if successful.
 - An error message will be displayed in the team's page where new campaign creation is not successful
 
 ![New Campaign Page image](/images/handbook/marketing/developer-relations/community-apps/campaign-manager/new_campaign_page.png "New Campaign Page") 

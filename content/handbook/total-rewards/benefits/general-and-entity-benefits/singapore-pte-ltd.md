@@ -65,6 +65,26 @@ When adding a new dependent to the plan, please include the following informatio
 - Gender
 - Nationality
 
+## Annual Health Screening
+
+Effective November 20, 2023, GitLab offers all Singapore Team Members an annual Health Screening through Fullerton Health.
+
+Team Members can book an Executive Health Screening at one of Fullerton Health’s locations throughout Singapore. The cost of the screening will be invoiced directly to GitLab.  The benefit renews in the Calendar Year.
+
+Team Members can add Optional Tests and Screenings at their own cost. For additional details on the locations, what is included in the screenings, as well as information on how to book your appointment, please see the [Fullerton Health Guide](https://drive.google.com/file/d/1O7lgEE-lbo2I1lkekc39TDKBDpAV9FXG/view?usp=sharing).
+
+You can sign up for the benefit and book an appointment via the [Fullerton Health Website](https://bookappt.fullertonhealth.com/#/login). Click on “Sign Up”, fill out your information, and search for “GITLAB SINGAPORE PTE LTD” under the Company drop down.
+
+Note: Since GitLab pays for the benefit directly, this benefit is not considered CPF payable
+
+Contact Details for Fullerton Health:
+Email ehs@fullertonhealth.com
++65 6333 3636 (Option 3)
+
+### Administration of Health Screening
+
+Fullerton Health will send the invoice directly to total-rewards@gitlab.com team for payment. The Total Rewards team will review and forward to Accounts Payable to process the invoice. These invoices will come through on an ad-hoc basis. As with all discretionary benefit offerings, GitLab may modify or remove this benefit at its discretion.
+
 ## Pension
 
 GitLab does not plan to offer a supplementary private pension benefit at this time as Singapore has their Pension system called as [Central Provident Fund](https://www.cpf.gov.sg/members)

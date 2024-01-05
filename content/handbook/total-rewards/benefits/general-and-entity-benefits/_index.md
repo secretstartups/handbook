@@ -25,7 +25,7 @@ For any questions relating to benefits, please reach out to [Total Rewards](/han
 - [GitLab GK (Japan)]({{< ref "gitlab-gk" >}})
 - [GitLab Ireland LTD]({{< ref "gitlab-ireland-ltd" >}})
 - [GitLab Korea LTD]({{< ref "korea-ltd-benefits" >}})
-- [Gitlab France S.A.S.]({{< ref "france-sas" >}})
+- [GitLab France S.A.S.]({{< ref "france-sas" >}})
 - [GitLab Singapore Pte Ltd]({{< ref "singapore-pte-ltd" >}})
 - [Remote Technology (Brazil,Denmark, Spain, Italy, Switzerland, South Africa, Mexico, Hungary, Sweden and Austria)]({{< ref "remote-com" >}})
 - [Papaya Global (UAE, Italy)]({{< ref "papaya-global" >}})
@@ -54,6 +54,18 @@ In the unfortunate event that a GitLab team member passes away, GitLab will prov
   - The team member must be either an employee or direct contractor.
   - The team member must have indicated in writing to whom the money should be transferred. To do this you must complete the [Expression of wishes](https://docs.google.com/document/d/19p4IN-msvs4H10teBessfPx-1wu8J7Vs67Es8iVLlL8/edit?usp=sharing) form. To do this, first copy the template to your Google Drive (File -> Make a copy), enter your information, sign electronically. To sign the document, use a free document signing program like [smallpdf](https://smallpdf.com/sign-pdf); or you can print it, sign and digitize. Sign, save as a pdf and upload to your Documents folder in Workday - [here](https://docs.google.com/document/d/19B0lsMu7dMhof1ghPuBxHP23DuDqi2qpWF8pCWyEUN4/edit) is the job aid for quick reference.
   - For part-time GitLab team members, the lump sum is calculated pro-rata, so for example for a team member that works for GitLab 50% of the time, the lump sum would be [$10,000]({{< ref "compensation#exchange-rates" >}}).
+
+## Discount Wellbeing Platform
+
+Starting 2024, GitLab has partnered with HealthKick, a global wellbeing platform providing Team Members discounts across wellbeing, fitness, & overall lifestyle offerings/services.
+- *This program is offered at no cost for team members.
+
+We know that whole-person wellness is important for feeling good. That’s why we are offering all employees access to HealthKick (at no-cost), a personal wellness membership dedicated to helping you feel your best. When you enroll you’ll gain access to an array of 250+ brands, content and expert resources that will help you optimize your well-being. From fitness classes and personalized workout plans to nutrition workshops and mental health resources.
+
+Please review HealthKick's member resources and the self-registration link/instructions to enroll with anytime throughout the year.
+[Gitlab self-registration link](https://www.health-kick.com/companies/1004/registration)
+[HealthKick Overview](https://drive.google.com/file/d/1AitsrkUDA66UV5xZsv5ooqxmr7BpxlLh/view)
+[HealthKick Welcome Packet](https://drive.google.com/file/d/1_vdASrSSzztvEwM7NOx_szEPYMkPBiiA/view?usp=sharing)
 
 ## Financial Wellness
 
@@ -168,7 +180,7 @@ GitLab plans to continue to iterate on fertility benefits as we evaluate and enh
 
 GitLab's paid Parental Leave is available for any active team member (regardless of gender) who becomes a parent through childbirth or adoption while working at GitLab. This benefit is available to all team members on their first day of work, as long as their child was born or newly adopted during their employment at GitLab.
 
-GitLab team members are encouraged to decide for themselves how much time they'd like to take and how to take it, but the entire 16-week Parental Leave balance must be used prior to the child's first birthday or the first anniversary of the adoption. For many reasons, a team member may require more time off. Any GitLab team member can request additional unpaid leave for up to 4 weeks, and we are happy to address anyone with additional leave requests on a one-on-one basis.
+GitLab team members are encouraged to decide for themselves how much time they'd like to take and how to take it, but the entire 16-week Parental Leave balance must be used prior to the child's first birthday or the first anniversary of the adoption.
 
 The information in this section is specific to GitLab's 16-week paid Parental Leave. Different countries may provide team members with their own statutory Parental Leave (including maternity/paternity) benefits. Please review your country's statutory [Parental Leave](#entity-benefits) benefits for more information on how to apply and tenure requirements (if applicable). If you live in a country where a statutory Parental Leave benefit is available, you will be required to claim statutory Parental Leave pay (if eligible), and GitLab will supplement any gaps. When allowed by law GitLab's 16-week balance is per birth or adoption event per year and runs concurrently with these statutory benefits.
 
@@ -193,7 +205,7 @@ Please submit the dates of your PTO in [Time Off by Deel]({{< ref "paid-time-off
 
 Some team members may feel comfortable sharing their news sooner than other team members. You can share your news with your Manager whenever you feel comfortable, but we recommend communicating your plan to your manager at least 2-3 months before your leave starts for workload planning purposes. In the meantime, familiarize yourself with the steps below and specific leave requirements in your [country]({{< ref "general-and-entity-benefits#entity-benefits" >}}) (if any).
 
-**To initiate your Parental Leave, submit your time off by selecting the `Parental Leave` label in Time Off by Deel no less than 30 days prior to the start of your leave.** We understand that Parental Leave dates may change, so you can edit the dates in Time Off by Deel at a later time if you need to adjust the dates of your Parental Leave. It's important that you submit a tentative date 30 days in advance, but some countries have their own reporting requirements.  Please review your own [country's](#entity-benefits) reporting requirements to ensure you are reporting your leave according to these regulations.
+**30 days prior to the start of your leave** Enter your Parental Leave into Time Off by Deel by selecting the `Parental Leave` label. We understand the Parental Leave dates may change, so you can edit the dates in Time Off by Deel as needed. It's important that you submit the request in Deel, 30 days in advance, but some countries have their own reporting requirements. Please review your own [country's](#entity-benefits) reporting requirements to ensure you are reporting your leave according to these regulations.
 
 We realize that if you are going on adoptive parental leave, a 30 day notice period may not be possible. In these situations, you should notify your manager as soon as possible and enter the dates in Time Off by Deel when you can.
 
@@ -271,6 +283,7 @@ You can learn more about parental leave and how to apply in the [Benefits sectio
 - Expecting parents sign up for the program before they start their Parental Leave. (If you decide you would like to participate in this program while on leave that is ok too!)
 - Barbara (from [Your 4th Trimester](https://drive.google.com/file/d/1NOkpt1oBruKunt3IdR6bQuvR0P2ht6Tg/view)) will start working with the team member prior to their leave and 30 days before the end of their Parental Leave
 - To apply for this coaching program, please notify Total Rewards that you would like to participate in the program by sending an email to growth-development@gitlab.com
+- Note the program cost is funded within your [Growth and Development](/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit) benefit
 
 #### Tips for a smoother transition
 

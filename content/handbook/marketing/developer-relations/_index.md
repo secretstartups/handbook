@@ -21,7 +21,7 @@ Our operational strategy is [documented in our internal handbook](https://intern
 
 ## <i class="fas fa-users fa-fw color-orange font-awesome"></i> Meet the Team
 
-{{< team-by-department "Developer Relations" >}}
+{{< team-by-departments "Developer Relations" >}}
 
 ## <i class="fas fa-paper-plane fa-fw color-orange font-awesome"></i> How to reach us
 
@@ -76,34 +76,34 @@ Teams within Developer Relations are reachable in these Slack channels:
 
 Community engagement:
 
-[<i class="fas fa-shield-alt"></i> Code of Conduct Enforcement](/handbook/marketing/developer-relations/workflows-tools/code-of-conduct-enforcement/)
-[<i class="fas fa-volume-up"></i> Community Response Process](/handbook/marketing/developer-relations/developer-evangelism/community-response/)
-[<i class="fas fa-calendar-alt"></i> Events](/handbook/marketing/developer-relations/events/)
+- [<i class="fas fa-shield-alt"></i> Code of Conduct Enforcement](/handbook/marketing/developer-relations/workflows-tools/code-of-conduct-enforcement/)
+- [<i class="fas fa-volume-up"></i> Community Response Process](/handbook/marketing/developer-relations/developer-evangelism/community-response/)
+- [<i class="fas fa-calendar-alt"></i> Events](/handbook/marketing/developer-relations/events/)
 
 Community platforms:
 
-[<i class="fab fa-discourse"></i> Discourse Forum](/handbook/marketing/developer-relations/workflows-tools/forum/)
-[<i class="fab fa-discord"></i> Discord](/handbook/marketing/developer-relations/workflows-tools/discord/)
-[<i class="fab fa-reddit"></i> Reddit](/handbook/marketing/developer-relations/workflows-tools/reddit/)
-[<i class="fab fa-stack-overflow"></i> StackOverflow](/handbook/marketing/developer-relations/workflows-tools/stackoverflow/)
-[<i class="fas fa-eye"></i> Common Room](/handbook/marketing/developer-relations/workflows-tools/common-room/)
+- [<i class="fab fa-discourse"></i> Discourse Forum](/handbook/marketing/developer-relations/workflows-tools/forum/)
+- [<i class="fab fa-discord"></i> Discord](/handbook/marketing/developer-relations/workflows-tools/discord/)
+- [<i class="fab fa-reddit"></i> Reddit](/handbook/marketing/developer-relations/workflows-tools/reddit/)
+- [<i class="fab fa-stack-overflow"></i> StackOverflow](/handbook/marketing/developer-relations/workflows-tools/stackoverflow/)
+- [<i class="fas fa-eye"></i> Common Room](/handbook/marketing/developer-relations/workflows-tools/common-room/)
 
 Content:
 
-[<i class="far fa-edit"></i> Community newsletter](/handbook/marketing/developer-relations/developer-evangelism/community-newsletter/)
-[<i class="far fa-edit"></i> Content Review / Fix Fridays](/handbook/marketing/developer-relations/workflows-tools/content-review/)
-[<i class="fas fa-chart-line"></i> UTM Tracking Strategy](/handbook/marketing/developer-relations/utm-strategy/)
-[<i class="far fa-folder-open"></i> Campaign management](/handbook/marketing/developer-relations/community-apps/campaign-manager/)
+- [<i class="far fa-edit"></i> Community newsletter](/handbook/marketing/developer-relations/developer-evangelism/community-newsletter/)
+- [<i class="far fa-edit"></i> Content Review / Fix Fridays](/handbook/marketing/developer-relations/workflows-tools/content-review/)
+- [<i class="fas fa-chart-line"></i> UTM Tracking Strategy](/handbook/marketing/developer-relations/utm-strategy/)
+- [<i class="far fa-folder-open"></i> Campaign management](/handbook/marketing/developer-relations/community-apps/campaign-manager/)
 
 Organization:
 
-[<i class="fas fa-credit-card"></i> Team Budgets](/handbook/marketing/developer-relations/workflows-tools/team-budgets)
-[<i class="fas fa-shopping-cart"></i> Swag operations](/handbook/marketing/developer-relations/workflows-tools/swag/)
-[<i class="fas fa-magic"></i> Automated Community Programs](/handbook/marketing/developer-relations/community-programs/automated-community-programs/)
-[<i class="fas fa-robot"></i> Zapier](/handbook/marketing/developer-relations/workflows-tools/zapier/)
-[<i class="fas fa-inbox"></i> Zendesk](/handbook/marketing/developer-relations/workflows-tools/zendesk/)
-[<i class="fas fa-envelope"></i> Email](/handbook/marketing/developer-relations/workflows-tools/e-mail/)
-[<i class="fab fa-twitter"></i> Twitter/X](/handbook/marketing/developer-relations/workflows-tools/twitter/)
+- [<i class="fas fa-credit-card"></i> Team Budgets](/handbook/marketing/developer-relations/workflows-tools/team-budgets)
+- [<i class="fas fa-shopping-cart"></i> Swag operations](/handbook/marketing/developer-relations/workflows-tools/swag/)
+- [<i class="fas fa-magic"></i> Automated Community Programs](/handbook/marketing/developer-relations/community-programs/automated-community-programs/)
+- [<i class="fas fa-robot"></i> Zapier](/handbook/marketing/developer-relations/workflows-tools/zapier/)
+- [<i class="fas fa-inbox"></i> Zendesk](/handbook/marketing/developer-relations/workflows-tools/zendesk/)
+- [<i class="fas fa-envelope"></i> Email](/handbook/marketing/developer-relations/workflows-tools/e-mail/)
+- [<i class="fab fa-twitter"></i> Twitter/X](/handbook/marketing/developer-relations/workflows-tools/twitter/)
 
 #### Community Interest
 
@@ -140,21 +140,21 @@ OKRs we seek to align with:
 - [CEO OKRs](/handbook/company/okrs/#most-recent-okrs)
 - [Marketing OKRs](/handbook/marketing/#marketing-okrs)
 
-#### DRI Responsibilities 
+#### DRI Responsibilities
 
-For each quarterly objective and key results, the Developer Relations team will assign a [DRI](https://handbook.gitlab.com/handbook/people-group/directly-responsible-individuals/). For our team, we have responsibilities that build upon the GitLab guidance on [achieving](https://handbook.gitlab.com/handbook/company/okrs/#documenting-how-to-achieve) and [updating](https://handbook.gitlab.com/handbook/company/okrs/#maintaining-the-status-of-okrs). Typically, People managers are the DRIs for objectives while ICs are the DRIs for key results.
+For each quarterly objective and key results, the Developer Relations team will assign a [DRI](/handbook/people-group/directly-responsible-individuals/). For our team, we have responsibilities that build upon the GitLab guidance on [achieving](/handbook/company/okrs/#documenting-how-to-achieve) and [updating](/handbook/company/okrs/#maintaining-the-status-of-okrs). Typically, People managers are the DRIs for objectives while ICs are the DRIs for key results.
 
-* Objective DRI Responsibilities 
-    * Own strategy for achieving objectives including supporting the DRIs for key results that will help to achieve our objectives. 
-    * Collaborate with the owners of the key results that contribte to your objective to set a plan to deliver on the KRs and objective. 
-    * Maintain communication with KR owners - synchronous or asynchronous - throughout the quarter as needed. 
-    * Provide bi-weekly updates in the epic and in the Developer Relations bi-weekly team meeting agenda on the objective including completion percentage and status. We recognize that there will be no change from the previous report at times. 
+* Objective DRI Responsibilities
+    * Own strategy for achieving objectives including supporting the DRIs for key results that will help to achieve our objectives.
+    * Collaborate with the owners of the key results that contribte to your objective to set a plan to deliver on the KRs and objective.
+    * Maintain communication with KR owners - synchronous or asynchronous - throughout the quarter as needed.
+    * Provide bi-weekly updates in the epic and in the Developer Relations bi-weekly team meeting agenda on the objective including completion percentage and status. We recognize that there will be no change from the previous report at times.
     * Present overview and status updates in team business reviews.
     * Escalate any urgent needs to your manager.
 
 * Key Results DRI Responsibilities
-    * Create and manage strategy for achieving the key results. Manage dependencies, set actions, and define how your items will be scored. 
-    * Provide bi-weekly updates in the issues in the [GitLab OKRs project](https://gitlab.com/gitlab-com/gitlab-OKRs/) including completion percentage and status. The issues are the single source of truth for your KR. We recognize that there will be no change from the previous report at times. 
+    * Create and manage strategy for achieving the key results. Manage dependencies, set actions, and define how your items will be scored.
+    * Provide bi-weekly updates in the issues in the [GitLab OKRs project](https://gitlab.com/gitlab-com/gitlab-OKRs/) including completion percentage and status. The issues are the single source of truth for your KR. We recognize that there will be no change from the previous report at times.
     * Ensure key result information is up-to-date for team business reviews.
     * Escalate any urgent needs to your manager.
 

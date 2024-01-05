@@ -11,11 +11,11 @@ title: Server Runtime Single-Engineer Group
 
 ## Introduction
 
-This page provides a comprehensive overview of *Server Runtime* and catalogs relevant links and pages. It is created and maintained by @shekharpatnaik. The Server Runtime SEG [Single-Engineer Group](/company/team/structure/#single-engineer-groups) is a part of [Incubation Engineering Department](/handbook/engineering/development/incubation/). 
+This page provides a comprehensive overview of *Server Runtime* and catalogs relevant links and pages. It is created and maintained by @shekharpatnaik. The Server Runtime SEG [Single-Engineer Group](/handbook/company/team/structure/#single-engineer-groups) is a part of [Incubation Engineering Department](/handbook/engineering/development/incubation/).
 
 ## About Server Runtime
 
-Server Runtime is aimed at engineering a performant, scalable remote development experience & productizing it as a customer offering. When this comes to fruition, we envision being able to bring to bear a remote development experience that is browser and platform agnostic and lets GitLab users build, run and test their code right within the GitLab platform. We see this as a viable product idea to generate revenue for the company & to transform the IDE experience for engineers. Competitors in this space, currently, are GitPod and Codespaces. 
+Server Runtime is aimed at engineering a performant, scalable remote development experience & productizing it as a customer offering. When this comes to fruition, we envision being able to bring to bear a remote development experience that is browser and platform agnostic and lets GitLab users build, run and test their code right within the GitLab platform. We see this as a viable product idea to generate revenue for the company & to transform the IDE experience for engineers. Competitors in this space, currently, are GitPod and Codespaces.
 
 Generally, cloud based development environments have the following traits:
 
@@ -85,7 +85,7 @@ The Server Runtime is deployed as a module, on both, the server and the client s
 
 A core part of the server runtime is provisioning a new workspace and managing workspace lifecycle events. The flow can be summarized as follows:
 
-1. A user requests a new workspace from the GitLab rails UI. 
+1. A user requests a new workspace from the GitLab Rails UI.
 2. Rails makes a gRPC API callout to KAS to register the new provisioning event request
 3. KAS writes the event to a queue (list) in Redis
 4. Once the agent is ready, it makes a callout to KAS to fetch work (GetWorkRequest)
@@ -105,14 +105,14 @@ sequenceDiagram
     KAS ->> Redis: Get messages from work queue
     KAS ->> Gitaly: Fetch Devfile from configuration
     KAS ->> KAS: Generate Kubernetes resources using Devfile library
-    KAS ->> Agentk: Get Work response containing Kubernetes manifests 
+    KAS ->> Agentk: Get Work response containing Kubernetes manifests
     Agentk ->> Kubernetes API: Create new namespace
     Agentk ->> Kubernetes API: Create secrets for TLS and Proxy
     Agentk ->> Kubernetes API: Actuate resources
     Agentk ->> Kubernetes API: Watch for resource changes
     Kubernetes API ->> Agentk: Workspace (deployment) is in a running state
     Agentk ->> KAS: updateWorkspaceStatus() API
-    KAS ->> GitLab: update workspace status API 
+    KAS ->> GitLab: update workspace status API
 ```
 
 ### Handling user authN/Z into the workspace
@@ -154,7 +154,7 @@ Coming soon!
 
 ## Product Development Group Affinity
 
-- [Editor](https://about.gitlab.com/handbook/product/categories/#editor-group)
+- [Editor](/handbook/product/categories/#editor-group)
 - [Remote Development](https://about.gitlab.com/direction/create/ide/remote_development/)
 
 

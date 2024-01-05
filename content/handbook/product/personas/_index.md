@@ -207,7 +207,7 @@ My job also includes being an active champion and evangelizng development teams 
 
 My manager has developer productivity and enablement as a strong focus and is very interested in how our efforts accelerate onboarding to our next generation application frameworks and also how we contribute to the long term productivity gains and business value generation of the teams that adopt our enablement.
 
-My job also includes influencing not just technology, but also processes and culture when they might inhibit adoption of modern application and devops practices and technology.
+My job also includes influencing not just technology, but also processes and culture when they might inhibit adoption of modern application and DevOps practices and technology.
 
 Developer enablement plays such a critical role in the efficient onboarding of developers that I generally have strong input on tooling selection as I screen it for the ability to allow us to extend it.
 
@@ -409,12 +409,12 @@ Dakota is a key IT leader who manages and leads several teams of developers supp
 
 ##### My Role
 
-I am responsibility for assessing potential business-critical vulnerabilities, performing code reviews to focus on security best practices, and verifying security fixes in the environment.  
+I am responsibility for assessing potential business-critical vulnerabilities, performing code reviews to focus on security best practices, and verifying security fixes in the environment.
 
 ##### Jobs to be done
 
 - When I set up new assessing vulnerabilities, I want to understand the potential threat a particular vulnerability represents to my organization's assets, so that I can prevent the threat from occurring.
-- When I am reviewing feature proposals or a code author's code, I want to ensure the new code will not introduce security vulnerabilities in my organization's assets, so that there are fewer business critical vulnerabilities.  
+- When I am reviewing feature proposals or a code author's code, I want to ensure the new code will not introduce security vulnerabilities in my organization's assets, so that there are fewer business critical vulnerabilities.
 - When I am reviewing security fixes, I want to verify there are no remaining threats to the organization's assets, so my organization can be confident about its security.
 
 ##### Motivations
@@ -450,7 +450,7 @@ I am responsibility for creating and maintaining security tools, monitoring prod
 ##### Jobs to be done
 
 - When my organization has a new security policy they must follow, I want to create security tools to ensure my organization's assets are compliant with the policies, so that I can prevent the threat from occurring.
-- When reviewing a code author's code, I want to ensure the new code will not introduce security vulnerabilities in my organization's assets, so that there are fewer business critical vulnerabilities.  
+- When reviewing a code author's code, I want to ensure the new code will not introduce security vulnerabilities in my organization's assets, so that there are fewer business critical vulnerabilities.
 - When assessing my organization's assets, I want to verify there are no uncompliant areas in the organization's assets.
 
 ##### Motivations

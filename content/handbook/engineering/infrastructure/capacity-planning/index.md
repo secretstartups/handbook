@@ -88,7 +88,7 @@ Capacity planning is a shared activity and dependent on input from many stakehol
 
 1. On a weekly basis, an engineer from the team reviews all open issues in the [Capacity Planning](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/issues) tracker following the [process described on the Scalability:Projections team page](/handbook/engineering/infrastructure/team/scalability/projections.html#triage-duties)
    1. Assign legitimate forecasts to the respective Service Owner to review and act on it (see below).
-   2. Select the most crucial saturation points to report in the [Gitlab SaaS Availability](/handbook/engineering/#saas-availability-weekly-standup) meeting based on the impact they would have when fully saturated and how difficult the mitigation might be. To indicate issues like this, we apply the `~"SaaS Weekly"` label when we do the weekly triage.
+   2. Select the most crucial saturation points to report in the [GitLab SaaS Availability](/handbook/engineering/#saas-availability-weekly-standup) meeting based on the impact they would have when fully saturated and how difficult the mitigation might be. To indicate issues like this, we apply the `~"SaaS Weekly"` label when we do the weekly triage.
    3. Review forecasts with inaccurate model fit or otherwise obscure predictions, and work on improving their quality. Those issues should be labeled with `~capacity-planning::tune model` and not get assigned to the Service Owner directly. Since these model tunings highly benefit from domain insight, the Scalability engineer involves Service Owners to get more information.
 
 ### Service Owners

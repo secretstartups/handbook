@@ -93,7 +93,7 @@ When integrating UnReview into GitLab, some components can be replaced as we pro
 
 ### Integration into GitLab
 
-The backend work for integration will be primarily handled by the [AI Assisted](https://about.gitlab.com/handbook/engineering/development/data-science/ai-assisted/) team with help from the infrastructure team.  The frontend work will be by both the AI Assisted team and the `Create::code review` team (PM [Kai Armstrong](https://about.gitlab.com/company/team/#phikai) and EM [André Luís](https://about.gitlab.com/company/team/#andr3)).
+The backend work for integration will be primarily handled by the [AI Assisted](/handbook/engineering/development/data-science/ai-assisted/) team with help from the infrastructure team.  The frontend work will be by both the AI Assisted team and the `Create::code review` team (PM [Kai Armstrong](/handbook/company/team/#phikai) and EM [André Luís](/handbook/company/team/#andr3)).
 
 * Milestone 1 [Reviewer/maintainer assignment architectural plan and PoC](https://gitlab.com/groups/gitlab-org/-/epics/5794)
 * Milestone 2 [Customer facing MVC of integration of unreview](https://gitlab.com/groups/gitlab-org/-/epics/6113)
@@ -228,7 +228,7 @@ end
 
 ### Overview:
 
-Milestone 3 focuses on further improving the UnReview functionality for Gitlab.com customers, as well as planning to provide the functionality to self-managed customers. At this milestone, GitLab.com customers will continue seeing and experiencing value from the functionality, including the ability to intelligently assign code reviewers to merge requests based on ML models. Primary feedback from GitLab.com customers and dogfooding at GitLab should be considered and integrated into the product.
+Milestone 3 focuses on further improving the UnReview functionality for GitLab.com customers, as well as planning to provide the functionality to self-managed customers. At this milestone, GitLab.com customers will continue seeing and experiencing value from the functionality, including the ability to intelligently assign code reviewers to merge requests based on ML models. Primary feedback from GitLab.com customers and dogfooding at GitLab should be considered and integrated into the product.
 
 To support GitLab.com customers:
 

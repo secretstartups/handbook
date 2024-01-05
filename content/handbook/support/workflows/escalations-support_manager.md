@@ -122,7 +122,7 @@ When daily updates are paused, continue to check every day for activity which wo
 
 ### Step 4: Evaluate Progress
 
-Determine if progress on the current tasks has slowed or stalled. If either of these is true, work with the Lead Support Engineer to [escalate further to a specialized development team](https://about.gitlab.com/handbook/engineering/development/processes/Infra-Dev-Escalation/) to ensure that work is progressing in the right direction.
+Determine if progress on the current tasks has slowed or stalled. If either of these is true, work with the Lead Support Engineer to [escalate further to a specialized development team](/handbook/engineering/development/processes/Infra-Dev-Escalation/) to ensure that work is progressing in the right direction.
 
 ### Step 5: Evaluate Stability and Monitor
 

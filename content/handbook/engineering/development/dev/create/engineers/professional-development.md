@@ -101,7 +101,7 @@ From converging on real-time critical events with SIRT, exploiting vulnerabiliti
 
 ### [CEO Shadow Program](/handbook/ceo/shadow/)
 
-The goal of the CEO Shadow Program is to give current and future [directors and senior leaders](/company/team/structure/) at GitLab an overview of all aspects of the [company](/company/).
+The goal of the CEO Shadow Program is to give current and future [directors and senior leaders](/handbook/company/team/structure/) at GitLab an overview of all aspects of the [company](/handbook/company/).
 
 ### [Chief of Staff to the CEO Shadow Program](/handbook/ceo/chief-of-staff-team/#chief-of-staff-shadow)
 
@@ -113,7 +113,7 @@ The Chief of Staff to the CEO may occasionally have a Chief of Staff to the CEO 
 - If you choose, you can reach out to a team member who is more senior than you and request for them to Mentor you.
 - Here is a [format](/handbook/engineering/career-development/mentoring/) for how to build a mentoring relationship
 ### Minorities in Tech Mentoring Program
-- This [program](/company/culture/inclusion/erg-minorities-in-tech/mentoring/) was offered last year for Underrepresented team members.
+- This [program](/handbook/company/culture/inclusion/erg-minorities-in-tech/mentoring/) was offered last year for Underrepresented team members.
 
 ## Career Changes
 

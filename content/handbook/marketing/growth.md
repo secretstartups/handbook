@@ -8,7 +8,7 @@ canonical_path: "/handbook/marketing/growth/"
 
 The GitLab Growth section is dedicated to making it easier for teams to find value and increased efficiency within the GitLab platform. We work across stages within the product experience to make the product as easy as possible to adopt and use.
 
- The Growth section lives within Marketing & Strategy to ensure we’re aligned in our go-to-market strategy and we’re as efficient as possible in finding the right prospects, convincing them to become product users, and assisting in converting them into paying customers. Since the work within the section occurs within the product experience our engineering and user experience counterparts are within the [Development division](https://about.gitlab.com/handbook/engineering/development/). This approach ensures that we have proper alignment on our priorities from a go-to-market and business perspective while ensuring our [development team](https://about.gitlab.com/handbook/engineering/development/growth/) is set up for success to operate within the development division.  
+ The Growth section lives within Marketing & Strategy to ensure we’re aligned in our go-to-market strategy and we’re as efficient as possible in finding the right prospects, convincing them to become product users, and assisting in converting them into paying customers. Since the work within the section occurs within the product experience our engineering and user experience counterparts are within the [Development division](/handbook/engineering/development/). This approach ensures that we have proper alignment on our priorities from a go-to-market and business perspective while ensuring our [development team](/handbook/engineering/development/growth/) is set up for success to operate within the development division.  
 
 ## Growth Section's Principles
 
@@ -90,5 +90,5 @@ Growth requires constant learning, and many compaines face similar challenges or
 - *SaaS Purchase Flow* - We consider the SaaS purchase flow (or "funnel") to begin with with the first screen of the checkout experience (the first page that displays the total cost of their GitLab subscription) and continues through the payment sequence with the last step of the flow being the successful first-time purchase of a GitLab paid tier. A potential customer can enter this experience directly within the SaaS app from the /billings page or on `about.gitlab.com/pricing`.
 
 ### Helpful Links
-*   [Engineering Growth Section](https://about.gitlab.com/handbook/engineering/development/growth/)
+*   [Engineering Growth Section](/handbook/engineering/development/growth/)
 *   [Growth Product Handbook](/handbook/product/growth/)

@@ -1,12 +1,5 @@
 ---
-
 title: Development Department Performance Indicators
 ---
 
-
-
-
-
-
-
-<%= performance_indicators('Development Department') %>
+{{% performance-indicators "development_department" %}}
