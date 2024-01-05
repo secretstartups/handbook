@@ -219,6 +219,14 @@ this general process, and why we need to use an extension to support it rather t
 This extension is in support of a [GitLab OKR](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/2085) for Create.
 We plan to continue iterating in this area, with the goal of eventually having GitLab directly support this workflow.
 
+### Remote Development Iteration Planning Report
+
+In addition to the Velocity Board chrome extension, there is a [Remote Development Iteration Planning Report](https://gitlab-org.gitlab.io/remote-development/remote-development-team-automation/remote-development-iteration-planning-report-latest.html) which is automatically published every 6 hours.
+
+This report shows the same auto-calculated iteration/velocity data, and uses the same logic as the Velocity Board Chrome Extension, but you don’t have to install the extension to see it.
+
+The pipeline to generate it can also be run [directly from CI](https://gitlab.com/gitlab-org/remote-development/remote-development-team-automation/-/pipelines).
+
 ### Process Phases
 
 ```mermaid
