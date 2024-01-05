@@ -109,7 +109,7 @@ flowchart LR
     TP --> SMP[Self-Managed Platform]
     click SMP "/handbook/engineering/infrastructure/test-platform/self-managed-platform-team/"
     TP --> TE[Test Engineering]
-    click TE "/handbook/engineering/infrastructure/test-platform/fulfillment-growth-qe-team/"
+    click TE "/handbook/engineering/infrastructure/test-platform/test-engineering-team/"
 ```
 
 ## Design
