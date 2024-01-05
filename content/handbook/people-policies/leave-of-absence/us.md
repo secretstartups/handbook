@@ -19,7 +19,6 @@ Below are the GitLab and US-specific leave policies available to US team members
 | Family Medical Leave Act<br>(FMLA) | I am having surgery<br>My family member* is seriously injured<br>I have recurring appointments for follow up care (chemotherapy, prenatal exams, etc)<br>I am bonding with my newborn or newly placed adopted child<br>I am caring for a family member seriously injured while on active duty | 1 year of service, AND<br>1250hrs worked in the <br>year immediately prior<br>to the start of leave |
 | California Family Rights Act (CFRA) | I am having surgery<br>My family member** is seriously injured<br>I have recurring appointments for follow up care (chemotherapy, etc)<br>I am bonding with my newborn, newly placed adopted or foster care child<br>I am caring for a family member seriously injured while on active duty | 1 year of service, AND<br>1250hrs worked in the <br>year immediately prior<br>to the start of leave |
 | Military Leave (USERRA) | I am being deployed<br>I am a reservist reporting for extended training (5 days or more) | Provided written or <br>verbal notice prior to<br>leave (if able) |
-| Unpaid Personal Leave | My situation doesn't really fit into any of the other leave program definitions | Fully performing in role<br><br>Manager approval |
 
 *FMLA Eligible Family Members: Spouse, Son, Daughter, Parent.
 
@@ -34,7 +33,6 @@ Below are the GitLab and US-specific leave policies available to US team members
 | [Family Medical Leave Act<br>(FMLA - Care for a Family Member)](#the-family-medical-leave-act-fmla) | Up to 12 weeks | Yes* |
 | [California Family Rights Act (CFRA)](https://www.edd.ca.gov/disability/faqs-fmla-cfra.htm) | Up to 12 weeks** | Yes |
 | Military Leave (USERRA) | Cumulative 5 years | Yes, up to 5 years* |
-| Unpaid Personal Leave | Up to 30 days<br>Requests in excess of 30 days require functional VP and group People Business Partner approval | No |
 
 *Except in certain circumstances
 
@@ -47,7 +45,6 @@ Below are the GitLab and US-specific leave policies available to US team members
 | [Family Medical Leave Act<br>(FMLA - Care for a Family Member)](#the-family-medical-leave-act-fmla) | 100% for up to 25 working days
 | California Family Rights Act<br>(CFRA) | First 8 weeks:  60% (SDI/PFL) + 6.66% (STD) + 33.3% paid by GitLab<br>8-12 weeks:  60% (SDI - if applicable) + 6.66% (STD) + 33.3% paid by GitLab<br>After 12 weeks:  66.67% LTD paid by Cigna monthly (if eligible) |
 | [Military Leave (USERRA)](#us-military-leave) | First 25 days:  paid 100% by GitLab<br>After 25 days:  Unpaid |
-| Unpaid Personal Leave | Unpaid |
 
 *If leave is taken continuously
 
