@@ -3,8 +3,6 @@ layout: handbook-page-toc
 title: "IT Program Management Office"
 ---
 
-{::options parse_block_html="true" /}
-
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
 ## On this page
