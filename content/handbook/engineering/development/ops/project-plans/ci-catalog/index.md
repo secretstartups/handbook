@@ -56,13 +56,30 @@ CI Catalog GA Epic: [https://gitlab.com/groups/gitlab-org/-/epics/12153](https:/
 
 #### Goals:
 
+- Improve the UX for the CI/CD catalog
+  - [https://gitlab.com/gitlab-org/gitlab/-/issues/432272](https://gitlab.com/gitlab-org/gitlab/-/issues/432272)
+- Implement additional telemetry
+  - [https://gitlab.com/gitlab-org/gitlab/-/issues/434333](https://gitlab.com/gitlab-org/gitlab/-/issues/434333)
+- Enforce semantic versioning
+  [https://gitlab.com/gitlab-org/gitlab/-/issues/427286](https://gitlab.com/gitlab-org/gitlab/-/issues/427286)
+- [Spike issue](https://gitlab.com/gitlab-org/gitlab/-/issues/434260) to distributed components for Self managed customers
+- Support CI interpolation with arrays
+  - [https://gitlab.com/gitlab-org/gitlab/-/issues/407176](https://gitlab.com/gitlab-org/gitlab/-/issues/407176)
+- Additional template -> component migration support work
+
 ### Milestone 16.10 (February 10, 2024 - March 8, 2024)
 
 #### Goals:
 
+- Support Self Manage components
+- Represent component name in the index page in [https://gitlab.com/gitlab-org/gitlab/-/issues/407176](https://gitlab.com/gitlab-org/gitlab/-/issues/407176)
+- Release process API
+- ThinkBIG takeaways
+
 ### Milestone 16.11 (March 9, 2024 - April 12, 2024)
 
 #### Goals:
+- Prioritized user feedback issues
 
 ### Milestone 17.0 (April 13, 2024 - May 10, 2024)
 
