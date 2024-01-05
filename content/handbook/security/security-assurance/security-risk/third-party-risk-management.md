@@ -177,7 +177,7 @@ Security Risk maintains multiple templated versions of the SIG questionnaire for
 - [SIG Lite Plus](https://docs.google.com/spreadsheets/d/1wvpY3oF8sG_UbnQzzlbXs85ahsfLiDQp/edit?usp=drive_link&ouid=103289635706160914358&rtpof=true&sd=true)
     - The SIG Lite Plus questionnaire is leveraged most commonly and should be utilized for all Red vendors and Orange SaaS systems. We refer to our SIG Lite as the "SIG Lite Plus" as it includes full scope SIG questionnaires for domains "E. Human Resource Security and V. Cloud Services". All other domains include standard SIG Lite content. Our objective here is to obtain additional information related to cloud security and the use of personal computers and employee background checks.
     - The following 20 domains are included within the scope of the SIG Lite Plus questionnaire:
-        - A. Enterprise Risk Management 
+        - A. Enterprise Risk Management
         - B. Nth Party Management
         - C. Information Assurance
         - D. Asset and Info Management
