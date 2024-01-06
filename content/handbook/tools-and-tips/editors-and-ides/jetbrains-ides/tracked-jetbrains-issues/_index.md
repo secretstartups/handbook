@@ -45,18 +45,6 @@ When an issue related to `noinspection` is resolved and included in a released v
 
 Keep these sections sorted alphabetically. They are headers so that they can be directly linked.
 
-### RUBY-31540
-
-- Title: Invalid RailsParamDefResolve warning when table name does not match class name
-- Link: <https://youtrack.jetbrains.com/issue/RUBY-31540/Invalid-RailsParamDefResolve-warning-when-table-name-does-not-match-class-name>
-- Notes:
-  - Requires `# noinspection RailsParamDefResolve` and other noinspection comments.
-  - This is likely due to our non-standard naming of the `Clusters::Agent` model, where
-    the table is named `cluster_agents` and must be overridden with
-    `self.table_name = 'cluster_agents'`. This also requires overrides and non-standard
-    handling in GraphQL mutations. We should consider renaming this table or model to match
-    standard rails naming conventions.
-
 ### RUBY-25400
 
 - Title: Programmatically defined constants always produce 'Unresolved reference' error
@@ -64,6 +52,8 @@ Keep these sections sorted alphabetically. They are headers so that they can be 
 - Notes:
   - Requires `# noinspection RubyResolve`
   - UPDATE 2023-07-10: Got a response from JetBrains here: <https://youtrack.jetbrains.com/issue/RUBY-25400/Programmatically-defined-constants-always-produce-Unresolved-reference-error#focus=Comments-27-7813280.0-0> stating limitations and potential workarounds.
+  - UPDATE 2023-01-06: This still happens in some cases, notably in the Declarative Policy DSL. Asked if we can get a specific issue to follow for this case:
+    https://youtrack.jetbrains.com/issue/RUBY-25400/Programmatically-defined-constants-always-produce-Unresolved-reference-error#focus=Comments-27-8744732.0-0
 
 ### RUBY-31542
 
@@ -72,6 +62,8 @@ Keep these sections sorted alphabetically. They are headers so that they can be 
 - Notes:
   - Requires `# noinspection SqlResolve` or sometimes maybe `# noinspection RubyResolve` (e.g. if it's indirectly accessed via Rspec).
   - UPDATE 2023-07-10: Got a response from JetBrains here: <https://youtrack.jetbrains.com/issue/RUBY-31542/Cannot-resolve-attributes-on-ActiveRecord-model-which-is-not-in-standard-location#focus=Comments-27-7813387.0-0> providing some information and requesting more info and follow-up
+  - UPDATE 2024-01-06: JetBrains marked the issue resolved, but we are still seeing errors which seem related. See comment here:
+    https://youtrack.jetbrains.com/issue/RUBY-31542/Cannot-resolve-attributes-on-ActiveRecord-model-which-is-not-in-standard-location#focus=Comments-27-8744712.0-0
 
 ### RUBY-31543
 
@@ -87,7 +79,24 @@ Keep these sections sorted alphabetically. They are headers so that they can be 
   Note that this is different than <#ruby-31544> (<https://youtrack.jetbrains.com/issue/RUBY-31544/Cannot-find-fixtures-defined-with-RSpecParameterizedTableSyntax-causes-RubyResolve-warning>), which appears to be fixed in the latest EAP.
   RUBY-32041 seems to be specific to using `Array` types with `RSpec::Parameterized::TableSyntax`.
 
+### RUBY-32287
+
+- Title: RubyResolve error when calling ActiveRecord dynamically defined attribute methods from within an `if` block on ActiveRecord lifecycle methods
+- Link: <https://youtrack.jetbrains.com/issue/RUBY-32287>
+
 ## Closed Issues
+
+### RUBY-31540
+
+- Title: Invalid RailsParamDefResolve warning when table name does not match class name
+- Link: <https://youtrack.jetbrains.com/issue/RUBY-31540/Invalid-RailsParamDefResolve-warning-when-table-name-does-not-match-class-name>
+- Notes:
+  - Requires `# noinspection RailsParamDefResolve` and other noinspection comments.
+  - This is likely due to our non-standard naming of the `Clusters::Agent` model, where
+    the table is named `cluster_agents` and must be overridden with
+    `self.table_name = 'cluster_agents'`. This also requires overrides and non-standard
+    handling in GraphQL mutations. We should consider renaming this table or model to match
+    standard rails naming conventions.
 
 ### RUBY-31544
 
