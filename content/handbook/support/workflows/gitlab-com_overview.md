@@ -18,7 +18,7 @@ The Support team should have a general understanding of [its architecture](/hand
 
 As well, Support team members should be aware that GitLab.com has certain customizations. These customization are applied through the [chef-repo](https://gitlab.com/gitlab-com/gl-infra/chef-repo). Details of GitLab.com customizatons can be found in [GitLab.com custom limits](/handbook/support/workflows/gitlab-com_customizations)
 
-Numerous Support team members including all SaaS focused ones also assist with incidents as [CMOC]({{< ref "cmoc_workflows" >}}).
+Numerous Support team members also assist with incidents as [CMOC]({{< ref "cmoc_workflows" >}}).
 
 ## Legal Context
 
