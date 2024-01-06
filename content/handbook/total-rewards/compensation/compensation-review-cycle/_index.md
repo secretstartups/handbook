@@ -69,7 +69,7 @@ If you are a manager with other managers reporting to you, you will see your ove
 
 #### Promotion
 
-Promotion budget will be included in the managers’ budget slate, but should only be utilized for FY25Q1 promotions. Managers will be responsible for entering the promotion and new role in the promotion tab, and should recommend a compensation increase aligned with our [promotion compensation guidelines](/handbook/people-group/promotions-transfers/#promotion-compensation-guidelines. The [promotion document](/handbook/people-group/promotions-transfers/#promotion-document) path should be included in the “Promotion Notes” section on the Promotion tab.
+Promotion budget will be included in the managers’ budget slate, but should only be utilized for FY25Q1 promotions. Managers will be responsible for entering the promotion and new role in the promotion tab, and should recommend a compensation increase aligned with our [promotion compensation guidelines](/handbook/people-group/promotions-transfers/#promotion-compensation-guidelines). The [promotion document](/handbook/people-group/promotions-transfers/#promotion-document) path should be included in the “Promotion Notes” section on the Promotion tab.
 
 
 #### Equity
@@ -161,11 +161,11 @@ Managers of team members receiving a market adjustment have received additional 
 
 Please review the handbook page on [promotions](/handbook/people-group/promotions-transfers) to understand the guidelines and philosophy when allocating an increase. Team members may still receive a performance increase if eligible for a promotion. Managers should review the final increase and salary based on the team member’s performance rating and new role when making the final recommendation.
 
-[Promotional RSU grants](/handbook/stock-options/#promotions) will be automatically calculated within the planning grid. Grants are subject to approval at the next grant approval date.
+[Promotional RSU grants](/handbook/stock-options/#promotions) will be automatically calculated within the planning grid. Managerts *are not* responsible for entering promotion RSU grants as part of entering promotions into Workday, they should only enter cash compensation increases. Grants are subject to approval at the next grant approval date.
 
 ### Equity
 
-The growth potential factor is used as the primary calibration tool for equity refresh grants. A meaningful grant can reinforce the long-term growth potential of a team member, as well as the value of shared ownership in the Company.
+The Growth Potential factor is used as the primary calibration tool for equity refresh grants. A meaningful grant can reinforce the long-term growth potential of a team member, as well as the value of shared ownership in the Company.
 
 Planning for equity grants will be done at the Director level and above.
 
