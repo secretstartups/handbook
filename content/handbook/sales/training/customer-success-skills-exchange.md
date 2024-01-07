@@ -26,26 +26,11 @@ The Customer Success Skills Exchnage is a bi-weekly webinar focused on topics fo
 
 To see what training is coming soon, view the [Customer Success Skills Exchange Issue Board](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/boards/1414538).
 
-**Q2 FY24 Sessions**
 
-| Date   | Topic    | Speakers                                       |
-|--------|---------------------------------------------------|------------------------------------|  
-| 2023-05-10 | GitLab and GCP Partnership Overview | Regnard Raquedan |
-| 2023-04-05 | GitLab Dedicated | Andrew Thomas and John Feeney|
-| 2023-06-07 | DAST Best Practices | Mirko Brandner |
-| 2023-06-21 | How to sell Remote Development | Eric Schurter |
-| 2023-07-05 | Google Suite Best Practices  | Lars Blockken |
-| 2023-07-19 | ModelOps Update | Taylor McCaslin |
 
-## Q2 Session Recordings
 
-| Date   | Topic and Recording  |
-| ------   | ------    |
-| 2023-07-05 | [Google Suite Best Practices](https://youtu.be/IwngC9NmcRs) |
-| 2023-06-21 | [How to sell Remote Development](https://youtu.be/fluP-s4mTW4) |
-| 2023-06-07 | [DAST Best Practices](https://youtu.be/1RuDoQPuDmU) |
-| 2023-05-10 | [GitLab and GCP Partnership Overview](https://youtu.be/qTWgNsc3Ets) |
-| 2023-04-05 | [GitLab Dedicated](https://youtu.be/lHDsTjRTDLg) |  
+
+ 
 
 ## Past Sessions
 
@@ -71,7 +56,7 @@ Older videos can be watched on [CS Skills Exchange Youtube playlist](https://www
 </details>
 
 
-**Note: To watch private videos on GitLab Unfiltered, watch [this 2-minute video](https://www.youtube.com/watch?v=dZtCuOf5aGk) and take a look at the handbok page on [watching private videos.](/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube)**
+**Note: To watch private videos on GitLab Unfiltered, watch [this 2-minute video](https://www.youtube.com/watch?v=dZtCuOf5aGk) and take a look at the handbook page on [watching private videos.](/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube)**
 
 
 ### Get an invite to the weekly session
@@ -85,26 +70,12 @@ You can [fill out an access request](/handbook/business-technology/team-member-e
 
 There are a few places to see previous CS Skills Exchange Sessions:
 
+- [CS Skills Exchange Highspot Page] (https://gitlab.highspot.com/items/6554f9b2501316c929028227)
 - [CS Skills Exchange Youtube playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KorkxIFgZGnzzxjZRCGROt_) on GitLab Unfiltered YouTube
 - [CS Skills Exchange Q&A Doc](https://docs.google.com/document/d/1kchnm55N8zx8tBBsxilWadGqBndhvb5d4eG9LsSS6DA/edit?usp=sharing)
 
 ### To request new Customer Success Skills Exchange session
-- Create an issue using the [CS Skills Exchange Issue Template](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/new?issuable_template=Request_New_CS_Skills_Sessions)
-
-### Scheduling trainings
-- Sessions are selected from the backlog, or a new issue is created, and moved to the `status:plan` column.
-- Assign the issue to the speaker and add `Moderator: <name>` to the issue description.
-  - The speaker will then research and generate the conent for the training.
-- Once the speaker is ready, a moderator and date should be chosen for the training.
-  - Assign the moderator (in addition to the speaker) to the issue and add `Moderator: <name>` to the issue description.
-  - Add a due date to the issue.
-  - Move the issue to the `status:scheduled` column.
-  - Manually drag the issue to order issues in the column by date.
-
-
-#### Recording
-
-For more information about Recording and Public/ Private YouTube videos, check out the [Sales Enablement Sessions](/handbook/sales/training/sales-enablement-sessions/#recording) page.
+- Comment on the current quarter planning issue which you can find on the [Customer Success Skills Exchange Issue Board](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/boards/1414538) to connect with our team 
 
 
 ### Speaker Responsibilities
@@ -118,14 +89,14 @@ For more information about Recording and Public/ Private YouTube videos, check o
 
 #### Overall CS Skills Exchange Management
 
-As the moderator for the CS Skills Exchnage, you are responsible for identifying topics, speakers, and dates for the quarter.
+As the moderator for the CS Skills Exchange, you are responsible for identifying topics, speakers, and dates for the quarter.
 
 #### Webinar Moderator Responsibilities
 
 
 **Prior to Webinar**
 
-- One week before the webinar, confirm with the speaker that they are prepared and available for the session. This can help eliminate the need for last minute cancelations.
+- One week before the webinar, confirm with the speaker that they are prepared and available for the session. This can help eliminate the need for last minute cancellations.
 - Day before webinar, send an announcement in the #customer-success Slack Channel.
 
 
@@ -138,7 +109,6 @@ The moderator for each webinar should serve as the host of the call and overall 
 - Promptly welcome everyone to the call and remind them that the call will be recorded. Specifically mention how to talk about sensitive info on every intro. Be sure to start the meeting as close to the start time as possible.
 - Record the call.
 - Monitor the time.
-
 
 **After the Webinar**
 
