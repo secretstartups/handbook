@@ -5,18 +5,29 @@ title: Elevate Applied
 
 # Elevate Applied
 
-Leaders should feel supported and be given excellent resources to enable their practice, application, and integration of concepts taught in [Elevate](https://handbook.gitlab.com/handbook/people-group/learning-and-development/elevate/) to their day to day work at GitLab.
+**Apply what you learned in Elevate to build your high performing team.**
+
+Leaders at GitLab should feel supported and be given excellent resources to enable their practice, application, and integration of concepts taught in [Elevate](https://handbook.gitlab.com/handbook/people-group/learning-and-development/elevate/) to their day to day work at GitLab.
 
 For this reason, we're launching `Elevate Applied`.
 
-`Elevate Applied` is a continuous learning journey for Managers and Senior Managers at GitLab meant to strengthen leadership competencies and build connections between managers to build high performing teams.
+If you've had thoughts or questions like:
+
+1. `I could really use time to connect with other managers at GitLab and learn from their experience.`
+1. `The GROW model sounds great - but I can't find ways to actually apply it.`
+1. `I know how to give feedback to my team, but I'm not sure when to start.`
+1. `How can I build stronger performance on my team?`
+
+... then `Elevate Applied` is for you.
+
+`Elevate Applied` is an ongoing resource for Managers and Senior Managers at GitLab meant to strengthen leadership competencies, enable leaders to take action, and build connections between managers. **It's a combined community and toolkit to help you build high performing teams.**
 
 Beginning in January 2024, the Talent Development team will pilot this program with the ~130 managers who earned their Elevate certification in 2023. We'll use data and feedback from their experience to inform and shape the future of managers training at GitLab. 
 
 
 ## Overview
 
-All managers who earned their Elevate certification in 2023 will be invited to participate. The pilot will run for 4 months, starting in January and ending in April. 
+All managers who earned their Elevate certification in 2023 will be invited to participate. The pilot will run for 4 months, starting in January and ending in April. Participation is optional.
 
 Each month, managers can expect to be served a new resource or learning opportunity. Some examples include:
 
@@ -24,9 +35,8 @@ Each month, managers can expect to be served a new resource or learning opportun
 1. Self-paced Level Up courses
 1. Templates and tools to assess and implement Elevate concepts and strategies
 1. Organized calls to meet and discuss common challenges with other managers
+1. Speaker sessions with internal and external experts
 
-
-All work is optional.
 
 ## Benefits
 
