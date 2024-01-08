@@ -27,6 +27,7 @@ sudo gitlab-ctl tail nginx
 ```
 
 You should now see the most recent entries of log files specific to the NGINX web server.
+
 1. Finally, you can drill down to an individual log file.
 
 ```bash
@@ -36,6 +37,7 @@ sudo gitlab-ctl tail nginx/gitlab_access.log
 ### Task B. Set minimum log levels
 
 Admins are able to set minimum log levels for some GitLab services. Note that only some services such as NGINX and Gitaly let admins change the minimum logging level, and even then only for some log files. The `log_level` for other services, such as Sidekiq and Redis, cannot be changed.
+
 1. Check the current minimum log levels for GitLab services.
 
 ```bash
@@ -43,6 +45,7 @@ sudo grep -n -E 'log_level|logging_level' /etc/gitlab/gitlab.rb
 ```
 
 1. Note the line number for `praefect['logging_level']`.
+
 1. Change the minimum log level for Praefect, which is the traffic manager for Gitaly. Replace "1234" with the appropriate line number from the `grep` output in the previous step.
 
 ```bash
@@ -51,6 +54,7 @@ sudo sed -i '1234s/# //' /etc/gitlab/gitlab.rb
 ```
 
 1. Re-run the `grep` command from Step 1 to verify the line was modified as intended.
+
 1. Reconfigure to apply the changes.
 
 ```bash
@@ -62,6 +66,7 @@ sudo gitlab-ctl reconfigure
 ### Task C. Manage log retention
 
 GitLab uses **logrotate** to manage retention of all logs except those managed by the **runit** service manager (runit uses a separate service logging daemon called **svlogd**). Log retention can be configured in `/etc/gitlab/gitlab.rb`.
+
 1. Examine default logrotate retention settings.
 
 ```bash
@@ -81,6 +86,7 @@ sudo ls /var/log/gitlab/puma
 ```
 
 Note the gzipped archive files for Puma's stdout and stderr logs from previous days.
+
 1. Change logrotate's behavior to rotate log files weekly. As before, modify the line `sed` edits accordingly using the line number from the grep output.
 
 ```bash
@@ -110,6 +116,7 @@ sudo gitlab-ctl reconfigure
 ### Task D. Change log formatting
 
 Many logs are JSON formatted by default. Admins may wish to configure text formatting depending on the log ingestion system used, or for readability.
+
 1. Check the current log formats for GitLab services.
 
 ```bash
@@ -117,6 +124,7 @@ sudo grep -n '_format' /etc/gitlab/gitlab.rb
 ```
 
 1. Run `sudo gitlab-ctl tail gitaly/current` to see the current JSON output for Gitaly logging.
+
 1. Change Gitaly's log format from JSON to text formatting. As before, modify the line `sed` edits accordingly using the line number from the grep output.
 
 ```bash
@@ -125,6 +133,7 @@ sudo sed -i '1234s/#//' /etc/gitlab/gitlab.rb
 ```
 
 1. Re-run the `grep` command from Step 1 to verify the line was modified as intended. The line should now read `gitaly['logging_format'] = "text"`.
+
 1. Reconfigure to apply the change.
 
 ```bash
