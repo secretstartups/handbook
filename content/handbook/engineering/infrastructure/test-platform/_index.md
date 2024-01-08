@@ -22,9 +22,17 @@ description: "Test Platform Sub-Department"
 
 ---
 
-## FY23 Direction
+## Vision
 
-In FY23 we will be focused on innovative test architecture, efficiency, and customer results while delivering impact to the company's bottomline via alignment to the [top cross-functional initiatives](/handbook/company/team/structure/working-groups/#top-cross-functional-initiatives). Key directional highlights: broaden our lead in ensuring self-managed excellence, improve deployment confidence, drive visibility and actionability of test results, and expand our Quality Architecture focus. In FY23 we anticipate continued momentum on enabling development and deployment at scale and it's more important than ever for us to deliver results.
+Our vision is to be world-class Test Platform sub-department that enables successful development and deployment of GitLab software applications with improvised workflow efficiency, reliability, and productivity
+  
+1. Test Tooling: Build tools and frameworks that enable GitLab Engineering & Product teams to ship high-quality & reliable products to our customers efficiently. 
+1. Reliable platform: This includes monitoring the platform for performance issues, implementing security measures, and conducting capacity planning to ensure that the platform can handle the expected load.
+1. Technical Support and Expertise: By providing technical support and expertise to development teams, test platform teams can help to solve complex technical challenges and ensure that applications are built with utmost quality.
+
+## FY24 Direction
+
+We will continue to be focused on innovative test architecture, efficiency, and customer results while delivering impact to the company's bottomline via alignment to the [top cross-functional initiatives](/handbook/company/team/structure/working-groups/#top-cross-functional-initiatives). Key directional highlights: broaden our lead in ensuring self-managed excellence, improve deployment confidence, drive visibility and actionability of test results, and expand our Quality Architecture focus. In FY23 we anticipate continued momentum on enabling development and deployment at scale and it's more important than ever for us to deliver results.
 
 ### Self-Managed Excellence
 
