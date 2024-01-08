@@ -37,41 +37,39 @@ sudo gitlab-ctl start nginx
 
 ### Task B. Change visibility settings
 
-1. If needed, log into GitLab in your web browser. Use your `root` username and password from Lab 1.
+1. Log into your GitLab web instance with your `root` user and password from Lab 1.
 
-2. In the top left corner of the main screen, under **Menu**, click **Admin**.
+1. In the bottom left corner of the main screen in the sidebar, click **Admin Area**.
 
-3. You will first adjust some default project visibility settings. Scroll to the bottom of the left hand navigation pane and click **Settings** > **General**.
+1. You will first adjust default project visibility settings. Scroll to the bottom of the left hand navigation pane and click **Settings** > **General**. 
 
-4. Under **Visibility and access controls**, click **Expand**.
+1. Under **Visibility and access controls**, click **Expand**.
 
-5. Change the Default project visibility to **Internal** by clicking the associated radio button. The Internal visibility setting allows only authenticated users to see any projects hosted in GitLab.
+1. Change the `Default project visibility` to **Internal** by clicking the associated radio button. 
 
-6. Repeat step 5 to change the Default group visibility to **Internal**.
+1. Change the `Default group visibility` to **Internal** by clicking on the associated radio button.  
 
 ### Task C. Locate sign-in settings
 
-This section is intended to show you where multi-factor authentication can be configured. For purposes of this lab, you won't actually adjust any settings.
+1. The second setting we will update are Sign-In restrictions. Still under **Settings** > **General**, click **Collapse** next to **Visibility and access controls**.  
 
-1. Still under **Settings** > **General**, click **Collapse** next to **Visibility and access controls**.
+1. Under **Sign-in restrictions**, click **Expand**. 
 
-2. Under **Sign-in restrictions**, click **Expand**.
+1. Under **Two- factor authentication**, click the checkbox next to **Enforce two-factor authentication**.  
 
-3. Under **Two-factor authentication**, note the checkbox next to **Enforce two-factor authentication**.
-
-4. Click **Collapse** next to **Sign-in restrictions** to close the menu.
+1. Click **Collapse** next to **Sign-in restrictions** to close the menu.
 
 ### Task D. Update the header logo
 
 You can personalize your GitLab instance by uploading a header logo.
 
-1. On the left sidebar, select **Appearance**.
+1. On the left hand side panel, click **Appearance**. 
 
-2. Under the **Navigation Bar section**, click **Choose File**.
+1. Under the **Navigation Bar section**, click **Choose File**.  
 
-3. Select an appropriate picture from your computer to serve as a header logo, and click **Open**.
+1. Select an appropriate picture from your computer to serve as a header logo, and click **Open**.  
 
-4. After updating the appearance settings, you should see the GitLab logo in the top bar replaced with the picture you uploaded.
+1. Click the **Update appeareance settings** to save the changes. You should see your picture in the top left corner of the screen.
 
 ## Lab Guide Complete
 

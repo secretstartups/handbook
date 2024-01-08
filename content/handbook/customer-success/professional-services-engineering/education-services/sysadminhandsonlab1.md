@@ -20,12 +20,20 @@ Before you get started, complete the following:
 1. Use your assigned IP address and SSH key file to log in to the server that will host your GitLab Omnibus install:
 
 ```bash
-ssh -i YOUR_ASSIGNED_SSH_KEYFILE ec2-user@YOUR_ASSIGNED_PUBLIC_IP
+ssh -i <keyfile_name> ec2-user@<vm_ip_address>
 ```
 
 1. Press <kbd>Enter</kbd>.
 
 1. If your system displays an authentication warning, type `yes` and press <kbd>Enter</kbd>.
+
+1. If you encounter an error warning about an unprotected private key file, use the commmand below to set the permissions of the file:
+
+```bash
+chmod 400 <keyfile_name>
+```
+
+After you run the command, rerun the command in step 1 of Task A.
 
 ### Task B. Install necessary dependencies
 
