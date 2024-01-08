@@ -19,10 +19,17 @@ Unlike many of our other dashboards, all the metrics on TDP are chorted to the T
 
 ## Dashboard Tabs
 
-### Overview 
-### Campaign Drill Down
-### Regional Campaign Drill Down
-### Bizible Channel Drill Down
+
+### Drill Down Tabs
+
+The Campaign, Regional, and Bizible Drill Down Tabs show point-in-time campaign information. These three tabs show the same information by different cuts.
+
+Each tab has a different Tableau Hierarchy in the table view, the hierarchy can be expand to show more details. Below is a list of a the hierarchies with thier fields name.
+
+- Campaign - Bizible Integrated Campaign > Bizible Marketing Channel > Bizible Marketing Channel Path > UTM Contnet
+- Regional - Account Demographics Geo > Sales Segmenet > Region > Area
+- Bizible  - Bizible Channel > Bizible Channel Path > Campaign
+
 ### By Single Field
 
 The Overview section shows an overview of leads and contacts for a selected time period. This section deduplicates leads and contacts, counting each person only one time regardless of the number of campaigns they belong to. 
