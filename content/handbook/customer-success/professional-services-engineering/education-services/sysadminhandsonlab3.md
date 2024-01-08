@@ -5,8 +5,7 @@ description: "This hands-on lab guide is designed to walk you through the lab ex
 
 # GitLab System Administration Hands-on Guide: Lab 3
 
-
-## LAB 3- CONFIGURE GITLAB RUNNERS
+## Lab 3- Configure GitLab Runners
 
 ### Task A. Install the gitlab-runner package
 

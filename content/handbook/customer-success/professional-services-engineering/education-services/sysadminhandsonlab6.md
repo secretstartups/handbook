@@ -5,10 +5,9 @@ description: "This hands-on lab guide is designed to walk you through the lab ex
 
 # GitLab System Administration Hands-on Guide: Lab 6
 
+## Lab 6 - Manage GitLab Logs
 
-## LAB 6- MANAGE GITLAB LOGS
-
-### A. View active logs
+### Task A. View active logs
 
 The `gitlab-ctl` command allows you to tail all GitLab log files as well as filter by GitLab service.
 
@@ -20,6 +19,7 @@ sudo gitlab-ctl tail
 
 Amidst all the output, you should notice the command shows the full file path to each log. Most GitLab logs live in `/var/log/gitlab`.
 (Note: You can type `CTRL-C` to exit the `tail` command.)
+
 1. You can also view GitLab logs by service. Run the following command to view only NGINX logs (i.e. log files in `/var/log/gitlab/nginx`).
 
 ```bash
@@ -33,7 +33,7 @@ You should now see the most recent entries of log files specific to the NGINX we
 sudo gitlab-ctl tail nginx/gitlab_access.log
 ```
 
-### B. Set minimum log levels
+### Task B. Set minimum log levels
 
 Admins are able to set minimum log levels for some GitLab services. Note that only some services such as NGINX and Gitaly let admins change the minimum logging level, and even then only for some log files. The `log_level` for other services, such as Sidekiq and Redis, cannot be changed.
 1. Check the current minimum log levels for GitLab services.
@@ -59,7 +59,7 @@ sudo gitlab-ctl reconfigure
 
 (Note: since we're using single node Omnibus, Praefect is not actually in use as a service. Praefect is only enabled if using Gitaly cluster.)
 
-### C. Manage log retention
+### Task C. Manage log retention
 
 GitLab uses **logrotate** to manage retention of all logs except those managed by the **runit** service manager (runit uses a separate service logging daemon called **svlogd**). Log retention can be configured in `/etc/gitlab/gitlab.rb`.
 1. Examine default logrotate retention settings.
@@ -107,7 +107,7 @@ sudo grep -n 'logrotate' /etc/gitlab/gitlab.rb
 sudo gitlab-ctl reconfigure
 ```
 
-### D. Change log formatting
+### Task D. Change log formatting
 
 Many logs are JSON formatted by default. Admins may wish to configure text formatting depending on the log ingestion system used, or for readability.
 1. Check the current log formats for GitLab services.
@@ -139,6 +139,6 @@ sudo gitlab-ctl tail gitaly/current
 
 You should see the log output is now text formatted instead of JSON formatted.
 
-### SUGGESTIONS?
+### Suggestions?
 
 If you’d like to suggest changes to the GitLab System Admin Basics Hands-on Guide, please submit them via merge request.

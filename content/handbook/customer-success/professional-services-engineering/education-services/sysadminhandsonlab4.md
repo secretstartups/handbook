@@ -6,9 +6,9 @@ description: "This hands-on lab guide is designed to walk you through the lab ex
 # GitLab System Administration Hands-on Guide: Lab 4
 
 
-## LAB 4- BACKUP AND RESTORE GITLAB
+## LAB 4- Backup and Restore GitLab
 
-### A. Configure backup settings
+### Task A. Configure backup settings
 
 1. Open an SSH session on your GitLab instance server.
 2. Search for the location of backup settings in gitlab.rb.
@@ -37,7 +37,7 @@ description: "This hands-on lab guide is designed to walk you through the lab ex
    sudo gitlab-ctl reconfigure
     ```
 
-### B. Backup the GitLab instance
+### Task B. Backup the GitLab instance
 
 1. Take a full backup of the GitLab instance.
 
@@ -52,7 +52,7 @@ description: "This hands-on lab guide is designed to walk you through the lab ex
    sudo tar -tvf /tmp/backups/BACKUP_FILENAME
     ```
 
-### C. Make some changes to GitLab settings
+### Task C. Make some changes to GitLab settings
 
 1. Sign into your GitLab instance with a web browser and select **Menu > Admin**.
 2. In the left sidebar, select **Settings** > **General**.
@@ -60,7 +60,7 @@ description: "This hands-on lab guide is designed to walk you through the lab ex
 4. Select **Save changes**.
 5. Refresh the page and verify your changes were applied.
 
-### D. Restore from backup
+### Task D. Restore from backup
 
 1. Return to the SSH session on your GitLab instance server.
 2. Move your backup file to the location GitLab requires for performing the restore.
@@ -104,7 +104,7 @@ description: "This hands-on lab guide is designed to walk you through the lab ex
 8. Wait up to 5 minutes before refreshing GitLab in your web browser. Verify that the Account and Limit settings you changed revert back to the defaults (i.e. when the backup was taken).
 
 
-### SUGGESTIONS?
+### Suggestions?
 
 If you’d like to suggest changes to the GitLab System Admin Basics Hands-on Guide, please submit them via merge request.
 
