@@ -6,6 +6,10 @@ description: "This hands-on lab guide is designed to walk you through the lab ex
 # GitLab System Administration Hands-on Guide: Lab 8
 
 
+> Estimated time to complete: 30 minutes
+
+> **You are viewing the latest Version 16.x instructions.** You are using v16 if your group URL is `https://gitlab.com/gitlab-learn-labs/...`. If your group URL starts with `https://ilt.gitlabtraining.cloud` or `https://spt.gitlabtraining.cloud`, please use the [Version 15.x instructions](https://gitlab.com/gitlab-com/content-sites/handbook/-/blob/d14ee71aeac2054c72ce96e8b35ba2511f86a7ca/content/handbook/customer-success/professional-services-engineering/education-services/sysadminhandson8.md).
+
 ## Lab 8 - Troubleshoot GitLab
 
 For this lab exercise, refer to GitLab's [application architecture](https://docs.gitlab.com/ee/development/architecture.html#simplified-component-overview) to review GitLab's major services and interactions.

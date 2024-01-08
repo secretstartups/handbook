@@ -7,6 +7,10 @@ description: "This hands-on lab guide is designed to walk you through the lab ex
 
 ## Lab 3 - Configure GitLab Runners
 
+> Estimated time to complete: 40 minutes
+
+> **You are viewing the latest Version 16.x instructions.** You are using v16 if your group URL is `https://gitlab.com/gitlab-learn-labs/...`. If your group URL starts with `https://ilt.gitlabtraining.cloud` or `https://spt.gitlabtraining.cloud`, please use the [Version 15.x instructions](https://gitlab.com/gitlab-com/content-sites/handbook/-/blob/d14ee71aeac2054c72ce96e8b35ba2511f86a7ca/content/handbook/customer-success/professional-services-engineering/education-services/sysadminhandson3.md).
+
 ### Task A. Install the gitlab-runner package
 
 1. Use your assigned IP address and SSH key file to log into your **GitLab Runner** server (*not* your Omnibus server).
