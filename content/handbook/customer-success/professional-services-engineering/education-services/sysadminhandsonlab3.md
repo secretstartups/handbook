@@ -11,9 +11,9 @@ description: "This hands-on lab guide is designed to walk you through the lab ex
 
 1. Use your assigned IP address and SSH key file to log into your **GitLab Runner** server (*not* your Omnibus server).
 
-     ```
-   ssh -i YOUR_ASSIGNED_SSH_KEYFILE ec2-user@YOUR_RUNNER_SERVER_PUBLIC_IP
-     ```
+```bash
+ssh -i YOUR_ASSIGNED_SSH_KEYFILE ec2-user@YOUR_RUNNER_SERVER_PUBLIC_IP
+```
 
      Press <kbd>Enter</kbd>
 
@@ -21,21 +21,21 @@ description: "This hands-on lab guide is designed to walk you through the lab ex
 
 3. Add the GitLab Runner installation repository.
 
-     ```
-   curl -L "https://packages.gitlab.com/install/repositories/runner/gitlab-runner/script.rpm.sh" | sudo bash
-     ```
+```bash
+curl -L "https://packages.gitlab.com/install/repositories/runner/gitlab-runner/script.rpm.sh" | sudo bash
+```
 
 4. Install the GitLab Runner agent.
 
-     ```
-   sudo dnf install -y gitlab-runner
-     ```
+```bash
+sudo dnf install -y gitlab-runner
+```
 
 5. Once the install completes, check that the service is running.
 
-     ```
-   sudo gitlab-runner status
-     ```
+```bash
+sudo gitlab-runner status
+```
 
 
 ### Task B. Register a runner with GitLab
@@ -48,9 +48,9 @@ description: "This hands-on lab guide is designed to walk you through the lab ex
 
 4. Return to your SSH session on your GitLab Runner server. Run the following command to begin the registration process.
 
-     ```
-   sudo gitlab-runner register
-     ```
+```bash
+sudo gitlab-runner register
+```
 
 5. Enter `http://GITLAB_INSTANCE_PUBLIC_IP` as the GitLab instance URL. Press <kbd>Enter</kbd> after completing this and the remaining prompts.
 
@@ -71,11 +71,17 @@ description: "This hands-on lab guide is designed to walk you through the lab ex
 ### Task C. Test the runner with a CI/CD pipeline
 
 1. From GitLab in your web browser, select **Menu > Projects > Your projects**.
+
 2. Select **New project**.
+
 3. Select **Create blank project**.
+
 4. Enter `CICD Test` as the project name. Leave all other settings as they are and click **Create project**.
+
 5. In the middle of the project landing page, under the project title, select the **+** dropdown. Select **New file**.
+
 6. On the new file page, enter `.gitlab-ci.yml` as the file name.
+
 7. Paste the following code into the body of the file.
 
 ```yml

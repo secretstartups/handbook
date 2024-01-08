@@ -52,6 +52,7 @@ sudo gitlab-ctl start nginx
 ### Task C. Locate sign-in settings
 
 This section is intended to show you where multi-factor authentication can be configured. For purposes of this lab, you won't actually adjust any settings.
+
 1. Still under **Settings** > **General**, click **Collapse** next to **Visibility and access controls**.
 
 2. Under **Sign-in restrictions**, click **Expand**.
@@ -63,6 +64,7 @@ This section is intended to show you where multi-factor authentication can be co
 ### Task D. Update the header logo
 
 You can personalize your GitLab instance by uploading a header logo.
+
 1. On the left sidebar, select **Appearance**.
 
 2. Under the **Navigation Bar section**, click **Choose File**.

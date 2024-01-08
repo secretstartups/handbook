@@ -56,7 +56,7 @@ curl https://packages.gitlab.com/install/repositories/gitlab/gitlab-ee/script.rp
 sudo EXTERNAL_URL="YOUR_ASSIGNED_PUBLIC_IP" dnf install -y gitlab-ee
 ```
 
-> Note: This step may take a few minutes to complete.
+> This step may take a few minutes to complete.
 
 ### Task D. Log in and reset password
 
