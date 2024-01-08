@@ -52,7 +52,6 @@ The Field Security team is tasked with providing high levels of security assuran
 
 
 
-
 {{% note %}}
 The areas above related to each team members primary responsibility. However, each team member is cross trained in all processes and provide back up to each other if applicable.
 {{% /note %}}
