@@ -61,3 +61,16 @@ You can ping the Support Manager oncall in slack with `@support-manager-oncall`.
 ## Handover
 
 Follow the [End of Shift Handover Procedure](/handbook/support/workflows/cmoc_workflows/#end-of-shift-handover-procedure) from the CMOC workflows. Make the ingress GDCMOC aware of any issues, slack threads or tickets they should CC themselves on. Assign the Zendesk ticket used for communication to the next CMOC.
+
+## Emergency maintenance
+
+A security vulnerability fix might result in emergency maintenance for GitLab Dedicated
+environments.
+
+NOTE:
+"Emergency maintenance" refers exclusively to security-related maintenance. Maintenance that
+happens outside of the weekly scheduled maintenance window should be referred to as "out-of-band
+maintenance"
+
+In such cases, the GitLab Dedicated CMOC will be called upon to send initial notification to
+customers using the `TO_BE_CREATED` macro.
