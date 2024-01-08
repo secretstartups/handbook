@@ -276,8 +276,8 @@ To help structure your usage of the above, you can follow the steps below during
 | Resource | Purpose |   
 | :----: | :-----: | 
 |  SSoT Sales > Sales Development Territory Alignment Sheet  | Can be found in Manager Home Base sheet. Single source of truth document for Sales Development to AE/SAE/Territory Alignment | 
-|  [Territory Change Request Issue Board](https://gitlab.com/gitlab-com/marketing/sales-development/-/boards/5569691)  Use the terriotory Change Request Issue Board and the BDR_Territory_Change Sales Development Issue Tempplate in order to request a territory change for your rep.  |
-|  [Sales Dev Internal Transition issue template](https://gitlab.com/gitlab-com/marketing/sdr/-/issues/new?issuable_template=sdr_internal_team_change) | Use this issue template when you have a Sales Dev team member is moving from one team within our SDR org team to another. 
+|  [Territory Change Request Issue Board](https://gitlab.com/gitlab-com/marketing/sales-development/-/boards/5569691)  Use the territory Change Request Issue Board and the BDR_Territory_Change Sales Development Issue Template in order to request a territory change for your rep.  |
+|  [Sales Dev Internal Transition issue template](https://gitlab.com/gitlab-com/marketing/sdr/-/issues/new?issuable_template=sdr_internal_team_change) | Use this issue template when you have a Sales Dev team member moving from one team within our SDR org to another. 
 |  [BDR Territory Change Request issue template](https://gitlab.com/gitlab-com/marketing/sales-development/-/blob/main/.gitlab/issue_templates/BDR_Territory_Change.md) | Use this issue template when you would like to request territory changes for your BDRs. |
 
 
