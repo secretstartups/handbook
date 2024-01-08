@@ -7,6 +7,8 @@ description: "This hands-on lab guide is designed to walk you through the lab ex
 
 ## Lab 5 - Implement Sign-Up Restrictions
 
+This lab will help you improve your instance's security by enabling the option to send a confirmation email on signup, and ensure that signups are only allowed from your company's domain. 
+
 1. Log into your GitLab web instance with your `root` user and password from Lab 1.
 
 1. In the bottom left corner of the main screen in the sidebar, click **Admin Area**.
