@@ -30,6 +30,8 @@ Please check out this [page](https://help.safebase.io/en/articles/6117207-knowle
 
 When you have Knowledge Base viewer access, you will also be able to access the Q&As through **Slack!** Just type **/kb-search *security keywords*** into any Slack channel to view potential answers. A link is available to view the entries in SafeBase as well.
 
+Of course, everyone can always query the Knowledge Base regardless of their access level by browsing it directly from the Trust Center.
+
 ## Maintenance and Improvements
 
 The knowledge base is a living library that is continuously being updated and expanded. As Field Security completes questionnaires, the the knowledge base libraries are updated with current and accurate answers. Field Security updates the structure and tagging within the knowledge base in an ad-hoc manner to ensure The knowledge base remains an easy to navigate and effective self-service tool for all team members.
