@@ -337,14 +337,18 @@ The responsibility of the DRI is simply to collect information and to ensure the
 
 | Issue creation (auto) | DRI |
 |---   | ---       |
-| 2023-11-20 | Kushal Pandya |
-| 2023-11-27 | Brandon Labuschagne |
-| 2023-12-04 | Donald Cook |
-| 2023-12-11 | John Hope |
-| 2023-12-18 | Donald Cook |
-| 2023-12-25 | John Hope |
-| 2024-01-01 | Kushal Pandya |
-| 2024-01-08 | John Hope |
+| 2024-01-08 | Kushal Pandya |
+| 2024-01-15 | John Hope |
+| 2024-01-22 | Brandon Labuschagne |
+| 2024-01-29 | Donald Cook |
+| 2024-02-05 | Kushal Pandya |
+| 2024-02-12 | John Hope |
+| 2024-02-19 | Brandon Labuschagne |
+| 2024-02-26 | Donald Cook |
+| 2024-03-04 | Kushal Pandya |
+| 2024-03-11 | John Hope |
+| 2024-03-18 | Brandon Labuschagne |
+| 2024-03-25 | Donald Cook |
 
 #### Links
 
