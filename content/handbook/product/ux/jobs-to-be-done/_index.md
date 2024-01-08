@@ -112,7 +112,7 @@ These aspects can vary widely and provide insights into the job performer's emot
 
 ### **Circumstances:** What are the factors or conditions that make a difference in how the job gets done?
 
-Circumstances are the factors that influence how the job gets done. They often encompass time, manner, or place, among other characteristics. Circumstances are introduced with "If" and indicate a range of options using "vs." when applicable. For our real estate example, circumstances might include:
+Circumstances are the factors that influence how the job gets done. They often encompass time, manner, or place, among other characteristics. Circumstances are introduced with the word "if", indicate a range of options, and use "versus/vs." when applicable. For our real estate example, circumstances might include:
 
 - If the job performer is single vs. married
 - If the job performer has young children or not
