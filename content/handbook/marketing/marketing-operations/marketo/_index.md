@@ -42,7 +42,7 @@ Together with Sales Systems, we implemented a custom formula field called `Block
 
 For the sandbox, we have a different set of [syncing rules](/handbook/marketing/marketing-operations/marketo/#sandbox).
 
-### Multi-thread Sync
+#### Multi-thread Sync
 
 To avoid or clear SFDC backlogs, multi-thread sync is availible to use in Marketo. It enables the use of multiple lanes of data flowing from SFDC to Marketo, greatly increasing the sync rate depending on the resources availible on the Marketo servers. Each record in Marketo is marked with a value between `1-9` on the field `Marketo Thread ID` based on the first letter of the email address. Records will be synced and distributed on threads based on the value of `Marketo Thread ID`.
 
@@ -93,7 +93,6 @@ If you require a new language or need a new form, please gather the [translation
 All forms should follow these guidelines:
 
 - Do not use lightboxes
-- Field labels are always ALL CAPS
 - Label width = 150 / Field width = 300
 - Fields should be stacked in a vertical line
 - `Country` field label should be `Country/Region`
@@ -144,7 +143,7 @@ Data and engineering teams have developed integrations to bring data related to 
 
 1. [Marketing Contact Datamart & Pump](https://internal.gitlab.com/marketing-operations/product-data/#marketing-datamart-pump-and-pql-information-email-marketing-data-mart): Fields start with `[CDB]`
 1. [SaaS Trial & Handshakes](https://internal.gitlab.com/marketing-operations/product-data/#saas-trials--handraise): Fields start with `[PQL]`
-1. [Propensity to Buy Models](/handbook/business-technology/data-team/organization/data-science/#conversion): Fields start with `[PTP] - Trial users only at the moment
+1. [Propensity to Buy Models](/handbook/business-technology/data-team/organization/data-science/#conversion): Fields start with `[PTP]` - Trial users only at the moment
 
 ### Campaign Limits
 
@@ -290,7 +289,7 @@ Marketo segmentations are used similar to a smartlist, but they are permanent an
 
 The following segmentations that are approved and live.
 
-{{% details summary="[Buyer Personas - Function](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1008A1)" %}}
+<details><summary>[Buyer Personas - Function](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1008A1)</summary>
 Based off of guidance on [Buyer Persona page](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/#buyer-personas).
 
 - App Dev
@@ -303,11 +302,13 @@ Based off of guidance on [Buyer Persona page](/handbook/marketing/brand-and-prod
 - Release
 - Tech Leader
 - Default
-{{% /details %}}
+</details>
+
 
 [Compliant and Emailable](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1016A1)
 
-{{% details summary="[Personas - Level](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1018A1)" %}}
+<details><summary>[Personas - Level](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1018A1)</summary>
+
 - C-Level Executives
 - Executives
 - Directors
@@ -316,18 +317,19 @@ Based off of guidance on [Buyer Persona page](/handbook/marketing/brand-and-prod
 - Student / intern
 - Blank title
 - Default
-{{% /details %}}
+</details>
 
 
-{{% details summary="[Sales Segment](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1017A1)" %}}
+<details><summary>[Sales Segment](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1017A1)</summary>
+
 - Enterprise
 - Mid-Market
 - SMB
 - PUBSEC
 - Default
-{{% /details %}}
+</details>
 
-{{% details summary="[Region](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1013A1)" %}}
+<details><summary>[Region](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1013A1)</summary>
 Not recommended for email. `Region` uses the country of the parent account, which might not be the location of the person being emailed. This segmentation is not recommended for email marketing unless the message is meant to be based on Account Demographics.
 
 - AMER
@@ -335,9 +337,9 @@ Not recommended for email. `Region` uses the country of the parent account, whic
 - APAC
 - LATAM
 - Default
-{{% /details %}}
+</details>
 
-{{% details summary="[Person Region](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1031A1)" %}}
+<details><summary>[Person Region](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1031A1)</summary>
 Recommended for email lists. `Person Region` uses the country of the lead/contact, not the account. Use `Person Region` when you are offering a local event or are sending messaging for people in-region.
 
 - AMER
@@ -345,17 +347,18 @@ Recommended for email lists. `Person Region` uses the country of the lead/contac
 - APAC
 - LATAM
 - Default
-{{% /details %}}
+</details>
 
-{{% details summary="[Funnel Stage](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1021A1)" %}}
+<details><summary>[Funnel Stage](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1021A1)</summary>
+
 - Raw > INQ - `Status = NULL, Inquiry or Raw` OR (`Status = Recycle` AND `Person Score < 75`)
 - INQ > MQL - `Status = MQL, Accepted or Qualifying` OR (`Status = Recycle` AND `Person Score > 74`)
 - MQL > SAO - `Status = Qualified` OR `1 Open Opportunity` OR `Has an Open Opportunity`
 - Customer - `Current Customer = TRUE` OR `Status = Web Portal Purchase` OR `Is Paid Tier = True`
 - Disqualified - Status is `Disqualified or Bad Data`
-{{% /details %}}
+</details>
 
-{{% details summary="[Priority Countries](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1024A1)" %}}
+<details><summary>[Priority Countries](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1024A1)</summary>
 Complete list of priority countries as found [here](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/6648).
 
 - Tier 1
@@ -363,9 +366,10 @@ Complete list of priority countries as found [here](https://gitlab.com/gitlab-co
 - Tier 3
 - Embargoed
 - Default
-{{% /details %}}
+</details>
 
-{{% details summary="[Language Preference](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1023A1)" %}}
+<details><summary>[Language Preference](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1023A1)</summary>
+
 - French
 - Japanese
 - German
@@ -374,9 +378,10 @@ Complete list of priority countries as found [here](https://gitlab.com/gitlab-co
 - Portuguese
 - Italian
 - Default (English)
-{{% /details %}}
+</details>
 
-{{% details summary="[Personas - Role](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1020A1)" %}}
+<details><summary>[Personas - Role](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1020A1)</summary>
+
 - Developer
 - DevOps
 - Security / Compliance
@@ -393,20 +398,23 @@ Complete list of priority countries as found [here](https://gitlab.com/gitlab-co
 - Accounting / Finance
 - C-Level (President / CEO/ COO)
 - Default
-{{% /details %}}
+</details>
 
-{{% details summary="[Sales Territories](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1026A1)" %}}
+<details><summary>[Sales Territories](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1026A1)</summary>
+
 - Currently available for US Public Sector only
 - List of available segments can be found in [this doc](https://docs.google.com/spreadsheets/d/1UAD3JKqe5y-NJBPB5CbjmN5Wq1OObzh_vsLqbuGk9dk/edit#gid=0)
-{{% /details %}}
+</details>
 
-{{% details summary="[Order Type](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1028A1)" %}}
+<details><summary>[Order Type](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1028A1)</summary>
+
 - First Order
 - Growth
 - Default
-{{% /details %}}
+</details>
 
-{{% details summary="[Product](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1027A1)" %}}
+<details><summary>[Product](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1027A1)</summary>
+
 - Ultimate
 - Premium
 - Bronze
@@ -415,7 +423,7 @@ Complete list of priority countries as found [here](https://gitlab.com/gitlab-co
 - Free User - with previous trial
 - Free User
 - Default
-{{% /details %}}
+</details>
 
 ### Snippets
 
