@@ -82,7 +82,7 @@ The Senior Professional Services Project Coordinator is a [grade 7](/handbook/to
 #### Responsibilities
 
 - Extends the Professional Services Project Coordinator responsibilities
-Provide administrative, technical and event coordination for remote and onsite training programs, webinars, on-demand videos, and Customer training,
+- Provide administrative, technical and event coordination for remote and onsite training programs, webinars, on-demand videos, and Customer training,
 - Aid in the organization, and scheduling delivery of curriculum, agenda, and other materials need for training events
 - Execute various event planning duties, such as: arranging, catering, pre-training room preparation/coordination and training supply ordering and maintenance
 - Edit, send and track customer communication, such as announcements and bulletins, sent to the various departments impacted by organizational change
@@ -107,8 +107,8 @@ Provide administrative, technical and event coordination for remote and onsite t
 
 - The Resource Manager will report to the Manager of PS Operations and be responsible for managing staffing/resource
 management across the Professional Service team
-- The role will oversee the execution and delivery of staffing across all regions. The role will partner and collaborate 
-with regional leadership to identify and monitor staffing trends
+- The role will oversee the execution and delivery of staffing across all regions. The role will partner and collaborate
+  with regional leadership to identify and monitor staffing trends
 - Work closely with Project Managers, Consultants, and Delivery Managers to assign resources across multiple projects and  regions
 - Assist in managing subcontractor resourcing, monthly spend, and invoicing
 - Full-cycle Contractor Management, including, identifying potential contractors with partners, scheduling interviews, and facilitate onboarding of new partner resources
@@ -116,7 +116,7 @@ with regional leadership to identify and monitor staffing trends
 - Communicate regularly with appropriate leaders on capacity and staff situations
 - Proactively identify resource management challenges, provide recommendations and plans for resolution; Participate in overcoming resource shortages through creative planning
 - Advise Professional Services Leadership on at-risk project concerns or issues meeting key customer deliverables
-- Provide visibility to Professional Services Leadership regarding resource constraints that impact revenue generating activities 
+- Provide visibility to Professional Services Leadership regarding resource constraints that impact revenue generating activities
 - Develop staffing strategies to optimize employee utilization and optimize engagement profitability
 - Drive the management of utilization metrics, reporting to the PS management team on a weekly basis
 - Successfully prioritize and execute tasks in a high-pressure environment
@@ -134,7 +134,7 @@ with regional leadership to identify and monitor staffing trends
 - You share our values, and work in accordance with those values
 - Ability to use GitLab
 
-### Operations Analyst 
+### Operations Analyst
 
 #### Responsibilities
 
@@ -169,7 +169,7 @@ This role will provide business operations support for the Professional Services
 
 ### Professional Services Operations Program Manager Job Grade
 
-The Professional Services Program Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades). 
+The Professional Services Program Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -187,12 +187,11 @@ The Professional Services Program Manager is a [grade 7](/handbook/total-rewards
 - Previous experience with resource management
 - Previous experience with establishing new processes and methodologies
 
-## Specialties
+### Specialties
 
+#### Training
 
-### Training
-
-#### Responsibilities
+##### Responsibilities
 
 - Collaborate with Professional Services leaders to provide reports focused on financial and resource management data to aid with revenue and budgetary goals.
 - Provide analysis that supports the business objectives of the Services organization, in alignment with corporate vision
@@ -213,7 +212,7 @@ The Professional Services Program Manager is a [grade 7](/handbook/total-rewards
 - SME in Training systems including LMS System
 - Manage special projects, reporting and OKRs as requested by Education Services.
 
-#### Requirements
+##### Requirements
 - Bachelor’s degree required, preferably in Finance, Accounting, Statistics, or Business Management
 - Professional Services Automation (PSA) tools experience recommended (i.e. NetSuite Openair, FinancialForce, Kantata)
 - Previous experience in a data-driven, analytics-centric role
@@ -231,13 +230,16 @@ The Professional Services Program Manager is a [grade 7](/handbook/total-rewards
 - 5+ years of Education Services and program management experience
 
 
-### Consulting
+#### Consulting
+
 To be drafted as the need for this specialty arises
 
-#### Responsibilities
+##### Responsibilities
+
 To be drafted as the need for this specialty arises
 
-#### Requirements
+##### Requirements
+
 To be drafted as the need for this specialty arises
 
 ## Professional Services Operations Management
@@ -281,13 +283,15 @@ Works with finance, sales and the PS leadership to ensure effective use and adop
 #### Senior Manager, Professional Services Operations Job Grade is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Professional Services Operations Responsibilities
+
 - [more detail required]
 
 #### Senior Manager, Professional Services Operations Requirements
+
 - [more detail required]
 
-
 ## Performance Indicator
+
 - [CSAT](https://about.gitlab.com/handbook/support/support-ops/#customer-satisfaction-survey-csat ) >8.0/10
 - [Project Margin](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#long-term-profitability-targets ) > 20% for assigned projects
 - Successfully manage the quarterly Education Services revenue forecast within a 5% margin
