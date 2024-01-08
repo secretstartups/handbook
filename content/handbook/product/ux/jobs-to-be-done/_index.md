@@ -130,7 +130,7 @@ When considering innovation, it's essential to explore the additional goals that
 
 ### **Aspirations:** What does the job performer aspire to become by doing the job?
 
-Aspirations represent the "be" goals of the job performer, signifying their desire for personal growth or transformation while completing the job. These aspirations should be derived from conversations with job performers and are placed at the top of the canvas as they hold a hierarchical position above the target job. Typically, there are 1-3 aspirations associated with any target job. For instance, in the context of a real estate organization, potential top-down elements for innovation related to "home ownership" could include:
+Aspirations represent the "be" goals of the job performer, signifying their desire for personal growth or transformation while completing the job. These aspirations should be derived from conversations with job performers and are placed at the top of the canvas as they hold a hierarchical position above the target job. Typically, there are 1 to 3 aspirations associated with any target job. For instance, in the context of a real estate organization, potential top-down elements for innovation related to "home ownership" could include:
 
 - Job performer: New homeowner
 - Target job: Acquire a new home
