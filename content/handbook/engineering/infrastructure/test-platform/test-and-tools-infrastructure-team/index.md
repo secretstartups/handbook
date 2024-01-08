@@ -87,7 +87,7 @@ graph LR
     4. The team retrospective will be in line with [Gitlab's retrospective guidelines](/handbook/engineering/management/group-retrospectives/)
 
 #### Team Meeting & Demos [Sync]
-- **Cadence**: Bi-weekly on Tuesday, 25 mins
+- **Cadence**: Bi-weekly on Tuesday, 45 mins
 - **Guidelines**:
     1. Bi-weekly meetings will occur within Project tracks and within working groups. Time zone differences will lead to segmented meetings. Solo project track members may opt for asynchronous updates and detailed discussions in 1:1s.
     2. Focus on live discussions, milestone reviews, and backlog refinement.
