@@ -156,7 +156,7 @@ When talking about Jobs to be Done, we’re often talking about different levels
 
 ### Main Jobs
 
-A main job is a means to an end. It's an act that will be performed and should have a clear end state—the "done" part of JTBD. That is why we write jobs in the pattern Verb + Object + Clarifier when writing job statements.
+A main job is a means to an end. It's an act that will be performed and should have a clear end state (the "done" part of JTBD). That is why we write jobs in the pattern Verb + Object + Clarifier when writing job statements.
 
 Example: Buy a new home
 
