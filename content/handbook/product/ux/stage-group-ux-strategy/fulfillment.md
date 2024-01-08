@@ -5,8 +5,7 @@ description: "The Fulfillment UX team supports the Fulfillment section to provid
 
 ## UX team members
 
-- [Jacki Bauer](/handbook/company/team/#jackib) ([Jacki's ReadMe](https://gitlab.com/jackib/jacki-bauer/blob/master/README.md)) - Product Design Manager
-- [Emily Sybrant](/handbook/company/team/#esybrant) - Senior Product Designer, Fulfillment
+- [Emily Sybrant](/handbook/company/team/#esybrant) - Product Design Manager
 - [Tim Noah](/handbook/company/team/#timnoah) - Senior Product Designer, Fulfillment
 - [Nick Hertz](/handbook/company/team/#nickhertz) - UX Researcher, Fulfillment
 
