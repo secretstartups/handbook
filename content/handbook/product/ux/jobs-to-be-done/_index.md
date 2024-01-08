@@ -10,11 +10,11 @@ Jobs to be Done (JTBD) is a framework for viewing products and solutions from th
 
 Much of what follows on this page and our other JTBD pages (Playbook, Deep Dive) borrows heavily from [Jim Kalbach](https://www.jtbdtoolkit.com/) and his book, “[The Jobs to be Done Playbook](https://www.google.com/search?gs_ssp=eJzj4tVP1zc0TMszSUk3sDAyYPSSyMpPKlYoyVdISlVIyc9LVSjISaxMys_PBgD8Tw0e&q=jobs+to+be+done+playbook&rlz=1C5CHFA_enUS977US989&oq=jobs+to+be+done+pla&gs_lcrp=EgZjaHJvbWUqBwgBEC4YgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyBggCEEUYOTIHCAMQABiABDIHCAQQABiABDIGCAUQRRhBMgYIBhBFGDwyBggHEEUYPNIBCDkxNDNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)”. 
 
-This page covers the 'what' of Jobs to be Done. To skip to the 'how', or the _practice_ of doing Jobs to be Done research, head over to the [playbook](link to playbook).
+This page covers the 'what' of Jobs to be Done. To skip to the 'how', or the _practice_ of doing Jobs to be Done research, head over to the [playbook](/handbook/product/ux/jobs-to-be-done/jtbd-playbook).
 
 ## Anatomy of a JTBD Canvas
 
-A Job to be Done Canvas is a way to arrange all of the elements of a [main job](#main-job-where-do-you-want-to-innovate) in an easy to read format, well-suited for iteration, sharing, and documentation. We use canvases throughout our [JTBD playbook](link to playbook HB page), as part of our [FigJam template](https://www.figma.com/file/Z4lsAOLH1ANN3pstQFYgSk/Jobs-to-be-done----Playbook-Template?type=whiteboard&node-id=0%3A1&t=7nzgsnW0igvXKwjr-1).
+A Job to be Done Canvas is a way to arrange all of the elements of a [main job](#main-job-where-do-you-want-to-innovate) in an easy to read format, well-suited for iteration, sharing, and documentation. We use canvases throughout our [JTBD playbook](/handbook/product/ux//jobs-to-be-done/jtbd-playbook), as part of our [FigJam template](https://www.figma.com/file/Z4lsAOLH1ANN3pstQFYgSk/Jobs-to-be-done----Playbook-Template?type=whiteboard&node-id=0%3A1&t=7nzgsnW0igvXKwjr-1).
 Each canvas has a number of different sections which combine to provide a **holistic picture of a main job and its job performer**. It can be a bit daunting, so here’s a breakdown of each part:
 
 ![JTBD canvas](JTBD_Canvas.png)
