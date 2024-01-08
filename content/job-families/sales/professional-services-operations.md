@@ -194,15 +194,50 @@ The Professional Services Program Manager is a [grade 7](/handbook/total-rewards
 
 #### Responsibilities
 
-- Extends the Professional Services Program Manager, the Training Speciity will provide administrative, technical and event coordination for remote and onsite training programs, webinars, on-demand videos, and Customer training,
+- Collaborate with Professional Services leaders to provide reports focused on financial and resource management data to aid with revenue and budgetary goals.
+- Provide analysis that supports the business objectives of the Services organization, in alignment with corporate vision
+- Run weekly time reports to estimate revenue; identify any resource or revenue corrective actions that are required to meet/beat monthly target
+- Run monthly/quarterly billing; work with accounting to record revenue.
+- Develop analytical reports for all sources of services revenue, consistent with company standards, and management direction.
+- Assist Services leadership team with resource management and proactive forecasting processes.
+- Coordinate with Project Management Team and other groups within Sales / Operations to obtain relevant data about the project opportunity and staffing requirements
+- Subject matter expert for services personnel on all processes related to services revenue: time entry, project management processes relate to operations, customer billing, and staff utilization.
+- Support Professional Services staff to better understand revenue, hours, and target attainment goals
+- Act as liaison between the Project Management Office, Finance department, and Services staff.
+- Ensure timely and complete new PS employee onboarding with content tailored to the new hires’ positions
+- Act as a SME (subject matter expert) by providing mentorship and guidance to Training Project Coordinators
+-Oversee the training administrative processes and identify and implement improvements to the processes and tools used by Project Coordinators in support of internal and external training customers
+- Review Pre-Sales customer training order pipeline and assign projects to team members.
+- Triage and assign internal and external training event coordination projects.
 - Oversee the customer training resource management to ensure that the Professional Services team meets quarterly revenue forecast targets and GitLab instructors meet billable utilization targets.
-- Oversee Training forecast accuracy by 5%
-- SME in LMS System
+- SME in Training systems including LMS System
+- Manage special projects, reporting and OKRs as requested by Education Services.
 
 #### Requirements
-- [more detail required]
+- Bachelor’s degree required, preferably in Finance, Accounting, Statistics, or Business Management
+- Professional Services Automation (PSA) tools experience recommended (i.e. NetSuite Openair, FinancialForce, Kantata)
+- Previous experience in a data-driven, analytics-centric role
+- Working understanding of Professional Services cost structures strongly preferred
+- Strong Microsoft Excel skills including experience with pivot tables, analyzing and formatting data, use of filters, and creating charts and graphs
+- Excellent communication and presentation skills
+- Must have incredible attention to detail, be self-starting, and possess strong organizational skills
+- Ability to use GitLab
+- Demonstrated progressive industry experience in a Education Services Operations or similar role for a high-tech product company
+- Demonstrated progressive experience with remote delivery tools such as Zoom, WebEx, MS Teams, Slack, etc.
+- Previous experience in a data-driven, analytics-centric role
+- Ability to execute multiple complex tasks simultaneously.
+- Previous experience with resource management
+- Previous experience with establishing new processes and methodologies
+- 5+ years of Education Services and program management experience
+
 
 ### Consulting
+To be drafted as the need for this specialty arises
+
+#### Responsibilities
+To be drafted as the need for this specialty arises
+
+#### Requirements
 To be drafted as the need for this specialty arises
 
 ## Professional Services Operations Management
