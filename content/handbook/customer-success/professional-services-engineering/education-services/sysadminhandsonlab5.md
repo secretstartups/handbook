@@ -7,19 +7,23 @@ description: "This hands-on lab guide is designed to walk you through the lab ex
 
 ## Lab 5 - Implement Sign-Up Restrictions
 
-1. Log into your GitLab instance with your `root` user and password from Lab 1.
+1. Log into your GitLab web instance with your `root` user and password from Lab 1.
 
-2. On the main screen in the top left hand corner, click **Menu** > **Admin**.
+1. In the bottom left corner of the main screen in the sidebar, click **Admin Area**.
 
-3. Scroll to the bottom of the left hand side navigation pane and click **Settings > General**.
+1. In the bottom of the left hand side navigation pane and click **Settings > General**.
 
-5. Under **Sign-up restrictions**, click **Expand**.
+1. Under **Sign-up restrictions**, click **Expand**.  
 
-6. Click the checkbox to enable **Send Confirmation email on sign-up**.
+1. Under **Email confirmation settings**, click the radio button next to **Hard**.
 
-7. Next, ensure sign ups are only allowed for your company's domain. In the **Allowed domains for sign ups window**, type your company’s domain name and press <kbd>Enter<kbd>
+1. Next, ensure sign ups are only allowed for your company's domain. In the **Allowed domains for sign-ups**, type your company’s domain name and press <kbd>Enter<kbd>.  
 
-8. Scroll down to the end of the section and click **Save Changes**.
+1. Scroll down to the end of the section and click **Save Changes**. 
+
+## Lab Guide Complete
+
+You have completed this lab exercise. You can view the other [lab guides for this course](/handbook/customer-success/professional-services-engineering/education-services/sysadminbhandson).
 
 ### Suggestions?
 

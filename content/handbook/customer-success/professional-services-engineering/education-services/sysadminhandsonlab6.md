@@ -17,8 +17,7 @@ The `gitlab-ctl` command allows you to tail all GitLab log files as well as filt
 sudo gitlab-ctl tail
 ```
 
-Amidst all the output, you should notice the command shows the full file path to each log. Most GitLab logs live in `/var/log/gitlab`.
-(Note: You can type `CTRL-C` to exit the `tail` command.)
+Amidst all the output, you should notice the command shows the full file path to each log. Most GitLab logs live in `/var/log/gitlab`. (Note: You can type `CTRL-C` to exit the `tail` command.)
 
 1. You can also view GitLab logs by service. Run the following command to view only NGINX logs (i.e. log files in `/var/log/gitlab/nginx`).
 
@@ -61,7 +60,7 @@ sudo sed -i '1234s/# //' /etc/gitlab/gitlab.rb
 sudo gitlab-ctl reconfigure
 ```
 
-(Note: since we're using single node Omnibus, Praefect is not actually in use as a service. Praefect is only enabled if using Gitaly cluster.)
+> Since we're using single node Omnibus, Praefect is not actually in use as a service. Praefect is only enabled if using Gitaly cluster.
 
 ### Task C. Manage log retention
 

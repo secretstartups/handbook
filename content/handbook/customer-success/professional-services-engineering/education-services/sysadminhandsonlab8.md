@@ -19,6 +19,7 @@ sudo gitlab-ctl tail nginx/gitlab_access.log
 ```
 
 Note the log adds new entries every few seconds. Most of these entries are gitlab-runner checking in with the GitLab instance via HTTP.
+
 1. Stop the NGINX services.
 
 ```bash
@@ -26,6 +27,7 @@ sudo gitlab-ctl stop nginx
 ```
 
 1. Attempt to navigate to `http://<YOUR_GITLAB_INSTANCE>` using a web browser. Your web browser should display "**This site can't be reached**" or a similar message.
+
 1. Check `nginx/access_log` again.
 
 ```bash
@@ -33,6 +35,7 @@ sudo gitlab-ctl tail nginx/gitlab_access.log
 ```
 
 The log should no longer be updating since no clients can make HTTP/HTTPS requests to GitLab after stopping NGINX.
+
 1. Verify web services aren't running or listening anywhere.
 
 ```bash
@@ -69,6 +72,7 @@ sudo gitlab-ctl stop puma
 ```
 
 1. Refresh GitLab in your web browser. You should immediately see an error that reads "**502: GitLab is taking to much time to respond**". NGINX is running, so it can accept HTTP requests. However, when workhorse tries to pass an HTTP request to the Rails application, there is no running service to accept it.
+
 1. View the GitLab Workhorse logs.
 
 ```bash
@@ -76,6 +80,7 @@ sudo gitlab-ctl tail gitlab-workhorse/current
 ```
 
 You will see a variety of **502** and **badgateway** errors in the output.
+
 1. View Puma logs.
 
 ```bash
@@ -83,6 +88,7 @@ sudo gitlab-ctl tail puma
 ```
 
 You should see a message in `puma/puma_stdout.log` about the Puma service shutting down. You may also see errors in `puma/puma_stderr.log`.
+
 1. Restart Puma.
 
 ```bash
