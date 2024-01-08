@@ -70,6 +70,8 @@ Keep these sections sorted alphabetically. They are headers so that they can be 
 - Title: Fixtures declared with `let_it_be` from `test-prof` gem cannot be found, and give `RubyResolve` warning
 - Link: <https://youtrack.jetbrains.com/issue/RUBY-31543/Fixtures-declared-with-letitbe-from-test-prof-gem-cannot-be-found-and-give-RubyResolve-warning>
 - Notes: Requires `# noinspection RubyResolve`
+- UPDATE 2024-01-06: Issue was closed, but it still appears to be a problem in some cases. See:
+  https://youtrack.jetbrains.com/issue/RUBY-31543/Support-test-prof-gem-fixtures-declared-with-letitbe#focus=Comments-27-8744742.0-0
 
 ### RUBY-32041
 
