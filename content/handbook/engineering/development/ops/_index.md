@@ -156,6 +156,17 @@ These lists should include:
     1. Whether the doc has received any Ops Manager or Ops Senior Manager approvals.
 1. Review Ops team member promotion docs planned to be presented at Development Department quarterly promotion review meeting.
 
+#### Promotion Mentor for Staff+ Roles
+
+Team members who aspire to advance within our organization are advised to identify and formally request mentorship from another engineer already established in the targeted role, with work performance in good standing as deemed by their manager. Involving a mentor in the peer promotion review process is beneficial, as it ensures:
+
+1. The feedback is informed by comprehensive understanding and relevance to the individual's development.
+1. The feedback, being familiar and constructive, will not catch the mentee off guard and will provide clear directions for improvement from peers they'd work with directly.
+
+Individuals pursuing promotion, possibly in consultation with their managers, should maintain regular communication with their mentor to evaluate progress and explore further opportunities for growth. This initiative also aims to cultivate leadership qualities among our senior Staff+ engineers.
+
+We plan to trial this optional process in Ops during Q1FY25, progress, mentors and mentee can be found in this [epic](https://gitlab.com/groups/gitlab-org/ci-cd/-/epics/6)
+
 ## Ops Hiring process
 
 We have limited capacity in the recruiting team so hiring managers are experimenting with the [Ops Hiring process](/handbook/engineering/development/ops/hiring-process/).  We also hold a weekly hiring manager sync meeting (see Meetings section).
