@@ -143,6 +143,10 @@ with the format below:
 
 After the Retro section is finalized, the OKR can be closed.
 
+### Hiring
+
+[Our hiring process](/handbook/engineering/infrastructure/platforms/hiring/) is shared between all teams in SaaS Plaforms.
+
 ## Platforms Learning Path
 
 All team members are encouraged to schedule time for personal development. The following links may help you get started with Platforms-relevant learning. Please add your own contributions to this list to help others with their personal development.
