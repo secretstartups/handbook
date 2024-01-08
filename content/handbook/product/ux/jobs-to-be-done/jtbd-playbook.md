@@ -4,7 +4,7 @@ description: >-
   GitLab follows a series of steps and exercises to discover and develop job canvases from basic assumptions all the way to validated and ranked outcomes and opportunities.
 ---
 
-How we conduct JTBD research at GitLab follows a process closely mirroring the [JTBD Playbook by Jim Kalbach](https://www.amazon.com/Jobs-Be-Done-Playbook-Organization/dp/1933820683/ref=sr_1_1?hvadid=589897626135&hvdev=c&hvlocphy=9031237&hvnetw=g&hvqmt=e&hvrand=12931916200397110223&hvtargid=kwd-962517945317&hydadcr=21723_13345240&keywords=jobs+to+be+done+playbook&qid=1698425662&sr=8-1). The playbook takes teams from basic assumptions all the way to a list of ranked outcomes that your customers care about the most. Going through this process can be hugely beneficial for a team and we have done a lot of the heavy lifting for you. It is **highly recommended** to have a UX Researcher, or someone knowledgeable in JTBD practice, as the DRI to drive this effort for your team. 
+How we conduct JTBD research at GitLab follows a process closely mirroring the [JTBD Playbook by Jim Kalbach](hhttps://www.amazon.com/Jobs-Be-Done-Playbook-Organization/dp/1933820683). The playbook takes teams from basic assumptions all the way to a list of ranked outcomes that your customers care about the most. Going through this process can be hugely beneficial for a team and we have done a lot of the heavy lifting for you. It is **highly recommended** to have a UX Researcher, or someone knowledgeable in JTBD practice, as the DRI to drive this effort for your team. 
 
 Use this playbook to complete your JTBD canvases. For more information on each part of the canvas, refer to [anatomy of a JTBD canvas](handbook/product/ux/jobs-to-be-done/#anatomy-of-a-jtbd-canvas).  
 

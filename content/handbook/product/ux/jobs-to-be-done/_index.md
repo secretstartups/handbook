@@ -8,7 +8,7 @@ description: >-
 
 Jobs to be Done (JTBD) is a framework for viewing products and solutions from the user's perspective. It's about understanding what people want to achieve so we can build a better solution that reflects those desires. The purpose of these materials is to empower GitLab team members to uncover user needs, identify strategic opportunities, validate existing plans, and open the door to innovation.
 
-Much of what follows on this page and our other JTBD pages (Playbook, Deep Dive) borrows heavily from [Jim Kalbach](https://www.jtbdtoolkit.com/) and his book, “[The Jobs to be Done Playbook](https://www.google.com/search?gs_ssp=eJzj4tVP1zc0TMszSUk3sDAyYPSSyMpPKlYoyVdISlVIyc9LVSjISaxMys_PBgD8Tw0e&q=jobs+to+be+done+playbook&rlz=1C5CHFA_enUS977US989&oq=jobs+to+be+done+pla&gs_lcrp=EgZjaHJvbWUqBwgBEC4YgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyBggCEEUYOTIHCAMQABiABDIHCAQQABiABDIGCAUQRRhBMgYIBhBFGDwyBggHEEUYPNIBCDkxNDNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)”. 
+Much of what follows on this page and our other JTBD pages (Playbook, Deep Dive) borrows heavily from [Jim Kalbach](https://www.jtbdtoolkit.com/) and his book, “[The Jobs to be Done Playbook](hhttps://www.amazon.com/Jobs-Be-Done-Playbook-Organization/dp/1933820683)”. 
 
 This page covers the 'what' of Jobs to be Done. To skip to the 'how', or the _practice_ of doing Jobs to be Done research, head over to the [playbook](/handbook/product/ux/jobs-to-be-done/jtbd-playbook).
 
