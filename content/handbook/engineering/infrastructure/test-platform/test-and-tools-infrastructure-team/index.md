@@ -99,7 +99,7 @@ graph LR
 #### Social Hours [Sync]
 - **Cadence**: Quarterly
 - **Guidelines**:
-    1. This is a virtual team building activity adhereting to the [Gitlab's team building policy](https://handbook.gitlab.com/handbook/finance/expenses/#team-building).
+    1. This is a virtual team building activity adhering to the [Gitlab's team building policy](/handbook/finance/expenses/#team-building).
     2. Social hours will be organized across different time zones, in sync with the `test-platform` sub-department's schedule.
 
 ### Personal/Career Development Rituals
