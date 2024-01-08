@@ -84,14 +84,14 @@ graph LR
     1. Contribute to the retrospective issue created in the [Quality Retrospective project](https://gitlab.com/gl-retrospectives/quality). The retrospective issue will be automatically created and shared in the `#test-platform-lounge` channel on the first Monday of every month.
     2. Engage in constructive feedback and action-oriented discussions.
     3. Engineering Manager to summarize action items by the end of the week. The kudos will also be summarized and shared to `#thanks` for organization visibility.
-    4. The team retrospective will be in line with [Gitlab's retrospective guidelines](https://handbook.gitlab.com/handbook/engineering/management/group-retrospectives/)
+    4. The team retrospective will be in line with [Gitlab's retrospective guidelines](/handbook/engineering/management/group-retrospectives/)
 
 #### Team Meeting & Demos [Sync]
 - **Cadence**: Bi-weekly on Tuesday, 25 mins
 - **Guidelines**:
     1. Bi-weekly meetings will occur within Project tracks and within working groups. Time zone differences will lead to segmented meetings. Solo project track members may opt for asynchronous updates and detailed discussions in 1:1s.
     2. Focus on live discussions, milestone reviews, and backlog refinement.
-    3. Record quick ~5 mins demo for completed work and share in the agenda doc. We also encourage everyone to record videos and post to GitLab Unfiltered. [The handbook page on YouTube](https://handbook.gitlab.com/handbook/marketing/marketing-operations/youtube/#post-everything) does an excellent job of telling why we should be doing this. If you’re uploading a video for the demos, be sure to do the following extra steps:
+    3. Record quick ~5 mins demo for completed work and share in the agenda doc. We also encourage everyone to record videos and post to GitLab Unfiltered. [The handbook page on YouTube](/handbook/marketing/marketing-operations/youtube/#post-everything) does an excellent job of telling why we should be doing this. If you’re uploading a video for the demos, be sure to do the following extra steps:
        1. Add `test-platform` & `test-and-tools-infrastructure` as video tags.
        2. Add it to the [Test Platform  department's](https://www.youtube.com/playlist?list=PL05JrBw4t0KpZUzlEnvlvBtf_NwShU_ot) playlist.
        3. Share it to `#test-tools-infrastructure-team` and cross-post to `#test-platform`.
@@ -108,11 +108,11 @@ graph LR
 - **Guidelines**:
     1. Discuss both professional and personal development goals.
     2. Maintain confidentiality and openness.
-    3. Follow the [1:1 process](https://handbook.gitlab.com/handbook/leadership/1-1/) mentioned in the handbook. 
+    3. Follow the [1:1 process](/handbook/leadership/1-1/) mentioned in the handbook. 
 
 #### Goal Setting & Review
 - **Guidelines**:
-    1. We follow the [individual gowth plan model](https://handbook.gitlab.com/handbook/people-group/learning-and-development/career-development/igp-guide/). The process of launching your IGP is documented [here](https://handbook.gitlab.com/handbook/people-group/learning-and-development/career-development/igp-guide/).
+    1. We follow the [individual gowth plan model](/handbook/people-group/learning-and-development/career-development/igp-guide/). The process of launching your IGP is documented [here](/handbook/people-group/learning-and-development/career-development/igp-guide/).
     4. Leverage 1:1s with your manager to discuss the progress on the goals and next steps. 
     5. Additionaly, consider preparing a worklog issue in the [Team Workbook](https://gitlab.com/gitlab-org/quality/work-log/-/blob/main/templates/worklog-temaplte.md?ref_type=heads) to keep track of your contributions. This will assist in remembering contributions beyond usual project activities, highlighting them for consideration in performance reviews. One such example could be found [here](https://gitlab.com/gitlab-org/quality/work-log/-/issues/1). 
        1. Create an issue with format - `<Name>-Worklog-<Financial Year>`.
