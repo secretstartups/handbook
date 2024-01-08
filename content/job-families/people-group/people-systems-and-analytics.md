@@ -246,7 +246,7 @@ The Staff Analyst, People Analytics role extends the Senior Analyst role expecta
 
 The Staff Analyst, People Analytics role is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-**Market Justification:** When reviewing survey data there are about 200 organizations that typically have 1 to 2 Staff level People Analysts. The business need for GitLab to have an individual contributor grade 8 is to ensure we have a high level of skill when building out people data structure cross functionally. Not having this career path option can make it difficult to retain and attract talent.
+**Market Justification:** When reviewing survey data there are about 200 organizations that typically have 1 to 2 Staff level People Analysts. The business need for GitLab to have an individual contributor grade 8 is to ensure we have a high level of skill when building out people data structure cross functionally and builds in business continuity. Not having this career path option can make it difficult to retain and attract talent.
 
 ##### Responsibilities
 
