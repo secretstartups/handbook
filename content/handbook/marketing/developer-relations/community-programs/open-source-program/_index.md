@@ -394,7 +394,7 @@ Our team measures the success of our work in the following ways.
 
 The GitLab for Open Source Program team monitors the health and vitality of the program by tracking overall program membership and members' annual renewal rates. We do this via the follwing Tableau dashboard:
 
-* Community Dashboard](https://10az.online.tableau.com/#/site/gitlab/views/CommunityDash/CommunityDashboard)
+* [Community Dashboard](https://10az.online.tableau.com/#/site/gitlab/views/CommunityDash/CommunityDashboard)
 
 The dashboard reports the `Number of Licenses` the program is currently administering, the number of `Unique Accounts` associated with the program, and the `Institution Rewnewed` rate.
 
