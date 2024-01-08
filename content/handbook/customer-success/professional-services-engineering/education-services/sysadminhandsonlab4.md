@@ -110,6 +110,10 @@ sudo gitlab-ctl status
 
 8. Wait up to 5 minutes before refreshing GitLab in your web browser. Verify that the Account and Limit settings you changed revert back to the defaults (i.e. when the backup was taken).
 
+## Lab Guide Complete
+
+You have completed this lab exercise. You can view the other [lab guides for this course](/handbook/customer-success/professional-services-engineering/education-services/sysadminhandson).
+
 
 ### Suggestions?
 

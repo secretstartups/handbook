@@ -108,6 +108,10 @@ sudo gitlab-runner register
 
 11. Click into each of the **build_app** and **test_app** jobs to see the job logs and commands that were executed on the runner.
 
+## Lab Guide Complete
+
+You have completed this lab exercise. You can view the other [lab guides for this course](/handbook/customer-success/professional-services-engineering/education-services/sysadminhandson).
+
 ### Suggestions?
 
 If you’d like to suggest changes to the GitLab System Admin Hands-on Guide, please submit them via merge request.

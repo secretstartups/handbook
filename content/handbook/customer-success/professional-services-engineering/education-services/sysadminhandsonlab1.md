@@ -35,7 +35,7 @@ ssh -i YOUR_ASSIGNED_SSH_KEYFILE ec2-user@YOUR_ASSIGNED_PUBLIC_IP
 sudo dnf install -y curl policycoreutils perl postfix
 ```
 
-1. Start and enable Postfix using hte ```systemctl enable``` and the ```systemctl start``` commands:
+1. Start and enable Postfix using the ```systemctl enable``` and the ```systemctl start``` commands:
 
 ```bash
 sudo systemctl enable postfix
@@ -79,6 +79,10 @@ sudo cat /etc/gitlab/initial_root_password
 1. In the **Current password** text box, enter the temporary root password used for initial login.
 
 1. Complete the remaining fields with a new, permanent password of your choosing.
+
+## Lab Guide Complete
+
+You have completed this lab exercise. You can view the other [lab guides for this course](/handbook/customer-success/professional-services-engineering/education-services/sysadminhandson).
 
 ### Suggestions?
 

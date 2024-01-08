@@ -73,6 +73,10 @@ You can personalize your GitLab instance by uploading a header logo.
 
 4. After updating the appearance settings, you should see the GitLab logo in the top bar replaced with the picture you uploaded.
 
+## Lab Guide Complete
+
+You have completed this lab exercise. You can view the other [lab guides for this course](/handbook/customer-success/professional-services-engineering/education-services/sysadminhandson).
+
 ### Suggestions?
 
 If you’d like to suggest changes to the GitLab System Admin Hands-on Guide, please submit them via merge request.

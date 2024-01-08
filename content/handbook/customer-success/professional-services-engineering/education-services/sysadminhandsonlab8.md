@@ -293,6 +293,9 @@ tar -tvf gitlabsos.<GITLAB_FQDN>.<TIMESTAMP>.tar.gz
 
 GitLab Support may ask for this report to assist with troubleshooting.
 
+## Lab Guide Complete
+
+You have completed this lab exercise. You can view the other [lab guides for this course](/handbook/customer-success/professional-services-engineering/education-services/sysadminhandson).
 
 ### Suggestions?
 

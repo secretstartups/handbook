@@ -93,6 +93,9 @@ in the left navigation pane.
 
 1. In the left navigation pane, under **Configuration**, select **Data Sources**. See that the GitLab Omnibus Prometheus service is the data source used to generate the metrics shown in the default dashboards.
 
+## Lab Guide Complete
+
+You have completed this lab exercise. You can view the other [lab guides for this course](/handbook/customer-success/professional-services-engineering/education-services/sysadminhandson).
 
 ### Suggestions?
 

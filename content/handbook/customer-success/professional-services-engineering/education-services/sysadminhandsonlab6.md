@@ -147,6 +147,11 @@ sudo gitlab-ctl tail gitaly/current
 
 You should see the log output is now text formatted instead of JSON formatted.
 
+## Lab Guide Complete
+
+You have completed this lab exercise. You can view the other [lab guides for this course](/handbook/customer-success/professional-services-engineering/education-services/sysadminhandson).
+
+
 ### Suggestions?
 
 If you’d like to suggest changes to the GitLab System Admin Basics Hands-on Guide, please submit them via merge request.
