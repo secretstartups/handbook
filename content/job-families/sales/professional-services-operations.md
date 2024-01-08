@@ -213,6 +213,7 @@ The Professional Services Program Manager is a [grade 7](/handbook/total-rewards
 - Manage special projects, reporting and OKRs as requested by Education Services.
 
 ##### Requirements
+
 - Bachelor’s degree required, preferably in Finance, Accounting, Statistics, or Business Management
 - Professional Services Automation (PSA) tools experience recommended (i.e. NetSuite Openair, FinancialForce, Kantata)
 - Previous experience in a data-driven, analytics-centric role
@@ -298,7 +299,7 @@ Works with finance, sales and the PS leadership to ensure effective use and adop
 
 ## Career Ladder
 
-- A Professional Services Operations team member can progress through the various individual contributor levels or leadership roles and associated levels as outlined above. 
+- A Professional Services Operations team member can progress through the various individual contributor levels or leadership roles and associated levels as outlined above.
 
 ## Hiring Process
 
