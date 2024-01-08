@@ -5,7 +5,6 @@ description: "This hands-on lab guide is designed to walk you through the lab ex
 
 # GitLab System Administration Hands-on Guide: Lab 1
 
-
 ## Lab 1 - Install GitLab 
 
 In this lab, you will install GitLab and its necessary dependencies on a virtual machine using the command line.

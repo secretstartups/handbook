@@ -6,7 +6,7 @@ description: "This hands-on lab guide is designed to walk you through the lab ex
 # GitLab System Administration Hands-on Guide: Lab 4
 
 
-## LAB 4- Backup and Restore GitLab
+## Lab 4 - Backup and Restore GitLab
 
 ### Task A. Configure backup settings
 

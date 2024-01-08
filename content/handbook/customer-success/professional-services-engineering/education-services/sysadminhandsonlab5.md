@@ -5,7 +5,7 @@ description: "This hands-on lab guide is designed to walk you through the lab ex
 
 # GitLab System Administration Hands-on Guide: Lab 5
 
-## Lab 5- Implement Sign-Up Restrictions
+## Lab 5 - Implement Sign-Up Restrictions
 
 1. Log into your GitLab instance with your `root` user and password from Lab 1.
 

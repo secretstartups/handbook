@@ -6,7 +6,7 @@ description: "This hands-on lab guide is designed to walk you through the lab ex
 # GitLab System Administration Hands-on Guide: Lab 8
 
 
-## LAB 8- Troubleshoot GitLab
+## Lab 8 - Troubleshoot GitLab
 
 For this lab exercise, refer to GitLab's [application architecture](https://docs.gitlab.com/ee/development/architecture.html#simplified-component-overview) to review GitLab's major services and interactions.
 
@@ -96,6 +96,7 @@ sudo gitlab-ctl tail puma/current
 ```
 
 You may see output indicating Puma has restarted.
+
 1. View `puma/puma_stdout.log`.
 
 ```bash

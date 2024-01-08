@@ -5,7 +5,7 @@ description: "This hands-on lab guide is designed to walk you through the lab ex
 
 # GitLab System Administration Hands-on Guide: Lab 2
 
-## Lab 2- Use GitLab Administration Commands
+## Lab 2 - Use GitLab Administration Commands
 
 ### Task A. Run basic service status commands
 
