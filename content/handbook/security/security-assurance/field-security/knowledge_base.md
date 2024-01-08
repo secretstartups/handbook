@@ -4,7 +4,7 @@ title: Knowledge Base
 
 ## What is the knowledge base?
 
-The knowledge base is an internal only library of question and answer pairs related to GitLab, Inc. and the GitLab solutions. The knowledge base is a living library that is updated and expanded by questionnaires from our prospects and customers. These questionnaires are related to efforts such as RFx requests, third party risk assessments, and supplier due diligence requests. The knowledge base is designed to serve both Field Security and all other team members.
+The knowledge base is a library of question and answer pairs related to GitLab, Inc. and the GitLab solutions. The knowledge base is a living library that is updated and expanded by questionnaires from our prospects and customers. These questionnaires are related to efforts such as RFx requests, third party risk assessments, and supplier due diligence requests. The knowledge base is designed to serve both Field Security and all other team members.
 
 ## How can I use the knowledge base?
 
@@ -28,7 +28,7 @@ The knowledge base is powered by our Trust Center tool, [SafeBase](https://app.s
 
 Please check out this [page](https://help.safebase.io/en/articles/6117207-knowledge-base-overview#h_615c8940e2) to learn more about how to navigate the Knowledge Base!
 
-When you have Knowledge Base viewer access, you will also be able to access the Q&As through **Slack!** Just type **/kb-search *security keywords*** into any Slack channel to view potential answers. A link is available to view the entries in SafeBase as well. This will be very handy especially during customer meetings when requiring a timely answer to a relevant security question.
+When you have Knowledge Base viewer access, you will also be able to access the Q&As through **Slack!** Just type **/kb-search *security keywords*** into any Slack channel to view potential answers. A link is available to view the entries in SafeBase as well.
 
 ## Maintenance and Improvements
 

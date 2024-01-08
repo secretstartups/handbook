@@ -25,7 +25,7 @@ We will start all CAA requests (with the exception of Contract Reviews) by **sha
 
 ### For Questionnaires
 
-The process will be directly be handled in SafeBase. Customers/prospects who have access to the [Trust Center](https://trust.gitlab.com) can directly upload questionnaires by clicking the *Submit a Questionnaire* link at the top of the Trust Center.
+The process will be handled in SafeBase. Customers/prospects who have access to the [Trust Center](https://trust.gitlab.com) can directly upload questionnaires by clicking the *Submit a Questionnaire* link at the top of the Trust Center.
 
 ### For Customer Calls and General Requests
 
