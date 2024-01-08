@@ -6,15 +6,15 @@ description: "Tableau at GitLab"
 
 ## Tableau Administration Guide
 
-This page is describing to the processes of administering the Tableau sites managed by GitLab.  Additional runbooks, scripts, tools and repositories related to the is process will be lined thought this guide.
+This page describes the processes used to administer the Tableau sites managed by GitLab.  Additional run books, scripts, tools and repositories related to the processes will be referenced throughout this guide.
 
 ## Sites
 
-GitLab currently maintains three different Tableau sites for different purposes: The main site, the public site, and the sandbox.  The main site is were all of the workbook and datasource development takes place and is the site and team member can request a license to use.  The public site is used to host the workbooks that are intended to be embedded in the public handbook and viewed by anyone visiting the handbook page, team members do not have direct access to this site and no general workbook development takes place on this site.  The sandbox site is used for testing of scripts and features in an environment that will not disrupt the main site, no general workbook development takes place on this site.
+GitLab currently maintains three different Tableau sites for different purposes: The main site, the public site, and the sandbox.  The main site is where all of the workbook and datasource development takes place and is the site team members can request a license to use.  The public site is used to host the workbooks that are intended to be embedded in the public handbook and viewed by anyone visiting the handbook page.  Team members do not have direct access to the public site and no general workbook development takes place on this site.  The sandbox site is used for testing of scripts and features in an environment that will not disrupt the main site. No general workbook development takes place on the sandbox site.
 
 ## Tools
 
-The TableauConMan tool is developed in house to assist in automating several aspects of administering Tableau.  With orchestration in Airflow and a series of configuration files knows as plans it currently performers the following functions:
+The TableauConMan tool is developed in house to assist in automating several aspects of administering Tableau.  With orchestration in Airflow and a series of configuration files known as plans, it currently performers the following functions:
 
 - Sync content to the public site
 - Manage groups and group membership on the main site
@@ -31,11 +31,11 @@ A users group membership is managed using the TableauConMan tool, see Group Mana
 
 ### Public Site
 
-For the public site users login directly and do not use Okta.  The number of non viewer license on this site is limited so any active administration on the site should be done with the Analytics Service Account.
+For the public site users login directly and do not use Okta.  The number of non viewer licenses on this site is limited so any active administration on the site should be done with the Analytics Service Account.
 
 ### Sandbox Site
 
-For the sandbox site users login directly and do not use Okta.  The number of non viewer license on this site is limited so any active administration on the site should be done with the Analytics Service Account.
+For the sandbox site users login directly and do not use Okta.  The number of non viewer licenses on this site is limited so any active administration on the site should be done with the Analytics Service Account.
 
 ## Group Management
 
@@ -55,11 +55,11 @@ The groups for the sandbox site are manually maintained.  The general instructio
 
 ### Main Site
 
-The project structure for the main site is maintained manually and should match withe folder structure found in the Tableau repository.  This structure is used to enforce code over review of changes in the production project and the MR should with the requested changes should be approved before changes are made to the site.
+The project structure for the main site is maintained manually and should match the folder structure found in the Tableau repository.  This structure is used to enforce code reviews of changes in the production project and the MR with the requested changes should be approved before changes are made to the site.
 
 ### Public Site
 
-The project structure for the public site in maintained manually.  Many processes are dependant, content synchronization, and shareable content reports, on the project structure of the site and should should be made with this in mind.
+The project structure for the public site is maintained manually.  Many processes such as content synchronization and shareable content reports are dependent on the project structure of the site. Changes to the project structure should be made with this in mind.
 
 ### Sandbox Site
 
@@ -69,16 +69,16 @@ The project structure of the sandbox site does not need to be fixed to any speci
 
 ### Main Site
 
-The content permissions for the main site is maintained manually and should align with the Transparency value and only limit access to content when it is strictly needed.  Content permissions should only be granted to groups and not individual users.
+The content permissions for the main site are maintained manually and should align with the Transparency value and only limit access to content when it is strictly needed.  Content permissions should only be granted to groups and not individual users.
 
 ### Public Site
 
-The content permissions for the public site in maintained manually.  Many processes are dependant, content synchronization, and shareable content reports, on the content permissions of the site and should should be made with this in mind.
+The content permissions for the public site are maintained manually.  Many processes such as content synchronization and shareable content reports are dependent on the project structure of the site. Changes to the project structure should be made with this in mind.
 
 ### Sandbox Site
 
-The content permissions of the sandbox site does not need to be fixed to any specific structure.
+The content permissions of the sandbox site do not need to be fixed to any specific structure.
 
 ## Connected Applications
 
-Only the public site has a connected application that is used for viewing content embedded in the public handbook.  There are keys, secretes, and ids from this connected app that must be updated and shared with the handbook team: specifically the [cloud function](https://console.cloud.google.com/functions/details/us-central1/tableau-connected-app?env=gen2&hl=en&project=mcottrell-8f2b9454&tab=details) that authenticates the viewer on page load.
+Only the public site has a connected application that is used for viewing content embedded in the public handbook.  There are keys, secrets, and ids from this connected app that must be updated and shared with the handbook team: specifically the [cloud function](https://console.cloud.google.com/functions/details/us-central1/tableau-connected-app?env=gen2&hl=en&project=mcottrell-8f2b9454&tab=details) that authenticates the viewer on page load.
