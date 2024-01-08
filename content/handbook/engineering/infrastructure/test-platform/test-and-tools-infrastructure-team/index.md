@@ -121,24 +121,9 @@ graph LR
 
 ## How we work
 
-### Roadmap Planning
+### Guiding principle
 
-Cadence: Planned yearly, reviewed quarterly
-
-#### Pre-work and departmental sign-off
-
-Duration: ~3 weeks
-  - Our roadmap preparation is an intensive two-week process, led by a [DRI](https://handbook.gitlab.com/handbook/people-group/directly-responsible-individuals/). During this phase, DRIs take the lead in drafting the roadmap using [the roadmap prep-work template](https://gitlab.com/gitlab-org/quality/work-log/-/blob/main/templates/roadmap-pre-work-template.md?ref_type=heads) for necessary project tracks. This involves gathering inputs from the team, various stakeholders, assessing past performance, and aligning with the strategic goals of the Test and Tools Infrastructure Team. 
-  - Upon completion of the preparation phase, the roadmap from various project tracks is assembled into a handbook page MR and presented to the Test-Platform Sub-Department Director for review and sign-off. This ensures alignment with broader organizational objectives and secures executive buy-in.
-
-#### Translating the roadmap into actionable items
-
-Duration: ~1 week
-  - This translation process is meticulous, ensuring that each milestone is broken down into manageable, clearly defined tasks following the [issue creation guideline for tracks](../roadmap.md#overview).
-  - Project track specific GitLab board is created with the combination of epic, team label ~"team::Test and Tools Infrastructure" and the [Workflow Labels](../project-management/index.md#workflow-labels). 
-  - Each issues/epics in the roadmap is assigned to a DRI.  
-  - Epic, Issues and Boards are added to [Roadmap handbook page](./roadmap-test-and-tools-infrastructure.md).
-  - Our project tracks are guided by the [Lean Startup Principles](https://theleanstartup.com/principles), particularly the Build-Measure-Learn feedback loop, which emphasizes rapid prototyping, continuous iteration, and learning from real-world feedback. The stages include:
+Our project tracks are guided by the [Lean Startup Principles](https://theleanstartup.com/principles), particularly the Build-Measure-Learn feedback loop, which emphasizes rapid prototyping, continuous iteration, and learning from real-world feedback. The stages include:
     
     ```mermaid
     graph LR
@@ -149,22 +134,30 @@ Duration: ~1 week
         D --> E[Guardrailing]
         E --> F[Monitoring]
 
-        B -->|Learn Phase| G[Understand Customer Needs]
-        C -->|Fail-Fast Mechanism| H[Create MVP]
-        D -->|Agility & Scaling| I[MVC Iteration]
-        E -->|Prevent Regression| J[Process & Technology Guardrails]
+        B -->|Learn Phase| G[Understand Developer Needs]
+        C -->|Fail-Fast Mechanism| H[Create POC]
+        D -->|Agility & Scaling| I[MVC iteration]
+        E -->|Prevent Regression| J[Process & technology guardrails to prevent fallback]
         F -->|Data-Driven| K[User Feedback & Business Metrics]
     ```
 
-#### Roadmap review and reporting
+### How we plan our feature work
+  - Each financial year, we develop a clear roadmap for the team to enhance visibility and alignment.
+  - Our roadmap preparation is an intensive month long exercise (usually last month of Q4), led by a [DRI](https://handbook.gitlab.com/handbook/people-group/directly-responsible-individuals/). During this phase, DRIs take the lead in drafting the roadmap using [the roadmap prep-work template](https://gitlab.com/gitlab-org/quality/work-log/-/blob/main/templates/roadmap-pre-work-template.md?ref_type=heads) for necessary project tracks. This involves gathering inputs from the team, various stakeholders, assessing past performance, and aligning with the strategic goals of the Test and Tools Infrastructure Team. 
+  - Upon completion of the preparation phase, the roadmap is presented to the Test-Platform leadership for review and sign-off. This ensures alignment with broader organizational objectives and secures executive buy-in.
+  - This translation process is meticulous, ensuring that each milestone is broken down into manageable, clearly defined tasks following the [issue creation guideline for tracks](../roadmap.md#overview). 
+  - Project track specific [GitLab issue board](https://docs.gitlab.com/ee/user/project/issue_board.html) is created with the combination of epic, team label ~"team::Test and Tools Infrastructure" and the [Workflow Labels](../project-management/index.md#workflow-labels). 
+  - Each issues/epics in the roadmap is assigned to a DRI.  
   - Adhering to our team's [bi-weekly ritual](#team-meeting-and-demos-sync), we conduct reviews to assess progress, address challenges, and recalibrate goals if necessary.
   - We provide comprehensive quarterly reports using this [template](https://gitlab.com/gitlab-org/quality/work-log/-/blob/main/templates/quarterly-business-report-template.md?ref_type=heads), detailing the progress of our roadmap initiatives contributing to transparent communication and strategic planning for upcoming quarters.
+  - We ensure adjusting the roadmap in each quarter based on the change in business priority.
 
-### Support Assistance
+
+### How we plan support assistance
   - Around 20% of weekly time is set aside for support tasks, balancing our roadmap work with emerging support needs.
   - Team members actively monitors `#test-platform`, `#test-tools-infrastructure-team` channels and issues related to Test and Tools Infrastructure. 
   - Relevant support requests are converted into issues in [team-tasks project](https://gitlab.com/gitlab-org/quality/quality-engineering/team-tasks). Add `~"team::Test and Tools Infrastructure"` label in the issues to track it in the [team's support request board](https://gitlab.com/gitlab-org/quality/quality-engineering/team-tasks/-/boards/7253736?label_name%5B%5D=team%3A%3ATest%20and%20Tools%20Infrastructure). For our team, creating issues is essential, including those swiftly resolved on Slack, as it documents problems and solutions for a complete record and tracks the effort outside of regular project tracks.
-  - Ensure each issue is tagged with one of `~"type::feature"`, `~"type::bug`, `~"type::maintenance` following [workflow classification guidelines](https://handbook.gitlab.com/handbook/engineering/metrics/#work-type-classification).
+  - Ensure each issue is tagged with one of `~"type::feature"`, `~"type::bug`, `~"type::maintenance` following [workflow classification guidelines](handbook/engineering/metrics/#work-type-classification).
   - Team members analyze the issue and add a priority based on the [Reliability Department's prioritization framework](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues/#priority). P1 issues will be taken up on an urgent basis the same week based on the availability of the relevant team members. Lower-priority issues are scheduled for review and discussion in our next bi-weekly meeting for capacity planning.
   - The issues should be following the [workflow label guidelines](../project-management/index.md#workflow-labels).
 
