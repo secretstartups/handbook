@@ -119,7 +119,6 @@ graph LR
        2. Keep updating the worklog each week.
        3. Once the quarter ends, add a summary of the major contributions of the quarter to the description. 
 
-## How we work
 
 ### Guiding principle
 
@@ -141,7 +140,9 @@ Our project tracks are guided by the [Lean Startup Principles](https://theleanst
         F -->|Data-Driven| K[User Feedback & Business Metrics]
     ```
 
-### How we plan our feature work
+### Project Management
+
+#### Feature work
   - Each financial year, we develop a clear roadmap for the team to enhance visibility and alignment.
   - Our roadmap preparation is an intensive month long exercise (usually last month of Q4), led by a [DRI](https://handbook.gitlab.com/handbook/people-group/directly-responsible-individuals/). During this phase, DRIs take the lead in drafting the roadmap using [the roadmap prep-work template](https://gitlab.com/gitlab-org/quality/work-log/-/blob/main/templates/roadmap-pre-work-template.md?ref_type=heads) for necessary project tracks. This involves gathering inputs from the team, various stakeholders, assessing past performance, and aligning with the strategic goals of the Test and Tools Infrastructure Team. 
   - Upon completion of the preparation phase, the roadmap is presented to the Test-Platform leadership for review and sign-off. This ensures alignment with broader organizational objectives and secures executive buy-in.
@@ -153,10 +154,10 @@ Our project tracks are guided by the [Lean Startup Principles](https://theleanst
   - We ensure adjusting the roadmap in each quarter based on the change in business priority.
 
 
-### How we plan support assistance
-  - Around 20% of weekly time is set aside for support tasks, balancing our roadmap work with emerging support needs.
-  - Team members actively monitors `#test-platform`, `#test-tools-infrastructure-team` channels and issues related to Test and Tools Infrastructure. 
-  - Relevant support requests are converted into issues in [team-tasks project](https://gitlab.com/gitlab-org/quality/quality-engineering/team-tasks). Add `~"team::Test and Tools Infrastructure"` label in the issues to track it in the [team's support request board](https://gitlab.com/gitlab-org/quality/quality-engineering/team-tasks/-/boards/7253736?label_name%5B%5D=team%3A%3ATest%20and%20Tools%20Infrastructure). For our team, creating issues is essential, including those swiftly resolved on Slack, as it documents problems and solutions for a complete record and tracks the effort outside of regular project tracks.
+## Working with us
+We estimate ~20% of weekly time for support tasks, and balancing our roadmap work with emerging support needs. Please note this estimate varies depending upon ongoing priorities. 
+  - For individual questions please reach out to the team via our slack channels: `#test-platform`, `#test-tools-infrastructure-team`.
+  - Raise support requests as issues in [team-tasks project](https://gitlab.com/gitlab-org/quality/quality-engineering/team-tasks). Add `~"team::Test and Tools Infrastructure"` label in the issues to track it in the [team's support request board](https://gitlab.com/gitlab-org/quality/quality-engineering/team-tasks/-/boards/7253736?label_name%5B%5D=team%3A%3ATest%20and%20Tools%20Infrastructure). 
   - Ensure each issue is tagged with one of `~"type::feature"`, `~"type::bug`, `~"type::maintenance` following [workflow classification guidelines](handbook/engineering/metrics/#work-type-classification).
   - Team members analyze the issue and add a priority based on the [Reliability Department's prioritization framework](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues/#priority). P1 issues will be taken up on an urgent basis the same week based on the availability of the relevant team members. Lower-priority issues are scheduled for review and discussion in our next bi-weekly meeting for capacity planning.
   - The issues should be following the [workflow label guidelines](../project-management/index.md#workflow-labels).
