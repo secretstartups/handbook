@@ -21,17 +21,17 @@ Before you get started, complete the following:
 
 1. On your local computer, open a terminal window.
 
-1. Use your assigned IP address and SSH key file to log in to the server that will host your GitLab Omnibus install:
+2. Use your assigned IP address and SSH key file to log in to the server that will host your GitLab Omnibus install:
 
 ```bash
 ssh -i <keyfile_name> ec2-user@<vm_ip_address>
 ```
 
-1. Press <kbd>Enter</kbd>.
+3. Press <kbd>Enter</kbd>.
 
-1. If your system displays an authentication warning, type `yes` and press <kbd>Enter</kbd>.
+4. If your system displays an authentication warning, type `yes` and press <kbd>Enter</kbd>.
 
-1. If you encounter an error warning about an unprotected private key file, use the commmand below to set the permissions of the file:
+5. If you encounter an error warning about an unprotected private key file, use the commmand below to set the permissions of the file:
 
 ```bash
 chmod 400 <keyfile_name>
@@ -47,7 +47,7 @@ After you run the command, rerun the command in step 1 of Task A.
 sudo dnf install -y curl policycoreutils perl postfix
 ```
 
-1. Start and enable Postfix using the ```systemctl enable``` and the ```systemctl start``` commands:
+2. Start and enable Postfix using the ```systemctl enable``` and the ```systemctl start``` commands:
 
 ```bash
 sudo systemctl enable postfix
@@ -62,7 +62,7 @@ sudo systemctl start postfix
 curl https://packages.gitlab.com/install/repositories/gitlab/gitlab-ee/script.rpm.sh | sudo bash
 ```
 
-1. Install the GitLab package using the command below. Use your training system's assigned public IP address in lieu of a fully qualified domain name.
+2. Install the GitLab package using the command below. Use your training system's assigned public IP address in lieu of a fully qualified domain name.
 
 ```bash
 sudo EXTERNAL_URL="YOUR_ASSIGNED_PUBLIC_IP" dnf install -y gitlab-ee
@@ -78,19 +78,19 @@ sudo EXTERNAL_URL="YOUR_ASSIGNED_PUBLIC_IP" dnf install -y gitlab-ee
 sudo cat /etc/gitlab/initial_root_password
 ```
 
-1. Copy the password shown in the output to your clipboard.
+2. Copy the password shown in the output to your clipboard.
 
-1. Using a web browser, navigate to `http://YOUR_ASSIGNED_PUBLIC_IP/`. Use your IP address, and not the fully qualified domain name.
+3. Using a web browser, navigate to `http://YOUR_ASSIGNED_PUBLIC_IP/`. Use your IP address, and not the fully qualified domain name.
 
-1. To log in, type in `root` as your username, and the password copied previously for your password.
+4. To log in, type in `root` as your username, and the password copied previously for your password.
 
-1. Once logged in, in the upper left corner of the GitLab landing page, select your root user avatar, then **Edit Profile**.
+5. Once logged in, in the upper left corner of the GitLab landing page, select your root user avatar, then **Edit Profile**.
 
-1. In the left navigation pane **User Settings**, select **Password**.
+6. In the left navigation pane **User Settings**, select **Password**.
 
-1. In the **Current password** text box, enter the temporary root password used for initial login.
+7. In the **Current password** text box, enter the temporary root password used for initial login.
 
-1. Complete the remaining fields with a new, permanent password of your choosing.
+8. Complete the remaining fields with a new, permanent password of your choosing.
 
 ## Lab Guide Complete
 
