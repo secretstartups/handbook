@@ -66,6 +66,5 @@ The visibility & observability of build speed for customer jobs will not be scop
 | Member                | Grzegorz Bizon @grzesiek |
 | Member                | Arran Walker @ajwalker |
 | Member                | Oliver Falk @ofalk |
-| Member                | Michael Friedrich @dnsmichi |
 | Member                | Marius Bobin @mbobin |
 | Member                | Cheryl Li @cheryl.li |
