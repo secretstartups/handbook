@@ -3,7 +3,7 @@ title: "Test and Tools Infrastructure Team"
 description: "Test and Tools Infrastructure Team in Test Platform sub-department"
 ---
 
-## Team handles
+## Common Links
 
 | **Category**            | **Handle** |
 |-------------------------|-------------|
@@ -13,7 +13,7 @@ description: "Test and Tools Infrastructure Team in Test Platform sub-department
 | **Team Boards**         | [`Board`](https://gitlab.com/groups/gitlab-org/-/boards/7168288?label_name[]=team%3A%3ATest%20and%20Tools%20Infrastructure) |
 | **Issue Tracker**       | [`quality/team-tasks`](https://gitlab.com/gitlab-org/quality/team-tasks/issues/) |
 
-## Team vision
+## Vision
 
 The Test & Tools Infrastructure team, under the [Test Platform sub-department](../_index.md) at GitLab, aspires to be a pioneering force in the innovation and maintenance of advanced testing frameworks and test infrastructure to support Gitlab's principle of [Quality is everyone's responsibility](https://about.gitlab.com/handbook/engineering/quality/#our-principles).
 
@@ -23,7 +23,7 @@ As an integral part of our vision, we aim to:
 - Leverage [`dogfooding`](https://about.gitlab.com/handbook/engineering/infrastructure/#dogfooding) to prepare, build, deliver test tooling that improves the product itself.
 - Align our strategy with the industry trends, company direction, and customer needs.
 
-## Team mission
+## Mission
 
 The key components of our mission are to:
 - **Make testing simple** to enable easy contribution from everyone in the testing process, including test creation, execution, and debugging. This approach democratizes testing and fosters a culture of collective responsibility for quality.
@@ -56,7 +56,7 @@ graph LR
     D --> D3[Test Advocacy<br>Promoting best testing practices and process improvement]
 ```
 
-## Team Rituals
+## How we work
 
 - We prioritize asynchronous communication and a handbook-first approach, in line with GitLab's all-remote, timezone-distributed structure.
 - We emphasize the [Maker’s Schedule](http://www.paulgraham.com/makersschedule.html), focusing on productive, uninterrupted work.
@@ -64,21 +64,22 @@ graph LR
 - We reserve approximately 3-4 hours per week of focus time for learning new technologies and conducting research work, ensuring our team stays abreast of industry trends and fosters innovation in our projects. This time is dedicated to exploring emerging tools, deep-diving into subjects relevant to our work, engaging in self-directed learning, and experimenting with new ideas or proof-of-concepts. Team members have their calendars marked with this dedicated learning time. Any new meeting requests during these hours should be communicated beforehand, respecting this essential personal and professional development period.
 - All meeting agendas could be found in the [Team Shared Drive](https://drive.google.com/drive/folders/1uZg0J5hYsOUu3WMNR-PoAcmrhhmDxxoA?usp=drive_link) as well as in the meeting invite.
 
-### Work Related Rituals
-#### Standup Notes [Async]
-- **Cadence**: Daily
+### Work related rituals
+
+#### Standup notes [async]
+- **Cadence**: Twice a week (Tuesday and Thursday)
 - **Guidelines**:
     1. Share daily plans via Geekbot update in `#test-tools-infrastructure-team`.
     2. Keep updates concise and focused.
 
-#### End-of-Week Status Update [Async]
+#### End-of-Week status update [async]
 - **Cadence**: Every Thursday EOD
 - **Guidelines**:
     1. The weekly update comment should summarize the current status, progress and remaining work with ETA, confidence in completion, upcoming steps, and highlight any areas requiring help or support.
     2. Some good examples for the EOW updates can be found [here](https://gitlab.com/groups/gitlab-org/-/epics/8628#note_1090732793) and [here](https://gitlab.com/groups/gitlab-org/-/epics/5152#note_1029337901). Tag the required individuals along with the manager of the team in the EOW updates. 
     3. **Ensure that issues and epics are updated by Thursday of each week**. This allows for a comprehensive summary to be provided to the `#test-platform` sub-department channel on Friday, enhancing overall visibility and coordination.
 
-#### Monthly Retrospective [Async]
+#### Monthly retrospective [async]
 - **Cadence**: Monthly
 - **Guidelines**:
     1. Contribute to the retrospective issue created in the [Quality Retrospective project](https://gitlab.com/gl-retrospectives/quality). The retrospective issue will be automatically created and shared in the `#test-platform-lounge` channel on the first Monday of every month.
@@ -86,7 +87,7 @@ graph LR
     3. Engineering Manager to summarize action items by the end of the week. The kudos will also be summarized and shared to `#thanks` for organization visibility.
     4. The team retrospective will be in line with [Gitlab's retrospective guidelines](/handbook/engineering/management/group-retrospectives/)
 
-#### Team Meeting and Demos [Sync]
+#### Team meetings and demos [sync]
 - **Cadence**: Bi-weekly on Tuesday, 45 mins
 - **Guidelines**:
     1. Bi-weekly meetings will occur within Project tracks and within working groups. Time zone differences will lead to segmented meetings. Solo project track members may opt for asynchronous updates and detailed discussions in 1:1s.
@@ -96,21 +97,20 @@ graph LR
        2. Add it to the [Test Platform  department's](https://www.youtube.com/playlist?list=PL05JrBw4t0KpZUzlEnvlvBtf_NwShU_ot) playlist.
        3. Share it to `#test-tools-infrastructure-team` and cross-post to `#test-platform`.
 
-#### Social Hours [Sync]
+#### Social hours [sync]
 - **Cadence**: Quarterly
 - **Guidelines**:
     1. This is a virtual team building activity adhering to the [Gitlab's team building policy](/handbook/finance/expenses/#team-building).
     2. Social hours will be organized across different time zones, in sync with the `test-platform` sub-department's schedule.
 
-### Personal/Career Development Rituals
-#### Weekly 1:1 Meeting with Engineering Manager
+#### Weekly 1:1 meeting with Engineering Manager
 - **Cadence**: Weekly, 25 mins
 - **Guidelines**:
     1. Discuss both professional and personal development goals.
     2. Maintain confidentiality and openness.
     3. Follow the [1:1 process](/handbook/leadership/1-1/) mentioned in the handbook. 
 
-#### Goal Setting & Review
+#### Goal setting & review
 - **Guidelines**:
     1. We follow the [individual gowth plan model](/handbook/people-group/learning-and-development/career-development/igp-guide/). The process of launching your IGP is documented [here](/handbook/people-group/learning-and-development/career-development/igp-guide/).
     4. Leverage 1:1s with your manager to discuss the progress on the goals and next steps. 
@@ -119,27 +119,27 @@ graph LR
        2. Keep updating the worklog each week.
        3. Once the quarter ends, add a summary of the major contributions of the quarter to the description. 
 
-### Project Management
+### Project management
 
 #### Guiding principle
 
 Our project tracks are guided by the [Lean Startup Principles](https://theleanstartup.com/principles), particularly the Build-Measure-Learn feedback loop, which emphasizes rapid prototyping, continuous iteration, and learning from real-world feedback. The stages include:
     
-    ```mermaid
-    graph LR
-        A[Build-Measure-Learn Feedback Loop]
-        A --> B[Discovery]
-        B --> C[Prototyping]
-        C --> D[Implementation]
-        D --> E[Guardrailing]
-        E --> F[Monitoring]
+```mermaid
+graph LR
+    A[Build-Measure-Learn Feedback Loop]
+    A --> B[Discovery]
+    B --> C[Prototyping]
+    C --> D[Implementation]
+    D --> E[Guardrailing]
+    E --> F[Monitoring]
 
-        B -->|Learn Phase| G[Understand Developer Needs]
-        C -->|Fail-Fast Mechanism| H[Create POC]
-        D -->|Agility & Scaling| I[MVC iteration]
-        E -->|Prevent Regression| J[Process & technology guardrails to prevent fallback]
-        F -->|Data-Driven| K[User Feedback & Business Metrics]
-    ```
+    B -->|Learn Phase| G[Understand Developer Needs]
+    C -->|Fail-Fast Mechanism| H[Create POC]
+    D -->|Agility & Scaling| I[MVC iteration]
+    E -->|Prevent Regression| J[Process & technology guardrails to prevent fallback]
+    F -->|Data-Driven| K[User Feedback & Business Metrics]
+```
 
 #### Feature work
   - Each financial year, we develop a clear roadmap for the team to enhance visibility and alignment.
