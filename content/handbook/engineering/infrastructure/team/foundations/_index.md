@@ -19,7 +19,7 @@ The Foundations Team supports the rest of Infrastructure and Development by prov
 
 We envision providing services that are delightfully simple for other teams to understand and use, through opinionated and clear interfaces, automation and excellent documentation.
 
-Several areas make up this vision and are captured in our [technical roadmap](technical-roadmap.md).
+Several areas make up this vision and are captured in our [technical roadmap](technical-roadmap).
 
 ## Responsibilities
 
