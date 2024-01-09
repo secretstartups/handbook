@@ -164,4 +164,6 @@ It is now possible to check table and field lineage from our raw models to Table
 
 The Sisense integration and Tableau integration coexist on Monte Carlo and all related Sisense charts as well as Tableau objects can be seen on the lineage charts.
 
+## Internal Monte Carlo handbook page
+
 Additional internal information is available in our [Internal GitLab Handbook](https://internal.gitlab.com/handbook/enterprise-data/platform/monte-carlo).
