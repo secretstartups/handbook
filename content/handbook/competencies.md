@@ -104,7 +104,7 @@ Test your knowledge and self-reflect on the Remote Work Competencies by completi
 ### Functional Competencies
 
 1. [Field Competencies](/handbook/sales/training/field-functional-competencies/)
-1. [Engineering Competencies](/handbook/engineering/career-development/matrix/engineering/)
+1. [Engineering Competencies](/handbook/engineering/careers/matrix/)
 1. [Product Management Competencies](/handbook/product/product-manager-role/product-CDF-competencies/)
 
 ### Manager and Leadership Competencies
