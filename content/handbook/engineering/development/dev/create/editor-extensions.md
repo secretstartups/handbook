@@ -17,8 +17,6 @@ The Create:Editor Extensions Group is responsible for all aspects of the product
 
 ### Stable counterparts
 
-<!-- TODO: replace this list with a call to stable_counterparts(...) once titles have been updated -->
-
 The following people are [stable counterparts](/handbook/leadership/#stable-counterparts) of the Create:Editor Extensions Group:
 
 {{< group-by-slugs dashaadu amyqualls jay_mccure >}}
