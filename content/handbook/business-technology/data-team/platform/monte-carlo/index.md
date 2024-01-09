@@ -163,3 +163,5 @@ However, recently we have started migrating to Tableau and therefore we have add
 It is now possible to check table and field lineage from our raw models to Tableau objects, such as Tableau Views, Tableau Live Data Sources or Tableau Extract Data Sources.
 
 The Sisense integration and Tableau integration coexist on Monte Carlo and all related Sisense charts as well as Tableau objects can be seen on the lineage charts.
+
+Additional internal information is available in our [Internal GitLab Handbook](https://internal.gitlab.com/handbook/enterprise-data/platform/monte-carlo).
