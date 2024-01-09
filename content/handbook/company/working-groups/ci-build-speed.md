@@ -38,7 +38,8 @@ Additionally, new players are entering the market advocating for up to 5x GitLab
 
 | Topic                     | DRI                |
 |---------------------------|------------------------|
-| CI benchmarking framework | tbd |
+| CI benchmarking framework - Design doc | @grzesiek |
+| CI benchmarking framework - Implementation | tbd |
 | Competitor analysis       | tbd |
 | Technical improvements    | tbd |
 | Product recommendation    | @gabrielengel_gl |
