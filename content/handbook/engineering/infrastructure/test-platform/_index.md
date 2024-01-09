@@ -30,7 +30,7 @@ Our vision is to be world-class Test Platform sub-department that enables succes
 1. Reliable platform: This includes monitoring the platform for performance issues, implementing security measures, and conducting capacity planning to ensure that the platform can handle the expected load.
 1. Technical Support and Expertise: By providing technical support and expertise to development teams, test platform teams can help to solve complex technical challenges and ensure that applications are built with utmost quality.
 
-## FY24 Direction
+Team mission is to:
 
 - Continue to be focused on innovative test architecture, efficiency, and customer results while delivering impact to the company's bottomline via alignment to the [top cross-functional initiatives](/handbook/company/team/structure/working-groups/#top-cross-functional-initiatives). 
 - Broaden our lead in ensuring self-managed excellence, improve deployment confidence, drive visibility and actionability of test results, and expand our Quality Architecture focus. 
