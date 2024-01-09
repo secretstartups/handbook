@@ -86,6 +86,16 @@ Keep these sections sorted alphabetically. They are headers so that they can be 
 - Title: RubyResolve error when calling ActiveRecord dynamically defined attribute methods from within an `if` block on ActiveRecord lifecycle methods
 - Link: <https://youtrack.jetbrains.com/issue/RUBY-32287>
 
+### RUBY-32301
+
+- Title: Unable to find associated model/association in GitLab application
+- Link: https://youtrack.jetbrains.com/issue/RUBY-32301
+- Notes:
+  - This is currently un-resolvable due to the amount of metaprogramming and indirection involved with how we mix in the `EE` modules.
+  - Comment from JetBrains on the issue:
+    _"...it looks like RubyMine is unable to understand the relationship here due to the alternative definition approach with `prepended` from `ee/app/models/ee/clusters/agent.rb`. `Prependable` seems to be a custom approach to prepending code in GitLab,
+    and we don't have any recognition of it. Unfortunately I don't have any workarounds for this right now, but we can leave the ticket open in case we think of something."_
+
 ## Closed Issues
 
 ### RUBY-31540
