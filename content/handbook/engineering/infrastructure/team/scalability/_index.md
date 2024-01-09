@@ -3,7 +3,8 @@ title: "Scalability Group"
 ---
 
 ## Common Links
-
+| | |
+| --- | --- |
 | **Workflow** | [Team workflow](/handbook/engineering/infrastructure/team/scalability/#how-we-work) |
 | **GitLab.com** | `@gitlab-org/scalability` |
 | **Issue Trackers** | [Scalability](https://gitlab.com/gitlab-com/gl-infra/scalability) |

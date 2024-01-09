@@ -3,20 +3,17 @@
 title: Incident Management
 ---
 
-
-
-
-
-
-
+{{% alert color="warning" %}}
 If you're a GitLab team member and are looking to alert Reliability Engineering about an availability issue with GitLab.com, please find quick instructions to report an incident here: [Reporting an Incident](#reporting-an-incident).
-{: .alert .alert-danger}
+{{% /alert %}}
 
+{{% alert color="warning" %}}
 If you're a GitLab team member looking for who is currently the Engineer On Call (EOC), please see the [Who is the Current EOC?](#who-is-the-current-eoc) section.
-{: .alert .alert-info}
+{{% /alert %}}
 
+{{% alert color="warning" %}}
 If you're a GitLab team member looking for the status of a recent incident, please see the incident [board](https://gitlab.com/gitlab-com/gl-infra/production/-/boards/1717012?&label_name%5B%5D=incident). For detailed information about incident status changes, please see the [Incident Workflow](#incident-workflow) section.
-{: .alert .alert-info}
+{{% /alert %}}
 
 ## Incident Management
 
