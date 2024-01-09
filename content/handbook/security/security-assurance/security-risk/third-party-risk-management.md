@@ -191,6 +191,7 @@ Security Risk maintains multiple templated versions of the SIG questionnaire for
         - L. Compliance Management
         - M. Endpoint Security
         - N. Network Security
+        - O. Environmental, Social, Governance (ESG)
         - P. Privacy Management
         - R. Artificial Intelligence
         - S. Supply Chain Risk Mgmt
