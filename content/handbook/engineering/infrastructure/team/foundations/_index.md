@@ -5,13 +5,13 @@ title: "Production Engineering Foundations Team"
 
 ## Mission
 
-The mission of the Production Engineering Foundations team at GitLab is to Build, Run and Own the entire lifecycle of the core infrastructure for GitLab.com.
+The mission of the Production Engineering Foundations team at GitLab is to Build, Run and Own the lifecycle of the core infrastructure for GitLab Saas instances.
 
-The team is focused on owning the reliability, scalability, and security of the existing core infrastructure. We seek to reduce the effort required to provide our core infrastructure services, and to enable other teams to self-serve core infrastructure that allows them to more efficiently/effectively run their services for GitLab.com.
+The team is focused on owning the reliability, scalability, and security of the core infrastructure. We seek to reduce the effort required to provide our core infrastructure services, and to enable other teams to self-serve core infrastructure that allows them to more efficiently and effectively run their services for GitLab.com.
 
-Given the integral nature of the services we own, the team is committed to close collaboration with other teams - for example Delivery, Observability, InfraSec and others - to ensure alignment and coordination of efforts.
+Given the integral nature of the services we own, the team is committed to close collaboration with other teams - for example Delivery, Scalability, Dedicated, InfraSec and others - to ensure alignment and coordination of efforts.
 
-While the team does not explicitly have any product responsibilities, we endeavor to contribute the lessons we learn from running at-scale production systems back to the product teams, and advocate for GitLab to contain features that would allow us to DogFood.
+We endeavor to contribute the lessons we learn from running at-scale production systems back to the product teams, and advocate for GitLab to contain features that would allow us to DogFood.
 
 ## Vision
 
@@ -19,13 +19,17 @@ The Foundations Team supports the rest of Infrastructure and Development by prov
 
 We envision providing services that are delightfully simple for other teams to understand and use, through opinionated and clear interfaces, automation and excellent documentation.
 
-## Ownership
+Several areas make up this vision and are captured in our [technical roadmap](technical-roadmap.md).
+
+## Responsibilities
 
 ### Services
 
 The Services that the Foundations team is responsible for fall into two general categories: Core and Edge.
 
 #### Core
+
+Core services are services that are within GitLab's ecosystem, generally not talking directly to incoming traffic.
 
 | Service | Description | Co-Ownership? |
 | ------- | ----------- | --------- |
@@ -37,6 +41,8 @@ The Services that the Foundations team is responsible for fall into two general 
 
 #### Edge
 
+Edge services are services that sit at the [network edge](https://www.cloudflare.com/learning/serverless/glossary/what-is-edge-computing/), or more generally, services that process inbound traffic.
+
 | Service | Description | Co-Ownership? |
 | ------- | ----------- | --------- |
 | CDN | [Cloudflare](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/cloudflare) | |
@@ -45,17 +51,6 @@ The Services that the Foundations team is responsible for fall into two general 
 | Networking | [Cloud VPCs](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/uncategorized/subnet-allocations.md), [Cloudflare](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/cloudflare) | |
 | Rate Limiting | [Rate limiting](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/rate-limiting) | shared ownership with development teams for specific endpoints and with abuse |
 | RBAC/IAM | [Teleport](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/teleport), GCP IAM permissions and project creation | |
-
-
-### Overlap
-
-Given the nature of this team's scope, several services the Foundation team works with are either co-owned by other teams or directly impact their work, as noted above.
-
-
-## Who are our Stakeholders?
-
-Our primary customers are other teams in the Infrastructure department. Our services have particular overlap and impact on the Delivery teams, Scalability, and Ops.
-Other teams outside of Infrastructure that we collaborate with regularly are Support and various teams in the Security organization.
 
 ## Getting Assistance
 
@@ -67,6 +62,20 @@ Apply one of the following templates:
 - For issues pertaining to Cloudflare, use the [Cloudflare Troubleshooting template](https://gitlab.com/gitlab-com/gl-infra/production-engineering/-/issues/new?issuable_template=Cloudflare%20Troubleshooting)
 - For anything else, use the [request-foundations template](https://gitlab.com/gitlab-com/gl-infra/production-engineering/-/issues/new?issuable_template=request-foundations)
 
+- We also have team handles that ping the full team
+  - Slack: `@infra-foundations`
+  - GitLab: `@gitlab-org/production-engineering/foundations`
+
+### Triaging requests
+
+We triage requests during our weekly team syncs if they are not triaged ahead of time.
+
+  - We use [weights](#issue-weighting) to estimate the size of incoming issues. This helps not only in our planning efforts, it also helps to track our historical velocity.
+  - We review the assigned priority label and assign one if a priority label is missing.
+  - If the issue is deemed to be not actionable with the provided information, we will ask the issue creator for the required information. If we do not get any response within a 2 week timeframe, the issue will be closed with a note to the creator.
+  - Some issues are assessed to be no longer relevant, or the benefit is so outweighed by the cost of implementation that it is not worth doing. In those cases, we apply the label ~"workflow-infra::Cancelled" and close the issue with a note to the creator explaining our reasoning.
+  - Any triaged issues that are ready for work are brought to the weekly team syncs for discussion and assignment unless they are marked urgent (P1 or P2), in which case we will raise them immediately to the team via Slack.
+
 ### Priority Levels for Requests
 
 | Priority | Description | Engagement SLA |
@@ -76,7 +85,7 @@ Apply one of the following templates:
 | Priority::3 | Not currently a blocker but will be soon | Engage within a week |
 | Priority::4 | Not likely to be a blocker, this is a nice-to-have improvement or suggestion | Engage within a month |
 
-** Note: ** Due to the complexity of our systems, we cannot commit to a resolution-based SLA when you open an issue with a given priority level, because we don't know how long something will take to resolve, and there is often more information we need from the stakeholder or external customer, which takes time to obtain. Therefore, we can only commit to an SLA for how quickly we will engage with an issue and prioritize the work.
+**Note:** Due to the complexity of our systems, we cannot commit to a resolution-based SLA when you open an issue with a given priority level, because we don't know how long something will take to resolve, and there is often more information we need from the stakeholder or external customer, which takes time to obtain. Therefore, we can only commit to an SLA for how quickly we will engage with an issue and prioritize the work.
 
 We endeavor to triage incoming requests twice per week. If you have an issue that is very urgent and requires immediate attention (i.e. Priority 1), please also send us a link to the request issue in our Slack channel: [#g_infra_foundations](https://gitlab.slack.com/archives/C0313V3L5T6).
 
@@ -92,252 +101,106 @@ We endeavor to triage incoming requests twice per week. If you have an issue tha
   - Cost - Licensing costs when applicable, weighed against the cost of building and maintaining the tooling ourselves. Engineering time required to implement new tooling and maintain it, weighed against the benefit it brings.
   - License - Identify the specific license under which the open-source project is distributed (*GNU*, *MIT*, *ISC*, etc.). This allows us to ensure compatibility with other tools' licensing, contribute to the project if needed in the future, and understand the restrictions and risks associated with a specific license.
 
-## Technical Roadmap
+## Key Performance Indicators
 
-In support of our Mission and Vision, this is the direction of our work for FY24-FY25.
+KPIs for the team are currently under development in https://gitlab.com/gitlab-com/gl-infra/production-engineering/-/issues/24928.
 
-With the development of Cells, we understand there may be adjustments to this roadmap; however, given the reality that we will live in a hybrid state for a significant amount of time, the importance of making these improvements for gitlab.com is still relevant for both our own efficiency and workflows, and those of the teams we support.
+We also internally track team and internal customer satisfaction with regular surveys.
 
-#### Abstraction of Foundational Service provisioning for new projects
+### Internal survey results
 
-- Reduce stakeholder toil for new project creation by automatically deploying all Foundational Services necessary for a new environment upon creation (ex Vault, Consul, Monitoring, Access Management, etc)
-- Make environment creation a repetitive and standardized process
-- Required Work:
-  1. Tooling such as Crossplane and GitOps
-  1. Terraform modularization
-
-#### Dynamic Cluster Creation
-
-- This enables us automate spinning up new services and treat clusters like cattle, not pets.
-- Required work:
-  1. Change to using the upstream, official gke-terraform module and add needed customization via additional modules
-  1. Refactor our terraform modules to work dynamically
-
-#### GitOps implementation
-
-- This enables us to provision or commission dynamically created clusters by installing common base services that allow clusters to serve traffic (DNS, cert manager etc).
-- A necessary foundation for allowing services to be deployed independently in separate namespaces. This allows our stakeholders to deploy infrastructure independent of having access to the cluster.
-- Required work:
-  1. Implement a GitOps solution
-
-#### Robust, dynamic Ingress
-
-- Allows us to easily route traffic based on granularly defined constraints (example, send 5% of traffic to a different endpoint), to dynamically defined clusters.
-- Enables other teams to make changes to their own endpoints/routes, while the complexity of updating and making changes to routing configurations become non-disruptive by using ingress controllers and/or service mesh.
-- Allows us to move away from statically defined routing, and potentially result in significant cost savings by moving off of HAProxy.
-- Required work:
-  1. Implement a manifest-based, Kubernetes native Ingress
-  1. Iteratively migrate endpoints from HAProxy to the new Ingress
-
-#### Dynamic Secrets Management
-
-- Allows for automation of secrets rotation, onboarding new members and issuing temporary, single use tokens, while improving auditability.
-- Required work:
-  1. [Vault](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/vault) implementation is complete.
-  1. Our current instance is scalable. Whether we would need more than one instance for supporting Cells will depend on Compliance and Security requirements (tbd).
-  1. Continue to expand integration and adoption, by migrating secrets/tokens and onboarding other teams.
-
-#### Resource Management Interface
-
-- Enables delegating management of cloud provider resources (e.g. CloudSQL, Memorystore, GCS buckets) to stakeholders by using Kubernetes manifests, abstracts config management away from developers
-- Required work:
-  1. Implementing tooling like GCP's [Config Connector](https://cloud.google.com/config-connector/docs/overview) or [Crossplane](https://www.crossplane.io/)
-
-#### Infrastructure Access Management
-
-- Enables safe, live troubleshooting for developers by having direct access to various infrastructure resources (including logs and shell)
-- Required work:
-  1. Use Teleport to delegate namespaced roles with read-only defaults and requested write modes (in progress)
-  1. Implement tooling for k8s cluster access
-
-
-## Performance Indicators
-
-We've adopted a version of the SPACE framework for Performance Indicators.
+- Team Satisfaction - current status: green
+- Customer Satisfaction - current status: green (4.25/5.00)
 
 For more context, see the related [discussion issue](https://gitlab.com/gitlab-com/gl-infra/production-engineering/-/issues/19167).
 
-- Satisfaction ([DIB(https://handbook.gitlab.com/handbook/values/#diversity-inclusion)])
-  - Foundations Engineering Manager will send out a monthly team satisfaction survey with a range of questions that seek to capture a sense of trust, belonging, inclusion and feeling empowered.
-  - Success Criteria: no lower than 4 out of 5 average for questions around psychological safety, satisfaction with the team and feeling supported.
-  - Current status: green
-    - To encourage people to be as honest as possible, we are not sharing specific results beyond the team.
-- Performance ([Results](/handbook/values/#results))
-  - OKRs - OKRs are generated each quarter based on current commitments while also including spare capacity for unplanned work.
-    - Success Criteria: > 80% completion of OKRs
-    - Current Status: tbd pending final review of our cost savings efforts scores.
-    - OKR completion rates by quarter:
-      - ([FY24 Q2](https://gitlab.com/gitlab-com/gl-infra/production-engineering/-/issues/24202)): current 77.3%
-      - ([FY24 Q1](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=updated_desc&state=closed&label_name%5B%5D=Sub-Department%3A%3AReliability&label_name%5B%5D=Reliability%3A%3AFoundations&milestone_title=FY24-Q1&first_page_size=20)): 88%
-  - Service SLOs
-    - Success Criteria: Meets or Exceeds availability SLOs for services we own.
-    - TODO: Create and add link to overview dashboard
-- Activity ([Results](/handbook/values/#results))
-  - Corrective Actions Over Time (specific to the Foundations Team)
-    - Success Criteria: Meets or exceeds the [Reliability SLO](/handbook/engineering/infrastructure/team/reliability/issues.html#service-level-agreements)
-    - Current Status: Green for Sev 1 and Sev 2 CAs.
-  - Track the rate of closed MRs for projects for services we own.
-    - Success Criteria: TBD. Gather data to see if there is any correlation between MR activity and reliability numbers for services we own.
-  - TODO: Add Sisense or Tableau dashboards to visualize these issue metrics
-- Communication and [Collaboration](/handbook/values/#collaboration)
-  - Customer Satisfaction
-    - Foundations Engineering Manager will send out quarterly surveys to the rest of Infrastructure with questions regarding ease of collaboration, ease of getting needs met and pain points.
-    - Success Criteria: average rating of 4 out of 5 for questions about ease of collaboration and getting needs met.
-    - Current Status: Green
-    - Most recent Survey Results: [June 2023](https://docs.google.com/spreadsheets/d/1GWykJteo7dHRr3bkXz5oO1u8rf2S1ePRELgb_N4oy5s/edit?usp=sharing):
-      - How Easy is it to collaborate with Foundations? 4.25 out of 5
-      - How Easy is it to get help from Foundations? 4.25 out of 5
-- [Efficiency](/handbook/values/#efficiency) and Flow
-  - Issue/MR Metrics
-    - Issue Lead Time
-      - Success Criteria: Meets or exceeds current [Reliability SLO](/handbook/engineering/infrastructure/team/reliability/issues.html#service-level-agreements)
-    - Throughput times for MRs by team members
-      - Success Criteria: TBD
-    - TODO: Add Sisence or Tableau dashboards to visualize these metrics
-
 ## Team Members
 
-{{< team-by-manager-slug "amoter" >}}
+<!-- Uncomment and remove the manual table below -->
+<!-- when permanent manager has been set for the team -->
+<!-- {{< team-by-manager-slug "sabrams" >}} -->
+
+| Name | Role |
+| ---- | ---- |
+| [Steve Abrams](https://handbook.gitlab.com/handbook/company/team/#steve-abrams) | [Acting Engineering Manager](https://handbook.gitlab.com/job-families/engineering/infrastructure/engineering-management/#manager-engineering-scalability) |
+| [Marcel Chacon](https://handbook.gitlab.com/handbook/company/team/#mchacon3) | [Senior Site Reliability Engineer](https://handbook.gitlab.com/job-families/engineering/infrastructure/site-reliability-engineer/) |
+| [Pierre Guinoiseau](https://handbook.gitlab.com/handbook/company/team/#pguinoiseau) | [Senior Site Reliability Engineer](https://handbook.gitlab.com/job-families/engineering/infrastructure/site-reliability-engineer/) |
+| [Milad Irannejad](https://handbook.gitlab.com/handbook/company/team/#miladx) | [Senior Site Reliability Engineer](https://handbook.gitlab.com/job-families/engineering/infrastructure/site-reliability-engineer/) |
+| [Jack Stephenson](https://handbook.gitlab.com/handbook/company/team/#jcstephenson) | [Senior Site Reliability Engineer](https://handbook.gitlab.com/job-families/engineering/infrastructure/site-reliability-engineer/) |
+| [Sarah Walker](https://handbook.gitlab.com/handbook/company/team/#swalker) | [Site Reliability Engineer](https://handbook.gitlab.com/job-families/engineering/infrastructure/site-reliability-engineer/) |
+| [Adeline Yeung](https://handbook.gitlab.com/handbook/company/team/#ayeung) | [Site Reliability Engineer](https://handbook.gitlab.com/job-families/engineering/infrastructure/site-reliability-engineer/) |
 
 ## Key Technical Skills
 
 The Foundations Team must maintain a broad and diverse set of technical skills while also maintaining the ability to switch contexts frequently.  Some of these technical skills include:
 
  - Cloudnative Engineering - Proficiency in Kubernetes and the associated ecosystem of running cloudnative services.
-
  - Infrastructure as Code - Proficiency in Chef and Terraform
-
  - Network Systems - Understanding of network concepts and experience with our Edge stack (see Edge services above)
 
 ## Common Links
 
  - [Foundations Top Level Epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/1175)
- - Slack Channel: [#g_infra_foundations](https://gitlab.slack.com/archives/C0313V3L5T6)
  - [Foundations team meeting agenda](https://docs.google.com/document/d/1T5LIBt3RZR5TBLzkmRd08oMwfwiNFAr5ImPD5NP7lOw/edit?usp=sharing)
  - [Foundations OKRs](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=team%3A%3AFoundations&first_page_size=20)
+ - GitLab Issues capture smaller, concrete pieces of work, and those labeled `~workflow-infra::In Progress` should be updated weekly or whenever a portion of work has been completed.
+ - [#g_infra_foundations](https://gitlab.slack.com/archives/C0313V3L5T6) - work related discussions, external requests, etc
+ - [#g_infra_foundations_social](https://gitlab.slack.com/archives/C04QVEXBVL3) - socializing and standups
+ - [#g_infra_foundations_notifications](https://gitlab.slack.com/archives/C04RZC5TPPD) - automated MR notifications
+ - [#g_infra_foundations_alerts](https://gitlab.enterprise.slack.com/archives/C04Q7RQC7FF) - pipeline failures and service alerts
 
 ## How We Work
 
-### Values
+### Team Sync meetings
 
-In addition to striving to embrace GitLab's values, the Foundations team seeks to embody the following:
-
-- Excellence - We do work at a high technical standard, and build maintainable systems with a long term perspective.
-- Connection - We work in a way that is collaborative and feels connected to each other.
-- Fun! - While the work we do is important, we can laugh, make jokes and enjoy our work day to day.
-- Trust and Safety - We build trust by doing what we say we’re going to do when we say we’ll do it, or communicating clearly when and why that didn’t happen. We feel safe to show up and say what is on our minds. We feel safe asking for help.
-- Ownership - We are responsible for the services we own, and we can make considered decisions about the things we are responsible for, while caring about the stakeholders who consume our work.
-- Courage - We are willing to try new things in service of improving our infrastructure. We accept the associated risks and take responsibility when things go wrong.
-
-### Processes
-
-#### Team Sync meetings
-
-- We have weekly synchronous meetings in two different time zones to encourage discussion, give status updates, and connect as a team.
+- We have weekly synchronous meetings in two different time zones to encourage discussion, give status updates, triage incoming requests, and connect as a team.
   - [Agenda](https://docs.google.com/document/d/1T5LIBt3RZR5TBLzkmRd08oMwfwiNFAr5ImPD5NP7lOw/edit?usp=sharing)
-  - The meetings are recorded.
+  - [Youtube playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KqWfqy6IhKlVDUbk-f9NnmR).
 - We have monthly retrospective meetings in two different time zones.
   - We celebrate our wins and look for ways we can improve team processes.
   - These meetings are not recorded to create a safe space for sharing transparently.
   - We use an online tool, teleretro.com, which allows for running retros across multiple time zones, enabling brainstorming without being able to see others responses, merging of related topics, and voting for what to discuss in more depth.
   - Action items for iterative improvements on processes are brought back to the team syncs following the monthly retro meetings.
-- We have twice weekly Triage meetings available to us to ensure that incoming external requests are seen and responded to quickly. This allows us to meet our SLO for P2 issues being responded to within 3 days of creation.
-  - Incoming issues are scoped and prioritized in the Triage meetings
-    - We use T-shirt labels to estimate the size of incoming issues, per the definitions agreed upon in our [agenda](https://docs.google.com/document/d/1T5LIBt3RZR5TBLzkmRd08oMwfwiNFAr5ImPD5NP7lOw/edit#bookmark=id.ifw2otm5byuf). This helps not only in our planning efforts, it also helps to track our historical velocity.
-    - When assessing incoming issues, we review the assigned priority label, and assign one if a priority label is missing.
-    - If the issue is deemed not to fall within Foundations ownership, it is reassigned to the appropriate team with a note to that team's EM.
-    - If the issue is deemed to be not actionable with the provided information, we will ask the issue creator for the required information. If we do not get any response within a 2 week timeframe, the issue will be closed with a note to the creator.
-    - Some issues are assessed to be no longer relevant, or the benefit is so outweighed by the cost of implementation that it is not worth doing. In those cases, we apply the label ~"workflow-infra::Cancelled" and close the issue with a note to the creator explaining our reasoning.
-  - Any triaged issues that are ready for work are then brought to team syncs for discussion and assignment, unless they are marked urgent (P1 or P2), in which case we will bring them to the team via Slack.
 
-#### Standup
+### Standup
 
-- We have Geekbot automated checkins on Mondays and Fridays in the [#g_infra_foundations_social](https://gitlab.slack.com/archives/C04QVEXBVL3) channel
+- We have Geekbot automated checkins on Mondays and Fridays in the [#g_infra_foundations_social](https://gitlab.slack.com/archives/C04QVEXBVL3) channel. 
+  - Monday questions include: 
+    - What are your top priorities this week?
+    - What did you accomplish last week?
+    - Any blockers or requests for pairing?
+  - Friday questions include:
+    - How did your week go?
+    - What were your wins this week?
 
-#### Prioritization of work
+### Prioritization of work
 
-- The reality is that Foundations, like many other teams, has more work assigned and planned than the team currently has capacity for. This makes prioritization an important, ongoing process.
-- Our team members are assigned work related to our OKRs, which is by default to be prioritized over other tasks.
-- In the process of that work, we often encounter unexpected tech debt, especially as we are still in the early days of the team and we are onboarding services into our ownership.
-- When encountering such tech debt, we must weigh and prioritize the additional work.
-  - Tech debt that is an absolute blocker in order to move forward with project work must be addressed.
-  - At other times, we may encounter a big chunk of tech debt that, if we take the time to address it now, will pay dividends by making future work easier, but also means that other work that was committed to this quarter may not get completed. In such cases, we encourage team discussion to align on the decision, and documenting said decision making in issues and epics, so that we can clearly point to this when giving context for the re- or de- prioritization of work we committed to.
-  - Yet other times, we must make the decision to document the non-blocking tech debt we encountered in an issue and place it in the backlog to be addressed at a later time, in order to be able to deliver on the work we said we would do by the given timeframe.
-- We must remain vigilant of scope creep
-  - When planning out work related to larger projects, it is important to distinguish between "nice to haves" and "essential" pieces of work in order to stay focused on our outcomes and avoid scope creep.
-  - Similarly, external requests that at first glance appear small in scope can quickly snowball into much larger scope. Team members are encouraged to bring these to the team's attention, and the EM can step in and reset expectations and clarify commitments as needed.
-- Interrupt driven work is another reality of the nature of this team.
-  - Engineers participate in SRE oncall rotations, which can take them completely away from project work for the week, and sometimes more time afterwards for follow up work.
-  - Other times there are incoming external requests that are unplanned for but unblock another team or customer, and that must be prioritized over ongoing work. When necessary, we discuss this as a team.
-    - We make an effort to distribute this type of work in an equitable manner across the team.
-    - External requests should come through issues created in the Production Engineering tracker with the ~"team::Foundations" label. If other teams reach out directly to team members for help with work, we should redirect them to request work through the proper channels so that the team can properly prioritize and scope the work, and individuals are not pulled off prioritized tasks through back channels.
+We use priority labels to prioritize our work. OKR work is updated to `priority::2` when it is ready to be worked on. As such it is given higher priority than most other work. This means that external requests will be worked in based on their own priority and impact, where only P1 and P2 issues will regularly interrupt OKR work.
 
-#### Project Management
+### Project Management
 
 The Foundations team top level Epic can be found [here](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/1175)
 We follow Platforms Project Management practices as outlined in the [Handbook](/handbook/engineering/infrastructure/platforms/project-management/).
 Below builds on top of those guidelines.
 
-##### OKRs
+#### OKRs
 
 - For Objectives and Key Results, we align with [Platforms guidance](/handbook/engineering/infrastructure/platforms/#okr) for creation and structure.
-- DRIs should update the % progress on OKRs every Wednesday. Status updates go in the Epic descriptions.
-- A due date should be set on on the epic. If the timeline is unknown, use the end of the planned quarter to start. It can always be adjusted as the work unfolds.
 
-##### Epics
+#### Epics
 
-We suggest that Epics follow this structure:
+In addition to the format described in the [platforms project management page](/handbook/engineering/infrastructure/platforms/project-management/#epics), these sections may be helpful
 
 ```markdown
-## Context
-<!-- Context about the work and what problem it is intended to solve -->
-
-## DRI: @user
-<!-- Who is the responsible individual? -->
-
-### Participants:
-
-<!-- List of users that are actively picking up issues in the epic -->
-
-## Exit Criteria
-<!--
-How will we know when we have achieved our goal?
-How is the work broken down into smaller concrete pieces.
-Measurable chunks of progress towards the larger objective. Link to child Epics and issues for each milestone.
-If possible, with weighted % totaling up to 100%
--->
 
 ## Administrative
 
-<!--A copy paste section for creating child epics/issues, ensuring that they relate to the current epic and have the correct labels-->
+<!-- A copy paste section for creating child epics/issues, ensuring that they relate to the current epic and have the correct labels -->
 
 \`\`\`
 /epic [current epic]
-/labels ~"devops::Platforms" ~"team::Foundations" ~"workflow-infra::Triage" ~"Reliability::P4" 
+/labels ~"devops::Platforms" ~"team::Foundations" ~"workflow-infra::Triage" ~"Reliability::P2" 
 \`\`\`
-
-## Status history
-
-<!--Previous summary statements are moved into the development log in a collapsible section to give visibility into updates over time-->
-
-{{% details summary="Click to expand" %}}
-
-- Status - yyyy-mm-dd
-   - Previous update
-
-{{% /details %}}
-
-## Status yyyy-mm-dd
-<!-- Updates should be made weekly, even if no progress has been made. If no progress to report, give context as to why -->
-
-```
-
-Here are some optional sections to include if you find it helpful:
-
-```markdown
-## Problems
-
-<!-- Delve into further detail about the problems the work is seeking to solve, in greater depth than the Context section -->
 
 ## References
 
@@ -349,7 +212,7 @@ Here are some optional sections to include if you find it helpful:
 |-----------|-----------|------------|
 
 ## Decision log
-<!-- a collapsible section to track and make visible any decisions made along the way -->
+<!-- A collapsible section to aggregate any decisions made along the way. Be sure to include "why" in addition to "what". -->
 
 {{% details summary="Log" %}}
 {{% details summary="date" %}}
@@ -359,51 +222,28 @@ Here are some optional sections to include if you find it helpful:
 
 ```
 
-- Labels:
-  - Be sure to update the label to ~"workflow-infra::In Progress" as soon as work has begun.
-  - If there is a service label that is applicable, also apply that.
-  - A ~"health::*" label indicating whether work is on track, needs attention or is at risk.
-    - When changing the health label to anything other than "On track", give context for why in the weekly status update, including the plan to get back on track when possible.
-- Status updates should be entered no later than Thursday end of day PST
+- Apply any applicable service labels.
+- When changing the health status to anything other than "On track", give context for why in the weekly status update, including the plan to get back on track when possible.
 
-##### Status Updates
+#### Issues
 
-Status updates should be made weekly on Wednesdays. Keep in mind that the audience is Leadership, so keep this brief and high level.
-The overview can include:
+Open planned work for our team is located in the [Production Engineering](https://gitlab.com/gitlab-com/gl-infra/production-engineering/) project. Issues should be updated whenever significant work occurs. New issues are expected to:
 
-- Work completed since last update.
-- What's next.
-- Blockers.
-- If health status has changed, give context as to why and what the plan is to address this.
-- If no work has been completed, also give context for why.
+- Link to a related Epic.
+- Include the following Labels (update the priority as needed):
 
-##### Issues
+   ```
+   /labels ~"devops::Platforms" ~"group::Production Engineering ~"team::Foundations" ~"workflow-infra::Triage" ~"Reliability::P4"
+   ```
 
-- Open planned work for our team in the [Production Engineering](https://gitlab.com/gitlab-com/gl-infra/production-engineering/) project
-- Link to related Epic
-- Include the following Labels:
-  - ~"team::Foundations"
-  - ~"workflow-infra::*"
-  - ~"T-shirt size::*"
-- Issues should be updated whenever significant work occurs, and no less than every few days.
+- If there is a service label that is applicable, also apply that.
 
-##### Merge Requests
+##### Issue weighting
 
-- Should include a link to the relevant issue
-- Always explicitly state the context for the MR:
-  - *What* the MR is changing
-  - *Why* we're changing it
+We use t-shirt sizing for weights:
 
-#### Communication with stakeholders
-
-- [GitLab OKRs](/handbook/engineering/okrs/) capture our commitments for each quarter and are generally updated every Wednesday.
-- GitLab Epics capture large pieces of work and those labeled `~workflow-infra::In Progress` are updated every Wednesday.
-- GitLab Issues capture smaller, concrete pieces of work, and those labeled `~workflow-infra::In Progress` should be updated weekly or whenever a portion of work has been completed.
-- Slack is the default method of reaching out between team members
-  - [#g_infra_foundations](https://gitlab.slack.com/archives/C0313V3L5T6) - work related discussions, external requests, etc
-  - [#g_infra_foundations_social](https://gitlab.slack.com/archives/C04QVEXBVL3) - socializing and standups
-  - [#g_infra_foundations_notifications](https://gitlab.slack.com/archives/C04RZC5TPPD) - automated MR notifications
-  - [#g_infra_foundations_alerts](https://gitlab.enterprise.slack.com/archives/C04Q7RQC7FF) - pipeline failures and service alerts
-  - We also have team slack handles that enable us to get the whole team's attention at once
-    - @infra-dwarves is our internal handle, meant for intra-team communication
-    - @infra-foundations can be used by external stakeholders when they need to get our attention outside of #g_infra_foundations
+- ~"T-shirt size::XS" or weight 1 - A few hours of work. Consider if the work should just be completed now depending on competing priorities.
+- ~"T-shirt size::S" or weight 2 - A day or two of work.
+- ~"T-shirt size::M" or weight 3 - Up to a week of work.
+- ~"T-shirt size::L" or weight 4 - Over a week of work. This issue should likely be broken down into smaller pieces.
+- ~"T-shirt size::XL" or weight 5 - Several weeks or more of work. This issue will need to be broken down into smaller pieces or promoted to an epic.
