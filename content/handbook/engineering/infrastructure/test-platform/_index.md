@@ -26,6 +26,10 @@ description: "Test Platform Sub-Department"
 
 Our vision is to be world-class Test Platform sub-department that enables successful development and deployment of GitLab software applications with improvised workflow efficiency, reliability, and productivity
   
+## Vision
+
+The Test Platform sub-department comprises the following team:
+
 1. Test Tooling: Build tools and frameworks that enable GitLab Engineering & Product teams to ship high-quality & reliable products to our customers efficiently. 
 1. Reliable platform: This includes monitoring the platform for performance issues, implementing security measures, and conducting capacity planning to ensure that the platform can handle the expected load.
 1. Technical Support and Expertise: By providing technical support and expertise to development teams, test platform teams can help to solve complex technical challenges and ensure that applications are built with utmost quality.
