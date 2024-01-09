@@ -54,13 +54,52 @@ The [CommunityApps Campaign Manager](https://campaign-manager.gitlab.com/) enabl
 
 ### Looker Reports
 
+![looker-report](/images/handbook/marketing/developer-relations/looker-report.png)
+
+The [Looker Studio reports](https://lookerstudio.google.com/reporting/25dedcd0-7f67-4a37-8ab6-ad03cd431f92/page/p_k19k34iwad) was created as a quick first iteration before they are migrated to Tableau. The data sources used to build the reports are:
+
+- Google Analytics 4 API
+- YouTube API
+- `youtube_views_gitlab` sheet in the Content Inventory
+- `devrel_blog_posts_views` sheet
+
+Using the 4 data sources, 3 blends were created, the `DevRel Filtered Youtube Data Source`, `DevRel Filtered Youtube (Official Channel) Data Source` and `DevRel Filtered Blog`. A [Blend in Looker Studio](https://support.google.com/looker-studio/topic/9061419?hl=en&ref_topic=10388842&sjid=10095352649474076992-EU) lets you combine multiple data sources in the same visualization. 
+
+`DevRel Filtered Youtube Data Source` and `DevRel Filtered Youtube (Official Channel) Data Source` blends the data from the `youtube_views_gitlab` sheet and the YouTube API using the `External Video ID` from the API and the `video_id` column from then sheet, in an Inner join. The `DevRel Filtered Youtube (Official Channel)` Data Source is authenticated using Abubakar's Google account to the official channel and `DevRel Filtered Youtube Data Source` to the Unfiltered channel using the same account.  The `DevRel Filtered Blog` blends data from the `devrel_blog_posts_views` and Google Analytics (GA4) API.
+
+Here is an example of a blend:
+
+![looker-blend](/images/handbook/marketing/developer-relations/looker-blend.png)
 
 
-### Developer Relatiopns Influenced Campaigns
+There are 4 pages in the Looker Studio report: 
+
+**Blog Post Metrics** 
+
+![looker-blogposts-reports](/images/handbook/marketing/developer-relations/looker-blogposts-reports.png)
+
+**YouTube Unfiltered Metrics**
+
+![looker-report-unfiltered-youtube](/images/handbook/marketing/developer-relations/looker-report-unfiltered-youtube.png)
+
+**Official YouTube Channel Metrics**
+
+![looker-report-official-youtube](/images/handbook/marketing/developer-relations/looker-report-official-youtube.png)
+
+**YouTube Unfiltered Geographic Analysis**
+
+![looker-report-unfiltered-analytics-youtube](/images/handbook/marketing/developer-relations/looker-report-unfiltered-analytics-youtube.png)
+
+**Official YouTube Channel Geographic Analysis**
+
+![looker-report-official-analytics-youtube](/images/handbook/marketing/developer-relations/looker-report-official-analytics-youtube.png)
+
+
+### Developer Relations Influenced Campaigns
 
 ## Setup & Maintenance guide
 
-### Data Flow
+### Data Reporting Flow
 
 ### Setup
 
