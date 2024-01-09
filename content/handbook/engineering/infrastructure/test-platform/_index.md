@@ -32,7 +32,9 @@ Our vision is to be world-class Test Platform sub-department that enables succes
 
 ## FY24 Direction
 
-We will continue to be focused on innovative test architecture, efficiency, and customer results while delivering impact to the company's bottomline via alignment to the [top cross-functional initiatives](/handbook/company/team/structure/working-groups/#top-cross-functional-initiatives). Key directional highlights: broaden our lead in ensuring self-managed excellence, improve deployment confidence, drive visibility and actionability of test results, and expand our Quality Architecture focus. In FY23 we anticipate continued momentum on enabling development and deployment at scale and it's more important than ever for us to deliver results.
+- Continue to be focused on innovative test architecture, efficiency, and customer results while delivering impact to the company's bottomline via alignment to the [top cross-functional initiatives](/handbook/company/team/structure/working-groups/#top-cross-functional-initiatives). 
+- Broaden our lead in ensuring self-managed excellence, improve deployment confidence, drive visibility and actionability of test results, and expand our Quality Architecture focus. 
+- Continue momentum on enabling development and deployment at scale.
 
 ### Self-Managed Excellence
 
