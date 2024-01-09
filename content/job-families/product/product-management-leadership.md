@@ -65,7 +65,7 @@ The Group Manager, Product is a [grade 9](/handbook/total-rewards/compensation/c
 - Understand deeply and synthesize the market, competition, and upcoming solutions in the space their team is responsible for.
 - Review release post announcements to ensure they focus on user problems and [jobs-to-be-done](/handbook/product/ux/jobs-to-be-done/)
 - Own driving connections between the groups their PMs drive to ensure a single-application user experience.
-- Demonstrate leadership as [expected of Managers across GitLab](/handbook/company/team/structure/#management-group).
+- Demonstrate leadership as [expected of Managers across GitLab](/handbook/company/structure/#management-group).
 - Find opportunities where teams need to collaborate with each other and help them make those decisions that are optimal for the company even if they maybe sub-optimal in the short term for particular groups.
 
 *Please note: If the Group Manager has less than 4 direct reports or is a first-time manager, some individual contributor responsibilities may be expected to be maintained.*
