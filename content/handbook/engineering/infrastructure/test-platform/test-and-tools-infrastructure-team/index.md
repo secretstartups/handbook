@@ -56,7 +56,7 @@ graph LR
     D --> D3[Test Advocacy<br>Promoting best testing practices and process improvement]
 ```
 
-## Team Rituals
+## How we work
 
 - We prioritize asynchronous communication and a handbook-first approach, in line with GitLab's all-remote, timezone-distributed structure.
 - We emphasize the [Maker’s Schedule](http://www.paulgraham.com/makersschedule.html), focusing on productive, uninterrupted work.
