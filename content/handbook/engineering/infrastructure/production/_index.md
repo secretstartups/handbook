@@ -3,17 +3,13 @@
 title: "Production"
 ---
 
-
-
-
-
-
-
+{{% alert color="warning" %}}
 If you're a GitLab team member and are looking to alert Reliability Engineering about an availability issue with GitLab.com, please find quick instructions to report an incident here: [Reporting an Incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident).
-{: .alert .alert-danger}
+{{% /alert %}}
 
+{{% alert color="warning" %}}
 If you're a GitLab team member looking for help with a security problem, please see the [Engaging the Security On-Call](/handbook/security/security-operations/sirt/engaging-security-on-call.html) section.
-{: .alert .alert-info}
+{{% /alert %}}
 
 # The Production Environment
 
@@ -140,7 +136,7 @@ For some incidents, we may figure out that the usage patterns that led to the is
 {: .panel-heading}
 <div class="panel-body">
 
-Inline with GitLab's regulatory obligations, changes to [controlled documents](/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged. 
+Inline with GitLab's regulatory obligations, changes to [controlled documents](/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged.
 
 </div>
 </div>
@@ -155,9 +151,9 @@ Production database backups
 
 ### Roles & Responsibilities
 
-| Role  | Responsibility | 
+| Role  | Responsibility |
 |-----------|-----------|
-| Infrastructure Team | Responsible for configuration and management | 
+| Infrastructure Team | Responsible for configuration and management |
 | Infrastructure Management (Code Owners) | Responsible for approving significant changes and exceptions to this procedure |
 
 
