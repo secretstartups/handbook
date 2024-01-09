@@ -165,7 +165,8 @@ The process is comprised of five key stages:
     1. Key employees who were interviewed during the Early Diligence stage may go through further interview rounds as determined by the GitLab team to qualify for a role at GitLab
     1. All employees must identify an open vacancy at GitLab which they think best matches their professional profile. This will be shared in a spreadsheet gathered by the target's CEO.
 1. The acquisition lead will create an engagement debrief and lessons learned document and share it with the team for on-demand capturing of insights.
-1. Complete [Technical diligence](acquisition-process-technical-diligence/)
+1. Document who is read-in on the project and work with GitLab Legal to circulate a Read-in Acknowledgement form to sign and return.
+1. Complete [Technical diligence](https://internal.gitlab.com/handbook/corporate-development/acquisition-process-technical-diligence/)
 1. Complete financial diligence
 1. Legal diligence - Once both the technical and the financial diligence have been completed and signed off by the Engineering champion and Finance acquisition team member, respectively, the acquisition lead will contact legal to start the legal diligence. Legal will tag the relevant owners for each of the diligence tasks in the (template diligence table (see Corp Dev shared drive - GitLab internal-only) in the main acquisition doc.
 1. The progress of the diligence will be synced on a regular stand-up call with the acquisition team
