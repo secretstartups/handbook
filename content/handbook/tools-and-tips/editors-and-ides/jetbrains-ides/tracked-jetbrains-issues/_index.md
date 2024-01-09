@@ -45,6 +45,12 @@ When an issue related to `noinspection` is resolved and included in a released v
 
 Keep these sections sorted alphabetically. They are headers so that they can be directly linked.
 
+### 
+
+- Title: DIRC checksum mismatch error in Settings Sync
+- Link: https://youtrack.jetbrains.com/issue/IDEA-337625
+- Notes: The Settings Sync feature currently does not work. This is problematic because [JetBrains has also deprecated the previous alternative Settings Repository Plugin](https://handbook.gitlab.com/handbook/tools-and-tips/editors-and-ides/jetbrains-ides/setup-and-config/#update-2023-11)
+
 ### RUBY-25400
 
 - Title: Programmatically defined constants always produce 'Unresolved reference' error
@@ -93,8 +99,8 @@ Keep these sections sorted alphabetically. They are headers so that they can be 
 - Notes:
   - This is currently un-resolvable due to the amount of metaprogramming and indirection involved with how we mix in the `EE` modules.
   - Comment from JetBrains on the issue:
-    _"...it looks like RubyMine is unable to understand the relationship here due to the alternative definition approach with `prepended` from `ee/app/models/ee/clusters/agent.rb`. `Prependable` seems to be a custom approach to prepending code in GitLab,
-    and we don't have any recognition of it. Unfortunately I don't have any workarounds for this right now, but we can leave the ticket open in case we think of something."_
+    *"...it looks like RubyMine is unable to understand the relationship here due to the alternative definition approach with `prepended` from `ee/app/models/ee/clusters/agent.rb`. `Prependable` seems to be a custom approach to prepending code in GitLab,
+    and we don't have any recognition of it. Unfortunately I don't have any workarounds for this right now, but we can leave the ticket open in case we think of something."*
 
 ## Closed Issues
 
