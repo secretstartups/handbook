@@ -115,17 +115,17 @@ Global Channel Marketing hosts a quarterly webinar for our partner community.  O
 
 Our FY25 webinars dates are:
 - February
-  - 2023-02-28 AMER/EMEA
-  - 2023-02-29 APAC
+  - 2024-02-28 AMER/EMEA
+  - 2024-02-29 APAC
 - May
-  - 2023-05-29 AMER/EMEA
-  - 2023-05-30 APAC
+  - 2024-05-29 AMER/EMEA
+  - 2024-05-30 APAC
 - August
-  - 2023-08-28 AMER/EMEA
-  - 2023-08-29 at APAC
+  - 2024-08-28 AMER/EMEA
+  - 2024-08-29 at APAC
 - November
-  - 2023-11-27 at AMER/EMEA
-  - 2023-11-28 at APAC
+  - 2024-11-27 at AMER/EMEA
+  - 2024-11-28 at APAC
 
 Visit our [partner portal page](https://partners.gitlab.com/prm/English/c/ptnrmktgwebinars) for registration links for future webinars, access to past recordings, assets and resources.
 
