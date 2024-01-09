@@ -927,9 +927,7 @@ For many post-event tasks, you must be logged in to the Field Marketing Zoom Web
 
 **DRI: FMC**  
 
-- In the Zoom Webcast account, click `Recordings` on the left side navigation.
-- Find the webcast/workshop you would like to download the recording for, either by searching for the date or entering the webcast ID.
-- Click the `More` button next to the webcast/workshop name and select `Download`.
+- Please see [this section](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#downloading-the-recording-from-zoom) for detailed instructions on how to download a Zoom recording. 
 
 #### Closing out Workshops
 **DRI: FMM**
