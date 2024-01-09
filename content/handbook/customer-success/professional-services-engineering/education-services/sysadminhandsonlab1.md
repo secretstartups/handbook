@@ -92,6 +92,8 @@ sudo cat /etc/gitlab/initial_root_password
 
 8. Complete the remaining fields with a new, permanent password of your choosing.
 
+9. Click **Save password** to save the changes. You will need to re-sign in with your new password.
+
 ## Lab Guide Complete
 
 You have completed this lab exercise. You can view the other [lab guides for this course](/handbook/customer-success/professional-services-engineering/education-services/sysadminhandson).

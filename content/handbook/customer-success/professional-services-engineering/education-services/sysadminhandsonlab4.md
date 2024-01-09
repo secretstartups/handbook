@@ -19,7 +19,7 @@ description: "This hands-on lab guide is designed to walk you through the lab ex
 2. Search for the location of backup settings in gitlab.rb.
 
 ```bash
-sudo grep -n backup /etc/gitlab/gitlab.rb
+sudo grep -n backup_path /etc/gitlab/gitlab.rb
 ```
 
 3. Note the line number for the setting `gitlab_rails['backup_path']`.
@@ -36,6 +36,7 @@ sudo mkdir /tmp/backups
 sudo sed -i '123s@\/var\/opt\/gitlab\/backups@\/tmp\/backups@' /etc/gitlab/gitlab.rb
 sudo sed -i '123s/#//' /etc/gitlab/gitlab.rb
 ```
+> Here, we are using the sed command to do text replacements inside the gitlab.rb file without having to use a text editor like vim. 
 
 6. Reconfigure to apply the changes.
 
@@ -55,18 +56,18 @@ sudo gitlab-backup create
 
 ```bash
 sudo ls /tmp/backups
-sudo tar -tvf /tmp/backups/BACKUP_FILENAME
+sudo tar -tvf /tmp/backups/<backup_filename>
 ```
 
 ### Task C. Make some changes to GitLab settings
 
-1. Sign into your GitLab instance with a web browser and select **Menu > Admin**.
+1. Sign into your GitLab instance with a web browser and open your sidebar. In the bottom left corner, click **Admin area**.
 
 2. In the left sidebar, select **Settings** > **General**.
 
-3. Expand **Account and limit** and change the fields shown to some random numbers of your choosing.
+3. Expand **Account and limit** and change the maximum attachment size to 500 MiB, and the default project limits to 10000.
 
-4. Select **Save changes**.
+4. Click **Save changes** to save the changes.
 
 5. Refresh the page and verify your changes were applied.
 
@@ -77,13 +78,13 @@ sudo tar -tvf /tmp/backups/BACKUP_FILENAME
 2. Move your backup file to the location GitLab requires for performing the restore.
 
 ```bash
-sudo cp /tmp/backups/BACKUP_FILENAME /var/opt/gitlab/backups/
+sudo cp /tmp/backups/<backup_filename> /var/opt/gitlab/backups/
 ```
 
 3. Ensure the backup file has correct permissions for performing the restore.
 
 ```bash
-sudo chown git:git /var/opt/gitlab/backups/BACKUP_FILENAME
+sudo chown git:git /var/opt/gitlab/backups/<backup_filename>
 ```
 
 4. Stop the puma and sidekiq services before restoring.
@@ -94,13 +95,11 @@ sudo gitlab-ctl stop sidekiq
 sudo gitlab-ctl status
 ```
 
-5. Restore from backup. Replace BACKUP_TIMESTAMP with the portion of the backup filename up to and including `-ee`.
+5. Restore from backup. Replace *<backup_timestamp>* with the portion of the backup filename up to and including `-ee`. For example, if the backup file name starts with 1663207732_2022_09_15_15.3.3-ee, the command will be `sudo gitlab-backup restore BACKUP=1663207732_2022_09_15_15.3.3-ee`.
 
 ```bash
-sudo gitlab-backup restore BACKUP=BACKUP_TIMESTAMP
+sudo gitlab-backup restore BACKUP=<backup_timestamp>
 ```
-
-(For example, if the backup file name starts with 1663207732_2022_09_15_15.3.3-ee, the command will be `sudo gitlab-backup restore BACKUP=1663207732_2022_09_15_15.3.3-ee`).
 
 6. Type `yes` when prompted during the restore operation. You may see what looks like error messages. That is normal.
 
@@ -112,7 +111,7 @@ sudo gitlab-ctl start puma
 sudo gitlab-ctl status
 ```
 
-8. Wait up to 5 minutes before refreshing GitLab in your web browser. Verify that the Account and Limit settings you changed revert back to the defaults (i.e. when the backup was taken).
+8. Wait up to 5 minutes before refreshing GitLab in your web browser. Verify that the aximum attachment size and the default project limits you changed revert back to the defaults (i.e. when the backup was taken).
 
 ## Lab Guide Complete
 
