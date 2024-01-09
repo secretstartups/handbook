@@ -123,7 +123,7 @@ Preference contributable diagrams over uploading images or other less contributa
 
 ### Editing the handbook
 
-Strongly consider learning how to edit the [handbook using git](https://about.gitlab.com/handbook/git-page-update) and/or via [the web IDE](/handbook/git-page-update/#webide-using-the-browser).
+Strongly consider learning how to edit the [handbook using git](/handbook/git-page-update) and/or via [the web IDE](/handbook/git-page-update/#webide-using-the-browser).
 Please read through the [Writing Style Guidelines](/handbook/communication/#writing-style-guidelines) before contributing.
 
 #### Fine points
@@ -179,7 +179,7 @@ For E-Group, information may need to be iterated on or MR branches may need to b
     - Click `Compare Branch and Continue`.
     - Then `Submit Merge Request`.
     - Now the MR has been created against the [public fork](https://gitlab.com/gitlab-com/www-gitlab-com) and can be seen by the **public**.
-    - Your MR will be available to the **public** now and after it has been merged in will be deployed to [about.gitlab.com](https://about.gitlab.com).
+    - Your MR will be available to the **public** now and after it has been merged in will be deployed to [handbook.gitlab.com](https://handbook.gitlab.com).
 
 #### Accessing the private group.
 
