@@ -26,7 +26,7 @@ Not all projects may accommodate a Tech Lead, and the decision rests with the ma
 1. Is there a tight deadline for project completion?
 1. Is there a need for effective communication between technical and non-technical team members?
 
-### Creating a Tech Lead for a Project
+### Appointing a Tech Lead for a Project
 The approval process is simple. The engineering manager recommends to the Director of Engineering, providing an explanation. If the project fits the criteria, a Tech Lead can be appointed. The engineering manager also suggests a lead for the project.
 
 ### Establishing Create Stage norms for the Tech Lead 
