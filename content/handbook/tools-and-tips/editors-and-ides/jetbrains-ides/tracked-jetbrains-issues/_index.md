@@ -45,7 +45,7 @@ When an issue related to `noinspection` is resolved and included in a released v
 
 Keep these sections sorted alphabetically. They are headers so that they can be directly linked.
 
-### 
+### IDEA-337625
 
 - Title: DIRC checksum mismatch error in Settings Sync
 - Link: https://youtrack.jetbrains.com/issue/IDEA-337625
