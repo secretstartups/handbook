@@ -91,15 +91,9 @@ We recommend these general timelines for completion based on your level to enabl
 
 **2024-02-12 - 2024-02-16:** Total Rewards prepares for Comp Group (CEO/CFO/CPO) approval of all recommendations
 
-**2024-02-16:** Comp Group approves all recommendations
-
 **2024-02-21 - 2024-02-29:** Managers notify team members being promoted of promotion approval and new job titles
 
-**2024-02-22:** CLDC approves refresh equity
-
 **2024-03-04 - 2024-03-08:** Managers communicate compensation decisions to all impacted team members
-
-**2024-03-12:** Grant date of equity awards
 
 **2024-03-13:** Workday visibility date (promotions and new comp visible to team members)
 
