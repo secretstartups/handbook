@@ -3,11 +3,29 @@ title: "Create:Code Creation Group"
 description: The Create:Code Creation Group is responsible for all product categories that fall under the Code Creation group of the Create stage.
 ---
 
-## Mission
+## Team Vision
 
-Redefine code creation using artificial intelligence.
-Our goal is to empower developers with intelligent code suggestions,
-enhancing their efficiency and enabling them to craft outstanding software.
+We envision a world where our innovations in AI-driven code creation not only enhance productivity but also inspire creativity, enabling developers to tackle more complex challenges and push the boundaries of what's possible in software development.
+
+## Team Mission
+
+Develop cutting-edge AI-powered tools that enhance the efficiency and creativity of software engineers. We are committed to providing intelligent code suggestions that not only streamline coding tasks but also elevate the quality of software products. We aim to empower developers worldwide, making complex coding more accessible, and accelerating the creation of exceptional software.
+
+## Team Handles
+
+| Category           | Handle              |
+|--------------------|---------------------|
+| GitLab Team Handle | @code-creation-team |
+| Slack Channel      | #g_code_creation    |
+
+## Commonly Monitored Issue Lists
+
+- [Planning Issues](https://gitlab.com/gitlab-org/create-stage/-/issues/?sort=due_date&state=opened&label_name%5B%5D=group%3A%3Acode%20creation&label_name%5B%5D=Planning%20Issue&first_page_size=20)
+- [OKRs](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=title_asc&state=opened&label_name%5B%5D=devops%3A%3Acreate&label_name%5B%5D=group%3A%3Acode%20creation&first_page_size=20)
+- [Workflow Board](https://gitlab.com/groups/gitlab-org/-/boards/5998095)
+- [Reliability](https://gitlab.com/gitlab-org/gitlab/-/boards/4227439?not[label_name][]=type%3A%3Afeature&label_name[]=section%3A%3Adev&label_name[]=devops%3A%3Acreate&label_name[]=group%3A%3Acode%20creation)
+- [Security](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=due_date&state=opened&label_name%5B%5D=security&label_name%5B%5D=devops%3A%3Acreate&label_name%5B%5D=group%3A%3Acode%20creation&not%5Blabel_name%5D%5B%5D=type%3A%3Afeature&first_page_size=20)
+- [InfraDev Issues](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=due_date&state=opened&label_name%5B%5D=devops%3A%3Acreate&label_name%5B%5D=infradev&label_name%5B%5D=group%3A%3Acode%20creation&not%5Blabel_name%5D%5B%5D=type%3A%3Afeature&not%5Blabel_name%5D%5B%5D=severity%3A%3A4&first_page_size=200)
 
 ## Team Members
 
@@ -23,11 +41,11 @@ The following members of other functional teams are our stable counterparts:
 
 {{% stable-counterparts manager-role="Backend(.*)Manager(.*)Create:Code Creation" role="Code Creation$" %}}
 
-## Definitions
+## Core Responsibilities
 
 A lot of the terms we use in this area sound similiar and can be confusing at first. Here are the basic basic terms:
 
-- **Code Creation**: The group name and a collection of features realating to providing AI generated code
+- **Code Creation**: The group name and a collection of features relating to providing AI generated code
 - **Code Suggestions**: A feature within Code Creation that provides AI-generated code within an IDE
    - **Code Completion**: A short AI-generated suggestion intended to complete an existing line or block of code
    - **Code Generation**: A longer AI-generated suggestion intended to create entire functions, classes, code blocks, etc.
@@ -51,33 +69,19 @@ stateDiagram
     suggestions --> generation
 ```
 
-## Issues and Priorities
+## Projects
 
-Our current focus is on releasing Code Suggestions to a wider audience and making it [GA](/handbook/product/gitlab-the-product/#experiment-beta-ga).
-To prepare for that we use the following labels:
+[Create:Code Creation Projects](/handbook/engineering/development/dev/create/code-creation/projects)
 
-- `CodeSuggestions::P1`: **Must-have** items for GA
-- `CodeSuggestions::P2`: Items we **should have** for GA
-- `CodeSuggestions::P3`: **Nice-to-have** items
-
-You can find this on our [Kanban board](https://gitlab.com/groups/gitlab-org/-/boards/7089113)
-
-## Hiring
-
-Check out our [jobs page](/jobs/) for current openings.
-
-## Code Creation Onboarding
+## Engineering Onboarding
 
 To help get started as a developer with the Create:Code Creation team, we have created an
 [onboarding issue template](https://gitlab.com/gitlab-com/create-stage/code-creation/team-tasks/-/issues/new?issuable_template=developer_onboarding).
 
-## Common Links
+## Other Related Pages
 
 - Product Categories: [Code Creation](/handbook/product/categories/#code-creation-group)
 - Direction: [Code Suggestion Direction](https://about.gitlab.com/direction/create/code_suggestions/)
-- Issue Tracker: [GitLab Issue Search](https://gitlab.com/groups/gitlab-org/-/issues/?sort=due_date&state=opened&label_name%5B%5D=group%3A%3Acode%20creation&first_page_size=20)
-- Epics: [Accelerate Code Suggestions Epic](https://gitlab.com/groups/gitlab-org/-/epics/9814) and [general GitLab Epic Search](https://gitlab.com/groups/gitlab-org/-/epics?state=opened&page=1&sort=start_date_desc&label_name[]=group::code+creation)
-- Slack Channel: [#g_code_suggestions](https://gitlab.slack.com/archives/C048Z2DHWGP)
 
 ## Code Suggestion Dashboards
 
