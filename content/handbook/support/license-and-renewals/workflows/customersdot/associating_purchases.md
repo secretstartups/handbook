@@ -90,6 +90,8 @@ If the requestor is not an existing CustomersDot user when doing an email search
 
 **Note 3:** If you need to escalate any ownership verification requests to the Legal and Compliance team please open a [Subscription-Ownership-Change-Escalation](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=Subscription-Ownership-Change-Escalation) issue.
 
+**Note 4:** This process is slightly more stringent than that of the steps for [proving entitlement to Manage Support Contacts](https://support.gitlab.com/hc/en-us/articles/11626528150172).  Notably, we cannot accept screenshots for proving entitlement to subscription management access.
+
 We need **one** of the following in order to verify eligibility for the subscription ownership change:
 
 1. Approval from the existing contact
