@@ -399,6 +399,22 @@ Identified risks are formally tracked via an internal risk register. Given the n
 
 Historically, we've produced an annual report to summarize our current StORM landscape including new potential risks, updates on our highest risks to support decision-making, and recommendations on actions to take to help mitigate existing risks. Starting in FY24 we will produce a quarterly report in alignment with our values. The template we've used can be found [here](https://docs.google.com/presentation/d/1uwz8sKnf9sWY9Of_GKPtIU2dDa3i6k6xekZENPW41NY/edit?usp=sharing) for reference.
 
+### Top 5 Risks
+
+The Security Division's "Top 5 Risks" are established during annual risk assessment activities and are reported upon quarterly as resources allow.  Security Leadership leverages these Top 5 Risks when conducting short and long-term strategic planning activities.
+
+#### Long-Term Risk Treatment Planning
+
+Executive Risk Owners are accountable for ensuring that long-term treatment plans are established and executed for each of the Top 5 Risks. The Security Risk Team is responsible for coordinating long-term treatment planning with the Executive Risk Owner and the associated Risk Owner(s). The following template is leveraged during planning to ensure consistency in our approach and in reporting:
+
+ - Establish success criteria that would move the risk within [tolerance](https://handbook.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/#translating-gitlabs-security-risk-appetite-to-risk-tolerance). These criteria will become Key Results (KRs) and are the milestones used to gauge progress of risk remediation. Completed KRs will correlate to a reduced risk score.
+ - Identify dependencies for each KR.
+ - Identify a Risk Owner responsible for delivering each KR. This person should be in the department responsible for implementing the treatment activity.
+ - Establish realistic target delivery dates for each KR. Due to the nature of operational risks, we expect delivery dates to range up to 4 years in the future. Try to establish at least one KR per quarter to show incremental progress.
+ - Scoring: Subtract '10' (our risk tolerance threshold based on the current risk appetite) from the current risk score to identify the reduction required to move the risk within tolerance. Divide this difference by the number of projected KRs. The quotient/remainder is the amount the score will be reduced each time a KR is completed. This number can be adjusted judgmentally as required.
+
+ In the event the Executive Risk Owner chooses not to pursue a Risk Remediation-related KR in a given quarter due to competing priorities, a [Risk Acceptance](https://handbook.gitlab.com/handbook/security/security-assurance/security-risk/third-party-risk-management/#tprm-risk-acceptance-process) should be formalized to document the business rationale. This Risk Acceptance should contain rationale explaining why the risk of delaying additional Risk Remediation is less than the risk of not fulfilling the competing priority.
+
 #### StORM Reporting Schedule
 
 The table below outlines planned/completed activities for FY24.
