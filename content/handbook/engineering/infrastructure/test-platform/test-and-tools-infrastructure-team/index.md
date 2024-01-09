@@ -3,7 +3,7 @@ title: "Test and Tools Infrastructure Team"
 description: "Test and Tools Infrastructure Team in Test Platform sub-department"
 ---
 
-## Team handles
+## Common Links
 
 | **Category**            | **Handle** |
 |-------------------------|-------------|
@@ -13,7 +13,7 @@ description: "Test and Tools Infrastructure Team in Test Platform sub-department
 | **Team Boards**         | [`Board`](https://gitlab.com/groups/gitlab-org/-/boards/7168288?label_name[]=team%3A%3ATest%20and%20Tools%20Infrastructure) |
 | **Issue Tracker**       | [`quality/team-tasks`](https://gitlab.com/gitlab-org/quality/team-tasks/issues/) |
 
-## Team vision
+## Vision
 
 The Test & Tools Infrastructure team, under the [Test Platform sub-department](../_index.md) at GitLab, aspires to be a pioneering force in the innovation and maintenance of advanced testing frameworks and test infrastructure to support Gitlab's principle of [Quality is everyone's responsibility](https://about.gitlab.com/handbook/engineering/quality/#our-principles).
 
@@ -23,7 +23,7 @@ As an integral part of our vision, we aim to:
 - Leverage [`dogfooding`](https://about.gitlab.com/handbook/engineering/infrastructure/#dogfooding) to prepare, build, deliver test tooling that improves the product itself.
 - Align our strategy with the industry trends, company direction, and customer needs.
 
-## Team mission
+## Mission
 
 The key components of our mission are to:
 - **Make testing simple** to enable easy contribution from everyone in the testing process, including test creation, execution, and debugging. This approach democratizes testing and fosters a culture of collective responsibility for quality.
@@ -86,7 +86,7 @@ graph LR
     3. Engineering Manager to summarize action items by the end of the week. The kudos will also be summarized and shared to `#thanks` for organization visibility.
     4. The team retrospective will be in line with [Gitlab's retrospective guidelines](/handbook/engineering/management/group-retrospectives/)
 
-#### Team Meeting & Demos [Sync]
+#### Team Meetings and Demos [Sync]
 - **Cadence**: Bi-weekly on Tuesday, 45 mins
 - **Guidelines**:
     1. Bi-weekly meetings will occur within Project tracks and within working groups. Time zone differences will lead to segmented meetings. Solo project track members may opt for asynchronous updates and detailed discussions in 1:1s.
