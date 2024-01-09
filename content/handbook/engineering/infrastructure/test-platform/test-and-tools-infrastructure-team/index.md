@@ -119,8 +119,9 @@ graph LR
        2. Keep updating the worklog each week.
        3. Once the quarter ends, add a summary of the major contributions of the quarter to the description. 
 
+### Project Management
 
-### Guiding principle
+#### Guiding principle
 
 Our project tracks are guided by the [Lean Startup Principles](https://theleanstartup.com/principles), particularly the Build-Measure-Learn feedback loop, which emphasizes rapid prototyping, continuous iteration, and learning from real-world feedback. The stages include:
     
@@ -140,8 +141,6 @@ Our project tracks are guided by the [Lean Startup Principles](https://theleanst
         F -->|Data-Driven| K[User Feedback & Business Metrics]
     ```
 
-### Project Management
-
 #### Feature work
   - Each financial year, we develop a clear roadmap for the team to enhance visibility and alignment.
   - Our roadmap preparation is an intensive month long exercise (usually last month of Q4), led by a [DRI](https://handbook.gitlab.com/handbook/people-group/directly-responsible-individuals/). During this phase, DRIs take the lead in drafting the roadmap using [the roadmap prep-work template](https://gitlab.com/gitlab-org/quality/work-log/-/blob/main/templates/roadmap-pre-work-template.md?ref_type=heads) for necessary project tracks. This involves gathering inputs from the team, various stakeholders, assessing past performance, and aligning with the strategic goals of the Test and Tools Infrastructure Team. 
@@ -154,7 +153,7 @@ Our project tracks are guided by the [Lean Startup Principles](https://theleanst
   - We ensure adjusting the roadmap in each quarter based on the change in business priority.
 
 
-## Working with us
+#### Working with us
 We estimate ~20% of weekly time for support tasks, and balancing our roadmap work with emerging support needs. Please note this estimate varies depending upon ongoing priorities. 
   - For individual questions please reach out to the team via our slack channels: `#test-platform`, `#test-tools-infrastructure-team`.
   - Raise support requests as issues in [team-tasks project](https://gitlab.com/gitlab-org/quality/quality-engineering/team-tasks). Add `~"team::Test and Tools Infrastructure"` label in the issues to track it in the [team's support request board](https://gitlab.com/gitlab-org/quality/quality-engineering/team-tasks/-/boards/7253736?label_name%5B%5D=team%3A%3ATest%20and%20Tools%20Infrastructure). 
