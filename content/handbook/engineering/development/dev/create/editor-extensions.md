@@ -13,15 +13,7 @@ The Create:Editor Extensions Group is responsible for all aspects of the product
 
 ### Group members
 
-The following people are permanent members of the Create:Editor Extensions Group:
-
-<!-- TODO: make this list dynamic based on the `borrow` field in yaml files -->
 {{% team-by-departments "Create:Editor Extensions" %}}
-
-The following people are temporary members ([borrow process](/handbook/product/product-processes/#borrow)) of the Create:Editor Extensions Group, each one working on a specific area:
-
-- VS Code extension
-  - [Sri Rang](/handbook/company/team/#sri19)
 
 ### Stable counterparts
 
