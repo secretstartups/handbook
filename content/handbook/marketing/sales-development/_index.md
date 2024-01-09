@@ -48,14 +48,14 @@ As a Sales Development Representative (SDR) or Business Development Representati
 
 **EMEA**
 * **All** = [`#sdr_emea`](https://gitlab.slack.com/messages/CCULKLB71)
-* **SDR EMEA - (Manager - Glenn Perez)** = [`#sdr_emea_apac_inbound`](https://gitlab.slack.com/archives/C031T0LF6NL)
-* **BDR COMM EMEA MM - (Manager - Alexander Demblin)** = [`#bdr_comm_emea_mm`](https://gitlab.slack.com/archives/C04NA4BQP54)
+* **SDR EMEA - (Manager - Brian Tabbert)** = [`#sdr_emea_apac_inbound`](https://gitlab.slack.com/archives/C031T0LF6NL)
+* **BDR COMM EMEA MM - (Manager - Brian Tabbert)** = [`#bdr_comm_emea_mm`](https://gitlab.slack.com/archives/C04NA4BQP54)
 * **BDR ENTG EMEA DACH - (Manager - Christopher Allenfort)** = [`#bdr_entg_emea_dach`](https://gitlab.slack.com/archives/C04NP4VC449)
 * **BDR ENTG EMEA NEUR META - (Manager - Miguel Nunes)** = [`#bdr_entg_emea_neur_meta`](https://gitlab.slack.com/archives/C04NGL7H4JG)
 * **BDR ENTG EMEA SEUR - (Manager - Tati Fernandez)** = [`#bdr_entg_emea_seur`](https://gitlab.slack.com/archives/C04NE65S6AE)
 
 **APAC**
-* **SDR APAC - (Manager - Glenn Perez)** = [`#sdr_emea_apac_inbound`](https://gitlab.slack.com/archives/C031T0LF6NL)
+* **SDR APAC - (Manager - Brian Tabbert)** = [`#sdr_emea_apac_inbound`](https://gitlab.slack.com/archives/C031T0LF6NL)
 * **BDR ENTG APAC - (Manager - Elsje Smart)** = [`#bdr_entg_apac`](https://gitlab.slack.com/archives/C0327R1NZBK)
 
 **Please acknowledge any Slack messages from your managers in your Slack channels, if you have nothing to say at least be creative and funny with emoji so they know you are seeing their requests and updates and are not talking to an empty room!**
