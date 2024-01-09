@@ -22,7 +22,7 @@ description: "Test Platform Sub-Department"
 
 ---
 
-## Vision
+## Mission
 
 Our vision is to be world-class Test Platform sub-department that enables successful development and deployment of GitLab software applications with improvised workflow efficiency, reliability, and productivity
   
