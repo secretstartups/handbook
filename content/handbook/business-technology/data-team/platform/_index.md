@@ -258,12 +258,23 @@ To get access to snowflake support portal, please follow the below steps.
 
 ### Warehouse Access
 
-To gain access to the data warehouse:
+To gain access to the Snowflake:
 
 - Create an issue in the [access requests project](https://gitlab.com/gitlab-com/team-member-epics/access-requests) documenting the level of access required.
 - Do not request a shared account - each account must be tied to a user.
 - We loosely follow the paradigm explained in [this blog post](https://blog.fishtownanalytics.com/how-we-configure-snowflake-fc13f1eb36c4) around permissioning users.
 - When asking to mirror an existing account, please note that access to restricted SAFE data will **not** be provisioned/mirrored (currently provided via `restricted_safe` role).
+
+#### Snowflake Analyst
+
+Snowflake can be used to perform analyses on the data that is available by writing SQL-code. Anything created and any outcome of the analyses is considered as an [ad-hoc analyses](handbook/business-technology/data-team/data-development/#data-development-at-gitlab). It is important to know that anything that is created (i.e. worksheets and dashboards) is not version controlled and not supported or managed by the central Data Team. I.e. In case when a team member offboards at GitLab the worksheets and dashboards are not accessible anymore. To persist analyses Tableau has to be used.
+
+For access to write SQL in Snowflake an AR must be opened as [described](handbook/business-technology/data-team/platform/#warehouse-access). A new user will be created with access to the `PROD` database.
+There are 2 levels of data access:
+- Non-SAFE data --> Adding the Snowflake `reporter` role to their account.
+- SAFE data (you must be or will become a designated insider) --> adding the Snowflake `restricted_safe` additionally role to their account. See the [SAFE Guide](handbook/business-technology/data-team/platform/safe-data/#snowflake) for the needed approvals.
+
+All users will have by default the dev_xs warehouse as their compute resource.
 
 ### Snowflake Permissions Paradigm
 
