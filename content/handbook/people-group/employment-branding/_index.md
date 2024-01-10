@@ -262,6 +262,53 @@ We highly encourage team members to share the news about any GitLab employer awa
 1. If mentioning GitLab, especially on LinkedIn and Instagram, remember to tag the company page and use the hashtags #gitlab #lifeatgitlab.
 1. Or, if you'd prefer suggested messaging to start with, you can log in to Bambu through Okta, and search for "Best workplaces". You'll find links to share the most recent employer awards available to quickly share with your networks.
 
+## External Engagement
+
+### Objective & Goals
+Our external talent engagement strategy aims to align with the goals and vision of our Talent Brand, Talent Acquisition, and Diversity, Inclusion, and Belonging teams. 
+For further detail from each sub-group please refer to the links below.
+
+1. [Talent Brand](https://gitlab.com/gitlab-com/people-group/talent-acquisition/-/issues/1014)
+1. [Talent Acquisition](https://docs.google.com/document/d/1Q9ui_BZLRPBAYpRtdtpHVSvGzW3g7JtVYkGj_KqwZBA/edit#heading=h.riu5wc8sjmum)
+1. [DIB](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#key-performance-indicators)
+
+
+Together, we partner to define and select organizations to partner with that allow us to engage with a target audience that includes members from underrepresented groups as defined [here](https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups).
+
+### How We Make Decisions
+Engaging externally is a process guided by our evaluation strategy. As mentioned above our aim is to align with the objectives and goals of 3 key People groups, ultimately making it so **everyone can contribute**. 
+
+Our decision-making process involves a comprehensive assessment of potential partners including the following factors:
+
+**DIB Alignment**
+- Does this align with our stated DIB [KPIs](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#executive-summary)?
+- Does this align with GitLab’s [definition](https://about.gitlab.com/company/culture/inclusion/#definitions) of an underrepresented group?
+- Does this support talent globally?
+
+**Relevancy**
+- Is the intended audience relevant to a GitLab priority/business function?
+- Will this partnership contribute to supporting a GitLab priority or business function?
+
+**Location and Accessibility**
+- If this is related to an event, is the location viable for GitLab to attend?
+- If applicable - Is this partnership in an [entity or an “open for hiring” branch?](https://about.gitlab.com/handbook/people-group/employment-solutions/#gitlab-entities-and-branches) If related to interns see [here](https://docs.google.com/spreadsheets/d/1uHHbExS_mEY2mMtPeZcfJz21IMg-TXS2buWeLIUYUlA/edit#gid=402334717).
+- If this is related to an event, does the location provide an opportunity for GitLab to perform other business-related activities?
+- Does this partnership share clear ways that their space is accessible?
+- Is there a virtual option?
+- Do our talent insights provide data around the location having a diverse population [gender, ethnicity, etc.]
+
+**Brand Value**
+- Will this opportunity offer GitLab exposure and/or the ability to promote careers via a speaking engagement[s], social media presence, or likewise?
+
+**Previous GitLab Engagement + Feedback**
+- If applicable - Have we gathered feedback from previous engagements?
+- What are publicly available sentiments regarding the partner?
+
+**Cost**
+- How does the cost of attending this event align with our budget?
+- Are there opportunities for cross-department cost sharing?
+- Will this partnership impact our ability to fund other partnerships?
+
 ## All-remote work
 
 A foundational aspect of our talent brand is the flexibility and autonomy that all-remote work gives our team members. The Talent Brand Manager collaborates closely with the [All-Remote Marketing team]({{< ref "workplace" >}}) to raise awareness about remote work and tell the stories of how it's impacted the lives of our team members. Learn more about GitLab's approach to remote work on our [all-remote page](/handbook/company/culture/all-remote/).
