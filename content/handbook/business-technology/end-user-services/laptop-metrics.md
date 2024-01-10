@@ -22,7 +22,7 @@ The **Regions** section is detailing what region and what metric we are tracking
 | Regions                         | July | August | September |October |November |December |
 | -------------                   |:-----|:-------|:----------|:-------|:--------|:--------|
 | EMEA Laptops delivered          |11    |9       |8          |9       |9        |8        |
-| EMEA % on time                  |100%  |100%    |87.5%      |100%    |100%     |75%      |
+| EMEA % on time                  |100%  |100%    |87.5%      |100%    |100%     |100%      |
 | North America laptops delivered |22    |22      |22         |27      |23       |9        |
 | North America % on time         |92%   |95.5%   |100%       |92%     |91%      |100%     |
 | APAC Laptops delivered          |6     |3       |3          |2       |3        |9        |
@@ -32,5 +32,5 @@ The **Regions** section is detailing what region and what metric we are tracking
 | ROW Laptops delivered           |0     |0       |0          |0       |0        |0        |
 | ROW % on time                   |N/A   |N/A     |N/A        |N/A     |N/A      |N/A      |
 | Total laptops delivered         |39    |34      |33         |39      |37       |26       |
-| % Laptops delivered on time     |95%   |94%     |97.2%      |94.9%   |94.6%    |92.4%    |
+| % Laptops delivered on time     |95%   |94%     |97.2%      |94.9%   |94.6%    |100%    |
 
