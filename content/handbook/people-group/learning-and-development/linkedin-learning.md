@@ -2,7 +2,7 @@
 title: "LinkedIn Learning"
 ---
 
-We have decided to end our current agreement with LinkedIn Learning, and approach this benefit differently in FY25. Current users will have access to LinkedIn Learning through 11 JAN 2024.
+We have decided to end our current agreement with LinkedIn Learning, and approach this benefit differently in FY25. Current users will have access to LinkedIn Learning through 20 JAN 2024.
 
 Any GitLab team members who would like to continue using LinkedIn Learning beyond this time should lean into using their Growth & Development allocation to cover costs. Please let  us know any questions or feedback you have in the #learninganddevelopment Slack channel. More detailed communications will be shared on this soon via Slack.
 
