@@ -30,7 +30,7 @@ Note the log adds new entries every few seconds. Most of these entries are gitla
 sudo gitlab-ctl stop nginx
 ```
 
-3. Attempt to navigate to `http://<YOUR_GITLAB_INSTANCE>` using a web browser. Your web browser should display "**This site can't be reached**" or a similar message.
+3. Attempt to navigate to `http://<your_gitlab_instance>` using a web browser. Your web browser should display "**This site can't be reached**" or a similar message.
 
 4. Check `nginx/access_log` again.
 
@@ -142,7 +142,7 @@ Recent entries should indicate successful requests to Puma (i.e. when you reload
 1. SSH into your **GitLab Runner server**.
 
 ```bash
-ssh -i <SSH_HOST_KEY>.pem ec2-user@<GITLAB_RUNNER_HOST>
+ssh -i <SSH_host_keyY>.pem ec2-user@<GitLab_runner_host>
 ```
 
 8. Download Git if it is not already installed.
@@ -158,7 +158,7 @@ sudo dnf install -y git
 11. From your GitLab Runner server, clone the repository.
 
 ```bash
-git clone <URL_COPIED_FROM_PREVIOUS_STEP>
+git clone <URL_copied_from_previous_step>
 ```
 
 12. Verify the project is correctly cloned.
@@ -174,7 +174,7 @@ git status
 14. Open an SSH session on your **GitLab Omnibus instance**.
 
 ```bash
-ssh -i <SSH_HOST_KEY>.pem ec2-user@<GITLAB_OMNIBUS_HOST>
+ssh -i <SSH_host_key>.pem ec2-user@<GitLab_omnibus_host>
 ```
 
 15. Verify Gitaly is running.
@@ -246,7 +246,7 @@ git fetch
 29. Re-initiate an SSH session on your **GitLab Omnibus instance**.
 
 ```bash
-ssh -i <SSH_HOST_KEY>.pem ec2-user@<GITLAB_OMNIBUS_HOST>
+ssh -i <SSH_host_key>.pem ec2-user@<GitLab_omnibus_host>
 ```
 
 30. Restart Gitaly services.
@@ -292,7 +292,7 @@ sudo ./gitlabsos.rb
 
 ```bash
 ls
-tar -tvf gitlabsos.<GITLAB_FQDN>.<TIMESTAMP>.tar.gz
+tar -tvf gitlabsos.<GitLab_FQDN>.<timestamp>.tar.gz
 ```
 
 GitLab Support may ask for this report to assist with troubleshooting.
