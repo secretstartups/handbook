@@ -47,7 +47,7 @@ Audit Committee meetings are attended by:
 
 **Meeting Process**
 
-The Staff EBA to the CEO is the DRI of scheduling the quarterly Compensation and Leadership Development Committee meeting in conjunction with the Chairperson, Management DRI and their Sr. EBA
+The Legal and People Group EBAs are the DRIs of scheduling the quarterly Compensation and Leadership Development Committee meeting in conjunction with the Chairperson, Management DRI and their Sr. EBA
 
 1. Timing: 2-3 weeks prior to the formal Board of Directors Meeting and aligned with Audit Committee
 1. Duration: 80min
@@ -64,12 +64,16 @@ Compensation and Leadership Development Committee meetings are attended by:
 
 **Compensation & Leadership Development Committee Schedule:**
 
-The 2022 schedule of Compensation & Leadership Development Committee meetings is as follows:
+The EBA to the CPO will update the calendar accordingly for each year.
 
-- 2022-03-11 (Friday) - 11am - 12:20pm PST
-- 2022-06-14 (Tuesday) - 10:30am - 11:50am PST
-- 2022-09-07 (Wednesday) - 10:30am -11:50am PST
-- 2022-12-7 (Wednesday) - 10:30am - 11:50am PST
+The 2024 schedule of Compensation & Leadership Development Committee meetings is as follows:
+
+- 2024-02-21 (Wednesday) - 10am - 11:20am PST
+- 2024-03-08 (Friday) - 9:00am - 10:20am PST
+- 2024-06-12 (Wednesday) - 9:00am -10:20am PST
+- 2024-09-11 (Wednesday) - 9:00am - 10:20am PST
+- 2024-12-10 (Tuesday) - 9:00am - 10:20am PST
+
 
 ### Nominating and Corporate Governance Committee
 
