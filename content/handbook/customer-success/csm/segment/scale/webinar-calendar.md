@@ -21,22 +21,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### AMER Time Zone Webinars & Labs
 
-#### Intro to GitLab
-##### January 9th, 2024 at 9:00-10:00AM Pacific Time / 1:00-2:00PM Eastern Time
-
-Are you new to GitLab? Join this webinar, where we will review what GitLab is, how it benefits you, and the recommended workflow to allow you to get the most out of the platform.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_J6u0UraeSESGFqjkqNyccg#/registration)
-
-#### Hands-On GitLab CI Lab 
-##### January 10th, 2023 at 9:00-10:30AM Pacific Time / 12:00-1:30PM Eastern Time
-
-Join us for a hands-on GitLab CI lab and learn how it can fit in your organization!
-
-Learn how to build simple GitLab pipelines and work up to more advanced pipeline structures and workflows, including security scanning and compliance enforcement.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_u_CBtGNhQxOfHfCcu_HtrA#/registration)
-
 #### Intro to CI/CD
 ##### January 16th, 2024 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
 
@@ -103,22 +87,6 @@ Join us for a hands-on GitLab AI lab where we will explore Artificial Intelligen
 
 
 ### EMEA Time Zone Webinars & Labs
-
-#### Intro to GitLab
-##### January 9th, 2024 at 10:00-11:00AM UTC / 11:00AM-12:00PM CET
-
-Are you new to GitLab? Join this webinar, where we will review what GitLab is, how it benefits you, and the recommended workflow to allow you to get the most out of the platform.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_MDTjG0rJTF-rukCbPlqVDA#/registration)
-
-#### Hands-On GitLab CI Lab 
-##### January 10th, 2023 at 10:00-11:30AM UTC / 11:00AM-12:30PM CET
-
-Join us for a hands-on GitLab CI lab and learn how it can fit in your organization!
-
-Learn how to build simple GitLab pipelines and work up to more advanced pipeline structures and workflows, including security scanning and compliance enforcement.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_c8z6pC12SK6TiZvIR-Nv3g#/registration)
 
 #### Intro to CI/CD
 ##### January 16th, 2024 at 10:00-11:00AM UTC / 11:00AM-12:00PM CET
