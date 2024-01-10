@@ -272,7 +272,7 @@ Snowflake can be used to perform analyses on the data that is available by writi
 For access to write SQL in Snowflake an AR must be opened as [described](handbook/business-technology/data-team/platform/#warehouse-access). A new user will be created with access to the `PROD` database.
 There are 2 levels of data access:
 - Non-SAFE data --> Adding the Snowflake `reporter` role to their account.
-- SAFE data (you must be or will become a designated insider) --> adding the Snowflake `restricted_safe` additionally role to their account. See the [SAFE Guide](handbook/business-technology/data-team/platform/safe-data/#snowflake) for the needed approvals.
+- SAFE data (you must be or will become a designated insider) --> Adding the Snowflake `restricted_safe` role additionally to their account. See the [SAFE Guide](handbook/business-technology/data-team/platform/safe-data/#snowflake) for the needed approvals.
 
 All users will have by default the dev_xs warehouse as their compute resource.
 
