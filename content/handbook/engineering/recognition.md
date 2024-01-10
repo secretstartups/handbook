@@ -7,7 +7,7 @@ title: Recognition in Engineering
 Quarterly, CTO Leadership will recognize Engineering team members who have excelled in a given quarter. Recognition includes:
 
 - an invitation to the [Engineering Quarterly Achievers Chat](#engineering-quarterly-achievers-chat)
-- participation in the [Engineering Quarterly Achiever's Recognition Dinner](#engineering-quarterly-achievers-recognition-dinner) - an expensed meal for yourself, friends and family to celebrate your work
+- participation in the [Engineering Quarterly Achiever's Recognition Dinner](#engineering-quarterly-achievers-recognition-dinner) - an expensed meal for yourself, friends and family to celebrate your work, please see [this](https://docs.google.com/document/d/1xTvoYflQ61SZqu4Rsjm1bkDs_f9zGqgMxpueaTLCEYM/edit) document for expensing guidelines.
 
 ### Engineering Quarterly Achiever's Chat
 
@@ -20,9 +20,9 @@ The Quarterly Achiever's Chat recognizes Engineering team members who have excel
 
 Key features of this call include:
 
-- 50-minute call
+- 30-minute call
 - Held within first two months of new quarter
-- CEO and CTO attendance required
+- CEO, CFO, CTO and/or CProdO attendance required
 - Not recorded
 
 ### Engineering Quarterly Achiever's Recognition Dinner
