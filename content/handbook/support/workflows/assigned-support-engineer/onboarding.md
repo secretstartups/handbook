@@ -5,17 +5,13 @@ description: Workflow to onboard a new customer with an ASE
 
 ## Overview
 
-When a customer signs the contract for an Assigned Support Engineer (ASE) then this is
-the beginning of an ongoing relationship between the customer and the ASE.
-This is also the beginning of a new process, from the perspective of GitLab
-Support. Here are the steps to take and perform as you, the ASE, takes on a
-new customer.
+When a customer signs the contract for an Assigned Support Engineer (ASE), the
+ASE becomes their primary point-of-contact at GitLab Support.
 
-Tickets that come from a customer with an Assigned Support Engineer (ASE) are
-handled differently than that of other customers. Some key differences are:
-
-- The ASE is the customer's primary contact at GitLab Support
-- 
+When this happens then all involved parties (the ASE, customer, other Support Engineers,
+etc.) should be aligned on the correct processes to follow. Below are the
+steps the ASE should take with the customer and within GitLab to align
+everyone.
 
 ## Customer Communication
 
@@ -29,12 +25,13 @@ manage these as-needed during the ASE contract.
 
 ### Auto-assign the customer's tickets
 
-- create an issue to get tickets assigned to you
+[Create an issue in the Organizations project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/organizations/-/issues)
+to auto-assign tickets from this organization to the ASE.
 
 ### Org Note mentioning the ASE and how to treat the ticket
 
-A customer having an ASE can be a confusing prospect for other Support
-Engineers. How would they know that a specific customer has an ASE? 
+A customer having an ASE can be a confusing prospect for others in and out of
+GitLab Support. How would they know that a specific customer has an ASE?
 How should they handle this customer's tickets when the ASE is not
 working, or busy? What if the customer creates an emergency ticket?
 
