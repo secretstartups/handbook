@@ -19,7 +19,12 @@ The Developer Relations team create content on varying topics and in different f
 
 ### Content Asset Inventory
 
-A common bottle neck to tracking the effectiveness of content is having a source where the content are listed and indexed with relevant meta data. While individual content types like Blog posts can be sourced from the medium on which they are published, it is often difficult to filter automatically for a specific team or group. The workaround is to have a spreadsheet where all the content are aggregated for further use, this is the role the Content Asset Inventory [spreadsheet](https://docs.google.com/spreadsheets/d/1WzdX8o9wzuswIPMAYVUURswm2AtwFcVE6XhmHy1lhr8/edit#gid=0) plays. Our Looker Studio and Tableau dashboards use the Asset inventory as a data source. 
+A common bottle neck to tracking the effectiveness of content is having a source where the content are listed and indexed with relevant meta data. While individual content types like Blog posts can be sourced from the medium on which they are published, it is often difficult to filter automatically for a specific team or group. The workaround is to have a spreadsheet where all the content are aggregated for further use, this is the role the Content Asset Inventory [spreadsheet](https://docs.google.com/spreadsheets/d/1WzdX8o9wzuswIPMAYVUURswm2AtwFcVE6XhmHy1lhr8/edit#gid=0) plays. Our Looker Studio and Tableau dashboards use the Asset inventory as a data source. The sheets in the spreadsheet are:
+
+- `youtube_views_gitlab`: Videos published on GitLab owned YouTube channels.
+- `devrel_blog_posts_views`: Blog posts published on GitLab's blog bty members of the Developer Relations team.
+- `devrel_influenced_campaigns`: Campaigns influenced by members of the Developer Relations team
+- `External Videos`: Videos created by or in collaboration with a member of the Developer Relations team and published on a non-GitLab owned YouTube channel or a platform other than YouTube.
 
 ### YouTube2Sheets
 
@@ -98,10 +103,10 @@ There are 4 pages in the Looker Studio report:
 ### Developer Relations Influenced Campaigns
 
 The Developer Relations team contribute to several campaigns across GitLab. To measure the impact of this contributions, we keep track of DevRel influenced campaigns in the `devrel_influenced_campaigns` sheet of the [Content Asset Inventory](https://docs.google.com/spreadsheets/d/1WzdX8o9wzuswIPMAYVUURswm2AtwFcVE6XhmHy1lhr8/edit#gid=1201530981). These sheet serves as a data source for the Developer Relations filter to show campaigns influenced by the team on the [Marketing Campaigns Dashboard](https://10az.online.tableau.com/#/site/gitlab/views/DraftTDCampaigns-L2RInteractions/CampaignDrillDown?%3Aiid=1).
+h
+##  Maintenance guide
 
-## Setup & Maintenance guide
-
-This section details how the different components of the Content Effectiveness wokflow are setup and how to maintain them.
+This section details how the different components of the Content Effectiveness wokflow link togther and how to maintain them.
 
 ### Data Reporting Flow
 
@@ -120,12 +125,21 @@ flowchart LR
     content_inventory --> looker_reports
     content_inventory --> snowflake --> tableau_datasource --> tableau_dashboard
 ```
-### Setup
-
-#### Looker Reports
-
-#### Marketing Campaigns Dashboard
 
 ### Maintenance
 
-#### Where to Update and When
+#### Campaigns
+
+- Use the Campaign Manager to generate shortlinks or full campaign links and use in your campaigns
+- If the campaign belongs to a different team, Confirm the UTM or Salseforce Campaign name and update the `devrel_influenced_campaigns` sheet in the Content Inventory accordingly.
+- It is recommended to use campaign links as much as you can on non-GitLab mediums.
+
+#### Blog posts
+
+Once a Blog Post has been published on the GitLab Blog, add the URL along with other details to the `devrel_blog_posts_views` sheet. This is an important step in getting the content piece to appear in the the relevant dashboards.
+
+#### Videos
+
+For YouTube Videos on Official and Unfiltered Channels, ensure the videos are organized in a playlist and add the play list to the YouTube to Sheets `data_config.json file`. Ensure the DevRel Content Inventory spreadsheet ID is used, you can find it from other playlists in the file. Once this is done, the videos from the playlist will be added to the `youtube_views_gitlab` sheet once the [scheduled pipelines](https://gitlab.com/gitlab-com/marketing/developer-relations/dev-evangelism/code/youtube2sheets/-/pipeline_schedules) of the YouTube2Sheets project runs.
+
+For videos on non-GitLab Channels or other p0latforms, add the details about the video to the `External Videos` sheet.
