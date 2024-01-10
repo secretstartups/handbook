@@ -1,3 +1,4 @@
+{{ .Page.Store.Set "hastableau" true -}}
 {{- $open := .open -}}
 {{- range .data.charts -}}
 <details {{ if eq $open true }}open="open"{{ end }}>	
