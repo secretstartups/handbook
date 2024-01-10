@@ -265,6 +265,7 @@ We highly encourage team members to share the news about any GitLab employer awa
 ## External Engagement
 
 ### Objective & Goals
+
 Our external talent engagement strategy aims to align with the goals and vision of our Talent Brand, Talent Acquisition, and Diversity, Inclusion, and Belonging teams. 
 For further detail from each sub-group please refer to the links below.
 
@@ -276,6 +277,7 @@ For further detail from each sub-group please refer to the links below.
 Together, we partner to define and select organizations to partner with that allow us to engage with a target audience that includes members from underrepresented groups as defined [here](https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups).
 
 ### How We Make Decisions
+
 Engaging externally is a process guided by our evaluation strategy. As mentioned above our aim is to align with the objectives and goals of 3 key People groups, ultimately making it so **everyone can contribute**. 
 
 Our decision-making process involves a comprehensive assessment of potential partners including the following factors:
