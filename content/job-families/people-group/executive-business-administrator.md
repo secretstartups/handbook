@@ -54,7 +54,7 @@ The Executive Business Administrator is a [grade 6](/handbook/total-rewards/comp
 
 ### Senior Executive Business Administrator
 
-Senior Executive Business Administrators typically support an E-Group member and report directly to their leader. 
+Senior Executive Business Administrators typically support an E-Group member and report directly to their leader.
 #### Senior Executive Business Administrator Job Grade
 
 The Senior Executive Business Administrator is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -62,7 +62,7 @@ The Senior Executive Business Administrator is a [grade 7](/handbook/total-rewar
 #### Senior Executive Business Administrator Responsibilities
 
 - Extends Executive Business Administrator (Intermediate) Responsibilities
-- Support members of our Executive Group [E-Group](/handbook/company/team/structure/#e-group) across various time zones. May support VPs if all responsibilities are consistently met. 
+- Support members of our Executive Group [E-Group](/handbook/company/team/structure/#e-group) across various time zones. May support VPs if all responsibilities are consistently met.
 - Understand division wide KPIs and operating procedures and can prioritize projects, requests, and executive calendar accordingly. May make recommendations to leaders to help better prioritize incoming requests
 - Use independent judgment and discretion to prioritize demanding calendars, ensure the leader is prepared appropriately with all pre-read materials, in-meeting organization, and action item follow up
 - Serve as the executive’s central point of contact, driving task execution and project completion
@@ -77,7 +77,7 @@ The Senior Executive Business Administrator is a [grade 7](/handbook/total-rewar
 
 #### Senior Executive Business Administrator Requirements
 
-- Extends Executive Business Administrator (Intermediate) Requirements 
+- Extends Executive Business Administrator (Intermediate) Requirements
 - Previous experience supporting a C-Staff Executive at a quickly-scaling or large company
 - Self-starter who can operate independently and move quickly from one task to another; creative problem solver, seeks “win-win” solutions; energized by challenges with superb attention to detail
 - Demonstrated leadership mindset in prior roles—ability to influence culture/environment around them and has a “one team” mindset; able to lead other EBAs and partner well across GitLab
@@ -85,7 +85,7 @@ The Senior Executive Business Administrator is a [grade 7](/handbook/total-rewar
 - Approachable and effective communicator across various communication channels and with all levels of the organization
 - Must be able to work flexible hours to support international business meetings and some travel is required in most roles
 
-### Staff Executive Business Administrator 
+### Staff Executive Business Administrator
 
 Staff Executive Business Administrators (EBA) support the CEO or an E-Group member. Staff EBA roles report directly to their leader or the leader’s Chief of Staff.
 
@@ -96,7 +96,7 @@ The Staff Executive Business Administrator to the CEO is a [grade 8](/handbook/t
 #### Staff Executive Business Administrator Responsibilities
 - Extends Senior Executive Business Administrator Responsibilities
 - Strategically and methodically support executive leaders, serving as a partner and regularly handling highly confidential and sensitive materials
-- Regularly deliver results proactively and without supervision 
+- Regularly deliver results proactively and without supervision
 - Through a deep understanding of GitLab’s strategy, business objectives, and key priorities, anticipate needs of their executive
 - Vigorously safeguard the time and business priorities of executives by acting as a guardian and attentively managing access to the rest of the company
 - Follow through diligently, often using knowledge of the executive, their direct reports, external parties, and company values to make autonomous decisions that lead to more effective executive attention and communication
@@ -111,24 +111,27 @@ The Staff Executive Business Administrator to the CEO is a [grade 8](/handbook/t
 - Able to provide CEO support, if needed
 
 #### Staff Executive Business Administrator Requirements
+
 - Extends Senior Executive Business Administrator Requirements
 - Deep experience supporting a C-Level Executive(s) as an EA or executive business partner at a quickly-scaling company, effectively representing the personal brand of the executive as well as the company’s culture and value
 - High integrity and track record of maintaining confidentiality of all work product and sensitive information
 
-## Specialties 
+## Specialties
 
-### CEO 
+### CEO
 
-The Staff EBA to the CEO strategically supports our Chief Executive Officer in the Pacific time zone, serving as a partner in handling correspondence, including confidential and sensitive materials. This role reports directly to the Chief of Staff to the CEO. 
+The Staff EBA to the CEO strategically supports our Chief Executive Officer in the Pacific time zone, serving as a partner in handling correspondence, including confidential and sensitive materials. This role reports directly to the Chief of Staff to the CEO.
 
-#### Responsibilities 
+#### Responsibilities
+
 Manage CEO's email inbox including drafting internal and external communications on their behalf when required
-Maintain collaborative relationships with the Board of Directors and prepare materials such as slide decks for Board meetings 
+Maintain collaborative relationships with the Board of Directors and prepare materials such as slide decks for Board meetings
 Act as a mentor to the EBA team, sharing best practices and workflows to positively influence the team’s workflows and collaboration
 
-#### Requirements 
-- Experience supporting a CEO at a public, high growth tech company 
-- Experience working closely with a Board of Directors 
+#### Requirements
+
+- Experience supporting a CEO at a public, high growth tech company
+- Experience working closely with a Board of Directors
 
 ## Career Ladder
 
