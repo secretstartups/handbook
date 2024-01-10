@@ -274,7 +274,6 @@ For further detail from each sub-group please refer to the links below.
 1. [Talent Acquisition](https://docs.google.com/document/d/1Q9ui_BZLRPBAYpRtdtpHVSvGzW3g7JtVYkGj_KqwZBA/edit#heading=h.riu5wc8sjmum)
 1. [DIB](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#key-performance-indicators)
 
-
 Together, we partner to define and select organizations to partner with that allow us to engage with a target audience that includes members from underrepresented groups as defined [here](https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups).
 
 ### How We Make Decisions
@@ -311,6 +310,61 @@ Our decision-making process involves a comprehensive assessment of potential par
 - How does the cost of attending this event align with our budget?
 - Are there opportunities for cross-department cost sharing?
 - Will this partnership impact our ability to fund other partnerships?
+
+### Requests and Recommendations
+
+Collaboration from all teams and departments is welcome. To effectively manage requests to partner on a sponsorship or partnership, or recommendations to sponsor or partner with an organization, please open a new issue in the [Talent Brand and Engagement Project](https://gitlab.com/gitlab-com/people-group/talent-brand-and-engagement/-/issues) and select the **sponsorship_or_partnership_proposal** issue template a minimum of **8 weeks** before the start date of the sponsorship or partnership.
+
+### How We Define Success
+
+**Events**
+
+| **KPI** | **Definition and Measurement** |
+| ------ | ------ |
+| # of Attendees | The total number of attendees that attend an individual event/booth participation. 
+<br>
+<br>This is measured by: 
+<br>Number of Talent Community adds QR scans.
+<br>Number of checked-in attendees.|
+| Conversion Rate | The percentage of individual event attendees that convert from Prospect to Qualified in Greenhouse. |
+| Quality of Candidates | The percentage of attendees that convert from Qualified to Initial Interview. |
+| Attendee Likelihood To Recommend | The likelihood that attendees would recommend attending a Gitlab-hosted event to family, friends, and/or colleagues. 
+<br>
+<br>This is measured by post-event survey responses.
+<br>Scores of 1-2 = Not Likely To Recommend
+<br>Score of 3 = Passive
+<br>Scores of 4-5 = Likely To Recommend. |
+| Cost of Engagement | This is calculated as the total event/total # of attendees + digital reach. |
+
+**Partnerships and Platforms**
+
+| **KPI** | **Definition and Measurement** |
+| ------ | ------ |
+| Page Visitors and Viewers | This is measured quarterly and annually for platforms. 
+<br>
+<br>Metrics pulled from the platform or provided by the partner. |
+| Conversion Rate | The percentage of individual event attendees that convert from Prospect to Qualified in Greenhouse. |
+| Job Applications | Number of job applications received directly from the platform or partnership.
+<br>
+<br>Metrics pulled from the platform or partner and from Greenhouse reporting. Ensure to include the platform as a source on Greenhouse. |
+| Hires | Number of hires made from prospects received directly from the platform or partnership or hires made influenced by the platform or partnership. Influenced hires are those who viewed the GitLab page on the platform or partnership, but applied directly on our jobs page.
+<br>
+<br>Metrics pulled from the platform or provided by the partner and from Greenhouse reporting. Ensure to include the platform/partnership as a source on Greenhouse. |
+| Conversion Rate | % applications from the platform or partnership that turned into a hire. 
+<br> - Applications received from platform or partnership divided by hires. |
+| GitLab Team Members Featured | Number and names of GitLab team members featured on the platform or as a result of the partnership. |
+| Content | Number of and links to content published on the platform or as a result of the partnership. |
+
+**FY24 Roster**
+- [Code2College](https://code2college.org) - Partnership
+-[Women Impact Tech](https://gitlab.com/gitlab-com/people-group/dib-diversity-inclusion-and-belonging/diversity-and-inclusion/-/issues/835) - Event Sponsorship
+- [European Women in Tech](https://gitlab.com/gitlab-com/people-group/dib-diversity-inclusion-and-belonging/diversity-and-inclusion/-/issues/888) - Event Sponsorship
+- [Black Tech Fest](https://gitlab.com/gitlab-com/people-group/dib-diversity-inclusion-and-belonging/diversity-and-inclusion/-/issues/826) - Event Sponsorship
+- [Unicorns in Tech](https://www.unicornsintech.com) - Event Sponsorship
+- [Grace Hopper Conference](https://gitlab.com/gitlab-com/people-group/dib-diversity-inclusion-and-belonging/diversity-and-inclusion/-/issues/829) - Event Sponsorship
+- [GitLab Hosted Experience](https://www.eventbrite.com/e/diverse-minds-unified-ai-solutions-gitlab-hosted-happy-hour-and-panel-tickets-728537293657?aff=oddtdtcreator) - during [Afrotech 2023](https://experience.afrotech.com)
+- [Out in Tech](https://outintech.com) - Partnership
+- [Blacks In Technology Calgary](https://foundation.blacksintechnology.net/chapters/) - Sponsorship
 
 ## All-remote work
 
