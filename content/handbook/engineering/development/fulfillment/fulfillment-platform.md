@@ -39,6 +39,7 @@ We want to use our Architecture Review meeting to invite other people from the [
 - Intake and proposals to enable other Fulfillment groups to be more efficient.
 - Architectural reviews and suggestions (e.g. spikes from other teams) that impact the CDot architecture.
 - Topics related to our Zuora integration.
+- Topics related to any [Fulfillment product category](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/categories.yml#L2219).
 
 ### Meeting routine and agenda
 
