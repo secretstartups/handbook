@@ -56,7 +56,9 @@ GitLab requires all team members to use either Biometrics or YubiKey as your [Ok
 1. In the 'Security Methods' section of the page, choose `Set up` or `Set up another` next to `Security Key or Biometric`.
 1. You will then presented with a password verification and passkey verification prompt.
 1. After pressing `Set up` twice, a prompt from your web browser will appear, or a [1Password prompt](#adding-a-passkey-to-1password) may appear. Click the "YubiKey" icon to bypass if it appears and you wish to save it in iCloud Keychain (recommended) or the local Chrome browser. 
+
 <img src="/handbook/business-technology/okta/images/1password-passkey.png" alt="1Password USB Key" width="300">
+
 1. For iCloud Keychain or a YubiKey, click "Use a different passkey". For the local Chrome browser choose "Continue".
 
 
@@ -68,7 +70,7 @@ GitLab requires all team members to use either Biometrics or YubiKey as your [Ok
 
 1. If you chose to use the iCloud Keychain or Security Key, choose the correct option to finish enrollment.
 
-    <img src="/handbook/business-technology/okta/images/Okta-Chrome-Passkey-2.png" alt="Okta Add Passkey #2" width="300"/
+    <img src="/handbook/business-technology/okta/images/Okta-Chrome-Passkey-2.png" alt="Okta Add Passkey #2" width="300"/>
 
 
 1. For Security Key, relevant prompts will appear.
