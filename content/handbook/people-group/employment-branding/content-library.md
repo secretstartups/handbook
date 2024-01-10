@@ -42,6 +42,12 @@ The current headcount number will be updated each quarter following our quarterl
 
 These awards and lists recognize GitLab's unique culture and help us spread the word about why this is such a great place to work. Here are the latest:
 
+<details><summary>2024</summary>
+
+- [Best Places to Work, Builtin, 2023](https://builtin.com/awards/remote/2024/best-large-places-to-work?utm_source=bambu&utm_medium=social&utm_campaign=advocacy&blaid=5510421)
+
+</details>
+
 <details><summary>2023</summary>
 
 - [Great Place to Work Certified, 2023-2024](https://www.greatplacetowork.com/certified-company/7013799)
