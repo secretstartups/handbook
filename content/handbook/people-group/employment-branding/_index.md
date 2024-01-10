@@ -321,37 +321,20 @@ Collaboration from all teams and departments is welcome. To effectively manage r
 
 | **KPI** | **Definition and Measurement** |
 | ------ | ------ |
-| # of Attendees | The total number of attendees that attend an individual event/booth participation. 
-<br>
-<br>This is measured by: 
-<br>Number of Talent Community adds QR scans.
-<br>Number of checked-in attendees.|
+| Number of Attendees | The total number of attendees that attend an individual event/booth participation.<br><br>This is measured by: <br> - Number of Talent Community adds QR scans.<br> - Number of checked-in attendees.|
 | Conversion Rate | The percentage of individual event attendees that convert from Prospect to Qualified in Greenhouse. |
 | Quality of Candidates | The percentage of attendees that convert from Qualified to Initial Interview. |
-| Attendee Likelihood To Recommend | The likelihood that attendees would recommend attending a Gitlab-hosted event to family, friends, and/or colleagues. 
-<br>
-<br>This is measured by post-event survey responses.
-<br>Scores of 1-2 = Not Likely To Recommend
-<br>Score of 3 = Passive
-<br>Scores of 4-5 = Likely To Recommend. |
+| Attendee Likelihood To Recommend | The likelihood that attendees would recommend attending a Gitlab-hosted event to family, friends, and/or colleagues.<br><br>This is measured by post-event survey responses.<br> - Scores of 1-2 = Not Likely To Recommend<br> - Score of 3 = Passive<br> - Scores of 4-5 = Likely To Recommend. |
 | Cost of Engagement | This is calculated as the total event/total # of attendees + digital reach. |
 
 **Partnerships and Platforms**
 
 | **KPI** | **Definition and Measurement** |
 | ------ | ------ |
-| Page Visitors and Viewers | This is measured quarterly and annually for platforms. 
-<br>
-<br>Metrics pulled from the platform or provided by the partner. |
-| Conversion Rate | The percentage of individual event attendees that convert from Prospect to Qualified in Greenhouse. |
-| Job Applications | Number of job applications received directly from the platform or partnership.
-<br>
-<br>Metrics pulled from the platform or partner and from Greenhouse reporting. Ensure to include the platform as a source on Greenhouse. |
-| Hires | Number of hires made from prospects received directly from the platform or partnership or hires made influenced by the platform or partnership. Influenced hires are those who viewed the GitLab page on the platform or partnership, but applied directly on our jobs page.
-<br>
-<br>Metrics pulled from the platform or provided by the partner and from Greenhouse reporting. Ensure to include the platform/partnership as a source on Greenhouse. |
-| Conversion Rate | % applications from the platform or partnership that turned into a hire. 
-<br> - Applications received from platform or partnership divided by hires. |
+| Page Visitors and Viewers | This is measured quarterly and annually for platforms.<br><br>Metrics pulled from the platform or provided by the partner. |
+| Job Applications | Number of job applications received directly from the platform or partnership.<br><br>Metrics pulled from the platform or partner and from Greenhouse reporting. Ensure to include the platform as a source on Greenhouse. |
+| Hires | Number of hires made from prospects received directly from the platform or partnership or hires made influenced by the platform or partnership. _Influenced hires are those who viewed the GitLab page on the platform or partnership, but applied directly on our jobs page._<br><br>Metrics pulled from the platform or provided by the partner and from Greenhouse reporting. Ensure to include the platform/partnership as a source on Greenhouse. |
+| Conversion Rate | % applications from the platform or partnership that turned into a hire.<br> - Applications received from platform or partnership divided by hires. |
 | GitLab Team Members Featured | Number and names of GitLab team members featured on the platform or as a result of the partnership. |
 | Content | Number of and links to content published on the platform or as a result of the partnership. |
 
@@ -365,6 +348,9 @@ Collaboration from all teams and departments is welcome. To effectively manage r
 - [GitLab Hosted Experience](https://www.eventbrite.com/e/diverse-minds-unified-ai-solutions-gitlab-hosted-happy-hour-and-panel-tickets-728537293657?aff=oddtdtcreator) - during [Afrotech 2023](https://experience.afrotech.com)
 - [Out in Tech](https://outintech.com) - Partnership
 - [Blacks In Technology Calgary](https://foundation.blacksintechnology.net/chapters/) - Sponsorship
+
+**FY24 Lookback and FY25 Proposal**
+- [FY25 Talent Events Proposal & FY24 Talent Events Look Back](https://docs.google.com/presentation/d/1-y3tP4JuLsfz55B-j25Q7lWAs6f_KoIOOobXZ9Js8_w/edit#slide=id.g12b319f6181_0_0)
 
 ## All-remote work
 
