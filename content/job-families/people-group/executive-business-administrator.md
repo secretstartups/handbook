@@ -4,7 +4,7 @@ title: "Executive Business Administration"
 
 ## About the role
 
-Executive Business Administrators (EBAs) at GitLab toggle seamlessly between various systems including Google Workspace, Slack, Navan, Zoom, and GitLab to accomplish an array of tasks, while staying focused on prioritization and escalating urgent issues. 
+Executive Business Administrators (EBAs) at GitLab toggle seamlessly between various systems including Google Workspace, Slack, Navan, Zoom, and GitLab to accomplish an array of tasks, while staying focused on prioritization and escalating urgent issues.
 
 EBAs at GitLab are self-driven, collaborative, and agile team members who are experienced in managing multiple priorities, juggling various responsibilities, and anticipating the executive’s needs. EBAs are exceptionally organized, relentlessly resourceful, calm under pressure, and strategic multitaskers with a deep love of logistics and the ability to thrive in a dynamic start-up environment.
 
@@ -22,13 +22,13 @@ The Executive Business Administrator is a [grade 6](/handbook/total-rewards/comp
 #### Executive Business Administrator (Intermediate) Responsibilities
 
 - Support VP leaders in various time zones
-- Manage complex calendars including vetting, prioritizing and providing recommendations while taking direction from leaders. Aligns to GitLab meeting norms and practices. 
+- Manage complex calendars including vetting, prioritizing and providing recommendations while taking direction from leaders. Aligns to GitLab meeting norms and practices.
 - Total travel coordination including air and ground transportation, hotel reservations, security, visas and other travel documentation
 - Maintain an efficient flow of information between all levels including internal and external contacts on a wide spectrum of plans and priorities
 - Process and submit expense reports as well as monitor reimbursements in a timely manner
 - Partner with PeopleOps, IT and Security to resolve any logistical needs
 - Assist the full life cycle of recruiting including booking interviews, liaising between the hiring team and the candidate, and coordinating onboarding of new hires
-- Maintain and track manager and teams project list and/or OKRs 
+- Maintain and track manager and teams project list and/or OKRs
 - Contribute to virtual and in-person team meetings and onsites by assisting with the production of materials and pre-reads, scheduling and coordination, logistics and vendor communication, budget-tracking, taking notes, and tracking action items.
 - Provide general project support as needed
 - Provide coverage for other EBAs in similar roles
@@ -55,7 +55,6 @@ The Executive Business Administrator is a [grade 6](/handbook/total-rewards/comp
 ### Senior Executive Business Administrator
 
 Senior Executive Business Administrators typically support an E-Group member and report directly to their leader. 
-
 #### Senior Executive Business Administrator Job Grade
 
 The Senior Executive Business Administrator is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -98,11 +97,11 @@ The Staff Executive Business Administrator to the CEO is a [grade 8](/handbook/t
 - Extends Senior Executive Business Administrator Responsibilities
 - Strategically and methodically support executive leaders, serving as a partner and regularly handling highly confidential and sensitive materials
 - Regularly deliver results proactively and without supervision 
-- Through a deep understanding of GitLab’s strategy, business objectives, and key priorities, anticipate needs of their executive  
+- Through a deep understanding of GitLab’s strategy, business objectives, and key priorities, anticipate needs of their executive
 - Vigorously safeguard the time and business priorities of executives by acting as a guardian and attentively managing access to the rest of the company
 - Follow through diligently, often using knowledge of the executive, their direct reports, external parties, and company values to make autonomous decisions that lead to more effective executive attention and communication
 - Maintain the executive’s calendar in a thoughtful and purposeful manner, ensuring meetings contain the appropriate attendees, agenda items, and any changes are done with full consideration of a global team, spanning multiple time zones; ensure executive is prepped and briefed as necessary for each meeting
-- Communicate effectively and regularly with business leaders and external leaders such as BoD or executives at key customers 
+- Communicate effectively and regularly with business leaders and external leaders such as BoD or executives at key customers
 - Support the hiring process for new EBAs company-wide by participating in interviews upon request. Supports effective onboarding of new EBA.
 - Operate on behalf of the executive with internal team members, BoD, and customers in a manner that exemplifies the GitLab values on matters of significance
 - Draft internal and external communications on behalf of the executive keeping in mind our company values and safeguarding confidential information as well as the executive’s reputation
