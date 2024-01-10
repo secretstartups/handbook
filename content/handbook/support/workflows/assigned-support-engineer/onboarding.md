@@ -1,0 +1,73 @@
+---
+title: Assigned Support Engineer (ASE) Onboarding a Customer
+description: Workflow to onboard a new customer with an ASE
+---
+
+## Overview
+
+When a customer signs the contract for an Assigned Support Engineer (ASE) then this is
+the beginning of an ongoing relationship between the customer and the ASE.
+This is also the beginning of a new process, from the perspective of GitLab
+Support. Here are the steps to take and perform as you, the ASE, takes on a
+new customer.
+
+Tickets that come from a customer with an Assigned Support Engineer (ASE) are
+handled differently than that of other customers. Some key differences are:
+
+- The ASE is the customer's primary contact at GitLab Support
+- 
+
+## Customer Communication
+
+[Introduce yourself as the customer's ASE](introductory_meeting.md).
+
+Consider whether ongoing cadence calls would help the customer relationship
+and/or help achieve their goals. There is no defined process for this so
+manage these as-needed during the ASE contract.
+
+## Internal Communication
+
+### Auto-assign the customer's tickets
+
+- create an issue to get tickets assigned to you
+
+### Org Note mentioning the ASE and how to treat the ticket
+
+A customer having an ASE can be a confusing prospect for other Support
+Engineers. How would they know that a specific customer has an ASE? 
+How should they handle this customer's tickets when the ASE is not
+working, or busy? What if the customer creates an emergency ticket?
+
+This is where an organization note in the ticket will prove useful. It will
+answer the above questions and guide all interested parties (Support Engineers,
+Customer Success Managers, Account Executives, etc.) to the correct workflows for
+what to do.
+
+A good organization note will answer the following questions:
+
+- Who is the Assigned Support Engineer (ASE) for this customer?
+- Which region is the ASE located in?
+- How to handle tickets that come in outside of the ASE's working hours?
+- What should a Support Engineer do with this customer's tickets when the ASE is not available?
+- What to do with tickets that predate the introduction of this ASE?
+- What do in case the customer submits an emergency ticket?
+
+This information will come from the contract and from the discussion with the
+customer in the [introductory meeting](#customer-communication).
+
+Create a merge request for the org note
+[in the Organizations project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/organizations)
+and assign it to your manager for review.
+
+Here's an example:
+
+```yaml
+notes: |
+  This organization has an Assigned Support Engineer (ASE).
+
+  Jill is the AMER ASE for Company-A so at this time, all new non-emergency tickets will be assigned to her. Pre-existing tickets will keep their existing assignee and Jill will shadow.
+
+  If Jill is unavailable, please respond while leaving Jill as the assignee and cc yourself.
+
+  The on-call engineer will continue to handle emergency tickets, which will not get assigned to Jill. However, inform her when an emergency comes in so she can assist if available.
+```
