@@ -1,14 +1,12 @@
-{{- $projects := partials.IncludeCached "data/projects" page -}}
-{{- $team := partials.IncludeCached "data/team" page -}}
 {{- $knownRoles := (slice "owner" "maintainer" "trainee_maintainer" "reviewer") -}}
 {{- $projectTeams := dict -}}
-{{- range $k, $d := $projects -}}
+{{- range $k, $d := site.Data.public.projects -}}
 	{{- $owners := slice -}}
 	{{- $maintainers := slice -}}
 	{{- $trainees := slice -}}
 	{{- $reviewers := slice -}}
 	{{- $members := slice -}}
-	{{- range $team -}}
+	{{- range site.Data.public.team -}}
 		{{$member := . }}
 		{{- range (append (index .projects $k) slice) -}}
 			{{if hasPrefix . "owner"}}
@@ -29,7 +27,7 @@
 	{{- $projectTeams = merge $projectTeams (dict $k (dict "members" $members "owners" $owners "maintainers" $maintainers "trainees" $trainees "reviewers" $reviewers)) -}}
 {{- end -}}
 
-{{ range $k, $d := $projects }}
+{{ range $k, $d := site.Data.public.projects }}
 
 ## {{ $d.name }} {#{{ $k }}}
 
@@ -135,7 +133,7 @@
 		<th>Product owners</th>
 		<td>
 			{{- range (index $projectTeams $k).owners }}
-			{{ partial "member" . }}<br>
+			{{ partial "member/with-team-link" . }}<br>
 			{{- end }}
 		</td>
 	</tr>
@@ -147,7 +145,7 @@
 			{{- range $k, $m := $maintainerRoles}}
 			{{- if not (eq $k " maintainers") }}<strong>{{ $k }} ({{ len $m }})</strong>{{- end }}
 			<p>{{- range (uniq $m) }}
-			{{ partial "member" . }}<br>
+			{{ partial "member/with-team-link" . }}<br>
 			{{- end }}&nbsp;<br>
 			{{- end }}</p>
 		</td>
@@ -160,7 +158,7 @@
 			{{- range $k, $m := $traineeRoles}}
 			{{- if not (eq $k " trainees") }}<strong>{{ $k }} ({{ len $m }})</strong>{{- end }}
 			<p>{{- range (uniq $m) }}
-			{{ partial "member" . }}<br>
+			{{ partial "member/with-team-link" . }}<br>
 			{{- end }}</p>
 			{{- end }}
 		</td>
@@ -173,7 +171,7 @@
 			{{- range $k, $m := $reviewerRoles}}
 			{{- if not (eq $k " reviewers") }}<strong>{{ $k }} ({{ len $m }})</strong>{{- end }}
 			<p>{{- range (uniq $m) }}
-			{{ partial "member" . }}<br>
+			{{ partial "member/with-team-link" . }}<br>
 			{{- end }}</p>
 			{{- end }}
 		</td>

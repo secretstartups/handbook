@@ -11,7 +11,7 @@ The Provision group manages the [Provision category](/handbook/product/categorie
 
 ## Team members
 
-{{% team-by-department "Fulfillment:Provision Team" %}}
+{{% team-by-departments "Fulfillment:Provision Team" %}}
 
 ## Stable counterparts
 

@@ -1,7 +1,10 @@
-{{- $sections := partials.IncludeCached "data/sections" page }}
-{{- $categories := partials.IncludeCached "data/categories" page }}
-{{- $stages := partials.IncludeCached "data/stages" page }}
-{{- $features := partials.IncludeCached "data/features" page }}
+{{ $sections := site.Data.public.sections }}
+{{- $categories := dict }}
+{{- range $k, $v := site.Data.public.categories }}
+  {{- $categories = merge $categories (dict $k $v) }}
+{{ end }}
+{{ $stages := site.Data.public.stages.stages }}
+{{ $features := site.Data.public.features }}
 {{- range $section_key, $section_data := $sections }}
 {{- $section_name := $section_data.name }}
 

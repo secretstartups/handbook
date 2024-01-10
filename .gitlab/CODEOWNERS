@@ -26,7 +26,9 @@
 * @gitlab-com/egroup @gitlab-com/handbook
 
 ^[handbook]
+/content/ @sytses @streas @gitlab-com/egroup
 /content/handbook/ @sytses @streas @gitlab-com/egroup
+/content/handbook/_index.md @sytses @streas @gitlab-com/egroup
 
 ^[job-families]
 /content/job-families/ @sytses @streas @gitlab-com/egroup
@@ -156,7 +158,6 @@
 /content/handbook/engineering/infrastructure/team/gitlab-dedicated/us-public-sector-services.md @sdumesnil @marin
 /content/handbook/engineering/infrastructure/team/gitlab-dedicated/switchboard.md @ashiel @marin
 /content/handbook/engineering/infrastructure/platforms/ @marin @rnienaber @dawsmith
-/content/handbook/engineering/infrastructure/team/reliability/ @dawsmith @kwanyangu @meks
 /content/handbook/engineering/infrastructure/incident-management/ @dawsmith @kwanyangu @meks
 /content/handbook/engineering/infrastructure/emergency-change-processes.md @marin @meks
 /content/handbook/engineering/infrastructure/service-maturity-model.md @rnienaber @marin @meks
@@ -182,10 +183,8 @@
 /content/handbook/engineering/infrastructure/test-platform/onboarding/ @ghosh-abhinaba @kkolpakova @ksvoboda @vincywilson
 /content/handbook/engineering/infrastructure/test-platform/ @ghosh-abhinaba @kkolpakova @ksvoboda @meks @vincywilson
 /content/handbook/engineering/infrastructure/test-platform/quad-planning/ @ghosh-abhinaba @kkolpakova @ksvoboda @vincywilson
-/content/handbook/engineering/infrastructure/test-platform/test-and-tools-infrastructure-team.md @ghosh-abhinaba
 /content/handbook/engineering/infrastructure/test-platform/test-engineering-team.md @kkolpakova
 /content/handbook/engineering/infrastructure/test-platform/self-managed-platform-team/ @ksvoboda
-/content/handbook/engineering/quality/engineering-productivity/ @meks @dcroft @jennli @ddieulivol @alinamihaila @godfat-gitlab @nao.hashizume @rymai @splattael
 /content/handbook/engineering/quality/engineering-analytics.md @meks @cdeleon_gitlab @lmai1
 
 ^[Incubation-department]
@@ -240,9 +239,6 @@
 /content/handbook/engineering/development/dev/create/code-review/ @phikai @kisha.mavryck @andr3
 /content/handbook/engineering/development/dev/create/code-review/backend/ @kisha.mavryck @kerrizor @marc_shaw @dskim_gitlab @garyh @patrickbajao
 /content/handbook/engineering/development/dev/create/code-review/frontend.md @andr3
-
-^[Code-Creation]
-/content/handbook/engineering/development/dev/create/code-creation.md @kbychu @mnohr
 
 ^[Editor-Extensions]
 /content/handbook/engineering/development/dev/create/editor-extensions.md @phikai @francoisrose
@@ -577,7 +573,6 @@
 
 [handbook-homepage]
 /content/_index.html @gitlab-com/handbook
-/content/handbook/_index.md @gitlab-com/handbook
 /content/featured-background.png @gitlab-com/handbook
 /layouts/home.html @gitlab-com/handbook
 

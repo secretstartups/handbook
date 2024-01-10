@@ -1,5 +1,5 @@
 {{ $section_data := . }}
-{{ $team_data := partial "data/team-members" }}
+{{ $team_data := partial "categories/team-members" }}
 {{- $devTeam := slice }}
 {{- $backendManager := slice }}
 {{- $beTeam := slice }}
@@ -257,7 +257,7 @@
 <tr>
     <th>Product</th>
     <td>
-        {{- range . -}}{{ partial "member" . -}}&nbsp;{{- end -}}
+        {{- range . -}}{{ partial "member/with-team-link" . -}}&nbsp;{{- end -}}
     </td>
 </tr>
 {{- end }}
@@ -265,56 +265,56 @@
 {{- with $devTeam }}
 <tr>
     <th>Development</th>
-    <td>{{- range . -}}{{ partial "member" . -}}&nbsp;{{- end -}}</td>
+    <td>{{- range . -}}{{ partial "member/with-team-link" . -}}&nbsp;{{- end -}}</td>
 </tr>
 {{- end }}
 {{- with $backendManager }}
 <tr>
     <th>Backend Engineering Manager</th>
-    <td>{{- range . -}}{{ partial "member" . -}}&nbsp;{{- end -}}</td>
+    <td>{{- range . -}}{{ partial "member/with-team-link" . -}}&nbsp;{{- end -}}</td>
 </tr>
 {{- end }}
 {{- with $beTeam }}
 <tr>
     <th>Backend Engineering</th>
-    <td>{{- range . -}}{{ partial "member" . -}}&nbsp;{{- end -}}</td>
+    <td>{{- range . -}}{{ partial "member/with-team-link" . -}}&nbsp;{{- end -}}</td>
 </tr>
 {{- end }}
 {{- with $frontendManager }}
 <tr>
     <th>Frontend Engineering Manager</th>
-    <td>{{- range . -}}{{ partial "member" . -}}&nbsp;{{- end -}}</td>
+    <td>{{- range . -}}{{ partial "member/with-team-link" . -}}&nbsp;{{- end -}}</td>
 </tr>
 {{- end }}
 {{- with $feTeam }}
 <tr>
     <th>Frontend Engineering</th>
-    <td>{{- range . -}}{{ partial "member" . -}}&nbsp;{{- end -}}</td>
+    <td>{{- range . -}}{{ partial "member/with-team-link" . -}}&nbsp;{{- end -}}</td>
 </tr>
 {{- end }}
 {{- with $fullstackManager }}
 <tr>
     <th>Fullstack Engineering Manager</th>
-    <td>{{- range . -}}{{ partial "member" . -}}&nbsp;{{- end -}}</td>
+    <td>{{- range . -}}{{ partial "member/with-team-link" . -}}&nbsp;{{- end -}}</td>
 </tr>
 {{- end }}
 {{- with $sreTeam }}
 <tr>
     <th>Site Reliability Engineering</th>
-    <td>{{- range . -}}{{ partial "member" . -}}&nbsp;{{- end -}}</td>
+    <td>{{- range . -}}{{ partial "member/with-team-link" . -}}&nbsp;{{- end -}}</td>
 </tr>
 {{- end }}
 {{- with $setTeam }}
 <tr>
     <th>Software Engineering</th>
-    <td>{{- range . -}}{{ partial "member" . -}}&nbsp;{{- end -}}</td>
+    <td>{{- range . -}}{{ partial "member/with-team-link" . -}}&nbsp;{{- end -}}</td>
 </tr>
 {{- end }}
 {{- with $pdTeam  }}
 <tr>
     <th>Product Design</th>
     <td>
-        {{- range . -}}{{ partial "member" . -}}&nbsp;{{- end -}}
+        {{- range . -}}{{ partial "member/with-team-link" . -}}&nbsp;{{- end -}}
     </td>
 </tr>
 {{- end }}
@@ -322,7 +322,7 @@
 <tr>
     <th>Staff Product Designer</th>
     <td>
-        {{- range . -}}{{ partial "member" . -}}&nbsp;{{- end -}}
+        {{- range . -}}{{ partial "member/with-team-link" . -}}&nbsp;{{- end -}}
     </td>
 </tr>
 {{- end }}
@@ -330,7 +330,7 @@
 <tr>
     <th>UX Research</th>
     <td>
-        {{- range . -}}{{ partial "member" . -}}&nbsp;{{- end -}}
+        {{- range . -}}{{ partial "member/with-team-link" . -}}&nbsp;{{- end -}}
     </td>
 </tr>
 {{- end }}
@@ -338,7 +338,7 @@
 <tr>
     <th>Product Designer</th>
     <td>
-        {{- range . -}}{{ partial "member" . -}}&nbsp;{{- end -}}
+        {{- range . -}}{{ partial "member/with-team-link" . -}}&nbsp;{{- end -}}
     </td>
 </tr>
 {{- end }}
@@ -346,7 +346,7 @@
 <tr>
     <th>Product Marketing</th>
     <td>
-        {{- range . -}}{{ partial "member" . -}}&nbsp;{{- end -}}
+        {{- range . -}}{{ partial "member/with-team-link" . -}}&nbsp;{{- end -}}
     </td>
 </tr>
 {{- end }}
@@ -354,7 +354,7 @@
 <tr>
     <th>Support</th>
     <td>
-        {{- range . -}}{{ partial "member" . -}}&nbsp;{{- end -}}
+        {{- range . -}}{{ partial "member/with-team-link" . -}}&nbsp;{{- end -}}
     </td>
 </tr>
 {{- end }}
@@ -362,7 +362,7 @@
 <tr>
     <th>Quality</th>
     <td>
-        {{- range . -}}{{ partial "member" . -}}&nbsp;{{- end -}}
+        {{- range . -}}{{ partial "member/with-team-link" . -}}&nbsp;{{- end -}}
     </td>
 </tr>
 {{- end }}
@@ -370,7 +370,7 @@
 <tr>
     <th>Content Marketing</th>
     <td>
-        {{- range . -}}{{ partial "member" . -}}&nbsp;{{- end -}}
+        {{- range . -}}{{ partial "member/with-team-link" . -}}&nbsp;{{- end -}}
     </td>
 </tr>
 {{- end }}
@@ -378,7 +378,7 @@
 <tr>
     <th>Technical Writing</th>
     <td>
-        {{- range . -}}{{ partial "member" . -}}&nbsp;{{- end -}}
+        {{- range . -}}{{ partial "member/with-team-link" . -}}&nbsp;{{- end -}}
     </td>
 </tr>
 {{- end }}
@@ -386,7 +386,7 @@
 <tr>
     <th>Application Security Engineer</th>
     <td>
-        {{- range . -}}{{ partial "member" . -}}&nbsp;{{- end }}
+        {{- range . -}}{{ partial "member/with-team-link" . -}}&nbsp;{{- end }}
     </td>
 </tr>
 {{- end }}
@@ -394,7 +394,7 @@
 <tr>
     <th>Infrastructure Security Engineer</th>
     <td>
-        {{- range . -}}{{ partial "member" . -}}&nbsp;{{- end }}
+        {{- range . -}}{{ partial "member/with-team-link" . -}}&nbsp;{{- end }}
     </td>
 </tr>
 {{- end }}
@@ -402,7 +402,7 @@
 <tr>
     <th>Customer Success</th>
     <td>
-        {{- range . -}}{{ partial "member" . -}}&nbsp;{{- end }}
+        {{- range . -}}{{ partial "member/with-team-link" . -}}&nbsp;{{- end }}
     </td>
 </tr>
 {{- end }}
@@ -410,7 +410,7 @@
 <tr>
     <th>Analyst Relations</th>
     <td>
-        {{- range . -}}{{ partial "member" . -}}&nbsp;{{- end -}}
+        {{- range . -}}{{ partial "member/with-team-link" . -}}&nbsp;{{- end -}}
     </td>
 </tr>
 {{- end }}
@@ -418,7 +418,7 @@
 <tr>
     <th>Infrastructure Manager</th>
     <td>
-        {{- range . -}}{{ partial "member" . -}}&nbsp;{{- end -}}
+        {{- range . -}}{{ partial "member/with-team-link" . -}}&nbsp;{{- end -}}
     </td>
 </tr>
 {{- end }}
@@ -426,7 +426,7 @@
 <tr>
     <th>Product Sponsor</th>
     <td>
-        {{- range . -}}{{ partial "member" . -}}&nbsp;{{- end -}}
+        {{- range . -}}{{ partial "member/with-team-link" . -}}&nbsp;{{- end -}}
     </td>
 </tr>
 {{- end }}
@@ -434,7 +434,7 @@
 <tr>
     <th>Legal & Corporate Affairs</th>
     <td>
-        {{- range . -}}{{ partial "member" . -}}&nbsp;{{- end -}}
+        {{- range . -}}{{ partial "member/with-team-link" . -}}&nbsp;{{- end -}}
     </td>
 </tr>
 {{- end }}
@@ -446,7 +446,7 @@
             <div style="display: table-cell; width: 40%"><strong>{{ .department }}</strong></div>
             {{- with .dri }}
             {{- range $team_data.Get . }}
-            <div style="display: table-cell; width: 40%">{{ partial "member" . -}}</div>
+            <div style="display: table-cell; width: 40%">{{ partial "member/with-team-link" . -}}</div>
             {{- end }}
             {{- end }}
         </div>
