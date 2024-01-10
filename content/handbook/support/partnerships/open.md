@@ -29,33 +29,16 @@ The only requirement for submitting a new ticket is that you must first register
 
 ## File uploads
 
-When Open Partners needs to send support files, we have 2 methods
+When Open Partners needs to send support files, we have 2 options
 available to accommodate this:
 
 - Standard ticket uploads (20MB max)
-- [Support Uploader](https://about.gitlab.com/support/providing-large-files/#support-uploader)
+- [Providing Large Files](https://about.gitlab.com/support/providing-large-files/#other-methods)
 
 ## Examples of Support Ticket Submission and Handling for Open Partners
 
 Support provided to Open Partners and their customers will vary depending on
 the circumstances under which a ticket is raised. Some examples are:
-
-1. An Open Partner raises a ticket, using the Open Partner form, on behalf of
-   their end customer. They should do so under the Customer's account. We will
-   deliver support **based on the customer's subscription**. Support will
-   correspond with the end customer directly. Please note that if the partner
-   incorrectly types the customer's email address, the ticket may not be
-   properly associated with the customer organization. This can be corrected
-   with the following steps:
-
-    1. Update `Organization Email (partners)` to use the correct email
-    1. Change `Requester` by clicking `change` link under the ticket subject
-    1. Submit the ticket to save your changes
-
-1. Same example as above, except this time the Open Partner is fulfilling a
-   services engagement for their end customer, and so needs to be included in
-   the ticket work. In the partner troubleshooting section of the form, the
-   partner should ask to be included in the CC list on the ticket in question.
 
 1. An Open Partner is doing commercial work for a customer and raises a
    ticket. They should do so under their own account using a subscription
