@@ -34,6 +34,9 @@ Once the form has been submitted, the L&R Support Engineer should follow the wor
 - Going to the `Zuora Subscriptions` tab.
 - Selecting the appropriate namespace and pressing the `Apply Ultimate Trial` button.
 
+## Subscription seats during trials-over-subscription
+When applying a trial over a subscription, the customer's licensed subscription seat count still applies. If the customer wishes to increase their seat count during the trial, they will have to purchase the seats as usual. If the customer exceeds their seat allowance during the trial, they will be billed for them at their next reconciliation and the seats will still apply after the end of the trial.
+
 #### Namespaces with a prior Ultimate trial
 
 GitLab.com Premium to Ultimate subscription trials are handled similarly to regular trials regarding namespace eligibility. If a namespace previously underwent a trial (e.g. prior to being upgraded to a Premium subscription), attempting to initiate an Ultimate trial will result in the error `Validation failed: Gl namespace can have only one trial`.
