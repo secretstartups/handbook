@@ -62,10 +62,10 @@ sudo systemctl start postfix
 curl https://packages.gitlab.com/install/repositories/gitlab/gitlab-ee/script.rpm.sh | sudo bash
 ```
 
-2. Install the GitLab package using the command below. Use your training system's assigned public IP address in lieu of a fully qualified domain name.
+2. Install the GitLab package using the command below. Use your training system's assigned public IP address in lieu of a fully qualified domain name. Make sure not to include in the <> symbols.
 
 ```bash
-sudo EXTERNAL_URL="YOUR_ASSIGNED_PUBLIC_IP" dnf install -y gitlab-ee
+sudo EXTERNAL_URL="<your_assigned_public_ip>" dnf install -y gitlab-ee
 ```
 
 > This step may take a few minutes to complete.
@@ -80,7 +80,7 @@ sudo cat /etc/gitlab/initial_root_password
 
 2. Copy the password shown in the output to your clipboard.
 
-3. Using a web browser, navigate to `http://YOUR_ASSIGNED_PUBLIC_IP/`. Use your IP address, and not the fully qualified domain name.
+3. Using a web browser, navigate to `http://<your_assigned_public_IP>/`. Use your IP address, and not the fully qualified domain name.
 
 4. To log in, type in `root` as your username, and the password copied previously for your password.
 
