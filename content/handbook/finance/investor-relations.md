@@ -84,6 +84,6 @@ The timeline for each quarter is as follows. A detailed calendar with DRIs and p
 
 We anticipate that our quarterly trading window will open the third trading day after the announcement of our quarterly results and that it will close again immediately prior to the last four weeks of the fiscal quarter, as indicated by an announcement made by the CLO. However, it is important to note that any quarterly trading window may be cut short if the CLO determines that material nonpublic information exists in such a fashion that it would make trades by directors, employees, and consultants inappropriate.
 
-## Quiet Period
+## Investor Meetings
 
-Our quiet period begins at the end of business close on Friday, 2 weeks before the quarter ends. During our quiet period, we do not conduct investor relations meetings with either sell-side or buy-side analysts and we limit our conference attendance.
+We conduct investor relations meetings and attend investor conferences in the time period between our earnings release and close of business the Friday 2 weeks before the next quarter ends.
