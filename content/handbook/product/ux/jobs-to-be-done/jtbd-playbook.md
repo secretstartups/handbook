@@ -12,6 +12,10 @@ The time it takes to run through the entire playbook process can vary a lot, dep
 
 This page covers the _how_ of Jobs to be Done. For more on _what_ Jobs to be Done _is_, head over to the [main page](handbook/product/ux/jobs-to-be-done/).
 
+## Step 0: Open a JTBD issue
+
+If your team want to conduct Jobs to be Done research, create an issue in the [UX Research Project](https://gitlab.com/gitlab-org/ux-research/-/issues) and use the **discover-jtbd** issue template. Fill out the issue as best you can, then tag the UX Researcher for your stage (or whomever will be driving the research). If you need a DRI to drive JTBD research for your team, head over to the `#ux_research` Slack channel to see if there is anyone available to help. Once you have an issue and a DRI, you're ready to roll!
+
 ## Step 1: Pick your job performer and main job
 
 The first step in the JTBD playbook is to zoom in on the [main job](handbook/product/ux/jobs-to-be-done/#main-job-where-do-you-want-to-innovate) and [job performer](handbook/product/ux/jobs-to-be-done/#job-performer-who-do-you-want-to-innovate-for) you want to learn more about. The main job and job performer are closely related – for instance, the main job ‘Review Code’ is done by a ‘Code Reviewer’. The job of ‘Writing a book’ is done by an ‘Author’. And so on. 
