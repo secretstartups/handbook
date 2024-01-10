@@ -130,7 +130,7 @@ The following table indexes all of the RAW data sources we are loading into the 
 | [Qualtrics](https://www.qualtrics.com/) | Airflow | `qualitrics` | `qualtrics` | Marketing | 12h / 48h | No | Tier 2 |
 | [SaaS Service Ping](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/saas_usage_ping) | Airflow | `saas_usage_ping` | `saas_usage_ping` | Product | 1 week / x | No | Tier 1 |
 | [Salesforce](https://www.salesforce.com/) | Stitch | `salesforce_v2_stitch` | `sfdc` | Sales | 6h / 24h | Yes | Tier 1 |
-| [Salesforce Sandbox](https://gitlab--staging.sandbox.my.salesforce.com/)| Stitch | `salesforce_stitch_sandbox_v2` | `TBC` |Sales / 6h/ 24h| Yes| Tier 3|
+| [Salesforce Sandbox](https://gitlab--staging.sandbox.my.salesforce.com/)| Stitch | `salesforce_stitch_sandbox_v2` | `TBC` |Sales / 24h / 24h| Yes| Tier 3|
 | SheetLoad | SheetLoad | `sheetload` | `sheetload` | Multiple | 24h / 48h | Yes | Tier 1 |
 | [Snowplow](https://snowplowanalytics.com/) | Snowpipe | `snowplow` | `snowplow` | Product | 15m / 24h | No | Tier 1 |
 | [Tableau Cloud](https://www.tableau.com/products/cloud-bi) | Tableau Prep | `tableau_cloud` | `tableau_cloud` | Data Team | 24h / 24h | No | Tier 3 |
