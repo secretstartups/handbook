@@ -62,17 +62,7 @@ Compensation and Leadership Development Committee meetings are attended by:
 - Outside Compensation Consultant and Outside Counsel
 - All Board Members including the CEO are invited to all Committee meetings as optional attendees
 
-**Compensation & Leadership Development Committee Schedule:**
 
-The EBA to the CPO will update the calendar accordingly for each year.
-
-The 2024 schedule of Compensation & Leadership Development Committee meetings is as follows:
-
-- 2024-02-21 (Wednesday) - 10am - 11:20am PST
-- 2024-03-08 (Friday) - 9:00am - 10:20am PST
-- 2024-06-12 (Wednesday) - 9:00am -10:20am PST
-- 2024-09-11 (Wednesday) - 9:00am - 10:20am PST
-- 2024-12-10 (Tuesday) - 9:00am - 10:20am PST
 
 
 ### Nominating and Corporate Governance Committee
