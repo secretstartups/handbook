@@ -258,7 +258,7 @@ To get access to snowflake support portal, please follow the below steps.
 
 ### Warehouse Access
 
-To gain access to the Snowflake:
+To gain access to Snowflake:
 
 - Create an issue in the [access requests project](https://gitlab.com/gitlab-com/team-member-epics/access-requests) documenting the level of access required.
 - Do not request a shared account - each account must be tied to a user.
