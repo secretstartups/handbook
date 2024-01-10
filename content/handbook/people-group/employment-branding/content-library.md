@@ -44,7 +44,7 @@ These awards and lists recognize GitLab's unique culture and help us spread the 
 
 <details><summary>2024</summary>
 
-- [Best Places to Work, Builtin, 2023](https://builtin.com/awards/remote/2024/best-large-places-to-work?utm_source=bambu&utm_medium=social&utm_campaign=advocacy&blaid=5510421)
+- [Best Places to Work, Builtin, 2024](https://builtin.com/awards/remote/2024/best-large-places-to-work?utm_source=bambu&utm_medium=social&utm_campaign=advocacy&blaid=5510421)
 
 </details>
 
