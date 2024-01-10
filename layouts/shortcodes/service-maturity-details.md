@@ -1,5 +1,4 @@
-{{- $services := partials.IncludeCached "data/service-maturity" . }}
-{{- range $k, $v := $services }}
+{{- range $k, $v := site.Data.public.service_maturity }}
 
 ### {{ $k }} detail
 
