@@ -97,10 +97,29 @@ There are 4 pages in the Looker Studio report:
 
 ### Developer Relations Influenced Campaigns
 
+The Developer Relations team contribute to several campaigns across GitLab. To measure the impact of this contributions, we keep track of DevRel influenced campaigns in the `devrel_influenced_campaigns` sheet of the [Content Asset Inventory](https://docs.google.com/spreadsheets/d/1WzdX8o9wzuswIPMAYVUURswm2AtwFcVE6XhmHy1lhr8/edit#gid=1201530981). These sheet serves as a data source for the Developer Relations filter to show campaigns influenced by the team on the [Marketing Campaigns Dashboard](https://10az.online.tableau.com/#/site/gitlab/views/DraftTDCampaigns-L2RInteractions/CampaignDrillDown?%3Aiid=1).
+
 ## Setup & Maintenance guide
+
+This section details how the different components of the Content Effectiveness wokflow are setup and how to maintain them.
 
 ### Data Reporting Flow
 
+```mermaid
+flowchart LR
+    manual_data_updates[/Manual Updates to Blogpost and Campaigns sheet/]
+    youtube2sheet_config[/YouTube2Sheets Playlists JSON file/]
+    youtube2sheet_script[[YouTube2Sheets updates video lists twice daily]]
+    content_inventory[(DevRel Content Inventory)]
+    snowflake[(Snowflake Datawarehouse)]
+    tableau_datasource[Tableau Data Source]
+    tableau_dashboard[Tableau Dashboard]
+    looker_reports[Looker Studio Reports]
+    manual_data_updates --> content_inventory
+    youtube2sheet_config --> youtube2sheet_script --> content_inventory
+    content_inventory --> looker_reports
+    content_inventory --> snowflake --> tableau_datasource --> tableau_dashboard
+```
 ### Setup
 
 #### Looker Reports
