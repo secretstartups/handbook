@@ -8,9 +8,9 @@ Are you looking for GitLab's Trust Center?
 <a href="https://trust.gitlab.com" class="btn bg-primary text-white btn-lg">GitLab's Trust Center (Click Here!)</a>
 </div>
 
-## Do you have 180 seconds to learn more about the Trust Center?
+## Do you have 120 seconds to learn more about the Trust Center?
 
-{{< youtube "8xsMmciYbvE" >}}
+{{< youtube "uOURJS7jpBw" >}}
 
 ## GitLab offers Trust Centers tailored to customer needs
 
