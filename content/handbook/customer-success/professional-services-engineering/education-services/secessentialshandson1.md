@@ -1,5 +1,5 @@
 ---
-title: "GitLab Security Essentials - Hands-On Lab"
+title: "GitLab Security Essentials - Hands-On Lab 1"
 description: "This Hands-On Guide walks you through the lab exercises used in the GitLab Security Essentials course."
 ---
 
@@ -27,7 +27,7 @@ Please take time to understand any code that you are asked to copy and paste in 
 
 1. Click **Provision Training Environment**.
 
-1. The system then prompts you for your **GitLab.com** username. Enter your GitLab.com user in the field provided. Click **Provision Training Environment**.
+1. If the system prompts you for your **GitLab.com** username. Enter your GitLab.com user in the field provided. Click **Provision Training Environment**.
 
 1. On the confirmation page, locate the `Your GitLab Credentials` section. Read this section carefully, noting the credential information provided and the expiration date. Your access to this group and all of the projects that you create is ephemeral and will be deleted after the expiration date.
 
@@ -47,7 +47,9 @@ Please take time to understand any code that you are asked to copy and paste in 
 
     > The project slug will automatically populate. You can change this to a shorter string if desired for your own project. Leave it at the default for this lab.
 
-1. In the **Project URL** field, click the dropdown for the second half of the URL to make sure it’s pointing to a **group name** (starts with `gitlab-learn-labs/*`) and not a **username**. You should create this project inside a group, not directly in your user’s namespace.
+1. If your lab environment URL starts with `https://gitlab.com/gitlab-learn-labs/…`, in the **Project URL** field, click the dropdown for the second half of the URL to make sure it’s pointing to a **group name** (starts with `gitlab-learn-labs/*`) and not a **username**. You should create this project inside a group, not directly in your user’s namespace.
+
+1. If your group URL starts with `https://ilt.gitlabtraining.cloud/...`, in the **Project URL** field, click the dropdown for the second half of the URL to make sure it's pointing to a **group name** (starts with `training-users/*`) and not a **username**. You should create this project inside a group, not directly in your user's namespace.
 
 1. Under **Visibility Level**, click **Private**.
 
@@ -59,7 +61,21 @@ Please take time to understand any code that you are asked to copy and paste in 
 
 1. Click **Create project**.
 
-## Task B. Enable and Configure SAST
+## Task B. Turn Off Auto DevOps
+
+> By default, projects in some GitLab environments will enable Auto DevOps when no CI configuration file is found in a project. To avoid any conflicts between our CI/CD configuration and Auto DevOps, you should confirm that Auto DevOps is disabled in your project.
+
+1. In the left sidebar, navigate to **Settings > CI/CD**.
+
+1. Click on the **Expand** button next to Auto DevOps.
+
+1. Ensure that **Default to Auto DevOps pipeline** is unchecked.
+
+1. Click the **Save changes** button.
+
+1. In the left sidebar, navigate to **Code > Repository** to return to your code.
+
+## Task C. Enable and Configure SAST
 
 > Static Application Security Testing, or SAST, is the process of examining source code for vulnerabilities. You can use a SAST scan to automatically scan a code repository for known vulnerabilities. You can also use a SAST scan to check merge requests for vulnerabilities before merging the request. This process helps ensure that your code stays vulnerability free.
 
@@ -164,7 +180,7 @@ Please take time to understand any code that you are asked to copy and paste in 
 
 ## Task D. Merge Request Vulnerability Report
 
-> One of the main goals of security scanning is to prevent insecure code from making it into a repository. You can use the merge request vulnerability report to see all of the vulnerabilities that were detected in a single merge request.
+> One of the main goals of security scanning is to prevent insecure code from making it into a repository. You can use the merge request vulnerability report to see all of the vulnerabilities that were detected in a single merge request. Note that this report will only show vulnerabilities that are newly introduced in the current merge request. If a vulnerability already exists in the repository, it will not show here, but will show in the project level vulnerability report.
 
 1. In the vulnerability column, click the first **OS Command Injection** vulnerability.
 
@@ -270,6 +286,8 @@ Please take time to understand any code that you are asked to copy and paste in 
 
 5. You have already learned how to commit your changes to a new branch and create a merge request. Commit your changes to the `add_secret_detection` target branch. The commit message can be left at default or updated to `Add Secret Detection to .gitlab-ci.yml`. For single commit branches, the commit message is used as the merge request title.
 
+    > Note: If you look at the security report on this merge request, you will notice that no vulnerabilities have been detected. This occurs because the secrets in `main.py` already exist in the main branch. The scan that occurs in the merge request will only show vulnerabilities that are newly introduced in the merge request. To see existing vulnerabilities, you will need to look at the project level vulnerability report covered in the next section.
+
 6. Click the `Merge` button on your merge request after the pipeline passes.
 
 ## Task F. View the Project Level Vulnerability Report
@@ -352,6 +370,8 @@ Please take time to understand any code that you are asked to copy and paste in 
 
 1. Examine the report. You should no longer see any vulnerabilities.
 
+    > Although we have removed the keys in this merge request, they may still exist in the repository history. It is always advised to rotate keys if they are ever detected in a repository.
+
 ## Task I. Merge your branch and resolve the fixed vulnerability
 
 1. In the merge request, click the **Merge** button.
@@ -362,13 +382,17 @@ Please take time to understand any code that you are asked to copy and paste in 
 
 1. Once all the jobs have finished, navigate to **Secure > Vulnerability Report**.
 
-1. In the vulnerability table, notice that there is a blue checkmark beside all of the vulnerabilities. This checkmark indicates that the vulnerability has been remediated.
-
 1. Click the checkbox next to the **RSA private key** and **GitLab Personal Access Token** vulnerability. In the **Set status** dropdown, click **Resolve**. Click **Change status**.
 
 ## Task J. Enable and Configure DAST
 
 > Dynamic Application Security Testing, or DAST, is the process of scanning a running application for vulnerabilities using simulated attacks. DAST allows you to see how your application actually runs, catching vulnerabilities that may not be present in static testing. In this section, you will learn how to configure DAST scanning in your project.
+
+1. Navigate to **Code > Repository**.
+
+1. Click on **.gitlab-ci.yml**.
+
+1. Click **Edit > Edit single file**.
 
 1. Since the default DAST job belongs to the `dast` stage, you need to define that stage by pasting this line at the end of the existing `stages:` section. The `dast` stage should be at the same indent level as the `test` stage.
 
