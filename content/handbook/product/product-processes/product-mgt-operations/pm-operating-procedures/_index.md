@@ -221,7 +221,7 @@ Product Designer assignments are listed in the team.yml file. Unfortunately, we 
 If there isn't a designer listed for a group, then that team is expected to be self-sufficient in taking responsibility for the design needs of their product area. Product Design does not have the capacity to review complex proposed design solutions or provide design solutions for unsupported groups.
 
 If you have questions or need support you can do so in the following ways:
-- PMs who need to create designs can request access to Figma by creating an Access Request issue.
+- PMs who need to create designs can request access to Figma by creating an [Access Request issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new). **Note:** We cannot grant access by requesting an upgrade within Figma. An access request issue is required.
 - Review and follow the [Pajamas guidelines](https://design.gitlab.com/).
 - If you have a small design question, or the Pajamas guidance is not clear, reach out via the `#ux` or `#ux_coworking` Slack channel.
 - If you have a Community Contribution MR that needs a design review, follow the process for [MR Reviews for Groups without a Designer](/handbook/product/ux/product-designer/mr-reviews/#what-if-a-team-doesnt-have-a-designer).
