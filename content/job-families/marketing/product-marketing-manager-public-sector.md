@@ -5,8 +5,8 @@ summary: " "
 
 ## Job Grade
 
-- The Public Sector Product Marketing Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-- The Public Sector Senior Product Marketing Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+- The Product Marketing Manager, Public Sector is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+- The Senior Product Marketing Manager, Public Sector is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
 
@@ -18,7 +18,7 @@ The Product Marketing Manager, Public Sector has the same requirements as other 
 
 ### Regulated Industries Specialist (public sector)
 
-As a Senior. Product Marketing Manager, Public Sector, you will work bring your knowledge and experience of marketing to the federal government to help shape our go to market strategy, messaging and execution.  You will partner closely with our marketing, engineering, business development, sales team and partners to help them address the unique requirements of this market.
+As a Senior Product Marketing Manager, Public Sector, you will work bring your knowledge and experience of marketing to the federal government to help shape our go to market strategy, messaging and execution.  You will partner closely with our marketing, engineering, business development, sales team and partners to help them address the unique requirements of this market.
 
 #### Requirements
 
