@@ -162,6 +162,10 @@ No, not at this time.
 | January 15 | Available | |
 | January 22 | Available | [Tyler DeCaire](https://gitlab.com/tdecaire) | Solutions Architect
 | January 29 | [Carla Drago](https://gitlab.com/carlad-gl) | Senior Backend Engineer |
+| Feb 5 | Available | |
+| Feb 12 | Not Available | |
+| Feb 19 | Available | |
+| Feb 26 | Available | |
 
 
 ## Shadow Alumni
