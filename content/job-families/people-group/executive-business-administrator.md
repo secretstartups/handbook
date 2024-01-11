@@ -55,6 +55,7 @@ The Executive Business Administrator is a [grade 6](/handbook/total-rewards/comp
 ### Senior Executive Business Administrator
 
 Senior Executive Business Administrators typically support an E-Group member and report directly to their leader.
+
 #### Senior Executive Business Administrator Job Grade
 
 The Senior Executive Business Administrator is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
