@@ -801,3 +801,4 @@ CEO Shadow Program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2023-01-16 | 2023-01-20 | [Stacy Cline](https://gitlab.com/slcline) | Sr Director, ESG | |
 | 2024-01-02 | 2024-01-05 | [Cynthia "Arty" Ng](https://gitlab.com/cynthia) | Staff, Strategy & Operations |  |
 | 2024-01-02 | 2024-01-12 | [Yin Yu](https://gitlab.com/yyugitlab) | Director, Strategy & Operations |  |
+[EOF]
