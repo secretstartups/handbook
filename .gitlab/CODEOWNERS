@@ -55,8 +55,8 @@
 /content/handbook/ceo/chief-of-staff-team/readmes/streas.md @streas
 
 ^[alliances]
-/content/handbook/alliances/ @nbadiey
-/content/job-families/alliances/ @nbadiey
+/content/handbook/alliances/ @chrisweber44
+/content/job-families/alliances/ @chrisweber44
 
 ^[ceo]
 /content/job-families/chief-executive-officer @sytses @streas
@@ -71,11 +71,14 @@
 ^[chief-information-security-officer]
 /content/job-families/chief-information-security-officer.md @robin @fofungwu
 
+^[communication]
+/content/handbook/communication/ @drogozinski @kaylagolden
+
 ^[company]
 /content/handbook/company/ @sytses @streas @gitlab-com/egroup
 /content/handbook/esg.md @robin @slcline
 /content/handbook/company/structure.md @wendybarnes @cbednarz @anjali_kaufmann @dparsonage @glucchesi @carlierussell @rtakken
-/content/handbook/company/family-and-friends-day.md @chrisweber44
+/content/handbook/company/family-and-friends-day.md @pegan
 
 ^[customer-success]
 /content/handbook/customer-success @spatching @christiaanconover @mrleutz
