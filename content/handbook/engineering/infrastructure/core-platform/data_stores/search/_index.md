@@ -22,18 +22,18 @@ This team doesn't own custom searches for specific features, such as the "filter
 
 The following team members are permanent members of the Global Search Group:
 
-<%= direct_team(manager_slug: 'cliu', role_regexp: /Global Search|Core Platform/) %>
+{{< team-by-manager-slug manager="cliu" role="Global Search|Core Platform" >}}
 
 ## Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-| **Person**                                       | **Role** |
-|:-------------------------------------------------|:---------|
-| [Ben Venker](/handbook/company/team/#bvenker)             | [Senior Product Manager, Global Search](/job-families/product/product-manager/) |
-| [Ashraf Khamis](/handbook/company/team/#ashrafkhamis)     | [Senior Technical Writer](/job-families/product/technical-writer/) |
-| [Cleveland Bledsoe Jr](/handbook/company/team/#cleveland) | [Senior Support Engineer](/job-families/engineering/support-engineer/) |
-| [Brenda Nyaringita](/handbook/company/team/#bnyaringita)  | [Support Engineer(EMEA)](/job-families/engineering/support-engineer/) |
+| **Name**                                                 | **Role** |
+| ---------------------------------------------------------| ------------------------------------------------------------------------------- |
+| [Ben Venker](/handbook/company/team#bvenker)             | [Senior Product Manager, Global Search](/job-families/product/product-manager/) |
+| [Ashraf Khamis](/handbook/company/team#ashrafkhamis)     | [Senior Technical Writer](/job-families/product/technical-writer/) |
+| [Cleveland Bledsoe Jr](/handbook/company/team#cleveland) | [Senior Support Engineer](/job-families/engineering/support-engineer/) |
+| [Brenda Nyaringita](/handbook/company/team#bnyaringita)  | [Support Engineer(EMEA)](/job-families/engineering/support-engineer/) |
 
 ## Meetings
 
