@@ -133,3 +133,13 @@ If the landing page needs to render specific cards that are not children to the 
 | Link | Card redirection URL | /card-1/ |
 
 ![Custom Pages Landing Grid](/images/handbook/contentful/custom-page-landing-grid.png)
+
+### Video Walkthrough of building a page
+
+As an example, we built a community page from scratch in the following video. 
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/kxbogtc7FNY?si=dl5AOIAybU2OhLPi" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
