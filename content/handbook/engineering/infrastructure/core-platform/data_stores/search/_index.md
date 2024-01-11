@@ -29,6 +29,7 @@ The following team members are permanent members of the Global Search Group:
 The following members of other functional teams are our stable counterparts:
 
 | **Person**                                       | **Role** |
+|:-------------------------------------------------|:---------|
 | [Ben Venker](/handbook/company/team/#bvenker)             | [Senior Product Manager, Global Search](/job-families/product/product-manager/) |
 | [Ashraf Khamis](/handbook/company/team/#ashrafkhamis)     | [Senior Technical Writer](/job-families/product/technical-writer/) |
 | [Cleveland Bledsoe Jr](/handbook/company/team/#cleveland) | [Senior Support Engineer](/job-families/engineering/support-engineer/) |
