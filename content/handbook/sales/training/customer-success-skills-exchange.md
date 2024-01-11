@@ -16,7 +16,7 @@ description: "Continuous education webcast series for GitLab Customer Success te
 
 # Customer Success Skills Exchange Sessions
 
-The Customer Success Skills Exchnage is a bi-weekly webinar focused on topics for the Customer Success and SA team.
+The Customer Success Skills Exchange is a bi-weekly webinar focused on topics for the Customer Success and SA team.
 
 - Each training session has a [speaker](#speaker-responsibilities) and a [moderator](#moderator-responsibilities)
 - Sessions are approximatly 50 minutes long
@@ -25,38 +25,6 @@ The Customer Success Skills Exchnage is a bi-weekly webinar focused on topics fo
 ## Upcoming Training
 
 To see what training is coming soon, view the [Customer Success Skills Exchange Issue Board](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/boards/1414538).
-
-
-
-
-
- 
-
-## Past Sessions
-
-<details>
-<summary markdown="span">Click here to see links to past sessions </summary>
-
-| Date   | Topic and Recording |
-| ------   | ------    |
-| 2023-04-19 | [Indicators for Scaling GitLab](https://youtu.be/-JMTTrK3mLI) |
-| 2023-04-05 | [Education Services AMA](https://youtu.be/IKKkvQu73Ls) |
-| 2023-03-21 | [Value Pillar Messaging](https://youtu.be/mLmvBpvAT00) |
-| 2022-12-07 | [GitOps Overview and Demo - Session 2](https://www.youtube.com/watch?v=_DMdSHIfQYI) |
-| 2022-12-06 | [GitOps Overview and Demo - Session 1](https://www.youtube.com/watch?v=fKTwNhSHcJw)*|  
-| 2022-11-30 | [Buyer Persona AMA](https://youtu.be/AdgiCCRo7LE) |  
-| 2022-10-19 | [Turning Customers into Contributors](https://youtu.be/Z_uRqfHIYlQ)|  
-| 2022-10-11 | [DORA](https://www.youtube.com/watch?v=WueBXydQpzg) |
-| 2022-07-27 | [ModelOps Technical Session](https://youtu.be/1SXPqTh9tnE) |
-| 2022-06-15 | [GitLab 15](https://youtu.be/8LR2lX_Mxd8) |  
-| 2022-06-01 | [How to use ‘GitLab Kubernetes Agent Working Examples for Training and Demos’](https://youtu.be/RGs65Zi-Tno) |
-
-Older videos can be watched on [CS Skills Exchange Youtube playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KorkxIFgZGnzzxjZRCGROt_)
-
-</details>
-
-
-**Note: To watch private videos on GitLab Unfiltered, watch [this 2-minute video](https://www.youtube.com/watch?v=dZtCuOf5aGk) and take a look at the handbook page on [watching private videos.](/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube)**
 
 
 ### Get an invite to the weekly session
@@ -70,7 +38,7 @@ You can [fill out an access request](/handbook/business-technology/team-member-e
 
 There are a few places to see previous CS Skills Exchange Sessions:
 
-- [CS Skills Exchange Highspot Page] (https://gitlab.highspot.com/items/6554f9b2501316c929028227)
+- [CS Skills Exchange Highspot Page](https://gitlab.highspot.com/items/6554f9b2501316c929028227)
 - [CS Skills Exchange Youtube playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KorkxIFgZGnzzxjZRCGROt_) on GitLab Unfiltered YouTube
 - [CS Skills Exchange Q&A Doc](https://docs.google.com/document/d/1kchnm55N8zx8tBBsxilWadGqBndhvb5d4eG9LsSS6DA/edit?usp=sharing)
 
