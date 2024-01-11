@@ -39,7 +39,7 @@
     font-weight:bold;
   }
   #values_image .a {
-    fill: none;
+    fill: #FFFFFF;
     stroke: #7759C2;
     stroke-width: 5px;
     stroke-linejoin:round;
@@ -57,85 +57,112 @@
     stroke-linejoin:round;
   }
   #values_image .details_a text:not(:has( + text)) {
-    transform: translate(475px, 65px)
+    transform: translate(475px, 65px);
+    -moz-transform: translate(475px, 65px);
   }
   #values_image .details_a text:has( + text) {
-    transform: translate(475px, 56px)
+    transform: translate(475px, 56px);
+    -moz-transform: translate(475px, 56px);
   }
   #values_image .details_a text:nth-child(2) {
-    transform: translate(475px, 74px)
+    transform: translate(475px, 74px);
+    -moz-transform: translate(475px, 74px);
   }
   #values_image .details_b text:not(:has( + text)) {
-    transform: translate(575px, 165px)
+    transform: translate(575px, 165px);
+    -moz-transform: translate(575px, 165px);
   }
   #values_image .details_b text:has( + text) {
-    transform: translate(575px, 156px)
+    transform: translate(575px, 156px);
+    -moz-transform: translate(575px, 156px);
   }
   #values_image .details_b text:nth-child(2) {
-    transform: translate(575px, 174px)
+    transform: translate(575px, 174px);
+    -moz-transform: translate(575px, 174px);
   }
   #values_image .details_c text:not(:has( + text)) {
-    transform: translate(675px, 265px)
+    transform: translate(675px, 265px);
+    -moz-transform: translate(675px, 265px);
   }
   #values_image .details_c text:has( + text) {
-    transform: translate(675px, 256px)
+    transform: translate(675px, 256px);
+    -moz-transform: translate(675px, 256px);
   }
   #values_image .details_c text:nth-child(2) {
-    transform: translate(675px, 274px)
+    transform: translate(675px, 274px);
+    -moz-transform: translate(675px, 274px);
   }
   #values_image .text_a text:not(:has( + text)) {
-    transform: translate(105px, 295px)
+    transform: translate(105px, 295px);
+    -moz-transform: translate(105px, 295px);
   }
   #values_image .text_a text:has( + text) {
-    transform: translate(105px, 285px)
+    transform: translate(105px, 285px);
+    -moz-transform: translate(105px, 285px);
   }
   #values_image .text_a text:nth-child(2) {
-    transform: translate(105px, 305px)
+    transform: translate(105px, 305px);
+    -moz-transform: translate(105px, 305px);
   }
   #values_image .text_b text:not(:has( + text)) {
-    transform: translate(305px, 295px)
+    transform: translate(305px, 295px);
+    -moz-transform: translate(305px, 295px);
   }
   #values_image .text_b text:has( + text) {
-    transform: translate(305px, 285px)
+    transform: translate(305px, 285px);
+    -moz-transform: translate(305px, 285px);
   }
   #values_image .text_b text:nth-child(2) {
-    transform: translate(305px, 305px)
+    transform: translate(305px, 305px);
+    -moz-transform: translate(305px, 305px);
   }
   #values_image .text_c text:not(:has( + text)) {
-    transform: translate(505px, 295px)
+    transform: translate(505px, 295px);
+    -moz-transform: translate(505px, 295px);
   }
   #values_image .text_c text:has( + text) {
-    transform: translate(505px, 285px)
+    transform: translate(505px, 285px);
+    -moz-transform: translate(505px, 285px);
   }
   #values_image .text_c text:nth-child(2) {
-    transform: translate(505px, 305px)
+    transform: translate(505px, 305px);
+    -moz-transform: translate(505px, 305px);
   }
   #values_image .text_d text:not(:has( + text)) {
-    transform: translate(205px, 195px)
+    transform: translate(205px, 195px);
+    -moz-transform: translate(205px, 195px);
   }
   #values_image .text_d text:has( + text) {
-    transform: translate(205px, 185px)
+    transform: translate(205px, 185px);
+    -moz-transform: translate(205px, 185px);
   }
   #values_image .text_d text:nth-child(2) {
-    transform: translate(205px, 205px)
+    transform: translate(205px, 205px);
+    -moz-transform: translate(205px, 205px);
   }
   #values_image .text_e text:not(:has( + text)) {
-    transform: translate(405px, 195px)
+    transform: translate(405px, 195px);
+    -moz-transform: translate(405px, 195px);
   }
   #values_image .text_e text:has( + text) {
-    transform: translate(405px, 185px)
+    transform: translate(405px, 185px);
+    -moz-transform: translate(405px, 185px);
   }
   #values_image .text_e text:nth-child(2) {
-    transform: translate(405px, 205px)
+    transform: translate(405px, 205px);
+    -moz-transform: translate(405px, 205px);
   }
   #values_image .text_f text:not(:has( + text)) {
-    transform: translate(305px, 95px)
+    transform: translate(305px, 95px);
+    -moz-transform: translate(305px, 95px);
   }
   #values_image .text_f text:has( + text) {
-    transform: translate(305px, 85px)
+    transform: translate(305px, 85px);
+    -moz-transform: translate(305px, 85px);
   }
   #values_image .text_f text:nth-child(2) {
-    transform: translate(305px, 105px)
+    transform: translate(305px, 105px);
+    -moz-transform: translate(305px, 105px);
   }
 </style>
   <path class="a" d="M5,345L205,345L205,245L5,245Z" />
