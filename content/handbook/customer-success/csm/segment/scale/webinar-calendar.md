@@ -79,7 +79,7 @@ GitLab offers robust team planning capabilities that work directly with the DevO
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_zJJpJoOZTDqoAjeGpio_NQ#/registration)
 
 #### AI in DevSecOps - GitLab Hands-On Lab
-##### December 31st, 2023 at 9:00-10:30AM Pacific Time / 12:00-1:30PM Eastern Time
+##### January 31st, 2023 at 9:00-10:30AM Pacific Time / 12:00-1:30PM Eastern Time
 
 Join us for a hands-on GitLab AI lab where we will explore Artificial Intelligence and how it fits within the DevSecOps lifecycle. In this session, we will cover foundational implementation and use case scenarios such as Code Suggestions and Vulnerability Explanations.
 
