@@ -1,37 +1,63 @@
 ---
-
 title: ASE Emergency Workflow
 category: Assigned Support Engineer
 description: Workflow for an ASE when their account submits an emergency
 ---
 
-An account can submit an emergency either [while you're working](#during-work-hours)
-or [when you're off](#after-work-hours), each of which have subtle
-differences.
+An account with an Assigned Support Engineer (ASE) can submit an emergency
+either [while you're available](#when-available)
+or [when you're not](#when-unavailable).
 
-In either case, it is important to note that **you are not constantly on-call**
-and, thus, are not required to take the emergency unless you're the on-call
+In either case, it is important to note that you are not permanently on-call
+and, thus, are **not required** to take the emergency unless you're the on-call
 engineer. However, at times like these it is important to remember
-[the purpose of your role](ase_purpose.md) so the customer gets a good
-experience without sacrificing your sanity.
+that you are still the Support Engineer with the most context of the
+customer's situation & objectives, so may be able to point the problem towards
+a successful outcome. A little of your aid can go a long way towards getting
+things back on track.
 
-## ASE is available
+## Process for the on-call engineer
 
-- page normal on-call procedure
-- on-call engineer takes call, like normal
-- ping ASE in emergency Slack thread so they can catch up
-- join to help if you can; otherwise, help async
-- after emergency, ASE owns ticket if ticket continuation is needed
+Regardless of when it comes in, the [DRI]() for the emergency continues to be the on-call Support Engineer.
+Their only process change is that they should **notify the ASE of it**.
+This can be done by pinging the ASE's Slack handle in the Slack thread where the
+emergency is being discussed.
 
-## ASE is unavailable
+Once an emergency comes in, the on-call engineer creates its Slack thread,
+and notifies the ASE of what's going on, then the on-call engineer can continue
+working with the customer as they would any other.
 
-- page normal on-call procedure
-- on-call engineer takes call, like normal
-- ping ASE in emergency Slack thread so they can catch up
-- after emergency, ASE owns ticket if ticket continuation is needed
-- if needed, ASE should contact on-call engineer to get any required details
+## Process for the ASE
 
-### Being proactive
+### When available
 
-- be proactive to summarize important details before the emergency
-- good when customer is doing after-hours work, such as upgrades or migrations
+If the on-call engineer notifies you of an emergency and you are either
+available or can be available, then work alongside the on-call engineer to
+resolve the ticket. This may involve _any_ of the following:
+
+- Taking over as DRI for the emergency
+- Shadowing the emergency for any amount of time
+- Troubleshooting the emergency in Slack, asynchronously
+- Updating the on-call engineer with any required context
+
+You don't have to take over the emergency if you aren't able to, but can
+provide the on-call engineer with the information they need that can help lead
+the emergency towards a successful outcome.
+
+### When unavailable
+
+If you come back to work and see that an emergency took place while you
+weren't available, then catch up on what happened and reach out to the
+customer to discuss any next steps.
+
+If a big project is planned while you know you'll be unavailable, see
+[be proactive](#be-proactive).
+
+### Be proactive
+
+If a project is planned after-hours that may lead to an emergency (an upcoming upgrade,
+migration, etc.) then it would be beneficial to create a summary
+of what's planned, possible problems that may arise, and suggested solutions.
+Any other useful information that can be used to troubleshoot (architecture
+info, problems, etc.) would be beneficial. Leave this as an internal note in the
+ticket so the on-call engineer can see it.
