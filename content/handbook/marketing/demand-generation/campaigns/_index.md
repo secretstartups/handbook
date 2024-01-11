@@ -150,6 +150,10 @@ In between bi-weekly Campaigns Team Connect calls:
    - Begin with `DISCUSS: <brief description>` (i.e. `DISCUSS: Marketing tool champions`)
    - Include link to MR (preferred) or issue
 
+## Out of office team coverage
+
+Whenever team members are out of the office for more than 7 business days, they are required to create [an ooo coverage issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-ooo) outlining the coverage needed and assign that to their team counterpart providing coverage. The same process and issue template can optionally be used when team members are out of the office for less than 7 days but requires coverage for time sensitive project(s).
+
 ### Half-yearly Field Marketing & Campaigns Planning Workshop
 
 Every 6 months, Regional campaigns managers will conduct a joint planning workshop with their Sr Manager/Manager, Field marketing counterparts (below): 

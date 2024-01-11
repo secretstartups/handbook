@@ -1,0 +1,28 @@
+{{- $data := newScratch }}
+
+{{- range site.Data.public.team }}
+  {{ $member := slice . }}
+  {{- with .gitlab }}
+  {{- $data.Add . $member }}
+  {{- end }}
+
+  {{- with .name }}
+  {{- $data.Add . $member }}
+  {{- end -}}
+
+  {{- with .departments }}
+  {{- $departments := slice | append . }}
+  {{- range $departments }}
+    {{- $data.Add . $member }}
+  {{- end }}
+  {{- end -}}
+
+  {{- with .specialty }}
+  {{- $specialties := slice | append . }}
+  {{- range $specialties }}
+    {{- $data.Add . $member }}
+  {{- end }}
+  {{- end -}}
+{{- end -}}
+
+{{- return $data -}}

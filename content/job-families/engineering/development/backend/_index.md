@@ -60,7 +60,7 @@ requirements and responsibilities:
 - Recognize impediments to our efficiency as a team ("technical debt"), propose and implement solutions
 - Represent GitLab and its values in public communication around specific projects and community contributions.
 - Confidently ship small features and improvements with minimal guidance and support from other team members. Collaborate with the team on larger projects.
-- Participate in Tier 2 or Tier 3 weekday and weekend and occasional night [on-call rotations](https://about.gitlab.com/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html) to assist troubleshooting product operations, security operations, and urgent engineering issues.
+- Participate in Tier 2 or Tier 3 weekday and weekend and occasional night [on-call rotations](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html) to assist troubleshooting product operations, security operations, and urgent engineering issues.
 
 ----
 
@@ -90,20 +90,20 @@ understanding of Ruby and, Ruby on Rails.
 
 Backend Engineers have the following job-family performance indicators.
 
-- [Backend Unit Test Coverage](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#backend-unit-test-coverage)
-- [Open MR Review Time (OMRT)](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#open-mr-review-time-omrt)
-- [Open MR Age (OMA)](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#open-mr-age-oma)
+- [Backend Unit Test Coverage](/handbook/engineering/development/performance-indicators/#backend-unit-test-coverage)
+- [Open MR Review Time (OMRT)](/handbook/engineering/development/performance-indicators/#open-mr-review-time-omrt)
+- [Open MR Age (OMA)](/handbook/engineering/development/performance-indicators/#open-mr-age-oma)
 
 Engineering Managers have the following job-family performance indicators. Performance indicators for a Manager role usually apply to the team, meaning the manager and their direct reports.
 
-- [Open MR Review Time (OMRT)](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#open-mr-review-time-omrt)
-- [Open MR Age (OMA)](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#open-mr-age-oma)
-- [Response to Community SLO](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#response-to-community-slo)
-- [Hiring Actual vs. Plan](https://about.gitlab.com/handbook/engineering/performance-indicators/#engineering-hiring-actual-vs-plan)
-- [Development Department merge request rate](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#development-department-mr-rate)
-- [Diversity](https://about.gitlab.com/handbook/engineering/performance-indicators/#diversity)
-- [Handbook Update Frequency](https://about.gitlab.com/handbook/engineering/performance-indicators/#handbook-update-frequency)
-- [Team Member Retention](https://about.gitlab.com/handbook/engineering/performance-indicators/#team-member-retention)
+- [Open MR Review Time (OMRT)](/handbook/engineering/development/performance-indicators/#open-mr-review-time-omrt)
+- [Open MR Age (OMA)](/handbook/engineering/development/performance-indicators/#open-mr-age-oma)
+- [Response to Community SLO](/handbook/engineering/development/performance-indicators/#response-to-community-slo)
+- [Hiring Actual vs. Plan](/handbook/engineering/performance-indicators/#engineering-hiring-actual-vs-plan)
+- [Development Department merge request rate](/handbook/engineering/development/performance-indicators/#development-department-mr-rate)
+- [Diversity](/handbook/engineering/performance-indicators/#diversity)
+- [Handbook Update Frequency](/handbook/engineering/performance-indicators/#handbook-update-frequency)
+- [Team Member Retention](/handbook/engineering/performance-indicators/#team-member-retention)
 
 ## Job Grades
 
@@ -113,7 +113,7 @@ Read more about GitLab [Job Grades](/handbook/total-rewards/compensation/compens
 
 ### Intern, Backend Engineer
 
-Intern, Backend Engineers, while sharing the same requirements and responsibilities outlined above, typically join with less or alternate experience than typical Backend Engineers. More information on intern hiring and the intern program can be found [here](https://about.gitlab.com/handbook/engineering/career-development/#internships-in-engineering).
+Intern, Backend Engineers, while sharing the same requirements and responsibilities outlined above, typically join with less or alternate experience than typical Backend Engineers. More information on intern hiring and the intern program can be found [here](/handbook/engineering/career-development/#internships-in-engineering).
 
 #### Job Grade
 
@@ -143,11 +143,11 @@ The Senior Backend Engineer is a [grade 7](/handbook/total-rewards/compensation/
 - Represent GitLab and its values in public communication around broader initiatives, specific projects, and community contributions.
 - Provide mentorship for Junior and Intermediate Engineers on your team to help them grow in their technical responsibilities and remove blockers to their autonomy.
 - Confidently ship moderately sized features and improvements with minimal guidance and support from other team members. Collaborate with the team on larger projects.
-- Improves the [engineering projects](https://about.gitlab.com/handbook/engineering/projects/) at GitLab via [the maintainer program](https://about.gitlab.com/handbook/engineering/workflow/code-review/#how-to-become-a-project-maintainer). For more information regarding timelines and exceptions, [see this page](https://about.gitlab.com/handbook/engineering/workflow/code-review/#maintainer).
+- Improves the [engineering projects](/handbook/engineering/projects/) at GitLab via [the maintainer program](/handbook/engineering/workflow/code-review/#how-to-become-a-project-maintainer). For more information regarding timelines and exceptions, [see this page](/handbook/engineering/workflow/code-review/#maintainer).
 
 ----
 
-A Senior Backend Engineer may want to pursue the [engineering management track](/job-families/engineering/engineering-management/) at this point as a manager of people or a higher level individual contributor. See [Engineering Career Development](https://about.gitlab.com/handbook/engineering/career-development/) for more detail.
+A Senior Backend Engineer may want to pursue the [engineering management track](/job-families/engineering/engineering-management/) at this point as a manager of people or a higher level individual contributor. See [Engineering Career Development](/handbook/engineering/career-development/) for more detail.
 
 **Note:** Staff and above positions at GitLab are more of a role than just a "level". We prefer to bring people in as Senior and let the team elevate them to Staff due to an outstanding work history within GitLab.
 
@@ -172,7 +172,7 @@ The Staff Backend Engineer is a [grade 8](/handbook/total-rewards/compensation/c
 - Represent GitLab and its values in public communication around broad initiatives, specific projects, and community contributions. Interact with customers and other external stakeholders as a consultant and spokesperson for the work of your team.
 - Provide mentorship for all Engineers on your team to help them grow in their technical responsibilities and remove blockers to their autonomy.
 - Confidently ship large features and improvements with minimal guidance and support from other team members. Collaborate with the team on larger projects.
-- Participate in either Tier 2 or Tier 3 weekday and weekend and occasional night [on-call rotations](https://about.gitlab.com/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html) to assist troubleshooting product operations, security operations, and urgent engineering issues **OR** the [Incident Management on-call rotation](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) to help ensure the availability goals for GitLab.com are met, by working with reliability engineers and development team
+- Participate in either Tier 2 or Tier 3 weekday and weekend and occasional night [on-call rotations](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html) to assist troubleshooting product operations, security operations, and urgent engineering issues **OR** the [Incident Management on-call rotation](/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) to help ensure the availability goals for GitLab.com are met, by working with reliability engineers and development team
 
 ## Engineering Management Roles at GitLab
 
@@ -180,7 +180,7 @@ View the [Engineering Manager](/job-families/engineering/development/management/
 
 ## Career Ladder
 
-For more details on the engineering career ladders, please review the [engineering career development](https://about.gitlab.com/handbook/engineering/career-development/#roles) handbook page.
+For more details on the engineering career ladders, please review the [engineering career development](/handbook/engineering/career-development/#roles) handbook page.
 
 ## Hiring Process
 
@@ -350,7 +350,7 @@ large repositories and projects, or can be part of a Disaster Recovery solution.
 - Work with the Product Manager to carefully assess technical feasibility of feature requests
 - Deliver proof-of-concept proposals to help guide technical discussions
 - Identify ways to deliver complex technical projects in an iterative fashion
-- Take [ownership](https://about.gitlab.com/handbook/engineering/development/enablement/systems/geo/process.html#epic-ownership) of feature implementation
+- Take [ownership](/handbook/engineering/infrastructure/core-platform/systems/geo/process.html#epic-ownership) of feature implementation
 - Respond quickly to customer requests for support
 
 #### Requirements
@@ -404,7 +404,7 @@ to understand what is working and what is not.
 - Experience using Continuous Integration systems (e.g., GitLab CI, Jenkins, Travis).
 - Experience using Docker and containerized architectures (e.g. Kubernetes).
 
-See the description of the [Quality team](https://about.gitlab.com/handbook/engineering/quality/) for more details.
+See the description of the [Quality team](/handbook/engineering/quality/) for more details.
 The position also involves working with the community as
 [Merge Request Coach](/job-families/expert/merge-request-coach/), and working together with our
 [Backend Engineers](/job-families/engineering/backend-engineer/) to respond and
@@ -414,10 +414,10 @@ address issues from the community.
 
 Engineering Productivity Engineers have the following job-family performance indicators.
 
-- [Average CE/EE pipeline duration per month](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#average-ce-ee-pipeline-duration-per-month)
-- [Successful vs failed CE/EE review app deployments per month](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#successful-vs-failed-ce-ee-review-app-deployments-per-month)
-- [Successful vs failed CE/EE master pipelines per month](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#successful-vs-failed-ce-ee-master-pipelines-per-month)
-- [New issue first triage SLO](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#new-issue-first-triage-slo)
+- [Average CE/EE pipeline duration per month](/handbook/engineering/quality/performance-indicators/#average-ce-ee-pipeline-duration-per-month)
+- [Successful vs failed CE/EE review app deployments per month](/handbook/engineering/quality/performance-indicators/#successful-vs-failed-ce-ee-review-app-deployments-per-month)
+- [Successful vs failed CE/EE master pipelines per month](/handbook/engineering/quality/performance-indicators/#successful-vs-failed-ce-ee-master-pipelines-per-month)
+- [New issue first triage SLO](/handbook/engineering/quality/performance-indicators/#new-issue-first-triage-slo)
 
 ### Application Performance
 
@@ -470,7 +470,7 @@ The Ecosystem team is responsible for seamless integration between GitLab and 3r
 
 #### Responsibilities
 
-- Design, build, and maintain APIs, Webhooks, and SDK of Gitlab products.
+- Design, build, and maintain APIs, Webhooks, and SDK of GitLab products.
 - Design, build, and maintain solutions to integrate to partner and 3rd party platforms.
 - Design, build, and maintain solutions for integrating with cloud service provider marketplaces, such as AWS.
 - Develop documentation and instructions of how to work with GitLab SDK & APIs.
@@ -553,7 +553,7 @@ of PostgreSQL. As such Ruby knowledge is absolutely required and deep PostgreSQL
 
 ### Infrastructure
 
-[Infrastructure](https://about.gitlab.com/handbook/engineering/infrastructure/) specialists work alongide DBREs and SREs and are experienced Ruby/GoLang developers who work in the product with a focus on reliability, observability, performance and scalability at the application level, as well as on resource optimization from an Infrastructure perspective and on operationally relevant features.
+[Infrastructure](/handbook/engineering/infrastructure/) specialists work alongide DBREs and SREs and are experienced Ruby/GoLang developers who work in the product with a focus on reliability, observability, performance and scalability at the application level, as well as on resource optimization from an Infrastructure perspective and on operationally relevant features.
 
 #### Requirements
 
@@ -578,7 +578,7 @@ every GitLab release reaches the public in time.
 
 #### Responsibilities
 
-- Assures the [GitLab Release Process](https://about.gitlab.com/handbook/engineering/releases/)
+- Assures the [GitLab Release Process](/handbook/engineering/releases/)
 - Creates new tools to automate the release process
 - Builds new GitLab release features to replace existing custom tooling
 - Works with individual teams on defining and implementing solutions that will help them release quicker
@@ -591,7 +591,7 @@ every GitLab release reaches the public in time.
 
 ### Scalability
 
-The [Scalability team](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/) is responsible for optimising GitLab.com
+The [Scalability team](/handbook/engineering/infrastructure/team/scalability/) is responsible for optimising GitLab.com
 performance through improving reliability, availability and performance of GitLab individual services and application as a whole.
 
 #### Responsibilities

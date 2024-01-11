@@ -3,7 +3,7 @@ title: "How to fill in for a UX Research Operations Coordinator"
 description: "This page details the steps required to execute a successful recruit from start to finish"
 ---
 
-There are times when you will play the role of UX Research Operations Coordinator. This page details all of the ‘behind the scenes’ steps needed to execute a successful recruit from start to finish. Are you interested in how to work with our UX Research Operations Coordinator? If so, you can find that information [here](https://www.google.com/url?q=https://about.gitlab.com/handbook/product/ux/ux-research/recruiting-participants/&sa=D&ust=1602108272868000&usg=AFQjCNE8hrspN3s2Uy2MuNSmZvxoAuuvQg).
+There are times when you will play the role of UX Research Operations Coordinator. This page details all of the ‘behind the scenes’ steps needed to execute a successful recruit from start to finish. Are you interested in how to work with our UX Research Operations Coordinator? If so, you can find that information [here](/handbook/product/ux/ux-research/recruiting-participants/).
 
 ## The Process
 
@@ -14,7 +14,7 @@ There are times when you will play the role of UX Research Operations Coordinato
 - The UX Research Operations Coordinator will assign you to any of these ongoing issues so you can easily track them.
 - The UX Research Operations Coordinator will also share the Open Recruitment Projects sheet with you and tag you on projects that require assistance.
 - Introduce yourself, in the `#product` and `#ux` Slack channels, as the recruitment point of contact for the next X days and/or weeks.
-   - If people attempt to raise recruiting requests in Slack, remind them to [create a recruiting request issue](https://www.google.com/url?q=https://about.gitlab.com/handbook/product/ux/ux-research/recruiting-participants/%23open-a-recruitment-request&sa=D&ust=1602108272869000&usg=AFQjCNGYiPHfLjC7psYeSDafJvXBzFRADQ) and assign it to you for tracking and visibility purposes.
+   - If people attempt to raise recruiting requests in Slack, remind them to [create a recruiting request issue](/handbook/product/ux/ux-research/recruiting-participants/#opening-a-recruitment-request) and assign it to you for tracking and visibility purposes.
    - Remind them an issue has been handed off to you once you confirm the handoff in a comment.
 - Be sure to join the `#uxr_reops` Slack channel for easier coordination if there is more than one person covering for the UX Research Operations Coordinator.
 - If the UX Research Operations Coordinator is going to be unavailable for more than 7 consecutive business days they will open an MR on the Research Recruiting & Incentive Request Issue Template to make sure whoever is covering for them is auto-assigned to newly opened issues.
@@ -41,10 +41,6 @@ There are times when you will play the role of UX Research Operations Coordinato
 
 ### Step 3 - Choose the best recruiting channel from these options:
 
-- **[First Look (Qualtrics)](/handbook/product/ux/qualtrics/#distributing-a-survey-to-gitlab-first-look):**
-   - Contains GitLab users, mostly our Developer persona, although some more exotic job titles are also found there.
-   - Can be used to identify respondents for surveys.
-   - For other studies, feel free to “pre-screen” in First Look by performing an advanced search to see how many of the screener criteria are available.
 - **[Data warehouse contacts](/handbook/product/ux/ux-research/recruiting-participants/#finding-gitlabcom-users-in-the-data-warehouse)**
    - Requires editor access & SQL knowledge
    - Contains GitLab SaaS user information.
@@ -52,7 +48,6 @@ There are times when you will play the role of UX Research Operations Coordinato
    - Pull contacts of GitLab SaaS users and then follow the usual process in Qualtrics.
 - **Respondent.io:**
   - Great for quick turnarounds, or when participants don’t necessarily need to be GitLab users.
-  - Good for job titles that aren’t as prevalent in First Look
   - How to use it:
     - Log into Respondent and build and launch the campaign, using the screener from the person conducting the research.
     - Take care to double check your criteria and set the correct questions to “disqualify” participants. For example, you can specify that you only want Jira users by setting 'Jira' as a 'must select' response in the relevant question. This will automatically disqualify anyone who chooses another response. This saves you time by reducing the volume of screener responses you need to comb through. It also helps non-researchers easily see who is qualified to take part in the study.
@@ -60,19 +55,15 @@ There are times when you will play the role of UX Research Operations Coordinato
    - Good for unmoderated usability tests
    - We can leverage their panel to recruit technical users
 - **Using Team members to socialize requests:**
-   - Good for a supplement when using First Look for large number of responses to surveys
    - How to use it:
      - Post in Slack channels like #ux, #product, and #whats_happening_at_gitlab . Include a concise call to action, due date, and share the link that you want people to post.
 - **[Direct outreach](https://www.youtube.com/watch?v=rc2IX1e2sQ8&feature=youtu.be) on LinkedIn:**
-   - Good for job titles that aren’t prevalent in First Look or for people who use specific tools.
-      - Example: people need 10 years of experience with Jenkins on their profile.
    - How to use it:
       - You can search for the criteria you are looking for and use inMail credits to invite them.
       - If you do not have a Recruiter License, you will need to open an access request.
    - Watch this [video](https://youtu.be/rc2IX1e2sQ8) for how to get started
 - **Marketing newsletter:**
    - ***Note: Reserve this for critical studies, like the SUS.***
-   - Good for a supplement when using First Look for large number of responses to surveys
    - The newsletter is sent on the 10th and 25th of each month.
    - How to use it:
      - Submit a request for the survey to be included in the newsletter. Here is an example [issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/4087).

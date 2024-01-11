@@ -3,7 +3,7 @@
 title: Solutions Architect Sales Plays
 description: “Discover GitLab Solutions Architects’ Sales Plays practices”
 ---
- 
+
 
 ## Sales Plays for new account & teams(existing customer) lands
 
@@ -17,7 +17,7 @@ As a general guideline, no more than 2 Solutions Architects should join any sing
 
 ## Overview
 
-**Objective** - Land new accounts, logos & new teams in existing account with Gitlab Ultimate.
+**Objective** - Land new accounts, logos & new teams in existing account with GitLab Ultimate.
 
 Who is this sales play for?
 
@@ -66,7 +66,7 @@ Consider the following questions:
 1. During qualification, make sure to identify the pain points, customer profile using the collaterals highlighted below:
     1. [Questions](/handbook/marketing/sales-plays-cicd/playbook-premium-to-ultimate/#engaging-the-customer) to better understand customer needs, future state & required capabilities
     1. Customer presentations & GTM use cases link [here](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/#customer-facing-presentations)
-    1. [Discovery questions](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#discovery-questions) for Gitlab Protect/Secure
+    1. [Discovery questions](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#discovery-questions) for GitLab Protect/Secure
     1. Potential [objections](/handbook/marketing/sales-plays-cicd/playbook-premium-to-ultimate/#objection-handling) from prospects/customers
 1. Review how to position gitlab's values & why does gitlab does it better [here](/handbook/marketing/sales-plays-cicd/playbook-premium-to-ultimate/#positioning-value)
 
@@ -94,7 +94,7 @@ Secondary: SA
 1. Identify & get access to high-level exec for higher-level initiatives using collateral below
         1. [Accelerating Digital Transformation](https://about.gitlab.com/solutions/digital-transformation/)
         1. [Value Stream Management](https://about.gitlab.com/solutions/value-stream-management/)
-        1. [Gitlab is optimized for cloud native](https://docs.google.com/presentation/d/1oq7ODy9TJpuZqH_tvVtCm2t-C0QkTbuG4ZRlRzRNcUY/edit#slide=id.gbb4f272403_0_546)
+        1. [GitLab is optimized for cloud native](https://docs.google.com/presentation/d/1oq7ODy9TJpuZqH_tvVtCm2t-C0QkTbuG4ZRlRzRNcUY/edit#slide=id.gbb4f272403_0_546)
 1. Propose next steps & get some time while you are speaking with the customer ideally a demo or workshop. We DONOT recommend starting with a POV since it leads to longer sales cycles & unexpected results before doing more discovery & agreeing to success criterias.
 
 **Expected Outcome**
@@ -120,7 +120,7 @@ SA and SAE
 1. Identify & get access to high-level exec for higher-level initiatives using collateral below
         1. [Accelerating Digital Transformation](https://about.gitlab.com/solutions/digital-transformation/)
         1. [Value Stream Management](https://about.gitlab.com/solutions/value-stream-management/)
-        1. [Gitlab is optimized for cloud native](https://docs.google.com/presentation/d/1oq7ODy9TJpuZqH_tvVtCm2t-C0QkTbuG4ZRlRzRNcUY/edit#slide=id.gbb4f272403_0_546)
+        1. [GitLab is optimized for cloud native](https://docs.google.com/presentation/d/1oq7ODy9TJpuZqH_tvVtCm2t-C0QkTbuG4ZRlRzRNcUY/edit#slide=id.gbb4f272403_0_546)
 1. Propose next steps & get some time while you are speaking with the customer ideally a demo or workshop. We DONOT recommend starting with a POV since it leads to longer sales cycles & unexpected results before doing more discovery & agreeing to success criterias.
 
 **Expected Outcome**
@@ -135,35 +135,35 @@ SA and SAE
 ### Stage: Technical Evaluations
 
 1. Strategize with your sales team on which play would you like to run & agree on the expected outcome before the meeting. We dont recommend starting a technical evaluation with a POV.
-    - Demo/Deck: Vision & transformation play, where you would likely focus on Gitlab holistically
+    - Demo/Deck: Vision & transformation play, where you would likely focus on GitLab holistically
     1. [Customer facing slides](https://docs.google.com/presentation/d/1WHTyUDOMuSVK9uK7hhSIQ_JbeUbo7k5AW3D6WwBReOg/edit)
     1. [Why choose ultimate](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#ultimate)
     1. [Customer proof point](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#proof-points---customers)
-    1. [How Gitlab meets market requirements](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#how-gitlab-meets-the-market-requirements)
+    1. [How GitLab meets market requirements](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#how-gitlab-meets-the-market-requirements)
     1. [Differentiators](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#top-differentiators) - Feel free to pick as many you would like
     1. [SA Demo Repo](https://gitlabdemo.com/catalog/libraries/3c68d4b8) : break this down into multiple play
     1. [Demo catalog](https://gitlab.com/gitlab-com/customer-success/solutions-architecture/demo-catalog)
     1. [End to End TCO planning workshop](https://docs.google.com/spreadsheets/d/1wVghmLv3E_IKs7rz-quc6jtjZW0p-u3h4iSaDqmm1Nc/edit#gid=467701643), Recording
     1. [End to end demo with secure]
     - Nuts/Bolts play where you will focus on specific secure/ultimate capabilities
-    1. [DevSecops Nuts & Bolts deck](https://docs.google.com/presentation/d/1NSowoLzyrb_8ACnxwbQ2FcqaoDmavaedUrd2rVidehw/edit#slide=id.gc2a4740e21_0_554)by Darwin Sanoy 
+    1. [DevSecOps Nuts & Bolts deck](https://docs.google.com/presentation/d/1NSowoLzyrb_8ACnxwbQ2FcqaoDmavaedUrd2rVidehw/edit#slide=id.gc2a4740e21_0_554) by Darwin Sanoy
     1. [Building a continuous remediation habit](https://drive.google.com/file/d/1Gd7pb_-5V9jjJqT7zFNLpxoKjZuOFE63/view)
     1. [Additional info including TCO workshop](https://gitlab.com/gitlab-com/customer-success/tko/nuts-and-bolts-devsecops-motion-feedback)
     - Demo/Deck: Integrate vs Compete play
     1. [Compete : Argo CD/TeamCity](https://gitlabdemo.com/catalog/libraries/categories/ac509772)
-    1. [Gitlab advantages over competitors](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#competitive-comparison)
+    1. [GitLab advantages over competitors](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#competitive-comparison)
 
 **Expected Outcome**
 
 1. Deeper Dive Demo
-2. Workshops 
+2. Workshops
 3. [POV](/handbook/customer-success/solutions-architects/tools-and-resources/pov/)
 4. [Professional Services Engagement](#professional-service-resources)
 
 **Owner**
 
 SA and SAE
-	
+
 
 ## Additional Resources to use
 
@@ -184,7 +184,7 @@ Will have specific resources under actions above. This is for additional resourc
 | CISO, CTO, VP Engineering, Director of DevOps Platform or Developer Experience, Head of Digital/DevOps Transformation | [Transformative services](https://www.loom.com/share/da035d54cda74c039524d940766d7621?sharedAppSource=personal_library), [slides](https://docs.google.com/presentation/d/1zH6l_qLtODL_gYD6YazKYl5BGY0FVDy08QAqS7ticuU/edit#slide=id.g11640e57389_0_21) | reducing functional silos, proactive risk management (e.g. shift left), standardizing CI/CD workflows, and innersourcing collaboration. |
 | Sr. Manager App Dev, Director of Engineering | [Standard service packages](https://about.gitlab.com/services/catalog/) or Custom Scoped Offerings| Customers who are interested in [training](https://about.gitlab.com/services/education/) on one ore more specific topic. Customers who need help in [implementing GitLab Self Managed](https://about.gitlab.com/services/implementation/) or need data to be [migrated to GitLab](https://about.gitlab.com/services/migration/)  |
 
-Not sure? Get in contact with your region's [PS Engagement Manager](/handbook/company/team/?department=practice-management) in [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) to discuss specific customer opportunities. 
+Not sure? Get in contact with your region's [PS Engagement Manager](/handbook/company/team/?department=practice-management) in [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) to discuss specific customer opportunities.
 
 
 ## Measuring progress

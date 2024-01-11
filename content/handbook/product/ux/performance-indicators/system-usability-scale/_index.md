@@ -21,16 +21,16 @@ Collectively, SUS consists of ten questions, which are positively and negatively
 The response scale for each question is a 5-point Likert agreement scale:
 
 | Strongly disagree  | Disagree | Neither agree nor disagree | Agree | Strongly agree |
-| ----- | ----- | ----- | ----- | ----- |
+| :-----: | :-----: | :-----: | :-----: | :-----: |
 | 1 | 2 | 3 | 4 | 5 |
 
-We follow these 10 questions with a single open-ended question that asks, *“Is there anything else you’d like to share with us about GitLab’s usability?”*
+We follow these 10 questions with a single open-ended question that asks, *“What problems or frustrations have you experienced while using GitLab?”*
 
 These questions are delivered in survey format to users of the product.
 
 ## SUS and GitLab
 
-We adopted the System Usability Scale at GitLab in FY20-Q1. We deploy the survey quarterly to SaaS users and bi-quarterly to our Self-Managed users. This has allowed us to understand the overall usability of our product and track changes over time. We’ve begun relying on SUS as a [KPI for the UX Department](/handbook/product/ux/performance-indicators/#system-usability-scale-sus-score) and we have multiple OKR-related efforts underway to try and improve our score.
+We adopted the System Usability Scale at GitLab in FY20-Q1. We deploy the survey bi-quarterly to both our SaaS and Self-Managed users. This has allowed us to understand the overall usability of our product and track changes over time. We’ve begun relying on SUS as a [KPI for the UX Department](/handbook/product/ux/performance-indicators/#system-usability-scale-sus-score) and we have multiple OKR-related efforts underway to try and improve our score.
 
 With this emphasis, it’s important that SUS is deployed in a rigorous and sustainable manner.
 
@@ -153,7 +153,7 @@ Let me know if you have any questions or if you're interested in pursuing some o
 
 ## SUS Responder Outreach
 
-We include a question at the end of the SUS survey that asks whether respondents would be interested in discussing their responses with a GitLab team member. We have created a process for Product Managers (PM) and Product Designers (PDs) to conduct follow-up interviews so that they can get a better understanding of the usability issues respondents are experiencing. This outreach is optional for team members but highly encouraged. Learn more about the process on the [SUS Responder Outreach page](/handbook/product/ux/performance-indicators/system-usability-scale/sus-outreach.html).
+We include a question at the end of the SUS survey that asks whether respondents would be interested in discussing their responses with a GitLab team member. We have created a process for Product Managers (PM) and Product Designers (PDs) to conduct follow-up interviews so that they can get a better understanding of the usability issues respondents are experiencing. This outreach is optional for team members but highly encouraged. Learn more about the process on the [SUS Responder Outreach page](/handbook/product/ux/performance-indicators/system-usability-scale/sus-outreach/).
 
 ## Limitations
 

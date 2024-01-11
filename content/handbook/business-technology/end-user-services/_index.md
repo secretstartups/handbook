@@ -57,17 +57,17 @@ To view laptop delivery metrics and statistic please visit the [Laptop Metrics H
 
 Please visit the GitLab Onboarding and machine management [handbook page](/handbook/business-technology/end-user-services/onboarding-access-requests/)
 
-#### Gitlab Laptop Offboarding
+#### GitLab Laptop Offboarding
 
-Please visit the Gitlab Laptop Offboarding page for information pertaining to this process at Gitlab [handbook page](/handbook/business-technology/end-user-services/gitlab-laptop-offboarding/)
+Please visit the GitLab Laptop Offboarding page for information pertaining to this process at GitLab [handbook page](/handbook/business-technology/end-user-services/gitlab-laptop-offboarding/)
 
 #### Self-help and troubleshooting
 
 Experiencing some issues with your machine, access to systems, 2FA or other IT related issues? Please visit our [self-help and troubleshooting handbook page](/handbook/business-technology/end-user-services/self-help-troubleshooting/)
 
-#### Gitlab IT 101
+#### GitLab IT 101
 
-New to Gitlab and looking for some IT tips and tricks? This is the spot for you, we have created a comprehensive guide for using the IT systems, apps and hardware [in this handbook page](/handbook/business-technology/end-user-services/onboarding101/)
+New to GitLab and looking for some IT tips and tricks? This is the spot for you, we have created a comprehensive guide for using the IT systems, apps and hardware [in this handbook page](/handbook/business-technology/end-user-services/onboarding101/)
 
 #### Offboarding
 
@@ -119,6 +119,16 @@ To learn more on how this automation works, check the [IT-Help Slack Issue Creat
 
 - Use specialized help desk support software to take control of end-users' computers to troubleshoot, diagnose, and resolve complex issues.
 
+#### IT Holiday Schedule
+
+The IT Helpdesk team (End User Services) will be observing 2 end of the year holidays during the weeks from 2023-12-18 to the 2024-01-02.
+
+Observed Support Holidays
+Monday December 25th
+Monday January 1st
+
+If you have an urgent request, please reach out to us via slack in the #it_help channel.
+ 
 #### IT Ops
 
 - IT Ops will work with Security, the People Group, and Business Technology to develop automated on-boarding and off-boarding processes.
@@ -138,8 +148,6 @@ To learn more on how this automation works, check the [IT-Help Slack Issue Creat
 #### GitLab IT Team
 
 - Senior Director, IT Operations - [Robert Rea](/handbook/company/team/#rrea1), rrea@gitlab.com, @rrea1
-
-- Senior Manager, IT - [Peter Kaldis](/handbook/company/team/#pkaldis), pkaldis@gitlab.com, @pkaldis
 
 - Senior Manager, IT - [Michael Beltran](/handbook/company/team/#mbeee), mbeltran@gitlab.com, @mbeee
 

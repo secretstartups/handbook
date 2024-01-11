@@ -55,7 +55,7 @@ If you find that you need to make adjustments to the group/subgroup structure, y
 
 There are several reasons you might wish to generate sample data within your group or projects. These projects are empty by default, and testing user behavior on an empty project is not very accurate or realistic. It can be time consuming and tedious to handcraft an entire project’s worth of sample data, so we’ve created a few options to populate your projects with sample data through Ruby scripts.
 
-**Note:** Not every type of data can be generated, especially in more complex setups. To get an idea of what is and isn’t possible, check the [Gitlab Ruby gem documentation](https://www.rubydoc.info/gems/gitlab/Gitlab/Client).
+**Note:** Not every type of data can be generated, especially in more complex setups. To get an idea of what is and isn’t possible, check the [GitLab Ruby gem documentation](https://www.rubydoc.info/gems/gitlab/Gitlab/Client).
 
 For questions or troubleshooting, reach out to @leducmills on Slack.
 
@@ -130,7 +130,7 @@ Once you are logged into the sandbox, navigate to a group called `User Test Acco
 
 When using test accounts for your study **you will be responsible for changing the password after each participant session to protect our environment.** The last updated password (after your final user) will need to be recorded in the `accounts.md` file for the next person to use.
 
-## Do and don't
+## Dos and don'ts
 
 Do:
 

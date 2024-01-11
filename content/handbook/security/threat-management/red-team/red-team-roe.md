@@ -82,8 +82,8 @@ If we ever suspect an impact to production, we will do the following:
 1. Suspend any activities related to the impact
 1. Immediately inform everyone defined as a "trusted participant" for the operation
 1. If a security incident is required, [engage SIRT]({{< ref "sec-incident-response#engaging-sirt" >}})
-1. If an infrastructure incident is required, [engage the on-call SRE](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#reporting-an-incident)
-1. Perform a proper [root cause analysis](https://about.gitlab.com/handbook/engineering/root-cause-analysis/) following resolution of the incident
+1. If an infrastructure incident is required, [engage the on-call SRE](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident)
+1. Perform a proper [root cause analysis](/handbook/engineering/root-cause-analysis/) following resolution of the incident
 
 ## Common Techniques
 

@@ -18,18 +18,111 @@ immediately after a ticket is created or updated.
 The simpler way to think of it is automations are triggers that do not run
 instantly. They are time based than event based.
 
-## How do we maintain them?
+## How GitLab manages Zendesk automations
 
-Instead of managing Zendesk automations via Zendesk itself, we instead use
-GitLab projects to maintain them. This allows us to have version-controlled
-automations.
+#### Zendesk Global
 
-You can find our Zendesk automation projects via:
+We currently utilize a [v2 sync repo](../../change_management/sync_repos#v2) for
+managing automations in Zendesk Global.
 
-- [Zendesk Global](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/automations)
-- [Zendesk US Federal](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/automations)
+The two projects that make this work are:
 
-## Creating an automation via Zendesk
+- [Support managed content project](https://gitlab.com/gitlab-com/support/zendesk-global/automations)
+- [Sync repo project](https://gitlab.com/gitlab-support-readiness/zendesk-global/automations)
+
+Deployments are done on the 1st of each month at 0000 UTC.
+
+The basic process for management of triggers would be:
+
+```mermaid
+graph TD;
+  A -->|Content modification| B
+  A -->|Anything else| E
+  B --> C
+  C --> D
+  D --> I
+  E --> F
+  F -->|Actions modification| G
+  F -->|Creation| K
+  F -->|Deactivation| N
+  G --> H
+  H --> I
+  I --> J
+  K --> L
+  L --> M
+  M --> G
+  N --> G
+  A{What kind of change is it?}
+  B[Merge request created<br>in Support managed<br>content project]
+  C[Support Manager reviews,<br>approves, and merges<br>the changes]
+  D[Webhook fires to trigger<br>submodule update on<br>sync repo project]
+  E[support-team-meta issue is created]
+  F{Support Readiness determines<br>actions needed}
+  G[Support Readiness creates<br>merge request in<br>sync repo project]
+  H[Support Readiness reviews,<br>approves, and merges<br>the changes]
+  I[Commit is made on default<br>branch of sync repo project]
+  J[Sync scripts perform updates to<br>Zendesk during next deployment]
+  K[Support Readiness creates<br>placeholder automation in Zendesk]
+  L[Support Readiness creates<br>merge request in Support<br>managed content project]
+  M[Support Manager reviews,<br>approves, and merges<br>the changes]
+  N[Support Readiness tells<br>Support to move the file<br>in the Support managed<br>content project after a<br>specific date]
+```
+
+#### Zendesk US Government
+
+We currently utilize a [v2 sync repo](../../change_management/sync_repos#v2) for
+managing automations in Zendesk Global.
+
+The two projects that make this work are:
+
+- [Support managed content project](https://gitlab.com/gitlab-com/support/zendesk-us-government/automations)
+- [Sync repo project](https://gitlab.com/gitlab-support-readiness/zendesk-us-government/automations)
+
+Deployments are done on the 1st of each month at 0000 UTC.
+
+The basic process for management of triggers would be:
+
+```mermaid
+graph TD;
+  A -->|Content modification| B
+  A -->|Anything else| E
+  B --> C
+  C --> D
+  D --> I
+  E --> F
+  F -->|Actions modification| G
+  F -->|Creation| K
+  F -->|Deactivation| N
+  G --> H
+  H --> I
+  I --> J
+  K --> L
+  L --> M
+  M --> G
+  N --> G
+  A{What kind of change is it?}
+  B[Merge request created<br>in Support managed<br>content project]
+  C[Support Manager reviews,<br>approves, and merges<br>the changes]
+  D[Webhook fires to trigger<br>submodule update on<br>sync repo project]
+  E[support-team-meta issue is created]
+  F{Support Readiness determines<br>actions needed}
+  G[Support Readiness creates<br>merge request in<br>sync repo project]
+  H[Support Readiness reviews,<br>approves, and merges<br>the changes]
+  I[Commit is made on default<br>branch of sync repo project]
+  J[Sync scripts perform updates to<br>Zendesk during next deployment]
+  K[Support Readiness creates<br>placeholder automation in Zendesk]
+  L[Support Readiness creates<br>merge request in Support<br>managed content project]
+  M[Support Manager reviews,<br>approves, and merges<br>the changes]
+  N[Support Readiness tells<br>Support to move the file<br>in the Support managed<br>content project after a<br>specific date]
+```
+
+## Performing actions in Zendesk
+
+**NOTE**: This is for documentation and instruction purpose. An admin level
+account is required and these should only be performed when actually warranted,
+such as when creating a placeholder trigger.
+
+#### Creating an automation via Zendesk
 
 To create an automation in Zendesk, you first need to go to the Admin Center
 ([Zendesk Global](https://gitlab.zendesk.com/admin/) /
@@ -53,7 +146,7 @@ After doing this, you will then click the blue `Create automation` button.
 **Note**: By default, the automation's position will be set to the bottom of the
 select category. To adjust this, see [Positioning](#positioning).
 
-## Editing an automation via Zendesk
+#### Editing an automation via Zendesk
 
 Editing a Zendesk automation is very similar to
 [creating one](#creating-an-automation-via-zendesk). You will follow the same
@@ -66,7 +159,7 @@ Doing so will bring up the automation editor page. From here, you can tweak the
 various aspects of the automation. Once you have the edits in place, ensure the
 dropdown at the bottom right says `Update` and click the blue `Submit` button.
 
-## Deactivating an automation via Zendesk
+#### Deactivating an automation via Zendesk
 
 There are actually two ways to deactivate an automation in the Zendesk UI. The
 quicker way is to go to the automation page, locate the automation in question,
@@ -82,7 +175,7 @@ the automation editor page. At the bottom right, ensure the dropdown says
 retained in the backend. Re-enabling the automation will have it take the same
 position it was in while previously active.
 
-## Positioning
+#### Positioning
 
 Many components of Zendesk using positioning to determine the overall run order.
 With automations being time-based events, it is not often as important to worry
@@ -105,7 +198,7 @@ automations into the order you desire. After making the changes, click the blue
 While this does not matter in the UI, it will matter in the repo sync we
 utilize.
 
-## Automation standards
+#### Automation standards
 
 To ensure all automations we utilize are both consistent in nature and
 transparent in their actions, we strive to meet some standards on all
@@ -160,23 +253,3 @@ form is `Support Ops`, it is better to simply put a condition of "Form is
 Support Ops" than adding exclusions for *every* other form. This can take time
 and practice to learn, so when in doubt, pair with the rest of the Support Ops
 team!
-
-## Change management
-
-As these are maintained via sync repositories, our standard change management
-process applies to all Zendesk automations. See
-[standard change management](/handbook/support/readiness/operations/docs/change_management#standard-change-management)
-for more information.
-
-#### Labels to use
-
-For all issues and MRs involving automations, the label
-`Support-Ops-Category::Automations` should be used.
-
-#### Change criticality
-
-As automations tend to have far less of an impact, adding/editing/deleting
-Zendesk automation issues/MRs will be classified as either
-[criticality 2](/handbook/support/readiness/operations/docs/change_criticalities#criticality-2)
-or
-[criticality 3](/handbook/support/readiness/operations/docs/change_criticalities#criticality-3)

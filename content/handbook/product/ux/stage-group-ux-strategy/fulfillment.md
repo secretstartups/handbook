@@ -5,8 +5,7 @@ description: "The Fulfillment UX team supports the Fulfillment section to provid
 
 ## UX team members
 
-- [Jacki Bauer](/handbook/company/team/#jackib) ([Jacki's ReadMe](https://gitlab.com/jackib/jacki-bauer/blob/master/README.md)) - Product Design Manager
-- [Emily Sybrant](/handbook/company/team/#esybrant) - Senior Product Designer, Fulfillment
+- [Emily Sybrant](/handbook/company/team/#esybrant) - Product Design Manager
 - [Tim Noah](/handbook/company/team/#timnoah) - Senior Product Designer, Fulfillment
 - [Nick Hertz](/handbook/company/team/#nickhertz) - UX Researcher, Fulfillment
 
@@ -37,7 +36,7 @@ Notes
 
 One of the ways we track our progress is by measuring the UX of our different workflows (scorecards) and progress towards closing out issues that impact UX (issues labeled SUS:Impacting).
 
-[View Fulfillment Cross-Functional Dashboard](https://about.gitlab.com/handbook/engineering/development/fulfillment/#cross-functional-backlog)
+[View Fulfillment Cross-Functional Dashboard](/handbook/engineering/development/fulfillment/#cross-functional-backlog)
 
 View the complete [Fulfillment UX Scorecard Playlist](https://youtube.com/playlist?list=PL05JrBw4t0KplrSGPYZAG8ZDCcyYPBEcz) on YouTube
 
@@ -114,7 +113,7 @@ View the complete [Fulfillment UX Scorecard Playlist](https://youtube.com/playli
 
 ## How We Work
 
-We follow the [Product Designer workflows](/handbook/product/ux/product-designer/) and [UX Researcher workflows](/handbook/product/ux/ux-research/) described in the [Product Design section](/handbook/product/ux/) of the handbook. As Growth designers, we relentlessly measure the impact of our design changes following the [experimentation workflow](https://about.gitlab.com/handbook/engineering/development/growth/experimentation/). In addition:
+We follow the [Product Designer workflows](/handbook/product/ux/product-designer/) and [UX Researcher workflows](/handbook/product/ux/ux-research/) described in the [Product Design section](/handbook/product/ux/) of the handbook. As Growth designers, we relentlessly measure the impact of our design changes following the [experimentation workflow](/handbook/engineering/development/growth/experimentation/). In addition:
 
 - we have issue boards so we can see what everyone is up to.
 - we **label** our issues with UX, devops::fulfillment, section::fulfillment and group::.

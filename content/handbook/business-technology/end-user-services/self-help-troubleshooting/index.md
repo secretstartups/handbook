@@ -36,7 +36,7 @@ Please read through this page to find the common troubleshooting questions GitLa
 
 ### I can't get into Okta or GitLab with my authenticators
 
-#### Gitlab
+#### GitLab
 
 - Please check any authenticator apps (Google Authenticator, Duo Mobile, Okta Verify, etc.) on your phone that has an entry of gitlab.com:name@gitlab.com.
 - There may be recovery codes in your Downloads folder titled gitlab-recovery-codes.txt, you can enter one of those codes to regain access.
@@ -307,7 +307,7 @@ After we have initiated the wipe from our end, the Mac should restart several ti
 1. Turn on your Chromebook, connect it to a network and follow the on-screen instructions until you see the **Who's using this Chromebook** screen. Don't sign in yet. 
 2. You should see an option at the bottom for **Enterprise Enrollment**: If you do not see this you can press **ctrl+alt+e** and it should bring you to the Enterprise Enrollment Screen. 
 3. Enter the username and password from your Google admin welcome letter or for a Google Account that has eligibility to enroll. This is your GitLab username and password.
-4. Once you successfully input your registered Gitlab email address a Okta prompt should appear. You should now enter the email address and password you use for Okta. Afterwards you should be prompted to input a 2FA code or verify a push notification
+4. Once you successfully input your registered GitLab email address a Okta prompt should appear. You should now enter the email address and password you use for Okta. Afterwards you should be prompted to input a 2FA code or verify a push notification
 5. When you get a confirmation message that the device is successfully enrolled, click Done.
 6. Lastly, you should be prompted one final time to **Sign in to your Chromebook**. Click next and repeat the steps above. (input Okta email and password + 2FA or push notification)
 7. Congrats! You have now completed your sign in an enrollment.

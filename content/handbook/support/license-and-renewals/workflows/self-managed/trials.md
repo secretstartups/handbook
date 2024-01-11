@@ -11,7 +11,7 @@ Self-managed trials and grace periods cannot be extended - a **trial** license m
 Requests for grace period extensions, temporary keys, temporary extensions, temporary licenses,
 and trial extensions all require generating a trial License.
 
-Sales will often request through an [Internal Request / Zendesk Ticket](https://gitlab-com.gitlab.io/support/internal-requests-form/) that we extend the duration of Self-Managed trials on behalf of their prospects. These tickets will always be raised from the GitLab Support End User `gitlab_support@example.com`, with the submitter cc'd on the ticket. The following workflow should be followed to service them.
+Sales will often request through an [Internal Request / Zendesk Ticket](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/) that we extend the duration of Self-Managed trials on behalf of their prospects. These tickets will always be raised from the GitLab Support End User `gitlab_support@example.com`, with the submitter cc'd on the ticket. The following workflow should be followed to service them.
 
 If any fields when opening the ticket were filled out incorrectly, send a public reply in the ticket asking the submitter to supply the missing information.
 
@@ -30,7 +30,9 @@ We are allowed to issue trial licenses because they:
 ### How to extend an expired or soon to expire license
 
 **Note:** Unlike [SaaS](/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change#extending-trials), a Self-managed extension does **not** require a pre-existing Trial license. Instead, start with the current almost-expired license, or most-recent expired license.
-With the release of [Temporary renewal extensions](/handbook/product/fulfillment-guide/#temporary-renewal-extensions), Sales are expected to use the [SFDC process](#sales-ae-requests-for-a-manual-temporary-extension) first before requesting L&R Support to manually generate a license.
+
+
+**Note:** The [Temporary renewal extensions functionality](/handbook/product/fulfillment-guide/#temporary-renewal-extensions), intended to be used by the Sales Team, is currently in **BETA status**, and only a few individuals have access to try it.  Please do not use the `Deviation from SM License Extension Workflow` macro at this time, and instead skip immediately ahead to step 3.  The functionality is tentatively scheduled for general availability in the first half of January 2024
 
 1. Open the expired or soon to expire license.
 1. Confirm that:
@@ -73,12 +75,16 @@ If you're on call and you need a license generated, but don't have access to the
 
 ### SFDC generated trial license extensions
 
+**Note:** The [Temporary renewal extensions functionality](/handbook/product/fulfillment-guide/#temporary-renewal-extensions), intended to be used by the Sales Team, is currently in **BETA status**, and only a few individuals have access to try it.  Please do not use the `Deviation from SM License Extension Workflow` macro at this time, and instead skip immediately ahead to step 3.  The functionality is tentatively scheduled for general availability in the first half of January 2024
+
 Account Executives (AEs) can use SalesForce.com (SFDC) to issue a self-managed 21-day license extension to a customer when the renewal opportunity is taking longer than expected to close. When an AE uses this functionality, the license code is automatically generated and sent to the customer without any L&R Support involvement. The [Temporary renewal extensions](/handbook/product/fulfillment-guide/#temporary-renewal-extensions) handbook entry documents this approach. Note that there are guardrails in place to prevent abuse of this ability, and that as a result only one license extension can be generated per renewal event. Therefore on occasions L&R Support will still be required to generate further license extensions.
 
 
 #### Sales AE requests for a manual temporary extension
 
-An AE is expected to use the [SFDC process](#sfdc-generated-trial-license-extensions) first when a customer requires a self-managed license extension.  However, if an extension has elapsed then an AE can use the [Internal Form](https://gitlab-com.gitlab.io/support/internal-requests-form/) named `Extend an (almost) expired subscription` to request a license extension directly from L&R support.  There are some caveats to this process which are listed below:
+**Note:** The [Temporary renewal extensions functionality](/handbook/product/fulfillment-guide/#temporary-renewal-extensions), intended to be used by the Sales Team, is currently in **BETA status**, and only a few individuals have access to try it.  Please do not use the `Deviation from SM License Extension Workflow` macro at this time, and instead skip immediately ahead to step 3.  The functionality is tentatively scheduled for general availability in the first half of January 2024
+
+An AE is expected to use the [SFDC process](#sfdc-generated-trial-license-extensions) first when a customer requires a self-managed license extension.  However, if an extension has elapsed then an AE can use the [Internal Request Form](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/) to request a license extension directly from L&R support. Use the **GitLab Support Internal Requests for Global customers** request option, and **Extend an (almost) expired subscription** for the internal request type. There are some caveats to this process which are listed below:
 
 - If the AE selects a different form (e.g. the IR `other`), then the L&R Support engineer should redirect the AE to submit a new ticket by using the `Deviation from SM License Extension Workflow` macro and close the ticket.
 - If the AE has not first utilized the SFDC process, then the L&R Support engineer should direct them there by using the `Deviation from SM License Extension Workflow` macro and close the ticket.

@@ -1,5 +1,7 @@
 ---
 title: "Corporate Development"
+description: Corporate Development team members prospect, pursue and integrate acquisitions to accelerate GitLab’s roadmap and offer better tools to customers more quickly.
+
 ---
 
 ## Coporate Development Analysis

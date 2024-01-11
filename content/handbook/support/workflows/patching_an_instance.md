@@ -40,11 +40,12 @@ Other components may need additional steps.
 
 ## Patching a Docker install
 
-The GitLab Docker uses Omnibus inside the container to run GitLab. You can follow the same
-steps as **[Patching an Omnibus install](#patching-an-omnibus-install)**.
+The GitLab Docker image uses an Ubuntu-based image with Omnibus installed inside the container to run GitLab. You can follow the same
+steps as **[Patching an Omnibus install](#patching-an-omnibus-install)**. Make sure to install patch binary from Ubuntu repository:
 
 ```shell
 docker exec -it <gitlab-container> bash
+apt update && apt install patch -y
 curl -o /tmp/$mr_iid.patch https://gitlab.com/gitlab-org/gitlab/-/merge_requests/$mr_iid.patch
 cd /opt/gitlab/embedded/service/gitlab-rails
 patch -p1 -b -f < /tmp/$mr_iid.patch

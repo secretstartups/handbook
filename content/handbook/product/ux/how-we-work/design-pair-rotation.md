@@ -15,24 +15,26 @@ Pair designing gives Product Designers a consistent partner to ideate with at th
 
 ### Schedule
 
-This is the rotation schedule for FY24-Q3 and Q4 (2023-08-01 until 2024-01-31).
+This is the rotation schedule for FY25-Q1 and Q2 (2024-02-01 until 2024-07-31).
 
 <!-- TIP: To update the table below, create the schedule in a temporary spreadsheet, and then copy/paste the rows into an online markdown generator (https://www.google.com/search?q=copy-table-in-excel-and-paste-as-a-markdown-table) -->
 
 | Designer               | Design Pair                |
 |------------------------|----------------------------|
-| Katie Macoy          | Alex Fracazo               |
-| Mike Nichols          | Camellia Yang              |
-| Nick Brandt            | Jeremy Elder               |
-| Michael Le             | Libor Vanc                 |
-| Julia Miocene          | Gina Doyle               |
-| Veethika Mishra        | Annabel Gray               |
-| Emily Bauman           | Pedro Moreira da Silva     |
-| Austin Regnery         | Sunjung Park               |
-| Becka Lippert          | Matt Nearents              |
-| Amelia Bauerly         | Emily Sybrant           |
-| Timothy Noah           | Dan Mizz-Harris, Sascha Eggenberger |
-| Nick Leonard           | Michael Fangman            |
+| Michael Le             | Katie Macoy                |
+| Alex Fracazo           | Bonnie Tsang               |
+| Timothy Noah           | Annabel Gray               |
+| Julia Miocene          | Graham Bachelder           |
+| Veethika Mishra        | Chad Lavimoniere           |
+| Dan Mizzi-Harris       | Camellia Yang              |
+| Sunjung Park           | Sascha Eggenberger         |
+| Mike Nichols           | Taylor Vanderhelm          |
+| Amelia Bauerly         | Becka Lippert              |
+| Emily Bauman           | Austin Regnery             |
+| Ilonah Pelaez          | Gina Doyle                 |
+| Michael Fangman        | Jeremy Elder               |
+| Nick Leonard           | Matthew Nearents           |
+| Nick Brandt            | Ian Gloude                 |
 
 ### Temporary pairing
 

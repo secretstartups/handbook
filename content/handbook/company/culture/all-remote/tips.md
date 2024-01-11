@@ -30,7 +30,7 @@ Learn more about [enabling informal communication in an all-remote company]({{< 
 
 Remote work is also what led to the development of our publicly viewable [handbook]({{< ref "/handbook" >}}), which captures everything you'd need to know about the company. If you can't tell, we like [efficiency]({{< ref "values#efficiency" >}}) and don't like having to explain things twice.
 
-Each department and team's quarterly goals, or ["objectives and key results" (OKRs)]({{< ref "okrs" >}}), are also clearly documented in our handbook for visibility across the company. We check in on these goals monthly, so there's as much transparency as possible around what each team is accomplishing.
+Each department and team's quarterly goals, or ["objectives and key results" (OKRs)]({{< ref "/handbook/company/okrs" >}}), are also clearly documented in our handbook for visibility across the company. We check in on these goals monthly, so there's as much transparency as possible around what each team is accomplishing.
 
 Our approach to [documentation]({{< ref "/handbook/documentation" >}}) also helps with [onboarding new team members]({{< ref "./learning-and-development" >}}), because everything they need to know is in one place.
 

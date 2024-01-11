@@ -13,6 +13,35 @@ title: "Common Room workflows"
 
 The [Developer Relations](/handbook/marketing/developer-relations/) team uses Common Room to aggregate, review, and take action on insights from across our community platforms. It is also used to track trends and community sentiment. 
 
+
+## Accessing Common Room
+
+Access is granted through Okta and is billed per individual seat. Currently, there are no available open seats. Additional seats can be purchased via a Zip request.
+
+To request access to Common Room,
+1. Add your business case and description to this handbook page. 
+2. Once the MR is merged, open an [Access Request](/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/) for Common Room using the `Individual_Bulk_Access_Request` template.
+3. In Step 2, for _Justification for this access_, please describe and link to your business case for using Common Room. 
+
+### Temporary access
+
+Temporary access is available for evaluating the potential purchase of a seat for a duration of 3 months. It requires meeting with Common Room for a 30 minute onboarding. 
+
+1. Open an [Access Request](/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/) using the Individual_Bulk_Access_Request template. Specify that this is a temporary seat for 3 months.
+2. Open a [confidential issue](https://gitlab.com/gitlab-com/marketing/developer-relations/dev-evangelism/de-tmm-meta/-/issues/new?issuable_template=common-room-temporary-access) in Developer Evangelism Meta to document temporary seat expiration date.
+3. `@sugaroverflow` will schedule a mandatory onboarding meeting with Common Room and deprovision seat in 3 months.
+
+## GitLab Data
+
+Common Room doesn't natively integrate with GitLab.
+We have a [custom Ruby script](https://gitlab.com/gitlab-org/developer-relations/gitlab-common-room-api-source)
+which runs via a scheduled pipeline to injest data.
+
+## Resources
+
+* Common Room's [getting started documentation](https://docs.commonroom.io/get-started).
+* Common Room's [playbooks for nurturing community](https://www.commonroom.io/resources/).
+
 ## Business Cases for Developer Relations
 
 ### Supporting GitLab Contributors and Super Users
@@ -123,26 +152,3 @@ Sales may wish to gain key information or context on a specific customer. They w
 **Outcome**:
 * Enhanced understanding of customer behavior within the community.
 * Support the sales pipeline generation process by providing key contextual information from the community.
-
-## Accessing Common Room
-
-You can access Common Room through Okta or [bookmark the direct link](https://app.commonroom.io/community/3179-git-lab/home).
-
-Team members who are DRIs for specific business cases that require using Common Room directly will be granted a seat on the platform. Access is provided through Okta. Our contract with Common Room is paid per seat, so seats are limited. 
-
-To request access to Common Room,
-1. Add your business case and description to this handbook page. 
-2. Once the MR is merged, open an [Access Request](/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/) for Common Room using the `Individual_Bulk_Access_Request` template.
-Once reviewed and merged, open an Access Request. Link to the business case in the description.
-3. In Step 2, for _Justification for this access_, please describe and link to your business case for using Common Room. 
-
-## GitLab Data
-
-Common Room doesn't natively integrate with GitLab.
-We have a [custom Ruby script](https://gitlab.com/gitlab-org/developer-relations/gitlab-common-room-api-source)
-which runs via a scheduled pipeline to injest data.
-
-## Resources
-
-* Common Room's [getting started documentation](https://docs.commonroom.io/get-started).
-* Common Room's [playbooks for nurturing community](https://www.commonroom.io/resources/).

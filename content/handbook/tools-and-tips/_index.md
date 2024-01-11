@@ -104,7 +104,7 @@ Mermaid is a tool that allows us to create flowcharts, graphs, diagrams, Gantt c
 A few additional resources that can be helpful when working with Mermaid are:
 
 - The [live mermaid editor](https://mermaid-js.github.io/mermaid-live-editor) to check your work!
-- [GitHub's Mermaid overview](https://mermaid-js.github.io/mermaid/#/)
+- [GitHub's Mermaid overview](https://mermaid.js.org/#/)
 - A [CSS color bank](https://www.rapidtables.com/web/css/css-color.html) to add color to your charts.
 - You can see an example of how to add images to Mermaid charts [here](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbiAgQVtDaHJpc3RtYXNdIC0tPnxHZXQgbW9uZXl8IEIoR28gc2hvcHBpbmcpXG4gIEIgLS0-IEN7TGV0IG1lIHRoaW5rfVxuICBDIC0tPnxPbmV8IERbTGFwdG9wXVxuICBDIC0tPnxUd298IEVbaVBob25lXVxuICBDIC0tPnxUaHJlZXwgRltmYTpmYS1jYXIgQ2FyXVxuICBDIC0tPiBHXG4gIEcoXCI8aW1nIHNyYz0naHR0cHM6Ly9pY29uc2NvdXQuY29tL21zLWljb24tMzEweDMxMC5wbmcnOyB3aWR0aD0nMzAnIC8-XCIpIiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQiLCJzZWN1cml0eUxldmVsIjoibG9vc2UifX0).
 - Examples of Mermaid charts that have been created by GitLab team members:
@@ -129,7 +129,7 @@ This can be done by running `find source/handbook -type f | xargs wc -w` from th
 
 ### Trainee maintainer issue upkeep
 
-Part of the [maintainer training process](https://about.gitlab.com/handbook/engineering/workflow/code-review/#trainee-maintainer) is to keep track of Merge Request that have been reviewed and writing down an assessment on the review in the maintainer training issue.
+Part of the [maintainer training process](/handbook/engineering/workflow/code-review/#trainee-maintainer) is to keep track of Merge Request that have been reviewed and writing down an assessment on the review in the maintainer training issue.
 Manual upkeep of the maintainer training issue can be time consuming. There are tools that others have built to help with this task:
 
 - <https://gitlab.com/nolith/review-tanuki>
@@ -142,10 +142,10 @@ Manual upkeep of the maintainer training issue can be time consuming. There are 
 
 ## handbook Tips
 
-The [https://handbook.gitlab.com]({{< ref "/content/_index.md" >}}) site lives in the [content-sites/handbook](https://gitlab.com/gitlab-com/content-sites/handbook/)
+The [https://handbook.gitlab.com]({{< ref "/content/_index.html" >}}) site lives in the [content-sites/handbook](https://gitlab.com/gitlab-com/content-sites/handbook/)
 repo on GitLab.  The site is mostly a collection of Markdown documents and converted in to HTML by [Hugo](https://gohugo.io/).
 In addition to the handbooks content there is a [theme repo](https://gitlab.com/gitlab-com/content-sites/docsy-gitlab])
-which is shared between the [Handbook]({{< ref "/content/_index.md" >}}) and the [Internal Handbook](https://internal.gitlab.com).
+which is shared between the [Handbook]({{< ref "/content/_index.html" >}}) and the [Internal Handbook](https://internal.gitlab.com).
 This holds the [docs]({{< ref "/docs" >}}) and shared content for both sites as well shortcodes and other functional [Hugo](https://gohugo.io/)
 for producing the site.
 
@@ -646,12 +646,12 @@ Please reach out to the People Connect Team in the `#people-connect` Slack chann
 1. Create your calendar invite
 1. Add your Zoom link
 1. Add an agenda or relevant content
-1. Under Add Guests, add `Gitlab Team Meetings` in addition to anyone else you want invited (if you want the entire company invited please use everyone@).
+1. Under Add Guests, add `GitLab Team Meetings` in addition to anyone else you want invited (if you want the entire company invited please use everyone@).
 
    **Note:** This will appear like adding a room, which is expected
    {: .note}
 
-   ![Adding Gitlab Team Meetings](/handbook/tools-and-tips/images/adding-gitlab-team-meetings.png)
+   ![Adding GitLab Team Meetings](/handbook/tools-and-tips/images/adding-gitlab-team-meetings.png)
 
 #### Managing invite responses
 
@@ -857,7 +857,7 @@ Set up an [email signature](https://support.google.com/mail/answer/8395) which i
 <span style="font-family: serif;font-size: small;display: block;">John Doe</span>
 <span style="color: #999999;font-family: sans-serif;font-size: small;display: block;">Frontend Engineer | GitLab</span>
 
-<img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-rgb.png" alt="Gitlab Logo" width="98" height="37">
+<img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-rgb.png" alt="GitLab Logo" width="98" height="37">
 
 #### Email signature if employed by our German entity
 
@@ -866,7 +866,7 @@ If you are employed by our German entity GitLab GmbH, you will need to include s
 <span style="font-family: serif;font-size: small;display: block;">John Doe</span>
 <span style="color: #999999;font-family: sans-serif;font-size: small;display: block;">Frontend Engineer | GitLab</span>
 
-<img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-rgb.png" alt="Gitlab Logo" width="98" height="37">
+<img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-rgb.png" alt="GitLab Logo" width="98" height="37">
 
 <span style="font-family: serif;font-size: small;display: block;">GitLab GmbH  | Sitz: München  | Registergericht: Amtsgericht München, HRB 237630  | Geschäftsführer: James John Gladen und Craig Adam Mestel</span>
 

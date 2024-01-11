@@ -113,18 +113,19 @@ For more information about Partner Flash/News On Demand and process to become a 
 
 Global Channel Marketing hosts a quarterly webinar for our partner community.  Our goal is to provide updates and general marketing program news, as well as highlight one to three larger marketing program topics for a deeper dive.  Invitations are sent via our Partner Flash and News on Demand platform.  We target the global list of marketing contacts (those who have chosen a “marketing” role in their profile) as well as those in GitLab Channel roles, including our sales and program operations teams.  Invites are sent 30 days in advance of the event with a follow up at two weeks out and one day prior.  Those who register will receive a reminder email the day before the event. Members of our global channel marketing team attend and speak during the webinar, along with special guests from other GitLab organizations, depending on the topics we are covering.  Thank You and Sorry We Missed You emails will be sent post-event and provide access to webinar recordings, assets and resources.
 
-Our FY24 webinars dates are:
-- April
-  - 2023-04-26 at 11:00 am ET
-- June
-  - 2023-06-28 at 11:00 am ET
-  - 2023-06-29 at 8:30 am Mumbai/11:00 am Singapore/1:00 pm Melbourne
-- September
-  - 2023-09-27 at 11:00 am ET
-  - 2023-09-28 at 8:30 am Mumbai/11:00 am Singapore/1:00 pm Melbourne
+Our FY25 webinars dates are:
+- February
+  - 2024-02-28 AMER/EMEA
+  - 2024-02-29 APAC
+- May
+  - 2024-05-29 AMER/EMEA
+  - 2024-05-30 APAC
+- August
+  - 2024-08-28 AMER/EMEA
+  - 2024-08-29 at APAC
 - November
-  - 2023-11-29 at 11:00 am ET
-  - 2023-11-30 at 8:30 am Mumbai/11:00 am Singapore/1:00 pm Melbourne
+  - 2024-11-27 at AMER/EMEA
+  - 2024-11-28 at APAC
 
 Visit our [partner portal page](https://partners.gitlab.com/prm/English/c/ptnrmktgwebinars) for registration links for future webinars, access to past recordings, assets and resources.
 
@@ -236,7 +237,16 @@ We currently offer the Self-Managed form in English, Spanish, German, French, Ko
 
  - Once a user registers for a free trial on the landing page, they receive an auto-generated email from GitLab with their license key. Your next step: nurture and convert those leads! The links below provide you with the copy and supporting assets that you need to run your own email campaign to nurture your leads over the next 30-days on their buyer journey, from evaluation to purchase.
 
- You can download the full kit of free trial assets [here](https://partners.gitlab.com/prm/English/s/assets?id=439714&q=free%20trial%20kit).
+  - GitLab has created customizable assets that include social posts, display ads and emails to help promote your custom free trial links. You can download the full kit of free trial assets [here](https://partners.gitlab.com/prm/English/s/assets?id=439714&q=free%20trial%20kit). 
+
+   - We recommend promoting these social posts and display ads on the following platforms: 
+      - LinkedIn
+      - Reddit
+      - Facebook
+      - X (formely Twitter) 
+      - Developer focused communities such as Stackoverflow 
+   - GitLab has provided you with a list of recommended AdWord keywords that can effectively help you target your desired audience and increase visibility for your microsite and free trial links. These keywords cover a wide range of topics related to DevSecOps and have been carefully selected to target the relevant audience interested in topics related to DevSecOps, continuous integration, continuous delivery, and software development. This list can be found [here](https://partners.gitlab.com/prm/api/objects/v1/asset/tzhnhfb5s0zf/_download). 
+   - Additionally, it is asked that partners add "GitLab" as an account level phrase match negative keyword to their Google Ads. 
 
 ## GitLab Hosted Partner Microsite Program
 

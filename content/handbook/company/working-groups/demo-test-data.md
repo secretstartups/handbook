@@ -52,7 +52,7 @@ We will benefit from tooling efficiency together and broaden visiblity of demo d
 
 ## Result
 
-The [GitLab Data Seeder](https://about.gitlab.com/handbook/engineering/quality/gitlab-data-seeder/) was created as a result of this working group.
+The [GitLab Data Seeder](/handbook/engineering/quality/gitlab-data-seeder/) was created as a result of this working group.
 
 An internal [Slack channel](https://gitlab.slack.com/archives/C055Y333MM1) was created.
 

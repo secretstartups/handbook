@@ -8,6 +8,8 @@
 
 CHANGEME - add the details saying [why, not just what][say-why-not-just-what].
 
+%{all_commits}
+
 ## Author and Reviewer Checklist
 
 **Please verify the check list and ensure to tick them off before the MR is merged.**
@@ -19,9 +21,9 @@ CHANGEME - add the details saying [why, not just what][say-why-not-just-what].
     - If the DRI for the page/s being updated isn’t immediately clear, then assign it to one of the people listed in the `Maintained by` section on the page being edited
     - If your manager does not have merge rights, please ask someone to merge it **AFTER** it has been approved by your manager in [#mr-buddies][mr-buddies-slack]
     - The [when to get approval][when-to-get-approval] handbook section explains the workflow in more detail
-- [ ] For transparency, share this MR with the audience that will be impacted.  
-   - [ ] Team: For changes that affect your direct team, share in your group Slack channel 
-   - [ ] Department: If the update affects your department, share the MR in your department Slack channel 
+- [ ] For transparency, share this MR with the audience that will be impacted.
+   - [ ] Team: For changes that affect your direct team, share in your group Slack channel
+   - [ ] Department: If the update affects your department, share the MR in your department Slack channel
    - [ ] Company: If the update affects all (or the majority of) GitLab team members, post an update in [#whats-happening-at-gitlab][whats-happening-at-gitlab-slack] linking to this MR
       - For high-priority company-wide announcements work with the [internal communications][internal-communications] team to post the update in [#company-fyi][company-fyi-slack] and align on a plan to circulate in additional channels like the ["While You Were Iterating" Newsletter][engagement-channels]
 

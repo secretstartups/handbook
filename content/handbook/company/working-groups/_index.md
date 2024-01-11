@@ -203,6 +203,7 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [API Vision]({{< ref "api-vision" >}})
 1. [Automotive Development]({{< ref "automotive-development" >}})
 1. [AWS/GCP Partnerships](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/11)
+1. [Bounded Contexts]({{< ref "bounded-contexts" >}})
 1. [Category Leadership]({{< ref "category-leadership" >}})
 1. [CI/CD Build Speed time-to-result]({{< ref "ci-build-speed" >}})
 1. [ClickHouse Datastore]({{< ref "clickhouse-datastore" >}})
@@ -225,9 +226,9 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [Issue Prioritization Framework]({{< ref "issue-prioritization-framework" >}})
 1. [Leading Organizations]({{< ref "leading-organizations" >}})
 1. [Learning Experience]({{< ref "learning-experience" >}})
+1. [Lighthouse Metric Definitions]({{< ref "lighthouse-metric-definitions" >}})
 1. [Modern Applications Go-To-Market]({{< ref "modern-applications-gtm" >}})
 1. [Next Architecture Workflow]({{< ref "next-architecture-workflow" >}})
-1. [North Star Metric Definitions]({{< ref "north-star-metric-definitions" >}})
 1. [Product Accessibility]({{< ref "product-accessibility" >}})
 1. [Runtime Update Process]({{< ref "runtime-update-process" >}})
 1. [Software Supply Chain Security]({{< ref "software-supply-chain-security" >}})
@@ -311,6 +312,6 @@ If you are unable to attend the existing working group meeting due to time diffe
 
 ## What were Top Cross-Functional Initiatives?
 
-Top Cross-Functional Initiatives were [Working Groups]({{< ref "working-groups" >}}) that were key to GitLab's success in the fiscal year and beyond. While there were other important business initiatives and priorities that existed within functions or required engagement across the business, we elevated these initiatives to address cross-functional dependencies, align on goals, and ensure ongoing reporting and monitoring.
+Top Cross-Functional Initiatives were [Working Groups]({{< ref "/handbook/company/working-groups" >}}) that were key to GitLab's success in the fiscal year and beyond. While there were other important business initiatives and priorities that existed within functions or required engagement across the business, we elevated these initiatives to address cross-functional dependencies, align on goals, and ensure ongoing reporting and monitoring.
 
 We retired this concept in FY24-Q3, because we had layered these initiatives under [Yearlies]({{< ref "yearlies" >}}) as sub-objectives. This list was duplicative and confusing to team members who were trying to manage these and other priorities. Top Cross-Functional Initiatives were moved to this page. The Top Cross-Functional Initiative concept was deprecated.

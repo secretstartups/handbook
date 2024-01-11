@@ -18,7 +18,7 @@ You can collaborate or contribute to any work in progress with the Product Opera
 
 ## Product operations releases
 
-Product operations work happens in alignment with GitLab's [product development timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline), releasing [every month](https://about.gitlab.com/handbook/engineering/releases/). However, in order to avoid overlap with the product release peak work time and allow teams the bandwidth to understand and adopt updates into their workflow, product operations release notes will push between the 23rd and 30th of every month, and be adjusted as needed around holidays and weekends.
+Product operations work happens in alignment with GitLab's [product development timeline](/handbook/engineering/workflow/#product-development-timeline), releasing [every month](/handbook/engineering/releases/). However, in order to avoid overlap with the product release peak work time and allow teams the bandwidth to understand and adopt updates into their workflow, product operations release notes will push between the 23rd and 30th of every month, and be adjusted as needed around holidays and weekends.
 
 <!-- Removed as the new handbook doesn't support this
 **Information on the most recent product operations releases can be seen here:**
@@ -35,10 +35,3 @@ Product operations work happens in alignment with GitLab's [product development 
 
 - [Product operations issue board](https://gitlab.com/groups/gitlab-com/-/boards/3651029?label_name[]=Product%20Operations)
 - [Release post technical issue board](https://gitlab.com/gitlab-com/www-gitlab-com/-/boards/3130926?&label_name[]=Release%20Post%3A%3ATech%20Advisor)
-
-## Product operations surveys
-
-Product operations is responsible for managing Post Purchase Surveys (PPS) as well as Paid NPS Surveys (PNPS) on behalf of GitLab.
-
-- [Survey results](/handbook/product/product-operations/surveys/)
-- [Workflow and technical details](/handbook/product/product-operations/surveys/workflows/)

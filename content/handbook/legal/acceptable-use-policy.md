@@ -1,7 +1,6 @@
 ---
 
 title: "GitLab Acceptable Use Policy"
-description: "Learn more about the GitLab Acceptable Use Policy"
 ---
 
 This policy helps us identify unacceptable use of our services, and applies to all users of all GitLab services including those on the Free, Premium, and Ultimate GitLab tiers. We refer to “our services” throughout – this means all services (including related websites) owned or operated by GitLab.

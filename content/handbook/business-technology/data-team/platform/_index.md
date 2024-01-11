@@ -4,26 +4,9 @@ title: "Data Team Platform"
 description: "GitLab Data Team Platform"
 ---
 
-
-
-
-
-
-
-
-
-
-
-<div class="panel panel-gitlab-orange">
-**This is a Controlled Document**
-{: .panel-heading}
-<div class="panel-body">
-
+{{% alert title="**This is a Controlled Document**" color="warning" %}}
 Inline with GitLab's regulatory obligations, changes to [controlled documents](/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged.
-
-</div>
-</div>
----
+{{% /alert %}}
 
 # Purpose
 
@@ -55,10 +38,9 @@ This document is limited to describe the Data Platform conceptually. There are o
 - [Permifrost](/handbook/business-technology/data-team/platform/permifrost/)
 - [Python Guide](/handbook/business-technology/data-team/platform/python-guide/)
 - [Sisense (Periscope)](/handbook/business-technology/data-team/platform/sisensecdt/)
-- [Sisense Style Guide](/handbook/business-technology/data-team/platform/sisense-style-guide/)
 - [Snowplow](/handbook/business-technology/data-team/platform/snowplow/)
 - [SQL Style Guide](/handbook/business-technology/data-team/platform/sql-style-guide/)
-- [Meltano](/handbook/business-technology/data-team/platform/Meltano-Gitlab/)
+- [Meltano](https://internal.gitlab.com/handbook/enterprise-data/platform/Meltano-Gitlab/)
 - [R/RStudio](/handbook/business-technology/data-team/platform/rstudio/)
 - [Tableau](/handbook/business-technology/data-team/platform/tableau/)
 
@@ -72,13 +54,13 @@ Changes are implemented via merge requests, including changes to our pipelines, 
 
 | Stage           |              Tools             |
 | :-------------- | :---------------------------: |
-| Extraction      | Stitch, Fivetran, and Custom Code |
-| Loading         | Stitch, Fivetran, and Custom Code |
-| Orchestration   | Airflow |
+| Extraction      | Stitch, Fivetran, Tableau Prep, and Custom Code |
+| Loading         | Stitch, Fivetran, Tableau Prep, and Custom Code |
+| Orchestration   | Airflow, Tableau Prep |
 | Data Warehouse  | Snowflake Enterprise Edition |
 | Transformations | dbt and Python scripts |
-| Data Visualization | Sisense For Cloud Data Teams‎ |
-| Advanced Analytics | jupyter‎ |
+| Data Visualization | Sisense For Cloud Data Teams and Tableau |
+| Advanced Analytics | jupyter |
 
 ## <i class="fas fa-exchange-alt fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true" id="extract-and-load"></i>Extract and Load
 
@@ -87,8 +69,9 @@ We currently use [Stitch](https://www.stitchdata.com) and [Fivetran](https://fiv
 Stitch and Fivetran handle the start of the data pipeline themselves. This means that Airflow does not play a role in the orchestration of the Stitch- and Fivetran schedules.
 
 Other solutions we use to extract data are:
-1. [Meltano](/handbook/business-technology/data-team/platform/Meltano-Gitlab/)
+1. [Meltano](https://internal.gitlab.com/handbook/enterprise-data/platform/Meltano-Gitlab/)
 1. Custom pipelines built in [Python](/handbook/business-technology/data-team/platform/python-guide/) and orchestrated via [Airflow](/handbook/business-technology/data-team/platform/infrastructure/#airflow)
+1. Flows built in Tableau Prep and orchestracted by Tableau Cloud
 1. Snowflake [data share](https://docs.snowflake.com/en/user-guide/data-sharing-intro.html)
 
 For source ownership please see [the Tech Stack Applications data file.](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml)
@@ -117,14 +100,14 @@ The following table indexes all of the RAW data sources we are loading into the 
 | [BambooHR](https://www.bamboohr.com/) | Airflow | `bamboohr` | `sensitive` | People | 12h / 24h | No | Tier 2 |
 | [Clari](https://www.clari.com/) | Airflow | `clari` | `clari` | Sales | 24h / 24h | Yes | Tier 2 |
 | [Clearbit](https://clearbit.com/) | x | x | x | x / x |  | No | Tier 3 |
-| [CustomersDot](/handbook/business-technology/data-team/platform/pipelines/#gitlab-customer-dot-database) [ERD](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/staging/doc/db_erd.pdf) | pgp | `tap_postgres` | `customers` | Product | 24h / x | No | Tier 1 |
+| [CustomersDot](https://internal.gitlab.com/handbook/enterprise-data/platform/pipelines/#gitlab-customer-dot-database) [ERD](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/staging/doc/db_erd.pdf) | pgp | `tap_postgres` | `customers` | Product | 24h / x | No | Tier 1 |
 | [Demandbase](https://www.demandbase.com/) | Snowflake task | `demandbase` | `demandbase` | Marketing | 24h / x | No | Tier 2 |
 | [Facebook_ads](https://www.facebook.com/business/ads) | Fivetran | `facebook_ads` | `facebook_ads` | Marketing | 24h / 48h | No | Tier 3 |
 | [Gainsight Customer Success](https://gitlab.gainsightcloud.com/v1/ui/home) | Fivetran | `gainsight_customer_success` | `gainsight_customer_success` | Customer Success | 24h / 48h | No | Tier 3 |
-| [GitLab.com](/handbook/business-technology/data-team/platform/pipelines/SAAS-Gitlab-com/) | pgp | `tap_postgres` | `gitlab_dotcom` | Product, Engineering | 12h / 55h | No | Tier 1 |
-| [GitLab Ops DB](/handbook/business-technology/data-team/platform/pipelines/#gitlab-ops-database) | pgp | `tap_postgres` | `gitlab_ops` | Engineering | 6h / x | No | Tier 1 |
+| [GitLab.com](https://internal.gitlab.com/handbook/enterprise-data/platform/pipelines/saas-gitlab-com/) | pgp | `tap_postgres` | `gitlab_dotcom` | Product, Engineering | 12h / 55h | No | Tier 1 |
+| [GitLab Ops DB](https://internal.gitlab.com/handbook/enterprise-data/platform/pipelines/#gitlab-ops-database) | pgp | `tap_postgres` | `gitlab_ops` | Engineering | 6h / x | No | Tier 1 |
 | GitLab Profiler DB | x | x | x | x | x / x | No | Tier 3 |
-| Gitlab Container Registry Logs | Airflow | `Container Registry` | `Container Registry` | Engineering | x | No | Tier 2 |
+| GitLab Container Registry Logs | Airflow | `Container Registry` | `Container Registry` | Engineering | x | No | Tier 2 |
 | [Google Ads](https://ads.google.com/) | Fivetran | `google_ads` | `google_ads` | Marketing | 24h / 48h | No | Tier 2 |
 | [Google Analytics 360](https://marketingplatform.google.com/about/analytics-360/) | Fivetran | `google_analytics_360_fivetran` | `google_analytics_360` | Marketing | 6h / 32h | No | Tier 2 |
 | [Google Cloud Billing](https://cloud.google.com/support/billing) | Airflow | `gcp_billing` | `gcp_billing` | Engineering | 24h / x | No | Tier 1 |
@@ -134,6 +117,7 @@ The following table indexes all of the RAW data sources we are loading into the 
 | [Handbook YAML Files](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/gitlab_data_yaml) | Airflow | `gitlab_data_yaml` | `gitlab_data_yaml` | Multiple | 8h / 24h | No | Tier 2 |
 | [Handbook MR Data](https://gitlab.com/gitlab-data/analytics/-/blob/master/dags/extract/handbook_mrs_extract.py) | Airflow | `handbook` | `handbook` | Multiple | 24h / 24h | No | Tier 2 |
 | [Handbook Git Log Data](https://gitlab.com/gitlab-data/analytics/-/blob/master/dags/extract/values_page_extract.py) | Airflow | `handbook` | `handbook` | Multiple | 1w / 1m | No | Tier 2 |
+| Iterable | Fivetran | `iterable` | n/a | Multiple | 24h / 48h | No | Tier 3 |
 | [Level Up/Thought Industries](https://api.thoughtindustries.com/#thought-industries-api) | Airflow | `level_up` | `level_up` | People | 24h / 24h | No | Tier 3 |
 | [LinkedIn ads](https://business.linkedin.com/marketing-solutions/ads) | Fivetran | `linkedin_ads` | `n/a` | Marketing | 24h / 48h | No | Tier 3 |
 | [Marketo](https://www.marketo.com/software/marketing-automation/) | Fivetran | `marketo` | x | Marketing | 24h / 24h | No | Tier 2 |
@@ -145,9 +129,11 @@ The following table indexes all of the RAW data sources we are loading into the 
 | [Time Off by Deel](https://www.deel.com/engage/pto) | Snowpipe | `pto` | `gitlab_pto` | Engineering Productivity / People | 7 days / x | No | Tier 3 |
 | [Qualtrics](https://www.qualtrics.com/) | Airflow | `qualitrics` | `qualtrics` | Marketing | 12h / 48h | No | Tier 2 |
 | [SaaS Service Ping](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/saas_usage_ping) | Airflow | `saas_usage_ping` | `saas_usage_ping` | Product | 1 week / x | No | Tier 1 |
-| [Salesforce](https://www.salesforce.com/) | Stitch | `salesforce_stitch` | `sfdc` | Sales | 6h / 24h | Yes | Tier 1 |
+| [Salesforce](https://www.salesforce.com/) | Stitch | `salesforce_v2_stitch` | `sfdc` | Sales | 6h / 24h | Yes | Tier 1 |
+| [Salesforce Sandbox](https://gitlab--staging.sandbox.my.salesforce.com/)| Stitch | `salesforce_stitch_sandbox_v2` | `TBC` |Sales | 24h / 48h| Yes| Tier 3|
 | SheetLoad | SheetLoad | `sheetload` | `sheetload` | Multiple | 24h / 48h | Yes | Tier 1 |
 | [Snowplow](https://snowplowanalytics.com/) | Snowpipe | `snowplow` | `snowplow` | Product | 15m / 24h | No | Tier 1 |
+| [Tableau Cloud](https://www.tableau.com/products/cloud-bi) | Tableau Prep | `tableau_cloud` | `tableau_cloud` | Data Team | 24h / 24h | No | Tier 3 |
 | [Thanos](https://thanos-query.ops.gitlab.net/graph) | Snowflake Task | `prometheus` | `prometheus` | Engineering | 24 h / x | No | Tier 3 |
 | [Version DB](https://version.gitlab.com/users/sign_in) | Automatic Process | `version_db` | `version_db` | Product | 24 h / 48 h | No | Tier 1 |
 | [Workday](https://www.workday.com/) | Fivetran | `workday` | `workday` | People | 6h / 24h / | No | Tier 2 |
@@ -159,6 +145,7 @@ The following table indexes all of the RAW data sources we are loading into the 
 | [Zuora](https://www.zuora.com/) | Stitch | `zuora_stitch` | `zuora` | Finance | 6h / 24h | Yes | Tier 1 |
 | [Zuora API Sandbox](https://www.zuora.com) | Stitch | `zuora_api_sandbox_stitch` | `Legacy` | Finance | 24h / 24h | Yes | Tier 3 |
 | [Zuora Central Sandbox](https://www.zuora.com/) | Fivetran | `zuora_central_sandbox_fivetran` | `zuora_central_sandbox` | Finance Sandbox | - | Yes | Tier 3 |
+| [Zuora Data Query](https://knowledgecenter.zuora.com/Zuora_Central_Platform/Query/Data_Query/A_Overview_of_Data_Query#Using_Data_Query)| Airflow | `zuora_query_api`| `zuora_query_api`|Finance | 24h / 48h | Yes | Tier 1 |
 | [Zuora Revenue](https://knowledgecenter.zuora.com/Zuora_Revenue) | Airflow | `zuora_revenue` | `zuora_revenue` | Finance | 24h / 48h | Yes | Tier 1 |
 
 
@@ -193,7 +180,7 @@ Sisense's access is always explicitly granted.
 - [Netsuite](https://www.youtube.com/watch?v=u2329sQrWDY)
     - [Netsuite and Campaign Data](https://drive.google.com/open?id=1KUMa8zICI9_jQDqdyN7mGSWSLdw97h5-)
 - [Version (pings)](https://drive.google.com/file/d/1S8lNyMdC3oXfCdWhY69Lx-tUVdL9SPFe/view)
-    - Note that up until October 2019, the data team referred to the entire **version** data source as "pings". However, usage ping is only one subset of the version data source which is why we now use "version" or "version app" to refer to the version.gitlab.com *data source* and "usage data" or "usage pings" or "pings" to refer to the [specific usage data feature](https://docs.gitlab.com/ee/administration/settings/usage_statistics.html) of the version data source. In the context of Data extraction, when it comes to `Service ping` data ingestion, specific details should be found in the [Service ping](/handbook/business-technology/data-team/platform/pipelines/#service-ping) page or in the [Readme.md](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/README.md) page for Service ping
+    - Note that up until October 2019, the data team referred to the entire **version** data source as "pings". However, usage ping is only one subset of the version data source which is why we now use "version" or "version app" to refer to the version.gitlab.com *data source* and "usage data" or "usage pings" or "pings" to refer to the [specific usage data feature](https://docs.gitlab.com/ee/administration/settings/usage_statistics.html) of the version data source. In the context of Data extraction, when it comes to `Service ping` data ingestion, specific details should be found in the [Service ping](https://internal.gitlab.com/handbook/enterprise-data/platform/pipelines/#service-ping) page or in the [Readme.md](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/README.md) page for Service ping
 - [Salesforce](https://youtu.be/KwG3ylzWWWo)
 - [Zendesk](https://drive.google.com/open?id=1oExE1ZM5IkXcq1hJIPouxlXSiafhRRua)
 
@@ -369,10 +356,9 @@ graph LR
     A -->|Member of| C[Privileged Role: securityadmin]
 ```
 
-<div class="panel panel-success">
-**Managing Roles for Snowflake**
-{: .panel-heading}
-<div class="panel-body">
+
+#### **Managing Roles for Snowflake**
+
 
 Here are the proper steps for provisioning a new user and user role:
 
@@ -399,9 +385,6 @@ Here are the proper steps for deprovisioning existing user:
 - Remove the user from `okta-snowflake-users` [Google Group](https://groups.google.com/my-groups)
 - Remove the user records in Snowflake [roles.yml](https://gitxlab.com/gitlab-data/analytics/-/blob/master/permissions/snowflake/roles.yml) permifrost config file (this file is automatically loaded every day at 12:00a.m. UTC)
 
-
-</div>
-</div>
 
 For more information, watch this [recorded pairing session](https://youtu.be/-vpH0aSeO9c) (must be viewed as GitLab Unfiltered).
 
@@ -462,8 +445,9 @@ If you're running into query time limits please check your query for optimisatio
 We use three primary databases: `raw`, `prep`, and `prod`.
 The `raw` database is where data is first loaded into Snowflake; the other databases are for data that is ready for analysis (or getting there).
 
+{{% alert  color="warning" %}}
 All tables and views in `prep` and `prod` are controlled (created, updated) via dbt. [Every Quarter](handbook/business-technology/data-team/data-management/#quarterly-data-health-and-security-audit) the Data Platform Team runs a check for tables and views that are not related to a dbt model and will be removed.
-{: .alert .alert-warning}
+{{% /alert %}}
 
 The following list of schema are exceptions and not checked:
 
@@ -592,7 +576,6 @@ The only exception to this rule is the use of pacific time to create date_id in 
 
 ### Snapshots
 
-{: #snapshots-definition}
 
 We use the term snapshots in multiple places throughout the data team handbook and the term can be confusing depending on the context. Snapshots as defined by the dictionary is "a record of the contents of a storage location or data file at a given time". We strive to use this definition whenever we use the word.
 
@@ -706,7 +689,7 @@ See our [dbt guide](/handbook/business-technology/data-team/platform/dbt-guide) 
 
 ## <i class="fas fa-check-double fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>Trusted Data Framework
 
-{: #tdf}
+
 
 Data Customers expect Data Teams to provide data they can trust to make their important decisions. And Data Teams need to be confident in the quality of data they deliver. But this is a hard problem to solve: the [Enterprise Data Platform](/handbook/business-technology/data-team/direction/#a-complete-enterprise-data-platform) is complex and involves multiple stages of data processing and transformation, with tens to hundreds of developers and end-users actively changing and querying data 24 hours a day. The Trusted Data Framework (TDF) supports these quality and trust needs by defining a standard  framework for data testing and monitoring across data processing stages, accessible by technical teams *and business teams*. Implemented as a stand-alone module separate from existing data processing technology, the TDF fulfills the need for an independent data monitoring solution.
 
@@ -721,7 +704,6 @@ Data Customers expect Data Teams to provide data they can trust to make their im
 
 - Assertion or Test Case - An [individual test](https://en.wikipedia.org/wiki/Test_case#:~:text=In%20software%20engineering%2C%20a%20test,verify%20compliance%20with%20a%20specific) and the smallest unit of a test that can be performed. In TDF the test case is expressed either as a SQL statement or via a YAML configuration within SQL-compilation tool, dbt.
 - Data Schema - The tables, columns, views, and other structural elements that make up a data subject area, create using [SQL Data Definition Language](https://en.wikipedia.org/wiki/Data_definition_language#:~:text=In%20the%20context%20of%20SQL,tables%2C%20indexes%2C%20and%20users.) (DDL).
-- Golden Data - [Golden data](https://blogs.informatica.com/2015/05/08/golden-record/) is a data constant from a single field or a group of fields important to the business.
 - Monitoring - [Tracking the results](https://www.edq.com/glossary/data-monitoring/#:~:text=Data%20monitoring%20is%20the%20process,using%20dashboards%2C%20alerts%20and%20reports.) of tests cases to help ensure data is ready for use.
 
 ### Trusted Data Components
@@ -772,7 +754,6 @@ The Data Warehouse environment can change quickly and the TDF supports predictab
 1. [Schema tests](/handbook/business-technology/data-team/platform/dbt-guide/#schema-tests) to validate the integrity of a schema
 1. [Column Value tests](/handbook/business-technology/data-team/platform/dbt-guide/#column-value-tests) to determine if the data value in a column matches pre-defined thresholds or literals
 1. [Rowcount tests](/handbook/business-technology/data-team/platform/dbt-guide/#rowcount-tests) to determine if the number of rows in a table over a pre-defined period of time match pre-defined thresholds or literals
-1. [Golden Data tests](/handbook/business-technology/data-team/platform/dbt-guide/#golden-data-tests) to determine if pre-defined high-value data exists in a table
 
 The implementation details of these tests are documented in our [dbt guide](/handbook/business-technology/data-team/platform/dbt-guide/#schema-to-golden-data-coverage).
 
@@ -953,7 +934,7 @@ There are 3 types of objects available in Google Data Studio:
 - Explorer
   - This is a tool to quickly explore data sets and find detailed insights.
 
-The sharing and access process in Data Studio is comparable to sharing in Google Drive / Google Docs. Google Studio Objects can be shared with individuals in our GitLab organization account or with the Organization as a whole. There are no group or role level permissions available. Given the decentralized quality of managing dashboards and data sources in Data studio it is advised that business critical data and reporting be eventually migrated to Snowflake and Sisense. This is made easy with the use of [sheetload](/handbook/business-technology/data-team/platform/pipelines/#sheetload) or FiveTran, which has a BigQuery connector.
+The sharing and access process in Data Studio is comparable to sharing in Google Drive / Google Docs. Google Studio Objects can be shared with individuals in our GitLab organization account or with the Organization as a whole. There are no group or role level permissions available. Given the decentralized quality of managing dashboards and data sources in Data studio it is advised that business critical data and reporting be eventually migrated to Snowflake and Sisense. This is made easy with the use of [sheetload](https://internal.gitlab.com/handbook/enterprise-data/platform/pipelines/#sheetload) or FiveTran, which has a BigQuery connector.
 
 A GitLab Team Member that creates any artifacts in Google Studio owns the owner permissions of that particular object. With the ownership the GitLab Team Member holds responsibility to keep data [SAFE](/handbook/legal/safe-framework/) within GitLab and outside the organization. Google Data Studio currently doesn't provide an admin interface that can take over the ownership. Upon off-boarding any ownership of existing objects should be carried over to ensure business continuity by the respective object owner. Note that [Red Data](/handbook/security/data-classification-standard.html#red) should never be stored or transmitted within Google Data Studio.
 

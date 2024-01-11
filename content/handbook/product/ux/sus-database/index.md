@@ -1,13 +1,13 @@
 ---
 title: "System Usability Scale Database"
-description: "Gitlab stores all previously recorded SUS surveys in the Sisense App to allow easy access for all team members."
+description: "GitLab stores all previously recorded SUS surveys in the Sisense App to allow easy access for all team members."
 ---
 
-The [System Usability Scale](/handbook/product/ux/performance-indicators/system-usability-scale/) (SUS) is a standardized metric used to measure usability perception of computer interfaces. Gitlab uses SUS as one of the [UX Department's Key Performance Indicators](/handbook/product/ux/performance-indicators/#perception-of-system-usability), and collects data every quarter through a survey.
+The [System Usability Scale](/handbook/product/ux/performance-indicators/system-usability-scale/) (SUS) is a standardized metric used to measure usability perception of computer interfaces. GitLab uses SUS as one of the [UX Department's Key Performance Indicators](/handbook/product/ux/performance-indicators/#perception-of-system-usability), and collects data every quarter through a survey.
 
-Team members often need to look at past or present SUS scores or surface insights from the verbatims that users provide. In the past, this access to past SUS data was labor intensive. So, the UX Research Team collected and built a [SUS Database](https://app.periscopedata.com/app/gitlab/topic/SUS-Database/abdcbad729a343a09bf38824ef3585d3) in Sisense (internal access only), so that any team member can view all past SUS data points. Everyone at Gitlab is granted a View-only license to Sisense, but you can [request access](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) to an Editor role, if you believe that is necessary for your role.
+Team members often need to look at past or present SUS scores or surface insights from the verbatims that users provide. In the past, this access to past SUS data was labor intensive. So, the UX Research Team collected and built a [SUS Database](https://app.periscopedata.com/app/gitlab/topic/SUS-Database/abdcbad729a343a09bf38824ef3585d3) in Sisense (internal access only), so that any team member can view all past SUS data points. Everyone at GitLab is granted a View-only license to Sisense, but you can [request access](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) to an Editor role, if you believe that is necessary for your role.
 
-Gitlab started collecting regular SUS surveys in Q1 FY20, and we continue to collect data quarterly.
+GitLab started collecting regular SUS surveys in Q1 FY20, and we continue to collect data quarterly.
 
 ## Overview of SUS Database
 
@@ -25,7 +25,7 @@ There are 2 main tables in our SUS Database:
     - theme: A hand coded label that associates the participant's verbatim with a UX theme.
     - su: The participant's calculated sus score from the survey.
     - plan: manual data entered from previous handoff.
-    - primary_stage: A hand coded label that associates the participant's verbatim with a Gitlab Stag. A secondary stage could also be present in the secondary_stage column.
+    - primary_stage: A hand coded label that associates the participant's verbatim with a GitLab Stag. A secondary stage could also be present in the secondary_stage column.
 - **sus_indiv_scores** contains participant answers to the individual questions of the SUS score.
   - Important Columns (Q1-10): A column for each participant's answers to the individual SUS questions.
 
@@ -72,7 +72,7 @@ For example, if you want to filter the data for only Q3 FY22 data, check the box
 
 There are many ways you can explore the SUS data to find what you are looking for. The best method is to use one of the already existing charts that contains the data you are interested in. Click on the ☰ icon, and select `Edit Pivot`. Using the Pivot Settings, you can drag and drop any column to one of the boxes.
 
-For example, if you want to find the average SUS score for each Gitlab Plan type:
+For example, if you want to find the average SUS score for each GitLab Plan type:
 
 1. Click the ☰ icon and select `Edit Pivot`.
 1. Drag `PLAN` to the box labeled `Rows`. You will see a live view of your data in the background of the webpage.
@@ -100,5 +100,5 @@ Another approach is to click the ✎ icon in the table you want to download. Thi
 
 ### Sharing data
 
-While our SUS data does not contain SAFE material, always remember to follow the Gitlab [SAFE Framework](/handbook/legal/safe-framework/) when sharing or using data.
+While our SUS data does not contain SAFE material, always remember to follow the GitLab [SAFE Framework](/handbook/legal/safe-framework/) when sharing or using data.
 There are two ways to share data in Sisense. First, click the ☰ icon. Then, you can either `Share a Link` or `Post to Slack`. If you select share a link, Sisense will redirect you to a new page, and you can copy the link from your browser. If you select `Post to Slack`, then remember to set up the [Sisense Slack app](https://gitlab.slack.com/apps/A4C6CSAFM-sisense-for-cloud-data-teams?tab=more_info).

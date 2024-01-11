@@ -17,6 +17,7 @@ Here are some examples. As a leader you might want to:
 1. Help your team of managers become better at coaching their direct reports.
 1. Improve the state of sync and async communication on your team.
 1. Prepare your team to have effective [Crucial Conversations]({{< ref "/handbook/leadership/crucial-conversations" >}}).
+1. Address burnout challenges on your team
 
 Once approved for the program, a member of the Talent & Engagement team will collaborate with you to find the right initiative or solution for your team.
 

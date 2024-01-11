@@ -69,7 +69,7 @@ Please do **not** use the enabling compute minutes process for validating a user
 
 Qualifying requirements:
 
-1. Requester has [filed an internal request](https://gitlab-com.gitlab.io/support/internal-requests-form/) or ZenDesk ticket to track request.
+1. Requester has [filed an internal request](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/) or ZenDesk ticket to track request.
 1. Request is approved or created by a [Community Relations](/handbook/marketing/developer-relations/#-meet-the-team) or [Contributor Success](/handbook/marketing/developer-relations/contributor-success/#team-members) team member.
 1. GitLab.com admin account
 

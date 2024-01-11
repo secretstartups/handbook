@@ -15,6 +15,13 @@ At this time, Elevate is only available for current People Leaders, People Busin
 
 In FY24, 85% of people leaders will complete Elevate and earn the GitLab Elevate certification.
 
+## What team members are saying about Elevate
+
+1. `Much more confidence handling things when they go wrong. I react completely differently to situations now. Also I see myself as a manager whereas I didn’t before and felt like I was making it up as I went.`
+1. `I'm much more comfortable to give feedback using the frameworks we learned during the program. Also feel much more confident about my DNA as a manager by listening to others managers.`
+1. `I now have an actionable set of tools available which helps me navigate any kind of conversation.`
+1. `The different frameworks that were introduced are immensely helpful. I have been relying on them in numerous situations and find it to be really impactful.`
+
 ## What is Elevate
 
 Elevate is a highly interactive, all-remote program where managers will learn with, and from, each other. The goal is to provide a common, well understood leadership framework which demonstrates GitLab [values]({{< ref "values" >}}), [leadership competencies](/handbook/competencies/#manager-and-leadership-competencies), and [mission]({{< ref "mission" >}}).
@@ -39,7 +46,7 @@ Elevate is organized into 5 learning modules. Read more about the skills covered
 Elevate runs for a total of 6 months and is organized into 5 learning modules. In each module, participants spend a total of 3-4 hours in the following learning activities:
 
 | Steps | Title | Description | Time Spent |
-| ----- | ----- | ---------- | ----- |
+| ------- | ----- | ---------- | ----- |
 | Step 1 | Live Learning Session | 1x monthly synchronous learning session on the relevant module topic | 50 minutes |
 | Step 2 | Asynchronous Learning | Videos, reading, journaling, self-reflections, and quizzes to reinforce concepts completed in Level Up | 45 minutes |
 | Step 3 | Group Coaching | Cross-functional group coaching sessions with 10-12 other GitLab people leaders to practice module concepts | 80 minutes |
@@ -49,77 +56,15 @@ Watch this video for a walk through of each step:
 
 {{< youtube "Eyh-Az13o0U" >}}
 
-## Additional Commitments
+### Pre-Certification Coaching
 
-{{< vimeo "837210402?h=339ddf730f" >}}
+After you complete Module 5, team members will attend a pre-certification coaching session to prepare for certification.
 
-### Project
+The intention of this session is to allow space to practice and ask questions about what certification will look and feel like.
 
-**Apply what you've learned in Elevate to real life challenges - then contribute your findings to the wider GitLab community for real impact!**
+To prepare for your pre-certification coaching session, review instructions outlined [here](https://docs.google.com/document/d/1fLywGTJHZppgZBoV6QbucXTc8UNxjUB_VbDiU9MPn3A/edit).
 
-The Elevate Project is your opportunity to contribute new ideas for managers at GitLab and in the wider GitLab community. You'll be assigned to work with a group of other Elevate participants. In your group, you'll discuss a prompt, record a video outlining your solution, and submit a merge request to the handbook to document your findings. *Completion of this project is required to earn the Elevate certification.*
-
-- For Elevate cohorts 1 through 10, your Project is due before your Certification session.
-- For all other Elevate cohorts your Project is at the conclusion of Module 4.
-
-#### Prompts
-
-Project groups will be assigned by the Learning and Development team. You'll work with other managers in your coaching cohort - the same managers you see each module during Step 3: Group Coaching.
-
-Each group will select **one prompt** to focus on. The prompts are as follows:
-
-| Prompt | Description|
-| ----- | ---------- |
-| 1 | Identify a current business initiative or challenge at GitLab- within your group or outside of it - that you feel you could move the needle on. How would you use what you learned in Elevate to do so? |
-| 2 | Identify a current challenge that our external stakeholders are facing and that you feel you could move the needle on. How would you use what you learned in Elevate to do so? |
-| 3 | Compile a multi-disciplinary set of globally-based resources (at least 5 articles, videos, ted talks, etc) to illustrate one of the modules and the skills / concepts included |
-
-Need help getting started? Consider these questions:
-
-1. How can the skills you've learned in Elevate help you collaborate better, achieve greater results, be more efficient, demonstrate diversity, inclusion, and beloning, iterate more, and be more transparent in your work?
-1. Consider how you’d apply strategies you’ve learned to improve cross-functional collaboration in order to partner on internal business initiatives or challenges
-1. Consider how you could provide more consistent feedback to your teams so they can drive business results quicker / more effectively
-1. Consider the ways you’d break down barriers in working better with your peers
-
-#### Results
-
-Each group will deliver the following:
-
-1. **One 6-8 minute Video Recording:** Groups will record a Zoom discussion where each participant contributes that includes:
-    - Description of the prompt/project they chose
-    - Ideal outcome
-    - Description of how they solved it - tools, resources, models, etc.
-    - Conclusion and Implications - how would you pitch this solution to e-group in under 3 minutes?
-1. **One Merge Request or Issue:** Open at least 1 merge request to the GitLab handbook or issue that documents new ideas, strategies, or details your group has applied. It's best to open this in the topic area of your project. For example, if your project makes suggestions about improved feedback, document those in a MR to the feedback handbook page.
-
-#### Tips for Success
-
-Below, you'll find suggestions on how to make the most of your project. In addition, there are 2 **optional** resources you can choose to use to increase collaboration with your group.
-
-<a href="https://docs.google.com/presentation/d/1ichxrIiZxOjr8t8ep45W5Cmn_QWj9bkZq94PwLO2_-E/edit#slide=id.g222f4addab1_0_344" class="btn btn-primary" style="margin:5px;"> Slide Deck Template </a>
-<a href="https://docs.google.com/document/d/1CZAqM1FasAudovVfQWhd4scrnPNgdfiO0OPaHuBfkz0/edit" class="btn btn-primary" style="margin:5px;"> Recording Agenda Template </a>
-
-1. Find a way to collaborate with your group. You might use your cohort Slack channel or stand up a temporary channel.
-1. Select a prompt that resonates with the members of your group. Brainstorm common situations among your small group that can drive your project discussion.
-1. Work in a shared Google Doc or Slides to contribute ideas and prepare for your video async. Consider using the optional templates linked above.
-1. Find time to meet and record your video. Videos will be shared both internally and externally.
-1. There is no pressure to use the optional slide deck linked above - if you prefer your video to be conversational, please go with that!
-1. Your small group doesn't have to meet live to record together - consider splitting up each section of your response, and submitting multiple videos in a collection.
-1. When recording the video, think about your audience: *How can you best serve a leader who's looking to solve a similar problem?*
-1. It's OK if the scenario you're working through contains non-public information. Please highlight this verbally at the start of the video so that the material is not shared externally.
-1. The location of merge requests is up to your group - the [Leadership handbook]({{< ref "leadership" >}}) is a good place to start.
-
-#### Submit your Project
-
-When your project is complete, follow these steps to submit.
-
-**Remember that projects are accepted on a rolling basis and are due before the end of Elevate.**
-
-1. Upload your video(s) to Google Drive in [this folder](https://drive.google.com/drive/folders/1zUwOzEFGAiiTaYTgVes1k85kmKBNuRR_)
-1. Link your video and merge requests to [this Google sheet](https://docs.google.com/spreadsheets/d/1z9YTQgtBsnM3FASmuiTvQtwZW7Rtihn4Az9AMLsXO2A/edit#gid=904075814)
-1. Tag `@slee@gitlab.com` and `jallen@gitlab.com` in a comment on the Google Sheet when your group has submitted their project.
-
-Videos will be reviewed by the L&D team and added to the handbook to promote the program and the solutions you’ve developed. Some ideas may be selected to be shared with GitLab leadership (by the groups who made them).
+Starting with Round 3, pre-certification coaching sessions are required. For Round 2, they are optional.
 
 ### Certification
 
@@ -190,7 +135,6 @@ To earn the final Elevate certification, participants must:
 
 1. Attend or makeup all live sessions, as outlined below
 1. Complete all self-paced work in Level Up
-1. Submit an Elevate Project
 1. Pass the Elevate Certification
 
 ### Is my participation in Elevate required?
@@ -203,7 +147,7 @@ When the program begins, you'll be added to a Slack group that includes all memb
 
 ### I missed, or cannot attend, a live learning or group coaching. What do I do?
 
-It's a requirement to make up missed sessions within each month to ensure that you're learning each new skill and moving through the program in the appropriate order. Please make every effort to attend live sessions as scheduled. We have [2 makeup options outlined below](#making-up-missed-sessions). If a conflict arises for your assigned group coaching session, you can attend with another cohort. If none of the live session times work for you, you can complete the Buddy Makeup. **Please reach out proactively to a member of the Learning and Development Team if you cannot attend a session.**
+It's a requirement to make up missed sessions within each month to ensure that you're learning each new skill and moving through the program in the appropriate order. Please make every effort to attend live sessions as scheduled. We have [2 makeup options outlined below](#making-up-missed-sessions). If a conflict arises for your assigned group coaching session, you can attend with another cohort. If none of the live session times work for you, you can complete the Async Makeup. **Please reach out proactively to a member of the Learning and Development Team if you cannot attend a session.**
 
 We're committed to working with you to find a solution that let's you successfully complete Elevate. If you must miss one live session for personal reasons, you need approval from your manager. Additional missed sessions will result in an incomplete Elevate status.
 
@@ -239,13 +183,12 @@ Refer to the table below to align on language used to talk about Elevate.
 | ----- | ---------- |
 | Round | Collection of cohorts starting Elevate at the same time - used for internal reference only |
 | Cohort | Groups of 10-12 participants organized by timezone who meet together for Group Coaching - used with participants |
-| Projects | Group based projects which showcase learning application at GitLab, begin with Round 1 |
 | Manager+ Path | Elevate content for Managers and Senior Managers |
 | Director+ Path | Elevate content for Directors, Senior Directors, and VPs
 | Pilot | First group of ~45 managers involved in Elevate |
 | Round 1 | Manager+ Path running from April-August 2023 - 100 participants |
-| Round 2 | Manager+ Path running from June-October 2023 - 60 participants |
-| Round 3 | Director+ Path running from June-October 2023 - 30 participants |
+| Round 2 | Manager+ Path running from June-January 2024 - 60 participants |
+| Round 3 | Manager+ Path running from October-March 2024 - 30 participants |
 
 ### Resources
 

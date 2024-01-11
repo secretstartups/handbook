@@ -108,11 +108,11 @@ The goal of the calendar is to include information at least two quarters ahead o
 Please reach out to your aligned People Business Partner (PBP) to engage in the following areas:
 
 - Career development/[Promotions]({{< ref "promotions-transfers" >}})
-- [Succession planning]({{< ref "talent-assessment" >}})
+- [Succession planning]({{< ref "/handbook/people-group/talent-assessment" >}})
 - New organizational structures or re-alignment of team members
-- [Talent Assessment programs]({{< ref "talent-assessment" >}})
+- [Talent Assessment programs]({{< ref "/handbook/people-group/talent-assessment" >}})
 - Team member retention
-- [Team member Engagement tools]({{< ref "talent-assessment#impact-of-being-identified-as-key-talent" >}})
+- [Team member Engagement tools]({{< ref "/handbook/people-group/talent-assessment#impact-of-being-identified-as-key-talent" >}})
 - [Coaching]({{< ref "coaching" >}}) guidance
 - An unbiased third party to discuss issues or problems and possible ideas for next steps
 - [Organizational Design]({{< ref "/handbook/people-group/organizational-design" >}})
@@ -226,7 +226,7 @@ GitLab does not actively search for LinkedIn profiles that have inaccurate infor
 - If the team member cannot confirm the profile, team members should reach out to the People Connect Team in the #people-connect Slack channel with the LinkedIn profile in question.
 - The People Connect Team member will confirm in Workday that they are not/have not been a team member.
 - The People Connect Team member will confirm with talent acquisition to confirm if they have ever been interviewed, made an offer or were declined.
-- The People Connect Team member will reach out to the [Developer Relations team](/handbook/marketing/community-relations/) to confirm if they are an active wider community member via the [#developer-relations](https://gitlab.slack.com/archives/C0R04UMT9) Slack channel, using the `@community-team` tag.
+- The People Connect Team member will reach out to the [Developer Relations team](/handbook/marketing/community-relations/) to confirm if they are an active wider community member via the [#developer-relations](https://gitlab.slack.com/archives/C0R04UMT9) Slack channel, using the `@devrel-team` tag.
 - If they are a confirmed member of the wider community but not a team member, the Developer Relations team will reach out the profile and ask them to change their profile to match their GitLab involvement.
 - If they are not a current member of the wider community and talent acquisition has confirmed they do not have a profile in Greenhouse, talent acquisition will create a Do Not Hire profile.
 - The People Connect Team member will report the account to LinkedIn via the [Reporting Inaccurate Information on Another Member's Profile](https://www.linkedin.com/help/linkedin/answer/30200?src=or-search&veh=www.google.com%7Cor-search)
@@ -246,9 +246,9 @@ Administrative access to CultureAmp will be limited based on role and responsibi
 - Survey Creator administrator access can create, manage and design surveys, select participants and share results.
 - Survey data analyst administrator can export raw data from all surveys enabled for raw data extract.
 
-To request access please open an access request with the type of account [access requested](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#how-do-i-choose-which-template-to-use) and the business need. You can assign the access request to Anesia Chan `@anechan` and Laura Janssen `@Laura-Janssen (as backup) for review and approval. The default admin access will be the Survey Creator administration rights unless other access is specified. Please note that Survey Data Analyst admin rights will not be granted to team members outside of the People group with out permission from the Chief People Officer.
+To request access please open an access request with the type of account [access requested](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#how-do-i-choose-which-template-to-use) and the business need. You can assign the access request to Anesia Chan `@anechan` and Laura Janssen `@Laura-Janssen` (as backup) for review and approval. The default admin access will be the Survey Creator administration rights unless other access is specified. Please note that Survey Data Analyst admin rights will not be granted to team members outside of the People group with out permission from the Chief People Officer.
 
-If you need assistance reviewing your CultureAmp Survey, please complete this [issue template](https://gitlab.com/gitlab-com/people-group/people-operations/General/-/blob/master/.gitlab/issue_templates/Survey-Review.md) to alert the People Connect Team.
+If you need support with a specific CultureAmp Survey, please complete this [issue template](https://gitlab.com/gitlab-com/people-group/people-analytics/general/-/blob/main/.gitlab/issue_templates/survey_request.md) to alert the People Analytics Team.
 
 ## Other pages related to the People Group
 
@@ -280,7 +280,7 @@ If you need assistance reviewing your CultureAmp Survey, please complete this [i
 
 - [Learning & Development]({{< ref "learning-and-development" >}})
 - [Guidance on Feedback]({{< ref "guidance-on-feedback" >}})
-- [Active Listening]({{< ref "/handbook/people-group/learning-and-development/manager-coaching-and-leadership-resources#demonstrating-active-listening" >}})
+
 
 ### Diversity, Inclusion and Belonging
 

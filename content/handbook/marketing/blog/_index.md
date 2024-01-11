@@ -24,6 +24,8 @@ Blogs fall into the following categories:
 
 [Everyone can contribute at GitLab](/handbook/company/mission/#mission). For the blog, this means we welcome your blog suggestions, ideas, and drafts. However, the [main blog](https://about.gitlab.com/blog/) is one of the many official voices of GitLab – meaning content that is published there must be carefully vetted to ensure we are accurately representing GitLab – both the company and the product. The Blog Managing Editor and the Director of Global Content Marketing are the [directly responsible individuals (DRIs) for the official GitLab blog](/handbook/people-group/directly-responsible-individuals/) and are tasked with this responsibility.
 
+Partner, alliance, and customer contributor guidelines can be found [here](https://docs.google.com/document/d/10Xb4qnZNedhPzNNRTByH7fgvNzlo5Bc5Rz1TiuHtPxE/edit?usp=sharing).
+
 ## How to suggest a blog idea - NEW PROCESS
 
 Please create an issue using the [blog submission template](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/-/issues/new?issuable_template=blog-post-submission).
@@ -196,7 +198,7 @@ We limit media embeds to the following providers:
 
 ### Adding code blocks
 
-Below are the two types of code blocks we commonly use on the blog. Find a number of other options in the [Markdown guide](https://about.gitlab.com/handbook/markdown-guide/#code-blocks).
+Below are the two types of code blocks we commonly use on the blog. Find a number of other options in the [Markdown guide](/handbook/markdown-guide/#code-blocks).
 
 #### Inline code
 
@@ -305,7 +307,7 @@ to exemplify your steps `domain.com`, be consistent and keep it `domain.com`, th
 
 #### Embedding videos
 
-Please see the [Markdown Guide](https://about.gitlab.com/handbook/markdown-guide/#display-videos-from-youtube) for instructions for embedding videos from YouTube and other sources.
+Please see the [Markdown Guide](/handbook/markdown-guide/#display-videos-from-youtube) for instructions for embedding videos from YouTube and other sources.
 
 If appropriate, please add a video credit, for example:
 
@@ -316,7 +318,7 @@ Video directed and produced by [Aricka Flowers](/handbook/company/team/#arickafl
 
 #### Embedding tweets or Instagram posts
 
-Please see the [Markdown guide for instructions for embedding posts from social media](https://about.gitlab.com/handbook/markdown-guide/#embed-tweets).
+Please see the [Markdown guide for instructions for embedding posts from social media](/handbook/markdown-guide/#embed-tweets).
 
 #### Creating GIFs
 

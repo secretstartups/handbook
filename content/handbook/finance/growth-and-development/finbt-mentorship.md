@@ -33,7 +33,7 @@ Both department-level and company-wide mentorship programs have their own unique
 
 1. Be encouraged to prioritize, and be held accountable for, your [career development]({{< ref "career-development" >}})
 1. Learn new skills related to your current role, your future career goals, or an area that you're passionate about
-1. Set and reach clearly outlined [goals]({{< ref "okrs" >}}).
+1. Set and reach clearly outlined [goals]({{< ref "/handbook/company/okrs" >}}).
 
 ### Benefits for the mentor
 
@@ -200,7 +200,7 @@ These resources are meant to provide both mentors and mentees with additional pe
 
 {{< youtube "u4kTlK5mUHc" >}}
 
-1. The [Engineering department](https://about.gitlab.com/handbook/engineering/) outlines [strategies for mentors and mentees](https://about.gitlab.com/handbook/engineering/career-development/mentoring/) with suggestions on how to host meetings and set and evaluate goals.
+1. The [Engineering department](/handbook/engineering/) outlines [strategies for mentors and mentees](/handbook/engineering/career-development/mentoring/) with suggestions on how to host meetings and set and evaluate goals.
 1. The [Support team]({{< ref "/handbook/support" >}}) has outlined expectations and examples on [Mentorship in Support Engineering]({{< ref "/handbook/support/engineering/mentorship" >}}).
 1. [Career growth resources at GitLab]({{< ref "career-development" >}})
 1. [Harvard Business Review: What efficient mentorship looks like](https://hbr.org/2020/08/what-efficient-mentorship-looks-like)

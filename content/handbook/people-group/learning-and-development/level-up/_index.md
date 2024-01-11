@@ -11,7 +11,7 @@ This handbook page is meant to support both learners and administrators in Level
 
 ## Contribute to Level Up
 
-At GitLab, [everyone can contribute]({{< ref "mission#mission" >}}). Read below about how to contribute to Level Up.
+At GitLab, [everyone can contribute]({{< ref "mission#mission" >}}). Read below about how to contribute to Level Up. If you'd like to explore the content creation options in Level Up, check out this [Demo Course](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/demo-course).
 
 ### Why contribute?
 
@@ -47,7 +47,7 @@ For questions not answered below, reach out in the #learninganddevelopment Slack
 
 **I have a question about how to use the Level Up platform.**
 
-- When you're logged into Level Up, click the drop down menu next to your profile photo and select `Support`. Here, you'll see both general and Gitlab-specific help resources related to using Level Up. See screenshots below.
+- When you're logged into Level Up, click the drop down menu next to your profile photo and select `Support`. Here, you'll see both general and GitLab-specific help resources related to using Level Up. See screenshots below.
 
 ![Adding custom content field in Thought Industries](support.jpg)
 

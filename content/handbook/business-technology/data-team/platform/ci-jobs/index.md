@@ -22,7 +22,7 @@ This page documents the CI jobs used by the data team in Merge Requests in both 
 ![ci-db-deletion-schema.png](ci-db-deletion-schema.png)
 - Merge master branch. Due to how dbt handles packages pipelines can fail due to package failures which should always be handled in the latest branch.
 - Confirm [model selection syntax](https://docs.getdbt.com/reference/node-selection/syntax). In general, it is easiest to simply use the file names of the models you are changing.
-- If still uncertain or facing any issues, request assistance in the #data Slack channel  
+- If still uncertain or facing any issues, request assistance in the #data Slack channel
 
 ### Variable Name not found in the CI Pipeline job
 
@@ -103,21 +103,6 @@ Run this if you want to test a new boneyard sheetload load. This requires the re
 
 Run this if you want to test a new sheetload load. This jobs runs against the clone of `RAW`. Requires the `clone_raw_specific_schema` (parameter `SCHEMA_NAME=SHEETLOAD`) job to have been run.
 
-#### `🛢 pgp_test`
-
-This pipeline needs to be executed when doing changes to any of the below manifest files present in path `analytics/extract/postgres_pipeline/manifests_decomposed`.
-
-- el_customers_scd_db_manifest.yaml
-- el_gitlab_com_ci_db_manifest.yaml
-- el_gitlab_com_ci_scd_db_manifest.yaml
-- el_gitlab_com_db_manifest.yaml
-- el_gitlab_com_scd_db_manifest.yaml
-
-This pipeline requires.
-1. Clone of `TAP_POSTGRES` schema(Mandatory): The `TAP_POSTGRES` schema can be cloned by using CI JOB `clone_raw_postgres_pipeline` which is part of `❄️ Snowflake`.
-2. Variable `MANIFEST_NAME`(Mandatory): The value is manifest yaml filename except postfix `_db_manifest.yaml`, For example if modified file is `el_gitlab_com_ci_db_manifest.yaml` the variable passed will be `MANIFEST_NAME`=`el_gitlab_com_ci`.
-3. Variable `TASK_INSTANCE`(Optional): This do not apply to any of the incremental table. It is only required to be passed for table listed in the SCD manifest file for who has `advanced_metadata` flag value set to `true`. For example for table `bulk_import_entities` in manifest file `el_gitlab_com_scd_db_manifest.yaml`. We need to pass this variable `TASK_INSTANCE`. For testing purpose this can be any unique identifiable value.
-
 #### `🛢 saas_pgp_test`
 
 This pipeline needs to be executed when doing changes to any of the below manifest files present in path `analytics/extract/postgres_pipeline/manifests`.
@@ -130,7 +115,7 @@ This pipeline needs to be executed when doing changes to any of the below manife
 
 This pipeline requires.
 1. Clone of `TAP_POSTGRES` schema(Mandatory): The `TAP_POSTGRES` schema can be cloned by using CI JOB `clone_raw_postgres_pipeline` which is part of `❄️ Snowflake`.
-2. Variable `MANIFEST_NAME`(Mandatory): The value is manifest yaml filename except postfix `_db_manifest.yaml`, For example if modified file is `el_gitlab_com_ci_db_manifest.yaml` the variable passed will be `MANIFEST_NAME`=`el_saas_gitlab_com`.
+2. Variable `MANIFEST_NAME`(Mandatory): The value is manifest yaml filename except postfix `_db_manifest.yaml`, For example if modified file is `el_gitlab_com_ci_db_manifest.yaml` the variable passed will be `MANIFEST_NAME`=`el_saas_gitlab_com_ci`.
 3. Variable `TASK_INSTANCE`(Optional): This do not apply to any of the incremental table. It is only required to be passed for table listed in the SCD manifest file for who has `advanced_metadata` flag value set to `true`. For example for table `bulk_import_entities` in manifest file `el_saas_gitlab_com_scd_db_manifest.yaml`. We need to pass this variable `TASK_INSTANCE`. For testing purpose this can be any unique identifiable value.
 
 
@@ -189,6 +174,54 @@ You can also add `--fail-fast` to the end of the model selection to quickly end 
 
 If removing a model it's useful to run any dbt pipeline just to check it still compiles. In example you could run +dim_date to check that it works.
 
+{{% alert title="Attention" color="warning" %}}
+The jobs in this state are in the process of being updated.  Be aware that some jobs may not be available or may not function as described in full.
+{{% /alert %}}
+
+#### `🏗️🏭build_changes`
+
+This job is designed to work with most dbt changes without user configuration.  It will clone, run, and test the new and changed models referencing the live database, `PROD`, `PREP`, and `RAW`, for any tables that have not been changed based on the most recent version of the [dbt documentation](https://dbt.gitlabdata.com/).  If the job fails it should represent an issue within the code itself and should be addressed by the developer making the changes.
+
+Should the changes made fall outside the default selection of this job, it can be configured in the following ways:
+
+- `WAREHOUSE`: Defaults to `DEV_XL` but will accept `DEV_XS` and `DEV_L` as well.
+- `SELECTION`: Defaults to a list of any changed SQL or CSV files but accepts any valid dbt selection statement.
+- `DOWNSTREAM`: Defaults to `None` but will accept the `plus` and `n-plus` operators. Has no impact when overriding the `SELECTION`. See the [documentation](https://docs.getdbt.com/reference/node-selection/graph-operators) for the graph operators for details on what each will do.
+- `FAIL_FAST`: Defaults to `True` but accepts `False` to continue running even if a test fails or a model can not build.  See the [documentation](https://docs.getdbt.com/reference/global-configs/failing-fast) for additional details.
+- `EXCLUDE`: Defaults to `None` but will accept any dbt node selection. See the [documentation](https://docs.getdbt.com/reference/node-selection/exclude) for additional details.
+- `FULL_REFRESH`: Defaults to `False` but accepts `True` to re-clone and rebuild any tables that would otherwise run in an incremental state. See the [documentation](https://docs.getdbt.com/reference/commands/run#refresh-incremental-models) for additional details.
+- `VARS`: Defaults to `None` but will accept a comma separated list of quoted key value pairs. e.g. `"key1":"value1","key2":"value2"`.
+
+<details markdown="1">
+<summary>Cross-Walk</summary>
+
+|Change Examples |	Previous CI Process |	New CI Process|
+| --- | --- | --- |
+| Add column to small table or view | <ol><li>🏗️🔆run_changed_️clone_model_dbt_select</li><ul><li>ANCESTOR_TYPE : +</li></ul><li>🏗🛺️run_changed_models_sql</li></ol> | <ol><li>🏗️🏭build_changes</li><ul><li>WAREHOUSE : DEV_XS</li></ul></ol> |
+| Update column description	| <ol><li>📚✏️generate_dbt_docs</li></ol> |	<ol><li>📚✏️generate_dbt_docs</li></ol> |
+| Update or create a small dbt snapshot	| <ol><li>🥩clone_raw_full</li><li>🐭🥩specify_raw_model</li><ul><li>DBT_MODELS : snapshot_name</li></ul></ol> |	<ol><li>🏗️🏭build_changes</li><ul><li>WAREHOUSE : DEV_XS</li></ul></ol> |
+| Add or update a seed |	<ol><li>🌱specify_csv_seed</li><ul><li>DBT_MODELS : seed_name</li></ul></ol> |	<ol><li>🏗️🏭build_changes</li><ul><li>WAREHOUSE : DEV_XS</li><li>FULL_REFRESH : True</li></ul></ol> |
+| Update a model and test downstream impact |	<ol><li>🏗️🔆run_changed_️clone_model_dbt_select</li><ul><li>DEPENDANT_TYPE : +</li><li>ANCESTOR_TYPE: +1</li></ul><li>🏗🛺️run_changed_models_sql</li><ul><li>DEPENDANT_TYPE : +</li></ul></ol> |	<ol><li>🏗️🏭build_changes</li><ul><li>WAREHOUSE : DEV_XS</li><li>DOWNSTREAM : +</li></ul></ol> |
+| Update a model and test specific models	| <ol><li>🔆⚡️clone_model_dbt_select</li><ul><li>DBT_MODELS : 1+specific_models+1</li></ul><li>🐭specify_model</li><ul><li>DBT_MODELS : specific_models+1</li></ul></ol> |	<ol><li>🏗️🏭build_changes</li><ul><li>WAREHOUSE : DEV_XS</li><li>SELECTION : specific_models+1</li></ul></ol> |
+| Make a chance to an incremental model without full refresh |	<ol><li>🏗️🔆run_changed_️clone_model_dbt_select</li><ul><li>ANCESTOR_TYPE : +</li></ul><li>🏗️🛺🐘run_changed_models_sql_xl</li><ul><li>REFRESH : ' ' </li></ul></ol>| <ol><li>🏗️🏭build_changes</li></ul></ol> |
+| Make a chance to an incremental model with full refresh |	<ol><li>🏗️🔆run_changed_️clone_model_dbt_select</li><ul><li>ANCESTOR_TYPE : +</li></ul><li>🏗️🛺🐘run_changed_models_sql_xl</li></ol> |	<ol><li>🏗️🏭build_changes</li><ul><li>FULL_REFRESH : True</li></ul></ol>|
+| Update a model and test downstream impact. skipping specific model	 | <ol><li>🏗️🔆run_changed_️clone_model_dbt_select</li><ul><li>DEPENDANT_TYPE : +</li><li>ANCESTOR_TYPE: +1</li></ul><li>🐘specify_xl_model</li><ul><li>DBT_MODELS : specific_model+ --exclude other_model</li></ul></ol> |	<ol><li>🏗️🏭build_changes</li><ul><li>EXCLUDE : other_model</li><li>DOWNSTREAM : +</li></ul></ol> |
+| Change a model that needs vars |	NA	| <ol><li>🏗️🏭build_changes</li><ul><li>VARS : "key1":"value1","key2":"value2"</li></ul></ol> |
+| Make a change and see all errors |	<ol><li>🏗️🔆run_changed_️clone_model_dbt_select</li><ul><li>ANCESTOR_TYPE : +</li></ul><li>🏗🛺️run_changed_models_sql</li></ol> |	<ol><li>🏗️🏭build_changes</li><ul><li>WAREHOUSE : DEV_XS</li><li>FAIL_FAST : False</li></ul></ol> |
+
+
+</details>
+
+
+#### `🎛️custom_invocation`
+
+This job is designed to be a way to resolve edge cases not fulfilled by other pre-configured jobs.  The job will process the provided dbt command using the selected warehouse.  For `defer` commands the reference `manifest.json` can referenced at using `--state reference_state`.
+
+This job can be configured in the following ways:
+
+- `WAREHOUSE`: No default, a value of `DEV_XL`, `DEV_L`, or `DEV_XS` must be provided.
+- `STATEMENT`: No default, a complete `dbt` statement must be provided. e.g. `run --select +dim_date`.
+
 #### `🐭specify_model`
 
 Specify which model to run with the variable `DBT_MODELS`
@@ -222,7 +255,7 @@ This job tests specific seed file. Specify seed file with the variable `DBT_MODE
 ```
 Compilation Error in macro tag_validation (macros/utils/tag_validation.sql)
 Tag Validation Error
-  
+
 > in macro tag_validation (macros/utils/tag_validation.sql)
 > called by macro tag_validation (macros/utils/tag_validation.sql)
 ```
@@ -259,7 +292,7 @@ Runs all the models in the MR diff whose SQL has been edited against an XL wareh
 
 Specify which selector to build with the variable `DBT_SELECTOR`, additional filtering of the selection can be accomplished by appending the `resource-type` options to the desired selector.
 
-For example,  `DBT_SELECTOR: customers_source_models --resource-type snapshot` will limit the models to only snapshot models.  
+For example,  `DBT_SELECTOR: customers_source_models --resource-type snapshot` will limit the models to only snapshot models.
 
 Available selectors can be found in the [selector.yml](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/selectors.yml) file.  The dbt build command will run all seeds, snapshots, models, and tests that are part of the selection.  Just as in other snapshot CI jobs the `clone_raw_full` will need to have run to get a clone of the `RAW` database so that the snapshots executed in the job do not overwrite the 'production' raw data.  This is useful for the following scenarios:
 
@@ -327,7 +360,7 @@ This uses word count (wc) to see how many lines are in the comparison file. If t
 
 #### `🛃dbt_sqlfluff`
 
-Runs the SQLFluff linter on all changed `sql` files within the `transform/snowflake-dbt/models` directory.  This is currently executed manually and is allowed to fail, but we encourage anyone developing dbt models to view the output and format according to the linters specifications as this format will become the standard.  
+Runs the SQLFluff linter on all changed `sql` files within the `transform/snowflake-dbt/models` directory.  This is currently executed manually and is allowed to fail, but we encourage anyone developing dbt models to view the output and format according to the linters specifications as this format will become the standard.
 
 #### `🚫safe_model_script`
 
@@ -335,7 +368,7 @@ In order to ensure that all [SAFE](/handbook/legal/safe-framework/) data is bein
 
 #### `🔍macro_name_check`:
 
-Automatically runs when making changes in the snowflake-dbt/macros folder and checks if the newly created macros match the correct name format.  
+Automatically runs when making changes in the snowflake-dbt/macros folder and checks if the newly created macros match the correct name format.
 
 #### `🗂schema_tests`
 
@@ -398,7 +431,7 @@ Manual job to do a dry run of [Permifrost](https://gitlab.com/gitlab-data/permif
 
 #### `🧊 permifrost_spec_test`
 
-Must be run at least once before any changes to `permissions/snowflake/roles.yml` are merged. Takes around 30 minutes to complete.  
+Must be run at least once before any changes to `permissions/snowflake/roles.yml` are merged. Takes around 30 minutes to complete.
 
 Runs the `spec-test` cli of [Permifrost](https://gitlab.com/gitlab-data/permifrost/) to verify changes have been correctly configured in the database.
 

@@ -74,4 +74,4 @@ We've gathered *some* information about the handbook here, but there's still mor
 - [Handbook usage](/handbook/handbook-usage/)
 - [Evolution of the handbook](/handbook/ceo/#evolution-of-the-handbook) on the [CEO page](/handbook/ceo/)
 - [Changelog](https://about.gitlab.com/handbook/CHANGELOG.html)
-- [Handbook editing examples](https://about.gitlab.com/handbook/practical-handbook-edits/)
+- [Handbook editing examples](/handbook/practical-handbook-edits/)

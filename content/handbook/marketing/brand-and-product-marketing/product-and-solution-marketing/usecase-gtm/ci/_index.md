@@ -262,7 +262,7 @@ Amongst the many competitors in the DevOps space, Jenkins and [CircleCI](/compet
 
 ### Case Studies
 
-#### [Goldman Sachs](/customers/goldman-sachs/)
+#### [Goldman Sachs](https://about.gitlab.com/customers/goldman-sachs/)
 
 - **Problem** Needed to increase developer efficiency and software quality
 - **Solution:** GitLab Premium (CI/CD, SCM)
@@ -270,14 +270,14 @@ Amongst the many competitors in the DevOps space, Jenkins and [CircleCI](/compet
 All the new strategic pieces of ’software development platforms are tied into GitLab. GitLab is used as a complete ecosystem for development, source code control and reviews, builds, testing, QA, and production deployments.
 - **Sales Segment:** Enterprise
 
-#### [Hotjar](/customers/hotjar/)
+#### [Hotjar](https://about.gitlab.com/customers/hotjar/)
 
 - **Problem** Hotjar was looking to replace Jenkins and reduce complexity within their tool stack
 - **Solution:** GitLab Silver (CI/CD)
 - **Result:** Time of CI builds **decreased by 30%**, improved to 2-15 deploys per day, and 50% deployment time saved.
 - **Sales Segment:** SMB
 
-#### [CERN](/customers/cern/)
+#### [CERN](https://about.gitlab.com/customers/cern/)
 
 - **Problem:** CERN was looking for an open source way to host their pipelines
 - **Solution:** GitLab Starter (CI)
@@ -331,23 +331,9 @@ The table includes free/community and paid tiers associated with GitLab's self-m
 - P = Premium
 - U = Ultimate
 
-### Product Health Indicators for CI
+### Product Adoption - Lighthouse Metrics and Leading Indicators for CI
 
-GitLab defines [North Star Metrics and Leading Indicators](/handbook/business-technology/data-team/data-catalog/product-usage-data/#north-star-metrics-and-leading-indicators) to give a cross-company SSOT for customer product adoption.
-
-| North Star Metric | Description | Associated Service Ping Metrics |
-| --- | --- | --- |
-| CI Pipelines Utilization | Number of distinct users initiating a CI pipeline in the last 28 days, divided by billable users | usage_activity_by_stage_monthly.verify.ci_pipelines, license_billable_users |
-
-| Leading Indicator | Associated Service Ping Metrics |
-| --- | --- |
-| Core repos are running CI jobs | counts.projects_with_repositories_enabled, missing metric for repos running CI jobs |
-| gitlab-ci.yml file is populated in project | redis_hll_counters.pipeline_authoring.o_pipeline_authoring_unique_users_committing_ciconfigfile_monthly |
-| Developers have permissions to trigger pipelines | missing metric |
-| Configuration file is periodically updated | missing metric |
-| Template utilization | counts.template_repositories, usage_activity_by_stage_monthly.verify.ci_pipeline_config_repository, usage_activity_by_stage.verify.ci_pipeline_config_repository, counts.ci_pipeline_config_repository |
-| Pipeline schedules | counts.ci_pipeline_schedules, usage_activity_by_stage_monthly.verify.ci_pipeline_schedules, usage_activity_by_stage.verify.ci_pipeline_schedules |
-| Main branch is stable and mostly passing | missing metric |
+The SSOT Handbook Page for Product Adoption - Lighthouse Metrics and Leading Indicators can be found in the [Enterprise Data Team Handbook](https://internal.gitlab.com/handbook/enterprise-data/company-kpis/product-adoption-lighthouse-metrics/)
 
 #### Additional Documentation Links
 

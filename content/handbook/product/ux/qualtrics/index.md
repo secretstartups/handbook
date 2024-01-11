@@ -259,7 +259,7 @@ If you have followed all of the above steps correctly and your spreadsheet does 
 
 ## How to create a tracked link
 
-You may want to promote a survey using several methods, and keep track of which one performs the best (for example: GitLab social, ux team social, in a blog post, or in a banner within gitlab.com). You can do this by using query strings. Read the [documentation](https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/standard-elements/passing-information-through-query-strings/), or watch a [short video](https://share.getcloudapp.com/kpumEOvR).
+You may want to promote a survey using several methods, and keep track of which one performs the best (for example: GitLab social, ux team social, in a blog post, or in a banner within gitlab.com). You can do this by [using query strings](https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/standard-elements/passing-information-through-query-strings/).
 
 ## How to delete a contact from our directory
 

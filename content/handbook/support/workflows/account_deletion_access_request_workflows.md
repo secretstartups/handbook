@@ -288,7 +288,7 @@ IMPORTANT NOTE: If at any point you are unsure of next steps or have any questio
 1. Add the `Awaiting::Challenge Answers` label, and wait for the requestor to reply.
    1. If no response is received after 10 calendar days, apply the `Account Verification Failed` and `deletion request::denied` labels to the issue, and close it using the following snippet:
 <details>
-  <summary markdown="span">Request Closed - No Response</summary>
+  <summary markdown="span">Request Closed - No Response (Account Deletion - Deceased User) </summary>
 
   <p>Greetings,</p>
 
@@ -416,3 +416,11 @@ Use this workflow for general question submissions.
 1. If the question is something Support can answer, respond to the user's inquiry.
 1. If needed, engage a Support Manager or the Privacy team for guidance and messaging. You can visit the [#privacy-team_help](https://gitlab.slack.com/archives/C04357HVCJD) Slack channel to ask for help.
 1. Close the issue once the users question(s) have been answered.
+
+### Escalating to the Privacy Team
+
+While processing a request, certain scenarios may arise that necessitate the escalation of the request to the Privacy team. The most common of these scenarios can be found in the [Privacy Escalation Meta Issue](https://gitlab.com/gitlab-com/gdpr-request/-/blob/master/.gitlab/issue_templates/Privacy%20Escalation%20Meta%20Issue.md) template. If a request needs to be escalated to the Privacy team, do the following:
+
+1. Create a new related issue using the [Privacy Escalation Meta Issue](https://gitlab.com/gitlab-com/gdpr-request/-/blob/master/.gitlab/issue_templates/Privacy%20Escalation%20Meta%20Issue.md) template.
+
+If you're ever unsure if a particular scenario requires escalating, reach out to the Privacy team via the `#privacy-team_help` Slack channel.

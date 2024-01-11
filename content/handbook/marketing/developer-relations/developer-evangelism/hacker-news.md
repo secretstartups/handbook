@@ -32,7 +32,7 @@ When considering what types of content to publish on social media, these are all
 
 ## Release days
 
-GitLab Release Posts frequently perform well on Hacker News. Given that we know the post will be released [every month](https://about.gitlab.com/handbook/engineering/releases/), we should always plans for these posts to warrant a [community response](/handbook/marketing/developer-relations/developer-evangelism/community-response/). For release days, we follow these steps to organize our response: 
+GitLab Release Posts frequently perform well on Hacker News. Given that we know the post will be released [every month](/handbook/engineering/releases/), we should always plans for these posts to warrant a [community response](/handbook/marketing/developer-relations/developer-evangelism/community-response/). For release days, we follow these steps to organize our response: 
 
 1. Manager, Developer Evangelism will send out a recurring calendar invite for release days with a link to this section of the handbook in the body of the invite as a reminder to Developer Evangelism team members.
 1. If a notification that a release post has reached the Hacker News Front Page is posted to the #dev-evangelism-and-technical-marketing Slack channel by the "Hacker News Front Page" bot, a Developer Evangelism team member should quickly repost the message to the #product and #release-post channels to alert our Product Managers. 
