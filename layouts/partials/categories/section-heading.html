@@ -31,142 +31,188 @@
 
 {{- with $section_data.appsec_engineer }}
 {{- range (slice | append .) }}
+{{- with . }}
 {{- $appsecEngineer =  append $appsecEngineer ($team_data.Get . | default slice) }}
+{{- end }}
 {{- end }}
 {{- end }}
 
 {{- with $section_data.infrasec_engineer }}
 {{- range (slice | append .) }}
+{{- with . }}
 {{- $infrasecEngineer =  append $infrasecEngineer ($team_data.Get . | default slice) }}
+{{- end }}
 {{- end }}
 {{- end }}
 
 {{- with $section_data.pm }}
 {{- range (slice | append .) }}
+{{- with . }}
 {{- $pmTeam =  append $pmTeam ($team_data.Get . | default slice) }}
+{{- end }}
 {{- end }}
 {{- end }}
 
 {{- with $section_data.em }}
 {{- range (slice | append .) }}
+{{- with . }}
 {{- $devTeam =  append $devTeam ($team_data.Get . | default slice) }}
+{{- end }}
 {{- end }}
 {{- end }}
 
 {{- with $section_data.backend_engineering_manager }}
 {{- range (slice | append .) }}
+{{- with . }}
 {{- $backendManager =  append $backendManager ($team_data.Get . | default slice) }}
+{{- end }}
 {{- end }}
 {{- end }}
 
 {{- with $section_data.frontend_engineering_manager }}
 {{- range (slice | append .) }}
+{{- with . }}
 {{- $frontendManager =  append $frontendManager ($team_data.Get . | default slice) }}
+{{- end }}
 {{- end }}
 {{- end }}
 
 {{- with $section_data.fullstack_engineering_manager }}
 {{- range (slice | append .) }}
+{{- with . }}
 {{- $fullstackManager =  append $fullstackManager ($team_data.Get . | default slice) }}
+{{- end }}
 {{- end }}
 {{- end }}
 
 {{- with $section_data.pdm }}
 {{- range (slice | append .) }}
+{{- with . }}
 {{- $pdTeam =  append $pdTeam ($team_data.Get . | default slice) }}
+{{- end }}
 {{- end }}
 {{- end }}
 
 {{- with $section_data.spd }}
 {{- range (slice | append .) }}
+{{- with . }}
 {{- $spdTeam =  append $spdTeam ($team_data.Get . | default slice) }}
+{{- end }}
 {{- end }}
 {{- end }}
 
 {{- with $section_data.uxr }}
 {{- range (slice | append .) }}
+{{- with . }}
 {{- $uxrTeam =  append $uxrTeam ($team_data.Get . | default slice) }}
+{{- end }}
 {{- end }}
 {{- end }}
 
 {{- with $section_data.ux }}
 {{- range (slice | append .) }}
-{{- $uxTeam =  append $uxTeam ($team_data.Get . | default slice) }}
+    {{- with . }}
+        {{- $uxTeam =  append $uxTeam ($team_data.Get . | default slice) }}
+    {{- end }}
 {{- end }}
 {{- end }}
 
 {{- with $section_data.support }}
 {{- range (slice | append .) }}
+{{- with . }}
 {{- $supportTeam =  append $supportTeam ($team_data.Get . | default slice) }}
+{{- end }}
 {{- end }}
 {{- end }}
 
 {{- with $section_data.quality }}
 {{- range (slice | append .) }}
+{{- with . }}
 {{- $qualityTeam =  append $qualityTeam ($team_data.Get . | default slice) }}
+{{- end }}
 {{- end }}
 {{- end }}
 
 {{- with $section_data.cm }}
 {{- range (slice | append .) }}
+{{- with . }}
 {{- $cmTeam =  append $cmTeam ($team_data.Get . | default slice) }}
+{{- end }}
 {{- end }}
 {{- end }}
 
 {{- with $section_data.tw }}
 {{ if ne . true }}
 {{- range (slice | append .) }}
+{{- with . }}
 {{- $twTeam =  append $twTeam ($team_data.Get . | default slice) }}
+{{- end }}
 {{- end }}
 {{- end }}
 {{- end }}
 
 {{- with $section_data.tech_writer }}
 {{- range (slice | append .) }}
+{{- with . }}
 {{- $twTeam =  append $twTeam ($team_data.Get . | default slice) }}
+{{- end }}
 {{- end }}
 {{- end }}
 
 {{- with $section_data.cs }}
 {{- range (slice | append .) }}
+{{- with . }}
 {{- $csTeam =  append $csTeam ($team_data.Get . | default slice) }}
+{{- end }}
 {{- end }}
 {{- end }}
 
 {{- with $section_data.ar }}
 {{- range (slice | append .) }}
+{{- with . }}
 {{- $arTeam =  append $arTeam ($team_data.Get . | default slice) }}
+{{- end }}
 {{- end }}
 {{- end }}
 
 {{- with $section_data.rem }}
 {{- range (slice | append .) }}
+{{- with . }}
 {{- $remTeam =  append $remTeam ($team_data.Get . | default slice) }}
+{{- end }}
 {{- end }}
 {{- end }}
 
 {{- with $section_data.pmm }}
 {{- range (slice | append .) }}
+{{- with . }}
 {{- $pmmTeam =  append $pmmTeam ($team_data.Get . | default slice) }}
+{{- end }}
 {{- end }}
 {{- end }}
 
 {{- with $section_data.product_sponsor }}
 {{- range (slice | append .) }}
+{{- with . }}
 {{- $sponserTeam =  append $sponserTeam ($team_data.Get . | default slice) }}
+{{- end }}
 {{- end }}
 {{- end }}
 
 
 {{- with $section_data.legal }}
 {{- range (slice | append .) }}
+{{- with . }}
 {{- $legalTeam =  append $legalTeam ($team_data.Get . | default slice) }}
+{{- end }}
 {{- end }}
 {{- end }}
 
 {{- with $section_data.sets }}
 {{- range (slice | append .) }}
+{{- with . }}
 {{- $setTeam =  append $setTeam ($team_data.Get . | default slice) }}
+{{- end }}
 {{- end }}
 {{- end }}
 
