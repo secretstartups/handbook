@@ -18,7 +18,8 @@ things back on track.
 
 ## Process for the on-call engineer
 
-Regardless of when it comes in, the [DRI]() for the emergency continues to be the on-call Support Engineer.
+Regardless of when it comes in, the [DRI](/handbook/people-group/directly-responsible-individuals/)
+for the emergency continues to be the on-call Support Engineer.
 Their only process change is that they should **notify the ASE of it**.
 This can be done by pinging the ASE's Slack handle in the Slack thread where the
 emergency is being discussed.
@@ -33,9 +34,10 @@ working with the customer as they would any other.
 
 If the on-call engineer notifies you of an emergency and you are either
 available or can be available, then work alongside the on-call engineer to
-resolve the ticket. This may involve _any_ of the following:
+resolve the ticket. This may involve *any* of the following:
 
-- Taking over as DRI for the emergency
+- Taking over as
+  [DRI](/handbook/people-group/directly-responsible-individuals/) for the emergency
 - Shadowing the emergency for any amount of time
 - Troubleshooting the emergency in Slack, asynchronously
 - Updating the on-call engineer with any required context
