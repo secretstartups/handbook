@@ -11,10 +11,9 @@ or [when you're not](#when-unavailable).
 In either case, it is important to note that you are not permanently on-call
 and, thus, are **not required** to take the emergency unless you're the on-call
 engineer. However, at times like these it is important to remember
-that you are still the Support Engineer with the most context of the
-customer's situation & objectives, so may be able to point the problem towards
-a successful outcome. A little of your aid can go a long way towards getting
-things back on track.
+that you are the Support Engineer with the most context of the
+customer's situation, problems, & objectives, and might be able to save several hours of
+troubleshooting during this emergency scenario.
 
 ## Process for the on-call engineer
 
@@ -42,9 +41,7 @@ resolve the ticket. This may involve *any* of the following:
 - Troubleshooting the emergency in Slack, asynchronously
 - Updating the on-call engineer with any required context
 
-You don't have to take over the emergency if you aren't able to, but can
-provide the on-call engineer with the information they need that can help lead
-the emergency towards a successful outcome.
+Any help you can provide would be appreciated.
 
 ### When unavailable
 
@@ -52,14 +49,14 @@ If you come back to work and see that an emergency took place while you
 weren't available, then catch up on what happened and reach out to the
 customer to discuss any next steps.
 
-If a big project is planned while you know you'll be unavailable, see
-[be proactive](#be-proactive).
+If a big task is planned while you know you'll be unavailable, see
+[be proactive](#be-proactive) to prepare the on-call engineer.
 
 ### Be proactive
 
-If a project is planned after-hours that may lead to an emergency (an upcoming upgrade,
-migration, etc.) then it would be beneficial to create a summary
-of what's planned, possible problems that may arise, and suggested solutions.
-Any other useful information that can be used to troubleshoot (architecture
-info, problems, etc.) would be beneficial. Leave this as an internal note in the
-ticket so the on-call engineer can see it.
+If a task is planned after-hours that may lead to an emergency (an upcoming upgrade,
+migration, etc.) then it would be useful to create a summary
+of what's planned, possible problems that could arise (if you know any), and suggested solutions.
+Any other useful information that can be used while troubleshooting (architecture
+info, problems, etc.) would be useful. Leave this as an internal note in the
+existing ticket leading up to the task so the on-call engineer can see it.
