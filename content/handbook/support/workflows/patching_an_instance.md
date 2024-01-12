@@ -43,6 +43,7 @@ md5sum /opt/gitlab/embedded/service/gitlab-rails/<path_to_file>
 ```
 
 The checksums will differ if the patch was applied correctly.
+
 **Note**:
 
 - This process only applies to the Rails application ([the GitLab repository](https://gitlab.com/gitlab-org/gitlab)).
