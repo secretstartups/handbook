@@ -6,7 +6,7 @@ description: Workflow to onboard a new customer with an ASE
 ## Overview
 
 When a customer signs the contract for an Assigned Support Engineer (ASE), the
-ASE becomes their primary point-of-contact at GitLab Support.
+ASE becomes their primary point of contact at GitLab Support.
 
 When this happens then all involved parties (the ASE, customer, other Support Engineers,
 etc.) should be aligned on the correct processes to follow. Below are the
@@ -19,7 +19,7 @@ everyone.
 
 Consider whether ongoing cadence calls would help the customer relationship
 and/or help achieve their goals. There is no defined process for this so
-manage these as-needed during the ASE contract.
+manage these as needed during the ASE contract.
 
 ## Internal Communication
 
@@ -47,7 +47,7 @@ A good organization note will answer the following questions:
 - How to handle tickets that come in outside of the ASE's working hours?
 - What should a Support Engineer do with this customer's tickets when the ASE is not available?
 - What to do with tickets that predate the introduction of this ASE?
-- What do in case the customer submits an emergency ticket?
+- What to do in case the customer submits an emergency ticket?
 
 This information will come from the contract and from the discussion with the
 customer in the [introductory meeting](#customer-communication).
