@@ -92,7 +92,7 @@ It's for topics like parenting where people may want to share knowledge, but the
 
 ### Linking Gravatar photo
 
-Link your GitLab email address to an easily recognizable photo of yourself on GitLab, Slack, and [Gravatar](https://en.gravatar.com/).
+Link your GitLab email address to an easily recognizable photo of yourself on GitLab, Slack, and [Gravatar](https://gravatar.com/).
 It is company policy to use a photo, and not an avatar, a stock photo, or something with sunglasses for any of your GitLab accounts, as we have a lot of GitLab team-members and our brains are comfortable with recognizing people; let's use them.
 
 ***Note**: If you upload your photo to Gravatar associated with your gitlab.com email, then you can simply not set an image in your GitLab and Slack profiles and they will automatically use your Gravatar photo.  If you already uploaded individual photos to your GitLab and Slack profiles, simply removing them will cause your avatar to use the Gravatar photo by default.*
