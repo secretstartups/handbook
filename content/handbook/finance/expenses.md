@@ -591,7 +591,7 @@ The company will cover all work-related travel expenses. This includes lodging a
 
 ### GitLab GMBH (Germany)
 
-#### Germany - post audit change to processing expenses
+**Germany - post audit change to processing expenses**
 As a result, effective of February 1st, 2024, we are implementing below changes:
 
 **Internet reimbursement**
