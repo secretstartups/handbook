@@ -80,7 +80,7 @@ To help get started as a developer with the Create:Code Creation team, we have c
 
 ## Meetings
 
-1. Sync: Code-Creation - a meeting held twice a week on Tuesday and Thursday at 3.30 p.m. UTC to align on group priorities. If there are no points on the meeting agenda 1 hour before the meeting starts, that meeting is considered as canceled.
+1. Sync: Code Creation - a meeting held twice a week on Tuesday and Thursday at 2:30 p.m. UTC to align on group priorities. If there are no points on the meeting agenda 1 hour before the meeting starts, that meeting is considered as canceled.
 
 ## Other Related Pages
 
