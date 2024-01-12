@@ -425,6 +425,7 @@ The company will cover all work-related travel expenses. This includes lodging a
 - If an itemized bill is not available, costs will only be reimbursed for the element relating to Internet Access, i.e. if you pay for tv, internet and phone, the invoice should be divided by 3/# of services and we will pay this value only.
 - No hardware costs for internet service is reclaimable. This includes routers, extenders/boosters, etc.
 - If co-working space is used together with a combination of working from home, we will allow the reimbursement of the internet cost for where you spend most of your time. i.e. if you expense a co-working space for a full month then internet for home cannot be expensed. If you expense co-work for a few days in a month then home internet can be expensed in full.
+- N/A for Germany Team Members. Please see section "GitLab GMBH (Germany)" for internet reimbursement in Germany.
 
 {{% panel header="**Coding**" header-bg="green" %}}
 **Expense Type / Navan Policy Category:** Internet access
@@ -494,6 +495,7 @@ The company will cover all work-related travel expenses. This includes lodging a
 - If itemized bill is not available, then the costs will only be reimbursed for the element relating to Phone Service, i.e. if you pay for tv, internet and phone, the invoice should be divided by 3/# of services and we will pay this value only.
 - No monthly hardware costs for phone service is reclaimable.
 - In addition Tablets, Watches, Phone Devices are not reimbursable.
+- N/A for Germany Team Members. Please see section "GitLab GMBH (Germany)" for internet reimbursement in Germany.
 
 {{% panel header="**Coding**" header-bg="green" %}}
 **Expense Type / Navan Policy Category:** Cell phone
@@ -586,6 +588,36 @@ The company will cover all work-related travel expenses. This includes lodging a
 - **GL Code NON-COGS:** 6080 - Other Travel- Visas, Permits, Covid Tests
 - **GL Code COGS:** 5080 - Other Travel- Visas, Permits, Covid Tests COGS
 {{% /panel %}}
+
+### GitLab GMBH (Germany)
+
+#### Germany - post audit change to processing expenses
+As a result, effective of February 1st, 2024, we are implementing below changes:
+
+**Internet reimbursement**
+- There will be 50 EUR internet allowance paid each month to each team member (via Payroll).
+- Internet expenses will not be allowed anymore.
+- Flat tax rate 25% (bared by employer) Cell Phone expenses.
+
+**Cell Phone expenses**
+- As per advice this expense will be stopped as of February 1st, 2024.
+- GitLab is not the owner of the cell phones and therefore can’t bear the cost of it without further penalties.
+- Business phone expenses can be claimed in annual tax returns (If you use your telephone or internet for professional reasons, you can deduct the costs from your taxes on a pro rata basis. If you can’t provide individual proof, tax offices will generally grant a flat rate of 20% of the costs, up to a maximum of 20 euros per month and 240 euros per year. If you use your phone almost primarily for professional reasons, you can claim more of the costs provided you prove how often your phone was used for professional reasons over a three month period. The result of these three months is then applied to the entire calendar year. Tip: When providing proof for your telephone costs, you should choose three months where your workload is at its highest. For example, if you work less in December due to the holidays, it’d be unwise to include this month when providing invoices. If you were on vacation for most of August, you shouldn’t provide invoices for the time period of June to August).
+
+### GitLab Ireland
+
+The introduction in Finance Act 2022 of Section 897C of the TCA 1997 will require employers to report to Revenue details of certain payments made to employees and/or directors. The requirement to provide this information will commence on 1 January 2024. Phase one will apply to any payments you make to an employee and, or director under any of the following categories:
+
+- Small Benefits - Vouchers or benefits provided to employees which come within the ‘small benefit exemption’ regime i.e. currently, up to two small benefits each year which do not exceed a combined value of €1,000
+- Remote Working Daily Allowance – Where the employer makes a tax-free payment of €3.20 per day to employees for each day worked from home subject to certain conditions being satisfied (N/A to GitLab)
+- Travel and Subsistence – Payments by employers to employees to reimburse business related travel and subsistence costs including:
+   - Vouched travel & subsistence.
+   - Unvouched travel & subsistence e.g. civil service mileage rates.
+   - Country money.
+   - Emergency travel.
+   - Eating on site allowance
+
+This will be initiated as of February 1st with expenses reimbursed in the above categories in retro mode. You will see this on your payslip as a reportable item only. Payment remains through Navan
 
 ### 4.3 Missing Receipt Affidavit
 
