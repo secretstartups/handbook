@@ -79,6 +79,7 @@ CI Catalog GA Epic: [https://gitlab.com/groups/gitlab-org/-/epics/12153](https:/
 <details markdown="1">
 
 <summary markdown="span">Past Milestones</summary>
+
 ### December to January (Milestone 16.8)
 
 #### Goals:
