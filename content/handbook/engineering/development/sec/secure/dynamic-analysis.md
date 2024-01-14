@@ -129,6 +129,10 @@ The reaction rotation engineer should not:
 - Exclusively work on community contributions, security issues, or bug fixes. These are the purview of the entire team.
 - Take the time as slack time. Slack time is important in everyone's role and is captured as a constant when measuring team throughput to predict release dates.
 
+### Security vulnerabilities triaging process
+
+See the [Secure sub-department vulnerability management process](/handbook/engineering/development/sec/secure/#vulnerability-management-process).
+
 ### Team Organization
 
 Our dynamic analysis testing group works primarily as 3 sub-teams, a DAST team(Go/Python/Rails), a coverage guided team(Go/Rails) and an API Security/Fuzzing team(C#/Python).
