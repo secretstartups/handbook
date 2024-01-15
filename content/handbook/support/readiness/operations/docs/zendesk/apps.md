@@ -66,7 +66,7 @@ App information:
 
 - Located in the navbar
 - This application was developed in-house and can be found
-  [GitLab Reminders App project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/gitlab-reminders-app).
+  [GitLab Reminders App project](https://gitlab.com/gitlab-support-readiness/zendesk-global/apps/reminders-app).
 
 ### GitLab Super App
 
@@ -99,7 +99,7 @@ App information:
   - Support APAC
   - Support EMEA
 - This application was developed in-house and can be found
-  [Zendesk Super App project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/gitlab-super-app).
+  [GitLab Super App project](https://gitlab.com/gitlab-support-readiness/zendesk-global/apps/gitlab-super-app).
 
 ### GitLab Views
 
@@ -116,7 +116,7 @@ App information:
   - Support Managers
   - Support Ops
 - This application was developed in-house and can be found
-  [GitLab Views App project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/gitlab_views).
+  [GitLab Views App project](https://gitlab.com/gitlab-support-readiness/zendesk-global/apps/views-app).
 
 ### Mechanizer
 
@@ -133,7 +133,7 @@ App information:
   - Support APAC
   - Support EMEA
 - This application was developed in-house and can be found at
-  [Mechanizer project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/mechanizer/)
+  [Mechanizer project](https://gitlab.com/gitlab-support-readiness/zendesk-global/apps/mechanizer)
 
 ### Notifications App
 
@@ -153,7 +153,7 @@ App information:
   - Support Managers
   - Support Ops
 - This applicate was developed in-house and can be found at
-  [Notification app project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/notification-app)
+  [Notification app project](https://gitlab.com/gitlab-support-readiness/zendesk-global/apps/notification-app)
 
 #### Current events that trigger the app
 
@@ -248,7 +248,7 @@ App information:
   - Support APAC
   - Support EMEA
 - This application was developed in-house and can be found
-  [Out of Office project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/out-of-office/)
+  [Out of Office project](https://gitlab.com/gitlab-support-readiness/zendesk-global/apps/out-of-office)
 
 ### Support Ops Super App
 
@@ -265,7 +265,7 @@ App information:
 - Restricted by Role:
   - Admin
 - This application was developed in-house and can be found
-  [Support Ops Super App project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/support-ops-super-app).
+  [Support Ops Super App project](https://gitlab.com/gitlab-support-readiness/zendesk-global/apps/support-ops-super-app).
 
 ### Unbabel
 
@@ -421,7 +421,7 @@ App information:
   - Support APAC
   - Support EMEA
 - This application was developed in-house and can be found
-  [Zendesk Super App project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/zendesk-super-app).
+  [Zendesk Super App project](https://gitlab.com/gitlab-support-readiness/zendesk-global/apps/zendesk-super-app).
 
 ## Zendesk US Federal App List
 
@@ -448,7 +448,7 @@ App information:
 
 - Located in the ticket sidebar
 - This application was developed in-house and can be found
-  [GitLab Architecture project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/zendesk-apps/gitlab-architecture).
+  [GitLab Architecture project](https://gitlab.com/gitlab-support-readiness/zendesk-us-government/apps/gitlab-architecture).
 
 ### Due Date Picker
 
@@ -460,7 +460,7 @@ App information:
 
 - Located in the ticket sidebar
 - This application was developed in-house and can be found
-  [Due Date Picker project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/due-date-picker).
+  [Due Date Picker project](https://gitlab.com/gitlab-support-readiness/zendesk-us-government/apps/due-date-picker).
 
 ### Show Related Tickets
 
