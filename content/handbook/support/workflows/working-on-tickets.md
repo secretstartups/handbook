@@ -207,7 +207,7 @@ needs, and that might save you and the customer time and effort as well.
 
 ## Cross Region handover of tickets and customer calls
 
-Cross Region Handover requests are async by nature, which can make it difficult to find a new assignee.  To address this follow the documented process below to help expedite the assignment of handover tickets.
+Cross Region Handover requests are async by nature, which can make it difficult to find a new assignee.  To address this, follow the documented process below to help expedite the assignment of handover tickets.
 
 ### Preparing a ticket for Handover
 
