@@ -213,7 +213,7 @@ Cross Region Handover requests are async by nature, which can make it difficult 
 
 1. Use the handover macro:
    - All handover requests, including low-priority situations, should use and complete the new macro named `Handover Ticket Summary`.
-   - Tickets not using the macro will not be considered in an acceptable state for handover acceptance.
+   - Tickets not using the macro will not be considered in an acceptable state for handover acceptance and will be re-assigned to the requestor. 
 1. Set the appropriate field in Zendesk:
    - Zendesk now includes a new form field named `Handover Status`.
    - All tickets requiring handover should have this field set to "Need Handover”.
