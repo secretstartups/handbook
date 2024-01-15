@@ -131,7 +131,7 @@ The Product Marketing Manager, Public Sector has the same responsibilities as ot
 
 The Product Marketing Manager, Public Sector has the same requirements as other [Product Marketing Managers](/job-families/marketing/product-marketing-manager/), as well as additional public sector requirements.
 
-### Regulated Industries Specialist (public sector)
+### Regulated Industries Specialist (Public Sector)
 
 As a Senior Product Marketing Manager, Public Sector, you will work bring your knowledge and experience of marketing to the federal government to help shape our go to market strategy, messaging and execution.  You will partner closely with our marketing, engineering, business development, sales team and partners to help them address the unique requirements of this market.
 
@@ -143,11 +143,6 @@ As a Senior Product Marketing Manager, Public Sector, you will work bring your k
 - Experience around GSA, Federal procurement and the various buying vehicles to enable growth in software sales via our distribution partners.
 - A security clearance is a plus.
 - Ability to use GitLab
-
-## Career Ladder
-
-The next step in a Senior Product Marketing Manager's career at GitLab is to be a [Manager, Product Marketing](/job-families/marketing/product-marketing-management/).
-
 
 
 ### Security
