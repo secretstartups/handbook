@@ -42,7 +42,7 @@ Through that process you may:
 
    d. If all High priority tickets are addressed, help with Normal or Low priority tickets that are at risk of breaching.
 
-   e. If the next Normal or Low priority ticket to breach is > 4 hours, focus on your NRTs, your group's NRTs, and finally free user tickets (tickets with no SLA).
+   e. If the next Normal or Low priority ticket to breach is > 4 hours, focus on your NRTs, your group's NRTs, including unassigned tickets which have the `Handover Status` field set to `Needs Handover`, and finally free user tickets (tickets with no SLA).
 
    Proceed to
    [ticket assignment](#assigning-tickets)
@@ -216,9 +216,9 @@ Cross Region Handover requests are async by nature, which can make it difficult 
    - Tickets not using the macro will not be considered in an acceptable state for handover acceptance and will be re-assigned to the requestor.
 1. Set the appropriate field in Zendesk:
    - Zendesk now includes a new form field named `Handover Status`.
-   - All tickets requiring handover should have this field set to "Need Handover”.
+   - All tickets requiring handover should have this field set to `Need Handover`.
 1. Unassign the ticket
-   - Tickets using the macro and having `Handover Status` set to `Need Handover`` will appear in the SGG queue under NRT.
+   - Tickets using the macro and having `Handover Status` set to `Need Handover` will appear in the SGG queue under NRT.
    - Handover tickets should been unassigned, to do this in Zendesk you need to change the `Assignee` field to a non human item (e.g. SGG Maple), you should also ensure that the `SGG` field is set to the corresponding SGG view (e.g. Maple) and the ticket is not in the following states `solved/closed/pending`.
 
 
