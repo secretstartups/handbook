@@ -127,7 +127,7 @@ Each extension defines an array of supported languages.
 
 ## Hiring
 
-Check out our [jobs page](/jobs/) for current openings.
+Check out our [jobs page](https://about.gitlab.com/jobs/) for current openings.
 
 ## Engineering metrics
 
