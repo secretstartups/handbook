@@ -219,7 +219,7 @@ Cross Region Handover requests are async by nature, which can make it difficult 
    - All tickets requiring handover should have this field set to "Need Handover”.
 1. Unassign the ticket
    - Tickets using the macro and having `Handover Status` set to `Need Handover`` will appear in the SGG queue under NRT.
-   - Handover tickets should be unassigned and not in the following states `solved/closed/pending`.
+   - Handover tickets should be assgined to the corresponding SGG view (e.g. SGG Maple) and not in the following states `solved/closed/pending`.
 
 
 ### Using the Cross Region Handover Form
@@ -227,12 +227,12 @@ Cross Region Handover requests are async by nature, which can make it difficult 
 The existing Handover Form is reserved for high-priority tickets only, this ensures a streamlined process for urgent cases, reducing noise and allowing Support Engineers to handle lower-priority tickets without managerial guidance.
 
 1. Ensure that you have followed the steps above in relation to preparing the ticket for handover
-2. Select a handover form from the Handovers folder that is bookmarked at the top of your SGG channel. Choose the form (such as Handover to EMEA) based on the target region to which you need to handover the ticket.
-3. Fill out all fields (using as much detail as possible for the paragraph fields), then click Submit.
-4. A message will post to your group’s Slack channel, which will ping the regional group handle as well as the associated SGG Support Managers. 
-5. You will also receive a private Slack message with the full details of your form submission. 
-6. You can track your request in the Ticket Handover Tracker sheet that you will also find in the Handovers folder.
-7. Managers and Seniors should periodically review the Ticket Handover Tracker sheet to help address any pending requests.
+1. Select a handover form from the Handovers folder that is bookmarked at the top of your SGG channel. Choose the form (such as Handover to EMEA) based on the target region to which you need to handover the ticket.
+1. Fill out all fields (using as much detail as possible for the paragraph fields), then click Submit.
+1. A message will post to your group’s Slack channel, which will ping the regional group handle as well as the associated SGG Support Managers.
+1. You will also receive a private Slack message with the full details of your form submission.
+1. You can track your request in the Ticket Handover Tracker sheet that you will also find in the Handovers folder.
+1. Managers and Seniors should periodically review the Ticket Handover Tracker sheet to help address any pending requests.
 
 
 ## Contacting a Customer Success Manager or Account Manager
