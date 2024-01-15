@@ -55,8 +55,8 @@ flowchart TD
 
     ```python
     def is_third_byte_zero(my_bytes):
-    """Return True if and only if the third byte passed in is 0."""
-    return my_bytes[2] == 0  # start counting from 0, so "2" refers to the 3rd byte
+        """Return True if and only if the third byte passed in is 0."""
+        return my_bytes[2] == 0  # start counting from 0, so "2" refers to the 3rd byte
     ```
 
     > This code-under-test defines a function that expects to be passed a list of bytes. If the third byte in that list is 0, the code returns the value `True`.
@@ -81,10 +81,10 @@ flowchart TD
 
     @PythonFuzz                           # Python decorator required by fuzz test infrastructure
     def fuzz(random_bytes):               # Accept random data...
-    is_third_byte_zero(random_bytes)  # ...and pass it on to the code-under-test.
+        is_third_byte_zero(random_bytes)  # ...and pass it on to the code-under-test.
 
     if __name__ == '__main__':            # required by fuzz test infrastructure
-    fuzz()
+        fuzz()
     ```
 
     > This fuzz target is typical for Python-based fuzz testing. See the [GitLab documentation](https://docs.gitlab.com/ee/user/application_security/coverage_fuzzing/#supported-fuzzing-engines-and-languages) for instructions on writing fuzz targets for other languages.
