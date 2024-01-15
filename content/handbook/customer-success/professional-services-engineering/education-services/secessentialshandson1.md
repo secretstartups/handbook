@@ -160,6 +160,8 @@ Please take time to understand any code that you are asked to copy and paste in 
 
 1. Add an appropriate commit message (Ex. `Add prompt for server authentication`), set the target branch to `add_auth`.
 
+    > Setting the target branch to `add_auth` will create a new branch named `add_auth`, and open a merge request on the branch
+
 1. Make sure that the **Start a new merge request with these changes** checkbox is checked.
 
 1. Click the **Commit changes** button.
