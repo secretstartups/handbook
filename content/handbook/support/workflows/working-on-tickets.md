@@ -148,7 +148,7 @@ seek help as soon as you need it.
 1. Review the `Handover Ticket Summary` entry of the ticket and check the NRT (Next Response Time) SLA.
    - If you know how to proceed with the ticket:
       - Introduce yourself to the customer, confirm the handover, and provide the next technical response.
-   - If additional research is necessary:
+   - If additional research is necessary prior to providing a technical response:
       - Introduce yourself to the customer and set clear expectations that further research and a review of the existing information is required before providing the next technical response.
 
 ## Providing a first response to a ticket
@@ -213,13 +213,13 @@ Cross Region Handover requests are async by nature, which can make it difficult 
 
 1. Use the handover macro:
    - All handover requests, including low-priority situations, should use and complete the new macro named `Handover Ticket Summary`.
-   - Tickets not using the macro will not be considered in an acceptable state for handover acceptance and will be re-assigned to the requestor. 
+   - Tickets not using the macro will not be considered in an acceptable state for handover acceptance and will be re-assigned to the requestor.
 1. Set the appropriate field in Zendesk:
    - Zendesk now includes a new form field named `Handover Status`.
    - All tickets requiring handover should have this field set to "Need Handover”.
 1. Unassign the ticket
    - Tickets using the macro and having `Handover Status` set to `Need Handover`` will appear in the SGG queue under NRT.
-   - Handover tickets should be assgined to the corresponding SGG view (e.g. SGG Maple) and not in the following states `solved/closed/pending`.
+   - Handover tickets should been unassigned, to do this in Zendesk you need to change the `Assignee` field to a non human item (e.g. SGG Maple), you should also ensure that the `SGG` field is set to the corresponding SGG view (e.g. Maple) and the ticket is not in the following states `solved/closed/pending`.
 
 
 ### Using the Cross Region Handover Form
