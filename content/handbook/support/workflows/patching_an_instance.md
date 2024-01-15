@@ -32,9 +32,10 @@ gitlab-ctl restart
 
 To revert the patch, use the `.orig` files the `patch` program generates.
 
-If you want to confirm that the file was patched, you can compare the file to the checksums included with most package managers.
+A patch can include changes to multiple files. If you want to confirm that the file or files were patched,
+you can compare the file(s) to the checksums included with most package managers.
 
-For example, in Debian/Ubuntu running dpkg you can compare the checksum to the list in `/var/lib/dpkg/info/gitlab-ee.md5sums`.
+For example, in Debian/Ubuntu running dpkg you can compare the checksum of each of the files in the patch to the list in `/var/lib/dpkg/info/gitlab-ee.md5sums`.
 View the patch file in a text editor to see which files are affected.
 
 ```shell
