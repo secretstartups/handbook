@@ -7,8 +7,6 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 
 ## Lab Guides
 
-> **We are transitioning to the latest version of this course.** If your group URL starts `https://spt.gitlabtraining.cloud`, please use the v15 instructions.
-
 | Lab Guide | Version 15 | Version 16 |
 |-----------|------------|------------|
 | Lab 1: Configure SAST, Secret Detection, and DAST | [v15 Lab Guide](https://gitlab.com/gitlab-com/content-sites/handbook/-/blob/d14ee71aeac2054c72ce96e8b35ba2511f86a7ca/content/handbook/customer-success/professional-services-engineering/education-services/secessentialshandson1.md) | [v16 Lab Guide](/handbook/customer-success/professional-services-engineering/education-services/secessentialshandson1) |
