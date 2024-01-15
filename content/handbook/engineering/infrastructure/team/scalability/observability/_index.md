@@ -24,3 +24,15 @@ The following people are members of the Scalability:Observability team:
 {{< team-by-manager-slug "liam-m" >}}
 
 The team is located all over the world in [different timezones](https://timezonewizard.com/p4-6e9).
+
+## How we work
+
+### Updates in Slack
+
+In order to stay informed with everyone's immediate topics, we post regular status updates in our Slack channel.
+
+These updates include whatever the team member is currently working on and dealing with, for example consider including current focus area, general work items, blockers, in-flight changes, learnings, side tracks, upcoming time off and other relevant information.
+
+There is no strict frequency for posting updates, although we strive to make updates at least once per week.
+
+When posting updates, consider providing enough context (e.g. through links) so that interested team members are able to dive in on their own ([low context](/handbook/communication/#top-tips-and-best-practices)).
