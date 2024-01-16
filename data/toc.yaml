@@ -87,7 +87,7 @@
   - name: Practical Handbook Edits
     url: /handbook/practical-handbook-edits
   - name: Edit This Website Locally
-    url: /handbook/git-page-update
+    url: https://gitlab.com/gitlab-com/content-sites/handbook/-/tree/main
   - name: Handbook Style Guide
     url: /handbook/style-guide
   - name: Content Websites
