@@ -1555,11 +1555,10 @@ The Field Marketing team works from issues and issue boards. If you need our ass
 - `AMER - CIV`: AMER Civilian tactics
 - `AMER - SLED`: AMER SLED tactics
 - `AMER - NSP`: AMER National Security tactics
-- `FMS AMER NE/SE/PubSec`: Issues that the FMS AMER NE/SE/PubSec is actively working
-- `FMS AMER NE/SE/PubSec - Tracking`: FMS AMER NE/SE/PubSec issue tracking
-- `FMS AMER NE/SE/PubSec - Swag`: FMS AMER NE/SE/PubSec tracking for swag and event assets
-- `FMS AMER NE/SE/PubSec - WS/WC`: FMS AMER NE/SE/PubSec task tracking for workshops and webcasts
-- `FMS AMER NE/SE/PubSec - Contracts`: FMS AMER/NE/SE/PubSec task for tracking contract requests
+- `FMS AMER`: FMS AMER general requests
+- `FMS AMER - Tracking`: FMS AMER event tracking
+- `FMS AMER - Swag`: FMS AMER swag requests
+- `FMS AMER - Contracts`: FMS AMER contract requests
 - `FMC AMER East-Central/West`: Issues that the FMC East-Central/West is actively working
 - `FMC AMER East-Central/West - Contracts`: FMC East-Central/West task for tracking contract requests
 - `FMC AMER East-Central/West - WS/WC`: FMC East-Central/West task tracking for workshops and webcasts
