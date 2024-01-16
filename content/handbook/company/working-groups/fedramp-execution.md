@@ -14,7 +14,7 @@ status: active
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1WcpsW_XwS_te-yGXHaRyKH827e_jXHamlbJm5CEx0E4/edit?usp=sharing) (only accessible from within the company) |
 | Epic            | [Main Project Epic](https://gitlab.com/groups/gitlab-org/-/epics/8455) (only accessible from within the company) |
 | Public Handbook Page | [GitLab's FedRAMP Authorization Program](/handbook/security/security-assurance/dedicated-compliance/fedramp-compliance.md) |
-| Internal Handbook Page | [FedRAMP Compliance][https://internal.gitlab.com/handbook/engineering/fedramp-compliance/] |
+| Internal Handbook Page | [FedRAMP Compliance](https://internal.gitlab.com/handbook/engineering/fedramp-compliance/) |
 
 ### Exit Criteria
 
