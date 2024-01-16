@@ -5,11 +5,11 @@ description: "GitLab PTY Australia benefits specific to Australia based team mem
 
 Can't find what you're looking for? Try the main [People Operations page](/handbook/people-group/).
 
-## GitLab PTY Australia Specific Benefits
+# GitLab PTY Australia Specific Benefits
 
 [Fair Work Information Statement](https://www.fairwork.gov.au/sites/default/files/migration/724/Fair-Work-Information-Statement.pdf)
 
-### Medical
+## Medical
 
 Effective 2023-07-27, all Australian Team members will be eligible to enroll into one of BUPA’s hospital plans and add/mix it with extra coverage options if you prefer. GitLab employees can mix and match (one Hospital plan level and one Extras option) to suit their needs.
 
@@ -416,11 +416,11 @@ The Southern Cross portal will generate reports outlining the benefit. The payro
 
 Southern Cross will load invoices and cover schedules on a monthly basis to the portal. The contact person at GitLab will be notified whenever a new invoice is ready. Payments will be made via bank transfer.
 
-### Annual Leave
+## Annual Leave
 
 Team members are entitled to a minimum of four weeks’ annual leave per year. Annual leave does not expire and can be carried over each year, but GitLab may set expectations on how much annual leave employees may accumulate and may require employees to take entitled leave with 14 days notice. Annual leave runs concurrently with GitLab PTO. Team members must select the `Vacation` option in Time Off by Deel when taking vacation time to ensure that annual leave entitlement is properly tracked.
 
-### On-Call (Engineering-only)
+## On-Call (Engineering-only)
 
 New Zealand employment law requires that work on a formal [Public Holiday](https://www.govt.nz/browse/work/public-holidays-and-work/public-holidays-and-anniversary-dates/), including [on-call](https://www.employment.govt.nz/leave-and-holidays/public-holidays/employees-working-shifts-or-on-call/), is compensated with time-in-lieu. Overtime pay is also required in certain situations, for example: whether the on-call shift fell on a "normal" working day or not, and whether the team member was called to work during their on-call shift. The policy linked above covers for the [time-in-lieu requirement](#on-call-engineering-only) but we do not yet have a set mechanism for handling overtime pay requirements.
 
@@ -438,7 +438,7 @@ If it’s impossible to find a replacement and the team member ends up taking th
 
 *Note: To stay in compliance with local laws we would follow [the New Zealand government website](https://www.employment.govt.nz/leave-and-holidays/public-holidays/employees-working-shifts-or-on-call/) with regards to compensation for worked time during on-call.*
 
-### Statutory Sick Leave
+## Statutory Sick Leave
 
 - Team members in New Zealand are entitled to 10 days' of statutory sick leave after six months of current continuous employment with GitLab. For each 12 months after meeting the above criteria, each team member gets at least ten days sick leave.
 - If in any year the team member doesn’t meet the criteria, then they don’t get any new sick leave entitlement, but can use their sick leave balance which may have carried over. An employee may re-qualify for sick leave as soon as they meet the criteria.  The maximum amount of sick leave that can be accumulated under the Holidays Act 2003 is 20 days.
@@ -461,7 +461,7 @@ If it’s impossible to find a replacement and the team member ends up taking th
 - Team members must designate time off for injury as `Out Sick` or `Vacation` in Time Off by Deel if they wish to use sick leave or annual leave for the first week of an injury.
 - If the leave will last longer than five days and is [covered by the Accident Compensation Corporation (ACC) scheme](https://www.acc.co.nz/im-injured/what-we-cover/), GitLab will top up the ACC payment from 80 to 100% for the first 25 days.
 
-### GitLab PTY New Zealand Parental Leave
+## GitLab PTY New Zealand Parental Leave
 
 #### Statutory Leave Entitlement
 
