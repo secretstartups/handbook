@@ -31,7 +31,7 @@ generate_addition_messages() {
     eval ERRORS=($(printf "%q\n" "${ERRORS[@]}" | sort -u))
     for e in ${ERRORS[@]}; do
         case $e in
-            MD009)          MSG+="> 🛑 You have a Trailing spaces error.  The [practical handbook edits handbook](https://about.gitlab.com/handbook/practical-handbook-edits/) provides more tips, for example [removing trailing whitespaces](https://about.gitlab.com/handbook/practical-handbook-edits/#remove-trailing-whitespaces).\n\n"
+            MD009)          MSG+="> 🛑 You have a Trailing spaces error.  The [practical handbook edits handbook](https://handbook.gitlab.com/handbook/practical-handbook-edits/) provides more tips, for example [removing trailing whitespaces](https://handbook.gitlab.com/handbook/practical-handbook-edits/#remove-trailing-whitespaces-in-a-merge-request).\n\n"
             ;;
         esac
     done
