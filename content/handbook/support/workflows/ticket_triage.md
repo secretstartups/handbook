@@ -1,7 +1,7 @@
 ---
 
 title: Triaging Tickets
-description: "A walk through of some basic checks and items to tick off when working on the Needs Org and Triage queue in ZenDesk."
+description: "A walk through of some basic checks and items to tick off when triaging tickets in ZenDesk."
 category: Handling tickets
 subcategory: Triaging
 ---
@@ -10,7 +10,12 @@ subcategory: Triaging
 
 ## Purpose of this page
 
-This page aims to walk you through some basic checks and items to tick off when working on the Needs Org and Triage queue in ZenDesk.
+This page aims to walk you through some basic checks and items to tick off when triaging tickets in ZenDesk. 
+
+
+## Overview
+
+In previous years, triaging of tickets was done through a `Needs Org` queue and required Support Engineers to ensure that tickets were assigned to their organizations with proof of entitlement. Currently, all valid submitted tickets should have an organization or be a free user. Users that are not a listed contact will automatically be rejected and closed with [instructions on how to become a contact for their organization](https://about.gitlab.com/support/managing-support-contacts/). However, customers may still submit tickets under the wrong forms, so having accurate information helps with reporting and getting the tickets to the right people.
 
 ## Overall Flow
 
@@ -70,9 +75,10 @@ If the request falls outside of such scenarios, see the [Other Requests section]
 
 ## After applying the correct form
 
-- Apply the correct `Problem type` if possible (this may need to happen after looking up the organization information).
-- With help from the [Looking up customer details]({{< ref "looking_up_customer_account_details" >}}) page to understand how and where you can find customer information from ZenDesk, Salesforce and the customer portal.
-- Check [SLA and Zendesk views page]({{< ref "sla_and_views" >}}) for after an org is assigned.
+- Apply the correct `Support - Category` and `Subcategory` if possible.
+- If missing, gather information about the `GitLab Install Type`, `Reference Architecture` and `GitLab Version`
+- Consider gathering any other information that might be missing if the customer used the incorrect form.
+
 
 ## US Government tickets in Global Support Portal
 
