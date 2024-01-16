@@ -23,3 +23,4 @@ The following people are members of the Scalability:Observability team:
 
 {{< team-by-manager-slug "liam-m" >}}
 
+The team is located all over the world in [different timezones](https://timezonewizard.com/p4-6e9).
