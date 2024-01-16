@@ -1,5 +1,5 @@
 ---
-title: "GitLab Security Essentials - Hands-On Lab"
+title: "GitLab Security Essentials - Hands-On Lab 2"
 description: "This Hands-On Guide walks you through the lab exercises used in the GitLab Security Essentials course."
 ---
 
