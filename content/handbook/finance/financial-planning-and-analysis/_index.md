@@ -510,7 +510,7 @@ FP&A team is the owner and maintainer of SSOT for GitLab’s Hiring Plan
 
 The FP&A team and Talent Acquisition Managers collaborate to ensure understanding and implementation of the most up-to-date view of forecasted headcount-related expenses. This interlock enables GitLab to respond quickly and make live decisions through a weekly P&L forecast and the [rolling list of asks (RLOA) process](/handbook/finance/financial-planning-and-analysis/#rolling-list-of-asks-rloa). This process also ensures alignment and accuracy of headcount forecasts when FP&A locks its annual plan and monthly rolling forecasts. This process also tracks company metrics against Wall Street expectations related to non-GAAP operating income and non-GAAP earnings per share. Please see the [Headcount Metrics and Processes page](https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/tree/master/-/sites/handbook/source/handbook/finance/financial-planning-and-analysis/headcount-metrics-and-processes/) for definitions and key metrics.
 
-#### Headocunt Live Dashboards
+#### Headcount Live Dashboards
 
 The Hiring Plan data is divided into four headcount forecast templates, one for each cost center with Cost of Goods Sold allocated among Sales and R&D. The data and analysis from the four templates roll into the Summary file. The four templates can be found in the [Headcount Live Summary Dashboard](https://docs.google.com/spreadsheets/d/1LmMiPMeBu2jW6APZ1SDNOk1OgLN6pyB01TrEVza40us/edit#gid=1019520422).
 
