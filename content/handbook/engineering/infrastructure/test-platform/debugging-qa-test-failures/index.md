@@ -783,6 +783,12 @@ If you decide to delete the test, open a merge request to delete it and close th
 
 If you decide the test is still valuable but don't want to leave it quarantined, you could replace `:quarantine` with `:skip`, which will skip the test entirely (i.e., it won't run even in jobs for quarantined tests). That can be useful when you know the test will continue to fail for some time (e.g., at least the next milestone or two).
 
+### Quarantined test report
+
+Every week, a list of the current [long-term quarantined](#long-term-quarantine) E2E tests in both the GitLab and CustomersDot project is reported to the `#quality-reports` Slack channel.
+
+This report is generated from the Test Platform Department's [toolbox](https://gitlab.com/gitlab-org/quality/toolbox) project.
+
 ## Training Videos
 
 These videos walking through the triage process were recorded and uploaded to the [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) YouTube channel.
