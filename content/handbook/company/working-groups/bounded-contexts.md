@@ -133,3 +133,4 @@ For stages still missing participants we will seek support from Engineering lead
 | Member                | Abhinaba Ghosh        | Engineering Manager, Test & Tools Infrastructure |
 | Member                | Mohamed Hamda         | Backend Engineer, Fulfillment::Provision |
 | Member                | Andrei Zubov          | Senior Frontend Engineer, Environments |
+| Member                | Fabien Catteau        | Staff Backend Engineer, Secure::Composition Analysis |
