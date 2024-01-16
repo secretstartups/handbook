@@ -78,6 +78,10 @@ stateDiagram
 To help get started as a developer with the Create:Code Creation team, we have created an
 [onboarding issue template](https://gitlab.com/gitlab-com/create-stage/code-creation/team-tasks/-/issues/new?issuable_template=developer_onboarding).
 
+## Meetings
+
+1. Sync: Code Creation - a meeting held twice a week on Tuesday and Thursday at 2:30 p.m. UTC to align on group priorities. If there are no points on the meeting agenda 1 hour before the meeting starts, that meeting is considered as canceled.
+
 ## Other Related Pages
 
 - Product Categories: [Code Creation](/handbook/product/categories/#code-creation-group)
