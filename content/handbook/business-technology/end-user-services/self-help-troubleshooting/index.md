@@ -242,13 +242,13 @@ Before you install, please be sure to have the following:
 
 The entire process will take a **minimum of an hour** depending on your internet speed. Please give yourself sufficient time to download and install the upgrade, avoid doing this upgrade before meetings. Once you are greeted with the login screen, the upgrade is complete. Be sure that you reboot a couple of times after the installation is complete.
 
-There's 2 ways to upgrade to Ventura
+There's 2 ways to upgrade to the newest macOS
 
 **Self Service**
 
 1. Search for the **Self Service** application on your MacBook.
 2. In the search bar, look up **Check for Apple Software Updates**.
-3. Click on `check for updates`. This will redirect you to System Preferences where you cab then click on `Software Update`. Your device will now check for updates, click on Install to get the newest MacOS update.
+3. Click on `check for updates`. This will redirect you to System Preferences where you can then click on `Software Update`. Your device will now check for updates, click on Install to get the newest MacOS update.
 4. This can take upwards of an hour, so please factor in that time when you are updating
 
 **Mac App Store**
