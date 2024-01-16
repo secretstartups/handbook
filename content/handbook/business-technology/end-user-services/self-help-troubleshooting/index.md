@@ -100,7 +100,7 @@ Several people have joined GitLab with not a lot of experience with macOS and th
 
 - [Mac tips for Windows switchers](https://support.apple.com/en-us/HT204216)
 - [Mac Keyboard Shortcuts](https://support.apple.com/en-us/HT201236) - great to help your productivity!
-- [macOS : Ventura New Features](https://www.apple.com/au/macos/ventura/features/) - Apple's newest OS features
+- [macOS : Sonoma New Features](https://www.apple.com/au/macos/sonoma/) - Apple's newest OS features
 - [Got an iPad? - Check out Sidecar!](https://support.apple.com/en-afri/HT210380) - Apple iPad Sidecar
 - [How to use multiple workspaces on Mac](https://support.apple.com/guide/mac-help/work-in-multiple-spaces-mh14112/mac)
 
@@ -229,7 +229,7 @@ Check out the GitLab Tools and Tips pages for recommended software and applicati
 
 Our security team also did an amazing write-up for Linux installations - [Linux Setup](/handbook/tools-and-tips/linux/)
 
-### Installing OS Ventura
+### Installing the newest MacOS
 
 **Pre-requisites**
 
@@ -247,18 +247,19 @@ There's 2 ways to upgrade to Ventura
 **Self Service**
 
 1. Search for the **Self Service** application on your MacBook.
-3. In the search bar, look up **Ventura**.
-4. Click on it to install. This will redirect you to the Apple Store where you can install the OS.
-5. This can take upwards of an hour, so please factor in that time when you are updating
+2. In the search bar, look up **Check for Apple Software Updates**.
+3. Click on `check for updates`. This will redirect you to System Preferences where you cab then click on `Software Update`. Your device will now check for updates, click on Install to get the newest MacOS update.
+4. This can take upwards of an hour, so please factor in that time when you are updating
 
-**Check for Updates**
+**Mac App Store**
 
-1. You can follow this [guide](https://support.apple.com/en-us/HT201541)
+1. Go into Finder and locate the application `App Store`
+2. Search for the most current MacOS (Currently macOS Sonoma)
 
 
 ### FAQ for issues with a new macOS update
 
-**How can I tell if my MacBook is using an Intel or an Apple M1/M2 chip?**
+**How can I tell if my MacBook is using an Intel or an Apple M chip?**
 
 - Please refer to this [guide](https://support.apple.com/en-ca/HT211814#:~:text=To%20open%20About%20This%20Mac,as%20an%20Intel%2Dbased%20Mac)
 
@@ -274,7 +275,7 @@ Reset your NVRAM and PRAM if you’re using an Apple M1/M2 [MacBook](https://www
 
 Replace your USB C hub for a Satechi Multi-Port Adapter, replace the cable that is connected from your monitor to your MacBook HDMI cable (higher end version)
 
-**Zoom is not working after I updated to Ventura**
+**Zoom is not working after I updated to the latest update**
 
 You will need to uninstall and install Zoom again. Please follow this [guide](https://support.zoom.us/hc/en-us/articles/201362983-Uninstalling-and-reinstalling-the-Zoom-application):
 
