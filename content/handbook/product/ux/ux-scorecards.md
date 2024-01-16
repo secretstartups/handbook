@@ -11,7 +11,10 @@ UX Scorecards should be done on every important workflow and should be repeated 
 
 As UX practitioners, we must think strategically about fixing usability challenges within the GitLab product in order to give our users a quality experience. Creating a UX Scorecard with associated recommendations enables us to identify, scope, and track the effort of addressing usability concerns within a specific workflow. When it's complete, we have the information required to collaborate with Product Managers on grouping fixes into meaningful iterations and prioritizing UX-related issues.
 
-**All of the UX Scorecards can be found in this [epic](https://gitlab.com/groups/gitlab-org/-/epics/1714).**
+See all the completed scorecards below:
+
+* [UX Scorecards](https://gitlab.com/groups/gitlab-org/-/epics/1714)
+* [Category Maturity Scorecards](https://gitlab.com/groups/gitlab-org/-/epics/6930)
 
 ## About the process
 
