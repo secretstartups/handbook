@@ -203,8 +203,8 @@ Epic: [https://gitlab.com/groups/gitlab-org/-/epics/5521](https://gitlab.com/gro
 - Plan:
   - Create [plans](https://gitlab.com/groups/gitlab-org/-/epics/12218) for adding/testing new features for self-managed, now available to users with the metadata database.
   - Continue research into container image validation after import.
-
-
+- Completed:
+  - Evaluate tools for validating images after import. ([issue](https://gitlab.com/gitlab-org/container-registry/-/issues/1159))
 ### Milestone 16.8 (December 11, 2023 - January 12, 2024)
 
 #### Goals:
@@ -213,16 +213,25 @@ Epic: [https://gitlab.com/groups/gitlab-org/-/epics/5521](https://gitlab.com/gro
 - Utility support for registry database commands, such as in gitlab-ctl, equivalent to what is already present for offline garbage collection for charts
 
 #### Week of Dec 18-22
-- Plan:
+- Plan: 
+  - Working with major registry user who will do their data migration over the holiday break.  Most of the container registry team is unavailable this week.
 
 #### Week of Dec 25-29
-- Plan:
+-  Plan: 
+  - Continue working with major registry user on setup and migration of their registry database.  Most of the container registry team is unavailable this week.
+- Completed: 
+  - Migration for this user was a huge success!  We'll address the follow-up issues in our next milestone.
 
 #### Week of Jan 1-5
 - Plan: 
+  - Catching up after holidays and continued engagement with beta users.
+- Completed:
+  - Reviewed customer migration successes and concerns, and developed follow-up issues.
 
 #### Week of Jan 8-12
-- Plan: Release issues related to feedback from second phase of beta users.
+- Plan: 
+  - Release issues related to feedback from second phase of beta users.
+  - Develop next steps plan and a communcation campaign to increase visibility.
 
 ### Milestone 16.9 (January 13, 2023 - February 9, 2024)
 
