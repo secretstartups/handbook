@@ -363,9 +363,9 @@ Team members must pass the [income test](https://www.servicesaustralia.gov.au/me
 - Team members who get Australian Government Parental Leave Pay have to be given a pay slip for each payment. The pay slip must specify that the payments are Parental Leave Pay under the Australian Government Paid Parental Leave Scheme.
 - Ordinary pay slip requirements apply to pay slips given to team members getting government-funded Parental Leave Pay.
 
-## GitLab PTY New Zealand Specific Benefits
+# GitLab PTY New Zealand Specific Benefits
 
-### Medical
+## Medical
 
 Effective 2024-02-01, GitLab offers Eligible New Zealand Team members a comprehensive medical plan [“Well Being Two”](https://drive.google.com/file/d/17WUPQMvvWka77Khe6_adSOiSbibNY3GC/view) via Southern Cross.
 
@@ -383,36 +383,36 @@ For questions regarding the plan or enrollment please contact WTW:
 email: benefits.nz@willistowerswatson.com
 telephone: 0800 329 920
 
-#### Enrollment for Eligible New Hires and Family Members
+### Enrollment for Eligible New Hires and Family Members
 
 Eligible New Hires will be given a link and an access code on their onboarding issue to register for the plan on the Southern Cross portal. Eligible Team Members may also receive an email shortly after their start date with a link to the portal as a reminder of the benefit. The plan will commence once registration is completed.
 
 Eligible Team Members and their families can join the plan at any time, but please note that the plan offers immediate cover qualifying pre-existing conditions only if you sign up within 90 days of your start date.
 
-#### Adding a new-born child
+### Adding a new-born child
 
 The special pre-existing condition cover concession above is extended to a newborn child if they are
 added to the policy within three months of the child’s birth. Congenital conditions are not covered. Please contact WTW (benefits.nz@willistowerswatson.com) by email to help add members to your policy.
 
-### New Zealand Medical Plan Administration Details
+## Medical Plan Administration Details
 
-#### New Hires
+### New Hires
 
 Eligible New Hires will be given a link and code to access the portal and enroll in the plan during their onboarding issue
 Total Rewards will also send a monthly report to WTW with new hires as a backup (This process will soon be replaced by automated notifications from Workday)  
 WTW will have Southern Cross email the eligible new hire with enrollment instructions.
 
-#### Leavers
+### Leavers
 
 Total rewards will send a monthly report to WTW with leavers (this process will soon be replaced by automated notifications from Workday) - Terminations need to be updated no later than 1 month after the termination date to avoid any overcharging.
 
-#### Payroll Reporting
+### Payroll Reporting
 
 Subsidies for Health insurance are considered a non-cash benefit and are therefore subject to “Fringe Benefit Tax” and must be reported as such.
 
 The Southern Cross portal will generate reports outlining the benefit. The payroll team will have access to the Southern Cross portal to download these reports as needed.
 
-#### Invoicing
+### Invoicing
 
 Southern Cross will load invoices and cover schedules on a monthly basis to the portal. The contact person at GitLab will be notified whenever a new invoice is ready. Payments will be made via bank transfer.
 
