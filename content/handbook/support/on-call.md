@@ -32,7 +32,7 @@ Be proactive in communicating your availability. Sometimes you can't be *immedia
 
 ### Communicate
 
-**Involve relevant stakeholders**: whether it's the e-group, a CSM, an ASE (Assigned Support Engineer), subject matter experts or Support leadership, customer and operational emergencies should be known. See your rotation specific workflow for more detailed notes.
+**Involve relevant stakeholders**: whether it's the e-group, a CSM, an [ASE (Assigned Support Engineer)](../assigned-support-engineer/emergencies.md), subject matter experts or Support leadership, customer and operational emergencies should be known. See your rotation specific workflow for more detailed notes.
 
 **Note:** You may sometimes be required to contact GitLab users on behalf of another GitLab team (such as the SIRT team). Please follow the [Sending Notices workflow](/handbook/support/workflows/sending_notices) to action these requests.
 

@@ -19,7 +19,8 @@ troubleshooting during this emergency scenario.
 
 Regardless of when it comes in, the [DRI](/handbook/people-group/directly-responsible-individuals/)
 for the emergency continues to be the on-call Support Engineer.
-Their only process change is that they should **notify the ASE of it**.
+Their only process change is that they should **notify the ASE when
+their account submits an emergency**.
 This can be done by pinging the ASE's Slack handle in the Slack thread where the
 emergency is being discussed.
 
@@ -41,7 +42,7 @@ resolve the ticket. This may involve *any* of the following:
 - Troubleshooting the emergency in Slack, asynchronously
 - Updating the on-call engineer with any required context
 
-Any help you can provide would be appreciated.
+Any help you can provide will be appreciated.
 
 ### When unavailable
 
@@ -49,14 +50,15 @@ If you come back to work and see that an emergency took place while you
 weren't available, then catch up on what happened and reach out to the
 customer to discuss any next steps.
 
-If a big task is planned while you know you'll be unavailable, see
-[be proactive](#be-proactive) to prepare the on-call engineer.
+If a big task is planned while you know you'll be unavailable
+[be proactive](#be-proactive) and prepare the on-call engineer.
 
 ### Be proactive
 
 If a task is planned after-hours that may lead to an emergency (an upcoming upgrade,
 migration, etc.) then it would be useful to create a summary
 of what's planned, possible problems that could arise (if you know any), and suggested solutions.
-Any other useful information that can be used while troubleshooting (architecture
-info, problems, etc.) would be useful. Leave this as an internal note in the
+If you have other account-specific information that the on-call SE might need
+while troubleshooting (architecture info, problems, etc.), please put it into
+an internal note in the
 existing ticket leading up to the task so the on-call engineer can see it.
