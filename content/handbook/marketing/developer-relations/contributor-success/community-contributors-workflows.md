@@ -74,11 +74,11 @@ Contributors will need to create an request in this project to request their lic
 
 ## DCO and CLA Guidance
 
-All external contributions to GitLab are subject to the [GitLab DCO or CLA](/community/contribute/dco-cla/), depending
+All external contributions to GitLab are subject to the [GitLab DCO or CLA](https://about.gitlab.com/community/contribute/dco-cla/), depending
 on where the contribution is made and on whose behalf.
 
 Instructions for corporate contributors to enter into an overarching Corporate CLA covering all contributions made on
-their behalf are set out on the [DCO-CLA page](/community/contribute/dco-cla/#need-a-corporate-cla-covering-all-contributors-on-behalf-of-your-organization).
+their behalf are set out on the [DCO-CLA page](https://about.gitlab.com/community/contribute/dco-cla/#need-a-corporate-cla-covering-all-contributors-on-behalf-of-your-organization).
 
 ### Corporate CLA Contributor Management
 
@@ -90,15 +90,15 @@ This group can be found here: https://gitlab.com/gitlab-corporate-cla
 
 Adding a new corporate group under this namespace is as follows:
 
-1. Create a subgroup with a name/slug that matches the organisation's name.
+1. Create a subgroup with a name/slug that matches the organization's name.
 1. Ensure the visibility of the new subgroup is set to `Private`.
 1. Once created, edit the subgroup (Settings > General) and add the text `Approved contributors for XXXXX under the GitLab Corporate CLA` to the group description.
 1. Confirm/set the following settings:
-  1. General > Permissions and Group Features
-    1. Permissions - Group mentions are disabled
-    1. Wiki - Group-level wiki is disabled
-    1. Roles allowed to create projects - No one
-    1. Membership - Users can request access (disabled)
+    1. General > Permissions and Group Features
+        1. Permissions - Group mentions are disabled
+        1. Wiki - Group-level wiki is disabled
+        1. Roles allowed to create projects - `No one`
+        1. Membership - Users can request access (disabled)
 1. Add the user account of the Organization's designated user manager(s) to the group as `Owner`. (under Subgroup information > Members)
 1. Remove your user account as a direct member of the subgroup. (Under Group owners, filter for `Membership = Direct`, click the 'kebab menu', select 'Leave Group')
 
