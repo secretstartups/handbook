@@ -35,9 +35,10 @@ Senior leadership representative (Snr. Dir +) from each Department and a person 
     - Michel Isnard
 - Marketing - Two Representatives
     - Christine Lee
-    - Dennis van Rooijen
+    - 
 - Finance
     - Andrew Murray
+    - Dennis van Rooijen
 - Legal & Corporate Affairs
     - Stacy Cline
 - Security
