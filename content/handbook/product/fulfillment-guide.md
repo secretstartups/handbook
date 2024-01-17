@@ -160,7 +160,7 @@ Please watch [this video](https://www.youtube.com/watch?v=ENRtOQ0DbkM) for an ov
       1. `Late Renewal Exception Expiration Date` is updated with the same value as `Temporary License Extension End Date`.
    1. Temporary extension record appears on [CustomersDot Admin > Temporary Extensions page](https://customers.gitlab.com/admin/temporary_extension_history).
    1. For self-managed, a legacy trial license is created and can be accessed from the Temporary extension record in CustomersDot Admin.
-   1. For SaaS, the new temporary extension information is visible on the gitlab.com group billing page.
+   1. For SaaS, the new temporary extension (once effective) is visible on the gitlab.com group billing page.
    1. An email is sent to the customer with the subject line `[GitLab Transactions] GitLab Temporary Renewal Extension`. For self-managed, a license key is included in the email.
       - This email is also sent to the Revenue Team, as well as copied to SFDC and displayed under Contact Activity.
    1. `Access temporarily extended until YYYY-MM-DD` badge is displayed on the related subscription in the [Customers Portal](https://docs.gitlab.com/ee/subscriptions/customers_portal.html).
