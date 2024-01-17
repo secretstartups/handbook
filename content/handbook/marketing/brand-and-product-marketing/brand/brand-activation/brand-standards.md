@@ -69,6 +69,8 @@ GitLab's official brand guidelines can be found at **[design.gitlab.com](https:/
 
 - [Photo library](https://drive.google.com/drive/folders/1VHErs-KSNX1FIIVgXJR3OmIzwU7M4E1M?usp=sharing)
 - [Adobe stock](https://stock.adobe.com/)
+- [Unsplash](https://unsplash.com/) *[Proper credit must be given](https://handbook.gitlab.com/handbook/legal/ip-public-materials-guidelines/#visual-content-including-videos-gifs-photographs-illustrations-graphics-and-artwork)
+- [Disability NI Stock Photos](https://disabilityin.org/resource/corporate-disability-stock-photography/) *[Proper credit must be given](https://handbook.gitlab.com/handbook/legal/ip-public-materials-guidelines/#visual-content-including-videos-gifs-photographs-illustrations-graphics-and-artwork)
 
 ### Motion and video
 
