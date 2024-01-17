@@ -389,11 +389,22 @@ description: "A comprehensive list of all of Field Marketing's epic codes."
 
 ## [Main Issue]()
 
-## [Copy Document]() - [template](https://docs.google.com/document/d/1j43mf7Lsq2AXoNwiygGAr_laiFzmokNCfMHi7KNLjuA/edit)
-
 ## [Dry Run Agenda]() - [template](https://docs.google.com/document/d/1ePmUc0ZUgO4aip8i3hjkROh2hKIO3WuQ7h0aSl0IsZA/edit)
 
 ## [Landing Page]() - `to be added when live` 
+
+## [Copy Document]() - [template](https://docs.google.com/document/d/1j43mf7Lsq2AXoNwiygGAr_laiFzmokNCfMHi7KNLjuA/edit)
+
+*If creating copy for a new or customized workshop that is not utilizing one of the existing workshops' copy, please make a clone of the template above and create a new copy doc to link above. If utilizing copy for one of our existing workshops below, please check the appropriate workshop copy doc and delete the rest. Once epic is created, FMC to ping `@lfstucker` in the epic to review and approve workshop copy within a 3 day SLA. Once copy is approved, FMC can triage asset sub-issues. If any copy is adjusted, please ping `@krogel` in the epic to adjust Marketo templates as well.*
+
+**PLEASE NOTE: These copy docs are not to be altered by anyone other than `@lfstucker`.**
+
+- [ ] [CI Workshop](https://docs.google.com/document/d/16msOU3xb9G356pAZ04TfyAnnEc7WD09ZAc-6wqEJCrw/edit#heading=h.6vgpxnyb4dh1)
+- [ ] [Project Management Workshop](https://docs.google.com/document/d/1cYjIpOEU5gMKVEezQ8SiMrPYkWUk1FWTjx7IWT-Aj5w/edit#heading=h.6vgpxnyb4dh1)
+- [ ] [Security & Compliance Workshop](https://docs.google.com/document/d/1ADi1taVk4A9z6CXc0F5uKEyTjwhlPrNf4-f-l_Hb3TE/edit#heading=h.6vgpxnyb4dh1)
+- [ ] [AI in DevSecOps Workshop](https://docs.google.com/document/d/1SbAmTTzsYEdvF3Aeo72yAzfBvN7rNRLKPb13SzTeBEA/edit#heading=h.6vgpxnyb4dh1)
+- [ ] [GitHub to GitLab Migration Workshop](https://docs.google.com/document/d/15U4unIMX4LxRoIYllk6fNgfBW0Yws3m0Vt4SRABXc4o/edit#heading=h.6vgpxnyb4dh1)
+- [ ] [GitLab Basics Workshop](https://docs.google.com/document/d/10TDFA3OrsKyCPXyASCfEydg7luz9XuuucWugf488TTw/edit)
 
 ## Key Details 
 * **Field Marketing Manager:** 
