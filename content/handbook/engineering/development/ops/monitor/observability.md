@@ -8,11 +8,11 @@ The Observability group is part of the GitLab [Monitor stage](/handbook/engineer
 
 ### Team members
 
-\<%= direct_team(manager_role: 'Engineering Manager, Monitor:Observability') %\>
+<%= direct_team(manager_role: 'Engineering Manager, Monitor:Observability') %>
 
 ### Stable counterparts
 
-\<%= stable_counterparts(role_regexp: /(?\<!:)Monitor(?!:Respond)/, direct_manager_role: 'Engineering Manager, Monitor:Observability') %\>
+<%= stable_counterparts(role_regexp: /(?<!:)Monitor(?!:Respond)/, direct_manager_role: 'Engineering Manager, Monitor:Observability') %>
 
 ## Technical Architecture
 
@@ -118,5 +118,5 @@ Epic: https://gitlab.com/groups/gitlab-org/opstrace/-/epics/73
 
 ## Dashboards
 
-\<%= partial "handbook/engineering/metrics/partials/\_cross_functional_dashboard.erb", locals: { filter_value: "Observability" } %\>
+<%= partial "handbook/engineering/metrics/partials/\_cross_functional_dashboard.erb", locals: { filter_value: "Observability" } %>
 
