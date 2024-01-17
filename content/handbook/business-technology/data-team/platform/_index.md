@@ -274,7 +274,7 @@ There are 2 levels of data access:
 - General data --> Adding the Snowflake `snowflake_analyst` role to their account.
 - SAFE data (you must be or will become a designated insider) --> Adding the Snowflake `snowflake_analyst_safe` to their account. See the [SAFE Guide](handbook/business-technology/data-team/platform/safe-data/#snowflake) for the needed approvals.
 
-All users will have access to `dev_xs` and `dev_m` warehouse. When creating the user, the `dev_xs` warehouse as default warehouse.
+All users will have access to `dev_xs` and `reporter` -(size M) warehouse. When creating the user, the `dev_xs` warehouse as default warehouse.
 
 ### Snowflake Permissions Paradigm
 
