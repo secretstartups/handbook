@@ -5,7 +5,7 @@ description: "GitLab PTY Australia benefits specific to Australia based team mem
 
 Can't find what you're looking for? Try the main [People Operations page](/handbook/people-group/).
 
-# GitLab PTY Australia Specific Benefits
+## GitLab PTY Australia Specific Benefits
 
 [Fair Work Information Statement](https://www.fairwork.gov.au/sites/default/files/migration/724/Fair-Work-Information-Statement.pdf)
 
