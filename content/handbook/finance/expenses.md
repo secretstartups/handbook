@@ -425,7 +425,7 @@ The company will cover all work-related travel expenses. This includes lodging a
 - If an itemized bill is not available, costs will only be reimbursed for the element relating to Internet Access, i.e. if you pay for tv, internet and phone, the invoice should be divided by 3/# of services and we will pay this value only.
 - No hardware costs for internet service is reclaimable. This includes routers, extenders/boosters, etc.
 - If co-working space is used together with a combination of working from home, we will allow the reimbursement of the internet cost for where you spend most of your time. i.e. if you expense a co-working space for a full month then internet for home cannot be expensed. If you expense co-work for a few days in a month then home internet can be expensed in full.
-- N/A for Germany Team Members. Please see section "GitLab GMBH (Germany)" for internet reimbursement in Germany.
+- N/A for GitLab GmbH Germany Team Members. Please see section "GitLab GMBH (Germany)" for internet reimbursement in Germany.
 
 {{% panel header="**Coding**" header-bg="green" %}}
 **Expense Type / Navan Policy Category:** Internet access
@@ -495,7 +495,7 @@ The company will cover all work-related travel expenses. This includes lodging a
 - If itemized bill is not available, then the costs will only be reimbursed for the element relating to Phone Service, i.e. if you pay for tv, internet and phone, the invoice should be divided by 3/# of services and we will pay this value only.
 - No monthly hardware costs for phone service is reclaimable.
 - In addition Tablets, Watches, Phone Devices are not reimbursable.
-- N/A for Germany Team Members. Please see section "GitLab GMBH (Germany)" for internet reimbursement in Germany.
+- N/A for GitLab GmbH Germany Team Members. Please see section "GitLab GMBH (Germany)" for internet reimbursement in Germany.
 
 {{% panel header="**Coding**" header-bg="green" %}}
 **Expense Type / Navan Policy Category:** Cell phone
