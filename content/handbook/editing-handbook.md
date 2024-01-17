@@ -1,7 +1,9 @@
 ---
 title: "Editing the Handbook"
 description: "Information on how to edit the handbook including tips and troubleshooting."
-aliases: "/docs/editing-the-handbook/"
+aliases:
+- /docs/editing-the-handbook/
+- /handbook/git-page-update/
 ---
 
 This page focuses on how to edit the handbook.
@@ -11,6 +13,10 @@ This page is intended to be complementary to [Using GitLab at GitLab](/handbook/
 We suggest you complete the [GitLab 101 Tool Certification](/handbook/people-group/learning-and-development/gitlab-101/) if you haven't already.
 
 **Have your own practical Handbook editing tips? Drop a video below!**
+
+## Add yourself to the team page
+
+For how to add yourself to the team page, see the [add yourself to team guide](/handbook/edit-team-page).
 
 ## Markdown formatting
 
