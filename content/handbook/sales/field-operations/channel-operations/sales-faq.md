@@ -404,4 +404,6 @@ The customer must add Compute Minutes via the same procurement path as the origi
 1. Initiate the procurement process. For channel deals, GitLab Sales to provide the partner a quote for additional Compute Minutes. For AWS/GCP deals, GitLab Sales to generate a private offer to the customer for additional Compute Minutes
 2. GitLab Sales to submit an internal support ticket to request that the support team add minutes to the customer's instance to get the customer back online while the GitLab procurement cycle is completed. To submit an internal support ticket, use the Other> Other License & Renewals Related Issue request type, and provide as much information as possible in the request to help drive quick review and approval (e.g., customer is locked out and required to wait on our procurement cycle since they purchase via partner, needs additional minutes to get back online)
 
+**Important to Note**, The Support Team will not keep track nor remove any compute minutes, therefore GitLab Sales should request a modest amount of minutes to cover the time period necessary while waiting for the sale to process.
+
 </details>
