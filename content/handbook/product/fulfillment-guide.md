@@ -124,12 +124,12 @@ Please keep in mind:
 
 ## Temporary renewal extensions
 
-*Last updated on 2023-10-26.*
+*Last updated on 2024-01-17.*
 
 | Use Case | Status |
 |---|---|
-| Temporary extensions for **Self-Managed** renewals | Development of this feature is complete, [BETA rollout](#beta-rollout) is planned and pending enablement. |
-| Temporary extensions for **SaaS** renewals | Development not started. Discovery and planning in progress. |
+| Temporary extensions for **Self-Managed** renewals | Development of this feature is complete, [BETA](#beta-rollout) is in progress. |
+| Temporary extensions for **SaaS** renewals | Development of this feature is complete, and is included in [BETA](#beta-rollout) as of 2024-01-17. |
 
 In the event that a renewal process takes longer then intended (e.g. customer takes longer than average to sign renewal deal), customers run into a problem when their license expires at the subscription term end and they lose complete access to their GitLab instance (Self-managed or SaaS).
 
@@ -151,11 +151,16 @@ Please watch [this video](https://www.youtube.com/watch?v=ENRtOQ0DbkM) for an ov
 1. Click on `Request Temporary License` button. *If you are not part of the beta group, you will see an error message.*
 1. Temporary License form will load, and display the related OpportunityID and ZuoraSubscriptionID.
 1. Select `Reason` from the drop down, specify number of `Users` for the license, add optional `Notes`, then click `Next`.
+   1. If creating a temporary renewal extension for SaaS subscription, the number of `Users` is irrelevant - extension will be created for the same number of users as the current subscription.
 1. Once the extension is created, you will see a success message. Otherwise, you will see an [error message](add-link).
 1. Several updates happen for a successfully created temporary extension:
-   1. `Temporary License Extension End Date` field on the SFDC Renewal Opportunity is updated with a date (equal to subscription end date + 21 days).
+   1. Several fields on the SFDC Renewal Opportunity are updated:
+      1. `Temporary License Extension End Date` is updated with a date (equal to subscription end date + 21 days).
+      1. `Exempt Late Renewal Automation` is set to true.
+      1. `Late Renewal Exception Expiration Date` is updated with the same value as `Temporary License Extension End Date`.
    1. Temporary extension record appears on [CustomersDot Admin > Temporary Extensions page](https://customers.gitlab.com/admin/temporary_extension_history).
    1. For self-managed, a legacy trial license is created and can be accessed from the Temporary extension record in CustomersDot Admin.
+   1. For SaaS, the new temporary extension (once effective) is visible on the gitlab.com group billing page.
    1. An email is sent to the customer with the subject line `[GitLab Transactions] GitLab Temporary Renewal Extension`. For self-managed, a license key is included in the email.
       - This email is also sent to the Revenue Team, as well as copied to SFDC and displayed under Contact Activity.
    1. `Access temporarily extended until YYYY-MM-DD` badge is displayed on the related subscription in the [Customers Portal](https://docs.gitlab.com/ee/subscriptions/customers_portal.html).
@@ -168,6 +173,7 @@ Once the temporary renewal extension is created, the evidence of it can be seen 
 - [CustomersDot Admin > Temporary Extensions](https://customers.gitlab.com/admin/temporary_extension_history) page lists all of the temporary extensions.
 - Customer can see the `Access temporarily extended until YYYY-MM-DD` badge on the related subscription in the [Customers Portal](https://docs.gitlab.com/ee/subscriptions/customers_portal.html).
    - For self-managed, customer can download the license key and apply it to their instance.
+   - For SaaS, the new expiration date is automatically synced to gitlab.com.
 
 Once subscription is renewed, the `Access temporarily extended until YYYY-MM-DD` badge is removed. [This video](https://www.youtube.com/watch?v=cR6odsThHNY) shows what happens when the grace period of the temporary extension has elapsed, and subscription is renewed.
 
