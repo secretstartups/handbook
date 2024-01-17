@@ -552,7 +552,7 @@ Next Steps: SDR chatters the BDR Assigned and lets them know you didn't find act
  * **Is the Account in “Worked in FY” Status?**
     * **Yes:** It is worked by the SDR team
 * **Is the Account in “Restricted” Status?**
-    * **Yes:** It should be routed to the BDR assigned. The BDR assigned will chatter the SAE about whether they'd like them to reach out or whether they would like to own that responsibility. They'll have a certain window to respond (likely 24-48 hours depending on what JB says).
+    * **Yes:** It should be routed to the BDR assigned. The BDR assigned will chatter the SAE about whether they'd like them to reach out or whether they would like to own that responsibility. The AE should respond within 48 hours.
         * If they reply back that the BDR can work, the BDR will continue with the prospect as a lead record and take action.
         * If they reply back that they want to be responsible, the BDR will convert the lead so that it becomes a contact.
 
