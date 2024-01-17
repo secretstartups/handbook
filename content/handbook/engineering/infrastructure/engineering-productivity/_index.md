@@ -187,16 +187,16 @@ The Engineering Productivity team recently reviewed (2023-05-19) all our project
 
 The Engineering Productivity team creates metrics in the following sources to aid in operational reporting.
 
-- [Engineering Productivity Dashboard](https://app.periscopedata.com/app/gitlab/1115916/Engineering-Productivity-Dashboard)
-- [Quality Department KPIs](https://app.periscopedata.com/app/gitlab/516343/Quality-Department-KPIs)
-- [Broken Master Pipeline Root Cause Analysis](https://app.periscopedata.com/app/gitlab/1082465/Master-Broken-Incidents-Root-Cause-Analysis)
-- [Time to First Failure](https://app.periscopedata.com/app/gitlab/878780/Time-to-first-failure-(TtFF))
-- [Test Intelligence Accuracy](https://app.periscopedata.com/app/gitlab/1116767/Test-Intelligence-Accuracy)
-- [Engineering Productivity Pipeline Health](https://app.periscopedata.com/app/gitlab/564156/EP---Pipelines-health)
-- [Engineering Productivity Jobs Durations](https://app.periscopedata.com/app/gitlab/652085/Engineering-Productivity---Pipeline-Build-Durations)
-- [Engineering Productivity Package And QA Durations](https://app.periscopedata.com/app/gitlab/869271/Engineering-Productivity---Package-And-QA-Durations)
-- [Issue Triage Dashboard](https://app.periscopedata.com/app/gitlab/621211/EP---Issue-Triage)
-- [Engineering Productivity Sandbox](https://app.periscopedata.com/app/gitlab/496118/Engineering-Productivity-Sandbox)
+- [Engineering Productivity Collection](https://10az.online.tableau.com/#/site/gitlab/collections/fc447e0e-d368-4bc2-a8c6-ac782318ab96)
+- [Broken Master Pipeline Root Cause Analysis](https://10az.online.tableau.com/#/site/gitlab/workbooks/2296993/views)
+- [Time to First Failure](https://10az.online.tableau.com/#/site/gitlab/workbooks/2300061/views)
+- [Flaky test issues](https://10az.online.tableau.com/#/site/gitlab/workbooks/2283052/views)
+- [Test Intelligence Accuracy](https://app.periscopedata.com/app/gitlab/1116767/Test-Intelligence-Accuracy) ([to be replaced in Tableau](https://gitlab.com/gitlab-data/tableau/-/issues/337#note_1730309432))
+- [Engineering Productivity Pipeline Durations](https://10az.online.tableau.com/#/site/gitlab/workbooks/2312755/views)
+- [Engineering Productivity Jobs Durations](https://app.periscopedata.com/app/gitlab/652085/Engineering-Productivity---Pipeline-Build-Durations) ([to be replaced in Tableau](https://gitlab.com/gitlab-data/tableau/-/issues/305#note_1730230898))
+- [Engineering Productivity Package And QA Durations](https://app.periscopedata.com/app/gitlab/869271/Engineering-Productivity---Package-And-QA-Durations) (to be replaced in Tableau)
+- GDK - Jobs Durations ([to be replaced in Tableau](https://gitlab.com/gitlab-data/tableau/-/issues/253#note_1730258820))
+- [Issue Types Detail](https://10az.online.tableau.com/#/site/gitlab/workbooks/2203014/views)
 - [GitLab-Org Native Insights](https://gitlab.com/groups/gitlab-org/-/insights)
 - [Review Apps monitoring dashboard](https://app.google.stackdriver.com/dashboards/6798952013815386466?project=gitlab-review-apps)
 - Triage Reactive monitoring dashboards
