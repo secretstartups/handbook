@@ -1,25 +1,7 @@
 ---
-
 title: "Network Security Management Procedure"
+controlled_document: true
 ---
-
-
-
-
-
-
-
-
-
-<div class="panel panel-gitlab-orange">
-**This is a Controlled Document**
-{: .panel-heading}
-<div class="panel-body">
-
-Inline with GitLab's regulatory obligations, changes to [controlled documents](/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged.
-
-</div>
-</div>
 
 ## Purpose
 
@@ -179,9 +161,8 @@ much more detail.
 
 Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](/handbook/security/#information-security-policy-exception-management-process).
 
-
 ## References
-* Parent Policy: [Information Security Policy](/handbook/security/)
-* [Production Architecture](/handbook/engineering/infrastructure/production/architecture/)
-* [Encryption Policy](/handbook/security/threat-management/vulnerability-management/encryption-policy.html#encryption-in-transit)
 
+- Parent Policy: [Information Security Policy](/handbook/security/)
+- [Production Architecture](/handbook/engineering/infrastructure/production/architecture/)
+- [Encryption Policy](/handbook/security/threat-management/vulnerability-management/encryption-policy.html#encryption-in-transit)

@@ -1,12 +1,8 @@
 ---
-
 title: "Data Team Platform"
 description: "GitLab Data Team Platform"
+controlled_document: true
 ---
-
-{{% alert title="**This is a Controlled Document**" color="warning" %}}
-Inline with GitLab's regulatory obligations, changes to [controlled documents](/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged.
-{{% /alert %}}
 
 # Purpose
 
@@ -89,7 +85,7 @@ The following table indexes all of the RAW data sources we are loading into the 
 - Prep Schema: The schema in the `PREP` database where [source models](/handbook/business-technology/data-team/platform/dbt-guide/#source-models) are materialized.
 - Audience: The primary users of the data.
 - SLO: Service Level Objective. Our SLO is the time between real-time and the data made available for consumption.
-   - Technically, this means the time between when an entry is made in an upstream system and when the data is available in the Snowflake `PROD` layer (which includes transformations in dbt).  
+   - Technically, this means the time between when an entry is made in an upstream system and when the data is available in the Snowflake `PROD` layer (which includes transformations in dbt).
 - `x` indicates undefined or not run
 
 | [Data Source](/handbook/business-technology/data-team/platform/pipelines) | Pipeline | Raw Schema | Prep Schema | Audience | RF / SLO | MNPI | Tier |
@@ -186,7 +182,7 @@ Sisense's access is always explicitly granted.
 
 ### DataSiren
 
-To ensure that the data team has a complete picture of where sensitive data is in the data warehouse, as well as make sure Sisense does not have access to sensitive data, a periodic scan of the data warehouse is made using dbt along with the internally-developed library of tools created as [`datasiren`](https://gitlab.com/gitlab-data/datasiren). This scan is currently executed weekly. The fine-grained results are stored in Snowflake in the `PREP.DATASIREN` schema and are not available in Periscope because of sensitivity reasons.  High-level results have been made available in Periscope, including the simple dashboard found [here](https://app.periscopedata.com/app/gitlab/793578/DataSiren).  
+To ensure that the data team has a complete picture of where sensitive data is in the data warehouse, as well as make sure Sisense does not have access to sensitive data, a periodic scan of the data warehouse is made using dbt along with the internally-developed library of tools created as [`datasiren`](https://gitlab.com/gitlab-data/datasiren). This scan is currently executed weekly. The fine-grained results are stored in Snowflake in the `PREP.DATASIREN` schema and are not available in Periscope because of sensitivity reasons.  High-level results have been made available in Periscope, including the simple dashboard found [here](https://app.periscopedata.com/app/gitlab/793578/DataSiren).
 
 ### Snowplow Infrastructure
 
@@ -658,7 +654,7 @@ To create the external stage, the new path to the bucket must be included (inclu
 
 1. From the output, copy the value  under `property_value` where property=`STORAGE_ALLOWED_LOCATIONS`. It will look something like: `gcs://postgres_pipeline/,gcs://snowflake_backups,..`.
 1. Update the Storage Integration, instructions:
-    - take the 'current_paths' that you just copied and combine it with the 'new_path' that you want to add.  
+    - take the 'current_paths' that you just copied and combine it with the 'new_path' that you want to add.
         - Each path needs to be separated by a `,`
         - Each path needs to have it's own pair of  `''`, These need to be added manually
     - ALTER statement template:
@@ -671,7 +667,7 @@ To create the external stage, the new path to the bucket must be included (inclu
     - ALTER statement example:
 
         ```sql
-        ALTER STORAGE INTEGRATION GCS_INTEGRATION 
+        ALTER STORAGE INTEGRATION GCS_INTEGRATION
         SET STORAGE_ALLOWED_LOCATIONS= ('gcs://postgres_pipeline/','gcs://snowflake_backups','gcs://snowflake_exports');
         ```
 
@@ -855,10 +851,10 @@ The end user experience is described on the [UX Qualtrics page](/handbook/produc
 Attempting to reprocess a spreadsheet should usually be the first course of action when a spreadsheet has an error and there is no apparent issue with the request file itself.  Reprocessing has been necessary in the past when new GitLab plan names have been added to the `gitlab_api_formatted_contacts` dbt model, as well as when the Airflow task hangs when processing a file.  This process should only be performed with coordination or under request from the owner of the spreadsheet, to ensure that they are not using any partial mailing list created by the process, as well as not making any additional changes to the spreadsheet.
 
 To reprocess a Qualtrics Mailing List request file:
-    1. Disable the Qualtrics Sheetload DAG in Airflow.  
-    2. Delete any mailing lists in Qualtrics that have been created from the erroring spreadsheet.  You should be able to log into Qualtrics using the `Qualtrics - API user` credentials and delete the mailing list.  The mailing list's name corresponds to the name of the spreadsheet file after `qualtrics_mailing_list.`, which should also be the same as the name of the tab in the spreadsheet file.  
-    3. Edit cell A1 of the erroring file to be `id`.  
-    4. Enable the Qualtrics Sheetload DAG in Airflow again and let it run, closely monitoring the Airflow task log.  
+    1. Disable the Qualtrics Sheetload DAG in Airflow.
+    2. Delete any mailing lists in Qualtrics that have been created from the erroring spreadsheet.  You should be able to log into Qualtrics using the `Qualtrics - API user` credentials and delete the mailing list.  The mailing list's name corresponds to the name of the spreadsheet file after `qualtrics_mailing_list.`, which should also be the same as the name of the tab in the spreadsheet file.
+    3. Edit cell A1 of the erroring file to be `id`.
+    4. Enable the Qualtrics Sheetload DAG in Airflow again and let it run, closely monitoring the Airflow task log.
 
 ## <i class="fas fa-toggle-on" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>Data Spigot
 

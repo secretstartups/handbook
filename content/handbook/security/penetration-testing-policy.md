@@ -1,10 +1,7 @@
 ---
 title: "Penetration Testing Policy"
+controlled_document: true
 ---
-
-{{% alert title="This is a Controlled Document" color="danger" %}}
-Inline with GitLab's regulatory obligations, changes to [controlled documents]({{< ref "controlled-document-procedure" >}}) must be approved or merged by a code owner. All contributions are welcome and encouraged.
-{{% /alert %}}
 
 A penetration test is a process to identify security vulnerabilities in an application or infrastructure in order to evaluate the security of the system.
 
