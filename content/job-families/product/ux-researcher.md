@@ -174,22 +174,51 @@ Candidates for this position can expect the hiring process to follow the order b
 
 - The next step will be a 45-min meeting to cover some scenario-based questions where will look to understand how you handle common situations that UX Researchers find.
 
-- After that, we'll invite you to record a case study walkthrough video. The recording is expected to be **20-minutes in duration** and returned **within ten days** of the screening call. In addition to the details below, [this discussion on our GitLab Unfiltered YouTube playlist](https://youtu.be/VU2BKjGoer4) provides an overview of what we're looking for.
+- After that, we'll invite you to record a case study walkthrough video. The recording is expected to be **20-minutes in duration** and returned **within ten days** of the screening call. 
+
+*PLACEHOLDER FOR AN EMBEDED VIDEO FROM YOUTUBE GITLAB UNFILTERED CHANNEL*
+<details>
+<summary>Video script</summary>
+
+Hello, I'm Karen Li, the UX Research Manager @GitLab. Thank you for showing interest in working with us. 
+
+Our hiring process consists of multiple steps. This helps us best learn about you. And it's a great opportunity for you to learn about us too. 
+
+You can read all about the details of each steps on this page. But there are just a few things I'd like to highlight about the video task, which may be new to some people:
+
+1. The video task is probably the best, if not only, opportunity to dive really deep into how you approach research challenges. 
+1. The interviewers who watch your video will also have access to notes from your previous interview steps.
+1. This means you can keep the self intro to under 1 minute, and allow sufficient time to share the details of the research challenge, your thinking process, and your crafts and skills. 
+
+That's it. There are more on the video tasks in the section below. Once again, thank you for showing your interest, and all the best with your job application.
+
+</details>
+<br>
 
 > ### Why we ask for a pre-recorded presentation
 >
-> 1. It helps create a shared understanding of your work between you and our interviewers ahead of the first interview.
+> 1. It helps create a shared understanding of your work between you and our interviewers ahead of the first team interview.
 > 1. It allows us to ask more informed questions about your experience and work during the interview process.
 > 1. Generally, we [avoid using meetings as a means to present](/handbook/communication/#common-meeting-problems). Instead, we record presentations, upload to our Unfiltered Youtube channel, and use a meeting as a Q&A. This interview exercise provides you with an opportunity to experience this style of work.
 >
 > ### Presentation Topics
->
-> 1. An introduction: who you are, where you're based, your background, and why you're a UX Researcher.
-> 1. An overview of one *or* two research studies. We want to understand: why you chose to present this case study, the size, discipline make-up, and structure of the team you were a part of; the goals of the project; how you approached research; what you personally did on the project, how you synthesized research data to inform product and design decisions; the final output of your research; the challenges you faced throughout the project; and the meaningful business impact that the research resulted in.
+> [This short discussion on our GitLab Unfiltered YouTube playlist](https://youtu.be/VU2BKjGoer4) provides an overview of the topics we'd love to see covered. 
+> 1. A short introduction: who you are, where you're based, your background, and why you're a UX Researcher.
+> 1. An overview of one *or* two research studies. We want to understand: 
+>    - What the research questions are *or* the problems the research aims to address; 
+>    - Why you chose to present this case study;
+>    - The size and the structure of the team (e.g. how many Project Managerss, UX Designers, Developers, UX Researchers);
+>    - What your role was, meaning what you personally did or did not do on the project; 
+>    - How you approached research, why, any why not approaching it some other ways; 
+>    - How you synthesized research data to inform product and design decisions; 
+>    - The final output of your research; 
+>    - The challenges you faced throughout the project and how you overcomed them; 
+>    - Any high-level findings that you can share while respecting any confidentiality rules in place; 
+>    - The meaningful business and cultural impact that the research resulted in.
 >
 > ### What we're looking for
 >
-> - A recording that is up to 20 minutes in duration and returned to us within ten days of your screening call being completed.
+> - A recording that is up to 20 minutes in duration and returned to us within ten days of your screening call and scenario-based interview being completed.
 > - Ideally, one case study you present should be relevant to the work you'd expect do at GitLab. This could be because the case study involved research into the [persona(s)](/handbook/product/personas/#user-personas) you'd study at GitLab, the case study related to the DevOps or Developer tooling industry, the case study relates to the [Stage](/handbook/product/categories/#devops-stages) you're interviewing for, is a case study that went across multiple methods, or was a case study that would be considered complex in nature. Note that at GitLab, UX Researchers at any level are working on [problem validation](/handbook/engineering/ux/ux-research-training/problem-validation-and-methods/), [foundational](/handbook/product/ux/ux-research/foundational-research/) or [strategic](/handbook/product/ux/ux-research/strategic-research-at-gitlab/) research projects, while Product Designers conduct solution validation. We'd like to see a case study that is of problem validation, foundational, or strategic nature.
 > - You share the recording using either a [unlisted Youtube link](https://support.google.com/youtube/answer/157177?co=GENIE.Platform%3DDesktop&hl=en), a [Google Drive link](https://support.google.com/drive/answer/2494822?co=GENIE.Platform%3DDesktop&hl=en), or a [Loom link](https://www.loom.com/).
 > - Your presentation to address each of the topics listed above.
