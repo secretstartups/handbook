@@ -263,6 +263,7 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [Githost Migration]({{< ref "githost-migration" >}})
 1. [GitLab Administration]({{< ref "administration" >}})
 1. [GitLab.com Cost]({{< ref "gitlab-com-cost" >}})
+1. [GitLab Dedicated]({{< ref "gitlab-dedicated" >}})
 1. [GitLab.com Revenue]({{< ref "gitlab-com-revenue" >}})
 1. [gitlab-ui (CSS and Components)]({{< ref "gitlab-ui" >}})
 1. [GTM Product Analytics]({{< ref "product-analytics-gtm" >}})
