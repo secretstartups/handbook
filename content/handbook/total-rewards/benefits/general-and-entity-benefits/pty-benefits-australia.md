@@ -379,7 +379,7 @@ GitLab retains the right to replace the provider or policy at any time and is no
 
 For additional details please refer to the [FAQ](https://drive.google.com/file/d/1Sd2DpIAf7kgl_A5au0VIUYdRuOZ1ZdJx/view?usp=sharing) and [Benefit Summary](https://drive.google.com/file/d/17WUPQMvvWka77Khe6_adSOiSbibNY3GC/view?usp=sharing)
 
-For questions regarding the plan or enrollment please contact WTW: 
+For questions regarding the plan or enrollment please contact WTW:
 email: benefits.nz@willistowerswatson.com
 telephone: 0800 329 920
 
