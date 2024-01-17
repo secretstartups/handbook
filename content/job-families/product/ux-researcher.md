@@ -202,7 +202,7 @@ That's it. There are more on the video tasks in the section below. Once again, t
 > 1. Generally, we [avoid using meetings as a means to present](/handbook/communication/#common-meeting-problems). Instead, we record presentations, upload to our Unfiltered Youtube channel, and use a meeting as a Q&A. This interview exercise provides you with an opportunity to experience this style of work.
 >
 > ### Presentation Topics
-
+>
 > [This short discussion on our GitLab Unfiltered YouTube playlist](https://youtu.be/VU2BKjGoer4) provides an overview of the topics we'd love to see covered.
 > 1. A short introduction: who you are, where you're based, your background, and why you're a UX Researcher.
 > 1. An overview of one *or* two research studies. We want to understand:
