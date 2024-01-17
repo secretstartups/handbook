@@ -4,7 +4,7 @@ description: >-
   GitLab follows a series of steps and exercises to discover and develop job canvases from basic assumptions all the way to validated and ranked outcomes and opportunities.
 ---
 
-How we conduct JTBD research at GitLab follows a process closely mirroring the [JTBD Playbook by Jim Kalbach](hhttps://www.amazon.com/Jobs-Be-Done-Playbook-Organization/dp/1933820683). The playbook takes teams from basic assumptions all the way to a list of ranked outcomes that your customers care about the most. Going through this process can be hugely beneficial for a team and we have done a lot of the heavy lifting for you. It is **highly recommended** to have a UX Researcher, or someone knowledgeable in JTBD practice, as the DRI to drive this effort for your team. 
+How we conduct JTBD research at GitLab follows a process closely mirroring the [JTBD Playbook by Jim Kalbach](https://www.amazon.com/Jobs-Be-Done-Playbook-Organization/dp/1933820683). The playbook takes teams from basic assumptions all the way to a list of ranked outcomes that your customers care about the most. Going through this process can be hugely beneficial for a team. These handbook pages and the resources they link to provide you with a solid foundation of JTBD knowlesge and a self-serve way to conduct JTBD research. However, if you have access to a UX Researcher or someone knowledgeable in JTBD practice, it's a good idea to have that person as the DRI to drive this effort for your team. 
 
 Use this playbook to complete your JTBD canvases. For more information on each part of the canvas, refer to [anatomy of a JTBD canvas](handbook/product/ux/jobs-to-be-done/#anatomy-of-a-jtbd-canvas).  
 
@@ -55,7 +55,7 @@ Example of main outcome statements for a main job of ‘Review Code’:
 ![JTBD main outcomes](JTBD_Outcomes.png)
 
 
-Example of micro-jobs and outcome statements for a main job of ‘Review Code’:
+Example of [micro-jobs](handbook/product/ux/jobs-to-be-done/#micro-jobs) and outcome statements for a main job of ‘Review Code’:
 
 ![JTBD micro-jobs and outcome statements](JTBD_MicroJobs_OutcomeStatements.png)
 
