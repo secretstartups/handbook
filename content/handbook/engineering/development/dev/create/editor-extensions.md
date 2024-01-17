@@ -95,6 +95,16 @@ to track the relative [priority of issues](/handbook/product/product-processes/#
 Separately, the technical writer for this group also triages open issues for potential documentation and UI text changes,
 and follows the Technical Writing [triage process](/handbook/product/ux/technical-writing/workflow/#documentation-feedback-and-improvements). After review, each issue receives the `~tw::triaged` label.
 
+### Estimates
+
+We use three weights to give a rough estimate of the issue's complexity. The weight represents a time estimate:
+
+- `1` - day or two of effort
+- `2` - week of effort
+- `3` - week and a half of effort
+
+Everything above weight `3` should be a spike that will result in one or more issues with estimated weight.
+
 ### Temporary silos
 
 Our team owns several projects, written in different languages (Typescript, Kotlin, C#, Lua) and targeting different platforms.
