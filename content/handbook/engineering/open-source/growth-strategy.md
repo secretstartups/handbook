@@ -37,7 +37,7 @@ flowchart LR
   style scaleCommunity color:#6b4fbb, stroke:#9370DB
   click improveVelocity "./#improve-contribution-velocity" _self
   click increaseValue "./#increase-contribution-value" _self
-  click fosterDiversity "./#foster-diversity-equity-inclusion" _self
+  click fosterDiversity "./#foster-diversity-equity-and-inclusion" _self
   click expandOutreach "./#expand-outreach" _self
   click scaleCommunity "./#scale-the-community" _self
  ```
