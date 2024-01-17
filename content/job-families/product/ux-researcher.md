@@ -174,21 +174,21 @@ Candidates for this position can expect the hiring process to follow the order b
 
 - The next step will be a 45-min meeting to cover some scenario-based questions where will look to understand how you handle common situations that UX Researchers find.
 
-- After that, we'll invite you to record a case study walkthrough video. The recording is expected to be **20-minutes in duration** and returned **within ten days** of the screening call.
+- After that, we'll invite you to record a case study walkthrough video. The recording is expected to be **20-minutes in duration** and returned **within ten days** of your screening call and scenario-based interview being completed.
 
 *PLACEHOLDER FOR AN EMBEDED VIDEO FROM YOUTUBE GITLAB UNFILTERED CHANNEL*
 <details>
 <summary>Video transcript</summary>
 
-Hello, I'm Karen Li, the UX Research Manager @GitLab. Thank you for showing interest in working with us.
+Hello, I'm Karen Li, the UX Research Manager at GitLab. Thank you for showing interest in working with us.
 
 Our hiring process consists of multiple steps. This helps us best learn about you. And it's a great opportunity for you to learn about us too.
 
-You can read all about the details of each steps on this page. But there are just a few things I'd like to highlight about the video task, which may be new to some people:
+You can read all about the details of each steps on this page. But there are just a few things I'd like to highlight about the video task, which may be new to some candidates:
 
-1. Firstly, the video task is probably the best, if not only, opportunity to dive really deep into how you approach research challenges, so choose your case study wisely. It could be foundational, strategic, or problem validation that's complex in nature, anything you are pround of.
-1. Secondly, the interviewers who watch your video will also have access to notes from your previous interview steps. This means you can keep the self intro to under 1 minute, and allow sufficient time to share the details of the research challenge, your thinking process, and your crafts and skills.
-1. And finally, make sure to read all sections below, before structuring your video content. We've listed a set of topics that we are interetesd in. But anything else you'd like to share is welcome too. Just make sure to keep the length of the video to 20 minutes.
+1. Firstly, the video task is probably the best (if not only) opportunity to dive really deep into how you approach research challenges, so choose your case study wisely. It could be foundational, strategic, or problem validation that's complex in nature, anything you are pround of.
+1. Secondly, the video task interviewers will also have access to notes from your previous interview steps. This means you can keep the self introduction to under 1 minute, and allow sufficient time to share the details of the research challenge, your thinking process, and your crafts and skills.
+1. And finally, make sure to read all sections below, before constructing your video. We have listed a set of topics that we are interested in below. But anything else you'd like to share is welcome too. Just make sure to keep the length of the video to 20 minutes.
 
 Once again, thank you for showing your interest, and all the best with your job application.
 
