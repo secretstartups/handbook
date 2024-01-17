@@ -178,17 +178,17 @@ Candidates for this position can expect the hiring process to follow the order b
 
 *PLACEHOLDER FOR AN EMBEDED VIDEO FROM YOUTUBE GITLAB UNFILTERED CHANNEL*
 <details>
-<summary>Video script</summary>
+<summary>Video transcript</summary>
 
-Hello, I'm Karen Li, the UX Research Manager @GitLab. Thank you for showing interest in working with us. 
+Hello, I'm Karen Li, the UX Research Manager @GitLab. Thank you for showing interest in working with us.
 
-Our hiring process consists of multiple steps. This helps us best learn about you. And it's a great opportunity for you to learn about us too. 
+Our hiring process consists of multiple steps. This helps us best learn about you. And it's a great opportunity for you to learn about us too.
 
 You can read all about the details of each steps on this page. But there are just a few things I'd like to highlight about the video task, which may be new to some people:
 
-1. The video task is probably the best, if not only, opportunity to dive really deep into how you approach research challenges. 
+1. The video task is probably the best, if not only, opportunity to dive really deep into how you approach research challenges.
 1. The interviewers who watch your video will also have access to notes from your previous interview steps.
-1. This means you can keep the self intro to under 1 minute, and allow sufficient time to share the details of the research challenge, your thinking process, and your crafts and skills. 
+1. This means you can keep the self intro to under 1 minute, and allow sufficient time to share the details of the research challenge, your thinking process, and your crafts and skills.
 
 That's it. There are more on the video tasks in the section below. Once again, thank you for showing your interest, and all the best with your job application.
 
@@ -202,18 +202,18 @@ That's it. There are more on the video tasks in the section below. Once again, t
 > 1. Generally, we [avoid using meetings as a means to present](/handbook/communication/#common-meeting-problems). Instead, we record presentations, upload to our Unfiltered Youtube channel, and use a meeting as a Q&A. This interview exercise provides you with an opportunity to experience this style of work.
 >
 > ### Presentation Topics
-> [This short discussion on our GitLab Unfiltered YouTube playlist](https://youtu.be/VU2BKjGoer4) provides an overview of the topics we'd love to see covered. 
+> [This short discussion on our GitLab Unfiltered YouTube playlist](https://youtu.be/VU2BKjGoer4) provides an overview of the topics we'd love to see covered.
 > 1. A short introduction: who you are, where you're based, your background, and why you're a UX Researcher.
-> 1. An overview of one *or* two research studies. We want to understand: 
->    - What the research questions are *or* the problems the research aims to address; 
+> 1. An overview of one *or* two research studies. We want to understand:
+>    - What the research questions are *or* the problems the research aims to address;
 >    - Why you chose to present this case study;
 >    - The size and the structure of the team (e.g. how many Project Managerss, UX Designers, Developers, UX Researchers);
->    - What your role was, meaning what you personally did or did not do on the project; 
->    - How you approached research, why, any why not approaching it some other ways; 
->    - How you synthesized research data to inform product and design decisions; 
->    - The final output of your research; 
->    - The challenges you faced throughout the project and how you overcomed them; 
->    - Any high-level findings that you can share while respecting any confidentiality rules in place; 
+>    - What your role was, meaning what you personally did or did not do on the project;
+>    - How you approached research, why, any why not approaching it some other ways;
+>    - How you synthesized research data to inform product and design decisions;
+>    - The final output of your research;
+>    - The challenges you faced throughout the project and how you overcomed them;
+>    - Any high-level findings that you can share while respecting any confidentiality rules in place;
 >    - The meaningful business and cultural impact that the research resulted in.
 >
 > ### What we're looking for
