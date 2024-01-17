@@ -116,7 +116,6 @@
 /content/handbook/engineering/development/dev/ @timzallmann
 /content/handbook/engineering/development/dev/training/ic-to-manager.md @dsatcher
 /content/handbook/engineering/development/dev/create/ @dsatcher
-/content/handbook/engineering/development/dev/code-creation/ @mnohr
 /content/handbook/engineering/development/dev/create/ide/ @oregand
 /content/handbook/engineering/development/dev/plan/plan-fe/ @donaldcook @timzallmann @johnhope
 /content/handbook/engineering/development/dev/manage/ @wortschi @m_gill @mksionek
@@ -411,7 +410,6 @@
 /content/job-families/product/product-management-leadership.md @david @hbenson @mflouton @justinfarris
 /content/job-families/product/product-manager.md @david @justinfarris @hbenson @mflouton @joshlambert @fzimmer @jreporter @ofernandez2
 /content/job-families/product/ @david @vkarnes @mflouton @justinfarris @hbenson
-/content/handbook/product/fulfillment-guide/ @ofernandez2
 
 ^[sales]
 /content/handbook/resellers/ @ecepulis
@@ -585,9 +583,9 @@
 
 [ide-configs]
 /.editorconfig @gitlab-com/handbook
+/.idea/ @gitlab-com/handbook
 /.nova/ @gitlab-com/handbook
 /.vscode/ @gitlab-com/handbook
-/.idea/ @gitlab-com/handbook
 
 # This is the controlled documents section where approval from a CODEOWNER is always required
 # Please make sure that  @gitlab-com/handbook and  @gitlab-com/egroup groups are part of all
@@ -599,16 +597,15 @@
 /content/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/ @rrea1 @pkaldis @NabithaRao @ericrubin @mbeee @gitlab-com/egroup @gitlab-com/handbook
 /content/handbook/business-technology/end-user-services/self-help-troubleshooting/ @rrea1 @pkaldis @NabithaRao @ericrubin @mbeee @gitlab-com/egroup @gitlab-com/handbook
 /content/handbook/business-technology/gitlab-business-continuity-plan.md @brobins @cmestel @NabithaRao @gitlab-com/egroup @gitlab-com/handbook
-/content/handbook/engineering/infrastructure/change-management.md @marin @meks @joergheilig
-/content/handbook/engineering/infrastructure/database/disaster-recovery.md @marin @meks
-/content/handbook/engineering/infrastructure/network-security.md @marin @meks
-/content/handbook/engineering/infrastructure/production/_index.md @marin @meks
-/content/handbook/engineering/infrastructure/production/architecture/ @marin @meks
+/content/handbook/engineering/infrastructure/change-management.md @marin @meks @joergheilig @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/engineering/infrastructure/database/disaster-recovery.md @marin @meks @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/engineering/infrastructure/network-security.md @marin @meks @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/engineering/infrastructure/production/_index.md @marin @meks @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/engineering/infrastructure/production/architecture/ @marin @meks @gitlab-com/egroup @gitlab-com/handbook
 /content/handbook/finance/expenses.md @brobins @gitlab-com/egroup @gitlab-com/handbook
 /content/handbook/it/policies/access-level-wristbands/index.md @rrea1 @pkaldis @NabithaRao @ericrubin @mbeee @gitlab-com/egroup @gitlab-com/handbook
 /content/handbook/legal/anti-retaliation-policy.md @robin @gitlab-com/egroup @gitlab-com/handbook
 /content/handbook/legal/privacy/dpia-policy.md @robin @gitlab-com/egroup @gitlab-com/handbook
-/content/handbook/legal/whistleblowing.md @robin @gitlab-com/egroup @gitlab-com/handbook
 /content/handbook/people-group/acceptable-use-policy.md @wendybarnes @akramer @emilyplotkin @pegan @gitlab-com/egroup @gitlab-com/handbook
 /content/handbook/people-group/offboarding/offboarding_standards.md @wendybarnes @mpatel8 @gitlab-com/egroup @gitlab-com/handbook
 /content/handbook/people-policies/_index.md @cgudgenov @emilyplotkin @pegan @wendybarnes @gitlab-com/egroup @gitlab-com/handbook

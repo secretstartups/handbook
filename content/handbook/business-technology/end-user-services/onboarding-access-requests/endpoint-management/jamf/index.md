@@ -1,16 +1,8 @@
 ---
-
+controlled_document: true
 title: "Endpoint Management - Jamf"
 description: "Endpoint Management - Jamf: endpoint management, configuration, patching, asset inventory, endpoint policies, hardware health"
 ---
-
-
-
-
-
-
-
-# Jamf endpoint management technology
 
 ## What is Jamf?
 
@@ -58,7 +50,7 @@ Slack: [#it-help](https://gitlab.slack.com/archives/CK4EQH50E)
 ## Enrolling in Jamf
 
 - ### **NOTE: Before enrolling please upgrade your MacBook OS to macOS Sonoma.**
-- **[Check if your laptop is already enrolled](https://handbook.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/jamf/#check-if-jamf-was-installed-on-a-new-mac-automatically) before continuing. Re-enrollment of a managed device will result in it becoming unmanaged. If you received a laptop from GitLab and live in USA, Canada, Australia, or most of Europe, it is likely that your device is already enrolled. If you have a question about whether is enrolled, please ask in #it_help.** 
+- **[Check if your laptop is already enrolled](https://handbook.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/jamf/#check-if-jamf-was-installed-on-a-new-mac-automatically) before continuing. Re-enrollment of a managed device will result in it becoming unmanaged. If you received a laptop from GitLab and live in USA, Canada, Australia, or most of Europe, it is likely that your device is already enrolled. If you have a question about whether is enrolled, please ask in #it_help.**
 
 To install Jamf on your Mac hardware device, you will need to launch the **Chrome browser** and navigate to <https://gitlab.jamfcloud.com/enroll>.
 

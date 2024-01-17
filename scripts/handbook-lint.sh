@@ -47,6 +47,7 @@ if [[ $MISSING_FILE_ENTRY != "" ]]; then
 else
   printf "%b" " ${green}${bold}Success.${normal}\n"
 fi
+rm /tmp/CODEOWNERS
 
 printf "%b" "${bold}Checking for duplicate CODEOWNER entries...${normal}"
 cat .gitlab/CODEOWNERS | sed "/\[*\]/d" | sed "/^#/d" | sed '/^[[:space:]]*$/d' | sed "/^*/d" | sed "s/[[:space:]].*//" | sed "s~^/~./~" > /tmp/CODEOWNERS
@@ -81,6 +82,7 @@ if [[ $DUPLICATE_ENTRIES != "" ]]; then
 else
   printf "%b" " ${green}${bold}Success.${normal}\n"
 fi
+rm /tmp/CODEOWNERS
 
 BROKEN_OWNERSHIP=""
 sed -n '/^.*\[Controlled-Documents\]/,$p' .gitlab/CODEOWNERS | sed "/\[*\]/d" | sed "/^#/d" | sed '/^[[:space:]]*$/d' | sed "/^*/d" > /tmp/CODEOWNERS
@@ -105,7 +107,7 @@ $markdownlinjson
     "location": {
       "path": ".gitlab/CODEOWNERS",
       "lines": {
-        "begin": 1
+        "begin": $line
       }
     }
   }
@@ -118,14 +120,20 @@ if [[ $BROKEN_OWNERSHIP != "" ]]; then
 else
   printf "%b" " ${green}${bold}Success.${normal}\n"
 fi
-
+rm /tmp/CODEOWNERS
 
 FM_MISSING_FILES=""
 printf "%b" "${bold}Checking for missing controlled document entries in CODEOWNERS...${normal}"
 sed -n '/^.*\[Controlled-Documents\]/,$p' .gitlab/CODEOWNERS | tail -n +2 > /tmp/CODEOWNERS
+sed -n '/^.*\[Controlled-Documents\]/,$p' .gitlab/CODEOWNERS | sed "/\[*\]/d" | sed "/^#/d" | sed '/^[[:space:]]*$/d' | sed "/^*/d" | sed "s/[[:space:]].*//" > /tmp/CODEOWNERS-files
 for f in $(grep -Irl "controlled_document: true" content | sed -e "s|./content/handbook/|/content/handbook/|g"); do
-    if ! grep -q $f /tmp/CODEOWNERS; then
-        if ! grep -q "$(dirname $f)/ @" /tmp/CODEOWNERS; then
+  FOUND=false
+  while read FILE; do
+    if echo "/$f" | grep -q $FILE; then
+      FOUND=true
+    fi
+  done < /tmp/CODEOWNERS-files
+    if [[ $FOUND == "false" ]]; then
             ERROR_FOUND=true
             FM_MISSING_FILES="$FM_MISSING_FILES- $f\n"
             fingerprint=$(sha256sum $f | cut -d " " -f 1)
@@ -149,7 +157,6 @@ $markdownlinjson
   }
 ]
 EOF
-        fi
     fi
 done
 if [[ $FM_MISSING_FILES != "" ]]; then
@@ -157,6 +164,7 @@ if [[ $FM_MISSING_FILES != "" ]]; then
 else
   printf "%b" " ${green}${bold}Success.${normal}\n"
 fi
+rm /tmp/CODEOWNERS
 
 printf "%b" "${bold}Checking for Controlled Documents that don't identify as such...${normal}"
 CO_MISSING_FILES=""
@@ -194,6 +202,7 @@ if [[ $CO_MISSING_FILES != "" ]]; then
 else
   printf "%b" " ${green}${bold}Success.${normal}\n"
 fi
+rm /tmp/CODEOWNERS
 
 if [[ $ERROR_FOUND == "true" ]]; then
   printf "%b" "\n${bold}${red}Linting Failed!${normal}${bold} - There are a number of isses with CODEOWNERS and/on Controlled Documents.${normal}\n\n"

@@ -1,6 +1,6 @@
 ---
 title: "Business Continuity Plan"
-
+controlled_document: true
 ---
 
 ## Purpose

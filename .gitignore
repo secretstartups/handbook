@@ -6,7 +6,6 @@
 
 .DS_Store
 .hugo_build.lock
-/.idea
 /resources
 /public
 /node_modules
