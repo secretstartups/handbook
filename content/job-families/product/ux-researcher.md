@@ -182,7 +182,7 @@ Candidates for this position can expect the hiring process to follow the order b
 
 Hello, I'm Karen Li, the UX Research Manager at GitLab. Thank you for showing interest in working with us.
 
-Our hiring process consists of multiple steps. This helps us best learn about you. And it's a great opportunity for you to learn about us too.
+Our hiring process consists of multiple steps. This helps us best learn about you. And it's a great opportunity for you to learn about us, too.
 
 You can read all about the details of each steps on this page. But there are just a few things I'd like to highlight about the video task, which may be new to some candidates:
 
