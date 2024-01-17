@@ -1,13 +1,8 @@
 ---
 title: "Security Change Management Procedure"
 description: "Change management procedure for the Security Division."
+controlled_document: true
 ---
-
-<link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
-
-{{% alert title="This is a Controlled Document" color="danger" %}}
-Inline with GitLab's regulatory obligations, changes to [controlled documents]({{< ref "controlled-document-procedure" >}}) must be approved or merged by a code owner. All contributions are welcome and encouraged.
-{{% /alert %}}
 
 ## Purpose
 

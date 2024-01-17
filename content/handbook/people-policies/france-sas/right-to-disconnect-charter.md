@@ -1,11 +1,8 @@
 ---
 title: "GitLab France S.A.S. Right to Disconnect Charter"
 description: GitLab France S.A.S. Right to Disconnect Charter - French and English language versions.
+controlled_document: true
 ---
-
-{{% alert title="This is a Controlled Document" color="danger" %}}
-Inline with GitLab's regulatory obligations, changes to [controlled documents]({{< ref "controlled-document-procedure" >}}) must be approved or merged by a code owner. All contributions are welcome and encouraged.
-{{% /alert %}}
 
 ## Français: GITLAB FRANCE S.A.S. CHARTE SUR LE DROIT À LA DÉCONNEXION
 

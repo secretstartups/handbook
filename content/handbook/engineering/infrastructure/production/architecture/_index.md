@@ -1,30 +1,11 @@
 ---
-
 title: "Production Architecture"
+controlled_document: true
 ---
-
 
 Our GitLab.com core infrastructure is primarily hosted in Google Cloud Platform's (GCP) `us-east1` region (see [Regions and Zones](https://cloud.google.com/compute/docs/regions-zones/)).
 
 This document does not cover servers that are not integral to the public facing operations of GitLab.com.
-
-
-
-
-
-
-
-
-
-<div class="panel panel-gitlab-orange">
-**This is a Controlled Document**
-{: .panel-heading}
-<div class="panel-body">
-
-Inline with GitLab's regulatory obligations, changes to [controlled documents](/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged.
-
-</div>
-</div>
 
 ## Purpose
 
@@ -58,11 +39,9 @@ The compute and network layout that runs GitLab.com
 - [version.gitlab.com Architecture](supporting-architecture.html#version-gitlab-com)
 
 
-### Current Architecture
-{: #infra-current-archi-diagram}
+### Current Architecture {#infra-current-archi-diagram}
 
-#### GitLab.com Production Architecture
-{: #gitlab-com-architecture}
+#### GitLab.com Production Architecture {#gitlab-com-architecture}
 
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vShfNY5bxtjAsYq-YBDAJAnyjBuxN0i62NoDvbmhvDVOrCas20_Q4XA8Qxm1D2v0mmemP9y-rDsRQFe/pub?w=669&h=551">
 
@@ -72,15 +51,15 @@ Most of GitLab.com is deployed on Kubernetes using  [GitLab cloud native helm
 chart](https://docs.gitlab.com/charts/). There are a few exceptions for this
 which are mainly the datastore services like `PostgresSQL`, `Gitaly`, `Redis`, `Elasticsearch`.
 
-##### Cluster Configuration
-{: #cluster-configuration }
+##### Cluster Configuration {#cluster-configuration }
 
 GitLab.com uses 4 Kubernetes clusters for production with similarly configured clusters for staging.
 One cluster is a Regional cluster in the `us-east1` region, and the remaining three are zonal clusters that correspond to GCP availability zones `us-east1-b`, `us-east1-c` and `us-east1-d`.
 The reasons for having multiple clusters are as follows:
-* Ensure that high-bandwidth services do not send network traffic across zones.
-* Isolation of workloads
-* Isolation of maintenance changes and upgrades to the clusters
+
+- Ensure that high-bandwidth services do not send network traffic across zones.
+- Isolation of workloads
+- Isolation of maintenance changes and upgrades to the clusters
 
 For more information on why we chose to split traffic into multiple zonal clusters see [this issue exploring alternatives to the single regional cluster](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/1150).
 A single regional cluster is also used for services like Sidekiq and Kas that do not have a high bandwidth requirement and services that are a better fit for a regional deployment.
@@ -88,11 +67,12 @@ A single regional cluster is also used for services like Sidekiq and Kas that do
 In keeping with GitLab's value of transparency, all of the Kubernetes cluster configuration for GitLab.com is public, including infrastructure and configuration.
 
 The following projects are used to manage the installation:
-* [k8s-workloads/gitlab-com](https://gitlab.com/gitlab-com/gl-infra/k8s-workloads/gitlab-com): Contains the GitLab.com configuration for the [GitLab helm chart](https://gitlab.com/gitlab-org/charts/gitlab).
-* [k8s-workloads/gitlab-helmfiles](https://gitlab.com/gitlab-com/gl-infra/k8s-workloads/gitlab-helmfiles/): Contains the configuration cluster logging, monitoring and integrations like PlantUML.
-* [k8s-workloads/tanka-deployments](https://gitlab.com/gitlab-com/gl-infra/k8s-workloads/tanka-deployments): Contains the configuration for Thanos, Jaeger and other services not directly related to the GitLab application.
-* [config-mgmt](https://gitlab.com/gitlab-com/gl-infra/config-mgmt): Terraform configuration for the cluster, all resources necessary to run the cluster are configured here including the cluster, node pools, service accounts and IP address reservations.
-* [charts](https://gitlab.com/gitlab-com/gl-infra/charts): Charts created by the infrastructure department to deploy services that don't have community charts.
+
+- [k8s-workloads/gitlab-com](https://gitlab.com/gitlab-com/gl-infra/k8s-workloads/gitlab-com): Contains the GitLab.com configuration for the [GitLab helm chart](https://gitlab.com/gitlab-org/charts/gitlab).
+- [k8s-workloads/gitlab-helmfiles](https://gitlab.com/gitlab-com/gl-infra/k8s-workloads/gitlab-helmfiles/): Contains the configuration cluster logging, monitoring and integrations like PlantUML.
+- [k8s-workloads/tanka-deployments](https://gitlab.com/gitlab-com/gl-infra/k8s-workloads/tanka-deployments): Contains the configuration for Thanos, Jaeger and other services not directly related to the GitLab application.
+- [config-mgmt](https://gitlab.com/gitlab-com/gl-infra/config-mgmt): Terraform configuration for the cluster, all resources necessary to run the cluster are configured here including the cluster, node pools, service accounts and IP address reservations.
+- [charts](https://gitlab.com/gitlab-com/gl-infra/charts): Charts created by the infrastructure department to deploy services that don't have community charts.
 
 All inbound web, git http, and git ssh requests are received at Cloudflare which has HAProxy as an origin. For Sidekiq, multiple pods are configured for Sidekiq cluster to divide Sidekiq queues into different resource groups. See the [chart documention for Sidekiq](https://docs.gitlab.com/charts/charts/gitlab/sidekiq/) for more details.
 
@@ -220,4 +200,5 @@ See how it's doing, for more information on that, visit the [monitoring handbook
 Exceptions to this architecture policy and design will be tracked in the [compliance issue tracker](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/compliance/-/issues/).
 
 ## References
-* Parent Policy: [Information Security Policy](/handbook/security/)
+
+- Parent Policy: [Information Security Policy](/handbook/security/)

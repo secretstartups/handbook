@@ -160,14 +160,13 @@ deploy s3:
 
 markdownlint:
   image:
-    name: davidanson/markdownlint-cli2:v0.11.0
+    name: davidanson/markdownlint-cli2:latest
     entrypoint: ["/bin/sh", "-c"]
   stage: test
   needs: []
   before_script:
     - npm install markdownlint-cli2-formatter-codequality markdownlint-cli2-formatter-pretty
   script:
-    - ./scripts/lint-custom.sh
     - markdownlint-cli2 "content/**/*.md"
   rules:
     - <<: *security-scanning-rules
@@ -179,6 +178,28 @@ markdownlint:
     reports:
       codequality: markdownlint-cli2-codequality.json
 
+handbooklint:
+  image:
+    name: gitlab/glab
+    entrypoint: ["/bin/sh", "-c"]
+  stage: test
+  needs: []
+  before_script:
+    - apk update
+    - apk upgrade
+    - apk add jq sed bash
+  script:
+    - bash ./scripts/handbook-lint.sh
+  rules:
+    - <<: *security-scanning-rules
+  artifacts:
+    when: always
+    expire_in: 1 month
+    paths:
+      - handbook-codequality.json.json
+    reports:
+      codequality: handbook-codequality.json.json
+
 ####################################
 ##
 ## NOTIFY STAGE
@@ -186,7 +207,7 @@ markdownlint:
 ####################################
 
 post_comment_on_failure:
-  needs: ["markdownlint"]
+  needs: ["markdownlint", "handbooklint"]
   when: on_failure
   stage: notify
   image:
