@@ -213,7 +213,7 @@ Once again, thank you for showing your interest, and all the best with your job 
 >    - How and why you took the approach you did to field the research (and why not other approaches);
 >    - How you synthesized the research data to inform product and design decisions;
 >    - The final output of your research;
->    - The challenges you faced throughout the project and how you overcomed them;
+>    - The challenges you faced throughout the project and how you overcame them;
 >    - Any high-level findings that you can share while respecting any confidentiality rules in place;
 >    - The meaningful business and cultural impact that the research resulted in.
 >
