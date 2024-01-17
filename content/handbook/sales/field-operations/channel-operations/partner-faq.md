@@ -317,6 +317,8 @@ The partner that received the GitLab invoice (i.e., Distributor for two-tier dea
 **Important to note**, the GitLab Sales Rep cannot change the end user contact post-sale on behalf of the partner or customer. The request to change the end user contact must either be submitted by the (i) partner that received the GitLab invoice as outlined above or (ii) customer contact listed on the final GitLab quote (i.e., the person that received the license).
 
 </details>
+
+</details>
 <summary markdown="span">
 The customer received an error stating they are out of Compute Minutes so their instance has stopped working. How can I quickly resolve this?
 </summary>
