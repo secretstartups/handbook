@@ -396,7 +396,7 @@ Request approval from your VP via SFDC chatter to provide an offline or legacy l
 
 </details>
 
-</details>
+<details>
 <summary markdown="span">
 The customer received an error stating they are out of Compute Minutes so their instance has stopped working. How can I quickly resolve this?
 </summary>
