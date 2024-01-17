@@ -211,7 +211,7 @@ Once again, thank you for showing your interest, and all the best with your job 
 >    - The size and the structure of the team (e.g. how many Project Managerss, UX Designers, Developers, UX Researchers);
 >    - What your role was, meaning what you personally did or did not do on the project;
 >    - How and why you took the approach you did to field the research (and why not other approaches);
->    - How you synthesized research data to inform product and design decisions;
+>    - How you synthesized the research data to inform product and design decisions;
 >    - The final output of your research;
 >    - The challenges you faced throughout the project and how you overcomed them;
 >    - Any high-level findings that you can share while respecting any confidentiality rules in place;
