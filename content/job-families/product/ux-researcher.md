@@ -210,7 +210,7 @@ Once again, thank you for showing your interest, and all the best with your job 
 >    - Why you chose to present this case study;
 >    - The size and the structure of the team (e.g. how many Project Managerss, UX Designers, Developers, UX Researchers);
 >    - What your role was, meaning what you personally did or did not do on the project;
->    - How you approached research, why, any why not approaching it some other ways;
+>    - How and why you took the approach you did to field the research (and why not other approaches);
 >    - How you synthesized research data to inform product and design decisions;
 >    - The final output of your research;
 >    - The challenges you faced throughout the project and how you overcomed them;
