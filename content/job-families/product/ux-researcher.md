@@ -186,11 +186,11 @@ Our hiring process consists of multiple steps. This helps us best learn about yo
 
 You can read all about the details of each steps on this page. But there are just a few things I'd like to highlight about the video task, which may be new to some people:
 
-1. The video task is probably the best, if not only, opportunity to dive really deep into how you approach research challenges.
-1. The interviewers who watch your video will also have access to notes from your previous interview steps.
-1. This means you can keep the self intro to under 1 minute, and allow sufficient time to share the details of the research challenge, your thinking process, and your crafts and skills.
+1. Firstly, the video task is probably the best, if not only, opportunity to dive really deep into how you approach research challenges, so choose your case study wisely. It could be foundational, strategic, or problem validation that's complex in nature, anything you are pround of.
+1. Secondly, the interviewers who watch your video will also have access to notes from your previous interview steps. This means you can keep the self intro to under 1 minute, and allow sufficient time to share the details of the research challenge, your thinking process, and your crafts and skills.
+1. And finally, make sure to read all sections below, before structuring your video content. We've listed a set of topics that we are interetesd in. But anything else you'd like to share is welcome too. Just make sure to keep the length of the video to 20 minutes.
 
-That's it. There are more on the video tasks in the section below. Once again, thank you for showing your interest, and all the best with your job application.
+Once again, thank you for showing your interest, and all the best with your job application.
 
 </details>
 <br>
