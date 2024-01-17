@@ -174,7 +174,7 @@ Candidates for this position can expect the hiring process to follow the order b
 
 - The next step will be a 45-min meeting to cover some scenario-based questions where will look to understand how you handle common situations that UX Researchers find.
 
-- After that, we'll invite you to record a case study walkthrough video. The recording is expected to be **20-minutes in duration** and returned **within ten days** of the screening call. 
+- After that, we'll invite you to record a case study walkthrough video. The recording is expected to be **20-minutes in duration** and returned **within ten days** of the screening call.
 
 *PLACEHOLDER FOR AN EMBEDED VIDEO FROM YOUTUBE GITLAB UNFILTERED CHANNEL*
 <details>
@@ -202,6 +202,7 @@ That's it. There are more on the video tasks in the section below. Once again, t
 > 1. Generally, we [avoid using meetings as a means to present](/handbook/communication/#common-meeting-problems). Instead, we record presentations, upload to our Unfiltered Youtube channel, and use a meeting as a Q&A. This interview exercise provides you with an opportunity to experience this style of work.
 >
 > ### Presentation Topics
+
 > [This short discussion on our GitLab Unfiltered YouTube playlist](https://youtu.be/VU2BKjGoer4) provides an overview of the topics we'd love to see covered.
 > 1. A short introduction: who you are, where you're based, your background, and why you're a UX Researcher.
 > 1. An overview of one *or* two research studies. We want to understand:
