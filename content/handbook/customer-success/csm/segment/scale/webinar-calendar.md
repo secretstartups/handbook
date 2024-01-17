@@ -21,13 +21,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### AMER Time Zone Webinars & Labs
 
-#### Intro to CI/CD
-##### January 16th, 2024 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
-
-Come learn about what CI/CD is and how it can benefit your team. We will cover an overview of CI/CD and what it looks like in GitLab. We will also cover how to get started with your first CI/CD pipeline in GitLab and the basics of GitLab Runners.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_soWVm-TSQdOsqfBxI-s56g#/registration)
-
 #### Hands-On GitLab CI Lab for Jenkins Users
 ##### January 17th, 2023 at 9:00-11:00AM Pacific Time / 12:00-2:00PM Eastern Time
 
@@ -87,13 +80,6 @@ Join us for a hands-on GitLab AI lab where we will explore Artificial Intelligen
 
 
 ### EMEA Time Zone Webinars & Labs
-
-#### Intro to CI/CD
-##### January 16th, 2024 at 10:00-11:00AM UTC / 11:00AM-12:00PM CET
-
-Come learn about what CI/CD is and how it can benefit your team. We will cover an overview of CI/CD and what it looks like in GitLab. We will also cover how to get started with your first CI/CD pipeline in GitLab and the basics of GitLab Runners.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_AYMxhTVTQ1KOdF3Oivx1aQ#/registration)
 
 #### Hands-On GitLab CI Lab for Jenkins Users
 ##### January 17th, 2023 at 10:00AM-12:00PM UTC / 11:00AM-1:00PM CET
