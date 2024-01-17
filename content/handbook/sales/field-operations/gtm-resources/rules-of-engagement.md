@@ -56,6 +56,13 @@ Additional information on Trade Compliance can be found on the [Legal HB Page fo
 
 The data sources used to properly segment and route an account are defined and explained in the [Account Demographics](https://docs.google.com/document/d/1UaKPTQePAU1RxtGSVb-BujdKiPVoepevrRh8q5bvbBg/edit#bookmark=id.thpuid9gpo74) section of the handbook. If the data tools have failed to provide employee count and/or address information, the account segment and/or territory will remain Unknown until resolved through manual research and a link to a reputable data is provided to the Sales Operations team to confirm. Follow the process to request changes to the Account Demographics inputs if the account information is missing or wrong. If the employee count is unknown or blank and manual research cannot confirm, Sales Operations will mark the account as SMB with a placeholder of -1 employees in order to get a Territory to populate and assign the account to an account rep. Any disputes must follow the exception process below.
 
+**Accepted Data Sources**:
+- ZoomInfo or another data enrichment provider
+- Verbal/Written confirmation from the customer
+- Company Website and/or SEC filing
+- LinkedIn - not as accurate as it is based on people who have put on their LinkedIn that they work at a certain company and this is not something that is verified.
+- **Not accepted**: Wikipedia
+
 #### Qualifying Accounts
 
 - Account Executives (AE) are responsible for validating that accounts assigned to them in SFDC are accurately segmented. A reasonable effort should be made to check employee count, Account hierarchy, and Headquarters location.
