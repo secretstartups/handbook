@@ -318,7 +318,7 @@ The partner that received the GitLab invoice (i.e., Distributor for two-tier dea
 
 </details>
 
-</details>
+<details>
 <summary markdown="span">
 The customer received an error stating they are out of Compute Minutes so their instance has stopped working. How can I quickly resolve this?
 </summary>
