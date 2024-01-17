@@ -162,6 +162,12 @@ Team Members may also be eligible for Ireland's [Illness Benefit](https://www.ci
 
 **Paternity Leave:** All team members who qualify as [“relevant parents”](https://www.citizensinformation.ie/en/employment/employment_rights_and_conditions/leave_and_holidays/paternity_leave.html) can take up to 2 consecutive weeks of Paternity Leave, taken within the first 6 months following the birth/adoption.
 
+Relevant parents can take paternity leave. These are:
+
+    - The father of the child
+    - The partner (spouse, civil partner or cohabitant) of the mother of the child
+    - The parent of a donor-conceived child
+
 **Parent’s Leave:** All team members who qualify as [“relevant parents”](https://www.citizensinformation.ie/en/employment/employment_rights_and_conditions/leave_and_holidays/parents_leave.html) can take up to 7 weeks of Parent's Leave during the first 2 years of their child's life, or within 2 years of the adoption event. Leave may be taken in one continuous period, or in several periods of not less than one week.
 
 **Parental Leave:** All team members who qualify as [“relevant parents”](https://www.citizensinformation.ie/en/employment/employment_rights_and_conditions/leave_and_holidays/parental_leave.html) can take up to 26 weeks of unpaid Parental Leave.
