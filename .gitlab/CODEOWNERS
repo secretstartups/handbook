@@ -50,7 +50,6 @@
 ^[READMEs]
 /content/handbook/ceo/chief-of-staff-team/readmes/dtuan.md @dtuan
 /content/handbook/ceo/chief-of-staff-team/readmes/yyugitlab.md @yyugitlab
-/content/handbook/ceo/chief-of-staff-team/readmes/dlangemak.md @dlangemak
 /content/handbook/ceo/chief-of-staff-team/readmes/ipedowitz.md @ipedowitz
 /content/handbook/ceo/chief-of-staff-team/readmes/streas.md @streas
 
@@ -592,48 +591,54 @@
 # Please make sure that  @gitlab-com/handbook and  @gitlab-com/egroup groups are part of all
 # controlled documents entries.
 [Controlled-Documents]
-/content/handbook/people-group/acceptable-use-policy.md @wendybarnes @akramer @emilyplotkin @pegan @gitlab-com/egroup @gitlab-com/handbook
-/content/handbook/security/access-management-policy.md @joshlemos @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
-/content/handbook/security/security-assurance/security-compliance/access-reviews.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
-/content/handbook/security/security-engineering/application-security/vulnerability-management.md @joshlemos @jritchey @gitlab-com/egroup @gitlab-com/handbook
-/content/handbook/security/audit-logging-policy.md @joshlemos @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
-/content/handbook/business-technology/gitlab-business-continuity-plan.md @brobins @cmestel @NabithaRao @gitlab-com/egroup @gitlab-com/handbook
-/content/handbook/security/security-assurance/security-risk/storm-program/business-impact-analysis.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
-/content/handbook/security/controlled-document-procedure.md @joshlemos @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
-/content/handbook/security/cryptographic-standard.md @joshlemos @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
-/content/handbook/security/data-classification-standard.md @joshlemos @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
-/content/handbook/legal/privacy/dpia-policy.md @robin @gitlab-com/egroup @gitlab-com/handbook
 /content/handbook/business-technology/data-team/data-management.md @amiebright @dvanrooijen2 @iweeks @nmcavinue @gitlab-com/egroup @gitlab-com/handbook
 /content/handbook/business-technology/data-team/platform/_index.md @amiebright @dvanrooijen2 @iweeks @gitlab-com/egroup @gitlab-com/handbook
-/content/handbook/security/threat-management/vulnerability-management/encryption-policy.md @smanzuik @estrike @gitlab-com/egroup @gitlab-com/handbook
-/content/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/ @rrea1 @pkaldis @NabithaRao @ericrubin @mbeee @gitlab-com/egroup @gitlab-com/handbook
-/content/handbook/security/security-assurance/security-compliance/security-control-lifecycle.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
-/content/handbook/security/password-standard.md @joshlemos @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
-/content/handbook/security/isms.md @joshlemos @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
-/content/handbook/business-technology/end-user-services/self-help-troubleshooting/ @rrea1 @pkaldis @NabithaRao @ericrubin @mbeee @gitlab-com/egroup @gitlab-com/handbook
 /content/handbook/business-technology/end-user-services/onboarding-access-requests/ @rrea1 @pkaldis @NabithaRao @ericrubin @mbeee @gitlab-com/egroup @gitlab-com/handbook
-/content/handbook/people-group/offboarding/offboarding_standards.md @wendybarnes @mpatel8 @gitlab-com/egroup @gitlab-com/handbook
-/content/handbook/security/penetration-testing-policy.md @joshlemos @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
-/content/handbook/people-policies/ @cgudgenov @emilyplotkin @pegan @wendybarnes @gitlab-com/egroup @gitlab-com/handbook
-/content/handbook/security/records-retention-deletion.md @joshlemos @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
-/content/handbook/security/security-assurance/security-risk/storm-program/ @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
-/content/handbook/security/security-change-management-procedure.md @joshlemos @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
-/content/handbook/security/security-assurance/observation-management-procedure.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
-/content/handbook/security/security-assurance/observation-remediation-procedure.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
-/content/handbook/security/security-operations/sirt/security-incident-communication-plan.md @joshlemos @jfuentes2 @gitlab-com/egroup @gitlab-com/handbook
-/content/handbook/security/security-operations/sirt/sec-incident-response.md @joshlemos @jfuentes2 @gitlab-com/egroup @gitlab-com/handbook
-/content/handbook/security/security-operations/secops-oncall.md @joshlemos @jlongo_gitlab @jfuentes2 @gitlab-com/egroup @gitlab-com/handbook
-/content/handbook/security/security-assurance/governance/sec-training.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
-/content/handbook/security/security-assurance/security-risk/third-party-risk-management.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
-/content/handbook/security/token-management-standard.md @joshlemos @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
-/content/handbook/security/threat-management/vulnerability-management/ @smanzuik @estrike @gitlab-com/egroup @gitlab-com/handbook
-/content/handbook/security/change-management-policy.md @joshlemos @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
-/content/handbook/finance/expenses.md @brobins @gitlab-com/egroup @gitlab-com/handbook
-/content/handbook/security/security-assurance/dedicated-compliance/poam-deviation-request-procedure.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
-/content/handbook/security/security-assurance/control-health-effectiveness-rating.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
-/content/handbook/engineering/infrastructure/production/_index.md @marin @meks
+/content/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/ @rrea1 @pkaldis @NabithaRao @ericrubin @mbeee @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/business-technology/end-user-services/self-help-troubleshooting/ @rrea1 @pkaldis @NabithaRao @ericrubin @mbeee @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/business-technology/gitlab-business-continuity-plan.md @brobins @cmestel @NabithaRao @gitlab-com/egroup @gitlab-com/handbook
 /content/handbook/engineering/infrastructure/change-management.md @marin @meks @joergheilig
 /content/handbook/engineering/infrastructure/database/disaster-recovery.md @marin @meks
 /content/handbook/engineering/infrastructure/network-security.md @marin @meks
+/content/handbook/engineering/infrastructure/production/_index.md @marin @meks
 /content/handbook/engineering/infrastructure/production/architecture/ @marin @meks
+/content/handbook/finance/expenses.md @brobins @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/it/policies/access-level-wristbands/index.md @rrea1 @pkaldis @NabithaRao @ericrubin @mbeee @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/legal/anti-retaliation-policy.md @robin @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/legal/privacy/dpia-policy.md @robin @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/legal/whistleblowing.md @robin @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/people-group/acceptable-use-policy.md @wendybarnes @akramer @emilyplotkin @pegan @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/people-group/offboarding/offboarding_standards.md @wendybarnes @mpatel8 @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/people-policies/_index.md @cgudgenov @emilyplotkin @pegan @wendybarnes @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/people-policies/ireland-ltd/ @cgudgenov @emilyplotkin @pegan @wendybarnes @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/people-policies/france-sas/ @cgudgenov @emilyplotkin @pegan @wendybarnes @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/access-management-policy.md @joshlemos @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/audit-logging-policy.md @joshlemos @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/change-management-policy.md @joshlemos @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/controlled-document-procedure.md @joshlemos @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/cryptographic-standard.md @joshlemos @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/data-classification-standard.md @joshlemos @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/isms.md @joshlemos @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/password-standard.md @joshlemos @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/penetration-testing-policy.md @joshlemos @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
 /content/handbook/security/physical-security-standard-for-company-assets.md @joshlemos @jlongo_gitlab @plafoucriere @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/records-retention-deletion.md @joshlemos @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/security-assurance/system-risk-score.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/security-assurance/control-health-effectiveness-rating.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/security-assurance/dedicated-compliance/poam-deviation-request-procedure.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/security-assurance/governance/sec-training.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/security-assurance/observation-management-procedure.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/security-assurance/observation-remediation-procedure.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/security-assurance/security-compliance/access-reviews.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/security-assurance/security-compliance/security-control-lifecycle.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/security-assurance/security-risk/storm-program/ @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/security-assurance/security-risk/storm-program/business-impact-analysis.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/security-assurance/security-risk/third-party-risk-management.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/security-change-management-procedure.md @joshlemos @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/security-engineering/application-security/vulnerability-management.md @joshlemos @jritchey @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/security-operations/secops-oncall.md @joshlemos @jlongo_gitlab @jfuentes2 @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/security-operations/sirt/sec-incident-response.md @joshlemos @jfuentes2 @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/security-operations/sirt/security-incident-communication-plan.md @joshlemos @jfuentes2 @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/threat-management/vulnerability-management/ @smanzuik @estrike @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/threat-management/vulnerability-management/encryption-policy.md @smanzuik @estrike @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/token-management-standard.md @joshlemos @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook

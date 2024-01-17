@@ -1,31 +1,11 @@
 ---
-
 title: "Business Continuity Plan"
+
 ---
-
-
-
-
-
-
-
-
-
-<div class="panel panel-gitlab-orange">
-**This is a Controlled Document**
-{: .panel-heading}
-<div class="panel-body">
-
-Inline with GitLab's regulatory obligations, changes to [controlled documents](/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged.
-
-</div>
-</div>
 
 ## Purpose
 
 Business Continuity Plan is the process involved in creating a system of prevention and recovery from potential threats to GitLab. The plan ensures that personnel and assets are protected and are able to function quickly in the event of a disaster.
-
-
 
 ## Scope
 
@@ -180,13 +160,13 @@ Some testing scenarios that can be performed, are given below:
     - Data is mission-critical and losing it can have many serious consequences, such as significantly impacting sales and logistics applications.
     - The goal is to regain access to that data as soon as possible. Restoring backup is the solution. However, who’s responsible for that? What’s the communication plan in this case? What are the priorities? Who needs to be contacted right away? Are there any vendors involved? These and many other questions will be answered during this test.
 
-2. Data Recovery Testing
+1. Data Recovery Testing
 
     - This testing scenario, is used to make sure that the backup and recovery  systems work as intended. To prove that, run a test that involves losing a bulk of data, and then try to recover it.
     - Some of the elements to be evaluated include the RTO, and whether the team met its objectives.
     - Also make note of, if there were any damage to the files during recovery? Was the backup stored in the cloud, recovered successfully and on time.
 
-3. Emergency Communication
+1. Emergency Communication
 
     - Being able to communicate during a disaster or an emergency is crucial. Yet, the most disruptive events can leave with no traditional means of staying in contact.
     - For these scenarios, the BC plan needs to outline the actions to be taken. An alternate mode of communication should be tested for its reliability and efficiency, for a company like GitLab which has team members all around the globe.

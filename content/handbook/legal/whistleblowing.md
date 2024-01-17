@@ -1,11 +1,8 @@
 ---
 title: Whistleblowing at GitLab
 description: "GitLab's Whistleblowing HB page, with links to whistleblowing polcies"
+controlled_document: true
 ---
-
-{{% alert title="This is a Controlled Document" color="danger" %}}
-Inline with GitLab's regulatory obligations, changes to [controlled documents]({{< ref "controlled-document-procedure" >}}) must be approved or merged by a code owner. All contributions are welcome and encouraged.
-{{% /alert %}}
 
 Whistleblowing at GitLab
 {.h1}

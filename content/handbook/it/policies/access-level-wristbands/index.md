@@ -1,11 +1,8 @@
 ---
 title: "Access Level Wristband Colors"
 description: "We provision different levels of access to systems at GitLab based on your role and user type. Our Access Level Categories, also referred to as wristband colors (BLUE, PURPLE, BROWN, BLACK), provide an easy color reference of which level of access each account has, and allows us to easily audit and manage controls and processes for each category."
+controlled_document: true
 ---
-
-{{< panel header="**This is a Controlled Document**" header-color="white" header-bg="danger" >}}
-Inline with GitLab's regulatory obligations, changes to <a href="https://about.gitlab.com/handbook/security/controlled-document-procedure.html">controlled documents</a> must be approved or merged by a code owner. All contributions are welcome and encouraged.
-{{< /panel >}}
 
 ## Purpose
 
