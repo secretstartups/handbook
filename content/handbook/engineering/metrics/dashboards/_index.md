@@ -2,9 +2,9 @@
 title: "Engineering Metrics Dashboards"
 ---
 
-### How to navigate the dashboards
+### Welcome
 
-Welcome to our Engineering Metrics Dashboards hub – your go-to spot for checking out how things are rolling across our engineering org. The dashboards below capture data on key metrics such as past due issues, merge request types, open bugs, review time, merge request rate, and the age of bugs and issues. These metrics serve as vital indicators, offering a granular understanding of our development processes, code quality, and team efficiency. To ensure the accuracy of the presented data, please use the appropriate **'Group'**, **'Section'**, or **'Stage'** filter. Please reach out to us in #g_engineering_analytics if you have any questions!
+Welcome to our Engineering Metrics Dashboards hub – your go-to spot for checking out how things are rolling across our engineering org. The dashboards below capture data on key metrics such as past due issues, merge request types, open bugs, review time, merge request rate, and the age of bugs and issues. These metrics serve as vital indicators, offering a granular understanding of our development processes, code quality, and team efficiency. Please reach out to us in #g_engineering_analytics if you have any questions!
 
 #### Dashboards
 
@@ -16,6 +16,21 @@ This page is populated from the following filterable dashboards.
 - [Quality Embedded Dashboard](https://app.periscopedata.com/app/gitlab/736012/Quality-Embedded-Dashboard)
 - [Infrastructure Embedded Dashboard](https://app.periscopedata.com/app/gitlab/798401/Infrastructure-Embedded-Dashboard)
 - [Security Embedded Dashboard](https://app.periscopedata.com/app/gitlab/758795/Appsec-Embedded-Dashboard)
+
+#### Filtering your data
+To ensure the accuracy of the presented data, please use the convenient filtering options (**'Group'**, **'Section'**, or **'Stage'**) at the top of the dashboard to tailor the displayed information to your group, section, or stage's metrics.
+
+#### Save your settings
+
+If you find yourself frequently accessing data specific to your group, section, or stage, we recommend embedding the following code to save your preferred settings.
+
+```
+{{< tableau src="https://10az.online.tableau.com/t/gitlab/views/TopEngineeringMetrics_16989570521080/TopEngineeringMetricsDashboard" >}}
+  {{< tableau/filters "stage"="Create" >}}
+{{< /tableau >}}
+```
+
+Simply copy and paste this code into your page. It will save your selected filters by defaulting to your own data without the need to manually set filters each time. Make sure to replace any placeholders in the code with the public dashboard URL and your actual group, section, or stage details.
 
 ### Top Engineering Metrics Dashboard
 
