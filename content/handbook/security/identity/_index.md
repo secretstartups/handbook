@@ -28,7 +28,7 @@ The Identity Team has three functional specialties and collaborates cross-functi
 
 ## Mission
 
-GitLab is one of the stewards of the world’s source code and intellectual property. Our mission is to ensure that customer and product data is protected and industry trust is preserved.
+GitLab is one of the stewards of the world’s source code and intellectual property. Our mission is to ensure that internal and administrative access to customer and product data is protected and industry trust is preserved.
 
 Our work focuses on restricting and securing access to GitLab's internal data and systems based on "need to know" and least privilege security principles to prevent data leakage or data loss. 
 
