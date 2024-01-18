@@ -26,28 +26,22 @@ CI Catalog GA Epic: [https://gitlab.com/groups/gitlab-org/-/epics/12153](https:/
 
 - Improve the UX for the CI/CD catalog
   - [Sort component by GitLab-maintained components](https://gitlab.com/gitlab-org/gitlab/-/issues/437897) 
-  - [Fix Markdown not rendering in CI/CD Catalog](https://gitlab.com/gitlab-org/gitlab/-/issues/431899)
+  - [Fix Markdown not rendering in CI/CD Catalog](https://gitlab.com/gitlab-org/gitlab/-/issues/431899) (Complete)
 - Implement additional telemetry
-  - [Number of time a single component had been used](https://gitlab.com/gitlab-org/gitlab/-/issues/434333)
+  - [Spike issue](https://gitlab.com/gitlab-org/gitlab/-/issues/438409) to investigate how to component usage can be tracked.
+  - [Number of times a single component had been used](https://gitlab.com/gitlab-org/gitlab/-/issues/434333)
 - [Enforce semantic versioning](https://gitlab.com/gitlab-org/gitlab/-/issues/427286)
 - [Spike issue](https://gitlab.com/gitlab-org/gitlab/-/issues/434260) to distributed components for Self managed customers
 - Support CI interpolation with arrays
-  - [CI interpolation with arrays](https://gitlab.com/gitlab-org/gitlab/-/issues/407176) upon the completion of [Implement text interpolation](https://gitlab.com/gitlab-org/gitlab/-/issues/433002)
+  - [Implement text interpolation](https://gitlab.com/gitlab-org/gitlab/-/issues/433002)
+  - [CI interpolation with arrays](https://gitlab.com/gitlab-org/gitlab/-/issues/407176)
 - Helper efforts for components
   - [Provide components as helpers to test other components](https://gitlab.com/gitlab-org/gitlab/-/issues/430818)
-  - Complete [components toolkit to test GitLab-maintained components](https://gitlab.com/gitlab-org/gitlab/-/issues/432772)
+  - [Components toolkit to test GitLab-maintained components](https://gitlab.com/gitlab-org/gitlab/-/issues/432772) (Complete)
 
-#### Updates:
+#### Blockers:
 
-[Create reusable components for the CI Catalog](https://gitlab.com/groups/gitlab-org/-/epics/12066)
-- 100% complete of the list noted in [https://gitlab.com/groups/gitlab-org/-/epics/12066#note_1666060424](https://gitlab.com/groups/gitlab-org/-/epics/12066#note_1666060424)
-- Work in Progress:
-  - [Migrate GitLab-maintained templates to components](https://gitlab.com/groups/gitlab-org/-/epics/12289#list)
-  - [Creation of component helpers for future contributions to CI Components](https://gitlab.com/gitlab-org/gitlab/-/issues/430818)
-  - [How to maintain/review contributions and manage group ownership of GitLab maintained components](https://gitlab.com/gitlab-org/gitlab/-/issues/432768)
-
-- Risks/Blockers:
-  - Getting alignment on [direction](https://gitlab.com/groups/gitlab-org/-/epics/12289#note_1712718380) for AWS ECS/EC2 templates migrations.
+- Waiting on Product [confirmation](https://gitlab.com/gitlab-org/gitlab/-/issues/427286#note_1731326686) to discard released date sorting with semantic versioning coming soon.
 
 ### Milestone 16.10 (February 10, 2024 - March 8, 2024)
 
