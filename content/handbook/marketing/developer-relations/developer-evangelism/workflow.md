@@ -495,9 +495,9 @@ If the CFP closed without submission, add the `CFP::Closed` label. In case the C
 
 ### Boards
 
-[Team General Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1565342?&label_name[]=dev-evangelism){:.btn .btn-purple-inv .btn-lg}
-[Team Activity Type Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/3811304?label_name[]=dev-evangelism){:.btn .btn-purple-inv .btn-lg}
-[CFP Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1616902?label_name[]=CFP){:.btn .btn-purple-inv .btn-lg}
+- [Team General Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1565342?&label_name[]=dev-evangelism)
+- [Team Activity Type Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/3811304?label_name[]=dev-evangelism)
+- [CFP Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1616902?label_name[]=CFP)
 
 ### Request budgets
 
