@@ -21,6 +21,10 @@ description: The Create:Code Review FE team is responsible for all frontend aspe
 
 # Team Members
 
+The following people are permanent members of the Create:Code Review FE Team:
+
+{{< team-by-manager-role "Frontend Engineering Manager(.*)Create:Code Review" >}}
+
 # Stable Counterparts
 
 # Core Responsibilities
@@ -38,12 +42,6 @@ The Create:Code Review FE team is responsible for all frontend aspects of the pr
 [group]: /handbook/product/categories/#code-review-group
 [stage]: /handbook/product/categories/#create-stage
 [lifecycle]: /handbook/product/categories/#devops-stages
-
-## Team Members
-
-The following people are permanent members of the Create:Code Review FE Team:
-
-{{< team-by-manager-role "Frontend Engineering Manager(.*)Create:Code Review" >}}
 
 ## Stable Counterparts
 
