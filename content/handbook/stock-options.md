@@ -52,7 +52,7 @@ Taxation of Ordinary Income - RSU - More Detail
 
 (You should always consult with your own tax advisor concerning how holding periods, capital gains and losses, and your personal circumstances may affect your taxes, and before taking any action that may have tax consequences.  Your actual taxes paid will vary depending on your personal circumstances. )
 
-Please note that all tax withholding is based on tax rates from provided by Baker McKenzie - You can find our current Tax Matrix [here](https://drive.google.com/file/d/13deasDMvCiXcInQOFvORM6cKNazim7pz/view?usp=drive_link)
+Please note that all tax withholding is based on tax rates provided by Baker McKenzie - You can find our current Tax Matrix [here](https://drive.google.com/file/d/13deasDMvCiXcInQOFvORM6cKNazim7pz/view?usp=drive_link)
 
 ## Employee Stock Purchase Plan (“ESPP”)
 
