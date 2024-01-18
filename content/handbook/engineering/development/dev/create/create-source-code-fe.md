@@ -27,6 +27,10 @@ The following people are permanent members of the Create:Source Code FE Team:
 
 # Stable Counterparts
 
+The following members of other functional teams are our stable counterparts:
+
+{{< stable-counterparts manager-role="Engineering(.*)Manager(.*)Create:Source Code" role="[,&] \(Create(.*)|Create:Source Code|Create \(Source Code|Director(.*)Create|Principal(.*)Create|Group(.*)Create" >}}
+
 # Core Responsibilities
 
 # Projects
@@ -42,12 +46,6 @@ The Create:Source Code FE team is responsible for all frontend aspects of the pr
 [group]: /handbook/product/categories/#source-code-group
 [stage]: /handbook/product/categories/#create-stage
 [lifecycle]: /handbook/product/categories/#devops-stages
-
-## Stable Counterparts
-
-The following members of other functional teams are our stable counterparts:
-
-{{< stable-counterparts manager-role="Engineering(.*)Manager(.*)Create:Source Code" role="[,&] \(Create(.*)|Create:Source Code|Create \(Source Code|Director(.*)Create|Principal(.*)Create|Group(.*)Create" >}}
 
 ## Iteration
 
