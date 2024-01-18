@@ -3,6 +3,7 @@ title: Talent Acquisition Leadership
 ---
  
 ## Levels
+
 #### Associate Recruiting Manager
 
 ##### Job Grade
@@ -21,7 +22,7 @@ The Recruiting Lead is a [grade 7](/handbook/total-rewards/compensation/compensa
 - Stay connected to the competitive landscape, including trends in recruiting and compensation
 - Ensure that the teams maintain a high level of data integrity with our ATS and other people systems
 - Provide consistent training and best practices to the rest of the recruiting team
-- An active member of the Talent Acquisition Manager+ team, participating in leadership activities and owning key initiatives as a part of our 3 year strategy. 
+- An active member of the Talent Acquisition Manager+ team, participating in leadership activities and owning key initiatives as a part of our 3 year strategy.
 
 ##### Requirements
 
@@ -59,7 +60,7 @@ The Manager, Recruiting is a [grade 8](/handbook/total-rewards/compensation/comp
 ##### Requirements
 
 - Experience leading recruiting teams in fast paced, ambiguous environments
-- Experience setting goals and managing hiring forecasts with timely execution/delivery 
+- Experience setting goals and managing hiring forecasts with timely execution/delivery
 - Direct experience hiring for senior level roles within aligned functional area
 - Consistent track record with sourcing, recruiting, and closing extraordinary talent through utilizing recruitment best practices
 - You have experience leading a recruiting team and driving performance, job satisfaction, and accountability

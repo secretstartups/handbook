@@ -53,6 +53,7 @@ Associate recruiters share the similar requirements as the Intermediate recruite
 The Recruiter is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
+
 The Intermediate Recruiter creates a positive experience for candidates and hiring teams throughout the recruiting process. They are key contributers to identifying opportunities within GitLab's hiring processes, typically focuses on work within the scope of thier immediate team, and acts on strategic decisions to influence achievement of goals within their team. An Intermediate Recruiter typically holds anywhere from 8 to 15 requisitions per quarter, dependant on the complexity of thier area, and focuses on pipeline building and foundational excellence.
 
 - Collaborate with crossfunctional partners and hiring teams to establish effective recruiting strategies
@@ -164,6 +165,7 @@ The Principal Recruiter shares the same requirements as the Senior recruiter lis
 - Collaborate with other Recruiting leadership peers
 
 #### Emerging Talent
+
 - Own recruitment for 'Emerging Talent' Program (all internship and grade 5 hiring at GitLab).
 - Act as a business partner with all functions of leadership while also executing on programmatic elements of the Emergin Talent program.
 
