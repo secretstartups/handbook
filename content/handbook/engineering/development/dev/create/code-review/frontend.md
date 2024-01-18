@@ -3,6 +3,28 @@ title: "Create:Code Review FE Team"
 description: The Create:Code Review FE team is responsible for all frontend aspects of the product categories that fall under the Code Review group of the Create stage.
 ---
 
+# Common Links
+
+# Team Vision
+
+# Team Mission
+
+# Commonly Monitored Issue Lists
+
+# Team Members
+
+# Stable Counterparts
+
+# Core Responsibilities
+
+# Projects
+
+# Engineering Onboarding
+
+# Other related pages
+
+<!-- FY25 content above this line -->
+
 The Create:Code Review FE team is responsible for all frontend aspects of the product categories that fall under the [Code Review group][group] of the [Create stage][stage] of the [DevOps lifecycle][lifecycle].
 
 [group]: /handbook/product/categories/#code-review-group
