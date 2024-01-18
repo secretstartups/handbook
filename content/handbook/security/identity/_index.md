@@ -28,7 +28,9 @@ The Identity Team has three functional specialties and collaborates cross-functi
 
 ## Mission
 
-GitLab is one of the stewards of the world’s source code and intellectual property. Our mission is to secure access to GitLab's internal systems to ensure that customer and product data is protected and industry trust is preserved.
+GitLab is one of the stewards of the world’s source code and intellectual property. Our mission is to ensure that customer and product data is protected and industry trust is preserved.
+
+Our work focuses on restricting and securing access to GitLab's internal data and systems based on "need to know" and least privilege security principles to prevent data leakage or data loss. 
 
 We work cross-functionally to define infrastructure architecture, IAM/RBAC standards, and build automation to streamline access management across all internal control plane kingdoms.
 
@@ -38,7 +40,7 @@ Although the risks that we need to solve are confidential, we believe in open so
 
 **We are stronger and more secure together.**
 
-All of our open source projects can be explored at [https://gitlab.com/gitlab-identity](https://gitlab.com/gitlab-identity).
+Our Identity Platform open source projects can be explored at [https://gitlab.com/gitlab-identity](https://gitlab.com/gitlab-identity). Our team members also maintain side project packages that are useful dependencies and development helpers at [https://gitlab.com/provisionesta](https://gitlab.com/provisionesta).
 
 ## Tech Stack Kingdoms
 
@@ -108,7 +110,6 @@ The high level goal is that Okta IGA will provide an improved user experience fo
 #### Custom Code
 
 The Security department is leveraging vendors that specialize in this (ex. Okta, IGA solution, etc.), however no SaaS vendor has all of the features that we need. Due to the existential and security risks associated with IAM/RBAC, the Identity Security team is investing in in-house infrastructure and software engineering to build the automation and tools that we need for last mile automation to meet the challenges of the future, make GitLab easier to do business with internally, and unilaterally address our IAM and RBAC risks with a holistic approach by building an [Identity Platform](/handbook/security/identity/platform). It is not an all encompassing solution, it is a well architected library of scripts that allows us to use a modular approach to add scripts in that fill the gaps of what the vendors can’t solve.
-
 
 You can learn more about on the [Identity Platform handbook page](/handbook/security/identity/platform). The summary is that this is a collection of scripts that use [CI/CD pipeline jobs](/handbook/security/identity/platform/#cicd-pipeline-jobs) to parse [YAML policy files](https://gitlab.com/gitlab-com/gl-security/identity/data-poc/policies/-/tree/main/role/policies?ref_type=heads), generate [user manifests](https://gitlab.com/gitlab-com/gl-security/identity/data-poc/manifests/-/tree/main/accessctl/manifests/role?ref_type=heads), and use the [REST API](/handbook/security/identity/platform/#group-user-sync) for each respective vendor to check if the user belongs to the group, should be removed from the group, and sync the group members against our policy. See the full data flow for more details.
 
