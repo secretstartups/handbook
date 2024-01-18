@@ -498,3 +498,9 @@ See:
 
 The documentation website is refreshed every hour. On rare occasions, we might have to publish documentation
 updates a little faster. If you need an urgent update, follow the steps to [manually deploy the docs site](https://docs.gitlab.com/ee/development/documentation/site_architecture/deployment_process.html#manually-deploy-to-production).
+
+### Report a docs website problem or infrastructure issue
+
+Report website bugs or feature requests in the [issue queue for the Docs website](https://gitlab.com/gitlab-org/gitlab-docs/-/issues).
+
+For outages or website availability issues, see [Docs site infrastructure](https://gitlab.com/gitlab-org/gitlab-docs/-/blob/main/doc/infrastructure.md?ref_type=heads).
