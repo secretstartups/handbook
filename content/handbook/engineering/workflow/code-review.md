@@ -120,7 +120,8 @@ Tips:
 - Have at least 2 approvals from existing maintainers in order to merge the MR.
 
 Upon approval, the maintainer who merges the MR will:
-- Add the newly approved maintainer to the CI components maintainer group (`@gitlab-org/maintainers/ci-components`)
+- Add the newly approved maintainer to the CI components maintainer group (`@gitlab-org/maintainers/ci-components`).
+- Add the newly approved maintainer to the [`components`](https://gitlab.com/components) group (role: Maintainer).
 - Announce in [`#ci_components_maintainers`](https://gitlab.slack.com/archives/C06AQBJETRR) and post an update in the _Engineering Week-in-Review document_
 
 #### Project maintainer process for [`design.gitlab.com`](https://gitlab.com/gitlab-org/gitlab-services/design.gitlab.com) or [`gitlab-svgs`](https://gitlab.com/gitlab-org/gitlab-svgs)
