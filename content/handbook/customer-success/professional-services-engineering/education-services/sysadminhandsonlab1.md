@@ -1,9 +1,8 @@
 ---
-title: "GitLab System Administration Hands-on Guide: Lab 1"
+title: "GitLab System Administration - Hands-on Lab 1"
+
 description: "This hands-on lab guide is designed to walk you through the lab exercises used in the GitLab System Administration course."
 ---
-
-# GitLab System Administration Hands-on Guide: Lab 1
 
 > Estimated time to complete: 30 minutes
 

@@ -1,9 +1,7 @@
 ---
-title: "GitLab System Administration Hands-on Guide: Lab 7"
+title: "GitLab System Administration - Hands-on Lab 7"
 description: "This hands-on lab guide is designed to walk you through the lab exercises used in the GitLab System Administration course."
 ---
-
-# GitLab System Administration Hands-on Guide: Lab 7
 
 > Estimated time to complete: 30 minutes
 

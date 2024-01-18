@@ -1,9 +1,7 @@
 ---
-title: "GitLab System Administration Hands-on Guide: Lab 6"
+title: "GitLab System Administration - Hands-on Lab 6"
 description: "This hands-on lab guide is designed to walk you through the lab exercises used in the GitLab System Administration course."
 ---
-
-# GitLab System Administration Hands-on Guide: Lab 6
 
 ## Lab 6 - Manage GitLab Logs
 

@@ -1,10 +1,7 @@
 ---
-title: "GitLab System Administration Hands-on Guide: Lab 4"
+title: "title: "GitLab System Administration - Hands-on Lab 4"
 description: "This hands-on lab guide is designed to walk you through the lab exercises used in the GitLab System Administration course."
 ---
-
-# GitLab System Administration Hands-on Guide: Lab 4
-
 
 ## Lab 4 - Backup and Restore GitLab
 
