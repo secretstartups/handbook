@@ -115,7 +115,7 @@ Tips:
 
 - Review our [documentation and best practices for creating CI/CD components](https://docs.gitlab.com/ee/ci/components/).
 - Develop one or more components to familiarize yourself with the development process.
-- Create a merge request to add yourself as a CI/CD components maintainer. Be sure to cite references of the CI/CD components you developed.
+- Create a merge request and assign the merge request to your manager for you to be added as a CI/CD components maintainer. Be sure to cite references for the CI/CD components you have developed. (See [MR example](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/132498))
 - Ping the existing maintainers (`@gitlab-org/maintainers/ci-components`) in the MR for review and feedback.
 - Have at least 2 approvals from existing maintainers in order to merge the MR.
 
