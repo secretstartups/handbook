@@ -103,6 +103,24 @@ To gain access, please create:
 1. [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request). Use `GitLab Dedicated Logs (Production)` as the system.
 1. An issue in the [GitLab Dedicated tracker](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues/new?issuable_template=log_access_rotation) using the `Log rotation access` template.
 
+## Working across GitLab
+
+### Getting product fixes into GitLab Dedicated quicker
+
+NOTE:
+This section should be moved into the GitLab Dedicated incident management process page when it
+becomes available.
+
+Sometimes, a product fix is introduced to resolve a GitLab Dedicated incident or
+[customer escalation](#escalation-policy). There can be a significant delay between when the
+product fix is merged and when it is deployed to GitLab Dedicated environments due to our
+[upgrade policy](https://docs.gitlab.com/ee/subscriptions/gitlab_dedicated/#upgrades).
+
+In such cases, we should evaluate the impact of the delay and, if justified, use the
+[backport request process](/handbook/engineering/releases/backports/) to request that the product
+fix be backported to a GitLab version that can be deployed to GitLab Dedicated environments in an
+acceptable timeframe.
+
 ## How we work
 
 GitLab Dedicated is highly visible within GitLab and the broader market. It is also complex service offering. Consequently, the Dedicated team needs to manage its own work and stakeholder expectations - both external and internal. The following sections describe processes and tools that the team has adopted to work efficiently and effectively.
