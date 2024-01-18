@@ -22,12 +22,12 @@ If you've had thoughts or questions like:
 
 `Elevate Applied` is an ongoing resource for Managers and Senior Managers at GitLab meant to strengthen leadership competencies, enable leaders to take action, and build connections between managers. **It's a combined community and toolkit to help you build high performing teams.**
 
-Beginning in January 2024, the Talent Development team will begin to pilot this program with the ~130 managers who earned their Elevate certification in 2023. We'll use data and feedback from the pilot to inform and shape the future of manager training at GitLab.
+Beginning in January 2024, the Talent Development team will begin to pilot this program with the ~130 managers who have earned their Elevate certification. We'll use data and feedback from the pilot to inform and shape the future of manager training at GitLab.
 
 
 ## Overview
 
-All managers who earned their Elevate certification in 2023 will be invited to participate. The pilot will run for 4 months, starting in January and ending in April. Participation is optional.
+All managers who earn their Elevate certification will be invited to participate. The pilot will run for 4 months, starting in January and ending in April. Participation is optional.
 
 Each month, managers can expect to be served new resources and learning opportunities that are relevant to what is currently happening in the business. Some examples include:
 
