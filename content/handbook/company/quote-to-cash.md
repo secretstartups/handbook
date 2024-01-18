@@ -398,6 +398,8 @@ The below `Master Data objects` for core business entities will be created that 
 - Lead
 - License
 
+The Master Data Objects development work in Snowflake/dbt is tracked in these two Epics: [Billing Account, Orders, Ramps](https://gitlab.com/groups/gitlab-data/-/epics/870) and [Customers, Contacts/Users, Leads](https://gitlab.com/groups/gitlab-data/-/epics/871).
+
 Below is the Entity Relationship Diagram for the Re-architected data model in Snowflake. The Target State tab shows how the business entities we extract from the CustomersDot, Zuora, Salesforce, and GitLab.com source systems connect with each other.
 
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/c8f1520c-e59b-4551-a9db-bfce88bb84dc" id="0GkOGAjoD_O."></iframe></div>
