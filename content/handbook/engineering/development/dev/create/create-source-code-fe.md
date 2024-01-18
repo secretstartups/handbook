@@ -5,6 +5,14 @@ description: The Create:Source Code FE team is responsible for all frontend aspe
 
 # Common Links
 
+| **Category**            | **Handle** |
+|-------------------------|-------------|
+| **GitLab Team Handle**  | Not available |
+| **Slack Channel**               | [`#g_create_source-code-review-fe`](https://gitlab.enterprise.slack.com/archives/CS5NHHBJ7) |
+| **Slack Handle**               | Not available |
+| **Team Boards**         | [`Current Milestone`](https://gitlab.com/groups/gitlab-org/-/boards/1149629) |
+| **Issue Tracker**       | [`group::source code` + `frontend` in `gitlab-org/gitlab`](https://gitlab.com/groups/gitlab-org/-/issues/?sort=created_date&state=opened&label_name%5B%5D=frontend&label_name%5B%5D=group%3A%3Asource%20code&first_page_size=20) |
+
 # Team Vision
 
 # Team Mission
