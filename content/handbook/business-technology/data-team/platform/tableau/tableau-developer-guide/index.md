@@ -544,4 +544,22 @@ Create a Data Source filter using the `USERNAME()` function and the `tableau_use
 
 ## Improving Local Connection Timeouts
 
+To reduce the number of times Tableau Desktop will ask to reconnect the developer can set there local snowflake
+driver to keep there session alive.
+To do this the developes needs to edit the `odbc.ini` file, typical locations for the file can be found in the
+[Snowflake documentation](https://docs.snowflake.com/en/developer-guide/odbc/odbc-mac#step-2-configure-the-odbc-driver), and adding and setting the `CLIENT_SESSION_KEEP_ALIVE` flag to `True`.
 
+![](images/snowflake-odbc-ini.png)
+
+## Replacing Datasource in Tableau Desktop
+
+The steps are as follows:
+1. Edit the workbook in Tableau Desktop (this is needed for a specific tool that is used)
+1. Add the datasource to swap to as a new datasource in the workbook.
+1. Navigate to a sheet that uses datasource to be replaced.
+1. Right click on datasource to be replaced and select `Replace Data Source...`
+1. In the dialog box ensure that datasource to be replaced is selected as
+Current and select new datasource for the Replacement and select ok
+1. Check that the all of the fields swapped over to the new datasource, some may have a `!` next to them.  Also any manual field aliases may need to be reapplied.
+1. Right click on the datasource to be replaced and select close.
+1. Published the workbook.
