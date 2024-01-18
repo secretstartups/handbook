@@ -40,4 +40,4 @@ description: "A strategic group of impactful team members whose purpose is to dr
 <li>Weekly or bi-weekly meetings for 30 minutes to review activity and collaborate on next steps</li>
 - <Provide findings/results to:>
 <li>DIB Leadership Council</li>
-<li>DIB Monthly Initiatives Call</li>
+<li>DIB Monthly Initiatives Call</li> 
