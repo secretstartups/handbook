@@ -1,25 +1,18 @@
 ---
-
 title: "Verify Stage"
 description: "The verify development group handbook page."
 ---
 
-
-
-
-
-
-
 ## Vision
 
-We enable global software organizations and teams to make great decisions with [smart feedback loops](/direction/ops/#smart-feedback-loop) by delivering [speedy, reliable pipelines](/direction/ops/#speedy-reliable-pipelines) in a [comprehensive CI platform](/direction/ops/#verify) that embodies [Operations for All](/direction/ops/#operations-for-all).
+We enable global software organizations and teams to make great decisions with [smart feedback loops](https://about.gitlab.com/direction/ops/#smart-feedback-loop) by delivering [speedy, reliable pipelines](https://about.gitlab.com/direction/ops/#speedy-reliable-pipelines) in a [comprehensive CI platform](https://about.gitlab.com/direction/ops/#verify) that embodies [Operations for All](https://about.gitlab.com/direction/ops/#operations-for-all).
 
-### Technical Roadmap 
+### Technical Roadmap
 
 In 2022, the Verify stage focused on reliability and scalability of GitLab CI, which was critical for the availability of gitlab.com.  This included addressing database performance, security vulnerabilities, performance improvements and relevant technical debt.
-This ensured GitLab remained secure, compliant and performant, with our SaaS offering that was able to maintain [SLAs of gitlab.com](https://about.gitlab.com/handbook/engineering/monitoring/#gitlabcom-service-level-availability).
+This ensured GitLab remained secure, compliant and performant, with our SaaS offering that was able to maintain [SLAs of gitlab.com](/handbook/engineering/monitoring/#gitlabcom-service-level-availability).
 
-In 2023, the Verify Pipeline teams will be focused on the following Engineering-led initiatives, in addition to our deliverables for the [FY24 Yearlies](https://about.gitlab.com/company/yearlies/#fy24-yearlies):
+In 2023, the Verify Pipeline teams will be focused on the following Engineering-led initiatives, in addition to our deliverables for the [FY24 Yearlies](/handbook/company/yearlies/#fy24-yearlies):
 1. [CI Data Partitioning](https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/architecture/blueprints/ci_data_decay/pipeline_partitioning.md)
 1. Pipeline speed improvements - including analysis of pipeline performance
 1. Review the [data retention strategy of CI data on gitlab.com](https://gitlab.com/gitlab-org/verify-stage/-/issues/440)
@@ -64,19 +57,19 @@ Pipeline Authoring and Pipeline Execution are closely related but they also repr
 
 ### Verify:Pipeline Execution
 
-<%= direct_team(manager_role: 'Fullstack Engineering Manager, Verify:Pipeline Execution') %>
+{{< team-by-manager-role "Engineering Manager(.*)Verify:Pipeline Execution" >}}
 
 ### Verify:Pipeline Authoring
 
-<%= direct_team(manager_role: 'Fullstack Engineering Manager, Verify:Pipeline Authoring') %>
+{{< team-by-manager-role "Engineering Manager(.*)Verify:Pipeline Authoring" >}}
 
 ### Verify:Runner
 
-<%= direct_team(manager_role: 'Senior Engineering Manager, Verify:Runner') %>
+{{< team-by-manager-role "Engineering Manager(.*)Verify:Runner" >}}
 
 ### Verify:Pipeline Security
 
-<%= direct_team(manager_role: 'Fullstack Engineering Manager, Verify:Pipeline Security') %>
+{{< team-by-manager-role "Engineering Manager(.*)Verify:Pipeline Security" >}}
 
 ## How we work
 
@@ -89,7 +82,7 @@ Each group in Verify is encouraged to define their own process based on what wor
 
 ### Developer Onboarding in Verify
 
-Welcome to the team! Whether you're joining GitLab as a new hire, transferring internally, or ramping up on the CI domain knowledge to tackle issues in our area, you'll be assigned an [onboarding/shadowing buddy](/company/culture/all-remote/onboarding/#how-to-onboard-new-hires-remotely) so you can have someone to work with as you're getting familiarized with our codebase, our tech stack and general development processes on your Verify team.
+Welcome to the team! Whether you're joining GitLab as a new hire, transferring internally, or ramping up on the CI domain knowledge to tackle issues in our area, you'll be assigned an [onboarding/shadowing buddy](/handbook/company/culture/all-remote/onboarding/#how-to-onboard-new-hires-remotely) so you can have someone to work with as you're getting familiarized with our codebase, our tech stack and general development processes on your Verify team.
 
 Read over this page as a starting point and feel free to set up regular sync or async conversations with your buddy. We recommend setting up weekly touch points, at a minimum, and joining our regular team syncs to learn more about how we work. (Reach out to our Engineering Managers for an invite to those recurring meetings). Please also schedule a few coffee chats to meet some members of our team. You will be assigned a team specific developer onboarding issue (For example, [Pipeline Execution Developer onboarding checklist](https://gitlab.com/gitlab-org/ci-cd/onboarding/-/blob/master/.gitlab/issue_templates/verify-pipeline-execution_developer-onboarding.md)) for you to go through. It contains admin tasks to complete (as a new team member, if relevant), and also links to technical documentation, meeting agendas, and recordings.
 
@@ -103,9 +96,9 @@ Onboarding buddies are assigned to new hires to ensure their first few months of
 
 **Reviewing Merge Requests**
 
-In addition to helping those _new hire/transfer_ through any issues with their set up or assigned tasks, it's recommended that their onboarding buddies add the _new hire/transfer_ as an additional reviewer on any MRs the onboarding buddy has been requested to review. Ideally this takes place after they've been working in Verify for at least 3 months, and as mutually agreed upon between both parties. This step further builds the _new hire/transfer's_ CI knowledge and allows for CI domain expertise to be shared amongst all engineers in Verify. 
+In addition to helping those _new hire/transfer_ through any issues with their set up or assigned tasks, it's recommended that their onboarding buddies add the _new hire/transfer_ as an additional reviewer on any MRs the onboarding buddy has been requested to review. Ideally this takes place after they've been working in Verify for at least 3 months, and as mutually agreed upon between both parties. This step further builds the _new hire/transfer's_ CI knowledge and allows for CI domain expertise to be shared amongst all engineers in Verify.
 
-Similar to our [reviewer mentorship programs](https://about.gitlab.com/handbook/engineering/workflow/code-review/#reviewer-mentorship-program), the _new hire/transfer_ will review the merge request as if they're being asked to perform the code review. Once complete, they'll assign the MR back to their onboarding buddy.  It is expected that the onboarding buddy will also complete the code review, then provide the _new hire/transfer_ feedback about their code review. Ideally this takes place at their next check-in, where notes are captured in a shared Google Doc or a GitLab issue for ease-of-collaboration.
+Similar to our [reviewer mentorship programs](/handbook/engineering/workflow/code-review/#reviewer-mentorship-program), the _new hire/transfer_ will review the merge request as if they're being asked to perform the code review. Once complete, they'll assign the MR back to their onboarding buddy.  It is expected that the onboarding buddy will also complete the code review, then provide the _new hire/transfer_ feedback about their code review. Ideally this takes place at their next check-in, where notes are captured in a shared Google Doc or a GitLab issue for ease-of-collaboration.
 
 ### API development
 
@@ -118,7 +111,7 @@ We allow each team to decide when they think they should go with `REST`, but eve
 
 ### Shared issues
 
-In the Verify team we lean in to the GitLab mission, "[everyone can contribute](/company/mission/#mission)"!
+In the Verify team we lean in to the GitLab mission, "[everyone can contribute](/handbook/company/mission/#mission)"!
 To help balance this workload out across the groups, we use the [`Verify candidate`](https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=Verify+candidate) label.
 Every issue with this label is a good candidate to be worked on by any group in the Verify stage.
 This applies to both frontend and backend issues.
@@ -127,17 +120,17 @@ This helps us break down silos, balance the workload, and prevent disruptive re-
 
 To help with prioritizing within the list of available `Verify candidate` issues, it's recommended to reference the issue types in the [Product Priorities](/handbook/product/product-processes/#prioritization) list, noting any severities applied on the issues as well.
 
-### Issue Health Status Definitions & Async Issue Updates 
+### Issue Health Status Definitions & Async Issue Updates
 
-Across Verify we value [Transparency](/handbook/values/#transparency), we live our values of [Inclusion](/handbook/values/#bias-towards-asynchronous-communication), and we expect [Efficiency](/handbook/values/#write-things-down) by dogfooding using Issue Health Statuses and providing regular updates on active issues. Each team in the Verify Stage will define the cadence of updates and specific defintion of the statuses, but generally the expectation is a weekly update on in progress issues with the following Health Statuses: 
+Across Verify we value [Transparency](/handbook/values/#transparency), we live our values of [Inclusion](/handbook/values/#bias-towards-asynchronous-communication), and we expect [Efficiency](/handbook/values/#write-things-down) by dogfooding using Issue Health Statuses and providing regular updates on active issues. Each team in the Verify Stage will define the cadence of updates and specific defintion of the statuses, but generally the expectation is a weekly update on in progress issues with the following Health Statuses:
 
 - On Track
 - Needs Attention
 - At Risk
 
-These updates are an opportunity for the engineer to add detail to the status and are not expected to provide a justification for why something is behind or will miss a milestone. We encourage [blameless problem solving](/handbook/values/#blameless-problem-solving) and [kindness](/handbook/values/#kindness) at all times. 
+These updates are an opportunity for the engineer to add detail to the status and are not expected to provide a justification for why something is behind or will miss a milestone. We encourage [blameless problem solving](/handbook/values/#blameless-problem-solving) and [kindness](/handbook/values/#kindness) at all times.
 
-### Merge Requests in Verify 
+### Merge Requests in Verify
 
 In the Verify stage, we value [MR Rate](/handbook/engineering/metrics/#merge-request-rate) as a shared performance indicator for team collaboration, iteration, customer results. The entire team is responsible for iterative scope in issues. This starts with product management creating a clear problem statement connected to user insights. UX then adds interaction specifications and acceptance criteria to then be considered and weighed by the engineering team. Teams are encouraged to iterate on scope so as to delivery the [smallest thing possible](/handbook/values/#iteration).
 
@@ -154,23 +147,13 @@ or no issues were found by the Verify maintainer.
 
 The following members of other functional teams are our stable counterparts:
 
-<%=
-role_regexp = /[,&] Verify/
-direct_manager_role = 'Senior Manager, Engineering, Verify'
-other_manager_roles = [
-  'Fullstack Engineering Manager, Verify:Pipeline Authoring',
-  'Fullstack Engineering Manager, Verify:Pipeline Execution',
-  'Senior Engineering Manager, Verify:Runner',
-  'Fullstack Engineering Manager, Verify:Pipeline Security'
-]
-stable_counterparts(role_regexp: role_regexp, direct_manager_role: direct_manager_role, other_manager_roles: other_manager_roles)
-%>
+{{< stable-counterparts role="[,&] Verify" manager-role="Senior Manager(.*)Engineering(.*)Verify" other-manager-roles="Engineering Manager(.*)Verify:Pipeline Authoring|Engineering Manager(.*)Verify:Pipeline Execution|Engineering Manager(.*)Verify:Runner|Engineering Manager(.*)Verify:Pipeline Security" >}}
 
 ### Async Work Week
 
-In FY24, we are instituting [quarterly async work weeks](https://gitlab.com/gitlab-org/verify-stage/-/issues/412) in Verify that start on the first Monday of the month for the quarter. 
+In FY24, we are instituting [quarterly async work weeks](https://gitlab.com/gitlab-org/verify-stage/-/issues/412) in Verify that start on the first Monday of the month for the quarter.
 Some of the benefits include reducing time spent in sync meetings, allowing for more focus, which aligns with our async-first communication and our Diversity and Inclusion value to bias towards more async communication.
-However, this doesn't preclude us from having any meetings, and it's up to meeting facilitators to decide accordingly. Exceptions might include: high priority issues and initiatives, social calls, coffee catch-ups. 
+However, this doesn't preclude us from having any meetings, and it's up to meeting facilitators to decide accordingly. Exceptions might include: high priority issues and initiatives, social calls, coffee catch-ups.
 This also does not mean that you should not default to async-first at other times. Having regularly scheduled async weeks ensures that our processes do not become depending on synchronous meetings.
 
 | Quarter | Async Week               |
@@ -192,7 +175,7 @@ Every two weeks the Verify Engineering Update Newsletter is set out to an opt-in
 
 Everyone is welcome to sign up or view previous issue on the [newsletter page](https://www.getrevue.co/profile/verify-engineering-update).
 
-Each issue of the newsletter is planned using individual issues linked in the [newsletter epic](https://gitlab.com/groups/gitlab-com/-/epics/1148). Content is generally contributed by managers, but everyone is encouraged to contribute topics for the newsletter. 
+Each issue of the newsletter is planned using individual issues linked in the [newsletter epic](https://gitlab.com/groups/gitlab-com/-/epics/1148). Content is generally contributed by managers, but everyone is encouraged to contribute topics for the newsletter.
 
 ## Verify Technical Discussions
 
@@ -220,13 +203,13 @@ The Verify Technical Discussions are automatically recorded and added to [Google
 
 ## Weekly Triage Reports
 
-The Product Manager, Engineering Manager(s), and Designer for each group are responsible for triaging and scheduling [feature proposals and bugs as part of the Weekly Triage Report](/handbook/engineering/quality/triage-operations/#group-level-bugs-features-and-ux-debt). Product Managers schedule issues by assigning them to a Milestone or the Backlog.  For bug triage, Engineering Managers and Product Managers work together to ensure that the correct `severity` and `priority` labels have been applied.  Since [Product Managers are the DRIs for prioritization](/handbook/engineering/quality/issue-triage/#priority), they will validate and/or apply the initial `priority` label to bugs.  Engineering Managers are responsible for adding or updating the `severity` labels for bugs listed in the triage report, and to help Product Management with understanding the criticality and technical feasibility of the bug, as needed.
+The Product Manager, Engineering Manager(s), and Designer for each group are responsible for triaging and scheduling [feature proposals and bugs as part of the Weekly Triage Report](/handbook/engineering/infrastructure/engineering-productivity/triage-operations/#group-level-bugs-features-and-ux-debt). Product Managers schedule issues by assigning them to a Milestone or the Backlog.  For bug triage, Engineering Managers and Product Managers work together to ensure that the correct `severity` and `priority` labels have been applied.  Since [Product Managers are the DRIs for prioritization](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#priority), they will validate and/or apply the initial `priority` label to bugs.  Engineering Managers are responsible for adding or updating the `severity` labels for bugs listed in the triage report, and to help Product Management with understanding the criticality and technical feasibility of the bug, as needed.
 
 While SLOs for resolving bugs are tied to severities, it is up to Product Management to set priorities for the group with an appropriate target resolution time. For example, criteria such as the volume of `severity::2` level bugs may make it appropriate for the Product Manager to adjust the priority accordingly to reflect the expected time to resolution.
 
 ### Availability, security, performance, and bug triage process
 
-In the Verify Stage, we aim to solve new availability, security, performance issues within the SLO of the assigned severity. These types of issues are the top priority followed by bugs and technical debt according to our [severity SLO chart](/handbook/engineering/quality/issue-triage/#severity-slos).
+In the Verify Stage, we aim to solve new availability, security, performance issues within the SLO of the assigned severity. These types of issues are the top priority followed by bugs and technical debt according to our [severity SLO chart](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity-slos).
 
 Availability and performance issues (commonly referred to as infradev) are also triaged in the [Infra/Dev Triage Board](https://gitlab.com/groups/gitlab-org/-/boards/1193197?label_name[]=gitlab.com&label_name[]=infradev).
 
@@ -253,7 +236,7 @@ Contributions from both free and paid users are equally important and will follo
 
 Once a contribution has been created, the Engineering Manager assigns an engineer to manage and review with the Community Contributor. Reviewing contributions will follow the definition of done, style guidelines, and other practices of development. As the DRI of the review, the assigned Verify engineer will work with Community Contributor to resolve any outstanding items. The MR is then passed to a Maintainer with relevant domain expertise for final review prior to being merged.
 
-#### Contributions from Partners 
+#### Contributions from Partners
 
 Our partners are an important part of our ecosystem at GitLab. These contributions should be reviewed with the same [GitLab Contribution Guidelines](/community/contribute/) as community MR contributions, and aligns with the [Verify contribution guidelines](https://docs.gitlab.com/ee/development/contributing/verify/) for working in the Verify areas of the codebase.
 
@@ -261,7 +244,7 @@ Our partners are an important part of our ecosystem at GitLab. These contributio
 
 The Maintainer of the codebase will be the DRI of merging the contribution into the Verify product.
 
-### SLOs for Community Contributions 
+### SLOs for Community Contributions
 
 For issues that are **refined**, they are considered priority for review and merging. Refined issues are defined as issues in `workflow::ready for development`, with `direction` labels, and either have technical proposals or are weighted. Issues that are not labeled with `workflow::ready for development` and `direction` labels are considered **non-refined** and are lower priority for review, and therefore have longer merge SLOs. SLOs for these two types of issues are defined in the table below:
 

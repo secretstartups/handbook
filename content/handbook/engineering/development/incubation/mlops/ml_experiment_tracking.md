@@ -20,25 +20,25 @@ the experiments results across the product (on Model Registry, on MRs, on Issues
 
 ## Guiding Principles
 
-* Gitlab enables Data Scientists to use Experiment Tracking without requiring any support from Platform Engineers
-* Data Scientists can start using Gitlab Experiment Tracking without any changes to their codebase
+* GitLab enables Data Scientists to use Experiment Tracking without requiring any support from Platform Engineers
+* Data Scientists can start using GitLab Experiment Tracking without any changes to their codebase
 * Experiment Tracking is not just a vertical feature, it integrates across the platform to enhance experience in different steps of model development
 
-## Approach: Gitlab as a backend for MLFlow
+## Approach: GitLab as a backend for MLFlow
 
 [MlFlow](https://mlflow.org/docs/latest/tracking.html) is the most popular open source option for Experiment Tracking, providing 
 a powerful client that allows Data Scientists to log a wide range of models. It also provides a UI to organize and 
 explore these experiments. However, while its Machine Learning related features are great, it lacks features required by 
 organizations, such as user management. It also requires users to manually deploy and maintain the deployment.
 
-Our approach is to reimplement the MLFlow backend on Gitlab, and offer a UI consistent to platform. This way, users can 
-still rely on MLFlow client, having user management handled by Gitlab, without needing any additional support for 
+Our approach is to reimplement the MLFlow backend on GitLab, and offer a UI consistent to platform. This way, users can 
+still rely on MLFlow client, having user management handled by GitLab, without needing any additional support for 
 deployment.
 
 We should also go beyond, and leverage the DevOps Platform to integrate this feature across the platform:
 - How can it enhance User Experience on CI/CD, on Merge Requests, on packaging
 - How can the patterns and components that our users are already used to (cross-reference, comments, descriptions) enhance Experiment Tracking
-- How can we use this to manage the entire lifecycle of models within Gitlab
+- How can we use this to manage the entire lifecycle of models within GitLab
 
 ## Current Status
 
@@ -51,8 +51,8 @@ Demo as of January 16th:
   <iframe width="600" height="340" src="https://www.youtube.com/embed/uxweU4zT40?controls=0"  frameborder="0" allowfullscreen></iframe>
 </figure>
 
-- **Gitlab MLFlow API** MLFLow API is partially implemented
-- **Logging through MLFlow Client** Data Scientist can use the MLFlow Client to save their experiment data on Gitlab: 
+- **GitLab MLFlow API** MLFLow API is partially implemented
+- **Logging through MLFlow Client** Data Scientist can use the MLFlow Client to save their experiment data on GitLab: 
   - Create experiments
   - Create candidates
   - Log parameters, metrics, artifacts and metadata.

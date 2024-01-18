@@ -207,7 +207,7 @@ The Senior Principal Product Manager will report to a Director of Product Manage
 ##### Responsibilities
 
 - Represent GitLab and its values in public communication around specific projects and community contributions.
-- In addition to being an individual contributor product manager of one (or more) of the groups, the Senior Principal PM should be designated as the [product collaborator](https://about.gitlab.com/handbook/engineering/incubation/#incubation-engineering-department) for one (or more) [SEG](/handbook/company/team/structure/#single-engineer-groups)s.
+- In addition to being an individual contributor product manager of one (or more) of the groups, the Senior Principal PM should be designated as the [product collaborator](/handbook/engineering/incubation/#incubation-engineering-department) for one (or more) [SEG](/handbook/company/team/structure/#single-engineer-groups)s.
 - Lead cross stage initiatives, for example: [Top Cross-Functional Initiatives](/handbook/company/team/structure/working-groups/#top-cross-functional-initiatives)
 - Maintains and owns [cross-section directions](/handbook/product/product-processes/#navigating-cross-stage-or-cross-section-direction-pages).
 - Leads working groups to accomplish cross-section [BHAG](/handbook/company/mission/#big-hairy-audacious-goal-bhag)s and targets
@@ -264,7 +264,7 @@ transition from Product Management to General Management.
 
 ### Manage (Organization)
 
-We're looking for product managers that can help us work on the future of developer tools. Specifically, building out our lovable support for GitLab by driving strategy to help organizations prosper and by providing functionality that enables them to manage Gitlab for their organization.
+We're looking for product managers that can help us work on the future of developer tools. Specifically, building out our lovable support for GitLab by driving strategy to help organizations prosper and by providing functionality that enables them to manage GitLab for their organization.
 
 #### Requirements
 
@@ -589,4 +589,4 @@ We're looking for a Product Manager to drive the roadmap for [MLOps](https://abo
 ## Relevant links
 
 - [Product Handbook](/handbook/product/)
-- [Engineering Workflow](https://about.gitlab.com/handbook/engineering/workflow/)
+- [Engineering Workflow](/handbook/engineering/workflow/)

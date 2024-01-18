@@ -19,7 +19,7 @@ repositories and projects, or can be part of a Disaster Recovery solution.
 
 ## Goals and Priorities
 
-Our priorities are aligned with the product direction. You can read more about this on the [Geo Product Vision page](/direction/geo/).
+Our priorities are aligned with the product direction. You can read more about this on the [Geo Product Vision page](https://about.gitlab.com/direction/geo/).
 
 Alongside the items listed in our Product Vision, we need to constantly assess issues that our customers bring to our
 attention. These could take the form of bug reports or feature requests. Geo users are often our largest
@@ -30,7 +30,7 @@ as part of a related project. Where this is not possible, we use time around our
 
 ## Objectives and Key Results (OKRs)
 
-Every quarter the engineering team sets [objectives and key results](https://about.gitlab.com/company/okrs/#what-are-okrs). OKRs are managed in GitLab as of FY24-Q1. The following are links to issues lists for Geo's OKRs.
+Every quarter the engineering team sets [objectives and key results](/handbook/company/okrs/#what-are-okrs). OKRs are managed in GitLab as of FY24-Q1. The following are links to issues lists for Geo's OKRs.
 
 [OKRs FY24-Q1](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&label_name%5B%5D=group%3A%3Ageo&milestone_title=FY24-Q1&first_page_size=100)
 
@@ -72,7 +72,7 @@ If you like, you may assign a priority label to your request. A geo team member 
 
 \* Response times are based on weekdays (excluding holidays) within regular business hours in the time zones that team members are located.
 
-\* Outages and other urgent matters should be channeled through GitLab's [incident management](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/) processes.
+\* Outages and other urgent matters should be channeled through GitLab's [incident management](/handbook/engineering/infrastructure/incident-management/) processes.
 
 ## Common Links
 
@@ -119,4 +119,4 @@ See the [Geo Glossary](https://docs.gitlab.com/ee/administration/geo/glossary.ht
 
 ## Dashboards
 
-{{% cross-function-dashboard filters="Geo" %}}
+{{% cross-functional-dashboards filters="Geo" %}}

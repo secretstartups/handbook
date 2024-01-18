@@ -133,7 +133,6 @@ GitLab's Data Platform is relevant to a community larger than GitLab's and depen
 
 The following sections describe the Data Platform FY25 initiatives.
 
-_coming soon_
 
 ## Data Value Pyramid
 

@@ -70,18 +70,17 @@ eg. for Canada Corp, use `@gitlab-com/entities/canada-corp`.
 
 On the first day of each month, we populate a spreadsheet including information for team members who have been at GitLab for more than 3 months. The spreadsheet is used by engineering to plan for on-call availability.
 
-Synced fields are sourced from Workday and the team file.
+Synced fields are sourced from Workday.
 
 - Name
 - Job title
+- Start Date
 - Division
 - Department
-- Subdepartment
 - Role
-- City
-- Country
-- State/province
 - Weekend availability
+- Email
+- Manager
 
 ## Weekly New hires
 

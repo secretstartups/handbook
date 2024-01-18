@@ -2,7 +2,7 @@
 
 title: GitLab Dedicated Overview
 category: GitLab Dedicated
-description: "Gitlab Dedicated Support overview."
+description: "GitLab Dedicated Support overview."
 ---
 
 ### Overview
@@ -139,13 +139,39 @@ When any changes are required besides those listed below, raise an issue in the 
 
 In cases where Customer Support needs to interact with GitLab Dedicated engineers to gather information or similarly debug a problem at tenant's request (when Grafana or OpenSearch does not suffice), raise an issue in the [GitLab Dedicated issue tracker](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues) using [the `Request for Help` template](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues/new?issuable_template=request_for_help).
 
-### Escalating an Emergency issue
+During the course of the investigation, you may realize that you need to escalate a Request for Help (RFH) issue to another team. You should follow the existing process to [formally request help from another group in the GitLab Development Team](https://handbook.gitlab.com/handbook/support/workflows/how-to-get-help/#how-to-formally-request-help-from-the-gitlab-development-team). When doing this:
 
-The same [definitions and exceptions](/handbook/support/workflows/customer_emergencies_workflows#determine-if-the-situation-qualifies-as-an-emergency) apply.
+- Summarize the investigation thus far and make sure the ask for the team you are escalating to is clear
+- Apply the `~workflow-infra::Escalated` label to the RFH issue in the GitLab Dedicated issue tracker
+
+### Handling GitLab Dedicated emergencies
+
+GitLab Dedicated customer emergencies follow the same [definitions and exceptions](/handbook/support/workflows/customer_emergencies_workflows#determine-if-the-situation-qualifies-as-an-emergency)
+as regular customer emergencies.
+
+If the customer is reporting an availability or performance issue:
+
+1. Check the [GitLab Dedicated incident management tracker](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/incident-management/-/issues/?type%5B%5D=incident)
+   for relevant open incidents.
+1. If there is an open incident:
+   - Inform the customer that the GitLab Dedicated infrastructure team is actively investigating.
+   - Get in touch with the Dedicated SRE on-call and determine if the customer needs to be involved
+     with troubleshooting.
+   - Assist the customer and the Dedicated SRE as necessary.
+1. If there isn't an open incident, [escalate the emergency](#escalating-an-emergency-issue).
+
+#### Escalating an Emergency issue
+
 If involving the Dedicated team becomes necessary:
 
 1. Note initial findings in [a `new-incident` issue](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/incident-management/-/issues/new?issuable_template=new-incident).
 1. Follow the [Dedicated on-call runbook](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/blob/main/runbooks/on-call.md#escalating-to-an-on-call-person).
+
+#### Engaging the GitLab Dedicated CMOC
+
+If the nature of the emergency reaches the point where we only need to provide async status updates
+to the customer, consider engaging the [GitLab Dedicated Communications Manager on Call](/handbook/support/workflows/dedicated_cmoc)
+to take over.
 
 ### Troubleshooting tips
 

@@ -2,7 +2,10 @@
 title: "LinkedIn Learning"
 ---
 
-In January 2021, GitLab implemented LinkedIn Learning to provide our team members with more off the shelf learning resources. With a growing company, the needs for learning are growing as well and we are excited to provide this opportunity to our team members.
+We have decided to end our current agreement with LinkedIn Learning, and approach this benefit differently in FY25. Current users will have access to LinkedIn Learning through 20 JAN 2024.
+
+Any GitLab team members who would like to continue using LinkedIn Learning beyond this time should lean into using their Growth & Development allocation to cover costs. Please let  us know any questions or feedback you have in the #learninganddevelopment Slack channel. More detailed communications will be shared on this soon via Slack.
+
 
 ## Benefit of LinkedIn Learning
 

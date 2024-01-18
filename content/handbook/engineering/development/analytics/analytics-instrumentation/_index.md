@@ -1,18 +1,11 @@
 ---
-
 title: Analytics Instrumentation Group
 description: "The Analytics Instrumentation group work on feature enhancements and implementing privacy focused product analytics across GitLab projects"
 ---
 
-
-
-
-
-
-
 ## Vision
 
-The Analytics Instrumentation Group is part of the [Analytics section](/handbook/product/categories/analytics/). Our group focuses on providing GitLab's team with data-driven product insights to build a better GitLab. To do this, we build data collection and analytics tools within the GitLab product in a privacy-focused manner. Insights generated from Analytics Instrumentation enable us to identify the best places to invest people and resources, what product categories mature faster, where our user experience can be improved, and how product changes impact the business. You can learn more about what we're building next on the [Analytics Instrumentation Direction page](/direction/analytics/analytics-instrumentation/).
+The Analytics Instrumentation Group is part of the [Analytics section](/handbook/product/categories/analytics/). Our group focuses on providing GitLab's team with data-driven product insights to build a better GitLab. To do this, we build data collection and analytics tools within the GitLab product in a privacy-focused manner. Insights generated from Analytics Instrumentation enable us to identify the best places to invest people and resources, what product categories mature faster, where our user experience can be improved, and how product changes impact the business. You can learn more about what we're building next on the [Analytics Instrumentation Direction page](https://about.gitlab.com/direction/analytics/analytics-instrumentation/).
 
 How we work:
 - We work in accordance with our [GitLab values](/handbook/values/).
@@ -33,54 +26,54 @@ The historical and upcoming meeting agendas can be accessed in [our agenda docum
 
 ## Incidents
 
-We define incidents as a deviation from the intended process that significantly disrupts the reporting of metrics to the point that immediate action is required. The process below outlines the different stages of the incident resolution process and the steps to be taken by the corresponding Directly Responsible Individuals (DRIs). Please reach out to the [Analytics Instrumentation Group EM/PM](https://about.gitlab.com/handbook/engineering/development/analytics/analytics-instrumentation/#team-members) for any recommendations to changes in the process.
+We define incidents as a deviation from the intended process that significantly disrupts the reporting of metrics to the point that immediate action is required. The process below outlines the different stages of the incident resolution process and the steps to be taken by the corresponding Directly Responsible Individuals (DRIs). Please reach out to the [Analytics Instrumentation Group EM/PM](/handbook/engineering/development/analytics/analytics-instrumentation/#team-members) for any recommendations to changes in the process.
 
 ### Incident Detection
 _(DRI: The team/individual detecting the issue)_
 
 1. Create an issue and fill all necessary information using the [Analytics Instrumentation Incident Template](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/issue_templates/Analytics_Instrumentation_Incident_Template).
-2. Add appropriate label using the below guideline
-- `~"Analytics Instrumentation::Incident-High Severity"` for impending loss of data for many metrics or moderate to severe loss in business critical metrics that have a performance_indicator_type value.
-- `~"Analytics Instrumentation::Incident-Medium Severity"` for data delay.
-- For cases when there is minimal impact on data and manual steps or correction is needed, please raise a bug rather than an incident.
-3. Assign the issue to [Analytics Instrumentation Group PM and EM](https://about.gitlab.com/handbook/engineering/development/analytics/analytics-instrumentation/#team-members).
-4. Post in the [#g_analyze_analytics_instrumentation](https://gitlab.slack.com/archives/CL3A7GFPF) slack channel and tag [Analytics Instrumentation Group PM and EM](https://about.gitlab.com/handbook/engineering/development/analytics/analytics-instrumentation/#team-members).
+1. Add appropriate label using the below guideline
+    - `~"Analytics Instrumentation::Incident-High Severity"` for impending loss of data for many metrics or moderate to severe loss in business critical metrics that have a performance_indicator_type value.
+    - `~"Analytics Instrumentation::Incident-Medium Severity"` for data delay.
+    - For cases when there is minimal impact on data and manual steps or correction is needed, please raise a bug rather than an incident.
+1. Assign the issue to [Analytics Instrumentation Group PM and EM](/handbook/engineering/development/analytics/analytics-instrumentation/#team-members).
+1. Post in the [#g_analyze_analytics_instrumentation](https://gitlab.slack.com/archives/CL3A7GFPF) slack channel and tag [Analytics Instrumentation Group PM and EM](/handbook/engineering/development/analytics/analytics-instrumentation/#team-members).
 
 ### Incident Notification
 _(DRI: The PM of the Analytics Instrumentation group)_
 
 1. Notify these slack channels [#g_analyze_product_analytics](https://gitlab.slack.com/archives/C03M4R74NDU), [#data_rd_fusion](https://gitlab.slack.com/archives/C02C82WDP0U), [#data](https://gitlab.slack.com/archives/C8D1LGC23) with link to the issue.
-2. Inform Analytics stage Engineering & Product GPM.
-3. Update aforementioned slack channels and individuals on resolution time, changes to resolution times, and when incident is resolved.
-4. Ensure the incident and status is reflected in the next [monthly state of data issue](https://gitlab.com/groups/gitlab-com/-/epics/1608 "Monthly State of Data").
+1. Inform Analytics stage Engineering & Product GPM.
+1. Update aforementioned slack channels and individuals on resolution time, changes to resolution times, and when incident is resolved.
+1. Ensure the incident and status is reflected in the next [monthly state of data issue](https://gitlab.com/groups/gitlab-com/-/epics/1608 "Monthly State of Data").
 
 ### Incident Resolution
 _(DRI: To be identified by the EM of the Analytics Instrumentation group)_
 
 1. EM to review severity assigned by detection DRI, label issue as ~"type::bug" and add a bug severity if needed.
-2. DRI to work on resolving the issue as quickly as possible. The first priority is to find a fix, even if that is a temporary one, before working on a long term resolution.
-3. In case of a ~"Analytics Instrumentation::Incident-High Severity" issue:
-- EM to create a temporary channel for the incident in Slack and invite the whole group including PM and relevant stakeholders based on the incident.
-- EM to announce a feature change lock specific to the analytics instrumentation group.
-- All group members concentrate on finding a fix for the issue.
-- DRI to post an update in the channel about the current status at least twice per day.
-4. In case of a ~"Analytics Instrumentation::Incident-Medium Severity" issue:
-- DRI to create a slack thread within [#g_analyze_analytics_instrumentation](https://gitlab.slack.com/archives/CL3A7GFPF) for coordination around the incident.
-- DRI to post daily updates in the channel and issue about the current status of the incident.
-5. DRI to update the incident issue with an expected resolution time as soon as one is clear.
-6. PM/EM, in coordination with the individual/team reporting the incident, to close the issue after verifying that the fix is working.
-7. If a patch release is necessary:
-   - DRI to create a merge request for a patch release if required and link the merge request to the main issue
-   - DRI to announce in the main issue when the Patch release is completed
-8. DRI to create a root cause analysis (RCA) issue using this [template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/rca.md) and assign it to the EM.
-9. EM to identify other assignees for the RCA and create related epics/issues if needed.
+1. DRI to work on resolving the issue as quickly as possible. The first priority is to find a fix, even if that is a temporary one, before working on a long term resolution.
+1. In case of a ~"Analytics Instrumentation::Incident-High Severity" issue:
+    - EM to create a temporary channel for the incident in Slack and invite the whole group including PM and relevant stakeholders based on the incident.
+    - EM to announce a feature change lock specific to the analytics instrumentation group.
+    - All group members concentrate on finding a fix for the issue.
+    - DRI to post an update in the channel about the current status at least twice per day.
+1. In case of a ~"Analytics Instrumentation::Incident-Medium Severity" issue:
+    - DRI to create a slack thread within [#g_analyze_analytics_instrumentation](https://gitlab.slack.com/archives/CL3A7GFPF) for coordination around the incident.
+    - DRI to post daily updates in the channel and issue about the current status of the incident.
+1. DRI to update the incident issue with an expected resolution time as soon as one is clear.
+1. PM/EM, in coordination with the individual/team reporting the incident, to close the issue after verifying that the fix is working.
+1. If a patch release is necessary:
+    - DRI to create a merge request for a patch release if required and link the merge request to the main issue
+    - DRI to announce in the main issue when the Patch release is completed
+1. DRI to create a root cause analysis (RCA) issue using this [template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/rca.md) and assign it to the EM.
+1. EM to identify other assignees for the RCA and create related epics/issues if needed.
 
 ## Responsibilities
 
 ### Service Ping Metrics
 
 We're responsible to deliver a reliable Service Ping that runs every week on SaaS and Self Managed instances. Our responsiblity is tooling and automations for metric collections to set the company up for success to deliver Service Ping data to our data warehouse. Due to the amount of metrics we can't maintain the health of all metrics or can provide insights into the business logic of metrics.
-- For questions related to a specific metric, its definition and/or implementation, please contact the Product Manager of the group which owns the metric. You can find information about the metric including its [data category](https://about.gitlab.com/handbook/legal/privacy/customer-product-usage-information/#categories-of-data-collected), whether it is considered an [xMAU metric](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/xmau-analysis/), its group designation and more in the [metric dictionary](https://about.gitlab.com/handbook/product/analytics-instrumentation-guide/#metrics-dictionary).
+- For questions related to a specific metric, its definition and/or implementation, please contact the Product Manager of the group which owns the metric. You can find information about the metric including its [data category](/handbook/legal/privacy/customer-product-usage-information/#categories-of-data-collected), whether it is considered an [xMAU metric](/handbook/business-technology/data-team/data-catalog/xmau-analysis/), its group designation and more in the [metric dictionary](/handbook/product/analytics-instrumentation-guide/#metrics-dictionary).
 - When a metric times out, we will create an issue and inform the responsible team.
 - When a metric is using too many resources to time out the whole Service Ping, we will quarantine the metric and inform the responsible team.
 - When the metric is business critical (defined as any metric with an xMAU value in `performance_indicator_type`) we also inform the responsible team but will treat it as a Severity 1/Priority 1 issue and try to provide a fix.
@@ -100,7 +93,7 @@ For an overview about the capabilities of the analytic tooling the team develops
 
 The following people are permanent members of the Analytics Instrumentation Group:
 
-<%= stable_counterparts(role_regexp: /Analytics.+Analytics.Instrumentation/) %>
+{{< stable-counterparts role="Analytics.+Analytics.Instrumentation" >}}
 
 ## Project management process
 
@@ -151,7 +144,7 @@ Our team use the following workflow stages defined in the [Product Development F
 
 ### Epic roadmap
 
-We use an epic roadmap to track epic progress on a quarterly basis. The epic roadmap is a live view of the [Analytics Instrumentation Direction page](/direction/analytics/analytics-instrumentation/).
+We use an epic roadmap to track epic progress on a quarterly basis. The epic roadmap is a live view of the [Analytics Instrumentation Direction page](https://about.gitlab.com/direction/analytics/analytics-instrumentation/).
 
 To keep things simple, we primarily use the [gitlab.com/gitlab-org](https://gitlab.com/gitlab-org/) group for our roadmap. If epics are created on the [gitlab.com/gitlab-com](https://gitlab.com/gitlab-com/) and [gitlab.com/gitlab-services](https://gitlab.com/gitlab-services/) groups, we create placeholders of them on [gitlab.com/gitlab-org](https://gitlab.com/gitlab-org/) so that all epics show up in a single roadmap view.
 
@@ -352,11 +345,11 @@ In this example, the next milestone’s capacity is 64 weights for the whole tea
 
 #### Milestone Commitment
 
-A milestone commitment is a list of issues our team aims to complete in the milestone. The product team follows our GitLab principle of [planning ambitiously](https://about.gitlab.com/handbook/product/product-principles/#how-this-impacts-planning) and therefore expect that we won't always be able to deliver everything that we wanted in every milestone. After issues are broken down, estimated, and prioritized, the product manager will apply the `~Deliverable` label to applicable issues. Issues marked with the `~Deliverable` label represent the commitment we are intending to ship in that milestone.
+A milestone commitment is a list of issues our team aims to complete in the milestone. The product team follows our GitLab principle of [planning ambitiously](/handbook/product/product-principles/#how-this-impacts-planning) and therefore expect that we won't always be able to deliver everything that we wanted in every milestone. After issues are broken down, estimated, and prioritized, the product manager will apply the `~Deliverable` label to applicable issues. Issues marked with the `~Deliverable` label represent the commitment we are intending to ship in that milestone.
 
 #### Work Type Classification
 
-Per the [Next Prioritization](https://about.gitlab.com/company/team/structure/working-groups/cross-functional-prioritization/) initiative, we will review our team's performance in applying appropriate [type labels](https://docs.gitlab.com/ee/development/labels/index.html#type-labels) to MRs. At the close of the milestone, on the Planning Issue, the EM or PM will post a link to [this dashboard](https://about.gitlab.com/handbook/engineering/development/analytics/analytics-instrumentation/#merged-merge-request-types) along with a summary of shipped work by type label (include null) to ensure we are observing the [recommended work split](https://about.gitlab.com/company/team/structure/working-groups/cross-functional-prioritization/#exit-criteria) of 60% feature, 30% maintenance, 10% bugs, and <=5% undefined.
+Per the [Next Prioritization](/handbook/company/team/structure/working-groups/cross-functional-prioritization/) initiative, we will review our team's performance in applying appropriate [type labels](https://docs.gitlab.com/ee/development/labels/index.html#type-labels) to MRs. At the close of the milestone, on the Planning Issue, the EM or PM will post a link to [this dashboard](/handbook/engineering/development/analytics/analytics-instrumentation/#merged-merge-request-types) along with a summary of shipped work by type label (include null) to ensure we are observing the [recommended work split](/handbook/company/team/structure/working-groups/cross-functional-prioritization/#exit-criteria) of 60% feature, 30% maintenance, 10% bugs, and <=5% undefined.
 
 ##### Clarifying Maintenance vs. Feature Work
 
@@ -374,7 +367,7 @@ We emphasize creating the epic at the topmost-level group so that it will show u
 
 ### Ratio of issues to MRs
 
-The ratio of issues to MRs is at the responsible engineer's discretion. MRs should follow the [MVC principle](https://about.gitlab.com/handbook/values/#minimal-viable-change-mvc).
+The ratio of issues to MRs is at the responsible engineer's discretion. MRs should follow the [MVC principle](/handbook/values/#minimal-viable-change-mvc).
 If it is evident in advance that an issue will require more than 2 MRs we should evaluate whether we can split the issue further to document the split of the work more clearly.
 
 ### Epics
@@ -458,11 +451,11 @@ If you would like to propose a new knowledge session for a topic you want to lea
 
 ## Development metrics
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Analytics Instrumentation" } %>
+{{% cross-functional-dashboards filters="Analytics Instrumentation" %}}
 
 ## Error budget
 
-We maintain [UsageData API endpoints](https://docs.gitlab.com/ee/development/service_ping/implement.html#usagedata-api) under the `service_ping` feature to track events, and because of this we must monitor our [budget spend](https://about.gitlab.com/handbook/engineering/error-budgets/).
+We maintain [UsageData API endpoints](https://docs.gitlab.com/ee/development/service_ping/implement.html#usagedata-api) under the `service_ping` feature to track events, and because of this we must monitor our [budget spend](/handbook/engineering/error-budgets/).
 
 To investigate budget spend, see the [overview](https://dashboards.gitlab.net/d/stage-groups-product_intelligence/stage-groups-product-intelligence-group-dashboard?orgId=1) and [details](https://dashboards.gitlab.net/d/stage-groups-detail-product_intelligence/stage-groups-product-intelligence-group-error-budget-detail?orgId=1) Grafana dashboards for Analytics Instrumentation. You can also check requests contributing to spending the budget in Kibana by filtering by the `service_ping` feature. An example Kibana view can be found [here](https://log.gprd.gitlab.net/goto/8e82ff10-ecb8-11ec-8656-f5f2137823ba).
 
@@ -483,11 +476,11 @@ All new team members to the Analytics Instrumentation teams are provided an onbo
 
 | Resource                                                                                                                          | Description                                               |
 |-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
-| [Internal Analytics Docs](https://docs.gitlab.com/ee/development/internal_analytics/) | Docs for instrumenting internal analytics at Gitlab |
+| [Internal Analytics Docs](https://docs.gitlab.com/ee/development/internal_analytics/) | Docs for instrumenting internal analytics at GitLab |
 | [Analytics Instrumentation Monitoring and Troubleshooting](./monitoring_troubleshooting.html) | Information around Troubleshooting Analytics Instrumentation infrastructure|
 | [Analytics Instrumentation Infrastructure](./infrastructure.html) | Information about the infrastructure we run |
 | [Service Ping Guide](https://docs.gitlab.com/ee/development/service_ping/)     | An implementation guide for Service Ping      |
 | [Privacy Policy](/privacy/)        | Our privacy policy outlining what data we collect and how we handle it     |
-| [Analytics Instrumentation Direction](/direction/analytics/analytics-instrumentation/)  | The roadmap for Analytics Instrumentation at GitLab  |
+| [Analytics Instrumentation Direction](https://about.gitlab.com/direction/analytics/analytics-instrumentation/)  | The roadmap for Analytics Instrumentation at GitLab  |
 | [GitLab Performance Snowplow Dashboards ](./gitlab_com_performance_dashboard.html) | Performance dashboards for GitLab.com via Snowplow  |
 | [FAQ](/handbook/product/analytics-instrumentation-guide/faq) | A list of questions and answers related with Service Ping and Snowplow |

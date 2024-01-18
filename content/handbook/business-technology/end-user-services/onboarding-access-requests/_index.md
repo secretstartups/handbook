@@ -1,42 +1,23 @@
 ---
-
 title: "GitLab Laptop Management"
+controlled_document: true
 ---
 
-
-
-
-
-
-
-
-
-<div class="panel panel-gitlab-orange">
-**This is a Controlled Document**
-{: .panel-heading}
-<div class="panel-body">
-
-Inline with GitLab's regulatory obligations, changes to [controlled documents](/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged.
-
-</div>
-</div>
-
-# Purpose
+## Purpose
 
 This page displays different pieces of information surrounding GitLab laptop procurement and management.
 
-# Scope
+## Scope
 
 At GitLab, we use centralized laptop management for company-issued laptops. If you are in possession of a company-issued laptop, the details below apply to you. However, not all endpoint management technologies GitLab deploys will be required for Apple, Linux, and Windows laptops. Some technologies may be specific to the hardware platform or operating system.
 
-# Roles & Responsibilities
+## Roles & Responsibilities
 
 | Role | Responsibility |
 |-----------|-----------|
 | GitLab Team Members | Responsible for following the requirements in this procedure |
 | Business Technology | Responsible for implementing and executing this procedure |
 | Business Technology Management (Code Owners) | Responsible for approving significant changes and exceptions to this procedure |
-
 
 
 ## GitLab Laptops
@@ -57,17 +38,12 @@ If the latter, see below.
 We currently cannot procure Apple laptops for Brazil, India or Israel. If your country is not listed above or for any general laptop procurement questions please contact `IT-Help@gitlab.com` or your Candidate Experience Specialist to discuss alternate options.
 If the team member desires financial assistance to purchase the hardware, the Company will advance the funds to help facilitate the purchase (see Exception Processes below).
 
-<div class="panel panel-warning">
-**Warning: fake job scams**
-{: .panel-heading}
-<div class="panel-body">
-
+{{% alert title="**Warning: fake job scams**" color="warning" %}}
 Scammers may impersonate GitLab and target job seekers. GitLab will never ask new hires to send us funds for equipment purchases.
 
 Read the ["What to know about a fake job scam impersonating GitLab"](https://about.gitlab.com/blog/2023/06/29/fake-gitlab-job-scam/) blog post to learn the warning signs and how to protect yourself.
 
-</div>
-</div>
+{{% /alert %}}
 
 ### Laptop Refresh
 
@@ -78,7 +54,6 @@ The old laptop must be [wiped](/handbook/business-technology/end-user-services/#
 Laptops being requested as part of the refresh program use [this template](https://gitlab.com/gitlab-com/it/end-user-services/issues/laptop-issue-tracker/-/issues/new?issuable_template=Laptop_Refresh_Upgrade).
 
 If you qualify/complete a laptop refresh, please also refer to our [Laptop Buy back Policy](#laptop-buy-back-policy) below.
-
 
 ### Laptops Out of Spec
 
@@ -122,7 +97,7 @@ However, we may be able to work out priority or overnight delivery. We will not 
 
 If you are a hiring manager or member of the hiring/recruiting team, you may check the status and content of a new hires order in the [IT Equipment Order Process Project](https://gitlab.com/gitlab-com/it/end-user-services/issues/it-equipment-order-processing/-/issues/?sort=created_date&state=opened&first_page_size=100)
 
-Estimated Delivery Timelines for Gitlab Hardware
+Estimated Delivery Timelines for GitLab Hardware
 
 - US New Hires - 1-2 weeks (Apple M1 Max Model) and 3-5 weeks (Linux)
 - EMEA New Hires - 1-2 weeks (Apple M1 Max Model) and 3-5 weeks (Linux)
@@ -170,11 +145,11 @@ NOTE: GitLab's IT Ops team uses a corporate discount for our corporate-purchased
 
 Most roles that require higher performance machines are approved for a 14" or 16" MacBook Pro M1 Max. Please see this [spreadsheet](https://docs.google.com/spreadsheets/d/1OuC0_iliCzASKfOhDLWO4fBmDS-uL3VGRMI6063R6tk/edit?usp=sharing) (public) to locate your department group and determine which machine you are eligible for.
 
-
 #### Linux Hardware
 
+{{% alert color="warning" %}}
 IT strongly encourages team members to select Macs; please only request a Linux laptop if you are experienced in Linux and capable of self-support.
-{: .alert .alert-info}
+{{% /alert %}}
 
 **Below are roles that qualify for Linux Laptops**
 - Engineers, Support Engineers, Data Analysts, Technical Marketing Managers, Product Designers, UX Managers, Product Managers, Technical Writers, and Digital Production are eligible for Dell Precision Mobile Workstation laptops from the 5500 line. Due to supply constraints, specific models available from these lines my vary. IT will work with each person to find an available model meeting the following specifications: [15.6” display / 512 GB SSD / 32 GB of RAM / Intel i9 or i7 CPU](https://www.dell.com/en-us/shop/laptops/new-15-5560-workstation/spd/precision-15-5570-laptop).
@@ -296,19 +271,18 @@ Laptop wipes must be performed via [scheduling an appointment](/handbook/busines
 
 Under no circumstance should you perform your own disk wipe unless you are doing so at the request of IT to troubleshoot a technical problem with the laptop. If GitLab discovers that a device has not been wiped according to policy, GitLab may act to enforce a remote wipe without notice.
 
-
 ### Laptop Donations
 
 Donating hardware/laptops will help people in disadvantaged areas and/or from underrepresented groups with their ability to learn about technology. Therefore GitLab offers the possibility to donate hardware devices to [vendors on a curated list](https://docs.google.com/spreadsheets/d/15g4v5coC_yLlVNTKUZMwATllZhxzqbxrtvwJsi8bjXE/edit#gid=0) after 3 years of use. This curated list has been a result of the [Upstream Diversity Working Group](/handbook/company/team/structure/working-groups/upstream-diversity/).
 
 The vendors on the list have been meeting the following criteria:
+
 1. Their focus group should be people in disadvantaged areas and/or underrepresented groups
 1. They should be non-profit
 1. Their values have to align with GitLab's CREDIT values
 1. They should pass a "negative-press" check (first 2 pages of Google)
 
 If you, as a GitLab team member, would like to add a vendor aligned with the criteria, please comment in the [Vendor sheet](https://docs.google.com/spreadsheets/d/15g4v5coC_yLlVNTKUZMwATllZhxzqbxrtvwJsi8bjXE/edit#gid=0).
-
 
 #### Steps for donating your hardware
 
@@ -319,7 +293,7 @@ If you, as a GitLab team member, would like to add a vendor aligned with the cri
 1. When you receive your new laptop, complete the donation.
 
 
-## Gitlab Asset Management
+## GitLab Asset Management
 
 ### Snipe-IT
 
@@ -370,10 +344,7 @@ For more information regarding DriveStrike, refer to our [DriveStrike](/handbook
 
 IT Ops has an automated workflow that triggers upon a notification from PeopleOps of a team-member offboarding. This automated workflow is composed of 2 parts that are outlined below. The first part happens within 1 hour of the offboarding. The second part occurs after 90 days of the offboarding. This workflow will send out notifications throughout this 90 day period to let the Former Team member's manager know that the final deadline is approaching.
 
-
-
 #### These are the steps that follow immediately upon termination of a team-member
-
 
 - The former team-member (FTM) is removed from all Google groups
 - The former team-member (FTM) is locked from access to their laptop
@@ -400,9 +371,6 @@ IT Ops has an automated workflow that triggers upon a notification from PeopleOp
 - The FTM’s account will be moved to NoGSuiteLicense OU
 - The Google Workspace License is removed from the account
 
-
-
-
 #### The following notifications will be sent out to the FTM’s manager and IT over Slack.
 
 **Immediate Slack notification:**
@@ -425,11 +393,12 @@ IT Ops has an automated workflow that triggers upon a notification from PeopleOp
 
 **Final Slack notification**
 
-> The Gitlab Google Workspace account for `<Firstname>``<LastName>` has been archived after 90 days as per our standard offboarding policy.
+> The GitLab Google Workspace account for `<Firstname>``<LastName>` has been archived after 90 days as per our standard offboarding policy.
 
-# Exceptions
+## Exceptions
 
 Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](/handbook/security/#information-security-policy-exception-management-process).
 
-# References
+## References
+
 - Parent Policy: [Information Security Policy](/handbook/security/)

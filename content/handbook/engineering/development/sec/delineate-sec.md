@@ -1,15 +1,8 @@
 ---
 aliases: /handbook/engineering/development/sec/delineate-sec.html
-
 title: Secure / Govern sub-department delineation
 description: "Definition of what engineering group is responsible for features in the Secure and Govern stages of the GitLab product"
 ---
-
-
-
-
-
-
 
 ## Why does this page exist?
 
@@ -19,25 +12,25 @@ In the spirit of establishing a [DRI](/handbook/people-group/directly-responsibl
 
 | Page/Function | PM | Primary Group | Example |
 | ---      | ---      | ---      | ---      |
-| [Secure Partner Onboarding Docs](https://docs.gitlab.com/ee/development/integrations/secure_partner_integration.html) | <%= link_to_team_member('abellucci') %> | [Sec by their categories](/handbook/product/categories/#sec-section) |  |
-| [Security Configuration](https://docs.gitlab.com/ee/user/application_security/configuration/) | [Sec by their categories](/handbook/product/categories/#sec-section) |  |  |
-| Vulnerability ingestion and DB storage | <%= link_to_team_member('abellucci') %> | [Govern:Threat Insights](/handbook/product/categories/#threat-insights-group) |  |
-| Dependency ingestion and DB storage | <%= link_to_team_member('abellucci') %> | [Govern:Threat Insights](/handbook/product/categories/#threat-insights-group) |  |
-| [Dependency List](https://docs.gitlab.com/ee/user/application_security/dependency_list/) | <%= link_to_team_member('abellucci') %> | [Govern:Threat Insights](/handbook/product/categories/#threat-insights-group) | [Example](https://gitlab.com/gitlab-examples/security/security-reports/-/licenses#licenses) |
-| [License Compliance Page](https://docs.gitlab.com/ee/user/compliance/license_compliance/) | <%= link_to_team_member('abellucci') %> | [Govern:Threat Insights](/handbook/product/categories/#threat-insights-group) |  |
-| [Interact with findings and vulnerabilities](https://docs.gitlab.com/ee/user/application_security/index.html#interact-with-findings-and-vulnerabilities) | <%= link_to_team_member('abellucci') %> | [Govern:Threat Insights](/handbook/product/categories/#threat-insights-group) |  |
-| [Merge Request Security Widget](https://docs.gitlab.com/ee/user/application_security/#view-security-scan-information-in-merge-requests) | <%= link_to_team_member('abellucci') %> | [Govern:Threat Insights](/handbook/product/categories/#threat-insights-group) | [Example](https://gitlab.com/gitlab-org/security-products/tests/webgoat/-/merge_requests/26) |
-| [Merge Request License Compliance Widget](https://docs.gitlab.com/ee/user/compliance/license_list.html) | <%= link_to_team_member('smeadzinger') %> | [Secure:Composition Analysis](/handbook/product/categories/#composition-analysis-group) | [Example](https://gitlab.com/gitlab-org/security-products/tests/webgoat/-/merge_requests/28) |
-| [Pipeline Security Tab](https://docs.gitlab.com/ee/user/application_security/security_dashboard/#view-vulnerabilities-in-a-pipeline) | <%= link_to_team_member('abellucci') %> | [Govern:Threat Insights](/handbook/product/categories/#threat-insights-group) | [Example](https://gitlab.com/gitlab-org/security-products/tests/webgoat/-/pipelines/155052050/security) |
-| [Security Dashboards](https://docs.gitlab.com/ee/user/application_security/security_dashboard) | <%= link_to_team_member('abellucci') %> | [Govern:Threat Insights](/handbook/product/categories/#threat-insights-group) | [Example](https://gitlab.com/gitlab-examples/security/security-reports/-/security/dashboard) |
-| [Security Scanner Integration Documentation](https://docs.gitlab.com/ee/development/integrations/secure.html) | <%= link_to_team_member('abellucci') %> | [Govern:Threat Insights](/handbook/product/categories/#threat-insights-group) |  |
-| [Vulnerability Pages](https://docs.gitlab.com/ee/user/application_security/vulnerabilities/) | <%= link_to_team_member('abellucci') %> | [Govern:Threat Insights](/handbook/product/categories/#threat-insights-group) | [Example](https://gitlab.com/gitlab-examples/security/security-reports/-/security/vulnerability_report) |
-| [Vulnerability Report](https://docs.gitlab.com/ee/user/application_security/vulnerability_report/) | <%= link_to_team_member('abellucci') %> | [Govern:Threat Insights](/handbook/product/categories/#threat-insights-group) | [Example](https://gitlab.com/gitlab-org/threat-management/webgoat/-/security/vulnerabilities) |
-| [Policies](https://docs.gitlab.com/ee/user/application_security/policies/) | <%= link_to_team_member('g.hickman') %> | [Govern:Security Policies](/handbook/product/categories/#security-policies-group) | [Example](https://gitlab.com/gitlab-examples/wayne-enterprises/wayne-financial/customer-web-portal/-/security/policies) |
-| Advisories ingestion and DB storage| <%= link_to_team_member('smeadzinger') %> | [Secure:Composition Analysis](/handbook/product/categories/#composition-analysis-group) |  |
-| External License ingestion and DB storage | <%= link_to_team_member('smeadzinger') %> | [Secure:Composition Analysis](/handbook/product/categories/#composition-analysis-group) |  |
-| Vulnerability Match Job | <%= link_to_team_member('smeadzinger') %> | [Secure:Composition Analysis](/handbook/product/categories/#composition-analysis-group) |  |
-| License Match Job | <%= link_to_team_member('smeadzinger') %> | [Secure:Composition Analysis](/handbook/product/categories/#composition-analysis-group) |  |
+| [Secure Partner Onboarding Docs](https://docs.gitlab.com/ee/development/integrations/secure_partner_integration.html) | {{< member-by-gitlab "abellucci" >}} | [Sec by their categories](/handbook/product/categories/#sec-section) |  |
+| [Security Configuration](https://docs.gitlab.com/ee/user/application_security/configuration/) | | [Sec by their categories](/handbook/product/categories/#sec-section) |  |
+| Vulnerability ingestion and DB storage | {{< member-by-gitlab "abellucci" >}} | [Govern:Threat Insights](/handbook/product/categories/#threat-insights-group) |  |
+| Dependency ingestion and DB storage | {{< member-by-gitlab "abellucci" >}} | [Govern:Threat Insights](/handbook/product/categories/#threat-insights-group) |  |
+| [Dependency List](https://docs.gitlab.com/ee/user/application_security/dependency_list/) | {{< member-by-gitlab "abellucci" >}} | [Govern:Threat Insights](/handbook/product/categories/#threat-insights-group) | [Example](https://gitlab.com/gitlab-examples/security/security-reports/-/licenses#licenses) |
+| [License Compliance Page](https://docs.gitlab.com/ee/user/compliance/license_compliance/) | {{< member-by-gitlab "abellucci" >}} | [Govern:Threat Insights](/handbook/product/categories/#threat-insights-group) |  |
+| [Interact with findings and vulnerabilities](https://docs.gitlab.com/ee/user/application_security/index.html#interact-with-findings-and-vulnerabilities) | {{< member-by-gitlab "abellucci" >}} | [Govern:Threat Insights](/handbook/product/categories/#threat-insights-group) |  |
+| [Merge Request Security Widget](https://docs.gitlab.com/ee/user/application_security/#view-security-scan-information-in-merge-requests) | {{< member-by-gitlab "abellucci" >}} | [Govern:Threat Insights](/handbook/product/categories/#threat-insights-group) | [Example](https://gitlab.com/gitlab-org/security-products/tests/webgoat/-/merge_requests/26) |
+| [Merge Request License Compliance Widget](https://docs.gitlab.com/ee/user/compliance/license_list.html) | {{< member-by-gitlab "smeadzinger" >}} | [Secure:Composition Analysis](/handbook/product/categories/#composition-analysis-group) | [Example](https://gitlab.com/gitlab-org/security-products/tests/webgoat/-/merge_requests/28) |
+| [Pipeline Security Tab](https://docs.gitlab.com/ee/user/application_security/security_dashboard/#view-vulnerabilities-in-a-pipeline) | {{< member-by-gitlab "abellucci" >}} | [Govern:Threat Insights](/handbook/product/categories/#threat-insights-group) | [Example](https://gitlab.com/gitlab-org/security-products/tests/webgoat/-/pipelines/155052050/security) |
+| [Security Dashboards](https://docs.gitlab.com/ee/user/application_security/security_dashboard) | {{< member-by-gitlab "abellucci" >}} | [Govern:Threat Insights](/handbook/product/categories/#threat-insights-group) | [Example](https://gitlab.com/gitlab-examples/security/security-reports/-/security/dashboard) |
+| [Security Scanner Integration Documentation](https://docs.gitlab.com/ee/development/integrations/secure.html) | {{< member-by-gitlab "abellucci" >}} | [Govern:Threat Insights](/handbook/product/categories/#threat-insights-group) |  |
+| [Vulnerability Pages](https://docs.gitlab.com/ee/user/application_security/vulnerabilities/) | {{< member-by-gitlab "abellucci" >}} | [Govern:Threat Insights](/handbook/product/categories/#threat-insights-group) | [Example](https://gitlab.com/gitlab-examples/security/security-reports/-/security/vulnerability_report) |
+| [Vulnerability Report](https://docs.gitlab.com/ee/user/application_security/vulnerability_report/) | {{< member-by-gitlab "abellucci" >}} | [Govern:Threat Insights](/handbook/product/categories/#threat-insights-group) | [Example](https://gitlab.com/gitlab-org/threat-management/webgoat/-/security/vulnerabilities) |
+| [Policies](https://docs.gitlab.com/ee/user/application_security/policies/) | {{< member-by-gitlab "g.hickman" >}} | [Govern:Security Policies](/handbook/product/categories/#security-policies-group) | [Example](https://gitlab.com/gitlab-examples/wayne-enterprises/wayne-financial/customer-web-portal/-/security/policies) |
+| Advisories ingestion and DB storage| {{< member-by-gitlab "smeadzinger" >}} | [Secure:Composition Analysis](/handbook/product/categories/#composition-analysis-group) |  |
+| External License ingestion and DB storage | {{< member-by-gitlab "smeadzinger" >}} | [Secure:Composition Analysis](/handbook/product/categories/#composition-analysis-group) |  |
+| Vulnerability Match Job | {{< member-by-gitlab "smeadzinger" >}} | [Secure:Composition Analysis](/handbook/product/categories/#composition-analysis-group) |  |
+| License Match Job | {{< member-by-gitlab "smeadzinger" >}} | [Secure:Composition Analysis](/handbook/product/categories/#composition-analysis-group) |  |
 
 ## Technical Boundaries
 

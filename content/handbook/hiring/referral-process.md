@@ -48,6 +48,15 @@ All GitLab Team Members should submit a referral by submitting them directly thr
 
 ##### Submitting a Referral in Greenhouse
 
+To ensure a seamless referral process, it's important to adhere to our established guidelines. While a common approach involves asking the candidate to apply directly and notifying TA afterward, this method bypasses some of the enhanced steps we've implemented for referrals. Following the formal referral process guarantees:
+
+1. **Direct notification to the relevant recruiter**: The assigned recruiter promptly receives a direct notification of your referral, minimizing the risk of oversight.
+1. **Thorough review of the application**: Referral applications undergo a comprehensive review, avoiding automatic filtering based on application questions.
+1. **Efficient handling to maximize referral impact**: By reducing double-handling, we optimize the time spent on referrals, ensuring a more effective and streamlined process.
+
+If the person you wish to refer has already submitted an application, please follow the process for notifying Talent Acquisition. It's important to note that, despite our best efforts, individuals who apply without following the proper referral procedure may not receive the same experience as those referred through our formal channels in Greenhouse.
+
+
 1. Login to [Greenhouse](https://gitlab.greenhouse.io) and click the `Add a Referral` button in the top menu bar.
 1. Fill-in all the required fields (designated by a red asterisk) and as many of the non-required fields as possible.
     - Of note:

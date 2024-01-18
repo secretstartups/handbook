@@ -46,7 +46,7 @@ Gitaly team members do not carry pagers, but we live around the world and there'
 
 These issues relate to ongoing production outages or similar. They interrupt our process used to [schedule work] and get attention as soon as possible.
 Please only interrupt us sparingly, in these cases:
-- [Severity 1 or 2](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#availability) issues, where you believe that Gitaly team has _immediately actionable_ work to do
+- [Severity 1 or 2](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#availability) issues, where you believe that Gitaly team has _immediately actionable_ work to do
 - Ongoing incidents where no mitigation exists that would tide us over until the next business day.
 
 **Getting attention on an urgent, interrupting issue**
@@ -64,7 +64,7 @@ Please file an issue [here](https://gitlab.com/gitlab-org/gitaly/-/issues/new?is
 
 We are happy to help when a customer needs it! But please keep in mind that we are primarily a _development_ team, not equipped for "field engineering".
 
-Our _engineers_ can help, preferably [async](https://handbook.gitlab.com/handbook/company/culture/all-remote/asynchronous/), with:
+Our _engineers_ can help, preferably [async](/handbook/company/culture/all-remote/asynchronous/), with:
 
 - deep technical investigation based on _data_ and able technical collaboration, in close partnership with Support and CSM
 - providing product-level fixes or improvements, work to be scheduled and results released as usual, under [direction of EM and PM](#working_with_product)
@@ -95,7 +95,7 @@ For information requests and other quick one-offs, feel free to use [#g_gitaly] 
 
 ### Issues with `Infradev` labels
 
-These are typically [Corrective Actions or other followup items](https://about.gitlab.com/handbook/engineering/workflow/#infradev) that have strict
+These are typically [Corrective Actions or other followup items](/handbook/engineering/workflow/#infradev) that have strict
 SLO tracking. They will be scheduled through either of the above paths, by EM
 and/or PM polling [these dashboards](#useful-links).
 
@@ -104,19 +104,19 @@ and/or PM polling [these dashboards](#useful-links).
 
 **Mission**: Provide a durable, performant, and reliable Git storage layer for GitLab.
 
-[Responsibilities](https://handbook.gitlab.com/job-families/engineering/backend-engineer/#cluster) |
-[In the product hierarchy](https://about.gitlab.com/handbook/product/categories/#gitalycluster-group)
+[Responsibilities](/job-families/engineering/backend-engineer/#cluster) |
+[In the product hierarchy](/handbook/product/categories/#gitalycluster-group)
 
-{{< team-by-department "Gitaly Cluster Team" >}}
+{{< team-by-departments "Gitaly Cluster Team" >}}
 
 ## Git team
 
 **Mission**: Develop Git in accordance with the goals of the community and GitLab, and integrate it into our products.
 
-[Responsibilities](https://handbook.gitlab.com/job-families/engineering/backend-engineer/#git) |
-[In the product hierarchy](https://about.gitlab.com/handbook/product/categories/#gitalygit-group)
+[Responsibilities](/job-families/engineering/backend-engineer/#git) |
+[In the product hierarchy](/handbook/product/categories/#gitalygit-group)
 
-{{< team-by-department "Gitaly Git Team" >}}
+{{< team-by-departments "Gitaly Git Team" >}}
 
 ## Working with product
 
@@ -157,7 +157,7 @@ We work off the [Gitaly ongoing work issue board], where the `workflow::ready fo
 
 Assign yourself to the item of choice and move it to `workflow::in dev` (and later as appropriate).
 
-Note that P1/S1 work should be the only one to preempt this default flow. Do involve PM and EM if urgent work needs to be prioritized, but for P1/S1 burning fires a [bias for action](https://handbook.gitlab.com/handbook/values/#bias-for-action) is of course preferred, just keep everyone informed.
+Note that P1/S1 work should be the only one to preempt this default flow. Do involve PM and EM if urgent work needs to be prioritized, but for P1/S1 burning fires a [bias for action](/handbook/values/#bias-for-action) is of course preferred, just keep everyone informed.
 
 #### Blocked issues
 
@@ -296,7 +296,7 @@ The process is as follows:
 
 ### Handling issues with strict SLO
 
-Issues with `Infradev` label are typically [Corrective Actions or other followup items](https://about.gitlab.com/handbook/engineering/workflow/#infradev) that have strict
+Issues with `Infradev` label are typically [Corrective Actions or other followup items](/handbook/engineering/workflow/#infradev) that have strict
 SLO tracking. They will be scheduled through either of the above paths, by EM
 and/or PM polling these dashboards:
 
@@ -329,7 +329,7 @@ The Gitaly consumers are:
 
 ## Gitaly Deprecations
 
-Gitaly offers many customer facing features. As such, all deprecations to customer facing features will follow the standard [GitLab feature deprecations guidance](https://about.gitlab.com/handbook/marketing/blog/release-posts/#deprecations-removals-and-breaking-changes) and announced within the [deprecations documentation page](https://docs.gitlab.com/ee/update/deprecations.html).
+Gitaly offers many customer facing features. As such, all deprecations to customer facing features will follow the standard [GitLab feature deprecations guidance](/handbook/marketing/blog/release-posts/#deprecations-removals-and-breaking-changes) and announced within the [deprecations documentation page](https://docs.gitlab.com/ee/update/deprecations.html).
 
 Gitaly also offers many non-customer facing features, which are used by GitLab and other customers who directly interface with Gitaly. These Gitaly level deprecations will not be announced using the above methods as they are not designed for GitLab end users to interface with directly. Some examples of these non-customer facing features are storage level APIs, which should never be called by GitLab users.
 

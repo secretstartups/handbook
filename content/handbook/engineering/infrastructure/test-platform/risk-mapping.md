@@ -91,12 +91,12 @@ After naming the risks by integrating different Areas and Facets to help brainst
 | -------------------- | ------------------------------------------------------------ | ------ | ------------ | ----------- | -------- | ---------- |
 | Team/Stability       | Burn out                                                     | Low productivity and attrition | 5 | 2 | 10 |
 | Team/Scaling        | Inefficient team member onboarding                           | Prolonged low productivity | 3 | 2 | 6 |
-| Team/Expertise       | Concentration of knowledge                                   | Missed SLO/SLA | 4 | 3 | 12  |  
+| Team/Expertise       | Concentration of knowledge                                   | Missed SLO/SLA | 4 | 3 | 12  |
 | Customer             | Broken promises                                              | Reduced GMAU | 5 | 2 | 10 |
 | Customer             | Eroded trust with the community                              | Fewer community contributions | 5 | 1  | 5 |
 | Product/Scope        | Not enough knowledge about how the product is being used     | Reduced [METRIC] | 3 | 3 | 9 |
 | Product/Scope        | Increase of security vulnerabilities due to having many different areas of the product | Loss of confidence / revenue | 5  | 1 | 5 |
-| Product/Data         | User metrics and activity metrics are incomplete and hard to track | Inaccurate sensing data | 4  | 3 | 12 |  
+| Product/Data         | User metrics and activity metrics are incomplete and hard to track | Inaccurate sensing data | 4  | 3 | 12 |
 | Quality              | Downgrade quality to meet maturity targets                   | Escaped bugs | 5 | 3 | 15 |
 | Quality              | Uncertain test coverage                                      | Difficult to prioritise test effort | 3 | 3 | 9 |
 | Feature/Performance  | Low performance due to _____      | Low customer satisfaction, reduced [METRIC] | 5  | 4 | 20 |
@@ -123,8 +123,8 @@ The Risk Mapping Tool helps teams easily visualize risks and planned mitigations
 
 Setting up the Risk Mapping Tool is not a requirement, but may be helpful for quick visualizations of risk status. If metrics are in place to measure risk status, the Risk Mapping Tool can more easily expose these.
 
-The Risk Mapping Tool belongs to the Projects [maintained by Quality](https://about.gitlab.com/handbook/engineering/quality/project-management/) and could be a part of the [Quad-Planning process](https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/quad-planning/) feeding into the [Test Engineering](https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/test-engineering/) practices by facilitating the test planning process with an initial risk analysis.
+The Risk Mapping Tool belongs to the Projects [maintained by Quality](/handbook/engineering/infrastructure/engineering-productivity/project-management/) and could be a part of the [Quad-Planning process](/handbook/engineering/infrastructure/test-platform/quad-planning/) feeding into the [Test Engineering](/handbook/engineering/infrastructure/test-platform/test-engineering/) practices by facilitating the test planning process with an initial risk analysis.
 
 To install the Risk Mapping tool, please follow the [README](https://gitlab.com/gitlab-org/quality/risk-mapping-tool/-/blob/master/README.md) instructions.
 
-If desired, a team or group could also manually input these in a [visual risk map](https://docs.google.com/presentation/d/1T_9mMQuBHeQzgXIZdV5asicW6h8z_10kbqJYswzJCjM/edit?usp=sharing). [Here's](https://docs.google.com/presentation/d/1d3RoC7Tp1qoQrv1sldjgC9Q0u5ODkSo50ECS0dS9XIo/edit?usp=sharing) an example of a complete visual risk map.  
+If desired, a team or group could also manually input these in a [visual risk map](https://docs.google.com/presentation/d/1T_9mMQuBHeQzgXIZdV5asicW6h8z_10kbqJYswzJCjM/edit?usp=sharing). [Here's](https://docs.google.com/presentation/d/1d3RoC7Tp1qoQrv1sldjgC9Q0u5ODkSo50ECS0dS9XIo/edit?usp=sharing) an example of a complete visual risk map.

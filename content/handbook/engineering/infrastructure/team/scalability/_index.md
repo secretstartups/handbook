@@ -3,12 +3,13 @@ title: "Scalability Group"
 ---
 
 ## Common Links
-
-| **Workflow** | [Team workflow](/handbook/engineering/infrastructure/team/scalability/#how-we-work) |
-| **GitLab.com** | `@gitlab-org/scalability` |
-| **Issue Trackers** | [Scalability](https://gitlab.com/gitlab-com/gl-infra/scalability) |
-| **Team Slack Channels** | [#g_scalability](https://gitlab.slack.com/archives/g_scalability) - Company facing channel <br/> [#g_scalability_observability](https://gitlab.slack.com/archives/g_scalability_observability) - Team channel <br/> [#g_scalability_practices](https://gitlab.slack.com/archives/g_scalability_practices) - Team channel<br/> [#scalability_social](https://gitlab.slack.com/archives/g_scalability_social) - Group social channel|
-| **Information Slack Channels** | [#infrastructure-lounge](https://gitlab.slack.com/archives/infrastructure-lounge) (Infrastructure Group Channel), <br/>[#incident-management](https://gitlab.slack.com/archives/incident-management) (Incident Management),  <br/>[#alerts-general](https://gitlab.slack.com/archives/alerts-general) (SLO alerting), <br/>[#mech_symp_alerts](https://gitlab.slack.com/archives/mech_symp_alerts) (Mechanical Sympathy Alerts) |
+| |                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| --- |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Workflow** | [Team workflow](/handbook/engineering/infrastructure/team/scalability/#how-we-work)                                                                                                                                                                                                                                                                                                                                                |
+| **GitLab.com** | `@gitlab-org/scalability`                                                                                                                                                                                                                                                                                                                                                                                                          |
+| **Issue Trackers** | [Scalability](https://gitlab.com/gitlab-com/gl-infra/scalability)                                                                                                                                                                                                                                                                                          |
+| **Team Slack Channels** | [#g_scalability](https://gitlab.slack.com/archives/g_scalability) - Company facing channel <br/> [#g_scalability_observability](https://gitlab.slack.com/archives/g_scalability_observability) - Team channel <br/> [#g_scalability_practices](https://gitlab.slack.com/archives/g_scalability_practices) - Team channel<br/> [#scalability_social](https://gitlab.slack.com/archives/g_scalability_social) - Group social channel |
+| **Information Slack Channels** | [#infrastructure-lounge](https://gitlab.slack.com/archives/infrastructure-lounge) (Infrastructure Group Channel), <br/>[#incident-management](https://gitlab.slack.com/archives/incident-management) (Incident Management),  <br/>[#alerts-general](https://gitlab.slack.com/archives/alerts-general) (SLO alerting), <br/>[#mech_symp_alerts](https://gitlab.slack.com/archives/mech_symp_alerts) (Mechanical Sympathy Alerts)    |
 
 ### Project Management Links
 
@@ -22,17 +23,19 @@ title: "Scalability Group"
 
 ## Teams
 
-The Scalability group is currently formed of two teams: `Scalability:Observability` and `Scalability:Practices`.
+The Scalability group is currently formed of two teams:
+* [Scalability:Observability](./observability) and
+* `Scalability:Practices`.
 
 {{< team-by-manager-slug "rachel-nienaber" >}}
 
 
 ### Scalability:Observability
 
-The Observability team focuses on observability, forecasting & projection systems that enable development engineering to predict
+The [Observability team](./observability) focuses on observability, forecasting & projection systems that enable development engineering to predict
 system growth for their areas of responsibility.
 
-The following people are members of the Scalability:Observability team:
+The following people are members of the [Scalability:Observability team](./observability):
 
 {{< team-by-manager-slug "liam-m" >}}
 
@@ -45,7 +48,7 @@ The Practises team is a new addition to the Scalability group and we will refine
 Current team responsibilities:
 
 - [Runway](https://about.gitlab.com/direction/saas-platforms/scalability/runway/): Internal Platform as a Service for GitLab, enabling teams to deploy and run their services quickly and safely.
-- [Production Readiness Review](https://about.gitlab.com/handbook/engineering/infrastructure/production/readiness/): A process that helps identify the reliability needs of a service, feature, or significant change to infrastructure for GitLab.com
+- [Production Readiness Review](/handbook/engineering/infrastructure/production/readiness/): A process that helps identify the reliability needs of a service, feature, or significant change to infrastructure for GitLab.com
 
 The following people are members of the Scalability:Practices team:
 
@@ -96,7 +99,7 @@ for each of GitLab's services.
 
 ## Direction for FY24
 
-We've moved the direction to the direction section [here](/direction/saas-platforms/scalability/) so that it's in the same place as the rest of our product direction.
+We've moved the direction to the direction section [here](https://about.gitlab.com/direction/saas-platforms/scalability/) so that it's in the same place as the rest of our product direction.
 
 ## Indicators
 
@@ -128,9 +131,9 @@ The above list is not comprehensive, nor does it outline a formal process. We sh
 The Scalability Group consists of a Senior Engineering Manager, Engineering Managers, Backend Engineers, and Site Reliability Engineers.
 
 The Engineering Roles section of the handbook lists the responsbilies of these roles:
-- [Engineering Manager](https://handbook.gitlab.com/job-families/engineering/infrastructure/engineering-management/#manager-engineering-scalability)
-- [Backend Engineer](https://handbook.gitlab.com/job-families/engineering/backend-engineer) with [Scalability specialization](https://handbook.gitlab.com/job-families/engineering/backend-engineer/#scalability).
-- [Site Reliability Engineer](https://handbook.gitlab.com/job-families/engineering/infrastructure/site-reliability-engineer/#levels-for-site-reliability-engineer) with [Scalability specialization](https://handbook.gitlab.com/job-families/engineering/infrastructure/site-reliability-engineer/#scalability).
+- [Engineering Manager](/job-families/engineering/infrastructure/engineering-management/#manager-engineering-scalability)
+- [Backend Engineer](/job-families/engineering/backend-engineer) with [Scalability specialization](/job-families/engineering/backend-engineer/#scalability).
+- [Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/#levels-for-site-reliability-engineer) with [Scalability specialization](/job-families/engineering/infrastructure/site-reliability-engineer/#scalability).
 
 ## Working with us
 
@@ -424,11 +427,11 @@ When handing over an issue to the new owner, provide as much information as you 
 The Scalability team members often have specialized knowledge that is helpful in resolving incidents. Some team members are also SREs who are part of the on-call rota. We follow the guidelines below when contributing to incidents.
 
 For an on-call SRE:
-- follow the [ordinary incident management procedures for EOC](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#engineer-on-call-eoc-responsibilities)
+- follow the [ordinary incident management procedures for EOC](/handbook/engineering/infrastructure/incident-management/#engineer-on-call-eoc-responsibilities)
 - at the end of your shift, if there are active incidents or corrective actions in progress, inform the EM who will help you to prioritize the remaining work
 
 For an Incident Manager:
-- follow the [ordinary incident management procedures for IM](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities)
+- follow the [ordinary incident management procedures for IM](/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities)
 - handover should occur as normal, but inform the EM if there are active incidents you are still working on
 
 If you are not EOC or an Incident Manager when an incident occurs:
@@ -532,3 +535,4 @@ The team impact overview is logged in issues:
 1. [Year overview for 2020](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/764)
 1. [Year overview for 2021](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/1473)
 1. [Year overview for 2022](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/2062)
+1. [Year overview for 2023](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/2665)

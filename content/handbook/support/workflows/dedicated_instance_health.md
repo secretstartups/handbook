@@ -2,7 +2,7 @@
 
 title: GitLab Dedicated Observability and Monitoring (Grafana)
 category: GitLab Dedicated
-description: "Gitlab Dedicated Support - Observability and Monitoring"
+description: "GitLab Dedicated Support - Observability and Monitoring"
 ---
 
 ## Grafana data is primarily for internal use

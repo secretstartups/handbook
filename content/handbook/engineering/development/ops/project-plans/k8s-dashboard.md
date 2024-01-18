@@ -52,12 +52,12 @@ Epic: [https://gitlab.com/groups/gitlab-org/-/epics/11112](https://gitlab.com/gr
 - Due to the limited availability of the main DRI for this weeek we do not expect much progress.
 - A [Conference Talk](https://docs.google.com/presentation/d/1Z34EOsF5J-koPUzPLxSfDou_DvPj66ezrtZHCPjNss4/edit?usp=sharing) about the k8s dashboard has been delivered by Anna Vovchenko
 
-### Milestone 16.7 (November 13, 2023 - December 8, 2023)
+### Milestone 16.7 (November 13, 2023 - December 15, 2023)
 
 #### Goals:
 
 - [x] Now that the Iteration 1 of the dashboard is designed we can focus on refining [https://gitlab.com/groups/gitlab-org/-/epics/11351](https://gitlab.com/groups/gitlab-org/-/epics/11351)
-- [-] 50% of the MVC issues for iteration 1 is delivered
+- [x] 50% of the MVC issues for iteration 1 is delivered
 
 #### Week of Nov 13-17
 
@@ -87,22 +87,22 @@ Epic: [https://gitlab.com/groups/gitlab-org/-/epics/11112](https://gitlab.com/gr
 - [x] *forecast*: [Iteration 1 of the Kubernetes deployments page](https://gitlab.com/gitlab-org/gitlab/-/issues/428313) is done
 - [-] *forecast*: [Iteration 1 of the Kubernetes statefulSets page](https://gitlab.com/gitlab-org/gitlab/-/issues/428314) is done
 
-### Milestone 16.8 (December 11, 2023 - January 12, 2024)
+#### Week of Dec 11-15
+
+- [x] *forecast*: [Iteration 1 of the Kubernetes statefulSets page](https://gitlab.com/gitlab-org/gitlab/-/issues/428314) is done
+- [x] *forecast*: [Iteration 1 of the Kubernetes replicaSets page](https://gitlab.com/gitlab-org/gitlab/-/issues/428315) is done
+
+### Milestone 16.8 (December 18, 2023 - January 12, 2024)
 
 #### Goals:
 
 - [ ] Iteration 1 is finalised and deplopyed behind feature flags.
 - [ ] Iteration 2 is scoped, the issues created and refined
 
-#### Week of Dec 11-15
-
-- [ ] *forecast*: [Iteration 1 of the Kubernetes statefulSets page](https://gitlab.com/gitlab-org/gitlab/-/issues/428314) is done
-- [ ] *forecast*: [Iteration 1 of the Kubernetes replicaSets page](https://gitlab.com/gitlab-org/gitlab/-/issues/428315) is done
-
 #### Week of Dec 18-22
 
-- [ ] *forecast*: [Iteration 1 of the Kubernetes daemonSets page](https://gitlab.com/gitlab-org/gitlab/-/issues/428316) is done
-- [ ] *forecast*: [Iteration 1 of the Kubernetes jobs page](https://gitlab.com/gitlab-org/gitlab/-/issues/428317) is done
+- [x] *forecast*: [Iteration 1 of the Kubernetes daemonSets page](https://gitlab.com/gitlab-org/gitlab/-/issues/428316) is done
+- [x] *forecast*: [Iteration 1 of the Kubernetes jobs page](https://gitlab.com/gitlab-org/gitlab/-/issues/428317) is done
 
 #### Week of Dec 25-28
 
@@ -114,8 +114,8 @@ Epic: [https://gitlab.com/groups/gitlab-org/-/epics/11112](https://gitlab.com/gr
 
 #### Week of Jan 8-12
 
-- [ ] *forecast*: [Iteration 1 of the Kubernetes services page](https://gitlab.com/gitlab-org/gitlab/-/issues/428322) is done
-- [ ] *forecast*: Iteration 1 of the Kubernetes dashboard pages are enriched with detailed resource spec information
+- [x] *forecast*: [Iteration 1 of the Kubernetes services page](https://gitlab.com/gitlab-org/gitlab/-/issues/428322) is done
+- [-] *forecast*: Iteration 1 of the Kubernetes dashboard pages are enriched with detailed resource spec information
 
 
 ### Milestone 16.9 (January 15, 2024 - February 9, 2024)

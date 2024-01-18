@@ -28,7 +28,7 @@ Infrastructure & Quality objectives and KRs are captured on this page.
 
 #### 2. **Objective:** Improve efficiency, scalability and resiliency of GitLab.com Infrastructure => 94%
 1. KR: [Implement RTO & RPO goals for GitLab.com](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3701) => 9% `Needs attention`
-1. KR: [Gitlab.com hosting costs reduced by 5% from FY24-Q2](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3400) => 144% 
+1. KR: [GitLab.com hosting costs reduced by 5% from FY24-Q2](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3400) => 144% 
 1. KR: [Increase accuracy of GitLab SaaS availability metrics](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3491) => 55%
 1. KR: [Ensure sufficient capacity at the cache layer to protect GitLab.com availability](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3492) => 92%
 1. KR: [Reduce the risk of downtime and deployment related incidents via Blue/Green deployments](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3546) => 76%

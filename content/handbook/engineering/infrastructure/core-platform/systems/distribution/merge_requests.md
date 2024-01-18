@@ -20,7 +20,7 @@ Merge Requests are the responsibility of all Distribution Engineers. For the mos
 The Distribution team uses the [Reviewers feature](https://docs.gitlab.com/ee/development/code_review.html#dogfooding-the-reviewers-feature) in the code review process. The process looks like this:
 
 1. Author opens a merge request in a project.
-1. When ready for review: 
+1. When ready for review:
    - For all projects expept `gitlab-org/charts/gitlab/` and `gitlab-org/omnibus-gitlab`:
       - The Author applies the "workflow::ready for review" label.
       - A reviewer checks the [Distribution merge requests ready for review dashboard](https://gitlab-org.gitlab.io/distribution/monitoring/mrs/) per their priority regularly, and then picks up the merge request when they are able to work on it by adding themselves under the Reviewers section, and adding the "workflow::in review" label.
@@ -38,7 +38,7 @@ Reviewers are responsible for working with contributors to ensure that changes m
 
 Additionally, in the spirit of "everyone can contribute", anyone who is interested is encouraged to be a Reviewer. There should be no barrier preventing anyone from reviewing available merge requests. We encourage any interested party to participate.
 
-Anyone who plans on actively participating in the Reviewer process is encouraged to [update their entry on the team page](/handbook/git-page-update/#12-add-yourself-to-the-team-page).
+Anyone who plans on actively participating in the Reviewer process is encouraged to [update their entry on the team page](/handbook/editing-handbook/#add-yourself-to-the-team-page).
 
 When looking for merge requests to review, consider checking the [Merge Request Report][] to see what reviews are in danger of breaching the [SLO][].
 

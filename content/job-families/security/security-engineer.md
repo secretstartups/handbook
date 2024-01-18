@@ -74,7 +74,7 @@ The Senior Security Engineer role extends the [Intermediate Security Engineer](#
 
 ***
 
-A Senior Security Engineer may decide to pursue the [security engineering management track](/job-families/security/security-leadership/) at this point, should they wish to. See [Engineering Career Development](https://about.gitlab.com/handbook/engineering/career-development/) for more detail on the tracks available for Senior Engineers.
+A Senior Security Engineer may decide to pursue the [security engineering management track](/job-families/security/security-leadership/) at this point, should they wish to. See [Engineering Career Development](/handbook/engineering/career-development/) for more detail on the tracks available for Senior Engineers.
 
 ***
 
@@ -182,10 +182,10 @@ The Distinguished Security Engineer is a [grade 10](/handbook/total-rewards/comp
 
 ## Staff+ Initiatives
 
-At GitLab, [Staff+ individual contributors](https://about.gitlab.com/handbook/engineering/ic-leadership/) take on a larger role by driving initiatives that are larger in scope, impact, and value than their current day-to-day responsibilities call for.  In order to achieve this, Staff+ engineers are encouraged to choose 1 project, mutually agreed upon with their manager, for which they act as DRI until completion or mutually agreed upon priorities change.  The goal is to provide our staff+ team members the following benefits:
+At GitLab, [Staff+ individual contributors](/handbook/engineering/ic-leadership/) take on a larger role by driving initiatives that are larger in scope, impact, and value than their current day-to-day responsibilities call for.  In order to achieve this, Staff+ engineers are encouraged to choose 1 project, mutually agreed upon with their manager, for which they act as DRI until completion or mutually agreed upon priorities change.  The goal is to provide our staff+ team members the following benefits:
 
 - Career Growth through increased scope and responsibility
-- Increase in influence and authority through exertion of [technical leverage](https://about.gitlab.com/handbook/engineering/ic-leadership/#technical-leverage).
+- Increase in influence and authority through exertion of [technical leverage](/handbook/engineering/ic-leadership/#technical-leverage).
 - Increase in decision making opportunities
 - Leadership experience
 - Project Management experience
@@ -433,4 +433,4 @@ See more details about our hiring process on the [hiring handbook](/handbook/hir
 
 ## Career Ladder
 
-For more details on the engineering career ladders, please review the [engineering career development](https://about.gitlab.com/handbook/engineering/career-development/#roles) handbook page.
+For more details on the engineering career ladders, please review the [engineering career development](/handbook/engineering/career-development/#roles) handbook page.

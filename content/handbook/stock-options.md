@@ -75,16 +75,22 @@ In September 2021, the Company’s board of directors and its stockholders appro
    - PTY Ltd (Australia/New Zealand)
    - Ireland Ltd (Ireland) - as of 2023-06-01
    - BV (Finland)  - as of 2023-06-01
-1. Changing Contribution Amounts
+
+### Changing Contribution Amounts
+
    - Contribution increases and decreases are limited during Offering and Purchase Periods
    - Increases: Team members may not increase their contributions after the Offering Period begins.
    - Decreases: Team Members  may decrease their contribution rates once during any Offering Period.
-1. Stop Contributions
+
+### Stop Contributions
+
    - Team members may reduce their contribution to 0% during an offering period.
    - Any prior contributions will be used to purchase shares on the scheduled purchase date.
    - At the end of the offering period, the team member will be automatically withdrawn from the offering period effective as of the day after the purchase date following the date of the request.
    - Team members would need to re-enroll as a new participant in the next open enrollment window and begin a new Offering Period  if they wish to participate in the future.
-1. Withdrawals
+
+### Withdrawals
+
    - Team members may withdraw from the ESPP at any time and receive a refund of their withheld contributions. The refunds are processed through Payroll.
    - Team members who withdraw would need to re-enroll in order to participate in future Offering Periods.
 
@@ -195,7 +201,7 @@ With the implementation of WorkDay, interfaces to ETrade provide for electronic 
 
 ### Taxes
 
-Tax law is complex and you should consult a tax attorney or other tax advisor who is familiar with startup stock options before making any decisions. Please go to the [tax team's stock options]({{< ref "/handbook/tax/stock-options" >}}) page for more information on taxation of stock options.
+Tax law is complex and you should consult a tax attorney or other tax advisor who is familiar with startup stock options before making any decisions. Please go to the [tax team's stock options](https://internal.gitlab.com/handbook/tax/stock-options/) page for more information on taxation of stock options.
 
 ### US employees with Incentive Stock Options (ISOs)
 

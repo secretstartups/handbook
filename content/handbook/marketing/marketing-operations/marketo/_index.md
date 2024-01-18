@@ -18,10 +18,10 @@ When any lead/contact is created in SFDC, it will automatically sync and create 
 Alternatively, Marketo does not automatically push all records to SFDC and a deleted record in Marketo will not delete in SFDC unless specifically told to.
 
 A lead will sync from Marketo to SFDC in these scenarios:
-
 1. Member of Program that is synced to SFDC
 1. When a person reaches `Inquiry` status
-1. When they reach `MQL` status and reach 100 points
+1. When they reach `MQL` status
+1. When their `PTP` score is a `4` or `5`
 1. Specifically told to sync via a flow step `Sync to SFDC`
 
 Data is shared between the two via the Marketo User Permission Set with either `Read` or `Read/Write` permissons. Accounts fields by default are `Read Only`. Here are quick links to review them:
@@ -42,7 +42,7 @@ Together with Sales Systems, we implemented a custom formula field called `Block
 
 For the sandbox, we have a different set of [syncing rules](/handbook/marketing/marketing-operations/marketo/#sandbox).
 
-### Multi-thread Sync
+#### Multi-thread Sync
 
 To avoid or clear SFDC backlogs, multi-thread sync is availible to use in Marketo. It enables the use of multiple lanes of data flowing from SFDC to Marketo, greatly increasing the sync rate depending on the resources availible on the Marketo servers. Each record in Marketo is marked with a value between `1-9` on the field `Marketo Thread ID` based on the first letter of the email address. Records will be synced and distributed on threads based on the value of `Marketo Thread ID`.
 
@@ -82,7 +82,7 @@ Sales Systems refreshes the [SFDC staging environment](/handbook/sales/field-ope
 
 ## Forms
 
-Nearly all the forms on our website (`about.gitlab.com`) are Marketo embedded forms. Marketing Operations is responsible for maintaining existing forms and creating any new forms. If you need a new form created, please open a [form creation issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=form_request).
+Nearly all the forms on our website (`about.gitlab.com`) are Marketo embedded forms. Marketing Operations is responsible for maintaining existing forms and creating any new forms. If you need a new form created, please open a [form creation issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=form_request). If you are using an existing form on a NEW page, please enter a request so that we can build the automation behind the form. If there is no automation created for the form, the person filling out the form will enter Marketo, but will not be processed into a campaign or sent into follow up.
 
 Form documentation can be found [here](https://docs.google.com/spreadsheets/d/1cV_hI2wAzLxYYDI-NQYF5-FDDPXPXH0VV5qRBUJAQQk). It contains all of our current forms, as well as standardized country and state picklists.
 
@@ -93,7 +93,6 @@ If you require a new language or need a new form, please gather the [translation
 All forms should follow these guidelines:
 
 - Do not use lightboxes
-- Field labels are always ALL CAPS
 - Label width = 150 / Field width = 300
 - Fields should be stacked in a vertical line
 - `Country` field label should be `Country/Region`
@@ -101,8 +100,8 @@ All forms should follow these guidelines:
 - Generally `City` is only visible when `Country` = `Ukraine`
 - Forms should all contain a checkbox to obtain consent to `opting in` to communications via email
 - When `Country` = `Ukraine` there is an additional checkbox for the submitter to confirm they do not belong to the Crimean region of the Ukraine
-- Country should not include [embargoed countries]/handbook/legal/trade-compliance/)
-- All forms should have hidden fields for Demandbase, gclid and google analytics tracking
+- Country should not include [embargoed countries](/handbook/legal/trade-compliance/)
+- All forms should have hidden fields for `gclid` and google analytics tracking
 
 If you are collecting home addresses for direct mail campaigns, you must include the following language on the landing page or form. Additionally, you must set up a deletion campaign in Marketo to remove their address information once you have sent the item. Please also ensure the vendor we are using to ship the items also deletes this from their records. `By giving us your home address, you are giving us permission to mail items to your home. We will not use this data for any other purposes.`
 
@@ -143,8 +142,8 @@ Starting in November 2022, teams within Marketo will transition to utilizing the
 Data and engineering teams have developed integrations to bring data related to in-product customer and trial usage to Marketo.
 
 1. [Marketing Contact Datamart & Pump](https://internal.gitlab.com/marketing-operations/product-data/#marketing-datamart-pump-and-pql-information-email-marketing-data-mart): Fields start with `[CDB]`
-1. [SaaS Trial & Handshakes](https://internal.gitlab.com/marketing-operations/product-data/#saas-trials--handraise) : Fields start with `[PQL]`
-1. [Propensity to Buy Models](/handbook/business-technology/data-team/organization/data-science/#conversion): Fields start with [PTPT] - Trial users only at the moment
+1. [SaaS Trial & Handshakes](https://internal.gitlab.com/marketing-operations/product-data/#saas-trials--handraise): Fields start with `[PQL]`
+1. [Propensity to Buy Models](/handbook/business-technology/data-team/organization/data-science/#conversion): Fields start with `[PTP]` - Trial users only at the moment
 
 ### Campaign Limits
 
@@ -170,7 +169,7 @@ For a visual overview, please use this [slide](https://docs.google.com/presentat
 
 ### Re-MQL
 
-For additional information, visit the lead lifecycle page](/handbook/marketing/marketing-operations/lead-lifecycle/#lead-lifecycle).
+For additional information, visit the [lead lifecycle page](/handbook/marketing/marketing-operations/lead-lifecycle/#lead-lifecycle).
 
 A Lead/Contact will be allowed to re-MQL if they are in a `Recycle` status and reach the [MQL threshold](/handbook/marketing/marketing-operations/) again.
 
@@ -194,7 +193,7 @@ Some leads are exluded from scoring if they:
 
 - Have a `@gitlab.com` email address
 - Are a competitor
-- Status = `Disqualified` or `Bad Data`
+- Status = `Disqualified` or `Ineligible`
 - Company name of `student`, `personal`, `test` and similar
 - Actively worked by a partner (`Prospect Share Status` = `Sending to Partner`, `Accepted`, or `Pending`)
 
@@ -205,7 +204,7 @@ Based on certain criteria, a lead may auto-MQL. The scenarios are listed below:
 - Self-Managed Trial + Business email domain
 - SaaS Trial - Signed Up + Business email domain
 - SaaS Trial Signed Up + `Setup for Company/Use = TRUE`
-- `Contact Us`, `Professional Services` or `Renewal` forms
+- `Contact Us`, `Duo / Code suggestions` `Professional Services` or `Renewal` forms
 - [Handraise PQL](/handbook/product/product-principles/#a-pql-can-be-further-broken-down-into-two-types-usage-and-hand-raise)
 - In-app Health Check form
 - Program status of `Follow Up Requested`
@@ -228,7 +227,7 @@ Behavior scoring is based on the actions that person has taken. The cadence of h
 |* Survey - Med|(None Defined)    |+30|    {{my.Survey - Med}}        |Trigger|Everytime|
 |* Survey - Low|Googleforms, <br> Default    |+15|    {{my.Survey - Low}}        |Trigger|Everytime|
 |* PathFactory |Consumes PF content|+10|{{my.Content - High}}|Trigger|Everytime|
-|* Inbound  - High|Contact Request, <br> Renewals, <br> [Hand Raise PQL](/handbook/product/product-principles/#a-pql-can-be-further-broken-down-into-two-types-usage-and-hand-raise) <br> In-app Health Check|    +100|{{my.Inbound - High}}|    Trigger|    1/day    |
+|* Inbound  - High|Contact Request, <br> Renewals, <br> [Hand Raise PQL](/handbook/product/product-principles/#a-pql-can-be-further-broken-down-into-two-types-usage-and-hand-raise) <br> In-app Health Check <br> Duo|    +100|{{my.Inbound - High}}|    Trigger|    1/day    |
 |* Inbound - Med|Inbound form, not above |    +60|{{my.Inbound - Med}}    |    Trigger    |1/day|
 |Drift - High| Drift Interactions with Meeting Scheduled|+100|{{my.Drift - High}}|Trigger|1/day|
 |Drift - Low|All other Drift Interactions|+10|{{my.Drift - Low}}|Trigger|1/day|
@@ -275,7 +274,7 @@ For Job role/function and seniority descriptions can be found [here](https://doc
 |Seniority - Med|[Find descriptions here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)|    +15    |{{my.Seniority - Med}}    |    Trigger on creation or Update to Title|    Once|
 |Seniority - Low|[Find descriptions here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)|    +15    |{{my.Seniority - Low}}    |    Trigger on creation or Update to Title|    Once|
 |Seniority - Negative|[Find descriptions here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)|    -10    |{{my.Seniority - Negative}}|    Trigger on creation or Update to Title|    Once|
-|Function - High|[Find descriptions here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)|    +20    |{my.Function - High}}|    Trigger on creation or Update to Title|    Once|
+|Function - High|[Find descriptions here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)|    +20    |{{my.Function - High}}|    Trigger on creation or Update to Title|    Once|
 |Function - Med|[Find descriptions here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)|+15|    {{my.Function - Med}}|    Trigger on creation or Update to Title|    Once|
 |Function - Low|[Find descriptions here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)|    +10|    {{my.Function - Low}}    |    Trigger on creation or Update to Title|    Once|
 |Function - Negative|[Find descriptions here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)|    -20    |{{my.Function - Negative}}        |Trigger on creation or Update to Title|    Once|
@@ -290,7 +289,7 @@ Marketo segmentations are used similar to a smartlist, but they are permanent an
 
 The following segmentations that are approved and live.
 
-{{% details summary="[Buyer Personas - Function](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1008A1)" %}}
+<details><summary>[Buyer Personas - Function](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1008A1)</summary>
 Based off of guidance on [Buyer Persona page](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/#buyer-personas).
 
 - App Dev
@@ -303,11 +302,13 @@ Based off of guidance on [Buyer Persona page](/handbook/marketing/brand-and-prod
 - Release
 - Tech Leader
 - Default
-{{% /details %}}
+</details>
+
 
 [Compliant and Emailable](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1016A1)
 
-{{% details summary="[Personas - Level](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1018A1)" %}}
+<details><summary>[Personas - Level](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1018A1)</summary>
+
 - C-Level Executives
 - Executives
 - Directors
@@ -316,18 +317,19 @@ Based off of guidance on [Buyer Persona page](/handbook/marketing/brand-and-prod
 - Student / intern
 - Blank title
 - Default
-{{% /details %}}
+</details>
 
 
-{{% details summary="[Sales Segment](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1017A1)" %}}
+<details><summary>[Sales Segment](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1017A1)</summary>
+
 - Enterprise
 - Mid-Market
 - SMB
 - PUBSEC
 - Default
-{{% /details %}}
+</details>
 
-{{% details summary="[Region](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1013A1)" %}}
+<details><summary>[Region](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1013A1)</summary>
 Not recommended for email. `Region` uses the country of the parent account, which might not be the location of the person being emailed. This segmentation is not recommended for email marketing unless the message is meant to be based on Account Demographics.
 
 - AMER
@@ -335,9 +337,9 @@ Not recommended for email. `Region` uses the country of the parent account, whic
 - APAC
 - LATAM
 - Default
-{{% /details %}}
+</details>
 
-{{% details summary="[Person Region](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1031A1)" %}}
+<details><summary>[Person Region](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1031A1)</summary>
 Recommended for email lists. `Person Region` uses the country of the lead/contact, not the account. Use `Person Region` when you are offering a local event or are sending messaging for people in-region.
 
 - AMER
@@ -345,17 +347,18 @@ Recommended for email lists. `Person Region` uses the country of the lead/contac
 - APAC
 - LATAM
 - Default
-{{% /details %}}
+</details>
 
-{{% details summary="[Funnel Stage](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1021A1)" %}}
+<details><summary>[Funnel Stage](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1021A1)</summary>
+
 - Raw > INQ - `Status = NULL, Inquiry or Raw` OR (`Status = Recycle` AND `Person Score < 75`)
 - INQ > MQL - `Status = MQL, Accepted or Qualifying` OR (`Status = Recycle` AND `Person Score > 74`)
 - MQL > SAO - `Status = Qualified` OR `1 Open Opportunity` OR `Has an Open Opportunity`
 - Customer - `Current Customer = TRUE` OR `Status = Web Portal Purchase` OR `Is Paid Tier = True`
 - Disqualified - Status is `Disqualified or Bad Data`
-{{% /details %}}
+</details>
 
-{{% details summary="[Priority Countries](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1024A1)" %}}
+<details><summary>[Priority Countries](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1024A1)</summary>
 Complete list of priority countries as found [here](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/6648).
 
 - Tier 1
@@ -363,9 +366,10 @@ Complete list of priority countries as found [here](https://gitlab.com/gitlab-co
 - Tier 3
 - Embargoed
 - Default
-{{% /details %}}
+</details>
 
-{{% details summary="[Language Preference](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1023A1)" %}}
+<details><summary>[Language Preference](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1023A1)</summary>
+
 - French
 - Japanese
 - German
@@ -374,9 +378,10 @@ Complete list of priority countries as found [here](https://gitlab.com/gitlab-co
 - Portuguese
 - Italian
 - Default (English)
-{{% /details %}}
+</details>
 
-{{% details summary="[Personas - Role](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1020A1)" %}}
+<details><summary>[Personas - Role](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1020A1)</summary>
+
 - Developer
 - DevOps
 - Security / Compliance
@@ -393,20 +398,23 @@ Complete list of priority countries as found [here](https://gitlab.com/gitlab-co
 - Accounting / Finance
 - C-Level (President / CEO/ COO)
 - Default
-{{% /details %}}
+</details>
 
-{{% details summary="[Sales Territories](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1026A1)" %}}
+<details><summary>[Sales Territories](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1026A1)</summary>
+
 - Currently available for US Public Sector only
 - List of available segments can be found in [this doc](https://docs.google.com/spreadsheets/d/1UAD3JKqe5y-NJBPB5CbjmN5Wq1OObzh_vsLqbuGk9dk/edit#gid=0)
-{{% /details %}}
+</details>
 
-{{% details summary="[Order Type](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1028A1)" %}}
+<details><summary>[Order Type](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1028A1)</summary>
+
 - First Order
 - Growth
 - Default
-{{% /details %}}
+</details>
 
-{{% details summary="[Product](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1027A1)" %}}
+<details><summary>[Product](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1027A1)</summary>
+
 - Ultimate
 - Premium
 - Bronze
@@ -415,7 +423,7 @@ Complete list of priority countries as found [here](https://gitlab.com/gitlab-co
 - Free User - with previous trial
 - Free User
 - Default
-{{% /details %}}
+</details>
 
 ### Snippets
 

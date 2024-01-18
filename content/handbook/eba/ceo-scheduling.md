@@ -41,6 +41,7 @@ All meetings on Sid's calendar should be scheduled and vetted by the EBA to the 
 1. Use 'and' or '&' instead of '<>' in meeting invites because of the transfer to YouTube titles when streaming
 1. **All** holds on Sid's calendar need a reason so he can judge when the hold might no longer apply.
 1. Monthly reoccurring 1:1 video calls are 25 minutes while quarterly calls/dinners are scheduled for 90 minutes plus any necessary travel time.
+1. In the event of a 10-minute meeting, meeting times to start at 0:00, 0:15, 0:30, 0:45
 1. Follow up on introductions from certain recipients (board, investors) immediately without asking for approval.
 1. If Sid is meeting with a candidate, partner with talent acquisition to send the calendar invite through Greenhouse.
 1. If Sid has an external meeting and the location is less than 25 minutes away on foot, he would prefer to walk. Please ensure the calendar reflects that he is walking versus driving/uber/lyft.

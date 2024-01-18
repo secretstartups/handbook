@@ -3,12 +3,6 @@
 title: Monitoring of GitLab.com
 ---
 
-
-
-
-
-
-
 ## GitLab.com Service Availability
 
 Service Availability is the percentage of time during which the platform is in an available state. Other states are _degraded_ and _outage_.
@@ -59,7 +53,9 @@ More details on definitions of outage, and degradation are on the [incident-mana
 
 | **Year Month** | **Availability** | **Comments** |
 | ---- | ----------- | ---- |
-| 2023 November | TBD|  |
+| 2024 January | TBD | |
+| 2023 December | 99.99% |  |
+| 2023 November | 99.99% |  |
 | 2023 October | 99.89 | Oct 30 [Sev 1](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/17054) |
 | 2023 September | 99.98% |  |
 | 2023 August | 100% |  |
@@ -156,7 +152,7 @@ To learn how to set up a new graph or dashboard using Grafana, take a look at th
 - [YouTube video showing how to set up a dashboard](https://www.youtube.com/watch?v=sKNZMtoSHN4&index=7&list=PLDGkOdUX1Ujo3wHw9-z5Vo12YLqXRjzg2)
 - The [Grafana repo](https://gitlab.com/gitlab-org/grafana-dashboards) where we keep an archive of InfluxDB dashboards created in Grafana. Use these to see details in the file structure, but note that the repo is truly an archive (nothing populates _from_ it) and can be out of date.
 
-Need access to add a dashboard? Ask any team lead within the [infrastructure team](/company/team/?department=infrastructure-department).
+Need access to add a dashboard? Ask any team lead within the [infrastructure team](/handbook/company/team/?department=infrastructure-department).
 
 #### Dashboards for stage groups
 

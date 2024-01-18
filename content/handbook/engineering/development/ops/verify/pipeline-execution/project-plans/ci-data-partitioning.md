@@ -8,12 +8,12 @@ description: "The CI Data Partitioning Weekly Project Plan - Pipeline Execution 
 ## CI Data Partitioning - Weekly Project Plan
 
 ### Milestones Goals
-- 16.6: ci_builds and ci_builds_metadata partitions in use
+- 16.6: ci_builds and ci_builds_metadata tables partitioned
 - 16.7: ci_builds and ci_builds_metadata second partitions in use
-- 16.10: ci_job_artifacts partitions in use
-- 16.11: ci_stages partitions in use
-- 17.0: ci_pipeline_variables partitions in use
-- 17.4: ci_pipelines partitions in use
+- 16.9: ci_pipeline_variables table partitioned
+- 17.0: ci_job_artifacts, ci_stages tables partitioned
+- 17.2: ci_pipelines table partitioned
+- 17.3: ci_pipelines, ci_job_artifacts, ci_stages, and ci_pipeline_variables second partitions in use
 - 17.6: rebalancing complete for partitioned tables
 
 [Related Epic](https://gitlab.com/groups/gitlab-org/-/epics/5417)
@@ -165,7 +165,7 @@ significantly negatively impacted. We will continue to work on MRs to update fil
 
 The table name got switched on production, so we are able to move forward with the remainder of the partitioning tasks for ci_builds now.
 
-</details>
+
 
 
 ### Milestone 16.6 (October 17, 2023 - November 10, 2023)
@@ -231,6 +231,7 @@ We plan to start updating the queries to include the partition_id in filtering f
 ##### ci_builds_metadata
 - [ ] Complete adding partition_id filters to related queries
 
+</details>
 
 ### Milestone 16.7 (November 13, 2023 - December 15, 2023)
 #### Team Capacity:
@@ -241,85 +242,15 @@ We plan to start updating the queries to include the partition_id in filtering f
 
 This milestone we will finish updating queries and start writing to the second partition of ci_builds and ci_builds_metadata.
 With the expanded team, we will also start the partitioning effort for ci_job_artifacts, ci_stages, and ci_pipeline_variables.
-
-### Week of November 13, 2023
-#### Team Capacity:
-
-- 1 BE (at full capacity) + 3 BE (at onboarding capacity)
-
-#### Goals:
-
-
-#### Task List:
-##### ci_builds
-- [Investigate ci_builds <-> taggings relation in connection to partitioning](https://gitlab.com/gitlab-org/gitlab/-/issues/382210)
-- [Define id trigger on p_ci_builds table](https://gitlab.com/gitlab-org/gitlab/-/issues/421173)
-
-##### ci_stages
-- TBD
-
-### Week of November 20, 2023
-#### Team Capacity:
-
-- 4 BE
-
-#### Goals:
 We plan to start writing to the second partition of ci_builds and ci_builds_metadata.
-
-
-
-#### Task List:
-##### ci_builds
-- TBD
-
-##### ci_job_artifacts
-
-##### ci_stages
-- TBD
-
-### Week of November 27, 2023
-#### Team Capacity:
-
-- 4 BE
-
-#### Goals:
 We will reintroduce the migration to ensure uniqueness of ids across partitions of ci_builds and ci_builds_metadata for self-managed.
 
-#### Task List:
-##### ci_job_artifacts
-- TBD
+#### Update: 
 
-##### ci_stages
-- TBD
-
-### Week of December 4, 2023
-#### Team Capacity:
-
-- 4 BE
-
-#### Goals:
-
-#### Task List:
-##### ci_job_artifacts
-- TBD
-
-##### ci_stages
-- TBD
-
-### Week of December 11, 2023
-#### Team Capacity:
-
-- 4 BE
-
-#### Goals:
-
-#### Task List:
-##### ci_job_artifacts
-- TBD
-
-##### ci_stages
-- TBD
-
+We completed the critical query updates needed in order to start writing to the second partition of ci_builds and ci_builds_metadata.
+We actually started writing to the second partition of ci_builds and ci_builds_metadata!
+We have made significant progress on the partitioning for ci_pipeline_variables. 
+We have also started work on ci_job_artifacts and ci_stages.
 
 ### Milestone 16.8 (December 18, 2023 - January 12, 2024)
 #### Team Capacity:
@@ -328,52 +259,46 @@ We will reintroduce the migration to ensure uniqueness of ids across partitions 
 
 #### Goals:
 
-This milestone we will continue the partitioning effort for ci_build_artifacts and ci_stages.
-
+We plan to continue making incremental progress towards the partitioning of all 3 of ci_pipeline_variables, ci_job_artifacts, and ci_stages tables. 
+This is a light milestone due to year end PTO.
 
 ### Week of December 18, 2023
 #### Team Capacity:
 
 - 4 BE
 
-#### Goals:
-
-#### Task List:
+#### Update: 
+We may be able to start work on ci_pipelines as soon as this milestone. We need to swap the primary key on the table before we can start the 
+partitioning effort. Originally we planned to wait until a backfill of foreign keys on ci_builds was complete to do the PK swap. After consulting
+with the database team we plan to move ahead with the swap prior to completion. 
 
 ### Week of December 25, 2023
 #### Team Capacity:
 
-- 4 BE
+- 0 BE
 
-#### Goals:
+#### Goals: 
 
-#### Task List:
+Resting - Team members are on much deserved PTO.
+
 
 ### Week of January 1, 2024
 #### Team Capacity:
 
-- 5 BE
+- 0 BE
 
 #### Goals:
 
-#### Task List:
+Resting - Team members are on much deserved PTO.
+
 
 ### Week of January 8, 2024
 #### Team Capacity:
 
-- 5 BE
+- 4 BE
 
-#### Goals:
+#### Update:
 
-#### Task List:
-
-
-#### Tasks:
-##### ci_build_artifacts
-- TBD
-
-##### ci_stages
-- TBD
 
 ### Milestone 16.9 (January 15, 2024 - February 9, 2024)
 #### Team Capacity:
@@ -381,32 +306,33 @@ This milestone we will continue the partitioning effort for ci_build_artifacts a
 
 #### Goals:
 
-This milestone we will start using the partitioned tables for ci_build_artifacts and ci_stages.
+This milestone we will complete the partitioning of ci_pipeline_variables. We will start the partitioning of ci_pipelines.
+We will continue incremental work to partition ci_job_artifacts, and ci_stages tables. 
+We will continue identifying and updating necessary sql queries to include partition_id. 
+We will flesh out work necessary for the time-decay mechanism and partition manager to dynamically create partitions.
 
 ### Week of January 15, 2024
 #### Team Capacity:
 
 - 5 BE
 
-#### Goals:
+#### Update:
 
-#### Task List:
 
 ### Week of January 22, 2024
 #### Team Capacity:
 
 - 5 BE
 
-#### Goals:
+#### Update:
 
-#### Task List:
 
 ### Week of January 29, 2024
 #### Team Capacity:
 
 - 5 BE
 
-#### Goals:
+#### Update:
 
 #### Task List:
 
@@ -415,16 +341,7 @@ This milestone we will start using the partitioned tables for ci_build_artifacts
 
 - 5 BE
 
-#### Goals:
-
-#### Task List:
-
-#### Tasks:
-##### ci_build_artifacts
-- TBD
-
-##### ci_stages
-- TBD
+#### Update:
 
 
 ### Milestone 16.10 (February 12, 2024 - March 8, 2024)
@@ -433,33 +350,29 @@ This milestone we will start using the partitioned tables for ci_build_artifacts
 
 #### Goals:
 
-This milestone we will start the partitioning effort for ci_pipeline_variables.
+This milestone we will start work on the time decay mechanism and partition manager.
+Incremental work will continue towards partitioning of ci_job_artifacts, ci_stages, and ci_pipelines.
+We will continue identifying and updating necessary sql queries to include partition_id. 
 
-#### Tasks:
-##### ci_pipeline_variables
-- TBD
 
 ### Milestone 16.11 (March 11, 2024 - April 12, 2024)
 #### Team Capacity:
 - 6 BE
 
 #### Goals:
+Incremental work will continue towards partitioning of ci_job_artifacts, ci_stages, and ci_pipelines.
+Work will continue on the tiem decay mechanism and partition manager.
+We will continue identifying and updating necessary sql queries to include partition_id. 
 
-This milestone we will continue the partitioning effort for ci_pipeline_variables.
-
-#### Tasks:
-##### ci_pipelines
-- TBD
-
-##### ci_pipeline_variables
-- TBD
 
 ### Milestone 17.0 (April 15, 2024 - May 10, 2024)
 #### Team Capacity:
-- 1 BE
+- 6 BE
 
 #### Goals:
-This milestone we finish the partitioning effort for ci_pipeline_variables.
+
+This milestone we will complete the partitioning of ci_job_artifacts and ci_stages.
+We will continue identifying and updating necessary sql queries to include partition_id. 
 
 
 ### Milestone 17.1 (May 13, 2024 - June 14, 2024)
@@ -467,57 +380,39 @@ This milestone we finish the partitioning effort for ci_pipeline_variables.
 - 6 BE
 
 #### Goals:
-
-This milestone we will start the partitioning effort for ci_pipelines. (Note: this assumes the PK conversion is completed)
-
-#### Tasks:
-##### ci_pipelines
-- TBD
+Incremental work will continue towards partitioning of ci_pipelines.
+We will make efforts to clean up any remaining tech debt that we have created - we've been tracking it as we go.
 
 ### Milestone 17.2 (June 17, 2024 - July 12, 2024)
 
 #### Team Capacity:
-- 1 BE
+- 3 BE
 
 #### Goals:
 
-This milestone we will continue the partitioning effort for ci_pipelines.
-
-#### Tasks:
-##### ci_pipelines
-- TBD
+This milestone we will complete the partitioning of ci_pipelines. 
+We will continue identifying and updating necessary sql queries to include partition_id. 
+We will make efforts to clean up any remaining tech debt that we have created - we've been tracking it as we go.
 
 ### Milestone 17.3 (July 15, 2024 - Aug 9, 2024)
 
 #### Team Capacity:
-- 1 BE
+- 3 BE
 
 #### Goals:
-
-This milestone we will finish the partitioning effort for ci_pipelines.
-
-#### Tasks:
-##### ci_pipelines
-- TBD
+We will start using the second partition of ci_pipelines, ci_pipeline_variables, ci_job_artifacts, and ci_stages.
+We will start rebalancing the existing partitions now that the 6 target tables have been partitioned.
+At this point it is unclear how long the rebalancing will take, but as we get closer we will update the
+plan with more information.
+We will make efforts to clean up any remaining tech debt that we have created - we've been tracking it as we go.
 
 ### Milestone 17.4 (Aug 12, 2024 - Sep 13, 2024)
 
 #### Team Capacity:
-
 - 1 BE
 
 #### Goals:
 
-This milestone we will add a partition manager to dynamically create partitions.
-The current plan is for this to be based on size, but the database team is investigating other parameters that
-may be more appropriate.
-We will also rebalance the remaining partitioned tables so that each table follows the criteria the partition manager
-will use going forward.
-
-
-#### Tasks:
-- [ ] Create partition manager to dynamically create partitions: [Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/389234)
-- [ ] Re-balance partitions so every partition will use less than 100GB of storage
 
 ### Milestone 17.5 (Sep 16, 2024 - Oct 11, 2024)
 
@@ -526,24 +421,12 @@ will use going forward.
 
 #### Goals:
 
-This milestone we will introduce the time-decay mechanism.
-
-#### Tasks:
-- TBD
-
 ### Milestone 17.6 (Oct 14, 2024 - Nov 15, 2024)
 
 #### Team Capacity:
 - 1 BE
 
 #### Goals:
-
-This milestone we will add functionality to the partition manager to allow self-managed users to configure their
-partitions in a suitable manner.
-
-#### Tasks:
-- [ ] Allow self-managed to configure partition manager with their own rules for creating new partitions
-
 
 ### Milestone 17.6 (Nov 18, 2024 - Dec 13, 2024)
 
@@ -552,5 +435,3 @@ partitions in a suitable manner.
 
 #### Goals:
 
-#### Tasks:
-- TBD

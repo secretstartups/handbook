@@ -86,7 +86,7 @@ To get your customer the most [value](/handbook/customer-success/vision/#time-to
 
 Some customers have a team of git ninjas who can manage migration and setup quickly, but the rest of the engineers might not be as skilled. Its always a good idea to suggest education services because the customer end users will be more likely to push for later stage adoption. This type of grassroots motivation will go a long way when investigating conversion opportunities.
 
-For these customers consider our [Education Services](/services/education/) (Basics, CI/CD, Devops Fundamentals)
+For these customers consider our [Education Services](/services/education/) (Basics, CI/CD, DevOps Fundamentals)
 
 
 

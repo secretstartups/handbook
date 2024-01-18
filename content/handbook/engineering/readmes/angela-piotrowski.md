@@ -6,7 +6,7 @@ description: Personal readme page for Angela Piotrowski, Support Engineering Man
 ---
 
 
-Combo of Support Engineering Handbook “[Getting to know you](https://about.gitlab.com/handbook/support/managers/getting-to-know-you.html)” and Manager README (strongly inspired by “https://about.gitlab.com/handbook/engineering/readmes/mike-dunninger/”) 
+Combo of Support Engineering Handbook “[Getting to know you](/handbook/support/managers/getting-to-know-you.html)” and Manager README (strongly inspired by “https://about.gitlab.com/handbook/engineering/readmes/mike-dunninger/”) 
 
 
 
@@ -27,7 +27,7 @@ Combo of Support Engineering Handbook “[Getting to know you](https://about.git
 ### **I Expect…**
 
 - honesty, integrity and professionalism
-- that you share and will act in accordance with [GitLab's Values](https://about.gitlab.com/handbook/values/)
+- that you share and will act in accordance with [GitLab's Values](/handbook/values/)
 - understanding of GitLab's business and goals
 - ownership – of your career, of your actions
 - teamwork – support each other

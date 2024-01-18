@@ -1,11 +1,11 @@
 ---
 title: "Family and Friends Day"
-description: "At GitLab, we are family and friends first, work second. A monthly Family and Friends Day during COVID-19 helps our Team Members prioritize their well-being."
+description: "At GitLab, we are family and friends first, work second. A quarterly Family and Friends Day during COVID-19 helps our Team Members prioritize their well-being."
 ---
 
 ## What is a Family and Friends Day?
 
-At GitLab, we are [family and friends first, work second](/handbook/values/#family-and-friends-first-work-second). In an ongoing pandemic with COVID-19 affecting many of our team members, we want to ensure that people are making their well-being a top priority and that we are living out our values, to emphasize this we will coordinate a monthly "Family and Friends Day" for as long as the majority of the world, where our team members reside, are dealing with COVID-19. On this day, we will close the doors to the GitLab virtual office, reschedule all meetings, and have a **publicly visible shutdown**.
+At GitLab, we are [family and friends first, work second](/handbook/values/#family-and-friends-first-work-second). In an ongoing pandemic with COVID-19 affecting many of our team members, we want to ensure that people are making their well-being a top priority and that we are living out our values, to emphasize this we will coordinate a quarterly "Family and Friends Day" for as long as the majority of the world, where our team members reside, are dealing with COVID-19. On this day, we will close the doors to the GitLab virtual office, reschedule all meetings, and have a **publicly visible shutdown**.
 
 Team members can share about their Family and Friends Day in the `#family-and-friends-day` Slack channel after the event, or publicly on social media such as Twitter, LinkedIn, or wherever they're most comfortable using the hashtag #FamilyFriends1st. Sharing is optional. Taking the day off is strongly encouraged if your role allows it.
 

@@ -1,14 +1,7 @@
 ---
-
 title: Govern, Threat Insights
 description: "The Threat Insights group at GitLab is charged with developing solutions to enable customers to manage their security risks effectively and efficiently."
 ---
-
-
-
-
-
-
 
 ## Threat Insights
 
@@ -32,13 +25,13 @@ Threat Insights is a large group, and to reduce planning overhead, engineering i
 
 Both teams have Backend and Frontend engineers, and as such work on any part of our codebase. However, Team Navy primarily focuses on features that affect the user interface, while Team Tangerine concentrates on data management.
 
-We use the scoped labels `~"Threat Insights::Navy"` `~"Threat Insights::Tangerine"` to designate work for each team. Navy engineers report to <%= link_to_team_member('nmccorrison') %> and Tangerine engineers report to <%= link_to_team_member('kniechajewicz') %>.
+We use the scoped labels `~"Threat Insights::Navy"` `~"Threat Insights::Tangerine"` to designate work for each team. Navy engineers report to {{< member-by-gitlab "nmccorrison" >}} and Tangerine engineers report to {{< member-by-gitlab "kniechajewicz" >}}.
 
 ### Prioritization
 
-We use our [Threat Insights Priorities](/direction/govern/threat_insights/16_threat_insights_priorities.html) page to track what we are doing, and what order to do it in.
+We use our [Threat Insights Priorities](https://about.gitlab.com/direction/govern/threat_insights/16_threat_insights_priorities.html) page to track what we are doing, and what order to do it in.
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Threat Insights" } %>
+{{% cross-functional-dashboards filters="Threat Insights" %}}
 
 ### Workflow
 
@@ -77,7 +70,7 @@ We follow these guidelines when submitting MRs for review when the change is wit
    * Milestone-centric board primarily used by product management to gauge work in current and upcoming milestones.
 
 * [Threat Insights "Ready to Pull" Board](https://gitlab.com/groups/gitlab-org/-/boards/4643978?label_name[]=group%3A%3Athreat%20insights&label_name[]=ready%20to%20pull)
-   * Secondary board for unassigned issues that are separate from a larger effort. Ideal candidates are small features, bugs, and follow-up items. 
+   * Secondary board for unassigned issues that are separate from a larger effort. Ideal candidates are small features, bugs, and follow-up items.
 
 These boards show current status of issues.
 
@@ -113,8 +106,8 @@ Standalone [E2E specs can be run against your local GDK instance](https://gitlab
 
 ### E2E tests with feature flags
 
-E2E tests should pass with a feature flag enabled before it is enabled on Staging or on GitLab.com. 
-Therefore, it's important to confirm this when introducing a new feature flag. Adding or editing a feature flag definition file [starts two `e2e:package-and-test` jobs](https://docs.gitlab.com/ee/development/testing_guide/end_to_end/feature_flags.html#automatic-test-execution-when-a-feature-flag-definition-changes) (one with the feature flag turned on and another where it's turned off). 
+E2E tests should pass with a feature flag enabled before it is enabled on Staging or on GitLab.com.
+Therefore, it's important to confirm this when introducing a new feature flag. Adding or editing a feature flag definition file [starts two `e2e:package-and-test` jobs](https://docs.gitlab.com/ee/development/testing_guide/end_to_end/feature_flags.html#automatic-test-execution-when-a-feature-flag-definition-changes) (one with the feature flag turned on and another where it's turned off).
 
 ## Monitoring
 
@@ -136,7 +129,7 @@ See the [related handbook entry](https://docs.gitlab.com/ee/development/ee_featu
 
 ### Cross-stack collaboration
 We encourage frontend engineers to contribute to the backend and vice versa. In such cases we should work closely with a domain expert from within our group
-and also keep the initial review internal. 
+and also keep the initial review internal.
 
 This will help ensure that the changes follow best practice, are well tested, have no unintended side effects, and help the team be across any changes that go into the Threat Insights codebase.
 

@@ -1,21 +1,13 @@
 ---
-
 title: "Static Analysis Group"
 ---
-
-
-
-
-
-
-
 
 ## Static Analysis
 
 The Static Analysis group at GitLab is charged with developing the following solutions for customer software repositories:
-- [Static Application Security Testing (SAST)](/direction/secure/static-analysis/sast/)
-- [Secret Detection](/direction/secure/static-analysis/secret-detection/)
-- [Code Quality](/direction/secure/static-analysis/code_quality/)
+- [Static Application Security Testing (SAST)](https://about.gitlab.com/direction/secure/static-analysis/sast/)
+- [Secret Detection](https://about.gitlab.com/direction/secure/static-analysis/secret-detection/)
+- [Code Quality](https://about.gitlab.com/direction/secure/static-analysis/code_quality/)
 
 ## Common Links
 
@@ -245,13 +237,15 @@ allow one week of time for tech debt cleanup, feature stabilization, and enginee
 We are responsible to ensure that what we deliver is secure. This means that we dogfood GitLab's Security
 features.
 
+See the [Secure sub-department vulnerability management process](/handbook/engineering/development/sec/secure/#vulnerability-management-process).
+
 When creating an issue for a vulnerability, please make sure to follow
 the [Engineering Security instructions](/handbook/security/engaging-with-security/#creating-new-security-issues).
 
 #### SLO by Vulnerability Severity
 
 When triaging `Unknown` vulnerabilities, they should be assigned a proper severity as a means to decide the
-priority they should receive to be resolved. The corresponding priority is taken from [issue triage](/handbook/engineering/quality/issue-triage/#priority).
+priority they should receive to be resolved. The corresponding priority is taken from [issue triage](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#priority).
 
 | Target                     | Unknown | Critical     | High         | Medium       | Low          |
 |----------------------------|:------:|:------------:|:------------:|:------------:|:------------:|
@@ -263,6 +257,7 @@ priority they should receive to be resolved. The corresponding priority is taken
 The following is a description of the type of work and which workstream it flows through.
 
 | Work | Responsible Workstream |
+|---|---|
 | Triage of new vulns | This should be done as a part of the MR review that introduces the vulns. |
 | Triage of existing vulns | This is done by the main maintainer of each of our analyzers as defined in our [Release project's issue template](https://gitlab.com/gitlab-org/security-products/release/-/blob/master/scripts/templates/release_issue.md.erb). |
 | Resolution of Critical / High Vulns | These should be a Product-driven priority. |
@@ -324,7 +319,7 @@ We have a [dependencies group](https://gitlab.com/gitlab-org/security-products/d
 1. Find a release branch which matches the new version we wish to ship.
   1. If one doesn't exist, create it from the corresponding tag.
 1. Push the branch through a pipeline which executes all of our security products.
-  1. Please note, some of these projects have complicated builds. Auto-Devops works sometimes, but projects such as [spotbugs](https://gitlab.com/gitlab-org/security-products/dependencies/spotbugs) can require a custom CI configuration for our scans to be successful. Also, these projects include tests that can be noisy if not filtered out.
+  1. Please note, some of these projects have complicated builds. Auto DevOps works sometimes, but projects such as [spotbugs](https://gitlab.com/gitlab-org/security-products/dependencies/spotbugs) can require a custom CI configuration for our scans to be successful. Also, these projects include tests that can be noisy if not filtered out.
 1. Evaluate any potential security vulnerabilities which are found.
   1. Work with the relevant Open Source community to resolve any Critical or High severity findings.
   1. GitLab has published [Secure Coding Guidelines](https://docs.gitlab.com/ee/development/secure_coding_guidelines.html), which may be a useful resource to use when trying to solve identified risks.
@@ -373,4 +368,4 @@ If there is any question of whether a bug fix or improvement should be taken up 
 
 When a [Customer Success Escalation](/handbook/customer-success/csm/escalations/) is declared, the Engineering Manager and Product Manager should both be alerted, and an appropriate team member should be designated to deprioritize existing work and respond to the escalation as soon as possible.
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Static Analysis" } %>
+{{% cross-functional-dashboards filters="Static Analysis" %}}

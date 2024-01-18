@@ -47,7 +47,7 @@ Pure static site generators aren't particularly popular in comaprison: Astro, El
 
 ### JS in Pages
 
-When asked whether Users would like to see a JS functionality within Gitlab, they are inclined, but sceptic with 70% of respondents saying "I might use it in the future", and 17% making it dependent on the feature set. 8.8% are enthusiastic.
+When asked whether Users would like to see a JS functionality within GitLab, they are inclined, but sceptic with 70% of respondents saying "I might use it in the future", and 17% making it dependent on the feature set. 8.8% are enthusiastic.
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSArP2ggk8MSBV_UeQkp7DLZcxq_15He0KNPCiSGW0sBKTl7a5RAdfLTTm9x6mW3pjMB0lr4SUtNniR/pubchart?oid=2099182585&amp;format=interactive"></iframe>
 

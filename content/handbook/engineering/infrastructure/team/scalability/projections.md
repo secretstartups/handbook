@@ -1,11 +1,11 @@
 ---
 aliases: /handbook/engineering/infrastructure/team/scalability/projections.html
-title: "Scalability:Projections Team"
+title: "Scalability:Projections Team (deprecated)"
 ---
 
-## Projections
+## Projections (deprecated team page)
 
-**This team is deprecated in favour of Scalability:Observability. Handbook updates to follow.**
+**This team is deprecated in favour of [Scalability:Observability](../observability). Handbook updates to follow.**
 
 This team focuses on forecasting & projection systems that enable development engineering to understand
 system growth (planned and unplanned) for their areas of responsibility. Error Budgets and Stage Group Dashboards
@@ -29,7 +29,7 @@ We are responsible for Capacity Planning, Error Budgets and Infrastructure Cost 
 
 ### Capacity Planning
 
-We maintain and improve the Capacity Planning process that is described [in the Infrastructure Handbook](https://about.gitlab.com/handbook/engineering/infrastructure/capacity-planning/). This is a controlled activity covered by SOC 2. Please see [this issue](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-compliance-commercial-and-dedicated/sec-compliance/observation-management/-/issues/604) for further details
+We maintain and improve the Capacity Planning process that is described [in the Infrastructure Handbook](/handbook/engineering/infrastructure/capacity-planning/). This is a controlled activity covered by SOC 2. Please see [this issue](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-compliance-commercial-and-dedicated/sec-compliance/observation-management/-/issues/604) for further details
 
 The goal of this process is to predict and prevent saturation incidents on GitLab.com.
 
@@ -85,7 +85,7 @@ Some tips to help you to get started on duties:
 
 ### Error Budgets
 
-We maintain the Error Budgets process that is described [in the Engineering Handbook](https://about.gitlab.com/handbook/engineering/error-budgets/).
+We maintain the Error Budgets process that is described [in the Engineering Handbook](/handbook/engineering/error-budgets/).
 
 Issues are kept in the [Scalability group tracker](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues) with
 the label of `Category::Error Budgets`.

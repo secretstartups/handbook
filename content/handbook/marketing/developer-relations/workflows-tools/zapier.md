@@ -41,10 +41,18 @@ The Zaps are organized in the [Developer Evangelism folder](https://zapier.com/a
 | Zap | Description | Involved Tools |
 | --- | --- | --- |
 | [New blog posts - GitLab](https://zapier.com/editor/183958722) | Reads GitLab blog RSS feed and posts to `#developer-evangelism-updates` channel. | GitLab Blog, Slack | 
-| [New blog posts - GitHub](https://zapier.com/editor/216104703) | Reads GitHub blog RSS feed and posts to `#developer-evangelism-updates` channel. | GitHub Blog, Slack | 
+| [New blog posts - GitHub](https://zapier.com/editor/216104703) | Reads GitHub blog RSS feed and posts to `#developer-evangelism-updates` channel. Additional [zap](https://zapier.com/editor/219093798) posts to competitive Slack channels. | GitHub Blog, Slack | 
 | [New blog posts - CNCF](https://zapier.com/editor/216110068) | Reads CNCF blog RSS feed and posts to `#developer-evangelism-updates` channel. | CNCF Blog, Slack | 
 | [New status updates - Discourse](https://zapier.com/editor/216106524) | Reads Discourse Status RSS feed and posts to `#developer-evangelism-updates` channel. | Discourse status page, Slack | 
 
+##### Zaps for Discourse forum
+
+The Zaps help with automated monitoring to support new product launches.
+
+| Zap | Description | Involved Tools |
+| --- | --- | --- |
+| [New forum topics with `catalog` or `component`](https://zapier.com/editor/219212925/) | Reads Discourse forum RSS feed `https://forum.gitlab.com/latest.rss` and posts to `#f_ci_catalog` channel. | Discourse forum, Slack | 
+| [New forum topics in the GitLab Duo category](https://zapier.com/editor/219218779) | Reads Discourse forum RSS feed `https://forum.gitlab.com/c/gitlab-duo.rss` and posts to `#gitlab-duo-forum-posts` channel. | Discourse forum, Slack | 
 
 ##### Zaps for Hacker News
 

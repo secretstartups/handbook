@@ -43,12 +43,12 @@ Remember, as members of the support team we are the first to interact with someo
 Our goal is to provide guidance that will lead to the best results for our customers as they use GitLab. In that, we will often point to documentation, product functionality, or open bugs/feature requests.
 However, there are times when customers will be best served through one of our commercial offerings.
 
-Support is part of the [Engineering Department](https://about.gitlab.com/handbook/engineering/) and Support Engineers are not commissioned or bonused for upsell for additional services, customer purchases, or lead generation.
+Support is part of the [Engineering Department](/handbook/engineering/) and Support Engineers are not commissioned or bonused for upsell for additional services, customer purchases, or lead generation.
 If you recommend [Professional Services](https://about.gitlab.com/services/) or moving to a different tier or offering you may link to this section in your recommendation to give the customer assurance you're doing so with no mixed motivations.
 
 ### Our role within GitLab
 
-GitLab Support is part of the [Engineering division](https://about.gitlab.com/handbook/engineering/).
+GitLab Support is part of the [Engineering division](/handbook/engineering/).
 While most engineering departments are part of the R&D [cost center](/handbook/finance/financial-planning-and-analysis/#cost--reporting-structure),
 Support is part of the Cost of Sales (or sometimes Cost of Goods Sold (COGS)) cost center.
 
@@ -208,7 +208,7 @@ Dogfooding is using a piece of GitLab *for its intended purpose*. For example, o
 
 In other words: Dogfooding is using the product in the way that our customers would use it to the end of discovering and solving pain points that they have. Dogfooding supports [customer results](/handbook/values/#customer-results).
 
-At GitLab Support we use Service Desk to process [Personal Data Requests](https://about.gitlab.com/handbook/gdpr/), but not for our global support because the customer for Service Desk is primarily small teams soliciting [*bug reports, feature requests, or general feedback*](https://docs.gitlab.com/ee/user/project/service_desk/). Through our use of Service Desk in this smaller setting we've been able to influence product direction towards adding features like [internal notes](https://docs.gitlab.com/ee/user/discussions/#add-an-internal-note).
+At GitLab Support we use Service Desk to process [Personal Data Requests](/handbook/gdpr/), but not for our global support because the customer for Service Desk is primarily small teams soliciting [*bug reports, feature requests, or general feedback*](https://docs.gitlab.com/ee/user/project/service_desk/). Through our use of Service Desk in this smaller setting we've been able to influence product direction towards adding features like [internal notes](https://docs.gitlab.com/ee/user/discussions/#add-an-internal-note).
 
 We continually evaluate product features for use-cases within Support and provide feedback and feature requests where blockers exist. Support will always prioritize [customer results](/handbook/values/#customer-results) over any other consideration.
 
@@ -231,7 +231,7 @@ See [Managers/Hazards page](/handbook/support/managers/hazards-and-challenges)
 ## Communications
 
 The GitLab Support Team is part of the wider Engineering function. Be sure to check the
-[communications section in the Engineering handbook](https://about.gitlab.com/handbook/engineering/#communication)
+[communications section in the Engineering handbook](/handbook/engineering/#communication)
 for tips on how to keep yourself informed about engineering announcements and initiatives.
 
 Here are our most important modes of communication:
@@ -578,9 +578,9 @@ In these cases, a [project webhook](https://docs.gitlab.com/ee/user/project/inte
 which then sends the information to a Slack workflow.
 
 - `#support_gitlab-com`
-  - CMOC [Gitlab Project](https://gitlab.com/gitlab-com/support/dotcom/cmoc-handover/), [Zap](https://zapier.com/app/zap/100087156), [Slack workflow](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/cmoc_handover.slackworkflow)
+  - CMOC [GitLab Project](https://gitlab.com/gitlab-com/support/dotcom/cmoc-handover/), [Zap](https://zapier.com/app/zap/100087156), [Slack workflow](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/cmoc_handover.slackworkflow)
 - `#support_licensing-subscription`
-  - L&R related internal requests [Gitlab Project](https://gitlab.com/gitlab-com/support/internal-requests/), [Zap](https://zapier.com/app/zap/98925072), [Slack workflow](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_licensing_subscription_internal_requests.slackworkflow)
+  - L&R related internal requests [GitLab Project](https://gitlab.com/gitlab-com/support/internal-requests/), [Zap](https://zapier.com/app/zap/98925072), [Slack workflow](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_licensing_subscription_internal_requests.slackworkflow)
 
 #### Emoji Reaction
 
@@ -612,7 +612,7 @@ Providing information by reacting to a message with a specific emoji.
 After getting promoted, make sure to update your title in:
 
 - our [Support team page](https://gitlab.com/gitlab-com/support/team/-/blob/master/data/support-team.yaml), and the change would be reflected in Zendesk
-- the company team page following the same steps in [Add yourself to the Team Page](https://about.gitlab.com/handbook/git-page-update/#12-add-yourself-to-the-team-page)
+- the company team page following the same steps in [Add yourself to the Team Page](/handbook/editing-handbook/#add-yourself-to-the-team-page)
 
 Consider updating the title on Slack and on Zoom, following the guidelines in [Zoom name format](#zoom-name-format).
 

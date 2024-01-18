@@ -258,7 +258,7 @@ irb(main):421:0> find_namespace('test')
 
 ### update_gitlab_plan
 
-> *Note*: This can be deprecated when this is available in the UI which will require [showing expired trials (customers #1173)](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1173), [ability to extend (customers #1643)](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1643), and for [the Gitlab account to be tied to customers portal to show GitLab Groups after a trial is initiated (customers #973)](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/973).
+> *Note*: This can be deprecated when this is available in the UI which will require [showing expired trials (customers #1173)](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1173), [ability to extend (customers #1643)](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1643), and for [the GitLab account to be tied to customers portal to show GitLab Groups after a trial is initiated (customers #973)](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/973).
 
 Use cases for this function:
 
@@ -341,7 +341,7 @@ Force a .com group to be associated with a given subscription. This is typically
 | Name | Required | Details |
 | ------ | ------ | ------ |
 | `:subscription_name` | *Yes* | The subscription name to be re-associated|
-| `:namespace_path` | *Yes* | The [unique Gitlab namespace](https://docs.gitlab.com/ee/user/group/#namespaces) *`path`*|
+| `:namespace_path` | *Yes* | The [unique GitLab namespace](https://docs.gitlab.com/ee/user/group/#namespaces) *`path`*|
 
 #### Sample
 
@@ -388,6 +388,24 @@ Completely unlink a GitLab.com account from a CustomersDot account. **Note:** Us
 irb(main):021:0> unlink_customer(0000000)
 => {:success=>true}
 ```
+
+### Identify multiple CustomersDot accounts linked to a GitLab account
+
+#### Parameters
+
+| Name | Required | Details |
+| ------ | ------ | ------ |
+| `:uid` | *Yes* |GitLab.com UID which may have been linked to multiple cdot accounts
+
+#### Sample
+
+````ruby
+*** PRODUCTION *** production> Customer.where(uid: 0000000)
+=> [#<Customer 000000, first_name: "Jane", last_name: "Doe", created_at: "2021-12-21 16:29:53.324183000 +0000", updated_at: "2023-01-17 00:56:56.311661000 +0000", email: "jdoe@examplecorp.net", provider: "gitlab", uid: "0000000", country: "USA", state: "GA", city: "Columbus", zip_code: "12345", vat_code: nil, company: "ExampleCorp", salesforce_account_id: "000001230043203, skip_email_confirmation: false>,
+#<Customer 100009, first_name: "Bob", last_name: "Doe", created_at: "2022-11-12", email: "bdoe@examplecorp.net", provider: "gitlab", uid: "0001235", country: "USA", state: "GA", city: "Columbus", zip_code: "12345", vat_code: nil, company: "ExampleCorp", salesforce_account_id: "00000123006988343, skip_email_confirmation: false>]
+``````
+
+`unlink_customer` can be used to remove additional customers portal accounts identified as linked to the one uid.
 
 ### associate_full_user_count_with_group
 

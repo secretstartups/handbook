@@ -541,10 +541,9 @@ The FMC will track all open Marketo LPs and will be responsible for requesting t
 To close the LP registration form, the FMC will re-open the Marketo LP issue and request Marketing Ops follow one of the below processes (depending on campaign type, as Marketo program templates vary across different tactics). In the LP issue, the FMC will request Marketing Ops remove the registration form and will provide Marketing Ops specific verbiage for the top of the LP page. Please see standard verbiage options below. If the event is a workshop that was listed on the demo/workshop page, the FMC will also request Marketing Ops remove the listing. The FMC will update the due date of the issue.
 
 ## If an event has reached capacity
-- The FMC will follow the above instructions to close the LP regisrtation form and update the verbiage to specify the event has reached capacity.
+- The FMC will follow the above instructions to close the LP registration form and update the verbiage to specify the event has reached capacity.
 - If there are remaining invite issues open once registration is closed, the FMC will note this in the issue(s) and close them. If an invite is already scheduled to be sent, the FMC will ask Marketing Ops to unschedule the send before closing the issue. The FMC will update the due date of the issue.
-- The FMC will also re-open the sales nominated issue (if utilized) and request Marketing Ops shut down the sales-nominated daily sends. The FMC will update the due date of the issue.
-- If an intelligent nurture email request was opened, the FMC will ping `@dambrold` in the issue to remove the email from the nurture streams.
+- If a LinkedIn campaign was run, the FMC will request the ABM team close the LinkedIn registration form in their ABM issue.
 - There is no need to remove the event listing from the [Events Page](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents) if an event has reached capacity. Having a sold out event listed could create more excitement over the event and encourage future attendees to register for events sooner.
 
 ## Standard verbiage for closing a Marketo LP after the event has occurred
@@ -1556,11 +1555,10 @@ The Field Marketing team works from issues and issue boards. If you need our ass
 - `AMER - CIV`: AMER Civilian tactics
 - `AMER - SLED`: AMER SLED tactics
 - `AMER - NSP`: AMER National Security tactics
-- `FMS AMER NE/SE/PubSec`: Issues that the FMS AMER NE/SE/PubSec is actively working
-- `FMS AMER NE/SE/PubSec - Tracking`: FMS AMER NE/SE/PubSec issue tracking
-- `FMS AMER NE/SE/PubSec - Swag`: FMS AMER NE/SE/PubSec tracking for swag and event assets
-- `FMS AMER NE/SE/PubSec - WS/WC`: FMS AMER NE/SE/PubSec task tracking for workshops and webcasts
-- `FMS AMER NE/SE/PubSec - Contracts`: FMS AMER/NE/SE/PubSec task for tracking contract requests
+- `FMS AMER`: FMS AMER general requests
+- `FMS AMER - Tracking`: FMS AMER event tracking
+- `FMS AMER - Swag`: FMS AMER swag requests
+- `FMS AMER - Contracts`: FMS AMER contract requests
 - `FMC AMER East-Central/West`: Issues that the FMC East-Central/West is actively working
 - `FMC AMER East-Central/West - Contracts`: FMC East-Central/West task for tracking contract requests
 - `FMC AMER East-Central/West - WS/WC`: FMC East-Central/West task tracking for workshops and webcasts

@@ -4,6 +4,8 @@ description: Support Operations documentation page for contact managemrnt projec
 canonical_path: "/handbook/support/readiness/operations/docs/gitlab/contact_management_projects"
 ---
 
+<sup>*Introduced via [support-team-meta#4531](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4531)*</sup>
+
 ## What is a contact management project?
 
 Contact management projects are projects on GitLab.com that allows a customer to
@@ -149,7 +151,13 @@ You then need to create a new webhook using the following information:
   - Replace TOKEN with the Contact Sync Token found within the Support Ops Vault
     in 1Password.
   - Replace PROJECT_ID with the project's ID.
+- Click the bubble next to `Mask portions of URL`
+  - Put the token value in the text field for `Sensitive portion of URL`
+  - Put `TOKEN` in the text field for `How it looks in the UI`
+  - Verify the URL preview value now looks like:
+    - `https://ops.gitlab.net/api/v4/projects/619/ref/master/trigger/pipeline?token={TOKEN}&variables[PROJECT_ID]=123456789`
 - Check the box next to `Push events`
+  - Select `Wildcard pattern` and enter `master` in the text field
 - Check the box next to `Enable SSL verification`
 
 Once all that is in place, click the blue `Add webhook` button.
@@ -230,3 +238,45 @@ effectively remove the contact management sync for the organization completely.
 ask the customer to use the contact management project to lower their contact
 numbers down to 30 first (as that is the limit for organization contacts when
 not using a contact management sync project).
+
+## Common troubleshooting
+
+#### Pipeline failed due to "No org found"
+
+This occurs when the pipeline was run before the Organization in Zendesk has the
+`Contact Management Project ID` field populated. Due to caching, this error
+will persist for up to an hour in normal situations, which is not ideal.
+
+To fix this issue, go to the contact management project itself, go to the
+webhooks page, click `Test`, and select `Push events`. This will cause a new
+pipeline to run that should work outside of the caching.
+
+#### Pipeline failed due to "NoMethodError"
+
+This means something within the contacts.yaml file of the project is missing
+required information. This can either be because it was left blank or because of
+a formatting issue (that does not make it an invalid YAML format). To rectify
+this, you will need to do one of the following:
+
+- Create a ticket to the customer asking them to fix it
+- Go to the project and fix it yourself
+
+Either method will work in the end, but the latter is quicker and better in
+terms of customer experience.
+
+If this happens repeatedly to the same customer, consider reaching out to their
+Account Manager regarding it.
+
+#### Pipeline failed due to "Error reading YAML file"
+
+This means something within the contacts.yaml file of the project is in a bad
+formatting. To rectify this, you will need to do one of the following:
+
+- Create a ticket to the customer asking them to fix it
+- Go to the project and fix it yourself
+
+Either method will work in the end, but the latter is quicker and better in
+terms of customer experience.
+
+If this happens repeatedly to the same customer, consider reaching out to their
+Account Manager regarding it.

@@ -42,7 +42,7 @@ Note that the string is the same as `RELEASE` except for the `-qa` suffix on the
 
 Now run the pipeline against the branch that has your changes.
 
-It's also possible to trigger a manual GitLab-QA pipeline against a specific [GitLab environment](https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/debugging-qa-test-failures/#qa-test-pipelines) using the `RELEASE` and `QA_IMAGE` variable from the `package-and-test` job of GitLab's Merge Request.
+It's also possible to trigger a manual GitLab-QA pipeline against a specific [GitLab environment](/handbook/engineering/infrastructure/test-platform/debugging-qa-test-failures/#qa-test-pipelines) using the `RELEASE` and `QA_IMAGE` variable from the `package-and-test` job of GitLab's Merge Request.
 For example, here is the link to run a manual GitLab QA pipeline [against Staging](https://ops.gitlab.net/gitlab-org/quality/staging/-/pipelines/new?var[RELEASE]=%27insert_docker_release_image_name_from_the_MR%27&var[QA_IMAGE]=%27insert_docker_qa_image_name_from_the_MR%27&var[GITLAB_QA_CONTAINER_REGISTRY_ACCESS_TOKEN]=%27insert_gitlab_qa_user_production_access_token%27).
 - Note: If `registry.gitlab.com` is used, you will also need to include the `GITLAB_QA_CONTAINER_REGISTRY_ACCESS_TOKEN` variable with the value set to the production `gitlab-qa` user's access token to avoid authentication errors.
 
@@ -57,11 +57,11 @@ This can be achieved by manually triggering a pipeline in any of these projects 
 As a result, the pipeline will checkout the specified branch and build the `gitlab-qa` gem instead of using the latest published gem.
 
 ### Running from a specific GitLab-QA branch against a GitLab branch MR 
-You can checkout a test branch and edit the `Gemfile` to change the `gitlab-qa` line to install via the Gitlab-QA branch.
+You can checkout a test branch and edit the `Gemfile` to change the `gitlab-qa` line to install via the GitLab-QA branch.
 
 For example in the `qa/gemfile`:
 ```
-gem 'gitlab-qa', git: 'https://gitlab.com/gitlab-org/gitlab-qa.git', branch: '<Gitlab-QA-branch>'
+gem 'gitlab-qa', git: 'https://gitlab.com/gitlab-org/gitlab-qa.git', branch: '<GitLab-QA-branch>'
 ```
 Make sure to also `bundle install` and commit the `Gemfile.lock` as well. 
 Doing so successfully will allow the `gitlab-qa` gem to be built from a custom branch.

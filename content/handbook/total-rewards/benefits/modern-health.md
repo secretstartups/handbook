@@ -71,7 +71,7 @@ Modern Health’s model is grounded in evidence-based approaches, primarily Cogn
 
 ### When do my Modern Health benefits reset?
 
-Your benefits reset on March 20, 2023.
+These benefits reset annually on 03-20.
 Note: Unused sessions do not rollover when your benefits reset.
 
 ### What languages/countries is Modern Health available in?

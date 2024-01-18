@@ -32,7 +32,7 @@ Our work can be tracked in the [IT Compliance GitLab Group](https://gitlab.com/g
 
 ## Who We Are
 
-The IT Audit and Compliance function at GitLab is here to ensure as a company we are ready to pass a SOX Audit for our IT General Controls (ITGC). IT Audit and compliance builds the processes that allow us to stay compliant over time. The IT Security function at Gitlab is here to reduce the threat landscape to our internal tech stack, report on our existing security posture, and respond to security findings requiring mitigation. We are specialized around Business Technology and that is our area of focus. Our work rolls up to the overall Security portfolio of Audit and Compliance.
+The IT Audit and Compliance function at GitLab is here to ensure as a company we are ready to pass a SOX Audit for our IT General Controls (ITGC). IT Audit and compliance builds the processes that allow us to stay compliant over time. The IT Security function at GitLab is here to reduce the threat landscape to our internal tech stack, report on our existing security posture, and respond to security findings requiring mitigation. We are specialized around Business Technology and that is our area of focus. Our work rolls up to the overall Security portfolio of Audit and Compliance.
 
 **Vision**
 1. To identify and secure applications that are deemed to fall under SOX Audit.

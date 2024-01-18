@@ -185,7 +185,7 @@ After you have finished configuring your laptop, please follow the Pre-Labbing S
 These policies are a cross-collaboration between the IT and Security department.
 
 - [Acceptable Use Policy](/handbook/people-group/acceptable-use-policy)
-- [Data Classification Standards](/handbook/security/data-classification-standard.html) - RED, ORANGE, YELLOW, GREEN
+- [Data Classification Standards](/handbook/security/data-classification-standard/) - RED, ORANGE, YELLOW, GREEN
 - [Home WiFi Configuration Policy](/handbook/security/network-isolation/)
 - [Laptop Asset Management Policy](/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/)
 - Laptop Disk Encryption Policy
@@ -296,7 +296,7 @@ See the [Finance Ops](/handbook/business-technology/enterprise-applications/fina
 
 ### Infrastructure Shared Services Tech Stack
 
-This is a cross-collaboration between [IT Infrastructure](/handbook/business-technology/engineering/infrastructure), [Reliability Engineering](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/), and [Infrastructure Security](/handbook/security/security-engineering/infrastructure-security/) with audit and monitoring by [Security Incident Response Team (SIRT)](/handbook/security/security-operations/sirt/).
+This is a cross-collaboration between [IT Infrastructure](/handbook/business-technology/engineering/infrastructure), [Reliability Engineering](/handbook/engineering/infrastructure/team/reliability/), and [Infrastructure Security](/handbook/security/security-engineering/infrastructure-security/) with audit and monitoring by [Security Incident Response Team (SIRT)](/handbook/security/security-operations/sirt/).
 
 - Amazon Web Services (AWS)
 - [Domain Names and DNS Records](/handbook/it/guides/domains-dns)
@@ -308,10 +308,10 @@ This is a cross-collaboration between [IT Infrastructure](/handbook/business-tec
 
 ### Infrastructure Reliability Tech Stack
 
-See the [Engineering Infrastructure](https://about.gitlab.com/handbook/engineering/infrastructure/) handbook page to learn more.
+See the [Engineering Infrastructure](/handbook/engineering/infrastructure/) handbook page to learn more.
 
-- [Production Architecture](https://about.gitlab.com/handbook/engineering/infrastructure/production/architecture/)
-- [Environments](https://about.gitlab.com/handbook/engineering/infrastructure/environments/) handbook pages
+- [Production Architecture](/handbook/engineering/infrastructure/production/architecture/)
+- [Environments](/handbook/engineering/infrastructure/environments/) handbook pages
 - [Runbooks](https://gitlab.com/gitlab-com/runbooks/) repository to learn more.
 - [config-mgmt (Source - Limited Access)](https://ops.gitlab.net/gitlab-com/gl-infra/config-mgmt)
 - [config-mgmt (Internal Mirror)](https://gitlab.com/gitlab-com/gl-infra/config-mgmt/)
@@ -363,7 +363,7 @@ See the [Security Tools (internal)](https://internal-handbook.gitlab.io/handbook
 
 - [Infrastructure Security Team](/handbook/security/security-engineering/infrastructure-security/)
 - [IT Infrastructure](/handbook/business-technology/engineering/infrastructure)
-- [Reliability Engineering Team](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/)
+- [Reliability Engineering Team](/handbook/engineering/infrastructure/team/reliability/)
 
 #### People Team
 

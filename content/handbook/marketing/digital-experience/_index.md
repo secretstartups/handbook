@@ -178,7 +178,7 @@ Before work can begin on an issue, we should estimate it first after a prelimina
 | 8 | A complex change, that will involve much of the codebase or will require lots of input from others to determine the requirements. |
 | 13| A significant change that may have dependencies (other teams or third-parties) and we likely still don't understand all of the requirements. It's unlikely we would commit to this in a milestone, and the preference would be to further clarify requirements and/or break in to smaller Issues. |
 
-In planning and estimation, we value [velocity over predictability](https://about.gitlab.com/handbook/engineering/development/principles/#velocity-over-predictability). The main goal of our planning and estimation is to focus on the [MVC](/handbook/values/#minimal-viable-change-mvc), uncover blind spots, and help us achieve a baseline level of predictability without over optimizing. We aim for 70% predictability instead of 90%. We believe that optimizing for velocity (merge request rate) enables our Growth teams to achieve a [weekly experimentation cadence](/handbook/product/growth/#weekly-growth-meeting).
+In planning and estimation, we value [velocity over predictability](/handbook/engineering/development/principles/#velocity-over-predictability). The main goal of our planning and estimation is to focus on the [MVC](/handbook/values/#minimal-viable-change-mvc), uncover blind spots, and help us achieve a baseline level of predictability without over optimizing. We aim for 70% predictability instead of 90%. We believe that optimizing for velocity (merge request rate) enables our Growth teams to achieve a [weekly experimentation cadence](/handbook/product/growth/#weekly-growth-meeting).
 
 - If an issue has many unknowns where it's unclear if it's a 1 or a 5, we will be cautious and estimate high (5).
 - If an issue has many unknowns, we can break it into two issues. The first issue is for research, also referred to as a [Spike](https://en.wikipedia.org/wiki/Spike_(software_development)), where we de-risk the unknowns and explore potential solutions. The second issue is for the implementation.
@@ -330,7 +330,7 @@ Each member of the Digital Experience team should be listed as a participant in 
 
 ## Code Reviews
 
-Our team makes every attempt to complete [code reviews](https://about.gitlab.com/handbook/engineering/workflow/code-review/) on Merge Requests as timely as possible.
+Our team makes every attempt to complete [code reviews](/handbook/engineering/workflow/code-review/) on Merge Requests as timely as possible.
 
 Team members who create a Merge Request should factor in a suitable amount of time for code and/or design review. If an issue has a due date, the MR creator should try have the work code-complete at least 24 hours prior to the intended release. This gives time for any major fixes that the reviewers may point out, and encourages quick [iterations](/handbook/values/#iteration) and [Minimal Viable Change releases](/handbook/values/#move-fast-by-shipping-the-minimal-viable-change).
 
@@ -340,7 +340,7 @@ Digital Experience code request reviews should include the [merge request checkl
 
 ## Production Change Lock (PCL)
 
-Similar to [the engineering department](https://about.gitlab.com/handbook/engineering/infrastructure/change-management/#production-change-lock-pcl), we sometimes temporarily halt production changes to [the Buyer Experience repository](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience) when team availability is reduced, or we expect atypical user behavior (such as during high-visibility public events).
+Similar to [the engineering department](/handbook/engineering/infrastructure/change-management/#production-change-lock-pcl), we sometimes temporarily halt production changes to [the Buyer Experience repository](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience) when team availability is reduced, or we expect atypical user behavior (such as during high-visibility public events).
 
 Risks of making a production environment change during these periods includes immediate customer impact and/or reduced engineering team availability in case an incident occurs. Therefore, we have introduced a mechanism called Production Change Lock (PCL). We are listing the events here so that teams are aware of the PCL periods.
 
