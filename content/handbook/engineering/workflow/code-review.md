@@ -114,6 +114,7 @@ Tips:
 #### Project maintainer process for [`gitlab-components`](https://gitlab.com/components)
 
 - Review our [documentation and best practices for creating CI/CD components](https://docs.gitlab.com/ee/ci/components/).
+- Familiarize with our [documentation on GitLab-maintained components](https://docs.gitlab.com/ee/development/cicd/components/).
 - Develop one or more components to familiarize yourself with the development process.
 - Create a merge request and assign the merge request to your manager for you to be added as a CI/CD components maintainer. Be sure to cite references for the CI/CD components you have developed. (See [MR example](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/132498))
 - Ping the existing maintainers (`@gitlab-org/maintainers/ci-components`) in the MR for review and feedback.
