@@ -415,7 +415,6 @@ Below is the Entity Relationship Diagram for the Re-architected data model in Sn
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/c8f1520c-e59b-4551-a9db-bfce88bb84dc" id="0GkOGAjoD_O."></iframe></div>
 
 
-These ERDs illustrate how we model data from the Quote to Cash Systems in the Snowflake Enterprise Dimensional Model.
 
 
 #### Conformed Dimension Design for Core Business Objects
