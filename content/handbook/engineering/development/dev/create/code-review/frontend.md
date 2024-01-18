@@ -27,6 +27,10 @@ The following people are permanent members of the Create:Code Review FE Team:
 
 # Stable Counterparts
 
+The following members of other functional teams are our stable counterparts:
+
+{{< stable-counterparts role="Create:Code Review$|Technical Writer(.*)Code Review|Director(.*)Create|Principal(.*)Create|Group(.*)Create" manager-role="Frontend Engineering Manager(.*)Create:Code Review"  >}}
+
 # Core Responsibilities
 
 # Projects
@@ -42,12 +46,6 @@ The Create:Code Review FE team is responsible for all frontend aspects of the pr
 [group]: /handbook/product/categories/#code-review-group
 [stage]: /handbook/product/categories/#create-stage
 [lifecycle]: /handbook/product/categories/#devops-stages
-
-## Stable Counterparts
-
-The following members of other functional teams are our stable counterparts:
-
-{{< stable-counterparts role="Create:Code Review$|Technical Writer(.*)Code Review|Director(.*)Create|Principal(.*)Create|Group(.*)Create" manager-role="Frontend Engineering Manager(.*)Create:Code Review"  >}}
 
 ## Iteration
 
