@@ -9,8 +9,8 @@ description: "Identify backend bounded contexts composing the GitLab Rails monol
 |-----------------|-----------------|
 | Date Created    | 2023-11-28 |
 | Target End Date | 2024-03-31 |
-| Slack           | #wg_bounded_contexts (only accessible from within the company) |
-| Google Doc      | TBD (only accessible from within the company) |
+| Slack           | [#wg_bounded_contexts](https://gitlab.enterprise.slack.com/archives/C069VRRN70S) (only accessible from within the company) |
+| Google Doc      | [Agenda doc](https://docs.google.com/document/d/1Ss2lvZHm1ID5CTVQJS3ivM7Nc1FgLaPCBCSm2RDawKI/edit) (only accessible from within the company) |
 
 ### Summary
 
