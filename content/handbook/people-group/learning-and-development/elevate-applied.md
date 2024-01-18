@@ -41,7 +41,7 @@ Each month, managers can expect to be served new resources and learning opportun
 
 Below, you'll find a general outline of topics you can expect to learn about during each month of the pilot:
 
-| Month | Business Need | Topic | 
+| Month | Business Need | Topic |
 | ----- | ------ | ---------- |
 | January | End of FY24, FY25 planning | Kickoff; Impacts of 1:1 Coaching |
 | February | New Fiscal Year; Compensation Conversations | Building High Performing Teams |
