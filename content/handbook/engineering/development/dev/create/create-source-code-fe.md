@@ -3,6 +3,28 @@ title: "Create:Source Code FE Team"
 description: The Create:Source Code FE team is responsible for all frontend aspects of the product categories that fall under the Source Code group of the Create stage.
 ---
 
+# Common Links
+
+# Team Vision
+
+# Team Mission
+
+# Commonly Monitored Issue Lists
+
+# Team Members
+
+# Stable Counterparts
+
+# Core Responsibilities
+
+# Projects
+
+# Engineering Onboarding
+
+# Other related pages
+
+<!-- FY25 content above this line -->
+
 The Create:Source Code FE team is responsible for all frontend aspects of the product categories that fall under the [Source Code group][group] of the [Create stage][stage] of the [DevOps lifecycle][lifecycle].
 
 [group]: /handbook/product/categories/#source-code-group
