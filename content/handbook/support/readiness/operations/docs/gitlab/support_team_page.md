@@ -356,23 +356,6 @@ an artifact (but only for the master branch). GitLab Pages will then use this
 
 ## Change management
 
-As the support team changes are unique in deployment, please see
-[Support team page change management](/handbook/support/readiness/operations/docs/change_management#support-team-page-change-management)
-for more information.
-
-#### Labels to use
-
-For all issues and MRs involving support team page changes, the label
-`Support-Ops-Category::GitLab Projects` should be used.
-
-#### Change criticality
-
-All issues/MRs related to any of the non-data files of support team page will be
-classified as either
-[criticality 2](/handbook/support/readiness/operations/docs/change_criticalities#criticality-1)
-or
-[criticality 3](/handbook/support/readiness/operations/docs/change_criticalities#criticality-2)
-
-All issues/MRs related to the data files of support team page will be
-classified as
-[criticality 4](/handbook/support/readiness/operations/docs/change_criticalities#criticality-4)
+Any merge requests made to the corresponding repos produce changes in real time.
+As such, these are "on demand" style changes and all "scheduling" should occur
+via the parent issue of the changes themselves.
