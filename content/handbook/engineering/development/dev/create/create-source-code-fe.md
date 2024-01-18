@@ -21,6 +21,10 @@ description: The Create:Source Code FE team is responsible for all frontend aspe
 
 # Team Members
 
+The following people are permanent members of the Create:Source Code FE Team:
+
+{{< team-by-manager-role role="Engineering(.*)Manager(.*)Create:Source Code" team="Create:Source Code" >}}
+
 # Stable Counterparts
 
 # Core Responsibilities
@@ -38,12 +42,6 @@ The Create:Source Code FE team is responsible for all frontend aspects of the pr
 [group]: /handbook/product/categories/#source-code-group
 [stage]: /handbook/product/categories/#create-stage
 [lifecycle]: /handbook/product/categories/#devops-stages
-
-## Team Members
-
-The following people are permanent members of the Create:Source Code FE Team:
-
-{{< team-by-manager-role role="Engineering(.*)Manager(.*)Create:Source Code" team="Create:Source Code" >}}
 
 ## Stable Counterparts
 
