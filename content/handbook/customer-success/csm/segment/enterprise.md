@@ -1,6 +1,6 @@
 ---
 
-title: "Enterprise CSMs"
+title: "AMER CSMs"
 ---
 
 
@@ -14,7 +14,7 @@ View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional
 
 ## Overview
 
-CSMs aligned with Enterprise customers can use this handbook page to help define their processes and approaches that are unique to their segment.
+CSMs aligned with AMER customers can use this handbook page to help define their processes and approaches that are unique to their segment. CSMs may have both Enterprise and Commercial accounts as defined by Sales segments.
 
 Customer Lifecycle Journey:
 
@@ -56,87 +56,38 @@ This phase is about going beyond a customer’s primary use cases, into addition
 | Expansion enablement & workshops | - Expansion playbooks completed (QoQ) <br> - Days per playbook completed per stage (QoQ) <br> - Win rate for expansion playbooks (QoQ) |
 | [Renewals](/handbook/customer-success/csm/renewals/) and [health management](/handbook/customer-success/csm/health-score-triage/) | - Renewal rate <br> - Regular CSM Sentiment health score logged |
 
-## CSM Internal Activities
 
-### Account Risk Management & Triage
+## Account Engagement Expectations
 
-[Customer Health Assessment and Management](/handbook/customer-success/csm/health-score-triage/)
+Beginning FY25, all customers aligned with a CSM are considered Priority 1 and should be reflected as such in Gainsight and in our engagement model. That model is described below.
 
-### Account Growth Planning & Renewal Planning
+#### Cadence Frequency
 
-In the Enterprise CSM motion, CSMs are typically able to spend more time with their customers and work with multiple teams and stakeholders in the organization. The CSM is also able to work with multiple subsidiaries and build comprehensive account knowledge. This leads to valuable insights on the customers' strategic business goals and future roadmap. To accelerate a customer's adoption and growth with GitLab, the Account Growth Plan helps to consolidate the information and builds a baseline for multiple GitLab internal stakeholders. This includes Product, Sales Planning and Exec Sponsorship decisions. To quantify an investable customer initiative with data, the Account Growth Plan builds the single source of truth. The Account Growth Plan contains GitLab Objectives and Actionable next steps.
+CSMs should have weekly or biweekly calls with each of their customers, and should never go more than one month without a call. If a customer is unegaged, they should be marked as [non-engaged](/handbook/customer-success/csm/engagement/Non-engaged-customer-strategies/) and [triaged](/handbook/customer-success/csm/health-score-triage/) appropriately. Even if it ends up being a false positive, we want to act swiftly to ensure any risk is mitigated. CSMs should expect to have 5-7 cadence calls per week, in addition to adhoc calls such as workshops, EBRs, product discussions, etc.
+
+### EBRs
+
+All customers will have at least one [Executive Business Review](/handbook/customer-success/csm/ebr/) per year, and some customers may have EBRs twice a year or even quarterly. Each CSM should maintain an EBR roadmap for their book of business so they can plan in advance and begin working on scheduling and prep early on. CSMs are expected to report on their progress throughout the year on EBRs for each of their customers.
+
+### Workshops
+
+The goal of [workshops](/handbook/customer-success/csm/workshops/) is to intentionally drive adoption and usage with our customer base, to ensure they are getting full ROI out of GitLab. A general framework for CSMs to adopt is to have at least one workshop per quarter with each of their customers. Across their book of business, on average, a CSM should expect to lead at least 2 workshops per month.
+
+For any customers who have low usage, we should aim to have regular workshops with them focused on areas of the product that they have not yet fully adopted, or where additional training would help adoption of other features. For customers that have healthy use case adoption, we should still be ensuring they remain enabled on GitLab, by providing workshops focused on one of the following: reinforce core GitLab capabilities, share new product capabilities and best practices, help them adopt one area of the product better, or to expand into a new group that hasn't adopted GitLab yet.
+
+Targeting workshops based on customers' current adoption allows us to be more strategic in our efforts of deepening product adoption and our partnership with our customers as their trusted advisors.
+
+### Success Plans
+
+CSMs are expected to maintain [success plans](/handbook/customer-success/csm/success-plans/) for each of their customers that are updated, at minimum, quarterly. These success plans need to be validated by both the customer and the CSM's manager.
+
+In the AMER CSM motion, CSMs are typically able to spend more time with their customers and work with multiple teams and stakeholders in the organization. The CSM is also able to work with multiple subsidiaries and build comprehensive account knowledge. This leads to valuable insights on the customers' strategic business goals and future roadmap. To accelerate a customer's adoption and growth with GitLab, the Account Growth Plan helps to consolidate the information and builds a baseline for multiple GitLab internal stakeholders. This includes Product, Sales Planning and Exec Sponsorship decisions. To quantify an investable customer initiative with data, the Account Growth Plan builds the single source of truth. The Account Growth Plan contains GitLab Objectives and Actionable next steps.
 
 During the Account Adoption Review and Planning, the Account Team and Regional Sales Leadership review the current state of Adoption, Success Plan Objectives, and Account Plan Details. The objective is to build a shared understanding of the customer roadmap, align actions within the team, reduce potential adoption risk early, and share best practices within the account teams and region.
 
 In addition to [Success Planning](/handbook/customer-success/csm/success-plans/) where the focus is on building a shared plan between the customer and GitLab on how the customer achieves their desired business outcomes the Account Growth Plan includes actions to achieve growth and expansion within an account. The joint plans are used to bridge the gap between enablement into a strategic growth motion.
 
 
-## Account Engagement
+### Account Risk Management & Triage
 
-### Account Prioritization
-
-The goal for Strategic Accounts is 30% of a CSM's book of business to be Priority 1 (P1), with the remaining 70% being Priority 2 (P2).
-
-Accounts that meet the following criteria should be categorized as a Priority 1:
-- Low use case adoption (Premium customers with 1 or fewer use cases adopted (green), Ultimate customers with 2 or fewer use cases adopted (green), and Ultimate customers with red DevSecOps)
-- Otherwise red/at-risk (e.g. lack of engagement, chance of decreased ARR at renewal, etc.)
-- Expansion opportunity (e.g. Ultimate upgrade or user expansion into new business unit)
-
-All other accounts should be Priority 2. Accounts should be reviewed for accuracy on prioritization on a quarterly, or as-needed, basis.
-
-Occasionally, we find more than the expected number of customers need prioritization at the same time, and a 30% split for P1 is not feasible. If a CSM finds their book of business in this state, the CSM may, pending discussion with their manager, have more (up to 50%) of their book of business be P1; however, this should only ever be a temporary edge case lasting at most one quarter, with defined action items to get customers into a stable place where they can qualify for P2 and bring the P1 percentage back down to 30%.
-
-#### Cadence Frequency
-
-As a general rule, P1 customers should have biweekly cadence calls, and P2 customers should have monthly cadence calls. No customer should go more than 2 months without a call, but, if they do, the customer should be marked as [non-engaged](/handbook/customer-success/csm/engagement/Non-engaged-customer-strategies/) and [triaged](/handbook/customer-success/csm/health-score-triage/) appropriately.
-
-A Strategic CSM's book of business ranges between 12 and 20 accounts. With the structure of biweekly P1s and monthly P2s, CSMs have a target of 5-7 cadence calls per week.
-
-### EBRs
-
-Ideally all customers will have an annual [Executive Business Review](/handbook/customer-success/csm/ebr/), regardless of priority. If an account is significantly high in ARR (average 3-5 per CSM, to be discussed internally), we should aim to have an EBR twice per year. On average, a CSM should expect to have 1-2 EBRs per month. Each CSM should maintain an EBR roadmap (framework to be created in FY24Q1) for their book of business so they can plan in advance and begin working on scheduling and prep early on.
-
-### Workshops
-
-The goal of [workshops](/handbook/customer-success/csm/workshops/) is to intentionally drive adoption and usage with our customer base, to ensure they are getting full ROI out of GitLab.
-
-For any customers who have low usage (which should fall into P1 categorization), we should aim to have regular workshops with them focused on areas of the product that they have not yet fully adopted, or where additional training would help adoption of other features; a general framework would be quarterly workshops for these customers.
-
-For customers that have healthy use case adoption, we should still be ensuring they remain enabled on GitLab, so the aim is to have at least one workshop per year with those customers, focused on one of the following: reinforce core GitLab capabilities, help them adopt one area of the product better, or to expand into a new group that hasn't adopted GitLab yet.
-
-This shift in targeting workshops based on customers' current adoption allows us to be more strategic in our efforts of deepening product adoption and our partnership with our customers as their trusted advisors.
-
-Across their book of business, on average, a CSM should expect to lead 1 workshop every 1-2 weeks. However, CSMs are encouraged to lead a workshop with multiple customers in attendance, if they have more than one that could benefit from the training. The benefits of this include allowing the CSM to be more efficient with their time, as well as allowing the customers to meet and learn from each other, which is something we often hear customers ask for. When preparing for a workshop with multiple customers, the CSM must ensure each customer is aware and comfortable in advance that other customers will be in attendance, and it's recommended to create a [Zoom sign-up page](https://support.zoom.us/hc/en-us/articles/211579443-Setting-up-registration-for-a-meeting) to ensure you know who will be attending. When logging the workshop in Gainsight [Timeline](/handbook/customer-success/csm/gainsight/timeline/) afterwards, log it for each customer in attendance.
-
-### Rhythm of Business
-
-While the motions in the [rhythm of business](/handbook/customer-success/csm/rhythm/) are consistent across CSM teams, the below gives a general guideline for expected hours per CSM responsibility, to help Strategic CSMs prioritize and calibrate their work so that they make the most out of their time and can meet their goals and deliverables. Tasks and priorities, as well as the amount of time spent on them, can and will shift, and CSMs should strive to be a [manager of one](/handbook/leadership/#managers-of-one) when it comes to how they manage their time on a day to day basis.
-
-With the below guidelines, CSMs should expect on average 14 hours worth of calls on their calendar in a given week, with quiet weeks being as low as 8 and busy weeks as high as 20.
-
-CSMs should regularly work with their manager to ensure they have a healthy work/life balance and feel confident they can both complete all of their work as well as work towards continuous improvement. If a CSM is either not within these guidelines or is within the guidelines but feeling overwhelmed, they should speak to their manager about their workload to identify solutions together.
-
-In addition to the work spent for each task, the rhythm described below assumes team members will take 44 days of [PTO](/handbook/paid-time-off/) per year, which includes holidays, [Family & Friends days](/handbook/company/family-and-friends-day/), vacation, sick time, etc., but this is not a requirement, and team members are able and encouraged to take as much PTO as they'd like, as long as they follow our company and [team](/handbook/customer-success/csm/pto/) guidelines and meet their deliverables.
-
-| Tasks                                                             | Weekly | Monthly | Quarterly | Yearly | Notes |
-|-------|--------|---------|-----------|--------|-------|
-| [Cadence calls](/handbook/customer-success/csm/cadence-calls/)    | 4 | 16 | 48 | 208 | 30 minutes per customer cadence call |
-| [Cadence call](/handbook/customer-success/csm/cadence-calls/) prep & follow up | 4 | 16 | 48 | 208 | 30 minutes for prep & follow up per customer cadence call |
-| Internal meetings                                                 | 6 | 24 | 72 | 312 | Team meetings, [1:1s](/handbook/leadership/1-1/), [account team](/handbook/customer-success/account-team/) syncs, social calls, etc. |
-| Account planning                                                  | 3 | 12 | 36 | 156 | [Success planning](/handbook/customer-success/csm/success-plans/), long-term strategy, [expansion opportunities](/handbook/customer-success/csm/stage-enablement-and-expansion/), etc. |
-| [Gainsight work](/handbook/customer-success/csm/gainsight/)       | 3 | 12 | 36 | 156 | Logging updates and maintenance |
-| [EBRs](/handbook/customer-success/csm/ebr/)                       | 2 | 8 | 24 | 104 | Average of 2 customer EBRs per month, with 4 hours for each (1.5 hour for call, 2.5 hours prep) |
-| [Webinars & workshops](/handbook/customer-success/csm/workshops/) | 2 | 8 | 24 | 104 | 1 workshop per week, 2 hours each (1 hour for call, 1 hour prep) |
-| Adhoc customer calls                                              | 2 | 8 | 24 | 104 | Product discussions, escalations, etc. |
-| Adhoc async customer requests                                     | 2 | 8 | 24 | 104 | Responding to customer emails and pings |
-| Customer outreach                                                 | 2 | 8 | 24 | 104 | Reaching out to customers proactively (upcoming webinars, features, etc.) |
-| [Professional development](/handbook/people-group/learning-and-development/) | 2 | 8 | 24 | 104 | GitLab product learning, courses, programs, certifications, etc. |
-| Special projects                                                  | 1 | 4 | 12 | 52 | [OKRs](https://gitlab.com/gitlab-com/customer-success/okrs/-/issues), team- and org-level initiatives, etc. |
-| Review [release blog posts](/releases/categories/releases/)       | 0.25 | 1 | 4 | 12 | 1 hour per release reviewing new features & functionality as well as deprecations |
-| **Total hours spent** | 33.25 | 133 | 399 | 1729 |  |
-
-
-
-## AMER Major Accounts
-
-*Details about ENT Major will be added here soon.*
+[Customer Health Assessment and Management](/handbook/customer-success/csm/health-score-triage/)
