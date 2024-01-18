@@ -140,7 +140,7 @@ The board meeting is [all remote]({{< ref "all-remote" >}}/) because hybrid is a
     - 2024-03-28
     - 2024-06-27
     - 2024-09-26
-    - 2043-12-12
+    - 2024-12-12
 
 The Staff EBA to the CEO shall ensure that there are separate calendar invites for all attendees within each session, all including exact session start and end times, the appropriate Zoom link, and links to the agenda document. Any supplemental materials are required to be linked in the agenda document for each session:
 
