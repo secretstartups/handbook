@@ -126,7 +126,7 @@ GitLab's Data Platform is relevant to a community larger than GitLab's and depen
 
 * Platform code is open sourced
 * Platform enhancements are contributed back inro to community projects
-* we prefer generalizable specifications and standards over idiosyncratic custom development
+* We prefer generalizable specifications and standards over idiosyncratic custom development
 
 
 ### Data Platform FY25 initiatives
