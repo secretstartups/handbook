@@ -1,6 +1,6 @@
 ---
 title: Contact Management Projects
-description: Support Operations documentation page for contact managemrnt projects
+description: Support Operations documentation page for contact management projects
 canonical_path: "/handbook/support/readiness/operations/docs/gitlab/contact_management_projects"
 ---
 
