@@ -178,7 +178,7 @@ For trading in an open trading window, please find the following instructions fo
 
 ## Purchasing GTLB Stock
 
-If you purchase GitLab shares at E*TRADE (only permitted during an open window) they would be placed in your retail account. We would ask that you send us a message at stockadmin@gitlab.com as we will need to get consent from you to track your GitLab retail shares.
+If you would like to purchase GTLB shares, this must be done through your E*TRADE account during an open window. Purchased shares would be placed in your E*TRADE retail account. We would ask that you send us a message at stockadmin@gitlab.com as we will need to get consent from you to track your GitLab retail shares.
 
 
 ## Questions about your stock plan or retail account:
