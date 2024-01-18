@@ -20,6 +20,10 @@ GitLab Support Engineers can access the [Switchboard](https://about.gitlab.com/d
 
 You should now be in **Switchboard**.
 
+NOTE:
+
+If you get a `403 Forbidden` message while using a VPN, turn it off temporarily. The WAF rules may be blocking VPN endpoints.
+
 ## Accessing customer configuration
 
 When launching Switchboard, you should default to the `/tenants` page with a list of tenant customers.
