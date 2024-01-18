@@ -169,7 +169,7 @@ While the company has the right to repurchase the unvested shares upon your term
 
 You may exercise and hold your options even outside of an open trading window. If you are a Designated Insider, please email stockadmin@gitlab.com and they will enable you to do so in your E-TRADE account. Team members will have 5 trading days to execute their exercise. Please seek advice from your financial advisor or tax advisor prior processing your exercise.
 
-## E-TRADE: Exercising your Shares in an Open Window
+## E-TRADE: Exercising your Shares in an Open Trading Window
 
 For trading in an open trading window, please find the following instructions for specifics on exercise and trading options.
 
