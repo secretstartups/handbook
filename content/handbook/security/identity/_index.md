@@ -30,9 +30,15 @@ The Identity Team has three functional specialties and collaborates cross-functi
 
 GitLab is one of the stewards of the world’s source code and intellectual property. Our mission is to ensure that internal and administrative access to customer and product data is protected and industry trust is preserved.
 
-Our work focuses on restricting and securing access to GitLab's internal data and systems based on "need to know" and least privilege security principles to prevent data leakage or data loss. 
+As we look ahead, we have a North Star vision that access and permissions are provisioned programatically, not manually by system administrators. 
 
-We work cross-functionally to define infrastructure architecture, IAM/RBAC standards, and build automation to streamline access management across all internal control plane kingdoms.
+Our work focuses on the following risks and process improvement areas:
+
+1. **Lateral Movement Risk:** Restricting and securing access to GitLab's internal data and systems based on "need to know" and least privilege security principles to prevent data leakage or data loss. 
+1. **Penetration Risk:** Implement and manage security boundaries (“castle walls”) related to authentication, authorization, device trust, and least privilege for GitLab team members, temporary service providers, and service accounts that have access to internal GitLab systems and/or administrative access.
+1. **Cloud Infrastructure Control Plane:** We manage the top-level access and architecture for AWS and GCP cloud providers to enforce least privilege and separation of accounts and resources for workloads.
+1. **Last Mile Process Automation:** Implement custom code for vendor feature gaps for last mile compliance and provisioning automation that improve business efficiency and change management auditability. This improves back office and team member end user experience, automation, and audit reports with onboarding, career mobility, offboarding, and ad-hoc access requests using improved role-based access control architecture.
+1. **Configuration State Management:** Use GitOps configuration/infrastructure-as-code for system configuration where feasible to avoid risks with manual configuration and drift detection.
 
 ### Open Source
 
@@ -89,7 +95,7 @@ See the [FY24-Q4 State of Identity](https://internal.gitlab.com/handbook/securit
 We are in the architecture and early engineering incubation phase. Please continue to use existing Identity v2 processes (business as usual) for all requests through mid-2024.
 {{% /alert %}}
 
-As we look ahead, we want to focus on a North Star vision that systems are provisioned automatically by systems, not manually by people. With the introduction of Identity Roles and Identity Groups, we can reduce the number of ad-hoc access requests by using predefined policies and automated provisioning based on role-based access control rather than named user access control.
+With the introduction of Identity Roles and Identity Groups, we can reduce the number of ad-hoc access requests by using predefined policies and automated provisioning based on role-based access control rather than named user access control.
 
 GitLab Identity v3 is where we want to be in FY25-2H (mid-late 2024) with a pseudo-greenfield approach to automate all of our policies and as much of our approvals, provisioning, and access reviews as possible.
 
