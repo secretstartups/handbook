@@ -16,7 +16,7 @@ CI Catalog GA Epic: [https://gitlab.com/groups/gitlab-org/-/epics/12153](https:/
 
 | Milestone | Dates | Deliverable |
 |---------- | ----- | ----------- |
-|  ~17.1      | 2024-05-11 to 2024-06-14 | CI Catalog GA |
+|  ~17.0     | 2024-04-13 to 2024-05-10 | CI Catalog GA |
 
 {{< sisense dashboard="1174055" >}}
 
@@ -38,10 +38,13 @@ CI Catalog GA Epic: [https://gitlab.com/groups/gitlab-org/-/epics/12153](https:/
 - Helper efforts for components
   - [Provide components as helpers to test other components](https://gitlab.com/gitlab-org/gitlab/-/issues/430818)
   - [Components toolkit to test GitLab-maintained components](https://gitlab.com/gitlab-org/gitlab/-/issues/432772) (Complete)
+- Lay the foundation for all badges + introduce GL-maintained badges
+  - [https://gitlab.com/gitlab-org/gitlab/-/issues/434058](https://gitlab.com/gitlab-org/gitlab/-/issues/434058)
+  - [https://gitlab.com/gitlab-org/gitlab/-/issues/427962](https://gitlab.com/gitlab-org/gitlab/-/issues/427962) 
 
 #### Blockers:
 
-- Waiting on Product [confirmation](https://gitlab.com/gitlab-org/gitlab/-/issues/427286#note_1731326686) to discard released date sorting with semantic versioning coming soon.
+- None at this time.
 
 ### Milestone 16.10 (February 10, 2024 - March 8, 2024)
 
@@ -51,18 +54,24 @@ CI Catalog GA Epic: [https://gitlab.com/groups/gitlab-org/-/epics/12153](https:/
 - Support Self Manage components
 - Represent component name in the index page in [https://gitlab.com/gitlab-org/gitlab/-/issues/407176](https://gitlab.com/gitlab-org/gitlab/-/issues/407176)
 - Visibility into where components are used in [https://gitlab.com/gitlab-org/gitlab/-/issues/393326](https://gitlab.com/gitlab-org/gitlab/-/issues/393326)
+- Support Self Manage components (likely to carry over for 16.11 and beyond)
+- Moving inputs to GA
+- Release and Publish API (likely to carry over for 16.11 and beyond)
 
 ### Milestone 16.11 (March 9, 2024 - April 12, 2024)
 
 #### Goals:
-- Prioritized user feedback issues
+- Release and Publish API (carry over)
+- Support Self Manage components (carry over)
+- Improve components filtering in the UI
 
 ### Milestone 17.0 (April 13, 2024 - May 10, 2024)
+
+- [ ] **CI Catalog GA**
 
 ### Milestone 17.1 (May 11, 2024 - June 14, 2024)
 
 #### Goals:
-- [ ] **CI Catalog GA**
 
 ### Milestone 17.5 (September 14, 2024 - October 11, 2024)
 
