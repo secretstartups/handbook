@@ -185,7 +185,7 @@ After you have finished configuring your laptop, please follow the Pre-Labbing S
 These policies are a cross-collaboration between the IT and Security department.
 
 - [Acceptable Use Policy](/handbook/people-group/acceptable-use-policy)
-- [Data Classification Standards](/handbook/security/data-classification-standard.html) - RED, ORANGE, YELLOW, GREEN
+- [Data Classification Standards](/handbook/security/data-classification-standard/) - RED, ORANGE, YELLOW, GREEN
 - [Home WiFi Configuration Policy](/handbook/security/network-isolation/)
 - [Laptop Asset Management Policy](/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/)
 - Laptop Disk Encryption Policy
