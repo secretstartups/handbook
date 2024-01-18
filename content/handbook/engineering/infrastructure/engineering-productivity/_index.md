@@ -25,9 +25,21 @@ description: "The Engineering Productivity team increases productivity of GitLab
 
 ## KPIs
 
+[Infrastructure Performance Indicators](/handbook/engineering/infrastructure/performance-indicators/) are our single source of truth
 - [Master Pipeline Stability](/handbook/engineering/infrastructure-quality/performance-indicators/#master-pipeline-stability)
-- [Review app deployment success rate](/handbook/engineering/infrastructure-quality/performance-indicators/#review-app-deployment-success-rate)
-- [Time to First Failure (TtFF)](/handbook/engineering/infrastructure-quality/performance-indicators/#time-to-first-failure)
+- [Merge request pipeline duration](/handbook/engineering/infrastructure/performance-indicators/#merge-request-pipeline-duration)
+
+### PIs
+
+- [Review App deployment success rate](/handbook/engineering/infrastructure/performance-indicators/#review-app-deployment-success-rate)
+- [Time to First Failure P80](/handbook/engineering/infrastructure/performance-indicators/#time-to-first-failure-p80)
+- [Time to First Failure](/handbook/engineering/infrastructure-quality/performance-indicators/#time-to-first-failure)
+ 
+### Shared
+
+- [Quality Handbook MR Rate](/handbook/engineering/infrastructure/performance-indicators/#quality-handbook-mr-rate)
+- [Quality Department Propmotion Rate](/handbook/engineering/infrastructure/performance-indicators/#quality-department-promotion-rate)
+- [Quality Department Discretionary Bonus Rate](/handbook/engineering/infrastructure/performance-indicators/#quality-department-discretionary-bonus-rate)
 
 ## OKRs
 
