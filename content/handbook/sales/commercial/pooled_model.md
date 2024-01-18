@@ -66,10 +66,9 @@ Any GitLab team member is free to create a case, should they need to loop in a P
 - Navigate to the applicable **Account** in Salesforce.
 - Click on Cases, **New Case**.
 - Select **Pooled Sales Case**, from the **Record Type** dropdown.
-- Change **Case Origin** to **SMB Pool Internal Created**.
 - Search the **Contact Name** of the end user contact.
 - Describe the ask of the AE in the case **Description**. Include any relevant links or resources.
-- Enter in a **Referral** the **Subject** field.
+- Enter in either **Referral** (if you reside in Sales Org), **Support Ticket** (if you reside in the Support Org), or **AR Request** (if you reside in the Billing Org) in the **Subject** field.
 - Select a **Case Reason** based on the customers needs.
 - Check the **Assign using active assignment rules** checkbox, and click **Save**.
 - This Case will now drop into the **Pooled Sales Queue**, and will be actioned by a Pooled AE.
