@@ -9,15 +9,15 @@ In general, all IT Compliance professionals at GitLab focus on operating our sec
 
 ## Levels
 
-## Junior IT Compliance Engineer
+## Associate IT Compliance Engineer
 
 This position reports to the Manager, IT Compliance role at GitLab.
 
-### Junior IT Compliance Engineer (Junior) Job Grade
+### Associate IT Compliance Engineer Job Grade
 
-The IT Compliance role is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Associate IT Compliance Engineer role is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Junior IT Compliance Engineer Responsibilities
+### Associate IT Compliance Engineer Responsibilities
 
 - Assist in the development and implementation of IT compliance frameworks and policies.
 - Conduct regular compliance audits to ensure adherence to regulatory standards and internal policies.
@@ -29,7 +29,7 @@ The IT Compliance role is a [grade 5](/handbook/total-rewards/compensation/compe
 - Assist in the resolution of compliance-related incidents and vulnerabilities.
 - Work closely with senior IT compliance professionals to gain insights and enhance skills.
 
-### Junior IT Compliance Engineer (Junior) Requirements
+### Associate IT Compliance Engineer Requirements
 
 - Bachelor's degree in Information Technology, Computer Science, or a related field.
 - Knowledge of IT compliance frameworks, such as ISO 27001, NIST, or COBIT or willingness to learn.
