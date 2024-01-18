@@ -4,7 +4,7 @@ title: "Engineering Metrics Dashboards"
 
 ### Welcome
 
-Welcome to our Engineering Metrics Dashboards hub – your go-to spot for checking out how things are rolling across our engineering org. The dashboards below capture data on key metrics such as past due issues, merge request types, open bugs, review time, merge request rate, and the age of bugs and issues. These metrics serve as vital indicators, offering a granular understanding of our development processes, code quality, and team efficiency. Please reach out to us in #g_engineering_analytics if you have any questions!
+Welcome to our Engineering Metrics Dashboards hub – your go-to spot for checking out how things are rolling across our engineering org. The dashboards below capture data on key metrics such as past due issues, merge request types, open bugs, review time, merge request rate, and the age of bugs and issues. These metrics serve as vital indicators, offering a granular understanding of our development processes, code quality, and team efficiency. Please reach out to us in `#g_engineering_analytics` if you have any questions!
 
 #### Dashboards
 
@@ -24,8 +24,7 @@ To ensure the accuracy of the presented data, please use the convenient filterin
 
 If you find yourself frequently accessing data specific to your group, section, or stage, we recommend embedding the following code to save your preferred settings.
 
-```
-{{< tableau src="https://10az.online.tableau.com/t/gitlab/views/TopEngineeringMetrics_16989570521080/TopEngineeringMetricsDashboard" >}}
+```{{< tableau src="https://10az.online.tableau.com/t/gitlab/views/TopEngineeringMetrics_16989570521080/TopEngineeringMetricsDashboard" >}}
   {{< tableau/filters "stage"="Create" >}}
 {{< /tableau >}}
 ```
