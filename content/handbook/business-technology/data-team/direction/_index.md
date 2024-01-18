@@ -97,7 +97,7 @@ graph BT;
   id5(Better Insights)-.->id3;
 ```
 
-## A Visionary Data Platform
+## Our Data Platform Vision
 These ambitions are set to be a guiding vision for GitLab's data platform. 
 
 ### Makes it Easier to Contribute
