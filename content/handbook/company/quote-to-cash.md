@@ -383,18 +383,6 @@ The Fulfillment Team is re-architecting our Quote 2 Cash Systems, in particular 
 
 The Q2C Re-Architecture will be implemented in various phases with a clear communication to the audience and other cross-functional teams on the Expected Outcomes and Deliverables from each phase.
 
-#### Phase 1
-
-Design & develop Master Data Objects for Billing Accounts, Orders & Ramps to support Quote to Cash Re-Architecture - [Epic](https://gitlab.com/groups/gitlab-data/-/epics/870)
-- Design & Implementation of Master Data Object for Billing Accounts
-- Design & Implmentation of Master Data Object for Orders(inclduing Ramps)
-
-#### Phase 2
-
-Design & develop Master Data Objects for Customers, Contacts/Users & Leads to support Quote to Cash Re-Architecture - [Epic](https://gitlab.com/groups/gitlab-data/-/epics/871)
-- Design & implementation of Master Data Object for Customers/Users/Contacts
-- Design & Implementation of Master Data Object for Leads
-
 ### Conformed Dimensions
 
 `Conformed dimensions` allow facts and measures to be categorized and described in the same way across multiple facts and/or data marts, ensuring consistent reporting across the enterprise.
