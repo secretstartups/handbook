@@ -9,7 +9,7 @@ In general, all IT Compliance professionals at GitLab focus on operating our sec
 
 ## Levels
 
-## IT Compliance Engineer
+## Junior IT Compliance Engineer
 
 This position reports to the Manager, IT Compliance role at GitLab.
 
