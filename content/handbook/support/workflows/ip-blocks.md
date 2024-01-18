@@ -52,7 +52,7 @@ The following fields are the best to add to your search query in order to get th
 - `json.status` - Outputs the HTTP status code that was returned for the request. We're usually looking for `401` (Unauthorized) and/or `403` (Forbidden).
 - `json.path` - The path on GitLab.com that was accessed by the request or the API endpoint that was hit.
 - `json.method` - Can be either `GET`, `POST`, `PUT`, `PATCH`, or `DELETE`. The first three are the most common.
-- `json.env` - Can be `blocklist`, `throttle` or `track`. `track` is used for diagnostics when changing rate limiting settings and does not affect users: from a support perspective, ignore `track`. `blocked` happens in reaction to too many failed authentication attempts, for example with automated Git HTTP traffic. `throttle` means a user or IP is making too many requests per minute.
+- `json.env` - Can be `blocklist`, `throttle` or `track`. `track` is used for diagnostics when changing rate limiting settings and does not affect users: from a support perspective, ignore `track`. `blocklist` happens in reaction to too many failed authentication attempts, for example with automated Git HTTP traffic. `throttle` means a user or IP is making too many requests per minute.
 
 #### Secondary
 
