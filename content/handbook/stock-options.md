@@ -167,7 +167,7 @@ Per our [SAFE framework](/handbook/legal/safe-framework/), we do not add specifi
 
 While the company has the right to repurchase the unvested shares upon your termination of services, the company is not obligated to do so. Accordingly you could lose some or all of the investment you made. Because we are a young company there are lots of risks, so be aware and informed of the risks.
 
-You may exercise and hold your options even outside of an Open Window. If you are a Designated Insider, please email stockadmin@gitlab.com and they will enable you to do so in your E-TRADE account. Team members will have 5 trading days to execute their exercise. Please seek advice from your financial advisor or tax advisor prior processing your exercise.
+You may exercise and hold your options even outside of an open trading window. If you are a Designated Insider, please email stockadmin@gitlab.com and they will enable you to do so in your E-TRADE account. Team members will have 5 trading days to execute their exercise. Please seek advice from your financial advisor or tax advisor prior processing your exercise.
 
 ## E-TRADE: Exercising your Shares in an Open Window
 
