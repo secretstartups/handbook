@@ -34,7 +34,7 @@ As we look ahead, we have a North Star vision that access and permissions are pr
 
 Our work focuses on the following risks and process improvement areas:
 
-1. **Lateral Movement Risk:** Restricting and securing access to GitLab's internal data and systems based on "need to know" and least privilege security principles to prevent data leakage or data loss. 
+1. **Lateral Movement Risk:** Restricting and securing access to GitLab's internal data and systems based on "need to know" and least privilege security principles to prevent data leakage or data loss.
 1. **Penetration Risk:** Implement and manage security boundaries (“castle walls”) related to authentication, authorization, device trust, and least privilege for GitLab team members, temporary service providers, and service accounts that have access to internal GitLab systems and/or administrative access.
 1. **Cloud Infrastructure Control Plane:** We manage the top-level access and architecture for AWS and GCP cloud providers to enforce least privilege and separation of accounts and resources for workloads.
 1. **Last Mile Process Automation:** Implement custom code for vendor feature gaps for last mile compliance and provisioning automation that improve business efficiency and change management auditability. This improves back office and team member end user experience, automation, and audit reports with onboarding, career mobility, offboarding, and ad-hoc access requests using improved role-based access control architecture.
