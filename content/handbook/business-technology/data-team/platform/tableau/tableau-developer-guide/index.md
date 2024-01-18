@@ -542,4 +542,6 @@ Create a Data Source filter using the `USERNAME()` function and the `tableau_use
 6. Extracts built directly from tables or marts can be published as a Datasource
 7. Extracts built with Custom SQL must be embedded in a workbook.
 
+## Improving Local Connection Timeouts
+
 
