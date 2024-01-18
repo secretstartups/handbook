@@ -105,6 +105,17 @@ Extends the Intermediate IT Enterprise Applications Administrator responsibiliti
     - Experience working with Zuora, including experience with the Zuora 360, API and ZOQL.
     - Experience integrating Zuora with other systems such as Salesforce, Netsuite, and Avalara.
     - Zuora Certified Platform Admin, Zuora Billing and Revenue Certifications a plus.
+  - ServiceNOW
+    - Full understanding of ServiceNOW products, its modules and how object relate to them within the platform.
+    - Export knowledge in ITIL and ITSM Processes and terminologies.
+    - Experience with building and generating reports based on SLAs and OLAs withing ServiceNOW.
+    - ServiceNOW Certified Application Developer, System Administrator or Implementation Specialist a plus.
+  - CloudBlue
+    - Strong technical experience managing Cloudblue configuration and service deployment.
+    - Full understanding of how hyperscaler and distributor marketplaces (GCP/AWS) integrate with third party applications.
+    - Experience dealing with software or license inventory control, order management and logistics processes.
+        
+
 
 ## Manager, IT Enterprise Applications Engineering
 
