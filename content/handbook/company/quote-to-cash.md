@@ -414,41 +414,9 @@ Below is the Entity Relationship Diagram for the Re-architected data model in Sn
 
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/c8f1520c-e59b-4551-a9db-bfce88bb84dc" id="0GkOGAjoD_O."></iframe></div>
 
-#### ERDs (Entity Relationship Diagrams) for Business Process Modeling
 
 These ERDs illustrate how we model data from the Quote to Cash Systems in the Snowflake Enterprise Dimensional Model.
 
-<details markdown=1>
-
-<summary><b>Sales Funnel Dimensional Model ERD (Built using Salesforce data)</b></summary>
-
-<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/b09f9e0a-e695-4cba-882d-981a93216293" id="7Da6Neo1dhab"></iframe></div>
-
-</details>
-
-<details markdown=1>
-
-<summary><b>Service Ping Dimensional Model ERD (Built with CustomerDot, Version App, Zuora, and Salesforce Data)</b></summary>
-
-<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/3a42e56a-028e-45d7-b2ca-5ef489bafd32" id="Z1Mr2IgZz268"></iframe></div>
-
-</details>
-
-<details markdown=1>
-
-<summary><b>Common Subscription Dimensional Model ERD (Built using Salesforce and Zuora Data)</b></summary>
-
-<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/7becf6b4-98d8-4e49-8467-764a3296622d" id="T3MrtOiP96Ov"></iframe></div>
-
-</details>
-
-<details markdown=1>
-
-<summary><b>ARR (Annual Recurring Revenue) Dimensional Model ERD (Built using Salesforce and Zuora Data)</b></summary>
-
-<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/998dbbae-f04e-4310-9d85-0c360a40a018" id="f5MrUO8fEC1Y"></iframe></div>
-
-</details>
 
 #### Conformed Dimension Design for Core Business Objects
 
@@ -475,17 +443,3 @@ These ERDs illustrate how we model data from the Quote to Cash Systems in the Sn
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/0e46bd1c-0d15-40d4-8755-d2b45bcc4346" id="L6t5L7s2wK5-"></iframe></div>
 
 </details>
-
-
-#### dbt Data Lineage Diagrams and Data Dictionaries
-
-[Quote to Cash Data Lineage Diagrams](/handbook/business-technology/data-team/data-catalog/#dbt-data-lineage-diagrams) illustrate how the data from critical Quote to Cash source tables flow through the Snowflake data models.
-
-[Quote to Cash Data Dictionaries](/handbook/business-technology/data-team/data-catalog/#dbt-data-dictionaries) provide definitions for the Quote to Cash fields used in the Snowflake Enterprise Dimensional Data Model.
-
-#### Business Insights and Analysis
-
-Our Data Catalog provides access to Analytics Hubs, Data Guides, ERDs, and Analytics projects relating to the Quote to Cash business processes.
-
-- [Lead to Cash Data Catalog](/handbook/business-technology/data-team/data-catalog/#lead-to-cash-catalog)
-- [Product Release to Adoption Data Catalog](/handbook/business-technology/data-team/data-catalog/#product-release-to-adoption-catalog)
