@@ -30,7 +30,7 @@ The Identity Team has three functional specialties and collaborates cross-functi
 
 GitLab is one of the stewards of the world’s source code and intellectual property. Our mission is to ensure that internal and administrative access to customer and product data is protected and industry trust is preserved.
 
-As we look ahead, we have a North Star vision that access and permissions are provisioned programatically, not manually by system administrators. 
+As we look ahead, we have a North Star vision that access and permissions are provisioned programatically, not manually by system administrators.
 
 Our work focuses on the following risks and process improvement areas:
 
