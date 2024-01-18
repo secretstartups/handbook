@@ -13,6 +13,39 @@ In general, all IT Compliance professionals at GitLab focus on operating our sec
 
 This position reports to the Manager, IT Compliance role at GitLab.
 
+### Junior IT Compliance Engineer (Junior) Job Grade
+
+The IT Compliance role is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### Junior IT Compliance Engineer Responsibilities
+
+- Assist in the development and implementation of IT compliance frameworks and policies.
+- Conduct regular compliance audits to ensure adherence to regulatory standards and internal policies.
+- Perform User Access Reviews to evaluate and validate user access rights and permissions.
+- Collaborate with cross-functional teams to identify and address compliance issues in IT processes and systems.
+- Stay updated on industry regulations and standards related to IT security and compliance.
+- Assist in the preparation and response to external audits and assessments.
+- Participate in the creation and delivery of training programs on IT compliance best practices.
+- Monitor and report on compliance metrics and key performance indicators.
+- Contribute to the development and maintenance of documentation related to IT compliance processes and controls.
+- Assist in the resolution of compliance-related incidents and vulnerabilities.
+- Work closely with senior IT compliance professionals to gain insights and enhance skills.
+
+### Junior IT Compliance Engineer (Junior) Requirements
+
+- Bachelor's degree in Information Technology, Computer Science, or a related field.
+- Knowledge of IT compliance frameworks, such as ISO 27001, NIST, or COBIT or willingness to learn.
+- Experience in performing User Access Reviews and managing access controls or willing to learn.
+- Excellent communication and collaboration skills.
+- Detail-oriented with strong analytical and problem-solving abilities.
+- Ability to work effectively in a team environment.
+- Familiarity with IT auditing tools and techniques is a plus.
+- Relevant certifications (e.g., CompTIA Security+, CISA) are desirable but not mandatory for entry-level positions.
+
+## IT Compliance Engineer
+
+This position reports to the Manager, IT Compliance role at GitLab.
+
 ### IT Compliance Engineer (Intermediate) Job Grade
 
 The IT Compliance role is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
