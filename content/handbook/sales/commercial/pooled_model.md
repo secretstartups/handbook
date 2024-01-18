@@ -77,8 +77,6 @@ Any GitLab team member is free to create a case, should they need to loop in a P
 
 If a Pooled Customer raises a support ticket, it will be picked up via Zendesk by a Support Engineer.  
 
-If this Support Engineer now needs to loop in Sales, the [Working with Sales - Salesforce `Account Owner` is `POOLED USER [ DO NOT CHATTER ]`](/handbook/support/license-and-renewals/workflows/working_with_sales.html#if-the-salesforce-account-owner-is-pooled-user--do-not-chatter-) workflow should be followed.
-
 
 ## How Pooled AEs work Cases
 
