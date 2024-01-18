@@ -25,8 +25,6 @@ The IT Compliance role is a [grade 5](/handbook/total-rewards/compensation/compe
 - Collaborate with cross-functional teams to identify and address compliance issues in IT processes and systems.
 - Stay updated on industry regulations and standards related to IT security and compliance.
 - Assist in the preparation and response to external audits and assessments.
-- Participate in the creation and delivery of training programs on IT compliance best practices.
-- Monitor and report on compliance metrics and key performance indicators.
 - Contribute to the development and maintenance of documentation related to IT compliance processes and controls.
 - Assist in the resolution of compliance-related incidents and vulnerabilities.
 - Work closely with senior IT compliance professionals to gain insights and enhance skills.
