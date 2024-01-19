@@ -71,9 +71,11 @@ All operations end with a final report. We use an issue template which is [share
 
 Security risks affect everyone, and it is essential to make our reports approachable and consumable to a broad audience. To achieve this, we make an effort to [use simple language]({{< ref "communication#simple-language" >}}). Our goal is to ensure that anyone in the company can understand the reports, even if they don't have a background in security.
 
-After an operation has concluded, we will create a short video summarizing the operation, which should not exceed five minutes. We will then share the following in `#whats-happening-at-gitlab` and cross-post it in `#security`:
+After an operation has concluded, if relevant, we will create a short video summarizing the operation, which should not exceed five minutes. We will also schedule synchronous meetings with our Security Incident Response Team (SIRT) to go over the various attack steps of the operation and review detections and alerts. 
 
-- A very short summary of the operation, including the video overview
+We will then share the following in `#whats-happening-at-gitlab` and cross-post it in `#security`:
+
+- A very short summary of the operation, including the video overview if there is one
 - A link to the final report
 - A link to the retrospective issue to solicit questions and feedback
 - A disclaimer to keep the information [SAFE](/handbook/legal/safe-framework/#how-do-we-reinforce-safe).
