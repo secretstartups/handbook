@@ -6,13 +6,14 @@ description: "Test Engineering team in Test Platform sub-department"
 
 ## Common Links
 
-| Category | Handle |
+| **Category**            | **Handle** |
+|-------------------------|------------|
 | **GitLab Team Handle** | [`@gl-quality/tp-test-engineering`](https://gitlab.com/gl-quality/tp-test-engineering) |
 | **Slack Channel** | [#test-engineering-team](https://gitlab.slack.com/archives/C064M4S0FU5) |
 | **Team Boards** | [Team Board](https://gitlab.com/groups/gitlab-org/-/boards/1512645?label_name[]=Quality) |
 | **Issue Tracker** | [quality/team-tasks](https://gitlab.com/gitlab-org/quality/team-tasks/issues/) |
 
-Engineers in this team support the product sections supported by the [Core Development] and [Expansion Development Department].
+Engineers in this team support the product sections supported by the [Core Development] and [Expansion Development] Department.
 
 ## Team members
 
