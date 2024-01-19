@@ -107,9 +107,11 @@ To gain access, please create:
 
 ### Getting product fixes into GitLab Dedicated quicker
 
-NOTE:
+{{% alert title="Note" color="info" %}}
+
 This section should be moved into the GitLab Dedicated incident management process page when it
 becomes available.
+{{% /alert %}}
 
 Sometimes, a product fix is introduced to resolve a GitLab Dedicated incident or
 [customer escalation](#escalation-policy). There can be a significant delay between when the
