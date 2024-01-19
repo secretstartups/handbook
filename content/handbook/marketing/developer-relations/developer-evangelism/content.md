@@ -11,7 +11,7 @@ You can search for relevant content and contact the team in the linked content e
 
 ### Highspot
 
-The team's content is distributed in [Highspot](https://gitlab.highspot.com/) in topic and type specific spots, for example [GitLab Duo (AI)](https://gitlab.highspot.com/spots/64b14e7cc4b08381c0408bb4). 
+The team's content is distributed in [Highspot](https://gitlab.highspot.com/) in topic and type-specific spots, for example, [GitLab Duo (AI)](https://gitlab.highspot.com/spots/64b14e7cc4b08381c0408bb4) and [Customer Outreach](https://gitlab.highspot.com/spots/615dd7c2506d3fc490ad78cd). 
 
 ### Projects
 
