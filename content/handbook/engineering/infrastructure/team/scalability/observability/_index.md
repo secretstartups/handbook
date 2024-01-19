@@ -25,6 +25,23 @@ The following people are members of the Scalability:Observability team:
 
 The team is located all over the world in [different timezones](https://timezonewizard.com/p4-6e9).
 
+## Topics we cover
+
+This is an initial overview of topics we cover to help us reflect on and learn about our areas of ownership, duties, products and services following the recent team restructure.
+
+1. Metrics stack
+   1. Prometheus/Thanos
+2. Logging stack
+   1. ELK
+3. Error budgets
+   1. Ownership of concept and implementation
+   2. Delivery of monthly error budget report
+4. Capacity planning
+   1. [Triage rotation for .com](/handbook/engineering/infrastructure/capacity-planning/#gitlabcom-capacity-planning)
+   2. Developing [Tamland](https://gitlab.com/gitlab-com/gl-infra/tamland), the forecasting tool
+   3. [Capacity reporting for GitLab Dedicated](https://gitlab.com/gitlab-com/gl-infra/capacity-planning-trackers/gitlab-dedicated)
+5. SRE oncall rotation
+
 ## How we work
 
 ### Updates in Slack
