@@ -113,9 +113,7 @@ Extends the Intermediate IT Enterprise Applications Administrator responsibiliti
   - CloudBlue
     - Strong technical experience managing Cloudblue configuration and service deployment.
     - Full understanding of how hyperscaler and distributor marketplaces (GCP/AWS) integrate with third party applications.
-    - Experience dealing with software or license inventory control, order management and logistics processes.
-        
-
+    - Experience dealing with software or license inventory control, order management and logistics processes. 
 
 ## Manager, IT Enterprise Applications Engineering
 
