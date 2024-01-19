@@ -85,6 +85,7 @@ The team has been actively working on enabling Elasticsearch powered Advanced Se
 ### Severity Labels for Search Issues (`~advanced search`, `~global search`)
 
 | Type of Operation | `~severity::1` - Blocker | `~severity::2` - Critical | `~severity::3` - Major  | `~severity::4` - Low |
+| ------------------|--------------------------|---------------------------|-------------------------|----------------------|
 | Recall Record, Global | Above 10 seconds to timing out | Between 7 and 10 seconds | Between 4 and 7 seconds | Between 2 and 4 seconds |
 | Time until inserted record is recallable | Above 15 minutes | Between 15 and 10 minutes | Between 10 and 5 minutes | Between 3 and 5 minutes|
 
@@ -177,4 +178,4 @@ We are exploring [Rally](https://esrally.readthedocs.io) for performance testing
 
 ## Dashboards
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Global Search" } %>
+{{% cross-functional-dashboards filters="global search" %}}
