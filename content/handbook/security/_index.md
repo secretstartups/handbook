@@ -81,6 +81,7 @@ To reflect this, we have structured the Security Division around four key tenets
       </td>
       <td>
         <ul>
+            <li><a href="{{< ref "./threat-management/identity" >}}">Identity Engineering, Infra, and Ops</a></li>
             <li><a href="{{< ref "./threat-management/red-team" >}}">Red Team</a></li>
             <li><a href="{{< ref "./threat-management/security-research" >}}">Security Research</a></li>
             <li><a href="{{< ref "./threat-management/vulnerability-management" >}}">Security Threat & Vulnerability Management</a></li>
@@ -104,7 +105,6 @@ The [Security Engineering Department]({{< ref "security-engineering" >}}) is pri
 
 The term “Product” is interpreted broadly and includes the GitLab application itself and all other integrations and code that is developed internally to support the GitLab application for the multi-tenant SaaS. Our responsibility is to ensure all aspects of GitLab that are exposed to customers or that host customer data are held to the highest security standards, and to be proactive and responsive to ensure world-class security in anything GitLab offers.
 
-
 #### Protect the Company - The Security Operations Department
 
 [Security Operations Department]({{< ref "security-operations" >}}) teams are primarily focused on protecting GitLab the business and GitLab's platform. This encompasses protecting company property as well as to prevent, detect and respond to risks and events targeting the business and our platform. This department includes the Security Incident Response Team (SIRT) and the Trust and Safety team.
@@ -118,8 +118,6 @@ These functions have the responsibility of shoring up and maintaining the securi
 #### Assure the Customer - The Security Assurance Department
 
 The [Security Assurance Department]({{< ref "security-assurance" >}}) is comprised of the teams noted above. They target Customer Assurance projects among their responsibilities. This reflects the need for us to provide resources to our customers to assure them of the security and safety of GitLab as an application to use within their organisation and as a enterprise-level SaaS. This also involves providing appropriate support, services and resources to customers so that they trust GitLab as a Secure Company, as a Secure Product, and Secure SaaS
-
-
 
 #### Other groups and individuals
 
@@ -189,6 +187,13 @@ Many teams follow a convention of having a GitLab group `team-name-team` with a 
     - [@gitlab-com/gl-security/security-operations/sirt](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt) is the primary group for @'mentioning the Security Incident Response Team (SIRT).
         - [SIRT (private)](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/operations) for SIRT issues.
     - [@gitlab-com/gl-security/security-operations/trust-and-safety](https://gitlab.com/gitlab-com/gl-security/security-operations/trust-and-safety) is the primary group for @'mentioning the Trust & Safety team.
+- Security Threat Management
+    - Identity and Access Management
+        - [@gitlab-com/gl-security/identity/infra](https://gitlab.com/gitlab-com/gl-security/identity/infra)
+        - [@gitlab-com/gl-security/identity/ops](https://gitlab.com/gitlab-com/gl-security/identity/ops)
+    - [@gitlab-com/gl-security/threatmanagement/redteam](https://gitlab.com/gitlab-com/gl-security/threatmanagement/redteam)
+    - [@gitlab-com/gl-security/security-research](https://gitlab.com/gitlab-com/gl-security/security-research)
+    - [@gitlab-com/gl-security/threatmanagement/vulnerability-management](https://gitlab.com/gitlab-com/gl-security/threatmanagement/vulnerability-management)
 
 
 #### Slack Channels
@@ -208,6 +213,7 @@ handled by the Security Division.
 - Use the **@field-security** mention in any Slack channel to tag the members of the Field Security team.
 - Use the **@appsec-team** mention in any Slack channel to tag the members of the Application Security team.
 - Use the **@trust-and-safety** mention in any Slack channel to tag the members of the Trust & Safety team.
+- Use the **@security-identity** mention in any Slack channel (or `#security-identity-ops`) to tag members of the Identity team.
 
 #### Ransomware
 
