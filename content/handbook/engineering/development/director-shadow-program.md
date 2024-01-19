@@ -19,8 +19,8 @@ Some blogs from previous shadows:
 1. [What I Learned as a Development Director](https://awkwardferny.medium.com/what-i-learned-as-an-engineering-director-shadow-at-gitlab-1a783cb564d0) - [@fjdiaz](https://gitlab.com/fjdiaz)
 1. [The engineering director shadow experience at GitLab](https://about.gitlab.com/blog/2022/04/01/engineering-director-shadow/) - [@warias](https://gitlab.com/warias)
 1. [Exciting Experience at GitLab Shadow Program](https://www.linkedin.com/posts/palwasha-malik_pakistani-gitlab-gitlabshadowprogram-activity-7075930932083310592-RZLr/) - [Palwasha Malik](https://www.linkedin.com/in/palwasha-malik/)
-1. [Reflections from shadowing GitLab's Development Director](https://singhanshuman.hashnode.dev/reflections-from-shadowing-gitlabs-development-director)- [Anshuman Singh](https://www.linkedin.com/in/anshuman-singh-4537731a5/)
-1. [One week shadowing Wayne Haber, Director of Engineering at GitLab](https://marcaurele.brothier.org/articles/2024-shadow-gitlab-eng-director-wayne-haber/)
+1. [Reflections from shadowing GitLab's Development Director](https://singhanshuman.hashnode.dev/reflections-from-shadowing-gitlabs-development-director) - [Anshuman Singh](https://www.linkedin.com/in/anshuman-singh-4537731a5/)
+1. [One week shadowing Wayne Haber, Director of Engineering at GitLab](https://marcaurele.brothier.org/articles/2024-shadow-gitlab-eng-director-wayne-haber/) - [Marc-Aurele Brothier](https://www.linkedin.com/in/marcaurele) 
 
 
 ## Benefits
@@ -150,9 +150,6 @@ No, not at this time.
 
 | Week of | Shadow(s) | Role |
 | ------ | ------ | ----- |
-| December 18| Not Available | |
-| December 25|  Not Available | |
-| January 1, 2024 | Not Available | |
 | January 22 | [Tyler DeCaire](https://gitlab.com/tdecaire) | Solutions Architect |
 | January 29 | [Carla Drago](https://gitlab.com/carlad-gl) | Senior Backend Engineer |
 | Feb 5 | Available | |
@@ -197,7 +194,7 @@ No, not at this time.
 | [Davis Bickford](https://www.gitlab.com/dbickford) | Backend Engineer - [Runner Saas](https://about.gitlab.com/direction/verify/runner_saas/) |
 | [Jamie Strachan](https://www.linkedin.com/in/jamiestrachan/)     |  Non-GitLab engineering manager      |
 | [Zivago Lee](https://www.linkedin.com/in/zivagolee/) | Non-GitLab shadow - Director of Engineering at [Spin](https://www.spin.app/) |
-|  [Marc-Aurele Brothier](https://www.linkedin.com/in/marcaurele) | Non-GitLab shadow - Senior Engineering Manager at [Pix4D](https://www.pix4d.com/) |
+| [Marc-Aurele Brothier](https://www.linkedin.com/in/marcaurele) | Non-GitLab shadow - Senior Engineering Manager at [Pix4D](https://www.pix4d.com/) |
 | [Sameera Perera](https://www.linkedin.com/in/perera-sameera) | Non-GitLab Shadow - Director of R&D @ Celigo |
 
 
