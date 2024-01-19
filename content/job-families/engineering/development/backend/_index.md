@@ -147,7 +147,7 @@ The Senior Backend Engineer is a [grade 7](/handbook/total-rewards/compensation/
 
 ----
 
-A Senior Backend Engineer may want to pursue the [engineering management track](/job-families/engineering/engineering-management/) at this point as a manager of people or a higher level individual contributor. See [Engineering Career Development](/handbook/engineering/career-development/) for more detail.
+A Senior Backend Engineer may want to pursue the [engineering management track](/job-families/engineering/engineering-management/) at this point as a manager of people or a higher level individual contributor. See [Engineering Career Development](/handbook/engineering/careers/) for more detail.
 
 **Note:** Staff and above positions at GitLab are more of a role than just a "level". We prefer to bring people in as Senior and let the team elevate them to Staff due to an outstanding work history within GitLab.
 
