@@ -63,7 +63,8 @@ Some dedicated Slack channels:
 - UX/PD: User Experience Designer
 - TW: Technical Writer
 
-### Team Meetings
+### Meetings
+#### Environments Team Meeting
 
 We have one team meeting each week. The time alternates every week to accommodate APAC/EMEA and EMEA/AMER. The purpose of this meeting is to share information about the ongoing projects. It also contains general announcements that are important for collaboration.
 
@@ -80,6 +81,16 @@ Meeting format:
 - If there is left over time, team members may use the remaining unrecorded time to socialize or leave the meeting early.
 
 If the meeting for the week has already taken place and you would like to add a new item for discussion, create a new section for the next meeting date above the last one and add your item.
+
+#### Ruby Meeting
+
+This is an optional meeting on the team calendar. Everyone on the team is welcome. It is prioritized
+to be at a time where as many of the Backend Engineers who work primarily in
+Ruby can attend.
+
+This meeting is not too formal and also provides time for the engineers across
+time zones to discuss ongoing projects, ask questions, pair up, and catch up. We go through any
+agenda items first.
 
 ### Team issue tracker
 
