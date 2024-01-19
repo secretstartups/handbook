@@ -188,7 +188,7 @@ Candidates for this position can generally expect the hiring process to follow t
 For Individual Contributors:
 
 - As part of the application, candidates are asked to complete a short technical questionnaire, with a possibility of additional technical questions being asked if needed after the application is submitted.
-- Next, candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Technical Recruiters
+- Next, candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/talent-acquisition-framework/req-overview/#screening) with one of our Technical Recruiters
 - Next, candidates will be invited to schedule a 90 minute technical interview with one of our Backend Engineers
 - Next, candidates will be invited to schedule a 60 minute interview with one of our Backend Engineering Managers
 - Next, candidates will be invited to schedule a 60 minute interview with our Director of Engineering
@@ -197,7 +197,7 @@ Additional details about our process can be found on our [hiring page](/handbook
 
 For Managers:
 
-- Selected candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Technical Recruiters
+- Selected candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/talent-acquisition-framework/req-overview/#screening) with one of our Technical Recruiters
 - Next, candidates will be invited to schedule a 60 minute first interview with a Director of Engineering
 - Next, candidates will be invited to schedule a 45 minute second peer interview with an Engineering Manager
 - Next, candidates will be invited to schedule a 45 minute third interview with another member of the Engineering team
