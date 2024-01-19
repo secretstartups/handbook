@@ -39,6 +39,12 @@ The following members of other functional teams are our stable counterparts:
 
 # Core Responsibilities
 
+* Collaborate with Product and UX on ideation, refinement and scheduling of relevant work
+* Provide Frontend support for feature development, bug fixes, under the [Source Code Management Product Category](https://about.gitlab.com/direction/create/source_code_management/)
+* Address bug reports and regressions
+* Identify and prepare maintenance work to improve developer experience
+* Collaborate on efforts across the Frontend department
+
 # Projects
 
 ## Active Project Table
