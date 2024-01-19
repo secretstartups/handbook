@@ -23,8 +23,8 @@ Engineering Manager: Ksenia Kolpakova
 |-------|-----------------------|-------------------------|---------------|--------------------|
 | 1    	| [Core Development]      | [Dev section]    	      | [Create]      | Jay McCure         |
 | 2     | [Core Development]      | [Dev section]      	  | [Plan]        | Désirée Chevalier  |
-| 3    	| [Core Development]      | [CI section]    	      | [Verify]      | Tiffany Rea        |
-| 4    	| [Core Development]      | [CI section]     	      | [Package]     | Joining soon*      |
+| 3    	| [Core Development]      | [CI section]    	      | [Verify]      | Tiffany Rea, Joy Roodnick |
+| 4    	| [Core Development]      | [CI section]     	      | [Package]     | Tiffany Rea       |
 | 5    	| [Core Development]      | [CD section]     	      | [Deploy]      | -                  | 
 | 6     | [Expansion Development] | [Sec section]    	      | [Secure]      | Will Meek          |
 | 7     | [Expansion Development] | [Sec section]           | [Govern]      | Harsha Muralidhar  |
