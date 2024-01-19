@@ -44,7 +44,7 @@ Associate recruiters share the similar requirements as the Intermediate recruite
 1. Provide clear, thorough, and timely communications/feedback to candidates and hiring teams.
 1. Identify top-tier candidates through resumes, cover letters, and initial calls.
 1. Meet with hiring managers to collect job requirements and expectations
-1. Develop effective partnerships with hiring teams, guiding them on TA process and execution. 
+1. Develop effective partnerships with hiring teams, guiding them on TA process and execution.
 
 #### Intermediate Recruiter
 
