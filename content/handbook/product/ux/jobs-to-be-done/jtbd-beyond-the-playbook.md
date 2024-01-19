@@ -1,10 +1,10 @@
 ---
-title: How to use JTBD at GitLab
+title: JTBD - Beyond the Playbook
 description: >-
-  JTBDs can be used to discover and define strategic opportunities in the market when used with GitLab's existing processes.
+  JTBDs can be used to clarify and refine strategic opportunities in many of the research and design activities GitLab conducts.
 ---
 
-## How to use Jobs to Be Done (JTBD) at GitLab
+## Using Jobs to be Done in mixed methods research
 
 JTBD can be used in many UX research methods, from surveys to usability benchmarking. Once you validate your [JTBD through interviews](/handbook/product/ux/jobs-to-be-done/deep-dive/#how-do-i-discover-jtbd-relevant-to-my-group) and create your JTBD Canvas, you can use pieces of the canvas to inform numerous GitLab processes. For example, you can use the needs and circumstances of your jobs to help you increase the realism and readability of your solution validation tests. Likewise, the main jobs can help you [create recruitment screener](https://docs.google.com/document/d/13ywnQHXOHNgF4F4IcJksAqrnyI0-si1R2MbsRS-Rgdc/edit#heading=h.47623lbekxlj) options to find the right participants for your study.
 
@@ -53,3 +53,5 @@ You can follow these general steps to integrate the JTBD Framework into your heu
 1. Create questions to ask each other during the evaluation by re-phrasing the applicable heuristics.
    - For example, one of the heuristics is "User control and freedom". We can turn this into a question by saying, "On a scale from 1-7, where 1 is not useful at all, and 7 is extremely easy, How easy was navigating to and from the tooling?"
 1. Designate who is moderating the evaluation and who is acting as the user. The "user" will move through the UI to complete the tasks while the moderator evaluates the progress and asks questions. Both stakeholders are encouraged to provide feedback, but the moderator must ensure all tasks are evaluated.
+
+  -->
