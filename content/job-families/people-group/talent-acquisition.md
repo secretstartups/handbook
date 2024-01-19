@@ -6,7 +6,7 @@ title: "Talent Acquisition, Recruiter"
 
 #### Intern
 
-##### Job Grade
+##### Intern Job Grade
 
 A 'Recruiting Intern' is not aligned to a job [grade](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
@@ -48,7 +48,7 @@ Associate recruiters share the similar requirements as the Intermediate recruite
 
 #### Intermediate Recruiter
 
-##### Job Grade
+##### Intermediate Job Grade
 
 The Recruiter is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
@@ -84,7 +84,7 @@ The Intermediate Recruiter creates a positive experience for candidates and hiri
 
 #### Senior Recruiter
 
-##### Job Grade
+##### Senior Job Grade
 
 The Senior Recruiter is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
@@ -113,7 +113,7 @@ The Senior Recruiter shares the same requirements as the Intermediate Recruiter 
 
 #### Principal Recruiter
 
-##### Job Grade
+##### Principal Job Grade
 
 The Principal Recruiter is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
