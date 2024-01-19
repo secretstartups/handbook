@@ -8,140 +8,78 @@ canonical_path: "/handbook/support/readiness/operations/docs/zendesk/roles"
 
 Zendesk uses Roles as a way to maintain permission sets for agents.
 
-## How GitLab manages Zendesk triggers
-
-For Zendesk Global, we utilize a
-[v2 sync repo](../../change_management/sync_repos#v2) for managing roles. It is
-located
-[here](https://gitlab.com/gitlab-support-readiness/zendesk-global/users/roles).
-
-For Zendesk US Government, manage these via Zendesk itself.
-
-#### Current Zendesk US Federal roles
-
-<details>
-<summary>Click here to view</summary>
-
-- [Admin](https://gitlab-federal-support.zendesk.com/admin/people/team/roles/360016820032)
-  - Omitting details as it is a system role
-- [Contributor](https://gitlab-federal-support.zendesk.com/admin/people/team/roles/360016669231)
-  - Omitting details as it is a system role
-- [GitLab Staff](https://gitlab-federal-support.zendesk.com/admin/people/team/roles/360008466212)
-  - Tickets
-    - Tickets they can access: All, including those in private groups
-    - Edit ticket properties: Checked
-      - Merge tickets: Checked
-      - Edit ticket tags: Checked
-    - Commenting permissions: Public and private comments
-  - People
-    - End-user profile access: Add, edit, and delete for all end users
-    - View user profile lists: Checked
-  - Agent workflow
-    - Views permissions: Add and edit personal views
-    - Macros permissions: Apply only
-    - Contribute to side conversations: Checked
-  - Analytics
-    - Explore permissions: View reports
-    - Reports permissions: View, add, and edit
-- [Light agent](https://gitlab-federal-support.zendesk.com/admin/people/team/roles/360008074111)
-  - Omitting details as it is a system role
-- [Support US Federal Staff](https://gitlab-federal-support.zendesk.com/admin/people/team/roles/360008098572)
-  - Tickets
-    - Tickets they can access: All, including those in private groups
-    - Edit ticket properties: Checked
-      - Delete tickets: Checked
-        - View deleted tickets: Checked
-      - Redact ticket content: Checked
-      - Merge tickets: Checked
-      - Edit ticket tags: Checked
-    - Commenting permissions: Public and private comments
-  - People
-    - End-user profile access: Add, edit, and delete for all end users
-    - View user profile lists: Checked
-  - Agent workflow
-    - Views permissions: Add and edit personal views
-    - Macros permissions: Apply only
-    - Contribute to side conversations: Checked
-  - Analytics
-    - Explore permissions: View reports
-    - Reports permissions: View, add, and edit
-- [Support US Federal Staff w/ Explore](https://gitlab-federal-support.zendesk.com/admin/people/team/roles/360009925712)
-  - Tickets
-    - Tickets they can access: All, including those in private groups
-    - Edit ticket properties: Checked
-      - Delete tickets: Checked
-        - View deleted tickets: Checked
-      - Redact ticket content: Checked
-      - Merge tickets: Checked
-      - Edit ticket tags: Checked
-    - Commenting permissions: Public and private comments
-  - People
-    - End-user profile access: Add, edit, and delete for all end users
-    - View user profile lists: Checked
-  - Agent workflow
-    - Views permissions: Add and edit personal views
-    - Macros permissions: Apply only
-    - Contribute to side conversations: Checked
-  - Analytics
-    - Explore permissions: Create reports
-    - Reports permissions: View, add, and edit
-
-</details>
-
-## Creating a role in Zendesk
-
-To create a group in Zendesk, you first need to go to the Admin Center
-([Zendesk Global](https://gitlab.zendesk.com/admin/) /
-[Zendesk US Federal](https://gitlab-federal-support.zendesk.com/admin/)). From
-there, you need to go to the Groups page (People > Team > Roles).
-
-From there, click the blue `Create role` button at the top-right of the page.
-When making a role, you will:
-
-1. Enter the name of the role
-1. Enter a description of the role
-1. Go through every permission option to determine the correct selections
-
-After doing so, click the blue `Create role` button at the bottom-right of the
-page.
-
-## Editing a role in Zendesk
-
-To edit a role in Zendesk, you first need to go to the Admin Center
-([Zendesk Global](https://gitlab.zendesk.com/admin/) /
-[Zendesk US Federal](https://gitlab-federal-support.zendesk.com/admin/)). From
-there, you need to go to the Groups page (People > Team > Roles).
-
-From there, locate the role in question and click the name. From here, you can
-make the needed edits and click the blue `Save` button at the bottom-right of
-the page.
-
-## Deleting a group in Zendesk
-
-To delete a group in Zendesk, you first need to go to the Admin Center
-([Zendesk Global](https://gitlab.zendesk.com/admin/) /
-[Zendesk US Federal](https://gitlab-federal-support.zendesk.com/admin/)). From
-there, you need to go to the Groups page (People > Team > Groups).
-
-From there, locate the role in question and hover over the name of the role.
-Then click the 3 dots to the far-right side to open a submenu, which contains
-the `Delete` option.
-
 ## Change management
 
-As the role changes are unique in deployment, please see
-[Zendesk role change management](/handbook/support/readiness/operations/docs/change_management#zendesk-role-change-management)
-for more information.
+Keep in mind, all change management should be stemming from an issue, first and
+foremost.
 
-#### Labels to use
+We manage role membership via Zendesk itself (on user profiles), but only with
+corresponding access request issues.
 
-For all issues and MRs involving roles, the label
-`Support-Ops-Category::Orgs and Users` should be used.
+**NOTE** Roles are very important to both the use and security of Zendesk. You
+should be **very** careful with these at all times. When in doubt, seek
+assistance from a Fullstack Engineer.
 
-#### Change criticality
+#### Creating a new role
 
-Due to the nature and impact adding/editing/deleting Zendesk groups can impose
-on agents, all issues/MRs related to Zendesk groups will be classified as either
-[criticality 2](/handbook/support/readiness/operations/docs/change_criticalities#criticality-2)
-or
-[criticality 3](/handbook/support/readiness/operations/docs/change_criticalities#criticality-3)
+You will start by creating a placeholder role within Zendesk itself (as you will
+need the ID for the sync repo). To do this, open up the admin page of your
+corresponding Zendesk instance ([Global](https://gitlab.zendesk.com/admin)
+or [US Government](https://gitlab-federal-support.zendesk.com/admin)), click
+`People` on the left-hand side, and then click `Roles`. On this page page, you
+will want to click `Create role`. This will bring up the new role page.
+
+On this page, you will do the following:
+
+- Set the name to "Placeholder for ISSUE_LINK" (replacing `ISSUE_LINK` with the
+  link to the issue you are working out of).
+- Enter a description of "ISSUE_LINK" (replacing `ISSUE_LINK` with the link to
+  the issue you are working out of).
+
+After doing so, click the blue `Create role` button. You will then locate the
+placeholder ticket field you just created and get the ID value for it
+
+From here, create the merge request in the sync repo project.
+
+Once it is live, access request issues will need to be created to add people to
+new role.
+
+#### Updating an existing role
+
+Updating an existing role is considerably easier than creating a new one. Simply
+change change the code in the source project and it will occur via the sync
+repo.
+
+#### Deleting a role
+
+**NOTE** This can be a **very** dangerous action to perform. Exercise extreme
+caution in doing do.
+
+To delete a role, you need to purge it from multiple locations:
+
+- Sync repo project
+- Zendesk itself
+
+The first can be done via merge requests, but the last one has to be done in the
+the Zendesk instance itself. Before doing so, 100% of the role's members should
+be removed from the role.
+
+After doing so, open up the admin page of your corresponding Zendesk instance
+([Global](https://gitlab.zendesk.com/admin) or
+[US Government](https://gitlab-federal-support.zendesk.com/admin))
+`People` on the left-hand side, and then click `Roles`. On this page page, will
+locate the role you are aiming to delete and click the three vertical dots on
+the right-hand side and then click `Delete`.
+
+This will cause a pop-up modal to appear asking you to confirm the action. Click
+the red `Delete role` button to do so.
+
+## Source Projects
+
+#### Zendesk Global
+
+- [Support managed content project](https://gitlab.com/gitlab-com/support/zendesk-global/users/roles)
+
+#### Zendesk US Government
+
+- [Support managed content project](https://gitlab.com/gitlab-com/support/zendesk-us-government/users/roles)

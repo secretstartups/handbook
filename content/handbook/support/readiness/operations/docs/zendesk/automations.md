@@ -18,164 +18,143 @@ immediately after a ticket is created or updated.
 The simpler way to think of it is automations are triggers that do not run
 instantly. They are time based than event based.
 
-## How GitLab manages Zendesk automations
+## Change management
+
+Keep in mind, all change management should be stemming from an issue, first and
+foremost.
+
+#### Creating a new automation with managed content
+
+When your new automation is going to be using managed content, you will first
+need to get the managed content file in the Support managed content project.
+Remember to use the correct filenames for all of this to prevent
+[Pipeline error “No managed content file”](#pipeline-error-no-managed-content-file)
+in the sync repo project later on.
+
+Only after that has been done should you proceed to the next steps, which will
+match the steps detailed in
+[Creating a new automation without managed content](#creating-a-new-automation-without-managed-content)
+exactly.
+
+#### Creating a new automation without managed content
+
+This is a bit simpler than creating one with managed content. You will start by
+creating a placeholder automation within Zendesk itself (as you will need the ID
+for the sync repo). To do this, open up the admin page of your corresponding
+Zendesk instance ([Global](https://gitlab.zendesk.com/admin) or
+[US Government](https://gitlab-federal-support.zendesk.com/admin)), click
+`Objects and rules` on the left-hand side, and then click `Automations`. On this
+page, you will want to click `Add automation`. This will bring up the new
+automation page.
+
+On this page, you will do the following:
+
+- Set the title to "Placeholder for ISSUE_LINK" (replacing `ISSUE_LINK` with the
+  link to the issue you are working out of).
+- Set `all` conditions of:
+  - `Ticket: Type` `is not` `Incident`
+  - `Ticket: Status category` `less than` `Solved`
+- Set an action of:
+  - `Ticket: Type` `Incident`
+
+After doing so, click the black `Create automation` button. You will then locate
+the placeholder automation you just created and get the ID value from it (if you
+click it, you can see it in the URL).
+
+From here, create the merge request in the sync repo project.
+
+#### Updating an existing automation
+
+Updating an existing automation is considerably easier than creating a new one.
+Simply change change the code in the source project and it will occur via the
+sync repo.
+
+The one caveat you need to consider is when you are changing an automation to
+allow for managed content (or to disable it using managed content).
+
+If you are adding managed content for the automation, see
+[Creating a new automation with managed content](creating-a-new-automation-with-managed-content)
+as that process will detail setting up the connection.
+
+If you are removing managed content for the automation, you will simply change
+the automation file in the source sync repo project via your merge request.
+After that has been merged, you will want to comment on the original issue
+asking the requester to remove the file from the corresponding Support managed
+content project.
+
+#### Deactivating an automation
+
+To deactivate an automation, you will simply change the automation file in the
+source sync repo project via your merge request. Ensure you merge request does
+the following:
+
+- Moves the file from the `data/active` folder to the `data/inactive` folder
+- Sets `active: true` to `active: false` in the file.
+- Sets `all` conditions of:
+  - `Ticket: Type` `is not` `Incident`
+  - `Ticket: Status category` `less than` `Solved`
+- Set an action of:
+  - `Ticket: Type` `Incident`
+  - `Ticket: Add tags` `XXXX` (replacing `XXXX` with the automation's ID)
+
+#### Deleting a deactivated automation
+
+**NOTE** We avoid doing this unless an automation has been deactivated for a
+full year. After that point it can be deleted completely. Do also note that this
+will result in a complete change to `positions` and can cause the need for
+subsequent merge requests to the sync repo project.
+
+To delete an automation, you need to purge it from multiple locations:
+
+- Sync repo project
+- Support managed content project
+- Zendesk itself
+
+The first two can be done via merge requests, but the last one has to be done in
+the Zendesk instance itself. To do this, open up the admin page of your
+corresponding Zendesk instance ([Global](https://gitlab.zendesk.com/admin) or
+[US Government](https://gitlab-federal-support.zendesk.com/admin)), click
+`Objects and rules` on the left-hand side, and then click `Automations`. On this
+page, you will want to click `Inactive`, hover over the automation you are
+deleting, click the three vertical dots at right-hand side of automation, and
+click `Delete`. This will cause a pop-up modal to appear asking you to confirm
+the action. Click blue `Delete automation` button to do so.
+
+#### Pipeline error "No managed content file"
+
+This happens when we have said a managed content file should exist, but the git
+submodule does not contain one. This is commonly caused by:
+
+- The file does not actually exist. If this is the case, you need to assist in
+  getting it created in the Support managed content project
+- Filename mismatches. This all works very specifically using naming
+  conventions. If there is something even *slightly* off, your pipelines will
+  encounter issues. The scripts are looking for a file that has the **exact**
+  same name as the automation's `title`. So if your automation has a title of
+  `Jason::Do a Thing`, the corresponding Support managed content project should
+  have a file with the same name (`Jason::Do a Thing.md` for managed content,
+  `Jason::Do a Thing.webhook` for webhooks, or `Jason::Do a Thing.email` for
+  emails). You will need to assist in correcting that on the Support managed
+  content project first, and then rebase your merge request after that is done.
+- You created the merge request in the source project before the file was added
+  to the Support managed content project. To rectify this, get the Support
+  managed content project MR completed and merged first. Once that has been
+  done, you can rebase your MR by making a comment of `/rebase`. After it
+  performs the rebase, your MR's CI/CD pipeline should pass.
+
+## Source Projects
 
 #### Zendesk Global
-
-We currently utilize a [v2 sync repo](../../change_management/sync_repos#v2) for
-managing automations in Zendesk Global.
-
-The two projects that make this work are:
 
 - [Support managed content project](https://gitlab.com/gitlab-com/support/zendesk-global/automations)
 - [Sync repo project](https://gitlab.com/gitlab-support-readiness/zendesk-global/automations)
 
-Deployments are done on the 1st of each month at 0000 UTC.
-
-The basic process for management of triggers would be:
-
-```mermaid
-graph TD;
-  A -->|Content modification| B
-  A -->|Anything else| E
-  B --> C
-  C --> D
-  D --> I
-  E --> F
-  F -->|Actions modification| G
-  F -->|Creation| K
-  F -->|Deactivation| N
-  G --> H
-  H --> I
-  I --> J
-  K --> L
-  L --> M
-  M --> G
-  N --> G
-  A{What kind of change is it?}
-  B[Merge request created<br>in Support managed<br>content project]
-  C[Support Manager reviews,<br>approves, and merges<br>the changes]
-  D[Webhook fires to trigger<br>submodule update on<br>sync repo project]
-  E[support-team-meta issue is created]
-  F{Support Readiness determines<br>actions needed}
-  G[Support Readiness creates<br>merge request in<br>sync repo project]
-  H[Support Readiness reviews,<br>approves, and merges<br>the changes]
-  I[Commit is made on default<br>branch of sync repo project]
-  J[Sync scripts perform updates to<br>Zendesk during next deployment]
-  K[Support Readiness creates<br>placeholder automation in Zendesk]
-  L[Support Readiness creates<br>merge request in Support<br>managed content project]
-  M[Support Manager reviews,<br>approves, and merges<br>the changes]
-  N[Support Readiness tells<br>Support to move the file<br>in the Support managed<br>content project after a<br>specific date]
-```
-
 #### Zendesk US Government
-
-We currently utilize a [v2 sync repo](../../change_management/sync_repos#v2) for
-managing automations in Zendesk Global.
-
-The two projects that make this work are:
 
 - [Support managed content project](https://gitlab.com/gitlab-com/support/zendesk-us-government/automations)
 - [Sync repo project](https://gitlab.com/gitlab-support-readiness/zendesk-us-government/automations)
 
-Deployments are done on the 1st of each month at 0000 UTC.
-
-The basic process for management of triggers would be:
-
-```mermaid
-graph TD;
-  A -->|Content modification| B
-  A -->|Anything else| E
-  B --> C
-  C --> D
-  D --> I
-  E --> F
-  F -->|Actions modification| G
-  F -->|Creation| K
-  F -->|Deactivation| N
-  G --> H
-  H --> I
-  I --> J
-  K --> L
-  L --> M
-  M --> G
-  N --> G
-  A{What kind of change is it?}
-  B[Merge request created<br>in Support managed<br>content project]
-  C[Support Manager reviews,<br>approves, and merges<br>the changes]
-  D[Webhook fires to trigger<br>submodule update on<br>sync repo project]
-  E[support-team-meta issue is created]
-  F{Support Readiness determines<br>actions needed}
-  G[Support Readiness creates<br>merge request in<br>sync repo project]
-  H[Support Readiness reviews,<br>approves, and merges<br>the changes]
-  I[Commit is made on default<br>branch of sync repo project]
-  J[Sync scripts perform updates to<br>Zendesk during next deployment]
-  K[Support Readiness creates<br>placeholder automation in Zendesk]
-  L[Support Readiness creates<br>merge request in Support<br>managed content project]
-  M[Support Manager reviews,<br>approves, and merges<br>the changes]
-  N[Support Readiness tells<br>Support to move the file<br>in the Support managed<br>content project after a<br>specific date]
-```
-
-## Performing actions in Zendesk
-
-**NOTE**: This is for documentation and instruction purpose. An admin level
-account is required and these should only be performed when actually warranted,
-such as when creating a placeholder trigger.
-
-#### Creating an automation via Zendesk
-
-To create an automation in Zendesk, you first need to go to the Admin Center
-([Zendesk Global](https://gitlab.zendesk.com/admin/) /
-[Zendesk US Federal](https://gitlab-federal-support.zendesk.com/admin/)). From
-there, you need to go to the Automations page (Objects and rules > Business
-rules > Automations).
-
-After doing so, you will then click the `Add automation` button on the top-right
-side of the page. This will then load up the new automation page.
-
-From here, you will:
-
-1. enter a title for the automation.
-1. enter the conditions that **all** must be met to trigger this automation.
-1. enter the conditions of which **any** of them can trigger this automation (in
-   conjunction with the **all** conditions).
-1. enter the actions for the automation to perform
-
-After doing this, you will then click the blue `Create automation` button.
-
-**Note**: By default, the automation's position will be set to the bottom of the
-select category. To adjust this, see [Positioning](#positioning).
-
-#### Editing an automation via Zendesk
-
-Editing a Zendesk automation is very similar to
-[creating one](#creating-an-automation-via-zendesk). You will follow the same
-steps to get the automations page. Instead of clicking the `Add automation`
-button, you will instead locate the automation to edit in the list and click on
-the title (if your automation is currently inactive, you will need to click the
-`Inactive` tab, located above the list of automations).
-
-Doing so will bring up the automation editor page. From here, you can tweak the
-various aspects of the automation. Once you have the edits in place, ensure the
-dropdown at the bottom right says `Update` and click the blue `Submit` button.
-
-#### Deactivating an automation via Zendesk
-
-There are actually two ways to deactivate an automation in the Zendesk UI. The
-quicker way is to go to the automation page, locate the automation in question,
-hover over it, and click the three vertical dots on the right-hand side. This
-will bring up a sub-menu, which contains the option to `Deactivate`. Click that
-option and the automation will be deactivated.
-
-The alternative way to deactivate an automation in the Zendesk UI is from within
-the automation editor page. At the bottom right, ensure the dropdown says
-`Deactivate` and then click the blue `Submit` button.
-
-**Note**: Deactivating an automation does not change its position. This value is
-retained in the backend. Re-enabling the automation will have it take the same
-position it was in while previously active.
-
-#### Positioning
+## Positioning
 
 Many components of Zendesk using positioning to determine the overall run order.
 With automations being time-based events, it is not often as important to worry
@@ -198,13 +177,13 @@ automations into the order you desire. After making the changes, click the blue
 While this does not matter in the UI, it will matter in the repo sync we
 utilize.
 
-#### Automation standards
+## Automation standards
 
 To ensure all automations we utilize are both consistent in nature and
 transparent in their actions, we strive to meet some standards on all
 automations we work with.
 
-#### Naming standards
+## Naming standards
 
 As Zendesk automations do not support categorization at this time, we have
 implemented a naming standard to help categorize the automations we have. This
@@ -212,7 +191,7 @@ standard is as follows:
 
 `What it impacts::What it does/Who it impacts::Name of automation`
 
-###### Example 1
+#### Example 1
 
 If you were making an automation to send a notification to Jason once a ticket
 has been in an open state for more than 24 hours, you would use the automation
@@ -229,7 +208,7 @@ This is because:
   should be relatively short and describe the automation in a way that anyone
   who knows our naming standards can look at it and know what it does.
 
-###### Example 2
+#### Example 2
 
 If you were making an automation that sets a ticket to `Closed` after it has
 been in the state of Solved for 24 hours, you would use the automation name of:
@@ -244,7 +223,7 @@ This is because:
   should be relatively short and describe the automation in a way that anyone
   who knows our naming standards can look at it and know what it does.
 
-#### Condition standards
+## Condition standards
 
 Generally speaking, we aim to make automation conditions as simple as
 possible. When possible, you should use condition sets that are very specific

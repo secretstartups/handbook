@@ -66,6 +66,6 @@ For the purposes of support, a user may still be considered an enterprise user w
 
 If the Owner is requesting access to an account which has a primary email in the company domain, but *does not meet* any of the second conditions, then we must treat the account as belonging to the user. In this case, the only recourse for the Owner to add the user's *primary email* as a CC on the ticket, then the user validates their own account.
 
-The relevant information can be found in the [Zendesk GitLab Super App: User Lookup]({{< ref "../readiness/operations/docs/zendesk/apps.md#gitlab-super-app" >}}), GitLab admin or API. Subscription information can additionally be found in CustomersDot.
+The relevant information can be found in the Zendesk GitLab Super App: User Lookup, GitLab admin or API. Subscription information can additionally be found in CustomersDot.
 
 {{% include "includes/support-quick-reference.md" %}}
