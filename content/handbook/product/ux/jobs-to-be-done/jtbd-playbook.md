@@ -6,11 +6,11 @@ description: >-
 
 How we conduct JTBD research at GitLab follows a process closely mirroring the [JTBD Playbook by Jim Kalbach](https://www.amazon.com/Jobs-Be-Done-Playbook-Organization/dp/1933820683). The playbook takes teams from basic assumptions all the way to a list of ranked outcomes that your customers care about the most. Going through this process can be hugely beneficial for a team. These handbook pages and the resources they link to provide you with a solid foundation of JTBD knowlesge and a self-serve way to conduct JTBD research. However, if you have access to a UX Researcher or someone knowledgeable in JTBD practice, it's a good idea to have that person as the DRI to drive this effort for your team. 
 
-Use this playbook to complete your JTBD canvases. For more information on each part of the canvas, refer to [anatomy of a JTBD canvas](handbook/product/ux/jobs-to-be-done/#anatomy-of-a-jtbd-canvas).  
+Use this playbook to complete your JTBD canvases. For more information on each part of the canvas, refer to [anatomy of a JTBD canvas](/handbook/product/ux/jobs-to-be-done/#anatomy-of-a-jtbd-canvas).  
 
 The time it takes to run through the entire playbook process can vary a lot, depending on factors such as how many jobs you’re examining, the complexity and variance within those jobs, and your team’s familiarity with JTBD. We recommend budgeting at least one full quarter to devote to this effort. 
 
-This page covers the _how_ of Jobs to be Done. For more on _what_ Jobs to be Done _is_, head over to the [main page](handbook/product/ux/jobs-to-be-done/).
+This page covers the _how_ of Jobs to be Done. For more on _what_ Jobs to be Done _is_, head over to the [main page](/handbook/product/ux/jobs-to-be-done/).
 
 ## Step 0: Open a JTBD issue
 
@@ -18,7 +18,7 @@ If your team want to conduct Jobs to be Done research, create an issue in the [U
 
 ## Step 1: Pick your job performer and main job
 
-The first step in the JTBD playbook is to zoom in on the [main job](handbook/product/ux/jobs-to-be-done/#main-job-where-do-you-want-to-innovate) and [job performer](handbook/product/ux/jobs-to-be-done/#job-performer-who-do-you-want-to-innovate-for) you want to learn more about. The main job and job performer are closely related – for instance, the main job ‘Review Code’ is done by a ‘Code Reviewer’. The job of ‘Writing a book’ is done by an ‘Author’. And so on. 
+The first step in the JTBD playbook is to zoom in on the [main job](/handbook/product/ux/jobs-to-be-done/#main-job-where-do-you-want-to-innovate) and [job performer](/handbook/product/ux/jobs-to-be-done/#job-performer-who-do-you-want-to-innovate-for) you want to learn more about. The main job and job performer are closely related – for instance, the main job ‘Review Code’ is done by a ‘Code Reviewer’. The job of ‘Writing a book’ is done by an ‘Author’. And so on. 
 
 Note: It often makes sense to go through these steps and examine several main jobs that are relevant to your team at the same time. The steps in the playbook are the same for each job performer, and you save some time if you can find users who perform more than one of the main jobs you are working on (because then you can interview them about both jobs during the same session). 
 
@@ -26,13 +26,13 @@ Note: It often makes sense to go through these steps and examine several main jo
 
 Once you’ve landed on the main job and job performer, start a **JTBD canvas**. [Here’s a link to the FigJam template](https://www.figma.com/file/Z4lsAOLH1ANN3pstQFYgSk/Jobs-to-be-done----Playbook-Template?type=whiteboard&node-id=0%3A1&t=oMR9VPNke7aIfCoU-1) that has the initial assumptive canvas to fill out as well as spots for the rest of the steps in the Playbook.
 
-Step 0 in the template explains each part of the JTBD canvas (as does [this section in the handbook](handbook/product/ux/jobs-to-be-done/#anatomy-of-a-jtbd-canvas)), and has some detailed instructions for this first stage of documenting your assumptions regarding the main job (which is why we call it an ‘assumptive’ JTBD canvas). 
+Step 0 in the template explains each part of the JTBD canvas (as does [this section in the handbook](/handbook/product/ux/jobs-to-be-done/#anatomy-of-a-jtbd-canvas)), and has some detailed instructions for this first stage of documenting your assumptions regarding the main job (which is why we call it an ‘assumptive’ JTBD canvas). 
 
 ## Step 3: Conduct Interviews
 
 Recruit a few (3-5) people who perform the main job you're investigating. Create a new copy of your assumptive canvas for each interview. It’s recommended to have a moderator and a notetaker, where the notetaker is in charge of filling out the canvas while the participant and moderator are talking. Good practice is to show the canvas your notetaker filled out to the participant at the end of the interview, to confirm that you recorded their actions accurately. We recommend 5 interviews, each for an hour. If you see a lot of variance in jobs, talk to more participants until patterns start to become evident.
 
-There is an [interview guide](https://www.figma.com/file/Z4lsAOLH1ANN3pstQFYgSk/Jobs-to-be-done----Playbook-Template?type=whiteboard&node-id=78-2318&t=oMR9VPNke7aIfCoU-4) included in the FigJam template. The goal of the interviews is to enable the job performers to tell you how and why they do the job. What are the [job steps](handbook/product/ux/jobs-to-be-done/#job-steps-how-does-the-job-performer-get-the-job-done)? [Desired outcomes](handbook/product/ux/jobs-to-be-done/#outcomes-how-does-the-job-performer-measure-the-success-of-getting-the-job-done)? [Related jobs](handbook/product/ux/jobs-to-be-done/#related-jobs-what-else-is-the-job-performer-trying-to-get-done)? [Circumstances](handbook/product/ux/jobs-to-be-done/#circumstances-what-are-the-factors-or-condictions-that-make-a-difference-in-how-the-job-gets-done)?
+There is an [interview guide](https://www.figma.com/file/Z4lsAOLH1ANN3pstQFYgSk/Jobs-to-be-done----Playbook-Template?type=whiteboard&node-id=78-2318&t=oMR9VPNke7aIfCoU-4) included in the FigJam template. The goal of the interviews is to enable the job performers to tell you how and why they do the job. What are the [job steps](/handbook/product/ux/jobs-to-be-done/#job-steps-how-does-the-job-performer-get-the-job-done)? [Desired outcomes](/handbook/product/ux/jobs-to-be-done/#outcomes-how-does-the-job-performer-measure-the-success-of-getting-the-job-done)? [Related jobs](/handbook/product/ux/jobs-to-be-done/#related-jobs-what-else-is-the-job-performer-trying-to-get-done)? [Circumstances](/handbook/product/ux/jobs-to-be-done/#circumstances-what-are-the-factors-or-condictions-that-make-a-difference-in-how-the-job-gets-done)?
 
 ## Step 4: Synthesize
 
@@ -46,7 +46,7 @@ These interviews can be more of a show and tell. You can share your synthesized 
 
 ## Step 6: Construct Outcome Statements
 
-For each job step in your validated job map, construct an outcome statement. An outcome statement represents how your job performer might judge the success of a particular job step, (i.e., what the job performer needs to accomplish). Check the [handbook section](handbook/product/ux/jobs-to-be-done/#outcomes-how-does-the-job-performer-measure-the-success-of-getting-the-job-done) for more on how to construct an outcome statement.
+For each job step in your validated job map, construct an outcome statement. An outcome statement represents how your job performer might judge the success of a particular job step, (i.e., what the job performer needs to accomplish). Check the [handbook section](/handbook/product/ux/jobs-to-be-done/#outcomes-how-does-the-job-performer-measure-the-success-of-getting-the-job-done) for more on how to construct an outcome statement.
 
 Note: Your main job will have roughly 1-5 outcome statements, and you will also have more specific outcome statements for each job step, and/or for each micro job. 
 
@@ -55,7 +55,7 @@ Example of main outcome statements for a main job of ‘Review Code’:
 ![JTBD main outcomes](JTBD_Outcomes.png)
 
 
-Example of [micro-jobs](handbook/product/ux/jobs-to-be-done/#micro-jobs) and outcome statements for a main job of ‘Review Code’:
+Example of [micro-jobs](/handbook/product/ux/jobs-to-be-done/#micro-jobs) and outcome statements for a main job of ‘Review Code’:
 
 ![JTBD micro-jobs and outcome statements](JTBD_MicroJobs_OutcomeStatements.png)
 
