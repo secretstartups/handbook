@@ -2,7 +2,6 @@
 title: "Content workflows for Developer Evangelism and Technical Marketing"
 ---
 
-# Content Workflows
 
 ## Content Library
 
