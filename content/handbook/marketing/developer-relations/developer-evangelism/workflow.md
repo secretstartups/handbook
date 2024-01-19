@@ -27,7 +27,13 @@ The Developer Evangelism uses the [Roadmap in the Developer Relations Group](htt
 
 ### Epics
 
-Work items that fit into our team strategy, including events and content plans, are tracked using Epics and Child Epics. There are currently 2 parent epics that capture all the activities of the team, the [Events](https://gitlab.com/groups/gitlab-com/marketing/community-relations/-/epics/97) & [Content](https://gitlab.com/groups/gitlab-com/marketing/community-relations/-/epics/98) epics. There is also a [Release Evangelism](https://gitlab.com/groups/gitlab-com/marketing/community-relations/-/epics/143) epic under the Content epic which contains child epics for all of our monthly releases. For each activity of the team, a sub-epic should be created under the relevant parent epic and with relevant labels added. 
+Work items that fit our team strategy, including events and content plans, are tracked using epics and child epics. Use the following search filters to find the strategy epics for each fiscal year: 
+
+- [DevRel Events Strategy](https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics?state=opened&page=1&sort=start_date_desc&label_name[]=DevRel-Events&search=strategy)
+- [DevRel Content Strategy](https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics?state=opened&page=1&sort=start_date_desc&label_name[]=DevRel-Content&search=strategy) 
+- [DevRel Release Evangelism](https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics?state=opened&page=1&sort=start_date_desc&search=devrel+release+evangelism)
+
+For each activity of the team, a sub-epic should be created under the relevant parent epic and with relevant labels added. 
 
 For each fiscal year's plan, we use the following structure to organize epics on our roadmap: 
 - FYXX Events 
@@ -37,6 +43,7 @@ For each fiscal year's plan, we use the following structure to organize epics on
     - Child epic for each piece of content (blog, video, contributed article, media interview, etc) we will publish 
   - FYXX Release Evangelism epic 
     - Child epic for each release we will support 
+
 
 #### Start and due dates
 
