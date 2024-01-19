@@ -27,10 +27,12 @@ If you find yourself frequently accessing data specific to your group, section, 
 <details markdown=1>
 <summary>Code</summary>
 
-<p>{{< tableau src="https://10az.online.tableau.com/t/gitlab/views/TopEngineeringMetrics_16989570521080/TopEngineeringMetricsDashboard" >}}
-{{< tableau/filters "stage"="Create" >}}
-{{< /tableau >}}>
-</p>
+
+```{{< tableau src="https://10az.online.tableau.com/t/gitlab/views/TopEngineeringMetrics_16989570521080/TopEngineeringMetricsDashboard" >}}```
+
+```{{< tableau/filters "stage"="Create" >}}```
+```{{< /tableau >}}```
+
 
 
 </details>
