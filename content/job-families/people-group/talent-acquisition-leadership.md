@@ -27,7 +27,7 @@ The Recruiting Lead is a [grade 7](/handbook/total-rewards/compensation/compensa
 ##### Requirements
 
 - Experienced recruiter with domain expertise
-- Demonstrated eadership experience, direct or indirect, with an ability to lead through influence rather than authority.
+- Demonstrated leadership experience, direct or indirect, with an ability to lead through influence rather than authority.
 - Highly consultative in nature and embodied key discretionary decision making.
 - Consistent track record and strong performance with sourcing, recruiting, and closing extraordinary talent (especially passive)
 - You have worked closely with sourcers, recruiters, and coordinators
