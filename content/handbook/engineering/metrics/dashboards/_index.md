@@ -24,21 +24,21 @@ To ensure the accuracy of the presented data, please use the convenient filterin
 
 If you find yourself frequently accessing data specific to your group, section, or stage, we recommend embedding the following code to save your preferred settings.
 
-```
+~~~
     {{< tableau src="https://10az.online.tableau.com/t/gitlab/views/TopEngineeringMetrics_16989570521080/TopEngineeringMetricsDashboard" >}}
     {{< tableau/filters "stage"="Create" >}}
     {{< /tableau >}}
-```
+~~~
 
 Simply copy and paste this code into your page. It will save your selected filters by defaulting to your own data without the need to manually set filters each time. Make sure to replace any placeholders in the code with the public dashboard URL and your actual group, section, or stage details.
 
 ### Top Engineering Metrics Dashboard
 
-{{< tableau src="https://10az.online.tableau.com/t/gitlab/views/TopEngineeringMetrics_16989570521080/TopEngineeringMetricsDashboard" >}}
+{{< tableau src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/TopEngineeringMetrics/TopEngineeringMetricsDashboard" >}}
 {{< /tableau >}}
 
 ### MR Types Dashboard
-{{< tableau height="600px" src="https://10az.online.tableau.com/t/gitlab/views/MRMetrics/OverallMRsbyType_1" >}}
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/MergeRequestMetrics/OverallMRsbyType_1" >}}
 {{< /tableau >}}
 
 ### Development Dashboard
