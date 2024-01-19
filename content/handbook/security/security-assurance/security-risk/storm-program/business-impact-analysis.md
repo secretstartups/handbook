@@ -67,7 +67,7 @@ For blank/unknown/obscure responses, engage the Business/Technical Owner via com
 
 ### Responses that may result in Tier 3 Observations/Risks
 
-We include some questions in our questionnaire that may lead to the creation of [Tier 3 Observations]({{< ref "observation-management-procedure#scope" >}}). The Security Risk team will review BIA questionnaire responses to identify potential risks to GitLab. Responses that may result in Tier 3 Observations are listed below:
+We include some questions in our questionnaire that may lead to the creation of [Tier 3 Observations]({{< ref "observation-management-procedure#scope" >}}). The Security Risk team will review BIA questionnaire responses on a periodic basis to identify potential risks to GitLab. Responses that may result in Tier 3 Observations are listed below:
 
 - `Shared Administrative Accounts` = Yes
 - `System Specific Recovery Plans` = Insufficient detail in response
