@@ -15,6 +15,19 @@ This page is meant to be the starting point for onboarding as an Incident Manage
 
 As a means to ensure a healthy [Incident Manager](/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) rotation with sufficient staffing and no significant burden on any single individual we staff this role with Team Members from across Engineering.
 
+An Incident Manager On Call (IMOC) has the following goals during a call:
+  - Identify/quantify impact to GitLab customers (metrics, customer support requests)
+  - Gather necessary folks to support area(s) of investigation/resolution
+  - Suggest *politely* that people not contributing leave the call, request that folks do so when the number of people in the call is a distraction (30 people as an somewhat arbitrary guideline).
+  - Validate recent releases and feature flags (can we roll back or change the flag?)
+  - Restate status for folks joining with a low level of shame (your possible misunderstanding is a chance for group clarity and learning)
+  - Drive to identify the fastest path to mitigation and interrupt as necessary
+  - Check in on the above on a regular candence (S1 every 5 to 10 minutes)
+  - Communicate status to the right audience
+
+Some of this may feel counter to GitLab Values; this is not designed or intended to diminish our values but to acknowledge and reinforce our need to mitigate customer impact as quickly as possible.
+
+### Incident Manager participants
 The Incident Manager role will be staffed by all team members within this scope:
 - [Job Grades 8 and 9](/handbook/total-rewards/compensation/compensation-calculator/#job-grades)
 - Development and Infrastructure departments
