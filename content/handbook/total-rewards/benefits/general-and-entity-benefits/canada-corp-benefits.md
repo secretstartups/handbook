@@ -91,7 +91,7 @@ Team Members should designate a beneficiary for your Life Insurance Plan with Ca
 
 In order to assign a beneficiary for the Life Insurance plan, team members should download the "Beneficiary Form"  on the [Canada Life Beneficiary](https://www.canadalife.com/support/forms/plan-administrators/apply-or-make-changes-to-group-coverage-or-beneficiary-trustee-i/beneficiary-or-trustee-change.html) webpage. If the beneficiary is a minor, please also download the "Trustee Appointment" form. Please email the completed from to Total-rewards@gitlab.com and Darren@scinsurance.ca 
 
-It's important to have this information up to date to ensure that team member's loved ones receive the funds tax free in the unfortunate event of a team member passing.  Without a beneficiary in place, the funds may go into an estate and could be subject to taxes before beneficiaries are eligible. 
+It's important to have this information up to date to ensure that team member's loved ones receive the funds tax free in the unfortunate event of a team member passing.  Without a beneficiary in place, the funds may go into an estate and could be subject to taxes before beneficiaries are eligible.
 
 ## Long Term Disability
 
