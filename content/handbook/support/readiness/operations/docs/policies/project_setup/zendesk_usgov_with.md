@@ -323,10 +323,11 @@ or the blue `New schedule` button (for subsequent ones). For the description,
 enter a description that states what it is doing (syncing to Zendesk, posting in
 Slack, etc.). For the Interval Pattern, enter a cron-style string that reflects
 when it will run ([crontab.guru](https://crontab.guru/) can help with that). For
-the Cron timezone, enter `[UTC 0] UTC`. For Select target branch or tag, use
-`master` (this is our default). If you have any variables dependent on this
-specific pipeline schedule, you can enter them here. Make sure the `Activate`
-checkbox is checked, and then click the blue `Create pipeline schedule` button.
+the Cron timezone, enter `Pacific Time (US & Canada)`. For Select target branch
+or tag, use `master` (this is our default). If you have any variables dependent
+on this specific pipeline schedule, you can enter them here. Make sure the
+`Activate` checkbox is checked, and then click the blue
+`Create pipeline schedule` button.
 
 Once that is done, so is the project setup!
 
