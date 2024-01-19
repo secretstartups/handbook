@@ -461,7 +461,7 @@ For embedding in the handbook, views will embed better than dashboards will, so 
   - For embedding in the public handbook each workbook must have the `Public` tag.
 
 #### Data Source
-If your extract is going to be over 10 million rows, then you will need to use the Data Team Service Account's credentials. Reach out to the data team to get set up with those credentials. 
+If you are not using an extract, like when your extract is going to be over 10 million rows, then you will need to use the Data Team Service Account's credentials. Reach out to the data team to get set up with those credentials. 
 
 Be mindful when you are embedding your credentials in the data source while publishing either internal or external views. Using an extract with your role embedded will be the clearest way to make sure that users can always view the data and will not experience an authorization expiration error. 
 
