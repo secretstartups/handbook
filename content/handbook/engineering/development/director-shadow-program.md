@@ -153,7 +153,6 @@ No, not at this time.
 | December 18| Not Available | |
 | December 25|  Not Available | |
 | January 1, 2024 | Not Available | |
-
 | January 22 | [Tyler DeCaire](https://gitlab.com/tdecaire) | Solutions Architect |
 | January 29 | [Carla Drago](https://gitlab.com/carlad-gl) | Senior Backend Engineer |
 | Feb 5 | Available | |
