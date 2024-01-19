@@ -28,9 +28,17 @@ The Identity Team has three functional specialties and collaborates cross-functi
 
 ## Mission
 
-GitLab is one of the stewards of the world’s source code and intellectual property. Our mission is to secure access to GitLab's internal systems to ensure that customer and product data is protected and industry trust is preserved.
+GitLab is one of the stewards of the world’s source code and intellectual property. Our mission is to ensure that internal and administrative access to customer and product data is protected and industry trust is preserved.
 
-We work cross-functionally to define infrastructure architecture, IAM/RBAC standards, and build automation to streamline access management across all internal control plane kingdoms.
+As we look ahead, we have a North Star vision that access and permissions are provisioned programatically, not manually by system administrators.
+
+Our work focuses on the following risks and process improvement areas:
+
+1. **Lateral Movement Risk:** Restricting and securing access to GitLab's internal data and systems based on "need to know" and least privilege security principles to prevent data leakage or data loss.
+1. **Penetration Risk:** Implement and manage security boundaries (“castle walls”) related to authentication, authorization, device trust, and least privilege for GitLab team members, temporary service providers, and service accounts that have access to internal GitLab systems and/or administrative access.
+1. **Cloud Infrastructure Control Plane:** We manage the top-level access and architecture for AWS and GCP cloud providers to enforce least privilege and separation of accounts and resources for workloads.
+1. **Last Mile Process Automation:** Implement custom code for vendor feature gaps for last mile compliance and provisioning automation that improve business efficiency and change management auditability. This improves back office and team member end user experience, automation, and audit reports with onboarding, career mobility, offboarding, and ad-hoc access requests using improved role-based access control architecture.
+1. **Configuration State Management:** Use GitOps configuration/infrastructure-as-code for system configuration where feasible to avoid risks with manual configuration and drift detection.
 
 ### Open Source
 
@@ -38,7 +46,7 @@ Although the risks that we need to solve are confidential, we believe in open so
 
 **We are stronger and more secure together.**
 
-All of our open source projects can be explored at [https://gitlab.com/gitlab-identity](https://gitlab.com/gitlab-identity).
+Our Identity Platform open source projects can be explored at [https://gitlab.com/gitlab-identity](https://gitlab.com/gitlab-identity). Our team members also maintain side project packages that are useful dependencies and development helpers at [https://gitlab.com/provisionesta](https://gitlab.com/provisionesta).
 
 ## Tech Stack Kingdoms
 
@@ -87,19 +95,102 @@ See the [FY24-Q4 State of Identity](https://internal.gitlab.com/handbook/securit
 We are in the architecture and early engineering incubation phase. Please continue to use existing Identity v2 processes (business as usual) for all requests through mid-2024.
 {{% /alert %}}
 
-As we look ahead, we want to focus on a North Star vision that systems are provisioned automatically by systems, not manually by people. With the introduction of Identity Roles and Identity Groups, we can reduce the number of ad-hoc access requests by using predefined policies and automated provisioning based on role-based access control rather than named user access control.
+With the introduction of Identity Roles and Identity Groups, we can reduce the number of ad-hoc access requests by using predefined policies and automated provisioning based on role-based access control rather than named user access control.
 
 GitLab Identity v3 is where we want to be in FY25-2H (mid-late 2024) with a pseudo-greenfield approach to automate all of our policies and as much of our approvals, provisioning, and access reviews as possible.
 
 Since GitLab is now a public company and the security threat landscape has evolved, the Security department is investing in in-house infrastructure and software engineering to build the automation and tools that we need to meet the challenges of the future, make GitLab easier to do business with internally, and unilaterally address our IAM and RBAC risks with a holistic approach instead of small iterations.
 
+#### Role Based Access Control (RBAC)
+
+We are introducing improved role-based access control with [Identity Roles and Identity Groups](https://handbook.gitlab.com/handbook/security/identity/platform/#terminology) so we can reduce the number of ad-hoc access requests by using predefined policies and automated provisioning based on role-based access control rather than named user access control and a high volume of ad-hoc access requests. This is the next generation of job families with a refined schema for IAM and RBAC.
+
+#### Identity Governance (IGA) Implementation
+
+Identity Governance and Administration (IGA) vendor products are typically focused on a compliance lens, with the goal of managing the approval process when a user requests access to an application, and providing a UI for compliance team members to perform user access review audits for existing users that have access to an application.
+
+We are in the early stages of implementing Okta's IGA platform. You can learn more in the [internal slide deck](https://docs.google.com/presentation/d/1B-H2YFm6nLCsGIHXg6_Nh_oss-0mQ-CnYuHoMM5n2WE/edit) and materials in the [Google Drive](https://drive.google.com/drive/folders/18VWrD-dEZOYeLi6t01DMko6VcnCa5CQu) folder. You can also see additional feedback from team members during the RFP process in [it/engops#289](https://gitlab.com/gitlab-com/it/engops/issue-tracker/-/issues/289).
+
+The high level goal is that Okta IGA will provide an improved user experience for users to request access to Okta applications with a Web UI and Slack Bot that are not managed by baseline entitlements, and has helpful compliance backend UI features for performing user access reviews.
+
+#### Custom Code
+
+The Security department is leveraging vendors that specialize in this (ex. Okta, IGA solution, etc.), however no SaaS vendor has all of the features that we need. Due to the existential and security risks associated with IAM/RBAC, the Identity Security team is investing in in-house infrastructure and software engineering to build the automation and tools that we need for last mile automation to meet the challenges of the future, make GitLab easier to do business with internally, and unilaterally address our IAM and RBAC risks with a holistic approach by building an [Identity Platform](/handbook/security/identity/platform). It is not an all encompassing solution, it is a well architected library of scripts that allows us to use a modular approach to add scripts in that fill the gaps of what the vendors can’t solve.
+
+You can learn more about on the [Identity Platform handbook page](/handbook/security/identity/platform). The summary is that this is a collection of scripts that use [CI/CD pipeline jobs](/handbook/security/identity/platform/#cicd-pipeline-jobs) to parse [YAML policy files](https://gitlab.com/gitlab-com/gl-security/identity/data-poc/policies/-/tree/main/role/policies?ref_type=heads), generate [user manifests](https://gitlab.com/gitlab-com/gl-security/identity/data-poc/manifests/-/tree/main/accessctl/manifests/role?ref_type=heads), and use the [REST API](/handbook/security/identity/platform/#group-user-sync) for each respective vendor to check if the user belongs to the group, should be removed from the group, and sync the group members against our policy. See the full data flow for more details.
+
+We will be using [GitOps](https://handbook.gitlab.com/handbook/security/identity/gitops/) (aka. Terraform and GitLab CI/CD pipelines) approach for assigning groups to [Okta applications with state management](https://handbook.gitlab.com/handbook/security/identity/gitops/okta/).
+
+#### Complex Systems
+
+We have identified several key systems and applications that need our focus and investment to optimize Identity Security. We are focusing on a top-down approach to manage the admin control plane and work down, with consideration for including tech stack systems that are causing a lot of business inefficiencies.
+
+We describe these as the “complex” systems that don’t have easy button provisioning that 3rd party vendors can easily manage. We have to build custom automation using Terraform or REST API calls to handle the complex systems.
+
+- (New) Admin Control Plane with GitOps and Admin Accounts
+- GitLab SaaS Instance Admins
+- Google Cloud
+- Google Workspace Groups
+- GitLab SaaS Groups and Members (ex. `gitlab-com`, `gitlab-org`, `gitlab-*`, `gl-*` namespaces)
+- Okta Group Membership Policies/Rules (used by Okta Applications)
+
+We are also closely involved with processes and systems that cause the most inefficiency or pain and suffering.
+
+- Onboarding issues and access requests
+- Baseline entitlement architecture and automation
+- Offboarding issues and access deprovisioning
+- Okta architecture
+- Google Workspace architecture
+- 1Password administration
+- Google Cloud architecture
+
+For more details, see the related handbook pages, reach out to `#security-identity-ops`` with questions, or schedule a call with Jeff Martin.
+
 ## Platform Engineering
 
-The GitLab Identity Security team has CI/CD script and fullstack development skills to build our own open source policy and provisioning automation for our IAM and RBAC needs.
+The GitLab Identity Security team has CI/CD script and fullstack development skills to build our own open source policy and provisioning automation for our IAM and RBAC needs to supplement our vendors and provide last mile automation "plumbing".
 
 You may already use [GitLab Sandbox Cloud](/handbook/infrastructure-standards/realms/sandbox) that is powered by HackyStack. We are refactoring HackyStack to become a component of the Identity Platform.
 
 We are in the early incubation stage of building the [Identity Platform](/handbook/security/identity/platform) that is powered by [accessctl](https://gitlab.com/gitlab-identity/accessctl), a new open source project. As our Identity Platform matures throughout 2024, we will add documentation for the community to adopt our platform and best practices.
+
+### Automation Options
+
+This is a low context simplified explanation.
+
+#### Okta Authentication
+
+A large number of our tech stack applications have **authentication** federated by Okta single-sign on (SSO) using any combination of SCIM, SAML, and OIDC protocols.
+
+It is important to keep in mind that Okta is not an **authorization** platform. In other words, when you sign in, the application can see your name, email address, and profile attributes or a list of group names that you are a member of, however Okta cannot provision/grant you roles or permissions on the application itself.
+
+Most applications have “simple” provisioning that requires adding the user and they are assigned baseline permissions and users do not need additional permissions. For discussion purposes, this covers ~80% of our applications.
+
+A few applications have code logic with their Okta authentication integration that allows you to specify which user profile attributes or group names should be used to grant access to additional roles and permissions inside of the application, however we rarely see this functionality in applications. Most applications provide a UI that lets you manually assign a role to the existing user.
+
+#### Authorization Automation
+
+For ~20% of applications that require “resource” or “role” provisioning, we have to use no-code or our own scripts to achieve this. There are no features in Okta or other Identity solutions that offer these features. This requires using the vendor’s REST API with our own scripts to call endpoints respectively. Any integrations that you see advertised are usually Professional Services custom integrations that their engineers wrote scripts for.
+
+You can see the GitLab product [Members API](https://docs.gitlab.com/ee/api/members.html) endpoint as an example. We can force users to sign in with Okta, however Okta cannot automate which groups and projects the user has access to or the role/permission level for each of those groups or projects.
+
+#### No Code Automation
+
+You may have heard of no code solutions like Okta Workflows, Tines, Workato, Zapier, etc that can solve these needs. While they work reasonably well in simple use cases for users who do not have code experience, they are not the tool for the job in all cases, particularly complex ones.
+
+Remember that no-code workflows are point-to-point and are not usually part of a shared ecosystem that might provide economies of scale. In other words, you can’t call a function/method from another class.
+
+With any WYSIWYG tool, you cannot use expression language syntax natively like you can when writing a few lines of code, so you have to catch data, pull an attribute, then plug that string attribute into the next function. The end result is that no-code workflows become overly complicated and can become 50 steps that can be accomplished with 5 lines of code.
+
+In other words, no-code is great for something very simple, but should not be relied on for complex workflows without good reason. In Identity v2, we’ve tried to stretch the limits of no-code workflows, and believe that scripts running in CI/CD pipelines offer easier maintenance if well architected.
+
+#### Custom Code Automation
+
+The concept of writing code or custom applications can be perceived as burdensome and requires significant investment. Our strategy is to use small scripts that are run with GitLab CI/CD pipelines, allowing us to keep the code base small and dogfooding the GitLab product while maintaining the smallest possible codebase footprint for automation.
+
+We are in the early incubation stage of building the [Identity Platform](/handbook/security/identity/platform) that is powered by [accessctl](https://gitlab.com/gitlab-identity/accessctl), a new open source project. As our Identity Platform matures throughout 2024, we will add documentation for the community to adopt our platform and best practices.
+
+### Real-Time Updates
 
 - **Slack Channel:** `#security-identity-eng`
 - **Slack Tag:** `@security-identity-eng`
@@ -107,7 +198,6 @@ We are in the early incubation stage of building the [Identity Platform](/handbo
 - **Epics:** [gitlab.com/gl-security/identity/eng](https://gitlab.com/groups/gitlab-com/gl-security/identity/eng/-/epics)
 - **Issue Tracker:** [gitlab.com/gl-security/identity/eng/issue-tracker](https://gitlab.com/gitlab-com/gl-security/identity/eng/issue-tracker/-/issues)
 - **Escalation DRI:** Jeff Martin
-
 
 ## Infrastructure Engineering
 
