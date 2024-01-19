@@ -50,11 +50,8 @@ CI Catalog GA Epic: [https://gitlab.com/groups/gitlab-org/-/epics/12153](https:/
 
 #### Goals:
 
-- Introduce GL-maintained badge to the Catalog
-- Support Self Manage components
 - Represent component name in the index page in [https://gitlab.com/gitlab-org/gitlab/-/issues/407176](https://gitlab.com/gitlab-org/gitlab/-/issues/407176)
-- Visibility into where components are used in [https://gitlab.com/gitlab-org/gitlab/-/issues/393326](https://gitlab.com/gitlab-org/gitlab/-/issues/393326)
-- Support Self Manage components (likely to carry over for 16.11 and beyond)
+- Support Self Manage components - post spike implementation issues (likely to carry over for 16.11 and beyond)
 - Moving inputs to GA
 - Release and Publish API (likely to carry over for 16.11 and beyond)
 
@@ -63,7 +60,8 @@ CI Catalog GA Epic: [https://gitlab.com/groups/gitlab-org/-/epics/12153](https:/
 #### Goals:
 - Release and Publish API (carry over)
 - Support Self Manage components (carry over)
-- Improve components filtering in the UI
+- Improve component filtering in the UI -filter by publisher/latest update/popularity
+- CI/CD catalog Upsell opportunity - [https://gitlab.com/gitlab-org/gitlab/-/issues/393326](https://gitlab.com/gitlab-org/gitlab/-/issues/393326)
 
 ### Milestone 17.0 (April 13, 2024 - May 10, 2024)
 
