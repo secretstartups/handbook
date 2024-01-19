@@ -110,6 +110,7 @@ For now, all broken master incidents are also reported in the `#master-broken` c
 
 1. Identification
    - Review non-resolved [broken `master` incidents](https://gitlab.com/gitlab-org/quality/engineering-productivity/master-broken-incidents/-/issues) for the same failure. If the broken `master` is related to a test failure, [search the spec file in the issue search](https://gitlab.com/gitlab-org/gitlab/-/issues?sort=created_desc&state=opened&label_name[]=failure::flaky-test) to see if there's a known `failure::flaky-test` issue.
+   - Pro-tip: For an initial asssessment of what might have contributed to the failure, triager can try the experimental AI-assisted [root cause analysis](https://docs.gitlab.com/ee/user/ai_features.html#root-cause-analysis) feature by clicking the "Root cause analysis" button on the failed job page.
    - If this incident is **due to non-flaky reasons**, communicate in `#development`, `#backend`, and `#frontend` using the Slack Workflow.
       - Click the "lightning bolt" shortcut icon in the `#master-broken` channel and select `Broadcast Master Broken`, then click `Continue the broadcast`.
       - [Create a revert MR directly](#reverting-a-merge-request) to save some time in case we need to revert down the line.
