@@ -90,12 +90,12 @@ The Senior Recruiter is a [grade 7](/handbook/total-rewards/compensation/compens
 
 ##### Responsibilities
 
-The Senior Recruiter shares the same requirements as the Intermediate recruiter listed above, but also focuses on cross-functional work. Senior Recruiters influence others by modeling GitLab competenties and provide valuable input and sometimes ownership of strategic decisions within the team. 
+The Senior Recruiter shares the same requirements as the Intermediate Recruiter listed above but also focuses on cross-functional work. Senior Recruiters influence others by modeling GitLab competencies and providing valuable input and sometimes ownership of strategic decisions within the team.
 
 1. Development of advisory relationships with hiring teams and cross functional partners.
 1. Data driven decision making utilizing data to influence the business appropriately and iterate on current proceses.
 1. Ownership of integration of representative recruitment practices into their and their teams' work.
-1. Execute on research based sourcing strategies for each and every role 
+1. Execute on research based sourcing strategies for each and every role
 1. Deliver on Key Performance Indicators (ie: Key Metrics) autonomously on a consistent basis.
 1. Through collaboration with the necessary stakeholders, proactively builds team resources and assets to impact the team's ability to have high quality, influencial conversations.
 
@@ -159,6 +159,7 @@ The Principal Recruiter shares the same requirements as the Senior recruiter lis
 - Act as business partner for Engineering leaders to improve their teams and recruiting processes
 
 #### Executive Recruitment
+
 - Own Director and above level searches across GitLab
 - Own Director and above level searches including sourcing, assessing, and hiring.
 - Act as a business partner with Senior Leadership related to hiring leaders across all Divisions.
