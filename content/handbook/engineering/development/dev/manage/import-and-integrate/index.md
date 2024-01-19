@@ -16,7 +16,7 @@ This page covers processes and information specific to the Import and Integrate 
 
 To get in touch with the Import and Integrate group, it's best to create an
 issue in the relevant project (typically [GitLab](https://gitlab.com/gitlab-org/gitlab)) and add the
-`~"group::import and integrate"` label, along with any other appropriate labels. Then,
+`~"group::import and integrate"` label, along with any other [appropriate labels](#issue-labels). Then,
 feel free to ping the relevant Product Manager and/or Engineering Manager.
 
 For more urgent items, feel free to use the Slack Channel (internal): [#g_manage_import_and_integrate](https://gitlab.slack.com/archives/g_manage_import_and_integrate).
@@ -88,6 +88,36 @@ We should write at least one comment every week that the issue is not moving.
 The work for the Import and Integrate group can be tracked on the following issue boards:
 
 - [Current milestone board](https://gitlab.com/groups/gitlab-org/-/boards/1459244?milestone_title=Upcoming&label_name[]=group%3A%3Aimport%20and%20integrate)
+
+### Issue Labels
+
+To maintain good label hygiene, please apply the correct labels when creating or triaging issues.
+
+All issues should have:
+
+- All of our section, stage and group labels:
+    - `~"section::core platform"`
+    - `~"devops::manage"`
+    - `~"group::import and integrate"`
+- One or more of the category labels:
+    - `~"Category:API"`
+    - `~"Category:Importers"`
+    - `~"Category:Integrations"`
+    - `~"Category:Internationalization"`
+    - `~"Category:Webhooks"`
+- A [type label](/handbook/engineering/metrics/#work-type-classification)
+- A [workflow label](/handbook/engineering/workflow/#updating-workflow-labels-throughout-development)
+- `~"backend"` or `~"frontend"` if appropriate
+
+For issues related to importers, also apply an `Importer:` label. For example: `~"Importer:GitHub"` or `~"Importer:Direct Transfer"`.
+
+For issues related to integrations, also apply a scoped `Integration::` label. For example: `~"Integration::Slack"` or `~"Integration::Jira"`.
+
+For issues related to our APIs, also apply either `~"api"` for REST or `~"GraphQL"` for GraphQL.
+
+Once you have completed an issue and closed it make sure to add `~"workflow::complete"`.
+
+Team members might find it helpful to use a comment template to help apply labels correctly. See [an example here](https://gitlab.com/gitlab-org/manage/import-and-integrate/discussions/-/issues/76#note_1718035490).
 
 ### Capacity Planning
 
@@ -183,7 +213,7 @@ following information:
 Some considerations:
 
 - Keep the conversation on the original issues.
-- During this process, the issue description and labels should be updated as
+- During this process, the issue description and [labels](#issue-labels) should be updated as
 more information is gathered.
 - Does the issue need a feature flag?
 - Consider adding an "Availability and Testing" section as defined in the [Quad Planning](/handbook/engineering/infrastructure/test-platform/quad-planning/).

@@ -14,11 +14,11 @@ Please note that context for the following sections on this page should be cover
 
 GitLab.com is the largest known GitLab instance. It is monitored and maintained 24/7 by our [infrastructure team](/handbook/engineering/infrastructure/).
 
-The Support team should have a general understanding of [its architecture](/handbook/engineering/infrastructure/production/architecture/) along with how to access logs ([Kibana]({{< ref "kibana" >}}) and error reports ([Sentry]({{< ref "sentry" >}})) to troubleshoot reported issues.
+The Support team should have a general understanding of [its architecture](/handbook/engineering/infrastructure/production/architecture/) along with how to access logs ([Kibana]({{< ref "kibana" >}})) and error reports ([Sentry]({{< ref "sentry" >}})) to troubleshoot reported issues.
 
 As well, Support team members should be aware that GitLab.com has certain customizations. These customization are applied through the [chef-repo](https://gitlab.com/gitlab-com/gl-infra/chef-repo). Details of GitLab.com customizatons can be found in [GitLab.com custom limits](/handbook/support/workflows/gitlab-com_customizations)
 
-Numerous Support team members including all SaaS focused ones also assist with incidents as [CMOC]({{< ref "cmoc_workflows" >}}).
+Numerous Support team members also assist with incidents as [CMOC]({{< ref "cmoc_workflows" >}}).
 
 ## Legal Context
 

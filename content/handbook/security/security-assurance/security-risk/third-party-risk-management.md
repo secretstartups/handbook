@@ -1,10 +1,7 @@
 ---
 title: "Security Third Party Risk Management"
+controlled_document: true
 ---
-
-{{% alert title="This is a Controlled Document" color="danger" %}}
-Inline with GitLab's regulatory obligations, changes to [controlled documents]({{< ref "controlled-document-procedure" >}}) must be approved or merged by a code owner. All contributions are welcome and encouraged.
-{{% /alert %}}
 
 ## GitLab's Integrated Third-Party Risk Management Program
 
@@ -175,26 +172,29 @@ Security Risk maintains multiple templated versions of the SIG questionnaire for
 
 {{% details summary="SIG Lite Plus" %}}
 - [SIG Lite Plus](https://docs.google.com/spreadsheets/d/1wvpY3oF8sG_UbnQzzlbXs85ahsfLiDQp/edit?usp=drive_link&ouid=103289635706160914358&rtpof=true&sd=true)
-    - The SIG Lite Plus questionnaire is leveraged most commonly and should be utilized for all Red vendors and Orange SaaS systems. We refer to our SIG Lite as the "SIG Lite Plus" as it includes full scope SIG questionnaires for domains "A. Enterprise Risk Management" and "E. Human Resource Security". All other domains include standard SIG Lite content. Our objective here is to obtain additional information related to personal computers and background checks.
-    - The following 18 domains are included within the scope of the SIG Lite Plus questionnaire:
-        - A. Enterprise Risk Management (Full SIG Content)
-        - B. Security Policy
-        - C. Organizational Security
+    - The SIG Lite Plus questionnaire is leveraged most commonly and should be utilized for all Red vendors and Orange SaaS systems. We refer to our SIG Lite as the "SIG Lite Plus" as it includes full scope SIG questionnaires for domains "E. Human Resource Security and V. Cloud Services". All other domains include standard SIG Lite content. Our objective here is to obtain additional information related to cloud security and the use of personal computers and employee background checks.
+    - The following 20 domains are included within the scope of the SIG Lite Plus questionnaire:
+        - A. Enterprise Risk Management
+        - B. Nth Party Management
+        - C. Information Assurance
         - D. Asset and Info Management
         - E. Human Resources Security (Full SIG Content)
-        - F. Physical and Environmental
+        - F. Physical and Environmental Security
         - G. IT Operations Management
         - H. Access Control
-        - I. Application Security
+        - I. Application Management
         - J. Cybersecurity Incident Mgmt
         - K. Operational Resilience
-        - L. Compliance and Ops Risk
-        - M. Endpoint Device Security
+        - L. Compliance Management
+        - M. Endpoint Security
         - N. Network Security
-        - P. Privacy
+        - O. Environmental, Social, Governance (ESG)
+        - P. Privacy Management
+        - R. Artificial Intelligence
+        - S. Supply Chain Risk Mgmt
         - T. Threat Management
         - U. Server Security
-        - V. Cloud Hosting Services
+        - V. Cloud Services (Full SIG Content)
 {{% /details %}}
 
 {{% details summary="Professional Services SIG" %}}
@@ -205,10 +205,10 @@ Security Risk maintains multiple templated versions of the SIG questionnaire for
         - E. Human Resources Security (Full SIG Content)
         - F. Physical and Environmental
         - H. Access Control
-        - L. Compliance and Ops Risk
+        - L. Compliance Management
         - M. Endpoint Device Security
         - N. Network Security
-        - P. Privacy
+        - P. Privacy Management
         - T. Threat Management
 
 {{% /details %}}

@@ -1,6 +1,7 @@
 ---
 aliases: /handbook/engineering/infrastructure/production/architecture/ci-architecture.html
 title: "CI Service Architecture"
+controlled_document: true
 ---
 
 This document only covers our shared and GitLab shared runners, which are

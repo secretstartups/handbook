@@ -13,25 +13,13 @@ The Create:Editor Extensions Group is responsible for all aspects of the product
 
 ### Group members
 
-The following people are permanent members of the Create:Editor Extensions Group:
-
-<!-- TODO: make this list dynamic based on the `borrow` field in yaml files -->
 {{% team-by-departments "Create:Editor Extensions" %}}
-
-The following people are temporary members ([borrow process](/handbook/product/product-processes/#borrow)) of the Create:Editor Extensions Group, each one working on a specific area:
-
-- Language Server
-  - [Olena HK.](/handbook/company/team/#ohoral)
-- VS Code extension
-  - [Sri Rang](/handbook/company/team/#sri19)
 
 ### Stable counterparts
 
-<!-- TODO: replace this list with a call to stable_counterparts(...) once titles have been updated -->
-
 The following people are [stable counterparts](/handbook/leadership/#stable-counterparts) of the Create:Editor Extensions Group:
 
-{{< group-by-slugs kai-armstrong amyqualls jay_mccure >}}
+{{< group-by-slugs dashaadu amyqualls jay_mccure >}}
 
 ### Product categories
 
@@ -107,6 +95,16 @@ to track the relative [priority of issues](/handbook/product/product-processes/#
 Separately, the technical writer for this group also triages open issues for potential documentation and UI text changes,
 and follows the Technical Writing [triage process](/handbook/product/ux/technical-writing/workflow/#documentation-feedback-and-improvements). After review, each issue receives the `~tw::triaged` label.
 
+### Estimates
+
+We use three weights to give a rough estimate of the issue's complexity. The weight represents a time estimate:
+
+- `1` - day or two of effort
+- `2` - week of effort
+- `3` - week and a half of effort
+
+Everything above weight `3` should be a spike that will result in one or more issues with estimated weight.
+
 ### Temporary silos
 
 Our team owns several projects, written in different languages (Typescript, Kotlin, C#, Lua) and targeting different platforms.
@@ -139,7 +137,7 @@ Each extension defines an array of supported languages.
 
 ## Hiring
 
-Check out our [jobs page](/jobs/) for current openings.
+Check out our [jobs page](https://about.gitlab.com/jobs/) for current openings.
 
 ## Engineering metrics
 

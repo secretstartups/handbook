@@ -16,65 +16,84 @@ CI Catalog GA Epic: [https://gitlab.com/groups/gitlab-org/-/epics/12153](https:/
 
 | Milestone | Dates | Deliverable |
 |---------- | ----- | ----------- |
-|  ~17.1      | 2024-05-11 to 2024-06-14 | CI Catalog GA |
+|  ~17.0     | 2024-04-13 to 2024-05-10 | CI Catalog GA |
 
 {{< sisense dashboard="1174055" >}}
-
-### Milestone 16.8 (December 16, 2023 - January 12, 2024)
-
-#### Goals:
-- Complete initial template to component migration [list](https://gitlab.com/gitlab-org/gitlab/-/issues/432540#list).
-- Improve UI in the Catalog details page [[1](https://gitlab.com/gitlab-org/gitlab/-/issues/421922), [2](https://gitlab.com/gitlab-org/gitlab/-/issues/431899)]
-- Implement [Your resource](https://gitlab.com/gitlab-org/gitlab/-/issues/433013) tab in the index page 
-- Add [components](https://gitlab.com/gitlab-org/gitlab/-/issues/424967) tab to the catalog details page 
-- Move inputs to GA ready by completing [text interpolation for arrays and !reference](https://gitlab.com/gitlab-org/gitlab/-/issues/433002).
-
-#### Updates:
-
-[Create reusable components for the CI Catalog](https://gitlab.com/groups/gitlab-org/-/epics/12066)
-
-- 70% complete, Needs Attention, ETA: `16.8`
-- Status:
-  - January 2024 weekly community competition strategy meeting took place on 2023-12-19.
-  - `gitlab.com/components` has been claimed now.
-  - [Build](https://gitlab.com/gitlab-org/gitlab/-/issues/433266) is complete with README to be created shortly.
-  - Progress % is based on the [Components scope for the Beta release of CI Catalog](https://gitlab.com/groups/gitlab-org/-/epics/12066#note_1666060424)
-- Work in Progress:
-  - [Migrate GitLab-maintained templates to components](https://gitlab.com/gitlab-org/gitlab/-/issues/432540#list)
-  - [Creation of component helpers for future contributions to CI Components](https://gitlab.com/gitlab-org/gitlab/-/issues/430818)
-  - Alignment on what is needed for [Beta of the Global Catalog](https://gitlab.com/groups/gitlab-org/-/epics/12066#note_1666060424).
-    The team agrees that the following will be tackled post-Beta (though discussions are already underway):
-    - [How to maintain/review contributions and manage group ownership of GitLab maintained components](https://gitlab.com/gitlab-org/gitlab/-/issues/432768)
-    - [How to designate GitLab “verified” / “official” components](https://gitlab.com/gitlab-org/gitlab/-/issues/432535)
-  - [Determine](https://gitlab.com/gitlab-org/gitlab/-/issues/432281#goals) which team members will be reviewing the MRs for newly added components.
-    - As of 2023-12-22, discussions [continue](https://gitlab.com/gitlab-org/gitlab/-/issues/432540#note_1678603735 ) with internal teams for popular GitLab-maintained templates for review and testing.
-- Risks/Blockers:
-  - Getting other teams involved in testing of template to component migration list and components ownership.  Discussion are ongoing regarding migration approach (Example can be found [here](https://gitlab.com/gitlab-org/gitlab/-/issues/432540#note_1705759840)) for ECS and EC2 templates.
 
 ### Milestone 16.9 (January 13, 2024 - February 9, 2024)
 
 #### Goals:
 
+- Improve the UX for the CI/CD catalog
+  - [Sort component by GitLab-maintained components](https://gitlab.com/gitlab-org/gitlab/-/issues/437897) 
+  - [Fix Markdown not rendering in CI/CD Catalog](https://gitlab.com/gitlab-org/gitlab/-/issues/431899) (Complete)
+- Implement additional telemetry
+  - [Spike issue](https://gitlab.com/gitlab-org/gitlab/-/issues/438409) to investigate how to component usage can be tracked.
+  - [Number of times a single component had been used](https://gitlab.com/gitlab-org/gitlab/-/issues/434333)
+- [Enforce semantic versioning](https://gitlab.com/gitlab-org/gitlab/-/issues/427286)
+- [Spike issue](https://gitlab.com/gitlab-org/gitlab/-/issues/434260) to distributed components for Self managed customers
+- Support CI interpolation with arrays
+  - [Implement text interpolation](https://gitlab.com/gitlab-org/gitlab/-/issues/433002)
+  - [CI interpolation with arrays](https://gitlab.com/gitlab-org/gitlab/-/issues/407176)
+- Helper efforts for components
+  - [Provide components as helpers to test other components](https://gitlab.com/gitlab-org/gitlab/-/issues/430818)
+  - [Components toolkit to test GitLab-maintained components](https://gitlab.com/gitlab-org/gitlab/-/issues/432772) (Complete)
+- Lay the foundation for all badges + introduce GL-maintained badges
+  - [https://gitlab.com/gitlab-org/gitlab/-/issues/434058](https://gitlab.com/gitlab-org/gitlab/-/issues/434058)
+  - [https://gitlab.com/gitlab-org/gitlab/-/issues/427962](https://gitlab.com/gitlab-org/gitlab/-/issues/427962) 
+
+#### Blockers:
+
+- None at this time.
+
 ### Milestone 16.10 (February 10, 2024 - March 8, 2024)
 
 #### Goals:
 
+- Introduce GL-maintained badge to the Catalog
+- Support Self Manage components
+- Represent component name in the index page in [https://gitlab.com/gitlab-org/gitlab/-/issues/407176](https://gitlab.com/gitlab-org/gitlab/-/issues/407176)
+- Visibility into where components are used in [https://gitlab.com/gitlab-org/gitlab/-/issues/393326](https://gitlab.com/gitlab-org/gitlab/-/issues/393326)
+- Support Self Manage components (likely to carry over for 16.11 and beyond)
+- Moving inputs to GA
+- Release and Publish API (likely to carry over for 16.11 and beyond)
+
 ### Milestone 16.11 (March 9, 2024 - April 12, 2024)
 
 #### Goals:
+- Release and Publish API (carry over)
+- Support Self Manage components (carry over)
+- Improve components filtering in the UI
 
 ### Milestone 17.0 (April 13, 2024 - May 10, 2024)
+
+- [ ] **CI Catalog GA**
 
 ### Milestone 17.1 (May 11, 2024 - June 14, 2024)
 
 #### Goals:
-- [ ] **CI Catalog GA**
 
 ### Milestone 17.5 (September 14, 2024 - October 11, 2024)
 
 #### Goals:
 
 ### Archive
+
+<details markdown="1">
+
+<summary markdown="span">Past Milestones</summary>
+
+### December to January (Milestone 16.8)
+
+#### Goals:
+- Complete initial template to component migration [list](https://gitlab.com/groups/gitlab-org/-/epics/12289#list).
+  - AutoDevOps [Build component](https://gitlab.com/components/autodevops/-/blob/main/templates/build.yml?ref_type=heads) and [Test component](https://gitlab.com/gitlab-org/gitlab/-/issues/433265) is complete but discussion on whether `Test` should exist due to future deprecation.
+- Improve UI in the Catalog details page [[1](https://gitlab.com/gitlab-org/gitlab/-/issues/421922), [2](https://gitlab.com/gitlab-org/gitlab/-/issues/431899)]
+- Implement [Your resource](https://gitlab.com/gitlab-org/gitlab/-/issues/433013) tab in the index page 
+- Add [components](https://gitlab.com/gitlab-org/gitlab/-/issues/424967) tab to the catalog details page 
+  - BE/FE collaboration needed before [feature flag](https://gitlab.com/gitlab-org/gitlab/-/issues/426443) can be rolled out. 
+- Move inputs to GA ready by completing [text interpolation for arrays and !reference](https://gitlab.com/gitlab-org/gitlab/-/issues/433002).
+
 
 ### November to December (Milestone 16.7)
 
@@ -232,3 +251,5 @@ CI Catalog GA Epic: [https://gitlab.com/groups/gitlab-org/-/epics/12153](https:/
 - [ ] [https://gitlab.com/gitlab-org/gitlab/-/issues/409041](https://gitlab.com/gitlab-org/gitlab/-/issues/409041) related to showing pipeline status for latest version of catalog resource.
 - [ ] [https://gitlab.com/gitlab-org/gitlab/-/issues/415287](https://gitlab.com/gitlab-org/gitlab/-/issues/415287) for creating catalog_resource_components table to unblock other issues.
 - [ ] [https://gitlab.com/gitlab-org/gitlab/-/issues/415853](https://gitlab.com/gitlab-org/gitlab/-/issues/415853) for updating CI component fetching for updated directory structure.
+
+</details>

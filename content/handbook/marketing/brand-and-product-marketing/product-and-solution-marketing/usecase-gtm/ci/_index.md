@@ -262,7 +262,7 @@ Amongst the many competitors in the DevOps space, Jenkins and [CircleCI](/compet
 
 ### Case Studies
 
-#### [Goldman Sachs](/customers/goldman-sachs/)
+#### [Goldman Sachs](https://about.gitlab.com/customers/goldman-sachs/)
 
 - **Problem** Needed to increase developer efficiency and software quality
 - **Solution:** GitLab Premium (CI/CD, SCM)
@@ -270,14 +270,14 @@ Amongst the many competitors in the DevOps space, Jenkins and [CircleCI](/compet
 All the new strategic pieces of ’software development platforms are tied into GitLab. GitLab is used as a complete ecosystem for development, source code control and reviews, builds, testing, QA, and production deployments.
 - **Sales Segment:** Enterprise
 
-#### [Hotjar](/customers/hotjar/)
+#### [Hotjar](https://about.gitlab.com/customers/hotjar/)
 
 - **Problem** Hotjar was looking to replace Jenkins and reduce complexity within their tool stack
 - **Solution:** GitLab Silver (CI/CD)
 - **Result:** Time of CI builds **decreased by 30%**, improved to 2-15 deploys per day, and 50% deployment time saved.
 - **Sales Segment:** SMB
 
-#### [CERN](/customers/cern/)
+#### [CERN](https://about.gitlab.com/customers/cern/)
 
 - **Problem:** CERN was looking for an open source way to host their pipelines
 - **Solution:** GitLab Starter (CI)
@@ -331,9 +331,9 @@ The table includes free/community and paid tiers associated with GitLab's self-m
 - P = Premium
 - U = Ultimate
 
-### Product Adoption - North Star Metrics and Leading Indicators for CI
+### Product Adoption - Lighthouse Metrics and Leading Indicators for CI
 
-The SSOT Handbook Page for Product Adoption - North Star Metrics and Leading Indicators can be found in the [Enterprise Data Team Handbook](https://internal.gitlab.com/handbook/enterprise-data/company-kpis/product-adoption-north-star-metrics/)
+The SSOT Handbook Page for Product Adoption - Lighthouse Metrics and Leading Indicators can be found in the [Enterprise Data Team Handbook](https://internal.gitlab.com/handbook/enterprise-data/company-kpis/product-adoption-lighthouse-metrics/)
 
 #### Additional Documentation Links
 

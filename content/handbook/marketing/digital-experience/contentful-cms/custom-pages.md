@@ -107,11 +107,11 @@ The [🛠️ Card Block](https://app.contentful.com/spaces/xz1dnu24egyd/environm
 | Link | Card redirection URL | /card-1/ |
 | Icon | Icon name for the card, the list of icons can be found in [Slippers](https://slippers.gitlab.com/?path=/story/foundations-icons--icons) | devsecops |
 
-##### Visual Representation
+##### Visual Representation 
 
 ![Custom Pages Card Block](/images/handbook/contentful/custom-page-card-block.png)
 
-#### 🛠️ Landing Grid
+#### 🛠️ Landing Grid and 🛠️ Landing grid Card
 
 The [🛠️ Landing Grid](https://app.contentful.com/spaces/xz1dnu24egyd/environments/master/content_types/landingGrid/fields) is a valuable Content Type designed for Landing Pages.
 When utilizing this Content Type, cards are dynamically generated based on the child pages associated with the landing page. For instance, if there is a **/solutions** landing page, all child pages under **/solutions/*** will be automatically listed without requiring manual manipulation.
@@ -120,5 +120,26 @@ When utilizing this Content Type, cards are dynamically generated based on the c
 |---------------------|-------------|---------------|
 | Internal Name | Name to find the entry within Contentful | N/A |
 | Number of Columns | Tells the grid how many cards per row should show | 2 |
+| Cards | List of landing grid cards to be used instead of the automatic card generation the component provides | N/A |
+
+If the landing page needs to render specific cards that are not children to the current URL, the card field can be filled with the cards that need to be displayed, this field takes Landing grid Card components which have the following fields: 
+
+| Landing Grid Card Fields | Description | Example Value |
+|---------------------|-------------|---------------|
+| Internal Name | Name to find the entry within Contentful | N/A |
+| Header | Card header | Card 1 |
+| Date | Date to display in the card (The cards will be ordered based on this value, display the most recent at the top) | 12 Dec 2023 |
+| Description | Short text to include in the card | Lorem ipsum dolor est |
+| Link | Card redirection URL | /card-1/ |
 
 ![Custom Pages Landing Grid](/images/handbook/contentful/custom-page-landing-grid.png)
+
+### Video Walkthrough of building a page
+
+As an example, we built a community page from scratch in the following video. 
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/kxbogtc7FNY?si=dl5AOIAybU2OhLPi" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->

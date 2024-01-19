@@ -47,6 +47,8 @@ App information:
 
 ### GitLab Reminders App
 
+<sup>*Introduced via [support-team-meta#3036](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3036)*</sup>
+
 The Reminders App appears in the navbar and allows the agent a more specialized
 view of tickets they are involved in. It currently shows:
 
@@ -64,9 +66,11 @@ App information:
 
 - Located in the navbar
 - This application was developed in-house and can be found
-  [GitLab Reminders App project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/gitlab-reminders-app).
+  [GitLab Reminders App project](https://gitlab.com/gitlab-support-readiness/zendesk-global/apps/reminders-app).
 
 ### GitLab Super App
+
+<sup>*Introduced via [support-ops-project#801](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/801)*</sup>
 
 A plugin controlled app that can do several things GitLab related
 
@@ -95,7 +99,7 @@ App information:
   - Support APAC
   - Support EMEA
 - This application was developed in-house and can be found
-  [Zendesk Super App project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/gitlab-super-app).
+  [GitLab Super App project](https://gitlab.com/gitlab-support-readiness/zendesk-global/apps/gitlab-super-app).
 
 ### GitLab Views
 
@@ -112,9 +116,11 @@ App information:
   - Support Managers
   - Support Ops
 - This application was developed in-house and can be found
-  [GitLab Views App project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/gitlab_views).
+  [GitLab Views App project](https://gitlab.com/gitlab-support-readiness/zendesk-global/apps/views-app).
 
 ### Mechanizer
+
+<sup>*Introduced via [support-team-meta#4208](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4208)*</sup>
 
 This app incorporates [Mechanizer](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer)
 into Zendesk.
@@ -127,7 +133,7 @@ App information:
   - Support APAC
   - Support EMEA
 - This application was developed in-house and can be found at
-  [Mechanizer project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/mechanizer/)
+  [Mechanizer project](https://gitlab.com/gitlab-support-readiness/zendesk-global/apps/mechanizer)
 
 ### Notifications App
 
@@ -147,7 +153,7 @@ App information:
   - Support Managers
   - Support Ops
 - This applicate was developed in-house and can be found at
-  [Notification app project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/notification-app)
+  [Notification app project](https://gitlab.com/gitlab-support-readiness/zendesk-global/apps/notification-app)
 
 #### Current events that trigger the app
 
@@ -181,6 +187,14 @@ will not) recieve are:
     - Only public comments from customers
     - Only private comments
     - All types of comments
+- Notify me only for tickets with priority
+  - This tells the app which priorities to notify you on
+  - Values:
+    - Urgent
+    - High
+    - Medium
+    - Low
+  - **Note** A blank value is assumed to be "all priorities"
 - Also notify me for escalated ticket creation
   - This dictates if you want to be notified via the app when an escalated
     organization creates a ticket.
@@ -188,6 +202,23 @@ will not) recieve are:
 - Also notify me for emergency ticket creation
   - This dictates if you want to be notified via the app when an emergency
     ticket is created.
+  - **Note** This works *independently* of all other settings.
+- Also notify me for STARs
+- Also notify me for soon to breach tickets on
+  - This dictates if you want to be notified via the app when a ticket is about
+    to breach (within 2 hours)
+  - Values:
+    - Assigned tickets only
+    - CC'd tickets only
+    - Tickets within my SGG only
+    - All tickets
+  - **Note** This works *independently* of all other settings.
+- Also notify me for tickets created via specific orgs
+  - This dictates if you want to be notified via the app when a ticket is
+    created by a specific organization
+  - The list should be comma separated
+    - Example, if you want to be notified for organizations 123, 456, and 789,
+      use the value `123,456,789` or `123, 456, 789`
   - **Note** This works *independently* of all other settings.
 
 For information on editing your personal user settings, please see
@@ -202,6 +233,8 @@ and other channels of communications for updates (as well as this seciton of the
 
 ### Out of Office
 
+<sup>*Introduced via [support-team-meta#4303](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4303)*</sup>
+
 This will enable an agent to mark when they are out of office in Zendesk, which
 then updates tickets and makes it visible in the views.
 
@@ -215,7 +248,7 @@ App information:
   - Support APAC
   - Support EMEA
 - This application was developed in-house and can be found
-  [Out of Office project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/out-of-office/)
+  [Out of Office project](https://gitlab.com/gitlab-support-readiness/zendesk-global/apps/out-of-office)
 
 ### Support Ops Super App
 
@@ -232,9 +265,11 @@ App information:
 - Restricted by Role:
   - Admin
 - This application was developed in-house and can be found
-  [Support Ops Super App project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/support-ops-super-app).
+  [Support Ops Super App project](https://gitlab.com/gitlab-support-readiness/zendesk-global/apps/support-ops-super-app).
 
 ### Unbabel
+
+<sup>*Introduced via [support-team-meta#1664](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/1664)*</sup>
 
 Powered by state-of-the-art AI and a worldwide community of translators,
 Unbabel delivers translation at enterprise scale. We help you serve customers
@@ -360,6 +395,9 @@ be changed, as it can cause significant problems.
 
 #### Zendesk Super App
 
+<sup>*Introduced via [support-ops-project#801](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/801)*</sup>
+
+
 A plugin controlled app that can do several things Zendesk related
 
 The current plugins are:
@@ -383,7 +421,7 @@ App information:
   - Support APAC
   - Support EMEA
 - This application was developed in-house and can be found
-  [Zendesk Super App project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/zendesk-super-app).
+  [Zendesk Super App project](https://gitlab.com/gitlab-support-readiness/zendesk-global/apps/zendesk-super-app).
 
 ## Zendesk US Federal App List
 
@@ -397,6 +435,8 @@ in common are:
 
 ### Architecture Diagrams
 
+<sup>*Introduced via [support-ops-project#801](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/801)*</sup>
+
 This app uses the Organization field `AM Project ID` to check for an existing
 Account Management project. If it finds it, it will then link to that
 project’s Architecture Diagram.
@@ -408,7 +448,7 @@ App information:
 
 - Located in the ticket sidebar
 - This application was developed in-house and can be found
-  [GitLab Architecture project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/gitlab-architecture).
+  [GitLab Architecture project](https://gitlab.com/gitlab-support-readiness/zendesk-us-government/apps/gitlab-architecture).
 
 ### Due Date Picker
 
@@ -420,23 +460,7 @@ App information:
 
 - Located in the ticket sidebar
 - This application was developed in-house and can be found
-  [Due Date Picker project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/due-date-picker).
-
-### GitLab User Lookup
-
-This app looks in Salesforce and GitLab.com for a contact or account based on
-the requestor’s email address and provided GitLab.com username. If it finds a
-GitLab.com account, it will present some basic account information as well as
-the membership of the user (and the corresponding plans of said memberships).
-The app also does checks to determine if the requester is an enterprise user.
-If it determines they are, it displays this in the app's output and auto-tags
-the ticket using the `enterprise_user` tag.
-
-App information:
-
-- Located in the ticket sidebar
-- This application was developed in-house and can be found
-  [GitLab User Lookup](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/gitlab-user-lookup).
+  [Due Date Picker project](https://gitlab.com/gitlab-support-readiness/zendesk-us-government/apps/due-date-picker).
 
 ### Show Related Tickets
 

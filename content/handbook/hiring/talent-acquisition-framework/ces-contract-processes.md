@@ -390,9 +390,9 @@ Always ensure the start date is on a Monday, unless Monday is a holiday or the n
 ## Creating a French Offer
 
 1. You will receive a req to create a French Offer.
-1. Please ensure that you complete the [SSOT document](https://docs.google.com/spreadsheets/d/1HQxOwt30v1qffulaZay61aj_A5edQgb_zfBrhoq0CgA/edit#gid=0).
+1. In Greenhouse, click on Job setup, then hiring team, then add Sarah Rogers & Darren Burr to the job granting them the Job Admin: FPA and Legal permissions, then save.
 1. Ensure the start date is on a Monday, unless Monday is a holiday or the non-Monday date is legally required.
-1. Send the SSOT form to the Legal Team in the [Frenchcontracts_CES](https://gitlab.slack.com/archives/C05R0R495L6) requesting assistance with the offer. When making the request in the channel, please indicate the candidate's name and their number on the SSOT document.
+1. Send a Slack message to the Legal Team in [Frenchcontracts_CES](https://gitlab.slack.com/archives/C05R0R495L6) requesting assistance with the offer. When making the request in the channel, please indicate the candidate's name and include the link to the GH profile
 1. One of the Legal Team members will respond with the following information:
     - The GreenHouse Offer Template that you should use (A,B or C)
     - The wording that should be added to the template (including information on where the wording should be placed). This wording will be placed as provided by Legal on both the English & French sides in English.

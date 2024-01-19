@@ -28,7 +28,7 @@ Refer to the [Category Maturity](https://about.gitlab.com/direction/maturity/) p
 
 - **Minimal:** Category Maturity Scorecard is *not* required.
 - **Viable:** Category Maturity Scorecard is conducted with internal users who are dogfooding.
-- **Complete and Lovable:** Category Maturity Scorecard is conducted with external users on the JTBDs.
+- **Competitive and Complete:** Category Maturity Scorecard is conducted with external users on the JTBDs.
 
 Previously completed Category Maturity Scorecards can be found in this [epic](https://gitlab.com/groups/gitlab-org/-/epics/6930).
 
@@ -191,8 +191,8 @@ As participants attempt to complete a scenario, for our purposes, the end result
 
 | Minimum % pass rate | UX Scorecard grade | Scale option | CM Scorecard score range | CM Scorecard level | SUS (for reference) |
 | :-----------------: | :----------------: | ------------ | :----------------------: | :----------------: | :-----------------: |
-| 100% | A | Extremely good/easy, Strongly agree | 3.95 - 5.00 | Loveable | 78.9 - 100 |
-| > 80% | B | Good/Easy, agree | 3.63 - 3.94 | Complete | 72.6 - 78.8 |
+| 100% | A | Extremely good/easy, Strongly agree | 3.95 - 5.00 | Complete | 78.9 - 100 |
+| > 80% | B | Good/Easy, agree | 3.63 - 3.94 | Competitive | 72.6 - 78.8 |
 | > 80% | C | Neither | 3.14 - 3.62 | Viable | 62.7 - 72.5 |
 | n/a | D | Difficult/Bad, disagree | 2.59 - 3.13 | -- | 51.7 - 62.6 |
 | n/a | F | Extremely bad/difficult, Strongly disagree | 1.00 - 2.58 | -- | 0 - 51.6 |
@@ -216,8 +216,8 @@ Note: Do not enter in ratings for participants who experienced task failure, as 
 [Step three](cms_step3.png)
 
 For example:
- - 4.70 average = ‘A’ CM Scorecard grade = ‘78.9-100’ SUS = Loveable
- - 3.93 average = ‘B’ CM Scorecard grade = ‘72.6 - 78.8’ SUS = Complete
+ - 4.70 average = ‘A’ CM Scorecard grade = ‘78.9-100’ SUS = Complete
+ - 3.93 average = ‘B’ CM Scorecard grade = ‘72.6 - 78.8’ SUS = Competitive
 
 **Minimum % pass rate:** Minimum % pass rates help indicate what percentage of participants must succeed in a scenario to meet a minimum requirement. This also helps indicate what level of scenario failure is acceptable. Scenario failures are important to note and we can’t discount them, so they must be incorporated as part of the criteria to move category maturity levels. If the Minimum % pass rate for any scenario is less than 80% during a study, the study should stop at that most recent participant to conserve resources. In the event this should occur, the category maturity cannot be moved up a level. The team should take those learnings, iterate, and retest when they’re ready again. It’s also recommended that a retrospective take place to learn:
 
@@ -227,7 +227,7 @@ For example:
 
 **Score interpretation examples:**
 
-- A product category currently at Minimal has completed a CM Scorecard study with internal participants. The resulting score is 4.0 and the success rate is 80%. The product category can move up to Viable as it meets the minimum % pass rate. Even though the resulting 4.0 score is at Loveable level, testing the scenario with external users would be required to move the category further in maturity level. The resulting recommendation is to move the category to Viable.
+- A product category currently at Minimal has completed a CM Scorecard study with internal participants. The resulting score is 4.0 and the success rate is 80%. The product category can move up to Viable as it meets the minimum % pass rate. Even though the resulting 4.0 score is at Competitive level, testing the scenario with external users would be required to move the category further in maturity level. The resulting recommendation is to move the category to Viable.
 - A product category currently at Viable has commpleted a CM Scorecard study with external participants. The resulting score is 3.85, but the success rate is 60%, which is below the minimum % pass rate. In this case the product category won't move up in maturity, and it's recommended to investigate what led to the low success rate.
 
 #### Post-session debriefing

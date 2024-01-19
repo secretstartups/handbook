@@ -28,64 +28,39 @@ We hope it's a good entry point to learn more about who we are and what we do.
 
     We are currently focused on integrating our design system, [Pajamas], into the GitLab product.
 
-    We perform an accessibility audit on each component and make sure that our implementations in
-    [GitLab UI] and [GitLab] match the desired user experience, guidelines, and visual design.
+    We perform an accessibility audit on each component and make sure that our implementations in [GitLab UI] and [GitLab] match the desired user experience, guidelines, and visual design.
 
-    The Foundations team does the preparation work necessary so that other Engineers at GitLab
-    and members from the wider community can help out with these efforts.
+    The Foundations team does the preparation work necessary so that other Engineers at GitLab and members from the wider community can help out with these efforts.
 
-    **Do you want to contribute?** Please see [this issue for a good entry point](https://picker.pajamasmigrationday.com/).
+    **Do you want to contribute?** Please see [the Migration Day Picker for a good entry point](https://picker.pajamasmigrationday.com/).
 
  - **Navigation & Settings** ([Direction Page](https://about.gitlab.com/direction/manage/foundations/navigation_settings/))
- - **GitLab Docs** ([Direction Page](https://about.gitlab.com/direction/manage/foundations/gitlab_docs/))
 
 ## How do we work?
 
 ### Communication
 
-To get in touch with the Foundations team,
-it's best to create an issue in the relevant project (typically [GitLab], [Pajamas] or [GitLab UI]) and
-add the `~"group::foundations"` label, along with any other appropriate labels.
-Then, ping the relevant Product Manager (@cdybenko) and/or Engineering Manager (@samdbeckham).
+To get in touch with the Foundations team, it's best to create an issue in the relevant project (typically [GitLab], [Pajamas] or [GitLab UI]) and add the `~"group::foundations"` label, along with any other appropriate labels.
+Then, ping the relevant Product Manager and/or Engineering Manager (see [team members](#team-members)).
 
 For more urgent items or if you are unsure who to ask, ping `@gitlab-org/manage/foundations` or use [#g_manage_foundations] on Slack (internal only).
 
 ### Capacity Planning
 
 In general, we use the standard GitLab [Product Development Flow](/handbook/product-development-flow/). Here are some specific workflows we use:
-
-#### Planning Breakdown workflow
-
-1. Any issues that need an engineer to give them a weight are given the label `Next Up` by the PM
-   1. Criteria:
-      * PM needs a weight and collaboration with engineering to size the effort
-      * Often these will be labelled `workflow::planning breakdown` but could appear in other workflows if weighting is a topic of conversation
-      * Issue has been checked by Design and has a proposal for moving forward
-      * Ideally one or more releases ahead of development
-1. On a defined interval (`twice a release`), engineers review unweighted  `Next Up` issues:
-   * [Unweighted `Next Up` issues](https://gitlab.com/groups/gitlab-org/-/issues?sort=priority&state=opened&label_name[]=Next+Up&label_name[]=group::foundations&weight=None)
-   * [Weighted `Next up` issues](https://gitlab.com/groups/gitlab-org/-/issues?sort=priority&state=opened&label_name[]=Next+Up&label_name[]=group::foundations&weight=Any)
-   * [All `Next up` issues](https://gitlab.com/groups/gitlab-org/-/issues?sort=priority&state=opened&label_name[]=group::foundations&label_name[]=Next+Up)
-1. Engineering: Write comments and collaborate with Design and Product to understand and get a sense of the complexity of the effort
-1. Engineering: Set the weight in the issue based on the agreed-upon weighting
-1. Engineering: Notify the PM that it has been weighted in a comment
-1. PM: Label the issue `workflow::scheduling` or `workflow::ready for development`, and set its milestone to a specific release, or `Backlog`
-
 #### How we weight issues
 
 We use a Fibonacci scale and in terms of complexity, we use [this table](https://www.scrum.org/resources/blog/practical-fibonacci-beginners-guide-relative-sizing) from Practical Fibonacci.
 
 **Foundations weighting scale:**
 
-- **0 - No effort is required**, or there is some effort required, but there is no business value delivered, so no Points are accumulated for doing the work. An example is a desired behavioral change deriving from the Scrum Retrospective.
-- **1 - Extra small.**  Developers feel they understand most requirements and consider it relatively easy, probably the smallest item in the Sprint and mostly likely completed in one day.
-- **2 - Small.** A little bit of thought, effort, or problem-solving is required, but the Developers have done this a lot, so they have confidence in the requirements. Or, it sounds extra small, but they want to hedge their bet just a bit.
-- **3 - Average.**  Developers have done this a lot; they know what needs to be done. There may be a few extra steps, but that's it. It's doubtful that they will need to research anything.
-- **5 - Large.**  This is complex work, or the Developers don't do this very often. Most Developers will need assistance from someone else on the team. This is probably one of the largest items that can be completed within a Sprint.
-- **8 - Extra Large.**  This is going to take some time and research and probably more than one developer to complete within two weeks. In addition, Developers need to make several assumptions that increase the risk and could affect getting it Done.
-- **13 - Warning!** This is a complex piece of work with a lot of unknowns and requires multiple assumptions to size. It is too much to complete in one Sprint. Instead, split this into multiple items that can be completed independently.
-- **21 - Hazard!**  A "21" or "34" reflects too much complexity to be done within one Sprint. It will need to be refined more. The large size also indicates more risk, assumptions, and dependencies involved to complete this item.
-- **? - Danger!**  As a Developer, we don't want to do this work the way it is currently written. It is very complex and cannot be completed in the timeframe of an iteration or Sprint. Perhaps the requirements are so fuzzy that it's rife with danger.
+- **0 - Little to no effort is required** Something that would be quicker to do than it was to create the issue.
+- **1 - Extra small.**  The engineers feel they understand most requirements and consider it relatively easy, probably the smallest item in the milestone and mostly likely completed in one day.
+- **2 - Small.** A little bit of thought, effort, or problem-solving is required, but the engineers have confidence in the requirements.
+- **3 - Average.**  Engineers have done this a lot; they know what needs to be done. There may be a few extra steps, but that's it.
+- **5 - Large.**  This is complex work, or the engineers don't do this very often. Most engineers will need assistance from someone else on the team. This is probably one of the largest items that can be completed within a milestone.
+- **8 - Extra Large.** This is going to take some time and research and probably more than one engineer to complete within the milestone. At this size, we should be looking at how we can split this into smaller issues/tasks.
+- **13+ - Ludicrous!** This issue is far too complex, large, or under-defined. Anything with a weight of this size should go back to `~workflow::refinement` to be refined and split into more manageable chunks.
 
 
 ## Employee Development

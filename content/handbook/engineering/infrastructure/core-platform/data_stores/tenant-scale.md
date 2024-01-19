@@ -129,7 +129,8 @@ current milestone, check the [development workflow board](https://gitlab.com/gro
 The process primarily follows this:
 - `workflow::ready for design` to signal an issue was ready to begin the design.
 - `workflow::design` designer would use this to signal it was actively being worked on.
-- `workflow::planning breakdown` to signal this was past the design phase and ready to be scheduled.
+- `workflow::refinement` to signal that the design is complete and the issue is ready for engineering input. Please also tag the PM to assign the appropriate milestone for implementation.
+- `workflow::planning breakdown` to signal that the design is complete and is ready to be broken down into sub-issues for implementation. To preserve context and decisions during the design process, where possible, we re-use the design issue by promoting it to an epic, and attach the implementation issues to it. That way, the epic can be used as the SSOT for design, all discussions are in one place, and we don't end up with inconsistencies between the original design issue and the corresponding implementation issue.
 - `workflow::ready for development` to signal it was ready to be worked on for engineering.
 
 ### Development Workflow

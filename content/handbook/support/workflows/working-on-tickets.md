@@ -42,7 +42,7 @@ Through that process you may:
 
    d. If all High priority tickets are addressed, help with Normal or Low priority tickets that are at risk of breaching.
 
-   e. If the next Normal or Low priority ticket to breach is > 4 hours, focus on your NRTs, your group's NRTs, and finally free user tickets (tickets with no SLA).
+   e. If the next Normal or Low priority ticket to breach is > 4 hours, focus on your NRTs, your group's NRTs, including unassigned tickets which have the `Handover Status` field set to `Needs Handover`, and finally free user tickets (tickets with no SLA).
 
    Proceed to
    [ticket assignment](#assigning-tickets)
@@ -144,10 +144,11 @@ seek help as soon as you need it.
 
 #### Pathway for handling tickets handed over from a different region
 
-1. Review the progress of the ticket and check the NRT (Next Response Time) SLA.
+1. Set the text field `Handover Status` to the appropriate value, for example if you are based in the EMEA region set the value to `Handed over to EMEA`. This is to ensure that the ticket will be counted as part of your baseline ticket metrics.
+1. Review the `Handover Ticket Summary` entry of the ticket and check the NRT (Next Response Time) SLA.
    - If you know how to proceed with the ticket:
       - Introduce yourself to the customer, confirm the handover, and provide the next technical response.
-   - If additional research is necessary:
+   - If additional research is necessary prior to providing a technical response:
       - Introduce yourself to the customer and set clear expectations that further research and a review of the existing information is required before providing the next technical response.
 
 ## Providing a first response to a ticket
@@ -206,21 +207,33 @@ needs, and that might save you and the customer time and effort as well.
 
 ## Cross Region handover of tickets and customer calls
 
-Cross Region Handover requests are async by nature, which can make it difficult to find a new assignee. To solve this, we have a form set up in the SGG Slack channels. The form also pings (@ mentions) the manager on-call in the destination region, as the DRI. Their responsibility is to [ensure the ticket gets assigned](/handbook/support/workflows/support_manager-on-call/#expectations-for-support-manager-on-call) the same day in the destination region, in case the group misses it. This ensures we can properly serve our customers.
+Cross Region Handover requests are async by nature, which can make it difficult to find a new assignee.  To address this, follow the documented process below to help expedite the assignment of handover tickets.
 
-In-region handover requests: These can be done synchronous, so it is not necessary to ping the on-call manager pr default.
+### Preparing a ticket for Handover
+
+1. Use the handover macro:
+   - All handover requests, including low-priority situations, should use and complete the new macro named `Handover Ticket Summary`.
+   - Tickets not using the macro will not be considered in an acceptable state for handover acceptance and will be re-assigned to the requestor.
+1. Set the appropriate field in Zendesk:
+   - Zendesk now includes a new form field named `Handover Status`.
+   - All tickets requiring handover should have this field set to `Need Handover`.
+1. Unassign the ticket
+   - Tickets using the macro and having `Handover Status` set to `Need Handover` will appear in the SGG queue under NRT.
+   - Handover tickets should been unassigned, to do this in Zendesk you need to change the `Assignee` field to a non human item (e.g. SGG Maple), you should also ensure that the `SGG` field is set to the corresponding SGG view (e.g. Maple) and the ticket is not in the following states `solved/closed/pending`.
+
 
 ### Using the Cross Region Handover Form
 
-1. Ensure that you add a final comprehensive `internal note` in the ticket, which encompasses your insights on the prior steps taken as well as any recommendations for future actions.
-1. Select a handover form from the `Handovers` folder that is bookmarked at the top of your group's channel. Choose the form (such as `Handover to EMEA`) based on the target region to which you need to handover the ticket.
-1. Fill out all fields (using as much detail as possible for the paragraph fields), then click `Submit`.
-1. A message will post to your group's Slack channel, which will ping the regional group handle as well as CC the on-call manager.
-1. You will also receive a private Slack message with the full details of your form submission. Copy and paste this into an internal note in the ticket. (NOTE: future iteration will incorporate the use of a macro that you will paste this information into).
-1. You can track your request in the `Ticket Handover Tracker` sheet that you will also find in the `Handovers` folder.
-1. Managers and Seniors should periodically review the `Ticket Handover Tracker` sheet to help address any pending requests.
+The existing Handover Form is reserved for high-priority tickets only, this ensures a streamlined process for urgent cases, reducing noise and allowing Support Engineers to handle lower-priority tickets without managerial guidance.
 
-**Until another SE has taken assignment, keep the ticket assigned to yourself and continue to work with the customer.** Be sure to notify the customer that you're working on the transfer.
+1. Ensure that you have followed the steps above in relation to preparing the ticket for handover
+1. Select a handover form from the Handovers folder that is bookmarked at the top of your SGG channel. Choose the form (such as Handover to EMEA) based on the target region to which you need to handover the ticket.
+1. Fill out all fields (using as much detail as possible for the paragraph fields), then click Submit.
+1. A message will post to your group’s Slack channel, which will ping the regional group handle as well as the associated SGG Support Managers.
+1. You will also receive a private Slack message with the full details of your form submission.
+1. You can track your request in the Ticket Handover Tracker sheet that you will also find in the Handovers folder.
+1. Managers and Seniors should periodically review the Ticket Handover Tracker sheet to help address any pending requests.
+
 
 ## Contacting a Customer Success Manager or Account Manager
 

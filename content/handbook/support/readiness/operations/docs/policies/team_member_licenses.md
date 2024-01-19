@@ -4,6 +4,8 @@ description: Support Operations policies page for team member licenses
 canonical_path: "/handbook/support/readiness/operations/docs/policies/team_member_licenses"
 ---
 
+<sup>*Introduced via [support-team-meta#3335](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3335)*</sup>
+
 ## The process
 
 The process for these is:

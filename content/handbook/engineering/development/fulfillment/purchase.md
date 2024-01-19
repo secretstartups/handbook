@@ -11,7 +11,7 @@ The Purchase group manages the [Purchase category](/handbook/product/categories/
 
 ## Team members
 
-{{< team-by-department "Fulfillment:Purchase Team" >}}
+{{< team-by-departments "Fulfillment:Purchase Team" >}}
 
 ## Stable Counterparts
 

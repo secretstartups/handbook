@@ -38,14 +38,14 @@ With the team growth in FY23 and the approved headcount for FY24, the general fo
 
 * Make hiring processes more efficient. (Platform, link to be added)
 * Support career goals of individual team members with the section. (Platform, link to be added)
-* Introduce an effective way to regularly gather feedback from team members, outside of company-level engagement surveys. Use the feedback to ensure continual team improvements. 
+* Introduce an effective way to regularly gather feedback from team members, outside of company-level engagement surveys. Use the feedback to ensure continual team improvements.
 
 ### 2. Prepare self-servicing for stage group teams to enable end-to-end development
 
 The Platforms Section is well positioned to continue working on process, tooling, and systems changes which allow us to continue supporting the company growth. With a number of highly ambitious, and highly impactful projects we are looking to:
 
 * Create a roadmap for new frameworks that will enable individual stage groups to manage their features' lifecycle and ensure that they are reliable and performant. (Delivery and Scalability teams, link to be added)
-* Expand Delivery metrics to provide stage groups with visibility into the frequency, and reliability of deploying and releasing changes to GitLab users (Delivery, link to be added) 
+* Expand Delivery metrics to provide stage groups with visibility into the frequency, and reliability of deploying and releasing changes to GitLab users (Delivery, link to be added)
 * Ensure the preciseness of Error Budgets as a measure of a business desire for GitLab.com reliability and performance. ([Create Performance Indicator for Error Budgets](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/1997))
 
 ### 3. Increase use and accuracy of Platform team metrics, and feed them into enablement processes
@@ -78,20 +78,20 @@ In addition to the `Platforms leads call`, we have some recurring events and rem
 
 The Director of Product and Director of Infrastructure for SaaS Platforms conduct weekly progress reviews. During `Platforms Grand Review`, they review [progress across all groups](https://gitlab.com/groups/gitlab-com/-/epics/2115) with the goals of being informed of progress made, learning about existing blockers, and supporting the team. The review is private streamed to the GitLab Unfiltered channel because the review covers confidential issues. All recordings are made available in the [Platforms Grand Review YouTube Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KqDXSHdlUvPWHOj_Hw8JdQ1).
 
-### Project Management
+### Project and Backlog Management
 
-We use epics and issues to manage our work. [Our project management process](/handbook/engineering/infrastructure/platforms/project-management/) is shared between all teams in SaaS Plaforms. 
+We use epics and issues to manage our work. [Our project management process](/handbook/engineering/infrastructure/platforms/project-management/) is shared between all teams in SaaS Plaforms.
 
 ### Tools
 
 The Platforms section builds and maintains various tools to help deploy, operate and monitor our SaaS platforms. You can view a list of these tools in the [Platforms Tools Index](/handbook/engineering/infrastructure/platforms/tools/).
 
 ### OKR
- 
+
 [OKRs](/handbook/company/okrs/) (or other items outside of projects) that require progress tracking should be updated **every Wednesday**.
 
 
-When writing OKRs, the guidance is that: 
+When writing OKRs, the guidance is that:
 
 * Objective is defined as “**What** do you want to achieve?”
 * Key Results is defined as “How will you know **when** you’ve achieved the objective?”
@@ -143,9 +143,13 @@ with the format below:
 
 After the Retro section is finalized, the OKR can be closed.
 
+### Hiring
+
+[Our hiring process](/handbook/engineering/infrastructure/platforms/hiring/) is shared between all teams in SaaS Plaforms.
+
 ## Platforms Learning Path
 
-All team members are encouraged to schedule time for personal development. The following links may help you get started with Platforms-relevant learning. Please add your own contributions to this list to help others with their personal development. 
+All team members are encouraged to schedule time for personal development. The following links may help you get started with Platforms-relevant learning. Please add your own contributions to this list to help others with their personal development.
 
 ### Learn about Platforms, and the Platforms Groups
 
@@ -160,4 +164,3 @@ All team members are encouraged to schedule time for personal development. The f
 
 1. [Jsonnet tutorial](https://jsonnet.org/learning/tutorial.html)
 2. [GitLab.com running on the Kubernetes platform](/handbook/engineering/infrastructure/production/kubernetes/gitlab-com/)
-

@@ -1,11 +1,11 @@
 ---
 aliases: /handbook/engineering/infrastructure/team/scalability/projections.html
-title: "Scalability:Projections Team"
+title: "Scalability:Projections Team (deprecated)"
 ---
 
-## Projections
+## Projections (deprecated team page)
 
-**This team is deprecated in favour of Scalability:Observability. Handbook updates to follow.**
+**This team is deprecated in favour of [Scalability:Observability](../observability). Handbook updates to follow.**
 
 This team focuses on forecasting & projection systems that enable development engineering to understand
 system growth (planned and unplanned) for their areas of responsibility. Error Budgets and Stage Group Dashboards

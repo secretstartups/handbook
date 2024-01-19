@@ -68,7 +68,7 @@ If a user has submitted multiple requests via the form, apply the `/duplicate` q
 
  <p>It looks like you have submitted multiple requests for the same purpose. </p>
 
- <p>I'm closing this issue in favour of #123, and we will continue processing your request on the other issue.</p>
+ <p>I'm closing this issue in favor of #123, and we will continue processing your request on the other issue.</p>
 
  <p>Regards,</p>
 </details>
@@ -416,3 +416,11 @@ Use this workflow for general question submissions.
 1. If the question is something Support can answer, respond to the user's inquiry.
 1. If needed, engage a Support Manager or the Privacy team for guidance and messaging. You can visit the [#privacy-team_help](https://gitlab.slack.com/archives/C04357HVCJD) Slack channel to ask for help.
 1. Close the issue once the users question(s) have been answered.
+
+### Escalating to the Privacy Team
+
+While processing a request, certain scenarios may arise that necessitate the escalation of the request to the Privacy team. The most common of these scenarios can be found in the [Privacy Escalation Meta Issue](https://gitlab.com/gitlab-com/gdpr-request/-/blob/master/.gitlab/issue_templates/Privacy%20Escalation%20Meta%20Issue.md) template. If a request needs to be escalated to the Privacy team, do the following:
+
+1. Create a new related issue using the [Privacy Escalation Meta Issue](https://gitlab.com/gitlab-com/gdpr-request/-/blob/master/.gitlab/issue_templates/Privacy%20Escalation%20Meta%20Issue.md) template.
+
+If you're ever unsure if a particular scenario requires escalating, reach out to the Privacy team via the `#privacy-team_help` Slack channel.

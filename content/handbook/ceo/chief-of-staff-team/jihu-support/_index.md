@@ -37,6 +37,12 @@ Process to be added below.
 | [Kevin Chu](/handbook/company/team/#kevinchu) | Product DRI |
 | [Lin Jen-Shin](/handbook/company/team/#godfat) | Engineering Facilitator |
 
+### JiHu engineering contact
+
+[MAO Chao](https://gitlab.com/chaomao) is the JiHu engineering contact
+for GitLab Inc. When GitLab Inc makes changes which requires JiHu to also
+change, MAO can help coordinate.
+
 ### Projects
 
 JiHu team projects are located at <https://jihulab.com/gitlab-cn/>. Mirrored projects for `gitlab-org` tooling and compliance checks are available at <https://gitlab.com/gitlab-org/gitlab-jh-mirrors/>.

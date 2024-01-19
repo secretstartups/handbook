@@ -116,31 +116,7 @@ The Staff Red Team Engineer is a [grade 8](/handbook/total-rewards/compensation/
 
 ### Principal Red Team Engineer
 
-This position reports to the [Senior Manager, Threat Management](/job-families/security/security-leadership/#senior-manager-security).
-
-#### Principal Red Team Engineer Job Grade
-
-The Principal Red Team Engineer is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-#### Principal Red Team Engineer Responsibilities
-
-- Includes [Staff-level responsibilities](#staff-red-team-engineer-responsibilities)
-- Solve technical problems of the highest scope, complexity, and ambiguity
-- Guide conversations to remove blockers and encourage collaboration across teams
-- Assist in developing the team and sub-department roadmap and maturity model
-- Teach, mentor, grow, and provide advice to domain experts and individual contributors across the organization
-- Actively pursue the improvement of field applicable knowledge and skills through learning and development opportunities as well as research and experimentation
-- Work with industry peers to discuss Red Team strategies, bringing that knowledge back to GitLab to propose improvements to our own people/process/technologies
-- Maintain an up-to-date understanding of industry offerings from vendors. Create proposals to implement tooling, if and when it makes sense
-- Regularly communicate with the wider GitLab community, via blogs, public speaking, or other methods
-
-#### Principal Red Team Engineer Requirements
-
-- Includes [Staff-level requirements](#staff-red-team-engineer-requirements)
-- Expert knowledge of one or more programming languages including architectural design, tooling, and cloud infrastructure usage
-- Extensive knowledge of offensive cloud security and common vulnerabilities
-- Passion for participation in the security community, demonstrated through published research and community involvement
-- Deep knowledge of the current and emerging security threats that are specifically applicable to the business
+Refer to the "[Principal Security Engineer](../security-engineer/#principal-security-engineer)" description.
 
 ### Manager, Red Team
 

@@ -2372,3 +2372,15 @@ The table below will catalog the list of GitLab.com services, the current SLO de
 | CI Runners | Verify-Runner PM @deastman | The service level indicators used to calculate the Runner Apdex score are (1) the job polling operations from runners via the workhouse HTTP interface and (2) the shared runner queues on GitLab.com, i.e. the % of CI jobs that are picked by for servicing by a GitLab SaaS Shared Runner within 60 seconds | [99.95%](https://gitlab.com/gitlab-com/runbooks/-/blob/1aa2d39562705c1d0fbef75242d42ff43a99eb53/metrics-catalog/services/ci-runners.jsonnet) | The goal for FY22 Q3 is to maintain a monthly SLO score of 99.95% or higher. |
 | Container Registry | Package PM @trizzi | [Apdex](https://en.wikipedia.org/wiki/Apdex) for request latency (time to serve) read requests to the container registry. Thresholds are `satisfied` when under .5 seconds and `tolerated` under 1 second. [Further details available here](https://gitlab.com/gitlab-com/runbooks/-/blob/1aa2d39562705c1d0fbef75242d42ff43a99eb53/metrics-catalog/services/lib/registry-helpers.libsonnet). | [99%](https://gitlab.com/gitlab-com/runbooks/-/blob/1aa2d39562705c1d0fbef75242d42ff43a99eb53/metrics-catalog/services/registry.jsonnet) |  |
 | Package Registry | Package PM @trizzi | Error rate for package read requests to the package registry. The service is available when less than 0.5% of requests return a 5XX error status response. | 99.5% |  |
+
+## Product-Specific People Processes
+
+### Annual Compensation Review
+
+For our upcoming Annnual Compensation Review (ACR) cycle, [this handbook page](https://handbook.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle) should be referenced as SSOT for content and processes related to the program. The timeline below outlines the Product division specific timeline the division will follow to ensure we have an appropriate amount of time to review compensation recommendations at all levels. Aside from the timeline itself, please reference the [ACR handbook page](https://handbook.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle) for additional detail and program information.
+
+- **2024-01-16 @ 5pm PT**: Due date for Managers and Senior Managers to submit slates in Workday
+- **2024-01-22 @ 5pm PT**: Due date for Directors to submit slates in Workday
+- **2024-01-26 @ 5pm PT**: Due date for Senior Directors and VPs to submit slates in Workday
+
+If managers would like to embed additional due dates or touch points within their teams they are free to do so on a team-by-team basis, as long as the overarching due dates are adhered to. Please reach out to your manager or People Business Partner if you have additional questions.

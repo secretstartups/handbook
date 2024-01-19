@@ -124,32 +124,38 @@ broken pipelines, deployments, etc.
 
 | Category                | Type | Support Project | Sync Project |
 |-------------------------|:----:|-----------------|--------------|
-| Apps                    | v1   | N/A | [support/support-ops/zendesk-global/zendesk-apps](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps) |
 | Account Settings        | v2   | N/A | [zendesk-global/account-settings](https://gitlab.com/gitlab-support-readiness/zendesk-global/account-settings)
-| Agents                  | v1   | N/A | [support/support-ops/zendesk-global/articles](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/agents) |
+| Agents                  | v2   | N/A | [zendesk-global/users/agents](https://gitlab.com/gitlab-support-readiness/zendesk-global/users/agents) |
+| Apps                    | v2   | N/A | [zendesk-global/apps](https://gitlab.com/gitlab-support-readiness/zendesk-global/apps) |
 | Articles                | v2   | N/A | [zendesk-global/articles](https://gitlab.com/gitlab-support-readiness/zendesk-global/articles) |
 | Automations             | v2   | [zendesk-global/automations](https://gitlab.com/gitlab-com/support/zendesk-global/automations) | [zendesk-global/automations](https://gitlab.com/gitlab-support-readiness/zendesk-global/automations) |
-| Macros                  | v1   | N/A | [support/support-ops/zendesk-global/macros](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros) |
+| Groups                  | v2   | N/A | [zendesk-global/groups](https://gitlab.com/gitlab-support-readiness/zendesk-global/groups) |
+| Macros                  | v2   | [zendesk-global/macros](https://gitlab.com/gitlab-com/support/zendesk-global/macros) | [zendesk-global/macros](https://gitlab.com/gitlab-support-readiness/zendesk-global/macros) |
 | Organization Fields     | v2   | N/A | [zendesk-global/organizations/fields](https://gitlab.com/gitlab-support-readiness/zendesk-global/organizations/fields) |
 | SLA Policies            | v2   | N/A | [zendesk-global/sla-policies](https://gitlab.com/gitlab-support-readiness/zendesk-global/sla-policies) |
 | Ticket Forms and Fields | v2   | N/A | [zendesk-global/tickets/forms-and-fields](https://gitlab.com/gitlab-support-readiness/zendesk-global/tickets/forms-and-fields) |
 | Triggers                | v2   | [zendesk-global/triggers](https://gitlab.com/gitlab-com/support/zendesk-global/triggers) | [zendesk-global/triggers](https://gitlab.com/gitlab-support-readiness/zendesk-global/triggers) |
 | User Fields             | v2   | N/A | [zendesk-global/users/fields](https://gitlab.com/gitlab-support-readiness/zendesk-global/users/fields) |
 | User Roles              | v2   | N/A | [zendesk-global/users/roles](https://gitlab.com/gitlab-support-readiness/zendesk-global/users/roles) |
-| Views                   | v2   | N/A | [zendesk-global/views](https://gitlab.com/gitlab-support-readiness/zendesk-global/views) |
-| ZD <> SFDC Sync         | v1   | N/A | [support/support-ops/zendesk-global/zd-sfdc-sync-global](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zd-sfdc-sync-global) |
+| Views                   | v2   | [zendesk-global/views](https://gitlab.com/gitlab-com/support/zendesk-global/views) | [zendesk-global/views](https://gitlab.com/gitlab-support-readiness/zendesk-global/views) |
+| ZD <> SFDC Sync         | v2   | N/A | [zendesk-global/zendesk-salesforce-sync](https://gitlab.com/gitlab-support-readiness/zendesk-global/zendesk-salesforce-sync) |
 
 ## Zendesk US Federal
 
-| Category        | Type | Support Project | Sync Project |
-|-----------------|:----:|-----------------|--------------|
-| Agents          | v1   | N/A | [support/support-ops/zendesk-us-federal/agents](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/agents) |
-| Articles        | N/A  | N/A | N/A |
-| Automations     | v1   | N/A | [support/support-ops/zendesk-us-federal/automations](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/automations) |
-| Macros          | v1   | N/A | [support/support-ops/zendesk-us-federal/macros](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/macros) |
-| SLA Policies    | N/A  | N/A | N/A |
-| Ticket Fields   | v1   | N/A | [support/support-ops/zendesk-us-federal/ticket-forms-and-fields](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/ticket-forms-and-fields) |
-| Ticket Forms    | v1   | N/A | [support/support-ops/zendesk-us-federal/ticket-forms-and-fields](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/ticket-forms-and-fields) |
-| Triggers        | v1   | N/A | [support/support-ops/zendesk-us-federal/triggers](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/triggers) |
-| Views           | v1   | N/A | [support/support-ops/zendesk-us-federal/views](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/views) |
-| ZD <> SFDC Sync | v1   | N/A | [support/support-ops/zendesk-us-federal/zd-sfdc-sync-us-federal](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/zd-sfdc-sync-us-federal) |
+| Category                | Type | Support Project | Sync Project |
+|-------------------------|:----:|-----------------|--------------|
+| Account Settings        | v2   | N/A | [zendesk-us-government/account-settings](https://gitlab.com/gitlab-support-readiness/zendesk-us-government/account-settings) |
+| Agents                  | v2   | N/A | [zendesk-us-government/users/agents](https://gitlab.com/gitlab-support-readiness/zendesk-us-government/users/agents) |
+| Apps                    | v2   | N/A | [zendesk-us-government/apps](https://gitlab.com/gitlab-support-readiness/zendesk-us-government/apps) |
+| Articles                | v2   | N/A | [zendesk-us-government/articles](https://gitlab.com/gitlab-support-readiness/zendesk-us-government/articles) |
+| Automations             | v2   | [zendesk-us-government/automations](https://gitlab.com/gitlab-com/support/zendesk-us-government/automations) | [zendesk-us-government/automations](https://gitlab.com/gitlab-support-readiness/zendesk-us-government/automations) |
+| Groups                  | v2   | N/A | [zendesk-us-government/groups](https://gitlab.com/gitlab-support-readiness/zendesk-us-government/groups) |
+| Macros                  | v2   | [zendesk-us-government/macros](https://gitlab.com/gitlab-com/support/zendesk-us-government/macros) | [zendesk-us-government/macros](https://gitlab.com/gitlab-support-readiness/zendesk-us-government/macros) |
+| Organization Fields     | v2   | N/A | [zendesk-us-government/organizations/fields](https://gitlab.com/gitlab-support-readiness/zendesk-us-government/organizations/fields) |
+| SLA Policies            | v2   | N/A | [zendesk-us-government/sla-policies](https://gitlab.com/gitlab-support-readiness/zendesk-us-government/sla-policies) |
+| Ticket Forms and Fields | v2   | N/A | [zendesk-us-government/tickets/forms-and-fields](https://gitlab.com/gitlab-support-readiness/zendesk-us-government/tickets/forms-and-fields) |
+| Triggers                | v2   | [zendesk-us-government/triggers](https://gitlab.com/gitlab-com/support/zendesk-us-government/triggers) | [zendesk-us-government/triggers](https://gitlab.com/gitlab-support-readiness/zendesk-us-government/triggers) |
+| User Fields             | v2   | N/A | [zendesk-us-government/users/fields](https://gitlab.com/gitlab-support-readiness/zendesk-us-government/users/fields) |
+| User Roles              | v2   | N/A | [zendesk-us-government/users/roles](https://gitlab.com/gitlab-support-readiness/zendesk-us-government/users/roles) |
+| Views                   | v2   | [zendesk-us-government/views](https://gitlab.com/gitlab-com/support/zendesk-us-government/views) | [zendesk-us-government/views](https://gitlab.com/gitlab-support-readiness/zendesk-us-government/views) |
+| ZD <> SFDC Sync         | v2   | N/A | [zendesk-us-government/zendesk-salesforce-sync](https://gitlab.com/gitlab-support-readiness/zendesk-us-government/zendesk-salesforce-sync) |

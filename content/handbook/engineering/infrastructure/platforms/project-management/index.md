@@ -3,13 +3,6 @@
 title: "The Infrastructure SaaS Platforms Project Management"
 ---
 
-
-
-
-
-
-
-
 ## Project Management in SaaS Platforms
 
 We use GitLab epics and issues to communicate the progress and status of our work. 
@@ -27,6 +20,85 @@ This enables other engineers and other managers to have good information about p
 Completed epics should remain "Open" with the ~"workflow-infra::In Progress" label. 
 Update the status block in the epic description to summarize the project and share the completed status. 
 Completed epics will be reviewed, celebrated, and updated to closed in the next [`Platforms Grand Review`](https://www.youtube.com/playlist?list=PL05JrBw4t0KqDXSHdlUvPWHOj_Hw8JdQ1) (Playlist accessible using GitLab Unfiltered account). 
+
+## Epics
+
+Epics must always have the following sections:
+
+- A Problem Statement
+- Directly responsible individuals (DRI) responsible for the project completion
+- Defined exit criteria
+- Issue admin section to provide the issue priority, labels and epic for quick actions
+- Development Log, containing the previous Status Updates and any other relevant infromation to log
+- Status Update, with the latest status update of the Epic
+- Start date and estimated due date
+
+### Sections format
+
+We use automation that relies on the presence of following headings and structure in the Epic description:
+
+#### DRI Section
+
+```
+### DRI
+
+@user
+```
+
+#### Participants Section
+
+This section is dynamic and includes people who are currently contributing to the Epic work.
+The DRI and the EM are responsible for updating the list of participants accordingly.
+
+```
+### Participants
+
+- @participant1
+- @participant2
+- @participantN
+```
+
+#### Development Log
+
+This section contains the previous Status Updates. At least, it is updated everytime the DRI updates the Status Section.
+
+```
+### Development Log
+
+<details>
+
+<details> 
+<summary>(Previous) Status YYYY-MM-DD</summary> 
+
+
+</details>
+
+</details>
+```
+
+#### Status Section
+
+```
+### Status YYYY-MM-DD
+
+<Updates about the project at the YYYY-MM-DD>
+```
+
+### Should this be an issue or an epic?
+
+We use epics to show that a set of work can be combined under one theme to meet a specific goal or lead to a specific impact. 
+Epics can cover any set of work that is likely to take longer than two weeks, or has already been running for longer than two weeks. 
+We can then report on our progress towards that goal regularly and clearly demonstrate the impact of our work when we are finished.  
+
+## Specific Issue Types
+
+### Corrective Actions and Security issues
+
+We also work on corrective actions and security issues labeled as `~"corrective action"` or `~"security"`.
+For these issues, `severity::*` labels are set to meet specific SLOs.
+
+- For security issue see the [Time to resolve table by severity](/handbook/security/#severity-and-priority-labels-on-security-issues)
+- Corrective Actions SLOs are currently based on definitions from [Quality](/handbook/engineering/quality/issue-triage/#severity-slos):
 
 ## Labels
 

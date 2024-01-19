@@ -20,7 +20,7 @@ GitLab offers a benefits package that provides health and financial security for
 - Review the [2024 US Benefits Guide](https://drive.google.com/file/d/1KTgW9U2ByTBHRrjNg623K6DY3-_pKsUD/view?usp=sharing) for full plan details and plan rates. - Candidates and New hires who are about to start with GitLab can view this document by clicking on the link and requesting access, access will be granted shortly after request.
 - Watch the [2024 Benefits Video](https://www.brainshark.com/1/player/willis?pi=zGdz14BY3EzaInCz0&r3f1=&fb=0)
 - Need help selecting a plan? Check out the [PlanSelect Tool](https://myplanselect.com/navigation/Gitlab/2022) to help you find a plan that best suits your needs. You can also reach out to the [Cigna One Guide Service](https://drive.google.com/file/d/1eIvtYtYPSt3Q0h-Byd16CFFfT0bxv8yF/view?usp=sharing) to walk through the GitLab Cigna plans available.
-- GitLab offers Mental Wellnesss Services through [Modern Health](/handbook/total-rewards/benefits/modern-health/). In addition to these services, team members that enroll in the Cigna and Kaiser plans have access to their network of [Mental Health Programs and Resources](https://drive.google.com/file/d/1LT_LG1Px3xrGMBP0-iMPXaFyQvopfSiL/view?usp=sharing)
+- GitLab offers Mental Wellness Services through [Modern Health](/handbook/total-rewards/benefits/modern-health/). In addition to these services, team members that enroll in the Cigna and Kaiser plans have access to their network of [Mental Health Programs and Resources](https://drive.google.com/file/d/1LT_LG1Px3xrGMBP0-iMPXaFyQvopfSiL/view?usp=sharing)
 - Please review the most recent [Summary of Material Modifications](https://drive.google.com/file/d/1_j61NVNqUQ0A4RBWM3ihooRuf094QdWr/view?usp=sharing) from Jan 1, 2022. Please review the [2024 Annual Rights and Notices](https://drive.google.com/file/d/1fB5r88VUiydWz3pFk76DFK3h5DTyVaDw/view?usp=sharing)
 - [Transparency in Coverage](https://www.cigna.com/legal/compliance/machine-readable-files) Starting July 1, 2022, this link leads to the machine readable files that are made available in response to the federal Transparency in Coverage Rule and includes negotiated service rates and out-of-network allowed amounts between health plans and healthcare providers. The machine-readable files are formatted to allow researchers, regulators, and application developers to more easily access and analyze data
 
@@ -44,13 +44,13 @@ Team Members can find Archived benefit plans, details, and open enrollment for p
 
 - For a full list of carrier contacts please see the [Benefit Mobile Wallet Card](https://mymobilewalletcard.com/gitlab/)
 - For benefit inquiries and assistance with any claims escalations: WTW Benefits Helpline `877-409-9288` or `GitLab@willistowerswatson.com`
-- For support with the PlanSource system: `total-rewards@ gitlab`
+- For support with the PlanSource system: `total-rewards@ gitlab.com`
 - For questions regarding internal policies, etc. 401k, : `total-rewards@ gitlab.com`
 
 
 ### ID Cards
 
-Cigna will be moving from Physical to Digital ID cards. Team members can request a physical medical card on mycigna.com. Please allow up to two weeks for ID cards to generate after completing your enrollment.
+Cigna has moved from Physical to Digital ID cards. Team members can request a physical medical card on mycigna.com. Please allow up to two weeks for ID cards to generate after completing your enrollment.
 
 
 Kaiser cards will be mailed within 3 weeks of submitting your benefit elections.
@@ -170,7 +170,7 @@ In Network:
 | Rx Plan^                   | [2024 Standard 3-tier](https://drive.google.com/file/d/1yFWmDQFreGvjmUSmSTK9YKfb-1s_UaJ7/view?usp=sharing) | [2024 Standard 3-tier](https://drive.google.com/file/d/1yFWmDQFreGvjmUSmSTK9YKfb-1s_UaJ7/view?usp=sharing) | [2024 Standard 3-tier](https://drive.google.com/file/d/1yFWmDQFreGvjmUSmSTK9YKfb-1s_UaJ7/view?usp=sharing)  |
 | Summary Plan Descriptions  | [2024 HDHP](https://drive.google.com/file/d/1N80QyfcQuJhBpSmEXEVXlK0af_4qziGE/view?usp=sharing)| [2024 EPO](https://drive.google.com/file/d/12VZeqYPUlh2m8UWanEOGT3WroQsotuXh/view?usp=sharing)   |   [2024 PPO](https://drive.google.com/file/d/18GAbC5h1Rr2iC1RjNG_8Y-tWbh2IwH7q/view?usp=sharing) <BR> [2024 PPO UTAH](https://drive.google.com/file/d/1b-fmCiwDungC9qgDoWeQAqm8gqEr2BX1/view?usp=sharing) |
 
-\*\* In order for the EPO plan to be compliant in all states, it has been set up as a PPO plan with bad out-of-networks benefits including a deductible of $10k/$20k, an Out of Pocket Max of $20k/$40k, and a coinsurance of 50%. **Please do not enroll in this plan if you are intending to use the out-of-networks benefits and instead review the Cigna PPO 500 or Cigna HSA plans.**. Please note that there is no inertility cover under the EPO plan as well, [see here](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#cigna-infertility-services) for more details on the infertility benefits.
+\*\* In order for the EPO plan to be compliant in all states, it has been set up as a PPO plan with bad out-of-networks benefits including a deductible of $10k/$20k, an Out of Pocket Max of $20k/$40k, and a coinsurance of 50%. **Please do not enroll in this plan if you are intending to use the out-of-networks benefits and instead review the Cigna PPO 500 or Cigna HSA plans.**. Please note that there is no infertility covered under the EPO plan as well, [see here](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#cigna-infertility-services) for more details on the infertility benefits.
 
 \*\*\* Cigna will provide an extended network PPO Plan for Utah team members which will include the Intermountain Healthcare System.
 
@@ -315,7 +315,7 @@ For out-of-network services: 365 days from Date of Service.
 
 ##### Kaiser Infertility Services
 
-Kaiser California are covered for infertility services at 50% co-insurance. Coverage includes services for diagnosis and treatment of infertility. Coverage does not include conception by artificial means (IVF/GIFT/ZIFT/etc). Please check with the WTW Benefits Helpline `877-409-9288` or `GitLab@willistowerswatson.com` for more information.
+Kaiser California is covered for infertility services at 50% co-insurance. Coverage includes services for diagnosis and treatment of infertility. Coverage does not include conception by artificial means (IVF/GIFT/ZIFT/etc). Please check with the WTW Benefits Helpline `877-409-9288` or `GitLab@willistowerswatson.com` for more information.
 
 Kaiser Hawaii Plan members are covered for an infertility consultation and certain In Vitro Fertilization (IVF) procedures. More information on the Infertility services for Hawaii Kaiser members can be found on the [2024 Hawaii Health Plan](TBD ).
 
@@ -331,7 +331,7 @@ You may need a [reasonable accommodation]({{< ref "inc-usa#reasonable-accommodat
 
 ### Dental
 
-Dental is provided by Cigna, plan: DPPO. Effective 2024-01-01 GitLab will offer a Base and Buy-Up Dental Plans
+Dental is provided by Cigna, plan: DPPO. Effective 2024-01-01 GitLab offers a Base and Buy-Up Dental Plans
 
 Dental does not come with individualized insurance cards from Cigna, although you can download them by setting up a Cigna account through the [Cigna website](https://my.cigna.com). Cigna's site and app will house individualized ID cards team members can access at any time. For the most part, dental providers do not request or require ID cards as they look up insurance through your social security number. If you need additional information for a claim please let the [WTW](inc-benefits-us/#who-to-contact) know. Cigna'a mailing address is PO Box 188037 Chattanooga, TN, 37422 and the direct phone number is 800-244-6224.
 
@@ -375,9 +375,9 @@ For out-of-network services: 365 days from Date of Service.
 
 ### Vision
 
-Vision is provided by Cigna. Effective 2024-01-01 GitLab will offer a Base and Buy-Up Vision Plans
+Vision is provided by Cigna. Effective 2024-01-01 GitLab offers a Base and Buy-Up Vision Plans
 
-Effective 2023-01-01 Cigna will be partnering with EyeMed for their vision plans, you can check coverage details on mycigna.com
+Cigna has partnered with EyeMed for their vision plan offerings, you can check coverage details on mycigna.com
 
 
 When submitting a claim, you can mail it to Cigna Vision PO Box 385018 Birmingham, AL 35238 or submit it online using the following instructions:
@@ -426,7 +426,7 @@ For out-of-network services: 365 days from Date of Service.
 
 ### Basic Life Insurance and AD&D
 
-GitLab offers company paid basic life and accidental death and dismemberment (AD&D) plans through Cigna which is a subsidiary of New York Life. The Company pays for basic life insurance coverage valued at two times annual base salary with a maximum benefit of $500,000, which includes an equal amount of AD&D coverage. Please find addtional details, limitations, and exclusions on the [summary of benefits](https://drive.google.com/file/d/1rkA8n3zgZvnoiqzu3ZJuLwZ_9zMaNbZW/view?usp=sharing).
+GitLab offers company paid basic life and accidental death and dismemberment (AD&D) plans through Cigna which is a subsidiary of New York Life. The Company pays for basic life insurance coverage valued at two times annual base salary with a maximum benefit of $500,000, which includes an equal amount of AD&D coverage. Please find additional details, limitations, and exclusions on the [summary of benefits](https://drive.google.com/file/d/1rkA8n3zgZvnoiqzu3ZJuLwZ_9zMaNbZW/view?usp=sharing).
 
 #### Employee Assistance Program
 
@@ -447,7 +447,7 @@ Short-term disability insurance has a 7-calendar day waiting period before payme
 
 **GitLab Process for Disability Claim**
 
-1. Team Members unable to work due to disability, as defined by the applicable short-term disability plan, should contact the Absence Management team (leaves@gitlab.com) as soon as possible.  See [Sick Time reporting proceedures in the US]({{< ref "paid-time-off#sick-time-procedures---usa" >}}).
+1. Team Members unable to work due to disability, as defined by the applicable short-term disability plan, should contact the Absence Management team (leaves@gitlab.com) as soon as possible.  See [Sick Time reporting procedures in the US]({{< ref "paid-time-off#sick-time-procedures---usa" >}}).
 1. The Absence Management team will complete the Employer portion of the the [Short-Term disability](https://drive.google.com/file/d/1guydUTEc0vBFMaa_IsSktZ5hXAbOXdvD/view?usp=sharing) application and email the completed portion along with the [Assignment of Benefits](https://drive.google.com/file/d/1nd0r5qj9PS21HDFH97Jbft9dZzlpTOsr/view?usp=sharing) form.
 1. At the end of the maximum benefit period for short-term disability of 12 weeks, the team member will determine whether they are able to return back to work.
    - If the team member intends to return on or before the end of the 12 weeks, they should email leaves@gitlab.com a Return to Work authorization form from their physician stating that they are able to return to work and listing any accommodations needed, if applicable, at least 5 calendar days before their return date. The Absence Management team will request this at least 5 business days before the team member's anticipated return to work date if not already provided by the team member.
@@ -521,7 +521,7 @@ For more details and steps on how to enroll please see the [MetLife Pet Insuranc
 
 ## 529 Savings Plans
 
-Coming in 2024, GitLab will offer access to 529 plan investments to US team members so that you can use tax-advantaged savings for your child’s future education expenses.
+Effective 2024, GitLab offers access to 529 plan investments to US team members so that you can use tax-advantaged savings for your child’s future education expenses.
 
 - Support your financial goals for you and your family
 - ScholarShare 529 Workplace Savings is a direct deposit program that can make it easy for you and them
@@ -531,11 +531,17 @@ Coming in 2024, GitLab will offer access to 529 plan investments to US team memb
 
 To learn more visit ScholarShare529.com/employer or email: workplace529@scholarshare.com
 
-More details and links will be provided by the program launch, 2024-01-01.
+Enroll anytime at [ScholarShare529](https://www.ScholarShare529.com) or call 800-544-5248.
+[ScholarShare Flyer Guide](https://drive.google.com/file/d/1D3k31fDxkeks7XigTa_Cn0_itIYoQW1A/view?usp=sharing) & [529 Overview](https://drive.google.com/file/d/1GXAdVLVJLsruj-2s9twpQ3p1c6CzOAFn/view?usp=sharing).  
+
+Want more information?
+• Register for one of our live and interactive [webinars](https://www.scholarshare529.com/events) that fits your schedule, hosted monthly.
+• [Schedule a consultation](https://www.scholarshare529.com/appointments) with a 529 specialist.
+• Rollover an existing 529 into your ScholarShare 529 account. [Schedule an appointment](https://www.scholarshare529.com/appointments) to have a consultant assist you.
 
 ## Student Loan Guidance & Tools
 
-Coming in 2024, GitLab will offer a student loan guidance products, tools, and expert consultation services through SoFi.
+GitLab offers a student loan guidance products, tools, and expert consultation services through SoFi.
 
 GitLab has partnered with Sofi to offer student loan guidance services, discounts & perks, and financial well-being products with SoFi:
 - A central location for team members to focus on financial well-being
@@ -544,7 +550,14 @@ GitLab has partnered with Sofi to offer student loan guidance services, discount
 - Delivers impactful discounts, preferred pricing, and exclusive offers on SoFi’s award-winning financial products
 - Arm yourself with knowledge on your journey to financial independence with access to Sofi’s financial library, tools, and resources
 
-More details and links will be provided by 2024-01-01
+Enroll anytime at [SoFi.com/GitLab](sofi.com/gitlab)
+[GitLab SoFi Flyer](https://drive.google.com/file/d/1kKZXeqwY96cHE4QpjrWjONSawwe-rkIf/view?usp=sharing)
+You’re eligible for an exclusive 0.25% rate discount* when you refinance your student loans through SoFi.com/GitLab, plus you could save big by locking in a lower rate.
+
+Refi with SoFi and you could
+- Save thousands with the member rate discount.
+- Lower your monthly payments or pay off your debt sooner with flexible terms.
+- No fees.
 
 ## 401k Plan
 
@@ -554,7 +567,7 @@ The company offers a 401k plan in which you may make voluntary pre-tax contribut
 
 1. You are eligible to participate in GitLab’s 401k as of your hire date. There is no auto-enrollment. You must actively elect your deductions.
 1. You will receive an invitation to register for access to your account on Fidelity [NetBenefits](https://www.netbenefits.com) who is GitLab's plan recordkeeper. For more information about Fidelity, please check out this [Brainshark video](https://www.brainshark.com/1/player/fidelityemg?fb=0&r3f1=&custom=gitlab).
-1. Any changes to your plan information will be effective on the next available payroll.
+1. Any changes to your plan information will be effective within 2 payroll cycles (typically updated within 1 payroll cycle, depending on when the change is made and cut-off changes dates).
 1. Once inside the platform you may elect your annual/pay-period contributions and investments.
 1. If you have any questions about making changes to your elections, we recommend that you reach out to Fidelity directly, by chat in the app, or by phone at 800-835-5097.
 1. Please review the [Summary Plan Document](https://drive.google.com/file/d/1I8JrLhxBH7rGBjfztsRyrjdhQXINQpBe/view?usp=sharing), [QDIA](https://drive.google.com/file/d/1dYIe2NRFCNeOY843KfSyMUhJiLuGGTXg/view?usp=sharing), [Fee Disclosure](https://drive.google.com/file/d/138hjLkXsQ0tdCCqoC-iWnaydkl33GdLn/view?usp=sharing). If you have any questions about the plan or the documents, please reach out to Total Rewards at `total-rewards@gitlab.com`. Total Rewards is not able to advise you on your financial decisions.
@@ -563,7 +576,7 @@ The company offers a 401k plan in which you may make voluntary pre-tax contribut
 
 ### 401(k) Match
 
-GitLab offers matching 50% of contributions on the first 6% of allocated gross earnings per pay period with a yearly cap of $1,500 USD. If a hypothetical team members salary is $50,000 USD, their gross pay per period is $50,000 / 24 = $2083.33. This is then matched at a rate of $2083.33 \* 6% \* 50% = $62.50.
+GitLab offers matching 50% of contributions on the first 6% of allocated gross earnings per pay period with a yearly cap of $1,500 USD. If a hypothetical team member's salary is $50,000 USD, their gross pay per period is $50,000 / 24 = $2083.33. This is then matched at a rate of $2083.33 \* 6% \* 50% = $62.50.
 
 As of 1 August, 2022 GitLab has removed the vesting schedule for the employer match. All prior employer match amounts have fully vested as of 1 August, 2022, new employer match contributions will automatically vest when received.
 
@@ -576,7 +589,8 @@ All employer contributions are pre-tax contributions. Team members can still mak
 - The employer will use the calculation on each check date effective as of January 1, 2019.
 - The team member must have a contribution for a check date to be eligible for the employer match.
 - Employer matching will be released into participant accounts three business days after the check date.
-- For team members who defer more than 6% on each check date, an annual true-up will be conduct after calendar year end.
+- For team members who defer more than 6% on each check date, an annual true-up will be conducted after calendar year end.
+- The 401(k) match runs calendar year.
 
 ### 401(k) Rollover
 
@@ -630,7 +644,7 @@ Your HSA account allows you to set aside money on a pre-tax basis to pay for qua
 Your HSA contributions go into your account before taxes. The money you save to your HSA lowers your taxable income – so you may pay less in taxes.
 Money in your HSA account earns tax-free interest.
 Any unused HSA funds roll over to the next year.  The money is yours forever. It doesn’t expire.
-You can spend your HSA dollars on eligible health care expenses, or save and investment them for the future.
+You can spend your HSA dollars on eligible health care expenses, or save and invest them for the future.
 Once your HSA account hits a certain balance, you can invest a portion of your HSA balance in mutual funds, stocks and bonds.
 You can use your HSA to save for retirement. At age 65, you can use the funds for any purpose without a penalty. The money you take out to pay for eligible health care expenses continues to be tax free. You also can take money out for other reasons without paying a penalty.
 
@@ -734,7 +748,8 @@ If you leave GitLab, all supplemental life insurance is not included in COBRA an
 
 ### PerkSpot
 
-Coming in 2024, GitLab has partnered with PerkSpot: a new discount platform providing Team Members with discounts on over 10,000 brands, including electronics, home goods, mortgages, travel, and more.
+GitLab has partnered with PerkSpot: a new discount platform providing Team Members with discounts on over 10,000 brands and more than 25 different categories, including electronics, home goods, mortgages, travel, and more.
+This discount platform is offered at no cost to you.
 
 PerkSpot is a one-stop shop for thousands of exclusive discounts and in more than 25 different areas of interest:
 - Quick Links – section that allows you to access various resources to locate savings
@@ -742,7 +757,13 @@ PerkSpot is a one-stop shop for thousands of exclusive discounts and in more tha
 - Interests – ability to select what your interests are and narrow, search
 - Brands review – search for the Brands you’re looking for using the PerkSpot Brands tab and narrowing your discount search
 
-More details and links will be provided by 2024-01-01.
+You can enroll anytime at
+[gitlab.perkspot.com](https://gitlab.perkspot.com)
+- Click on "Create Your Account"
+- [Using Access Code](https://docs.google.com/document/d/1gWhxyWgqxdHA8LskuG93FiFXFJhA7TNWwu3MDifjyQ4/edit)
+
+PerkSpot [Overview Flyer](https://drive.google.com/file/d/1k0CsjErpcy4DUXqmOq3BYe8fHAC02t0B/view?usp=sharing)
+If you have any questions on discounts or the PerkSpot platform,please reach out to cs@perkspot.com or 866-606-6057.
 
 ### LifeMart through ADP
 
@@ -788,7 +809,7 @@ To learn more about State-specific leave laws, please visit the [Leave of Absenc
 
 **Medical**
 
-| Tier                           | Cigna EPO | Cigna HDPHP HSA  |  Cigna PPO   | Kaiser HMO NorCal | Kaiser HMO SoCal | Kaiser HMO HI |
+| Tier                           | Cigna EPO | Cigna HDHP HSA  |  Cigna PPO   | Kaiser HMO NorCal | Kaiser HMO SoCal | Kaiser HMO HI |
 |--------------------------------|:---------:|:-------------:|:----------:|:-----------------:|:----------------:|:------------:|
 | Team Member Only               | $900.90 |   $611.85    | $868.89   |     $691.58   |     $691.58   |    $497.20    |
 | Team Member + Domestic Partner | $1,964.09 |   $1,331.95  | $1,894.16 |  $1,597.06     |     $1,597.06 |     $994.40  |

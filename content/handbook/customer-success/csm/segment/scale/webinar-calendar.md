@@ -21,40 +21,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### AMER Time Zone Webinars & Labs
 
-#### Intro to GitLab
-##### January 9th, 2024 at 9:00-10:00AM Pacific Time / 1:00-2:00PM Eastern Time
-
-Are you new to GitLab? Join this webinar, where we will review what GitLab is, how it benefits you, and the recommended workflow to allow you to get the most out of the platform.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_J6u0UraeSESGFqjkqNyccg#/registration)
-
-#### Hands-On GitLab CI Lab 
-##### January 10th, 2023 at 9:00-10:30AM Pacific Time / 12:00-1:30PM Eastern Time
-
-Join us for a hands-on GitLab CI lab and learn how it can fit in your organization!
-
-Learn how to build simple GitLab pipelines and work up to more advanced pipeline structures and workflows, including security scanning and compliance enforcement.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_u_CBtGNhQxOfHfCcu_HtrA#/registration)
-
-#### Intro to CI/CD
-##### January 16th, 2024 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
-
-Come learn about what CI/CD is and how it can benefit your team. We will cover an overview of CI/CD and what it looks like in GitLab. We will also cover how to get started with your first CI/CD pipeline in GitLab and the basics of GitLab Runners.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_soWVm-TSQdOsqfBxI-s56g#/registration)
-
-#### Hands-On GitLab CI Lab for Jenkins Users
-##### January 17th, 2023 at 9:00-11:00AM Pacific Time / 12:00-2:00PM Eastern Time
-
-Join us for a hands-on GitLab CI lab and learn how it can fit in your organization!
-
-We will kick things off by going over the differences between CI/CD in Jenkins and GitLab, syntax requirements, advantages to using GitLab, and how you can achieve the same outcomes in GitLab. Getting started with CI/CD in GitLab will take a lot less time than tends to be required for Jenkins, and your users can stay in a single platform. 
-
-We will then dive into how to build simple GitLab pipelines and work up to more advanced pipeline structures and workflows, including security scanning and compliance enforcement.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_RIbcenwkSuaVtDcmsABbdQ#/registration)
-
 #### GitLab Runner Fundamentals and What You Need to Know
 ##### January 19th, 2024 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
 
@@ -95,7 +61,7 @@ GitLab offers robust team planning capabilities that work directly with the DevO
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_zJJpJoOZTDqoAjeGpio_NQ#/registration)
 
 #### AI in DevSecOps - GitLab Hands-On Lab
-##### December 31st, 2023 at 9:00-10:30AM Pacific Time / 12:00-1:30PM Eastern Time
+##### January 31st, 2023 at 9:00-10:30AM Pacific Time / 12:00-1:30PM Eastern Time
 
 Join us for a hands-on GitLab AI lab where we will explore Artificial Intelligence and how it fits within the DevSecOps lifecycle. In this session, we will cover foundational implementation and use case scenarios such as Code Suggestions and Vulnerability Explanations.
 
@@ -103,40 +69,6 @@ Join us for a hands-on GitLab AI lab where we will explore Artificial Intelligen
 
 
 ### EMEA Time Zone Webinars & Labs
-
-#### Intro to GitLab
-##### January 9th, 2024 at 10:00-11:00AM UTC / 11:00AM-12:00PM CET
-
-Are you new to GitLab? Join this webinar, where we will review what GitLab is, how it benefits you, and the recommended workflow to allow you to get the most out of the platform.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_MDTjG0rJTF-rukCbPlqVDA#/registration)
-
-#### Hands-On GitLab CI Lab 
-##### DecembJanuary 10th, 2023 at 10:00-11:30AM UTC / 11:00AM-12:30PM CET
-
-Join us for a hands-on GitLab CI lab and learn how it can fit in your organization!
-
-Learn how to build simple GitLab pipelines and work up to more advanced pipeline structures and workflows, including security scanning and compliance enforcement.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_c8z6pC12SK6TiZvIR-Nv3g#/registration)
-
-#### Intro to CI/CD
-##### January 16th, 2024 at 10:00-11:00AM UTC / 11:00AM-12:00PM CET
-
-Come learn about what CI/CD is and how it can benefit your team. We will cover an overview of CI/CD and what it looks like in GitLab. We will also cover how to get started with your first CI/CD pipeline in GitLab and the basics of GitLab Runners.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_AYMxhTVTQ1KOdF3Oivx1aQ#/registration)
-
-#### Hands-On GitLab CI Lab for Jenkins Users
-##### January 17th, 2023 at 10:00AM-12:00PM UTC / 11:00AM-1:00PM CET
-
-Join us for a hands-on GitLab CI lab and learn how it can fit in your organization!
-
-We will kick things off by going over the differences between CI/CD in Jenkins and GitLab, syntax requirements, advantages to using GitLab, and how you can achieve the same outcomes in GitLab. Getting started with CI/CD in GitLab will take a lot less time than tends to be required for Jenkins, and your users can stay in a single platform. 
-
-We will then dive into how to build simple GitLab pipelines and work up to more advanced pipeline structures and workflows, including security scanning and compliance enforcement.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_97qmaOkqSR6ZUPQK_JQ-ow#/registration)
 
 #### GitLab Runner Fundamentals and What You Need to Know
 ##### January 19th, 2024 at 10:00-11:00AM UTC / 11:00AM-12:00PM CET

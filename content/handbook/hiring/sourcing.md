@@ -141,6 +141,7 @@ In accordance with our [values](/handbook/company/culture/inclusion/#values) of 
 
 Our strategy to building representative teams is rooted in our top of funnel strategy. At a high level, our approach and expectations for recruiters and sourcers is as follows:
 1. At the beginning of every role, recruiters are responsible to build a DIB first approach to their sourcing strategy. We believe healthy pipelines show a balance between source types (applications, referrals, passive talent and internal talent) in order for our hiring teams to have an adequate view of the talent market before making their hiring decision.
+- As a best practice, Recruiters will focus on screening internal candidates, referrals, and sourced candidates for the first 5 business days a req is open.
 1. Recruiters run targeted searches leveraging some of our internal resources and sourcing tools (ex: LinkedIn Recruiter, SeekOut, our our CRM)
 1. For each candidate that is sourced in step 2 utilizing a DIB sourcing strategy (ie: leveraging HCBUs in a boolean string, utilizing GraceHopper resume books, etc), apply the appropriate tag.
 

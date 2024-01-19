@@ -6,13 +6,14 @@ title: Annual Compensation Review Cycle
 
 On this page, we explain how we carry out the Annual Compensation Review (ACR) cycle. For more information on the process and input review for the Compensation Review Process, please see the following [handbook page]({{< ref "review-cycle-inputs" >}}).
 
-If you have any feedback or questions about the compensation review cycle, please contact [People Connect](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group).
+If you have any feedback or questions about the compensation review cycle, please contact [People Connect](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group). For feedback to help inform iterations for future cycles, please utilize the [feedback issue (internal only)](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/1827).
 
 ## Annual Compensation Review
 
 The purpose of the Annual Compensation Review is to provide managers with the opportunity to reflect on team members’ accomplishments, measure achievements against goals, and reward for demonstrated performance and growth potential.
 
 Compensation decisions are based on:
+
 1. Individual factors such as talent assessments outlining performance and growth potential in the role.
 1. Internal assessment of our roles and compensation within teams and departments
 1. Assessing external market changes in the [compensation calculator]({{< ref "compensation-calculator" >}}) inputs
@@ -69,7 +70,7 @@ If you are a manager with other managers reporting to you, you will see your ove
 
 #### Promotion
 
-Promotion budget will be included in the managers’ budget slate, but should only be utilized for FY25Q1 promotions. Managers will be responsible for entering the promotion and new role in the promotion tab, and should recommend a compensation increase aligned with our [promotion compensation guidelines](/handbook/people-group/promotions-transfers/#promotion-compensation-guidelines. The [promotion document](/handbook/people-group/promotions-transfers/#promotion-document) path should be included in the “Promotion Notes” section on the Promotion tab.
+Promotion budget will be included in the managers’ budget slate, but should only be utilized for FY25Q1 promotions. Managers will be responsible for entering the promotion and new role in the promotion tab, and should recommend a compensation increase aligned with our [promotion compensation guidelines](/handbook/people-group/promotions-transfers/#promotion-compensation-guidelines). The [promotion document](/handbook/people-group/promotions-transfers/#promotion-document) path should be included in the “Promotion Notes” section on the Promotion tab.
 
 
 #### Equity
@@ -78,10 +79,9 @@ Equity refresh budget will be held at the Dir+ level. Managers below the Directo
 
 ### Annual Compensation Review Timeline
 
-**2024-01-09 - 2024-02-05:** Managers complete merit, promotion and equity recommendations
-We recommend these general timelines for completion based on your level to enable department heads to review and finalize recommendations by the deadline.
-    - Managers, Senior Managers, Director: Complete planning by 2024-01-17
-    - Senior Directors, VPs: Complete planning by 2024-01-26
+**2024-01-09 - 2024-02-05:** Managers complete merit, promotion and equity recommendations. We recommend these general timelines for completion based on your level to enable department heads to review and finalize recommendations by the deadline.
+- Managers, Senior Managers, Director: Complete planning by 2024-01-17
+- Senior Directors, VPs: Complete planning by 2024-01-26
 
 **2024-02-05:** E-Group submits ACR pay recommendations for their respective departments
 
@@ -91,15 +91,9 @@ We recommend these general timelines for completion based on your level to enabl
 
 **2024-02-12 - 2024-02-16:** Total Rewards prepares for Comp Group (CEO/CFO/CPO) approval of all recommendations
 
-**2024-02-16:** Comp Group approves all recommendations
-
 **2024-02-21 - 2024-02-29:** Managers notify team members being promoted of promotion approval and new job titles
 
-**2024-02-22:** CLDC approves refresh equity
-
 **2024-03-04 - 2024-03-08:** Managers communicate compensation decisions to all impacted team members
-
-**2024-03-12:** Grant date of equity awards
 
 **2024-03-13:** Workday visibility date (promotions and new comp visible to team members)
 
@@ -108,7 +102,8 @@ We recommend these general timelines for completion based on your level to enabl
 ## Important Materials for Review
 
 The following materials are recommended for managers to review ahead of planning:
-- [Workday Job Aid (internal only)](To be linked when ready): Please utilize the job aid for instructions on how to access and use the planning tool in Workday.
+
+- [Workday Job Aid (internal only)](https://docs.google.com/document/d/1zjWqzYKblfzH4fo2OfMzUU3fwWXfdX4ILwwzJqmMrww/edit): Please utilize the job aid for instructions on how to access and use the planning tool in Workday.
 - [Information Guide for Managers (internal only)](https://docs.google.com/document/d/1ZSC0lVo3di9JFJy4kwy9QSGChrI8F3jdO34iG0yO3Sg/edit): The information guide provides additional detail to what has been provided in the handbook.
 
 ## Annual Compensation Review Guidelines
@@ -155,17 +150,17 @@ The increase based on performance factor should be added to the team member’s 
 
 Managers of team members receiving a market adjustment have received additional budget to fund their team’s market adjustment.
 
- If there are any reasons as to why a team member should not receive the proposed increase to be aligned with market rates in our calculator, please work with your People Business Partner on appropriate next steps.
+If there are any reasons as to why a team member should not receive the proposed increase to be aligned with market rates in our calculator, please work with your [People Business Partner](https://handbook.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division) on appropriate next steps.
 
 ### Promotions
 
 Please review the handbook page on [promotions](/handbook/people-group/promotions-transfers) to understand the guidelines and philosophy when allocating an increase. Team members may still receive a performance increase if eligible for a promotion. Managers should review the final increase and salary based on the team member’s performance rating and new role when making the final recommendation.
 
-[Promotional RSU grants](/handbook/stock-options/#promotions) will be automatically calculated within the planning grid. Grants are subject to approval at the next grant approval date.
+[Promotional RSU grants](/handbook/stock-options/#promotions) will be automatically calculated within the planning grid. Managers *are not* responsible for entering promotion RSU grants as part of entering promotions into Workday, they should only enter cash compensation increases. Grants are subject to approval at the next grant approval date.
 
 ### Equity
 
-The growth potential factor is used as the primary calibration tool for equity refresh grants. A meaningful grant can reinforce the long-term growth potential of a team member, as well as the value of shared ownership in the Company.
+The Growth Potential factor is used as the primary calibration tool for equity refresh grants. A meaningful grant can reinforce the long-term growth potential of a team member, as well as the value of shared ownership in the Company.
 
 Planning for equity grants will be done at the Director level and above.
 
@@ -189,9 +184,9 @@ The following equity refresh grant *guidelines* are recommended for those receiv
 
 ## Communicating Annual Compensation Review
 
-All planning for Annual Compensation Review will be finalized by March 4th in Workday. Visibility in Workday will be limited until March 13th in order to allow managers sufficient time to communicate. Managers will have access to the Total  Compensation statement on the team member's record once generated.
+All planning for Annual Compensation Review will be finalized by March 4th in Workday. Visibility in Workday will be limited until March 13th in order to allow managers sufficient time to communicate. Managers will have access to the Total Compensation statement on the team member's record once generated.
 
-Managers should communicate increases to all team members by March 8th.
+Managers should communicate increases to all team members by March 8th, 2024.
 
 Further guidelines on communications can be found on the [Compensation Review Conversations handbook page]({{< ref "compensation-review-conversations" >}}).
 

@@ -18,7 +18,111 @@ As per
 > determine if a macro should be applied. Agents evaluate tickets and apply
 > macros manually as needed.
 
-## Creating a macro via Zendesk
+## How GitLab manages Zendesk macros
+
+#### Zendesk Global
+
+We currently utilize a [v2 sync repo](../../change_management/sync_repos#v2) for
+managing macros in Zendesk Global.
+
+The two projects that make this work are:
+
+- [Support managed content project](https://gitlab.com/gitlab-com/support/zendesk-global/macros)
+- [Sync repo project](https://gitlab.com/gitlab-support-readiness/zendesk-global/macros)
+
+Deployments are done immediately when commits are made to the default branch.
+
+The basic process for management of macros would be:
+
+```mermaid
+graph TD;
+  A -->|Content modification| B
+  A -->|Anything else| E
+  B --> C
+  C --> D
+  D --> I
+  E --> F
+  F -->|Actions modification| G
+  F -->|Creation| K
+  F -->|Deactivation| N
+  G --> H
+  H --> I
+  I --> J
+  K --> L
+  L --> M
+  M --> G
+  N --> G
+  A{What kind of change is it?}
+  B[Merge request created<br>in Support managed<br>content project]
+  C[Support Manager reviews,<br>approves, and merges<br>the changes]
+  D[Webhook fires to trigger<br>submodule update on<br>sync repo project]
+  E[support-team-meta issue is created]
+  F{Support Readiness determines<br>actions needed}
+  G[Support Readiness creates<br>merge request in<br>sync repo project]
+  H[Support Readiness reviews,<br>approves, and merges<br>the changes]
+  I[Commit is made on default<br>branch of sync repo project]
+  J[Sync scripts perform updates in Zendesk]
+  K[Support Readiness creates<br>placeholder macro in Zendesk]
+  L[Support Readiness creates<br>merge request in Support<br>managed content project]
+  M[Support Manager reviews,<br>approves, and merges<br>the changes]
+  N[Support Readiness tells<br>Support to move the file<br>in the Support managed<br>content project after a<br>specific date]
+```
+
+#### Zendesk US Government
+
+We currently utilize a [v2 sync repo](../../change_management/sync_repos#v2) for
+managing macros in Zendesk Global.
+
+The two projects that make this work are:
+
+- [Support managed content project](https://gitlab.com/gitlab-com/support/zendesk-us-government/macros)
+- [Sync repo project](https://gitlab.com/gitlab-support-readiness/zendesk-us-government/macros)
+
+Deployments are done immediately when commits are made to the default branch.
+
+The basic process for management of macros would be:
+
+```mermaid
+graph TD;
+  A -->|Content modification| B
+  A -->|Anything else| E
+  B --> C
+  C --> D
+  D --> I
+  E --> F
+  F -->|Actions modification| G
+  F -->|Creation| K
+  F -->|Deactivation| N
+  G --> H
+  H --> I
+  I --> J
+  K --> L
+  L --> M
+  M --> G
+  N --> G
+  A{What kind of change is it?}
+  B[Merge request created<br>in Support managed<br>content project]
+  C[Support Manager reviews,<br>approves, and merges<br>the changes]
+  D[Webhook fires to trigger<br>submodule update on<br>sync repo project]
+  E[support-team-meta issue is created]
+  F{Support Readiness determines<br>actions needed}
+  G[Support Readiness creates<br>merge request in<br>sync repo project]
+  H[Support Readiness reviews,<br>approves, and merges<br>the changes]
+  I[Commit is made on default<br>branch of sync repo project]
+  J[Sync scripts perform updates in Zendesk]
+  K[Support Readiness creates<br>placeholder macro in Zendesk]
+  L[Support Readiness creates<br>merge request in Support<br>managed content project]
+  M[Support Manager reviews,<br>approves, and merges<br>the changes]
+  N[Support Readiness tells<br>Support to move the file<br>in the Support managed<br>content project after a<br>specific date]
+```
+
+## Performing actions in Zendesk
+
+**NOTE**: This is for documentation and instruction purpose. An admin level
+account is required and these should only be performed when actually warranted,
+such as when creating a placeholder macro.
+
+#### Creating a macro via Zendesk
 
 To create a macro in Zendesk, you first need to go to the Admin Center
 ([Zendesk Global](https://gitlab.zendesk.com/admin/) /
@@ -36,7 +140,7 @@ From here, you will:
 
 After doing this, you will then click the blue `Create` button.
 
-## Editing a macro via Zendesk
+#### Editing a macro via Zendesk
 
 To edit a macro in Zendesk, you first need to go to the Admin Center
 ([Zendesk Global](https://gitlab.zendesk.com/admin/) /
@@ -51,7 +155,7 @@ Doing so will bring up the macros editor page. From here, you can tweak the
 various aspects of the macro. Once you have the edits in place, click the blue
 `Save` button.
 
-## Deactivating a macro via Zendesk
+#### Deactivating a macro via Zendesk
 
 To deactivate a macro in Zendesk, you first need to go to the Admin Center
 ([Zendesk Global](https://gitlab.zendesk.com/admin/) /
@@ -68,13 +172,13 @@ The alternative way to deactivate a macro in the Zendesk UI is from within the
 macro editor page. On that page, click the three horizontal dots in the
 top-right of the page and select `Deactivate` from the menu.
 
-## Positioning
+#### Positioning
 
 While macros do have positions, we often do not worry about this. This is
 because the menu used by agents is searchable and readily findable. We also have
 a lot of macros, so trying to micro-manage the positions would not be efficient.
 
-## Macro standards
+#### Macro standards
 
 To ensure all macros we utilize are both consistent in nature and transparent
 in their actions, we strive to meet some standards on all macros we work with.
@@ -89,20 +193,3 @@ is two colons (`::`).
 
 This can get a bit confusing and hard to learn the ins and outs of, so when in
 doubt, reach out to your fellow Support Ops team members.
-
-## Change management
-
-As the organization macros are unique in deployment, please see
-[Zendesk macros change management](/handbook/support/readiness/operations/docs/change_management#zendesk-macros-change-management)
-for more information.
-
-#### Labels to use
-
-For all issues and MRs involving macros, the label
-`Support-Ops-Category::Macros` should be used.
-
-#### Change criticality
-
-Due to the nearly non-existent impact adding/editing/deleting macros have,
-all issues/MRs related to Zendesk macros will be classified as
-[criticality 4](/handbook/support/readiness/operations/docs/change_criticalities#criticality-4)

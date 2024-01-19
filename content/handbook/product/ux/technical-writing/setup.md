@@ -12,7 +12,7 @@ these are not compulsory - you can set up your environment however you choose.
 These are simply suggestions to help you get up and running quickly:
 
 - If you haven't already, [install Git](https://docs.gitlab.com/ee/topics/git/how_to_install_git/index.html)
-  and [add an SSH key to your GitLab profile](https://docs.gitlab.com/ee/ssh/#add-an-ssh-key-to-your-gitlab-account).
+  and [add an SSH key to your GitLab profile](https://docs.gitlab.com/ee/user/ssh.html#add-an-ssh-key-to-your-gitlab-account).
   This step is required.
 - Install a code editor, like VS Code or Sublime Text, where you will work with markdown files. You can use whichever tool
   you're most comfortable with.
