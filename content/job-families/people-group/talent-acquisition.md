@@ -134,7 +134,7 @@ The Principal Recruiter shares the same requirements as the Senior recruiter lis
 - Expert storyteller; experienced leveraging talking points to influence and close the most challenging candidates in competitive markets at senior levels.
 - Proactively creates opportunities to mentor, share and uplevel the team in a way that aligns to the overall teams' strategic direction.
 - Experienced driver of strong connections between TA Strategy and individual, team and functional work.
-- Building a broad set direct relationships with strategic partners with the ability to influence without authority that ultimately drives the goals of business forward. 
+- Building a broad set direct relationships with strategic partners with the ability to influence without authority that ultimately drives the goals of business forward.
 
 ### Talent Acquisition Team Segmentation
 
