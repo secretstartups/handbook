@@ -52,12 +52,12 @@ Note: Your main job will have roughly 1-5 outcome statements, and you will also 
 
 Example of main outcome statements for a main job of ‘Review Code’:
 
-![JTBD main outcomes](JTBD_Outcomes.png)
+![JTBD main outcomes](/handbook/product/ux/jobs-to-be-done/JTBD_Outcomes.png)
 
 
 Example of [micro-jobs](/handbook/product/ux/jobs-to-be-done/#micro-jobs) and outcome statements for a main job of ‘Review Code’:
 
-![JTBD micro-jobs and outcome statements](JTBD_MicroJobs_OutcomeStatements.png)
+![JTBD micro-jobs and outcome statements](/handbook/product/ux/jobs-to-be-done/JTBD_MicroJobs_OutcomeStatements.png)
 
 ## Step 7: Determine Opportunity Scores
 
@@ -75,7 +75,7 @@ Note: Remember to recruit both GitLab and non-GitLab users, and be able to easil
 At GitLab, we use a 10 point scale, labeled at each end as ‘very low’ (1) and ‘very high’ (10).
 Using the scores for importance and satisfaction, we can calculate an opportunity score:
 
-![JTBD Opportunity Score](JTBD_OpportunityScore.png)
+![JTBD Opportunity Score](/handbook/product/ux/jobs-to-be-done/JTBD_OpportunityScore.png)
 
 1. The importance score minus the satisfaction score is your ‘satisfaction gap’.
 2. Add the satisfaction gap to your original importance score to get the final opportunity score.
