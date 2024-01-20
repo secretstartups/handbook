@@ -259,7 +259,7 @@
 /content/job-families/finance/ @brobins
 
 ^[Infrastructure-Standards]
-/content/handbook/infrastructure-standards/ @jeffersonmartin @dawsmith @alanrichards
+/content/handbook/infrastructure-standards/ @gitlab-com/gl-security/identity/infra
 
 ^[legal]
 /content/handbook/legal/gitlab-code-of-business-conduct-and-ethics.md @robin
@@ -482,10 +482,12 @@
 /content/job-families/security/ @joshlemos @jlongo_gitlab
 /content/handbook/security/ @joshlemos @jlongo_gitlab @plafoucriere
 /content/handbook/security/architecture/ @plafoucriere
+/content/handbook/security/identity/ @gitlab-com/gl-security/identity
 /content/handbook/security/security-operations/ @jfuentes2
 /content/handbook/security/security-assurance/ @jburrows001 @tdilbeck @corey-oas @jlongo_gitlab @lcoleman @cynthiamiller
 /content/handbook/security/threat-management/ @smanzuik @estrike
 /content/handbook/security/threat-management/red-team/ @cmoberly
+/content/handbook/security/threat-management/identity/ @gitlab-com/gl-security/identity
 /content/handbook/security/security-engineering/ @jritchey
 /content/handbook/security/security-engineering/automation.md  @agroleau
 /content/handbook/security/security-engineering/infrastructure-security.md @joe-dub
