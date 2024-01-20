@@ -144,7 +144,7 @@ Please use this template when creating Epics for activities that should appear f
 
 On completion:
 
-- [ ] [Distribute the content](/handbook/marketing/developer-relations/developer-evangelism/#content-distribution)
+- [ ] [Distribute the content](https://handbook.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/content/content-distribution) (Highspot, Slack, social media, etc.)
 - [ ] Add results to the epic, and to the technical content sheet. Mark the sheet row as completed (green).
 
 <!-- these labels should be included on all templates -->
