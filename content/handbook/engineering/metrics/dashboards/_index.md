@@ -29,9 +29,8 @@ If you find yourself frequently accessing data specific to your group, section, 
 
 
 ```md
-{{</* tableau height="600px" toolbar="visible" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/OKR4_7EngKPITest/PastDueSecurityIssues" */>}}
-  {{</* tableau/filters "Subtype Label"="bug::vulnerability" /*/>}}
-  {{</* tableau/params "Severity Select"="S2" /*/>}}
+{{</* tableau height="600px" toolbar="visible" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/TopEngineeringMetrics/TopEngineeringMetricsDashboard" */>}}
+  {{</* tableau/filters "GROUP_LABEL"="code review" /*/>}}
 {{</* /tableau */>}}
 ```
 
@@ -43,12 +42,10 @@ Simply copy and paste this code into your page. It will save your selected filte
 ### Top Engineering Metrics Dashboard
 
 {{< tableau src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/TopEngineeringMetrics/TopEngineeringMetricsDashboard" >}}
-{{< /tableau >}}
 
 ### MR Types Dashboard
 
 {{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/MergeRequestMetrics/OverallMRsbyType_1" >}}
-{{< /tableau >}}
 
 ### Development Dashboard
 
