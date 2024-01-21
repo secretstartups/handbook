@@ -28,14 +28,12 @@ If you find yourself frequently accessing data specific to your group, section, 
 <summary>Code</summary>
 
 
-```plaintext
-{% raw %}
-{{< tableau src="https://10az.online.tableau.com/t/gitlab/views/TopEngineeringMetrics_16989570521080/TopEngineeringMetricsDashboard" >}}
-{{< tableau/filters "stage"="Create" >}}
-{{< /tableau >}}
-{% endraw %}
+```md
+{{</* tableau height="600px" toolbar="visible" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/OKR4_7EngKPITest/PastDueSecurityIssues" */>}}
+  {{</* tableau/filters "Subtype Label"="bug::vulnerability" /*/>}}
+  {{</* tableau/params "Severity Select"="S2" /*/>}}
+{{</* /tableau */>}}
 ```
-
 
 
 </details>
