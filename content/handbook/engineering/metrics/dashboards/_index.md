@@ -42,10 +42,12 @@ Simply copy and paste this code into your page. It will save your selected filte
 ### Top Engineering Metrics Dashboard
 
 {{< tableau src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/TopEngineeringMetrics/TopEngineeringMetricsDashboard" >}}
+{{< /tableau >}}
 
 ### MR Types Dashboard
 
 {{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/MergeRequestMetrics/OverallMRsbyType_1" >}}
+{{< /tableau >}}
 
 ### Development Dashboard
 
