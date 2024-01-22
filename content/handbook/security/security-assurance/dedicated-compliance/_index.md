@@ -77,7 +77,6 @@ We use sub-epics to break larger epics into smaller portions. The larger epics a
 1. Sub-epics represent an item from the roadmap and are delivered in a specific phase
 1. Sub-epics can span multiple months, but their end date should match the 'anticipated completion date' of the roadmap phase they are added to.
 
-
 The diagram below shows an example of traversing the complete hierachy:
 
 ```mermaid
