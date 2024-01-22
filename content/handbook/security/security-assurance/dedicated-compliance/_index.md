@@ -67,11 +67,81 @@ We also have weekly 1:1s and skip levels in line with the GitLab philosophy.
 
 We use an [agile project management](https://about.gitlab.com/solutions/agile-delivery/) approach for our work, leveraging as many GitLab platform features as we can. We use epics, issues, and issue/epic boards to organize our work, as they complement each other. For some of the work, we also use roadmaps, milestones, burndown charts.
 
-#### Issue Board
+The single source of truth for *all* of our team's work across different functions is the top-level [Security Compliance (Dedicated Markets) team epic](https://gitlab.com/groups/gitlab-com/gl-security/-/epics/248). In the future, the epic will contain a section that tracks the status all ongoing work. The following subsections are borrowed from the [GitLab Dedicated Group](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/#project-management).
 
-The single source of truth for all of our work will soon be the [SecComp Dedicated Markets issue board](https://gitlab.com/groups/gitlab-com/-/boards/5913253?label_name[]=Sub-Department%3A%3ASecComp%20Dedicated%20Markets).
+#### Epic Hierarchy
 
-We encourage, but currently do not require, the use of issue weights, to log estimated hours, and health status. The exception is for recurring continuous monitoring tasks which do require both of these.
+We use sub-epics to break larger epics into smaller portions. The larger epics are based on our team's roadmap and key milestones.
+
+1. Sub-epics group tasks required to deliver an item mentioned
+1. Sub-epics represent an item from the roadmap and are delivered in a specific phase
+1. Sub-epics can span multiple months, but their end date should match the 'anticipated completion date' of the roadmap phase they are added to.
+
+The diagram below shows an example of traversing the complete hierachy:
+
+```mermaid
+graph TD
+A(Security Compliance Dedicated Markets) --> B(GitLab Dedicated SOC 2 Type 2 attestation)
+B --> C([Epic])
+B --> D([SOC 2 Type 2 Gap Assessment])
+B --> E([Expand SOC 2 TSC scope to include Availability criteria])
+C --> G([Sub-epic])
+E --> H([Business Continuity and Disaster Recovery Tests])
+E --> I([DR Plan Updates])
+B --> F([...])
+E --> J([...])
+G --> K([Issue 1])
+```
+
+#### Epic Owners
+
+Each epic has a single DRI who is responsible for delivering the project. DRIs for each epic are listed at the top of the description of each epic per Epic Structure.
+
+#### Epic Owner Responsibilities
+
+The DRI needs to:
+
+1. Work with others to move issues through the boards
+1. Ensure epic meets criteria outlined in Epic Structure(next section)
+1. Provide updates on DRI's epic in epic description according to process outlined in Status Update Process below.
+
+#### Epic Structure
+
+Each epic and child sub-epics must include the following:
+
+**Description** (TBD make epic template)
+
+1. **DRI** who is responsible for this epic.
+1. **Background**, including a problem statement, to provide context for people looking to understand the epic.
+1. **Exit criteria** for the specific goals of the epic.
+1. **Status yyyy-mm-dd** should be the final heading in the description.
+    1. This enables others who are interested in the epic to see the latest status without having to read through all comments or issues attached to the epic.
+    1. This heading is used to auto-generate the status information on the top-level epic.
+
+**Epic meta data**
+
+1. **Start date** is set to the expected start date, and updated to be the actual start date when the project begins.
+1. **Due date** is set to be the expected end date.
+    1. The due date is set based on the Roadmap
+    1. The date that a project actually ended is taken from the date that the epic was closed.
+
+Labels are described in the [Labels section](#labels).
+
+#### Epic Boards
+
+Epic boards are used to track the overall status of epics. We use the following epic boards:
+
+TBD
+
+#### Roadmap
+
+All epics and sub-epics are set with due dates according to the Roadmap (link).
+
+Process to close phases:
+
+1. After the end of each month Security Compliance management reviews the epic (expeted) due dates and works with [Epic DRIs](#epic-owners) to determine any roadmap changes if an epic extends beyond the epic's planned phase.
+1. Management then determines roadmap adjustments so that planned work in future phases remains realistic after shifting open work.
+1. Roadmap changes are shared in the next weekly sync.
 
 #### Epics
 
@@ -82,7 +152,56 @@ We currently have the following epics:
 - Epics tracking annual external audits and penetration tests
 - Miscellaneous epics
 
-We are currently investigating whether Epic Boards would add value to the way we organize and view all the work we're doing.
+#### Issue Board
+
+The single source of truth for all of our work will soon be the [SecComp Dedicated Markets issue board](https://gitlab.com/groups/gitlab-com/-/boards/5913253?label_name[]=Sub-Department%3A%3ASecComp%20Dedicated%20Markets).
+
+We encourage, but currently do not require, the use of issue weights, to log estimated hours, and health status. The exception is for recurring continuous monitoring tasks which do require both of these.
+
+### Status Updates
+
+The status for all work relating to GitLab Dedicated is maintained in the description of the top-level [Security Compliance (Dedicated Markets) team epic](https://gitlab.com/groups/gitlab-com/gl-security/-/epics/248) so that it is visible at a glance.
+
+#### Status Update Process
+
+DRIs should provide weekly updates for the DRI's epics according to following process:
+
+1. **By 17:00 UTC / 12:00 PM ET on Fridays** DRIs of *active* epics (or the person covering if DRI OOO) provide an update in the [status section of the description](#epic-structure) of the epic regarding status of the epic including any relevant details of active sub-epics.
+    - If the DRI for a sub-epic is different than the epic DRI, the epic DRI is responsible for getting updates from the sub-epic DRI.
+    - Format for weekly update:
+      - **Date of Update** (YYYY-MM-DD)
+      - Brief update (~sentence or couple bullets) for each of these three bullets:
+         - **Progress since last update** - Changes deployed to production, unblocked blockers, any other progress achieved.
+         - **Risk and Confidence** - Any new blockers identified or existing blockers that persist? Any other challenges now or in the near future? How do these blockers and/or challenges affect our confidence of completing by scheduled due date per the roadmap?
+         - **Mitigations** -  What is required to overcome challenges or blockers identified?  Should this be escalated to other team members, teams, executives, or domain experts?
+      - **Update Workflow and Health label** - After each status update, the Workflow label and Health label should be updated. See [Epic labels criteria](/handbook/engineering/infrastructure/team/gitlab-dedicated/#workflow-labels)
+
+1. **Top-Level Epic Status Update** [automation synthesizes updates from status section](#status-update-automation-coming-soon) from description of active epics to provide a status in the status section in the description of the top-level initiative Epic.
+
+1. Status updates will be incorporated into other updates as needed for the Division, Department, Cross-Functional Initiatives and Working Groups, and OKRs.
+
+#### Status Update Automation (coming soon)
+
+Status updates are auto-generated and added to description ofthe top-level [Security Compliance (Dedicated Markets) team epic](https://gitlab.com/groups/gitlab-com/gl-security/-/epics/248) using a bot running in (project coming soon).
+
+If no update has been provided in an epic or issue for over a week, the issue will automatically receive `seccomp workflow::stalled` label. MAnagement is responsible for reviewing the status of the issue and helping it move along.
+
+#### Reporting
+
+We provide reports on status of GitLab Dedicated to meet [Top Cross-Functional Initiative requirements](/handbook/company/top-cross-functional-initiatives/#cross-functional-initiative-dris).
+
+### Backlog Refinement
+
+Prior to the start of a new quarter, the team will spend time refining the Epic backlog. This process will be led by the EM + PM, who will go through the Epics targeted for the upcoming quarter (according to the roadmap and ensure each Epic contains the following information (pulling in different stakeholders to help fill in the details as necessary):
+
+- MVC Scope
+- Business Case / Rationale
+- Link to high-level design
+- Estimated level of complexity
+
+While the above information is being added, the Epic will move from Triage to Ready status.
+
+Having this set of refined epics will help us plan for the upcoming quarter and allow engineers to quickly get started on an Epic once it's ready to be picked up during the quarter.
 
 ### Labels
 
