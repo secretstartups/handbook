@@ -10,12 +10,12 @@ Welcome to our Engineering Metrics Dashboards hub – your go-to spot for checki
 
 This page is populated from the following filterable dashboards.
 
-- [Top Engineering Metrics Dashboard](https://app.periscopedata.com/app/gitlab/1000952/Top-Engineering-Metrics-Dashboard)
-- [MR Types Dashboard](https://app.periscopedata.com/app/gitlab/976854/Merge-Request-Types-Detail)
-- [Development Embedded Dashboard](https://app.periscopedata.com/app/gitlab/681347/Development-Embedded-Dashboard)
-- [Quality Embedded Dashboard](https://app.periscopedata.com/app/gitlab/736012/Quality-Embedded-Dashboard)
-- [Infrastructure Embedded Dashboard](https://app.periscopedata.com/app/gitlab/798401/Infrastructure-Embedded-Dashboard)
-- [Security Embedded Dashboard](https://app.periscopedata.com/app/gitlab/758795/Appsec-Embedded-Dashboard)
+- [Top Engineering Metrics Dashboard](https://us-west-2b.online.tableau.com/t/gitlabpublic/views/TopEngineeringMetrics/TopEngineeringMetricsDashboard)
+- [MR Types Dashboard](https://us-west-2b.online.tableau.com/t/gitlabpublic/views/MergeRequestMetrics/OverallMRsbyType_1)
+- [Development Embedded Dashboard](https://us-west-2b.online.tableau.com/t/gitlabpublic/views/DevelopmentEmbeddedDashboard/DevelopmentEmbeddedDashboard)
+- Quality Embedded Dashboard - LINK
+- Infrastructure Embedded Dashboard - LINK
+- Security Embedded Dashboard - LINK
 
 #### Filtering your data
 To ensure the accuracy of the presented data, please use the convenient filtering options (**'Group'**, **'Section'**, or **'Stage'**) at the top of the dashboard to tailor the displayed information to your group, section, or stage's metrics.
@@ -37,7 +37,7 @@ If you find yourself frequently accessing data specific to your group, section, 
 
 </details>
 
-Simply copy and paste this code into your page. It will save your selected filters by defaulting to your own data without the need to manually set filters each time. Make sure to replace any placeholders in the code with the public dashboard URL and your actual group, section, or stage details.
+Simply copy and paste this code into your page. It will save your selected filters by defaulting to your own data without the need to manually set filters each time. Make sure to replace any placeholders in the code with the public dashboard URL (can be found in the dashboards list above) and your actual group, section, or stage details.
 
 ### Top Engineering Metrics Dashboard
 
@@ -50,6 +50,9 @@ Simply copy and paste this code into your page. It will save your selected filte
 {{< /tableau >}}
 
 ### Development Dashboard
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/DevelopmentEmbeddedDashboard/DevelopmentEmbeddedDashboard" >}}
+{{< /tableau >}}
 
 ### Infrastucture Dashboard
 
