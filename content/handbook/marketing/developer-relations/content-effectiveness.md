@@ -1,7 +1,7 @@
 ---
 
 title: "Developer Relations - Content Effectiveness"
-description: "How the Developer Relations team measures effecstiveness of content it creates."
+description: "How the Developer Relations team measures effectiveness of content it creates."
 ---
 
 
@@ -16,6 +16,21 @@ description: "How the Developer Relations team measures effecstiveness of conten
 ## Content Effectiveness
 
 The Developer Relations team create content on varying topics and in different formats, these includes videos, blog posts, conference talks, demos, etc. This handbook pages details how we measure the effectiveness of the content, the tools we use and how they work together. First, we will review the different components.
+
+### How we measure Content Effectiveness
+
+The key measure of content effectiveness for the Developer relations team is how the content we create or campaign we contribute to influence revenue. This is done by ensuring every content we create has an impact on the experience of GitLab users and customers. Impact is achieved by listening to the community and creating content that meets the needs of the community with relevant call to actions. We also impact the experience of users by collaborating with other teams and contributing content or thought leadership.
+
+#### The Metrics we measure
+
+- Blog Views: These are impressions generated from Blog posts published by the team on the GitLab blog
+- Video Views: Videos are uploaded to the Official and the GitLab Unfiltered channels on YouTube. We also include include Shortened links with Relevant UTM codes.
+- Campaigns: The Developer Relations team use the `devrel` UTM Campaign name to track engagement with our content or activities shared on external mediums.
+- Influenced Campaigns: These are campaigns owned by other marketing teams that we contribute to, we track the result of our influence on the [Marketing Campaigns Dashboard](https://10az.online.tableau.com/#/site/gitlab/views/DraftTDCampaigns-L2RInteractions/CampaignDrillDown?%3Aiid=1).
+
+#### Everthing is a Campaign!
+
+Critical to measuring content effectiveness is ensuring engagement is measurable and this is achievable by using Call-To-Actions (CTAs) with UTM & Salesforce campaigns. We use UTM campaigns for content we publish on external channels like 3rd party blogs, YouTube, Forum, Talks, etc. We do not use UTM campaign, even when shortlinked with Campaign manager or any other URL shortner, on official channels like GitLab blog, Website, documentation or handbook.
 
 ### Content Asset Inventory
 
