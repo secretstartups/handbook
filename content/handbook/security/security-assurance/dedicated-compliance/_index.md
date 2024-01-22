@@ -81,16 +81,16 @@ The diagram below shows an example of traversing the complete hierachy:
 
 ```mermaid
 graph TD
-A(Security Compliance (Dedicated Markets)) --> C(GitLab Dedicated SOC 2 Type 2 attestation)
-C --> D([Epic])
-C --> E([SOC 2 Type 2 Gap Assessment])
-C --> F([Expand SOC 2 TSC scope to include Availability criteria])
-C --> G([...])
-D --> H([Sub-epic])
-F --> I([Business Continuity and Disaster Recovery Tests])
-F --> J([DR Plan Updates])
-F --> K([...])
-H --> L([Issue 1])
+A(Security Compliance Dedicated Markets) --> B(GitLab Dedicated SOC 2 Type 2 attestation)
+B --> C([Epic])
+B --> D([SOC 2 Type 2 Gap Assessment])
+B --> E([Expand SOC 2 TSC scope to include Availability criteria])
+C --> G([Sub-epic])
+E --> H([Business Continuity and Disaster Recovery Tests])
+E --> I([DR Plan Updates])
+B --> F([...])
+E --> J([...])
+G --> K([Issue 1])
 ```
 
 #### Epic Owners
@@ -199,7 +199,7 @@ Prior to the start of a new quarter, the team will spend time refining the Epic 
 - Link to high-level design
 - Estimated level of complexity
 
-While the above information is being added, the Epic will move from ![Triage](./img/label-triage.png) to ![Ready](./img/label-ready.png).
+While the above information is being added, the Epic will move from Triage to Ready status.
 
 Having this set of refined epics will help us plan for the upcoming quarter and allow engineers to quickly get started on an Epic once it's ready to be picked up during the quarter.
 
