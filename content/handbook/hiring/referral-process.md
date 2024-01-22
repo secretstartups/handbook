@@ -63,7 +63,7 @@ As we continue to scale, so does the volume of referrals we receive. Referrals a
 1. Communication with the Referral
     - You have informed the person that you are referring them.
 1. Detailed Referral Description
-- _Must complete_ required fields, including a comprehensive description of how you know the candidate you are referring and why they are aligned to the role with GitLab. Provide detailed information such as specific qualifications, skills and relevant experiences that make the candidate a strong match for the specific role.
+- *Must complete* required fields, including a comprehensive description of how you know the candidate you are referring and why they are aligned to the role with GitLab. Provide detailed information such as specific qualifications, skills and relevant experiences that make the candidate a strong match for the specific role.
     - **Bad Example** - "XX wants to work in a remote workforce. They bring a lot of experience in Program Management"
     - **Good Example:** - "XX has a proven track recrod in Program Management within a Product Organization. When I worked with them at XYZ company, they worked specifically with net new product launches, partnering with monetization teams on bringing new products to market. This makes them a strong fit for the Product Program Manager role at GitLab."
 
@@ -125,7 +125,7 @@ As a way of ensuring a consistent and positive experience with both the candidat
             - If the role is filled, ensure the referral is rejected and sent the "Position Filled" email template.
             - If the referred candidate is aligned to a role but we proceed with another candidate, an option is for the Recruiter to setup a networking call to keep hte candidate in mind for future roles.
     1. **Progress** - candidate is aligned to the role
-        1. Move them to _Qualified_
+        1. Move them to *Qualified*
         1. Send application questions to confirm sponsorship requirements, location, EEOC, etc.
         1. Move to screening if all requirements are met, reject with appropriate template if not.
         1. Follow standard process from this point forward.
