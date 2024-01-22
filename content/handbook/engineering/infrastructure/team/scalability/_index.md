@@ -3,12 +3,13 @@ title: "Scalability Group"
 ---
 
 ## Common Links
-
-| **Workflow** | [Team workflow](/handbook/engineering/infrastructure/team/scalability/#how-we-work) |
-| **GitLab.com** | `@gitlab-org/scalability` |
-| **Issue Trackers** | [Scalability](https://gitlab.com/gitlab-com/gl-infra/scalability) |
-| **Team Slack Channels** | [#g_scalability](https://gitlab.slack.com/archives/g_scalability) - Company facing channel <br/> [#g_scalability_observability](https://gitlab.slack.com/archives/g_scalability_observability) - Team channel <br/> [#g_scalability_practices](https://gitlab.slack.com/archives/g_scalability_practices) - Team channel<br/> [#scalability_social](https://gitlab.slack.com/archives/g_scalability_social) - Group social channel|
-| **Information Slack Channels** | [#infrastructure-lounge](https://gitlab.slack.com/archives/infrastructure-lounge) (Infrastructure Group Channel), <br/>[#incident-management](https://gitlab.slack.com/archives/incident-management) (Incident Management),  <br/>[#alerts-general](https://gitlab.slack.com/archives/alerts-general) (SLO alerting), <br/>[#mech_symp_alerts](https://gitlab.slack.com/archives/mech_symp_alerts) (Mechanical Sympathy Alerts) |
+| |                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| --- |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Workflow** | [Team workflow](/handbook/engineering/infrastructure/team/scalability/#how-we-work)                                                                                                                                                                                                                                                                                                                                                |
+| **GitLab.com** | `@gitlab-org/scalability`                                                                                                                                                                                                                                                                                                                                                                                                          |
+| **Issue Trackers** | [Scalability](https://gitlab.com/gitlab-com/gl-infra/scalability)                                                                                                                                                                                                                                                                                          |
+| **Team Slack Channels** | [#g_scalability](https://gitlab.slack.com/archives/g_scalability) - Company facing channel <br/> [#g_scalability_observability](https://gitlab.slack.com/archives/g_scalability_observability) - Team channel <br/> [#g_scalability_practices](https://gitlab.slack.com/archives/g_scalability_practices) - Team channel<br/> [#scalability_social](https://gitlab.slack.com/archives/g_scalability_social) - Group social channel |
+| **Information Slack Channels** | [#infrastructure-lounge](https://gitlab.slack.com/archives/infrastructure-lounge) (Infrastructure Group Channel), <br/>[#incident-management](https://gitlab.slack.com/archives/incident-management) (Incident Management),  <br/>[#alerts-general](https://gitlab.slack.com/archives/alerts-general) (SLO alerting), <br/>[#mech_symp_alerts](https://gitlab.slack.com/archives/mech_symp_alerts) (Mechanical Sympathy Alerts)    |
 
 ### Project Management Links
 
@@ -22,17 +23,19 @@ title: "Scalability Group"
 
 ## Teams
 
-The Scalability group is currently formed of two teams: `Scalability:Observability` and `Scalability:Practices`.
+The Scalability group is currently formed of two teams:
+* [Scalability:Observability](./observability) and
+* `Scalability:Practices`.
 
 {{< team-by-manager-slug "rachel-nienaber" >}}
 
 
 ### Scalability:Observability
 
-The Observability team focuses on observability, forecasting & projection systems that enable development engineering to predict
+The [Observability team](./observability) focuses on observability, forecasting & projection systems that enable development engineering to predict
 system growth for their areas of responsibility.
 
-The following people are members of the Scalability:Observability team:
+The following people are members of the [Scalability:Observability team](./observability):
 
 {{< team-by-manager-slug "liam-m" >}}
 

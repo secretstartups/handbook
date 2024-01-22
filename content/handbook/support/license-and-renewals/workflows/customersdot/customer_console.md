@@ -389,6 +389,24 @@ irb(main):021:0> unlink_customer(0000000)
 => {:success=>true}
 ```
 
+### Identify multiple CustomersDot accounts linked to a GitLab account
+
+#### Parameters
+
+| Name | Required | Details |
+| ------ | ------ | ------ |
+| `:uid` | *Yes* |GitLab.com UID which may have been linked to multiple cdot accounts
+
+#### Sample
+
+````ruby
+*** PRODUCTION *** production> Customer.where(uid: 0000000)
+=> [#<Customer 000000, first_name: "Jane", last_name: "Doe", created_at: "2021-12-21 16:29:53.324183000 +0000", updated_at: "2023-01-17 00:56:56.311661000 +0000", email: "jdoe@examplecorp.net", provider: "gitlab", uid: "0000000", country: "USA", state: "GA", city: "Columbus", zip_code: "12345", vat_code: nil, company: "ExampleCorp", salesforce_account_id: "000001230043203, skip_email_confirmation: false>,
+#<Customer 100009, first_name: "Bob", last_name: "Doe", created_at: "2022-11-12", email: "bdoe@examplecorp.net", provider: "gitlab", uid: "0001235", country: "USA", state: "GA", city: "Columbus", zip_code: "12345", vat_code: nil, company: "ExampleCorp", salesforce_account_id: "00000123006988343, skip_email_confirmation: false>]
+``````
+
+`unlink_customer` can be used to remove additional customers portal accounts identified as linked to the one uid.
+
 ### associate_full_user_count_with_group
 
 > *Note*: Feature request is [customers #2167](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/2167).

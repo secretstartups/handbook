@@ -36,7 +36,7 @@ We work closely with the community, and our stable counterparts Product Managers
 - [UX Researcher](/handbook/product/ux/ux-research/)
 - [Technical Writing](/handbook/product/ux/technical-writing/workflow/)
 - [Product Designer](/handbook/product/ux/product-designer/)
-- [Product Design Manager workflows](/handbook/product/ux/product-design/product-design-manager.html)
+- [Product Design Manager](/handbook/product/ux/product-design/product-design-manager)
 - [Cross-functional Prioritization](/handbook/product/cross-functional-prioritization/)
 
 ### Headcount planning

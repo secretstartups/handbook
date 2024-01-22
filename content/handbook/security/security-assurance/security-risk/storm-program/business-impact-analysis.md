@@ -1,11 +1,8 @@
 ---
 title: "Business Impact Analysis"
 description: "Information about the Business Impact Analysis that is carried out periodically by the Security Risk Team"
+controlled_document: true
 ---
-
-{{% alert title="This is a Controlled Document" color="danger" %}}
-Inline with GitLab's regulatory obligations, changes to [controlled documents]({{< ref "controlled-document-procedure" >}}) must be approved or merged by a code owner. All contributions are welcome and encouraged.
-{{% /alert %}}
 
 ## Purpose
 

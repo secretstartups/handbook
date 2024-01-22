@@ -59,9 +59,9 @@ As the account lead, your role centers on successfully orchestrating all of the 
 
 Every Strategic Account Executive in Enterprise Sales should have a **territory plan** for how they're approaching their patch.
 - The first step is to [create a sales territory plan](https://internal.gitlab.com/handbook/sales/territory-planning/): a collaborative, workable plan for targeting the right customers and implementing goals for income and consistent sales growth over time. It’s usually done annually and updated throughout the year.
-- Your MVP territory plan will help you prioritize your accounts.
+- Your MVP territory plan will help you prioritize and rank your accounts. We use the **Account Rank** field in Salesforce to mark priority accounts.
 - This is followed by creating [account plans](/handbook/sales/account-planning/) for those accounts. Every priority account identified in your territory plan should have an account plan complete and linked in the Gainsight overview in Salesforce.
-- View the territory planning template and worksheet in [our internal handbook](https://internal.gitlab.com/handbook/sales/territory-planning/). And view the [account planning template here](https://docs.google.com/presentation/d/1AcwkYebTZ9mPfGsKlzd5IvppB_cc8to9z_yUvievSL4/edit?usp=sharing).
+- View the territory planning template and worksheet in [our internal handbook](https://internal.gitlab.com/handbook/sales/territory-planning/). And view the [account planning template here](https://gitlab.highspot.com/items/6369653ef05315a895837bf6?lfrm=isd.1).
 - And view additional data sources and reports in the plan template (beneath the slides) as well as at the [bottom of this page](/handbook/sales/playbook/#quick-links-to-common-tools).
 - If an account is moving to a new seller, use the [Account Handover issue template](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1240) and associated process to give the new rep everything they need to best support their customer.
 
@@ -126,9 +126,12 @@ If you don’t have access to the items below and believe you should, open an [A
 - [LucidChart](https://apis.google.com/additnow/l?applicationid=7081045131&__ls=ogb&__lu=https%3A%2F%2Flucid.app%2Fusers%2FgoogleLogin%3Fdomain%3Dgitlab.com) for creating diagrams and org charts for account plans.
 - [Chorus](/handbook/sales/field-operations/sales-operations/go-to-market/chorus/) is used to view recordings of GitLab sales calls and demos.
 - Use [GitLab's Design Toolkit](https://design.gitlab.com/brand/overview) to download our logos, access our illustration and icon libraries, and build out your documents and presentations for prospects and customers.
+- [Product Usage Data & Health Scores in Gainsight](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#using-product-usage-data-in-gainsight) is used by your CSM and can provide you with insights into current customer usage data by use case by walking you through the relevant dashboard in Gainsight. All AEs have read access to Gainsight. Health scores can be found in Salesforce at the account level as well. When running a report on your accounts, pull in the Health Score field to understand what urgent actions you may need to take. 
+- [CustomersDot Admin](https://customers.gitlab.com/admin/) (see [overview video here](https://youtu.be/G9JuHXqV5LM)): most customers have an account that breaks down their purchases and provides some insight into SaaS usage. Also good for linking purchases to VersionDot usage data
 
 #### **Prospecting tools**
 
+- Completing RFPs/RFxs (Requests for vendor information): Use the [RFP process here](https://handbook.gitlab.com/handbook/security/security-assurance/field-security/field-security-rfp/) combined with our [Trust Center page](https://trust.gitlab.com/)
 - Learn what events we're attending or sponsoring via the [GitLab event site (external)](https://about.gitlab.com/events/) and the [marketing activities spreadsheet (internal)](https://docs.google.com/spreadsheets/d/1ni6gKeWhjtrNppMdYvPESsCRjDbfVdYjTNtUtcNBFGg/edit#gid=571560493). Or work with your local field marketer or manager to plan your own smaller-scale event.
 - [LinkedIn Sales Navigator](https://www.linkedin.com/business/sales/blog/sales-navigator/what-is-linkedin-sales-navigator) is one of the main prospecting tools we use at GitLab. It features a powerful set of search capabilities, improved visibility into extended networks, and personalized algorithms to help you reach the right decision maker. All SAEs have access to LSN. And view additional videos and tutorials on the [handbook page](/handbook/sales/training/social-selling/).
 - [Account-based marketing (ABM)](/handbook/marketing/account-based-marketing/) uses [DemandBase](/handbook/marketing/account-based-marketing/demandbase/) to develop account-based strategy campaigns, create focused account lists, and push out and measure advertising to targets. You can view this data with them or with your Sales Development Representative (SDR).
@@ -136,7 +139,7 @@ If you don’t have access to the items below and believe you should, open an [A
 - [Outreach.io](https://university.outreach.io/page/prospector-learning-track) is a tool used to automate emails in the form of sequences. Users can track open rates, click through rates, response rates for various templates and update sequences based on these metrics. Outreach.io also helps to track sales activities such as calls. All emails/calls/tasks that are made through Outreach.io are automatically logged in Salesforce with a corresponding disposition.
 - [Conversica](/handbook/marketing/marketing-operations/conversica/) is a conversational AI tool that helps enterprise marketing, sales, customer success, and finance teams attract, acquire and grow customers at scale across the customer revenue lifecycle. The AI Assistant works by engaging the prospect in a human-like conversation over email in an effort to further qualify the prospect.
 - [Thnks](https://www.thnks.com/) is a way to send small tokens of appreciation to customers, prospects, or contacts while only needing an email or phone. It's not provided by GitLab at this time, but you can talk to your manager about options for expensing. Remember to abide by [our policies](/handbook/legal/anti-corruption-policy/) around gifts for prospects or customers and check with #legal in Slack if you have questions.
-- [The GitLab Swag store](https://shop.gitlab.com/) is another way to send thanks or share the GitLab spirit with busienss contacts or family. [View our policies on swag here.](/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/) Remember to abide by [our policies](/handbook/legal/anti-corruption-policy/) around gifts for prospects or customers and check with #legal in Slack if you have questions.
+- [The GitLab Swag store](https://shop.gitlab.com/) is another way to send thanks or share the GitLab spirit with busienss contacts or family. [View our policies on swag here.](/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/) Remember to abide by [our policies](/handbook/legal/anti-corruption-policy/) around gifts for prospects or customers and check with #legal in Slack if you have questions. You can also use the #swag channel in Slack to get urgent questions answered.
 
 #### **Understanding your business**
 
@@ -147,14 +150,7 @@ If you don’t have access to the items below and believe you should, open an [A
 - [DemandBase](/handbook/marketing/account-based-marketing/demandbase/) is used by SDRs who can show you relevant data related to your target prospects. It has a wealth of intent and propensity to buy data that is married with account engagement indicators to create a holistic intent mapping for each account.
 - [Datafox](/handbook/business-technology/tech-stack/#datafox) is used to view relevant account information.
 - [LeanData](/handbook/marketing/marketing-operations/leandata/) is automatically pulled into Salesforce as data that you can use to better understand contacts and accounts. You don’t need to request access.
--[GitLab Propensity Models](https://internal.gitlab.com/handbook/sales/propensity_models/) allow you to dive deep into data provided by our Data Science Team.
-
-#### **Understanding your customers current product usage**
-
-- [Product Usage Data in Gainsight](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#using-product-usage-data-in-gainsight) is used by your CSM and can provide you with insights into current customer usage data by use case by walking you through the relevant dashboard in Gainsight.
-- [CustomersDot Admin](https://customers.gitlab.com/admin/) (see [overview video here](https://youtu.be/G9JuHXqV5LM)): most customers have an account that breaks down their purchases and provides some insight into SaaS usage. Also good for linking purchases to VersionDot usage data
+-[GitLab Propensity Models](https://internal.gitlab.com/handbook/sales/propensity_models/) allow you to dive deep into data provided by our Data Science Team including Propensity to Buy, Propensity to Churn, and Propensity to Expand. You can also find these fields in Salesforce and use them to inform your strategy in your territory. 
 
 
-
-
-View the [Commercial Sales Playbook](/handbook/sales/commercial/) here.
+Looking for information on the Commercial Sales Organization? View the [Commercial Sales Playbook](/handbook/sales/commercial/) here.

@@ -158,6 +158,71 @@ See [Versioning and release process](https://docs.gitlab.com/ee/development/sec/
 
 See [QA Process](qa_process.html) for more info.
 
+#### Vulnerability Management process
+
+##### Automation
+
+We use the [security-triage-automation](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation) tool in cunjunction with [scheduled pipelines in the release project](https://gitlab.com/gitlab-org/security-products/release/-/blob/master/.gitlab/ci/security-triage-automation.yml?ref_type=heads) to handle the following tasks:
+
+1. [Create security issues for FedRAMP vulnerabilities (Container Scanning results only) still detected on the default branch ](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation#process-vulnerabilities-for-a-given-project), executed at least once, on the first day of the month to match with FedRAMP compliance report cadence.
+Note that we do not yet automatically create security issues for non-FedRAMP vulnerabilities. Please see the [Non-FedRAMP vulnerabilities section](#non-fedramp-vulnerabilities) for more details.
+1. [Resolve all vulnerabilities (both FedRAMP and non-FedRAMP) no longer detected on the default branch and close their issues](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation#resolve-vulnerabilities-and-close-their-issues), executed every 2 days.
+
+[The Vulnmapper tool](https://gitlab.com/gitlab-com/gl-security/threatmanagement/vulnerability-management/vulnerability-management-internal/vulnmapper) also provides some [automation to vulnerability management](/handbook/security/threat-management/vulnerability-management/#automation) like:
+
+1. adding labels to security issues to further classify the fix availability (fix_available, fix_unavailable, will_not_be_fixed, etc.).
+1. creating Deviation Request issues for FedRAMP related security issues that should have one.
+
+Note: Our goal is to centralize automation for vulnerability management in the [Vulnmapper tool in the nearest future](https://gitlab.com/gitlab-com/gl-security/threatmanagement/vulnerability-management/vulnerability-management-internal/vulnmapper/-/milestones/4#tab-issues) and standardize our processes across the company. However, so far we're following the existing process based on the [security-triage-automation tool](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation).
+
+<details>
+  <summary>View manual process fallback when automation fails</summary>
+  
+  #### Manually reviewing and resolving vulnerabilities
+
+  On a weekly basis: review the vulnerability report to resolve no longer detected ones and close related issues. Note: It is not necessary to investigate vulnerabilities that are no longer detected.
+
+  1. Visit `Vulnerability Report Dashboards` to verify that there are vulnerabilities that can be resolved.
+  2. Execute the `security-triage-automation` tool to [resolve vulnerabilities and close their issues](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation#resolve-vulnerabilities-and-close-their-issues). This tool must be executed separately for each project that have vulnerabilities to resolve.
+  3. Verify in `Vulnerability Report Dashboards` that vulnerabilities have been resolved.
+
+  #### Manually creating security issues for FedRAMP vulnerabilities
+
+  Last working day before the 1<sup>st</sup> of the month, `create` security issues for FedRAMP vulnerability of the CONTAINER_SCANNING type and CRITICAL, HIGH, MEDIUM, LOW, and UNKNOWN severity levels by executing the `security-triage-automation` tool to [process vulnerabilities for a given project](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation#process-vulnerabilities-for-a-given-project) (please make sure to adjust CLI options accordingly). This tool must be executed separately for each project.
+
+  #### Manually creating FedRAMP issues
+
+  In cases where automation fails, you must create the [Deviation Requests](/handbook/security/security-assurance/dedicated-compliance/poam-deviation-request-procedure/) manually before the issues reach SLA.
+  To do so, use the following procedure.
+
+  1. Open a DR issue with the [operational requirement template](https://gitlab.com/gitlab-com/gl-security/security-assurance/team-security-dedicated-compliance/poam-deviation-requests/-/issues/new?issuable_template=operational_requirement_template).
+      1. Update the `Vulnerability Details` section with a link to the advisory (RedHat tracker usually), CVE ID, severity, and CVSS score.
+      1. Update the `Justification Section` with:
+
+      > The OS vendor has published an updated advisory for <CVE_ID>, indicating that package <PACKAGE_NAME> has not yet had a fix released for this vulnerability. Until a fix is available for the package, this vulnerability cannot practically be remediated.
+
+      1. Update the `Attached Evidence` section with:
+
+      > As this operational requirement represents a dependency on a vendor-published package to address this vulnerability, no additional evidence has been supplied. Please refer to the linked vendor advisory in the above justification.
+
+      1. Link it to the security issue: `/relate <issue_id>`
+    1. Update the security issue accordingly
+
+      ```
+      /label ~"FedRAMP::Vulnerability" ~"FedRAMP::DR Status::Open"
+      /milestone %Backlog
+      ```
+</details>
+
+###### FedRAMP vulnerabilities
+
+To ensure compliance, the management of FedRAMP vulnerabilities is handled by [automation](#automation). Please check the manual process fallback for additional details.
+
+###### Non-FedRAMP vulnerabilities
+
+We do not yet have the same automation in place for non-FedRAMP vulnerabilities since it represents a too important volume to manage for our teams and some necessary [improvements in the vulnmapper tool](https://gitlab.com/gitlab-com/gl-security/threatmanagement/vulnerability-management/vulnerability-management-internal/vulnmapper/-/milestones/4#tab-issues) are required prior to enabling this. 
+In the meantime, we favor a more specialized approach for these vulnerabilities and there is no standardized process across the groups.
+
 #### Error Monitoring
 
 500 errors on gitlab.com are reported to Sentry. Below are some quick links to pull up Sentry errors related to Secure.

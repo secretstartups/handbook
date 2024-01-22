@@ -97,7 +97,8 @@ If you have questions about your individual case, please contact the EBA to the 
 
 1. Create a merge request to add yourself to the [rotation schedule](#rotation-schedule), assigning yourself.
 1. Add your manager as a reviewer and ask them to approve (**but not to merge**) the merge request.
-1. Once your manager approves the merge request, add the [Executive Business Admin (EBA) to CEO]({{< ref eba >}}) as a reviewer.
+1. Once your manager approves the merge request, add your e-group leader as a reviewer and ask them to also approve (**but not to merge**) the merge request.
+1. Once your e-group member approves, add the [Staff Executive Business Admin (EBA) to CEO]({{< ref eba >}}) as a reviewer.
 1. Post in the `#ceo-shadow` channel with a link to the merge request, and `@mention` the Staff EBA in the message.
 
 Please keep in mind when selecting dates that the CEO's schedule is fluid and subject to constant change, which also means that the CEO Shadow rotation is subject to constant change. The posted dates are not guaranteed. We will work with you to reschedule your rotation if a conflict arises.
@@ -126,10 +127,8 @@ For those with regular commitments, look for shorter weeks or timezone variation
 
 | Start date | End date | See one | Teach one | Schedule Notes |
 | ---------- | -------- | ------- | --------- | -------------- |
-| 2024-01-08 | 2024-01-12 | [Javier Garcia](https://gitlab.com/jgarc) - Frontend Engineer, Digital Experience | [Yin Yu](https://gitlab.com/yyugitlab) - Director, Strategy & Operations | REMOTE - PT |
-| 2024-01-15 | 2024-01-19 | [Ben Venker](https://gitlab.com/bvenker) - Sr. PM, Global Search | [Javier Garcia](https://gitlab.com/jgarc) - Frontend Engineer, Digital Experience | REMOTE - PT, TUES - FRI |
 | 2024-01-22 | 2024-01-26 | [Riley Longo](https://gitlab.com/rilongo) - Customer Service Manager | [Ben Venker](https://gitlab.com/bvenker) - Sr. PM, Global Search | REMOTE - PT |
-| 2024-01-29 | 2024-02-02 | [Dilan Orrino](https://gitlab.com/dorrino) - Sr Product Manager | [Riley Longo](https://gitlab.com/rilongo) - Customer Service Manager | REMOTE - PT, Likely 2 or 3 days TBC |
+| 2024-01-29 | 2024-02-02 | [Dilan Orrino](https://gitlab.com/dorrino) - Sr Product Manager | [Riley Longo](https://gitlab.com/rilongo) - Customer Service Manager | REMOTE - PT |
 | 2024-02-05 | 2024-02-09 | [Deepika Guliani](https://gitlab.com/deepika.guliani) - Frontend Engineer, Plan:Project Management | [Dilan Orrino](https://gitlab.com/dorrino) - Sr Product Manager | REMOTE - PT |
 | 2024-02-12 | 2024-02-14 | [Miracle Banks](https://gitlab.com/miraclebanks) - Full Stack Engineer | [Deepika Guliani](https://gitlab.com/deepika.guliani) - - Frontend Engineer, Plan:Project Management  | REMOTE - PT, MON - WED |
 | 2024-02-20 | 2024-02-23 | [Emma Neuberger](https://gitlab.com/eneuberger) - Sr Product Analyst | [Miracle Banks](https://gitlab.com/deepika.guliani) - Full Stack Engineer | REMOTE - PT, TUES - FRI |
@@ -156,6 +155,7 @@ If you have questions regarding the planned rotation schedule, please ping the [
 1. Be ready to add a number of [handbook]({{< ref handbook-usage >}}) updates during your shadow period.
 1. Participating in the shadow program is a privilege where you will be exposed to confidential information, including having access to material non-public information (MNPI). Participation in the shadow program and access to such information is underpinned by trust in the shadows to honor the confidentiality of topics being discussed and information shared. The continuation of this program is entirely dependent on shadows past, present, and future honoring this trust placed in them. As stated in GitLab's [Insider Trading Policy] (drive.google.com/file/d/1c2tX4IK3GofrsA6N_i4Sr72hOcI1_g_q/view), participants in the shadow program will be considered Designated Insiders because shadows have access to MNPI. Each participant of the CEO Shadow Program or other E-Group level shadow program will be added to the Designated Insider list for the quarter in which they are program participants. Each shadow will be removed from the Designated Insider list once the window has closed for the same quarter they participate as a shadow only if that is the sole reason the participant is on the Designated Insider list. For additional information, please see the [Designated Insider Pre-Clearance Process and FAQs](https://docs.google.com/document/d/1mcBtnfGbv4jSsJUklMQYyj2052MBHe4Lf9RkE-B9yvA/edit#).
 1. Give feedback to and receive feedback from the CEO. Participants in the shadow program are encouraged to deliver [candid feedback](/handbook/people-group/guidance-on-feedback/#guidelines-for-delivering-feedback). Examples of this are to the CEO and to the world about the company if they make a blog post or video. Shadows maintaining confidentiality during the program is separate from shadows being able to provide candid feedback.
+1. Please note that access to 1:1 docs as a CEO Shadow is limited to those where the attendee has agreed to share. If not shared, the attendee has declined to share.
 
 ### What to wear
 
@@ -799,3 +799,5 @@ CEO Shadow Program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2023-01-02 | 2023-01-06 | [Aaron Burgess](https://gitlab.com/GitlabAaron) | IBM Alliance Business Development Manager | |
 | 2023-01-16 | 2023-01-20 | [Stacy Cline](https://gitlab.com/slcline) | Sr Director, ESG | |
 | 2024-01-02 | 2024-01-05 | [Cynthia "Arty" Ng](https://gitlab.com/cynthia) | Staff, Strategy & Operations |  |
+| 2024-01-02 | 2024-01-12 | [Yin Yu](https://gitlab.com/yyugitlab) | Director, Strategy & Operations | [Why It's Worth a 6am Start - tips for timezone challenged team members](https://www.youtube.com/watch?v=NWrAxl0T6N0) |
+| 2024-01-08 | 2024-01-19 | [Javier Garcia](https://gitlab.com/jgarc) | Frontend Engineer, Digital Experience | [Shadowing the CEO of GitLab](https://blog.javiergarcia.io/posts/ceo-shadow-learning/) |

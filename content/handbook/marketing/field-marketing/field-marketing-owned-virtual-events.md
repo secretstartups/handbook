@@ -873,6 +873,8 @@ Note: Cloning a track will pull over all settings from that initial track. All w
 ### During Event 
 **DRI: FMM**
 
+Note: The FMM/DRIs are not to pause the workshop/webcast presentation. Pausing the workshop/webcast will negatively impact the final recording and follow-up email SLA. 
+
 FMM DRIs during the event are not only responsible for day of event coordination (virtually) but are also designated time keepers and hosts of the event.  
 
 For more information about hosting a virtual hands-on workshop, please watch [**this training video**](https://www.youtube.com/watch?v=f7L04-tQpJo&feature=youtu.be).
@@ -927,9 +929,7 @@ For many post-event tasks, you must be logged in to the Field Marketing Zoom Web
 
 **DRI: FMC**  
 
-- In the Zoom Webcast account, click `Recordings` on the left side navigation.
-- Find the webcast/workshop you would like to download the recording for, either by searching for the date or entering the webcast ID.
-- Click the `More` button next to the webcast/workshop name and select `Download`.
+- Please see [this section](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#downloading-the-recording-from-zoom) for detailed instructions on how to download a Zoom recording. 
 
 #### Closing out Workshops
 **DRI: FMM**

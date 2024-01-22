@@ -4,7 +4,8 @@ description: "Contributor Success Team"
 ---
 
 ## Common Links
-
+|  | |
+|-----|-----|
 | **GitLab Team Handle** | [`@gitlab-org/developer-relations/contributor-success`](https://gitlab.com/gitlab-org/developer-relations/contributor-success) |
 | **Slack Channel** | [`#contributor-success`](https://gitlab.slack.com/archives/C02R0NE6P6C) & [`#contributor-success-confidential`](https://gitlab.slack.com/archives/C04KENT97K7)
 | **Slack Channels from initiatives that we help drive**| [`#leading_organizations`](https://gitlab.slack.com/archives/C03KC7N184D)  |
@@ -14,7 +15,8 @@ description: "Contributor Success Team"
 - - -
 
 ## Sub-pages
-
+|  | |
+|-----|-----|
 | **Workflows** | [Contributor Success Contributor Workflows](/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows) |
 | **Metrics** | [Contributor metrics & dashboards](/handbook/marketing/developer-relations/contributor-success/metrics) |
 | **Contributing Organization Tracking** | [Contributing Organization Tracking](/handbook/marketing/developer-relations/contributor-success/contributing-org-tracker) |

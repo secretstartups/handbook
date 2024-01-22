@@ -32,7 +32,7 @@ The source url for a view from the internal Tableau site can be found by navigat
 
 ![](images/tableau_view_link.png)
 
-This chart should only require a log in to the Tableau site and only be visible to those that have a Tableau licesne. 
+This chart should only require a log in to the Tableau site and only be visible to those that have a Tableau license. 
 
 {{< tableau height="600px" src="https://10az.online.tableau.com/t/gitlab/views/OKR4_7EngKPITest/PastDueInfraDevIssues" >}}
 {{< /tableau >}}

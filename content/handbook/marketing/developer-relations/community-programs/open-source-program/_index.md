@@ -390,16 +390,34 @@ Event organizers and consortium leads working with GitLab will find GitLab's bra
 
 Our team measures the success of our work in the following ways.
 
+### Program enrollment
+
+The GitLab for Open Source Program team monitors the health and vitality of the program by tracking overall program membership and members' annual renewal rates. We do this via the follwing Tableau dashboard:
+
+* [Community Dashboard](https://10az.online.tableau.com/#/site/gitlab/views/CommunityDash/CommunityDashboard)
+
+The dashboard reports the `Number of Licenses` the program is currently administering, the number of `Unique Accounts` associated with the program, and the `Institution Rewnewed` rate.
+
+GitLab team members with SAFE access to Tableau can view this reports for additional details.
+
 ### Program member GitLab utilization
 
 The GitLab for Open Source Program furnishes insights about the ways open source projects and communities use GitLab's various features and functions.
 We therefore track members' overal utilization of GitLab where possible.
-We do this via Saesforce according to the following reports:
+We do this via Salesforce according to the following reports:
 
 * [Open Source Program Utilization](https://gitlab.my.salesforce.com/00OPL0000009ihl)
 * [Open Source Program Seats](https://gitlab.my.salesforce.com/00O8X000008mhmV)
 
-GitLab team members with access to Salesforce can view these reports for additional details.
+GitLab team members with access to Salesforce and Gainsight can view these reports for additional details.
+
+### Support ticket volume and response
+
+The GitLab for Open Source Program team manages program support tickets in a [dedicated private GitLab project](https://gitlab.com/gitlab-com/marketing/developer-relations/open-source-program/open-source-program-support) with corresponding Service Desk. Because the team is dedicated to providing quick, helpful service to program members, we measure both the volume of tickets we receive quarterly and the average time required to respond to those tickets. We do this via the following Tableau dashboard:
+
+* [Community Programs Support Tickets Dashboard](https://10az.online.tableau.com/#/site/gitlab/views/OpenSourceSupportTickets/CommunityProgramsSupportTicketsDashboard?:iid=2)
+
+GitLab team members with access to Tableau can view this reports for additional details.
 
 ### Impact on Hacker News
 

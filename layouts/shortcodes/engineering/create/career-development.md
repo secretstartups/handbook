@@ -29,5 +29,5 @@ the sheet will be updated to match.
 
 [Career development]: /handbook/engineering/career-development/
 [Career Development Sheet]: https://docs.google.com/spreadsheets/d/1u_123EK7Kts9wvA4wEDJtiHvMpsc7Q7GCpRIm8SydZY/edit#gid=0
-[Engineering Career Matrix for Individual Contributors]: /handbook/engineering/career-development/matrix/engineering/
+[Engineering Career Matrix for Individual Contributors]: /handbook/engineering/careers/matrix/
 [career matrix epic]: https://gitlab.com/groups/gitlab-com/-/epics/85

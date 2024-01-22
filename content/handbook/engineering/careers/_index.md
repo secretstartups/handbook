@@ -19,7 +19,7 @@ Specific coaching plan templates are listed here to help start the conversation:
 We want to build these documents around the career matrix for Engineering. Since this career
 matrix is still being developed, these documents are currently based on the [job family requirements](/job-families/engineering/).
 
-The first career matrix being developed is for [Individual Contributors in Engineering](/handbook/engineering/career-development/matrix/engineering/).
+The first career matrix being developed is for [Individual Contributors in Engineering](/handbook/engineering/careers/matrix/).
 
 When a team member is deemed ready for promotion, their manager should follow
 the [promotion process outlined by People](/handbook/people-group/promotions-transfers/) Ops.
@@ -149,7 +149,7 @@ For more details on logistics of ending an interim or acting period please refer
   %% frontend roles
   eng:tfe(Intern Frontend Engineer);
   click eng:tfe "https://handbook.gitlab.com/job-families/engineering/development/frontend/#intern-frontend-engineer";
-  
+
   eng:afe(Associate Frontend Engineer);
   click eng:afe "https://handbook.gitlab.com/job-families/engineering/development/frontend/#associate-frontend-engineer";
 
@@ -181,7 +181,7 @@ For more details on logistics of ending an interim or acting period please refer
   %% fullstack roles
   eng:tfs(Intern Fullstack Engineer);
   click eng:tfs "https://handbook.gitlab.com/job-families/engineering/development/fullstack/#intern-fullstack-engineer";
-  
+
   eng:afs(Associate Fullstack Engineer);
   click eng:afs "https://handbook.gitlab.com/job-families/engineering/development/fullstack/#associate-fullstack-engineer";
 

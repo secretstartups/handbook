@@ -154,11 +154,11 @@ the [Dedicated group principles](/handbook/engineering/infrastructure/team/gitla
 
 As the Switchboard team is currently small, we use an 'Approve and Merge' approach:
 
-1. When you're ready to have your merge request reviewed, select a [Switchboard reviewer](https://gitlab.com/groups/gitlab-dedicated/switchboard/reviewers/-/group_members).
+1. When you're ready to have your merge request reviewed, select one or more [Switchboard reviewers](https://gitlab.com/groups/gitlab-dedicated/switchboard/reviewers/-/group_members).
    * If you're not certain about who to choose, you can use the [reviewer roulette](#reviewer-roulette) to randomly select a reviewer.
    * If the issue is labelled `technical writing` add the Switchboard technical writer as a reviewer
-1. The reviewer will perform a review based on [reviewing a merge request guidelines](https://docs.gitlab.com/ee/development/code_review.html#reviewing-a-merge-request).
-1. If satisfied, the reviewer will approve.
+1. Reviewers will perform a review based on [reviewing a merge request guidelines](https://docs.gitlab.com/ee/development/code_review.html#reviewing-a-merge-request).
+1. If satisfied, a reviewer will approve and merge unless other reviewers have questions or suggestions that are not addressed.
 1. If the merge request contains the required approvals, the reviewer will trigger a pipeline and set auto-merge.
    * If the reviewer does not have merge permission, they should seek out a maintainer for merging.
 

@@ -1,10 +1,7 @@
 ---
 title: "Security Third Party Risk Management"
+controlled_document: true
 ---
-
-{{% alert title="This is a Controlled Document" color="danger" %}}
-Inline with GitLab's regulatory obligations, changes to [controlled documents]({{< ref "controlled-document-procedure" >}}) must be approved or merged by a code owner. All contributions are welcome and encouraged.
-{{% /alert %}}
 
 ## GitLab's Integrated Third-Party Risk Management Program
 
@@ -191,6 +188,7 @@ Security Risk maintains multiple templated versions of the SIG questionnaire for
         - L. Compliance Management
         - M. Endpoint Security
         - N. Network Security
+        - O. Environmental, Social, Governance (ESG)
         - P. Privacy Management
         - R. Artificial Intelligence
         - S. Supply Chain Risk Mgmt

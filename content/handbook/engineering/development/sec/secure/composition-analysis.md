@@ -131,25 +131,10 @@ These items must be triaged continuously throughout the milestone which means th
 
 We are responsible for triaging vulnerabilities reported on 2 sets of projects: the projects maintained by GitLab and the upstream scanner software we might depend on. Though, we have different processes that apply depending on the situation.
 
-#### Automation
-
-**This only applies to projects maintained by GitLab.**
-
-We use the [security-triage-automation](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation) tool in cunjunction with [scheduled pipelines in the release project](https://gitlab.com/gitlab-org/security-products/release/-/blob/master/.gitlab/ci/security-triage-automation.yml?ref_type=heads) to handle the following tasks:
-
-1. [Create security issues for FedRAMP vulnerabilities (Container Scanning results only) still detected on the default branch ](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation#process-vulnerabilities-for-a-given-project), executed at least once, on the first day of the month to match with FEDRamp compliance report cadence.
-   1. We do not yet automatically create security issues for non-FedRAMP vulnerabilites. Please see the [Non-FedRAMP vulnerabilities section](#non-fedramp-vulnerabilities) for more details.
-1. [Resolve all vulnerabilities (both FedRAMP and non-FedRAMP) no longer detected on the default branch and close their issues](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation#resolve-vulnerabilities-and-close-their-issues), executed every 2 days.
-
-[The Vulnmapper tool](https://gitlab.com/gitlab-com/gl-security/threatmanagement/vulnerability-management/vulnerability-management-internal/vulnmapper) also provides some [automation to vulnerability management](/handbook/security/threat-management/vulnerability-management/#automation) like:
-
-1. adding labels to security issues to further classify the fix availability (fix_available, fix_unavailable, will_not_be_fixed, etc.).
-1. creating Deviation Request issues for FedRAMP related security issues that should have one.
-
-Note: Our goal is to centralize automation for vulnerability management in the [Vulnmapper tool in the nearest future](https://gitlab.com/gitlab-com/gl-security/threatmanagement/vulnerability-management/vulnerability-management-internal/vulnmapper/-/issues/83) and standardize our processes across the company. However, so far we're following the existing process based on the [security-triage-automation tool](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation).
+See the [Secure sub-department vulnerability management process](/handbook/engineering/development/sec/secure/#vulnerability-management-process).
 
 <details>
-  <summary>View manual process fallback when automation fails</summary>
+  <summary>View manual process fallback that is specific to Composition Analysis group</summary>
 
   **Please keep track of the commands that were executed and add them to a private note in the reaction rotation issue.**
 
@@ -174,42 +159,8 @@ Note: Our goal is to centralize automation for vulnerability management in the [
       - [container scanning](#container-scanning)
       - [dependency scanning](#dependency-scanning)
 
-  #### Manually creating FedRAMP issues
-
-  In cases where automation fails, you must create the [Deviation Requests](/handbook/security/security-assurance/dedicated-compliance/poam-deviation-request-procedure/) manually before the issues reach SLA.
-  To do so, use the following procedure.
-
-  1. Open a DR issue with the [operational requirement template](https://gitlab.com/gitlab-com/gl-security/security-assurance/team-security-dedicated-compliance/poam-deviation-requests/-/issues/new?issuable_template=operational_requirement_template).
-      1. Update the `Vulnerability Details` section with a link to the advisory (RedHat tracker usually), CVE ID, severity, and CVSS score.
-      1. Update the `Justification Section` with:
-
-      > The OS vendor has published an updated advisory for <CVE_ID>, indicating that package <PACKAGE_NAME> has not yet had a fix released for this vulnerability. Until a fix is available for the package, this vulnerability cannot practically be remediated.
-
-      1. Update the `Attached Evidence` section with:
-
-      > As this operational requirement represents a dependency on a vendor-published package to address this vulnerability, no additional evidence has been supplied. Please refer to the linked vendor advisory in the above justification.
-
-      1. Link it to the security issue: `/relate <issue_id>`
-    1. Update the security issue accordingly
-
-      ```
-      /label ~"FedRAMP::Vulnerability" ~"FedRAMP::DR Status::Open"
-      /milestone %Backlog
-      ```
 </details>
 
-#### FedRAMP vulnerabilities
-
-**This only applies to projects maintained by GitLab.**
-
-Management of FedRAMP vulnerability is handled by [automation](#automation). Please check the manual process fallback for details.
-
-#### Non-FedRAMP vulnerabilities
-
-**This only applies to projects maintained by GitLab.**
-
-We do not yet have the same automation in place for non-FedRAMP vulnerabilites as for FedRAMP ones since it represents a too important volume to manage for our team.
-Some necessary [improvements in the vulnmapper tool](https://gitlab.com/gitlab-com/gl-security/threatmanagement/vulnerability-management/vulnerability-management-internal/vulnmapper/-/issues/83) are required prior to enabling this. In the meantime, we favor a more focused approach for these vulnerabilities.
 
 ##### Security Policy
 

@@ -11,11 +11,9 @@ description: "The CI Data Partitioning Weekly Project Plan - Pipeline Execution 
 - 16.6: ci_builds and ci_builds_metadata tables partitioned
 - 16.7: ci_builds and ci_builds_metadata second partitions in use
 - 16.9: ci_pipeline_variables table partitioned
-- 16.10: ci_pipeline_variables second partitions in use
 - 17.0: ci_job_artifacts, ci_stages tables partitioned
-- 17.1: ci_job_artifacts, ci_stages second partitions in use
 - 17.2: ci_pipelines table partitioned
-- 17.3: ci_pipelines second partitions in use
+- 17.3: ci_pipelines, ci_job_artifacts, ci_stages, and ci_pipeline_variables second partitions in use
 - 17.6: rebalancing complete for partitioned tables
 
 [Related Epic](https://gitlab.com/groups/gitlab-org/-/epics/5417)
@@ -352,7 +350,6 @@ We will flesh out work necessary for the time-decay mechanism and partition mana
 
 #### Goals:
 
-We will start using the second partitions of ci_pipeline_variables.
 This milestone we will start work on the time decay mechanism and partition manager.
 Incremental work will continue towards partitioning of ci_job_artifacts, ci_stages, and ci_pipelines.
 We will continue identifying and updating necessary sql queries to include partition_id. 
@@ -393,7 +390,6 @@ We will make efforts to clean up any remaining tech debt that we have created - 
 
 #### Goals:
 
-We will start using the second partitions of ci_job_artifacts and ci_stages.
 This milestone we will complete the partitioning of ci_pipelines. 
 We will continue identifying and updating necessary sql queries to include partition_id. 
 We will make efforts to clean up any remaining tech debt that we have created - we've been tracking it as we go.
@@ -404,7 +400,7 @@ We will make efforts to clean up any remaining tech debt that we have created - 
 - 3 BE
 
 #### Goals:
-We will start using the second partition of ci_pipelines.
+We will start using the second partition of ci_pipelines, ci_pipeline_variables, ci_job_artifacts, and ci_stages.
 We will start rebalancing the existing partitions now that the 6 target tables have been partitioned.
 At this point it is unclear how long the rebalancing will take, but as we get closer we will update the
 plan with more information.

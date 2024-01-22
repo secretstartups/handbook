@@ -4,7 +4,7 @@ description: GitLab's Employment Solutions.
 ---
 
 This page contains an overview of how we have scaled team members Globally.
-The DRI for all Employment Solutions is the [Employment Solutions Partner]({{< ref "/job-families/people-group/employment-solutions" >}}). Any changes to any contracts should be requested to the Employment Solutions Partner and will require approval from our Director of Tax & our Director of Legal, Employment.
+The DRI for all Employment Solutions is the [Employment Solutions Partner]({{< ref "/job-families/people-group/global-workforce-strategy" >}}). Any changes to any contracts should be requested to the Employment Solutions Partner and will require approval from our Director of Tax & our Director of Legal, Employment.
 
 ## Country Hiring Guidelines
 
@@ -74,18 +74,16 @@ Note: In countries with a star (*) hiring is limited to only certain roles, more
 
 ### PEO (Professional Employer Organization/ Employer of Record and not a GitLab entity or Branch)
 
-This table reflects the countries in which we utilize PEO's, These countries are open for hiring:
+This table reflects the countries in which we utilize PEO's. These countries are open for hiring but there may be times where we pause, close or are unable to hire in a given location due to the limitations or requirements of a particular role, or as a result of key projects or business needs. Our Talent Acquisition team can help answer any questions applicants may have about location once the recruiting process has begun:
 
 Note: In countries with a star (*) hiring is limited to only certain roles, more detail can be found in our internal [compensation calculator](https://comp-calculator.gitlab.net/users/sign_in) under Country Hiring Status.
 
 |     Country    |  Agreement Type(s) | Hiring Partner | Entity to Invoice (for AP only) | Pay Frequency | Paid By | Currency paid in | Workday Profile (Y/N) | Scalable PEO (Y/N) | Open for hiring (Y/N) |
 |:--------------:|:------------------:|:--------------:|:-------------------------------:|:-------------:|:-------:|:----------------:|:---------------------:|:------------------:|:---------------------:|
 |    Austria *   | Employed via a PEO |   Remote.com   |           GitLab IT BV          |       12      |   PEO   |        EUR       |           Y           |          Y         |           Y           |
-|    Brazil *    | Employed via a PEO |   Remote.com   |           GitLab IT BV          |       12      |   PEO   |        BRL       |           Y           |          Y         |           Y           |
 |     Chile *    | Employed via a PEO |  Global Upside |           GitLab IT BV          |       12      |   PEO   |        CLP       |           Y           |          Y         |           Y           |
 |  Costa Rica *  | Employed via a PEO |  Global Upside |           GitLab IT BV          |       12      |   PEO   |        USD       |           Y           |          Y         |           Y           |
 |     India *    | Employed via a PEO |  Global Upside |           GitLab IT BV          |       12      |   PEO   |        INR       |           Y           |          Y         |           Y           |
-|     Italy *    | Employed via a PEO |   Remote.com   |           GitLab IT BV          |       14      |   PEO   |        EUR       |           Y           |          Y         |           Y           |
 |     Kenya *    | Employed via a PEO |  Global Upside |           GitLab IT BV          |       12      |   PEO   |        KES       |           Y           |          Y         |           Y           |
 |    Latvia *    | Employed via a PEO |  Global Upside |           GitLab IT BV          |       12      |   PEO   |        EUR       |           Y           |          Y         |           Y           |
 |  Luxembourg *  | Employed via a PEO |   Remote.com   |           GitLab IT BV          |       12      |   PEO   |        EUR       |           Y           |          Y         |           Y           |
@@ -94,7 +92,6 @@ Note: In countries with a star (*) hiring is limited to only certain roles, more
 | South Africa * | Employed via a PEO |   Remote.com   |           GitLab IT BV          |       12      |   PEO   |        ZAR       |           Y           |          Y         |           Y           |
 |  Switzerland * | Employed via a PEO |   Remote.com   |           GitLab IT BV          |       12      |   PEO   |        CHF       |           Y           |          Y         |           Y           |
 |    Sweden *    | Employed via a PEO |   Remote.com   |           GitLab IT BV          |       12      |   PEO   |        SEK       |           Y           |          Y         |           Y           |
-|      UAE *     | Employed via a PEO |  Papaya Global |           GitLab IT BV          |       12      |   PEO   |        AED       |           Y           |          Y         |           Y           |
 
 
 This table reflects the countries in which we have utilize PEO's but are currently NOT open for hiring:
@@ -115,6 +112,9 @@ This table reflects the countries in which we have utilize PEO's but are current
 | Hungary        | Employed via a PEO   | Remote.com     | GitLab IT BV                    |            12 | PEO     | HUF              | Y                     | Y                  | N                     |
 | Spain *        | Employed via a PEO   | Remote.com     | GitLab IT BV                    |            12 | PEO     | EUR              | Y                     | Y                  | N                     |
 | Denmark *      | Employed via a PEO   | Remote.com     | GitLab IT BV                    |            12 | PEO     | DKK              | Y                     | Y                  | N                     |
+|    Brazil *    |  Employed via a PEO  |   Remote.com   |           GitLab IT BV          |       12      |   PEO   |        BRL       |           Y           |          Y         |           N           |
+|      UAE *     |  Employed via a PEO  |  Papaya Global |           GitLab IT BV          |       12      |   PEO   |        AED       |           Y           |          Y         |           N           |
+|     Italy *    |  Employed via a PEO  |   Remote.com   |           GitLab IT BV          |       14      |   PEO   |        EUR       |           Y           |          Y         |           N           |
 
 Contact information for our PEO representatives is found in the `Entity & PEO Contacts` note in the PeopleOps vault in 1Password. If a team member, manager or PBP has a question relating to a PEO, their process, or any related procedure for a PEO-employed team member, please reach out to the Employment Solutions Partner (@hdevlin) who will liaise and find a solution with the PEO's support.
 

@@ -49,7 +49,7 @@ Two ways of thinking about ticket data selection:
 
 Please also see the table below as a guideline on what `Transaction issue type` can be selected for scenarios:
 
-| Transaction issue type | Sub-type | Scenario
+| Transaction issue type | Sub-type | Scenario |
 | ---- | ----- | ----- |
 | Billing & Payment (refunds, cancellations, payment questions) |  | Requests for refunds or cancellations + questions about payment and billing |
 | EDU/OSS/Startups | EDU account inquiries | Requests/inquiries for the Education team. Follow [workflow](/handbook/support/workflows/special-programs) |

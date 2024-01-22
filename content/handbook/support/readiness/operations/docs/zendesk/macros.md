@@ -18,172 +18,133 @@ As per
 > determine if a macro should be applied. Agents evaluate tickets and apply
 > macros manually as needed.
 
-## How GitLab manages Zendesk macros
+## Change management
+
+Keep in mind, all change management should be stemming from an issue, first and
+foremost.
+
+#### Creating a new macro with managed content
+
+When your new macro is going to be using managed content, you will first
+need to get the managed content file in the Support managed content project.
+Remember to use the correct filenames for all of this to prevent
+[Pipeline error “No managed content file”](#pipeline-error-no-managed-content-file)
+in the sync repo project later on.
+
+Only after that has been done should you proceed to the next steps, which will
+match the steps detailed in
+[Creating a new macro without managed content](#creating-a-new-macro-without-managed-content)
+exactly.
+
+#### Creating a new macro without managed content
+
+This is a bit simpler than creating one with managed content. You will start by
+creating a placeholder macro within Zendesk itself (as you will need the ID for
+the sync repo). To do this, open up the admin page of your corresponding Zendesk
+instance ([Global](https://gitlab.zendesk.com/admin) or
+[US Government](https://gitlab-federal-support.zendesk.com/admin)), click
+`Workspaces` on the left-hand side, and then click `Macros`. On this page, you
+will want to click `Add macro`. This will bring up the new macro page.
+
+On this page, you will do the following:
+
+- Set the name to "Placeholder for ISSUE_LINK" (replacing `ISSUE_LINK` with the
+  link to the issue you are working out of).
+- Set an action of:
+  - `Brand` `GitLab`
+
+After doing so, click the blue `Create` button. You will then locate the
+placeholder macro you just created and get the ID value from it (if you click
+it, you can see it in the URL).
+
+From here, create the merge request in the sync repo project.
+
+#### Updating an existing macro
+
+Updating an existing macro is considerably easier than creating a new one.
+Simply change change the code in the source project and it will occur via the
+sync repo.
+
+The one caveat you need to consider is when you are changing a macro to allow
+for managed content (or to disable it using managed content).
+
+If you are adding managed content for the automation, see
+[Creating a new macro with managed content](creating-a-new-macro-with-managed-content)
+as that process will detail setting up the connection.
+
+If you are removing managed content for the macro, you will simply change the
+the macro file in the source sync repo project via your merge request. After
+that has been merged, you will want to comment on the original issue asking the
+requester to remove the file from the corresponding Support managed content
+project.
+
+#### Deactivating a macro
+
+To deactivate a macro, you will simply change the macro file in the source sync
+repo project via your merge request. Ensure you merge request does the
+following:
+
+- Moves the file from the `data/active` folder to the `data/inactive` folder
+- Sets `active: true` to `active: false` in the file.
+- Set an action of:
+  - `Brand` `GitLab`
+
+#### Deleting a deactivated macro
+
+**NOTE** We avoid doing this unless a macro has been deactivated for a full
+year. After that point it can be deleted completely.
+
+To delete a macro, you need to purge it from multiple locations:
+
+- Sync repo project
+- Support managed content project
+- Zendesk itself
+
+The first two can be done via merge requests, but the last one has to be done in
+the Zendesk instance itself. To do this, open up the admin page of your
+corresponding Zendesk instance ([Global](https://gitlab.zendesk.com/admin) or
+[US Government](https://gitlab-federal-support.zendesk.com/admin)), click
+`Workspaces` on the left-hand side, and then click `Macros`. On this page, you
+will want to click `Inactive`, hover over the macro you are deleting, click the
+three vertical dots at right-hand side of the macro, and click `Delete`. This
+will cause a pop-up modal to appear asking you to confirm the action. Click blue
+`Delete macro` button to do so.
+
+#### Pipeline error "No managed content file"
+
+This happens when we have said a managed content file should exist, but the git
+submodule does not contain one. This is commonly caused by:
+
+- The file does not actually exist. If this is the case, you need to assist in
+  getting it created in the Support managed content project
+- Filename mismatches. This all works very specifically using naming
+  conventions. If there is something even *slightly* off, your pipelines will
+  encounter issues. The scripts are looking for a file that has the **exact**
+  same name as the macros's `title`, replacing all instances of `:` with `/`. So
+  if your macro has a title of `Jason::Do a Thing`, the corresponding Support
+  managed content project should have a file with the same name
+  (`Jason/Do a Thing.md`). You will need to assist in correcting that on the
+  Support managed content project first, and then rebase your merge request
+  after that is done.
+- You created the merge request in the source project before the file was added
+  to the Support managed content project. To rectify this, get the Support
+  managed content project MR completed and merged first. Once that has been
+  done, you can rebase your MR by making a comment of `/rebase`. After it
+  performs the rebase, your MR's CI/CD pipeline should pass.
+
+## Source Projects
 
 #### Zendesk Global
-
-We currently utilize a [v2 sync repo](../../change_management/sync_repos#v2) for
-managing macros in Zendesk Global.
-
-The two projects that make this work are:
 
 - [Support managed content project](https://gitlab.com/gitlab-com/support/zendesk-global/macros)
 - [Sync repo project](https://gitlab.com/gitlab-support-readiness/zendesk-global/macros)
 
-Deployments are done immediately when commits are made to the default branch.
-
-The basic process for management of macros would be:
-
-```mermaid
-graph TD;
-  A -->|Content modification| B
-  A -->|Anything else| E
-  B --> C
-  C --> D
-  D --> I
-  E --> F
-  F -->|Actions modification| G
-  F -->|Creation| K
-  F -->|Deactivation| N
-  G --> H
-  H --> I
-  I --> J
-  K --> L
-  L --> M
-  M --> G
-  N --> G
-  A{What kind of change is it?}
-  B[Merge request created<br>in Support managed<br>content project]
-  C[Support Manager reviews,<br>approves, and merges<br>the changes]
-  D[Webhook fires to trigger<br>submodule update on<br>sync repo project]
-  E[support-team-meta issue is created]
-  F{Support Readiness determines<br>actions needed}
-  G[Support Readiness creates<br>merge request in<br>sync repo project]
-  H[Support Readiness reviews,<br>approves, and merges<br>the changes]
-  I[Commit is made on default<br>branch of sync repo project]
-  J[Sync scripts perform updates in Zendesk]
-  K[Support Readiness creates<br>placeholder macro in Zendesk]
-  L[Support Readiness creates<br>merge request in Support<br>managed content project]
-  M[Support Manager reviews,<br>approves, and merges<br>the changes]
-  N[Support Readiness tells<br>Support to move the file<br>in the Support managed<br>content project after a<br>specific date]
-```
-
 #### Zendesk US Government
-
-We currently utilize a [v2 sync repo](../../change_management/sync_repos#v2) for
-managing macros in Zendesk Global.
-
-The two projects that make this work are:
 
 - [Support managed content project](https://gitlab.com/gitlab-com/support/zendesk-us-government/macros)
 - [Sync repo project](https://gitlab.com/gitlab-support-readiness/zendesk-us-government/macros)
 
-Deployments are done immediately when commits are made to the default branch.
-
-The basic process for management of macros would be:
-
-```mermaid
-graph TD;
-  A -->|Content modification| B
-  A -->|Anything else| E
-  B --> C
-  C --> D
-  D --> I
-  E --> F
-  F -->|Actions modification| G
-  F -->|Creation| K
-  F -->|Deactivation| N
-  G --> H
-  H --> I
-  I --> J
-  K --> L
-  L --> M
-  M --> G
-  N --> G
-  A{What kind of change is it?}
-  B[Merge request created<br>in Support managed<br>content project]
-  C[Support Manager reviews,<br>approves, and merges<br>the changes]
-  D[Webhook fires to trigger<br>submodule update on<br>sync repo project]
-  E[support-team-meta issue is created]
-  F{Support Readiness determines<br>actions needed}
-  G[Support Readiness creates<br>merge request in<br>sync repo project]
-  H[Support Readiness reviews,<br>approves, and merges<br>the changes]
-  I[Commit is made on default<br>branch of sync repo project]
-  J[Sync scripts perform updates in Zendesk]
-  K[Support Readiness creates<br>placeholder macro in Zendesk]
-  L[Support Readiness creates<br>merge request in Support<br>managed content project]
-  M[Support Manager reviews,<br>approves, and merges<br>the changes]
-  N[Support Readiness tells<br>Support to move the file<br>in the Support managed<br>content project after a<br>specific date]
-```
-
-## Performing actions in Zendesk
-
-**NOTE**: This is for documentation and instruction purpose. An admin level
-account is required and these should only be performed when actually warranted,
-such as when creating a placeholder macro.
-
-#### Creating a macro via Zendesk
-
-To create a macro in Zendesk, you first need to go to the Admin Center
-([Zendesk Global](https://gitlab.zendesk.com/admin/) /
-[Zendesk US Federal](https://gitlab-federal-support.zendesk.com/admin/)). From
-there, you need to go to the Macros page (Workspaces > Agent tools > Macros).
-
-After doing so, you will then click the `Add macro` button on the top-right
-side of the page. This will then load up the new macro page.
-
-From here, you will:
-
-1. enter a name for the macro.
-1. select a description for the macro.
-1. enter the actions for the macro to perform
-
-After doing this, you will then click the blue `Create` button.
-
-#### Editing a macro via Zendesk
-
-To edit a macro in Zendesk, you first need to go to the Admin Center
-([Zendesk Global](https://gitlab.zendesk.com/admin/) /
-[Zendesk US Federal](https://gitlab-federal-support.zendesk.com/admin/)). From
-there, you need to go to the Macros page (Workspaces > Agent tools > Macros).
-
-You will then locate the macro to edit in the list and click on the name (if
-your macro is currently inactive, you will need to click the `Inactive` tab,
-located above the list of macro).
-
-Doing so will bring up the macros editor page. From here, you can tweak the
-various aspects of the macro. Once you have the edits in place, click the blue
-`Save` button.
-
-#### Deactivating a macro via Zendesk
-
-To deactivate a macro in Zendesk, you first need to go to the Admin Center
-([Zendesk Global](https://gitlab.zendesk.com/admin/) /
-[Zendesk US Federal](https://gitlab-federal-support.zendesk.com/admin/)). From
-there, you need to go to the Macros page (Workspaces > Agent tools > Macros).
-
-There are actually two ways to deactivate a macro in the Zendesk UI. The
-quicker way is to go to the macros page, locate the macro in question, hover
-over it, and click the three vertical dots on the right-hand side. This will
-bring up a sub-menu, which contains the option to `Deactivate`. Click that
-option and the macro will be deactivated.
-
-The alternative way to deactivate a macro in the Zendesk UI is from within the
-macro editor page. On that page, click the three horizontal dots in the
-top-right of the page and select `Deactivate` from the menu.
-
-#### Positioning
-
-While macros do have positions, we often do not worry about this. This is
-because the menu used by agents is searchable and readily findable. We also have
-a lot of macros, so trying to micro-manage the positions would not be efficient.
-
-#### Macro standards
-
-To ensure all macros we utilize are both consistent in nature and transparent
-in their actions, we strive to meet some standards on all macros we work with.
-
-#### Naming standards
+## Naming standards
 
 Macros are a bit unique in Zendesk. They have categorization, but it is not
 obvious in the UI. Instead, the categorization is determined based on the name

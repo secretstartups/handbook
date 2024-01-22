@@ -40,25 +40,59 @@ This coordination and prioritization requires a lot of work and effort to provid
 
 We will follow our parent department [Engineering](/handbook/engineering/#diversity) lead.
 
-## Organizational responsibilities
+## Organizational Structure
 
-The core development team is responsible for developing products in the following categories:
+```plantuml
+@startwbs
+* Core Development
+** Create
+*** Code Creation
+*** Code Review
+*** IDE
+*** Editor Extensions
+*** Source Code
+** Manage & AI Framework
+*** AI Framework
+*** Foundations
+*** Import
+** Ops
+*** Deploy
+*** Observability
+*** Package
+*** Verify:Runner
+*** Verify:Pipelines
+**** Pipeline Authoring
+**** Pipeline Execution
+**** Pipeline Security
+** Plan
+*** Optimize
+*** Product Planning
+*** Project Management
+*** Knowledge
+** Analyze
+*** Product Analytics
+*** Analytics Instrumentation
+@endwbs
+```
+
+## Organizational Responsibilities
+
+The core development team is comprised of:
 
 - [Dev](/handbook/engineering/development/dev/)
 - [Ops](/handbook/engineering/development/ops/)
-- [Enablement](/handbook/engineering/infrastructure/core-platform/)
 
 ## Team Members
 
 The following people are permanent members of the Development Department:
 
-{{< team-by-departments departments="Verify,Package,Release,Dev,Enablement,Ops,Fellow" manager="VP of Development" >}}
+{{< team-by-departments departments="Verify,Package,Release,Dev,Enablement,Ops,Fellow" manager="Senior Director, Core Development" >}}
 
-## Stable Counterparts
+<!-- ## Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-<!-- <%= stable_counterparts(role_regexp: /[,&] Development/, direct_manager_role: 'VP of Development') %> -->
+<%= stable_counterparts(role_regexp: /[,&] Development/, direct_manager_role: 'VP of Development') %> -->
 
 ## Team Composition
 

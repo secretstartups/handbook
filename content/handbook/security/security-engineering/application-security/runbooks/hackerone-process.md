@@ -149,6 +149,7 @@ Similar to how we handle exposed secrets, we sometimes handle exposed personal d
   - :warning: Bear in mind that turning an issue confidential doesn't turn attachments confidential.
 - Use the `/security` slack command to initiate an incident
   - Learn more about engaging the SEOC: https://about.gitlab.com/handbook/security/security-operations/sirt/engaging-security-on-call.html#engage-the-security-engineer-on-call
+  - Pick "Information Disclosure" as the nature of incident
   - In the description section, include a link to the HackerOne report and any other useful information
     - If possible, share the reporter's IP address(es) and time(s) the reporter accessed the sensitive data to assist with incident response.
   - "Not Urgent" is usually fine for these kind of leaks. The SEOC typically responds quickly anyway.

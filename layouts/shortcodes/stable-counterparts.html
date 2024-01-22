@@ -1,5 +1,3 @@
-{{- $teamSlice := partials.IncludeCached "data/team" page }}
-
 {{- $manager := "" }}
 {{- $counterparts := slice }}
 
@@ -7,17 +5,17 @@
     {{- $manager = . }}
 {{- end }}
 {{- with (.Get "manager-role") }}
-    {{- $member := where $teamSlice "role" "like" . }}
+    {{- $member := where site.Data.public.team "role" "like" . }}
     {{- $manager = (index $member 0).slug }}
 {{- end }}
 
 {{- with (.Get "role") }}
-    {{ $members := where (where (where $teamSlice "role" "like" .) "reports_to" "ne" $manager) "slug" "ne" $manager }}
+    {{ $members := where (where (where site.Data.public.team "role" "like" .) "reports_to" "ne" $manager) "slug" "ne" $manager }}
     {{ $counterparts = append $members $counterparts }}
 {{- end }}
 
 {{- with (.Get "other-manager-roles") }}
-    {{- $members := where $teamSlice "role" "like" . }}
+    {{- $members := where site.Data.public.team "role" "like" . }}
     {{- range $members }}
         {{ $counterparts = where $counterparts "reports_to" "ne" .slug }}
     {{- end }}
@@ -31,7 +29,7 @@
     <tbody>
         {{- range $counterparts }}
           <tr>
-              <td>{{ partial "member-by-name" .name }}</td>
+              <td>{{ partial "member/with-team-link" . }}</td>
               <td>{{ .role | safe.HTML }}</td>
           </tr>
           {{- end }}

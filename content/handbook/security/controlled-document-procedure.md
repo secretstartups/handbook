@@ -1,11 +1,8 @@
 ---
 title: "Controlled Document Procedure"
 description: "GitLab deploys control activities through policies and standards that establish what is expected and procedures that put policies and standards into action."
+controlled_document: true
 ---
-
-{{% alert title="This is a Controlled Document" color="danger" %}}
-Inline with GitLab's regulatory obligations, changes to [controlled documents]({{< ref "controlled-document-procedure" >}}) must be approved or merged by a code owner. All contributions are welcome and encouraged.
-{{% /alert %}}
 
 ## Purpose
 
@@ -100,7 +97,7 @@ Reviewers of controlled documents are required to
 | Database Disaster Recovery Procedure | Documents our disaster recovery for databases. | [https://about.gitlab.com/handbook/engineering/infrastructure/database/disaster_recovery/](/handbook/engineering/infrastructure/database/disaster_recovery/) | Infrastructure Management Team |
 | Disaster Recovery Procedure| Documents our disaster recovery. | [https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/library/disaster-recovery/index.md](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/library/disaster-recovery/index.md) | Infrastructure Management Team |
 | Encryption Policy | Documents the encryption process in which data is securely encoded at rest and in transit to remain hidden from or inaccessible to unauthorized users to better protect private, proprietary and sensitive data and enhance the security of communication between client applications and servers. | [https://about.gitlab.com/handbook/security/threat-management/vulnerability-management/encryption-policy/](/handbook/security/threat-management/vulnerability-management/encryption-policy/) | Security Threat Management |
-| EndPoint Management Procedure | GitLab utilizes centralized laptop management for company-issued laptops. | [https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/](/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/) | Business Technology Management |
+| EndPoint Management Procedure | GitLab utilizes centralized laptop management for company-issued laptops. | [https://handbook.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/](/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/) | Business Technology Management |
 | Expense Policy | Establishes the requirements for submitting expenses at GitLab. | [https://about.gitlab.com/handbook/finance/expenses/](/handbook/finance/expenses/) | Finance Management |
 | FedRAMP Vulnerability Deviation Request Procedure | Establishes a process for managing vulnerabilities that cannot be remediated within SLAs. | [https://about.gitlab.com/handbook/security/security-assurance/dedicated-compliance/POAM-Deviation-Request-Procedure/](/handbook/security/security-assurance/dedicated-compliance/POAM-Deviation-Request-Procedure/) | Security Assurance Management |
 | GCF Security Control Procedure | GCF Security Controls identified that need to be implemented by the security compliance team and dedicated team for compliance or regulatory reasons, these controls follow an established process in order to make that implementation successful. | [https://handbook.gitlab.com/handbook/security/security-assurance/security-compliance/security-control-lifecycle/](/handbook/security/security-assurance/security-compliance/security-control-lifecycle) | Security Compliance Management |
