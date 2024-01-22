@@ -15,7 +15,15 @@ description: The Create:Source Code FE team is responsible for all frontend aspe
 
 ## Team Vision
 
+A central piece in GitLab users' experience, innovating and keeping the experience delightful for all product categories that fall under the [Source Code group][group] of the [Create stage][stage] of the [DevOps lifecycle][lifecycle].
+
+[group]: /handbook/product/categories/#source-code-group
+[stage]: /handbook/product/categories/#create-stage
+[lifecycle]: /handbook/product/categories/#devops-stages
+
 ## Team Mission
+
+Support all our counterparts with frontend engineering expertise, including implementation, tech debt management, and timely frontend insights in discovery phases.
 
 ## Commonly Monitored Issue Lists
 
