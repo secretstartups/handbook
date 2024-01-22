@@ -150,9 +150,9 @@ No, not at this time.
 
 | Week of | Shadow(s) | Role |
 | ------ | ------ | ----- |
-| January 22 | [Tyler DeCaire](https://gitlab.com/tdecaire) | Solutions Architect |
+| January 22 | Not Available | |
 | January 29 | [Carla Drago](https://gitlab.com/carlad-gl) | Senior Backend Engineer |
-| Feb 5 | Available | |
+| Feb 5 | [Tyler DeCaire](https://gitlab.com/tdecaire) | Solutions Architect |
 | Feb 12 | Not Available | |
 | Feb 19 | Available | |
 | Feb 26 | Available | |
