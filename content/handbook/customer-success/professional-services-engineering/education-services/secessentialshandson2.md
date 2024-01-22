@@ -26,21 +26,20 @@ Before beginning this lab and all later labs, you should disable any scanners th
     ```yml
     stages:
     - test
-    # - dast
+    #- dast
 
     include:
     - template: Security/SAST.gitlab-ci.yml
     - template: Security/Secret-Detection.gitlab-ci.yml
-    # - template: DAST.gitlab-ci.yml
+    #- template: DAST.gitlab-ci.yml
 
     variables:
     SAST_EXCLUDED_PATHS: venv/
-    # DAST_WEBSITE: https://example.com
+    #DAST_WEBSITE: https://example.com
 
     secret_detection:
     variables:
         SECRET_DETECTION_EXCLUDED_PATHS: tests/
-
     ```
 
     > It is also possible to disable these features by setting CI variables on the project, such as `DAST_DISABLE=true` and `SECRET_DETECTION_DISABLE=true`. Learn more in the <a target="_blank" href="https://docs.gitlab.com/ee/topics/autodevops/cicd_variables.html#job-disabling-variables">documentation</a>.
