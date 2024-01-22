@@ -494,7 +494,6 @@ The company will cover all work-related travel expenses. This includes lodging a
 - If itemized bill is not available, then the costs will only be reimbursed for the element relating to Phone Service, i.e. if you pay for tv, internet and phone, the invoice should be divided by 3/# of services and we will pay this value only.
 - No monthly hardware costs for phone service is reclaimable.
 - In addition Tablets, Watches, Phone Devices are not reimbursable.
-- N/A for GitLab GmbH Germany Team Members. Please see section "GitLab GMBH (Germany)" for internet reimbursement in Germany.
 
 {{% panel header="**Coding**" header-bg="green" %}}
 **Expense Type / Navan Policy Category:** Cell phone
@@ -597,11 +596,6 @@ As a result, effective of February 1st, 2024, we are implementing below changes:
 - There will be 50 EUR internet allowance paid each month to each team member (via Payroll).
 - Internet expenses will not be allowed anymore.
 - Flat tax rate 25% (bared by employer) Cell Phone expenses.
-
-**Cell Phone expenses**
-- As per advice this expense will be stopped as of February 1st, 2024.
-- GitLab is not the owner of the cell phones and therefore can’t bear the cost of it without further penalties.
-- Business phone expenses can be claimed in annual tax returns (If you use your telephone or internet for professional reasons, you can deduct the costs from your taxes on a pro rata basis. If you can’t provide individual proof, tax offices will generally grant a flat rate of 20% of the costs, up to a maximum of 20 euros per month and 240 euros per year. If you use your phone almost primarily for professional reasons, you can claim more of the costs provided you prove how often your phone was used for professional reasons over a three month period. The result of these three months is then applied to the entire calendar year. Tip: When providing proof for your telephone costs, you should choose three months where your workload is at its highest. For example, if you work less in December due to the holidays, it’d be unwise to include this month when providing invoices. If you were on vacation for most of August, you shouldn’t provide invoices for the time period of June to August).
 
 ### GitLab Ireland
 
