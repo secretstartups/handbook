@@ -25,7 +25,7 @@ Please take time to understand any code that you are asked to copy and paste in 
 
 1. Click **Provision Training Environment**.
 
-1. If the system prompts you for your **GitLab.com** username. Enter your GitLab.com user in the field provided. Click **Provision Training Environment**.
+1. If the system prompts you for your **GitLab.com** username, enter your GitLab.com user in the field provided. Click **Provision Training Environment**.
 
 1. On the confirmation page, locate the `Your GitLab Credentials` section. Read this section carefully, noting the credential information provided and the expiration date. Your access to this group and all of the projects that you create is ephemeral and will be deleted after the expiration date.
 
@@ -127,7 +127,7 @@ Please take time to understand any code that you are asked to copy and paste in 
       SAST_EXCLUDED_PATHS: venv/
     ```
 
-## Task C. Add a Vulnerability to the Application
+## Task D. Add a Vulnerability to the Application
 
 > With SAST scanning in place, you are now able to see security vulnerabilities inside of merge requests. To demonstrate how this SAST scan works, let's create a branch with some vulnerable code.
 
@@ -160,7 +160,7 @@ Please take time to understand any code that you are asked to copy and paste in 
 
 1. Add an appropriate commit message (Ex. `Add prompt for server authentication`), set the target branch to `add_auth`.
 
-    > Setting the target branch to `add_auth` will create a new branch named `add_auth`, and open a merge request on the branch
+    > Setting the target branch to `add_auth` will create a new branch named `add_auth`, and open a merge request on the branch.
 
 1. Make sure that the **Start a new merge request with these changes** checkbox is checked.
 
@@ -178,7 +178,7 @@ Please take time to understand any code that you are asked to copy and paste in 
 
 1. In this example, the security scan will show 2 new critical vulnerabilities. To view the details of the vulnerability report, click the **Full report** button.
 
-## Task D. Merge Request Vulnerability Report
+## Task E. Merge Request Vulnerability Report
 
 > One of the main goals of security scanning is to prevent insecure code from making it into a repository. You can use the merge request vulnerability report to see all of the vulnerabilities that were detected in a single merge request. Note that this report will only show vulnerabilities that are newly introduced in the current merge request. If a vulnerability already exists in the repository, it will not show here, but will show in the project level vulnerability report.
 
@@ -234,7 +234,7 @@ Please take time to understand any code that you are asked to copy and paste in 
 
 1. Leave `Delete source branch` checked and click **Merge**.
 
-## Task E. Enable and Configure Secret Detection
+## Task F. Enable and Configure Secret Detection
 
 > In the last section, you applied SAST to detect vulnerabilities in your source code. In addition to scanning code for vulnerabilities, GitLab can also scan your code for secrets like keys and API tokens. Adding secret detection to your code will prevent leaking sensitive data in your repositories.
 
@@ -290,7 +290,7 @@ Please take time to understand any code that you are asked to copy and paste in 
 
 6. Click the `Merge` button on your merge request after the pipeline passes.
 
-## Task F. View the Project Level Vulnerability Report
+## Task G. View the Project Level Vulnerability Report
 
 > Every time you merge code into the main branch, the security pipeline will run and generate a project level vulnerability report that shows all vulnerabilities in *the latest commit to the default branch.* Think of this as the baseline set of vulnerabilities that you’ll compare to vulnerabilities on other branches.
 
@@ -302,7 +302,7 @@ Please take time to understand any code that you are asked to copy and paste in 
 
 1. Experiment with the **Status**, **Severity**, and **Tool** filters.
 
-## Task G. Confirm the Vulnerability
+## Task H. Confirm the Vulnerability
 
 > When the security scanners find vulnerabilities, you need to keep track of whether they should be fixed or ignored. You do this by setting a vulnerability’s **status**. There are several ways to do so, but in this lab you’ll set status inside the Vulnerability Report.
 
@@ -312,7 +312,7 @@ Please take time to understand any code that you are asked to copy and paste in 
 
 1. Since the vulnerabilities do exist in the code, click the checkbox next to each vulnerability. In the **Set status** dropdown, click **Confirm**. Click **Change status**.
 
-## Task H. Create a Branch and Merge Request
+## Task I. Create a Branch and Merge Request
 
 > You’ll need a branch and an MR to fix the RSA private key vulnerability.
 
@@ -372,7 +372,7 @@ Please take time to understand any code that you are asked to copy and paste in 
 
     > Although we have removed the keys in this merge request, they may still exist in the repository history. It is always advised to rotate keys if they are ever detected in a repository.
 
-## Task I. Merge your branch and resolve the fixed vulnerability
+## Task J. Merge your branch and resolve the fixed vulnerability
 
 1. In the merge request, click the **Merge** button.
 
