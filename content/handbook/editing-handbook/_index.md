@@ -3,6 +3,7 @@ title: "Editing the Handbook"
 description: "Information on how to edit the handbook including tips and troubleshooting."
 aliases:
 - /docs/editing-the-handbook/
+- /docs/editing-handbook/
 - /handbook/git-page-update/
 ---
 
@@ -185,6 +186,8 @@ section-dir/
 |  |- image.pmg
 |- leaf-page3.md
 ```
+
+If you rename or move a page, you can [add an alias to redirect]({{< ref "metadata.md#aliases" >}}).
 
 ## Failing pipelines
 
