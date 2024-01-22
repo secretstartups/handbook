@@ -3,7 +3,7 @@ title: "Create:Source Code FE Team"
 description: The Create:Source Code FE team is responsible for all frontend aspects of the product categories that fall under the Source Code group of the Create stage.
 ---
 
-# Common Links
+## Common Links
 
 | **Category**            | **Handle** |
 |-------------------------|-------------|
@@ -13,11 +13,11 @@ description: The Create:Source Code FE team is responsible for all frontend aspe
 | **Team Boards**         | [`Current Milestone`](https://gitlab.com/groups/gitlab-org/-/boards/1149629) |
 | **Issue Tracker**       | [`group::source code` + `frontend` in `gitlab-org/gitlab`](https://gitlab.com/groups/gitlab-org/-/issues/?sort=created_date&state=opened&label_name%5B%5D=frontend&label_name%5B%5D=group%3A%3Asource%20code&first_page_size=20) |
 
-# Team Vision
+## Team Vision
 
-# Team Mission
+## Team Mission
 
-# Commonly Monitored Issue Lists
+## Commonly Monitored Issue Lists
 
 * [Source Code + Frontend issues](https://gitlab.com/groups/gitlab-org/-/issues/?sort=created_date&state=opened&label_name%5B%5D=frontend&label_name%5B%5D=group%3A%3Asource%20code&first_page_size=20)
 * [Milestone Planning Issues](https://gitlab.com/gitlab-org/create-stage/-/issues/?sort=created_date&state=opened&label_name%5B%5D=Planning%20Issue&label_name%5B%5D=group%3A%3Asource%20code&first_page_size=20)
@@ -25,19 +25,19 @@ description: The Create:Source Code FE team is responsible for all frontend aspe
 * [Feature flag reports](https://gitlab.com/gitlab-org/quality/triage-reports/-/issues/?sort=created_date&state=opened&label_name%5B%5D=triage%20report&label_name%5B%5D=feature%20flag&label_name%5B%5D=group%3A%3Asource%20code&first_page_size=20)
 * [OKRs (confidential)](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&assignee_username%5B%5D=andr3&label_name%5B%5D=group%3A%3Asource%20code&first_page_size=20)
 
-# Team Members
+## Team Members
 
 The following people are permanent members of the Create:Source Code FE Team:
 
 {{< team-by-manager-role role="Engineering(.*)Manager(.*)Create:Source Code" team="Create:Source Code" >}}
 
-# Stable Counterparts
+## Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
 {{< stable-counterparts manager-role="Engineering(.*)Manager(.*)Create:Source Code" role="[,&] \(Create(.*)|Create:Source Code|Create \(Source Code|Director(.*)Create|Principal(.*)Create|Group(.*)Create" >}}
 
-# Core Responsibilities
+## Core Responsibilities
 
 * Collaborate with Product and UX on ideation, refinement and scheduling of relevant work
 * Provide Frontend support for feature development, bug fixes, under the [Source Code Management Product Category](https://about.gitlab.com/direction/create/source_code_management/)
@@ -45,9 +45,9 @@ The following members of other functional teams are our stable counterparts:
 * Identify and prepare maintenance work to improve developer experience
 * Collaborate on efforts across the Frontend department
 
-# Projects
+## Projects
 
-## Active Project Table
+### Active Project Table
 
 | Start Date | Project  | Description | Tech Lead |
 | ------ | ------ | ------ |  ------ |
@@ -55,16 +55,16 @@ The following members of other functional teams are our stable counterparts:
 | 2023 | [Blame info in Blob page](https://gitlab.com/groups/gitlab-org/-/epics/11471) | Improve usability of repository by rendering blame information in blob page | — |
 | 2023 | [Branch Rules - Edit](https://gitlab.com/groups/gitlab-org/-/epics/8075) | Allow editing the branch rule details in one place | — |
 
-## Archived Project Table
+### Archived Project Table
 
 | Start Date | End Date |Project  | Description | Tech Lead |
 | ------ | ------ | ------ |  ------ | ------ |
 | 2022-09 | 2023-04 | Branch Rules - Overview | Place all settings pertaining to branch rules in one place - overview only | — |
 |  2021      | 2022        | [Refactor Repository browser into 1 vue app](https://gitlab.com/groups/gitlab-org/-/epics/5531) | Render the blob page within the Repository frontend app for smoother experience | — |
 
-# Engineering Onboarding
+## Engineering Onboarding
 
-## Work
+### Work
 
 In general, we use the standard GitLab [engineering workflow]. To get in touch
 with the Create:Source Code FE team, it's best to create an issue in the relevant project
@@ -81,31 +81,31 @@ For more urgent items, feel free to use [#g_create_source_code] or [[#g_create_s
 [#g_create_source_code]: https://gitlab.slack.com/archives/g_create_source-code
 [#g_create_source_code_fe]: https://gitlab.slack.com/archives/g_create_source-code-review-fe
 
-## Capacity planning
+### Capacity planning
 
 {{% include "includes/engineering/create/capacity-planning-fe.md" %}}
 
-### Weights
+#### Weights
 
 {{% include "includes/engineering/create/weights-fe.md" %}}
 
-## Workflow labels
+### Workflow labels
 
 {{% engineering/workflow-labels group-label="group::source code" %}}
 
-## Async standup
+### Async standup
 
 {{% include "includes/engineering/create-async-standup.md" %}}
 
-## Retrospectives
+### Retrospectives
 
 We have 1 regularly scheduled "Per Milestone" retrospective, and can have ad-hoc "Per Feature" retrospectives more focused at analyzing a specific case, usually looking into the Iteration approach.
 
-### Per Milestone
+#### Per Milestone
 
 {{% engineering/create-retrospectives group-label="Source Code" group-slug="source-code" %}}
 
-## Milestone Kickoff & Retrospective review
+### Milestone Kickoff & Retrospective review
 
 At the start of each milestone we have a synchronous **Kickoff** session where every IC take turns at presenting their plan for their Deliverables for the new milestone.
 
@@ -113,8 +113,8 @@ This happens at least 2 working days after all Deliverables are assigned, which 
 
 During this call, we also do a quick **Retrospective review** going through the highlights of the discussions in the asynchronous issue mentioned above.
 
-# Other related pages
+## Other related pages
 
-## Issues
+### Issues
 
 - April 2020: [Frontend: Iteration Retrospective (Source Code)](https://gitlab.com/gl-retrospectives/create-stage/source-code/-/issues/22)
