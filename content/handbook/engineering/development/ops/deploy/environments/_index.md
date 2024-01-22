@@ -83,7 +83,7 @@ Meeting format:
 
 If the meeting for the week has already taken place and you would like to add a new item for discussion, create a new section for the next meeting date above the last one and add your item.
 
-#### Frontend, Golang and Ruby Meetings
+#### Frontend, Go and Ruby Meetings
 
 These are optional meetings on the team calendar. Everyone on the team is welcome. It is prioritized
 to be at a time where as many of the Engineers who work primarily on the correspding topics can attend.
@@ -95,7 +95,7 @@ agenda items first.
 Meeting Links:
 
 - Frontend: [Frontend ChitChat](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MDE2OWkwamdtOG45aDFjdWFlNHY0aWVhYTFfMjAyNDAxMjNUMTUzMDAwWiBnaXRsYWIuY29tX2tuYWlmZjdiY3BnM3FrcXJ1YmRrZjRpdjEwQGc&tmsrc=gitlab.com_knaiff7bcpg3qkqrubdkf4iv10%40group.calendar.google.com&scp=ALL)
-- Golang: [It's time to Go !!!](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=ZGJvaDFvZDBmM3FrcnIyaWJ2NXAyNmw3NG1fMjAyNDAxMjRUMTAwMDAwWiBnaXRsYWIuY29tX2tuYWlmZjdiY3BnM3FrcXJ1YmRrZjRpdjEwQGc&tmsrc=gitlab.com_knaiff7bcpg3qkqrubdkf4iv10%40group.calendar.google.com&scp=ALL)
+- Go: [It's time to Go !!!](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=ZGJvaDFvZDBmM3FrcnIyaWJ2NXAyNmw3NG1fMjAyNDAxMjRUMTAwMDAwWiBnaXRsYWIuY29tX2tuYWlmZjdiY3BnM3FrcXJ1YmRrZjRpdjEwQGc&tmsrc=gitlab.com_knaiff7bcpg3qkqrubdkf4iv10%40group.calendar.google.com&scp=ALL)
 - Ruby: [Ruby Chat](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MnRxYWtwM2xkNWdxdDMwbjhuaHNydDQ0cnRfMjAyNDAxMjNUMjMwMDAwWiBnaXRsYWIuY29tX2tuYWlmZjdiY3BnM3FrcXJ1YmRrZjRpdjEwQGc&tmsrc=gitlab.com_knaiff7bcpg3qkqrubdkf4iv10%40group.calendar.google.com&scp=ALL)
 
 ### Team issue tracker
