@@ -1,12 +1,14 @@
 ---
 title: "Practical Handbook Editing Tips"
 description: "Video recordings and written tips for team members on additional tips to working handbook first."
+aliases:
+- /handbook/practical-handbook-edits/
 ---
 
 This page contains instructions, tips, and historical recordings for non-technical team members on how to work handbook-first.
 
-Content on this page is to provide additional tips as a supplement to the [editing handbook page]({{< ref "/content/handbook/editing-handbook.md" >}}).
-Please keep the basics of how to edit the handbook, including how to get help on the [editing handbook page]({{< ref "/content/handbook/editing-handbook.md" >}}).
+Content on this page is to provide additional tips as a supplement to the [editing handbook page]({{< ref "editing-handbook.md" >}}).
+Please keep the basics of how to edit the handbook, including how to get help on the [editing handbook page]({{< ref "editing-handbook.md" >}}).
 
 ## Before you begin in command line
 
@@ -95,7 +97,11 @@ gsed -i 's,<searchtext>,<replacementtext>,g' file.md
 
 ## Find and Replace a String in all (Matching) Files
 
-Please see the following suggestions for doing a bulk find and replace. If you rename a file/URL please remember to add a redirect to [`redirects.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/redirects.yml) by [following this process](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/redirects_on_about_gitlab_com.md).
+Please see the following suggestions for doing a bulk find and replace.
+
+If you rename a file/URL in one of the handbook repositories, please [add a redirect using an alias]({{< ref "metadata.md#aliases" >}}).
+
+If you rename a file/URL in the `www-gitlab-com` repository, please remember to add a redirect to [`redirects.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/redirects.yml) by [following this process](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/redirects_on_about_gitlab_com.md).
 
 ### Using a terminal
 
@@ -180,7 +186,7 @@ Visual Studio Code provides an editor setting to remove trailing whitespaces per
 
 ### Bulk remove trailing whitespaces
 
-You can replace trailing whitespaces in multiple files on the command line using [GNU sed](/handbook/practical-handbook-edits/#pre-requisites) and [find](/handbook/practical-handbook-edits/#using-a-terminal). The following example recurisvely searches the `content/handbook` directory for files matching the pattern `*.md` and executes a script on each file, which replaces trailing whitespaces inline (`sed -i ...`).
+You can replace trailing whitespaces in multiple files on the command line using [GNU sed](#before-you-begin-in-command-line) and [find](#using-a-terminal). The following example recurisvely searches the `content/handbook` directory for files matching the pattern `*.md` and executes a script on each file, which replaces trailing whitespaces inline (`sed -i ...`).
 
 ```shell
 find content/handbook -type f -name '*.md' -exec sh -c "sed -i 's/[ \t]*$//' "$1" '{}'" \;
