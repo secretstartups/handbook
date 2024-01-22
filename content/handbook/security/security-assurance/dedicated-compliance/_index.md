@@ -67,7 +67,7 @@ We also have weekly 1:1s and skip levels in line with the GitLab philosophy.
 
 We use an [agile project management](https://about.gitlab.com/solutions/agile-delivery/) approach for our work, leveraging as many GitLab platform features as we can. We use epics, issues, and issue/epic boards to organize our work, as they complement each other. For some of the work, we also use roadmaps, milestones, burndown charts.
 
-The single source of truth for _all_ of our team's work across different functions is the top-level [Security Compliance (Dedicated Markets) team epic](https://gitlab.com/groups/gitlab-com/gl-security/-/epics/248). In the future, the epic will contain a section that tracks the status all ongoing work. The following subsections are borrowed from the [GitLab Dedicated Group](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/#project-management).
+The single source of truth for *all* of our team's work across different functions is the top-level [Security Compliance (Dedicated Markets) team epic](https://gitlab.com/groups/gitlab-com/gl-security/-/epics/248). In the future, the epic will contain a section that tracks the status all ongoing work. The following subsections are borrowed from the [GitLab Dedicated Group](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/#project-management).
 
 #### Epic Hierarchy
 
@@ -125,7 +125,7 @@ Each epic and child sub-epics must include the following:
     1. The due date is set based on the Roadmap
     1. The date that a project actually ended is taken from the date that the epic was closed.
 
-Labels are described in the [epic label section](#epic-labels).
+Labels are described in the [Labels section](#labels).
 
 #### Epic Boards
 
@@ -174,7 +174,7 @@ DRIs should provide weekly updates for the DRI's epics according to following pr
          - **Progress since last update** - Changes deployed to production, unblocked blockers, any other progress achieved.
          - **Risk and Confidence** - Any new blockers identified or existing blockers that persist? Any other challenges now or in the near future? How do these blockers and/or challenges affect our confidence of completing by scheduled due date per the roadmap?
          - **Mitigations** -  What is required to overcome challenges or blockers identified?  Should this be escalated to other team members, teams, executives, or domain experts?
-       - **Update Workflow and Health label** - After each status update, the Workflow label and Health label should be updated. See [Epic labels criteria](/handbook/engineering/infrastructure/team/gitlab-dedicated/#workflow-labels)
+      - **Update Workflow and Health label** - After each status update, the Workflow label and Health label should be updated. See [Epic labels criteria](/handbook/engineering/infrastructure/team/gitlab-dedicated/#workflow-labels)
 
 1. **Top-Level Epic Status Update** [automation synthesizes updates from status section](#status-update-automation-coming-soon) from description of active epics to provide a status in the status section in the description of the top-level initiative Epic.
 
