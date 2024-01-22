@@ -32,6 +32,10 @@ The key measure of content effectiveness for the Developer relations team is how
 
 Critical to measuring content effectiveness is ensuring engagement is measurable and this is achievable by using Call-To-Actions (CTAs) with UTM & Salesforce campaigns. We use UTM campaigns for content we publish on external channels like 3rd party blogs, YouTube, Forum, Talks, etc. We do not use UTM campaign, even when shortlinked with Campaign manager or any other URL shortner, on official channels like GitLab blog, Website, documentation or handbook.
 
+The Marketing Campaigns Dashboard uses `utm_budget` to track campaigns and how they lead to touchpoints, lead, MQL (Qualified Leads) and eventually ARRs. This makes it very important, to ensure the right `utm_budget` is used for CTAs. If you use the [CommunityApps Campaign Manager](https://campaign-manager.gitlab.com/), the appropriate `utm_budget` is automatically added for you, if you put the link under the right team. You can access the Developer Relations team page with this [link](https://campaign-manager.gitlab.com/teams/view/2).
+
+For campaigns we influence, its important to ask for the their UTM or Salesforce campaign names and update the [devrel_influenced_campaigns](https://docs.google.com/spreadsheets/d/1WzdX8o9wzuswIPMAYVUURswm2AtwFcVE6XhmHy1lhr8/edit#gid=1201530981) sheet of the DevRel Content Asset inventory, without this step, the Marketing Campaigns Dashboard will not include the campaign as part of those influenced by Developer Relations.
+
 ### Content Asset Inventory
 
 A common bottle neck to tracking the effectiveness of content is having a source where the content are listed and indexed with relevant meta data. While individual content types like Blog posts can be sourced from the medium on which they are published, it is often difficult to filter automatically for a specific team or group. The workaround is to have a spreadsheet where all the content are aggregated for further use, this is the role the Content Asset Inventory [spreadsheet](https://docs.google.com/spreadsheets/d/1WzdX8o9wzuswIPMAYVUURswm2AtwFcVE6XhmHy1lhr8/edit#gid=0) plays. Our Looker Studio and Tableau dashboards use the Asset inventory as a data source. The sheets in the spreadsheet are:
@@ -95,7 +99,12 @@ Here is an example of a blend:
 
 ### Developer Relations Influenced Campaigns
 
-The Developer Relations team contribute to several campaigns across GitLab. To measure the impact of this contributions, we keep track of DevRel influenced campaigns in the `devrel_influenced_campaigns` sheet of the [Content Asset Inventory](https://docs.google.com/spreadsheets/d/1WzdX8o9wzuswIPMAYVUURswm2AtwFcVE6XhmHy1lhr8/edit#gid=1201530981). These sheet serves as a data source for the Developer Relations filter to show campaigns influenced by the team on the [Marketing Campaigns Dashboard](https://10az.online.tableau.com/#/site/gitlab/views/DraftTDCampaigns-L2RInteractions/CampaignDrillDown?%3Aiid=1).
+The Developer Relations team contribute to several campaigns across GitLab. To measure the impact of this contributions, we keep track of DevRel influenced campaigns in the `devrel_influenced_campaigns` sheet of the [Content Asset Inventory](https://docs.google.com/spreadsheets/d/1WzdX8o9wzuswIPMAYVUURswm2AtwFcVE6XhmHy1lhr8/edit#gid=1201530981). These sheet serves as a data source for the "DevRel" influenced filter to show campaigns influenced by the team on the [Marketing Campaigns Dashboard](https://10az.online.tableau.com/#/site/gitlab/views/DraftTDCampaigns-L2RInteractions/CampaignDrillDown?%3Aiid=1).
+
+There are 2 filters applicable to the Developer Relations team:
+
+- The "Developer Relations" option under the "Integrated Budget Holder" filter shows data for campaign touchpoints generated with the team's use of the `devrel` UTM campaign budget code.
+- The "DevRel Influenced" filter shows all campaigns influenced by DevRel, including those with the `devrel` UTM campaign budget code.
 
 ##  Maintenance guide
 
