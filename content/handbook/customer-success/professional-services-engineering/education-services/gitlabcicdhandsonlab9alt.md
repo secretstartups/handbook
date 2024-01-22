@@ -13,7 +13,7 @@ description: "This Hands-On Guide walks you through the lab exercises in the Git
 
 ### Task A. Add a Python file with code quality problems
 
-1. In the left navigation pane, click **Repository > Files**.
+1. Using the left navigation pane, click **Code > Repository**.
 
 1. Create a new file by going to the top of the window and clicking **+ > This directory > New file**.
 
@@ -36,11 +36,11 @@ description: "This Hands-On Guide walks you through the lab exercises in the Git
 
 ### Task B. Configure the .gitlab-ci.yml with Code Quality Scanning
 
-1. In the left navigation pane, click **Repository > Files**.
+1. In the left navigation pane, click **Code > Repository**.
 
 1. Click on your existing `.gitlab-ci.yml` file.
 
-1. Edit the file by clicking **vertical ellipses -> Edit in single-file editor**.
+1. Edit the file by clicking the blue **Edit** dropdown and selecting **Edit single file**.
 
 1. Delete all of the existing code in the file. Replace the code with the following file content:
 
@@ -70,7 +70,7 @@ description: "This Hands-On Guide walks you through the lab exercises in the Git
 
 ### Task C. View code quality scan results
 
-1. In the left navigation pane, click **CI/CD > Pipelines**.
+1. In the left navigation pane, click **Build > Pipelines**.
 
 1. The top row represents the pipeline that started running when you committed the `.gitlab-ci.yml` file in the previous section. Wait until the status icon at the left of that pipeline says **passed**.
 
@@ -84,7 +84,7 @@ description: "This Hands-On Guide walks you through the lab exercises in the Git
 
 ### Task D. Make a branch
 
-1. In the left navigation pane, click **Repository > Branches**.
+1. In the left navigation pane, click **Code > Branches**.
 
 1. Click **New branch**. In the **Branch name** field, type `branch-A`.
 
@@ -96,7 +96,7 @@ description: "This Hands-On Guide walks you through the lab exercises in the Git
 
 ### Task E. Fix issues on the branch
 
-1. In the left navigation pane, click **Repository > Files**.
+1. In the left navigation pane, click **Code > Repository**.
 
 1. In the branch dropdown in the top left of the window, pick **branch-A**.
 
@@ -115,7 +115,7 @@ description: "This Hands-On Guide walks you through the lab exercises in the Git
 
 ### Task F. Compare the code quality of **branch-A** to the code quality of **main**
 
-1. In the left navigation pane, click **CI/CD > Pipelines**.
+1. In the left navigation pane, click **Build > Pipelines**.
 
 1. Wait for the most recent pipeline to show **passed** status. This might take as long as 5 minutes.
 
