@@ -24,17 +24,6 @@ Before beginning this lab and all later labs, you should disable any scanners th
 2. To disable a scanner, add a hash before the template that enables it in `.gitlab-ci.yml`. For example, the DAST scanner takes some time to run, so, to disable the DAST scanner configured in Lab 1, make these edits to your existing `.gitlab-ci.yml`.
 
     ```yml
-    include:
-    - template: Security/SAST.gitlab-ci.yml
-    - template: Security/Secret-Detection.gitlab-ci.yml
-    # - template: DAST.gitlab-ci.yml
-    ```
-
-    > It is also possible to disable these features by setting CI variables on the project, such as `DAST_DISABLE=true` and `SECRET_DETECTION_DISABLE=true`. Learn more in the <a target="_blank" href="https://docs.gitlab.com/ee/topics/autodevops/cicd_variables.html#job-disabling-variables">documentation</a>.
-
-3. When you disable any scanners that use templates, you'll also need to comment out or remove any job definitions that you overrode while configuring the disabled scanners. For example, since you overrode the `dast` job that was defined by the Secret Detection template, you need to comment out the overriding job definition:
-
-    ```yml
     stages:
     - test
     # - dast
@@ -53,6 +42,8 @@ Before beginning this lab and all later labs, you should disable any scanners th
         SECRET_DETECTION_EXCLUDED_PATHS: tests/
 
     ```
+
+    > It is also possible to disable these features by setting CI variables on the project, such as `DAST_DISABLE=true` and `SECRET_DETECTION_DISABLE=true`. Learn more in the <a target="_blank" href="https://docs.gitlab.com/ee/topics/autodevops/cicd_variables.html#job-disabling-variables">documentation</a>.
 
     > It is important to leave at least one job active in your `.gitlab-ci.yml` file. If there are no jobs defined in the pipeline, it will fail to run.
 
