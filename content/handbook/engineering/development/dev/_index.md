@@ -65,21 +65,33 @@ The Dev sub-department is taking care of the first part of the DevSecOps Lifecyc
 
 ### Create
 
-#### Create:Source Code
-
-{{< team-by-manager-role "Backend Engineering Manager(.*)Create:Source Code" >}}
-
 #### Create:Code Review
 
 {{< team-by-manager-role "Backend Engineering Manager(.*)Create:Code Review" >}}
 
-#### Create:Source Code Frontend
-
-{{< team-by-manager-role role="Frontend Engineering Manager(.*)Create:Source Code" team="Create:Source Code" >}}
-
 #### Create:Code Review Frontend
 
 {{< team-by-manager-role role="Frontend Engineering Manager(.*)Create:Source Code" team="Create:Code Review" >}}
+
+#### Create:Code Creation
+
+{{% team-by-manager-role role="Backend(.*)Manager(.*)Create:Code Creation" %}}
+
+#### Create:Editor Extensions
+
+{{% team-by-manager-role role="(.*)Manager(.*)Create:Editor Extensions" %}}
+
+#### Create:IDE
+
+{{< team-by-manager-slug "adebayo_a" >}}
+
+#### Create:Source Code
+
+{{< team-by-manager-role "Backend Engineering Manager(.*)Create:Source Code" >}}
+
+#### Create:Source Code Frontend
+
+{{< team-by-manager-role role="Frontend Engineering Manager(.*)Create:Source Code" team="Create:Source Code" >}}
 
 ## Stable Counterparts
 
