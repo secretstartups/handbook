@@ -34,11 +34,11 @@ Before beginning this lab and all later labs, you should disable any scanners th
     #- template: DAST.gitlab-ci.yml
 
     variables:
-    SAST_EXCLUDED_PATHS: venv/
-    #DAST_WEBSITE: https://example.com
+      SAST_EXCLUDED_PATHS: venv/
+      #DAST_WEBSITE: https://example.com
 
     secret_detection:
-    variables:
+      variables:
         SECRET_DETECTION_EXCLUDED_PATHS: tests/
     ```
 
