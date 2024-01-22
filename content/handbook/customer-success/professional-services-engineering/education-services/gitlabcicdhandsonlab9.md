@@ -31,7 +31,7 @@ description: "This Hands-On Guide walks you through the lab exercises in the Git
     print("Application authentication was successful")
     ```
 
-1. Type **Create Run.py as a test file** into the commit message.
+1. Type `Create Run.py as a test file` into the commit message.
 
 1. Set the **Target branch** to `main`.
 
