@@ -64,6 +64,7 @@ Some dedicated Slack channels:
 - TW: Technical Writer
 
 ### Meetings
+
 #### Environments Team Meeting
 
 We have one team meeting each week. The time alternates every week to accommodate APAC/EMEA and EMEA/AMER. The purpose of this meeting is to share information about the ongoing projects. It also contains general announcements that are important for collaboration.
@@ -82,15 +83,20 @@ Meeting format:
 
 If the meeting for the week has already taken place and you would like to add a new item for discussion, create a new section for the next meeting date above the last one and add your item.
 
-#### Ruby Meeting
+#### Frontend, Golang and Ruby Meetings
 
-This is an optional meeting on the team calendar. Everyone on the team is welcome. It is prioritized
-to be at a time where as many of the Backend Engineers who work primarily in
-Ruby can attend.
+These are optional meetings on the team calendar. Everyone on the team is welcome. It is prioritized
+to be at a time where as many of the Engineers who work primarily on the correspding topics can attend.
 
-This meeting is not too formal and also provides time for the engineers across
+These meetings are not too formal and also provide time for the engineers across
 time zones to discuss ongoing projects, ask questions, pair up, and catch up. We go through any
 agenda items first.
+
+Meeting Links:
+
+- Frontend: [Frontend ChitChat](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MDE2OWkwamdtOG45aDFjdWFlNHY0aWVhYTFfMjAyNDAxMjNUMTUzMDAwWiBnaXRsYWIuY29tX2tuYWlmZjdiY3BnM3FrcXJ1YmRrZjRpdjEwQGc&tmsrc=gitlab.com_knaiff7bcpg3qkqrubdkf4iv10%40group.calendar.google.com&scp=ALL)
+- Golang: [It's time to Go !!!](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=ZGJvaDFvZDBmM3FrcnIyaWJ2NXAyNmw3NG1fMjAyNDAxMjRUMTAwMDAwWiBnaXRsYWIuY29tX2tuYWlmZjdiY3BnM3FrcXJ1YmRrZjRpdjEwQGc&tmsrc=gitlab.com_knaiff7bcpg3qkqrubdkf4iv10%40group.calendar.google.com&scp=ALL)
+- Ruby: [Ruby Chat](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MnRxYWtwM2xkNWdxdDMwbjhuaHNydDQ0cnRfMjAyNDAxMjNUMjMwMDAwWiBnaXRsYWIuY29tX2tuYWlmZjdiY3BnM3FrcXJ1YmRrZjRpdjEwQGc&tmsrc=gitlab.com_knaiff7bcpg3qkqrubdkf4iv10%40group.calendar.google.com&scp=ALL)
 
 ### Team issue tracker
 
