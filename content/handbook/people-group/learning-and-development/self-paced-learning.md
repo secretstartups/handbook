@@ -3,7 +3,7 @@ title: "Self-Paced External Trainings"
 description: "Details of third-party training providers utilised by various GitLab departments"
 ---
 
-As well as [LinkedIn Learning]({{< ref "linkedin-learning" >}}), teams around GitLab utilize other training providers for accessing role specific training courses and learning materials. This handbook page lists the different providers used, including details on access and licensing.
+Teams around GitLab utilize other training providers for accessing role specific training courses and learning materials. This handbook page lists the different providers used, including details on access and licensing.
 
 ## O'Reilly Learning
 
@@ -119,3 +119,11 @@ For those interested in pursuing a certification, exam vouchers are available up
 Any current GitLab team member can gain access to the learning platform by filling out [this form](https://inthecloud.withgoogle.com/partner-training/request-training-resources.html). Required information includes your first and last name, your gitlab email address, a phone number, and your location. While it asks you to identify areas of interest, this is optional, and you are not limited to just the area of interest you've indicated.
 
 Once you've submitted the form, you will receive a welcome email from partner-training@google.com within 1-3 business days with instructions for how to access the learning platform. Once you gain access, all the learning content is available to you, and you can engage as much or as little as suits your individual learning goals and level of interest.
+
+## LinkedIn Learning
+
+From January 2021 - January 2024, GitLab had a 1000 license agreement with LinkedIn Learning. Due to the licenses being under-utilized, we decided to end this agreement so that we can explore other more cost-effective and impactful solutions for off the shelf content and self-paced trainings. However, for those team members who would like to continue to use a LinkedIn Learning license to access their training content, they can purchase one using the [Growth and Development Fund.](https://handbook.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/).
+
+Also, there are a number of LinkedIn Learning courses that are free for anyone to access, even if they do not have a paid license. You can review the full list of courses in the [Unlocked LinkedIn Learning course list.](https://docs.google.com/spreadsheets/d/1vafTEKxtm0TSF3maK1xdLPIA7OkYVPsQZH9CtC8tVmw/edit#gid=0)
+
+
