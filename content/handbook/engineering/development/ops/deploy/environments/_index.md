@@ -85,7 +85,7 @@ If the meeting for the week has already taken place and you would like to add a 
 
 #### Frontend, Go and Ruby Meetings
 
-These are optional meetings on the team calendar. Everyone on the team is welcome. It is prioritized
+These are optional meetings on the team calendar. Everyone on the team is welcome. They are prioritized
 to be at a time where as many of the engineers who work primarily on the corresponding topics can attend.
 
 These meetings are not too formal and also provide time for the engineers across
