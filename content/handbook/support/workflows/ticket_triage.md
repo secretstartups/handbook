@@ -10,7 +10,7 @@ subcategory: Triaging
 
 ## Purpose of this page
 
-This page aims to walk you through some basic checks and items to tick off when triaging tickets in ZenDesk. 
+This page aims to walk you through some basic checks and items to tick off when triaging tickets in ZenDesk.
 
 ## Overview
 
