@@ -7,8 +7,6 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 
 > Estimated time to complete: 15 to 20 minutes
 
-> **You are viewing the latest Version 16.x instructions.** If your group URL starts with `https://spt.gitlabtraining.cloud`, please use the [Version 15.x instructions](https://gitlab.com/gitlab-com/content-sites/handbook/-/blob/d14ee71aeac2054c72ce96e8b35ba2511f86a7ca/content/handbook/customer-success/professional-services-engineering/education-services/secessentialshandson3.md).
-
 ## Objectives
 
 Many projects depend on using containers that might contain vulnerabilities in the container image.
@@ -35,7 +33,7 @@ In this lab, you will learn how to scan for vulnerabilities in your containers.
 
     > It is important that the first letter is capitalized for industry standards.
 
-1. The `Dockerfile` must specify which Linux image to install your application on. For this lab you'll use an old version of Ubuntu that has security vulnerabilities for the Container Scanner to find. Paste this into `Dockerfile`:
+1. The `Dockerfile` must specify which Linux image to install your application on. For this lab you'll use an old version of Python that has security vulnerabilities for the Container Scanner to find. Paste this into `Dockerfile`:
 
     ```dockerfile
     FROM python:3.4-alpine
@@ -204,9 +202,8 @@ In this lab, you will learn how to scan for vulnerabilities in your containers.
 
     ```yml
     include:
-    # - template: Security/SAST.gitlab-ci.yml
-    # - template: Security/Secret-Detection.gitlab-ci.yml
-    # - template: DAST.gitlab-ci.yml
+    - template: Security/SAST.gitlab-ci.yml
+    - template: Security/Secret-Detection.gitlab-ci.yml
     - template: Security/Container-Scanning.gitlab-ci.yml
     ```
 
@@ -241,12 +238,12 @@ In this lab, you will learn how to scan for vulnerabilities in your containers.
     # - dast
 
     include:
-    # - template: Security/SAST.gitlab-ci.yml
+    - template: Security/SAST.gitlab-ci.yml
     # - template: Security/Secret-Detection.gitlab-ci.yml
     # - template: DAST.gitlab-ci.yml
     # - template: Security/Container-Scanning.gitlab-ci.yml
 
-    variables:
+    # variables:
     #  SAST_EXCLUDED_PATHS: venv/
     #  DAST_WEBSITE: https://example.com
 
@@ -267,6 +264,8 @@ In this lab, you will learn how to scan for vulnerabilities in your containers.
     #    - docker login --username $CI_REGISTRY_USER --password $CI_REGISTRY_PASSWORD $CI_REGISTRY
     #    - docker push $IMAGE
     ```
+
+    > Note that we need to keep at least one job enabled for the pipeline to succeed. In this example, the SAST job is left enabled since it is the quickest to complete. 
 
 1. Set the commit message to `Lab 3 pipeline reset` and commit your changes to the `main` branch.
 
