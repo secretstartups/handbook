@@ -266,7 +266,7 @@ When downgrading product maturity, we adjust our customer's current expectations
 
 ![Dev Ops Diagram](devops-diagram.svg)
 
-![GitLab product stages](stages-graph.svg)
+![GitLab product stages](/images/handbook/product/stages-graph.svg)
 
 {{% categories %}}
 
