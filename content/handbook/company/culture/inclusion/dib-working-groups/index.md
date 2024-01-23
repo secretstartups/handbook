@@ -9,14 +9,14 @@ description: "A strategic group of impactful team members whose purpose is to dr
 
 ### Goals
 
-###How/Goal:
+### How/Goal:
 
 - Smaller groups (4-6 team members)
 - Team members are volunteer-based on the specific topic collected in an issue in quarterly cadence.
 - Team members identified through TMRGs, former DIB Influencer Group, DIB Leadership Council, and  Division team members that can provide subject matter expertise or “influence”.
 - Limited timeframe (1-3 months)
 
-##Working Group members will include:
+### Working Group members will include:
 
 - Group Sponsor (Optional)
 - Working Group Lead
@@ -24,7 +24,7 @@ description: "A strategic group of impactful team members whose purpose is to dr
 - PBP (for awareness only)
 - Team members identified through TMRGs, former DIB Influencer Group, DIB Leadership Council, and  Division team members that can provide subject matter expertise and influence
 
-##Each Working Group will have:
+### Each Working Group will have:
 
 - A problem/Issue statement/OKR
 - Problem statements can be defined or influenced by DIB and/or the DIB Leadership Council
