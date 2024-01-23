@@ -43,7 +43,7 @@ Add the DRAFT prefix to your workbook title and click on the _Rename_ button to 
 Publishing to the [Ad-hoc](https://10az.online.tableau.com/#/site/gitlab/projects/361929) or [Production](https://10az.online.tableau.com/#/site/gitlab/projects/361859) project:
 When publishing workbooks to the Ad-hoc or Production project, if the workbook is being published for the first time, please select **Move** and then rename the workbook to have the DRAFT prefix removed.
 
-The BI team will leverage the Tags functionality available in Tableau Cloud to better organize workbooks by department and its publishing status. For example, this workbook below is assigned the _Data Team_ tag.
+The BI team will leverage the Tags functionality available in Tableau Cloud to better organize workbooks by department. For example, this workbook below is assigned the _Data Team_ tag.
 ![](images/tags_example.png)
 
 Applying tags allows us to provide more information on the workbook, so that we can easily discern them by their business function / department. To filter workbooks by their tags, please click on the search box in the upper right-hand corner of the project. Under **Content types** select **Workbooks**:
