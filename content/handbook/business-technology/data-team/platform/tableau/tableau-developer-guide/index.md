@@ -46,7 +46,7 @@ When publishing workbooks to the Ad-hoc or Production project, if the workbook i
 The BI team will leverage the Tags functionality available in Tableau Cloud to better organize workbooks by department and its publishing status. For example, this workbook below is assigned the _Data Team_ and _Draft_ tags.
 ![](images/tags_example.png)
 
-Applying tags allows us to provide more information on the workbook, so that we can easily discern them by their business function / department and whether the content is a draft or approved SSOT workbook. To filter workbooks by their tags, please click on the search box in the upper right-hand corner of the project. Under **Content types** select **Workbooks**:
+Applying tags allows us to provide more information on the workbook, so that we can easily discern them by their business function / department. To filter workbooks by their tags, please click on the search box in the upper right-hand corner of the project. Under **Content types** select **Workbooks**:
 ![](images/search_tags.png)
 
 Once in the Workbooks section, click on the **Tags** dropdown to filter content by tags:
