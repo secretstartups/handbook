@@ -519,6 +519,8 @@ permission_templates:
 
 <details markdown=1>
 
+<summary><b>Tableau Licenses</b></summary>
+
 **Tracking License Usage**
 
 - [Assigned Licenses](https://10az.online.tableau.com/#/site/gitlab/users) (Admins only)
