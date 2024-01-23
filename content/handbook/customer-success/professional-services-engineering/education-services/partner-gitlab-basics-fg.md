@@ -1,9 +1,9 @@
 ---
-title: "Partner Facilitator Guide for GitLab with Git Basics"
-description: "This Facilitator Guide is intended to walk you through all important links, preparation items, and after class items for our GitLab with Git Basics course."
+title: "Partner Facilitator Guide for GitLab with Git Essentials"
+description: "This Facilitator Guide is intended to walk you through all important links, preparation items, and after class items for our GitLab with Git Essentials course."
 ---
 
-# GitLab with Git Facilitator Guide for Partners
+# GitLab with Git Essentials Facilitator Guide for Partners
 
 ## Important Links
 
@@ -25,7 +25,7 @@ description: "This Facilitator Guide is intended to walk you through all importa
     3. [Lab environment](https://gitlab.com/gitlab-com/customer-success/professional-services-group/partner-training-template-projects/gitlab-with-git-basics)
         (Virtual Machines need to be built prior to class)
 4. Slides
-    1. Make sure you can access the slides with presenter notes
+    1. Make sure you can access the slides with presenter notes.
 
 ## Instructor Tips and Links by Module Number
 
@@ -53,8 +53,8 @@ description: "This Facilitator Guide is intended to walk you through all importa
 
 ### Module 7: Secure
 
-1. Complete the SAST demo using the instructions in the notes section/lab guide
-2. At the end of the session, please share out the linkfor the [GitLab Training Survey](https://www.surveymonkey.com/r/proservtraining)
+1. Complete the SAST demo using the instructions in the notes section/lab guide.
+2. At the end of the session, please share out the linkfor the [GitLab Training Survey](https://www.surveymonkey.com/r/proservtraining).
 
 ## Cleaning up your Local Comp and Hands on VMs After Class
 
@@ -63,8 +63,8 @@ Afer each class you will want to clean up your systems both locally and in your 
 1. Remove the Training directory from your local system: (rm -rf Training)
 2. Navigate to the training users group and remove the projects you created in labs
 3. If you followed the lab guide; the projects will be:
-4. Top Level Project Repo
-5. CI Test
-6. Second Project
-7. AutoDevOps-test
-8. Navigate to each project -> Settings -General -> Advanced -> Delete Project -> copy and paste the entire project name -> click Delete Project -> confirm deletion.
+    1. Top Level Project Repo
+    1. CI Test
+    1. Second Project
+    1. AutoDevOps-test
+4. Navigate to each project -> Settings -General -> Advanced -> Delete Project -> copy and paste the entire project name -> click Delete Project -> confirm deletion.
