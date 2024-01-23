@@ -125,7 +125,7 @@ The Data Platform doesn't put people at risk
 GitLab's Data Platform is relevant to a community larger than GitLab's and depends on a larger community of engineers.
 
 * Platform code is open sourced
-* Platform enhancements are contributed back inro to community projects
+* Platform enhancements are contributed back into to community projects
 * We prefer generalizable specifications and standards over idiosyncratic custom development
 
 
