@@ -1,3 +1,4 @@
+---
 title: DIB Working Group
 description: "A strategic group of impactful team members whose purpose is to drive action and results in support of DIB and the DIB Leadership Council"
 ---
@@ -34,7 +35,7 @@ description: "A strategic group of impactful team members whose purpose is to dr
 - Communication
 - Issue creation
 - Slack Channel
-- Cadence: 
+- Cadence:
     - Weekly or bi-weekly meetings for 30 minutes to review activity and collaborate on next steps
     - Provide findings/results to:>
     - DIB Leadership Council
