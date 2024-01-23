@@ -88,7 +88,7 @@ The Intermediate Recruiter creates a positive experience for candidates and hiri
 
 The Senior Recruiter is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-##### Responsibilities
+##### Senior Responsibilities
 
 The Senior Recruiter shares the same requirements as the Intermediate Recruiter listed above but also focuses on cross-functional work. Senior Recruiters influence others by modeling GitLab competencies and providing valuable input and sometimes ownership of strategic decisions within the team.
 
@@ -99,7 +99,7 @@ The Senior Recruiter shares the same requirements as the Intermediate Recruiter 
 1. Deliver on Key Performance Indicators (ie: Key Metrics) autonomously on a consistent basis.
 1. Through collaboration with the necessary stakeholders, proactively builds team resources and assets to impact the team's ability to have high quality, influencial conversations.
 
-### Requirements
+### Senior Requirements
 
 - Experience recruiting at all levels, preferably within the technology sector
 - Proven success in recruiting for positions in competitive global job markets
@@ -117,18 +117,18 @@ The Senior Recruiter shares the same requirements as the Intermediate Recruiter 
 
 The Principal Recruiter is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-##### Responsibilities
+##### Principal Responsibilities
 
-The Principal Recruiter shares the same requirements as the Senior recruiter listed above, but also focuses on work with a broadere impact across departments. Principal Recruiters proactively own strategic decisions and are an extension of the Talent Acquisition leadership team. Principal Recruiters provide technical and functional knowledge to projects that contribute to overall direction across teams. They understand and focus on complex problems that require a deep understand and expertise of multiple sources of data to make recommendations and drive adoption. Principal recruiters are able to autonomously exercise judgement in developing methods and technicals to obtain results with a functional or team wide impact. 
+The Principal Recruiter shares the same requirements as the Senior recruiter listed above, but also focuses on work with a broadere impact across departments. Principal Recruiters proactively own strategic decisions and are an extension of the Talent Acquisition leadership team. Principal Recruiters provide technical and functional knowledge to projects that contribute to overall direction across teams. They understand and focus on complex problems that require a deep understand and expertise of multiple sources of data to make recommendations and drive adoption. Principal recruiters are able to autonomously exercise judgement in developing methods and technicals to obtain results with a functional or team wide impact.
 
 1. Leverages business acumen, functional expertise and good judgement when evaluating possible outcomes.
 1. Proficent in autonomously identifying, scoping and executing on high complexity, relevant functional strategic work. 
 1. Drives  a strong connection of TA Strategy through individual, team and functional work.
-1. Has broad direct relationships with strategic partners that help drive the goals of business forward. 
+1. Has broad direct relationships with strategic partners that help drive the goals of business forward.
 1. Expert knowledge of GitLab businesses, both in direct and ancillary purview. Has a keen awarness of GitLab's vision, story and long term goals.
 1. Owns and drives the results of key strategic progrommatic work that is of high priority and broadly impacts the Talent Acquisition function.
 
-### Requirements
+### Principal Requirements
 
 - Proven success in recruiting for senior/niche positions in competitive global job markets utilizing robust TA strategic work for each search (ie: building balanced source mix in senior level positions, spearheading intiatives for new ares of talent needs).
 - Expert storyteller; experienced leveraging talking points to influence and close the most challenging candidates in competitive markets at senior levels.
