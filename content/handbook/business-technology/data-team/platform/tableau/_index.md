@@ -519,17 +519,6 @@ permission_templates:
 
 <details markdown=1>
 
-<summary><b>Tableau Licenses</b></summary>
-
-GitLab currently has 1310 user licenses purchased. These licenses can be reassigned and more will be acquired on an as-need basis.
-- 90 Creators: Full editor capabilities, including Data Modeling, Data Prep and Data Visualizations. **Please note:** due to limited number of Creator licenses, these licenses are typically designated for individuals in an Analyst role or team members actively involved in dashboard development and data source creation on the day-to-day.
-- 120 Explorers: Ability to edit Data Visualizations.
-- 1100 Viewers: for Data Consumers, which includes the ability to filtering the data and the use of [Ask Data](https://www.tableau.com/about/blog/2021/6/tableau-release-ask-data-explain-data-viewers-collections) natural language querying.
-
-GitLab also has 90 eLearning credits available for Creators and 120 eLearning credits for Explorers. These seats cannot be reassigned, once registered.
-
-Tableau licenses will be revoked if not used for 90 days.
-
 **Tracking License Usage**
 
 - [Assigned Licenses](https://10az.online.tableau.com/#/site/gitlab/users) (Admins only)
@@ -589,36 +578,13 @@ Fore more details on features offered by each version please see this Tableau ar
 
 #### Data Source Access: Tableau Online
 
+Please refer to this [Connecting to Data in Tableau Guide](https://docs.google.com/document/d/17DdnVs_KrCw7ic5eJRj7D0i5x5WjfNtYRLGAozdjzSo/edit) for more details.
+
 <details markdown=1>
 
 <summary><b>Snowflake</b></summary>
 
 In order to use the Snowflake connector, you must have a Snowflake account assigned by the Data Platform team. Please open an AR ([example](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/24785)), if you do not already have access.
-
-- Service Account
-    - The Data Team has access to the credentials for the Tableau, Tableau Restricted People Data, and Tableau Restricted SAFE service accounts. The respective Snowflake roles to use for those accounts are `REPORTER`, `TABLEAU_RESTRICTED_PEOPLE_DATA` and `TABLEAU_RESTRICTED_SAFE`.
-
-- OAuth
-    1. Personal Space > New > Workbook
-    2. Connect to Data > Connectors > Snowflake
-        1. Fill in the following:
-            - Server: `gitlab.snowflakecomputing.com`
-            - Role: Leave blank (for Development work). 
-            ![](images/empty_role.png)
-            Not specifying a role enables ease of publishing and troubleshooting and will use your default role in Snowflake. Ensure that your default role in Snowflake is not set to PUBLIC to prevent log-in errors. You can find your default role in Snowflake from the Switch Role menu under your username dropdown. 
-            ![](images/snowflake_switch_role.png)
-            To set your default Snowflake role to your username, run the following code line `alter user [YOUR USERNAME] SET DEFAULT_ROLE = 'YOUR USERNAME'` in the SQL Editor. For example, if your Snowflake username is JDOE, then you'd run the following line to set your default role `alter user JDOE SET DEFAULT_ROLE = 'JDOE'`. For Production releases, please use the respective role per the service account indicated above.
-            - Authentication: `Sign in using OAuth`
-        2. Click on `Sign In`
-        3. Click on `Single Sign On`
-        4. Log in to Okta
-        5. Your browser tab should display: **Tableau Desktop** would like access to your Snowflake Account... > Click `Allow`
-            - Note: If you use OAuth to connect, use the `Embed password for data source` option when publishing so others can also access it.
-            - Note: The Snowflake OAuth token for Tableau Online expires in 90 days. You'll need to reauthenticate after 90 days to keep working with the data.
-
-</details>
-
-<details markdown=1>
 
 <summary><b>Data Sources published in Tableau Cloud</b></summary>
 
@@ -654,31 +620,6 @@ In order to use the Snowflake connector, you must have a Snowflake account assig
 #### Data Source Access: Tableau Desktop or Tableau Prep Builder
 
 *Important:* In order to connect Tableau Desktop to Tableau Cloud, you need to set up a [Yubikey]({{ ref "okta/#i-want-to-add-touch-id--face-id--face-authentication--yubikey-to-okta" }}) in Okta. Fingerprints will not work. Please see the [Tableau Online Access](/handbook/business-technology/data-team/platform/tableau/#tableau-online-access) section above for more details on how to order a Yubikey.
-
-<details markdown=1>
-
-<summary><b>Snowflake</b></summary>
-
-In order to use the Snowflake connector, you must have a Snowflake account assigned by the Data Platform team. Please open an AR ([example](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/24785)), if you do not already have access.
-
-1. Connect > To a Server > Snowflake 
-1. Fill in the following:
-    - Server: `gitlab.snowflakecomputing.com`
-    - Role: Leave blank (for Development work).
-    ![](images/empty_role.png)
-    Not specifying a role enables ease of publishing and troubleshooting and will use your default role in Snowflake. Ensure that your default role in Snowflake is not set to PUBLIC to prevent log-in errors. You can find your default role in Snowflake from the Switch Role menu under your username dropdown. 
-    ![](images/snowflake_switch_role.png)
-    To set your default Snowflake role to your username, run the following code line `alter user [YOUR USERNAME] SET DEFAULT_ROLE = 'YOUR USERNAME'` in the SQL Editor. For example, if your Snowflake username is JDOE, then you'd run the following line to set your default role `alter user JDOE SET DEFAULT_ROLE = 'JDOE'`. For Production releases, please use the respective role per the service account indicated above.
-    - Authentication: `Sign in using OAuth`
-1. Click on `Sign In`
-1. It should open a browser tab. Click on `Single Sign On`
-1. Log in to Okta
-1. Your browser tab should display: **Tableau Desktop** would like access to your Snowflake Account... > Click `Allow`
-1. Your browser tab should display the following message: `Tableau created this window to authenticate. It is now safe to close it.`
-1. Close your browser tab and continue in Tableau Desktop
-    - Note: The Snowflake Oauth token for Tableau Desktop expires in a day. You'll need to reauthenticate every day to keep working with the data.
-
-</details>
 
 <details markdown=1>
 
