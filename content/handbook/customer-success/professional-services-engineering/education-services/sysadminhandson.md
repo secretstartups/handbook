@@ -5,7 +5,7 @@ description: "This hands-on guide is designed to walk you through the lab exerci
 
 # GitLab System Administration Hands-on guide
 
-> **We are transitioning to the latest version of this course.** You are using v16 if your group URL is `https://gitlab.com/gitlab-learn-labs/...`. If your group URL starts with `https://ilt.gitlabtraining.cloud` or `https://spt.gitlabtraining.cloud`, please use the v15 instructions.
+> **We are transitioning to the latest version of this course.** You are using v16 if your group URL is `https://gitlab.com/gitlab-learn-labs/...`. If your group URL starts with `https://spt.gitlabtraining.cloud`, please use the v15 instructions.
 
 ## GitLab System Administration Labs
 | Lab 1- Install GitLab | [v15 Lab Guide](https://gitlab.com/gitlab-com/content-sites/handbook/-/blob/d14ee71aeac2054c72ce96e8b35ba2511f86a7ca/content/handbook/customer-success/professional-services-engineering/education-services/sysadminhandsonlab1.md) | [v16 Lab Guide](/handbook/customer-success/professional-services-engineering/education-services/sysadminhandsonlab1) |
