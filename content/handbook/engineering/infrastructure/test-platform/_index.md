@@ -39,6 +39,7 @@ Team mission is to:
 - Continue to be focused on innovative test architecture, efficiency, and customer results while delivering impact to the company's bottomline via alignment to the [top cross-functional initiatives](/handbook/company/team/structure/working-groups/#top-cross-functional-initiatives). 
 - Broaden our lead in ensuring self-managed excellence, improve deployment confidence, drive visibility and actionability of test results, and expand our Quality Architecture focus. 
 - Continue momentum on enabling development and deployment at scale.
+- Foster a culture of quality evangelism, promoting testing best practices across Gitlab teams.
 
 ### Self-Managed Excellence
 
