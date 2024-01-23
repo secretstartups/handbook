@@ -67,6 +67,8 @@ Please review HealthKick's member resources and the self-registration link/instr
 [HealthKick Overview](https://drive.google.com/file/d/1AitsrkUDA66UV5xZsv5ooqxmr7BpxlLh/view)
 [HealthKick Welcome Packet](https://drive.google.com/file/d/1_vdASrSSzztvEwM7NOx_szEPYMkPBiiA/view?usp=sharing)
 
+If team members have any questions about this service or would like to cancel this service, please reach out to the HealthKick support team via `concierge@health-kick.com`.
+
 ## Financial Wellness
 
 GitLab offers resources related to [Financial Wellness]({{< ref "financial-wellness" >}}) to support team members in their financial journey.
