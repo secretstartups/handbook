@@ -5,7 +5,7 @@ description: "The Fulfillment Sub-department is composed of the Billing and Subs
 
 ## Vision
 
-A [high performing team](/handbook/leadership/build-high-performing-teams/) who provides our customers with a world-class buyer experience through the products we build. Our team strives to build an experience that is delightful, performant, trustworthy, and reliable.
+A [high performing team](/handbook/leadership/#strategies-to-build-high-performing-teams) who provides our customers with a world-class buyer experience through the products we build. Our team strives to build an experience that is delightful, performant, trustworthy, and reliable.
 
 ## Mission
 
