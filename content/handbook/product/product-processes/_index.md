@@ -1461,7 +1461,7 @@ Often, the criteria for features are built on is implicit. It can help to use a 
 
 #### Exception & error cases
 
-Software often fails and can fail in different ways depending upon how it is architected. It is always best to provide the user with as much information as possible as to why something did not behave as expected. Creating and building different states to handle all possible errors and exceptions can easily be broken down into individual issues. Start by creating a generic error state to display when anything goes wrong, and then add on to handle different cases one by one. Remember to always make error messages [useful](https://design.gitlab.com/content/error-messages), and add additional error messages as you identify new error states.
+Software often fails and can fail in different ways depending upon how it is architected. It is always best to provide the user with as much information as possible as to why something did not behave as expected. Creating and building different states to handle all possible errors and exceptions can easily be broken down into individual issues. Start by creating a generic error state to display when anything goes wrong, and then add on to handle different cases one by one. Remember to always make error messages [useful](https://design.gitlab.com/content/ui-text#clear-error-messages), and add additional error messages as you identify new error states.
 
 #### Breaking down the UI
 
