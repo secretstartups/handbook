@@ -166,6 +166,7 @@ description: "A comprehensive list of all of Field Marketing's epic codes."
 ## Sub-Issue Creation
 * [ ] [Program Tracking](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=program-tracking) - FMC creates, assigns to FMC
 * [ ] [List Clean and Upload Issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=event-clean-upload-list) - FMC creates, assigns to FMM
+* [ ] [Optional: ABM Request for LinkedIn Ads](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=abm_fieldmarketing_campaign_request) - FMM creates, assigns based on template instructions
 * [ ] [Optional: FM Pathfactory Asset Upload and Track Creation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Pathfactory_Request_Template) - FMM creates, assigns to FMC
 
 /label ~mktg-status:wip ~"Content Syndication" ~"Field Marketing" 
@@ -203,6 +204,7 @@ description: "A comprehensive list of all of Field Marketing's epic codes."
 * [ ] [Email Reminder Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_email_reminder) - FMC creates, assigns to FMM (issue will be triaged)
 * [ ] [Follow Up Email issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_email_followup) - FMC creates, assigns to FMM (issue will be triaged)
 * [ ] [List Clean and Upload](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=event-clean-upload-list) - FMC creates, assigns to FMM 
+* [ ] [Optional: ABM Request for LinkedIn Ads](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=abm_fieldmarketing_campaign_request) - FMM creates, assigns based on template instructions
 
 /label ~"mktg-status::wip" ~"Direct Mail" ~"Field Marketing" 
 /confidential
@@ -276,7 +278,9 @@ description: "A comprehensive list of all of Field Marketing's epic codes."
 * [ ] [Email Reminder Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_email_reminder) - FMC creates, assigns to FMM (issue will be triaged)
 * [ ] [Follow Up Email issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_email_followup) - FMC creates, assigns to FMM (issue will be triaged)
 * [ ] [List Clean and Upload](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=event-clean-upload-list) - FMC creates, assigns to FMM
+* [ ] [Optional: ABM Request for LinkedIn Ads](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=abm_fieldmarketing_campaign_request) - FMM creates, assigns based on template instructions
 * [ ] [Optional: FM Pathfactory Asset Upload and Track Creation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Pathfactory_Request_Template) - FMM creates, assigns to FMC
+
 
 /label ~"mktg-status::wip" ~"Owned Event" ~“Field Marketing”
 /confidential
@@ -346,6 +350,7 @@ description: "A comprehensive list of all of Field Marketing's epic codes."
 * [ ] [Email Reminder Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_email_reminder) - FMC creates, assigns to FMM (issue will be triaged)
 * [ ] [Follow Up Email issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_email_followup) - FMC creates, assigns to FMM (issue will be triaged)
 * [ ] [List Clean and Upload](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=event-clean-upload-list) - FMC creates, assigns to FMM
+* [ ] [Optional: ABM Request for LinkedIn Ads](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=abm_fieldmarketing_campaign_request) - FMM creates, assigns based on template instructions
 
 /label ~"mktg-status::wip" ~"Survey" ~"Field Marketing" 
 /confidential
@@ -436,15 +441,8 @@ Utilize the [Workshop/Webcast SLA Workback Schedule](https://docs.google.com/spr
 ### FMM Creates 
 
 * [ ] [Zoom License Request](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_zoom_license_date) - NOTE: This is only needed for virtual workshops. This issue should be submitted and confirmed prior to the epic being opened. Do not open epic if this issue has not been created and the date for the workshop has not been confirmed on the webcast calendar by the FMC. - FMM creates, assigns to FMC
-* [ ] [Optional: New Design Assets for Demand Base Display Ads](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=request-design-general) - FMM creates, assigns to FMM and Design Team
-* [ ] [Optional: Paid Ads Issue Created for Digital Marketing](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing/-/issues/new?issuable_template=paid-digital-request) - FMM creates, assigns to FMM and DMP Team 
-   * Digital ads for all workshops: 
-      * [Digital Ads - DevOps Automation Workshop](https://www.canva.com/folder/FAEfs4Cv_m4) 
-      * [Digital Ads - Security Workshop](https://www.canva.com/folder/FAEfs0hG1FU)
-      * [Digital Ads - Project & Portfolio Management Workshop](https://www.canva.com/folder/FAEfs2XjBJE)
-      * [Digital Ads - Jenkins Migration Workshop](https://www.canva.com/folder/FAEfsXRuk4A)
-      * [Digital Ads - Advanced CI/CD Workshop](https://www.canva.com/folder/FAEfsMc684E) 
 * [ ] [Optional: Organic Social Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=social-gtm-organic) - FMM creates, assigns to FMM and Social Team
+* [ ] [Optional: ABM Request for LinkedIn Ads](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=abm_fieldmarketing_campaign_request) - FMM creates, assigns based on template instructions
 * [ ] [Optional: FM Pathfactory Asset Upload and Track Creation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Pathfactory_Request_Template) - FMM creates, assigns to FMC
 
 /label ~"mktg-status::wip" ~"workshop" ~"Field Marketing"
@@ -493,9 +491,8 @@ Utilize the [Workshop/Webcast SLA Workback Schedule](https://docs.google.com/spr
 ### FMM Creates 
 
 * [ ] [Zoom License Request](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_zoom_license_date) - NOTE: This should be submitted and confirmed prior to the epic being opened. Do not open epic if this issue has not been created and the date for the webcast has not been confirmed on the webcast calendar by the FMC. - FMM creates, assigns to FMC
-* [ ] [Optional: New Design Assets for Demand Base Display Ads](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=request-design-general) - FMM creates, assigns to FMM and Design Team
-* [ ] [Optional: Paid Ads Issue Created for Digital Marketing](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing/-/issues/new?issuable_template=paid-digital-request) - FMM creates, assigns to FMM and DMP Team 
 * [ ] [Optional: Organic Social Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=social-gtm-organic) - FMM creates, assigns to FMM and Social Team
+* [ ] [Optional: ABM Request for LinkedIn Ads](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=abm_fieldmarketing_campaign_request) - FMM creates, assigns based on template instructions
 * [ ] [Optional: FM Pathfactory Asset Upload and Track Creation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Pathfactory_Request_Template) - FMM creates, assigns to FMC
 
 /label ~"mktg-status::wip" ~"Webcast - GitLab Hosted" ~"Field Marketing"
