@@ -981,9 +981,6 @@ For deals transacting through the Carahsoft DSOR program, the quote should refle
 
 To recognize and properly compensate these transactions, please ensure the `CPPO or DSOR Partner` field = "Amazon Web Services" on the opportunity record. Please chatter Chris Novello or Pilar Meija on your DSOR opportunity so they can review the opportunity and update the `CPPO or DSOR Partner` field.
 
-### Marketplace Transaction Fees
-
-Deals booked through the Amazon and Google markeplaces use the fee schedules as shown in the [Deal Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#bookmark=kix.16z0a5v6j1e2).
 
 ### Requesting Google Cloud Credits
 
