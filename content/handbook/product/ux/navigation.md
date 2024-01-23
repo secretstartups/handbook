@@ -68,6 +68,7 @@ After there is insight into a problem with the navigation, the Product team DRI 
 - Renaming a navigation item
 - Removing a navigation item
 - Changing the sort order of navigation items
+- Changing navigation functionality or features
 - Launching an [Experiment](https://docs.gitlab.com/ee/policy/experiment-beta-support.html#experiment) or [Beta](https://docs.gitlab.com/ee/policy/experiment-beta-support.html) feature
 
 ### Utilizing feature flags
