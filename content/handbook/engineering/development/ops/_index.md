@@ -205,19 +205,25 @@ Key projects will be listed in the table below:
 
 | Project Name                                  | Link to Project Plan                                                                                                                                  | DRI                       |
 |-----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
-| CI Catalog                                    | [Project plan](/handbook/engineering/development/ops/project-plans/ci-catalog/)                                                                       | Mark Nuzzo                |
+| CI/CD Catalog                                 | [Project plan](/handbook/engineering/development/ops/project-plans/ci-catalog/)                                                                       | Mark Nuzzo                |
 | CI Data Partitioning                          | [Project plan](/handbook/engineering/development/ops/verify/pipeline-execution/project-plans/ci-data-partitioning/)                                   | Caroline Simpson          |
 | CI Primary Key Conversion                     | [Project plan](/handbook/engineering/development/ops/verify/pipeline-execution/project-plans/ci-pk-conversion/)                                       | Drew Stachon / Caroline Simpson |
-| Merge Train Improvements (Fast-Foward Support)| Project Complete - Fast-forward merge support shipped                                                                                                 | Caroline Simpson          |
 | Container Registry v2 Self-Managed            | [Project plan](/handbook/engineering/development/ops/project-plans/container-registry-v2/)                                                            | Crystal Poole             |
 | CI Secrets Management                         | [Project plan](/handbook/engineering/development/ops/project-plans/secrets-manager/)                                                                  | Scott Hampton             |
-| GCP Secrets Integration                       | [Project plan](/handbook/engineering/development/ops/project-plans/gcp-secrets-integration/)                                                          | Scott Hampton             |
-| O11y Distributed Tracing                      | [Project plan](/handbook/engineering/development/ops/monitor/observability/#weekly-project-plan)                                                      | Nicholas Klick            |
 | Cluster Web Terminal                          | [Project plan](/handbook/engineering/development/ops/project-plans/cluster-web-terminal/)                                                             | Nicolò Maria Mezzopera    |
 | Kubernetes Dashboard                          | [Project plan](/handbook/engineering/development/ops/project-plans/k8s-dashboard/)                                                                    | Nicolò Maria Mezzopera    |
 | Autoscaling for GitLab Runner                 | [Project Plan](/handbook/engineering/development/ops/verify/runner/project-plans/#autoscaling-provider-for-gitLab-runner-to-replace-docker-machine)   | Nicole Williams           |
 | Dedicated SaaS Runners For GitLab Dedicated   | [Project Plan](/handbook/engineering/development/ops/verify/runner/project-plans/#dedicated-saas-runners-for-gitlab-dedicated)                        | Nicole Williams           |
 | CI Steps                                      | [Project plan](/handbook/engineering/development/ops/verify/project-plans/ci-steps/)                                                                  | Cheryl Li                 |
+
+### Completed Projects
+
+| Project Name                                  | Link to Project Plan                                                                                                                                  | DRI                       | Completed |
+|-----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------| ------- |
+| Merge Train Improvements (Fast-Foward Support)| [Project plan](/handbook/engineering/development/ops/verify/pipeline-execution/project-plans/merge-trains/) | Caroline Simpson | FY24-Q4 |
+| O11y Distributed Tracing | [Project plan](/handbook/engineering/development/ops/monitor/observability/#weekly-project-plan) | Nicholas Klick | FY24-Q4 |
+| GCP Secrets Integration | [Project plan](/handbook/engineering/development/ops/project-plans/gcp-secrets-integration/) | Scott Hampton | FY24-Q4 |
+
 
 ### Key Project Planning
 
