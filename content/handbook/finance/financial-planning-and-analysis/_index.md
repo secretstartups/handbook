@@ -353,6 +353,7 @@ Financial Planning & Analysis (FP&A) team is the owner of SSOT for GitLab’s **
 - Hiring Plan is maintained by the Finance Business Partners (FBPs) and shared with Talent Acquisition (TA) team and Business Partners (BPs)
 - Finance owns the Hiring Plan to ensure there is only one Headcount Forecast and Hiring Plan for the business
 - Hiring Plan increases our predictability as a company and streamlines the hiring process
+- Based on historical time to start data, new requisitions released via RLOA in a quarter can be expected to start in the following quarter at the earliest
 - For questions specific to TA’s process and REQ creation, please refer to [TA’s section of the handbook](/handbook/hiring/talent-acquisition-framework/req-creation/)
 
 ### Position ID (PID)
