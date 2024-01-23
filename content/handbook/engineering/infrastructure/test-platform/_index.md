@@ -24,7 +24,7 @@ description: "Test Platform Sub-Department"
 
 ## Mission
 
-The Test Platform sub-department's mission is to be a world class team that enables successful development and deployment of GitLab software applications with kaizen workflow efficiency, reliability, and productivity
+The Test Platform sub-department's mission is to be a world class team that enables successful development and deployment of GitLab software applications with [kaizen](https://www.techtarget.com/searcherp/definition/kaizen-or-continuous-improvement) workflow efficiency, reliability, and productivity
   
 ## Vision
 
