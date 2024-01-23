@@ -60,7 +60,7 @@ Starting on 2023-07-27, Australian team members will be able to review their pla
 
 #### Contact & Support for Enrollment, Plan Questions
 
-If you have any questions on the plan, help enrolling on BUPA’s portal, have any other questions comparing your current plan with BUPA’s offerings - you can reach out to BUPA for direct plan support at *1300-622-074* or utilize their virtual chat support on the portal for basic questions.
+If you have any questions on the plan, help enrolling on BUPA’s portal, have any other questions comparing your current plan with BUPA’s offerings - you can reach out to BUPA for direct plan support at *1300-662-074* or utilize their virtual chat support on the portal for basic questions.
 
 Additionally, please feel free to reach out to our consultants, WTW, for direct support and assistance on any enrollment, plan, or questions you may have with the medical plan.
 Please email *paul.dervan@wtwco.com* and cc’ *total-rewards@gitlab.com*
