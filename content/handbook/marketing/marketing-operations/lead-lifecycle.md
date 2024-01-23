@@ -93,4 +93,17 @@ We have 6 fields on the lead and contact that's purpose is to represent where th
 The fields are formula fields and have three possible options - `True`, `False` or `-`, `-` means that we don't have enough information to say if the field is true or false so it will stay in `-` until the information becomes available. More information to come on how to leverage these fields. 
 
 
+## What happens to a lead when the lead owner is offboarded?
 
+In an effort to ensure that leads are not owned by inactive users in Salesforce, leads will be reassigned to either new owners or queues based on the lead's status. The following table describes where a lead is reassigned when it's owner moves into a new role or leaves the company.
+
+| Lead Status | New Owner Assignment |
+| Raw | Raw Queue |
+| Inquiry | Inquiry Queue |
+| Recycle | Recycle Queue |
+| Disqualified | Disqualified Queue |
+| Ineligible | Ineligible Queue |
+| Qualifiying or Qualified | Inactive User Queue |
+| Accepted | Lead status is updated to `Recycle`, `No Response` and moved to Recycle Queue |
+| MQL (before 2023/02/01) | Lead status is updated to `Recycle`, `No Response` and moved to Recycle Queue |
+| MQL (on or after 2023/02/01) | `BDR Assigned` if the matched account is Actively Working. Otherwise, the lead will route to the round robin pool based on Geo |
