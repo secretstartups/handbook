@@ -105,7 +105,7 @@ Contributing to GitLab's Data Platform is easy and using the platform is intuiti
 
 * Documentation is complete and relevant for users and contributors
 * All data transformations are implemented in dbt
-* CI/CD is seamless, intuitive, automated for constributors and reviewers
+* CI/CD is seamless, intuitive, automated for contributors and reviewers
 * Data state is derivative from sources and transformations
 * Data pipelines are idempotent 
 
