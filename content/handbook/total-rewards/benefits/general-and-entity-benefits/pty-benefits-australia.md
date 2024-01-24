@@ -363,7 +363,7 @@ Team members must pass the [income test](https://www.servicesaustralia.gov.au/me
 - Team members who get Australian Government Parental Leave Pay have to be given a pay slip for each payment. The pay slip must specify that the payments are Parental Leave Pay under the Australian Government Paid Parental Leave Scheme.
 - Ordinary pay slip requirements apply to pay slips given to team members getting government-funded Parental Leave Pay.
 
-# GitLab PTY New Zealand Specific Benefits
+## GitLab PTY New Zealand Specific Benefits
 
 ## Medical
 
