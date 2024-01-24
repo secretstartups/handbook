@@ -68,6 +68,8 @@ GitLab has a [Three-Year Strategy](/handbook/company/strategy/). Our [Yearlies](
 
 Our focus is to support our FY25 Yearlies. They can be found in the internal handbook: https://internal.gitlab.com/handbook/company/yearlies/#fy25-yearlies.
 
+## Areas of Responsibility
+
 ### Self-Managed Excellence
 
 Test Platform owns several tools which form a 3-prong trident for Self-Managed Excellence: the [GitLab Environment Toolkit (GET)](https://gitlab.com/gitlab-org/gitlab-environment-toolkit), the [GitLab Performance Tool (GPT)](https://gitlab.com/gitlab-org/quality/performance), and the [Reference Architectures (RA)](https://docs.gitlab.com/ee/administration/reference_architectures/). Together, these tools support our broader strategy of cementing customer confidence and contributing to their ongoing success by ensuring their instances are built to a rigorously tested standard that performs smoothly at scale.
@@ -95,18 +97,12 @@ Test Platform has been key to supporting prospect POVs and providing prompt, kno
 - Burn down S2 bugs to improve user experience.
 
 ### Productivity
+
 - Reduce manual burden for SET team members on-call.
 - Improve test failure debugging through traceable test executions and streamlined, concise logging.
 - Reduce duration of GitLab pipelines through selective test execution.
 - Contribute quality tools to GitLab the product to help mature and dogfood our testing offerings.
 - Increase MR Rate.
-
-### Team Growth & Engagement
-- Provide geo-diverse department activity and presence.
-- Provide clear actionable career paths for all job families.
-- Provide learning & growing opportunities for the management team.
-- Collaborate with recruitment to ensure timely hiring.
-- Every manager understands their team's MR Rate.
 
 ## OKRs
 
@@ -118,7 +114,34 @@ Here is an [overview](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/404
 
 ### Open roles
 
-Test Platform is actively hiring! Please view [our jobs page](https://boards.greenhouse.io/gitlab) to read more and apply.
+Currently we dont ahve any open roles. Please check back later in [our jobs page](https://boards.greenhouse.io/gitlab) for any openings.
+
+## Team Structure 
+
+Infrastructure Department structure is documented [here](/handbook/engineering/infrastructure/#organization-structure) 
+
+```mermaid
+graph TD
+    A[Test Platform sub-department]
+    A --> B(Self Managed Platform team)
+    A --> C(Test and Tools Instructure team)
+    A --> D(Test Engineering team)
+
+    click A "/handbook/engineering/infrastructure/test-platform"
+    click B "/handbook/engineering/infrastructure/test-platform/self-managed-platform-team"
+    click C "/handbook/engineering/infrastructure/test-platform/test-and-tools-infrastructure-team"
+    click D "/handbook/engineering/infrastructure/test-platform/test-engineering-team"
+```
+### Engage with us
+
+Feel free to reach out to us by opening an issue on the [Quality Team Tasks project](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues) or contacting us in one of the Slack channels listed below.
+
+| Team                           | GitLab.com handle  | Slack channel | Slack handle |
+| ------------------------------ | ------------------ | ------------- | ------------ |
+| Test Platform            | [`@gl-quality/tp-sub-dept`](https://gitlab.com/gl-quality/tp-sub-dept) | [#test-platform](https://gitlab.slack.com/archives/C3JJET4Q6) | None |
+| [Self-Managed Platform team](self-managed-platform-team) | [`@gl-quality/tp-self-managed-platform`](https://gitlab.com/gl-quality/tp-self-managed-platform) | [#self-managed-platform-team](https://gitlab.slack.com/archives/CTP7N0PM4) | `@self-managed-platform` |
+| [Test and Tools Infrastructure team](test-and-tools-infrastructure-team)     | [`@gl-quality/tp-test-tools-infrastructure`](https://gitlab.com/gl-quality/tp-test-tools-infrastructure)  |  [`#test-tools-infrastructure-team`](https://gitlab.slack.com/archives/C064M4D2V37)  | `@test-tools-infrastructure` |
+| [Test Engineering team](test-engineering-team) | [`@gl-quality/tp-test-engineering`](https://gitlab.com/gl-quality/tp-test-engineering) | [#test-engineering-team](https://gitlab.slack.com/archives/C064M4S0FU5) |`@test-engineering-team` |
 
 ## Team Members
 
@@ -143,16 +166,7 @@ The following people are members of the Test Engineering team:
 
 {{< team-by-manager-slug "kkolpakova" >}}
 
-## Engage with Us
 
-Feel free to reach out to us by opening an issue on the [Quality Team Tasks project](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues) or contacting us in one of the Slack channels listed below.
-
-| Team                           | GitLab.com handle  | Slack channel | Slack handle |
-| ------------------------------ | ------------------ | ------------- | ------------ |
-| Test Platform            | [`@gl-quality/tp-sub-dept`](https://gitlab.com/gl-quality/tp-sub-dept) | [#test-platform](https://gitlab.slack.com/archives/C3JJET4Q6) | None |
-| [Test and Tools Infrastructure team](test-and-tools-infrastructure-team)     | [`@gl-quality/tp-test-tools-infrastructure`](https://gitlab.com/gl-quality/tp-test-tools-infrastructure)  |  [`#test-tools-infrastructure-team`](https://gitlab.slack.com/archives/C064M4D2V37)  | `@test-tools-infrastructure` |
-| [Self-Managed Platform team](self-managed-platform-team) | [`@gl-quality/tp-self-managed-platform`](https://gitlab.com/gl-quality/tp-self-managed-platform) | [#self-managed-platform-team](https://gitlab.slack.com/archives/CTP7N0PM4) | `@self-managed-platform` |
-| [Test Engineering team](test-engineering-team) | [`@gl-quality/tp-test-engineering`](https://gitlab.com/gl-quality/tp-test-engineering) | [#test-engineering-team](https://gitlab.slack.com/archives/C064M4S0FU5) |`@test-engineering-team` |
 
 ## How we Work
 
