@@ -1,6 +1,8 @@
 ---
 title: "Infrastructure Security Overview"
 description: "GitLab's Infrastructure Security provides security oversight of the SaaS."
+aliases:
+- /handbook/security/security-engineering/infrastructure-security
 ---
 
 ## Team Identity

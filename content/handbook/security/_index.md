@@ -48,7 +48,7 @@ To reflect this, we have structured the Security Division around four key tenets
   <tr>
     <th class="text-center">
         <i class="fas fa-bullseye i-bt"></i>
-        <h5><a href="{{< ref "./security-engineering" >}}">Security Engineering</a></h5>
+        <h5><a href="{{< ref "./product-security" >}}">Product Security</a></h5>
     </th>
     <th class="text-center">
         <i class="fas fa-shield-alt i-bt"></i>
@@ -66,10 +66,10 @@ To reflect this, we have structured the Security Division around four key tenets
   <tr>
       <td>
         <ul>
-            <li><a href="{{< ref "./security-engineering/application-security" >}}">Application Security</a></li>
-            <li><a href="{{< ref "./security-engineering/infrastructure-security" >}}">Infrastructure Security</a></li>
-            <li><a href="{{< ref "./security-engineering/security-logging" >}}">Security Logging</a></li>
-            <li><a href="{{< ref "./security-engineering/automation" >}}">Security Automation</a></li>
+            <li><a href="{{< ref "./product-security/application-security" >}}">Application Security</a></li>
+            <li><a href="{{< ref "./product-security/infrastructure-security" >}}">Infrastructure Security</a></li>
+            <li><a href="{{< ref "./product-security/security-logging" >}}">Security Logging</a></li>
+            <li><a href="{{< ref "./product-security/automation" >}}">Security Automation</a></li>
             <li>External Security Communications</li>
         </ul>
       </td>
@@ -99,9 +99,9 @@ To reflect this, we have structured the Security Division around four key tenets
   </tr>
 </table>
 
-#### Secure the Product - The Security Engineering Department
+#### Secure the Product - The Product Security Department
 
-The [Security Engineering Department]({{< ref "security-engineering" >}}) is primarily focused on Securing the Product. This reflects the Security Division's current efforts to be involved in the Application development and Release cycle for Security Releases, Security Research, our HackerOne bug bounty program, Security Automation, External Security Communications, and Vulnerability Management.
+The [Product Security Department]({{< ref "product-security" >}}) is primarily focused on Securing the Product. This reflects the Security Division's current efforts to be involved in the Application development and Release cycle for Security Releases, Security Research, our HackerOne bug bounty program, Security Automation, External Security Communications, and Vulnerability Management.
 
 The term “Product” is interpreted broadly and includes the GitLab application itself and all other integrations and code that is developed internally to support the GitLab application for the multi-tenant SaaS. Our responsibility is to ensure all aspects of GitLab that are exposed to customers or that host customer data are held to the highest security standards, and to be proactive and responsive to ensure world-class security in anything GitLab offers.
 
@@ -178,7 +178,7 @@ Many teams follow a convention of having a GitLab group `team-name-team` with a 
     - [@gitlab-com/gl-security/security-assurance/field-security-team](https://gitlab.com/gitlab-com/gl-security/security-assurance/field-security-team)
     - [@gitlab-com/gl-security/security-assurance/security-risk-team](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team)
     - [@gitlab-com/gl-security/security-assurance/governance](https://gitlab.com/gitlab-com/gl-security/security-assurance/governance)
-- [Security Engineering (@gitlab-com/gl-security/engineering-and-research)](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/engineering-and-research-meta)
+- [Product Security (@gitlab-com/gl-security/engineering-and-research)](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/engineering-and-research-meta)
     - [gitlab-com/gl-security/engineering-and-research-meta](https://gitlab.com/gitlab-com/gl-security/engineering-and-research-meta) For department wide management and planning issues.
     - [gitlab-com/gl-security/engineering-and-research/automation-team/automation](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/automation-team/automation)
     - [@gitlab-com/gl-security/appsec](https://gitlab.com/gitlab-com/gl-security/appsec) is the primary group for @'mentioning the Application Security team.

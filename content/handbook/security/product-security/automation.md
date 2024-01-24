@@ -1,5 +1,7 @@
 ---
 title: "Security Automation"
+aliases:
+- /handbook/security/security-engineering/automation
 ---
 
 ![Security Automation Workflow](https://docs.google.com/drawings/d/e/2PACX-1vRXr9HELOOYpeZDEH6RJgWxpurkoxbFa_V_NLzVO9ehdFF_L8KV3J9n9lJqfADefUx8ghzVXvGd2m09/pub?w=1305&h=417)

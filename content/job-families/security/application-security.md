@@ -120,7 +120,7 @@ The role is a [grade 8](/handbook/total-rewards/compensation/compensation-calcul
 
 ### Distinguished Application Security Engineer
 
-This position reports to the [Security Engineering Director](/job-families/security/security-leadership/) role at GitLab.
+This position reports to the [Product Security Director](/job-families/security/security-leadership/) role at GitLab.
 
 #### Distinguished Application Security Engineer Job Grade
 
@@ -192,7 +192,7 @@ The Application Security Manager is a [grade 8](/handbook/total-rewards/compensa
 - Sense of ownership, urgency, and drive.
 - Excellent written and verbal communication skills, especially experience with executive-level communications.
 - Ability to make concrete progress in the face of ambiguity and imperfect knowledge.
-- Prepare and deliver meaningful metrics to Security Engineering leadership.
+- Prepare and deliver meaningful metrics to Product Security leadership.
 
 #### Requirements
 
@@ -214,7 +214,7 @@ Enjoys working hard; is action-oriented and full of energy for the things he/she
 
 ### Application Security Senior Manager
 
-This position reports to the [Security Engineering Director](/job-families/security/security-leadership/#director-security-engineering--research).
+This position reports to the [Product Security Director](/job-families/security/security-leadership/#director-security-engineering--research).
 
 #### Job Grade
 
@@ -228,13 +228,13 @@ The Application Security Senior Manager is a [grade 9](/handbook/total-rewards/c
 
 #### Requirements
 
-- At least 5 years prior experience managing security engineering teams.
+- At least 5 years prior experience managing Product Security teams.
 
 ## Segment
 
 ### Security Leadership
 
-For details on the Security organization leadership roles, to include the Security Engineering Director and VP of Security, see the Security Leadership page.
+For details on the Security organization leadership roles, to include the Product Security Director and VP of Security, see the Security Leadership page.
 
 ## Performance Indicators
 
@@ -250,7 +250,7 @@ For details on the Security organization leadership roles, to include the Securi
   sec:stse(Staff Security Engineer, Application Security) --> sec:dse(Distinguished Security Engineer, Application Security);
   sec:sse(Senior Security Engineer, Application Security)-->sec:sem(Security Manager, Application Security);
   sec:sem(Security Manager, Application Security)-->sec:sesm(Senior Security Manager, Application Security);
-  sec:sesm(Senior Security Manager, Application Security)-->sec:ds(Director of Security Engineering);
+  sec:sesm(Senior Security Manager, Application Security)-->sec:ds(Director of Product Security);
 ```
 
 ## Hiring Process
@@ -260,6 +260,6 @@ Candidates for this position can expect the hiring process to follow the order b
 - Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule 1 or 2 50-minute interviews with Application Security team member peers.
 - Then, candidates will be invited to schedule a 50-minute interview with the Application Security team hiring manager.
-- Finally, candidates will be invited to schedule a 30-minute interview with the Director, Security Engineering.
+- Finally, candidates will be invited to schedule a 30-minute interview with the Director, Product Security.
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).

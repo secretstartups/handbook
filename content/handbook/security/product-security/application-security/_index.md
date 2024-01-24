@@ -1,12 +1,14 @@
 ---
 title: "Application Security"
 description: "The application security team's mission is to support the business and ensure that all GitLab products securely manage customer data."
+aliases:
+- /handbook/security/security-engineering/application-security
 ---
 <!-- markdownlint-disable MD052 -->
 
 ## Application Security Mission
 
-As part of the Security Engineering sub-department, the application security team's mission is to support the business and ensure that all GitLab products securely manage customer data. We do this by working closely with both engineering and product teams.
+As part of the Product Security sub-department, the application security team's mission is to support the business and ensure that all GitLab products securely manage customer data. We do this by working closely with both engineering and product teams.
 
 ## Contacting us
 
@@ -20,7 +22,7 @@ Team members can reach the AppSec team by:
 
 ## Application Security Roadmap
 
-Please see the [Security Engineering Program Strategy document][9].
+Please see the [Product Security Program Strategy document][9].
 
 ## Roles & Responsibilities
 
