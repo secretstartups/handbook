@@ -215,6 +215,65 @@ To fix markdown errors, review the message. Alternatively, review the relevant s
 
 For all other errors, the error message should provide the information necessary to fix it. If you're unsure, you can [reach out for help](#need-help).
 
+### Fixing default branch errors
+
+MR pipelines should catch almost all errors before they are merged into the relevant repository.
+However, the handbook (and some other projects) pull data from `www-gitlab-com` `yml` files,
+which are currently not fully checked by the pipeline.
+
+If the default branch `main` (for public and internal handbook) or `master` (for `www-gitlab-com`)
+is "broken" and pipelines are failing for everyone, the root issue is most likely a data file error.
+
+1. Check the error message.
+1. If it mentions an error in building the site, or rendering something, follow the trace.
+1. In the layout file, if it's failing on displaying on something
+   that starts with `site.Data.public.`, then it's a data file issue.
+1. There are two ways to fix. Either:
+   1. Make the code itself more robust to deal with the types of values it may encounter.
+      However, not everyone knows Go and Hugo well enough to do that quickly.
+      If needed, create a "handbook::bug" issue in the handbook repository to document the problem
+      after fixing the pipeline issue.
+   1. Edit the data file to have values the build won't fail on.
+
+#### Example: Fixing broken main on tech writing shortcode
+
+Take this [example error](https://gitlab.com/gitlab-com/content-sites/handbook/-/jobs/5968799321#L123):
+
+```plain
+Error: error building site: failed to render shortcode: "/builds/gitlab-com/content-sites/handbook/content/handbook/product/ux/technical-writing/_index.md:126:1": failed to render shortcode "tech-writing": failed to process shortcode: "/builds/gitlab-com/content-sites/handbook/layouts/shortcodes/tech-writing.html:16:28": execute of template failed: template: shortcodes/tech-writing.html:16:28: executing "shortcodes/tech-writing.html" at <ref page (printf "/handbook/product/categories#%s-section" $section)>: error calling ref: parse "/handbook/product/categories#%!s(<nil>)-section": invalid URL escape "%!s"
+```
+
+Following the error trace, notice that the last error with a full path and line number is:
+`failed to process shortcode: "/builds/gitlab-com/content-sites/handbook/layouts/shortcodes/tech-writing.html:16:28"`.
+
+Looking [at the file](https://gitlab.com/gitlab-com/content-sites/handbook/-/blob/114d8f9bf00342360be14dce8cf6e55e1d8a6edd/layouts/shortcodes/tech-writing.html#L16),
+the issue is an unexpected value in `printf "/handbook/product/categories#%s-section" $section`,
+which matches the last part of the error message.
+
+From there, [line 11](https://gitlab.com/gitlab-com/content-sites/handbook/-/blob/114d8f9bf00342360be14dce8cf6e55e1d8a6edd/layouts/shortcodes/tech-writing.html#L11)
+tells us that the data is from `site.Data.public.stages.stages "section"`.
+
+If you have a local build of the site, you can find all the data files in the `data/public` folder.
+The relevant file (usually a `yml` file) should tell you at the top where to find the original.
+
+If you do not have a local build, you can still likely find it in the [www-gitlab-com data folder](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data).
+
+Based on the code, you can figure out the filename. `site.Data.public.stages.stages` means it's
+in `data/public` and the file is `stages.yml`.
+
+The last parts `.stages "section"` means it's inside of `stages:` and it's pulling data from
+each `section:` line.
+
+You can check the most recent changes to the file, and/or compare it to when `main` started failing.
+
+In this case, [an empty `section:` line](https://gitlab.com/gitlab-com/www-gitlab-com/-/commit/17a5406b9a8fd33756cd5e0c4a2343ea2b4ab7a7)
+was the issue.
+
+The quick and easy fix is to add text to the empty `section:` line, merge it, and run a new pipeline
+in the public handbook project.
+
+In this case, [the handbook code was made more robust](https://gitlab.com/gitlab-com/content-sites/handbook/-/merge_requests/2820/diffs).
+
 ## Additional tips
 
 For additional tips, such as how to replace strings in files, refer to the [practical handbook edits examples]({{< ref "practical-handbook-edits" >}}).
