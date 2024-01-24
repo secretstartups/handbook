@@ -5,7 +5,7 @@ title: OKR Management Single-Engineer Group
 
 ## OKR Management Single-Engineer Group
 
-The OKR Management SEG is a [Single-Engineer Group](/handbook/company/team/structure/#single-engineer-groups) within our [Incubation Engineering Department](/handbook/engineering/development/incubation/).
+The OKR Management SEG is a [Single-Engineer Group](/handbook/company/structure/#single-engineer-groups) within our [Incubation Engineering Department](/handbook/engineering/development/incubation/).
 
 ## Goal
 To develop Objectives & Key Results(OKR) functionality within GitLab.
