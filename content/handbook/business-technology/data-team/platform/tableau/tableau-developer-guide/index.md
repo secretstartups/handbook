@@ -9,7 +9,6 @@ description: "Giltab's Tableau Developer guide"
 
 
 
-
 ---
 
 ## Embedding in the Handbook
