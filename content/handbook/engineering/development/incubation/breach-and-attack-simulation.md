@@ -11,7 +11,7 @@ title: Breach and Attack Simulation (BAS) Single-Engineer Group
 
 ## Breach and Attack Simulation (BAS) Single-Engineer Group
 
-The Breach and Attack Simulation (BAS) SEG is a [Single-Engineer Group](/handbook/company/team/structure/#single-engineer-groups) within our [Incubation Engineering Department](/handbook/engineering/development/incubation/).
+The Breach and Attack Simulation (BAS) SEG is a [Single-Engineer Group](/handbook/company/structure/#single-engineer-groups) within our [Incubation Engineering Department](/handbook/engineering/development/incubation/).
 
 ### Updates
 
