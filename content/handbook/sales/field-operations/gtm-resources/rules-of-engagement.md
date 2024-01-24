@@ -80,39 +80,41 @@ Only active Field Sales (AE and Partner Manager) members can own accounts.  The 
 Account ownership will be determined by the Sales Segment and Address of the Ultimate Parent Account.  All children accounts in a hierarchy will be owned by the Global Account Owner of the Corporate Hierarchy regardless of physical location unless the child account has been identified as a Major Account, Named Account, India Capability Center, part of a split Hierarchy/locally managed or Holding Company 
 
 
-### Intra Year Account Ownership Policy
-**The following policy applies to account ownership in the middle of the Fiscal year:**
+### Intra Year Account Ownership Policies
 
-1. **Feb 1st Confirmed Segment** applies to when an Account is accurately aligned to the correct segment and owner at the beginning of the fiscal year based on employee count. During the year, if there is an increase or decrease to employee count, the Account will NOT be moved to a new segment or owner until the subsequent year.
-    1.  Accounts that are eligible for immediate transfer include:
-        - Non-data enriched identified bad/inaccurate data (cases
-        - Mergers or Acquisitions
-        - Standalone child accounts
-        - Public Sector or SAFE visibility concerns
-        - Territory re-carves
-        - JiHu accounts
-    2. Upon Sales' discovery of inaccurate data, M&A activity or standalone child accounts resulting in incorrect assignment, the **AE must obtain agreement from all impacted ASMs** before partnering with Sales Support to immediately transfer the Account and open opportunities to the correct AE.
-    3. In the event an Account has been transferred due to one of the eligible scenarios above, Closed Opportunities that result in a churn or contraction within 90 days (prior or following) of an account transfer will remain with the existing Account Executive. Review of churn/contraction ownership must be raised by a member of the account team via chatter within the 90 day grace period for consideration.
-    4. Data Enrichment Corrections - in scenarios where one of our data enrichment providers identify inaccurate account data:
-         - The data will be corrected on the account but ownership will not reroute until the following fiscal year.
+**The following policies apply to account ownership in the middle of the Fiscal year:**
 
+#### Feb 1st Confirmed Segment
 
-     **When does this policy apply?**
-     1. FY25 move if accounts meet the criteria to move immediately
-     2. FY26 move if organic growth warrants an Account to move segments/owners.
-     3. Applies to ENT Named and Major Accounts; Excludes MM Named Accounts.
+Applies to when an Account is accurately aligned to the correct segment and owner at the beginning of the fiscal year based on employee count. During the year, if there is an increase or decrease to employee count, the Account will NOT be moved to a new segment or owner until the subsequent year.
 
-    **Use Case(s):**
+#### Accounts Eligible for Immediate Transfer
 
-    1. Sales identifies that the employee count data was inaccurate and the Account should align to a new segment, reassigned in FY25.
-    2. ZoomInfo enriched the Account and the employee count increased and now it aligns to the Enterprise segment. No change to account assignment in FY25, but it will be reassigned to the correct segment in FY26.
-    3. Data was accurate for the Feb 1st Confirmed Segment and the number of employees changes (up or down), and the Account is stale (no documented activity). The Account moves in FY26.
+Accounts that are eligible for immediate transfer include:
+- Sales identified bad/inaccurate data **between February 1, 2024 and Feb 29, 2024**
+- Mergers or Acquisitions
+- Standalone child accounts
+- Public Sector or SAFE visibility concerns
+- Territory re-carves
+- JiHu accounts
 
-**Important Notes**
+**Additional Guidelines**
+- Upon discovery of M&A activity or standalone child accounts resulting in incorrect assignment, the AE must obtain agreement from all impacted ASMs before partnering with Sales Support to immediately transfer the Account and open opportunity ownership to the correct AE.  
+- **Between February 1 - February 29, 2024** an Account owner or member of the Account Team can submit a chatter request to sales-support upon discovery of inaccurate data (examples: incorrect employee count, incorrect address, wrong parent account, etc).  Sales-support will review and make appropriate corrections which could result in an immediate transfer of account ownership.
+     - **After February 29, 2024**, any identified bad/inaccurate data by an Account owner or Account Team member will be reviewed by sales-support and eligible corrections will be made to the account.  However, **ownership of the account will not transfer unless agreement is obtained by all impacted ASMs AND AVPs**.
+- In the event an Account has been transferred due to one of the eligible scenarios above, Closed opportunities that result in a churn or contraction within 90 days (prior or following) of an account transfer will remain with the existing Account Executive.
+- Data Enrichment Corrections - in scenarios where one of our data enrichment providers identify inaccurate account data:
+     - The data will be corrected on the account but ownership will not reroute until the following fiscal year.
 - Non-compliance to this policy goes against the GitLab values and it will be up to the AE Leadership Team's discretion as to applicable disciplinary action.
-- If an Account is identified as incorrectly assigned to you, regardless of whether you know someone in the Account, the AE should not engage in any capacity and instead partner with Sales Support to immediately transfer the Account and open or improperly closed won opportunity ownership to the correct AE. The transferring AE is expected to take this action and actively communicate in a manner that optimizes the prospect/customer experience.
-- In the event an AE unknowingly engages with an Account that is not theirs, they should log SFDC activity and notify the correct Account owner. If there is no collaboration initiated with the correct Account owner, your actions will be reviewed by your segment and regional leadership team.
-- AEs are not permitted to sell into accounts they do not own in SFDC.
+
+
+**When does this policy apply?**
+- FY25 move if accounts meet the criteria to move immediately.
+- FY26 move if organic growth or data enrichment provider corrections warrant an Account to move segments/owners.
+- FY26 move if bad data is identified by an Account owner or Account Team member but there is not ASM and AVP agreement 
+- Applies to ENT Named and Major Accounts; Excludes MM Named Accounts.
+
+
 
 #### Parent/Child Segmentation:
 
@@ -320,11 +322,8 @@ then the following **JiHu Exception Approval Process applies**:
 #### Guiding Principles of the Policy:
 
 1. **Preserve necessary business momentum** - holdovers primarily exist to preserve momentum on key deals in flight, thus mitigating the pipeline impact of GTM related business disruption.
-1. **Align incentives**
-     - The secondary purpose of holdovers is to give individual contributor Account Owners (AEs and SAEs) an opportunity to be compensated on labor-intensive deals that are near closure at the time an account is transitioned
-     - However, holdovers delay account transition and the formation of new pipeline by the new account owner because new account owners are not paid on holdover net ARR.
-1. **Minimize holdover volume** - volume should be minimized to the most impactful and mature deals in flight at the time of account transition
-1. Stage based criteria is not applicable for opportunities moving out of the Commercial segment. Stage criteria does not apply to holdovers for Commercial because Commercial leadership does not want this criteria to artificially inflate the value of the pipeline. Holdovers should be selected wisely as there will be no extensions to the holdover timeline.
+2. **Align incentives** - The secondary purpose of holdovers is to give individual contributor Account Owners an opportunity to be compensated on labor-intensive deals that are near closure at the time an account is transitioned. However, holdovers delay account transition and the formation of new pipeline by the new account owner because new account owners are not paid on holdover net ARR.
+3. **Minimize holdover volume** - **Holdovers are optional** and volume should be minimized to the most impactful and mature deals in flight at the time of account transition, keeping our Customer-Centric value top of mind.
 
 
 #### Opportunity Holdover Criteria
@@ -333,43 +332,34 @@ The following criteria make a deal eligible for a holdover:
 
 #### Annual Review Holdovers (Holdovers that cross over a fiscal year)
 
-**Enterprise**
-1. Deal size (Net ARR) is > $50K for Growth and > $5K for New Logo. Amount is >$5K for PS Only opportunities
-1. The deal is in stage 3+
-1. Close date must be within 90 days prior to holdover expiration date
-1. Requires evidence of engagement in the 30 days prior to announcement of the change
-1. Deals that meet this criteria are given a maximum 90 day holdover expiration period. If the deal does not close in 90 days it will be moved to the current account owner.
+**Holdovers will have three primary components:**
+1. Deal **value** minimum requirements: Net ARR or PS Value
+2. Deal **stage** minimum requirements
+3. Deal **close date** requirements
 
-**Commercial**
-1. All opportunities that are **moving to Enterprise** that meet the Enterprise holdover policy thresholds (these opps are identified and flagged by Sales Operations)
-     - Deals that meet this criteria are given a 90 day holdover expiration period. If the deal does not close in 90 days it will be moved to the current account owner.
-1. For opportunities that are **moving within Commercial**, each affected Account Executive can hold over 2 opportunities.
-     - Opportunities will be discussed during AE/ASM 1:1’s and a final list will be shared with Sales Operations to be updated in SFDC.
-     - Deals that meet this criteria are given a 30 day holdover expiration period. If the deal does not close in 30 days it will be moved to the current account owner.
+**Details:**
+- Deal size **(Net ARR) is > $30K or Amount is >$30K** for PS Only opportunities
+- The deal is in **stage 3+**
+- Close date must be in **Q1 FY25** (Feb 1 - April 30, 2024)
+- Opportunities can be held over for up to **60 days** from Feb 1, 2024. 
+- Requires evidence of engagement in the 30 days prior to announcement of the change
+- Holdovers will be flagged in Salesforce with an expiration date of 2024-03-31.  **If the deal does not close by this date, it will be moved to the FY25 account owner**.
+- The Annual Review Holdover policy applies to all Segments.
 
 
 #### Additional Guidelines:
 
-- **Sell What You See Period** The interim period between the end of FY24 and when accounts have been aligned to FY25 owners in SFDC (2024-02-05)
+- **Sell What You See Period** The interim period between the end of FY24 and when accounts have been aligned to FY25 owners in SFDC (estimated to launch 2024-02-07)
      - In this scenario, whoever closes the opportunity & his/her corresponding management will get paid (even if it’s going to a different owner)
-- **Documented Account Strategy**  The team who is giving up/losing the account and/or opportunity must work with the new owner on a transition plan to ensure there’s no disruption to current sales cycles or customer/prospect experience.
+- **Documented Account Strategy** The team who is giving up/losing the account and/or opportunity must work with the new owner on a transition plan to ensure there’s no disruption to current sales cycles or customer/prospect experience.
      - The Account handover checklist: Enterprise Sales can be found [here](https://docs.google.com/document/d/1bhGuzTZxnq70ob-3fxHVhu7LYObcrrFMev0697fDDks/edit)
-- **For cross segment holdovers**, the governing rules are dictated by the team that is receiving the account and/or opportunity.   For example, an existing Mid Market opportunity that would be going to an Enterprise AE/ASM would have a 90 day holdover period to close before it would be moved to the receiving Enterprise owner.
-- **Holdovers apply to both the giving AE/ASM and receiving AE/ASM in all Segments** to promote teamwork and alignment. During the 90 day holdover period, the bookings, New Logo (when applicable) & commissions credit will be allocated as follows:
-    1. Month 1: 100% to the "Giving AE/ASM" and 0% to the "Receiving AE/ASM",
-    1. Month 2: 75% to the "Giving AE/ASM" and 25% to the "Receiving AE/ASM",
-    1. Month 3: 50% to the "Giving AE/ASM" and 50% to the "Receiving AE/ASM"
-
-Within a Region under one ASM (or acting ASM), it is the ASM's responsibility to obtain and document agreement in chatter between the two AEs in that region.
-
-Within a Geo under one Sales VP, it is the Sales VP's responsibility to obtain agreement between the two ASMs in that Geo and document in chatter.
-
-
-- **Sales Leaders** are responsible for ensuring that holdover opportunities align with the guiding principles of this policy. Leadership ensures that opportunities are not moved prematurely to stage 3.
-- Holdovers do not apply to TAMs or SAs.
-- Holdovers do not apply to Renewals Managers.
+- Holdovers apply to **both the holdover AE and his/her ASM**. 
+- **Holdovers are not eligible for splits.** 100% credit will be given to the holdover AE and his/her manager for deals that close within the holdover period.  Exceptions to this:
+     - Holdovers within an Area under one ASM (or acting ASM).  The ASM has the discretion to request a split between AEs in his/her Area if the deal closes within the 60 holdover period.
+- Sales Leaders are responsible for ensuring that holdover opportunities align with the guiding principles of this policy. Leadership ensures that opportunity values are not unnaturally inflated and/or are not moved prematurely to stage 3 or into Q1.
+- Holdovers apply to NQRs only
 - Holdover opportunities are flagged in SFDC using the`Holdover Expiration Date` fields on the Opportunity and are monitored on the [Sales Ops: ROE Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7).
-- Credit will be given to the AE on the holdover opportunity if it closes before the expiration date.
+- Credit will only be given to the AE and his/her ASM on the holdover opportunity if it closes before the expiration date.
 
 #### Intra Year Holdovers (Holdovers during the fiscal year)
 
