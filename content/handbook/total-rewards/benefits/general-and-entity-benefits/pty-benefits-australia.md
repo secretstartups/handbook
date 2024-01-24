@@ -365,7 +365,7 @@ Team members must pass the [income test](https://www.servicesaustralia.gov.au/me
 
 ## GitLab PTY New Zealand Specific Benefits
 
-## Medical
+### Medical
 
 Effective 2024-02-01, GitLab offers Eligible New Zealand Team members a comprehensive medical plan [“Well Being Two”](https://drive.google.com/file/d/17WUPQMvvWka77Khe6_adSOiSbibNY3GC/view) via Southern Cross.
 
