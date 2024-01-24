@@ -9,57 +9,31 @@ title: "Enterprise Applications Integrations"
 
 
 
-
-
-
-
-## Enterprise Applications Integrations
-
-#### Quick links
-
-1. [Integrations Work tracker](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/integrations-work/-/issues){:target="_blank"}
-1. [Automation-Integration Inventory](https://docs.google.com/spreadsheets/d/1mGeG2ClY8GHz2RZUpu-5FN0wUPCaw1o2bWEGtS0qLXE/edit?usp=sharing)
-1. [Workato Playbook](./workato-playbook){:target="_blank"}
-1. [Change Management](./change-management){:target="_blank"}
-1. [Integrations Wiki](./wiki){:target="_blank"}
-
-#### Quick Reference: Integration Docs
-
-- [GreenHouse to Workday](./wiki/integrations-list/greehouse-workday/)
-- [Rolly Automation](./wiki/integrations-list/rolly-updates-automation/)
-- [Zuora Billing <> NetSuite](./wiki/integrations-list/zuora-billing-netsuite/)
-- [Workday > Navex Gloabl](./wiki/integrations-list/workday-navex-gloabl/)
-
-
-## How we work
-
-To learn about our processes please visit the [How We Work](./how-we-work) page
-
 ## Who are we?
 
 ### Dennis  - Senior Integrations Engineer
 
-GitLab handle: [@dgriffin4](https://gitlab.com/dgriffin4){:target="_blank"}
+GitLab handle: [@dgriffin4](https://gitlab.com/dgriffin4)
 
-Slack handle: [@dgriffin4](https://gitlab.slack.com/team/U052E2AGY3F){:target="_blank"}
+Slack handle: [@dgriffin4](https://gitlab.slack.com/team/U052E2AGY3F)
 
-Job Family: [Integrations Engineer](/job-families/finance/integrations-engineer/#senior-integrations-engineer){:target="_blank"}
+Job Family: [Integrations Engineer](/job-families/finance/integrations-engineer/#senior-integrations-engineer)
 
 ### Karuna Singh - Integrations Engineer
 
-GitLab handle: [@Karuna16](https://gitlab.com/Karuna16){:target="_blank"}
+GitLab handle: [@Karuna16](https://gitlab.com/Karuna16)
 
-Slack handle: [@Karuna Singh](https://gitlab.slack.com/team/U01GEHXQZEK){:target="_blank"}
+Slack handle: [@Karuna Singh](https://gitlab.slack.com/team/U01GEHXQZEK)
 
-Job Family: [Integrations Engineer](/job-families/finance/integrations-engineer/#integrations-engineer){:target="_blank"}
+Job Family: [Integrations Engineer](/job-families/finance/integrations-engineer/#integrations-engineer)
 
 ### Durgesh Thakkar - Senior Manager, Integrations Engineering
 
-GitLab handle: [@dthakkargit](https://gitlab.com/dthakkargit){:target="_blank"}
+GitLab handle: [@dthakkargit](https://gitlab.com/dthakkargit)
 
-Slack handle: [@dthakkargit](https://gitlab.slack.com/team/U053SBVN3EX){:target="_blank"}
+Slack handle: [@dthakkargit](https://gitlab.slack.com/team/U053SBVN3EX)
 
-Job Family: [Integrations Engineer](/job-families/finance/integrations-engineer/#integrations-engineer){:target="_blank"}
+Job Family: [Integrations Engineer](/job-families/finance/integrations-engineer/#integrations-engineer)
 
 ### Contacting us
 
@@ -118,6 +92,4 @@ The Workato integrations platform provides out of the box solutions for common a
 
 We are set up to handle [Red, Orange and Yellow data](/handbook/security/data-classification-standard.html#data-classification-levels) so that you don't need to worry about that when we're building out your integrations.
 
-## Why do we do it?
 
-As GitLab grows, we have increasingly complex needs for real time data flow and workflow automation across the business. We also need to meet higher standards of security and auditing to satisfy external compliance drivers. This all calls for a more robust, repeatable methodology for building both simple and complex software. To do this we follow a strict set of engineering and platform standards and conventions which provide us a batteries included approach to developing new capabilities so that we can stay agile when working with GitLab's rapidly growing team and needs.
