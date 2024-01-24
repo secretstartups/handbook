@@ -190,7 +190,7 @@ In this lab, you will learn how to scan for vulnerabilities in your containers.
         - docker push $IMAGE
     ```
 
-1. Commit the changes to the `main` branch with an appropriate commit message (Adding a docker file definition).
+1. Commit the changes to the `main` branch with an appropriate commit message (`Adding a docker file definition`).
 
 1. Navigate to **Build > Pipelines** to watch the progress of the new pipeline. Click on the pipeline to view the CI output for the build job.
 
