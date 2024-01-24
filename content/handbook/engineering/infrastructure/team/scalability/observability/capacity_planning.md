@@ -8,7 +8,7 @@ We maintain and improve the Capacity Planning process that is described [in the 
 
 The goal of this process is to predict and prevent saturation incidents on GitLab.com.
 
-Issues are kept in the [capacity planning issue tracker](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/issues). Where an issue is needed to improve metrics to support this process, we raise an issue in the [Scalability group tracker](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues) with the label of `Saturation Metrics`.
+Issues are kept in the [capacity planning issue tracker](https://gitlab.com/gitlab-com/gl-infra/capacity-planning-trackers/gitlab-com/-/issues). Where an issue is needed to improve metrics to support this process, we raise an issue in the [Scalability group tracker](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues) with the label of `Saturation Metrics`.
 
 Please see [Tamland](./tamland.html) for more information on the forecasting tool we develop and use.
 
