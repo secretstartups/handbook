@@ -1,7 +1,7 @@
 ---
 aliases: /handbook/engineering/infrastructure/team/scalability/observability/tamland.html
 
-title: "Capacity Planning: Tamland"
+title: "Tamland: Development"
 ---
 
 
