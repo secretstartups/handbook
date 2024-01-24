@@ -130,14 +130,14 @@ For those with regular commitments, look for shorter weeks or timezone variation
 | 2024-01-22 | 2024-01-26 | [Riley Longo](https://gitlab.com/rilongo) - Customer Service Manager | [Ben Venker](https://gitlab.com/bvenker) - Sr. PM, Global Search | REMOTE - PT |
 | 2024-01-29 | 2024-02-02 | [Dilan Orrino](https://gitlab.com/dorrino) - Sr Product Manager | [Riley Longo](https://gitlab.com/rilongo) - Customer Service Manager | REMOTE - PT |
 | 2024-02-05 | 2024-02-09 | [Deepika Guliani](https://gitlab.com/deepika.guliani) - Frontend Engineer, Plan:Project Management | [Dilan Orrino](https://gitlab.com/dorrino) - Sr Product Manager | REMOTE - PT |
-| 2024-02-12 | 2024-02-14 | [Miracle Banks](https://gitlab.com/miraclebanks) - Full Stack Engineer | [Deepika Guliani](https://gitlab.com/deepika.guliani) - - Frontend Engineer, Plan:Project Management  | REMOTE - PT, MON - WED |
-| 2024-02-20 | 2024-02-23 | [Emma Neuberger](https://gitlab.com/eneuberger) - Sr Product Analyst | [Miracle Banks](https://gitlab.com/deepika.guliani) - Full Stack Engineer | REMOTE - PT, TUES - FRI |
+| 2024-02-12 | 2024-02-14 | OPEN | [Deepika Guliani](https://gitlab.com/deepika.guliani) - - Frontend Engineer, Plan:Project Management  | REMOTE - PT, MON - WED |
+| 2024-02-20 | 2024-02-23 | [Emma Neuberger](https://gitlab.com/eneuberger) - Sr Product Analyst | OPEN | REMOTE - PT, TUES - FRI |
 | 2024-02-26 | 2024-03-01 | [Viktor Nagy](https://gitlab.com/nagyv-gitlab) - Senior Product Manager, Deploy:Environments | [Emma Neuberger](https://gitlab.com/eneuberger) - Sr Product Analyst | REMOTE - PT |
 | 2024-03-04 | 2024-03-08 |  [Aleesha Dawson](https://gitlab.com/adawson-gitlab) - Senior Customer Success Manager | [Viktor Nagy](https://gitlab.com/nagyv-gitlab) - Senior Product Manager, Deploy:Environments | REMOTE - PT |
 | 2024-03-11 | 2023-03-15 | NO SHADOW | NO SHADOW | SUMMIT - PT |
-| 2024-03-18 | 2024-03-22 | OPEN |  [Aleesha Dawson](https://gitlab.com/adawson-gitlab) - Senior Customer Success Manager | REMOTE - PT |
+| 2024-03-18 | 2024-03-22 | [Miracle Banks](https://gitlab.com/miraclebanks) - Full Stack Engineer |  [Aleesha Dawson](https://gitlab.com/adawson-gitlab) - Senior Customer Success Manager | REMOTE - PT |
 | 2024-03-25 | 2024-03-29 | [Bartek Marnane](https://gitlab.com/bmarnane) - VP, Incubation Engineering | [Mek Stittri](https://gitlab.com/meks) - VP of Infrastructure & Quality | In person - Bay Area |
-| 2024-04-01 | 2024-04-05 | [Jeremy Wagner](https://gitlab.com/jeremywagner) - Sr Solutions Architect | OPEN | REMOTE - PT |
+| 2024-04-01 | 2024-04-05 | [Jeremy Wagner](https://gitlab.com/jeremywagner) - Sr Solutions Architect | [Miracle Banks](https://gitlab.com/miraclebanks) - Full Stack Engineer | REMOTE - PT |
 | 2024-04-08 | 2024-04-12 | [Karen Kwentus](https://gitlab.com/kkwentus1) - Sr Solutions Architect | [Jeremy Wagner](https://gitlab.com/jeremywagner) - Sr Solutions Architect | REMOTE - PT |
 | 2024-04-15 | 2024-04-19 | [Djordje Micovic](https://gitlab.com/dmicovic) - Sr Data Analyst, Marketing Analytics - REMOTE | [Karen Kwentus](https://gitlab.com/kkwentus1) - Sr Solutions Architect | REMOTE - PT |
 | 2024-04-22 | 2024-04-26 | [Sam Wiskow - Senior Product Manager, Delivery & Scalability](https://gitlab.com/swiskow)  | [Djordje Micovic](https://gitlab.com/dmicovic) - Sr Data Analyst, Marketing Analytics  | REMOTE - PT |
