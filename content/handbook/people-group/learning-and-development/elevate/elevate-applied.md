@@ -22,12 +22,12 @@ If you've had thoughts or questions like:
 
 `Elevate Applied` is an ongoing resource for Managers and Senior Managers at GitLab meant to strengthen leadership competencies, enable leaders to take action, and build connections between managers. **It's a combined community and toolkit to help you build high performing teams.**
 
-Beginning in January 2024, the Talent Development team will begin to pilot this program with the ~130 managers who have earned their Elevate certification. We'll use data and feedback from the pilot to inform and shape the future of manager training at GitLab.
+Beginning in January 2024, the Talent Development team will begin this program with the ~130 managers who have earned their Elevate certification. We'll use data and feedback to inform and shape the future of manager training at GitLab.
 
 
 ## Overview
 
-All managers who earn their Elevate certification will be invited to participate. The pilot will run for 4 months, starting in January and ending in April. Participation is optional.
+All managers who earn their Elevate certification will be invited to participate. Participation is optional.
 
 Each month, managers can expect to be served new resources and learning opportunities that are relevant to what is currently happening in the business. Some examples include:
 
@@ -39,19 +39,19 @@ Each month, managers can expect to be served new resources and learning opportun
 
 ### Topics
 
-Below, you'll find a general outline of topics you can expect to learn about during each month of the pilot:
+Below, you'll find a general outline of topics you can expect to learn about during each month:
 
-| Month | Business Need | Topic |
-| ----- | ------ | ---------- |
-| January | End of FY24, FY25 planning | Kickoff; Impacts of 1:1 Coaching |
-| February | New Fiscal Year; Compensation Conversations | Building High Performing Teams |
-| March |  | Supporting career growth for your direct reports |
-| April | Upcoming Engagement Survey | Giving and Receiving Feedback |
+| Month | Topic |
+| ----- | ---------- |
+| January | Kickoff; Impacts of 1:1 Coaching |
+| February | Using the Team Health Check |
+| March | Coaching for High Performance |
+| April | Practice Coaching Skills |
 
 
 ## Benefits
 
-By the end of this 4-month pilot, managers can expect to:
+Throughout this program, managers can expect to:
 
 1. Understand and use resources that help them apply concepts taught in Elevate, including:
      - Access to ongoing 1:1 coaching to support their growth in FY25
@@ -63,7 +63,7 @@ By the end of this 4-month pilot, managers can expect to:
 
 ## Measuring Success
 
-The Talent Development team will focus on the following metrics to measure success of this pilot:
+The Talent Development team will focus on the following metrics to measure success:
 
 1. NPS score on self-paced coursework
 1. Direct manager feedback
