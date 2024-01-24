@@ -27,7 +27,7 @@ The team is located all over the world in [different timezones](https://timezone
 
 ## Topics we cover
 
-This is an initial overview of topics we cover to help us reflect on and learn about our areas of ownership, duties, products and services following the recent team restructure.
+This is an overview of topics we cover to help us reflect on and learn about our areas of ownership, duties, products and services since the team got created when Merging Scalability-Projects and Reliability-Observability.
 
 1. Metrics stack
    1. Prometheus/Thanos
