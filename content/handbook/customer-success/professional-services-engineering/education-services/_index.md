@@ -77,7 +77,7 @@ Note that participation in this program is limited and requires GitLab program t
       <h3>Service Offerings</h3>
       </td>
       <td>
-      TSP can provide [GitLab Education Services](https://about.gitlab.com/services/education) by purchasing GitLab student kits and then delivering instructor-led training courses in GitLab LevelUp.
+TSP can provide [GitLab Education Services](https://about.gitlab.com/services/education) by purchasing GitLab student kits and then delivering instructor-led training courses in GitLab LevelUp.
       </td>
   </tr>
   <tr>
