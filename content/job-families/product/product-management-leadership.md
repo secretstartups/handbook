@@ -15,7 +15,7 @@ of GitLab's [product hierarchy](/handbook/product/categories/#hierarchy)
 - [Product Leadership](/handbook/product/product-leadership/)
 - [Product Development Workflow](/handbook/product-development-flow/)
 - [Product Management Career Development Framework](/handbook/product/product-manager-role/product-CDF-competencies/)
-- [Engineering Workflow](https://about.gitlab.com/handbook/engineering/workflow/)
+- [Engineering Workflow](/handbook/engineering/workflow/)
 
 ## Responsibilities
 
@@ -65,7 +65,7 @@ The Group Manager, Product is a [grade 9](/handbook/total-rewards/compensation/c
 - Understand deeply and synthesize the market, competition, and upcoming solutions in the space their team is responsible for.
 - Review release post announcements to ensure they focus on user problems and [jobs-to-be-done](/handbook/product/ux/jobs-to-be-done/)
 - Own driving connections between the groups their PMs drive to ensure a single-application user experience.
-- Demonstrate leadership as [expected of Managers across GitLab](/handbook/company/team/structure/#management-group).
+- Demonstrate leadership as [expected of Managers across GitLab](/handbook/company/structure/#management-group).
 - Find opportunities where teams need to collaborate with each other and help them make those decisions that are optimal for the company even if they maybe sub-optimal in the short term for particular groups.
 
 *Please note: If the Group Manager has less than 4 direct reports or is a first-time manager, some individual contributor responsibilities may be expected to be maintained.*
@@ -82,7 +82,7 @@ The next step in the Group Manager, Product is to move to [Director of Product](
 
 ##### Verify
 
-Are responsible for managing the team of product managers covering the [Verify stage groups](/handbook/product/categories/#verify-stage). Leading the [Verify direction](https://about.gitlab.com/direction/ops/#verify) is a high impact position. Works with your team to ensure our [industry-leading CI](https://about.gitlab.com/analysts/forrester-cloudci19/) continues to be a [critical entry-point](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/) to our single devops platform. Work cross functionally as an expert and invest in your team of high caliber product managers to make sure our [R&D investment in Verify](https://internal-handbook.gitlab.io/handbook/product/investment/) is as effective as possible in fulfilling our [mission to enable everyone to contribute](/handbook/company/mission/#mission).
+Are responsible for managing the team of product managers covering the [Verify stage groups](/handbook/product/categories/#verify-stage). Leading the [Verify direction](https://about.gitlab.com/direction/ops/#verify) is a high impact position. Works with your team to ensure our [industry-leading CI](https://about.gitlab.com/analysts/forrester-cloudci19/) continues to be a [critical entry-point](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/) to our single DevOps platform. Work cross functionally as an expert and invest in your team of high caliber product managers to make sure our [R&D investment in Verify](https://internal-handbook.gitlab.io/handbook/product/investment/) is as effective as possible in fulfilling our [mission to enable everyone to contribute](/handbook/company/mission/#mission).
 
 ###### Verify - Runner
 

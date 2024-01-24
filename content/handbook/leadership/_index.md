@@ -12,7 +12,7 @@ In an all-remote organization, we want each team member to be a [manager of one]
 
 1. At GitLab, leadership is requested from everyone, whether an individual contributor or member of the leadership team.
 1. As a leader, GitLab team members will follow your behavior, so always do the right thing. Lead by example with effort.
-1. Everyone who joins GitLab should consider themselves ambassadors of our [values]({{< ref "values" >}}) and protectors of our [culture](https://about.gitlab.comhttps://about.gitlab.com/company/culture/).
+1. Everyone who joins GitLab should consider themselves ambassadors of our [values]({{< ref "values" >}}) and protectors of our [culture](handbook/company/culture/).
 1. Behavior should be consistent inside and outside the company. We do the right thing outside the company, too.
 1. GitLab respects your judgment of what is best for you, since you know yourself best. If you have a better opportunity somewhere else don't stay at GitLab out of a sense of loyalty to the company.
 1. In tough times people will put in their best effort when they are doing it for each other.
@@ -127,7 +127,7 @@ READMEs provide a genuine report on how a person works, reducing bias/assumption
 
 GitLab division README pages are linked below for context. Reading other READMEs is an important way to get ideas on what you can include in yours. Let these serve as a guide and inspiration to you.
 
-- [Engineering READMEs](https://about.gitlab.com/handbook/engineering/readmes/)
+- [Engineering READMEs](/handbook/engineering/readmes/)
 - [Marketing Team READMEs](/handbook/marketing/readmes/)
 - [Product READMEs](/handbook/product/readme/)
     - [UX Department READMEs](/handbook/product/ux/#meet-some-of-our-team-members)
@@ -174,7 +174,7 @@ Please see [{{< relref "no-matrix-organization" >}}]({{< ref "no-matrix-organiza
 
 ## Stable counterparts
 
-We want to promote organic cross-functional collaboration by giving people stable counterparts for other functions they need to work with. For example, each Strategic Account Executive (SAE) works with one Sales Development Representative (SDR). With our [categories](/handbook/product/categories/) every backend team of developers maps to a [Product Manager (PM)]({{< ref "product-manager" >}}) and a [frontend team](https://about.gitlab.com/handbook/engineering/frontend/#teams).
+We want to promote organic cross-functional collaboration by giving people stable counterparts for other functions they need to work with. For example, each Strategic Account Executive (SAE) works with one Sales Development Representative (SDR). With our [categories](/handbook/product/categories/) every backend team of developers maps to a [Product Manager (PM)]({{< ref "product-manager" >}}) and a [frontend team](/handbook/engineering/frontend/#teams).
 
 Giving people a **stable counterpart** allows for more social trust and familiarity, which speeds up decision making, prevents communication problems, and reduces the risk of conflicts. This way we can work effectively cross functionally without the [downsides of a matrix organization](#no-matrix-organization).
 
@@ -263,6 +263,10 @@ The [Drexler-Sibbet Team Performance Model](https://www.kaizenko.com/drexler-sib
 1. High Performance - Wow! The team is accomplishing more than it expected. The team has taken off, creativity is fostered and goals are surpassed.
 1. Renewal - Why continue? The team is given recognition and celebrates achievements of individuals that produce valuable work. Reflect on lessons learned and reassess for the future.
 
+**Manager Resource: Identifying & Addressing Burnout**
+
+Building and maintaining high performance includes staying mindful of team well-being and potential burnout. With GitLab’s results-driven culture, the demands of product innovation around AI, the fast-paced and ever-evolving business environment, our organization recognizes the crucial balance between achieving ambitious goals and maintaining the well-being of our team members. Everyone can access this handbook [resource designed for managers to identify & address burnout](/handbook/leadership/managing-burnout/#manager-guide-identifying--addressing-burnout). This has an ongoing impact on team performance.
+
 ### Manager M-Team Groups
 
 M-teams are management support groups made up of 3 to 6 managers who are in timezones that allow for sync meetings among members. M-teams should set up a regular meeting on a cadence agreed by the members with the agenda being "what's challenging this week?". Decide who will facilitate and each person will get a chance to have their challenge discussed in the meeting. When it's your turn, you talk a little about what you're struggling with. M-groups agree to a level of [confidentiality](https://3plusinternational.com/2017/10/confidentiality-and-the-potential-loss-of-trust/) so that group members are willing to be vulnerable; vulnerability leads to trust and better outcomes for the group.
@@ -328,7 +332,7 @@ When you give leadership training please [screenshare the handbook instead of cr
 1. [Self-led opportunities to be a mentor](/handbook/people-group/learning-and-development/mentor/) - keep an eye out for a company-wide mentorship program with applications opening at the end of January 2022.
 1. [Join the women's TMRG mentorship group](/handbook/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/) to either be a mentor to practice leadership or get paired with a leader to learn from.
 1. Sign up for [Crucial Conversations training](/handbook/people-group/learning-and-development/learning-initiatives/#crucial-conversations)
-1. Explore opportunities to join the [CEO Shadow program]({{< ref "/handbook/ceo/shadow" >}}) or other division specific shadow programs with the [Chief of Staff]({{< ref "chief-of-staff-team#chief-of-staff-shadow" >}}), [People Connect Shadow Program](/handbook/people-group/people-connect-shadow-program/), [Security]({{< ref "security-shadow" >}}), and [Development Director Shadow Program](https://about.gitlab.com/handbook/engineering/development/shadow/director-shadow-program.html).
+1. Explore opportunities to join the [CEO Shadow program]({{< ref "/handbook/ceo/shadow" >}}) or other division specific shadow programs with the [Chief of Staff]({{< ref "chief-of-staff-team#chief-of-staff-shadow" >}}), [People Connect Shadow Program](/handbook/people-group/people-connect-shadow-program/), [Security]({{< ref "security-shadow" >}}), and [Development Director Shadow Program](/handbook/engineering/development/shadow/director-shadow-program.html).
 1. Explore the skills needed to successfully transistion from IC to Manager in [GitLab Learn](https://gitlab.edcast.com/channel/coming-soon-transitioning-from-ic-to-manager).
 1. Explore leadership and management courses on [LinkedIn Learning](https://www.linkedin.com/learning/topics/leadership-and-management?u=2255073)
 1. Watch or listen to one of the many [CEO Handbook Learning sessions](/handbook/people-group/learning-and-development/learning-initiatives/#list-of-ceo-handbook-learning-sessions) with Sid on various leadership topics

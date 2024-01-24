@@ -31,7 +31,7 @@ These situations will be discussed on a case-by-case basis.
 
 **Examples of requests that may be approved:**
 
-- A [LinkedIn Learning](/handbook/people-group/learning-and-development/linkedin-learning/) license when there are none remaining in the Learning & Development Team's allocation.
+- A [LinkedIn Learning](/handbook/people-group/learning-and-development/linkedin-learning/) license
 - A Backend Engineer who is not on a performance improvement plan seeking a bachelor's degree in Computer Science.
 - A People Operations Team member seeking a master's in Human Resources with a concentration in International Employee Relations.
 - A Security Analyst seeking to take courses to gain a Cybersecurity certificate through an accredited college or university.
@@ -165,7 +165,7 @@ Examples of English Language Courses:
 
 - [Coursera](https://www.coursera.org/browse/language-learning/learning-english) offers a wide variety of online English courses in partnership with various reputable colleges and universities, like the [Business English for Non-Native Speakers course](https://www.coursera.org/specializations/business-english-speakers) and the [Improve your English Communication Skills Specialization](https://www.coursera.org/specializations/improve-english) . Their courses range from improving your English language skills to more specialized courses that focus on English for STEM or career development.
 - [Cambridge C2 Exam Prep Course](https://www.kaplaninternational.com/exam-preparation-courses/cambridge-c2-exam-preparation-course) is a program to consider if preparring to take the Cambridge English Qualification. This is an internationally recognized test and qualification of English language ability. More prep course materials can be found [here](https://www.cambridgeenglish.org/exams-and-tests/proficiency/preparation/) or via [International House London](https://www.ihlondon.com/course/cambridge-c2-proficiency-online)
-- The [University of Texas Austin](https://global.utexas.edu/english-language-center/programs/self-paced) has multiple self-paced writing and pronounciation courses available.
+- The [University of Texas Austin](https://global.utexas.edu/english-language-center/programs/self-paced) has multiple self-paced writing and pronunciation courses available.
 - [LinkedIn Learning](https://www.linkedin.com/learning/search?keywords=english) has many courses for English.
 - [Writing in Plain English](https://www.linkedin.com/learning/writing-in-plain-english) seems particularly well suited for improving async communication. Language learning Apps and sites can be effective tools.
 - [Duolingo](https://www.duolingo.com/) offers gamified way to learn English, plus other languages.
@@ -201,7 +201,7 @@ Examples of English Language Courses:
 
 **Approver (above $1,000 USD):** Manager, E-Group Member
 
-### Self-Service Learning (Skillserve, Coursera, Others)
+### Self-Service Learning (Skillserve, Coursera, LinkedIn Learning Others)
 
 **Description:** GitLab supports team members who wish to continue their growth within their professional career. The course must be related to your career development goal, Individual Growth Plan (IGP), and/or serves the [mission]({{< ref "mission" >}}) of GitLab as a company.
 
@@ -216,16 +216,6 @@ Examples of English Language Courses:
 **Eligibility for Reimbursement:** The course must be related code based learning. A final grade report or satisfactory certificate of completion are required to receive reimbursements over $1,000 USD.
 
 **Approver (above $1,000 USD):** Manager, E-Group Member
-
-### [LinkedIn Learning](https://www.linkedin.com/learning/?u=2255073)
-
-**Before using your Growth & Development Benefit for a LinkedIn Learning license, check in the #learninganddevelopment Slack channel if there are any L&D allocated licenses available.**
-
-**Description:**  The Learning & Development team have an allocation of LinkedIn Learning licenses that can be assigned to team members, but their may be periods of time when the license limit is reached, which may cause long wait times for one to become available for new team members. In these instances we encourage team members to utilise their Growth & Development benefit to purchase their own license, which will help facilitate participation in L&D initiatives.
-
-**Eligibility for Reimbursement:** When there are no company LinkedIn Learning licenses available. Invoice/receipt required when submitting through Navan Expense.
-
-**Approver (above $1,000 USD):**  N/A as an annual license cost does not exceed $1,000 USD.
 
 ### Crucial Conversations training
 

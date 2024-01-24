@@ -74,6 +74,7 @@ The DRI should identify key folks who will be members of the Working Group. They
 1. Reach out to the exec sponsor to help identify leads/contacts throughout the organization who could provide support
 1. Reach out to functional leads from the stages identified as needing to provide support to this effort
 1. Include the folks who the DRI has already been working with on this effort, and ask them if they'd like to continue or have someone they'd recommend taking over
+   - If cross functional data pulls/analysis will be required, please identify Data DRIs that can help. As an example, please see what was done for the [Storage Limits Initiative](https://internal.gitlab.com/handbook/product/fulfillment/storage-limits-enforcement/#data-dris)
 1. Solicit help on the respective stage's/team's Slack channel. The [Features by Group](/handbook/product/categories/features/) page may provide some guidance
 
 For example, if you know that this Working Group will eventually involve customer communications, you should ensure that the team has appropriate representation from the Customer Success department and that the representative is clear on the asks for both the team and the individual within the coming weeks and quarters.
@@ -200,9 +201,9 @@ If you are unable to attend the existing working group meeting due to time diffe
 ## Active Working Groups (alphabetic order)
 
 1. [Account Escalation Process]({{< ref "account-escalation-process" >}})
-1. [API Vision]({{< ref "api-vision" >}})
 1. [Automotive Development]({{< ref "automotive-development" >}})
 1. [AWS/GCP Partnerships](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/11)
+1. [Bounded Contexts]({{< ref "bounded-contexts" >}})
 1. [Category Leadership]({{< ref "category-leadership" >}})
 1. [CI/CD Build Speed time-to-result]({{< ref "ci-build-speed" >}})
 1. [ClickHouse Datastore]({{< ref "clickhouse-datastore" >}})
@@ -213,7 +214,6 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [Event Stream]({{< ref "event-stream" >}})
 1. [Expense Management]({{< ref "expense-management" >}})
 1. [FedRAMP Execution]({{< ref "fedramp-execution" >}})
-1. [Frontend Observability]({{< ref "frontend-observability" >}})
 1. [Frontend Vision]({{< ref "frontend-vision" >}})
 1. [Fulfillment Efficiency](https://docs.google.com/presentation/d/1eTH09QZqnazJ4jh-jVGTEYEFA3m6R2jwWuhY5_EtPL4/edit#slide=id.g123a13deda8_0_405)
 1. [GCP Partnership]({{< ref "gcp-partnership" >}})
@@ -225,9 +225,8 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [Issue Prioritization Framework]({{< ref "issue-prioritization-framework" >}})
 1. [Leading Organizations]({{< ref "leading-organizations" >}})
 1. [Learning Experience]({{< ref "learning-experience" >}})
+1. [Lighthouse Metric Definitions]({{< ref "lighthouse-metric-definitions" >}})
 1. [Modern Applications Go-To-Market]({{< ref "modern-applications-gtm" >}})
-1. [Next Architecture Workflow]({{< ref "next-architecture-workflow" >}})
-1. [North Star Metric Definitions]({{< ref "north-star-metric-definitions" >}})
 1. [Product Accessibility]({{< ref "product-accessibility" >}})
 1. [Runtime Update Process]({{< ref "runtime-update-process" >}})
 1. [Software Supply Chain Security]({{< ref "software-supply-chain-security" >}})
@@ -238,6 +237,7 @@ If you are unable to attend the existing working group meeting due to time diffe
 ## Past Working Groups (alphabetic order)
 
 1. [AI Integration]({{< ref "ai-integration" >}})
+1. [API Vision]({{< ref "api-vision" >}})
 1. [Architecture Kickoff]({{< ref "architecture-kickoff" >}})
 1. [Category Leadership](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/10)
 1. [China Service]({{< ref "china-service" >}})
@@ -259,9 +259,11 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [Enterprise Market Leadership]({{< ref "enterprise-market-leadership" >}})
 1. [Experimentation]({{< ref "experimentation" >}})
 1. [First Order](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/9)
+1. [Frontend Observability]({{< ref "frontend-observability" >}})
 1. [Githost Migration]({{< ref "githost-migration" >}})
 1. [GitLab Administration]({{< ref "administration" >}})
 1. [GitLab.com Cost]({{< ref "gitlab-com-cost" >}})
+1. [GitLab Dedicated]({{< ref "gitlab-dedicated" >}})
 1. [GitLab.com Revenue]({{< ref "gitlab-com-revenue" >}})
 1. [gitlab-ui (CSS and Components)]({{< ref "gitlab-ui" >}})
 1. [GTM Product Analytics]({{< ref "product-analytics-gtm" >}})
@@ -281,6 +283,7 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [Minorities in Tech (MIT) Mentoring Program]({{< ref "mit-mentoring" >}})
 1. [MLOps]({{< ref "mlops" >}})
 1. [Multi-Large]({{< ref "multi-large" >}})
+1. [Next Architecture Workflow]({{< ref "next-architecture-workflow" >}})
 1. [Object Storage]({{< ref "object-storage" >}})
 1. [Pipeline Validation Service Operations]({{< ref "pipeline-validation-service-operations" >}})
 1. [Performance Indicators]({{< ref "performance-indicators" >}})
@@ -311,6 +314,6 @@ If you are unable to attend the existing working group meeting due to time diffe
 
 ## What were Top Cross-Functional Initiatives?
 
-Top Cross-Functional Initiatives were [Working Groups]({{< ref "working-groups" >}}) that were key to GitLab's success in the fiscal year and beyond. While there were other important business initiatives and priorities that existed within functions or required engagement across the business, we elevated these initiatives to address cross-functional dependencies, align on goals, and ensure ongoing reporting and monitoring.
+Top Cross-Functional Initiatives were [Working Groups]({{< ref "/handbook/company/working-groups" >}}) that were key to GitLab's success in the fiscal year and beyond. While there were other important business initiatives and priorities that existed within functions or required engagement across the business, we elevated these initiatives to address cross-functional dependencies, align on goals, and ensure ongoing reporting and monitoring.
 
 We retired this concept in FY24-Q3, because we had layered these initiatives under [Yearlies]({{< ref "yearlies" >}}) as sub-objectives. This list was duplicative and confusing to team members who were trying to manage these and other priorities. Top Cross-Functional Initiatives were moved to this page. The Top Cross-Functional Initiative concept was deprecated.

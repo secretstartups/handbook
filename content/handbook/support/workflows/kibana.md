@@ -192,11 +192,18 @@ In the `pubsub-rails-inf-gprd-*` log:
 
 1. Set the date range to a value that you believe will contain the result. Set it to `Last 7 days` if you're unsure.
 1. Add a positive filter on `json.path` for:
-  - `/api/scim/v2/groups/<group name>` when looking at the SCIM requests for a whole group. This path can also be found in the group's SAML settings.
-  - `/api/scim/v2/groups/<group name>/Users/<user's SCIM identifier>` when looking at the SCIM requests for a particular user.
+   - `/api/scim/v2/groups/<group name>` when looking at the SCIM requests for a whole group. This path can also be found in the group's SAML settings.
+   - `/api/scim/v2/groups/<group name>/Users/<user's SCIM identifier>` when looking at the SCIM requests for a particular user.
 1. Add a positive filter on `json.methhod` for `POST` or `PATCH` (first time provisioning or update/de-provisioning respectivley).
-
 1. Check `json.params.value` for information.
+
+In cases where the SCIM provisioned account is deleted:
+
+1. Follow the above steps and get the `correlation_id` from the provisioning record with `POST` as `json.method`.
+1. Go to the [Correlation Dashboard](#correlation-dashboard) and search for the relevant `correlation_id`.
+1. In the results, look for records in the `Correlation Dashboard - Web` section, and an entry with `elasticsearch` as `json.subcomponent`. In that entry, find the `user_id` in `json.tracked_items_encoded` in the format of `[[numbers,"User <user_id> user_<user_id>"]]`.
+
+If the user was deleted due to an unconfirmed email, you can use the deleted `user_id` as a value for `json.args.keyword` when searching `pubsub-sidekiq-inf-gprd*`. The results should show an entry with `json.class` `DeleteUserWorker`.
 
 #### Searching for Deleted Container Registry tags
 
@@ -363,8 +370,25 @@ In case you have the namespace details, get the **Namespace ID** then go to `htt
 
 #### Check user actions on a repository
 
-When looking at the `pubsub-rails-inf-gprd-*` index, you can determine if a user has recently cloned, pushed, or downloaded a repository. You can filter by `json.username`, `json.path` (the repository), and `json.action` to find specific events:
+When looking at the `pubsub-rails-inf-gprd-*` index, you can determine if a user has recently cloned/pushed (with HTTPS), or downloaded a repository. You can filter by `json.username`, `json.path` (the repository), and `json.action` to find specific events:
 
-- `action: git_upload_pack` is when someone performs a clone of a repository.
-- `action: git_receive_pack` is when someone push's a repository.
-- `action: archive` is when someone downloads a repository via the `Download source code` button in the UI.
+- [`action: git_upload_pack`](https://log.gprd.gitlab.net/app/r/s/dLqA1) is when someone performs a clone of a repository.
+- [`action: git_receive_pack`](https://log.gprd.gitlab.net/app/r/s/lRA1L) is when someone push's a repository.
+- [`action: archive`](https://log.gprd.gitlab.net/app/r/s/Lxx9w) is when someone downloads a repository via the `Download source code` button in the UI.
+
+To search for `git` activity over SSH, you can instead look in the `pubsub-shell-inf-gprd-*` index for specific events (note the minus signs instead of underscores):
+
+- [`command: git-upload-pack`](https://log.gprd.gitlab.net/app/r/s/B0qHS) is when someone performs a clone over SSH.
+- [`command: git-receive-pack`](https://log.gprd.gitlab.net/app/r/s/p3J0W) is when someone performs a push over SSH.
+
+You can use the links in the lists above and fill in the `json.path` or `json.gl_project_path` for the project of interest.
+
+#### Webhook related events
+
+[Webhook events](https://docs.gitlab.com/ee/user/project/integrations/webhooks.html) for GitLab.com can be located in Kibana, including identifying when a group or project has gone over [enforced rate limits](https://docs.gitlab.com/ee/user/gitlab_com/index.html#webhooks). Rate limiting varies depending on the subscription plan *and* number of seats in the subscription.
+
+Here are some suggestions:
+
+- Use `pubsub-sidekiq-inf-gprd` (Sidekiq) with the filters `json.class: "WebHookWorker"` and `json.meta.project : "path/to/project"` to identify webhook events.
+- Use `pubsub-rails-inf-gprd-*` (Rails) with the filters `json.message : "Webhook rate limit exceeded"` and `json.meta.project : "path/to/project"` to identify webhooks that failed to send due to rate limiting.
+  - You can filter between Group and Project hooks by using `json.meta.related_class : "GroupHook"` or `json.meta.related_class : "ProjectHook"`.

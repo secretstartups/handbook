@@ -1,28 +1,8 @@
 ---
-
 title: "Endpoint Management at GitLab"
 description: "Endpoint Management: endpoint security, macOS, Windows, Linux, endpoint management, SentinelOne, Jamf"
+controlled_document: true
 ---
-
-
-
-
-
-
-
-
-
-<div class="panel panel-gitlab-orange">
-**This is a Controlled Document**
-{: .panel-heading}
-<div class="panel-body">
-
-Inline with GitLab's regulatory obligations, changes to [controlled documents](/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged.
-
-</div>
-</div>
-
-# Endpoint management overview
 
 ## Purpose
 
@@ -85,6 +65,10 @@ SentinelOne is an endpoint detection and response technology used to secure and 
 ### DriveStrike
 
 DriveStrike is a lightweight device management solution for Linux that can remotely wipe devices. It also can be used to wipe macOS devices in the event Jamf is unable to do so. For more detail, please review the [DriveStrike page](/handbook/it/guides/drivestrike/)
+
+#### Google Chrome Enterprise Browser Management
+
+Google Chrome Enterprise Browser Management is an web browser management solution used by system administrators to configure and automate IT administration tasks for secure web browsing in Google Chrome. For more detail, please review the [Google Chrome Enterprise Management page](/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/Google-Chrome-Enterprise-Management/).
 
 ## Exceptions
 

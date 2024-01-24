@@ -319,7 +319,7 @@ Next steps for you:
 - [Customer Success' FAQ](/handbook/customer-success/faq/)
 - [Using Salesforce within Customer Success](/handbook/customer-success/using-salesforce-within-customer-success/)
 - [Customer Success Vision](/handbook/customer-success/vision/)
-- [GitLab Positioning](https://about.gitlab.com/handbook/positioning-faq/)
+- [GitLab Positioning](/handbook/positioning-faq/)
 - [Product Stages and the POCs for each](/handbook/product/categories/#devops-stages)
 - [How to Provide Feedback to Product](/handbook/product/how-to-engage/#feedback-template)
 - [Sales handbook](/handbook/sales/)

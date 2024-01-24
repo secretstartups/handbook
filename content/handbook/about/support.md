@@ -19,11 +19,11 @@ If you create a merge request during a period where there is an issue in master 
 
 Once the issue in master is fixed, you can solve this by using terminal to merge the latest version of master into your branch (which you can find in your [merge request](https://docs.gitlab.com/ee/user/project/merge_requests/)).
 
-For those who primarily use Web IDE to interface with GitLab, it can feel foreign to engage [locally](https://about.gitlab.com/handbook/git-page-update/). Before diving in deeper, be sure to read our [*GitLab 101 – a primer for the non-technical*](https://about.gitlab.com/blog/2019/08/02/gitlab-for-the-non-technical/) blog post.
+For those who primarily use Web IDE to interface with GitLab, it can feel foreign to engage [locally](/handbook/editing-handbook/). Before diving in deeper, be sure to read our [*GitLab 101 – a primer for the non-technical*](https://about.gitlab.com/blog/2019/08/02/gitlab-for-the-non-technical/) blog post.
 
-The process is fairly straightforward once you have completed the [necessary steps listed in the GitLab Handbook to edit locally](https://about.gitlab.com/handbook/git-page-update/).
+The process is fairly straightforward once you have completed the [necessary steps listed in the GitLab Handbook to edit locally](/handbook/editing-handbook/).
 
-Once you are properly equipped to edit locally, open a [terminal window](https://about.gitlab.com/handbook/git-page-update/) and execute the following.
+Once you are properly equipped to edit locally, open a [terminal window](/handbook/editing-handbook/) and execute the following.
 
 1. Navigate to the appropriate project. If you've cloned the project to your root directory, try `cd www-gitlab-com`
 1. `git checkout master`

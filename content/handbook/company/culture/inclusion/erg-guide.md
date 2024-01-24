@@ -11,7 +11,7 @@ TMRGs are voluntary, team member-led groups focused on fostering diversity, incl
 
 Team Member **Resource Group** provide support for an underrepresented group
 
-- The purpose for this type of TMRG is to develop and elevate that underrepresented group within Gitlab. To provide a voice and a safe space for people who identify as a part of that group and their allies. With aim of increasing and developing the sense of belonging.
+- The purpose for this type of TMRG is to develop and elevate that underrepresented group within GitLab. To provide a voice and a safe space for people who identify as a part of that group and their allies. With aim of increasing and developing the sense of belonging.
 
 Team Member **Advocacy Group**
 
@@ -510,7 +510,7 @@ Having short terms and long term goals for the TMRG is extremely important in de
 
 - Work with the wider TMRG on the TMRGs priorities
     - Leadership should distill these down into a manageable number of goals
-- Utilize a goal setting methodology such as [OKRs]({{< ref "okrs" >}}) or [SMART](https://www.mindtools.com/pages/article/smart-goals.htm) to set the goals in a practical way
+- Utilize a goal setting methodology such as [OKRs]({{< ref "/handbook/company/okrs" >}}) or [SMART](https://www.mindtools.com/pages/article/smart-goals.htm) to set the goals in a practical way
 - Add these goals to your quarterly strategy issue for the TMRG
 - Assign a working group or DRI/s to the goal
 - Share the goals with your executive sponsor and the wider GitLab team through the Monthly Initiatives Call
@@ -534,7 +534,7 @@ Details on how to access to the budget are below
 
 **Expenses could include but not limited to:**
 
-- Paying a speaker to present at Gitlab
+- Paying a speaker to present at GitLab
 - Purchasing TMRG specific Swag
 - External Consultants to help problem solve on TMRG issues
 - Sponsoring a partnership with a external vendor
@@ -559,7 +559,7 @@ As our finance processes are a use it or lose it policy we want to ensure that i
 
 **Submitting/Approval of Expenses**
 
-Purchases made on behalf of Gitlab should follow the [procurement process outlined in the handbook](/handbook/finance/procurement/#--what-is-procurement).
+Purchases made on behalf of GitLab should follow the [procurement process outlined in the handbook](/handbook/finance/procurement/#--what-is-procurement).
 Prior to submitting a Coupa requisition, please adjust the Billing portion of the requisition for each line item by selecting the magnifying glass. Confirm that the expense is coded to Department: G&A: DIB and Class (tag): TMRG. If procurement or The DIB Team are submitting the requisition on your behalf, please give them instructions to make these adjustments. If these changes are not made, then the expense will default to the team member’s department and the expense will not align to the TMRG budget.
 
 **Swag-** If the purchase is Swag, please follow the outlined process in the [handbook](/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/#swag-for-tmrgs).
@@ -606,9 +606,9 @@ This would be a great opportunity to include your Executive Sponsor
 
 In addition to executive sponsorship, some of our TMRGs have found gaining Director+ sponsors very beneficial in the advancement of there TMRG, MIT TMRG is a great example of this.
 
-### Hold your first All Gitlab event/session
+### Hold your first All GitLab event/session
 
-A great way to gain traction and have an initial goal. Is to develop a All Gitlab event. Check out the [Coming Out Day session](https://www.youtube.com/watch?v=OUKWs6hkMQY) from the Pride TMRG.
+A great way to gain traction and have an initial goal. Is to develop a All GitLab event. Check out the [Coming Out Day session](https://www.youtube.com/watch?v=OUKWs6hkMQY) from the Pride TMRG.
 
 Develop a working group and figure out how you want to do this. Ideas could include but not limited to:
 

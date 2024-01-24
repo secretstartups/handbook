@@ -9,7 +9,7 @@ Maximize GitLab's long-term valuation by enabling eGroup and FP&A to plan, prior
 
 ## Our objectives
 
-1. Facilitate aligned cross-functional execution of GitLab's [strategy]({{< ref "strategy" >}})
+1. Facilitate aligned cross-functional execution of GitLab's [strategy]({{< ref "/handbook/company/strategy" >}})
 1. Bring predictability and operational rigor to GitLab
 1. Ensure financial and operational goals of GitLab are defined, documented and achieved
 1. Evangelize awareness of strategy and each departments role in achieving it
@@ -353,6 +353,7 @@ Financial Planning & Analysis (FP&A) team is the owner of SSOT for GitLab’s **
 - Hiring Plan is maintained by the Finance Business Partners (FBPs) and shared with Talent Acquisition (TA) team and Business Partners (BPs)
 - Finance owns the Hiring Plan to ensure there is only one Headcount Forecast and Hiring Plan for the business
 - Hiring Plan increases our predictability as a company and streamlines the hiring process
+- Based on historical time to start data, new requisitions released via RLOA in a quarter can be expected to start in the following quarter at the earliest
 - For questions specific to TA’s process and REQ creation, please refer to [TA’s section of the handbook](/handbook/hiring/talent-acquisition-framework/req-creation/)
 
 ### Position ID (PID)
@@ -510,7 +511,7 @@ FP&A team is the owner and maintainer of SSOT for GitLab’s Hiring Plan
 
 The FP&A team and Talent Acquisition Managers collaborate to ensure understanding and implementation of the most up-to-date view of forecasted headcount-related expenses. This interlock enables GitLab to respond quickly and make live decisions through a weekly P&L forecast and the [rolling list of asks (RLOA) process](/handbook/finance/financial-planning-and-analysis/#rolling-list-of-asks-rloa). This process also ensures alignment and accuracy of headcount forecasts when FP&A locks its annual plan and monthly rolling forecasts. This process also tracks company metrics against Wall Street expectations related to non-GAAP operating income and non-GAAP earnings per share. Please see the [Headcount Metrics and Processes page](https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/tree/master/-/sites/handbook/source/handbook/finance/financial-planning-and-analysis/headcount-metrics-and-processes/) for definitions and key metrics.
 
-#### Headocunt Live Dashboards
+#### Headcount Live Dashboards
 
 The Hiring Plan data is divided into four headcount forecast templates, one for each cost center with Cost of Goods Sold allocated among Sales and R&D. The data and analysis from the four templates roll into the Summary file. The four templates can be found in the [Headcount Live Summary Dashboard](https://docs.google.com/spreadsheets/d/1LmMiPMeBu2jW6APZ1SDNOk1OgLN6pyB01TrEVza40us/edit#gid=1019520422).
 
@@ -553,7 +554,7 @@ A manual on how to update and maintain Adaptive integration can be found [here](
 
 Adaptive Quarterly Roadmap
 - The current Adaptive roadmap can be found [here](https://docs.google.com/spreadsheets/d/1vfJHmKmLJo2vSkOnN_pKh7cXh--IdE5CiQIy6X2JQKc/edit#gid=0)
-- We expect to transition roadmap and requests into Gitlab issues by Q2-FY23.
+- We expect to transition roadmap and requests into GitLab issues by Q2-FY23.
 - Corporate FP&A will host Adaptive intake sessions with the larger FP&A team to intake, align and prioritize current and future projects.
 
 ## Rolling List of Asks (RLOA)

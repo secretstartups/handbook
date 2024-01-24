@@ -430,8 +430,6 @@ Once the FMM has submitted the Contract Request to their FMC and the remaining a
 
 - FMM pings the FMC in the main Field Marketing issue and requests the FMC move the issue to WIP (FMM keeps issue label `mktg-status::plan`)
 - FMC reviews the Allocadia sub-category and line item panel details, as well as checks that the forecasted cost is in the correct month (according to the [prepaid policy](/handbook/finance/accounting/#prepaid-expense-policy)) for the tactic and makes any changes necessary
-- FMC requests the Allocadia line item ID for the tactic be added to NetSuite in [this spreadsheet](https://docs.google.com/spreadsheets/d/1wBqvCvmou4afnb0p8lBXVvFmsl-j0IehS7GdfJybGzg/edit#gid=518252060) (if not already completed during the contract process)
-- FMC adds the Allocadia line item ID to the Event Details section of the issue, where indicated, as well as checks off the box that the Allocadia ID has been created in NetSuite
 - FMC creates the epic and sub-issues utilizing [this list of epics](/handbook/marketing/field-marketing/#field-marketing-campaign-issue-templates-epic-codes-and-progression-status)
 - FMC creates the [Marketo program and SFDC campaign](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-type--progression-status) utilizing the [Program Tracking](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/program-tracking.md) sub-issue previously created
    - FMC pings the FMM in the Program Tracking issue that the Marketo program and SFDC campaign have been created and closes issue
@@ -543,10 +541,9 @@ The FMC will track all open Marketo LPs and will be responsible for requesting t
 To close the LP registration form, the FMC will re-open the Marketo LP issue and request Marketing Ops follow one of the below processes (depending on campaign type, as Marketo program templates vary across different tactics). In the LP issue, the FMC will request Marketing Ops remove the registration form and will provide Marketing Ops specific verbiage for the top of the LP page. Please see standard verbiage options below. If the event is a workshop that was listed on the demo/workshop page, the FMC will also request Marketing Ops remove the listing. The FMC will update the due date of the issue.
 
 ## If an event has reached capacity
-- The FMC will follow the above instructions to close the LP regisrtation form and update the verbiage to specify the event has reached capacity.
+- The FMC will follow the above instructions to close the LP registration form and update the verbiage to specify the event has reached capacity.
 - If there are remaining invite issues open once registration is closed, the FMC will note this in the issue(s) and close them. If an invite is already scheduled to be sent, the FMC will ask Marketing Ops to unschedule the send before closing the issue. The FMC will update the due date of the issue.
-- The FMC will also re-open the sales nominated issue (if utilized) and request Marketing Ops shut down the sales-nominated daily sends. The FMC will update the due date of the issue.
-- If an intelligent nurture email request was opened, the FMC will ping `@dambrold` in the issue to remove the email from the nurture streams.
+- If a LinkedIn campaign was run, the FMC will request the ABM team close the LinkedIn registration form in their ABM issue.
 - There is no need to remove the event listing from the [Events Page](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents) if an event has reached capacity. Having a sold out event listed could create more excitement over the event and encourage future attendees to register for events sooner.
 
 ## Standard verbiage for closing a Marketo LP after the event has occurred
@@ -1513,12 +1510,10 @@ The Field Marketing team works from issues and issue boards. If you need our ass
 ## General Field Marketing Labels
 
 - `Field Marketing`: Issue initially created, used in templates, the starting point for any issue that involves Field Marketing
-- `FY24-Q1` `FY24-Q2` `FY24-Q3` `FY24-Q4`: What event or activity is set to take place or be due in this quarter in the specific year
+- `FY25-Q1` `FY25-Q2` `FY25-Q3` `FY25-Q4`: What event or activity is set to take place or be due in this quarter in the specific year
 - `mktg-status::plan`: work that is proposed, in an exploratory state
 - `mktg-status::wip`: work in progress that has been accepted and assigned to a DRI
 - `Events`: Issues related to events - this label is held at the gitlab.com level
-- `FMM-Other Tactics`: Issues related to non-event tactics
-- `FMM-MicroCampaigns`: Issues related to regional integrated micro-campaign, which are built to drive a specific strategy in a region
 - `Content Syndication`: Issue related to content syndication
 - `DevOpsDays`: Issue related to DevOps Days
 - `Direct Mail`: Issue related to Direct Mail
@@ -1533,7 +1528,7 @@ The Field Marketing team works from issues and issue boards. If you need our ass
 - `Vendor Arranged Meetings`: Issue related to Vendor Arranged Meetings
 - `Virtual Conference`: Issue related to Virtual Conferences
 - `Webcast - GitLab Hosted`: Issue related to GitLab-Hosted Webcasts
-- `workshop`: Issue related to GitLab workshops
+- `FM Workshop`: Issue related to Field Marketing-run workshops
 
 ## Regional Field Marketing Labels
 
@@ -1560,11 +1555,10 @@ The Field Marketing team works from issues and issue boards. If you need our ass
 - `AMER - CIV`: AMER Civilian tactics
 - `AMER - SLED`: AMER SLED tactics
 - `AMER - NSP`: AMER National Security tactics
-- `FMS AMER NE/SE/PubSec`: Issues that the FMS AMER NE/SE/PubSec is actively working
-- `FMS AMER NE/SE/PubSec - Tracking`: FMS AMER NE/SE/PubSec issue tracking
-- `FMS AMER NE/SE/PubSec - Swag`: FMS AMER NE/SE/PubSec tracking for swag and event assets
-- `FMS AMER NE/SE/PubSec - WS/WC`: FMS AMER NE/SE/PubSec task tracking for workshops and webcasts
-- `FMS AMER NE/SE/PubSec - Contracts`: FMS AMER/NE/SE/PubSec task for tracking contract requests
+- `FMS AMER`: FMS AMER general requests
+- `FMS AMER - Tracking`: FMS AMER event tracking
+- `FMS AMER - Swag`: FMS AMER swag requests
+- `FMS AMER - Contracts`: FMS AMER contract requests
 - `FMC AMER East-Central/West`: Issues that the FMC East-Central/West is actively working
 - `FMC AMER East-Central/West - Contracts`: FMC East-Central/West task for tracking contract requests
 - `FMC AMER East-Central/West - WS/WC`: FMC East-Central/West task tracking for workshops and webcasts

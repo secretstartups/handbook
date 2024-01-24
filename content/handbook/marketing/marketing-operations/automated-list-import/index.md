@@ -470,6 +470,10 @@ The following data cleanup is required for any list prior to sending it to the M
 
 ## FAQ
 
+**Q: I made a mistake on my upload: Loaded to the wrong campaign, had field values in the wrong column, uploaded with the wrong status, etc. What do I do?**
+
+A: Before re-uploading the correct list or trying to fix the error, please get in touch with MOps in the `#mktgops` Slack channel. Instructions will be provided. If you uploaded to the wrong program, we need to revert that prior to the new list being loaded, otherwise it will cause issues with lead scoring and be more challenging to correct.
+
 **Q: Why do my interesting moments show Attended {{my.event name}}, which starts on {{my.event date}}. Location: {{my.event location}}?**
 
 A: Your tokens were not filled out before the time of the import. A new batch campaign will need to be created to update this information.

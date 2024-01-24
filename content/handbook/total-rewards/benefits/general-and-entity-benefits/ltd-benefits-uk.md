@@ -104,12 +104,12 @@ Willis Towers Watson act as employee benefit advisers to the GitLab GPPP and alt
 
 Willis Towers Watson
 
-- Friars Street, Ipswich IP1 1TA
-- Geoff Wilson, Associate Director
-- Direct Line: 01473 229011
-- E-mail: Geoff.wilson@willistowerswatson.com
+3 Temple Quay, Temple Back East, Bristol, BS1 6DZ
+Nick Allen, Associate Director
+Direct Line: 07920 213595
+E-mail: nick.allen@wtwco.com
 
-Please refer to the [Company Pension Plan FAQ](https://drive.google.com/file/d/1BEADGm7sUbroEkxzGvB-DBIhMIbbLG46/view?usp=sharing) for additional information on the plan. Please note that all eligible team members will be auto-enrolled in the scheme. Please also watch the [2022 UK Pension Webinar](https://drive.google.com/file/d/1JggpHxQvtWZK1P6NdE9-77LFPE6Q5DZY/view?usp=sharing) with Geoff Wilson for an overview of UK Pension System.
+Please refer to the [Company Pension Plan FAQ](https://drive.google.com/file/d/1BEADGm7sUbroEkxzGvB-DBIhMIbbLG46/view?usp=sharing) for additional information on the plan. Please note that all eligible team members will be auto-enrolled in the scheme. Please also watch the [2022 UK Pension Webinar](https://drive.google.com/file/d/1JggpHxQvtWZK1P6NdE9-77LFPE6Q5DZY/view?usp=sharing) for an overview of UK Pension System.
 
 ### Salary Sacrifice
 
@@ -207,10 +207,10 @@ Scottish Widows:
 
 You can also reach out to Willis Tower Watson to explain the details of the GitLab GPPP and answer any questions you may have.
 
-- Friars Street, Ipswich IP1 1TA
-- Geoff Wilson, Associate Director
-- Direct Line: 01473 229011
-- E-mail: Geoff.wilson@willistowerswatson.com
+3 Temple Quay, Temple Back East, Bristol, BS1 6DZ
+Nick Allen, Associate Director
+Direct Line: 07920 213595
+E-mail: nick.allen@wtwco.com
 
 ### Re-joining
 
@@ -282,6 +282,8 @@ Team members are entitled to at least 28 vacation days which consist of 20 days 
 
 ### Parental Leave
 
+For more information about Maternity, Paternity, Parental, and Adoption leave, please review the government's [webpage](https://www.gov.uk/browse/childcare-parenting).
+
 **Statutory Maternity Leave:** Team members can take up to 52 weeks of Maternity Leave.
 
 - The earliest that the Maternity Leave can start is 11 weeks before the expected week of childbirth.
@@ -289,9 +291,17 @@ Team members are entitled to at least 28 vacation days which consist of 20 days 
    - Maternity leave will begin automatically if the team member is off work for a pregnancy-related illness in the 4 weeks before the expected week of childbirth.
 - Team members are not required to take the full 52 weeks of maternity leave, but **must** take at least 2 weeks of leave after the baby is born.  Team members should give at least eight weeks’ notice if they would like to change their return to work date.
 
-**Statutory Paternity Leave:** Team members can take up to 2 weeks of Paternity Leave or up to 50 weeks of [Shared Parental Leave](https://www.gov.uk/shared-parental-leave-and-pay).
+**Statutory Paternity Leave:** Team members can take up to 2 weeks of Paternity Leave or up to 50 weeks of [Shared Parental Leave](https://www.gov.uk/shared-parental-leave-and-pay).  Paternity Leave *cannot* be taken after Shared Parental Leave.
 
-- Paternity Leave *cannot* be taken after Shared Parental Leave.
+- Eligibility:  
+You must be taking time off to look after the child and be one of the following:
+
+    - the father
+    - the husband or partner of the mother (or adopter) - this includes same-sex partners
+    - the child’s adopter
+    - the intended parent (if you’re having a baby through a surrogacy arrangement)
+
+*There are extra conditions you need to meet to qualify for leave and pay.
 
 **Statutory Adoption Leave:** Team members can take up to 52 weeks of Adoption Leave.
 

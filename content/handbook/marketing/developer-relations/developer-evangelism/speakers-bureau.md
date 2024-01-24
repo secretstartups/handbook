@@ -10,13 +10,13 @@ description: "The Speakers Bureau is a group of GitLab team members and members 
 
 
 
-## What is the Speakers Bureau?    
+## What is the Speakers Bureau?
 
-The Speakers Bureau is a group of GitLab team members and members of the wider GitLab community who are available to participate in events and deliver talks about GitLab, CI/CD, open source, remote work, and other topics. 
+The Speakers Bureau is a group of GitLab team members and members of the wider GitLab community who are available to participate in events and deliver talks about GitLab, CI/CD, open source, remote work, and other topics.
 
-## Find a speaker  
+## Find a speaker
 
-A list of speakers bureau members can be found on our [Speakers Bureau page](/speakers/). After identifying a speaker for an event or other speaking opportunity, please [create an issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/new?issuable_template=speaker-request) to request the speaker. 
+A list of speakers bureau members can be found on our [Speakers Bureau page](/speakers/). After identifying a speaker for an event or other speaking opportunity, please [create an issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/new?issuable_template=speaker-request) to request the speaker.
 
 ## Join the Speakers Bureau
 
@@ -33,8 +33,8 @@ Once you have the above items, follow these steps to add yourself to create your
 1. Go to the [speakers.yml file in the GitLab.com / www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/speakers.yml) project.
 1. On the file page, click on the button labeled `Web IDE` near the middle of the page.
 1. For community members: if prompted, click `Fork` to create a Fork of the repo which will allow you to make changes and submit a Merge Request.
-1. You should see the `speakers.yml` file open in your browser. 
-1. Copy and paste the entry below and enter your information into each of the blank fields. Remove the commented lines (starting with `#`) when not used. 
+1. You should see the `speakers.yml` file open in your browser.
+1. Copy and paste the entry below and enter your information into each of the blank fields. Remove the commented lines (starting with `#`) when not used.
 ```
 # Example Entry
 - name: Ada Lovelace          # Your full name
@@ -66,20 +66,20 @@ Once you have the above items, follow these steps to add yourself to create your
 #    - title: Foo
 #      link: https://
 ```
-1. Once you have finished adding your information, click the `Source Control` menu on the left. 
-1. Add a commit message, for example `Add @me to the speakers bureau` and click on the `Commit & Push` button. 
-1. When asked to create a new branch, select `yes` and press `Enter` to confirm. 
+1. Once you have finished adding your information, click the `Source Control` menu on the left.
+1. Add a commit message, for example `Add @me to the speakers bureau` and click on the `Commit & Push` button.
+1. When asked to create a new branch, select `yes` and press `Enter` to confirm.
 1. Name the branch in the format of `YOURINITIALS-speakers-bureau` or similar and press `Enter` to confirm.
-1. Click blue `Create merge request` button at the right bottom popuo. 
+1. Click blue `Create merge request` button at the right bottom popuo.
 1. Fill out the merge request details. Community members who are applying should tick the box to `Allow commits from members who can merge to target branch` as detailed on the [Allow collaboration on merge requests across forks](https://docs.gitlab.com/ee/user/project/merge_requests/allow_collaboration.html#enabling-commit-edits-from-upstream-members) page in our docs.
 1. Add the `speakers-bureau` label and assign to `@johncoghlan`. Community members should mention `@abuango` in a comment in the merge request so our team can review and merge.
 
-The practical handbook edits handbook provides a [step-by-step tutorial for using the Web IDE](https://about.gitlab.com/handbook/practical-handbook-edits/#using-the-web-ide-to-edit-the-handbook).
+The practical handbook edits handbook provides a [step-by-step tutorial for using the Web IDE](/handbook/editing-handbook/practical-handbook-edits/#using-the-web-ide-to-edit-the-handbook).
 
 ### Linting
 When adding yourself to the Speakers Bureau, you may get a linting error in the build.  If that happens, ensure that the following requirements are met:
 
-* Unique `name`: Your name must be unique - if you have the same name as another speaker add your middle inital or other identifiers 
+* Unique `name`: Your name must be unique - if you have the same name as another speaker add your middle inital or other identifiers
 * Unique `gitlab`: You must put your unique GitLab.com username in this field
 * Unique `twitter`: You must put your unique Twitter username in this field
 * Headshot: You must place your headshot in the `source/images/speakers` and reference it just by file name in the `picture` field.
@@ -90,9 +90,9 @@ When adding yourself to the Speakers Bureau, you may get a linting error in the 
 
 ## Speaker Enablement
 
-The Developer Evangelism team provides support to new and experienced speakers where necessary. These can range from presentation review, CFP ideation, or dry-run. [Learn more](/handbook/marketing/developer-relations/developer-evangelism/speaker-enablement/) about the different resources and activities you can benefit from or drop a message in the [#dev-evangelism-and-technical-marketing Slack channel](https://gitlab.slack.com/archives/CMELFQS4B) if you need direct support. 
+The Developer Evangelism team provides support to new and experienced speakers where necessary. These can range from presentation review, CFP ideation, or dry-run. [Learn more](/handbook/marketing/developer-relations/developer-evangelism/speaker-enablement/) about the different resources and activities you can benefit from or drop a message in the [#dev-evangelism-and-technical-marketing Slack channel](https://gitlab.slack.com/archives/CMELFQS4B) if you need direct support.
 
 ## Speaking at Events
 
-For resources for GitLab team members who are planning on attending events or speaking at conferences, see [Speaker Resources](/handbook/marketing/corporate-communications/speaking-resources/). 
+For resources for GitLab team members who are planning on attending events or speaking at conferences, see [Speaker Resources](/handbook/marketing/corporate-communications/speaking-resources/).
 

@@ -56,16 +56,14 @@ Once you're done with the steps above, take a look at:
 
 ## Stay up to date with new features
 
-GitLab releases a new version [every month](https://about.gitlab.com/handbook/engineering/releases/). Stay up to date on new features and capabilities by reading the [release posts](https://about.gitlab.com/releases/categories/releases/) on our blog.
+GitLab releases a new version [every month](/handbook/engineering/releases/). Stay up to date on new features and capabilities by reading the [release posts](https://about.gitlab.com/releases/categories/releases/) on our blog.
 
 ## Want to learn more?
 
 Consider the following GitLab certificate courses:
 
 - [GitLab Certified Associate](https://about.gitlab.com/services/education/gitlab-certified-associate/) (Required for the DevOps Professional Certification)
-- [GitLab Certified InnerSourcing Specialist](https://about.gitlab.com/services/education/gitlab-innersourcing-specialist/)
 - [GitLab Certified CI/CD Specialist](https://about.gitlab.com/services/education/gitlab-cicd-associate/) (Required for the DevOps Professional Certification)
 - [GitLab Certified Project Management Specialist](https://about.gitlab.com/services/education/gitlab-project-management-associate/) (Required for the DevOps Professional Certification)
 - [GitLab Certified Security Specialist](https://about.gitlab.com/services/education/gitlab-security-specialist/) (Required for the DevOps Professional Certification)
-- [GitLab Certified DevOps Professional](https://about.gitlab.com/services/education/gitlab-certified-devops-pro/)
 

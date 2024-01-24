@@ -17,9 +17,9 @@ Specific coaching plan templates are listed here to help start the conversation:
 - (Others to come)
 
 We want to build these documents around the career matrix for Engineering. Since this career
-matrix is still being developed, these documents are currently based on the [job family requirements](https://handbook.gitlab.com/job-families/engineering/).
+matrix is still being developed, these documents are currently based on the [job family requirements](/job-families/engineering/).
 
-The first career matrix being developed is for [Individual Contributors in Engineering](/handbook/engineering/career-development/matrix/engineering/).
+The first career matrix being developed is for [Individual Contributors in Engineering](/handbook/engineering/careers/matrix/).
 
 When a team member is deemed ready for promotion, their manager should follow
 the [promotion process outlined by People](/handbook/people-group/promotions-transfers/) Ops.
@@ -59,7 +59,7 @@ In order to facilitate the transition, we recommend any person moving from an In
 
 ### Temporary Management Positions
 
-We create temporary management positions when there is organizational need, and we imprint these in our company org chart. These may be filled by someone who is transitioning into the role ([Interim Manager](https://about.gitlab.com/handbook/engineering/career-development/#interim-manager)), experimenting with the role as they work on determining their career path ([Interim Manager](https://about.gitlab.com/handbook/engineering/career-development/#interim-manager) or [Acting Manager](https://about.gitlab.com/handbook/engineering/career-development/#acting-manager)) or, someone who is just filling in while we hire and who is not interested in pursuing an Engineering Manager role long term ([Acting Manager](https://about.gitlab.com/handbook/engineering/career-development/#acting-manager)). This difference should be made explicit with the individual and team members before the temporary role is created. See the [types of temporary roles](#types-of-interim-roles) for more information on this distinction.
+We create temporary management positions when there is organizational need, and we imprint these in our company org chart. These may be filled by someone who is transitioning into the role ([Interim Manager](/handbook/engineering/career-development/#interim-manager)), experimenting with the role as they work on determining their career path ([Interim Manager](/handbook/engineering/career-development/#interim-manager) or [Acting Manager](/handbook/engineering/career-development/#acting-manager)) or, someone who is just filling in while we hire and who is not interested in pursuing an Engineering Manager role long term ([Acting Manager](/handbook/engineering/career-development/#acting-manager)). This difference should be made explicit with the individual and team members before the temporary role is created. See the [types of temporary roles](#types-of-interim-roles) for more information on this distinction.
 
 When someone fills a temporary role they are providing a service to the company, and perhaps getting a valuable career development opportunity for themself; so, poor performance against those duties would not result in termination. At worst, the person would return to their prior responsibilities. That does not mean, however, that an individual is immune to termination of their employment, for example if they commit a breach of their prior responsibilities or of the company's Code of Business Conduct & Ethics while in a temporary position.
 
@@ -72,7 +72,7 @@ Those interested in these roles must:
 - have been employed at GitLab for at least 6 months and thriving in our remote-only context
 - exemplify [GitLab Values](/handbook/values/)
 - For Acting Manager roles: be subject to a talent review depending on the length of appointment
-- For Interim Manager roles: Apply through [Greenhouse](https://about.gitlab.com/handbook/people-group/promotions-transfers/#greenhouse-process-requirements) and go through selection process
+- For Interim Manager roles: Apply through [Greenhouse](/handbook/people-group/promotions-transfers/#greenhouse-process-requirements) and go through selection process
 
 Process for selection:
 
@@ -149,7 +149,7 @@ For more details on logistics of ending an interim or acting period please refer
   %% frontend roles
   eng:tfe(Intern Frontend Engineer);
   click eng:tfe "https://handbook.gitlab.com/job-families/engineering/development/frontend/#intern-frontend-engineer";
-  
+
   eng:afe(Associate Frontend Engineer);
   click eng:afe "https://handbook.gitlab.com/job-families/engineering/development/frontend/#associate-frontend-engineer";
 
@@ -181,7 +181,7 @@ For more details on logistics of ending an interim or acting period please refer
   %% fullstack roles
   eng:tfs(Intern Fullstack Engineer);
   click eng:tfs "https://handbook.gitlab.com/job-families/engineering/development/fullstack/#intern-fullstack-engineer";
-  
+
   eng:afs(Associate Fullstack Engineer);
   click eng:afs "https://handbook.gitlab.com/job-families/engineering/development/fullstack/#associate-fullstack-engineer";
 
@@ -434,17 +434,17 @@ If you wish to apprentice with an Engineering team, start by speaking with your 
 
 An internship is a position meant for someone who has decided on a career path and is looking to gain in-depth experience in a specific field. At GitLab this is the entry level of roles in Engineering.
 
-In May 2020 we launched an internship pilot program as part of a [Working Group](/company/team/structure/working-groups/internship-pilot/). [The pilot internship program](/handbook/engineering/internships/) has proven to be a great mechanism for hiring as well as offered great opportunities for our team members to gain mentoring experience. Due to the program's success currently we have decided to roll out internships on a continuous basis in Engineering.
+In May 2020 we launched an internship pilot program as part of a [Working Group](/handbook/company/team/structure/working-groups/internship-pilot/). [The pilot internship program](/handbook/engineering/internships/) has proven to be a great mechanism for hiring as well as offered great opportunities for our team members to gain mentoring experience. Due to the program's success currently we have decided to roll out internships on a continuous basis in Engineering.
 
 With the roll out of the intern level in Engineering we have decided to deprecate what previously has been called the junior level (former entry level). Going forward all teams within Engineering can open an intern requisition when there's an organizational need. All information on Internships in Engineering can be found on [this page](/handbook/engineering/internships/).
 
 ## Senior Engineers
 
-Note that we have a specific section for [Senior Engineer](https://handbook.gitlab.com/job-families/engineering/backend-engineer/#senior-backend-engineer) because it's an important step in the technical development for every engineer. But "Senior" can optionally be applied to any role here indicating superior performance. However, it's not required to pass through "senior" for roles other than Engineer.
+Note that we have a specific section for [Senior Engineer](/job-families/engineering/backend-engineer/#senior-backend-engineer) because it's an important step in the technical development for every engineer. But "Senior" can optionally be applied to any role here indicating superior performance. However, it's not required to pass through "senior" for roles other than Engineer.
 
 The Senior Engineer role is a critical role where we need the most contributions. It should also be considered a destination role. It is not a given that you will naturally progress into the next role, whether it is Staff or Management. There are different needs and expectations for the next role. Individual growth and progression is supported and encouraged at GitLab, however progression beyond the Senior Engineering role is gated on availability and need. There may not be a need for another Staff or Management position.
 
-Senior engineers typically receive fewer trivial comments on their merge requests. Attention to detail is very important to us. They also receive fewer _major_ comments because they understand the application architecture and select from proven patterns. We also expect senior engineers to come up with simpler solutions to complex problems. Managing complexity is key to their work. [Staff](https://handbook.gitlab.com/job-families/engineering/backend-engineer/#staff-backend-engineer) and [Distinguished](https://handbook.gitlab.com/job-families/engineering/infrastructure/distinguished-engineer/) positions extend the Senior Engineer role.
+Senior engineers typically receive fewer trivial comments on their merge requests. Attention to detail is very important to us. They also receive fewer _major_ comments because they understand the application architecture and select from proven patterns. We also expect senior engineers to come up with simpler solutions to complex problems. Managing complexity is key to their work. [Staff](/job-families/engineering/backend-engineer/#staff-backend-engineer) and [Distinguished](/job-families/engineering/infrastructure/distinguished-engineer/) positions extend the Senior Engineer role.
 
 ## Promotion
 

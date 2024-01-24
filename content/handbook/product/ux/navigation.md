@@ -15,7 +15,7 @@ Listed in [Pajamas](https://design.gitlab.com/patterns/navigation) are the eleme
 
 ## When to consider making a change to the navigation
 
-We only make new additions to the Gitlab navigation structure through a deliberate process that is intended to optimize user workflows. This [video](https://www.nngroup.com/videos/number-items-navigation-menu/) summarizes the main factors that are important to consider as we iterate on our navigation. In the past, teams added items to highlight new features. However, it becomes impossible to accommodate every new feature, as this creates an overwhelming navigation structure that makes it too difficult for users to find what they need to complete their tasks.
+We only make new additions to the GitLab navigation structure through a deliberate process that is intended to optimize user workflows. This [video](https://www.nngroup.com/videos/number-items-navigation-menu/) summarizes the main factors that are important to consider as we iterate on our navigation. In the past, teams added items to highlight new features. However, it becomes impossible to accommodate every new feature, as this creates an overwhelming navigation structure that makes it too difficult for users to find what they need to complete their tasks.
 
 Therefore, we **do not add new items** to:
 
@@ -68,6 +68,7 @@ After there is insight into a problem with the navigation, the Product team DRI 
 - Renaming a navigation item
 - Removing a navigation item
 - Changing the sort order of navigation items
+- Changing navigation functionality or features
 - Launching an [Experiment](https://docs.gitlab.com/ee/policy/experiment-beta-support.html#experiment) or [Beta](https://docs.gitlab.com/ee/policy/experiment-beta-support.html) feature
 
 ### Utilizing feature flags

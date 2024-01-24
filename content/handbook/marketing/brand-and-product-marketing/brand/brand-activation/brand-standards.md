@@ -5,13 +5,6 @@ title: "Brand Resources"
 
 
 
-
-
-
-
-# Brand Resources
-
-
 ## Overview
 
 Welcome to the Brand Resources page. This is your one-stop shop for the most updated brand-related assets, including logos, slide templates, social media graphics, and more.
@@ -76,6 +69,8 @@ GitLab's official brand guidelines can be found at **[design.gitlab.com](https:/
 
 - [Photo library](https://drive.google.com/drive/folders/1VHErs-KSNX1FIIVgXJR3OmIzwU7M4E1M?usp=sharing)
 - [Adobe stock](https://stock.adobe.com/)
+- [Unsplash](https://unsplash.com/) *Proper [credit](https://handbook.gitlab.com/handbook/legal/ip-public-materials-guidelines/#visual-content-including-videos-gifs-photographs-illustrations-graphics-and-artwork) must be given
+- [Disability NI Stock Photos](https://disabilityin.org/resource/corporate-disability-stock-photography/) *Proper [credit](https://handbook.gitlab.com/handbook/legal/ip-public-materials-guidelines/#visual-content-including-videos-gifs-photographs-illustrations-graphics-and-artwork) must be given
 
 ### Motion and video
 

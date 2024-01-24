@@ -60,7 +60,7 @@ Starting on 2023-07-27, Australian team members will be able to review their pla
 
 #### Contact & Support for Enrollment, Plan Questions
 
-If you have any questions on the plan, help enrolling on BUPA’s portal, have any other questions comparing your current plan with BUPA’s offerings - you can reach out to BUPA for direct plan support at *1300-622-074* or utilize their virtual chat support on the portal for basic questions.
+If you have any questions on the plan, help enrolling on BUPA’s portal, have any other questions comparing your current plan with BUPA’s offerings - you can reach out to BUPA for direct plan support at *1300-662-074* or utilize their virtual chat support on the portal for basic questions.
 
 Additionally, please feel free to reach out to our consultants, WTW, for direct support and assistance on any enrollment, plan, or questions you may have with the medical plan.
 Please email *paul.dervan@wtwco.com* and cc’ *total-rewards@gitlab.com*
@@ -165,7 +165,7 @@ Time in lieu should be requested via [Time Off by Deel]({{< ref "paid-time-off#t
 
 Sick and carer's leave (also known as personal leave or personal / carer's leave) lets an employee take time off to help them deal with personal illness, caring responsibilities and family emergencies. Team members will be entitled to personal/carer’s leave in accordance with the Fair Work Act 2009 (Cth) as varied from time to time.
 
-**Paid Carer's Leave:**
+**Paid Personal/Carer's Leave:**
 
 Currently team members are entitled to 10 days of paid personal/carer’s leave for each year of continuous service for full-time team members and pro rata for part-time team members based on ordinary hours of work.
 
@@ -180,7 +180,7 @@ An immediate family member is a:
 
 - spouse or former spouse
 - de facto partner or former de facto partner
-child
+- child
 - parent
 - grandparent
 - grandchild
@@ -216,7 +216,7 @@ An immediate family member is a:
 
 - spouse or former spouse
 - de facto partner or former de facto partner
-child
+- child
 - parent
 - grandparent
 - grandchild
@@ -438,7 +438,7 @@ Partner Leave
 
 - If you are a spouse or partner of a primary carer and have been employed for at least six months, but less than twelve months, you are entitled to one week of unpaid partner's leave.
 - If you are a spouse or partner of a primary carer and you have been employed for at least twelve months, you are entitled to two weeks of unpaid partner's leave.
-- Partner Leave will run concurrently with GitLab Parental Leave. If you are [eligible]({{< ref "general-and-entity-benefits#parental-leave" >}}), you will receive 100% paid Parental Leave from GitLab for up to 16 weeks.
+- Partner Leave will run concurrently with GitLab Parental Leave and provide up to 100% of a team member's regular salary for up to 16 weeks.
 - Team members must select `Parental Leave` in Time Off by Deel to ensure that their time off is properly tracked.
 
 #### Applying for Parental Leave in New Zealand

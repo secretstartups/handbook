@@ -24,7 +24,7 @@ The following are the available partner agreements and addenda:
 
 
 - Master Partner Agreement (MPA) - This includes the primary terms and conditions for all reseller, services and referral partners.
-- Reseller Addendum - The Reseller addendum covers resale and renewal terms and conditions and must be signed by all partners reselling GitLab products and services.  
+- Reseller Addendum - The Reseller addendum covers resale and renewal terms and conditions and must be signed by all partners reselling GitLab products and services.
 - Referral / Services Addendum - This addendum to the MSA defines the terms and conditions for referral and services payment to partners.  All partners offering services around GitLab or partners referring, but not resellering GitLab must sign this agreement
 - Managed Services Provider Agreement - This is a special agreement for any partner that will be offering GitLab managed services.
 - Training Partner Addendum - All partners that will be offering GitLab training services utilizing GitLab training materials and train the training programs must sign this addendum.
@@ -42,7 +42,7 @@ The Admin console capabilities include:
 
 
 1. Engagement metrics - Partner portal engagement metrics, such as logins, asset usage, new accounts and web analytics can be found under the Channel Intel tab.
-2. Salesforce sync - Data is synchronized between the Partner Portal and Salesforce in near real time.  As data is updated in one system, it is automatically syned to the other.  The Salesforce team, along with Channel Ops and Programs maintain the synchronization.  The CRM sync is set up under Admin Settings, CRM.  
+2. Salesforce sync - Data is synchronized between the Partner Portal and Salesforce in near real time.  As data is updated in one system, it is automatically syned to the other.  The Salesforce team, along with Channel Ops and Programs maintain the synchronization.  The CRM sync is set up under Admin Settings, CRM.
 3. Workflows - Workflows are set up to take an action based on a new partner being added to the system or updates to a partner account or user record.  Workflows are found under the Setting tab.  Workflows have been set up to notify team members of a new partner sign ups, automatically provide partners with Portal login credentials, assign journeys, update data fields and other activities.  The Channel Programs team maintains the workflows.
 4. Training courses and exams are available for partners in the Portal.  The courses are maintained by Field Enablement and Channel Programs.  Once the GitLab LXP is rolled out to partners, partners will access the LXP through the portal via single sign-on.
 5. Journeys are set up to assign a partner a set of specific tasks and activities.  For example, new partner users are assigned an onboarding Journey.  Journeys are set up and maintained by the Channel Programs team.
@@ -226,7 +226,7 @@ Once access is granted, you will get an email from dev.gitlab.org “Account was
 
 **<span style="text-decoration:underline;">Logging in to license.gitlab.com</span>**
 
-Once your password is set at dev.gitlab.org, go to license.gitlab.com. A login screen will appear, click the green button on the left, “Login with Gitlab” and use your email and the password you just created for dev.gitlab.org.
+Once your password is set at dev.gitlab.org, go to license.gitlab.com. A login screen will appear, click the green button on the left, “Login with GitLab” and use your email and the password you just created for dev.gitlab.org.
 
 **<span style="text-decoration:underline;">Set Up Google Form Spreadsheet Notifications</span>**
 
@@ -356,7 +356,7 @@ The Channel Programs and Enablement team is responsible for “To Partner” Com
 
 Partners are a huge part of the GitLab go-to-market strategy.  Teams managing our product, pricing, or process changes should always consider our Partners as it puts them in the best position to be successful with GitLab customers.
 
-GitLab is contractually obligated to provide Partners with **30 days notification** of any pricing, product, or program changes. Product changes to tiering, terms, or EOA must accommodate the 30-day notice before announcing to GitLab customers, so Partners are prepared for changes and to help address customer questions/concerns. The 30 day notification period allows Partners to make required changes to pricelists, company websites, and collateral.   As you create GTM and communication plans, please add extra time for the request to the Channel Program team and account for the required 30-day notification.  
+GitLab is contractually obligated to provide Partners with **30 days notification** of any pricing, product, or program changes. Product changes to tiering, terms, or EOA must accommodate the 30-day notice before announcing to GitLab customers, so Partners are prepared for changes and to help address customer questions/concerns. The 30 day notification period allows Partners to make required changes to pricelists, company websites, and collateral.   As you create GTM and communication plans, please add extra time for the request to the Channel Program team and account for the required 30-day notification.
 
 If you have something to be communicated to our Partners, kindly submit a **Channel Partner Announcement request** using [this template](https://gitlab.com/gitlab-com/channel/channels/-/blob/master/.gitlab/issue_templates/Channel%20Partner%20Communication%20Request.md).
 
@@ -371,11 +371,11 @@ NOD is used to communicate to Partners via targeted emails and the Partner Flash
   \
 **Partner Flash is 100% Personalized**- Partners can choose topic preferences and delivery cadence. They can opt to receive the newsletter Daily, Weekly, Bi-Weekly or Monthly. Partners can also access Partner Flash via the “My News” tab in the Partner Portal.
 
-**Everyone can Contribute!** - Anyone at GitLab can create a story or article for the newsletter! If you would like to be a contributor,[click here](https://partnerflash.gitlab.com/registration/admin/personal_profile) to fill out the request form.  Once approved, navigate to the NOD **Home Page** to access training and helpful tips.  
+**Everyone can Contribute!** - Anyone at GitLab can create a story or article for the newsletter! If you would like to be a contributor,[click here](https://partnerflash.gitlab.com/registration/admin/personal_profile) to fill out the request form.  Once approved, navigate to the NOD **Home Page** to access training and helpful tips.
 
 **Partner communication resources and standard delivery dates.**
 
-- **Partner Flash Newsletter** - delivered to Partner users on the **1st Thursday of the month** (occasional exceptions due to holidays or other considerations.) A Partner can elect to receive the newsletter daily, weekly, or bi-weekly. The majority of our Partners receive the newsletter Monthly. If you want to contribute an article, kindly submit it three days before publication.  
+- **Partner Flash Newsletter** - delivered to Partner users on the **1st Thursday of the month** (occasional exceptions due to holidays or other considerations.) A Partner can elect to receive the newsletter daily, weekly, or bi-weekly. The majority of our Partners receive the newsletter Monthly. If you want to contribute an article, kindly submit it three days before publication.
 - **Partner Webcast series** - At times, Channel Programs or Channel Leadership might host a Partner webcast to announce a program change or essential updates.  Channel Marketing hosts a quarterly Marketing Webcast; other Channel facing teams might elect to host a Webcast for our Partners.
 - **Partner Portal Notifications** - these alerts can go to all users or a subset; we do not find this a practical stand-alone communication vehicle. Using this notification to augment one of the above resources is more effective.
 - **Special Notifications via email** - using NOD we can create a one-off notification if there is an urgent need to communicate out-of-cycle announcements or send surveys or Partner SKO/Summit notifications.  \
@@ -383,7 +383,7 @@ NOD is used to communicate to Partners via targeted emails and the Partner Flash
 
 **How to get a hold of us:** If you have completed the [engagement process approvals](/handbook/sales/channel/channel-programs-ops/#channel-program-engagement-process) or have any questions regarding if/how something should be communicated, please reach out to us via the **#partner-programs-ops** Slack channel.
 
-**Partner Flash access** - anyone at GitLab can receive Partner Flash or contribute an article.  
+**Partner Flash access** - anyone at GitLab can receive Partner Flash or contribute an article.
 
 - **Partners** - automatically signed up when approved and authorized via the Partner Portal.  If a Partner believes they do not have access please provide the user detail: first and last name, email address, and company name in the**#partner-programs-ops** Slack channel, and we will investigate.  Typically we find the Partner has inadvertently opted out of communications.  \
 
@@ -393,7 +393,7 @@ NOD is used to communicate to Partners via targeted emails and the Partner Flash
     - Select GitLab employee in the drop-down for "Company Type".
     - Once registered, you will receive an email with instructions on how to edit your communication preferences. \
 
-- **Become a Contributor**- If you want to be a contributor,[click here](https://partnerflash.gitlab.com/registration/admin/personal_profile) and fill out the request form.  Once approved, navigate to the NOD **Home Page**or [click here](https://docs.google.com/presentation/d/1YMMQGTk1fhEDLtFAHkrMeIsIbHIYLX3O/edit?usp=sharing&ouid=109735377270454778513&rtpof=true&sd=true) to access training and helpful tips.  
+- **Become a Contributor**- If you want to be a contributor,[click here](https://partnerflash.gitlab.com/registration/admin/personal_profile) and fill out the request form.  Once approved, navigate to the NOD **Home Page**or [click here](https://docs.google.com/presentation/d/1YMMQGTk1fhEDLtFAHkrMeIsIbHIYLX3O/edit?usp=sharing&ouid=109735377270454778513&rtpof=true&sd=true) to access training and helpful tips.
 
 
 ## **Partner Flash Newsletter**
@@ -583,7 +583,7 @@ Qualitative Success Metrics
     - Internal Channel Enablement- label for issues that are focused on Internal Channel Enablement issues. DRI will be defined in the intro of the issue
     - Channel Handbook Needs- label for issues that are about pending or planned Channel Handbook changes. DRI will be defined in the intro of the issue
     - QBR - Requests from Sales QBRs
-- **Priority Weighting (using Eisenhower matrix and weighted tabs in Gitlab)**
+- **Priority Weighting (using Eisenhower matrix and weighted tabs in GitLab)**
     - WEIGHT 1 ~ Channel Priority:1 - Home runs (high value to GitLab and high likelihood of success that align to Sales & Channel OKRs) and committed to completion within stated milestones. This category will be limited because not everything can be a priority. These are both URGENT & IMPORTANT
     - WEIGHT 2 ~ Channel Priority:2 - Big Bets (high value to GitLab, lower time urgency, longer dependencies or lower likelihood of success) within stated milestones. These are not urgent but IMPORTANT to our success
     - WEIGHT 3 - Channel Priority:3 - Small wins within stated milestones. These are URGENT but not strategically important. Delegate or push out

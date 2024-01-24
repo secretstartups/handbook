@@ -108,7 +108,7 @@ Read more about how we've created these dedicated experience groups [here.](http
 
 ### How we work
 
-We follow the [GitLab workflow](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline) with [additional dates](/handbook/product/ux/stage-group-ux-strategy/sec/) and actions that directly tie to our work.
+We follow the [GitLab workflow](/handbook/engineering/workflow/#product-development-timeline) with [additional dates](/handbook/product/ux/stage-group-ux-strategy/sec/) and actions that directly tie to our work.
 
 For UX-related issues or MRs that involve all groups across Secure and Govern (if you're unsure who the DRI is), we encourage transparency and collaboration by using `@gitlab-com/gitlab-ux/secure-govern-ux`.
 

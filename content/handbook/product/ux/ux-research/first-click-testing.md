@@ -4,7 +4,7 @@ title: "First click testing for navigation"
 
 ## What is first click testing?
 
-First click testing is used to determine if participants are able to find something they're looking for in an interface within their first click. [Research has shown](http://webusability.com/firstclick-usability-testing/) that assessing the first click is important because it is much more likely that a user will succeed in completing a task if they're able to click on the right path initially. First click testing will be able to tell you if participants are clicking the intended area for a given scenario. If they don’t, you can learn where else they would click, and why.
+First click testing is used to determine if participants are able to find something they're looking for in an interface within their first click. Assessing the first click is important because it is much more likely that a user will succeed in completing a task if they're able to click on the right path initially. First click testing will be able to tell you if participants are clicking the intended area for a given scenario. If they don’t, you can learn where else they would click, and why.
 
 ## Why should I use this method?
 

@@ -11,7 +11,7 @@ To identify contributions from JiHu, the `~"JiHu contribution"` label is automat
 
 JiHu enablement efficiency age and review metrics are publicly accessible in this [dashboard](https://app.periscopedata.com/shared/f7af38e3-0cea-4219-a5d3-6f6b25f10244?).
 
-The [Engineering Productivity](https://about.gitlab.com/handbook/engineering/quality/engineering-productivity/) team is the DRI for JiHu Engineering enablement efficiency tooling and metrics.
+The [Engineering Productivity](/handbook/engineering/quality/engineering-productivity/) team is the DRI for JiHu Engineering enablement efficiency tooling and metrics.
 
 ### Guidelines for upstream contributions
 
@@ -39,11 +39,11 @@ Example upstream planning issue: TBD
 Bigger product feature contributions should follow GitLab
 [iteration strategies](/handbook/product/product-processes/#iteration-strategies).
 
-[Iteration training](https://about.gitlab.com/handbook/engineering/development/onboarding/manager/#iteration-training) is available to coach on GitLab's value of iteration. This can be helpful to understand the expectations of GitLab product teams for feature iteration.
+[Iteration training](/handbook/engineering/development/onboarding/manager/#iteration-training) is available to coach on GitLab's value of iteration. This can be helpful to understand the expectations of GitLab product teams for feature iteration.
 
 Not every features can follow the same strategy, but the first strategy we
 try should be [crafting the minimal viable change](/handbook/product/product-processes/#crafting-an-mvc), and for creating
-merge requests, always try to [keep merge requests small](https://about.gitlab.com/handbook/engineering/workflow/iteration/#how-to-keep-a-merge-request-small).
+merge requests, always try to [keep merge requests small](/handbook/engineering/workflow/iteration/#how-to-keep-a-merge-request-small).
 
 In the above guidelines to keep merge requests small, we mentioned:
 
@@ -62,7 +62,7 @@ both horizontally and vertically:
 | Feature | Merge requests (not an exhaustive list) | Slicing |
 | --- | --- | --- |
 | [GitLab Insights](https://gitlab.com/groups/gitlab-org/-/epics/725) | <ul><li>[Introduce the Gitlab::Insights framework](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/9912)</li><li>[Introduce the Insights controllers](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/9776)</li><li>[Insights frontend](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/9856)</li><li>[Move to supporting multiple charts per page for Insights](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/10516)</li></ul> | Mixture with both. Horizontally for the base and vertically on top of it
-| [Filter search results by state](https://gitlab.com/groups/gitlab-org/-/epics/4293) | <ul><li>[Search UI add issue scope results filtering by state](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/39881)</li><li>[Add issues/merge_requests filtering by state for search API](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/41989)</li></ul> | Vertically that each merge request shipped a standalone feature
+| [Filter search results by state](https://gitlab.com/groups/gitlab-org/-/epics/4293) | <ul><li>[Search UI add issue scope results filtering by state](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/39881)</li><li>[Add issues/merge_requests filtering by state for search API](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/41989)</li></ul> | Vertically that each merge request shipped a standalone feature |
 
 ### Guidelines for proprietary and upstream contributions
 

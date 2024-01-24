@@ -3,11 +3,11 @@ title: "On-Call"
 ---
 
 {{% alert color="warning" %}}
-If you're a GitLab team member and are looking to alert Reliability Engineering about an availability issue with GitLab.com, please find quick instructions to report an incident here: [Reporting an Incident](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#reporting-an-incident).
+If you're a GitLab team member and are looking to alert Reliability Engineering about an availability issue with GitLab.com, please find quick instructions to report an incident here: [Reporting an Incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident).
 {{% /alert %}}
 
 {{% alert color="warning" %}}
-If you're a GitLab team member looking for who is currently the Engineer On Call (EOC), please see the [Who is the Current EOC?](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#who-is-the-current-eoc) section.
+If you're a GitLab team member looking for who is currently the Engineer On Call (EOC), please see the [Who is the Current EOC?](/handbook/engineering/infrastructure/incident-management/#who-is-the-current-eoc) section.
 {{% /alert %}}
 
 {{% alert color="warning" %}}
@@ -40,12 +40,12 @@ If you're a GitLab team member looking for help with a security problem, please 
 
 ### Infrastructure Engineer On-Call
 
-The Infrastructure department's Reliability Engineering teams provide 24x7 on-call coverage for the production environment. For details, please see [incident-management](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/).
+The Infrastructure department's Reliability Engineering teams provide 24x7 on-call coverage for the production environment. For details, please see [incident-management](/handbook/engineering/infrastructure/incident-management/).
 
 ### Engineering Incident Manager
 
-- Incident manager rotation is staffed by certain [team members in the Development and Infrastructure departments](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/incident-manager-onboarding/).
-- More information regarding the Incident Manager role, including shift schedules, responsibilities can be found in the [Incident Manager on-boarding page](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/incident-manager-onboarding/).
+- Incident manager rotation is staffed by certain [team members in the Development and Infrastructure departments](/handbook/engineering/infrastructure/incident-management/incident-manager-onboarding/).
+- More information regarding the Incident Manager role, including shift schedules, responsibilities can be found in the [Incident Manager on-boarding page](/handbook/engineering/infrastructure/incident-management/incident-manager-onboarding/).
 
 ### Development Team On-Call Rotation
 
@@ -55,8 +55,8 @@ The Infrastructure department's Reliability Engineering teams provide 24x7 on-ca
 - First response SLO is 15 minutes. If no response within the first 5 minutes, the infrastructure team will call the engineer's phone number on the schedule sheet.
 - Development engineers do 4-hour shifts.
 - Engineering managers do monthly shifts as scheduling coordinators.
-- Check out [process description and on-call workflow](https://about.gitlab.com/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html) when escalating GitLab.com operational issue(s).
-- Check out more detail for [general information](https://about.gitlab.com/handbook/engineering/development/processes/Infra-Dev-Escalation/) of the escalation process.
+- Check out [process description and on-call workflow](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html) when escalating GitLab.com operational issue(s).
+- Check out more detail for [general information](/handbook/engineering/development/processes/Infra-Dev-Escalation/) of the escalation process.
 
 ## Security Team On-Call Rotation
 
@@ -78,14 +78,13 @@ The Infrastructure department's Reliability Engineering teams provide 24x7 on-ca
 - In the event of a high-impact security incident to GitLab, the Security Manager on-call will be engaged to assist with cross-team/department coordination.
 
 
-## Quality Team On-Call Rotation
+## Test Platform Team On-Call Rotation
 
-- Quality department's on-call do not include work outside GitLab's normal business hours. The process is defined on our [pipeline on-call rotation](https://about.gitlab.com/engineering/quality/quality-engineering/oncall-rotation) page.
-- The rotation is on a weekly basis separated out into 2 timezones APAC/EMEA and AMER and each timezone has a primary and secondary on-call DRI.
-- The primary DRI is responsible for reporting and resolving triage activities while the secondary DRI is involved to prepare for taking over as primary in the following week.
+- Test Platform sub-department's on-call do not include work outside GitLab's normal business hours. The process is defined on our [pipeline on-call rotation](https://about.gitlab.com/engineering/infrastructure/test-platform/oncall-rotation) page.
+- The rotation is on a weekly basis across 3 timezones (APAC, EMEA, AMER) and triage activities happen during each team member's working hours.
 - This on-call rotation is to ensure accurate and stable test pipeline results that directly affects our continuous release process.
-- The list of pipelines which are monitored are defined on our [pipeline](https://about.gitlab.com/engineering/quality/quality-engineering/debugging-qa-test-failures/#qa-test-pipelines) page.
-- The schedule and roster is defined on our [schedule](https://about.gitlab.com/engineering/quality/quality-engineering/oncall-rotation/#schedule) page.
+- The list of pipelines which are monitored are defined on our [pipeline](https://about.gitlab.com/engineering/infrastructure/test-platform/debugging-qa-test-failures/#qa-test-pipelines) page.
+- The schedule and roster is defined on our [schedule](https://about.gitlab.com/engineering/infrastructure/test-platform/oncall-rotation/#schedule) page.
 
 ## PagerDuty
 

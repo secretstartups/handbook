@@ -157,6 +157,7 @@ To reach the Field Enablement team on Slack, use #field-enablement-team
         - [Sales Training Resources](/handbook/sales/training/)
         - [Technical Questions for Sales](/handbook/sales/training/technical-questions-for-sales/)
         - [Level Up: Learning & Development Platform](https://levelup.gitlab.com/learn/dashboard)
+    - [Executive Sponsorship Program](/content/handbook/sales/field-operations/field-enablement/executive-sponsorship-program)
 
 ## Field Enablement groups, projects, and labels
 

@@ -34,7 +34,7 @@ On a quarterly cycle, the UX Researcher will create a research planning issue th
 
 The issue with all known potential research issues should be ready for prioritization two weeks before the start of the quarter.
 
-Throughout the quarter, the UX Researcher will use the research planning issue as a single source of truth and will communicate the status of prioritized research projects and link dedicated research project issues. For [example](https://gitlab.com/gitlab-org/ux-research/-/issues/1716),
+Throughout the quarter, the UX Researcher will use the research planning issue as a single source of truth and will communicate the status of prioritized research projects and link dedicated research project issues ([see example research planning issue](https://gitlab.com/gitlab-org/ux-research/-/issues/1716)).
 
 ![sharesettings](example_research_issue.png)
 

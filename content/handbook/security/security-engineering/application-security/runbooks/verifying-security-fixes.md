@@ -72,7 +72,7 @@ Our default credit will be `This vulnerability was reported by a customer` for c
 
 ## Updating CVEs
 
-To update a CVE after it has been published, open a merge request in [https://gitlab.com/gitlab-org/secure/vulnerability-research/advisories/cves-private] which modifies `published/CVE-YYYY-IDIDID.json`.
+To update a CVE after it has been published, open a merge request in [https://gitlab.com/gitlab-org/cves] which modifies `published/CVE-YYYY-IDIDID.json`.
 Ping `gitlab-org/secure/vulnerability-research` to review and merge. The Vulnerability Research team will then handle updating the CVE with MITRE and/or NVD.
 
 [Omnibus GitLab Mirror]: https://gitlab.com/gitlab-org/build/omnibus-gitlab-mirror/
