@@ -24,7 +24,7 @@ description: "Test Platform Sub-Department"
 
 ## Mission
 
-The Test Platform sub-department's mission is to be a world class team that enables successful development and deployment of GitLab software applications with [kaizen](https://www.techtarget.com/searcherp/definition/kaizen-or-continuous-improvement) workflow efficiency, reliability, and productivity.
+GitLab's [Quality is everyone's responsibility](https://handbook.gitlab.com/handbook/engineering/development/principles/#quality). The Test Platform sub-department's mission is to be a world class team that enables successful development and deployment of high quality GitLab software applications with [kaizen](https://www.techtarget.com/searcherp/definition/kaizen-or-continuous-improvement) workflow efficiency, reliability, productivity. 
 
 The Test Platform sub-department does this by focusing on: 
 
@@ -35,13 +35,38 @@ The Test Platform sub-department does this by focusing on:
 
 ## Vision
 
-The Test Platform sub-department vision is to focus on customer satisfaction and enable GitLab to deliver faster and efficiently support Gitlab’s principle of [Quality is everyone’s responsibility](https://about.gitlab.com/handbook/engineering/quality/#our-principles). 
+The Test Platform sub-department vision is to focus on customer satisfaction and enable GitLab to deliver faster and efficiently by supporting Gitlab’s principle of Quality is everyone’s responsibility. 
 
 Integral part of this vision, we focus on:
 
 1. Test Tooling: Build tools and frameworks that enable GitLab Engineering & Product teams to ship high-quality & reliable products to our customers efficiently. 
 1. Reliable platform: This includes monitoring the platform for performance issues, implementing security measures, and conducting capacity planning to ensure that the platform can handle the expected load.
 1. Technical Support and Expertise: By providing technical support and expertise to development teams, test platform teams can help to solve complex technical challenges and ensure that applications are built with utmost quality.
+
+## Our principles
+
+- **Foster an environment where Quality is Everyone's responsibility.**
+    - We enable product teams in baking quality early in the product development flow process.
+    - We are a sounding-board for our end users by making feedback known to product teams.
+    - We are a champion of good software design, testing practices and bug prevention strategies.
+- **Improve test coverage and leverage tests at all [levels](https://docs.gitlab.com/ee/development/testing_guide/testing_levels.html).**
+    - We work to ensure that the right tests run at the right places.
+    - We enable product teams' awareness of their test coverage with fast, clear and actionable reporting.
+    - We continuously refine test efficiency, refactor duplicate coverage, and increase stability.
+- **Make Engineering teams efficient, engaged and productive.**
+    - We build automated solutions to improve workflow efficiency and productivity.
+    - We ensure reliability in our tooling and tests.
+    - We ensure that continuous integration pipelines are efficient, stable with optimal coverage.
+- **Metrics driven.**
+    - We provide data driven insights into defects, test stability and efficiency.
+    - We ensure the data is actionable and is available transparently to the company and the wider community.
+    - We use data to make informative next steps and continuously improve with metrics-driven optimizations.
+
+## FY25 Direction
+
+GitLab has a [Three-Year Strategy](/handbook/company/strategy/). Our [Yearlies]((/handbook/company/yearlies/) connect our 3 year strategy to our shorter-term quarterly [Objectives and Key Results (OKRs)](https://handbook.gitlab.com/handbook/engineering/infrastructure-quality/okrs/). The sub-department direction is accomplished through these objectives (OKRs).
+
+Our focus is to support our FY25 Yearlies. They can be found in the internal handbook: https://internal.gitlab.com/handbook/company/yearlies/#fy25-yearlies.
 
 ### Self-Managed Excellence
 
