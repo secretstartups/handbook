@@ -464,6 +464,39 @@ For embedding in the handbook, views will embed better than dashboards will, so 
 
 Each workbook with views that are meant to be embedded in the public handbook must be tagged with the `Public` tag. This will ensure that the workbook, and their datasources are copied to the public GitLab Tableau site.  Only Creators and Explorers who can access the workbook can tag the workbook, see the Tableau [documentation](https://help.tableau.com/current/pro/desktop/en-us/tags.htm#add-tags) for more information.  The individual tagging must understand if the data should be shared publicly and if there is any question please work with the BI team to check and apply the tag.  Removing this tag from a workbook will delete the workbook from the public GitLab Tableau site, this will cause handbook pages trying to load a view from that workbook to display an error. It should be noted that it can currently take up to 48 hours for the synchronized workbook to show up in the list of [views available for embedding](/handbook/business-technology/data-team/platform/tableau/embed-demo/#views-availble-for-public-embedding).
 
+### Workbook Naming Convention
+
+When publishing workbooks to our Tableau Cloud site for the first time please name the workbook with their intended / official title, so that the resulting URL will capture just this title (this will allow us to keep the same URL when the workbook is published to the Ad-hoc or Production spaces):
+
+![](images/naming_tableau_workbook.png)
+
+![](images/workbook_url.png)
+
+Publishing to the [Development](https://10az.online.tableau.com/#/site/gitlab/projects/300844) project:
+For all workbooks published to the Development project please prefix them with DRAFT to indicate that they are in development mode and not a workbook that has been peer reviewed and intended to serve as the single source of truth (SSOT) for a use case. We will add the DRAFT prefix only **after** the workbook is published in this space. Once the workbook has been published please edit the title by navigating to your workbook and clicking on the ellipse symbol (on the right) to select the **Rename** option. 
+
+![](images/rename_workbook_online.png)
+
+Add the DRAFT prefix to your workbook title and click on the _Rename_ button to confirm this change.
+
+![](images/add_draft_prefix.png)
+
+Publishing to the [Ad-hoc](https://10az.online.tableau.com/#/site/gitlab/projects/361929) or [Production](https://10az.online.tableau.com/#/site/gitlab/projects/361859) project:
+
+When publishing workbooks to the Ad-hoc or Production project, if the workbook is being published for the first time, please select **Move** and then rename the workbook to have the DRAFT prefix removed.
+
+The BI team will leverage the Tags functionality available in Tableau Cloud to better organize workbooks by department. For example, this workbook below is assigned the _Data Team_ tag.
+
+![](images/tags_example.png)
+
+Applying tags allows us to provide more information on the workbook, so that we can easily discern them by their business function / department. To filter workbooks by their tags, please click on the search box in the upper right-hand corner of the project. Under **Content types** select **Workbooks**:
+
+![](images/search_tags.png)
+
+Once in the Workbooks section, click on the **Tags** dropdown to filter content by tags:
+
+![](images/tags_example.png)
+
 ### Performance Indicators YML
 
 The `data/performance_indicators.yml` file in the handbook repositories is the basis for a system that automatically generates handbook pages with performance indicator content on them.  The structure can take a list of charts and each chart can take a list of filters and parameters.  Only charts not tagged as public should be included on internal handbook pages. The following is an example of how to add the needed information to the data file:
