@@ -24,8 +24,15 @@ description: "Test Platform Sub-Department"
 
 ## Mission
 
-The Test Platform sub-department's mission is to be a world class team that enables successful development and deployment of GitLab software applications with [kaizen](https://www.techtarget.com/searcherp/definition/kaizen-or-continuous-improvement) workflow efficiency, reliability, and productivity
-  
+The Test Platform sub-department's mission is to be a world class team that enables successful development and deployment of GitLab software applications with [kaizen](https://www.techtarget.com/searcherp/definition/kaizen-or-continuous-improvement) workflow efficiency, reliability, and productivity.
+
+The Test Platform sub-department does this by focusing on: 
+
+- Innovative test architecture, efficiency, and customer results while delivering impact to the company's critical business initiatives. 
+- Broadening our lead in ensuring self-managed excellence, improve deployment confidence, drive visibility and actionability of test results, and expand our Architecture focus. 
+- Enabling development and deployment at scale.
+- Fostering a culture of quality evangelism, promoting testing best practices across GitLab.
+
 ## Vision
 
 The Test Platform sub-department comprises the following team:
@@ -33,13 +40,6 @@ The Test Platform sub-department comprises the following team:
 1. Test Tooling: Build tools and frameworks that enable GitLab Engineering & Product teams to ship high-quality & reliable products to our customers efficiently. 
 1. Reliable platform: This includes monitoring the platform for performance issues, implementing security measures, and conducting capacity planning to ensure that the platform can handle the expected load.
 1. Technical Support and Expertise: By providing technical support and expertise to development teams, test platform teams can help to solve complex technical challenges and ensure that applications are built with utmost quality.
-
-Team mission is to:
-
-- Continue to be focused on innovative test architecture, efficiency, and customer results while delivering impact to the company's bottomline via alignment to the [top cross-functional initiatives](/handbook/company/team/structure/working-groups/#top-cross-functional-initiatives). 
-- Broaden our lead in ensuring self-managed excellence, improve deployment confidence, drive visibility and actionability of test results, and expand our Quality Architecture focus. 
-- Continue momentum on enabling development and deployment at scale.
-- Foster a culture of quality evangelism, promoting testing best practices across Gitlab teams.
 
 ### Self-Managed Excellence
 
