@@ -187,7 +187,9 @@ section-dir/
 |- leaf-page3.md
 ```
 
-If you rename or move a page, you can [add an alias to redirect]({{< ref "metadata.md#aliases" >}}).
+### Moving, deleting, or renaming a page
+
+If you delete, rename, or move a page, you can [add an alias to redirect]({{< ref "metadata.md#aliases" >}}).
 
 ## Failing pipelines
 
