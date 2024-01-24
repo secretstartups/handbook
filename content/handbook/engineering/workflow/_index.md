@@ -89,7 +89,7 @@ If a broken `master` is blocking your team (such as creating a security release)
 
 If a failed test can be traced to a group through its `feature_category` metadata, the broken `master` incident associated with that test will be automatically labeled with this group as the triage DRI through [this line of code](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/5ad6a19bd1b37a304fbd02701a002f4dd83e1fcf/triage/triage/pipeline_failure/incident_creator.rb#L23). In addition, Slack notifications will be posted to the group's Slack channel to notify them about ongoing incidents. The triage DRI is responsible for monitoring, identifying, and communicating the incident. The [Engineering Productivity team](/handbook/engineering/infrastructure/engineering-productivity/) is the backup triage DRI if the failure cannot be traced to a group, or if the current triage DRI requires assistance.
 
-For now, all broken master incidents are also reported in the `#master-broken` channel, in addition to the triage DRI's group channel. In the future, we may consider removing alerts in the `#master-broken` channel if a triage DRI group is identified to ensure this workflow is scalable.
+When an incident is attributed to a group, a notification will be sent to the triage DRI's group channel. When an incident cannot be attributed, it will be posted in the `#master-broken` channel seeking attention from Engineering Productivity team.
 
 #### Triage DRI Responsibilities
 
@@ -110,16 +110,15 @@ For now, all broken master incidents are also reported in the `#master-broken` c
 
 1. Identification
    - Review non-resolved [broken `master` incidents](https://gitlab.com/gitlab-org/quality/engineering-productivity/master-broken-incidents/-/issues) for the same failure. If the broken `master` is related to a test failure, [search the spec file in the issue search](https://gitlab.com/gitlab-org/gitlab/-/issues?sort=created_desc&state=opened&label_name[]=failure::flaky-test) to see if there's a known `failure::flaky-test` issue.
-   - Pro-tip: For an initial asssessment of what might have contributed to the failure, triager can try the experimental AI-assisted [root cause analysis](https://docs.gitlab.com/ee/user/ai_features.html#root-cause-analysis) feature by clicking the "Root cause analysis" button on the failed job page.
    - If this incident is **due to non-flaky reasons**, communicate in `#development`, `#backend`, and `#frontend` using the Slack Workflow.
       - Click the "lightning bolt" shortcut icon in the `#master-broken` channel and select `Broadcast Master Broken`, then click `Continue the broadcast`.
       - [Create a revert MR directly](#reverting-a-merge-request) to save some time in case we need to revert down the line.
         - If you are reverting an MR that performs a database migration, you need to follow the [Deployment blockers process](/handbook/engineering/deployments-and-releases/deployments/#deployment-blockers) to prevent the migration from proceeding to deploy and running on staging and production.
         - If the migration is executed in any environments, communicate to the release managers in `#releases` channel and discuss whether it's appropriate to create another migration to roll back the first migration or turn the migration into a no-op by following [Disabling a data migration steps](https://docs.gitlab.com/ee/development/database/deleting_migrations.html#how-to-disable-a-data-migration).
-   - If you identified that `master` fails **for a flaky reason**, and it cannot be reliably reproduced (i.e. running the failing spec locally or retry the failing job):
+   - If you identified that `master` fails **for a flaky reason**, and it cannot be reliably reproduced (i.e. running the failing spec locally or retrying the failing job):
       - [Quarantine](https://docs.gitlab.com/ee/development/testing_guide/flaky_tests.html#quarantined-tests) the failing test to restore pipeline stability within 30 minutes if the flakiness is continuously causing master pipeline incidents.
       - Alternatively, if the failure does not seem disruptive, and you have a fix that you are confident with, submit the fix MR with the ~"master:broken" label to ensure your pipeline is expedited.
-      - If a flaky test issue already exists, add a comment in it with a link to the failed broken master incident and/or failed job.
+      - If a flaky test issue already exists, add a comment in it with a link to the failed broken master incident and/or failed job. We have automation in place to create test failure issues automatically. The issue is named after the spec path, which can be a search keyword.
       - If a flaky test issue doesn't exist, create an issue from the `New issue` button in top-right of the failing job page (that will automatically add a link to the job in the issue), and apply the `Broken Master - Flaky` description template.
       - Add the appropriate labels to the main incident:
 
@@ -170,8 +169,6 @@ For now, all broken master incidents are also reported in the `#master-broken` c
       /label ~"master-broken::job-timeout"
       /label ~"master-broken::undetermined"
       ```
-
-    - When the master-broken is resolved, close the incident.
 1. (Optional) Pre-resolution
    - If the triage DRI believes that there's an easy resolution by either:
       - Reverting a particular merge request.
@@ -180,6 +177,13 @@ For now, all broken master incidents are also reported in the `#master-broken` c
      The triage DRI can create a merge request, assign to any available maintainer, and ping the resolution DRI with a `@username FYI` message.
      Additionally, a message can be posted in `#backend_maintainers` or `#frontend_maintainers` to get a maintainer take a look at the fix ASAP.
    - If the failures occur only in `test-on-gdk` jobs, it's possible to stop those jobs from being added to new pipelines while the cause is being fixed. See the [runbook](https://gitlab.com/gitlab-org/quality/runbooks/-/tree/main/test-on-gdk#disable-the-e2etest-on-gdk-pipeline) for details.
+
+#### Pro-tips for Triage DRI
+1. For an initial assessment of what might have contributed to the failure, we can try the experimental AI-assisted [root cause analysis](https://docs.gitlab.com/ee/user/ai_features.html#root-cause-analysis) feature by clicking the "Root cause analysis" button on the failed job page.
+2. To confirm flakiness, you can use the `@gitlab-bot retry_job <job_id>` or the `@gitlab-bot retry_pipeline <pipeline_id>` command to retry the failed job(s), even if you are not a project maintainer.
+  - **Note**, The `retry_job` command can fail for the following reasons:
+    - Retrying the same job twice with the `retry_job` command will result in a failure message because each failed job can only be retried once.
+    - If there is no response to either of the `retry` commands, you are likely invoking them in non-supported projects. If you'd like to request for the commands to be added to your project, please [make an issue](https://gitlab.com/gitlab-org/quality/triage-ops/-/issues/new) and inform `#g_engineering_productivity`. You are encouraged to self-serve the MR following [this example](https://gitlab.com/gitlab-org/quality/triage-ops/-/merge_requests/2536) and submit it for review for maximum efficiency.
 
 ### Resolution of broken master
 
@@ -211,6 +215,7 @@ If a DRI has not acknowledged or signaled working on a fix, any developer can ta
    reverted / temporary workaround created but the root cause still needs to be
    discovered, the investigation should continue directly in the incident.
 1. Create an [issue](https://gitlab.com/gitlab-org/quality/team-tasks/issues/new) for the [Engineering Productivity team](/handbook/engineering/infrastructure/engineering-productivity/) describing how the broken `master` incident could have been prevented in the Merge Request pipeline.
+1. When resolution steps are completed, close the incident.
 
 #### Responsibilities of authors and maintainers
 
