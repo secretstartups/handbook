@@ -23,7 +23,7 @@ Further details can be found in the [job family description](/job-families/secur
 
 ### Team Members
 
-The Security Logging Team is part of the Security Engineering sub-department. [See GitLab's organizational chart and meet our team members](https://comp-calculator.gitlab.net/org_chart).
+The Security Logging Team is part of the Product Security sub-department. [See GitLab's organizational chart and meet our team members](https://comp-calculator.gitlab.net/org_chart).
 
 ## Team Responsibilities
 
@@ -134,7 +134,7 @@ com/gitlab-com/gl-security/security-operations/infrastructure-security/team-char
 
 ## Security Logging Program Roles and Responsibilities
 
-The following roles and responsibilities are specific to the management and execution of the Security Logging Program which is overall the responsibility of the Security Engineering sub-department.
+The following roles and responsibilities are specific to the management and execution of the Security Logging Program which is overall the responsibility of the Product Security sub-department.
 
 ### Security Logging is responsible for:
 

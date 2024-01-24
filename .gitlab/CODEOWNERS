@@ -488,10 +488,9 @@
 /content/handbook/security/threat-management/ @smanzuik @estrike
 /content/handbook/security/threat-management/red-team/ @cmoberly
 /content/handbook/security/threat-management/identity/ @gitlab-com/gl-security/identity
-/content/handbook/security/security-engineering/ @jritchey
-/content/handbook/security/security-engineering/automation.md  @agroleau
-/content/handbook/security/security-engineering/infrastructure-security.md @joe-dub
-/content/handbook/security/security-engineering/security-logging/ @joe-dub
+/content/handbook/security/product-security/ @jritchey
+/content/handbook/security/product-security/infrastructure-security.md @joe-dub
+/content/handbook/security/product-security/security-logging/ @joe-dub
 
 ^[solutions-architects]
 /content/handbook/customer-success/solutions-architects/ @gitlab-com/sa-leaders
@@ -637,7 +636,7 @@
 /content/handbook/security/security-assurance/security-risk/storm-program/business-impact-analysis.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
 /content/handbook/security/security-assurance/security-risk/third-party-risk-management.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
 /content/handbook/security/security-change-management-procedure.md @joshlemos @jlongo_gitlab @gitlab-com/egroup @gitlab-com/handbook
-/content/handbook/security/security-engineering/application-security/vulnerability-management.md @joshlemos @jritchey @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/product-security/application-security/vulnerability-management.md @joshlemos @jritchey @gitlab-com/egroup @gitlab-com/handbook
 /content/handbook/security/security-operations/secops-oncall.md @joshlemos @jlongo_gitlab @jfuentes2 @gitlab-com/egroup @gitlab-com/handbook
 /content/handbook/security/security-operations/sirt/sec-incident-response.md @joshlemos @jfuentes2 @gitlab-com/egroup @gitlab-com/handbook
 /content/handbook/security/security-operations/sirt/security-incident-communication-plan.md @joshlemos @jfuentes2 @gitlab-com/egroup @gitlab-com/handbook

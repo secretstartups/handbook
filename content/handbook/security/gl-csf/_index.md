@@ -122,5 +122,5 @@ efforts.
 
 [Security Assurance]: {{< ref "security-assurance" >}}
 [Security Architects]:{{< ref "../architecture" >}}
-[InfraSec]: {{< ref "../security-engineering/infrastructure-security" >}}
-[AppSec]: {{< ref "../security-engineering/application-security" >}}
+[InfraSec]: {{< ref "../product-security/infrastructure-security" >}}
+[AppSec]: {{< ref "../product-security/application-security" >}}
