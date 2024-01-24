@@ -5,11 +5,6 @@ title: "Incident Manager On Call onboarding"
 
 
 
-
-
-
-
-
 ## Introduction
 This page is meant to be the starting point for onboarding as an Incident Managers.
 
@@ -83,7 +78,7 @@ or their designees, and the requests require approval from the participants' rep
 
 #### I am an engineer in Development. Am I exempt from the Dev On-call when I am on an Incident Manager rotation?
 
-Yes. If you are an engineer and you are in the Incident Manager rotation, you are exempt from the [Dev On-call](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#eligibility). You will not be expected to sign up for shifts in the monthly Dev On-call scheduling sheet. Please confirm that your email address is listed on the [Development-Team-BE Google Doc](https://drive.google.com/drive/search?q=%22Development-Team-BE%22), so that you are not auto-assigned a shift.
+Yes. If you are an engineer and you are in the Incident Manager rotation, you are exempt from the [Dev On-call](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#eligibility). You will not be expected to sign up for shifts in the monthly Dev On-call scheduling sheet. Please confirm that your email address is listed on the [Development-Team-BE Google Spreadsheet](https://docs.google.com/spreadsheets/d/1rCamrCMZPreBpYwbzFG9zpghtiH3KPiFYu46RbqWjXU/edit#gid=508978589), so that you are not auto-assigned a shift.
 
 #### How do I prioritize Incident Manager duties with my other role expectations?
 When you are scheduled to be Incident Manager On Call, this must by your #1 work priority. However, while it is the priority, there may not be any incidents. When there is not an active incident requiring Incident Manager leadership you maintain your normal work duties.
