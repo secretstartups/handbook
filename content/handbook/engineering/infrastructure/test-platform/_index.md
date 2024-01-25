@@ -64,9 +64,9 @@ Integral part of this vision, we focus on:
 
 ## FY25 Direction
 
-GitLab has a [Three-Year Strategy](/handbook/company/strategy/). Our [Yearlies]((/handbook/company/yearlies/) connect our 3 year strategy to our shorter-term quarterly [Objectives and Key Results (OKRs)](https://handbook.gitlab.com/handbook/engineering/infrastructure-quality/okrs/). The sub-department direction is accomplished through these objectives (OKRs).
+GitLab has a [Three-Year Strategy](/handbook/company/strategy/). Our [Yearlies](/handbook/company/yearlies/) connect our 3 year strategy to our shorter-term quarterly [Objectives and Key Results (OKRs)](https://handbook.gitlab.com/handbook/engineering/infrastructure-quality/okrs/). The sub-department direction is accomplished through these objectives (OKRs).
 
-Our focus is to support our FY25 Yearlies. They can be found in the internal handbook: https://internal.gitlab.com/handbook/company/yearlies/#fy25-yearlies.
+Our focus is to support our FY25 Yearlies. They can be found in the [internal handbook](https://internal.gitlab.com/handbook/company/yearlies/#fy25-yearlies).
 
 ## Areas of Responsibility
 
@@ -114,11 +114,13 @@ Here is an [overview](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/404
 
 ### Open roles
 
-Currently we dont ahve any open roles. Please check back later in [our jobs page](https://boards.greenhouse.io/gitlab) for any openings.
+Currently we dont have any open roles. Please check back later in [our jobs page](https://boards.greenhouse.io/gitlab) for any openings.
 
 ## Team Structure 
 
-Infrastructure Department structure is documented [here](/handbook/engineering/infrastructure/#organization-structure) 
+Infrastructure Department structure is documented [here](/handbook/engineering/infrastructure/#organization-structure).
+
+#### Test Platform sub-department structure:
 
 ```mermaid
 graph TD
@@ -145,28 +147,23 @@ Feel free to reach out to us by opening an issue on the [Quality Team Tasks proj
 
 ## Team Members
 
-Test Platform sub-department has three teams - `Test and Tools Infrastructure team`, `Self-Managed Platform team`, and `Test Engineering team`.
-
 ### Management team
 
 {{< team-by-manager-role role="Interim Director, Test Platform" team="Manager" >}}
 
 ### Individual contributors
 
-
-The following people are members of the Test and Tools Infrastructure team:
+The following people are members of the [Test and Tools Infrastructure team](test-and-tools-infrastructure-team):
 
 {{< team-by-manager-slug "ghosh-abhinaba" >}}
 
-The following people are members of the Self-Managed Platform team:
+The following people are members of the [Self-Managed Platform team](self-managed-platform-team):
 
 {{< team-by-manager-slug "ksvoboda" >}}
 
-The following people are members of the Test Engineering team:
+The following people are members of the [Test Engineering team](test-engineering-team):
 
 {{< team-by-manager-slug "kkolpakova" >}}
-
-
 
 ## How we Work
 
