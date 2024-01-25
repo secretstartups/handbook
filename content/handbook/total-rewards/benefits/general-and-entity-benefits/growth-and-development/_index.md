@@ -227,7 +227,7 @@ Crucial Conversations charges per-learner to deliver this content. Each license 
 1. The L&D team will assess interest/team need and organize cohorts based on this Google form. The team will contact you to confirm your availability before signing you up for a cohort.
 1. The L&D team will open a G&D benefit issue and tag you in the issue. Please follow instructions in the issue to obtain manager approval.
 
-The L&D and Total Rewards teams will collaborate to purchase the course license on your behalf and the cost will count towwards your Growth and Development budget. Please plan to complete the Crucial Conversations self-paced training and attend at least 4 live training sessions within 3 months of starting the training.
+The L&D and Total Rewards teams will collaborate to purchase the course license on your behalf and the cost will count towards your Growth and Development budget. Please plan to complete the Crucial Conversations self-paced training and attend at least 4 live training sessions within 3 months of starting the training.
 
 ### Mentorship
 
