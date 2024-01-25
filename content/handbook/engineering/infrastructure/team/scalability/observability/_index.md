@@ -25,6 +25,48 @@ The following people are members of the Scalability:Observability team:
 
 The team is located all over the world in [different timezones](https://timezonewizard.com/p4-6e9).
 
+## Responsibilities and topics
+
+This is an overview of topics we cover to help us reflect on and learn about our areas of ownership, duties, products and services since the team got created when merging Scalability:Projections and Reliability:Observability at the end of 2023.
+
+1. [Monitoring](https://gitlab.com/gitlab-com/runbooks/blob/e00eeb59937a9043c5db04314a35acb05c4e9288/docs/monitoring/README.md#L1)
+   1. Metrics stack
+      1. [Thanos](https://gitlab.com/gitlab-com/runbooks/blob/e00eeb59937a9043c5db04314a35acb05c4e9288/docs/thanos/README.md#L1)
+      1. [Thanos readiness review (03/2023)](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/thanos/overview.md)
+      1. We are [moving towards Grafana Mimir](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/1107), also see [Mimir runbooks](https://gitlab.com/gitlab-com/runbooks/blob/e00eeb59937a9043c5db04314a35acb05c4e9288/docs/mimir/README.md#L1)
+   1. Logging stack
+      1. In use: [ELK Stack](https://gitlab.com/gitlab-com/runbooks/blob/e00eeb59937a9043c5db04314a35acb05c4e9288/docs/logging/README.md#L1)
+      1. Potential upcoming project: [Loki](https://gitlab.com/gitlab-com/runbooks/blob/e00eeb59937a9043c5db04314a35acb05c4e9288/docs/loki/README.md#L1)
+1. [Error budgets](/handbook/engineering/infrastructure/team/scalability/observability/error_budgets.html)
+   1. Ownership of concept and implementation
+   1. Delivery of monthly error budget report
+1. [Capacity planning](/handbook/engineering/infrastructure/team/scalability/observability/capacity_planning.html)
+   1. [Triage rotation for .com](/handbook/engineering/infrastructure/capacity-planning/#gitlabcom-capacity-planning)
+   1. [Operational aspects for GitLab Dedicated capacity planning](https://docs.gitlab.com/ee/architecture/blueprints/capacity_planning/)
+   1. Developing [Tamland](https://gitlab.com/gitlab-com/gl-infra/tamland), the forecasting tool
+   1. [Capacity reporting for GitLab Dedicated](https://gitlab.com/gitlab-com/gl-infra/capacity-planning-trackers/gitlab-dedicated)
+1. [Service Maturity model][service maturity model] which covers GitLab.com's production services.
+1. [GitLab.com availability](/handbook/engineering/monitoring/): Provide underlying data and aggregate numbers
+1. SRE oncall rotation
+
+### Indicators
+
+The group is an owner of several performance indicators that roll up to the Infrastructure department indicators:
+
+1. [Service Maturity model][service maturity model] which covers GitLab.com's production services.
+1. The forecasting [project named Tamland](/handbook/engineering/infrastructure/team/scalability/observability/tamland.html) which generates capacity warnings to prevent incidents.
+
+These are combined to enable us to better prioritize team projects.
+
+An overly simplified example of how these indicators might be used, in no particular order:
+
+* Service Maturity - provides detail on how trustworthy the data we received from observability stack in relation to the service; the lower the level the more focus we need to improve the service observability
+* Tamland reports - Provides a forecast for a specific service
+
+Between these different signals, we have a relatively (im)precise view into the past, present and future to help us prioritise scaling needs for GitLab.com.
+
+[service maturity model]: /handbook/engineering/infrastructure/service-maturity-model/
+
 ## How we work
 
 ### Updates in Slack
