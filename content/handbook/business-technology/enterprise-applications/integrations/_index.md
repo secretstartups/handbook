@@ -11,33 +11,35 @@ title: "Enterprise Applications Integrations"
 
 ## Who are we?
 
-### Dennis  - Senior Integrations Engineer
+### Dennis Griffin - Senior Integrations Engineer
 
-GitLab handle: [@dgriffin4](https://gitlab.com/dgriffin4)
+- GitLab handle: [@dgriffin4](https://gitlab.com/dgriffin4)
 
-Slack handle: [@dgriffin4](https://gitlab.slack.com/team/U052E2AGY3F)
-
-Job Family: [Integrations Engineer](/job-families/finance/integrations-engineer/#senior-integrations-engineer)
 
 ### Karuna Singh - Integrations Engineer
 
-GitLab handle: [@Karuna16](https://gitlab.com/Karuna16)
+- GitLab handle: [@Karuna16](https://gitlab.com/Karuna16)
 
-Slack handle: [@Karuna Singh](https://gitlab.slack.com/team/U01GEHXQZEK)
 
-Job Family: [Integrations Engineer](/job-families/finance/integrations-engineer/#integrations-engineer)
+### Jeff Dunnett - Senior Integrations Engineer
 
-### Durgesh Thakkar - Senior Manager, Integrations Engineering
+- GitLab handle: [@jdunnett](https://gitlab.com/jdunnett)
 
-GitLab handle: [@dthakkargit](https://gitlab.com/dthakkargit)
 
-Slack handle: [@dthakkargit](https://gitlab.slack.com/team/U053SBVN3EX)
+### Santhosh Baranidharan - Senior Business Analyst
 
-Job Family: [Integrations Engineer](/job-families/finance/integrations-engineer/#integrations-engineer)
+- GitLab handle: [@sbaranidharan](https://gitlab.com/sbaranidharan)
+
+
+### Durgesh Thakkar - Senior Manager, Architecture and Integration Engineering
+
+- GitLab handle: [@dthakkargit](https://gitlab.com/dthakkargit)
+
+
 
 ### Contacting us
 
-Slack: `#bt-integrations`
+Slack: `#automation-team`
 
 ## What do we do?
 
