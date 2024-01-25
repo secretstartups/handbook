@@ -120,7 +120,7 @@ The data plaform along with the data it delivers is consitent in availability an
 The Data Platform doesn't put people at risk
 
 * Data is only accisible to those authorized by documented approvals
-
+* The GitLab data team will stick with the [Principle of Least Privilege](https://handbook.gitlab.com/handbook/security/access-management-policy/#principle-of-least-privilege) regarding the authorization and authentication  
 ### Benefits a Larger Community
 GitLab's Data Platform is relevant to a community larger than GitLab's and depends on a larger community of engineers.
 
