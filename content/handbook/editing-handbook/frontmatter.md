@@ -1,15 +1,15 @@
 ---
-title: "Handbook metadata"
-description: "Information on what metadata entries are available and how to use them."
+title: "Handbook frontmatter"
+description: "Information on what frontmatter entries are available and how to use them."
 aliases:
-- /docs/metadata/
+- /docs/frontmatter/
 ---
 
-This page covers what metadata information is available on handbook pages, and their usage.
+This page covers what frontmatter information is available on handbook pages, and their usage.
 
 ## Format and title
 
-At the top of the file, start with three hyphens, metadata entries, closing with
+At the top of the file, start with three hyphens, frontmatter entries, closing with
 three more hyphens:
 
 ```plain
