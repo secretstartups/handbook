@@ -45,13 +45,13 @@ Admins are able to set minimum log levels for some GitLab services. Note that on
 sudo grep -n -E 'log_level|logging_level' /etc/gitlab/gitlab.rb
 ```
 
-2. Note the line number for `praefect['logging_level']`.
+2. Note the line number for `nginx['logging_level']`.
 
-3. Change the minimum log level for Praefect, which is the traffic manager for Gitaly. Replace "1234" with the appropriate line number from the `grep` output in the previous step.
+3. Change the minimum log level for `nginx`. Replace "1731" with the appropriate line number from the `grep` output in the previous step.
 
 ```bash
-sudo sed -i '1234s/warn/error/' /etc/gitlab/gitlab.rb
-sudo sed -i '1234s/# //' /etc/gitlab/gitlab.rb
+sudo sed -i '1731s/warn/error/' /etc/gitlab/gitlab.rb
+sudo sed -i '1731s/# //' /etc/gitlab/gitlab.rb
 ```
 
 4. Re-run the `grep` command from Step 1 to verify the line was modified as intended.
@@ -62,11 +62,9 @@ sudo sed -i '1234s/# //' /etc/gitlab/gitlab.rb
 sudo gitlab-ctl reconfigure
 ```
 
-> Since we're using single node Omnibus, Praefect is not actually in use as a service. Praefect is only enabled if using Gitaly cluster.
-
 ### Task C. Manage log retention
 
-GitLab uses **logrotate** to manage retention of all logs except those managed by the **runit** service manager (runit uses a separate service logging daemon called **svlogd**). Log retention can be configured in `/etc/gitlab/gitlab.rb`.
+GitLab uses **logrotate** to manage retention of all logs except those managed by the **runit** service manager (**runit** uses a separate service logging daemon called **svlogd**). Log retention can be configured in `/etc/gitlab/gitlab.rb`.
 
 1. Examine default logrotate retention settings.
 
