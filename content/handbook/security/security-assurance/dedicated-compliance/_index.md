@@ -15,7 +15,7 @@ For more information on the direction of the GitLab Dedicated category, please s
 
 ## <i class="far fa-lightbulb" style="color:rgb(110,73,203)" aria-hidden="true"></i> Core Competencies
 
-As a member of the [Security Assurance]({{< ref "security-assurance" >}}) sub-department, and fork of the existing [Security Compliance team]({{< ref "../security-compliance" >}}), we share many of the same core competencies. The difference between our teams is in the product/system scope (GitLab Dedicated and any future offerings for highly regulated markets) and the security certifications we are pursuing.
+As a member of the [Security Assurance]({{< ref "security-assurance" >}}) sub-department, and extension of the commercial [Security Compliance team]({{< ref "../security-compliance" >}}), we share many of the same core competencies. The difference between our teams is in the product/system scope (GitLab Dedicated and any future offerings for highly regulated markets) and the security certifications we are pursuing.
 
 1. [Security Certifications, Attestations, and Initiatives]({{< ref "../../security-assurance/dedicated-compliance/certifications" >}})
    - External Audit Coordination
@@ -49,7 +49,7 @@ Security Compliance is part of the [2nd line of defense](https://www.isaca.org/r
 
 ## Where we work
 
-The single source of truth for all of our work will soon be the [SecComp Dedicated Markets issue board](https://gitlab.com/groups/gitlab-com/-/boards/5913253?label_name[]=Sub-Department%3A%3ASecComp%20Dedicated%20Markets).
+The single source of truth for all of our work will soon be the [SecComp Dedicated Markets epic board](https://gitlab.com/groups/gitlab-com/-/epic_boards/1054594?label_name[]=Sub-Department%3A%3ASecComp%20Dedicated%20Markets) along with our [top-level epic](https://gitlab.com/groups/gitlab-com/gl-security/-/epics/248). While we work across GitLab.com and GitLab.org groups, we try to centralize the core work we commit to on our [roadmap](https://docs.google.com/presentation/d/1ufKzVomUmD2dw9J6upTG5bZ_r184HmtBccOt8NFlg7w/edit?usp=sharing). We also use an [issue board](https://gitlab.com/groups/gitlab-com/-/boards/5913253?label_name[]=Sub-Department%3A%3ASecComp%20Dedicated%20Markets) to track tasks at a more granular level when needed.
 
 We primarily work out of projects in the [Security Assurance sub-group](https://gitlab.com/gitlab-com/gl-security/security-assurance) including our [team issue tracker](https://gitlab.com/gitlab-com/gl-security/security-assurance/team-security-dedicated-compliance/team-files), the [FedRAMP Certification project](https://gitlab.com/gitlab-com/gl-security/security-assurance/fedramp/fedramp-certification), the GitLab instance inside the FedRAMP Authorization Boundary (limited access, AWS GovCloud), and the [GitLab Dedicated issue tracker](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team).
 
@@ -129,9 +129,9 @@ Labels are described in the [Labels section](#labels).
 
 #### Epic Boards
 
-Epic boards are used to track the overall status of epics. We use the following epic boards:
+Epic boards are used to track the overall status of epics tied to our [roadmap](https://docs.google.com/presentation/d/1ufKzVomUmD2dw9J6upTG5bZ_r184HmtBccOt8NFlg7w/edit?usp=sharing). We use the following epic board:
 
-TBD
+[SecComp Dedicated Markets epic board](https://gitlab.com/groups/gitlab-com/-/epic_boards/1054594?label_name[]=Sub-Department%3A%3ASecComp%20Dedicated%20Markets)
 
 #### Roadmap
 
@@ -143,18 +143,10 @@ Process to close phases:
 1. Management then determines roadmap adjustments so that planned work in future phases remains realistic after shifting open work.
 1. Roadmap changes are shared in the next weekly sync.
 
-#### Epics
-
-We currently have the following epics:
-- Epics tracking our [FedRAMP Continuous Monitoring](https://gitlab.com/groups/gitlab-com/gl-security/security-assurance/fedramp/-/epics?state=opened&page=1&sort=start_date_desc) tasks for that month
-- Epics to track quarterly user access reviews
-- Epics to track annual contingency/disaster recovery planning and incident response tabletop, which we help facilitate
-- Epics tracking annual external audits and penetration tests
-- Miscellaneous epics
 
 #### Issue Board
 
-The single source of truth for all of our work will soon be the [SecComp Dedicated Markets issue board](https://gitlab.com/groups/gitlab-com/-/boards/5913253?label_name[]=Sub-Department%3A%3ASecComp%20Dedicated%20Markets).
+Similar to the epic board, all issues tied to work on our roadmap should use the appropriate labels and be tracked on the [SecComp Dedicated Markets issue board](https://gitlab.com/groups/gitlab-com/-/boards/5913253?label_name[]=Sub-Department%3A%3ASecComp%20Dedicated%20Markets).
 
 We encourage, but currently do not require, the use of issue weights, to log estimated hours, and health status. The exception is for recurring continuous monitoring tasks which do require both of these.
 
@@ -182,7 +174,7 @@ DRIs should provide weekly updates for the DRI's epics according to following pr
 
 #### Status Update Automation (coming soon)
 
-Status updates are auto-generated and added to description ofthe top-level [Security Compliance (Dedicated Markets) team epic](https://gitlab.com/groups/gitlab-com/gl-security/-/epics/248) using a bot running in (project coming soon).
+Status updates are auto-generated and added to description ofthe [top-level Security Compliance (Dedicated Markets) team epic](https://gitlab.com/groups/gitlab-com/gl-security/-/epics/248) using a bot running in (project coming soon).
 
 If no update has been provided in an epic or issue for over a week, the issue will automatically receive `seccomp workflow::stalled` label. MAnagement is responsible for reviewing the status of the issue and helping it move along.
 
@@ -215,7 +207,7 @@ Any new labels should be created at the gitlab-com group level so to that it can
 
 #### Workflow labels
 
-We leverage scoped workflow labels to track different stages of work. These are important because we rely on our issue board for team meetings, reporting up to leadership, metrics, and spreading visibility into our work.
+We leverage scoped workflow labels to track different stages of work. These are important because we rely on our issue board for team meetings, reporting up to leadership, metrics, and spreading visibility into our work. All epics and issues owned by our team, related to work on our roadmap, must have these labels.
 
 | Open (no workflow label) | `seccomp workflow::triage` | `seccomp workflow::ready` | ~`seccomp workflow::in progress` | `seccomp workflow::blocked` | `seccomp workflow::complete` | `seccomp workflow::cancelled` |
 |---------------------------|--------------------------|-------------------------|-------------------------------|---------------------------|----------------------------|-----------------------------|
