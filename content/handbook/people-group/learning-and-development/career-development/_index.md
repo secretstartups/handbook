@@ -37,7 +37,6 @@ Navigate to career development resources located throughout the GitLab handbook:
     <a href="{{< ref "career-development#skill-of-the-month" >}}" class="btn btn-primary" style="margin:5px;">Skill of the Month</a>
     <a href="{{< ref "coaching" >}}" class="btn btn-primary" style="margin:5px;">Work with a Coach</a>
     <a href="{{< ref "elevate-programs" >}}" class="btn btn-primary" style="margin:5px;">Elevate Manager Training</a>
-    <a href="{{< ref "linkedin-learning#how-to-access-linkedin-learning" >}}" class="btn btn-primary" style="margin:5px;">LinkedIn Learning Courses</a>
     <a href="{{< ref "self-paced-learning#linux-foundation-courses" >}}" class="btn btn-primary" style="margin:5px;">Linux Foundation Courses</a>
     <a href="{{< ref "self-paced-learning#oreilly-learning" >}}" class="btn btn-primary" style="margin:5px;">O'Reilly Learning</a>
     <a href="{{< ref "self-paced-learning#gcp-learning" >}}" class="btn btn-primary" style="margin:5px;">GCP Learning</a>
