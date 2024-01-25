@@ -21,18 +21,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### AMER Time Zone Webinars & Labs
 
-
-#### Hands-on Lab: Security and Compliance in GitLab
-##### January 24th, 2023 at 9:00-11:00AM Pacific Time / 12:00-2:00PM Eastern Time
-
-In this lab we will focus on how you can secure your application with GitLab. 
-
-We will first take a look at how to apply scanners to your CICD pipelines in a hands-on exercise so that any vulnerabilities are caught as soon as the code is committed. 
-
-Next, we will look at compliance frameworks and pipelines to show how you can ensure no one within your development teams is cutting corners and exposing your application.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_eDhmZ3uIR5uXWLkbDEnAzg#/registration)
-
 #### Security and Compliance
 ##### January 26th, 2024 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
 
@@ -56,17 +44,6 @@ Join us for a hands-on GitLab AI lab where we will explore Artificial Intelligen
 
 
 ### EMEA Time Zone Webinars & Labs
-
-#### Hands-on Lab: Security and Compliance in GitLab
-##### January 24th, 2023 at 10:00-12:00AM UTC / 11:00AM-1:00PM CET
-
-In this lab we will focus on how you can secure your application with GitLab. 
-
-We will first take a look at how to apply scanners to your CICD pipelines in a hands-on exercise so that any vulnerabilities are caught as soon as the code is committed. 
-
-Next, we will look at compliance frameworks and pipelines to show how you can ensure no one within your development teams is cutting corners and exposing your application.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_Eh04V1KVQbudD-yCFmmZ9Q#/registration)
 
 #### Security and Compliance
 ##### January 26th, 2024 at 10:00-11:00AM UTC / 11:00AM-12:00PM CET
