@@ -112,20 +112,16 @@ Test Platform has been key to supporting prospect POVs and providing prompt, kno
 - Contribute quality tools to GitLab the product to help mature and dogfood our testing offerings.
 - Increase MR Rate.
 
-### Open roles
-
-Currently we dont have any open roles. Please check back later in [our jobs page](https://boards.greenhouse.io/gitlab) for any openings.
-
 ## Team Structure 
 
 Infrastructure Department structure is documented [here](/handbook/engineering/infrastructure/#organization-structure).
 
-#### Test Platform sub-department structure:
+#### Test Platform sub-department structure
 
 ```mermaid
 graph TD
     A[Test Platform sub-department]
-    A --> B(Self Managed Platform team)
+    A --> B(Self-Managed Platform team)
     A --> C(Test and Tools Infrastructure team)
     A --> D(Test Engineering team)
 
