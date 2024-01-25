@@ -37,7 +37,7 @@ The Test Platform sub-department does this by focusing on:
 
 The Test Platform sub-department vision is to focus on customer satisfaction and enable GitLab to deliver faster and efficiently by supporting Gitlab’s principle of Quality is everyone’s responsibility. 
 
-Integral part of this vision, we focus on:
+Integral parts of this vision:
 
 1. Test Tooling: Build tools and frameworks that enable GitLab Engineering & Product teams to ship high-quality & reliable products to our customers efficiently. 
 1. Reliable platform: This includes monitoring the platform for performance issues, implementing security measures, and conducting capacity planning to ensure that the platform can handle the expected load.
