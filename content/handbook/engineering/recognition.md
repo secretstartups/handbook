@@ -7,7 +7,17 @@ title: Recognition in Engineering
 Quarterly, CTO Leadership will recognize Engineering team members who have excelled in a given quarter. Recognition includes:
 
 - an invitation to the [Engineering Quarterly Achievers Chat](#engineering-quarterly-achievers-chat)
-- participation in the [Engineering Quarterly Achiever's Recognition Dinner](#engineering-quarterly-achievers-recognition-dinner) - an expensed meal for yourself, friends and family to celebrate your work
+- participation in the [Engineering Quarterly Achiever's Recognition Dinner](#engineering-quarterly-achievers-recognition-dinner) - an expensed meal for yourself, friends and family to celebrate your work, the meal must occur before the last day of the quarter following the announcement.
+Winners each quarter have until the last day of the quarter to submit for reimbursement.
+Winners may submit their receipt for the meal for reimbursement via Navan. 
+Please see the instructions below. 
+
+In Navan, click Add Transaction Select Upload receipt (or select Type in details) 
+Under Expense Type field, please select “Team events & meals”
+Under Classification, please select “FY24 Team Building”
+Under Description field, please include this link: https://about.gitlab.com/handbook/engineering/recognition/#engineering-quarterly-achievers-recognition-dinner 
+Click Submit (or Save & close if you need to come back to add more information).
+
 
 ### Engineering Quarterly Achiever's Chat
 
@@ -20,9 +30,9 @@ The Quarterly Achiever's Chat recognizes Engineering team members who have excel
 
 Key features of this call include:
 
-- 50-minute call
+- 30-minute call
 - Held within first two months of new quarter
-- CEO and CTO attendance required
+- CEO, CFO, CTO and/or CProdO attendance required
 - Not recorded
 
 ### Engineering Quarterly Achiever's Recognition Dinner
