@@ -46,7 +46,7 @@ Integral part of this vision, we focus on:
 ## Our principles
 
 - **Foster an environment where Quality is Everyone's responsibility.**
-    - We enable product teams in baking quality early in the product development flow process.
+    - We enable product teams by baking quality early into the product development flow process.
     - We are a sounding-board for our end users by making feedback known to product teams.
     - We are a champion of good software design, testing practices and bug prevention strategies.
 - **Improve test coverage and leverage tests at all [levels](https://docs.gitlab.com/ee/development/testing_guide/testing_levels.html).**
