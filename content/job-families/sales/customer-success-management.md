@@ -32,17 +32,17 @@ Additionally, our team serves as liaisons between the customer and the GitLab ec
 - Alignment with our [values](/handbook/values/), and willingness to work in accordance with those values
 - Willingness to travel if needed and comply with the company’s [travel policy](/handbook/travel/)
 
-### Levels
+## Levels
 
-## Associate Customer Success Manager (CSM)
+### Associate Customer Success Manager (CSM)
 
 The Associate CSM reports to the [Manager/Senior Manager, CSM](/job-families/sales/customer-success-management/#manager-of-customer-success-managers)
 
-### Associate CSM Job Grade
+#### Associate CSM Job Grade
 
 The Associate CSM is a job grade [level 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Associate CSM Responsibilities
+#### Associate CSM Responsibilities
 
 - Provide immediate onboarding activities
 - Work with assigned customers to build Customer Success Plans, establishing critical goals, or other key performance indicators and aid the customer in achieving their goals
@@ -50,19 +50,19 @@ The Associate CSM is a job grade [level 5](/handbook/total-rewards/compensation/
 - Provide insights with respect to the availability and applicability of new features in GitLab as relevant
 - Support GitLab Services in identifying and recommending training opportunities
 
-### Associate CSM Requirements
+#### Associate CSM Requirements
 
 - Demonstrated progressive experience in a related function is required with direct customer advocacy and engagement experience in post-sales or professional services functions
 
-## Customer Success Manager (CSM) (Intermediate)
+### Customer Success Manager (CSM) (Intermediate)
 
 The CSM (Intermediate) reports to the [Manager/Senior Manager, CSM](/job-families/sales/customer-success-management/#manager-of-customer-success-managers).
 
-### CSM (Intermediate) Job Grade
+#### CSM (Intermediate) Job Grade
 
-The CSM (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The CSM (Intermediate) is a job grade [level 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### CSM (Intermediate) Responsibilities
+#### CSM (Intermediate) Responsibilities
 
 - Extends the CSM (Associate) responsibilities
 - Establish a trusted/strategic advisor relationship with each assigned customer and drive continued value of our solution and services
@@ -72,7 +72,7 @@ The CSM (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compe
 - Translate customer product usage data into actionable advice for customers
 - Establish regular touchpoints with assigned customers per the established SLAs, to review progress against strategic and technical objectives
 
-### CSM (Intermediate) Requirements
+#### CSM (Intermediate) Requirements
 
 - Extends the CSM (Associate) requirements
 - Demonstrated progressive experience in a related function is required with direct customer advocacy and engagement experience in post-sales or professional services functions
@@ -80,15 +80,15 @@ The CSM (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compe
 - Knowledge of software development lifecycle and development pipeline
 - Understanding of continuous integration, continuous deployment, DevSecOps
 
-## Senior CSM
+### Senior CSM
 
 The Senior CSM reports to the [Manager/Senior Manager, CSM](/job-families/sales/customer-success-management/#manager-of-customer-success-managers).
 
-### Senior CSM Job Grade
+#### Senior CSM Job Grade
 
 The Senior CSM is a job grade [level 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Senior CSM Responsibilities
+#### Senior CSM Responsibilities
 
 - Extends the CSM (Intermediate) responsibilities
 - Strategize on the overall objectives and long-range goals of the team
@@ -99,7 +99,7 @@ The Senior CSM is a job grade [level 7](/handbook/total-rewards/compensation/com
 - Maintain deep knowledge of the GitLab platform
 - Clearly communicate and drive adoption of complex solutions, with constant attention to promoting "boring solutions"
 
-### Senior CSM Requirements
+#### Senior CSM Requirements
 
 - Extends the CSM (Intermediate) requirements
 - Ability to translate business requirements into business value, and work with sales and marketing to promote value-driven solutions
@@ -108,17 +108,17 @@ The Senior CSM is a job grade [level 7](/handbook/total-rewards/compensation/com
 - Advanced knowledge of software development lifecycle and development pipeline
 - Advanced project management experience & skills
 
-## Staff CSM
+### Staff CSM
 
 Market Justification: The business need for an individual contributor Staff CSM role is to have a team member who is a subject matter expert in customer engagement, success planning, and driving platform adoption. In addition to working with the customers in their book of business, they provide guidance and coaching to other CSMs and develop improvements to our customer engagement model. In the market, there are over 20 organizations that typically have 2-3 Staff CSMs.
 
-The Staff CSM reports to the [Manager/Senior Manager, CSM](/job-families/sales/customer-success-management/#manager-tam).
+The Staff CSM reports to the [Manager/Senior Manager/Director, CSM](/handbook.gitlab.com/job-families/sales/customer-success-management/#manager-csm).
 
-### Staff CSM Job Grade
+#### Staff CSM Job Grade
 
 The Staff CSM is a job grade [level 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Staff CSM Responsibilities
+#### Staff CSM Responsibilities
 
 - Extends the Senior CSM responsibilities
 - Owns the customer relationship of a global or large scale enterprise account and actively manages the stakeholder relationship at all levels (i.e., executive, management, technical leaders) including strategic roadmap discussions
@@ -134,8 +134,9 @@ The Staff CSM is a job grade [level 9](/handbook/total-rewards/compensation/comp
 - Identifies challenges in CSM group workflows and those extending to other groups, and owns the research, development, and enablement of the resolutions
 - Work transparently to surface the problems and allow others to participate in solving them
 - Regularly publishes handbook updates describing our practice and our collaboration with other groups and improves/grooms existing content in-line with process and enablement improvements
+- Mentor and coach colleague CSM's on one of their accounts for faster onboarding or adoption
 
-### Staff CSM Requirements
+#### Staff CSM Requirements
 
 - Extends the Senior CSM requirements
 - Experience and a proven track record with the additional responsibilities of a Staff CSM
@@ -147,21 +148,22 @@ The Staff CSM is a job grade [level 9](/handbook/total-rewards/compensation/comp
 - Excellent moderation and communication skills
 - Extensive experience within a technical or account management area
 
-### Staff CSM Performance Indicators
+#### Staff CSM Performance Indicators
 
-- Extends the Customer Success KPIs articulated here
+- Extends the Customer Success KPIs articulated [here](https://handbook.gitlab.com/job-families/sales/customer-success-management/#performance-indicators)
 - >5m ARR book of business maintained
 - 6 enablement contributions to global CS team per fiscal year
+- 2 Use-case specific or Vertical-specific playbooks created, with global team enabled on them, per year
 
-## Manager, CSM
+### Manager, CSM
 
 The Manager, CSM, reports to the [Director of Customer Success Managers](/job-families/sales/customer-success-management/#director-of-customer-success-managers).
 
-### Manager, CSM Job Grade
+#### Manager, CSM Job Grade
 
-The Manager, CSM is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, CSM is a job grade [level 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Manager, CSM Responsibilities
+#### Manager, CSM Responsibilities
 
 - Mentor and enable the team to exceed company growth and retention forecasts
 - Work with the Customer Success Director to help establish and manage goals and responsibilities for CSMs
@@ -178,7 +180,7 @@ The Manager, CSM is a [grade 9](/handbook/total-rewards/compensation/compensatio
 - Work together with the other managers to execute strategies and vision with the Director
 - Represent GitLab leadership and reflect our [GitLab values](/handbook/values/) in internal and external interactions
 
-### Manager, CSM Requirements
+#### Manager, CSM Requirements
 
 - Proven track record in software/technology sales, consulting or customer success
 - Proven experience leading teams, driving software adoption, and building and scaling customer success management practices
@@ -195,15 +197,15 @@ The Manager, CSM is a [grade 9](/handbook/total-rewards/compensation/compensatio
 - Ability to connect technology with measurable business value
 - Strategic thinking about business, products, and technical challenges
 
-## Senior Manager, CSM
+### Senior Manager, CSM
 
 The Senior Manager, CSM reports to the [Director of Customer Success Managers](/job-families/sales/customer-success-management/#director-of-customer-success-managers).
 
-### Senior Manager, CSM Job Grade
+#### Senior Manager, CSM Job Grade
 
-The Senior Manager, CSM is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, CSM is a job grade [level 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Senior Manager, CSM Responsibilities
+#### Senior Manager, CSM Responsibilities
 
 - Extends the Manager, CSM responsibilities
 - DRI for one or more initiatives beyond the CSM manager role that includes: customer growth, expansion programs, and processes
@@ -214,22 +216,22 @@ The Senior Manager, CSM is a [grade 9](/handbook/total-rewards/compensation/comp
 - Aligned with the objectives of GitLab and is responsible for ensuring that the CSM team as a whole is contributing to our company objectives
 - Strategic in thinking to solve challenges for the entire CSM team and make improvements that will positively impact all customers
 
-### Senior Manager, CSM Requirements
+#### Senior Manager, CSM Requirements
 
 - Extends the Manager, CSM requirements
 - Demonstrated progressive management experience leading teams in a software company
 - Demonstrated progressive experience leading customer success managers, account management or sales teams with team sizes of 5+ people
 - Proven experience leading teams, driving software adoption, and building and scaling customer success management practices
 
-## Director of Customer Success
+### Director of Customer Success
 
 The Director of Customer Success reports to the [VP of Customer Success](/job-families/sales/vp-of-customer-success/).
 
-### Director of Customer Success Job Grade
+#### Director of Customer Success Job Grade
 
 The Director of Customer Success is a job grade [level 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Director of Customer Success Responsibilities
+#### Director of Customer Success Responsibilities
 
 - Extends the Senior Manager, CSM responsibilities
 - Set the overall vision and strategic plan for the Account Management organization, focusing on driving product adoption, leading customer outcomes, and experiences, and driving growth through gross renewals and net retention improvements
@@ -254,22 +256,22 @@ The Director of Customer Success is a job grade [level 10](/handbook/total-rewar
 - Build a world-class post-sales organization by implementing technology and processes
 - This role is focused on customer success management and is not a technical support-related role
 
-### Director of Customer Success
+#### Director of Customer Success
 
 - Extends the Manager, CSM requirements
 - Demonstrated progressive experience leading customer success managers, account management or sales teams with team sizes of 30 people+
 - Demonstrated progressive experience leading managers of customer success teams in a SaaS or subscription enterprise software company
 - Demonstrated ability to lead managers and successfully manage global, distributed teams across cultures, lines of business, and geographies
 
-## Senior Director of Customer Success
+### Senior Director of Customer Success
 
 The Senior Director of Customer Success reports to the [VP of Customer Success](/job-families/sales/vp-of-customer-success/)
 
-### Senior Director of Customer Success Job Grade
+#### Senior Director of Customer Success Job Grade
 
 The Director of Customer Success is a job grade [level 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Senior Director of Customer Success Responsibilities
+#### Senior Director of Customer Success Responsibilities
 
 - Extends that of the Director of Customer Success responsibilities
 - Define and deliver strategies and plans that enhance and integrate into GitLab's Go-To-Market strategies and plans, including Sales, Marketing, Product, Growth, Operations, Channel/Alliance, and Data Teams
@@ -277,16 +279,16 @@ The Director of Customer Success is a job grade [level 11](/handbook/total-rewar
 - Build and iterate on segmentation strategies based on customer economics, propensity to grow, lifecycle stage, and customer preferences, incorporating digital engagement at all segments
 - Manage and nurture executive relationships with customers, including management of executive-level escalations
 
-### Senior Director of Customer Success Requirements
+#### Senior Director of Customer Success Requirements
 
 - Extends that of the Director of Customer Success requirements
 - Demonstrated progressive experience leading managers of customer success teams in a SaaS or subscription enterprise software company
 
-## Vice President of Customer Success
+### Vice President of Customer Success
 
-The Vice President of Customer Success is a job grade [12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Vice President of Customer Success is a job grade [level 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Vice President of Customer Success Responsibilities
+#### Vice President of Customer Success Responsibilities
 
 - Extends the Senior Director of Customer Success responsibilities
 - Provide strategic influence with customers accounts as well internally for programs and initiatives, continuously improving customer journey, segmentation approaches, and digital approaches
@@ -297,7 +299,7 @@ The Vice President of Customer Success is a job grade [12](/handbook/total-rewar
 - Partner with the Sales organization to drive growth and retention and improve efficiency
 - Lead company-wide strategies and initiatives to improve the customer experience and deliver voice-of-customer metrics and reporting across GitLab
 
-### Vice President of Customer Success Requirements
+#### Vice President of Customer Success Requirements
 
 - Extends the Senior Director of Customer Success requirements
 - Demonstrated experience in cross-functional leadership to influence internal organizations on strategic GTM initiatives
@@ -306,8 +308,9 @@ The Vice President of Customer Success is a job grade [12](/handbook/total-rewar
 - Brings experience building, scaling, and developing global teams
 - Serves as an expert in Customer Success Management internally and with customers, partners, and industry communities
 
-#### Vice President of Customer Success Performance Indicators
+##### Vice President of Customer Success Performance Indicators
 
+- Extends the Customer Success KPIs articulated [here](https://handbook.gitlab.com/job-families/sales/customer-success-management/#performance-indicators)
 - Gross and net retention
 - Customer metrics (onboarding, time-to-first value, use case and platform adoption, use case expansion, sentiment measured by NPS, CSAT, or surveys)
 
@@ -425,7 +428,7 @@ The Staff CSE reports to the Manager/Senior Manager, CSE.
 
 ##### Staff Customer Success Engineer Job Grade
 
-The Staff CSE is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff CSE is a job grade [level 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ##### Staff Customer Success Engineer Responsibilities
 
