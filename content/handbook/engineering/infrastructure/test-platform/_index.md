@@ -68,6 +68,14 @@ GitLab has a [Three-Year Strategy](/handbook/company/strategy/). Our [Yearlies](
 
 Our focus is to support our FY25 Yearlies. They can be found in the [internal handbook](https://internal.gitlab.com/handbook/company/yearlies/#fy25-yearlies).
 
+### OKRs
+
+Objectives and Key Results (OKRs) help align our sub-department towards what really matters. These happen quarterly and are based on company OKRs. We follow the OKR process defined [here](/handbook/company/okrs/#okr-process-at-gitlab).
+
+#### Active Quarter OKRs
+
+Here is an [overview](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/4049) of our current Test Platform OKR.
+
 ## Areas of Responsibility
 
 ### Self-Managed Excellence
@@ -103,14 +111,6 @@ Test Platform has been key to supporting prospect POVs and providing prompt, kno
 - Reduce duration of GitLab pipelines through selective test execution.
 - Contribute quality tools to GitLab the product to help mature and dogfood our testing offerings.
 - Increase MR Rate.
-
-## OKRs
-
-Objectives and Key Results (OKRs) help align our sub-department towards what really matters. These happen quarterly and are based on company OKRs. We follow the OKR process defined [here](/handbook/company/okrs/#okr-process-at-gitlab).
-
-### Active Quarter OKRs
-
-Here is an [overview](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/4049) of our current Test Platform OKR.
 
 ### Open roles
 
