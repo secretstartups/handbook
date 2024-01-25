@@ -244,7 +244,7 @@ Managers should support their direct reports with their professional development
 1. Recommend (and model) blocking [time to learn during the work week]({{< ref "learning-initiatives#take-time-out-to-learn-campaign" >}}).
 1. Organize team specific and cross-functional learning communities to practice [social learning]({{< ref "learning-initiatives#social-learning-through-live-learning" >}}).
 1. Model and share your own career and professional development pursuits.
-1. Create a [Learning Hub]({{< ref "work-with-us#creating-a-learning-hub-for-your-team" >}}) in Level Up with curated learning material for your team from LinkedIn Learing, the Handbook, and other external resources.
+1. Create a [Learning Hub]({{< ref "work-with-us#creating-a-learning-hub-for-your-team" >}}) in Level Up with curated learning material for your team from an external provider, the Handbook, and other external resources.
 
 **Sample questions to ask your team:**
 

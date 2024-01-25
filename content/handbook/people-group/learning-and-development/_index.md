@@ -70,7 +70,6 @@ The Learning & Development team has a number of resources to help team members l
 <div class="flex-row" markdown="0">
   <div>
     <a href="{{< ref "level-up" >}}" class="btn btn-primary" style="width:200px;margin:5px;">Level Up</a>
-    <a href="{{< ref "linkedin-learning" >}}" class="btn btn-primary" style="width:200px;margin:5px;">LinkedIn Learning</a>
     <a href="{{< ref "compliance-courses" >}}" class="btn btn-primary" style="width:200px;margin:5px;">Compliance Courses</a>
   </div>
 </div>
