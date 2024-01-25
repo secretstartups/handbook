@@ -212,14 +212,12 @@ Cross Region Handover requests are async by nature, which can make it difficult 
 ### Preparing a ticket for Handover
 
 1. Use the handover macro:
-   - All handover requests, including low-priority situations, should use and complete the new macro named `Handover Ticket Summary`.
-   - Tickets not using the macro will not be considered in an acceptable state for handover acceptance and will be re-assigned to the requestor.
-1. Set the appropriate field in Zendesk:
-   - Zendesk now includes a new form field named `Handover Status`.
-   - All tickets requiring handover should have this field set to `Need Handover`.
-1. Unassign the ticket
-   - Tickets using the macro and having `Handover Status` set to `Need Handover` will appear in the SGG queue under NRT.
-   - Handover tickets should been unassigned, to do this in Zendesk you need to change the `Assignee` field to a non human item (e.g. SGG Maple), you should also ensure that the `SGG` field is set to the corresponding SGG view (e.g. Maple) and the ticket is not in the following states `solved/closed/pending`.
+    - All handover requests, irrespective of priority, must employ and complete the `Handover Ticket Summary` macro.
+    - Tickets not using the macro will not be considered in an acceptable state for handover acceptance and will be re-assigned back to the requestor.
+1. Automate ticket unassignment using the Handover Ticket Summary macro:
+    - Tickets utilising the `Handover Ticket Summary` macro will automatically have the Handover Status field set to `Needs Handover` and will be unassigned.
+    - To do this manually in Zendesk you need to change the Assignee field to a non human item (e.g. SGG Maple), you should also ensure that the SGG field is set to the corresponding SGG view (e.g. Maple) and the ticket is not in the following states solved/closed/pending.
+    - Tickets using the macro will appear in their corresponding SGG queue under NRT as an unassigned ticket.
 
 
 ### Using the Cross Region Handover Form
