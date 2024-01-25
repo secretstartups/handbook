@@ -87,7 +87,7 @@ The Learning & Development team has a number of resources to help team members l
   <div>
     <a href="https://about.gitlab.com/handbook/sales/field-manager-development" class="btn btn-primary" style="width:200px;margin:5px;">Field Manager Development</a>
     <a href="{{< ref "speakers" >}}" class="btn btn-primary" style="width:200px;margin:5px;">Learning Speaker Series</a>
-    <a href="{{< ref "elevate" >}}" class="btn btn-primary" style="width:200px;margin:5px;">Elevate Manager Training</a>
+    <a href="{{< ref "elevate-programs" >}}" class="btn btn-primary" style="width:200px;margin:5px;">Elevate Manager Training</a>
   </div>
 </div>
 
