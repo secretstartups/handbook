@@ -10,8 +10,8 @@ Use the links below to navigate to each Elevate program. Here is a useful guide 
 
 | Program Name | Description |
 | ----- | -------- |
-| [Elevate](https://handbook.gitlab.com/handbook/people-group/learning-and-development/elevate/elevate/) | The next cohort of Elevate begins on 2024-02-12, so if you've been recently enrolled, navigate here. |
-| [Elevate Applied](https://handbook.gitlab.com/handbook/people-group/learning-and-development/elevate/elevate-applied/) | Continuous learning and resources for those who've earned their Elevate certification |
+| [Elevate](https://handbook.gitlab.com/handbook/people-group/learning-and-development/elevate-programs/elevate/) | The next cohort of Elevate begins on 2024-02-12, so if you've been recently enrolled, navigate here. |
+| [Elevate Applied](https://handbook.gitlab.com/handbook/people-group/learning-and-development/elevate-programs/elevate-applied/) | Continuous learning and resources for those who've earned their Elevate certification |
 | Elevate+ | Coming Soon! |
 
 
