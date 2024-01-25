@@ -2,7 +2,7 @@
 
 title: Elevate Programs
 aliases: 
-- /handbook/elevate
+- /handbook/people-group/learning-and-development/elevate
 
 ---
 
