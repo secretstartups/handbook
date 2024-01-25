@@ -1,6 +1,5 @@
 ---
 title: "GitLab System Administration - Hands-on Lab 1"
-
 description: "This hands-on lab guide is designed to walk you through the lab exercises used in the GitLab System Administration course."
 ---
 

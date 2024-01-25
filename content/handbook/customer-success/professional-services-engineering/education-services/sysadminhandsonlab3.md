@@ -1,5 +1,5 @@
 ---
-title: "title: "GitLab System Administration - Hands-on Lab 3"
+title: "GitLab System Administration - Hands-on Lab 3"
 description: "This hands-on lab guide is designed to walk you through the lab exercises used in the GitLab System Administration course."
 ---
 
