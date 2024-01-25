@@ -36,7 +36,7 @@ Navigate to career development resources located throughout the GitLab handbook:
     <a href="https://docs.google.com/presentation/d/1yY0ofMGgzN07ylTAnRP5geFnWcgUYkiVlcIyR54tpD0/edit#slide=id.g29a70c6c35_0_68" class="btn btn-primary" style="margin:5px;">Career Development Workshop</a>
     <a href="{{< ref "career-development#skill-of-the-month" >}}" class="btn btn-primary" style="margin:5px;">Skill of the Month</a>
     <a href="{{< ref "coaching" >}}" class="btn btn-primary" style="margin:5px;">Work with a Coach</a>
-    <a href="{{< ref "elevate" >}}" class="btn btn-primary" style="margin:5px;">Elevate Manager Training</a>
+    <a href="{{< ref "elevate-programs" >}}" class="btn btn-primary" style="margin:5px;">Elevate Manager Training</a>
     <a href="{{< ref "linkedin-learning#how-to-access-linkedin-learning" >}}" class="btn btn-primary" style="margin:5px;">LinkedIn Learning Courses</a>
     <a href="{{< ref "self-paced-learning#linux-foundation-courses" >}}" class="btn btn-primary" style="margin:5px;">Linux Foundation Courses</a>
     <a href="{{< ref "self-paced-learning#oreilly-learning" >}}" class="btn btn-primary" style="margin:5px;">O'Reilly Learning</a>
@@ -56,7 +56,7 @@ Navigate to career development resources located throughout the GitLab handbook:
 
 <div class="flex-row" markdown="0">
   <div>
-    <a href="{{< ref "elevate" >}}" class="btn btn-primary" style="margin:5px;">Elevate</a>
+    <a href="{{< ref "elevate-programs" >}}" class="btn btn-primary" style="margin:5px;">Elevate</a>
     <a href="https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/support-your-team-with-career-conversations" class="btn btn-primary" style="margin:5px;">Support your Team with Career Conversations Course</a>
     <a href="https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13409" class="btn btn-primary" style="margin:5px;">Manager M Groups</a>
     <a href="https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/mitigating-risk" class="btn btn-primary" style="margin:5px;">Mitigating Risk Course</a>

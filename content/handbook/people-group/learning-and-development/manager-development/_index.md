@@ -61,7 +61,7 @@ Take a moment to reflect on where you are in this transition. Then use this [goo
 
 #### Participate in the Elevate program
 
-[Elevate]({{< ref "elevate" >}}) equips new and existing managers with a set of skills to managing all-remote teams. The program covers foundational management practices. One of the key benefits of the program is networking and social learning. You will learn from other managers and build a sense of community across people leaders at GitLab.
+[Elevate]({{< ref "elevate-programs" >}}) equips new and existing managers with a set of skills to managing all-remote teams. The program covers foundational management practices. One of the key benefits of the program is networking and social learning. You will learn from other managers and build a sense of community across people leaders at GitLab.
 
 ### Transitioning to a Manager Video
 
