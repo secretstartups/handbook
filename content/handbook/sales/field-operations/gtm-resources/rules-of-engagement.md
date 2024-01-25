@@ -354,10 +354,12 @@ The following criteria make a deal eligible for a holdover:
 - **Documented Account Strategy** The team who is giving up/losing the account and/or opportunity must work with the new owner on a transition plan to ensure there’s no disruption to current sales cycles or customer/prospect experience.
      - The Account handover checklist: Enterprise Sales can be found [here](https://docs.google.com/document/d/1bhGuzTZxnq70ob-3fxHVhu7LYObcrrFMev0697fDDks/edit)
 - Holdovers apply to **both the holdover AE and his/her ASM**. 
-- **Holdovers are not eligible for splits.** 100% credit will be given to the holdover AE and his/her manager for deals that close within the holdover period.  Exceptions to this:
-     - Holdovers within an Area under one ASM (or acting ASM).  The ASM has the discretion to request a split between AEs in his/her Area if the deal closes within the 60 holdover period.
+- **Holdovers over $100K in Net ARR are eligible for splits** in the following scenarios:
+     - $100K+ holdovers within an Area under one ASM (or acting ASM).  The ASM has the discretion to request a split between AEs in his/her Area if the deal closes within the 60 holdover period.
+     - $100K+ holdovers within a Region under one AVP or VP.  The AVP+ has the discretion to request a split between AEs in his/her Region if the deal closes within the 60 holdover period.
+     - Holdovers that are not eligible for a split will be credited 100% to the holdover AE and his/her manager for deals that close within the holdover period
 - Sales Leaders are responsible for ensuring that holdover opportunities align with the guiding principles of this policy. Leadership ensures that opportunity values are not unnaturally inflated and/or are not moved prematurely to stage 3 or into Q1.
-- Holdovers apply to NQRs only
+- Holdovers apply to NQRs only (AE + his/her Sales Management hierarchy)
 - Holdover opportunities are flagged in SFDC using the`Holdover Expiration Date` fields on the Opportunity and are monitored on the [Sales Ops: ROE Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7).
 - Credit will only be given to the AE and his/her ASM on the holdover opportunity if it closes before the expiration date.
 
