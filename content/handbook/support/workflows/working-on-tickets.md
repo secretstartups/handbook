@@ -211,12 +211,12 @@ Cross Region Handover requests are async by nature, which can make it difficult 
 
 ### Preparing a ticket for Handover
 
-1. Use the handover macro:
-   - All handover requests, including low-priority situations, should use and complete the [ZenDesk macro named `Handover Ticket Summary`](https://gitlab.com/gitlab-com/support/zendesk-global/macros/-/blob/master/active/General/Handover%20Ticket%20Summary.md?ref_type=heads).
-   - Tickets not using the macro will not be considered in an acceptable state for handover acceptance and will be re-assigned to the requestor.
-   - After updating and saving the internal comment in the `Open` state using the macro, the following things will happen:
-        - The `Handover Status` field will be updated to reflect `Need Handover`.
-        - You will be unassigned from the ticket and added to the cc field.
+To request a handover of any ticket, even a low-priority one, to a different region, use and complete the [ZenDesk macro named `Handover Ticket Summary`](https://gitlab.com/gitlab-com/support/zendesk-global/macros/-/blob/master/active/General/Handover%20Ticket%20Summary.md?ref_type=heads).
+If you don't use the macro, the ticket will be considered to have been improperly prepared for handover and will be reassigned to the requestor.
+
+Once you save the ticket in the `Open` state, the macro will also:
+- Apply the `Need Handover` value to the `Handover Status` field
+- Set the ticket to be unassigned, and add you to the `CC` field
 
 ### Using the Cross Region Handover Form
 
