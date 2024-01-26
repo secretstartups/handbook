@@ -88,19 +88,19 @@ description: "This hands-on lab guide is designed to walk you through the lab ex
 1. Paste the following code into the body of the file.
 
   ```yml
-      stages:
-        - build
-        - test
+  stages:
+    - build
+    - test
 
-      build_app:
-        stage: build
-        script:
-          - echo "The build stage requires at least one job"
+  build_app:
+    stage: build
+    script:
+      - echo "The build stage requires at least one job"
 
-      test_app:
-        stage: test
-        script:
-          - echo "The test stage requires at least one job"
+  test_app:
+    stage: test
+    script:
+      - echo "The test stage requires at least one job"
   ```
 
 8. Select **Commit changes**.
