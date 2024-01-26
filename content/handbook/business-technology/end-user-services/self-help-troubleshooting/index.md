@@ -192,7 +192,7 @@ If you are keeping your GitLab machine [Laptop Buy Back Policy](/handbook/busine
 
 #### Jamf (macOS)
 
-- Please schedule a time with an IT Analyst to have your laptop wiped. You can find their schedules [here](/handbook/business-technology/team-member-enablement/#laptop-wipe-schedules-for-it-analysts).
+- Please schedule a time with an IT Analyst to have your laptop wiped. You can find their schedules [here](/handbook/business-technology/end-user-services/#laptop-wipe-schedules-for-it-analysts).
 - Make sure all your data is backed up and laptop is powered on and connected to the internet
 - Please refer to your refresh [issue](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues) which contains further instructions
 
@@ -227,14 +227,14 @@ There's 2 ways to upgrade to the newest macOS
 **Self Service**
 
 1. Search for the **Self Service** application on your MacBook.
-2. In the search bar, look up **Check for Apple Software Updates**.
-3. Click on `check for updates`. This will redirect you to System Preferences where you can then click on `Software Update`. Your device will now check for updates, click on Install to get the newest MacOS update.
-4. This can take upwards of an hour, so please factor in that time when you are updating
+1. In the search bar, look up **Check for Apple Software Updates**.
+1. Click on `check for updates`. This will redirect you to System Preferences where you can then click on `Software Update`. Your device will now check for updates, click on Install to get the newest MacOS update.
+1. This can take upwards of an hour, so please factor in that time when you are updating
 
 **Mac App Store**
 
 1. Go into Finder and locate the application `App Store`
-2. Search for the most current MacOS (Currently macOS Sonoma)
+1. Search for the most current MacOS (Currently macOS Sonoma)
 
 
 ### FAQ for issues with a new macOS update
@@ -272,7 +272,7 @@ With the installation of JAMF comes Self Service which can be found in Applicati
 
 ### Jamf Wipe
 
-If you need to wipe a macOS system because you have received a new (refreshed) system for GitLab work or are departing GitLab, please [schedule a time](/handbook/business-technology/team-member-enablement/#laptop-wipe-schedules-for-it-analysts) with an IT Analyst to perform the wipe and decommission from Jamf management.
+If you need to wipe a macOS system because you have received a new (refreshed) system for GitLab work or are departing GitLab, please [schedule a time](/handbook/business-technology/end-user-services/#laptop-wipe-schedules-for-it-analysts) with an IT Analyst to perform the wipe and decommission from Jamf management.
 
 ### Reinstalling macOS after a Jamf wipe
 
@@ -298,8 +298,8 @@ After we have initiated the wipe from our end, the Mac should restart several ti
 
 There are several ways to reach the IT team:
 1. You can reach out to us on Slack via #it_help
-2. Email us at it-help@gitlab.com
-3. Create an access request using the [Individual_Bulk_Access_Request template here](/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/)
+1. Email us at it-help@gitlab.com
+1. Create an access request using the [Individual_Bulk_Access_Request template here](/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/)
 
 ### How to Contact Us or Escalate Priority Issues Outside of Standard Hours
 
@@ -315,4 +315,5 @@ All other request should have an issue created.
 Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](/handbook/security/#information-security-policy-exception-management-process).
 
 ## References
+
 - Parent Policy: [Information Security Policy](/handbook/security/)
