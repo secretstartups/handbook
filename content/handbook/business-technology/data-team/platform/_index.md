@@ -267,7 +267,7 @@ To gain access to Snowflake:
 
 Snowflake can be used to perform analyses on the data that is available by writing SQL-code. Anything created and any outcome of the analyses is considered as an [ad-hoc analyses](handbook/business-technology/data-team/data-development/#data-development-at-gitlab). It is important to know that anything that is created (i.e. worksheets and dashboards) is not version controlled and not supported or managed by the Central Data Team. I.e. When a team member off-boards from GitLab, the worksheets and dashboards are not accessible anymore. In order to persist analyses, team members can build Tableau workbooks, store code snippets in a GitLab project, or commit code to the Data Team's [dbt project](https://gitlab.com/gitlab-data/analytics/-/tree/master/transform/snowflake-dbt).
 
-In order to be granted access to Snowflake, an AR must be opened as [described](handbook/business-technology/data-team/platform/#warehouse-access). A new user will be created with access to query the `PROD` database.
+In order to be granted access to Snowflake, an AR must be opened as [described](/handbook/business-technology/data-team/platform/#warehouse-access). A new user will be created with access to query the `PROD` database.
 There are 2 levels of data access:
 - General data --> Adding the Snowflake `snowflake_analyst` role to their account.
 - SAFE data (you must be or will become a designated insider) --> Adding the Snowflake `snowflake_analyst_safe` to their account. See the [SAFE Guide](handbook/business-technology/data-team/platform/safe-data/#snowflake) for the needed approvals.
@@ -410,7 +410,7 @@ Selecting the right role can be done via the GUI in the up right corner.
 1. Click on the arrow
 2. Select Switch Role
 3. Select your role.
-  
+
 You can set this to your default by running the following:
 
 `ALTER USER <YOUR_USER_NAME> SET DEFAULT_ROLE = '<YOUR_ROLE>'`
