@@ -220,7 +220,7 @@ Once you save the ticket in the `Open` state, the macro will also:
 
 ### Using the Cross Region Handover Form
 
-The existing Handover Form is reserved for high-priority tickets only, this ensures a streamlined process for urgent cases, reducing noise and allowing Support Engineers to handle lower-priority tickets without managerial guidance.
+The existing Handover Form is reserved for high-priority tickets only, ensuring a streamlined process for urgent cases, reducing noise and allowing Support Engineers to handle lower-priority tickets without managerial guidance.
 
 1. Ensure that you have followed the steps above in relation to preparing the ticket for handover.
 1. Select a handover form from the Handovers folder that is bookmarked at the top of your SGG channel. Choose the form (such as Handover to EMEA) based on the target region to which you need to handover the ticket.
