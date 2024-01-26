@@ -27,7 +27,7 @@ description: "This hands-on lab guide is designed to walk you through the lab ex
     sudo mkdir /tmp/backups
     ```
 
-1. Edit gitlab.rb to change the backup path. Replace "123" with the line number noted in step 3.
+1. Edit gitlab.rb to change the backup path. Replace "606" with the line number noted in step 3.
 
     ```bash
     sudo sed -i '606s@\/var\/opt\/gitlab\/backups@\/tmp\/backups@' /etc/gitlab/gitlab.rb

@@ -13,9 +13,9 @@ description: "This hands-on lab guide is designed to walk you through the lab ex
 
 1. GitLab's Prometheus server can be reached via TCP port 9090. Unfortunately, the training environment currently blocks inbound traffic to that port. As a workaround, you can open an SSH tunnel as follows.
 
-```bash
-ssh -L 9090:localhost:9090 -i <SSH_KEY_NAME>.pem ec2-user@<GITLAB_INSTANCE_HOSTNAME>
-```
+    ```bash
+    ssh -L 9090:localhost:9090 -i <SSH_KEY_NAME>.pem ec2-user@<GITLAB_INSTANCE_HOSTNAME>
+    ```
 
 1. Navigate to `http://localhost:9090` in a web browser to view the built-in Prometheus server.
 
