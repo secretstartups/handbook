@@ -614,7 +614,7 @@ Since GitLab is an [all remote](/handbook/company/culture/all-remote/) company w
 - [Bone Marrow and Organ Donation Leave Act](https://dwd.wisconsin.gov/dwd/publications/erd/pdf/erd-7983-p.pdf)
 - [Minimum Wage Rates](https://dwd.wisconsin.gov/dwd/publications/erd/pdf/erd-9247-p.pdf)
 - [Notification Required for Cessation of Health Care Benefits](https://dwd.wisconsin.gov/dwd/publications/erd/pdf/erd-11054-p.pdf)
-- [Notice to Employees about Applying for Unemployment Benefits](https://drive.google.com/file/d/1bYkaoUPxGk5P4Da_GZa4w-62PhkVcbNV/view?usp=sharing)
+- [Notice to Employees about Applying for Unemployment Benefits](https://dwd.wisconsin.gov/dwd/publications/ui/ucb-7-p.pdf)
 - [Workers' Compensation Notice - Inc.](https://drive.google.com/file/d/11gTzkSQfn48adQls9mys8_hB52fhTwZU/view?usp=sharing)
 
 ### Wyoming
