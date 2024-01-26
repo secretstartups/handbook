@@ -39,7 +39,7 @@ A typical workflow to edit the handbook:
 1. Navigate to the handbook page you want to edit. At the bottom, or on the right, click on the URL `Edit this page` to open the new Web IDE.
     - Alternatively, open the [public handbook](https://gitlab.com/gitlab-com/content-sites/handbook) project and select `Web IDE` from the edit actions. This requires you to navigate into the source tree where the handbook files are located.
 
-   ![Handbook page at the bottom, action: Edit in Web IDE](/images/editing/practical_handbook_edits_web_ide_vs_code_bottom_handbook_action.png)
+   ![Handbook page at the bottom, action: Edit in Web IDE](/handbook/editing-handbook/images/practical_handbook_edits_web_ide_vs_code_bottom_handbook_action.png)
 
 1. Familiarize yourself with the [Web IDE](https://docs.gitlab.com/ee/user/project/web_ide/):
     - The menu sections are located on the left
@@ -48,52 +48,52 @@ A typical workflow to edit the handbook:
     - Additional meta information is provided at the bottom. Git branch, problems, current line number, spaces for indentation, encoding, end-of-line sequence, language mode, layout, notifications.
     - **Tip:** Hover over the menu sections and items to learn more about their purpose and keyboard shortcuts.
 
-    ![Web IDE overview, handbook page highlighted in the file tree](/images/editing/practical_handbook_edits_web_ide_vs_code_file_tree_edit_handbook_page.png)
+    ![Web IDE overview, handbook page highlighted in the file tree](/handbook/editing-handbook/images/practical_handbook_edits_web_ide_vs_code_file_tree_edit_handbook_page.png)
 
 1. Edit the selected file, and try the Markdown preview. `Cmd+Shift+P` on macOS opens the Web IDE command palette to search for commands. For example, type `Markdown`, select `Markdown: Open Preview to the Side` and try the preview.
     - Note that the [handbook markdown engine](/docs/markdown-guide/) supports more rendering features than the [Web IDE preview based on VS Code](https://code.visualstudio.com/docs/languages/markdown), and some items won't be rendered properly. Commit and create a [draft merge request](https://docs.gitlab.com/ee/user/project/merge_requests/drafts.html) to view the handbook [review apps](https://docs.gitlab.com/ee/ci/review_apps/) to preview the page, such as to verify embedded images.
 
-    ![Web IDE editor, Markdown preview](/images/editing/practical_handbook_edits_web_ide_vs_code_console_markdown.png)
+    ![Web IDE editor, Markdown preview](/handbook/editing-handbook/images/practical_handbook_edits_web_ide_vs_code_console_markdown.png)
 
 1. Upload new files by right-clicking and selecting `Upload...` for example images into `static/images/handbook/` and the corresponding file tree, following the handbook directories.
 
-    ![Web IDE overview, upload files](/images/editing/practical_handbook_edits_web_ide_vs_code_file_upload_images.png)
+    ![Web IDE overview, upload files](images/practical_handbook_edits_web_ide_vs_code_file_upload_images.png)
 
 1. Open the `Source Control` icon on the left menu which has a blue marker for counting the file changes. Tip: Keyboard shortcut `Ctrl+Shift+G`.
 
-    ![Web IDE menu, source control](/images/editing/practical_handbook_edits_web_ide_vs_code_menu_explorer_search_source_control.png)
+    ![Web IDE menu, source control](/handbook/editing-handbook/images/practical_handbook_edits_web_ide_vs_code_menu_explorer_search_source_control.png)
 
 1. Review the changed files, and once ready, specify a Git commit message and click `Commit & Push`. Keyboard shortcut:  `Cmd+Enter`.
 
-    ![Web IDE, commit and push: Commit message](/images/editing/practical_handbook_edits_web_ide_vs_code_source_control_commit_message.png)
+    ![Web IDE, commit and push: Commit message](/handbook/editing-handbook/images/practical_handbook_edits_web_ide_vs_code_source_control_commit_message.png)
 
 1. Commit the changes to a new Git branch (leave selection, press `Enter`).
 
-    ![Web IDE, commit and push: Create a new branch](/images/editing/practical_handbook_edits_web_ide_vs_code_source_control_commit_to_a_new_branch.png)
+    ![Web IDE, commit and push: Create a new branch](/handbook/editing-handbook/images/practical_handbook_edits_web_ide_vs_code_source_control_commit_to_a_new_branch.png)
 
 1. Specify a new Git branch name (optional). Press `Enter` to continue. This action pushes the changes into the Git repository. The changes are persisted on the GitLab server and are immediately visible in the project view.
 
-    ![Web IDE, commit and push: Branch name](/images/editing/practical_handbook_edits_web_ide_vs_code_source_control_commit_new_branch_name.png)
+    ![Web IDE, commit and push: Branch name](/handbook/editing-handbook/images/practical_handbook_edits_web_ide_vs_code_source_control_commit_new_branch_name.png)
 
 1. Check the pop-up at the bottom right, and click `Create Merge Request` to open the GitLab MR tab. Tip: The notification bell icon at the bottom brings back the notification, if accidentally dismissed.
 
-    ![Web IDE, commit and push: Create Merge Request](/images/editing/practical_handbook_edits_web_ide_vs_code_source_control_popup_create_mr.png)
+    ![Web IDE, commit and push: Create Merge Request](/handbook/editing-handbook/images/practical_handbook_edits_web_ide_vs_code_source_control_popup_create_mr.png)
 
 1. Fill in the MR template, provide why the merge request is created, add labels (e.g. using quick actions `/label ~handbook`), assign yourself (`/assign me`), and set the branch to delete when merged. Optionally, use the [draft option](https://docs.gitlab.com/ee/user/project/merge_requests/drafts.html) to prevent merging until ready.
 
-    ![GitLab Merge Request view](/images/editing/practical_handbook_edits_web_ide_vs_code_gitlab_create_mr.png)
+    ![GitLab Merge Request view](/handbook/editing-handbook/images/practical_handbook_edits_web_ide_vs_code_gitlab_create_mr.png)
 
 1. Make additional changes to the MR: Select `Code > Open in Web IDE` on the upper right menu. This opens the Web IDE again to make changes. All changed files are opened automatically.
 
-    ![Merge request, open in Web IDE](/images/editing/practical_handbook_edits_web_ide_vs_code_gitlab_mr_open_in_web_ide.png)
+    ![Merge request, open in Web IDE](/handbook/editing-handbook/images/practical_handbook_edits_web_ide_vs_code_gitlab_mr_open_in_web_ide.png)
 
 1. Make changes, commit and push them, and select the MR associated branch again (follow [this issue](https://gitlab.com/gitlab-org/gitlab/-/issues/383801#note_1214559713) for UX commit flows).
 
-    ![Web IDE, commit and select MR associated branch](/images/editing/practical_handbook_edits_web_ide_vs_code_from_mr_changes_source_control_select_branch.png)
+    ![Web IDE, commit and select MR associated branch](/handbook/editing-handbook/images/practical_handbook_edits_web_ide_vs_code_from_mr_changes_source_control_select_branch.png)
 
 1. Optional: Follow the pop-up notification to navigate back to the MR.
 
-    ![Web IDE, go back to MR after commit and push](/images/editing/practical_handbook_edits_web_ide_vs_code_from_mr_changes_popup_go_to_mr.png)
+    ![Web IDE, go back to MR after commit and push](/handbook/editing-handbook/images/practical_handbook_edits_web_ide_vs_code_from_mr_changes_popup_go_to_mr.png)
 
 **Tip**: Practice the keyboard shortcuts for your workflows: After making changes, `Control+Shift+G` to commit, `Cmd+Enter`, Cursor to select the branch, `Enter`, etc.
 
@@ -187,7 +187,9 @@ section-dir/
 |- leaf-page3.md
 ```
 
-If you rename or move a page, you can [add an alias to redirect]({{< ref "metadata.md#aliases" >}}).
+### Moving, deleting, or renaming a page
+
+If you delete, rename, or move a page, you can [add an alias to redirect]({{< ref "frontmatter.md#aliases" >}}).
 
 ## Failing pipelines
 
@@ -212,6 +214,65 @@ For example: `Error: error building site: assemble: "/builds/gitlab-com/content-
 To fix markdown errors, review the message. Alternatively, review the relevant section in the [markdown style guide]({{< ref "/docs/markdown-guide" >}}).
 
 For all other errors, the error message should provide the information necessary to fix it. If you're unsure, you can [reach out for help](#need-help).
+
+### Fixing default branch errors
+
+MR pipelines should catch almost all errors before they are merged into the relevant repository.
+However, the handbook (and some other projects) pull data from `www-gitlab-com` `yml` files,
+which are currently not fully checked by the pipeline.
+
+If the default branch `main` (for public and internal handbook) or `master` (for `www-gitlab-com`)
+is "broken" and pipelines are failing for everyone, the root issue is most likely a data file error.
+
+1. Check the error message.
+1. If it mentions an error in building the site, or rendering something, follow the trace.
+1. In the layout file, if it's failing on displaying on something
+   that starts with `site.Data.public.`, then it's a data file issue.
+1. There are two ways to fix. Either:
+   1. Make the code itself more robust to deal with the types of values it may encounter.
+      However, not everyone knows Go and Hugo well enough to do that quickly.
+      If needed, create a "handbook::bug" issue in the handbook repository to document the problem
+      after fixing the pipeline issue.
+   1. Edit the data file to have values the build won't fail on.
+
+#### Example: Fixing broken main on tech writing shortcode
+
+Take this [example error](https://gitlab.com/gitlab-com/content-sites/handbook/-/jobs/5968799321#L123):
+
+```plain
+Error: error building site: failed to render shortcode: "/builds/gitlab-com/content-sites/handbook/content/handbook/product/ux/technical-writing/_index.md:126:1": failed to render shortcode "tech-writing": failed to process shortcode: "/builds/gitlab-com/content-sites/handbook/layouts/shortcodes/tech-writing.html:16:28": execute of template failed: template: shortcodes/tech-writing.html:16:28: executing "shortcodes/tech-writing.html" at <ref page (printf "/handbook/product/categories#%s-section" $section)>: error calling ref: parse "/handbook/product/categories#%!s(<nil>)-section": invalid URL escape "%!s"
+```
+
+Following the error trace, notice that the last error with a full path and line number is:
+`failed to process shortcode: "/builds/gitlab-com/content-sites/handbook/layouts/shortcodes/tech-writing.html:16:28"`.
+
+Looking [at the file](https://gitlab.com/gitlab-com/content-sites/handbook/-/blob/114d8f9bf00342360be14dce8cf6e55e1d8a6edd/layouts/shortcodes/tech-writing.html#L16),
+the issue is an unexpected value in `printf "/handbook/product/categories#%s-section" $section`,
+which matches the last part of the error message.
+
+From there, [line 11](https://gitlab.com/gitlab-com/content-sites/handbook/-/blob/114d8f9bf00342360be14dce8cf6e55e1d8a6edd/layouts/shortcodes/tech-writing.html#L11)
+tells us that the data is from `site.Data.public.stages.stages "section"`.
+
+If you have a local build of the site, you can find all the data files in the `data/public` folder.
+The relevant file (usually a `yml` file) should tell you at the top where to find the original.
+
+If you do not have a local build, you can still likely find it in the [www-gitlab-com data folder](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data).
+
+Based on the code, you can figure out the filename. `site.Data.public.stages.stages` means it's
+in `data/public` and the file is `stages.yml`.
+
+The last parts `.stages "section"` means it's inside of `stages:` and it's pulling data from
+each `section:` line.
+
+You can check the most recent changes to the file, and/or compare it to when `main` started failing.
+
+In this case, [an empty `section:` line](https://gitlab.com/gitlab-com/www-gitlab-com/-/commit/17a5406b9a8fd33756cd5e0c4a2343ea2b4ab7a7)
+was the issue.
+
+The quick and easy fix is to add text to the empty `section:` line, merge it, and run a new pipeline
+in the public handbook project.
+
+In this case, [the handbook code was made more robust](https://gitlab.com/gitlab-com/content-sites/handbook/-/merge_requests/2820/diffs).
 
 ## Additional tips
 

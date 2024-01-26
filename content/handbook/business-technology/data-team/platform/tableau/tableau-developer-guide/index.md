@@ -464,6 +464,42 @@ For embedding in the handbook, views will embed better than dashboards will, so 
 
 Each workbook with views that are meant to be embedded in the public handbook must be tagged with the `Public` tag. This will ensure that the workbook, and their datasources are copied to the public GitLab Tableau site.  Only Creators and Explorers who can access the workbook can tag the workbook, see the Tableau [documentation](https://help.tableau.com/current/pro/desktop/en-us/tags.htm#add-tags) for more information.  The individual tagging must understand if the data should be shared publicly and if there is any question please work with the BI team to check and apply the tag.  Removing this tag from a workbook will delete the workbook from the public GitLab Tableau site, this will cause handbook pages trying to load a view from that workbook to display an error. It should be noted that it can currently take up to 48 hours for the synchronized workbook to show up in the list of [views available for embedding](/handbook/business-technology/data-team/platform/tableau/embed-demo/#views-availble-for-public-embedding).
 
+### Workbook Naming Convention
+
+When publishing workbooks to our Tableau Cloud site for the first time please name the workbook with their intended / official title, so that the resulting URL will capture just this title (this will allow us to keep the same URL when the workbook is published to the Ad-hoc or Production spaces):
+
+![](images/naming_tableau_workbook.png)
+
+![](images/workbook_url.png)
+
+Publishing to the [Development](https://10az.online.tableau.com/#/site/gitlab/projects/300844) project:
+
+All workbooks published to the Development project will be attached the _Draft_ and their department tags to indicate that they are in development mode and not a workbook that has been peer reviewed and intended to serve as the single source of truth (SSOT) for a use case. The BI team will leverage the Tags functionality available in Tableau Cloud to better organize workbooks by department and publishing status. For example, this workbook below is assigned the _Draft_ and _Data Team_ tags:
+
+![](images/tags.png)
+
+To add tags to the workbook select on the ellipse symbol to the right of that workbook and click on _Tag..._:
+
+![](images/to_tag.png)
+
+Once in the Tag window, add in the _Draft_ and department tags for the workbook:
+
+![](images/add_tags.png)
+
+Publishing to the [Ad-hoc](https://10az.online.tableau.com/#/site/gitlab/projects/361929) or [Production](https://10az.online.tableau.com/#/site/gitlab/projects/361859) project:
+
+When publishing workbooks to the Ad-hoc or Production project, if the workbook is being published for the first time, please select **Move** and then remove the _Draft_ by navigating to the ellipse to the right of the workbook, select _Tag..._ and then clicking on the _X_ within the tag label. If publishing over / updating a workbook that is already in Ad-hoc or Production with a newer version from Development in Tableau Cloud, then select **Edit Workbook**, click on **Publish As**. Please make sure to name the workbook JUST AS it is currently named:
+
+![](images/remove_tags.png)
+
+Applying tags allows us to provide more information on the workbook, so that we can easily discern them by their business function / department and distinguish draft content that is still in development. To filter workbooks by their tags, please click on the search box in the upper right-hand corner of the project. Under **Content types** select **Workbooks**:
+
+![](images/search_tags.png)
+
+Once in the Workbooks section, click on the **Tags** dropdown to filter content by tags:
+
+![](images/filter_tags.png)
+
 ### Performance Indicators YML
 
 The `data/performance_indicators.yml` file in the handbook repositories is the basis for a system that automatically generates handbook pages with performance indicator content on them.  The structure can take a list of charts and each chart can take a list of filters and parameters.  Only charts not tagged as public should be included on internal handbook pages. The following is an example of how to add the needed information to the data file:

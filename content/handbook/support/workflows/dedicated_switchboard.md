@@ -6,7 +6,7 @@ description: "GitLab Dedicated Support - Switchboard"
 
 ## Overview
 
-Swithcboard is a portal for GitLab Internal team members and customers to manage their GitLab Dedicated instance.
+Switchboard is a portal for GitLab Internal team members and customers to manage their GitLab Dedicated instance.
 Read more about what the goals of Switchboard are on the [Category Direction page](https://about.gitlab.com/direction/saas-platforms/switchboard/).
 
 ## Accessing Switchboard

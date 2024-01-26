@@ -36,11 +36,7 @@ Once the form has been submitted, the L&R Support Engineer should follow the wor
 
 #### Namespaces with a prior Ultimate trial
 
-GitLab.com Premium to Ultimate subscription trials are handled similarly to regular trials regarding namespace eligibility. If a namespace previously underwent a trial (e.g. prior to being upgraded to a Premium subscription), attempting to initiate an Ultimate trial will result in the error `Validation failed: Gl namespace can have only one trial`.
-
-In order to bypass this validation:
-1. **Interim curent state:** Support team should submit a [Request for Help (RFH)](https://gitlab.com/gitlab-com/fulfilment-sub-department/section-fulfilment-request-for-help) to Fulfillment to clear the trial history for the namespace. Once cleared, the trial can be applied.
-1. **Coming soon:** The Fulfillment team is working to [update this validation](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/7382) to skip the existing trial history check for this specific trial type and allow for more than one trial per namespace.
+These namespaces are allowed to start an Ultimate trial over Premium subscription, circumventing the normal guardrails preventing a group from taking out more than one trial.
 
 #### Workflow caveats
 

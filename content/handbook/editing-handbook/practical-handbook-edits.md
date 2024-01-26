@@ -99,7 +99,7 @@ gsed -i 's,<searchtext>,<replacementtext>,g' file.md
 
 Please see the following suggestions for doing a bulk find and replace.
 
-If you rename a file/URL in one of the handbook repositories, please [add a redirect using an alias]({{< ref "metadata.md#aliases" >}}).
+If you rename a file/URL in one of the handbook repositories, please [add a redirect using an alias]({{< ref "frontmatter.md#aliases" >}}).
 
 If you rename a file/URL in the `www-gitlab-com` repository, please remember to add a redirect to [`redirects.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/redirects.yml) by [following this process](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/redirects_on_about_gitlab_com.md).
 

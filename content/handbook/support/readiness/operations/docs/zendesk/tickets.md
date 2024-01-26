@@ -138,8 +138,8 @@ for more information.
 #### Creating tickets for outbound requests
 
 **Warning** This often requires the ability to *create users* in Zendesk, which
-is only available on specific roles. That access is *very* risky and should only
-be used as documented in this section.
+is only available on specific roles i.e. CMOCs. That access is *very* risky and
+should only be used as documented in this section.
 
 **Note** This only applies to Zendesk Global at this time.
 

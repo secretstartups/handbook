@@ -1,6 +1,6 @@
 ---
 
-title: "CSM/CSE Webinar Calendar"
+title: "CSM/CSE Webinar & Hands-On Labs Calendar"
 ---
 # On this page
 
@@ -11,7 +11,7 @@ View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional
 Watch previously recorded webinars on our [YouTube Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kpczt4pRtyF147Uvn2bGGvq).
 
 ---
-# Upcoming Webinars
+# Upcoming Events
 
 We’d like to invite you to our free upcoming webinars and labs in the months of January and February 2024.
 
@@ -20,24 +20,6 @@ If you know someone who might be interested in attending, feel free to share the
 ## January 2024
 
 ### AMER Time Zone Webinars & Labs
-
-#### Advanced CI/CD
-##### January 23rd, 2024 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
-
-Expand your CI/CD knowledge while we cover advanced topics that will accelerate your efficiency using GitLab, such as pipelines, variables, rules, artifacts, and more. This session is intended for those who have used CI/CD in the past.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_iNqNs3ODTEiDvckmYQGClQ#/registration)
-
-#### Hands-on Lab: Security and Compliance in GitLab
-##### January 24th, 2023 at 9:00-11:00AM Pacific Time / 12:00-2:00PM Eastern Time
-
-In this lab we will focus on how you can secure your application with GitLab. 
-
-We will first take a look at how to apply scanners to your CICD pipelines in a hands-on exercise so that any vulnerabilities are caught as soon as the code is committed. 
-
-Next, we will look at compliance frameworks and pipelines to show how you can ensure no one within your development teams is cutting corners and exposing your application.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_eDhmZ3uIR5uXWLkbDEnAzg#/registration)
 
 #### Security and Compliance
 ##### January 26th, 2024 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
@@ -62,24 +44,6 @@ Join us for a hands-on GitLab AI lab where we will explore Artificial Intelligen
 
 
 ### EMEA Time Zone Webinars & Labs
-
-#### Advanced CI/CD
-##### January 23rd, 2024 at 10:00-11:00AM UTC / 11:00AM-12:00PM CET
-
-Expand your CI/CD knowledge while we cover advanced topics that will accelerate your efficiency using GitLab, such as pipelines, variables, rules, artifacts, and more. This session is intended for those who have used CI/CD in the past.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_k7dyg0dmSXCR_d-VyStC_A#/registration)
-
-#### Hands-on Lab: Security and Compliance in GitLab
-##### January 24th, 2023 at 10:00-12:00AM UTC / 11:00AM-1:00PM CET
-
-In this lab we will focus on how you can secure your application with GitLab. 
-
-We will first take a look at how to apply scanners to your CICD pipelines in a hands-on exercise so that any vulnerabilities are caught as soon as the code is committed. 
-
-Next, we will look at compliance frameworks and pipelines to show how you can ensure no one within your development teams is cutting corners and exposing your application.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_Eh04V1KVQbudD-yCFmmZ9Q#/registration)
 
 #### Security and Compliance
 ##### January 26th, 2024 at 10:00-11:00AM UTC / 11:00AM-12:00PM CET

@@ -98,19 +98,7 @@ Meeting Links:
 - Go: [It's time to Go !!!](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=ZGJvaDFvZDBmM3FrcnIyaWJ2NXAyNmw3NG1fMjAyNDAxMjRUMTAwMDAwWiBnaXRsYWIuY29tX2tuYWlmZjdiY3BnM3FrcXJ1YmRrZjRpdjEwQGc&tmsrc=gitlab.com_knaiff7bcpg3qkqrubdkf4iv10%40group.calendar.google.com&scp=ALL)
 - Ruby: [Ruby Chat](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MnRxYWtwM2xkNWdxdDMwbjhuaHNydDQ0cnRfMjAyNDAxMjNUMjMwMDAwWiBnaXRsYWIuY29tX2tuYWlmZjdiY3BnM3FrcXJ1YmRrZjRpdjEwQGc&tmsrc=gitlab.com_knaiff7bcpg3qkqrubdkf4iv10%40group.calendar.google.com&scp=ALL)
 
-### Team issue tracker
-
-- We use [team issues tracker](https://gitlab.com/gitlab-org/ci-cd/deploy-stage/environments-group/general/-/issues) for internal discussions such as: milestone planning issues, events planning, etc...
-- We also use a [special project](https://gitlab.com/gitlab-org/ci-cd/deploy-stage/environments-group/info/-/issues) for [Ops Section Async Updates](engineering/development/ops/#async-updates-no-status-in-meetings).
-- These issues are [public by default](/handbook/values/#public-by-default), but can be confidential.
-
-### Issue refinement
-
-Every week the [refinement bot](https://gitlab.com/gitlab-org/ci-cd/deploy-stage/environments-group/refinement) assigns a team member as the refinement DRI, who is responsible for refining **some issues from the top of the `~"workflow::refinement"` list** (the list is prioritised top to bottom) in the [Milestone Board](#milestone-board) **and another issue of their choice** with a ping to the EM and/or PM explaining the reasoning.
-
-The refinement process is described in the [issue template](https://gitlab.com/gitlab-org/ci-cd/deploy-stage/environments-group/refinement/-/blob/main/templates/default.erb).
-
-### Technical Discovery meetings
+#### Technical Discovery Meetings
 
 Sometimes we will encounter issues that need the input of the whole team to be refined and then worked on, such issues will be selected as a topic for a Technical Discovery meeting.
 We try to be conscious of sync time and so we expect a maximum of two of these meetings for each milestone.
@@ -131,7 +119,7 @@ A technical discovery meeting consists of:
 
 The goal of technical discovery meetings is to come up with a concrete technical proposal for the question at hand. We should not force a proposal, but aim to get there and write the conclusion accordingly with potential follow-ups.
 
-### Design pairing
+#### Design Pair Meeting
 
 Each week the Product Designer hosts a design pairing session with the team on Thursdays at 1:30pm UTC. The goal of the design pairing sessions is to give the team more insight into what Product Design is currently working on, share feedback and questions, as well as give us a space to brainstorm and work together through bigger problems. Anyone is encouraged to propose topics or existing user problems that could use some brainstorming together as a team. A design pairing session consists of:
 
@@ -141,6 +129,18 @@ Each week the Product Designer hosts a design pairing session with the team on T
 - A recording which will be posted to the team's [Youtube playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq-lA3_JctMdX0y4um3BGmV).
 
 If there are no topics, the meeting can be cancelled for the week.
+
+### Team issue tracker
+
+- We use [team issues tracker](https://gitlab.com/gitlab-org/ci-cd/deploy-stage/environments-group/general/-/issues) for internal discussions such as: milestone planning issues, events planning, etc...
+- We also use a [special project](https://gitlab.com/gitlab-org/ci-cd/deploy-stage/environments-group/info/-/issues) for [Ops Section Async Updates](engineering/development/ops/#async-updates-no-status-in-meetings).
+- These issues are [public by default](/handbook/values/#public-by-default), but can be confidential.
+
+### Issue refinement
+
+Every week the [refinement bot](https://gitlab.com/gitlab-org/ci-cd/deploy-stage/environments-group/refinement) assigns a team member as the refinement DRI, who is responsible for refining **some issues from the top of the `~"workflow::refinement"` list** (the list is prioritised top to bottom) in the [Milestone Board](#milestone-board) **and another issue of their choice** with a ping to the EM and/or PM explaining the reasoning.
+
+The refinement process is described in the [issue template](https://gitlab.com/gitlab-org/ci-cd/deploy-stage/environments-group/refinement/-/blob/main/templates/default.erb).
 
 ### Planning
 
