@@ -22,9 +22,61 @@ description: "Test Platform Sub-Department"
 
 ---
 
-## FY23 Direction
+## Mission
 
-In FY23 we will be focused on innovative test architecture, efficiency, and customer results while delivering impact to the company's bottomline via alignment to the [top cross-functional initiatives](/handbook/company/team/structure/working-groups/#top-cross-functional-initiatives). Key directional highlights: broaden our lead in ensuring self-managed excellence, improve deployment confidence, drive visibility and actionability of test results, and expand our Quality Architecture focus. In FY23 we anticipate continued momentum on enabling development and deployment at scale and it's more important than ever for us to deliver results.
+At GitLab [Quality is everyone's responsibility](https://handbook.gitlab.com/handbook/engineering/development/principles/#quality). The Test Platform sub-department's mission is to be a world class team that enables successful development and deployment of high quality GitLab software applications with [kaizen](https://www.techtarget.com/searcherp/definition/kaizen-or-continuous-improvement) workflow efficiency, reliability, productivity. 
+
+The Test Platform sub-department does this by focusing on: 
+
+- Innovative test architecture, efficiency, and customer results while delivering impact to the company's critical business initiatives. 
+- Broadening our lead in ensuring self-managed excellence, improve deployment confidence, drive visibility and actionability of test results, and expand our Architecture focus. 
+- Enabling development and deployment at scale.
+- Fostering a culture of quality evangelism, promoting testing best practices across GitLab.
+
+## Vision
+
+The Test Platform sub-department vision is to focus on customer satisfaction and enable GitLab to deliver faster and efficiently by supporting Gitlab’s principle of Quality is everyone’s responsibility. 
+
+Integral parts of this vision:
+
+1. Test Tooling: Build tools and frameworks that enable GitLab Engineering & Product teams to ship high-quality & reliable products to our customers efficiently. 
+1. Reliable platform: This includes monitoring the platform for performance issues, implementing security measures, and conducting capacity planning to ensure that the platform can handle the expected load.
+1. Technical Support and Expertise: By providing technical support and expertise to development teams, test platform teams can help to solve complex technical challenges and ensure that applications are built with utmost quality.
+
+## Our principles
+
+- **Foster an environment where Quality is Everyone's responsibility.**
+    - We enable product teams by baking quality early into the product development flow process.
+    - We are a sounding-board for our end users by making feedback known to product teams.
+    - We are a champion of good software design, testing practices and bug prevention strategies.
+- **Improve test coverage and leverage tests at all [levels](https://docs.gitlab.com/ee/development/testing_guide/testing_levels.html).**
+    - We work to ensure that the right tests run at the right places.
+    - We enable product teams' awareness of their test coverage with fast, clear and actionable reporting.
+    - We continuously refine test efficiency, refactor duplicate coverage, and increase stability.
+- **Make Engineering teams efficient, engaged and productive.**
+    - We build automated solutions to improve workflow efficiency and productivity.
+    - We ensure reliability in our tooling and tests.
+    - We ensure that continuous integration pipelines are efficient, stable with optimal coverage.
+- **Metrics driven.**
+    - We provide data driven insights into defects, test stability and efficiency.
+    - We ensure the data is actionable and is available transparently to the company and the wider community.
+    - We use data to make informative next steps and continuously improve with metrics-driven optimizations.
+
+## FY25 Direction
+
+GitLab has a [Three-Year Strategy](/handbook/company/strategy/). Our [Yearlies](/handbook/company/yearlies/) connect our 3 year strategy to our shorter-term quarterly [Objectives and Key Results (OKRs)](https://handbook.gitlab.com/handbook/engineering/infrastructure-quality/okrs/). The sub-department direction is accomplished through these objectives (OKRs).
+
+Our focus is to support our FY25 Yearlies. They can be found in the [internal handbook](https://internal.gitlab.com/handbook/company/yearlies/#fy25-yearlies).
+
+### OKRs
+
+Objectives and Key Results (OKRs) help align our sub-department towards what really matters. These happen quarterly and are based on company OKRs. We follow the OKR process defined [here](/handbook/company/okrs/#okr-process-at-gitlab).
+
+#### Active Quarter OKRs
+
+Here is an [overview](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/4049) of our current Test Platform OKR.
+
+## Areas of Responsibility
 
 ### Self-Managed Excellence
 
@@ -53,34 +105,43 @@ Test Platform has been key to supporting prospect POVs and providing prompt, kno
 - Burn down S2 bugs to improve user experience.
 
 ### Productivity
+
 - Reduce manual burden for SET team members on-call.
 - Improve test failure debugging through traceable test executions and streamlined, concise logging.
 - Reduce duration of GitLab pipelines through selective test execution.
 - Contribute quality tools to GitLab the product to help mature and dogfood our testing offerings.
 - Increase MR Rate.
 
-### Team Growth & Engagement
-- Provide geo-diverse department activity and presence.
-- Provide clear actionable career paths for all job families.
-- Provide learning & growing opportunities for the management team.
-- Collaborate with recruitment to ensure timely hiring.
-- Every manager understands their team's MR Rate.
+## Team Structure 
 
-## OKRs
+Infrastructure Department structure is documented [here](/handbook/engineering/infrastructure/#organization-structure).
 
-Objectives and Key Results (OKRs) help align our sub-department towards what really matters. These happen quarterly and are based on company OKRs. We follow the OKR process defined [here](/handbook/company/okrs/#okr-process-at-gitlab).
+#### Test Platform sub-department structure
 
-### Active Quarter OKRs
+```mermaid
+graph TD
+    A[Test Platform sub-department]
+    A --> B(Self-Managed Platform team)
+    A --> C(Test Engineering team)
+    A --> D(Test and Tools Infrastructure team)
 
-Here is an [overview](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/4049) of our current Test Platform OKR.
+    click A "/handbook/engineering/infrastructure/test-platform"
+    click B "/handbook/engineering/infrastructure/test-platform/self-managed-platform-team"
+    click C "/handbook/engineering/infrastructure/test-platform/test-engineering-team"
+    click D "/handbook/engineering/infrastructure/test-platform/test-and-tools-infrastructure-team"
+```
+### Engage with us
 
-### Open roles
+Feel free to reach out to us by opening an issue on the [Quality Team Tasks project](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues) or contacting us in one of the Slack channels listed below.
 
-Test Platform is actively hiring! Please view [our jobs page](https://boards.greenhouse.io/gitlab) to read more and apply.
+| Team                           | GitLab.com handle  | Slack channel | Slack handle |
+| ------------------------------ | ------------------ | ------------- | ------------ |
+| Test Platform            | [`@gl-quality/tp-sub-dept`](https://gitlab.com/gl-quality/tp-sub-dept) | [#test-platform](https://gitlab.slack.com/archives/C3JJET4Q6) | None |
+| [Self-Managed Platform team](self-managed-platform-team) | [`@gl-quality/tp-self-managed-platform`](https://gitlab.com/gl-quality/tp-self-managed-platform) | [#self-managed-platform-team](https://gitlab.slack.com/archives/CTP7N0PM4) | `@self-managed-platform` |
+| [Test Engineering team](test-engineering-team) | [`@gl-quality/tp-test-engineering`](https://gitlab.com/gl-quality/tp-test-engineering) | [#test-engineering-team](https://gitlab.slack.com/archives/C064M4S0FU5) |`@test-engineering-team` |
+| [Test and Tools Infrastructure team](test-and-tools-infrastructure-team)     | [`@gl-quality/tp-test-tools-infrastructure`](https://gitlab.com/gl-quality/tp-test-tools-infrastructure)  |  [`#test-tools-infrastructure-team`](https://gitlab.slack.com/archives/C064M4D2V37)  | `@test-tools-infrastructure` |
 
 ## Team Members
-
-Test Platform sub-department has three teams - `Test and Tools Infrastructure team`, `Self-Managed Platform team`, and `Test Engineering team`.
 
 ### Management team
 
@@ -88,29 +149,17 @@ Test Platform sub-department has three teams - `Test and Tools Infrastructure te
 
 ### Individual contributors
 
-
-The following people are members of the Test and Tools Infrastructure team:
+The following people are members of the [Test and Tools Infrastructure team](test-and-tools-infrastructure-team):
 
 {{< team-by-manager-slug "ghosh-abhinaba" >}}
 
-The following people are members of the Self-Managed Platform team:
+The following people are members of the [Self-Managed Platform team](self-managed-platform-team):
 
 {{< team-by-manager-slug "ksvoboda" >}}
 
-The following people are members of the Test Engineering team:
+The following people are members of the [Test Engineering team](test-engineering-team):
 
 {{< team-by-manager-slug "kkolpakova" >}}
-
-## Engage with Us
-
-Feel free to reach out to us by opening an issue on the [Quality Team Tasks project](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues) or contacting us in one of the Slack channels listed below.
-
-| Team                           | GitLab.com handle  | Slack channel | Slack handle |
-| ------------------------------ | ------------------ | ------------- | ------------ |
-| Test Platform            | [`@gl-quality/tp-sub-dept`](https://gitlab.com/gl-quality/tp-sub-dept) | [#test-platform](https://gitlab.slack.com/archives/C3JJET4Q6) | None |
-| [Test and Tools Infrastructure team](test-and-tools-infrastructure-team)     | [`@gl-quality/tp-test-tools-infrastructure`](https://gitlab.com/gl-quality/tp-test-tools-infrastructure)  |  [`#test-tools-infrastructure-team`](https://gitlab.slack.com/archives/C064M4D2V37)  | `@test-tools-infrastructure` |
-| [Self-Managed Platform team](self-managed-platform-team) | [`@gl-quality/tp-self-managed-platform`](https://gitlab.com/gl-quality/tp-self-managed-platform) | [#self-managed-platform-team](https://gitlab.slack.com/archives/CTP7N0PM4) | `@self-managed-platform` |
-| [Test Engineering team](test-engineering-team) | [`@gl-quality/tp-test-engineering`](https://gitlab.com/gl-quality/tp-test-engineering) | [#test-engineering-team](https://gitlab.slack.com/archives/C064M4S0FU5) |`@test-engineering-team` |
 
 ## How we Work
 
