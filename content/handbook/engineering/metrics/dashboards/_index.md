@@ -60,5 +60,5 @@ Simply copy and paste this code into your page. It will save your selected filte
 
 ### Security Dashboard
 
-{{< tableau height="600px" src="hhttps://us-west-2b.online.tableau.com/t/gitlabpublic/views/AppSecDashboards_17060230337410/AppSec-ApplicationandContainerVulnerabilityDashboard" >}}
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/AppSecDashboards_17060230337410/AppSec-ApplicationandContainerVulnerabilityDashboard" >}}
 {{< /tableau >}}
