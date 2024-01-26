@@ -122,8 +122,8 @@ Infrastructure Department structure is documented [here](/handbook/engineering/i
 graph TD
     A[Test Platform sub-department]
     A --> B(Self-Managed Platform team)
-    A --> C(Test and Tools Infrastructure team)
-    A --> D(Test Engineering team)
+    A --> C(Test Engineering team)
+    A --> D(Test and Tools Infrastructure team)
 
     click A "/handbook/engineering/infrastructure/test-platform"
     click B "/handbook/engineering/infrastructure/test-platform/self-managed-platform-team"
