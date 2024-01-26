@@ -178,7 +178,7 @@ We also utilize Sisense for long-term trend forecasting. While this is not a rec
 
 #### Runbooks
 
-The process for monitoring, responding to, and mitigating incidents is documented within our [Static Analysis Runbooks](/handbook/engineering/development/sec/secure/static-analysis/runbooks.html) page.
+The process for monitoring, responding to, and mitigating incidents is documented within our [Static Analysis Runbooks](static-analysis/runbooks/) page.
 
 ### Software delivery in Static Analysis
 
