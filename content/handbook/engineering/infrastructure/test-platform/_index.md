@@ -138,8 +138,8 @@ Feel free to reach out to us by opening an issue on the [Quality Team Tasks proj
 | ------------------------------ | ------------------ | ------------- | ------------ |
 | Test Platform            | [`@gl-quality/tp-sub-dept`](https://gitlab.com/gl-quality/tp-sub-dept) | [#test-platform](https://gitlab.slack.com/archives/C3JJET4Q6) | None |
 | [Self-Managed Platform team](self-managed-platform-team) | [`@gl-quality/tp-self-managed-platform`](https://gitlab.com/gl-quality/tp-self-managed-platform) | [#self-managed-platform-team](https://gitlab.slack.com/archives/CTP7N0PM4) | `@self-managed-platform` |
-| [Test and Tools Infrastructure team](test-and-tools-infrastructure-team)     | [`@gl-quality/tp-test-tools-infrastructure`](https://gitlab.com/gl-quality/tp-test-tools-infrastructure)  |  [`#test-tools-infrastructure-team`](https://gitlab.slack.com/archives/C064M4D2V37)  | `@test-tools-infrastructure` |
 | [Test Engineering team](test-engineering-team) | [`@gl-quality/tp-test-engineering`](https://gitlab.com/gl-quality/tp-test-engineering) | [#test-engineering-team](https://gitlab.slack.com/archives/C064M4S0FU5) |`@test-engineering-team` |
+| [Test and Tools Infrastructure team](test-and-tools-infrastructure-team)     | [`@gl-quality/tp-test-tools-infrastructure`](https://gitlab.com/gl-quality/tp-test-tools-infrastructure)  |  [`#test-tools-infrastructure-team`](https://gitlab.slack.com/archives/C064M4D2V37)  | `@test-tools-infrastructure` |
 
 ## Team Members
 
