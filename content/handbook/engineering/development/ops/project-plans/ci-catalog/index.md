@@ -18,8 +18,6 @@ CI Catalog GA Epic: [https://gitlab.com/groups/gitlab-org/-/epics/12153](https:/
 |---------- | ----- | ----------- |
 |  ~17.0     | 2024-04-13 to 2024-05-10 | CI Catalog GA |
 
-{{< sisense dashboard="1174055" >}}
-
 ### Milestone 16.9 (January 13, 2024 - February 9, 2024)
 
 #### Updates for current Go-To-GA list
