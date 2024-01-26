@@ -211,24 +211,24 @@ Cross Region Handover requests are async by nature, which can make it difficult 
 
 ### Preparing a ticket for Handover
 
-1. Use the handover macro:
-    - All handover requests, irrespective of priority, must employ and complete the `Handover Ticket Summary` macro.
-    - Tickets not using the macro will not be considered in an acceptable state for handover acceptance and will be re-assigned back to the requestor.
-1. Automate ticket unassignment using the Handover Ticket Summary macro:
-    - Tickets utilising the `Handover Ticket Summary` macro will automatically have the Handover Status field set to `Needs Handover` and will be unassigned.
-    - To do this manually in Zendesk you need to change the Assignee field to a non human item (e.g. SGG Maple), you should also ensure that the SGG field is set to the corresponding SGG view (e.g. Maple) and the ticket is not in the following states solved/closed/pending.
-    - Tickets using the macro will appear in their corresponding SGG queue under NRT as an unassigned ticket.
+To request a handover of any ticket, even a low-priority one, to a different region, use and complete the [ZenDesk macro named `Handover Ticket Summary`](https://gitlab.com/gitlab-com/support/zendesk-global/macros/-/blob/master/active/General/Handover%20Ticket%20Summary.md?ref_type=heads).
+If you don't use the macro, the ticket will be considered to have been improperly prepared for handover and will be reassigned to the requestor.
 
+Once you save the ticket in the `Open` state, the macro will also:
+- Apply the `Need Handover` value to the `Handover Status` field
+- Set the ticket to be unassigned, and add you to the `CC` field
 
 ### Using the Cross Region Handover Form
 
-The existing Handover Form is reserved for high-priority tickets only, this ensures a streamlined process for urgent cases, reducing noise and allowing Support Engineers to handle lower-priority tickets without managerial guidance.
+The existing Handover Form is reserved for high-priority tickets only, ensuring a streamlined process for urgent cases, reducing noise and allowing Support Engineers to handle lower-priority tickets without managerial guidance.
 
-1. Ensure that you have followed the steps above in relation to preparing the ticket for handover
+Ensure that you have followed the steps above in relation to preparing the ticket for handover:
+
+
 1. Select a handover form from the Handovers folder that is bookmarked at the top of your SGG channel. Choose the form (such as Handover to EMEA) based on the target region to which you need to handover the ticket.
 1. Fill out all fields (using as much detail as possible for the paragraph fields), then click Submit.
 1. A message will post to your group’s Slack channel, which will ping the regional group handle as well as the associated SGG Support Managers.
-1. You will also receive a private Slack message with the full details of your form submission.
+1. You will also receive a private Slack message with the full details of your form submission, including a reminder to use the `Handover Ticket Summary` macro (required).
 1. You can track your request in the Ticket Handover Tracker sheet that you will also find in the Handovers folder.
 1. Managers and Seniors should periodically review the Ticket Handover Tracker sheet to help address any pending requests.
 
