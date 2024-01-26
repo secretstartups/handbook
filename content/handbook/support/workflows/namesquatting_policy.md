@@ -10,7 +10,7 @@ subcategory: Accounts
 
 ### Overview
 
-According to the [statement of support](/support/gitlab-com-policies/#name-squatting-policy), namespaces may be released when they meet the appropriate criteria, and requested **by a paid customer** (member of a paid namespace or a self-managed customer migrating to SaaS).
+According to the [statement of support](https://about.gitlab.com/support/gitlab-com-policies/#name-squatting-policy), namespaces may be released when they meet the appropriate criteria, and requested **by a paid customer** (member of a paid namespace or a self-managed customer migrating to SaaS).
 
 **IMPORTANT NOTE:** If you have any situation that is unusual, or does not fall under the workflow below, [open an Issue](https://gitlab.com/gitlab-com/gl-security/security-operations/trust-and-safety/operations/-/issues/new?issuable_template=General%2BUncategorized) with Security Operations. Describe the situation and request them to review and provide guidance.
 
