@@ -17,12 +17,14 @@ A marketing script, pixel, or tag is a small piece of code embedded on a web pag
 |Google Analytics|Analytics|All pageviews, engagement, conversion|Marketing Analytics,Digital Experience|
 |Snowplow|Analytics|All pageviews|Marketing Analytics|
 |QuantumMetric|Analytics|All pageviews, engagement, conversion|Marketing Analytics,Digital Experience|
+|Adobe Measure (Bizible)|Analytics|All pageviews|Marketing Operations, Marketing Analytics|
+|Marketo|Analytics|All pageviews|Marketing Operations|
 |PathFactory|Functional|All pageviews|Marketing Operations, ABM|
 |6Sense|Functional|All pageviews|Marketing Operations, ABM|
 |Qualified|Functional|Most pageviews|Marketing Operations|
 |Zoominfo|Functional|Most pageviews|Marketing Operations|
 
-Table last updated: 12/18/2023 
+Table last updated: 2024-01-26 
 
 ### The Process 
 To request the placement of a new tag on the website, please first ensure that the platform is listed on [tech_stack.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml), as all platforms must undergo approval by the legal team.
