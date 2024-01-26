@@ -15,7 +15,7 @@ This page is populated from the following filterable dashboards.
 - [Development Embedded Dashboard](https://us-west-2b.online.tableau.com/t/gitlabpublic/views/DevelopmentEmbeddedDashboard/DevelopmentEmbeddedDashboard)
 - Quality Embedded Dashboard - LINK
 - Infrastructure Embedded Dashboard - LINK
-- Security Embedded Dashboard - LINK
+- [Security Embedded Dashboard](https://us-west-2b.online.tableau.com/t/gitlabpublic/views/AppSecDashboards_17060230337410/AppSec-ApplicationandContainerVulnerabilityDashboard)
 
 #### Filtering your data
 To ensure the accuracy of the presented data, please use the convenient filtering options (**'Group'**, **'Section'**, or **'Stage'**) at the top of the dashboard to tailor the displayed information to your group, section, or stage's metrics.
@@ -59,3 +59,6 @@ Simply copy and paste this code into your page. It will save your selected filte
 ### Quality Dashboard
 
 ### Security Dashboard
+
+{{< tableau height="600px" src="hhttps://us-west-2b.online.tableau.com/t/gitlabpublic/views/AppSecDashboards_17060230337410/AppSec-ApplicationandContainerVulnerabilityDashboard" >}}
+{{< /tableau >}}
