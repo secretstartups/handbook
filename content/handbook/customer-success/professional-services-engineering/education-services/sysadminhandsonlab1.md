@@ -17,6 +17,8 @@ Before you get started, complete the following:
 
 ### Task A. Access training environment
 
+> Your training environment consists of two EC2 instances in AWS. You will use the first instance to deploy GitLab and the second instance to deploy a runner for your GitLab instance. For this section of the lab, use the instance designated for the GitLab installation.
+
 1. On your local computer, open a terminal window.
 
 1. Navigate to the directory that contains the SSH key file for your server.
