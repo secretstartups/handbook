@@ -13,9 +13,9 @@ The O’Reilly Learning library, contains thousands of books, videos and live le
 
 The Customer Success and Development departments each have a number of licenses available for team-members. If you would like access to O'Reilly, please check Okta for the O'Reilly App.
 
-#### Customer Sucess
+#### Customer Success
 
-- If the O'Reilly App isn't listed on Okta, please open an Access Request using instructions on this [handbook page](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/)
+- If the O'Reilly App isn't listed on Okta, please open an Access Request using instructions on this [handbook page](/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/).
 - If you are unable to log in from the Okta O'Reilly App, please contact [#it_help](https://gitlab.slack.com/archives/CK4EQH50E) with the AR number you created using the link above.
 
 #### Development
@@ -24,7 +24,7 @@ The Customer Success and Development departments each have a number of licenses 
 
 #### Other
 
-If you aren't in Customer Success or Development but would still like access to an O'Reilly licenses, you can utilize the [Growth and Development benefit]({{< ref "/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development" >}}) to purchase a license. (Manager approval required)
+If you aren't in Customer Success or Development but would still like access to an O'Reilly licenses, you can utilize the [Growth and Development benefit]({{< ref "/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development" >}}) to purchase a license (Manager approval required).
 
 ### Accessing O'Reilly content
 
