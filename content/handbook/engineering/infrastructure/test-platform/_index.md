@@ -127,8 +127,8 @@ graph TD
 
     click A "/handbook/engineering/infrastructure/test-platform"
     click B "/handbook/engineering/infrastructure/test-platform/self-managed-platform-team"
-    click C "/handbook/engineering/infrastructure/test-platform/test-and-tools-infrastructure-team"
-    click D "/handbook/engineering/infrastructure/test-platform/test-engineering-team"
+    click C "/handbook/engineering/infrastructure/test-platform/test-engineering-team"
+    click D "/handbook/engineering/infrastructure/test-platform/test-and-tools-infrastructure-team"
 ```
 ### Engage with us
 
