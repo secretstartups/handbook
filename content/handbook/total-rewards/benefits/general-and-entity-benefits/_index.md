@@ -227,7 +227,7 @@ Team member commission payments with less than 6 months of past performance will
 
 Team members with 6 months or more of past performance are paid (parental leave only) based on the 12 prior months of performance with a cap at 100% of plan. For example, if a team member 8 months in role attained 85% of plan, they would be compensated at the same rate while on leave, but a team member 12 months in role will be compensated based on their prior 12 months of performance.
 
-On the day you return from leave and going forward, your commissions will be based on current performance only. The rate of commissions paid during your leave will be confirmed by the sales commissions team and communicated to the team member through the Absence Management team prior to your leave start date. If your country of employment has specific laws regarding the payout of commissions when on leave, those would supersede our policy.
+On the day you return from leave and going forward, your commissions will be based on current performance only. If your country of employment has specific laws regarding the payout of commissions when on leave, those would supersede our policy.
 
 In all cases, target variable pay used for LOA commission payments is 1/12 of annual on-target incentives (OTI) per month on leave.
 
