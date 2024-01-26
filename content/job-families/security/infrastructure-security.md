@@ -1,11 +1,11 @@
 ---
 title: "Infrastructure Security - Roles & Responsibilities"
-description: "As members of GitLab's Security Engineering sub department, the Infrastructure Security engineers own security initiatives related to security of GitLab.com."
+description: "As members of GitLab's Product Security sub department, the Infrastructure Security engineers own security initiatives related to security of GitLab.com."
 extra_js:
 - libs/mermaid.min.js
 ---
 
-As members of GitLab's [Security Engineering sub department](/handbook/security/security-engineering/), the [Infrastructure Security](/handbook/security/security-engineering/infrastructure-security/) engineers own security initiatives related to security of GitLab.com. They are Infrastructure's stable counterparts in the Security department, and as such work with various Infrastructure and Security teams to identify and mitigate security issues, vulnerabilities, and misconfigurations by applying their in-depth knowledge of operating systems, infrastructure, and cloud providers. They work very closely with the Security Incident Response Team and share their findings in a proactive manner. Successful Security Engineers thrive in high-stress environments and can think like both an attacker and defender, engage with and mentor more junior Security Engineers, and can help come up with proactive and preventative security measures to keep GitLab and its user’s data safe in an ever changing threat landscape.
+As members of GitLab's [Product Security sub department](/handbook/security/security-engineering/), the [Infrastructure Security](/handbook/security/security-engineering/infrastructure-security/) engineers own security initiatives related to security of GitLab.com. They are Infrastructure's stable counterparts in the Security department, and as such work with various Infrastructure and Security teams to identify and mitigate security issues, vulnerabilities, and misconfigurations by applying their in-depth knowledge of operating systems, infrastructure, and cloud providers. They work very closely with the Security Incident Response Team and share their findings in a proactive manner. Successful Security Engineers thrive in high-stress environments and can think like both an attacker and defender, engage with and mentor more junior Security Engineers, and can help come up with proactive and preventative security measures to keep GitLab and its user’s data safe in an ever changing threat landscape.
 
 ## Responsibilities
 
@@ -147,7 +147,7 @@ The  Infrastructure Security Manager is a [grade 8](/handbook/total-rewards/comp
 
 ### Senior Manager, Infrastructure Security
 
-This role reports to the [Director of Security Engineering](/job-families/security/security-leadership/#director-security-engineering).
+This role reports to the [Director of Product Security](/job-families/security/security-leadership/#director-security-engineering).
 
 #### Senior Manager, Infrastructure Security Job Grade
 
@@ -207,10 +207,10 @@ More information can be found here [Security Logging Team Job Family](/job-famil
   sec:stse(Staff Infrastructure Security Engineer)-->sec:dse(Distinguished Infrastructure Security Engineer);
   sec:sse(Senior Infrastructure Security Engineer)-->sec:sem(Infrastructure Security Manager);
   sec:sem(Infrastructure Security Manager)-->sec:sesm(Infrastructure Security Senior Manager);
-  sec:sesm(Infrastructure Security Senior Manager)-->sec:ds(Director of Security Engineering);
+  sec:sesm(Infrastructure Security Senior Manager)-->sec:ds(Director of Product Security);
 ```
 
-For details on the Security organisation leadership roles, to include the Security Engineering Director and VP of Security, see the Security Leadership page.
+For details on the Security organisation leadership roles, to include the Product Security Director and VP of Security, see the Security Leadership page.
 
 ## Hiring Process
 

@@ -276,6 +276,7 @@ Please tag `@jeffersonmartin` for any architecture, decisions, discussions, guid
     - djain
     - mmorrison
     - pmartins
+    - ugovindia
   gitlab_saas_tag: '@gitlab-com/gl-security/security-operations/infrastructure-security'
   slack_channel: '#security-infrasec'
   handbook_page: 'https://handbook.gitlab.com/handbook/security/security-engineering/infrastructure-security/'

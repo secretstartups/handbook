@@ -19,13 +19,20 @@ See [the exhaustive list of projects](#projects) the group maintains.
 
 ### Workflow
 
-The Composition Analysis group largely follows GitLab's [Product Development Flow](/handbook/product-development-flow/).
+The Composition Analysis group largely follows GitLab's [Engineering Workflow](/handbook/engineering/workflow/) and [Product Development Flow](/handbook/product-development-flow/).
+
+This includes:
+
+- [Issue triage](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/)
+- [Infradev triage](#triage-process)
+- [Wider Community Merge Request Triage](/handbook/engineering/infrastructure/engineering-productivity/merge-request-triage/)
+- [Retrospectives](/handbook/engineering/management/group-retrospectives/)
 
 #### Indicating Status and Raising Risk
 
 We leverage [the issue's health status feature](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#health-status) to communicate the progress of the issue.
 
-All issues should be marked `On Track` at the beginning of a milestone. This is currently done manually by the Engineering Manager.
+All issues should be marked `On Track` at the beginning of a milestone. This is done by the Epic DRI, or the Engineering Manager for unassigned, standalone issues.
 
 Raising risk early is important. The more time we have, the more options we have. As such, the team reviews issues every week and discusses items that `Need Attention` or are `At Risk` to possibly course correct and re-assign resources based on the team's priorities.
 
@@ -36,18 +43,7 @@ Follow these steps when raising or downgrading risk:
     1. `Needs Attention` - the issue is blocked or has other factors that need to be discussed.
     1. `At Risk` - the issue is in jeopardy of missing the cutoff to ship within the planned milestone.
 1. Add a comment about why the risk has increased or decreased.
-1. Copy the Backend Engineering Manager and Product Manager in a comment.
-1. Copy the Frontend Engineering Manager if there is associated frontend work that may be impacted.
-
-#### Experiments
-
-In addition to the above workflow, the Composition Analysis group can be involved in some experiments, which might temporarily alter how we work.
-
-*There are no experiments in progress at the moment.*
-
-### Retrospectives
-
-After the 19th, we conduct [an asynchronous retrospective](/handbook/engineering/management/group-retrospectives/). You can find current and past retrospectives for Composition Analysis team in https://gitlab.com/gl-retrospectives/secure-sub-dept/composition-analysis.
+1. Copy the Engineering Manager and Product Manager in a comment.
 
 ### Time-off Calendar
 
@@ -74,9 +70,9 @@ On top of our development roadmap, engineering teams need to perform tasks relat
 To avoid excessive context-switching, and better distribute the workload, our team reserves capacity for these tasks as part of milestone planning:
 
 - **Primary engineer**. Fully allocated to the tasks below. They must prioritize these tasks above all other work, in the following order: Security, Support, Maintenance.
-- **Secondary engineer**. Acts as a backup in case the primary engineer has an unplanned absence or exceeds their capacity. They must prioritize requests from the primary engineer, but otherwise focus on `type::maintenance` issues.
+- **Secondary engineer**. Acts as a backup in case the primary engineer has an unplanned absence or exceeds their capacity. They must prioritize requests from the primary engineer, but otherwise focus on `type::bug`, then `type::maintenance` issues.
 
-Neither engineer should be allocated to work on Features or critical deliverables. In the context of [Cross-functional milestone planning](/handbook/product/cross-functional-prioritization/#cross-functional-milestone-planning), their allocation counts towards the maintenance ratio.
+Neither engineer should be allocated to work on Features or critical deliverables. In the context of [Cross-functional milestone planning](/handbook/product/cross-functional-prioritization/#cross-functional-milestone-planning), their allocation counts towards the bugs and maintenance ratio.
 
 The [rotation schedule](https://gitlab.com/groups/gitlab-org/secure/-/epics/2#schedule) follows the development cycle, which means using the start/end dates from the GitLab [product milestones](/handbook/product/milestones/). When creating the schedule, the Engineering Manager should aim to minimize the number of back-to-back rotations that engineers do.
 
@@ -90,6 +86,7 @@ Please keep track of the actions you're doing during your rotation and add notes
    1. Container base images
    1. Application dependencies
    1. Programming language
+1. Refine scheduled security issues.
 1. Consider creating or updating any automation or tooling (related to security, maintainership or support!)
 
 #### Responsibilities - Support
@@ -103,8 +100,7 @@ If a support engineer requests assistance via Slack and it requires investigatio
     - [#f_container_scanning](https://gitlab.slack.com/archives/C041F2XJACB)
     - [#g_secure-composition-analysis-alerts](https://gitlab.slack.com/archives/C04UX9MQNSJ)
 1. Monitor [Section Sec Request For Help](https://gitlab.com/gitlab-com/sec-sub-department/section-sec-request-for-help/-/issues/?label_name=Help%20group%3A%3Acomposition%20analysis) project for support requests.
-1. Triage bugs and resolve them when given `~priority::1`. (See [Bugs triaging process](#bugs-triaging-process))
-1. Triage infradev issues and resolve them when given `~priority::1`. (See [Infradev triaging process](#infradev-triaging-process))
+1. Refine scheduled bugs and maintenance issues.
 
 These items must be triaged continuously throughout the milestone which means they must be checked multiple times a week.
 
@@ -268,25 +264,6 @@ Once the issue is created, please add it to [the vulnerability's linked items](h
 Developers reporting the security issue should help the [Application Security team](/handbook/security/security-engineering/application-security/) assess the impact of the vulnerability, and update the issue description with an `Impact` section.
 
 If immediate feedback is required, then add a comment to the vulnerability issue with an `@`-mention directed at one of the Security Engineers listed in the [Stable Counterpart](/handbook/engineering/development/sec/secure/#stable-counterparts) section, or ping them on slack.
-
-### Community contributions triaging process
-
-1. Leverage the group level [list of Merge Requests](https://gitlab.com/groups/gitlab-org/security-products/analyzers/-/merge_requests?scope=all&state=opened&label_name[]=group%3A%3Acomposition%20analysis&label_name[]=Community%20contribution) with the Composition Analysis group label.
-1. For each open Merge Request whose author is not a GitLab team member, investigate and help move it forward using the [Wider Community Merge Request Guidelines](/handbook/engineering/infrastructure/engineering-productivity/merge-request-triage/#).
-
-### Bugs triaging process
-
-1. Leverage the [Bug scrub issues board](https://gitlab.com/groups/gitlab-org/-/boards/1077546?scope=all&label_name[]=devops%3A%3Asecure&label_name[]=group%3A%3Acomposition%20analysis&label_name[]=type%3A%3Abug).
-1. For each open issue that has no Priority label ("Open" column), shortly investigate the bug (< 2h) and comment with your findings. Ideally you'd suggest Priority and Severity levels to guide PM decision. Depending on how confident you are, you can either set the labels by yourself, or make a suggestion in a comment, and ping PM.
-
-   Track how long you actually spent investigating each bug in the [Composition Analysis Bug Triaging Time Tracker spreadsheet](https://docs.google.com/spreadsheets/d/1vCh6DTY9eUK26xXceO4ZUyuNlyv2AwXpKxvGGejieEg).
-
-### Infradev triaging process
-
-1. Leverage the [Infra/Dev issues board](https://gitlab.com/groups/gitlab-org/-/boards/1193197?scope=all&utf8=%E2%9C%93&label_name[]=infradev&label_name[]=section%3A%3Asec) for Sec section. We target the whole section on purpose to cover a larger area and stay aware of other group's issues that could also affect us.
-1. For each open issue that has no Priority label ("Open" column), shortly investigate the issue (< 1h) and comment with your findings. Make sure correct stage and group label are applied.
-
-Please refer to our [infradev process](/handbook/engineering/workflow/#infradev) for more details.
 
 ### Release failure process
 

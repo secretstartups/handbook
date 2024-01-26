@@ -55,7 +55,7 @@ cycle of source code:
 
 - [AppSec projects policies]
 
-[AppSec projects policies]: {{< ref "../security-engineering/application-security/inventory#policies" >}}
+[AppSec projects policies]: {{< ref "../product-security/application-security/inventory#policies" >}}
 
 ### InfraSec
 

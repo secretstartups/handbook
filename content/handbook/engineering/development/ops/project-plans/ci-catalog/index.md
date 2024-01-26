@@ -22,25 +22,33 @@ CI Catalog GA Epic: [https://gitlab.com/groups/gitlab-org/-/epics/12153](https:/
 
 ### Milestone 16.9 (January 13, 2024 - February 9, 2024)
 
-#### Goals:
+#### Updates for current Go-To-GA list
+- [Enforce semantic versioning](https://gitlab.com/gitlab-org/gitlab/-/issues/427286)
+  - POC currently in progress.  
+  - Initial review potentially mid next week. 
+- Support CI interpolation with arrays
+  - [Implement text interpolation](https://gitlab.com/gitlab-org/gitlab/-/issues/433002)
+    - Issue [identified](https://gitlab.slack.com/archives/C3JJET4Q6/p1706109066786799) during FF rollout.  [Fix](https://gitlab.com/gitlab-org/gitlab/-/issues/439272) is in review. 
+  - [CI interpolation with arrays](https://gitlab.com/gitlab-org/gitlab/-/issues/407176)
+- [Spike issue](https://gitlab.com/gitlab-org/gitlab/-/issues/434260) to distributed components for Self managed customers
+  - Due to Threat Model work pivot for Avielle, assistance from another team member has been requested to help this forward.
+- [Threat Model](https://gitlab.com/gitlab-com/gl-security/appsec/threat-models/-/issues/43#note_1738526551) initial work provided.
+  - Security has requested additional diagrams which Avielle is creating.
+
+#### Other milestone goals:
 
 - Improve the UX for the CI/CD catalog
   - [Sort component by GitLab-maintained components](https://gitlab.com/gitlab-org/gitlab/-/issues/437897) 
   - [Fix Markdown not rendering in CI/CD Catalog](https://gitlab.com/gitlab-org/gitlab/-/issues/431899) (Complete)
 - Implement additional telemetry
   - [Spike issue](https://gitlab.com/gitlab-org/gitlab/-/issues/438409) to investigate how to component usage can be tracked.
+    - Evaluating options being proposed with team before proceeding.
   - [Number of times a single component had been used](https://gitlab.com/gitlab-org/gitlab/-/issues/434333)
-- [Enforce semantic versioning](https://gitlab.com/gitlab-org/gitlab/-/issues/427286)
-- [Spike issue](https://gitlab.com/gitlab-org/gitlab/-/issues/434260) to distributed components for Self managed customers
-- Support CI interpolation with arrays
-  - [Implement text interpolation](https://gitlab.com/gitlab-org/gitlab/-/issues/433002)
-  - [CI interpolation with arrays](https://gitlab.com/gitlab-org/gitlab/-/issues/407176)
 - Helper efforts for components
   - [Provide components as helpers to test other components](https://gitlab.com/gitlab-org/gitlab/-/issues/430818)
   - [Components toolkit to test GitLab-maintained components](https://gitlab.com/gitlab-org/gitlab/-/issues/432772) (Complete)
 - Lay the foundation for all badges + introduce GL-maintained badges
-  - [https://gitlab.com/gitlab-org/gitlab/-/issues/434058](https://gitlab.com/gitlab-org/gitlab/-/issues/434058)
-  - [https://gitlab.com/gitlab-org/gitlab/-/issues/427962](https://gitlab.com/gitlab-org/gitlab/-/issues/427962) 
+  - [https://gitlab.com/gitlab-org/gitlab/-/issues/439390](https://gitlab.com/gitlab-org/gitlab/-/issues/439390)
 
 #### Blockers:
 

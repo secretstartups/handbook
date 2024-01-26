@@ -247,7 +247,11 @@ Québec - [La Loi sur les normes du travail (N-1.1)](http://www.legisquebec.gouv
 
 *Quebec*
 
-- Team members are entitled to 5 consecutive weeks of paternity leave. This leave may begin as of the week of the child’s birth and end no later than 78 weeks after the child’s birth. At the request of the parent, this leave may be suspended, divided, or extended if the health conditions of the parent or child require it.
+- Team members are entitled to 5 consecutive weeks of paternity leave. This leave may begin as of the week of the child’s birth and end no later than 78 weeks after the child’s birth. At the request of the parent, this leave may be suspended, divided, or extended if the health conditions of the parent or child require it.  This type of leave is exclusive to the biological father, or spouse of the biological mother.
+
+- Benefits for a two-woman couple: The biological mother is entitled to maternity benefits and her spouse is entitled to paternity benefits if she is mentioned on the birth certificate. Both mothers are also entitled to parental benefits. In the case of spouses who adopt a child, both are entitled to adoption benefits.
+
+- Benefits for a two-man couple: Paternity and parental benefits are granted to the biological father. A man who adopts his spouse’s biological child may also be entitled to adoption benefits. In the case of spouses who adopt a child, both are entitled to adoption benefits.
 
 **Parental Leave:**
 

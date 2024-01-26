@@ -84,7 +84,7 @@ Choose the method below that feels most comfortable and have the following infor
     1. Select the image you want to upload and Open.
     1. Now you will navigate back to your team page entry. You can do this by either closing the `sites` folder and opening `data`, then `team members`, `person`, and the folder containing you file; or you can notice your file tab on the top bar, and you can click on it to be taken to that file.
     1. Update your `picture` field to your filename. Delete the content that is this line after the `picture:` that starts with `../gitlab` etc. Make sure to match the letter case of your picture file. The completed line should look like this: `picture: yournameinlowercase.jpg` for example.
-1. Once you have finished this, click the `Source Control` icon, as described in point 5 of [Using the new Web IDE to edit the handbook](/handbook/practical-handbook-edits/#using-the-new-web-ide-to-edit-the-handbook).
+1. Once you have finished this, click the `Source Control` icon, as described in point 5 of [Using the new Web IDE to edit the handbook](/handbook/editing-handbook/practical-handbook-edits/#using-the-new-web-ide-to-edit-the-handbook).
 1. Create a title for your MR, and enter it in the box above the `Commit & Push` button. An example title would be `Updating My Team Page Entry`.
 1. Click the `Commit & Push` button.
 1. Click on `Yes Commit to a new branch`.
@@ -155,7 +155,7 @@ Using what you learned in the [steps above](/handbook/editing-handbook/#add-your
 1. Select the image you want to upload and Open.
 1. Next, navigate to `data/pets.yml` and click on it to open the editor.
 1. Scroll to the end of the file. Add your pet by following the format of the existing pets on the page (you can copy and paste their lines of code, even). Ensure that you include your pet's name, your full name, and the name of the image you uploaded in step 1.
-1. Once you have finished this, click the `Source Control` icon, as described in point 5 of [Using the new Web IDE to edit the handbook](/handbook/practical-handbook-edits/#using-the-new-web-ide-to-edit-the-handbook).
+1. Once you have finished this, click the `Source Control` icon, as described in point 5 of [Using the new Web IDE to edit the handbook](/handbook/editing-handbook/practical-handbook-edits/#using-the-new-web-ide-to-edit-the-handbook).
 1. Create a title for your MR. An example title would be `Adding my dog Gary to the Team Pets Page`.
 1. Click the `Commit & Push` button.
 1. Click on `Yes Commit to a new branch`.

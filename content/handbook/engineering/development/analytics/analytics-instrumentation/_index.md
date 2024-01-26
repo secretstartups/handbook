@@ -483,4 +483,3 @@ All new team members to the Analytics Instrumentation teams are provided an onbo
 | [Privacy Policy](/privacy/)        | Our privacy policy outlining what data we collect and how we handle it     |
 | [Analytics Instrumentation Direction](https://about.gitlab.com/direction/analytics/analytics-instrumentation/)  | The roadmap for Analytics Instrumentation at GitLab  |
 | [GitLab Performance Snowplow Dashboards ](./gitlab_com_performance_dashboard.html) | Performance dashboards for GitLab.com via Snowplow  |
-| [FAQ](/handbook/product/analytics-instrumentation-guide/faq) | A list of questions and answers related with Service Ping and Snowplow |
