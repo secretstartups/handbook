@@ -115,11 +115,11 @@ The airfare policy in Navan is set up as a “Dynamic Policy” which calculates
 
 #### Domestic Flights
 
-- **Flights over 5 hours of consecutive flight time** - For domestic flights,  team members are allowed to book next Class of Fare tickets if the duration of the flight is more than 5 hours of consecutive flight time. If the next Class of Fare is not available for that airline, then the next class up is acceptable.
+- **Flights over 5 hours of consecutive flight time** - For domestic flights with a duration greater than 5 hours of consecutive flight time, team members are authorized to book the next class up from standard economy as long as it is below business class.
 
 #### International Flights
 
-- **Flights greater than 5 hours of consecutive flight time** - For international flights with a duration greater than 5 hours of consecutive flight time, team members are authorized to book next Class of Fare tickets. If the next Class of Fare is not available for that airline, then the next class up is acceptable.
+- **Flights greater than 5 hours of consecutive flight time** - For international flights with a duration greater than 5 hours of consecutive flight time, team members are authorized to book the next class up from standard economy as long as it is below business class.
 - **Flights exceeding 8 hours of consecutive flight time** - For those who travel frequently, defined as 3 or more trips per quarter internationally on flights of 8 hrs+ continuous flight time (6 flight segments of 8+ hours continuous flight time), for a meeting with customers, a speaking engagement, or representing GitLab at a conference; business class is permitted.
 
 #### Frequent Flyer Programs
@@ -154,6 +154,7 @@ The airfare policy in Navan is set up as a “Dynamic Policy” which calculates
 - Please note that anything booked outside of Navan will flag as “Out of Policy”, and will need to be reviewed by your manager and the AP team.
 - Navan Confirmation should be attached to the claim along with the Car Rental Receipt.
 - Team Members can claim gas expenses but not mileage, when renting a car.
+- Fuel at $300 limit per day.
 
 #### Additional Car Rental Guidelines
 
@@ -257,12 +258,11 @@ In the event of an accident resulting in damage to the rental car, the Non-US re
 **Expense Type / Navan Policy Category:** Train travel
 {{% /panel %}}
 
-### Transportation/Parking/Fuel
+### Transportation/Parking
 
-- Parking, Tolls, Fuel, Taxi, Uber pertaining to travel to/from GitLab events, clients, or conferences is acceptable. Team Members are not permitted to expense both fuel/EV charging fees and mileage.
+- Parking, Tolls, Taxi, Uber pertaining to travel to/from GitLab events, clients, or conferences is acceptable. Team Members are not permitted to expense both fuel/EV charging fees and mileage.
 - Full Description of Trip should be stated in the Description box.
 - Ground Transportation (taxis, ubers) at $300 limit per round trip and $150 limit for single trip.
-- Fuel at $300 limit per day.
 - Parking and tolls  at $150 limit per day.
 - All items booked which are over the limits set will need to have manager approval attached to the claim.
 
@@ -383,7 +383,7 @@ The company will cover all work-related travel expenses. This includes lodging a
 
 ##### Existing Team Members- 500 USD (or equivalent local currency) Refresh Guidelines
 
-- This is a yearly refresh amount. It will reset at the beginning of each calendar year.
+- This is a yearly refresh amount. It will reset at the beginning of each calendar year (January 1 to December 31).
 - The Navan Virtual Card cannot be used for the yearly refresh. Team Members should use their own method of payment and submit their expenses in Navan.
 - Any unused funds will not roll over to the next year.
 - Team Members hired within the previous fiscal year are not eligible. For example, a Team Member who started 2023-05-10 will get their first refresh amount on 2025-02-01.
@@ -424,7 +424,7 @@ The company will cover all work-related travel expenses. This includes lodging a
 - If an itemized bill is not available, costs will only be reimbursed for the element relating to Internet Access, i.e. if you pay for tv, internet and phone, the invoice should be divided by 3/# of services and we will pay this value only.
 - No hardware costs for internet service is reclaimable. This includes routers, extenders/boosters, etc.
 - If co-working space is used together with a combination of working from home, we will allow the reimbursement of the internet cost for where you spend most of your time. i.e. if you expense a co-working space for a full month then internet for home cannot be expensed. If you expense co-work for a few days in a month then home internet can be expensed in full.
-- N/A for GitLab GmbH Germany Team Members. Please see section "GitLab GMBH (Germany)" for internet reimbursement in Germany.
+- Team members for GitLab GmbH (Germany) should refer to this [page](https://internal.gitlab.com/handbook/finance/payroll/#non-us) for their country's specific guidelines of this expense.
 
 {{% panel header="**Coding**" header-bg="green" %}}
 **Expense Type / Navan Policy Category:** Internet access
@@ -438,7 +438,7 @@ The company will cover all work-related travel expenses. This includes lodging a
 #### Repairs to company issued equipment
 
 - If you need to replace a battery or something small that does not affect the productivity or speed of the device, please go ahead and get that small item replaced and expensed.
-- The category to use in Navan is 'Tools and Materials'.
+- The category to use in Navan is 'Office Supplies'.
 - Please get approval from your Manager if your equipment appears to be damaged, defective, or in need of repair
 - Business Operations can advise on next steps to ensure you have the proper equipment to work.
 - For loaner laptops: Do not hesitate when expensing a loaner laptop while your primary laptop is being repaired.
@@ -447,7 +447,7 @@ The company will cover all work-related travel expenses. This includes lodging a
 - AP Admin needs to review expense for approved issue.
 
 {{% panel header="**Coding**" header-bg="green" %}}
-**Expense Type / Navan Policy Category:** Tools and Materials
+**Expense Type / Navan Policy Category:** Office Supplies
 {{% /panel %}}
 
 ### Marketing- related expenses
@@ -586,31 +586,6 @@ The company will cover all work-related travel expenses. This includes lodging a
 - **GL Code NON-COGS:** 6080 - Other Travel- Visas, Permits, Covid Tests
 - **GL Code COGS:** 5080 - Other Travel- Visas, Permits, Covid Tests COGS
 {{% /panel %}}
-
-### GitLab GMBH (Germany)
-
-**Germany - post audit change to processing expenses**
-As a result, effective of February 1st, 2024, we are implementing below changes:
-
-**Internet reimbursement**
-- There will be 50 EUR internet allowance paid each month to each team member (via Payroll).
-- Internet expenses will not be allowed anymore.
-- Flat tax rate 25% (bared by employer) Cell Phone expenses.
-
-### GitLab Ireland
-
-The introduction in Finance Act 2022 of Section 897C of the TCA 1997 will require employers to report to Revenue details of certain payments made to employees and/or directors. The requirement to provide this information will commence on 1 January 2024. Phase one will apply to any payments you make to an employee and, or director under any of the following categories:
-
-- Small Benefits - Vouchers or benefits provided to employees which come within the ‘small benefit exemption’ regime i.e. currently, up to two small benefits each year which do not exceed a combined value of €1,000
-- Remote Working Daily Allowance – Where the employer makes a tax-free payment of €3.20 per day to employees for each day worked from home subject to certain conditions being satisfied (N/A to GitLab)
-- Travel and Subsistence – Payments by employers to employees to reimburse business related travel and subsistence costs including:
-   - Vouched travel & subsistence.
-   - Unvouched travel & subsistence e.g. civil service mileage rates.
-   - Country money.
-   - Emergency travel.
-   - Eating on site allowance
-
-This will be initiated as of February 1st with expenses reimbursed in the above categories in retro mode. You will see this on your payslip as a reportable item only. Payment remains through Navan
 
 ### 4.3 Missing Receipt Affidavit
 
