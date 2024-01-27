@@ -127,7 +127,6 @@ For those with regular commitments, look for shorter weeks or timezone variation
 
 | Start date | End date | See one | Teach one | Schedule Notes |
 | ---------- | -------- | ------- | --------- | -------------- |
-| 2024-01-22 | 2024-01-26 | [Riley Longo](https://gitlab.com/rilongo) - Customer Service Manager | [Ben Venker](https://gitlab.com/bvenker) - Sr. PM, Global Search | REMOTE - PT |
 | 2024-01-29 | 2024-02-02 | [Dilan Orrino](https://gitlab.com/dorrino) - Sr Product Manager | [Riley Longo](https://gitlab.com/rilongo) - Customer Service Manager | REMOTE - PT |
 | 2024-02-05 | 2024-02-09 | [Deepika Guliani](https://gitlab.com/deepika.guliani) - Frontend Engineer, Plan:Project Management | [Dilan Orrino](https://gitlab.com/dorrino) - Sr Product Manager | REMOTE - PT |
 | 2024-02-12 | 2024-02-14 | OPEN | [Deepika Guliani](https://gitlab.com/deepika.guliani) - - Frontend Engineer, Plan:Project Management  | REMOTE - PT, MON - WED |
@@ -801,3 +800,4 @@ CEO Shadow Program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2024-01-02 | 2024-01-05 | [Cynthia "Arty" Ng](https://gitlab.com/cynthia) | Staff, Strategy & Operations |  |
 | 2024-01-02 | 2024-01-12 | [Yin Yu](https://gitlab.com/yyugitlab) | Director, Strategy & Operations | [Why It's Worth a 6am Start - tips for timezone challenged team members](https://www.youtube.com/watch?v=NWrAxl0T6N0) |
 | 2024-01-08 | 2024-01-19 | [Javier Garcia](https://gitlab.com/jgarc) | Frontend Engineer, Digital Experience | [Shadowing the CEO of GitLab](https://blog.javiergarcia.io/posts/ceo-shadow-learning/) |
+| 2024-01-15 | 2024-01-26 | [Ben Venker](https://gitlab.com/bvenker) | Sr. PM, Global Search |  |
