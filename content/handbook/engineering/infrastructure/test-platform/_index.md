@@ -7,16 +7,12 @@ description: "Test Platform Sub-Department"
 
 [Bug Prioritization](/handbook/engineering/infrastructure/test-platform/bug-prioritization/)
 {.h4}
-
 [Quad Planning](/handbook/engineering/infrastructure/test-platform/quad-planning/)
 {.h4}
-
 [On-call Rotation](/handbook/engineering/infrastructure/test-platform/oncall-rotation/)
 {.h4}
-
 [Test Coverage](/handbook/engineering/infrastructure/test-platform/test-coverage/)
 {.h4}
-
 [E2E Test Execution Metrics](/handbook/engineering/infrastructure/test-platform/test-metrics-dashboards/)
 {.h4}
 
@@ -149,10 +145,6 @@ Feel free to reach out to us by opening an issue on the [Quality Team Tasks proj
 
 ### Individual contributors
 
-The following people are members of the [Test and Tools Infrastructure team](test-and-tools-infrastructure-team):
-
-{{< team-by-manager-slug "ghosh-abhinaba" >}}
-
 The following people are members of the [Self-Managed Platform team](self-managed-platform-team):
 
 {{< team-by-manager-slug "ksvoboda" >}}
@@ -160,6 +152,10 @@ The following people are members of the [Self-Managed Platform team](self-manage
 The following people are members of the [Test Engineering team](test-engineering-team):
 
 {{< team-by-manager-slug "kkolpakova" >}}
+
+The following people are members of the [Test and Tools Infrastructure team](test-and-tools-infrastructure-team):
+
+{{< team-by-manager-slug "ghosh-abhinaba" >}}
 
 ## How we Work
 
@@ -207,6 +203,24 @@ Section-level members of the quad are QEMs, Directors of Development, Directors 
 This is where building as part of GitLab is not immediately viable. An issue will be created to document the decision making process in our [team task](https://gitlab.com/gitlab-org/quality/team-tasks) issue tracker.
 This shall follow our [dogfooding](/handbook/engineering#dogfooding) process.
 
+## Test Platform sub-department on-call process
+
+The Test Platform sub-department has two on-call rotations: pipeline triage (SET-led) and incident management (QEM-led). These are scheduled in advance to share the responsibilities of debugging pipeline failures and representing Quality in incident responses.
+
+### Pipeline triage
+
+Every member in the Test Platform sub-department shares the responsibility of analyzing the daily QA tests against `master` and `staging` branches.
+More details can be seen [here](/handbook/engineering/infrastructure/test-platform/oncall-rotation)
+
+### Incident management
+
+Every manager and director in the Test Platform sub-department shares the responsibility of monitoring new and existing incidents
+and responding or mitigating as appropriate. Incidents may require review of test coverage, test planning, or updated
+procedures, as examples of follow-up work which should be tracked by the DRI.
+More details can be seen [here](/handbook/engineering/infrastructure/test-platform/oncall-rotation).
+
+**Please note**: Any manager or director within Test Platform sub-department can step in to help in an urgent situation if the primary DRI is not available. Don't hesitate to reach out in the Slack channel `#test-platform`.
+
 ## Processes
 
 ### General tips and tricks
@@ -214,12 +228,6 @@ This shall follow our [dogfooding](/handbook/engineering#dogfooding) process.
 We have compiled a number of tips and tricks we have found useful in day-to-day Test Platform related tasks.
 
 For more information, please visit our [tips and tricks page](tips-and-tricks).
-
-### On-call rotations
-
-The Test Platform Sub-Department has two on-call rotations: pipeline triage (SET-led) and incident management (QEM-led). These are scheduled in advance to share the responsibilities of debugging pipeline failures and representing Quality in incident responses.
-
-For more information, please visit our [on-call rotation page](oncall-rotation).
 
 ### Quad planning
 
