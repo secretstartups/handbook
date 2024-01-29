@@ -185,7 +185,6 @@ In FY23 / FY24 we moved towards dividing the team into globally distributed grou
 ## Team culture and how it supports our ability to achieve results
 
 As GitLab grows, Support’s influence within the company as advocates for customers must also grow. We need to continue to strengthen the Values-driven cultural attributes that promote efficient collaboration and results for customers while maintaining GitLab Support as a great place to work. In FY25 we will:
-- - Build leaders and influencers within GitLab as advocates for customers.
 - Build leaders and influencers within GitLab as advocates for customers.
 - Expand our enablement, training, and education to prepare the current and future generations of Support Engineers to meet the needs of our customers.
 
