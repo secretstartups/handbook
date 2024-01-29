@@ -154,7 +154,7 @@ The Red Team Manager is a [grade 8](/handbook/total-rewards/compensation/compens
 - Willingness to be part of the Security Manager On-Call rotation
 - First hand experience with major cloud providers - GCP, AWS, Azure, Digital Ocean
 - Share our [values](/handbook/values/), and work in accordance with those values
-- Alignment with Manager responsibilities as outlined in [Leadership at GitLab](/handbook/company/team/structure/#management-group)
+- Alignment with Manager responsibilities as outlined in [Leadership at GitLab](/handbook/company/structure/#management-group)
 
 ### Senior Manager, Red Team
 
@@ -191,7 +191,7 @@ The Security Incident Response Team Senior Manager is a [9](/handbook/total-rewa
 - Experience with the role of an incident manager during large scale security events
 - Familiarity with major cloud providers - GCP, AWS, Azure, Digital Ocean
 - You share our [values](/handbook/values/), and work in accordance with those values
-- Alignment with Manager responsibilities as outlined in [Leadership at GitLab](/handbook/company/team/structure/#management-group)
+- Alignment with Manager responsibilities as outlined in [Leadership at GitLab](/handbook/company/structure/#management-group)
 
 ## Performance Indicators
 

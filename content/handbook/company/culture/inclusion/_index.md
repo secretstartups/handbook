@@ -371,7 +371,7 @@ We encourage organizers of events that are supported through our [GitLab Diversi
 ## Definitions
 
 - [Gender and Sexual Orientation Identity Definitions and FAQ](/handbook/people-group/orientation-identity/)
-- [Leadership](/handbook/company/team/structure/#organizational-chart) is defined as director and above.
+- [Leadership](/handbook/company/structure/#organizational-chart) is defined as director and above.
 - [Geographically](/handbook/company/culture/inclusion/identity-data/) is defined as those countries we use in our identity data.
 - Women is the term GitLab uses instead of "Female". "Female/Male" are gender terms often designated at birth. "Woman/Man" are gender terms based on self-identification. At GitLab, we define women based on how team members self-identify their gender in Workday.
 - **Privilege** is an unearned advantage given by society to some people but not all. In the USA figures were released in 2009 that on average women were paid $0.78 for every $1 a man makes. These figures have improved but there is still a gender imbalance.

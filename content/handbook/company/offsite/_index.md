@@ -17,7 +17,7 @@ The agenda should include discussions that are:
 
 ## Attendees
 
-1. [Executives](/handbook/company/team/structure/#executives)
+1. [Executives](/handbook/company/structure/#executives)
 1. [Chief of Staff to the CEO](/job-families/chief-executive-officer/chief-of-staff/); when not possible, the [Director, Strategy and Operations](/job-families/chief-executive-officer/strategy-and-operations/)
 1. [CEO Shadows](/handbook/ceo/shadow/)
 1. [Executive Business Admin](/handbook/eba/#executive-business-administrator-team) to the CEO (optional)
@@ -63,7 +63,7 @@ The EBA to the CEO will coordinate with on-site contact of the house and collabo
 1. Meals and catering
 1. Schedule including arrival time and departure times
 1. Attendee count and details
-1. Share a summarized agenda detailing when meetings are taking place, which room will be used for each meeting, and the count of people in each room. If a room will be used by the [Directs-Group](/handbook/company/team/structure/#directs-group) while they are not in the E-Group Offsite meeting, note this as well.
+1. Share a summarized agenda detailing when meetings are taking place, which room will be used for each meeting, and the count of people in each room. If a room will be used by the [Directs-Group](/handbook/company/structure/#directs-group) while they are not in the E-Group Offsite meeting, note this as well.
 
 The maximum attendees that can fit in the main room is 16, however, if additional attendees are needed in the main room, coordinate with the on-site contact to secure additional accommodations such as an extra table, chairs, etc... and share which meetings this would be needed for.
 
@@ -306,7 +306,7 @@ Follow ups can take the form of an:
 
 ### Functional Leaders Meeting
 
-In the week following the Offsite, there is a 25-minute Zoom call before 12pm Pacific time for the [Functional Leaders Meeting](/handbook/company/team/structure/#functional-leaders). This is called the Functional Leaders Meeting.
+In the week following the Offsite, there is a 25-minute Zoom call before 12pm Pacific time for the [Functional Leaders Meeting](/handbook/company/structure/#functional-leaders). This is called the Functional Leaders Meeting.
 
 The goal of this call is to communicate:
 1. Strategic or visionary updates that are crucial to priorities

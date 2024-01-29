@@ -36,7 +36,7 @@ The Technical Writing Manager is a [grade 8](/handbook/total-rewards/compensatio
 - Familiarity with continuous integration, containers, Kubernetes, and project management software a plus.
 - Experience engaging with a wide range of stakeholders across a company, its customers, and/or open-source communities.
 - Share our [values](/handbook/values/) and work in accordance with those values.
-- [Adhere to our view of Leadership at GitLab](/handbook/company/team/structure/#management-group)
+- [Adhere to our view of Leadership at GitLab](/handbook/company/structure/#management-group)
 
 ### Performance indicators
 
@@ -92,7 +92,7 @@ The Senior Manager, Technical Writing is a [grade 9](/handbook/total-rewards/com
 - Able to shape documentation process in a high-growth, quickly changing organization.
 - Able to give clear, timely, and actionable feedback.
 - You share our [values](/handbook/values/) and work in accordance with those values.
-- [You adhere to our view of Leadership at GitLab.](/handbook/company/team/structure/#management-group)
+- [You adhere to our view of Leadership at GitLab.](/handbook/company/structure/#management-group)
 
 ### Performance indicators
 
@@ -149,7 +149,7 @@ The Director, Technical Writing is a [grade 10](/handbook/total-rewards/compensa
 - Able to shape documentation process in a high-growth, quickly changing organization.
 - Able to give clear, timely, and actionable feedback.
 - You share our [values](/handbook/values/) and work in accordance with those values.
-- [You adhere to our view of Leadership at GitLab](/handbook/company/team/structure/#management-group).
+- [You adhere to our view of Leadership at GitLab](/handbook/company/structure/#management-group).
 
 ### Performance indicators
 

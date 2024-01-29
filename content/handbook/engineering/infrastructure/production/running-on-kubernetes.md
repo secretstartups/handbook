@@ -5,7 +5,7 @@ title: "GitLab.com running on the Kubernetes platform"
 
 Cloud native and the adoption of Kubernetes has been recognised by GitLab to be one of the top two [biggest tailwinds] that are helping us grow faster as a company behind the project.
 
-GitLab.com is a [potentially large source of IACV](/handbook/company/team/structure/#exception-product-management-senior-leader), and is a large operational expense. The large operational expense comes from the cost of running the enterprise level SaaS platform and its day to day operations.
+GitLab.com is a [potentially large source of IACV](/handbook/company/structure/#exception-product-management-senior-leader), and is a large operational expense. The large operational expense comes from the cost of running the enterprise level SaaS platform and its day to day operations.
 
 We recognised that adopting the Kubernetes platform for the GitLab SaaS offering will allow us to reduce the operational cost, but also increase the efficiency of the day to day operation. To do that, we've set out to migrate GitLab.com from classic VM deployments to the Kubernetes platform.
 

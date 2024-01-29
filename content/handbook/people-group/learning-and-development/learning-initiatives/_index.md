@@ -142,7 +142,7 @@ After the Call:
 1. [Managing Underperformance](https://www.youtube.com/watch?v=-mLpytnQtlY&t=637s)
 1. [Transitioning from IC to Manager - Engineering](https://www.youtube.com/watch?v=Zeull-tdy6o)
 1. [Manager Mention Merge Requests](https://www.youtube.com/watch?v=e1sTOtveNOk)
-1. [Working Groups](/handbook/company/team/structure/working-groups/#ceo-handbook-learning-discussion-on-working-groups)
+1. [Working Groups](/handbook/company/working-groups/#ceo-handbook-learning-discussion-on-working-groups)
 1. [Skip Level Meetings](https://www.youtube.com/watch?v=kAxp0Mam-Rw)
 1. [Product Strategy](https://www.youtube.com/watch?v=yI29xFAgKoA)
 1. [Mental Wellness Discussion](https://www.youtube.com/watch?v=od_KdZqc69k)

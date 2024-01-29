@@ -44,7 +44,7 @@ The VP of UX is a [grade 12](/handbook/total-rewards/compensation/compensation-c
 - Passion for creating visually pleasing and intuitive user experiences.
 - Collaborative team spirit with great communication skills.
 - You share our [values](/handbook/values/), and work in accordance with those values.
-- [Leadership at GitLab](/handbook/company/team/structure/#director-group)
+- [Leadership at GitLab](/handbook/company/structure/#director-group)
 
 #### Interview Process
 
