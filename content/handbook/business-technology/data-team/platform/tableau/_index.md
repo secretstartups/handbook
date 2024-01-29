@@ -182,7 +182,7 @@ Please see the [project-permission-structure](/handbook/business-technology/data
 | Finance: GTM Finance          | `@alixtucker`, `@nbernardo`, `@vagrawalg`                       | Sub-Project Leader       | Code Owner |
 | Finance: Corporate Finance    | `@james.shen`, `@vagrawalg`                                     | Sub-Project Leader       | Code Owner |
 | Security                      | `TBD`                                                           | Sub-Project Leader       | Code Owner |
-| Go To Market                  | `@leework`, `@christinelee`, `@alixtucker`, `@nbernardo`, `@nmcavinue`, `@vagrawalg` | Sub-Project Leader | Code Owner |
+| Go To Market                  | `@leework`, `@christinelee`, `@alixtucker`, `@nbernardo`, `@nmcavinue`, `@vagrawalg`,  `@degan` | Sub-Project Leader | Code Owner |
 | Team Member                   | `@aperez349`, `@james.shen`, `@vagrawalg`, `@nmcavinue`         | Sub-Project Leader       | Code Owner |
 
 1. **Top Level Project Leader / Maintainer Responsibilities:** The Top Level Project leaders come from the BI Platform Team. These leaders are responsible for publishing content in the Sub-Projects that role up to the Top Level Projects and are responsible for maintaining the GitLab Tableau Project. This role does not specifically include Tableau Online Site Administration responsibilities although several Top Level Project Leaders are also [Tableau Online Site Admins](/handbook/business-technology/data-team/platform/tableau/#tableau-online-admins).
