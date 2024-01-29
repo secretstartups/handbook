@@ -163,7 +163,46 @@ The prioritization framework uses an [Eisenhower Matrix](https://todoist.com/pro
  * [Issues sorted by priority](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/issues/?sort=label_priority&state=opened)
  * [Scoped prioritized labels](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/labels?subscribed=&search=capacity-planning%3A%3Apriority)
 
+## GitLab Dedicated Capacity Planning
 
+The following details the overarching team-level agreements and responsibilities to implement capacity planning for GitLab Dedicated.
+While capacity planning for GitLab.com is a shared activity, capacity planning for GitLab Dedicated implements a more differentiated responsibility model.
+
+### Stakeholders: Scalability:Observability team and Dedicated teams
+
+1. The Dedicated team is responsible for defining saturation metrics Tamland monitors, and to configure tenants for capacity planning.
+1. The Dedicated team runs Tamland inside tenant environments and produces saturation forecasting data.
+1. The [Scalability:Observability team](/handbook/engineering/infrastructure/team/scalability/observability) team owns the reporting side of capacity planning and makes sure reports and warnings are available.
+1. The Dedicated team is responsible for triaging and responding to the forecasts and warnings generated, and applying any insights to Dedicated tenant environments.
+1. The [Scalability:Observability team](/handbook/engineering/infrastructure/team/scalability/observability) team implements new features and fixes for Tamland to aid the capacity planning process for GitLab Dedicated.
+
+### Defining saturation metrics and tenants
+
+Saturation points and services can be set up for Tamland monitoring through the [Tamland manifest](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/instrumentor/-/blob/dc6ab53445c2754e00301951b99380013f831f4d/metrics-catalog/get-hybrid/config/tamland/manifest.json#L1).
+The manifest is generated from the GET metrics catalog using a [jsonnet generator](https://gitlab.com/gitlab-com/runbooks/-/blob/master/reference-architectures/get-hybrid/src/tamland/tamland.jsonnet).
+
+### Executing Tamland
+
+Tamland runs inside tenant environments on a daily cadence and produces forecasting data to a S3 bucket.
+
+### Reporting and capacity warnings
+
+The operational project to implement capacity planning for GitLab Dedicated is [`gitlab-dedicated`](https://gitlab.com/gitlab-com/gl-infra/capacity-planning-trackers/gitlab-dedicated).
+This project runs a scheduled pipeline which produces the Tamland report and manages capacity warnings for [configured tenant environments](https://gitlab.com/gitlab-com/gl-infra/capacity-planning-trackers/gitlab-dedicated/-/blob/4acdaae0ac24311bfdf3b5e24852b2dad64c0a57/tenants.yaml).
+
+### Triage and Response
+
+Tamland manages capacity warnings in the [`gitlab-dedicated issue tracker`](https://gitlab.com/gitlab-com/gl-infra/capacity-planning-trackers/gitlab-dedicated/-/issues).
+
+In terms of labels used, the same mechanics apply as for GitLab.com (see above).
+
+### Feature development
+
+We strive to provide reporting and capacity warnings tailored to our needs.
+In particular for GitLab Dedicated, we anticipate the need to provide more tailored reporting and capacity warnings in terms of presentation and workflow.
+This work will be managed through the [Scalability issue tracker](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues).
+
+More general Tamland development is managed through [Tamland's issue tracker](https://gitlab.com/gitlab-com/gl-infra/tamland/-/issues).
 
 ## Examples of Capacity Issues
 
