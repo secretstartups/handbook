@@ -122,7 +122,7 @@ The Principal Recruiter is a [grade 8](/handbook/total-rewards/compensation/comp
 The Principal Recruiter shares the same requirements as the Senior recruiter listed above, but also focuses on work with a broadere impact across departments. Principal Recruiters proactively own strategic decisions and are an extension of the Talent Acquisition leadership team. Principal Recruiters provide technical and functional knowledge to projects that contribute to overall direction across teams. They understand and focus on complex problems that require a deep understand and expertise of multiple sources of data to make recommendations and drive adoption. Principal recruiters are able to autonomously exercise judgement in developing methods and technicals to obtain results with a functional or team wide impact.
 
 1. Leverages business acumen, functional expertise and good judgement when evaluating possible outcomes.
-1. Proficent in autonomously identifying, scoping and executing on high complexity, relevant functional strategic work. 
+1. Proficent in autonomously identifying, scoping and executing on high complexity, relevant functional strategic work.
 1. Drives  a strong connection of TA Strategy through individual, team and functional work.
 1. Has broad direct relationships with strategic partners that help drive the goals of business forward.
 1. Expert knowledge of GitLab businesses, both in direct and ancillary purview. Has a keen awarness of GitLab's vision, story and long term goals.
