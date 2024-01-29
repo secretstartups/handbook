@@ -139,7 +139,7 @@ Every quarter, an engineering manager for each group in the Govern and Growth Co
 
 We aim to foster collaboration and communication between engineering managers in the Govern and Growth Compartment, align groups on product priorities for the next quarter, and celebrate our successes together.
 
-Quarterly review update template can be found [here](Weekly update template can be found [here](https://gitlab.com/gitlab-com/govern-compartment/-/blob/main/.gitlab/issue_templates/govern_stage_quarterly_review.md)).
+Quarterly review update template can be found [here](https://gitlab.com/gitlab-com/govern-compartment/-/blob/main/.gitlab/issue_templates/govern_stage_quarterly_review.md)).
 
 ## Govern staff meeting
 
