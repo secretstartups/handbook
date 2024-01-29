@@ -23,10 +23,10 @@ CI Catalog GA Epic: [https://gitlab.com/groups/gitlab-org/-/epics/12153](https:/
 #### Updates for current Go-To-GA list
 - [Enforce semantic versioning](https://gitlab.com/gitlab-org/gitlab/-/issues/427286)
   - POC currently in progress.  
-  - Initial review potentially mid next week. 
+  - As of 2024-01-29, initial review potentially planned mid this week. 
 - Support CI interpolation with arrays
   - [Implement text interpolation](https://gitlab.com/gitlab-org/gitlab/-/issues/433002)
-    - Issue [identified](https://gitlab.slack.com/archives/C3JJET4Q6/p1706109066786799) during FF rollout.  [Fix](https://gitlab.com/gitlab-org/gitlab/-/issues/439272) is in review. 
+    - Issue [identified](https://gitlab.slack.com/archives/C3JJET4Q6/p1706109066786799) during FF rollout.  Ongoing team discussions in [https://gitlab.com/gitlab-org/gitlab/-/issues/439272](https://gitlab.com/gitlab-org/gitlab/-/issues/439272#note_1748039593) to determine best next steps.
   - [CI interpolation with arrays](https://gitlab.com/gitlab-org/gitlab/-/issues/407176)
 - [Spike issue](https://gitlab.com/gitlab-org/gitlab/-/issues/434260) to distributed components for Self managed customers
   - Due to Threat Model work pivot for Avielle, assistance from another team member has been requested to help this forward.
@@ -50,7 +50,7 @@ CI Catalog GA Epic: [https://gitlab.com/groups/gitlab-org/-/epics/12153](https:/
 
 #### Blockers:
 
-- None at this time.
+- Flaw in text interpolation has initiated discussions in [https://gitlab.com/gitlab-org/gitlab/-/issues/439272](https://gitlab.com/gitlab-org/gitlab/-/issues/439272#note_1748039593) to determine best next steps.
 
 ### Milestone 16.10 (February 10, 2024 - March 8, 2024)
 
