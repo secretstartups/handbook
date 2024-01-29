@@ -121,6 +121,15 @@ The Data Platform doesn't put people at risk
 
 * Data is only accisible to those authorized by documented approvals
 * The GitLab data team will stick with the [Principle of Least Privilege](https://handbook.gitlab.com/handbook/security/access-management-policy/#principle-of-least-privilege) regarding the authorization and authentication  
+### Is Secure
+The Data Platform doesn't put people at risk
+
+* Data is only accessible to those authorized by documented approvals
+
+### Is Maintainable 
+
+* The Data Platform component will be created with considering the good engineering practices for the [ease of maintainability](https://en.wikipedia.org/wiki/Maintainability). It means tracking of maintainability is intended to help reduce or reverse a system's tendency toward "code entropy" or degraded integrity 
+
 ### Benefits a Larger Community
 GitLab's Data Platform is relevant to a community larger than GitLab's and depends on a larger community of engineers.
 
