@@ -183,7 +183,7 @@ The workshops are kept to a max of 15 team members to generate more comfort and 
 
 #### Facilitators
 
-Currently, we have four GitLab team members who are certified to facilitate the #IamRemarkable workshop:
+Currently, we have three GitLab team members who are certified to facilitate the #IamRemarkable workshop:
 
 1. Giuliana Lucchesi
 1. Terri Chu
