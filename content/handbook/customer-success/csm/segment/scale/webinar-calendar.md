@@ -21,13 +21,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### AMER Time Zone Webinars & Labs
 
-#### Security and Compliance
-##### January 26th, 2024 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
-
-GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_Zg7ms6dTQaKdT-zSRKfWLg#/registration)
-
 ### Jira to GitLab: Helping you transition to planning with GitLab
 ##### January 30th, 2024 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
 
@@ -47,10 +40,6 @@ Join us for a hands-on GitLab AI lab where we will explore Artificial Intelligen
 
 #### Security and Compliance
 ##### January 26th, 2024 at 10:00-11:00AM UTC / 11:00AM-12:00PM CET
-
-GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_KpVa0DWpRdqUxGy311W8Eg#/registration)
 
 ### Jira to GitLab: Helping you transition to planning with GitLab
 ##### January 30th, 2024 at 10:00-11:00AM UTC / 11:00AM-12:00PM CET
