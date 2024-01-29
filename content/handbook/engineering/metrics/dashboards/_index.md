@@ -10,12 +10,12 @@ Welcome to our Engineering Metrics Dashboards hub – your go-to spot for checki
 
 This page is populated from the following filterable dashboards.
 
-- [Top Engineering Metrics Dashboard](https://us-west-2b.online.tableau.com/t/gitlabpublic/views/TopEngineeringMetrics/TopEngineeringMetricsDashboard)
-- [MR Types Dashboard](https://us-west-2b.online.tableau.com/t/gitlabpublic/views/MergeRequestMetrics/OverallMRsbyType_1)
-- [Development Embedded Dashboard](https://us-west-2b.online.tableau.com/t/gitlabpublic/views/DevelopmentEmbeddedDashboard/DevelopmentEmbeddedDashboard)
+- [Top Engineering Metrics Dashboard](https://10az.online.tableau.com/#/site/gitlab/views/TopEngineeringMetrics_16989570521080/TopEngineeringMetricsDashboard)
+- [MR Types Dashboard](https://10az.online.tableau.com/#/site/gitlab/views/MRMetrics/OverallMRsbyType_1)
+- [Development Embedded Dashboard](https://10az.online.tableau.com/#/site/gitlab/views/DevelopmentEmbeddedDashboard_17017859046500/DevelopmentEmbeddedDashboard)
 - Quality Embedded Dashboard - LINK
-- Infrastructure Embedded Dashboard - LINK
-- [Security Embedded Dashboard](https://us-west-2b.online.tableau.com/t/gitlabpublic/views/AppSecDashboards_17060230337410/AppSec-ApplicationandContainerVulnerabilityDashboard)
+- [Infrastructure Embedded Dashboard](https://10az.online.tableau.com/#/site/gitlab/views/DraftInfrastructureEmbeddedDashboard/InfrastructureEmbeddedDashboard)
+- [Security Embedded Dashboard](https://10az.online.tableau.com/#/site/gitlab/views/appsectest2rawdata/AppSec-ApplicationandContainerVulnerabilityDashboard)
 
 #### Filtering your data
 To ensure the accuracy of the presented data, please use the convenient filtering options (**'Group'**, **'Section'**, or **'Stage'**) at the top of the dashboard to tailor the displayed information to your group, section, or stage's metrics.
