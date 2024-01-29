@@ -155,7 +155,7 @@ Meetings have an agenda and are async-first, where the aim is to resolve discuss
 * Group [#g_govern_security_policies](https://gitlab.slack.com/archives/CU9V380HW)
 * Group [#g_govern_threat_insights](https://gitlab.slack.com/archives/CV09DAXEW)
 * Group [#g_govern_compliance](https://gitlab.slack.com/messages/CN7C8029H)
-* [Software Supply Chain Security working group](/handbook/company/team/structure/working-groups/software-supply-chain-security/)
+* [Software Supply Chain Security working group](/handbook/company/working-groups/software-supply-chain-security/)
 
 ### Technical Documentation Links
 

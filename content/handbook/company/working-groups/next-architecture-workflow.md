@@ -58,7 +58,7 @@ great results by using it.
 - [Architecture Blueprints][blueprints] provide great context and detail, but
   they are completely disconnected from Product prioritization and thus rarely
   picked up into the workstream.
-- [Working Groups](/handbook/company/team/structure/working-groups/) involving technical
+- [Working Groups](/handbook/company/working-groups/) involving technical
   initiatives have a low rate of success. Many *choose* to produce blueprints
   as part of their exit criteria, but blueprints are not standard and do very
   little to ensure the work gets done.
