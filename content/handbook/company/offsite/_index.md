@@ -23,6 +23,8 @@ The agenda should include discussions that are:
 1. [Executive Business Admin](/handbook/eba/#executive-business-administrator-team) to the CEO (optional)
 1. Invited participants: folks invited to participate in one or more specific session
 
+While attendees will include this list of folks, there will be conversations that are most relevant to a sub-set of people. In these cases, calendars will specify who is "recommended" and who is "optional." In some instance, E-Group members may be among the list of optional attendees.
+
 #### Roles
 
 **Executives** are committed to working through difficult discussions and problems during the event.
