@@ -234,6 +234,7 @@ The following actions are performed by Data Team Triager:
       - A new issue is opened in the `GitLab Data Team project`, assigned to the correct DRI and linked to the original MR.
       - Impact will be determined in the issue.
       - Any MRs will be created to overcome loading issues, downstream dbt processing and Sisense usage.
+         - If impact is beyond data loading, this means the data is used downstream, an Analytics Engineer **must** be included to also determine the business impact of the upstream change. 
       - According to the Merge of the GitLab.com MR, merge will be planned.
    - If the `MR` does not contains the label `group::product intelligence` and it concerns changes to `SQL` structure:
       - Check if it will break the operation / data pipeline, following the Determination matrix below.
@@ -245,6 +246,7 @@ The following actions are performed by Data Team Triager:
       - A new issue is opened in the `GitLab Data Team project`, assigned to the correct DRI and linked to the original MR.
       - Impact will be determined in the issue.
       - Any MRs will be created to overcome loading issues, downstream dbt processing and Sisense usage.
+         - If impact is beyond data loading, this means the data is used downstream, an Analytics Engineer **must** be included to also determine the business impact of the upstream change. 
       - According to the Merge of the GitLab.com MR, merge will be planned.
       - All stakeholders will be informed.
 
