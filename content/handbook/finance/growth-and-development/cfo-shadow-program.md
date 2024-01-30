@@ -123,5 +123,5 @@ Finance team members have a high workload and may not be able to complete a full
 | Tuesday 2024-02-06 | Thursday 2024-02-08 | |
 | Tuesday 2024-02-20 | Thursday 2024-02-22 | |
 | Tuesday 2024-04-02 | Thursday 2024-04-04 | |
-| Tuesday 2024-04-09 | Thursday 2024-04-11 | |
+| Tuesday 2024-04-09 | Thursday 2024-04-11 | Rakhi Reddy |
 
