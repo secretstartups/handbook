@@ -73,6 +73,15 @@ Come learn about what CI/CD is and how it can benefit your team. We will cover a
 
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_YFaTRHSXRm-mGg0wbz9T1w#/registration)
 
+#### Hands-On GitLab CI Lab 
+##### February 7th, 2023 at 9:00-11:00AM Pacific Time / 12:00-2:00PM Eastern Time
+
+Join us for a hands-on GitLab CI lab and learn how it can fit in your organization!
+
+Learn how to build simple GitLab pipelines and work up to more advanced pipeline structures and workflows, including security scanning and compliance enforcement.
+
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_hkYBKA34TFqsVdbVONzHWw)
+
 #### GitLab Runner Fundamentals and What You Need to Know
 ##### February 9th, 2024 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
 
@@ -86,6 +95,19 @@ Runners are a requirement for operating GitLab CI/CD. Learn about Runner archite
 Expand your CI/CD knowledge while we cover advanced topics that will accelerate your efficiency using GitLab, such as pipelines, variables, rules, artifacts, and more. This session is intended for those who have used CI/CD in the past.
 
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_uJms-QWpRXuNF8J1DXLMjw#/registration)
+
+#### Hands-On Advanced GitLab CI Lab 
+##### February 14th, 2023 at 9:00-11:00AM Pacific Time / 12:00-2:00PM Eastern Time
+
+Join us for a hands-on lab where we will go into advanced GitLab CI capabilities that allow customers to simplify pipeline yml code and optimize the execution time of pipelines.
+
+We will cover:
+- Storing build resources in GitLab registries
+- Managing artifacts, dependencies, and environment variables between jobs
+- Running a job multiple times in parallel with different variables
+- Triggering downstream pipelines
+
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_h-Q7kP6CRNmbPYnE4h-DVg)
 
 #### Security and Compliance
 ##### February 21st, 2024 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
@@ -101,6 +123,12 @@ GitLab offers robust team planning capabilities that work directly with the DevO
 
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_rbTleneZRSi4QkOPOV-Rwg#/registration)
 
+#### AI in DevSecOps - GitLab Hands-On Lab
+##### February 28th, 2023 at 9:00-11:00AM Pacific Time / 12:00-2:00PM Eastern Time
+
+Join us for a hands-on GitLab AI lab where we will explore Artificial Intelligence and how it fits within the DevSecOps lifecycle. In this session, we will cover foundational implementation and use case scenarios such as Code Suggestions and Vulnerability Explanations.
+
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_tdfeUNKoRwqid6SuRfNfWw)
 
 ### EMEA Time Zone Webinars & Labs
 
@@ -118,6 +146,15 @@ Come learn about what CI/CD is and how it can benefit your team. We will cover a
 
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_Dh2Luo6IQmC59OwzdB3_3A#/registration)
 
+#### Hands-On GitLab CI Lab 
+##### February 7th, 2023 at 10:0AM-12:00PM UTC / 11:00AM-1:00PM CET
+
+Join us for a hands-on GitLab CI lab and learn how it can fit in your organization!
+
+Learn how to build simple GitLab pipelines and work up to more advanced pipeline structures and workflows, including security scanning and compliance enforcement.
+
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_G2Nh4nTCSLGq9lJSEBiAWQ)
+
 #### GitLab Runner Fundamentals and What You Need to Know
 ##### February 9th, 2024 at 10:00-11:00AM UTC / 11:00AM-12:00PM CET
 
@@ -132,6 +169,19 @@ Expand your CI/CD knowledge while we cover advanced topics that will accelerate 
 
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_mo2QLf2pToqaT3U7n6XqKw#/registration)
 
+#### Hands-On Advanced GitLab CI Lab 
+##### February 14th, 2023 at 10:00AM-12:00PM UTC / 11:00AM-1:00PM CET
+
+Join us for a hands-on lab where we will go into advanced GitLab CI capabilities that allow customers to simplify pipeline yml code and optimize the execution time of pipelines.
+
+We will cover:
+- Storing build resources in GitLab registries
+- Managing artifacts, dependencies, and environment variables between jobs
+- Running a job multiple times in parallel with different variables
+- Triggering downstream pipelines
+
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_HCHR8oBPTAGkeI8IP_bMgQ)
+
 #### Security and Compliance
 ##### February 21st, 2024 at 10:00-11:00AM UTC / 11:00AM-12:00PM CET
 
@@ -145,5 +195,12 @@ GitLab enables developers and security to work together in a single tool, allowi
 GitLab offers robust team planning capabilities that work directly with the DevOps lifecycle. Keeping teams in a single application offers operational and financial advantages. Many customers inquire about what a transition would look like from Jira Software to GitLab to team planning. This webinar will start to outline the differences in functionality and advantages gained by using GitLab. 
 
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_C1ILuQPKQ4GDdZ0T18pnMQ#/registration)
+
+#### AI in DevSecOps - GitLab Hands-On Lab
+##### February 28th, 2023 at 10:00AM-12:00PM UTC / 11:00AM-1:00PM CET
+
+Join us for a hands-on GitLab AI lab where we will explore Artificial Intelligence and how it fits within the DevSecOps lifecycle. In this session, we will cover foundational implementation and use case scenarios such as Code Suggestions and Vulnerability Explanations.
+
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_cGKf3oS2RmS384OPjwy03Q)
 
 Check back later for more webinars & labs! 
