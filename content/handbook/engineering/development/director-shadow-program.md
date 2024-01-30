@@ -154,7 +154,7 @@ No, not at this time.
 | January 29 | [Carla Drago](https://gitlab.com/carlad-gl) | Senior Backend Engineer |
 | Feb 5 | [Tyler DeCaire](https://gitlab.com/tdecaire) | Solutions Architect |
 | Feb 12 | Not Available | |
-| Feb 19 | Available | |
+| Feb 19 | [Kev](https://gitlab.com/kevslashnull) | Non-GitLab shadow - Software Engineer |
 | Feb 26 | Available | |
 
 ## Shadow Alumni
