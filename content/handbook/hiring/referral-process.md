@@ -60,7 +60,8 @@ As we continue to scale, so does the volume of referrals we receive. Referrals a
 
 1. Check alignment with the Job Post
     - The referring team member has reviewed the job post to ensure that their referral's experience aligns with the required skills. While they don't need to meet all requirements, alignment with the majority is essential.
-1. Communication with the Referral
+1. Confirmed they live in a location we can hire in by checking the [Country Hiring Status](https://comp-calculator.gitlab.net/hiring_status/index) page in the Comp Calculator. If the country is **not** listed or is marked as `Not Open for Hiring`, we will have to reject the candidate so unfortunately they cannot be referred.
+1.  Communication with the Referral
     - You have informed the person that you are referring them.
 1. Detailed Referral Description
 - *Must complete* required fields, including a comprehensive description of how you know the candidate you are referring and why they are aligned to the role with GitLab. Provide detailed information such as specific qualifications, skills and relevant experiences that make the candidate a strong match for the specific role.
