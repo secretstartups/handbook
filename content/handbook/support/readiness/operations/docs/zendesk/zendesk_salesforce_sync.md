@@ -1,5 +1,5 @@
 ---
-title: Zendesk-Salesforce Sync
+title: ZD-SFDC sync
 description: Support Operations documentation page for our Zendesk<>Salesforce Sync
 canonical_path: "/handbook/support/readiness/operations/docs/zendesk/zendesk_salesforce_sync"
 ---
