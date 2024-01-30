@@ -55,10 +55,6 @@ SIRT's goal is detection and response of anomalies and security events - on the 
 <td><a href="{{< ref "/job-families/security/infrastructure-security#manager-infrastructure-security" >}}">Manager, Infrastructure Security</a></td>
 </tr>
 <tr>
-<td>Marco Lancini</td>
-<td><a href="{{< ref "/job-families/security/security-engineer#principal-security-engineer" >}}">Principal Security Engineer</a></td>
-</tr>
-<tr>
 <td>Paulo Pontes Martins</td>
 <td><a href="{{< ref "/job-families/security/infrastructure-security#senior-infrastructure-security-engineer" >}}">Staff Security Engineer, Infrastructure Security</a></td>
 </tr>
