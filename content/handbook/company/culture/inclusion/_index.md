@@ -14,8 +14,8 @@ And diversity in our leadership [supports innovation](https://www.bcg.com/en-us/
 
 ## GitLab's Diversity Inclusion and Belonging Mission
 
-- **Mission**: At GitLab, we believe everyone can contribute.  This informs our approach to DIB.  We are building a scalable strategy based on **A**ction, **D**oing Good in the communities we serve, holding ourselves **A**ccountable and creating equitable **P**olicies in a **T**ransparent environment.  Just as DIB is a journey, our acronym, **A.D.A.P.T.** mirrors the agility required throughout that journey.
-- **Action** - There is intentionality in how we hire and retain our team members as well as engage with our customers and the open source community.
+- **Mission**: At GitLab, we believe everyone can contribute and the Diversity Inclusion and Belonging Team are building scalable strategies based on our acronym, A.D.A.P.T. which stands for **A**ction, **D**oing Good in the communities we serve, holding ourselves **A**ccountable and creating equitable **P**olicies in a **T**ransparent environment.  We are focused on helping to build high performing, customer centric teams by expanding, establishing, embedding our DIB  (https://handbook.gitlab.com/handbook/values/#diversity-inclusion). Just as DIB is a journey, our acronym, **A.D.A.P.T.** mirrors the agility required throughout that journey.
+- **Action** - There is intentionality in how we hire, progress and retain our team members as well as engage with our customers and the open source community.
 - **Do Good** - By providing avenues and opportunities for GitLab & team members to meaningfully contribute to our community and society.
 - **Accountable** - We have a Responsibility to commit and Answerable for the outcome.
 - **Policies**  - By building scalable ways to govern our work, actionable processes which inform our program development/execution.
