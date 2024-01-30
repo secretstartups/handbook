@@ -68,7 +68,7 @@ As we continue to scale, so does the volume of referrals we receive. Referrals a
     - **Bad Example** - "XX wants to work in a remote workforce. They bring a lot of experience in Program Management"
     - **Good Example:** - "XX has a proven track recrod in Program Management within a Product Organization. When I worked with them at XYZ company, they worked specifically with net new product launches, partnering with monetization teams on bringing new products to market. This makes them a strong fit for the Product Program Manager role at GitLab."
 
-If the person you wish to refer has already submitted an application, please post in the #talent-acquisition Slack channel so the relevant Recruiter can DM you. You must provide details on how you know the candidate and why they're aligned with the role at GitLab to determine whether or not they are qualified as a referral. It's important to note that, despite our best efforts, individuals who apply without following the proper referral procedure may not receive the same experience as those referred through our formal channels in Greenhouse.
+If the person you wish to refer has already submitted an application, please email referrals@gitlab with the Detailed Referral Description required. You must provide details on how you know the candidate and why they're aligned with the role at GitLab to determine whether or not they are qualified as a referral. It's important to note that, despite our best efforts, individuals who apply without following the proper referral procedure may not receive the same experience as those referred through our formal channels in Greenhouse.
 
 
 ##### Submitting a Referral in Greenhouse
