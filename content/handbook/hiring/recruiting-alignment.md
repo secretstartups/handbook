@@ -24,8 +24,7 @@ description: "This page is an overview of the search team alignment and the tale
 | Development | Mark Deubel & Sara Currie | Alice Crosbie |
 | R&D   | Michelle A. Kemp | Sarah Lynch  |
 | R&D | Joanna Michniewicz  |  Alice Crosbie |
-| R&D | Holly Nesselroad | Fernando Khubeir |
-| Product Management  | Holly Nesselroad | Michelle Jubrey |
+| R&D, Product Management | Holly Nesselroad | Fernando Khubeir |
 | R&D  | Riley Smith | Lerato Thipe  |
 | R&D   | Joe Guiler | Teranay Dixon  |
 | R&D | Anna Kioukis  |  Teranay Dixon |
