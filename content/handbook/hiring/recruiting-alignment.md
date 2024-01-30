@@ -12,19 +12,19 @@ description: "This page is an overview of the search team alignment and the tale
 | Enterprise Sales, AMER | Kevin Rodrigues |Fernando Khubeir |
 | Enterprise Sales, EMEA | Joanna Tourne | Lerato Thipe |
 | Sales, AMER | Marcus Carter | Michelle Jubrey |
-| Sales/ G&A | Hannah Stewart  | Fernando Khubeir |
+| Sales/ G&A | Hannah Stewart  | Sarah Lynch |
 | Commercial Sales/R&D, EMEA | Ben Cowdry | Lerato Thipe |
 | Sales | Kelsey Hart  | Fernando Khubeir |
 | Customer Success, EMEA | Joanna Tourne | Lerato Thipe |
 | Customer Success, AMER | Barbara Dinoff |  Sarah Lynch |
 | All Business, APAC | Yas Priatna  | Lerato Thipe |
 | Marketing/ G&A, Global | Steph Sarff | Michelle Jubrey |
-| Marketing, BDR/SDR/G&A (Global)| Caroline Rebello |  Sarah Lynch |
+| Marketing, BDR/SDR/G&A (Global)| Caroline Rebello |  Michelle Jubrey |
 | G&A | Jenna VanZutphen | Fernando Khubeir |
 | Development | Mark Deubel & Sara Currie | Alice Crosbie |
 | R&D   | Michelle A. Kemp | Sarah Lynch  |
 | R&D | Joanna Michniewicz  |  Alice Crosbie |
-| R&D | Holly Nesselroad | Michelle Jubrey |
+| R&D | Holly Nesselroad | Fernando Khubeir |
 | Product Management  | Holly Nesselroad | Michelle Jubrey |
 | R&D  | Riley Smith | Lerato Thipe  |
 | R&D   | Joe Guiler | Teranay Dixon  |
