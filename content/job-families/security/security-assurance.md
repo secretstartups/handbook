@@ -185,7 +185,7 @@ Additional details about our process can be found on our [hiring page](/handbook
 ###### Responsibilities
 
 - The responsibilities of a Security Assurance Automation Engineer, plus;
-Design, engineer, deploy, and maintain custom automation projects
+- Design, engineer, deploy, and maintain custom automation projects
 - Evaluate Security Assurance tools for use by the Security Automation Department
 - Design and gather metrics data for the Security Assurance Automation program
 - Represent the Security Assurance Automation team as a subject matter expert in at least one technical, product, or conceptual area
