@@ -13,29 +13,29 @@ description: "Test Platform Sub-Department"
 {.h4}
 [Test Coverage](/handbook/engineering/infrastructure/test-platform/test-coverage/)
 {.h4}
-[E2E Test Execution Metrics](/handbook/engineering/infrastructure/test-platform/test-metrics-dashboards/)
+[E2E Test Execution Reports](/handbook/engineering/infrastructure/test-platform/test-execution-reports/)
 {.h4}
 
 ---
 
 ## Mission
 
-At GitLab [Quality is everyone's responsibility](https://handbook.gitlab.com/handbook/engineering/development/principles/#quality). The Test Platform sub-department's mission is to be a world class team that enables successful development and deployment of high quality GitLab software applications with [kaizen](https://www.techtarget.com/searcherp/definition/kaizen-or-continuous-improvement) workflow efficiency, reliability, productivity. 
+At GitLab [Quality is everyone's responsibility](https://handbook.gitlab.com/handbook/engineering/development/principles/#quality). The Test Platform sub-department's mission is to be a world class team that enables successful development and deployment of high quality GitLab software applications with [kaizen](https://www.techtarget.com/searcherp/definition/kaizen-or-continuous-improvement) workflow efficiency, reliability, productivity.
 
-The Test Platform sub-department does this by focusing on: 
+The Test Platform sub-department does this by focusing on:
 
-- Innovative test architecture, efficiency, and customer results while delivering impact to the company's critical business initiatives. 
-- Broadening our lead in ensuring self-managed excellence, improve deployment confidence, drive visibility and actionability of test results, and expand our Architecture focus. 
+- Innovative test architecture, efficiency, and customer results while delivering impact to the company's critical business initiatives.
+- Broadening our lead in ensuring self-managed excellence, improve deployment confidence, drive visibility and actionability of test results, and expand our Architecture focus.
 - Enabling development and deployment at scale.
 - Fostering a culture of quality evangelism, promoting testing best practices across GitLab.
 
 ## Vision
 
-The Test Platform sub-department vision is to focus on customer satisfaction and enable GitLab to deliver faster and efficiently by supporting Gitlab’s principle of Quality is everyone’s responsibility. 
+The Test Platform sub-department vision is to focus on customer satisfaction and enable GitLab to deliver faster and efficiently by supporting Gitlab’s principle of Quality is everyone’s responsibility.
 
 Integral parts of this vision:
 
-1. Test Tooling: Build tools and frameworks that enable GitLab Engineering & Product teams to ship high-quality & reliable products to our customers efficiently. 
+1. Test Tooling: Build tools and frameworks that enable GitLab Engineering & Product teams to ship high-quality & reliable products to our customers efficiently.
 1. Reliable platform: This includes monitoring the platform for performance issues, implementing security measures, and conducting capacity planning to ensure that the platform can handle the expected load.
 1. Technical Support and Expertise: By providing technical support and expertise to development teams, test platform teams can help to solve complex technical challenges and ensure that applications are built with utmost quality.
 
@@ -108,7 +108,7 @@ Test Platform has been key to supporting prospect POVs and providing prompt, kno
 - Contribute quality tools to GitLab the product to help mature and dogfood our testing offerings.
 - Increase MR Rate.
 
-## Team Structure 
+## Team Structure
 
 Infrastructure Department structure is documented [here](/handbook/engineering/infrastructure/#organization-structure).
 
