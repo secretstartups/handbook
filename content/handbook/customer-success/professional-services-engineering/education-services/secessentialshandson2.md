@@ -66,7 +66,7 @@ Before beginning this lab and all later labs, you should disable any scanners th
 
 > Python-based projects often use pip for package management. With pip, developers will often provide a list of dependencies in a file called `requirements.txt`.
 
-> Although this example uses Python with the pip package manager, GitLab supports various other package managers. For a full list of supported languages and package managers, see the <a target="_blank" href="https://docs.gitlab.com/ee/user/application_security/dependency_scanning/#supported-languages-and-package-managers"></a>.
+> Although this example uses Python with the pip package manager, GitLab supports various other package managers. For a full list of supported languages and package managers, click [here](https://docs.gitlab.com/ee/user/application_security/dependency_scanning/#supported-languages-and-package-managers).
 
 1. In your `Security Labs` project, navigate to **Code > Repository**.
 
