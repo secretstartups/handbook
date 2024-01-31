@@ -21,13 +21,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### AMER Time Zone Webinars & Labs
 
-### Jira to GitLab: Helping you transition to planning with GitLab
-##### January 30th, 2024 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
-
-GitLab offers robust team planning capabilities that work directly with the DevOps lifecycle. Keeping teams in a single application offers operational and financial advantages. Many customers inquire about what a transition would look like from Jira Software to GitLab to team planning. This webinar will start to outline the differences in functionality and advantages gained by using GitLab. 
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_zJJpJoOZTDqoAjeGpio_NQ#/registration)
-
 #### AI in DevSecOps - GitLab Hands-On Lab
 ##### January 31st, 2023 at 9:00-10:30AM Pacific Time / 12:00-1:30PM Eastern Time
 
@@ -37,16 +30,6 @@ Join us for a hands-on GitLab AI lab where we will explore Artificial Intelligen
 
 
 ### EMEA Time Zone Webinars & Labs
-
-#### Security and Compliance
-##### January 26th, 2024 at 10:00-11:00AM UTC / 11:00AM-12:00PM CET
-
-### Jira to GitLab: Helping you transition to planning with GitLab
-##### January 30th, 2024 at 10:00-11:00AM UTC / 11:00AM-12:00PM CET
-
-GitLab offers robust team planning capabilities that work directly with the DevOps lifecycle. Keeping teams in a single application offers operational and financial advantages. Many customers inquire about what a transition would look like from Jira Software to GitLab to team planning. This webinar will start to outline the differences in functionality and advantages gained by using GitLab. 
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_1UOsVjFXQGGbYEGAFpiAWw#/registration)
 
 #### AI in DevSecOps - GitLab Hands-On Lab
 ##### January 31st, 2023 at 10:00AM-11:30AM UTC / 11:00AM-12:30PM CET
