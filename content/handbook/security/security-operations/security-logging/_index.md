@@ -78,7 +78,7 @@ The team does have set of regular synchronous calls:
 
 ### Team Pages
 
-- This [Handbook Page](/handbook/security/security-engineering/security-logging/), which contains general information about the team.
+- This [Handbook Page](/handbook/security/security-operations/security-logging/), which contains general information about the team.
 - The [Security-Logging GitLab Sub-Group](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/security-logging/security-logging), which contains EPICs and repositories
 
 ### Project Management

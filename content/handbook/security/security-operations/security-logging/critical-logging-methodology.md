@@ -15,10 +15,10 @@ The Critical Logging tiering methodology is applicable to all systems utilized a
 
 |Role|Responsibility|
 |----------|------------------------------|
-|[Security Logging Team](/handbook/security/security-engineering/security-logging/)|Executes an annual review of Critical Logging tiers and makes adjustments as necessary. Owns the Critical Logging Tiering Methodology and supports the identification of and assignment of a Critical Logging tier as needed.|
+|[Security Logging Team](/handbook/security/security-operations/security-logging/)|Executes an annual review of Critical Logging tiers and makes adjustments as necessary. Owns the Critical Logging Tiering Methodology and supports the identification of and assignment of a Critical Logging tier as needed.|
 |[SIRT](/handbook/security/security-operations/sirt/)|Supports defining of Critical Logging tier in conjunction with the Security Logging Team when new systems are added to the tech stack.|
-|[AppSec](/handbook/security/security-engineering/application-security/)|Supports defining of Critical Logging tier in conjunction with the Security Logging Team when new systems are added to the tech stack.|
-|[InfraSec](/handbook/security/security-engineering/infrastructure-security/)|Supports defining of Critical Logging tier in conjunction with the Security Logging Team when new systems are added to the tech stack.|
+|[AppSec](/handbook/security/product-security/application-security/)|Supports defining of Critical Logging tier in conjunction with the Security Logging Team when new systems are added to the tech stack.|
+|[InfraSec](/handbook/security/product-security/infrastructure-security/)|Supports defining of Critical Logging tier in conjunction with the Security Logging Team when new systems are added to the tech stack.|
 |Technical System Owners|Provide complete and accurate data about the systems that they own so that an accurate tier is assigned.|
 
 ## Critical Logging Tiering Procedure

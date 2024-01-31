@@ -486,9 +486,9 @@
 /content/handbook/security/threat-management/ @smanzuik @estrike
 /content/handbook/security/threat-management/red-team/ @cmoberly
 /content/handbook/security/threat-management/identity/ @gitlab-com/gl-security/identity
-/content/handbook/security/product-security/ @jritchey
-/content/handbook/security/product-security/infrastructure-security.md @joe-dub
-/content/handbook/security/product-security/security-logging/ @joe-dub
+/content/handbook/security/product-security/ @juliedavila @jritchey
+/content/handbook/security/product-security/infrastructure-security.md @juliedavila
+/content/handbook/security/security-operations/security-logging/ @mcoons
 
 ^[solutions-architects]
 /content/handbook/customer-success/solutions-architects/ @gitlab-com/sa-leaders
