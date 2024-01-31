@@ -304,8 +304,6 @@ Please note if the team member has a hire date effective **before 2023-11-20**, 
 
 For information regarding the program details and team member eligibility and understanding, please visit our [guide in the Hiring section of GitLab's handbook](/handbook/hiring/referral-process/).
 
-If a team member has been referred, the People Connect team will review team members' self-identification data in Workday including Gender, Ethnicity and Veteran status to determine if the team member qualifies as belonging to a select underrepresented group.
-
 ### Exceptions
 
 - no bonus for hiring people who report to you directly or are in your direct reporting chain,
