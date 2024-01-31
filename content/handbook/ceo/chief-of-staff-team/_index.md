@@ -255,7 +255,7 @@ The CoS to the CEO will also assist the CEO in prepping for the CEO's end of yea
 
 ## Managing the Functional Leaders
 
-Functional Leaders is a group comprised of all [CEO-Skips](/handbook/company/team/structure/#ceo-skips), select People Business Partners, and a few other folks as nominated by members of E-Group.
+Functional Leaders is a group comprised of all [CEO-Skips](/handbook/company/structure/#ceo-skips), select People Business Partners, and a few other folks as nominated by members of E-Group.
 The CoS to the CEO enables and manages this group.
 
 ## Maintaining the Mitigating Concerns

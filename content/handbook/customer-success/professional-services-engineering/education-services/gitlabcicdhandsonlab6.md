@@ -7,7 +7,7 @@ description: "This Hands-On Guide walks you through the lab exercises in the Git
 
 > Estimate time to complete: 25 - 30 minutes
 
-> You are viewing the latest Version 16.x instructions. You are using v16 if your group URL is https://gitlab.com/gitlab-learn-labs/.... If your group URL starts with https://ilt.gitlabtraining.cloud or https://spt.gitlabtraining.cloud, please use the [Version 15.x instructions](https://gitlab.com/gitlab-com/content-sites/handbook/-/blob/d14ee71aeac2054c72ce96e8b35ba2511f86a7ca/content/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandsonlab6.md).
+> **We are transitioning to the latest version of this course.** If your group URL starts with `https://spt.gitlabtraining.cloud`, please use the [Version 15.x instructions](https://gitlab.com/gitlab-com/content-sites/handbook/-/blob/d14ee71aeac2054c72ce96e8b35ba2511f86a7ca/content/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandsonlab6.md).
 
 ## Objectives
 
@@ -203,7 +203,7 @@ Your `deploy review` job should be the only job that should be running.
 
 1. Click on the **Run Pipeline** button.
 
-1. Under **Run for branch name or tag**, make sure **Dev** is selected.
+1. Under **Run for branch name or tag**, make sure **main** is selected.
 
 1. Click on the **Run Pipeline** button.
 

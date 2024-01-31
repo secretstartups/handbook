@@ -10,25 +10,27 @@ description: "This page is an overview of the search team alignment and the tale
 | Executive          | Rich Kahn    | Michelle Jubrey  |
 | Executive          | Zach Choquette   | Michelle Jubrey  |
 | Enterprise Sales, AMER | Kevin Rodrigues |Fernando Khubeir |
-| Enterprise Sales, EMEA | Kannwal Matharu | Lerato Thipe |
+| Enterprise Sales, EMEA | Joanna Tourne | Lerato Thipe |
 | Sales, AMER | Marcus Carter | Michelle Jubrey |
-| Sales/ G&A | Hannah Stewart  | Fernando Khubeir |
+| Sales/ G&A | Hannah Stewart  | Sarah Lynch |
 | Commercial Sales/R&D, EMEA | Ben Cowdry | Lerato Thipe |
-| Enterprise Sales, EMEA | Kanwal Matharu  | Lerato Thipe |
 | Sales | Kelsey Hart  | Fernando Khubeir |
 | Customer Success, EMEA | Joanna Tourne | Lerato Thipe |
-| Customer Success, AMER | Barbara Dinoff |  Fernando Khubeir |
+| Customer Success, AMER | Barbara Dinoff |  Sarah Lynch |
 | All Business, APAC | Yas Priatna  | Lerato Thipe |
 | Marketing/ G&A, Global | Steph Sarff | Michelle Jubrey |
-| Marketing, BDR/SDR/G&A (Global)| Caroline Rebello |  Alice Crosbie |
+| Marketing, BDR/SDR/G&A (Global)| Caroline Rebello |  Michelle Jubrey |
 | G&A | Jenna VanZutphen | Fernando Khubeir |
 | Development | Mark Deubel & Sara Currie | Alice Crosbie |
- R&D | Mark Deubel | Alice Crosbie |
-| R&D   | Michelle A. Kemp | Alice Crosbie  |
+| R&D   | Michelle A. Kemp | Sarah Lynch  |
 | R&D | Joanna Michniewicz  |  Alice Crosbie |
-| R&D | Holly Nesselroad | Michelle Jubrey |
-| Product Management  | Holly Nesselroad | Michelle Jubrey |
+| R&D, Product Management | Holly Nesselroad | Fernando Khubeir |
 | R&D  | Riley Smith | Lerato Thipe  |
+| R&D   | Joe Guiler | Teranay Dixon  |
+| R&D | Anna Kioukis  |  Teranay Dixon |
+| R&D | Maxx Snow | Teranay Dixon |
+| R&D  | Seema Anand | Teranay Dixon |
+
 
 For urgent requests of the Candidate Experience Specialist team, we encourage you to contact them by also tagging @CES in Slack messages and CC'ing CES@gitlab.com on emails.
 

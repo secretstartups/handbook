@@ -360,6 +360,8 @@ PM contributors are encouraged to use discretion if wanting to add new content b
 
 If your feature release will not be generally available upon initial release, please review the [experiment, beta, and general availability guidelines](/handbook/product/gitlab-the-product/#experiment-beta-ga).
 
+To include an experiment or beta feature in the release post, use the [beta template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/beta_feature.yml) to create a release post item in the `unreleased` directory. Beta and experiment features are displayed in their own section of the release post.
+
 ### Primary vs. secondary
 
 When creating your content for a Release Post item you'll need to determine if it's a `primary` or `secondary` feature. Do this in collaboration with your PMM counterpart and reference this guidance if you're unsure:

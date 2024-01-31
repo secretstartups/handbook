@@ -185,7 +185,7 @@ The Senior Principal Product Manager is a [grade 10](/handbook/total-rewards/com
 
 ##### Expectations
 
-Senior Principal Product Managers are experts across multiple domains within GitLab. They are responsible for helping shape the future direction of the organization, assisting management to establish strategic roadmaps, and driving priorities to meet objectives. As a Director-level individual contributor position, Senior Principal Product Managers are expected to perform at a Grade 10 (Director) level according to our [GitLab Job Framework](/handbook/company/team/structure/#individual-contributor-job-framework) and exemplify GitLab's [leadership principles](/handbook/leadership/).  In addition, Senior Principal Product Managers are expected to:
+Senior Principal Product Managers are experts across multiple domains within GitLab. They are responsible for helping shape the future direction of the organization, assisting management to establish strategic roadmaps, and driving priorities to meet objectives. As a Director-level individual contributor position, Senior Principal Product Managers are expected to perform at a Grade 10 (Director) level according to our [GitLab Job Framework](/handbook/company/structure/#individual-contributor-job-framework) and exemplify GitLab's [leadership principles](/handbook/leadership/).  In addition, Senior Principal Product Managers are expected to:
 
 **Drive execution of results**
 
@@ -207,8 +207,8 @@ The Senior Principal Product Manager will report to a Director of Product Manage
 ##### Responsibilities
 
 - Represent GitLab and its values in public communication around specific projects and community contributions.
-- In addition to being an individual contributor product manager of one (or more) of the groups, the Senior Principal PM should be designated as the [product collaborator](/handbook/engineering/incubation/#incubation-engineering-department) for one (or more) [SEG](/handbook/company/team/structure/#single-engineer-groups)s.
-- Lead cross stage initiatives, for example: [Top Cross-Functional Initiatives](/handbook/company/team/structure/working-groups/#top-cross-functional-initiatives)
+- In addition to being an individual contributor product manager of one (or more) of the groups, the Senior Principal PM should be designated as the [product collaborator](/handbook/engineering/incubation/#incubation-engineering-department) for one (or more) [SEG](/handbook/company/structure/#single-engineer-groups)s.
+- Lead cross stage initiatives, for example: [Top Cross-Functional Initiatives](/handbook/company/working-groups/#top-cross-functional-initiatives)
 - Maintains and owns [cross-section directions](/handbook/product/product-processes/#navigating-cross-stage-or-cross-section-direction-pages).
 - Leads working groups to accomplish cross-section [BHAG](/handbook/company/mission/#big-hairy-audacious-goal-bhag)s and targets
 - Identifies and submits investment cases for SEGs, Product Groups, and Categories

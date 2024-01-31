@@ -1,25 +1,8 @@
 ---
 aliases: /handbook/engineering/infrastructure/database/disaster_recovery.html
 title: "Database: Disaster Recovery"
+controlled_document: true
 ---
-
-
-
-
-
-
-
-
-
-<div class="panel panel-gitlab-orange">
-**This is a Controlled Document**
-{: .panel-heading}
-<div class="panel-body">
-
-Inline with GitLab's regulatory obligations, changes to [controlled documents](/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged.
-
-</div>
-</div>
 
 ## Purpose
 

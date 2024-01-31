@@ -244,10 +244,10 @@ Limited Availability phases end and are closed on the release day of each phase'
 
 Process to close phases:
 
-1. After the release day of each month [Product and Engineering DRIs](/handbook/company/team/structure/working-groups/gitlab-dedicated/#dedicated-team-dris) work with [Epic DRIs](#epic-owners) to determine any roadmap changes if an epic extends beyond the epic's planned phase from [Limited Availability roadmap](https://about.gitlab.com/direction/saas-platforms/dedicated/#limited-availability-roadmap). For still-open epics:
+1. After the release day of each month [Product and Engineering DRIs](/handbook/company/working-groups/gitlab-dedicated/#dedicated-team-dris) work with [Epic DRIs](#epic-owners) to determine any roadmap changes if an epic extends beyond the epic's planned phase from [Limited Availability roadmap](https://about.gitlab.com/direction/saas-platforms/dedicated/#limited-availability-roadmap). For still-open epics:
     1. First try and close the epic, ideally by descoping the epic and creating a new epic or issue containing descoped work. Descoped work will be slotted into a future phase.
     1. If descoping is not possible, then the entire epic should be shifted to a future phase. In this case, the epic should show in every phase of [Limited Availability roadmap](https://about.gitlab.com/direction/saas-platforms/dedicated/#limited-availability-roadmap) that the epic was worked on. See Establish Availablility Targets in [Phase 1, 2, and 3](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/a40d70a58c2247a160270703fe6953fbb9fd1244/source/direction/saas-platforms/dedicated/index.html.md#environment-automation) as an example.
-1. [PM and EM](/handbook/company/team/structure/working-groups/gitlab-dedicated/#dedicated-team-dris) then determine roadmap adjustments so that planned work in future phases remains realistic after shifting open work.
+1. [PM and EM](/handbook/company/working-groups/gitlab-dedicated/#dedicated-team-dris) then determine roadmap adjustments so that planned work in future phases remains realistic after shifting open work.
 1. Roadmap changes are shared in the next weekly engineering/product sync as part of [status update process](#status-update-process).
 
 ### Issue boards
@@ -340,7 +340,7 @@ When a red build in the default branch is detected, the first course of action i
 
 #### Merge request reviewers
 
-Assign all developers of the [relvant Dedicated team](#gitlab-group-hierarchy) to all of the MRs that are due for review. Typcially it is not necessary to assign the whole `@gitlab-dedicated` group, so choose the approate group such as `@gitlab-dedicated/environment-automation` or `@gitlab-dedicated/switchboard` depending on the project. As the team grows this helps with determining signal vs noise. While it is OK for only two people to get the MR to the merged state (author + 1 reviewer), assigning everybody gives more exposure to the work in progress and gives a chance for more parties to provide feedback, leading to better quality overall. If the MR sits more than 1 day without receiving meaningful comments for review, MR author is encouraged to assign a particular reviewer to the MR with the aim to speed up the review process.
+Assign all developers of the [relevant Dedicated team](#gitlab-group-hierarchy) to all of the MRs that are due for review. Typically it is not necessary to assign the whole `@gitlab-dedicated` group, so choose the appropriate group such as `@gitlab-dedicated/environment-automation` or `@gitlab-dedicated/switchboard` depending on the project. As the team grows this helps with determining signal vs noise. While it is OK for only two people to get the MR to the merged state (author + 1 reviewer), assigning everybody gives more exposure to the work in progress and gives a chance for more parties to provide feedback, leading to better quality overall. If the MR sits more than 1 day without receiving meaningful comments for review, MR author is encouraged to assign a particular reviewer to the MR with the aim to speed up the review process.
 
 #### Resolving threads on a merge-request
 

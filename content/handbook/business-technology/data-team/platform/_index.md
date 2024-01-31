@@ -1,12 +1,8 @@
 ---
-
 title: "Data Team Platform"
 description: "GitLab Data Team Platform"
+controlled_document: true
 ---
-
-{{% alert title="**This is a Controlled Document**" color="warning" %}}
-Inline with GitLab's regulatory obligations, changes to [controlled documents](/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged.
-{{% /alert %}}
 
 # Purpose
 
@@ -89,7 +85,7 @@ The following table indexes all of the RAW data sources we are loading into the 
 - Prep Schema: The schema in the `PREP` database where [source models](/handbook/business-technology/data-team/platform/dbt-guide/#source-models) are materialized.
 - Audience: The primary users of the data.
 - SLO: Service Level Objective. Our SLO is the time between real-time and the data made available for consumption.
-   - Technically, this means the time between when an entry is made in an upstream system and when the data is available in the Snowflake `PROD` layer (which includes transformations in dbt).  
+   - Technically, this means the time between when an entry is made in an upstream system and when the data is available in the Snowflake `PROD` layer (which includes transformations in dbt).
 - `x` indicates undefined or not run
 
 | [Data Source](/handbook/business-technology/data-team/platform/pipelines) | Pipeline | Raw Schema | Prep Schema | Audience | RF / SLO | MNPI | Tier |
@@ -186,7 +182,7 @@ Sisense's access is always explicitly granted.
 
 ### DataSiren
 
-To ensure that the data team has a complete picture of where sensitive data is in the data warehouse, as well as make sure Sisense does not have access to sensitive data, a periodic scan of the data warehouse is made using dbt along with the internally-developed library of tools created as [`datasiren`](https://gitlab.com/gitlab-data/datasiren). This scan is currently executed weekly. The fine-grained results are stored in Snowflake in the `PREP.DATASIREN` schema and are not available in Periscope because of sensitivity reasons.  High-level results have been made available in Periscope, including the simple dashboard found [here](https://app.periscopedata.com/app/gitlab/793578/DataSiren).  
+To ensure that the data team has a complete picture of where sensitive data is in the data warehouse, as well as make sure Sisense does not have access to sensitive data, a periodic scan of the data warehouse is made using dbt along with the internally-developed library of tools created as [`datasiren`](https://gitlab.com/gitlab-data/datasiren). This scan is currently executed weekly. The fine-grained results are stored in Snowflake in the `PREP.DATASIREN` schema and are not available in Periscope because of sensitivity reasons.  High-level results have been made available in Periscope, including the simple dashboard found [here](https://app.periscopedata.com/app/gitlab/793578/DataSiren).
 
 ### Snowplow Infrastructure
 
@@ -260,12 +256,23 @@ To get access to snowflake support portal, please follow the below steps.
 
 ### Warehouse Access
 
-To gain access to the data warehouse:
+To gain access to Snowflake:
 
 - Create an issue in the [access requests project](https://gitlab.com/gitlab-com/team-member-epics/access-requests) documenting the level of access required.
 - Do not request a shared account - each account must be tied to a user.
 - We loosely follow the paradigm explained in [this blog post](https://blog.fishtownanalytics.com/how-we-configure-snowflake-fc13f1eb36c4) around permissioning users.
 - When asking to mirror an existing account, please note that access to restricted SAFE data will **not** be provisioned/mirrored (currently provided via `restricted_safe` role).
+
+#### Snowflake Analyst
+
+Snowflake can be used to perform analyses on the data that is available by writing SQL-code. Anything created and any outcome of the analyses is considered as an [ad-hoc analyses](handbook/business-technology/data-team/data-development/#data-development-at-gitlab). It is important to know that anything that is created (i.e. worksheets and dashboards) is not version controlled and not supported or managed by the Central Data Team. I.e. When a team member off-boards from GitLab, the worksheets and dashboards are not accessible anymore. In order to persist analyses, team members can build Tableau workbooks, store code snippets in a GitLab project, or commit code to the Data Team's [dbt project](https://gitlab.com/gitlab-data/analytics/-/tree/master/transform/snowflake-dbt).
+
+In order to be granted access to Snowflake, an AR must be opened as [described](/handbook/business-technology/data-team/platform/#warehouse-access). A new user will be created with access to query the `PROD` database.
+There are 2 levels of data access:
+- General data --> Adding the Snowflake `snowflake_analyst` role to their account.
+- SAFE data (you must be or will become a designated insider) --> Adding the Snowflake `snowflake_analyst_safe` to their account. See the [SAFE Guide](handbook/business-technology/data-team/platform/safe-data/#snowflake) for the needed approvals.
+
+All users will have access to `dev_xs` and `reporting` -(size M) warehouse. When creating the user, the `dev_xs` warehouse as default warehouse.
 
 ### Snowflake Permissions Paradigm
 
@@ -388,6 +395,10 @@ Here are the proper steps for deprovisioning existing user:
 
 For more information, watch this [recorded pairing session](https://youtu.be/-vpH0aSeO9c) (must be viewed as GitLab Unfiltered).
 
+#### Provisioning permissions to external tables to user roles
+
+Provisioning USAGE permissions for external tables to user roles inside snowflake is not handled by permifrost in the moment. If you have to provision access for an external table to a user role, then it must be granted manually via GRANT command in snowflake(docs)[https://docs.snowflake.com/en/sql-reference/sql/grant-privilege] using a `securityadmin` role. This implies that the user role already has access to the schema and the db in which the external table is located, if not add them to the [roles.yml](https://gitxlab.com/gitlab-data/analytics/-/blob/master/permissions/snowflake/roles.yml).
+
 #### Logging in and using the correct role
 
 When you apply for a Snowflake account via an AR and get access provisioned it takes until 3.00AM UTC for the change to take effect. This is because we have a script running daily to provision the access in Snowflake. When you can login, you can do this via Okta. After you logged in via Okta, you need to select the right role that is attached to your account. This is by default the same as your account and it follows the convention of your email adres minus `@gitlab.com`.
@@ -403,7 +414,7 @@ Selecting the right role can be done via the GUI in the up right corner.
 1. Click on the arrow
 2. Select Switch Role
 3. Select your role.
-  
+
 You can set this to your default by running the following:
 
 `ALTER USER <YOUR_USER_NAME> SET DEFAULT_ROLE = '<YOUR_ROLE>'`
@@ -658,7 +669,7 @@ To create the external stage, the new path to the bucket must be included (inclu
 
 1. From the output, copy the value  under `property_value` where property=`STORAGE_ALLOWED_LOCATIONS`. It will look something like: `gcs://postgres_pipeline/,gcs://snowflake_backups,..`.
 1. Update the Storage Integration, instructions:
-    - take the 'current_paths' that you just copied and combine it with the 'new_path' that you want to add.  
+    - take the 'current_paths' that you just copied and combine it with the 'new_path' that you want to add.
         - Each path needs to be separated by a `,`
         - Each path needs to have it's own pair of  `''`, These need to be added manually
     - ALTER statement template:
@@ -671,7 +682,7 @@ To create the external stage, the new path to the bucket must be included (inclu
     - ALTER statement example:
 
         ```sql
-        ALTER STORAGE INTEGRATION GCS_INTEGRATION 
+        ALTER STORAGE INTEGRATION GCS_INTEGRATION
         SET STORAGE_ALLOWED_LOCATIONS= ('gcs://postgres_pipeline/','gcs://snowflake_backups','gcs://snowflake_exports');
         ```
 
@@ -855,10 +866,10 @@ The end user experience is described on the [UX Qualtrics page](/handbook/produc
 Attempting to reprocess a spreadsheet should usually be the first course of action when a spreadsheet has an error and there is no apparent issue with the request file itself.  Reprocessing has been necessary in the past when new GitLab plan names have been added to the `gitlab_api_formatted_contacts` dbt model, as well as when the Airflow task hangs when processing a file.  This process should only be performed with coordination or under request from the owner of the spreadsheet, to ensure that they are not using any partial mailing list created by the process, as well as not making any additional changes to the spreadsheet.
 
 To reprocess a Qualtrics Mailing List request file:
-    1. Disable the Qualtrics Sheetload DAG in Airflow.  
-    2. Delete any mailing lists in Qualtrics that have been created from the erroring spreadsheet.  You should be able to log into Qualtrics using the `Qualtrics - API user` credentials and delete the mailing list.  The mailing list's name corresponds to the name of the spreadsheet file after `qualtrics_mailing_list.`, which should also be the same as the name of the tab in the spreadsheet file.  
-    3. Edit cell A1 of the erroring file to be `id`.  
-    4. Enable the Qualtrics Sheetload DAG in Airflow again and let it run, closely monitoring the Airflow task log.  
+    1. Disable the Qualtrics Sheetload DAG in Airflow.
+    2. Delete any mailing lists in Qualtrics that have been created from the erroring spreadsheet.  You should be able to log into Qualtrics using the `Qualtrics - API user` credentials and delete the mailing list.  The mailing list's name corresponds to the name of the spreadsheet file after `qualtrics_mailing_list.`, which should also be the same as the name of the tab in the spreadsheet file.
+    3. Edit cell A1 of the erroring file to be `id`.
+    4. Enable the Qualtrics Sheetload DAG in Airflow again and let it run, closely monitoring the Airflow task log.
 
 ## <i class="fas fa-toggle-on" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>Data Spigot
 

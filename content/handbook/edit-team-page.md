@@ -71,8 +71,8 @@ Choose the method below that feels most comfortable and have the following infor
     - Consider adding `pronunciation` for your full name to help others to pronounce your name correctly (e.g. sid see-brandy for Sid Sijbrandij)
     - Add your Twitter and GitLab handles without the leading `@`
     - Ensure your list of `departments` is accurate. Use other team members' as a reference.
-    - Add your [`specialty`](/handbook/company/team/structure/#specialist)
-    - Add your [`expertise`](/handbook/company/team/structure/#expert)
+    - Add your [`specialty`](/handbook/company/structure/#specialist)
+    - Add your [`expertise`](/handbook/company/structure/#expert)
     - Add your own `story`. Use other team members' stories as a reference.
     - If remote work has [changed your life](/handbook/company/culture/all-remote/people/) in a meaningful way, consider adding your own `remote_story`, using other team members' remote stories as a [reference](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/uploads/8161ceac4523a9f36244f9533960ccbd/remote-story-example.png)
     - Update any data that was filled in but is incorrect
@@ -84,7 +84,7 @@ Choose the method below that feels most comfortable and have the following infor
     1. Select the image you want to upload and Open.
     1. Now you will navigate back to your team page entry. You can do this by either closing the `sites` folder and opening `data`, then `team members`, `person`, and the folder containing you file; or you can notice your file tab on the top bar, and you can click on it to be taken to that file.
     1. Update your `picture` field to your filename. Delete the content that is this line after the `picture:` that starts with `../gitlab` etc. Make sure to match the letter case of your picture file. The completed line should look like this: `picture: yournameinlowercase.jpg` for example.
-1. Once you have finished this, click the `Source Control` icon, as described in point 5 of [Using the new Web IDE to edit the handbook](/handbook/practical-handbook-edits/#using-the-new-web-ide-to-edit-the-handbook).
+1. Once you have finished this, click the `Source Control` icon, as described in point 5 of [Using the new Web IDE to edit the handbook](/handbook/editing-handbook/practical-handbook-edits/#using-the-new-web-ide-to-edit-the-handbook).
 1. Create a title for your MR, and enter it in the box above the `Commit & Push` button. An example title would be `Updating My Team Page Entry`.
 1. Click the `Commit & Push` button.
 1. Click on `Yes Commit to a new branch`.
@@ -155,7 +155,7 @@ Using what you learned in the [steps above](/handbook/editing-handbook/#add-your
 1. Select the image you want to upload and Open.
 1. Next, navigate to `data/pets.yml` and click on it to open the editor.
 1. Scroll to the end of the file. Add your pet by following the format of the existing pets on the page (you can copy and paste their lines of code, even). Ensure that you include your pet's name, your full name, and the name of the image you uploaded in step 1.
-1. Once you have finished this, click the `Source Control` icon, as described in point 5 of [Using the new Web IDE to edit the handbook](/handbook/practical-handbook-edits/#using-the-new-web-ide-to-edit-the-handbook).
+1. Once you have finished this, click the `Source Control` icon, as described in point 5 of [Using the new Web IDE to edit the handbook](/handbook/editing-handbook/practical-handbook-edits/#using-the-new-web-ide-to-edit-the-handbook).
 1. Create a title for your MR. An example title would be `Adding my dog Gary to the Team Pets Page`.
 1. Click the `Commit & Push` button.
 1. Click on `Yes Commit to a new branch`.

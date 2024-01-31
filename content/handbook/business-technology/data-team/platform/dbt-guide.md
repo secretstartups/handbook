@@ -16,8 +16,8 @@ description: "data build tool (dbt) Guide"
 
 ## Quick Links
 
-[Primary Project](https://gitlab.com/gitlab-data/analytics/){:.btn .btn-purple-inv}
-[dbt docs](https://dbt.gitlabdata.com/){:.btn .btn-purple-inv}
+- [Primary Project](https://gitlab.com/gitlab-data/analytics/)
+- [dbt docs](https://dbt.gitlabdata.com/)
 
 ## What and why
 

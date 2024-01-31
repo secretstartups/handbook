@@ -1,15 +1,7 @@
 ---
-
+controlled_document: true
 title: "Access Requests (AR)"
 ---
-
-
-
-
-
-
-
-# Access Requests (ARs)
 
 Access Requests are owned by the IT team, while onboarding, offboarding and internal transition requests are owned by the People Connect Team.
 

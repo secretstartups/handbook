@@ -1,13 +1,7 @@
 ---
-
+controlled_document: true
 title: "Temporary Service Providers Access Requests, Onboarding and Offboarding"
 ---
-
-
-
-
-
-
 
 ## What are Temporary Service Providers at GitLab?
 

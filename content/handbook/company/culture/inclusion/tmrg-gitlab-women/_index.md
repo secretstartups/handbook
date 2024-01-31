@@ -100,37 +100,6 @@ If you have a resource you'd like to include, please open a merge request and co
 | [People Connect Shadow Program]({{< ref "people-connect-shadow-program" >}})| The program allows for anyone to get an understanding of the People Connect responsibilities and allows for collaboration and iteration. |
 | [Stanford Continuing Studies Department](https://continuingstudies.stanford.edu/) | Standford offers many continuing education programs in multiple diciplines including leadership, writing, and professional/personal development |
 
-### LinkedIn Learning Pathways
-
-Review two learning pathways built by the Professional Member Development subcommittee shared in FY21 Q1 and Q2 as[LinkedIn Learning cohorts]({{< ref "linkedin-learning#linkedin-learning-cohorts" >}}). You can access these courses and complete them on your own time using GitLab Learn.
-
-1. [GitLab Women in Leadership Course](https://gitlab.edcast.com/pathways/women-in-leadership)
-1. [Mastering Self-Motivation and Self-Advocacy Course](https://gitlab.edcast.com/pathways/mastering-self-motivation-and-self-aadvocacy)
-
-**FY22 Q1 LinkedIn Learning Cohort Discussion**
-
-{{< youtube "PX7w1D1-nmQ" >}}
-
-### Suggested LinkedIn Learning Courses
-
-GitLab team members can obtain a [LinkedIn Learning license]({{< ref "linkedin-learning" >}}) that includes access to more than 8,000 courses. The following courses have been selected by members of the women's TMRG as courses that members might benefit from in both their career or personal development.
-
-If you've completed a LinkedIn Learning course that you found beneficial, please add it to this resource!
-
-1. [Women in Leadership Learning Path](https://www.linkedin.com/learning/paths/women-in-leadership-3?u=2255073)
-1. [Leadership Strategies for Women](https://www.linkedin.com/learning/leadership-strategies-for-women/women-lead-differently?u=2255073)
-1. [Become a Courageous Female Leader](https://www.linkedin.com/learning/become-a-courageous-female-leader/joan-kuhl-s-courageous-leadership-course?u=2255073)
-1. [Problem Solving Skills](https://www.linkedin.com/learning/paths/develop-critical-thinking-decision-making-and-problem-solving-skills?u=2255073)
-1. [Engage Meaningfully in Allyship and Anti-Racism](https://www.linkedin.com/learning/paths/how-to-engage-meaningfully-in-allyship-and-anti-racism?u=2255073)
-1. [Communication Tips](https://www.linkedin.com/learning/communication-tips/welcome-to-the-series?u=2255073)
-1. [Customer Service Foundation](https://www.linkedin.com/learning/customer-service-foundations-2)
-1. [Develop Your Customer Services Skills Path](https://www.linkedin.com/learning/paths/develop-your-customer-service-skills)
-1. [Life Mastery - Achieving happiness and success](https://www.linkedin.com/learning/life-mastery-achieving-happiness-and-success/welcome?u=2255073)
-1. [Mindful Working](https://www.linkedin.com/learning/mindful-working-11-ways-to-improve-how-you-work/introduction?u=2255073)
-1. [Creativity for All](https://www.linkedin.com/learning/creativity-for-all-weekly/what-is-creative-cross-training?u=2255073)
-1. [Leading Yourself](https://www.linkedin.com/learning/leading-yourself-2017/welcome?u=2255073)
-1. [Mastering Self-Motivation](https://www.linkedin.com/learning/mastering-self-motivation/self-motivation-your-driving-force?u=2255073)
-1. [Being Your Own Fierce Self-Advocate](https://www.linkedin.com/learning/being-your-own-fierce-self-advocate/standing-up-for-yourself-every-day?u=2255073)
 
 ### Book Suggestions
 

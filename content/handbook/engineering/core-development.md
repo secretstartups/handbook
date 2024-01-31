@@ -40,25 +40,59 @@ This coordination and prioritization requires a lot of work and effort to provid
 
 We will follow our parent department [Engineering](/handbook/engineering/#diversity) lead.
 
-## Organizational responsibilities
+## Organizational Structure
 
-The core development team is responsible for developing products in the following categories:
+```plantuml
+@startwbs
+* Core Development
+** Create
+*** Code Creation
+*** Code Review
+*** IDE
+*** Editor Extensions
+*** Source Code
+** Manage & AI Framework
+*** AI Framework
+*** Foundations
+*** Import
+** Ops
+*** Deploy
+*** Observability
+*** Package
+*** Verify:Runner
+*** Verify:Pipelines
+**** Pipeline Authoring
+**** Pipeline Execution
+**** Pipeline Security
+** Plan
+*** Optimize
+*** Product Planning
+*** Project Management
+*** Knowledge
+** Analyze
+*** Product Analytics
+*** Analytics Instrumentation
+@endwbs
+```
+
+## Organizational Responsibilities
+
+The core development team is comprised of:
 
 - [Dev](/handbook/engineering/development/dev/)
 - [Ops](/handbook/engineering/development/ops/)
-- [Enablement](/handbook/engineering/infrastructure/core-platform/)
 
 ## Team Members
 
 The following people are permanent members of the Development Department:
 
-{{< team-by-departments departments="Verify,Package,Release,Dev,Enablement,Ops,Fellow" manager="VP of Development" >}}
+{{< team-by-departments departments="Verify,Package,Release,Dev,Enablement,Ops,Fellow" manager="Senior Director, Core Development" >}}
 
-## Stable Counterparts
+<!-- ## Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-<!-- <%= stable_counterparts(role_regexp: /[,&] Development/, direct_manager_role: 'VP of Development') %> -->
+<%= stable_counterparts(role_regexp: /[,&] Development/, direct_manager_role: 'VP of Development') %> -->
 
 ## Team Composition
 
@@ -195,7 +229,7 @@ At GitLab we value [freedom and responsibility over rigidity](/handbook/values/#
 
 Development's headcount planning follows the Engineering [headcount planning](/handbook/engineering/#headcount-planning) and [long term profitability targets](/handbook/engineering/#long-term-profitability-targets). Development headcount is a percentage of overall engineering headcount. For FY20, the headcount size is 271 or ~58% of overall engineering headcount.
 
-We follow normal span of control both for our managers and directors of [4 to 10](/handbook/company/team/structure/#management-group). Our sub-departments and teams match as closely as we can to the [Product Hierarchy](/handbook/product/categories/#hierarchy) to best map 1:1 to [Product Managers](/handbook/product/).
+We follow normal span of control both for our managers and directors of [4 to 10](/handbook/company/structure/#management-group). Our sub-departments and teams match as closely as we can to the [Product Hierarchy](/handbook/product/categories/#hierarchy) to best map 1:1 to [Product Managers](/handbook/product/).
 
 ### Development Staff Meeting
 
@@ -220,7 +254,7 @@ The following is a non exhaustive list of daily duties for engineering directors
 1. Review hiring dashboards
 1. Personal todo list
 1. Personal GitLab board(s) if any
-1. [Working groups](/handbook/company/team/structure/working-groups/) that the director drives or participates in
+1. [Working groups](/handbook/company/working-groups/) that the director drives or participates in
     1. Action items in agenda documents
     1. Issue boards
     1. Slack channel
@@ -465,7 +499,7 @@ Some areas have already been identified that meet the definition above, and may 
 | [Specific fulfillment product areas](/handbook/engineering/development/fulfillment/#revenue-impacting-changes) | potentially impact revenue |                                                                                                                       |
 | Runtime language updates | impacts to multiple services | [Ruby Upgrade Guidelines](https://docs.gitlab.com/ee/development/ruby_upgrade.html#ruby-upgrade-guidelines)           |
 | Application framework updates | impacts to multiple services | [Rails Upgrade Guidelines](https://docs.gitlab.com/ee/development/rails_update.html)                                  |
-| Navigation | impact to entire application | [Proposing a change that impacts navigation](/handbook/product/ux/navigation                  |
+| Navigation | impact to entire application | [Proposing a change that impacts navigation](/handbook/product/ux/navigation)                  |
 
 ## AI-powered stakeholders
 

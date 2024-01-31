@@ -480,7 +480,7 @@ All links should be added by 2022-01-21 aligned with our [timeline]({{< ref "eng
 **Resource Allocation**
 
 1. Increased headcount from 1267 team members in December 2020 to 1574 team members in December 2021.
-1. Our average [promotion rate]({{< ref "people-group-metrics#promotion-rate" >}}) in 2021 is 16.77%, which is higher than the average market promotion rate
+1. Our average promotion rate in 2021 is 16.77%, which is higher than the average market promotion rate
 
 #### Questions and Support
 

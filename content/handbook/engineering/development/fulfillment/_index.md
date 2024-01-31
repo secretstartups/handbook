@@ -714,7 +714,7 @@ This table lists recurring activities that are part of our Project Management Pr
 
 ## Working Groups and Cross-Functional Initiatives
 
-This table lists recurring activities that are part of [working groups and cross-functional initiatives](/handbook/company/team/structure/working-groups/). Use [this spreadsheet](https://docs.google.com/spreadsheets/d/16mPUmFe7g8VWC-b137mWiCcy6s3e_JbD6i4nE1igSOM/edit#gid=463091797) to edit this markdown table.
+This table lists recurring activities that are part of [working groups and cross-functional initiatives](/handbook/company/working-groups/). Use [this spreadsheet](https://docs.google.com/spreadsheets/d/16mPUmFe7g8VWC-b137mWiCcy6s3e_JbD6i4nE1igSOM/edit#gid=463091797) to edit this markdown table.
 
 | Activity                                                                                                                           | Cadence       | Type | Teams Involved                                                              |
 |------------------------------------------------------------------------------------------------------------------------------------|---------------|------|-----------------------------------------------------------------------------|

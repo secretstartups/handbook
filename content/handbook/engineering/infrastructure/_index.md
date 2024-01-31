@@ -10,7 +10,7 @@ The Infrastructure Department enables GitLab (the company) to deliver a single D
 The Infrastructure Department does this by focusing on **availability**, **reliability**, **performance**, and **scalability** efforts.
 These responsibilities have cost efficiency as an additional driving force, reinforced by the properly prioritized [**dogfooding**](#dogfooding) efforts.
 
-Many other teams also contribute to the success of the SaaS platform because [GitLab.com is not a role](/handbook/company/team/structure/#gitlabcom-isnt-a-role).
+Many other teams also contribute to the success of the SaaS platform because [GitLab.com is not a role](/handbook/company/structure/#gitlabcom-isnt-a-role).
 However, it is the responsibility of the Infrastructure Department to drive the ongoing evolution of the SaaS platform, enabled by platform observability data.
 
 ## Getting Assistance

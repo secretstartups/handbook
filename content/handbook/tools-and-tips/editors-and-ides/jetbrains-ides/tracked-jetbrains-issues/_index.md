@@ -102,6 +102,17 @@ Keep these sections sorted alphabetically. They are headers so that they can be 
     *"...it looks like RubyMine is unable to understand the relationship here due to the alternative definition approach with `prepended` from `ee/app/models/ee/clusters/agent.rb`. `Prependable` seems to be a custom approach to prepending code in GitLab,
     and we don't have any recognition of it. Unfortunately I don't have any workarounds for this right now, but we can leave the ticket open in case we think of something."*
 
+### RUBY-32336
+
+- Title: Add support for declarative_policy
+- Link: https://youtrack.jetbrains.com/issue/RUBY-32336
+- Notes:
+  - Extensive metaprogramming in the declarative_policy gem causes 'Unresolved reference' errors
+  - See also https://youtrack.jetbrains.com/issue/RUBY-25400/Programmatically-defined-constants-always-produce-Unresolved-reference-error#focus=Comments-27-8805699.0-0 :
+    - "I'm afraid there is no existing issue. I think this is something that we can't really address without implementing custom support for this library, just due to how
+      it has written its own DSL. We'll create an issue requesting support for this library (so that you can mention it in your comments), but there isn't any timeframe
+      on implementing it right now sorry."
+
 ## Closed Issues
 
 ### RUBY-31540

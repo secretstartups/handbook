@@ -131,87 +131,15 @@ As priorities change, engineering managers update the template to include areas 
 
 An example template highlighting priorities, opportunities, risks, and security and availability concerns is:
 
-<details markdown=1>
-<summary>Weeky update template</summary>
-```
-<!--
-How to fill in this section.
+Weekly update template can be found [here](https://gitlab.com/gitlab-com/govern-compartment/-/blob/main/.gitlab/issue_templates/govern_stage_weekly_update.md).
 
-- Be opinionated. There are no wrong answers, we want our counterparts to know what we are working towards, and let us know if that doesn't align with their goals.
-- Summarize - just enough information to provide an overview and to start a discussion
+## Quarterly review updates
 
-Priorities: A subset of the highest priority projects the group is working on - these could include Shared OKRs, Product priorities for Development, other initiatives (Development led, Development OKRs). List with links to epic/issue/work item. Should only include work that is currently scheduled (not a roadmap).
+Every quarter, an engineering manager for each group in the Govern and Growth Compartment prepares the quarterly review update using the issue template and records approximately 5 minutes to summarize the last quarter from the engineering perspective and present a high-level plan for the group for the next one to respond to quarterly Product strategy and explain our goals for next quarter.
 
-Risks: (One line) summary and link to discussion (epic/issue).
+We aim to foster collaboration and communication between engineering managers in the Govern and Growth Compartment, align groups on product priorities for the next quarter, and celebrate our successes together.
 
-Opportunities: What we could do differently to mitigate risks and ensure delivery of priority projects.
-
-Work in progress: (One line) summary and link to planning issue, workflow board, epic/issue list.
--->
-## How to use this issue
-
-Engineering Managers to provide status updates, to be shared with product counterparts and both product and engineering leadership for discussion.
-
-<!--<details>-->
-<summary>Copy this section into a new thread for your group</summary>
-
-## Department: Group
-
-### Priorities
-
-<!-- Include to any relevant OKRs, or key roadmap deliverables -->
-
-1. ...
-
-
-### Risks
-
-1. ...
-
-### Opportunities
-
-1. ...
-
-### Work in progress
-
-1. ...
-
-### Error Budget,  Security & Reliability
-
-1. Error Budget
-   - ...
-
-1. Security Issues
-   - ...
-
-1. Reliability Issues
-   - ...
-<!--</details>-->
-
-### Updated (by EOD Monday)
-
-- [ ] Govern: Anti-abuse
-- [ ] Govern: Authentication and Authorization
-- [ ] Govern: Compliance
-- [ ] Govern: Security Policies
-- [ ] Govern: Threat Insights
-- [ ] SSCS Working Group
-- [ ] Quality Engineering
-
-#### After last update
-
-- [ ] Add comment `cc at-mention team members here`
-
-<!-- App appropriate assignees, epic, and labels
-/label  ~"workflow::in dev"
-/assign `@pcalder`
-/epic `epic-link`
--->
-
-
-```
-</details>
-
+Quarterly review update template can be found [here](https://gitlab.com/gitlab-com/govern-compartment/-/blob/main/.gitlab/issue_templates/govern_stage_quarterly_review.md)).
 
 ## Govern staff meeting
 
@@ -227,7 +155,7 @@ Meetings have an agenda and are async-first, where the aim is to resolve discuss
 * Group [#g_govern_security_policies](https://gitlab.slack.com/archives/CU9V380HW)
 * Group [#g_govern_threat_insights](https://gitlab.slack.com/archives/CV09DAXEW)
 * Group [#g_govern_compliance](https://gitlab.slack.com/messages/CN7C8029H)
-* [Software Supply Chain Security working group](/handbook/company/team/structure/working-groups/software-supply-chain-security/)
+* [Software Supply Chain Security working group](/handbook/company/working-groups/software-supply-chain-security/)
 
 ### Technical Documentation Links
 

@@ -11,7 +11,7 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 
 ## Objectives
 
-Kanban boards show you the progress of all tickets in your project, as they move from the Backlog, to being worked on, to being checked by QA, to being closed. A real-world Kanban board might involve many more statuses than these 4, but these are adequate for a bare-bones Kanban demonstration. To learn more about Kanban boards, click (here)[https://en.wikipedia.org/wiki/Kanban_board].
+Kanban boards show you the progress of all tickets in your project, as they move from the Backlog, to being worked on, to being checked by QA, to being closed. A real-world Kanban board might involve many more statuses than these 4, but these are adequate for a bare-bones Kanban demonstration. To learn more about Kanban boards, click [here](https://en.wikipedia.org/wiki/Kanban_board).
 
 ## Task A. Create a new subgroup to work in
 

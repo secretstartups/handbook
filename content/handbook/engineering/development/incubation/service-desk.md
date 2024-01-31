@@ -5,7 +5,7 @@ title: Service Desk Single-Engineer Group
 
 ## Service Desk Single-Engineer Group
 
-The Service Desk SEG is a [Single-Engineer Group](/handbook/company/team/structure/#single-engineer-groups) within our [Incubation Engineering Department](/handbook/engineering/development/incubation/).
+The Service Desk SEG is a [Single-Engineer Group](/handbook/company/structure/#single-engineer-groups) within our [Incubation Engineering Department](/handbook/engineering/development/incubation/).
 
 ### Vision
 

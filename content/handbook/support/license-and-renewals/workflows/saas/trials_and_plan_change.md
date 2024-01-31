@@ -36,11 +36,7 @@ Once the form has been submitted, the L&R Support Engineer should follow the wor
 
 #### Namespaces with a prior Ultimate trial
 
-GitLab.com Premium to Ultimate subscription trials are handled similarly to regular trials regarding namespace eligibility. If a namespace previously underwent a trial (e.g. prior to being upgraded to a Premium subscription), attempting to initiate an Ultimate trial will result in the error `Validation failed: Gl namespace can have only one trial`.
-
-In order to bypass this validation:
-1. **Interim curent state:** Support team should submit a [Request for Help (RFH)](https://gitlab.com/gitlab-com/fulfilment-sub-department/section-fulfilment-request-for-help) to Fulfillment to clear the trial history for the namespace. Once cleared, the trial can be applied.
-1. **Coming soon:** The Fulfillment team is working to [update this validation](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/7382) to skip the existing trial history check for this specific trial type and allow for more than one trial per namespace.
+These namespaces are allowed to start an Ultimate trial over Premium subscription, circumventing the normal guardrails preventing a group from taking out more than one trial.
 
 #### Workflow caveats
 
@@ -61,7 +57,7 @@ If any fields when opening the ticket were filled out incorrectly,  send a publi
    1. The `Namespace:` field contains a valid GitLab namespace and it that holds the active trial. This should not be a Salesforce link or email address.
    1. The `Extend the date to:` field contains a future date. (Trial expires around 23:59 UTC on this date)
    1. The `Trial license plan:` field is filled out
-1. Use the [Update GitLab Subscription form]({{ ref "mechanizer#update-gitlab-subscription" >}}) to process the request.
+1. Use the [Manage GitLab Plan and Trials]({{< ref "mechanizer#manage-gitlab-plan-and-trials" >}}) to process the request.
    1. This should create a new internal request issue documenting the change action. Reference this new issue to the ZD Ticket where the extension was requested.
    1. If there is an error while taking action, check the internal issue to see what went wrong. Please also locate the [error in sentry](https://sentry.gitlab.net/gitlab/customersgitlabcom/) (see [Searching Sentry](/handbook/support/workflows/500_errors.html#searching-sentry) if needed) and file an issue, or comment on an existing one.
 1. If namespace needs to be adjusted manually, then raise a new internal issue with details and  `~Console Escalation::Customers` label.

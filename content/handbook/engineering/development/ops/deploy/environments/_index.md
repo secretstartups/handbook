@@ -63,7 +63,9 @@ Some dedicated Slack channels:
 - UX/PD: User Experience Designer
 - TW: Technical Writer
 
-### Team Meetings
+### Meetings
+
+#### Environments Team Meeting
 
 We have one team meeting each week. The time alternates every week to accommodate APAC/EMEA and EMEA/AMER. The purpose of this meeting is to share information about the ongoing projects. It also contains general announcements that are important for collaboration.
 
@@ -81,19 +83,22 @@ Meeting format:
 
 If the meeting for the week has already taken place and you would like to add a new item for discussion, create a new section for the next meeting date above the last one and add your item.
 
-### Team issue tracker
+#### Frontend, Go and Ruby Meetings
 
-- We use [team issues tracker](https://gitlab.com/gitlab-org/ci-cd/deploy-stage/environments-group/general/-/issues) for internal discussions such as: milestone planning issues, events planning, etc...
-- We also use a [special project](https://gitlab.com/gitlab-org/ci-cd/deploy-stage/environments-group/info/-/issues) for [Ops Section Async Updates](engineering/development/ops/#async-updates-no-status-in-meetings).
-- These issues are [public by default](/handbook/values/#public-by-default), but can be confidential.
+These are optional meetings on the team calendar. Everyone on the team is welcome. They are prioritized
+to be at a time where as many of the engineers who work primarily on the corresponding topics can attend.
 
-### Issue refinement
+These meetings are not too formal and also provide time for the engineers across
+time zones to discuss ongoing projects, ask questions, pair up, and catch up. We go through any
+agenda items first.
 
-Every week the [refinement bot](https://gitlab.com/gitlab-org/ci-cd/deploy-stage/environments-group/refinement) assigns a team member as the refinement DRI, who is responsible for refining **some issues from the top of the `~"workflow::refinement"` list** (the list is prioritised top to bottom) in the [Milestone Board](#milestone-board) **and another issue of their choice** with a ping to the EM and/or PM explaining the reasoning.
+Meeting Links:
 
-The refinement process is described in the [issue template](https://gitlab.com/gitlab-org/ci-cd/deploy-stage/environments-group/refinement/-/blob/main/templates/default.erb).
+- Frontend: [Frontend ChitChat](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MDE2OWkwamdtOG45aDFjdWFlNHY0aWVhYTFfMjAyNDAxMjNUMTUzMDAwWiBnaXRsYWIuY29tX2tuYWlmZjdiY3BnM3FrcXJ1YmRrZjRpdjEwQGc&tmsrc=gitlab.com_knaiff7bcpg3qkqrubdkf4iv10%40group.calendar.google.com&scp=ALL)
+- Go: [It's time to Go !!!](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=ZGJvaDFvZDBmM3FrcnIyaWJ2NXAyNmw3NG1fMjAyNDAxMjRUMTAwMDAwWiBnaXRsYWIuY29tX2tuYWlmZjdiY3BnM3FrcXJ1YmRrZjRpdjEwQGc&tmsrc=gitlab.com_knaiff7bcpg3qkqrubdkf4iv10%40group.calendar.google.com&scp=ALL)
+- Ruby: [Ruby Chat](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MnRxYWtwM2xkNWdxdDMwbjhuaHNydDQ0cnRfMjAyNDAxMjNUMjMwMDAwWiBnaXRsYWIuY29tX2tuYWlmZjdiY3BnM3FrcXJ1YmRrZjRpdjEwQGc&tmsrc=gitlab.com_knaiff7bcpg3qkqrubdkf4iv10%40group.calendar.google.com&scp=ALL)
 
-### Technical Discovery meetings
+#### Technical Discovery Meetings
 
 Sometimes we will encounter issues that need the input of the whole team to be refined and then worked on, such issues will be selected as a topic for a Technical Discovery meeting.
 We try to be conscious of sync time and so we expect a maximum of two of these meetings for each milestone.
@@ -114,7 +119,7 @@ A technical discovery meeting consists of:
 
 The goal of technical discovery meetings is to come up with a concrete technical proposal for the question at hand. We should not force a proposal, but aim to get there and write the conclusion accordingly with potential follow-ups.
 
-### Design pairing
+#### Design Pair Meeting
 
 Each week the Product Designer hosts a design pairing session with the team on Thursdays at 1:30pm UTC. The goal of the design pairing sessions is to give the team more insight into what Product Design is currently working on, share feedback and questions, as well as give us a space to brainstorm and work together through bigger problems. Anyone is encouraged to propose topics or existing user problems that could use some brainstorming together as a team. A design pairing session consists of:
 
@@ -124,6 +129,18 @@ Each week the Product Designer hosts a design pairing session with the team on T
 - A recording which will be posted to the team's [Youtube playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq-lA3_JctMdX0y4um3BGmV).
 
 If there are no topics, the meeting can be cancelled for the week.
+
+### Team issue tracker
+
+- We use [team issues tracker](https://gitlab.com/gitlab-org/ci-cd/deploy-stage/environments-group/general/-/issues) for internal discussions such as: milestone planning issues, events planning, etc...
+- We also use a [special project](https://gitlab.com/gitlab-org/ci-cd/deploy-stage/environments-group/info/-/issues) for [Ops Section Async Updates](engineering/development/ops/#async-updates-no-status-in-meetings).
+- These issues are [public by default](/handbook/values/#public-by-default), but can be confidential.
+
+### Issue refinement
+
+Every week the [refinement bot](https://gitlab.com/gitlab-org/ci-cd/deploy-stage/environments-group/refinement) assigns a team member as the refinement DRI, who is responsible for refining **some issues from the top of the `~"workflow::refinement"` list** (the list is prioritised top to bottom) in the [Milestone Board](#milestone-board) **and another issue of their choice** with a ping to the EM and/or PM explaining the reasoning.
+
+The refinement process is described in the [issue template](https://gitlab.com/gitlab-org/ci-cd/deploy-stage/environments-group/refinement/-/blob/main/templates/default.erb).
 
 ### Planning
 
@@ -354,36 +371,28 @@ We follow the Engineering Department [Career Development Framework](/handbook/en
 
 ## Maximize asynchronous performance in this team
 
-We're a highly distributed team.
-It's simply hard to find a synchronous call slot that works for everyone,
-therefore it's important that our main communication is asynchronous basis and it's well-optimized for our team dynamics.
+Async practices are particularly important to us because we live in time zones that do not afford much, if any, overlap during our working hours.
 
-For example, when you [refine an issue](#issue-refinement),
-you would like to collect input from various team members, domain experts and stable counterparts.
-Typically, posting a comment with pinging them is enough, however, if the topic is complicated, ambiguous or too broad,
-you wouldn't get useful and relevant feedback. This frustrates both you and participants, which should be avoided.
-
-To maximize our asynchronous performance, we should follow [GitLab Communication](/handbook/communication/) guideline,
+To maximize our asynchronous performance, we should follow [the GitLab Communication guideline](/handbook/communication/).
 More specifically, the following points are important:
 
 - Have an SSOT discussion page (Issue or MR). This is the main collaboration point that everyone can get the latest information quickly.
   The description section should contain essential and up-to-date information, such as:
   - What's the problem to solve?
-  - Who's DRI in charge of making the decision?
-  - What's the [acceptance criteria](https://www.productplan.com/glossary/acceptance-criteria/) (e.g. user experience goal) ?
-  - What's out of scope? (if any)
+  - Who's the DRI in charge of making the decision?
+  - What's the [acceptance criteria](https://www.productplan.com/glossary/acceptance-criteria/) (e.g. user experience goal)?
+  - Is anything out of scope?
   - What proposals do we have?
   - What are the PROs/CONs and technical difficulty of each proposal?
   - Whose approval do you need for making the decision?
-  - When is the deadline to make the decision?
+  - When is the due date to make the decision?
   - FAQ
-- When DRI got additional input in the discussion page (e.g. Discussion threads), DRI should reflect it to the SSOT description.
-  - In a discussion thread, focus on the proposed topic. Try to avoid mixing multiple topics or switching to another topic.
-- When DRI got additional input outside of the discussion page (e.g. Zoom, Google Doc or Slack), DRI should reflect it to the SSOT description.
-- When Reviewer is asked to give input, Reviewer should respond as soon as possible for unblocking discussions.
-  It's also fine to respond that you don't have any feedback or can't take time for it, so that DRI can avoid waiting for your response.
-- If DRI didn't get much progress from the asynchronous communication, DRI should schedule a synchronous meeting or reach out broader audiences.
-- When DRI schedules a sync meeting, DRI should make sure that agendas are prepared before the meeting starts.
+- The DRI keeps the description updated with latest information based on any
+  decisions made in threads.
+- When a team member is asked to give input, they should respond as soon as possible to unblock discussions.
+  It's also fine to respond that you don't have any feedback or can't take time for it, so that the DRI can avoid waiting for your response.
+- If the DRI didn't get much progress from the asynchronous communication, the DRI should schedule a synchronous meeting or reach out to broader audiences.
+- When the DRI schedules a sync meeting, they should make sure that agendas are prepared before the meeting starts.
 
 ### Monthly Showcases DRI
 

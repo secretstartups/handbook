@@ -99,10 +99,9 @@ Engineering Managers have the following job-family performance indicators. Perfo
 - [Open MR Review Time (OMRT)](/handbook/engineering/development/performance-indicators/#open-mr-review-time-omrt)
 - [Open MR Age (OMA)](/handbook/engineering/development/performance-indicators/#open-mr-age-oma)
 - [Response to Community SLO](/handbook/engineering/development/performance-indicators/#response-to-community-slo)
-- [Hiring Actual vs. Plan](/handbook/engineering/performance-indicators/#engineering-hiring-actual-vs-plan)
 - [Development Department merge request rate](/handbook/engineering/development/performance-indicators/#development-department-mr-rate)
 - [Diversity](/handbook/engineering/performance-indicators/#diversity)
-- [Handbook Update Frequency](/handbook/engineering/performance-indicators/#handbook-update-frequency)
+- [Handbook MR Rate](/handbook/engineering/performance-indicators/#engineering-handbook-mr-rate)
 - [Team Member Retention](/handbook/engineering/performance-indicators/#team-member-retention)
 
 ## Job Grades
@@ -113,7 +112,7 @@ Read more about GitLab [Job Grades](/handbook/total-rewards/compensation/compens
 
 ### Intern, Backend Engineer
 
-Intern, Backend Engineers, while sharing the same requirements and responsibilities outlined above, typically join with less or alternate experience than typical Backend Engineers. More information on intern hiring and the intern program can be found [here](/handbook/engineering/career-development/#internships-in-engineering).
+Intern, Backend Engineers, while sharing the same requirements and responsibilities outlined above, typically join with less or alternate experience than typical Backend Engineers. More information on intern hiring and the intern program can be found [here](handbook/engineering/internships/).
 
 #### Job Grade
 
@@ -147,7 +146,7 @@ The Senior Backend Engineer is a [grade 7](/handbook/total-rewards/compensation/
 
 ----
 
-A Senior Backend Engineer may want to pursue the [engineering management track](/job-families/engineering/engineering-management/) at this point as a manager of people or a higher level individual contributor. See [Engineering Career Development](/handbook/engineering/career-development/) for more detail.
+A Senior Backend Engineer may want to pursue the [engineering management track](/job-families/engineering/engineering-management/) at this point as a manager of people or a higher level individual contributor. See [Engineering Career Development](/handbook/engineering/careers/) for more detail.
 
 **Note:** Staff and above positions at GitLab are more of a role than just a "level". We prefer to bring people in as Senior and let the team elevate them to Staff due to an outstanding work history within GitLab.
 
@@ -189,7 +188,7 @@ Candidates for this position can generally expect the hiring process to follow t
 For Individual Contributors:
 
 - As part of the application, candidates are asked to complete a short technical questionnaire, with a possibility of additional technical questions being asked if needed after the application is submitted.
-- Next, candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Technical Recruiters
+- Next, candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/talent-acquisition-framework/req-overview/#screening) with one of our Technical Recruiters
 - Next, candidates will be invited to schedule a 90 minute technical interview with one of our Backend Engineers
 - Next, candidates will be invited to schedule a 60 minute interview with one of our Backend Engineering Managers
 - Next, candidates will be invited to schedule a 60 minute interview with our Director of Engineering
@@ -198,7 +197,7 @@ Additional details about our process can be found on our [hiring page](/handbook
 
 For Managers:
 
-- Selected candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Technical Recruiters
+- Selected candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/talent-acquisition-framework/req-overview/#screening) with one of our Technical Recruiters
 - Next, candidates will be invited to schedule a 60 minute first interview with a Director of Engineering
 - Next, candidates will be invited to schedule a 45 minute second peer interview with an Engineering Manager
 - Next, candidates will be invited to schedule a 45 minute third interview with another member of the Engineering team

@@ -38,7 +38,7 @@ We rely on a combination of [self triage](https://gitlab.com/gitlab-org/quality/
   - If ~"severity::1" or ~"severity::2": mention the PM/EM from the [group](#group-labels)
 - Assign a [group label](#group-labels).
   - If there is no suitable group label: assign a [stage ("devops") label](https://docs.gitlab.com/ee/development/labels/index.html#stage-labels).
-- Optionally tag relevant [domain experts](/handbook/company/team/structure/#expert).
+- Optionally tag relevant [domain experts](/handbook/company/structure/#expert).
 
 ## Complete Triage
 
@@ -87,13 +87,13 @@ Once you've determined a severity for an issue add a note that explains in summa
 
 | Type of `~"type::bug"` | `~"severity::1"`: Blocker | `~"severity::2"`: Critical | `~"severity::3"`: Major  | `~"severity::4"`: Low | Triage DRI |
 |----------------|--------------------------|---------------------------|-------------------------|----------------------|------------|
-| General bugs   | Broken feature with no workaround or any data-loss. | Broken feature with an unacceptably complex workaround. | Broken feature with a workaround. | Functionality is inconvenient. | [SET](/handbook/engineering/quality/#individual-contributors) or [QEM](/handbook/engineering/quality/#management-team) for that product group. |
+| General bugs   | Broken feature with no workaround or any data-loss. | Broken feature with an unacceptably complex workaround. | Broken feature with a workaround. | Functionality is inconvenient. | [SET](/handbook/engineering/quality/#individual-contributors), [QEM](/handbook/engineering/quality/#management-team), or [EM](/handbook/engineering/management/) for that product group. |
 | `~"bug::performance"` Response time <br> (API/Web/Git)[^1] | Above 9000ms to timing out | Between 2000ms and 9000ms | Between 1000ms and 2000ms | Between 200ms and 1000ms | [Enablement Quality Engineering team](/handbook/engineering/infrastructure/test-platform/self-managed-platform-team/) |
 | `~"bug::performance"` Browser Rendering <br> ([LCP](https://web.dev/lcp/))[^2] | Above 9000ms to timing out | Between 4000ms and 9000ms | Between 3000ms and 4000ms | Between 3000ms and 2500ms | [Enablement Quality Engineering team](/handbook/engineering/infrastructure/test-platform/self-managed-platform-team/) |
 | `~"bug::performance"` Browser Rendering <br> ([TBT](https://web.dev/tbt/))[^2] | Above 9000ms to timing out | Between 2000ms and 9000ms | Between 1000ms and 2000ms | Between 300ms and 1000ms | [Enablement Quality Engineering team](/handbook/engineering/infrastructure/test-platform/self-managed-platform-team/) |
 | `~UX` User experience problem [&sup3;](#ux) | "I can't figure this out." Users are blocked and/or likely to make risky errors due to poor usability, and are likely to ask for support. | "I can figure out why this is happening, but it's really painful to solve." Users are significantly delayed by the available workaround. | "This still works, but I have to make small changes to my process." Users are self sufficient in completing the task with the workaround, but may be somewhat delayed. |  "There is a small inconvenience or inconsistency." Usability isn't ideal or there is a small cosmetic issue. | [Product Designers](/handbook/product/ux/product-design/) of that Product group |
 | `~"bug::availability"` of GitLab SaaS | See [Availability section](#availability) | See [Availability section](#availability) | See [Availability section](#availability) | See [Availability section](#availability) | |
-| `~"bug::vulnerability"` Security Vulnerability | See [Security Prioritization](/handbook/security/#severity-and-priority-labels-on-security-issues) | See [Security Prioritization](/handbook/security/#severity-and-priority-labels-on-security-issues) | See [Security Prioritization](/handbook/security/#severity-and-priority-labels-on-security-issues) | See [Security Prioritization](/handbook/security/#severity-and-priority-labels-on-security-issues) | AppSec team |
+| `~"bug::vulnerability"` Security Vulnerability | See [Vulnerability Remediation SLAs](https://handbook.gitlab.com/handbook/security/threat-management/vulnerability-management/#remediation-slas) | See [Vulnerability Remediation SLAs](https://handbook.gitlab.com/handbook/security/threat-management/vulnerability-management/#remediation-slas) | See [Vulnerability Remediation SLAs](https://handbook.gitlab.com/handbook/security/threat-management/vulnerability-management/#remediation-slas) | See [Vulnerability Remediation SLAs](https://handbook.gitlab.com/handbook/security/threat-management/vulnerability-management/#remediation-slas) | AppSec team |
 | Global Search | See [Search Prioritization](/handbook/engineering/infrastructure/core-platform/data_stores/search/#severity-labels-for-search-issues-advanced-search-global-search) | See [Search Prioritization](/handbook/engineering/infrastructure/core-platform/data_stores/search/#severity-labels-for-search-issues-advanced-search-global-search) | See [Search Prioritization](/handbook/engineering/infrastructure/core-platform/data_stores/search/#severity-labels-for-search-issues-advanced-search-global-search) | See [Search Prioritization](/handbook/engineering/infrastructure/core-platform/data_stores/search/#severity-labels-for-search-issues-advanced-search-global-search) | |
 | `~test` Bugs blocking end-to-end test execution | See [Blocked tests section](#blocked-tests) | See [Blocked tests section](#blocked-tests) | See [Blocked tests section](#blocked-tests) | See [Blocked tests section](#blocked-tests) | [Test Platform Sub-Department](/handbook/engineering/infrastructure/test-platform/) |
 | `~GitLab.com Resource Saturation` Capacity planning warnings | Mean forecast shows Hard SLO breach within 3 months. | | | | Scalability Engineering Manager (who will hand over to EM that owns the resource) |
@@ -175,7 +175,7 @@ The merge request (MR) experience is the core of our product. Due to many teams 
 
 The overlapping is largely seen in the following areas: Merge Request Widgets, Mergeability Checks, MWPS and Merge Trains.
 
-As part of the analysis in the [Transient Bug working group](/handbook/company/team/structure/working-groups/transient-bugs/), we have discovered that the top most affected product areas are:
+As part of the analysis in the [Transient Bug working group](/handbook/company/working-groups/transient-bugs/), we have discovered that the top most affected product areas are:
 
 1. `create::code review`
 1. `verify::continuous integration`

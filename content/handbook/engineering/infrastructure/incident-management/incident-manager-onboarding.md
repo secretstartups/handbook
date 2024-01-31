@@ -5,16 +5,24 @@ title: "Incident Manager On Call onboarding"
 
 
 
-
-
-
-
-
 ## Introduction
 This page is meant to be the starting point for onboarding as an Incident Managers.
 
 As a means to ensure a healthy [Incident Manager](/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) rotation with sufficient staffing and no significant burden on any single individual we staff this role with Team Members from across Engineering.
 
+An Incident Manager On Call (IMOC) has the following goals during a call:
+  - Identify/quantify impact to GitLab customers (metrics, customer support requests)
+  - Gather necessary folks to support area(s) of investigation/resolution
+  - Suggest *politely* that people not contributing leave the call, request that folks do so when the number of people in the call is a distraction (30 people as an somewhat arbitrary guideline).
+  - Validate recent releases and feature flags (can we roll back or change the flag?)
+  - Restate status for folks joining with a low level of shame (your possible misunderstanding is a chance for group clarity and learning)
+  - Drive to identify the fastest path to mitigation and interrupt as necessary
+  - Check in on the above on a regular candence (S1 every 5 to 10 minutes)
+  - Communicate status to the right audience
+
+Some of this may feel counter to GitLab Values; this is not designed or intended to diminish our values but to acknowledge and reinforce our need to mitigate customer impact as quickly as possible.
+
+### Incident Manager participants
 The Incident Manager role will be staffed by all team members within this scope:
 - [Job Grades 8 and 9](/handbook/total-rewards/compensation/compensation-calculator/#job-grades)
 - Development and Infrastructure departments
@@ -70,7 +78,7 @@ or their designees, and the requests require approval from the participants' rep
 
 #### I am an engineer in Development. Am I exempt from the Dev On-call when I am on an Incident Manager rotation?
 
-Yes. If you are an engineer and you are in the Incident Manager rotation, you are exempt from the [Dev On-call](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#eligibility). You will not be expected to sign up for shifts in the monthly Dev On-call scheduling sheet. Please confirm that your email address is listed on the [Development-Team-BE Google Doc](https://drive.google.com/drive/search?q=%22Development-Team-BE%22), so that you are not auto-assigned a shift.
+Yes. If you are an engineer and you are in the Incident Manager rotation, you are exempt from the [Dev On-call](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#eligibility). You will not be expected to sign up for shifts in the monthly Dev On-call scheduling sheet. Please confirm that your email address is listed on the [Development-Team-BE Google Spreadsheet](https://docs.google.com/spreadsheets/d/1rCamrCMZPreBpYwbzFG9zpghtiH3KPiFYu46RbqWjXU/edit#gid=508978589), so that you are not auto-assigned a shift.
 
 #### How do I prioritize Incident Manager duties with my other role expectations?
 When you are scheduled to be Incident Manager On Call, this must by your #1 work priority. However, while it is the priority, there may not be any incidents. When there is not an active incident requiring Incident Manager leadership you maintain your normal work duties.

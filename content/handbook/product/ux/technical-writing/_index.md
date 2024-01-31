@@ -79,7 +79,7 @@ provides language and style guidance for the product documentation and release p
 
 Any Technical Writer (or other contributor) can make suggestions for
 documentation style updates or additions by creating an issue or merge request with the
-`~tw-style` label, and then assigning the issue or MR to the Style Guide DRI. GitLab team members can also use the #docs Slack channel.
+`~tw-style` label, and then assigning the issue or MR to the Style Guide DRI. GitLab team members can also use the `#docs` Slack channel.
 
 Use the following searches to track completed style-related issues:
 
@@ -92,8 +92,8 @@ Use the following searches to track completed style-related issues:
 The Technical Writing team develops and maintains toolkits to test GitLab's documentation (and other technical content) for problems. These toolkits include (but aren't limited) to:
 
 - Text content and writing style: markdownlint, Vale
-- Text formatting: Markdownlint, yamllint
-- Link validity: nanoc
+- Text formatting: markdownlint, yamllint
+- Link validity: Nanoc
 - File permissions and naming: `lint-doc.sh`
 
 Any contributor can suggest changes to our linting rules or tooling by creating an issue or merge request with the [`~tw-testing`](https://gitlab.com/gitlab-org/gitlab/-/issues?label_name[]=tw-testing) label, and then assigning the issue or MR to a technical writer.
@@ -204,7 +204,7 @@ The number of pages in the five primary repositories (GitLab, Omnibus, Charts, O
 | Jan 2022      | 1,562      | -           |
 | May 2020      | 1,165      | -           |
 
-**Change between May 2020 and Dec 2023:** 1036 more pages (a 89% increase)
+**Change between May 2020 and Dec 2023:** 1036 more pages (an 89% increase)
 
 The number of words in these repositories:
 
@@ -227,7 +227,7 @@ The word count has more than doubled in this timeframe.
 ### Analytics
 
 GitLab Team Members can view docs site metrics on the docs.gitlab.com [LookerStudio dashboard](https://lookerstudio.google.com/reporting/d6af7a2b-2aaa-4f30-8742-811e62777c93/page/IeVBD).
-To view page level analytics, select **Page views by month**, and add the page URL in the value field. Do **not** include https:// as part of the value.
+To view page level analytics, select **Page views by month**, and add the page URL in the value field. Do **not** include `https://` as part of the value.
 
 To make or suggest changes to the dashboard, open an issue in the [Marketing Strategy and Analytics project](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance).
 
@@ -241,7 +241,7 @@ Options for groups to get help when an assigned Technical Writer is on PTO are:
 
 - [Reviewer Roulette](https://gitlab-org.gitlab.io/gitlab-roulette/?sortKey=stats.avg7&order=-1&visible=maintainer%7Cdocs).
   A rouletted Technical Writer can be pinged or assigned to an issue or merge request.
-- A request in the [#docs](https://gitlab.slack.com/archives/C16HYA2P5) channel in Slack, where it will be picked
+- A request in the [`#docs`](https://gitlab.slack.com/archives/C16HYA2P5) channel in Slack, where it will be picked
   up by an available volunteer Technical Writer.
 - For help with a specific, time-sensitive, in-progress piece of work, a pre-arranged Technical Writer. The Technical
   Writer can be pinged on issues or merge requests and begin participating.
@@ -406,7 +406,7 @@ If you have content that needs a specific assignee, or if you have a merge reque
 
 There are occasions when Technical Writers may be too busy for general team merge request reviews, and need to focus on their groups or other priorities. In those cases, Technical Writers can update their GitLab status by selecting the **Busy** checkbox and adding the 🔴 `:red_circle:`, which prevents their name from appearing in the reviewer roulette.
 
-For example, Technical Writers on release duty for a milestone should add the busy indicator to their status for the week preceeding the [release date](/handbook/engineering/releases/), to focus on release posts and other requirements.
+For example, Technical Writers on release duty for a milestone should add the busy indicator to their status for the week preceding the [release date](/handbook/engineering/releases/), to focus on release posts and other requirements.
 
 In all other cases, while Technical Writers can add (and remove) the busy indicator from their profiles, we ask that the busy indicator be in place for no longer than two days at a time, and be employed no more than once every two weeks. (Noting that the use of the busy indicator during releases doesn't affect this.) If you need more time not participating in the review roulette, be sure to talk to your manager so they can help (which may include additional use of the busy indicator).
 
@@ -498,3 +498,9 @@ See:
 
 The documentation website is refreshed every hour. On rare occasions, we might have to publish documentation
 updates a little faster. If you need an urgent update, follow the steps to [manually deploy the docs site](https://docs.gitlab.com/ee/development/documentation/site_architecture/deployment_process.html#manually-deploy-to-production).
+
+### Report a docs website problem or infrastructure issue
+
+Report website bugs or feature requests in the [issue queue for the Docs website](https://gitlab.com/gitlab-org/gitlab-docs/-/issues).
+
+For outages or website availability issues, see [Docs site infrastructure](https://gitlab.com/gitlab-org/gitlab-docs/-/blob/main/doc/infrastructure.md?ref_type=heads).

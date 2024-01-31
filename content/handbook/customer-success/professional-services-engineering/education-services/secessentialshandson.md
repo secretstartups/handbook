@@ -7,7 +7,7 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 
 ## Lab Guides
 
-> **We are transitioning to the latest version of this course.** If your group URL starts `https://spt.gitlabtraining.cloud`, please use the v15 instructions.
+> **We are transitioning to the latest version of this course.** If your group URL starts with `https://spt.gitlabtraining.cloud`, please use the v15 instructions.
 
 | Lab Guide | Version 15 | Version 16 |
 |-----------|------------|------------|
