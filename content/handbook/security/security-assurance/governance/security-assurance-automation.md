@@ -51,7 +51,7 @@ The Security Assurance Automation team is continuously engineering new automated
 
 #### Dashboarding
 
-[Sisense Dashboarding](https://app.periscopedata.com/app/gitlab/1092210/ZenGRC_Observations) - Custom dashboards using our analytic tool that integrates with data sources across GitLab.
+[Tableau Dashboarding](https://10az.online.tableau.com/#/site/gitlab/views/DRAFTZenGRCObservations/ZenGRCObservationsDashboard) - Custom dashboards using our analytic tool that integrates with data sources across GitLab.
 
 [Insight Dashboarding](https://docs.gitlab.com/ee/user/group/insights/index.html#configure-your-insights) - Custom issue analytic dashboards native to GitLab.
 
