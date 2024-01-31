@@ -221,7 +221,7 @@ Currently, we use monthly milestones and a burnup/burndown chart to track recurr
 
 1. [Security Control Health](/handbook/security/performance-indicators/#security-control-health)
 1. [Security Observations](/handbook/security/performance-indicators/#security-observations-tier-3-risks)
-1. [FedRAMP Vulnerability Posture (limited access)](https://app.periscopedata.com/app/gitlab/1125380/FedRAMP-Vulnerability-Posture)
+1. [FedRAMP Vulnerability Posture (limited access)](https://10az.online.tableau.com/#/site/gitlab/views/Draft-FedRAMPVulnerabilityPosture/FedRAMPVulnerabilityPostureDashboard?:iid=1)
 1. [Vulnerability Deviation (Exception) Requests](https://gitlab.com/gitlab-com/gl-security/security-assurance/team-security-dedicated-compliance/poam-deviation-requests/insights/#/issues)
 
 ## <i class="fas fa-id-card" style="color:rgb(110,73,203)" aria-hidden="true"></i> Contact the Team
