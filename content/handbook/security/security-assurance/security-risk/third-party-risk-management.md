@@ -7,7 +7,7 @@ controlled_document: true
 
 GitLab maintains an industry-leading Third Party Risk Management (TPRM) Program through the use of automation, continuous monitoring, and deep integration across business functions to validate the security of GitLab data shared with external parties.
 
-The integration of GitLab's TPRM program within the vendor Procurement flow enables cross-functional [collaboration](/handbook/values/#collaboration) between Privacy, Legal, IT, and People Operations to facilitate [transparent](/handbook/values/#transparency), risk-based decision making, Business and Stakeholder-focused [Results](/handbook/values/#results), and adherence to GitLab's Regulatory and [Compliance Obligations](/handbook/security/security-assurance/security-compliance/certifications.html). The vendor relationships maintained through this program are leveraged to create efficiencies across the organization.
+The integration of GitLab's TPRM program within the vendor Procurement flow enables cross-functional [collaboration](/handbook/values/#collaboration) between Privacy, Legal, IT, and People Operations to facilitate [transparent](/handbook/values/#transparency), risk-based decision making, Business and Stakeholder-focused [Results](/handbook/values/#results), and adherence to GitLab's Regulatory and [Compliance Obligations](/handbook/security/security-assurance/security-compliance/certifications/). The vendor relationships maintained through this program are leveraged to create efficiencies across the organization.
 
 ## Purpose
 
@@ -117,7 +117,7 @@ graph TB
 
 The following table defines the procedures followed by TPRM engineers for vendors accessing or being transmitted different [classifications of GitLab data]({{< ref "data-classification-standard" >}}). The below procedures are initiated by the [Procurement](/handbook/finance/procurement/#--what-is-the-procurement-process-at-gitlab) process and are followed in all instances where applicable vendors have not been reviewed within the established approval windows defined below.
 
-If a vendor has been reviewed and approved within the preceding 12-24 months (as defined within the **TPRM Approval Windows** section) of a new procurement request, the TPRM Engineer will review the requisition to determine if a material change has occurred to the services provided. Material changes may require performance of a new Security review, and may include:
+If a vendor has been reviewed and approved within the preceding 12-24 months (as defined within the [**TPRM Approval Windows** section](#tprm-approval-windows)) of a new procurement request, the TPRM Engineer will review the requisition to determine if a material change has occurred to the services provided. Material changes may require performance of a new Security review, and may include:
 
 - Change in data classification (e.g., going from Yellow to Orange data classification)
 - New system from vendor not previously reviewed (e.g., we've reviewed XYZ for the purchase of their Billing system, but a new request has come in for the purchase of their Revenue system)
@@ -221,6 +221,43 @@ Deficiencies identified that may present a material risk to GitLab data should b
 *SIG questionnaires (or equivalent) provided by a vendor **not** utilizing a GitLab-provided template should be reviewed to ensure they meet our due diligence standards. Domains not sufficiently addressed by a vendor-provided questionnaire should be identified, with additional inquiries performed to gain assurance over all in-scope domains.*
 {{% /details %}}
 
+### Determining Vendor Inherent Risk
+
+Inherent risk is the vendor's baseline risk level before accounting for mitigating controls required by GitLab's Third Party Risk Management Program. GitLab uses the [sensitivity of the data exchanged with the vendor](https://handbook.gitlab.com/handbook/security/data-classification-standard/#data-classification-levels) to establish the baseline risk level, which detemines [assessment requirements](https://handbook.gitlab.com/handbook/security/security-assurance/security-risk/third-party-risk-management/#tprm-assessment-requirements)
+
+|Inherent Risk Level|Data Classification|
+|:---------:|:--------------:|
+|Very High|Red|
+|High|Orange SaaS<sup>1</sup>|
+|Moderate|Orange<sup>2</sup>|
+|Low|Yellow|
+|Very Low|Green|
+
+<html>
+<small>
+  <ol>
+    <li> <i> Due to increased risk with vendor engagements providing cloud services (such as SaaS offerings), the inherent risk level has been elevated to account for emerging threats and vulnerabilities associated with these types of services. </i> </li>
+    <li><i>Orange Individual-Use Software is assessed as moderate inherent risk under a reduced scope due to the decreased risk associated with these types of requests. See <a href="https://handbook.gitlab.com/handbook/security/security-assurance/security-risk/third-party-risk-management/#individual-use-software-requests">here</a> for further guidance.</i></li>
+  </ol>
+</small>
+</html>
+
+### Determining Vendor Residual Risk
+
+Residual risk is the level of risk that remains after the vendor has implemented risk mitigation measures and controls to address potential threats associated with the vendors products and services. Effectively managing vendor residual risk requires a balanced approach that considers the criticality of the vendor's services or products, the sensitivity of the data involved, and the overall risk tolerance at GitLab.
+
+Vendors that meet GitLab's security requirements will have residual risks levels as follows:
+
+|Inherent Risk Level| Residual Risk Level|
+|:---------:|:--------------:|
+|Very High|Moderate|
+|High|Moderate|
+|Moderate|Low|
+|Low|Very Low|
+|Very Low|Very Low|
+
+Vendors that fail to meet GitLab's Third Party Risk Assessment requirements will have a residual risk score equivalent to the inherent risk score and may require a [Security Notice.](https://handbook.gitlab.com/handbook/security/security-assurance/security-risk/third-party-risk-management/#tprm-risk-acceptance-process)
+
 ### Leveraging BitSight
 
 BitSight is leveraged to obtain additional assurance over the security of a vendor's environment by use of public scans and peer benchmarking. When assessing a vendor, their BitSight report is downloaded and reviewed to determine whether their scoring is adequate, as evidenced by an "Advanced" security rating. BitSight ratings of "Basic" or "Intermediate" are reviewed in further depth to understand the rationale behind the lower rating and whether the deficiencies identified may indicate a risk to GitLab data. Due to the wide scope of BitSight's scans, some deficiencies may exist within areas that do not impact GitLab's usage of a vendor's product, and thus do not contribute to the vendor's residual risk. If deficiencies are identified that may present a material risk to GitLab data, further inquiry should be performed with the vendor to determine whether they have been resolved. Un-resolved material deficiencies should be documented within the TPRM Assessment Report and reported to the Business Owner via the [TPRM Risk Acceptance Process](/handbook/security/security-assurance/security-risk/third-party-risk-management/#tprm-risk-acceptance-process) defined below.
@@ -238,9 +275,9 @@ Requisitions must be reviewed to determine whether a scope change has occurred s
 
 As an output of our integration with the vendor procurement flow, the Security Risk team partners with [Information Technology](/handbook/business-technology/it/) to inventory the usage, administration, and integration of new applications supporting various GitLab functions. This inventory lives within the [Tech Stack](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml), GitLab's [single source of truth (SSOT)](/handbook/values/#single-source-of-truth) for technology that supports the business.
 
-The Security Risk team facilitates multiple functions to maintain accuracy of Tech Stack data, including [Critical System Tiers](/handbook/security/security-assurance/security-risk/storm-program/critical-systems.html#determining-critical-system-tiers). This data is leveraged to ensure critical applications are appropriately supported. Functions consist of:
+The Security Risk team facilitates multiple functions to maintain accuracy of Tech Stack data, including [Critical System Tiers](/handbook/security/security-assurance/security-risk/storm-program/critical-systems/#determining-critical-system-tiers). This data is leveraged to ensure critical applications are appropriately supported. Functions consist of:
  - Merge Requests upon system procurement to update the [Tech Stack](/handbook/business-technology/tech-stack-applications/#what-data-lives-in-the-tech-stack).
- - Initial [Business Impact Analyses (BIA)](/handbook/security/security-assurance/security-risk/storm-program/business-impact-analysis.html#business-impact-analysis) to help determine the systems critical to serving GitLab’s Customers.
+ - Initial [Business Impact Analyses (BIA)](/handbook/security/security-assurance/security-risk/storm-program/business-impact-analysis/#business-impact-analysis) to help determine the systems critical to serving GitLab’s Customers.
  - Recurring procedures to validate the accuracy of existing Tech Stack data, including an annual Business Impact Analysis for Tier 1 Systems.
 
  More information on how Critical System Tiering is leveraged in support of GitLab can be found within the [StORM Handbook page](/handbook/security/security-assurance/security-risk/storm-program/).
@@ -295,7 +332,7 @@ GitLab Team Members leverage [Individual Use Software](/handbook/finance/procure
 
 Commonly requested individual-use software is added to the Pre-Approved Application Listing located [here](/handbook/finance/procurement/personal-use-software/#pre-approved-individual-use-software-requests). This listing is used to document approved vendors, their data classification, and the expiration of their most recent TPRM assessment where applicable. Assessments that have aged out are re-performed on an ad-hoc basis or upon entry of a new procurement request.
 
-Orange Individual-Use Software is assessed under a reduced scope in consideration of vendor resourcing and the limited scope of usage wihtin GitLab. See the **TPRM Assessment Requirements** section above for more detail on requirements for these vendors. Assessors are encouraged to perform a full-scope assessment if they feel one is warranted.
+Orange Individual-Use Software is assessed under a reduced scope in consideration of vendor resourcing and the limited scope of usage within GitLab. See the **TPRM Assessment Requirements** section above for more detail on requirements for these vendors. Assessors are encouraged to perform a full-scope assessment if they feel one is warranted.
 
 #### Independent Assessments
 
@@ -321,13 +358,13 @@ In the performance of these reviews, deficiencies may be identified that could p
 
 *While Okta SSO integration is GitLab's preferred method of authentication, IT Engineering can review and approve alternative SSO methods on a case by case basis. Exceptions must be submitted and reviewed through an [IT EngOps issue](https://gitlab.com/gitlab-com/it/engops/issue-tracker/-/issues/?sort=due_date&state=opened&first_page_size=100) before approval of the vendor's services.
 
-Deficiencies identified are reviewed in the context of the vendor's greater Security environment and the data transmitted. If a material risk to GitLab data is identified, a Risk Acceptance is drafted and presented to the Business Owner for review. See the **TPRM Risk Acceptance Process** section below for more information.
+Deficiencies identified are reviewed in the context of the vendor's greater Security environment and the data transmitted. If a material risk to GitLab data is identified, a Risk Acceptance is drafted and presented to the Business Owner for review. See the [**TPRM Risk Acceptance Process**](#tprm-risk-acceptance-process) section below for more information.
 
 ### TPRM Risk Acceptance Process
 
 Circumstances may arise in which a Security deficiency exists that is unavoidable or does not otherwise warrant the allocation of resources necessary to mitigate it. In these scenarios the Security risk team may present a Risk Acceptance to the Business Owner and other relevant stakeholders in order to support an informed decision and allow the Business to move forward with the associated requisition if needed.
 
-Identified deficiencies are reported to the Business Owner via a [Risk Acceptance Issue](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team/third-party-vendor-security-management/-/issues/new?issuable_template=TPRM%20Risk%20Acceptance%20Template) within GitLab. This issue contains (1) background information pertinent to the vendor or requisition, (2) a description of the validations performed by the Security Risk team, and (3) a description of Security deficiencies and resulting risk that may be present to GitLab data shared with the vendor. A "worst case" scenario is included to portray the potential real-world impact of a security incident resulting from the risk. If the Business Owner decides to move forward with the vendor in light of the reported deficiencies, they are responsible for completion of the below items:
+Identified deficiencies are reported to the Business Owner via a [Security Notice Issue](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team/third-party-vendor-security-management/-/issues/new?issuable_template=Security%20Notice%20Template.md) within GitLab. This issue contains (1) background information pertinent to the vendor or requisition, (2) a description of the validations performed by the Security Risk team, and (3) a description of Security deficiencies and resulting risk that may be present to GitLab data shared with the vendor. A "worst case" scenario is included to portray the potential real-world impact of a security incident resulting from the risk. If the Business Owner decides to move forward with the vendor in light of the reported deficiencies, they are responsible for completion of the below items:
 
 1. **Acknowledgement** of the [Accept the Risk](/handbook/security/security-assurance/security-risk/storm-program/#accept-the-risk) section of the StORM handbook page and their understanding of its contents.
 1. **Justification** for moving forward with the vendor in light of the identified deficiencies.
@@ -336,8 +373,9 @@ Identified deficiencies are reported to the Business Owner via a [Risk Acceptanc
 
 Deficiencies require different stakeholder input based on the level of risk associated with the deficiency. Note that additional levels of approval may be required at the discretion of the Security team. For example, if a "Moderate Risk" system has financial reporting implications, eGroup approval may be required.
 
-- **Moderate Risks** are defined as risks that could result in the loss or improper disclosure of "lower" sensitivity (Orange) GitLab data. These risks are reported to the Business Owner for approval. Moderate risk acceptances also require the approval of a VP or greater.
-- **High Risks** are risks that could result in the loss or improper disclosure of higher sensitivity (Red) data belonging to GitLab customers. Due to the higher level of sensitivity and potential impact on GitLab's obligations for securing this data, approvals are required from the Business Owner, their VP, and an appropriate member of the E-Group as determined by the Security Risk team. This is done to ensure appropriate stakeholder visibility and understanding of the risk being undertaken.
+- **Moderate Risks** are defined as risks that could result in the loss or improper disclosure of (Orange) GitLab data from a limited professional services engagement or individual use software. These risks are reported to the Business Owner for approval. Moderate risk acceptances also require the approval of a VP or greater.
+- **High Risks** are defined as risks that could result in the loss or improper disclosure of (Orange) GitLab data from a persitent SaaS provider. These risks are reported to the Business Owner for approval. High risk acceptances also require the approval of a VP or greater.
+- **Very High Risks** are risks that could result in the loss or improper disclosure of higher sensitivity (Red) data belonging to GitLab customers. Due to the higher level of sensitivity and potential impact on GitLab's obligations for securing this data, approvals are required from the Business Owner, their VP, and an appropriate member of the E-Group as determined by the Security Risk team. This is done to ensure appropriate stakeholder visibility and understanding of the risk being undertaken.
 
 IT approval is required for TPRM Risk Acceptances resulting from security deficiencies.
 
@@ -352,7 +390,7 @@ Exceptions to this procedure will be tracked as per the [Information Security Po
 ## References
 
 - Parent Policy: [Information Security Policy]({{< ref "/handbook/security" >}})
-- SCF Compliance Controls
+- GCF Compliance Controls
 - [Data Classification Standard]({{< ref "data-classification-standard" >}})
 - [Current listing of controlled documents](https://gitlab.com/gitlab-com/gl-security/security-assurance/governance/security-governance/-/issues/42)
 - [App Integrations (Team Member Enablement)](/handbook/business-technology/team-member-enablement/app-integrations/)
