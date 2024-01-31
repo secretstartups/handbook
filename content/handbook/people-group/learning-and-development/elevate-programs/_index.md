@@ -15,4 +15,6 @@ Use the links below to navigate to each Elevate program. Here is a useful guide 
 | Elevate+ | Coming Soon! |
 
 
+**Not a GitLab People Leader?** We've put together a Level Up course available to all GitLab Team Members, to share the self-paced training content for each Elevate module. You can check it out here: [Elevate Learning Materials](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/learning-path/elevate-learning-materials).
+
 
