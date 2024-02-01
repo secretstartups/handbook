@@ -45,25 +45,12 @@ Please fill out one of these Issue Templates to request support. Please note, if
 
 #### Brand & Marketing Design Issue Templates
 
-- **Requesting a NEW DESIGN or a BRAND REFRESH**  -
-If you are requesting net new creative or a brand refresh of existing creative, please use one of the below issue templates:
 
-   - Do NOT use these templates for complicated campaign design support.
+**Requesting a NEW DESIGN or a BRAND REFRESH**  -
+If you are requesting net new creative or a *brand refresh of existing creative, please use one of the below issue templates:
 
-   - Do NOT use these templates for brand reviews.
-   - What has changed with our branding?
-      - [Logomark](https://design.gitlab.com/brand-logo/logomark) and [Core Logo](https://design.gitlab.com/brand-logo/core-logo) the rules around how to use it properly
 
-      - [Font and typography guidelines](https://design.gitlab.com/brand-design/typography)
-
-      - [Colors and color usage](https://design.gitlab.com/brand-design/color)
-      
-      - [Marketing icons and illustration style](https://design.gitlab.com/brand-design/marketing-illustrations)
-
-      - Added [photography guidelines](https://design.gitlab.com/brand-design/photography) for our brand
-      - Small adjustments to [Tone of voice](https://design.gitlab.com/brand/overview) and [co-branding guidelines](https://design.gitlab.com/brand-logo/branded-lockups)
-
-      1. [**Content Design Request**](https://gitlab.com/gitlab-com/marketing/brand-product-marketing/brand-product-marketing/brand-design/-/issues/new?issuable_template=content-design-request) - Please use this issue request template for net new or refreshes needed for: 
+   1. ##### [**Content Design Request**](https://gitlab.com/gitlab-com/marketing/brand-product-marketing/brand-product-marketing/brand-design/-/issues/new?issuable_template=content-design-request) - Please use this issue request template for net new or refreshes needed for: 
          - eBook / Solution Briefs
          - Infographic / Diagrams
          - One-Pager / Two-Pager
@@ -72,30 +59,46 @@ If you are requesting net new creative or a brand refresh of existing creative, 
          - Whitepaper
          - Other but within the same category of assets 
 
-      2. [**Event Asset Request**](https://gitlab.com/gitlab-com/marketing/brand-product-marketing/brand-product-marketing/brand-design/-/issues/new?issuable_template=event-asset-request) - Please use this issue template when requesting net new or refreshing any of the following event-related assets: 
+   2. ##### [**Event Asset Request**](https://gitlab.com/gitlab-com/marketing/brand-product-marketing/brand-product-marketing/brand-design/-/issues/new?issuable_template=event-asset-request) - Please use this issue template when requesting net new or refreshing any of the following event-related assets: 
          - Event Booth
          - Event Signage
          - Event Social Posts
          - Event Swag + Giveaways
 
-      3. [**Illustration + Iconography Requests**](https://gitlab.com/gitlab-com/marketing/brand-product-marketing/brand-product-marketing/brand-design/-/issues/new?issuable_template=illustration-and-iconography-request) - Please use this issue template for any illustration and iconography needs. 
+   3. ##### [**Illustration + Iconography Requests**](https://gitlab.com/gitlab-com/marketing/brand-product-marketing/brand-product-marketing/brand-design/-/issues/new?issuable_template=illustration-and-iconography-request) - Please use this issue template for any illustration and iconography needs. 
 
-      4. [**Presentation Request**](https://gitlab.com/gitlab-com/marketing/brand-product-marketing/brand-product-marketing/brand-design/-/issues/new?issuable_template=presentation-request) - Please use this issue request template for updating existing presentation decks or when requesting design for net new decks. 
+   4. ##### [**Presentation Request**](https://gitlab.com/gitlab-com/marketing/brand-product-marketing/brand-product-marketing/brand-design/-/issues/new?issuable_template=presentation-request) - Please use this issue request template for updating existing presentation decks or when requesting design for net new decks. 
 
-      5. [**Social Media Request**](https://gitlab.com/gitlab-com/marketing/brand-product-marketing/brand-product-marketing/brand-design/-/issues/new?issuable_template=social-media-request) - Please use this issue template for net new or refreshing organic and/or paid social requests.
+   5. ##### [**Social Media Request**](https://gitlab.com/gitlab-com/marketing/brand-product-marketing/brand-product-marketing/brand-design/-/issues/new?issuable_template=social-media-request) - Please use this issue template for net new or refreshing organic and/or paid social requests.
 
-      6. [**Swag Request**](https://gitlab.com/gitlab-com/marketing/brand-product-marketing/brand-product-marketing/brand-design/-/issues/new?issuable_template=swag-request) - This issue request is for general branded swag for the store or TMRG programs. Please use the Event Asset Request, listed above, for event-related swag.
-
-
-- **Does your design request not fall within one of the above categories?** Then please use our [**General Design Request**](https://gitlab.com/gitlab-com/marketing/brand-product-marketing/brand-product-marketing/brand-design/-/issues/new?issuable_template=general-design-request) issue template to request a new design of multiple or a single asset.
-   - Do NOT use this templates for complicated campaign design support.
-   - Do NOT use this template for brand reviews.
-
-- **Need a brand review?** Please use this [**Brand Review Request**](https://gitlab.com/gitlab-com/marketing/brand-product-marketing/brand-product-marketing/brand-design/-/issues/new?issuable_template=brand-review-request) template to request a brand or design review of multiple or single assets. 
-    - Do NOT use this template for requesting new assets or designs.
+   6. ##### [**Swag Request**](https://gitlab.com/gitlab-com/marketing/brand-product-marketing/brand-product-marketing/brand-design/-/issues/new?issuable_template=swag-request) - This issue request is for general branded swag for the store or TMRG programs. Please use the Event Asset Request, listed above, for event-related swag.
 
 
-- **Request Instructions and Tips:** 
+- _Please do NOT use any of the above templates for brand reviews._
+
+- _*You can use any of the above templates to refresh existing creative. **Not sure if you need a brand refresh? Here's what has changed with our branding:**_
+   - _[Logomark](https://design.gitlab.com/brand-logo/logomark) and [Core Logo](https://design.gitlab.com/brand-logo/core-logo) the rules around how to use it properly_
+
+   - _[Font and typography guidelines](https://design.gitlab.com/brand-design/typography)_
+
+   - _[Colors and color usage](https://design.gitlab.com/brand-design/color)_
+      
+   - _[Marketing icons and illustration style](https://design.gitlab.com/brand-design/marketing-illustrations)_
+
+   - _Added [photography guidelines](https://design.gitlab.com/brand-design/photography) for our brand_
+
+   - _Small adjustments to [Tone of voice](https://design.gitlab.com/brand/overview) and [co-branding guidelines](https://design.gitlab.com/brand-logo/branded-lockups)_
+
+**Does your design request not fall within one of the above categories?** Then please select one of the templates below:
+   1. ##### [**General Design Request**](https://gitlab.com/gitlab-com/marketing/brand-product-marketing/brand-product-marketing/brand-design/-/issues/new?issuable_template=general-design-request) -Please use this issue template to request a new design of multiple or a single asset.
+      - _Do NOT use this template for brand reviews._
+
+
+   2. ##### [**Brand Review Request**](https://gitlab.com/gitlab-com/marketing/brand-product-marketing/brand-product-marketing/brand-design/-/issues/new?issuable_template=brand-review-request) - Need a brand review Please use this template to request a brand or design review of multiple or single assets. 
+      - _Do NOT use this template for requesting new assets or designs_.
+
+
+##### **Request Instructions and Tips:** 
 
    - When submitting your request, please title the request “CREATIVE REQUEST: [Descriptive name]”
    - Please complete the issue form to the best of your ability. The more information our team can receive upfront, the quicker we can get started on your request.
