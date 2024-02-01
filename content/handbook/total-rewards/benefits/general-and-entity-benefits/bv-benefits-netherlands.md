@@ -119,7 +119,7 @@ Eligible team members may apply for the 30% Tax Ruling. More information can be 
 
 GitLab uses HR Savvy to assist with the administration of [the bike to work/tax saver commuter scheme](https://business.gov.nl/running-your-business/environmental-impact/making-your-business-sustainable/buy-or-lease-a-company-bicycle/).
 
-Cycle to work will have a maximum expenditure of 2500 EUR for a bike. The team members can avail this benefit every 2 years. This duration will be calculated based on the start date of the previously availed bike scheme benefit.
+Cycle to work will have a maximum expenditure of 2000 EUR for a bike. The team members can avail this benefit every 2 years. This duration will be calculated based on the start date of the previously availed bike scheme benefit.
 
 *Bike Applications:*
 
