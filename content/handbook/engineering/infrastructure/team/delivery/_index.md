@@ -325,7 +325,7 @@ Project labels are defined as needed, but they are required unless the issue des
 
 Incidents impacting Delivery may optionally include an [impact label](/handbook/engineering/releases/#delivery-impact-labels).
 
-#### Delivery:Deployment specific ways of working
+#### Delivery:Deployments specific ways of working
 
 In addition to the Epics, Issue Boards, Labels, and Workflow practices common to the entire team, the Delivery::Deployments team adopts a few extra approaches to improve its communication and better share knowledge and decisions within the team.
 
