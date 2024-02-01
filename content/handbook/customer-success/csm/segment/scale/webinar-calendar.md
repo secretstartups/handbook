@@ -13,30 +13,9 @@ Watch previously recorded webinars on our [YouTube Playlist](https://www.youtube
 ---
 # Upcoming Events
 
-We’d like to invite you to our free upcoming webinars and labs in the months of January and February 2024.
+We’d like to invite you to our free upcoming webinars and labs in the month of February 2024.
 
 If you know someone who might be interested in attending, feel free to share the registration links with them. Everyone is welcome, and we hope to see you there!
-
-## January 2024
-
-### AMER Time Zone Webinars & Labs
-
-#### AI in DevSecOps - GitLab Hands-On Lab
-##### January 31st, 2023 at 9:00-10:30AM Pacific Time / 12:00-1:30PM Eastern Time
-
-Join us for a hands-on GitLab AI lab where we will explore Artificial Intelligence and how it fits within the DevSecOps lifecycle. In this session, we will cover foundational implementation and use case scenarios such as Code Suggestions and Vulnerability Explanations.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN__-DANTdmTsikP6gKFNb7XQ#/registration)
-
-
-### EMEA Time Zone Webinars & Labs
-
-#### AI in DevSecOps - GitLab Hands-On Lab
-##### January 31st, 2023 at 10:00AM-11:30AM UTC / 11:00AM-12:30PM CET
-
-Join us for a hands-on GitLab AI lab where we will explore Artificial Intelligence and how it fits within the DevSecOps lifecycle. In this session, we will cover foundational implementation and use case scenarios such as Code Suggestions and Vulnerability Explanations.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_f8cLG7PeQlyIhI8A18JHUg#/registration)
 
 ## February 2024
 
