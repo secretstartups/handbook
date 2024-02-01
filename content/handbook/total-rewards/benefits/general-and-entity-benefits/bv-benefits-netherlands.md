@@ -128,7 +128,7 @@ Cycle to work will have a maximum expenditure of 2000 EUR for a bike. The team m
 1. HR Savvy will purchase the bike on behalf of GitLab and send the invoice to Payroll.
 1. Payroll will reduce the team member's gross salary by the cost of the bike as per the addendum.
 
-If a team member would want to purchase a bike more expensive than the 2500 EUR maximum the process is as follows:
+If a team member would want to purchase a bike more expensive than the 2000 EUR maximum the process is as follows:
 
 - HRSavvy will invoice the seller for the entirety of the bike.
 - The difference between the cost of the bike and 2000 EUR will be deducted from the team member's net salary.
