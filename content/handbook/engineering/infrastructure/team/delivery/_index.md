@@ -260,7 +260,8 @@ By default, an issue needs to have a:
 
 1. Workflow Label - Default: `workflow-infra::Triage`
 1. Priority Label - Default: `Delivery::P4`
-1. Team Label - `group::delivery`
+1. Group Label - `group::delivery`
+1. Team Label - `team::Delivery-Deployments` or `team::Delivery-Releases`
 1. Other Label - project or team management related label.
 
 #### Workflow
