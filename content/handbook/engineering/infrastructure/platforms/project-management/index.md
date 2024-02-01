@@ -107,7 +107,7 @@ The SaaS Platform teams uses the following set of labels:
 | Description | Labels |
 |-------------|--------|
 | The group label | `group::Scalability` <br/>`group::Delivery` <br/>`group::GitLab Dedicated` <br/>`group::Production Engineering`|
-| The team label | `team::Scalability-Observability` <br/> `team::Scalability-Practices` <br/> `team::Delivery:Deployment` <br/> `team::Orchestration` <br/> `team::Environment Automation` <br/> `team::Switchboard` <br/> `team::US PubSec` <br/> `team::Foundations` <br/> `team::Ops`|
+| The team label | `team::Scalability-Observability` <br/> `team::Scalability-Practices` <br/> `team::Delivery:Deployments` <br/> `team::Delivery-Releases` <br/> `team::Environment Automation` <br/> `team::Switchboard` <br/> `team::US PubSec` <br/> `team::Foundations` <br/> `team::Ops`|
 | Scoped `workflow-infra::*` labels | (see below) |
 | Optional Scoped `Service` labels | `Service::*` |
 
