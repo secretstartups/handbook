@@ -132,7 +132,7 @@ If a team member would want to purchase a bike more expensive than the 2500 EUR 
 
 - HRSavvy will invoice the seller for the entirety of the bike.
 - The difference between the cost of the bike and 2500 EUR will be deducted from the team member's net salary.
-- This means the team member will only have a tax benefit over the first 2500 euro.
+- This means the team member will only have a tax benefit over the first 2000 euro.
 
 ## GitLab B.V. Netherlands Leave Policy
 
