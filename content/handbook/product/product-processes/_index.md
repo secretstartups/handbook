@@ -2263,8 +2263,7 @@ Consider using the following template to close an issue:
 When relevant, you can include a wireframe in your issue to illustrate
 what you're thinking about. But you don't need to create wireframes on your own; our UX team has a designer embedded in every stage group who will help you figure out how to solve the problem you're addressing. They should actively participate in your planning processes, so your request won't be a surprise.
 
-If you do want to create a wireframe, we like
-[Balsamiq](https://balsamiq.com/) for its simplicity and low fidelity.
+If you do want to create a wireframe,you can get access to Figma by submitting an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new).
 If you are struggling for inspiration, you can also paste screenshots of similar
 features in other products.
 
