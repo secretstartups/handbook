@@ -29,7 +29,6 @@ The Verify Pipeline teams focused on the following Engineering-led initiatives, 
     1. Note that this also includes the `Continuous Integration` category, which has the biggest backlog of bugs in Verify.  While it may be considered to be "Maintenance" (no new feature development planned), this work remains critical in ensuring we keep GitLab CI performant and reliable.
     1. [Pipeline Execution](/handbook/engineering/development/ops/verify/pipeline-execution/) owns the `Continuous Integration` category. The team is also the DRI for CI Data Partitioning and Pipeline speed improvement efforts.
 
-
 ### FY23
 
 The Verify stage focused on reliability and scalability of GitLab CI, which was critical for the availability of gitlab.com.  This included addressing database performance, security vulnerabilities, performance improvements and relevant technical debt.
@@ -165,17 +164,9 @@ The following members of other functional teams are our stable counterparts:
 
 ### Async Work Week
 
-In FY24, we are instituting [quarterly async work weeks](https://gitlab.com/gitlab-org/verify-stage/-/issues/412) in Verify that start on the first Monday of the month for the quarter.
-Some of the benefits include reducing time spent in sync meetings, allowing for more focus, which aligns with our async-first communication and our Diversity and Inclusion value to bias towards more async communication.
-However, this doesn't preclude us from having any meetings, and it's up to meeting facilitators to decide accordingly. Exceptions might include: high priority issues and initiatives, social calls, coffee catch-ups.
-This also does not mean that you should not default to async-first at other times. Having regularly scheduled async weeks ensures that our processes do not become depending on synchronous meetings.
+We have [quarterly async work weeks](https://gitlab.com/gitlab-org/verify-stage/-/issues/412) in Verify that start on the first Monday of the quarter.
 
-| Quarter | Async Week               |
-| ------- | ------------------------ |
-| FY24-Q1 | 2023-03-20 to 2022-03-24 |
-| FY24-Q2 | 2023-05-01 to 2023-05-05 |
-| FY24-Q3 | 2023-08-07 to 2023-08-11 |
-| FY24-Q4 | 2023-11-06 to 2023-11-10 |
+Some of the noted benefits include reduced time spent in sync meetings, allowing for more focus that aligns with our async-first communication and our Diversity and Inclusion value to bias towards more async communication. However, this doesn't preclude us from having any meetings; it's up to the respective meeting attendees to decide accordingly. Exceptions might include: high priority issues and initiatives, social calls, coffee catch-ups. This also does not mean that you should not default to async-first at other times. Having regularly scheduled async weeks ensures that our processes do not become dependent on synchronous meetings.
 
 ## Verify Engineering - Async Updates
 
