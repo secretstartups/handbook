@@ -19,7 +19,7 @@ The Developer Relations team creates content on varying topics and in different 
 
 ### How we measure Content Effectiveness
 
-The key measure of content effectiveness for the Developer Relations team is how the content we create or the campaign we contribute to influence revenue. This is done by ensuring every content item we create has an impact on the experience of GitLab users and customers. Impact is achieved by listening to the community and creating content that meets the needs of the community with relevant calls to action. We also impact the experience of users by collaborating with other teams and contributing content or thought leadership.
+The key measure of content effectiveness for the Developer Relations team is how the content we create or the campaigns we contribute to influence revenue. This is done by ensuring every content item we create has an impact on the experience of GitLab users and customers. Impact is achieved by listening to the community and creating content that meets the needs of the community with relevant calls to action. We also impact the experience of users by collaborating with other teams and contributing content or thought leadership.
 
 #### The Metrics we measure
 
