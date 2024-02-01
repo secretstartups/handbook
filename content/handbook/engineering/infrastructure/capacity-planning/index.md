@@ -202,9 +202,9 @@ In terms of labels used, the same mechanics apply as for GitLab.com (see above).
 The strategy for handling potential capacity planning issues for GitLab Dedicated is different from GitLab.com in several ways:
 
 1. For GitLab Dedicated, we strive for homogeneity of the tenant environments, particularly for tenants using the same reference architecture. This needs to be considered when deciding on a course of action for a potential capacity issue.
-1. Changes that increase capacity should consider whether to be applied at the tenant level, to the reference architecture, as an overlay on a reference architecture, or globally. 
-1. Additional per-tenant costs should be considered as part of the triage and response process and increases should be approved by the Dedicated Product Manager.
-1. Depending on where the capacity is increased (on the local to global spectrum), the change should also be considered from a cost-vs-complexity trade-off. Different situations may require different trade-offs. 
+1. Changes that increase capacity should consider whether to be applied at the tenant level, to the reference architecture, as [an overlay on a reference architecture](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/blob/main/engineering/tenant-model.md#reference-architecture-overlays), or globally.
+1. Additional per-tenant costs should be considered as part of the triage and response process and increases should be approved by the Dedicated Product Manager (see this [issue template](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/blob/main/.gitlab/issue_templates/approve_scaling_overlay.md)).
+1. Depending on where the capacity is increased (on the local to global spectrum), the change should also be considered from a cost-vs-complexity trade-off. Different situations may require different trade-offs.
 
 Dedicated Capacity Planning is in it's early stage, and we can expect that the process will be iterated on rapidly as our experience in this area increases.
 
