@@ -5,4 +5,4 @@ description: "Rules of Engagement"
 ---
 
 
-This page has been moved to the Internal Handbook, which can be found [here](ADD LINK). 
+This page has been moved to the Internal Handbook, which can be found [here](https://internal.gitlab.com/handbook/sales/go-to-market/rules-of-engagement/). 
