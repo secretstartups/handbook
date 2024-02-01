@@ -94,7 +94,7 @@ description: "A comprehensive list of all of Field Marketing's epic codes."
 * [ ] [List Clean and Upload](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=event-clean-upload-list) - FMC creates, assigns to FMM
 * [ ] [Optional: FM Pathfactory Asset Upload and Track Creation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Pathfactory_Request_Template) - FMM creates, assigns to FMC
 
-/label ~"mktg-status::wip" ~"Virtual Conference"~“Field Marketing”
+/label ~"mktg-status::wip" ~"Virtual Conference" ~“Field Marketing”
 /confidential
 ```
 
@@ -169,7 +169,7 @@ description: "A comprehensive list of all of Field Marketing's epic codes."
 * [ ] [Optional: ABM Request for LinkedIn Ads](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=abm_fieldmarketing_campaign_request) - FMM creates, assigns based on template instructions
 * [ ] [Optional: FM Pathfactory Asset Upload and Track Creation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Pathfactory_Request_Template) - FMM creates, assigns to FMC
 
-/label ~mktg-status:wip ~"Content Syndication" ~"Field Marketing" 
+/label ~"mktg-status:wip" ~"Content Syndication" ~"Field Marketing" 
 /confidential
 ```
 
@@ -445,7 +445,7 @@ Utilize the [Workshop/Webcast SLA Workback Schedule](https://docs.google.com/spr
 * [ ] [Optional: ABM Request for LinkedIn Ads](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=abm_fieldmarketing_campaign_request) - FMM creates, assigns based on template instructions
 * [ ] [Optional: FM Pathfactory Asset Upload and Track Creation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Pathfactory_Request_Template) - FMM creates, assigns to FMC
 
-/label ~"mktg-status::wip" ~"workshop" ~"Field Marketing"
+/label ~"mktg-status::wip" ~"FM Workshop" ~"Field Marketing"
 /confidential
 ```
 
