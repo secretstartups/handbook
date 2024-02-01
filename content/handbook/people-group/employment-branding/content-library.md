@@ -106,6 +106,7 @@ These awards and lists recognize GitLab's unique culture and help us spread the 
 
 | Articles/Blogs/Features | Category |
 | ------ | ------ |
+| [Innovating in Sync: The Story of GitLab Duo](https://builtin.com/articles/innovating-sync-story-gitlab-duo) | AI / Product |
 | [These Companies Are Taking an Intentional Approach to Artificial Intelligence](https://builtin.com/brand-studio/these-companies-are-taking-intentional-approach-artificial-intelligence?utm_source=bambu&utm_medium=social&utm_campaign=advocacy) | AI / Product |
 | [How Iteration drives innovation in our engineering org](https://about.gitlab.com/blog/2022/06/10/how-gitlab-iteration-value-drives-innovation-through-the-engineering-organization/) | Engineering |
 | [The Best Leadership Advice I Never Received](https://womeninsaleseverywhere.com/blog/author/meaghan-thatcher/) | Sales |
