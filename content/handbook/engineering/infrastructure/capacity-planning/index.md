@@ -165,7 +165,7 @@ The prioritization framework uses an [Eisenhower Matrix](https://todoist.com/pro
 
 ## GitLab Dedicated Capacity Planning
 
-The following details the overarching team-level agreements and responsibilities to implement capacity planning for GitLab Dedicated.
+The following details the team-level agreements and responsibilities regarding capacity planning for GitLab Dedicated.
 While capacity planning for GitLab.com is a shared activity, capacity planning for GitLab Dedicated implements a more differentiated responsibility model.
 
 ### Stakeholders: Scalability:Observability team and Dedicated teams
@@ -184,6 +184,7 @@ The manifest is generated from the GET metrics catalog using a [jsonnet generato
 ### Executing Tamland
 
 Tamland runs inside tenant environments on a daily cadence and produces forecasting data to a S3 bucket.
+For more information, please refer to [documentation](/handbook/engineering/infrastructure/team/scalability/observability/tamland/#gitlab-projects-and-capacity-planning-trackers) and this [project](https://gitlab.com/gitlab-com/gl-infra/capacity-planning-trackers/gitlab-dedicated).
 
 ### Reporting and capacity warnings
 
@@ -200,7 +201,7 @@ In terms of labels used, the same mechanics apply as for GitLab.com (see above).
 
 The strategy for handling potential capacity planning issues for GitLab Dedicated is different from GitLab.com in several ways:
 
-1. For GitLab Dedicated, we strive to homogeneity between the tenant environments, particularly for tenants using the same reference architecture. This needs to be considered when deciding on a course of action for a potential capacity issue.
+1. For GitLab Dedicated, we strive for homogeneity of the tenant environments, particularly for tenants using the same reference architecture. This needs to be considered when deciding on a course of action for a potential capacity issue.
 1. Changes that increase capacity should consider whether to be applied at the tenant level, to the reference architecture, as an overlay on a reference architecture, or globally. 
 1. Additional per-tenant costs should be considered as part of the triage and response process and increases should be approved by the Dedicated Product Manager.
 1. Depending on where the capacity is increased (on the local to global spectrum), the change should also be considered from a cost-vs-complexity trade-off. Different situations may require different trade-offs. 
