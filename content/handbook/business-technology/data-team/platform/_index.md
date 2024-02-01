@@ -33,6 +33,7 @@ This document is limited to describe the Data Platform conceptually. There are o
 - [Jupyter Guide](/handbook/business-technology/data-team/platform/jupyter-guide/)
 - [Permifrost](/handbook/business-technology/data-team/platform/permifrost/)
 - [Python Guide](/handbook/business-technology/data-team/platform/python-guide/)
+- [Python/Tools package management and inventory](/handbook/business-technology/data-team/platform/python-tool-package-management/)
 - [Sisense (Periscope)](/handbook/business-technology/data-team/platform/sisensecdt/)
 - [Snowplow](/handbook/business-technology/data-team/platform/snowplow/)
 - [SQL Style Guide](/handbook/business-technology/data-team/platform/sql-style-guide/)
