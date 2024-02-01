@@ -157,6 +157,37 @@ The following people are members of the [Test and Tools Infrastructure team](tes
 
 {{< team-by-manager-slug "ghosh-abhinaba" >}}
 
+## Communication
+
+In addition to GitLab's [communication guidelines](/handbook/communication) and [engineering communication](/handbook/engineering/engineering-comms), we communicate and collaborate actively across GitLab in the following venues:
+
+- [Meetings](#meetings)
+- [Group Conversation](#group-conversation)
+- [Week-in-review](#week-in-review)
+- [Engineering-wide retrospective](#engineering-wide-retrospective)
+
+### Meetings
+
+GitLab is an all-remote, timezone distributed company as such we optimize for asynchronous communication. While some topics benefit from a real-time discussion, we should always evaluate meetings to ensure they are valuable. We follow the [guidance for all-remote meetings](/company/culture/all-remote/meetings/), including starting and ending on time - or earlier.
+
+### Group Conversation
+
+[Group Conversations](/handbook/group-conversations/) take the information from the Key Review (plus any additional topics) and shared with all of GitLab. All Team Members are invited to participate in Group Conversations by adding questions and comments in the Group Conversation Agenda.
+
+Coordination of Infrastructure Group Conversation materials and facilitation of the discussion is a rotating role among the managers within the department.
+
+Group Conversation DRI [Schedule](/handbook/group-conversations/#current-schedule).
+
+### Week-in-review
+
+By the end of the week, we populate the **Engineering Week-in-Review document** with relevant updates from our department. The agenda is internal only, please search in Google Drive for 'Engineering Week-in-Review'.
+Every Monday a reminder is sent to all of engineering in the [#eng-week-in-review](https://gitlab.slack.com/messages/CJWA4E9UG) slack channel to read summarize updates in the google doc.
+
+### Engineering-wide retrospective
+
+The Test Platform sub-department holds an asynchronous retrospective for each release.
+The process is automated and notes are captured [here](https://gitlab.com/gl-retrospectives/quality/) (GITLAB ONLY).
+
 ## How we Work
 
 While this team operates as a several teams, we emphasize on ensuring the prioritization and needs of Engineering Leaders via stable counterparts.
