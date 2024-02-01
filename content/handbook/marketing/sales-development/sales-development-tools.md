@@ -278,10 +278,10 @@ To help structure your usage of the above, you can follow the steps below during
 | Resource | Purpose |   
 | :----: | :-----: | 
 |  SSoT Sales > Sales Development Territory Alignment Sheet  | Can be found in Manager Home Base sheet. Single source of truth document for Sales Development to AE/SAE/Territory Alignment | 
-|  [Territory Change Request Issue Board](https://gitlab.com/gitlab-com/marketing/sales-development/-/boards/5569691)  Use the territory Change Request Issue Board and the BDR_Territory_Change Sales Development Issue Template in order to request a territory change for your rep.  |
-|  [Sales Dev Internal Transition issue template](https://gitlab.com/gitlab-com/marketing/sdr/-/issues/new?issuable_template=sdr_internal_team_change) | Use this issue template when you have a Sales Dev team member moving from one team within our SDR org to another. 
+|  [Territory Change Request Issue Board](https://gitlab.com/gitlab-com/marketing/sales-development/-/boards/5569691) | Use the territory Change Request Issue Board and the BDR_Territory_Change Sales Development Issue Template in order to request a territory change for your rep.  |
+|  [Sales Dev Internal Onboarding and Transition issue template](https://gitlab.com/gitlab-com/marketing/sales-development/-/blob/main/.gitlab/issue_templates/Internal_Onboarding_and_Transition_Template.md) | This issue template is to be used when a new teamember is joining the Sales Development Org for the first time or they are transitioning from SDR to BDR or vice versa. 
 |  [BDR Territory Change Request issue template](https://gitlab.com/gitlab-com/marketing/sales-development/-/blob/main/.gitlab/issue_templates/BDR_Territory_Change.md) | Use this issue template when you would like to request territory changes for your BDRs. |
-
+|  [Sales Dev Exit Handover Template](https://gitlab.com/gitlab-com/marketing/sales-development/-/blob/main/.gitlab/issue_templates/BDR_Territory_Change.md) | This template is meant to be used for team members that are departing from a team to hand off their pending tasks to their peers. |
 
 ##  GitLab Resources
 
