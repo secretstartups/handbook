@@ -22,49 +22,42 @@ CI Catalog GA Epic: [https://gitlab.com/groups/gitlab-org/-/epics/12153](https:/
 
 #### Updates for current Go-To-GA list
 - [Enforce semantic versioning](https://gitlab.com/gitlab-org/gitlab/-/issues/427286)
-  - POC currently in progress.  
-  - As of 2024-01-29, initial review potentially planned mid this week. 
+  - [POC](https://gitlab.com/gitlab-org/gitlab/-/issues/427286#note_1753449388) currently in-progress and in review.
 - Support CI interpolation with arrays
   - [Implement text interpolation](https://gitlab.com/gitlab-org/gitlab/-/issues/433002)
-    - Issue [identified](https://gitlab.slack.com/archives/C3JJET4Q6/p1706109066786799) during FF rollout.  Ongoing team discussions in [https://gitlab.com/gitlab-org/gitlab/-/issues/439272](https://gitlab.com/gitlab-org/gitlab/-/issues/439272#note_1748039593) to determine best next steps.
   - [CI interpolation with arrays](https://gitlab.com/gitlab-org/gitlab/-/issues/407176)
-- [Spike issue](https://gitlab.com/gitlab-org/gitlab/-/issues/434260) to distributed components for Self managed customers
-  - Due to Threat Model work pivot for Avielle, assistance from another team member has been requested to help this forward.
-- [Threat Model](https://gitlab.com/gitlab-com/gl-security/appsec/threat-models/-/issues/43#note_1738526551) initial work provided.
-  - Security has requested additional diagrams which Avielle is creating.
+    - From discussions in [https://gitlab.com/gitlab-org/ci-cd/pipeline-authoring/-/issues/127](https://gitlab.com/gitlab-org/ci-cd/pipeline-authoring/-/issues/127) a `spike` is necessary to validate assumptions.
+- Spikes
+  - [Spike issue](https://gitlab.com/gitlab-org/gitlab/-/issues/434260) to distributed components for Self managed customers.
+  - [Spike issue](https://gitlab.com/gitlab-org/gitlab/-/issues/438409) to calculate number of times a component is used.
+- [Threat Model](https://gitlab.com/gitlab-com/gl-security/appsec/threat-models/-/issues/43#note_1738526551) diagrams in-progress to be provided to security.
 
 #### Other milestone goals:
 
 - Improve the UX for the CI/CD catalog
-  - [Sort component by GitLab-maintained components](https://gitlab.com/gitlab-org/gitlab/-/issues/437897) 
+  - [Make star rating default sorting](https://gitlab.com/gitlab-org/gitlab/-/issues/437897) 
   - [Fix Markdown not rendering in CI/CD Catalog](https://gitlab.com/gitlab-org/gitlab/-/issues/431899) (Complete)
-- Implement additional telemetry
-  - [Spike issue](https://gitlab.com/gitlab-org/gitlab/-/issues/438409) to investigate how to component usage can be tracked.
-    - Evaluating options being proposed with team before proceeding.
-  - [Number of times a single component had been used](https://gitlab.com/gitlab-org/gitlab/-/issues/434333)
 - Helper efforts for components
   - [Provide components as helpers to test other components](https://gitlab.com/gitlab-org/gitlab/-/issues/430818)
   - [Components toolkit to test GitLab-maintained components](https://gitlab.com/gitlab-org/gitlab/-/issues/432772) (Complete)
-- Lay the foundation for all badges + introduce GL-maintained badges
-  - [https://gitlab.com/gitlab-org/gitlab/-/issues/439390](https://gitlab.com/gitlab-org/gitlab/-/issues/439390)
+- Badges
+  - [Create catalog_verified_namespaces table](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/143003#note_1755745216) (Complete) - BE MR merged on 2024-02-02
 
 #### Blockers:
 
-- Flaw in text interpolation has initiated discussions in [https://gitlab.com/gitlab-org/gitlab/-/issues/439272](https://gitlab.com/gitlab-org/gitlab/-/issues/439272#note_1748039593) to determine best next steps.
+- None at this time.
 
 ### Milestone 16.10 (February 10, 2024 - March 8, 2024)
 
 #### Goals:
 
 - Represent component name in the index page in [https://gitlab.com/gitlab-org/gitlab/-/issues/407176](https://gitlab.com/gitlab-org/gitlab/-/issues/407176)
-- Support Self Manage components - post spike implementation issues (likely to carry over for 16.11 and beyond)
+- Support Self Manage components - post `spike` implementation issues (likely to carry over for 16.11 and beyond)
 - Moving inputs to GA
-- Release and Publish API (likely to carry over for 16.11 and beyond)
 
 ### Milestone 16.11 (March 9, 2024 - April 12, 2024)
 
 #### Goals:
-- Release and Publish API (carry over)
 - Support Self Manage components (carry over)
 - Improve component filtering in the UI -filter by publisher/latest update/popularity
 - CI/CD catalog Upsell opportunity - [https://gitlab.com/gitlab-org/gitlab/-/issues/393326](https://gitlab.com/gitlab-org/gitlab/-/issues/393326)
