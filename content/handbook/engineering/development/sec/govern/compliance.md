@@ -341,6 +341,11 @@ Meetings that are not 1:1s or covering confidential topics should be added to th
 
 All meetings should have an agenda prepared at least 12 hours in advance. If this is not the case, you are not obligated to attend the meeting. Consider meetings canceled if they do not have an agenda by the start time of the meeting.
 
+
+## Planning for PTO
+
+We follow the [Govern stage PTO process](/handbook/engineering/sec/govern/#pto) and [GitLab team members Guide to Time Off](/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off).
+
 ## Group Shared Calendar
 
 The [Compliance Group Shared Calendar](https://calendar.google.com/calendar/embed?src=c_e21c4d99155603fa2f3b06f41628bebfe6013218000c822ec2fdfe7ed877d3e1%40group.calendar.google.com) is used to make sure PTO events are visible to everyone on the team.
