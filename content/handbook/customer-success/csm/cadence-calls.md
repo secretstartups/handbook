@@ -20,9 +20,8 @@ Cadence calls are an important aspect of CSM engagement to continue to understan
 
 ## Frequency
 
-- **Enterprise**: Cadence calls should be weekly during onboarding and otherwise at least biweekly for P1 customers and monthly for P2 customers, considering specific customer needs and stage in customer lifecycle.
-- **Commercial**: Cadence calls should be weekly during onboarding and at least once quarter otherwise, considering specific customer needs and stage in customer lifecycle.
-- **Scale**: Cadence calls are not scheduled on an ongoing basis for Scale CSE customers. Calls with customers are offered programmatically based on the key points defined in the [Scale CSE customer lifecycle](/handbook/customer-success/csm/segment/scale/#customer-lifecycle).
+- **CSMs**: Cadence calls should be weekly during onboarding and otherwise at least biweekly, considering specific customer needs and stage in customer lifecycle.
+- **Scale CSEs**: Cadence calls are not scheduled on an ongoing basis for Scale CSE customers. Calls with customers are offered programmatically based on the key points defined in the [Scale CSE customer lifecycle](/handbook/customer-success/csm/segment/scale/#customer-lifecycle).
 
 Cadence calls should be [captured in Gainsight](/handbook/customer-success/csm/gainsight/timeline/#how-to-log-activities-in-timeline), which [drives the Engagement scorecard metric](/handbook/customer-success/csm/health-score-triage/#gainsight-scorecard-attributes-and-calculations).
 
