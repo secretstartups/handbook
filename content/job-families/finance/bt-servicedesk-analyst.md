@@ -27,27 +27,27 @@ title: "Business Technology Service Desk"
 
 ## Levels
 
-### BT Service Desk Analyst (Intermediate)
+### Business Technology Service Desk Analyst (Intermediate)
 
-#### BT Service Desk Analyst (Intermediate) Job Grade
+#### Job Grade
 
 The BT Service Desk Analyst (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### BT Service Desk Analyst (Intermediate) responsibilities
+#### Responsibilities
 
 The BT Service Desk Analyst (Intermediate) share the same responsibilities outlined above.
 
-#### BT Service Desk Analyst (Intermediate) requirements
+#### Requirements
 
 The BT Service Desk Analyst (Intermediate) share the same requirements outlined above.
 
 ### Senior BT Service Desk Analyst
 
-#### Senior BT Service Desk Analyst Job Grade
+#### Job Grade
 
 The Senior BT Service Desk Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Senior BT Service desk Analyst Responsibilities
+#### Responsibilities
 
 - Extends that of the BT Service Desk Analyst (Intermediate) responsibilities
 - VIP Support and Escalations
@@ -59,7 +59,7 @@ The Senior BT Service Desk Analyst is a [grade 7](/handbook/total-rewards/compen
 - Excellent practical understanding of Incident Management, Change &  Problem Resolution
 - Be an integral team player, stand in when needed and cover any role in times of need.
 
-#### Senior BT Service Desk Analyst Requirements
+#### Requirements
 
 - Extends that of the BT Service Desk Analyst (Intermediate) requirements
 - Experience of writing procedural and/or support documentation
