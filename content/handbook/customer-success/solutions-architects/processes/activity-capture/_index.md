@@ -127,7 +127,7 @@ If a contact you'd like to associate your activity updates with does not yet exi
 
 ### Reports & Dashboards
 
-- [Solutions Architecture Sisense Dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/919341/Solutions-Architecture-v1.0)
+- [Solutions Architecture Tableau Dashboard](https://10az.online.tableau.com/#/site/gitlab/views/SAQBRMetrics/Summary?:iid=1)
 - [SA Activity - Salesforce Report](https://gitlab.my.salesforce.com/00O4M000004aR83)
 - [Current FQ Technical Evaluations - Salesforce Report](https://gitlab.my.salesforce.com/00O4M000004aRyn)
 - [Proof of Values - Salesforce Dashboard](https://gitlab.my.salesforce.com/01Z61000000BSYo)
