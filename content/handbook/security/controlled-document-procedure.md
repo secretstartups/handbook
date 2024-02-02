@@ -60,6 +60,10 @@ Creation of, or changes to, controlled documents must be approved by management 
 
 Most controlled documents will be published to our public facing [handbook]({{< ref "/" >}}). However, if there is [non public data]({{< ref "data-classification-standard" >}}) included in the controlled document, it should be published via an *internal facing only* mechanism (e.g. an internal GitLab project or an internal only handbook page). Controlled documents should be accessible to all internal team members.
 
+#### Handbook header
+
+Controlled documents require a [handbook frontmatter attribute for controlled documents](/handbook/editing-handbook/frontmatter/) to classify them. This attribute also renders a warning header.
+
 ### Review
 
 Controlled documents are required to be reviewed and approved on at least an annual basis. Controlled documents may be updated ad-hoc as required by business operations. Changes must be approved by a code owner of the controlled document prior to merge.
