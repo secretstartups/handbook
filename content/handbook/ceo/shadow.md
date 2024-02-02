@@ -372,7 +372,11 @@ Share [thanks]({{< ref "communication#say-thanks" >}}) in the `#thanks` Slack ch
 
 #### Positivity scores
 
-Immediately following meetings, score the CEO on overall positivity score from 1 to 5. The score should focus on the CEO's presence and reactions during the meeting. The Shadows should put themselves in the shoes of team members who are in attendance. How positive and empowered would they feel after leaving the meeting? Each shadow should give a score for all meetings attended. At the end of the day, post the score for each meeting to the `#ceo-shadow-private` Slack channel and `@` mention the CEO.
+Immediately following meetings, score the CEO on overall positivity score from 1 to 5. The score should focus on the CEO's presence and reactions during the meeting. The Shadows should put themselves in the shoes of team members who are in attendance. How positive and empowered would they feel after leaving the meeting? Each shadow should give a score for all meetings attended.
+
+If your score for a meeting was below a 5, immediately following the meeting, send Sid a Slack DM with your score and the reasoning.
+
+At the end of the day, post the score for each meeting to the `#ceo-shadow-private` Slack channel and `@` mention the CEO.
 
 Score definitions:
 
