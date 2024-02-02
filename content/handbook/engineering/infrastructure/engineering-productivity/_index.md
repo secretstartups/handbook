@@ -23,30 +23,6 @@ description: "The Engineering Productivity team increases productivity of GitLab
 - Measure what matters: quality of life, efficiency, and toil reduction improvements with quantitative and qualitative measures.
 - Build partnerships across organizational boundaries to deliver broad efficiency improvements.
 
-## KPIs
-
-[Infrastructure Performance Indicators](/handbook/engineering/infrastructure/performance-indicators/) are our single source of truth
-- [Master Pipeline Stability](/handbook/engineering/infrastructure/performance-indicators/#master-pipeline-stability)
-- [Merge request pipeline duration](/handbook/engineering/infrastructure/performance-indicators/#merge-request-pipeline-duration)
-
-### PIs
-
-- [Review App deployment success rate](/handbook/engineering/infrastructure/performance-indicators/#review-app-deployment-success-rate)
-- [Time to First Failure P80](/handbook/engineering/infrastructure/performance-indicators/#time-to-first-failure-p80)
-- [Time to First Failure](/handbook/engineering/infrastructure/performance-indicators/#time-to-first-failure)
-
-### Shared
-
-- [Quality Handbook MR Rate](/handbook/engineering/infrastructure/performance-indicators/#quality-handbook-mr-rate)
-- [Quality Department Promotion Rate](/handbook/engineering/infrastructure/performance-indicators/#quality-department-promotion-rate)
-- [Quality Department Discretionary Bonus Rate](/handbook/engineering/infrastructure/performance-indicators/#quality-department-discretionary-bonus-rate)
-
-## OKRs
-
-Objectives and Key Results (OKRs) help align our sub-department towards what really matters. These happen quarterly and are based on company OKRs. We follow the OKR process defined [here](/handbook/company/okrs/#okr-process-at-gitlab).
-
-Here is an [overview](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&type%5B%5D=objective&label_name%5B%5D=Engineering%20Productivity&first_page_size=100) of our current OKRs.
-
 ## Team
 
 ### Members
@@ -79,6 +55,59 @@ graph TD
 
     style E fill:#bbf,stroke:#f66,stroke-width:2px, color:#fff
 ```
+
+## Core Responsibilities
+
+```mermaid
+graph LR
+    A[Engineering Productivity Team]
+    
+    A --> B[Planning & Reporting]
+    B --> B1[Weekly team reports<br>Providing teams with an overview of their current, planned & unplanned work]
+    B --> B2[Issues & MRs hygiene automation<br>Ensuring healthy issue/MR trackers]
+    
+    A --> C[Development Tools]
+    C --> C1[GitLab Development Kit<br>Providing a reliable development environment]
+    C --> C2[GitLab Remote Development<br>Providing a remote reliable development environment]
+
+    A --> F[Review & CI]
+    F --> F2[Merge Request Review Process<br>Ensuring a smooth, fast and reliable review process]
+    F --> F3[Merge Request Pipelines<br>Providing fast and reliable pipelines]
+    F --> F4[Review apps<br>Providing review apps to explore a merge request changes]
+    
+    A --> D[Maintenance & Security]
+    D --> D1[Automated dependency updates<br>Ensuring dependencies are up-to-date]
+    D --> D2[Automated management of CI/CD secrets<br>Providing a secure CI/CD environment]
+    D --> D3[Automated main branch failing pipelines management<br>Providing a stable `master` branch]
+    D --> D4[Static analysis<br>Ensuring the codebase style and quality is consistent and reducing bikeshedding]
+    D --> D5[Shared CI/CD components<br>Providing CI/CD components to ensure consistency in all GitLab projects]
+    
+    A --> G[JiHu Support]
+```
+
+## KPIs
+
+[Infrastructure Performance Indicators](/handbook/engineering/infrastructure/performance-indicators/) are our single source of truth
+- [Master Pipeline Stability](/handbook/engineering/infrastructure/performance-indicators/#master-pipeline-stability)
+- [Merge request pipeline duration](/handbook/engineering/infrastructure/performance-indicators/#merge-request-pipeline-duration)
+
+### PIs
+
+- [Review App deployment success rate](/handbook/engineering/infrastructure/performance-indicators/#review-app-deployment-success-rate)
+- [Time to First Failure P80](/handbook/engineering/infrastructure/performance-indicators/#time-to-first-failure-p80)
+- [Time to First Failure](/handbook/engineering/infrastructure/performance-indicators/#time-to-first-failure)
+
+### Shared
+
+- [Quality Handbook MR Rate](/handbook/engineering/infrastructure/performance-indicators/#quality-handbook-mr-rate)
+- [Quality Department Promotion Rate](/handbook/engineering/infrastructure/performance-indicators/#quality-department-promotion-rate)
+- [Quality Department Discretionary Bonus Rate](/handbook/engineering/infrastructure/performance-indicators/#quality-department-discretionary-bonus-rate)
+
+## OKRs
+
+Objectives and Key Results (OKRs) help align our sub-department towards what really matters. These happen quarterly and are based on company OKRs. We follow the OKR process defined [here](/handbook/company/okrs/#okr-process-at-gitlab).
+
+Here is an [overview](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&type%5B%5D=objective&label_name%5B%5D=Engineering%20Productivity&first_page_size=100) of our current OKRs.
 
 ### Communication
 
