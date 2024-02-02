@@ -171,17 +171,23 @@ The Engineering Productivity team recently reviewed (2023-05-19) all our project
 | Project | Domain Knowledge | Documentation |
 | ------- | ------------------------------------------ | ----- |
 | GitLab CI Pipeline configuration optimization and stability | Jen-Shin, David, Nao | [Pipelines for the GitLab project](https://docs.gitlab.com/ee/development/pipelines/index.html) |
-| Triaging master-broken | Jenn, Nao, Alina | [Broken Master](/handbook/engineering/workflow/#broken-master) |
-| GitLab Development Kit (GDK) continued development | Ash, Nao | [GitLab Development Kit](https://gitlab.com/gitlab-org/gitlab-development-kit/) |
+| Triaging master-broken | Jenn, Nao | [Broken Master](https://about.gitlab.com/handbook/engineering/workflow/#broken-master) |
+| GitLab Development Kit (GDK) continued development | Nao, Peter | [GitLab Development Kit](https://gitlab.com/gitlab-org/gitlab-development-kit/) |
 | Triage operations for issues, merge requests, community contributions | Jenn, Alina | [triage-ops](https://gitlab.com/gitlab-org/quality/triage-ops/) |
-| Review Apps | David |  [Using review apps in the development of GitLab](https://docs.gitlab.com/ee/development/testing_guide/review_apps.html) |
-| Triage engine, used by GitLab triage operations | ??? | [GitLab Triage](https://gitlab.com/gitlab-org/ruby/gems/gitlab-triage/) |
-| Dangerfiles for shared Danger rules and plugins | ??? | [`gitLab-dangerfiles` Ruby gem](https://gitlab.com/gitlab-org/ruby/gems/gitlab-dangerfiles) for shared [Danger](https://docs.gitlab.com/ee/development/dangerbot.html#danger-bot) rules and plugins |
-| JiHu | Jen-Shin | [JiHu Support](/handbook/ceo/chief-of-staff-team/jihu-support/) |
-| Development department metrics for measurements of Quality and Productivity | ??? | [Development Department Performance Indicators](/handbook/engineering/development/performance-indicators/) |
-| RSpec Profiling Statistics for profiling information on RSpec tests in CI | Alina | [rspec_profiling_stats](https://gitlab.com/gitlab-org/rspec_profiling_stats) |
-| Styles for shared RuboCop cops | ??? | [`gitLab-styles` Ruby gem](https://gitlab.com/gitlab-org/ruby/gems/gitlab-styles) for shared [RuboCop cops](https://docs.gitlab.com/ee/development/contributing/style_guides.html#ruby-rails-rspec) |
-| Feature flag alert for reporting on GitLab feature flags | ??? | [GitLab feature flag alert](https://gitlab.com/gitlab-org/gitlab-feature-flag-alert) |
+| Review Apps | David, Rémy | [Using review apps in the development of GitLab](https://docs.gitlab.com/ee/development/testing_guide/review_apps.html) |
+| Triage engine, used by GitLab triage operations | Jen-Shin, Rémy | [GitLab Triage](https://gitlab.com/gitlab-org/ruby/gems/gitlab-triage/) |
+| Danger & Dangerfiles (includes Reviewer roulette) for shared Danger rules and plugins | Rémy, Jen-Shin, Peter | [`gitLab-dangerfiles` Ruby gem](https://gitlab.com/gitlab-org/ruby/gems/gitlab-dangerfiles) for shared [Danger](https://docs.gitlab.com/ee/development/dangerbot.html#danger-bot) rules and plugins |
+| JiHu | Jen-Shin | [JiHu Support](https://about.gitlab.com/handbook/ceo/chief-of-staff-team/jihu-support/) |
+| Development department metrics for measurements of Quality and Productivity | Jenn, Rémy | [Development Department Performance Indicators](https://about.gitlab.com/handbook/engineering/development/performance-indicators/) |
+| RSpec Profiling Statistics for profiling information on RSpec tests in CI | Peter | [rspec_profiling_stats](https://gitlab.com/gitlab-org/rspec_profiling_stats) |
+| RuboCop & shared RuboCop cops | Peter | [`gitLab-styles` Ruby gem](https://gitlab.com/gitlab-org/ruby/gems/gitlab-styles) for shared [RuboCop cops](https://docs.gitlab.com/ee/development/contributing/style_guides.html#ruby-rails-rspec) |
+| Feature flag alert for reporting on GitLab feature flags | Rémy | [Gitlab feature flag alert](https://gitlab.com/gitlab-org/gitlab-feature-flag-alert) |
+| Chatops (especially for feature flags toggling) | Rémy | [Chatops scripts for managing GitLab.com from Slack](https://gitlab.com/gitlab-com/chatops) |
+| CI/CD variables, Triage ops, and Internal workspaces infrastructure | David, Rémy | [Engineering Productivity infrastructure](https://gitlab.com/gitlab-org/quality/engineering-productivity-infrastructure) |
+| Tokens management | Rémy | ["Rotating credentials" runbook](https://gitlab.com/gitlab-org/quality/engineering-productivity/team/-/blob/main/runbooks/rotating-credentials.md) |
+| Gems management | Rémy | [Rubygems committee project](https://gitlab.com/gitlab-dependency-committees/rubygems-committee) |
+| Shared CI/CD config & components | David, Rémy | [`gitlab-org/quality/pipeline-common` project](https://gitlab.com/gitlab-org/quality/pipeline-common) |
+| Dependency management (Gems, Ruby, Vue, etc.) | Jen-Shin, Peter | [Renovate GitLab bot](https://gitlab.com/gitlab-org/frontend/renovate-gitlab-bot) |
 
 ### Metrics
 
