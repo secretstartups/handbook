@@ -29,15 +29,15 @@ Team members in the Security Assurance Department at GitLab are customer and ris
 
 ## Levels
 
-### Engineer, Security Assurance (Intermediate)
+### Security Assurance Engineer (Intermediate)
 
 This position reports to the manager of the corresponding Security Assurance specialty.
 
-#### Engineer, Security Assurance (Intermediate) Job Grade
+#### Security Assurance Engineer (Intermediate) Job Grade
 
-The Engineer, Security Assurance (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Security Assurance Engineer (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-##### Engineer, Security Assurance (Intermediate) Responsibilities
+##### Security Assurance Engineer (Intermediate) Responsibilities
 
 - Proven ability to successfully communicate with cross-functional teams
 - Proven ability to successfully operate in an all-remote environment
@@ -54,7 +54,7 @@ Candidates for the engineer (intermediate) positions can expect the hiring proce
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
-#### Engineer, Security Assurance (Intermediate) Specialties
+#### Security Assurance Engineer (Intermediate) Specialties
 
 ##### Security Assurance Automation
 
@@ -153,17 +153,17 @@ Additional details about our process can be found on our [hiring page](/handbook
 - Demonstrated experience with at least two security control frameworks such as: SOC 2, ISO, NIST, COSO, COBIT
 - Working understanding of how security works with cloud-native technology stacks
 
-### Senior Engineer, Security Assurance
+### Senior Security Assurance Engineer
 
 This position reports to the manager of the corresponding Security Assurance specialty.
 
-#### Senior Engineer, Security Assurance Job Grade
+#### Senior Security Assurance Engineer Job Grade
 
-The Senior Engineer, Security Assurance is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Security Assurance Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Senior Engineer, Security Assurance Responsibilities
+#### Senior Security Assurance Engineer Responsibilities
 
-- The responsibilities of an Engineer, Security Assurance (Intermediate), plus;
+- The responsibilities of a Security Assurance Engineer (Intermediate), plus;
 - Proven ability to successfully operate independently and drive tasks to completion with minimal oversight.
 
 #### Hiring Process
@@ -178,7 +178,7 @@ Candidates for the senior engineer positions can expect the hiring process to fo
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
-#### Senior Engineer, Security Assurance Specialties
+#### Senior Security Assurance Engineer Specialties
 
 ##### Security Assurance Automation
 
@@ -292,17 +292,17 @@ Additional details about our process can be found on our [hiring page](/handbook
 - Demonstrated experience with at least four security control frameworks such as: SOC 2, ISO, NIST, COSO, COBIT
 - Demonstrated industry security experience, particularly in DevSecOps, Application Security and/or Cloud-Native Security
 
-### Staff Engineer, Security Assurance
+### Staff Security Assurance Engineer
 
 This position reports to the manager of the corresponding Security Assurance specialty.
 
-#### Staff Engineer, Security Assurance Job Grade
+#### Staff Security Assurance Engineer Job Grade
 
-The Senior Engineer, Security Assurance is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Security Assurance Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Staff Engineer, Security Assurance Responsibilities
+#### Staff Security Assurance Engineer Responsibilities
 
-- The responsibilities of a Senior Engineer, Security Assurance, plus;
+- The responsibilities of a Senior Security Assurance Engineer, plus;
 - Proven ability to successfully develop and drive projects to completion at the team and department levels.
 
 #### Hiring Process
@@ -317,7 +317,7 @@ Candidates for the staff engineer positions can expect the hiring process to fol
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
-#### Staff Engineer, Security Assurance Specialties
+#### Staff Security Assurance Engineer Specialties
 
 ##### Security Assurance Automation
 
