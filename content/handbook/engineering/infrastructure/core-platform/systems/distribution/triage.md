@@ -238,7 +238,8 @@ Note that we are in the process of automating issue creation for every time a cr
 1. Check if an issue was automatically created for it. If not, please create one.
 1. Link the issue in the inital Slack message so that everybody contributing to solve the problem can use the issue as a single source of truth.
 1. Once you started investigating the issue, add the `pipeline failure::under investigation` label to it.
-1. If you managed to fix the problem, close the issue.
+1. Comment on the issue with the following format: `@gitlab-bot retry_job <job-id>`. This will trigger [triage-ops bot](https://gitlab.com/gitlab-org/quality/triage-ops) to retry the given job without requiring you to have Maintainer permissions on the project.
+1. Repeat the retry command as needed. If this causes the failed job(s) to pass, close the issue. If not, either fix the root cause manually and retry again, or create a new related issue to track the root cause.
 1. If you managed to mitigate the problem and make the pipeline pass, but the issue could comeback in the future, then:
   - Write a comment explaining which actions did you take to mitigate it.
   - Check if there's an existing follow-up issue to investigate/implement a definitive fix for the problem, and link it to this pipeline issue failure. If the such a follow-up issue does not yet exist, create one and link it.

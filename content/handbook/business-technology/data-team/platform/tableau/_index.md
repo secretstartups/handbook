@@ -115,53 +115,66 @@ The top-level folders in our Tableau Project, and their corresponding levels of 
 <summary><b>Project Architecture</b></summary>
 
 1. **Resources**
-    1. **Workbook Templates**
-    1. **Data Sources**
+    1. **General**
+        1. **Admin Insights**
+            1. Admin Insights Starter
+        2. **Templates**
+            1. Workbook Template
+        3. Data Source Name
+    1. **SAFE**
+        1. Data Source Name
 1. **Development** (Sandbox Environment)
     1. **Customer Success**
+        1. **General**
+            1. Data Source Name
+            2. Workbook Name
         1. **SAFE**
-            1. Workbook Name
+            1. Data Source Name
+            2. Workbook Name
         1. Workbook Name
-    2. **Sales**
-    3. **Marketing**
+    2. **Data Team**
+    3. **Engineering**
     4. **Finance**
-    5. **Data Team**
-    6. etc.
+    5. **Go To Market**
+    6. **Marketing**
+    7. **People**
+    8. **Product**
+    9. **Sales**
+    10. **Security**
 1. **Ad-hoc** (Maps to our [Ad-Hoc Data Development Process](/handbook/business-technology/data-team/data-development/#ad-hoc-data-development))
     1. **Customer Success**
+        1. **General**
+            1. Data Source Name
+            2. Workbook Name
         1. **SAFE**
-            1. CS: Workbook Name
-        1. CS: Workbook Name
-        1. **Data Sources**
-            1. CS: Data Source Name
-            1. CS: Virtual Connection Name
-1. **Production** (Maps to our [Trusted Data Development Process](/handbook/business-technology/data-team/data-development/#trusted-data-development)
-    1. **Go To Market**
-        1. **SAFE**
-            1. GTM: Workbook Name
-        1. GTM: Workbook Name
-        1. **Data Sources**
-            1. GTM: Data Source Name
-            1. GTM: Virtual Connection Name
-    1. **Team Member**
-        1. **SAFE**
-            1. Team Member: Workbook Name
-        1. Team Member: Workbook Name
-        1. **Data Sources**
-            1. Team Member: Data Source Name
-            1. Team Member: Virtual Connection Name
-    1. **Customer Success**
-        1. **SAFE**
-            1. CS: Workbook Name
-        1. CS: Workbook Name
-        1. **Data Sources**
-            1. CS: Data Source Name
-            1. CS: Virtual Connection Name
-    2. **Sales**
-    3. **Marketing**
+            1. Data Source Name
+            2. Workbook Name
+    2. **Data Team**
+    3. **Engineering**
     4. **Finance**
-    5. **Data Team**
-    6. etc.
+    5. **Go To Market**
+    6. **Marketing**
+    7. **People**
+    8. **Product**
+    9. **Sales**
+    10. **Security**
+1. **Production** (Maps to our [Trusted Data Development Process](/handbook/business-technology/data-team/data-development/#trusted-data-development)
+    1. **Customer Success**
+        1. **General**
+            1. Data Source Name
+            2. Workbook Name
+        1. **SAFE**
+            1. Data Source Name
+            2. Workbook Name
+    2. **Data Team**
+    3. **Engineering**
+    4. **Finance**
+    5. **Go To Market**
+    6. **Marketing**
+    7. **People**
+    8. **Product**
+    9. **Sales**
+    10. **Security**
 
 </details>
 
@@ -174,15 +187,15 @@ Please see the [project-permission-structure](/handbook/business-technology/data
 | Data: BI Platform             | `@ttnguyen28`, `@iweeks`, `@pempey`, `@nmcavinue`, `@snalamaru` | Top Level Project Leader | Maintainer |
 | Data                          | `@ttnguyen28`, `@iweeks`, `@pempey`, `@nmcavinue`               | Sub-Project Leader       | Code Owner |
 | Customer Success              | `@bbutterfield`, `@marntz`                                      | Sub-Project Leader       | Code Owner |
-| Marketing                     | `@degan`                                      | Sub-Project Leader       | Code Owner |
+| Marketing                     | `@degan`                                                        | Sub-Project Leader       | Code Owner |
 | People                        | `@aperez349`, `@mccormack514`                                   | Sub-Project Leader       | Code Owner |
 | Product                       | `@cbraza`, `@dpeterson1`                                        | Sub-Project Leader       | Code Owner |
 | Engineering                   | `@cdeleon_gitlab`, `@gitlab-org/quality/engineering-analytics`  | Sub-Project Leader       | Code Owner |
-| Sales                         | `@leework`                                                      | Sub-Project Leader       | Code Owner |
+| Sales                         | `@leework`, `@nfiguera`                                         | Sub-Project Leader       | Code Owner |
 | Finance: GTM Finance          | `@alixtucker`, `@nbernardo`, `@vagrawalg`                       | Sub-Project Leader       | Code Owner |
 | Finance: Corporate Finance    | `@james.shen`, `@vagrawalg`                                     | Sub-Project Leader       | Code Owner |
 | Security                      | `TBD`                                                           | Sub-Project Leader       | Code Owner |
-| Go To Market                  | `@leework`, `@christinelee`, `@alixtucker`, `@nbernardo`, `@nmcavinue`, `@vagrawalg` | Sub-Project Leader | Code Owner |
+| Go To Market                  | `@leework`, `@christinelee`, `@alixtucker`, `@nbernardo`, `@nmcavinue`, `@vagrawalg`,  `@degan`, `@nfiguera` | Sub-Project Leader | Code Owner |
 | Team Member                   | `@aperez349`, `@james.shen`, `@vagrawalg`, `@nmcavinue`         | Sub-Project Leader       | Code Owner |
 
 1. **Top Level Project Leader / Maintainer Responsibilities:** The Top Level Project leaders come from the BI Platform Team. These leaders are responsible for publishing content in the Sub-Projects that role up to the Top Level Projects and are responsible for maintaining the GitLab Tableau Project. This role does not specifically include Tableau Online Site Administration responsibilities although several Top Level Project Leaders are also [Tableau Online Site Admins](/handbook/business-technology/data-team/platform/tableau/#tableau-online-admins).
@@ -538,19 +551,7 @@ Unused licenses will be reclaimed by the Data Team.
 
 Users can request access by creating an issue in the [access requests project](https://gitlab.com/gitlab-com/team-member-epics/access-requests) documenting the level of access required and assigning it to a designated [Tableau Online admin](/handbook/business-technology/data-team/platform/tableau/#tableau-online-admins) after acquiring manager approval. To make a request, please navigate to the **Choose a template** dropdown menu and select the **Tableau_Request** template to get your AR started.
 
-All users will be given access to their Division's sub-project by default. For access to another team's space please submit your request in a [Tableau Project issue](https://gitlab.com/gitlab-data/tableau/-/issues) via the **All Requests** template and tag the designated Lead Approver(s) for that team from below for approval in your issue:
-
-| **Team / Department** | **Approver(s) / Project Leader** |
-| ------- |------- |
-| Customer Success  | `@bbutterfield`, `@marntz` |
-| Data & Business Insights  | `@ttnguyen28` |
-| Marketing         | `@jahye1` |
-| People            | `@aperez349`, `@mccormack514` |
-| Product           | `@cbraza`, `@dpeterson1` |
-| Sales             | `@leework` |
-| Finance: GTM Finance  | `@nbernardo` |
-| Finance: Corporate Finance | `@james.shen` |
-| Security          | `TBD` |
+All users will be given access to their Division's sub-project by default. For access to another team's space please submit your request in a [Tableau Project issue](https://gitlab.com/gitlab-data/tableau/-/issues) via the **All Requests** template and tag the designated Lead Approver(s) for that team from the [BIOps Roles and Responsibilities](https://handbook.gitlab.com/handbook/business-technology/data-team/platform/tableau/#biops-roles-and-responsibilities) section for approval in your issue.
 
 Tableau Desktop users will also need a Yubikey set up in Okta to access content published in Tableau Online. Due to our new security method that only accepts Biometric or Yubikey for authentication, please request a Yubikey via the [Yubibot](/handbook/it/guides/yubikey/) to ensure that logging into Tableau will be secure and smooth. Currently biometrics are not supported yet in Tableau Desktop.
 

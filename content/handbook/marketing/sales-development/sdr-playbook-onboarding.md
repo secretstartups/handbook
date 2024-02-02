@@ -45,8 +45,8 @@ For BDRs and SDRs joining GitLab on the 15th or after of the month
 Quota and compensation will be assigned by the BDR/SDR Manager and discussed in the first 1:1. If a fully ramped BDR/SDR transfers BDR/SDR teams they will have a 50% ramp for month 1 and 100% quota for month 2.
 
 ## Sales Development Onboarding Resources
-- [Adding yourself to the team page](/handbook/git-page-update/#12-add-yourself-to-the-team-page)
-- [Making changes/edits to the handbook](/handbook/git-page-update/#editing-the-handbook)
+- [Adding yourself to the team page](/handbook/editing-handbook/#add-yourself-to-the-team-page)
+- [Making changes/edits to the handbook](/handbook/editing-handbook/#editing-the-handbook)
 - Questions about a handbook edit? Use the slack channels #handbook or #mr-buddies
 - Questions about onboarding? Drop them in the #new_team_members slack channel
 

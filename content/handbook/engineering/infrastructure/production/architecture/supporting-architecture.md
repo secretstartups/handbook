@@ -1,6 +1,7 @@
 ---
 aliases: /handbook/engineering/infrastructure/production/architecture/supporting-architecture.html
 title: "Supporting Architecture"
+controlled_document: true
 ---
 
 This document covers architectures that support GitLab.com functions, but are not user facing and are managed by the [Infrastructure teams](../).

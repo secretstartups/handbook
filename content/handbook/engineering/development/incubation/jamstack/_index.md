@@ -5,7 +5,7 @@ title: Jamstack Single-Engineer Group
 
 ## Jamstack Single-Engineer Group
 
-The Jamstack SEG is a [Single-Engineer Group](/handbook/company/team/structure/#single-engineer-groups) within our [Incubation Engineering Department](/handbook/engineering/development/incubation/).
+The Jamstack SEG is a [Single-Engineer Group](/handbook/company/structure/#single-engineer-groups) within our [Incubation Engineering Department](/handbook/engineering/development/incubation/).
 
 This group's mission is to enable Frontend developers to build, deploy and manage externally facing, static websites using Jamstack architecture in a simple, configurable and scalable way.
 

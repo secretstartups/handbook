@@ -55,6 +55,20 @@ In the unfortunate event that a GitLab team member passes away, GitLab will prov
   - The team member must have indicated in writing to whom the money should be transferred. To do this you must complete the [Expression of wishes](https://docs.google.com/document/d/19p4IN-msvs4H10teBessfPx-1wu8J7Vs67Es8iVLlL8/edit?usp=sharing) form. To do this, first copy the template to your Google Drive (File -> Make a copy), enter your information, sign electronically. To sign the document, use a free document signing program like [smallpdf](https://smallpdf.com/sign-pdf); or you can print it, sign and digitize. Sign, save as a pdf and upload to your Documents folder in Workday - [here](https://docs.google.com/document/d/19B0lsMu7dMhof1ghPuBxHP23DuDqi2qpWF8pCWyEUN4/edit) is the job aid for quick reference.
   - For part-time GitLab team members, the lump sum is calculated pro-rata, so for example for a team member that works for GitLab 50% of the time, the lump sum would be [$10,000]({{< ref "compensation#exchange-rates" >}}).
 
+## Discount Wellbeing Platform
+
+Starting 2024, GitLab has partnered with HealthKick, a global wellbeing platform providing Team Members discounts across wellbeing, fitness, & overall lifestyle offerings/services.
+- *This program is offered at no cost for team members.
+
+We know that whole-person wellness is important for feeling good. That’s why we are offering all employees access to HealthKick (at no-cost), a personal wellness membership dedicated to helping you feel your best. When you enroll you’ll gain access to an array of 250+ brands, content and expert resources that will help you optimize your well-being. From fitness classes and personalized workout plans to nutrition workshops and mental health resources.
+
+Please review HealthKick's member resources and the self-registration link/instructions to enroll with anytime throughout the year.
+[Gitlab self-registration link](https://www.health-kick.com/companies/1004/registration)
+[HealthKick Overview](https://drive.google.com/file/d/1AitsrkUDA66UV5xZsv5ooqxmr7BpxlLh/view)
+[HealthKick Welcome Packet](https://drive.google.com/file/d/1_vdASrSSzztvEwM7NOx_szEPYMkPBiiA/view?usp=sharing)
+
+If team members have any questions about this service or would like to cancel this service, please reach out to the HealthKick support team via `concierge@health-kick.com`.
+
 ## Financial Wellness
 
 GitLab offers resources related to [Financial Wellness]({{< ref "financial-wellness" >}}) to support team members in their financial journey.

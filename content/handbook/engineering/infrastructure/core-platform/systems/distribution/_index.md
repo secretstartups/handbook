@@ -116,7 +116,7 @@ The following people are members of the Distribution:Deploy Team:
 
 ### Stable counterparts
 
-The following members of other functional teams are our [stable counterparts](/handbook/company/team/structure/#stage-groups):
+The following members of other functional teams are our [stable counterparts](/handbook/company/structure/#stage-groups):
 
 {{< stable-counterparts manager-role="Backend Engineering Manager, Distribution" role="Core Platform:Distribution" >}}
 
@@ -221,7 +221,7 @@ graph TD
 
 
 | Name | Location | Description |
-| -------- | -------- |
+| -------- | -------- | -------- |
 | Omnibus GitLab | [gitlab-org/omnibus-gitlab](https://gitlab.com/gitlab-org/omnibus-gitlab) | Build Omnibus packages with HA support for LTS versions of all major Linux operating systems such as Ubuntu, Debian, CentOS/RHEL, OpenSUSE, SLES |
 | Docker All in one GitLab image | [gitlab-org/omnibus-gitlab/docker](https://gitlab.com/gitlab-org/omnibus-gitlab/tree/master/docker) | Build Docker images for GitLab CE/EE based on the omnibus-gitlab package |
 | GitLab Helm Chart | [gitlab-org/charts/gitlab](https://gitlab.com/gitlab-org/charts/gitlab) | Cloud Native GitLab Helm Charts |

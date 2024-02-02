@@ -48,6 +48,7 @@ The host and Q&A panelist should start/join the webinar at least 10 minutes befo
 
 The Scale Program Manager will handle all pre- and post-webinar communication with the attendees.
 
+Here is a quick video guide on how to host the webinar, including steps for sharing the local webinar video file through zoom: [Quick Guide Video](https://drive.google.com/file/d/1kjntQ_ZzSDTmThP1XvYEARSCS4cjS6XM/view)
 
 #### Preparing for and Delivering a Hands-on Lab
 

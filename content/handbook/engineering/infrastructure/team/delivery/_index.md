@@ -100,25 +100,25 @@ The group regularly works on the following tasks, in the order of priority:
 
 ## Teams
 
-The Delivery Group is composed of two teams: `Delivery:Orchestration` and `Delivery:System`.
+The Delivery Group is composed of two teams: `Delivery::Releases` and `Delivery::Deployments`.
 
-The Delivery:Orchestration and Delivery:System OKRs, while contributing to the wider GitLab objectives, are tailored and structured to achieve the [Delivery Group Strategy](#strategy) as a single team.
+The Delivery::Releases and Delivery::Deployments OKRs, while contributing to the wider GitLab objectives, are tailored and structured to achieve the [Delivery Group Strategy](#strategy) as a single team.
 
-### Delivery:Orchestration
+### Delivery::Releases
 
-The primary goal of the Orchestration team is to provide functionality to enable stage groups to adopt self-serve deployments and releases.
+The primary goal of the Releases team is to provide everything to do with creating GitLab releases for customers and enabling internal customers to get their changes into releases. Major, minor and patch releases as well as a platform on which we can verify changes to various installation types (release environments) and create visibility for GitLab team members and customers into our release schedule (release dashboard)
 
-### Delivery:System
+### Delivery::Deployments
 
-The primary goal of the System team is to provide a flexible and stable deployment platform onto which the application can be effectively and efficiently deployed.
+The primary goal of the Deployments team is to provide everything to do with rolling out changes to active platforms managed by GitLab, including but not limited to continuous deployment to GitLab.com (deployment safety), changing gitlab.com architecture to support continuous deployment (eliminate staging 🤞 ) and thinking about how to optimise the rollout experience (zero downtime work)
 
 ### Team Members
 
-The following people are members of the Delivery:Orchestration Team:
+The following people are members of the Delivery::Releases Team:
 
 {{< team-by-manager-slug "mbursi" >}}
 
-The following people are members of the Delivery:System Team:
+The following people are members of the Delivery::Deployments Team:
 
 {{< team-by-manager-slug "dave-smith" >}}
 
@@ -149,39 +149,47 @@ The Delivery Group owns the tools and capabilities needed for GitLab deployments
 
 Release Managers are members of the Delivery group but during their time as release managers they're wearing a different hat. The primary customer is GitLab users
 
-1. Auto-deploys: Release Managers operate the auto-deploy process. Largely this will make use of capabilities provided by the Orchestration team, but the Orchestration tools will be making use of the System team capabilities. Environment health checks are an example of a System capability that will be integral to the process and tools the release managers use.
-2. Self-managed releases: Release Managers operate the release processes (patch and security) using the capabilities provided by the Orchestration team.
-3. Post-deploy migrations: Release Managers operate the PDM process using the capabilities provided by the Orchestration team.
-4. Hot patch process: Release Managers, working with EOCs, will manage the hot patch process. Hot patch capabilities are provided by the Orchestration team with heavy dependence on System capabilities due to the shortened process and therefore reduced pipeline jobs.
-5. Deployment blockers: Release Managers are responsible for identifying, and reporting on deployment blockers in order to provide Orchestration and System with data needed to plan improvements.
-6. Release Manager dashboards: Release Managers own <https://dashboards.gitlab.net/d/delivery-release_management/delivery-release-management?orgId=1> plus have the freedom to create any additional dashboards that they think would be useful for release management. The data needed for dashboards will be made available from a centralized place, owned by System (see point 18).
+1. Auto-deploys: Release Managers operate the auto-deploy process. Largely this will make use of capabilities provided by the Deployments team, but the Orchestration tools will be making use of the Deployments team capabilities. Environment health checks are an example of a Deployments capability that will be integral to the process and tools the release managers use.
+2. Self-managed releases: Release Managers operate the release processes (patch and security) using the capabilities provided by the Releases team.
+3. Post-deploy migrations: Release Managers operate the PDM process using the capabilities provided by the Deployments team.
+4. Hot patch process: Release Managers, working with EOCs, will manage the hot patch process. Hot patch capabilities are provided by the Releases team with heavy dependence on Deployments capabilities due to the shortened process and therefore reduced pipeline jobs.
+5. Deployment blockers: Release Managers are responsible for identifying, and reporting on deployment blockers in order to provide the teams with data needed to plan improvements.
+6. Release Manager dashboards: Release Managers own <https://dashboards.gitlab.net/d/delivery-release_management/delivery-release-management?orgId=1> plus have the freedom to create any additional dashboards that they think would be useful for release management. The data needed for dashboards will be made available from a centralized place, owned by Deployments.
 
-### Delivery:Orchestration ownership
+### Delivery::Releases ownership
 
-The primary customers of the Orchestration team are the internal GitLab users who want to deploy & release changes i.e., Release Managers and Stage Groups.
+The primary customers of the Releases team are:
+ - the internal GitLab users who want to deploy & release changes i.e., 
+ - Release Managers and Stage Groups.
+ - customers for the monthly Release
 
-7. Deployment changelock: Orchestration will make sure that all deployments observe planned and ad-hoc changelocks. Examples include PCLs, S1/S2 incidents, as well as other Change Requests.
-8. Pipeline visibility: Providing visibility of pipeline configuration, status, and outcome.
-9. Deployment change management tooling: Providing the ability for changes to be included, or excluded from deployments.
-10. Release change management tooling: Providing the ability for changes to be included, or excluded from releases to Self-Managed users.
-11. Deployment execution log: Ensuring that an accurate log of deployments is maintained.
-12. Deployment & release metadata: Tracking component versions and dependencies to allow for quality gates to be accurate, and to ensure predictable releases.
-13. QA test execution & results visibility: Ensuring that all deployments and releases pass the required testing. Orchestration will be particularly concerned with timing of test execution and making sure that the correct dependencies are in place for reliable results.
-14. Deployment dashboards: Orchestration will own a set of dashboards to guide the team's work on designing effective deployment and release processes. Dashboards, or templates, will also be needed to evaluate the effectiveness of individual deployment and release pipelines.
+7. Release metrics: Providing A centralized store for metrics related to releases. Deployments will primarily be concerned with providing a metrics capability to allow all deployment pipelines to record metrics in a useful way to fuel all required dashboards.
+8. Releases/Packages Pipeline visibility: Providing visibility of pipeline configuration, status, and outcome.
+9. Release change management tooling: Providing the ability for changes to be included, or excluded from releases to Self-Managed users.
+10. Release/packaging execution log: Ensuring that an accurate log of releases is maintained.
+11. Deployment & release metadata: Tracking component versions and dependencies to allow for quality gates to be accurate, and to ensure predictable releases.
+12. QA test execution & results visibility: Ensuring that all deployments and releases pass the required testing. Releases will be particularly concerned with timing of test execution and making sure that the correct dependencies are in place for reliable results.
+13. Releases dashboards: Delivery::Releases will own a set of dashboards to guide the team's work on designing effective release processes. Dashboards, or templates, will also be needed to evaluate the effectiveness of individual release pipelines.
+14. Release Publishing: publishing packages to various distribution sites (e.g., packages.gitlab.com, Docker Hub, etc.), publishing tooling, and guaranteeing a reliable publishing process.
 
-### Delivery:System ownership
+### Delivery::Deployments ownership
 
-The primary customer of the System team is the Delivery::Orchestration team.
+The primary customers of the Deployments team are:
+ - Release managers who rely on the deployment tooling
+ - GitLab SaaS (GitLab.com, Dedicated and Cells) customers expecting deployments of updated code to their various infrastructures.
 
-15. Environment changelock: System will make sure that environments can be locked to schedule, or on an ad-hoc basis if required by planned maintenance or poor environment health. Guaranteeing that changes are rolled out in a predictable way will also be a System responsibility.
-16. Environment health: Ensuring that environment health is assessed and available to guide deployment decisions.
-17. Release & deployment metrics: Providing A centralized store for metrics related to deployments & releases. System will primarily be concerned with providing a metrics capability to allow all deployment and release pipelines to record metrics in a useful way to fuel all required dashboards.
-18. Application rollout: System will be responsible for applying changes to the required clusters and environments. Rollout strategies, e.g., canary, blue/green, with gradual traffic increase etc, will be capabilities provided by System.
-19. Release Publishing: publishing packages to various distribution sites (e.g., packages.gitlab.com, Docker Hub, etc.), publishing tooling, and guaranteeing a reliable publishing process.
-20. Rollout dashboards: System will own a set of dashboards to guide the team's work on managing effective rollouts to all environments. Examples could include the timing of changes applied to individual servers and visibility into environment use.
-21. Canary environments: System will own the rollout capability of the canary environments. They'll work closely with Reliability to ensure full environment management.
-22. Deployment and release test environments: Pre, Staging, Release: System will own the rollout capability of the test environments. They'll work closely with Reliability to ensure full environment management.
-23. Deployment and release production environment: System will own the rollout capability of the Production environment. They'll work closely with Reliability to ensure full environment management.
+15. Deployment changelock: will make sure that all deployments observe planned and ad-hoc changelocks. Examples include PCLs, S1/S2 incidents, as well as other Change Requests.
+16. Environment changelock: will make sure that environments can be locked to schedule, or on an ad-hoc basis if required by planned maintenance or poor environment health. Guaranteeing that changes are rolled out in a predictable way will also be a Deployments responsibility.
+17. Environment health: Ensuring that environment health is assessed and available to guide deployment decisions.
+18. Release & deployment metrics: Providing A centralized store for metrics related to deployments & releases. Deployments will primarily be concerned with providing a metrics capability to allow all deployment and release pipelines to record metrics in a useful way to fuel all required dashboards.
+19. Deployment change management tooling: Providing the ability for changes to be included, or excluded from deployments.
+20. Deployment execution log: Ensuring that an accurate log of deployments is maintained.
+21. Application rollout: will be responsible for applying changes to the required clusters and environments. Rollout strategies, e.g., canary, blue/green, with gradual traffic increase etc, will be capabilities provided by Deployments.
+22. Rollout dashboards: will own a set of dashboards to guide the team's work on managing effective rollouts to all environments. Examples could include the timing of changes applied to individual servers and visibility into environment use.
+23. Canary environments: will own the rollout capability of the canary environments. They'll work closely with Reliability to ensure full environment management.
+24. Deployment and release test environments: Pre, Staging, Release: will own the rollout capability of the test environments. They'll work closely with Reliability to ensure full environment management.
+25. Deployment and release production environment: will own the rollout capability of the Production environment. They'll work closely with Reliability to ensure full environment management.
+26. Deployment dashboards: Delivery::Deployments will own a set of dashboards to guide the team's work on designing effective deployment processes. Dashboards, or templates, will also be needed to evaluate the effectiveness of individual deployment and release pipelines.
 
 ## How we work
 
@@ -252,7 +260,8 @@ By default, an issue needs to have a:
 
 1. Workflow Label - Default: `workflow-infra::Triage`
 1. Priority Label - Default: `Delivery::P4`
-1. Team Label - `group::delivery`
+1. Group Label - `group::delivery`
+1. Team Label - `team::Delivery-Deployments` or `team::Delivery-Releases`
 1. Other Label - project or team management related label.
 
 #### Workflow
@@ -316,9 +325,9 @@ Project labels are defined as needed, but they are required unless the issue des
 
 Incidents impacting Delivery may optionally include an [impact label](/handbook/engineering/releases/#delivery-impact-labels).
 
-#### Delivery:System-specific ways of working
+#### Delivery:Deployments specific ways of working
 
-In addition to the Epics, Issue Boards, Labels, and Workflow practices common to the entire team, the Delivery:System team adopts a few extra approaches to improve its communication and better share knowledge and decisions within the team.
+In addition to the Epics, Issue Boards, Labels, and Workflow practices common to the entire team, the Delivery::Deployments team adopts a few extra approaches to improve its communication and better share knowledge and decisions within the team.
 
 - Each Epic should contain a `Decision Log`: this helps to keep a single, centralized SSOT where all decisions taken during project work are listed. For completeness, we should report the date of the decision,
 who was involved in the discussion and decision, and the outcome of the decision.
@@ -427,6 +436,7 @@ Prior to 2020, the team impact overview was created in Slack, and in the years t
 1. [Year overview for 2020](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/1446)
 1. [Year overview for 2021](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/2171)
 1. [Year overview for 2022](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/2726)
+1. [Year overview for 2023](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/19887)
 
 [delivery issue tracker]: https://gitlab.com/gitlab-com/gl-infra/delivery
 [team training]: /handbook/engineering/infrastructure/team/delivery/training/

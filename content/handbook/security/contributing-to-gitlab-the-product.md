@@ -2,7 +2,7 @@
 title: "Contributing to GitLab the Product as a Security Team Member"
 ---
 
-## Security Engineering Code Contributions
+## Product Security Code Contributions
 
 Security Engineers typically act as Subject Matter Experts and advisors to GitLab's engineering teams. Security Engineers may wish to make a larger contribution to GitLab products, for example a defense-in-depth measure or new security feature.
 

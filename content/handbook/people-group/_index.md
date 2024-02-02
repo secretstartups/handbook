@@ -192,7 +192,6 @@ Please note that the source of truth for role responsibilites is the job family 
 | [Anniversary Emails]({{< ref "celebrations#anniversary-gifts" >}}) | Last day of the month |
 | Slack and Email Queries | Within 12 - 24 hours |
 | [Probation Period Notifications]({{< ref "contracts-probation-periods#probation-period" >}}) | Daily (when applicable) |
-| [Evaluate onboarding surveys]({{< ref "people-group-metrics#onboarding-satisfaction-osat" >}}) | As responses are submitted |
 | [Determining quarterly winners of the onboarding buddy program]({{< ref "onboarding-buddies" >}}) | Last week of each quarter |
 | [People Connect Shadow Program]({{< ref "people-connect-shadow-program" >}}) | As requested by other team members |
 | [Contract Renewals]({{< ref "contracts-probation-periods#contract-renewals" >}}) | 30 days or more prior to team member's renewal date |
@@ -246,9 +245,9 @@ Administrative access to CultureAmp will be limited based on role and responsibi
 - Survey Creator administrator access can create, manage and design surveys, select participants and share results.
 - Survey data analyst administrator can export raw data from all surveys enabled for raw data extract.
 
-To request access please open an access request with the type of account [access requested](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#how-do-i-choose-which-template-to-use) and the business need. You can assign the access request to Anesia Chan `@anechan` and Laura Janssen `@Laura-Janssen (as backup) for review and approval. The default admin access will be the Survey Creator administration rights unless other access is specified. Please note that Survey Data Analyst admin rights will not be granted to team members outside of the People group with out permission from the Chief People Officer.
+To request access please open an access request with the type of account [access requested](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#how-do-i-choose-which-template-to-use) and the business need. You can assign the access request to Anesia Chan `@anechan` and Laura Janssen `@Laura-Janssen` (as backup) for review and approval. The default admin access will be the Survey Creator administration rights unless other access is specified. Please note that Survey Data Analyst admin rights will not be granted to team members outside of the People group with out permission from the Chief People Officer.
 
-If you need assistance reviewing your CultureAmp Survey, please complete this [issue template](https://gitlab.com/gitlab-com/people-group/people-operations/General/-/blob/master/.gitlab/issue_templates/Survey-Review.md) to alert the People Connect Team.
+If you need support with a specific CultureAmp Survey, please complete this [issue template](https://gitlab.com/gitlab-com/people-group/people-analytics/general/-/blob/main/.gitlab/issue_templates/survey_request.md) to alert the People Analytics Team.
 
 ## Other pages related to the People Group
 
@@ -280,7 +279,7 @@ If you need assistance reviewing your CultureAmp Survey, please complete this [i
 
 - [Learning & Development]({{< ref "learning-and-development" >}})
 - [Guidance on Feedback]({{< ref "guidance-on-feedback" >}})
-- [Active Listening]({{< ref "/handbook/people-group/learning-and-development/manager-coaching-and-leadership-resources#demonstrating-active-listening" >}})
+
 
 ### Diversity, Inclusion and Belonging
 

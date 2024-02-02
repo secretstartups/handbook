@@ -37,6 +37,12 @@ Process to be added below.
 | [Kevin Chu](/handbook/company/team/#kevinchu) | Product DRI |
 | [Lin Jen-Shin](/handbook/company/team/#godfat) | Engineering Facilitator |
 
+### JiHu engineering contact
+
+[MAO Chao](https://gitlab.com/chaomao) is the JiHu engineering contact
+for GitLab Inc. When GitLab Inc makes changes which requires JiHu to also
+change, MAO can help coordinate.
+
 ### Projects
 
 JiHu team projects are located at <https://jihulab.com/gitlab-cn/>. Mirrored projects for `gitlab-org` tooling and compliance checks are available at <https://gitlab.com/gitlab-org/gitlab-jh-mirrors/>.
@@ -181,4 +187,4 @@ We differentiate proprietary features for JiHu distributions by including them i
 
 - [GitLab licensed its technology to new independent Chinese company](https://about.gitlab.com/blog/2021/03/18/gitlab-licensed-technology-to-new-independent-chinese-company/)
 - [GitLab licensing technology to independent Chinese company FAQ](/handbook/faq-gitlab-licensing-technology-to-independent-chinese-company/)
-- [China Service Working Group](/handbook/company/team/structure/working-groups/china-service/)
+- [China Service Working Group](/handbook/company/working-groups/china-service/)

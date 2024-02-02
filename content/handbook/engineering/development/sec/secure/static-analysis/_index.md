@@ -178,7 +178,7 @@ We also utilize Sisense for long-term trend forecasting. While this is not a rec
 
 #### Runbooks
 
-The process for monitoring, responding to, and mitigating incidents is documented within our [Static Analysis Runbooks](/handbook/engineering/development/sec/secure/static-analysis/runbooks.html) page.
+The process for monitoring, responding to, and mitigating incidents is documented within our [Static Analysis Runbooks](runbooks/) page.
 
 ### Software delivery in Static Analysis
 
@@ -237,6 +237,8 @@ allow one week of time for tech debt cleanup, feature stabilization, and enginee
 We are responsible to ensure that what we deliver is secure. This means that we dogfood GitLab's Security
 features.
 
+See the [Secure sub-department vulnerability management process](/handbook/engineering/development/sec/secure/#vulnerability-management-process).
+
 When creating an issue for a vulnerability, please make sure to follow
 the [Engineering Security instructions](/handbook/security/engaging-with-security/#creating-new-security-issues).
 
@@ -255,6 +257,7 @@ priority they should receive to be resolved. The corresponding priority is taken
 The following is a description of the type of work and which workstream it flows through.
 
 | Work | Responsible Workstream |
+|---|---|
 | Triage of new vulns | This should be done as a part of the MR review that introduces the vulns. |
 | Triage of existing vulns | This is done by the main maintainer of each of our analyzers as defined in our [Release project's issue template](https://gitlab.com/gitlab-org/security-products/release/-/blob/master/scripts/templates/release_issue.md.erb). |
 | Resolution of Critical / High Vulns | These should be a Product-driven priority. |

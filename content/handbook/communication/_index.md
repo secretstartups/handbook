@@ -916,6 +916,8 @@ Watch the replay below:
 1. Do not use ALL CAPS because it [feels like shouting](https://en.wikipedia.org/wiki/All_caps#Association_with_shouting). However, there is the [`#all-caps` Slack channel](https://gitlab.slack.com/archives/C01BC085AVB) for your good-natured shouting needs.
 1. We use Unix style (lf) line endings, not Windows style (crlf), please ensure `*.md text eol=lf` is set in the repository's `.gitattributes` and run `git config --global core.autocrlf input` on your client.
 1. When specifying measurements, please include both Metric and Imperial equivalents.
+1. When mentioning currency amounts that team members may need to convert to their local currency (e.g. benefits, expenses, or bonuses), link those amounts to our [Exchange Rates](/handbook/total-rewards/compensation/#exchange-rates) section (e.g. [500 USD](/handbook/total-rewards/compensation/#exchange-rates)).
+1. Monetary amounts shouldn't have one digit, so prefer $19.90 to $19.9.
 1. Although we're a San Francisco based company we're also an internationally diverse one. Please do not refer to team members outside the US as international, instead use non-US. Please also avoid the use of offshore/overseas to refer to non-American continents.
 1. If you have multiple points in a comment or email, please number them. Numbered lists are easier to reference during a discussion over bulleted lists.
 1. When you reference an issue, merge request, comment, commit, page, doc, etc. and you have the URL available please paste that in.
@@ -931,7 +933,6 @@ Watch the replay below:
 1. Refer to environments that are installed and run by the end-user as "self-managed."
 1. Write a [group](/handbook/product/categories/#hierarchy) name as ["Stage:Group"](/handbook/product/categories/#naming) when you want to include the stage name for extra context.
 1. Do not use a hyphen when writing the term "open source" except where doing so eliminates ambiguity or clumsiness.
-1. Monetary amounts shouldn't have one digit, so prefer $19.90 to $19.9.
 1. If an email needs a response, write the answer at the top of it.
 1. Use the future version of words, just like we don't write internet with a capital letter anymore. We write frontend and webhook without a hyphen or space.
 1. Our homepage is https://about.gitlab.com/ (with the `about.` and with `https`).
@@ -980,7 +981,7 @@ This is defined in [Domain-driven design](https://en.wikipedia.org/wiki/Domain-d
 
 We use it for activities in GitLab, even ones not implemented in software.
 
-By having ubiquitous words to identify concepts we prevent confusion over what is meant, for example we refer to [parts of our organization](/handbook/company/team/structure/) as a function, department, or group depending on exactly what is meant.
+By having ubiquitous words to identify concepts we prevent confusion over what is meant, for example we refer to [parts of our organization](/handbook/company/structure/) as a function, department, or group depending on exactly what is meant.
 
 Make sure that domains don't overlap, for example [organization size](/handbook/sales/#organization-size) and [deal size](/handbook/sales/sales-term-glossary/) don't reuse words to prevent overlap.
 
@@ -1072,7 +1073,7 @@ Corporate marketing maintains guidelines on [GitLab's tone of voice](https://des
 
 For example, do not suggest that you're "working in real-time" when a matter is in disarray. Convey that a lack of organization is hampering a result, and provide feedback and clear steps on resolving.
 
-Do not use a cool term such as "tiger team" when the [existing term of "working group"](/handbook/company/team/structure/working-groups/) is more exact. While cool terms such as these may be useful for persuading colleagues to join you in working towards a solution, the right way isn't to use flowery language.
+Do not use a cool term such as "tiger team" when the [existing term of "working group"](/handbook/company/working-groups/) is more exact. While cool terms such as these may be useful for persuading colleagues to join you in working towards a solution, the right way isn't to use flowery language.
 
 The last example is when we used 'Prioritizing for Global Optimization' for what we now call a [headcount reset](/handbook/product/product-processes/#headcount-resets). When we [renamed it](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/31101/diffs) we saw a good reduction in the use of this disruptive practice of moving people around.
 

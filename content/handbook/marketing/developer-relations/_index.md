@@ -7,15 +7,19 @@ twitter_image: '/images/tweets/handbook-marketing.png'
 <i class="fas fa-bullhorn fa-fw color-orange font-awesome"></i> Welcome to the GitLab Developer Relations Handbook
 {.h1}
 
+## <i class="fa-regular fa-lightbulb"></i> What is DevRel? 
+
+Developer Relations (short: DevRel) operates at the intersection of technology, community, and advocacy, serving as the voice and ears of GitLab in the wider tech world. Their core mission revolves around nurturing and sustaining a vibrant, engaged community of developers, contributors, and users. This involves a multifaceted approach that includes creating educational content, organizing events and workshops, developing programs, and providing platforms for knowledge exchange and collaboration. The team not only focuses on promoting GitLab's features and capabilities but also actively listens to and incorporates feedback from the community to inform product development and improvements.
+
 ## <i class="far fa-newspaper" id="biz-tech-icons"></i>  Our mission & vision
 
-Developer Relations drives platform awareness and adoption by reaching deep into wider communities and engaging developers where they are. GitLab currently engages with more than 3000 developers every month on GitLab.com alone, and receives more than 250 contributions every month, giving us a unique level of influence in the DevSecOps space and helping accelerate our innovation. Our ultimate goal is to raise awareness of GitLab and drive customer success by winning the hearts & minds of developers through best-in-class technical enablement and an active community of contributors.
+Developer Relations drives platform awareness and adoption by enabling GitLab customers, connecting through community, and engaging developers where they are. GitLab engages with more than 3000 developers every month on GitLab.com alone, and receives more than 250 contributions every month, giving us a unique level of influence in the DevSecOps space and helping accelerate our innovation. Our ultimate goal is to raise awareness of GitLab and drive customer success by winning the hearts & minds of developers through best-in-class technical enablement and an active community of contributors.
 
-In Developer Relations, we align our mission and vision with the company's [three year strategy](/handbook/company/strategy/). We believe that [everyone can contribute](/handbook/company/mission/#mission). To help GitLab reach this goal, we aim to double outreach and engagement, strengthen our community presence, secure a healthy contributor base of 1,000 by the end of FY25. Ultimately, these goals help boost platform adoption and GitLab revenue. We aspire to be recognized as thought leaders and key influencers across technical communities. Developer Relations takes developers from awareness to consideration, learning, and adoption. Moreover, Developer Relations is critical in establishing GitLab as the industry leader and platform of choice: more than 85% of developers either make purchase decisions or have a strong influence on technical decisions on platforms and tools (Source: Evans Data, Cloud Development Survey 2019).
+In Developer Relations, we align our mission and vision with the company's [three year strategy](/handbook/company/strategy/). We believe that [everyone can contribute](/handbook/company/mission/#mission). To help GitLab reach this goal, we aim to double outreach and engagement, strengthen our community presence, and support a healthy community of contributors. Ultimately, these goals boost awareness, adoption, and power our [dual flywheels](/handbook/company/strategy/#dual-flywheels).
 
 ## <i class="fas fa-map-marked-alt fa-fw color-orange font-awesome"></i> Our Strategy
 
-Our operational strategy is [documented in our internal handbook](https://internal-handbook.gitlab.io/handbook/marketing/developer-relations-and-community/) but is classified as confidential due to business sensitivity, customer impact and to foster a psychological safe environment for our team members. Below you can find our strategic plans that are open to the wider community and where the Developer Relations team welcomes collaboration.
+Our operational strategy is [documented in our internal handbook](https://internal-handbook.gitlab.io/handbook/marketing/developer-relations-and-community/) but is classified as confidential due to business sensitivity, customer impact, and to foster a psychological safe environment for our team members. Below you can find our strategic plans that are open to the wider community and where the Developer Relations team welcomes collaboration.
 
 - [Contributor Program Unification & Growth Plan](/handbook/marketing/developer-relations/strategic-plans/contributor-program-unification/)
 
@@ -76,34 +80,35 @@ Teams within Developer Relations are reachable in these Slack channels:
 
 Community engagement:
 
-[<i class="fas fa-shield-alt"></i> Code of Conduct Enforcement](/handbook/marketing/developer-relations/workflows-tools/code-of-conduct-enforcement/)
-[<i class="fas fa-volume-up"></i> Community Response Process](/handbook/marketing/developer-relations/developer-evangelism/community-response/)
-[<i class="fas fa-calendar-alt"></i> Events](/handbook/marketing/developer-relations/events/)
+- [<i class="fas fa-shield-alt"></i> Code of Conduct Enforcement](/handbook/marketing/developer-relations/workflows-tools/code-of-conduct-enforcement/)
+- [<i class="fas fa-volume-up"></i> Community Response Process](/handbook/marketing/developer-relations/developer-evangelism/community-response/)
+- [<i class="fas fa-calendar-alt"></i> Events](/handbook/marketing/developer-relations/events/)
 
 Community platforms:
 
-[<i class="fab fa-discourse"></i> Discourse Forum](/handbook/marketing/developer-relations/workflows-tools/forum/)
-[<i class="fab fa-discord"></i> Discord](/handbook/marketing/developer-relations/workflows-tools/discord/)
-[<i class="fab fa-reddit"></i> Reddit](/handbook/marketing/developer-relations/workflows-tools/reddit/)
-[<i class="fab fa-stack-overflow"></i> StackOverflow](/handbook/marketing/developer-relations/workflows-tools/stackoverflow/)
-[<i class="fas fa-eye"></i> Common Room](/handbook/marketing/developer-relations/workflows-tools/common-room/)
+- [<i class="fab fa-discourse"></i> Discourse Forum](/handbook/marketing/developer-relations/workflows-tools/forum/)
+- [<i class="fab fa-discord"></i> Discord](/handbook/marketing/developer-relations/workflows-tools/discord/)
+- [<i class="fab fa-reddit"></i> Reddit](/handbook/marketing/developer-relations/workflows-tools/reddit/)
+- [<i class="fab fa-stack-overflow"></i> StackOverflow](/handbook/marketing/developer-relations/workflows-tools/stackoverflow/)
+- [<i class="fas fa-eye"></i> Common Room](/handbook/marketing/developer-relations/workflows-tools/common-room/)
 
 Content:
 
-[<i class="far fa-edit"></i> Community newsletter](/handbook/marketing/developer-relations/developer-evangelism/community-newsletter/)
-[<i class="far fa-edit"></i> Content Review / Fix Fridays](/handbook/marketing/developer-relations/workflows-tools/content-review/)
-[<i class="fas fa-chart-line"></i> UTM Tracking Strategy](/handbook/marketing/developer-relations/utm-strategy/)
-[<i class="far fa-folder-open"></i> Campaign management](/handbook/marketing/developer-relations/community-apps/campaign-manager/)
+- [<i class="far fa-folder-open"></i> Content Effectiveness Strategy](/handbook/marketing/developer-relations/content-effectiveness/)
+- [<i class="far fa-edit"></i> Community newsletter](/handbook/marketing/developer-relations/developer-evangelism/community-newsletter/)
+- [<i class="far fa-edit"></i> Content Review / Fix Fridays](/handbook/marketing/developer-relations/workflows-tools/content-review/)
+- [<i class="fas fa-chart-line"></i> UTM Tracking Strategy](/handbook/marketing/developer-relations/utm-strategy/)
+- [<i class="far fa-folder-open"></i> Campaign management](/handbook/marketing/developer-relations/community-apps/campaign-manager/)
 
 Organization:
 
-[<i class="fas fa-credit-card"></i> Team Budgets](/handbook/marketing/developer-relations/workflows-tools/team-budgets)
-[<i class="fas fa-shopping-cart"></i> Swag operations](/handbook/marketing/developer-relations/workflows-tools/swag/)
-[<i class="fas fa-magic"></i> Automated Community Programs](/handbook/marketing/developer-relations/community-programs/automated-community-programs/)
-[<i class="fas fa-robot"></i> Zapier](/handbook/marketing/developer-relations/workflows-tools/zapier/)
-[<i class="fas fa-inbox"></i> Zendesk](/handbook/marketing/developer-relations/workflows-tools/zendesk/)
-[<i class="fas fa-envelope"></i> Email](/handbook/marketing/developer-relations/workflows-tools/e-mail/)
-[<i class="fab fa-twitter"></i> Twitter/X](/handbook/marketing/developer-relations/workflows-tools/twitter/)
+- [<i class="fas fa-credit-card"></i> Team Budgets](/handbook/marketing/developer-relations/workflows-tools/team-budgets)
+- [<i class="fas fa-shopping-cart"></i> Swag operations](/handbook/marketing/developer-relations/workflows-tools/swag/)
+- [<i class="fas fa-magic"></i> Automated Community Programs](/handbook/marketing/developer-relations/community-programs/automated-community-programs/)
+- [<i class="fas fa-robot"></i> Zapier](/handbook/marketing/developer-relations/workflows-tools/zapier/)
+- [<i class="fas fa-inbox"></i> Zendesk](/handbook/marketing/developer-relations/workflows-tools/zendesk/)
+- [<i class="fas fa-envelope"></i> Email](/handbook/marketing/developer-relations/workflows-tools/e-mail/)
+- [<i class="fab fa-twitter"></i> Twitter/X](/handbook/marketing/developer-relations/workflows-tools/twitter/)
 
 #### Community Interest
 

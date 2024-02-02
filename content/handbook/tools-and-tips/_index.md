@@ -92,7 +92,7 @@ It's for topics like parenting where people may want to share knowledge, but the
 
 ### Linking Gravatar photo
 
-Link your GitLab email address to an easily recognizable photo of yourself on GitLab, Slack, and [Gravatar](https://en.gravatar.com/).
+Link your GitLab email address to an easily recognizable photo of yourself on GitLab, Slack, and [Gravatar](https://gravatar.com/).
 It is company policy to use a photo, and not an avatar, a stock photo, or something with sunglasses for any of your GitLab accounts, as we have a lot of GitLab team-members and our brains are comfortable with recognizing people; let's use them.
 
 ***Note**: If you upload your photo to Gravatar associated with your gitlab.com email, then you can simply not set an image in your GitLab and Slack profiles and they will automatically use your Gravatar photo.  If you already uploaded individual photos to your GitLab and Slack profiles, simply removing them will cause your avatar to use the Gravatar photo by default.*
@@ -104,7 +104,7 @@ Mermaid is a tool that allows us to create flowcharts, graphs, diagrams, Gantt c
 A few additional resources that can be helpful when working with Mermaid are:
 
 - The [live mermaid editor](https://mermaid-js.github.io/mermaid-live-editor) to check your work!
-- [GitHub's Mermaid overview](https://mermaid-js.github.io/mermaid/#/)
+- [GitHub's Mermaid overview](https://mermaid.js.org/#/)
 - A [CSS color bank](https://www.rapidtables.com/web/css/css-color.html) to add color to your charts.
 - You can see an example of how to add images to Mermaid charts [here](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbiAgQVtDaHJpc3RtYXNdIC0tPnxHZXQgbW9uZXl8IEIoR28gc2hvcHBpbmcpXG4gIEIgLS0-IEN7TGV0IG1lIHRoaW5rfVxuICBDIC0tPnxPbmV8IERbTGFwdG9wXVxuICBDIC0tPnxUd298IEVbaVBob25lXVxuICBDIC0tPnxUaHJlZXwgRltmYTpmYS1jYXIgQ2FyXVxuICBDIC0tPiBHXG4gIEcoXCI8aW1nIHNyYz0naHR0cHM6Ly9pY29uc2NvdXQuY29tL21zLWljb24tMzEweDMxMC5wbmcnOyB3aWR0aD0nMzAnIC8-XCIpIiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQiLCJzZWN1cml0eUxldmVsIjoibG9vc2UifX0).
 - Examples of Mermaid charts that have been created by GitLab team members:
@@ -142,10 +142,10 @@ Manual upkeep of the maintainer training issue can be time consuming. There are 
 
 ## handbook Tips
 
-The [https://handbook.gitlab.com]({{< ref "/content/_index.md" >}}) site lives in the [content-sites/handbook](https://gitlab.com/gitlab-com/content-sites/handbook/)
+The [https://handbook.gitlab.com]({{< ref "/content/_index.html" >}}) site lives in the [content-sites/handbook](https://gitlab.com/gitlab-com/content-sites/handbook/)
 repo on GitLab.  The site is mostly a collection of Markdown documents and converted in to HTML by [Hugo](https://gohugo.io/).
 In addition to the handbooks content there is a [theme repo](https://gitlab.com/gitlab-com/content-sites/docsy-gitlab])
-which is shared between the [Handbook]({{< ref "/content/_index.md" >}}) and the [Internal Handbook](https://internal.gitlab.com).
+which is shared between the [Handbook]({{< ref "/content/_index.html" >}}) and the [Internal Handbook](https://internal.gitlab.com).
 This holds the [docs]({{< ref "/docs" >}}) and shared content for both sites as well shortcodes and other functional [Hugo](https://gohugo.io/)
 for producing the site.
 

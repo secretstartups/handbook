@@ -14,11 +14,11 @@ Please note that context for the following sections on this page should be cover
 
 GitLab.com is the largest known GitLab instance. It is monitored and maintained 24/7 by our [infrastructure team](/handbook/engineering/infrastructure/).
 
-The Support team should have a general understanding of [its architecture](/handbook/engineering/infrastructure/production/architecture/) along with how to access logs ([Kibana]({{< ref "kibana" >}}) and error reports ([Sentry]({{< ref "sentry" >}})) to troubleshoot reported issues.
+The Support team should have a general understanding of [its architecture](/handbook/engineering/infrastructure/production/architecture/) along with how to access logs ([Kibana]({{< ref "kibana" >}})) and error reports ([Sentry]({{< ref "sentry" >}})) to troubleshoot reported issues.
 
 As well, Support team members should be aware that GitLab.com has certain customizations. These customization are applied through the [chef-repo](https://gitlab.com/gitlab-com/gl-infra/chef-repo). Details of GitLab.com customizatons can be found in [GitLab.com custom limits](/handbook/support/workflows/gitlab-com_customizations)
 
-Numerous Support team members including all SaaS focused ones also assist with incidents as [CMOC]({{< ref "cmoc_workflows" >}}).
+Numerous Support team members also assist with incidents as [CMOC]({{< ref "cmoc_workflows" >}}).
 
 ## Legal Context
 
@@ -66,6 +66,6 @@ For the purposes of support, a user may still be considered an enterprise user w
 
 If the Owner is requesting access to an account which has a primary email in the company domain, but *does not meet* any of the second conditions, then we must treat the account as belonging to the user. In this case, the only recourse for the Owner to add the user's *primary email* as a CC on the ticket, then the user validates their own account.
 
-The relevant information can be found in the [Zendesk GitLab Super App: User Lookup]({{< ref "../readiness/operations/docs/zendesk/apps.md#gitlab-super-app" >}}), GitLab admin or API. Subscription information can additionally be found in CustomersDot.
+The relevant information can be found in the Zendesk GitLab Super App: User Lookup, GitLab admin or API. Subscription information can additionally be found in CustomersDot.
 
 {{% include "includes/support-quick-reference.md" %}}

@@ -17,6 +17,7 @@ but the responsibilities of a product manager can vary greatly between organizat
 In an ongoing effort to help product managers be more efficient and maximize time spent on high value activities in alignment with [core PM responsibilities](#core-pm-responsibilities), below is a list to clarify what actions are **required** for product managers. Over time, our goal is to eliminate and automate any actions product managers currently have to do (due to tactical needs) that do not directly link to the core PM responsibilities defined above.
 
 | Task | Description |
+| --- | --- |
 | Maintain and update [Direction pages](https://about.gitlab.com/direction/#devops-stages) | Direction pages communicate our [vision](https://about.gitlab.com/direction/) and plan externally and internally. |
 | Review PIs and update [PI pages](/handbook/product/performance-indicators/) | Product Indicators are how we know whether or not we are making the right investments or measuring the right thing. PMs should be intimately knowledgeable with the PIs in their domain. |
 | Release planning for every milestone | PMs are the DRIs for planning and [prioritizing](/handbook/product/product-processes/#prioritization-ahead-of-kickoff) the work for their respective development group. Some of the output for release planning can be planning issues and [kick-off](/handbook/product/product-processes/#kickoff-meetings) videos. |

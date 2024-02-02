@@ -111,9 +111,18 @@ Tips:
 - If you'd like a dashboard limited to just reviews where you applied the `~"database::reviewed"` label,
   reach out to the database group manager to get one. ([Example](https://app.periscopedata.com/app/gitlab/1150689/Database-Reviewers-and-Maintainers?widget=16991435&udv=0))
 
-#### Project maintainer process for [`gitlab-cicd-templates`](https://gitlab.com/gitlab-org/gitlab/-/tree/master/lib/gitlab/ci/templates)
+#### Project maintainer process for [`gitlab-components`](https://gitlab.com/components)
 
-- Read over our [Development Guide for GitLab CI/CD Templates](https://docs.gitlab.com/ee/development/cicd/templates.html).
+- Review our [documentation and best practices for creating CI/CD components](https://docs.gitlab.com/ee/ci/components/).
+- Familiarize with our [documentation on GitLab-maintained components](https://docs.gitlab.com/ee/development/cicd/components/).
+- Develop one or more components to familiarize yourself with the development process.
+- Create a merge request and assign the merge request to your manager for you to be added as a CI/CD components maintainer. Be sure to cite references for the CI/CD components you have developed. (See [MR example](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/132498))
+- Ping the existing maintainers (`@gitlab-org/maintainers/ci-components`) in the MR for review and feedback.
+- Have at least 2 approvals from existing maintainers in order to merge the MR.
+
+Upon approval, the maintainer who merges the MR will:
+- Add the newly approved maintainer to the CI components maintainer group (`@gitlab-org/maintainers/ci-components`).
+- Announce in [`#ci_components_maintainers`](https://gitlab.slack.com/archives/C06AQBJETRR) and post an update in the _Engineering Week-in-Review document_
 
 #### Project maintainer process for [`design.gitlab.com`](https://gitlab.com/gitlab-org/gitlab-services/design.gitlab.com) or [`gitlab-svgs`](https://gitlab.com/gitlab-org/gitlab-svgs)
 

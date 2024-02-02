@@ -4,14 +4,6 @@ aliases: /handbook/engineering/development/sec/govern/security-policies/workflow
 title: Security Policies - How we prioritize our current work?
 ---
 
-# On this page
-
-
-
-
-
-
-
 ## How do we prioritize our current work?
 
 Please refer to the flowchart provided below to understand the process we follow when determining the next task to work on after completing all assigned tasks.

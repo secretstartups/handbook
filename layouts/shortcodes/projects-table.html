@@ -1,4 +1,3 @@
-{{- $projects := partials.IncludeCached "data/projects" page }}
 <table>
 	<thrad>
 		<tr>
@@ -7,7 +6,7 @@
 		</tr>
 	</thrad>
 	<tbody>
-		{{- range $k, $d := $projects }}
+		{{- range $k, $d := site.Data.public.projects }}
 		<tr>
 			<td><a href="#{{ $k }}"><i class="fa fa-book"></i> {{ $d.name }}</a></td>
 			<td><a href="{{ $d.link }}"><i class="fa-brands fa-gitlab"></i> {{ $d.path}}</a></td>

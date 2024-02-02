@@ -165,7 +165,7 @@ Examples of English Language Courses:
 
 - [Coursera](https://www.coursera.org/browse/language-learning/learning-english) offers a wide variety of online English courses in partnership with various reputable colleges and universities, like the [Business English for Non-Native Speakers course](https://www.coursera.org/specializations/business-english-speakers) and the [Improve your English Communication Skills Specialization](https://www.coursera.org/specializations/improve-english) . Their courses range from improving your English language skills to more specialized courses that focus on English for STEM or career development.
 - [Cambridge C2 Exam Prep Course](https://www.kaplaninternational.com/exam-preparation-courses/cambridge-c2-exam-preparation-course) is a program to consider if preparring to take the Cambridge English Qualification. This is an internationally recognized test and qualification of English language ability. More prep course materials can be found [here](https://www.cambridgeenglish.org/exams-and-tests/proficiency/preparation/) or via [International House London](https://www.ihlondon.com/course/cambridge-c2-proficiency-online)
-- The [University of Texas Austin](https://global.utexas.edu/english-language-center/programs/self-paced) has multiple self-paced writing and pronounciation courses available.
+- The [University of Texas Austin](https://global.utexas.edu/english-language-center/programs/self-paced) has multiple self-paced writing and pronunciation courses available.
 - [LinkedIn Learning](https://www.linkedin.com/learning/search?keywords=english) has many courses for English.
 - [Writing in Plain English](https://www.linkedin.com/learning/writing-in-plain-english) seems particularly well suited for improving async communication. Language learning Apps and sites can be effective tools.
 - [Duolingo](https://www.duolingo.com/) offers gamified way to learn English, plus other languages.
@@ -227,7 +227,7 @@ Crucial Conversations charges per-learner to deliver this content. Each license 
 1. The L&D team will assess interest/team need and organize cohorts based on this Google form. The team will contact you to confirm your availability before signing you up for a cohort.
 1. The L&D team will open a G&D benefit issue and tag you in the issue. Please follow instructions in the issue to obtain manager approval.
 
-The L&D and Total Rewards teams will collaborate to purchase the course license on your behalf and the cost will count towwards your Growth and Development budget. Please plan to complete the Crucial Conversations self-paced training and attend at least 4 live training sessions within 3 months of starting the training.
+The L&D and Total Rewards teams will collaborate to purchase the course license on your behalf and the cost will count towards your Growth and Development budget. Please plan to complete the Crucial Conversations self-paced training and attend at least 4 live training sessions within 3 months of starting the training.
 
 ### Mentorship
 

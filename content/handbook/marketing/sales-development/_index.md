@@ -48,14 +48,14 @@ As a Sales Development Representative (SDR) or Business Development Representati
 
 **EMEA**
 * **All** = [`#sdr_emea`](https://gitlab.slack.com/messages/CCULKLB71)
-* **SDR EMEA - (Manager - Glenn Perez)** = [`#sdr_emea_apac_inbound`](https://gitlab.slack.com/archives/C031T0LF6NL)
-* **BDR COMM EMEA MM - (Manager - Alexander Demblin)** = [`#bdr_comm_emea_mm`](https://gitlab.slack.com/archives/C04NA4BQP54)
+* **SDR EMEA - (Manager - Brian Tabbert)** = [`#sdr_emea_apac_inbound`](https://gitlab.slack.com/archives/C031T0LF6NL)
+* **BDR COMM EMEA MM - (Manager - Brian Tabbert)** = [`#bdr_comm_emea_mm`](https://gitlab.slack.com/archives/C04NA4BQP54)
 * **BDR ENTG EMEA DACH - (Manager - Christopher Allenfort)** = [`#bdr_entg_emea_dach`](https://gitlab.slack.com/archives/C04NP4VC449)
 * **BDR ENTG EMEA NEUR META - (Manager - Miguel Nunes)** = [`#bdr_entg_emea_neur_meta`](https://gitlab.slack.com/archives/C04NGL7H4JG)
 * **BDR ENTG EMEA SEUR - (Manager - Tati Fernandez)** = [`#bdr_entg_emea_seur`](https://gitlab.slack.com/archives/C04NE65S6AE)
 
 **APAC**
-* **SDR APAC - (Manager - Glenn Perez)** = [`#sdr_emea_apac_inbound`](https://gitlab.slack.com/archives/C031T0LF6NL)
+* **SDR APAC - (Manager - Brian Tabbert)** = [`#sdr_emea_apac_inbound`](https://gitlab.slack.com/archives/C031T0LF6NL)
 * **BDR ENTG APAC - (Manager - Elsje Smart)** = [`#bdr_entg_apac`](https://gitlab.slack.com/archives/C0327R1NZBK)
 
 **Please acknowledge any Slack messages from your managers in your Slack channels, if you have nothing to say at least be creative and funny with emoji so they know you are seeing their requests and updates and are not talking to an empty room!**
@@ -552,7 +552,7 @@ Next Steps: SDR chatters the BDR Assigned and lets them know you didn't find act
  * **Is the Account in “Worked in FY” Status?**
     * **Yes:** It is worked by the SDR team
 * **Is the Account in “Restricted” Status?**
-    * **Yes:** It should be routed to the BDR assigned. The BDR assigned will chatter the SAE about whether they'd like them to reach out or whether they would like to own that responsibility. They'll have a certain window to respond (likely 24-48 hours depending on what JB says).
+    * **Yes:** It should be routed to the BDR assigned. The BDR assigned will chatter the SAE about whether they'd like them to reach out or whether they would like to own that responsibility. The AE should respond within 48 hours.
         * If they reply back that the BDR can work, the BDR will continue with the prospect as a lead record and take action.
         * If they reply back that they want to be responsible, the BDR will convert the lead so that it becomes a contact.
 
@@ -620,7 +620,7 @@ When a territory moves from one BDR to another but the previous BDR remains with
     *   If an existing SFDC Large/Enterprise Customer account already exists, verify that the SFDC lead/prospect is not part of the existing GitLab subscription before working the lead by sending a short snippet like, "Hi XYZ, Thanks for reaching out. ABC company current has a GitLab subscription, are you currently using a GitLab license and if so, what version?". If they are, please follow the "Convert to Account" instructions above.
     *   Read the ZoomInfo description to check for **USA** PubSec indicators which will include words like the following in the description: County, City Of, State, University, College, Defense, Intelligence, Agency, Mission, Mission Critical, Mission Support, Speed to Mission, System Integrator, Contract Vehicle, Government Bid, Government Contract, Civilian, or Task Order.  **Canadian government leads get routed to the AMER commercial team.**
 4. Press **Find Duplicates**
-    *   SDRs/BDRs should use this screen to check to see if 1) the matched account is an “Actively Working” account that would cause the lead to need to be re-routed to the BDR Assigned or 2) whether there is a duplicate record that needs to be merged [Ensure you keep oldest `Initial Source`. See video here](/handbook/marketing/sales-development/#duplicate-lead-and-contact-videos) or 3) whether there is another lead at that company active in sequence.
+    *   SDRs/BDRs should use this screen to check to see if 1) the matched account (make sure to use the core company name for the search, removing Inc, plc, Ltd etc.) is an “Actively Working” account that would cause the lead to need to be re-routed to the BDR Assigned or 2) whether there is a duplicate record that needs to be merged [Ensure you keep oldest `Initial Source`. See video here](/handbook/marketing/sales-development/#duplicate-lead-and-contact-videos) or 3) whether there is another lead at that company active in sequence.
         *   The lead owner will make sure to use search techniques that allow for the most accurate results. On the Find Duplicates screen, they will need to scroll to the `Matched Account` section to see if the BDR prospecting status is “Actively Working”. If so, they will need to transfer to BDR.
         *   If it is not an Actively Working account, then the next step is to scroll to the top to see if there are `Matched Leads` or `Matched Contacts` that are a match. If so, then our merging process here will need to be followed.
         *  The lead owner should also check the `Matched Opportunities` Section to see if there is an active Opportunity for the account be it SAE/AE-owned or Channel owned (`Resale Partner` last column) The lead owner should determine if this lead is related to any active opportunity and then pass along the lead if relevant.
@@ -847,6 +847,74 @@ To make sure that the hand-offs maximize internal efficiencies, it is required t
 - Communicate with AE, and create a mutual [command plan](https://docs.google.com/document/d/1uTHRRUQx4IP_dXUnsrfG2x9Ti-XpMneX3IDu2v0TZtY/edit) for the call.
      - When kicking off the call, summarize the BDR research and reason for reaching out, such compelling events, Persons with LIM, etc
      - After prospect acknowledges their compelling event and internal situation, discovery call continues with pre agreed upon structure with AE.
+
+### Shared BDR-AE-SA Demos
+
+Organizing a shared demo makes it more simple for us to offer spontaneously a demonstration of GitLab, which should result in a easier handover of opps, and ease to create opps. As BDRs, we arranged the execution of this demo by creating a zoom webinar, and configuring the whole event so that the administrative side is automated.
+
+#### Process For Running a Group Demo
+
+1. Define the criteria that qualifies an opportunity as eligible to go to a shared demo.
+
+- **SAL/AE is involved only:** The SAL can invite his/her/their customers or contacts in order to add value to their ongoing discussion, if the AE/SAL finds it relevant. This is in the context of a conversation with the prospect/customer.
+
+- **SAL/AE and BDR are involved**: the BDR schedules a discovery meeting with the SAL (whether it is a prospect or customer) that generates a qualified opportunity. Once the opportunity is created, the SAL/BDR suggests the shared demo instead of the individual demo based on the priority of the opportunity (importance of the account, number of licenses, amount of the opportunity, persona). This is in the context of a conversation with the prospect/customer. There needs to be an opportunity in this case to suggest the demo, for the sake of collaboration between the SAL and the BDR.
+
+- **BDR is involved only**: When a lead with decision power or significant influence in the org (no individual contributor) expresses a high interest for GitLab (aka: high read/open rates on an email, response received by phone with interest confirmed) AND when the BDR has a tangible reason to think that there is a need in the division/team/company (research, information obtained through other leads in the same org), the BDR can leverage the shared demo for HOT leads to create interest or a sense of urgency, the goal being to have the lead jump on an introductory meeting after the shared demo."
+
+2. Define the criteria for different groups of attendees who can join this demo: 
+
+- **Attendees coming from a BDR conversation:** in order to attend a demo, this attendee needs to be part of an opportunity in at least stage 1- Discovery. 
+
+- **Attendees coming from the AE’s conversations:** the AE can leverage this shared demo to invite his own contacts. 
+
+3. Step-by-step guide to plan a demo:
+
+- Get a Zoom Webinars license: you don’t have a Webinar licence by default, so you need to open an access request issue on GitLab to ask for one: here.
+
+- Go on Zoom SSO > Webinars (on the left under Meetings) > Schedule a webinar. You will be able to save the entire configuration of the webinar as a template, in order not to set it up again.
+
+- Change the topic (this will be the title of your demo, and the name of the event on Google Calendar), the description (describes the content of the demo, the idea is to adapt the focus of the demo depending on your attendees), set the date/time of the demo, and the duration (note that setting a certain duration will not stop the zoom webinar once the time has gone). 
+
+- Tick the box ‘Required’ next to registration. 
+
+- You can change the Dial country to the country of the demo attendees if the demo is language specific. 
+
+- In the Option Category, tick the following: Q&A, Automatically record webinar, Include email address in attendee report. 
+
+- In the Alternative Hosts category, put your SAL and your Solutions Architect. 
+
+- Click on ‘Schedule’ 
+
+- In order to add the event on your calendar, click on the calendar button next to ‘Time’
+
+- Now you can start changing a few settings. Let’s start with the configuration of the registrations. First go on ‘Invitations’ and click on Edit next to Registration Settings:
+
+- You can choose to manually or automatically approve. Automatic approval is advised. 
+
+- You can tick ‘Send an email to host when someone registers’
+
+- Then go on Questions next to ‘registration’ (same window). Here you can set the fields asked in the registration form. Email and first name are already there by default. You can tick: Last Name, Organization and Title, and tick the box ‘Required’ for each. 
+
+- Lastly, go on Custom Questions and create a new question to ask: “what are your expectations for this demo? What do you want to see?” or something that gives an idea to the SA of what are the attendees' expectations (configure the question as ‘Short answer’). 
+
+- Let’s change general settings. Go on Email settings and change: 
+
+- The email language if your demo is delivered in another language than English. It will automatically change the language of your reminder/follow-up emails/confirmation emails. 
+
+- Email contact set as: you as a BDR or another person, as your team prefers. 
+
+- Confirmation email to registrants: you can add another subject and/or a little paragraph in addition to the event information. 
+
+- Reminder email: you can choose to send one or several, 1 hour and/or 1 day and/or 1 week before the event starts. Change the subject and/or add a little paragraph. 
+
+- You can activate follow-up emails to attendees, and choose the subject + how much time after the demo the email will be sent + the paragraph to be sent (you can add resources that are relevant to the content of the demo that was delivered). 
+
+- You can also activate a follow-up email to absentees. 
+
+- Go to Q&A : a few boxes are already ticked already (attendees can submit questions, allow anonymous questions, allow attendees to view answered questions only). You can choose to enable attendees to view all questions and upvote/comment them, or only answered questions. This is a way for your team to control questions that may be sensitive to answer. 
+
+- Last but not least: click ‘Save as Template’ above email settings! This way you will not have to set this up again. Now you are done! 
 
 ## BDR FO Outbound Process
 

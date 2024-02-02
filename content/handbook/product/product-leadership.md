@@ -14,7 +14,7 @@ title: Product Leadership
 
 ## General Product Organizational Structure
 
-The GitLab Product team includes team members at various levels of [Product Management job titles](/handbook/product/product-manager-role/product-CDF-competencies/) across our [organizational levels](/handbook/company/team/structure/#levels) with scope at various points in our [product hierarchy](/handbook/product/categories/#hierarchy). As a result there can be instances where peers across layers don't have the same title. We will always abide by [GitLab's layer structure](/handbook/company/team/structure/#layers).
+The GitLab Product team includes team members at various levels of [Product Management job titles](/handbook/product/product-manager-role/product-CDF-competencies/) across our [organizational levels](/handbook/company/structure/#levels) with scope at various points in our [product hierarchy](/handbook/product/categories/#hierarchy). As a result there can be instances where peers across layers don't have the same title. We will always abide by [GitLab's layer structure](/handbook/company/structure/#layers).
 
 | Level | Job Families | Hierarchy Scopes |
 | ----- | ------------ | ---------------- |
@@ -131,7 +131,7 @@ are for them, ensuring that there's a productive ongoing dialogue with feedback
 coming in and then features being adopted internally. [Internal customers](/handbook/values/#dogfooding)
 should have at least a monthly check-in, with the internal customer section
 in the category epic kept up to date.
-- Represent their portfolio in day-to-day interaction with [D](/handbook/company/team/structure/#director-group) and [E](/handbook/company/team/structure/#e-group) groups, with
+- Represent their portfolio in day-to-day interaction with [D](/handbook/company/structure/#director-group) and [E](/handbook/company/structure/#e-group) groups, with
 particular responsibility to prioritize inputs from leadership into something
 stable in the short/medium term and actionable by the PMs, to align efforts
 across teams, and to raise visibility of wins by the PM to the broader team
@@ -151,7 +151,7 @@ and always clearly communicated.
 coaching should be provided consistently, clearly, and in an actionable way, with
 the intent of avoiding "surprise problems". In the same vein, following up on
 requests for context, advice, and so on from the PMs is a priority. The
-[socratic method](/handbook/company/team/structure/#management-group) is
+[socratic method](/handbook/company/structure/#management-group) is
 recommended as a great approach that works particularly well with PMs.
 - Prioritize hiring, being sure to include PMs (and EMs/team members) who will work
 with the new person in the process.

@@ -348,6 +348,10 @@ We give people agency to focus on what they think is most beneficial. If a meeti
 
 Agree in writing on measurable goals. Within the company we use [OKRs](/handbook/company/okrs/) for that.
 
+##### Challenger mindset
+
+Challenging the status quo can lead to remarkable results - we must never stop. A [challenger mindset](https://books.forbes.com/author-articles/whats-a-challenger-mindset-and-why-adopt-it-in-2021/) requires that we continually ask ourselves bold, difficult questions about our business the problems we solve while resisting complacency. To succeed we must innovate and delight our customers with the value of the products we build. A challenger mindset requires a relentless persuit of excellence - we must be [tenacious](https://handbook.gitlab.com/handbook/values/#tenacity). Each win for our customers builds reputational capital we can use to earn the trust of prospects in a competitive market. While competition is a feature of capitalism internally as GitLab team members we must focus our efforts inwardly on achieving our very best results for customers to win market share.
+
 ##### Growth mindset
 
 You don't always get results and this will lead to criticism from yourself and/or others. We believe our talents can be developed through hard work, targeted training, learning from others, on-the-job experience, and receiving input from others. It is in our DNA as a company and individuals to look for opportunity, stay humble, and never settle. We try to hire people based on [their trajectory, not their pedigree](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means). We also strive to foster a culture of curiosity and continuous learning where team members are provided and proactively seek out opportunities to grow themselves and their careers. We believe that with the right expectations and direction, people can grow to take on new challenges and surpass expectations.
@@ -523,7 +527,7 @@ When team members are managers of one they can have an increased work/life balan
 
 ##### Freedom and responsibility over rigidity
 
-When possible, we give people the responsibility to make a decision and hold them accountable for that, instead of imposing rules and approval processes. You should have clear objectives and the freedom to work on them as you see fit. Freedom and responsibility are more efficient than rigidly following a process, [or creating interdependencies](/handbook/company/team/structure/#product-groups), because they enable faster decision velocity and higher rates of [iteration](#iteration).
+When possible, we give people the responsibility to make a decision and hold them accountable for that, instead of imposing rules and approval processes. You should have clear objectives and the freedom to work on them as you see fit. Freedom and responsibility are more efficient than rigidly following a process, [or creating interdependencies](/handbook/company/structure/#product-groups), because they enable faster decision velocity and higher rates of [iteration](#iteration).
 
 When team members have freedom and responsibility over rigidity, they have more room to help others.
 
@@ -939,7 +943,7 @@ Similarly, when adding features to GitLab, consider ways to [reduce the scope](/
 
 ##### Always iterate deliberately
 
-Rapid iteration can get in the way of [results](#results) if it's not thought out; for example, when adjusting our marketing messaging (where consistency is key), product categories (where we've set development plans), [organizational structure](/handbook/company/team/structure/#organizational-structure) or [product scope alignment](/handbook/people-group/promotions-transfers/#realignment-of-resources-impacting-multiple-team-members) (where real human stresses and team stability are involved), sales methodologies (where we've trained our teams) and this values page (where
+Rapid iteration can get in the way of [results](#results) if it's not thought out; for example, when adjusting our marketing messaging (where consistency is key), product categories (where we've set development plans), [organizational structure](/handbook/company/structure/#organizational-structure) or [product scope alignment](/handbook/people-group/promotions-transfers/#realignment-of-resources-impacting-multiple-team-members) (where real human stresses and team stability are involved), sales methodologies (where we've trained our teams) and this values page (where
 we use the values to guide all GitLab team members). In those instances, we add additional review to the approval
 process; not to prohibit, but to be more deliberate in our iteration. The change process is documented in the [GitLab Handbook Usage](/handbook/handbook-usage/) page and takes place via merge request approvals.
 
@@ -1271,7 +1275,7 @@ Think of the hierarchy as a weighting system. Values higher in the hierarchy do 
 - If a change impacts Transparency positively but impacts Efficiency negatively in roughly the same amount, we would move ahead since Transparency is higher in the hierarchy than Efficiency.
 - If a change has a massive positive impact on Diversity but negatively impacts Iteration, we would move ahead even though Diversity is lower in the hierarchy than Iteration because the overall impact is more positive than negative.
 
-![Values](images/values.png)
+![Values](images/values.svg)
 
 In a [GitLab Unfiltered interview on values](https://youtu.be/7kMQj4O4ZGU), GitLab co-founder and CEO Sid Sijbrandij offers the following context.
 

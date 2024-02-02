@@ -122,8 +122,10 @@ At GitLab, we promote on a twice per year basis. This means that there is **one 
 
 *Status:* Upcoming. Aligned with [Annual Compensation Cycle]({{< ref "compensation-review-cycle#annual-compensation-review-timeline" >}})
 
-- Planning and Calibrations: 2023-12-18 to 2024-02-05
-- Processing: 2024-02-19 to 2024-03-01
+- Planning: 2023-12-01 to 2023-12-15
+- Calibrations: 2023-12-18 to 2024-01-08
+- Workday Entry (manager responsibility): 2024-01-09 to 2024-01-17
+- Processing (Total Rewards): 2024-02-19 to 2024-03-01
     - Effective date for promotions: 2024-02-01.
     - Communication: In conjunction with [annual compensation review raises]({{< ref "compensation-review-cycle#february" >}}). After communicating 1:1 with individuals, updates can be posted publicly in #team-member-updates.
          - There will be a window from 2024-02-21 to 2024-02-29 for manager to proactively communicate promotion approval and new job titles.
@@ -190,7 +192,7 @@ The only exception to this process is when there is an open budgeted and publicl
 
 ### Promotion Metrics
 
-GitLab tracks the following promotion metrics in [Sisense](https://app.periscopedata.com/app/gitlab/756370/Promotion_Rate)
+GitLab tracks the following promotion metrics in [Tableau](https://10az.online.tableau.com/#/site/gitlab/workbooks/2292010/views)
 
 ##### Internal Mobility
 
@@ -200,7 +202,7 @@ GitLab tracks Internal Mobility rate. Market data indicates a 15% rolling promot
 
 GitLab targets an average of [5-10% compensation change]({{< ref "promotions-transfers#recommend-a-compensation-increase" >}}) in general for promotions. This metric is in place to ensure we are consistent and equitable across the company when allocating promotion compensation raises to team members, in addition to ensuring competitive and meaningful promotion increases across the board.
 
-##### Budget Impact (see below)
+### Budget Impact (see below)
 
 FP&A tracks budget impact by Department/Division twice per year.
 

@@ -4,7 +4,7 @@ Unpaid users get limited support [as outlined in the statement of support](/supp
 Most of the requests are related to user accounts through the "SaaS Account" ticket form.
 
 The following table is meant to be a helpful quick reference.
-However, the source of truth in order:
+However, the sources of truth, in increasing order of priority are:
 
 - [Public Support page](https://about.gitlab.com/support/gitlab-com-policies)
 - [Statement of support page](/support/statement-of-support/#free-users)

@@ -1,5 +1,4 @@
-{{- $team := partials.IncludeCached "data/team" . -}}
-{{- $team = where $team "remote_story" "ne" nil }}
+{{- $team := where site.Data.public.team "remote_story" "ne" nil }}
 
 <div class="container">
   <div class="row row-cols-4">

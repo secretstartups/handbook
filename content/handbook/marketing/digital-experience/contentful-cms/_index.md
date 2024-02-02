@@ -108,5 +108,90 @@ Please fill out an access request [here.](https://gitlab.com/gitlab-com/team-mem
 
 
 
+## Specific Contentful Training Resources
 
+#### Adding a resource to the Resources page
+
+[Video Walkthrough](https://youtu.be/G8NZV75H7lw?si=mTvwMSLl112avu5M)
+
+1. Go to the Resources page entry in Contentful
+1. Click on the "Browse all resources" section of page content
+1. Scroll waaaaay to the bottom and select + Add Content -> Card
+1. From here, it might be helpful to open an existing card and make sure the same fields are filled out, but the gist is:
+ - the Title goes in both `Internal Name` and `Title`
+ - the Language goes in `Subtitle`
+ - the Teaser goes in `Description`
+ - the Topics go in `List` (hit enter after each topic)
+ - the Solutions go in `Pills` (hit enter after each topic)
+ - the Type of resource goes in `Icon Name`
+ - the URL goes in `Card Link`
+1. Publish that card, drag it to the top of the list if you want it to appear first, and publish that section too.
+
+If you want to edit other parts of the page the process is similar, just follow the existing pattern of the other cards. The only section to watch out for is the Featured resource - the one you want to feature has to be first in that list, and has to have an image.
+
+
+#### Adding a post to the Press and Press Releases page
+
+[Video Walkthrough](https://youtu.be/zM1z0LnqVB0?si=sfEgEPK1Wu0Dii6P)
+
+1. To create a custom page, filter by the content type Custom Page, and select Add Entry in the top right corner
+   - Page name: The title of the page
+   - SEO Component: Add title, description, and opengraph image (if available)
+   - Slug: Add the url the page should live at (make sure to include leading and traling slash)
+   - Header: The title of the page
+   - Activate Side menu: optional to create a side nagigation
+   - Date: Date of the release, or today's date
+   - Subheader: Text that will appear above the title
+   - Description: text that will appear below the title
+   - Components: Add Text Block, and fill the Internal name/header, and text. Add one of these for each section of the content. 
+   - Has Next Step: Select yes if you'd like the "Take GitLab For a Spin" CTA. 
+2. Publish this page when it's ready *as well as all sub items*, and it will be live at the URL specifid. It will also appear on the `/press/releases/` page automatically as a card.
+3. For the `/press/` page, you'll have to add that card manually. Navigate to the Press page in contentful, and click on the Press Releases content.
+   - Add content -> Card
+   - Fill in the Internal Name/Title fields with the title
+   - Add a subtitle (the date)
+   - Add the URL of the custom page you created early in the Card Link field. 
+   - Feel free to add Data Ga Name (the link title) and Data Ga Location (body) for our tracking purposes. 
+   - Under Primary Button, add a button. Fill in the title and Text to be Read More. 
+4. Publish this item, including the button and any other sub items
+5. Drag your card to the top of the stack (and maybe remove the bottom item since we're trying to keep that list around 5 items long) and publish the changes. 
+
+
+#### Updating the Privacy page
+
+[Video Walkthrough](https://youtu.be/kP0V87TEjFE?si=5V2h9NskewHZkCrH)
+
+
+#### Adding a partner to the Alliance Partner/Technology Partner page
+
+[Video Walkthrough](https://youtu.be/-6ntN8OAKx4?si=UNqU8M7Z4Mg9X3HS)
+
+1. Navigate to the Technology Partners page entry
+1. Go to the page content, and click on the category you'd like to add the partner to (e.e. Security)
+1. Scroll to the bottom of the existing content on the page and select + Add Content -> Partner Application
+1. From here, it might be helpful to open an existing card and make sure the same fields are filled out, but the gist is:
+   - Name: Partner name
+   - ID (optional): This is used to create anchor links on the page. It should default to the lowercase text of the partner name, but is editable if necessary
+   - Content: The description of the card. To add embedded links, use a html anchor tag like so: `<a href="https://www.url.com">Link Text</a>`
+   - Logo Image: If the logo already exists in the Media section, you can Add Existing Content, otherwise, Add new media and upload your image.
+   - Featured Partner: Select yes if this should show at the top of the page under Featured Partner
+   - Links: Add a Button content type, and fill out the Internal Name and Text as the text you'd like to appear, then the External Url should be the url. It's also helpful to add the Data Ga Name as the partner name, and the Data Ga Location as 'body' for our analytics purposes. 
+1. Publish your buttons, publish your Partner Application Card, drag it so that it's in alphabetical order, and publish the whole section. 
+
+
+#### Adding an event to the Events page
+
+[Video Walkthrough](https://youtu.be/7aEvFjMRga8?si=itn0ph9GWeBJms_g)
+
+New instructions coming soon!
+
+
+#### Updating the Services page
+
+[Video Walkthrough](https://youtu.be/ZTMKMKnu-iM?si=IYhmd6-AUJKpNiEv)
+
+
+#### Creating an Event Landing page
+
+Coming soon!
 

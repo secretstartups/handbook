@@ -379,6 +379,6 @@ The Product Operations DRI will ensure the MR gets included in product develomen
 1. [VP of Quality Engineering](/handbook/company/team/#meks)
 1. [Product Leadership Team](/handbook/product/product-leadership/#product-leadership-team-structure)
 
-In some cases, when significant changes to the product development flow are needed, affecting multiple teams and/or function workflows, Product Operations may request a draft page and/or a [working group](/handbook/company/team/structure/working-groups/) for multiple iterations prior to pushing changes to this framework, to minimize disruption and distraction during product development.
+In some cases, when significant changes to the product development flow are needed, affecting multiple teams and/or function workflows, Product Operations may request a draft page and/or a [working group](/handbook/company/working-groups/) for multiple iterations prior to pushing changes to this framework, to minimize disruption and distraction during product development.
 
 

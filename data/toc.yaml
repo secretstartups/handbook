@@ -85,9 +85,9 @@
   - name: Contribution Guide
     url: docs
   - name: Practical Handbook Edits
-    url: /handbook/practical-handbook-edits
+    url: /handbook/editing-handbook/practical-handbook-edits
   - name: Edit This Website Locally
-    url: /handbook/git-page-update
+    url: https://gitlab.com/gitlab-com/content-sites/handbook/-/tree/main
   - name: Handbook Style Guide
     url: /handbook/style-guide
   - name: Content Websites
@@ -197,8 +197,8 @@
   icon: fa-solid fa-shield-halved
   url: /handbook/security
   links:
-  - name: Security Engineering
-    url: /handbook/security/security-engineering/
+  - name: Product Security
+    url: /handbook/security/product-security/
   - name: Security Operations
     url: /handbook/security/security-operations/
   - name: Threat Management

@@ -6,7 +6,7 @@ description: A detailed listing of the responsibilities of Support Engineers in 
 ## Introduction
 
 1. This page is an extension of the [Support Engineer job family](/job-families/engineering/support-engineer/) page.
-1. This page should reflect the [Support Career Framework](/handbook/engineering/career-development/matrix/engineering/support/).
+1. This page should reflect the [Support Career Framework](/handbook/engineering/careers/matrix/support/).
 1. The **aim** of this page is to **help you to know what your responsibilities as a
    Support Engineer are**.
 1. **You're not expected to work on all areas every week**. Some of the areas

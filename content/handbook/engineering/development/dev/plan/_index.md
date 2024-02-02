@@ -127,6 +127,10 @@ To access these, simply go to the [Plan Customer Calls](https://gitlab.dovetaila
 
 If you find you do not have access, reach out to a Plan PM and ask to be added as a Viewer.
 
+#### Review previous UX Research calls
+
+UX Research calls are scripted calls designed to mitigate bias and to address specific questions related to user needs and/or usability of the product. A selection of UX Research calls are available in the [Plan Customer Calls](https://gitlab.dovetailapp.com/projects/3Smr4JOoU7a5pnWqazMfr2/readme) Dovetail Project in the column titled UXR - Research and Validation.
+
 ### Board Refinement
 
 We perform many board refinement tasks asynchronously, using GitLab issues
@@ -333,14 +337,18 @@ The responsibility of the DRI is simply to collect information and to ensure the
 
 | Issue creation (auto) | DRI |
 |---   | ---       |
-| 2023-11-20 | Kushal Pandya |
-| 2023-11-27 | Brandon Labuschagne |
-| 2023-12-04 | Donald Cook |
-| 2023-12-11 | John Hope |
-| 2023-12-18 | Donald Cook |
-| 2023-12-25 | John Hope |
-| 2024-01-01 | Kushal Pandya |
-| 2024-01-08 | John Hope |
+| 2024-01-08 | Kushal Pandya |
+| 2024-01-15 | John Hope |
+| 2024-01-22 | Brandon Labuschagne |
+| 2024-01-29 | Donald Cook |
+| 2024-02-05 | Kushal Pandya |
+| 2024-02-12 | John Hope |
+| 2024-02-19 | Brandon Labuschagne |
+| 2024-02-26 | Donald Cook |
+| 2024-03-04 | Kushal Pandya |
+| 2024-03-11 | John Hope |
+| 2024-03-18 | Brandon Labuschagne |
+| 2024-03-25 | Donald Cook |
 
 #### Links
 

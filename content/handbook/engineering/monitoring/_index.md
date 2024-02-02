@@ -3,12 +3,6 @@
 title: Monitoring of GitLab.com
 ---
 
-
-
-
-
-
-
 ## GitLab.com Service Availability
 
 Service Availability is the percentage of time during which the platform is in an available state. Other states are _degraded_ and _outage_.
@@ -59,7 +53,9 @@ More details on definitions of outage, and degradation are on the [incident-mana
 
 | **Year Month** | **Availability** | **Comments** |
 | ---- | ----------- | ---- |
-| 2023 November | TBD|  |
+| 2024 January | TBD | |
+| 2023 December | 99.99% |  |
+| 2023 November | 99.99% |  |
 | 2023 October | 99.89 | Oct 30 [Sev 1](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/17054) |
 | 2023 September | 99.98% |  |
 | 2023 August | 100% |  |
@@ -121,7 +117,7 @@ These videos provide examples of how to quickly identify failures, defects, and 
 
 ### Pingdom Statistics
 
-We use our apdex based measurements to report official availability (see above). However, we also have some public pingdom tests for a representative view of overall performance of GitLab.com. These are availably at [https://stats.pingdom.com](http://stats.pingdom.com/81vpf8jyr1h9). Specifically, this has the availability and latency of reaching
+We use our apdex based measurements to report official availability (see above). However, we also have some public pingdom tests for a representative view of overall performance of GitLab.com. These are available at [https://stats.pingdom.com](http://stats.pingdom.com/81vpf8jyr1h9). Specifically, this has the availability and latency of reaching
    - a [GitLab.com issue](). For reference, it is the [first gitlab-ce issue](https://gitlab.com/gitlab-org/gitlab-ce/issues/1).
    - [GitLab.com](https://gitlab.com/) "plain and simple" called the [GitLab public check](http://stats.pingdom.com/81vpf8jyr1h9/4932705/history).
 

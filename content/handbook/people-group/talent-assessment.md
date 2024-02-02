@@ -369,11 +369,11 @@ Below is the high level timeline for the formal assessment in Q4 FY24 (Nov, Dec,
 - **2023-12-01:** 5:00pm PST Workday Calibration will be locked
 - **2023-12-01 - 2023-12-08:** Total Rewards and final E-Group review and approval
 - **2023-12-11 - 2023-12-22 (5:00pm PST):** Managers will have access to Workday Talent Assessment to finalize evaluations
-- **2024-01-02 - 2024-01-31:** Managers can communicate Performance/Growth Potential assessment to team members
-- **2024-02-01:** Talent Assessments pending in Workday will be auto advanced to team members*
-- **2024-02-09:** Annual Compensation Review Kicks off for Managers
+- **2024-01-02 - 2024-02-09:** Managers can communicate Performance/Growth Potential assessment to team members
+- **2024-02-12:** Talent Assessments pending in Workday will be auto advanced to team members*
+- **2024-01-09:** Annual Compensation Review Kicks off for Managers
 
-*Team members who are on Leave of Absence (LOA) on 2023-02-01 are excluded from the auto advancement of their talent assessment until they return to work.
+*Team members who are on Leave of Absence (LOA) on 2024-02-12 are excluded from the auto advancement of their talent assessment until they return to work.
 
 ### Cadence
 
@@ -713,7 +713,7 @@ The succession planning process might vary slightly for different areas of the b
 |-----------|---|
 | Emergency (ER) | Someone who could take over this role if the current person were affected by a [lottery factor](/handbook/total-rewards/compensation/#competitive-rate) or had to take emergency leave. *Note: If there is no one who could assume the role today in an emergency situation, part of the succession coverage plan should include an overview of recommendation steps (I.E. engaging a consultancy, splitting up the team, etc.)* |
 | Ready Now (RN) | Someone who has 90% of the competency & experience to take the role now |
-| Ready in 1-2 years) | With additional responsibility & exposure, could take the role soon  |
+| Ready in 1-2 years | With additional responsibility & exposure, could take the role soon  |
 | Ready in 2-3+ years | Longer term candidate who requires significant development |
 | Interim coverage | Has competency and experience to provide coverage on an interim basis (~6 months), but may not be suitable for the role long-term |
 

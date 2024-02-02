@@ -3,20 +3,17 @@
 title: Incident Management
 ---
 
-
-
-
-
-
-
+{{% alert color="warning" %}}
 If you're a GitLab team member and are looking to alert Reliability Engineering about an availability issue with GitLab.com, please find quick instructions to report an incident here: [Reporting an Incident](#reporting-an-incident).
-{: .alert .alert-danger}
+{{% /alert %}}
 
+{{% alert color="warning" %}}
 If you're a GitLab team member looking for who is currently the Engineer On Call (EOC), please see the [Who is the Current EOC?](#who-is-the-current-eoc) section.
-{: .alert .alert-info}
+{{% /alert %}}
 
+{{% alert color="warning" %}}
 If you're a GitLab team member looking for the status of a recent incident, please see the incident [board](https://gitlab.com/gitlab-com/gl-infra/production/-/boards/1717012?&label_name%5B%5D=incident). For detailed information about incident status changes, please see the [Incident Workflow](#incident-workflow) section.
-{: .alert .alert-info}
+{{% /alert %}}
 
 ## Incident Management
 
@@ -459,7 +456,7 @@ Incident Managers and Engineers On-Call can use the following table as a guide f
 | ------------- | ------------- | -------------|
 | `~severity::1` |  &emsp;  - GitLab.com is unavailable or severely degraded for the typical GitLab user<br>&emsp;  - Any data loss directly impacting customers<br>&emsp;  - The [guaranteed self-managed release date](/handbook/engineering/releases/#timelines) is put in jeopardy<br>&emsp;  - It is a [high impact security incident](/handbook/security/security-operations/sirt/severity-matrix.html#functional-impact-rating-examples)<br>&emsp; - It is an internally facing incident with full loss of metrics observability (Prometheus down)<br><br>[Incident Managers](/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) should be paged for all `~severity::1` incidents| Past `severity::1` [Issues](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/?sort=updated_desc&state=closed&label_name%5B%5D=severity%3A%3A1&first_page_size=100)|
 | `~severity::2` |   &emsp;  - There is a recorded impact to the availability of one or more [GitLab.com Primary Service with a weight > 0](https://dashboards.gitlab.net/d/general-slas/general-slas?orgId=1&from=now-1h&to=now).  This includes `api`, `container registry`, `git access`, `API` and `web`.<br>&emsp;  - GitLab.com is unavailable or degraded for a small subset of users <br>&emsp;- GitLab.com is degraded but a reasonable workaround is available (includes widespread frontend degradations)<br>&emsp;- Any [moderate impact security incident](/handbook/security/security-operations/sirt/severity-matrix.html#functional-impact-rating-examples)<br>&emsp;- CustomersDot is offline<br><br>[Incident Managers](/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) should be paged for all `~severity::2` incidents| Past `severity::2` [Incidents](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/?sort=updated_desc&state=closed&label_name%5B%5D=severity%3A%3A2&first_page_size=100)|
-| `~severity::3` |   &emsp;  - Broad impact on GitLab.com and minor inconvenience to typical user's workflow <br>&emsp;- A workaround is not needed<br>&emsp;- Any [low impact security incident](/handbook/security/security-operations/sirt/severity-matrix.html#functional-impact-rating-examples)<br>&emsp;- Most internally facing issues pertaining to blocked deployments<br>&emsp;- CustomersDot is in maintenance mode | Past `severity::3` [Incidents](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/?sort=updated_desc&state=closed&label_name%5B%5D=severity%3A%3A3&first_page_size=100)|
+| `~severity::3` |   &emsp;  - Broad impact on GitLab.com and minor inconvenience to typical user's workflow <br>&emsp;- A workaround is not needed<br>&emsp;- Any [low impact security incident](/handbook/security/security-operations/sirt/severity-matrix.html#functional-impact-rating-examples)<br>&emsp;- Most internally facing issues pertaining to blocked deployments (should a higher-severity incident be blocked by deployments, the severity for the blocker is still 3)<br>&emsp;- CustomersDot is in maintenance mode | Past `severity::3` [Incidents](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/?sort=updated_desc&state=closed&label_name%5B%5D=severity%3A%3A3&first_page_size=100)|
 | `~severity::4` |   &emsp;  - Minimal impact on GitLab.com typical user's workflow | Past `severity::4` [Incidents](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/?sort=updated_desc&state=closed&label_name%5B%5D=severity%3A%3A4&first_page_size=100)|
 
 ### Alert Severities
@@ -519,7 +516,6 @@ In order to help with attribution, we also label each incident with a scoped lab
 | `~Incident::Active` | Indicates that the incident labeled is active and ongoing. Initial severity is assigned when it is opened. |
 | `~Incident::Mitigated` | Indicates that the incident has been mitigated. A mitigated issue means that the impact is significantly reduced and immediate post-incident activity is ongoing (monitoring, messaging, etc.). The mitigated state should not be used for silenced alerts, or alerts that may reoccur. In both cases you should mark the incident as resolved and close it.|
 | `~Incident::Resolved` | Indicates that SRE engagement with the incident has ended and the condition that triggered the alert has been resolved. Incident severity is re-assessed and determined if the initial severity is still correct and if it is not, it is changed to the correct severity. Once an incident is resolved, the issue will be closed. |
-| `~Incident::Review-Completed` | Indicates that an incident review has been completed, this should be added to an incident after the review is completed if it has the `~review-requested` label. |
 
 #### Root Cause Labeling
 
@@ -606,8 +602,8 @@ The following labels are added and removed automatically by [triage-ops](https:/
 
 | Needs Label | Description |
 | ----------- | ----------- |
-| `~{RootCause,Service,CorrectiveActions}::Needed` | Will be added automatically if the corresponding label has not been set. If this label persists the DRI of the incident will be mentioned on a note to correctly label the incident |
-| `~{RootCause,Service,CorrectiveActions}::NotNeeded` | In rare cases, the corresponding label won't be needed, this label can be used to disable the periodic notes to remind the DRI to update the label |
+| `~{RootCause,Service,CorrectiveActions,IncidentReview}::Needed` | Will be added automatically if the corresponding label has not been set. If this label persists the DRI of the incident will be mentioned on a note to correctly label the incident |
+| `~{RootCause,Service,CorrectiveActions,IncidentReview}::NotNeeded` | In rare cases, the corresponding label won't be needed, this label can be used to disable the periodic notes to remind the DRI to update the label |
 
 #### Required Labeling
 

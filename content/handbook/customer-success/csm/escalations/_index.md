@@ -20,7 +20,7 @@ Escalations can take at least two different forms:
 1. Account Escalation.  This occurs when the customer expresses or a GitLab team member identifies that a customer is facing a challenging situation that may or may not relate to a specific support ticket. Anyone in GitLab can [open an account escalation](#opening-the-escalation) and [circulate it to the leadership of the appropriate group to find a DRI](#escalation-dri).
 1. Support Ticket Attention Requests (STAR).  This occurs when an open support ticket is deemed moving too slowly.
 
-The purpose of this handbook entry is to describe the process for account escalations.  Please see the [Support Ticket Attention Requests](/handbook/support/internal-support/support-ticket-attention-requests.html) for details on how to request a support ticket escalation.
+The purpose of this handbook entry is to describe the process for account escalations.  Please see the [Support Ticket Attention Requests](/handbook/support/internal-support/support-ticket-attention-requests/) for details on how to request a support ticket escalation.
 
 ## Objective
 
@@ -194,7 +194,7 @@ The `#escalated_customers` channel is for awareness only and is not intended to 
 ### Managing the Escalation:
 
 - DRI owns the functions as outlined here
-- If an escalation status significantly changes, alert in the customer escalation slack channel and ping all DRIs involved in escalation  
+- If an escalation status significantly changes, alert in the `#escalated_customers` slack channel and ping all DRIs involved in escalation, as well as post in the temporary customer slack channel
 - Escalation document kept updated with minimum daily updates
 - The escalation progress should also be communicated to the customer on a regular basis like 3 times per week or more often depending on the situation. (Set up a calender reminder for yourself to make it easier)
 - **Daily Slack updates are posted to the designated customer escalation channel (see escalation doc for format)**

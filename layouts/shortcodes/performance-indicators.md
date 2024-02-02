@@ -1,3 +1,4 @@
+{{ .Page.Store.Set "hastableau" true -}}
 {{- $data := slice }}
 {{- $dataURL := printf "https://gitlab.com/gitlab-com/www-gitlab-com/-/raw/master/data/performance_indicators/%s.yml" (.Get 0) }}
 {{- with resources.GetRemote $dataURL }}
@@ -101,6 +102,9 @@
   {{- with .sisense_data_tertiary -}}
     {{- partial "performance-indicators/chart" (dict "data" . "open" $open) -}}
   {{- end -}}
+  {{- with .tableau_data -}}
+  	{{- partial "performance-indicators/tableau-chart" (dict "data" . "open" $open) -}}
+  {{ end }}
 {{- end -}}
 
 {{- with .urls }}

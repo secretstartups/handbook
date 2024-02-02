@@ -19,7 +19,7 @@ Specific coaching plan templates are listed here to help start the conversation:
 We want to build these documents around the career matrix for Engineering. Since this career
 matrix is still being developed, these documents are currently based on the [job family requirements](/job-families/engineering/).
 
-The first career matrix being developed is for [Individual Contributors in Engineering](/handbook/engineering/career-development/matrix/engineering/).
+The first career matrix being developed is for [Individual Contributors in Engineering](/handbook/engineering/careers/matrix/).
 
 When a team member is deemed ready for promotion, their manager should follow
 the [promotion process outlined by People](/handbook/people-group/promotions-transfers/) Ops.
@@ -149,7 +149,7 @@ For more details on logistics of ending an interim or acting period please refer
   %% frontend roles
   eng:tfe(Intern Frontend Engineer);
   click eng:tfe "https://handbook.gitlab.com/job-families/engineering/development/frontend/#intern-frontend-engineer";
-  
+
   eng:afe(Associate Frontend Engineer);
   click eng:afe "https://handbook.gitlab.com/job-families/engineering/development/frontend/#associate-frontend-engineer";
 
@@ -181,7 +181,7 @@ For more details on logistics of ending an interim or acting period please refer
   %% fullstack roles
   eng:tfs(Intern Fullstack Engineer);
   click eng:tfs "https://handbook.gitlab.com/job-families/engineering/development/fullstack/#intern-fullstack-engineer";
-  
+
   eng:afs(Associate Fullstack Engineer);
   click eng:afs "https://handbook.gitlab.com/job-families/engineering/development/fullstack/#associate-fullstack-engineer";
 
@@ -434,7 +434,7 @@ If you wish to apprentice with an Engineering team, start by speaking with your 
 
 An internship is a position meant for someone who has decided on a career path and is looking to gain in-depth experience in a specific field. At GitLab this is the entry level of roles in Engineering.
 
-In May 2020 we launched an internship pilot program as part of a [Working Group](/handbook/company/team/structure/working-groups/internship-pilot/). [The pilot internship program](/handbook/engineering/internships/) has proven to be a great mechanism for hiring as well as offered great opportunities for our team members to gain mentoring experience. Due to the program's success currently we have decided to roll out internships on a continuous basis in Engineering.
+In May 2020 we launched an internship pilot program as part of a [Working Group](/handbook/company/working-groups/internship-pilot/). [The pilot internship program](/handbook/engineering/internships/) has proven to be a great mechanism for hiring as well as offered great opportunities for our team members to gain mentoring experience. Due to the program's success currently we have decided to roll out internships on a continuous basis in Engineering.
 
 With the roll out of the intern level in Engineering we have decided to deprecate what previously has been called the junior level (former entry level). Going forward all teams within Engineering can open an intern requisition when there's an organizational need. All information on Internships in Engineering can be found on [this page](/handbook/engineering/internships/).
 

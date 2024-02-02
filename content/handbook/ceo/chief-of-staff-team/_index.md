@@ -255,7 +255,7 @@ The CoS to the CEO will also assist the CEO in prepping for the CEO's end of yea
 
 ## Managing the Functional Leaders
 
-Functional Leaders is a group comprised of all [CEO-Skips](/handbook/company/team/structure/#ceo-skips), select People Business Partners, and a few other folks as nominated by members of E-Group.
+Functional Leaders is a group comprised of all [CEO-Skips](/handbook/company/structure/#ceo-skips), select People Business Partners, and a few other folks as nominated by members of E-Group.
 The CoS to the CEO enables and manages this group.
 
 ## Maintaining the Mitigating Concerns
@@ -264,9 +264,9 @@ We outline our [Mitigating Concerns](https://internal-handbook.gitlab.io/handboo
 The CoS to the CEO is responsible for maintaining this list.
 There is an issue to also [add DRIs and review the mitigations](https://gitlab.com/gitlab-com/cos-team/-/issues/20).
 
-## Supporting Contribute Challenge
+## Supporting Summit Challenge
 
-The CEO chooses to run a Contribute Challenge in advance of some [Contributes](https://about.gitlab.com/events/gitlab-contribute/). The Challenge is shared at least two weeks in advance of Contribute. As an example, the 2020 Challenge encouraged team members to [beautify docs](https://gitlab.com/groups/gitlab-org/-/epics/3063). The CoST to the CEO is responsible for collaborating with the CEO to create and introduce the challenge. The CEO is responsible for identifying a prize for team members, but the CoST should ensure that a prize is identified and support the CEO in this if needed.
+The CEO chooses to run a Summit Challenge in advance of some [Summits](https://about.gitlab.com/events/gitlab-contribute/). The Challenge is shared at least two weeks in advance of Summit. As an example, the 2020 Challenge encouraged team members to [beautify docs](https://gitlab.com/groups/gitlab-org/-/epics/3063). The CoST to the CEO is responsible for collaborating with the CEO to create and introduce the challenge. The CEO is responsible for identifying a prize for team members, but the CoST should ensure that a prize is identified and support the CEO in this if needed.
 
 ### Meeting Cleanup Day
 
@@ -304,7 +304,7 @@ As of FY23, the Chief of Staff Team to the CEO is [responsible for the GitLab ha
 This includes maintaining infrastructure and ensuring usability of both the internal and public handbooks.
 
 During FY24, we have started the migration of handbook content from [about.gitlab.com](https://about.gitlab.com/handbook)
-to our [new handbook site]({{< ref "/content/_index.md" >}}).
+to our [new handbook site]({{< ref "/content/_index.html" >}}).
 
 We are excited by this move which we hope will improve the usability of the handbook and demonstrate our commitment to
 our values of iteration, collaboration, and transparency.  During the coming months we will be iterating over the handbook

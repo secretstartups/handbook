@@ -1,16 +1,8 @@
 ---
-
+controlled_document: true
 title: "Baseline Role-Based Entitlements"
 description: "The goal of baseline and role-based entitlements is to increase security while reducing access management complexity by moving towards role-based access control."
 ---
-
-
-
-
-
-
-
-# Baseline Role-Based Entitlements
 
 ## Policy, documentation and more detailed information
 

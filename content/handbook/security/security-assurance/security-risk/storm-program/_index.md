@@ -1,10 +1,7 @@
 ---
 title: "Security Operational Risk Management (StORM) Program & Procedures"
+controlled_document: true
 ---
-
-{{% alert title="This is a Controlled Document" color="danger" %}}
-Inline with GitLab's regulatory obligations, changes to [controlled documents]({{< ref "controlled-document-procedure" >}}) must be approved or merged by a code owner. All contributions are welcome and encouraged.
-{{% /alert %}}
 
 {{% panel header="**Not a GitLab team member but want to provide feedback on our StORM program?**" header-bg="primary" %}}
 We receive [feedback](/handbook/people-group/guidance-on-feedback/#feedback-at-gitlab) from GitLab team members regularly and we wanted to provide a mechanism for non-GitLab team members to provide feedback as well to help us [iterate](/handbook/values/#iteration) and align more closely with [our values](https://handbook.gitlab.com/handbook/values). If you are not a GitLab team member and would like to provide feedback on our Security Operational Risk Management (StORM) program or methodology, plese use this [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSfmD4G6CTdpbCe5Aymoz0oD6Z3Oi1X-2xxYzGNbJ2wcYh6uOA/viewform?usp=sf_link) to submit anonymous feedback.
@@ -109,9 +106,9 @@ Our risk appetite is translated to a tolerance which defines a range in which a 
 
 |Risk Averse|Risk Neutral|Risk Receptive|Risk Seeking|
 |:---------:|:---------:|:---------:|:---------:|
-|1-5|1-10|1-18|1-26|
+|1-5|1-10|1-15|1-20|
 
-Risk scores above 26 are considered too risky to be considered within tolerance for any risk appetite.
+Risk scores above 20 (High or Very High risk rating) are considered too risky to be considered within tolerance for any risk appetite. In other words, risks that are rated High and Very High will never be monitored, but must be accepted.
 
 #### Historical and Current Record of GitLab's Security Risk Appetite
 
@@ -316,9 +313,11 @@ Once the Inherent and Residual risk score is determined, the following table can
 
 |Risk Rating|Risk Score Range|
 |:---------:|:--------------:|
-|Low|1-10|
-|Medium|11-20|
-|High|21-30|
+|Very Low|0-5|
+|Low|5-10|
+|Moderate|10-20|
+|High|20-25|
+|Very High|25-30|
 
 These ratings represent labels for communication purposes rather than what is or is not acceptable. To determine what is an acceptable risk, please refer to [risk tolerances](#translating-gitlabs-security-risk-appetite-to-risk-tolerance).
 
@@ -387,9 +386,9 @@ In the cases where a risk owner has opted to pursue a risk acceptance, the follo
 
 |Risk Level|Approval Level Required|
 |-----|-----|
-|HIGH|Risk Owner + Director/VP Level Approval* + E-group Level Approval|
-|MODERATE|Risk Owner + Director/VP Level Approval*|
-`*` If the Risk Owner is a Director/VP, no additional Director/VP level approval is required
+|VERY HIGH|Risk Owner + VP Level Approval* + E-group Level Approval|
+|HIGH/MODERATE|Risk Owner + VP Level Approval*|
+`*` If the Risk Owner is a VP, no additional VP level approval is required
 
 By accepting the risk, the Risk Owner and risk acceptance approvers (if separate from Risk Owner), agree to reassess the risk on an annual basis to determine whether risk acceptance is the best response option for the respective risk. If risk acceptance is appropriate based on the annual assessment, approvals will be re-obtained based on the risk and approval requirements noted in the table above. Additionally, the Risk Owner will be on point for remediation in the event the risk is realized or risk acceptance is no longer appropriate.
 
@@ -398,6 +397,22 @@ By accepting the risk, the Risk Owner and risk acceptance approvers (if separate
 Identified risks are formally tracked via an internal risk register. Given the nature of the sensitivity of this information in aggregate, the risk register is [not made public]({{< ref "confidentiality-levels#not-public" >}}), and is not distributed externally. However, a publicly viewable GitLab Risk Register Template is available [here](https://docs.google.com/spreadsheets/d/1Lvn-ZjPNcZ-QMh-pkC6HqjwR-acUf70V9w2pquhRmH0/edit?usp=sharing) for those interested in getting some more insight into the type of information tracked in GitLab's risk register. StORM-related risk activities are centralized within GitLab's GRC tool, ZenGRC. Additional information on the various risk-related activities carried out of ZenGRC can be found on the [ZenGRC Activities]({{< ref "zg-activities#risk-activities" >}}) handbook page.
 
 Historically, we've produced an annual report to summarize our current StORM landscape including new potential risks, updates on our highest risks to support decision-making, and recommendations on actions to take to help mitigate existing risks. Starting in FY24 we will produce a quarterly report in alignment with our values. The template we've used can be found [here](https://docs.google.com/presentation/d/1uwz8sKnf9sWY9Of_GKPtIU2dDa3i6k6xekZENPW41NY/edit?usp=sharing) for reference.
+
+### Top 5 Risks
+
+The Security Division's "Top 5 Risks" are established during annual risk assessment activities and are reported upon quarterly as resources allow.  Security Leadership leverages these Top 5 Risks when conducting short and long-term strategic planning activities.
+
+#### Long-Term Risk Treatment Planning
+
+Executive Risk Owners are accountable for ensuring that long-term treatment plans are established and executed for each of the Top 5 Risks. The Security Risk Team is responsible for coordinating long-term treatment planning with the Executive Risk Owner and the associated Risk Owner(s). The following template is leveraged during planning to ensure consistency in our approach and in reporting:
+
+ - Establish success criteria that would move the risk within [tolerance](https://handbook.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/#translating-gitlabs-security-risk-appetite-to-risk-tolerance). These criteria will become Key Results (KRs) and are the milestones used to gauge progress of risk remediation. Completed KRs will correlate to a reduced risk score.
+ - Identify dependencies for each KR.
+ - Identify a Risk Owner responsible for delivering each KR. This person should be in the department responsible for implementing the treatment activity.
+ - Establish realistic target delivery dates for each KR. Due to the nature of operational risks, we expect delivery dates to range up to 4 years in the future. Try to establish at least one KR per quarter to show incremental progress.
+ - Scoring: Subtract '10' (our risk tolerance threshold based on the current risk appetite) from the current risk score to identify the reduction required to move the risk within tolerance. Divide this difference by the number of projected KRs. The quotient/remainder is the amount the score will be reduced each time a KR is completed. This number can be adjusted judgmentally as required.
+
+ In the event the Executive Risk Owner chooses not to pursue a Risk Remediation-related KR in a given quarter due to competing priorities, a [Risk Acceptance](https://handbook.gitlab.com/handbook/security/security-assurance/security-risk/third-party-risk-management/#tprm-risk-acceptance-process) should be formalized to document the business rationale. This Risk Acceptance should contain rationale explaining why the risk of delaying additional Risk Remediation is less than the risk of not fulfilling the competing priority.
 
 #### StORM Reporting Schedule
 

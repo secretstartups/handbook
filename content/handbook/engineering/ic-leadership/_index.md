@@ -15,15 +15,15 @@ At GitLab, it is expected that everyone is [a manager of one](/handbook/leadersh
 
 Just like moving into management, also moving from Senior to Staff changes the day-to-day work and expectations placed on ICs.
 
-Engineering IC Leaders exert [technical leverage](#technical-leverage) in their [scope of influence](/handbook/engineering/career-development/matrix/engineering/).
+Engineering IC Leaders exert [technical leverage](#technical-leverage) in their [scope of influence](/handbook/engineering/careers/matrix/).
 Like any other leadership role, the focus should be on helping others to improve.
 Their impact multiplies with every person they help grow, and the company gets more value when they're not investing time in doing things themselves.
 
 Technical skills developed in their career up until now are still very important, and the role is still hands-on technical. Their technical skills are vast and are developing at a lower rate of change now, but they also get new skills that will drive their career from now on: Communication, Collaboration, and Leadership.
 
-### What GitLab Engineers Have to Say About IC Leadership 
+### What GitLab Engineers Have to Say About IC Leadership
 
-During a Handbook Learning discussion, Eric (former Chief Technology Officer), Engineering IC Leaders, and the Learning and Development team discuss Engineering IC Leadership. We discuss topics during an interactive handbook discussion about what it means to be an IC leader. 
+During a Handbook Learning discussion, Eric (former Chief Technology Officer), Engineering IC Leaders, and the Learning and Development team discuss Engineering IC Leadership. We discuss topics during an interactive handbook discussion about what it means to be an IC leader.
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/OXBwtaZ9edQ" frameborder="0" allowfullscreen="true"> </iframe>
@@ -31,7 +31,7 @@ During a Handbook Learning discussion, Eric (former Chief Technology Officer), E
 
 > Start with a level set. You have an intermediate Engineer, then they become a Senior Engineer, and there's a fork in the road. There is a dual career track where you can choose the "manager track" or the "IC Leadership track." - Eric Johnson (former Chief Technology Officer)
 
-Additional topics covered in the discussion include: 
+Additional topics covered in the discussion include:
 1. What does it mean to be an Engineering IC Leader
 2. What are the skills needed to do the job
 3. How the role differs from other Engineering management roles
@@ -59,7 +59,7 @@ Examples of this are:
 
 ### The four archetypes
 
-Staff Engineers and Engineering Managers shared their perspective on [what does Staff level mean at GitLab](https://about.gitlab.com/blog/2020/02/18/staff-level-engineering-at-gitlab/) in an [Unfiltered](/handbook/marketing/blog/unfiltered/) blogpost. 
+Staff Engineers and Engineering Managers shared their perspective on [what does Staff level mean at GitLab](https://about.gitlab.com/blog/2020/02/18/staff-level-engineering-at-gitlab/) in an [Unfiltered](/handbook/marketing/blog/unfiltered/) blogpost.
 Much of what each engineer said overlapped, but each had a unique perspective based on their team and their particular experience within GitLab as an entity.
 
 There are [four common archetypes of Staff-plus roles in the industry](https://staffeng.com/guides/staff-archetypes) that could explain this variability their perspective:

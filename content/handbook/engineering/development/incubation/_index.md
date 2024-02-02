@@ -6,7 +6,7 @@ title: Incubation Engineering Department
 
 The Incubation Engineering Department within the Engineering Division focuses on projects that are pre-Product/Market fit. The projects they work on align with the term "new markets" from one of our [product investment types](https://internal.gitlab.com/handbook/product/investment/). They are ideas that may contribute to our revenue in 3-5 years time. Their focus should be to move fast, ship, get feedback, and [iterate](/handbook/values/#iteration). But first they've got to get from 0 to 1 and get something shipped.
 
-We utilize [Single-engineer Groups](/handbook/company/team/structure/#single-engineer-groups) to draw benefits, but not distractions, from within the larger company and [GitLab project](https://gitlab.com/gitlab-org/gitlab) to maintain that focus. The Single-engineer group encompasses all of product development (product management, engineering, design, and quality) at the smallest scale. They are free to learn from, and collaborate with, those larger departments at GitLab but not at the expense of slowing down unnecessarily.
+We utilize [Single-engineer Groups](/handbook/company/structure/#single-engineer-groups) to draw benefits, but not distractions, from within the larger company and [GitLab project](https://gitlab.com/gitlab-org/gitlab) to maintain that focus. The Single-engineer group encompasses all of product development (product management, engineering, design, and quality) at the smallest scale. They are free to learn from, and collaborate with, those larger departments at GitLab but not at the expense of slowing down unnecessarily.
 
 The Department Head is the [VP of Incubation Engineering](/job-families/engineering/development/incubation/management/vp/).
 
@@ -47,7 +47,7 @@ A new market in our product roadmap is a long-term bet to help us expand our Ser
 
 We look at areas that fit within our [company mission](/handbook/company/mission/) that we currently do not service and have one or more competitors that have validated the customer need.  Our criteria for entering these markets is that there is at least one competitor that is attaining over $100M annual recurring revenue, or at least 3 venture capital funded startups that have taken over $5M in funding.  We track our understanding of these markets via this [internal document](https://docs.google.com/document/d/17nD0Pko3Ff-ensiE0SUl3atxassZlC7pEpuIvzTy8Ek/edit?usp=sharing).
 
-We also manage projects that may not fit the above definition, but are well suited to the [SEG](/handbook/company/team/structure/#single-engineer-groups) model that we use as they require a degree of experimentation with significant risk of failure. These are significant defensive roadmap items that are important to work on to maintain our market share and competitive advantage in an area, but we cannot yet justify funding a larger R&D effort.
+We also manage projects that may not fit the above definition, but are well suited to the [SEG](/handbook/company/structure/#single-engineer-groups) model that we use as they require a degree of experimentation with significant risk of failure. These are significant defensive roadmap items that are important to work on to maintain our market share and competitive advantage in an area, but we cannot yet justify funding a larger R&D effort.
 
 The Incubation Engineering Department is not suited to deliver regular roadmap items as they are typically smaller in effort, have less risk of failure, and have less scope for experimentation to determine product/user fit.
 

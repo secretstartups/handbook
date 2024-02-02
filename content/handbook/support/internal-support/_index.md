@@ -122,7 +122,7 @@ Note that you cannot send public replies to customers with a Light Agent account
 
 ### GitLab plan or license for team members
 
-For GitLab team members, a GitLab license or plan request is done through [Access requests](https://gitlab.com/gitlab-com/team-member-epics/access-requests). Please follow the appropriate handbook instructions, such as the [Incentive instructions](/handbook/incentives/#gitlab-ultimate), or open an issue with the most appropriate template, such as [the License request template](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitLab_Team_Member_License_request) for self-managed instances.
+For GitLab team members, a GitLab license or plan request is done through [Access requests](https://gitlab.com/gitlab-com/team-member-epics/access-requests). Please follow the appropriate handbook instructions, such as the [Incentive instructions](/handbook/incentives/#gitlab-ultimate), or open an issue with the most appropriate template, such as [the License request template](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitLab_Team_Member_License_request) for self-managed instances.  Note that a **staging license** requires your GitLab installation be configured to use the [Customers Portal Staging](https://docs.gitlab.com/omnibus/development/setup.html#use-customers-portal-staging-in-gitlab) environment.
 
 ### Contacting users about GitLab incidents or changes
 
@@ -245,7 +245,6 @@ A list of common scenarios and the appropriate option are detailed in the follow
 | Order Management | Use this for Order Management requests. Please note if the license information you are requesting does not match the Salesforce opportunity, we will likely not be able to generate the license as Support cannot waive seats or Trueups. Ensure you include a summary of the action requested in the context field. |
 | Hacker One Reporter License | Use this to request a license be generated for a Hacker One reporter. |
 | Report a Provision Failure | This form can be used by the Fulfillment Provisioning team to request help from L&R support when handling a Provisioning failure. Please ensure you provide a detailed description of the type of assistance that you require from the L&R support team. |
-| Hacker One Reporter License | Use this to request a license be generated for a Hacker One reporter. |
 | Wider Community License | Use this to request a community license be generated. Please note for any license lasting longer more than 90 days, manager approval is required. Without an approving manager's email being provided, the ticket will be closed out |
 | Use this for any license & renewal issues where no other options fit. Please note if this form is used when an option **does** exist, the request will be closed and you will need to submit a new request using the correct form. |
 
