@@ -701,6 +701,55 @@ For more information on quoting or the Partner Program, please visit:
 - [Partner Program](/handbook/resellers/)
 - [Channel Discount Matrices for GitLab Team Members](https://docs.google.com/document/d/1qiT_2EsnL20c4w0hyZ_CGaJQIzj8CSCsHERoR80cwws/edit?usp=sharing).
 
+## Partner Influence 
+
+Partners can influence GitLab opportunities without sourcing or transacting the deal. Qualifying partner influence activities include customer executive engagement and advocacy and/or working side by side with GitLab on the customer pursuit. The Partner Sales team is required to submit a Partner Influence Registration to receive influence credit for the opportunity, which must be approved by the Area Sales Manager. 
+
+Influence Registration should only be submitted and approved for: 
+1. a partner that did not source and/or transact the opportunity
+2. one partner (i.e., one approved Influence Registration/Partner per opportunity). Only the first approved record will qualify if multiple influence registrations are submitted and/or approved for one opportunity. 
+
+The GitLab ASM has two business days to either approve or reject the Influence Registration, which begins when the Registration hits their queue for approval. The ASM must communicate with the GitLab Partner Manager if their approval is anticipated to push beyond the two business day SLA.
+
+Follow the steps below to register partner influence on an opportunity:
+
+### Partner Manager for Submission
+
+1. From the Related List Quick Links at the top of the opportunity page, hover your cursor over Influence Partners and select `New Influence Partner`.
+![Alt text](image.png)
+1. Add a partner to the `Influence Partner` field using the lookup button.
+1. Select the applicable `Influence Type`:
+    - Customer executive engagement and advocacy
+    - Working side by side with GitLab on customer pursuit. 
+1. Select one or more applicable partner influence activities using `Influence Details`: 
+   - Introduction to a customer decision maker or C-Suite
+   - Host or participate in exec briefing advocating for GitLab
+   - Trusted exec or technical advisor proactively advocating for GitLab
+   - Introduce and/or position GitLab as part of better together software sale
+   - Deliver presentation demo, POC, or RFP response
+   - Develop customer strategy that recommends GitLab
+   - Advise GitLab account team on customer strategy/use case/pain points
+1. Provide a detailed description of the partner’s influence activities using `Description of Partner Influence`.
+1. Do not edit `Opportunity Owner`, `ASM`, `Partner Territory Manager` and `Customer Account`. These will auto-populate upon save. 
+1. `Save` the Influence Partner Record.
+![Alt text](image-1.png)
+1. Attach any supporting documentation that highlights the partner's influence on the opportunity via `Google Docs, Notes, & Attachments` section. 
+1. Click `Submit for Approval` to route the Influence Registration to the ASM for final review and action. 
+![Alt text](image-2.png)
+
+### Area Sales Manager (ASM) for final review and action
+1. You will receive an approval request email when an influence registration has entered your queue for review and approval. Click the link in your email to open the influence record in SFDC.
+1. Confirm alignment with the Partner Manager and GitLab Sales Rep prior to providing final approval or rejection on the influence registration.
+1. Click `Approve/Reject`.
+![Alt text](image-3.png)
+1. Add any message for the partner manager in the Comments field if applicable. Select `Approve`or `Reject` to complete the process.
+![Alt text](image-4.png)
+
+_Please reach out to @Partner Operations via chatter if you have any questions or if the ASM approver needs to be reassigned._
+
+
+
+
 ## Channel Approvals
 
 Channel Approvers for opportunities are based on the Opportunity Owner’s User Region. Whenever an approver changes, an [issue must be opened with Sales Systems](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/new?issue%5Bmilestone_id%5D=) to replace the old approver with the new. Current channel approvers can be seen in our [channel approver matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#heading=h.jxrpmpixprez).
