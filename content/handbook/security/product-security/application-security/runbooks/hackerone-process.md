@@ -141,6 +141,7 @@ Exposure of information and secrets is handled a little differently to vulnerabi
   - Check git commit history
   - Check build artifacts
   - Use Advanced Search to look for similar patterns in other projects used by GitLab team members
+- If it was leaked through GitLab Unfiltered, add the report to the [tracking issue](https://gitlab.com/gitlab-com/gl-security/security-research/video-scanner/youtube-video-scanner/-/issues/17)
 
 ## Triaging exposed personal data
 
