@@ -4,18 +4,11 @@ title: "Wayne Haber's README"
 job: "Engineering Director"
 ---
 
-#
-
-
-
-
-
 # Priorities
 
 I’m the director of development for these stages:
 * [Secure](/handbook/engineering/development/sec/secure/)
 * [Govern](/handbook/engineering/development/sec/govern/)
-* [Growth](/handbook/engineering/development/growth/)
 
 In addition to leading development for these development sub-departments, I also focus on:
 
