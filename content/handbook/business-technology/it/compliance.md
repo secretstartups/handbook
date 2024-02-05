@@ -26,7 +26,7 @@ In the interim, please visit the following handbook pages:
         - [Security Compliance](/handbook/security/security-assurance/security-compliance/)
         - [Security Governance](/handbook/security/security-assurance/governance/)
         - [Security Risk](/handbook/security/security-assurance/security-risk/)
-    - [Product Security Sub-department](/handbook/security/security-engineering/)
+    - [Product Security Sub-department](/handbook/security/product-security/)
         - [Application Security](/handbook/security/product-security/application-security/)
         - [Infrastructure Security](/handbook/security/product-security/infrastructure-security/)
     - [Security Operations Sub-department](/handbook/security/security-operations)

@@ -45,7 +45,7 @@ great results by using it.
 - Establish criteria for when a blueprint should be used.
 - Identify cross-functional touchpoints and consolidate upstream processes like
   [production readiness](/handbook/engineering/infrastructure/production/readiness/),
-  [AppSec reviews](/handbook/security/security-engineering/application-security/runbooks/review-process),
+  [AppSec reviews](/handbook/security/product-security/application-security/runbooks/review-process),
   and [creation of release posts](/handbook/marketing/blog/release-posts/).
 - Develop strategy for incorporating this process and the Engineering roadmap into Product planning
   and prioritization via the [Cross-functional Prioritization][next-prioritization] framework.
