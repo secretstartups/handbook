@@ -1,139 +1,114 @@
 ---
 
-title: "Pooled Model"
-description: "Overview of the SMB Pooled Model"
+title: "Global Digital SMB"
+description: "Overview of the Global Digital SMB Sales Model"
 ---
 
-## Pooled Model
+## Global Digital SMB Sales Model
 
-All members of the Sales, Support, Billing and Deal Desk teams should familiarize themselves with the AMER and EMEA Pooled Models.  
-
-The AMER model leverages team-level account alignment so Pooled SMB customers have a team of AE’s to assist them.  Every AE on the Pooled Account Team is equipped to work with any Pooled customer as the sales point of contact.
-
-The CARR threshold for Pooled accounts is <$4k for existing customers, and <$2k for new customers.
-
-In EMEA, each Pooled AE operates in their own, region specific Pool.
-
-## Account Ownership
-
-All AMER Pooled Accounts are owned by the [Pooled Sales User](https://gitlab.my.salesforce.com/0058X00000F1YFq?noredirect=1&isUserEntityOverride=1).  Note that these accounts are closely monitored and should not be considered ownerless.
-
-All EMEA Pooled Accounts are owned by that regions Pooled AE.
-
-## Opportunity Ownership
-
-All AMER Pooled Opportunities are owned by the [Pooled Sales User](https://gitlab.my.salesforce.com/0058X00000F1YFq?noredirect=1&isUserEntityOverride=1).  Note that these opps are worked as and when required by the Pooled AEs, and should not be considered ownerless.
-
-Exception: AMER Pooled AEs are permitted to own Ultimate Upgrade opportunities, since these are typically high value, and required dedicated AE attention.
-
-All EMEA Pooled Opportunities are owned by that regions Pooled AE.
-
-## Engaging with Pooled Accounts
-
-In AMER, since all Pooled Accounts are owned by the Pooled Sales User, Pooled AEs will only engage with customers when specific customer events/ scenarios are triggered.  Once one of these defined sceanrios is triggered, a case will be created. A Pooled AE will then pick up the case, and work it through to completion
-
-In EMEA, Pooled AEs are free to engage with any customer at any time, however cases will also be created based on the same specific scenarios.  The AEs will focus on resolving these cases first, before engaging with other customers.
-
-## Case Scenarios
-
-- Expansion Opportunity
-- Churn & Contraction Mitigation
-- Urgent Renewal & TRX Support
-- Inbound Request
-
-Each case scenario is broken down into specific case triggers.  Details of the current case triggers can be found in the deck below.
-
-[Pooled Model: Case Types and Logic - Iteration 3](https://docs.google.com/presentation/d/1CYNMh4PND1qk9bwtWkNFUryOuXVmIiYh4twe_CcXqHg/edit#slide=id.g1287bf62b57_0_209)
+All members of the Sales, Support, Billing and Deal Desk teams should familiarize themselves with the Global Digital SMB Model.
+The model leverages team-level account alignment so SMB customers have a team of SMB Advocates to assist them. Every SMB Advocate on the team is equipped to work with any SMB customer as the sales point of contact.
+The threshold for Global Digital SMB Accounts accounts is <$30k cARR, <100 employees, and excludes Ultimate Licenses and Japan. 
 
 
-## How a Pooled AE works a case
+## Account and Opportunity Ownership
 
-- View the [AMER Pooled Sales Team Case Dash](https://gitlab.my.salesforce.com/01Z8X000001Dk59)/ [EMEA Pooled Sales Team Case Dash](https://gitlab.my.salesforce.com/01ZPL0000004jJV) or [AMER Pooled Sales Team Case Queue](https://gitlab.my.salesforce.com/500?fcf=00B8X000009wTi0)/ [EMEA Pooled Sales Team Case Queue](https://gitlab.my.salesforce.com/500?fcf=00BPL00000009Hp) to view the open cases.
-- View the **Subject** in order to identify what case trigger created the case.
-- Click on the Case number
-- Confirm there are no open Pooled Cases currently on the account, or AE owned active Ultimate Upgrade opportunities. If there are, transfer the case to the AE that owns the other case/ active Ultimate Upgrade opp.
-- Click **Change** next to the Case Owner field
-- Enter your name in the Owner Name box, and click **Save**
-- Contact the customer listed on the Case
-- Update the Case, and the Opp as needed. (See this [cheat sheet](https://docs.google.com/spreadsheets/d/1fDEr7dDfN3ZCJZAd1UU6v6TNntC-tSBbB0p3O7eLFlI/edit#gid=0) which explains which fields need to updated, and when).
-- The Pooled AE must also add the end user contact they are engaged with, to the **Contact** field of the case.
-- Once resolved, close out the case and the related opp (if one exists).
+Vision: SMB Accounts will not be owned individually, but by the entire team. This is meant to ensure that SMB customers are supported at the right time, in a scalable way. Each SMB Advocate will have a shared responsibility for collaborating in a customer-centric  manner to provide a best-in-class experience to each SMB customer. 
 
-## How any GitLab Team Member can create a case, to loop in the AMER Pooled Team
+### Accounts
 
-Any GitLab team member is free to create a case, should they need to loop in a Pooled AE.
+ - All AMER SMB Accounts are owned by the AMER SMB Sales User.
+ - All APAC SMB Accounts are owned by the APAC SMB Sales User.
+ - All EMEA SMB Accounts are owned by the EMEA SMB Sales User. 
+ - Note that in SMB only, AMER & APAC are considered one territory.
 
-- Navigate to the applicable **Account** in Salesforce.
-- Click on Cases, **New Case**.
-- Select **Pooled Sales Case**, from the **Record Type** dropdown.
-- Search the **Contact Name** of the end user contact.
-- Describe the ask of the AE in the case **Description**. Include any relevant links or resources.
-- Enter in either **Referral** (if you reside in Sales Org), **Support Ticket** (if you reside in the Support Org), or **AR Request** (if you reside in the Billing Org) in the **Subject** field.
-- Select a **Case Reason** based on the customers needs.
-- Check the **Assign using active assignment rules** checkbox, and click **Save**.
-- This Case will now drop into the **Pooled Sales Queue**, and will be actioned by a Pooled AE.
+### Opportunities 
 
-### Support Tickets
-
-If a Pooled Customer raises a support ticket, it will be picked up via Zendesk by a Support Engineer.  
+ - All AMER SMB Opportunities are owned by the AMER SMB Sales User.
+ - All APAC SMB Opportunities are owned by the APAC SMB Sales User.
+ - All EMEA SMB Opportunities are owned by the EMEA SMB Sales User. 
 
 
-## How Pooled AEs work Cases
+### High Value Accounts
 
-- If a Pooled AE has capacity, they will click on an open case in the AMER or EMEA Pooled Sales Team Queue and assign it to themselves, by changing the **Case Owner**.
-- **High Priority** cases should always be picked up first.
-- Information pertaining to the case will be displated in the **Description** box.
-- Once assigned to a Pooled AE, the **Status** should be set to **In Progress**.
-- The **Case Reason** should be updated based on the nature of the customer's request.
-- To work the case, the Pooled AE should contact the customer, with all activities logged on the contact/ account. The **Notes** field on the case should also be updated to include the case next steps.
-- Once a Case is considered resolved, the **Status** should be set to one of the four Closed options, and the **Resolution Action** updated. This will automatically update the **Date/ Time Closed** field.
-- If applicable, the related opportunity should also be closed.
-- At any time, a Pooled AE can view their cases by navigating to the **My Cases** list view in Salesforce.
-- When working cases, the following outreach cadence should be followed.  
+Some Global Digital SMB Accounts are considered to be Tier 1/ High Value Accounts,  based on their cARR and LAM. These accounts, whilst owned by an SMB Sales User, will be managed in a 1:1 relationship between the SMB Advocate and the customer, via Cases. 
 
-| *Day 1* | *Day 3* | *Day 5*| *Day 7*        |
-|----------------------|--------|-----------------|-------------------|
-| Email          | Call | Email   | Email      |
+The criteria that determines whether an SMB account is a Tier 1 account or not, can be found below. The table also highlights what type of Cases will be created for SMB Accounts, based on their respective Tier.
 
-- A Pooled AE should look to resolve/ close a case within 7 days of it being opened.
+| Tier | Criteria                                                 | Digital Touch | High Value Cases | High Value 90/180/270 checkins (fallback)   | Urgent Renewal & TRX Support Case | Churn & Contraction Mitigation Cases | Expansion Opportunities Cases | Inbound Request Cases |
+|------|----------------------------------------------------------|---------------|------------------|---------------------------------------------|-----------------------------------|--------------------------------------|-------------------------------|-----------------------|
+| 1    | cARR > $7k                                               | Yes           | Yes              | Yes (if no other engagement within quarter) | Yes                               | Yes                                  | Yes                           | Yes                   |
+| 2    | cARR < $7k AND (cARR > $1k OR (cARR < $1k AND LAM > 10)) | Yes           | No               | No                                          | Yes                               | Yes                                  | Yes                           | Yes                   |
+| 3    | cARR < $1k AND LAM < 10                                  | Yes           | No               | No                                          | Yes                               | No                                   | No                            | Yes                   |
 
-### Ultimate Upgrade Opportunities (AMER)
+## Engaging with Global Digital SMB Accounts
 
-Even though all AMER Accounts/ Opportunities are owned by the Pooled Sales User, there is one exception where an opp could be AE owned.
+Since all Global Digital & SMB Accounts are owned by generic SMB Sales Users, SMB Advocates will only engage with customers when specific customer events/ scenarios are triggered. Once one of these defined scenarios is triggered, a case will auto be created. An SMB Advocate will then pick up the case, and work it through to completion.
 
-- After working a case, should an AE identify an Ultimate Upgrade opp, they are permitted to create and own an upgrade opportunity. (*Ultimate Upgrade* should be annotated in the *Next Steps* and *Opportunity Name*)
-- Since the AMER Pooled AEs focus on working cases, they are only permitted to own 15 active Upgrade opportunities at any one time.
-- If a case enters the queue, and an active Ultimate Upgrade opportunity lives on the same account, the case should be transferred to the AE that is working the Upgrade opp.
-- The AMER Pooled ASM will monitor these Upgrade opportunities, and is free to close them out should they not be deemed valid.
-- These Ultimate Upgrade opps are tracked on this [dashboard](https://gitlab.my.salesforce.com/01ZPL0000005I4L).
+#### Why?
+- Enables Advocates to focus on those SMB customers that require, or would benefit from, sales assistance.
+- Removes low potential customers from view, since these customers will seldom trigger a case. 
 
-### FAQ
+#### How?
+Cases are automatically created when;
 
-Q.  Will cases be added to the queue everyday?
+- A customer requires sales assistance in order to transact.
+- There is a high likelihood a customer will churn/ contract.
+- There is a high likelihood that a customer is considering upgrading.
+- If none of the above apply, and the customer is on auto renew, a case will NOT be created.
 
-A. Yes, we expect new cases to be created daily, and to total approx. 80 per month.
+## Case Types
 
-Q.  Can I pick up any Case in the queue?
+The cases that will be auto created, are split into 5 distinct categories;
 
-A. No, **High Priority** cases must be picked yp first.  If there are no **High Priority** cases, cases must then be worked oldest first.
+Inbound Request - These occur when a customer hand raises, and requests assistance from GitLab.  The cases are labeled as High Priority. 
+- Contact Sales Request
+- Hand-Raise PQL
+- Support Ticket
+- SDR Created
 
-Q. Is there an SLA in place?
+Churn & Contraction Mitigation - These occur when the account in question has exhibited signs of low usage/ adoption. The cases are labeled as Medium Priority. 
+- Underutilization
+- High PtC
+- Auto Renew recently turned off
 
-A. Yes, all cases should be picked up and responded to within 24 hours (8 business hours) of entering the queue.
+Expansion Opportunities - These occur when the account in question has exhibited signs of growth, and that they are likely to expand. The cases are labeled as Medium Priority.  
+- FO Opp
+- FO Opp (Startup)
+- High PtE
+- 6Sense Growth Signal
+- Overage with QSRs turned off
+- Customer MQL
 
-Q. What happens if a case comes into the queue, and another Pooled AE is working a case/ active Upgrade opp under the same Account?
+Urgent Renewal & TRX Support - These are created when a situation exists that means the renewal must be processed by an Advocate. The cases are labeled as Medium Priority. 
+- PO Renewal (includes partner & alliance renewals)
+- EoA Renewal w/ >25 users
+- Multiyear Renewal
+- Auto Renewal due to fail
+- Overdue Renewals
 
-A. In this scenario, the AE should assign the case to the owner of the current open case/ active Upgrade opp.
+High Value - These are only created for the highest spending accounts in the segment. 
+- High Value Account
+- High Value Account check in
+- Future High Value Account
 
-Q.  Where can I provide feedback on this model/ process?
 
-A.  Please submit all feedback via the #self_service_ae_feedback_loop slack channel
+The case logic, context behind the case, and CTA can be viewed on the Case Trigger overview sheet. 
 
-Q.  Is additional enablement material available?
+## Working with the Global Digital SMB Account Team
 
-A.  Yes, please see the content below;
+If a GitLab team member needs to loop in the Advocate team on a customer Account, they must create a case.  (Chatter messages sent to the AMER/ APAC/ EMEA Sales Users are not monitored).  
 
-[AMER slide deck](https://docs.google.com/presentation/d/1IWgcHXbFN5UVNHCWXtF1fKj_9k5h5KlQGClY-2RbqUE/edit#slide=id.g12b319f6181_0_5)
-
-[EMEA slide deck](https://docs.google.com/presentation/d/1USd3T_KOkixdxY9T0M9jwTKb9V1YkFDeYkoj4Zh57IM/edit#slide=id.g12b319f6181_0_5)
+- Navigate to the *Account* in Salesforce.
+- Click on *Cases*, New.
+- Select *SMB Sales Case*, from the Record Type dropdown.
+- Add the *Contact*, to the Contact Name lookup field.
+- Add the *Opportunity*, to the Opportunity lookup field (if relevant). 
+- Describe the ask of the AE in the case *Description*. Include any relevant links or resources.
+- Select a *Type* that most closely matches the origin of your request. 
+- Set the *Priority* to High. 
+- Complete the *Subject* field.
+- Select a *Case Reason* based on the customers needs.
+- Check the *Assign using active assignment rules* checkbox, and click *Save*.
+- This Case will now drop into the SMB Sales Queue, and will be actioned by a SMB Advocate.
 
