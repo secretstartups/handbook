@@ -181,7 +181,7 @@ The Infrastructure department hires for a number of different technical speciali
 - [SRE Onboarding](/handbook/engineering/infrastructure/team/ops/sre-onboarding/)
 - [GitLab.com data breach notification policy](/security/#data-breach-notification-policy)
 - [Infrastructure careers and internships][interning]
-- [Coding at scale](/handbook/engineering/infrastructure/coding-at-scale/)
+- [Coding at scale](/handbook/engineering/infrastructure/team/scalability/#regarding-coding-at-scale)
 
 
 [status]: https://status.gitlab.com/
