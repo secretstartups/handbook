@@ -20,7 +20,7 @@ Our Red Team works **together** with our Blue Team. Even when planning attacks, 
 - Automate attack techniques, creating custom tooling for specific operations and contributing to general-purpose open source tools
 - Write detailed reports covering the goals and outcomes of Red Team operations, including significant observations and recommendations
 - Collaborate with GitLab's [Security Incident Response Team (SIRT)](/handbook/security/security-operations/sirt/) to improve detection and response capabilities
-- Collaborate with GitLab's [Infrastructure Security Team](/handbook/security/security-engineering/infrastructure-security/) to propose defensive improvements to cloud environments
+- Collaborate with GitLab's [Infrastructure Security Team](/handbook/security/product-security/infrastructure-security/) to propose defensive improvements to cloud environments
 - Collaborate across multiple product teams to propose enhancements and additions to GitLab's SaaS and self-hosted offerings
 - Collaborate with non-technical teams to propose process and policy enhancements and additions
 - Stay informed on current security trends, advisories, publications, and academic research that is relevant our organization

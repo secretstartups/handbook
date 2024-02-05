@@ -287,7 +287,7 @@ The MRs must meet the following criteria:
 In addition to the approval rules, MRs may require additional reviews as suggested by the [Danger bot](https://docs.gitlab.com/ee/development/dangerbot.html):
 
 1. Modifications to the DB require database reviewer and maintainer approval
-1. Security-related issues (such as changes to authentication) require a [Security review](/handbook/security/security-engineering/application-security/appsec-reviews.html#adding-features-to-the-queue)
+1. Security-related issues (such as changes to authentication) require a [Security review](/handbook/security/product-security/application-security/appsec-reviews.html#adding-features-to-the-queue)
 1. Changes to the SFDC APIs require review by the [Sales team](/handbook/sales/field-operations/sales-systems/)
 1. Changes to the Zuora APIs require review by the [EntApps team](/handbook/business-technology/enterprise-applications/)
 1. Changes to the user experience require a [UX Review](/handbook/product/ux/product-designer/mr-reviews/).
