@@ -775,6 +775,89 @@ What do I do when ZoomInfo has improper data on an account?
 
 This process could take up to 72 hours before completing the reassignment. If after 72 hours the account is still not properly assigned, the Director will reach out to a member of the Territory Ops team to assist.
 
+### AMER SDR - IQM Standards
+
+Prior to the IQM
+
+* Schedule IQM within 48 hours of the DC. Give at least 24 hours notice to the AE
+Send calendar invite + Zoom link 
+* SDR asks the AE to notify at least 24 hours prior to the IQM if the account is incorrectly routed to them, given the SDR’s best efforts to ensure correct routing + SF/Zoom data being correct 
+* Send the opportunity to the AE via Slack or email
+* AE verifies they reviewed the opportunity beforehand
+* AE and SDR review the specifics of the call, responsibilities (if differing from the below-referenced introduction), and any nuances
+SDR sends meeting reminders
+* For booking meetings use Outreach and use Google to get a detailed view
+* Ask lead to accept while they still are on the phone - more likely to attend 
+* Send pre-meeting emails 
+    * (ATTENTION REQUIRED) - Sent every other day till meeting is accepted
+    * (MEETING STARTED) - Sent at the time of the IQM 
+* If the SDR is unable to attend
+SDR will notify the AE via Slack and/or email as soon as possible
+* AE will acknowledge the notification
+* AE will add their Zoom link to the calendar invite
+
+
+IQM
+
+* AE and SDR show up on time or up to 5 minutes beforehand
+* Cameras on
+* Location is quiet and indoors for AE and SDR
+* SDR introduces the call
+    * SDR: Good morning/afternoon. Thank you for joining us today, (lead). I discussed your goals with (AE) prior to our call so s/he is best equipped to walk through (insert goals/needs in this section). They are prepared to continue our conversation. I will mute my line but will be here when you and (AE) need me for additional insight or support.
+    * AE: Thank you, (SDR). AE takes over the call. 
+* Cameras stay on
+
+Responsibilities
+* AE - Further qualification, note taking, slide deck (if applicable)
+* SDR - Camera on, available for questions and insight 
+* To help develop the SDR skills for their next role, take notes as well. This fosters learning and the skills required for their next role. See note format that is expected in Commercial: https://www.youtube.com/watch?v=CMMQ5R0pq8I
+    * Notes Structure: 
+        1. Attendees
+        2. Raw Notes
+        3. Questions
+        4. Summary
+        5. Next Steps
+
+
+Post IQM
+
+* AE and SDR debrief within 24 hours re: the opportunity flipping or being disqualified
+* Reasons are shared in writing via Slack and/or email AND added to SalesForce by the AE
+* SDR adds IQM notes to the Initiative section in the opportunity
+    Title – IQM Notes - SDR name
+        1. Attendees
+        2. Raw Notes
+        3. Questions
+        4. Summary
+        5. Next Steps
+* If the opportunity is accepted
+* AE must accept/”flip” within 48 hours of the IQM
+
+
+
+No-show IQM
+
+* SDR’s responsibility to rebook
+* Outreach rebook sequence https://web.outreach.io/sequences/12249/overview 
+* Calls and emails
+* Will conduct outreach for 2 weeks. If IQM cannot be r/s, AE will unqualify the opp 
+* Ongoing follow-up by SDR - 1x cycle/month
+    * Week 1
+        * AMER SDR - No Show IQM - Email
+        * VM
+        * Do not leave message
+    * Week 2
+        * VM
+        * Do not leave message
+    * Week 3
+        * Do not leave message
+        * LI message
+        * Invite to webinar/online workshop
+    * Week 4
+        * Resend AMER SDR - No Show IQM - Email
+        * VM
+
+
 ### Assigning SAO Credit when a Territory Change is Uncovered during Discovery
 
 There will be times when an SDR or BDR is working a prospect and, after connecting with the prospect, discovers that the corresponding account actually belongs to a different segment than originally thought. This could be due to newly uncovered information regarding employee count, HQ location, or parent account relationship. SAO credit in these situations will vary based on the circumstances and will be determined on a case-by-case basis.  Specifically:
