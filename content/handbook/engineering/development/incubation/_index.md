@@ -10,19 +10,11 @@ We utilize [Single-engineer Groups](/handbook/company/structure/#single-engineer
 
 The Department Head is the [VP of Incubation Engineering](/job-families/engineering/development/incubation/management/vp/).
 
-### FY23 Direction
+### FY25 Direction
 
-Our focus for FY23 in the Incubation Engineering Department is to ensure that we have a level of organisational maturity that allows us to repeatedly assess, validate, and deliver on ideas.
+Our focus for FY25 in the Incubation Engineering Department is to contine to mature some of our key projects, and to contribute to new opportunities within the AI sphere to build upon the capabilities that GitLab offers.  Our current batch of projects are building  customer value and interest and achieving significant monthly growth milestones.  Our aim is to reach a level of maturity with these projects that allows us to graduate or reassign these groups to new opportunities. 
 
-We should be able to demonstrate whether the ideas that we have been working on have met product/market fit in FY23 and look to graduate or reassign these groups.  Our success is tied to the community of developers and users that can benefit from our features, and strong collaboration and engagement with those groups is a key focus for this year.
-
-As our team matures, we need to be mindful of setting a culture of innovation and results.  We do this through encouraging experimentation and autonomy, whilst being collaborative and transparent to internal teams and external stakeholders.  The Incubation Engineering team is unique within GitLab in that the team members are not working on shared problems, but have the same challenges and shared experiences.  We should ensure that successes and failures are documented and shared amongst team members to help each other grow and to minimise the inherent isolation and stress that can be part of this role.
-
-In addition to the quarterly OKR's, our goals for the year are to:
-
-- Document public roadmaps for each of our focus areas with defined milestones that we can measure our progress against.
-- Identify and target key usage metrics that help demonstrate success for each of our focus areas.
-- Demonstrate customer value and interest by achieving significant monthly growth milestones.
+Our success is tied to the community of developers and users that can benefit from our features, and strong collaboration and engagement with those groups is a key focus for this year. As our team matures, we need to be mindful of setting a culture of innovation and results. We do this through encouraging experimentation and autonomy, whilst being collaborative and transparent to internal teams and external stakeholders. The Incubation Engineering team is unique within GitLab in that the team members are not working on shared problems, but have the same challenges and shared experiences. We should ensure that successes and failures are documented and shared amongst team members to help each other grow and to minimise the inherent isolation and stress that can be part of this role.
 
 ### Investment Framework
 
