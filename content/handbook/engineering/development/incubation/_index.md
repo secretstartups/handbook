@@ -55,17 +55,10 @@ Each SEG page has a list of the targets and progress for each month, and these s
 
 <div class="flex-row" markdown="0">
   <div>
-    <a href="/handbook/engineering/development/incubation/breach-and-attack-simulation/" class="btn btn-primary" style="width:30%;margin:5px;white-space:normal;">Breach and Attack Simulation (BAS)</a>
-    <a href="/handbook/engineering/development/incubation/cloud-seed/" class="btn btn-primary" style="width:30%;margin:5px;white-space:normal;">⛅🌱 Cloud Seed</a>
-    <a href="/handbook/engineering/development/incubation/service-desk/" class="btn btn-primary" style="width:30%;margin:5px;white-space:normal;">Service Desk</a>
-  </div>
-</div>
-
-<div class="flex-row" markdown="0">
-  <div>
   <a href="/handbook/engineering/development/incubation/mobile-devops/" class="btn btn-primary" style="width:30%;margin:5px;white-space:normal;">Mobile DevOps</a>
   <a href="/handbook/engineering/development/incubation/mlops/" class="btn btn-primary" style="width:30%;margin:5px;white-space:normal;">MLOps</a>
-  <a href="/handbook/engineering/development/incubation/okr/" class="btn btn-primary" style="width:30%;margin:5px;white-space:normal;">OKR Management</a>
+  <a href="/handbook/engineering/development/incubation/service-desk/" class="btn btn-primary" style="width:30%;margin:5px;white-space:normal;">Service Desk</a>
+
   </div>
 </div>
 
@@ -99,9 +92,12 @@ Each SEG page has a list of the targets and progress for each month, and these s
   <div>
     <a href="/handbook/engineering/development/incubation/server-runtime/" class="btn btn-primary" style="width:30%;margin:5px;white-space:normal;">Server Runtime</a> matured to <a href="/handbook/product/categories/#ide-group" class="btn btn-primary" style="width:30%;margin:5px;white-space:normal;">IDE Group</a>
   </div>
+  <div>
+    <a href="/handbook/engineering/development/incubation/okr/" class="btn btn-primary" style="width:30%;margin:5px;white-space:normal;">OKR Management</a> matured to <a href="/handbook/product/categories/#product-planning-group" class="btn btn-primary" style="width:30%;margin:5px;white-space:normal;">Product Planning Group</a>
+  </div>
 </div>
 
-## On Hold
+## On Hold / Cancelled
 
 <div class="flex-row" markdown="0">
   <a href="/handbook/engineering/development/incubation/airflow/" class="btn btn-primary" style="width:30%;margin:5px;white-space:normal;">Airflow</a>
@@ -110,6 +106,8 @@ Each SEG page has a list of the targets and progress for each month, and these s
 </div>
 <div class="flex-row" markdown="0">
   <a href="/handbook/engineering/development/incubation/real-time-collaboration/" class="btn btn-primary" style="width:30%;margin:5px;white-space:normal;">Real-time Editing (REID)</a>
+  <a href="/handbook/engineering/development/incubation/cloud-seed/" class="btn btn-primary" style="width:30%;margin:5px;white-space:normal;">⛅🌱 Cloud Seed</a>
+  <a href="/handbook/engineering/development/incubation/breach-and-attack-simulation/" class="btn btn-primary" style="width:30%;margin:5px;white-space:normal;">Breach and Attack Simulation (BAS)</a>
 </div>
 
 
