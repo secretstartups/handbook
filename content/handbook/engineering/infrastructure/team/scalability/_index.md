@@ -348,7 +348,7 @@ Please see the [triage rotation section](#triage-rotation) for when to move issu
 The Scalability teams routinely uses the following set of labels:
 
 1. The group label, `group::Scalability`.
-2. The team labels, `team::Frameworks` and `team::Projections`
+2. The team labels, `team::Scalability-Observability` and `team::Scalability-Practices`
 3. Scoped `workflow-infra` labels.
 5. Scoped `Service` labels.
 
