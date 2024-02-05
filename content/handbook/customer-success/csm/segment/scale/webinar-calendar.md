@@ -21,13 +21,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### AMER Time Zone Webinars & Labs
 
-#### Intro to GitLab
-##### February 2nd, 2024 at 9:00-10:00AM Pacific Time / 1:00-2:00PM Eastern Time
-
-Are you new to GitLab? Join this webinar, where we will review what GitLab is, how it benefits you, and the recommended workflow to allow you to get the most out of the platform.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_Z5ztdDKWT2-uTAgCk01coA#/registration)
-
 #### Intro to CI/CD
 ##### February 6th, 2024 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
 
@@ -93,13 +86,6 @@ Join us for a hands-on GitLab AI lab where we will explore Artificial Intelligen
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_tdfeUNKoRwqid6SuRfNfWw)
 
 ### EMEA Time Zone Webinars & Labs
-
-#### Intro to GitLab
-##### February 2nd, 2024 at 10:00-11:00AM UTC / 11:00AM-12:00PM CET
-
-Are you new to GitLab? Join this webinar, where we will review what GitLab is, how it benefits you, and the recommended workflow to allow you to get the most out of the platform.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_YfDc5VXUSiqKWx5GCRyT2A#/registration)
 
 #### Intro to CI/CD
 ##### February 6th, 2024 at 10:00-11:00AM UTC / 11:00AM-12:00PM CET
