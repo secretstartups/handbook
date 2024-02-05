@@ -104,7 +104,7 @@ We meet bi-weekly synchronously to discuss stage and group wide topics. We prima
 ### Engineering Leadership - Backup Plans and Escalation
 
 
-The following table lists the Govern Stage management [backup plan](https://about.gitlab.com/handbook/engineering/management/#engineering-manager-backup).
+The following table lists the Govern Stage management [backup plan](/handbook/engineering/management/#engineering-manager-backup).
 
 | Team Member                                 | Covered by                                  | Escalation                               |
 |---------------------------------------------|---------------------------------------------|------------------------------------------|
@@ -124,6 +124,21 @@ Some people management tasks, including [Workday](/handbook/people-group/workday
 
 In the event that one or more team members become unavailable for any reason, this can serve as the foundation for a business continuity plan (BCP) and serve as a basic guide for Managing Engineering continuity.
 
+### PTO 
+
+To support our teams, and commitments made to internal and external customers, team members in Govern are encouraged to create a PTO issue before going on leave lasting a week or longer. 
+
+The issue provides a place to discuss and document coverage for any work in progress, or projects where the team member is the directly responsible individual (DRI), and support the [Paid Time Off at GitLab](https://handbook.gitlab.com/handbook/paid-time-off/) policy.
+
+We use an internal issue tracker as team member PTO is not public information, and a PTO template. [New PTO issue](https://gitlab.com/gitlab-com/govern-compartment/-/issues/new?issuable_template=ooo_template)
+
+When a team-member takes some time off, it is important that their work is still being followed up on if needed. We want to make sure that any MR that lands in staging and production environments while we are out gets proper attention and is verified by a counterpart. Therefore, when getting close to our time-off period, we should do the following:
+
+* Any MR that can be put on hold until we're back from PTO should be put in the `Draft` status. This ensures that the MR won't be merged accidentally without a clear DRI to follow up on it.
+* Other non-draft MRs and freshly merged MRs, which need to be verified on staging, should be assigned to another engineer. The additional DRI will be responsible to verify the changes if they land in staging while we're out. When doing this, we must ensure that enough context has been provided in the MR's description and/or the related issue (setup, testing, potential impact, design decisions, etc.).
+
+Keep in mind that, while we strongly recommend following this process when taking some time off, it might not be relevant all the time. For example, if our time-off period is going to be short and/or our active MRs are minor enough, it might make sense to ignore these recommendations and follow up when we're back.
+
 ## Weekly updates
 
 The Govern development teams provide [weekly status updates](https://gitlab.com/groups/gitlab-com/-/epics/2126) using an issue template and CI scheduled job.
@@ -131,87 +146,15 @@ As priorities change, engineering managers update the template to include areas 
 
 An example template highlighting priorities, opportunities, risks, and security and availability concerns is:
 
-<details markdown=1>
-<summary>Weeky update template</summary>
-```
-<!--
-How to fill in this section.
+Weekly update template can be found [here](https://gitlab.com/gitlab-com/govern-compartment/-/blob/main/.gitlab/issue_templates/govern_stage_weekly_update.md).
 
-- Be opinionated. There are no wrong answers, we want our counterparts to know what we are working towards, and let us know if that doesn't align with their goals.
-- Summarize - just enough information to provide an overview and to start a discussion
+## Quarterly review updates
 
-Priorities: A subset of the highest priority projects the group is working on - these could include Shared OKRs, Product priorities for Development, other initiatives (Development led, Development OKRs). List with links to epic/issue/work item. Should only include work that is currently scheduled (not a roadmap).
+Every quarter, an engineering manager for each group in the Govern and Growth Compartment prepares the quarterly review update using the issue template and records approximately 5 minutes to summarize the last quarter from the engineering perspective and present a high-level plan for the group for the next one to respond to quarterly Product strategy and explain our goals for next quarter.
 
-Risks: (One line) summary and link to discussion (epic/issue).
+We aim to foster collaboration and communication between engineering managers in the Govern and Growth Compartment, align groups on product priorities for the next quarter, and celebrate our successes together.
 
-Opportunities: What we could do differently to mitigate risks and ensure delivery of priority projects.
-
-Work in progress: (One line) summary and link to planning issue, workflow board, epic/issue list.
--->
-## How to use this issue
-
-Engineering Managers to provide status updates, to be shared with product counterparts and both product and engineering leadership for discussion.
-
-<!--<details>-->
-<summary>Copy this section into a new thread for your group</summary>
-
-## Department: Group
-
-### Priorities
-
-<!-- Include to any relevant OKRs, or key roadmap deliverables -->
-
-1. ...
-
-
-### Risks
-
-1. ...
-
-### Opportunities
-
-1. ...
-
-### Work in progress
-
-1. ...
-
-### Error Budget,  Security & Reliability
-
-1. Error Budget
-   - ...
-
-1. Security Issues
-   - ...
-
-1. Reliability Issues
-   - ...
-<!--</details>-->
-
-### Updated (by EOD Monday)
-
-- [ ] Govern: Anti-abuse
-- [ ] Govern: Authentication and Authorization
-- [ ] Govern: Compliance
-- [ ] Govern: Security Policies
-- [ ] Govern: Threat Insights
-- [ ] SSCS Working Group
-- [ ] Quality Engineering
-
-#### After last update
-
-- [ ] Add comment `cc at-mention team members here`
-
-<!-- App appropriate assignees, epic, and labels
-/label  ~"workflow::in dev"
-/assign `@pcalder`
-/epic `epic-link`
--->
-
-
-```
-</details>
-
+Quarterly review update template can be found [here](https://gitlab.com/gitlab-com/govern-compartment/-/blob/main/.gitlab/issue_templates/govern_stage_quarterly_review.md)).
 
 ## Govern staff meeting
 
@@ -227,7 +170,7 @@ Meetings have an agenda and are async-first, where the aim is to resolve discuss
 * Group [#g_govern_security_policies](https://gitlab.slack.com/archives/CU9V380HW)
 * Group [#g_govern_threat_insights](https://gitlab.slack.com/archives/CV09DAXEW)
 * Group [#g_govern_compliance](https://gitlab.slack.com/messages/CN7C8029H)
-* [Software Supply Chain Security working group](https://about.gitlab.com/company/team/structure/working-groups/software-supply-chain-security/)
+* [Software Supply Chain Security working group](/handbook/company/working-groups/software-supply-chain-security/)
 
 ### Technical Documentation Links
 

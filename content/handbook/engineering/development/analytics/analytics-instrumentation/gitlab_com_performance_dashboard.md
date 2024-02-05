@@ -117,8 +117,8 @@ More information on snowplow metrics:
 - [Snowplow performance timing fields](https://github.com/snowplow/snowplow-web-data-model/blob/master/README.md#3114-performance-timing-fields)
 - [Measuring page load times](https://discourse.snowplowanalytics.com/t/measuring-page-load-times-with-the-performance-timing-context-tutorial/100)
 - [Snowplow infrastructure](https://gitlab.com/gitlab-com/gl-infra/readiness/-/tree/master/library/snowplow)
-- [Sitespeed dashboards](https://about.gitlab.com/handbook/engineering/performance/#all-sitespeed-dashboards)
-- [Flow of a web request](https://about.gitlab.com/handbook/engineering/performance/#flow-of-web-request)
+- [Sitespeed dashboards](/handbook/engineering/performance/#all-sitespeed-dashboards)
+- [Flow of a web request](/handbook/engineering/performance/#flow-of-web-request)
 
 
 ## How is this different than LCP?

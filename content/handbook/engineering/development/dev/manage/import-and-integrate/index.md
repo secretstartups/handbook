@@ -4,19 +4,19 @@ title: "Manage Import and Integrate Group"
 
 ## About
 
-The Import and Integrate group is a part of the [Manage Stage](https://about.gitlab.com/handbook/product/categories/#manage-stage).
+The Import and Integrate group is a part of the [Manage Stage](/handbook/product/categories/#manage-stage).
 The group supports the product
 
 - by migrating between GitLab instances and from other providers
 - with 3rd party integrations, REST APIs and GraphQL foundational code, and Webhooks.
 
-This page covers processes and information specific to the Import and Integrate group. See also the [group direction page](/direction/manage/import_and_integrate/) and the [features we support per category](/handbook/product/categories/features/#manageimport-and-integrate-group).
+This page covers processes and information specific to the Import and Integrate group. See also the [group direction page](https://about.gitlab.com/direction/manage/import_and_integrate/) and the [features we support per category](/handbook/product/categories/features/#manageimport-and-integrate-group).
 
 ## How to reach us
 
 To get in touch with the Import and Integrate group, it's best to create an
 issue in the relevant project (typically [GitLab](https://gitlab.com/gitlab-org/gitlab)) and add the
-`~"group::import and integrate"` label, along with any other appropriate labels. Then,
+`~"group::import and integrate"` label, along with any other [appropriate labels](#issue-labels). Then,
 feel free to ping the relevant Product Manager and/or Engineering Manager.
 
 For more urgent items, feel free to use the Slack Channel (internal): [#g_manage_import_and_integrate](https://gitlab.slack.com/archives/g_manage_import_and_integrate).
@@ -29,7 +29,7 @@ The following people are permanent members of the group:
 
 ## Metrics
 
-You can find our group metrics in the [Manage:Import and Integrate Sisense Dashboard](https://app.periscopedata.com/app/gitlab/1129535/Manage:Import-and-Integrate-Dashboard) and [Import and Integrate Group Engineering Metrics handbook page](https://about.gitlab.com/handbook/engineering/metrics/dev/manage/import-and-integrate/).
+You can find our group metrics in the [Manage:Import and Integrate Sisense Dashboard](https://app.periscopedata.com/app/gitlab/1129535/Manage:Import-and-Integrate-Dashboard) and [Import and Integrate Group Engineering Metrics handbook page](/handbook/engineering/metrics/dev/manage/import-and-integrate/).
 
 {{< sisense dashboard="926758" chart="12808907" >}}
 
@@ -88,6 +88,36 @@ We should write at least one comment every week that the issue is not moving.
 The work for the Import and Integrate group can be tracked on the following issue boards:
 
 - [Current milestone board](https://gitlab.com/groups/gitlab-org/-/boards/1459244?milestone_title=Upcoming&label_name[]=group%3A%3Aimport%20and%20integrate)
+
+### Issue Labels
+
+To maintain good label hygiene, please apply the correct labels when creating or triaging issues.
+
+All issues should have:
+
+- All of our section, stage and group labels:
+    - `~"section::core platform"`
+    - `~"devops::manage"`
+    - `~"group::import and integrate"`
+- One or more of the category labels:
+    - `~"Category:API"`
+    - `~"Category:Importers"`
+    - `~"Category:Integrations"`
+    - `~"Category:Internationalization"`
+    - `~"Category:Webhooks"`
+- A [type label](/handbook/engineering/metrics/#work-type-classification)
+- A [workflow label](/handbook/engineering/workflow/#updating-workflow-labels-throughout-development)
+- `~"backend"` or `~"frontend"` if appropriate
+
+For issues related to importers, also apply an `Importer:` label. For example: `~"Importer:GitHub"` or `~"Importer:Direct Transfer"`.
+
+For issues related to integrations, also apply a scoped `Integration::` label. For example: `~"Integration::Slack"` or `~"Integration::Jira"`.
+
+For issues related to our APIs, also apply either `~"api"` for REST or `~"GraphQL"` for GraphQL.
+
+Once you have completed an issue and closed it make sure to add `~"workflow::complete"`.
+
+Team members might find it helpful to use a comment template to help apply labels correctly. See [an example here](https://gitlab.com/gitlab-org/manage/import-and-integrate/discussions/-/issues/76#note_1718035490).
 
 ### Capacity Planning
 
@@ -183,7 +213,7 @@ following information:
 Some considerations:
 
 - Keep the conversation on the original issues.
-- During this process, the issue description and labels should be updated as
+- During this process, the issue description and [labels](#issue-labels) should be updated as
 more information is gathered.
 - Does the issue need a feature flag?
 - Consider adding an "Availability and Testing" section as defined in the [Quad Planning](/handbook/engineering/infrastructure/test-platform/quad-planning/).
@@ -211,7 +241,7 @@ from PM or UX.
 
 The group has an existing [threat model](https://gitlab.com/gitlab-com/gl-security/appsec/threat-models/-/blob/master/gitlab-org/gitlab/GitLab%20Migration.md) to assist in identifying issues that may have security implications, but there are other considerations.
 
-An [Application Security Review](https://about.gitlab.com/handbook/security/security-engineering/application-security/appsec-reviews.html) should be requested when the issue or MR might have security implications. These include, but aren't limited to, issues or MRs which:
+An [Application Security Review](/handbook/security/security-engineering/application-security/appsec-reviews.html) should be requested when the issue or MR might have security implications. These include, but aren't limited to, issues or MRs which:
 - falls under the threat model
 - handles binary files (downloading, decompressing, extracting, moving, deleting)
 - modifies or uses file manipulation services
@@ -221,13 +251,13 @@ An [Application Security Review](https://about.gitlab.com/handbook/security/secu
 
 - When an issue is introduced into a release after Kickoff, an equal amount of weight must be removed to account for the unplanned work.
 - Development should not begin on an issue before it's been estimated and given a weight.
-- By the 15th, engineering merge requests should be merged. In other words, we assume code merged after the 15th will not be in the release. That allows time for the release to be finalized, and any associated [release posts](https://about.gitlab.com/handbook/marketing/blog/release-posts/) to be merged by the 17th. (This is an [experiment starting with 13.11](https://gitlab.com/gitlab-org/manage/general-discussion/-/issues/17330).)
+- By the 15th, engineering merge requests should be merged. In other words, we assume code merged after the 15th will not be in the release. That allows time for the release to be finalized, and any associated [release posts](/handbook/marketing/blog/release-posts/) to be merged by the 17th. (This is an [experiment starting with 13.11](https://gitlab.com/gitlab-org/manage/general-discussion/-/issues/17330).)
 
 #### Release posts
 
 For issues which need to be announced in more detail, a release post can be automatically created using the issue.
 When working on an issue, either in planning, or during design and development, you can use the
-[release post item generator](https://about.gitlab.com/handbook/marketing/blog/release-posts/#release-post-item-generator)
+[release post item generator](/handbook/marketing/blog/release-posts/#release-post-item-generator)
 to have the release post created and notify all the relevant people.
 
 If you do not want an issue to have a release post, make sure that the issue does not have a

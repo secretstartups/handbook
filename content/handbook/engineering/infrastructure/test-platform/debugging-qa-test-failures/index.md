@@ -14,7 +14,7 @@ description: Guidelines for investigating end-to-end test pipeline failures
 
 These guidelines are intended to help you to investigate [end-to-end test](https://docs.gitlab.com/ee/development/testing_guide/end_to_end/index.html) pipeline failures so that they can be properly addressed. This will involve analyzing each failure and creating an issue to report it. It might also involve [fixing tests](#fixing-the-test), [putting them in quarantine](#quarantining-tests), or [reporting bugs in the application](#bug-in-the-application).
 
-The Pipeline triage [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) is responsible for analyzing and debugging test pipeline failures. Please refer to the [DRI weekly rotation schedule](https://gitlab.com/gitlab-org/quality/pipeline-triage#dri-weekly-rotation-schedule) to know who the current DRIs are.
+The Pipeline triage [DRI](/handbook/people-group/directly-responsible-individuals/) is responsible for analyzing and debugging test pipeline failures. Please refer to the [DRI weekly rotation schedule](https://gitlab.com/gitlab-org/quality/pipeline-triage#dri-weekly-rotation-schedule) to know who the current DRIs are.
 
 ### General guidelines
 
@@ -179,7 +179,7 @@ After triaging failed tests, possible follow up actions are:
 
 ### Report the failure
 
-Your priority is to make sure we have an issue for each failure, and to communicate the status of its investigation and resolution. When there are multiple failures to report, consider their impact when deciding which to report first. See the [pipeline triage responsibilities](https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/oncall-rotation/#responsibility) for further guidance.
+Your priority is to make sure we have an issue for each failure, and to communicate the status of its investigation and resolution. When there are multiple failures to report, consider their impact when deciding which to report first. See the [pipeline triage responsibilities](/handbook/engineering/infrastructure/test-platform/oncall-rotation/#responsibility) for further guidance.
 
 If there are multiple failures we recommend that you identify whether each one is new or old (and therefore already has an issue open for it). For each new failure, open an issue that includes only the required information. Once you have opened an issue for each new failure you can investigate each more thoroughly and act on them appropriately, as described in later sections.
 [](){: name="known-failures"}
@@ -212,8 +212,8 @@ In the relevant Slack channel:
 Please use this step if there are no issues created to capture the failure. If there is already an issue please skip this step.
 
 1. Create an issue for the test or system failure (if retrying the job does not resolve the latter) in [https://gitlab.com/gitlab-org/gitlab/issues](https://gitlab.com/gitlab-org/gitlab/issues) using the [QA failure](https://gitlab.com/gitlab-org/gitlab/issues/new?issuable_template=QA%20Failure) template. For failures in CustomersDot tests, open an issue in [CustomersDot](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues) project.
-    - Apply the `~"type::ignore"` label to the issue until the investigation is complete and an [issue type](https://about.gitlab.com/handbook/engineering/metrics/#work-type-classification) is determined.
-    - Inform the [counterpart SET](https://about.gitlab.com/handbook/engineering/quality/#individual-contributors) about the failure.
+    - Apply the `~"type::ignore"` label to the issue until the investigation is complete and an [issue type](/handbook/engineering/metrics/#work-type-classification) is determined.
+    - Inform the [counterpart SET](/handbook/engineering/quality/#individual-contributors) about the failure.
     - For system failures, it may make sense to open an issue in a different project such as [Omnibus GitLab](https://gitlab.com/gitlab-org/omnibus-gitlab/issues), [GitLab QA](https://gitlab.com/gitlab-org/gitlab-qa/issues), or [GitLab Runner](https://gitlab.com/gitlab-org/gitlab-runner/issues).
     - For staging environment-related failures, you can post a question in [`#infrastructure-lounge`](https://gitlab.slack.com/archives/CB3LSMEJV), or open an issue in the [infrastructure project](https://gitlab.com/gitlab-com/gl-infra/infrastructure)
     - Ask for help in [`#quality`](https://gitlab.slack.com/archives/C3JJET4Q6) if you're unsure where to file the issue.
@@ -236,7 +236,7 @@ Note the diagram has been updated as part of increasing rollback availability by
 
 #### Special considerations for Staging Ref
 
-[Staging Ref](https://about.gitlab.com/handbook/engineering/infrastructure/environments/staging-ref/) is a Sandbox environment used for pre-production testing of the latest Staging Canary code. It is a shared
+[Staging Ref](/handbook/engineering/infrastructure/environments/staging-ref/) is a Sandbox environment used for pre-production testing of the latest Staging Canary code. It is a shared
 environment with wide access permissions and as a result of engineers testing their code, the environment may become unstable and may need to be rebuilt.
 
 As such failures in any QA pipelines on Staging Ref are _not blocking_ the deployment. QA suites are triggered when a new GitLab version
@@ -278,7 +278,7 @@ GitLab `master` has three QA pipelines generated from scheduled pipeline against
 
 If `review app` failed to deploy and all specs didn't run or did run and failed, check the `#review-apps-broken` channel to see if it's a known issue, or reach out to the [Engineering Productivity team](/handbook/engineering/quality/#engineering-productivity-structure). To debug further you can [dig into Kubernetes deployment logs](https://docs.gitlab.com/ee/development/testing_guide/review_apps.html#dig-into-a-pods-logs).
 
-If jobs in `package-and-test` failed due to a GitLab Docker image issue, reach out to the [Distribution team](https://about.gitlab.com/handbook/engineering/infrastructure/core-platform/systems/distribution/) to see if it's a known problem with the build.
+If jobs in `package-and-test` failed due to a GitLab Docker image issue, reach out to the [Distribution team](/handbook/engineering/infrastructure/core-platform/systems/distribution/) to see if it's a known problem with the build.
 
 If failures occur only in `test-on-gdk` jobs, it's possible to stop those jobs from being added to new pipelines while the cause is being fixed. See the [runbook](https://gitlab.com/gitlab-org/quality/runbooks/-/tree/main/test-on-gdk#disable-the-e2etest-on-gdk-pipeline) for details.
 
@@ -290,7 +290,7 @@ find what changes caused it and act on resolving the failure more quickly.
 This is triggered from the `dev` omnibus [pipeline schedule](https://dev.gitlab.org/gitlab/omnibus-gitlab/-/pipeline_schedules).
 It won't run when Nightly builds are paused. (See Special considerations for Nightly).
 
-It is a triggered Reference Architecture Tester pipeline that stands up an environment, runs the `full` suite against 5 parallel jobs, then tears the environment down. Reference Architecture Tester project is maintained by [Distribution team](https://about.gitlab.com/handbook/engineering/infrastructure/core-platform/systems/distribution/). It stores scripts and configs that are used to build environments using [GitLab Environment Toolkit](https://gitlab.com/gitlab-org/gitlab-environment-toolkit).
+It is a triggered Reference Architecture Tester pipeline that stands up an environment, runs the `full` suite against 5 parallel jobs, then tears the environment down. Reference Architecture Tester project is maintained by [Distribution team](/handbook/engineering/infrastructure/core-platform/systems/distribution/). It stores scripts and configs that are used to build environments using [GitLab Environment Toolkit](https://gitlab.com/gitlab-org/gitlab-environment-toolkit).
 
 Failures can be triaged as per any other pipeline. Note that as the environment is torn down, retrying QA jobs will fail as the endpoint is unreachable.
 
@@ -303,7 +303,7 @@ The pipeline can be manually retried by:
 
 Note that as the retry is not triggered, there will not be a slack notification unless you pass `CI_PIPELINE_SOURCE = trigger` when triggering the pipeline.
 
-If you need to run tests against the environment locally, use credentials specified in `QA FIPS pipelines` in 1Password `Engineering` vault. It also has information about GCP project where RAT environments are being built. If you need access to machines, create [access request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) to this GCP project. Once finished with debugging, **ensure** that`terraform-destroy` job was run to save costs.
+If you need to run tests against the environment locally, use credentials specified in `QA FIPS pipelines` in 1Password `Engineering` vault. It also has information about GCP project where RAT environments are being built. If you need access to machines, create [access request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) to this GCP project. Once finished with debugging, **ensure** that`terraform-destroy` job was run to save costs.
 
 ##### Running tests against GDK running in FIPS mode
 
@@ -352,7 +352,7 @@ This is similar to the Support team's [Correlation Dashboard](/handbook/support/
 
 ### Investigate the root cause
 
-Depending on your level of context for the test and its associated setup, you might feel comfortable investigating the root cause on your own, or you might get help from [other SETs](https://about.gitlab.com/handbook/engineering/quality/#individual-contributors) right away.
+Depending on your level of context for the test and its associated setup, you might feel comfortable investigating the root cause on your own, or you might get help from [other SETs](/handbook/engineering/quality/#individual-contributors) right away.
 
 When investigating on your own, we suggest spending at most 20-30 minutes actively trying to find the root cause (this excludes time spent reporting the failure, reviewing the failure logs, or any test setup and pipeline execution time). After that point, or whenever you feel out of ideas, we recommend asking for help to unblock you.
 
@@ -368,7 +368,7 @@ Below is the list of the common root causes in descending order of likelihood:
      - You can also reference this [dashboard](https://samdbeckham.gitlab.io/feature-flags) for a visual representation of feature flag statuses.
 3. Environment / Infrastructure: If there were no code or feature flag changes and the environment has flaky errors, first start with analyzing [Sentry errors and Kibana logs](#review-the-failure-logs) to further investigate the issue.
     - Review the `#incident-management` channel to check if any ongoing incidents may be contributing to the failures.
-    - GitLab's [Tamland](https://gitlab-com.gitlab.io/gl-infra/tamland/intro.html) may also be a helpful resource to review. Tamland is used to help forecast the utilization and saturation of various services, such as Sidekiq. For example, if high saturation is predicted, this could surface as flaky behavior in our tests due to performance degradation from that service. More information about Tamland can be found [here](https://about.gitlab.com/handbook/engineering/infrastructure/capacity-planning/#forecasting-with-tamland).
+    - GitLab's [Tamland](https://gitlab-com.gitlab.io/gl-infra/tamland/intro.html) may also be a helpful resource to review. Tamland is used to help forecast the utilization and saturation of various services, such as Sidekiq. For example, if high saturation is predicted, this could surface as flaky behavior in our tests due to performance degradation from that service. More information about Tamland can be found [here](/handbook/engineering/infrastructure/capacity-planning/#forecasting-with-tamland).
     - You may also reach out to the Infrastructure team at `#infrastructure-lounge` and ask if something was changed recently on the environment in question.
 4. Test Data: Check that test data is valid. Live environments like Staging and Production rely on pre-existing data (QA users, access tokens).
 5. New GitLab QA version: Check if a new [GitLab QA version](https://gitlab.com/gitlab-org/gitlab-qa/-/tags?sort=updated_desc) was released.
@@ -619,11 +619,11 @@ Some examples of external dependency failures could include:
 
 If the failure is in a `smoke` or a `reliable` test, it will block deployments ([except for Staging Ref failures](#special-considerations-for-staging-ref)). Please inform the release managers of the root cause and if a fix is in progress by Quality. On GitLab.com, you can use `@gitlab-org/release/managers`. In Slack, you can use `@release-managers`.
 
-If the failure could affect the performance of `GitLab.com` production, or make it unavailable to a specific group of users, you can [declare an incident](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#reporting-an-incident) with `/incident declare` in the `#production` Slack channel, this will automatically prevent deployments (if the incident is at least an S2).
+If the failure could affect the performance of `GitLab.com` production, or make it unavailable to a specific group of users, you can [declare an incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident) with `/incident declare` in the `#production` Slack channel, this will automatically prevent deployments (if the incident is at least an S2).
 
 #### Notify group in all cases
 
-Please also raise awareness by looping in the appropriate team members from the product group, such as SET or EM. The SET/EM can be identified by looking for who is assigned to that [stage/group](https://about.gitlab.com/handbook/product/categories/#devops-stages). Many tests are tagged with a `product_group` which will help with identification. You may also want to post in Quality's Slack channel `#quality` depending on the impact of the failure.
+Please also raise awareness by looping in the appropriate team members from the product group, such as SET or EM. The SET/EM can be identified by looking for who is assigned to that [stage/group](/handbook/product/categories/#devops-stages). Many tests are tagged with a `product_group` which will help with identification. You may also want to post in Quality's Slack channel `#quality` depending on the impact of the failure.
 
 ## Following up on test failures
 
@@ -687,7 +687,7 @@ After fast quarantining, please follow the long-term quarantine process below.
   - The merge request may have stage or group labels. E.g. `~"devops::create" ~"group::source code"`.
   - The merge request shall have the current milestone.
   - The merge request shall link to (but not close) the failure issue.
-- The failure issue should remain open and be assigned a DRI (likely the [counterpart SET](https://about.gitlab.com/handbook/engineering/quality/#individual-contributors)) for fixing, re-evaluating, or dequarantining the test as needed.
+- The failure issue should remain open and be assigned a DRI (likely the [counterpart SET](/handbook/engineering/quality/#individual-contributors)) for fixing, re-evaluating, or dequarantining the test as needed.
 
 To be sure that the test is quarantined quickly, ask in the `#quality` Slack channel for someone to review and merge the merge request, rather than assigning it directly.
 
@@ -783,6 +783,12 @@ If you decide to delete the test, open a merge request to delete it and close th
 
 If you decide the test is still valuable but don't want to leave it quarantined, you could replace `:quarantine` with `:skip`, which will skip the test entirely (i.e., it won't run even in jobs for quarantined tests). That can be useful when you know the test will continue to fail for some time (e.g., at least the next milestone or two).
 
+### Quarantined test report
+
+Every week, a list of the current [long-term quarantined](#long-term-quarantine) E2E tests in both the GitLab and CustomersDot project is reported to the `#quality-reports` Slack channel.
+
+This report is generated from the Test Platform Department's [toolbox](https://gitlab.com/gitlab-org/quality/toolbox) project.
+
 ## Training Videos
 
 These videos walking through the triage process were recorded and uploaded to the [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) YouTube channel.
@@ -791,7 +797,7 @@ These videos walking through the triage process were recorded and uploaded to th
   - Covers the basics of investigating pipeline failures locally.
 - [Quality Team: Failure Triage Training - Part 2](https://www.youtube.com/watch?v=WeQb8GEw6PM)
   - Continued discussion with a focus on using Docker containers that were used in the pipeline that failed.
-- [Quality Engineering On-call Rotation and Debugging QA failures](https://youtu.be/zdIEbl_DPHA) ([private video](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube) on GitLab Unfiltered)
+- [Quality Engineering On-call Rotation and Debugging QA failures](https://youtu.be/zdIEbl_DPHA) ([private video](/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube) on GitLab Unfiltered)
   - Overview of QE on-call rotation process, GitLab deployment process and how to debug failed E2E specs with examples.
 - [Quality Engineering: Failure Triage - Using git bisect to identify commit that introduced a failure](https://www.youtube.com/watch?v=ZvrOF5Bx2Bo)
   - A demo on how to use git bisect to identify which commit introduced a test failure

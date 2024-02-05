@@ -8,7 +8,7 @@ The Secure engineering sub-department is responsible for the [Secure Stage](/han
 
 To provide content and tools to support the best possible assessment at the earliest possible moment.
 
-Following our [single application](https://about.gitlab.com/handbook/product/single-application/) paradigm,
+Following our [single application](/handbook/product/single-application/) paradigm,
 we integrate and build scanning tools to supply security and compliance assessment data to the main GitLab application
 where we develop our vulnerability management system and other features.
 While it might be technically feasible, we do not aim at building standalone products that provide this data independently from the GitLab application.
@@ -72,7 +72,7 @@ The following members of other functional teams are our stable counterparts:
 ## Secure Team
 
 The Secure Team (previously known as the _Security Products Team_) is responsible for the security checks features in the GitLab platform, and maps to the [secure](/handbook/product/categories/#secure) transversal stage.
-You can learn more about our approach on the [Secure Vision](/direction/secure/) page.
+You can learn more about our approach on the [Secure Vision](https://about.gitlab.com/direction/secure/) page.
 
 The features provided by the Secure Team are mostly present at the pipeline level, and mostly available as [Docker](https://www.docker.com/) images.
 This particularity shapes our processes and QA, which differs a bit from the other backend teams.
@@ -83,7 +83,7 @@ We still refer to "_Security Products_" as the tools developed by the Secure Tea
 
 We strive to maintain a consistent User Experience across our Security Products but we do not enforce consistency at the implementation level.
 Each group faces its own challenges and is in the best position to make the technical choices it deems are the most suitable to achieve its goals.
-While [UX inconsistencies are considered as bugs](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity),
+While [UX inconsistencies are considered as bugs](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity),
 we rely on individual teams to make smart decisions about when consistency is important and when divergence makes more sense
 — either because the divergence itself creates a better experience or because of velocity considerations.
 
@@ -158,6 +158,71 @@ See [Versioning and release process](https://docs.gitlab.com/ee/development/sec/
 
 See [QA Process](qa_process.html) for more info.
 
+#### Vulnerability Management process
+
+##### Automation
+
+We use the [security-triage-automation](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation) tool in cunjunction with [scheduled pipelines in the release project](https://gitlab.com/gitlab-org/security-products/release/-/blob/master/.gitlab/ci/security-triage-automation.yml?ref_type=heads) to handle the following tasks:
+
+1. [Create security issues for FedRAMP vulnerabilities (Container Scanning results only) still detected on the default branch ](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation#process-vulnerabilities-for-a-given-project), executed at least once, on the first day of the month to match with FedRAMP compliance report cadence.
+Note that we do not yet automatically create security issues for non-FedRAMP vulnerabilities. Please see the [Non-FedRAMP vulnerabilities section](#non-fedramp-vulnerabilities) for more details.
+1. [Resolve all vulnerabilities (both FedRAMP and non-FedRAMP) no longer detected on the default branch and close their issues](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation#resolve-vulnerabilities-and-close-their-issues), executed every 2 days.
+
+[The Vulnmapper tool](https://gitlab.com/gitlab-com/gl-security/threatmanagement/vulnerability-management/vulnerability-management-internal/vulnmapper) also provides some [automation to vulnerability management](/handbook/security/threat-management/vulnerability-management/#automation) like:
+
+1. adding labels to security issues to further classify the fix availability (fix_available, fix_unavailable, will_not_be_fixed, etc.).
+1. creating Deviation Request issues for FedRAMP related security issues that should have one.
+
+Note: Our goal is to centralize automation for vulnerability management in the [Vulnmapper tool in the nearest future](https://gitlab.com/gitlab-com/gl-security/threatmanagement/vulnerability-management/vulnerability-management-internal/vulnmapper/-/milestones/4#tab-issues) and standardize our processes across the company. However, so far we're following the existing process based on the [security-triage-automation tool](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation).
+
+<details>
+  <summary>View manual process fallback when automation fails</summary>
+  
+  #### Manually reviewing and resolving vulnerabilities
+
+  On a weekly basis: review the vulnerability report to resolve no longer detected ones and close related issues. Note: It is not necessary to investigate vulnerabilities that are no longer detected.
+
+  1. Visit `Vulnerability Report Dashboards` to verify that there are vulnerabilities that can be resolved.
+  2. Execute the `security-triage-automation` tool to [resolve vulnerabilities and close their issues](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation#resolve-vulnerabilities-and-close-their-issues). This tool must be executed separately for each project that have vulnerabilities to resolve.
+  3. Verify in `Vulnerability Report Dashboards` that vulnerabilities have been resolved.
+
+  #### Manually creating security issues for FedRAMP vulnerabilities
+
+  Last working day before the 1<sup>st</sup> of the month, `create` security issues for FedRAMP vulnerability of the CONTAINER_SCANNING type and CRITICAL, HIGH, MEDIUM, LOW, and UNKNOWN severity levels by executing the `security-triage-automation` tool to [process vulnerabilities for a given project](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation#process-vulnerabilities-for-a-given-project) (please make sure to adjust CLI options accordingly). This tool must be executed separately for each project.
+
+  #### Manually creating FedRAMP issues
+
+  In cases where automation fails, you must create the [Deviation Requests](/handbook/security/security-assurance/dedicated-compliance/poam-deviation-request-procedure/) manually before the issues reach SLA.
+  To do so, use the following procedure.
+
+  1. Open a DR issue with the [operational requirement template](https://gitlab.com/gitlab-com/gl-security/security-assurance/team-security-dedicated-compliance/poam-deviation-requests/-/issues/new?issuable_template=operational_requirement_template).
+      1. Update the `Vulnerability Details` section with a link to the advisory (RedHat tracker usually), CVE ID, severity, and CVSS score.
+      1. Update the `Justification Section` with:
+
+      > The OS vendor has published an updated advisory for <CVE_ID>, indicating that package <PACKAGE_NAME> has not yet had a fix released for this vulnerability. Until a fix is available for the package, this vulnerability cannot practically be remediated.
+
+      1. Update the `Attached Evidence` section with:
+
+      > As this operational requirement represents a dependency on a vendor-published package to address this vulnerability, no additional evidence has been supplied. Please refer to the linked vendor advisory in the above justification.
+
+      1. Link it to the security issue: `/relate <issue_id>`
+    1. Update the security issue accordingly
+
+      ```
+      /label ~"FedRAMP::Vulnerability" ~"FedRAMP::DR Status::Open"
+      /milestone %Backlog
+      ```
+</details>
+
+###### FedRAMP vulnerabilities
+
+To ensure compliance, the management of FedRAMP vulnerabilities is handled by [automation](#automation). Please check the manual process fallback for additional details.
+
+###### Non-FedRAMP vulnerabilities
+
+We do not yet have the same automation in place for non-FedRAMP vulnerabilities since it represents a too important volume to manage for our teams and some necessary [improvements in the vulnmapper tool](https://gitlab.com/gitlab-com/gl-security/threatmanagement/vulnerability-management/vulnerability-management-internal/vulnmapper/-/milestones/4#tab-issues) are required prior to enabling this. 
+In the meantime, we favor a more specialized approach for these vulnerabilities and there is no standardized process across the groups.
+
 #### Error Monitoring
 
 500 errors on gitlab.com are reported to Sentry. Below are some quick links to pull up Sentry errors related to Secure.
@@ -186,7 +251,7 @@ _Examples of previous brainstorming topics:_
 
 #### Resources
 
-- [How to triage a QA test pipeline failure](https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/debugging-qa-test-failures/#how-to-triage-a-qa-test-pipeline-failure)
+- [How to triage a QA test pipeline failure](/handbook/engineering/infrastructure/test-platform/debugging-qa-test-failures/#how-to-triage-a-qa-test-pipeline-failure)
 - [Beginner's guide to writing end-to-end tests](https://docs.gitlab.com/ee/development/testing_guide/end_to_end/beginners_guide.html)
 - [GitLab QA README](https://gitlab.com/gitlab-org/gitlab/-/tree/master/qa)
 - [GitLab QA Scenarios](https://gitlab.com/gitlab-org/gitlab-qa/-/blob/master/docs/what_tests_can_be_run.md)
@@ -206,7 +271,7 @@ To update the documentation, the following process should be followed:
 
 #### Async Daily Standups
 
-Since we are a [remote](/company/culture/all-remote/) company, having daily standup meetings would not make any sense, since we're not all in the same timezone.
+Since we are a [remote](/handbook/company/culture/all-remote/) company, having daily standup meetings would not make any sense, since we're not all in the same timezone.
 That's why we have async daily standups, where everyone can give some insights into what they did yesterday, what they plan to do today, etc.
 For that, we rely on the [geekbot](https://geekbot.io/) slack plugin to automate the process.
 
@@ -240,7 +305,7 @@ As our teams focus on different areas, we have Geekbot configured to broadcast t
 #### Recorded meetings
 
 Our important meetings are recorded and published on YouTube, in the [GitLab Secure Stage playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq7yUrZazEF3diazV29RRo1).
-They give a good overview of the decision process, which is often a discussion with all the stakeholders. As we are a [remote](/company/culture/all-remote/) company, these video meetings help to synchronize and take decisions faster than commenting on issues. We prefer asynchronous work, but for large features and when the timing is tight, we can detail a lot of specifications. This will make the asynchronous work easier, since we have evaluated all edge cases.
+They give a good overview of the decision process, which is often a discussion with all the stakeholders. As we are a [remote](/handbook/company/culture/all-remote/) company, these video meetings help to synchronize and take decisions faster than commenting on issues. We prefer asynchronous work, but for large features and when the timing is tight, we can detail a lot of specifications. This will make the asynchronous work easier, since we have evaluated all edge cases.
 
 ### Calendar
 
@@ -251,7 +316,7 @@ We welcome team members to join meetings that are on our shared calendar. The [S
 GitLab is an extremely active organization which generates a lot of news and activity each week. Everyone in Secure are encouraged to [keep themselves informed](/handbook/engineering/#keeping-yourself-informed) as to what is happening in the larger organzation. Everyone is also
 encouraged to contribute to these channels and communication paradigms when you have information to share.
 
-In addition to this, each group in Secure conducts a weekly synchronous meeting. These meetings are publicized on the Secure Calendar mentioned above. As always at GitLab, we strive to [make meeting attendance optional](/company/culture/all-remote/meetings/#1-make-meeting-attendance-optional).
+In addition to this, each group in Secure conducts a weekly synchronous meeting. These meetings are publicized on the Secure Calendar mentioned above. As always at GitLab, we strive to [make meeting attendance optional](/handbook/company/culture/all-remote/meetings/#1-make-meeting-attendance-optional).
 
 #### Keeping others informed
 
@@ -279,7 +344,7 @@ New hires should go through these steps and read the corresponding documentation
 Every new hire will have an assigned [onboarding issue](https://gitlab.com/gitlab-org/security-products/onboarding/blob/master/.gitlab/issue_templates/Technical_Onboarding.md) that will guide them through the whole process.
 
 #### Workflow and Refinement
-Secure largely follows our [Product Development Flow](https://about.gitlab.com/handbook/product-development-flow/)
+Secure largely follows our [Product Development Flow](/handbook/product-development-flow/)
 
 See [Issue Refinement](./workflow/) to learn how we evaluate complexity, level of effort, our implementation plan and assign issue weights.
 
@@ -354,7 +419,7 @@ We keep a [list of data sources in our internal wiki](https://gitlab.com/gitlab-
 
 ## Retrospectives
 
-The Secure sub-department conducts retrospectives at the group level that follow our [engineering workflow](https://about.gitlab.com/handbook/engineering/workflow/#retrospective).
+The Secure sub-department conducts retrospectives at the group level that follow our [engineering workflow](/handbook/engineering/workflow/#retrospective).
 Each group's DRI is responsible to prepare and schedule the retrospective sync sessions and the async retrospective issues can be found in [the corresponding project](https://gitlab.com/gl-retrospectives/secure-sub-dept).
 
 After all groups have completed their retrospective, we conduct a [Section Retrospective](/handbook/engineering/development/sec/#section-retrospectives).

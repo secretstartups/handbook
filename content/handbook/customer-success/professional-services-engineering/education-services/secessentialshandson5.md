@@ -1,13 +1,13 @@
 ---
-title: "GitLab Security Essentials - Hands-On Lab"
+title: "GitLab Security Essentials - Hands-On Lab 5"
 description: "This hands-on guide walks you through the lab exercises used in the GitLab Security Essentials course."
 ---
+
+> You are viewing the latest Version 16.x instructions. If your group URL starts with https://spt.gitlabtraining.cloud, please use the [Version 15.x instructions](https://gitlab.com/gitlab-com/content-sites/handbook/-/blob/d14ee71aeac2054c72ce96e8b35ba2511f86a7ca/content/handbook/customer-success/professional-services-engineering/education-services/secessentialshandson5.md)
 
 # Lab 5: Enable and Configure Coverage-Guided Fuzz Testing
 
 > Estimated time to complete: 15 to 20 minutes
-
-> **You are viewing the latest Version 16.x instructions.** You are using v16 if your group URL is `https://gitlab.com/gitlab-learn-labs/...`. If your group URL starts with `https://ilt.gitlabtraining.cloud` or `https://spt.gitlabtraining.cloud`, please use the [Version 15.x instructions](https://gitlab.com/gitlab-com/content-sites/handbook/-/blob/d14ee71aeac2054c72ce96e8b35ba2511f86a7ca/content/handbook/customer-success/professional-services-engineering/education-services/secessentialshandson5.md).
 
 ## Objectives
 
@@ -55,8 +55,8 @@ flowchart TD
 
     ```python
     def is_third_byte_zero(my_bytes):
-    """Return True if and only if the third byte passed in is 0."""
-    return my_bytes[2] == 0  # start counting from 0, so "2" refers to the 3rd byte
+        """Return True if and only if the third byte passed in is 0."""
+        return my_bytes[2] == 0  # start counting from 0, so "2" refers to the 3rd byte
     ```
 
     > This code-under-test defines a function that expects to be passed a list of bytes. If the third byte in that list is 0, the code returns the value `True`.
@@ -81,10 +81,10 @@ flowchart TD
 
     @PythonFuzz                           # Python decorator required by fuzz test infrastructure
     def fuzz(random_bytes):               # Accept random data...
-    is_third_byte_zero(random_bytes)  # ...and pass it on to the code-under-test.
+        is_third_byte_zero(random_bytes)  # ...and pass it on to the code-under-test.
 
     if __name__ == '__main__':            # required by fuzz test infrastructure
-    fuzz()
+        fuzz()
     ```
 
     > This fuzz target is typical for Python-based fuzz testing. See the [GitLab documentation](https://docs.gitlab.com/ee/user/application_security/coverage_fuzzing/#supported-fuzzing-engines-and-languages) for instructions on writing fuzz targets for other languages.

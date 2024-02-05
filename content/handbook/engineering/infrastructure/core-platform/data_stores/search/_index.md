@@ -16,23 +16,24 @@ The Global Search Group focuses on bringing world class search functionality to 
 
 The group is responsible for improving and expanding upon our current global search implementations using Elasticsearch, PostgreSQL, and Gitaly. Areas of responsibility will include global search functionality, UI, ingestion mechanisms, optimal indexing, administrative tools, and installation mechanisms for self-managed installations.
 
-This team doesn't own custom searches for specific features, such as the "filter bar" on issues which is part of the [Issue Tracking](https://about.gitlab.com/direction/plan/project_management/team_planning/) category owned by the [Project Management group](https://about.gitlab.com/handbook/product/categories/#project-management-group).
+This team doesn't own custom searches for specific features, such as the "filter bar" on issues which is part of the [Issue Tracking](https://about.gitlab.com/direction/plan/project_management/team_planning/) category owned by the [Project Management group](/handbook/product/categories/#project-management-group).
 
 ## Team Members
 
 The following team members are permanent members of the Global Search Group:
 
-<%= direct_team(manager_slug: 'cliu', role_regexp: /Global Search|Core Platform/) %>
+{{< team-by-manager-slug manager="cliu" role="Global Search|Core Platform" >}}
 
 ## Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-| **Person**                                       | **Role** |
-| [Ben Venker](/company/team/#bvenker)             | [Senior Product Manager, Global Search](https://handbook.gitlab.com/job-families/product/product-manager/) |
-| [Ashraf Khamis](/company/team/#ashrafkhamis)     | [Senior Technical Writer](https://handbook.gitlab.com/job-families/product/technical-writer/) |
-| [Cleveland Bledsoe Jr](/company/team/#cleveland) | [Senior Support Engineer](https://handbook.gitlab.com/job-families/engineering/support-engineer/) |
-| [Brenda Nyaringita](/company/team/#bnyaringita)  | [Support Engineer(EMEA)](https://handbook.gitlab.com/job-families/engineering/support-engineer/) |
+| **Name**                                                 | **Role** |
+| ---------------------------------------------------------| ------------------------------------------------------------------------------- |
+| [Ben Venker](/handbook/company/team#bvenker)             | [Senior Product Manager, Global Search](/job-families/product/product-manager/) |
+| [Ashraf Khamis](/handbook/company/team#ashrafkhamis)     | [Senior Technical Writer](/job-families/product/technical-writer/) |
+| [Cleveland Bledsoe Jr](/handbook/company/team#cleveland) | [Senior Support Engineer](/job-families/engineering/support-engineer/) |
+| [Brenda Nyaringita](/handbook/company/team#bnyaringita)  | [Support Engineer(EMEA)](/job-families/engineering/support-engineer/) |
 
 ## Meetings
 
@@ -43,7 +44,7 @@ Whenever possible, we prefer to communicate asynchronously using issues, merge r
 
 ## Work
 
-We follow the general workflow and principles defined in [Product Development Flow](https://about.gitlab.com/handbook/product-development-flow/) and [Engineering Workflow](https://about.gitlab.com/handbook/engineering/workflow/). To bring an issue to our attention, please create an issue in the relevant project. Add the `~"group::global search"` label and any other suitable labels. If it is an urgent issue, please reach out to the Product Manager or Engineering Manager listed in the [Stable Counterparts](https://about.gitlab.com/handbook/engineering/infrastructure/core-platform/data_stores/search/#stable-counterparts) section above.
+We follow the general workflow and principles defined in [Product Development Flow](/handbook/product-development-flow/) and [Engineering Workflow](/handbook/engineering/workflow/). To bring an issue to our attention, please create an issue in the relevant project. Add the `~"group::global search"` label and any other suitable labels. If it is an urgent issue, please reach out to the Product Manager or Engineering Manager listed in the [Stable Counterparts](/handbook/engineering/infrastructure/core-platform/data_stores/search/#stable-counterparts) section above.
 
 Below are a few guidelines the team follows in the day-to-day work.
 
@@ -54,7 +55,7 @@ Below are a few guidelines the team follows in the day-to-day work.
 * We apply the Deliverable label to the issues that we intend to close in a milestone before the milestone starts. Issues added during a milestone should not have the Deliverable label applied. We review these issues in the middle of the milestone, usually the first week of each month. We will remove the Deliverable label from the issues that are not likely to make it into the release. 
 * We apply the Stretch label to the issues that we intend to start during a milestone but are not committing to closing.
 * We work with the UX team for features that need their design input by labeling the issues with a UX workflow label and adding the corresponding UX team counterpart as the assignee. We use `workflow::problem validation` and `workflow::solution` validation for user research and `workflow::design` for UI design and prototyping. Once the design is finished, `workflow::ready for development` label will be added as an indicator that development can start. For minor UX/UI changes, we contact our UX counterpart or the Product Design Manager to request a review for fast iterations.
-* We work with the Quality team for issues that require input from a testing perspective by labeling the issues with `workflow::planning breakdown` and adding the SET counterpart as an assignee. Once SET reviews the issue, they acknowledge back with the label [`quad-planning::complete-action` or `quad-planning::complete-no-action`](https://about.gitlab.com/handbook/product-development-flow/#build-phase-1-plan)
+* We work with the Quality team for issues that require input from a testing perspective by labeling the issues with `workflow::planning breakdown` and adding the SET counterpart as an assignee. Once SET reviews the issue, they acknowledge back with the label [`quad-planning::complete-action` or `quad-planning::complete-no-action`](/handbook/product-development-flow/#build-phase-1-plan)
 * We work with the Technical Writing team for issues that need documentation change by labeling the issues with <code>documentation</code> and adding our counterpart in the Technical Writing team as assignee. Our technical writer helps us update the corresponding document. The documentation change normally happens together with the code change.
 * We work with our stable counterpart in the Security team for issues that need input from a security perspective. We suggest using team planning issues, for example, [this one](https://gitlab.com/gitlab-org/search-team/team-tasks/-/issues/17), for communication.
 * We work with the Support Engineering team by collaborating on issues directly. We invite our counterpart in the Support Engineering team to our team meeting every month to have direct communication.
@@ -79,11 +80,12 @@ Every MR that was created before the breaking change milestone should have this 
 The team has been actively working on enabling Elasticsearch powered Advanced Search on GitLab.com. [Based on our analysis](https://gitlab.com/groups/gitlab-org/-/epics/1736), we set our first target to roll this feature out for all the paid groups on GitLab.com. You can find more details about the timeline and progress in the links below.
 
 * [Plan of Advanced. Search Rollout on GitLab.com](https://gitlab.com/groups/gitlab-com/-/epics/649)
-* [Steps and Enhancements of Advanced Search Rollout on GitLab.com](https://about.gitlab.com/handbook/engineering/infrastructure/core-platform/data_stores/search/es-rollout-timeline.html)
+* [Steps and Enhancements of Advanced Search Rollout on GitLab.com](/handbook/engineering/infrastructure/core-platform/data_stores/search/es-rollout-timeline.html)
 
 ### Severity Labels for Search Issues (`~advanced search`, `~global search`)
 
 | Type of Operation | `~severity::1` - Blocker | `~severity::2` - Critical | `~severity::3` - Major  | `~severity::4` - Low |
+| ------------------|--------------------------|---------------------------|-------------------------|----------------------|
 | Recall Record, Global | Above 10 seconds to timing out | Between 7 and 10 seconds | Between 4 and 7 seconds | Between 2 and 4 seconds |
 | Time until inserted record is recallable | Above 15 minutes | Between 15 and 10 minutes | Between 10 and 5 minutes | Between 3 and 5 minutes|
 
@@ -118,7 +120,7 @@ We have the following guidelines for doing reviews on Global Search Team MRs:
 
 ### Oncall escalation coverage
 
-As the Global Search Team requires special domain knowledge, such as Elasticsearch, we borrow team members with this domain knowledge from other groups to cover the on-call escalation when we are understaffing, especially during the holiday seasons. In general, we will follow the [dev](https://about.gitlab.com/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#escalation-process) on-call process. The Elasticsearch domain experts, identified by domain_expertise on their profile, may be contacted when SRE and dev on-call engineers cannot resolve the production incidents. We don't expect the domain experts to work outside their normal working hours. In case of emergency, we will follow the rules and best practices outlined in our [Incident Management](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/) handbook. To assist team members in catching up on the latest development status and resolving potential incidents, we have created a [Global Search Incident Management document](https://gitlab.com/gitlab-org/search-team/training-materials/-/tree/main/2021-12-14-production-incident-management) as a reference.
+As the Global Search Team requires special domain knowledge, such as Elasticsearch, we borrow team members with this domain knowledge from other groups to cover the on-call escalation when we are understaffing, especially during the holiday seasons. In general, we will follow the [dev](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#escalation-process) on-call process. The Elasticsearch domain experts, identified by domain_expertise on their profile, may be contacted when SRE and dev on-call engineers cannot resolve the production incidents. We don't expect the domain experts to work outside their normal working hours. In case of emergency, we will follow the rules and best practices outlined in our [Incident Management](/handbook/engineering/infrastructure/incident-management/) handbook. To assist team members in catching up on the latest development status and resolving potential incidents, we have created a [Global Search Incident Management document](https://gitlab.com/gitlab-org/search-team/training-materials/-/tree/main/2021-12-14-production-incident-management) as a reference.
 
 #### Onboard domain experts from other groups to cover production incident escalation
 
@@ -176,4 +178,4 @@ We are exploring [Rally](https://esrally.readthedocs.io) for performance testing
 
 ## Dashboards
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Global Search" } %>
+{{% cross-functional-dashboards filters="global search" %}}

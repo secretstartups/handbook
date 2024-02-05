@@ -11,7 +11,7 @@ title: Real-time Editing of Issue Descriptions (REID) Single-Engineer Group
 
 ## The Real-time Editing of Issue Descriptions (REID) Single-Engineer Group
 
-Real-time Editing of Issue Descriptions (REID) was a [Single-Engineer Group (SEG)](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/company/team/structure#single-engineer-groups)
+Real-time Editing of Issue Descriptions (REID) was a [Single-Engineer Group (SEG)](/handbook/company/structure/#single-engineer-groups)
 investment within GitLab’s [Incubation Engineering Department](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/handbook/engineering/development/incubation).
 This SEG effort has ended due to a team member departure, effective March 16, 2023.
 
@@ -45,7 +45,7 @@ REID is a complex subject and many challenges were faced along the way:
   was built and an integration attempt was made, but ultimately
   did not ship because of open questions around how to slot it into GitLab's overall IA.
 
-A hand-over with the [Application Performance group](https://about.gitlab.com/handbook/engineering/infrastructure/core-platform/data_stores/application_performance/)
+A hand-over with the [Application Performance group](/handbook/engineering/infrastructure/core-platform/data_stores/application_performance/)
 has been conducted in [this issue](https://gitlab.com/gitlab-org/application-performance-team/team-tasks/-/issues/136).
 
 ## Outputs
@@ -198,11 +198,11 @@ The GitLab UI does not rely on a uniform text editor but instead offeres a mix o
 
 ## Product Development Group affinity
 
-- [Code Review](https://about.gitlab.com/handbook/product/categories/#code-review-group)
-- [Source Code](https://about.gitlab.com/handbook/product/categories/#source-code-group)
-- [Editor](https://about.gitlab.com/handbook/product/categories/#editor-group)
-- [Product Planning](https://about.gitlab.com/handbook/product/categories/#product-planning-group)
-- [Project Management](https://about.gitlab.com/handbook/product/categories/#project-management-group)
+- [Code Review](/handbook/product/categories/#code-review-group)
+- [Source Code](/handbook/product/categories/#source-code-group)
+- [Editor](/handbook/product/categories/#editor-group)
+- [Product Planning](/handbook/product/categories/#product-planning-group)
+- [Project Management](/handbook/product/categories/#project-management-group)
 
 ## Links
 

@@ -10,11 +10,11 @@ description: "Guidelines for triaging new merge requests from the wider communit
 
 
 
-At GitLab, our mission is to change all creative work from read-only to read-write so that [everyone can contribute](/company/mission/#mission). GitLab highly values community contribution and we want to continue growing community code contribution. GitLab encourages the community to file issues and open merge requests for our projects under the [`gitlab-org` group](https://gitlab.com/gitlab-org), and for the [`gitlab-com/www-gitlab-com` project](https://gitlab.com/gitlab-com/www-gitlab-com). Their contributions are valuable, and we should handle them as effectively as possible. A central part of this is triage - the process of categorization according to type and product group.
+At GitLab, our mission is to change all creative work from read-only to read-write so that [everyone can contribute](/handbook/company/mission/#mission). GitLab highly values community contribution and we want to continue growing community code contribution. GitLab encourages the community to file issues and open merge requests for our projects under the [`gitlab-org` group](https://gitlab.com/gitlab-org), and for the [`gitlab-com/www-gitlab-com` project](https://gitlab.com/gitlab-com/www-gitlab-com). Their contributions are valuable, and we should handle them as effectively as possible. A central part of this is triage - the process of categorization according to type and product group.
 
 Any GitLab team-member can triage merge requests. Keeping the number of un-triaged merge requests low is essential for maintainability, and is our collective responsibility. Consider triaging a few merge requests around your other responsibilities, or scheduling some time for it on a regular basis.
 
-Triaging incoming wider community merge requests is divided between several departments. Quality Department maintains triage automation, [Merge Request Coaches](/handbook/marketing/developer-relations/contributor-success/merge-request-coach-lifecycle.html) take on a partial merge request triage, and finally triage automation helps completing the triage process. Additionally, [Contributor Success](/handbook/marketing/developer-relations/contributor-success/) drives the community collaboration efforts and works with our community to ensure they receive support and recognition for contributing to GitLab.
+Triaging incoming wider community merge requests is divided between several departments. Quality Department maintains triage automation, [Merge Request Coaches](/handbook/marketing/developer-relations/contributor-success/merge-request-coach-lifecycle) take on a partial merge request triage, and finally triage automation helps completing the triage process. Additionally, [Contributor Success](/handbook/marketing/developer-relations/contributor-success/) drives the community collaboration efforts and works with our community to ensure they receive support and recognition for contributing to GitLab.
 
 ## Merge request triage for the `gitlab-org` group
 
@@ -40,7 +40,7 @@ A merge request is considered partially triaged when it has a:
 - [stage label](https://docs.gitlab.com/ee/development/labels/index.html#stage-labels) applied.
 - [group label](https://docs.gitlab.com/ee/development/labels/index.html#group-labels) applied (e.g. `~"group:editor"`). If no group label exists, the stage label is enough.
 
-The partial triage is completed by [Merge Request Coaches](/handbook/marketing/developer-relations/contributor-success/merge-request-coach-lifecycle.html) via the [Newly created community merge requests](/handbook/engineering/infrastructure/engineering-productivity/triage-operations/#newly-created-community-merge-requests) triage report.
+The partial triage is completed by [Merge Request Coaches](/handbook/marketing/developer-relations/contributor-success/merge-request-coach-lifecycle) via the [Newly created community merge requests](/handbook/engineering/infrastructure/engineering-productivity/triage-operations/#newly-created-community-merge-requests) triage report.
 
 For MRs related to issues, partial triage can be completed by using the following quick action and confirming proper metadata:
 

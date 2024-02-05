@@ -42,6 +42,12 @@ The current headcount number will be updated each quarter following our quarterl
 
 These awards and lists recognize GitLab's unique culture and help us spread the word about why this is such a great place to work. Here are the latest:
 
+<details><summary>2024</summary>
+
+- [Best Places to Work, Builtin, 2024](https://builtin.com/awards/remote/2024/best-large-places-to-work?utm_source=bambu&utm_medium=social&utm_campaign=advocacy&blaid=5510421)
+
+</details>
+
 <details><summary>2023</summary>
 
 - [Great Place to Work Certified, 2023-2024](https://www.greatplacetowork.com/certified-company/7013799)
@@ -100,6 +106,7 @@ These awards and lists recognize GitLab's unique culture and help us spread the 
 
 | Articles/Blogs/Features | Category |
 | ------ | ------ |
+| [Innovating in Sync: The Story of GitLab Duo](https://builtin.com/articles/innovating-sync-story-gitlab-duo) | AI / Product |
 | [These Companies Are Taking an Intentional Approach to Artificial Intelligence](https://builtin.com/brand-studio/these-companies-are-taking-intentional-approach-artificial-intelligence?utm_source=bambu&utm_medium=social&utm_campaign=advocacy) | AI / Product |
 | [How Iteration drives innovation in our engineering org](https://about.gitlab.com/blog/2022/06/10/how-gitlab-iteration-value-drives-innovation-through-the-engineering-organization/) | Engineering |
 | [The Best Leadership Advice I Never Received](https://womeninsaleseverywhere.com/blog/author/meaghan-thatcher/) | Sales |

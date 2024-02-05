@@ -49,14 +49,14 @@ Updates are being tracked in [&11777](https://gitlab.com/groups/gitlab-org/-/epi
 |[Add support for relating work items based on different relationship types](https://gitlab.com/groups/gitlab-org/-/epics/7459)| 90% | |
 |[Add support for relating legacy issues as children to work items](https://gitlab.com/groups/gitlab-org/-/epics/10851)| 70% | |
 |[Add support for cross-group hierarchies in Hierarchy widget](https://gitlab.com/gitlab-org/gitlab/-/issues/424896)| | |
-|[Start and Due date inheritance support in Work Items](https://gitlab.com/groups/gitlab-org/-/epics/11409)| | [Kassio Borges](/company/team/#kassio) (BE) & [Himanshu Kapoor](/company/team/#himkp) (FE) - Knowledge |
+|[Start and Due date inheritance support in Work Items](https://gitlab.com/groups/gitlab-org/-/epics/11409)| | [Kassio Borges](/handbook/company/team/#kassio) (BE) & [Himanshu Kapoor](/handbook/company/team/#himkp) (FE) - Knowledge |
 |[Roll-up statistics around children count, weight sum, and health status in Hierarchy widget](https://gitlab.com/groups/gitlab-org/-/epics/11402)| 5% | Project Management |
 |[Add support for Ancestor widgets](https://gitlab.com/groups/gitlab-org/-/epics/9291)| | |
 
 #### Stage 2 - Epics data migration plan
 
 |Task|Progress|DRI (group or individual)|
-|---|---|
+|---|---|---|
 |Block widgets which will be unavailable for migrated Epics| | |
 |Setup synchronization between Epics table and Work Items table in database| | |
 |Setup synchronization of widgets data between Epics and Work Items along with handling change in Epic Work Item ID| | |
@@ -74,17 +74,18 @@ Updates are being tracked in [&11777](https://gitlab.com/groups/gitlab-org/-/epi
 
 |Working Group Role|Person|Title|
 |---|---|---|
-|Facilitator|[Kushal Pandya](/company/team/#kushalpandya)|Fullstack Engineering Manager, Plan:Product Planning|
-|Member|[Donald Cook](/company/team/#donaldcook)|Fullstack Engineering Manager, Plan:Project Management|
-|Member|[Gabe Weaver](/company/team/#gweaver)|Senior Product Manager, Plan:Project Management|
-|Member|[Amanda Rueda](/company/team/#gweaver)|Senior Product Manager, Plan:Product Planning|
-|Member|[Jan Provaznik](/company/team/#jprovaznik)|Staff Backend Engineer, Plan:Product Planning|
-|Member|[Heinrich Lee Yu](/company/team/#engwan)|Staff Backend Engineer, Plan:Project Management|
-|Member|[Adam Hegyi](/company/team/#ahegyi)|Staff Backend Engineer, Plan:Optimize|
-|Member|[Felipe Artur](/company/team/#felipe_artur)|Senior Backend Engineer, Plan:Optimize|
-|Member|[Eugenia Grieff](/company/team/#egrieff)|Senior Backend Engineer, Plan:Product Planning|
-|Member|[Coung Ngo](/company/team/#cngo)|Senior Frontend Engineer, Plan:Project Management|
-|Member|[Florie Guibert](/company/team/#fguibert)|Senior Frontend Engineer, Plan:Product Planning|
-|Member|[Mario Celi](/company/team/#mcelicalderonG)|Backend Engineer, Plan:Project Management|
-|Member|[Rajan Mistry](/company/team/#ramistry)|Frontend Engineer, Plan:Product Planning|
-|Member|[Jacki Bauer](/company/team/#jackib)|Product Design Manager, Plan|
+|Facilitator|[Kushal Pandya](/handbook/company/team/#kushalpandya)|Fullstack Engineering Manager, Plan:Product Planning|
+|Member|[Donald Cook](/handbook/company/team/#donaldcook)|Fullstack Engineering Manager, Plan:Project Management|
+|Member|[Gabe Weaver](/handbook/company/team/#gweaver)|Senior Product Manager, Plan:Project Management|
+|Member|[Amanda Rueda](/handbook/company/team/#gweaver)|Senior Product Manager, Plan:Product Planning|
+|Member|[Jan Provaznik](/handbook/company/team/#jprovaznik)|Staff Backend Engineer, Plan:Product Planning|
+|Member|[Heinrich Lee Yu](/handbook/company/team/#engwan)|Staff Backend Engineer, Plan:Project Management|
+|Member|[Adam Hegyi](/handbook/company/team/#ahegyi)|Staff Backend Engineer, Plan:Optimize|
+|Member|[Felipe Artur](/handbook/company/team/#felipe_artur)|Senior Backend Engineer, Plan:Optimize|
+|Member|[Eugenia Grieff](/handbook/company/team/#egrieff)|Senior Backend Engineer, Plan:Product Planning|
+|Member|[Coung Ngo](/handbook/company/team/#cngo)|Senior Frontend Engineer, Plan:Project Management|
+|Member|[Florie Guibert](/handbook/company/team/#fguibert)|Senior Frontend Engineer, Plan:Product Planning|
+|Member|[Mario Celi](/handbook/company/team/#mcelicalderonG)|Backend Engineer, Plan:Project Management|
+|Member|[Alexandru Croitor](/handbook/company/team/#acroitor)|Senior Backend Engineer, Plan:Project Management|
+|Member|[Rajan Mistry](/handbook/company/team/#ramistry)|Frontend Engineer, Plan:Product Planning|
+|Member|[Jacki Bauer](/handbook/company/team/#jackib)|Product Design Manager, Plan|

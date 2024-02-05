@@ -122,7 +122,7 @@ We were able to reproduce the bug on GitLab.com, this is a proper regression! Le
 - [ ] Explore the existing issues and notice the labels that have been applied
 - [ ] Explore and understand the labels that are available for each project. Start with the [GitLab project's labels](https://gitlab.com/gitlab-org/gitlab/-/labels)
 - [ ] Explore the Teams in the [handbook](/handbook/engineering/)
-- [ ] Explore the domain experts listed on the [team page](/company/team/)
+- [ ] Explore the domain experts listed on the [team page](/handbook/company/team/)
 - [ ] Identify the current release's regression issue and take a look at the referenced regression issues
 
 ----

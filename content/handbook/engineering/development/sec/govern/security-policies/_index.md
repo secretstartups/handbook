@@ -17,7 +17,7 @@ We are responsible for developing solutions to give customers the functionality 
 
 ### Prioritization
 
-We use our [Security Policies Priorities](/direction/govern/security_policies/security_policy_management/#priorities) list in our direction page to track what we are doing, and what order to do it in.  Each initiative includes these fields:
+We use our [Security Policies Priorities](https://about.gitlab.com/direction/govern/security_policies/security_policy_management/#priorities) list in our direction page to track what we are doing, and what order to do it in.  Each initiative includes these fields:
 
 1. Name - Description and link to the epic
 1. BE DRI / FE DRI - indicates the backend and frontend [DRIs](/handbook/engineering/development/sec/govern/sp-ti-planning.html#epic-engineering-dri) who will be actively involved.
@@ -37,6 +37,8 @@ The Security Policies group largely follows GitLab's [Product Development Flow](
 Additional information about how we operate can be found on the [Planning page](/handbook/engineering/development/sec/govern/sp-ti-planning.html).
 
 Our current workflow is visualized as flowchart on the [Workflow page](/handbook/engineering/development/sec/govern/security-policies/workflow.html).
+
+Our current process on how we work on features is on the [Feature process page](/handbook/engineering/development/sec/govern/security-policies/feature_process.html)
 
 #### MR Reviews
 

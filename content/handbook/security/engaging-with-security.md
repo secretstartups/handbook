@@ -117,7 +117,7 @@ Consider adding the `/confidential` quick action to a project issue template.
 - Add any additional labels you know apply. Additional labels will be applied
 by the security team and other engineering personnel, but it will help with
 the triage process:
-    - [`~"type::bug"`, `~"type::maintenance"`, or `~"type::feature"` if appropriate]({{< ref "./security-engineering/application-security/vulnerability-management#vulnerability-vs-feature-vs-bug" >}})
+    - [`~"type::bug"`, `~"type::maintenance"`, or `~"type::feature"` if appropriate]({{< ref "./product-security/application-security/vulnerability-management#vulnerability-vs-feature-vs-bug" >}})
     - Team or DevOps lifecycle labels
     - `~customer` if issue is a result of a customer report
     - `~internal customer` should be added by team members when the issue
@@ -142,13 +142,13 @@ For more *immediate* attention, refer to [Engaging security on-call]({{< ref "en
 ### Severity and Priority Labels on `~security` Issues
 
 Severity and priority labels are set by an application security engineer at the time of triage
-if and only if the issue is [determined to be a vulnerability]({{< ref "./security-engineering/application-security/vulnerability-management#vulnerability-vs-feature-vs-bug" >}}).
+if and only if the issue is [determined to be a vulnerability]({{< ref "./product-security/application-security/vulnerability-management#vulnerability-vs-feature-vs-bug" >}}).
 To identify such issues, the engineer will add the `~bug::vulnerability` label.
 Severity label is determined by CVSS score, using the [GitLab CVSS calculator](https://gitlab-com.gitlab.io/gl-security/appsec/cvss-calculator/).
 If another team member feels that the chosen `~severity` / `~priority` labels
 need to be reconsidered, they are encouraged to begin a discussion on the relevant issue.
 
-The presence of the `~bug::vulnerability` label modifies the standard [severity labels](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity)(`~severity::1`, `~severity::2`, `~severity::3`, `~severity::4`)
+The presence of the `~bug::vulnerability` label modifies the standard [severity labels](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity)(`~severity::1`, `~severity::2`, `~severity::3`, `~severity::4`)
 by additionally taking into account
 likelihood as described below, as well as any
 other mitigating or exacerbating factors. The priority of addressing
@@ -163,7 +163,7 @@ a external
 metric that may be evaluated by users as an indication of GitLab's commitment
 to protecting our users and customers. It is also an important measurement that
 security researchers use when choosing to engage with the security team, either
-directly or through our [HackerOne Bug Bounty Program]({{< ref "./security-engineering/application-security/runbooks/hackerone-process." >}}").
+directly or through our [HackerOne Bug Bounty Program]({{< ref "./product-security/application-security/runbooks/hackerone-process." >}}").
 
 Vulnerabilities must be mitigated and remediated according to specific timelines.
 The timelines are specified in the [Vulnerability Management handbook]({{< ref "./threat-management/vulnerability-management/#remediation-slas" >}}) (a [controlled document]({{< ref "./controlled-document-procedure" >}})).
@@ -250,7 +250,7 @@ field, severity label, and priority label on the issue should not be changed
 by PMs, as these labels are intended to provide accurate metrics on
 `~security` issues, and are assigned by the security team. Any blockers,
 technical or organizational, that prevents `~security` issues from being
-addressed as [our top priority](https://about.gitlab.com/handbook/engineering/workflow/#security-is-everyones-responsibility)
+addressed as [our top priority](/handbook/engineering/workflow/#security-is-everyones-responsibility)
 should be escalated up the appropriate management chains.
 
 **Note that issues are not scheduled for a particular release unless the team leads add them to a release milestone *and* they are assigned to a developer.**

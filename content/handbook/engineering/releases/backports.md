@@ -4,7 +4,7 @@ title: "Backports"
 
 ## Backports overview
 
-This section seeks to remove confusion around backports at GitLab. Please raise an MR to this page or reach out to the [Delivery Group](https://about.gitlab.com/handbook/engineering/infrastructure/team/delivery) if you have questions. Also remember to check the [Backports FAQ](/handbook/engineering/releases/backports/#backports-faq)
+This section seeks to remove confusion around backports at GitLab. Please raise an MR to this page or reach out to the [Delivery Group](/handbook/engineering/infrastructure/team/delivery) if you have questions. Also remember to check the [Backports FAQ](/handbook/engineering/releases/backports/#backports-faq)
 
 ### What kind of release do I need for my backport?
 
@@ -53,7 +53,7 @@ You can check the [Maintenance Policy](https://docs.gitlab.com/ee/policy/mainten
 
 ### What if my backport is not covered by the maintenance policy?
 
-If your backport is not covered by the maintenance policy then it is not guaranteed. However, we realize that there is sometimes a need to backport a fix to more than one stable release, depending on the severity of the bug. Backports that are outside of the maintenance policy are performed at the sole discretion of the [Release Managers](https://about.gitlab.com/handbook/engineering/infrastructure/team/delivery/#delivery-domain-ownership-between-delivery-teams) .
+If your backport is not covered by the maintenance policy then it is not guaranteed. However, we realize that there is sometimes a need to backport a fix to more than one stable release, depending on the severity of the bug. Backports that are outside of the maintenance policy are performed at the sole discretion of the [Release Managers](/handbook/engineering/infrastructure/team/delivery/#delivery-domain-ownership-between-delivery-teams) .
 
 You can request a backport by:
 

@@ -5,16 +5,24 @@ title: "Incident Manager On Call onboarding"
 
 
 
-
-
-
-
-
 ## Introduction
 This page is meant to be the starting point for onboarding as an Incident Managers.
 
 As a means to ensure a healthy [Incident Manager](/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) rotation with sufficient staffing and no significant burden on any single individual we staff this role with Team Members from across Engineering.
 
+An Incident Manager On Call (IMOC) has the following goals during a call:
+  - Identify/quantify impact to GitLab customers (metrics, customer support requests)
+  - Gather necessary folks to support area(s) of investigation/resolution
+  - Suggest *politely* that people not contributing leave the call, request that folks do so when the number of people in the call is a distraction (30 people as an somewhat arbitrary guideline).
+  - Validate recent releases and feature flags (can we roll back or change the flag?)
+  - Restate status for folks joining with a low level of shame (your possible misunderstanding is a chance for group clarity and learning)
+  - Drive to identify the fastest path to mitigation and interrupt as necessary
+  - Check in on the above on a regular candence (S1 every 5 to 10 minutes)
+  - Communicate status to the right audience
+
+Some of this may feel counter to GitLab Values; this is not designed or intended to diminish our values but to acknowledge and reinforce our need to mitigate customer impact as quickly as possible.
+
+### Incident Manager participants
 The Incident Manager role will be staffed by all team members within this scope:
 - [Job Grades 8 and 9](/handbook/total-rewards/compensation/compensation-calculator/#job-grades)
 - Development and Infrastructure departments
@@ -35,14 +43,21 @@ Shifts are 4 or 6 hours each at these times each day:
 
 Each Incident Manager On Call assignment is for 4 consecutive days. The Incident Manager On Call shifts are based on individual preferences specified in the [Incident Manager Onboarding issue](/handbook/engineering/infrastructure/incident-management/incident-manager-onboarding/#onboard-as-an-incident-manager). Shifts may include weekends based on this rotating assignment.
 
-We intend to have two scheduling layers implemented in PagerDuty, as a way to make weekend coverage more equitable, once we have fully understood which folks would be [eligable](https://gitlab.com/gitlab-com/gl-infra/mstaff/-/issues/184) (internal only) .
+We have two scheduling layers implemented in PagerDuty, as a way to make weekend coverage more equitable and with the updated guidance for public holidays and weekend coverage.
+
 1. Weekdays and Weekends - an Incident Manager's maximum 4-day shift can scheduled any day of the week. This is how the rotating assignments have been scheduled to date.
-1. Weekdays-only - an Incident Manager's  maximum 4-day shift will only be scheduled on weekdays, which applies to team members who cannot cover weekend shifts. This layer has precedence over the "Weekdays and Weekends" layer, so that Incident Managers scheduled _any day of the week_ will have their shifts scheduled less often.
+1. Weekdays-only - an Incident Manager's maximum 4-day shift will only be scheduled on weekdays, which applies to team members who cannot cover weekend shifts. This layer has precedence over the "Weekdays and Weekends" layer, so that Incident Managers scheduled _any day of the week_ will have their shifts scheduled less often.
+   1. Eligibility for weekday only shifts
+     1. Team members with United Kingdom, Germany and Ireland employment contracts dated before 2023-12-07, 2023-12-20 and 2023-06-06, respectively that do not wish to volunteer for weekend shifts and have not signed an amendment.
+      1. Team members with Austria, France or Italy employment contracts. Weekend shifts should not be taken due to local limitations.
+1. Public Holidays should not be covered by team members with Switzerland or New Zealand employment contracts due to local limitations. If you are inadvertently scheduled for a public holiday please [swap shifts](#can-i-shift-my-incident-manager-on-call-days-around)
 
 ### Special Coverage Days
 It is more efficient to staff Incident Manager roles with fewer, but frequently longer, shifts during days where overall Team Member availability is lower due to Holidays or other global company events. These days will be designated as "Special Coverage Days" and volunteers will be sought to cover the relevant shifts. Examples of these days include New Years as well as the monthly Family & Friends days. Not all holidays will be covered in this manner as many holidays are local in nature and easier to cover simply by normal shift switches.
 
-Special Coverage Days will be designated by creation of an Issue. The Issue will indicate the approach to scheduling for the specific event and will provide a table for volunteers to add their name. A DRI will be clearly noted and will be responsible for transferring the resulting coverage to PagerDuty.
+Special Coverage Days will be designated by creation of an Issue. The Issue will indicate the approach to scheduling for the specific event and will provide a table for volunteers to add their name. A DRI will be clearly noted and will be responsible for transferring the resulting coverage to PagerDuty. 
+
+During period with Special Coverage, indicated in the issue, Pager Duty schedule is void - incident managers are not expected to follow the PD schedule, however they are expected to collaborate DRI to provide full coverage for the given period.
 
 ### Onboard as an Incident Manager
 To onboard, [create an Incident Manager onboarding issue](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/new?issuable_template=onboarding-im).
@@ -68,7 +83,7 @@ or their designees, and the requests require approval from the participants' rep
 
 #### I am an engineer in Development. Am I exempt from the Dev On-call when I am on an Incident Manager rotation?
 
-Yes. If you are an engineer and you are in the Incident Manager rotation, you are exempt from the [Dev On-call](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#eligibility). You will not be expected to sign up for shifts in the monthly Dev On-call scheduling sheet. Please confirm that your email address is listed on the [Development-Team-BE Google Doc](https://drive.google.com/drive/search?q=%22Development-Team-BE%22), so that you are not auto-assigned a shift.
+Yes. If you are an engineer and you are in the Incident Manager rotation, you are exempt from the [Dev On-call](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#eligibility). You will not be expected to sign up for shifts in the monthly Dev On-call scheduling sheet. Please confirm that your email address is listed on the [Development-Team-BE Google Spreadsheet](https://docs.google.com/spreadsheets/d/1rCamrCMZPreBpYwbzFG9zpghtiH3KPiFYu46RbqWjXU/edit#gid=508978589), so that you are not auto-assigned a shift.
 
 #### How do I prioritize Incident Manager duties with my other role expectations?
 When you are scheduled to be Incident Manager On Call, this must by your #1 work priority. However, while it is the priority, there may not be any incidents. When there is not an active incident requiring Incident Manager leadership you maintain your normal work duties.
@@ -106,7 +121,7 @@ What to do for covering a shift or asking for coverage:
 2.  Get the override scheduled in PagerDuty.  Either person, the person asking or taking, can put in the override.
 
 Example 1, Scheduling yourself: Go to https://gitlab.pagerduty.com/my-on-call/week and click the shift for which you need an override.  You should get a pop up which will let you pick the person covering you and the hours, which usually default to your whole shift.
-Example 2, Covering for someone.  Go to the [schedule in PagerDuty](https://gitlab.pagerduty.com/schedules#P2SF64D) and pick the shift and person you will override.  You should get a pop up where you can pick yourself and the times for the override.
+Example 2, Covering for someone.  Go to the [schedule in PagerDuty](https://gitlab.pagerduty.com/schedules#PK4YI6X) and pick the shift and person you will override.  You should get a pop up where you can pick yourself and the times for the override.
 
 #### What role of Pagerduty shall I request?
 A **Professional Plus - Responder Role** is sufficient to be an Incident Manager.
@@ -119,7 +134,7 @@ Shifts are assigned based on the working hours that you selected during onboardi
 
 When an Incident Manager shift includes a weekend the team member can shift their work-week to include that day (and exclude another day). As an example, if an Incident Manager shift includes Saturday, then the team member could plan their work-week for that week to be Tues-Sat.
 
-While the example above is the intended idea, we will note that anything close to that which works for the team member will be fine as well.  For example, if you'd much rather take some other day in the adjoining weeks, or working [non-linear workdays](https://about.gitlab.com/company/culture/all-remote/non-linear-workday/) to accomodate the shift.
+While the example above is the intended idea, we will note that anything close to that which works for the team member will be fine as well.  For example, if you'd much rather take some other day in the adjoining weeks, or working [non-linear workdays](/handbook/company/culture/all-remote/non-linear-workday/) to accomodate the shift.
 
 Example scenarios:
 1. Tanuki is scheduled for the Thursday-Sunday IM shift.
@@ -144,7 +159,7 @@ If the manager serves as an Incident Manager themselves as well, modelling simil
 
 #### How do I see PagerDuty schedules from Google Calendar?
 
-1. Locate the _webcal feed_ for the [Incident Manager - GitLab.com SaaS](https://gitlab.pagerduty.com/schedules#P2SF64D) schedule in PagerDuty, which can be found in "Schedule Info". You can also link to your own Pagerduty shifts from [My On-Call Shifts](https://gitlab.pagerduty.com/my-on-call/month) found in "Export Calendar".
+1. Locate the _webcal feed_ for the [Incident Manager - GitLab.com SaaS](https://gitlab.pagerduty.com/schedules#PK4YI6X) schedule in PagerDuty, which can be found in "Schedule Info". You can also link to your own Pagerduty shifts from [My On-Call Shifts](https://gitlab.pagerduty.com/my-on-call/month) found in "Export Calendar".
 1. Copy the `webcal://...` URL into Google Calendar by adding a calendar under the **Other Calendars** dropdown and select `from url`. Paste the webcal link.
 1. Each Incident Manager On-Call shift should now show up as an event in this read-only Calendar view. Feel free to rename the Calendar to something legible (and not `webcal://...`), e.g. IMOC Shifts, My On-Call Shifts, etc.
 
@@ -159,4 +174,4 @@ New schedules are [announced](#how-are-incident-managers-scheduled) in the [#imo
 If you want to get notified when you are added to or removed from a schedule, or changes are made to your shifts, make sure to turn on the [On-Call Boosters](https://support.pagerduty.com/docs/mobile-app-settings#on-call-boosters) setting in the [PagerDuty App on your phone](https://support.pagerduty.com/docs/mobile-app).
 
 ## Learning about Incident Management
-We have a detailed handbook page that covers how we do [Incident Management](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/) at GitLab.
+We have a detailed handbook page that covers how we do [Incident Management](/handbook/engineering/infrastructure/incident-management/) at GitLab.

@@ -45,7 +45,7 @@ The Manager, UX Research is a [grade 8](/handbook/total-rewards/compensation/com
 - Evangelize research. Share user insights within the broader organization and externally in creative ways to increase empathy.
 - Able to use GitLab to plan/manage work and update the company handbook.
 - You share our [values](/handbook/values/), and work in accordance with those values.
-- [Leadership at GitLab](/handbook/company/team/structure/#management-group)
+- [Leadership at GitLab](/handbook/company/structure/#management-group)
 
 **NOTE:** In the compensation calculator below, fill in "Manager" in the `Level` field for this role.
 
@@ -119,7 +119,7 @@ The Senior Manager, UX Research is a [grade 9](/handbook/total-rewards/compensat
 - Able to use GitLab to plan/manage work and update the company handbook.
 - Ideally, has experience leading a remote UX research team that conducts research fully remote, too.
 - You share our [values](/handbook/values/), and work in accordance with those values.
-- [Leadership at GitLab](/handbook/company/team/structure/#management-group)
+- [Leadership at GitLab](/handbook/company/structure/#management-group)
 
 **NOTE:** In the compensation calculator below, fill in "Senior Manager" in the `Level` field for this role.
 
@@ -172,7 +172,7 @@ The Director, UX Research is a [grade 10](/handbook/total-rewards/compensation/c
 - Able to use GitLab to plan/manage work and update the company handbook.
 - Ideally, has experience leading a remote UX research team that conducts research fully remote, too.
 - You share our [values](/handbook/values/), and work in accordance with those values.
-- [Leadership at GitLab](/handbook/company/team/structure/#management-group)
+- [Leadership at GitLab](/handbook/company/structure/#management-group)
 
 **NOTE:** In the compensation calculator below, fill in "Director" in the `Level` field for this role.
 

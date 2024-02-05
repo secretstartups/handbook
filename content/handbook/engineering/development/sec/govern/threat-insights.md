@@ -29,7 +29,7 @@ We use the scoped labels `~"Threat Insights::Navy"` `~"Threat Insights::Tangerin
 
 ### Prioritization
 
-We use our [Threat Insights Priorities](/direction/govern/threat_insights/16_threat_insights_priorities.html) page to track what we are doing, and what order to do it in.
+We use our [Threat Insights Priorities](https://about.gitlab.com/direction/govern/threat_insights/16_threat_insights_priorities.html) page to track what we are doing, and what order to do it in.
 
 {{% cross-functional-dashboards filters="Threat Insights" %}}
 

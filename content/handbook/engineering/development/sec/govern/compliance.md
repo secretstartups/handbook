@@ -4,11 +4,11 @@ title: "Compliance Group"
 
 ## What we work on
 
-- We use the [Group Direction page](/direction/govern/compliance/) to describe our high-level goals and direction for our group.
+- We use the [Group Direction page](https://about.gitlab.com/direction/govern/compliance/) to describe our high-level goals and direction for our group.
 - From the high-level goals and direction we filter down to a prioritised list of Epics, we try to keep updated in our [Tactical Priorities](https://about.gitlab.com/direction/govern/compliance/tactical-priorities.html)
 - This prioritised list we then use when planning each Milestone. Each Milestone will have its own Issue in our [Planning Epic](https://gitlab.com/groups/gitlab-org/govern/compliance/-/epics/2)
   - In addition to using the high-level goals and direction as an input to planning Milestones, the Compliance Product Manager considers input from Sales, customers, and internal stakeholders (dogfooding) to decide on the priority for the issues added to each Milestone.
-- We also use [OKRs](/company/okrs/) to help prioritise strategic initiatives within the group. We use Issues for planning and collate them in our [OKR Epic](https://gitlab.com/groups/gitlab-org/govern/compliance/-/epics/4)
+- We also use [OKRs](/handbook/company/okrs/) to help prioritise strategic initiatives within the group. We use Issues for planning and collate them in our [OKR Epic](https://gitlab.com/groups/gitlab-org/govern/compliance/-/epics/4)
 
 ## How we work
 
@@ -25,8 +25,8 @@ title: "Compliance Group"
 Because this group works on components of the application that have a [far-reaching impact](/handbook/engineering/expansion-development/#reducing-the-impact-of-far-reaching-work), we take these extra steps in order to reduce our risk of a production incident:
 
 1. To build more institutional knowledge across the team we try to assign our merge requests to another Compliance team member for first review.
-1. Compliance merge requests use feature flags where it makes sense to minimise impact. We follow the [Feature Flag Lifecycle](https://about.gitlab.com/handbook/product-development-flow/feature-flag-lifecycle/) as closely as possible
-1. If a feature flag is used then a feature flag [rollout plan](https://about.gitlab.com/handbook/engineering/development/processes/rollout-plans/) will be created. Support (`#support_gitlab-com`) will also be [notified](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Feature%20Flag%20Roll%20Out.md?plain=1#L94) if necessary.
+1. Compliance merge requests use feature flags where it makes sense to minimise impact. We follow the [Feature Flag Lifecycle](/handbook/product-development-flow/feature-flag-lifecycle/) as closely as possible
+1. If a feature flag is used then a feature flag [rollout plan](/handbook/engineering/development/processes/rollout-plans/) will be created. Support (`#support_gitlab-com`) will also be [notified](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Feature%20Flag%20Roll%20Out.md?plain=1#L94) if necessary.
 1. Compliance related merge requests require a review by a [Compliance Engineer](https://gitlab.com/groups/gitlab-org/govern/compliance/engineering/-/group_members?with_inherited_permissions=exclude). This is guarded by using the `CODEOWNERS` feature of GitLab.
 
 
@@ -45,7 +45,7 @@ Once the investigation is complete, we follow up in the original medium. We also
 
 ### Spikes
 
-We use [spikes](https://about.gitlab.com/handbook/product/product-processes/#spikes) to conduct research, prototype, investigation to gain knowledge, reduce the risk of a technical approach, and better understand a requirement.
+We use [spikes](/handbook/product/product-processes/#spikes) to conduct research, prototype, investigation to gain knowledge, reduce the risk of a technical approach, and better understand a requirement.
 
 When we identify the need for a spike, we will create a new issue, clearly label it as such [example](https://gitlab.com/gitlab-org/gitlab/-/issues/353606), conduct the spike, and document the findings in the spike issue.
 
@@ -113,8 +113,8 @@ We plan in monthly cycles in accordance with our [Product Development Timeline](
 ### Pre-planning
 
 - By the 4th, Product should have created a planning issue for their group in the [Compliance project](https://gitlab.com/gitlab-org/govern/compliance/general/-/issues) for the coming release using the [template](https://gitlab.com/gitlab-org/govern/compliance/general/-/blob/main/.gitlab/issue_templates/planning_issue.md).
-- The Complaince [quad](https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/quad-planning/) will add a tentative plan for the release, outlining the highest priority issues within each of their respective areas.
-- We prioritize using the [cross-functional prioritization](https://about.gitlab.com/handbook/product/cross-functional-prioritization/). The Product Manager will prioritize `type::feature` issues, the Engineering Manager will prioritize `type::maintenance` issues, and the Quality Manager will prioritize `type::bug` issues.
+- The Complaince [quad](/handbook/engineering/infrastructure/test-platform/quad-planning/) will add a tentative plan for the release, outlining the highest priority issues within each of their respective areas.
+- We prioritize using the [cross-functional prioritization](/handbook/product/cross-functional-prioritization/). The Product Manager will prioritize `type::feature` issues, the Engineering Manager will prioritize `type::maintenance` issues, and the Quality Manager will prioritize `type::bug` issues.
 - Pre-planning is completed asynchronously by Product, Engineering, Quality and Design on the issue, this is to identify any unknowns or questions that need to be answered and resolved prior to final planning.
 - Issues can be either in Refinement phase (`workflow::planning breakdown` and `workflow::solution validation`) or Implementation phase (`workflow::scheduling` and `workflow::ready for development`).
 - Engineering Manager will update issue with the estimated group capacity for the Milestone
@@ -151,7 +151,7 @@ Our priorities should follow [overall guidance for Product](/handbook/product/pr
 
 - When an issue is introduced into a release after Kickoff, an equal amount of weight must be removed to account for the unplanned work.
 - Development should not begin on an issue before it's been estimated and given a weight.
-- By the 15th, engineering merge requests should be merged. In other words, we assume code merged after the 15th will not be in the release. That allows time for the release to be finalized, and any associated [Release Posts](https://about.gitlab.com/handbook/marketing/blog/release-posts/) to be merged by the 17th. (This is an [experiment starting with 13.11](https://gitlab.com/gitlab-org/manage/general-discussion/-/issues/17330).)
+- By the 15th, engineering merge requests should be merged. In other words, we assume code merged after the 15th will not be in the release. That allows time for the release to be finalized, and any associated [Release Posts](/handbook/marketing/blog/release-posts/) to be merged by the 17th. (This is an [experiment starting with 13.11](https://gitlab.com/gitlab-org/manage/general-discussion/-/issues/17330).)
 
 ### Development Flow
 
@@ -292,7 +292,7 @@ The verification process is also about sharing knowledge of development between 
 - Issues in the ~workflow:verification state are assigned randomly by the triage bot based on the verification policy to an applicable team engineer. This engineer should then verify the issue. In addition to following the verification steps provided, the verifying engineer is encouraged to do exploratory testing by using the feature in a way that doesn't follow the happy path.
 - Once the issue has been verified in production, the verifying engineer will close the issue and unassign themselves. The issue will automatically get the `~workflow::complete` label added.
 
-In cases where verification in staging or production is unfeasible, the [staging-ref environment](https://about.gitlab.com/handbook/engineering/infrastructure/environments/staging-ref/) may be used. For complex setups, the DRI for the MR should work with a domain expert to ensure verification steps are clear and correct.
+In cases where verification in staging or production is unfeasible, the [staging-ref environment](/handbook/engineering/infrastructure/environments/staging-ref/) may be used. For complex setups, the DRI for the MR should work with a domain expert to ensure verification steps are clear and correct.
 
 In some cases it may be appropriate for the MR author to to verify the change themselves, for example feature flag rollout or monitoring a background migration. In these cases, the author should add the `verified-by-author` label to the issue to prevent the triage bot from assigning another team member, and the author should add a comment in the issue explaining why they are verifying the issue themselves.
 
@@ -302,15 +302,15 @@ __Verifier: the engineer verifying the issue on .com/production (not the MR auth
 
 1. Verifier: documents findings by commenting on the verification thread on the issue.
 1. Verifier: opens new issues ~"type::bug"  or ~"type::feature" based on fiindings.
-   1. Verifier: sets the severity and/or priority based on [priority](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#priority)/[severity](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity-slos) triage process and the issue type (~"type::bug"  or ~"type::feature").
+   1. Verifier: sets the severity and/or priority based on [priority](/handbook/engineering/quality/issue-triage/#priority)/[severity](/handbook/engineering/quality/issue-triage/#severity-slos) triage process and the issue type (~"type::bug"  or ~"type::feature").
    1. ~"severity::1" / ~"severity::2" to be pulled directly into the milestone with comment added to ping(`@`) the engineering manager.
 1. Verifier: assigns the MR author to newly opened issues.
 1. Verifier: closes the issue and unassigns themself. The issue will automatically get the `~workflow::complete` label added.
 
 #### Demos
-During the `workflow::verification` process, we determine whether the Issue requires a demo. If unsure, work with PM to determine if a demo is required. Demos are great for showcasing progress and help users quickly understand how to use a features and its benefits. Our process for this is similar to [Single Engineer Groups Demo](https://about.gitlab.com/handbook/engineering/demos/#single-engineer-groups-demo):
+During the `workflow::verification` process, we determine whether the Issue requires a demo. If unsure, work with PM to determine if a demo is required. Demos are great for showcasing progress and help users quickly understand how to use a features and its benefits. Our process for this is similar to [Single Engineer Groups Demo](/handbook/engineering/demos/#single-engineer-groups-demo):
 
-- Record a video on your computer or via Zoom livestream of the working software. You can also use [loom](https://about.gitlab.com/handbook/tools-and-tips/other-apps/#loom) for recording demos.
+- Record a video on your computer or via Zoom livestream of the working software. You can also use [loom](/handbook/tools-and-tips/other-apps/#loom) for recording demos.
 - Upload to the [GitLab Unfiltered Channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) and add to the [Compliance Group - Product Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KqWds1BN41IJxLd1AvpZxGu)
 - Post the YouTube link to the appropriate Slack channel and in the Issue
 
@@ -318,7 +318,7 @@ During the `workflow::verification` process, we determine whether the Issue requ
 
 For issues which need to be announced in more detail, a release post can be automatically created using the issue.
 When working on an issue, either in planning, or during design and development, you can use the
-[release post item generator](https://about.gitlab.com/handbook/marketing/blog/release-posts/#release-post-item-generator)
+[release post item generator](/handbook/marketing/blog/release-posts/#release-post-item-generator)
 to have the release post created and notify all the relevant people.
 
 If you do not want an issue to have a release post, make sure that the issue does not have a
@@ -340,6 +340,11 @@ Agenda documents and recordings can be placed in the [shared Google drive](https
 Meetings that are not 1:1s or covering confidential topics should be added to the Govern Shared calendar.
 
 All meetings should have an agenda prepared at least 12 hours in advance. If this is not the case, you are not obligated to attend the meeting. Consider meetings canceled if they do not have an agenda by the start time of the meeting.
+
+
+## Planning for PTO
+
+We follow the [Govern stage PTO process](/handbook/engineering/sec/govern/#pto) and [GitLab team members Guide to Time Off](/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off).
 
 ## Group Shared Calendar
 

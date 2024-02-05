@@ -139,7 +139,7 @@ The Remote Development team has decided to use an alternate process for the foll
 
 1. Remote Development is a large, greenfield category, with many engineering, infrastructure, and technical concerns and unknowns which will continue to evolve and change as the category matures.
 1. The Remote Development category is also currently receiving much attention as part of of GitLab's competitive strategy, and thus has greater internal and external expectations for accurate estimates of feature delivery and timelines.
-1. In order to meet this need for more accurate and realistic planning and delivery estimates, the Remote Development category team has decided to modify parts of the [Plan](https://about.gitlab.com/handbook/product-development-flow/#build-phase-1-plan) and [Build & Test](https://about.gitlab.com/handbook/product-development-flow/#build-phase-2-develop--test) phases of the GitLab Product Development Flow to a more lightweight velocity-based estimation and planning process inspired by the widely-used and popular [XP](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658) and [Scrum](https://www.scrum.org/resources/blog/agile-metrics-velocity) methodologies. The goal is to provide accurate delivery estimates based on ["Yesterday's Weather"](https://gitlab.com/gitlab-com/www-gitlab-com/uploads/283f165896e2851bdc324f790d9c90e4/Screen_Shot_2023-03-27_at_6.16.51_PM.png) historical velocity analysis.
+1. In order to meet this need for more accurate and realistic planning and delivery estimates, the Remote Development category team has decided to modify parts of the [Plan](/handbook/product-development-flow/#build-phase-1-plan) and [Build & Test](/handbook/product-development-flow/#build-phase-2-develop--test) phases of the GitLab Product Development Flow to a more lightweight velocity-based estimation and planning process inspired by the widely-used and popular [XP](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658) and [Scrum](https://www.scrum.org/resources/blog/agile-metrics-velocity) methodologies. The goal is to provide accurate delivery estimates based on ["Yesterday's Weather"](https://gitlab.com/gitlab-com/www-gitlab-com/uploads/283f165896e2851bdc324f790d9c90e4/Screen_Shot_2023-03-27_at_6.16.51_PM.png) historical velocity analysis.
 1. To better support the use of these methodologies,the Remote Development team has committed to dogfooding the [Iterations feature](https://docs.gitlab.com/ee/user/group/iterations/index.html), and following the [documented process for running agile iterations](https://docs.gitlab.com/ee/tutorials/agile_sprint.html) where possible.
 1. However, due to existing limitations of the Iterations and Boards features in fully supporting these methodologies, we will also experiment with new and alternate tools and processes, with the goal of informing and potentially contributing back to improve GitLab's support for them. More details will be shared as this effort evolves.
 
@@ -149,8 +149,8 @@ See the sections below for details on each category's specific planning processe
 
 ## 🤖 Web IDE Planning Process
 
-The Web IDE still usees the default milestone planning process which is loosely based in the [Plan](https://about.gitlab.com/handbook/product-development-flow/#build-phase-1-plan) and
-[Develop & Test](https://about.gitlab.com/handbook/product-development-flow/#build-phase-2-develop--test) phases
+The Web IDE still usees the default milestone planning process which is loosely based in the [Plan](/handbook/product-development-flow/#build-phase-1-plan) and
+[Develop & Test](/handbook/product-development-flow/#build-phase-2-develop--test) phases
 of the product development workflow. We recommend reading these references for a better understanding of this workflow.
 
 These categories have prioritized boards that are populated during
@@ -196,12 +196,12 @@ classDef issueCreateLabel fill:#6aa84f,color:#fff;
 
 ### Remote Development Planning Process Overview
 
-For the reasons [described above](#-category-specific-planning-processes), the Remote Development category team has decided to modify parts of the [Plan](https://about.gitlab.com/handbook/product-development-flow/#build-phase-1-plan) and [Build & Test](https://about.gitlab.com/handbook/product-development-flow/#build-phase-2-develop--test) phases of the GitLab Product Development Flow to a more lightweight velocity-based estimation and planning process inspired by the widely-used and popular [XP](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658) and [Scrum](https://www.scrum.org/resources/blog/agile-metrics-velocity) methodologies.
+For the reasons [described above](#-category-specific-planning-processes), the Remote Development category team has decided to modify parts of the [Plan](/handbook/product-development-flow/#build-phase-1-plan) and [Build & Test](/handbook/product-development-flow/#build-phase-2-develop--test) phases of the GitLab Product Development Flow to a more lightweight velocity-based estimation and planning process inspired by the widely-used and popular [XP](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658) and [Scrum](https://www.scrum.org/resources/blog/agile-metrics-velocity) methodologies.
 
 The crux of these changes is focused around the following process phases:
 
-1. "High Level Validation and Planning". This is analogous to the [Validation Track in the GitLab Product Flow](https://about.gitlab.com/handbook/product-development-flow/#validation-track), because it needs to achieve the same [Validation Goals & Outcomes](https://about.gitlab.com/handbook/product-development-flow/#validation-goals--outcomes) before we can start refining and prioritizing issues.
-1. The "Pre-Iteration Planning Meeting", or "Pre-IPM". This is analogous to ["backlog refinement"](https://about.gitlab.com/handbook/product-development-flow/#outcomes-and-activities-4) in the standard GitLab product development flow. The goal of the Pre-IPM is to ensure that all issues which are to be prioritized in the upcoming iteration(s) are ready for the wider team to briefly discuss and estimate in the next IPM. See more details in the [Pre-Iteration Planning Meeting](#-pre-iteration-planning-meeting) section.
+1. "High Level Validation and Planning". This is analogous to the [Validation Track in the GitLab Product Flow](/handbook/product-development-flow/#validation-track), because it needs to achieve the same [Validation Goals & Outcomes](/handbook/product-development-flow/#validation-goals--outcomes) before we can start refining and prioritizing issues.
+1. The "Pre-Iteration Planning Meeting", or "Pre-IPM". This is analogous to ["backlog refinement"](/handbook/product-development-flow/#outcomes-and-activities-4) in the standard GitLab product development flow. The goal of the Pre-IPM is to ensure that all issues which are to be prioritized in the upcoming iteration(s) are ready for the wider team to briefly discuss and estimate in the next IPM. See more details in the [Pre-Iteration Planning Meeting](#-pre-iteration-planning-meeting) section.
 1. The "Iteration Planning Meeting", or "IPM". This is analogous to the ["Weekly Cycle" in XP](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658) or ["Sprint Planning" in Scrum](https://www.scrum.org/resources/what-is-sprint-planning). See more details in the [Iteration Planning Meeting](#-iteration-planning-meeting) section.
 
 These components allow us to provide realistic velocity-based estimates based on ["Yesterday's Weather"](https://gitlab.com/gitlab-com/www-gitlab-com/uploads/283f165896e2851bdc324f790d9c90e4/Screen_Shot_2023-03-27_at_6.16.51_PM.png) historical velocity analysis.
@@ -218,6 +218,14 @@ this general process, and why we need to use an extension to support it rather t
 
 This extension is in support of a [GitLab OKR](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/2085) for Create.
 We plan to continue iterating in this area, with the goal of eventually having GitLab directly support this workflow.
+
+### Remote Development Iteration Planning Report
+
+In addition to the Velocity Board chrome extension, there is a [Remote Development Iteration Planning Report](https://gitlab-org.gitlab.io/remote-development/remote-development-team-automation/remote-development-iteration-planning-report-latest.html) which is automatically published every 6 hours.
+
+This report shows the same auto-calculated iteration/velocity data, and uses the same logic as the Velocity Board Chrome Extension, but you don’t have to install the extension to see it.
+
+The pipeline to generate it can also be run [directly from CI](https://gitlab.com/gitlab-org/remote-development/remote-development-team-automation/-/pipelines).
 
 ### Process Phases
 
@@ -245,7 +253,7 @@ graph TD;
 
 **Explanation:**
 
-This process identifies and validates higher-priority issues to be worked on in the upcoming releases. It is analogous to the [Validation Track in the GitLab Product Flow](https://about.gitlab.com/handbook/product-development-flow/#validation-track), and should consist of many of the same steps and processes.
+This process identifies and validates higher-priority issues to be worked on in the upcoming releases. It is analogous to the [Validation Track in the GitLab Product Flow](/handbook/product-development-flow/#validation-track), and should consist of many of the same steps and processes.
 
 In addition to validating features, this process can also result in Engineering identifying high-priority issue which are necessary to [address Technical Debt or "Friction"](https://www.mechanical-orchard.com/post/friction-over-debt?utm_campaign=Boost_friction_debt).
 
@@ -261,7 +269,9 @@ See the [following discussion thread](https://gitlab.com/gitlab-org/create-stage
 
 **TL;DR:**
 
-- **Async phase - Refinement: Divide up the work to refine each `rd-workflow::unprioritized` issue which has the `%"Next 1-3 releases"` milestone using the [Remote Development issue template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Remote%20Development%20Group%20-%20issue.md), then apply the `refined` label.**
+- **Async phase - Refinement:**
+  - **Engineering Manager: Assign someone to refine each unrefined `rd-workflow::unprioritized` issue which has the `%"Next 1-3 releases"` milestone using the [Remote Development issue template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Remote%20Development%20Group%20-%20issue.md)**
+  - **Refinement Assignees: Adequately refine the issue using the [Remote Development issue template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Remote%20Development%20Group%20-%20issue.md), then apply the `refined` label**
 - **Sync phase - Prioritization: Product and Engineering leaders meet to appropriately prioritize each `refined` issue into the `rd-workflow::prioritized` lane on the Iteration Planning board.**
 
 ##### Async Phase of Pre-IPM Process - Refinement
@@ -298,7 +308,7 @@ See the [following discussion thread](https://gitlab.com/gitlab-org/create-stage
 
 **Explanation:**
 
-The "Pre-Iteration Planning" (Pre-IPM) meeting prepares for the Iteration Planning Meeting. It is analogous to ["backlog refinement"](https://about.gitlab.com/handbook/product-development-flow/#outcomes-and-activities-4) in the standard GitLab product development flow.
+The "Pre-Iteration Planning" (Pre-IPM) meeting prepares for the Iteration Planning Meeting. It is analogous to ["backlog refinement"](/handbook/product-development-flow/#outcomes-and-activities-4) in the standard GitLab product development flow.
 
 During the Pre-IPM, the team will collaborate on creating/refining, organizing, and clarifying all issues which are to be prioritized for the upcoming iteration(s). This will normally involve Product and Engineering leaders on the team, but may also involve Design or other team members depending on the nature of the issues involved. The goal is to ensure that all issues which have been identified as a priority for the upcoming releases are properly refined, curated, prioritized, and ready for the wider team to briefly discuss and estimate in the next IPM.
 
@@ -321,7 +331,7 @@ For a few reasons:
 
 **Process:**
 
-**TL;DR: Discuss and estimate each prioritized issue.**
+**TL;DR: _As a team_, briefly discuss then estimate each prioritized issue.**
 
 1. In each the IPM meeting, all newly prioritized issues in the `~"rd-workflow::prioritized"` lane of the [Iteration Planning](https://gitlab.com/groups/gitlab-org/-/boards/5283620?label_name[]=Category%3ARemote%20Development) board are reviewed by the team. The board should be unfiltered other than the standard `~"Category:Remote Development"` label.
 1. For each newly-prioritized issue, the facilitator reads the description, and the team **_briefly_** discusses the issue. If there are no blocking concerns/risks raised, the team collectively estimates the issue with rock-paper-scissors fibonacci scale, and the collectively agreed weight is assigned.
@@ -482,114 +492,32 @@ The IDE Group collates all video recordings related to the group and its team me
 
 ## Automations
 
-Automations should be set up via [triage-ops](https://gitlab.com/gitlab-org/quality/triage-ops/) if possible
-.
-### Automations for Remote Development Workflow
+Automations should be set up via [triage-ops](https://gitlab.com/gitlab-org/quality/triage-ops/) if possible.
 
-**NOTE: Some of the following automations related to iterations are currently blocked by https://gitlab.com/gitlab-org/gitlab/-/issues/384885.**
+Other more complex automations may be set up in the
+[Remote Development Team Automation project](https://gitlab.com/gitlab-org/remote-development/remote-development-team-automation).
+
+### Automations for Remote Development Workflow
 
 Ideally we should automate as much of the [Remote Development Planning Process](#-remote-development-planning-process) workflow as possible.
 
-We have the following automation goals for the Remote Development Workflow. Unless otherwise noted, these rules are all defined in the  [triage-ops `policies/groups/gitlab-org/ide/remote-development-workflow.yml` config file](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/groups/gitlab-org/ide/remote-development-workflow.yml))
+We have the following automation goals for the Remote Development Workflow. Unless otherwise noted, these rules are all defined in the  [triage-ops `policies/groups/gitlab-org/ide/remote-development-workflow.yml` config files](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/groups/gitlab-org/ide/remote-development))
 
----
-
-**Goal:** To ensure every issue in the category is assigned to an epic
-
-**Automation:**
-- Issues in ~"Category:Remote Development" but no epic assigned should get a warning comment (TODO: implement)
-
----
-
-**Goal:** To ensure category issues show up on the Iteration Planning board
-
-**Automation:**
-- [Issues in `~"Category:Remote Development"` but no `~rd-workflow` label should be added to `~rd-workflow::unprioritized`.](https://gitlab.com/gitlab-org/quality/triage-ops/-/blame/master/policies/groups/gitlab-org/ide/remote-development-workflow.yml#L4)
-
----
-
-**Goal:** To avoid premature assignment of specific milestones before an issue has gone through IPM, to avoid getting this warning: https://gitlab.com/gitlab-org/gitlab/-/issues/411933#note_1419147845
-
-**Automation:**
-- [Issues with a specific milestone but not in ~rd-workflow::prioritized should have the milestone automatically set back to `%"Next 1-3 releases"`.](https://gitlab.com/gitlab-org/quality/triage-ops/-/blame/master/policies/groups/gitlab-org/ide/remote-development-workflow.yml#L16)
-- [Issues with a specific milestone but no weight should have the milestone automatically set back to `%"Next 1-3 releases"`.](https://gitlab.com/gitlab-org/quality/triage-ops/-/blame/master/policies/groups/gitlab-org/ide/remote-development-workflow.yml#L29)
-- [Issues with a specific milestone but no iteration should have the milestone automatically set back to `%"Next 1-3 releases"`.](https://gitlab.com/gitlab-org/quality/triage-ops/-/blame/master/policies/groups/gitlab-org/ide/remote-development-workflow.yml#L41)
-
----
-
-**Goal:** To ensure prioritized issues are in the correct state
-
-**Automation:**
-- Issues in ~rd-workflow::prioritized but not assigned to the current Iteration of the Iteration Cadence should automatically get assigned to the Current Iteration (TODO: implement)
-
----
-
-**Goal:** To ensure closed issues are in the correct state
-
-**Automation:**
-- [Every Issue in `~"Category:Remote Development"` which is closed must have the `~rd-workflow::done` label applied.](https://gitlab.com/gitlab-org/quality/triage-ops/-/blame/master/policies/groups/gitlab-org/ide/remote-development-workflow.yml#L65)
-
----
-
-**Goal:** Syncing Remote Development workflow and GitLab workflow labels
-
-**Automation:**
-- [Issues in ~rd-workflow::unprioritized but with no GitLab workflow label should have ~"refined" assigned.](https://gitlab.com/gitlab-org/quality/triage-ops/-/blame/master/policies/groups/gitlab-org/ide/remote-development-workflow.yml#L77)
-- [Unstarted issues in ~rd-workflow::prioritized but with ~"refined" assigned should get ~"workflow::ready for development" assigned.](https://gitlab.com/gitlab-org/quality/triage-ops/-/blame/master/policies/groups/gitlab-org/ide/remote-development-workflow.yml#L53)
-- Can we assume that other subsequent workflow states are already handled by standard triage rules? If so, confirm and list/link them (TODO: implement)
-
----
-
-**Goal:** Ensure all prioritized issues have a milestone assigned
-
-**Automation:**
-- All issues with `~rd-workflow::prioritized` but no milestone should have `%"Next 1-3 releases"` milestone assigned. (TODO: implement)
-
----
-
-**Goal:** Ensure all issues with `~rd-workflow-unprioritized` have a milestone assigned
-
-**Automation:**
-- All issues with `~rd-workflow::unprioritized` but no milestone should have: (TODO: implement)
-  - `~needs-milestone` label applied
-  - along with a comment with a link to the [1. High level validation and planning section][#1-high-level-validation-and-planning], and instructions that
-    one of the following milestones must be assigned to all issues in `~rd-workflow::unprioritized`:
-   - `%"Next 1-3 releases"`
-   - `%"Next 4-6 releases"`
-   - `%"Next 7-12 releases"`
-   - `%Backlog`
-   - `%Awaiting further demand`
-
----
-
-**Goal:** Apply correct ~rd-workflow label to reopened issues
-
-**Automation:**
-- Re-opened issues which are open but in ~rd-workflow::done should have ~"rd-workflow::prioritized" assigned. (TODO: implement)
-- Example: https://gitlab.com/gitlab-org/gitlab/-/issues/390597#note_1
-
----
-
-**Goal:** To ensure issues and MRs are 1-1
-
-**Automation:**
-- Every MR in `~"Category:Remote Development"` must have the first line of the description matching: `Issue: <issue link>\n\n`. See https://docs.gitlab.com/ee/topics/gitlab_flow.html#linking-and-closing-issues-from-merge-requests  (TODO: implement)
-- Every Issue in ~"Category:Remote Development" must have the first line of the description matching: "MR: <MR link>\n\n" or "MR: No associated MR\n\n". See https://docs.gitlab.com/ee/topics/gitlab_flow.html#linking-and-closing-issues-from-merge-requests (TODO: implement)
-
----
-
-**Goal:** Automate Label Assignment for Ignored Issues
-
-**Automation:**
-- Issues with the `type::ignore` label should have the `rd-workflow::ignored` label assigned. (TODO: implement)
-- NOTE: We do not automatically ignore QA issues, in order to accommodate self-owned QA issues that should follow the standard process.
-
----
-
-**Goal:** Ensure all prioritized issues with an assignee have a weight assigned
-
-**Automation:**
-- All issues with `~rd-workflow::prioritized` and an assignee but no weight should get a reminder note to either add a weight estimate or remove the assignee. (TODO: implement)
+| ID | Goal | Automation | Link(s) to implementation |
+| --- | --- | --- | --- |
+| <a id="automation-01">01</a> | Ensure every issue in the category is assigned to an epic | Issues in `~"Category:Remote Development"` but no epic assigned should get a warning comment | TODO: implement |
+| <a id="automation-02">02</a> | Ensure category issues show up on the Iteration Planning board | Issues in `~"Category:Remote Development"` but no `~rd-workflow` label should be added to `~rd-workflow::unprioritized`. | [triage-ops link](https://gitlab.com/gitlab-org/quality/triage-ops/-/blame/master/policies/groups/gitlab-org/ide/remote_development/workflow-02.yml) |
+| <a id="automation-03">03</a> | Avoid premature assignment of specific milestones before an issue has gone through IPM, to avoid getting this warning: https://gitlab.com/gitlab-org/gitlab/-/issues/411933#note_1419147845 | 1. Issues with a specific milestone but not in `~rd-workflow::prioritized` should have the milestone automatically set back to `%"Next 1-3 releases"`. <br> 2. Issues with a specific milestone but no weight should have the milestone automatically set back to `%"Next 1-3 releases"`. <br> 3. Issues with a specific milestone but no iteration should have the milestone automatically set back to `%"Next 1-3 releases"`. | [triage-ops link](https://gitlab.com/gitlab-org/quality/triage-ops/-/blame/master/policies/groups/gitlab-org/ide/remote_development/workflow-03.yml) |
+| <a id="automation-04">04</a> | Ensure prioritized issues are in the correct state | Issues in `~rd-workflow::prioritized` but not assigned to the current Iteration of the Iteration Cadence should automatically get assigned to the Current Iteration | TODO: implement |
+| <a id="automation-05">05</a> | Ensure closed issues are in the correct state | Every Issue in `~"Category:Remote Development"` which is closed must have the `~rd-workflow::done` label applied. | [triage-ops link](https://gitlab.com/gitlab-org/quality/triage-ops/-/blame/master/policies/groups/gitlab-org/ide/remote_development/workflow-05.yml) |
+| <a id="automation-06">06</a> | Sync Remote Development workflow and GitLab workflow labels | 1. Issues in `~rd-workflow::unprioritized` but with no GitLab workflow label should have `~"refined"` assigned. <br> 2. Unstarted issues in `~rd-workflow::prioritized` but with `~"refined"` assigned should get `~"workflow::ready` for development" assigned. | [triage-ops link](https://gitlab.com/gitlab-org/quality/triage-ops/-/blame/master/policies/groups/gitlab-org/ide/remote_development/workflow-06.yml) |
+| <a id="automation-07">07</a> | Ensure all prioritized issues have a milestone assigned | All issues with `~rd-workflow::prioritized` but no milestone should have `%"Next 1-3 releases"` milestone assigned. | TODO: implement |
+| <a id="automation-08">08</a> | Ensure all issues with `~rd-workflow-unprioritized` have a milestone assigned | All issues with `~rd-workflow::unprioritized`, but no milestone, should have: <br> - `~needs-milestone` label applied <br> - along with a comment with a link to the [1. High level validation and planning section][#1-high-level-validation-and-planning], and instructions that one of the following milestones must be assigned to all issues in `~rd-workflow::unprioritized`: <br> - `%"Next 1-3 releases"` <br> - `%"Next 4-6 releases"` <br> - `%"Next 7-12 releases"` <br> - `%Backlog` <br> - `%Awaiting further demand` | TODO: implement |
+| <a id="automation-09">09</a> | Apply correct ~rd-workflow label to reopened issues | Re-opened issues which are open but in `~rd-workflow::done` should have `~"rd-workflow::prioritized"` assigned. | TODO: implement |
+| <a id="automation-10">10</a> | Ensure issues and MRs are 1-1 | - Every MR in `~"Category:Remote Development"` must have the first line of the description matching: `Issue: <issue link>\n\n`. See https://docs.gitlab.com/ee/topics/gitlab_flow.html#linking-and-closing-issues-from-merge-requests  <br> - Every Issue in `~"Category:Remote Development"` must have the first line of the description matching: `"MR: <MR link>"` or `"MR: Pending"`. See https://docs.gitlab.com/ee/topics/gitlab_flow.html#linking-and-closing-issues-from-merge-requests | TODO: implement |
+| <a id="automation-11">11</a> | Automate Label Assignment for Ignored Issues | Issues with the `type::ignore` label should have the `rd-workflow::ignored` label assigned. | TODO: implement |
+| <a id="automation-12">12</a> | Ensure all prioritized issues with an assignee have a weight assigned | All issues with `~rd-workflow::prioritized` and an assignee but no weight should get a reminder note to either add a weight estimate or remove the assignee. | TODO: implement |
+| <a id="automation-13">13</a> | Assign a `rd-maturity::*` label of `viable`, `complete`, etc based on epic hierarchy | All issues should have appropriate labels added/removed based on epic hierarchy | TODO: implement |
 
 
 <!-- LINKS START -->

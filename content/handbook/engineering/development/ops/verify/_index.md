@@ -5,21 +5,34 @@ description: "The verify development group handbook page."
 
 ## Vision
 
-We enable global software organizations and teams to make great decisions with [smart feedback loops](/direction/ops/#smart-feedback-loop) by delivering [speedy, reliable pipelines](/direction/ops/#speedy-reliable-pipelines) in a [comprehensive CI platform](/direction/ops/#verify) that embodies [Operations for All](/direction/ops/#operations-for-all).
+We enable global software organizations and teams to make great decisions with [smart feedback loops](https://about.gitlab.com/direction/ops/#smart-feedback-loop) by delivering [speedy, reliable pipelines](https://about.gitlab.com/direction/ops/#speedy-reliable-pipelines) in a [comprehensive CI platform](https://about.gitlab.com/direction/ops/#verify) that embodies [Operations for All](https://about.gitlab.com/direction/ops/#operations-for-all).
 
-### Technical Roadmap
+## Technical Roadmap for the Pipeline teams
 
-In 2022, the Verify stage focused on reliability and scalability of GitLab CI, which was critical for the availability of gitlab.com.  This included addressing database performance, security vulnerabilities, performance improvements and relevant technical debt.
-This ensured GitLab remained secure, compliant and performant, with our SaaS offering that was able to maintain [SLAs of gitlab.com](https://about.gitlab.com/handbook/engineering/monitoring/#gitlabcom-service-level-availability).
+### FY25
 
-In 2023, the Verify Pipeline teams will be focused on the following Engineering-led initiatives, in addition to our deliverables for the [FY24 Yearlies](https://about.gitlab.com/company/yearlies/#fy24-yearlies):
+For this year's [technical roadmap](https://gitlab.com/gitlab-org/verify-stage/-/issues/515), we continue to focus on keeping GitLab CI reliable and performant. We're also looking at developing scalable solutions that would benefit both our .com and self-managed customers alike. The [product roadmap](https://gitlab.com/gitlab-com/Product/-/issues/12911) is also being planned by our Product Managers, with expected deliverables for this upcoming year.
+
+1. [Accelerating efforts](https://gitlab.com/gitlab-org/verify-stage/-/issues/508) to complete [CI Data Partitioning](https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/architecture/blueprints/ci_data_decay/pipeline_partitioning.md) - this does not only impacts CI, but addresses a critical availability need impacting all of gitlab.com.  This is a cross-stage effort with backend engineers across the pipeline teams who are able to parallelize the ongoing effort.
+1. Continued review of our [CI Data Retention policies](https://gitlab.com/gitlab-org/verify-stage/-/issues/440) - with the growth we are seeing with our CI database tables, we will be working with the Infrastructure teams to advise on managing CI data once partitioned. Upon further analysis and review, we will also be collaborating with Product to implement features that allows our self-managed users to configure CI data retention policies.
+1. [Pipeline speed improvements](https://gitlab.com/groups/gitlab-org/-/epics/7290) - benchmarking and instrumentation will be our focus as we investigate ways to [implement distributed tracing on our CI workers](https://gitlab.com/groups/gitlab-org/-/epics/11040#note_1568112854) or add more observability to better understand why pipeline creation/processing is slow, prior to determining the work involved to drive improvements. There is also a newly established [working group for CI/CD Build Speed](https://handbook.gitlab.com/handbook/company/working-groups/ci-build-speed/) to support this initiative. 
+1. [CI Events](https://docs.gitlab.com/ee/architecture/blueprints/gitlab_ci_events/) - while listed on the Product roadmap, we'll continue to iterate on the blueprint within Engineering to better understand the scope and requirements of this initiative. 
+
+### FY24
+
+The Verify Pipeline teams focused on the following Engineering-led initiatives, in addition to our deliverables for the [FY24 Yearlies](/handbook/company/yearlies/#fy24-yearlies):
 1. [CI Data Partitioning](https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/architecture/blueprints/ci_data_decay/pipeline_partitioning.md)
 1. Pipeline speed improvements - including analysis of pipeline performance
-1. Review the [data retention strategy of CI data on gitlab.com](https://gitlab.com/gitlab-org/verify-stage/-/issues/440)
+1. Review of the [data retention strategy of CI data on gitlab.com](https://gitlab.com/gitlab-org/verify-stage/-/issues/440)
 1. Security vulnerabilities and infradev issues related to SaaS availablity
 1. S1/S2 bug burndown of Categories that do not have planned feature development for FY24.
-    1. Note that this also includes the `Continuous Integration` category, which has the biggest backlog of bugs in Verify.  While it may be considered "Maintenance" (no new feature development planned), this work remains critical in ensuring we keep GitLab CI performant and reliable.
+    1. Note that this also includes the `Continuous Integration` category, which has the biggest backlog of bugs in Verify.  While it may be considered to be "Maintenance" (no new feature development planned), this work remains critical in ensuring we keep GitLab CI performant and reliable.
     1. [Pipeline Execution](/handbook/engineering/development/ops/verify/pipeline-execution/) owns the `Continuous Integration` category. The team is also the DRI for CI Data Partitioning and Pipeline speed improvement efforts.
+
+### FY23
+
+The Verify stage focused on reliability and scalability of GitLab CI, which was critical for the availability of gitlab.com.  This included addressing database performance, security vulnerabilities, performance improvements and relevant technical debt.
+This ensured GitLab remained secure, compliant and performant, with our SaaS offering that was able to maintain [SLAs of gitlab.com](/handbook/engineering/monitoring/#gitlabcom-service-level-availability).
 
 ## Mission
 
@@ -82,7 +95,7 @@ Each group in Verify is encouraged to define their own process based on what wor
 
 ### Developer Onboarding in Verify
 
-Welcome to the team! Whether you're joining GitLab as a new hire, transferring internally, or ramping up on the CI domain knowledge to tackle issues in our area, you'll be assigned an [onboarding/shadowing buddy](/company/culture/all-remote/onboarding/#how-to-onboard-new-hires-remotely) so you can have someone to work with as you're getting familiarized with our codebase, our tech stack and general development processes on your Verify team.
+Welcome to the team! Whether you're joining GitLab as a new hire, transferring internally, or ramping up on the CI domain knowledge to tackle issues in our area, you'll be assigned an [onboarding/shadowing buddy](/handbook/company/culture/all-remote/onboarding/#how-to-onboard-new-hires-remotely) so you can have someone to work with as you're getting familiarized with our codebase, our tech stack and general development processes on your Verify team.
 
 Read over this page as a starting point and feel free to set up regular sync or async conversations with your buddy. We recommend setting up weekly touch points, at a minimum, and joining our regular team syncs to learn more about how we work. (Reach out to our Engineering Managers for an invite to those recurring meetings). Please also schedule a few coffee chats to meet some members of our team. You will be assigned a team specific developer onboarding issue (For example, [Pipeline Execution Developer onboarding checklist](https://gitlab.com/gitlab-org/ci-cd/onboarding/-/blob/master/.gitlab/issue_templates/verify-pipeline-execution_developer-onboarding.md)) for you to go through. It contains admin tasks to complete (as a new team member, if relevant), and also links to technical documentation, meeting agendas, and recordings.
 
@@ -98,7 +111,7 @@ Onboarding buddies are assigned to new hires to ensure their first few months of
 
 In addition to helping those _new hire/transfer_ through any issues with their set up or assigned tasks, it's recommended that their onboarding buddies add the _new hire/transfer_ as an additional reviewer on any MRs the onboarding buddy has been requested to review. Ideally this takes place after they've been working in Verify for at least 3 months, and as mutually agreed upon between both parties. This step further builds the _new hire/transfer's_ CI knowledge and allows for CI domain expertise to be shared amongst all engineers in Verify.
 
-Similar to our [reviewer mentorship programs](https://about.gitlab.com/handbook/engineering/workflow/code-review/#reviewer-mentorship-program), the _new hire/transfer_ will review the merge request as if they're being asked to perform the code review. Once complete, they'll assign the MR back to their onboarding buddy.  It is expected that the onboarding buddy will also complete the code review, then provide the _new hire/transfer_ feedback about their code review. Ideally this takes place at their next check-in, where notes are captured in a shared Google Doc or a GitLab issue for ease-of-collaboration.
+Similar to our [reviewer mentorship programs](/handbook/engineering/workflow/code-review/#reviewer-mentorship-program), the _new hire/transfer_ will review the merge request as if they're being asked to perform the code review. Once complete, they'll assign the MR back to their onboarding buddy.  It is expected that the onboarding buddy will also complete the code review, then provide the _new hire/transfer_ feedback about their code review. Ideally this takes place at their next check-in, where notes are captured in a shared Google Doc or a GitLab issue for ease-of-collaboration.
 
 ### API development
 
@@ -111,7 +124,7 @@ We allow each team to decide when they think they should go with `REST`, but eve
 
 ### Shared issues
 
-In the Verify team we lean in to the GitLab mission, "[everyone can contribute](/company/mission/#mission)"!
+In the Verify team we lean in to the GitLab mission, "[everyone can contribute](/handbook/company/mission/#mission)"!
 To help balance this workload out across the groups, we use the [`Verify candidate`](https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=Verify+candidate) label.
 Every issue with this label is a good candidate to be worked on by any group in the Verify stage.
 This applies to both frontend and backend issues.
@@ -151,17 +164,9 @@ The following members of other functional teams are our stable counterparts:
 
 ### Async Work Week
 
-In FY24, we are instituting [quarterly async work weeks](https://gitlab.com/gitlab-org/verify-stage/-/issues/412) in Verify that start on the first Monday of the month for the quarter.
-Some of the benefits include reducing time spent in sync meetings, allowing for more focus, which aligns with our async-first communication and our Diversity and Inclusion value to bias towards more async communication.
-However, this doesn't preclude us from having any meetings, and it's up to meeting facilitators to decide accordingly. Exceptions might include: high priority issues and initiatives, social calls, coffee catch-ups.
-This also does not mean that you should not default to async-first at other times. Having regularly scheduled async weeks ensures that our processes do not become depending on synchronous meetings.
+We have [quarterly async work weeks](https://gitlab.com/gitlab-org/verify-stage/-/issues/412) in Verify that start on the first Monday of the quarter.
 
-| Quarter | Async Week               |
-| ------- | ------------------------ |
-| FY24-Q1 | 2023-03-20 to 2022-03-24 |
-| FY24-Q2 | 2023-05-01 to 2023-05-05 |
-| FY24-Q3 | 2023-08-07 to 2023-08-11 |
-| FY24-Q4 | 2023-11-06 to 2023-11-10 |
+Some of the noted benefits include reduced time spent in sync meetings, allowing for more focus that aligns with our async-first communication and our Diversity and Inclusion value to bias towards more async communication. However, this doesn't preclude us from having any meetings; it's up to the respective meeting attendees to decide accordingly. Exceptions might include: high priority issues and initiatives, social calls, coffee catch-ups. This also does not mean that you should not default to async-first at other times. Having regularly scheduled async weeks ensures that our processes do not become dependent on synchronous meetings.
 
 ## Verify Engineering - Async Updates
 

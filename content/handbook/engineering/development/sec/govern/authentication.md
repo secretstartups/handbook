@@ -61,7 +61,7 @@ Application Security will be involved in our security issue workflow and should 
 We plan in monthly cycles in accordance with our [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline). Our typical planning cycle includes:
 
 - At the beginning of each month, Product should have created [a planning issue](https://gitlab.com/gitlab-org/govern/general-discussion/-/issues/?sort=created_date&state=opened&label_name%5B%5D=Planning%20Issue&label_name%5B%5D=group%3A%3Aauthentication&first_page_size=20) for the coming release.
-  - This issue should include the general themes of a release. It should also include placeholders for [the quad](https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/quad-planning/) to put their prioritized feature, bug, and maintenance lists.
+  - This issue should include the general themes of a release. It should also include placeholders for [the quad](/handbook/engineering/infrastructure/test-platform/quad-planning/) to put their prioritized feature, bug, and maintenance lists.
   - Issues without estimates should be investigated by engineering throughout the month so weighting does not need to happen at once. Once the prioritized feature list is determined for a milestone, engineering will put a weight on any issues on the list that do not have a weight.
 - Between the first 12 days the month we estimate the issues but also bring up any key issues we as a team believe need to be included in the upcoming milestone (bug/maintenance/features). Over time this allows us to build up a pool of issues for upcoming miletones we mutually agree are important.
 - By the 12th day, all planned issues proposed for the next release should be estimated by engineering and put into `workflow:ready for development`.
@@ -160,6 +160,20 @@ With the combination of our capacity planning (EM) and estimation (IC) processes
 We have [cross-functional prioritization](/handbook/product/product-processes/#cross-functional-prioritization) aligned with our prioritization framework. The engineering manager will prioritize `type::maintenance` issues, the product manager will prioritize `type::feature` issues, and the software engineer in test will prioritize `type::bug` issues. From there, we are able to select a ratio of the top issues to be planned for the release by using our [cross-functional issue board](https://gitlab.com/groups/gitlab-org/-/boards/4453752?label_name[]=group%3A%3Aauthentication). **Starting 16.5, our target ratio is to plan 60% features, 20% bugs, and 20% maintenance per release**. Security issues do not count towards these ratios, but instead take away from the total capacity. The data below helps us understand our overall cross-functional status.
 
 {{< cross-functional-dashboards filters="authentication" >}}
+
+### Roadmap planning and t-shirt sizing
+
+At the start of the fiscal year, product and engineering counterparts collaborate over areas we want to focus on. This allows us to prepare issues that will be added to priorities.yml ahead of each milestone, gauge whether we are overcommitting to the year, and transparently share what the delivery goals are for the upcoming year. As part of this exercise, engineering also performs a high level t-shirt sizing to assist with planning. It's important to highlight that the sizing is high level estimation, based on expected complexity and not the actual length of time taken to complete the work similar to how milestone estimation is done. An example of the scales used would be:
+
+Average story points completed per milestone: 48w. This includes bugs, features, maintenance, and any security vulnerability work.
+
+T-shirt sizing scale:
+- Small → < 5w
+- Medium → < 8w
+- Large → < 16 w
+- X-large → 32 w
+
+The roadmap items are then marked with the `Small`, `Medium` labels and a priority to ensure, higher priority work is scheduled and appropriately resourced.
 
 #### Monthly cross-functional dashboard review
 

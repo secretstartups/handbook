@@ -4,52 +4,48 @@ title: "Test Engineering team"
 description: "Test Engineering team in Test Platform sub-department"
 ---
 
-
-
-
-
-
-
 ## Common Links
 
+| **Category**            | **Handle** |
+|-------------------------|------------|
 | **GitLab Team Handle** | [`@gl-quality/tp-test-engineering`](https://gitlab.com/gl-quality/tp-test-engineering) |
 | **Slack Channel** | [#test-engineering-team](https://gitlab.slack.com/archives/C064M4S0FU5) |
 | **Team Boards** | [Team Board](https://gitlab.com/groups/gitlab-org/-/boards/1512645?label_name[]=Quality) |
 | **Issue Tracker** | [quality/team-tasks](https://gitlab.com/gitlab-org/quality/team-tasks/issues/) |
 
-Engineers in this team support the product sections supported by the [Core Development Department] and [Expansion Development Department].
+Engineers in this team support the product sections supported by the [Core Development] and [Expansion Development] Department.
 
 ## Team members
 
-Engineering Manager: Vincy Wilson
+Engineering Manager: Ksenia Kolpakova
 
-| S.No 	| Section     	          | Stage         | SET Counterpart    |
-|------	|-------------------------|---------------|--------------------|
-| 1    	| [Dev section]    	    	| [Create]      | Jay McCure         |
-| 2     | [Dev section]     	   	| [Plan]        | Désirée Chevalier  |
-| 3    	| [CI section]    	      | [Verify]      | Tiffany Rea        |
-| 4    	| [CI section]     	    	| [Package]     | Joining soon*      |
-| 5    	| [CD section]     	    	| [Deploy]      | -                  | 
-| 6     | [Sec section]    	      | [Secure]      | Will Meek          |
-| 7     | [Sec section]     	    | [Govern]      | Harsha Muralidhar  |
-| 8     | [Sec section]    	      | [Secure]      | Will Meek          |
-| 9    	| [Growth section]        | [Growth]      | -                  |
-| 10    | [Fulfillment section]   | [Fulfillment] | Valerie Burton     |
-| 11    | [Fulfillment section]   | [Fulfillment] | Richard Chong      |
-| 12    | [Data Science section]  | [ModelOps]    | -                  |
-| 13    | [Data Science section]  | [AI-powered]  | Ramya Authappan    |
-| 14    | [Core Platform section] | [Manage]      | Nivetha Prabakaran |
+| S.No 	| Department            | Section     	          | Stage         | SET Counterpart    |
+|-------|-----------------------|-------------------------|---------------|--------------------|
+| 1    	| [Core Development]      | [Dev section]    	      | [Create]      | Jay McCure         |
+| 2     | [Core Development]      | [Dev section]      	  | [Plan]        | Désirée Chevalier  |
+| 3    	| [Core Development]      | [CI section]    	      | [Verify]      | Tiffany Rea, Joy Roodnick |
+| 4    	| [Core Development]      | [CI section]     	      | [Package]     | Tiffany Rea       |
+| 5    	| [Core Development]      | [CD section]     	      | [Deploy]      | -                  | 
+| 6     | [Expansion Development] | [Sec section]    	      | [Secure]      | Will Meek          |
+| 7     | [Expansion Development] | [Sec section]           | [Govern]      | Harsha Muralidhar  |
+| 8     | [Expansion Development] | [Sec section]    	      | [Secure]      | Will Meek          |
+| 9    	| [Expansion Development] | [Growth section]        | [Growth]      | -                  |
+| 10    | [Expansion Development] | [Fulfillment section]   | [Fulfillment] | Valerie Burton     |
+| 11    | [Expansion Development] | [Fulfillment section]   | [Fulfillment] | Richard Chong      |
+| 12    | [Expansion Development] | [Data Science section]  | [ModelOps]    | -                  |
+| 13    | [Expansion Development] | [Data Science section]  | [AI-powered]  | Ramya Authappan    |
+| 14    | Infrastructure          | [Core Platform section] | [Manage]      | Nivetha Prabakaran |
 
 * FYI - There are no hiring plans for SETs in FY24.
 
 ## OKRs 
 
-Every quarter, the team commits to [Objectives and Key Results (OKRs)](/company/okrs/). The below shows current quarter OKRs and is updated regularly as the quarter progresses.
+Every quarter, the team commits to [Objectives and Key Results (OKRs)](/handbook/company/okrs/). The below shows current quarter OKRs and is updated regularly as the quarter progresses.
 
 Here is an [overview](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/5388) of our current Test Engineering OKR.
 
-[Core Development Department]: /handbook/engineering/core-development/
-[Expansion Development Department]: /handbook/engineering/expansion-development/
+[Core Development]: /handbook/engineering/core-development/
+[Expansion Development]: /handbook/engineering/expansion-development/
 [Dev section]: /handbook/product/categories/#dev-section
 [Plan]: /handbook/product/categories/#plan-stage
 [Create]: /handbook/product/categories/#create-stage

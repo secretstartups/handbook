@@ -34,6 +34,7 @@ Below is a full list of our UX Research team handbook content:
      - [Survey question scales](/handbook/product/ux/ux-research/surveys/survey-question-scales/)
      - [Sample sizes for surveys](/handbook/product/ux/ux-research/surveys/sample-sizes-for-surveys/)
      - [Piloting your survey](/handbook/product/ux/ux-research/surveys/piloting-your-survey/)
+- [Jobs to be Done](/handbook/product/ux/jobs-to-be-done/)
 - [Longitudinal studies](/handbook/product/ux/ux-research/longitudinal-studies/)
 - [Diary studies](/handbook/product/ux/ux-research/diary-studies/)
 - [Mental modeling studies](/handbook/product/ux/ux-research/mental-modeling)
@@ -124,7 +125,6 @@ Below is a full list of our UX Research team handbook content:
 
 - [System Usability Scale](/handbook/product/ux/performance-indicators/system-usability-scale/)
      - [System Usability Scale responder outreach](/handbook/product/ux/performance-indicators/system-usability-scale/sus-outreach/)
-     - [System Usability Scale database](/handbook/product/ux/sus-database/)
 - [Paid Net Promoter Score](/handbook/product/ux/performance-indicators/paid-nps/)
 - [Assessing Category Maturity](/handbook/product/ux/category-maturity/)
     - [Category Maturity Scorecards](/handbook/product/ux/category-maturity/category-maturity-scorecards/)

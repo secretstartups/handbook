@@ -22,10 +22,10 @@ GitLab Project: [Verify](https://gitlab.com/gitlab-org/verify-stage)
 
 Verify teams:
 
-- [Verify:Pipeline Execution](https://about.gitlab.com/handbook/engineering/development/ops/verify/pipeline-execution/)
-- [Verify:Pipeline Authoring](https://about.gitlab.com/handbook/engineering/development/ops/verify/pipeline-authoring/)
-- [Verify:Runner](https://about.gitlab.com/handbook/engineering/development/ops/verify/runner/)
-- [Verify:Pipeline Security](https://about.gitlab.com/handbook/engineering/development/ops/verify/pipeline-security/)
+- [Verify:Pipeline Execution](/handbook/engineering/development/ops/verify/pipeline-execution/)
+- [Verify:Pipeline Authoring](/handbook/engineering/development/ops/verify/pipeline-authoring/)
+- [Verify:Runner](/handbook/engineering/development/ops/verify/runner/)
+- [Verify:Pipeline Security](/handbook/engineering/development/ops/verify/pipeline-security/)
 
 ### What do y'all do?
 
@@ -119,6 +119,6 @@ More details to come
 We want to encourage and support our open source community as nuch as possible. We have two measures of success:
 
 1. Merged MRs from the community in the [Verify Stage](https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&label_name[]=devops%3A%3Averify&label_name[]=Community%20contribution)
-1. [MRARR](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#mrarr)
+1. [MRARR](/handbook/engineering/quality/performance-indicators/#mrarr)
 
 Our process for enabling merge requests from the community can be found on the [Verify Team Page]().

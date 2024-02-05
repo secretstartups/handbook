@@ -595,6 +595,7 @@ important to those working within Zendesk:
 | `lnr_saas_trial`                   | Indicates the L&R internal request is about a SaaS trial |
 | `lnr_saas_trial_extension`         | Indicates the problem type is "Extend a SaaS trial" |
 | `lnr_saas_trial_edit`              | Indicates the problem type is "Change existing SaaS trial plan" |
+| `lnr_saas_trial_over_plan`         | Indicates the problem type is "Request an Ultimate trial for a customer using a Premium subscription" |
 | `lnr_sm_license`                   | Indicates the L&R internal request is about a self-managed license |
 | `lnr_sm_license_extension`         | Indicates the problem type is "Extend an (almost) expired subscription" |
 | `lnr_sm_license_receive_error`     | Indicates the problem type is "Customer did not receive the license" |

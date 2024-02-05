@@ -146,6 +146,8 @@ The [Building High Performing Teams model](https://internal.gitlab.com/handbook/
 
 **How to apply the building higher performing teams model:** Review the strategies to improve [building high performing teams](https://internal.gitlab.com/handbook/company/high-performing-teams/) at GitLab. Managers can conduct an assessment with their teams to see if team members trust one another. Use the resources outlined to facilitate a discussion.
 
+A [curated list of external resources](/handbook/people-group/learning-and-development/manager-development/high-performing-teams/) has also been compiled which may help when adopting this model.
+
 ### Ask for Feedback
 
 Managers should be open to [receiving feedback](/handbook/people-group/guidance-on-feedback/) from their team members. Often there is a barrier as employees feel uncomfortable sharing constructive feedback, let alone with their manager. But if managers are open to feedback, they can slowly grow a culture of feedback within their team, thereby increasing trust. Managers can show their openness by asking for feedback, through [1:1 calls]({{< ref "1-1" >}}) with direct reports or our performance management platform.

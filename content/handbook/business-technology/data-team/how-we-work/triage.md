@@ -154,7 +154,7 @@ The Central Data Team triager will create [an issue in the Data Team project](ht
 
 ### Incident
 
-The Data Team follows the [incident definition](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management) from Engineering: Incidents are anomalous conditions that result in—or may lead to—service degradation or outages. These events require human intervention to avert disruptions or restore service to operational status.
+The Data Team follows the [incident definition](/handbook/engineering/infrastructure/incident-management) from Engineering: Incidents are anomalous conditions that result in—or may lead to—service degradation or outages. These events require human intervention to avert disruptions or restore service to operational status.
 
 Service degradation or outages in data can be seen as:
 - Data is not available
@@ -234,6 +234,7 @@ The following actions are performed by Data Team Triager:
       - A new issue is opened in the `GitLab Data Team project`, assigned to the correct DRI and linked to the original MR.
       - Impact will be determined in the issue.
       - Any MRs will be created to overcome loading issues, downstream dbt processing and Sisense usage.
+         - If impact is beyond data loading, this means the data is used downstream, an Analytics Engineer **must** be included to also determine the business impact of the upstream change. 
       - According to the Merge of the GitLab.com MR, merge will be planned.
    - If the `MR` does not contains the label `group::product intelligence` and it concerns changes to `SQL` structure:
       - Check if it will break the operation / data pipeline, following the Determination matrix below.
@@ -245,6 +246,7 @@ The following actions are performed by Data Team Triager:
       - A new issue is opened in the `GitLab Data Team project`, assigned to the correct DRI and linked to the original MR.
       - Impact will be determined in the issue.
       - Any MRs will be created to overcome loading issues, downstream dbt processing and Sisense usage.
+         - If impact is beyond data loading, this means the data is used downstream, an Analytics Engineer **must** be included to also determine the business impact of the upstream change. 
       - According to the Merge of the GitLab.com MR, merge will be planned.
       - All stakeholders will be informed.
 

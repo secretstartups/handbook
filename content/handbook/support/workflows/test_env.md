@@ -26,17 +26,17 @@ This page explains the main choices available to you. Some guidelines:
 
 Have fun!
 
-## Testing on GitLab.com
-
-The [IT Ops](/handbook/business-technology/team-member-enablement/#gitlab-it-team) team handle provisioning of paid tier test groups on GitLab.com. If you require a group of your own to have a paid tier, please submit an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitlabCom_Licensed_Demo_Group_Request). This process will ensure that all entitlements are removed during processes such as staff member offboarding.
 
 
 ## Testing Environment License
 
-To request a license for testing, you will need to create an [internal issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitLab_Team_Member_License_request).
+If you require a license for testing:
 
-Please keep in mind *you can't generate licenses for customers* only for testing
-purposes.
+ - For a **self-managed instance**, use the [Support Super Form](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/).
+ - For **GitLab.com**, individual test namespaces with licenses pre-applied have been provisioned as part of your onboarding.
+
+
+Please keep in mind *you can't generate licenses for customers*, only for your own testing purposes.
 
 ### AWS Marketplace Resources
 
@@ -305,7 +305,7 @@ If you wish to test resources using a real domain name (instead of an IP address
 
 Test instances are, by default, publicly accessible on the Internet. Often, we need to test specific versions or configurations that may be vulnerable to remote compromise. It is your responsibility to secure your test instances to prevent them from being compromised and used to further attack our cloud environment.
 
-The [GitLab Red Team](https://about.gitlab.com/handbook/engineering/security/threat-management/red-team/) regularly scans GitLab's cloud environments for publicly accessible instances with known vulnerabilities. Instances vulnerable to known RCEs or other exploits detected through automated scans will be shut down without warning.
+The [GitLab Red Team](/handbook/engineering/security/threat-management/red-team/) regularly scans GitLab's cloud environments for publicly accessible instances with known vulnerabilities. Instances vulnerable to known RCEs or other exploits detected through automated scans will be shut down without warning.
 
 ### IP Filtering
 

@@ -4,7 +4,7 @@ title: Dynamic Analysis Group
 
 ## Dynamic Analysis
 
-The Dynamic Analysis group at GitLab is charged with developing solutions which perform [Dynamic Analysis Software Testing (DAST)](/direction/secure/dynamic-analysis/dast/) and Fuzzing. Our work is a mix of open and closed source code.
+The Dynamic Analysis group at GitLab is charged with developing solutions which perform [Dynamic Analysis Software Testing (DAST)](https://about.gitlab.com/direction/secure/dynamic-analysis/dast/) and Fuzzing. Our work is a mix of open and closed source code.
 
 ### Important DAST Repositories
 
@@ -117,7 +117,7 @@ The reaction rotation engineer should:
 - Triage and respond to customer support requests via support [request for help issues](https://gitlab.com/gitlab-com/sec-sub-department/section-sec-request-for-help/-/issues/?sort=created_date&state=opened&label_name%5B%5D=Help%20group%3A%3Adynamic%20analysis&first_page_size=20). As an outcome of triage, create new issues and communicate with the product team to help assign priority.
 - Triage and respond to customer support requests via Slack. Encourage customers/support teams to create support tickets because of Slack's short retention history.
 - Ensure high-quality support request responses. Reach out to other engineers, teams, or people with knowledge to ensure customers get the best possible answers.
-- Ensure security issues (for FedRAMP compliance or platform security) are created or updated, either manually or through automation. Follow up with creation of [Deviation Requests](https://handbook.gitlab.com/handbook/security/security-assurance/dedicated-compliance/poam-deviation-request-procedure/) if necessary.
+- Ensure security issues (for FedRAMP compliance or platform security) are created or updated, either manually or through automation. Follow up with creation of [Deviation Requests](/handbook/security/security-assurance/dedicated-compliance/poam-deviation-request-procedure/) if necessary.
 - Act as an MR Coach for newly created community contributions.
 - Continue normal DAST engineering activities.
 
@@ -128,6 +128,10 @@ The reaction rotation engineer should not:
 - Directly fix issues as a result of customer support triage. The product team must prioritize any issue prior to an engineer picking it up.
 - Exclusively work on community contributions, security issues, or bug fixes. These are the purview of the entire team.
 - Take the time as slack time. Slack time is important in everyone's role and is captured as a constant when measuring team throughput to predict release dates.
+
+### Security vulnerabilities triaging process
+
+See the [Secure sub-department vulnerability management process](/handbook/engineering/development/sec/secure/#vulnerability-management-process).
 
 ### Team Organization
 
@@ -226,7 +230,7 @@ Community contributions should get prompt feedback from one of the DAST engineer
 
 #### Targets
 
-For our Merge Request types, we have an initial soft target ratio of 60% features, 30% maintenance, and 10% bugs based on the [cross-functional prioritization process](https://about.gitlab.com/handbook/product/product-processes/#cross-functional-prioritization).  This is not a hard target and we expect to see variation in this ratio as we mature and our focus evolves.
+For our Merge Request types, we have an initial soft target ratio of 60% features, 30% maintenance, and 10% bugs based on the [cross-functional prioritization process](/handbook/product/product-processes/#cross-functional-prioritization).  This is not a hard target and we expect to see variation in this ratio as we mature and our focus evolves.
 
 ### Support Requests
 
@@ -240,7 +244,7 @@ The Dynamic Analysis engineering team provides support to GitLab Support Enginee
 
 ## Error Budgets
 
-GitLab uses [error budgets to track availability](https://about.gitlab.com/handbook/engineering/error-budgets/).
+GitLab uses [error budgets to track availability](/handbook/engineering/error-budgets/).
 
 - [DAST Overview Error Budget](https://dashboards.gitlab.net/d/stage-groups-dynamic_analysis/stage-groups-dynamic-analysis-group-dashboard?orgId=1)
 - [DAST Error Budget Details](https://dashboards.gitlab.net/d/stage-groups-detail-dynamic_analysis/stage-groups-dynamic-analysis-group-error-budget-detail?orgId=1)

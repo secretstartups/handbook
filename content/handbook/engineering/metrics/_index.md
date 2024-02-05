@@ -11,94 +11,7 @@ The inception of this initiative can be see in this [epic](https://gitlab.com/gr
 
 ### Engineering Metrics Dashboards
 
-The links below take you to a handbook dashboard page which covers metrics from the Development, Infrastructure, Quality, UX, and Security Departments.
-
-- [Dev Section Dashboards](/handbook/engineering/metrics/dev/)
-  - [Create Stage Dashboards](/handbook/engineering/metrics/dev/create)
-    - [Source Code Group Dashboards](/handbook/engineering/metrics/dev/create/source-code)
-    - [Code Review Group Dashboards](/handbook/engineering/metrics/dev/create/code-review)
-    - [IDE Group Dashboards](/handbook/engineering/metrics/dev/create/ide)
-  - [Plan Stage Dashboards](/handbook/engineering/metrics/dev/plan)
-    - [Knowledge Group Dashboards](/handbook/engineering/metrics/dev/plan/knowledge)
-    - [Project Management Group Dashboards](/handbook/engineering/metrics/dev/plan/project-management)
-    - [Product Planning Group Dashboards](/handbook/engineering/metrics/dev/plan/product-planning)
-    - [Optimize Group Dashboards](/handbook/engineering/metrics/dev/plan/optimize)
-  - [Manage Stage Dashboards](/handbook/engineering/metrics/dev/manage)
-    - [Foundations Group Dashboards](/handbook/engineering/metrics/dev/manage/foundations)
-    - [Import and Integrate Group Dashboards](/handbook/engineering/metrics/dev/manage/import-and-integrate)
-- [Ops Section Dashboards](/handbook/engineering/metrics/ops/)
-  - [Verify Stage Dashboards](/handbook/engineering/metrics/ops/verify)
-    - [Pipeline Execution Group Dashboards](/handbook/engineering/metrics/ops/verify/pipeline-execution)
-    - [Pipeline Authoring Group Dashboards](/handbook/engineering/metrics/ops/verify/pipeline-authoring)
-    - [Runner Group Dashboards](/handbook/engineering/metrics/ops/verify/runner)
-    - [Pipeline Security Group Dashboards](/handbook/engineering/metrics/ops/verify/pipeline-security)
-    - [Runner SaaS Dashboards](/handbook/engineering/metrics/ops/verify/runner-saas)
-  - [Package Stage Dashboards](/handbook/engineering/metrics/ops/package)
-    - [Package Registry Group Dashboards](/handbook/engineering/metrics/ops/package/package-registry)
-    - [Container Registry Dashboards](/handbook/engineering/metrics/ops/package/container-registry)
-  - [Configure Stage Dashboards](/handbook/engineering/metrics/ops/configure)
-  - [Monitor Stage Dashboards](/handbook/engineering/metrics/ops/monitor)
-    - [Respond Stage Dashboards](/handbook/engineering/metrics/ops/monitor/respond)
-    - [Observability Stage Dashboards](/handbook/engineering/metrics/ops/monitor/observability)
-  - [Release Stage Dashboards](/handbook/engineering/metrics/ops/release)
-- [Sec Section Dashboards](/handbook/engineering/metrics/sec/)
-  - [Secure Stage Dashboards](/handbook/engineering/metrics/sec/secure/)
-    - [Static Analysis Group Dashboards](/handbook/engineering/metrics/sec/secure/static-analysis)
-    - [Dynamic Analysis Group Dashboards](/handbook/engineering/metrics/sec/secure/dynamic-analysis)
-    - [Composition Analysis Group Dashboards](/handbook/engineering/metrics/sec/secure/composition-analysis)
-    - [Vulnerability Research Group Dashboards](/handbook/engineering/metrics/sec/secure/vulnerability-research)
-  - [Govern Stage Dashboards](/handbook/engineering/metrics/sec/govern/)
-    - [Anti-Abuse Group Dashboards](/handbook/engineering/metrics/sec/govern/anti-abuse)
-    - [Authentication Group Dashboards](/handbook/engineering/metrics/sec/govern/authentication)
-    - [Authorization Group Dashboards](/handbook/engineering/metrics/sec/govern/authorization)
-    - [Compliance Group Dashboards](/handbook/engineering/metrics/sec/govern/compliance)
-    - [Security Policies Group Dashboards](/handbook/engineering/metrics/sec/govern/security-policies)
-    - [Threat Insights Group Dashboards](/handbook/engineering/metrics/sec/govern/threat-insights)
-- [Analytics Section Dashboards](/handbook/engineering/metrics/analytics/analytics)
-  - [Analytics Stage Dashboards](/handbook/engineering/metrics/analytics/analytics)
-    - [Analytics Instrumentation Group Dashboards](/handbook/engineering/metrics/analytics/analytics/analytics-instrumentation)
-    - [Product Analytics Group Dashboards](/handbook/engineering/metrics/analytics/analytics/product-analytics)
-- [Growth Section Dashboards](/handbook/engineering/metrics/growth)
-  - [Acquisition Group Dashboards](/handbook/engineering/metrics/growth/acquisition)
-  - [Activation Group Dashboards](/handbook/engineering/metrics/growth/activation)
-- [Fulfillment Section Dashboards](/handbook/engineering/metrics/fulfillment/)
-  - [Purchase Group Dashboards](/handbook/engineering/metrics/fulfillment/purchase)
-  - [Provision Group Dashboards](/handbook/engineering/metrics/fulfillment/provision)
-  - [Utilization Group Dashboards](/handbook/engineering/metrics/fulfillment/utilization)
-  - [Fulfillment Platform Group Dashboards](/handbook/engineering/metrics/fulfillment/fulfillment-platform)
-  - [Billing and Subscription Management Group Dashboards](/handbook/engineering/metrics/fulfillment/billing-and-subscription-management)
-  - [Commerce Integrations Group Dashboards](/handbook/engineering/metrics/fulfillment/commerce-integrations)
-  - [Fulfillment Admin Tooling Group Dashboards](/handbook/engineering/metrics/fulfillment/fulfillment-admin-tooling)
-- [Enablement Section Dashboards](/handbook/engineering/metrics/enablement/)
-  - [Systems Stage Dashboards](/handbook/engineering/metrics/enablement/systems)
-    - [Distribution Group Dashboards](/handbook/engineering/metrics/enablement/systems/distribution)
-    - [Geo Group Dashboards](/handbook/engineering/metrics/enablement/systems/geo)
-    - [Gitaly Group Dashboards](/handbook/engineering/metrics/enablement/systems/gitaly)
-  - [Data Stores Stage Dashboards](/handbook/engineering/metrics/enablement/data-stores)
-    - [Application Performance Group Dashboards](/handbook/engineering/metrics/enablement/data-stores/application-performance)
-    - [Global Search Group Dashboards](/handbook/engineering/metrics/enablement/data-stores/global-search)
-    - [Database Group Dashboards](/handbook/engineering/metrics/enablement/data-stores/database)
-    - [Tenant Scale Group Dashboards](/handbook/engineering/metrics/enablement/data-stores/tenant-scale)
-- [Data Science Section Dashboards](/handbook/engineering/metrics/data-science/)
-  - [ModelOps Stage Dashboards](/handbook/engineering/metrics/data-science/modelops/)
-    - [AI Assisted Group Dashboards](/handbook/engineering/metrics/data-science/modelops/ai-assisted)
-    - [MLOps Group Dashboards](/handbook/engineering/metrics/data-science/modelops/mlops)
-    - [DataOps Group Dashboards](/handbook/engineering/metrics/data-science/modelops/dataops)
-
-These handbook dashboard pages are populated from the following filterable Sisense dashboards.
-
-- [Top Engineering Metrics Dashboard](https://app.periscopedata.com/app/gitlab/1000952/Top-Engineering-Metrics-Dashboard)
-- [MR Types Dashboard](https://app.periscopedata.com/app/gitlab/976854/Merge-Request-Types-Detail)
-- [Development Embedded Dashboard](https://app.periscopedata.com/app/gitlab/681347/Development-Embedded-Dashboard)
-- [Quality Embedded Dashboard](https://app.periscopedata.com/app/gitlab/736012/Quality-Embedded-Dashboard)
-- [Infrastructure Embedded Dashboard](https://app.periscopedata.com/app/gitlab/798401/Infrastructure-Embedded-Dashboard)
-- [UX Embedded Dashboard](https://app.periscopedata.com/app/gitlab/736036/UX-Embedded-Dashboard)
-- [Security Embedded Dashboard](https://app.periscopedata.com/app/gitlab/758795/Appsec-Embedded-Dashboard)
-
-#### How to navigate Engineering Metrics Dashboards
-To navigate to section metrics, click on the `___ Section Dashboards` link above. To navigate to stage metrics, click on the `___ Stage Dashboards` link above or redirect from the section dashboards pages. To navigate to group metrics, find the stage that contains the group and click on the corresponding `___ Stage Dashboards` link above.
-
-Group metrics can be queried using labels. For example, the `~"group::authentication"` label is used to query MRs or issues belonging to the Authentication. If a group is missing from the filter dropdown in the embedded dashboards above, check if it’s included in this [spreadsheet](https://docs.google.com/spreadsheets/d/1_IFiLaHK9BfpaomwFU864OQWjVgXR3jokwOKIuhXLd8/edit#gid=0). If it’s missing, add a new row with the corresponding stage and section. This spreadsheet flows to our data warehouse once a day so you may not see updates in Sisense until the next day. In order to display this new group in the handbook dashboard pages, please reach out to a member of the [Engineering Analytics Team](https://about.gitlab.com/handbook/engineering/quality/engineering-analytics/#how-to-engage-with-us) to get this added to the handbook dashboard page filters.
+Please reference the following [page](/handbook/engineering/metrics/dashboards) for centralized engineering metrics, which covers metrics from the Development, Infrastructure, Quality, UX, and Security Departments.
 
 ### Metrics list
 
@@ -108,36 +21,36 @@ The Engineering Analytics team reserves the urgency for these dashboards to prov
 #### Development indicators
 
 - MRs vs Issues
-- [MR Rate](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#mr-rate)
-- [Open MR Review Time (OMRT)](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#open-mr-review-time-omrt)
+- [MR Rate](/handbook/engineering/development/performance-indicators/#mr-rate)
+- [Open MR Review Time (OMRT)](/handbook/engineering/development/performance-indicators/#open-mr-review-time-omrt)
 - MRs by team members vs Community
-- [Merged Product MRs by Type](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#overall-mrs-by-type)
+- [Merged Product MRs by Type](/handbook/engineering/development/performance-indicators/#overall-mrs-by-type)
 - Feature flags older than 2 months
-- [Past Due Security Issues](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#past-due-security-issues)
+- [Past Due Security Issues](/handbook/engineering/development/performance-indicators/#past-due-security-issues)
 
 #### Infrastructure indicators
 
 - S1 Open InfraDev Age
 - S2 Open InfraDev Age
 - InfraDev past SLO
-- [Corrective Actions past SLO](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#corrective-action-slo)
+- [Corrective Actions past SLO](/handbook/engineering/infrastructure/performance-indicators/#corrective-action-slo)
 - Open S1/S2 InfraDev Issues
 
 #### Quality indicators
 
-- [S1 Open Bug Age (OBA)](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#s1-oba)
-- [S2 Open Bug Age (OBA)](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#s2-oba)
+- [S1 Open Bug Age (OBA)](/handbook/engineering/quality/performance-indicators/#s1-oba)
+- [S2 Open Bug Age (OBA)](/handbook/engineering/quality/performance-indicators/#s2-oba)
 
 #### UX indicators
 
-- [Open UX Debt Age](https://about.gitlab.com/handbook/product/ux/performance-indicators/#open-ux-debt-age)
-- [Issues with Actionable Insights](https://about.gitlab.com/handbook/product/ux/performance-indicators/#actionable-insights)
+- [Open UX Debt Age](/handbook/product/ux/performance-indicators/#open-ux-debt-age)
+- [Issues with Actionable Insights](/handbook/product/ux/performance-indicators/#actionable-insights)
 - Total open SUS-impacting issues by severity
 - SUS-impact issues opened/closed
 
 #### Security indicators
 
-- [Average Age of currently open bug vulnerabilities](https://about.gitlab.com/handbook/security/performance-indicators/#average-age-of-open-vulnerabilities-by-severity)
+- [Average Age of currently open bug vulnerabilities](/handbook/security/performance-indicators/#average-age-of-open-vulnerabilities-by-severity)
 
 ### Helpful pointers
 
@@ -154,7 +67,7 @@ In April 2023, there was an internal audit of the job title specialty field done
 
 You can use [this MR Rate troubleshooting dashboard](https://app.periscopedata.com/app/gitlab/1138219/MR-Rate-Troubleshooting) to check the number of team members that are counted each month. If the monthly team member count is less than expected, refer to the table to see which team member is missing.
 
-To update the job title speciality field, please refer to [the guidelines](https://about.gitlab.com/handbook/people-group/promotions-transfers/#for-people-connect-processing-job-information-change-requests).
+To update the job title speciality field, please refer to [the guidelines](/handbook/people-group/promotions-transfers/#for-people-connect-processing-job-information-change-requests).
 
 ### Examples
 
@@ -207,7 +120,7 @@ The 3 types (Bug, Feature & Maintenance) is key to our report to industry analys
 
 1. `~"type::bug"`: Defects in shipped code and fixes for those defects. Read more about [features vs bugs](/handbook/product/product-processes/#issues).
   - `~"bug::performance"`: Performance defects or response time degradation
-  - `~"bug::availability"`: Defects related to GitLab SaaS availability. See [the definition](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#availability) for more guidance.
+  - `~"bug::availability"`: Defects related to GitLab SaaS availability. See [the definition](/handbook/engineering/quality/issue-triage/#availability) for more guidance.
   - `~"bug::vulnerability"`: Defects related to Security Vulnerabilities
   - `~"bug::mobile"`: Defects encountered on Mobile Devices
   - `~"bug::functional"`: Functional defects resulting from feature changes
@@ -215,8 +128,8 @@ The 3 types (Bug, Feature & Maintenance) is key to our report to industry analys
   - `~"bug::transient"`: Defects that are transient.
   - _Note:_ **New** documentation or **new** feature flags that relate to `~"type::bug"` are considered `~"type::bug"`.
 1. `~"type::feature"`: Effort to deliver new features, feature changes & improvements. Read more about [features vs bugs](/handbook/product/product-processes/#issues).
-  - `~"feature::addition"`: The first MVC that gives GitLab users a foundation of new capabilities that were previously unavailable. Includes [good user value, usability, and tests](/blog/2021/12/01/dont-confuse-these-twelve-shortcuts-with-iteration/). For example, these issues together helped create the first MVC for our Reviewer feature: [Create a Reviewers sidebar widget](https://gitlab.com/gitlab-org/gitlab/-/issues/237921), [Show which reviewers have commented on an MR](https://gitlab.com/gitlab-org/gitlab/-/issues/10294), [Add reviewers to MR form](https://gitlab.com/gitlab-org/gitlab/-/issues/216054), [Increase MR counter on navbar when user is designated as reviewer](https://gitlab.com/gitlab-org/gitlab/-/issues/255102)
-  - `~"feature::enhancement"`: Subsequent user-facing improvements that refine the initial MVC by adding additional capabilities that make it more useful. Includes [good user value, usability, and tests](/blog/2021/12/01/dont-confuse-these-twelve-shortcuts-with-iteration/). For example, these issues enhance the existing Reviewer feature: [Show MRs where user is designated as a Reviewer on the MR list page](https://gitlab.com/gitlab-org/gitlab/-/issues/237922), [Display which approval rules match a given reviewer](https://gitlab.com/gitlab-org/gitlab/-/issues/233736), [Add Reviewers quick action](https://gitlab.com/gitlab-org/gitlab/-/issues/241244)
+  - `~"feature::addition"`: The first MVC that gives GitLab users a foundation of new capabilities that were previously unavailable. Includes [good user value, usability, and tests](https://about.gitlab.com/blog/2021/12/01/dont-confuse-these-twelve-shortcuts-with-iteration/). For example, these issues together helped create the first MVC for our Reviewer feature: [Create a Reviewers sidebar widget](https://gitlab.com/gitlab-org/gitlab/-/issues/237921), [Show which reviewers have commented on an MR](https://gitlab.com/gitlab-org/gitlab/-/issues/10294), [Add reviewers to MR form](https://gitlab.com/gitlab-org/gitlab/-/issues/216054), [Increase MR counter on navbar when user is designated as reviewer](https://gitlab.com/gitlab-org/gitlab/-/issues/255102)
+  - `~"feature::enhancement"`: Subsequent user-facing improvements that refine the initial MVC by adding additional capabilities that make it more useful. Includes [good user value, usability, and tests](https://about.gitlab.com/blog/2021/12/01/dont-confuse-these-twelve-shortcuts-with-iteration/). For example, these issues enhance the existing Reviewer feature: [Show MRs where user is designated as a Reviewer on the MR list page](https://gitlab.com/gitlab-org/gitlab/-/issues/237922), [Display which approval rules match a given reviewer](https://gitlab.com/gitlab-org/gitlab/-/issues/233736), [Add Reviewers quick action](https://gitlab.com/gitlab-org/gitlab/-/issues/241244)
   - `~"feature::consolidation"`: Merging a feature into an existing feature for simplification. For example, [Workspace project: (Consolidate Groups and Projects)](https://gitlab.com/groups/gitlab-org/-/epics/6473) and [Combine Top Navigation Menu](https://gitlab.com/groups/gitlab-org/-/epics/5645) are good examples of such work.
   - _Note:_ **New** documentation or **new** feature flags that relate to `~"type::feature"` are considered `~"type::feature"`.
 1. `~"type::maintenance"`: Upkeeping efforts & catch-up corrective improvements that are not Features nor Bugs. This includes removing or altering feature flags, removing whole features, merge requests that only include new specs or tests, documentation updates/changes (not including new documentation), restructuring for long-term maintainability, stability, reducing technical debt, improving the contributor experience, or upgrading dependencies and packages. For example: [Refactoring the CI YAML config parser](https://gitlab.com/gitlab-org/gitlab-foss/-/issues/15060), [Updating software versions in our tech stack](https://gitlab.com/gitlab-org/ci-cd/codequality/-/issues/22), [Recalculating UUIDs for vulnerabilities using UUIDv5](https://gitlab.com/gitlab-org/gitlab/-/issues/212322)
@@ -326,8 +239,8 @@ The guidelines for inclusion in the `is_part_of_product` lists are:
 Follow these steps to request a new project to be tracked:
 
 1. Create a merge request to the GitLab.com or ops.gitlab.net project list from above.
-1. Assign the merge request to the [Engineering Productivity team](https://about.gitlab.com/handbook/engineering/quality/engineering-productivity/#team-members) Engineering Manager.
-1. The Manager of the Engineering Productivity team will work with the [Engineering Analytics Team](https://about.gitlab.com/handbook/engineering/quality/engineering-analytics/#counterpart-assignments) to determine the changes to MR Rate metrics and provide validation for the projects. For self-service, team members can validate changes to the MR Rate using [this dashboard](https://app.periscopedata.com/app/gitlab/794887/Scratch-Engineering-Metrics:-MR-Rates-for-Proposals).
+1. Assign the merge request to the [Engineering Productivity team](/handbook/engineering/quality/engineering-productivity/#team-members) Engineering Manager.
+1. The Manager of the Engineering Productivity team will work with the [Engineering Analytics Team](/handbook/engineering/quality/engineering-analytics/#counterpart-assignments) to determine the changes to MR Rate metrics and provide validation for the projects. For self-service, team members can validate changes to the MR Rate using [this dashboard](https://app.periscopedata.com/app/gitlab/794887/Scratch-Engineering-Metrics:-MR-Rates-for-Proposals).
 1. The [VP of Development](https://gitlab.com/clefelhocz1) is the DRI to approve and merge the list of projects.
 
 There is no need to remove archived projects from the `is_part_of_product` list. Removal of projects will remove historical merge requests from metrics and reduce Merge Request rates.
@@ -356,7 +269,7 @@ Please reach out to a member of the [Engineering Productivity team](/handbook/en
     - `CASE WHEN date_month = date_trunc('month',current_date) THEN MEDIAN(open_age_in_days) ELSE NULL END AS "Current Median Open Days",`
 * List a DRI for the KPI/PI if the metric is being delegated by the VP of that Engineering department.
 *  Each dashboard for KPIs should consider the following settings to ensure timely updates:
-    - [Setting up auto-refresh](https://about.gitlab.com/handbook/business-technology/data-team/platform/periscope/#sts=Requesting%20Automatic%20Dashboard%20Refresh) for a frequency that fits the KPI
+    - [Setting up auto-refresh](/handbook/business-technology/data-team/platform/periscope/#sts=Requesting%20Automatic%20Dashboard%20Refresh) for a frequency that fits the KPI
     - [Excluding Dashboards from Auto Archive](https://dtdocs.sisense.com/article/auto-archive)
 *  Each KPI should have a standalone dashboard with a single chart representing the KPI and a text box with a link back to the handbook definition.
     - In Sisense, [create a shared dashboard link](https://dtdocs.sisense.com/article/share-dashboards) to get the shared dashboard ID.

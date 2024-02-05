@@ -59,7 +59,7 @@ Learn how to identify the most valuable challenges and leverage the GitLab DevSe
     - Our case studies will give you ideas of why enterprises are choosing GitLab.  Bookmark this for customer justification in deals later. (10 min)
 
 **Pitching GitLab and Technical Discovery**
-  - [Positioning GitLab - Handbook Page](https://about.gitlab.com/handbook/positioning-faq/) (Handbook)
+  - [Positioning GitLab - Handbook Page](/handbook/positioning-faq/) (Handbook)
     - Review this page to learn about how to position GitLab in the market. (10 min)
   - [GitLab Technical Discovery Guide](/handbook/sales/qualification-questions/#questions-for-selling-gitlab-premium-and-ultimate) (Handbook)
     - Discovery is a crucial skill for any Solutions Architect (SA).  Here is how GitLab SA’s do their Discovery (10 min)
@@ -97,6 +97,13 @@ Learn how to identify the most valuable challenges and leverage the GitLab DevSe
 **Additional References for You**
   - [Reference Architectures](https://docs.gitlab.com/ee/administration/reference_architectures/) and [Install Guides](https://docs.gitlab.com/ee/install/) (GitLab Docs)
     - GitLab has a leading market share in self-managed deployments.  Here are our technical specs and docs for solutioning and installing GitLab instances.  
+  - [High Availability Architectures](https://docs.gitlab.com/ee/administration/reference_architectures/3k_users.html#supported-modifications-for-lower-user-counts-ha)  
+    - The 3,000 user GitLab reference architecture is the smallest we recommend that achieves High Availability (HA). However, for environments that need to serve fewer users but maintain HA, there are several supported modifications for this architecture to reduce complexity and cost. Any reference architecture above 3000 users is capable of running as a HA workload. For smaller deployments, we (GitLab) recommend to schedule regular backups which provide a recovery point objective (RPO) that the organization can tolerate.
+  - [GitLab Environment Toolkit](https://gitlab.com/gitlab-org/gitlab-environment-toolkit)
+    - The GitLab Environment Toolkit (GET) is a set of opinionated Terraform and Ansible scripts to assist with deploying scaled self-managed GitLab environments following the Reference Architectures. Created and maintained by the GitLab Quality Engineering Enablement team, the Toolkit supports the deployment of GitLab Self-Managed to Hyperscaler and On-Prem target environments.
+    - Review the following GitLab Environment Toolkit's provided examples located [here](https://gitlab.com/gitlab-org/gitlab-environment-toolkit/-/tree/main/examples?ref_type=heads). 
+    - HA is only available for GitLab's enterprise paid tiers. Both Premium and Ultimate licenses of our product will permit the deployment of Highly Available instances of GitLab.
+    - Migration from one instance to another remains the same as if the target system weren't highly available. More here: https://handbook.gitlab.com/handbook/resellers/partner-enablement/partner-migration-services/#from-gitlab-self-managed-to-gitlab-self-managed
 
 ## 3.  Closing the Deal
 

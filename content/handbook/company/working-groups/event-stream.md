@@ -80,7 +80,6 @@ If it is decided that an Event Stream should be implemented, our exit criteria s
 
 | Working Group Role | Person             | Title                                           |
 |--------------------|--------------------|-------------------------------------------------|
-| Executive Sponsor  | Laurence Bierner   | Director, Security Engineering       |
 | Facilitator        | Alex Groleau       | Security Automation Manager                     |
 | Functional Lead    | Juliet Wanjohi     | Security Engineer, Security Automation          |
 | Functional Lead    | Ethan Urie         | Senior Backend Engineer, Security Automation    |

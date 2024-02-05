@@ -13,9 +13,8 @@
   {{- end }}
 {{- end }}
 
-{{- $team := partials.IncludeCached "data/team" . -}}
 {{- range $usernames }}
-  {{ $members = append (where $team "gitlab" "eq" . ) $members }}
+  {{ $members = append (where site.Data.public.team "gitlab" "eq" . ) $members }}
 {{- end }}
 
 {{- if gt (len $members) 0 }}
@@ -29,7 +28,7 @@
   <tbody>
     {{- range $members }}
     <tr>
-      <td><span  style="white-space: nowrap;">{{partial "member" . }}</span></td>
+      <td><span  style="white-space: nowrap;">{{partial "member/with-team-link" . }}</span></td>
       <td>{{ .role | markdownify }}</td>
     </tr>
     {{- end }}

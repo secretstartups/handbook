@@ -5,13 +5,13 @@ description: "The Provision Team of the Fulfillment Sub-department at GitLab"
 
 ## Vision
 
-For more details about the product vision for Fulfillment, see our [Fulfillment](/direction/fulfillment/) page.
+For more details about the product vision for Fulfillment, see our [Fulfillment](https://about.gitlab.com/direction/fulfillment/) page.
 
 The Provision group manages the [Provision category](/handbook/product/categories/#provision-group).
 
 ## Team members
 
-{{% team-by-department "Fulfillment:Provision Team" %}}
+{{% team-by-departments "Fulfillment:Provision Team" %}}
 
 ## Stable counterparts
 
@@ -74,4 +74,4 @@ in future milestones. Full chart [here](https://app.periscopedata.com/app/gitlab
 
 ##### OKRs
 
-The Engineering Manager will report on the progress of [OKRs](https://about.gitlab.com/company/okrs/) every two weeks. Current OKRs: [FY22-Q1](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/10680)
+The Engineering Manager will report on the progress of [OKRs](/handbook/company/okrs/) every two weeks. Current OKRs: [FY22-Q1](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/10680)

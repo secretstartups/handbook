@@ -49,5 +49,5 @@ With this level of urgency to be confirmed by the group's leadership (e.g. Engin
 
 ## Futher reading and examples
 
-- [Verify - Managing Urgent Priorities](https://about.gitlab.com/handbook/engineering/development/ops/verify/#managing-urgent-priorities)
+- [Verify - Managing Urgent Priorities](/handbook/engineering/development/ops/verify/#managing-urgent-priorities)
 - [MVC - GitLab WebIDE support - Code Suggestions](https://gitlab.com/groups/gitlab-org/-/epics/10549)

@@ -122,7 +122,7 @@ Note that you cannot send public replies to customers with a Light Agent account
 
 ### GitLab plan or license for team members
 
-For GitLab team members, a GitLab license or plan request is done through [Access requests](https://gitlab.com/gitlab-com/team-member-epics/access-requests). Please follow the appropriate handbook instructions, such as the [Incentive instructions](/handbook/incentives/#gitlab-ultimate), or open an issue with the most appropriate template, such as [the License request template](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitLab_Team_Member_License_request) for self-managed instances.
+For GitLab team members, a GitLab license or plan request is done through [Access requests](https://gitlab.com/gitlab-com/team-member-epics/access-requests). Please follow the appropriate handbook instructions, such as the [Incentive instructions](/handbook/incentives/#gitlab-ultimate), or open an issue with the most appropriate template, such as [the License request template](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitLab_Team_Member_License_request) for self-managed instances.  Note that a **staging license** requires your GitLab installation be configured to use the [Customers Portal Staging](https://docs.gitlab.com/omnibus/development/setup.html#use-customers-portal-staging-in-gitlab) environment.
 
 ### Contacting users about GitLab incidents or changes
 
@@ -245,7 +245,6 @@ A list of common scenarios and the appropriate option are detailed in the follow
 | Order Management | Use this for Order Management requests. Please note if the license information you are requesting does not match the Salesforce opportunity, we will likely not be able to generate the license as Support cannot waive seats or Trueups. Ensure you include a summary of the action requested in the context field. |
 | Hacker One Reporter License | Use this to request a license be generated for a Hacker One reporter. |
 | Report a Provision Failure | This form can be used by the Fulfillment Provisioning team to request help from L&R support when handling a Provisioning failure. Please ensure you provide a detailed description of the type of assistance that you require from the L&R support team. |
-| Hacker One Reporter License | Use this to request a license be generated for a Hacker One reporter. |
 | Wider Community License | Use this to request a community license be generated. Please note for any license lasting longer more than 90 days, manager approval is required. Without an approving manager's email being provided, the ticket will be closed out |
 | Use this for any license & renewal issues where no other options fit. Please note if this form is used when an option **does** exist, the request will be closed and you will need to submit a new request using the correct form. |
 
@@ -283,7 +282,6 @@ Here are some options to get basic seat count information:
 1. *Plan* and *Seats Currently in Use*:
     - [chatops](https://docs.gitlab.com/ee/development/chatops_on_gitlabcom.html#chatops-on-gitlabcom) (requires dev.gitlab.org account) with the command: `/chatops run namespace find group-path`
 1. Info from 1 plus Subscription (or trial) *End Date*
-    - [Sisense dashboard](https://app.periscopedata.com/app/gitlab/576469/Namespace-Overview) (changing the namespace ID filter)
 1. Info from 2 plus *Seats in Subscription*, *Max Seats Used*, and *Start Date*
     - [Customers portal admin](https://customers.gitlab.com/admin/customer) (requires access via Okta)
 
@@ -335,10 +333,10 @@ Please open an **emergency ticket** if:
 Please declare a **GitLab.com incident** if:
 
 - you've noticed a common pattern of reported problems between SaaS customers
-- you've experienced and verified a [loss of functionality over a period lasting more than 5 minutes](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#definition-of-outage-vs-degraded-vs-disruption-and-when-to-communicate)
-- you suspect a [high severity bug](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#high-severity-bugs) has been deployed to GitLab.com
+- you've experienced and verified a [loss of functionality over a period lasting more than 5 minutes](/handbook/engineering/infrastructure/incident-management/#definition-of-outage-vs-degraded-vs-disruption-and-when-to-communicate)
+- you suspect a [high severity bug](/handbook/engineering/infrastructure/incident-management/#high-severity-bugs) has been deployed to GitLab.com
 
-[More about GitLab.com incidents](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/)
+[More about GitLab.com incidents](/handbook/engineering/infrastructure/incident-management/)
 
 Please declare a **security incident** if:
 
@@ -350,7 +348,7 @@ Please declare a **security incident** if:
 
 ### I want to make a change to a setting in the GitLab.com Admin interface
 
-The Infrastructure team is the admin of GitLab.com, and any changes to product tuneables go through the [change request workflow](https://about.gitlab.com/handbook/engineering/infrastructure/change-management/#change-request-workflows).
+The Infrastructure team is the admin of GitLab.com, and any changes to product tuneables go through the [change request workflow](/handbook/engineering/infrastructure/change-management/#change-request-workflows).
 
 ## Other
 

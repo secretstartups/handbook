@@ -4,6 +4,8 @@ description: Support Operations documentation page for Pagerduty change manageme
 canonical_path: "/handbook/support/readiness/operations/docs/pagerduty/change_management"
 ---
 
+<sup>*Introduced via [support-team-meta#4077](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4077)*</sup>
+
 ## Schedule changes
 
 **Note** This only applies for the non-shadow schedules. For changing shadow
@@ -217,12 +219,7 @@ corresponding boxes on the issue you are working out of).
 
 ## Shadow schedule changes
 
-As these do not have an impact on our production schedules, we can implement
-these when requested. These will stem from issues within the
-[Pagerduty project](https://gitlab.com/gitlab-com/support/support-ops/other-software/pagerduty).
-
-Implement the changes and let the requester know they are in place. If others
-are already using the shadow rotation, make sure to mention it to them as well.
+These are now fully automated via the Support Super form.
 
 ## Escalation policy changes
 

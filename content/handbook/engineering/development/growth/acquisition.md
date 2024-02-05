@@ -14,7 +14,7 @@ or creating a new issue in the Growth Product [Acquisition issues] list.
 
 ## Mission
 
-The Growth:Acquisition Group works on product priorities and [growth deliverables](https://about.gitlab.com/handbook/product/growth/#growth-deliverables)
+The Growth:Acquisition Group works on product priorities and [growth deliverables](/handbook/product/growth/#growth-deliverables)
 with our [Growth product managers](/handbook/product/growth/)
 and contributes to Growth initiatives including the [Registration Flow](https://gitlab.com/groups/gitlab-org/-/epics/4745)
 and [Continuous onboarding](https://gitlab.com/groups/gitlab-org/-/epics/4817).
@@ -55,7 +55,7 @@ Prioritization is a collaboration between Product, UX, Engineering, and Quality.
 merge requests across multiple projects.
 
 - We use a shared [Kanban workflow board](https://gitlab.com/groups/gitlab-org/-/boards/4152639) for both groups - Acquisition and Activation
-for work in the [build phase](https://about.gitlab.com/handbook/product-development-flow/#build-track) of the product development flow.
+for work in the [build phase](/handbook/product-development-flow/#build-track) of the product development flow.
 
 - We use [refinement threads](https://gitlab.com/gitlab-org/gitlab/-/issues/383859#note_1231645373) on issues to discuss our approach and estimate weight of upcoming work.
 

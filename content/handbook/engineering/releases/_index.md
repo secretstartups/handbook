@@ -82,7 +82,7 @@ The last commit to make it into the release will have a message similar to this:
 > :mega: Barring any show-stopping issues, this is the final commit to be released on the [release date](/handbook/engineering/releases/).
 https://gitlab.com/gitlab-org/gitlab/-/commits/13-1-stable-ee
 
-Merge Requests that have been included in the monthly release will receive [a label indicating inclusion](https://about.gitlab.com/handbook/engineering/releases/#labels-indicating-inclusion-in-upcoming-self-managed-release).
+Merge Requests that have been included in the monthly release will receive [a label indicating inclusion](/handbook/engineering/releases/#labels-indicating-inclusion-in-upcoming-self-managed-release).
 
 ## Patch releases overview
 
@@ -179,7 +179,7 @@ guarantees on creation timing. This will depend on factors such as:
 
 - Any incidents on GitLab.com that are or have been going on in the run-up to
   the release.
-- Any (critical) [security releases](../security/index.html#security-releases) that require the attention of release
+- Any (critical) [security releases](https://about.gitlab.com/handbook/engineering/releases/security-releases/) that require the attention of release
   managers.
 - Any issues with our auto-deployment pipelines.
 - Other release related work that may delay or prevent the creation of a release

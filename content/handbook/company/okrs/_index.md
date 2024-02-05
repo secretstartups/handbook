@@ -34,7 +34,7 @@ OKRs have four superpowers:
 
 We do not use it to [give performance feedback](/handbook/people-group/360-feedback/) or as a [compensation review](/handbook/total-rewards/compensation/) for team members.
 
-The [E-Group](/handbook/company/team/structure/#e-group) does use it for their [Performance Enablement Reviews](/handbook/people-group/learning-and-development/career-development/#performance-enablement-review).
+The [E-Group](/handbook/company/structure/#e-group) does use it for their [Performance Enablement Reviews](/handbook/people-group/learning-and-development/career-development/#performance-enablement-review).
 
 The [Chief of Staff to the CEO](/job-families/chief-executive-officer/chief-of-staff/) initiates and guides the OKR process.
 
@@ -398,7 +398,7 @@ A hypothetical example where division OKRs score directly to a CEO OKR:
       1. CMO OKR: Have 10% of managers enrolled in leadership program
       1. etc. (all divisions participating should be added)
 
-Note: Using this method, if you need to track the team objective or KRs separately, you can take a look at [Engineering's guidance on tracking department OKRs](https://about.gitlab.com/handbook/engineering/okrs/#tracking-department-okrs). If you need the team objective or KRs to score to another parent objective, duplicating the OKR is currently the only way to do so.
+Note: Using this method, if you need to track the team objective or KRs separately, you can take a look at [Engineering's guidance on tracking department OKRs](/handbook/engineering/okrs/#tracking-department-okrs). If you need the team objective or KRs to score to another parent objective, duplicating the OKR is currently the only way to do so.
 
 ### Search and Filter OKRs
 

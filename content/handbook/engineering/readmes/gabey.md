@@ -20,7 +20,7 @@ I speak English and Spanish and am currently working on picking up Dutch as well
 
 ## Related
 
-* [Team page](https://about.gitlab.com/company/team/#gyoachum)
+* [Team page](/handbook/company/team/#gyoachum)
 * [Profile](https://gitlab.com/gyoachum)
 
 ## My working style

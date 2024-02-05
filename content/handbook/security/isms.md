@@ -1,10 +1,7 @@
 ---
 title: "Information Security Management System"
+controlled_document: true
 ---
-
-{{% alert title="This is a Controlled Document" color="danger" %}}
-Inline with GitLab's regulatory obligations, changes to [controlled documents]({{< ref "controlled-document-procedure" >}}) must be approved or merged by a code owner. All contributions are welcome and encouraged.
-{{% /alert %}}
 
 ## Purpose
 
@@ -106,7 +103,7 @@ The [GitLab team handbook]({{< ref "/" >}}) is the central repository for how we
 - [Internal Acceptable Use Policy](/handbook/people-group/acceptable-use-policy/)
 - [Security Policies]({{< ref "_index.md#information-security-policies" >}})
 - [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d)
-- [Infrastucture Change Management Procedure](https://about.gitlab.com/handbook/engineering/infrastructure/change-management/)
+- [Infrastucture Change Management Procedure](/handbook/engineering/infrastructure/change-management/)
 - [Security Operational Risk Management (StORM) Program & Procedures]({{< ref "storm-program" >}})
 
 GitLab has a dedicated Security Compliance team responsible for monitoring design and effectiveness of the [GitLab common control framework]({{< ref "sec-controls" >}}) to ensure GitLab's security objectives are thoughtfully planned, implemented and monitored.
@@ -123,7 +120,7 @@ GitLab monitors, measures, and improves security controls through various contin
 - [Annual third-party penetration testing]({{< ref "penetration-testing-policy" >}})
 - [Ongoing third party scorecard monitoring (BitSight)]({{< ref "independent_security_assurance#third-party-security-ratings" >}})
 - [Infrastructure Vulnerability scanning]({{< ref "./threat-management/vulnerability-management" >}})
-- [Application Vulnerability Scanning]({{< ref "./security-engineering/application-security/vulnerability-management" >}})
+- [Application Vulnerability Scanning]({{< ref "./product-security/application-security/vulnerability-management" >}})
 - [HackerOne bug bounty program]({{< ref "hackerone-process" >}})
 - [Audit log monitoring]({{< ref "audit-logging-policy" >}})
 - ISMS Council (annual management review)

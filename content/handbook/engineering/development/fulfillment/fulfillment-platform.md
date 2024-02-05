@@ -27,7 +27,7 @@ For Product Performance Indicators please visit the [internal handbook](https://
 
 ## OKRs
 
-The Engineering Manager will report on the progress of projects rolling up to CEO [OKRs](https://about.gitlab.com/company/okrs/) every week. Current OKRs: [FY23-Q4](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/805)
+The Engineering Manager will report on the progress of projects rolling up to CEO [OKRs](/handbook/company/okrs/) every week. Current OKRs: [FY23-Q4](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/805)
 
 ## Architecture review sync meeting
 
@@ -39,6 +39,7 @@ We want to use our Architecture Review meeting to invite other people from the [
 - Intake and proposals to enable other Fulfillment groups to be more efficient.
 - Architectural reviews and suggestions (e.g. spikes from other teams) that impact the CDot architecture.
 - Topics related to our Zuora integration.
+- Topics related to any [Fulfillment product category](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/categories.yml#L2219).
 
 ### Meeting routine and agenda
 

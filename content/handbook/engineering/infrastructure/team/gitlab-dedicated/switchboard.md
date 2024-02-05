@@ -4,15 +4,15 @@ title: Switchboard team
 
 ## Summary
 
-Switchboard is a team within the [Dedicated Group](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/). Our mission is to empower external GitLab Dedicated customers to manage their tenant environments and reduce the operational overhead on the Environment Automation team so we can scale up the GitLab Dedicated offering. We follow the same processes as listed on the [the Dedicated Group](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/), unless a difference exists which is explicitly noted on this page.
+Switchboard is a team within the [Dedicated Group](/handbook/engineering/infrastructure/team/gitlab-dedicated/). Our mission is to empower external GitLab Dedicated customers to manage their tenant environments and reduce the operational overhead on the Environment Automation team so we can scale up the GitLab Dedicated offering. We follow the same processes as listed on the [the Dedicated Group](/handbook/engineering/infrastructure/team/gitlab-dedicated/), unless a difference exists which is explicitly noted on this page.
 
 
 ## Team Members
 
 {{< team-by-manager-slug "ashiel" >}}
 
-Product Manager: [Loryn Bortins](https://about.gitlab.com/company/team/#lbortins)
-Technical Writer: [Lysanne Pinto](https://about.gitlab.com/company/team/#lyspin)
+Product Manager: [Loryn Bortins](/handbook/company/team/#lbortins)
+Technical Writer: [Lysanne Pinto](/handbook/company/team/#lyspin)
 
 ## Working with us
 
@@ -24,9 +24,9 @@ To engage with the Switchboard team:
   - `workflow-infra::Triage`
   - `team::Switchboard`
 - When creating an issue, it is not necessary to `@`mention anyone
-- In case you want to get attention, use a specific team handle (Ex: @gitlab-dedicated/switchboard ) as defined in [Dedicated group hierarchy](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/#gitlab-group-hierarchy)
+- In case you want to get attention, use a specific team handle (Ex: @gitlab-dedicated/switchboard ) as defined in [Dedicated group hierarchy](/handbook/engineering/infrastructure/team/gitlab-dedicated/#gitlab-group-hierarchy)
 - [Switchboard issue board](https://gitlab.com/groups/gitlab-com/gl-infra/gitlab-dedicated/-/boards/4498935?label_name[]=component%3A%3ASwitchboard) tracks all of the team's current work
-- We are in the process of adapting to use the [Product Development Flow](https://about.gitlab.com/handbook/product-development-flow/)
+- We are in the process of adapting to use the [Product Development Flow](/handbook/product-development-flow/)
 
 - Slack channels
   - For Switchboard specific questions, you can find us in [#g_dedicated-switchboard-team](https://gitlab.slack.com/archives/C04DG7DR1LG)
@@ -47,7 +47,7 @@ To engage with the Switchboard team:
 
 ### Meetings and Scheduled Calls
 
-Our preference is to work asynchronously, within our project issue tracker as described in [the project management section](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/#project-management).
+Our preference is to work asynchronously, within our project issue tracker as described in [the project management section](/handbook/engineering/infrastructure/team/gitlab-dedicated/#project-management).
 
 The team does have a set of regular synchronous calls:
 
@@ -88,7 +88,7 @@ Quarterly planning is owned and driven by the Switchboard EM and PM.
 #### Epic Refinement
 
 Switchboard team process to refine epics:
-1. Identify a [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) for the epic
+1. Identify a [DRI](/handbook/people-group/directly-responsible-individuals/) for the epic
    - Team members can volunteer or the EM may ask team ask specific team members to act as DRI
 1. Identify any missing requirements
    - All team members ask questions in the comments of this issue to drive out any edge cases
@@ -118,7 +118,8 @@ Switchboard team process to refine issues:
 #### Issue & Epic tracking
 1. Engineers use Progress Threads to share progress in an async fashion
 1. At the beginning of the Switchboard Sync the team will check in on epics labelled ~"workflow-infra::In Progress" or ~"workflow-infra::Triage" to ensure due dates are appropriate and highlight any blockers
-1. Epic DRIs update the status in the Epic Description every Wednesday in preparation for the Grand Review
+1. Epic DRIs update the status in the Epic Description every Wednesday in preparation for the [Grand Review](https://handbook.gitlab.com/handbook/engineering/infrastructure/platforms/project-management/#projects-are-reviewed-weekly-in-the-grand-review)
+1. Epic DRIs review the due date weekly. The epic status update should include the DRI's confidence level in the due date and any risks to delivery
 
 #### Picking up work / What to work on next
 
@@ -139,26 +140,26 @@ Switchboard team process to refine issues:
 
 #### Switchboard Demos
 
-A demo enables a team member to share progress or the final output of an issue or epic. The focus is on sharing information, not creating an oscar winning documentary, so as a team we use the [boring solution](https://handbook.gitlab.com/handbook/values/#boring-solutions) of either a screen recording, a recorded Zoom meeting or Loom. A link to the recording is added to the epic description.
+A demo enables a team member to share progress or the final output of an issue or epic. The focus is on sharing information, not creating an oscar winning documentary, so as a team we use the [boring solution](/handbook/values/#boring-solutions) of either a screen recording, a recorded Zoom meeting or Loom. A link to the recording is added to the epic description.
 
-The epic [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) is responsible for identifying at least one demo that will be delivered with the epic when the epic is being kicked off. For example _When the functionality x is delivered (or issue y is Done) we will demo functionality x_.
+The epic [DRI](/handbook/people-group/directly-responsible-individuals/) is responsible for identifying at least one demo that will be delivered with the epic when the epic is being kicked off. For example _When the functionality x is delivered (or issue y is Done) we will demo functionality x_.
  Team members are encouraged to time demos to be delivered shortly before the fortnightly Switchboard Team Syncs whenever possible so that any synchronous Q&A can happen during already reserved time.
 Team members may choose to create additional demos to share progress or delivery milestones.
 
 ### Merge Request Review Guidelines
 
 We specifically adhere to the [GitLab Code Review Guidelines](#gitlab-code-review-guidelines) and follow
-the [Dedicated group principles](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/#merge-requests) when requesting merge request reviews.
+the [Dedicated group principles](/handbook/engineering/infrastructure/team/gitlab-dedicated/#merge-requests) when requesting merge request reviews.
 
 #### Merge request review process
 
 As the Switchboard team is currently small, we use an 'Approve and Merge' approach:
 
-1. When you're ready to have your merge request reviewed, select a [Switchboard reviewer](https://gitlab.com/groups/gitlab-dedicated/switchboard/reviewers/-/group_members).
+1. When you're ready to have your merge request reviewed, select one or more [Switchboard reviewers](https://gitlab.com/groups/gitlab-dedicated/switchboard/reviewers/-/group_members).
    * If you're not certain about who to choose, you can use the [reviewer roulette](#reviewer-roulette) to randomly select a reviewer.
    * If the issue is labelled `technical writing` add the Switchboard technical writer as a reviewer
-1. The reviewer will perform a review based on [reviewing a merge request guidelines](https://docs.gitlab.com/ee/development/code_review.html#reviewing-a-merge-request).
-1. If satisfied, the reviewer will approve.
+1. Reviewers will perform a review based on [reviewing a merge request guidelines](https://docs.gitlab.com/ee/development/code_review.html#reviewing-a-merge-request).
+1. If satisfied, a reviewer will approve and merge unless other reviewers have questions or suggestions that are not addressed.
 1. If the merge request contains the required approvals, the reviewer will trigger a pipeline and set auto-merge.
    * If the reviewer does not have merge permission, they should seek out a maintainer for merging.
 

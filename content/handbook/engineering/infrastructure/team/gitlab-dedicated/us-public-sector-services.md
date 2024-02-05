@@ -98,8 +98,8 @@ Each epic has a single DRI who is responsible for delivering the project. DRIs f
 The DRI needs to:
 
 1. Work with others to move issues through the boards
-2. Ensure epic meets criteria outlined in [Epic Structure](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/#epic-structure)
-3. Provide updates on DRI's epic in epic description according to process outlined in [Status Update Process](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/#Status-Update-Process) below.
+2. Ensure epic meets criteria outlined in [Epic Structure](/handbook/engineering/infrastructure/team/gitlab-dedicated/#epic-structure)
+3. Provide updates on DRI's epic in epic description according to process outlined in [Status Update Process](/handbook/engineering/infrastructure/team/gitlab-dedicated/#Status-Update-Process) below.
 
 #### Epic structure
 
@@ -134,7 +134,7 @@ Labels are described in the [epic label section](#epic-labels).
 
 ### Execution
 
-The team operates in a kanban fashion. Issues are prioritized in the kanban board and self-assigned. We leverage scoped [worfklow labels](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/#workflow-labels) to track different stage of work.
+The team operates in a kanban fashion. Issues are prioritized in the kanban board and self-assigned. We leverage scoped [worfklow labels](/handbook/engineering/infrastructure/team/gitlab-dedicated/#workflow-labels) to track different stage of work.
 
 ### Status Updates
 
@@ -152,7 +152,7 @@ Both Engineering Cross-Functional DRIs should provide weekly updates for the DRI
          - **Progress since last update** - Changes deployed to production, unblocked blockers, any other progress achieved.
          - **Risk and Confidence** - Any new blockers identified or existing blockers that persist? Any other challenges now or in the near future? How do these blockers and/or challenges affect our confidence of completing by scheduled due date from [Phase timeline](https://internal.gitlab.com/handbook/engineering/horse/)?
          - **Mitigations** -  What is required to overcome challenges or blockers identified?  Should this be escalated to other team members, teams, executives, or domain experts?
-    - **Update Workflow and Health label** - After each status update, the Workflow label and Health label should be updated. See [Epic labels criteria](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/#workflow-labels)
+    - **Update Workflow and Health label** - After each status update, the Workflow label and Health label should be updated. See [Epic labels criteria](/handbook/engineering/infrastructure/team/gitlab-dedicated/#workflow-labels)
 
 2. **Top-Level Epic Status Update** [automation synthesizes updates from status section](/handbook/engineering/infrastructure/team/gitlab-dedicated/#status-update-automation) from description of active epics to provide initiative status in the status section in the description of the top-level initiative Epic.
 
@@ -170,4 +170,4 @@ If no update has been provided in an epic or issue for over a week, the issue wi
 
 #### Reporting
 
-We provide reports on status of GitLab Dedicated to meet [Top Cross-Functional Initiative requirements](https://about.gitlab.com/company/top-cross-functional-initiatives/#cross-functional-initiative-dris).
+We provide reports on status of GitLab Dedicated to meet [Top Cross-Functional Initiative requirements](/handbook/company/top-cross-functional-initiatives/#cross-functional-initiative-dris).

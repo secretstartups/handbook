@@ -42,7 +42,7 @@ The GitLab marketing site, or simply the "GitLab Website" refers to all of the c
 - The GitLab.com product: `gitlab.com`
 - The Handbook: `about.gitlab.com/handbook`
 
-See [Where should content go?](https://about.gitlab.com/handbook/git-page-update/#where-should-content-go) to learn which web property is the most appropriate place to put different types of content. To learn what section of the website different content belongs see [definitions](#definitions).
+See [Where should content go?](/handbook/editing-handbook/#where-should-content-go) to learn which web property is the most appropriate place to put different types of content. To learn what section of the website different content belongs see [definitions](#definitions).
 
 Known Issue: There is an [ongoing issue](https://gitlab.com/gitlab-com/Product/-/issues/1869) to further clarify the DRI(s) for various parts of the www-gitlab-com repo and project, and this is a [Q2 FY22 OKR for Inbound Marketing](https://gitlab.com/groups/gitlab-com/marketing/inbound-marketing/-/epics/332#note_602431848)
 
@@ -211,7 +211,7 @@ When adding an image to a webpage, be sure that you optimize the image first.
 
 These two files power various parts of the website including the [homepage](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/sites/uncategorized/source/includes/home/sdlc.html.haml), [product pages](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/product/index.html.haml), and [product categories handbook](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/includes/product/_categories.erb).
 
-They are also used by the automated triage operation ["Stage and group labels inference from category labels"](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/triage-operations/).
+They are also used by the automated triage operation ["Stage and group labels inference from category labels"](/handbook/engineering/infrastructure/engineering-productivity/triage-operations/).
 
 #### Stage attributes
 
@@ -293,7 +293,7 @@ This attribute allows to override that.
 For instance, the `gitlab-org` label for the `Kanban Boards`
 category is [`Category:Issue Boards`](https://gitlab.com/groups/gitlab-org/-/labels?utf8=%E2%9C%93&subscribed=&search=Category%3AIssue+Boards).
 - `feature_labels`: A list of all the feature labels that are associated with this category.
-This list is used in the automated triage operation ["Stage and group labels inference from category labels"](https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/triage-operations/).
+This list is used in the automated triage operation ["Stage and group labels inference from category labels"](/handbook/engineering/infrastructure/engineering-productivity/triage-operations/).
 - `marketing_page` (optional): the path of marketing page for the category. If you include a `body` section, then a marketing page will be auto-generated at `/product/${lowercase-category-name}`
 - `documentation` (optional): the URL of the docs page for the category, required if the category maturity is minimal or above.
 - `direction` (required): the URL of the category direction page. Optionally could be the URL of an issue, epic, or issue label search query if a direction page has not yet been created.
@@ -351,7 +351,7 @@ Any change to a Stage or Group, or a significant change to a Category, is a majo
 
 Due to their impact, executive approval for major changes is required in addition to the PMs, PMMs, and EMs responsible. Follow the approval process defined on the [categories page](/handbook/product/categories/#changes).
 
-After merging, changes to feature categories will trickle down into [error budgets](https://about.gitlab.com/handbook/engineering/error-budgets#how-to-change-error-budget-attribution) at the start of next month when the [Scalability group](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability) gets an automated issue [like this one](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/2040). Someone from the [Projections team](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/projections.html) will change the ownership in the application, and update error budgets accordingly. As a product manager, nothing more needs to be done. The Projections team might reach out on the original merge request for clarification if needed.
+After merging, changes to feature categories will trickle down into [error budgets](/handbook/engineering/error-budgets#how-to-change-error-budget-attribution) at the start of next month when the [Scalability group](/handbook/engineering/infrastructure/team/scalability) gets an automated issue [like this one](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/2040). Someone from the [Projections team](/handbook/engineering/infrastructure/team/scalability/projections.html) will change the ownership in the application, and update error budgets accordingly. As a product manager, nothing more needs to be done. The Projections team might reach out on the original merge request for clarification if needed.
 
 **Minor changes**
 
@@ -369,7 +369,7 @@ To update the responsible person for a role, follow these steps:
 
 Here's an [example Merge Request](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/22765).
 
-If the person is not yet listed on the [team page](/handbook/company/team/), please follow [these instructions](https://about.gitlab.com/handbook/git-page-update/#12-add-yourself-to-the-team-page) to add them.
+If the person is not yet listed on the [team page](/handbook/company/team/), please follow [these instructions](/handbook/editing-handbook/#add-yourself-to-the-team-page) to add them.
 
 ### Adding features to webpages
 

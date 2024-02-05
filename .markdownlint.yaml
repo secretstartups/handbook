@@ -22,3 +22,5 @@ ul-indent: false
 ul-style:
   style: dash
 fix: false
+table-column-count: false
+table-pipe-style: false

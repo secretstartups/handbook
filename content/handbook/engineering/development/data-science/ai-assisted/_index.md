@@ -28,18 +28,18 @@ The following people are permanent members of the AI Assisted Group:
 
 | Who | Role |
 | --- | --- |
-| [Alexander Chueshev](https://about.gitlab.com/company/team/#achueshev) | Senior Backend Engineer |
-| [Bruno Cardoso](https://about.gitlab.com/company/team/#bcardoso) | Senior Backend Engineer |
-| [Hongtao Yang](https://about.gitlab.com/company/team/#hongtaoyang) | Backend Engineer |
-| [Andras Herczeg](https://about.gitlab.com/company/team/#andrasherczeg) | Backend Engineer |
-| [Stephan Rayner](https://about.gitlab.com/company/team/#srayner) | Senior Backend Engineer |
-| [Alper Akgun](https://about.gitlab.com/company/team/#a_akgun) | Staff Fullstack Engineer |
-| [Tan Le](https://about.gitlab.com/company/team/#tle_gitlab) | Senior Fullstack engineer |
-| [Dylan Bernardi](https://about.gitlab.com/company/team) | Intern Backend Engineer |
-| [Monmayuri Ray](https://about.gitlab.com/company/team/#mon) | Engineering Manager |
-| [Neha Khalwadekar](https://about.gitlab.com/company/team/#nkhalwadekar) | Product Manager |
-| [Katie Macoy](https://about.gitlab.com/company/team/#kmacoy) | Senior Product Designer |
-| [Taylor McCaslin](https://about.gitlab.com/company/team/#tmccaslin) | Group Product Manager |
+| [Alexander Chueshev](/handbook/company/team/#achueshev) | Senior Backend Engineer |
+| [Bruno Cardoso](/handbook/company/team/#bcardoso) | Senior Backend Engineer |
+| [Hongtao Yang](/handbook/company/team/#hongtaoyang) | Backend Engineer |
+| [Andras Herczeg](/handbook/company/team/#andrasherczeg) | Backend Engineer |
+| [Stephan Rayner](/handbook/company/team/#srayner) | Senior Backend Engineer |
+| [Alper Akgun](/handbook/company/team/#a_akgun) | Staff Fullstack Engineer |
+| [Tan Le](/handbook/company/team/#tle_gitlab) | Senior Fullstack engineer |
+| [Dylan Bernardi](/handbook/company/team) | Intern Backend Engineer |
+| [Monmayuri Ray](/handbook/company/team/#mon) | Engineering Manager |
+| [Neha Khalwadekar](/handbook/company/team/#nkhalwadekar) | Product Manager |
+| [Katie Macoy](/handbook/company/team/#kmacoy) | Senior Product Designer |
+| [Taylor McCaslin](/handbook/company/team/#tmccaslin) | Group Product Manager |
 
 ## How to contact us
 
@@ -51,7 +51,7 @@ The following people are permanent members of the AI Assisted Group:
 Team responsibilities include:
 
 - Creating, testing, and tuning ML models
-- Creating PoCs for AI features, all in accordance with the product roadmap and alignment between the AI Assisted and AI Framework teams. The PoC proves the concept. It doesn't need to implement non-functional requirements such as performance, availability, maintainability, observability, etc.  A PoC may also be written a different language than what is implemented in production (Python to Ruby or vice-versa).  This is similar to how [the vulnerability research and secure development teams operate](https://about.gitlab.com/handbook/engineering/development/sec/secure/vulnerability-research/#how-we-work).
+- Creating PoCs for AI features, all in accordance with the product roadmap and alignment between the AI Assisted and AI Framework teams. The PoC proves the concept. It doesn't need to implement non-functional requirements such as performance, availability, maintainability, observability, etc.  A PoC may also be written a different language than what is implemented in production (Python to Ruby or vice-versa).  This is similar to how [the vulnerability research and secure development teams operate](/handbook/engineering/development/sec/secure/vulnerability-research/#how-we-work).
 - Turning these PoCs over to the relevant product group (such as AI Framework formerly called AI Enablement) to be productized and supported long-term. This is a similar to how the [vulnerability research team](/handbook/engineering/development/sec/secure/vulnerability-research/) operates (examples of the transition process followed for [LicenseDB](https://docs.google.com/document/d/1NQwdmgngmFLS-0iA5DhywKf_8H7w0oJQfmWRPyKG5i0/edit#heading=h.xr5pzhtyxvhi) and [VET](https://docs.google.com/presentation/d/1VAtshsRQaF9PRSNGL-A9uDQUm38k7tBxDrhRqGrWqzc/edit#slide=id.p)).
 
 ## Short term priorities

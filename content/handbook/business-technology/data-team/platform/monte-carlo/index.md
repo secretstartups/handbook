@@ -1,25 +1,23 @@
 ---
+title: "Monte Carlo Guide"
+description: "Monte Carlo (MC) is our Data Observability tool and helps us deliver better results more efficiently."
+---
+
+---
 
 title: "Monte Carlo Guide"
 description: "Monte Carlo (MC) is our Data Observability tool and helps us deliver better results more efficiently."
 ---
 
 
-
-
-
-
-
-
-
 ---
 
-<<<<<<< HEAD
+
 ## What and why
 
 [Monte Carlo](https://www.montecarlodata.com/) (MC) is our [Data Observability](https://www.montecarlodata.com/blog-what-is-data-observability/) tool and helps us **deliver better results more efficiently**.
 
-The Data Team default for observing the status of the data is using Monte Carlo. Creating any tests (called monitors in MonteCarlo) are done via the UI of Monte Carlo and reported according to the [notification strategy](https://internal.gitlab.com/handbook/enterprise-data/platform/monte-carlo/#notification-strategy). On another iteration in the near future we plan to implement [Monitors as Code](https://docs.getmontecarlo.com/docs/monitors-as-code) and these tests will also be version controlled. Currently dbt still used for existing tests, there is no roadmap in place to migrate these to Monte Carlo.
+The Data Team default for observing the status of the data is using Monte Carlo. Creating any tests (called monitors in MonteCarlo) are done via the UI of Monte Carlo and reported according to the [notification strategy](/handbook/business-technology/data-team/platform/monte-carlo/#notification-strategy). On another iteration in the near future we plan to implement [Monitors as Code](https://docs.getmontecarlo.com/docs/monitors-as-code) and these tests will also be version controlled. Currently dbt still used for existing tests, there is no roadmap in place to migrate these to Monte Carlo.
 
 ## How We Operate Monte Carlo
 
@@ -49,7 +47,7 @@ Login to Monte Carlo is done via Okta. Go to https://getmontecarlo.com/signin.
 The following screen appears upon login and after providing your email and clicking "Sign in with SSO", you should be redirected to your Okta login.
 Please note, you need to login via SSO and not via username/password.
 
-![image](/handbook/business-technology/data-team/platform/monte-carlo/screenshot-1.png)
+![image](/handbook/content/handbook/business-technology/data-team/platform/monte-carlo/screenshot-1.png)
 
 A runbook of how everything is technically set up can be found in the [Monte Carlo Runbook](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/runbooks/-/wikis/IT-Runbooks/App-Setup/Monte-Carlo:-How-It's-Built).
 
@@ -61,7 +59,7 @@ For that you should submit an AR (similar ARs: [Example AR 1]](https://gitlab.co
 
 Once logged in, you should be able to see the Monte Carlo Monitors dashboard with details on the objects being monitored and several custom monitors that have already been set up.
 
-![image](/handbook/business-technology/data-team/platform/monte-carlo/screenshot-2.png)
+![image](/handbook/content/handbook/business-technology/data-team/platform/monte-carlo/screenshot-2.png)
 
 You can create a new monitor or view existing monitor details, such as definition and schedule and any anomalies related to it.
 Alternatively, you can also list all the incidents by clicking on the Incidents menu item on the top menu bar, you can search for a specific model by querying the Catalog view or check Pipelines for a detailed lineage information on how the data flows from the source to the production model.
@@ -113,6 +111,10 @@ The same script has to be run as many times as we have databases to monitor (in 
 Please note this is an exception to our usual permission-handling procedure, where we rely on Permifrost, because observability permissions are an edge-case for Permifrost and not yet supported by the tool.
 There is an ongoing [feature request](https://gitlab.com/gitlab-data/permifrost/-/issues/120) on Permifrost for adding granularity to the way permissions are set, but no solution has been agreed on yet.
 
+#### Muting Monte Carlo alerts for sandbox schema's
+
+Sandbox environments are generally created for the purpose of testing. We normally don't take any actions on them even if any alerts come through in our triage slack channels. For this reason, with the confirmation from stakeholders we mute notifications from within monte carlo for sandbox schemas to avoid getting any alerts from them. To mute a schema, head over to [mute-datasets page](https://getmontecarlo.com/settings/muted-data/datasets).
+
 ## Notification strategy
 
 All incidents are reported in MonteCarlo incident portal. For triage purposes the most important (which requires action) are routed towards Slack. The following matrix shows per data area which type of monitors are routed and towards which channel:
@@ -155,7 +157,7 @@ We have the availability to use [domains](https://vimeo.com/646676972) in our Mo
 
 In Monte Carlo UI in the top right corner there is a dropdown box available which you can select a particular domain or all domains.
 
-![image](/handbook/business-technology/data-team/platform/monte-carlo/Screenshot_MC_domain.png)
+![image](/handbook/content/handbook/business-technology/data-team/platform/monte-carlo/Screenshot_MC_domain.png)
 
 ## BI Integrations
 
@@ -166,7 +168,6 @@ It is now possible to check table and field lineage from our raw models to Table
 
 The Sisense integration and Tableau integration coexist on Monte Carlo and all related Sisense charts as well as Tableau objects can be seen on the lineage charts.
 
-=======
->>>>>>> 2763f4061184f51b605248e30b706cb9fd7b3330
-## Overview
-**Monte Carlo Guide** pages are available in our [Internal GitLab Handbook](https://internal.gitlab.com/handbook/enterprise-data/platform/monte-carlo). 
+## Internal Monte Carlo handbook page
+
+Additional internal information is available in our [Internal GitLab Handbook](https://internal.gitlab.com/handbook/enterprise-data/platform/monte-carlo).

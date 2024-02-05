@@ -13,37 +13,25 @@ The Create:Editor Extensions Group is responsible for all aspects of the product
 
 ### Group members
 
-The following people are permanent members of the Create:Editor Extensions Group:
-
-<!-- TODO: make this list dynamic based on the `borrow` field in yaml files -->
 {{% team-by-departments "Create:Editor Extensions" %}}
-
-The following people are temporary members ([borrow process](/handbook/product/product-processes/#borrow)) of the Create:Editor Extensions Group, each one working on a specific area:
-
-- Language Server
-  - [Olena HK.](https://about.gitlab.com/company/team/#ohoral)
-- VS Code extension
-  - [Sri Rang](https://about.gitlab.com/company/team/#sri19)
 
 ### Stable counterparts
 
-<!-- TODO: replace this list with a call to stable_counterparts(...) once titles have been updated -->
-
 The following people are [stable counterparts](/handbook/leadership/#stable-counterparts) of the Create:Editor Extensions Group:
 
-{{< group-by-slugs kai-armstrong amyqualls jay_mccure >}}
+{{< group-by-slugs dashaadu amyqualls jay_mccure >}}
 
 ### Product categories
 
 The Editor Extensions group is responsible for the following [product categories](/handbook/product/categories/#editor-extensions-group):
 
-- [Editor Extensions](/direction/create/editor_extensions/)
+- [Editor Extensions](https://about.gitlab.com/direction/create/editor_extensions/)
 
 ## Communication
 
 We have a sync meeting as a team once per week.
 Recordings are uploaded to the [Editor Extensions Category](https://www.youtube.com/playlist?list=PL05JrBw4t0KoC0pFfuNOAQjKxe4_ypFKc) playlist on GitLab Unfiltered.
-When the discussion is finished, we stop the recording and stay on the call for the remaining time to have a group [coffee chat](https://handbook.gitlab.com/handbook/company/culture/all-remote/informal-communication/#coffee-chats).
+When the discussion is finished, we stop the recording and stay on the call for the remaining time to have a group [coffee chat](/handbook/company/culture/all-remote/informal-communication/#coffee-chats).
 
 Additionally to our main team's slack channels, each extension/project we work on has its own slack channel:
 
@@ -107,6 +95,27 @@ to track the relative [priority of issues](/handbook/product/product-processes/#
 Separately, the technical writer for this group also triages open issues for potential documentation and UI text changes,
 and follows the Technical Writing [triage process](/handbook/product/ux/technical-writing/workflow/#documentation-feedback-and-improvements). After review, each issue receives the `~tw::triaged` label.
 
+### Estimates
+
+We use three weights to give a rough estimate of the issue's complexity. The weight represents a time estimate:
+
+- `1` - day or two of effort
+- `2` - week of effort
+- `3` - week and a half of effort
+
+Everything above weight `3` should be a spike that will result in one or more issues with estimated weight.
+
+### Development Workflow
+
+The work in progress is captured on our [Workflow Board](https://gitlab.com/groups/gitlab-org/-/boards/7248909?milestone_title=16.8&label_name%5B%5D=group%3A%3Aeditor+extensions).
+For issues to appear on this board, they must have `~"group::editor extensions"` label and current milestone.
+
+We use the following subset of the `workflow` labels to indicate the state of the issue:
+
+- `~"workflow::ready for development"` - the issue has been described, estimated and scheduled, and it's ready to be picked up and worked on.
+- `~"workflow::in dev"` - the issue has an assigned person who started implementing it.
+- `~"workflow::in review"` - the spike/implementation is finished, and someone needs to review the spike result or the last MR (the last MR because if there are more MRs to implement, only the last one should result in the change of the workflow label).
+
 ### Temporary silos
 
 Our team owns several projects, written in different languages (Typescript, Kotlin, C#, Lua) and targeting different platforms.
@@ -116,7 +125,7 @@ This increases speed of development as we aim to reach GA for Code Suggestions, 
 
 This intentional siloing is a temporary measure.
 While we do need to cultivate deep expertise in each project,
-the mid-term vision for the team is to provide opportunities for [everyone to contribute](https://handbook.gitlab.com/handbook/company/mission/) across each project.
+the mid-term vision for the team is to provide opportunities for [everyone to contribute](/handbook/company/mission/) across each project.
 This will increase collaboration, team resiliency, and provide opportunities for growth.
 
 ## Knowledge sharing
@@ -139,7 +148,7 @@ Each extension defines an array of supported languages.
 
 ## Hiring
 
-Check out our [jobs page](/jobs/) for current openings.
+Check out our [jobs page](https://about.gitlab.com/jobs/) for current openings.
 
 ## Engineering metrics
 

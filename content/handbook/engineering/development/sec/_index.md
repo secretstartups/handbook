@@ -153,19 +153,19 @@ The following teams comprise the sub-department:
   - Dynamic Analysis group - [handbook](/handbook/engineering/development/sec/secure/dynamic-analysis/)
   - Static Analysis group - [handbook](/handbook/engineering/development/sec/secure/static-analysis/)
   - Vulnerability Research group - [handbook](/handbook/engineering/development/sec/secure/vulnerability-research/)
-  - API Security - [handbook](https://about.gitlab.com/handbook/engineering/development/sec/secure/api-security)
+  - API Security - [handbook](/handbook/engineering/development/sec/secure/api-security)
 
 It is important to delineate who the EM and PM DRIs are for every functionality, especially where this may not be obvious. This is documented on a dedicated [delineation page](delineate-sec.html).
 
 ## Product Direction
 
-Product direction can be found on the [Sec Section Product Direction](/direction/security/) handbook page.
+Product direction can be found on the [Sec Section Product Direction](https://about.gitlab.com/direction/security/) handbook page.
 
 ## Project Setup
 
 Keeping our projects organized is very important for productivity and maintainability.
 
-- To setup a new project we follow the [company-wide Engineering guidelines](https://about.gitlab.com/handbook/engineering/gitlab-repositories/).
+- To setup a new project we follow the [company-wide Engineering guidelines](/handbook/engineering/gitlab-repositories/).
 - Sec projects should be organized into one of
   - [https://gitlab.com/gitlab-org/secure](https://gitlab.com/gitlab-org/secure)
   - [https://gitlab.com/gitlab-org/govern](https://gitlab.com/gitlab-org/govern)
@@ -242,7 +242,7 @@ The members of each google group consists of stable counterparts and the correct
 
 ## Staying Informed and Informing Team Members
 
-- [Sec Week In Review Google Document](https://drive.google.com/drive/search?q=%22Sec%20Section%20Week%20In%20Review%22) - is an asynchronous weekly document of notables things happening in Sec. The document is inspired by the [Engineering Week In Review](https://about.gitlab.com/handbook/engineering/#communication).
+- [Sec Week In Review Google Document](https://drive.google.com/drive/search?q=%22Sec%20Section%20Week%20In%20Review%22) - is an asynchronous weekly document of notables things happening in Sec. The document is inspired by the [Engineering Week In Review](/handbook/engineering/#communication).
 - Slack channels #s_secure and #s_govern are informative since they are all part of Sec Section.
 
 ## Planning in the Section
@@ -351,7 +351,7 @@ There may be a need for more than one team member per group, and also for team m
 
 #### Page Performance
 
-Our team monitors [LCP](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#largest-contentful-paint-lcp) (Largest Contentful Paint) to ensure performance is below our target (currently 2500ms).
+Our team monitors [LCP](/handbook/engineering/development/performance-indicators/#largest-contentful-paint-lcp) (Largest Contentful Paint) to ensure performance is below our target (currently 2500ms).
 
 [LCP Dashboard for Secure owned pages](https://dashboards.gitlab.net/d/sftijGFMz/sitespeed-lcp-leaderboard?from=now-90d&orgId=1&to=now&refresh=30s&var-namespace=sitespeed_io&var-path=desktop&var-testname=gitlab&var-domains=gitlab_com&var-pages=API_Fuzzing_Config_UI&var-pages=DAST_Profiles&var-pages=On_Demand_Scans&var-pages=SAST_Config_UI&var-pages=Secure_Dependency_List&var-pages=Secure_License_Compliance&var-pages=Secure_Security_Configuration&var-pages=DAST_Config_UI&var-browser=chrome&var-function=median&var-connectivity=cable)
 
@@ -373,7 +373,7 @@ The Sec engineering teams do not provide support directly to customers. Instead 
 
 #### Communicating changes that may break tests
 
-Ping the DRI for quality assigned to Secure. You can find the person on the [team page](https://about.gitlab.com/handbook/engineering/development/sec/secure/#team-members). If they are unavailable, then #quality on slack or the [triage DRI](https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/oncall-rotation/#schedule) dependent on severity.
+Ping the DRI for quality assigned to Secure. You can find the person on the [team page](/handbook/engineering/development/sec/secure/#team-members). If they are unavailable, then #quality on slack or the [triage DRI](/handbook/engineering/infrastructure/test-platform/oncall-rotation/#schedule) dependent on severity.
 
 ## Section Retrospectives
 
@@ -388,7 +388,7 @@ In addition to our group retrospectives, we facilitate an async Sec Section leve
 
 #### DRI Responsibilities
 
-The [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) for Section-wide retrospectives will be the Senior Engineering Manager. The SEM will find a volunteer if it is needed on specific milestones. The following tasks are executed each milestone:
+The [DRI](/handbook/people-group/directly-responsible-individuals/) for Section-wide retrospectives will be the Senior Engineering Manager. The SEM will find a volunteer if it is needed on specific milestones. The following tasks are executed each milestone:
 
 
 1. Prior to the async section retrospective, review bubble-up topics and identify 2-3 themes to support async discussion topics.

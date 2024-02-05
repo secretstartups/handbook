@@ -51,7 +51,7 @@ Established Projects are those that have proven their value, are mature, and are
     - In the General settings, find and expand the "Badges" section.
     - Enter "Maintainers" as the badge name.
     - Provide the link to the team page in the handbook. This should be the team-specific page that lists the team Slack handle, team members, and board details.
-    - Use a custom badge image URL structured as suggested: `https://img.shields.io/badge/maintained_by-{{team_name}}-blue`. Replace `{{team_name}}` with the appropriate test-platform [team name](https://handbook.gitlab.com/handbook/engineering/infrastructure/test-platform/#engage-with-us).
+    - Use a custom badge image URL structured as suggested: `https://img.shields.io/badge/maintained_by-{{team_name}}-blue`. Replace `{{team_name}}` with the appropriate test-platform [team name](/handbook/engineering/infrastructure/test-platform/#engage-with-us).
     - After filling in the details, select "Add badge" to create the maintainer badge.
     - If there are multiple maintainers, create separate maintainer badges 
   - Adhere to [GitLab's code of conduct and privacy policies](https://about.gitlab.com/community/contribute/code-of-conduct/).
@@ -65,7 +65,8 @@ Deprecation of a project is a significant decision and should be based on clear,
 The process of deprecating a project should be methodical and transparent to all stakeholders:
   - Conduct a thorough review of the project against the deprecation criteria.
   - Inform all stakeholders, including project maintainers, users, and dependent teams, about the decision to deprecate.
-  - For an established project, ensure all valuable data and documentation are securely [archived](https://docs.gitlab.com/ee/user/project/settings/migrate_projects.html#archive-a-project). Create a GitLab Issue to delete archival projects with a due date three months from the start of archiving.
+  - For an established project, ensure all valuable data and documentation are securely [archived](https://docs.gitlab.com/ee/user/project/settings/migrate_projects.html#archive-a-project).
+  - Move the archived project in the [test-platform-deprecated](https://gitlab.com/groups/gitlab-org/quality/test-platform-deprecated/-/archived) group.
   - Consider [deleting the project](https://docs.gitlab.com/ee/user/project/working_with_projects.html#delete-a-project) after a three-month window from the archival for established projects. Deletion can be performed immediately for personal and POC projects once the purpose is served.  
 
 ### Reviewers and maintainers
@@ -121,7 +122,7 @@ frequency that is right for you.
 
 Our sub-department's work can span over 10k+ issues hence as a result, we have specific team boards for the 3 teams in Test Platform Sub-department.
 
-### Test and Tools Infrastrcuture
+### Test and Tools Infrastructure
 
 [This board](https://gitlab.com/groups/gitlab-org/-/boards/425899) shows the current ownership of workload / issues related to test tooling and test infrastructure needs.
 

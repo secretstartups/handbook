@@ -17,7 +17,7 @@ Any GitLab team-member can triage issues. Keeping the number of un-triaged issue
 
 ## Partial Triage
 
-The [Engineering Productivity team](https://handbook.gitlab.com/handbook/engineering/quality/engineering-productivity/) own the issue triage process, but there is no capacity to manually triage issues without a group label at present.
+The [Engineering Productivity team](/handbook/engineering/quality/engineering-productivity/) own the issue triage process, but there is no capacity to manually triage issues without a group label at present.
 We rely on a combination of [self triage](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/c003f65c94ff55a6b43c0b5c8c8ac0173618c0a5/policies/stages/report/untriaged-issues.yml#L70) and [tanuki-stan](https://gitlab.com/gitlab-org/ml-ops/tanuki-stan) to ensure group labels are added, and issues are seen/triaged by the relevant group.
 
 ### Partial Triage checklist
@@ -38,7 +38,7 @@ We rely on a combination of [self triage](https://gitlab.com/gitlab-org/quality/
   - If ~"severity::1" or ~"severity::2": mention the PM/EM from the [group](#group-labels)
 - Assign a [group label](#group-labels).
   - If there is no suitable group label: assign a [stage ("devops") label](https://docs.gitlab.com/ee/development/labels/index.html#stage-labels).
-- Optionally tag relevant [domain experts](https://about.gitlab.com/company/team/structure/#expert).
+- Optionally tag relevant [domain experts](/handbook/company/structure/#expert).
 
 ## Complete Triage
 
@@ -87,13 +87,13 @@ Once you've determined a severity for an issue add a note that explains in summa
 
 | Type of `~"type::bug"` | `~"severity::1"`: Blocker | `~"severity::2"`: Critical | `~"severity::3"`: Major  | `~"severity::4"`: Low | Triage DRI |
 |----------------|--------------------------|---------------------------|-------------------------|----------------------|------------|
-| General bugs   | Broken feature with no workaround or any data-loss. | Broken feature with an unacceptably complex workaround. | Broken feature with a workaround. | Functionality is inconvenient. | [SET](https://about.gitlab.com/handbook/engineering/quality/#individual-contributors) or [QEM](https://about.gitlab.com/handbook/engineering/quality/#management-team) for that product group. |
+| General bugs   | Broken feature with no workaround or any data-loss. | Broken feature with an unacceptably complex workaround. | Broken feature with a workaround. | Functionality is inconvenient. | [SET](/handbook/engineering/quality/#individual-contributors), [QEM](/handbook/engineering/quality/#management-team), or [EM](/handbook/engineering/management/) for that product group. |
 | `~"bug::performance"` Response time <br> (API/Web/Git)[^1] | Above 9000ms to timing out | Between 2000ms and 9000ms | Between 1000ms and 2000ms | Between 200ms and 1000ms | [Enablement Quality Engineering team](/handbook/engineering/infrastructure/test-platform/self-managed-platform-team/) |
 | `~"bug::performance"` Browser Rendering <br> ([LCP](https://web.dev/lcp/))[^2] | Above 9000ms to timing out | Between 4000ms and 9000ms | Between 3000ms and 4000ms | Between 3000ms and 2500ms | [Enablement Quality Engineering team](/handbook/engineering/infrastructure/test-platform/self-managed-platform-team/) |
 | `~"bug::performance"` Browser Rendering <br> ([TBT](https://web.dev/tbt/))[^2] | Above 9000ms to timing out | Between 2000ms and 9000ms | Between 1000ms and 2000ms | Between 300ms and 1000ms | [Enablement Quality Engineering team](/handbook/engineering/infrastructure/test-platform/self-managed-platform-team/) |
 | `~UX` User experience problem [&sup3;](#ux) | "I can't figure this out." Users are blocked and/or likely to make risky errors due to poor usability, and are likely to ask for support. | "I can figure out why this is happening, but it's really painful to solve." Users are significantly delayed by the available workaround. | "This still works, but I have to make small changes to my process." Users are self sufficient in completing the task with the workaround, but may be somewhat delayed. |  "There is a small inconvenience or inconsistency." Usability isn't ideal or there is a small cosmetic issue. | [Product Designers](/handbook/product/ux/product-design/) of that Product group |
 | `~"bug::availability"` of GitLab SaaS | See [Availability section](#availability) | See [Availability section](#availability) | See [Availability section](#availability) | See [Availability section](#availability) | |
-| `~"bug::vulnerability"` Security Vulnerability | See [Security Prioritization](/handbook/security/#severity-and-priority-labels-on-security-issues) | See [Security Prioritization](/handbook/security/#severity-and-priority-labels-on-security-issues) | See [Security Prioritization](/handbook/security/#severity-and-priority-labels-on-security-issues) | See [Security Prioritization](/handbook/security/#severity-and-priority-labels-on-security-issues) | AppSec team |
+| `~"bug::vulnerability"` Security Vulnerability | See [Vulnerability Remediation SLAs](https://handbook.gitlab.com/handbook/security/threat-management/vulnerability-management/#remediation-slas) | See [Vulnerability Remediation SLAs](https://handbook.gitlab.com/handbook/security/threat-management/vulnerability-management/#remediation-slas) | See [Vulnerability Remediation SLAs](https://handbook.gitlab.com/handbook/security/threat-management/vulnerability-management/#remediation-slas) | See [Vulnerability Remediation SLAs](https://handbook.gitlab.com/handbook/security/threat-management/vulnerability-management/#remediation-slas) | AppSec team |
 | Global Search | See [Search Prioritization](/handbook/engineering/infrastructure/core-platform/data_stores/search/#severity-labels-for-search-issues-advanced-search-global-search) | See [Search Prioritization](/handbook/engineering/infrastructure/core-platform/data_stores/search/#severity-labels-for-search-issues-advanced-search-global-search) | See [Search Prioritization](/handbook/engineering/infrastructure/core-platform/data_stores/search/#severity-labels-for-search-issues-advanced-search-global-search) | See [Search Prioritization](/handbook/engineering/infrastructure/core-platform/data_stores/search/#severity-labels-for-search-issues-advanced-search-global-search) | |
 | `~test` Bugs blocking end-to-end test execution | See [Blocked tests section](#blocked-tests) | See [Blocked tests section](#blocked-tests) | See [Blocked tests section](#blocked-tests) | See [Blocked tests section](#blocked-tests) | [Test Platform Sub-Department](/handbook/engineering/infrastructure/test-platform/) |
 | `~GitLab.com Resource Saturation` Capacity planning warnings | Mean forecast shows Hard SLO breach within 3 months. | | | | Scalability Engineering Manager (who will hand over to EM that owns the resource) |
@@ -105,10 +105,10 @@ This indicates the expected timeline & urgency which is used to measure our SLO 
 
 | **Severity**   | Incident root cause analysis `~corrective action` SLO | `~"type::bug"` resolution SLO | `~"GitLab.com Resource Saturation"` resolution SLO | Security `~vulnerability` SLO |
 |----------------|---------|--------------------------------------------------------------------------------| ----|-----|
-| `~"severity::1"` | 1 week  | The current release + next available deployment to GitLab.com (within 30 days) | Within 2 months | See [Vulnerability Remediation SLAs](https://about.gitlab.com/handbook/security/threat-management/vulnerability-management/#remediation-slas) |
-| `~"severity::2"` | 30 days | The next release (60 days)                                                   |  | See [Vulnerability Remediation SLAs](https://about.gitlab.com/handbook/security/threat-management/vulnerability-management/#remediation-slas)  |
-| `~"severity::3"` | 60 days | Within the next 3 releases (approx one quarter or 90 days) |  | See [Vulnerability Remediation SLAs](https://about.gitlab.com/handbook/security/threat-management/vulnerability-management/#remediation-slas) |
-| `~"severity::4"` | 90 days | Anything outside the next 3 releases (more than one quarter or 120 days).    |  |  See [Vulnerability Remediation SLAs](https://about.gitlab.com/handbook/security/threat-management/vulnerability-management/#remediation-slas)  |
+| `~"severity::1"` | 1 week  | The current release + next available deployment to GitLab.com (within 30 days) | Within 2 months | See [Vulnerability Remediation SLAs](/handbook/security/threat-management/vulnerability-management/#remediation-slas) |
+| `~"severity::2"` | 30 days | The next release (60 days)                                                   |  | See [Vulnerability Remediation SLAs](/handbook/security/threat-management/vulnerability-management/#remediation-slas)  |
+| `~"severity::3"` | 60 days | Within the next 3 releases (approx one quarter or 90 days) |  | See [Vulnerability Remediation SLAs](/handbook/security/threat-management/vulnerability-management/#remediation-slas) |
+| `~"severity::4"` | 90 days | Anything outside the next 3 releases (more than one quarter or 120 days).    |  |  See [Vulnerability Remediation SLAs](/handbook/security/threat-management/vulnerability-management/#remediation-slas)  |
 
 #### Examples of severity levels
 
@@ -175,7 +175,7 @@ The merge request (MR) experience is the core of our product. Due to many teams 
 
 The overlapping is largely seen in the following areas: Merge Request Widgets, Mergeability Checks, MWPS and Merge Trains.
 
-As part of the analysis in the [Transient Bug working group](/company/team/structure/working-groups/transient-bugs/), we have discovered that the top most affected product areas are:
+As part of the analysis in the [Transient Bug working group](/handbook/company/working-groups/transient-bugs/), we have discovered that the top most affected product areas are:
 
 1. `create::code review`
 1. `verify::continuous integration`
@@ -227,7 +227,7 @@ We encourage performance improvements to be broken down. Improve where we can an
 ### UX
 
 #### SUS-impacting
-Some UX-related issues are identified as impacting our [System Usability Scale (SUS) score](/handbook/product/ux/performance-indicators/system-usability-scale/), which is a focus in our [three-year strategy](/company/strategy/#three-year-strategy). We identify SUS-impacting issues with at least one of the labels listed in the [Total open SUS-impacting issues by severity](https://about.gitlab.com/handbook/product/ux/performance-indicators/#total-open-sus-impacting-issues-by-severity) UX KPI. If one of these labels is applied, the tracking label `"~SUS::Impacting"` will automatically be added. These issues can have a severity label applied *with* or *without* an accompanying `~"type::bug"` label. For issues with `type::bug`, they follow the [severity](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity) and [SLOs](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity-slos) for `type::bug` issues. Issues without `type::bug` are without SLO.
+Some UX-related issues are identified as impacting our [System Usability Scale (SUS) score](/handbook/product/ux/performance-indicators/system-usability-scale/), which is a focus in our [three-year strategy](/handbook/company/strategy/#three-year-strategy). We identify SUS-impacting issues with at least one of the labels listed in the [Total open SUS-impacting issues by severity](/handbook/product/ux/performance-indicators/#total-open-sus-impacting-issues-by-severity) UX KPI. If one of these labels is applied, the tracking label `"~SUS::Impacting"` will automatically be added. These issues can have a severity label applied *with* or *without* an accompanying `~"type::bug"` label. For issues with `type::bug`, they follow the [severity](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity) and [SLOs](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity-slos) for `type::bug` issues. Issues without `type::bug` are without SLO.
 
 ##### SUS-Impacting non-`type::bug` Severity
 
@@ -267,7 +267,7 @@ In order to define an issue as a "transient bug," use the `~"bug::transient"` la
 
 ### Infradev Issues
 
-An issue may have an `infradev` label attached to it, which means it subscribes to a dedicated process to related to SaaS availability and reliability, as detailed in the [Infradev Engineering Workflow](https://about.gitlab.com/handbook/engineering/workflow/#infradev). These issues follow the established [severity SLOs for bugs](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity-slos).
+An issue may have an `infradev` label attached to it, which means it subscribes to a dedicated process to related to SaaS availability and reliability, as detailed in the [Infradev Engineering Workflow](/handbook/engineering/workflow/#infradev). These issues follow the established [severity SLOs for bugs](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity-slos).
 
 ### Limit Related Bugs
 
@@ -353,7 +353,7 @@ You can ask yourself these questions when picking a group:
 - Can you identify the affected file and use git blame to see who was the author of the last change?
 - Can you identify the Code Owners of the file?
 
-To help with initially narrowing down the list of possible groups, you may review the [Product Categories](https://about.gitlab.com/handbook/product/categories/) page or the [Stage Groups Ownership Index](https://gitlab-com.gitlab.io/gl-infra/platform/stage-groups-index/) page.
+To help with initially narrowing down the list of possible groups, you may review the [Product Categories](/handbook/product/categories/) page or the [Stage Groups Ownership Index](https://gitlab-com.gitlab.io/gl-infra/platform/stage-groups-index/) page.
 
 In any case, you should attempt to understand the nature of the issue by asking follow-up questions to the author if necessary, and then map the requirements to the group that best matches the skills or expertise required.
 
