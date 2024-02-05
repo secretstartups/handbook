@@ -33,7 +33,7 @@ description: "The Engineering Productivity team increases productivity of GitLab
 
 | Person | Role |
 | --- | --- |
-| {{< member-by-name "Greg Alfaro" >}} | [GDK Project Stable Counterpart](/handbook/engineering/quality/engineering-productivity/gdk/), Application Security |
+| {{< member-by-name "Greg Alfaro" >}} | [GDK Project Stable Counterpart](/handbook/engineering/infrastructure/engineering-productivity/gdk/), Application Security |
 
 ### Structure
 

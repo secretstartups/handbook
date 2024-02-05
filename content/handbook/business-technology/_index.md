@@ -138,7 +138,7 @@ As a SaaS company, our Engineering division also has an [infrastructure SRE team
 * [Customer Success Operations](/handbook/sales/field-operations/customer-success-operations/)
 * [Customer Support Operations](https://handbook.gitlab.com/handbook/support/readiness/operations/)
 * [Engineering Infrastructure (Reliability SREs)](/handbook/engineering/infrastructure/)
-* [Engineering Productivity](/handbook/engineering/quality/engineering-productivity/)
+* [Engineering Productivity](/handbook/engineering/infrastructure/engineering-productivity/)
 * [Engineering Security](/handbook/security/)
 * [Finance Systems](/handbook/business-technology/enterprise-applications/financeops/)
 * [Marketing Operations](/handbook/marketing/marketing-operations/)

@@ -17,7 +17,7 @@ Any GitLab team-member can triage issues. Keeping the number of un-triaged issue
 
 ## Partial Triage
 
-The [Engineering Productivity team](/handbook/engineering/quality/engineering-productivity/) own the issue triage process, but there is no capacity to manually triage issues without a group label at present.
+The [Engineering Productivity team](/handbook/engineering/infrastructure/engineering-productivity/) own the issue triage process, but there is no capacity to manually triage issues without a group label at present.
 We rely on a combination of [self triage](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/c003f65c94ff55a6b43c0b5c8c8ac0173618c0a5/policies/stages/report/untriaged-issues.yml#L70) and [tanuki-stan](https://gitlab.com/gitlab-org/ml-ops/tanuki-stan) to ensure group labels are added, and issues are seen/triaged by the relevant group.
 
 ### Partial Triage checklist

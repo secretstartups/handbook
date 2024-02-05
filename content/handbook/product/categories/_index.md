@@ -328,8 +328,8 @@ Maybe we should make our features easier to search to replace the section below.
 
 ### Other functionality in [Manage](/handbook/product/categories/#manage-stage) stage
 
-### Other functionality in [Engineering Productivity](/handbook/engineering/quality/engineering-productivity/)
-- [GDK](/handbook/engineering/quality/engineering-productivity/gdk/)
+### Other functionality in [Engineering Productivity](/handbook/engineering/infrastructure/engineering-productivity/)
+- [GDK](/handbook/engineering/infrastructure/engineering-productivity/gdk/)
 
 ### Other functionality in [Test Platform](/handbook/engineering/infrastructure/test-platform/)
 - [Reference Architectures](https://docs.gitlab.com/ee/administration/reference_architectures/)
