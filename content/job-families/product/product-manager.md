@@ -416,24 +416,24 @@ We're looking for a PM to ensure an excellent purchase, trial, upgrade, seat add
 - Familiarity with commercial best practices for no touch, sales assisted, and partner assisted transactions
 - Excellent communication skills at all levels, including e-group
 
-### Platforms - Project Horse
+### Platforms - GitLab Dedicated
 
-We're looking for a product manager to define, launch, and mature a new service.
+We're looking for a product manager to mature GitLab Dedicated, GitLab's Enterprise DevSecOps Platform as a single-tenant SaaS deployment. This role will involve defining a compeling roadmap that focuses on delivering customer results and growing Dedicated as a platform. You will will work closely with several engineering teams and with teams across GitLab to drive adoption of Dedicated.
 
 #### Requirements
 
-- Experience defining and launching new services, "zero to one"
 - Practical understanding of what it takes to run a SaaS service
 - Strong ability to work cross functionally, and through ambiguity
+- Excellent communication skills and the ability to translate complex requirements into actionable iterations
+- Experience working with customers in highly-regulated industries
 
 #### Responsibilities
 
-- Define, launch, and drive initial adoption of a new service
-- Work with Engineering and other teams to build a strong foundation (automated, re-usable, extensible)
-- Work closely with Go-to-market teams to ensure a successful launch
-- Refine pricing and minimum requirements of the service in partnership with the Pricing team
+- Drive the adoption of GitLab Dedicated
+- Collaborate with Engineering and other teams to build a strong foundation (automated, re-usable, extensible)
+- Collaborate closely with sales, professional services, support and go-to market teams to scale Dedicated
+- Refine pricing and packaging of Dedicated features
 - Manage P&L statement for the service
-- Work through ambiguity and document the process for future launches
 
 ### Platforms - Delivery & Scalability
 
