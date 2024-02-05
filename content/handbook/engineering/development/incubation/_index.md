@@ -167,7 +167,7 @@ When uploading a video to our YouTube channel, we should:
 
 The Incubation Engineering department commits to and tracks quarterly [Objectives and Key Results](/handbook/company/okrs/) (OKRs).
 
-See [the list of Incubation Engineering OKRs in GitLab](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?state=opened&label_name%5B%5D=Department%3A%3AIncubation%20Engineering).
+See [the list of Incubation Engineering OKRs in GitLab](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&label_name%5B%5D=Department%3A%3AExpansion&label_name%5B%5D=OKR&label_name%5B%5D=FY25-Q1&first_page_size=20).
 
 ## SEG Lifecycle
 
