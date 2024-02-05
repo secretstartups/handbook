@@ -202,7 +202,7 @@ The cut-line also serves as a healthy discussion between engineers and their man
 
 - [Dev & Analytics QE Team](https://gitlab.com/groups/gitlab-org/-/boards/425899)
 - [Ops QE Team](https://gitlab.com/groups/gitlab-org/-/boards/978348)
-- [Enablement QE Team](https://gitlab.com/groups/gitlab-org/-/boards/978354)
+- [Self Managed Platform Team](https://gitlab.com/groups/gitlab-org/-/boards/978354)
 - [Fulfillment QE Team](https://gitlab.com/groups/gitlab-org/-/boards/1512645)
 - [Sec & Data Science QE Team](https://gitlab.com/groups/gitlab-org/-/boards/1524991)
 - [Engineering Productivity Team](https://gitlab.com/groups/gitlab-org/-/boards/978615)
