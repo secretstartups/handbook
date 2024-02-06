@@ -285,7 +285,7 @@ When changing the cadence of a meeting, a team member can copy and paste this me
 
 If you are a team member who intends to decline a meeting, the [asynchronous communication](/handbook/company/culture/all-remote/asynchronous/#how-to-decline-meetings-in-favor-of-async) section of the handbook has some good suggestions for what to say when you decline.
 
-Meeting Cleanup Day is intentionally a few weeks after the start of the new fiscal year. The CoS to the CEO will launch this initiative annually a week in advance through posting in the `#company-fyi` Slack channel.
+Meeting Cleanup Day is intentionally a few weeks after the start of the new fiscal year. The CoST will launch this initiative annually a week in advance through posting (or asking the CoS to post) in the `#company-fyi` Slack channel. The CoST can use [the Slack template message](https://drive.google.com/drive/search?q=%22Meetup%20Cleaning%20Day%20Comms%20Template%22) (internal) located in the CoST shared drive as a basis for the announcement.
 
 ## Program managing [JiHu](https://about.gitlab.com/pricing/faq-jihu/)
 
