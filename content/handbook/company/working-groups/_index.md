@@ -100,7 +100,7 @@ The Working Group should follow the [GitLab norms for meetings](/handbook/compan
 1. Save time at the end of the meeting to take action items
 1. Turn action items into merge requests or issues
 
-Working Groups should follow the guidance outlined in [Building High Performing Teams](/handbook/leadership/build-high-performing-teams/).
+Working Groups should follow the guidance outlined in [Building High Performing Teams](/handbook/leadership/#strategies-to-build-high-performing-teams).
 
 ### Working Group meetings
 

@@ -415,7 +415,7 @@ To get started, feel free to make a copy of the [Team Health Survey Template](ht
 
 ##### Building High Performing Product Groups Learning Session
 
-The [Learning & Development](/handbook/people-group/learning-and-development/) team can facilitate a live learning session with product groups to [enable high performance](/handbook/leadership/build-high-performing-teams/). The [Drexler-Sibbet model](https://www.kaizenko.com/drexler-sibbet-team-performance-model/) is a framework to lead teams through stages towards high performance. During the live learning session, a L&D facilitator will collaborate with a product group to define activities to align team members on what needs to occur to achieve high performance. If interested in scheduling a session, contact `#learninganddevelopment` to learn more.
+The [Learning & Development](/handbook/people-group/learning-and-development/) team can facilitate a live learning session with product groups to [enable high performance](/handbook/leadership/#strategies-to-build-high-performing-teams). The [Drexler-Sibbet model](https://www.kaizenko.com/drexler-sibbet-team-performance-model/) is a framework to lead teams through stages towards high performance. During the live learning session, a L&D facilitator will collaborate with a product group to define activities to align team members on what needs to occur to achieve high performance. If interested in scheduling a session, contact `#learninganddevelopment` to learn more.
 
 #### Setting Product Group for Team Members
 
