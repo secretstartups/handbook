@@ -670,7 +670,7 @@ Below is some more information to help you get set up with your [Navan](https://
 
 This policy applies to all GitLab team members registering, or maintaining a registration for, GitLab-related Domain Names, including GitLab-related Domain Names registered or used for sandbox or testing purposes.
 
-Domain names are key assets in GitLab's intellectual property portfolio. Centralizing the registration and maintainance of domain names under the Infrastructure Shared Services group using GitLab's approved domain name registrar helps us track and protect these valuable assets. Please refer to the [Domain Names and DNS Records Handbook Page]({{< ref "/handbook/it/guides/domains-dns" >}}).
+Domain names are key assets in GitLab's intellectual property portfolio. Centralizing the registration and maintainance of domain names under the Infrastructure Shared Services group using GitLab's approved domain name registrar helps us track and protect these valuable assets. Please refer to the [Domain Names and DNS Records Handbook Page](https://internal.gitlab.com/handbook/it/it-self-service/it-guides/domains-dns/).
 
 **"GitLab-related Domain Names"** when used in this policy means any domain name:
 
