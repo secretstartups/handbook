@@ -155,9 +155,14 @@ No, not at this time.
 | Feb 19 | [Kev](https://gitlab.com/kevslashnull) | Non-GitLab shadow - Software Engineer |
 | Feb 26 | Available | |
 | Mar 4 | Available | |
-| Mar 11 | Not Available | |
+| Mar 11 | Available though not a preferred week for shadows | |
 | Mar 18 | Available | |
 | Mar 25 | Available | |
+| Apr 1 | Available though not a preferred week for shadows | |
+| Apr 8 | Available |
+| Apr 15 | Available |
+| Apr 22 | Available |
+| Apr 29 | Available |
 
 ## Shadow Alumni
 
