@@ -130,7 +130,9 @@ To support our teams, and commitments made to internal and external customers, t
 
 The issue provides a place to discuss and document coverage for any work in progress, or projects where the team member is the directly responsible individual (DRI), and support the [Paid Time Off at GitLab](https://handbook.gitlab.com/handbook/paid-time-off/) policy.
 
-We use an internal issue tracker as team member PTO is not public information, and a PTO template. [New PTO issue](https://gitlab.com/gitlab-com/govern-compartment/-/issues/new?issuable_template=ooo_template)
+We use an internal issue tracker as team member PTO is not public information, and a PTO template 
+- [PTO issue list](https://gitlab.com/gitlab-com/govern-compartment/-/issues/?sort=weight_desc&state=opened&label_name%5B%5D=PTO&first_page_size=20)
+- [New PTO issue template](https://gitlab.com/gitlab-com/govern-compartment/-/issues/new?issuable_template=ooo_template)
 
 When a team-member takes some time off, it is important that their work is still being followed up on if needed. We want to make sure that any MR that lands in staging and production environments while we are out gets proper attention and is verified by a counterpart. Therefore, when getting close to our time-off period, we should do the following:
 
