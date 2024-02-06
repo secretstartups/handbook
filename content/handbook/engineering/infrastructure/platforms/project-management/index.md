@@ -11,7 +11,8 @@ All teams in SaaS Plaforms follow these guidelines so that it is easy for team-m
 
 ### Projects are reviewed weekly in the Grand Review
 
-**Every Wednesday**, the DRI for a project is expected to update the status block in the epic description to: 
+**Every Wednesday**, the DRI for a project is expected to update the status block in the epic description to:
+
 1. Indicate any project blockers.
 2. Briefly highlight progress since the last update.
 3. Indicate planned next steps, or mitigations required to progress.
@@ -35,7 +36,7 @@ Epics must always have the following sections:
 
 ### Sections format
 
-We use automation that relies on the presence of following headings and structure in the Epic description:
+We use [automation](https://gitlab.com/gitlab-com/gl-infra/epic-issue-summaries/) that relies on the presence of following headings and structure in the Epic description:
 
 #### DRI Section
 
