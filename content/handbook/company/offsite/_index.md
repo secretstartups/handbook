@@ -165,6 +165,7 @@ While E-Group Offsites often happen about two months in advance of Board Meeting
 1. Review 3 to 5 year [Long Range Outlook (**LRO**)](/handbook/finance/financial-planning-and-analysis/#long-range-outlook-lro) including scenarios, capabilities and dependencies
 1. Finish the review of [**Three Year Strategy**](/handbook/company/strategy/) (1 day)
 1. [**Talent** assessment and succession planning](/handbook/people-group/talent-assessment/) (2x session per year, 1.5 hrs per session, ~10 mins per function). CEO Shadows and EBAs do not attend this session
+1. [Director + promotion nominations](/handbook/people-group/promotions-transfers/#bamboohr-or-greenhouse-process)
 
 **Q3 Offsite**
 1. E-Group Offsite Month: October
@@ -181,6 +182,7 @@ While E-Group Offsites often happen about two months in advance of Board Meeting
 1. Final [**Annual Plan**](/handbook/finance/financial-planning-and-analysis/#plan) that includes the budgets
 1. Product **Roadmap** including competitive differentiation
 1. [**Talent** assessment and succession planning](/handbook/people-group/talent-assessment/) (2x session per year, 1.5 hrs per session, ~10 mins per function). CEO Shadows and EBAs do not attend this session
+1. [Director + promotion nominations](/handbook/people-group/promotions-transfers/#bamboohr-or-greenhouse-process)
 
 ### Recurring discussion topics
 
