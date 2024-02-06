@@ -124,6 +124,10 @@ When working in GitLab issues and epics, please remember that due to GitLab's va
 
 For more information regarding confidentiality levels and compliancy, please visit [this handbook page](/handbook/communication/confidentiality-levels/).
 
+# [Global Field Marketing Vendor Feedback](https://gitlab.com/groups/gitlab-com/marketing/-/epics/4736)
+
+This feedback epic/spreadsheet is only open to GitLab team members. FMMs and managers to keep details in this spreadsheet regarding both positive and negative experiences with various event vendors for team reference. 
+
 # Field Marketing Campaign Issue Templates, Epic Codes and Progression Status
 
 Field Marketing utilizes the below issue templates and epic codes for virtual events and other campaign tactics.
