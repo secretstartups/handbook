@@ -42,7 +42,6 @@ The Technical Writing Manager is a [grade 8](/handbook/total-rewards/compensatio
 
 - [UX hiring actual vs plan](/handbook/product/ux/performance-indicators/#ux-hiring-actual-vs-plan)
 - [UX average location factor](/handbook/product/ux/performance-indicators/#ux-average-location-factor)
-- [UX Handbook update frequency](/handbook/product/ux/performance-indicators/#ux-handbook-update-frequency)
 - [Technical Writing team member MR rate](/handbook/product/ux/performance-indicators/index.html#technical-writing-team-member-mr-rate)
 - [Distribution of Technical Writing team documentation effort](/handbook/product/ux/performance-indicators/index.html#distribution-of-technical-writing-team-documentation-effort)
 - [Technical Writing collaboration on UI text](/handbook/product/ux/performance-indicators/#technical-writing-collaboration-on-ui-text)
@@ -98,7 +97,6 @@ The Senior Manager, Technical Writing is a [grade 9](/handbook/total-rewards/com
 
 - [UX Hiring Actual vs Plan](/handbook/product/ux/performance-indicators/#ux-hiring-actual-vs-plan)
 - [UX Average Location Factor](/handbook/product/ux/performance-indicators/#ux-average-location-factor)
-- [UX Handbook Update Frequency](/handbook/product/ux/performance-indicators/#ux-handbook-update-frequency)
 - [Technical Writing team member MR rate](/handbook/product/ux/performance-indicators/index.html#technical-writing-team-member-mr-rate)
 - [Distribution of Technical Writing team documentation effort](/handbook/product/ux/performance-indicators/index.html#distribution-of-technical-writing-team-documentation-effort)
 
@@ -155,7 +153,6 @@ The Director, Technical Writing is a [grade 10](/handbook/total-rewards/compensa
 
 - [Hiring Actual vs Plan](/handbook/product/ux/performance-indicators/#hiring-actual-vs-plan)
 - [Diversity](/handbook/product/ux/performance-indicators/#diversity)
-- [Handbook Update Frequency](/handbook/product/ux/performance-indicators/#handbook-update-frequency)
 - [Team Member Retention](/handbook/product/ux/performance-indicators/#team-member-retention)
 
 ### Hiring Process
