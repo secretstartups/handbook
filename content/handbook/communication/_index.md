@@ -1472,7 +1472,7 @@ See the [YouTube page](/handbook/marketing/marketing-operations/youtube/) for op
 
 <a id="phone-number">
 
-If you need to provide the details of GitLab's contact information you can take the [address from the visiting page](/handbook/company/visiting/) for reference; or the [mailing address](/handbook/people-group/#addresses) of the office in the Netherlands if that is more applicable.
+If you need to provide the details of GitLab's contact information you can take the [address from the visiting page](https://about.gitlab.com/company/visiting/) for reference; or the [mailing address](/handbook/people-group/#addresses) of the office in the Netherlands if that is more applicable.
 
 If a phone number is required, leave this field empty by default. If that is not possible, then use
 the general number (+1-415-761-1791), but be aware that this number simply guides to a voice message that refers the caller back to contacting us via email.
