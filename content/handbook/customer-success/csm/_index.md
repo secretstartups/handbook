@@ -11,9 +11,9 @@ description: "The Customer Success Management team at GitLab is a part of the Cu
 
 
 
-[<button class="btn btn-primary" type="button" style="padding: 15px 30px; font-size: 24px;">Digital Touch</button>](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/)
+[<button class="btn btn-primary" type="button" style="padding: 15px 30px; font-size: 24px;">Digital</button>](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/)
 [<button class="btn btn-primary" type="button"  style="padding: 15px 30px; font-size: 24px;">Scale</button>](/handbook/customer-success/csm/segment/scale/)
-[<button class="btn btn-primary" type="button"  style="padding: 15px 30px; font-size: 24px;">AMER CSM</button>](/handbook/customer-success/csm/segment/amer/)
+[<button class="btn btn-primary" type="button"  style="padding: 15px 30px; font-size: 24px;">CSM</button>](/handbook/customer-success/csm/segment/amer/)
 [<button class="btn btn-primary" type="button"  style="padding: 15px 30px; font-size: 24px;">CSE</button>](/handbook/customer-success/csm/cse/)
 
 ## Mission Statement
@@ -136,66 +136,16 @@ Please reference this page for an overview of the areas your CSM will engage wit
 </tbody>
 </table>
 
-## FY24 Annual OKRs (Big Rocks)
-
-**Objective:**  The 3 ‘big rocks’ to take on in FY24 with the overall goal of moving our team forwards. These rocks need to move us forwards as a team and as individuals, enabling us to scale, be impactful, and be inspired/fulfilled in our roles.
-
-**What are 'big rocks'?** As outlined in [this article](https://www.forbes.com/sites/hillennevins/2020/01/21/what-are-your-big-rocks/?sh=191f218fae34), they are our priorities, our mission-critical objectives that we need to solve for in the coming year. We arrived at this list through CSM leadership discussions and final input from individual contributors.
-
-### Big Rock 1: Invest in the team to drive customer value
-
-Investing in the CSM team is a top priority, and this year we will provide team members with education and enablement to empower them in their role with customers and other GitLab team members, specifically related to:
-- Cross-functional collaboration
-- Executive engagement
-- Sales approach best practices
-- Book of business ownership
-
-CSMs will exit FY24 with skills to help them throughout their career, and they will be better equipped to drive customer results and ROI, through improved confidence, leadership, collaboration, and ownership.
-
-Our goals with this big rock include the following initiatives:
-- Develop and launch enablement materials for skills key to being a successful CSM:
-   - Neurodiversity awareness
-   - Cross-departmental collaboration
-   - Executive engagement and presence
-   - Sales expertise
-   - Strategic long-term planning
-- Close gaps across CSM and Sales ICs and managers by establishing regular cadences and documenting agreed-upon expectations
-- Invest in CSMs' personal and professional development through provided training, growth & development budget, and regular growth conversations
-- Ensure fundamentals learned in onboarding are regularly reinforced with all members of the team
-- Foster an inclusive environment for CSMs and elevate diversity as a core value
-
-For more information and specifics, please review the [epic for Big Rock 1](https://gitlab.com/groups/gitlab-com/customer-success/-/epics/97) (GitLab-internal only), which includes quarterly OKRs for FY24.
+## [FY25 Vision & Strategy -3 Pillars](https://docs.google.com/presentation/d/1qIBbUYoclOGSplOeUAvRwBJGKNwlo41Z7Z2fnu8bZgA/edit?usp=sharing) Internal - GitLab Only
+ - Success At Scale 
+ - Use Case Adoption
+ - Success Plan Services
 
 
-### Big Rock 2: Drive product adoption and growth for your customers
-
-[Epic for Big Rock 2](https://gitlab.com/groups/gitlab-com/customer-success/-/epics/95)
-
-Equip team members to speak to product capabilities, value propositions, business impact, and help customers with use case adoption.
-
-### Big Rock 3: Know our customers
-
-[Epic for Big Rock 3](https://gitlab.com/groups/gitlab-com/customer-success/-/epics/96) (GitLab-internal only)
-
-
-Ensure our customers receive ongoing value through increasing product adoption and growth, aligned with the customer's desired business outcomes.
-
-CSMs equipped to work as trusted advisors with our customers to achieve their objectives in a reportable, quantifiable way through a framework that also enables early and accurate identification of both opportunity and risk.
-
-**Examples:**
-
-Objective: increase developer productivity
-
-How is/will productivity be measured?
-- Measured through release volume and release frequency in the absence of being able to track all of DORA.
-
-What are their technical milestones to get to this business outcome?
-- How many apps need to be completed by xxx to get to the intended business outcome of yyy?
-- What use cases adopted, and by when?
-
-### Big Rock Archive
+### Big Rock (Annual Strategy) Archive
 
 - [FY23](/handbook/customer-success/csm/fy23)
+- [FY24](/handbook.gitlab.com/handbook/customer-success/csm/annual-strategy/fy24/)
 
 
 ## Handbook Directory
@@ -314,7 +264,6 @@ Next steps for you:
 - [Dogfooding in Customer Success](/handbook/customer-success/#dogfooding)
 - [Customer Success & Market Segmentation](/handbook/customer-success/#customer-success--market-segmentation)
 - [Responsibility Matrix and Transitions](/handbook/customer-success/#responsibility-matrix-and-transitions)
-- [Commercial Sales Customer Success](/handbook/customer-success/comm-sales/)
 - [Customer Success' FAQ](/handbook/customer-success/faq/)
 - [Using Salesforce within Customer Success](/handbook/customer-success/using-salesforce-within-customer-success/)
 - [Customer Success Vision](/handbook/customer-success/vision/)
