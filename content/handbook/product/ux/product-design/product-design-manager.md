@@ -24,14 +24,14 @@ This allows us to see our strengths as a team and to identify team trainings tha
 
 #### How to conduct the team assessment
 
-1. Make a copy of the [GitLab focused template (private to GitLab)](https://docs.google.com/spreadsheets/d/1mN8Shag6X7xpikxnoJYm-IfWbuhgGe9pRiFm_SvCDD4/edit#gid=0).
-1. Review the template to make sure it still makes sense for your team. Do consider changes carefully and discuss with other managers. We want to be able to have consistency in these so we can view them across multiple design teams.
+1. Make a copy of the [GitLab Team Skills Matrix (private to GitLab)](https://docs.google.com/spreadsheets/d/1MZsalURuFy60mNCBlzkQ2hhPSWsuSXtjJ-NlFac7jCA/edit?usp=sharing).
+1. Review the template to make sure it makes sense for your team. Do consider changes carefully and discuss with other managers. We want to be able to have consistency so we can view them across multiple design teams.
+1. Add your team members names to the spreadsheet.
 1. Introduce this process to your team by sharing this page, the NN article and the GitLab focused template.
-1. Copy the template for each individual team member and share it with them.
-1. In 1:1s, have a casual conversation with the team member and ask them to rate themselves in their individual file. You may suggest adjustments based on your observations - if you do, share an example of why.
-1. After completed the assessment with each team member, copy the results to the main team template. I kept this file private.
-1. Create an issue similar to [#1674](https://gitlab.com/gitlab-org/gitlab-design/-/issues/1674) to share the results. You can remove individual names from this view.
-1. Have a retrospective with your team to identify strengths and weaknesses. Find things to build up the weaknesses (where people have said they want to improve).
+1. Ask team members to rate themselves (current and future state). 
+1. Review with your team member. You may suggest adjustments based on your observations, but ultimately this is a self-assessment.
+1. Share the results in an issue -[Example Issue](https://gitlab.com/gitlab-org/gitlab-design/-/issues/1674).
+1. To follow up on the results, the team members and their manager can identify opportunities to fill gaps where team members said they want to improve.
 1. Share with other UX leaders.
 
 
