@@ -54,30 +54,49 @@ In the table at the bottom  - Person Status Change [Post Campaign by Record ID],
 
 ## Metrics
 
-- **Touchpoints** - Number of unique persons that have engaged with specified campaigns
-- **Inquiries** - Number of inquiries 
-- **MQLs** - Number of touchpoints within those campaigns that have reached marketing qualified lead status.
-- **SAOs [OC]** - Number of attributed Sales Accepted Opportunities where campaign touch was the last one before opportunity creation.
-- **SAOs [Custom]** - Number of attributed Sales Accepted Opportunities using our custom multi touch attribution model 
-- **Pipeline Net ARR [Custom]** - Pipeline attributed to a particular campaign using our custom multi touch attribution model
-- **Closed Won Net ARR [Custom]** - Closed Won Net ARR attributed to a particular campaign using our custom multi touch attribution model
-- **Influenced SAOs** - Number of SAOs on which marketing had at least a single touchpoint on.
-- **Influenced Closed Won** - Number of Closed Won opportunities  on which marketing had at least a single touchpoint on.
+- **Touchpoints** - Number of unique persons that have engaged with the specific campaigns
+- **Inquiries** - Number of people who have reached (or pasted) the inquiry stage and have a touchpoint associated with the campaign.*
+- **MQLs** - Number of people who have reached (or pasted) the marketing qualified lead stage and have a touchpoint associated with the campaign.*
+- **Sales Accepted Leads** - Number of leads who have reached (or pasted) the Sales Accepted Lead stage and have a touchpoint associated with the campaign.*
+- **Influenced SAOs** - Number of Sales Accepted Opportunities with influence from Marketing campaigns calculated using our custom multi-touch attribution model.*
+- **Influenced SAOs [OC]** - Number of Sales Accepted Opportunities with influence from Marketing campaigns calculated using our custom multi-touch attribution model limited to touchpoints that were the last one before opportunity creation.*
+- **Influenced Net ARR** - The amount of NET ARR influenced by our Marketing campaigns using our custom multi-touch attribution model.*
+- **Touched SAOs** - The number of SAOs with at least one Marketing touchpoint.*
+- **Cost** - The cost the campaign reported from the Campaing Object in SFDC. If the campaign cost is $1, then the value is ignored. The fileds first looks like the actual cost for a value greater than $5, if one in not use present, it uses the esistatmed cost.
 
-## Filter Definitions 
+* The `Advanced Filters` can control the date range for these metrics, limiting them to only {MQLs, SAOs, etc} created in a given timeframe.
+
+## Dashboard Filters
+
+Unless otherwise stated, all filters on the dashboard will filter data on all tabs. 
+
+The filters are divided into two groups, `Primary Filters` are shown all times. `Advanced Filters` accessible by opening `Advanced Filters` panel on the `Campaign Drill Down` tab.
+
+The bullets below descibes the source of the values in the filters. 
+
+### Primary Filters
+
+- **Touchpoint Date** - Date range during which marketing touchpoint occurred
+- **Intergrated Budget Holder** - Filters campaigns based on the `Budget Holder` field in SFDC/UTM parameters.
+- **Person Grouping** - Filters to either First Order Persons and/or First Order Opps, plus all the combonations in between.
+- **SFDC Campaign Type** - The Campaign Type field from SFDC. Selecting any non-null value will remove all touchpoints without a SFDC Campaign. 
+- **Bizible Intergrated Campaign Name** - Either the SFDC Campaign name or the value `utm_campaign` parameter.
+- **Medium** - A combined field from `utm_medium` and Bizible Medium
+- **Source** - A combined field from `utm_source` and Bizible Source
+- **UTM Content** - The value of the `utm_content` parameter.
 
 - **Alternative_Segment** - Segment of the Person that interacted with the campaign defined using [waterfall logic from multiple fields](/handbook/marketing/strategy-performance/marketing-metrics/#alternative-method-for-account-demographics-fields-on-leads)
 - **Alternative_Geo** - Geo Region of the person that interacted with the campaign defined using [waterfall logic from multiple fields](/handbook/marketing/strategy-performance/marketing-metrics/#alternative-method-for-account-demographics-fields-on-leads)
 - **Bizible_Channel** - Marketing channel that the campaign belongs to
-- **Budget Holder** - Filters for Campaign Owner based on Budget Holder field in SFDC/UTM Parameters
-- **Campaign_Name** - Include only touchpoints from a specific campaign 
+
+
 - **Campaign_Region** - Salesforce field on the Campaign 
 - **Campaign_Sub_Region** - Salesforce field on the Campaign 
-- **Campaign_Type** - Salesforce field on the Campaign 
+
 - **Order_Type** - Filters for Person/Opportunity of particular order type
 - **Account_Territory** - Account Territory of the Opportunity / Person where available. Currently this field is not populated for many leads, but it’s reliable on the opportunity object for SAOs / Pipeline / Closed Won metrics. 
 - **Sales_Accepted_Date** - Date range during which opportunity became SAO (filters only opportunity level information)
-- **Touchpoint_Date_Range** - Date range during which marketing touchpoint occurred 
+
 
 ## Default Setup and Filters
 
