@@ -35,30 +35,6 @@ This allows us to see our strengths as a team and to identify team trainings tha
 1. Share with other UX leaders.
 
 
-#### Definitions
-
-Note: These are also in the template, which is the SSOT.
-
-##### Levels
-
-1. Awareness: You are aware of the competency but are unable to perform tasks.
-1. Capable but still new to the skill: You understand the concept and you can apply it but your experience is limited  (you might be new to GitLab or new to quant research for example).
-1. Intermediate proficiency: You have applied this skill to situations occasionally without needing guidance.
-1. Advanced proficiency: You regularly apply this skill at an advanced level without needing guidance.
-1. Advanced proficiency + leader: You can coach others in the application by explaining related nuances.
-1. Expert: You have demonstrated consistent excellence across multiple projects and are a thought leader across the UX department.
-
-##### Skills
-
-- Qualitative research: Usability testing, interviewing. Creating effective unbiased research plans. Synthesizing data into insigts.
-- Quantitative research: Understanding when to use surveys and how to use the data, AB testing - when to use and what do do the data, how to design for an experiment.
-- Visual design - UI design, graphic design, illustrations, typography, logos.
-- Interaction design - Form and flow design, micro-interactions, handling latency and error states, UI copy, page layout.
-- Leadership: Starting new issues, being a content or design contributor (handbook, Pajamas, YouTube, etc), collaborating with others to acheive big goals, evangelizing your teams outcomes or sharing new methods or skills.
-- Iteration: Every MVC is an iteration. Every iteration should be an MVC. Additionally, includes breaking projects down into parts to get results faster - could be smaller studies, smaller design scope. Not refining design work too early, not going too far into the work before circling back for feedback.
-- Design communication: Sync or async, the ability to see and quickly understand a design, critique it, share design rationale for the design, get feedback from the right people at the right time.
-- IA and Workflow Definition: Organizing large amounts of data or concepts, navigation design, card sort, and tree studies, creating workflow diagrams and screen flows.
-
 ## Team Member Updates
 
 Whenever you need to update the area of the product a team member is supporting, such as on the [Product Categories page](/handbook/product/categories), you'll generally need to update or review the following pages and projects:
