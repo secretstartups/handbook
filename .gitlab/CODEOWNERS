@@ -83,7 +83,7 @@
 /content/handbook/customer-success/ @spatching @christiaanconover @mrleutz
 
 ^[customer-success-cse]
-/content/handbook/customer-success/csm/segment/scale/ @afrusciano @esivak @ofalk 
+/content/handbook/customer-success/csm/segment/scale/ @afrusciano @esivak @ofalk
 
 ^[eba-team]
 /content/handbook/eba/ @chrisweber44
@@ -135,17 +135,16 @@
 /content/handbook/engineering/development/fulfillment/provision.md @isandin @courtmeddaugh
 /content/handbook/engineering/development/fulfillment/fulfillment-platform.md @jameslopez @ofernandez2
 /content/handbook/engineering/development/fulfillment/purchase.md @shreyasagarwal @ppalanikumar
-/content/handbook/engineering/development/growth/ @wayne @pcalder @kniechajewicz
 /content/handbook/engineering/development/data-science/ @mray2020 @bmarnane
 /content/handbook/engineering/development/data-science/ai-framework.md @bastirehm @m_gill @timzallmann
 /content/handbook/engineering/development/sec/ @wayne @twoodham @pcalder
-/content/handbook/engineering/development/sec/govern/ @adil.farrukh @alan @jayswain @kniechajewicz @nmccorrison @nrosandich @pcalder
+/content/handbook/engineering/development/sec/govern/ @adil.farrukh @alan @jayswain @nmccorrison @nrosandich @pcalder
 /content/handbook/engineering/development/sec/govern/anti-abuse.md @jayswain
 /content/handbook/engineering/development/sec/govern/authorization.md @jayswain
 /content/handbook/engineering/development/sec/govern/authentication.md @adil.farrukh
 /content/handbook/engineering/development/sec/govern/compliance.md @nrosandich
 /content/handbook/engineering/development/sec/govern/security-policies/ @alan
-/content/handbook/engineering/development/sec/govern/threat-insights.md @kniechajewicz @nmccorrison
+/content/handbook/engineering/development/sec/govern/threat-insights.md @nmccorrison @pcalder
 /content/handbook/engineering/development/sec/secure/ @wayne @twoodham
 /content/handbook/engineering/development/sec/secure/composition-analysis.md @thiagocsf @gonzoyumo @fcatteau
 /content/handbook/engineering/development/sec/secure/vulnerability-research/ @wayne @idawson
@@ -281,7 +280,8 @@
 /content/handbook/marketing/channel-marketing/ @cmaynard1 @lblanchard
 /content/handbook/marketing/inbound-marketing/ @akramer @mpreuss22
 /content/handbook/marketing/digital-experience/ @mpreuss22 @fqureshi @laurenbarker
-/content/handbook/marketing/growth.md @akramer @s_awezec @gdoud
+/content/handbook/marketing/growth/ @akramer @s_awezec @gdoud
+/content/handbook/marketing/growth/engineering/ @kniechajewicz
 /content/handbook/marketing/inbound-marketing/search-marketing/ @ncregan @hsmith-watson @akramer
 /content/handbook/marketing/inbound-marketing/search-marketing/analytics.md @akramer
 /content/handbook/marketing/inbound-marketing/search-marketing/testing.md @mpreuss22 @akramer

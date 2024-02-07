@@ -37,8 +37,6 @@ The development team is responsible for developing products in the following cat
 - [Sec](/handbook/engineering/development/sec/)
 - [Data Science](/handbook/engineering/development/data-science/)
 - [Fulfillment](/handbook/engineering/development/fulfillment/)
-- [Growth](/handbook/engineering/development/growth/)
-
 
 ## Team Members
 
