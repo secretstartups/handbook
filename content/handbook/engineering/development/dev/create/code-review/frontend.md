@@ -72,10 +72,6 @@ See the [work section](/handbook/engineering/development/dev/create/code-review/
 
 {{% include "includes/engineering/create/weights-fe.md" %}}
 
-#### Weights
-
-{{% include "includes/engineering/create/weights-fe.md" %}}
-
 ### Kickoff & Retrospective Review
 
 On the first week of every milestone, we have a sync-call with every IC in which we review the comments shared in the async retrospective and after that each engineer takes turns at presenting their plan for their Deliverables for the new milestone.
