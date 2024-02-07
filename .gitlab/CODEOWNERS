@@ -158,23 +158,23 @@
 ^[Infrastructure-department]
 /content/handbook/engineering/infrastructure/ @cdu1 @cdeleon_gitlab @dcroft @marin @meks @vincywilson
 /content/handbook/engineering/infrastructure/performance-indicators.md @cdu1 @cdeleon_gitlab @dcroft @marin @meks @vincywilson @rymai
-/content/handbook/engineering/infrastructure/team/scalability/ @rnienaber @marin
+/content/handbook/engineering/infrastructure/team/ @marin
+/content/handbook/engineering/infrastructure/team/scalability/ @rnienaber @kwanyangu @lmcandrew @marin
 /content/handbook/engineering/infrastructure/team/delivery/ @marin @mbursi @dawsmith
-/content/handbook/engineering/infrastructure/team/gitlab-dedicated/ @o-lluch @marin
-/content/handbook/engineering/infrastructure/team/gitlab-dedicated/us-public-sector-services.md @sdumesnil @marin
-/content/handbook/engineering/infrastructure/team/gitlab-dedicated/switchboard.md @ashiel @marin
-/content/handbook/engineering/infrastructure/platforms/ @marin @rnienaber @dawsmith
-/content/handbook/engineering/infrastructure/incident-management/ @dawsmith @kwanyangu @meks
+/content/handbook/engineering/infrastructure/team/gitlab-dedicated/ @o-lluch @marin @amyphillips 
+/content/handbook/engineering/infrastructure/team/gitlab-dedicated/us-public-sector-services.md @sdumesnil @marin @amyphillips
+/content/handbook/engineering/infrastructure/team/gitlab-dedicated/switchboard.md @ashiel @marin @amyphillips
+/content/handbook/engineering/infrastructure/platforms/ @marin @rnienaber @amyphillips
+/content/handbook/engineering/infrastructure/incident-management/ @dawsmith @kwanyangu @marin
 /content/handbook/engineering/infrastructure/emergency-change-processes.md @marin @meks
 /content/handbook/engineering/infrastructure/service-maturity-model.md @rnienaber @marin @meks
-/content/handbook/engineering/monitoring/ @cdu1 @marin @meks
-/content/handbook/engineering/releases/ @marin @mbursi @dawsmith
-/content/handbook/engineering/deployments-and-releases/ @marin @mbursi @dawsmith
-/content/handbook/engineering/infrastructure/production/running-on-kubernetes.md @cdu1 @marin @meks
+/content/handbook/engineering/monitoring/ @marin @meks
+/content/handbook/engineering/releases/ @marin @mbursi @dawsmith @gitlab-org/delivery
+/content/handbook/engineering/deployments-and-releases/ @marin @mbursi @dawsmith @gitlab-org/delivery
 /content/handbook/engineering/infrastructure/team/dei.md @andrewn
-/content/handbook/engineering/careers/matrix/infrastructure @marin @kwanyangu @meks @dawsmith @amyphillips @rnienaber  @mbursi
+/content/handbook/engineering/careers/matrix/infrastructure @marin @kwanyangu @meks @dawsmith @amyphillips @rnienaber @mbursi
 /content/handbook/engineering/error-budgets/ @marin @rnienaber
-/content/handbook/engineering/infrastructure/capacity-planning/ @andrewn @gitlab-org/scalability
+/content/handbook/engineering/infrastructure/capacity-planning/ @andrewn @gitlab-org/scalability @marin
 /content/handbook/engineering/infrastructure/core-platform/ @cdu1
 /content/handbook/engineering/infrastructure/core-platform/systems/distribution/ @cdu1 @plu8
 /content/handbook/engineering/infrastructure/core-platform/systems/geo/ @juan-silva
