@@ -37,7 +37,7 @@ Support all our counterparts with frontend engineering expertise, including impl
 
 The following people are permanent members of the Create:Code Review FE Team:
 
-{{< team-by-manager-role "Frontend Engineering Manager(.*)Create:Code Review" team="Create:Code Review" >}}
+{{< team-by-manager-role manager-role="Frontend Engineering Manager(.*)Create:Code Review" team="Create:Code Review" >}}
 
 ## Stable Counterparts
 
