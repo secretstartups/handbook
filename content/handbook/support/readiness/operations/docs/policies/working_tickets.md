@@ -191,9 +191,9 @@ graph TD;
    Needs-Org process is not a great customer experience.
 1. If you determine the ticket is from a free or community user, there is no
    need to create a new ticket. Instead, simply change the form to the
-   appropriate support form and ensure the SaaS/Self-managed Subscription is set
-   to 'Free User'. Make sure to set the SGG field on the ticket to a blank
-   value!
+   appropriate support form and ensure the gitlab.com/Self-managed Subscription
+   is set to 'Free User'. Make sure to set the SGG field on the ticket to a
+   blank value!
 1. When moving tickets to a new form, do your best to fill out the ticket
    metadata for the team that will work the ticket.
 
