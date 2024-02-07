@@ -64,9 +64,21 @@ As we continue to scale, so does the volume of referrals we receive. Referrals a
 1.  Communication with the Referral
     - You have informed the person that you are referring them.
 1. Detailed Referral Description
-- *Must complete* required fields, including a comprehensive description of how you know the candidate you are referring and why they are aligned to the role with GitLab. Provide detailed information such as specific qualifications, skills and relevant experiences that make the candidate a strong match for the specific role.
-    - **Bad Example** - "XX wants to work in a remote workforce. They bring a lot of experience in Program Management"
-    - **Good Example:** - "XX has a proven track recrod in Program Management within a Product Organization. When I worked with them at XYZ company, they worked specifically with net new product launches, partnering with monetization teams on bringing new products to market. This makes them a strong fit for the Product Program Manager role at GitLab."
+- *Must complete* required fields, including a comprehensive description of how you know the candidate you are referring and why they are aligned to the role with GitLab. Provide detailed information such as specific qualifications, skills and relevant experiences that make the candidate a strong match for the specific role. The fields are:
+    1. How do you know this person?
+        - Previous co-worker/colleague
+        - Friend or family member
+    1. Where is this person located? (Please confirm they're in a location we can hire in)
+    1. How long have you worked with or known this person?
+    1. Please provide a comprehensive description as to why this person is aligned to this role (include specific qualifications, skills and relevant experiences that relate to the job post)
+        - **Bad Example** - "XX wants to work in a remote workforce. They bring a lot of experience in Program Management"
+        - **Good Example:** - "XX has a proven track recrod in Program Management within a Product Organization. When I worked with them at XYZ company, they worked specifically with net new product launches, partnering with monetization teams on bringing new products to market. This makes them a strong fit for the Product Program Manager role at GitLab."
+    1. If the candidate is interested in more than one role, please list the other roles below.
+    1. Anything else we should know about this referral?
+    1. Note: If this person has already applied and their application has been reviewed, this is considered an endorsement. 
+
+  
+
 
 If the person you wish to refer has already submitted an application, please email referrals@gitlab with the Detailed Referral Description required. You must provide details on how you know the candidate and why they're aligned with the role at GitLab to determine whether or not they are qualified as a referral. It's important to note that, despite our best efforts, individuals who apply without following the proper referral procedure may not receive the same experience as those referred through our formal channels in Greenhouse.
 
