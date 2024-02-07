@@ -14,7 +14,7 @@ or creating a new issue in the Growth Product [Activation issues] list.
 
 ## Mission
 
-The Growth:Activation Group works on product priorities with our [Growth product managers](/handbook/product/growth/)
+The Growth:Activation Group works on product priorities with our [Growth product managers](/handbook/marketing/growth/)
 and contributes to Growth initiatives including the [Registration Flow](https://gitlab.com/groups/gitlab-org/-/epics/4745)
 and [Continuous onboarding](https://gitlab.com/groups/gitlab-org/-/epics/4817).
 
@@ -62,5 +62,5 @@ We use the Activation development [workflow board](https://gitlab.com/groups/git
 - [Activation issues]
 - `#g_activation` in [Slack](https://gitlab.slack.com/archives/g_activation) (GitLab internal)
 
-[Growth stage]: /handbook/engineering/development/growth/
+[Growth stage]: /handbook/marketing/growth/engineering/
 [Activation issues]: https://gitlab.com/gitlab-org/growth/product/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Aactivation

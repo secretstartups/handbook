@@ -1,5 +1,5 @@
 ---
-aliases: /handbook/engineering/development/growth/sisense_alert.html
+aliases: /handbook/marketing/growth/engineering/sisense_alert.html
 
 title: Sisense alert
 description: "How to create a SiSense alert"
@@ -90,9 +90,9 @@ Example for an alert if metric is above acceptable threshold
 _Change the `>` to a `<` for checking it is under (in a separate alert)_
 
 ```SQL
-select case when 
+select case when
 /* copy above average over the last 7 days */
-> 
+>
 (
 /* copy above average over the last 30 days */
 +
