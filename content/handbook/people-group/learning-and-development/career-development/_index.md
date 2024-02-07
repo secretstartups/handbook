@@ -7,7 +7,7 @@ description: "Resources and direction for career development and mobility for al
 
 Career development is the non-linear, lifelong growth process integrating learning, work, leisure, and change. It happens in all directions, including subject matter expertise, lateral growth to new teams, and linear growth through a job family. Use the recources on this page to navigate your career growth at GitLab.
 
-![infographic with examples of career growth at gitlab](non-linear.png){: .shadow.medium.center}
+![infographic with examples of career growth at gitlab](non-linear.png)
 
 ## Directory
 
@@ -36,8 +36,7 @@ Navigate to career development resources located throughout the GitLab handbook:
     <a href="https://docs.google.com/presentation/d/1yY0ofMGgzN07ylTAnRP5geFnWcgUYkiVlcIyR54tpD0/edit#slide=id.g29a70c6c35_0_68" class="btn btn-primary" style="margin:5px;">Career Development Workshop</a>
     <a href="{{< ref "career-development#skill-of-the-month" >}}" class="btn btn-primary" style="margin:5px;">Skill of the Month</a>
     <a href="{{< ref "coaching" >}}" class="btn btn-primary" style="margin:5px;">Work with a Coach</a>
-    <a href="{{< ref "elevate" >}}" class="btn btn-primary" style="margin:5px;">Elevate Manager Training</a>
-    <a href="{{< ref "linkedin-learning#how-to-access-linkedin-learning" >}}" class="btn btn-primary" style="margin:5px;">LinkedIn Learning Courses</a>
+    <a href="{{< ref "elevate-programs" >}}" class="btn btn-primary" style="margin:5px;">Elevate Manager Training</a>
     <a href="{{< ref "self-paced-learning#linux-foundation-courses" >}}" class="btn btn-primary" style="margin:5px;">Linux Foundation Courses</a>
     <a href="{{< ref "self-paced-learning#oreilly-learning" >}}" class="btn btn-primary" style="margin:5px;">O'Reilly Learning</a>
     <a href="{{< ref "self-paced-learning#gcp-learning" >}}" class="btn btn-primary" style="margin:5px;">GCP Learning</a>
@@ -56,7 +55,7 @@ Navigate to career development resources located throughout the GitLab handbook:
 
 <div class="flex-row" markdown="0">
   <div>
-    <a href="{{< ref "elevate" >}}" class="btn btn-primary" style="margin:5px;">Elevate</a>
+    <a href="{{< ref "elevate-programs" >}}" class="btn btn-primary" style="margin:5px;">Elevate</a>
     <a href="https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/support-your-team-with-career-conversations" class="btn btn-primary" style="margin:5px;">Support your Team with Career Conversations Course</a>
     <a href="https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13409" class="btn btn-primary" style="margin:5px;">Manager M Groups</a>
     <a href="https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/mitigating-risk" class="btn btn-primary" style="margin:5px;">Mitigating Risk Course</a>
@@ -239,12 +238,12 @@ Team Members: Take the [Support your team with Career Conversations course in Le
 
 Managers should support their direct reports with their professional development goals. Implement the following into a [1-1]({{< ref "1-1" >}}), team meeting, or async communication to support your team.
 
-1. Encourage team members to create an [Individual Growth Plan]({{< ref "career-development#individual-growth-plan" >}}) or use [Gitlab Epics to track their career development]({{< ref "career-development#use-gitlab-epics-to-track-your-career-development" >}}).
+1. Encourage team members to create an [Individual Growth Plan]({{< ref "career-development#individual-growth-plan" >}}) or use [GitLab Epics to track their career development]({{< ref "career-development#use-gitlab-epics-to-track-your-career-development" >}}).
 1. Utilize the [Growth & Development Benefit]({{< ref "/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development" >}}).
 1. Recommend (and model) blocking [time to learn during the work week]({{< ref "learning-initiatives#take-time-out-to-learn-campaign" >}}).
 1. Organize team specific and cross-functional learning communities to practice [social learning]({{< ref "learning-initiatives#social-learning-through-live-learning" >}}).
 1. Model and share your own career and professional development pursuits.
-1. Create a [Learning Hub]({{< ref "work-with-us#creating-a-learning-hub-for-your-team" >}}) in Level Up with curated learning material for your team from LinkedIn Learing, the Handbook, and other external resources.
+1. Create a [Learning Hub]({{< ref "work-with-us#creating-a-learning-hub-for-your-team" >}}) in Level Up with curated learning material for your team from an external provider, the Handbook, and other external resources.
 
 **Sample questions to ask your team:**
 
@@ -333,7 +332,7 @@ Career development is a key factor in team member engagement and role satisfacti
 
 ### Cadence
 
-This process is just an acknowledgement by the team member that they have had career conversations. Aligned with the Performance/Potential [matrix cadence]({{< ref "talent-assessment" >}}), formal career conversations will ideally happen twice per year:
+This process is just an acknowledgement by the team member that they have had career conversations. Aligned with the Performance/Potential [matrix cadence]({{< ref "/handbook/people-group/talent-assessment" >}}), formal career conversations will ideally happen twice per year:
 
 - Once in Q2
 - Once in Q4

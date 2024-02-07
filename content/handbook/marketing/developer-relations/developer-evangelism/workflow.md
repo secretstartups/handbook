@@ -23,19 +23,27 @@ You can use the [request an evangelist issue template](https://gitlab.com/gitlab
 
 ## Roadmap view
 
-The Developer Evangelism uses the [Roadmap in the Developer Relations Group](https://go.gitlab.com/community-relations-team-roadmap) to track our work. Epics for our team are tracked within this group using the `dev-evangelism` label.  
+The Developer Evangelism uses the [Roadmap in the Developer Relations Group](https://go.gitlab.com/community-relations-team-roadmap) to track our work. Epics for our team are tracked within this group using the `dev-evangelism` label. 
 
 ### Epics
 
-Work items that fit into our team strategy, including events and content plans, are tracked using Epics and Child Epics. There are currently 2 parent epics that capture all the activities of the team, the [Events](https://gitlab.com/groups/gitlab-com/marketing/community-relations/-/epics/97) & [Content](https://gitlab.com/groups/gitlab-com/marketing/community-relations/-/epics/98) epics. There is also a [Release Evangelism](https://gitlab.com/groups/gitlab-com/marketing/community-relations/-/epics/143) epic under the Content epic which contains child epics for all of our monthly releases. For each activity of the team, a sub-epic should be created under the relevant parent epic and with relevant labels added. 
+Work items that fit our team strategy, including events and content plans, are tracked using epics and child epics. Use the following search filters to find the strategy epics for each fiscal year: 
+
+- [DevRel Events Strategy](https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics?state=opened&page=1&sort=start_date_desc&label_name[]=DevRel-Events&search=strategy)
+- [DevRel Content Strategy](https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics?state=opened&page=1&sort=start_date_desc&label_name[]=DevRel-Content&search=strategy) 
+- [DevRel Release Evangelism](https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics?state=opened&page=1&sort=start_date_desc&search=devrel+release+evangelism)
+
+For each activity of the team, a sub-epic should be created under the relevant parent epic and with relevant labels added. 
 
 For each fiscal year's plan, we use the following structure to organize epics on our roadmap: 
 - FYXX Events 
   - Child epic for each event we will support
 - FYXX Content
-  - Child epic for each piece of content (blog, video, contributed article, media interview, etc) we will publish 
+  - FYXXQ{1,2,3,4}
+    - Child epic for each piece of content (blog, video, contributed article, media interview, etc) we will publish 
   - FYXX Release Evangelism epic 
     - Child epic for each release we will support 
+
 
 #### Start and due dates
 
@@ -66,6 +74,32 @@ These are the recommended labels for Epics created in the Developer Relations gr
 
 ![Roadmap Filter using Labels](/images/handbook/marketing/developer-relations/developer-evangelism/workflow/roadmap-labels.png)
 
+### Syncing epics roadmap with the technical content plan
+
+The roadmap view needs to be synced with the `Technical Content Plan - Developer Evangelism and Technical Marketing` (search in Google drive).
+
+Checklist for updating delivery dates:
+
+1. Sync the delivery date in the technical content plan with the epic due date.
+1. Update the epic's title to the `month, year` the content is delivered. 
+1. Update the epic's parent epic to match the quarter where the content is delivered. 
+1. Update the epic's labels to match the quarter where the content is delivered. 
+
+The following quick actions example updates a content epic from FY24Q3 to FY24Q4. 
+
+```
+/unlabel ~FY24-Q3
+
+/label ~FY24-Q4
+
+/parent_epic https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics/241 
+```
+
+### Subscribing to epic updates
+
+To get notifications, you can [subscribe to epic labels](https://docs.gitlab.com/ee/user/project/labels.html#receive-notifications-when-a-label-is-used). 
+
+Please follow the [content library resources](/handbook/marketing/developer-relations/developer-evangelism/content/) for general content updates. 
 
 ### Epic Templates
 
@@ -115,7 +149,7 @@ Please use this template when creating Epics for activities that should appear f
 
 On completion:
 
-- [ ] [Distribute the content](/handbook/marketing/developer-relations/developer-evangelism/#content-distribution)
+- [ ] [Distribute the content](https://handbook.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/content/content-distribution) (Highspot, Slack, social media, etc.)
 - [ ] Add results to the epic, and to the technical content sheet. Mark the sheet row as completed (green).
 
 <!-- these labels should be included on all templates -->
@@ -135,7 +169,6 @@ and FY25 epic https://gitlab.com/groups/gitlab-com/marketing/developer-relations
 <!-- Link to Child epic where necessary -->
 /child_epic 
 
-/cc @gitlab-de 
 <!-- Mention team members that should be aware of the epic -->
 /cc 
 
@@ -202,7 +235,6 @@ On completion:
 <!-- Link to Child epic where necessary -->
 /child_epic 
 
-/cc @gitlab-de 
 <!-- Mention team members that should be aware of the epic -->
 /cc 
 
@@ -281,7 +313,6 @@ _Metrics, traces, analytics, value stream dashboards, etc._
 
 /label ~"dev-evangelism" ~"DE-Type::Evangelist" ~"DevRel-Content"  ~"Content-Releases" 
 
-/cc @gitlab-de
 
 ```
 
@@ -473,9 +504,9 @@ If the CFP closed without submission, add the `CFP::Closed` label. In case the C
 
 ### Boards
 
-[Team General Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1565342?&label_name[]=dev-evangelism){:.btn .btn-purple-inv .btn-lg}
-[Team Activity Type Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/3811304?label_name[]=dev-evangelism){:.btn .btn-purple-inv .btn-lg}
-[CFP Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1616902?label_name[]=CFP){:.btn .btn-purple-inv .btn-lg}
+- [Team General Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1565342?&label_name[]=dev-evangelism)
+- [Team Activity Type Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/3811304?label_name[]=dev-evangelism)
+- [CFP Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1616902?label_name[]=CFP)
 
 ### Request budgets
 

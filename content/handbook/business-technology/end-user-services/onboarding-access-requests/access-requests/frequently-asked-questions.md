@@ -1,13 +1,7 @@
 ---
-
+controlled_document: true
 title: "Access Requests (AR) FAQs"
 ---
-
-
-
-
-
-
 
 ## Need help?
 

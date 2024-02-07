@@ -80,7 +80,7 @@ All-remote teams are more inclined to remain focused on what actually matters at
 
 Because time truly is your own in an all-remote setting (core to being a "[manager of one]({{< ref "values#managers-of-one" >}})"), you're incentivized to be respectful of others' time. It's easier to not mind wasting time in a colocated environment, where you're forced to be in the same building for a set number of hours regardless of whether that is a wise use of your time.
 
-Perhaps the most notable element of efficiency that contributes to a thriving all-remote team is documentation. All companies should strive to [write things down]({{< ref "values#write-things-down" >}}) — to document everything from [meeting notes]({{< ref "./meetings" >}}) to [quarterly objectives]({{< ref "strategy" >}}) — but this is of particular importance for all-remote organizations. Documenting everything enables an ever stronger, more informed, more trusting, and more connected team, as there's no physical space to debrief in.
+Perhaps the most notable element of efficiency that contributes to a thriving all-remote team is documentation. All companies should strive to [write things down]({{< ref "values#write-things-down" >}}) — to document everything from [meeting notes]({{< ref "./meetings" >}}) to [quarterly objectives]({{< ref "/handbook/company/strategy" >}}) — but this is of particular importance for all-remote organizations. Documenting everything enables an ever stronger, more informed, more trusting, and more connected team, as there's no physical space to debrief in.
 
 Valuing efficiency enables an all-remote team to work well asynchronously. In colocated settings, it's easier to delay an iteration until a future time "when everyone will be in the same room." All-remote teams realize that it's better to document and ask for feedback now, enabling team members to comment and contribute when it's convenient for them.
 
@@ -130,7 +130,7 @@ In the [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRT
 
 [Transparency]({{< ref "values#transparency" >}}) is simplest to implement when there is nowhere to hide. In all-remote companies, there's no hallway chatter, no secret elevator talks, and no locked boardrooms. All-remote companies require transparency to thrive. Every company should aspire to transparency, but an all-remote culture receives outsized benefit by achieving it.
 
-At GitLab, we have regular, recorded meetings to discuss progress on each department's metrics and [OKRs]({{< ref "okrs" >}}). This is an excellent example of transparency providing benefit to an all-remote culture. Team members are able to listen and learn when it best suits their schedule, and even those who work in functions outside of that team are able to gain a broader understanding of what matters to the company.
+At GitLab, we have regular, recorded meetings to discuss progress on each department's metrics and [OKRs]({{< ref "/handbook/company/okrs" >}}). This is an excellent example of transparency providing benefit to an all-remote culture. Team members are able to listen and learn when it best suits their schedule, and even those who work in functions outside of that team are able to gain a broader understanding of what matters to the company.
 
 ---
 

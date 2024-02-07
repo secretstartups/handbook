@@ -78,7 +78,7 @@ This report filters by 6 main categories:
 1. This is part of Two Lane Selling
 1. A paid POC is a year-long GitLab subscription we offer prospects we are in active discussions with so that a small segment of their tech team can get started using GitLab Premium or Ultimate immediately. It is at the forefront of what First Order is about as it encourages a quick adoption to demonstrate GitLab's value sooner and enables the Named team to grow the account.
 1. We would typically recommend a team of 5-20 people get started on the Paid POC
-1. We would typically recommend a team that is embarking on a new project be involved with the Paid POC so that they can start fresh using GItLab for the whole SDLC.
+1. We would typically recommend a team that is embarking on a new project be involved with the Paid POC so that they can start fresh using GitLab for the whole SDLC.
 1. The duration is a minimum of 12 months
 1. A discount can be applied according to the [discount matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#). Beware that in order for an opportunity to count as a new logo, it needs to be above $1,000 ARR and have a growth potential of more than 50 seats in the future.
 
@@ -218,5 +218,5 @@ The Alliances team can assist with connecting you to the Alliance Partner sales 
 (Red/Green, close date convention)
 1. What is the most efficient way of prospecting? What tools are being used to find potential clients?
 1. What are good call notes / next steps?
-1. How does Gitlab handle discount requests? What is the guidline?
+1. How does GitLab handle discount requests? What is the guidline?
 

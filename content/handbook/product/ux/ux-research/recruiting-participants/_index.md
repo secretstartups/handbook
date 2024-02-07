@@ -48,7 +48,7 @@ It’s best to think of tasks and responsibilities instead of job titles, becaus
 
 ### Craft your screener
 
-The screener has a specific function - it’s meant to identify the people who are your target demographic, so that you can ask them the things you really want to know in the study. A best practice is to copy the [Screener Template](https://docs.google.com/document/d/1hMchH7C7Af2jCLeV9SK89F0ajT3m-hojJ0MmZnV5wmE/edit) (internal link only) in Google Docs and collaborate with your stakeholders until all questions are finalized. For tips on how to write an effective screener, check out [this page](/handbook/product/ux/ux-research/write-effective-screener/). Then, you’ll create a screener in Qualtrics that includes the questions. If you don’t have access to Qualtrics, [request it](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/). Recruiting will not begin until the finalized screener is created in Qualtrics and shared with the UX Research Operations Coordinators.
+The screener has a specific function - it’s meant to identify the people who are your target demographic, so that you can ask them the things you really want to know in the study. A best practice is to copy the [Screener Template](https://docs.google.com/document/d/1hMchH7C7Af2jCLeV9SK89F0ajT3m-hojJ0MmZnV5wmE/edit) (internal link only) in Google Docs and collaborate with your stakeholders until all questions are finalized. For tips on how to write an effective screener, check out [this page](/handbook/product/ux/ux-research/write-effective-screener/). Then, you’ll create a screener in Qualtrics that includes the questions. If you don’t have access to Qualtrics, [request it](/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/). Recruiting will not begin until the finalized screener is created in Qualtrics and shared with the UX Research Operations Coordinators.
 
 Your questions on the screener *must* match your participant criteria. This allows the UX Research Operations Coordinator to review your desired criteria and know which answers you want to see on the screener. The more abstract or open-ended you get in the screener, the harder it is for UX Research Operations Coordinators to parse which answer it is you’re looking for. A best practice is to avoid using open-ended questions in screeners.
 
@@ -142,7 +142,6 @@ The UX Research Operations Coordinator assigned to your project will select the 
 1. Direct Sourcing via LinkedIn
 1. Docs Site Banner
 1. UserTesting.com - a third party recruitment tool (primarily used by Product Designers to self-serve)
-1. First Look Research Panel
 
 Learn more about these [recruitment methods](/handbook/product/ux/ux-research-coordination/recruitment-methods/).
 
@@ -267,6 +266,6 @@ Keeping things short and sweet increases the completion rate of screeners.
 
 A lot of the conversation above occurred in the recruitment request.
 
-The UX Research Operations Coordinator took great care in creating a segment from our research panel (GitLab First Look). Because the study was about accessibility, a topic about which many people are passionate, this study was a good one to use custom subject lines and email copy. The UX Research Operations Coordinator sent out an email with the subject line `New study - let's talk accessibility`. After two emails, we received over 20 responses.
+The UX Research Operations Coordinator took great care in creating a segment from our research panel. Because the study was about accessibility, a topic about which many people are passionate, this study was a good one to use custom subject lines and email copy. The UX Research Operations Coordinator sent out an email with the subject line `New study - let's talk accessibility`. After two emails, we received over 20 responses.
 
 The UX Research Operations Coordinator highlighted in green the people who said they do accessibility testing in their jobs, and strongly agreed that accessibility compliance is important (4 total). They highlighted in orange people who only fit the latter criterion (9). Altogether, this is a surplus of participants, however, we now have some participants that we can reach out to directly when the next accessibility study is available.

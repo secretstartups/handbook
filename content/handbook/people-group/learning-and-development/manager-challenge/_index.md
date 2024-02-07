@@ -8,7 +8,7 @@ title: Manager Challenge
 
 Team member can reach out in the [#learninganddevelopment Slack channel](https://app.slack.com/client/T02592416/CMRAWQ97W) with any questions about upcoming manager training or utilize their [Growth and Development benefit]({{< ref "/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development" >}}) for external training opportunities.
 
-You can learn more about our current manager development program on our [Elevate handbook page]({{< ref "elevate" >}}).
+You can learn more about our current manager development program on our [Elevate handbook page]({{< ref "elevate-programs" >}}).
 
 ## Introduction
 
@@ -48,7 +48,7 @@ In addition, the program ties into GitLab's strategic priorities through the fol
      1. [Lack of Performance Management](https://internal-handbook.gitlab.io/handbook/leadership/mitigating-concerns/#underperformance)
      1. [Ineffective Management](https://internal-handbook.gitlab.io/handbook/leadership/mitigating-concerns/#ineffective-management)
 1. Achieving GitLab Strategy of:
-     1. [Inclusive Growth & Development for Team Members]({{< ref "strategy#4-inclusive-growth--development-for-team-members" >}})
+     1. [Inclusive Growth & Development for Team Members]({{< ref "/handbook/company/strategy#4-inclusive-growth--development-for-team-members" >}})
 
 Below is a video L&D recorded with Sid on manager enablement:
 

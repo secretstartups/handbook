@@ -259,7 +259,7 @@ GitLab’s [Corporate Governance Guidelines, Codes, Policies, and other governan
 The Board’s responsibilities include:
 
 - [Risk oversight](https://www.sec.gov/ix?doc=/Archives/edgar/data/0001653482/000162828023018206/gtlb-20230515.htm)
-- Monitoring the performance of the Chief Executive Officer (CEO) and other [Executive](/handbook/company/team/structure/#executives) leaders
+- Monitoring the performance of the Chief Executive Officer (CEO) and other [Executive](/handbook/company/structure/#executives) leaders
 - Giving feedback on the [mission](/handbook/company/mission/#mission), [values](/handbook/company/mission/#values), and [strategy](/handbook/company/mission/#goals)
 - Evaluating if adequate resources are available to achieve our goals and that those resources are used effectively
 - Advocating for GitLab externally
@@ -281,7 +281,7 @@ GitLab acknowledges the importance of our privacy obligations and the requiremen
 
 The [Privacy Team](/handbook/legal/privacy/), which is part of the [Legal and Corporate Affairs Team]({{< ref legal-and-corporate-affairs >}}), provides support and guidance to uphold consistent business processes around the protection of personal data as it relates to GitLab customers, users, team members, and other natural persons. The team serves as advocates to ensure that the data privacy practices of GitLab meet the needs of cross-functional partners and are continually balanced with an ever-changing global data privacy and protection landscape.
 
-GitLab maintains a [Data Classification Standard](https://about.gitlab.com/handbook/engineering/security/data-classification-standard.html) using a color system to denote data classification levels: green, yellow, orange, and red. All customer-generated private data is classified as the most sensitive data in the environment and is automatically labeled as red, demonstrating GitLab’s commitment to data security on behalf of our customers. This classification standard extends to customer application programming interfaces (“APIs”), code, private user profiles, and confidential repos/epics/issues. Red data classification is reserved exclusively for customer-generated data.
+GitLab maintains a [Data Classification Standard](/handbook/engineering/security/data-classification-standard.html) using a color system to denote data classification levels: green, yellow, orange, and red. All customer-generated private data is classified as the most sensitive data in the environment and is automatically labeled as red, demonstrating GitLab’s commitment to data security on behalf of our customers. This classification standard extends to customer application programming interfaces (“APIs”), code, private user profiles, and confidential repos/epics/issues. Red data classification is reserved exclusively for customer-generated data.
 
 **ISO 27017:2015 & ISO 27018:2019 – A Certification in Our Cloud Security and Privacy Standards**
 

@@ -14,8 +14,8 @@ And diversity in our leadership [supports innovation](https://www.bcg.com/en-us/
 
 ## GitLab's Diversity Inclusion and Belonging Mission
 
-- **Mission**: At GitLab, we believe everyone can contribute.  This informs our approach to DIB.  We are building a scalable strategy based on **A**ction, **D**oing Good in the communities we serve, holding ourselves **A**ccountable and creating equitable **P**olicies in a **T**ransparent environment.  Just as DIB is a journey, our acronym, **A.D.A.P.T.** mirrors the agility required throughout that journey.
-- **Action** - There is intentionality in how we hire and retain our team members as well as engage with our customers and the open source community.
+- **Mission**: At GitLab, we believe everyone can contribute and the Diversity Inclusion and Belonging Team are building scalable strategies based on our acronym, A.D.A.P.T. which stands for **A**ction, **D**oing Good in the communities we serve, holding ourselves **A**ccountable and creating equitable **P**olicies in a **T**ransparent environment.  We are focused on helping to build high performing, customer centric teams by expanding, establishing, embedding our DIB  (https://handbook.gitlab.com/handbook/values/#diversity-inclusion). Just as DIB is a journey, our acronym, **A.D.A.P.T.** mirrors the agility required throughout that journey.
+- **Action** - There is intentionality in how we hire, progress and retain our team members as well as engage with our customers and the open source community.
 - **Do Good** - By providing avenues and opportunities for GitLab & team members to meaningfully contribute to our community and society.
 - **Accountable** - We have a Responsibility to commit and Answerable for the outcome.
 - **Policies**  - By building scalable ways to govern our work, actionable processes which inform our program development/execution.
@@ -183,7 +183,7 @@ The workshops are kept to a max of 15 team members to generate more comfort and 
 
 #### Facilitators
 
-Currently, we have four GitLab team members who are certified to facilitate the #IamRemarkable workshop:
+Currently, we have three GitLab team members who are certified to facilitate the #IamRemarkable workshop:
 
 1. Giuliana Lucchesi
 1. Terri Chu
@@ -311,7 +311,7 @@ If you are a team member on a GitLab Inc or Federal contract and a disabled vete
 
 ### Diversity, Inclusion & Belonging Training and Learning Opportunities
 
-- [Gitlab's Diversity, Inclusion & Belonging Certification on Gitlab LevelUp](https://levelup.gitlab.com/learn/course/dib-training-certification/gitlab-dib-certification-training/welcome-to-gitlab-dib-certification-training?client=internal-team-members)
+- [GitLab's Diversity, Inclusion & Belonging Certification on GitLab LevelUp](https://levelup.gitlab.com/learn/course/dib-training-certification/gitlab-dib-certification-training/welcome-to-gitlab-dib-certification-training?client=internal-team-members)
 - [Live Inclusion training](https://www.youtube.com/watch?v=gsQ2OsmgqVM&feature=youtu.be)
 - [Live Ally training](https://www.youtube.com/watch?v=wwZeFjDc4zE&feature=youtu.be)
 - Understanding [unconscious bias]({{< ref "unconscious-bias" >}})
@@ -371,7 +371,7 @@ We encourage organizers of events that are supported through our [GitLab Diversi
 ## Definitions
 
 - [Gender and Sexual Orientation Identity Definitions and FAQ](/handbook/people-group/orientation-identity/)
-- [Leadership](/handbook/company/team/structure/#organizational-chart) is defined as director and above.
+- [Leadership](/handbook/company/structure/#organizational-chart) is defined as director and above.
 - [Geographically](/handbook/company/culture/inclusion/identity-data/) is defined as those countries we use in our identity data.
 - Women is the term GitLab uses instead of "Female". "Female/Male" are gender terms often designated at birth. "Woman/Man" are gender terms based on self-identification. At GitLab, we define women based on how team members self-identify their gender in Workday.
 - **Privilege** is an unearned advantage given by society to some people but not all. In the USA figures were released in 2009 that on average women were paid $0.78 for every $1 a man makes. These figures have improved but there is still a gender imbalance.
@@ -386,7 +386,7 @@ We encourage organizers of events that are supported through our [GitLab Diversi
 - **Ethnicity**: Can be more broadly defined as “large groups of people classed according to common racial, national, tribal, religious, linguistic, or cultural origin or background.”
     - For example people who are Black/African Descent can have a variety of ethnicities such as African,  African American, Afro-Caribbean, Afro-Latinx etc. Whilst physical characteristics can be similar there could be cultural differences.
 - **Underrepresented Group** This can be defined as a group whose percentage of the population in a given group is lower than their percentage of the population of country, community, organization or otherwise.
-    - An example of this at Gitlab is: Women within Senior Leadership is still low compared to Men within Senior Leadership. Which meant that Gitlab created the goal of 50% of all senior leadership should be women by December 2021 to address the imbalance within this underrepresented group.
+    - An example of this at GitLab is: Women within Senior Leadership is still low compared to Men within Senior Leadership. Which meant that GitLab created the goal of 50% of all senior leadership should be women by December 2021 to address the imbalance within this underrepresented group.
 - **TMRG (Team Member Resource Group)** - In other organizations, a TMRG can be an ERG (Employee Resource Group). TMRGs are voluntary, team member-led groups focused on fostering diversity, inclusion and belonging within GitLab. These groups help team members build stronger internal and external connections; offer social, educational, and outreach activities; create development opportunities for future leaders; and increase engagement among team members.
 - **Ally** - A diversity, inclusion and belonging "ally" is someone who is willing to take action in support of another person, in order to remove barriers that impede that person from contributing their skills and talents in the workplace or community.
 - **Allyship** - Is the state of being an ally, supporting or being a member of  groups or associations of the people you are an ally too. An example of this is someone who does not identify as part of the [LGBTQI+](https://socialprotection-humanrights.org/key-issues/disadvantaged-and-vulnerable-groups/lgbtqi/) community being a part of the TMRG and supporting the endeavors.

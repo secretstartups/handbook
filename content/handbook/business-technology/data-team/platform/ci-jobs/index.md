@@ -22,7 +22,7 @@ This page documents the CI jobs used by the data team in Merge Requests in both 
 ![ci-db-deletion-schema.png](ci-db-deletion-schema.png)
 - Merge master branch. Due to how dbt handles packages pipelines can fail due to package failures which should always be handled in the latest branch.
 - Confirm [model selection syntax](https://docs.getdbt.com/reference/node-selection/syntax). In general, it is easiest to simply use the file names of the models you are changing.
-- If still uncertain or facing any issues, request assistance in the #data Slack channel  
+- If still uncertain or facing any issues, request assistance in the #data Slack channel
 
 ### Variable Name not found in the CI Pipeline job
 
@@ -103,21 +103,6 @@ Run this if you want to test a new boneyard sheetload load. This requires the re
 
 Run this if you want to test a new sheetload load. This jobs runs against the clone of `RAW`. Requires the `clone_raw_specific_schema` (parameter `SCHEMA_NAME=SHEETLOAD`) job to have been run.
 
-#### `🛢 pgp_test`
-
-This pipeline needs to be executed when doing changes to any of the below manifest files present in path `analytics/extract/postgres_pipeline/manifests_decomposed`.
-
-- el_customers_scd_db_manifest.yaml
-- el_gitlab_com_ci_db_manifest.yaml
-- el_gitlab_com_ci_scd_db_manifest.yaml
-- el_gitlab_com_db_manifest.yaml
-- el_gitlab_com_scd_db_manifest.yaml
-
-This pipeline requires.
-1. Clone of `TAP_POSTGRES` schema(Mandatory): The `TAP_POSTGRES` schema can be cloned by using CI JOB `clone_raw_postgres_pipeline` which is part of `❄️ Snowflake`.
-2. Variable `MANIFEST_NAME`(Mandatory): The value is manifest yaml filename except postfix `_db_manifest.yaml`, For example if modified file is `el_gitlab_com_ci_db_manifest.yaml` the variable passed will be `MANIFEST_NAME`=`el_gitlab_com_ci`.
-3. Variable `TASK_INSTANCE`(Optional): This do not apply to any of the incremental table. It is only required to be passed for table listed in the SCD manifest file for who has `advanced_metadata` flag value set to `true`. For example for table `bulk_import_entities` in manifest file `el_gitlab_com_scd_db_manifest.yaml`. We need to pass this variable `TASK_INSTANCE`. For testing purpose this can be any unique identifiable value.
-
 #### `🛢 saas_pgp_test`
 
 This pipeline needs to be executed when doing changes to any of the below manifest files present in path `analytics/extract/postgres_pipeline/manifests`.
@@ -130,7 +115,7 @@ This pipeline needs to be executed when doing changes to any of the below manife
 
 This pipeline requires.
 1. Clone of `TAP_POSTGRES` schema(Mandatory): The `TAP_POSTGRES` schema can be cloned by using CI JOB `clone_raw_postgres_pipeline` which is part of `❄️ Snowflake`.
-2. Variable `MANIFEST_NAME`(Mandatory): The value is manifest yaml filename except postfix `_db_manifest.yaml`, For example if modified file is `el_gitlab_com_ci_db_manifest.yaml` the variable passed will be `MANIFEST_NAME`=`el_saas_gitlab_com`.
+2. Variable `MANIFEST_NAME`(Mandatory): The value is manifest yaml filename except postfix `_db_manifest.yaml`, For example if modified file is `el_gitlab_com_ci_db_manifest.yaml` the variable passed will be `MANIFEST_NAME`=`el_saas_gitlab_com_ci`.
 3. Variable `TASK_INSTANCE`(Optional): This do not apply to any of the incremental table. It is only required to be passed for table listed in the SCD manifest file for who has `advanced_metadata` flag value set to `true`. For example for table `bulk_import_entities` in manifest file `el_saas_gitlab_com_scd_db_manifest.yaml`. We need to pass this variable `TASK_INSTANCE`. For testing purpose this can be any unique identifiable value.
 
 
@@ -270,7 +255,7 @@ This job tests specific seed file. Specify seed file with the variable `DBT_MODE
 ```
 Compilation Error in macro tag_validation (macros/utils/tag_validation.sql)
 Tag Validation Error
-  
+
 > in macro tag_validation (macros/utils/tag_validation.sql)
 > called by macro tag_validation (macros/utils/tag_validation.sql)
 ```
@@ -307,7 +292,7 @@ Runs all the models in the MR diff whose SQL has been edited against an XL wareh
 
 Specify which selector to build with the variable `DBT_SELECTOR`, additional filtering of the selection can be accomplished by appending the `resource-type` options to the desired selector.
 
-For example,  `DBT_SELECTOR: customers_source_models --resource-type snapshot` will limit the models to only snapshot models.  
+For example,  `DBT_SELECTOR: customers_source_models --resource-type snapshot` will limit the models to only snapshot models.
 
 Available selectors can be found in the [selector.yml](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/selectors.yml) file.  The dbt build command will run all seeds, snapshots, models, and tests that are part of the selection.  Just as in other snapshot CI jobs the `clone_raw_full` will need to have run to get a clone of the `RAW` database so that the snapshots executed in the job do not overwrite the 'production' raw data.  This is useful for the following scenarios:
 
@@ -375,7 +360,7 @@ This uses word count (wc) to see how many lines are in the comparison file. If t
 
 #### `🛃dbt_sqlfluff`
 
-Runs the SQLFluff linter on all changed `sql` files within the `transform/snowflake-dbt/models` directory.  This is currently executed manually and is allowed to fail, but we encourage anyone developing dbt models to view the output and format according to the linters specifications as this format will become the standard.  
+Runs the SQLFluff linter on all changed `sql` files within the `transform/snowflake-dbt/models` directory.  This is currently executed manually and is allowed to fail, but we encourage anyone developing dbt models to view the output and format according to the linters specifications as this format will become the standard.
 
 #### `🚫safe_model_script`
 
@@ -383,7 +368,7 @@ In order to ensure that all [SAFE](/handbook/legal/safe-framework/) data is bein
 
 #### `🔍macro_name_check`:
 
-Automatically runs when making changes in the snowflake-dbt/macros folder and checks if the newly created macros match the correct name format.  
+Automatically runs when making changes in the snowflake-dbt/macros folder and checks if the newly created macros match the correct name format.
 
 #### `🗂schema_tests`
 
@@ -446,7 +431,7 @@ Manual job to do a dry run of [Permifrost](https://gitlab.com/gitlab-data/permif
 
 #### `🧊 permifrost_spec_test`
 
-Must be run at least once before any changes to `permissions/snowflake/roles.yml` are merged. Takes around 30 minutes to complete.  
+Must be run at least once before any changes to `permissions/snowflake/roles.yml` are merged. Takes around 30 minutes to complete.
 
 Runs the `spec-test` cli of [Permifrost](https://gitlab.com/gitlab-data/permifrost/) to verify changes have been correctly configured in the database.
 

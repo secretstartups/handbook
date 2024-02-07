@@ -4,47 +4,42 @@ title: "Projects"
 ---
 
 
-
-
-
-
-
 ## Introduction
 
-We maintain our projects in the public [gitlab-de group](https://gitlab.com/gitlab-de). This group has access to an Ultimate subscription. 
+We maintain our projects in the public [gitlab-de group](https://gitlab.com/gitlab-de). This group has access to an Ultimate subscription.
 
 The group organizes use cases, workshops, tutorials, maintained [open source projects](/handbook/marketing/developer-relations/developer-evangelism/oss-contributions/), demo playgrounds, thought leadership research, and more learning resources.
 
 ## Organisation Structure
 
-All projects are organized in sub-groups on the top level. No projects are allowed on the top-level namespace `gitlab.com/gitlab-de`. 
+All projects are organized in sub-groups on the top level. No projects are allowed on the top-level namespace `gitlab.com/gitlab-de`.
 
 | Group        | DRI | Description  |
 |--------------|-----|--------------|
-| [playground](https://gitlab.com/gitlab-de/playground) | all | Test projects, simple demo cases, code snippets, etc. without support | 
-| [use-cases](https://gitlab.com/gitlab-de/use-cases) | all | Use cases for specific topics for product demos, talks, thought leadership, research | 
-| [use-cases/ai](https://gitlab.com/gitlab-de/use-cases/ai) | all | [AI workflows and use cases](/solutions/ai/) |
+| [playground](https://gitlab.com/gitlab-de/playground) | all | Test projects, simple demo cases, code snippets, etc. without support |
+| [use-cases](https://gitlab.com/gitlab-de/use-cases) | all | Use cases for specific topics for product demos, talks, thought leadership, research |
+| [use-cases/ai](https://gitlab.com/gitlab-de/use-cases/ai) | all | [GitLab Duo workflows, coffee chats, learning AI, use cases](https://about.gitlab.com/gitlab-duo/) |
 | [use-cases/cicd-components-catalog](https://gitlab.com/gitlab-de/use-cases/cicd-components-catalog) |  @iganbaruch | GitLab CI/CD Components Catalog use cases |
-| [use-cases/efficiency](https://gitlab.com/gitlab-de/use-cases/efficiency) | @dnsmichi | Efficiency use cases (CI/CD, container images, workflows, CLI, etc.) | 
-| [use-cases/gitlab-api](https://gitlab.com/gitlab-de/use-cases/gitlab-api) | @dnsmichi | GitLab API use cases with libraries and scripts |  
+| [use-cases/efficiency](https://gitlab.com/gitlab-de/use-cases/efficiency) | @dnsmichi | Efficiency use cases (CI/CD, container images, workflows, CLI, etc.) |
+| [use-cases/gitlab-api](https://gitlab.com/gitlab-de/use-cases/gitlab-api) | @dnsmichi | GitLab API use cases with libraries and scripts |
 | [use-cases/observability](https://gitlab.com/gitlab-de/use-cases/observability) | @dnsmichi | Observability uses cases and research (OpenTelemetry, eBPF, etc.) |
 | [use-cases/remote-development](https://gitlab.com/gitlab-de/use-cases/remote-development) | @dnsmichi @iganbaruch | Remote development environments and Web IDE use cases |
 | [workshops](https://gitlab.com/gitlab-de/workshops) | all | Workshop groups and projects provided by the team |
-| [projects](https://gitlab.com/gitlab-de/projects) | @abuango | Production projects maintained by the team | 
+| [projects](https://gitlab.com/gitlab-de/projects) | @abuango | Production projects maintained by the team |
 | [tutorials](https://gitlab.com/gitlab-de/tutorials) | all |
-| [tutorials/security-and-governance](https://gitlab.com/gitlab-de/tutorials/security-and-governance) | @fjdiaz | This group contains different projects as well as documentation around GitLab's security and governance tools. | 
-| [unmaintained](https://gitlab.com/gitlab-de/unmaintained) | - | Projects, tutorials, use cases that are not maintained anymore but kept public for transparency | 
+| [tutorials/security-and-governance](https://gitlab.com/gitlab-de/tutorials/security-and-governance) | @fjdiaz | This group contains different projects as well as documentation around GitLab's security and governance tools. |
+| [unmaintained](https://gitlab.com/gitlab-de/unmaintained) | - | Projects, tutorials, use cases that are not maintained anymore but kept public for transparency |
 
 ### Access
 
-Access is limited to [team members in the `gitlab-de` group](https://gitlab.com/groups/gitlab-de/-/group_members). Adding/removing members [requires an issue](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues) to document the change. 
+Access is limited to [team members in the `gitlab-de` group](https://gitlab.com/groups/gitlab-de/-/group_members). Adding/removing members [requires an issue](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues) to document the change.
 
-Allowed exceptions are workshop sub-groups that invite external users into their workshop projects temporarily. All temporarily added users [**must** use a membership expiration date of 7 days](https://docs.gitlab.com/ee/user/project/members/#add-users-to-a-project). 
+Allowed exceptions are workshop sub-groups that invite external users into their workshop projects temporarily. All temporarily added users [**must** use a membership expiration date of 7 days](https://docs.gitlab.com/ee/user/project/members/#add-users-to-a-project).
 
-### Add a new project or group 
+### Add a new project or group
 
-1. Define the scope of your project, and add it into one of the top-level groups. 
-1. When unsure, create the project in the [playground](https://gitlab.com/gitlab-de/playground) group first, and transfer it to its production location later in the project settings. 
+1. Define the scope of your project, and add it into one of the top-level groups.
+1. When unsure, create the project in the [playground](https://gitlab.com/gitlab-de/playground) group first, and transfer it to its production location later in the project settings.
 
 **Do not create new top-level groups without first proposing the change in an issue/MR.**
 
@@ -52,43 +47,43 @@ Allowed exceptions are workshop sub-groups that invite external users into their
 
 Always add a `README.md` file that explains the purpose of the project/group (copy the text into `Settings > General > Description`), and links all resources (issues, direction pages, blog posts, etc.). GitLab supports [Group READMEs](https://docs.gitlab.com/ee/user/group/manage#add-group-readme) next to project READMEs.
 
-Optional but recommended: Add a project/group avatar image that illustrates the topic. Use an official GitLab brand image, or download [a free asset from Unsplash](/handbook/legal/ip-public-materials-guidelines/#visual-content-including-videos-gifs-photographs-illustrations-graphics-and-artwork). Add the credits to the `README.md` file. 
+Optional but recommended: Add a project/group avatar image that illustrates the topic. Use an official GitLab brand image, or download [a free asset from Unsplash](/handbook/legal/ip-public-materials-guidelines/#visual-content-including-videos-gifs-photographs-illustrations-graphics-and-artwork). Add the credits to the `README.md` file.
 
-Tip: You can [resize images](/handbook/tools-and-tips/#resizing-images) using the following CLI command: 
+Tip: You can [resize images](/handbook/tools-and-tips/#resizing-images) using the following CLI command:
 
 ```
 find . -type f -exec sh -c 'convert {} -resize 150 {}' \;
 ```
 
-#### Group: Use Cases 
+#### Group: Use Cases
 
 1. Blog posts or thought leadership research usually describe a use case or specific topic. Review the existing [use-cases](https://gitlab.com/gitlab-de/use-cases), add a new project or sub-group.
-1. If your use case is new, create a new subgroup, add a description, and update the handbook organization structure. Add yourself as DRI to the table. 
+1. If your use case is new, create a new subgroup, add a description, and update the handbook organization structure. Add yourself as DRI to the table.
 
-#### Group: Tutorials and Workshops 
+#### Group: Tutorials and Workshops
 
-1. [Tutorials](https://gitlab.com/gitlab-de/tutorials) provide helpful content to learn specific topics and have a DRI assigned to maintain the projects. Tutorials are referenced in blog posts, webinars, etc. 
-1. [Workshops](https://gitlab.com/gitlab-de/workshops) provide self-contained learning resources in the form of exercises, solutions, etc. in a single repository. 
+1. [Tutorials](https://gitlab.com/gitlab-de/tutorials) provide helpful content to learn specific topics and have a DRI assigned to maintain the projects. Tutorials are referenced in blog posts, webinars, etc.
+1. [Workshops](https://gitlab.com/gitlab-de/workshops) provide self-contained learning resources in the form of exercises, solutions, etc. in a single repository.
 
-When unsure where to start, create a new tutorial sub group first, and later decide to migrate the content to a workshop for example. 
+When unsure where to start, create a new tutorial sub group first, and later decide to migrate the content to a workshop for example.
 
-#### Group: Projects 
+#### Group: Projects
 
-The [projects](https://gitlab.com/gitlab-de/projects) group contains all projects that are used in production. They require extended documentation in the team handbook, since the team depends on the functionality for workflows and efficiency. We also maintain microsites that are served with GitLab pages and custom domains.
+The [projects](https://gitlab.com/gitlab-de/projects) group contains all projects that are used in production. They require extended documentation in the team handbook, since the team depends on the functionality for workflows and efficiency. We also maintain microsites that are served with GitLab Pages and custom domains.
 
 ### Remove a project/group
 
-Our demo projects are referenced in blog posts and other public content. Moving these projects/groups into the [unmaintained](https://gitlab.com/gitlab-de/unmaintained) is recommended to signal their deprecation to users instead of archiving/deleting the projects. 
+Our demo projects are referenced in blog posts and other public content. Moving these projects/groups into the [unmaintained](https://gitlab.com/gitlab-de/unmaintained) is recommended to signal their deprecation to users instead of archiving/deleting the projects.
 
 ## Project Resources
 
-Some projects require access to Kubernetes clusters, self-managed CI/CD Runners, cloud VMs, domains, etc. The team has access to Google Cloud or AWS cloud resources that allow hosting these types of external infrastructure dependencies for GitLab.com SaaS demos. 
+Some projects require access to Kubernetes clusters, self-managed CI/CD Runners, cloud VMs, domains, etc. The team has access to Google Cloud or AWS cloud resources that allow hosting these types of external infrastructure dependencies for GitLab.com SaaS demos.
 
 ### Workflow
 
 1. Document the project setup in its README file (or a in a docs/ structure in the Git repository).
 1. Shutdown resources when not needed (i.e. Kubernetes clusters).
-1. Always add [security scanning](https://docs.gitlab.com/ee/user/application_security/) as default, unless it competes with the demo cases. 
+1. Always add [security scanning](https://docs.gitlab.com/ee/user/application_security/) as default, unless it competes with the demo cases.
 
 For demos that require debugging the deployments, prefer shared resources, for example in Google Cloud.
 
@@ -97,10 +92,10 @@ For demos that require debugging the deployments, prefer shared resources, for e
 
 Shared cloud resources examples:
 
-1. All team members can manage resources in Google Cloud in the [community-group project](https://console.cloud.google.com/kubernetes/list/overview?hl=en&project=group-community-a29572) and `Editor` role. Create an [access request](/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/) to add/remote team members. 
-1. Google Cloud/AWS also allows you to [register domains that are not trademarked](/handbook/it/guides/domains-dns/#non-trademark-domain-names) (no `gitlab` in the name!) and use the domains for demo setups. 
+1. All team members can manage resources in Google Cloud in the [community-group project](https://console.cloud.google.com/kubernetes/list/overview?hl=en&project=group-community-a29572) and `Editor` role. Create an [access request](/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/) to add/remote team members.
+1. Google Cloud/AWS also allows you to [register domains that are not trademarked](/handbook/it/guides/domains-dns/#non-trademark-domain-names) (no `gitlab` in the name!) and use the domains for demo setups.
 
-For individual short-lived tutorials or demo setups for a blog post, prefer the [Cloud Sandbox Realm](/handbook/infrastructure-standards/realms/sandbox/#how-to-get-started). This provides automated shutdown, generated domains for easier access, etc. 
+For individual short-lived tutorials or demo setups for a blog post, prefer the [Cloud Sandbox Realm](/handbook/infrastructure-standards/realms/sandbox/#how-to-get-started). This provides automated shutdown, generated domains for easier access, etc.
 
 ```mermaid
 flowchart TD;
@@ -111,22 +106,46 @@ flowchart TD;
   C --> |No| B
 ```
 
-### Remote Development Workspaces 
+### Remote Development Workspaces
 
 The [remote-development sub group](https://gitlab.com/gitlab-de/use-cases/remote-development) has an agent for Kubernetes installed, which is documented in the [agent-kubernetes-gke](https://gitlab.com/gitlab-de/use-cases/remote-development/agent-kubernetes-gke) project. This includes troubleshooting when the agent becomes unresponsive, and workspaces are not created.
 
 Assigned resources:
 
-1. The Kubernetes cluster [`de-remote-development-1`](https://console.cloud.google.com/kubernetes/list/overview?project=group-community-a29572) is running in GKE. Current resources: 3 nodes. Total 6 vCPU, 12 GB memory. 
+1. The Kubernetes cluster [`de-remote-development-1`](https://console.cloud.google.com/kubernetes/list/overview?project=group-community-a29572) is running in GKE. Current resources: 3 nodes. Total 6 vCPU, 12 GB memory.
 1. The domain `remote-dev.dev` has been purchased through the Google DNS service and points to the Kubernetes cluster's public IP.
 1. The TLS certificates have been generated manually with Let's Encrypt and need to be renewed quarterly (2023-08-15), following the [documentation steps](https://gitlab.com/gitlab-de/use-cases/remote-development/agent-kubernetes-gke).
 
+## Product Adoption Initiatives
+
+### GitLab Duo Coffee Chat
+
+Live learning session with AI-powered workflows throughout the DevSecOps lifecycle, with the help of GitLab Duo. We discuss, explore, research, learn, debug, create product feedback and feature ideas, and discover new features and workflows.
+
+Goal: The coffee chats helps our customers learn how to use GitLab Duo and adopt best practices – by example, making mistakes, trying different routes, and achieving better results and DevSecOps efficiency. 
+
+- [GitLab group with projects](https://gitlab.com/gitlab-de/use-cases/ai/gitlab-duo-coffee-chat)
+- [YouTube playlist](https://go.gitlab.com/xReaA1)
+- [GitLab Duo](https://go.gitlab.com/Z1vBGD) 
+- [Talk: Efficient DevSecOps Workflows with a little help from AI](https://go.gitlab.com/T864XF) - [content epic](https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics/402)
+- [Organization issue](https://gitlab.com/gitlab-com/marketing/developer-relations/dev-evangelism/de-tmm-meta/-/issues/375)
+
+Maintainer: [Michael Friedrich, @dnsmichi](https://about.gitlab.com/handbook/company/team/#dnsmichi)
+
+### CI/CD Components Catalog 
+
+Collaborate with product and engineering to help seed the CI/CD component catalog through CI/CD template migration for [GitLab-maintained components](https://gitlab.com/components). Help maintain and review contributions from community competition and hackathons. Repurpose the learnings into content and story-telling ([content epic](https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics/399)). 
+
+This initiative is part of the [CI Adoption WG](https://handbook.gitlab.com/handbook/company/working-groups/customer-use-case-adoption/) and contributions by Developer Relations ([epic](https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics/317)). 
+
+Goal: Help customers with CI/CD components for DevSecOps Efficiency. Learn best practices and share them in blog posts, tutorials, workshops. 
+
+Maintainers: [Michael Friedrich, @dnsmichi](https://about.gitlab.com/company/team/#dnsmichi), [Itzik Gan Baruch, @iganbaruch](https://about.gitlab.com/company/team/#iganbaruch)
 
 ## Learning Collections
 
 ### Our Work Environments
 
-* [Brendan's dotfiles](https://gitlab.com/brendan/dotfiles)
 * [Michael's dotfiles](https://gitlab.com/dnsmichi/dotfiles) covered in [this blog post](https://about.gitlab.com/blog/2020/04/17/dotfiles-document-and-automate-your-macbook-setup/)
 
 ### log4j-resources
@@ -135,40 +154,21 @@ The [log4j-resources](https://gitlab.com/gitlab-de/log4j-resources) project prov
 
 Maintainers: [Developer Evangelism team](/handbook/marketing/developer-relations/developer-evangelism/)
 
-### o11y.love
-
-[o11y.love](https://o11y.love/) is a collection of useful learning resources for observability. The [project](https://gitlab.com/everyonecancontribute/observability/o11y.love) is built using Markdown, MkDocs and GitLab Pages and organized in the [EveryoneCanContribute cafe](#everyonecancontribute-cafe) community. 
-
-Maintainer: [Michael Friedrich](/handbook/company/team/#dnsmichi)
-
-### Opentelemetry with GitLab Research
-
-- Purpose: "Research OpenTelemetry with Tracing to help achieve CI/CD Observability in GitLab."
-- Motivation: [Feature proposal for CI/Observability: Tracing with OpenTelemetry](https://gitlab.com/gitlab-org/gitlab/-/issues/338943)
-
-The [project](https://gitlab.com/everyonecancontribute/observability/opentelemetry-gitlab-research) provides all notes, configuration, dev environments, research [changelog](https://gitlab.opentelemetry.love/changelog/), etc. and is deployed with GitLab Pages and MkDocs to [gitlab.opentelemetry.love/](https://gitlab.opentelemetry.love/). The subdomain is on purpose as long as the research continues; the main domain `opentelemetry.love` will be used by Michael for other projects. 
-
-Maintainer: [Michael Friedrich](/handbook/company/team/#dnsmichi)
-
-### opsindev.news Newsletter
-
-[opsindev.news](https://opsindev.news) is a newsletter inspired by the problem of too many resources, spread around Slack channels and Twitter/LinkedIn feeds where the information can be overwhelming. The target audience is developers learning Ops and DevOps, as well as engineers facing day-2-ops challenges. The newsletter is based on the latest news, telling a story and diving into the latest technology. Tips and tools and CFPs for events are curated too.
-
-The platform with Buttondown and GitLab pages is documented in the [Contributing guide](https://opsindev.news/contributing/). The newsletter is maintained in public in Michael's namespace: https://gitlab.com/dnsmichi/opsindev.news 
-
-Maintainer: [Michael Friedrich](/handbook/company/team/#dnsmichi)
-
 ## Workshops
 
 ### DevOps and GitLab
 
 #### DevOps with GitLab CI Course - Build Pipelines and Deploy to AWS
 
+Published: 2022. 
+
 [GitLab Hero](/community/heroes/members/) [Valentin Despa](https://twitter.com/vdespa) created the 5h course in collaboration Michael Friedrich, who helped with the [course outline review](https://gitlab.com/everyonecancontribute/workshops/gitlab-ci-freecodecamp/-/merge_requests/1).
 
 [![](https://img.youtube.com/vi/PGyhBwLyK2U/0.jpg)](https://www.youtube.com/watch?v=PGyhBwLyK2U "DevOps with GitLab CI Course - Build Pipelines and Deploy to AWS")
 
 #### Efficient DevSecOps Pipelines in a Cloud Native World
+
+Published: 2021. 
 
 The [slides](https://docs.google.com/presentation/d/12ifd_w7G492FHRaS9CXAXOGky20pEQuV-Qox8V4Rq8s/edit) provide a 10+ hours workshop created by Michael Friedrich for the Open Source Automation Days 2021. The exercises in the slides refer to [a workshop project](https://gitlab.com/gitlab-de/workshops/ci-cd-pipeline-efficiency-workshop) which also includes the solutions.
 
@@ -179,9 +179,9 @@ The following topics will be practiced:
 - Analyse & Identify
   - Learn using the [GitLab CI Pipeline Exporter](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter/tree/main/examples/quickstart) to monitor the exercise project throughout the workshop.
 - Efficiency actions
-  - Config Efficiency: CI/CD Variables in variables, job templates (YAML anchors, extends), includes (local, remote), rules and conditions (if, dynamic variables, conditional includes), `!reference` tags (script, rules), maintain own CI/CD templates (include templates, override config values), parent-child pipelines, multi project pipelines, better error messages to fix failures fast 
+  - Config Efficiency: CI/CD Variables in variables, job templates (YAML anchors, extends), includes (local, remote), rules and conditions (if, dynamic variables, conditional includes), `!reference` tags (script, rules), maintain own CI/CD templates (include templates, override config values), parent-child pipelines, multi project pipelines, better error messages to fix failures fast
   - Resource Use Efficiency: Identification, max pipeline duration analysis, fail fast with stages grouping, fail fast with async needs, analyse blocking stages pipeline (solution with needs), matrix builds for parallel execution (pratice: combine matrix and `extends`, combine matrix and `!reference`), `extends` merge strategies (with and without `!reference`)
-  - CI/CD Infrastructure Efficiency: Optimization ideas, custom build images, optimize builds with C++ as example, GitLab runner resource analysis (sharing, tags, external dependencies, Kubernetes), local runner exercise, resource groups, storage usage analysis, caching (Python dependency exercise, including `when:always` on failed jobs) 
+  - CI/CD Infrastructure Efficiency: Optimization ideas, custom build images, optimize builds with C++ as example, GitLab Runner resource analysis (sharing, tags, external dependencies, Kubernetes), local runner exercise, resource groups, storage usage analysis, caching (Python dependency exercise, including `when:always` on failed jobs)
   - Auto-scaling: Overview, AWS auto-scaling with GitLab Runner with Terraform, insights into [Spot Runners on AWS Graviton](https://about.gitlab.com/blog/2021/08/17/100-runners-in-less-than-10mins-and-less-than-10-clicks/)
 - Group discussion
   - Deployment Strategies: IaC, GitOps, Terraform, Kubernetes, registries
@@ -210,10 +210,12 @@ The [slides](https://docs.google.com/presentation/d/1bj8FqU5I-Og-Yf9rDbp0qRjV4AX
 
 #### Recent Recordings
 
+Published: 2021.
+
 [![](https://img.youtube.com/vi/id9klDUrGN8/0.jpg)](https://www.youtube.com/watch?v=id9klDUrGN8 "TalentQL Pipeline workshop in October 2021")
 [![](https://img.youtube.com/vi/kTNfi5z6Uvk/0.jpg)](https://www.youtube.com/watch?v=kTNfi5z6Uvk "1. Swiss Meetup 2021 in January")
 
-Recordings of past workshops and other videos from the Developer Evangelism team can be found on our [team playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq-bYO9jCJaN45BBpzWSLAQ) on GitLab Unfiltered. 
+Recordings of past workshops and other videos from the Developer Evangelism team can be found on our [team playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq-bYO9jCJaN45BBpzWSLAQ) on GitLab Unfiltered.
 
 ### Past Meetup Workshops
 
@@ -245,7 +247,9 @@ German language:
 
 #### Kubernetes Observability workshop for Kube Simplify
 
-Michael Friedrich provides a 3.5 hours live workshop on Kubernetes Observability for the [Kube Simplify workshop series](https://kubesimplify.github.io/live-workshops/) as a free learning resource. After an introduction, the workshop starts with an overview of monitoring, metrics with Prometheus, and how to build and use dashboards in Kubernetes. Alerts, incidents and SLOs are practiced by example, building the bridge into more Observability data with tracing, logs and more event types. Chaos engineering is practiced with Chaos Mesh to trigger alerts when DNS errors force an app to leak memory. This allows users to practice the [KubeCon EU 2022 demo](https://youtu.be/BkREMg8adaI) themselves. Scaling, long term storage, security workflows as well as new innovative ideas with OpenTelemetry and eBPF are discussed too. The workshop includes exercises and solutions ready for production environments afterwards. 
+Published: 2022. 
+
+Michael Friedrich provides a 3.5 hours live workshop on Kubernetes Observability for the [Kube Simplify workshop series](https://kubesimplify.github.io/live-workshops/) as a free learning resource. After an introduction, the workshop starts with an overview of monitoring, metrics with Prometheus, and how to build and use dashboards in Kubernetes. Alerts, incidents and SLOs are practiced by example, building the bridge into more Observability data with tracing, logs and more event types. Chaos engineering is practiced with Chaos Mesh to trigger alerts when DNS errors force an app to leak memory. This allows users to practice the [KubeCon EU 2022 demo](https://youtu.be/BkREMg8adaI) themselves. Scaling, long term storage, security workflows as well as new innovative ideas with OpenTelemetry and eBPF are discussed too. The workshop includes exercises and solutions ready for production environments afterwards.
 
 Resources:
 
@@ -257,33 +261,9 @@ Recording:
 [![Kube Simplify: Kubernetes Observability workshop](https://img.youtube.com/vi/sMEEVbZ4NFM/0.jpg)](https://www.youtube.com/watch?v=sMEEVbZ4NFM)
 
 
-#### Practical Kubernetes Monitoring with Prometheus
-
-The [slides](https://docs.google.com/presentation/d/17XVCbiC4PZYvpreZINmhNltmT-DDCo3LjoaPgqpsxVo/edit) provide a 4+ hours workshop, more details are available [on Michael Friedrich's personal blog](https://dnsmichi.at/2021/09/14/monitoring-kubernetes-with-prometheus-and-grafana-free-workshop/). The following topics will be practiced:
-
-- Monitoring, quo vadis puts the traditional monitoring in contrast to microservices.
-- Prometheus and Grafana shares the basic knowledge on Prometheus, PromQL, Service Discovery and terminology required to understand.
-- Kubernetes dives into understanding what to monitor, and how.
-- Prometheus Operator dives into the concept of the package, and kube-prometheus installing a full stack. You'll dive into the UI of Prometheus, Grafana and the Alert Manager.
-- K8s monitoring with Prometheus walks you through the - amazing - default Grafana dashboards, instructs you to deploy a Go demo app with the CRD ServiceMonitor, Container Metrics and kube-state-metrics exercises to practice PromQL queries.
-- Advanced Monitoring practices with a Python app and own metrics, deployed to the GitLab container registry and to Kubernetes to query with PromQL in Grafana dashboards. Storage with Thanos/Cortex, Service Discovery is touched as well.
-- Alerts and Escalations dives into the Alert Manager and rules, mapped into the PrometheusRule CRD.
-- SLA, SLO, SLI keeps you busy with learning about Service Level Objectives for your production environment, providing thoughts on CI/CD quality gates with Keptn - and the OpenSLO spec, Pyrra and Sloth.
-- Observability moves from Monitoring to metrics, logs, traces and beyond.
-- Secure Monitoring discusses TLS, secret management, Infrastructure as code workflows, Container security and RBAC & policies.
-- Ideas on more monitoring with Prometheus exporters, podtato-head, Chaos Engineering, etc.
-
-A shorter version of the workshop [as a talk](https://docs.google.com/presentation/d/1EEBJFgeThlVEeC_E3tOYGicU2X0S9vPGsba49EQSNwk/edit) was provided by Michael Friedrich at PromCon NA 2021, a zero day event at KubeCon NA.
-
-[![](https://img.youtube.com/vi/CyQNYT1ZQQ8/0.jpg)](https://www.youtube.com/watch?v=CyQNYT1ZQQ8 "PromCon NA: Practical Kubernetes Monitoring with Prometheus")
-
-
-
-
-
 ## OSS Projects
 
-The Developer Evangelism team maintains [OSS projects](/handbook/marketing/developer-relations/developer-evangelism/oss-contributions/) as part of community activities. 
+The Developer Evangelism team maintains [OSS projects](/handbook/marketing/developer-relations/developer-evangelism/oss-contributions/) as part of community activities.
 
 ### CodeChallenge.dev
 
@@ -306,7 +286,7 @@ Project: [codechallenge](https://gitlab.com/gitlab-de/codechallenge)
 
 Maintainer: [Abubakar Siddiq Ango](/handbook/company/team/#abuango)
 
-The dashboard is the SSoT to collect all metrics for the Developer Evangelism, and Education Evangelism teams. This includes Twitter, CFPs, YouTube/Google Analytics, etc. Next to the dashboard component, the data component ensures to collect all data from different APIs and sources, and [gets deployed to GitLab pages](https://gitlab-de.gitlab.io/dashboards/).
+The dashboard is the SSoT to collect all metrics for the Developer Evangelism, and Education Evangelism teams. This includes Twitter, CFPs, YouTube/Google Analytics, etc. Next to the dashboard component, the data component ensures to collect all data from different APIs and sources, and [gets deployed to GitLab Pages](https://gitlab-de.gitlab.io/dashboards/).
 
 Project: [Dashboards](https://gitlab.com/gitlab-de/dashboards)
 
@@ -326,7 +306,7 @@ Project: [DE Bot](https://gitlab.com/gitlab-com/marketing/corporate_marketing/de
 
 Maintainer: [Abubakar Siddiq Ango](/handbook/company/team/#abuango)
 
-This [custom dashboard](https://gitlab-com.gitlab.io/marketing/corporate_marketing/developer-evangelism/code/de-dashboard/) is built using [GitLab pages](https://about.gitlab.com/stages-devops-lifecycle/pages/) and presents an overview of Developer Evangelism issues. The requests are synced in a specified interval.
+This [custom dashboard](https://gitlab-com.gitlab.io/marketing/corporate_marketing/developer-evangelism/code/de-dashboard/) is built using [GitLab Pages](https://about.gitlab.com/stages-devops-lifecycle/pages/) and presents an overview of Developer Evangelism issues. The requests are synced in a specified interval.
 
 Project: [DE Dashboard](https://gitlab.com/gitlab-com/marketing/corporate_marketing/technical-evangelism/code/de-dashboard)
 
@@ -354,13 +334,13 @@ Maintainer: [Michael Friedrich](/handbook/company/team/#dnsmichi)
 
 [everyonecancontribute.com](https://everyonecancontribute.com) serves as the main website for a community formed around tech coffee chats called `#EveryoneCanContribute cafe` (active) and `#EveryoneCanContribute Kaeffchen` (retired).
 
-The coffee chats are organized as [meetup.com group events](https://www.meetup.com/everyonecancontribute-cafe/) and are open for topic or theme suggestions from everyone. 
+The coffee chats are organized as [meetup.com group events](https://www.meetup.com/everyonecancontribute-cafe/) and are open for topic or theme suggestions from everyone.
 
 * Try out newly announced projects together.
 * Do pair programming/debugging sessions.
 * Start discussions and share ideas on the latest technology.
 
-The sessions are hosted by Michael Friedrich. Developer Evangelism team members are assigned as alternative hosts in Zoom. The meetups are hosted in Zoom with a waiting room as default, the Zoom URL is hidden in the meetup group event. team members can access the URL in the [Developer Evangelism team calendar](/handbook/marketing/developer-relations/developer-evangelism/). For joining the group, users need a profile picture and provide their name for joining an event. This is to protect against Zoom bombing and otherwise harmful intentions. 
+The sessions are hosted by Michael Friedrich. Developer Evangelism team members are assigned as alternative hosts in Zoom. The meetups are hosted in Zoom with a waiting room as default, the Zoom URL is hidden in the meetup group event. team members can access the URL in the [Developer Evangelism team calendar](/handbook/marketing/developer-relations/developer-evangelism/). For joining the group, users need a profile picture and provide their name for joining an event. This is to protect against Zoom bombing and otherwise harmful intentions.
 
 Next to Zoom, everyone can hangout with text or audio in [Discord](https://everyonecancontribute.com/page/handbook/#discord).
 
@@ -368,7 +348,7 @@ The website's [About page](https://everyonecancontribute.com//page/about/) cover
 
 Insights:
 
-* The website is built using [GitLab pages](https://about.gitlab.com/stages-devops-lifecycle/pages/).
+* The website is built using [GitLab Pages](https://about.gitlab.com/stages-devops-lifecycle/pages/).
 * Organization happens in the GitLab group [everyonecancontribute](https://gitlab.com/groups/everyonecancontribute/-/issues). This group has applied for an Ultimate license for OSS projects.
 * [#everyonecancontribute cafe (English)](https://www.youtube.com/playlist?list=PL05JrBw4t0Kp1Gni9SyudMmXmBJIp7rIc) YouTube playlist.
 * [#everyonecancontribute Kaeffchen (German)](https://www.youtube.com/playlist?list=PL05JrBw4t0Ko8J8V5V794CXZUZ-DLxccI)YouTube playlist.
@@ -377,7 +357,7 @@ Insights:
 
 ### Metrics and Insights
 
-In order to track the sessions, [create a monthly issue report](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=everyonecancontribute-cafe-insights) with linking the blog post, recording, social shares etc. 
+In order to track the sessions, [create a monthly issue report](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=everyonecancontribute-cafe-insights) with linking the blog post, recording, social shares etc.
 
 ### everyonecancontribute cafe groups
 

@@ -1,10 +1,8 @@
 ---
 
-title: "CSM/CSE Webinar Calendar"
+title: "CSM/CSE Webinar & Hands-On Labs Calendar"
 ---
 # On this page
-
-
 
 
 
@@ -13,94 +11,144 @@ View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional
 Watch previously recorded webinars on our [YouTube Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kpczt4pRtyF147Uvn2bGGvq).
 
 ---
-# Upcoming Webinars
+# Upcoming Events
 
-We’d like to invite you to our free upcoming webinars and workshops in the month of December.
+We’d like to invite you to our free upcoming webinars and labs in the month of February 2024.
 
 If you know someone who might be interested in attending, feel free to share the registration links with them. Everyone is welcome, and we hope to see you there!
 
-## December 2023
+## February 2024
 
-### AMER Time Zone Webinars & Workshops
+### AMER Time Zone Webinars & Labs
 
-#### GitLab Runner Fundamentals and What You Need to Know
-##### December 12th, 2023 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
-Runners are a requirement for operating GitLab CI/CD. Learn about Runner architecture, options for deployments, supported operating systems, and optimizing them for most efficient usage. We will be discussing best practices, decisions that you need to make before deploying at scale, and options you have for monitoring fleets of runners.
+#### Intro to CI/CD
+##### February 6th, 2024 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
 
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_8MhXdP2iRTSwUpg-flKrkA)
+Come learn about what CI/CD is and how it can benefit your team. We will cover an overview of CI/CD and what it looks like in GitLab. We will also cover how to get started with your first CI/CD pipeline in GitLab and the basics of GitLab Runners.
 
-#### Advanced CI/CD
-##### December 15th, 2023 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_YFaTRHSXRm-mGg0wbz9T1w#/registration)
 
-Expand your CI/CD knowledge while we cover advanced topics that will accelerate your efficiency using GitLab, such as pipelines, variables, rules, artifacts, and more. This session is intended for those who have used CI/CD in the past.
+#### Hands-On GitLab CI Lab 
+##### February 7th, 2023 at 9:00-11:00AM Pacific Time / 12:00-2:00PM Eastern Time
 
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_qLgZbyUQSb-PEGgR6BKanw)
+Join us for a hands-on GitLab CI lab and learn how it can fit in your organization!
 
-#### Security and Compliance
-##### December 18th, 2023 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
+Learn how to build simple GitLab pipelines and work up to more advanced pipeline structures and workflows, including security scanning and compliance enforcement.
 
-GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_FQLqC69gS7-n-r-sbWaMeA)
-
-#### Jira to GitLab: Helping you transition to planning with GitLab
-##### December 19th, 2023 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
-GitLab offers robust team planning capabilities that work directly with the DevOps lifecycle. Keeping teams in a single application offers operational and financial advantages. Many customers inquire about what a transition would look like from Jira Software to GitLab to team planning. This webinar will start to outline the differences in functionality and advantages gained by using GitLab. 
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_RGDl9kllQoa0DqIsgny4JA)
-
-#### Hands-on Workshop: Security and Compliance in GitLab
-##### December 20th, 2023 at 9:00-11:00AM Pacific Time / 12:00-2:00PM Eastern Time
-
-In this workshop we will focus on how you can secure your application with GitLab. 
-
-We will first take a look at how to apply scanners to your CICD pipelines in a hands-on exercise so that any vulnerabilities are caught as soon as the code is committed. 
-
-Next, we will look at compliance frameworks and pipelines to show how you can ensure no one within your development teams is cutting corners and exposing your application.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_F4UqXm2tQci4x3zDIVqfbg#/registration)
-
-
-### EMEA Time Zone Webinars and Workshops
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_hkYBKA34TFqsVdbVONzHWw)
 
 #### GitLab Runner Fundamentals and What You Need to Know
-##### December 12th, 2023 at 10:00-11:00AM UTC / 11:00AM-12:00PM CET
+##### February 9th, 2024 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
 
 Runners are a requirement for operating GitLab CI/CD. Learn about Runner architecture, options for deployments, supported operating systems, and optimizing them for most efficient usage. We will be discussing best practices, decisions that you need to make before deploying at scale, and options you have for monitoring fleets of runners.
 
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_pybVwAKCTHmTm3REBIZBeA)
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_uc6Q1ZY2SpmQxRAiQUc-jA#/registration)
 
 #### Advanced CI/CD
-##### December 15th, 2023 at 10:00-11:00AM UTC / 11:00AM-12:00PM CET
+##### February 13th, 2024 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
 
 Expand your CI/CD knowledge while we cover advanced topics that will accelerate your efficiency using GitLab, such as pipelines, variables, rules, artifacts, and more. This session is intended for those who have used CI/CD in the past.
 
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_8qG79YYoRDC8vdKsqlnxvQ)
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_uJms-QWpRXuNF8J1DXLMjw#/registration)
+
+#### Hands-On Advanced GitLab CI Lab 
+##### February 14th, 2023 at 9:00-11:00AM Pacific Time / 12:00-2:00PM Eastern Time
+
+Join us for a hands-on lab where we will go into advanced GitLab CI capabilities that allow customers to simplify pipeline yml code and optimize the execution time of pipelines.
+
+We will cover:
+- Storing build resources in GitLab registries
+- Managing artifacts, dependencies, and environment variables between jobs
+- Running a job multiple times in parallel with different variables
+- Triggering downstream pipelines
+
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_h-Q7kP6CRNmbPYnE4h-DVg)
 
 #### Security and Compliance
-##### December 18th, 2023 at 10:00-11:00AM UTC / 11:00AM-12:00PM CET
+##### February 21st, 2024 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
 
 GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
 
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_wQZhdCUGTcWttDe_4aKMhA)
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_kNAaDYm_TgiUZTXV7HtfKA#/registration)
 
-#### Jira to GitLab: Helping you transition to planning with GitLab
-##### December 19th, 2023 at 10:00-11:00AM UTC / 11:00AM-12:00PM CET
+### Jira to GitLab: Helping you transition to planning with GitLab
+##### February 27th, 2024 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
 
 GitLab offers robust team planning capabilities that work directly with the DevOps lifecycle. Keeping teams in a single application offers operational and financial advantages. Many customers inquire about what a transition would look like from Jira Software to GitLab to team planning. This webinar will start to outline the differences in functionality and advantages gained by using GitLab. 
 
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_HQiR38AcTr2-kuRVC4rT8w)
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_rbTleneZRSi4QkOPOV-Rwg#/registration)
 
-#### Hands-on Workshop: Security and Compliance in GitLab
-##### December 20th, 2023 at 10:00AM-12:00PM UTC / 11:00AM-1:00PM CET
+#### AI in DevSecOps - GitLab Hands-On Lab
+##### February 28th, 2023 at 9:00-11:00AM Pacific Time / 12:00-2:00PM Eastern Time
 
-In this workshop we will focus on how you can secure your application with GitLab. 
+Join us for a hands-on GitLab AI lab where we will explore Artificial Intelligence and how it fits within the DevSecOps lifecycle. In this session, we will cover foundational implementation and use case scenarios such as Code Suggestions and Vulnerability Explanations.
 
-We will first take a look at how to apply scanners to your CICD pipelines in a hands-on exercise so that any vulnerabilities are caught as soon as the code is committed. 
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_tdfeUNKoRwqid6SuRfNfWw)
 
-Next, we will look at compliance frameworks and pipelines to show how you can ensure no one within your development teams is cutting corners and exposing your application.
+### EMEA Time Zone Webinars & Labs
 
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_222cv83AQJu-_1MiNjP7pg#/registration)
+#### Intro to CI/CD
+##### February 6th, 2024 at 10:00-11:00AM UTC / 11:00AM-12:00PM CET
 
+Come learn about what CI/CD is and how it can benefit your team. We will cover an overview of CI/CD and what it looks like in GitLab. We will also cover how to get started with your first CI/CD pipeline in GitLab and the basics of GitLab Runners.
 
-Check back later for more webinars! 
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_Dh2Luo6IQmC59OwzdB3_3A#/registration)
+
+#### Hands-On GitLab CI Lab 
+##### February 7th, 2023 at 10:0AM-12:00PM UTC / 11:00AM-1:00PM CET
+
+Join us for a hands-on GitLab CI lab and learn how it can fit in your organization!
+
+Learn how to build simple GitLab pipelines and work up to more advanced pipeline structures and workflows, including security scanning and compliance enforcement.
+
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_G2Nh4nTCSLGq9lJSEBiAWQ)
+
+#### GitLab Runner Fundamentals and What You Need to Know
+##### February 9th, 2024 at 10:00-11:00AM UTC / 11:00AM-12:00PM CET
+
+Runners are a requirement for operating GitLab CI/CD. Learn about Runner architecture, options for deployments, supported operating systems, and optimizing them for most efficient usage. We will be discussing best practices, decisions that you need to make before deploying at scale, and options you have for monitoring fleets of runners.
+
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_U_lPFBRzQSmgYOYcgq7dpA#/registration)
+
+#### Advanced CI/CD
+##### February 13th, 2024 at 10:00-11:00AM UTC / 11:00AM-12:00PM CET
+
+Expand your CI/CD knowledge while we cover advanced topics that will accelerate your efficiency using GitLab, such as pipelines, variables, rules, artifacts, and more. This session is intended for those who have used CI/CD in the past.
+
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_mo2QLf2pToqaT3U7n6XqKw#/registration)
+
+#### Hands-On Advanced GitLab CI Lab 
+##### February 14th, 2023 at 10:00AM-12:00PM UTC / 11:00AM-1:00PM CET
+
+Join us for a hands-on lab where we will go into advanced GitLab CI capabilities that allow customers to simplify pipeline yml code and optimize the execution time of pipelines.
+
+We will cover:
+- Storing build resources in GitLab registries
+- Managing artifacts, dependencies, and environment variables between jobs
+- Running a job multiple times in parallel with different variables
+- Triggering downstream pipelines
+
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_HCHR8oBPTAGkeI8IP_bMgQ)
+
+#### Security and Compliance
+##### February 21st, 2024 at 10:00-11:00AM UTC / 11:00AM-12:00PM CET
+
+GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
+
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_3gZXFUp6RmeHB_Nu6ubjMw#/registration)
+
+### Jira to GitLab: Helping you transition to planning with GitLab
+##### February 27th, 2024 at 10:00-11:00AM UTC / 11:00AM-12:00PM CET
+
+GitLab offers robust team planning capabilities that work directly with the DevOps lifecycle. Keeping teams in a single application offers operational and financial advantages. Many customers inquire about what a transition would look like from Jira Software to GitLab to team planning. This webinar will start to outline the differences in functionality and advantages gained by using GitLab. 
+
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_C1ILuQPKQ4GDdZ0T18pnMQ#/registration)
+
+#### AI in DevSecOps - GitLab Hands-On Lab
+##### February 28th, 2023 at 10:00AM-12:00PM UTC / 11:00AM-1:00PM CET
+
+Join us for a hands-on GitLab AI lab where we will explore Artificial Intelligence and how it fits within the DevSecOps lifecycle. In this session, we will cover foundational implementation and use case scenarios such as Code Suggestions and Vulnerability Explanations.
+
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_cGKf3oS2RmS384OPjwy03Q)
+
+Check back later for more webinars & labs! 

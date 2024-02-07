@@ -1,12 +1,12 @@
 ---
 title: GitLab Dedicated Switchboard Troubleshooting
 category: GitLab Dedicated
-description: "Gitlab Dedicated Support - Switchboard"
+description: "GitLab Dedicated Support - Switchboard"
 ---
 
 ## Overview
 
-Swithcboard is a portal for GitLab Internal team members and customers to manage their GitLab Dedicated instance.
+Switchboard is a portal for GitLab Internal team members and customers to manage their GitLab Dedicated instance.
 Read more about what the goals of Switchboard are on the [Category Direction page](https://about.gitlab.com/direction/saas-platforms/switchboard/).
 
 ## Accessing Switchboard
@@ -19,6 +19,10 @@ GitLab Support Engineers can access the [Switchboard](https://about.gitlab.com/d
 1. Under **Sign in with your corporate ID**, select **Okta**
 
 You should now be in **Switchboard**.
+
+NOTE:
+
+If you get a `403 Forbidden` message while using a VPN, turn it off temporarily. The WAF rules may be blocking VPN endpoints.
 
 ## Accessing customer configuration
 
@@ -35,7 +39,7 @@ Check the `Tenant Details` collapsible section.
 Check the `Maintenance` collapsible section.
 
 ### Opensearch links
-  
+
 Currently not available. There is an open [feature request](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues/2307) to add that functionality.
 
 ### Customer contacts

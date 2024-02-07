@@ -13,7 +13,7 @@ Cross-functional feedback provides critical insights into strengths and improvem
 There are various ways to support team members' performance and growth. Timely and direct [feedback]({{< ref "guidance-on-feedback" >}}) is often the best way to course correct efficiently and improve performance on an ongoing basis.  360 feedback is a useful tool to support specific development goals or surface blind spots, often for those in leadership positions.  A 360 is not the best investment of time for team members who already have a clear understanding of their strengths and weaknesses, and an actionable development plan underway. Team members should take ownership of and leverage the tools that are most relevant and beneficial to them.
 
 
-The optional 360 feedback cycle is timed *after* the [Mid-Year Check In]({{< ref "talent-assessment#mid-year-check-in" >}}) and *after* [promotion calibrations]({{< ref "promotions-transfers#promotion-process--timeline" >}}) to maintain the focus on development. Managers should check in with cross functional stakeholders informally when preparing for a Mid Year check in or Promotion Calibration vs waiting for a 360 feedback cycle.
+The optional 360 feedback cycle is timed *after* the [Mid-Year Check In]({{< ref "/handbook/people-group/talent-assessment#mid-year-check-in" >}}) and *after* [promotion calibrations]({{< ref "promotions-transfers#promotion-process--timeline" >}}) to maintain the focus on development. Managers should check in with cross functional stakeholders informally when preparing for a Mid Year check in or Promotion Calibration vs waiting for a 360 feedback cycle.
 
 ## Is The 360 Process Right For Me?
 

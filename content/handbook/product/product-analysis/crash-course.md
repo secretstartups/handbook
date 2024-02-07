@@ -35,7 +35,7 @@ If this page serves it's purpose, Product Analysts should be able to visit this 
 
 - [Centralized SMAU/GMAU Dashboard](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard) contains CMAU, SMAU, and GMAU charts for each section, stage, and group.
 
-- The [Technical Marketing handbook page](/handbook/marketing/developer-relations/technical-marketing/) contains links to product demos, webinars and release videos.  
+- The [Technical Marketing handbook page](/handbook/marketing/developer-relations/technical-marketing/) contains links to product demos, webinars and release videos.
 
 - GitLab's Fiscal Year runs from February 1 to January 31. [Here](/handbook/finance/#fiscal-year) is a link to GitLab's Fiscal Quarter to Month map.
 
@@ -67,7 +67,7 @@ This Stage helps teams manage their software delivery lifecycle with metrics and
 
 ``` sql
 
-SELECT * 
+SELECT *
 FROM table
 WHERE field = stage_name
 ;
@@ -103,7 +103,7 @@ This link breaks down the performance indicators for each Manage Group clearly a
 
 [Manage Direction Page](https://about.gitlab.com/direction/manage/)
 
-[Main Manage Stage Page](https://about.gitlab.com/handbook/engineering/development/dev/manage/)
+[Main Manage Stage Page](/handbook/engineering/development/dev/manage/)
 
 **Slack channels**
 
@@ -137,7 +137,7 @@ Enable teams to effectively plan and execute work in a single application. This 
 
 ``` sql
 
-SELECT * 
+SELECT *
 FROM table
 WHERE field = stage_name
 ;
@@ -194,13 +194,13 @@ Create provides tools that support the beginning of the DevOps Life Cycle. Sourc
 
 - [Performance indicators internal handbook page](https://internal.gitlab.com/handbook/company/performance-indicators/product/dev-section/)  The Create : Gitaly Group primarily uses the Performance Indicators Internal Handbook Page to guide decisions
 
-- [Handbook page containing engineering analytics dashboards](https://about.gitlab.com/handbook/engineering/development/dev/create/engineering-managers/dashboards/)  Used by Create Stage Engineering Managers
+- [Handbook page containing engineering analytics dashboards](/handbook/engineering/development/dev/create/engineering-managers/dashboards/)  Used by Create Stage Engineering Managers
 
 **Important data documentation**
 
 ``` sql
 
-SELECT * 
+SELECT *
 FROM table
 WHERE field = stage_name
 ;
@@ -216,7 +216,7 @@ Must be logged into GitLab Unfiltered account
 
 **Product roadmap link**
 
-[Link to product direction / vision](https://about.gitlab.com/handbook/engineering/development/dev/create/#vision)
+[Link to product direction / vision](/handbook/engineering/development/dev/create/#vision)
 
 Resource to understand the goals for this team
 
@@ -228,7 +228,7 @@ Resource to understand the Performance Indicators for the Dev Section - Page can
 
 **Key handbook pages**
 
-[Primary Create Stage handbook page](https://about.gitlab.com/handbook/engineering/development/dev/create/)
+[Primary Create Stage handbook page](/handbook/engineering/development/dev/create/)
 
 Contains helpful information about how Create operates and current team members
 
@@ -267,7 +267,7 @@ Verify provides teams with tools that help facilitate continuous integration. Th
 **Important data documentation**
 
 ```sql
-SELECT * 
+SELECT *
 FROM table
 WHERE field = stage_name
 ;
@@ -293,7 +293,7 @@ An internal handbook page that lists all performance indicators under the Operat
 
 **Key handbook pages**
 
-[Verify Stage Product Page](https://about.gitlab.com/handbook/engineering/development/ops/verify/)
+[Verify Stage Product Page](/handbook/engineering/development/ops/verify/)
 
 A central hub for all pages related to the Verify stage
 
@@ -352,7 +352,7 @@ Dashboard measuring user interaction with the GitLab.com user interface.
 
 ``` sql
 
-SELECT * 
+SELECT *
 FROM table
 ;
 ```
@@ -364,25 +364,25 @@ FROM table
 
 General and feature specific user interviews for the Package team
 
-[Demos and Speedruns](https://about.gitlab.com/handbook/engineering/development/ops/package/#demos--speedruns)
+[Demos and Speedruns](/handbook/engineering/development/ops/package/#demos--speedruns)
 
 Package Handbook section with feature and roadmap demos
 
 **Product roadmap link**
 
-[Link to product roadmap](https://about.gitlab.com/handbook/engineering/development/ops/package/#roadmap)
+[Link to product roadmap](/handbook/engineering/development/ops/package/#roadmap)
 
 Resource to understand the long-term goals for this team
 
 **OKRs**
 
-[Link to OKRs handbook page](https://about.gitlab.com/handbook/engineering/development/ops/package/#okrs)
+[Link to OKRs handbook page](/handbook/engineering/development/ops/package/#okrs)
 
 Resource to understand the current OKRs for this team
 
 **Key documentation**
 
-[Main Package Team Handbook Page](https://about.gitlab.com/handbook/engineering/development/ops/package)
+[Main Package Team Handbook Page](/handbook/engineering/development/ops/package)
 
 It can be helpful to search for specific topics on the Package team's main page
 
@@ -398,7 +398,7 @@ GitLab Docs are awesome!
 
 [Handbook page to find Package team members to collaborate with](/handbook/product/categories/#package-stage)
 
-[List of Package team members and their stable counterparts to contact if needed](https://about.gitlab.com/handbook/engineering/development/ops/package/#team-members)
+[List of Package team members and their stable counterparts to contact if needed](/handbook/engineering/development/ops/package/#team-members)
 
 </details>
 
@@ -417,7 +417,7 @@ GitLab's integrated CD solution allows users to ship code with zero-touch, be it
 
 ``` sql
 
-SELECT * 
+SELECT *
 FROM table
 WHERE field = stage_name
 ;
@@ -425,7 +425,7 @@ WHERE field = stage_name
 
 **Helpful video resources**
 
-[List of YouTube Playlists maintained by Release](https://about.gitlab.com/handbook/engineering/development/ops/release/#youtube-playlists)
+[List of YouTube Playlists maintained by Release](/handbook/engineering/development/ops/release/#youtube-playlists)
 
 **Product roadmap link**
 
@@ -440,7 +440,7 @@ Resource to understand the Performance Indicators for the Ops Section - Page can
 
 **Key handbook pages**
 
-[Release Primary Handbook Page](https://about.gitlab.com/handbook/engineering/development/ops/release/)
+[Release Primary Handbook Page](/handbook/engineering/development/ops/release/)
 
 **Slack channels**
 
@@ -471,7 +471,7 @@ Enabling users to configure applications and infrastructure. Auto DevOps, Kubern
 
 ``` sql
 
-SELECT * 
+SELECT *
 FROM table
 WHERE field = stage_name
 ;
@@ -495,7 +495,7 @@ Resource to understand the Performance Indicators for the Ops Section - Page can
 
 **Key handbook pages**
 
-[Primary handbook page for Configure](https://about.gitlab.com/handbook/engineering/development/ops/configure/)
+[Primary handbook page for Configure](/handbook/engineering/development/ops/configure/)
 
 **Slack channels**
 
@@ -503,7 +503,7 @@ Resource to understand the Performance Indicators for the Ops Section - Page can
 
 **Team members**
 
-[Handbook page to find Create team members to collaborate with](https://about.gitlab.com/handbook/engineering/development/ops/configure/#team-members)
+[Handbook page to find Create team members to collaborate with](/handbook/engineering/development/ops/configure/#team-members)
 
 
 </details>
@@ -525,7 +525,7 @@ Helps reduce the severity and frequency of incidents. Incident management and er
 
 ``` sql
 
-SELECT * 
+SELECT *
 FROM table
 WHERE field = stage_name
 ;
@@ -589,7 +589,7 @@ This dashboard shows various MAU metrics for Secure and Govern.
 
 ``` sql
 
-SELECT * 
+SELECT *
 FROM table
 WHERE field = stage_name
 ;
@@ -606,11 +606,11 @@ WHERE field = stage_name
 
 **Performance indicators**
 
-[Performance indicators linked in Secure handbook page](https://about.gitlab.com/handbook/engineering/development/sec/#performance-indicators)
+[Performance indicators linked in Secure handbook page](/handbook/engineering/development/sec/#performance-indicators)
 
 **Key handbook pages**
 
-[Secure stage primary handbook page](https://about.gitlab.com/handbook/engineering/development/sec/secure/)
+[Secure stage primary handbook page](/handbook/engineering/development/sec/secure/)
 
 **Slack channels**
 
@@ -620,7 +620,7 @@ WHERE field = stage_name
 
 [Product categories page section to find Secure team members to collaborate with](/handbook/product/categories/#secure-stage)
 
-[Secure Handbook page section to find Secure engineering team members to collaborate with](https://about.gitlab.com/handbook/engineering/development/sec/secure/#team-members)
+[Secure Handbook page section to find Secure engineering team members to collaborate with](/handbook/engineering/development/sec/secure/#team-members)
 
 
 </details>
@@ -641,7 +641,7 @@ Manage security vulnerabilities, policies, and compliance across your organizati
 
 ``` sql
 
-SELECT * 
+SELECT *
 FROM table
 WHERE field = stage_name
 ;
@@ -664,7 +664,7 @@ WHERE field = stage_name
 
 **Key handbook pages**
 
-[Govern stage primary handbook page](https://about.gitlab.com/handbook/engineering/development/sec/govern/)
+[Govern stage primary handbook page](/handbook/engineering/development/sec/govern/)
 
 **Slack channels**
 
@@ -674,7 +674,7 @@ WHERE field = stage_name
 
 [Handbook page to find Govern team members to collaborate with](/handbook/product/categories/#govern-stage)
 
-[Govern Handbook page section to find Govern engineering team members to collaborate with](https://about.gitlab.com/handbook/engineering/development/sec/govern/#sub-department-development-people-leaders)
+[Govern Handbook page section to find Govern engineering team members to collaborate with](/handbook/engineering/development/sec/govern/#sub-department-development-people-leaders)
 
 </details>
 
@@ -695,7 +695,7 @@ Supports enterprise-grade operational experience of GitLab products from streaml
 
 **Important data documentation**
 
-There are no Enablement metrics currently collected in our Postgres Replica data for Gitlab.com
+There are no Enablement metrics currently collected in our Postgres Replica data for GitLab.com
 
 The following tables can be used for Service Ping metric reporting.
 
@@ -729,7 +729,7 @@ Includes Stage and Group level details
 
 **Key handbook pages**
 
-[Overall Enablement Section Handbook page for Engineering](https://about.gitlab.com/handbook/engineering/development/enablement/)
+[Overall Enablement Section Handbook page for Engineering](/handbook/engineering/development/enablement/)
 
 **Slack channels**
 
@@ -746,7 +746,7 @@ Includes Stage and Group level details
 
 OR
 
-[All team members section of engineering page](https://about.gitlab.com/handbook/engineering/development/enablement/#all-team-members)
+[All team members section of engineering page](/handbook/engineering/development/enablement/#all-team-members)
 
 </details>
 
@@ -763,7 +763,7 @@ Supports enterprise-grade operational experience of GitLab products from streaml
 
 **Important data documentation**
 
-There are no Enablement metrics currently collected in our Postgres Replica data for Gitlab.com
+There are no Enablement metrics currently collected in our Postgres Replica data for GitLab.com
 
 The following tables can be used for Service Ping metric reporting.
 
@@ -797,7 +797,7 @@ Includes Stage and Group level details
 
 **Key handbook pages**
 
-[Overall Enablement Section Handbook page for Engineering](https://about.gitlab.com/handbook/engineering/development/enablement/)
+[Overall Enablement Section Handbook page for Engineering](/handbook/engineering/development/enablement/)
 
 **Slack channels**
 
@@ -816,7 +816,7 @@ Includes Stage and Group level details
 
 OR
 
-[All team members section of engineering page](https://about.gitlab.com/handbook/engineering/development/enablement/#all-team-members)
+[All team members section of engineering page](/handbook/engineering/development/enablement/#all-team-members)
 
 </details>
 
@@ -870,7 +870,7 @@ Growth owns the free and trial registration and new user onboarding experiences.
 
 **Key handbook pages**
 
-[Overall Growth Section Handbook page for Engineering](https://about.gitlab.com/handbook/engineering/development/growth/)
+[Overall Growth Section Handbook page for Engineering](/handbook/marketing/growth/engineering/)
 
 [Growth Direction Page](/handbook/marketing/growth/)
 
@@ -881,6 +881,6 @@ Growth owns the free and trial registration and new user onboarding experiences.
 
 **Team members**
 
-[All team members section of engineering page](https://about.gitlab.com/handbook/engineering/development/growth/#all-team-members)
+[All team members section of engineering page](/handbook/marketing/growth/engineering/#all-team-members)
 
 </details>

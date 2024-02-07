@@ -48,6 +48,10 @@ In general each of the self-managed tiers match the features in the GitLab SaaS 
 When we need to specify which tier includes a particular feature using only one word (for example on our issue tracker), we reference the self-managed tiers by default because they tend to contain a superset of the GitLab SaaS tier features.
 Where we can, we highlight both the self-managed and the GitLab SaaS tiers (like in [a release post](/releases/2018/02/22/gitlab-10-5-released/#instant-ssl-with-lets-encrypt-for-gitlab)).
 
+## Add on Services
+
+Add on services extend the functionality of the Tier and do not represent a new Tier. These add on services can include, but are not limited to, adding Storage, Compute Minutes, Agile Planning, and AI features to the existing tier the subscription is on. Add-ons can be made available on one, multiple, or all tiers depending upon the tier availability of the add on service being provided.  
+
 ## Libre, gratis, and free
 
 When discussing their work, open source communities typically use the words "gratis" and "libre" instead of the word "free" to describe the nature of the software they create. This is because the English word "free" is an ambiguous word that can have several meanings: "no cost" ("free as in beer"), "with few or no restrictions" ("free as in speech"), or both. Open source communities therefore prefer to use the unambiguous term "gratis" when referring to "no cost" software and the term "libre" when refer to software "with few or no restrictions." Open source software is "libre" in that anyone is "free" to inspect, modify, and redistribute it. But open source software may or may not be "gratis."
@@ -90,8 +94,8 @@ Community Edition (CE) and Enterprise Edition (EE) refer to software distributio
 Users can be on the EE distribution for free. Distribution doesn't imply if a user is a customer or not.
 
     1. Say "users" when you mean all users - paid and unpaid.
-    1. Say "customers" when you mean paid users.
-    1. Say "Free users" when you mean unpaid users.
+    2. Say "customers" when you mean paid users.
+    3. Say "Free users" when you mean unpaid users.
 
 ❌ Incorrect:  "Let's run a marketing campaign to encourage CE users to upgrade to a paid tier."
 
@@ -102,10 +106,10 @@ Users can be on the EE distribution for free. Distribution doesn't imply if a us
 GitLab has 3 tiers: Free, Premium, and Ultimate. Distribution doesn't imply which tier a user is on.
 
     1. Say the "Free" when you mean the $0 tier.
-    1. Say "Open source" when you mean features in the $0 tier.
-    1. Say "Premium" or "Ultimate" to refer to those tiers.
-    1. Optionally, say "GitLab Free," "GitLab Premium," or "GitLab Ultimate" when you want to refer to a pricing tier.
-    1. Say "commercial tier" when you mean any paid tier.
+    2. Say "Open source" when you mean features in the $0 tier.
+    3. Say "Premium" or "Ultimate" to refer to those tiers.
+    4. Optionally, say "GitLab Free," "GitLab Premium," or "GitLab Ultimate" when you want to refer to a pricing tier.
+    5. Say "commercial tier" when you mean any paid tier.
 
 ❌ Incorrect:  "Let's move this feature to CE."
 

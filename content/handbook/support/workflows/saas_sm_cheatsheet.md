@@ -25,7 +25,7 @@ SaaS, or Dedicated.
 |      |       |
 |:----:| ----- |
 |Self-managed| [GitlabSOS](https://gitlab.com/gitlab-com/support/toolbox/gitlabsos) is a great way to gather all logs from a customer instance in order to investigate further on potential issues.<br/>Similar to GitlabSOS, use [KubeSOS](https://gitlab.com/gitlab-com/support/toolbox/kubesos) if your customer uses Kubernetes instead of source or omnibus installations.<br/>[Fast-stats](https://gitlab.com/gitlab-com/support/toolbox/fast-stats) is a great way to compare performance analytics from and between GitLab Logs.<br/>[Green-hat](https://gitlab.com/gitlab-com/support/toolbox/greenhat)  is an experimental SOS and log parser.|
-|DotCom|[Kibana](https://log.gprd.gitlab.net/) provides visualization capabilities on top of the content indexed on an Elasticsearch cluster to find Web based queries. Check the [tips and tricks](/handbook/support/workflows/kibana.html#tips-and-tricks) to understand what kind of information you can pull using this tool.<br/>[Sentry](https://sentry.gitlab.net/gitlab/gitlabcom/) helps investigate errors across different applications or environments, for example Ruby code related errors. Search on Sentry usually is done using a Correlation ID.<br/>[Grafana](https://about.gitlab.com/handbook/engineering/monitoring/#main-monitoring-dashboards) is used for infrastructure metrics collection for GitLab.com |
+|DotCom|[Kibana](https://log.gprd.gitlab.net/) provides visualization capabilities on top of the content indexed on an Elasticsearch cluster to find Web based queries. Check the [tips and tricks](/handbook/support/workflows/kibana.html#tips-and-tricks) to understand what kind of information you can pull using this tool.<br/>[Sentry](https://sentry.gitlab.net/gitlab/gitlabcom/) helps investigate errors across different applications or environments, for example Ruby code related errors. Search on Sentry usually is done using a Correlation ID.<br/>[Grafana](/handbook/engineering/monitoring/#main-monitoring-dashboards) is used for infrastructure metrics collection for GitLab.com |
 |Dedicated|The [GitLab Dedicated Logs](/handbook/support/workflows/dedicated_logs/) workflow has information about using Opensearch to view logs. The [Observability and Monitoring](/handbook/support/workflows/dedicated_instance_health/) workflow has information about using Grafana to diagnose performance problems.|
 
 ### Configuration
@@ -42,8 +42,8 @@ SaaS, or Dedicated.
 |      |       |
 |:----:| ----- |
 |Self-managed| Check out the [reference architectures](https://docs.gitlab.com/ee/administration/reference_architectures/) we recommend to our customers and their different variations|
-|DotCom| [The GitLab.com architecture](https://about.gitlab.com/handbook/engineering/infrastructure/production/architecture/#infra-current-archi-diagram) is managed by the infrastructure team and cannot be modified to meet individual customer's needs.|
-|Dedicated|[GitLab Dedicated](https://docs.gitlab.com/ee/subscriptions/gitlab_dedicated/) is a fully isolated, single-tenant, SaaS service managed through AWS by the [GitLab Dedicated Group](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated). GitLab Dedicated tenants [use](https://docs.gitlab.com/ee/subscriptions/gitlab_dedicated/#availability-and-scalability) the GitLab [Cloud Native Hybrid reference architectures](https://docs.gitlab.com/ee/administration/reference_architectures/index.html#cloud-native-hybrid) with high availability enabled. See the list of [changes from the reference architectures](https://gitlab-com.gitlab.io/gl-infra/gitlab-dedicated/team/architecture/Architecture.html#changes-from-reference-architectures).|
+|DotCom| [The GitLab.com architecture](/handbook/engineering/infrastructure/production/architecture/#infra-current-archi-diagram) is managed by the infrastructure team and cannot be modified to meet individual customer's needs.|
+|Dedicated|[GitLab Dedicated](https://docs.gitlab.com/ee/subscriptions/gitlab_dedicated/) is a fully isolated, single-tenant, SaaS service managed through AWS by the [GitLab Dedicated Group](/handbook/engineering/infrastructure/team/gitlab-dedicated). GitLab Dedicated tenants [use](https://docs.gitlab.com/ee/subscriptions/gitlab_dedicated/#availability-and-scalability) the GitLab [Cloud Native Hybrid reference architectures](https://docs.gitlab.com/ee/administration/reference_architectures/index.html#cloud-native-hybrid) with high availability enabled. See the list of [changes from the reference architectures](https://gitlab-com.gitlab.io/gl-infra/gitlab-dedicated/team/architecture/Architecture.html#changes-from-reference-architectures).|
 
 ### Auth
 
@@ -66,7 +66,7 @@ SaaS, or Dedicated.
 |      |       |
 |:----:| ----- |
 |Self-managed| Administrators of self-managed systems will have access to their instance admin.|
-|DotCom| Only GitLab Team Members can make use of administrative tasks on gitLab.com, therefore access is not granted to customers.|
+|DotCom| Only GitLab Team Members can make use of administrative tasks on GitLab.com, therefore access is not granted to customers.|
 |Dedicated| Customers have instance admins that can access the Admin Area. There is no [GitLab Rails console](https://docs.gitlab.com/ee/administration/operations/rails_console.html) access for customers.|
 
 Use the [Admin Area docs](https://docs.gitlab.com/ee/administration/admin_area.html#gitlab-admin-area) for reference.

@@ -152,7 +152,7 @@ In between bi-weekly Campaigns Team Connect calls:
 
 ## Out of office team coverage
 
-Whenever team members are out of the office, they can reach out to their counterpart to provide coverage. Once their counterpart have agreed to provide coverage, the team member will create [an ooo coverage issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-ooo) outlining the coverage needed and share that with the counterpart. They will also assign the team member providing cover in PTO by roots.
+Whenever team members are out of the office for more than 7 business days, they are required to create [an ooo coverage issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-ooo) outlining the coverage needed and assign that to their team counterpart providing coverage. The same process and issue template can optionally be used when team members are out of the office for less than 7 days but requires coverage for time sensitive project(s).
 
 ### Half-yearly Field Marketing & Campaigns Planning Workshop
 

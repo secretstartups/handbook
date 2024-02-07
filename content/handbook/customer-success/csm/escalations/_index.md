@@ -20,7 +20,7 @@ Escalations can take at least two different forms:
 1. Account Escalation.  This occurs when the customer expresses or a GitLab team member identifies that a customer is facing a challenging situation that may or may not relate to a specific support ticket. Anyone in GitLab can [open an account escalation](#opening-the-escalation) and [circulate it to the leadership of the appropriate group to find a DRI](#escalation-dri).
 1. Support Ticket Attention Requests (STAR).  This occurs when an open support ticket is deemed moving too slowly.
 
-The purpose of this handbook entry is to describe the process for account escalations.  Please see the [Support Ticket Attention Requests](/handbook/support/internal-support/support-ticket-attention-requests.html) for details on how to request a support ticket escalation.
+The purpose of this handbook entry is to describe the process for account escalations.  Please see the [Support Ticket Attention Requests](/handbook/support/internal-support/support-ticket-attention-requests/) for details on how to request a support ticket escalation.
 
 ## Objective
 
@@ -88,7 +88,7 @@ At the beginning of the escalation, the DRI must be determined - the DRI owns th
 - Technical Support is ultimately accountable for driving resolution to the support case, including escalation to Engineering, Security, and/or Infrastructure teams.  Incident escalation processes should be leveraged for a single incident / support case.
 
 
-- [Declare a GitLab.com Incident](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#report-an-incident-via-slack) if you suspect a widespread issue on GitLab.com
+- [Declare a GitLab.com Incident](/handbook/engineering/infrastructure/incident-management/#report-an-incident-via-slack) if you suspect a widespread issue on GitLab.com
 - [Escalate an individual support ticket to Support Management](/handbook/support/internal-support/support-ticket-attention-requests.html) for cases with context that necessitate they should be handled outside of standard priority order.
 - Have the customer [trigger Emergency Support](https://about.gitlab.com/support/#how-to-trigger-emergency-support) for S1/instance down issues to connect directly with the Support Engineer on-call.
    - You can also [page the on-call support manager](/handbook/support/on-call/#paging-the-on-call-manager) in cases where you've received word that a customer attempted to raise an emergency, but the on-call engineer was not paged.
@@ -194,7 +194,7 @@ The `#escalated_customers` channel is for awareness only and is not intended to 
 ### Managing the Escalation:
 
 - DRI owns the functions as outlined here
-- If an escalation status significantly changes, alert in the customer escalation slack channel and ping all DRIs involved in escalation  
+- If an escalation status significantly changes, alert in the `#escalated_customers` slack channel and ping all DRIs involved in escalation, as well as post in the temporary customer slack channel
 - Escalation document kept updated with minimum daily updates
 - The escalation progress should also be communicated to the customer on a regular basis like 3 times per week or more often depending on the situation. (Set up a calender reminder for yourself to make it easier)
 - **Daily Slack updates are posted to the designated customer escalation channel (see escalation doc for format)**
@@ -230,7 +230,7 @@ See the [Support Engineering Guide to Escalations](/handbook/support/internal-su
 
 ## Engineering's role in Escalations
 
-Engineering support will usually come via Support Engineering, however it's worth noting that under some conditions [Engineering / Product may prioritize bug fixes and feature requests](https://about.gitlab.com/handbook/engineering/#critical-customer-escalations) related to an escalation.
+Engineering support will usually come via Support Engineering, however it's worth noting that under some conditions [Engineering / Product may prioritize bug fixes and feature requests](/handbook/engineering/#critical-customer-escalations) related to an escalation.
 
 ## Related Links
 

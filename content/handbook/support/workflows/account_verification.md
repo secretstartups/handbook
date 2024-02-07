@@ -15,7 +15,7 @@ This workflow covers how a user can provide account verification. While the work
 
 ### User Account Verification
 
-As of Aug 16, 2023, Gitlab.com now requires that users without 2FA enabled verify their email address when a login attempt meets certain high-risk criteria. Review the [blog post](https://about.gitlab.com/blog/2023/08/08/gitlab-account-security/) announcing this change. If a user contacts support with questions, use the `Support::SaaS::Abuse::Email Address Verification` macro.
+As of Aug 16, 2023, GitLab.com now requires that users without 2FA enabled verify their email address when a login attempt meets certain high-risk criteria. Review the [blog post](https://about.gitlab.com/blog/2023/08/08/gitlab-account-security/) announcing this change. If a user contacts support with questions, use the `Support::SaaS::Abuse::Email Address Verification` macro.
 
 If the user has questions about the email, phone, or credit card verification GitLab is requiring, please refer to the [Internal Handbook for the workflow](https://internal.gitlab.com/handbook/support/#phone-number-verification-issues) to follow.
 
@@ -94,7 +94,7 @@ See the [Enterprise User section]({{< ref "gitlab-com_overview.md#enterprise-use
 
 #### Conditions when account is used to access Customers Portal
 
-[Customers Portal](https://customers.gitlab.com) requires all customers to access through a [Linked Gitlab Account](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#link-a-gitlabcom-account).
+[Customers Portal](https://customers.gitlab.com) requires all customers to access through a [Linked GitLab Account](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#link-a-gitlabcom-account).
 
 The user is eligible and 2FA can be reset when **one** of following conditions are met:
 
@@ -111,8 +111,8 @@ If you need a basis for a response where you send the challenges, or in a 2FA ti
 
 > **Note**: In case the user sends back very minimal information and it's clear it's not sufficient or the answers are vague, reply asking for more information immediately after their response. You can provide some additional guidance, such as "please provide the exact date and time of the commit, not just an approximate one".
 
-1. To verify the challenge answers, use [chatops]({{< ref "chatops.md" >}}), the [Zendesk GitLab User Lookup App]({{< ref "/handbook/support/readiness/operations/docs/zendesk/apps.md#gitlab-super-app" >}}) or, for those who have admin access, check at `https://gitlab.com/admin/users/USERNAME`.
-1. Use the [ZenDesk GitLab Super App's 2FA Helper]({{< ref "/handbook/support/readiness/operations/docs/zendesk/apps.md#gitlab-super-app" >}}) to determine the [risk factor](https://internal.gitlab.com/handbook/support/#risk-factors-for-account-ownership-verification) (GitLab internal) based on the user's answers. Data classification criteria and any notes are in the [Internal Handbook - Data Classification table](https://internal.gitlab.com/handbook/support/#data-classification) (GitLab internal), which is considered the source of truth. If you need to leave a comment manually (instead of through the app), use the [`Support::SaaS::2FA::2FA Internal Note` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360043856894) to put an internal note on the ticket.
+1. To verify the challenge answers, use [chatops]({{< ref "chatops.md" >}}), the Zendesk GitLab User Lookup App or, for those who have admin access, check at `https://gitlab.com/admin/users/USERNAME`.
+1. Use the ZenDesk GitLab Super App's 2FA Helper to determine the [risk factor](https://internal.gitlab.com/handbook/support/#risk-factors-for-account-ownership-verification) (GitLab internal) based on the user's answers. Data classification criteria and any notes are in the [Internal Handbook - Data Classification table](https://internal.gitlab.com/handbook/support/#data-classification) (GitLab internal), which is considered the source of truth. If you need to leave a comment manually (instead of through the app), use the [`Support::SaaS::2FA::2FA Internal Note` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360043856894) to put an internal note on the ticket.
    - [Specific conditions are required to be considered for 2FA resets](#step-1-checking-user-eligibility-2fa-requests-only).
    - Challenge answers must be evaluated against a paid namespace if the user is a member of any paid namespace. If the user is not a member of a paid namespace, refer to [Conditions for 2FA Reset Consideration](#conditions-when-account-is-used-to-access-customers-portal) for further guidance.
    - If a group owner is answering on an [enterprise user's]({{< ref "gitlab-com_overview.md#enterprise-users" >}}) behalf, see the [Account verification matrix](#account-verification-matrix) for which account to evaluate the answers against. Even if the Enterprise user is not a current member of the paid namespace, the data classifcation is RED.

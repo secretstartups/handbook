@@ -21,6 +21,8 @@ Below are the cadences we have at GitLab:
 
 Items on this page are grouped into a cadence based on the underlying period of time that the item pertains to, not based on when the item is updated. For example, our [strategy](/handbook/company/strategy/#three-year-strategy) looks three years out but is reviewed [annually by E-Group](/handbook/company/offsite/#offsite-topic-calendar) and may be updated more frequently if the need arises.
 
+A overview of key company dates for FY25 can be found [here](https://docs.google.com/spreadsheets/d/11n44QyIVLD2rZwOnjLHlN1CvfmsVfFdyDfCK8qCLGM4/edit?usp=sharing)
+
 ### Cadence Examples
 
 How elements of our cadence fit together over time:
@@ -49,6 +51,18 @@ Below is one example of how the cadence items in [cadence flow](#cadence-flow) f
 
 Successfully achieving our KR of a beta value stream means progress against our Yearly value stream dashboard goal, strategic goal of extending value stream management to more users, vision of an AllOps solution, and mission of everyone contributing. While the KR is a single building block, our successful completion within the quarter leads to progress against our longer term goals.
 
+## Cadence Updates
+
+We have a cadence for reviewing our elements. Specifically, each element is reviewed at the cadence of the element that is the next level down. For example, we revisit our 3 year strategy every year. This maps to when we do annual Yearlies. And, we revisit our Yearlies every quarter. This is the timeframe for creating OKRs.
+
+These reviews ensure that elements reflect current priorities and do not get stale. While we have set review times, we don't need to wait for an update cycle to capture changes that we have decided to make.
+
+1. [30 year Mission](/handbook/company/mission): reviewed every 10 years
+1. [10 year Vision](/handbook/company/vision): reviewed every 3 years
+1. [3 year Strategy](/handbook/company/strategy/): reviewed every year
+1. [Annual Yearlies](/handbook/company/yearlies/): reviewed every quarter. Review usually happens during the [E-Group Offsite](/handbook/company/offsite/)
+1. [Quarterly OKRs](/handbook/company/okrs): reviewed every month
+
 ## 30 years
 
 - [Our mission](/handbook/company/mission/)
@@ -70,7 +84,7 @@ Successfully achieving our KR of a beta value stream means progress against our 
 1. [3-year product direction strategy](https://about.gitlab.com/direction/#3-year-strategy)
 1. [Long range outlook](/handbook/finance/financial-planning-and-analysis/#long-range-outlook-lro)
 1. [Restricted stock unit vesting](/handbook/stock-options/#vesting) after cliff of six months is passed
-1. Average retention of team members is around 3 years, with reduced [turnover](/handbook/people-group/people-group-metrics/#team-member-turnover) (<16%). See [actual reports](/handbook/people-group/people-group-metrics/#reporting)
+1. Average retention of team members is around 3 years
 
 
 ## Year
@@ -80,7 +94,6 @@ Successfully achieving our KR of a beta value stream means progress against our 
 1. [4 quarter rolling forecast](/handbook/finance/financial-planning-and-analysis/#quarterly-forecast-rolling-four-quarters)
 1. Most of [Direction](https://about.gitlab.com/direction/)
 1. [Fiscal Year Product Investment Themes](https://about.gitlab.com/direction/#fiscal-year-product-investment-themes)
-1. [Top Cross-Functional Initiatives](/handbook/company/top-cross-functional-initiatives/)
 
 ## Quarter
 
@@ -91,30 +104,20 @@ Successfully achieving our KR of a beta value stream means progress against our 
 1. [GitLab Assembly](/handbook/company/gitlab-all-company-meetings/)
 1. [Quarterly Kickoff](/handbook/ceo/chief-of-staff-team/#quarterly-kickoff)
 1. [Earnings activities](/handbook/finance/investor-relations/)
+1. [Key Reviews](/handbook/key-review/)
+1. [Group Conversations](/handbook/group-conversations/)
 
 ## Month
 
-1. [Key Reviews](/handbook/key-review/)
 1. [Release](/releases/)
 1. [Retrospective](/handbook/communication/#kickoffs)
 1. [Most KPIs](/handbook/company/kpis/)
+1. [Monthly touchpoint meetings](/handbook/company/offsite/#monthly-touch-point-meetings)
 
 ## Week
 
 1. [1-1 cadence with reports](/handbook/leadership/1-1/)
 1. [E-Group Weekly](/handbook/e-group-weekly/)
-
-## Cadence Updates
-
-We have a cadence for reviewing our elements. Specifically, each element is reviewed at the cadence of the element that is the next level down. For example, we revisit our 3 year strategy every year. This maps to when we do annual Yearlies. And, we revisit our Yearlies every quarter. This is the timeframe for creating OKRs.
-
-These reviews ensure that elements reflect current priorities and do not get stale. While we have set review times, we don't need to wait for an update cycle to capture changes that we have decided to make.
-
-1. [30 year Mission](/handbook/company/mission): reviewed every 10 years
-1. [10 year Vision](/handbook/company/vision): reviewed every 3 years
-1. [3 year Strategy](/handbook/company/strategy/): reviewed every year
-1. [Annual Yearlies](/handbook/company/yearlies/): reviewed every quarter. Review usually happens during the [E-Group Offsite](/handbook/company/offsite/)
-1. [Quarterly OKRs](/handbook/company/okrs): reviewed every month
 
 ## Gantt Chart
 

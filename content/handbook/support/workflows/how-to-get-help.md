@@ -98,7 +98,7 @@ Alternatively, if you have set up the [Support dotfiles](https://gitlab.com/gitl
 #### List of Development Sections and corresponding links to the Projects for requesting help
 
 Note: Some sections are not yet available.
-If a section is not listed, consider a confidential issue in the Gitlab project tracker and post in the relevant Slack channel.
+If a section is not listed, consider a confidential issue in the GitLab project tracker and post in the relevant Slack channel.
 Please follow [support epic #222](https://gitlab.com/groups/gitlab-com/support/-/epics/222) for more information.
 
 | Development Section | Section Product and Group Breakdown | Link to the GitLab Project for requesting help |
@@ -108,7 +108,7 @@ Please follow [support epic #222](https://gitlab.com/groups/gitlab-com/support/-
 | Sec Section | [Sec Section Breakdown](/handbook/product/categories/#sec-section) | [Section Sec Request for Help](https://gitlab.com/gitlab-com/sec-sub-department/section-sec-request-for-help) |
 | Enablement Section | [Enablement Section Breakdown](/handbook/product/categories/#enablement-section) | [Section Enablement Request for Help](https://gitlab.com/gitlab-com/enablement-sub-department/section-enable-request-for-help) |
 | Fulfilment Section | [Fulfilment Section Breakdown](/handbook/product/categories/#fulfillment-section) | [Section Fulfilment Request for Help](https://gitlab.com/gitlab-com/fulfilment-sub-department/section-fulfilment-request-for-help) |
-| SaaS Section (GitLab Dedicated) | [GitLab Dedicated Breakdown](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/) | [Gitlab Dedicated Request for Help Template](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues/new?issuable_template=support_request) |
+| SaaS Section (GitLab Dedicated) | [GitLab Dedicated Breakdown](/handbook/engineering/infrastructure/team/gitlab-dedicated/) | [GitLab Dedicated Request for Help Template](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues/new?issuable_template=support_request) |
 
 **Please note:** GitLab Dedicated is the first iteration for implementing a Request For Help Section for the SaaS section of GitLab development, therefore at the moment the GitLab project structure and workflows may not be consistent with the other development sections in the above table. You can find out more information on GitLab Dedicated internal processes by visiting the [Dedicated Team's ReadMe](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/blob/main/README.md).
 

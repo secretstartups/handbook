@@ -182,11 +182,12 @@ We have a runbook for internal announcements that could lead to heated conversat
       1. Any AMAs or other designated plans for discussion or follow up communications
    1. Who is required to sign-off on the message and plan
    1. The desired timeline for sign-off
-1. The DRI will share the draft communication with the Executive Sponsor and any other key senior stakeholders. If there are any questions around what can [SAFEly](https://handbook.gitlab.com/handbook/legal/safe-framework/) be shared, the CLO or another legal representative should be included in the review.
+1. The DRI will share the draft communication with the Executive Sponsor and any other key senior stakeholders. If there are any questions around what can [SAFEly](/handbook/legal/safe-framework/) be shared, the CLO or another legal representative should be included in the review.
 1. Both legal and corporate comms should review planned communications of this nature as well with the appropriate stakeholders from each team identified in the comms plan.
 1. Once the Executive Sponsors and Key Stakeholders are in agreement on the comms and plan, it should be shared with all of E-Group in #e-group-confidential or in the E-Group Weekly as a discussion item. Plan feedback should be incorporated.
 1. If applicable, once the plan has gone through E-Group review, it should be shared with the [B.V. Netherlands Works Council](https://internal.gitlab.com/handbook/legal-and-corporate-affairs/legal-and-compliance/netherlands/#works-council-rights) and any other councils that have review rights. When possible, this should be done at least two weeks before a planned announcement to allow adequate time for review and feedback.
 1. When possible, share with managers in advance (1-2 days before a broader announcement) and ask for their support in following up with their teams. We should be clear on how we expect them to support (answer questions, cascade info, [manager mention](/communication/#scaling-merge-requests-through-manager-mention-mrs-formerly-consolidated-mrs), etc.)
+    1. When sharing announcements with the manager community, MR's may be staged in document form to allow for changes and clarification prior to sharing the MR with the broader team member community.
 1. If the post includes a merge request (MR), we should ensure that we are following MR best practice before we post.
     1. If discussion is happening in an issue, we can ask for [manager mentions](/communication/#scaling-merge-requests-through-manager-mention-mrs-formerly-consolidated-mrs).
     1. MRs should not already be merged. Team members should be invited to share feedback on a change and be clear on the intended merge timeline.

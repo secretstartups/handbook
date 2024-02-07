@@ -42,7 +42,7 @@ Through that process you may:
 
    d. If all High priority tickets are addressed, help with Normal or Low priority tickets that are at risk of breaching.
 
-   e. If the next Normal or Low priority ticket to breach is > 4 hours, focus on your NRTs, your group's NRTs, and finally free user tickets (tickets with no SLA).
+   e. If the next Normal or Low priority ticket to breach is > 4 hours, focus on your NRTs, your group's NRTs, including unassigned tickets which have the `Handover Status` field set to `Needs Handover`, and finally free user tickets (tickets with no SLA).
 
    Proceed to
    [ticket assignment](#assigning-tickets)
@@ -62,7 +62,7 @@ Through that process you may:
 
 At certain times, the Support team will experience reduced operational capacity due to factors such as scheduled meet-ups, holidays, Summits, and other similar events. During these instances, the team will operate in a designated 'reduced capacity' mode, in which we will switch our primary focus from the normal SGG views to the special 'All FRT and Emergencies' and 'All NRT' views. Through these views each Support Engineer will see all incoming tickets, regardless of SGG assignment.
 
-We will expect Support Engineers to proactively claim ownership of any unassigned tickets they engage with during a reduced capacity period.
+We will expect Support Engineers to proactively claim ownership of any unassigned tickets they engage with during a reduced capacity period and [move the tickets to their group](/handbook/support/support-global-groups/sgg-faq/#3-how-do-i-move-a-ticket-to-a-different-group).
 
 ## Assigning tickets
 
@@ -125,29 +125,28 @@ seek help as soon as you need it.
 
 #### Pathway for handling high priority tickets from a different region
 
-1. If a ticket is marked as "High Priority" and you have the answer, take assignment of the ticket and offer a solution. If the solution does not resolve the issue, proceed with the steps in [Cross Region handover of tickets and customer calls](/handbook/support/workflows/working-on-tickets/#cross-region-handover-of-tickets-and-customer-calls).
-1. If a ticket is marked as "High Priority" and will not breach the FRT (First Response Time) SLA before an hour after the preferred region's support comes online, consider conducting initial research, and recording your findings as an internal note. Do not assign the ticket to yourself.
-1. If a ticket is marked as "High Priority" and there's a risk it might breach the FRT SLA time before the preferred region's support is online, take the assignment, send a substantive response to the requester, and then proceed with the steps in [Cross Region handover of tickets and customer calls](/handbook/support/workflows/working-on-tickets/#cross-region-handover-of-tickets-and-customer-calls).
+If a ticket is marked as `High Priority` and there's a risk it might breach the FRT SLA time before the preferred region's support is online, take the assignment, send a substantive response to the requester, and then proceed with the steps in [Cross Region handover of tickets and customer calls](/handbook/support/workflows/working-on-tickets/#cross-region-handover-of-tickets-and-customer-calls).
 
 #### Pathway for handling normal and low priority tickets from a different region
 
-1. If a ticket is not marked as "High Priority," and you're confident in your ability to resolve it, follow these steps:
+1. If a ticket is not marked as `High Priority`,` and you're confident in your ability to resolve it, follow these steps:
       - Take assignment of the ticket and prepare the first technical response.
-      - Use the ZD macro "clarify preferred region assignment" as part of the first response.
+      - Use the ZD macro `clarify preferred region assignment`` as part of the first response.
       - If the customer responds and confirms the preferred region, proceed with the steps in [Cross Region handover of tickets and customer calls](/handbook/support/workflows/working-on-tickets/#cross-region-handover-of-tickets-and-customer-calls).
       - If the customer is okay with out-of-region support, continue to offer assistance and regularly assess customer satisfaction and technical progress. Consider a handover if the ticket's priority changes or if the customer becomes frustrated.
       - If neither of the above scenarios applies, continue to work on the ticket to find a solution.
-1. If a ticket is not marked as "High Priority," and it's at risk of breaching the FRT SLA, and you are not confident in resolving the issue, follow these steps:
+1. If a ticket is not marked as `High Priority`,` and it's at risk of breaching the FRT SLA, and you are not confident in resolving the issue, follow these steps:
       - Take assignment of the ticket.
       - Provide a first technical response to the customer.
       - Proceed with the steps in [Cross Region handover of tickets and customer calls](/handbook/support/workflows/working-on-tickets#cross-region-handover-of-tickets-and-customer-calls).
 
 #### Pathway for handling tickets handed over from a different region
 
-1. Review the progress of the ticket and check the NRT (Next Response Time) SLA.
+1. Set the text field `Handover Status` to the appropriate value, for example if you are based in the EMEA region set the value to `Handed over to EMEA`. This is to ensure that the ticket will be counted as part of your baseline ticket metrics.
+1. Review the `Handover Ticket Summary` entry of the ticket and check the NRT (Next Response Time) SLA.
    - If you know how to proceed with the ticket:
       - Introduce yourself to the customer, confirm the handover, and provide the next technical response.
-   - If additional research is necessary:
+   - If additional research is necessary prior to providing a technical response:
       - Introduce yourself to the customer and set clear expectations that further research and a review of the existing information is required before providing the next technical response.
 
 ## Providing a first response to a ticket
@@ -206,21 +205,31 @@ needs, and that might save you and the customer time and effort as well.
 
 ## Cross Region handover of tickets and customer calls
 
-Cross Region Handover requests are async by nature, which can make it difficult to find a new assignee. To solve this, we have a form set up in the SGG Slack channels. The form also pings (@ mentions) the manager on-call in the destination region, as the DRI. Their responsibility is to [ensure the ticket gets assigned](https://handbook.gitlab.com/handbook/support/workflows/support_manager-on-call/#expectations-for-support-manager-on-call) the same day in the destination region, in case the group misses it. This ensures we can properly serve our customers.
+Cross Region Handover requests are async by nature, which can make it difficult to find a new assignee.  To address this, follow the documented process below to help expedite the assignment of handover tickets.
 
-In-region handover requests: These can be done synchronous, so it is not necessary to ping the on-call manager pr default.
+### Preparing a ticket for Handover
+
+To request a handover of any ticket, even a low-priority one, to a different region, use and complete the [ZenDesk macro named `Handover Ticket Summary`](https://gitlab.com/gitlab-com/support/zendesk-global/macros/-/blob/master/active/General/Handover%20Ticket%20Summary.md?ref_type=heads).
+If you don't use the macro, the ticket will be considered to have been improperly prepared for handover and will be reassigned to the requestor.
+
+Once you save the ticket in the `Open` state, the macro will also:
+- Apply the `Need Handover` value to the `Handover Status` field
+- Set the ticket to be unassigned, and add you to the `CC` field
 
 ### Using the Cross Region Handover Form
 
-1. Ensure that you add a final comprehensive `internal note` in the ticket, which encompasses your insights on the prior steps taken as well as any recommendations for future actions.
-1. Select a handover form from the `Handovers` folder that is bookmarked at the top of your group's channel. Choose the form (such as `Handover to EMEA`) based on the target region to which you need to handover the ticket.
-1. Fill out all fields (using as much detail as possible for the paragraph fields), then click `Submit`.
-1. A message will post to your group's Slack channel, which will ping the regional group handle as well as CC the on-call manager.
-1. You will also receive a private Slack message with the full details of your form submission. Copy and paste this into an internal note in the ticket. (NOTE: future iteration will incorporate the use of a macro that you will paste this information into).
-1. You can track your request in the `Ticket Handover Tracker` sheet that you will also find in the `Handovers` folder.
-1. Managers and Seniors should periodically review the `Ticket Handover Tracker` sheet to help address any pending requests.
+The existing Handover Form is reserved for high-priority tickets only, ensuring a streamlined process for urgent cases, reducing noise and allowing Support Engineers to handle lower-priority tickets without managerial guidance.
 
-**Until another SE has taken assignment, keep the ticket assigned to yourself and continue to work with the customer.** Be sure to notify the customer that you're working on the transfer.
+Ensure that you have followed the steps above in relation to preparing the ticket for handover:
+
+
+1. Select a handover form from the Handovers folder that is bookmarked at the top of your SGG channel. Choose the form (such as Handover to EMEA) based on the target region to which you need to handover the ticket.
+1. Fill out all fields (using as much detail as possible for the paragraph fields), then click Submit.
+1. A message will post to your group’s Slack channel, which will ping the regional group handle as well as the associated SGG Support Managers.
+1. You will also receive a private Slack message with the full details of your form submission, including a reminder to use the `Handover Ticket Summary` macro (required).
+1. You can track your request in the Ticket Handover Tracker sheet that you will also find in the Handovers folder.
+1. Managers and Seniors should periodically review the Ticket Handover Tracker sheet to help address any pending requests.
+
 
 ## Contacting a Customer Success Manager or Account Manager
 

@@ -24,5 +24,4 @@ Segment criteria are [defined in the Customer Success Manager wiki](https://gitl
 
 [<button class="btn btn-primary" type="button">Digital Touch</button>](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/)
 [<button class="btn btn-primary" type="button">Scale</button>](scale/)
-[<button class="btn btn-primary" type="button">Commercial</button>](commercial/)
-[<button class="btn btn-primary" type="button">Enterprise</button>](enterprise/)
+[<button class="btn btn-primary" type="button">AMER CSM</button>](amer/)
