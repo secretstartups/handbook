@@ -36,7 +36,7 @@ Every time someone clicks on your link and applies for a job, your hiring team c
 Other Referral clarifications:
 
 - *Contract* or *temporary* roles, including *Internships*, are **not** eligible for Referral Bonuses.
-    - However, if the *Contractor* or *Intern* is converted to a *Team Member* for the same/similar role, then the referring Team Member will receive a Referral Bonus per the [referral bonus guidelines]({{< ref "incentives#referral-bonuses" >}}) upon transitioning to the new employment status.
+    - However, if the *Intern* is converted to a *Team Member* for the same/similar role, then the referring Team Member will receive a Referral Bonus per the [referral bonus guidelines]({{< ref "incentives#referral-bonuses" >}}) upon transitioning to the new employment status.
 
 #### Referral Bonus Eligibility
 
@@ -72,7 +72,7 @@ As we continue to scale, so does the volume of referrals we receive. Referrals a
     1. How long have you worked with or known this person?
     1. Please provide a comprehensive description as to why this person is aligned to this role (include specific qualifications, skills and relevant experiences that relate to the job post)
         - **Bad Example** - "XX wants to work in a remote workforce. They bring a lot of experience in Program Management"
-        - **Good Example:** - "XX has a proven track recrod in Program Management within a Product Organization. When I worked with them at XYZ company, they worked specifically with net new product launches, partnering with monetization teams on bringing new products to market. This makes them a strong fit for the Product Program Manager role at GitLab."
+        - **Good Example:** - "XX has a proven track record in Program Management within a Product Organization. When I worked with them at XYZ company, they worked specifically with net new product launches, partnering with monetization teams on bringing new products to market. This makes them a strong fit for the Product Program Manager role at GitLab."
     1. If the candidate is interested in more than one role, please list the other roles below.
     1. Anything else we should know about this referral?
     1. Note: If this person has already applied and their application has been reviewed, this is considered an endorsement. 
