@@ -11,7 +11,7 @@ description: The Create:Code Review FE team is responsible for all frontend aspe
 | **Slack Channel**               | [`#g_create_source-code-review-fe`](https://gitlab.enterprise.slack.com/archives/CS5NHHBJ7) |
 | **Slack Handle**               | `@code_review_fe` |
 | **Team Boards**         | [`Current Milestone`](https://gitlab.com/groups/gitlab-org/-/boards/2177994) |
-| **Issue Tracker**       | [`group::code review` + `frontend` in `gitlab-org/gitlab`](https://gitlab.com/groups/gitlab-org/-/issues/?sort=created_date&state=opened&label_name%5B%5D=frontend&label_name%5B%5D=group%3A%3Acode%20review&first_page_size=20) |
+| **Issue Tracker**       | [`group::code review` + `frontend` in `gitlab-org`](https://gitlab.com/groups/gitlab-org/-/issues/?sort=created_date&state=opened&label_name%5B%5D=frontend&label_name%5B%5D=group%3A%3Acode%20review&first_page_size=20) |
 
 ## Team Vision
 
