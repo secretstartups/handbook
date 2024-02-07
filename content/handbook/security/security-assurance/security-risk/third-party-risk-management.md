@@ -362,7 +362,7 @@ In the performance of these reviews, deficiencies may be identified that could p
 
 *While Okta SSO integration is GitLab's preferred method of authentication, IT Engineering can review and approve alternative SSO methods on a case by case basis. Exceptions must be submitted and reviewed through an [IT EngOps issue](https://gitlab.com/gitlab-com/it/engops/issue-tracker/-/issues/?sort=due_date&state=opened&first_page_size=100) before approval of the vendor's services.
 
-Deficiencies identified are reviewed in the context of the vendor's greater Security environment and the data transmitted. If a material risk to GitLab data is identified, this will be reported to the Business Onwer via the (TPRM Security Notice Process)[#tprm-security-notice-process] section below for more information.
+Deficiencies identified are reviewed in the context of the vendor's greater Security environment and the data transmitted. If a material risk to GitLab data is identified, this will be reported to the Business Onwer via the [TPRM Security Notice Process](#tprm-security-notice-process) section below for more information.
 
 ### TPRM Security Notice Process
 
