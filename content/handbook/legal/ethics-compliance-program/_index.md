@@ -47,7 +47,7 @@ Listed below are GitLab's policies and procedures, as well as guidance and other
 
 ### Guidelines and Other Resources
 
-- [AI Ethics Principles for Product Development](/handbook/legal/ethics-compliance-program/ai-ethics-principles.html)
+- [AI Ethics Principles for Product Development](/handbook/legal/ethics-compliance-program/ai-ethics-principles/)
 - [Data Classification Standards](https://about.gitlab.com/handbook/security/data-classification-standard.html)
 - [Designated Insider Pre-Clearance Process and FAQs](https://docs.google.com/document/d/1mcBtnfGbv4jSsJUklMQYyj2052MBHe4Lf9RkE-B9yvA/edit#heading=h.b3pm8ljoip1y)
 - [External Materials Compliance Checklist](https://about.gitlab.com/handbook/legal/external-materials-compliance-checklist/)
