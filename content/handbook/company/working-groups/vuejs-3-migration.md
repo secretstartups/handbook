@@ -67,5 +67,4 @@ This Working Group has the following goals:
 | Member             | Andrei Zubov        | Frontend Engineer, Release                          |
 | Member             | Artur Fedorov       | Senior Frontend Engineer, Govern:Security Policies  |
 | Member             | Frédéric Caplette   | Senior Frontend Engineer, Verify:Pipeline Authoring |
-| Member             | Ross Byrne          | Fullstack Engineer, Growth:Acquisition              |
 | Member             | Vitaly Slobodin     | Staff Frontend Engineer, Fulfillment                |
