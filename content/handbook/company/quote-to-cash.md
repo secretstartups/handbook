@@ -30,7 +30,7 @@ The Fulfillment Team is re-architecting our Quote 2 Cash Systems, in particular 
 1. Fulfillment SSOT Plan: [data_architecture](/handbook/company/quote-to-cash/#billing-account-master-data-object)
 1. Central Data Team SSOT Plan: [data_architecture](/handbook/company/quote-to-cash/#data-architecture-plan)
 1. Sales Systems SSOT Plan: To be added
-1. Enterprise Apps SSOT Plan: To be added
+1. Enterprise Apps SSOT Plan: [data_architecture](/handbook/company/quote-to-cash/#billing-account-master-data-object)
 
 Zuora serves as the source of truth for `Zuora Account` and `Zuora Contact` data once a Subscription is purchased. Prior to a purchase, a user can register for CDot which creates a `CustomersDot User` record that isn't associated with an `CustomersDot BillingAccount` (because it doesn't exist yet).  Once purchased, the `CustomersDot BillingAccount` record is created along with the related `CustomersDot BillingAccountMembership`.
 
@@ -47,7 +47,7 @@ This table shows the equivalent data objects across systems:
 | Organization     | BillingAccount   | Account      | BillingAccount      |
 | User             | User             | Contact      | Contact             |
 | -                | Order            | Order        | Opportunity & primary quote |
-| -                | Subscription     | Subscription | TBD Quote Amendment |
+| -                | Subscription     | Subscription | Subscription |
 | License          | License          | -            | -                   |
 | -                | Cloud Activation | -            | -                   |
 
