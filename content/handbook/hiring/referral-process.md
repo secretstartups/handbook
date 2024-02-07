@@ -12,7 +12,7 @@ For process instructions regarding referrals, please visit the [Referral Operati
 
 #### Defining a Referral
 
-"Referring", "sourcing" and "endorsing" are similar activities, however there are distinctions based on their respective familiarity and confidence in regards to the prospective candidate.
+"Referring", "sourcing" and "endorsing" are similar activities, however there are distinctions based on their respective familiarity and confidence in regards to the prospective candidate. Referral bonuses are granted to referrals only.
 
 
 **Referral** - someone you have worked with in the past, or have developed a close personal relationship. This person should align with our values and the requirements of the role, someone you would choose to work with again if the opportunity arises.
@@ -75,7 +75,7 @@ As we continue to scale, so does the volume of referrals we receive. Referrals a
         - **Good Example:** - "XX has a proven track record in Program Management within a Product Organization. When I worked with them at XYZ company, they worked specifically with net new product launches, partnering with monetization teams on bringing new products to market. This makes them a strong fit for the Product Program Manager role at GitLab."
     1. If the candidate is interested in more than one role, please list the other roles below.
     1. Anything else we should know about this referral?
-    1. Note: If this person has already applied and their application has been reviewed, this is considered an endorsement. 
+    1. Note: If this person has already applied and their application has been reviewed, this is considered an endorsement.
 
   
 
