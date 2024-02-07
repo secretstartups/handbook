@@ -282,6 +282,12 @@ The Security Risk team facilitates multiple functions to maintain accuracy of Te
 
  More information on how Critical System Tiering is leveraged in support of GitLab can be found within the [StORM Handbook page](/handbook/security/security-assurance/security-risk/storm-program/).
 
+### Complementary User Entity Controls (CUECs)
+
+Complementary User Entity Controls (CUECs) are commonly leveraged by vendors to support data security and adherence to service commitments. The vendor's control objectives cannot be met without proper design and implementation of these CUECs by GitLab. It is GitLab's responsibility to address these controls to support data security and prevent unauthorized data disclosure.
+
+In the performance of our TPRM reviews, the Security Risk team will obtain the vendor's SOC 2 report and determine whether CUECs are defined and relied upon by the vendor. If CUECs are defined, the Business Owner will be notified upon approval of the Zip requisition and instructed to review the CUECs and ensure controls are in place to address them. If controls are not already in place, the Business Owner is responsible for coordinating the implementation of these controls. This can be completed in collaboration with the Security Assurance team. Questions regarding CUECs can be directed to the #Sec-Assurance channel in Slack.
+
 ### Exceptions to the TPRM Process
 
 In specific instances, requirements for the performance or contents of TPRM reviews may vary from the standard process defined above:
