@@ -360,7 +360,7 @@ The company will cover all work-related travel expenses. This includes lodging a
 - No conference expense, with the exception of travel, should be allowed outside of G&D, unless the Team Member is a speaker for an event or required to attend an event for job related responsibilities (i.e. staffing or sales).
 
 {{% panel header="**Coding**" header-bg="green" %}}
-**Expense Type / Navan Policy Category:** Conference attendance
+**Expense Type / Navan Policy Category:** G&D (Growth & Development)
 {{% /panel %}}
 
 #### Equipment
@@ -516,7 +516,7 @@ The company will cover all work-related travel expenses. This includes lodging a
 - AP Admin needs to review expenses for approved issue.
 
 {{% panel header="**Coding**" header-bg="green" %}}
-**Expense Type / Navan Policy Category:** Books, dues & subscriptions
+**Expense Type / Navan Policy Category:** G&D (Growth & Development)
 {{% /panel %}}
 
 ### Software
