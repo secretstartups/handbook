@@ -25,7 +25,6 @@ And all the permissions, issues, MRs, and relevant stuff within GitLab are relat
 
 - Access the username you want to request via `https://gitlab.com/mary`.
 - Check its activity and projects to see if they are an inactive user [according to the name squatting policy]({{< ref "namesquatting_policy" >}}).
-- If you're a team member, Complete the [current process for requesting a dormant username]({{< ref "internal-support" >}}).
 - There's no guarantee that the username will be available for you.
 
 #### STEP 2: Create a new account with your new username{#change-username-step-2}
