@@ -49,21 +49,7 @@ Previous:
 
 ## Who Are We?
 
-### People Leaders in Development
-
-{{< members-by-role role="Growth" >}}
-
-### All Team Members
-
-The following people are permanent members of groups that belong to the Growth stage:
-
-#### Acquisition
-
-{{< team-by-departments department="Acquisition Team" >}}
-
-#### Activation
-
-{{< team-by-departments department="Activation Team" >}}
+{{% team-by-manager-slug manager="kniechajewicz" team="Engineer(.*)Growth" %}}
 
 ## How We Work
 
