@@ -128,8 +128,8 @@ For those with regular commitments, look for shorter weeks or timezone variation
 | Start date | End date | See one | Teach one | Schedule Notes |
 | ---------- | -------- | ------- | --------- | -------------- |
 | 2024-02-05 | 2024-02-09 | [Deepika Guliani](https://gitlab.com/deepika.guliani) - Frontend Engineer, Plan:Project Management | [Dilan Orrino](https://gitlab.com/dorrino) - Sr Product Manager | REMOTE - PT |
-| 2024-02-12 | 2024-02-14 | [Taimur Khan] (https://gitlab.com/tkhan.gitlab) - Staff CSM, Industry Lead | [Deepika Guliani](https://gitlab.com/deepika.guliani) - - Frontend Engineer, Plan:Project Management  | REMOTE - PT, MON - WED |
-| 2024-02-20 | 2024-02-23 | [Emma Neuberger](https://gitlab.com/eneuberger) - Sr Product Analyst | [Taimur Khan] (https://gitlab.com/tkhan.gitlab) - Staff CSM, Industry Lead | REMOTE - PT, TUES - FRI |
+| 2024-02-12 | 2024-02-14 | [Taimur Khan](https://gitlab.com/tkhan.gitlab) - Staff CSM, Industry Lead | [Deepika Guliani](https://gitlab.com/deepika.guliani) - - Frontend Engineer, Plan:Project Management  | REMOTE - PT, MON - WED |
+| 2024-02-20 | 2024-02-23 | [Emma Neuberger](https://gitlab.com/eneuberger) - Sr Product Analyst | [Taimur Khan](https://gitlab.com/tkhan.gitlab) - Staff CSM, Industry Lead | REMOTE - PT, TUES - FRI |
 | 2024-02-26 | 2024-03-01 | [Viktor Nagy](https://gitlab.com/nagyv-gitlab) - Senior Product Manager, Deploy:Environments | [Emma Neuberger](https://gitlab.com/eneuberger) - Sr Product Analyst | REMOTE - PT |
 | 2024-03-04 | 2024-03-08 |  [Aleesha Dawson](https://gitlab.com/adawson-gitlab) - Senior Customer Success Manager | [Viktor Nagy](https://gitlab.com/nagyv-gitlab) - Senior Product Manager, Deploy:Environments | REMOTE - PT |
 | 2024-03-11 | 2023-03-15 | NO SHADOW | NO SHADOW | SUMMIT - PT |
