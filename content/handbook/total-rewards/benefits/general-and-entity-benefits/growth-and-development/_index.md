@@ -81,9 +81,9 @@ The Growth and Development policy is meant to further team members' learning and
 Once the appropriate approvals are provided on the Growth and Development issue, proceed with claiming reimbursement and close the issue. **You do not have to wait for approval or further action from the Learning and Development team.**
 
 - Claim your expenses via [Navan Expense](/handbook/finance/expenses/#-introduction):
-  - Include a screenshot of your approved Growth & Development issue.
-  - If reimbursing for an Academic or Course/Certificate program, include a screenshot of your final grade report/transcript/certificate (see )
-  - In your Navan Expense report, select the classification or tag "Growth and Development".
+  - In your Navan Expense report, choose the Expense type `G&D (Growth and Development)`.
+  - Include a screenshot of your approved Growth & Development issue & add a link to the issue to the description.
+    - If reimbursing for an Academic or Course/Certificate program, include a screenshot of your final grade report/transcript/certificate (see)
   - Please make sure the issue matches your Navan Expense claim amount. Your Navan Expense claim will be audited against the Growth & Development issue amount.
 - Please claim conference and workshop meals and lodging per receipt via [Navan Expense](/handbook/finance/expenses/#-introduction).
 
