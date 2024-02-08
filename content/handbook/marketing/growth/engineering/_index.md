@@ -26,7 +26,7 @@ but as a small team, has optimized for team member efficiency to adopt the Fulls
 
 Some useful links to see how and what we are working on include:
 
-- [Growth direction](../growth/)
+- [Growth direction](/handbook/marketing/growth/)
 - [Growth Kanban board for development](https://gitlab.com/groups/gitlab-org/-/boards/1392106?&label_name%5B%5D=devops%3A%3Agrowth)
 - [Experimentation](experimentation/)
 - [GLEX](https://gitlab.com/gitlab-org/ruby/gems/gitlab-experiment)

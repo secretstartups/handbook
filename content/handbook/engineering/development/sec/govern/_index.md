@@ -72,7 +72,7 @@ To contact Govern stage development people leaders leaders use the following ali
 
 The following members of other functional teams are our stable counterparts:
 
-{{% stable-counterparts role="Govern" other-manager-roles="Engineering Manager(.*)Govern:Authorization and Anti-abuse|Engineering Manager(.*)Govern:Authentication|Engineering Manager(.*)Govern:Compliance|Engineering Manager(.*)Govern:Security Policies|Engineering Manager(.*)Govern:Threat Insights|Engineering Manager(.*)Growth and Govern:Threat Insights|Director of Engineering for Secure(.*)Govern(.*)and Growth|Senior Engineering Manager(.*)Govern and Growth" %}}
+{{% stable-counterparts role="Govern" other-manager-roles="Engineering Manager(.*)Govern:Authorization and Anti-abuse|Engineering Manager(.*)Govern:Authentication|Engineering Manager(.*)Govern:Compliance|Engineering Manager(.*)Govern:Security Policies|Engineering Manager(.*)Govern:Threat Insights|Engineering Manager(.*)Growth and Govern:Threat Insights|Director of Engineering for Secure(.*)Govern(.*)and Growth|Senior Manager(.*)Govern" %}}
 
 ## Skills
 
@@ -124,13 +124,13 @@ Some people management tasks, including [Workday](/handbook/people-group/workday
 
 In the event that one or more team members become unavailable for any reason, this can serve as the foundation for a business continuity plan (BCP) and serve as a basic guide for Managing Engineering continuity.
 
-### PTO 
+### PTO
 
-To support our teams, and commitments made to internal and external customers, team members in Govern are encouraged to create a PTO issue before going on leave lasting a week or longer. 
+To support our teams, and commitments made to internal and external customers, team members in Govern are encouraged to create a PTO issue before going on leave lasting a week or longer.
 
 The issue provides a place to discuss and document coverage for any work in progress, or projects where the team member is the directly responsible individual (DRI), and support the [Paid Time Off at GitLab](https://handbook.gitlab.com/handbook/paid-time-off/) policy.
 
-We use an internal issue tracker as team member PTO is not public information, and a PTO template 
+We use an internal issue tracker as team member PTO is not public information, and a PTO template
 - [PTO issue list](https://gitlab.com/gitlab-com/govern-compartment/-/issues/?sort=weight_desc&state=opened&label_name%5B%5D=PTO&first_page_size=20)
 - [New PTO issue template](https://gitlab.com/gitlab-com/govern-compartment/-/issues/new?issuable_template=ooo_template)
 
@@ -152,16 +152,16 @@ Weekly update template can be found [here](https://gitlab.com/gitlab-com/govern-
 
 ## Quarterly review updates
 
-Every quarter, an engineering manager for each group in the Govern and Growth Compartment prepares the quarterly review update using the issue template and records approximately 5 minutes to summarize the last quarter from the engineering perspective and present a high-level plan for the group for the next one to respond to quarterly Product strategy and explain our goals for next quarter.
+Every quarter, an engineering manager for each group in the Govern Compartment prepares the quarterly review update using the issue template and records approximately 5 minutes to summarize the last quarter from the engineering perspective and present a high-level plan for the group for the next one to respond to quarterly Product strategy and explain our goals for next quarter.
 
-We aim to foster collaboration and communication between engineering managers in the Govern and Growth Compartment, align groups on product priorities for the next quarter, and celebrate our successes together.
+We aim to foster collaboration and communication between engineering managers in the Govern Compartment, align groups on product priorities for the next quarter, and celebrate our successes together.
 
 Quarterly review update template can be found [here](https://gitlab.com/gitlab-com/govern-compartment/-/blob/main/.gitlab/issue_templates/govern_stage_quarterly_review.md)).
 
 ## Govern staff meeting
 
-The Govern stage engineering department leaders meet every two weeks to discuss stage and group topics in the `Govern and Growth staff meeting`,
-and optionally every week in the `Expansion Development` staff  and `Sec Growth senior leaders development` staff meetings.
+The Govern stage engineering department leaders meet every two weeks to discuss stage and group topics in the `Govern staff meeting`,
+and optionally every week in the `Expansion Development` staff  and `Secure/Govern senior leaders development` staff meetings.
 
 Meetings have an agenda and are async-first, where the aim is to resolve discussions async and leave time in the meeting to deep dive into topics that require more discussion.
 
