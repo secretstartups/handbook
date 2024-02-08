@@ -24,7 +24,7 @@ This chart reflects the available signatories for each of GitLab's entities. The
 |-------- | -----|
 | GitLab Inc | All Recruiting Leads (Jake Foster, Marissa Farris, Ursela Knezevic), Jess Dallmar, Rob Allen, Other People Group Team Members who are employed by Inc. and of the appropriate grade to sign the document. JCLs can be signed by Morgan Wilkins  |
 | GitLab Federal LLC    |       Bob Stevens     |
-| GitLab BV Belgium, Dutch & English | Marissa Farris, Rob Allen & Pattie Egan. Backups: Craig Mestel|
+| GitLab BV Belgium, Dutch & English | Marissa Farris, Pattie Egan. Backups: Craig Mestel|
 | GitLab BV, Netherlands | Marissa Farris & Pattie Egan. Backup: Craig Mestel|
 | GitLab GmbH | Marissa Farris, Rob Allen & Pattie Egan|
 | GitLab PTY Ltd, Australia | Jess Dallmar & Rob Allen. Backup: Craig Mestel|
