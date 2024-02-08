@@ -380,6 +380,8 @@ one or more of the questions:
 - How do I use it?
 - Why should I care?
 
+Consider tagging the Technical Writer once in a review request with a message indicating the number of points and/or the areas where reviews are needed. This will help manage the volume of notifications per review round.
+
 ### MR Reviews
 
 Once the merge request is created, all changes and additions to text in the UI *must* be reviewed by
