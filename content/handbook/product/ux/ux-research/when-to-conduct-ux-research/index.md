@@ -54,7 +54,7 @@ Once the feature is released to users, it’s important to continue to gather qu
 Goals of the Improve Phase:
 
 1. **Understand Qualitative Feedback**: To know how to improve something, it's important to understand the qualitative feedback that we're hearing from users and team members. User interviews, survey verbatims, and customer comments left within GitLab issues can all help inform teams of how well a new feature is being received.
-1. **Measure Quantitative Impact**: Qualitative data is great in helping us understand in detail the [Why, How or What of users’ behaviors](/handbook/product/ux/ux-research/problem-validation-and-methods/#descriptive-and-informative-research-methods). Going a step further and coupling it with quantitative data can help to paint the full picture of what is going on at scale. During implementation, [set up dashboards in Sisense](/handbook/business-technology/data-team/platform/sisensecdt/) to be able to review the performance and engagement of your change.
+1. **Measure Quantitative Impact**: Qualitative data is great in helping us understand in detail the [Why, How or What of users’ behaviors](/handbook/product/ux/ux-research/problem-validation-and-methods/#descriptive-and-informative-research-methods). Going a step further and coupling it with quantitative data can help to paint the full picture of what is going on at scale. During implementation, set up dashboards in Tableau to be able to review the performance and engagement of your change.
 
 Insights from the Improve phase may initiate a new round of Problem Validation or Solution Validation.
 
