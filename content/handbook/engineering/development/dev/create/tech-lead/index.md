@@ -6,36 +6,6 @@ description: The objective of this page is to provide a clear documentation of t
 ## What is a Tech Lead
 This role is outlined [here](https://handbook.gitlab.com/handbook/engineering/ic-leadership/tech-lead/#the-tech-lead-role).
 
-## How is a Tech Lead different from a Domain Expert
-
-Tech Leads and Domain Experts share similarities and differences. The tables below clarify distinctions between the two roles.
-
-### Similarities
-| Criteria                      | Tech Lead                                     | Domain Expert                                |
-| ----------------------------- | --------------------------------------------- | -------------------------------------------- |
-| **Expertise Requirement**      | Requires domain knowledge and expertise       | Requires substantial experience in a specific area |
-| **Collaboration**              | Collaboration with Engineering Managers and Product Managers | Collaboration with team members and stakeholders |
-| **Mentoring**                 | Provides technical guidance and mentoring     | Mentors team members in their specific area   |
-| **Not a Managerial Role**      | Not a manager                                  | Not a manager                                 |
-
-### Differences
-| Criteria                          | Tech Lead                                     | Domain Expert                                |
-|-----------------------------------|-----------------------------------------------|----------------------------------------------|
-| **Nature of Role**                | Temporary role tied to a specific topic/project | Ongoing role with substantial expertise     |
-| **Assignment Criteria**           | Efficiency, domain knowledge, expertise        | Substantial experience in specific areas     |
-| **Seniority**                     | Any engineer, regardless of seniority          | Encouraged for team members with experience |
-| **Providing Technical Vision**    | Providing technical vision and architecture   |  Not required. |
-| **Guidance and Mentoring**        | Offering technical guidance and mentoring     | Conducting code and MR reviews in their domain |
-| **Planning and Prioritizing Work**| Planning and prioritizing work                 | Not required           |
-| **Tracking Progress and Reporting**| Tracking progress on commitments and reporting | Ensuring progress tracking and reporting within their domain, providing insights into achievements, challenges, and goals |
-| **Risk Management**               | Identifying, assessing, and managing technical risks that may impact deliverables | Managing technical risks associated with specific technology, product feature, or codebase area |
-| **Coordination**                  | Overseeing the work of others and helping remove blockers | Coordinating with team members in their domain, ensuring smooth collaboration and addressing challenges as they arise |
-| **Collaboration**                 | Slack channel for collaboration (#tech_leads or topic/project specific channel)  | Not required. |
-| **Project Template**              | Utilizes a project template for guidance       | Not required.    |
-| **Scope**                         | Tied to a specific topic/project              | Generally encompasses specific technology, feature, or codebase area                                                      |
-## Responsibilities
-The Tech Lead responsibilites are outlined [here](https://handbook.gitlab.com/handbook/engineering/ic-leadership/tech-lead/#responsibilities-of-a-tech-lead).
-
 
 ##  Create Tech Leads
 
@@ -84,6 +54,37 @@ The Tech Lead responsibilites are outlined [here](https://handbook.gitlab.com/ha
 | YYYY-MM-DD | YYYY-MM-DD | YYYY-MM-DD       | Epic/Issue Name 2      | Tech Lead 2 |
 | YYYY-MM-DD | YYYY-MM-DD | YYYY-MM-DD       | Epic/Issue Name 3      | Tech Lead 3 |
 | YYYY-MM-DD | YYYY-MM-DD | YYYY-MM-DD       | Epic/Issue Name 4      | Tech Lead 4 |
+
+## How is a Tech Lead different from a Domain Expert
+
+Tech Leads and Domain Experts share similarities and differences. The tables below clarify distinctions between the two roles.
+
+### Similarities
+| Criteria                      | Tech Lead                                     | Domain Expert                                |
+| ----------------------------- | --------------------------------------------- | -------------------------------------------- |
+| **Expertise Requirement**      | Requires domain knowledge and expertise       | Requires substantial experience in a specific area |
+| **Collaboration**              | Collaboration with Engineering Managers and Product Managers | Collaboration with team members and stakeholders |
+| **Mentoring**                 | Provides technical guidance and mentoring     | Mentors team members in their specific area   |
+| **Not a Managerial Role**      | Not a manager                                  | Not a manager                                 |
+
+### Differences
+| Criteria                          | Tech Lead                                     | Domain Expert                                |
+|-----------------------------------|-----------------------------------------------|----------------------------------------------|
+| **Nature of Role**                | Temporary role tied to a specific topic/project | Ongoing role with substantial expertise     |
+| **Assignment Criteria**           | Efficiency, domain knowledge, expertise        | Substantial experience in specific areas     |
+| **Seniority**                     | Any engineer, regardless of seniority          | Encouraged for team members with experience |
+| **Providing Technical Vision**    | Providing technical vision and architecture   |  Not required. |
+| **Guidance and Mentoring**        | Offering technical guidance and mentoring     | Conducting code and MR reviews in their domain |
+| **Planning and Prioritizing Work**| Planning and prioritizing work                 | Not required           |
+| **Tracking Progress and Reporting**| Tracking progress on commitments and reporting | Ensuring progress tracking and reporting within their domain, providing insights into achievements, challenges, and goals |
+| **Risk Management**               | Identifying, assessing, and managing technical risks that may impact deliverables | Managing technical risks associated with specific technology, product feature, or codebase area |
+| **Coordination**                  | Overseeing the work of others and helping remove blockers | Coordinating with team members in their domain, ensuring smooth collaboration and addressing challenges as they arise |
+| **Collaboration**                 | Slack channel for collaboration (#tech_leads or topic/project specific channel)  | Not required. |
+| **Project Template**              | Utilizes a project template for guidance       | Not required.    |
+| **Scope**                         | Tied to a specific topic/project              | Generally encompasses specific technology, feature, or codebase area                                                      |
+## Responsibilities
+The Tech Lead responsibilites are outlined [here](https://handbook.gitlab.com/handbook/engineering/ic-leadership/tech-lead/#responsibilities-of-a-tech-lead).
+
 
 ## Process
 
