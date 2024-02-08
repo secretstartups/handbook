@@ -22,12 +22,12 @@ In Elevate+, participants will:
 
 Elevate+ is organized into 5 learning modules. Read more about the skills covered in each module below:
 
-![visual displaying the content in each elevate+ module](../elevate+.png)
+![visual displaying the content in each elevate+ module](../elevateplus.png)
 
 
 ## Time Committment
 
-![visual displaying the elevate+ round 1 timeline](../elevate+timeline.png)
+![visual displaying the elevate+ round 1 timeline](../elevateplustimeline.png)
 
 Elevate+ runs for a total of 6 months and is organized into 5 learning modules. In each module, participants spend approx. 4 hours in the following learning activities:
 
@@ -43,7 +43,14 @@ Elevate+ runs for a total of 6 months and is organized into 5 learning modules. 
 
 ## Certification
 
-Additoinal details about the Elevate+ certification will be updated soon.
+1. During each module, participants will complete and submit their intersession work, as described above This work will demonstrate learning of the models / competencies, as well as implementation of difficult conversations / coaching.
+1. Throughout the program, participants will revisit and adapt their ReadMes, crystallizing their focus on leadership development and the ways in which they contribute to GitLab’s business.
+1. During certification, participants will:
+     - present their leadership development plans to members of their cohort
+     - commit to an accountability plan
+     - answer any questions that arise from their peers and coach
+
+More details on the exact format of certification will be shared soon. As much as possible, certification will be designed such that participants have choice in what format / structure they utilize.
 
 ## Making up missed sessions
 
