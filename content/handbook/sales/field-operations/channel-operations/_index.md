@@ -1039,13 +1039,6 @@ For deals transacting through the Carahsoft DSOR program, the quote should refle
 To recognize and properly compensate these transactions, please ensure the `CPPO or DSOR Partner` field = "Amazon Web Services" on the opportunity record. Please chatter Chris Novello or Pilar Meija on your DSOR opportunity so they can review the opportunity and update the `CPPO or DSOR Partner` field.
 
 
-### Requesting Google Cloud Credits
-
-Required fields when requesting Google Cloud Credits on an Opportunity
-1. Have you engaged with the GCP Team already? (Drop down: Yes, No)
-2. Customer open to being a reference? (drop down: logo use, case-study, joint speaking session, etc.)
-3. Credits being requested (Sales Rep enters in the amount of credits required to close the deal)
-Once all required information is submitted, the request  will be routed internally for approval. If approved, the opportunity is updated to ‘approved’ and the opportunity owner  is notified via email. GCP Credits are provided directly to the customer by the GCP Team after acceptance of the private offer. For more information, visit the [Private Alliance Handbook](https://gitlab-com.gitlab.io/alliances/alliances-internal/gcp/).
 
 ### IBM (OEM) Partner Requests & QTC Process
 
@@ -1054,6 +1047,17 @@ See [IBM (OEM) Partner Requests & QTC Process](https://docs.google.com/document/
 ### Consulting Partner Private Offers (CPPO)
 
 For more information on our AWS CPPO Pilot Program, please reference the following [program guide.](https://docs.google.com/document/d/1cH0pJP6xaY0I-Fxra212VjYwn_MvNTH1hHOtkhGVC-4/edit#heading=h.lpzn62rdfa90)
+
+### Registering Opportunities with Marketplace Providers
+Just as our partners register opportunities with GitLab, Partner Managers should register their marketplace opportunities with the prospective cloud provider. Instructions for submitting registrations to AWS and GCP are shown below.
+
+#### Amazon Web Services
+AWS registrations can be received and submitted directly through your SFDC opportunity using the Labra Referrals and Labra Leads tools. Instructions can be found in this [Labra Process Guide](https://docs.google.com/document/d/1wdru-IPPj-lKnq4n25XQGPH3d06Z1xClxXnNdHE7LwU/edit#heading=h.rfec1j50uxik).
+
+#### Google Cloud
+GCP registrations can be submitted by accessing Google's [Partner Advantage portal](https://www.partneradvantage.goog/GCPPRM/s/partneradvantageportallogin?language=en_US). Additional GCP registration information can be found in the following resoures: 
+- [Deal Submission Quick Reference Guide](https://docs.google.com/presentation/d/1D4E4jcVtfky3Qt9kZ1pExiILzCRpQqx95cSOOCjy3vY/edit#slide=id.g20fb1bc5386_7_316)
+- [Video: How to submit a deal](https://drive.google.com/file/d/16sddA_mb3u0pvpq_CKxXzbes1pfvswNH/edit)
 
 ## Compensation on Partner Opportunities
 
