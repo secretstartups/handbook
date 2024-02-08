@@ -62,9 +62,9 @@ This Working Group has the following goals:
 | Functional Lead    | Illya Klymov        | Senior Frontend Engineer, Govern:Compliance         |
 | Functional Lead    | Natalia Tepluhina   | Principal Engineer, Plan                            |
 | Functional Lead    | Stanislav Lashmanov | Senior Frontend Engineer, Create: Code Review       |
-| Functional Lead    | Andrew Fontaine     | Senior Frontend Engineer, Release                   |
+| Functional Lead    | Andrew Fontaine     | Senior Frontend Engineer, Deploy:Environments       |
 | Member             | Mark Florian        | Staff Frontend Engineer, Manage:Foundations         |
-| Member             | Andrei Zubov        | Frontend Engineer, Release                          |
+| Member             | Andrei Zubov        | Frontend Engineer, Deploy:Environments              |
 | Member             | Artur Fedorov       | Senior Frontend Engineer, Govern:Security Policies  |
 | Member             | Frédéric Caplette   | Senior Frontend Engineer, Verify:Pipeline Authoring |
 | Member             | Vitaly Slobodin     | Staff Frontend Engineer, Fulfillment                |
