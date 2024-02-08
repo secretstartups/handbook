@@ -34,7 +34,7 @@ The current headcount number will be updated each quarter following our quarterl
 ## Key messages about diversity, inclusion, and belonging (DIB) at GitLab
 
 - Diversity, inclusion, and belonging (DIB) are fundamental to the success of GitLab. We infuse DIB in every way possible in all that we do.
--At GitLab, everyone has a voice and is empowered to contribute. This means that team members have the opportunity to speak openly about their experiences and provide suggestions to leadership in order to create a more diverse and inclusive culture.
+- At GitLab, everyone has a voice and is empowered to contribute. This means that team members have the opportunity to speak openly about their experiences and provide suggestions to leadership in order to create a more diverse and inclusive culture.
 - Through Team Member Resource Groups, event sponsorships, mentorship opportunities, and partnerships with HBCU's, we strive to create a transparent environment where people can and feel comfortable to show up as their full selves each and every day.
 - More about [DIB at GitLab](/handbook/company/culture/inclusion/).
 
