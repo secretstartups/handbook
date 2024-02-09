@@ -764,7 +764,8 @@ Some considerations that differ from other maintainer ratios:
 - [CustomersDot Resource Video Library](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/staging/doc/resource_videos.md)
 - [Zuora University Select Topics](https://university.zuora.com/series/courses-by-topic#filter-by-9-keys_integrations)
 - [Confidential Issue Git Pre-push Hook](https://gitlab.com/gitlab-org/gitlab/-/issues/332471) to prevent any accidental push to any non-GitLab Security remote whenever a developer works on a _confidential issue_. Reference: [How to customize Git Hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks).
-
+- [Pair programming in Fulfillment](https://gitlab.com/gitlab-org/fulfillment/meta/-/tree/master/docs/pair_programming.md)
+  - A great way to knowledge share between engineers in the section is by working together on a particular issue.  Learn more about the benefits and how to request a pairing session in the doc.
 
 ## Managers and direct reports
 
@@ -795,7 +796,7 @@ Google groups can be used for easily sending calendar invites to members of the 
 | -------------|---------|
 | [s_fulfillment](https://app.slack.com/client/T02592416/CMJ8JR0RH) | Used for asking questions regarding the product, engineering, and Fulfillment processes. |
 | [s_fulfillment_fyi](https://app.slack.com/client/T02592416/C042N0EET9N) | Used for announcements related to the Fulfillment sub-department. |
-| [s_fulfillment_engineering](https://app.slack.com/client/T02592416/C029YFPUA6M) | Used by the Fulfillment sub-department engineering team for internal communication and resolving internal engineering-related queries. |
+| [s_fulfillment_engineering](https://app.slack.com/client/T02592416/C029YFPUA6M) | Used by the Fulfillment sub-department engineering team for internal communication and resolving internal engineering-related queries. Requests for pair programming sessions from other Fulfillment engineers can be made here.  |
 | [s_fulfillment_daily](https://app.slack.com/client/T02592416/C01BNLX4085) | Used to share daily standup updates. |
 | [s_fulfillment_status](https://app.slack.com/client/T02592416/CL7SX4N86) | [CustomersDot](https://gitlab.com/gitlab-org/customers-gitlab-com/) health monitoring channel. |
 
