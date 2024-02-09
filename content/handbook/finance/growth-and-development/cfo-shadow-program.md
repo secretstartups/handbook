@@ -121,7 +121,7 @@ Finance team members have a high workload and may not be able to complete a full
 | Start Date | End Date |Shadow Name |
 |----|---------|--------|
 | Tuesday 2024-02-06 | Thursday 2024-02-08 | |
-| Tuesday 2024-02-20 | Thursday 2024-02-22 | |
-| Tuesday 2024-04-02 | Thursday 2024-04-04 | |
+| Tuesday 2024-02-20 | Thursday 2024-02-22 | Jerome Ng |
+| Tuesday 2024-04-02 | Thursday 2024-04-04 | Jerome Ng |
 | Tuesday 2024-04-09 | Thursday 2024-04-11 | Rakhi Reddy |
 
