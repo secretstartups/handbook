@@ -270,11 +270,23 @@ The CEO chooses to run a Summit Challenge in advance of some [Summits](https://a
 
 ### Meeting Cleanup Day
 
-On February 14, or the Tuesday after if this day falls over the weekend or on Monday, we have an annual calendar cleanup day. This is a day when all team members are encouraged to look at their calendars and reassess the value and frequency of recurring meetings. The goals are to increase team member [efficiency](/handbook/values/#efficiency) as team members stop attending low value meetings and reassess how to make continuing meetings more productive. Team members should be empowered to:
+On February 14, or the Tuesday after if this day falls over the weekend or on Monday, we have an annual calendar cleanup day.
 
-- Cancel meetings or change the frequency if they feel that the current cadence does not add sufficient value
-- Remove themselves as meeting attendees if they don't feel that they are contributing or that participation supports business results
-- Ask other team members to reexamine how existing meetings are managed
+The template Slack post includes more information about the purpose and recommended actions:
+
+```plain
+:google_calendar: :broom: YYYY-MM-DD is Meeting Cleanup Day!
+
+At the start of each new fiscal year, we have a meeting cleanup day to encourage everyone to look at their calendars and assess the value and frequency of recurring meetings.
+
+With the goals of increasing efficiency and looking at how to make recurring meetings more productive, this practice acts as a reminder to:
+
+1. Cancel meetings or change the frequency if you feel that the current cadence does not add sufficient value
+2. Discuss removing yourself as an attendee with the meeting owner if you don’t feel that you are contributing or supporting business results through participation
+3. Ask other team members to reexamine how existing meetings are managed
+
+If you’re looking for possible wording to use when taking the actions above, and for more information about the cleanup day, please look at  https://handbook.gitlab.com/handbook/ceo/chief-of-staff-team/#meeting-cleanup-day.
+```
 
 When cancelling a meeting, a team member can copy and paste this message to send to attendees:
 *I evaluated the need for this meeting as part of [Meeting Cleanup Day](/handbook/communication/#meeting-cleanup-day). I have determined that the meeting is no longer needed. Please get in touch if you have any concerns.*
@@ -285,7 +297,7 @@ When changing the cadence of a meeting, a team member can copy and paste this me
 
 If you are a team member who intends to decline a meeting, the [asynchronous communication](/handbook/company/culture/all-remote/asynchronous/#how-to-decline-meetings-in-favor-of-async) section of the handbook has some good suggestions for what to say when you decline.
 
-Meeting Cleanup Day is intentionally a few weeks after the start of the new fiscal year. The CoST will launch this initiative annually a week in advance through posting (or asking the CoS to post) in the `#company-fyi` Slack channel. The CoST can use [the Slack template message](https://drive.google.com/drive/search?q=%22Meetup%20Cleaning%20Day%20Comms%20Template%22) (internal) located in the CoST shared drive as a basis for the announcement.
+Meeting Cleanup Day is intentionally near the start of the new fiscal year. The CoST will launch this initiative annually a week in advance through posting in the `#whats-happening-at-gitlab` Slack channel, and by re-posting a reminder at 00:00 UTC on cleanup day. CoST (or CoS) will repost in the `#managers` channel for visibility.
 
 ## Program managing [JiHu](https://about.gitlab.com/pricing/faq-jihu/)
 
