@@ -17,7 +17,7 @@ For process instructions regarding referrals, please visit the [Referral Operati
 
 **Referral** - someone you have worked with in the past, or have developed a close personal relationship. This person should align with our values and the requirements of the role, someone you would choose to work with again if the opportunity arises.
 
-**Endorsement** - Someone you know or worked with applies and then ask you to "refer them". This is not a referral as you didn't proactively encourage them to apply. This will be treated as an endorsement (which we also appreciate!).
+**Endorsement** - Endorsements are not referrals, they are treated as a recommendation or you advocating for someone. Examples include someone you know applies and they then ask you to refer them. This is not a referral as you didn't proactively encourage them to apply. Another example could be you've heard good things about someone, but haven't directly worked with them
 
 **Sourcing** - Proactively sourcing candidates and adding them to Greenhouse. These candidates are not referrals as you cannot personally vouch for their work or alignment to our values.
 
