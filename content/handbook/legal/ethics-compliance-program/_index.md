@@ -1,5 +1,6 @@
 ---
 title: "GitLab’s Ethics and Compliance Program"
+layout: single
 ---
 
 ## Mission
