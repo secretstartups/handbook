@@ -24,7 +24,7 @@ The Senior Director, Corporate Security & IT Operations is a [level 11](/handboo
 - Identity & Access: Oversee secure identity and access management and data protection programs in conjunction with the InfoSec team to enforce policies and uphold data integrity.
 - Manage the IT Ops departmental budget
 - Vendor Management: Build / maintain relationships with software and hardware vendors and service providers
-- Directly participate in IT improvements and support as required (i.e., be hands-on)
+- Directly participate in IT Security improvements and support as required (i.e., be hands-on)
 - Establish seamless processes to onboard, change and offboard resources from IT services
 - Own and maintain Corporate Security & IT Operations applications
 - Document and enforce new and current IT policies and procedures
@@ -40,14 +40,14 @@ The Senior Director, Corporate Security & IT Operations is a [level 11](/handboo
 #### Senior Director, IT Corporate Security & Operations Requirements
 
 - Bachelor's degree in IT, Computer Science, or related field
-- 10+ years of IT management and leadership experience
+- 10+ years of IT and/or Security leadership experience
 - 5+ years' experience in IT operations management, focusing on ITIL processes, service desk, identity and access management, infrastructure, and support.
-- Desirable: PMP, ITIL certification (Foundation or higher), CISSP or similar certification is a plus.
-- Strong understanding of Identity Management (SSO, SAML, OAuth, etc.), API integration (REST), Scripting (Bash, Powershell), Directories (LDAP, Universal Directory, AD, etc.), Wifi.
+- Strong understanding of Identity Management (SSO, SAML, OAuth, etc.), API integration (REST), Scripting (Bash, Powershell)
 - SaaS experience: Expert level understanding of tools like Google Workspace, Okta, Zoom, Slack etc.
 - InfoSec experience - partnering with internal information security and compliance teams. SOX experience is a plus.
 - Team building experience. Past experience managing a global support team.
 - Experience working on a fleet of MacOS and ChromeOS endpoints  
 - Proven ability to effectively lead and meet business objectives in a global, collaborative and high performance work environment.
-- Change management knowledge and ability to operate effectively in fast paced environment.
+- Change management knowledge and ability to operate effectively in fast-paced environment.
+- Desirable: PMP, ITIL certification. CISSP or similar certification is a plus.
 - Demonstrated experience in vendor management and capacity planning in a fast growth environment.
