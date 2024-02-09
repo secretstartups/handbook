@@ -1,7 +1,7 @@
 ---
 
-title: "Brand Design Handbook"
-description: "GitLab Brand Design Handbook: "
+title: "Brand Creative Handbook"
+description: "GitLab Brand Creative Handbook: "
 twitter_image: '/images/tweets/handbook-marketing.png'
 ---
 
@@ -13,7 +13,7 @@ twitter_image: '/images/tweets/handbook-marketing.png'
 
 
 
-# <i class="fas fa-bullhorn fa-fw color-orange font-awesome"></i> Welcome to the GitLab Brand Design Handbook
+# <i class="fas fa-bullhorn fa-fw color-orange font-awesome"></i> Welcome to the GitLab Brand Creative Handbook
 
 {: .no_toc}
 
@@ -41,7 +41,7 @@ Create simple, effective, and intentional brand experiences by solving complex p
 
 ## Requesting Support
 
-Please fill out one of these Issue Templates to request support. Please note, if these are not filled out we won't have the proper information for us to support your request.
+Please fill out one of these issue templates to request support. Please note, if these are not filled out we won't have the proper information for us to support your request.
 
 ### Brand & Marketing Design Issue Templates
 
@@ -112,14 +112,24 @@ Please fill out one of these Issue Templates to request support. Please note, if
    - **If the deadline for your request is under a two-week window,** please ping our Senior Creative Operations Manager via Slack and include a link to your request, the deadline date, and why this is a quick-turn ask.  
    - If you have any questions, comments, or concerns regarding your creative request, please reach out to our Senior Creative Operations Manager.
 
+### Brand Video Issue Templates
 
+   1. ##### [New Brand Video Request](https://gitlab.com/gitlab-com/marketing/brand-product-marketing/brand-product-marketing/brand-video/-/issues/new?issuable_template=new-video-request)
+      Please use this issue when requesting a net new video.
+
+   2. ##### [Upload Video Request](https://gitlab.com/gitlab-com/marketing/brand-product-marketing/brand-product-marketing/brand-video/-/issues/new?issuable_template=upload-request)
+      Please us this issue template when requesting to have a video uploaded to Vimeo, YouTube, or another similar platform. 
+
+   3. ##### [Video Edit Request](https://gitlab.com/gitlab-com/marketing/brand-product-marketing/brand-product-marketing/brand-video/-/issues/new?issuable_template=video-editing-request)
+      Please use this issue when requesting an update to an existing video or edits to video footage such as adding lower thirds, bumpers or slides to a zoom recording. 
 
 #### Contacting the team
 
 The best way to get in contact with the Brand design team is to fill out one of the above issue templates with your request, or to:
-- Use the @gl-design tag in GitLab issues and epics for visibility
-- @-mention individuals from the team in GitLab issues and epics
-- Ask your question in the #marketing-design Slack channel
+- Use the {+@gl-design+} tag in GitLab issues and epics for visibility.
+- {+@-mention+} individuals from the team in GitLab issues and epics.
+- Ask your question in the {+#marketing-design+} Slack channel.
+- For video specific questions or assistance, please reach out in the {+#brand_video+} Slack channel.
 
 #### Team logo requests
 
