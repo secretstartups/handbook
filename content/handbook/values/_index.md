@@ -949,7 +949,7 @@ process; not to prohibit, but to be more deliberate in our iteration. The change
 
 ##### See it in action
 
-Iteration is so important to GitLab that the CEO hosts [Iteration Office Hours](/handbook/ceo/#iteration-office-hours) to provide guidance and assist in breaking large, complex topics into MVCs and smaller iterations of work.
+Iteration is so important to GitLab that the CEO hosted [Iteration Office Hours](/handbook/ceo/#iteration-office-hours) to provide guidance and assist in breaking large, complex topics into MVCs and smaller iterations of work.
 
 1. [2019-11-19](https://www.youtube.com/watch?v=zwoFDSb__yM)
 1. [2020-01-15](https://www.youtube.com/watch?v=FAuwri0vsts)
