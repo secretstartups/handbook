@@ -35,9 +35,13 @@ CI Catalog GA Epic: [https://gitlab.com/groups/gitlab-org/-/epics/12153](https:/
 
 #### Additional Important Notes:
 
-- Based on a recent [discussion](https://docs.google.com/document/d/1-vyU2sgTmmw9FvQN0MpGg4Ravn_O6m4Ew0U3-Fj8o6Q/edit#bookmark=id.831n5q9o8abq), it was decided that components to GA was pushed from `16.9` to `16.10` to include additional semver [support](https://gitlab.com/gitlab-org/gitlab/-/issues/427286#note_1762748626).
-- Waiting on feedback from security on [Threat Model](https://gitlab.com/gitlab-com/gl-security/appsec/threat-models/-/issues/43#note_1764196039) diagrams provided.
-- Further discussions continue on 2024-02-09 from [thread](https://gitlab.com/gitlab-org/gitlab/-/issues/438066#note_1762774827) around Release/Publish process 2.0 enhancements.
+- Upcoming next steps for Release/Publish process 2.0 [enhancements](https://gitlab.com/gitlab-org/gitlab/-/issues/438066#note_1762774827) week of 2024-02-12
+  - Create detailed plan of how it can work.
+  - Provide estimates on how long it would take to build.
+  - Articulate tradeoffs that'll help leadership understand how both approaches are being evaluated.
+  - Meeting with Product/Engineering leadership to review.
+- Components to GA was moved to `16.10` to include additional semver [support](https://gitlab.com/gitlab-org/gitlab/-/issues/427286#note_1762748626).  Discussion [here](https://docs.google.com/document/d/1-vyU2sgTmmw9FvQN0MpGg4Ravn_O6m4Ew0U3-Fj8o6Q/edit#bookmark=id.831n5q9o8abq).
+- Awaiting feedback from security on [Threat Model](https://gitlab.com/gitlab-com/gl-security/appsec/threat-models/-/issues/43#note_1764196039) diagrams provided.
 
 ### Milestone 16.11 (March 9, 2024 - April 12, 2024)
 
