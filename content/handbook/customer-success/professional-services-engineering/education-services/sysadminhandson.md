@@ -1,9 +1,9 @@
 ---
-title: "GitLab System Administration Hands-on Guide"
+title: "GitLab System Administration Hands-on Lab Overview"
 description: "This hands-on guide is designed to walk you through the lab exercises used in the GitLab System Administration course."
 ---
 
-# GitLab System Administration Hands-on guide
+# GitLab System Administration
 
 > **We are transitioning to the latest version of this course.** You are using v16 if your group URL is `https://gitlab.com/gitlab-learn-labs/...`. If your group URL starts with `https://spt.gitlabtraining.cloud`, please use the v15 instructions.
 
