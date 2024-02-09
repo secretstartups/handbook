@@ -1216,7 +1216,7 @@ Ideas for account research and strategy: "coming soon"
 
 ## Best Practices for Outbound BDRs
 
-### Cold-Calling Checklist
+### Cold-Calling and Email Checklist
 
 Before calling any Lead or Contact, BDRs must ensure that the `Do Not Call` box is unchecked.  If you speak to any anyone, including prospects and existing contacts, who ask you not to call them again, you must check this box. However, please do not delete the number as we need to know which number requested not to be called again. For any individuals who are opted-in to email, you may ask them if they wish to be called. If they express a desire to be called, you are then permitted to uncheck the `Do Not Call` box if it was previously checked.  Also, if an individual expresses independently via email a wish to be called, you may uncheck the `Do Not Call` box.  This email must be present in SFDC as proof of your authority to uncheck this box.  You cannot send email requests to individuals not opted-in to email asking whether they would like to be called.
 
@@ -1229,6 +1229,8 @@ To be effective, these need to be customized to the individuals we call as per t
 * Business’ Needs and Objectives
 
 The main documentation may be found [here](https://docs.google.com/document/d/1D3iV_WW5fRidRN5H8-3SZVAAr3ffEvjxUC6cW5SFXDM/edit) and the library of resources [here](https://drive.google.com/drive/folders/1VhxVwy4DoEvFco_wXeOLb0DLtVIfo7wQ)
+
+An unsubscribe link must be included on every email sent by a BDR, including responses to a prospect or contact. Please reach out to the Privacy Team via #privacy-team-help for the recommended language that should appear at the bottom of each outbound email.
 
 ### Do Not Call and Do Not Email Automations
 
@@ -1291,7 +1293,7 @@ Additionally, you can use the matrix below as a quick-cheet to determine what da
 The SFDC prospect database is split into five segments: Core users, free GitLab.com users, trial prospects, current customer "leads" and other prospects. We have checkboxes for these, most of which will automatically populate. **However**, the `Core User` checkbox in Leads and Contacts needs to be checked by the BDR/SDR or Sales rep once the prospect has confirmed *in writing or on the phone* that they are using Core as we cannot rely on our product analytics alone as it does not cover all users.
 
 ### Outbound Workflow
-**IMPORTANT**: EMEA reps, old leads/contacts for EU nations can only be called or emailed if they were in our system from May 2018 or later. Any lead/contact that was brought into our system prior would need to optin to communication. Any new leads/contacts can only be called or emailed if they have been brought in from ZoomInfo. You can also leverage LinkedIn Sales Navigator.
+**IMPORTANT**: Any EU lead/contact that was brought into our system prior to May 2018 should not be contacted unless the same contact also came into our marketing systems independently, at a later date. Any new leads/contacts can only be called or emailed if they have been brought in from ZoomInfo, Cognism, Dun & Bradstreet, or LinkedIn Sales Navigator.
 
 The [BDR | framework](https://drive.google.com/drive/search?q=%20Outbound%20Process%20Framework%22%40gitlab.com) (sample is linked) will walk you through both strategy and execution of outbound prospecting.
 
@@ -1347,6 +1349,9 @@ Double credit nor double compensation will be given
 
 **Q:** Why are my leads being reassigned to `Inquiry Queue`?
 **A:** Marketing Operations has a daily scheduled clean at 10:30 PM EST/EDT that update Status = `Inquiry` to `Inquiry Queue`. To prevent the reassignment, you'll want to update the leads from `Inquiry` to `Accepted` or add to an Outreach sequence.
+
+**Q:** What should BDRs do when a prospect or contact responds with a complince related question or objects to being contacted?
+**A:** Immediately reach out to the Privacy Team via #privacy-team-help and forward any email from the contact to dpo@gitlab.com. 
 
 ## BDR Event Promotion and Sales Dev Org Follow Up
 
