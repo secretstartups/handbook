@@ -33,29 +33,25 @@ As a Sales Development Representative (SDR) or Business Development Representati
     * It is requested  when a post in the Sales Dev FYI channel pertains to you that you leave a 👀 emoiji on the post to let management know that you read it.
 
 **Global**
-* **COMM GLOBAL (Manager - Brian Tabbert)** = [`#comm_sales_dev_global`](https://gitlab.slack.com/archives/C04NY0GK0NP/p1675977429782389)
-* **BDR COMM GLOBAL MM (Manager - Brian Tabbert)** = [`#bdr_global_mm`](https://gitlab.slack.com/archives/C04PAPDVAL9/p1675977732134509)
 * **SDR GLOBAL (Manager - Brian Tabbert)** = [`#sdr_global_inbound`](https://gitlab.slack.com/archives/C03RSSTLLMD/)
 
 **AMER**
-* **SDR AMER (Manager - Allison Graban)** = [`#sdr_amer_inbound`](https://gitlab.slack.com/archives/C0322NFAY9W)
+* **SDR AMER (Manager - Josh Downey)** = [`#sdr_amer_inbound`](https://gitlab.slack.com/archives/C0322NFAY9W)
 * **BDR COMM AMER MM (Manager - Christie Park)** = [`#bdr_amer_mm`](https://app.slack.com/client/T02592416/C014PHFNE2U)
-* **BDR ENTG AMER CENT (Manager - Mauricio Nogales)** = [`#bdr_entg_amer_cent`](https://gitlab.slack.com/archives/CUFRP6U6Q)
 * **BDR ENTG AMER WEST & LATAM (Manager - Charlotte Platt)** = [`#bdr_entg_amer_west_latam`](https://gitlab.slack.com/archives/C01LK4EFDNW)
 * **BDR ENTG AMER EAST (Manager - Shamit Paul)** = [`#bdr_entg_amer_east`](https://gitlab.slack.com/archives/C01LK4EFDNW)
-* **BDR ENTG PUBSEC(Manager - Josh Downey)** = [`#bdr_entg_amer_pubsec`](https://gitlab.slack.com/archives/C02EBM1FN00)
+* **BDR ENTG PUBSEC(Manager - Josh Downey)** = [`#bdr_entg_amer_pubsec`](https://gitlab.slack.com/archives/C04R54N159P/p1707436248410669)
 
 
 **EMEA**
 * **All** = [`#sdr_emea`](https://gitlab.slack.com/messages/CCULKLB71)
-* **SDR EMEA - (Manager - Brian Tabbert)** = [`#sdr_emea_apac_inbound`](https://gitlab.slack.com/archives/C031T0LF6NL)
-* **BDR COMM EMEA MM - (Manager - Brian Tabbert)** = [`#bdr_comm_emea_mm`](https://gitlab.slack.com/archives/C04NA4BQP54)
-* **BDR ENTG EMEA DACH - (Manager - Christopher Allenfort)** = [`#bdr_entg_emea_dach`](https://gitlab.slack.com/archives/C04NP4VC449)
+* **SDR EMEA - (Manager - Elsje Smart)** = [`#sdr_emea_apac_inbound`](https://gitlab.slack.com/archives/C031T0LF6NL)
+** **BDR ENTG EMEA DACH - (Manager - Christopher Allenfort)** = [`#bdr_entg_emea_dach`](https://gitlab.slack.com/archives/C04NP4VC449)
 * **BDR ENTG EMEA NEUR META - (Manager - Miguel Nunes)** = [`#bdr_entg_emea_neur_meta`](https://gitlab.slack.com/archives/C04NGL7H4JG)
 * **BDR ENTG EMEA SEUR - (Manager - Tati Fernandez)** = [`#bdr_entg_emea_seur`](https://gitlab.slack.com/archives/C04NE65S6AE)
 
 **APAC**
-* **SDR APAC - (Manager - Brian Tabbert)** = [`#sdr_emea_apac_inbound`](https://gitlab.slack.com/archives/C031T0LF6NL)
+* **SDR APAC - (Manager - Robin Falkowski)** = [`#sdr_emea_apac_inbound`](https://gitlab.slack.com/archives/C031T0LF6NL)
 * **BDR ENTG APAC - (Manager - Elsje Smart)** = [`#bdr_entg_apac`](https://gitlab.slack.com/archives/C0327R1NZBK)
 
 **Please acknowledge any Slack messages from your managers in your Slack channels, if you have nothing to say at least be creative and funny with emoji so they know you are seeing their requests and updates and are not talking to an empty room!**
