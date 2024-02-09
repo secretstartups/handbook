@@ -182,7 +182,6 @@ The CEO's GC slides usually cover:
 - A reminder on handbook first
 - Openings on the CEO Shadow Rotation
 - Timely announcements
-- Iteration Office Hours
 - Three things that are on the CEO's mind, usually from the CoS to the CEO agenda
 
 The GCs are stored in the "CEO Evangelism" folder on Google Drive.
