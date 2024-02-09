@@ -15,7 +15,6 @@ twitter_image: '/images/tweets/handbook-marketing.png'
 
 # <i class="fas fa-bullhorn fa-fw color-orange font-awesome"></i> Welcome to the GitLab Brand Creative Handbook
 
-{: .no_toc}
 
 We develop our brand visual identity design to ensure it stays relevant in the market and reflects the benefits and quality of our product. We are the creative partners for GitLab marketing. We create, conceptualize, and design high quality brand experiences.
 
@@ -127,10 +126,10 @@ Please fill out one of these issue templates to request support. Please note, if
 #### Contacting the team
 
 The best way to get in contact with the Brand design team is to fill out one of the above issue templates with your request, or to:
-- Use the {+@gl-design+} tag in GitLab issues and epics for visibility.
-- {+@-mention+} individuals from the team in GitLab issues and epics.
-- Ask your question in the {+#marketing-design+} Slack channel.
-- For video specific questions or assistance, please reach out in the {+#brand_video+} Slack channel.
+- Use the @gl-design tag in GitLab issues and epics for visibility.
+- @-mention individuals from the team in GitLab issues and epics.
+- Ask your question in the #marketing-design Slack channel.
+- For video specific questions or assistance, please reach out in the #brand_video Slack channel.
 
 #### Team logo requests
 
