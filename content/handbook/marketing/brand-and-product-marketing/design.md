@@ -110,6 +110,7 @@ Please fill out one of these issue templates to request support. Please note, if
    - Please complete the issue form to the best of your ability. The more information our team can receive upfront, the quicker we can get started on your request.
    - **Please note, all requests need a minimum of a two-week turnaround.**
    - **If the deadline for your request is under a two-week window,** please ping our Senior Creative Operations Manager via Slack and include a link to your request, the deadline date, and why this is a quick-turn ask.  
+   - When inputting your project deadline, **please be mindful of time zone differences**. For example, if you're operating a day ahead of our Brand Design Team (PT / GMT-8 time zone) and need deliverables completed by Tuesday, Feb 20, please select Monday, Feb 19 as your deadline to accommodate for the time difference.
    - If you have any questions, comments, or concerns regarding your creative request, please reach out to our Senior Creative Operations Manager.
 
 ### Brand Video Issue Templates
