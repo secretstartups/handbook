@@ -1,9 +1,7 @@
 ---
-title: "GitLab System Administration - Hands-on Lab 4"
+title: "GitLab System Administration - Hands-on Lab: Backup and Restore GitLab"
 description: "This hands-on lab guide is designed to walk you through the lab exercises used in the GitLab System Administration course."
 ---
-
-## Lab 4 - Backup and Restore GitLab
 
 > Estimated time to complete: 30 minutes
 

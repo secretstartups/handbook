@@ -1,9 +1,8 @@
 ---
-title: "GitLab System Administration - Hands-on Lab 3"
+title: "GitLab System Administration - Hands-on Lab: Configure GitLab Runners"
 description: "This hands-on lab guide is designed to walk you through the lab exercises used in the GitLab System Administration course."
 ---
 
-## Lab 3 - Configure GitLab Runners
 
 > Estimated time to complete: 40 minutes
 
