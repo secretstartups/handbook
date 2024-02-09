@@ -54,8 +54,9 @@ flowchart LR
     I --> EA[Engineering Analytics]
     click EA "/handbook/engineering/quality/engineering-analytics/"
     I --> TP[Test Platform]
-    click TP "https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/"
+    click TP "/handbook/engineering/infrastructure/test-platform/"
     I --> SP[SaaS Platforms]
+    click SP "/handbook/engineering/infrastructure/platforms/"
 
     C --> SS[Systems Stage]
     click SS "/handbook/engineering/infrastructure/core-platform/systems/"
