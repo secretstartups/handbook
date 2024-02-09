@@ -105,12 +105,12 @@ flowchart LR
     D --> Switchboard
     click Switchboard "/handbook/engineering/infrastructure/team/gitlab-dedicated/switchboard/"
 
-    TP --> TTI[Test and Tools Infrastructure]
-    click TTI "/handbook/engineering/infrastructure/test-platform/test-and-tools-infrastructure-team/"
     TP --> SMP[Self-Managed Platform]
     click SMP "/handbook/engineering/infrastructure/test-platform/self-managed-platform-team/"
     TP --> TE[Test Engineering]
     click TE "/handbook/engineering/infrastructure/test-platform/test-engineering-team/"
+    TP --> TTI[Test and Tools Infrastructure]
+    click TTI "/handbook/engineering/infrastructure/test-platform/test-and-tools-infrastructure-team/"
 ```
 
 ## Design
