@@ -1,6 +1,6 @@
 ---
 title: "Supporting GitLab Community Programs"
-category: License and subscription
+category: General
 description: Instructions for redirecting community programs subscription inquiries
 ---
 
