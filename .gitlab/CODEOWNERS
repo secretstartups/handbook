@@ -594,7 +594,7 @@
 # Please make sure that  @gitlab-com/handbook and  @gitlab-com/egroup groups are part of all
 # controlled documents entries.
 [Controlled-Documents]
-/content/handbook/business-technology/data-team/data-management.md @amiebright @dvanrooijen2 @iweeks @nmcavinue @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/business-technology/data-team/data-management.md @amiebright @dvanrooijen2 @iweeks @nmcavinue @emccrann @gitlab-com/egroup @gitlab-com/handbook
 /content/handbook/business-technology/data-team/platform/_index.md @amiebright @dvanrooijen2 @iweeks @gitlab-com/egroup @gitlab-com/handbook
 /content/handbook/business-technology/end-user-services/onboarding-access-requests/ @rrea1 @NabithaRao @ericrubin @mbeee @gitlab-com/egroup @gitlab-com/handbook
 /content/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/ @rrea1 @NabithaRao @ericrubin @mbeee @gitlab-com/egroup @gitlab-com/handbook
@@ -619,7 +619,7 @@
 /content/handbook/security/change-management-policy.md @joshlemos @jlongo_gitlab @juliedavila @gitlab-com/egroup @gitlab-com/handbook
 /content/handbook/security/controlled-document-procedure.md @joshlemos @jlongo_gitlab @juliedavila @gitlab-com/egroup @gitlab-com/handbook
 /content/handbook/security/cryptographic-standard.md @joshlemos @jlongo_gitlab @juliedavila @gitlab-com/egroup @gitlab-com/handbook
-/content/handbook/security/data-classification-standard.md @joshlemos @jlongo_gitlab @juliedavila @gitlab-com/egroup @gitlab-com/handbook
+/content/handbook/security/data-classification-standard.md @joshlemos @jlongo_gitlab @juliedavila @tdilbeck @emccrann @gitlab-com/egroup @gitlab-com/handbook
 /content/handbook/security/isms.md @joshlemos @jlongo_gitlab @juliedavila @gitlab-com/egroup @gitlab-com/handbook
 /content/handbook/security/password-standard.md @joshlemos @jlongo_gitlab @juliedavila @gitlab-com/egroup @gitlab-com/handbook
 /content/handbook/security/penetration-testing-policy.md @joshlemos @jlongo_gitlab @juliedavila @gitlab-com/egroup @gitlab-com/handbook
