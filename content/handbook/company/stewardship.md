@@ -25,7 +25,8 @@ We promise that:
 1. The open source codebase will not contain any artificial limits (repositories, users, size, performance, [requiring a trademarked header](https://news.ycombinator.com/item?id=28110610), etc.).
 1. All stages of the DevOps lifecycle (plan, create, verify, package, release, configure, monitor) will have some open source features.
 1. The majority of new features made by GitLab Inc. will be open source.
-1. The product will be available for download from a link above the fold on the desktop homepage without you having to submit an email address or sign in.
+1. The product will be available for install and/or download in the menu of the website.
+1. You can install it without you having to submit an email address or sign in.
 1. We will always allow you to [benchmark the performance](https://news.ycombinator.com/item?id=18103162) of GitLab.
 1. We will make our Free tier easily discoverable.
 1. We will always make it clear what is proprietary and what is open source code. This will be implemented with a [separate directory for EE code](https://gitlab.com/gitlab-org/gitlab/-/tree/master/ee) and a [Git repo downstream that is open source only](https://gitlab.com/gitlab-org/gitlab-foss).
