@@ -572,7 +572,6 @@
 # handbook content
 [handbook-operations-content]
 /content/handbook/about/ @marshall007 @gitlab-com/handbook
-/content/handbook/about/readmes/jamiemaynard.md @marshall007
 /content/handbook/content-websites/ @marshall007 @gitlab-com/handbook
 
 [handbook-homepage]
