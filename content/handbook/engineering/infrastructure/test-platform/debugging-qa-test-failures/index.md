@@ -396,6 +396,35 @@ In the logs of the failing job, search for `gitlab-ee` or `gitlab-ce` and use it
 
 To run [GitLab in a container](https://docs.gitlab.com/ee/install/docker.html#install-gitlab-using-docker-engine) on your local, follow the steps below that correspond to your host machine and setup:
 
+**MacOS with Colima**
+
+Sometimes GitLab container won't start using [Docker desktop](https://handbook.gitlab.com/handbook/tools-and-tips/mac/#docker-desktop) as it requires subscription and some features may not work well with Docker desktop as described in the issue [Local GitLab DOCKER does not work on MacOS (Apple M2) - postgresql error](https://gitlab.com/gitlab-org/omnibus-gitlab/-/issues/8359).
+
+If you are facing PostgreSQL related error as mentioned in the [issue](https://gitlab.com/gitlab-org/omnibus-gitlab/-/issues/8359) switch to using colima instead.
+
+Note: To run tests with Colima, make sure your Docker Desktop or Rancher Desktop is not running.
+
+```
+# install colima locally
+brew install colima
+
+# Before running any test you need to start colima
+# Assign cpu and memory, for docker containers to use, as per your wish
+colima start --cpu 8 --memory 16 --disk 100 --vz-rosetta
+```
+Once Colima has started you can start a GitLab container using `docker run`.
+
+To monitor containers while using colima, you can use `lazydocker` which can be installed using  `brew install lazydocker`.
+Once its installed, run the command `lazydocker` which shall open an interactive shell like so
+![Alt text](image.png)
+
+**Accessing container logs on MacOS with Colima**
+Usually the container logs are at `/var/lib/docker/container/{container id}` but if you are using MacOS, this won't be the case.
+
+To access container logs run `colima ssh` or `colima ssh -p you_profile_name`.
+
+Once inside the vm you can access the container logs at `/var/lib/docker/container/{container_id}/`.
+
 **MacOS with Rancher Desktop**
 
 First, make sure to [disable Traefik on Rancher Desktop](https://docs.rancherdesktop.io/faq/#q-can-i-disable-traefik-and-will-doing-so-remove-traefik-resources) to open ports 80 and 443 on your host machine.
@@ -494,6 +523,23 @@ If you suspect that certain test is failing due to the `gitlab/gitlab-{ce|ee}-qa
     - Search the commits from Step 2 by the branch name.
         - If the commit is found, the MR is in this version. For [example](https://gitlab.com/gitlab-org/gitlab/-/commits/v13.10.0-rc20210223090520-ee?utf8=%E2%9C%93&search=add-share-with-group-to-modal).
         - If no results, the MR is not in this version. For [example](https://gitlab.com/gitlab-org/gitlab/-/commits/v13.10.0-rc20210223090520-ee?utf8=%E2%9C%93&search=qa-shl-add-requries-admin).
+
+#### Investigating orchestrated test failure
+
+##### Verify the reconfigure logs for the GitLab container in the pipeline artefacts.
+
+Each orchestrated job has a log file attached as artifacts called
+- `<container_name>-reconfigure-logs.txt` - if the container runs successfully on 1st attempt, or
+- `<container_name>-retry-<retry_attempt>-reconfigure-logs.txt` - if the test has tried multiple times to spin up the GitLab container due to failure.
+
+If you see any errors in this log file, the issue would be related to `gitlab-ctl reconfigure` command.
+Get in touch with the distribution team on `#g_distribution` channel.
+
+##### Investigating update-major or update-minor tests locally and common failures
+
+Failures in `update-major` or `update-minor` might indicate that GitLab upgrade fails. Such failures could be caused by migration issues or other changes. To ensure customers won't face such issue during upgrade,  investigate the error as priority, especially near the release date. 
+
+Follow the document  [Investigating update-major or update-minor tests locally and common failures](https://gitlab.com/gitlab-org/quality/runbooks/-/blob/main/debug_orchestrated_test_locally/running_update-major_and_update-minor_locally.md).
 
 ### Identifying commit that introduced a failure
 
