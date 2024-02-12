@@ -95,7 +95,7 @@ Click on a link below to begin your role based journey.
 - Customer Success Management: [CSM Onboarding Journey](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/learning-path/technical-account-manager-tam-onboarding)
 - Customer Success Management: [CSE Onboarding Journey](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/learning-path/scale-customer-success-engineer-cse-onboarding)
 - Inside Sales - [Inside Sales: Onboarding Learner Journey](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/learning-path/inside-sales-onboarding-learner-journey)
-- Sales Development - [Tanuki Tech - Level 1](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/learning-path/tanuki-tech-level-1)
+- Sales Development - [Inbound (SDR)](https://university.gitlab.com/pages/sales-development?labels=%5B%22Sales%20Development%22%5D&values=%5B%22Inbound%20(SDR)%22%5D) or [Outbound (BDR)](https://university.gitlab.com/pages/sales-development?labels=%5B%22Sales%20Development%22%5D&values=%5B%22Outbound%20(BDR)%22%5D)
 - Channel - [Channel Sales Onboarding Journey](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/learning-path/channel-sales-on-boarding)
 - All Other Roles (Field Ops) - [Sales Quick Start](https://levelup.gitlab.com/learn/course/sales-quick-start)
 
