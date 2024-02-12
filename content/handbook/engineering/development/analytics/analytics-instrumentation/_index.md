@@ -349,7 +349,7 @@ A milestone commitment is a list of issues our team aims to complete in the mile
 
 #### Work Type Classification
 
-Per the [Next Prioritization](/handbook/company/team/structure/working-groups/cross-functional-prioritization/) initiative, we will review our team's performance in applying appropriate [type labels](https://docs.gitlab.com/ee/development/labels/index.html#type-labels) to MRs. At the close of the milestone, on the Planning Issue, the EM or PM will post a link to [this dashboard](/handbook/engineering/development/analytics/analytics-instrumentation/#merged-merge-request-types) along with a summary of shipped work by type label (include null) to ensure we are observing the [recommended work split](/handbook/company/team/structure/working-groups/cross-functional-prioritization/#exit-criteria) of 60% feature, 30% maintenance, 10% bugs, and <=5% undefined.
+Per the [Next Prioritization](/handbook/company/working-groups/cross-functional-prioritization/) initiative, we will review our team's performance in applying appropriate [type labels](https://docs.gitlab.com/ee/development/labels/index.html#type-labels) to MRs. At the close of the milestone, on the Planning Issue, the EM or PM will post a link to [this dashboard](/handbook/engineering/development/analytics/analytics-instrumentation/#merged-merge-request-types) along with a summary of shipped work by type label (include null) to ensure we are observing the [recommended work split](/handbook/company/working-groups/cross-functional-prioritization/#exit-criteria) of 60% feature, 30% maintenance, 10% bugs, and <=5% undefined.
 
 ##### Clarifying Maintenance vs. Feature Work
 
@@ -483,4 +483,3 @@ All new team members to the Analytics Instrumentation teams are provided an onbo
 | [Privacy Policy](/privacy/)        | Our privacy policy outlining what data we collect and how we handle it     |
 | [Analytics Instrumentation Direction](https://about.gitlab.com/direction/analytics/analytics-instrumentation/)  | The roadmap for Analytics Instrumentation at GitLab  |
 | [GitLab Performance Snowplow Dashboards ](./gitlab_com_performance_dashboard.html) | Performance dashboards for GitLab.com via Snowplow  |
-| [FAQ](/handbook/product/analytics-instrumentation-guide/faq) | A list of questions and answers related with Service Ping and Snowplow |

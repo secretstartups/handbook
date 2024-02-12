@@ -345,19 +345,17 @@ Handbook Links
 <a id="marketing-calendar"></a>
 <!-- DO NOT CHANGE ANCHOR -->
 
-FY24 All-Marketing SSoT Calendar
+FY25 All-Marketing SSoT Calendar
 {.h3}
 
-<a id="fy24-calendar"></a>
+<a id="fy25-calendar"></a>
 <!-- DO NOT CHANGE ANCHOR -->
 
-The marketing team utilizes a [single all-marketing calendar](https://docs.google.com/spreadsheets/d/1fyrC4O1e13QTRNmYR3H5rMZIoIJcPk93vltOCx0ubjk/edit#gid=571560493) where everyone can contribute, and we can answer key questions (using pre-set filter views) related to upcoming marketing plans.
+The marketing team utilizes a [single all-marketing calendar](https://docs.google.com/spreadsheets/d/1Tk5fVSwpsEZVFbKOtuaPAItTpAE2PjPeyZ4jKoDe42w/edit#gid=571560493&range=A1:F1) where everyone can contribute, and we can answer key questions (using pre-set filter views) related to upcoming marketing plans.
 
 Please do not filter the entire doc. Instead, you may use pre-set filter views (click down arrow selector next to the filter icon on the bookmark bar) to see activities grouped by GTM Motion, segment, region, team, language, and more.
 
 Below are some pre-set filter examples:
-- [Primary GTM - Automated Software Delivery](https://docs.google.com/spreadsheets/d/1fyrC4O1e13QTRNmYR3H5rMZIoIJcPk93vltOCx0ubjk/edit#gid=571560493&fvid=719487391)
-- [Primary GTM - Security & Compliance](https://docs.google.com/spreadsheets/d/1fyrC4O1e13QTRNmYR3H5rMZIoIJcPk93vltOCx0ubjk/edit#gid=571560493&fvid=1234877160)
 - [Region - AMER](https://docs.google.com/spreadsheets/d/1fyrC4O1e13QTRNmYR3H5rMZIoIJcPk93vltOCx0ubjk/edit#gid=571560493&fvid=1972984682)
 - [Region - EMEA](https://docs.google.com/spreadsheets/d/1fyrC4O1e13QTRNmYR3H5rMZIoIJcPk93vltOCx0ubjk/edit#gid=571560493&fvid=1909928129)
 - [Region - APAC](https://docs.google.com/spreadsheets/d/1fyrC4O1e13QTRNmYR3H5rMZIoIJcPk93vltOCx0ubjk/edit#gid=571560493&fvid=1885172265)

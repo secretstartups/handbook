@@ -33,29 +33,25 @@ As a Sales Development Representative (SDR) or Business Development Representati
     * It is requested  when a post in the Sales Dev FYI channel pertains to you that you leave a 👀 emoiji on the post to let management know that you read it.
 
 **Global**
-* **COMM GLOBAL (Manager - Brian Tabbert)** = [`#comm_sales_dev_global`](https://gitlab.slack.com/archives/C04NY0GK0NP/p1675977429782389)
-* **BDR COMM GLOBAL MM (Manager - Brian Tabbert)** = [`#bdr_global_mm`](https://gitlab.slack.com/archives/C04PAPDVAL9/p1675977732134509)
 * **SDR GLOBAL (Manager - Brian Tabbert)** = [`#sdr_global_inbound`](https://gitlab.slack.com/archives/C03RSSTLLMD/)
 
 **AMER**
-* **SDR AMER (Manager - Allison Graban)** = [`#sdr_amer_inbound`](https://gitlab.slack.com/archives/C0322NFAY9W)
+* **SDR AMER (Manager - Josh Downey)** = [`#sdr_amer_inbound`](https://gitlab.slack.com/archives/C0322NFAY9W)
 * **BDR COMM AMER MM (Manager - Christie Park)** = [`#bdr_amer_mm`](https://app.slack.com/client/T02592416/C014PHFNE2U)
-* **BDR ENTG AMER CENT (Manager - Mauricio Nogales)** = [`#bdr_entg_amer_cent`](https://gitlab.slack.com/archives/CUFRP6U6Q)
 * **BDR ENTG AMER WEST & LATAM (Manager - Charlotte Platt)** = [`#bdr_entg_amer_west_latam`](https://gitlab.slack.com/archives/C01LK4EFDNW)
 * **BDR ENTG AMER EAST (Manager - Shamit Paul)** = [`#bdr_entg_amer_east`](https://gitlab.slack.com/archives/C01LK4EFDNW)
-* **BDR ENTG PUBSEC(Manager - Josh Downey)** = [`#bdr_entg_amer_pubsec`](https://gitlab.slack.com/archives/C02EBM1FN00)
+* **BDR ENTG PUBSEC(Manager - Josh Downey)** = [`#bdr_entg_amer_pubsec`](https://gitlab.slack.com/archives/C04R54N159P/p1707436248410669)
 
 
 **EMEA**
 * **All** = [`#sdr_emea`](https://gitlab.slack.com/messages/CCULKLB71)
-* **SDR EMEA - (Manager - Brian Tabbert)** = [`#sdr_emea_apac_inbound`](https://gitlab.slack.com/archives/C031T0LF6NL)
-* **BDR COMM EMEA MM - (Manager - Brian Tabbert)** = [`#bdr_comm_emea_mm`](https://gitlab.slack.com/archives/C04NA4BQP54)
-* **BDR ENTG EMEA DACH - (Manager - Christopher Allenfort)** = [`#bdr_entg_emea_dach`](https://gitlab.slack.com/archives/C04NP4VC449)
+* **SDR EMEA - (Manager - Elsje Smart)** = [`#sdr_emea_apac_inbound`](https://gitlab.slack.com/archives/C031T0LF6NL)
+** **BDR ENTG EMEA DACH - (Manager - Christopher Allenfort)** = [`#bdr_entg_emea_dach`](https://gitlab.slack.com/archives/C04NP4VC449)
 * **BDR ENTG EMEA NEUR META - (Manager - Miguel Nunes)** = [`#bdr_entg_emea_neur_meta`](https://gitlab.slack.com/archives/C04NGL7H4JG)
 * **BDR ENTG EMEA SEUR - (Manager - Tati Fernandez)** = [`#bdr_entg_emea_seur`](https://gitlab.slack.com/archives/C04NE65S6AE)
 
 **APAC**
-* **SDR APAC - (Manager - Brian Tabbert)** = [`#sdr_emea_apac_inbound`](https://gitlab.slack.com/archives/C031T0LF6NL)
+* **SDR APAC - (Manager - Robin Falkowski)** = [`#sdr_emea_apac_inbound`](https://gitlab.slack.com/archives/C031T0LF6NL)
 * **BDR ENTG APAC - (Manager - Elsje Smart)** = [`#bdr_entg_apac`](https://gitlab.slack.com/archives/C0327R1NZBK)
 
 **Please acknowledge any Slack messages from your managers in your Slack channels, if you have nothing to say at least be creative and funny with emoji so they know you are seeing their requests and updates and are not talking to an empty room!**
@@ -552,7 +548,7 @@ Next Steps: SDR chatters the BDR Assigned and lets them know you didn't find act
  * **Is the Account in “Worked in FY” Status?**
     * **Yes:** It is worked by the SDR team
 * **Is the Account in “Restricted” Status?**
-    * **Yes:** It should be routed to the BDR assigned. The BDR assigned will chatter the SAE about whether they'd like them to reach out or whether they would like to own that responsibility. They'll have a certain window to respond (likely 24-48 hours depending on what JB says).
+    * **Yes:** It should be routed to the BDR assigned. The BDR assigned will chatter the SAE about whether they'd like them to reach out or whether they would like to own that responsibility. The AE should respond within 48 hours.
         * If they reply back that the BDR can work, the BDR will continue with the prospect as a lead record and take action.
         * If they reply back that they want to be responsible, the BDR will convert the lead so that it becomes a contact.
 
@@ -620,7 +616,7 @@ When a territory moves from one BDR to another but the previous BDR remains with
     *   If an existing SFDC Large/Enterprise Customer account already exists, verify that the SFDC lead/prospect is not part of the existing GitLab subscription before working the lead by sending a short snippet like, "Hi XYZ, Thanks for reaching out. ABC company current has a GitLab subscription, are you currently using a GitLab license and if so, what version?". If they are, please follow the "Convert to Account" instructions above.
     *   Read the ZoomInfo description to check for **USA** PubSec indicators which will include words like the following in the description: County, City Of, State, University, College, Defense, Intelligence, Agency, Mission, Mission Critical, Mission Support, Speed to Mission, System Integrator, Contract Vehicle, Government Bid, Government Contract, Civilian, or Task Order.  **Canadian government leads get routed to the AMER commercial team.**
 4. Press **Find Duplicates**
-    *   SDRs/BDRs should use this screen to check to see if 1) the matched account is an “Actively Working” account that would cause the lead to need to be re-routed to the BDR Assigned or 2) whether there is a duplicate record that needs to be merged [Ensure you keep oldest `Initial Source`. See video here](/handbook/marketing/sales-development/#duplicate-lead-and-contact-videos) or 3) whether there is another lead at that company active in sequence.
+    *   SDRs/BDRs should use this screen to check to see if 1) the matched account (make sure to use the core company name for the search, removing Inc, plc, Ltd etc.) is an “Actively Working” account that would cause the lead to need to be re-routed to the BDR Assigned or 2) whether there is a duplicate record that needs to be merged [Ensure you keep oldest `Initial Source`. See video here](/handbook/marketing/sales-development/#duplicate-lead-and-contact-videos) or 3) whether there is another lead at that company active in sequence.
         *   The lead owner will make sure to use search techniques that allow for the most accurate results. On the Find Duplicates screen, they will need to scroll to the `Matched Account` section to see if the BDR prospecting status is “Actively Working”. If so, they will need to transfer to BDR.
         *   If it is not an Actively Working account, then the next step is to scroll to the top to see if there are `Matched Leads` or `Matched Contacts` that are a match. If so, then our merging process here will need to be followed.
         *  The lead owner should also check the `Matched Opportunities` Section to see if there is an active Opportunity for the account be it SAE/AE-owned or Channel owned (`Resale Partner` last column) The lead owner should determine if this lead is related to any active opportunity and then pass along the lead if relevant.
@@ -774,6 +770,89 @@ What do I do when ZoomInfo has improper data on an account?
     3. Account job runs and updates the account demographics fields and the Owner/BDR Assigned on the account
 
 This process could take up to 72 hours before completing the reassignment. If after 72 hours the account is still not properly assigned, the Director will reach out to a member of the Territory Ops team to assist.
+
+### AMER SDR - IQM Standards
+
+Prior to the IQM
+
+* Schedule IQM within 48 hours of the DC. Give at least 24 hours notice to the AE
+Send calendar invite + Zoom link 
+* SDR asks the AE to notify at least 24 hours prior to the IQM if the account is incorrectly routed to them, given the SDR’s best efforts to ensure correct routing + SF/Zoom data being correct 
+* Send the opportunity to the AE via Slack or email
+* AE verifies they reviewed the opportunity beforehand
+* AE and SDR review the specifics of the call, responsibilities (if differing from the below-referenced introduction), and any nuances
+SDR sends meeting reminders
+* For booking meetings use Outreach and use Google to get a detailed view
+* Ask lead to accept while they still are on the phone - more likely to attend 
+* Send pre-meeting emails 
+    * (ATTENTION REQUIRED) - Sent every other day till meeting is accepted
+    * (MEETING STARTED) - Sent at the time of the IQM 
+* If the SDR is unable to attend
+SDR will notify the AE via Slack and/or email as soon as possible
+* AE will acknowledge the notification
+* AE will add their Zoom link to the calendar invite
+
+
+IQM
+
+* AE and SDR show up on time or up to 5 minutes beforehand
+* Cameras on
+* Location is quiet and indoors for AE and SDR
+* SDR introduces the call
+    * SDR: Good morning/afternoon. Thank you for joining us today, (lead). I discussed your goals with (AE) prior to our call so s/he is best equipped to walk through (insert goals/needs in this section). They are prepared to continue our conversation. I will mute my line but will be here when you and (AE) need me for additional insight or support.
+    * AE: Thank you, (SDR). AE takes over the call. 
+* Cameras stay on
+
+Responsibilities
+* AE - Further qualification, note taking, slide deck (if applicable)
+* SDR - Camera on, available for questions and insight 
+* To help develop the SDR skills for their next role, take notes as well. This fosters learning and the skills required for their next role. See note format that is expected in Commercial: https://www.youtube.com/watch?v=CMMQ5R0pq8I
+    * Notes Structure: 
+        1. Attendees
+        2. Raw Notes
+        3. Questions
+        4. Summary
+        5. Next Steps
+
+
+Post IQM
+
+* AE and SDR debrief within 24 hours re: the opportunity flipping or being disqualified
+* Reasons are shared in writing via Slack and/or email AND added to SalesForce by the AE
+* SDR adds IQM notes to the Initiative section in the opportunity
+    Title – IQM Notes - SDR name
+        1. Attendees
+        2. Raw Notes
+        3. Questions
+        4. Summary
+        5. Next Steps
+* If the opportunity is accepted
+* AE must accept/”flip” within 48 hours of the IQM
+
+
+
+No-show IQM
+
+* SDR’s responsibility to rebook
+* Outreach rebook sequence https://web.outreach.io/sequences/12249/overview 
+* Calls and emails
+* Will conduct outreach for 2 weeks. If IQM cannot be r/s, AE will unqualify the opp 
+* Ongoing follow-up by SDR - 1x cycle/month
+    * Week 1
+        * AMER SDR - No Show IQM - Email
+        * VM
+        * Do not leave message
+    * Week 2
+        * VM
+        * Do not leave message
+    * Week 3
+        * Do not leave message
+        * LI message
+        * Invite to webinar/online workshop
+    * Week 4
+        * Resend AMER SDR - No Show IQM - Email
+        * VM
+
 
 ### Assigning SAO Credit when a Territory Change is Uncovered during Discovery
 
@@ -1133,7 +1212,7 @@ Ideas for account research and strategy: "coming soon"
 
 ## Best Practices for Outbound BDRs
 
-### Cold-Calling Checklist
+### Cold-Calling and Email Checklist
 
 Before calling any Lead or Contact, BDRs must ensure that the `Do Not Call` box is unchecked.  If you speak to any anyone, including prospects and existing contacts, who ask you not to call them again, you must check this box. However, please do not delete the number as we need to know which number requested not to be called again. For any individuals who are opted-in to email, you may ask them if they wish to be called. If they express a desire to be called, you are then permitted to uncheck the `Do Not Call` box if it was previously checked.  Also, if an individual expresses independently via email a wish to be called, you may uncheck the `Do Not Call` box.  This email must be present in SFDC as proof of your authority to uncheck this box.  You cannot send email requests to individuals not opted-in to email asking whether they would like to be called.
 
@@ -1146,6 +1225,8 @@ To be effective, these need to be customized to the individuals we call as per t
 * Business’ Needs and Objectives
 
 The main documentation may be found [here](https://docs.google.com/document/d/1D3iV_WW5fRidRN5H8-3SZVAAr3ffEvjxUC6cW5SFXDM/edit) and the library of resources [here](https://drive.google.com/drive/folders/1VhxVwy4DoEvFco_wXeOLb0DLtVIfo7wQ)
+
+An unsubscribe link must be included on every email sent by a BDR, including responses to a prospect or contact. Please reach out to the Privacy Team via #privacy-team-help for the recommended language that should appear at the bottom of each outbound email.
 
 ### Do Not Call and Do Not Email Automations
 
@@ -1208,7 +1289,7 @@ Additionally, you can use the matrix below as a quick-cheet to determine what da
 The SFDC prospect database is split into five segments: Core users, free GitLab.com users, trial prospects, current customer "leads" and other prospects. We have checkboxes for these, most of which will automatically populate. **However**, the `Core User` checkbox in Leads and Contacts needs to be checked by the BDR/SDR or Sales rep once the prospect has confirmed *in writing or on the phone* that they are using Core as we cannot rely on our product analytics alone as it does not cover all users.
 
 ### Outbound Workflow
-**IMPORTANT**: EMEA reps, old leads/contacts for EU nations can only be called or emailed if they were in our system from May 2018 or later. Any lead/contact that was brought into our system prior would need to optin to communication. Any new leads/contacts can only be called or emailed if they have been brought in from ZoomInfo. You can also leverage LinkedIn Sales Navigator.
+**IMPORTANT**: Any EU lead/contact that was brought into our system prior to May 2018 should not be contacted unless the same contact also came into our marketing systems independently, at a later date. Any new leads/contacts can only be called or emailed if they have been brought in from ZoomInfo, Cognism, Dun & Bradstreet, or LinkedIn Sales Navigator.
 
 The [BDR | framework](https://drive.google.com/drive/search?q=%20Outbound%20Process%20Framework%22%40gitlab.com) (sample is linked) will walk you through both strategy and execution of outbound prospecting.
 
@@ -1264,6 +1345,9 @@ Double credit nor double compensation will be given
 
 **Q:** Why are my leads being reassigned to `Inquiry Queue`?
 **A:** Marketing Operations has a daily scheduled clean at 10:30 PM EST/EDT that update Status = `Inquiry` to `Inquiry Queue`. To prevent the reassignment, you'll want to update the leads from `Inquiry` to `Accepted` or add to an Outreach sequence.
+
+**Q:** What should BDRs do when a prospect or contact responds with a complince related question or objects to being contacted?
+**A:** Immediately reach out to the Privacy Team via #privacy-team-help and forward any email from the contact to dpo@gitlab.com. 
 
 ## BDR Event Promotion and Sales Dev Org Follow Up
 

@@ -111,7 +111,7 @@ Communicate broadly when you will be away so other people can manage time effici
         - > Hello team, I am out of the office for the next several days. Please double check the pending tasks on our team's Google Doc for any upcoming deadlines.
 1. Please see the [On-Call](/handbook/on-call/) page for information on how to handle scheduled leave for someone from the On-Call team.
 1. If you are a people manager, please complete the following:
-    - BambooHR: submit a job information request to move direct reports to the interim manager if you will be out of office for more than 25 calendar days.
+    - Workday: set up a [delegate](https://docs.google.com/document/d/1BDME_47-mif1ZihO5Id-wejbjAU_-PLIr1dJ46z1F_c/edit) in Workday to be able to approve transactions on your behalf while you are away
     - Navan Expense: delegate expense approval to your back-up team member by following these steps:
         - Navan Expense
         - Settings
@@ -317,6 +317,10 @@ Before assigning a `#channel` to a role, please ask for permission to do so in t
 Especially in large channels and during popular vacation times, PTO's role reminders could create a lot of noise, so some teams may recommend against them until there is an option to allow turning off the PTO notifications.
 
 #### Bulk Add holidays
+
+{{% alert title="Note" color="primary" %}}
+It is worth considering the impact to your role/team before bulk adding regional holidays to your time off by Deel app. Many functions of GitLab necessitate coverage on holidays and if your team is region-centric you may want to opt to take alternative days off instead of the official regional holiday in order to provide coverage for others who are observing.
+{{% /alert %}}
 
 You can bulk add holidays based on your region and then modify them manually if needed. Any Public Holidays added to Time Off by Deel in your dashboard will not auto-set an OOO event for you, you will still need to create an OOO event if observing that holiday. To add a Public Holiday, follow the below instructions.
 

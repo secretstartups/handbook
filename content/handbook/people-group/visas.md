@@ -13,7 +13,7 @@ For assistance with any employment or relocation visa please reach out to the Pe
 
 ## Expensing
 
-You can expense:
+You can expense (for approved GitLab/company events):
 
 - Cost of the VISA
 - Cost of pictures for the VISA
@@ -24,6 +24,7 @@ You can expense:
 You can *not* expense relocation costs.
 
 Please note, that GitLab is only able to cover the costs of one VISA attempt. If your VISA request is rejected, team members are free to re-submit at their discretion and any additional costs will be need to be covered by the team member.
+Please refer to the [Global Travel and Expense Policy Handbook Page](https://handbook.gitlab.com/handbook/finance/expenses/#visaspermitscovid-tests) for more information regarding the reimbursement.
 
 ### Arranging a visa for travel
 

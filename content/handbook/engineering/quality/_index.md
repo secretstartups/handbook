@@ -30,7 +30,7 @@ In addition, we empower our teams to ship world class enterprise software at sca
 
 ## FY23 Direction
 
-In FY23 we will be focused on contributor success & customer results while delivering impact to the company's bottomline via alignment to [top cross-functional initiatives](/handbook/company/team/structure/working-groups/#top-cross-functional-initiatives). Key directional highlights; be more customer centric in our work, execute on 10x contributor strategy jointly with Marketing, provide timely operational analytics insights & improve team member engagement. In FY23 we anticipate a large increase of cross-functional activity within the company. Fostering an open-collaborative environment is more important than ever for us to deliver results.
+In FY23 we will be focused on contributor success & customer results while delivering impact to the company's bottomline via alignment to [top cross-functional initiatives](/handbook/company/working-groups/#top-cross-functional-initiatives). Key directional highlights; be more customer centric in our work, execute on 10x contributor strategy jointly with Marketing, provide timely operational analytics insights & improve team member engagement. In FY23 we anticipate a large increase of cross-functional activity within the company. Fostering an open-collaborative environment is more important than ever for us to deliver results.
 
 ### Customer Centric Quality
 
@@ -202,7 +202,7 @@ The cut-line also serves as a healthy discussion between engineers and their man
 
 - [Dev & Analytics QE Team](https://gitlab.com/groups/gitlab-org/-/boards/425899)
 - [Ops QE Team](https://gitlab.com/groups/gitlab-org/-/boards/978348)
-- [Enablement QE Team](https://gitlab.com/groups/gitlab-org/-/boards/978354)
+- [Self Managed Platform Team](https://gitlab.com/groups/gitlab-org/-/boards/978354)
 - [Fulfillment QE Team](https://gitlab.com/groups/gitlab-org/-/boards/1512645)
 - [Sec & Data Science QE Team](https://gitlab.com/groups/gitlab-org/-/boards/1524991)
 - [Engineering Productivity Team](https://gitlab.com/groups/gitlab-org/-/boards/978615)
@@ -295,7 +295,7 @@ If additional input is needed from the Quality team, the DRI for this is the Dir
 | Quality Department Bi-Weekly | Department management team | `@meks` | Every 2 weeks | Review meeting |
 | Quality Department Social Call | All team members | All team members | Every 2 weeks | Meet and Greet |
 | Quality Hiring Bi-Weekly | All QEMs, Directors, and VP | `TBD` | Every 2 weeks | Review meeting |
-| Ops section stakeholder review | `TBD` | `@dcroft` <br>`@zeffmorgan` | Every 4 weeks | Review meeting |
+| Ops section stakeholder review | `TBD` | `@dcroft` | Every 4 weeks | Review meeting |
 | Enablement Sync with AppSec | `@vincywilson` | `TBD` | Monthly | Review meeting |
 
 ## Quality Engineering initiatives

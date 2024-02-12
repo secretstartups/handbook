@@ -44,7 +44,7 @@ When you’re not tackling difficult customer challenges, you’ll have a lot of
 
 ## Requirements
 
-### You should apply if
+### You should [apply](https://boards.greenhouse.io/gitlab) if
 
 ### You've got the personality
 

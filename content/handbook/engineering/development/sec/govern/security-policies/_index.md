@@ -1,6 +1,7 @@
 ---
 title: Govern, Security Policies
 description: "The Security Policies group at GitLab is charged with developing solutions to apply policies to enforce scans and to require security approvals when vulnerabilities are found."
+layout: single
 ---
 
 ## Security Policies
@@ -37,6 +38,8 @@ The Security Policies group largely follows GitLab's [Product Development Flow](
 Additional information about how we operate can be found on the [Planning page](/handbook/engineering/development/sec/govern/sp-ti-planning.html).
 
 Our current workflow is visualized as flowchart on the [Workflow page](/handbook/engineering/development/sec/govern/security-policies/workflow.html).
+
+Our current process on how we work on features is on the [Feature process page](/handbook/engineering/development/sec/govern/security-policies/feature_process.html)
 
 #### MR Reviews
 

@@ -49,8 +49,7 @@ The retrospective for the Token Working Group was conducted on 2023-04-25 and de
 
 | Working Group Role              | Person                | Title                                                        |
 |---------------------------------|-----------------------|--------------------------------------------------------------|
-| Facilitator                     | James Ritchey        |  Sr. Security Engineering Manager |
-| Executive Stakeholder | Laurence Bierner          | Director Security Engineering                         |
+| Facilitator                     | James Ritchey        |  Sr. Manager, Product Security |
 | Member         | Joaquin Fuentes   | Director Security Operations           |
 | Member         | Valentine Mairet   | SIRT Manager           |
 | Member         | Philippe Lafoucrière    | Security Architect           |

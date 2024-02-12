@@ -22,21 +22,21 @@ This chart reflects the available signatories for each of GitLab's entities. The
 
 | Entity | Signatory |
 |-------- | -----|
-| GitLab Inc | All Recruiting Leads (Jake Foster, Marissa Ferber, Ursela Knezevic), Jess Dallmar, Rob Allen, Other People Group Team Members who are employed by Inc. and of the appropriate grade to sign the document. JCLs can be signed by Morgan Wilkins  |
+| GitLab Inc | All Recruiting Leads (Jake Foster, Marissa Farris, Ursela Knezevic), Jess Dallmar, Rob Allen, Other People Group Team Members who are employed by Inc. and of the appropriate grade to sign the document. JCLs can be signed by Morgan Wilkins  |
 | GitLab Federal LLC    |       Bob Stevens     |
-| GitLab BV Belgium, Dutch & English | Rob Allen & Pattie Egan. Backups: Craig Mestel|
-| GitLab BV, Netherlands | Rob Allen & Pattie Egan. Backup: Craig Mestel|
-| GitLab GmbH | Rob Allen & Pattie Egan|
+| GitLab BV Belgium, Dutch & English | Marissa Farris, Pattie Egan. Backups: Craig Mestel|
+| GitLab BV, Netherlands | Marissa Farris & Pattie Egan. Backup: Craig Mestel|
+| GitLab GmbH | Marissa Farris, Rob Allen & Pattie Egan|
 | GitLab PTY Ltd, Australia | Jess Dallmar & Rob Allen. Backup: Craig Mestel|
 | GitLab PTY Ltd, New Zealand | Jess Dallman & Rob Allen. Backup: Craig Mestel|
 | GitLab Ireland LTD | Rob Allen & Pattie Egan. Backup: Craig Mestel|
-| GitLab UK Ltd | Rob Allen, Pattie Egan|
+| GitLab UK Ltd | Marissa Farris, Rob Allen, Pattie Egan|
 | GitLab Canada Corp | Craig Mestel, Simon Mundy |
 | GitLab GK, Japan | Jess Dallmar, Rob Allen. Backups: Simon Mundy, Craig Mestel |
-| GitLab IT BV | Rob Allen & Pattie Egan. Backup: Craig Mestel|
+| GitLab IT BV | Marissa Farris, Pattie Egan. Backup: Craig Mestel|
 | GitLab South Korea | Jess Dallmar & Rob Allen. Backup: Craig Mestel |
 | GitLab France S.A.S. | Rob Allen & Pattie Egan. Backup: Craig Mestel|
-| GitLab Singapore PTE. LTD. | Jess Dallmar & Rob Allen |
+| GitLab Singapore PTE. LTD. | Jess Dallmar & Rob Allen. Backup: Simon Mundy |
 | JCLs | Choose signatory from the list above. For the US, Morgan Wilkins can also sign. |
 | PEOs | The Candidate Experience Specialist processing the offer. For JCLs, choose Morgan Wilkins or Marissa Ferber |
 
@@ -680,6 +680,28 @@ If you cannot find the QES option on your DocuSign, you may need to switch your 
 GitLab has an entity in Japan (GitLab GK) and use the GitLab GK contracts in this location. All team members in this location are employees.
 
 Always ensure the start date is on a Monday, unless Monday is a holiday or the non-Monday date is legally required.
+
+## Intern Employment Contracts
+
+GitLab participates in hiring interns within the INC entity as well as the Code2College program. Code2College is the FIRST and ONLY program that places high school students into paid, technical internships.
+
+The Intern contract template will be used for both C2C interns and all other interns hired into GitLab. However there are some different necessary steps when processing a C2C intern. Processes are described below.
+
+1. When the offer decision is made, Emerging Talent Coordinator/Recruiter will create offer in GH profile and request approvals as normal.
+1. Once approved, CES to send the contract using the "INC Intern" template in GH. Some important details needed in the offer details will be the hourly rate of pay and the end date of the contract (since this is not an indefinite contract). Please ensure these details are in the offer before generating.
+1. After the offer is sent, CES will initiate the background check by selecting the Comprehensive Criminal Check with Employment. **IMPORTANT NOTE - If this is a C2C (Code2College) intern - you will only need to select the Comprehensive Criminal Check in Sterling. Employment check is not needed as most C2C interns will be minors.**
+1. Because most interns from C2C are minors, at the time the BGC is initiated, CES will also need to send the [Parental Consent Form](https://docs.google.com/document/d/1J0xundRL___Hhg0zNkt7KTMMEgTv63U5rseqTlmv8ok/edit) to the interns guardian.
+ - This form can be send via DocuSign
+ - Please add appropriate tokens
+ - Please set up distribution as follows (guardian email can be recieved from Emerging Talent Coordinator):
+    - 1. Guardian - Needs to sign
+    - 2. Emerging Talent Coordinator - receives a copy
+1. Once the offers are signed by the candidate, CES will send the GitLab Inc Intern Welcome Email. **Note: GitLab will provide laptops to these interns. The Welcome Email asks them to fill out form ASAP**
+1. Once the req is cleared, CES can mark the Intern as hired.
+1. CES will ping People Connect in the #peopleops-alerts slack channel to let them know they just hired in an Intern. **please indicate if they are C2C in your messaging to them**
+1. Once Intern is hired into the system - they will move to the responsibility of People Connect who will create onboarding issues and communicate information about the TaNewKi call.
+1. If you are notified that the C2C intern requires a "youth work permit", please send form over to People Connect. They will be required to fill out the "employer" portion and submit to the intern/guardians.
+
 
 ## Employment Agreements for GitLab team members located everywhere else (IT BV contractor agreements)
 

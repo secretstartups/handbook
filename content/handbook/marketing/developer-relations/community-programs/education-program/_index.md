@@ -65,7 +65,6 @@ We use the following labels to track our work across these spaces.
 ### OKRS and KPIs
 
 We track progress on OKRs using the `Education Program` and `OKR` labels.
-We store progress on OKRs in the [`EDU Key Results`](https://gitlab.com/gitlab-com/marketing/developer-relations/education-program/edu-key-results) project in the [Education Program](https://gitlab.com/gitlab-com/marketing/developer-relations/education-program) sub-group.
 
 The GitLab for Education Program has one Key Performance Indicator and several Performance Indicators.
 See the [Developer Relations Department Performance Indicators page](/handbook/marketing/developer-relations/performance-indicators/#gitlab-for-education-quarterly-new-institutions-inherited) for more details.
@@ -184,7 +183,7 @@ On social media, we evangelize the following topics:
 - Community best practices and GitLab insights
 - Live demos and lesson plans
 
-Twitter and LinkedIn are our primary platforms.
+X/Twitter and LinkedIn are our primary platforms.
 Both platforms have different target audiences and content distribution.
 We are always careful to choose the right platform to accomplish our goals, keeping the following guidelines in mind:
 
@@ -196,7 +195,7 @@ We are always careful to choose the right platform to accomplish our goals, keep
   - `#education` or `#DevOps` can be used, but make sure to only include relevant tags.  
 - Too many emoji can hide key messages.
 - Use an appealing screenshot image or funny animated GIF to make people stop when scrolling. 
-- Do not start with an `@` character on Twitter, this can be hidden as reply and hinder audience reach on Twitter. You can add a period at the end, or restructure your sentence to work better with an intro. `Hey @gitlab, how's the new release looking?`
+- Do not start with an `@` character on X/Twitter, this can be hidden as reply and hinder audience reach on X/Twitter. You can add a period at the end, or restructure your sentence to work better with an intro. `Hey @gitlab, how's the new release looking?`
 
 Education Evangelists strive to become thought leaders on social media platforms.
 We do this with the following guidelines and strategies in mind:
@@ -265,9 +264,15 @@ Recordings from past workshops and other team activities can be found on the [Gi
 
 ### Evangelism with presentations at events
 
-Participation in events such as conferences and conventions are an important part of education evangelism at GitLab. In the case of Education Evangelism, both tech and education events are important to take part in. An Education Evangelist seeks out relevant organizations and events to participate in as part of their role. As events and organizations to consider are found we will add them to an issue in the [Outreach project](https://gitlab.com/gitlab-com/marketing/community-relations/community-programs/education-program/outreach/).
+Participation in events such as conferences and conventions are an important part of education evangelism at GitLab.
+In the case of Education Evangelism, both tech and education events are important to take part in.
+An Education Evangelist seeks out relevant organizations and events to participate in as part of their role.
+As events and organizations to consider are found we will add them to an issue in the [Outreach project](https://gitlab.com/gitlab-com/marketing/community-relations/community-programs/education-program/outreach/).
 
-When preparing for presentations and talks, post your slides to the [Developer Evangelism](https://gitlab.slack.com/archives/CMELFQS4B) or [Developer Relations](https://gitlab.slack.com/archives/C0R04UMT9) slack channel for feedback on slides. This ensures that the most current messaging is being used. It's also good for a sanity check and quick edit on the content. Another good way to review for a speaking engagement is to post a zoom room to the [speaking channel](https://gitlab.slack.com/archives/CCGD905AR) and ask for people to join a practice session.
+When preparing for presentations and talks, post your slides to the [Developer Evangelism](https://gitlab.slack.com/archives/CMELFQS4B) or [Developer Relations](https://gitlab.slack.com/archives/C0R04UMT9) Slack channel for feedback on slides.
+This ensures that the most current messaging is being used.
+It's also good for a sanity check and quick edit on the content.
+Another good way to review for a speaking engagement is to post a zoom room to the [speaking channel](https://gitlab.slack.com/archives/CCGD905AR) and ask for people to join a practice session.
 
 Education Evangelists should consider being a part of the [Speakers Bureau.](https://about.gitlab.com/speakers/)
 
@@ -343,7 +348,7 @@ GitLab for Education offers a [DevOps 101 lecture](https://docs.google.com/prese
 
 | Asset Type | Metric | Impressions Dashboard | Notes |
 | ------ | ------ | -----| ------|
-| GitLab Blog | Views | Yes | Blog posts listed in the asset inventory sheet and blog post with `education-program` Post_Type|
+| GitLab Blog | Views | Yes | Blog posts listed in the asset inventory sheet and blog post with `education-program` Post_Type |
 | Blog on External Site | Actual Views | Yes | Record after 30 days |
 | Case Study | Views | Yes |  |
 | YouTube Video GitLab Unfiltered |Views | Yes | |
@@ -353,14 +358,14 @@ GitLab for Education offers a [DevOps 101 lecture](https://docs.google.com/prese
 | Downloadable Asset | Views | Yes| |
 | YouTube (non-GitLab)| Views | Yes | |
 | Twitch (WIP) | Unique Viewers | Yes | We don't currently have a Twitch Asset Type but will add one. |
-| Twitter | Twitter Impressions | No | Twitter impressions are not currently connected to our dashboard. See notes below. |
+| X/Twitter | X/Twitter Impressions | No | X/Twitter impressions are not currently connected to our dashboard. See notes below. |
 | LinkedIn | Views on Posts, Articles, Documents | No | LinkedIn views are not current connected to our dashboard. See notes below. |
 
 *UMV is Unique Monthly Visitors and is reported by the media agency.
 
 ### How evangelists work
 
-All of our work is stored as issues in the [Education Program Group](https://gitlab.com/gitlab-com/marketing/community-relations/community-programs/education-program). Issues are stored in projects. A list of projects and descriptions can be [found here.](https://gitlab.com/gitlab-com/marketing/community-relations/community-programs/education-program)
+All of our work is stored as issues in the [Education Program Group](https://gitlab.com/gitlab-com/marketing/developer-relations/education-program). Issues are stored in projects.
 
 | **Label** | **Description** |
 | ---------- | ----------- |
@@ -372,15 +377,24 @@ All of our work is stored as issues in the [Education Program Group](https://git
 
 ## Measuring our success
 
-The GitLab for Education Team tracks our impressions on the [Education Program Impression Dashboard](https://datastudio.google.com/u/0/reporting/6160877c-c921-4554-965f-f7a7eb7c36cd/page/YsgmB). All outreach should be entered into the [Education Asset Inventory Google Sheet](https://docs.google.com/spreadsheets/d/1k1ci9BPEDDb_CxrR9-uQ_YQD_UXBMDeAU-KTpfQfHD4/edit#gid=0) in order to appear in the dashboard. Directions for entering each publication are in the `Read Me` tab of the spreadsheet.
+The GitLab for Education Team tracks our impressions on the [Education Program Impression Dashboard](https://datastudio.google.com/u/0/reporting/6160877c-c921-4554-965f-f7a7eb7c36cd/page/YsgmB).
+All outreach should be entered into the [Education Asset Inventory Google Sheet](https://docs.google.com/spreadsheets/d/1k1ci9BPEDDb_CxrR9-uQ_YQD_UXBMDeAU-KTpfQfHD4/edit#gid=0) in order to appear in the dashboard.
+Directions for entering each publication are in the `Read Me` tab of the spreadsheet.
 
-We track impressions for all content created (videos, blog posts, articles, etc). Generally, we measure the total number of impressions after the content has been published for 30 days. In order to stay on track with recording impressions, each team member should create a monthly recurring `Impressions` calendar task on the first day of the month. Each time a piece of content is published, a link should be added to the calendar task. On the first day of the new month, each team member should check impressions for the content and enter the metrics for those items into the [Education Asset Inventory Google Sheet](https://docs.google.com/spreadsheets/d/1k1ci9BPEDDb_CxrR9-uQ_YQD_UXBMDeAU-KTpfQfHD4/edit#gid=0). If it hasn't been 30-days since the content was live, wait to enter the metrics until the next invite.
+We track impressions for all content created (videos, blog posts, articles, etc).
+Generally, we measure the total number of impressions after the content has been published for 30 days.
+In order to stay on track with recording impressions, each team member should create a monthly recurring `Impressions` calendar task on the first day of the month.
+Each time a piece of content is published, a link should be added to the calendar task.
+On the first day of the new month, each team member should check impressions for the content and enter the metrics for those items into the [Education Asset Inventory Google Sheet](https://docs.google.com/spreadsheets/d/1k1ci9BPEDDb_CxrR9-uQ_YQD_UXBMDeAU-KTpfQfHD4/edit#gid=0).
+If it hasn't been 30-days since the content was live, wait to enter the metrics until the next invite.
 
-We collect Twitter impressions and LinkedIn views as part of our impressions metrics. Social Media impressions originating from Education team member's account are entered in the `Social Media Impressions` tab of the [Education Asset Inventory Google Sheet](https://docs.google.com/spreadsheets/d/1k1ci9BPEDDb_CxrR9-uQ_YQD_UXBMDeAU-KTpfQfHD4/edit#gid=0). This sheet currently serves as our record while we working on adding a social media widget to the dashboard itself.
+We collect X/Twitter impressions and LinkedIn views as part of our impressions metrics. Social Media impressions originating from Education team member's account are entered in the `Social Media Impressions` tab of the [Education Asset Inventory Google Sheet](https://docs.google.com/spreadsheets/d/1k1ci9BPEDDb_CxrR9-uQ_YQD_UXBMDeAU-KTpfQfHD4/edit#gid=0).
+This sheet currently serves as our record while we working on adding a social media widget to the dashboard itself.
 
-Social media impressions originating from the official GitLab account at the request of the Education team may be reported at the discretion and availability of the [Social Marketing team](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/). If you wish to record impressions from an official post, request metrics on the social coverage issue 30 days after the post goes live.
+Social media impressions originating from the official GitLab account at the request of the Education team may be reported at the discretion and availability of the [Social Marketing team](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/).
+If you wish to record impressions from an official post, request metrics on the social coverage issue 30 days after the post goes live.
 
 Impressions are recorded at the end of each month and entered into the sheet:
 
-- **Twitter**: Each team member records the total number of Twitter Impressions (original content and retweets) from the Analytics Dashboard on Twitter for each month. If GitLab official tweets are reported upon, include these as well.
+- **X/Twitter**: Each team member records the total number of X/Twitter Impressions (original content and retweets) from the Analytics Dashboard on Twitter for each month. If GitLab official tweets are reported upon, include these as well.
 - **LinkedIn**: Each team member records the total number of views of posts, articles, and documents for each month. If GitLab official posts are reported upon, include these as well.

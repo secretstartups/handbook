@@ -1,9 +1,7 @@
 ---
-title: "GitLab Project Management - Hands-On Lab 2"
+title: "GitLab Project Management - Hands-On Lab: Create an Organizational Structure in GitLab"
 description: "This Hands-On Guide walks you through the lab exercises used in the GitLab Project Management course."
 ---
-
-# Lab 2: Create an Organizational Structure in GitLab
 
 > Estimated time to complete: 30 minutes
 
@@ -102,7 +100,7 @@ In GitLab, projects and subgroups help you organize your codebases and effective
 
 1. Search for and select your instructor as the user you are inviting. If you are taking the self-paced course, enter your own email address.
 
-1. In the **Select a role** dropdown, select **Developer**.
+1. In the **Select a role** dropdown, select **Developer**. If you are taking the self-paced course, select **Owner**. 
 
     > **Note:** See the [permissions and roles docs](https://docs.gitlab.com/ee/user/permissions.html) to learn more about each role level.
 

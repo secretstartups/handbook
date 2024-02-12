@@ -269,7 +269,9 @@ See the [following discussion thread](https://gitlab.com/gitlab-org/create-stage
 
 **TL;DR:**
 
-- **Async phase - Refinement: Divide up the work to refine each `rd-workflow::unprioritized` issue which has the `%"Next 1-3 releases"` milestone using the [Remote Development issue template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Remote%20Development%20Group%20-%20issue.md), then apply the `refined` label.**
+- **Async phase - Refinement:**
+  - **Engineering Manager: Assign someone to refine each unrefined `rd-workflow::unprioritized` issue which has the `%"Next 1-3 releases"` milestone using the [Remote Development issue template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Remote%20Development%20Group%20-%20issue.md)**
+  - **Refinement Assignees: Adequately refine the issue using the [Remote Development issue template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Remote%20Development%20Group%20-%20issue.md), then apply the `refined` label**
 - **Sync phase - Prioritization: Product and Engineering leaders meet to appropriately prioritize each `refined` issue into the `rd-workflow::prioritized` lane on the Iteration Planning board.**
 
 ##### Async Phase of Pre-IPM Process - Refinement
@@ -329,7 +331,7 @@ For a few reasons:
 
 **Process:**
 
-**TL;DR: Discuss and estimate each prioritized issue.**
+**TL;DR: _As a team_, briefly discuss then estimate each prioritized issue.**
 
 1. In each the IPM meeting, all newly prioritized issues in the `~"rd-workflow::prioritized"` lane of the [Iteration Planning](https://gitlab.com/groups/gitlab-org/-/boards/5283620?label_name[]=Category%3ARemote%20Development) board are reviewed by the team. The board should be unfiltered other than the standard `~"Category:Remote Development"` label.
 1. For each newly-prioritized issue, the facilitator reads the description, and the team **_briefly_** discusses the issue. If there are no blocking concerns/risks raised, the team collectively estimates the issue with rock-paper-scissors fibonacci scale, and the collectively agreed weight is assigned.
@@ -490,114 +492,32 @@ The IDE Group collates all video recordings related to the group and its team me
 
 ## Automations
 
-Automations should be set up via [triage-ops](https://gitlab.com/gitlab-org/quality/triage-ops/) if possible
-.
-### Automations for Remote Development Workflow
+Automations should be set up via [triage-ops](https://gitlab.com/gitlab-org/quality/triage-ops/) if possible.
 
-**NOTE: Some of the following automations related to iterations are currently blocked by https://gitlab.com/gitlab-org/gitlab/-/issues/384885.**
+Other more complex automations may be set up in the
+[Remote Development Team Automation project](https://gitlab.com/gitlab-org/remote-development/remote-development-team-automation).
+
+### Automations for Remote Development Workflow
 
 Ideally we should automate as much of the [Remote Development Planning Process](#-remote-development-planning-process) workflow as possible.
 
-We have the following automation goals for the Remote Development Workflow. Unless otherwise noted, these rules are all defined in the  [triage-ops `policies/groups/gitlab-org/ide/remote-development-workflow.yml` config file](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/groups/gitlab-org/ide/remote-development-workflow.yml))
+We have the following automation goals for the Remote Development Workflow. Unless otherwise noted, these rules are all defined in the  [triage-ops `policies/groups/gitlab-org/ide/remote-development-workflow.yml` config files](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/groups/gitlab-org/ide/remote-development))
 
----
-
-**Goal:** To ensure every issue in the category is assigned to an epic
-
-**Automation:**
-- Issues in ~"Category:Remote Development" but no epic assigned should get a warning comment (TODO: implement)
-
----
-
-**Goal:** To ensure category issues show up on the Iteration Planning board
-
-**Automation:**
-- [Issues in `~"Category:Remote Development"` but no `~rd-workflow` label should be added to `~rd-workflow::unprioritized`.](https://gitlab.com/gitlab-org/quality/triage-ops/-/blame/master/policies/groups/gitlab-org/ide/remote-development-workflow.yml#L4)
-
----
-
-**Goal:** To avoid premature assignment of specific milestones before an issue has gone through IPM, to avoid getting this warning: https://gitlab.com/gitlab-org/gitlab/-/issues/411933#note_1419147845
-
-**Automation:**
-- [Issues with a specific milestone but not in ~rd-workflow::prioritized should have the milestone automatically set back to `%"Next 1-3 releases"`.](https://gitlab.com/gitlab-org/quality/triage-ops/-/blame/master/policies/groups/gitlab-org/ide/remote-development-workflow.yml#L16)
-- [Issues with a specific milestone but no weight should have the milestone automatically set back to `%"Next 1-3 releases"`.](https://gitlab.com/gitlab-org/quality/triage-ops/-/blame/master/policies/groups/gitlab-org/ide/remote-development-workflow.yml#L29)
-- [Issues with a specific milestone but no iteration should have the milestone automatically set back to `%"Next 1-3 releases"`.](https://gitlab.com/gitlab-org/quality/triage-ops/-/blame/master/policies/groups/gitlab-org/ide/remote-development-workflow.yml#L41)
-
----
-
-**Goal:** To ensure prioritized issues are in the correct state
-
-**Automation:**
-- Issues in ~rd-workflow::prioritized but not assigned to the current Iteration of the Iteration Cadence should automatically get assigned to the Current Iteration (TODO: implement)
-
----
-
-**Goal:** To ensure closed issues are in the correct state
-
-**Automation:**
-- [Every Issue in `~"Category:Remote Development"` which is closed must have the `~rd-workflow::done` label applied.](https://gitlab.com/gitlab-org/quality/triage-ops/-/blame/master/policies/groups/gitlab-org/ide/remote-development-workflow.yml#L65)
-
----
-
-**Goal:** Syncing Remote Development workflow and GitLab workflow labels
-
-**Automation:**
-- [Issues in ~rd-workflow::unprioritized but with no GitLab workflow label should have ~"refined" assigned.](https://gitlab.com/gitlab-org/quality/triage-ops/-/blame/master/policies/groups/gitlab-org/ide/remote-development-workflow.yml#L77)
-- [Unstarted issues in ~rd-workflow::prioritized but with ~"refined" assigned should get ~"workflow::ready for development" assigned.](https://gitlab.com/gitlab-org/quality/triage-ops/-/blame/master/policies/groups/gitlab-org/ide/remote-development-workflow.yml#L53)
-- Can we assume that other subsequent workflow states are already handled by standard triage rules? If so, confirm and list/link them (TODO: implement)
-
----
-
-**Goal:** Ensure all prioritized issues have a milestone assigned
-
-**Automation:**
-- All issues with `~rd-workflow::prioritized` but no milestone should have `%"Next 1-3 releases"` milestone assigned. (TODO: implement)
-
----
-
-**Goal:** Ensure all issues with `~rd-workflow-unprioritized` have a milestone assigned
-
-**Automation:**
-- All issues with `~rd-workflow::unprioritized` but no milestone should have: (TODO: implement)
-  - `~needs-milestone` label applied
-  - along with a comment with a link to the [1. High level validation and planning section][#1-high-level-validation-and-planning], and instructions that
-    one of the following milestones must be assigned to all issues in `~rd-workflow::unprioritized`:
-   - `%"Next 1-3 releases"`
-   - `%"Next 4-6 releases"`
-   - `%"Next 7-12 releases"`
-   - `%Backlog`
-   - `%Awaiting further demand`
-
----
-
-**Goal:** Apply correct ~rd-workflow label to reopened issues
-
-**Automation:**
-- Re-opened issues which are open but in ~rd-workflow::done should have ~"rd-workflow::prioritized" assigned. (TODO: implement)
-- Example: https://gitlab.com/gitlab-org/gitlab/-/issues/390597#note_1
-
----
-
-**Goal:** To ensure issues and MRs are 1-1
-
-**Automation:**
-- Every MR in `~"Category:Remote Development"` must have the first line of the description matching: `Issue: <issue link>\n\n`. See https://docs.gitlab.com/ee/topics/gitlab_flow.html#linking-and-closing-issues-from-merge-requests  (TODO: implement)
-- Every Issue in ~"Category:Remote Development" must have the first line of the description matching: "MR: <MR link>\n\n" or "MR: No associated MR\n\n". See https://docs.gitlab.com/ee/topics/gitlab_flow.html#linking-and-closing-issues-from-merge-requests (TODO: implement)
-
----
-
-**Goal:** Automate Label Assignment for Ignored Issues
-
-**Automation:**
-- Issues with the `type::ignore` label should have the `rd-workflow::ignored` label assigned. (TODO: implement)
-- NOTE: We do not automatically ignore QA issues, in order to accommodate self-owned QA issues that should follow the standard process.
-
----
-
-**Goal:** Ensure all prioritized issues with an assignee have a weight assigned
-
-**Automation:**
-- All issues with `~rd-workflow::prioritized` and an assignee but no weight should get a reminder note to either add a weight estimate or remove the assignee. (TODO: implement)
+| ID | Goal | Automation | Link(s) to implementation |
+| --- | --- | --- | --- |
+| <a id="automation-01">01</a> | Ensure every issue in the category is assigned to an epic | Issues in `~"Category:Remote Development"` but no epic assigned should get a warning comment | TODO: implement |
+| <a id="automation-02">02</a> | Ensure category issues show up on the Iteration Planning board | Issues in `~"Category:Remote Development"` but no `~rd-workflow` label should be added to `~rd-workflow::unprioritized`. | [triage-ops link](https://gitlab.com/gitlab-org/quality/triage-ops/-/blame/master/policies/groups/gitlab-org/ide/remote_development/workflow-02.yml) |
+| <a id="automation-03">03</a> | Avoid premature assignment of specific milestones before an issue has gone through IPM, to avoid getting this warning: https://gitlab.com/gitlab-org/gitlab/-/issues/411933#note_1419147845 | 1. Issues with a specific milestone but not in `~rd-workflow::prioritized` should have the milestone automatically set back to `%"Next 1-3 releases"`. <br> 2. Issues with a specific milestone but no weight should have the milestone automatically set back to `%"Next 1-3 releases"`. <br> 3. Issues with a specific milestone but no iteration should have the milestone automatically set back to `%"Next 1-3 releases"`. | [triage-ops link](https://gitlab.com/gitlab-org/quality/triage-ops/-/blame/master/policies/groups/gitlab-org/ide/remote_development/workflow-03.yml) |
+| <a id="automation-04">04</a> | Ensure prioritized issues are in the correct state | Issues in `~rd-workflow::prioritized` but not assigned to the current Iteration of the Iteration Cadence should automatically get assigned to the Current Iteration | TODO: implement |
+| <a id="automation-05">05</a> | Ensure closed issues are in the correct state | Every Issue in `~"Category:Remote Development"` which is closed must have the `~rd-workflow::done` label applied. | [triage-ops link](https://gitlab.com/gitlab-org/quality/triage-ops/-/blame/master/policies/groups/gitlab-org/ide/remote_development/workflow-05.yml) |
+| <a id="automation-06">06</a> | Sync Remote Development workflow and GitLab workflow labels | 1. Issues in `~rd-workflow::unprioritized` but with no GitLab workflow label should have `~"refined"` assigned. <br> 2. Unstarted issues in `~rd-workflow::prioritized` but with `~"refined"` assigned should get `~"workflow::ready` for development" assigned. | [triage-ops link](https://gitlab.com/gitlab-org/quality/triage-ops/-/blame/master/policies/groups/gitlab-org/ide/remote_development/workflow-06.yml) |
+| <a id="automation-07">07</a> | Ensure all prioritized issues have a milestone assigned | All issues with `~rd-workflow::prioritized` but no milestone should have `%"Next 1-3 releases"` milestone assigned. | TODO: implement |
+| <a id="automation-08">08</a> | Ensure all issues with `~rd-workflow-unprioritized` have a milestone assigned | All issues with `~rd-workflow::unprioritized`, but no milestone, should have: <br> - `~needs-milestone` label applied <br> - along with a comment with a link to the [1. High level validation and planning section][#1-high-level-validation-and-planning], and instructions that one of the following milestones must be assigned to all issues in `~rd-workflow::unprioritized`: <br> - `%"Next 1-3 releases"` <br> - `%"Next 4-6 releases"` <br> - `%"Next 7-12 releases"` <br> - `%Backlog` <br> - `%Awaiting further demand` | TODO: implement |
+| <a id="automation-09">09</a> | Apply correct ~rd-workflow label to reopened issues | Re-opened issues which are open but in `~rd-workflow::done` should have `~"rd-workflow::prioritized"` assigned. | TODO: implement |
+| <a id="automation-10">10</a> | Ensure issues and MRs are 1-1 | - Every MR in `~"Category:Remote Development"` must have the first line of the description matching: `Issue: <issue link>\n\n`. See https://docs.gitlab.com/ee/topics/gitlab_flow.html#linking-and-closing-issues-from-merge-requests  <br> - Every Issue in `~"Category:Remote Development"` must have the first line of the description matching: `"MR: <MR link>"` or `"MR: Pending"`. See https://docs.gitlab.com/ee/topics/gitlab_flow.html#linking-and-closing-issues-from-merge-requests | TODO: implement |
+| <a id="automation-11">11</a> | Automate Label Assignment for Ignored Issues | Issues with the `type::ignore` label should have the `rd-workflow::ignored` label assigned. | TODO: implement |
+| <a id="automation-12">12</a> | Ensure all prioritized issues with an assignee have a weight assigned | All issues with `~rd-workflow::prioritized` and an assignee but no weight should get a reminder note to either add a weight estimate or remove the assignee. | TODO: implement |
+| <a id="automation-13">13</a> | Assign a `rd-maturity::*` label of `viable`, `complete`, etc based on epic hierarchy | All issues should have appropriate labels added/removed based on epic hierarchy | TODO: implement |
 
 
 <!-- LINKS START -->

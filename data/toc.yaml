@@ -85,7 +85,7 @@
   - name: Contribution Guide
     url: docs
   - name: Practical Handbook Edits
-    url: /handbook/practical-handbook-edits
+    url: /handbook/editing-handbook/practical-handbook-edits
   - name: Edit This Website Locally
     url: https://gitlab.com/gitlab-com/content-sites/handbook/-/tree/main
   - name: Handbook Style Guide
@@ -168,8 +168,6 @@
       url: /handbook/engineering/development/dev/
     - name: Fulfillment Sub-department
       url: /handbook/engineering/development/fulfillment/
-    - name: Growth Sub-department
-      url: /handbook/engineering/development/growth/
     - name: Ops Sub-department
       url: /handbook/engineering/development/ops/
     - name: Govern Sub-department
@@ -186,7 +184,7 @@
     - name: Test Platform
       url: /handbook/engineering/infrastructure/test-platform/
     - name: Engineering Productivity
-      url: https://handbook.gitlab.com/handbook/engineering/quality/engineering-productivity/
+      url: https://handbook.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/
     - name: Engineering Analytics
       url: /handbook/engineering/quality/engineering-analytics
   - name: Security Practices
@@ -197,8 +195,8 @@
   icon: fa-solid fa-shield-halved
   url: /handbook/security
   links:
-  - name: Security Engineering
-    url: /handbook/security/security-engineering/
+  - name: Product Security
+    url: /handbook/security/product-security/
   - name: Security Operations
     url: /handbook/security/security-operations/
   - name: Threat Management

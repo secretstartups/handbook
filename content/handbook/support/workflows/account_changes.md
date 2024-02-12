@@ -99,9 +99,9 @@ Enterprise users [cannot modify their primary email address to an email with a n
 
 Until [the issue 412966](https://gitlab.com/gitlab-org/gitlab/-/issues/412966) is implemented, top level group owners are not able to change their enterprise users primary email address. They can request support to change the primary email of one or more enterprise user(s).
 
-1. Check the [Account Verification Matrix for eligibility](/content/handbook/support/workflows/account_verification.md#account-verification-matrix).
+1. Check the [Account Verification Matrix for eligibility](/handbook/support/workflows/account_verification#account-verification-matrix).
 1. Ask manager approval to proceed
-1. Use the [Account Ownership Verification workflow](/content/handbook/support/workflows/account_verification.md) to verify ownership.
+1. Use the [Account Ownership Verification workflow](/handbook/support/workflows/account_verification) to verify ownership.
 1. If successful:
 
 > Greetings,
@@ -128,7 +128,7 @@ Enterprise users have user accounts that are administered by an organization tha
 >
 > If you still wish to update your primary email, address please note it will require involvement of a top level group owners. Please let us know if you wish to proceed.
 
-1. If they answer that they wish to procceed, use the [Account Ownership Verification workflow](/content/handbook/support/workflows/account_verification.md) to verify ownership.
+1. If they answer that they wish to procceed, use the [Account Ownership Verification workflow](/handbook/support/workflows/account_verification) to verify ownership.
 
 1. Ask manager approval to proceed if the primary email is the only verified email (skip this step if it's an email swap request).
 

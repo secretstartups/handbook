@@ -48,7 +48,7 @@ Here are some tips:
     - We create a milestone for each monthly GitLab release.
     - Consider also searching merge requests by milestone as well.  If you think something changed in a particular release, this will identify actual code changes in that release. The issue might be closed against a later milestone when the whole feature was finally delivered.
   - If you know which product area is responsible for a feature, filter on the `~group::` label.
-    - The [features by group page](../../product/categories/features) is good for finding out the correct group.
+    - The [features by group page](/handbook/product/categories/features) is good for finding out the correct group.
     - Alternatively, look at the labels used on related issues and MRs you may have found already.
 - Sort order: If you get a lot of results in the issue view, look at the options for sorting. For example: `Created date` might be more relevant if you suspect a recent regression in the product.
 - You are likely to spend some time searching for issues you've read before.

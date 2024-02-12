@@ -1,10 +1,7 @@
 ---
 title: "Security Operational Risk Management (StORM) Program & Procedures"
+controlled_document: true
 ---
-
-{{% alert title="This is a Controlled Document" color="danger" %}}
-Inline with GitLab's regulatory obligations, changes to [controlled documents]({{< ref "controlled-document-procedure" >}}) must be approved or merged by a code owner. All contributions are welcome and encouraged.
-{{% /alert %}}
 
 {{% panel header="**Not a GitLab team member but want to provide feedback on our StORM program?**" header-bg="primary" %}}
 We receive [feedback](/handbook/people-group/guidance-on-feedback/#feedback-at-gitlab) from GitLab team members regularly and we wanted to provide a mechanism for non-GitLab team members to provide feedback as well to help us [iterate](/handbook/values/#iteration) and align more closely with [our values](https://handbook.gitlab.com/handbook/values). If you are not a GitLab team member and would like to provide feedback on our Security Operational Risk Management (StORM) program or methodology, plese use this [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSfmD4G6CTdpbCe5Aymoz0oD6Z3Oi1X-2xxYzGNbJ2wcYh6uOA/viewform?usp=sf_link) to submit anonymous feedback.
@@ -109,9 +106,9 @@ Our risk appetite is translated to a tolerance which defines a range in which a 
 
 |Risk Averse|Risk Neutral|Risk Receptive|Risk Seeking|
 |:---------:|:---------:|:---------:|:---------:|
-|1-5|1-10|1-18|1-26|
+|1-5|1-10|1-15|1-20|
 
-Risk scores above 26 are considered too risky to be considered within tolerance for any risk appetite.
+Risk scores above 20 (High or Very High risk rating) are considered too risky to be considered within tolerance for any risk appetite. In other words, risks that are rated High and Very High will never be monitored, but must be accepted.
 
 #### Historical and Current Record of GitLab's Security Risk Appetite
 
@@ -316,9 +313,11 @@ Once the Inherent and Residual risk score is determined, the following table can
 
 |Risk Rating|Risk Score Range|
 |:---------:|:--------------:|
-|Low|1-10|
-|Medium|11-20|
-|High|21-30|
+|Very Low|0-5|
+|Low|5-10|
+|Moderate|10-20|
+|High|20-25|
+|Very High|25-30|
 
 These ratings represent labels for communication purposes rather than what is or is not acceptable. To determine what is an acceptable risk, please refer to [risk tolerances](#translating-gitlabs-security-risk-appetite-to-risk-tolerance).
 
@@ -387,9 +386,9 @@ In the cases where a risk owner has opted to pursue a risk acceptance, the follo
 
 |Risk Level|Approval Level Required|
 |-----|-----|
-|HIGH|Risk Owner + Director/VP Level Approval* + E-group Level Approval|
-|MODERATE|Risk Owner + Director/VP Level Approval*|
-`*` If the Risk Owner is a Director/VP, no additional Director/VP level approval is required
+|VERY HIGH|Risk Owner + VP Level Approval* + E-group Level Approval|
+|HIGH/MODERATE|Risk Owner + VP Level Approval*|
+`*` If the Risk Owner is a VP, no additional VP level approval is required
 
 By accepting the risk, the Risk Owner and risk acceptance approvers (if separate from Risk Owner), agree to reassess the risk on an annual basis to determine whether risk acceptance is the best response option for the respective risk. If risk acceptance is appropriate based on the annual assessment, approvals will be re-obtained based on the risk and approval requirements noted in the table above. Additionally, the Risk Owner will be on point for remediation in the event the risk is realized or risk acceptance is no longer appropriate.
 

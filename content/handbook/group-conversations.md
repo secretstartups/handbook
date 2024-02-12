@@ -52,7 +52,7 @@ Questions will generally be directed to the Host, and they will usually answer t
 Complete this process within 7 days after the Key Review to host a Group Conversation.
 
 1. Add your [presentation](#presentation) in the [Group Conversation Google Drive shared folder](https://drive.google.com/drive/folders/1Om1i9qrn1cZwxl7xRasV2mvrf91oyNOC).
-1. Use [the template in the Group Conversation Agenda Document](https://docs.google.com/document/d/1yBZnT5KCz1iprjpsY2L-aakycji3c9aTT74Yf6O4CQI/edit#heading=h.2s022nex56ox) to create a new section for your Group Conversation. Ensure to:
+1. Use [the template in the Group Conversation Agenda Document](https://docs.google.com/document/d/1yBZnT5KCz1iprjpsY2L-aakycji3c9aTT74Yf6O4CQI/edit#heading=h.2s022nex56ox) ([not public](https://handbook.gitlab.com/handbook/communication/confidentiality-levels/#not-public)) to create a new section for your Group Conversation. Ensure to:
    1. Fill in your group's name, and the date you're posting the announcement.
    1. The host's name as DRI.
    1. Link of the Google Slides presentation (with edit or comment access to everyone at GitLab). See the [presentation section](#presentation) for details.
@@ -70,7 +70,7 @@ Complete this process within 7 days after the Key Review to host a Group Convers
 ```text
 The <team> group conversation is ready!
 
-Please see [the agenda](https://docs.google.com/document/d/1yBZnT5KCz1iprjpsY2L-aakycji3c9aTT74Yf6O4CQI/edit) for links to the slide deck, which includes what we’ve recently completed and what we’re currently working on. Any questions for the team, related to the slides or not, are most welcome. I will be answering them in 3 working days.
+Please see [the agenda](https://docs.google.com/document/d/1yBZnT5KCz1iprjpsY2L-aakycji3c9aTT74Yf6O4CQI/edit) ([not public](https://handbook.gitlab.com/handbook/communication/confidentiality-levels/#not-public)) for links to the slide deck, which includes what we’ve recently completed and what we’re currently working on. Any questions for the team, related to the slides or not, are most welcome. I will be answering them in 3 working days.
 ```
 
 ### Presentation
@@ -156,6 +156,27 @@ If your Group Conversation is optional and you need to move the date, please wor
 | Wednesday 2024-01-24 | Infrastructure & Quality | Mek Stittri | January 16 |
 | Wednesday 2024-01-31 | IT | Nabitha Rao | January 23 |
 | Thursday 2024-02-01 | Development | Tim Zallmann | January 24 |
+| Thursday 2024-02-22 | IT | Nabitha Rao | February 14 |
+| Wednesday 2024-02-28 | Product | Product Leadership | - |
+| Monday 2024-03-18 | People | Wendy Barnes | - |
+| Monday 2024-03-18 | Finance | Brian Robins | - |
+| Wednesday 2024-04-24 | Data | Amie Bright | April 18 |
+| Wednesday 2024-05-22 | IT | Nabitha Rao | May 15 |
+| Tuesday 2024-05-28 | Product | Product Leadership | - |
+| Wednesday 2024-06-12 | Finance | Brian Robins | - |
+| Monday 2024-06-17 | People | Wendy Barnes | - |
+| Thursday 2024-07-25 | Data | Amie Bright | July 18 |
+| Thursday 2024-08-22 | IT | Nabitha Rao | August 14 |
+| Wednesday 2024-08-28 | Product | Product Leadership | - |
+| Thursday 2024-08-29 | Finance | Brian Robins | - |
+| Thursday 2024-09-12 | People | Wendy Barnes | - |
+| Thursday 2024-10-24 | Data | Amie Bright | October 17 |
+| Thursday 2024-11-21 | IT | Nabitha Rao | November 14 |
+| Tuesday 2024-11-26 | Finance | Brian Robins | - |
+| Thursday 2024-11-28 | Product | Product Leadership | - |
+| Wednesday 2024-12-11 | People | Wendy Barnes | - |
+| Thursday 2025-01-30 | Data | Amie Bright | January 23 |
+
 
 ## Examples of Past Group Conversations
 

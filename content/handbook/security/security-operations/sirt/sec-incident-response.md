@@ -2,11 +2,8 @@
 title: "Security Incident Response Guide"
 description: " "
 weight: 20
+controlled_document: true
 ---
-
-{{% alert title="This is a Controlled Document" color="danger" %}}
-Inline with GitLab's regulatory obligations, changes to [controlled documents]({{< ref "controlled-document-procedure" >}}) must be approved or merged by a code owner. All contributions are welcome and encouraged.
-{{% /alert %}}
 
 ## Purpose
 
@@ -24,7 +21,7 @@ Incident indicators can be reported to SIRT either internally, by a GitLab team 
 
 The GitLab Security team identifies security incidents as any violation, or threat of violation, of GitLab security, acceptable use or other relevant policies.
 
-SIRT will follow processes in the [Material Breach Determination internal handbook page](https://internal.gitlab.com/handbook/security/security_operations/sirt/operations/incident_response/material_breach_determination/) for any security incidents that individually, or in aggregate may be a material breach, including 3rd party breaches that may have a material impact to GitLab. Incidents that have the potential to be material will be treated as MNPI.
+SIRT will follow processes in the [Material Breach Determination internal handbook page](https://internal.gitlab.com/handbook/security/security_operations/sirt/operations/incident_response/material_breach_guidance/material_breach_determination/) for any security incidents that individually, or in aggregate may be a material breach, including 3rd party breaches that may have a material impact to GitLab. Incidents that have the potential to be material will be treated as MNPI.
 
 ## Roles & Responsibilities
 

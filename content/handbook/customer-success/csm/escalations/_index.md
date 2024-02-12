@@ -194,7 +194,7 @@ The `#escalated_customers` channel is for awareness only and is not intended to 
 ### Managing the Escalation:
 
 - DRI owns the functions as outlined here
-- If an escalation status significantly changes, alert in the customer escalation slack channel and ping all DRIs involved in escalation  
+- If an escalation status significantly changes, alert in the `#escalated_customers` slack channel and ping all DRIs involved in escalation, as well as post in the temporary customer slack channel
 - Escalation document kept updated with minimum daily updates
 - The escalation progress should also be communicated to the customer on a regular basis like 3 times per week or more often depending on the situation. (Set up a calender reminder for yourself to make it easier)
 - **Daily Slack updates are posted to the designated customer escalation channel (see escalation doc for format)**

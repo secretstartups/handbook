@@ -51,7 +51,7 @@ More information related to payroll processes can be found on the [Payroll handb
 
 ### GitLab Entities and Branches
 
-Note: In countries with a star (*) hiring is limited to only certain roles, more detail can be found in our internal [compensation calculator](https://comp-calculator.gitlab.net/users/sign_in) under Country Hiring Status.
+Note: In countries with a star (*) hiring is limited to only certain roles, more detail can be found in our internal compensation calculator under [Country Hiring Status](https://comp-calculator.gitlab.net/hiring_status/index), found in the top right menu.
 
 
 | Country                       | Team Member Type(s)               | Entity                                                 | Pay Frequency | Paid By             | Workday Profile (Y/N) |
