@@ -24,7 +24,6 @@ To see what training is coming soon, view the [Field Enablement Spotlight issue 
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|
-| Feb 1 | Tools to Help You Win: ZoomInfo Overview | ZoomInfo Team |
 | Feb 8 | Tools to Help You Win: SafeBase | Field Security |
 | Feb 15 | FY 25 Deal Approval Matrix Changes | Deal Desk  |
 | Feb 22 | FY25-Q1 - Product Marketing Update | Marketing  |
@@ -47,6 +46,7 @@ To see what training is coming soon, view the [Field Enablement Spotlight issue 
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2024-02-01 | **[Tools to Help You Win: ZoomInfo Overview](https://drive.google.com/file/d/1c2iyOWA6RFfNfZeCxEbfaWEI6fs3lp47/view?usp=drive_link)** | Private |
 | 2023-12-14 | **[Code Suggestions GTM Launch Overview](https://drive.google.com/file/d/1NRqKjVdznClZNT2mFqdP7aYHkmSyfyCA/view?usp=drive_link)** | Private |
 | 2023-11-30 | **[Winning with Professional Services: Customer Stories](https://drive.google.com/file/d/1LkNyGpygFHpVY_b-6_nkY3m109lNqmb9/view?usp=drive_link)** | Private |
 | 2023-11-16 | **[FY24-Q4 Competitive Update](https://drive.google.com/file/d/12DsBAI4vC9mwc8_SrJuixNERL1_JKbzu/view?usp=drive_link)**  | Private |
