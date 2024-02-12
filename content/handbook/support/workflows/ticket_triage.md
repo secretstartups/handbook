@@ -14,7 +14,7 @@ This page aims to walk you through some basic checks and items to tick off when 
 
 ## Overview
 
-In previous years, triage of tickets was done in the `Needs Org` queue and required Support Engineers to ensure that tickets were assigned to their organizations with proof of entitlement. Currently, all submitted tickets should have an organization or belong to a free user. Tickets from users that are not listed contacts, will automatically be rejected and closed with [instructions on how to become a contact for their organization](https://about.gitlab.com/support/managing-support-contacts/). However, customers may still submit tickets under the wrong forms, so having accurate information helps with reporting and getting the tickets to the right people.
+In previous years, triage of tickets was done in the `Needs Org` queue and required Support Engineers to ensure that tickets were assigned to their organizations with proof of entitlement. Currently, all submitted tickets should have an organization or belong to a free user. Tickets from users who are not listed contacts will automatically be rejected and closed with [instructions on how to become a contact for their organization](https://about.gitlab.com/support/managing-support-contacts/). However, customers may still submit tickets under the wrong forms, so having accurate information helps with reporting and getting the tickets to the right people.
 
 ## Overall Flow
 
