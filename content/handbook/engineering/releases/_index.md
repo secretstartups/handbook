@@ -285,7 +285,8 @@ If you need any additional help please ask the Release Managers in the [#release
 [GitLab Security]: https://gitlab.com/gitlab-org/security/
 [security issue template]: https://gitlab.com/gitlab-org/security/gitlab/issues/new?issuable_template=Security+developer+workflow
 [security release backports]: https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/developer.md#backports
-[Hot patch]: https://gitlab.com/gitlab-org/release/docs/blob/master/general/deploy/post-deployment-patches.md[pre.gitlab.com]: /handbook/engineering/infrastructure/environments/#pre
+[Hot patch]: https://gitlab.com/gitlab-org/release/docs/blob/master/general/deploy/post-deployment-patches.md
+[pre.gitlab.com]: /handbook/engineering/infrastructure/environments/#pre
 [release.gitlab.net]: /handbook/engineering/infrastructure/environments/#release
 [How to fix a broken stable branch]: https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/how-to-fix-broken-stable-branch.md
 [post-deploy migrations]: https://docs.gitlab.com/ee/development/database/post_deployment_migrations.html
