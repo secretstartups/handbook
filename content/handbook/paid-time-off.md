@@ -111,7 +111,7 @@ Communicate broadly when you will be away so other people can manage time effici
         - > Hello team, I am out of the office for the next several days. Please double check the pending tasks on our team's Google Doc for any upcoming deadlines.
 1. Please see the [On-Call](/handbook/on-call/) page for information on how to handle scheduled leave for someone from the On-Call team.
 1. If you are a people manager, please complete the following:
-    - BambooHR: submit a job information request to move direct reports to the interim manager if you will be out of office for more than 25 calendar days.
+    - Workday: set up a [delegate](https://docs.google.com/document/d/1BDME_47-mif1ZihO5Id-wejbjAU_-PLIr1dJ46z1F_c/edit) in Workday to be able to approve transactions on your behalf while you are away
     - Navan Expense: delegate expense approval to your back-up team member by following these steps:
         - Navan Expense
         - Settings
