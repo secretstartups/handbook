@@ -719,7 +719,7 @@ Partner Influence Registration should only be submitted and approved for:
 1. a partner that did not source and/or transact the opportunity
 2. one partner (i.e., one approved Influence Registration/Partner per opportunity). Only the first approved record will qualify if multiple influence registrations are submitted and/or approved for one opportunity.
 
-The GitLab ASM has two business days to either approve or reject the Influence Registration, which begins when the Registration hits their queue for approval. The ASM must communicate with the GitLab Partner Manager if their approval is anticipated to push beyond the two business day SLA.
+The GitLab ASM has one business day to either approve or reject the Influence Registration, which begins when the Registration hits their queue for approval. The ASM must communicate with the GitLab Partner Manager if their approval is anticipated to push beyond the one business day SLA.
 
 Follow the steps below to register partner influence on an opportunity:
 
