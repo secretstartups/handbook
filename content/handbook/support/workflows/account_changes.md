@@ -181,7 +181,7 @@ Account Ownership Change Requests are initiated when the sole Owner of a group l
 
 **If no self-service options are viable, follow the steps below:**
 
-1. Use the `Support::SaaS::Account Ownership Change Request (Self-Service Not Possible)` [macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360073396100), adding the account owner or account manager in CC if possible.
+1. Use the `Support::SaaS::Gitlab.com::Account Ownership Change Request (Self-Service Not Possible)` [macro](https://gitlab.com/gitlab-com/support/zendesk-global/macros/-/blob/master/active/Support/SaaS/GitLab.com/Account%20Ownership%20Change%20Request%20(Self-Service%20Not%20Possible).md?ref_type=heads), adding the account owner or account manager in CC if possible.
 1. Once you have received the requested document, verify that all of the necessary information is included. If not, follow up with the requestor to obtain any outstanding information. Once the required information has been obtained, carefully follow the next steps.
 1. Assess the request to verify if the following criteria have been met:
    1. Self-service options have been suggested and aren’t viable.
