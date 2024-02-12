@@ -1243,7 +1243,7 @@ If an End of Support milestone is announced, it will be displayed under the titl
 If you decide to declare an End of Support period:
 
 - Check for any [Support Stable Counterpart](/handbook/support/support-stable-counterparts.html) (also listed on the [product categories page](/handbook/product/categories/)) for your development group and tag them in the MR that adds a value to the `end_of_support_milestone`.
-- If your group does not have a Support Stable Counterpart, look for a stage or section Support Counterpart. If none, please post in the `#spt_managers` Slack channel with a link to the readiness issue (next line).
+- If your group does not have a Support Stable Counterpart, look for a stage or section Support Counterpart. If none, please post in the `#support_leadership` Slack channel with a link to the readiness issue (next line).
 - Please also open a Support Readiness issue [following the Support communications guidance](/handbook/support/internal-support/#contacting-users-about-gitlab-incidents-or-changes).
 
 #### Editing an announcement entry

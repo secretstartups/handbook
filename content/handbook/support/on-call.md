@@ -195,7 +195,7 @@ To see who the current manager on-call is you can:
     - [Support Manager - APAC](https://gitlab.pagerduty.com/schedules/PWBXTYX)
     - [Support Manager - EMEA](https://gitlab.pagerduty.com/schedules/PXQ2ZAZ)
 - In the `#spt-gg-forest` slack channel, the regional bot message lists who is on-call for the different schedules today
-- Ask in `#spt_managers` (where you may or may not be referred to the above steps!)
+- Ask in `#support_leadership` (where you may or may not be referred to the above steps!)
 
 ### Paging the next on-call engineer
 
