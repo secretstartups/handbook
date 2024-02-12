@@ -1,5 +1,6 @@
 ---
 title: Govern Stage
+layout: single
 ---
 
 The Govern engineering groups are responsible for the [Govern Stage](/handbook/product/categories/#govern-stage) of the product.

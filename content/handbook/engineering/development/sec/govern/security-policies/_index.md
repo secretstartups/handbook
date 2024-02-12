@@ -1,6 +1,7 @@
 ---
 title: Govern, Security Policies
 description: "The Security Policies group at GitLab is charged with developing solutions to apply policies to enforce scans and to require security approvals when vulnerabilities are found."
+layout: single
 ---
 
 ## Security Policies
