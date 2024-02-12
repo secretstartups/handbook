@@ -6,7 +6,7 @@ description: "Overview of the Global Digital SMB Sales Model"
 
 ## Global Digital SMB Sales Model
 
-(FY25 Global Digital SMB All-Hands Deck)[https://docs.google.com/presentation/d/1NIznURPvchLXw22X7JMlaAhKcwoiMUCQhIG2TpTGFUw/edit#slide=id.g2b17593787a_0_275]
+[FY25 Global Digital SMB All-Hands Deck](https://docs.google.com/presentation/d/1NIznURPvchLXw22X7JMlaAhKcwoiMUCQhIG2TpTGFUw/edit#slide=id.g2b17593787a_0_275)
 
 All members of the Sales, Support, Billing and Deal Desk teams should familiarize themselves with the Global Digital SMB Model.
 The model leverages team-level account alignment so SMB customers have a team of SMB Advocates to assist them. Every SMB Advocate on the team is equipped to work with any SMB customer as the sales point of contact.
@@ -43,7 +43,7 @@ The criteria that determines whether an SMB account is a Tier 1 account or not, 
 | 2    | cARR < $7k AND (cARR > $1k OR (cARR < $1k AND LAM > 10)) | Yes           | No               | No                                          | Yes                               | Yes                                  | Yes                           | Yes                   |
 | 3    | cARR < $1k AND LAM < 10                                  | Yes           | No               | No                                          | Yes                               | No                                   | No                            | Yes                   |
 
-(FY25 SMB Account Tiering)[https://docs.google.com/spreadsheets/d/18xFnbi4xuHJGqcKDWf9HDdd0iS7YZNt4n4QC33qK67E/edit#gid=0]
+[FY25 SMB Account Tiering](https://docs.google.com/spreadsheets/d/18xFnbi4xuHJGqcKDWf9HDdd0iS7YZNt4n4QC33qK67E/edit#gid=0)
 
 ## Engaging with Global Digital SMB Accounts
 
@@ -98,7 +98,7 @@ High Value - These are only created for the highest spending accounts in the seg
 
 The case logic, context behind the case, and CTA can be viewed on the Case Trigger overview sheet. 
 
-(FY25 SMB Case Triggers)[https://docs.google.com/spreadsheets/d/1ihpt5WDpoJmDWa5gA0eXvBJOgFOJgL1J_QxsBuDDowc/edit#gid=1223186811]
+[FY25 SMB Case Triggers](https://docs.google.com/spreadsheets/d/1ihpt5WDpoJmDWa5gA0eXvBJOgFOJgL1J_QxsBuDDowc/edit#gid=1223186811)
 
 
 The case logic, context behind the case, and CTA can be viewed on the Case Trigger overview sheet. 
@@ -125,7 +125,7 @@ If a GitLab team member needs to loop in the Advocate team on a customer Account
 
 ### SMB Advocate Case Workflow
 
-(FY25: SMB Advocate Enablement)[https://docs.google.com/presentation/d/1IWgcHXbFN5UVNHCWXtF1fKj_9k5h5KlQGClY-2RbqUE/edit#slide=id.g12b319f6181_0_5]
+[FY25: SMB Advocate Enablement](https://docs.google.com/presentation/d/1IWgcHXbFN5UVNHCWXtF1fKj_9k5h5KlQGClY-2RbqUE/edit#slide=id.g12b319f6181_0_5)
 
 - If a SMB Advocate has capacity, they will click on an open case in the AMER or EMEA SMB Sales Team Queue and assign it to themselves, by changing the Case Owner.
 - High Priority cases should always be picked up first.
@@ -148,7 +148,7 @@ If a GitLab team member needs to loop in the Advocate team on a customer Account
 
 The Required 10 acts a to do list which should be followed by all Advocates when picking up and working cases. 
 
-(FY25: SMB Required 10)[https://docs.google.com/spreadsheets/d/1yhRsbS0K9s1Un9puBFF51nE0oT040558QQfad2yL_4c/edit#gid=0]
+[FY25: SMB Required 10](https://docs.google.com/spreadsheets/d/1yhRsbS0K9s1Un9puBFF51nE0oT040558QQfad2yL_4c/edit#gid=0)
 
 ### Picking Up
 
@@ -223,7 +223,7 @@ Before creating a case, the SDR should convert the lead to a contact, under the 
 When creating the case, this newly created Contact should be added to the Case. 
 The below SDR Handover Process steps, and Handover Criteria, detailed below should also be followed by both the SDR and Advocate.
 
-(FY25 SDR Handover Process)[https://docs.google.com/spreadsheets/d/18tGE_dpbx7nLu2S6bzD3WkLrHM3IrDv72WWJMgDDi64/edit#gid=0]
+[FY25 SDR Handover Process](https://docs.google.com/spreadsheets/d/18tGE_dpbx7nLu2S6bzD3WkLrHM3IrDv72WWJMgDDi64/edit#gid=0)
 
 ### Expansion Opportunities
 If an opportunity is uncovered whilst working an Expansion Opportunity case, a new Growth/ Add On opp should be created, and linked to the case via the Opportunity lookup field.
@@ -233,7 +233,7 @@ If the customer is looking to upgrade to Ultimate/ add users at the time of rene
 In order to standardize outreach, and increase the efficiency in which Advocates can engage with cases.  We have pre-set email templates that can be used, based on which Case trigger you are engaging with. 
 The email templates, and which Case Trigger they are relevant to, are listed in the below doc (as well as on the Case Trigger overview sheet). 
 
-(SMB Email Templates)[https://docs.google.com/document/d/1eQgdVObeQe5_xMdBeAKiWOzIaWZstWInodScm2Lm924/edit#heading=h.qzkw31beo6xk]
+[SMB Email Templates](https://docs.google.com/document/d/1eQgdVObeQe5_xMdBeAKiWOzIaWZstWInodScm2Lm924/edit#heading=h.qzkw31beo6xk)
 
 ## Case Hygiene 
 
@@ -280,11 +280,11 @@ Due to the high case volume, it is imperative that the Required 10 is followed, 
 
 ## Dashboards & Reports
 
-- (SMB AMER Case Queue)[https://gitlab.lightning.force.com/lightning/r/Report/00OPL000000LaDN2A0/view?queryScope=userFolders]
-- (SMB EMEA Case Queue)[https://gitlab.lightning.force.com/one/one.app#/sObject/00OPL000000LaRt2AK/view]
-- (SMB AMER Team Dash)[https://gitlab.lightning.force.com/lightning/r/Dashboard/01ZPL000000UbBp2AK/view?queryScope=userFolders]
-- (SMB EMEA Dash)[https://gitlab.lightning.force.com/lightning/r/Dashboard/01ZPL000000WJU92AO/view?queryScope=userFolders]
-- (SMB Advocate Dash)[https://gitlab.lightning.force.com/lightning/r/sObject/01ZPL000000VuM52AK/view?queryScope=userFolders]
+- [SMB AMER Case Queue](https://gitlab.lightning.force.com/lightning/r/Report/00OPL000000LaDN2A0/view?queryScope=userFolders)
+- [SMB EMEA Case Queue](https://gitlab.lightning.force.com/one/one.app#/sObject/00OPL000000LaRt2AK/view)
+- [SMB AMER Team Dash](https://gitlab.lightning.force.com/lightning/r/Dashboard/01ZPL000000UbBp2AK/view?queryScope=userFolders)
+- [SMB EMEA Dash](https://gitlab.lightning.force.com/lightning/r/Dashboard/01ZPL000000WJU92AO/view?queryScope=userFolders)
+- [SMB Advocate Dash](https://gitlab.lightning.force.com/lightning/r/sObject/01ZPL000000VuM52AK/view?queryScope=userFolders)
 
 
 ## FAQ
@@ -314,9 +314,9 @@ Due to the high case volume, it is imperative that the Required 10 is followed, 
 - Q. If I am working a case, and the customer advises they are looking to expand but not for 6 months, should I close out the case?
 - A. No, update the Next Steps stating that the customer is open to conversation in 6 months.  Also change the Next Steps Date to 6 month from todays date.  Finally set to Case Owner to your territories SMB Sales User (AMER or EMEA). The case will subsequently drop back into the queue in 6 months times. 
 - Q. I am an AE not in the SMB Org, and a former customer has reached out to me.  This customer is now owned by an SMB Sales User.  How do I hand this customer over to the SMB Sales Team?
-- A. Follow this (process)[https://docs.google.com/document/d/1Bc9N0Cvc65NjWHSVoliUp6injZNlbkjEEEZ0dYQm_Ck/edit#heading=h.wmdr1tkj670j].  
+- A. Follow this [process](https://docs.google.com/document/d/1Bc9N0Cvc65NjWHSVoliUp6injZNlbkjEEEZ0dYQm_Ck/edit#heading=h.wmdr1tkj670j). 
 - Q. I just closed won on opp for a SMB Customer, which took them above the $30k CARR threshold.  How do I hand this over to MM?
-- A. See this (doc)[https://docs.google.com/document/d/1dIJwPRo3rQnE1e4LBG-lT4ZvJ3nXzMuKwP8mF54jACo/edit]. 
+- A. See this [doc](https://docs.google.com/document/d/1dIJwPRo3rQnE1e4LBG-lT4ZvJ3nXzMuKwP8mF54jACo/edit). 
 - Q. If I pick up a case, and the customer is interested in speaking in 6 months, do I keep the case open, or close it out?
 - A. In this scenario, the case should be put back in the queue, and become available to be picked up again in 6 months time.  To do this;
   - Update the Next Steps on the case, as per your conversation with the customer.
@@ -346,22 +346,22 @@ Chatter Sales Support, advising that the account in question may need to be re r
 
 #### First Order
 
-- (Propensity to Purchase - Deck)[https://gitlab.highspot.com/items/6565e315ec1191ac7d8a26c0]
-- (Propensity to Purchase - Training)[https://gitlab.highspot.com/items/65046a91a7f7915154f1ba95]
-- (Doing a great discovery call)[https://gitlab.highspot.com/items/65365f760c1cf20725653853]
+- [Propensity to Purchase - Deck](https://gitlab.highspot.com/items/6565e315ec1191ac7d8a26c0)
+- [Propensity to Purchase - Training](https://gitlab.highspot.com/items/65046a91a7f7915154f1ba95)
+- [Doing a great discovery call](https://gitlab.highspot.com/items/65365f760c1cf20725653853)
 
 #### Expansion/Upgrade
 
-- (Propensity to Expand)[https://gitlab.highspot.com/items/6565e314ec1191ac7d8a26b4#1]
-- (PTE & PTC Scores Walkthrough Video)[https://gitlab.highspot.com/items/65365570bdabc0e8c24015b2]
-- (Creating a great Ultimate Pitch - INTERNAL ONLY)[https://gitlab.highspot.com/items/65365dced498b9134400a185]
+- [Propensity to Expand](https://gitlab.highspot.com/items/6565e314ec1191ac7d8a26b4#1)
+- [PTE & PTC Scores Walkthrough Video](https://gitlab.highspot.com/items/65365570bdabc0e8c24015b2)
+- [Creating a great Ultimate Pitch - INTERNAL ONLY](https://gitlab.highspot.com/items/65365dced498b9134400a185)
 
 #### Churn/Contraction Mitigation
-- (Propensity to Contract/Churn)[https://gitlab.highspot.com/items/6565e314ec1191ac7d8a26b4#1]
-- (PTE & PTC Scores Walkthrough Video)[https://gitlab.highspot.com/items/65365570bdabc0e8c24015b2]
+- [Propensity to Contract/Churn](https://gitlab.highspot.com/items/6565e314ec1191ac7d8a26b4#1)
+- [PTE & PTC Scores Walkthrough Video](https://gitlab.highspot.com/items/65365570bdabc0e8c24015b2)
 
 #### Renewal and TRX Support
-- (Overview of Renewals at GitLab (internal handbook, log in via SSO))[https://internal.gitlab.com/handbook/sales/go-to-market/renewals/]
+- [Overview of Renewals at GitLab (internal handbook, log in via SSO)](https://internal.gitlab.com/handbook/sales/go-to-market/renewals/)
 
 
 
