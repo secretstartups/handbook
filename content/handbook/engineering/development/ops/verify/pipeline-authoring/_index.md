@@ -283,13 +283,14 @@ Expectations for DRIs when providing updates for work in progress:
 - Ideally updates are made at a logical part of a DRI's workflow to minimize disruption, and not necessarily at the same time/day each week
   - Generally when there is a logical time to leave an update, such as a _change in issue health status_, that is the best time to do so
   - Can be used to present some technical findings or information relevant to other stakeholders
+
 #### Issues in `workflow::design`
 
 The [product development workflow labels](/handbook/product-development-flow/#workflow-summary) are the SSOT for the status of the issue as it relates to the product development workflow.
 
 Issues going through the validation track should have the appropriate workflow label and a milestone assigned so they show up in the `workflow::design` column of the Pipeline Authoring issue board.
 
-As an issue is labeled `workflow::design`, we change the title to `Design: [Issue title]` to make the issues in `workflow::design` easier to differentiate from Frontend and Backend implementation issues which are titled `Frontend: [Issue title]` or `Backend: [Issue title]` respectively.
+As an issue is labeled `workflow::design`, we change the title to `Design: [Issue title]` to make the issues in `workflow::design` easier to differentiate from Frontend and Backend implementation issues which are titled `Frontend: [Issue title]` or `Backend: [Issue title]` respectively. By default, a `Design: [Issue title]` issue will become a `Frontend: [Issue title]` and if multiple Frontend issues are required, the `Design: [Issue title]` will either be promoted to an epic or gets closed.
 
 Once the team has created a shared understanding about the problem and the solution, and there's no obvious outstanding questions about the next steps, the Product Manager moves the issue into `workflow::planning breakdown`. We should avoid moving issues into implementation prematurely to ensure that the design discussions happen during `workflow::design` and not during the implementation as much as possible.
 
