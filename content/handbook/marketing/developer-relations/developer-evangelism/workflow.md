@@ -97,7 +97,7 @@ The following quick actions example updates a content epic from FY24Q3 to FY24Q4
 
 ### Subscribing to epic updates
 
-To get notifications, you can [subscribe to epic labels](https://docs.gitlab.com/ee/user/project/labels.html#receive-notifications-when-a-label-is-used). 
+To get notifications, you can [subscribe to epic labels](https://docs.gitlab.com/ee/user/project/labels.html#receive-notifications-when-a-label-is-used) starting with the ["DevRel" prefix](https://gitlab.com/groups/gitlab-com/-/labels?subscribed=&search=devrel).
 
 Please follow the [content library resources](/handbook/marketing/developer-relations/developer-evangelism/content/) for general content updates. 
 
