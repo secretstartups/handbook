@@ -1,6 +1,6 @@
 ---
 
-title: "Developer Evangelism on Social Media"
+title: "Developer Advocacy on Social Media"
 ---
 
 
@@ -11,7 +11,7 @@ title: "Developer Evangelism on Social Media"
 
 ## Introduction
 
-Developer Evangelism builds out their thought leadership through social media and community engagement. The tips and strategies shared here can be used by team members and the wider community to help build their own profile as an evangelist.
+Developer Advocacy builds out their thought leadership through social media and community engagement. The tips and strategies shared here can be used by team members and the wider community to help build their own profile as an evangelist.
 
 Topics:
 
@@ -23,7 +23,7 @@ Topics:
 
 ### UTM Tracking
 
-Developer Evangelists at GitLab are encouraged to add [UTMs for URL tagging and tracking](/handbook/marketing/developer-relations/developer-evangelism/#utms-for-url-tagging-and-tracking) to provide analytics and insights on how well content shares are performing. This method helps to verify [KPI metrics](/handbook/marketing/developer-relations/developer-evangelism/metrics/).
+Developer Advocates at GitLab are encouraged to add [UTMs for URL tagging and tracking](/handbook/marketing/developer-relations/developer-evangelism/#utms-for-url-tagging-and-tracking) to provide analytics and insights on how well content shares are performing. This method helps to verify [KPI metrics](/handbook/marketing/developer-relations/developer-evangelism/metrics/).
 
 ## Target Platforms
 
@@ -112,7 +112,7 @@ LinkedIn provides the [Creator Mode](https://www.linkedin.com/help/linkedin/answ
 - Possibility to [add a URL to your profile introduction](https://www.linkedin.com/help/linkedin/answer/a727760) to drive traffic there.
 - [Creator Analytics](https://www.linkedin.com/help/linkedin/answer/a701208)
   - Impressions, engagements, profile view metrics are displayed on the LinkedIn profile.
-  - Required for thought leadership strategy metrics in Developer Evangelism.
+  - Required for thought leadership strategy metrics in Developer Advocacy.
 
 Example profile from [Michael Friedrich](https://www.linkedin.com/in/dnsmichi/) with Creator Mode enabled:
 
@@ -325,15 +325,15 @@ The [August 2022 issue of Michael's opsindev.news newsletter](https://opsindev.n
 The [product kick-off](https://about.gitlab.com/direction/kickoff/) provides insights into planned features. As we plan ambitiously, there is no guarantee that everything gets released as planned. Therefore release evangelism campaigns need to happen short notice around the [release date](/handbook/engineering/releases/).
 
 > **Tip**: GitLab team members can access the [#release-post](https://gitlab.slack.com/archives/C3TRESYPJ) Slack channel to check for updates on the monthly release blog post.
-> Wider community members can check the `gitlab-com/www-gitlab-com repository` for the [release post MR](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?label_name%5B%5D=release+post), or follow the Developer Evangelism issues with the [DE-Release-Evangelism](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues?sort=updated_desc&state=opened&label_name[]=DE-Type::Evangelist) label.
+> Wider community members can check the `gitlab-com/www-gitlab-com repository` for the [release post MR](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?label_name%5B%5D=release+post), or follow the Developer Advocate issues with the [DE-Release-Evangelism](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues?sort=updated_desc&state=opened&label_name[]=DE-Type::Evangelist) label.
 
 Workflow:
 
 - Our [DE Bot](/handbook/marketing/developer-relations/developer-evangelism/projects/#developer-evangelism-bot) automatically creates and assigns issues.
-- Developer Evangelists review the release blog post draft.
+- Developer Advocates review the release blog post draft.
   - Use the review app.
   - Add feedback and suggestions to the merge request before release day.
-- Developer Evangelists schedule their favourite features.
+- Developer Advocates schedule their favourite features.
   - Use the existing media (images, videos) from the release blog post, or create new screenshots/videos.
   - Link to the documentation, or the release post anchor if already released. **Never link to the review app.**
 - Impressions are collected with Keyhole, and happen async.
@@ -357,7 +357,7 @@ Use the [social card validator](/handbook/marketing/developer-relations/develope
 
 #### Release Evangelism MVP
 
-The monthly release post awards the [MVP](/handbook/marketing/blog/release-posts/#mvp) to a community contributor. A personal shoutout from a Developer Evangelist helps with community engagement, and helps increasing visibility so that everyone wants to contribute.
+The monthly release post awards the [MVP](/handbook/marketing/blog/release-posts/#mvp) to a community contributor. A personal shoutout from a Developer Advocate helps with community engagement, and helps increasing visibility so that everyone wants to contribute.
 
 Workflow:
 
@@ -427,7 +427,7 @@ Past examples:
 
 ### Review Features for Release Posts
 
-Developer Evangelists will take the end-user point-of-view and help review the release blog post items prior to a release around the 18th of each month. Reviews include:
+Developer Advocates will take the end-user point-of-view and help review the release blog post items prior to a release around the 18th of each month. Reviews include:
 
 - Feature description and clarify on the problem/use case being solved.
 - Suggest promoting a feature to primary.
@@ -463,7 +463,7 @@ KPIs:
 
 Move social shares into product channels, be it good feedback or additional experts required to answer. Tag GitLab team members and encourage them to respond/discuss on social media when they can benefit from the conversation. For heated discussions, stay within a small group of social media DRIs.
 
-For incoming questions and involving more experts, Developer Evangelists can help in Slack in [#dev-evangelism-and-technical-marketing](https://gitlab.slack.com/archives/CMELFQS4B).
+For incoming questions and involving more experts, Developer Advocates can help in Slack in [#dev-evangelism-and-technical-marketing](https://gitlab.slack.com/archives/CMELFQS4B).
 
 #### Release Management
 

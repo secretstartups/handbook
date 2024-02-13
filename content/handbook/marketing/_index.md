@@ -132,7 +132,7 @@ Speaking on behalf of GitLab at a conference, to media or on a podcast as a GitL
 ### Blog post editing
 
 - Product release posts: [Product team][Product handbook]
-- Technical community posts/tutorials: [Developer Evangelism] and [Technical Marketing] teams, and Blog editorial team
+- Technical community posts/tutorials: [Developer Advocate] and Blog editorial team
 - CEO statements/updates: [CMO][CMO handbook]
 - All other blog posts: [Blog editorial team][Content]
 
@@ -181,7 +181,7 @@ We use Slack internally as a communication tool. The Marketing channels are as f
 - `cmo-staff`: (Private) CMO's private staff discussion room
 - `#content`: Questions about blog posts, webcasts, the newsletter or other [marketing content][Content]? This is the place to ask.
 - `#developer-relations`: A channel for the [developer relations](/handbook/marketing/developer-relations/) team to collaborate.
-- `#dev-evangelism-and-technical-marketing`: Discuss the latest tech in DevSecOps and Cloud-Native with the [Developer Evangelism](/handbook/marketing/developer-relations/developer-evangelism/) and [Technical Marketing](/handbook/marketing/developer-relations/technical-marketing/) teams. You can request speakers and ask for technical content collaboration and guidance.
+- `#dev-evangelism-and-technical-marketing`: Discuss the latest tech in DevSecOps and Cloud-Native with the [Developer Advocate](/handbook/marketing/developer-relations/developer-evangelism/) tea. You can request speakers and ask for technical content collaboration and guidance.
 - `#digital-experience-team`: Channel for connecting with the [website development and design teams][Digital experience]
 - `#digital-marketing`: Channel for all advertising, website analytic and general digital programs.
 - `#external-comms`: To collaborate with our external PR (public relations) agency, discuss GitLab media mentions, and evaluate speaking/podcasting/commentary opportunities.
@@ -322,7 +322,7 @@ Handbook Links
 {.h4}
 
 - [Contributor Success]
-- [Developer Evangelism] and [Technical Marketing]
+- [Developer Advocacy]
 - [Community Programs]
   - [Education Program]
   - [Open Source Program]
@@ -410,8 +410,7 @@ This front page of the Marketing Handbook is intended to serve as the external f
 [Education Program]: /handbook/marketing/developer-relations/community-programs/education-program/
 [Open Source Program]: /handbook/marketing/developer-relations/community-programs/opensource-program/
 [Startup Program]: /handbook/marketing/developer-relations/community-programs/startups-program/
-[Developer Evangelism]: /handbook/marketing/developer-relations/developer-evangelism/
-[Technical Marketing]: /handbook/marketing/developer-relations/technical-marketing/
+[Developer Advocacy]: /handbook/marketing/developer-relations/developer-evangelism/
 [Inbound Marketing]: /handbook/marketing/inbound-marketing/
 [Field Marketing]: /handbook/marketing/field-marketing/
 [Account Based Marketing]: /handbook/marketing/account-based-marketing/

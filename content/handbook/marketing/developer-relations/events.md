@@ -73,7 +73,7 @@ they require less time and travel from the team.
 
 ## Event Content Generation
 
-The Developer Evangelism and Technical Marketing teams create content for events
+The Developer Advocate team creates content for events
 including managing the [Call for Paper submission process](/handbook/marketing/developer-relations/developer-evangelism/cfps/)
 and producing presentations, demos, lightning talks, and other content. 
 
@@ -93,7 +93,7 @@ requirements an event must meet for a GitLab speaker to participate.
 
 ## Event Content
 
-The Developer Evangelism and Technical Marketing teams hold a pivotal role in generating
+The Developer Advocate team holds a pivotal role in generating
 content for events. The content we generate includes:
 
 * Lightning Talks
@@ -132,7 +132,7 @@ some examples of lightning talks given at [KubeCon EU 2023](https://events.linux
 
 ### Demos
 
-The Developer Evangelism and Technical Marketing teams are responsible for building demos
+The Developer Advocate team is responsible for building demos
 for the booth staff to leverage when showcasing GitLab features to customers. The demo
 environments consist of:
 
@@ -181,7 +181,7 @@ You can obtain the HTML files for this purpose directly from [here](https://gitl
 
 ## Event Booth Training
 
-The Developer Evangelism and Technical Marketing teams also provide training and guidance to
+The Developer Advocate team also provides training and guidance to
 the booth staff before the event. This training and guidance entails:
 
 - Going over the available demo environments
@@ -240,13 +240,13 @@ We love to support team members and members of the wider community on their pres
 
 ### CFP
 
-The Developer Evangelism team directly contributes to the wider community by speaking at conferences themselves.
+The Developer Advocate team directly contributes to the wider community by speaking at conferences themselves.
 The team also [supports and manages responses to CFPs](/handbook/marketing/developer-relations/developer-evangelism/cfps/)
 for team members across GitLab through issue boards.
 
 ### Speaker Enablement
 
-The Developer Evangelism team provides support to new and experienced speakers where necessary. These can range from presentation reviews,
+The Developer Advocate team provides support to new and experienced speakers where necessary. These can range from presentation reviews,
 CFP ideation, or dry-run. We also host [Speakers Lean Coffee](/handbook/marketing/corporate-communications/speaking-resources/#speakers-lean-coffee)
 to help folks prepare to speak. You can also [learn more](/handbook/marketing/developer-relations/developer-evangelism/speaker-enablement/) about
 the different resources and activities you can benefit from.
@@ -256,7 +256,7 @@ the different resources and activities you can benefit from.
 ## Code Challenges
 
 Code Challenges provide a way for event attendees to get directly involved with using and/or contributing
-directly to GitLab. These challenges involve solving a particular problem using GitLab. The challenges are usually hosted at events coordinated by Developer Evangelism in collaboration with the
+directly to GitLab. These challenges involve solving a particular problem using GitLab. The challenges are usually hosted at events coordinated by Developer Advocates in collaboration with the
 [corporate events team](/handbook/marketing/integrated-marketing/corporate-events/), and other teams.
 
 [CodeChallenge.dev](https://codechallenge.dev/) is the application used to create challenges tied to features in GitLab.

@@ -11,11 +11,11 @@ title: "Speaker Enablement"
 
 ## Speaker Resources
 
-The Developer Evangelism team is always happy to help at any stage of talk preparation, there is also a [speakers resources page](/handbook/marketing/corporate-communications/speaking-resources/) where you can find helpful guides and tips. 
+The Developer Advocate team is always happy to help at any stage of talk preparation, there is also a [speakers resources page](/handbook/marketing/corporate-communications/speaking-resources/) where you can find helpful guides and tips. 
 
 ## Speakers Lean Coffee Chats
 
-The Developer Evangelism hosts monthly coffee chats where new and experienced speakers can join in to discuss ideas of stories they want to share, pitch talks for feedback and seek help with preparing presentations. These are Zoom sessions, open to the GitLab community and it will be recorded and uploaded to YouTube if they don't contain any private information.
+The Developer Advocate hosts monthly coffee chats where new and experienced speakers can join in to discuss ideas of stories they want to share, pitch talks for feedback and seek help with preparing presentations. These are Zoom sessions, open to the GitLab community and it will be recorded and uploaded to YouTube if they don't contain any private information.
 
 Special sessions will also be organized for prominent conferences like KubeCon to help more people get quality talks created. See the team calendar before for dates.  To learn more, see [speakers lean coffee](/handbook/marketing/corporate-communications/speaking-resources/#speakers-lean-coffee) on the Speakers Resources page.
 

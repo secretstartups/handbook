@@ -310,7 +310,7 @@ Participating in consortia enhances GitLab's brand—and helps align GitLab's en
 
 #### How does GitLab participate in consortium activities?
 
-While select consortium memberships fall within the purview (and budget) of GitLab's open source program, the [Developer Evangelism team](/handbook/marketing/developer-relations/developer-evangelism/) focuses on consortium marketing, working to integrate GitLab's overall community message and technical perspective into the most appropriate and effective industry conversations.
+While select consortium memberships fall within the purview (and budget) of GitLab's open source program, the [Developer Advocacy team](/handbook/marketing/developer-relations/developer-evangelism/) focuses on consortium marketing, working to integrate GitLab's overall community message and technical perspective into the most appropriate and effective industry conversations.
 
 #### How can I recommend GitLab get involved in a consortium?
 

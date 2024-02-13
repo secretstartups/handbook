@@ -17,7 +17,7 @@ The page below is intended to align GitLab's sales and marketing efforts with a 
 
 #### Who to contact
 
-| Product Marketing | Technical Marketing |
+| Product Marketing | Developer Advocate |
 | ---- | --- |
 | Saumya Upadhyaya (@supadhyaya) | [William Galindez Arias](https://gitlab.com/warias) |
 

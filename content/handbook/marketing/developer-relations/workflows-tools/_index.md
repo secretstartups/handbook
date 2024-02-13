@@ -11,7 +11,7 @@ title: "Developer Relations Workflows and Tools"
 
 - [Code of Conduct Enforcement](/handbook/marketing/developer-relations/workflows-tools/code-of-conduct-enforcement/)
 - [Team Budgets](/handbook/marketing/developer-relations/workflows-tools/team-budgets)
-- [Developer Evangelism Community Response Process](/handbook/marketing/developer-relations/developer-evangelism/community-response/)
+- [Developer Advocate Community Response Process](/handbook/marketing/developer-relations/developer-evangelism/community-response/)
 - [Community Operations: Automated Community Programs](/handbook/marketing/developer-relations/community-programs/automated-community-programs/)
 - [Swag operations](/handbook/marketing/developer-relations/workflows-tools/swag/)
 - [Content Review / Fix Fridays](/handbook/marketing/developer-relations/workflows-tools/content-review/)

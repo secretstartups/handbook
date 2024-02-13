@@ -11,11 +11,11 @@ title: "OSS Contributions"
 
 ## Contributions to OSS
 
-The Developer Evangelism team believes in Open Source and wants to lead by example, contributing to GitLab and the OSS ecosystem. Our workshops, community activities and projects are documented in the [projects overview](/handbook/marketing/developer-relations/developer-evangelism/projects/).
+The Developer Advocacy team believes in Open Source and wants to lead by example, contributing to GitLab and the OSS ecosystem. Our workshops, community activities and projects are documented in the [projects overview](/handbook/marketing/developer-relations/developer-evangelism/projects/).
 
-### Projects maintained by Developer Evangelism
+### Projects maintained by Developer Advocates
 
-We organize our projects in the [Developer Evangelistm group](https://gitlab.com/gitlab-de). A few examples are:
+We organize our projects in the [Developer Advocacy group](https://gitlab.com/gitlab-de). A few examples are:
 
 * [Docker Hub Limit Monitoring](https://about.gitlab.com/blog/2020/11/18/docker-hub-rate-limit-monitoring/)
     * [Exporter for Prometheus](https://gitlab.com/gitlab-de/docker-hub-limit-exporter)
@@ -64,7 +64,7 @@ Contributions are "more than just code" and are often times hard to measure. Our
 
 ### Resource and Time Dedication
 
-Developer Evangelists are encouraged to find time every week for Open Source contributions. 
+Developer Advocates are encouraged to find time every week for Open Source contributions. 
 
 ### Measurement
 

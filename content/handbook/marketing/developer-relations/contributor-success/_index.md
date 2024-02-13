@@ -103,7 +103,7 @@ to the program.
 - Nominate impactful community contributors and contributions for recognition.
 - Select and recognize a [GitLab MVP](/handbook/marketing/developer-relations/contributor-success/mvp-process) for each release post
 - Collaborate closely with our [Marketing counterparts](/handbook/marketing/developer-relations/) and [Core team](/community/core-team/).
-- Engineering representative that can ride along with the [Developer evangelist](/job-families/marketing/developer-evangelist/).
+- Engineering representative that can ride along with the [Developer Advocate](/job-families/marketing/developer-evangelist/).
 - Improve community recognition system and awards in collaboration with the [Developer Relations team](/handbook/marketing/developer-relations/).
 - Participate in GitLab's overall Engineering open source outreach events and processes.
 - [Triage community issues](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/) to be picked up by the community or GitLab team members
@@ -190,7 +190,7 @@ We have the following Performance Indicators
 #### [Unique Wider Community Contributors per Month](/handbook/marketing/developer-relations/performance-indicators/#unique-wider-community-contributors-per-month)
 
 - Activities:
-  - Partnership with Developer Relations and Technical Marketing team.
+  - Partnership with Developer Relations team.
   - Hold community office hours.
   - Hold hackathons.
   - Allow running of QA tests from forks.

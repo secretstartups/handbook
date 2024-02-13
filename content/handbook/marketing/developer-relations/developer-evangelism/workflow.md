@@ -1,6 +1,6 @@
 ---
 
-title: "Developer Evangelism Team Workflow"
+title: "Developer Advocate Team Workflow"
 ---
 
 
@@ -11,9 +11,9 @@ title: "Developer Evangelism Team Workflow"
 
 ## Team Workflow
 
-Welcome to the Developer Evangelism team workflow page. Learn how the team works and how to work with the team. We primarily use the [Developer Evangelism Meta issue tracker](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues). We own the team label `dev-evangelism` and all of our other labels which are located at the [gitlab-com](https://gitlab.com/gitlab-com) group level. You can add the labels as necessary to any issue under this group for our team to track.
+Welcome to the Developer Advocate team workflow page. Learn how the team works and how to work with the team. We primarily use the [Developer Advocate Meta issue tracker](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues). We own the team label `dev-evangelism` and all of our other labels which are located at the [gitlab-com](https://gitlab.com/gitlab-com) group level. You can add the labels as necessary to any issue under this group for our team to track.
 
-### How to work with the Developer Evangelism Team
+### How to work with the Developer Advocate Team
 
 Opening an issue is the best way to get a conversation started. The `dev-evangelism` label is at the `gitlab-com` group level, which means it can be added to any issue or merge request in the group's structure.
 
@@ -23,7 +23,7 @@ You can use the [request an evangelist issue template](https://gitlab.com/gitlab
 
 ## Roadmap view
 
-The Developer Evangelism uses the [Roadmap in the Developer Relations Group](https://go.gitlab.com/community-relations-team-roadmap) to track our work. Epics for our team are tracked within this group using the `dev-evangelism` label. 
+The Developer Advocate team uses the [Roadmap in the Developer Relations Group](https://go.gitlab.com/community-relations-team-roadmap) to track our work. Epics for our team are tracked within this group using the `dev-evangelism` label. 
 
 ### Epics
 
@@ -76,7 +76,7 @@ These are the recommended labels for Epics created in the Developer Relations gr
 
 ### Syncing epics roadmap with the technical content plan
 
-The roadmap view needs to be synced with the `Technical Content Plan - Developer Evangelism and Technical Marketing` (search in Google drive).
+The roadmap view needs to be synced with the `Technical Content Plan - Developer Advocates` (search in Google drive).
 
 Checklist for updating delivery dates:
 
@@ -103,7 +103,7 @@ Please follow the [content library resources](/handbook/marketing/developer-rela
 
 ### Epic Templates
 
-Please use this template when creating Epics for activities that should appear for the Developer Evangelism team on the roadmap:
+Please use this template when creating Epics for activities that should appear for the Developer Advocate team on the roadmap:
 
 #### Content Epic Template 
 
@@ -326,7 +326,7 @@ The [DE-Bot](https://gitlab.com/gitlab-de/de-bot) uses the [GitLab Triage](https
 
 ## Labels
 
-The Developer Evangelism team workflow is supported by labels, which help determine the type of issue, its status, and other relevant information. The team's primary label is `dev-evangelism`. All issues the team owns, are a part of, or needs to be aware of, should be tagged with `dev-evangelism`. Other Labels are listed below:
+The Developer Advocate team workflow is supported by labels, which help determine the type of issue, its status, and other relevant information. The team's primary label is `dev-evangelism`. All issues the team owns, are a part of, or needs to be aware of, should be tagged with `dev-evangelism`. Other Labels are listed below:
 
 #### General labels
 
@@ -334,9 +334,9 @@ The Developer Evangelism team workflow is supported by labels, which help determ
 | ---------- | ----------- |
 | `DE-DueSoon` | This is used to monitor DE issues that are due soon |
 | `DE-Peer-Review` | Feedback is needed on the issue from DE team members |
-| `DE-Ops` | Used to label issues related to the Developer Evangelism `Ops in DevOps` theme |
-| `DE-Dev` | Used to label issues related to the Developer Evangelism `Dev in DevOps` theme |
-| `DE-k8s` | Used to label issues related to the Developer Evangelism `Kubernetes` theme |
+| `DE-Ops` | Used to label issues related to the Developer Advocacy `Ops in DevOps` theme |
+| `DE-Dev` | Used to label issues related to the Developer Advocacy `Dev in DevOps` theme |
+| `DE-k8s` | Used to label issues related to the Developer Advocacy `Kubernetes` theme |
 
 ### Issue management
 
@@ -370,13 +370,13 @@ These labels help identify the type of activity documented in an issue. These ar
 |-------|-----|
 | `DE-Type::Content` | Issues for Content creation, this can be any type of content |
 | `DE-Type::Evangelist` | Issues for the Evangelist program |
-| `DE-Type::Process` | Issues for operational activities of the team, mostly owned by the Developer Evangelism Program Manager |
+| `DE-Type::Process` | Issues for operational activities of the team |
 | `DE-Type::Response` | Issues for Community Response activities |
 | `DE-Type::Consulting` | Issues requested by other teams, more details below |
 
 #### Consulting Labels
 
-Requests from other teams for the Developer Evangelism to own, participate or collaborate on activities are classified as consulting, and these requests are usually labeled based on the team requesting. These are teams in the company that the Developer Evangelism team collaborate with often, here are their labels:
+Requests from other teams for the Developer Advocates to own, participate or collaborate on activities are classified as consulting, and these requests are usually labeled based on the team requesting. These are teams in the company that the Developer Advocate team collaborate with often, here are their labels:
 
 - `DE-Consulting::Alliances`
 - `DE-Consulting::CorpComms`
@@ -526,13 +526,13 @@ Event requests include both event attendance (ex: attending client meetings, eve
 
 #### CFP (Call for Proposals) requests
 
-CFP requests include asking a Developer Evangelist to submit a proposal for an event or media opportunity or support a fellow team member in submitting to an open CFP.
+CFP requests include asking a Developer Advocate to submit a proposal for an event or media opportunity or support a fellow team member in submitting to an open CFP.
 
-See [Requesting a Developer Evangelist to submit a CFP](/handbook/marketing/developer-relations/developer-evangelism/cfps/) to request a Developer Evangelist to submit to a CFP for a corporate, field, or partner event.
+See [Requesting a Developer Advocate to submit a CFP](/handbook/marketing/developer-relations/developer-evangelism/cfps/) to request a Developer Advocate to submit to a CFP for a corporate, field, or partner event.
 
 #### Content requests
 
-Content requests include blog post, podcasts, media interviews, or any request that involves engaging a Developer Evangelist in a media opportunity.
+Content requests include blog post, podcasts, media interviews, or any request that involves engaging a Developer Advocate in a media opportunity.
 
 #### Scoring requests
 
@@ -566,7 +566,7 @@ If your team is not listed above, we will handle your request based on our avail
 This process covers any content request, Webcast, Interview, Meetup, etc. The process involves the following:
 
 - Requestors should assign a label that identifies their team and a weight correlating with their budget score to allow us to track each team's budget consumption.
-- A member of the Developer Evangelism team will triage the issue and provide all necessary details and directions
+- A member of the Developer Advocate team will triage the issue and provide all necessary details and directions
 - The necessary labels are applied to the issue as actions are taken on the request
 - Once the request is complete, the issue is assigned back to the requestor to provide the necessary metrics generated as a result of the before it is closed.
 

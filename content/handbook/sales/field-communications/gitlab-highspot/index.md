@@ -87,8 +87,9 @@ Teams with access to Highspot include:
 1. Alliances
 1. Field Operations
 1. Sales Development
-1. Strategic Marketing (Product Marketing, Technical Marketing, Customer Reference, Analyst Relations, Competitive Intelligence)
+1. Strategic Marketing (Product Marketing, Customer Reference, Analyst Relations, Competitive Intelligence)
 1. Field Marketing
+1. Developer Advocacy
 
 Non-active users, such as team members who have left the company, will be removed from Highspot on a regular basis in order to open seats within the tool.
 
@@ -638,7 +639,7 @@ Moving forward, **all AI-related content – internal and external – should be
 1. Review the [guidance for uploading content above](/handbook/sales/field-communications/gitlab-highspot/#gitlab-highspot-best-practices-for-content-owners) to ensure you are adding content in accordance with our best-practices.
 1. If it makes sense in a secondary spot (i.e. Customer Outreach, Customer Success, Field Strategy & Enablement, etc.) [bookmark](/handbook/sales/field-communications/gitlab-highspot/#including-content-in-more-than-one-spot) the content into another spot once added in the AI spot.
 1. Apply at LEAST one of the eight lists (tags) available in the AI spot.
-1. New content will appear in the "Revenue-Focused" (owned by PMM) and "Techincal Resources" (owned by Dev Rel/Technical Marketing) sections automatically based on the lists applied. No action is needed from teams owning these sections.
+1. New content will appear in the "Revenue-Focused" (owned by PMM) and "Techincal Resources" (owned by Dev Rel) sections automatically based on the lists applied. No action is needed from teams owning these sections.
 1. To ensure the most relevant resources are served up on the homepage, featured content in “What to Know” section (owned by PMM), “Key Messaging” (owned by PMM) and “Competitive Resources” (owned by Competitive Intelligence) will have to be added manually by owners by editing the overview page for the spot.
 1. To add content to the spot homepage, navigate to the three dots in the righthand corner when on the spot homepage.
 1. Select "view overview for spot".
