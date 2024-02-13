@@ -31,7 +31,7 @@ We define incidents as a deviation from the intended process that significantly 
 ### Incident Detection
 _(DRI: The team/individual detecting the issue)_
 
-1. Create an issue and fill all necessary information using the [Analytics Instrumentation Incident Template](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/issue_templates/Analytics_Instrumentation_Incident_Template).
+1. Create an issue and fill all necessary information using the [Analytics Instrumentation Incident Template](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Analytics+Instrumentation+Incident).
 1. Add appropriate label using the below guideline
     - `~"Analytics Instrumentation::Incident-High Severity"` for impending loss of data for many metrics or moderate to severe loss in business critical metrics that have a performance_indicator_type value.
     - `~"Analytics Instrumentation::Incident-Medium Severity"` for data delay.
@@ -377,29 +377,11 @@ We group related issues together using parent [epics](https://docs.gitlab.com/ee
 - The description of the parent epic should always be kept up-to-date as the single source of truth.
 - Epics and Child Epics must have the same section and group labels to see them on our roadmap.
 
-### Issue labels
+### Issues
 
-We use issue labels to keep us organized. Every issue has a set of required labels that the issue must be tagged with. Every issue also has a set of optional labels that are used as needed.
+When creating an issue, use the [linked template](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Analytics Instrumentation Issue) and follow its instructions.
 
-**Required labels**
-- Section `~devops::analytics`
-- Group `~"group::analytics instrumentation"`
-- [Workflow:](/handbook/product-development-flow/#workflow-summary) `~"workflow::planning breakdown"`, `~"workflow::ready for development"`, `~"workflow::in dev"`, etc.
-- [Type:](/handbook/engineering/metrics/#work-type-classification) `~"type::bug"`, `~"type::feature"`, `~"type::tooling"`, `~"type::maintenance"`
-
-(Easy to copy list: `~devops::analytics ~"group::analytics instrumentation" ~"workflow::planning breakdown" ~"workflow::ready for development" ~"workflow::in dev" ~"type::bug" ~"type::feature" ~"type::tooling" ~"type::maintenance"`)
-
-### Issue description
-
-The description for an issue assigned to our group should always include the following sections:
-
-- **Problem**: The problem being adressed by this issue.
-- **Desired Outcome**: The desired state of the affected system after this issue has been completed.
-- **Potential Solution(s)**: An outline of potential solutions to get to the desired outcome. These solution(s) can still be adjusted throughout the implementation as long as the desired outcome is achieved.
-- **How to verify**: How can we verify that the desired outcome has been achieved? The instrcutions from this section should be used to move the issue from ~"worfklow::verification".
-- **Further actions needed**: Any further tasks that need to be completed after the main work of the issue is done, such as announcing the changes or updating documentation.
-
-The sections **Potential Solution(s)** and **How to verify** can initially be empty but should to be filled when preparing the issue for development.
+In case the issue is not created for the [GitLab project](https://gitlab.com/gitlab-org/gitlab), copy the template's content into the appropriate project.
 
 ### Merge request labels
 
