@@ -8,51 +8,6 @@ description: "Enterprise Applications Quote to Cash Documentation"
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
 
-
-
-
-
-
-
-
-## Quote to Cash Introduction
-
-The quote-to-cash (QTC) process encompasses customer account management, order fulfillment, billing, and accounts receivables functions. The coordination of this process is owned by the Enterprise Applications team and this handbook page is intended to be used as a table of contents for key documentation of this process. Some of the major applications that make up this process are listed below.
-
-#### Salesforce
-- Salesforce is used as our CRM tool for managing customer Leads, Contacts, Accounts, Opportunities and Quotes.
-- Salesforce is owned by the [Sales Systems](/handbook/sales/field-operations/sales-systems/) team at GitLab, and implements changes from the process owners.
-- The [Quoting process](/handbook/sales/field-operations/order-processing/#quote-configuration) itself is owned by the [Deal Desk team](/handbook/sales/field-operations/sales-operations/deal-desk/).
-
-#### Zuora CPQ
-- Zuora CPQ is our Configure, Price, Quote tool used for Sales Assisted deals
-- Zuora CPQ is a managed package in Salesforce that has been extended for Quote Approvals by [Sales Systems](/handbook/sales/field-operations/sales-systems/)
-- The [Quote Approval process](/handbook/sales/field-operations/order-processing/#standard-quote-approval) itself is owned by the [Deal Desk team](/handbook/sales/field-operations/sales-operations/deal-desk/).
-
-#### Zuora 360
-- Zuora 360 is a stock connector between Zuora and Salesforce, is transfers Zuora subscription information to Salesforce.
-- Zuora 360 the job is owned by [Enterprise Applications](/handbook/business-technology/enterprise-applications/), the extension of Zuora Subscription data in Salesforce for Add-ons and Renewals deal is owned by [Sales Systems](/handbook/sales/field-operations/sales-systems/).
-- The [Add-On](/handbook/sales/field-operations/sales-operations/deal-desk/#amend-subscription-quote) and [Renewal](/handbook/sales/field-operations/sales-operations/deal-desk/#renew-subscription-quote) processes are owned by the [Deal Desk team](/handbook/sales/field-operations/sales-operations/deal-desk/).
-
-#### Zuora Billing
-- Zuora is used as our billing and revenue tool for managing customer subscriptions, payments and invoicing.
-- Zuora is owned by the [Enterprise Applications](/handbook/business-technology/enterprise-applications/) team at GitLab.
-- The Billing process itself is owned by the [Billing Operations](/handbook/finance/accounting/finance-ops/billing-ops/) team
-
-#### Zuora Revenue
-- Zuora Revenue is our automated revenue recognition application that meets current and future U.S. GAAP, including the new ASC 606 and IFRS 15 revenue standards.
-
-#### CustomersDot (Customers Portal)
-- CustomersDot is used when the customer logs in to manage their subscriptions
-- GitLab engineers created CustomersDot and it is owned by the [Fulfillment team](/handbook/engineering/development/fulfillment/)
-- CustomersDot integrates with Zuora to enable self-service purchasing and subscription management
-
-#### NetSuite
-- NetSuite is the company Enterprise Resource Planning (ERP) system, which is primarily managed by the Finance team.
-- The platform allows enhanced dimensional reporting as well as multi-currency and multi-entity reporting. This is where the General Ledger resides and all financial activity is ultimately recorded, which is critical to reporting the financial health of the company.
-
-
-
 ## Enterprise Systems Architecture
 
 <div class="x-scrollable">
