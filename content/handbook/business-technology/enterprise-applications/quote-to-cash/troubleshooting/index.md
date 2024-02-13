@@ -34,8 +34,8 @@ Make sure to save these credentials as distinct from your regular GitLab credent
 - Resources for Prospects who are trialing and need direction
     - [Get started with GitLab](https://docs.gitlab.com/ee/intro/)
     - [GitLab epics](https://docs.gitlab.com/ee/user/group/epics/)
-- [Instructions on how to renew self-managed](/pricing/licensing-faq/#how-do-i-renew-my-subscription)
-- [Customer Facing: Licensing, Renewing, and Subscription FAQ](/pricing/licensing-faq/)
+- [Instructions on how to renew self-managed](https://about.gitlab.com/pricing/licensing-faq/#how-do-i-renew-my-subscription)
+- [Customer Facing: Licensing, Renewing, and Subscription FAQ](https://about.gitlab.com/pricing/licensing-faq/)
 - [Subscription Setup and Management (user facing)](https://docs.gitlab.com/ee/subscriptions/)
 
 ## True-Ups, Adding Seats, Users

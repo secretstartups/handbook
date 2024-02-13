@@ -172,18 +172,17 @@ It's important to keep [`features.yml`](https://gitlab.com/gitlab-com/www-gitlab
 
 **External**
 
-- [Pricing](/pricing/)
-- [Features](/features/)
-- [Why GitLab Premium?](/pricing/premium/)
-- [Why GitLab Ultimate?](/pricing/ultimate)
-- [Feature Comparison](/pricing/feature-comparison/)
+- [Pricing](https://about.gitlab.com/pricing/)
+- [Features](https://about.gitlab.com/features/)
+- [Why GitLab Premium?](https://about.gitlab.com/pricing/premium/)
+- [Why GitLab Ultimate?](https://about.gitlab.com/pricing/ultimate)
+- [Feature Comparison](https://about.gitlab.com/pricing/feature-comparison/)
 - [DevOps Lifecycle](/stages-devops-lifecycle/)
-- [DevOps Tools Landscape](/competition/)
-- [DevOps Tools Comparisons](/competition/circleci/)
+- [DevOps Tools Landscape](https://about.gitlab.com/why-gitlab/)
 
 **Internal**
 
-- [SaaS vs. Self-managed](/features/)
+- [SaaS vs. Self-managed](https://about.gitlab.com/features/)
 - [Features by tier](/features/by-paid-tier/)
 
 ### Working with User Experience (UX)

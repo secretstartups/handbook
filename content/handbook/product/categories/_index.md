@@ -13,10 +13,10 @@ product categories defined on this page:
 
 - [Home page](/)
 - [Product page](/stages-devops-lifecycle/)
-- [Product Features](/features/)
-- [Pricing page](/pricing/)
+- [Product Features](https://about.gitlab.com/features/)
+- [Pricing page](https://about.gitlab.com/pricing/)
 - [DevOps Lifecycle](/stages-devops-lifecycle/)
-- [DevOps Tools](/competition/)
+- [DevOps Tools](https://about.gitlab.com/why-gitlab/)
 - [Product Direction](https://about.gitlab.com/direction/)
 - [Stage visions](https://about.gitlab.com/direction/#devops-stages)
 - [Documentation](https://docs.gitlab.com/)

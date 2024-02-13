@@ -33,7 +33,7 @@ The Deal Desk team's mission is to streamline the opportunity management process
     - [Security Questionnaire Process](/handbook/security/#process)
     - [Troubleshooting: True Ups, Licenses + EULAS](
 https://about.gitlab.com/handbook/business-technology/enterprise-applications/quote-to-cash/troubleshooting/)
-    - [Licensing FAQ](/pricing/licensing-faq/)
+    - [Licensing FAQ](https://about.gitlab.com/pricing/licensing-faq/)
     - [Legal Authorization Matrix](/handbook/finance/authorization-matrix/)
     - [Trade Compliance (Export/Import)](/handbook/sales/field-operations/order-processing/#trade-compliance-export--import-and-visual-compliance-tool-in-salesforce)
 
@@ -68,7 +68,7 @@ For Alliances & Private Offer Creation, this process is supported by one team me
 
 During holidays, or when team members are on PTO, individuals located in different regions may step in to support and ensure appropriate coverage. This is reserved for End of Month/End of Quarter, or other times when the team is short-staffed.
 
-Support will be provided based on the following business hours in the respective region. If a complex case or non standard deal request is submitted after 4:00PM (Local Time) the case will be prioritized the following business day.  
+Support will be provided based on the following business hours in the respective region. If a complex case or non standard deal request is submitted after 4:00PM (Local Time) the case will be prioritized the following business day.
 
 |     Region    | Standard Support Hours |
 |:-------------:|------------------------|
@@ -98,7 +98,7 @@ As of 2022-02-01, the Deal Desk team is structured as follows:
   - Deal Desk Specialist (AMER)
   - Deal Desk Specialist (AMER)
   - Deal Desk Specialist (AMER)
-  
+
 
 **EMEA/APAC TEAM:**
 - Manager, Deal Desk (EMEA/APAC)
@@ -135,7 +135,7 @@ In case of a specific opportunity or quote related question please use SF Chatte
 
 ##### Slack Announcements
 
-Desk Desk process updates and announcements will be communicated via #field-fyi, #sales and #sales-support Slack channels.  
+Desk Desk process updates and announcements will be communicated via #field-fyi, #sales and #sales-support Slack channels.
 
 #### Deal Desk Office Hours
 

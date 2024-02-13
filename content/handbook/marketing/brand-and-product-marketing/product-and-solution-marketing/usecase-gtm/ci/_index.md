@@ -186,7 +186,7 @@ For a list of analysts with a current understanding of GitLab's capabilities for
 
 ## Competitive Comparison
 
-Amongst the many competitors in the DevOps space, Jenkins and [CircleCI](/competition/circleci/) are the closest competitors offering continuous integration capabilities.
+Amongst the many competitors in the DevOps space, Jenkins and CircleCI are the closest competitors offering continuous integration capabilities.
 
 ## Proof Points - Customer Recognitions
 
