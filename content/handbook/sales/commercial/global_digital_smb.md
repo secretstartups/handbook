@@ -10,7 +10,7 @@ description: "Overview of the Global Digital SMB Sales Model"
 
 All members of the Sales, Support, Billing and Deal Desk teams should familiarize themselves with the Global Digital SMB Model.
 The model leverages team-level account alignment so SMB customers have a team of SMB Advocates to assist them. Every SMB Advocate on the team is equipped to work with any SMB customer as the sales point of contact.
-The threshold for Global Digital SMB Accounts accounts is <$30k cARR, <100 employees, and excludes Ultimate Licenses and Japan. 
+The threshold for Global Digital SMB Accounts accounts is <$30k cARR, <101 employees, and excludes Ultimate Licenses and Japan. 
 
 
 ## Account and Opportunity Ownership
@@ -101,8 +101,6 @@ The case logic, context behind the case, and CTA can be viewed on the Case Trigg
 [FY25 SMB Case Triggers](https://docs.google.com/spreadsheets/d/1ihpt5WDpoJmDWa5gA0eXvBJOgFOJgL1J_QxsBuDDowc/edit#gid=1223186811)
 
 
-The case logic, context behind the case, and CTA can be viewed on the Case Trigger overview sheet. 
-
 ## Working with the Global Digital SMB Account Team
 
 If a GitLab team member needs to loop in the Advocate team on a customer Account, they must create a case.  (Chatter messages sent to the AMER/ APAC/ EMEA Sales Users are not monitored).  
@@ -113,12 +111,14 @@ If a GitLab team member needs to loop in the Advocate team on a customer Account
 - Add the *Contact*, to the Contact Name lookup field.
 - Add the *Opportunity*, to the Opportunity lookup field (if relevant). 
 - Describe the ask of the AE in the case *Description*. Include any relevant links or resources.
-- Select a *Type* that most closely matches the origin of your request. 
+- Select a *Type* that most closely matches the origin of your request. (e.g if you are in Support, select *Inbound Request via Support*)
 - Set the *Priority* to High. 
 - Complete the *Subject* field.
+    - Note: if you are an SDR creating the case, the *Case Subject* must be either equal *FO Opp*, or *SDR Created* (See *Use Case Specifics* below)
 - Select a *Case Reason* based on the customers needs.
 - Check the *Assign using active assignment rules* checkbox, and click *Save*.
 - This Case will now drop into the SMB Sales Queue, and will be actioned by a SMB Advocate.
+- Note: if you are an SDR creating the case, the case 
 
 
 ## SMB Advocate Playbook
@@ -214,7 +214,7 @@ Support Ticket cases will often include a Zendesk ticket link in the description
 Referral cases often originate from other Sales segments.  To determine if the account and opp in question should be moved to SMB, chatter Sales Support on the account.
 
 ### FO Opp (an SDR engages with a net new lead who has been qualified)
-Before picking up the case, the Advocate checks that they can attend the meeting (IQM) that appears as an Activity on the Contact record, as well as the Next Steps fields.
+Before picking up the case, the Advocate checks that they can attend the meeting (IQM) that appears as an Activity on the Contact record, and in the Next Steps fields.
 The Advocate should also advise the SDR, by chattering them on the opp, that they have picked up the case.
 The below SDR Handover Process steps, and Handover Criteria, detailed below should also be followed by both the SDR and Advocate.
 
@@ -225,8 +225,14 @@ The below SDR Handover Process steps, and Handover Criteria, detailed below shou
 
 [FY25 SDR Handover Process](https://docs.google.com/spreadsheets/d/18tGE_dpbx7nLu2S6bzD3WkLrHM3IrDv72WWJMgDDi64/edit#gid=0)
 
+[FO Opp Case Example](https://gitlab.my.salesforce.com/500PL000005qmX7)
+
+[SDR Created Case Example](https://gitlab.my.salesforce.com/500PL000005Qb2gYAC)
+
+The above examples can be used as templates for when an SDR creates a case. 
+
 ### Expansion Opportunities
-If an opportunity is uncovered whilst working an Expansion Opportunity case, a new Growth/ Add On opp should be created, and linked to the case via the Opportunity lookup field.
+If an opportunity is uncovered whilst working an Expansion Opportunity case, a new Growth/ Add On opp should be created, and linked to the case via the Opportunity lookup field. An Add On opp must be created from the prior closed won renewal opp that exists on the account. 
 If the customer is looking to upgrade to Ultimate/ add users at the time of renewal, the existing Renewal opp should be linked to the case.  The renewal opp should also be used for any new quotes that are generated. 
 
 ## Email Templates
@@ -302,7 +308,7 @@ Due to the high case volume, it is imperative that the Required 10 is followed, 
 - Q. As an GitLab Team Member who is not part of the SMB Team, how do I engage with the team?
 - A. Follow the process above entitled *Working with the Global Digital SMB Account Team*. 
 - Q.  What happens if the end user speaks a different language than I do?
-- A. Discuss with your manager who might be best placed in the team to handle this case, then switch the Case Owner to that individual. 
+- A. Discuss with your manager who might be best placed in the team to handle this case, then switch the Case Owner to that individual. Also add the tab #languagebarrier to the Feedback field on the case.  This will allow the SMB Team to track how often language becomes an issue.  
 - Q. As an Advocate, if I pick up a FO Opp case, and discover the customer is actually a MM account, what do I do?
 - A. Follow the below steps;
   - If the FO Opp is still in Stage 0, advise the SDR via Chatter that they should loop in the MM AE.
