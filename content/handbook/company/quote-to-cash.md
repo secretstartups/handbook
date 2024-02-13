@@ -408,15 +408,14 @@ The `Customer` model in CDot has known design flaws as it represents a combinati
 
 ##### CustomersDot BillingAccount management
 
-[CustomersDot BillingAccount management](https://gitlab.com/groups/gitlab-org/-/epics/8331)
+[Introduce CustomersDot BillingAccount](https://gitlab.com/groups/gitlab-org/-/epics/8331)
 
-- [BillingAccount: Introduce a BillingAccount and BillingMembership object](https://gitlab.com/groups/gitlab-org/-/epics/8950)
-  - [Sisense Dashboard](https://app.periscopedata.com/app/gitlab/1081849/WIP---Fulfillment:Platform---Align-CustomersDot-BillingAccounts-and-Users-to-Zuora-objects)
-- [BillingAccount: Update CDot navigation to display new data structure to customers](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/4973) - Link to be updated
-- [BillingAccount: Multiple CDot customers can manage one BillingAccount](https://gitlab.com/groups/gitlab-org/-/epics/8951)
-- [BillingAccount: CDot customers can manage BillTo and SoldTo contacts](https://gitlab.com/groups/gitlab-org/-/epics/9831)
-- [BillingAccount: One CDot customer can manage multiple BillingAccounts](https://gitlab.com/groups/gitlab-org/-/epics/8986)
-- [BillingAccount: Clean up legacy data objects](https://gitlab.com/groups/gitlab-org/-/epics/8949)
+- [Improve Bill To / Sold To Contact Management in CustomersDot Admin](https://gitlab.com/groups/gitlab-org/-/epics/9831) - Completed
+- [Iteration 1A: Align CustomersDot BillingAccounts and Users to Zuora objects](https://gitlab.com/groups/gitlab-org/-/epics/8950) - Completed
+- [Iteration 1B: A single CustomersDot BillingAccount can have multiple CustomersDot Users](https://gitlab.com/groups/gitlab-org/-/epics/8951) - 90% Complete
+- [Iteration 1C : A single CustomersDot User can have multiple BillingAccounts](https://gitlab.com/groups/gitlab-org/-/epics/8986) - Not Started
+- [Iteration 1D: Clean up legacy data objects](https://gitlab.com/groups/gitlab-org/-/epics/8949) - Not Started
+
 
 ##### Background
 
