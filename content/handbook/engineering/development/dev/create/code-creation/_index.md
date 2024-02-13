@@ -85,7 +85,7 @@ To help get started as a developer with the Create:Code Creation team, we have c
 ## Other Related Pages
 
 - Product Categories: [Code Creation](/handbook/product/categories/#code-creation-group)
-- Direction: [Code Suggestion Direction](https://about.gitlab.com/direction/create/code_suggestions/)
+- Direction: [Code Suggestion Direction](https://about.gitlab.com/direction/create/code_creation/code_suggestions/)
 
 ## Code Suggestion Dashboards
 
