@@ -493,14 +493,17 @@ Overall, this will lead to a more secure environment for our customers in CDot a
 - [CDot SSO: Migrate more CDot customers to use the GitLab SSO for login](https://gitlab.com/groups/gitlab-org/-/epics/9155)
 
 
-#### Align CustomersDot Orders to Zuora subscriptions and trials
+#### Align CustomersDot Orders with Zuora Orders
 
-[Align CustomersDot Orders to Zuora subscriptions and trials](https://gitlab.com/groups/gitlab-org/-/epics/9748)
+This work focuses on breaking apart the `CustomersDot Order` table and moving towards a data structure that is more representative of the `Zuora Subscriptions` table. 
 
-- [Update Zuora Subscription API integration to more accurately determine subsription state](https://gitlab.com/groups/gitlab-org/-/epics/8402)
-- Further iterations - TBD
+See the [Architecture Blueprint](https://docs.gitlab.com/ee/architecture/blueprints/cdot_orders/) for full details.
 
-This iteration focuses on breaking apart the `CustomersDot Order` table to more accurately reflect its representation of `Zuora Subscriptions + Trials`. In the future, we could explore moving the reference for GitLab Namespace from being stored on the Subscription (and Order) to a `Zuora Account`. See [this LucidChart](https://lucid.app/lucidchart/3eb534e8-35b3-47a4-a284-bc6d8984c82e/edit?invitationId=inv_761317ee-84f0-46a3-8b12-3c3a19aecdae&page=xv78vQuQCGfz#) for more details.
+[Align CustomersDot Orders to Zuora objects](https://gitlab.com/groups/gitlab-org/-/epics/9748)
+- [Phase 1: Implement Zuora Cache Models](https://gitlab.com/groups/gitlab-org/-/epics/11751)
+- [Phase 2: Utilize Zuora Cache Models](https://gitlab.com/groups/gitlab-org/-/epics/11752)
+- [Phase 3: Replace CDot Order with Subscription](https://gitlab.com/groups/gitlab-org/-/epics/11753)
+
 
 ### Snowflake Data Warehouse and dbt (data build tool)
 
