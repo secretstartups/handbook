@@ -189,7 +189,10 @@ section-dir/
 
 ### Moving, deleting, or renaming a page
 
-If you delete, rename, or move a page, you can [add an alias to redirect]({{< ref "frontmatter.md#aliases" >}}).
+If you delete, rename, or move a page, you can:
+
+1. [update all existing links]({{< ref "practical-handbook-edits.md#find-and-replace-a-string-in-all-matching-files" >}})
+1. [add an alias to redirect]({{< ref "frontmatter.md#aliases" >}})
 
 ## Failing pipelines
 
