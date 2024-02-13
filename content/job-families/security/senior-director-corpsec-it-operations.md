@@ -2,7 +2,7 @@
 title: Senior Director, Corporate Security & IT Operations
 ---
 
-The Director, IT Operations Job Family leads a team of a highly-collaborative and results-oriented IT team members tasked with delivering global IT services across the company. The Director, IT Operations is in charge of scaling, increasing performance, and providing great team member experience in order to help drive forward business success based on world class infrastructure & operations.
+The Corporate Security & IT Operations Job Family leads a team of highly-collaborative and results-oriented Security and IT team members tasked with delivering and securing global IT services across the company. The Senior Director, Corporate Security & IT Operations is in charge of securing, scaling, increasing performance, and providing great team member experience in order to help drive forward business success based on world class infrastructure & operations.
 
 ## Levels
 
@@ -39,7 +39,7 @@ The Senior Director, Corporate Security & IT Operations is a [level 11](/handboo
 
 #### Senior Director, IT Corporate Security & Operations Requirements
 
-- Bachelor's degree in IT, Computer Science, or related field
+- Academic background in STEM
 - 10+ years of IT and/or Security leadership experience
 - 5+ years' experience in IT operations management, focusing on ITIL processes, service desk, identity and access management, infrastructure, and support.
 - Strong understanding of Identity Management (SSO, SAML, OAuth, etc.), API integration (REST), Scripting (Bash, Powershell)
