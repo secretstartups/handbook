@@ -230,7 +230,6 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [Runtime Update Process]({{< ref "runtime-update-process" >}})
 1. [Software Supply Chain Security]({{< ref "software-supply-chain-security" >}})
 1. [Talent Acquisition SSOT]({{< ref "recruiting-ssot" >}})
-1. [Token Management]({{< ref "token-management" >}})
 1. [Vue.js 3 Upgrade]({{< ref "vuejs-3-migration" >}})
 
 ## Past Working Groups (alphabetic order)
@@ -306,6 +305,7 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [SOX PMO]({{< ref "sox" >}})
 1. [TeamOps Sales and Marketing Group]({{< ref "teamops-sales-marketing" >}})
 1. [Tiering]({{< ref "tiering" >}})
+1. [Token Management]({{< ref "token-management" >}})
 1. [Transient Bugs]({{< ref "transient-bugs" >}})
 1. [Upstream Diversity]({{< ref "upstream-diversity" >}})
 1. [Usage Reporting](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/1)
