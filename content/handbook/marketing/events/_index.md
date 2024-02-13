@@ -190,7 +190,7 @@ NOTE: The Epic is the main hub for all event information. **All issues** associa
    - Promotion of the event will be no longer than 1.5 months
 1. Schedule
    - Event kick off call scheduled approx **two months** out from event will include all people involved in planning
-   - Final event check in meeting including everyone attending, involved Alliance team members and Technical Marketing team who created demos to review content with team.
+   - Final event check in meeting including everyone attending, involved Alliance team members and Developer Advocate team who created demos to review content with team.
    - Event recap will include all planners and stakeholders.
 1. Copy needed
    - Landing page copy

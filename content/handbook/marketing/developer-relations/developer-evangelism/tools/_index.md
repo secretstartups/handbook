@@ -1,17 +1,17 @@
 ---
 
-title: "Developer Evangelism Tools"
+title: "Developer Advocacy Tools"
 ---
 
 ## Overview
 
-The Developer Evangelism team uses tools to grow and analyse their thought leadership, improve written language and speaking experience and automate as much as possible. We use GitLab and build our own tools when there is no viable alternative, see [projects](/handbook/marketing/developer-relations/developer-evangelism/projects/). 
+The Developer Advocacy team uses tools to grow and analyse their thought leadership, improve written language and speaking experience and automate as much as possible. We use GitLab and build our own tools when there is no viable alternative, see [projects](/handbook/marketing/developer-relations/developer-evangelism/projects/). 
 
 <!-- Order alpha numeric -->
 
 ## Buffer
 
-Developer Evangelists use [Buffer](https://buffer.com/) in the [Pro tier](https://buffer.com/pricing/publish) to manage scheduled campaigns. Buffer acts as a queue with async publishing functionality. This allows to collect interesting URLs from your browser and mobile, add them to the queue and publish in different time slots throughout the day/week. 
+Developer Advocates use [Buffer](https://buffer.com/) in the [Pro tier](https://buffer.com/pricing/publish) to manage scheduled campaigns. Buffer acts as a queue with async publishing functionality. This allows to collect interesting URLs from your browser and mobile, add them to the queue and publish in different time slots throughout the day/week. 
 
 Note that you can `@` mention Twitter accounts only, the LinkedIn integration does not match. Buffer also allows to upload/override a social image for better visual appearances. 
 

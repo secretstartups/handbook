@@ -1,11 +1,11 @@
 ---
-title: "Content workflows for Developer Evangelism and Technical Marketing"
+title: "Content workflows for Developer Advocates"
 ---
 
 
 ## Content Library
 
-The Developer Evangelism team creates content that can be reused for campaigns. All contents and activities the team participates in are added to the team's technical content plan sheet (search for `Technical Content Plan` in Google Drive) and [epics roadmap](/handbook/marketing/developer-relations/developer-evangelism/workflow/#roadmap-view).
+The Developer Advocacy team creates content that can be reused for campaigns. All contents and activities the team participates in are added to the team's technical content plan sheet (search for `Technical Content Plan` in Google Drive) and [epics roadmap](/handbook/marketing/developer-relations/developer-evangelism/workflow/#roadmap-view).
 
 You can search for relevant content and contact the team in the linked content epics or in the [#dev-evangelism-and-technical-marketing](https://app.slack.com/client/T02592416/CMELFQS4B) Slack channel. 
 
@@ -48,7 +48,7 @@ The team's content is distributed in [Highspot](https://gitlab.highspot.com/) in
 
 ### UTMs for URL tagging and tracking
 
-The Developer Evangelism team works with the Developer Relations Team [UTM Strategy](/handbook/marketing/developer-relations/utm-strategy/), which is based on the larger [Marketing UTM strategy](/handbook/marketing/utm-strategy/). The `utm_content` prefix for the Developer Evangelism team is `de_`, this allows for easily filtering of the team's data in Sisense.
+The Developer Advocacy team works with the Developer Relations Team [UTM Strategy](/handbook/marketing/developer-relations/utm-strategy/), which is based on the larger [Marketing UTM strategy](/handbook/marketing/utm-strategy/). The `utm_content` prefix for the Developer Evangelism team is `de_`, this allows for easily filtering of the team's data in Sisense.
 
 You can use the [UTM Generator](/handbook/marketing/developer-relations/utm-strategy/#utm-generator) on the Community UTM Page to easily generate UTM Codes for your campaigns.
 
@@ -69,7 +69,7 @@ Event and content specific tracking examples are [KubeCon EU 2023](https://campa
 
 After content has been crafted and published, the next step is distribution. Here are some steps to assist in the process:
 
-1. Use the [UTM Generator](/handbook/marketing/developer-relations/utm-strategy/#utm-generator) to create UTM codes and short URLs for your content. Further insights about this can be found in the Developer Evangelism [UTM Strategy](/handbook/marketing/developer-relations/utm-strategy/).
+1. Use the [UTM Generator](/handbook/marketing/developer-relations/utm-strategy/#utm-generator) to create UTM codes and short URLs for your content. Further insights about this can be found in the Developer Advocacy [UTM Strategy](/handbook/marketing/developer-relations/utm-strategy/).
 
 For documentation and community:
 

@@ -226,8 +226,7 @@
               url: /handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo
             - name: Core Product Marketing
               url: /handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/core-product-marketing
-            - name: Technical Marketing
-              url: /handbook/marketing/developer-relations/technical-marketing
+
             - name: Competitive intelligence
               url: /handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/competitive-intelligence
             - name: Customer Advocacy
@@ -276,7 +275,7 @@
         url: /handbook/marketing/developer-relations/evangelist-program
       - name: Community Programs
         url: /handbook/marketing/developer-relations/community-programs
-      - name: Developer Evangelism
+      - name: Developer Advocate
         url: /handbook/marketing/developer-relations/developer-evangelism
       - name: Contributor Success
         url: /handbook/marketing/developer-relations/contributor-success

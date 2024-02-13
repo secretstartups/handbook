@@ -40,7 +40,7 @@ Our operational strategy is [documented in our internal handbook](https://intern
 
 Teams within Developer Relations are reachable in these Slack channels:
 
-- [#dev-evangelism-and-technical-marketing](https://gitlab.slack.com/archives/CMELFQS4B): [Developer Evangelism](/handbook/marketing/developer-relations/developer-evangelism/) and [Technical Marketing](/handbook/marketing/developer-relations/technical-marketing/) shares content updates, thought leadership & product ideas, and support community responses, meetups, CFPs, etc.
+- [#dev-evangelism-and-technical-marketing](https://gitlab.slack.com/archives/CMELFQS4B): the [Developer Advocate](/handbook/marketing/developer-relations/developer-evangelism/) team shares content updates, thought leadership & product ideas, and support community responses, meetups, CFPs, etc.
 - [#community-programs](https://gitlab.slack.com/archives/C024ZBWK5KJ): for all inquiries regarding [GitLab Community Programs](/handbook/marketing/developer-relations/community-programs/) (EDU/OSS/Startups)
 - [#contributor-success](https://gitlab.slack.com/archives/C02R0NE6P6C): for all inquiries regarding [Contributor Success](/handbook/marketing/developer-relations/contributor-success/)
 
@@ -68,7 +68,7 @@ Teams within Developer Relations are reachable in these Slack channels:
 ### <i class="far fa-edit fa-fw color-orange font-awesome"></i> Our handbooks
 
 - [Contributor Success](/handbook/marketing/developer-relations/contributor-success/)
-- [Developer Evangelism](/handbook/marketing/developer-relations/developer-evangelism/) and [Technical Marketing](/handbook/marketing/developer-relations/technical-marketing/)
+- [Developer Advocacy](/handbook/marketing/developer-relations/developer-evangelism/)
 - [Community Programs](/handbook/marketing/developer-relations/community-programs/)
     - [Open Source Program](/handbook/marketing/developer-relations/community-programs/opensource-program/)
     - [Education Program](/handbook/marketing/developer-relations/community-programs/education-program/)
@@ -130,11 +130,11 @@ Our team has a few weekly events that we use to stay connected and aligned on ou
 
 ### <i class="fa fa-calendar fa-fw color-orange font-awesome"></i> Our calendars
 
-We use team-wide calendars for collective notification and to manage team logistics and events. Additionally, specific teams within Developer Relations may maintain calendars specific to their programs (such as the [Developer Evangelism calendar](/handbook/marketing/developer-relations/developer-evangelism/#-team-calendar)).
+We use team-wide calendars for collective notification and to manage team logistics and events. Additionally, specific teams within Developer Relations may maintain calendars specific to their programs (such as the [Developer Advocate team calendar](/handbook/marketing/developer-relations/developer-evangelism/#-team-calendar)).
 
 - [Developer Relations Team](https://calendar.google.com/calendar/u/0?cid=Y190M2JhY2k5MnFoYnJmYTMyMDdpZHZwdnYwMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 - [Community Events](https://calendar.google.com/calendar/b/1?cid=Z2l0bGFiLmNvbV85MHQ1dWUxcThrYmpvcTViMHI5MW51N3J2Y0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-- [Developer Evangelism Team](/handbook/marketing/developer-relations/developer-evangelism/#-calendar)
+- [Developer Advocate Team](/handbook/marketing/developer-relations/developer-evangelism/#-calendar)
 
 ### Developer Relations OKRs
 

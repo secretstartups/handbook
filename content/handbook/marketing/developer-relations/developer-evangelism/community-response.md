@@ -1,6 +1,6 @@
 ---
 
-title: "Developer Evangelism Community Response Process"
+title: "Developer Advocacy Community Response Process"
 ---
 
 
@@ -9,23 +9,23 @@ title: "Developer Evangelism Community Response Process"
 
 
 
-## How to engage Developer Evangelism in community response
+## How to engage developer advocates in community response
 
-Given the Developer Evangelism team's familiarity with our community and broad knowledge of GitLab, we regularly engage in managing situations that require GitLab to address urgent and important concerns of our community members.
+Given the developer advocacy team's familiarity with our community and broad knowledge of GitLab, we regularly engage in managing situations that require GitLab to address urgent and important concerns of our community members.
 
 Our team uses the [Community response board](https://gitlab.com/groups/gitlab-com/-/boards/2727876?&label_name[]=Community%20response) to organize tasks.
 
 ### Notification
 
-* **Upcoming announcement:** To notify the Developer Evangelism team of an upcoming announcement, product change, or other news event that may elicit a response from our community, the DRI should comment to `@johncoghlan` in a relevant issue or notify the Developer Evangelism team in the [#dev-evangelism-and-technical-marketing Slack channel](https://gitlab.slack.com/archives/CMELFQS4B). Please also apply the `~Community Interest` and `~Community response` labels to any relevant issues or epics related to this announcement. 
-* **In-progress situation:** To notify the Developer Evangelism team of an urgent situation that is in-progress, please tag the `@dev-evangelism` User Group in a Slack message in a Slack thread or channel where the situation is being discussed or the [#dev-evangelism-and-technical-marketing Slack channel](https://gitlab.slack.com/archives/CMELFQS4B).
-* Please give the Developer Evangelism team as much notice as possible so we can help influence the messaging of the announcement, prepare responses for the community, and schedule coverage. See **Scheduling** below for more details.
+* **Upcoming announcement:** To notify the developer advocacy team of an upcoming announcement, product change, or other news event that may elicit a response from our community, the DRI should comment to `@johncoghlan` in a relevant issue or notify the developer advocacy team in the [#dev-evangelism-and-technical-marketing Slack channel](https://gitlab.slack.com/archives/CMELFQS4B). Please also apply the `~Community Interest` and `~Community response` labels to any relevant issues or epics related to this announcement. 
+* **In-progress situation:** To notify the developer advocacy team of an urgent situation that is in-progress, please tag the `@dev-evangelism` User Group in a Slack message in a Slack thread or channel where the situation is being discussed or the [#dev-evangelism-and-technical-marketing Slack channel](https://gitlab.slack.com/archives/CMELFQS4B).
+* Please give the developer advocacy team as much notice as possible so we can help influence the messaging of the announcement, prepare responses for the community, and schedule coverage. See **Scheduling** below for more details.
 * Please add the `Community response` label to related issues, epics and MRs. Our team owns the label for the [gitlab-com](https://gitlab.com/groups/gitlab-com/-/labels?search=community+response) and [gitlab-org](https://gitlab.com/groups/gitlab-org/-/labels?search=community+response) groups. You can use this quick action: `/label ~"dev-evangelism" ~"Community response"` to apply the labels. 
 
 ### Preparation 
 
-* In alignment with GitLab's [efficiency value](/handbook/values/#efficiency), the Developer Evangelism will work with the [Directly Responsible Individuals (DRIs)](/handbook/people-group/directly-responsible-individuals/) for the community response situation to help the DRI and other experts directly address the community feedback and questions. 
-* When possible, the Developer Evangelism team will typically collaborate with the DRIs on a list of expected questions/concerns from the community and draft responses. When available, we also include materials prepared for media responses, customer responses, or other materials related to the situation in our response preparation. 
+* In alignment with GitLab's [efficiency value](/handbook/values/#efficiency), the developer advocates will work with the [Directly Responsible Individuals (DRIs)](/handbook/people-group/directly-responsible-individuals/) for the community response situation to help the DRI and other experts directly address the community feedback and questions. 
+* When possible, the developer advocacy team will typically collaborate with the DRIs on a list of expected questions/concerns from the community and draft responses. When available, we also include materials prepared for media responses, customer responses, or other materials related to the situation in our response preparation. 
 * For high-priority announcements and news, we will conduct a practice exercise alongside the DRIs to test our preparation. 
 * In many cases, we will want to direct the community to share their feedback in the GitLab Forum. By preparing a post that we can link to from a blog post, announcement, or community response will streamline how we gather feedback feedback and manage responses. This post should be created by a Forum admin in advance as a private post which is published at the time of the announcement. 
   * _Note: when a forum post is used for feedback, consider turning off comments on the blog to encourage discussion on the forum._
@@ -59,9 +59,9 @@ Tip: If the blog post URL is not ready yet, create an empty forum topic, and add
 ### Scheduling
 
 * If a response is expected to require monitoring and responses outside of our normal working hours (typically Monday - Friday, 900 UTC - 2200 UTC), please inform our team with as much notice as possible so we can schedule coverage accordingly. 
-* Developer Evangelism team members who cover situations outside of their normal working hours are strongly encouraged to offset the extra time by scheduling time off in the days/weeks before or after the situation. 
+* Developer Advocacy team members who cover situations outside of their normal working hours are strongly encouraged to offset the extra time by scheduling time off in the days/weeks before or after the situation. 
 * Scheduling should be coordinated with the DRI and tracked in a spreadsheet. Collaboration with the social media team and other teams may be required depending on the amount of coverage required. 
-* Developer Evangelists should always be prepared to respond to the release post on release day given the historical performance of release posts on Hacker News. 
+* Developer Advocates should always be prepared to respond to the release post on release day given the historical performance of release posts on Hacker News. 
 
 ### Monitoring 
 
@@ -102,9 +102,9 @@ Contact the PM or other appropriate DRI in a public Slack channel whenever possi
 
 Review these additional steps:
 
-* If necessary, the Developer Evangelists will provide responses to community questions and concerns on the GitLab Forum, Hacker News, and other forums. 
+* If necessary, the Developer Advocates will provide responses to community questions and concerns on the GitLab Forum, Hacker News, and other forums. 
 * If a post about GitLab reaches the front page of Hacker News, we may use a Zoom room and Google Doc to collaborate on responses in synchrously. We will link to the Zoom room and Google Doc in the Slack thread or channel where the situation is being discussed or the [#dev-evangelism-and-technical-marketing Slack channel](https://gitlab.slack.com/archives/CMELFQS4B).
-* The Developer Evangelism team will rarely engage in responding on Twitter and other social media channels during these announcements and breaking news situations. Twitter, Facebook, and LinkedIn are primarily owned by the [Social Media team](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/) in these situations.  
+* The developer advocacy team will rarely engage in responding on Twitter and other social media channels during these announcements and breaking news situations. Twitter, Facebook, and LinkedIn are primarily owned by the [Social Media team](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/) in these situations.  
 * For situations where messaging is sensitive, we will rely on approved messaging from the [Corporate Communications team](/handbook/marketing/corporate-communications/) to create our responses. 
 
 #### Rapid Action Responses

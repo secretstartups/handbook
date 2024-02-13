@@ -152,7 +152,7 @@ Maintainers: [Michael Friedrich, @dnsmichi](https://about.gitlab.com/company/tea
 
 The [log4j-resources](https://gitlab.com/gitlab-de/log4j-resources) project provides a collection of resources to learn about, detect and mitigate the impact of the log4j vulnerability, more formally known as [CVE-2021-44228](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228).
 
-Maintainers: [Developer Evangelism team](/handbook/marketing/developer-relations/developer-evangelism/)
+Maintainers: [Developer Advocacy team](/handbook/marketing/developer-relations/developer-evangelism/)
 
 ## Workshops
 
@@ -215,7 +215,7 @@ Published: 2021.
 [![](https://img.youtube.com/vi/id9klDUrGN8/0.jpg)](https://www.youtube.com/watch?v=id9klDUrGN8 "TalentQL Pipeline workshop in October 2021")
 [![](https://img.youtube.com/vi/kTNfi5z6Uvk/0.jpg)](https://www.youtube.com/watch?v=kTNfi5z6Uvk "1. Swiss Meetup 2021 in January")
 
-Recordings of past workshops and other videos from the Developer Evangelism team can be found on our [team playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq-bYO9jCJaN45BBpzWSLAQ) on GitLab Unfiltered.
+Recordings of past workshops and other videos from the Developer Advocacy team can be found on our [team playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq-bYO9jCJaN45BBpzWSLAQ) on GitLab Unfiltered.
 
 ### Past Meetup Workshops
 
@@ -263,7 +263,7 @@ Recording:
 
 ## OSS Projects
 
-The Developer Evangelism team maintains [OSS projects](/handbook/marketing/developer-relations/developer-evangelism/oss-contributions/) as part of community activities.
+The Developer Advocate team maintains [OSS projects](/handbook/marketing/developer-relations/developer-evangelism/oss-contributions/) as part of community activities.
 
 ### CodeChallenge.dev
 
@@ -282,11 +282,11 @@ Project: [codechallenge](https://gitlab.com/gitlab-de/codechallenge)
 </figure>
 
 
-### Evangelist Dashboards
+### Advocate Dashboards
 
 Maintainer: [Abubakar Siddiq Ango](/handbook/company/team/#abuango)
 
-The dashboard is the SSoT to collect all metrics for the Developer Evangelism, and Education Evangelism teams. This includes Twitter, CFPs, YouTube/Google Analytics, etc. Next to the dashboard component, the data component ensures to collect all data from different APIs and sources, and [gets deployed to GitLab Pages](https://gitlab-de.gitlab.io/dashboards/).
+The dashboard is the SSoT to collect all metrics for the Developer Advocate. This includes Twitter, CFPs, YouTube/Google Analytics, etc. Next to the dashboard component, the data component ensures to collect all data from different APIs and sources, and [gets deployed to GitLab Pages](https://gitlab-de.gitlab.io/dashboards/).
 
 Project: [Dashboards](https://gitlab.com/gitlab-de/dashboards)
 
@@ -297,16 +297,16 @@ Maintainer: [Abubakar Siddiq Ango](/handbook/company/team/#abuango)
 This bot aims to automate the team tasks such as:
 
 * Create [release evangelism](/handbook/marketing/developer-relations/developer-evangelism/social-media/#release-evangelism) issues for team members.
-* Triage issues following the [Developer Evangelism workflows](/handbook/marketing/developer-relations/developer-evangelism/workflow/).
+* Triage issues following the [Developer Advocate workflows](/handbook/marketing/developer-relations/developer-evangelism/workflow/).
 * Generate an issue letter (created, closed, open CFPs) on every Monday.
 
 Project: [DE Bot](https://gitlab.com/gitlab-com/marketing/corporate_marketing/developer-evangelism/code/de-bot)
 
-### Developer Evangelism Dashboard
+### Developer Advocate Dashboard
 
 Maintainer: [Abubakar Siddiq Ango](/handbook/company/team/#abuango)
 
-This [custom dashboard](https://gitlab-com.gitlab.io/marketing/corporate_marketing/developer-evangelism/code/de-dashboard/) is built using [GitLab Pages](https://about.gitlab.com/stages-devops-lifecycle/pages/) and presents an overview of Developer Evangelism issues. The requests are synced in a specified interval.
+This [custom dashboard](https://gitlab-com.gitlab.io/marketing/corporate_marketing/developer-evangelism/code/de-dashboard/) is built using [GitLab Pages](https://about.gitlab.com/stages-devops-lifecycle/pages/) and presents an overview of Developer Advocate issues. The requests are synced in a specified interval.
 
 Project: [DE Dashboard](https://gitlab.com/gitlab-com/marketing/corporate_marketing/technical-evangelism/code/de-dashboard)
 
@@ -323,7 +323,7 @@ Project: [YouTube2Sheets](https://gitlab.com/gitlab-com/marketing/corporate_mark
 
 Maintainer: [Abubakar Siddiq Ango](/handbook/company/team/#abuango)
 
-The Developer Evangelism Team at GitLab tracks events happening across the industry for attendance, speaking engagements, or just to keep them on the radar. This is also a major need across the industry. The Events project aims to provide an open and collaborative place where members of the wider GitLab community can add and track events happening in the industry.
+The Developer Advocate Team at GitLab tracks events happening across the industry for attendance, speaking engagements, or just to keep them on the radar. This is also a major need across the industry. The Events project aims to provide an open and collaborative place where members of the wider GitLab community can add and track events happening in the industry.
 
 Project: [DE Events Project](https://gitlab.com/gitlab-de/events)
 
@@ -340,7 +340,7 @@ The coffee chats are organized as [meetup.com group events](https://www.meetup.c
 * Do pair programming/debugging sessions.
 * Start discussions and share ideas on the latest technology.
 
-The sessions are hosted by Michael Friedrich. Developer Evangelism team members are assigned as alternative hosts in Zoom. The meetups are hosted in Zoom with a waiting room as default, the Zoom URL is hidden in the meetup group event. team members can access the URL in the [Developer Evangelism team calendar](/handbook/marketing/developer-relations/developer-evangelism/). For joining the group, users need a profile picture and provide their name for joining an event. This is to protect against Zoom bombing and otherwise harmful intentions.
+The sessions are hosted by Michael Friedrich. Developer Advocate team members are assigned as alternative hosts in Zoom. The meetups are hosted in Zoom with a waiting room as default, the Zoom URL is hidden in the meetup group event. team members can access the URL in the [Developer Advocate team calendar](/handbook/marketing/developer-relations/developer-evangelism/). For joining the group, users need a profile picture and provide their name for joining an event. This is to protect against Zoom bombing and otherwise harmful intentions.
 
 Next to Zoom, everyone can hangout with text or audio in [Discord](https://everyonecancontribute.com/page/handbook/#discord).
 

@@ -79,7 +79,7 @@ For more info on the capabilities of each role, [see the knowledge base article]
 | Field Marketing | `Author` (select users), `Viewer` (select users) | Upload content from virtual workshops, clone existing workshop tracks for use in follow-up emails, view content performance |
 | Account-Based Marketing | `Author` | Add content, create and edit content tracks for use in campaigns |
 | Customer Reference Programs | `Author` | Upload new case studies and customer content |
-| Developer Evangelism | `Author` | Upload new technical content |
+| Developer Adbo | `Author` | Upload new technical content |
 | Sales Development Representative (SDR) | `Sales user` (PathFactory for Sales only) | PathFactory for Sales (SFDC) |
 | All Remote | `Author` | Upload new all remote content, create and edit content tracks for use in all-remote campaigns |
 | Partner Marketing | `Author` (select users) | View content library, create and clone content tracks for partners, reporting |

@@ -11,7 +11,7 @@ title: "Auxiliary Solution Resource: Continuous Delivery"
 
 #### Who to contact
 
-| Product Marketing | Technical Marketing |
+| Product Marketing | Developer Advocate |
 | ---- | --- |
 | Daniel Hom (@danielhom) | Cesar Saavedra ( @csaavedra1 ) |
 

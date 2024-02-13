@@ -1,12 +1,12 @@
 ---
 
-title: "Developer Evangelism CFPs"
+title: "Developer Advocacy CFPs"
 ---
 
 
 ## CFP Resources
 
-Event call for paper submission forms differ: Some require 1000 character abstracts, others prefer shorter biographies, or require you to fill in the talk learning goals. The Developer Evangelism team uses Google docs for maintaining CFP abstracts, @dnsmichi also uses a doc for the biography and headshot URLs as SSoT. 
+Event call for paper submission forms differ: Some require 1000 character abstracts, others prefer shorter biographies, or require you to fill in the talk learning goals. The Developer Advocacy team uses Google docs for maintaining CFP abstracts, @dnsmichi also uses a doc for the biography and headshot URLs as SSoT. 
 
 - [CFP template Google doc](https://docs.google.com/document/d/1vF9i4ZaR1_u52r_vUcVls0uhQIi7gzG9WkQ6l369FU4/edit#).
 - [Biography template Google doc](https://docs.google.com/document/d/1e_Sk0OGpKjWbs8C3xrIk33cShvTgoqRO3r1aQApiB5M/edit)
@@ -15,9 +15,9 @@ Event call for paper submission forms differ: Some require 1000 character abstra
 
 ### Our events list
 
-Every year, developer evangelism prioritizes some key events in our ecosystem for which we run the conference proposal (CFP) process. 
+Every year, developer advocacy prioritizes some key events in our ecosystem for which we run the conference proposal (CFP) process. 
 
-- [FY24 - Developer Evangelism Event Strategy](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3538)
+- [FY24 - Developer Advocacy Event Strategy](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3538)
 
 The event engagement with lightning talks, CFP submissions, etc. is organized in issues which are linked and summarized in the strategy epic. You can also find a calendar view of our events below:
 
@@ -29,9 +29,9 @@ The event engagement with lightning talks, CFP submissions, etc. is organized in
 
 Past submissions for CFPs are stored in the [CFP Library](https://docs.google.com/spreadsheets/d/1KX8uf-4Ov8ybztJibQlGr9HvgH9VobpA8Nv5ecny1N4/edit#gid=0).
 
-## Requesting a Developer Evangelist to submit a CFP
+## Requesting a Developer Advocate to submit a CFP
 
-To request that a Developer Evangelist submits a CFP to your event, please:
+To request that a Developer Advocate submits a CFP to your event, please:
 
 1. [Open a new issue](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues/new?issuable_template=developer-evangelist-request) 
 1. Ensure you use the `developer-evangelist-request` template, and fill out the `External Request` section.

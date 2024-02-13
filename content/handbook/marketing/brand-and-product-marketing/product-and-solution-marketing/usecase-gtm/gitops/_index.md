@@ -11,7 +11,7 @@ title: "Auxiliary Solution Resource: GitOps"
 
 #### Who to contact
 
-| Product Marketing | Technical Marketing |
+| Product Marketing | Developer Advocate |
 | ---- | --- |
 | Daniel Hom (@danielhom) | @csaavedra1 |
 

@@ -53,7 +53,7 @@ When reporting on program activity, you may wish to include charts or graphs for
 
 ### Upcoming events
 
-The [GitLab Developer Evangelism calendar](/handbook/marketing/developer-relations/developer-evangelism/#-team-calendar) includes a list of our upcoming meetups, hackathons, office hours, and other community events. After opening the calendar, you can click on the `+` in the bottom right corner of the browser window to add `GitLab  Developer Evangelism` to your list of calendars in Google Calendar.
+The [GitLab Developer Advocate calendar](/handbook/marketing/developer-relations/developer-evangelism/#-team-calendar) includes a list of our upcoming meetups, hackathons, office hours, and other community events. After opening the calendar, you can click on the `+` in the bottom right corner of the browser window to add `GitLab Developer Evangelism` to your list of calendars in Google Calendar.
 
 ## Meetups
 
@@ -162,15 +162,15 @@ Heroes are eligible for rewards to help enable and encourage contributions. Thes
 - Support for travel to speak about GitLab at events
 - GitLab Ultimate licenses
 - Special Heroes swag so people know how awesome you are
-- Access to GitLab's product, engineering, and developer evangelism teams to help with reviews of talks and blog posts
+- Access to GitLab's product, engineering, and developer advocate teams to help with reviews of talks and blog posts
 
 We have three levels of Heroes: Contributor, Hero, Superhero. A community member's contributions will determine at which level they enter the program and the benefits for Heroes increase as they progress through the levels. More detail can be found in the [Hero's Journey](/community/heroes/#heroes-journey) section of the Hero's page.
 
 Community members who are interested in applying for the Heroes program should apply through the [application form](/community/heroes/#apply) on the Heroes page.
 
-The Heroes program is managed by the Evangelist Program Manager with support from the GitLab's Developer Evangelism team. The Evangelist Program Manager leads the review of applications along with the Developer Evangelism team. The Evangelist Program Manager also serves as the main point of contact with the Heroes community, manages Heroes related marketing pages and events, and is responsible for the administration of the program including metrics and KPI tracking.
+The Heroes program is managed by the Evangelist Program Manager with support from the GitLab's Developer Advocate team. The Evangelist Program Manager leads the review of applications along with the Developer Advocate team. The Evangelist Program Manager also serves as the main point of contact with the Heroes community, manages Heroes related marketing pages and events, and is responsible for the administration of the program including metrics and KPI tracking.
 
-Select Heroes may be asked to join the GitLab Developer Evangelism Community. At that point, those community members will be supported by and engage with the Developer Evangelism team.
+Select Heroes may be asked to join the GitLab Developer Adocate Community. At that point, those community members will be supported by and engage with the Developer Advocate team.
 
 Please email us at `evangelists@gitlab.com` if you have questions about the GitLab Heroes program.
 
@@ -519,7 +519,7 @@ GitLab must collect a signed `Media Consent and Release Form` before their conte
 
 ## Evangelist Program Office Hours
 
-Join GitLab developer evangelists and community program managers as they host Community Program office hours. Office hours will begin May 10, 2022, via Zoom every other Tuesday at 10:30 - 11:10 AM ET - excluding holidays. They want to answer all things pertaining to contributions, release features, hackathons, meetups, events, and more. The team wants to connect with you all. Find the meeting information on the [Community Events](<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NTEzZGhmMWpiOWg0cjBmcXJydTZuc202MzAgZ2l0bGFiLmNvbV9ldGE3bzR0bjRidG44aDBmOGVpZDVxOThyb0Bn&amp;tmsrc=gitlab.com_eta7o4tn4btn8h0f8eid5q98ro%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>) calendar and our [meetup group](https://www.meetup.com/gitlab-virtual-meetups/).
+Join GitLab Developer Advocates and community program managers as they host Community Program office hours. Office hours will begin May 10, 2022, via Zoom every other Tuesday at 10:30 - 11:10 AM ET - excluding holidays. They want to answer all things pertaining to contributions, release features, hackathons, meetups, events, and more. The team wants to connect with you all. Find the meeting information on the [Community Events](<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NTEzZGhmMWpiOWg0cjBmcXJydTZuc202MzAgZ2l0bGFiLmNvbV9ldGE3bzR0bjRidG44aDBmOGVpZDVxOThyb0Bn&amp;tmsrc=gitlab.com_eta7o4tn4btn8h0f8eid5q98ro%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>) calendar and our [meetup group](https://www.meetup.com/gitlab-virtual-meetups/).
 
 ## Helpful Resources
 

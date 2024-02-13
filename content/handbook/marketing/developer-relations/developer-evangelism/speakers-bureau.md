@@ -90,7 +90,7 @@ When adding yourself to the Speakers Bureau, you may get a linting error in the 
 
 ## Speaker Enablement
 
-The Developer Evangelism team provides support to new and experienced speakers where necessary. These can range from presentation review, CFP ideation, or dry-run. [Learn more](/handbook/marketing/developer-relations/developer-evangelism/speaker-enablement/) about the different resources and activities you can benefit from or drop a message in the [#dev-evangelism-and-technical-marketing Slack channel](https://gitlab.slack.com/archives/CMELFQS4B) if you need direct support.
+The Developer Advocate team provides support to new and experienced speakers where necessary. These can range from presentation review, CFP ideation, or dry-run. [Learn more](/handbook/marketing/developer-relations/developer-evangelism/speaker-enablement/) about the different resources and activities you can benefit from or drop a message in the [#dev-evangelism-and-technical-marketing Slack channel](https://gitlab.slack.com/archives/CMELFQS4B) if you need direct support.
 
 ## Speaking at Events
 

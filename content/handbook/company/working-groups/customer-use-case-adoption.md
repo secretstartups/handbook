@@ -49,7 +49,7 @@ Note that these goals are aspirational so we set a high bar (and potentially ach
 | Functional Lead - Marketing                  | Dan Hom                       | Product Marketing Manager                                  |
 | Functional Lead - Product                    | Jackie Porter                 | Director, Product Management                               |
 | Functional Lead - Professional Services      | Kevin Lake                    | VP of Professional Services                                |
-| Functional Lead - Developer Relations        | Michael Friedrich             | Senior Developer Evangelist                                |
+| Functional Lead - Developer Relations        | Michael Friedrich             | Senior Developer Advocate                                |
 | Functional Lead - CI Adoption Data           | Michael Arntz                 | Sales Strategy Manager                                     |
 | Functional Lead - Enterprise Data            | Israel Weeks                  | Director, Data and Analytics                               |
 | Member - Chief of Staff Team (CoST)          | Marshall Cottrell             | Principal Strategy and Operations                          |

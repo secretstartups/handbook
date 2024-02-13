@@ -139,11 +139,11 @@ In the event that a media member, editor, or publisher offers a draft or preview
 
 #### Invited to Speak
 
-If you are asked to speak on behalf of GitLab at an event, on a webinar or at a Meetup (and you are not already a member of the [GitLab speakers bureau](/speakers/)), please reach out to the Corporate Communications and Developer Evangelist teams to ensure that the opportunity aligns with GitLab objectives and key narratives. Inquiries should be initiated in the `#external-comms` Slack channel before you accept the speaking invitation. Please allow 5 business days for evaluation. Opening an issue under Corporate Marketing to further collaborate on the opportunity may be requested.
+If you are asked to speak on behalf of GitLab at an event, on a webinar or at a Meetup (and you are not already a member of the [GitLab speakers bureau](/speakers/)), please reach out to the Corporate Communications and Developer Advocacy teams to ensure that the opportunity aligns with GitLab objectives and key narratives. Inquiries should be initiated in the `#external-comms` Slack channel before you accept the speaking invitation. Please allow 5 business days for evaluation. Opening an issue under Corporate Marketing to further collaborate on the opportunity may be requested.
 
 #### Submitting to Speak
 
-If you are planning to submit an event CFP or request to participate as a speaker for a webinar or Meetup (and you are not already a member of the [GitLab speakers bureau](/speakers/)), please ensure the opportunity aligns with GitLab objectives and key narratives. If you are unsure, please reach out to the Corporate Communications and Developer Evangelist teams. If accepted to speak, please take the training “Best practices for public speaking,” notify the Corporate Communications and Developer Evangelist teams via the `#cfp` Slack channel w/link to the accompanying issue and ensure the teams have 7-10 business days to review your final presentations.
+If you are planning to submit an event CFP or request to participate as a speaker for a webinar or Meetup (and you are not already a member of the [GitLab speakers bureau](/speakers/)), please ensure the opportunity aligns with GitLab objectives and key narratives. If you are unsure, please reach out to the Corporate Communications and Developer Advocacy teams. If accepted to speak, please take the training “Best practices for public speaking,” notify the Corporate Communications and Developer Advocacy teams via the `#cfp` Slack channel w/link to the accompanying issue and ensure the teams have 7-10 business days to review your final presentations.
 
 #### E-Group External Communications Request
 

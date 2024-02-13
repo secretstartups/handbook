@@ -11,7 +11,7 @@ title: "Writing Successful Conference Proposals"
 
 Writing good conference proposals is both an art and a science. The science is the details of the technical content. The art is presenting it in a way that appeals to the audience - the conference committee. 
 
-If you are planning to speak at a conference of 500 people or more, feel free to create an issue and request help from the Developer Evangelism team. 
+If you are planning to speak at a conference of 500 people or more, feel free to create an issue and request help from the Developer Advocate team. 
 
 Here are some steps to go through when writing a CFP:
 1. **Research the conference**: Read through the conference website in detail, especially the talk proposal pages. As you go through, notice the key topics and reoccurring themes throughout the material. 
