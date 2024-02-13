@@ -133,7 +133,7 @@ Please keep in mind:
 
 In the event that a renewal process takes longer then intended (e.g. customer takes longer than average to sign renewal deal), customers run into a problem when their license expires at the subscription term end and they lose complete access to their GitLab instance (Self-managed or SaaS).
 
-Temporary Renewal Extension is an internal feature built in SFDC, and is accessible from a Renewal Opportunity. It enables any Sales Rep to generate the extension on their own, without contacting Support. Extension can be generated 1-15 days before subscription end date, with a default expiration date of 21 days after subscription end date (followed by the [grace period of 14 days](https://docs.gitlab.com/ee/subscriptions/self_managed/#subscription-expiry)).
+Temporary Renewal Extension is an internal feature built in SFDC, and is accessible from a Renewal Opportunity. It enables any Sales Rep to generate the extension on their own, without contacting Support. Extension can be generated 1-15 days before subscription end date or 1-13 days after subscription end date, with a default expiration date of 21 days after subscription end date (followed by the [grace period of 14 days](https://docs.gitlab.com/ee/subscriptions/self_managed/#subscription-expiry)).
 
 Additional context about this feature can be found [here](https://gitlab.com/groups/gitlab-org/-/epics/10173), including a [visual timeline](https://gitlab.com/groups/gitlab-org/-/epics/10173#timeline-of-events) of subscription events related to the temporary renewal extensions.
 
@@ -181,7 +181,7 @@ Once subscription is renewed, the `Access temporarily extended until YYYY-MM-DD`
 
 | Error | Description |
 |---------|-----------|
-| Request date is not within the allowable range of 15 days prior to subscription term end date | Temporary extension must be created 1-15 days before subscription end date. |
+| Temporary extension can be requested 15 days prior to subscription expiry up until 13 days after subscription expiry | Temporary extension must be created 15 days before subscription end date or up to 13 days after subscription end date. |
 | Subscription has already availed an extension in the current renewal term | There can only be one 21-day temporary extension per renewal. No additional extensions are allowed. |
 | Subscription has an upcoming extension starting on YYYY-MM-DD | There is an existing temporary extension for the renewal, which hasn't started yet. |
 | Customer account labeled as having bad debt | Billing team has identified this account as having bad debt. You will see either of these fields populated on the Zuora Billing Account: `Support hold`, `Credit hold`. |
