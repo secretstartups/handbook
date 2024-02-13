@@ -219,6 +219,8 @@ Executives shift their focus to finalizing OKRs to their team.
 
 This is also the opportunity to create team OKRs in GitLab and add them to the relevant CEO and executive OKR.
 
+Through the quarter, regular updates by the relevant DRI for CEO KRs are expected ahead of [E-group monthly touchpoint meetings]({{< relref "../offsite/_index.md#monthly-touch-point-meetings" >}}). Exact dates for when updates are due are shared in the `#okrs` Slack channel with reminders set 7 days and 1 day before the due date.
+
 ### Dependency Commitments
 
 Top level dependencies should be identified in the [OKR Draft Review Meeting](#okr-draft-review-meeting), but it is likely that additional dependencies will be identified as OKRs cascade. We want to avoid situations where big asks are coming weeks into the quarter, or teams are being committed to doing work without first having input. This makes it difficult for teams to manage their own priorities and succeed in their own initiatives.
