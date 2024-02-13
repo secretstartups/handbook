@@ -67,7 +67,7 @@ We [assume positive intent](/handbook/values/#assume-positive-intent) and use ou
 | ...meets the [definition of Severity 1](https://about.gitlab.com/support/definitions/#severity-1), | `General::Emergency::Strict Definition` | ...your plan to work the emergency. |
 | ...qualifies under one of our [exception criteria](/handbook/support/workflows/emergency_exception_workflow#exception-criteria), | `General::Emergency::Exception` | ...that the situation is being treated as an emergency as a courtesy. |
 | ...needs more information to allow us to determine whether it qualifies as an emergency, | `General::Emergency::Needs more info` | ...that you [will proceed asynchronously](#communicating-that-you-need-more-info) until that determination can be made. |
-| ...does not meet the criteria for an [emergency](https://about.gitlab.com/support/definitions/#severity-1) or an [exception](/handbook/support/workflows/emergency_exception_workflow#exception-criteria), | `General::Emergency::Not an Emergency` | ...that their situation [does not qualify for emergency service](#communicate-the-priority-downgrade). |
+| ...does not meet the criteria for an [emergency](https://about.gitlab.com/support/definitions/#severity-1) or an [exception](/handbook/support/workflows/emergency_exception_workflow#exception-criteria), | `General::Emergency::Not an Emergency` and `Downgrade emergency ticket` | ...that their situation does not qualify for emergency service. Follow the section [Handling an emergency downgrade](#handling-an-emergency-downgrade). |
 
 #### Communicating that you need more info
 
@@ -85,15 +85,20 @@ Once you have enough information to make a determination, use one of the other m
 
 #### Handling an emergency downgrade
 
-##### Change the ticket priority
+##### Apply "Downgrade emergency ticket" macro
 
-Using our [Definitions of support impact](https://about.gitlab.com/support/definitions/#definitions-of-support-impact),
-select the most appropriate actual priority for the ticket, and make the change
-to the ticket. If the customer submitted the emergency request related to an
-existing ticket, close the emergency ticket when you deliver the downgrade
-message, and be sure the existing ticket has the priority you selected.
+Applying the macro will lead to the following changes:
+- Form will be set to Self-Managed.
+- Priority will be set to High.
+- Ticket stage will be set to NRT.
 
-##### Communicate the priority downgrade
+Adjust the form depending on the ticket type and set the priority based on our
+[Definitions of support impact](https://about.gitlab.com/support/definitions/#definitions-of-support-impact).
+If the customer submitted the emergency request related to an existing ticket,
+close the emergency ticket when you deliver the downgrade message,
+and be sure the existing ticket has the priority you selected.
+
+##### Communicate the emergency downgrade
 
 It's important that we deliver the downgrade message as carefully and
 thoughtfully as possible. Customers who submit an emergency request are often
