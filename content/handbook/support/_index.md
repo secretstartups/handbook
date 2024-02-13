@@ -112,7 +112,7 @@ This simple list helps to give an easy way to set expectations and align problem
 
 We use [Key Performance Indicators](/handbook/support/performance-indicators/) (KPIs) to keep track of how well each Engineering Department is doing, including the Support team, as a whole.
 
-The KPI measurements can be found under the `Reporting` tab in Zendesk if you have the appropriate access, but progress on meeting these KPIs is also tracked via the aforementioned KPI link and visually through reports in the [Support KPIs Dashboard](https://app.periscopedata.com/app/gitlab/421422/).
+The KPI measurements can be found under the `Reporting` tab in Zendesk if you have the appropriate access, but progress on meeting these KPIs is also tracked via the aforementioned KPI link.
 
 We review these KPIs weekly in the [Support Week-in-Review](/handbook/support/#support-week-in-review).
 
