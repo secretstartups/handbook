@@ -27,17 +27,17 @@ The Q2C systems consists of Salesforce, Zuora (CPQ, 360, Billing, Revenue), Cust
 
 ### Salesforce
 - Salesforce is used as our CRM tool for managing customer Leads, Contacts, Accounts, Opportunities and Quotes.
-- Salesforce is owned by the [Sales Systems](/handbook/sales/field-operations/sales-systems/) team at GitLab, and implements changes from the process owners.
+- Salesforce is owned by the [Enterprise Applications](/handbook/business-technology/enterprise-applications/) team at GitLab, and implements changes from the process owners.
 - The [Quoting process](/handbook/sales/field-operations/order-processing/#quote-configuration) itself is owned by the [Deal Desk team](/handbook/sales/field-operations/sales-operations/deal-desk/).
 
 ### Zuora CPQ
 - Zuora CPQ is our Configure, Price, Quote tool used for Sales Assisted deals
-- Zuora CPQ is a managed package in Salesforce that has been extended for Quote Approvals by [Sales Systems](/handbook/sales/field-operations/sales-systems/)
+- Zuora CPQ is a managed package in Salesforce that has been extended for Quote Approvals by [Enterprise Applications](/handbook/business-technology/enterprise-applications/)
 - The [Quote Approval process](/handbook/sales/field-operations/order-processing/#standard-quote-approval) itself is owned by the [Deal Desk team](/handbook/sales/field-operations/sales-operations/deal-desk/).
 
 ### Zuora 360
 - Zuora 360 is a stock connector between Zuora and Salesforce, is transfers Zuora subscription information to Salesforce.
-- Zuora 360 the job is owned by [Enterprise Applications](/handbook/business-technology/enterprise-applications/), the extension of Zuora Subscription data in Salesforce for Add-ons and Renewals deal is owned by [Sales Systems](/handbook/sales/field-operations/sales-systems/).
+- Zuora 360 the job is owned by [Enterprise Applications](/handbook/business-technology/enterprise-applications/), the extension of Zuora Subscription data in Salesforce for Add-ons and Renewals deal is also owned by [Enterprise Applications](/handbook/business-technology/enterprise-applications/).
 - The [Add-On](/handbook/sales/field-operations/sales-operations/deal-desk/#amend-subscription-quote) and [Renewal](/handbook/sales/field-operations/sales-operations/deal-desk/#renew-subscription-quote) processes are owned by the [Deal Desk team](/handbook/sales/field-operations/sales-operations/deal-desk/).
 
 ### Zuora Billing
