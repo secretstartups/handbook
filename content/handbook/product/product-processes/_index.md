@@ -806,7 +806,7 @@ To track hard adoption blockers, use the ~"GitLab.com Enterprise Readiness" labe
 
 #### SaaS Features
 
-There are a few special considerations when it comes to delivering features for SaaS. In order to achieve [parity between SaaS and Self-managed installations](/handbook/product/product-principles/#parity-between-saas-and-self-managed-deployments) PMs should prioritize efforts to eliminate existing feature gaps that exist [across the two installations](/features/). Additionally, new features should ship for SaaS and self-managed at the same time. Features should be implemented at the group level first, before being implemented at the instance level, so that they will work across [both self-managed and SaaS](https://about.gitlab.com/direction/manage/#gitlabcom). Finally, in order for new features to be adequately monitored, they should include [appropriate logging and observability](https://gitlab.com/gitlab-com/gl-infra/readiness/blob/master/.gitlab/issue_templates/production_readiness.md#monitoring-and-alerts), which makes troubleshooting much easier.
+There are a few special considerations when it comes to delivering features for SaaS. In order to achieve [parity between SaaS and Self-managed installations](/handbook/product/product-principles/#parity-between-saas-and-self-managed-deployments) PMs should prioritize efforts to eliminate existing feature gaps that exist [across the two installations](https://about.gitlab.com/features/). Additionally, new features should ship for SaaS and self-managed at the same time. Features should be implemented at the group level first, before being implemented at the instance level, so that they will work across [both self-managed and SaaS](https://about.gitlab.com/direction/manage/#gitlabcom). Finally, in order for new features to be adequately monitored, they should include [appropriate logging and observability](https://gitlab.com/gitlab-com/gl-infra/readiness/blob/master/.gitlab/issue_templates/production_readiness.md#monitoring-and-alerts), which makes troubleshooting much easier.
 
 ### Working with Your Group
 
@@ -1133,7 +1133,7 @@ Creating a thoughtful direction for your section, stage, or category is a useful
 Documenting a Section, Stage, Group and Category direction is critical to communicating where we are heading and why to all of our stakeholders. This is especially important to the members of your Product Group. Establishing a direction for stakeholders (including team members) to participate in, and contribute to ensures there is a concrete connection to "Why" we are iterating and how it furthers [GitLab's mission](/handbook/company/mission/#mission). Here are some of those connections:
 
 - Improving Product Performance Indicators - Usage represents market capture (whether paying or not), and the start of our dual fly-wheel. For existing customers that market capture in new capabilities also represents increased retention and because of the benefits of a single application - user satisfaction.
-- Improving Competitiveness against [alternative DevOps tools](/competition/) - Leads to increased Stages Per user, and sales as they add to our "Increase Operational Efficiency"
+- Improving Competitiveness against [alternative DevOps tools](https://about.gitlab.com/why-gitlab/) - Leads to increased Stages Per user, and sales as they add to our "Increase Operational Efficiency"
 
 As a Product Manager you can highlight these connections in:
 
@@ -1297,7 +1297,7 @@ We recently [conducted a GTM and R&D sensing mechanism survey](https://gitlab.co
 ###### Market
 
 1. Maintaining [competitive](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/competitive-intelligence/) and [market assessments](#analyst-engagement). Checkout this [great video](https://www.youtube.com/watch?v=Um9teDD6jt8&feature=youtu.be&t=300) discussing competitive analysis for Product Managers at Product League with GitLab's Orit Golowinski.
-1. Monitoring and maintaining missing [features](/features/) in your category epics (competitive landscape section)
+1. Monitoring and maintaining missing [features](https://about.gitlab.com/features/) in your category epics (competitive landscape section)
 1. Monitoring and maintaining the [direction](https://about.gitlab.com/direction/) page for the categories you own
 1. Subscribing to your competitor's blogs to be aware of what they are releasing will help you here
 1. Reviewing relevant [analyst reports](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/#accessing-analyst-reports)
@@ -2014,7 +2014,7 @@ There are a few questions a Product Manager should ask when thinking about their
 - What are the costs associated with my product area? What is the impact on the margin for each tier of GitLab.com?
     - Consider network, compute, and storage costs
 - Are there tools in place to help GitLab, Inc and self-managed admins optimize the cost footprint for running GitLab (e.g. node rebalancing, transitioning objects to less costly storage classes, garbage collection capabilities)
-- Are there features and default settings that help users stay within their [CI and Storage limits](/pricing/)?
+- Are there features and default settings that help users stay within their [CI and Storage limits](https://about.gitlab.com/pricing/)?
 - Are there configurable [application limits](/handbook/product/product-processes/#introducing-application-limits) in place for admins to enhance the availability and performance of GitLab and reduce [abuse vectors](/handbook/security/security-operations/trustandsafety/#examples-of-common-forms-of-abuse-include-but-are-not-limited-to)?
 - What is the experience of users when interacting with these features on GitLab.com? Is it fast and enjoyable?
 

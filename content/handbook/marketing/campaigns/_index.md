@@ -499,7 +499,7 @@ The below were campaigns run historically, and aligned to overall GTM. They have
 - [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/439)
 - [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/445)
 - [FigJam of campaign user journey](https://www.figma.com/file/BYZIoMhJzI4FvM4nXit9Ca/OctoCat-Campaign-Flows-Actual-Sizes_2023-09-11_19-03-47?type=whiteboard&t=elKOAakWTl8snIYW-1)
-- [Live landing page](/competition/github/)
+- [Live landing page](https://about.gitlab.com/competition/github/)
 - [Campaign brief](https://docs.google.com/document/d/1Mcy_0cwMsTPIxWUXPgoqw9ejsRJxaZBHi4NikYTabDY/edit#heading=h.kf9lglu57c0t)
 - [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001lmdK)
 
@@ -653,7 +653,7 @@ Optional: [Link to detailed persona & positioning doc>>]() - `to be added once c
 
 Note that regional and global activation can ebb and flow in these always-on campaigns. The campaigns team and digital marketing continually review campaign performance to invest $$ (aligned to regional pipeline goals) based on campaigns and channels that are performing.
 
-Organic: 
+Organic:
 * [ ] Email
 * [ ] Organic Social (LinkedIn, Facebook, Twitter)
 * [ ] Site Merchandising
