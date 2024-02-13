@@ -21,8 +21,6 @@ If this page serves it's purpose, Product Analysts should be able to visit this 
 
 - [Internal handbook performance indicators (PIs)](https://internal.gitlab.com/handbook/company/performance-indicators/) - This internal handbook page is a great place to understand the PIs for each Stage / Group to understand what results each team is trying to acheive.
 
-- [Sisense Usage Insights](https://app.periscopedata.com/app/gitlab/1013112/Sisense-Usage-Insights) is a Dashboard that provides a high level analysis of most commonly used Sisesnse Dashboards, Data Sources, and Snippets.
-
 - [Product categories handbook page](/handbook/product/categories/) contains a huge amount of helpful information and defines sections, stages, groups, and categories.
 
 - Need to quickly learn how a certain Stage/Group feature works? [GitLab Docs](https://docs.gitlab.com/)
@@ -33,7 +31,8 @@ If this page serves it's purpose, Product Analysts should be able to visit this 
 
 - [Definitive guides to data subject areas](/handbook/business-technology/data-team/data-catalog/#definitive-guides) managed by the Data team.
 
-- [Centralized SMAU/GMAU Dashboard](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard) contains CMAU, SMAU, and GMAU charts for each section, stage, and group.
+- [Centralized Metrics](https://10az.online.tableau.com/#/site/gitlab/workbooks/2069845/views): Key reporting dashboard for GitLab product usage metrics.
+
 
 - The [Technical Marketing handbook page](/handbook/marketing/developer-relations/technical-marketing/) contains links to product demos, webinars and release videos.
 
@@ -54,14 +53,7 @@ This Stage helps teams manage their software delivery lifecycle with metrics and
 
 **Top dashboards referenced by this team**
 
-- [Centralized SMAU/GMAU](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard)  Overall SMAU/GMAU dashboard primarily utilized by the Import Group
-
-- [Manage Stage Sisense Topics Page](https://app.periscopedata.com/app/gitlab/topic/Manage-Stage/ab937816bcd24c9291ceb7b6c5e30c49)  Overall Manage stage pinned dashboards for easy access
-
-- [Manage : Compliance](https://app.periscopedata.com/app/gitlab/663045/Manage:-Compliance-Dashboard)  Dashboard frequently used by the Compliance Group
-
-- [Manage : Optimize Feature Usage](https://app.periscopedata.com/app/gitlab/779829/Manage:Optimize-Feature-Usage)  Dashboard frequently used by the Optimize Group
-
+- [Centralized Metrics](https://10az.online.tableau.com/#/site/gitlab/workbooks/2069845/views): Key reporting dashboard for GitLab product usage metrics.
 
 **Important data documentation**
 
@@ -123,15 +115,17 @@ Enable teams to effectively plan and execute work in a single application. This 
 
 **Top dashboards referenced by this team**
 
-- [Plan xMAU (monthly)](https://app.periscopedata.com/app/gitlab/775807/Plan-xMAU-(monthly))  Overall Plan Stage xMAU dashboard
+- [Centralized Metrics](https://10az.online.tableau.com/#/site/gitlab/workbooks/2069845/views): Key reporting dashboard for GitLab product usage metrics.
 
-- [Centralized SMAU/GMAU](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard)  Most Group PMs on Plan utilize the Centralized SMAU/GMAU dashboard
+- [Plan stage .com events](https://10az.online.tableau.com/#/site/gitlab/workbooks/2325883/views)  Analyses dealing with Snowplow events tables
 
-- [Plan stage .com events](https://app.periscopedata.com/app/gitlab/654183/Plan-stage-.com-events)  Analyses dealing with Snowplow events tables
+- [Fulfillment:Platform PIs Dashboard](https://10az.online.tableau.com/#/site/gitlab/workbooks/2131145/views)
 
-- [Say Do Ratios](https://app.periscopedata.com/app/gitlab/658030/Say-Do-Ratios)  Primarily engineering analytics utilized for Plan Stage decision making
+- [Growth Section Analytics Hub](https://10az.online.tableau.com/#/site/gitlab/workbooks/2058563/views)
 
-- [Plan stage capacity planning](https://app.periscopedata.com/app/gitlab/587512/Plan-stage-capacity-planning)  Primarily engineering analytics utilized for Plan Stage decision making
+- [Code Suggestions](https://10az.online.tableau.com/#/site/gitlab/workbooks/2260169/views)
+
+- [Verify Performance Indicator Hub](https://10az.online.tableau.com/#/site/gitlab/views/VerifyPerformanceIndicatorDashboard/VerifyPerformanceIndicatorHub)
 
 **Important data documentation**
 
@@ -186,11 +180,9 @@ Create provides tools that support the beginning of the DevOps Life Cycle. Sourc
 
 **Top dashboards referenced by this team**
 
-- [Create - Code Review Topics page](https://app.periscopedata.com/app/gitlab/topic/Create---Code-Review/abb4786159ef4aa7abad4da4c21b0871)  Create : Code Review group specific pinned dashboards for easy access
 
-- [Code Review MAU Metrics](https://app.periscopedata.com/app/gitlab/786738/Code-Review-MAU-Metrics)  Used frequently by Create : Code Review Group
+- [Centralized Metrics](https://10az.online.tableau.com/#/site/gitlab/workbooks/2069845/views): Key reporting dashboard for GitLab product usage metrics.
 
-- [Editor Extension Category MAU Metrics](https://app.periscopedata.com/app/gitlab/825329/Editor-Extension-Category-MAU-Metrics)  Used frequently by Create : Code Review Group
 
 - [Performance indicators internal handbook page](https://internal.gitlab.com/handbook/company/performance-indicators/product/dev-section/)  The Create : Gitaly Group primarily uses the Performance Indicators Internal Handbook Page to guide decisions
 
@@ -254,15 +246,12 @@ Verify provides teams with tools that help facilitate continuous integration. Th
 
 **Top dashboards referenced by this team**
 
-- [Centralized SMAU / GMAU Dashboard](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard) This dashboard is a central place for all stages where their SMAU and GMAU metrics are housed for a high-level overview.
+- [Centralized Metrics](https://10az.online.tableau.com/#/site/gitlab/workbooks/2069845/views): Key reporting dashboard for GitLab product usage metrics.
 
-- [Ops Section Dashboard](https://app.periscopedata.com/app/gitlab/781120/Ops-Section-Dashboard) This is the central dashboard for all performance indicator metrics related to the Ops section.
 
-- [GitLab Runner SaaS Performance Indicator Metrics](https://app.periscopedata.com/app/gitlab/800667/GitLab-Runner-SaaS-performance-indicator-metrics)
+- [Verify Performance Indicator Dashboard](https://10az.online.tableau.com/#/site/gitlab/views/VerifyPerformanceIndicatorDashboard/VerifyGitLab_comPerformanceIndicators)
 
-- [Actions per Month Verify Stage Dashboard](https://app.periscopedata.com/app/gitlab/538594/Actions-Per-Month-Verify-Stage-Dashboard)
-
-- [Error Budget Dashboard](https://app.periscopedata.com/app/gitlab/892433/Error-Budget-Dashboard---Stage-Verify)
+- [Error Budget Dashboard](https://10az.online.tableau.com/#/site/gitlab/workbooks/2270342/views)
 
 **Important data documentation**
 
@@ -328,25 +317,12 @@ The Package team works on the package and container registries, as well as the D
 
 **Top dashboards referenced by this team**
 
-- [Package GitLab.com Stage Activity](https://app.periscopedata.com/app/gitlab/527857/Package-GitLab.com-Stage-Activity-Dashboard)
+- [Package Performance Indicator Hub](https://10az.online.tableau.com/#/site/gitlab/workbooks/2284774/views)
 
 Primarily time series analyses for Package features on GitLab.com
 
-- [Package: User Adoption and Growth](https://app.periscopedata.com/app/gitlab/805350/Package:-User-Adoption-and-Growth)
+- [Centralized Metrics](https://10az.online.tableau.com/#/site/gitlab/workbooks/2069845/views): Key reporting dashboard for GitLab product usage metrics.
 
-Primarily time series analyses including both SaaS and SM usage of Package features
-
-- [Package customer adoption](https://app.periscopedata.com/app/gitlab/877343/Package-customer-adoption)
-
-Customer specific data tables regarding specific Package feature usage
-
-- [Package: Costs](https://app.periscopedata.com/app/gitlab/1011032/Package:-Costs)
-
-Dashboard analyzing GCP costs associated with Package features.
-
-- [Package:-UI-Data](https://app.periscopedata.com/app/gitlab/1033908/Package:-UI-Data)
-
-Dashboard measuring user interaction with the GitLab.com user interface.
 
 **Important data documentation**
 
@@ -410,7 +386,7 @@ GitLab's integrated CD solution allows users to ship code with zero-touch, be it
 
 **Top dashboards referenced by this team**
 
-- [Release Stage Dashboard](https://app.periscopedata.com/app/gitlab/777879/Release-Stage-Dashboard) Primary point of reference for the Release Stage team.
+- [Centralized Metrics](https://10az.online.tableau.com/#/site/gitlab/workbooks/2069845/views): Key reporting dashboard for GitLab product usage metrics.
 
 
 **Important data documentation**
@@ -462,9 +438,8 @@ Enabling users to configure applications and infrastructure. Auto DevOps, Kubern
 
 **Top dashboards referenced by this team**
 
-- [Configure team business metrics](https://app.periscopedata.com/app/gitlab/511813/Configure-team-business-metrics) Central point of entry for the Configure Stage team to evaluate metrics.
+- [Centralized Metrics](https://10az.online.tableau.com/#/site/gitlab/workbooks/2069845/views): Key reporting dashboard for GitLab product usage metrics.
 
-- [Configure Stage Topic Board](https://app.periscopedata.com/app/gitlab/topic/Configure-Stage/ab515335d8494519ad4971740a62171a) Contains all of the most commonly used dashbaords by the Configure team.
 
 
 **Important data documentation**
@@ -516,10 +491,9 @@ Helps reduce the severity and frequency of incidents. Incident management and er
 
 **Top dashboards referenced by this team**
 
-- [Centralized SMAU/GMAU Dashboard](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard)
+- [Centralized Metrics](https://10az.online.tableau.com/#/site/gitlab/workbooks/2069845/views): Key reporting dashboard for GitLab product usage metrics.
 
-- [Error Budget Dashboard - Stage Monitor](https://app.periscopedata.com/app/gitlab/892457/Error-Budget-Dashboard---Stage-Monitor)
-
+- [Error Budget Dashboard](https://10az.online.tableau.com/#/site/gitlab/workbooks/2270342/views)
 
 **Important data documentation**
 
@@ -562,7 +536,6 @@ Resource to understand the Performance Indicators for the Ops Section - Page can
 
 ### Sec Section
 
-
 #### Secure Stage
 
 Static Application Security Testing (SAST), Dynamic Application Security Testing (DAST), Container Scanning, and Dependency Scanning
@@ -572,16 +545,13 @@ Static Application Security Testing (SAST), Dynamic Application Security Testing
 
 **Top dashboards referenced by this team**
 
-- [Dynamic Analysis Metrics](https://app.periscopedata.com/app/gitlab/703762/WIP:-Dynamic-Analysis-metrics) Secure:Dynamic Analysis Group
+- [Dynamic Analysis Metrics](https://10az.online.tableau.com/#/site/gitlab/views/PDSecDynamicAnalysisMetrics/DynamicAnalysisDashboard) Secure:Dynamic Analysis Group
 
 Some seemingly duplicate charts in Dynamic Analysis Metrics are used by the team to compare totals from different data sets.
 
-- [Threat Management Metrics](https://app.periscopedata.com/app/gitlab/737412/Threat-Management-Metrics---Matt's-Playground) Govern:Threat Insights Group
+- [Threat Management Metrics](https://10az.online.tableau.com/#/site/gitlab/workbooks/2238072/views) Govern:Threat Insights Group
 
-- [Secure & Govern GMAU/SMAU Metrics](https://app.periscopedata.com/app/gitlab/707777/Secure-&-Protect-GMAU-SMAU-Metrics)
-This dashboard shows various MAU metrics for Secure and Govern.
-
-- [Secure SCA - PI - Software Composition Analysis](https://app.periscopedata.com/app/gitlab/749790/Secure-SCA---PI---Software-Composition-Analysis---Schwartz) Secure:Composition Analysis Group
+- [Centralized Metrics](https://10az.online.tableau.com/#/site/gitlab/workbooks/2069845/views): Key reporting dashboard for GitLab product usage metrics.
 
 
 
@@ -634,7 +604,9 @@ Manage security vulnerabilities, policies, and compliance across your organizati
 
 **Top dashboards referenced by this team**
 
-- [Security Policies Metrics](https://app.periscopedata.com/app/gitlab/694854/Container-Security-Metrics) Govern:Security Policies Group
+- [Centralized Metrics](https://10az.online.tableau.com/#/site/gitlab/workbooks/2069845/views): Key reporting dashboard for GitLab product usage metrics.
+
+- [PD: Sec: Govern Metrics](https://10az.online.tableau.com/#/site/gitlab/workbooks/2200383/views)
 
 
 **Important data documentation**
@@ -678,7 +650,7 @@ WHERE field = stage_name
 
 </details>
 
-### Enablement Section
+### Core Platforms Section
 
 
 #### Systems Stage (Distribution, Gitaly, Geo Groups)
@@ -690,8 +662,7 @@ Supports enterprise-grade operational experience of GitLab products from streaml
 
 **Top dashboards referenced by this team**
 
-- All dashboards commonly referenced by this team that will be transitioned to Tableau in CY2023 can be found in this [Enablement Tableau Transition Epic](https://gitlab.com/groups/gitlab-data/-/epics/820).
-
+- All Tableau Dashboards are organized in Collections, specifically [Core & SaaS Platforms General Collection](https://10az.online.tableau.com/#/site/gitlab/collections/78d30546-2f24-4a4a-8378-c88711f479c4?:origin=card_share_link) and [Core & SaaS Platforms SAFE Collection](https://10az.online.tableau.com/#/site/gitlab/collections/1c106c47-64b3-4cbf-b95d-c75fe2a0e9b4?:origin=card_share_link)
 
 **Important data documentation**
 
@@ -758,7 +729,7 @@ Supports enterprise-grade operational experience of GitLab products from streaml
 
 **Top dashboards referenced by this team**
 
-- All dashboards commonly referenced by this team that will be transitioned to Tableau in CY2023 can be found in this [Enablement Tableau Transition Epic](https://gitlab.com/groups/gitlab-data/-/epics/820).
+- All Tableau Dashboards are organized in Collections, specifically [Core & SaaS Platforms General Collection](https://10az.online.tableau.com/#/site/gitlab/collections/78d30546-2f24-4a4a-8378-c88711f479c4?:origin=card_share_link) and [Core & SaaS Platforms SAFE Collection](https://10az.online.tableau.com/#/site/gitlab/collections/1c106c47-64b3-4cbf-b95d-c75fe2a0e9b4?:origin=card_share_link)
 
 
 **Important data documentation**
@@ -835,15 +806,15 @@ Growth owns the free and trial registration and new user onboarding experiences.
 
 **Top dashboards referenced by this team**
 
-- All dashboards commonly referenced by this team that will be transitioned to Tableau in CY2023 can be found in this [Growth Tableau Transition Epic](https://gitlab.com/groups/gitlab-data/-/epics/729).
+- - All Tableau Dashboards are organized in Collections, specifically [Growth General Collection](https://10az.online.tableau.com/#/site/gitlab/collections/9fce437d-d001-412a-a4c4-a327aeb882ff?:origin=card_share_link) and [Growth SAFE Collection](https://10az.online.tableau.com/#/site/gitlab/collections/8740c9bc-6d9d-4e3e-af5a-11b48f48e925?:origin=card_share_link)
 
 - [Growth Section Product Data Insights Hub in Tableau](https://10az.online.tableau.com/t/gitlab/views/GrowthSectionProductDataInsightsHub/GrowthSectionProductDataInsightsHub)
 
-- [Filterable Growth Experiment Analysis Dashboard](https://app.periscopedata.com/app/gitlab/1121391/Filterable-Growth-Experiment-Analysis)
+- [Filterable Growth Experiment Analysis Dashboard](https://10az.online.tableau.com/#/site/gitlab/views/USETHISFINALGLEX/GLEXExperimentAnalysisDashboard?:iid=1)
 
-- [Growth Experiment Event Validation](https://app.periscopedata.com/app/gitlab/1120337/Growth-Experiment-Event-Validation)
+- [Growth Experiment Event Validation](https://10az.online.tableau.com/#/site/gitlab/workbooks/2241316/views)
 
-- [Snowplow Event Exploration L30D](https://app.periscopedata.com/app/gitlab/539181/Snowplow-Event-Exploration---last-30-days) - commonly sent to engineers for event validation.
+- [Snowplow Event Exploration L30D](https://10az.online.tableau.com/#/site/gitlab/views/SnowplowEventExplorationLast30Days/SnowplowEventExplorationLast30D) - commonly sent to engineers for event validation.
 
 
 **Important data documentation**
