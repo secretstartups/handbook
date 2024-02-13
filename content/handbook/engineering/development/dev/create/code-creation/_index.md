@@ -69,10 +69,6 @@ stateDiagram
     suggestions --> generation
 ```
 
-## Projects
-
-[Create:Code Creation Projects](/handbook/engineering/development/dev/create/code-creation/projects)
-
 ## Engineering Onboarding
 
 To help get started as a developer with the Create:Code Creation team, we have created an
