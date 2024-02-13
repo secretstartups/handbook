@@ -213,6 +213,8 @@ Inbound Request
 Support Ticket cases will often include a Zendesk ticket link in the description field.  This should be viewed before contacting the customers. 
 Referral cases often originate from other Sales segments.  To determine if the account and opp in question should be moved to SMB, chatter Sales Support on the account.
 
+Note: A High Value Account can be closed out if the customer advises ahead of renewal that they definitely fully churn.  Only in this scenario should the case be closed out, and the *Resolution Action* must be set to *Request Not Possible*.  By setting the *Resolution Action* to *Request Not Possible*, future High Value Cases will not be created on the account. 
+
 ### FO Opp (an SDR engages with a net new lead who has been qualified)
 Before picking up the case, the Advocate checks that they can attend the meeting (IQM) that appears as an Activity on the Contact record, and in the Next Steps fields.
 The Advocate should also advise the SDR, by chattering them on the opp, that they have picked up the case.
