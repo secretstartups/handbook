@@ -79,6 +79,43 @@ While in the long term, customer admins will be able to self-serve configuration
   - To request a configuration change after the initial onboarding, customers must create a support ticket. The assigned support engineer will then open a new issue in the Dedicated issue tracker with the request. The requester must ensure there is link to the ZD ticket in the internal issue for change control purposes. The SRE tasked with performing the next round of maintenance for this customer will reply on the issue with a rough ETA and again once the change has been deployed. If this is a change that requires development work, the SRE will raise to PM/EM.
   - Post-onboarding, escalating a config change requests is only possible for configuration that ensures that the tenant instance is online. "Business as usual" changes can only be scheduled well in advance using the customer Project Plan provided during onboarding. See more details about our escalation policy below.
 
+#### Production Change Lock (PCL)
+
+While changes we make are rigorously tested and carefully deployed,
+it is a good practice to temporarily halt production changes during certain events such as GitLab Summit,
+major global holidays,
+and other times where GitLab Team Member availability is substantially reduced.
+
+Risks of making a production environment change during these periods includes immediate customer impact and/or reduced engineering team availability in case an incident occurs.
+Therefore, we have introduced a mechanism called Production Change Lock (PCL) to GitLab Dedicated.
+
+The GitLab Dedicated Production Change Lock is greatly inspired by the [PCL](https://about.gitlab.com/handbook/engineering/infrastructure/change-management/#production-change-lock-pcl) for GitLab.com,
+but there are some differences worth noting.
+
+A PCL is manually enforced once the following requirements are met:
+1. A PCL [issue](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues/3946) describing the PCL period is created. 
+2. An MR updating the scheduled PCLs table is approved by the SaaS Platforms Engineering Director
+3. Customer changes via Switchboard are prevented for the duration of the PCL.
+
+The following dates are currently scheduled PCLs. 
+
+| Dates                       | Type       | Reason                        |
+|-----------------------------|------------|-------------------------------|
+| 2024-03-08 23:00 UTC -> 2024-03-17 20:00 UTC | Hard | GitLab Summit (Low team members availability) |
+
+Times for the dates without a time specified begin at 09:00 UTC and end the next day at 09:00 UTC.
+
+As opposed to GitLab.com [PCL](https://about.gitlab.com/handbook/engineering/infrastructure/change-management/#production-change-lock-pcl), for GitLab Dedicated we only consider a Hard PCL type.
+
+##### Hard PCL
+
+Hard PCLs include all code deploys and infrastructure changes, including automated maintenance in UAT, Preprod and Production environments, and customer changes via Switchboard. New customers will not be onboarded during Hard PCLs. 
+
+In case of an active S1/S2 incident, it is at the EOC (Engineer on Call) discretion to make the decision to apply the changes necessary to mitigate or resolve the incident in order to keep service availability. 
+Any action during an incident while in a PCL must be associated to an issue and the EOC should inform the GitLab Dedicated engineering Leadership about the action taken. 
+
+Changes not associated to any incident must have an exemption approval by the GitLab Dedicated engineering Leadership.
+
 ### Escalation Policy
 
 When it comes to escalating customer support issues, we follow the same definitions of severity as [provided by support](https://about.gitlab.com/support/definitions/#definitions-of-support-impact) since Dedicated customers receive priority support. Only in cases where there is an [availability or security sev-1](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity) event it can be escalated to Sev-1 at the Support level. 'Business as usual' configuration changes cannot be escalated to sev-1. In sev-1 cases we will involve our on-call, as these incidents may affect our Availability SLA commitments to the customer. Sev-2 and below will be handled by the team during normal business hours. Any fixes identified as part of a support ticket that must go out immediately will be considered "emergency maintenance" and can be done outside the normal maintenance window. All other fixes will be done during the next available maintenance window.
