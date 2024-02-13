@@ -1,15 +1,16 @@
 ---
 title: AI Model Validation Group
-description: "The AI Assisted gruop is focused on how to extend GitLab functionality to provide additional value by leveraging ML/AI."
+description: "The Model Validation group is focused on how to extend GitLab functionality to provide additional value by leveraging ML/AI."
 ---
 
 ## Vision
 
-The AI Assisted group is focused on how to extend GitLab functionality to provide additional value by leveraging ML/AI. This group will build on existing successful GitLab categories and features to make them smarter, easier to use, and more intelligent.
+The Model Validation group is focused on how to extend GitLab functionality to provide additional value by leveraging ML/AI. This group will build on existing successful GitLab categories and features to make them smarter, easier to use, and more intelligent.
 
 [Commit Virtual 2021: What the ML is up with DevOps and AI? A ModelOps Overview](https://www.youtube.com/watch?v=7mUgGFgab4E)
 
 ## How we work
+
 - We work in accordance with our [GitLab values](/handbook/values/).
 - We work [transparently](/handbook/values/#transparency) with nearly everything public.
 - We get a chance to work on the things we want to work on.
@@ -17,19 +18,16 @@ The AI Assisted group is focused on how to extend GitLab functionality to provid
 - We make data-driven decisions.
 - Everyone can contribute to our work.
 
-
 ## Direction
 
 [Group direction](https://about.gitlab.com/direction/modelops/ai_assisted/)
 
 ## Team members
 
-The following people are permanent members of the AI Assisted Group:
+The following people are permanent members of the Model Validation Group:
 
 | Who | Role |
 | --- | --- |
-| [Alexander Chueshev](/handbook/company/team/#achueshev) | Senior Backend Engineer |
-| [Bruno Cardoso](/handbook/company/team/#bcardoso) | Senior Backend Engineer |
 | [Hongtao Yang](/handbook/company/team/#hongtaoyang) | Backend Engineer |
 | [Andras Herczeg](/handbook/company/team/#andrasherczeg) | Backend Engineer |
 | [Stephan Rayner](/handbook/company/team/#srayner) | Senior Backend Engineer |
@@ -57,9 +55,7 @@ Team responsibilities include:
 ## Short term priorities
 
 - Improving the user acceptance rate of code suggestions.
-- Keeping the current AI gateway running and working until AI Framework takes over production support for it (with continued collaboration from those who know it).
 - Custom evaluation pipelines (prompt library) - [Epic](https://gitlab.com/groups/gitlab-org/modelops/applied-ml/code-suggestions/-/epics/10)
-
 
 ## Project management process
 
@@ -72,7 +68,6 @@ Our team use the following workflow stages defined in the [Product Development F
 ### Epic roadmap
 
 We use an epic roadmap to track epic progress on a quarterly basis.
-
 
 ### Issue boards
 
@@ -143,7 +138,7 @@ Our group holds synchronous meetings to gain additional clarity and alignment on
 
 We have a weekly team meeting at 11pm Pacific on Wednesdays (as many team members are in APAC).
 
-Meetings will be in the [`AI Assisted Group` playlist in GitLab Unfiltered](https://www.youtube.com/playlist?list=PL05JrBw4t0Kp5fbMFUOKl-uroknEjofJ3)
+Meetings will be in the [`Model Validation Group` playlist in GitLab Unfiltered](https://www.youtube.com/playlist?list=PL05JrBw4t0Kp5fbMFUOKl-uroknEjofJ3)
 
 ### Technical Architecture
 
