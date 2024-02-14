@@ -66,7 +66,8 @@ A [Job to be Done (JTBD)](/handbook/product/ux/jobs-to-be-done/) is a framework,
 
 Pipeline Authoring and Pipeline Execution are closely related but they also represent different stages in the cycle of a user's interaction with a pipeline. At a very high-level, this image illustrates the main focus of each group and how they can both support a better pipeline experience.
 
-![Verify Groups](/images/handbook/engineering/verify/verify_groups_banner.jpg)
+![Verify Groups](/handbook/product/categories/verify_groups_banner.jpg)
+
 
 ### Verify:Pipeline Execution
 
