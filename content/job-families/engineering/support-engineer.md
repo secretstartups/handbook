@@ -10,6 +10,19 @@ canonical_path: "/job-families/engineering/support-engineer/"
 
 This position is 100% remote.
 
+
+## Associate Support Engineer
+
+### Job Grade
+
+The Associate Support Engineer is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+For an Associate Support Engineer role we expect:
+- Someone who's been in a previous customer facing role, maybe in a technical company, but also maybe outside of tech
+- We expect this person to be early in their career of "technical debugging" - They may have worked support before, but not deep technical troubleshooting.
+
+As we evolve our handbook and adopt a career matrix approach, you can read more about associate engineer on our [Assoicate Support Engineer Career Matrix Page](https://handbook.gitlab.com/handbook/engineering/careers/matrix/support/associate/) which covers more of the details you see in the roles below.
+
 ## Support Engineer
 
 ### Job Grade
