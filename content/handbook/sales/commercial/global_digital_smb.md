@@ -333,7 +333,7 @@ Due to the high case volume, it is imperative that the Required 10 is followed, 
   - Update the Next Steps on the case, as per your conversation with the customer.
   - Set to Next Steps Date to 6 months from today.
   - Set the Case Status to Open
-  - Check the *Assing using active assignment rules checkbox*.
+  - Click *Edit* on the case, then check the *Assign using active assignment rules checkbox*.
   - The case will now reappear in the queue in 6 months time, and any Advocate will be free to work the case.
 - Q. If a prospect/ customer emails me directly requesting assistance, what do I do?
 - A. First check the account to see if there is an In Progress SMB Sales Case owned by a different Advocate.  If there is, add the nature of the customers request to the Description field, and chatter the Advocate on the case. If no case is present, and this enquiry represents a nARR opportunity, follow the above process (*Working with the Global Digital SMB Account Team*.), and assign the case directly to yourself. Note: for general enquiries, you should direct customers to smallbusiness@gitlab.com
