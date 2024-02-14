@@ -111,7 +111,7 @@ In other words, Auto DevOps is an alternative to writing and using your own `.gi
 
 1. The code quality scan will scan to detect if the code quality has changed between the main and the merge request code. If any code quality issues exist, they will be flagged in this section.
 
-1. The security scanning section will check if any new vulnerabilities have been introduced in the code. Click **Full report** in the security scanning section to see the scan details.
+1. The security scanning section will check if any new vulnerabilities have been introduced in the code. Click **View all pipeline findings** in the security scanning section to see the scan details.
 
 1. In the left-hand navigation pane, click **Deploy > Container Registry**. You should see the Docker container that the Auto DevOps pipeline created as a part of its build process.
 
