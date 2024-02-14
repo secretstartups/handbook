@@ -386,9 +386,27 @@
       url: /handbook/product/ux/ux-research
     - name: Product Design
       url: /handbook/product/ux/product-design
-- name: Legal and Compliance
+- name: Legal and Corporate Affairs
   icon: fa-solid fa-scale-balanced
   url: /handbook/legal
   links:
-  - name: GitLab Code of Business Conduct and Ethics
-    url: https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d
+  - name: Commercial
+    url: /handbook/legal/commercial
+  - name: Corporate
+    url: /handbook/legal/publiccompanyresources.md
+  - name: Corporate Development
+    url: /handbook/acquisitions
+  - name: Employment
+    url: /handbook/legal/employment-law.md
+  - name: Environment, Social, and Governance (ESG)
+    url: /handbook/legal/esg
+  - name: Operations
+    url: /handbook/legal/legalops
+  - name: Privacy
+    url: /handbook/legal/privacy
+  - name: Product
+    url: /handbook/legal/product.md
+  - name: Risk Management and Dispute Resolution
+    url: /handbook/legal/risk-management-dispute-resolution.md
+  - name: Trade Compliance
+    url: /handbook/legal/trade-compliance.md
