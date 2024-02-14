@@ -394,67 +394,7 @@ WEBDRIVER_HEADLESS=false bundle exec bin/qa Test::Instance::All http://localhost
 You can also use the same Docker image as the one used in the failing job to run GitLab in a container on your local.
 In the logs of the failing job, search for `gitlab-ee` or `gitlab-ce` and use its tag to start the container locally.
 
-To run [GitLab in a container](https://docs.gitlab.com/ee/install/docker.html#install-gitlab-using-docker-engine) on your local, follow the steps below that correspond to your host machine and setup:
-
-**MacOS with Colima**
-
-Sometimes GitLab container won't start using [Docker desktop](https://handbook.gitlab.com/handbook/tools-and-tips/mac/#docker-desktop) as it requires subscription and some features may not work well with Docker desktop as described in the issue [Local GitLab DOCKER does not work on MacOS (Apple M2) - postgresql error](https://gitlab.com/gitlab-org/omnibus-gitlab/-/issues/8359).
-
-If you are facing PostgreSQL related error as mentioned in the [issue](https://gitlab.com/gitlab-org/omnibus-gitlab/-/issues/8359) switch to using colima instead.
-
-Note: To run tests with Colima, make sure your Docker Desktop or Rancher Desktop is not running.
-
-```
-# install colima locally
-brew install colima
-
-# Before running any test you need to start colima
-# Assign cpu and memory, for docker containers to use, as per your wish
-colima start --cpu 8 --memory 16 --disk 100 --vz-rosetta
-```
-Once Colima has started you can start a GitLab container using `docker run`.
-
-To monitor containers while using colima, you can use `lazydocker` which can be installed using  `brew install lazydocker`.
-Once its installed, run the command `lazydocker` which shall open an interactive shell like so
-![Alt text](image.png)
-
-**Accessing container logs on MacOS with Colima**
-Usually the container logs are at `/var/lib/docker/container/{container id}` but if you are using MacOS, this won't be the case.
-
-To access container logs run `colima ssh` or `colima ssh -p you_profile_name`.
-
-Once inside the vm you can access the container logs at `/var/lib/docker/container/{container_id}/`.
-
-**MacOS with Rancher Desktop**
-
-First, make sure to [disable Traefik on Rancher Desktop](https://docs.rancherdesktop.io/faq/#q-can-i-disable-traefik-and-will-doing-so-remove-traefik-resources) to open ports 80 and 443 on your host machine.
-
-Rancher Desktop also uses port 22 to allow SSH communication with the VM. Therefore, you will need to forward a different port on your host machine to port 22 in the container,
-and configure `gitlab_shell_ssh_port` to use this new port.
-
-```shell
-docker run \
-  --hostname localhost \
-  --publish 443:443 --publish 80:80 --publish 2222:22 \
-  --name gitlab \
-  --env GITLAB_OMNIBUS_CONFIG='gitlab_rails["initial_root_password"] = "CHOSEN_PASSWORD"; gitlab_rails["gitlab_shell_ssh_port"] = 2222' \
-  --shm-size 256m \
-  registry.gitlab.com/gitlab-org/build/omnibus-gitlab-mirror/gitlab-ee:<tag>
-```
-
-**Machines Running Docker Natively (Linux)**
-
-If you are not running Docker within a VM such as Rancher Desktop, you can use the following command:
-
-```shell
-docker run \
-  --hostname localhost \
-  --publish 443:443 --publish 80:80 --publish 22:22 \
-  --name gitlab \
-  --env GITLAB_OMNIBUS_CONFIG='gitlab_rails["initial_root_password"] = "CHOSEN_PASSWORD"' \
-  --shm-size 256m \
-  registry.gitlab.com/gitlab-org/build/omnibus-gitlab-mirror/gitlab-ee:<tag>
-```
+Once you have the image tag, [spin up GitLab instance locally](https://gitlab.com/gitlab-org/quality/runbooks/-/blob/main/running_gitlab_locally/index.md)
 
 **Special Considerations**
 
@@ -537,7 +477,7 @@ Get in touch with the distribution team on `#g_distribution` channel.
 
 ##### Investigating update-major or update-minor tests locally and common failures
 
-Failures in `update-major` or `update-minor` might indicate that GitLab upgrade fails. Such failures could be caused by migration issues or other changes. To ensure customers won't face such issue during upgrade,  investigate the error as priority, especially near the release date. 
+Failures in `update-major` or `update-minor` might indicate that GitLab upgrade fails. Such failures could be caused by migration issues or other changes. To ensure customers won't face such issue during upgrade,  investigate the error as priority, especially near the release date.
 
 Follow the document  [Investigating update-major or update-minor tests locally and common failures](https://gitlab.com/gitlab-org/quality/runbooks/-/blob/main/debug_orchestrated_test_locally/running_update-major_and_update-minor_locally.md).
 
