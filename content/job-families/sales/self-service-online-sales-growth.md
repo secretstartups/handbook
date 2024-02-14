@@ -14,7 +14,7 @@ The Senior Analyst, Online Sales & Self Service Growth reports to the Manager, O
 
 ### Job Grade
 
-The Senior Analyst, Online Sales & Self Service Growth is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Analyst, Online Sales & Self Service Growth is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -47,7 +47,7 @@ The Senior Analyst, Online Sales & Self Service Growth is a [grade 7](https://ab
 
 ### Job Grade
 
-The Manager, Online Sales & Self Service Growth is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Online Sales & Self Service Growth is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -79,7 +79,7 @@ The Manager, Online Sales & Self Service Growth is a [grade 8](https://about.git
 
 ### Job Grade
 
-The Senior Manager, Online Sales & Self Service Growth is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Online Sales & Self Service Growth is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -102,7 +102,7 @@ The Senior Manager, Online Sales & Self Service Growth is a [grade 9](https://ab
 
 ### Job Grade
 
-The Director, Online Sales & Self Service Growth is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Online Sales & Self Service Growth is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -126,7 +126,7 @@ The Director, Online Sales & Self Service Growth is a [grade 10](https://about.g
 
 ### Job Grade
 
-The Senior Director, Online Sales & Self Service Growth is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, Online Sales & Self Service Growth is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -180,9 +180,9 @@ The Senior Director, Online Sales & Self Service Growth is a [grade 11](https://
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with the Hiring Manager
 - Next, candidates will be invited to schedule interviews 30 minute interviews with 2 immediate team members and 3 cross-functional partners
 - Finally, candidates will be invited to schedule interviews with the hiring manager once more
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

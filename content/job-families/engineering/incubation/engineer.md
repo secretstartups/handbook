@@ -6,7 +6,7 @@ canonical_path: "/job-families/engineering/incubation/engineer/"
 
 Incubation Engineers are experienced Software Engineers with deep knowledge in a specific domain that are able to work independently to deliver a solution to market.  The goal of an Incubation Engineer is to reach a [Viable](https://about.gitlab.com/direction/maturity/#legend) level of maturity of their respective area within the GitLab project.
 
-Incubation Engineers work within the [Incubation Engineering Department](https://about.gitlab.com/handbook/engineering/incubation/).
+Incubation Engineers work within the [Incubation Engineering Department](/handbook/engineering/incubation/).
 
 ### Responsibilities
 
@@ -15,7 +15,7 @@ Incubation Engineers work within the [Incubation Engineering Department](https:/
 - Interact with community members and help drive initial user adoption
 - Develop strategies for scaling beyond the Incubation phase
 - Craft code that meets our internal standards for style, maintainability, and best practices for a high-scale web environment. Maintain and advocate for these standards through code review.
-- Regularly [demonstrate](https://about.gitlab.com/handbook/engineering/#engineering-demo-process) progress to stake holders
+- Regularly [demonstrate](/handbook/engineering/demos/#single-engineer-groups-demo) progress to stake holders
 - Contribute to documentation and UI design as required
 
 ### Requirements
@@ -46,13 +46,13 @@ Incubation Engineers work within the [Incubation Engineering Department](https:/
 
 #### Incubation Engineer Job Grade
 
-The Intermediate Incubation Engineer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Intermediate Incubation Engineer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior Incubation Engineer
 
 #### Senior Incubation Engineer Job Grade
 
-The Senior Incubation Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Incubation Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Incubation Engineer Requirements
 
@@ -65,7 +65,7 @@ The Senior Incubation Engineer is a [grade 7](https://about.gitlab.com/handbook/
 
 #### Staff Incubation Engineer Job Grade
 
-The Staff Incubation Engineer is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Incubation Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Incubation Engineer Requirements
 
@@ -79,18 +79,18 @@ The Staff Incubation Engineer is a [grade 8](https://about.gitlab.com/handbook/t
 
 Incubation Engineers have the following Performance Indicators
 
-- [SEG Category Maturity](https://about.gitlab.com/handbook/engineering/incubation/performance-indicators/#seg-category-maturity)
-- [Community Engagement](https://about.gitlab.com/handbook/engineering/incubation/performance-indicators/#community-engagement)
+- [SEG Category Maturity](/handbook/engineering/incubation/performance-indicators/#seg-category-maturity)
+- [Community Engagement](/handbook/engineering/incubation/performance-indicators/#community-engagement)
 
 ## Career Ladder
 
-For more details on the engineering career ladders, please review the [engineering career development](https://about.gitlab.com/handbook/engineering/career-development/#roles) handbook page.
+For more details on the engineering career ladders, please review the [engineering career development](/handbook/engineering/career-development/#roles) handbook page.
 
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next candidates will meet the Hiring Manager.
 - There will then be 2x Technical Interviews - one Frontend and one Backend.
 - The next *optional* step is an architectural discussion

@@ -28,6 +28,9 @@ on-call in Slack.
   - Customer Emergency Escalation Channel
 - Extensions and Add-Ons
   - Slack V2
+- Integrated Slack Channels
+  - #spt_on-call
+  - #support_self-managed
 
 #### Incident Management - CMOC
 
@@ -39,6 +42,20 @@ on-call in Slack.
   - woodhouse
 - Extensions and Add-Ons
   - Slack V2
+- Integrated Slack Channels
+  - #support_self-managed
+
+#### Incident Management - GDCMOC
+
+- [Service link](https://gitlab.pagerduty.com/service-directory/P8WVAI0)
+- Escalation policy: Incident Management - GDCMOC Rotation
+- Integrations
+  - N/A
+- Extensions and Add-Ons
+  - Slack V2
+- Integrated Slack Channels
+  - #spt_on-call
+  - #spt_pod_dedicated
 
 #### Support Managers
 
@@ -48,6 +65,8 @@ on-call in Slack.
   - Slack
 - Extensions and Add-Ons
   - Slack V2
+- Integrated Slack Channels
+  - #support_ticket-attention-requests
 
 #### AMER Response Crew
 
@@ -63,9 +82,12 @@ on-call in Slack.
 - [Service link](https://gitlab.pagerduty.com/service-directory/P8K2XHK)
 - Escalation policy: US Federal Customer Emergency Rotation
 - Integrations
-  - N/A
+  - Email
 - Extensions and Add-Ons
-  - N/A
+  - Slack V2
+- Integrated Slack Channels
+  - #spt_us-government
+  - #spt_on-call
 
 ## Change management
 
@@ -84,3 +106,9 @@ Due to wildly varying nature and impact adding/editing/deleting things in
 Pagerduty can impose, all issues/MRs related to Pagerduty need
 to have the their criticality
 [manually determined](/handbook/support/readiness/operations/docs/change_criticalities#determining-criticality)
+
+## Notes
+
+As part of PagerDuty's Slack V2 integration, all services now include Trigger an incident in PagerDuty from the Slack command line by typing "/pd trigger" by default.
+
+Services listed here that show Slack under their listed integrations are also using the legacy slash command integration.

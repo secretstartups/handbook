@@ -36,11 +36,11 @@ The General Ledger Accounting team are responsible for providing timely and accu
 
 ### Associate General Ledger Accountant (Junior)
 
-The Associate General Ledger Accountant reports to the [Senior Manager, Accounting](https://about.gitlab.com/job-families/finance/accountant/).
+The Associate General Ledger Accountant reports to the [Senior Manager, Accounting](/job-families/finance/accountant/).
 
 #### Job Grade
 
-The Associate Accountant is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Associate Accountant is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Associate General Ledger Accountant Responsibilities
 
@@ -67,11 +67,11 @@ The Associate Accountant is a [grade 5](https://about.gitlab.com/handbook/total-
 
 ### General Ledger Accountant (Intermediate)
 
-The General Ledger Accountant (Intermediate) reports to the [Senior Manager, Accounting](https://about.gitlab.com/job-families/finance/accountant/).
+The General Ledger Accountant (Intermediate) reports to the [Senior Manager, Accounting](/job-families/finance/accountant/).
 
 #### Job Grade
 
-The Intermediate Accountant is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Intermediate Accountant is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### General Ledger Accountant (Intermediate) Responsibilities
 
@@ -96,11 +96,11 @@ The Intermediate Accountant is a [grade 6](https://about.gitlab.com/handbook/tot
 
 ### Senior General Ledger Accountant
 
-The Senior General Ledger Accountant reports to the [Manager, Accounting](https://about.gitlab.com/job-families/finance/accountant/).
+The Senior General Ledger Accountant reports to the [Manager, Accounting](/job-families/finance/accountant/).
 
 #### Job Grade
 
-The Senior Accountant is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Accountant is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior General Ledger Accountant Responsibilities
 
@@ -131,7 +131,7 @@ The Senior General Ledger Accountant, Team Lead reports to the Senior Manager, A
 
 #### Job Grade
 
-The Lead General Ledger Accountant, Accounting is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Lead General Ledger Accountant, Accounting is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior General Ledger Accountant, Team Lead Responsibilities
 
@@ -156,11 +156,11 @@ Have or actively pursuing CPA
 
 ### Manager, Accounting
 
-The Manager, Accounting reports to the [Senior Manager, Accounting](https://about.gitlab.com/job-families/finance/accountant/).
+The Manager, Accounting reports to the [Senior Manager, Accounting](/job-families/finance/accountant/).
 
 #### Job Grade
 
-The Manager, Accounting is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Accounting is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Accounting Responsibilities
 
@@ -220,9 +220,9 @@ The Manager, Accounting is a [grade 8](https://about.gitlab.com/handbook/total-r
 
 ## Performance Indicators
 
-- [Average days to close](https://about.gitlab.com/handbook/finance/accounting/#average-days-to-close-kpi-definition)
-- [Number of material audit adjustments = 0](https://about.gitlab.com/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
-- [Percentage of ineffective Sox Controls = 0%](https://about.gitlab.com/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
+- [Average days to close](/handbook/finance/accounting/#average-days-to-close-kpi-definition)
+- [Number of material audit adjustments = 0](/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
+- [Percentage of ineffective Sox Controls = 0%](/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
 
 ## Career Ladder
 
@@ -230,11 +230,11 @@ The next step in the General Ledger Accounting job family is to move to the [Con
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidate will have a 30 minute interview with the Hiring Manager,
 - Next, candidates will have separate 30 minute interview with 2 or 3 peers,
 - Finally, candidates will have a 30 minute interview with a member of the Executive team or the next level manager.
 
-See more details about our interview process [here](https://about.gitlab.com/handbook/hiring/interviewing/).
+See more details about our interview process [here](/handbook/hiring/interviewing/).

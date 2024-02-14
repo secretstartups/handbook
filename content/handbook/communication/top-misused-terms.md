@@ -1,9 +1,9 @@
 ---
-layout: handbook-page-toc
+
 title: "Top Misused Terms - GitLab Communication"
 ---
 
-<!-- NOTE: To update misused terms, please open "data/communication/misused_terms.yml -->
+<!-- NOTE: To update misused terms, please open "data/misused_terms.yml -->
 
 ## List of Top Misused Terms
 

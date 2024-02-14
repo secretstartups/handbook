@@ -5,7 +5,7 @@ description: “Find out how to schedule with E-Group members with Executive Bus
 
 Before scheduling with an E-Group member, please be sure to reach out to their perspective EBA with meeting details.
 
-## Scheduling for Michael McBride, Chief Revenue Officer
+## Scheduling for Chris Weber, Chief Revenue Officer
 
 - All meeting requests routed through the Sr. EBA to the CRO, Alexa Schrauth.
 - Prefers “appropriate length” conversations, so short meetings are okay on the calendar.  If a topic only needs 10 mins, book 10 mins instead of 30, etc.
@@ -17,29 +17,31 @@ Before scheduling with an E-Group member, please be sure to reach out to their p
 
 ## Scheduling for Brian Robins, Chief Financial Officer
 
-- Daily office hours are 9am-5pm ET, please Do Not Book meetings outside of working hours unless arranged with Sr. EBA, Darci Tadich.
+- All meeting requests should go through the CFO’s Sr. EBA, Darci Tadich.
+- Daily office hours are 9am-5pm ET, with meetings scheduled between 11a and 5p ET. Please do not book meetings outside of working hours unless arranged with the Sr. EBA.
+- All meeting requests should include an agenda and any relevant reference material. Ensure that all participants on the invite have access to the agenda and materials. If the Sr. EBA does not have access to the agenda to confirm access, it is the responsibility of the meeting/agenda owner to ensure proper access is shared in advance of the meeting.
+- It should be made a priority for agendas to be populated 24 hours in advance. If that is not possible, at a minimum they should be populated by EOD prior to meeting. The CFO reviews all materials for the day during the hours of 7-9a ET in order to prepare for the day.
 - Do not schedule over DNB (Do Not Book).
-- Prefers “appropriate length” conversations, so short meetings are okay on the calendar. If a topic only needs 10 mins, book 10 mins instead of 30, etc.
-- Schedule two 30 minute blocks a day for work time - title “DNB / workflow”. This is time for email follow-up and general work time. If the time has to move to accommodate another meeting ensure another time is found and that daily workflow is still achieved.
+- Prefers “appropriate length” conversations, so short meetings are okay on the calendar. If a topic only needs 10 mins, book 10 mins instead of 25, etc.
+- Schedule two 30 minute blocks a day for work time - title “DNB”. This is time for email/Slack follow-up and general work time. If the time has to move to accommodate another meeting, ensure another time is found and that daily workflow is still achieved.
 - Schedule one 60 minute block a day for for lunch - title “DNB / lunch”. This is time for a lunch break, follow-up and general work time. If the time has to move to accommodate another meeting ensure another time is found and that daily lunch break is still achieved.
-- If you add any meetings to calendar directly, tick the box “Attendees can modify” so EBA can change if necessary.
-- Please do not @ Brian for scheduling questions or requests in Slack, please reach out his Sr. EBA.
-- Please do cc: @ Brian and his Sr. EBA with last minue scheduling changes in Slack.
-- All meeting requests should include an agenda or some sort of reference material.
-- During Zoom meetings please do not post information or questions in the chat, add it to the meeting doc or in slack.
-- Priority to candidate interviews, E-Group, GitLab BoD, Investor Relations and 1:1's.
-- When in-person meetings are being requested, please check with the CFO prior to scheduling the meeting.
-- For interviews: CES should tag Sr. EBA on Greenhouse to review times submitted by the candidate, or to provide times for the VP.
-- EBA to add reminders at 1 month, 2 weeks, 1 week and 2 days on the calendar for the following events: OKR How to Achieve, Group Conversations and Board of Director meetings.
-- A calendar key is available for viewing in the CFO's daily schedule.
+- If you add any meetings to the calendar directly, tick the box “Attendees can modify” so the Sr. EBA can change if necessary.
+- Please do not @ Brian for scheduling questions or requests in Slack, please reach out to his Sr. EBA.
+- Please do cc: @ Brian and his Sr. EBA with last minute scheduling changes in Slack.
+- During Zoom meetings please do not post information or questions in the chat, add it to the meeting doc or in Slack.
+- Priority to candidate interviews, E-Group, GitLab BoD, Investor Relations and 1:1’s.
+- When in-person meetings are being requested, please check with the CFO’s Sr. EBA prior to scheduling the meeting.
+- For candidate interviews: CES should tag the Sr. EBA in #eba-team-interview-requests to review times submitted by the candidate, or to provide alternate times for the CFO.
+- A calendar key is available for viewing in the CFO’s daily schedule.
+
 
 ## Scheduling for Stella Treas, Chief of Staff to the CEO
 
-- All meeting requests should go through Staff EBA, Aimee David.
+- All meeting requests should go through Sr. EBA, Liki Simonot.
 - Priority given to candidate interviews, CEO, E-Group, GitLab BoD, and direct reports to the CoS to the CEO
 - Limited availability due to personal commitments from 7-9am PT Mon.-Fri. due personal commitments during the California shelter in place order (related to Covid-19). Can often make meetings during these blocks, if given advance notice, but strong preference for meeting outside of these times
 - If meetings need to happen before 9am PT or after 5pm PT check with EBA
-- Do not schedule over DNB (Do Not Book) without reaching out for approval from CoS to the CEO’s EBA
+- Do not schedule over DNB (Do Not Book) without reaching out for approval from CoS to the CEO’s Staff EBA, Jeanne Rotenberry
 - For meetings outside of set business hours contact the CoS to the CEO’s EBA
 - During Zoom meetings please do not post information in the chat, add it to the meeting doc or in slack
 - EBA to add reminders at 1 month, 2 weeks, 1 week and 2 days on the calendar for the following events: OKR How to Achieve, Group Conversations and Board of Director meetings
@@ -53,12 +55,13 @@ Before scheduling with an E-Group member, please be sure to reach out to their p
 - Unavailable due to Group Conversations, Company Calls and personal commitments from 7-9am PT
 - During Zoom meetings please do not post information in the chat, add it to the meeting doc or in slack
 - Calendar key is available for viewing in the CLO's daily schedule
-- All meeting requests should include an agenda or doc for reference
+- All meeting requests should include an agenda or doc for reference unless it is a Coffee Chat
+- Keep meetings to 25 or 50 minutes unless otherwise specified
 - Working blocks on the calendar are OK and can be moved to prioritize other meeting requests, team members should check in with the CLO's Sr. EBA to request a meeting using the meeting request requirements as a guideline
 
 ## Scheduling for Wendy Barnes, Chief People Officer
 
-- Please schedule all meetings through the People Function's Sr. EBA, Stephanie Kusmirek
+- Please schedule all meetings through the People Function's EBA, Julia Nishioki
 - All meeting requests should include an agenda or doc for reference unless it is a Coffee Chat
 - Keep meetings to 25 or 50 minutes unless otherwise specified
 - Direct Report 1:1's occur weekly, Skip Level 1:1's Monthly
@@ -80,3 +83,33 @@ Before scheduling with an E-Group member, please be sure to reach out to their p
 
 ## Scheduling for Ashley Kramer, Chief Marketing & Strategy Officer
 
+- Please coordinate with Ashley’s Sr. EBA to schedule meetings.
+- Priority will be given to customer & E-Group meetings - even last minute.
+- Flexible for early/late calls to support EMEA & APAC, but please check with EBA first.
+- Prefers “appropriate length” conversations, so short meetings are okay on the calendar (e.g. if a topic only needs 10 mins, book 10 mins instead of 30, etc.).
+- For scheduling questions, please do not tag @Ashley, reach out/tag @aschrauth (INTERIM support).
+- Include meeting agendas in invites and/or briefing docs (excluding coffee chats) at least 24 hours in advance.
+
+## Scheduling for Jörg Heilig, Interim CTO
+
+- All meeting requests should go through Sr. EBA, Kim Hohmann.
+- Priority given to candidate interviews, CEO, E-Group, GitLab BoD, and direct reports to the CTO.
+- Limited availability due to personal commitments from 9-10am PT Mon.-Fri. due personal commitments
+- Can often make meetings during these blocks, if given advance notice, but strong preference for meeting outside of these times
+- If meetings need to happen before 9am PT or after 5pm PT check with EBA
+- Do not schedule over DNB (Do Not Book) without reaching out for approval from EBA
+- For meetings outside of set business hours contact EBA
+- EBA to add reminders at 1 month, 2 weeks, 1 week and 2 days on the calendar for the following events: OKRs, All Hands, Offsites, and Board of Director meetings
+- All meeting requests should include an agenda or some sort of reference material. For meetings with customers, please include a briefing doc and information about any current executive sponsors.
+
+## Scheduling for Josh Lemos, CISO
+
+- All meeting requests should go through Sr. EBA, Marisa Carlson.
+- Priority given to candidate interviews, CEO, E-Group, GitLab BoD, and direct reports to the CISO.
+- Limited availability due to personal commitments from 8-9am PT and 3-4pm PT Mon.-Fri. due personal commitments
+- Can often make meetings during these blocks, if given advance notice, but strong preference for meeting outside of these times
+- If meetings need to happen before 9am PT or after 5pm PT check with EBA
+- Do not schedule over DNB (Do Not Book) without reaching out for approval from EBA
+- For meetings outside of set business hours contact EBA
+- EBA to add reminders at 1 month, 2 weeks, 1 week and 2 days on the calendar for the following events: OKRs, Key Reviews, Offsites, and Board of Director meetings
+- All meeting requests should include an agenda or some sort of reference material. For meetings with customers, please include a briefing doc and information about any current executive sponsors.

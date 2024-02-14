@@ -36,7 +36,7 @@ The Corporate Controller job family leads the accounting and financial reporting
 
 #### Director, Corporate Controller Job Grade
 
-The Director, Corporate Controller is a [10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Corporate Controller is a [10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, Corporate Controller Responsibilities
 
@@ -75,17 +75,17 @@ The Director, Corporate Controller is a [10](https://about.gitlab.com/handbook/t
 
 #### Director, Corporate Controller Performance Indicators
 
-1. [Average days to close](https://about.gitlab.com/handbook/finance/accounting/#average-days-to-close-kpi-definition)
-1. [Number of material audit adjustments](https://about.gitlab.com/handbook/internal-audit/#performance-measures-for-accounting-related-to-audit)
-1. [Average days of sales outstanding](https://about.gitlab.com/handbook/finance/accounting/#11-accounts-receivable)
+1. [Average days to close](/handbook/finance/accounting/#average-days-to-close-kpi-definition)
+1. [Number of material audit adjustments](/handbook/internal-audit/#performance-measures-for-accounting-related-to-audit)
+1. [Average days of sales outstanding](/handbook/finance/accounting/#11-accounts-receivable)
 1. [New hire location factor](/#new-hire-location-factor)
-1. [Percentage of ineffective SOX Controls](https://about.gitlab.com/handbook/internal-audit/#performance-measures-for-accounting-related-to-audit)
+1. [Percentage of ineffective SOX Controls](/handbook/internal-audit/#performance-measures-for-accounting-related-to-audit)
 
 ### Senior Director, Corporate Controller
 
 #### Senior Director, Corporate Controller Job Grade
 
-The Senior Director, Corporate Controller is a [11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, Corporate Controller is a [11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Director, Corporate Controller Responsibilities
 
@@ -125,17 +125,17 @@ both grow in the role and grow with the company, demonstrating leadership capabi
 
 #### Senior Director, Corporate Controller Performance Indicators
 
-1. [Average days to close](https://about.gitlab.com/handbook/finance/accounting/#average-days-to-close-kpi-definition)
-1. [Number of material audit adjustments](https://about.gitlab.com/handbook/internal-audit/#performance-measures-for-accounting-related-to-audit)
-1. [Average days of sales outstanding](https://about.gitlab.com/handbook/finance/accounting/#11-accounts-receivable)
+1. [Average days to close](/handbook/finance/accounting/#average-days-to-close-kpi-definition)
+1. [Number of material audit adjustments](/handbook/internal-audit/#performance-measures-for-accounting-related-to-audit)
+1. [Average days of sales outstanding](/handbook/finance/accounting/#11-accounts-receivable)
 1. [New hire location factor](/#new-hire-location-factor)
-1. [Percentage of ineffective SOX Controls](https://about.gitlab.com/handbook/internal-audit/#performance-measures-for-accounting-related-to-audit)
+1. [Percentage of ineffective SOX Controls](/handbook/internal-audit/#performance-measures-for-accounting-related-to-audit)
 
 ### Vice President, Corporate Controller
 
 #### Vice President, Corporate Controller Job Grade
 
-The Vice President, Corporate Controller is a [12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Vice President, Corporate Controller is a [12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Vice President, Corporate Controller Responsibilities
 
@@ -145,7 +145,7 @@ The Vice President, Corporate Controller is a [12](https://about.gitlab.com/hand
 - Direct responsibility for managing accounting operations, monthly/quarterly accounting close and preparation of financial statements.  Will ensure all accounts are reconciled and major variances are disclosed.
 - Drive processes  to optimize and automate accounting operations to drive efficient monthly/quarterly close cycles and improve accuracy and efficiency.
 - Experience with and own our financial systems, including NetSuite, Coupa, Stock Administration, Workiva, FloQuast and Xactly.
-- Owns the existing accounting and reporting standards, procedures and internal controls to drive efficiency and identify areas of improvements. Will be responsible to ensure new standards are implemented and Gitlab is in compliance. Responsible for and directs remediation plans when deficiencies are noted in testing of internal controls.
+- Owns the existing accounting and reporting standards, procedures and internal controls to drive efficiency and identify areas of improvements. Will be responsible to ensure new standards are implemented and GitLab is in compliance. Responsible for and directs remediation plans when deficiencies are noted in testing of internal controls.
 - Partner effectively with other finance team members and non-accounting functions to drive improved controls and process enhancements.
 - Subject matter expert to make decisions, prioritize effectively and meet deadlines while maintaining the highest level of standards for completeness and accuracy.
 - Sets the standard as a leader and coach for increased levels of employee job satisfaction and employee engagement through development and mentoring of the accounting team.
@@ -175,10 +175,10 @@ The Vice President, Corporate Controller is a [12](https://about.gitlab.com/hand
 
 #### Vice President, Corporate Controller Performance Indicators
 
-- [Average days to close](https://about.gitlab.com/handbook/finance/accounting/#average-days-to-close-kpi-definition)
-- [Number of material audit adjustments](https://about.gitlab.com/handbook/internal-audit/#performance-measures-for-accounting-related-to-audit)
+- [Average days to close](/handbook/finance/accounting/#average-days-to-close-kpi-definition)
+- [Number of material audit adjustments](/handbook/internal-audit/#performance-measures-for-accounting-related-to-audit)
 - [New hire location factor](/#new-hire-location-factor)
-- [Percentage of ineffective SOX Controls](https://about.gitlab.com/handbook/internal-audit/#performance-measures-for-accounting-related-to-audit)
+- [Percentage of ineffective SOX Controls](/handbook/internal-audit/#performance-measures-for-accounting-related-to-audit)
 
 ## Career Ladder
 
@@ -186,13 +186,13 @@ The next step in the Corporate Controller job family is to move to a senior lead
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Meet with PAO for 50 minutes
 - Meet with Key Reports and Key Finance Leaders - for 30 minutes each
 - Meet with People Business Partner for the CFO Organization for 25 minutes
 - Meet with VP of Finance for 50 minutes
 - Meet with CFO for 50 minutes
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

@@ -26,7 +26,7 @@ Indexes closely correlate for the most part with our [log structure](https://doc
 - `pubsub-pages-inf-gprd-*`
 - `pubsub-runner-inf-gprd-*`
 
-For example, if you're trying to track down failed logins you would search the index `pubsub-rails-inf-gprd-*`. To search for [`500` errors](/handbook/support/workflows/500_errors.html) involving a controller you'd search in `pubsub-rails-inf-gprd-*`, the default index.
+For example, if you're trying to track down failed logins you would search the index `pubsub-rails-inf-gprd-*`. To search for [`500` errors](/handbook/support/workflows/500_errors) involving a controller you'd search in `pubsub-rails-inf-gprd-*`, the default index.
 
 Along with the index, knowing *when* a specific error or event ocurred that you're trying to track down  is important and it's important to keep in mind that Kibana logs on GitLab.com persist for seven days. Kibana allows you to choose relative and absolute time ranges for search results and this can be changed by manipulating the date range:
 
@@ -184,6 +184,27 @@ In the `pubsub-rails-inf-gprd-*` log:
 
 After decoding the SAML response, and observing the results corresponding to your chosen filters, you can see if there are any missing or misconfigured attributes.
 
+##### SCIM provisioning and de-provisioning
+
+To investigate SCIM problems:
+
+In the `pubsub-rails-inf-gprd-*` log:
+
+1. Set the date range to a value that you believe will contain the result. Set it to `Last 7 days` if you're unsure.
+1. Add a positive filter on `json.path` for:
+   - `/api/scim/v2/groups/<group name>` when looking at the SCIM requests for a whole group. This path can also be found in the group's SAML settings.
+   - `/api/scim/v2/groups/<group name>/Users/<user's SCIM identifier>` when looking at the SCIM requests for a particular user.
+1. Add a positive filter on `json.methhod` for `POST` or `PATCH` (first time provisioning or update/de-provisioning respectivley).
+1. Check `json.params.value` for information.
+
+In cases where the SCIM provisioned account is deleted:
+
+1. Follow the above steps and get the `correlation_id` from the provisioning record with `POST` as `json.method`.
+1. Go to the [Correlation Dashboard](#correlation-dashboard) and search for the relevant `correlation_id`.
+1. In the results, look for records in the `Correlation Dashboard - Web` section, and an entry with `elasticsearch` as `json.subcomponent`. In that entry, find the `user_id` in `json.tracked_items_encoded` in the format of `[[numbers,"User <user_id> user_<user_id>"]]`.
+
+If the user was deleted due to an unconfirmed email, you can use the deleted `user_id` as a value for `json.args.keyword` when searching `pubsub-sidekiq-inf-gprd*`. The results should show an entry with `json.class` `DeleteUserWorker`.
+
 #### Searching for Deleted Container Registry tags
 
 Kibana can be used to determine whether a container registry tag was deleted, when, and who triggered it, if the deletion happened in the last 7 days.
@@ -259,6 +280,49 @@ If there is an error, search for an existing issue. Errors where the metadata is
 
 If no error is found and the import is partial, most likely it is a timeout issue.
 
+#### Export Errors
+
+Export errors can occur when a user attempts to export via the UI or [this API endpoint](https://docs.gitlab.com/ee/api/project_import_export.html#schedule-an-export). A parameter in the API allows for exporting to an external URL such as a pre-signed AWS S3 URL. Typically, the export process consists of:
+
+- Returning an initial `202` response to the client confirming the export has started
+- Taking from a few seconds to a few minutes to process the export, depending on the project size
+- Starting the upload to the specified upload URL
+
+Here are some suggestions for searching export logs in Kibana:
+
+- In `pubsub-sidekiq-inf-gprd` (Sidekiq), narrow the search by adding filters
+  - json.class: `ProjectExportWorker`
+  - json.meta.project `path/to/project`
+
+If using the [Correlation Dashboard](#correlation-dashboard), you should be able to follow Sidekiq events throughout the export process, and locate errors by filtering json.severity: `ERROR`. Provided below is an example of an upload failing to AWS S3:
+
+```json
+"severity": "ERROR",
+      "meta.caller_id": "ProjectExportWorker",
+      "subcomponent": "exporter",
+      ...
+      "message": "Invalid response code while uploading file. Code: 400",
+      "response_body": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<Error><Code>EntityTooLarge</Code><Message>Your proposed upload exceeds the maximum allowed size</Message><ProposedSize>6353524398</ProposedSize><MaxSizeAllowed>5368709120</MaxSizeAllowed><RequestId><omitted></RequestId><HostId><omitted></HostId></Error>",
+```
+
+The XML response can provide an indication of the failure reason, such as the project exceeding the maximum allowed size:
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<Error>
+    <Code>EntityTooLarge</Code>
+    <Message>Your proposed upload exceeds the maximum allowed size</Message>
+    <ProposedSize>6353524398</ProposedSize>
+    <MaxSizeAllowed>5368709120</MaxSizeAllowed>
+    <RequestId>
+        <omitted>
+    </RequestId>
+    <HostId>
+        <omitted>
+    </HostId>
+</Error>
+```
+
 ##### Known Import Issues
 
 - **Imported project's size differs from where it originated**
@@ -276,7 +340,7 @@ Kibana can be used to search for specific errors related to a purchase attempt. 
 
 ##### GitLab.com purchase errors
 
-**Note**: You need to have the **GitLab username** of the account used to make the purchase. Sometimes the user fills the `GitLab username` value of the ticket fields, or you can check the ticket requester's GitLab username in the [GitLab User Lookup Zendesk App](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#gitlab-super-app).
+**Note**: You need to have the **GitLab username** of the account used to make the purchase. Sometimes the user fills the `GitLab username` value of the ticket fields, or you can check the ticket requester's GitLab username in the [GitLab User Lookup Zendesk App](/handbook/support/readiness/operations/docs/zendesk/apps/#gitlab-super-app).
 
 1. Navigate to [Kibana](https://log.gprd.gitlab.net/)
 1. Ensure the `pubsub-rails-inf-gprd-*` index pattern (GitLab.com logs) is selected.
@@ -286,13 +350,13 @@ Kibana can be used to search for specific errors related to a purchase attempt. 
 
 Feeling Lazy? Go to `https://log.gprd.gitlab.net/goto/6aac4580-9d9b-11ed-85ed-e7557b0a598c` and update the value of `json.user.username`.
 
-If you encounter a generic error message try checking CustomersDot purchase error logs in [Kibana](#customersdot-purchase-errors) or [GCP](/handbook/support/license-and-renewals/workflows/customersdot/troubleshoot_errors_while_making_purchases.html#getting-error-messages-from-gcp-logs-explorer) for a more specific error.
+If you encounter a generic error message try checking CustomersDot purchase error logs in [Kibana](#customersdot-purchase-errors) or [GCP](/handbook/support/license-and-renewals/workflows/customersdot/troubleshoot_errors_while_making_purchases#getting-error-messages-from-gcp-logs-explorer) for a more specific error.
 
 **Tip:** To see the details of a user's purchase attempt, go to `https://log.gprd.gitlab.net/goto/45bb89c0-6ccc-11ed-9f43-e3784d7fe3ca` and update the value of `json.username`.
 
 ##### CustomersDot purchase errors
 
-**Note**: You need to have the **CustomersDot customer ID** of the account used to make the purchase. Refer to `Step 1` under [this section](/handbook/support/license-and-renewals/workflows/customersdot/troubleshoot_errors_while_making_purchases.html#getting-error-message-from-sentry) on how to get the customer ID.
+**Note**: You need to have the **CustomersDot customer ID** of the account used to make the purchase. Refer to `Step 1` under [this section](/handbook/support/license-and-renewals/workflows/customersdot/troubleshoot_errors_while_making_purchases#getting-error-message-from-sentry) on how to get the customer ID.
 
 1. Navigate to [Kibana](https://log.gprd.gitlab.net/)
 1. Ensure the `pubsub-rails-inf-prdsub-*` index pattern (CustomersDot logs) is selected.
@@ -306,8 +370,25 @@ In case you have the namespace details, get the **Namespace ID** then go to `htt
 
 #### Check user actions on a repository
 
-When looking at the `pubsub-rails-inf-gprd-*` index, you can determine if a user has recently cloned, pushed, or downloaded a repository. You can filter by `json.username`, `json.path` (the repository), and `json.action` to find specific events:
+When looking at the `pubsub-rails-inf-gprd-*` index, you can determine if a user has recently cloned/pushed (with HTTPS), or downloaded a repository. You can filter by `json.username`, `json.path` (the repository), and `json.action` to find specific events:
 
-- `action: git_upload_pack` is when someone performs a clone of a repository.
-- `action: git_receive_pack` is when someone push's a repository.
-- `action: archive` is when someone downloads a repository via the `Download source code` button in the UI.
+- [`action: git_upload_pack`](https://log.gprd.gitlab.net/app/r/s/dLqA1) is when someone performs a clone of a repository.
+- [`action: git_receive_pack`](https://log.gprd.gitlab.net/app/r/s/lRA1L) is when someone push's a repository.
+- [`action: archive`](https://log.gprd.gitlab.net/app/r/s/Lxx9w) is when someone downloads a repository via the `Download source code` button in the UI.
+
+To search for `git` activity over SSH, you can instead look in the `pubsub-shell-inf-gprd-*` index for specific events (note the minus signs instead of underscores):
+
+- [`command: git-upload-pack`](https://log.gprd.gitlab.net/app/r/s/B0qHS) is when someone performs a clone over SSH.
+- [`command: git-receive-pack`](https://log.gprd.gitlab.net/app/r/s/p3J0W) is when someone performs a push over SSH.
+
+You can use the links in the lists above and fill in the `json.path` or `json.gl_project_path` for the project of interest.
+
+#### Webhook related events
+
+[Webhook events](https://docs.gitlab.com/ee/user/project/integrations/webhooks.html) for GitLab.com can be located in Kibana, including identifying when a group or project has gone over [enforced rate limits](https://docs.gitlab.com/ee/user/gitlab_com/index.html#webhooks). Rate limiting varies depending on the subscription plan *and* number of seats in the subscription.
+
+Here are some suggestions:
+
+- Use `pubsub-sidekiq-inf-gprd` (Sidekiq) with the filters `json.class: "WebHookWorker"` and `json.meta.project : "path/to/project"` to identify webhook events.
+- Use `pubsub-rails-inf-gprd-*` (Rails) with the filters `json.message : "Webhook rate limit exceeded"` and `json.meta.project : "path/to/project"` to identify webhooks that failed to send due to rate limiting.
+  - You can filter between Group and Project hooks by using `json.meta.related_class : "GroupHook"` or `json.meta.related_class : "ProjectHook"`.

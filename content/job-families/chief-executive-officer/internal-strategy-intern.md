@@ -30,12 +30,12 @@ They are the internal strategy consultants of GitLab who move from problem to pr
 
 ## Performance Indicators
 
-- [Meetings shifted from CEO - hours spent in meetings decreases overtime by Chief of Staff to the CEO stepping in, supported by Internal Consultants](https://about.gitlab.com/handbook/ceo/chief-of-staff-team/#performance-indicators)
-- [Throughput - Issues or merge requests closed as measurement of projects iterated on](https://about.gitlab.com/handbook/ceo/chief-of-staff-team/#performance-indicators)
+- [Meetings shifted from CEO - hours spent in meetings decreases overtime by Chief of Staff to the CEO stepping in, supported by Internal Consultants](/handbook/ceo/chief-of-staff-team/#performance-indicators)
+- [Throughput - Issues or merge requests closed as measurement of projects iterated on](/handbook/ceo/chief-of-staff-team/#performance-indicators)
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/)
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/)
 
 - Qualified candidates will be invited to schedule a 30 minute screening call with one of our global recruiters.
 - Then, candidates will be invited to schedule a 50 minute interview with the Chief of Staff to the CEO.
@@ -43,4 +43,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Next, candidates will be invited to schedule a 50 minute interview with the Chief Marketing Officer or Executive Vice President, Engineering (based on availability).
 - Finally, candidates will meet with our CEO who will conduct the final interview.
 
-As always, the interviews and screening call will be conducted via a video call. See more details about our hiring process on the [hiring handbook](https://about.gitlab.com/handbook/hiring/).
+As always, the interviews and screening call will be conducted via a video call. See more details about our hiring process on the [hiring handbook](/handbook/hiring/).

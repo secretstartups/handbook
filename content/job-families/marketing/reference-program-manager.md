@@ -7,7 +7,7 @@ As a Reference Program Manager, you will be part of a team responsible for manag
 
 ### Job Grade
 
-The Reference Program Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Reference Program Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Requirements
 
@@ -45,7 +45,7 @@ As GitLab continues to grow, so will customer reference program support needs, r
 
 ### Job Grade
 
-The Associate Reference Program Manager is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Associate Reference Program Manager is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Requirements
 
@@ -63,7 +63,7 @@ As Reference Program Managers progress throughout their career at GitLab or we f
 
 ### Job Grade
 
-The Senior Reference Program Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Reference Program Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Requirements
 
@@ -89,7 +89,7 @@ As Senior Reference Program Managers progress throughout their career at GitLab 
 
 ### Job Grade
 
-The Staff Reference Program Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Reference Program Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Requirements
 
@@ -116,9 +116,9 @@ The next step in the Reference Programs job family is not yet defined at GitLab.
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with our Global Recruiters
+- Qualified candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with our Global Recruiters
 - Following that, candidates will be invited to schedule a 45 minute interview with a Regional Sales Director, US West, US East, or EMEA.
 - Candidates will then be invited to schedule a 45 minute interview with a Reference Program Manager
 - Next, candidates will be invited to schedule a 45 minute interview with a Senior Product Marketing Manager
@@ -127,4 +127,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Finally, selected candidates may be asked to interview with our CMO and/or CEO
 - Successful candidates will subsequently be made an offer via email
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

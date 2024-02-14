@@ -3,7 +3,7 @@
 Unlike typical companies, part of the mandates of our Security, Infrastructure, and Support Departments is to contribute to the development of the GitLab Product. This follows from these concepts, many of which are also behaviors attached to our [core values](/handbook/values/):
 
 * [Dogfooding](/handbook/values/#dogfooding)
-* [Everyone can contribute](https://about.gitlab.com/company/mission/#everyone-can-contribute)
+* [Everyone can contribute](/handbook/company/mission/#everyone-can-contribute)
 
 As such, everyone in the department should be familiar with, and be acting upon, the following statements:
 

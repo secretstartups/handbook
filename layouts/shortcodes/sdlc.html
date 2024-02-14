@@ -1,0 +1,48 @@
+{{- $displayStages := slice "plan" "create" "verify" "package" "secure" "deploy" "govern" "monitor" -}}
+{{- $marketingCategories := dict -}}
+{{- range $k, $v := site.Data.public.categories -}}
+	{{- if .marketing -}}
+		{{- $marketingCategories = merge $marketingCategories (dict $k $v) -}}
+	{{- end -}}
+{{- end -}}
+{{- $marketingStages := slice -}}
+{{- range $k, $v := site.Data.public.stages.stages -}}
+	{{- if .marketing -}}
+		{{- $mcats := slice -}}
+		{{- range .groups -}}
+			{{- range .categories -}}
+				{{- if in (collections.KeyVals $marketingCategories) . -}}
+					{{- $c := index $marketingCategories . -}}
+					{{- if or (eq $c.maturity "minimal") (eq $c.maturity "planned" ) -}}
+					{{- $mcats = append $c $mcats -}}
+					{{- end -}}
+				{{- end -}}
+			{{- end -}}
+		{{- end -}}
+		{{- if gt (len $mcats) 0 -}}
+			{{- $s := dict "key" $k "display_name" $v.display_name "categories" $mcats -}}
+			{{- $marketingStages =  append $s $marketingStages -}}
+		{{- end -}}
+	{{- end -}}
+{{- end -}}
+
+<table>
+	<thead>
+		<tr class="text-center">
+		{{- range $marketingStages}}
+			<th><a href="https://about.gitlab.com/stages-devops-lifecycle/{{.key}}">
+				<img src="/images/sdlc-icons/{{.key}}.svg" height="32" width="32"><br>
+				{{.display_name}}</a></th>
+		{{- end }}
+		</tr>
+	</thead>
+	<body>
+		{{- range $marketingStages -}}
+			<td>{{- range .categories -}}
+				{{- $url := partial "categories/best-link" . -}}
+				{{ printf "<a href=\"%s\">" $url |safeHTML }}<img src="/images/maturity/{{.maturity}}.svg" height="16" width="16"> {{ .name }}</a><br>
+				{{- end -}}
+			</td>
+		{{- end -}}
+	</body>
+</table>

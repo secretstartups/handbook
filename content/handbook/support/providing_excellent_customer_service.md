@@ -40,20 +40,20 @@ When putting a ticket `On-Hold`, you should:
   [Understanding Business Impact](#understanding-business-impact).
 - Aim to provide updates daily, and no less than every four days, which is the [`On-Hold` period length]({{< ref "zendesk-ticket-basics#behavior-of-on-hold-tickets" >}}).
 
-When setting a ticket to `Pending` or `On-Hold`, consider using our [Due Date](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#zendesk-super-app)
-and [Reminders](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#gitlab-reminders-app)
+When setting a ticket to `Pending` or `On-Hold`, consider using our [Due Date](/handbook/support/readiness/operations/docs/zendesk/apps/#zendesk-super-app)
+and [Reminders](/handbook/support/readiness/operations/docs/zendesk/apps/#gitlab-reminders-app)
 apps to help you to meet commitments you make.
 
 ### Avoiding giving concrete answers to "when can I expect feature / fix X?"
 
 During the course of your ticket work you may link back to feature requests and bugs. While an issue with an assigned milestone *may* ship in the release indicated,
-do not promise that it will be. See more in our [documentation style-guide](https://docs.gitlab.com/ee/development/documentation/styleguide/#promising-features-in-future-versions).
+do not promise that it will be. See more in our [documentation style-guide](https://docs.gitlab.com/ee/development/documentation/versions#promising-features-in-future-versions).
 
 ## Emotionally-charged tickets
 
 When customers are putting negative emotions into ticket communications, refer
 to the handbook entry on
-[how to keep a ticket moving toward resolution when emotions are getting involved](/handbook/support/workflows/emotionally-charged-tickets.html)
+[how to keep a ticket moving toward resolution when emotions are getting involved](/handbook/support/workflows/emotionally-charged-tickets)
 for helpful tips and guidance.
 
 ## A ticket is close to breaching; I need more time for my full reply
@@ -102,21 +102,23 @@ Please see option 3 in [Requesting Support for Customers](/handbook/support/inte
 
 ## Removing Information From Tickets
 
-We ask users to send us logs and other files that are crucial in helping us solve the problems they are experiencing. If a user requests deletion of information shared in a support ticket, or if we suspect sensitive information was accidentally shared, the information can be deleted using the [`Ticket Redaction`](https://www.zendesk.com/apps/support/ticket-redaction/) app.
+We ask users to send us logs and other files that are crucial in helping us solve the problems they are experiencing. If a user requests deletion of information shared in a support ticket, or if we suspect sensitive information was accidentally shared, the information can be deleted using a Zendesk feature. Redaction is not reversible.
 
 To delete text or attachments from a ticket:
 
-1. Go to the ticket in question and on the right hand nav bar, scroll down until you are able to locate the Ticket Redaction app.
-1. In the text box, enter a string of text or source image URL you wish to redact.
-1. If you wish to remove an attachment, you can click on the `Redact Attachment` button and choose the attachment you would like to remove.
+1. Follow the steps in Zendesk [documentation](https://support.zendesk.com/hc/en-us/articles/4408846470170-Redacting-ticket-content#ariaid-title4).
 1. Let the user know what actions you have taken and why. Request the user to rotate any secrets that may have been shared.
 
-If you don't see the Ticket Redaction App in the sidebar, it is likely that you are not assigned to one of the authorized roles (you can check your role in Zendesk profile). In this case, please reach out to `@support_operations` or `@support-managers` in Slack to request deletion. Zendesk roles that have access to Ticket Redaction App:
+If you don't see the option to redact, it is likely that you are not assigned to one of the authorized roles (you can check your role in Zendesk profile). In this case, please reach out to `#support_operations` or `#spt_managers` in Slack to request deletion. Zendesk roles that have access to redact:
 
-- Support Staff - Explore
-- Support Staff
+- Admin
+- GitLab Staff
+- GitLab Staff - Explore
+- Security Staff
 - Support Managers
-- Administrators
+- Support Staff
+- Support Staff - CMOC
+- Support Staff - Explore
 
 ## Handling tickets created by GitLab team members
 

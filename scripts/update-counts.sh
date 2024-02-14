@@ -9,7 +9,7 @@ mr_count () {
     echo Updating counts for the handbook.
     COUNT_FILE=csv/handbook-count.csv
     # Append latest data
-    echo $TODAY,$WORDCOUNT,$PAGECOUNT,Live Count,,, >> $COUNT_FILE
+    echo $TODAY,$WORDCOUNT,$PAGECOUNT,Live Count >> $COUNT_FILE
 }
 
 clone_repo () {
@@ -26,7 +26,7 @@ quarterly_count () {
     echo Performing quarterly page count on the Handbook...
     PAGECOUNT=$(find /tmp/handbook/content/handbook -type f -name "*.md" | LC_ALL=C wc -l)
     echo Updating the quartly count for the handbook.
-    echo $TODAY,$WORDCOUNT,$PAGECOUNT,,,, >> $COUNT_FILE
+    echo $TODAY,$WORDCOUNT,$PAGECOUNT, >> $COUNT_FILE
 }
 
 legacy_handbook_count () {
@@ -40,7 +40,7 @@ legacy_handbook_count () {
     LEGACY_WORD_COUNT=$(find /tmp/www-gitlab-com/sites/handbook/source/handbook -type f \( -name "*.md" -or -name "*.md.erb" \) -exec cat {} + | LC_ALL=C wc -w)
     echo Performing page count...
     LEGACY_PAGE_COUNT=$(grep -l -r "\- TOC" /tmp/www-gitlab-com/* | wc -l)
-    echo $TODAY,$LEGACY_WORD_COUNT,$LEGACY_PAGE_COUNT,,,, >> $COUNT_FILE
+    echo $TODAY,$LEGACY_WORD_COUNT,$LEGACY_PAGE_COUNT, >> $COUNT_FILE
     echo www-gitlab-com quarterly count complete.
 }
 

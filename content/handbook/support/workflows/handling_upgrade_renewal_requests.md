@@ -15,7 +15,7 @@ license or GitLab.com subscription.
 ##### Workflow
 
 1. Make sure that there aren't any other types of queries that would need the Support team's attention
-1. Use the `General::Licensing` macro to transfer the ticket
+1. Use the `General::Forms::Incorrect form used` macro to transfer the ticket
 
 #### High Priority Cases
 

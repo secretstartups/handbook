@@ -11,7 +11,7 @@ The Senior Manager, Content Marketing reports to the Director, Global Content.
 
 #### Senior Manager, Content Marketing Job Grade
 
-The Senior Manager, Content Marketing is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Senior Manager, Content Marketing is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Senior Manager, Content Marketing Responsibilities
 
@@ -56,7 +56,7 @@ The Director, Global Content reports to VP, Brand & Product Marketing.
 
 #### Director, Global Content Job Grade
 
-The Director, Global Content is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Global Content is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, Global Content Responsibilities
 
@@ -88,12 +88,12 @@ The next step in the Senior Manager, Content Marketing job family is not yet def
 
 ## Hiring process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#conducting-a-screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#conducting-a-screening-call) with one of our Global Recruiters.
 - A 45-minute interview with our Director, Corporate Marketing
 - A 45-minute interview with our Senior Manager, Corporate Communications
 - A 45-minute interview with our Director, Brand & Digital
 - A 45-minute interview with our CMO
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

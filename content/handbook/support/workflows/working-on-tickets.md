@@ -42,7 +42,7 @@ Through that process you may:
 
    d. If all High priority tickets are addressed, help with Normal or Low priority tickets that are at risk of breaching.
 
-   e. If the next Normal or Low priority ticket to breach is > 4 hours, focus on your NRTs, your group's NRTs, and finally free user tickets (tickets with no SLA).
+   e. If the next Normal or Low priority ticket to breach is > 4 hours, focus on your NRTs, your group's NRTs, including unassigned tickets which have the `Handover Status` field set to `Needs Handover`, and finally free user tickets (tickets with no SLA).
 
    Proceed to
    [ticket assignment](#assigning-tickets)
@@ -50,19 +50,25 @@ Through that process you may:
 1. Select a new, unassigned ticket in another group's view
 
    In this situation, follow the guidance in the SGG FAQ to
-   [move the ticket to your group](/handbook/support/support-global-groups/sgg-faq.html#3-how-do-i-move-a-ticket-to-a-different-group)
+   [move the ticket to your group](/handbook/support/support-global-groups/sgg-faq/#3-how-do-i-move-a-ticket-to-a-different-group)
    before proceeding to [ticket assignment](#assigning-tickets)
 
 1. Select an in-progress ticket assigned to someone else
 
    In this situation, proceed according to the guidance in our SGG FAQ about
-   [responding to other SEs’ tickets](/handbook/support/support-global-groups/sgg-faq.html#1-should-ses-respond-to-other-ses-tickets).
+   [responding to other SEs’ tickets](/handbook/support/support-global-groups/sgg-faq/#1-should-ses-respond-to-other-ses-tickets).
+
+### Reduced capacity
+
+At certain times, the Support team will experience reduced operational capacity due to factors such as scheduled meet-ups, holidays, Summits, and other similar events. During these instances, the team will operate in a designated 'reduced capacity' mode, in which we will switch our primary focus from the normal SGG views to the special 'All FRT and Emergencies' and 'All NRT' views. Through these views each Support Engineer will see all incoming tickets, regardless of SGG assignment.
+
+We will expect Support Engineers to proactively claim ownership of any unassigned tickets they engage with during a reduced capacity period and [move the tickets to their group](/handbook/support/support-global-groups/sgg-faq/#3-how-do-i-move-a-ticket-to-a-different-group).
 
 ## Assigning tickets
 
 When you begin work on a new ticket, as your first step please assign the ticket
-to yourself using the `take it` button. In the SGG environment, that shouldn't
-prevent anybody from collaborating with you on the ticket. What it ***will*** do
+to yourself using the `take it` button, then click on 'Submit as Open/Pending' to ensure it's assigned to you.
+In the SGG environment, that shouldn't prevent anybody from collaborating with you on the ticket. What it ***will*** do
 is signal that you're the DRI for providing a great customer experience, as the
 ticket progresses towards `Status: Solved`. This enables other team members
 seeking to assign themselves New ticket/s from the queue, to move on to reviewing
@@ -115,32 +121,33 @@ ticket to a great resolution. You're never alone. So go ahead and accept the
 challenge! Assign the ticket to yourself, send out your first response, and
 seek help as soon as you need it.
 
-### Assigning a ticket with a different preferred region
+### Assigning and handling tickets which have a different preferred region in your SGG
 
-In SGG, if you've found a new (no first response yet) ticket in your group's
-view that you would like to work, you should feel free to work it regardless
-of its `Preferred region` setting. Please assign yourself the ticket and
-provide a substantive first response as usual. The one extra thing you should do
-is determine whether to keep the ticket or to do a "warm transfer" to **a member
-of your group** who is in the preferred region.
+#### Pathway for handling high priority tickets from a different region
 
-1. If you're confident that your first response will result in the ticket being
-   solved, then keep it.
-1. Otherwise:
-   1. Include a message in your first response informing the customer
-      that you work in a region different from theirs and that it is their
-      choice whether to continue to work with you or to have you transfer their
-      ticket to a support engineer in their region.
-   1. If the customer requests a transfer, proceed with the steps in [Handing over tickets and customer calls between regions](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html#handing-over-tickets-and-calls-between-regions)
+If a ticket is marked as `High Priority` and there's a risk it might breach the FRT SLA time before the preferred region's support is online, take the assignment, send a substantive response to the requester, and then proceed with the steps in [Cross Region handover of tickets and customer calls](/handbook/support/workflows/working-on-tickets/#cross-region-handover-of-tickets-and-customer-calls).
 
-### Handing over tickets and customer calls between regions
+#### Pathway for handling normal and low priority tickets from a different region
 
-1. Be sure the ticket is well-documented, including any thoughts you have regarding next steps.
-1. Ask in your group's Slack channel for one of the SEs in the target region to assign the ticket to themself, to notify the customer of the transfer and to continue the ticket work where you left off.
-1. Visibility: Make sure to use the regional group handle (`@spt-[SGG]-[region]`) so the request is visible for the right group members.
-1. CC (@ mention) the [Support Manager on-call](https://about.gitlab.com/handbook/support/on-call/#seeing-which-manager-is-on-call) in the region you want to reach, so they can help ensure the ticket gets assigned.
-1. Bonus info: You can also use the Slack ["schedule message"](https://slack.com/help/articles/201457107-Send-and-read-messages#send-or-schedule-messages) feature, to ensure the message pops up within working hours of the intended region.
-1. **Until another SE has taken assignment, keep the ticket assigned to yourself and continue to work with the customer.** Be sure to notify the customer that you're working on the transfer.
+1. If a ticket is not marked as `High Priority`,` and you're confident in your ability to resolve it, follow these steps:
+      - Take assignment of the ticket and prepare the first technical response.
+      - Use the ZD macro `clarify preferred region assignment`` as part of the first response.
+      - If the customer responds and confirms the preferred region, proceed with the steps in [Cross Region handover of tickets and customer calls](/handbook/support/workflows/working-on-tickets/#cross-region-handover-of-tickets-and-customer-calls).
+      - If the customer is okay with out-of-region support, continue to offer assistance and regularly assess customer satisfaction and technical progress. Consider a handover if the ticket's priority changes or if the customer becomes frustrated.
+      - If neither of the above scenarios applies, continue to work on the ticket to find a solution.
+1. If a ticket is not marked as `High Priority`,` and it's at risk of breaching the FRT SLA, and you are not confident in resolving the issue, follow these steps:
+      - Take assignment of the ticket.
+      - Provide a first technical response to the customer.
+      - Proceed with the steps in [Cross Region handover of tickets and customer calls](/handbook/support/workflows/working-on-tickets#cross-region-handover-of-tickets-and-customer-calls).
+
+#### Pathway for handling tickets handed over from a different region
+
+1. Set the text field `Handover Status` to the appropriate value, for example if you are based in the EMEA region set the value to `Handed over to EMEA`. This is to ensure that the ticket will be counted as part of your baseline ticket metrics.
+1. Review the `Handover Ticket Summary` entry of the ticket and check the NRT (Next Response Time) SLA.
+   - If you know how to proceed with the ticket:
+      - Introduce yourself to the customer, confirm the handover, and provide the next technical response.
+   - If additional research is necessary prior to providing a technical response:
+      - Introduce yourself to the customer and set clear expectations that further research and a review of the existing information is required before providing the next technical response.
 
 ## Providing a first response to a ticket
 
@@ -192,16 +199,65 @@ needs, and that might save you and the customer time and effort as well.
        for further guidance on this workflow.
     1. Submit the ticket as `Open`
     1. Please consider using the
-       ['Due Date'](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#zendesk-super-app) and
-       ['Reminder'](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#gitlab-reminders-app)
+       ['Due Date'](/handbook/support/readiness/operations/docs/zendesk/apps/#zendesk-super-app) and
+       ['Reminder'](/handbook/support/readiness/operations/docs/zendesk/apps/#gitlab-reminders-app)
        apps.
+
+## Cross Region handover of tickets and customer calls
+
+Cross Region Handover requests are async by nature, which can make it difficult to find a new assignee.  To address this, follow the documented process below to help expedite the assignment of handover tickets.
+
+### Preparing a ticket for Handover
+
+To request a handover of any ticket, even a low-priority one, to a different region, use and complete the [ZenDesk macro named `Handover Ticket Summary`](https://gitlab.com/gitlab-com/support/zendesk-global/macros/-/blob/master/active/General/Handover%20Ticket%20Summary.md?ref_type=heads).
+If you don't use the macro, the ticket will be considered to have been improperly prepared for handover and will be reassigned to the requestor.
+
+Once you save the ticket in the `Open` state, the macro will also:
+- Apply the `Need Handover` value to the `Handover Status` field
+- Set the ticket to be unassigned, and add you to the `CC` field
+
+### Using the Cross Region Handover Form
+
+The existing Handover Form is reserved for high-priority tickets only, ensuring a streamlined process for urgent cases, reducing noise and allowing Support Engineers to handle lower-priority tickets without managerial guidance.
+
+Ensure that you have followed the steps above in relation to preparing the ticket for handover:
+
+
+1. Select a handover form from the Handovers folder that is bookmarked at the top of your SGG channel. Choose the form (such as Handover to EMEA) based on the target region to which you need to handover the ticket.
+1. Fill out all fields (using as much detail as possible for the paragraph fields), then click Submit.
+1. A message will post to your group’s Slack channel, which will ping the regional group handle as well as the associated SGG Support Managers.
+1. You will also receive a private Slack message with the full details of your form submission, including a reminder to use the `Handover Ticket Summary` macro (required).
+1. You can track your request in the Ticket Handover Tracker sheet that you will also find in the Handovers folder.
+1. Managers and Seniors should periodically review the Ticket Handover Tracker sheet to help address any pending requests.
+
+
+## Contacting a Customer Success Manager or Account Manager
+
+There are many reasons you may need to bring in a customer's Customer Success Manager (CSM), including but not limited to:
+
+1. Customer needs to discuss their architecture.
+1. Customer needs a Professional Services engagement.
+1. Customer wants to discuss how best to work with Support.
+
+Depending on the situation, you may need to [STAR]({{< ref "../internal-support/support-ticket-attention-requests.md" >}}) or [start an escalation]({{< ref "emergency-to-escalation-process.md" >}}).
+Please refer to the appropriate workflow for those situations.
+
+In the case there is no CSM, contact the Account Manager (AM) - job title varies, Zendesk label is "Account Owner".
+
+If you need to involve the CSM or AM in the conversation, you can use one or more of the following approaches:
+
+1. Add the CSM/AM to the Zendesk ticket as a CC, and let the customer know you've done this. Leave an internal note for additional context if needed.
+1. Notify the CSM/AM through Slack, in one of the following ways:
+   1. If there is an existing thread discussing the ticket, `@` mention the CSM/AM to add them to the discussion, including a summary in your message for a long thread.
+   1. Look for a customer channel (`#a_customerName-internal`) and start a new thread, mentioning the CSM/AM.
+   1. Mention the CSM/AM on a new message in the most relevant Support channel: `#spt_managers`, `#support_gitlab-com`, or `#support-self_managed`.
 
 ## FAQ
 
 ### 1. How many new tickets should I pick up each week?
 
 Each week, every Support Engineer should aim at least to meet, and preferably to exceed, [the
-appropriate baseline](/handbook/support/support-engineer-responsibilities.html#ticket-baseline) from the following list for the number of first responses:
+appropriate baseline](/handbook/support/support-engineer-responsibilities/#ticket-baseline) from the following list for the number of first responses:
 
 - **Self-managed: 6 tickets**
 - **SaaS: 7 tickets**
@@ -219,13 +275,13 @@ There will be times when you may be leading an escalation, working through chall
 
 ### 2. What can I do when I'm stuck and I really need help?
 
-   Follow the [how to get help workflow](/handbook/support/workflows/how-to-get-help.html)
+   Follow the [how to get help workflow](/handbook/support/workflows/how-to-get-help/)
    for guidance on this. Reach out to a manager for guidance if you are still
    stuck.
 
 ### 3. I'm going to be absent, what do I do with my assigned tickets?
 
-   Please see the [Support Team Member Time Off page](/handbook/support/support-time-off.html)
+   Please see the [Support Team Member Time Off page](/handbook/support/support-time-off/)
    for a full description of this situation.
 
 ### 4. The customer is absent and wants to keep the ticket open until they're back
@@ -234,7 +290,7 @@ There will be times when you may be leading an escalation, working through chall
    and then set the ticket to **On-Hold** *and* change it to type **Task** with a reminder for yourself
    to check in with the customer x days after their planned return.
    This way, the ticket will permanently stay **On-Hold** for the duration of the customer's absence. See
-   [Behavior of `On-Hold` tickets](/handbook/support/workflows/zendesk-ticket-basics.html#behavior-of-on-hold-tickets)
+   [Behavior of `On-Hold` tickets](/handbook/support/workflows/zendesk-ticket-basics/#behavior-of-on-hold-tickets)
    for details.
 
 ### 5. May I reassign a ticket to someone else?
@@ -242,7 +298,7 @@ There will be times when you may be leading an escalation, working through chall
    There are some situations in which it is appropriate to reassign a ticket:
 
    1. If you'll be absent, follow the guidance given on the
-      [Support Team Member Time Off page](/handbook/support/support-time-off.html).
+      [Support Team Member Time Off page](/handbook/support/support-time-off/).
    1. If you've determined that specific expertise outside your own is required
       to resolve the ticket, pair with an expert so that you can get the ticket
       resolved and learn in the process. If that person determines that they

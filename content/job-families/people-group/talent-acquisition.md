@@ -8,7 +8,7 @@ The GitLab Recruiter creates a positive experience for candidates and hiring tea
 
 ### Job Grade
 
-The Recruiter is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Recruiter is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -44,7 +44,7 @@ The Recruiter is a [grade 6](https://about.gitlab.com/handbook/total-rewards/com
 
 ##### Job Grade
 
-The Recruiting Intern is not aligned to a job [grade](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Recruiting Intern is not aligned to a job [grade](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ##### Responsibilities
 
@@ -70,7 +70,7 @@ The Recruiting Intern is not aligned to a job [grade](https://about.gitlab.com/h
 
 ##### Job Grade
 
-The Associate Recruiter is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Associate Recruiter is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ##### Requirements
 
@@ -87,7 +87,7 @@ Associate recruiters share the same requirements as the Intermediate recruiter l
 
 ##### Job Grade
 
-The Senior Recruiter is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Recruiter is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ##### Requirements
 
@@ -104,7 +104,7 @@ Senior recruiters share the same requirements as the Intermediate recruiter list
 
 ##### Job Grade
 
-The Recruiting Lead is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Recruiting Lead is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ##### Responsibilities
 
@@ -135,7 +135,7 @@ The Recruiting Lead is a [grade 8](https://about.gitlab.com/handbook/total-rewar
 
 ##### Job Grade
 
-The Manager, Recruiting is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Recruiting is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ##### Responsibilities
 
@@ -166,7 +166,7 @@ The Manager, Recruiting is a [grade 8](https://about.gitlab.com/handbook/total-r
 
 ##### Job Grade
 
-The Senior Manager, Recruiting is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Recruiting is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ##### Responsibilities
 
@@ -197,7 +197,7 @@ The Senior Manager, Recruiting is a [grade 9](https://about.gitlab.com/handbook/
 
 ##### Job Grade
 
-The Director, Recruiting is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Recruiting is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ##### Responsibilities
 
@@ -235,7 +235,7 @@ The Director, Recruiting is a [grade 10](https://about.gitlab.com/handbook/total
 
 ##### Job Grade
 
-The Senior Director, Talent Acquisition is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, Talent Acquisition is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ##### Responsibilities
 
@@ -346,7 +346,7 @@ The Senior Director, Talent Acquisition is a [grade 11](https://about.gitlab.com
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 - Qualified candidates will be invited to schedule a 30 minute screening call with our Recruiting Manager
 - Then, candidates will be invited to schedule a 30 minute interview with one of our Recruiters
@@ -356,8 +356,8 @@ Candidates for this position can expect the hiring process to follow the order b
 - Finally, our CEO may choose to conduct a final interview
 
 As always, the interviews and screening call will be conducted via a video call.
-See more details about our hiring process on the [hiring handbook](https://about.gitlab.com/handbook/hiring/).
+See more details about our hiring process on the [hiring handbook](/handbook/hiring/).
 
 ## Career Ladder
 
-The next step in the Recruiting job family is to move to the [Recruiting Leadership](https://handbook.gitlab.com/job-families/people-group/talent-acquisition-leadership/) job family.
+The next step in the Recruiting job family is to move to the [Recruiting Leadership](/job-families/people-group/talent-acquisition-leadership/) job family.

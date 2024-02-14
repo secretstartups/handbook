@@ -12,11 +12,11 @@ Support Engineers comprise the vast majority of Customer Support. This page pres
 
 ## Hiring flow
 
-Hiring is described on the [jobs page](https://handbook.gitlab.com/job-families/engineering/support-engineer/#hiring-process) for Support Engineers. The following are the stages carried out by Customer Support team members.
+Hiring is described on the [jobs page](/job-families/engineering/support-engineer/#hiring-process) for Support Engineers. The following are the stages carried out by Customer Support team members.
 
 ### Sourcing
 
-If you have open positions on your team, you should join (or arrange) a [source-a-thon](#source-a-thons) on a regular basis to proactively identify candidates our recruiters can reach out to. More information can be found on the general [Sourcing page](https://about.gitlab.com/handbook/hiring/sourcing/).
+If you have open positions on your team, you should join (or arrange) a [source-a-thon](#source-a-thons) on a regular basis to proactively identify candidates our recruiters can reach out to. More information can be found on the general [Sourcing page](/handbook/hiring/sourcing/).
 
 ### Technical questionnaire
 
@@ -75,7 +75,7 @@ The technical interview process is documented in the [Support Team project](http
 
 ## Pre-Hiring
 
-Before you can do any of the above you'll need to have an open requisition and a vacancy in that requisition. You can learn more about these terms and the process at [Requisitions and Vacancies](https://about.gitlab.con/handbook/hiring/vacancies/) in the [Hiring Section of the Handbook](https://about.gitlab.com/handbook/hiring/).
+Before you can do any of the above you'll need to have an open requisition and a vacancy in that requisition. You can learn more about these terms and the process at [Requisitions and Vacancies](https://about.gitlab.con/handbook/hiring/vacancies/) in the [Hiring Section of the Handbook](/handbook/hiring/).
 
 ### How a candidate gets routed to a manager
 
@@ -103,9 +103,9 @@ For each vacancy there should be a:
 ## Source-a-thons
 
 A source-a-thon is a synchronous or asynchronous activity where one or more individuals gets together to actively look for candidates.
-If you want to participate, make sure you [upgrade your LinkedIn Account](https://about.gitlab.com/handbook/hiring/sourcing/#upgrading-your-linkedin-account).
+If you want to participate, make sure you [upgrade your LinkedIn Account](/handbook/hiring/sourcing/#upgrading-your-linkedin-account).
 
-More general information about this activity is on the [general Source-a-thon page](https://about.gitlab.com/handbook/hiring/sourcing/#source-a-thons).
+More general information about this activity is on the [general Source-a-thon page](/handbook/hiring/sourcing/#source-a-thons).
 
 ### AMER - Sip 'n Source
 

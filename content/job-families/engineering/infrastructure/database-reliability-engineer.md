@@ -72,7 +72,7 @@ The GitLab Database Ecosystem has the following areas of interest:
 
 #### Job Grade
 
-The Database Reliability Engineer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Database Reliability Engineer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -92,7 +92,7 @@ The Database Reliability Engineer is a [grade 6](https://about.gitlab.com/handbo
 
 #### Job Grade
 
-The Senior Database Reliability Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Database Reliability Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -113,7 +113,7 @@ The Senior Database Reliability Engineer is a [grade 7](https://about.gitlab.com
 
 #### Job Grade
 
-The Staff Database Reliability Engineer is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Database Reliability Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 Staff Database Reliability Engineer are Senior Database Reliability Engineers who additionally meet the following criteria:
 
@@ -139,7 +139,7 @@ Communication and Collaboration:
 Influence and Maturity:
 
 1. Routinely has an impact on the broader Engineering organization
-1. Write in-depth documentation that shares knowledge and radiates GitLab technical strengths. Participate actively and lead Gitlab technical/Business calls.
+1. Write in-depth documentation that shares knowledge and radiates GitLab technical strengths. Participate actively and lead GitLab technical/Business calls.
 1. Have a high level of self awareness.
 1. Help to develop other team members into senior levels and leaders in the team.
 1. Collaborates closely with development groups and exerts influence on how GitLab (the application) interacts with the database
@@ -148,20 +148,20 @@ Influence and Maturity:
 
 Database Reliability Engineers have the following job-family performance indicators:
 
-- [GitLab.com Availability](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#gitlab-com-availability)
-- [GitLab.com Performance](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#gitlab-com-performance)
-- [Apdex and Error SLO per Service](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#apdex-and-error-slo-per-service)
-- [Mean Time to Detection](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#mean-time-to-detection-mttd)
-- [Mean Time to Resolution](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#mean-time-to-resolution-mttr)
-- [Mean Time Between Failure](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#mean-time-between-failures-mtbf)
-- [Mean Time to Production](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#mean-time-to-production-mttp)
-- [Disaster Recovery Time to Recovery](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#disaster-recovery-dr-time-to-recover)
+- [GitLab.com Availability](/handbook/engineering/infrastructure/performance-indicators/#gitlab-com-availability)
+- [GitLab.com Performance](/handbook/engineering/infrastructure/performance-indicators/#gitlab-com-performance)
+- [Apdex and Error SLO per Service](/handbook/engineering/infrastructure/performance-indicators/#apdex-and-error-slo-per-service)
+- [Mean Time to Detection](/handbook/engineering/infrastructure/performance-indicators/#mean-time-to-detection-mttd)
+- [Mean Time to Resolution](/handbook/engineering/infrastructure/performance-indicators/#mean-time-to-resolution-mttr)
+- [Mean Time Between Failure](/handbook/engineering/infrastructure/performance-indicators/#mean-time-between-failures-mtbf)
+- [Mean Time to Production](/handbook/engineering/infrastructure/performance-indicators/#mean-time-to-production-mttp)
+- [Disaster Recovery Time to Recovery](/handbook/engineering/infrastructure/performance-indicators/#disaster-recovery-dr-time-to-recover)
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to a 30min [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with our Global Recruiters.
+- Qualified candidates will be invited to a 30min [screening call](/handbook/hiring/#screening-call) with our Global Recruiters.
 - Next, candidates will move to the first round of interviews.
   - 60 Minute Technical Interview with a Senior DBRE.
   - Two 60 Minute Technical Interviews with a member of the Infrastructure Engineering team
@@ -171,8 +171,8 @@ Candidates for this position can expect the hiring process to follow the order b
 - Successful candidates will subsequently be made an offer.
 
 As always, the interviews and screening call will be conducted via a video call.
-See more details about our hiring process on the [hiring handbook](https://about.gitlab.com/handbook/hiring/).
+See more details about our hiring process on the [hiring handbook](/handbook/hiring/).
 
 ## Career Ladder
 
-For more details on the engineering career ladders, please review the [engineering career development](https://about.gitlab.com/handbook/engineering/career-development/#roles) handbook page.
+For more details on the engineering career ladders, please review the [engineering career development](/handbook/engineering/career-development/#roles) handbook page.

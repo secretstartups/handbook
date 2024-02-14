@@ -14,7 +14,7 @@ The Program Manager, TA Enablement reports to the Senior Manager, TA Enablement.
 
 #### Program Manager, TA Enablement Job Grade
 
-The Progam Manager, TA Enablement is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Progam Manager, TA Enablement is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Program Manager, TA Enablement Responsibilities
 
@@ -48,7 +48,7 @@ The Senior Program Manager, Enablement reports to the Senior Manager, Global Ena
 
 #### Senior Program Manager, Global TA Enablement Job Grade
 
-The Senior Progam Manager, Global TA Enablement is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Progam Manager, Global TA Enablement is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Program Manager, Global TA Enablement Responsibilities
 
@@ -85,7 +85,7 @@ The Manager, Global TA Enablement reports to the Senior Director of Talent Brand
 
 #### Manager, Global TA Enablement Job Grade
 
-The Manager, Global TA Enablement is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Global TA Enablement is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Global TA Enablement Responsibilities
 
@@ -96,7 +96,7 @@ The Manager, Global TA Enablement is a [grade 8](https://about.gitlab.com/handbo
 - Partner with finance and our PBP team to ensure that the necessary process flows are built for scale
 - Partner with our Data and Analytics team to build a solid reporting suite for the Head of TA, their leadership team and the hiring manager community
 - Provide coaching to improve performance of team members and drive accountability
-- Develop, own and run the Gitlab hiring planning process in collaboration with the various operations teams, finance and the PBP’s
+- Develop, own and run the GitLab hiring planning process in collaboration with the various operations teams, finance and the PBP’s
 - Build trusted partnerships within GitLab and externally to collaborate, drive alignment and stay on top of trends
 - Leverage our candidate facing teams to advocate for our employer brand and deliver a world-class experience
 - Help define and leverage data-focused metrics in order to develop and deliver on the goals
@@ -125,7 +125,7 @@ The Senior Manager, Global TA Enablement reports to the Senior Director of Talen
 
 #### Senior Manager, Global TA Enablement Job Grade
 
-The Senior Manager, Global TA Enablement is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Global TA Enablement is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Global TA Enablement Responsibilities
 
@@ -139,7 +139,7 @@ The Senior Manager, Global TA Enablement is a [grade 9](https://about.gitlab.com
 - Partner with our Legal team to ensure our practices and processes are in line with employment laws in locations where we operate
 - Provide coaching to improve performance of team members and drive accountability
 - Onboard, mentor, and grow the careers of all team members in the TA Enablement and Candidate Experience teams
-- Develop, own and run the Gitlab hiring planning process in collaboration with the various operations teams, finance and the PBP’s
+- Develop, own and run the GitLab hiring planning process in collaboration with the various operations teams, finance and the PBP’s
 - Build trusted partnerships within GitLab and externally to collaborate, drive alignment and stay on top of trends
 - Leverage our candidate facing teams to advocate for our employer brand and deliver a world-class experience
 - Help define and leverage data-focused metrics in order to develop and deliver on the goals

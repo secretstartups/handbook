@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+
 title: Handling multi-year subscriptions
 description: "How to handle GitLab multi-year subscriptions"
 category: GitLab Self-Managed licenses

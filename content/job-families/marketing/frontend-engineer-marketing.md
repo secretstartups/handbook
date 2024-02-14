@@ -3,7 +3,7 @@ title: Frontend Engineering - Marketing
 description: "Frontend Engineering on the Marketing team work on our marketing site. They work closely with product marketing, content marketing, and other members of the Marketing team."
 ---
 
-Frontend Engineers on the Marketing team work on our marketing site: about.GitLab.com. They work closely with product marketing, content marketing, and other members of the Marketing team. They are a part of the [Digital Experience team](https://about.gitlab.com/handbook/marketing/digital-experience/), and report to the [Director, Digital Experience](/job-families/marketing/digital-experience/#director-of-digital-experience).
+Frontend Engineers on the Marketing team work on our marketing site: about.GitLab.com. They work closely with product marketing, content marketing, and other members of the Marketing team. They are a part of the [Digital Experience team](/handbook/marketing/digital-experience/), and report to the [Director, Digital Experience](/job-families/marketing/digital-experience/#director-of-digital-experience).
 
 ## Responsibilities
 
@@ -40,7 +40,7 @@ The Frontend Engineer (Intermediate) reports the the [Director, Digital Experien
 
 #### Frontend Engineer (Intermediate) Job Grade
 
-The Frontend Engineer (Intermediate) is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Frontend Engineer (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Frontend Engineer (Intermediate) Responsibilities
 
@@ -58,7 +58,7 @@ The Senior Frontend Engineer reports the the [Director, Digital Experience](/job
 
 #### Senior Frontend Engineer Job Grade
 
-The Senior Frontend Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Frontend Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior Frontend Engineer Responsibilities
 
@@ -80,7 +80,7 @@ The Manager, Engineering reports the the [Director, Digital Experience](/job-fam
 
 #### Manager, Engineering Job Grade
 
-The Manager, Engineering is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Engineering is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Engineering Responsibilities
 
@@ -115,9 +115,9 @@ The Manager, Engineering is a [grade 8](https://about.gitlab.com/handbook/total-
 
 ## Performance Indicators
 
-- [Contributing to the success of Digital Experience's Quarterly Initiatives](https://about.gitlab.com/handbook/marketing/digital-experience/#okrs)
-- [Identifying and organizing epics into executable Sprint plans](https://about.gitlab.com/handbook/marketing/digital-experience/#iteration-process)
-- [Successfully completing bi-weekly Sprint tasks](https://about.gitlab.com/handbook/marketing/digital-experience/#sprint-cycle)
+- [Contributing to the success of Digital Experience's Quarterly Initiatives](/handbook/marketing/digital-experience/#okrs)
+- [Identifying and organizing epics into executable Sprint plans](/handbook/marketing/digital-experience/#iteration-process)
+- [Successfully completing bi-weekly Sprint tasks](/handbook/marketing/digital-experience/#sprint-cycle)
 
 ## Career Ladder
 
@@ -125,12 +125,12 @@ The next step in the Frontend Engineer job family is not yet defined at GitLab.
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, you can find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, you can find their job title on our [team page](/handbook/company/team/).
 
-- Select candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Global Recruiters.
+- Select candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 30 minute interview with our Director, Digital Experience.
 - Next, candidates will be invited to schedule a 30 minute technical interview with our Fullstack Engineer and a Frontend Engineer on the Marketing team.
 - Next, candidates will be invited to schedule a 30 minute interview with the Senior Director, Growth Marketing.
 - Finally, candidates will be invited to schedule a 30 minute follow up interview with the Director, Digital Experience.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

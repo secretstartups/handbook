@@ -1,0 +1,20 @@
+<table style="display: table;">
+    <thead>
+        <tr>
+            <th>Country</th>
+            <th>Probation Period</th>
+            <th>Notice during probation</th>
+            <th>Notice after probation</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{- range sort (where site.Data.public.entity_mapper "probation_months" "gt" 0) "country" }}
+          <tr>
+              <td>{{ .country }}</td>
+              <td>{{ .probation_months }} months {{ with .probation_extra }}{{ . }}{{ end }}</td>
+              <td>{{ .notice_during_probation }}</td>
+              <td>{{ .notice_after_probation }}</td>
+          </tr>
+        {{- end }}
+    </tbody>
+</table>

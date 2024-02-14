@@ -34,11 +34,11 @@ title: Data Intelligence
 
 ### Senior Manager
 
-The Senior Manager of Data Intelligence reports to the [Director, Sales Operations](https://about.gitlab.com/job-families/sales/sales-operations/). The Senior Manager, Data Intelligence is a strategic business partner and liaison to the sales organization and the relevant cross functional teams. This role will create and formalize the full cycle of data quality and governance to deliver trusted data to users.
+The Senior Manager of Data Intelligence reports to the [Director, Sales Operations](/job-families/sales/sales-operations/). The Senior Manager, Data Intelligence is a strategic business partner and liaison to the sales organization and the relevant cross functional teams. This role will create and formalize the full cycle of data quality and governance to deliver trusted data to users.
 
 #### Job Grade
 
-The Senior Manager of Data Intelligence is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager of Data Intelligence is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -68,10 +68,10 @@ The Senior Manager of Data Intelligence is a [grade 9](https://about.gitlab.com/
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Qualified candidates will be invited to schedule a 30 minute interview with the Hiring Manager
 - Qualified candidates will be invited to schedule a 30 minute interview with their peers Senior Manager of Sales Operations and a 30 minute interview with the Senior Manager of Deal Desk / Order Management
 - Qualified candidates that are ready to proceed to the next step of the process will be invited to schedule 30 minute intervies with the Sr. Director of Sales Operations and the VP of Field Operations
 - Final top qualified candidate will be invited to schedule a 30 minute conversational interview with a direct report
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

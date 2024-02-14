@@ -19,16 +19,18 @@ The Renewals Operations Analyst (Intermediate) reports to the [Senior Manager Cu
 
 #### Renewals Operations Analyst (Intermediate) Job Grade
 
-The Renewals Operations Analyst (Intermediate) is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Renewals Operations Analyst (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Renewals Operations Analyst (Intermediate) Responsibilities
 
-- Maintain and report an accurate rolling 12+ month forecast of renewals for the global Commercial Sales Team
+- Support the maintenance of an accurate rolling 12+ month forecast of renewals
+- Support the Renewals team with day to day requests such as prcoess guidance, data quality and complex deal management
 - Build and maintain reports for key metrics such as renewal revenue, bookings, retention rate, and overall customer health
 - Actively engage with key sales leaders and decision-makers to identify customer requirements and uncover roadblocks to ensure on-time renewals and retention goals
 - Work with cross-functional teams like Product, Strategy, and Finance to champion impactful process improvement and automation for the benefit of Renewals
 - Develop playbooks for renewal engagement maximizing revenue retention
 - Identify opportunities for process automation and optimization, with a focus on scalability and driving significant growth
+- Identify and report on Churn, Contraction and Growth trends within the book of business and effectively communicate them to cross functional leaders
 - Improve the sales team’s effectiveness and efficiency and provide increased customer insights through data, automation, and product analytics
 - Proactively drive a high degree of CRM data quality by leveraging creative system solutions and delivering end-user training
 
@@ -56,7 +58,7 @@ The  Senior Renewals Operations Analyst reports to the [Senior Manager Customer 
 
 #### Senior Renewals Operations Analyst Job Grade
 
-The  Senior Renewals Operations Analyst is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The  Senior Renewals Operations Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Renewals Operations Analyst Responsibilities
 
@@ -65,7 +67,7 @@ The  Senior Renewals Operations Analyst is a [grade 7](https://about.gitlab.com/
 
 #### Manager, Renewal Operations Job Grade
 
-The  Manager, Renewal Operations is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The  Manager, Renewal Operations is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Renewal Operations Responsibilities
 
@@ -101,7 +103,7 @@ The  Manager, Renewal Operations is a [grade 8](https://about.gitlab.com/handboo
 
 #### Senior Manager, Renewal Operations Job Grade
 
-The Senior Manager, Renewal Operations is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Renewal Operations is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Renewal Operations Responsibilities
 
@@ -128,9 +130,9 @@ The Senior Manager, Renewal Operations is a [grade 9](https://about.gitlab.com/h
 ## Performance Indicators
 
 - SMAU
-- [CSAT](https://about.gitlab.com/handbook/business-technology/metrics/#customer-satisfaction-survey-csat)
-- [PNPS](https://about.gitlab.com/handbook/product/performance-indicators/#gitlab-com-paid-net-promoter-score-pnps)
-- [Churn & customer retention metrics](https://about.gitlab.com/handbook/customer-success/vision/#retention-and-reasons-for-churn)
+- [CSAT](/handbook/business-technology/metrics/#customer-satisfaction-survey-csat)
+- [PNPS](/handbook/product/performance-indicators/#gitlab-com-paid-net-promoter-score-pnps)
+- [Churn & customer retention metrics](/handbook/customer-success/vision/#retention-and-reasons-for-churn)
 
 ## Career Ladder
 
@@ -140,8 +142,8 @@ The next step in the Renewals Operations job family is not yet defined at GitLab
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a first interview with the Hiring Manager
 - Next, candidates will be invited to interview with 2-5 Team Members
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
