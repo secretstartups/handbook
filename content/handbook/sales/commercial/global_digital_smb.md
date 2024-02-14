@@ -6,6 +6,8 @@ description: "Overview of the Global Digital SMB Sales Model"
 
 ## Global Digital SMB Sales Model
 
+[FY25 Global Digital SMB Highspot Page](https://gitlab.highspot.com/items/65c2b953cdfb65754adda353?lfrm=shp.0)
+
 [FY25 Global Digital SMB All-Hands Deck](https://docs.google.com/presentation/d/1NIznURPvchLXw22X7JMlaAhKcwoiMUCQhIG2TpTGFUw/edit#slide=id.g2b17593787a_0_275)
 
 All members of the Sales, Support, Billing and Deal Desk teams should familiarize themselves with the Global Digital SMB Model.
@@ -114,11 +116,12 @@ If a GitLab team member needs to loop in the Advocate team on a customer Account
 - Select a *Type* that most closely matches the origin of your request. (e.g if you are in Support, select *Inbound Request via Support*)
 - Set the *Priority* to High. 
 - Complete the *Subject* field.
+    - E.g. *Support Ticket*, *Partner Opp*, *Referral*, *AR Request*
     - Note: if you are an SDR creating the case, the *Case Subject* must be either equal *FO Opp*, or *SDR Created* (See *Use Case Specifics* below)
 - Select a *Case Reason* based on the customers needs.
 - **Check the *Assign using active assignment rules* checkbox, and click *Save*.If this is not done, the case will not enter the queue, and will not be actioned**
 - This Case will now drop into the SMB Sales Queue, and will be actioned by a SMB Advocate.
-- Note: if you are an SDR creating the case, the case 
+
 
 
 ## SMB Advocate Playbook
@@ -306,7 +309,7 @@ Due to the high case volume, it is imperative that the Required 10 is followed, 
 - Q. Where can I provide feedback on this model/ process?
 - A. Please submit all feedback via the #XXXX slack channel.  If you want to share Feedback relating to a specific case, please enter the feedback in the Case: Feedback field. 
 - Q. Is additional enablement material available?
-- A. Yes, please see the content below;
+- A. Yes, please see the Highspot page linked at the top of this page. 
 - Q. As an GitLab Team Member who is not part of the SMB Team, how do I engage with the team?
 - A. Follow the process above entitled *Working with the Global Digital SMB Account Team*. 
 - Q.  What happens if the end user speaks a different language than I do?
@@ -320,11 +323,11 @@ Due to the high case volume, it is imperative that the Required 10 is followed, 
 - Q. There is no opportunity linked to the case, but I have identified a Growth/ Add On opportunity, what do I do?
 - A. If you discover a Growth opportunity, you should manually create a Growth/ Add On opp and link it to the case via the Opportunity field. If an opp is already attached to the case (Renewal or QSR opp), this opp should be updated to reflect the possible growth. 
 - Q. If I am working a case, and the customer advises they are looking to expand but not for 6 months, should I close out the case?
-- A. No, update the Next Steps stating that the customer is open to conversation in 6 months.  Also change the Next Steps Date to 6 month from todays date.  Finally set to Case Owner to your territories SMB Sales User (AMER or EMEA). The case will subsequently drop back into the queue in 6 months times. 
+- A. No, update the Next Steps stating that the customer is open to conversation in 6 months.  Also change the Next Steps Date to 6 month from todays date.  Finaly click the Edit buton on the case, and check the *Asign using active assignment rules*. The case will subsequently drop back into the queue in 6 months time. 
 - Q. I am an AE not in the SMB Org, and a former customer has reached out to me.  This customer is now owned by an SMB Sales User.  How do I hand this customer over to the SMB Sales Team?
 - A. Follow this [process](https://docs.google.com/document/d/1Bc9N0Cvc65NjWHSVoliUp6injZNlbkjEEEZ0dYQm_Ck/edit#heading=h.wmdr1tkj670j). 
 - Q. I just closed won on opp for a SMB Customer, which took them above the $30k CARR threshold.  How do I hand this over to MM?
-- A. See this [doc](https://docs.google.com/document/d/1dIJwPRo3rQnE1e4LBG-lT4ZvJ3nXzMuKwP8mF54jACo/edit). 
+- A. See this [doc](https://docs.google.com/document/d/1dIJwPRo3rQnE1e4LBG-lT4ZvJ3nXzMuKwP8mF54jACo/edit). Note that accounts will be moved to MM at the start of the next quarter.
 - Q. If I pick up a case, and the customer is interested in speaking in 6 months, do I keep the case open, or close it out?
 - A. In this scenario, the case should be put back in the queue, and become available to be picked up again in 6 months time.  To do this;
   - Update the Next Steps on the case, as per your conversation with the customer.
@@ -333,7 +336,7 @@ Due to the high case volume, it is imperative that the Required 10 is followed, 
   - Check the *Assing using active assignment rules checkbox*.
   - The case will now reappear in the queue in 6 months time, and any Advocate will be free to work the case.
 - Q. If a prospect/ customer emails me directly requesting assistance, what do I do?
-- A. First check the account to see if there is an In Progress SMB Sales Case owned by a different Advocate.  If there is, add the nature of the customers request to the Description field, and chatter the Advocate on the case. If no case is present on the opp, follow the above process (*Working with the Global Digital SMB Account Team*.), and assign the case directly to yourself. 
+- A. First check the account to see if there is an In Progress SMB Sales Case owned by a different Advocate.  If there is, add the nature of the customers request to the Description field, and chatter the Advocate on the case. If no case is present, and this enquiry represents a nARR opportunity, follow the above process (*Working with the Global Digital SMB Account Team*.), and assign the case directly to yourself. Note: for general enquiries, you should direct customers to smallbusiness@gitlab.com
 
 ## Escalation Paths
 
