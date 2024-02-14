@@ -11,16 +11,17 @@ description: "This page is an overview of the search team alignment and the tale
 | Executive          | Zach Choquette   | Michelle Jubrey  |
 | Enterprise Sales, AMER | Kevin Rodrigues |Sarah Lynch |
 | Enterprise Sales, EMEA | Joanna Tourne | Lerato Thipe |
-| Sales, AMER | Marcus Carter | Michelle Jubrey |
+| Customer Success & Solutions Architect | Ornella Miles | Lerato Thipe |
 | Commercial Sales/R&D, EMEA | Ben Cowdry | Lerato Thipe |
+| Sales, AMER | Marcus Carter | Michelle Jubrey |
 | Sales | Kelsey Hart  | Fernando Khubeir |
-| Customer Success, EMEA | Joanna Tourne | Lerato Thipe |
 | Customer Success, AMER | Barbara Dinoff |  Sarah Lynch |
 | All Business, APAC | Yas Priatna  | Lerato Thipe |
 | Marketing/ G&A, Global | Steph Sarff | Michelle Jubrey |
 | Marketing, BDR/SDR/G&A (Global)| Caroline Rebello |  Michelle Jubrey |
 | G&A | Hannah Stewart  | Sarah Lynch |
 | G&A | Jenna VanZutphen  | Fernando Khubeir |
+| G&A | Aiste Juozaponyte  | TBD |
 | Engineering, Development | Sara Currie, Matt Angell, Chux Ugorji | Alice Crosbie |
 | Engineering, Development | Heather Tarver | Fernando Khubeir |
 | Engineering, Development | Joe Guiler, Seema Anand, Anna Kioukis | Teranay Dixon |
@@ -28,7 +29,6 @@ description: "This page is an overview of the search team alignment and the tale
 | Engineering, Infrastucture   | Michelle A. Kemp | Sarah Lynch  |
 | Engineering, Infrastucture   | Aziz Quadri | Alice Crosbie  |
 | Customer Support | Joanna Michniewicz  |  Alice Crosbie |
-| Specialty Tech | TBD  |  Alice Crosbie |
 | Product Management | Holly Nesselroad | Fernando Khubeir |
 | Security | Holly Nesselroad | Fernando Khubeir |
 | Design/UX  | Riley Smith | Lerato Thipe  |
