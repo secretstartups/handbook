@@ -1,5 +1,7 @@
 ---
 title: "Content workflows for Developer Advocates"
+aliases:
+- /handbook/marketing/developer-relations/developer-evangelism/content/index.html
 ---
 
 

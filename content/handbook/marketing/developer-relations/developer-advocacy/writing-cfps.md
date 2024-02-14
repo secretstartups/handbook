@@ -1,6 +1,8 @@
 ---
 
 title: "Writing Successful Conference Proposals"
+aliases:
+- /handbook/marketing/developer-relations/developer-evangelism/writing-cfps/index.html
 ---
 
 
