@@ -54,12 +54,12 @@ Depending on the context here are the most appropriate ways to reach out to the 
 #### Team Meetings
 
 1. **Weekly Work Assignment Meeting**
-   - **When:** Every Monday, alternating time zones from Europe to Asia–Pacific weekly
+   - **When:** Every Monday, 14:00 PM GMT+1
    - **What:** This meeting is dedicated to workload assignment. The Engineering Manager and Product Manager assign work as needed for the entire team.
 
-2. **Monthly Team-Wide Meeting**
-   - **When:** Once a month
-   - **What:** This meeting is an open discussion for the entire team to share ideas, discuss ongoing projects, and plan for the future.
+2. **Bi-Weekly Engineering Sync**
+   - **When:** Every other Thursday, alternating between 11:00 AM GMT+1 and 18:00 PM GMT+1
+   - **What:** This meeting is dedicated to the engineering team for the purpose of syncing up on progress, discussing technical challenges, and planning upcoming sprints.
 
 3. **Monthly Sync Retro**
    - **When:** Once a month
