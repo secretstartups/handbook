@@ -1,6 +1,8 @@
 ---
 
 title: "Developer Advocacy Team Calendar"
+aliases:
+- /handbook/marketing/developer-relations/developer-evangelism/calendar/index.html
 ---
 
 

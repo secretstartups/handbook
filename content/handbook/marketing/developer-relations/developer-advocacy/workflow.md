@@ -1,6 +1,8 @@
 ---
 
 title: "Developer Advocate Team Workflow"
+aliases:
+- /handbook/marketing/developer-relations/developer-evangelism/workflow/index.html
 ---
 
 
@@ -11,19 +13,19 @@ title: "Developer Advocate Team Workflow"
 
 ## Team Workflow
 
-Welcome to the Developer Advocate team workflow page. Learn how the team works and how to work with the team. We primarily use the [Developer Advocate Meta issue tracker](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues). We own the team label `dev-evangelism` and all of our other labels which are located at the [gitlab-com](https://gitlab.com/gitlab-com) group level. You can add the labels as necessary to any issue under this group for our team to track.
+Welcome to the Developer Advocate team workflow page. Learn how the team works and how to work with the team. We primarily use the [Developer Advocate Meta issue tracker](https://gitlab.com/gitlab-com/marketing/community-relations/developer-advocacy/meta/-/issues). We own the team label `developer-advocacy` and all of our other labels which are located at the [gitlab-com](https://gitlab.com/gitlab-com) group level. You can add the labels as necessary to any issue under this group for our team to track.
 
 ### How to work with the Developer Advocate Team
 
-Opening an issue is the best way to get a conversation started. The `dev-evangelism` label is at the `gitlab-com` group level, which means it can be added to any issue or merge request in the group's structure.
+Opening an issue is the best way to get a conversation started. The `developer-advocacy` label is at the `gitlab-com` group level, which means it can be added to any issue or merge request in the group's structure.
 
-The `dev-evangelism` label is required, other labels are optional. The [DE-Bot](/handbook/marketing/developer-relations/developer-evangelism/projects/#developer-evangelism-bot) or a team member will do the triage and add the necessary labels. To reduce noise in the comments, please add the `DE-Type::Consulting` and the relevant `Consulting` team labels yourself.
+The `developer-advocacy` label is required, other labels are optional. The [DA-Bot](/handbook/marketing/developer-relations/developer-advocacy/projects/#developer-advocacy-bot) or a team member will do the triage and add the necessary labels. To reduce noise in the comments, please add the `DA-Type::Consulting` and the relevant `Consulting` team labels yourself.
 
-You can use the [request an evangelist issue template](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues/new?issuable_template=developer-evangelist-request) to submit a request. It provides a guide to collect the required information to triage the request.
+You can use the [request an evangelist issue template](https://gitlab.com/gitlab-com/marketing/community-relations/developer-advocacy/meta/-/issues/new?issuable_template=developer-evangelist-request) to submit a request. It provides a guide to collect the required information to triage the request.
 
 ## Roadmap view
 
-The Developer Advocate team uses the [Roadmap in the Developer Relations Group](https://go.gitlab.com/community-relations-team-roadmap) to track our work. Epics for our team are tracked within this group using the `dev-evangelism` label. 
+The Developer Advocate team uses the [Roadmap in the Developer Relations Group](https://go.gitlab.com/community-relations-team-roadmap) to track our work. Epics for our team are tracked within this group using the `developer-advocacy` label. 
 
 ### Epics
 
@@ -72,7 +74,7 @@ These are the recommended labels for Epics created in the Developer Relations gr
 
 **Important!** Where you are adding a label to a sub-epic, its ancestors must include the label for filtering to work properly. This is a workaround, because the roadmap only filters top-level epics using labels, but works when an epic and its ancestors have the label you are filtering with. For example, in the image below, you will notice that the FY24 Content & the sub epic "Blog post - March 2023", both have the label `Content-Blog`, they both appear when the label is used as a filter. The child epic will not appear in the filter, when its ancestors don't have the label you are searching with.
 
-![Roadmap Filter using Labels](/images/handbook/marketing/developer-relations/developer-evangelism/workflow/roadmap-labels.png)
+![Roadmap Filter using Labels](/images/handbook/marketing/developer-relations/developer-advocacy/workflow/roadmap-labels.png)
 
 ### Syncing epics roadmap with the technical content plan
 
@@ -99,7 +101,7 @@ The following quick actions example updates a content epic from FY24Q3 to FY24Q4
 
 To get notifications, you can [subscribe to epic labels](https://docs.gitlab.com/ee/user/project/labels.html#receive-notifications-when-a-label-is-used) starting with the ["DevRel" prefix](https://gitlab.com/groups/gitlab-com/-/labels?subscribed=&search=devrel).
 
-Please follow the [content library resources](/handbook/marketing/developer-relations/developer-evangelism/content/) for general content updates. 
+Please follow the [content library resources](/handbook/marketing/developer-relations/developer-advocacy/content/) for general content updates. 
 
 ### Epic Templates
 
@@ -149,11 +151,11 @@ Please use this template when creating Epics for activities that should appear f
 
 On completion:
 
-- [ ] [Distribute the content](https://handbook.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/content/content-distribution) (Highspot, Slack, social media, etc.)
+- [ ] [Distribute the content](https://handbook.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/content/content-distribution) (Highspot, Slack, social media, etc.)
 - [ ] Add results to the epic, and to the technical content sheet. Mark the sheet row as completed (green).
 
 <!-- these labels should be included on all templates -->
-/label ~"dev-evangelism" 
+/label ~"developer-advocacy" 
 
 <!-- Note: These are samples for guidance, please add relevant labels for activity region, type, quarter or any other labels relevant to your team/program. Please update or include additional relevant labels here. -->
 
@@ -219,7 +221,7 @@ On completion:
 - [ ] [Create event report slides and share them](/handbook/marketing/developer-relations/events/#event-reporting)
 
 <!-- these labels should be included on all templates -->
-/label ~"dev-evangelism" 
+/label ~"developer-advocacy" 
 
 <!-- Example: These are samples for guidance, please add relevant labels for activity region, type, quarter or any other labels relevant to your team/program. Please include additional relevant labels here.  -->
 
@@ -245,7 +247,7 @@ On completion:
 ```markdown
 ## 👀 Pins
 
-* [Release Evangelism handbook](/handbook/marketing/developer-relations/developer-evangelism/social-media/#release-evangelism) provides all resources. 
+* [Release Evangelism handbook](/handbook/marketing/developer-relations/developer-advocacy/social-media/#release-evangelism) provides all resources. 
 * [#release-post](https://gitlab.slack.com/archives/C3TRESYPJ) Slack channel (internal)
 
 ### ✍ Release post
@@ -311,7 +313,7 @@ _Metrics, traces, analytics, value stream dashboards, etc._
 
 > 💡 Add a new buffer campaign and post screenshots into this issue. 
 
-/label ~"dev-evangelism" ~"DE-Type::Evangelist" ~"DevRel-Content"  ~"Content-Releases" 
+/label ~"developer-advocacy" ~"DA-Type::Evangelist" ~"DevRel-Content"  ~"Content-Releases" 
 
 
 ```
@@ -322,21 +324,21 @@ CFP epics should not be created to avoid clutter on the Roadmap, instead the `CF
 
 ### Epics Triage
 
-The [DE-Bot](https://gitlab.com/gitlab-de/de-bot) uses the [GitLab Triage](https://gitlab.com/gitlab-org/ruby/gems/gitlab-triage) project to ensure appropriate & consistent usage of labels.
+The [DevRel-Bot](https://gitlab.com/gitlab-da/devrel-bot) uses the [GitLab Triage](https://gitlab.com/gitlab-org/ruby/gems/gitlab-triage) project to ensure appropriate & consistent usage of labels.
 
 ## Labels
 
-The Developer Advocate team workflow is supported by labels, which help determine the type of issue, its status, and other relevant information. The team's primary label is `dev-evangelism`. All issues the team owns, are a part of, or needs to be aware of, should be tagged with `dev-evangelism`. Other Labels are listed below:
+The Developer Advocate team workflow is supported by labels, which help determine the type of issue, its status, and other relevant information. The team's primary label is `developer-advocacy`. All issues the team owns, are a part of, or needs to be aware of, should be tagged with `developer-advocacy`. Other Labels are listed below:
 
 #### General labels
 
 | **CFP Labels** | **Description** |
 | ---------- | ----------- |
-| `DE-DueSoon` | This is used to monitor DE issues that are due soon |
-| `DE-Peer-Review` | Feedback is needed on the issue from DE team members |
-| `DE-Ops` | Used to label issues related to the Developer Advocacy `Ops in DevOps` theme |
-| `DE-Dev` | Used to label issues related to the Developer Advocacy `Dev in DevOps` theme |
-| `DE-k8s` | Used to label issues related to the Developer Advocacy `Kubernetes` theme |
+| `DA-DueSoon` | This is used to monitor DE issues that are due soon |
+| `DA-Peer-Review` | Feedback is needed on the issue from DE team members |
+| `DA-Ops` | Used to label issues related to the Developer Advocacy `Ops in DevOps` theme |
+| `DA-Dev` | Used to label issues related to the Developer Advocacy `Dev in DevOps` theme |
+| `DA-k8s` | Used to label issues related to the Developer Advocacy `Kubernetes` theme |
 
 ### Issue management
 
@@ -344,21 +346,21 @@ The team creates issues for iteration, team discussions, and other issues for in
 
 | **Process Labels** | **Description** |
 | -------------- | ----------- |
-| `DE-Process::Open` | Process related issues that are still being discussed or worked |
-| `DE-Process::Pending` | Process related issues on hold due to an external factor |
-| `DE-Process::Done` | Completed Process issues |
-| `DE-Process::FYI` | Issues that require no action from the team, but need to be aware of |
+| `DA-Process::Open` | Process related issues that are still being discussed or worked |
+| `DA-Process::Pending` | Process related issues on hold due to an external factor |
+| `DA-Process::Done` | Completed Process issues |
+| `DA-Process::FYI` | Issues that require no action from the team, but need to be aware of |
 
 #### Workflow
 
 | Label | Use |
 |-------|-----|
-|`DE-Status::ToDo` | Issues that are planned for the future |
-|`DE-Status::Doing` | Issues the team is currently working on |
-|`DE-Status::Done` | Issues that have been completed |
-|`DE-Status::OnHold` | Issues that are for whatever resume pending |
-|`DE-Status::Cancelled` | Issues that have been cancelled, either by the team or the requestor in the case of a consulting request |
-|`DE-Status::FYI` | Issues the team needs to be aware of but no action is required |
+|`DA-Status::ToDo` | Issues that are planned for the future |
+|`DA-Status::Doing` | Issues the team is currently working on |
+|`DA-Status::Done` | Issues that have been completed |
+|`DA-Status::OnHold` | Issues that are for whatever resume pending |
+|`DA-Status::Cancelled` | Issues that have been cancelled, either by the team or the requestor in the case of a consulting request |
+|`DA-Status::FYI` | Issues the team needs to be aware of but no action is required |
 
 The default flow is from ToDo -> Doing -> (OnHold) -> Done. Issues with FYI don't go through any workflow, as they are owned by another team and will go through a different workflow.
 
@@ -368,53 +370,68 @@ These labels help identify the type of activity documented in an issue. These ar
 
 | Label | Use |
 |-------|-----|
-| `DE-Type::Content` | Issues for Content creation, this can be any type of content |
-| `DE-Type::Evangelist` | Issues for the Evangelist program |
-| `DE-Type::Process` | Issues for operational activities of the team |
-| `DE-Type::Response` | Issues for Community Response activities |
-| `DE-Type::Consulting` | Issues requested by other teams, more details below |
+| `DA-Type::Content` | Issues for Content creation, this can be any type of content |
+| `DA-Type::Evangelist` | Issues for the Evangelist program |
+| `DA-Type::Process` | Issues for operational activities of the team |
+| `DA-Type::Response` | Issues for Community Response activities |
+| `DA-Type::Consulting` | Issues requested by other teams, more details below |
+| `DA-Type::analysts` | Work for analysts |
+| `DA-Type::blog` | Tracking blog work for Developer Advocacy team |
+| `DA-Type::collateral` | For tracking work on things like whitepapers, etc |
+| `DA-Type::competitive` | Competitive research and/or comparison work |
+| `DA-Type::demo` | |
+| `DA-Type::demo-azure` | Demos that show GitLab working with Azure |
+| `DA-Type::enablement` | Internal enablement activities (sales, CS, SDR, etc)|
+| `DA-Type::learn` | work related to setup/maintenance of learn@GitLab that is OTHER THAN asset creation.|
+| `DA-Type::other` | Work that doesn't fall into other defined categories. One off work, etc.|
+| `DA-Type::partner` | |
+| `DA-Type::presentation` | Work around creating and/or presenting an presentation|
+| `DA-Type::tech-marketing` | Technical Product Marketing Management team|
+| `DA-Type::web` | Web pages|
+| `DA-Type::workshop` | |
+
 
 #### Consulting Labels
 
 Requests from other teams for the Developer Advocates to own, participate or collaborate on activities are classified as consulting, and these requests are usually labeled based on the team requesting. These are teams in the company that the Developer Advocate team collaborate with often, here are their labels:
 
-- `DE-Consulting::Alliances`
-- `DE-Consulting::CorpComms`
-- `DE-Consulting::CorpEvents`
-- `DE-Consulting::Community`
-- `DE-Consulting::Engineering`
-- `DE-Consulting::FieldMktg`
-- `DE-Consulting::GrowthMktg`
-- `DE-Consulting::Product`
-- `DE-Consulting::Sales`
+- `DA-Consulting::Alliances`
+- `DA-Consulting::CorpComms`
+- `DA-Consulting::CorpEvents`
+- `DA-Consulting::Community`
+- `DA-Consulting::Engineering`
+- `DA-Consulting::FieldMktg`
+- `DA-Consulting::GrowthMktg`
+- `DA-Consulting::Product`
+- `DA-Consulting::Sales`
 
-These labels are required where an issue has `DE-Issue-Type::External` and `DE-Type::Consulting`, aside the team label `dev-evangelism` and `DE-Status` scoped label. If your team is not listed, you can still submit a request and it will be triaged appropriately
+These labels are required where an issue has `DA-Issue-Type::External` and `DA-Type::Consulting`, aside the team label `developer-advocacy` and `DA-Status` scoped label. If your team is not listed, you can still submit a request and it will be triaged appropriately
 
-Issues created for Consulting count against team quarterly budgets, you can learn more in the [Request budgets section below](/handbook/marketing/developer-relations/developer-evangelism/workflow/#request-budgets).
+Issues created for Consulting count against team quarterly budgets, you can learn more in the [Request budgets section below](/handbook/marketing/developer-relations/developer-advocacy/workflow/#request-budgets).
 
 #### Bot Labels
 
-These labels are automatically assigned by the [DE-Bot](/handbook/marketing/developer-relations/developer-evangelism/projects/#developer-evangelism-bot) for triaging purposes.
+These labels are automatically assigned by the [DA-Bot](/handbook/marketing/developer-relations/developer-advocacy/projects/#developer-advocacy-bot) for triaging purposes.
 
 
 | Label | Use |
 |-------|-----|
-| `DE-Bot::Auto` | Issue is automatically created by DE-Bot and will be closed after a period, usually 2 weeks from creation |
-| `DE-Bot::Hold` | Issue is currently on hold and should not be triaged by teh DE-Bot except where it has been in the Hold status for too long. |
-| `DE-Bot::Skip` | The DE-Bot should not perform any action on issues with this label
-| `DE-Bot::Triage` | Issue has been silent for a while and needs to be triaged |
-| `DE-Due::AddDate` | An Issue needs a due date |
-| `DE-Due::N/A` | Due date is not needed because the team doesn't own the issue or a due date is not applicable |
-| `DE-Due::Past` | Issue is past its due date |
-| `DE-Due::Soon` | Issue is due soon |
+| `DA-Bot::Auto` | Issue is automatically created by DA-Bot and will be closed after a period, usually 2 weeks from creation |
+| `DA-Bot::Hold` | Issue is currently on hold and should not be triaged by teh DA-Bot except where it has been in the Hold status for too long. |
+| `DA-Bot::Skip` | The DA-Bot should not perform any action on issues with this label
+| `DA-Bot::Triage` | Issue has been silent for a while and needs to be triaged |
+| `DA-Due::AddDate` | An Issue needs a due date |
+| `DA-Due::N/A` | Due date is not needed because the team doesn't own the issue or a due date is not applicable |
+| `DA-Due::Past` | Issue is past its due date |
+| `DA-Due::Soon` | Issue is due soon |
 
 #### Other Labels
 
 | Label | Use |
 |-------|-----|
-| `DE-Release-Evangelism` | Release Evangelism issues, often auto created and closed by the DE-Bot |
-| `DE-Issue-Type::External` | Issues created by Other teams |
-| `DE-Issue-Type::Internal` | Issues created & owned by the DevEvangelism team
+| `DA-Release-Evangelism` | Release Evangelism issues, often auto created and closed by the DA-Bot |
+| `DA-Issue-Type::External` | Issues created by Other teams |
+| `DA-Issue-Type::Internal` | Issues created & owned by the DevEvangelism team
 
 #### CFP Labels
 
@@ -461,7 +478,7 @@ stop
 Example CFP workflow using [quick actions](https://docs.gitlab.com/ee/user/project/quick_actions.html):
 
 1. Planning to submit, or when you have submitted already:
-    1. Create a new [CFP issue](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues/new?issuable_template=cfp).
+    1. Create a new [CFP issue](https://gitlab.com/gitlab-com/marketing/community-relations/developer-advocacy/meta/-/issues/new?issuable_template=cfp).
     2. The issue template already sets the `~"CFP" ~"CFP::Open"` labels.
     3. Set the due date to the CFP submission due date.
 2. Submitted 1 talk:
@@ -490,11 +507,11 @@ Example CFP workflow using [quick actions](https://docs.gitlab.com/ee/user/proje
 ```
 
 5. When the event is done, update the issue with feedback and results.
-    1. Add talk videos to the [YouTube playlist](/handbook/marketing/developer-relations/developer-evangelism/#youtube-playlist), if existing.
-    2. Mark the issue as `DE-Status::Done` and close it.
+    1. Add talk videos to the [YouTube playlist](/handbook/marketing/developer-relations/developer-advocacy/#youtube-playlist), if existing.
+    2. Mark the issue as `DA-Status::Done` and close it.
 
 ```
-/label ~DE-Status::Done
+/label ~DA-Status::Done
 /close
 ```
 
@@ -504,8 +521,8 @@ If the CFP closed without submission, add the `CFP::Closed` label. In case the C
 
 ### Boards
 
-- [Team General Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1565342?&label_name[]=dev-evangelism)
-- [Team Activity Type Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/3811304?label_name[]=dev-evangelism)
+- [Team General Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1565342?&label_name[]=developer-advocacy)
+- [Team Activity Type Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/3811304?label_name[]=developer-advocacy)
 - [CFP Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1616902?label_name[]=CFP)
 
 ### Request budgets
@@ -528,7 +545,7 @@ Event requests include both event attendance (ex: attending client meetings, eve
 
 CFP requests include asking a Developer Advocate to submit a proposal for an event or media opportunity or support a fellow team member in submitting to an open CFP.
 
-See [Requesting a Developer Advocate to submit a CFP](/handbook/marketing/developer-relations/developer-evangelism/cfps/) to request a Developer Advocate to submit to a CFP for a corporate, field, or partner event.
+See [Requesting a Developer Advocate to submit a CFP](/handbook/marketing/developer-relations/developer-advocacy/cfps/) to request a Developer Advocate to submit to a CFP for a corporate, field, or partner event.
 
 #### Content requests
 
@@ -549,15 +566,15 @@ Each team listed below is allocated 15 points per quarter for requests:
 
 | Team                       | Team Label  |
 |----------------------------|------------------|
-| Corporate Events           | `DE-Consulting::CorpEvents`  |
-| Corporate Communications   | `DE-Consulting::CorpComms`   |
-| Developer Relations        | `DE-Consulting::Community`   |
-| Growth Marketing           | `DE-Consulting::GrowthMktg`  |
-| Field Marketing / ABM      | `DE-Consulting::FieldMktg`   |
-| Sales / SDRs               | `DE-Consulting::Sales`       |
-| Alliances                  | `DE-Consulting::Alliances`  |
-| Product                    | `DE-Consulting::Product`     |
-| Engineering                | `DE-Consulting::Engineering` |
+| Corporate Events           | `DA-Consulting::CorpEvents`  |
+| Corporate Communications   | `DA-Consulting::CorpComms`   |
+| Developer Relations        | `DA-Consulting::Community`   |
+| Growth Marketing           | `DA-Consulting::GrowthMktg`  |
+| Field Marketing / ABM      | `DA-Consulting::FieldMktg`   |
+| Sales / SDRs               | `DA-Consulting::Sales`       |
+| Alliances                  | `DA-Consulting::Alliances`  |
+| Product                    | `DA-Consulting::Product`     |
+| Engineering                | `DA-Consulting::Engineering` |
 
 If your team is not listed above, we will handle your request based on our availability.  
 

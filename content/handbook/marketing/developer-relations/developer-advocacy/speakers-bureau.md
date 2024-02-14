@@ -2,6 +2,8 @@
 
 title: "Join the Speakers Bureau"
 description: "The Speakers Bureau is a group of GitLab team members and members of the wider GitLab community who are available to participate in events and deliver talks."
+aliases:
+- /handbook/marketing/developer-relations/developer-evangelism/speakers-bureau/index.html
 ---
 
 

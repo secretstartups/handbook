@@ -1,6 +1,8 @@
 ---
 
 title: "Projects"
+aliases:
+- /handbook/marketing/developer-relations/developer-evangelism/projects/index.html
 ---
 
 

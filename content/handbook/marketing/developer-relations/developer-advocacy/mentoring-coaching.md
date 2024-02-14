@@ -1,6 +1,8 @@
 ---
 
 title: "Developer Advocacy: Mentoring and Coaching"
+aliases:
+- /handbook/marketing/developer-relations/developer-evangelism/mentoring-coaching/index.html
 ---
 
 

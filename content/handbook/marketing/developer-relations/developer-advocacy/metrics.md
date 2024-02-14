@@ -1,6 +1,8 @@
 ---
 
 title: "Metrics Collection & Analysis"
+aliases:
+- /handbook/marketing/developer-relations/developer-evangelism/metrics/index.html
 ---
 
 

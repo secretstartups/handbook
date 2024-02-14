@@ -68,7 +68,7 @@ Teams within Developer Relations are reachable in these Slack channels:
 ### <i class="far fa-edit fa-fw color-orange font-awesome"></i> Our handbooks
 
 - [Contributor Success](/handbook/marketing/developer-relations/contributor-success/)
-- [Developer Advocacy](/handbook/marketing/developer-relations/developer-evangelism/)
+- [Developer Advocacy](/handbook/marketing/developer-relations/developer-advocacy/)
 - [Community Programs](/handbook/marketing/developer-relations/community-programs/)
     - [Open Source Program](/handbook/marketing/developer-relations/community-programs/opensource-program/)
     - [Education Program](/handbook/marketing/developer-relations/community-programs/education-program/)
