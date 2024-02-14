@@ -31,7 +31,7 @@ Develop cutting-edge AI-powered tools that enhance the efficiency and creativity
 
 The following people are permanent members of the Code Creation Team:
 
-{{% team-by-manager-role role="Backend(.*)Manager(.*)Create:Code Creation" team="Code Creation" %}}
+{{< team-by-manager-slug "mnohr" >}}
 
 You can reach the whole team on GitLab issues/MRs by using the `@code-creation-team` handle.
 
