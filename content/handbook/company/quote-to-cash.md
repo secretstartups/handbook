@@ -268,7 +268,6 @@ The `Customer` model in CDot has known design flaws as it represents a combinati
 [CustomersDot BillingAccount management](https://gitlab.com/groups/gitlab-org/-/epics/8331)
 
 - [BillingAccount: Introduce a BillingAccount and BillingMembership object](https://gitlab.com/groups/gitlab-org/-/epics/8950)
-  - [Sisense Dashboard](https://app.periscopedata.com/app/gitlab/1081849/WIP---Fulfillment:Platform---Align-CustomersDot-BillingAccounts-and-Users-to-Zuora-objects)
 - [BillingAccount: Update CDot navigation to display new data structure to customers](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/4973) - Link to be updated
 - [BillingAccount: Multiple CDot customers can manage one BillingAccount](https://gitlab.com/groups/gitlab-org/-/epics/8951)
 - [BillingAccount: CDot customers can manage BillTo and SoldTo contacts](https://gitlab.com/groups/gitlab-org/-/epics/9831)
