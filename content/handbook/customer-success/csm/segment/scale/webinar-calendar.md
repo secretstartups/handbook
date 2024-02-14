@@ -21,13 +21,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### AMER Time Zone Webinars & Labs
 
-#### Advanced CI/CD
-##### February 13th, 2024 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
-
-Expand your CI/CD knowledge while we cover advanced topics that will accelerate your efficiency using GitLab, such as pipelines, variables, rules, artifacts, and more. This session is intended for those who have used CI/CD in the past.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_uJms-QWpRXuNF8J1DXLMjw#/registration)
-
 #### Hands-On Advanced GitLab CI Lab 
 ##### February 14th, 2023 at 9:00-11:00AM Pacific Time / 12:00-2:00PM Eastern Time
 
@@ -63,13 +56,6 @@ Join us for a hands-on GitLab AI lab where we will explore Artificial Intelligen
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_tdfeUNKoRwqid6SuRfNfWw)
 
 ### EMEA Time Zone Webinars & Labs
-
-#### Advanced CI/CD
-##### February 13th, 2024 at 10:00-11:00AM UTC / 11:00AM-12:00PM CET
-
-Expand your CI/CD knowledge while we cover advanced topics that will accelerate your efficiency using GitLab, such as pipelines, variables, rules, artifacts, and more. This session is intended for those who have used CI/CD in the past.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_mo2QLf2pToqaT3U7n6XqKw#/registration)
 
 #### Hands-On Advanced GitLab CI Lab 
 ##### February 14th, 2023 at 10:00AM-12:00PM UTC / 11:00AM-1:00PM CET
