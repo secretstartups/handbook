@@ -28,7 +28,7 @@ description: "This page is an overview of the search team alignment and the tale
 | Engineering, Infrastucture   | Michelle A. Kemp | Sarah Lynch  |
 | Engineering, Infrastucture   | Aziz Quadri | Alice Crosbie  |
 | Customer Support | Joanna Michniewicz  |  Alice Crosbie |
-| Specialty Tech | Mark Deubel  |  Alice Crosbie |
+| Specialty Tech | TBD  |  Alice Crosbie |
 | Product Management | Holly Nesselroad | Fernando Khubeir |
 | Security | Holly Nesselroad | Fernando Khubeir |
 | Design/UX  | Riley Smith | Lerato Thipe  |
