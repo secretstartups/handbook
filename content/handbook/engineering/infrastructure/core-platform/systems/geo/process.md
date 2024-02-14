@@ -27,7 +27,7 @@ First, we describe general agile work item terminology to create alignment and u
 
 Finally we provide some guidelines and rules of thumb when creating new ites and about choosing the right level of granularity for them.
 
-The details of this are documented in our [Geo's Hierarchy of Agile Work Items](./agile-work-items.html) page. 
+The details of this are documented in our [Geo's Hierarchy of Agile Work Items](../agile-work-items.html) page. 
 
 ### Kanban
 
@@ -67,7 +67,7 @@ a link [to the category strategy](/handbook/product/product-processes/#category-
 
 ##### Solution validation
 
-Once the problem is validated, the PM will consider creating a work item as per our guidelines for [hierarchy of work](./agile-work-items.html).
+Once the problem is validated, the PM will consider creating a work item as per our guidelines for [hierarchy of work](../agile-work-items.html).
 They will then reach out to the Engineering Manager(EM) for a technical contact in the team. The EM assigns [ownership](#work-ownership) of the work item to an engineer. The engineer will work with the PM
 to determine a technical solution for the problem.
 
@@ -82,12 +82,12 @@ scope of the work.
 It is also important to note that not all POCs will be successful, and that is OK! Some avenues of research may not be
 successful, and the POC will have saved us from investing significant time in a solution that will not meet our needs. The goal is to fail fast!
 
-The PM and the engineer will work together to create all of the [work items](./agile-work-items.html) required to build the solution. These items account for
+The PM and the engineer will work together to create all of the [work items](../agile-work-items.html) required to build the solution. These items account for
 - Documentation
 - Testing
 - Post-release items such as rake tasks, migrations or monitoring issues
 
-Ideally, [epics, features and user stories](./agile-work-items.html) should be broken down by external functionality rather than by implementation details. Even refactors and performance improvements should highlight the customer value and be described with a user-centric approach.
+Ideally, [epics, features and user stories](../agile-work-items.html) should be broken down by external functionality rather than by implementation details. Even refactors and performance improvements should highlight the customer value and be described with a user-centric approach.
 
 Post-release tasks that need to be performed by SRE's are created in the Infrastructure team project and cannot be
 added to work items as related issues. For these, it's useful to list them in the highest level work item description.
@@ -141,13 +141,13 @@ release posts, blog posts, video tutorials, or demos.
 
 ### Work Ownership
 
-The Geo team uses a variety of [work items](./agile-work-items.html) to describe features or capabilities that will increase the maturity of the Geo categories over time.
+The Geo team uses a variety of [work items](../agile-work-items.html) to describe features or capabilities that will increase the maturity of the Geo categories over time.
 
 Each high-level work item (i.e. Epics and/or Features) should be owned by an engineer who is responsible for all technical aspects of that work item. If at any point, the
 owner needs to take leave that is more than a few days, they should assign another engineer to act as owner until they return.
 
 **In the planning phase**, the engineering owner will work closely with the Product Manager to understand what the requirements
-are and why they are important to customers. The engineer will decide on how best to deliver the solution and create [Tasks](./agile-work-items.html#task)
+are and why they are important to customers. The engineer will decide on how best to deliver the solution and create [Tasks](../agile-work-items.html#task)
 that encapsulate the technical work required. They may need to consult with other team members and stable counterparts
 to come up with the right approach to delivering the requirements.
 
@@ -355,7 +355,7 @@ Retrospectives are a [crucial component](https://www.retrium.com/blog/i-was-wron
 
 At GitLab there is a general guideline to conduct [group retrospectives](/handbook/engineering/management/group-retrospectives/) and a process automation to run retrospectives [asynchronously](https://gitlab.com/gitlab-org/async-retrospectives). The Geo team however is working with a new process that combines elements of fully asynchronous work with the benefits of active conversation and the increased level of engagement that these types of interactions bring.
 
-The details of this process is documented in our [Geo Team Retrospectives](./retrospectives.html) page. 
+The details of this process is documented in our [Geo Team Retrospectives](../retrospectives.html) page. 
 
 ## FAQ
 
