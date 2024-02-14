@@ -116,7 +116,7 @@ If a GitLab team member needs to loop in the Advocate team on a customer Account
 - Complete the *Subject* field.
     - Note: if you are an SDR creating the case, the *Case Subject* must be either equal *FO Opp*, or *SDR Created* (See *Use Case Specifics* below)
 - Select a *Case Reason* based on the customers needs.
-- Check the *Assign using active assignment rules* checkbox, and click *Save*.
+- **Check the *Assign using active assignment rules* checkbox, and click *Save*.If this is not done, the case will not enter the queue, and will not be actioned**
 - This Case will now drop into the SMB Sales Queue, and will be actioned by a SMB Advocate.
 - Note: if you are an SDR creating the case, the case 
 
