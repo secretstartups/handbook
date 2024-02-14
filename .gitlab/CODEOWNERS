@@ -88,6 +88,9 @@
 ^[eba-team]
 /content/handbook/eba/ @chrisweber44
 
+^[education-services]
+/content/handbook/customer-success/professional-services-engineering/education-services/ @scottcosentinogitlab @nshah19
+
 ^[engineering]
 /content/handbook/engineering/ @joergheilig
 /content/job-families/engineering/ @joergheilig
