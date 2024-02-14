@@ -39,7 +39,15 @@ You can reach the whole team on GitLab issues/MRs by using the `@code-creation-t
 
 The following members of other functional teams are our stable counterparts:
 
-{{% stable-counterparts manager-role="Backend(.*)Manager(.*)Create:Code Creation" role="Code Creation$" %}}
+| Category          | Counterpart                                                                                                     |
+|-------------------|-----------------------------------------------------------------------------------------------------------------|
+| Product Manager   | {{< member-by-name "Kevin Chu" >}}                                                                              |
+| Technical Writing | {{< member-by-name "Jon Glassman" >}}                                                                           |
+| UX                | {{< member-by-name "Andy Volpe" >}} (Create Stage)                                                              |
+| SET               | {{< member-by-name "Jay McCure" >}} (Create Stage)                                                              |
+| Support           | [TBD](https://handbook.gitlab.com/handbook/support/support-stable-counterparts/)                                |
+| AppSec            | [TBD](https://handbook.gitlab.com/handbook/security/product-security/application-security/stable-counterparts/) |
+
 
 ## Core Responsibilities
 
