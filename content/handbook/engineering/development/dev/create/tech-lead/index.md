@@ -48,12 +48,11 @@ This role is outlined [here](https://handbook.gitlab.com/handbook/engineering/ic
 
 ### Code Creation Tech Leads
 
-| Start Date | End Date | Estimated End Date | Epic(s) / Issue(s)     | Tech Lead  |
-|------------|----------|--------------------|-------------------------|------------|
-| YYYY-MM-DD | YYYY-MM-DD | YYYY-MM-DD       | Epic/Issue Name 1      | Tech Lead 1 |
-| YYYY-MM-DD | YYYY-MM-DD | YYYY-MM-DD       | Epic/Issue Name 2      | Tech Lead 2 |
-| YYYY-MM-DD | YYYY-MM-DD | YYYY-MM-DD       | Epic/Issue Name 3      | Tech Lead 3 |
-| YYYY-MM-DD | YYYY-MM-DD | YYYY-MM-DD       | Epic/Issue Name 4      | Tech Lead 4 |
+| Start Date | End Date | Estimated End Date | Epic(s) / Issue(s)     | Tech Lead   |
+|------------|----------|--------------------|------------------------|-------------|
+| 2023-11-01 |          |                    | [Code Suggestion RAG](https://gitlab.com/groups/gitlab-org/-/epics/11669) | Mikołaj Wawrzyniak |
+| 2024-01-17 |          |                    | [Decrease Latency](https://gitlab.com/groups/gitlab-org/-/epics/12224)    | Jan Provaznik      |
+| 2024-02-12 |          |                    | [Trigger Logic](https://gitlab.com/groups/gitlab-org/-/epics/12100)       | Sri Rangan         |
 
 ## How is a Tech Lead different from a Domain Expert
 
