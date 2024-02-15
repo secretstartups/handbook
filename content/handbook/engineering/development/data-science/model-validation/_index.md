@@ -12,7 +12,7 @@ The Model Validation group is focused on how to extend GitLab functionality to p
 ## How we work
 
 - We work in accordance with our [GitLab values](/handbook/values/).
-- We work [transparently](/handbook/values/#transparency) with nearly everything public.
+- We work [transparently](/handbook/values/#transparency), keeping nearly everything public.
 - We get a chance to work on the things we want to work on.
 - We have a [bias for action](/handbook/values/#bias-for-action).
 - We make data-driven decisions.
@@ -31,18 +31,16 @@ The following people are permanent members of the Model Validation Group:
 | [Hongtao Yang](/handbook/company/team/#hongtaoyang) | Backend Engineer |
 | [Andras Herczeg](/handbook/company/team/#andrasherczeg) | Backend Engineer |
 | [Stephan Rayner](/handbook/company/team/#srayner) | Senior Backend Engineer |
-| [Alper Akgun](/handbook/company/team/#a_akgun) | Staff Fullstack Engineer |
 | [Tan Le](/handbook/company/team/#tle_gitlab) | Senior Fullstack engineer |
-| [Dylan Bernardi](/handbook/company/team) | Intern Backend Engineer |
 | [Monmayuri Ray](/handbook/company/team/#mon) | Engineering Manager |
-| [Neha Khalwadekar](/handbook/company/team/#nkhalwadekar) | Product Manager |
+| [Susie Bitters](/handbook/company/team/#susie.bee) | Product Manager |
 | [Katie Macoy](/handbook/company/team/#kmacoy) | Senior Product Designer |
 | [Taylor McCaslin](/handbook/company/team/#tmccaslin) | Group Product Manager |
 
 ## How to contact us
 
 - Tag a team member in a merge request or issue
-- Post a message in the #g_ai_assisted channel (internal only)
+- Post a message in the #g_ai_model_validation Slack channel (internal only)
 
 ##  Responsibilities
 
