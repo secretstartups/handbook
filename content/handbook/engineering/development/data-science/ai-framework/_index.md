@@ -165,6 +165,7 @@ We operate using async communication by default. There are times when a sync dis
 - [Sentry via Feature Category](https://new-sentry.gitlab.net/organizations/gitlab/issues/?query=is%3Aunresolved+feature_category%3Aai_abstraction_layer&referrer=issue-list&statsPeriod=24h)
 - [Monthly Retros](https://gitlab.com/gl-retrospectives/data-science/ai-powered/ai-framework-retros)
 - [Chat QA Evaluation](https://gitlab.com/gitlab-org/ai-powered/ai-framework/qa-evaluation)
+- [Chat REST API Error Ratio](https://log.gprd.gitlab.net/app/r/s/lDEwi)
 
 ### 📹 GitLab Unfiltered Playlist
 
