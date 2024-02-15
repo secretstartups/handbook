@@ -86,7 +86,7 @@ These templates should be used during the [onboarding process](/handbook/people-
 
 ### Role Based Access Control (RBAC) Requirements
 
-GitLab has an established RBAC via the formalization and maintainence of [Baseline Role-Based Entitlements](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/). RBAC is subject to continuous control monitoring by the Security Compliance team to ensure that GitLab meets its regulatory and compliance obligations related to user access to information. Additionally, as noted per the requirements in the role baseline template, changes to permissions on these documents are required to be reviewed and approved by the Director, Senior Leader or Manager of the team that the role belongs to. If an update is proposed by a Manager or above, it should be reviewed by another, more senior manager of the team that the role belongs to.
+GitLab has an established RBAC via the formalization and maintainence of [Baseline Role-Based Entitlements](https://internal.gitlab.com/handbook/it/end-user-services/access-request/baseline-entitlements/). RBAC is subject to continuous control monitoring by the Security Compliance team to ensure that GitLab meets its regulatory and compliance obligations related to user access to information. Additionally, as noted per the requirements in the role baseline template, changes to permissions on these documents are required to be reviewed and approved by the Director, Senior Leader or Manager of the team that the role belongs to. If an update is proposed by a Manager or above, it should be reviewed by another, more senior manager of the team that the role belongs to.
 
 The structure of the baseline role-based entitlements ensures that team members receive the appropriate access privileges when they join GitLab. These templates are based off one of the following:
 - A team member's title (excluding levels, such as Junior, Senior, etc.), as listed in their Workday employment profile
@@ -95,7 +95,7 @@ The structure of the baseline role-based entitlements ensures that team members 
       - [role_security_assurance_engineer_security_risk](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/blob/master/.gitlab/issue_templates/role_baseline_access_request_tasks/department_security/role_security_assurance_engineer_security_risk.md)
       - [role_security_assurance_engineer_compliance](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/blob/master/.gitlab/issue_templates/role_baseline_access_request_tasks/department_security/role_security_assurance_engineer_compliance.md)
 
-Specific instructions for the creation, review, and maintenance of these templates can be found [here](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/#instructions). These instructions also include details on any nuances that should be considered as part of the creation of the template.
+Specific instructions for the creation, review, and maintenance of these templates can be found [here](https://internal.gitlab.com/handbook/it/end-user-services/access-request/baseline-entitlements/). These instructions also include details on any nuances that should be considered as part of the creation of the template.
 
 ### Access Control Process Exceptions
 
