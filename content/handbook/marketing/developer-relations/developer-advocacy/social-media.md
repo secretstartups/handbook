@@ -322,23 +322,24 @@ The [August 2022 issue of Michael's opsindev.news newsletter](https://opsindev.n
 
 ### Release Evangelism
 
-[GitLab releases](/releases/) add lots of value every month. As a developer, you know about use cases and workflow enhancements they may solve specifically. Use this knowledge to describe **why** this new feature helps you.
+[GitLab releases](https://about.gitlab.com/releases/) add lots of value every month. As a developer, you know about use cases and workflow enhancements they may solve specifically. Use this knowledge to describe **why** this new feature helps you.
 
-The [product kick-off](https://about.gitlab.com/direction/kickoff/) provides insights into planned features. As we plan ambitiously, there is no guarantee that everything gets released as planned. Therefore release evangelism campaigns need to happen short notice around the [release date](/handbook/engineering/releases/).
+The [product kick-off](https://about.gitlab.com/direction/kickoff/) provides insights into planned features. As we plan ambitiously, there is no guarantee that everything gets released as planned. Therefore release evangelism campaigns need to happen short notice around the [release date](https://handbook.gitlab.com/handbook/engineering/releases/).
 
 > **Tip**: GitLab team members can access the [#release-post](https://gitlab.slack.com/archives/C3TRESYPJ) Slack channel to check for updates on the monthly release blog post.
 > Wider community members can check the `gitlab-com/www-gitlab-com repository` for the [release post MR](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?label_name%5B%5D=release+post), or follow the Developer Advocate issues with the [DE-Release-Evangelism](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues?sort=updated_desc&state=opened&label_name[]=DE-Type::Evangelist) label.
 
 Workflow:
 
-- Our [DE Bot](/handbook/marketing/developer-relations/developer-evangelism/projects/#developer-evangelism-bot) automatically creates and assigns issues.
+- Open the fiscal year epic for release evangelism, linked from the [workflow handbook](https://handbook.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/workflow/).
 - Developer Advocates review the release blog post draft.
   - Use the review app.
   - Add feedback and suggestions to the merge request before release day.
-- Developer Advocates schedule their favourite features.
+  - Add interesting items with social text examples into the release evangelism epic. 
+- Developer advocates share and/or schedule their favorite features on release day. 
+  - Use the short URLs from the campaign manager to track release evangelism impressions. 
   - Use the existing media (images, videos) from the release blog post, or create new screenshots/videos.
   - Link to the documentation, or the release post anchor if already released. **Never link to the review app.**
-- Impressions are collected with Keyhole, and happen async.
 
 Tips:
 
@@ -355,7 +356,7 @@ KPIs:
 
 #### Release Post share
 
-Use the [social card validator](/handbook/marketing/developer-relations/developer-evangelism/social-media/#social-card-validators) to verify the social preview of the release blog post. There might be a situation where the preview does not render correctly, or otherwise needs more attention from readers. As a boring solution, resize your browser and [take a screenshot](/handbook/tools-and-tips/mac/#taking-screenshots-and-videos) from the header, including the sub title listing the features, and attach the image to the social shares. Examples for 15.1: [Twitter](https://twitter.com/dnsmichi/status/1539646159500853248), [LinkeDIn](https://www.linkedin.com/posts/dnsmichi_it-is-the-22nd-of-the-month-gitlab-activity-6945411563717574656-ZZdr?utm_source=linkedin_share&utm_medium=member_desktop_web)
+Use the [social card validator](/handbook/marketing/developer-relations/developer-advocacy/social-media/#social-card-validators) to verify the social preview of the release blog post. There might be a situation where the preview does not render correctly, or otherwise needs more attention from readers. As a boring solution, resize your browser and [take a screenshot](/handbook/tools-and-tips/mac/#taking-screenshots-and-videos) from the header, including the sub title listing the features, and attach the image to the social shares. Examples for 15.1: [Twitter](https://twitter.com/dnsmichi/status/1539646159500853248), [LinkeDIn](https://www.linkedin.com/posts/dnsmichi_it-is-the-22nd-of-the-month-gitlab-activity-6945411563717574656-ZZdr?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
 #### Release Evangelism MVP
 
