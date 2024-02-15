@@ -298,26 +298,23 @@ The status for all work relating to GitLab Dedicated is maintained in the descri
 
 #### Status Update Process
 
-Both Engineering Cross-Functional DRIs should provide weekly updates for the DRI's epics according to following process:
+Both Engineering Cross-Functional DRIs should provide weekly updates for the DRI's epics according to following process, which allows alignment with [Project Management in SaaS Platforms](https://handbook.gitlab.com/handbook/engineering/infrastructure/platforms/project-management/#project-management-in-saas-platforms):
 
-1. **By 17:00 UTC / 12:00 PM ET on Fridays** DRIs of *active* epics (or the person covering if DRI OOO) provide an update in the [status section of the description](/handbook/engineering/infrastructure/team/gitlab-dedicated/#epic-structure) of the epic regarding status of the epic including any relevant details of active sub-epics.
-    - If the DRI for a sub-epic is different than the epic DRI, the epic DRI is responsible for getting updates from the sub-epic DRI.
-    - Format for weekly update:
-      - **Date of Update** (YYYY-MM-DD)
-      - Brief update (~sentence or couple bullets) for each of these three bullets:
-         - **Progress since last update** - Changes deployed to production, unblocked blockers, any other progress achieved.
-         - **Risk and Confidence** - Any new blockers identified or existing blockers that persist? Any other challenges now or in the near future? How do these blockers and/or challenges affect our confidence of completing by scheduled due date from [Phase timeline](https://internal.gitlab.com/handbook/engineering/horse/)?
-         - **Mitigations** -  What is required to overcome challenges or blockers identified?  Should this be escalated to other team members, teams, executives, or domain experts?
-       - **Update Workflow and Health label** - After each status update, the Workflow label and Health label should be updated. See [Epic labels criteria](/handbook/engineering/infrastructure/team/gitlab-dedicated/#workflow-labels)
+1. **By Wednesday at 21:00 UTC** the DRI for a project is expected to update the status block in the epic description to:
+    1. Format for weekly update: **Date of Update** (YYYY-MM-DD)
+    1. Brief update for each of these three areas:
+        1. Indicate any project blockers.
+        1. Briefly highlight progress since the last update.
+        1. Indicate planned next steps, or mitigations required to progress. This enables other engineers and other managers to have good information about projects in an asynchronous fashion.
+    1. If the DRI for a sub-epic is different than the epic DRI, the epic DRI is responsible for getting updates from the sub-epic DRI.
+    1. **Update Workflow and Health label** - After each status update, the Workflow label and Health label should be updated. See [Epic labels criteria](/handbook/engineering/infrastructure/team/gitlab-dedicated/#workflow-labels)
 
 1. **Top-Level Epic Status Update** [automation synthesizes updates from status section](/handbook/engineering/infrastructure/team/gitlab-dedicated/#status-update-automation) from description of active epics to provide initiative status in the status section in the description of the top-level initiative Epic.
 
-1. **Weekly engineering/product sync at 16:30 UTC / 11:30 AM ET on Mondays** Dedicated engineering/product meeting is used to discuss status updates and potential mitigations as necessary.
+1. **Weekly engineering/product sync at 16:30 UTC on Mondays** Dedicated engineering/product meeting is used to discuss status updates and potential mitigations as necessary.
     - [After the release day of each month](#epic-roadmap), a summary of the most recently completed phase and any roadmap changes is shared.
 
 1. Status updates will be incorporated into initiative status updates and any initiative reporting in the following week.
-
-1. **By 23:00 UTC / 5:00 PM ET on Wednesdays** Initiative DRI will share a summary of major items from the weekly initiative update in #ceo Slack Channel and link to the full update in the Initiative epic.
 
 #### Status Update Automation
 
