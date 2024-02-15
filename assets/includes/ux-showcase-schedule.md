@@ -1,8 +1,8 @@
 | Date       | Host                 | Presenter 1            | Presenter 2            | Presenter 3            |
 |------------|----------------------|------------------------|------------------------|------------------------|
 | 2024-02-07 | APAC                 | Michael Le             | Alex Fracazo           |                        |
-| 2024-02-21 | Taurie Davis         | Annabel Gray           | Sunjung Park           | Emily Bauman           |
-| 2024-03-06 | Emily Sybrant        | Michael Fangman        | Dan Mizzi-Harris       |                        |
+| 2024-02-21 | Taurie Davis         | Annabel Gray           | Emily Bauman           | Pedro Moreira da Silva |
+| 2024-03-06 | Emily Sybrant        | Michael Fangman        | Dan Mizzi-Harris       | Sunjung Park           |
 | 2024-03-20 | Jacki Bauer          | Chad Lavimoniere       | Matthew Nearents       |                        |
 | 2024-04-03 | Justin Mandell       | Julia Miocene          | Amelia Bauerly         | Nick Brandt            |
 | 2024-04-17 | Chris Micek          | Austin Regnery         | Taylor Vanderhelm      |                        |
