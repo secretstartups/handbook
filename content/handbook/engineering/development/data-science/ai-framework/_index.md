@@ -46,11 +46,6 @@ Depending on the context here are the most appropriate ways to reach out to the 
 
 **❗️Important**: For every meeting, the [AI Framework team's meeting document][gdoc] should be used, and filled with the meeting notes, as well as references to any other sync meeting agendas/notes/recordings which have recently occurred. This will make it easier for people to find any meeting notes.
 
-#### Office Hours
-
-- When: [Biweekly](https://docs.google.com/document/d/1Zy2behLK2dYq8QV3x0vFNs5QtY_Z6L9ObU8tzeJWWZw/edit#heading=h.onbz64sai6dd) (for specific time, refer to the GitLab Team Meetings calendar)
-- What: This meeting is an opportunity for team members to ask questions about AI features, especially the abstraction layer and GitLab Duo chat, seek support for ongoing experiments, or learn how to write good prompts. If there are no topics to discuss, the meeting may not be held. Recordings from previous sessions can be found in this GitLab Unfiltered YouTube [playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kpt0DsmS5WSZbeiMgrBeZXv).
-
 #### Team Meetings
 
 1. **Weekly Work Assignment Meeting**
