@@ -106,16 +106,16 @@ These items must be triaged continuously throughout the milestone which means th
 
 #### Responsibilities - Maintainership
 
-1. Triage and work with community contributors to help drive their MRs to completion. (See [Community contributions triaging process](#community-contributions-triaging-process))
-1. Check for new versions of languages or package managers that we support, or deprecation / removal of support for the same and notify Engineering Manager and Product Manager via issue
+1. Work with community contributors to help drive [their merge requests](https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&state=opened&label_name[]=group%3A%3Acomposition%20analysis&label_name[]=Community%20contribution) to completion (more information on [community contributions triaging process](/handbook/engineering/infrastructure/engineering-productivity/merge-request-triage/)).
+1. Check for new versions of languages or package managers that we support, or deprecation / removal of support for the same and notify Engineering Manager and Product Manager via issue.
 1. Check for new versions of our dependencies (not related to security):
-   1. Upstream scanners (see [Updating an upstream scanner](#updating-an-upstream-scanner))
-   1. Container base images
-   1. Application dependencies
-   1. Programming language
-1. Check in on test failures. Check relevant slack channels ([#g_secure-composition-analysis-alerts](https://gitlab.slack.com/archives/C04UX9MQNSJ), [#s_secure-alerts](https://gitlab.slack.com/archives/CAU9SFKNU))
+   1. Upstream scanners (see [Updating an upstream scanner](#updating-an-upstream-scanner)).
+   1. Container base images.
+   1. Application dependencies.
+   1. Programming language.
+1. Check in on test failures. Check relevant slack channels ([#g_secure-composition-analysis-alerts](https://gitlab.slack.com/archives/C04UX9MQNSJ), [#s_secure-alerts](https://gitlab.slack.com/archives/CAU9SFKNU)).
 1. Check latest pipelines for any release failures. If any issue is preventing the automated release process from running, begin the [release failure escalation process](#release-failure-escalation-process).
-1. Consider creating or updating any automation or tooling (related to security, maintainership or support!)
+1. Consider creating or updating any automation or tooling (related to security, maintainership or support!).
 1. Monitor failures and errors on license-db project, use the `#f_licese_database` Slack channel for communication about these items, so other team members can provide the support.
    1. Check latest [scheduled pipelines of license-db](https://gitlab.com/gitlab-org/security-products/license-db/deployment/-/pipeline_schedules) for any failures. Ensure that pipelines pass or create an issue to fix the failure.
    1. Monitor the Slack channel `#g_secure-composition-analysis-alerts` for any incidents on the license-db infrastructure.
