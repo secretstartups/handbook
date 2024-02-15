@@ -21,19 +21,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### AMER Time Zone Webinars & Labs
 
-#### Hands-On Advanced GitLab CI Lab 
-##### February 14th, 2023 at 9:00-11:00AM Pacific Time / 12:00-2:00PM Eastern Time
-
-Join us for a hands-on lab where we will go into advanced GitLab CI capabilities that allow customers to simplify pipeline yml code and optimize the execution time of pipelines.
-
-We will cover:
-- Storing build resources in GitLab registries
-- Managing artifacts, dependencies, and environment variables between jobs
-- Running a job multiple times in parallel with different variables
-- Triggering downstream pipelines
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_h-Q7kP6CRNmbPYnE4h-DVg)
-
 #### Security and Compliance
 ##### February 21st, 2024 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
 
@@ -56,19 +43,6 @@ Join us for a hands-on GitLab AI lab where we will explore Artificial Intelligen
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_tdfeUNKoRwqid6SuRfNfWw)
 
 ### EMEA Time Zone Webinars & Labs
-
-#### Hands-On Advanced GitLab CI Lab 
-##### February 14th, 2023 at 10:00AM-12:00PM UTC / 11:00AM-1:00PM CET
-
-Join us for a hands-on lab where we will go into advanced GitLab CI capabilities that allow customers to simplify pipeline yml code and optimize the execution time of pipelines.
-
-We will cover:
-- Storing build resources in GitLab registries
-- Managing artifacts, dependencies, and environment variables between jobs
-- Running a job multiple times in parallel with different variables
-- Triggering downstream pipelines
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_HCHR8oBPTAGkeI8IP_bMgQ)
 
 #### Security and Compliance
 ##### February 21st, 2024 at 10:00-11:00AM UTC / 11:00AM-12:00PM CET
