@@ -60,7 +60,3 @@ Some people management functions may require escalation or delegation, such as [
 
 This can be used as the basis for a business continuity plan (BCP),
 as well as a general guide to Data Science Engineering continuity in the event of one or more team members being unavailable for any reason.
-
-## Dashboards
-
-{{% cross-functional-dashboards filters="ModelOps" %}}
