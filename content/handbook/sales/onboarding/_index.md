@@ -91,6 +91,7 @@ Click on a link below to begin your role based journey.
 
 - Enterprise Strategic Account Executive - [Enterprise Sales Onboarding Journey](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/learning-path/enterprise-sales-onboarding-journey)
 - Commercial Account Executive - [Commercial Sales - Onboarding Journey](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/learning-path/commercial-sales-onboarding-journey)
+- Renewals Manager: [Renewals Manager (RM) Onboarding Journey](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://university.gitlab.com/learn/learning-path/renewals-manager-onboarding-journey)
 - Solutions Architect - [Solutions Architect: 30-60-90 Onboarding Journey](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/learning-path/solutions-architect-30-60-90-onboarding-journey)
 - Customer Success Management: [CSM Onboarding Journey](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/learning-path/technical-account-manager-tam-onboarding)
 - Customer Success Management: [CSE Onboarding Journey](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/learning-path/scale-customer-success-engineer-cse-onboarding)
