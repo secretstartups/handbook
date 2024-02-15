@@ -236,6 +236,16 @@ The below SDR Handover Process steps, and Handover Criteria, detailed below shou
 
 The above examples can be used as templates for when an SDR creates a case. 
 
+### Support Cases
+
+When an Advocate picks up a support case, and the case contains a link to a Zendesk ticket, they must comment in the Zendesk ticket advising that they have picked up the case, and will be reaching out to the customer.
+
+### Customer MQL Cases
+
+The lead on the case should either be;
+- Converted to a contact under the linked account, if the lead confirms they work at the linked account/ company, AND there is an nARR opportunity.
+- Not converted/ disqualfied if the lead does not work at the linked account/ company,OR there is no nARR opportunity. 
+
 ### Expansion Opportunities
 If an opportunity is uncovered whilst working an Expansion Opportunity case, a new Growth/ Add On opp should be created, and linked to the case via the Opportunity lookup field. An Add On opp must be created from the prior closed won renewal opp that exists on the account. 
 If the customer is looking to upgrade to Ultimate/ add users at the time of renewal, the existing Renewal opp should be linked to the case.  The renewal opp should also be used for any new quotes that are generated. 
