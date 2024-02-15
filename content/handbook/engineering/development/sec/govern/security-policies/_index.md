@@ -27,9 +27,22 @@ We use our [Security Policies Priorities](https://about.gitlab.com/direction/gov
 
 Complete items are removed from the table once the code is in production without a feature flag, and a release post, if applicable, has been merged. The epic is closed at this point.
 
-{{% cross-functional-dashboards filters="Security Policies" %}}
+{{< tableau height="600px" toolbar="hidden" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/TopEngineeringMetrics/TopEngineeringMetricsDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="security policies" >}}
+{{< /tableau >}}
 
-{{% sisense-with-filters dashboard="1020520" team_group="Security Policies" visible="team_group,stage,development_section" %}}
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/MergeRequestMetrics/OverallMRsbyType_1" >}}
+  {{< tableau/filters "GROUP_LABEL"="security policies" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/Flakytestissues/FlakyTestIssues" >}}
+  {{< tableau/filters "GROUP_NAME"="security policies" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/SlowRSpecTestsIssues/SlowRSpecTestsIssuesDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="security policies" >}}
+{{< /tableau >}}
+
 
 ### Workflow
 
