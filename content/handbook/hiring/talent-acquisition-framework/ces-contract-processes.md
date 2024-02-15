@@ -312,7 +312,7 @@ If they have been hired in Greenhouse and exported to BambooHR, Enablement will 
 When a team member applies for and receives a new position through Greenhouse, a Job Change Letter is prepared in lieu of a new contract using DocuSign. The Candidate Experience Specialist will prepare the letter. This document is signed by the Director, Total Rewards or the Sr. Director, Global People Operations or the Chief People Officer and the team member through DocuSign. Using the Offer through DocuSign - Job Change Letter template in Greenhouse the letter is cc'd to peopleops@gitlab.com team for processing.
 
 Effective dates for a job change letter should be the first (1st) of the month or the sixteenth (16th). For Sales or Sales Development team members, they can only be the first of the month. These effective dates do not need to be on a business day and should be adhered to payroll purposes.
-Please note that LOAs cannot be used if a team member is moving from the Federal, LLC. entity into any other entity **or** any entity that is not Federal, LLC into the Federal, LLC. entity. In those cases, a new contract **must** be issued as there are tax implications to this entity.
+Please note that JCLs cannot be used if a team member is moving from the Federal, LLC. entity into any other entity **or** any entity that is not Federal, LLC into the Federal, LLC. entity. In those cases, a new contract **must** be issued as there are tax implications to this entity.
 
 When generating a job change letter for a PEO, the steps remains the same as outlined below. However, select the JCL template that does not include RSUs, and send the RSU details via DocuSign email.
 
@@ -340,6 +340,7 @@ LOAs should be treated like contracts, where RSUs are only features in US ones a
 1. You will be redirected to DocuSign.
 1. On the top left of the screen, click where it says the candidate's name, then click "Edit Recipients". Change the order of recipients to reflect the following order:
     - #1 is Director, Total Rewards (needs to sign)
+    - #1 is Recruiter (receives a copy)
     - #1 Hiring Manager (receives a copy)
     - #2 Candidate (needs to sign)
     - #3 People Ops (receives a copy)
