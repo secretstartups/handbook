@@ -58,11 +58,25 @@ Like most GitLab backend teams we spend a lot of time working in Rails on the ma
 
 ## Our active feature flags
 
-Our active feature flags can be found on the [feature flag dashboard](https://app.periscopedata.com/app/gitlab/792066/Engineering-::-Feature-Flags). Make sure to apply the `team_group` testing filter.
+Our active feature flags can be found on the [feature flag dashboard](https://10az.online.tableau.com/t/gitlab/views/Engineering-Featureflags/Engineering-FeatureFlags/4c520fa3-d6da-433a-9f8c-f949df8cdf9c/8c157ebd-0c70-4db2-839f-a9e528a213b7). Make sure to apply the `Gitlab Team` testing filter.
 
 ## Dashboards
 
-{{% cross-functional-dashboards filters="Pipeline Security" %}}
+{{< tableau height="600px" toolbar="hidden" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/TopEngineeringMetrics/TopEngineeringMetricsDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="pipeline security" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/MergeRequestMetrics/OverallMRsbyType_1" >}}
+  {{< tableau/filters "GROUP_LABEL"="pipeline security" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/Flakytestissues/FlakyTestIssues" >}}
+  {{< tableau/filters "GROUP_NAME"="pipeline security" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/SlowRSpecTestsIssues/SlowRSpecTestsIssuesDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="pipeline security" >}}
+{{< /tableau >}}
 
 ## How we work
 

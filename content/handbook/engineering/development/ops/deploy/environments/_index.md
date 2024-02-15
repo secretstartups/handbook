@@ -48,7 +48,21 @@ Some dedicated Slack channels:
 
 ## Insights
 
-{{% cross-functional-dashboards filters="environments" %}}
+{{< tableau height="600px" toolbar="hidden" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/TopEngineeringMetrics/TopEngineeringMetricsDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="environments" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/MergeRequestMetrics/OverallMRsbyType_1" >}}
+  {{< tableau/filters "GROUP_LABEL"="environments" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/Flakytestissues/FlakyTestIssues" >}}
+  {{< tableau/filters "GROUP_NAME"="environments" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/SlowRSpecTestsIssues/SlowRSpecTestsIssuesDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="environments" >}}
+{{< /tableau >}}
 
 ## Processes
 
@@ -314,7 +328,7 @@ Within the Environments group we use the following processes and best practices 
 1. We ensure each MR is accompanied with meaningful unit tests and integration tests.
 1. For each major feature we develop and maintain End to End tests that run nightly and confirm no regressions have been introduced to critical paths.
 1. On a weekly basis, we review our [Triage report](/handbook/engineering/infrastructure/engineering-productivity/triage-operations/#triage-reports) for bugs and regressions and take the appropriate action.
-1. We review the [quality dashboard](https://app.periscopedata.com/app/gitlab/736012/Quality-Embedded-Dashboard) each milestone to track our long term progress at improving quality.
+1. We review the [quality dashboard](https://10az.online.tableau.com/t/gitlab/views/OpenBugAgeOBA/OpenBugAgeOBADashboard) each milestone to track our long term progress at improving quality.
 
 #### End to End Testing
 
