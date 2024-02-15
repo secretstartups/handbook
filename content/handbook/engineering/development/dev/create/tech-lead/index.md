@@ -13,10 +13,8 @@ This role is outlined [here](https://handbook.gitlab.com/handbook/engineering/ic
 
 | Start Date | End Date | Estimated End Date | Epic(s) / Issue(s)     | Tech Lead  |
 |------------|----------|--------------------|-------------------------|------------|
-| YYYY-MM-DD | YYYY-MM-DD | YYYY-MM-DD       | Epic/Issue Name 1      | Tech Lead 1 |
-| YYYY-MM-DD | YYYY-MM-DD | YYYY-MM-DD       | Epic/Issue Name 2      | Tech Lead 2 |
-| YYYY-MM-DD | YYYY-MM-DD | YYYY-MM-DD       | Epic/Issue Name 3      | Tech Lead 3 |
-| YYYY-MM-DD | YYYY-MM-DD | YYYY-MM-DD       | Epic/Issue Name 4      | Tech Lead 4 |
+| 2024-02-01 | TBD | TBD       | [Branch Rules](https://gitlab.com/groups/gitlab-org/-/epics/12492)      | Joe Woodward |
+| 2024-02-01 | TBD | TBD       | [Cells 1.0](https://gitlab.com/gitlab-org/gitlab/-/issues/434974)      | Vasilii Iakliushin  |
 
 ### Code Review Tech Leads
 
