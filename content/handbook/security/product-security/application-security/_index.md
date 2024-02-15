@@ -31,6 +31,7 @@ Please see the [Application Security Job Family page][6].
 ## Useful resources for AppSec engineers
 
 - [The AppSec private group that contains other private subgroups and projects](https://gitlab.com/gitlab-com/gl-security/appsec)
+- [The `appsec-lab` group on Staging. This has an Ultimate license.](https://staging.gitlab.com/appsec-lab)
 - [Bug bounty council search](https://gitlab.com/gitlab-com/gl-security/engineering/-/issues?label_name%5B%5D=Bug+Bounty+Council)
 - [Upcoming security release](https://gitlab.com/gitlab-org/gitlab/-/issues?sort=created_date&state=opened&label_name%5B%5D=upcoming+security+release)
 - [GitLab Project Security dashboard](https://gitlab.com/gitlab-org/gitlab/-/security/dashboard/?project_id=278964&scope=dismissed&page=1&days=90)
