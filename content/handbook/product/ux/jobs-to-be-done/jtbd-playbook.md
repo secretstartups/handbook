@@ -44,7 +44,9 @@ From the various interview canvases, create a single, synthesized canvas that be
 
 ## Step 5: Validate
 
-It’s now time to take your synthesized canvas and put it to the test with external participants. You’ll need to conduct another round of interviews (between 5 and 10 in total), who perform your main job as one of their main jobs (you can screen for this). Note: If you’re hearing the same things over and over without gaining new insights, you can stop interviewing new participants.
+It’s now time to take your synthesized canvas and put it to the test with external participants. You’ll need to conduct another round of interviews (between 5 and 10 in total), who perform your main job as one of their main jobs (you can screen for this). 
+
+Note: If you’re hearing the same things over and over without gaining new insights, you can stop interviewing new participants.
 
 These interviews can be more of a show and tell. You can share your synthesized canvas with the participant, and have them go through it and comment. What’s missing? What is unclear? What tasks do they not do? What unique circumstances do they have? At the end, you should have a solid idea of what the ‘core’ of your job performer canvas looks like. <!-- TODO: [add link to interview guide](link) -->
 
@@ -57,7 +59,6 @@ Note: Your main job will have roughly 1-5 outcome statements, and you will also 
 Example of main outcome statements for a main job of ‘Review Code’:
 
 ![JTBD main outcomes](/handbook/product/ux/jobs-to-be-done/JTBD_Outcomes.png)
-
 
 Example of [micro-jobs](/handbook/product/ux/jobs-to-be-done/#micro-jobs) and outcome statements for a main job of ‘Review Code’:
 
@@ -77,6 +78,7 @@ There is a [template in Qualtrics](https://gitlab.eu.qualtrics.com/survey-builde
 Note: Remember to recruit both GitLab and non-GitLab users, and be able to easily segment them for your analysis.
 
 At GitLab, we use a 10 point scale, labeled at each end as ‘very low’ (1) and ‘very high’ (10).
+
 Using the scores for importance and satisfaction, we can calculate an opportunity score:
 
 ![JTBD Opportunity Score](/handbook/product/ux/jobs-to-be-done/JTBD_OpportunityScore.png)
@@ -96,7 +98,6 @@ If all the scores on your survey are less than 10, that’s great - but remember
 | 10-15 | Prioritize as soon as possible | 
 | 7-9  | Keep on eye on   | 
 | 6 or below | Probably not a priority right now | 
-
 
 ### Align on Ranked Outcomes: Workshop
 
