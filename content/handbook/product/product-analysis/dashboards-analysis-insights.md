@@ -12,13 +12,13 @@ additional steps to [obtain SAFE Dashboard access](/handbook/business-technology
 If you have any questions about using and interpreting the insights from these dashboards,
 please reach out to the dashboard owner or tag `@product-analysts` in the `#data` channel on Slack.
 
-{{% sisense dashboard="1013112" chart="15499554" height="350" %}}
-
 
 #### Tableau
 
 | Dashboard Name | Description | Date | Location | SAFE Access Required? |
 | --- | --- | --- | --- | --- |
+| [Product Data Insights General Collection](https://10az.online.tableau.com/#/site/gitlab/collections/2b35eb4c-1d4f-4339-b53e-5e3f58147e92?:origin=card_share_link) | This is a Tableau Collection containing analytics resources that are broadly useful to the Product Org. | Ongoing | Product/General | N |
+| [Product Data Insights SAFE Collection](https://10az.online.tableau.com/#/site/gitlab/collections/a565fb9b-6478-4bba-9581-ebf84d49c99d?:origin=card_share_link) | This is a Tableau Collection containing SAFE analytics resources that are broadly useful to the Product Org. | Ongoing | Product/SAFE | Y |
 | [PD: Cloud Licensing Adoption Dashboard](https://10az.online.tableau.com/#/site/gitlab/workbooks/1891137/views) | This dashboard provides insights on adoption of Cloud Licensing | FY24 Q1 | Ad-hoc/Product/SAFE | Y |
 | [PD: Centralized Metrics](https://10az.online.tableau.com/#/site/gitlab/workbooks/2069845/views) | Monthly reporting metrics and trends for product performance indicators | FY23 Q4 | Ad-hoc/Product/General | N |
 | [PD: Firmographic Metric Usage](https://10az.online.tableau.com/#/site/gitlab/workbooks/2137023/views) | Segment metric usage by company size, industry, and seat count. | FY23 Q4 | Development/Product/SAFE | Y |
