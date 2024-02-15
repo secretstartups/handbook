@@ -162,6 +162,8 @@ If you want to edit other parts of the page the process is similar, just follow 
    - Social Tags: Optional - Add any hashtags that may be relevant. For example, you can type “DevSecOps” and hit enter, then enter your next tag. Each tag will automatically have the # symbol applied.
 1. Once fields have been reviewed and are final, click `Publish`
 
+To remove an event from the events page, go to the event and click Change Status -> `Unpublish`. Once the event is unpublished, you can also click the three dots `...` in the upper right corner, and `delete` the event to remove it from Contentful entirely (otherwise the event will remain as a draft).
+
 
 #### Updating the Services page
 
