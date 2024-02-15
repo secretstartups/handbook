@@ -12,7 +12,7 @@ description: "The key aspects of using Gainsight at GitLab to drive success for 
 
 ## What is Gainsight?
 
-Gainsight is a tool for Strategic Account Leaders, Solutions Architects, and Customer Success Managers to manage the ongoing customer lifecycle.
+Gainsight is a tool for Account Executives, Solutions Architects, and Customer Success Managers to manage the ongoing customer lifecycle.
 
 ### Key Benefits of Gainsight
 
