@@ -307,7 +307,7 @@ Due to the high case volume, it is imperative that the Required 10 is followed, 
 - Q. How many cases should I work at any give time?
 - A. An Advocate should only own 50 In Progress cases at a time.  Once at 50, the Advocate is deemed to be at capacity. 
 - Q. Where can I provide feedback on this model/ process?
-- A. Please submit all feedback via the #XXXX slack channel.  If you want to share Feedback relating to a specific case, please enter the feedback in the Case: Feedback field. 
+- A. Please submit all feedback via the *global-digital-smb_feedback slack channel*.  If you want to share Feedback relating to a specific case, please enter the feedback in the Case: Feedback field. 
 - Q. Is additional enablement material available?
 - A. Yes, please see the Highspot page linked at the top of this page. 
 - Q. As an GitLab Team Member who is not part of the SMB Team, how do I engage with the team?
