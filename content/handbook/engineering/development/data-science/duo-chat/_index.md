@@ -22,5 +22,5 @@ The Duo Chat group is focused on adding support to GitLab Duo Chat functionality
 
 ### 📝 Dashboards (internal only)
 
-- [Duo Chat Question Categorization](https://app.periscopedata.com/app/gitlab/1173299/Duo-Chat-Question-Categorization)
+- [Duo Chat Question Categorization](https://10az.online.tableau.com/#/site/gitlab/views/DuoCategoriesofQuestions/DuoCategory?:iid=1)
 - [Chat QA Evaluation](https://gitlab.com/gitlab-org/ai-powered/ai-framework/qa-evaluation)
