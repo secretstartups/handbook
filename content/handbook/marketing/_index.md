@@ -351,20 +351,9 @@ FY25 All-Marketing SSoT Calendar
 <a id="fy25-calendar"></a>
 <!-- DO NOT CHANGE ANCHOR -->
 
-The marketing team utilizes a [single all-marketing calendar](https://docs.google.com/spreadsheets/d/1Tk5fVSwpsEZVFbKOtuaPAItTpAE2PjPeyZ4jKoDe42w/edit#gid=571560493&range=A1:F1) where everyone can contribute, and we can answer key questions (using pre-set filter views) related to upcoming marketing plans.
+The marketing team utilizes a [single all-marketing calendar](https://internal.gitlab.com/handbook/marketing/#fy25-ssot-marketing-calendar) where everyone can contribute, and we can answer key questions (using pre-set filter views) related to upcoming marketing plans. Note: this calendar links to our internal handbook page. 
 
 Please do not filter the entire doc. Instead, you may use pre-set filter views (click down arrow selector next to the filter icon on the bookmark bar) to see activities grouped by GTM Motion, segment, region, team, language, and more.
-
-Below are some pre-set filter examples:
-- [Region - AMER](https://docs.google.com/spreadsheets/d/1fyrC4O1e13QTRNmYR3H5rMZIoIJcPk93vltOCx0ubjk/edit#gid=571560493&fvid=1972984682)
-- [Region - EMEA](https://docs.google.com/spreadsheets/d/1fyrC4O1e13QTRNmYR3H5rMZIoIJcPk93vltOCx0ubjk/edit#gid=571560493&fvid=1909928129)
-- [Region - APAC](https://docs.google.com/spreadsheets/d/1fyrC4O1e13QTRNmYR3H5rMZIoIJcPk93vltOCx0ubjk/edit#gid=571560493&fvid=1885172265)
-- [Segment - Enterprise](https://docs.google.com/spreadsheets/d/1fyrC4O1e13QTRNmYR3H5rMZIoIJcPk93vltOCx0ubjk/edit#gid=571560493&fvid=1095061873)
-- [Segment - MidMarket](https://docs.google.com/spreadsheets/d/1fyrC4O1e13QTRNmYR3H5rMZIoIJcPk93vltOCx0ubjk/edit#gid=571560493&fvid=1477092448)
-- [Segment - SMB](https://docs.google.com/spreadsheets/d/1fyrC4O1e13QTRNmYR3H5rMZIoIJcPk93vltOCx0ubjk/edit#gid=571560493&fvid=2052862089)
-- [Language - German](https://docs.google.com/spreadsheets/d/1fyrC4O1e13QTRNmYR3H5rMZIoIJcPk93vltOCx0ubjk/edit#gid=571560493&fvid=2039449224)
-- [Language - Japanese](https://docs.google.com/spreadsheets/d/1fyrC4O1e13QTRNmYR3H5rMZIoIJcPk93vltOCx0ubjk/edit#gid=571560493&fvid=690481258)
-- [Language - French](https://docs.google.com/spreadsheets/d/1fyrC4O1e13QTRNmYR3H5rMZIoIJcPk93vltOCx0ubjk/edit#gid=571560493&fvid=1557867798)
 
 *If there are other views you would find helpful, please feel free to duplicate an existing filter view, and include some sort of categorization (i.e. team, segment, etc.). You can do this by going to a similar filter view, and clicking on the top right gear icon, then selecting `Duplicate`.*
 
