@@ -205,18 +205,18 @@ Closed - N/A
 
 Whilst Accounts are always owned by the regions SMB Sales User, High Value Cases attached to accounts (Tier 1 accounts only), are owned by the SMB Advocate. 
 
-These cases are to remain open for the duration of the customer’s term (i.e they should NOT be closed out after 15 days of being created). They act as a reminder that these customers require continual attention and should be worked strategically. The primary aim of High Value Cases is to not let the customer churn. 
+These cases are to remain open for the duration of the customer’s term (i.e they should NOT be closed out after 15 days of being created). They act as a reminder that these customers require continual attention and should be worked strategically.
 
-The Advocate is advised to update Next Steps/ Next Steps Date, and create future dated reminder Tasks, so that they plan their outreach throughout the year.
+The Advocate is advised to build relationships with these customers, understand their journey with GitLab, and identify what we can do to grow the account (Ultimate or Add On licenses) or promote adoption and churn prevention.
 
-Note that as per the Tiering Criteria, these Accounts can still trigger other cases types, which should be worked and closed out within the 15 day period.  This will include High Value Check In Cases, which will remind the Advocate to touch base with the customer!
+The Advocate is advised to schedule ongoing touchpoints, update Next Steps/ Next Steps Date, and create future dated reminder Tasks, so that they plan their outreach throughout the year.
 
-Upon successful renewal, all open cases will be closed (by the SMB Advocate via a clean-up report) and a new High Value case will be opened for the next renewal. 
-Inbound Request
-Support Ticket cases will often include a Zendesk ticket link in the description field.  This should be viewed before contacting the customers. 
-Referral cases often originate from other Sales segments.  To determine if the account and opp in question should be moved to SMB, chatter Sales Support on the account.
+Note that these Accounts can still trigger other cases types, which should be worked and closed out within the 15 day period.  This will include High Value Check In Cases, which will remind the Advocate to touch base with the customer!  These cases will be auto assigned to the Advocate who owns the High Value Account case. 
+
+Upon successful renewal, all open cases should be closed (by the SMB Advocate via a clean-up report) and a new High Value case will be opened for the next renewal.
 
 Note: A High Value Account can be closed out if the customer advises ahead of renewal that they definitely fully churn.  Only in this scenario should the case be closed out, and the *Resolution Action* must be set to *Request Not Possible*.  By setting the *Resolution Action* to *Request Not Possible*, future High Value Cases will not be created on the account. 
+
 
 ### FO Opp (an SDR engages with a net new lead who has been qualified)
 Before picking up the case, the Advocate checks that they can attend the meeting (IQM) that appears as an Activity on the Contact record, and in the Next Steps fields.
@@ -242,9 +242,9 @@ When an Advocate picks up a support case, and the case contains a link to a Zend
 
 ### Customer MQL Cases
 
-The lead on the case should either be;
+Whilst working the case, the lead on the case should either be;
 - Converted to a contact under the linked account, if the lead confirms they work at the linked account/ company, AND there is an nARR opportunity.
-- Not converted/ disqualfied if the lead does not work at the linked account/ company,OR there is no nARR opportunity. 
+- Not converted/ disqualfied if the lead does not work at the linked account/ company, NOR there is no nARR opportunity. 
 
 ### Expansion Opportunities
 If an opportunity is uncovered whilst working an Expansion Opportunity case, a new Growth/ Add On opp should be created, and linked to the case via the Opportunity lookup field. An Add On opp must be created from the prior closed won renewal opp that exists on the account. 
