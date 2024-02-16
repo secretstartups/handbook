@@ -172,6 +172,8 @@ classDef gray fill:#FFFFFF;
 </div>
 </div>
 
+## Data Objects
+
 ### Equivalent Data Objects
 
 This table shows the equivalent data objects across systems:
@@ -190,23 +192,6 @@ Note: In SFDC, a [SFDC BillingAccount](https://help.salesforce.com/s/articleView
 Note: The Order object in CustomersDot is not the same as the Order object in Zuora, they have different definitions. Orders in CustomerDot are more like subscriptions in Zuora than they are Orders in Zuora. More architecture and definition work needs to be done on the Order object in CustomersDot.
 
 More information about the User and Contact objects shown in the table above, and how they interact together, can be found in [this workflow documentation](../flows/user_contact_flows.md).
-
-## Projects
-
-**Cross-Functional SSOT Architecture Plans:**
-
-The Fulfillment Team is re-architecting our Quote 2 Cash Systems, in particular CustomersDot, in a way that promotes more reliability, sustainability, and flexibility. This handbook page serves as the SSOT for the Q2C systems with links back to functional department pages and artifacts.
-
-1. Fulfillment SSOT Plan: [data_architecture](/handbook/company/quote-to-cash/#billing-account-master-data-object)
-1. Central Data Team SSOT Plan: [data_architecture](/handbook/company/quote-to-cash/#data-architecture-plan)
-1. Sales Systems SSOT Plan: To be added
-1. Enterprise Apps SSOT Plan: [data_architecture](/handbook/company/quote-to-cash/#billing-account-master-data-object)
-
-Zuora serves as the source of truth for `Zuora Account` and `Zuora Contact` data once a Subscription is purchased. Prior to a purchase, a user can register for CDot which creates a `CustomersDot User` record that isn't associated with an `CustomersDot BillingAccount` (because it doesn't exist yet).  Once purchased, the `CustomersDot BillingAccount` record is created along with the related `CustomersDot BillingAccountMembership`.
-
-Given that `CustomersDot User`/`Zuora Contact` and `CustomersDot BillingAccount`/`Zuora Account` information can be edited by users directly in CDot or directly in Zuora (or indirectly via SFDC), we need to be mindful of syncing this data between CDot and Zuora.  In particular, if we can't use Zuora callouts to keep the `CustomersDot BillingAccount` and `CustomersDot User` records in sync, we will explore [Zuora Custom Events](https://knowledgecenter.zuora.com/Central_Platform/Events_and_Notifications/A_Z_Custom_Events).
-
-A `CustomersDot User` record in CDot is tied to one email address.  This email address can be associated with multiple `Zuora Account`s, and therefore have multiple `Zuora Contact`s.  Each of these `Zuora Contact`s could be modified independently.  For instance, a billing admin may choose to change the address for Contact A for the billing entity in the US, but not choose to change the address for Contact B (associated with the same email address) for the billing entity in Europe.  For this reason, contact metadata could eventually be stored on the `CustomersDot BillingAccountMembership` model, but we are choosing to keep this lightweight to begin with to reduce scope.  We will start by fetching this data from Zuora.
 
 ### CustomerDot Object Model
 
@@ -412,9 +397,26 @@ First, we focussed on improving the data architecture alignment between Zuora Bi
 
 The `Customer` model in CDot has known design flaws as it represents a combination of both a Contact (individual user) and an Account (organization).  Research for this epic can be found in [this Spike issue](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1874).
 
-#### Fulfillment data architecture plan
+## Projects
 
-##### CustomersDot BillingAccount management
+THe following are architecture projects undertaken by Quote to Cash teams to better align systems.
+
+### Fulfillment data architecture plan
+
+The Fulfillment Team is re-architecting our Quote 2 Cash Systems, in particular CustomersDot, in a way that promotes more reliability, sustainability, and flexibility. This handbook page serves as the SSOT for the Q2C systems with links back to functional department pages and artifacts.
+
+1. Fulfillment SSOT Plan: [data_architecture](/handbook/company/quote-to-cash/#billing-account-master-data-object)
+1. Central Data Team SSOT Plan: [data_architecture](/handbook/company/quote-to-cash/#data-architecture-plan)
+1. Sales Systems SSOT Plan: To be added
+1. Enterprise Apps SSOT Plan: [data_architecture](/handbook/company/quote-to-cash/#billing-account-master-data-object)
+
+Zuora serves as the source of truth for `Zuora Account` and `Zuora Contact` data once a Subscription is purchased. Prior to a purchase, a user can register for CDot which creates a `CustomersDot User` record that isn't associated with an `CustomersDot BillingAccount` (because it doesn't exist yet).  Once purchased, the `CustomersDot BillingAccount` record is created along with the related `CustomersDot BillingAccountMembership`.
+
+Given that `CustomersDot User`/`Zuora Contact` and `CustomersDot BillingAccount`/`Zuora Account` information can be edited by users directly in CDot or directly in Zuora (or indirectly via SFDC), we need to be mindful of syncing this data between CDot and Zuora.  In particular, if we can't use Zuora callouts to keep the `CustomersDot BillingAccount` and `CustomersDot User` records in sync, we will explore [Zuora Custom Events](https://knowledgecenter.zuora.com/Central_Platform/Events_and_Notifications/A_Z_Custom_Events).
+
+A `CustomersDot User` record in CDot is tied to one email address.  This email address can be associated with multiple `Zuora Account`s, and therefore have multiple `Zuora Contact`s.  Each of these `Zuora Contact`s could be modified independently.  For instance, a billing admin may choose to change the address for Contact A for the billing entity in the US, but not choose to change the address for Contact B (associated with the same email address) for the billing entity in Europe.  For this reason, contact metadata could eventually be stored on the `CustomersDot BillingAccountMembership` model, but we are choosing to keep this lightweight to begin with to reduce scope.  We will start by fetching this data from Zuora.
+
+#### CustomersDot BillingAccount management
 
 [Introduce CustomersDot BillingAccount](https://gitlab.com/groups/gitlab-org/-/epics/8331)
 
@@ -425,12 +427,12 @@ The `Customer` model in CDot has known design flaws as it represents a combinati
 - [Iteration 1D: Clean up legacy data objects](https://gitlab.com/groups/gitlab-org/-/epics/8949) - Not Started
 
 
-##### Background
+#### Background
 
 In this epic, the focus is on improving the data architecture of CustomersDot to better align with Zuora Billing Accounts. The `Customer` model in CDot has known design flaws as it represents a combination of both a Zuora Contact (individual user) and a Zuora Account (organization).
 
 
-##### Problem
+#### Problem
 
 Currently CustomersDot (CDot) has a data object for `Customer` (e.g. `customers` DB table) which serves a few different functions:
 
@@ -441,7 +443,7 @@ Currently CustomersDot (CDot) has a data object for `Customer` (e.g. `customers`
 It is important to note that a Zuora Account maps to a company/customer account which can have many users or contacts. It should not map to one user in particular.  In the current architecture, a `zuora_account_id` can be shared with more than one Customer but this isn't ideal.  We need to have an architecture that accurately reflects the data structure from Zuora and our business model.  In CustomersDot, we need to have a data architecture that accurately reflects [Zuora's Billing Objects Model](https://knowledgecenter.zuora.com/BB_Introducing_Z_Business/A_Zuora_Billing_business_object_model)).
 
 
-##### Examples of issues this could benefit
+#### Examples of issues this could benefit
 
 1. [CDot Issue #3626](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/3626)
 1. [GL Issue #332236](https://gitlab.com/gitlab-org/gitlab/-/issues/332236)
@@ -451,7 +453,7 @@ It is important to note that a Zuora Account maps to a company/customer account 
 1. [GL Issue #338546](https://gitlab.com/gitlab-org/gitlab/-/issues/338546)
 
 
-##### Plan
+#### Plan
 
 We recommend adding a few new models to the CustomersDot data architecture to better reflect the Zuora data structure.
 
@@ -468,7 +470,7 @@ With this data structure, CDot should consider the data structure of `CustomersD
 
 Currently, CDot creates a `CustomersDot User` record for the SoldTo contact associated with the Subscription Account.  In this epic, we could also create a `CustomersDot User` record for the BillTo contact as well for the same Subscription Account, but this isn't a requirement.  This will effectively allow both types of contacts to login to CDot and manage the Account's subscriptions.
 
-##### Why do we need the ability to associate a CustomersDot User with many CustomersDot BillingAccounts?
+#### Why do we need the ability to associate a CustomersDot User with many CustomersDot BillingAccounts?
 
 We considered only allowing a `CustomersDot User` to be associated with a single `CustomersDot BillingAccount`, however, we determined that we should build a many-to-many mapping capability because:
 
@@ -479,7 +481,7 @@ Enabling this will bring parity between CustomersDot and Zuora.
 
 Update: CDot has added `BillingAccount`, `BillingAccountMembership` and `BillingAccountContact` models to align with Zuora Billing models.
 
-##### Source of Truth
+#### Source of Truth
 
 Zuora serves as the source of truth for `Zuora Account` and `Zuora Contact` data once a Subscription is purchased. Prior to a purchase, a user can register for CDot which creates a `CustomersDot User` record that isn't associated with an `CustomersDot BillingAccount` (because it doesn't exist yet).  Once purchased, the `CustomersDot BillingAccount` record is created along with the related `CustomersDot BillingAccountMembership`.
 
@@ -556,8 +558,6 @@ The Master Data Objects development work in Snowflake/dbt is tracked in these tw
 Below is the Entity Relationship Diagram for the Re-architected data model in Snowflake. The Target State tab shows how the business entities we extract from the CustomersDot, Zuora, Salesforce, and GitLab.com source systems connect with each other.
 
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/c8f1520c-e59b-4551-a9db-bfce88bb84dc" id="0GkOGAjoD_O."></iframe></div>
-
-
 
 
 #### Conformed Dimension Design for Core Business Objects
