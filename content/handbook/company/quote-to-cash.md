@@ -505,7 +505,7 @@ Overall, this will lead to a more secure environment for our customers in CDot a
 
 #### Align CustomersDot Orders with Zuora Orders
 
-This work focuses on breaking apart the `CustomersDot Order` table and moving towards a data structure that is more representative of the `Zuora Subscriptions` table. 
+This work focuses on breaking apart the `CustomersDot Order` table and moving towards a data structure that is more representative of the `Zuora Subscriptions` table.
 
 See the [Architecture Blueprint](https://docs.gitlab.com/ee/architecture/blueprints/cdot_orders/) for full details.
 
