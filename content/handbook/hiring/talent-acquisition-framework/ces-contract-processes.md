@@ -29,7 +29,7 @@ This chart reflects the available signatories for each of GitLab's entities. The
 | GitLab GmbH | Marissa Farris, Rob Allen & Pattie Egan|
 | GitLab PTY Ltd, Australia | Jess Dallmar & Rob Allen. Backup: Craig Mestel|
 | GitLab PTY Ltd, New Zealand | Jess Dallman & Rob Allen. Backup: Craig Mestel|
-| GitLab Ireland LTD | Rob Allen & Pattie Egan. Backup: Craig Mestel|
+| GitLab Ireland LTD | Marissa Farris, Rob Allen & Pattie Egan. Backup: Craig Mestel|
 | GitLab UK Ltd | Marissa Farris, Rob Allen, Pattie Egan|
 | GitLab Canada Corp | Craig Mestel, Simon Mundy |
 | GitLab GK, Japan | Jess Dallmar, Rob Allen. Backups: Simon Mundy, Craig Mestel |
