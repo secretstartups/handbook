@@ -98,6 +98,8 @@ is added to each project with maintainer permission. We also try to align tools 
   - [Release tool](https://gitlab.com/gitlab-org/ci-cd/runner-tools/releaser)
   - [GitLab Changelog](https://gitlab.com/gitlab-org/ci-cd/runner-tools/gitlab-changelog)
   - [Release index generator](https://gitlab.com/gitlab-org/ci-cd/runner-tools/release-index-generator)
+- Maintenance
+  - [Runner Pod Cleanup](https://gitlab.com/gitlab-org/ci-cd/gitlab-runner-pod-cleanup)
 
 ### Runner SaaS projects
 
