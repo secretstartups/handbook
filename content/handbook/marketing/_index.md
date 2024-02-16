@@ -40,7 +40,7 @@ Value-driven Marketing Team
 
 How we work as one team aligns with the [GitLab Values](/handbook/values/).
 
-**Results** - The team measures success together along the customer journey. Each quarter, we align CMO OKRs based on company goals set in the CEO OKRs. This helps us stay aligned with company-level goals while also understanding if what we are doing quarter over quarter is moving the needle on our marquee metrics along the customer journey. Being data-driven as a team is essential for team success.
+**Results** - The team measures success together along the customer journey. Each quarter, we align CMO OKRs based on company goals set in the company OKRs. This helps us stay aligned with company-level goals while also understanding if what we are doing quarter over quarter is moving the needle on our marquee metrics along the customer journey. Being data-driven as a team is essential for team success.
 
 **Iteration** - Like the rest of the company, we aspire to be agile and experimental where possible.  In every area possible, we roll out campaigns, brand updates, messaging, etc. in small iterations, measure the success, and take next steps accordingly.
 
@@ -200,7 +200,7 @@ We use Slack internally as a communication tool. The Marketing channels are as f
 
 Automated channels with feeds from different sources:
 
-- `#developer-evangelism-updates`: [Zapier workflows](/handbook/marketing/developer-relations/workflows-tools/zapier/) automatically post GitLab blog posts, Developer Relations social shares, competitive insights, Common Room updates, etc. 
+- `#developer-evangelism-updates`: [Zapier workflows](/handbook/marketing/developer-relations/workflows-tools/zapier/) automatically post GitLab blog posts, Developer Relations social shares, competitive insights, Common Room updates, etc.
 - `hn-mentions`: Hacker News post feed, automated with [Zapier](/handbook/marketing/developer-relations/workflows-tools/zapier/) and maintained by the Developer Relations team.
 - `social_media_posts`: Automated social media post feed.
 
@@ -351,7 +351,7 @@ FY25 All-Marketing SSoT Calendar
 <a id="fy25-calendar"></a>
 <!-- DO NOT CHANGE ANCHOR -->
 
-The marketing team utilizes a [single all-marketing calendar](https://internal.gitlab.com/handbook/marketing/#fy25-ssot-marketing-calendar) where everyone can contribute, and we can answer key questions (using pre-set filter views) related to upcoming marketing plans. Note: this calendar links to our internal handbook page. 
+The marketing team utilizes a [single all-marketing calendar](https://internal.gitlab.com/handbook/marketing/#fy25-ssot-marketing-calendar) where everyone can contribute, and we can answer key questions (using pre-set filter views) related to upcoming marketing plans. Note: this calendar links to our internal handbook page.
 
 Please do not filter the entire doc. Instead, you may use pre-set filter views (click down arrow selector next to the filter icon on the bookmark bar) to see activities grouped by GTM Motion, segment, region, team, language, and more.
 
@@ -430,5 +430,5 @@ This front page of the Marketing Handbook is intended to serve as the external f
 [Growth]: /handbook/marketing/growth/
 
 [Product Handbook]: /handbook/product
-[Technical writing]: /handbook/product/ux/technical-writing/ 
+[Technical writing]: /handbook/product/ux/technical-writing/
 
