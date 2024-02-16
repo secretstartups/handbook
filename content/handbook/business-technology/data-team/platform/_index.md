@@ -401,16 +401,24 @@ When you apply for a Snowflake account via an AR and get access provisioned it t
 
 When you don’t select the right role in Snowflake, you only see the following Snowflake objects:
 
-![object_list](/handbook/business-technology/data-team/platform/object_list.png)
+![object_list](/handbook/business-technology/data-team/platform/object_list_snowsight.png) 
 
-Selecting the right role can be done via the GUI in the up right corner.
+Selecting the right role can be done via the GUI.
+When in Snowsight home screen, in the up left corner.
 
-![select_role](/handbook/business-technology/data-team/platform/select_role.png)
+![select_role](/handbook/business-technology/data-team/platform/select_role1.png)
 
-1. Click on the arrow
+1. Click on the arrow near your name
 2. Select Switch Role
-3. Select your role.
+3. Select your role
 
+When in Snowsight in a worksheet, in the up right corner.
+
+![select_role](/handbook/business-technology/data-team/platform/select_role2.png)
+
+1. Click on `public`
+2. Select your role 
+  
 You can set this to your default by running the following:
 
 `ALTER USER <YOUR_USER_NAME> SET DEFAULT_ROLE = '<YOUR_ROLE>'`
