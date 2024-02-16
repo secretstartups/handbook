@@ -25,7 +25,7 @@ title: "Scalability Group"
 
 The Scalability group is currently formed of two teams:
 * [Scalability:Observability](./observability) and
-* `Scalability:Practices`.
+* [Scalability:Practices](./practices).
 
 {{< team-by-manager-slug "rachel-nienaber" >}}
 
@@ -41,16 +41,9 @@ The following people are members of the [Scalability:Observability team](./obser
 
 ### Scalability:Practices
 
-The Practices team focuses on tools and frameworks that enable the stage groups to support their features on our production systems.
+The [Practices team](./practices) focuses on tools and frameworks that enable the stage groups to support their features on our production systems.
 
-The Practises team is a new addition to the Scalability group and we will refine the responsibilities for this team.
-
-Current team responsibilities:
-
-- [Runway](https://about.gitlab.com/direction/saas-platforms/scalability/runway/): Internal Platform as a Service for GitLab, enabling teams to deploy and run their services quickly and safely.
-- [Production Readiness Review](/handbook/engineering/infrastructure/production/readiness/): A process that helps identify the reliability needs of a service, feature, or significant change to infrastructure for GitLab.com
-
-The following people are members of the Scalability:Practices team:
+The following people are members of the [Scalability:Practices team](./practices):
 
 {{< team-by-manager-slug "kwanyangu" >}}
 
