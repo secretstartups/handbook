@@ -43,8 +43,7 @@ For each fiscal year's plan, we use the following structure to organize epics on
 - FYXX Content
   - FYXXQ{1,2,3,4}
     - Child epic for each piece of content (blog, video, contributed article, media interview, etc) we will publish 
-  - FYXX Release Evangelism epic 
-    - Child epic for each release we will support 
+  - FYXX Release Evangelism epic (contains all release shares and results)
 
 
 #### Start and due dates
@@ -245,75 +244,44 @@ On completion:
 #### Release Evangelism Epic Template
 
 ```markdown
-## 👀 Pins
+## :eyes: Pins
 
-* [Release Evangelism handbook](/handbook/marketing/developer-relations/developer-advocacy/social-media/#release-evangelism) provides all resources. 
+* [Release Evangelism handbook](https://handbook.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/social-media/#release-evangelism) provides all resources.
 * [#release-post](https://gitlab.slack.com/archives/C3TRESYPJ) Slack channel (internal)
+* [Release post MR items](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?label_name%5B%5D=release+post)
 
-### ✍ Release post
+### :construction_site: Tasks
 
-* [Release Post MR](FIXME_MR)
-* [Release Post Review App](FIXME_REVIEWAPP)
+1. Create campaign short URLs in the [Release Evagelism Campaign](https://campaign-manager.gitlab.com/campaigns/view/3), under the Developer Relations Team in [CommunityApps](https://campaign-manager.gitlab.com/), and add them into the releases sections below.
+1. Review and identify social share items, add text examples for team members to copy/paste.
 
-#### CommunityApps Campaign Links
+## :bulb: Releases
 
-> Create campaign short URLs in the [Release Evagelism Campaign](https://campaign-manager.gitlab.com/campaigns/view/3), under the Community Team in [CommunityApps](https://campaign-manager.gitlab.com/), and add them here. 
+- https://about.gitlab.com/releases/
+- https://about.gitlab.com/upcoming-releases/
 
-  - Twitter/X:
-  - LinkedIn:
-  - Mastodon:
+<!-- Repeat the template below 12x for all releases for the coming fiscal year. -->
+### <version> (yyyy-mm-dd)
 
-## 🔥 Interesting Items
+- Release blog post:
+- Twitter/X:
+- LinkedIn:
+- Mastodon:
 
-### MVP
+Social shares
 
-> Create a screenshot from the MVP section, tag the user if possible, and give a shoutout, linking the blog post `#mvp` anchor.
+1. 
 
-### DevSecOps 
+Feature highlights
 
-_Secure, Govern, Compliance, SAST, container/dependency scanning, etc._
+| Feature | Section | URL | Social text example |
+|---------|---------|-----|---------------------|
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 
-- [ ] Text:  URL:
 
-### GitLab Duo 
-
-_AI-powered workflows, use cases, new GitLab Duo features, etc._
-
-- [ ] Text:  URL:
-
-### Plan/Create/Manage
-
-_Issues, epics, code review, editor, roadmaps, etc._
-
-- [ ] Text:  URL:
-
-### CI/CD 
-
-_CI/CD config, editor, runner, deployments, environments, etc._
-
-- [ ] Text:  URL:
-
-### IaC/GitOps
-
-_Configure, Package, Release, Deploy, etc._
-
-- [ ] Text:  URL:
-
-### Observability
-
-_Metrics, traces, analytics, value stream dashboards, etc._
-
-- [ ] Text:  URL:
-
-## ❤️ Social Shares
-
-- Item:  
-  - Twitter/X:
-  - LinkedIn: 
-
-> 💡 Add a new buffer campaign and post screenshots into this issue. 
-
-/label ~"developer-advocacy" ~"DA-Type::Evangelist" ~"DevRel-Content"  ~"Content-Releases" 
+/label ~"developer-advocacy" ~"DA-Type::Evangelist" ~"DevRel-Content" ~"Content-Releases"
 
 
 ```
