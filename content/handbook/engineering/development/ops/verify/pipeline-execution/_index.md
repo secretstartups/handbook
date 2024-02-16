@@ -121,7 +121,7 @@ Not included in the Pipeline Execution group's domain:
 
 ## Technical Roadmap
 
-### FY24
+### FY25
 
 These are our high-level engineering driven goals for the year. As with any of our goals, they are ambitious and subject to change.
 
@@ -134,19 +134,12 @@ These are our high-level engineering driven goals for the year. As with any of o
 - Understand what we can do to improve pipeline speed
 - Prototype at least one big swing improvement
 
-##### Pipeline Scheduling Algorithm / Queuing
-
-**Goals:**
-
-- Settle on path forward for what changes we want to make to the algorithm
-- Complete phase 1 implementation based on decisions
-
 ##### Fix Long Standing Pipeline Status Issues
 
 **Goals:**
 
-- Deep dive into existing pipeline status issues and code.
-    - Determine if there are and make systemic changes to address a number of the issues.
+- Deep dive into existing pipeline status issues and code
+    - Determine if there are and make systemic changes to address a number of the issues
 
 #### Scalability
 
@@ -156,28 +149,48 @@ These are our high-level engineering driven goals for the year. As with any of o
 
 - Complete the data partitioning of the 6 largest CI tables - [Blueprint](https://docs.gitlab.com/ee/architecture/blueprints/ci_data_decay/pipeline_partitioning.html)
 
+
+##### Sidekiq
+
+**Goals:**
+
+- Improve performance of our background workers to increase reliability and scalability
+
+##### Support Improved Job Searching Capabilities
+
+**Goals:**
+
+- Improve our ability to support additional search and filtering capabilities for jobs
+
 ##### Reduce Operating costs
 
 **Goals:**
 
+- Contribute to data retention planning
 - Identify potential cost savings from compressing job logs - [Spike](https://gitlab.com/gitlab-org/gitlab/-/issues/390114)
-    - Depending on results, schedule work to implement compression.
+    - Depending on results, schedule work to implement compression
 
 #### Developer Efficiency
+
+##### Technical Debt Reduction
+
+**Goals:**
+
+- Reduce the overall technical debt existing within the codebase
+- Avoid accumulating more long-term debt by scheduling follow-up issues promptly
+
 ##### Frontend Refactoring to Vue
 
 **Goals:**
 
-- Complete the refactoring of the schedules pages to Vue
-- Complete the refactoring of the pipeline triggers pages to Vue
 - Complete the refactoring of the pipeline subscriptions pages to Vue
+- Identify any additional areas that should be refactored [Epic](https://gitlab.com/groups/gitlab-org/-/epics/12836)
 
-##### Support Internal Pipeline Dogfooding
+##### Pipeline Rendering
 
 **Goals:**
 
-- Contribute to [Dogfooding Audit](https://gitlab.com/gitlab-org/quality/engineering-productivity/team/-/issues/206)
-    - Schedule issues that arise as a result of the audit
+- Complete performance improvements for pipeline rendering. This functionality is used frequently by developers and their productivity is impacted by poor performance.
 
 ##### Merge Trains
 
@@ -185,21 +198,6 @@ These are our high-level engineering driven goals for the year. As with any of o
 
 - Get merge trains to a state where they are scalable enough to be used effectively by the GitLab project.
 
-### Projected Timeline
-
-#### Q3 - Theme: Scaling & Performance
-
-- Focus on CI Database Partitioning
-- Merge train improvements
-- Investigate potential cost savings for compressed job logs
-- Refactor frontend to Vue
-
-#### Q4 - Theme: Performance & Efficiency
-
-- Focus on CI Database Partitioning across the team
-- Continue Merge train improvements
-- Refactor frontend to Vue
-- Pipeline status issues
 
 ## Team Members
 
