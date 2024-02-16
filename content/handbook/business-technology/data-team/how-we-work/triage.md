@@ -79,9 +79,8 @@ The Data Platform Team will run on a weekly rotation schedule moving forward. Th
 
 Before the start of the quarter the Data Platform Team aligns on the weekly rotation schedule via an issue.
 
-- FY24-Q2: https://gitlab.com/gitlab-data/analytics/-/issues/16229
-- FY24-Q1: https://gitlab.com/gitlab-data/analytics/-/issues/15407
-- FY23-Q4: https://gitlab.com/gitlab-data/analytics/-/issues/14815
+- FY25-Q1: https://gitlab.com/gitlab-data/analytics/-/issues/19431
+- FY24-Q4: https://gitlab.com/gitlab-data/analytics/-/issues/18709
 
 Because of public holidays or unforeseen circumstances (Family and Friends day excluded, on these days we do not perform triage), the schedule can change throughout the quarter where there is still a possibility to handover a single day amongst Data Platform Team members. These changes are arranged between team members and are reflected in the Data Team calendar.
 
