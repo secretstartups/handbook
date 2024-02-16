@@ -314,6 +314,8 @@ When a team member applies for and receives a new position through Greenhouse, a
 Effective dates for a job change letter should be the first (1st) of the month or the sixteenth (16th). For Sales or Sales Development team members, they can only be the first of the month. These effective dates do not need to be on a business day and should be adhered to payroll purposes.
 Please note that JCLs cannot be used if a team member is moving from the Federal, LLC. entity into any other entity **or** any entity that is not Federal, LLC into the Federal, LLC. entity. In those cases, a new contract **must** be issued as there are tax implications to this entity.
 
+If the team member is making a lateral move where there is no change in compensation, then the start date can be any Monday.
+
 When generating a job change letter for a PEO, the steps remains the same as outlined below. However, select the JCL template that does not include RSUs, and send the RSU details via DocuSign email.
 
 The Candidate Experience Specialist needs to merge any additional candidate profiles before marking as hired. If the profiles are not merged, it will create a duplicate and mess with the employment bot sync to Workday & BambooHR. The signed letter is uploaded into Workday under the Contracts and Changes folder on the Documents Tab by the Total Rewards Analyst.
