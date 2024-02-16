@@ -23,49 +23,49 @@ Quote-to-Cash system projects and initiatives often require close collaboration 
 
 ## Systems
 
-The Q2C systems consists of Salesforce, Zuora (CPQ, 360, Billing, Revenue), CustomersDot, and NetSuite.
+The Q2C systems consists of several systems including Salesforce, Zuora (CPQ, 360, Billing, Revenue), CustomersDot, and NetSuite.
 
-### Salesforce
+**Salesforce**
 
 - Salesforce is used as our CRM tool for managing customer Leads, Contacts, Accounts, Opportunities and Quotes.
 - Salesforce is owned by the [Enterprise Applications](/handbook/business-technology/enterprise-applications/) team at GitLab, and implements changes from the process owners.
 - The [Quoting process](/handbook/sales/field-operations/order-processing/#quote-configuration) itself is owned by the [Deal Desk team](/handbook/sales/field-operations/sales-operations/deal-desk/).
 
-### Zuora CPQ
+**Zuora CPQ**
 
 - Zuora CPQ is our Configure, Price, Quote tool used for Sales Assisted deals
 - Zuora CPQ is a managed package in Salesforce that has been extended for Quote Approvals by [Enterprise Applications](/handbook/business-technology/enterprise-applications/)
 - The [Quote Approval process](/handbook/sales/field-operations/order-processing/#standard-quote-approval) itself is owned by the [Deal Desk team](/handbook/sales/field-operations/sales-operations/deal-desk/).
 
-### Zuora 360
+**Zuora 360**
 
 - Zuora 360 is a stock connector between Zuora and Salesforce, is transfers Zuora subscription information to Salesforce.
 - Zuora 360 the job is owned by [Enterprise Applications](/handbook/business-technology/enterprise-applications/), the extension of Zuora Subscription data in Salesforce for Add-ons and Renewals deal is also owned by [Enterprise Applications](/handbook/business-technology/enterprise-applications/).
 - The [Add-On](/handbook/sales/field-operations/sales-operations/deal-desk/#amend-subscription-quote) and [Renewal](/handbook/sales/field-operations/sales-operations/deal-desk/#renew-subscription-quote) processes are owned by the [Deal Desk team](/handbook/sales/field-operations/sales-operations/deal-desk/).
 
-### Zuora Billing
+**Zuora Billing**
 
 - Zuora is used as our billing and revenue tool for managing customer subscriptions, payments and invoicing.
 - Zuora is owned by the [Enterprise Applications](/handbook/business-technology/enterprise-applications/) team at GitLab.
 - The Billing process itself is owned by the [Billing Operations](/handbook/finance/accounting/finance-ops/billing-ops/) team
 
-### Zuora Revenue
+**Zuora Revenue**
 
 - Zuora Revenue is our automated revenue recognition application that meets current and future U.S. GAAP, including the new ASC 606 and IFRS 15 revenue standards.
 
-### CustomersDot (Customers Portal)
+**CustomersDot (Customers Portal)**
 
 - CustomersDot is used when the customer logs in to manage their subscriptions
 - GitLab engineers created CustomersDot and it is owned by the [Fulfillment team](/handbook/engineering/development/fulfillment/)
 - CustomersDot integrates with Zuora to enable self-service purchasing and subscription management
 
-### NetSuite
+**NetSuite**
 
 - NetSuite is the company Enterprise Resource Planning (ERP) system, which is primarily managed by the Finance team.
 - The platform allows enhanced dimensional reporting as well as multi-currency and multi-entity reporting. This is where the General Ledger resides and all financial activity is ultimately recorded, which is critical to reporting the financial health of the company.
 
 
-## Q2C System Architecture
+## Architecture
 
 <div class="x-scrollable">
 <div style="width: 1800px;">
@@ -173,21 +173,6 @@ classDef gray fill:#FFFFFF;
 </div>
 </div>
 
-**Cross-Functional SSOT Architecture Plans:**
-
-The Fulfillment Team is re-architecting our Quote 2 Cash Systems, in particular CustomersDot, in a way that promotes more reliability, sustainability, and flexibility. This handbook page serves as the SSOT for the Q2C systems with links back to functional department pages and artifacts.
-
-1. Fulfillment SSOT Plan: [data_architecture](/handbook/company/quote-to-cash/#billing-account-master-data-object)
-1. Central Data Team SSOT Plan: [data_architecture](/handbook/company/quote-to-cash/#data-architecture-plan)
-1. Sales Systems SSOT Plan: To be added
-1. Enterprise Apps SSOT Plan: [data_architecture](/handbook/company/quote-to-cash/#billing-account-master-data-object)
-
-Zuora serves as the source of truth for `Zuora Account` and `Zuora Contact` data once a Subscription is purchased. Prior to a purchase, a user can register for CDot which creates a `CustomersDot User` record that isn't associated with an `CustomersDot BillingAccount` (because it doesn't exist yet).  Once purchased, the `CustomersDot BillingAccount` record is created along with the related `CustomersDot BillingAccountMembership`.
-
-Given that `CustomersDot User`/`Zuora Contact` and `CustomersDot BillingAccount`/`Zuora Account` information can be edited by users directly in CDot or directly in Zuora (or indirectly via SFDC), we need to be mindful of syncing this data between CDot and Zuora.  In particular, if we can't use Zuora callouts to keep the `CustomersDot BillingAccount` and `CustomersDot User` records in sync, we will explore [Zuora Custom Events](https://knowledgecenter.zuora.com/Central_Platform/Events_and_Notifications/A_Z_Custom_Events).
-
-A `CustomersDot User` record in CDot is tied to one email address.  This email address can be associated with multiple `Zuora Account`s, and therefore have multiple `Zuora Contact`s.  Each of these `Zuora Contact`s could be modified independently.  For instance, a billing admin may choose to change the address for Contact A for the billing entity in the US, but not choose to change the address for Contact B (associated with the same email address) for the billing entity in Europe.  For this reason, contact metadata could eventually be stored on the `CustomersDot BillingAccountMembership` model, but we are choosing to keep this lightweight to begin with to reduce scope.  We will start by fetching this data from Zuora.
-
 ### Equivalent Data Objects Across Q2C Systems
 
 This table shows the equivalent data objects across systems:
@@ -206,6 +191,26 @@ Note: In SFDC, a [SFDC BillingAccount](https://help.salesforce.com/s/articleView
 Note: The Order object in CustomersDot is not the same as the Order object in Zuora, they have different definitions. Orders in CustomerDot are more like subscriptions in Zuora than they are Orders in Zuora. More architecture and definition work needs to be done on the Order object in CustomersDot.
 
 More information about the User and Contact objects shown in the table above, and how they interact together, can be found in [this workflow documentation](../flows/user_contact_flows.md).
+
+**Cross-Functional SSOT Architecture Plans:**
+
+The Fulfillment Team is re-architecting our Quote 2 Cash Systems, in particular CustomersDot, in a way that promotes more reliability, sustainability, and flexibility. This handbook page serves as the SSOT for the Q2C systems with links back to functional department pages and artifacts.
+
+1. Fulfillment SSOT Plan: [data_architecture](/handbook/company/quote-to-cash/#billing-account-master-data-object)
+1. Central Data Team SSOT Plan: [data_architecture](/handbook/company/quote-to-cash/#data-architecture-plan)
+1. Sales Systems SSOT Plan: To be added
+1. Enterprise Apps SSOT Plan: [data_architecture](/handbook/company/quote-to-cash/#billing-account-master-data-object)
+
+Zuora serves as the source of truth for `Zuora Account` and `Zuora Contact` data once a Subscription is purchased. Prior to a purchase, a user can register for CDot which creates a `CustomersDot User` record that isn't associated with an `CustomersDot BillingAccount` (because it doesn't exist yet).  Once purchased, the `CustomersDot BillingAccount` record is created along with the related `CustomersDot BillingAccountMembership`.
+
+Given that `CustomersDot User`/`Zuora Contact` and `CustomersDot BillingAccount`/`Zuora Account` information can be edited by users directly in CDot or directly in Zuora (or indirectly via SFDC), we need to be mindful of syncing this data between CDot and Zuora.  In particular, if we can't use Zuora callouts to keep the `CustomersDot BillingAccount` and `CustomersDot User` records in sync, we will explore [Zuora Custom Events](https://knowledgecenter.zuora.com/Central_Platform/Events_and_Notifications/A_Z_Custom_Events).
+
+A `CustomersDot User` record in CDot is tied to one email address.  This email address can be associated with multiple `Zuora Account`s, and therefore have multiple `Zuora Contact`s.  Each of these `Zuora Contact`s could be modified independently.  For instance, a billing admin may choose to change the address for Contact A for the billing entity in the US, but not choose to change the address for Contact B (associated with the same email address) for the billing entity in Europe.  For this reason, contact metadata could eventually be stored on the `CustomersDot BillingAccountMembership` model, but we are choosing to keep this lightweight to begin with to reduce scope.  We will start by fetching this data from Zuora.
+
+
+## Projects
+
+
 
 ### CustomerDot Object Model
 
