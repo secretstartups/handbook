@@ -23,7 +23,7 @@ The following categories can be used to decorate the projects we want to monitor
 
 | Categories | Description |
 | -------- | ----------- |
-| `product` | Used as a component of GitLab at some point |
+| `product` | Part of GitLab's software supply chain (i.e. used to build, package, release, deploy GitLab, or used as part of the product) |
 | `library` | A library, package source, component (not necessarily a `product` one) |
 | `deploy` | Used to deploy GitLab.com |
 | `website` | Deployed to a website (URL will be required) |
