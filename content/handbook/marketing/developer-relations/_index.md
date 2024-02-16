@@ -7,7 +7,7 @@ twitter_image: '/images/tweets/handbook-marketing.png'
 <i class="fas fa-bullhorn fa-fw color-orange font-awesome"></i> Welcome to the GitLab Developer Relations Handbook
 {.h1}
 
-## <i class="fa-regular fa-lightbulb"></i> What is DevRel? 
+## <i class="fa-regular fa-lightbulb"></i> What is DevRel?
 
 Developer Relations (short: DevRel) operates at the intersection of technology, community, and advocacy, serving as the voice and ears of GitLab in the wider tech world. Their core mission revolves around nurturing and sustaining a vibrant, engaged community of developers, contributors, and users. This involves a multifaceted approach that includes creating educational content, organizing events and workshops, developing programs, and providing platforms for knowledge exchange and collaboration. The team not only focuses on promoting GitLab's features and capabilities but also actively listens to and incorporates feedback from the community to inform product development and improvements.
 
@@ -142,7 +142,7 @@ Every quarter, we work on [team Objectives and Key Results (OKRs)](https://gitla
 
 OKRs we seek to align with:
 
-- [CEO OKRs](/handbook/company/okrs/#most-recent-okrs)
+- [company OKRs](/handbook/company/okrs/#most-recent-okrs)
 - [Marketing OKRs](/handbook/marketing/#marketing-okrs)
 
 #### DRI Responsibilities
