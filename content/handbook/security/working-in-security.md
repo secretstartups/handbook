@@ -24,7 +24,7 @@ Information regarding growth and development benefits available to GitLab team m
 ```mermaid
   graph LR;
   subgraph Merit Based
-    sec:s(Intern, Security Engineering)-->sec:se(Security Engineer);
+    sec:s(Intern, Product Security)-->sec:se(Security Engineer);
     sec:se(Security Engineer)-->sec:sse(Senior Security Engineer);
   end
   subgraph Based on Merit and Company Need

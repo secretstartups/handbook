@@ -1,6 +1,7 @@
 ---
 title: "Critical System Tiering Methodology"
 summary: "The purpose of the Critical Systems Tiering Methodology is to support GitLab in identifying and understanding the specific systems utilized across the organization that are considered essential in order to maintain operations."
+controlled_document: true
 ---
 
 ## Purpose

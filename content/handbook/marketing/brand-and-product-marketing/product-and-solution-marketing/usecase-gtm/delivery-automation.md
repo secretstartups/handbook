@@ -19,7 +19,7 @@ The page below is intended to align GitLab sales and marketing efforts with a si
 
 ### Who to contact
 
-|     Product Marketing    |    Technical Marketing    |
+|     Product Marketing    |    Developer Advocate    |
 | ------------------------ | ------------------------- |
 | Daniel Hom (@danielhom) / Aathira Nair (@anair5) | Itzik Gan Baruch (@iganbaruch) |
 

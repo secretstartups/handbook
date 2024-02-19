@@ -33,7 +33,7 @@ The Deal Desk team's mission is to streamline the opportunity management process
     - [Security Questionnaire Process](/handbook/security/#process)
     - [Troubleshooting: True Ups, Licenses + EULAS](
 https://about.gitlab.com/handbook/business-technology/enterprise-applications/quote-to-cash/troubleshooting/)
-    - [Licensing FAQ](/pricing/licensing-faq/)
+    - [Licensing FAQ](https://about.gitlab.com/pricing/licensing-faq/)
     - [Legal Authorization Matrix](/handbook/finance/authorization-matrix/)
     - [Trade Compliance (Export/Import)](/handbook/sales/field-operations/order-processing/#trade-compliance-export--import-and-visual-compliance-tool-in-salesforce)
 
@@ -68,7 +68,7 @@ For Alliances & Private Offer Creation, this process is supported by one team me
 
 During holidays, or when team members are on PTO, individuals located in different regions may step in to support and ensure appropriate coverage. This is reserved for End of Month/End of Quarter, or other times when the team is short-staffed.
 
-Support will be provided based on the following business hours in the respective region. If a complex case or non standard deal request is submitted after 4:00PM (Local Time) the case will be prioritized the following business day.  
+Support will be provided based on the following business hours in the respective region. If a complex case or non standard deal request is submitted after 4:00PM (Local Time) the case will be prioritized the following business day.
 
 |     Region    | Standard Support Hours |
 |:-------------:|------------------------|
@@ -98,7 +98,7 @@ As of 2022-02-01, the Deal Desk team is structured as follows:
   - Deal Desk Specialist (AMER)
   - Deal Desk Specialist (AMER)
   - Deal Desk Specialist (AMER)
-  
+
 
 **EMEA/APAC TEAM:**
 - Manager, Deal Desk (EMEA/APAC)
@@ -135,7 +135,7 @@ In case of a specific opportunity or quote related question please use SF Chatte
 
 ##### Slack Announcements
 
-Desk Desk process updates and announcements will be communicated via #field-fyi, #sales and #sales-support Slack channels.  
+Desk Desk process updates and announcements will be communicated via #field-fyi, #sales and #sales-support Slack channels.
 
 #### Deal Desk Office Hours
 
@@ -783,8 +783,13 @@ Contract Resets are used to perform an "Early Renewal" - i.e. start a new 12 mon
 - Click Next and update the products and fees per the steps above.
 - **IMPORTANT:** Next, tag `@Sales-Support` in Chatter on the Renewal Opportunity to create a credit opportunity and quote to cancel the existing subscription, which in this scenario is being replaced with the new subscription. Deal Desk will then manually generate a Contract Reset Opp and Order Form to add the credit line into the order form once the quote has been fully approved.
 
-### **Note: The customer's subscription is suddenly downgraded to free, greatly impacting their ability to use GitLab.com.**
-- To help mitigate the impact, the customer may [change the linked namespace](https://docs.gitlab.com/ee/subscriptions/gitlab_com/#change-the-linked-namespace) or contact support. For a demo see, [Linking GitLab Subscription to the Namespace](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4770#note_1194437643)
+For GitLab.com subscriptions, Deal Desk will follow the below steps to ensure the customer is not downgraded to free when their initial subscription is cancelled. These are outlined in more detail in [this presentation](https://docs.google.com/presentation/d/1fv_QMzPJ4Al5AaPBNd-IW5dCwuac56ShrzcpjUO_S60/edit?usp=sharing).
+- From the Account, click on the relevant Subscription record for the existing subscription under "Subscription Products and Charges".
+- Copy the `GitLab Namespace Id` and `GitLab Namespace Name` data into these same fields on the New subscription quote.
+- Once ready, ensure the New subscription quote is submitted to Zuora _prior_ to the Cancellation quote.
+
+
+If any issues with this process occur, the customer may [change the linked namespace](https://docs.gitlab.com/ee/subscriptions/gitlab_com/#change-the-linked-namespace) or contact support. For a demo see, [Linking GitLab Subscription to the Namespace](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4770#note_1194437643)
 - Deal Desk will attach a PDF of the consolidated quote to the opportunity
 - Sales team will send the order form to the customer for signature
 - Upload the signed order form to the renewal opp and to the credit opp as well and submit both opps for approval

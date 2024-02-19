@@ -73,9 +73,9 @@ While many of the links below are included in the email, it would be helpful to 
 1. [GitLab Documentation](https://docs.gitlab.com/ee/)
 1. [Administrator Documentation](https://docs.gitlab.com/ee/administration/index.html) (self-managed only)
 1. [Subscription setup and management](https://docs.gitlab.com/ee/subscriptions/index.html)
-1. [Licensing and subscription FAQ](/pricing/licensing-faq/)
+1. [Licensing and subscription FAQ](https://about.gitlab.com/pricing/licensing-faq/)
 1. [Uploading your license](https://docs.gitlab.com/ee/administration/license.html#uploading-your-license) (self-managed only)
-1. Features available by plan: [GitLab SaaS](/pricing/feature-comparison/) & [Self-Managed](/pricing/feature-comparison/)
+1. Features available by plan: [GitLab SaaS](https://about.gitlab.com/pricing/feature-comparison/) & [Self-Managed](https://about.gitlab.com/pricing/feature-comparison/)
 1. [Support portal](https://support.gitlab.com/hc/en-us)
 1. [Statement of Support](/support/statement-of-support/)
 
@@ -88,7 +88,7 @@ While many of the links below are included in the email, it would be helpful to 
 
 ## Important differences between GitLab SaaS and Self-Managed subscriptions
 
-The [Pricing page](/pricing/) includes a "Frequently asked questions for GitLab SaaS" section that answers "What features do not apply to GitLab SaaS?" in detail. Here are some highlights:
+The [Pricing page](https://about.gitlab.com/pricing/) includes a "Frequently asked questions for GitLab SaaS" section that answers "What features do not apply to GitLab SaaS?" in detail. Here are some highlights:
 
 1. Features availability including [SAML](https://docs.gitlab.com/ee/integration/saml.html)/[LDAP](https://docs.gitlab.com/ee/administration/auth/ldap/index.html) is Free vs. [SAML SSO](https://docs.gitlab.com/ee/user/group/saml_sso/) is Premium.
 1. Access controls: customer is admin on GitLab instance vs. group owner on GitLab SaaS

@@ -52,7 +52,7 @@ We will also continue to address Customer Experience through our quality initiat
 ## Performance Indicator
 
 We measure the value we contribute by using Performance Indicators (PI), which we define and use to track progress.
-The current [PI for the Pipeline Execution group](/handbook/product/performance-indicators/#verify-ci-verify-runner-count-of-pipelines-triggered-by-unique-users) is the `number of unique users who trigger ci_pipelines`. For more details, please check out the [Product Team Performance Indicators](/handbook/product/performance-indicators/#regular-performance-indicators). To view the latest Verify stage ci_pipeline data see our [Sisense Dashboard](https://app.periscopedata.com/app/gitlab/538594/Verify-Stage-Dashboard).
+The current [PI for the Pipeline Execution group](/handbook/product/performance-indicators/#verify-ci-verify-runner-count-of-pipelines-triggered-by-unique-users) is the `number of unique users who trigger ci_pipelines`. For more details, please check out the [Product Team Performance Indicators](/handbook/product/performance-indicators/#regular-performance-indicators). To view the latest Verify stage ci_pipeline data see our [Tableau Dashboard](https://10az.online.tableau.com/t/gitlab/views/VerifyPerformanceIndicatorDashboard/VerifyPerformanceIndicatorHub).
 
 ### Usage Funnel
 
@@ -121,7 +121,7 @@ Not included in the Pipeline Execution group's domain:
 
 ## Technical Roadmap
 
-### FY24
+### FY25
 
 These are our high-level engineering driven goals for the year. As with any of our goals, they are ambitious and subject to change.
 
@@ -134,19 +134,12 @@ These are our high-level engineering driven goals for the year. As with any of o
 - Understand what we can do to improve pipeline speed
 - Prototype at least one big swing improvement
 
-##### Pipeline Scheduling Algorithm / Queuing
-
-**Goals:**
-
-- Settle on path forward for what changes we want to make to the algorithm
-- Complete phase 1 implementation based on decisions
-
 ##### Fix Long Standing Pipeline Status Issues
 
 **Goals:**
 
-- Deep dive into existing pipeline status issues and code.
-    - Determine if there are and make systemic changes to address a number of the issues.
+- Deep dive into existing pipeline status issues and code
+    - Determine if there are and make systemic changes to address a number of the issues
 
 #### Scalability
 
@@ -156,28 +149,48 @@ These are our high-level engineering driven goals for the year. As with any of o
 
 - Complete the data partitioning of the 6 largest CI tables - [Blueprint](https://docs.gitlab.com/ee/architecture/blueprints/ci_data_decay/pipeline_partitioning.html)
 
+
+##### Sidekiq
+
+**Goals:**
+
+- Improve performance of our background workers to increase reliability and scalability
+
+##### Support Improved Job Searching Capabilities
+
+**Goals:**
+
+- Improve our ability to support additional search and filtering capabilities for jobs
+
 ##### Reduce Operating costs
 
 **Goals:**
 
+- Contribute to data retention planning
 - Identify potential cost savings from compressing job logs - [Spike](https://gitlab.com/gitlab-org/gitlab/-/issues/390114)
-    - Depending on results, schedule work to implement compression.
+    - Depending on results, schedule work to implement compression
 
 #### Developer Efficiency
+
+##### Technical Debt Reduction
+
+**Goals:**
+
+- Reduce the overall technical debt existing within the codebase
+- Avoid accumulating more long-term debt by scheduling follow-up issues promptly
+
 ##### Frontend Refactoring to Vue
 
 **Goals:**
 
-- Complete the refactoring of the schedules pages to Vue
-- Complete the refactoring of the pipeline triggers pages to Vue
 - Complete the refactoring of the pipeline subscriptions pages to Vue
+- Identify any additional areas that should be refactored [Epic](https://gitlab.com/groups/gitlab-org/-/epics/12836)
 
-##### Support Internal Pipeline Dogfooding
+##### Pipeline Rendering
 
 **Goals:**
 
-- Contribute to [Dogfooding Audit](https://gitlab.com/gitlab-org/quality/engineering-productivity/team/-/issues/206)
-    - Schedule issues that arise as a result of the audit
+- Complete performance improvements for pipeline rendering. This functionality is used frequently by developers and their productivity is impacted by poor performance.
 
 ##### Merge Trains
 
@@ -185,21 +198,6 @@ These are our high-level engineering driven goals for the year. As with any of o
 
 - Get merge trains to a state where they are scalable enough to be used effectively by the GitLab project.
 
-### Projected Timeline
-
-#### Q3 - Theme: Scaling & Performance
-
-- Focus on CI Database Partitioning
-- Merge train improvements
-- Investigate potential cost savings for compressed job logs
-- Refactor frontend to Vue
-
-#### Q4 - Theme: Performance & Efficiency
-
-- Focus on CI Database Partitioning across the team
-- Continue Merge train improvements
-- Refactor frontend to Vue
-- Pipeline status issues
 
 ## Team Members
 
@@ -306,7 +304,21 @@ For those new to the team, these links may be helpful in learning more about the
 
 ## Dashboards
 
-{{% cross-functional-dashboards filters="Pipeline Execution" %}}
+{{< tableau height="600px" toolbar="hidden" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/TopEngineeringMetrics/TopEngineeringMetricsDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="pipeline execution" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/MergeRequestMetrics/OverallMRsbyType_1" >}}
+  {{< tableau/filters "GROUP_LABEL"="pipeline execution" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/Flakytestissues/FlakyTestIssues" >}}
+  {{< tableau/filters "GROUP_NAME"="pipeline execution" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/SlowRSpecTestsIssues/SlowRSpecTestsIssuesDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="pipeline execution" >}}
+{{< /tableau >}}
 
 #### Cross-functional prioritisation
 
@@ -624,9 +636,7 @@ When building features that may have high impact the team uses established [GitL
 
 We also ensure we are collaborating with our teammates in customer support and customer success by [alerting them](https://docs.gitlab.com/ee/development/feature_flags/controls.html#communicate-the-change) to the rollout issue before a feature is enabled.
 
-The feature flags introduced by the team still in the code can be found in this table.
-
-{{< sisense-with-filters dashboard="792066" chart="10522908" team_group="pipeline execution" >}}
+The feature flags introduced by the team still in the code can be found in [this table](https://10az.online.tableau.com/t/gitlab/views/Engineering-Featureflags/Engineering-FeatureFlags/6ecdfc19-ff4b-4a81-b7b6-25948fe8816f/c486cf97-81c5-4d83-9533-bf259ead2885).
 
 You can also search all Feature Flags through Sam's great [tool here](https://samdbeckham.gitlab.io/feature-flags/#%5B%7B%22type%22:%22group%22,%22value%22:%7B%22data%22:%22group::pipeline%C2%A0execution%22,%22operator%22:%22=%22%7D%7D,%7B%22type%22:%22filtered-search-term%22,%22value%22:%7B%22data%22:%22%22%7D%7D%5D) (prefiltered for pipeline exeuction)
 

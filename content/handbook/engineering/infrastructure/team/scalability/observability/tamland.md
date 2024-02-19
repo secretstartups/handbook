@@ -1,7 +1,7 @@
 ---
 aliases: /handbook/engineering/infrastructure/team/scalability/observability/tamland.html
 
-title: "Capacity Planning: Tamland"
+title: "Tamland: Development"
 ---
 
 
@@ -19,9 +19,15 @@ Feature requests, improvements and bug reports can be filed in [Tamland's issue 
 
 Aside from development, we operate Tamland forecasting and reporting components through a number of rather operational projects. Those are geared towards their respective environment's needs:
 
-1. [`gitlab-com`](https://gitlab.com/gitlab-com/gl-infra/capacity-planning-trackers/gitlab-com) - operates forecasting and reporting for GitLab.com capacity planning purposes,
-2. [`gitlab-dedicated`](https://gitlab.com/gitlab-com/gl-infra/capacity-planning-trackers/gitlab-dedicated) - orchestrates reporting needs for GitLab Dedicated tenant environments and their forecasting data,
-3. [`tamland-staging`](https://gitlab.com/gitlab-com/gl-infra/capacity-planning-trackers/tamland-staging) - based on GitLab.com saturation data, this is a staging environment for Tamland itself.
+1. [`gitlab-com`](https://gitlab.com/gitlab-com/gl-infra/capacity-planning-trackers/gitlab-com) - operates forecasting and reporting for GitLab.com capacity planning purposes
+2. [`gitlab-dedicated`](https://gitlab.com/gitlab-com/gl-infra/capacity-planning-trackers/gitlab-dedicated) - orchestrates reporting needs for GitLab Dedicated tenant environments and their forecasting data
+
+For each of those projects, we use an identical fork as a staging environment for said project.
+This comes with an issue tracker and a Pages deployment, just as the regular project and can be used to test changes in advance.
+This is particularly helpful when changing forecasting methodology, as it helps to understand the impact across the board without causing noise.
+
+1. [`tamland-staging`](https://gitlab.com/gitlab-com/gl-infra/capacity-planning-trackers/tamland-staging) - based on GitLab.com saturation data, this is a staging environment for GitLab.com capacity planning
+1. [`gitlab-dedicated-staging`](https://gitlab.com/gitlab-com/gl-infra/capacity-planning-trackers/gitlab-dedicated-staging) - staging environment for GitLab Dedicated capacity planning
 
 Refer to the linked projects' README information for more detail on the configuration details and how components interact.
 

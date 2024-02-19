@@ -4,7 +4,8 @@ description: "Contributor Success Team"
 ---
 
 ## Common Links
-
+|  | |
+|-----|-----|
 | **GitLab Team Handle** | [`@gitlab-org/developer-relations/contributor-success`](https://gitlab.com/gitlab-org/developer-relations/contributor-success) |
 | **Slack Channel** | [`#contributor-success`](https://gitlab.slack.com/archives/C02R0NE6P6C) & [`#contributor-success-confidential`](https://gitlab.slack.com/archives/C04KENT97K7)
 | **Slack Channels from initiatives that we help drive**| [`#leading_organizations`](https://gitlab.slack.com/archives/C03KC7N184D)  |
@@ -14,7 +15,8 @@ description: "Contributor Success Team"
 - - -
 
 ## Sub-pages
-
+|  | |
+|-----|-----|
 | **Workflows** | [Contributor Success Contributor Workflows](/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows) |
 | **Metrics** | [Contributor metrics & dashboards](/handbook/marketing/developer-relations/contributor-success/metrics) |
 | **Contributing Organization Tracking** | [Contributing Organization Tracking](/handbook/marketing/developer-relations/contributor-success/contributing-org-tracker) |
@@ -47,7 +49,7 @@ business intelligence around it. This will allow us to create some predictabilit
 with Engineering and Product Development.
 This accounts for 70 - 80% of the workload. The remaining 20 - 30% is ad-hoc work. The ad-hoc work is eclectic and
 ranges from supporting customers on contributions, supporting various open source initiatives and supporting the
-[Engineering Productivity team](/handbook/engineering/quality/engineering-productivity/).
+[Engineering Productivity team](/handbook/engineering/infrastructure/engineering-productivity/).
 
 #### Unique New Monthly Contributors
 
@@ -74,8 +76,8 @@ ranges from supporting customers on contributions, supporting various open sourc
 #### Open Community MR Age (OCMA)
 
 1. Minimize reliance on human factors that contribute to a large standard deviation
-1. Identify & drive tooling improvements to decrease OCMA, and collaborate with the [Engineering Productivity team](/handbook/engineering/quality/engineering-productivity/)
-through shared tooling for [automated triaging](/handbook/engineering/quality/engineering-productivity/#automated-triage-policies)
+1. Identify & drive tooling improvements to decrease OCMA, and collaborate with the [Engineering Productivity team](/handbook/engineering/infrastructure/engineering-productivity/)
+through shared tooling for [automated triaging](/handbook/engineering/infrastructure/engineering-productivity/#automated-triage-policies)
 
 #### Leading Organizations
 
@@ -101,7 +103,7 @@ to the program.
 - Nominate impactful community contributors and contributions for recognition.
 - Select and recognize a [GitLab MVP](/handbook/marketing/developer-relations/contributor-success/mvp-process) for each release post
 - Collaborate closely with our [Marketing counterparts](/handbook/marketing/developer-relations/) and [Core team](/community/core-team/).
-- Engineering representative that can ride along with the [Developer evangelist](/job-families/marketing/developer-evangelist/).
+- Engineering representative that can ride along with the [Developer Advocate](/job-families/marketing/developer-evangelist/).
 - Improve community recognition system and awards in collaboration with the [Developer Relations team](/handbook/marketing/developer-relations/).
 - Participate in GitLab's overall Engineering open source outreach events and processes.
 - [Triage community issues](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/) to be picked up by the community or GitLab team members
@@ -188,7 +190,7 @@ We have the following Performance Indicators
 #### [Unique Wider Community Contributors per Month](/handbook/marketing/developer-relations/performance-indicators/#unique-wider-community-contributors-per-month)
 
 - Activities:
-  - Partnership with Developer Relations and Technical Marketing team.
+  - Partnership with Developer Relations team.
   - Hold community office hours.
   - Hold hackathons.
   - Allow running of QA tests from forks.

@@ -1,11 +1,11 @@
 ---
-title: "GitLab with Git Essentials - Hands-On Lab 3"
+title: "GitLab with Git Essentials - Hands-On Lab: Use GitLab To Merge Code"
 description: "This Hands-On Guide walks you through the lab exercises used in the GitLab with Git Essentials course."
 ---
 
-# Lab 3: Use GitLab To Merge Code
-
 > Estimated time to complete: 40 minutes
+
+> **We are transitioning to the latest version of this course.**  If your group URL starts with `https://spt.gitlabtraining.cloud`, please use the [Version 15.x instructions](https://gitlab.com/gitlab-com/content-sites/handbook/-/blob/d14ee71aeac2054c72ce96e8b35ba2511f86a7ca/content/handbook/customer-success/professional-services-engineering/education-services/gitbasicshandsonlab3.md).
 
 ## Objectives
 

@@ -37,7 +37,21 @@ You can follow along with the team's accomplishments by reading the [latest week
 
 ## Dashboards
 
-{{% cross-functional-dashboards filters="Respond" %}}
+{{< tableau height="600px" toolbar="hidden" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/TopEngineeringMetrics/TopEngineeringMetricsDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="respond" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/MergeRequestMetrics/OverallMRsbyType_1" >}}
+  {{< tableau/filters "GROUP_LABEL"="respond" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/Flakytestissues/FlakyTestIssues" >}}
+  {{< tableau/filters "GROUP_NAME"="respond" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/SlowRSpecTestsIssues/SlowRSpecTestsIssuesDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="respond" >}}
+{{< /tableau >}}
 
 ## Working Agreements
 
@@ -214,7 +228,7 @@ Why we choose this approach:
 Downsides to this approach:
 1. Accuracy may still be a problem, depending on how well we break down our milestone goals.
    1. Mitigation: accept that perfect accuracy is not a goal, and rely on the feedback cycle to improve our goal setting skills.
-1. Query-based dashboards such as [this one](https://app.periscopedata.com/app/gitlab/658030/Say-Do-Ratios) will not pick up our Say Do ratio.
+1. Query-based dashboards will not pick up our Say Do ratio.
    1. Mitigation: reporting of Say Do ratio in the Ops sub-department is moving to the monthly PI review instead of relying on a dashboard.
 
 ## Repos we own or use

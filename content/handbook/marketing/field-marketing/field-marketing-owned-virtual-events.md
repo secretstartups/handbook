@@ -873,6 +873,8 @@ Note: Cloning a track will pull over all settings from that initial track. All w
 ### During Event 
 **DRI: FMM**
 
+Note: The FMM/DRIs are not to pause the workshop/webcast presentation. Pausing the workshop/webcast will negatively impact the final recording and follow-up email SLA. 
+
 FMM DRIs during the event are not only responsible for day of event coordination (virtually) but are also designated time keepers and hosts of the event.  
 
 For more information about hosting a virtual hands-on workshop, please watch [**this training video**](https://www.youtube.com/watch?v=f7L04-tQpJo&feature=youtu.be).

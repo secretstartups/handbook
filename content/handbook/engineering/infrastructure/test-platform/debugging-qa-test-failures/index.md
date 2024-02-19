@@ -394,38 +394,7 @@ WEBDRIVER_HEADLESS=false bundle exec bin/qa Test::Instance::All http://localhost
 You can also use the same Docker image as the one used in the failing job to run GitLab in a container on your local.
 In the logs of the failing job, search for `gitlab-ee` or `gitlab-ce` and use its tag to start the container locally.
 
-To run [GitLab in a container](https://docs.gitlab.com/ee/install/docker.html#install-gitlab-using-docker-engine) on your local, follow the steps below that correspond to your host machine and setup:
-
-**MacOS with Rancher Desktop**
-
-First, make sure to [disable Traefik on Rancher Desktop](https://docs.rancherdesktop.io/faq/#q-can-i-disable-traefik-and-will-doing-so-remove-traefik-resources) to open ports 80 and 443 on your host machine.
-
-Rancher Desktop also uses port 22 to allow SSH communication with the VM. Therefore, you will need to forward a different port on your host machine to port 22 in the container,
-and configure `gitlab_shell_ssh_port` to use this new port.
-
-```shell
-docker run \
-  --hostname localhost \
-  --publish 443:443 --publish 80:80 --publish 2222:22 \
-  --name gitlab \
-  --env GITLAB_OMNIBUS_CONFIG='gitlab_rails["initial_root_password"] = "CHOSEN_PASSWORD"; gitlab_rails["gitlab_shell_ssh_port"] = 2222' \
-  --shm-size 256m \
-  registry.gitlab.com/gitlab-org/build/omnibus-gitlab-mirror/gitlab-ee:<tag>
-```
-
-**Machines Running Docker Natively (Linux)**
-
-If you are not running Docker within a VM such as Rancher Desktop, you can use the following command:
-
-```shell
-docker run \
-  --hostname localhost \
-  --publish 443:443 --publish 80:80 --publish 22:22 \
-  --name gitlab \
-  --env GITLAB_OMNIBUS_CONFIG='gitlab_rails["initial_root_password"] = "CHOSEN_PASSWORD"' \
-  --shm-size 256m \
-  registry.gitlab.com/gitlab-org/build/omnibus-gitlab-mirror/gitlab-ee:<tag>
-```
+Once you have the image tag, [spin up GitLab instance locally](https://gitlab.com/gitlab-org/quality/runbooks/-/blob/main/running_gitlab_locally/index.md)
 
 **Special Considerations**
 
@@ -494,6 +463,23 @@ If you suspect that certain test is failing due to the `gitlab/gitlab-{ce|ee}-qa
     - Search the commits from Step 2 by the branch name.
         - If the commit is found, the MR is in this version. For [example](https://gitlab.com/gitlab-org/gitlab/-/commits/v13.10.0-rc20210223090520-ee?utf8=%E2%9C%93&search=add-share-with-group-to-modal).
         - If no results, the MR is not in this version. For [example](https://gitlab.com/gitlab-org/gitlab/-/commits/v13.10.0-rc20210223090520-ee?utf8=%E2%9C%93&search=qa-shl-add-requries-admin).
+
+#### Investigating orchestrated test failure
+
+##### Verify the reconfigure logs for the GitLab container in the pipeline artefacts.
+
+Each orchestrated job has a log file attached as artifacts called
+- `<container_name>-reconfigure-logs.txt` - if the container runs successfully on 1st attempt, or
+- `<container_name>-retry-<retry_attempt>-reconfigure-logs.txt` - if the test has tried multiple times to spin up the GitLab container due to failure.
+
+If you see any errors in this log file, the issue would be related to `gitlab-ctl reconfigure` command.
+Get in touch with the distribution team on `#g_distribution` channel.
+
+##### Investigating update-major or update-minor tests locally and common failures
+
+Failures in `update-major` or `update-minor` might indicate that GitLab upgrade fails. Such failures could be caused by migration issues or other changes. To ensure customers won't face such issue during upgrade,  investigate the error as priority, especially near the release date.
+
+Follow the document  [Investigating update-major or update-minor tests locally and common failures](https://gitlab.com/gitlab-org/quality/runbooks/-/blob/main/debug_orchestrated_test_locally/running_update-major_and_update-minor_locally.md).
 
 ### Identifying commit that introduced a failure
 

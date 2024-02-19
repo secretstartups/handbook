@@ -27,5 +27,5 @@ Everyone at GitLab uses our GitLab tool in their daily work. This page details i
 - [Markdown Guide](https://handbook.gitlab.com/docs/markdown-guide/)
 - [Edit this website locally](/handbook/editing-handbook/)
 - [Start using git on the command line](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html)
-- [Practical Handbook Edits](/handbook/practical-handbook-edits/)
+- [Practical Handbook Edits](/handbook/editing-handbook/practical-handbook-edits/)
 - [How to solve a broken pipeline](/handbook/editing-handbook/#how-to-solve-a-broken-pipeline-in-a-merge-request)

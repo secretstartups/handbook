@@ -37,7 +37,7 @@ flowchart LR
   style scaleCommunity color:#6b4fbb, stroke:#9370DB
   click improveVelocity "./#improve-contribution-velocity" _self
   click increaseValue "./#increase-contribution-value" _self
-  click fosterDiversity "./#foster-diversity-equity-inclusion" _self
+  click fosterDiversity "./#foster-diversity-equity-and-inclusion" _self
   click expandOutreach "./#expand-outreach" _self
   click scaleCommunity "./#scale-the-community" _self
  ```
@@ -66,7 +66,7 @@ Provide an outstanding and efficient contributor experience, from onboarding mat
 
 #### Product groups focus
 
-* **Why:** Contribution submissions, backlog, and technology stack vary amongst all [product groups](/handbook/company/team/structure/#product-groups). Providing a healthy community backlog alignment & establishing a common best practice outreach for all product groups.
+* **Why:** Contribution submissions, backlog, and technology stack vary amongst all [product groups](/handbook/company/structure/#product-groups). Providing a healthy community backlog alignment & establishing a common best practice outreach for all product groups.
 * **Epic:** <https://gitlab.com/groups/gitlab-org/-/epics/9074>
 * **DRI:** [Product Operations](/handbook/product/product-operations/), [Developer Relations team](/handbook/marketing/developer-relations/) & [Contributor Success team](/handbook/marketing/developer-relations/contributor-success/)
 

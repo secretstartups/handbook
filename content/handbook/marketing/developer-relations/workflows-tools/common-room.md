@@ -78,8 +78,7 @@ which runs via a scheduled pipeline to injest data.
 * Prompt discussions or strategies around low activity or engagement.
 
 ### Identifying and Monitoring Keyword Trends for Thought Leadership
-**DRI**: [Developer Evangelism](/handbook/marketing/developer-relations/developer-evangelism/) and [Technical Marketing](/handbook/marketing/developer-relations/technical-marketing/)
-
+**DRI**: [Developer Advocacy](/handbook/marketing/developer-relations/developer-evangelism/) 
 **Description**:
 * Track trending keywords and conversations via team alerts. 
 * Evaluate the relevance of these keywords to our community and goals.
@@ -136,7 +135,7 @@ which runs via a scheduled pipeline to injest data.
 
 ## Requesting information from Common Room 
 
-For requests to extract information from Common Room, you can open [a confidential issue in the Developer Evangelism Meta project](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/de-tmm-meta/-/issues) with the details of your request and assign it to `@sugaroverflow`. The DevRel team can then execute the query and export the report as a PDF to the issue.
+For requests to extract information from Common Room, you can open [a confidential issue in the Developer Advocacy Meta project](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/de-tmm-meta/-/issues) with the details of your request and assign it to `@sugaroverflow`. The DevRel team can then execute the query and export the report as a PDF to the issue.
 
 Requests can be for the export of information or for setting up [a team alert](https://docs.commonroom.io/using-common-room/team-alerts-page) to Slack. You can learn more about the types of reporting in [Common Room's documentation](https://docs.commonroom.io/using-common-room/reporting-page). 
 

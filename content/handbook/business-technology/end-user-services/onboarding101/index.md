@@ -42,7 +42,7 @@ Tip: After setup, if you don’t see the Wi-Fi status icon in the menu bar, you 
 
 - **Enable Siri and “Hey Siri”**: You can turn on Siri and “Hey Siri” (so you can speak your Siri requests) during setup. To enable “Hey Siri,” speak several Siri commands when prompted. To learn how to turn on Siri and “Hey Siri” later and for information about using Siri on your Mac, see Siri on your Mac.
 
-- **Store files in iCloud**: With iCloud, you can store all of your content—documents, movies, music, photos, and more—in the cloud, and access it anywhere you go. Be sure to sign in with the same Apple ID on all your devices. To set this option later, open System Preferences and sign in with your Apple ID if you haven’t already. Click Apple ID, click iCloud in the sidebar, then select the features you want to use. To find out more, see Access your iCloud content on your Mac.
+- **Store files in iCloud**: iCloud has the ability to store desktop and documents in iCloud. As our Cloud Storage option is Google Drive, please make sure this feature is disabled. Anything of importance for work should be stored in Google Drive, a GitLab Issue, or the Handbook based on the type and [data classification](https://handbook.gitlab.com/handbook/security/data-classification-standard/) of the information. 
 
 - **Choose an appearance**: Select Light, Dark, or Auto for your desktop appearance. If you want to change the choice you make during setup, open System Preferences, click General, then select an appearance option. You can also set other preferences here.
 

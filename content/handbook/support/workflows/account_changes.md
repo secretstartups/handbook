@@ -99,9 +99,9 @@ Enterprise users [cannot modify their primary email address to an email with a n
 
 Until [the issue 412966](https://gitlab.com/gitlab-org/gitlab/-/issues/412966) is implemented, top level group owners are not able to change their enterprise users primary email address. They can request support to change the primary email of one or more enterprise user(s).
 
-1. Check the [Account Verification Matrix for eligibility](/content/handbook/support/workflows/account_verification.md#account-verification-matrix).
+1. Check the [Account Verification Matrix for eligibility](/handbook/support/workflows/account_verification#account-verification-matrix).
 1. Ask manager approval to proceed
-1. Use the [Account Ownership Verification workflow](/content/handbook/support/workflows/account_verification.md) to verify ownership.
+1. Use the [Account Ownership Verification workflow](/handbook/support/workflows/account_verification) to verify ownership.
 1. If successful:
 
 > Greetings,
@@ -128,7 +128,7 @@ Enterprise users have user accounts that are administered by an organization tha
 >
 > If you still wish to update your primary email, address please note it will require involvement of a top level group owners. Please let us know if you wish to proceed.
 
-1. If they answer that they wish to procceed, use the [Account Ownership Verification workflow](/content/handbook/support/workflows/account_verification.md) to verify ownership.
+1. If they answer that they wish to procceed, use the [Account Ownership Verification workflow](/handbook/support/workflows/account_verification) to verify ownership.
 
 1. Ask manager approval to proceed if the primary email is the only verified email (skip this step if it's an email swap request).
 
@@ -181,7 +181,7 @@ Account Ownership Change Requests are initiated when the sole Owner of a group l
 
 **If no self-service options are viable, follow the steps below:**
 
-1. Use the `Support::SaaS::Account Ownership Change Request (Self-Service Not Possible)` [macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360073396100), adding the account owner or account manager in CC if possible.
+1. Use the `Support::SaaS::Gitlab.com::Account Ownership Change Request (Self-Service Not Possible)` [macro](https://gitlab.com/gitlab-com/support/zendesk-global/macros/-/blob/master/active/Support/SaaS/GitLab.com/Account%20Ownership%20Change%20Request%20(Self-Service%20Not%20Possible).md?ref_type=heads), adding the account owner or account manager in CC if possible.
 1. Once you have received the requested document, verify that all of the necessary information is included. If not, follow up with the requestor to obtain any outstanding information. Once the required information has been obtained, carefully follow the next steps.
 1. Assess the request to verify if the following criteria have been met:
    1. Self-service options have been suggested and aren’t viable.

@@ -88,6 +88,7 @@ Preparation time should be minimal, as you'll present the work you've done thus 
 - Introduce yourself and provide [context](#preparation) for your presentation.
 - [Make the participant experience an enjoyable one](/handbook/tools-and-tips/zoom/#make-the-participant-experience-an-enjoyable-one): avoid moving around too fast (for example, when showing a Figma prototype), or back and forth between views because you forgot to say one thing at the previous one.
 - [When sharing your screen](/handbook/tools-and-tips/zoom/#how-to-share-a-presentation-in-zoom), consider going fullscreen so that the audience can see the details of your presentation.
+    - Useful Figma keyboard shortcuts on Mac: Show/hide UI `⌘ + \` and Show/hide sidebars `⌘ + .`
 - Make sure the minimum font size of text in your presentation is large enough so that it can easily be read by everyone.
 - [Provide links](/handbook/tools-and-tips/zoom/#provide-links-rather-than-sharing-while-you-present-or-edit) in the agenda doc that are relevant to your story, such as, issues, epics, Figma files, Figjam boards, and recordings.
 - When sharing directly from Figma files and issues, consider preparing an outline of the things you want to cover beforehand, filling in a few details of points you want to mention. Use this as a guide while you present your showcase to make it more linear & easy to follow for the audience.

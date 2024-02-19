@@ -1,6 +1,8 @@
 ---
 title: "Product Marketing Manager"
 summary: Help tell the story about the value of how GitLab helps to unlock the potential of sharing and contribution.
+aliases:
+- /job-families/marketing/product-marketing-manager-public-sector/
 ---
 Product Marketing Managers at GitLab have a unique opportunity to contribute to our [mission](/handbook/company/mission/#mission):
 
@@ -115,6 +117,35 @@ The Principal Product Marketing Manager is a [grade 9](/handbook/total-rewards/c
 - Has experience aligned with the additional responsibilities of a Principal Product Marketing Manager
 
 ## Specializations
+
+### Public Sector
+
+## Job Grade
+
+- The Product Marketing Manager, Public Sector is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+- The Senior Product Marketing Manager, Public Sector is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+## Responsibilities
+
+The Product Marketing Manager, Public Sector has the same responsibilities as other [Product Marketing Managers](/job-families/marketing/product-marketing-manager/), but specializes in the public sector in the United States and has a separate compensation benchmark for the federal responsibilities.
+
+## Requirements
+
+The Product Marketing Manager, Public Sector has the same requirements as other [Product Marketing Managers](/job-families/marketing/product-marketing-manager/), as well as additional public sector requirements.
+
+### Regulated Industries Specialist (Public Sector)
+
+As a Senior Product Marketing Manager, Public Sector, you will work bring your knowledge and experience of marketing to the federal government to help shape our go to market strategy, messaging and execution.  You will partner closely with our marketing, engineering, business development, sales team and partners to help them address the unique requirements of this market.
+
+#### Requirements
+
+- At least 5 years of product marketing experience marketing and selling public sector.
+- Deep understanding of Agile and DevOps methodologies across the entire Software Development Lifecycle, especially the processes and controls typically found in large regulated industries such as public sector and financial services.
+- Experience marketing and selling to the US Federal Govt, DOD and civilian agencies.
+- Experience around GSA, Federal procurement and the various buying vehicles to enable growth in software sales via our distribution partners.
+- A security clearance is a plus.
+- Ability to use GitLab
+
 
 ### Security
 

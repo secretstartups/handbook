@@ -1,11 +1,8 @@
 ---
 title: "Controlled Document Procedure"
 description: "GitLab deploys control activities through policies and standards that establish what is expected and procedures that put policies and standards into action."
+controlled_document: true
 ---
-
-{{% alert title="This is a Controlled Document" color="danger" %}}
-Inline with GitLab's regulatory obligations, changes to [controlled documents]({{< ref "controlled-document-procedure" >}}) must be approved or merged by a code owner. All contributions are welcome and encouraged.
-{{% /alert %}}
 
 ## Purpose
 
@@ -63,6 +60,10 @@ Creation of, or changes to, controlled documents must be approved by management 
 
 Most controlled documents will be published to our public facing [handbook]({{< ref "/" >}}). However, if there is [non public data]({{< ref "data-classification-standard" >}}) included in the controlled document, it should be published via an *internal facing only* mechanism (e.g. an internal GitLab project or an internal only handbook page). Controlled documents should be accessible to all internal team members.
 
+#### Handbook header
+
+Controlled documents require a [handbook frontmatter attribute for controlled documents](/handbook/editing-handbook/frontmatter/) to classify them. This attribute also renders a warning header.
+
 ### Review
 
 Controlled documents are required to be reviewed and approved on at least an annual basis. Controlled documents may be updated ad-hoc as required by business operations. Changes must be approved by a code owner of the controlled document prior to merge.
@@ -82,7 +83,7 @@ Reviewers of controlled documents are required to
 | Access Level Wristband Colors | Establishes access level categories for managing access to systems at GitLab | [https://about.gitlab.com/handbook/it/policies/access-level-wristbands/](/handbook/it/policies/access-level-wristbands/) | IT Management |
 | Access Management Policy | Specifies Centralized access management ensuring that the authorized GitLab team-members have access to the correct data and systems at the correct level. | [https://about.gitlab.com/handbook/security/access-management-policy/](/handbook/security/access-management-policy/)| Security Assurance Management |
 | Access Review Procedure | Defines the importance of the User access review process as an important control activity required for internal and external IT audits, helping to minimize threats, and provide assurance of who has access to what. | [https://about.gitlab.com/handbook/security/security-assurance/security-compliance/access-reviews/](/handbook/security/security-assurance/security-compliance/access-reviews/)| Security Compliance Team |
-| Application Vulnerability Management Procedure | Designed to provide insight into our environments, promote healthy patch management among other preventative best-practices, and remediate risk; all with the end goal to better secure our environments and our product. | [https://about.gitlab.com/handbook/security/security-engineering/application-security/vulnerability-management](/handbook/security/security-engineering/application-security/vulnerability-management/) | Security Management |
+| Application Vulnerability Management Procedure | Designed to provide insight into our environments, promote healthy patch management among other preventative best-practices, and remediate risk; all with the end goal to better secure our environments and our product. | [https://about.gitlab.com/handbook/security/product-security/application-security/vulnerability-management](/handbook/security/product-security/application-security/vulnerability-management/) | Security Management |
 | Audit Logging Policy | Ensures the proper operation and security of critical information system activity. | [https://about.gitlab.com/handbook/security/audit-logging-policy/](/handbook/security/audit-logging-policy/) | Security Assurance Management |
 | Backup Procedure | Documents that our production databases are taken every 24 hours with continuous incremental data (at 60 sec intervals). | [https://about.gitlab.com/handbook/engineering/infrastructure/production/#backups](/handbook/engineering/infrastructure/production/#backups) | Infrastructure Management Team |
 | Backup Recovery Testing Procedure | Documentation implementing a backup testing pipeline to detect whether or not the backup is actually restorable and in good shape. | [https://gitlab.com/gitlab-com/gl-infra/gitlab-restore/postgres-gprd/blob/master/README.md](https://gitlab.com/gitlab-com/gl-infra/gitlab-restore/postgres-gprd/blob/master/README.md) | Infrastructure Management Team |
@@ -100,7 +101,7 @@ Reviewers of controlled documents are required to
 | Database Disaster Recovery Procedure | Documents our disaster recovery for databases. | [https://about.gitlab.com/handbook/engineering/infrastructure/database/disaster_recovery/](/handbook/engineering/infrastructure/database/disaster_recovery/) | Infrastructure Management Team |
 | Disaster Recovery Procedure| Documents our disaster recovery. | [https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/library/disaster-recovery/index.md](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/library/disaster-recovery/index.md) | Infrastructure Management Team |
 | Encryption Policy | Documents the encryption process in which data is securely encoded at rest and in transit to remain hidden from or inaccessible to unauthorized users to better protect private, proprietary and sensitive data and enhance the security of communication between client applications and servers. | [https://about.gitlab.com/handbook/security/threat-management/vulnerability-management/encryption-policy/](/handbook/security/threat-management/vulnerability-management/encryption-policy/) | Security Threat Management |
-| EndPoint Management Procedure | GitLab utilizes centralized laptop management for company-issued laptops. | [https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/](/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/) | Business Technology Management |
+| EndPoint Management Procedure | GitLab utilizes centralized laptop management for company-issued laptops. | [https://handbook.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/](/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/) | Business Technology Management |
 | Expense Policy | Establishes the requirements for submitting expenses at GitLab. | [https://about.gitlab.com/handbook/finance/expenses/](/handbook/finance/expenses/) | Finance Management |
 | FedRAMP Vulnerability Deviation Request Procedure | Establishes a process for managing vulnerabilities that cannot be remediated within SLAs. | [https://about.gitlab.com/handbook/security/security-assurance/dedicated-compliance/POAM-Deviation-Request-Procedure/](/handbook/security/security-assurance/dedicated-compliance/POAM-Deviation-Request-Procedure/) | Security Assurance Management |
 | GCF Security Control Procedure | GCF Security Controls identified that need to be implemented by the security compliance team and dedicated team for compliance or regulatory reasons, these controls follow an established process in order to make that implementation successful. | [https://handbook.gitlab.com/handbook/security/security-assurance/security-compliance/security-control-lifecycle/](/handbook/security/security-assurance/security-compliance/security-control-lifecycle) | Security Compliance Management |

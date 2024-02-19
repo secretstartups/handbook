@@ -159,7 +159,35 @@ With the combination of our capacity planning (EM) and estimation (IC) processes
 
 We have [cross-functional prioritization](/handbook/product/product-processes/#cross-functional-prioritization) aligned with our prioritization framework. The engineering manager will prioritize `type::maintenance` issues, the product manager will prioritize `type::feature` issues, and the software engineer in test will prioritize `type::bug` issues. From there, we are able to select a ratio of the top issues to be planned for the release by using our [cross-functional issue board](https://gitlab.com/groups/gitlab-org/-/boards/4453752?label_name[]=group%3A%3Aauthentication). **Starting 16.5, our target ratio is to plan 60% features, 20% bugs, and 20% maintenance per release**. Security issues do not count towards these ratios, but instead take away from the total capacity. The data below helps us understand our overall cross-functional status.
 
-{{< cross-functional-dashboards filters="authentication" >}}
+{{< tableau height="600px" toolbar="hidden" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/TopEngineeringMetrics/TopEngineeringMetricsDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="authentication" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/MergeRequestMetrics/OverallMRsbyType_1" >}}
+  {{< tableau/filters "GROUP_LABEL"="authentication" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/Flakytestissues/FlakyTestIssues" >}}
+  {{< tableau/filters "GROUP_NAME"="authentication" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/SlowRSpecTestsIssues/SlowRSpecTestsIssuesDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="authentication" >}}
+{{< /tableau >}}
+
+### Roadmap planning and t-shirt sizing
+
+At the start of the fiscal year, product and engineering counterparts collaborate over areas we want to focus on. This allows us to prepare issues that will be added to priorities.yml ahead of each milestone, gauge whether we are overcommitting to the year, and transparently share what the delivery goals are for the upcoming year. As part of this exercise, engineering also performs a high level t-shirt sizing to assist with planning. It's important to highlight that the sizing is high level estimation, based on expected complexity and not the actual length of time taken to complete the work similar to how milestone estimation is done. An example of the scales used would be:
+
+Average story points completed per milestone: 48w. This includes bugs, features, maintenance, and any security vulnerability work.
+
+T-shirt sizing scale:
+- Small → < 5w
+- Medium → < 8w
+- Large → < 16 w
+- X-large → 32 w
+
+The roadmap items are then marked with the `Small`, `Medium` labels and a priority to ensure, higher priority work is scheduled and appropriately resourced.
 
 #### Monthly cross-functional dashboard review
 
@@ -196,9 +224,6 @@ The following people are permanent members of the group:
 
 ### Dashboards
 
-- [SAML SSO Usage](https://app.periscopedata.com/app/gitlab/636494/Dev:-Govern:-Access-SAML-SSO-Usage)
-- [Backend overview](https://app.periscopedata.com/app/gitlab/695525/Govern::Access-Backend-Overview)
-- [Usage ping (includes OAuth usage)](https://app.periscopedata.com/app/gitlab/857665/Govern:Access---Usage-Ping)
 - [Error Budget](https://dashboards.gitlab.net/d/stage-groups-detail-authentication_and_a/stage-groups-authentication-group-error-budget-detail?orgId=1&from=now-2d&to=now)
 
 ### Links and resources {#links}

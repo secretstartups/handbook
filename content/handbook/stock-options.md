@@ -52,6 +52,8 @@ Taxation of Ordinary Income - RSU - More Detail
 
 (You should always consult with your own tax advisor concerning how holding periods, capital gains and losses, and your personal circumstances may affect your taxes, and before taking any action that may have tax consequences.  Your actual taxes paid will vary depending on your personal circumstances. )
 
+Please note that all tax withholding is based on tax rates provided by Baker McKenzie - You can find our current Tax Matrix [here](https://drive.google.com/file/d/13deasDMvCiXcInQOFvORM6cKNazim7pz/view?usp=drive_link)
+
 ## Employee Stock Purchase Plan (“ESPP”)
 
 ### What is an ESPP?
@@ -165,14 +167,19 @@ Per our [SAFE framework](/handbook/legal/safe-framework/), we do not add specifi
 
 While the company has the right to repurchase the unvested shares upon your termination of services, the company is not obligated to do so. Accordingly you could lose some or all of the investment you made. Because we are a young company there are lots of risks, so be aware and informed of the risks.
 
-You may exercise and hold your options even outside of an Open Window. To do so, email stockadmin@gitlab.com and they will enable you to do so in your E-TRADE account. Team members will have 5 trading days to execute their exercise. Please seek advice from your financial advisor or tax advisor prior processing your exercise.
+You may exercise and hold your options even outside of an open trading window. If you are a Designated Insider, please email stockadmin@gitlab.com and they will enable you to do so in your E-TRADE account. Team members will have 5 trading days to execute their exercise. Please seek advice from your financial advisor or tax advisor prior processing your exercise.
 
-## E-TRADE: Exercising your Shares in an Open Window
+## E-TRADE: Exercising your Shares in an Open Trading Window
 
 For trading in an open trading window, please find the following instructions for specifics on exercise and trading options.
 
 - [GitLab Stock Plan Non-US](https://drive.google.com/file/d/1pBZsudczsgSv_xxPEJlMc1wA0TumDm97/view)
 - [GitLab Stock Plan RSUs & Stock Options](https://drive.google.com/file/d/16Hby-UdCKA-BJDHvZQ9bpbU5cEQlzeUE/view)
+
+## Purchasing GTLB Stock
+
+If you would like to purchase GTLB shares, this must be done through your E*TRADE retail account during an open trading window. We would ask that you send us a message at stockadmin@gitlab.com as we will need to get consent from you to track your GTLB retail shares.
+
 
 ## Questions about your stock plan or retail account:
 

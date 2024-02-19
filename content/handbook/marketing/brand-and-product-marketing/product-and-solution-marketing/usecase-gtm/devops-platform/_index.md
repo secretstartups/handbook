@@ -17,7 +17,7 @@ The page below is intended to align GitLab's sales and marketing efforts with a 
 
 #### Who to contact
 
-| Product Marketing | Technical Marketing |
+| Product Marketing | Developer Advocate |
 | ---- | --- |
 | Saumya Upadhyaya (@supadhyaya) | [William Galindez Arias](https://gitlab.com/warias) |
 
@@ -145,7 +145,7 @@ One common set of pain points solved by the DevOps Platform involves the ineffic
 
 The greater cost of operational inefficiencies is business agility.
 
-- Visibility and metrics: If an organization cannot understand an optimize the flow of work through the Software Delivery Lifecycle, it lacks sufficient data to inform business decisions involving the creation and delivery of software products. The SDLC becomes a black box and a fulfillment blocker, rather than an agent of transformation and an input to planning for business success.  
+- Visibility and metrics: If an organization cannot understand an optimize the flow of work through the Software Delivery Lifecycle, it lacks sufficient data to inform business decisions involving the creation and delivery of software products. The SDLC becomes a black box and a fulfillment blocker, rather than an agent of transformation and an input to planning for business success.
 - Poor responsiveness: When a business must turn on a time to capitalize on an opportunity or respond top a competitive threat, a cumbersome toolchain or lack of automation can bog down implementation of that pivot to the point where it arrives too late.
 
 ## Key differentiators
@@ -175,7 +175,7 @@ The DevOps Platform is more than a collection of features and capabilties—it p
 
 ### Premium
 
-Generally, the more of the GitLab application in use, the greater the value of the Platform story, because there are more people in more roles contributing and accessing more data in one place. In addition to the benefits listed on the [Why Premium page](/pricing/premium/), there are a number of standout benefits in Premium vs. Free.
+Generally, the more of the GitLab application in use, the greater the value of the Platform story, because there are more people in more roles contributing and accessing more data in one place. In addition to the benefits listed on the [Why Premium page](https://about.gitlab.com/pricing/premium/), there are a number of standout benefits in Premium vs. Free.
 
 - **Substantially greater visibility** Advanced Search, Roadmaps, Contribution Analytics, burnup and burndown charts, and other visualizations make it far easier to achieve end-to-end visibility for a variety of needs.
 - **Broader persona support** Features such as Epics, scoped labels, issue weights, and multiple issue assignees make Premium much more attractive as an enterprise-ready planning system, which, in turn, activates new personas such as Product Owners and Program Managers. Likewise, Auditor users and Audit Events extend the system to auditors.
@@ -224,7 +224,7 @@ GitLab believes this indicates that the market for a DevOps platform delivered a
 
 Amongst the many competitors in the DevOps space, few provide the scope to call themselves a platform, and none have been architected fromt he ground up as a single application.
 
-When viewed through the lens of "the most comprehensive suite of end-to-end functionality provided in a single solution," the nearest competitor is Microsoft's [Azure DevOps]. Microsoft continues to build toward the same vision with [GitHub](/competition/github/), as well.
+When viewed through the lens of "the most comprehensive suite of end-to-end functionality provided in a single solution," the nearest competitor is Microsoft's [Azure DevOps]. Microsoft continues to build toward the same vision with [GitHub](https://about.gitlab.com/competition/github/), as well.
 
 ### Industry Analyst Relations (IAR) plan
 

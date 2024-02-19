@@ -11,7 +11,7 @@ See also [opstrace#1949](https://gitlab.com/gitlab-org/opstrace/opstrace/-/issue
 
 ## Responding
 
-A standard response is available as a macro: [`Support::SaaS::Temp IP Ban`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360045599533))
+A standard response is available as a macro: [`Support::SaaS::Gitlab.com::Temp IP Ban`](https://gitlab.com/gitlab-com/support/zendesk-global/macros/-/blob/master/active/Support/SaaS/GitLab.com/Temp%20IP%20Ban.md?ref_type=heads)
 
 Please also see [the log requests workflow](/handbook/support/workflows/log_requests) for what information we can provide when responding.
 
@@ -52,7 +52,7 @@ The following fields are the best to add to your search query in order to get th
 - `json.status` - Outputs the HTTP status code that was returned for the request. We're usually looking for `401` (Unauthorized) and/or `403` (Forbidden).
 - `json.path` - The path on GitLab.com that was accessed by the request or the API endpoint that was hit.
 - `json.method` - Can be either `GET`, `POST`, `PUT`, `PATCH`, or `DELETE`. The first three are the most common.
-- `json.env` - Can be `blocklist`, `throttle` or `track`. `track` is used for diagnostics when changing rate limiting settings and does not affect users: from a support perspective, ignore `track`. `blocked` happens in reaction to too many failed authentication attempts, for example with automated Git HTTP traffic. `throttle` means a user or IP is making too many requests per minute.
+- `json.env` - Can be `blocklist`, `throttle` or `track`. `track` is used for diagnostics when changing rate limiting settings and does not affect users: from a support perspective, ignore `track`. `blocklist` happens in reaction to too many failed authentication attempts, for example with automated Git HTTP traffic. `throttle` means a user or IP is making too many requests per minute.
 
 #### Secondary
 

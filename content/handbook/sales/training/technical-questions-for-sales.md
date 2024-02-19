@@ -71,7 +71,7 @@ To improve sales efficiency and reduce the dependence of GitLab sales team membe
   <iframe src="https://www.youtube.com/embed/x1_b2iqKOfI" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-- **Learn more**: Administrators have more powerful user management capabilities. Check out [all the differences between GitLab.com and self-managed](/features/).
+- **Learn more**: Administrators have more powerful user management capabilities. Check out [all the differences between GitLab.com and self-managed](https://about.gitlab.com/features/).
 
 ### Manage Quiz
 
@@ -214,7 +214,6 @@ To improve sales efficiency and reduce the dependence of GitLab sales team membe
 
 - **Short answer**: Coming soon
 - **Context video**: Coming soon
-- **Learn more**: Check out the [JFrog Artifactory vs. GitLab comparison](/competition/jfrog/)
 
 
 ### Secure
