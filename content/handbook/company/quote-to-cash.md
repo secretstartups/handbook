@@ -414,7 +414,7 @@ Zuora serves as the source of truth for `Zuora Account` and `Zuora Contact` data
 
 Given that `CustomersDot User`/`Zuora Contact` and `CustomersDot BillingAccount`/`Zuora Account` information can be edited by users directly in CDot or directly in Zuora (or indirectly via SFDC), we need to be mindful of syncing this data between CDot and Zuora.  In particular, if we can't use Zuora callouts to keep the `CustomersDot BillingAccount` and `CustomersDot User` records in sync, we will explore [Zuora Custom Events](https://knowledgecenter.zuora.com/Central_Platform/Events_and_Notifications/A_Z_Custom_Events).
 
-A `CustomersDot User` record in CDot is tied to one email address.  This email address can be associated with multiple `Zuora Account`s, and therefore have multiple `Zuora Contact`s.  Each of these `Zuora Contact`s could be modified independently.  For instance, a billing admin may choose to change the address for Contact A for the billing entity in the US, but not choose to change the address for Contact B (associated with the same email address) for the billing entity in Europe.  For this reason, contact metadata could eventually be stored on the `CustomersDot BillingAccountMembership` model, but we are choosing to keep this lightweight to begin with to reduce scope.  We will start by fetching this data from Zuora.
+A `CustomersDot User` record in CDot is tied to one email address.  This email address can be associated with multiple `Zuora Account`s, and therefore have multiple `Zuora Contact`s.  Each of these `Zuora Contact`s could be modified independently.  For instance, a billing admin may choose to change the address for Contact A for the billing entity in the US, but not choose to change the address for Contact B (associated with the same email address) for the billing entity in Europe.  For this reason, contact metadata could eventually be stored on the `CustomersDot BillingAccountMembership` model, but we are choosing to keep this lightweight to begin with to reduce scope. We will start by fetching this data from Zuora.
 
 #### CustomersDot BillingAccount management
 
@@ -431,7 +431,6 @@ A `CustomersDot User` record in CDot is tied to one email address.  This email a
 
 In this epic, the focus is on improving the data architecture of CustomersDot to better align with Zuora Billing Accounts. The `Customer` model in CDot has known design flaws as it represents a combination of both a Zuora Contact (individual user) and a Zuora Account (organization).
 
-
 #### Problem
 
 Currently CustomersDot (CDot) has a data object for `Customer` (e.g. `customers` DB table) which serves a few different functions:
@@ -440,8 +439,7 @@ Currently CustomersDot (CDot) has a data object for `Customer` (e.g. `customers`
 - Contact information related to a physical person within a Company with metadata like first and last name, email, mailing address, etc.
 - Company information that is associated with a Zuora Account with company name.
 
-It is important to note that a Zuora Account maps to a company/customer account which can have many users or contacts. It should not map to one user in particular.  In the current architecture, a `zuora_account_id` can be shared with more than one Customer but this isn't ideal.  We need to have an architecture that accurately reflects the data structure from Zuora and our business model.  In CustomersDot, we need to have a data architecture that accurately reflects [Zuora's Billing Objects Model](https://knowledgecenter.zuora.com/BB_Introducing_Z_Business/A_Zuora_Billing_business_object_model)).
-
+It is important to note that a Zuora Account maps to a company/customer account which can have many users or contacts. It should not map to one user in particular.  In the current architecture, a `zuora_account_id` can be shared with more than one Customer but this isn't ideal.  We need to have an architecture that accurately reflects the data structure from Zuora and our business model.  In CustomersDot, we need to have a data architecture that accurately reflects [Zuora's Billing Objects Model](https://knowledgecenter.zuora.com/BB_Introducing_Z_Business/A_Zuora_Billing_business_object_model).
 
 #### Examples of issues this could benefit
 
@@ -513,7 +511,6 @@ See the [Architecture Blueprint](https://docs.gitlab.com/ee/architecture/bluepri
 - [Phase 1: Implement Zuora Cache Models](https://gitlab.com/groups/gitlab-org/-/epics/11751)
 - [Phase 2: Utilize Zuora Cache Models](https://gitlab.com/groups/gitlab-org/-/epics/11752)
 - [Phase 3: Replace CDot Order with Subscription](https://gitlab.com/groups/gitlab-org/-/epics/11753)
-
 
 ### Snowflake Data Warehouse and dbt (data build tool)
 
