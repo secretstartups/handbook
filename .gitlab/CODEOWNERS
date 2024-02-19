@@ -245,12 +245,12 @@
 /content/handbook/engineering/development/dev/create/source-code-be/ @sean_carroll @robotmay_gitlab @igor.drozdov @vyaklushin
 
 [CodeReview]
-/content/handbook/engineering/development/dev/create/code-review/ @phikai @kisha.mavryck @andr3
-/content/handbook/engineering/development/dev/create/code-review/backend/ @kisha.mavryck @kerrizor @marc_shaw @dskim_gitlab @garyh @patrickbajao
+/content/handbook/engineering/development/dev/create/code-review/ @phikai @andr3 @francoisrose
+/content/handbook/engineering/development/dev/create/code-review/backend/ @francoisrose @kerrizor @marc_shaw @dskim_gitlab @garyh @patrickbajao
 /content/handbook/engineering/development/dev/create/code-review/frontend.md @andr3
 
 ^[Editor-Extensions]
-/content/handbook/engineering/development/dev/create/editor-extensions.md @phikai @francoisrose
+/content/handbook/engineering/development/dev/create/editor-extensions.md @dashaadu @kisha.mavryck
 
 ^[finance]
 /content/handbook/finance/ @brobins
