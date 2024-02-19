@@ -68,3 +68,4 @@ This Working Group has the following goals:
 | Member             | Artur Fedorov       | Senior Frontend Engineer, Govern:Security Policies  |
 | Member             | Frédéric Caplette   | Senior Frontend Engineer, Verify:Pipeline Authoring |
 | Member             | Vitaly Slobodin     | Staff Frontend Engineer, Fulfillment                |
+| Member             | Marina Mosti        | Senior Frontend Engineer, Switchboard               |
