@@ -196,10 +196,11 @@ GitLab is building out a global Authorized Distributor network similar to many o
 - Select Partners may choose to transact directly with GitLab (excluding certain regions) or via the region's authorized distributor(s)
 - In NORTH AMERICA, Partners transact with [Climb Solutions](https://www.climbcs.com/) via `sales@climbcs.com` and `sales@climbcs.ca` in the US and Canada, respectively
 - In EMEA: Partners transact with Amazic via `gitlab@amazic.com`
+  - In META (Middle East, Turkey, and Africa): Partners may also choose to transact with [Mindware](https://www.mindware.net/contact-us) via `sales@mindware.net`
 - In APAC (several countries):  Partners transact with [Tech Data/TD Synnex](https://www.techdata.com/apac/en/partner-with-us/become-a-partner.html) via `GitLab.APJ@techdata.com`
-    - In India: Partners may also choose to transact with Redington via `gitlab@redington.co.in`
-    - In Japan: Partners may also choose to transact with [Networld](https://www.networld.co.jp/product/gitlab/) via `gitlab-info@networld.co.jp`
-    - In Thailand: Partners may also choose to transact with [Get On Technology](https://www.got.co.th/contact) via `gitlab@got.co.th`
+  - In India: Partners may also choose to transact with Redington via `gitlab@redington.co.in`
+  - In Japan: Partners may also choose to transact with [Networld](https://www.networld.co.jp/product/gitlab/) via `gitlab-info@networld.co.jp`
+  - In Thailand: Partners may also choose to transact with [Get On Technology](https://www.got.co.th/contact) via `gitlab@got.co.th`
 
 GitLab sellers can also refer to the [partner billing section](/handbook/sales/field-operations/channel-operations/#how-to-find-partner-billing-records-in-sfdc-and-use-for-quoting) of this handbook for a link to our distributor billing records and guidance on how these records are used in the quoting process.
 
