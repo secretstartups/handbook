@@ -214,13 +214,21 @@ The Growth stage tracks number of experiments deployed as a development metric. 
 New experiments added to the codebase using [experiment feature flags](https://docs.gitlab.com/ee/development/feature_flags/#experiment-type) are tracked until removal.
 Current experiments shows the total number of experiments in the codebase (pending, active, or concluded and ready to be removed).
 
-{{< sisense chart="10621867" dashboard="799224" height="450" >}}
+
+{{< tableau height="600px" toolbar="hidden" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/Experimentscadenceandcurrentexperimentsdeployed/Experimentscadenceandcurrentexperimentsdeployed" >}}
+{{< /tableau >}}
 
 #### Growth Section Metrics
 
 Complete list of [Growth Section engineering metrics].
 
-{{% cross-functional-dashboards filters="growth" section=true %}}
+{{< tableau height="600px" toolbar="hidden" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/TopEngineeringMetrics/TopEngineeringMetricsDashboard" >}}
+  {{< tableau/filters "SECTION_LABEL"="growth" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/MergeRequestMetrics/OverallMRsbyType_1" >}}
+  {{< tableau/filters "SECTION_LABEL"="growth" >}}
+{{< /tableau >}}
 
 ## Team Days
 
@@ -234,11 +242,9 @@ On occasion we hold virtual team days or meetings to take a break and participat
 
 ## Common Links
 
-* [How to create a Sisense SQL alert](/handbook/engineering/development/growth/sisense_alert.html)
 * [Growth stage]
 * [Growth workflow board]
 * `#s_growth` in [Slack](https://gitlab.slack.com/archives/s_growth) (GitLab internal)
-* [Growth technical debt status](https://app.periscopedata.com/app/gitlab/618368/Growth-technical-debt-status) (GitLab internal)
 * [Growth opportunities]
 * [Growth meetings and agendas] (GitLab internal)
 * [GitLab values]
