@@ -86,14 +86,15 @@ Checklist for updating delivery dates:
 1. Update the epic's parent epic to match the quarter where the content is delivered. 
 1. Update the epic's labels to match the quarter where the content is delivered. 
 
-The following quick actions example updates a content epic from FY24Q3 to FY24Q4. 
+The following quick actions example updates a content epic from FY25Q1 to FY25Q2. 
 
 ```
-/unlabel ~FY24-Q3
+/unlabel ~"FY25-Q1" 
 
-/label ~FY24-Q4
+/parent_epic https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics/392
 
-/parent_epic https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics/241 
+/label ~"FY25-Q2" 
+
 ```
 
 ### Subscribing to epic updates
@@ -158,14 +159,13 @@ On completion:
 
 <!-- Note: These are samples for guidance, please add relevant labels for activity region, type, quarter or any other labels relevant to your team/program. Please update or include additional relevant labels here. -->
 
-/label ~"DevRel-Content" ~"FY24-Q4" 
+/label ~"DevRel-Content" ~"FY25-Q1" 
 
-<!-- Link to parent epic where necessary. Please choose the quarterly epic from the FY24 epic
-https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics/98 
-and FY25 epic https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics/339 -->
+<!-- Link to parent epic where necessary. Please choose the quarterly epic from the 
+FY25 epic https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics/339 -->
 
-<!-- FY24Q4 -->
-/parent_epic https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics/241 
+<!-- FY25Q1 -->
+/parent_epic https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics/391
 
 <!-- Link to Child epic where necessary -->
 /child_epic 
