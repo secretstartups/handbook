@@ -14,7 +14,6 @@ We thrive for ownership of the things that we built by having a clear view on it
 The Dev sub-department is taking care of the first part of the DevSecOps Lifecycle with the following stages and the specific groups:
 
 1. [Manage](/handbook/product/categories/#manage-stage)
-    - [Manage:Authentication and Authorization](/handbook/engineering/development/dev/manage/authentication-and-authorization)
     - [Manage:Foundations](/handbook/engineering/development/dev/manage/foundations/)
     - [Manage:Import and Integrate](/handbook/engineering/development/dev/manage/import-and-integrate)
 1. [Plan](/handbook/product/categories/#plan-stage)
