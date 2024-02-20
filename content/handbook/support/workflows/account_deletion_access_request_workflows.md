@@ -136,7 +136,7 @@ If the user fails to respond within 7 calendar days, close it using the followin
 
   <p>Regards,</p>
 
-  /label ~"Account Verification Failed" ~"deletion request::denied"
+  `/label ~"Account Verification Failed" ~"deletion request::denied"`
 </details>
 
 ##### **Step 1.5:** Blocked or Banned Accounts
@@ -184,7 +184,7 @@ If the user fails the challenge questions, apply the `Account Verification Faile
 
   <p>Regards,</p>
 
-  /label ~"Account Verification Failed" ~"deletion request::denied"
+  `/label ~"Account Verification Failed" ~"deletion request::denied"`
 </details>
 
 ###### Verification Failed - Sole Owner Exception
