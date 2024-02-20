@@ -378,15 +378,17 @@ GitLab Docs are awesome!
 
 </details>
 
-#### Release Stage
+#### Deploy Stage
 
-GitLab's integrated CD solution allows users to ship code with zero-touch, be it on one or one thousand servers.
+The Deploy team covers the deployment and release functionality of GitLab
 
 <details markdown="1"><summary>Click to expand</summary>
 
 **Top dashboards referenced by this team**
 
 - [Centralized Metrics](https://10az.online.tableau.com/#/site/gitlab/workbooks/2069845/views): Key reporting dashboard for GitLab product usage metrics.
+
+- [Deploy Performance Indicator Dashboard](https://10az.online.tableau.com/#/site/gitlab/workbooks/2280622/views): Primarily time series analyses for Deploy features on GitLab.com
 
 
 **Important data documentation**
@@ -399,13 +401,9 @@ WHERE field = stage_name
 ;
 ```
 
-**Helpful video resources**
-
-[List of YouTube Playlists maintained by Release](/handbook/engineering/development/ops/release/#youtube-playlists)
-
 **Product roadmap link**
 
-[Product Direction - Release](https://about.gitlab.com/direction/release/#whats-next-and-why)
+[Product Direction - Delivery](https://about.gitlab.com/direction/delivery/)
 Resource to understand the long-term goals for this team
 
 **Performance indicators**
@@ -416,121 +414,20 @@ Resource to understand the Performance Indicators for the Ops Section - Page can
 
 **Key handbook pages**
 
-[Release Primary Handbook Page](/handbook/engineering/development/ops/release/)
+[Deploy Primary Handbook Page](/handbook/engineering/development/ops/deploy/)
 
 **Slack channels**
 
-**#s_release**
+**#cd-section**
 
+**#g_environments**
 
-**Team members**
-
-[Handbook page to find Create team members to collaborate with](/handbook/product/categories/#configure-stage)
-
-
-</details>
-
-#### Configure Stage
-
-Enabling users to configure applications and infrastructure. Auto DevOps, Kubernetes Management and ChatOps.
-
-<details markdown="1"><summary>Click to expand</summary>
-
-**Top dashboards referenced by this team**
-
-- [Centralized Metrics](https://10az.online.tableau.com/#/site/gitlab/workbooks/2069845/views): Key reporting dashboard for GitLab product usage metrics.
-
-
-
-**Important data documentation**
-
-``` sql
-
-SELECT *
-FROM table
-WHERE field = stage_name
-;
-```
-
-**Helpful video resources**
-
-[GitLab <> Kubernetes Agent Overview](https://vimeo.com/677950027)
-
-[AutoDevops Overview Demo](https://www.brighttalk.com/webcast/17523/524896) You'll need to register for brighttalk with your work email to access this resource.
-
-**Product roadmap link**
-
-[Product Direction - Configure](https://about.gitlab.com/direction/delivery/#opportunities)
-Resource to understand the long-term goals for this team
-
-**Performance indicators**
-
-[Link to performance indicators](https://internal.gitlab.com/handbook/company/performance-indicators/product/ops-section/)
-Resource to understand the Performance Indicators for the Ops Section - Page can be searched by Stage and Group
-
-**Key handbook pages**
-
-[Primary handbook page for Configure](/handbook/engineering/development/ops/configure/)
-
-**Slack channels**
-
-**#s_configure**
+**#s_deploy**
 
 **Team members**
 
-[Handbook page to find Create team members to collaborate with](/handbook/engineering/development/ops/configure/#team-members)
+[Handbook page to find Create team members to collaborate with](/handbook/engineering/development/ops/deploy/environments/)
 
-
-</details>
-
-#### Monitor Stage
-
-Helps reduce the severity and frequency of incidents. Incident management and error tracking.
-
-<details markdown="1"><summary>Click to expand</summary>
-
-**Top dashboards referenced by this team**
-
-- [Centralized Metrics](https://10az.online.tableau.com/#/site/gitlab/workbooks/2069845/views): Key reporting dashboard for GitLab product usage metrics.
-
-- [Error Budget Dashboard](https://10az.online.tableau.com/#/site/gitlab/workbooks/2270342/views)
-
-**Important data documentation**
-
-``` sql
-
-SELECT *
-FROM table
-WHERE field = stage_name
-;
-```
-
-**Helpful video resources**
-
-Demos and overview videos for Monitor will be added here as they become available.
-
-**Product roadmap link**
-
-[Product Direction - Monitor](https://about.gitlab.com/direction/monitor/)
-Resource to understand the long-term goals for this team
-
-**Performance indicators**
-
-[Link to performance indicators](https://internal.gitlab.com/handbook/company/performance-indicators/product/ops-section/)
-
-Resource to understand the Performance Indicators for the Ops Section - Page can be searched by Stage and Group
-
-**Key handbook pages**
-
-[Blog post on Incident Management](https://about.gitlab.com/blog/2021/11/30/gitlab-incident-management/)
-
-**Slack channels**
-
-**#s_monitor**
-
-**Team members**
-
-[Handbook page to find Monitor team members to collaborate with](/handbook/product/categories/#monitor-stage)
 
 </details>
 
@@ -553,8 +450,6 @@ Some seemingly duplicate charts in Dynamic Analysis Metrics are used by the team
 
 - [Centralized Metrics](https://10az.online.tableau.com/#/site/gitlab/workbooks/2069845/views): Key reporting dashboard for GitLab product usage metrics.
 
-
-
 **Important data documentation**
 
 ``` sql
@@ -572,7 +467,6 @@ WHERE field = stage_name
 **Product direction link**
 
 [Secure product direction page - 1 year plan](https://about.gitlab.com/direction/secure/#1-year-plan)
-
 
 **Performance indicators**
 
