@@ -15,12 +15,25 @@ The Professional Services Project Coordinator is a [grade 5](/handbook/total-rew
 
 #### Professional Services Project Coordinator, Associate Responsibilities
 
-To be drafted as the need for an Associate level arises
-
+- Run weekly time reports to estimate revenue; identify any resource or revenue corrective actions that are required to meet/beat monthly target
+- Run monthly/quarterly billing; work with accounting to record revenue.
+- Review order booking paperwork and update the Professional Services systems for project set up.
+-Create new internal team member on-boarding and AR requests issues
+-Create new Partner team member on-boarding and AR request issues Project Set up in PS Tool
+- Continually provide suggestions to business and reporting processes that keep up with the changes in the organization.
 
 #### Professional Services Project Coordinator, Associate Requirements
 
-To be drafted as the need for an Associate level arises
+- Bachelor’s degree required, preferably in Finance, Accounting, Statistics, or Business Management
+- Demonstrated progressive industry experience in a Professional Services Operations or similar role for a high-tech product company
+- Professional Services Automation (PSA) tools experience recommended (i.e. NetSuite Openair, FinancialForce)
+- Previous experience in a data-driven, analytics-centric role
+- Working understanding of Professional Services cost structures strongly preferred
+- Strong Microsoft Excel skills including experience with pivot tables, analyzing and formatting data, use of filters, and creating charts and graphs
+- Excellent communication and presentation skills
+- Must have incredible attention to detail, be self-starting, and possess strong organizational skills
+- You share our values, and work in accordance with those values.
+- Ability to use GitLab
 
 ### Professional Services Project Coordinator, Intermediate
 
