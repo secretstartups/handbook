@@ -200,7 +200,7 @@ The fields in this section enable contractual opt-outs for each SuperSonics feat
 | [Cloud Lic] Add Reconciliation Opt Out | (Checkbox) Opts customer out of Quarterly Subscription Reconciliation  |
 | [Cloud Lic] Add Auto-Renewal Opt-Out | (Checkbox) Opts customer out of Auto-Renewal |
 | [Cloud Lic] Add Operational Data Opt Out | (Checkbox) Opts customer out of Operational Data |
-| [Cloud Lic] Add Cloud Licensing Opt Out | (Picklist) Opts customer out of Cloud Licensing to an `Offline` or `Legacy` license |
+| License Type | (Picklist) SaaS: Default = Cloud License; Self-Managed: A selection is required. Selecting `Offline Cloud License` or `Legacy License` will trigger approvals per the [Deal Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#bookmark=kix.iqw46t1jxax1). |
 
 #### Quarterly Subscription Reconciliation (QSR): How It Works
 
