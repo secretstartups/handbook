@@ -164,10 +164,9 @@ Categories
 
 <details>
 <summary markdown='span'>
-Collaboration with Sales Systems
+Proccess Steps with Sales Systems
 </summary>
 
-- `EntAppsCustomer: MOPS`: Used on issues that require Sales Systems support
 - `MktgOpsPrio::00: Requested`: New issues  
 - `MktgOpsPrio::01: In Approved`: Issues that have received business process owner approval
 - `MktgOpsPrio::02: In Queue - Mops`: Issues that are ready for prioritization with Sales Systems 
@@ -181,12 +180,40 @@ Collaboration with Sales Systems
 
 <details>
 <summary markdown='span'>
+Systems Related Labels
+</summary>
+
+- `EntAppsCustomer: MOPS`: Used on issues that require Sales Systems support
+
+Business Impact Labels: What business impact or subject area is driving these changes
+- `MktgImpact - Partner Lead Lifecycle` - Impacts to Vartopia and Partner Lead Lifecycle. Such as the Lead Module, Campaign Module and ROI for channel events and lead tracking.
+- `MktgImpact - Sales Enablement` - Marketing initiatives that will help Sales productivity and efficiency
+- `MktgImpact - Sales Dev Productivity` - Improves productivity of Sales Dev team, such as SLAs, and visibility
+- `MktgImpact - Product Launches` - Issues revolving around a prodct launch or release
+- `MktgImpact - Team Productivity and Efficiency` - General marketing team productivity improvements
+- `MktgImpact - Analytics and Data Quality` - Data updates or analytics needs
+- `MktgImpact - TBD` - New labels will be created for large-cross function projects, like FY25
+
+Type Labels: What type of SFDC work is required
+- `MktgType - Break/Fix`
+- `MktgType - Tool Installation / Configuration`
+- `MktgType - Package Updates`
+- `MktgType - FLS or Access`
+- `MktgType - Tech Debt`
+- `MktgType - Operational Improvements`
+
+
+</details>
+
+<details>
+<summary markdown='span'>
 Priorities
 </summary>
 
-- `MktgOpsPriority::High`: Issue that is related to a breaking change, OKR focus, any other prioritized project by MktgOps leadership. This category will be limited because not everything can be a priority. Timeframe: Immediate action needed.
-- `MktgOpsPriority::Medium`: Issue has a specific action item for MktgOps to be completed as it is an OKR. Timeframe: Within weeks
-- `MktgOpsPriority::Low`: Issue is a feature to help the team or a specific action item for MktgOps that would be helpful, but can be pushed for other issues.Timeframe: Within months
+- `MktgOpsPriority:: 00-Urgent`: Issue that is related to a breaking change, security issue or business critical item. This category will be limited because not everything can be a priority. Timeframe: Immediate action needed.
+- `MktgOpsPriority:: 01-High`: Issue that is related to a breaking change, OKR focus, any other issue of high business value.  Timeframe: Action within milestone
+- `MktgOpsPriority:: 02-Medium`: Issue has a specific action item for MktgOps to be completed. Timeframe: Within weeks
+- `MktgOpsPriority:: 03-Low`: Issue is a feature to help the team or a specific action item for MktgOps that would be helpful, but can be pushed for other issues.Timeframe: Within months
 
 </details>
 
@@ -387,7 +414,6 @@ Below are tools in the Marketing Technology stack, organized by tier.
 - Base
 - [Hightouch](/handbook/marketing/marketing-operations/hightouch/)
 - [LinkedIn Sales Navigator](/handbook/sales/training/social-selling/)
-- [MailJet](/handbook/marketing/marketing-operations/mailjet/)
 - [OneTrust](/handbook/marketing/digital-experience/onetrust/)
 - [RingLead](/handbook/marketing/marketing-operations/ringlead/)
 - Integrate DAP
