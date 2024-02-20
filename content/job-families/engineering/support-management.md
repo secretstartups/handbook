@@ -49,7 +49,7 @@ As a Manager, Support Engineering, you will be:
 - improving the customer experience in measurable and repeatable ways.
 - participating in escalation on-call rotation (limited to regional working hours during the week and weekend).
 
-For more details, see our [Support Manager Responsibilities page](/handbook/support/managers/manager-responsibilities.html).
+For more details, see our [Support Manager Responsibilities page](/handbook/support/managers/manager-responsibilities/).
 
 #### Projects you might work on
 
