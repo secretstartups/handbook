@@ -175,7 +175,7 @@ We use the Vulnerability Report with filters to focus on items matching [our pol
 
 1. [Analyzers Vulnerability Report][Analyzers Vulnerability Report]
   - To configure the report manually, select all [shared](#shared), [container scanning](#container-scanning), and [dependency scanning](#dependency-scanning) projects and apply the `Still detected` activity filter and apply the `Needs Triage` status.
-1. [License-db Vulnerability Report[License-db Vulnerability Report]
+1. [License-db Vulnerability Report][License-db Vulnerability Report]
   - To configure the report manually, select all [license-db](#license-db) projects and apply the `Still detected` activity filter and apply the `Needs Triage` status.
 
 For each item, investigate and either [dismiss](#dismissing-a-vulnerability) or [confirm](#confirming-a-vulnerability) it. If it's not clear whether there's indeed a threat, escalate to our [Application Security team](/handbook/security/product-security/application-security/).
