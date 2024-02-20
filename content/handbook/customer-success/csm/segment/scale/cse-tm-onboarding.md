@@ -61,7 +61,7 @@ As a CSE, in addition to the [SQS learning objectives](https://handbook.gitlab.c
 
 **Milestones and Onboarding Roadmap**
 
-Stay tuned! 
+![CSE Onboarding Journey Roadmap](/handbook/customer-success/csm/segment/scale/CSE-Onboarding-Journey-Roadmap.png)
 
 **Expectations for Manager Support during Onboarding**
 
