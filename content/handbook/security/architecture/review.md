@@ -91,7 +91,7 @@ Depending on the type of change being reviewed, the Security Architect can invol
 - The Cryptography Officer
 
 [Threat Models]({{< ref "../threat-modeling" >}})
-[AppSec reviews]({{< ref "/handbook/security/security-engineering/application-security/#application-security-reviews" >}})
+[AppSec reviews]({{< ref "/handbook/security/product-security/application-security/#application-security-reviews" >}})
 
 ## Result
 

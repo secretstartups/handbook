@@ -7,7 +7,7 @@ twitter_image: '/images/tweets/handbook-marketing.png'
 <i class="fas fa-bullhorn fa-fw color-orange font-awesome"></i> Welcome to the GitLab Developer Relations Handbook
 {.h1}
 
-## <i class="fa-regular fa-lightbulb"></i> What is DevRel? 
+## <i class="fa-regular fa-lightbulb"></i> What is DevRel?
 
 Developer Relations (short: DevRel) operates at the intersection of technology, community, and advocacy, serving as the voice and ears of GitLab in the wider tech world. Their core mission revolves around nurturing and sustaining a vibrant, engaged community of developers, contributors, and users. This involves a multifaceted approach that includes creating educational content, organizing events and workshops, developing programs, and providing platforms for knowledge exchange and collaboration. The team not only focuses on promoting GitLab's features and capabilities but also actively listens to and incorporates feedback from the community to inform product development and improvements.
 
@@ -40,7 +40,7 @@ Our operational strategy is [documented in our internal handbook](https://intern
 
 Teams within Developer Relations are reachable in these Slack channels:
 
-- [#dev-evangelism-and-technical-marketing](https://gitlab.slack.com/archives/CMELFQS4B): [Developer Evangelism](/handbook/marketing/developer-relations/developer-evangelism/) and [Technical Marketing](/handbook/marketing/developer-relations/technical-marketing/) shares content updates, thought leadership & product ideas, and support community responses, meetups, CFPs, etc.
+- [#dev-evangelism-and-technical-marketing](https://gitlab.slack.com/archives/CMELFQS4B): the [Developer Advocate](/handbook/marketing/developer-relations/developer-evangelism/) team shares content updates, thought leadership & product ideas, and support community responses, meetups, CFPs, etc.
 - [#community-programs](https://gitlab.slack.com/archives/C024ZBWK5KJ): for all inquiries regarding [GitLab Community Programs](/handbook/marketing/developer-relations/community-programs/) (EDU/OSS/Startups)
 - [#contributor-success](https://gitlab.slack.com/archives/C02R0NE6P6C): for all inquiries regarding [Contributor Success](/handbook/marketing/developer-relations/contributor-success/)
 
@@ -68,7 +68,7 @@ Teams within Developer Relations are reachable in these Slack channels:
 ### <i class="far fa-edit fa-fw color-orange font-awesome"></i> Our handbooks
 
 - [Contributor Success](/handbook/marketing/developer-relations/contributor-success/)
-- [Developer Evangelism](/handbook/marketing/developer-relations/developer-evangelism/) and [Technical Marketing](/handbook/marketing/developer-relations/technical-marketing/)
+- [Developer Advocacy](/handbook/marketing/developer-relations/developer-advocacy/)
 - [Community Programs](/handbook/marketing/developer-relations/community-programs/)
     - [Open Source Program](/handbook/marketing/developer-relations/community-programs/opensource-program/)
     - [Education Program](/handbook/marketing/developer-relations/community-programs/education-program/)
@@ -94,6 +94,7 @@ Community platforms:
 
 Content:
 
+- [<i class="far fa-folder-open"></i> Content Effectiveness Strategy](/handbook/marketing/developer-relations/content-effectiveness/)
 - [<i class="far fa-edit"></i> Community newsletter](/handbook/marketing/developer-relations/developer-evangelism/community-newsletter/)
 - [<i class="far fa-edit"></i> Content Review / Fix Fridays](/handbook/marketing/developer-relations/workflows-tools/content-review/)
 - [<i class="fas fa-chart-line"></i> UTM Tracking Strategy](/handbook/marketing/developer-relations/utm-strategy/)
@@ -129,11 +130,11 @@ Our team has a few weekly events that we use to stay connected and aligned on ou
 
 ### <i class="fa fa-calendar fa-fw color-orange font-awesome"></i> Our calendars
 
-We use team-wide calendars for collective notification and to manage team logistics and events. Additionally, specific teams within Developer Relations may maintain calendars specific to their programs (such as the [Developer Evangelism calendar](/handbook/marketing/developer-relations/developer-evangelism/#-team-calendar)).
+We use team-wide calendars for collective notification and to manage team logistics and events. Additionally, specific teams within Developer Relations may maintain calendars specific to their programs (such as the [Developer Advocate team calendar](/handbook/marketing/developer-relations/developer-evangelism/#-team-calendar)).
 
 - [Developer Relations Team](https://calendar.google.com/calendar/u/0?cid=Y190M2JhY2k5MnFoYnJmYTMyMDdpZHZwdnYwMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 - [Community Events](https://calendar.google.com/calendar/b/1?cid=Z2l0bGFiLmNvbV85MHQ1dWUxcThrYmpvcTViMHI5MW51N3J2Y0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-- [Developer Evangelism Team](/handbook/marketing/developer-relations/developer-evangelism/#-calendar)
+- [Developer Advocate Team](/handbook/marketing/developer-relations/developer-evangelism/#-calendar)
 
 ### Developer Relations OKRs
 
@@ -141,7 +142,7 @@ Every quarter, we work on [team Objectives and Key Results (OKRs)](https://gitla
 
 OKRs we seek to align with:
 
-- [CEO OKRs](/handbook/company/okrs/#most-recent-okrs)
+- [company OKRs](/handbook/company/okrs/#most-recent-okrs)
 - [Marketing OKRs](/handbook/marketing/#marketing-okrs)
 
 #### DRI Responsibilities

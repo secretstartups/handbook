@@ -100,7 +100,7 @@ The Working Group should follow the [GitLab norms for meetings](/handbook/compan
 1. Save time at the end of the meeting to take action items
 1. Turn action items into merge requests or issues
 
-Working Groups should follow the guidance outlined in [Building High Performing Teams](/handbook/leadership/build-high-performing-teams/).
+Working Groups should follow the guidance outlined in [Building High Performing Teams](/handbook/leadership/#strategies-to-build-high-performing-teams).
 
 ### Working Group meetings
 
@@ -209,7 +209,6 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [ClickHouse Datastore]({{< ref "clickhouse-datastore" >}})
 1. [Continue to win against GitHub and ship AI features]({{< ref "yearlies" >}})
 1. [Customer Use Case Adoption]({{< ref "customer-use-case-adoption" >}})
-1. [Demo & Test Data]({{< ref "demo-test-data" >}})
 1. [Emerging Talent]({{< ref "emerging-talent" >}})
 1. [Event Stream]({{< ref "event-stream" >}})
 1. [Expense Management]({{< ref "expense-management" >}})
@@ -231,7 +230,6 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [Runtime Update Process]({{< ref "runtime-update-process" >}})
 1. [Software Supply Chain Security]({{< ref "software-supply-chain-security" >}})
 1. [Talent Acquisition SSOT]({{< ref "recruiting-ssot" >}})
-1. [Token Management]({{< ref "token-management" >}})
 1. [Vue.js 3 Upgrade]({{< ref "vuejs-3-migration" >}})
 
 ## Past Working Groups (alphabetic order)
@@ -250,6 +248,7 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [Contributor Growth]({{< ref "contributor-growth" >}})
 1. [Dashboards]({{< ref "dashboards" >}})
 1. [Database Scalability]({{< ref "database-scalability" >}})
+1. [Demo & Test Data]({{< ref "demo-test-data" >}})
 1. [Development Metrics]({{< ref "development-metrics" >}})
 1. [DevSecOps Adoption](https://gitlab.com/groups/gitlab-com/sales-team/-/epics/59)
 1. [Dogfood Plan]({{< ref "dogfood-plan" >}})
@@ -306,6 +305,7 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [SOX PMO]({{< ref "sox" >}})
 1. [TeamOps Sales and Marketing Group]({{< ref "teamops-sales-marketing" >}})
 1. [Tiering]({{< ref "tiering" >}})
+1. [Token Management]({{< ref "token-management" >}})
 1. [Transient Bugs]({{< ref "transient-bugs" >}})
 1. [Upstream Diversity]({{< ref "upstream-diversity" >}})
 1. [Usage Reporting](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/1)

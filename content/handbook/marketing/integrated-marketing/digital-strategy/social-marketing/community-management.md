@@ -14,7 +14,7 @@ twitter_creator: 'gitlab'
 
 
 ## Community Management is a team effort
-In order to communicate and respond to our community effectively, management of responses and conversations is a shared effort between Social Media, [Developer Relations](/handbook/marketing/developer-relations/), [Developer Evangelists](/handbook/marketing/developer-relations/developer-evangelism), various experts, and our Support Teams. The two key teams in our processes are the Social and Developer Relations teams. Both act as either the final point of contact or the responsible party to forward messages to the other teams.
+In order to communicate and respond to our community effectively, management of responses and conversations is a shared effort between Social Media, [Developer Relations](/handbook/marketing/developer-relations/), [Developer Advocates](/handbook/marketing/developer-relations/developer-evangelism), various experts, and our Support Teams. The two key teams in our processes are the Social and Developer Relations teams. Both act as either the final point of contact or the responsible party to forward messages to the other teams.
 
 ## Engaging with team member social Posts
 _non-executive, non-evangelist, non-brand personality team members_

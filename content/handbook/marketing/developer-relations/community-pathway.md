@@ -57,7 +57,7 @@ GitLab is the DevOps Platform, made possible by contributions from the community
   * [Unique Wider Community Contributors Per Month](/handbook/engineering/quality/performance-indicators/#unique-wider-community-contributors-per-month)
   * [Percent of Feature Community Contributions](/handbook/engineering/quality/performance-indicators/#percent-of-feature-community-contribution-mrs)
   * [Wider Community merged MRs per release](/handbook/marketing/developer-relations/performance-indicators/#wider-community-merged-mrs-per-release)
-  * [Developer Evangelism Monthly Impressions](/handbook/marketing/developer-relations/performance-indicators/#developer-evangelism-monthly-impressions)
+  * [Developer Advocate Monthly Impressions](/handbook/marketing/developer-relations/performance-indicators/#developer-evangelism-monthly-impressions)
 
 ### GitLab's community programs
 

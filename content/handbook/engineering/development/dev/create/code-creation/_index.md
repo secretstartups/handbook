@@ -31,7 +31,7 @@ Develop cutting-edge AI-powered tools that enhance the efficiency and creativity
 
 The following people are permanent members of the Code Creation Team:
 
-{{% team-by-manager-role role="Backend(.*)Manager(.*)Create:Code Creation" team="Code Creation" %}}
+{{< team-by-manager-slug "mnohr" >}}
 
 You can reach the whole team on GitLab issues/MRs by using the `@code-creation-team` handle.
 
@@ -39,7 +39,15 @@ You can reach the whole team on GitLab issues/MRs by using the `@code-creation-t
 
 The following members of other functional teams are our stable counterparts:
 
-{{% stable-counterparts manager-role="Backend(.*)Manager(.*)Create:Code Creation" role="Code Creation$" %}}
+| Category          | Counterpart                                                                                                     |
+|-------------------|-----------------------------------------------------------------------------------------------------------------|
+| Product Manager   | {{< member-by-name "Kevin Chu" >}}                                                                              |
+| Technical Writing | {{< member-by-name "Jon Glassman" >}}                                                                           |
+| UX                | {{< member-by-name "Andy Volpe" >}} (Create Stage)                                                              |
+| SET               | {{< member-by-name "Jay McCure" >}} (Create Stage)                                                              |
+| Support           | [TBD](https://handbook.gitlab.com/handbook/support/support-stable-counterparts/)                                |
+| AppSec            | [TBD](https://handbook.gitlab.com/handbook/security/product-security/application-security/stable-counterparts/) |
+
 
 ## Core Responsibilities
 
@@ -69,10 +77,6 @@ stateDiagram
     suggestions --> generation
 ```
 
-## Projects
-
-[Create:Code Creation Projects](/handbook/engineering/development/dev/create/code-creation/projects)
-
 ## Engineering Onboarding
 
 To help get started as a developer with the Create:Code Creation team, we have created an
@@ -80,21 +84,17 @@ To help get started as a developer with the Create:Code Creation team, we have c
 
 ## Meetings
 
-1. Sync: Code Creation - a meeting held twice a week on Tuesday and Thursday at 2:30 p.m. UTC to align on group priorities. If there are no points on the meeting agenda 1 hour before the meeting starts, that meeting is considered as canceled.
+**Sync: Code Creation** - a meeting held once a week on Thursday at 3:15 p.m. UTC to align on group priorities. If there are no points on the meeting agenda one hour before the meeting starts, that meeting is considered as canceled.
 
 ## Other Related Pages
 
 - Product Categories: [Code Creation](/handbook/product/categories/#code-creation-group)
-- Direction: [Code Suggestion Direction](https://about.gitlab.com/direction/create/code_suggestions/)
+- Direction: [Code Suggestion Direction](https://about.gitlab.com/direction/create/code_creation/code_suggestions/)
 
 ## Code Suggestion Dashboards
 
-1. [Usage](https://app.periscopedata.com/app/gitlab/1143612/Code-Suggestions-Usage)
+1. [Usage](https://app.periscopedata.com/app/gitlab/1160135/Code-Suggestions-Event-Data-(official))
 1. [Trends in Errors / Failed suggestion requests or authentication attempts](https://log.gprd.gitlab.net/app/dashboards#/view/6c947f80-7c07-11ed-9f43-e3784d7fe3ca?_g=(refreshInterval:(pause:!t,value:0),time:(from:now-6h,to:now)))
 1. [Acceptance Rate](https://log.gprd.gitlab.net/app/dashboards#/view/6c947f80-7c07-11ed-9f43-e3784d7fe3ca?_g=h@2294574) (working on getting this into Sisense)
-1. Cost tracking
-1. [Language information](https://dashboards.gitlab.net/d/code_suggestions-language/code-suggestions-language?orgId=1)
-1. [SLIs](https://dashboards.gitlab.net/d/code_suggestions-main/code-suggestions-overview?orgId=1)
-1. [Triton requests](https://dashboards.gitlab.net/d/code_suggestions-triton/code-suggestions-triton?orgId=1)
 1. [Rails API Latency for Tokens](https://dashboards.gitlab.net/d/api-rails-controller/api-rails-controller?orgId=1&var-PROMETHEUS_DS=Global&var-environment=gprd&var-stage=main&var-controller=Grape&var-action=POST%20%2Fapi%2Fcode_suggestions%2Fcompletions&from=now-15m&to=now)
 1. [Rails API Latency for Completions](https://dashboards.gitlab.net/d/ai-assisted-main/ai-assisted-overview?orgId=1)

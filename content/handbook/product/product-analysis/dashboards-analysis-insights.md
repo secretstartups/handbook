@@ -4,52 +4,24 @@ title: PDI Dashboards, Analysis, & Insights
 
 This is a page to aggregate dashboards, analysis, and insights generated or owned by the Product Data Insights team.
 
-### Dashboards
+### Tableau Dashboards
 
-#### Sisense
-
-Please see the chart below ([or follow this link](https://app.periscopedata.com/app/gitlab/1013112/Sisense-Usage-Insights?widget=15499554&udv=1634665))
-to see a list of the most-used dashboards that are owned by members of the Product Data
+[Click here to see the list of Product Data Tableau dashboards](https://10az.online.tableau.com/#/site/gitlab/search/workbooks?search=pd&tag=Product).
 Insights team. Note that viewing dashboards in the `gitlab:safe-dashboard` space may require
 additional steps to [obtain SAFE Dashboard access](/handbook/business-technology/data-team/platform/safe-data/).
 If you have any questions about using and interpreting the insights from these dashboards,
 please reach out to the dashboard owner or tag `@product-analysts` in the `#data` channel on Slack.
 
-{{% sisense dashboard="1013112" chart="15499554" height="350" %}}
-
-| Dashboard | Description | Date | SAFE Access Required? |
-| ------ | ------ |------ |------ |
-| [Product Adoption Dashboard](https://app.periscopedata.com/app/gitlab/771580/Product-Adoption-Dashboard)  | Product KPIs | Ongoing | N |
-| [Centralized SMAU/GMAU Dashboard](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard) | Product KPIs | Ongoing | N |
-| [Group Namespace Conversion Metrics](https://app.periscopedata.com/app/gitlab:safe-dashboard/919248/Group-Namespace-Conversion-Metrics) | Leading indicators of how new namespaces convert to paid customers | FY21 Q4 | Y |
-| [Stages per Organization (SpO) Deep Dive](https://app.periscopedata.com/app/gitlab:safe-dashboard/919345/Stages-per-Organization-Deep-Dive---SpO) | What are the most common stage adoption paths for new group namespaces? How does the adoption of certain stages correlate with long-term engagement, expansion, and conversion? | FY22 Q1 | Y |
-| [Cross-Stage Adoption Dashboard](https://app.periscopedata.com/app/gitlab/869174/Cross-Stage-Adoption-Dashboard) | Analyze how organizations engage with different combinations of stages | FY22 | N |
-| [Golden Journey Pathways](https://app.periscopedata.com/app/gitlab/897587/Golden-Journey-Paths) | How effectively are namespaces and instances funneling from one stage to another? | FY22 Q3 | N |
-| [Cancellation Reasoning](https://app.periscopedata.com/app/gitlab:safe-dashboard/919393/Cancellation-Reasoning-Dashboard) | Self-reported reasons and verbatims that Saas customers are cancelling in CustomersDot | Ongoing | Y |
-| [Junkmail Domain Analysis](https://app.periscopedata.com/app/gitlab:safe-dashboard/939155/Growth:Conversion-SaaS-PII-Trial-Analysis) | How many junkmail and freemail domains are registering for SaaS trials? | FY22 Q4 | Y |
-| [Deep Dive on SSO Logins](https://app.periscopedata.com/app/gitlab:safe-dashboard/919266/Growth:Adoption-Deep-Dive-on-SSO-Logins) | Takes a deep look into registrations that are created through SSO and what their subsequent product usage looks like | FY23 Q2 | Y |
-| [SaaS Purchase Funnel](https://app.periscopedata.com/app/gitlab:safe-dashboard/1022191/Saas-purchase-flow-funnel-(all-views-to-checkout-page))| Purchase funnel for SaaS subscriptions.| FY23 Q2 | Y |
-| [Self-Managed Purchase Funnel via Customer Portal](https://app.periscopedata.com/app/gitlab:safe-dashboard/1019118/Subscription-purchase-flow-for-Customer-Portal)| Purchase funnel for Self-Managed subscriptions through Customer portal| FY23 Q2 | Y |
-| [SaaS Purchase Funnel](https://app.periscopedata.com/app/gitlab:safe-dashboard/1022191/Saas-purchase-flow-funnel-(all-views-to-checkout-page))| Purchase funnel for SaaS subscriptions.| FY23 Q2 | Y |
-| [Trial Feature Adoption](https://app.periscopedata.com/app/gitlab:safe-dashboard/919403/Trial-Feature-Adoption-Dashboard) |  | FY23 Q3 | Y |
-| [Usage PQL Analysis](https://app.periscopedata.com/app/gitlab:safe-dashboard/926643/Growth:Conversion-Usage-PQL-Analysis) |  | FY23 Q3 | Y |
-| [GMAU Crossover](https://app.periscopedata.com/app/gitlab/1061102/GMAU-Crossover) | To provide visibility into how GMAUs may be impacted by the use of other GMAUs.| FY23 Q3 | N |
-| [Growth Metrics](https://app.periscopedata.com/app/gitlab:safe-dashboard/1067009/Growth-Metrics) | Describes and illustrates the Growth team's most important metrics and performance indicators. | Ongoing | Y |
-| [User Attributes Relationship to Paid Conversion](https://app.periscopedata.com/app/gitlab:safe-dashboard/1052091/User-Attributes-Relationship-to-Paid-Conversion) | A broad analysis of user attributes identifiable upon GitLab.com registration and their relationship to paid conversion. | FY23 Q3 | Y |
-| [Configure Feature Adoption by License Size and Industry](https://app.periscopedata.com/app/gitlab:safe-dashboard/1074058/Configure-Feature-Adoption-by-Installation-Size-and-Industry) | View how Configure features are being adopted by namespaces of different license sizes and industries | FY23 Q3 | Y |
-| [Respond Group Dashboard](https://app.periscopedata.com/app/gitlab/1032030/Respond-Group-Dashboard) | Describes and illustrates the Respond / Monitor team's most important metrics and performance indicators. | FY23 Q3 | N |
-| [Verify Performance Indicator Dashboard](https://app.periscopedata.com/app/gitlab/1074396/Verify-Performance-Indicator-Dashboard) | Describes and illustrates the Verify team's most important metrics and performance indicators. | FY23 Q4 | N |
-| [Release Performance Indicator Dashboard](https://app.periscopedata.com/app/gitlab/1093486/Release-Performance-Indicator-Dashboard) | Describes and illustrates the Respond / Monitor team's most important metrics and performance indicators. | FY23 Q4 | N |
-| [GMAU Churn Analysis](https://app.periscopedata.com/app/gitlab/1088141/GMAU-Churn-Analysis-Dashboard)|A step-by-step tool for identifying reported GMAU trends.| FY23 Q4 | N |
-| [Feature Retention 2.0](https://app.periscopedata.com/app/gitlab/1003214/Feature-Retention) | View event-level adoption and retention for SaaS and Self-Managed.| FY23 Q4 | N |
-| [Time to First Adoption](https://app.periscopedata.com/app/gitlab/1088268/Time-to-First-Adoption)| By plan-level, see the days till inital adoption of all SaaS events.| FY23 Q4 | N |
-| [Service Integration Impact Dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/1106686/Service-Integration-Impact) | Shows how different service integrations impact event adoption among paid namespaces. | FY24 Q1 | Y |
 
 #### Tableau
 
 | Dashboard Name | Description | Date | Location | SAFE Access Required? |
 | --- | --- | --- | --- | --- |
+| [Product Data Insights General Collection](https://10az.online.tableau.com/#/site/gitlab/collections/2b35eb4c-1d4f-4339-b53e-5e3f58147e92?:origin=card_share_link) | This is a Tableau Collection containing analytics resources that are broadly useful to the Product Org. | Ongoing | Product/General | N |
+| [Product Data Insights SAFE Collection](https://10az.online.tableau.com/#/site/gitlab/collections/a565fb9b-6478-4bba-9581-ebf84d49c99d?:origin=card_share_link) | This is a Tableau Collection containing SAFE analytics resources that are broadly useful to the Product Org. | Ongoing | Product/SAFE | Y |
 | [PD: Cloud Licensing Adoption Dashboard](https://10az.online.tableau.com/#/site/gitlab/workbooks/1891137/views) | This dashboard provides insights on adoption of Cloud Licensing | FY24 Q1 | Ad-hoc/Product/SAFE | Y |
+| [PD: Centralized Metrics](https://10az.online.tableau.com/#/site/gitlab/workbooks/2069845/views) | Monthly reporting metrics and trends for product performance indicators | FY23 Q4 | Ad-hoc/Product/General | N |
+| [PD: Firmographic Metric Usage](https://10az.online.tableau.com/#/site/gitlab/workbooks/2137023/views) | Segment metric usage by company size, industry, and seat count. | FY23 Q4 | Development/Product/SAFE | Y |
 
 
 ### Analysis & Insights

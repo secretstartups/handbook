@@ -31,7 +31,21 @@ We use the scoped labels `~"Threat Insights::Navy"` `~"Threat Insights::Tangerin
 
 We use our [Threat Insights Priorities](https://about.gitlab.com/direction/govern/threat_insights/16_threat_insights_priorities.html) page to track what we are doing, and what order to do it in.
 
-{{% cross-functional-dashboards filters="Threat Insights" %}}
+{{< tableau height="600px" toolbar="hidden" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/TopEngineeringMetrics/TopEngineeringMetricsDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="threat insights" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/MergeRequestMetrics/OverallMRsbyType_1" >}}
+  {{< tableau/filters "GROUP_LABEL"="threat insights" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/Flakytestissues/FlakyTestIssues" >}}
+  {{< tableau/filters "GROUP_NAME"="threat insights" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/SlowRSpecTestsIssues/SlowRSpecTestsIssuesDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="threat insights" >}}
+{{< /tableau >}}
 
 ### Workflow
 
@@ -46,6 +60,11 @@ Additional information can be found on the [Planning page](/handbook/engineering
 - During the team meeting, on the third Tuesday of the month the team meets for a cross-functional review of the scope, and finalizes the milestone's planning issue.
 - All issues scheduled for the milestone should have the `~Deliverable` label as well as `Health Status: On Track` at the beginning of the milestone.
 - The planning issue is created in this [epic](https://gitlab.com/groups/gitlab-org/-/epics/9951) for 16.0-16.11.
+
+### Tracking Deliverables 
+- Issues that are marked as Deliverables for a milestone serve as the single source of truth for what we aimed to deliver for a given milestone. Throughout the milestone, things may change, become blocked, etc. _Ideally, we'd like to keep the Planning Issue unchanged after the milestone starts._
+- Something is considered delivered if it is either a. merged into production in time for the release date, b. completed before the next milestone start, or c. the feature flag enabling the feature is turned on.  It is important to keep track of the milestone of the deliverable; we encourage self-managed customers to turn on feature flags so they can try different features. Ensuring the milestone is correct, allows someone to tell if that change is available in a specific release.
+
 
 ### MR Reviews
 

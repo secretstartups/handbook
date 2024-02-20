@@ -12,6 +12,12 @@ twitter_creator: "@gitlab"
 
 On this page, we're detailing considerations for optimizing comfort and efficiency when taking your office with you while traveling.
 
+## Connect to the Internet securely
+
+When possible, do not connect to public WiFi networks. If a public WiFi network is your only option, it's crucial to employ robust security measures such as using a [personal VPN](../../../tools-and-tips/personal-vpn/#what-is-a-personal-vpn).
+
+Additionally, GitLab team members should be wary of connecting to unsecured networks or accessing sensitive information over public connections, even when using a VPN. When Ethernet connections are available, they generally offer a more secure option than WiFi due to their physical nature, but it's still essential to verify the network's authenticity and utilize encryption protocols whenever possible.
+
 ## Internet redundancy
 
 {{% cardpane %}}
@@ -24,6 +30,8 @@ For remote workers, a robust connection to the internet is [vital](https://about
 
 A simple way to achieve this redundancy is to lean on one mobile network operator for your smartphone (and enable tethering if it is not on by default with your current plan), while procuring a mobile hotspot through a different operator.
 
+Another way to improve your chances of a strong internet connection while traveling is to bring an Ethernet cord and adapter that allows you to connect an ethernet cord to your laptop. Not all hotels or coworking spaces will provide an ethernet connection option, but if it is available Ethernet is your best bet for a fast, secure internet connection.
+
 If you plan to travel through [various countries and continents](https://about.gitlab.com/blog/2017/06/30/there-and-back-again-in-one-release), plan ahead. Services such as [KnowRoaming](https://www.knowroaming.co/order) and [Skyroam](https://www.skyroam.com) enable connections across borders. While it's possible to acquire a local SIM card in most countries, you'll need an unlocked smartphone or hotspot. Plus, you may need a basic understanding of the local language, local currency, and to shop during regular business hours.
 
 ### Buy local data with an eSIM, without changing your SIM card
@@ -34,7 +42,7 @@ on demand without needing to change SIM cards. Even if you don't purchase the pl
 you can use such a service as a redundant option if your local or roaming SIM
 is not getting reliable service.
 
-[Use this link to get $3 free credit for Airalo](http://airalo.refr.cc/rebeccadodd). Some tips for using Airalo:
+Some tips for using Airalo:
 
 - Purchase your eSIM before you travel and be sure to activate it while connected to WiFi.
 - Have another phone handy so that you can take a picture of the QR code needed to activate your eSIM. This way you can scan it with the phone you're using with the eSIM.

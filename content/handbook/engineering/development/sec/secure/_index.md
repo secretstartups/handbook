@@ -27,7 +27,7 @@ The Secure team works on GitLab's [Secure stage].
 
 ## Sub-department development people leaders
 
-{{< stable-counterparts role="Director(.*)Secure|Manager(.*)Secure$|Staff(.*)Secure" >}}
+{{< team-by-manager-slug manager="thomaswoodham" team="Manager(.*)Secure" >}}
 
 To contact Secure stage development people leaders leaders use the following aliases:
 
@@ -435,19 +435,19 @@ The Secure group reviews analytics to help understand customers and their usage 
 
 ## Cross-functional Backlog
 
-**[Sisense](https://app.periscopedata.com/app/gitlab/1000952/Interdepartment-Embedded-Dashboard)**
-
 We also track our backlog of issues, including past due security and infradev issues, and total open SUS-impacting issues and bugs.
 
-{{< sisense-with-filters dashboard="1000952" Stage="secure" visible="team_group,stage,development_section" >}}976854
+{{< tableau height="600px" toolbar="hidden" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/TopEngineeringMetrics/TopEngineeringMetricsDashboard" >}}
+  {{< tableau/filters "STAGE_LABEL"="secure" >}}
+{{< /tableau >}}
 
 ## Merged Merge Request Types
 
-**[Sisense](https://app.periscopedata.com/app/gitlab/976854/Merge-Request-Types-Detail)**
-
 MR Type labels help us report what we're working on to industry analysts in a way that's consistent across the engineering department. The dashboard below shows the trend of MR Types over time and a list of merged MRs.
 
-{{< sisense-with-filters dashboard="976854" Stage="secure" visible="team_group,stage,development_section" >}}
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/MergeRequestMetrics/OverallMRsbyType_1" >}}
+  {{< tableau/filters "STAGE_LABEL"="secure" >}}
+{{< /tableau >}}
 
 ## Common Links
 

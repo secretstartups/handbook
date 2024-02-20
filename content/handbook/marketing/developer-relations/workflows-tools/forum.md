@@ -291,7 +291,7 @@ Steps for bannering on Discourse:
 
 The Discourse instance `forum.gitlab.com` is operated by the Discourse team on [their SaaS platform](https://www.discourse.org/pricing). The Discourse platform was started as self-hosted instance in 2015, and later [migrated to Discourse SaaS in February 2020](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/139). The domain is managed by the GitLab infrastructure team.
 
-Updates and important security fixes are applied by the Discourse team. Technical owners can reach out to their support team. For business organization and subscription updates, please open [a confidential issue in the Developer Evangelist Meta Project](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues).
+Updates and important security fixes are applied by the Discourse team. Technical owners can reach out to their support team. For business organization and subscription updates, please open [a confidential issue in the Developer Advocate Meta Project](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues).
 
 In October 2021, the Discourse forum exceeded 1 million monthly page views. More metric reports can be created using the [Admin dashboard](https://forum.gitlab.com/admin).
 
@@ -308,7 +308,7 @@ Discourse uses [trust levels](https://meta.discourse.org/t/trust-level-permissio
 
 ##### Nomination for Trust Level 4
 
-Please open a [new issue in the Developer Evangelist Meta Project](https://gitlab.com/gitlab-com/marketing/developer-relations/dev-evangelism/de-tmm-meta/-/issues) and share the user profile URL and a detailed reason why they should be promoted to trust level 4. Assign the issue to technical owners using this quick action: `/assign @dnsmichi @sugaroverflow`. Administrators will review and reach out to nominated community members.
+Please open a [new issue in the Developer Advocate Meta Project](https://gitlab.com/gitlab-com/marketing/developer-relations/dev-evangelism/de-tmm-meta/-/issues) and share the user profile URL and a detailed reason why they should be promoted to trust level 4. Assign the issue to technical owners using this quick action: `/assign @dnsmichi @sugaroverflow`. Administrators will review and reach out to nominated community members.
 
 ##### Team Member Trust Level
 
@@ -331,7 +331,7 @@ For requesting a new category, please review the following steps:
 
 1. Do you want to filter specific topics, or subscribe to notifications? If yes, please consider using [tags](#tags) instead.
 1. New categories should fit as subcategory into the existing top-level categories. We try to avoid bigger layout changes to avoid breaking contributor workflows.
-1. Create a [new issue in the Developer Evangelist Meta Project](https://gitlab.com/gitlab-com/marketing/developer-relations/dev-evangelism/de-tmm-meta/-/issues) to discuss, and add details about forum DRIs, expected topic count, and impact. Assign the issue to technical owners using this quick action: `/assign @dnsmichi @sugaroverflow`.
+1. Create a [new issue in the Developer Advocate Meta Project](https://gitlab.com/gitlab-com/marketing/developer-relations/dev-evangelism/de-tmm-meta/-/issues) to discuss, and add details about forum DRIs, expected topic count, and impact. Assign the issue to technical owners using this quick action: `/assign @dnsmichi @sugaroverflow`.
 
 #### Tags
 
@@ -344,7 +344,7 @@ The tag group [`feedback`](https://forum.gitlab.com/tag_groups/6) includes the f
 
 #### Settings
 
-Administrators can modify the [Discourse settings](https://forum.gitlab.com/admin/site_settings/category/all_results). Please open a [new issue in the Developer Evangelist Meta Project](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues) to suggest, discuss and document changes. Note that plugins are installed by contacting Discourse Support.
+Administrators can modify the [Discourse settings](https://forum.gitlab.com/admin/site_settings/category/all_results). Please open a [new issue in the Developer Advocate Meta Project](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues) to suggest, discuss and document changes. Note that plugins are installed by contacting Discourse Support.
 
 The `Only show overridden` checkbox can be helpful to see modified settings. The most notable changes are documented below.
 
@@ -386,7 +386,7 @@ Requires an administrative login. Open an issue with mockup design before changi
 
 Workflow for applying customizations:
 
-1. Create a [new issue in the Developer Evangelist Meta Project](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues) to propose changes, including design mockups, screenshots, etc.
+1. Create a [new issue in the Developer Advocate Meta Project](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues) to propose changes, including design mockups, screenshots, etc.
 1. Apply the changes to the custom theme, colors, etc.
 1. Persist the changes for the custom theme in the [discourse-assets](https://gitlab.com/gitlab-de/projects/discourse-assets) project.
 
@@ -402,7 +402,7 @@ The Discourse subscription plan includes many [plugins](https://forum.gitlab.com
 
 Most administrative tasks will be done from the [Discourse Admin Dashboard](https://forum.gitlab.com/admin). The dashboard provides metrics and dashboards for page views, user engagements, and community health stats.
 
-Create a [new issue in the Developer Evangelist Meta Project](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues) to document changes in settings, handle abusive behavior and other administrative tasks.
+Create a [new issue in the Developer Advocate Meta Project](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues) to document changes in settings, handle abusive behavior and other administrative tasks.
 
 The [Logs section](https://forum.gitlab.com/admin/logs/staff_action_logs) provides an audit log of all actions.
 

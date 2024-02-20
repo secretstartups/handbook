@@ -31,7 +31,7 @@ We define incidents as a deviation from the intended process that significantly 
 ### Incident Detection
 _(DRI: The team/individual detecting the issue)_
 
-1. Create an issue and fill all necessary information using the [Analytics Instrumentation Incident Template](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/issue_templates/Analytics_Instrumentation_Incident_Template).
+1. Create an issue and fill all necessary information using the [Analytics Instrumentation Incident Template](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Analytics+Instrumentation+Incident).
 1. Add appropriate label using the below guideline
     - `~"Analytics Instrumentation::Incident-High Severity"` for impending loss of data for many metrics or moderate to severe loss in business critical metrics that have a performance_indicator_type value.
     - `~"Analytics Instrumentation::Incident-Medium Severity"` for data delay.
@@ -349,7 +349,7 @@ A milestone commitment is a list of issues our team aims to complete in the mile
 
 #### Work Type Classification
 
-Per the [Next Prioritization](/handbook/company/team/structure/working-groups/cross-functional-prioritization/) initiative, we will review our team's performance in applying appropriate [type labels](https://docs.gitlab.com/ee/development/labels/index.html#type-labels) to MRs. At the close of the milestone, on the Planning Issue, the EM or PM will post a link to [this dashboard](/handbook/engineering/development/analytics/analytics-instrumentation/#merged-merge-request-types) along with a summary of shipped work by type label (include null) to ensure we are observing the [recommended work split](/handbook/company/team/structure/working-groups/cross-functional-prioritization/#exit-criteria) of 60% feature, 30% maintenance, 10% bugs, and <=5% undefined.
+Per the [Next Prioritization](/handbook/company/working-groups/cross-functional-prioritization/) initiative, we will review our team's performance in applying appropriate [type labels](https://docs.gitlab.com/ee/development/labels/index.html#type-labels) to MRs. At the close of the milestone, on the Planning Issue, the EM or PM will post a link to [this dashboard](/handbook/engineering/development/analytics/analytics-instrumentation/#merged-merge-request-types) along with a summary of shipped work by type label (include null) to ensure we are observing the [recommended work split](/handbook/company/working-groups/cross-functional-prioritization/#exit-criteria) of 60% feature, 30% maintenance, 10% bugs, and <=5% undefined.
 
 ##### Clarifying Maintenance vs. Feature Work
 
@@ -377,29 +377,11 @@ We group related issues together using parent [epics](https://docs.gitlab.com/ee
 - The description of the parent epic should always be kept up-to-date as the single source of truth.
 - Epics and Child Epics must have the same section and group labels to see them on our roadmap.
 
-### Issue labels
+### Issues
 
-We use issue labels to keep us organized. Every issue has a set of required labels that the issue must be tagged with. Every issue also has a set of optional labels that are used as needed.
+When creating an issue, use the [linked template](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Analytics Instrumentation Issue) and follow its instructions.
 
-**Required labels**
-- Section `~devops::analytics`
-- Group `~"group::analytics instrumentation"`
-- [Workflow:](/handbook/product-development-flow/#workflow-summary) `~"workflow::planning breakdown"`, `~"workflow::ready for development"`, `~"workflow::in dev"`, etc.
-- [Type:](/handbook/engineering/metrics/#work-type-classification) `~"type::bug"`, `~"type::feature"`, `~"type::tooling"`, `~"type::maintenance"`
-
-(Easy to copy list: `~devops::analytics ~"group::analytics instrumentation" ~"workflow::planning breakdown" ~"workflow::ready for development" ~"workflow::in dev" ~"type::bug" ~"type::feature" ~"type::tooling" ~"type::maintenance"`)
-
-### Issue description
-
-The description for an issue assigned to our group should always include the following sections:
-
-- **Problem**: The problem being adressed by this issue.
-- **Desired Outcome**: The desired state of the affected system after this issue has been completed.
-- **Potential Solution(s)**: An outline of potential solutions to get to the desired outcome. These solution(s) can still be adjusted throughout the implementation as long as the desired outcome is achieved.
-- **How to verify**: How can we verify that the desired outcome has been achieved? The instrcutions from this section should be used to move the issue from ~"worfklow::verification".
-- **Further actions needed**: Any further tasks that need to be completed after the main work of the issue is done, such as announcing the changes or updating documentation.
-
-The sections **Potential Solution(s)** and **How to verify** can initially be empty but should to be filled when preparing the issue for development.
+In case the issue is not created for the [GitLab project](https://gitlab.com/gitlab-org/gitlab), copy the template's content into the appropriate project.
 
 ### Merge request labels
 
@@ -483,4 +465,3 @@ All new team members to the Analytics Instrumentation teams are provided an onbo
 | [Privacy Policy](/privacy/)        | Our privacy policy outlining what data we collect and how we handle it     |
 | [Analytics Instrumentation Direction](https://about.gitlab.com/direction/analytics/analytics-instrumentation/)  | The roadmap for Analytics Instrumentation at GitLab  |
 | [GitLab Performance Snowplow Dashboards ](./gitlab_com_performance_dashboard.html) | Performance dashboards for GitLab.com via Snowplow  |
-| [FAQ](/handbook/product/analytics-instrumentation-guide/faq) | A list of questions and answers related with Service Ping and Snowplow |

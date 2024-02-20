@@ -14,165 +14,144 @@ As per
 > when a ticket has been opened. Another can be created to then notify the
 > customer when the ticket is solved.
 
-## How GitLab manages Zendesk triggers
+## Change management
+
+Keep in mind, all change management should be stemming from an issue, first and
+foremost.
+
+#### Creating a new trigger with managed content
+
+When your new trigger is going to be using managed content, you will first
+need to get the managed content file in the Support managed content project.
+Remember to use the correct filenames for all of this to prevent
+[Pipeline error “No managed content file”](#pipeline-error-no-managed-content-file)
+in the sync repo project later on.
+
+Only after that has been done should you proceed to the next steps, which will
+match the steps detailed in
+[Creating a new trigger without managed content](#creating-a-new-trigger-without-managed-content)
+exactly.
+
+#### Creating a new trigger without managed content
+
+This is a bit simpler than creating one with managed content. You will start by
+creating a placeholder trigger within Zendesk itself (as you will need the ID
+for the sync repo). To do this, open up the admin page of your corresponding
+Zendesk instance ([Global](https://gitlab.zendesk.com/admin) or
+[US Government](https://gitlab-federal-support.zendesk.com/admin)), click
+`Objects and rules` on the left-hand side, and then click `Triggers`. On this
+page, you will want to click `Add trigger`. This will bring up the new trigger
+page.
+
+On this page, you will do the following:
+
+- Set the name to "Placeholder for ISSUE_LINK" (replacing `ISSUE_LINK` with the
+  link to the issue you are working out of).
+- Select the category you plan on the trigger being in
+- Set an `all` conditons of:
+  - `Brand` `is not` `GitLab`
+- Set an action of:
+  - `Brand` `GitLab`
+
+After doing so, click the blue `Create` button. You will then locate the
+placeholder trigger you just created and get the ID value from it (if you click
+it, you can see it in the URL).
+
+From here, create the merge request in the sync repo project. Keep in mind you
+are likely to need to adjust **many** trigger files due to positioning.
+
+#### Updating an existing trigger
+
+Updating an existing trigger is considerably easier than creating a new one.
+Simply change change the code in the source project and it will occur via the
+sync repo.
+
+The one caveat you need to consider is when you are changing a trigger to allow
+for managed content (or to disable it using managed content).
+
+If you are adding managed content for the automation, see
+[Creating a new trigger with managed content](creating-a-new-trigger-with-managed-content)
+as that process will detail setting up the connection.
+
+If you are removing managed content for the trigger, you will simply change the
+the trigger file in the source sync repo project via your merge request. After
+that has been merged, you will want to comment on the original issue asking the
+requester to remove the file from the corresponding Support managed content
+project.
+
+#### Deactivating a trigger
+
+To deactivate a trigger, you will simply change the trigger file in the source
+sync repo project via your merge request. Ensure you merge request does the
+following:
+
+- Moves the file from the `data/active` folder to the `data/inactive` folder
+- Sets `active: true` to `active: false` in the file.
+- Set an `all` conditons of:
+  - `Brand` `is not` `GitLab`
+- Set an action of:
+  - `Brand` `GitLab`
+
+#### Deleting a deactivated trigger
+
+**NOTE** We avoid doing this unless a trigger has been deactivated for a full
+year. After that point it can be deleted completely. Do also note that this
+will result in a complete change to `positions` and can cause the need for
+subsequent merge requests to the sync repo project.
+
+To delete a trigger, you need to purge it from multiple locations:
+
+- Sync repo project
+- Support managed content project
+- Zendesk itself
+
+The first two can be done via merge requests, but the last one has to be done in
+the Zendesk instance itself. To do this, open up the admin page of your
+corresponding Zendesk instance ([Global](https://gitlab.zendesk.com/admin) or
+[US Government](https://gitlab-federal-support.zendesk.com/admin)), click
+`Objects and rules` on the left-hand side, and then click `Triggers`. On this
+page, you will want to click the `Status` dropdown and select `Inactive`. You
+will then locate the trigger to delete, hover over it, click the three vertical
+dots at the right-hand side, and then click `Delete` This will cause a pop-up
+modal to appear asking you to confirm the action. Click red `Delete trigger`
+button to do so.
+
+#### Pipeline error "No managed content file"
+
+This happens when we have said a managed content file should exist, but the git
+submodule does not contain one. This is commonly caused by:
+
+- The file does not actually exist. If this is the case, you need to assist in
+  getting it created in the Support managed content project
+- Filename mismatches. This all works very specifically using naming
+  conventions. If there is something even *slightly* off, your pipelines will
+  encounter issues. The scripts are looking for a file that has the **exact**
+  same name as the triggers's `title` and be within a corresponding folder using
+  the same name as the trigger's category. So if your trigger has a title of
+  `Do a Thing` and it is within the category `Assignee`, the corresponding
+  Support managed content project should have a file with the same name in the
+  corresponding category folder (`Assignee/Do a Thing.md`). You will need to
+  assist in correcting that on the Support managed content project first, and
+  then rebase your merge request after that is done.
+- You created the merge request in the source project before the file was added
+  to the Support managed content project. To rectify this, get the Support
+  managed content project MR completed and merged first. Once that has been
+  done, you can rebase your MR by making a comment of `/rebase`. After it
+  performs the rebase, your MR's CI/CD pipeline should pass.
+
+## Source Projects
 
 #### Zendesk Global
-
-We currently utilize a [v2 sync repo](../../change_management/sync_repos#v2) for
-managing triggers in Zendesk Global.
-
-The two projects that make this work are:
 
 - [Support managed content project](https://gitlab.com/gitlab-com/support/zendesk-global/triggers)
 - [Sync repo project](https://gitlab.com/gitlab-support-readiness/zendesk-global/triggers)
 
-Deployments are done on the 1st of each month at 0000 UTC.
-
-The basic process for management of triggers would be:
-
-```mermaid
-graph TD;
-  A -->|Content modification| B
-  A -->|Anything else| E
-  B --> C
-  C --> D
-  D --> I
-  E --> F
-  F -->|Actions modification| G
-  F -->|Creation| K
-  F -->|Deactivation| N
-  G --> H
-  H --> I
-  I --> J
-  K --> L
-  L --> M
-  M --> G
-  N --> G
-  A{What kind of change is it?}
-  B[Merge request created<br>in Support managed<br>content project]
-  C[Support Manager reviews,<br>approves, and merges<br>the changes]
-  D[Webhook fires to trigger<br>submodule update on<br>sync repo project]
-  E[support-team-meta issue is created]
-  F{Support Readiness determines<br>actions needed}
-  G[Support Readiness creates<br>merge request in<br>sync repo project]
-  H[Support Readiness reviews,<br>approves, and merges<br>the changes]
-  I[Commit is made on default<br>branch of sync repo project]
-  J[Sync scripts perform updates to<br>Zendesk during next deployment]
-  K[Support Readiness creates<br>placeholder trigger in Zendesk]
-  L[Support Readiness creates<br>merge request in Support<br>managed content project]
-  M[Support Manager reviews,<br>approves, and merges<br>the changes]
-  N[Support Readiness tells<br>Support to move the file<br>in the Support managed<br>content project after a<br>specific date]
-```
-
 #### Zendesk US Government
-
-We currently utilize a [v2 sync repo](../../change_management/sync_repos#v2) for
-managing triggers in Zendesk Global.
-
-The two projects that make this work are:
 
 - [Support managed content project](https://gitlab.com/gitlab-com/support/zendesk-us-government/triggers)
 - [Sync repo project](https://gitlab.com/gitlab-support-readiness/zendesk-us-government/triggers)
 
-Deployments are done on the 1st of each month at 0000 UTC.
-
-The basic process for management of triggers would be:
-
-```mermaid
-graph TD;
-  A -->|Content modification| B
-  A -->|Anything else| E
-  B --> C
-  C --> D
-  D --> I
-  E --> F
-  F -->|Actions modification| G
-  F -->|Creation| K
-  F -->|Deactivation| N
-  G --> H
-  H --> I
-  I --> J
-  K --> L
-  L --> M
-  M --> G
-  N --> G
-  A{What kind of change is it?}
-  B[Merge request created<br>in Support managed<br>content project]
-  C[Support Manager reviews,<br>approves, and merges<br>the changes]
-  D[Webhook fires to trigger<br>submodule update on<br>sync repo project]
-  E[support-team-meta issue is created]
-  F{Support Readiness determines<br>actions needed}
-  G[Support Readiness creates<br>merge request in<br>sync repo project]
-  H[Support Readiness reviews,<br>approves, and merges<br>the changes]
-  I[Commit is made on default<br>branch of sync repo project]
-  J[Sync scripts perform updates to<br>Zendesk during next deployment]
-  K[Support Readiness creates<br>placeholder trigger in Zendesk]
-  L[Support Readiness creates<br>merge request in Support<br>managed content project]
-  M[Support Manager reviews,<br>approves, and merges<br>the changes]
-  N[Support Readiness tells<br>Support to move the file<br>in the Support managed<br>content project after a<br>specific date]
-```
-
-## Performing actions in Zendesk
-
-**NOTE**: This is for documentation and instruction purpose. An admin level
-account is required and these should only be performed when actually warranted,
-such as when creating a placeholder trigger.
-
-#### Creating a trigger via Zendesk
-
-To create a trigger in Zendesk, you first need to go to the Admin Center
-([Zendesk Global](https://gitlab.zendesk.com/admin/) /
-[Zendesk US Federal](https://gitlab-federal-support.zendesk.com/admin/)). From
-there, you need to go to the Triggers page (Objects and rules > Business rules >
-Triggers).
-
-After doing so, you will then click the `Add trigger` button on the top-right
-side of the page. This will then load up the new trigger page.
-
-From here, you will:
-
-1. enter a title for the trigger.
-1. select a category for the trigger.
-1. enter the conditions that **all** must be met to activate this trigger.
-1. enter the conditions of which **any** of them can activate this trigger (in
-   conjunction with the **all** conditions).
-1. enter the actions for the trigger to perform
-
-After doing this, you will then click the blue `Create trigger` button.
-
-**Note**: By default, the trigger's position will be set to the bottom of the
-select category. To adjust this, see [Positioning](#positioning).
-
-#### Editing a trigger via Zendesk
-
-Editing a Zendesk trigger is very similar to
-[creating one](#creating-a-trigger-via-zendesk). You will follow the same
-steps to get to the triggers page. Instead of clicking the `Add trigger`
-button, you will instead locate the trigger to edit in the list and click on
-the title (if your trigger is currently inactive, you will need to click the
-dropdown under `Status` and select `Inactive`).
-
-Doing so will bring up the trigger editor page. From here, you can tweak the
-various aspects of the trigger. Once you have the edits in place, ensure the
-dropdown at the bottom right says `Update` and click the blue `Submit` button.
-
-#### Deactivating a trigger via Zendesk
-
-There are actually two ways to deactivate a trigger in the Zendesk UI. The
-quicker way is to go to the triggers page, locate the trigger in question, hover
-over it, and click the three vertical dots on the right-hand side. This will
-bring up a sub-menu, which contains the option to `Deactivate`. Click that
-option and the trigger will be deactivated.
-
-The alternative way to deactivate a trigger in the Zendesk UI is from within
-the trigger editor page. At the bottom right, ensure the drop-down says
-`Deactivate` and then click the blue `Submit` button.
-
-**Note**: Deactivating a trigger does not change its position. This value is
-retained in the backend. Re-enabling the trigger will have it take the same
-position it was in while previously active.
-
-#### Positioning
+## Positioning
 
 Many components of Zendesk using positioning to determine the overall run order.
 With triggers being event-based events, it is often *very* important to consider
@@ -195,7 +174,7 @@ triggers into the order you desire. After making the changes, click the blue
 While this does not matter in the UI, it will matter in the repo sync we
 utilize.
 
-#### Trigger standards
+## Trigger standards
 
 To ensure all triggers we utilize are both consistent in nature and transparent
 in their actions, we strive to meet some standards on all triggers we work with.

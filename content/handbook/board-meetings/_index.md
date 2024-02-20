@@ -47,7 +47,7 @@ Audit Committee meetings are attended by:
 
 **Meeting Process**
 
-The Staff EBA to the CEO is the DRI of scheduling the quarterly Compensation and Leadership Development Committee meeting in conjunction with the Chairperson, Management DRI and their Sr. EBA
+The Legal and People Group EBAs are the DRIs of scheduling the quarterly Compensation and Leadership Development Committee meeting in conjunction with the Chairperson, Management DRI and their Sr. EBA
 
 1. Timing: 2-3 weeks prior to the formal Board of Directors Meeting and aligned with Audit Committee
 1. Duration: 80min
@@ -62,14 +62,8 @@ Compensation and Leadership Development Committee meetings are attended by:
 - Outside Compensation Consultant and Outside Counsel
 - All Board Members including the CEO are invited to all Committee meetings as optional attendees
 
-**Compensation & Leadership Development Committee Schedule:**
 
-The 2022 schedule of Compensation & Leadership Development Committee meetings is as follows:
 
-- 2022-03-11 (Friday) - 11am - 12:20pm PST
-- 2022-06-14 (Tuesday) - 10:30am - 11:50am PST
-- 2022-09-07 (Wednesday) - 10:30am -11:50am PST
-- 2022-12-7 (Wednesday) - 10:30am - 11:50am PST
 
 ### Nominating and Corporate Governance Committee
 
@@ -253,7 +247,7 @@ The Finance slides are as follows:
 
 ### CEO Memo
 
-The CEO is responsible for submitting a memo to the BoD in advance of the Board meeting. The memo captures GitLab highlights from the previous quarter, CEO OKRs for the coming quarter, and other topics that are top of mind for the CEO. The CoS to the CEO supports the CEO by creating an initial draft and sharing it with the CEO a week before the final draft is shared with E-Group. The memo should have online tests for readability before they are finalized or shared with the CEO. A tool, such as https://readable.com/, can be used.
+The CEO is responsible for submitting a memo to the BoD in advance of the Board meeting. The memo captures GitLab highlights from the previous quarter, company OKRs for the coming quarter, and other topics that are top of mind for the CEO. The CoS to the CEO supports the CEO by creating an initial draft and sharing it with the CEO a week before the final draft is shared with E-Group. The memo should have online tests for readability before they are finalized or shared with the CEO. A tool, such as https://readable.com/, can be used.
 
 ### Board Dinner
 

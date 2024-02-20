@@ -1,11 +1,11 @@
 ---
-title: "GitLab with Git Essentials - Hands-On Lab 1"
+title: "GitLab with Git Essentials - Hands-On Lab: Create a project and issue"
 description: "This Hands-On Guide walks you through the lab exercises used in the GitLab with Git Essentials course."
 ---
 
-# Lab 1: Create a project and issue
-
 > Estimated time to complete: 30 minutes
+
+> **We are transitioning to the latest version of this course.**  If your group URL starts with `https://spt.gitlabtraining.cloud`, please use the [Version 15.x instructions](https://gitlab.com/gitlab-com/content-sites/handbook/-/blob/d14ee71aeac2054c72ce96e8b35ba2511f86a7ca/content/handbook/customer-success/professional-services-engineering/education-services/gitbasicshandsonlab1.md).
 
 ## Objectives
 
@@ -21,7 +21,7 @@ GitLab provides various tools for tracking and managing projects. In this lab, y
 
 1. Select **Provision Training Environment**.
 
-1. The system then prompts you for your **GitLab.com** username. Enter your GitLab.com user in the field provided. Select **Provision Training Environment**.
+1. The system then prompts you for your **GitLab.com** username. Enter your GitLab.com user (excluding the leading @ sign) in the field provided. Select **Provision Training Environment**.
 
 1. On the confirmation page, locate the `Your GitLab Credentials` section. Read this section carefully, noting the credential information provided and the expiration date. Your access to this group and all of the projects that you create is ephemeral and will be deleted after the expiration date.
 
@@ -105,7 +105,7 @@ GitLab provides various tools for tracking and managing projects. In this lab, y
 
    > When you create a label in a project, the label is created at the project level. This means that the label will not be available in any other projects. It is possible to also create a group level label, which is available to all projects in a group.
 
-1. Using the previous three steps, create two additional labels for with the titles `Completed` and `Needs documentation`. These labels can have any background colors that you desire.
+1. Using the previous three steps, create two additional labels with the titles `Completed` and `Needs documentation`. These labels can have any background colors that you desire.
 
 1. You now have 3 labels that are now available for you to assign to any issue, merge request, or epic in your project.
 

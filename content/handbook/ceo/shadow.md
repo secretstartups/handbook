@@ -127,18 +127,15 @@ For those with regular commitments, look for shorter weeks or timezone variation
 
 | Start date | End date | See one | Teach one | Schedule Notes |
 | ---------- | -------- | ------- | --------- | -------------- |
-| 2024-01-15 | 2024-01-19 | [Ben Venker](https://gitlab.com/bvenker) - Sr. PM, Global Search | [Javier Garcia](https://gitlab.com/jgarc) - Frontend Engineer, Digital Experience | REMOTE - PT, TUES - FRI |
-| 2024-01-22 | 2024-01-26 | [Riley Longo](https://gitlab.com/rilongo) - Customer Service Manager | [Ben Venker](https://gitlab.com/bvenker) - Sr. PM, Global Search | REMOTE - PT |
-| 2024-01-29 | 2024-02-02 | [Dilan Orrino](https://gitlab.com/dorrino) - Sr Product Manager | [Riley Longo](https://gitlab.com/rilongo) - Customer Service Manager | REMOTE - PT |
 | 2024-02-05 | 2024-02-09 | [Deepika Guliani](https://gitlab.com/deepika.guliani) - Frontend Engineer, Plan:Project Management | [Dilan Orrino](https://gitlab.com/dorrino) - Sr Product Manager | REMOTE - PT |
-| 2024-02-12 | 2024-02-14 | [Miracle Banks](https://gitlab.com/miraclebanks) - Full Stack Engineer | [Deepika Guliani](https://gitlab.com/deepika.guliani) - - Frontend Engineer, Plan:Project Management  | REMOTE - PT, MON - WED |
-| 2024-02-20 | 2024-02-23 | [Emma Neuberger](https://gitlab.com/eneuberger) - Sr Product Analyst | [Miracle Banks](https://gitlab.com/deepika.guliani) - Full Stack Engineer | REMOTE - PT, TUES - FRI |
+| 2024-02-12 | 2024-02-14 | [Taimur Khan](https://gitlab.com/tkhan.gitlab) - Staff CSM, Industry Lead | [Deepika Guliani](https://gitlab.com/deepika.guliani) - - Frontend Engineer, Plan:Project Management  | REMOTE - PT, MON - WED |
+| 2024-02-20 | 2024-02-23 | [Emma Neuberger](https://gitlab.com/eneuberger) - Sr Product Analyst | [Taimur Khan](https://gitlab.com/tkhan.gitlab) - Staff CSM, Industry Lead | REMOTE - PT, TUES - FRI |
 | 2024-02-26 | 2024-03-01 | [Viktor Nagy](https://gitlab.com/nagyv-gitlab) - Senior Product Manager, Deploy:Environments | [Emma Neuberger](https://gitlab.com/eneuberger) - Sr Product Analyst | REMOTE - PT |
 | 2024-03-04 | 2024-03-08 |  [Aleesha Dawson](https://gitlab.com/adawson-gitlab) - Senior Customer Success Manager | [Viktor Nagy](https://gitlab.com/nagyv-gitlab) - Senior Product Manager, Deploy:Environments | REMOTE - PT |
 | 2024-03-11 | 2023-03-15 | NO SHADOW | NO SHADOW | SUMMIT - PT |
-| 2024-03-18 | 2024-03-22 | OPEN |  [Aleesha Dawson](https://gitlab.com/adawson-gitlab) - Senior Customer Success Manager | REMOTE - PT |
+| 2024-03-18 | 2024-03-22 | [Miracle Banks](https://gitlab.com/miraclebanks) - Full Stack Engineer |  [Aleesha Dawson](https://gitlab.com/adawson-gitlab) - Senior Customer Success Manager | REMOTE - PT |
 | 2024-03-25 | 2024-03-29 | [Bartek Marnane](https://gitlab.com/bmarnane) - VP, Incubation Engineering | [Mek Stittri](https://gitlab.com/meks) - VP of Infrastructure & Quality | In person - Bay Area |
-| 2024-04-01 | 2024-04-05 | [Jeremy Wagner](https://gitlab.com/jeremywagner) - Sr Solutions Architect | OPEN | REMOTE - PT |
+| 2024-04-01 | 2024-04-05 | [Jeremy Wagner](https://gitlab.com/jeremywagner) - Sr Solutions Architect | [Miracle Banks](https://gitlab.com/miraclebanks) - Full Stack Engineer | REMOTE - PT |
 | 2024-04-08 | 2024-04-12 | [Karen Kwentus](https://gitlab.com/kkwentus1) - Sr Solutions Architect | [Jeremy Wagner](https://gitlab.com/jeremywagner) - Sr Solutions Architect | REMOTE - PT |
 | 2024-04-15 | 2024-04-19 | [Djordje Micovic](https://gitlab.com/dmicovic) - Sr Data Analyst, Marketing Analytics - REMOTE | [Karen Kwentus](https://gitlab.com/kkwentus1) - Sr Solutions Architect | REMOTE - PT |
 | 2024-04-22 | 2024-04-26 | [Sam Wiskow - Senior Product Manager, Delivery & Scalability](https://gitlab.com/swiskow)  | [Djordje Micovic](https://gitlab.com/dmicovic) - Sr Data Analyst, Marketing Analytics  | REMOTE - PT |
@@ -374,7 +371,11 @@ Share [thanks]({{< ref "communication#say-thanks" >}}) in the `#thanks` Slack ch
 
 #### Positivity scores
 
-Immediately following meetings, score the CEO on overall positivity score from 1 to 5. The score should focus on the CEO's presence and reactions during the meeting. The Shadows should put themselves in the shoes of team members who are in attendance. How positive and empowered would they feel after leaving the meeting? Each shadow should give a score for all meetings attended. At the end of the day, post the score for each meeting to the `#ceo-shadow-private` Slack channel and `@` mention the CEO.
+Immediately following meetings, score the CEO on overall positivity score from 1 to 5. The score should focus on the CEO's presence and reactions during the meeting. The Shadows should put themselves in the shoes of team members who are in attendance. How positive and empowered would they feel after leaving the meeting? Each shadow should give a score for all meetings attended.
+
+If your score for a meeting was below a 5, immediately following the meeting, send Sid a Slack DM with your score and the reasoning.
+
+At the end of the day, post the score for each meeting to the `#ceo-shadow-private` Slack channel and `@` mention the CEO.
 
 Score definitions:
 
@@ -425,7 +426,7 @@ A tweet storm is a series of Twitter posts usually made as replies in a single t
     1. Consider [looking at the CEO's social media accounts for tone and style]({{< ref "ceo#connecting-on-social-media" >}}).
     1. Each tweet can contain 280 characters, URLs are counted differently. Make sure to test each tweet with the Twitter web form to tweet.
     1. When you add URLs, use the [card validator](https://cards-dev.twitter.com/validator) to render a preview. This can help to refine the tweet text.
-    1. More message tips can be found in the [Developer Evangelism on Social Media handbook](/handbook/marketing/developer-relations/developer-evangelism/social-media/#message-tips).
+    1. More message tips can be found in the [Developer Advocacy on Social Media handbook](/handbook/marketing/developer-relations/developer-evangelism/social-media/#message-tips).
     1. [2021-12-15 example for Chief of Staff videos](https://docs.google.com/document/d/1BL2ZBtqF5fKdQox0p2lde_qv-75rXwYmQNHvKJnUR-8/edit) (internal).
 1. Once complete, change the document's Owner to the [Chief of Staff to the CEO]({{< ref chief-of-staff >}}).
 
@@ -800,4 +801,7 @@ CEO Shadow Program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2023-01-02 | 2023-01-06 | [Aaron Burgess](https://gitlab.com/GitlabAaron) | IBM Alliance Business Development Manager | |
 | 2023-01-16 | 2023-01-20 | [Stacy Cline](https://gitlab.com/slcline) | Sr Director, ESG | |
 | 2024-01-02 | 2024-01-05 | [Cynthia "Arty" Ng](https://gitlab.com/cynthia) | Staff, Strategy & Operations |  |
-| 2024-01-02 | 2024-01-12 | [Yin Yu](https://gitlab.com/yyugitlab) | Director, Strategy & Operations |  |
+| 2024-01-02 | 2024-01-12 | [Yin Yu](https://gitlab.com/yyugitlab) | Director, Strategy & Operations | [Why It's Worth a 6am Start - tips for timezone challenged team members](https://www.youtube.com/watch?v=NWrAxl0T6N0) |
+| 2024-01-08 | 2024-01-19 | [Javier Garcia](https://gitlab.com/jgarc) | Frontend Engineer, Digital Experience | [Shadowing the CEO of GitLab](https://blog.javiergarcia.io/posts/ceo-shadow-learning/) |
+| 2024-01-15 | 2024-01-26 | [Ben Venker](https://gitlab.com/bvenker) | Sr. PM, Global Search |  |
+| 2024-01-22 | 2024-02-02 | [Riley Longo](https://gitlab.com/rilongo) | Customer Service Manager | |

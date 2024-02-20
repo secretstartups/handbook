@@ -8,7 +8,7 @@ description: "The Inbound Marketing team run tests to improve visitor experience
 
 We test changes at GitLab to verify a hypothesis for design or copy changes. These changes can use a variety of tools and methods, but the goal is the same: to make changes to help improve the visitor experience and better explain the value of GitLab.
 
-We don't test fixes for typos, link updates, or other structural improvements to the site. 
+We don't test fixes for typos, link updates, or other structural improvements to the site.
 
 **Goals**
 
@@ -35,7 +35,7 @@ Testing requires a control and a variant within the same time period, while hold
 1. Keeping it MVC: Not all changes to changes need to be tested. We should test changes to our key conversion pages, and these pages/elements are key areas we test often:
     * [Homepage](/)
     * Top navigation
-    * [Pricing page](/pricing/)
+    * [Pricing page](https://about.gitlab.com/pricing/)
     * [Free trial](/free-trial/)
     * [Contact sales](/sales/)
 1. Please check [CODEOWNERS](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/CODEOWNERS) to see if a page being tested. We updated the `#Active tests` sections, [@shanerice](https://gitlab.com/shanerice) and [@dmor](https://gitlab.com/dmor) will appear as approvers on any MRs with active tests.
@@ -48,11 +48,11 @@ Always gather relevant heatmaps, analytics, metrics, KPI (key performance indica
 
 We will announce major tests in #whats-happening-at-gitlab on Slack. A major test is anything on a page with more than 10,000 pageviews in the last 30 days. For example, tests on `/pricing/`, `/free-trial/` and sub-pages, and the homepage would all qualifiy as major tests. The announcement should share basic details and timeline of the testing and link to the test issue for additional context.
 
-The DRI for the test should share the original Slack announcement in appropriate channels (#sales, #marketing, etc.). 
+The DRI for the test should share the original Slack announcement in appropriate channels (#sales, #marketing, etc.).
 
 ## Testing Tools
 
-We use different tools for different kinds of tests. 
+We use different tools for different kinds of tests.
 
 Feature flag tests replace enitre pages or large sections of a page with a test.
 

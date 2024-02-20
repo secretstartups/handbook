@@ -1,6 +1,6 @@
 ---
 title: Contact Management Projects
-description: Support Operations documentation page for contact managemrnt projects
+description: Support Operations documentation page for contact management projects
 canonical_path: "/handbook/support/readiness/operations/docs/gitlab/contact_management_projects"
 ---
 
@@ -36,8 +36,8 @@ contact management project.
 
 #### Intro stage
 
-**NOTE** If the customer is using a SaaS subscription, we should only accept
-requests if the requester is an `Owner` on the parent group.
+**NOTE** If the customer is using a gitlab.com subscription, we should only
+accept requests if the requester is an `Owner` on the parent group.
 
 In this stage, a customer has requested to have a contact management project
 setup via a Support Ops ticket. Before we can begin the setup, we need to

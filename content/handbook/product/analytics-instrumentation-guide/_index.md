@@ -32,28 +32,6 @@ There are several stages and teams involved to go from collecting data to making
 
 [Editable source file](https://docs.google.com/spreadsheets/d/144-BLh7uyX4aY23QNrvke5BqCcb9xfPk2BL4qGFvzFY/edit?usp=sharing)
 
-## Systems Overview
-
-The systems overview is a simplified diagram showing the interactions between GitLab Inc and self-managed instances.
-
-![Analytics Instrumentation Overview](analytics_instrumentation_systems_overview.png)
-
-[Source file](https://app.diagrams.net/#G13DVpN-XnhWGz9tqReIj8pp1UE4ehk_EC)
-
-| GitLab SaaS |GitLab Self-managed|
-|---|---|
-|For Analytics Instrumentation purposes, GitLab Inc has three major components: <br><br> 1. [Data Infrastructure](/handbook/business-technology/data-team/platform/infrastructure/): This contains everything managed by our data team including Sisense Dashboards for visualization, Snowflake for Data Warehousing, incoming data sources such as PostgreSQL Pipeline and S3 Bucket, and lastly our data collectors [GitLab.com's Snowplow Collector](https://gitlab.com/gitlab-com/gl-infra/readiness/-/tree/master/library/snowplow/) and GitLab's Versions Application. <br><br> 2. GitLab.com: This is the production GitLab application which is made up of a Client and Server. On the Client or browser side, a Snowplow JS Tracker (Frontend) is used to track client-side events. On the Server or application side, a Snowplow Ruby Tracker (Backend) is used to track server-side events. The server also contains Service Ping which leverages a PostgreSQL database and a Redis in-memory data store to report on usage data. Lastly, the server also contains System Logs which are generated from running the GitLab application.<br><br> 3. [Monitoring infrastructure](/handbook/engineering/monitoring/): This is the infrastructure used to ensure GitLab.com is operating smoothly. System Logs are sent from GitLab.com to our monitoring infrastructure and collected by a FluentD collector. From FluentD, logs are either sent to long term Google Cloud Services cold storage via Stackdriver, or, they are sent to our Elastic Cluster via Cloud Pub/Sub which can be explored in real-time using Kibana.|For Analytics Instrumentation purposes, self-managed instances have two major components: <br><br> 1. Data infrastructure: Having a data infrastructure setup is optional on self-managed instances. If you'd like to collect Snowplow tracking events for your self-managed instance, you can setup your own self-managed Snowplow collector and configure your Snowplow events to point to your own collector. <br><br> 2. GitLab: A self-managed GitLab instance contains all of the same components as GitLab.com mentioned above.|
-
-#### Differences between GitLab Inc and Self-managed
-
-As shown by the orange lines, on GitLab.com Snowplow JS, Snowplow Ruby, Service Ping, and PostgreSQL database imports all flow into GitLab Inc's data infrastructure. However, on self-managed, only Service Ping flows into GitLab Inc's data infrastructure.
-
-As shown by the green lines, on GitLab.com system logs flow into GitLab Inc's monitoring infrastructure. On self-managed, there are no logs sent to GitLab Inc's monitoring infrastructure.
-
-Note: Snowplow JS and Snowplow Ruby are available on self-managed, however, the Snowplow Collector endpoint is set to a self-managed Snowplow Collector which GitLab Inc does not have access to.
-
-## SaaS Data Collection Catalog
-
 Our SaaS data collection catalog spans both the client (frontend) and server (backend), and uses various tools. We pick-up events and data produced when using the application. By utilizing collected [identifiers](/handbook/product/analytics-instrumentation-guide/#data-used-as-identifiers), we can string these backend and frontend events together to illustrate a GitLab journey at the (1) [user](/handbook/product/analytics-instrumentation-guide/#example-user-journey) (pseudonymized), (2) namespace, and (3) project level.
 
 The below table explains the types of data we collect from GitLab.com and examples for what it can be used.

@@ -8,7 +8,7 @@ title: Manager Challenge
 
 Team member can reach out in the [#learninganddevelopment Slack channel](https://app.slack.com/client/T02592416/CMRAWQ97W) with any questions about upcoming manager training or utilize their [Growth and Development benefit]({{< ref "/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development" >}}) for external training opportunities.
 
-You can learn more about our current manager development program on our [Elevate handbook page]({{< ref "elevate" >}}).
+You can learn more about our current manager development program on our [Elevate handbook page]({{< ref "elevate-programs" >}}).
 
 ## Introduction
 

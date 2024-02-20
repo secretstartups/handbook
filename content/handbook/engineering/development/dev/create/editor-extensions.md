@@ -105,6 +105,17 @@ We use three weights to give a rough estimate of the issue's complexity. The wei
 
 Everything above weight `3` should be a spike that will result in one or more issues with estimated weight.
 
+### Development Workflow
+
+The work in progress is captured on our [Workflow Board](https://gitlab.com/groups/gitlab-org/-/boards/7248909?milestone_title=16.8&label_name%5B%5D=group%3A%3Aeditor+extensions).
+For issues to appear on this board, they must have `~"group::editor extensions"` label and current milestone.
+
+We use the following subset of the `workflow` labels to indicate the state of the issue:
+
+- `~"workflow::ready for development"` - the issue has been described, estimated and scheduled, and it's ready to be picked up and worked on.
+- `~"workflow::in dev"` - the issue has an assigned person who started implementing it.
+- `~"workflow::in review"` - the spike/implementation is finished, and someone needs to review the spike result or the last MR (the last MR because if there are more MRs to implement, only the last one should result in the change of the workflow label).
+
 ### Temporary silos
 
 Our team owns several projects, written in different languages (Typescript, Kotlin, C#, Lua) and targeting different platforms.

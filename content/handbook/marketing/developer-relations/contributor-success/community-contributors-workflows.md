@@ -61,7 +61,7 @@ More information on merge request coaches (including how to become a merge reque
 
 ## Contributing to the GitLab Enterprise Edition (EE)
 
-For community contributors to contribute to the [GitLab Enterprise Edition](https://gitlab.com/gitlab-org/gitlab-ee), they will need a license for EE. If they don't already have a license, they can get a [free trial for 30 days](/free-trial/) (choose the Self-Managed option). If they cannot complete their work in 30 days, a new EE license for 90 days for a limited number of users (100) can be issued.
+For community contributors to contribute to the [GitLab Enterprise Edition](https://gitlab.com/gitlab-org/gitlab-ee), they will need a license for EE. If they don't already have a license, they can get a [free trial for 30 days](https://about.gitlab.com/free-trial/) (choose the Self-Managed option). If they cannot complete their work in 30 days, a new EE license for 90 days for a limited number of users (100) can be issued.
 
 Renewal of this license:
 
@@ -201,7 +201,7 @@ To generate the external community message:
   - Open floor for the community to bring topics
 - Include instructions on how to join
   - Link to zoom (or any other video platform)
-- Add the event to the [Developer Evangelism calendar](/handbook/marketing/developer-relations/developer-evangelism/calendar). If you are not a GitLab Team Member, ask a member of the [Developer Relations](/handbook/marketing/developer-relations/) team to add the event to the calendar.
+- Add the event to the [Developer Advocacy team calendar](/handbook/marketing/developer-relations/developer-evangelism/calendar). If you are not a GitLab Team Member, ask a member of the [Developer Relations](/handbook/marketing/developer-relations/) team to add the event to the calendar.
 - Follow the instructions below for social support or open a request at the [Code Contributor's planning repo](https://gitlab.com/gitlab-com/marketing/community-relations/contributor-program/general/issues/new?issuable_template=event-support-request).
 
 ### Social
@@ -238,14 +238,14 @@ To facilitate communication between the wider community and GitLab team members,
 
 Calls will be open to everyone and recordings will be posted after the call. See examples of past office hours from [this playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrXZEInAfyddFlalvwaxL-I). To make it easier for the community to find the videos, each stage should create their own office hours playlist and link to it from their handbook page.
 
-All the community office hour calls should be added to the [Developer Evangelism calendar](/handbook/marketing/developer-relations/developer-evangelism/#-team-calendar) and [meetup.com group](https://www.meetup.com/gitlab-virtual-meetups/).
+All the community office hour calls should be added to the [Developer Advocacy calendar](/handbook/marketing/developer-relations/developer-evangelism/#-team-calendar) and [meetup.com group](https://www.meetup.com/gitlab-virtual-meetups/).
 
 #### How to organize a community office hour call
 
 **Preparation**
 - Once you have a finalized date and time, add it to:
   - the [meetup.com group](https://www.meetup.com/gitlab-virtual-meetups/) (meetup.com account available at your GitLab's 1Password vault)
-  - the [developer evangelism calendar](/handbook/marketing/developer-relations/developer-evangelism/#-team-calendar)
+  - the [developer advocacy calendar](/handbook/marketing/developer-relations/developer-evangelism/#-team-calendar)
 - Update [the office hour running notes doc](https://docs.google.com/document/d/18ddf5d5xASImrYnAG9P8VJXe0I63SBXy7ufDBBNB5H4/edit#) with the Zoom URL and call details
 - Announce it [on Discord](https://discord.gg/gitlab)
 - Tweet about it, [tagging GitLab](https://twitter.com/gitlab)

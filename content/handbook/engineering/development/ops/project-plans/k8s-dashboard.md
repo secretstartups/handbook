@@ -106,7 +106,7 @@ Epic: [https://gitlab.com/groups/gitlab-org/-/epics/11112](https://gitlab.com/gr
 
 #### Week of Dec 25-28
 
-- [ ] *forecast*: [Iteration 1 of the Kubernetes cronJobs page](https://gitlab.com/gitlab-org/gitlab/-/issues/428318) is done
+- [x] *forecast*: [Iteration 1 of the Kubernetes cronJobs page](https://gitlab.com/gitlab-org/gitlab/-/issues/428318) is done
 
 #### Week of Jan 1-5
 

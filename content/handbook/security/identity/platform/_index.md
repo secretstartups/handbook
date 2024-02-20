@@ -51,6 +51,14 @@ The Identity Platform is designed to use the API for each of the vendors and pro
 
 While many vendors have partial capabilities and some overlap, the ease-of-use and integrations vary drastically and we have had a lot of inefficiency problems in Identity v2. Since Group management is at the heart of the problem, the Identity Platform is primarily focused on group user management automation that is used downstream in vendor configurations that we automate using Terraform where possible.
 
+### Open Source
+
+Although the risks that we need to solve are confidential, we believe in open sourcing the best practice documentation and tools to solve those risks after we have mitigated the risk to give back to the community and inspire other companies.
+
+**We are stronger and more secure together.**
+
+Our Identity Platform open source projects can be explored at [https://gitlab.com/gitlab-identity](https://gitlab.com/gitlab-identity). Our team members also maintain side project packages that are useful dependencies and development helpers at [https://gitlab.com/provisionesta](https://gitlab.com/provisionesta).
+
 ## Terminology
 
 ### Identity Types
@@ -90,13 +98,29 @@ We have defined RBAC slugs for each functional team in Infrastructure that inclu
 - `infra_orchestration`
 - `infra_practices`
 
-Each of these functional teams has team members that report to one or two managers. From a policy perspective, we associate a user with a role based on their `manager` in most cases, or a specific job `title` or a named user `handle` if needed.
+Each of these functional teams usually has 1-10(ish) team members that report to one or two managers. Some functional teams may be larger (ex. product manager, sales roles, etc).
+
+From a policy perspective, we associate a user with a role based on their `manager` in most cases, or a specific job `title` or a named user `handle` if needed.
 
 There is no need for a specific role for most of these teams (no IAM difference between the Site Reliability Engineer title and Engineering Manager title). For teams that have approval permission requirements, we will suffix `_engineer`, `_manager`, `_leader`, etc as appropriate. We may also suffix the region for certain roles (ex. `sales_ent_amer_east_northeast`). For roles that aren't necessarily on a specific team, `_general` (Staff/Principal Engineers across multiple functions), `_ext` (contractors with least privilege access), and others at the Identity Team's naming convention discretion.
 
 The team manager and department leadership is responsible for naming their functional teams. The Identity team is responsible for parsing the handbook pages or provided organization chart documentation for each team and creating the short hand standardized abbreviation nomenclature.
 
 As our organization structure ebbs and flows, we have 200-250 unique Identity Roles at any given time.  See all of the roles in the [policies](https://gitlab.com/gitlab-com/gl-security/identity/data-poc/policies) and [manifests](https://gitlab.com/gitlab-com/gl-security/identity/data-poc/manifests) repositories.
+
+| Division/Function | Identity Roles | Upstream Data Source |
+|-------------------|----------------|----------------------|
+| Administrators | [Policies](https://gitlab.com/gitlab-com/gl-security/identity/data-poc/policies/-/blob/main/role/policies/black_ops.yml?ref_type=heads) | Identity Engineering |
+| Executive | [Policies](https://gitlab.com/gitlab-com/gl-security/identity/data-poc/policies/-/blob/main/role/policies/business_executive.yml?ref_type=heads) | Identity Engineering |
+| Finance | [Policies](https://gitlab.com/gitlab-com/gl-security/identity/data-poc/policies/-/blob/main/role/policies/business_finance.yml?ref_type=heads) | Managers and Job Titles |
+| Legal | [Policies](https://gitlab.com/gitlab-com/gl-security/identity/data-poc/policies/-/blob/main/role/policies/business_legal.yml?ref_type=heads) | Identity Engineering |
+| Marketing | [Policies](https://gitlab.com/gitlab-com/gl-security/identity/data-poc/policies/-/blob/main/role/policies/business_marketing.yml?ref_type=heads) | Department Names |
+| People | [Policies](https://gitlab.com/gitlab-com/gl-security/identity/data-poc/policies/-/blob/main/role/policies/business_people.yml?ref_type=heads) | [Handbook Page](https://handbook.gitlab.com/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group) and Manager |
+| Sales | [Policies](https://gitlab.com/gitlab-com/gl-security/identity/data-poc/policies/-/blob/main/role/policies/business_sales.yml?ref_type=heads) | Sales EBA Team and Department/Manager |
+| Product Development | [Policies](https://gitlab.com/gitlab-com/gl-security/identity/data-poc/policies/-/blob/main/role/policies/product_dev.yml?ref_type=heads) | [DevOps Stages](https://handbook.gitlab.com/handbook/product/categories/#devops-stages) / [YAML](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/stages.yml?ref_type=heads) |
+| Product Production | [Policies](https://gitlab.com/gitlab-com/gl-security/identity/data-poc/policies/-/blob/main/role/policies/product_prd.yml?ref_type=heads) | [Handbook Page](/handbook/engineering/infrastructure/#organization-structure) |
+| Security | [Policies](https://gitlab.com/gitlab-com/gl-security/identity/data-poc/policies/-/blob/main/role/policies/security.yml?ref_type=heads) | [Handbook Page](/handbook/security/#division-structure) |
+| Service Accounts | [Policies](https://gitlab.com/gitlab-com/gl-security/identity/data-poc/policies/-/blob/main/role/policies/service_accounts.yml?ref_type=heads) | Identity Engineering |
 
 ### Identity Organization Units
 

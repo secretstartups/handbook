@@ -14,7 +14,9 @@ description: "The CI Data Partitioning Weekly Project Plan - Pipeline Execution 
 - 17.0: ci_job_artifacts, ci_stages tables partitioned
 - 17.2: ci_pipelines table partitioned
 - 17.3: ci_pipelines, ci_job_artifacts, ci_stages, and ci_pipeline_variables second partitions in use
-- 17.6: rebalancing complete for partitioned tables
+- 17.6: (very rough estimate) start rebalancing for partitioned tables
+- 17.9: (very rough estimate) complete rebalancing for partitioned tables
+-
 
 [Related Epic](https://gitlab.com/groups/gitlab-org/-/epics/5417)
 
@@ -148,7 +150,7 @@ We are still coordinating with infrastructure to switch the table name. Hopefull
 
 #### Goals:
 
-This week we will work on the items that were pushed forward from last week. 
+This week we will work on the items that were pushed forward from last week.
 We aim to switch ci_builds to use the routing table rather than directly using the partition. We will also
 enable the query analyzers for the ci_builds and ci_builds_metadata table to ensure their performance is not being
 significantly negatively impacted. We will continue to work on MRs to update filters in queries to use the partition_id.
@@ -188,8 +190,8 @@ We will enable the use of the partitions in self-managed for ci_builds.
 - 1 BE
 
 #### Goals:
-Now that we have the table name switched over in production we are moving forward with enabling the query analyzers. 
-We will continue working on query updates. 
+Now that we have the table name switched over in production we are moving forward with enabling the query analyzers.
+We will continue working on query updates.
 
 
 #### Task List:
@@ -220,7 +222,7 @@ We plan to start updating the queries to include the partition_id in filtering f
 - 1 BE
 
 #### Goals:
- This week we aim to have the partitioning enabled for self-manage. 
+ This week we aim to have the partitioning enabled for self-manage.
  We also plan to have the required queries updated so that we can fully take advantage of partitioning for ci_builds and ci_builds_metadata.
 
 #### Task List:
@@ -245,11 +247,11 @@ With the expanded team, we will also start the partitioning effort for ci_job_ar
 We plan to start writing to the second partition of ci_builds and ci_builds_metadata.
 We will reintroduce the migration to ensure uniqueness of ids across partitions of ci_builds and ci_builds_metadata for self-managed.
 
-#### Update: 
+#### Update:
 
 We completed the critical query updates needed in order to start writing to the second partition of ci_builds and ci_builds_metadata.
 We actually started writing to the second partition of ci_builds and ci_builds_metadata!
-We have made significant progress on the partitioning for ci_pipeline_variables. 
+We have made significant progress on the partitioning for ci_pipeline_variables.
 We have also started work on ci_job_artifacts and ci_stages.
 
 ### Milestone 16.8 (December 18, 2023 - January 12, 2024)
@@ -259,7 +261,7 @@ We have also started work on ci_job_artifacts and ci_stages.
 
 #### Goals:
 
-We plan to continue making incremental progress towards the partitioning of all 3 of ci_pipeline_variables, ci_job_artifacts, and ci_stages tables. 
+We plan to continue making incremental progress towards the partitioning of all 3 of ci_pipeline_variables, ci_job_artifacts, and ci_stages tables.
 This is a light milestone due to year end PTO.
 
 ### Week of December 18, 2023
@@ -267,17 +269,17 @@ This is a light milestone due to year end PTO.
 
 - 4 BE
 
-#### Update: 
-We may be able to start work on ci_pipelines as soon as this milestone. We need to swap the primary key on the table before we can start the 
+#### Update:
+We may be able to start work on ci_pipelines as soon as this milestone. We need to swap the primary key on the table before we can start the
 partitioning effort. Originally we planned to wait until a backfill of foreign keys on ci_builds was complete to do the PK swap. After consulting
-with the database team we plan to move ahead with the swap prior to completion. 
+with the database team we plan to move ahead with the swap prior to completion.
 
 ### Week of December 25, 2023
 #### Team Capacity:
 
 - 0 BE
 
-#### Goals: 
+#### Goals:
 
 Resting - Team members are on much deserved PTO.
 
@@ -299,6 +301,8 @@ Resting - Team members are on much deserved PTO.
 
 #### Update:
 
+Given the backfill was so close to completing, we decided to wait for it to complete before moving forward with partitioning.
+
 
 ### Milestone 16.9 (January 15, 2024 - February 9, 2024)
 #### Team Capacity:
@@ -307,22 +311,26 @@ Resting - Team members are on much deserved PTO.
 #### Goals:
 
 This milestone we will complete the partitioning of ci_pipeline_variables. We will start the partitioning of ci_pipelines.
-We will continue incremental work to partition ci_job_artifacts, and ci_stages tables. 
-We will continue identifying and updating necessary sql queries to include partition_id. 
+We will continue incremental work to partition ci_job_artifacts, and ci_stages tables.
+We will continue identifying and updating necessary sql queries to include partition_id.
 We will flesh out work necessary for the time-decay mechanism and partition manager to dynamically create partitions.
 
 ### Week of January 15, 2024
 #### Team Capacity:
 
-- 5 BE
+- 4 BE
 
 #### Update:
+We realized there are more indexes that need to be rebuilt for ci_pipelines on ci_builds before we are able to swap the primary keys.
+As a result, we do not think we will be able to pull in the timeline for ci_pipelines partitioning any more than currently planned.
+We also ran into a potential roadblock for re-distributing the existing large partitions into smaller ones. We may need to wait until the PG15 upgrade is complete.
+Other planned work is continuing. Some team capacity is helping with regular Pipeline Execution tasks this milestone.
 
 
 ### Week of January 22, 2024
 #### Team Capacity:
 
-- 5 BE
+- 4 BE
 
 #### Update:
 
@@ -352,7 +360,7 @@ We will flesh out work necessary for the time-decay mechanism and partition mana
 
 This milestone we will start work on the time decay mechanism and partition manager.
 Incremental work will continue towards partitioning of ci_job_artifacts, ci_stages, and ci_pipelines.
-We will continue identifying and updating necessary sql queries to include partition_id. 
+We will continue identifying and updating necessary sql queries to include partition_id.
 
 
 ### Milestone 16.11 (March 11, 2024 - April 12, 2024)
@@ -362,7 +370,7 @@ We will continue identifying and updating necessary sql queries to include parti
 #### Goals:
 Incremental work will continue towards partitioning of ci_job_artifacts, ci_stages, and ci_pipelines.
 Work will continue on the tiem decay mechanism and partition manager.
-We will continue identifying and updating necessary sql queries to include partition_id. 
+We will continue identifying and updating necessary sql queries to include partition_id.
 
 
 ### Milestone 17.0 (April 15, 2024 - May 10, 2024)
@@ -372,7 +380,7 @@ We will continue identifying and updating necessary sql queries to include parti
 #### Goals:
 
 This milestone we will complete the partitioning of ci_job_artifacts and ci_stages.
-We will continue identifying and updating necessary sql queries to include partition_id. 
+We will continue identifying and updating necessary sql queries to include partition_id.
 
 
 ### Milestone 17.1 (May 13, 2024 - June 14, 2024)
@@ -390,8 +398,8 @@ We will make efforts to clean up any remaining tech debt that we have created - 
 
 #### Goals:
 
-This milestone we will complete the partitioning of ci_pipelines. 
-We will continue identifying and updating necessary sql queries to include partition_id. 
+This milestone we will complete the partitioning of ci_pipelines.
+We will continue identifying and updating necessary sql queries to include partition_id.
 We will make efforts to clean up any remaining tech debt that we have created - we've been tracking it as we go.
 
 ### Milestone 17.3 (July 15, 2024 - Aug 9, 2024)
@@ -434,4 +442,6 @@ We will make efforts to clean up any remaining tech debt that we have created - 
 - 1 BE
 
 #### Goals:
+We can start rebalancing old partitions using functionality in PG15 - [Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/438394).
+[GitLab Postgres Upgrade Cadence](https://handbook.gitlab.com/handbook/engineering/infrastructure/core-platform/data_stores/database/postgresql-upgrade-cadence/)
 

@@ -28,7 +28,7 @@ Partner, alliance, and customer contributor guidelines can be found [here](https
 
 ## How to suggest a blog idea - NEW PROCESS
 
-Please create an issue using the [blog submission template](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/-/issues/new?issuable_template=blog-post-submission).
+Please create an issue using the [blog submission template](https://gitlab.com/gitlab-com/marketing/brand-product-marketing/content-strategy-and-ops/blog/-/issues/new?issuable_template=blog-post-submission).
 
 * Answer all the questions on the template. They help us provide feedback on your idea.
 * Submit your idea at least two weeks before your targeted publication date.

@@ -120,7 +120,7 @@ GitLab monitors, measures, and improves security controls through various contin
 - [Annual third-party penetration testing]({{< ref "penetration-testing-policy" >}})
 - [Ongoing third party scorecard monitoring (BitSight)]({{< ref "independent_security_assurance#third-party-security-ratings" >}})
 - [Infrastructure Vulnerability scanning]({{< ref "./threat-management/vulnerability-management" >}})
-- [Application Vulnerability Scanning]({{< ref "./security-engineering/application-security/vulnerability-management" >}})
+- [Application Vulnerability Scanning]({{< ref "./product-security/application-security/vulnerability-management" >}})
 - [HackerOne bug bounty program]({{< ref "hackerone-process" >}})
 - [Audit log monitoring]({{< ref "audit-logging-policy" >}})
 - ISMS Council (annual management review)

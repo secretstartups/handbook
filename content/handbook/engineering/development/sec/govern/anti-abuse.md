@@ -22,7 +22,7 @@ You are encouraged to work as closely as needed with our [stable counterparts](/
 Other teams that we might collaborate with include but are not limited to:
 
 - [Govern:Authentication and Authorization](/handbook/engineering/development/sec/govern/authentication-and-authorization/)
-- [Growth:Acquisition and Activation](/handbook/engineering/development/growth/)
+- [Growth:Acquisition and Activation](/handbook/marketing/growth/engineering/)
 - [Fulfillment:Fulfillment Platform](/handbook/engineering/development/fulfillment/fulfillment-platform/#team-members)
 
 Here are some examples of when to engage with your counterpart:
@@ -51,7 +51,21 @@ The following people are permanent members of the Anti-Abuse Group:
 
 Our team uses a hybrid of Scrum for our project management process. This process follows GitLab's [monthly milestone release cycle](/handbook/marketing/blog/release-posts/#schedule).
 
-{{% cross-functional-dashboards filters="anti-abuse" %}}
+{{< tableau height="600px" toolbar="hidden" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/TopEngineeringMetrics/TopEngineeringMetricsDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="anti abuse" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/MergeRequestMetrics/OverallMRsbyType_1" >}}
+  {{< tableau/filters "GROUP_LABEL"="anti abuse" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/Flakytestissues/FlakyTestIssues" >}}
+  {{< tableau/filters "GROUP_NAME"="anti abuse" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/SlowRSpecTestsIssues/SlowRSpecTestsIssuesDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="anti abuse" >}}
+{{< /tableau >}}
 
 ### Workflow
 

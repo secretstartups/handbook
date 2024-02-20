@@ -41,6 +41,8 @@ We use Discord bots and integrations to manage our community.
 | [NeedleBot](https://needle.gg/) | A discord bot that creates Discord threads automatically. |
 | Community Pairs | Custom bot that announces the GitLab Live Stream. |
 
+In order to maintain our custom invite link `https://discord.gg/gitlab`, we maintain a Server Boost Level 3 through 14 server boosts, paid annually.
+
 ## Moderation
 
 We strive to maintain a positive environment on the Discord server. These moderation guidelines are designed to ensure an inclusive and respectful environment for all community members. At this time, GitLab team members and [GitLab core team](https://about.gitlab.com/community/core-team/) members serve as moderators. 
