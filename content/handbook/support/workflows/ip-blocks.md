@@ -158,6 +158,17 @@ An IP can become rate-limited if a customer attempts to export or download proje
 
 - `json.path`: `/namespace/project/download_export`
 
+### Email verification process
+
+In certain cases, when the customer is using a shared user account to run pipelines, a signing sign in from a new IP address will trigger [Account email verifiation](https://docs.gitlab.com/ee/security/email_verification.html). this will block the account, and all tokens, until the signing is verify. This could cause enough `401` errors to trigger an [IP block](https://docs.gitlab.com/ee/user/gitlab_com/index.html#ip-blocks).
+
+#### Useful Fields
+
+- `json.details.custom_message` : `User access locked - sign in from untrusted IP address`
+- `json.custom_message`: `User access locked - sign in from untrusted IP address`
+- `json.entity_path` - The user name of the account
+
+
 ### Handling GitLab.com "Access Denied" errors (CloudFlare Block)
 
 There may be cases where a user is being blocked by CloudFlare and they are not being blocked due to rate limiting. You can typically request a screenshot of the CloudFlare “Access Denied” page or have the customer perform a `curl` with the `-i` flag to retrieve the relevant headers:
