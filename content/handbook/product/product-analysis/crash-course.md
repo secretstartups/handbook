@@ -236,7 +236,7 @@ Contains helpful information about how Create operates and current team members
 
 </details>
 
-### Ops Section
+### CI Section
 
 #### Verify Stage
 
@@ -377,6 +377,8 @@ GitLab Docs are awesome!
 [List of Package team members and their stable counterparts to contact if needed](/handbook/engineering/development/ops/package/#team-members)
 
 </details>
+
+### CD Section
 
 #### Deploy Stage
 
