@@ -202,11 +202,7 @@ If the word the forms part of a brand or publication's name, capitalize it. Omit
 
 
 #### GitLab feature names
-All GitLab feature names are capitalized. If referring to a feature as a general concept, use lower case.
-
-> ✅ _GitLab Issue Boards_ are a powerful project management and collaboration tool.
-> 
-> ✅ The editorial team uses _issues_ to track the progress of blog posts.
+Generally, GitLab feature names are lowercase, but there are exceptions. Refer to the [recommended word list in the documentation](https://docs.gitlab.com/ee/development/documentation/styleguide/word_list.html) if you're unsure.
 
 
 #### GitLab functions, departments, and teams
