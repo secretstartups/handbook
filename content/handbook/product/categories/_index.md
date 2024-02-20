@@ -380,4 +380,6 @@ It does not mean, however, that a single group should necessarily be solely resp
 
 For more information please review [this section in the quality department handbook](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#shared-responsibility-issues) to learn more about a decentralized approach to triaging these types of issues.
 
+### Categories A-Z
+
 {{< categories-index >}}
