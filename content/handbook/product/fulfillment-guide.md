@@ -31,12 +31,6 @@ description: "The Fulfillment Sub-department is responsible for the infrastructu
 | [Quote-to-Cash systems documentation (EntApps)](/handbook/business-technology/enterprise-applications/quote-to-cash/) | Overview of systems, EntApps Architecture, Process Flow Diagrams, Entity Relationship Diagrams |
 | [Quote-to-Cash process](/handbook/business-technology/enterprise-applications/quote-to-cash/#quote-to-cash-introduction) | EntApps documentation including systems and process diagrams. |
 
-## Helpful data links
-
-1. [Supersonics dashboard (Cloud Licensing, QSRs, Auto-renewal, operational data sync)](https://app.periscopedata.com/app/gitlab:safe-dashboard/919356/Supersonics-Executive-Dashboard) - **Limited Access**
-1. [L&R Ticket Ratio](https://app.periscopedata.com/app/gitlab:safe-dashboard/919342/SM-SaaS-Subscription-to-L&R-Ticket-Ratio) **Limited Access**
-1. [Version Upgrade Rate](https://app.periscopedata.com/app/gitlab/406972/Version-Upgrade-Rate) **Not Public**
-
 ## How to connect with us
 
 If your question is not answered by the key links above or this guide:
