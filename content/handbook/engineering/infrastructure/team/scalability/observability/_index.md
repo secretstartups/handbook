@@ -74,9 +74,6 @@ Between these different signals, we have a relatively (im)precise view into the 
 
 We default to working inline with the GitLab [values](/handbook/values/) and by following the processes of the wider [SaaS Platforms section](/handbook/engineering/infrastructure/platforms/project-management/) and [Scalability group](/handbook/engineering/infrastructure/team/scalability/#how-we-work). In addition to this, listed below are some processes that are specific, or particularly important, to how we work in Scalability:Observability.
 
-### Handbook First
-
-In line with the broader GitLab culture, we adopt a [Handbook First](https://handbook.gitlab.com/handbook/handbook-usage/#why-handbook-first) approach to documenting our team's workflow. Should you have any proposals aimed at enhancing our processes, please initiate a Merge Request (MR) to update the handbook. Assign the MR to `@lmcandrew` and tag the `@gitlab-org/scalability/observability` team in a comment to solicit feedback. If there are no objections within three working days of tagging the team, the MR will be deemed ready for merging. We adhere to the principle of making [two-way door decisions](https://handbook.gitlab.com/handbook/values/#make-two-way-door-decisions) meaning additional MRs can be created to suggest changes or removals of processes that are deemed inefficient.
 
 ### Issue management
 
