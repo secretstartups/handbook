@@ -114,7 +114,7 @@ Consistent with GitLab’s policy governing Hiring Significant Others or Family 
 - #1 GitLab Team Member (needs to sign)
 - #2 New Hire (needs to sign)
 - #3 CES (receives a copy)
-1. After all parties have signed, upload a copy into both the new hire and the current GitLab team members Workday profile.
+1. After all parties have signed, upload a copy into the new hire's Workday profile.
 1. Upload Family Member Relationship Acknowledgement form into Workday.
    - Sign into Workday
    - Search the new hire's name
@@ -123,10 +123,11 @@ Consistent with GitLab’s policy governing Hiring Significant Others or Family 
    - Select "Add"
    - Click "Select Files" and choose appropriate saved PDF
    - Select "OK"
-   - Under "Document Category" select "Contracts & Changes"
+   - Under "Document Category" select "Pre-hire documents & Changes"
    - Under "Comment" write "Family Member Relationship Acknowledgement"
    - Upload
    - Repeat same steps above this time finding the GitLab team member in Workday
+1. For the current team member email the form to people-connect@gitlab.com and ask them to upload the document to Workday.
 
 ### How to Update a Start Date After the Contract is Signed
 
