@@ -40,3 +40,43 @@ The following people are members of the Scalability:Practices team:
 
 - **Slack Updates:** Regular status updates in [#g_scalability-practices](https://gitlab.slack.com/archives/g_scalability-practices) Slack channel with no strict update frequency
 - **Scheduled Calls:** Working async is our preferred and default way of communication. We also have a weekly group call for synchronous discussions on any open questions that async discussions did not cover
+
+### Project Management
+
+Refer to [Scalability Group's Project Management Section](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/scalability/#project-management) for details on how we manage projects particularly the [project ownership](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/scalability/#project-ownership) and [project structure](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/scalability/#project-structure)
+
+#### Project Management Links: Scalability:Practices Team Level
+
+1. [Scalability:Practices Epic Board](https://gitlab.com/groups/gitlab-com/gl-infra/-/epic_boards/39723?label_name[]=group%3A%3Ascalability&label_name[]=team%3A%3AScalability-Practices)
+1. [Scalability:Practices Issue Board](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/5797969?label_name[]=group%3A%3Ascalability&label_name[]=team%3A%3AScalability-Practices)
+1. [Scalability:Practices Issues not in an Epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/5798009?label_name[]=group%3A%3Ascalability&label_name[]=team%3A%3AScalability-Practices&epic_id=None)
+1. [Scalability:Practices Issues by Team Member](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/7363922?label_name[]=team%3A%3AScalability-Practices)
+
+### Issue management
+
+Our work is collaborative across teams and we mainly operate from the [scalability issue tracker](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues). We work from our main epic: [Scaling GitLab’s SaaS Platforms.](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/148)
+
+#### Labels
+
+All issues pertaining to our team have the `~"team::Scalability-Practices"` label.
+
+All issues that are within scope of current work have a `~board::build` or `~board::planning` label.
+All issues require either a Service label or the team-tasks, discussion, or capacity planning labels.
+
+#### Assignees
+
+We use issue assignments to signal who is the DRI for the issue.
+We expect issue assignees to regularly update their issues with the status, and to be as explicit as possible at what has been done and what still needs to be done.
+We expect the assignee of an issue to drive the issue to completion.
+The assignee status typically expresses, that the assigned team member is currently actively working on this or planning to come back to it relatively soon.
+We unassign ourselves from issues we are not actively working on or planning to revisit in a few days.
+
+#### Boards
+
+The Scalability::Practices uses [issue boards](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/) as guided in Scalability group [issue boards section](/handbook/engineering/infrastructure/team/scalability/#issue-boards) to track the progress of ongoing work.
+
+The specific Scalability::Practices boards are:
+1. [Scalability:Practices Build Board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/7355849)
+1. [Scalability:Practices Planning Board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/7363861)
+1. [Runway Build Board](https://gitlab.com/gitlab-com/gl-infra/platform/runway/team/-/boards/5666826)
+1. [Runway Planning Board](https://gitlab.com/gitlab-com/gl-infra/platform/runway/team/-/boards/7292844)
