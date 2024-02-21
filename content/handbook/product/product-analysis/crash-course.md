@@ -55,15 +55,7 @@ This Stage helps teams manage their software delivery lifecycle with metrics and
 
 - [Centralized Metrics](https://10az.online.tableau.com/#/site/gitlab/workbooks/2069845/views): Key reporting dashboard for GitLab product usage metrics.
 
-**Important data documentation**
 
-``` sql
-
-SELECT *
-FROM table
-WHERE field = stage_name
-;
-```
 
 **Helpful video resources**
 
@@ -127,15 +119,7 @@ Enable teams to effectively plan and execute work in a single application. This 
 
 - [Verify Performance Indicator Hub](https://10az.online.tableau.com/#/site/gitlab/views/VerifyPerformanceIndicatorDashboard/VerifyPerformanceIndicatorHub)
 
-**Important data documentation**
 
-``` sql
-
-SELECT *
-FROM table
-WHERE field = stage_name
-;
-```
 
 **Helpful video resources**
 
@@ -188,15 +172,7 @@ Create provides tools that support the beginning of the DevOps Life Cycle. Sourc
 
 - [Handbook page containing engineering analytics dashboards](/handbook/engineering/development/dev/create/engineering-managers/dashboards/)  Used by Create Stage Engineering Managers
 
-**Important data documentation**
 
-``` sql
-
-SELECT *
-FROM table
-WHERE field = stage_name
-;
-```
 
 **Helpful video resources**
 
@@ -253,15 +229,11 @@ Verify provides teams with tools that help facilitate continuous integration. Th
 
 - [Error Budget Dashboard](https://10az.online.tableau.com/#/site/gitlab/workbooks/2270342/views)
 
-**Important data documentation**
+**Important data documentation** 
 
-```sql
-SELECT *
-FROM table
-WHERE field = stage_name
-;
-```
+There are a few models that are exclusive to the Verify stage that you can reference as a SSOT: 
 
+- `wk_gitlab_dotcom_monthly_ci_compute_minutes` is a model you can use to identify the number of runners, pipelines, and CI Build Minutes used on a per project, per namespace level. 
 **Helpful video resources**
 
 [Tanuki Tech: Verify and Secure](https://youtu.be/TgRamhC3ujg)
@@ -323,15 +295,9 @@ Primarily time series analyses for Package features on GitLab.com
 
 - [Centralized Metrics](https://10az.online.tableau.com/#/site/gitlab/workbooks/2069845/views): Key reporting dashboard for GitLab product usage metrics.
 
-
 **Important data documentation**
+- `wk_gitlab_dotcom_package_events` is a model you can use for all Snowplow events related to Package. This includes but is not limited to, package actions for all available Package types on GitLab.com
 
-``` sql
-
-SELECT *
-FROM table
-;
-```
 
 
 **Helpful video resources**
@@ -393,15 +359,8 @@ The Deploy team covers the deployment and release functionality of GitLab
 - [Deploy Performance Indicator Dashboard](https://10az.online.tableau.com/#/site/gitlab/workbooks/2280622/views): Primarily time series analyses for Deploy features on GitLab.com
 
 
-**Important data documentation**
 
-``` sql
 
-SELECT *
-FROM table
-WHERE field = stage_name
-;
-```
 
 **Product roadmap link**
 
@@ -452,15 +411,7 @@ Some seemingly duplicate charts in Dynamic Analysis Metrics are used by the team
 
 - [Centralized Metrics](https://10az.online.tableau.com/#/site/gitlab/workbooks/2069845/views): Key reporting dashboard for GitLab product usage metrics.
 
-**Important data documentation**
 
-``` sql
-
-SELECT *
-FROM table
-WHERE field = stage_name
-;
-```
 
 **Helpful video resources**
 
@@ -505,15 +456,7 @@ Manage security vulnerabilities, policies, and compliance across your organizati
 - [PD: Sec: Govern Metrics](https://10az.online.tableau.com/#/site/gitlab/workbooks/2200383/views)
 
 
-**Important data documentation**
 
-``` sql
-
-SELECT *
-FROM table
-WHERE field = stage_name
-;
-```
 
 **Helpful video resources**
 
