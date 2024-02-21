@@ -100,7 +100,7 @@ A tutorial is a step-by-step demonstration of the process to complete a workflow
 
 
 ## Chat, say hi, quick question
-Slack channel: [#dev-evangelism-and-technical-marketing](https://gitlab.slack.com/archives/CMELFQS4B)
+Slack channel: [#dev-advocacy-team](https://gitlab.slack.com/archives/CMELFQS4B)
 
 ### Content requests
 

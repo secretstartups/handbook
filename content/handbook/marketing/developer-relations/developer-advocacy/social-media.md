@@ -467,7 +467,7 @@ KPIs:
 
 Move social shares into product channels, be it good feedback or additional experts required to answer. Tag GitLab team members and encourage them to respond/discuss on social media when they can benefit from the conversation. For heated discussions, stay within a small group of social media DRIs.
 
-For incoming questions and involving more experts, Developer Advocates can help in Slack in [#dev-evangelism-and-technical-marketing](https://gitlab.slack.com/archives/CMELFQS4B).
+For incoming questions and involving more experts, Developer Advocates can help in Slack in [#dev-advocacy-team](https://gitlab.slack.com/archives/CMELFQS4B).
 
 #### Release Management
 

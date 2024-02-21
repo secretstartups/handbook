@@ -9,7 +9,7 @@ aliases:
 
 The Developer Advocacy team creates content that can be reused for campaigns. All contents and activities the team participates in are added to the team's technical content plan sheet (search for `Technical Content Plan` in Google Drive) and [epics roadmap](/handbook/marketing/developer-relations/developer-evangelism/workflow/#roadmap-view).
 
-You can search for relevant content and contact the team in the linked content epics or in the [#dev-evangelism-and-technical-marketing](https://app.slack.com/client/T02592416/CMELFQS4B) Slack channel. 
+You can search for relevant content and contact the team in the linked content epics or in the [#dev-advocacy-team](https://app.slack.com/client/T02592416/CMELFQS4B) Slack channel. 
 
 ### Click-through Demos
 
@@ -87,7 +87,7 @@ For social media:
 For GitLab teams:
 
 1. Content that can be useful to our Field Teams, should also be posted in [Highspot](https://gitlab.highspot.com/).
-1. Share an update in the [#dev-evangelism-and-technical-marketing](https://app.slack.com/client/T02592416/CMELFQS4B) Slack channel using the following message template:
+1. Share an update in the [#dev-advocacy-team](https://app.slack.com/client/T02592416/CMELFQS4B) Slack channel using the following message template:
 
 
 ```
