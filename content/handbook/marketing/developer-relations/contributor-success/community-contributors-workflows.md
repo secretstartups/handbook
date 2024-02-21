@@ -395,41 +395,13 @@ The goal is to increase code contributors across all segments (except the inacti
 
 Note: this is currently a working list of all locations where we can currently gather contributor metrics. It is not *yet* the final set of metrics we will be using to monitor the success of the contributor program with.
 
-### Bitergia dashboards
-The [Bitergia dashboard](https://gitlab.biterg.io) is public and anyone can use the dashboard to view/filter/export/analyze the data. A good place to start is the [Merged Community MRs dashboard](https://gitlab.biterg.io/app/kibana#/dashboard/f88a8d00-f36b-11e8-8fe1-b354a33b38be) as it includes information that most people are looking for such as merged community MRs, number of contributors (e.g. yearly), top contributors, merged MRs per milestone, etc. You can filter the dashboard data per milestone and repository (e.g. CE vs. EE).
+### Tableau dashboards
+Internally, GitLab uses [Tableau](/handbook/business-technology/data-team/platform/tableau/) for tracking down the performance of various KPIs. Below you can find a list of community-related dashboards.
 
 | Dashboard | Description |
 | --- | --- |
-| [Contributors](https://contributors.gitlab.com) | Metrics associated to contributors (people) and organizations |
-| [Contributions](https://gitlab.biterg.io/app/kibana#/dashboard/f88a8d00-f36b-11e8-8fe1-b354a33b38be) | Metrics associated to contributions (submitted MRs). It contains our main KPI. |
-| [Hackathon](https://gitlab.biterg.io/app/kibana#/dashboard/9097a7d0-55bd-11eb-a6f8-03728e7a4c82) | Metrics associated to the quarterly GitLab Hackathon. Change the time scale to zoom into a specific Hackathon |
-| [Contributions and contributors over time](https://gitlab.biterg.io/app/kibana#/dashboard/1a47afc0-b950-11eb-a6f8-03728e7a4c82?_g=(refreshInterval%3A(pause%3A!t%2Cvalue%3A0)%2Ctime%3A(from%3Anow-10y%2Cmode%3Arelative%2Cto%3Anow))) | Overview of contribution and contributor growth over release, month and year time periods |
-
-There are a number of other custom dashboards also available and to see the full list, click on `dashboard` on the upper left (next to the Bitergia logo) and then select the dashboard link from the list. To learn more about using the Bitergia dashboard, you can view recordings of Bitergia training at the [Bitergia training livestream channel](https://www.youtube.com/playlist?list=PL-gGdYiFOp7_9ij_wNLKyHgZsyhAY42rv). Specific Bitergia documentation is available on the [Bitergia FAQ](https://gitlab.com/Bitergia/c/FAQ).
-
-Identity management is available on Bitergia's [HatStall](https://gitlab.biterg.io/identities/hatstall/profiles). Amongst other capabilities, HatStall enables merging/unmerging identities from the same person (to avoid their contributions being counted multiple times) and enrollment/offboarding identities to organizations. Use the [same login as the main Bitergia platform](#advanced-features-and-login).
-
-#### Advanced features and login
-
-Some administrative features for Bitergia dashboards (e.g. getting a short URL, creating a new permanent dashboard) require a login, and the login information is available in the Team Vault on 1Password.
-
-#### Bitergia License
-
-GitLab has a subscription with Bitergia for an annual membership renewed on the 1st of October each year. Bitergia is responsible for sending a Statement of Work (SOW) to be signed by GitLab, a month prior the expiration of the license. Contributor Success' Director should include the Bitergia subscription in the program's annual budget planning.
-
-#### Contacting Bitergia support
-
-The Bitergia team can be reached out for support and feature requests via their regular [customer contact process](https://gitlab.com/Bitergia/c/FAQ/-/blob/master/how-to-general/README.md#contact-support)
-
-### SiSense dashboards
-Internally, GitLab uses [SiSense](/handbook/business-technology/data-team/platform/sisensecdt/) for tracking down the performance of various KPIs. Below you can find a list of community-related dashboards, similar to Bitergia's ones. Both tools, SiSense and Bitergia, are in sync, and we use Bitergia as the primary metrics platform for community contributions.
-
-| Dashboard | Description |
-| --- | --- |
-| [Wider Community Dashboard](https://app.periscopedata.com/app/gitlab/593556/Wider-Community-Dashboard) | Metrics associated to contributors (people) and organizations |
-| [Community Contributions KPI](https://app.periscopedata.com/app/gitlab/729542/Community-Contributions-KPI) | Metrics associated to [Developer Relations KPIs](/handbook/marketing/developer-relations/performance-indicators/#unique-community-contributors-per-month) (like unique contributors per month, etc) |
-| [Wider Community Contribution Dashboard](https://app.periscopedata.com/app/gitlab/833190/Wider-Community-Contribution-Dashboard) | Metrics associated to community contributions, including time to triage, [MRARR](/handbook/engineering/performance-indicators/#mrarr) forecast for merging month, etc |
-
+| [Wider Community Dashboard](https://10az.online.tableau.com/#/site/gitlab/views/WiderCommunityPIsPart1/WiderCommunityPIsDashboardPart1) | Metrics associated to contributors (people) and organizations |
+| [MRARR Dashboard](https://10az.online.tableau.com/#/site/gitlab/views/MRARRDashboard_17055242209630/MRARRDashboard) | Metrics associated to contributing organizations who are also a customer of GitLab |
 
 ### GitLab.com
 You can also directly query data from `Merge Requests` pages for projects (e.g. CE, EE, Omnibus, Shell, etc.) on gitlab.com and apply appropriate filters for milestone, labels, etc. Some of the examples are listed in the metrics table below.
@@ -437,14 +409,14 @@ You can also directly query data from `Merge Requests` pages for projects (e.g. 
 ### Number of Contributors
 In the past we often mentioned 2,000+ contributors in the GitLab community (GitLab team members + wider community) as you can see in [this example](https://about.gitlab.com/blog/2018/08/13/join-the-gitlab-community/). However, this only included contributors to CE and EE projects based on the old [https://contributors.gitlab.com](https://web.archive.org/web/20190619012814/http://contributors.gitlab.com/) page.
 
-If you include other GitLab projects, the [total number of contributors](https://gitlab.biterg.io/goto/97a5b88e986f2c5d81c017c6413910a1) is much larger.
+If you include other GitLab projects, the total number of contributors is much larger.
 
 - Total code contributors: includes GitLab team members and wider community contributors (since 2015)
 - Wider community code contributors: includes wider community contributors only (since 2015)
 - These figures count contributors who have opened at least one merge request, regardless of whether the merge request has been merged, closed or is still open.
 
-- The number of wider community code contributors with a successful contributions (whose Merge Requests have been merged), can be found by applying the "merged" filter on the [Bitergia dashboard](https://gitlab.biterg.io/goto/2d7a935826f511844c52291300f3d3b2)
-  - See [our top misused terms page](/handbook/communication/top-misused-terms/) for a refresher on the definition of wider community members.
+- The number of wider community code contributors with a successful contributions (whose Merge Requests have been merged), can be found by looking at the Wider Community Dashboard.
+- See [our top misused terms page](/handbook/communication/top-misused-terms/) for a refresher on the definition of wider community members.
 
 When people ask about the number of contributors at GitLab, it's best to clarify if they're asking about total code contributors or wider community code contributors. In most cases, people tend to be more interested in the wider community number.
 
