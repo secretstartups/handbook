@@ -4,7 +4,7 @@ description: "Helpful information about how to prepare and conduct interviews fo
 ---
 ## **Overview**
 
-Interviewing can be challenging for both parties involved. In under an hour, a decision must be made about the potential collaboration. This page aims to provide clear guidelines to ease the interview process for everyone
+Interviewing can be challenging for both parties involved. In under an hour, a decision must be made about the potential collaboration. This page aims to provide clear guidelines to ease the interview process for everyone.
 
 ## Interviewer Training Requirements
 
@@ -144,9 +144,7 @@ It is important that scorecards are completed within 24 hours so Talent Acquisit
 
 We encourage you to read our detailed handbook page on discussing scorecards and best practices before submitting your scorecard.
 
-Scoring is defined as follows:
-
-All divisions but Engineering:
+Scoring is defined as follows (all divisions but Engineering):
 
 - **Strong Yes** - Exceeded expectations of the competency (meets requirements and aligns with values)
   - You have no significant questions and are confident (to the best of your knowledge with the information at hand) that the candidate would succeed in the role.
@@ -191,7 +189,7 @@ ___
 
 #### Unhelpful Feedback Example
 
-**Competency:** Clear communication across all levels and departments_
+**Competency:** Clear communication across all levels and departments
 
 **Key Takeaways:** Overall, I think he was the best candidate I have seen thus far. Plus, he is a diverse candidate. He reminded me of myself in many aspects. He had a well thought out presentation that was easy to understand, but I wish his example was more detailed.
 
