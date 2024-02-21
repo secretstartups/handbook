@@ -74,7 +74,7 @@ they require less time and travel from the team.
 ## Event Content Generation
 
 The Developer Advocate team creates content for events
-including managing the [Call for Paper submission process](/handbook/marketing/developer-relations/developer-evangelism/cfps/)
+including managing the [Call for Paper submission process](/handbook/marketing/developer-relations/developer-advocacy/cfps/)
 and producing presentations, demos, lightning talks, and other content.
 
 GitLab team members who are seeking support for a speaking opportunity should review the
@@ -150,7 +150,7 @@ on individual components as needed. The available environments are as follows:
 
 * [Simple Notes - The Complete DevSecOps Platform Demo](https://gitlab.com/gitlab-da/tutorials/security-and-governance/devsecops/simply-vulnerable-notes): This demo environment shows various
    aspects of GitLab, from setting up a CICD file, adding templates, running security scans,
-   managing vulnerabilities, and much more. It also provides a [full usage tutorial](https://gitlab-de.gitlab.io/tutorials/security-and-governance/devsecops/simply-vulnerable-notes/).
+   managing vulnerabilities, and much more. It also provides a [full usage tutorial](https://gitlab-da.gitlab.io/tutorials/security-and-governance/devsecops/simply-vulnerable-notes/).
 * [Ask Me Anything - GitLab Duo AI Demo](https://gitlab.com/gitlab-da/use-cases/devsecops-platform/gitlab-vertex-ai/ask-me-anything): This demo environment shows various GitLab
    Duo features from Explaining and Summarizing Code, Issues, and MRs to Suggesting Reviewers and Explaining Vulnerabilities.
 * [GitLab Flow](https://gitlab.com/tech-marketing/sandbox/cd/prodmgr-spring): This demo environment covers the GitLab flow from planning to deployment (including monitoring).
@@ -241,17 +241,17 @@ We love to support team members and members of the wider community on their pres
 ### CFP
 
 The Developer Advocate team directly contributes to the wider community by speaking at conferences themselves.
-The team also [supports and manages responses to CFPs](/handbook/marketing/developer-relations/developer-evangelism/cfps/)
+The team also [supports and manages responses to CFPs](/handbook/marketing/developer-relations/developer-advocacy/cfps/)
 for team members across GitLab through issue boards.
 
 ### Speaker Enablement
 
 The Developer Advocate team provides support to new and experienced speakers where necessary. These can range from presentation reviews,
 CFP ideation, or dry-run. We also host [Speakers Lean Coffee](/handbook/marketing/corporate-communications/speaking-resources/#speakers-lean-coffee)
-to help folks prepare to speak. You can also [learn more](/handbook/marketing/developer-relations/developer-evangelism/speaker-enablement/) about
+to help folks prepare to speak. You can also [learn more](/handbook/marketing/developer-relations/developer-advocacy/speaker-enablement/) about
 the different resources and activities you can benefit from.
 
-**Note**: People who regularly speak about GitLab may be interested in joining the [GitLab Speakers Bureau](/handbook/marketing/developer-relations/developer-evangelism/speakers-bureau/).
+**Note**: People who regularly speak about GitLab may be interested in joining the [GitLab Speakers Bureau](/handbook/marketing/developer-relations/developer-advocacy/speakers-bureau/).
 
 ## Code Challenges
 
@@ -263,7 +263,7 @@ directly to GitLab. These challenges involve solving a particular problem using 
 You can review the application's [documentation](https://docs.codechallenge.dev/en/introduction/) on how to use
 the application.
 
-Please use the [Code challenge checklist template](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues/new?issuable_template=codechallenge-checklist) to
+Please use the [Code challenge checklist template](https://gitlab.com/gitlab-com/marketing/developer-relations/developer-advocacy/developer-advocacy-meta/-/issues/new?issuable_template=codechallenge-checklist) to
 create a new Code challenge issue for the event. Review the requirements and use them as a guide to ensure every component is in place.
 Add the new code challenge issue into the event epic in the [event roadmap](/handbook/marketing/community-relations/developer-evangelism/workflow/#roadmap-view).
 

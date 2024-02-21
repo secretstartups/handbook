@@ -10,7 +10,7 @@ aliases:
 
 We maintain our projects in the public [gitlab-da group](https://gitlab.com/gitlab-da). This group has access to an Ultimate subscription.
 
-The group organizes use cases, workshops, tutorials, maintained [open source projects](/handbook/marketing/developer-relations/developer-evangelism/oss-contributions/), demo playgrounds, thought leadership research, and more learning resources.
+The group organizes use cases, workshops, tutorials, maintained [open source projects](/handbook/marketing/developer-relations/developer-advocacy/oss-contributions/), demo playgrounds, thought leadership research, and more learning resources.
 
 ## Organisation Structure
 
@@ -34,7 +34,7 @@ All projects are organized in sub-groups on the top level. No projects are allow
 
 ### Access
 
-Access is limited to [team members in the `gitlab-da` group](https://gitlab.com/groups/gitlab-da/-/group_members). Adding/removing members [requires an issue](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues) to document the change.
+Access is limited to [team members in the `gitlab-da` group](https://gitlab.com/groups/gitlab-da/-/group_members). Adding/removing members [requires an issue](https://gitlab.com/gitlab-com/marketing/developer-relations/developer-advocacy/developer-advocacy-meta/-/issues) to document the change.
 
 Allowed exceptions are workshop sub-groups that invite external users into their workshop projects temporarily. All temporarily added users [**must** use a membership expiration date of 7 days](https://docs.gitlab.com/ee/user/project/members/#add-users-to-a-project).
 
@@ -130,7 +130,7 @@ Goal: The coffee chats helps our customers learn how to use GitLab Duo and adopt
 - [YouTube playlist](https://go.gitlab.com/xReaA1)
 - [GitLab Duo](https://go.gitlab.com/Z1vBGD)
 - [Talk: Efficient DevSecOps Workflows with a little help from AI](https://go.gitlab.com/T864XF) - [content epic](https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics/402)
-- [Organization issue](https://gitlab.com/gitlab-com/marketing/developer-relations/dev-evangelism/de-tmm-meta/-/issues/375)
+- [Organization issue](https://gitlab.com/gitlab-com/marketing/developer-relations/developer-advocacy/developer-advocacy-meta/-/issues/375)
 
 Maintainer: [Michael Friedrich, @dnsmichi](https://about.gitlab.com/handbook/company/team/#dnsmichi)
 
@@ -152,9 +152,9 @@ Maintainers: [Michael Friedrich, @dnsmichi](https://about.gitlab.com/company/tea
 
 ### log4j-resources
 
-The [log4j-resources](https://gitlab.com/gitlab-da/log4j-resources) project provides a collection of resources to learn about, detect and mitigate the impact of the log4j vulnerability, more formally known as [CVE-2021-44228](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228).
+The [log4j-resources](https://gitlab.com/gitlab-da/projects/log4j-resources) project provides a collection of resources to learn about, detect and mitigate the impact of the log4j vulnerability, more formally known as [CVE-2021-44228](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228).
 
-Maintainers: [Developer Advocacy team](/handbook/marketing/developer-relations/developer-evangelism/)
+Maintainers: [Developer Advocacy team](/handbook/marketing/developer-relations/developer-advocacy/)
 
 ## Workshops
 
@@ -221,7 +221,7 @@ Recordings of past workshops and other videos from the Developer Advocacy team c
 
 ### Past Meetup Workshops
 
-Meetup workshops are available in the [workshops group](https://gitlab.com/gitlab-da/workshops) in the GitLab Developer Evangelism group. Note that the content, exercises and source code evolved over time :)
+Meetup workshops are available in the [workshops group](https://gitlab.com/gitlab-da/workshops) in the GitLab Developer Advocacy group. Note that the content, exercises and source code evolved over time :)
 
 #### Basics and CI/CD
 
@@ -265,7 +265,7 @@ Recording:
 
 ## OSS Projects
 
-The Developer Advocate team maintains [OSS projects](/handbook/marketing/developer-relations/developer-evangelism/oss-contributions/) as part of community activities.
+The Developer Advocate team maintains [OSS projects](/handbook/marketing/developer-relations/developer-advocacy/oss-contributions/) as part of community activities.
 
 ### CodeChallenge.dev
 
@@ -277,7 +277,7 @@ Homepage: [CodeChallenge.dev](https://codechallenge.dev)
 
 Documentation: [docs.codechallenge.dev](https://docs.codechallenge.dev)
 
-Project: [codechallenge](https://gitlab.com/gitlab-da/codechallenge)
+Project: [codechallenge](https://gitlab.com/gitlab-da/projects/codechallenge)
 
 <figure class="video_container">
     <iframe src="https://www.youtube.com/embed/BNEQMNtrlSM" frameborder="0" allowfullscreen="true"> </iframe>
@@ -288,29 +288,29 @@ Project: [codechallenge](https://gitlab.com/gitlab-da/codechallenge)
 
 Maintainer: [Abubakar Siddiq Ango](/handbook/company/team/#abuango)
 
-The dashboard is the SSoT to collect all metrics for the Developer Advocate. This includes Twitter, CFPs, YouTube/Google Analytics, etc. Next to the dashboard component, the data component ensures to collect all data from different APIs and sources, and [gets deployed to GitLab Pages](https://gitlab-de.gitlab.io/dashboards/).
+The dashboard is the SSoT to collect all metrics for the Developer Advocate. This includes Twitter, CFPs, YouTube/Google Analytics, etc. Next to the dashboard component, the data component ensures to collect all data from different APIs and sources, and [gets deployed to GitLab Pages](https://gitlab-da.gitlab.io/dashboards/).
 
-Project: [Dashboards](https://gitlab.com/gitlab-da/dashboards)
+Project: [Dashboards](https://gitlab.com/gitlab-da/projects/dashboards)
 
-### Developer Evangelism Bot
+### Developer Relations Bot
 
 Maintainer: [Abubakar Siddiq Ango](/handbook/company/team/#abuango)
 
 This bot aims to automate the team tasks such as:
 
-* Create [release evangelism](/handbook/marketing/developer-relations/developer-evangelism/social-media/#release-evangelism) issues for team members.
-* Triage issues following the [Developer Advocate workflows](/handbook/marketing/developer-relations/developer-evangelism/workflow/).
+* Create [release evangelism](/handbook/marketing/developer-relations/developer-advocacy/social-media/#release-evangelism) issues for team members.
+* Triage issues following the [Developer Advocacy workflows](/handbook/marketing/developer-relations/developer-advocacy/workflow/).
 * Generate an issue letter (created, closed, open CFPs) on every Monday.
 
-Project: [DE Bot](https://gitlab.com/gitlab-com/marketing/corporate_marketing/developer-evangelism/code/de-bot)
+Project: [DevRel Bot](https://gitlab.com/gitlab-da/projects/devrel-bot)
 
 ### Developer Advocate Dashboard
 
 Maintainer: [Abubakar Siddiq Ango](/handbook/company/team/#abuango)
 
-This [custom dashboard](https://gitlab-com.gitlab.io/marketing/corporate_marketing/developer-evangelism/code/de-dashboard/) is built using [GitLab Pages](https://about.gitlab.com/stages-devops-lifecycle/pages/) and presents an overview of Developer Advocate issues. The requests are synced in a specified interval.
+This [custom dashboard](https://gitlab-com.gitlab.io/marketing/developer-relations/developer-advocacy/code/de-dashboard/) is built using [GitLab Pages](https://about.gitlab.com/stages-devops-lifecycle/pages/) and presents an overview of Developer Advocate issues. The requests are synced in a specified interval.
 
-Project: [DE Dashboard](https://gitlab.com/gitlab-com/marketing/corporate_marketing/technical-evangelism/code/de-dashboard)
+Project: [DE Dashboard](https://gitlab.com/gitlab-com/marketing/developer-relations/developer-advocacy/code/de-dashboard)
 
 ### YouTube2Sheets
 
@@ -318,7 +318,7 @@ Maintainer: [Abubakar Siddiq Ango](/handbook/company/team/#abuango)
 
 This project is used internally at GitLab to retrieve the list of videos from specified playlists on YouTube onto a specified Google Sheet. Pipeline is scheduled to run at midnight and noon UTC.
 
-Project: [YouTube2Sheets](https://gitlab.com/gitlab-com/marketing/corporate_marketing/developer-evangelism/code/youtube2sheets)
+Project: [YouTube2Sheets](https://gitlab.com/gitlab-com/marketing/developer-relations/developer-advocacy/code/youtube2sheets)
 
 
 ### Events Project
@@ -327,7 +327,7 @@ Maintainer: [Abubakar Siddiq Ango](/handbook/company/team/#abuango)
 
 The Developer Advocate Team at GitLab tracks events happening across the industry for attendance, speaking engagements, or just to keep them on the radar. This is also a major need across the industry. The Events project aims to provide an open and collaborative place where members of the wider GitLab community can add and track events happening in the industry.
 
-Project: [DE Events Project](https://gitlab.com/gitlab-da/events)
+Project: [DE Events Project](https://gitlab.com/gitlab-da/projects/events)
 
 
 ## EveryoneCanContribute cafe
@@ -342,7 +342,7 @@ The coffee chats are organized as [meetup.com group events](https://www.meetup.c
 * Do pair programming/debugging sessions.
 * Start discussions and share ideas on the latest technology.
 
-The sessions are hosted by Michael Friedrich. Developer Advocate team members are assigned as alternative hosts in Zoom. The meetups are hosted in Zoom with a waiting room as default, the Zoom URL is hidden in the meetup group event. team members can access the URL in the [Developer Advocate team calendar](/handbook/marketing/developer-relations/developer-evangelism/). For joining the group, users need a profile picture and provide their name for joining an event. This is to protect against Zoom bombing and otherwise harmful intentions.
+The sessions are hosted by Michael Friedrich. Developer Advocate team members are assigned as alternative hosts in Zoom. The meetups are hosted in Zoom with a waiting room as default, the Zoom URL is hidden in the meetup group event. team members can access the URL in the [Developer Advocate team calendar](/handbook/marketing/developer-relations/developer-advocacy/). For joining the group, users need a profile picture and provide their name for joining an event. This is to protect against Zoom bombing and otherwise harmful intentions.
 
 Next to Zoom, everyone can hangout with text or audio in [Discord](https://everyonecancontribute.com/page/handbook/#discord).
 
