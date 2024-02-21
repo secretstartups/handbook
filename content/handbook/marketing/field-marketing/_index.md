@@ -1049,8 +1049,8 @@ The SSOT of the plan remains in GitLab on our [various issue boards](/handbook/m
     - As the slides are due one (1) month before the end of the quarter.
     - The completed deck should be stored in your correct regions [shared folder](https://drive.google.com/drive/folders/1xtePKOl4RSINaPPr3InQNisYTQyOJ5JE). Anyone within GitLab has access to search and find this folder.
 
-## Field Marketing QBRs
-Shortly following the day that the regional plans are due, each region will hold its own QBR. The regional Manager of Field Marketing will be responsible for setting up this meeting and inviting the necessary team members. The point of the QBR is for the Field Marketing Manager to share their qtrly long plans with their SDR Manager colleagues, Field Marketing colleagues, and Field Marketing Leadership. This time together is meant to be informative and also educational to all who are attending.
+## Regional Marketing QBRs
+Shortly following the day that the regional plans are due, each region will hold its own QBR. The regional Manager of Marketing will be responsible for setting up this meeting and inviting the necessary team members. The point of the QBR is for the Field & Channel Marketing Managers to share their qtrly long plans with their SDR Manager colleagues, Field Marketing colleagues, and Field Marketing Leadership. This time together is meant to be informative and also educational to all who are attending.
 
 This deck should also be used to present the regional plans to the sales teams.
 
@@ -1070,11 +1070,11 @@ This deck should also be used to present the regional plans to the sales teams.
 | Anyone else the Manager of FMM REGION deems necessary |
 
 ## Next Steps after Quarterly  plans are complete
-In an effort to share the FMM team plans with the rest of the marketing team, the below steps will be followed.
+In an effort to share the regional marketing team's plans with the rest of the marketing team, the below steps will be followed:
 
 ### [Marketing SSOT calendar](/handbook/marketing/#marketing-calendar)
 
-Within two days of the FMM plan being [locked by Finance](/handbook/finance/financial-planning-and-analysis/marketing-finance/#important-dates) in Allocadia, the WW Field & Channel Marketing Director will download the team's plans from Allocadia and will upload to the shared [marketing calendar](/handbook/marketing/#marketing-calendar).
+Within two days of the plan being [locked by Finance](/handbook/finance/financial-planning-and-analysis/marketing-finance/#important-dates) in Allocadia, the Sr. Director, Regional Marketing will download the team's plans from Allocadia and will upload to the shared [marketing calendar](/handbook/marketing/#marketing-calendar).
 
 In order to ensure the formulas carry over properly, the download from Allocadia will need to be cleaned, similiar to how we clean our leads for list upload.
 
@@ -1082,10 +1082,9 @@ The [Calendar cleaner spreadsheet](https://docs.google.com/spreadsheets/d/19XsjD
 
 [Video walk through on how to clean.](https://youtu.be/xiABH1Gjkw4) *on GitLab Unfiltered.
 
-After the initial pull, the FMMs are responsible for adding any new tactics for the quarter. The FMCs will handle adjusting the existing tactics in the SSoT calendar based on the event [rescheduling or cancellation guidelines](/handbook/marketing/field-marketing/#rescheduling-or-cancelling-events).
+After the initial pull, the regional marketers are responsible for adding any new tactics for the quarter if we are mid-quarter. 
 
-### Channel plans
-All plans with the various channel partners can be found within the [marketing calendar](/handbook/marketing/#marketing-calendar).
+The FMCs (for FMM) and the Channel Marketing Programs Manager (for the CMMs) will handle adjusting the existing tactics in the SSoT calendar based on the event [rescheduling or cancellation guidelines](/handbook/marketing/field-marketing/#rescheduling-or-cancelling-events). 
 
 ### Asks into Digital Campaigns
 Details on how Field Marketing shares quarterly plans with the Digital team can be [found here](/handbook/marketing/integrated-marketing/digital-strategy/digital-strategy-management/).
