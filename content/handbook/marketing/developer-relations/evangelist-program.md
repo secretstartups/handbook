@@ -250,7 +250,7 @@ Once you have the above items, follow these steps to add yourself to the Heroes 
 1. Once you have verified all of the edits, enter a short commit message including what you've changed. Choose `Create a new branch`. Name the branch in the format of `YOURINITIALS-heroes-page` or similar. Tick the `Start a new merge request` checkbox. Then click `Commit` once more.
 1. Click on the Activity link in the header to go to your Activity page. Once there, click on the blue `Create merge request` button at the top of the page.
 1. Fill out the merge request details. Please ensure you tick the box to `Allow commits from members who can merge to target branch` as detailed on the [Allow collaboration on merge requests across forks](https://docs.gitlab.com/ee/user/project/merge_requests/allow_collaboration.html#enabling-commit-edits-from-upstream-members) page in our docs.
-1. Mention `@gitlab-de` in a comment in the merge request so our team can review and merge.
+1. Mention `@gitlab-da` in a comment in the merge request so our team can review and merge.
 
 ### Adding members to the GitLab Heroes project
 

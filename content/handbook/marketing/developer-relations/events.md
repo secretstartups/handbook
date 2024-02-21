@@ -22,12 +22,12 @@ The Developer Relations team regularly attends the following event types:
 - **Corporate Marketing Events**
 - **Field Marketing Events**
 
-### Community events 
+### Community events
 
 GitLab's Developer Relations team regularly organizes virtual events including [GitLab Hackathons](/community/hackathon/)
 and [community office hours](/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows.html#community-office-hours).
 We also support in-person contributor days and [community-organized meetups](/community/meetups/). Many of these activities
-are organized through the [GitLab network](https://www.meetup.com/pro/gitlab/) page on Meetup. 
+are organized through the [GitLab network](https://www.meetup.com/pro/gitlab/) page on Meetup.
 
 ### Corporate Marketing Events
 
@@ -45,51 +45,51 @@ To learn more about Field Marketing Events, See the [Field Marketing GitLab Hand
 
 ## Evaluation Criteria for Event Attendance
 
-When deciding how Developer Relations should support an in-person event, we use the following criteria: 
+When deciding how Developer Relations should support an in-person event, we use the following criteria:
 
 1. The event will take place in a Tier 1 or 2 country.
-   Tier details are in the [internal handbook](https://internal.gitlab.com/handbook/sales/globalization/#tier-1-countries). 
+   Tier details are in the [internal handbook](https://internal.gitlab.com/handbook/sales/globalization/#tier-1-countries).
 1. More than 1,000 attendees with a (content and audience) focus that aligns with
    [GitLab's marketing strategy](https://internal.gitlab.com/handbook/marketing/fy24-strategy/) as detailed in
-   the internal handbook. 
-1. GitLab is a sponsor. 
+   the internal handbook.
+1. GitLab is a sponsor.
 
 The Developer Relations team will prioritize events that meet at least 2 of these criteria,
 however, we may not be able to support all events that meet these criteria. Events that do
 not meet these criteria will be considered if there is a compelling business case to attend
-(ex: keynote opportunity at a 500-person event in a priority market). 
+(ex: keynote opportunity at a 500-person event in a priority market).
 
 To effectively manage team member travel and time, we prioritize who from our team will attend
-in-person events using the following criteria: 
+in-person events using the following criteria:
 
 1. Team members will not attend events during scheduled PTO.
 1. Team members who live within the region of the event will be given priority whenever possible.
-1. Team members will not attend more than 1 in-person event per month. 
-1. Team members will not attend more than 1 in-person event outside their region per quarter. 
-1. No more than 2 Developer Relations team members will attend any event. 
+1. Team members will not attend more than 1 in-person event per month.
+1. Team members will not attend more than 1 in-person event outside their region per quarter.
+1. No more than 2 Developer Relations team members will attend any event.
 
 **Note**: For virtual events, we will assess the opportunities on a case-by-case basis given
-they require less time and travel from the team. 
+they require less time and travel from the team.
 
 ## Event Content Generation
 
 The Developer Advocate team creates content for events
 including managing the [Call for Paper submission process](/handbook/marketing/developer-relations/developer-evangelism/cfps/)
-and producing presentations, demos, lightning talks, and other content. 
+and producing presentations, demos, lightning talks, and other content.
 
 GitLab team members who are seeking support for a speaking opportunity should review the
 [Speaking Resources](/handbook/marketing/corporate-communications/speaking-resources/) in the
 handbook. This page documents the process for a team member to secure approval including the
-requirements an event must meet for a GitLab speaker to participate. 
+requirements an event must meet for a GitLab speaker to participate.
 
 ## Event Reporting
 
 1. Search in Google Drive for `TEMPLATE: DevRel event report: [EVENTNAME YEAR]` to access the event report
    slide template.
-1. Make a copy of the slide deck and add event insights, results, and new learnings. 
-1. Add the results deck to the event epic. 
-1. Share an update in Slack. 
-1. Add to the DevRel end-of-week updates document. 
+1. Make a copy of the slide deck and add event insights, results, and new learnings.
+1. Add the results deck to the event epic.
+1. Share an update in Slack.
+1. Add to the DevRel end-of-week updates document.
 
 ## Event Content
 
@@ -148,15 +148,15 @@ GitLab.com demos are projects that can be run live at a conference, during sales
 and much more. They allow you to show either the DevSecOps platform as a whole or focus
 on individual components as needed. The available environments are as follows:
 
-* [Simple Notes - The Complete DevSecOps Platform Demo](https://gitlab.com/gitlab-de/tutorials/security-and-governance/devsecops/simply-vulnerable-notes): This demo environment shows various
+* [Simple Notes - The Complete DevSecOps Platform Demo](https://gitlab.com/gitlab-da/tutorials/security-and-governance/devsecops/simply-vulnerable-notes): This demo environment shows various
    aspects of GitLab, from setting up a CICD file, adding templates, running security scans,
    managing vulnerabilities, and much more. It also provides a [full usage tutorial](https://gitlab-de.gitlab.io/tutorials/security-and-governance/devsecops/simply-vulnerable-notes/).
-* [Ask Me Anything - GitLab Duo AI Demo](https://gitlab.com/gitlab-de/use-cases/devsecops-platform/gitlab-vertex-ai/ask-me-anything): This demo environment shows various GitLab
+* [Ask Me Anything - GitLab Duo AI Demo](https://gitlab.com/gitlab-da/use-cases/devsecops-platform/gitlab-vertex-ai/ask-me-anything): This demo environment shows various GitLab
    Duo features from Explaining and Summarizing Code, Issues, and MRs to Suggesting Reviewers and Explaining Vulnerabilities.
 * [GitLab Flow](https://gitlab.com/tech-marketing/sandbox/cd/prodmgr-spring): This demo environment covers the GitLab flow from planning to deployment (including monitoring).
    GitLab features such as Feature Flags, GA4K, Flux, Kubernetes overview, Compliance Pipelines, Operational container scanning, GitLab Duo, CD are covered.
 
-If those demo environments do not suit your needs, you can view our [other demo projects](https://gitlab.com/gitlab-de/use-cases) 
+If those demo environments do not suit your needs, you can view our [other demo projects](https://gitlab.com/gitlab-da/use-cases)
 which are sorted by use case. You can also check out the [CS Shared Demo Library](https://gitlab.com/gitlab-learn-labs/webinars)
 for ready-to-go sales demos created by other solutions architects.
 
@@ -195,14 +195,14 @@ In many instances, an event attendee wishes to see GitLab in action and understa
 could bring to their organization. The following steps provide insight into how live demos can be delivered
 successfully and how they can highlight the value GitLab could provide their organization.
 
-**Note**: This guide assumes that you are using the [Simple Notes - The Complete DevSecOps Platform Demo](https://gitlab.com/gitlab-de/tutorials/security-and-governance/devsecops/simply-vulnerable-notes) however,
+**Note**: This guide assumes that you are using the [Simple Notes - The Complete DevSecOps Platform Demo](https://gitlab.com/gitlab-da/tutorials/security-and-governance/devsecops/simply-vulnerable-notes) however,
 you can easily tune another project to apply a similar delivery.
 
 1. Explain how GitLab is the most comprehensive DevSecOps platform which enables you to:
    - Manage, Test, Deploy, Secure, and Govern your applications all from one place.
    - Leverage AI to speed up your workflows across the complete SDLC
 1. Begin by showing how simple it is to get started with using GitLab:
-   - Show a [.gitlab-ci.yml](https://gitlab.com/gitlab-de/tutorials/security-and-governance/devsecops/simply-vulnerable-notes/-/blob/main/.gitlab-ci.yml?ref_type=heads) file and describe how a pipeline is defined
+   - Show a [.gitlab-ci.yml](https://gitlab.com/gitlab-da/tutorials/security-and-governance/devsecops/simply-vulnerable-notes/-/blob/main/.gitlab-ci.yml?ref_type=heads) file and describe how a pipeline is defined
       - Show the built-in templates, explaining how they can be used to automatically add different jobs to your pipeline
    - Show the pipeline in action, and explain how extensible pipelines are and how they can be tailored towards your needs with rules
       - Further, explain each stage, and how we go from building and pushing to our container registry to deployment to Kubernetes (or other any medium)
@@ -231,7 +231,7 @@ for the appropriate event.
 to a particular field, expect the questions to be more around how GitLab addresses a particular problem
 in that field. For Example, at BlackHat (a Security Conference), you are likely to be asked how GitLab solves
 particular security problems. These questions and answers are typically found in the messaging doc for
-the event. 
+the event.
 
 ## Event Presentations
 
@@ -261,13 +261,13 @@ directly to GitLab. These challenges involve solving a particular problem using 
 
 [CodeChallenge.dev](https://codechallenge.dev/) is the application used to create challenges tied to features in GitLab.
 You can review the application's [documentation](https://docs.codechallenge.dev/en/introduction/) on how to use
-the application. 
+the application.
 
 Please use the [Code challenge checklist template](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues/new?issuable_template=codechallenge-checklist) to
 create a new Code challenge issue for the event. Review the requirements and use them as a guide to ensure every component is in place.
 Add the new code challenge issue into the event epic in the [event roadmap](/handbook/marketing/community-relations/developer-evangelism/workflow/#roadmap-view).
 
-## Sponsorship 
+## Sponsorship
 
 GitLab's Developer Relations team does not hold or allocate a budget for event sponsorships.
 All events sponsorship requests should be directed to [Corporate Events](/handbook/marketing/integrated-marketing/corporate-events/) or
@@ -293,7 +293,7 @@ and GitLab teams should keep in mind as they plan events and activities.
  * **Describe infographics with audio:** Describe the most important parts of infographics to help with accessibility.
  * **Hybrid events:** Provide a virtual option next to in-person events.
 
- ## Additional Resources 
+ ## Additional Resources
 
  Additional information about events can be found on the [Events](/handbook/marketing/events) page of the
- GitLab Handbook. For a list of upcoming GitLab events see the [Events](/events) page of our website. 
+ GitLab Handbook. For a list of upcoming GitLab events see the [Events](/events) page of our website.
