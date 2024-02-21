@@ -177,6 +177,10 @@ and Performance Refinement process](/handbook/engineering/workflow/#process-1) t
 
 ## How we work
 
+### Handbook First
+
+In line with the broader GitLab culture, we adopt a [Handbook First](https://handbook.gitlab.com/handbook/handbook-usage/#why-handbook-first) approach to documenting our team's workflow. Should you have any proposals aimed at enhancing our processes, please initiate a Merge Request (MR) to update the handbook. Assign the MR to `@rnienaber` for the Group level change and Scalability EMs for the respective team changes and tag the team in a comment to solicit feedback. If there are no objections within three working days of tagging the team, the MR will be deemed ready for merging. We adhere to the principle of making [two-way door decisions](https://handbook.gitlab.com/handbook/values/#make-two-way-door-decisions) meaning additional MRs can be created to suggest changes or removals of processes that are deemed inefficient.
+
 ### Communication
 
 Everything is written in epics, issues, runbooks or the handbook.
