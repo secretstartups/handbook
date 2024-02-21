@@ -34,22 +34,25 @@ We are creating collaborative workflow between GitLab engineering groups and ope
 
 ![Use cases diagram image](/images/handbook/marketing/developer-relations/community-programs/gitlab-beta/use-cases-diagram.png "Use cases diagram")
 
-1. **Sign up** - contributor follows link from marketing campaign to [landing page](#) and submits the form. Our team receives user data for supporting, informing and awarding purposes.
+1. **Sign up** - contributor follows link from marketing campaign to [landing page](https://about.gitlab.com/community/beta) and submits the form. Our team receives user data for supporting, informing and awarding purposes.
    During sign up our contributors fill-in Group ID which they will use for Beta testing (sandbox group).
 
 1. **Grant license** - features in Beta aren't free tier only. After sign up contributor receives email where and how to request trial Ultimate license. Each contributor requests license with already existing way as it works for [GitLab Heroes program](https://handbook.gitlab.com/handbook/marketing/developer-relations/evangelist-program/#gitlab-heroes-licenses).
 
-1. **Put features into Beta program** - our team always keep hand on a pulse of new features that appear among engineering groups week-by-week. So, once we see some potential candidate that looks appropriate for Beta program then we contact PM from this engineering group. But we are also glad to receive feature candidates from engineering groups initiative. We are wide open to hear about ongoing feature candidates in [slack channel](https://gitlab.slack.com/messages/developer-relations-beta-program) or in thread of [this issue](https://gitlab.com/gitlab-org/developer-relations/contributor-success/team-task/-/issues/390).
+1. **Put features into Beta program** - our team always keep hand on a pulse of new features that appear among engineering groups week-by-week.
+So, once we see some potential candidate that looks appropriate for Beta program then we contact PM from this engineering group.
+But we are also glad to receive feature candidates from engineering groups initiative. We are wide open to hear about ongoing feature candidates in [slack channel](https://gitlab.slack.com/messages/developer-relations-beta-program) or in thread of [this issue](https://gitlab.com/gitlab-org/developer-relations/contributor-success/team-task/-/issues/390).
+As final approval step we request review from a product for merge request where we add feature into Beta.
 
 1. **Gather feedback** - engineering groups review comments under their feedback issues. Our team at this point mostly track feedback activity per each Beta member. After this step engineering group can decide to put it out from Beta if they want to. Usual lifetime of feature inside Beta starts from 4-5 weeks but we don't mind to keep it for longer.
 
-1. **License prolongation** - depending on our tracking results - if contributor is active (leaves feedback) then support team grant license prolongation for them.
+1. **License prolongation** - depending on our tracking results - if contributor is active (leaves feedback) then we (contributor success team) request license prolongation (1 more month) for this individual member through support form.
 
-1. **Awarding** - after 2-3 month after Beta program launch we will start to nominate feedback contributors by some criteria. Which criteria? We will let you know later. What is the prize? Probably something from our [swag store](https://shop.gitlab.com) you will enjoy.
+1. **Awarding** - after 2-3 month after Beta program launch we will start to nominate feedback contributors by some criteria. The exact criteria & prices are yet to be defined.
 
 ## Measuring our success
 
-As an initial target is to gather 1.5k contributors after 2 months of this program launch.
+As an initial target is to gather 1500 contributors in first quarter.
 
 ## FAQ
 
