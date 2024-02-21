@@ -37,8 +37,8 @@ LinkedIn and Twitter are the target platforms. Both platforms have different tar
 
 Experimental platforms:
 
-- Mastodon (requires an account on a specific instance in the Fediverse). [Evaluation issue](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/de-tmm-meta/-/issues/123).
-- Bluesky Social (invite only). [Evaluation issue](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/de-tmm-meta/-/issues/277).
+- Mastodon (requires an account on a specific instance in the Fediverse). [Evaluation issue](https://gitlab.com/gitlab-com/marketing/developer-relations/developer-advocacy/de-tmm-meta/-/issues/123).
+- Bluesky Social (invite only). [Evaluation issue](https://gitlab.com/gitlab-com/marketing/developer-relations/developer-advocacy/de-tmm-meta/-/issues/277).
 
 ### General Social Media Tips
 
@@ -335,9 +335,9 @@ Workflow:
 - Developer Advocates review the release blog post draft.
   - Use the review app.
   - Add feedback and suggestions to the merge request before release day.
-  - Add interesting items with social text examples into the release evangelism epic. 
-- Developer advocates share and/or schedule their favorite features on release day. 
-  - Use the short URLs from the campaign manager to track release evangelism impressions. 
+  - Add interesting items with social text examples into the release evangelism epic.
+- Developer advocates share and/or schedule their favorite features on release day.
+  - Use the short URLs from the campaign manager to track release evangelism impressions.
   - Use the existing media (images, videos) from the release blog post, or create new screenshots/videos.
   - Link to the documentation, or the release post anchor if already released. **Never link to the review app.**
 
@@ -376,7 +376,7 @@ Workflow:
   - Add the URLs to the release evangelism issue
 - Ask Sid in the [#ceo Slack channel](https://gitlab.slack.com/archives/C3MAZRM8W) to engage with the MVP shares
   - Suggested actions: Reshare/like, add a comment thanking for the contributions. Follow the [CEO voice](/handbook/ceo/#ceo-voice) to suggest a text to copy.
-  - For efficient copy/paste of suggested texts, add a comment in the Slack thread containing only the comment text. 
+  - For efficient copy/paste of suggested texts, add a comment in the Slack thread containing only the comment text.
   - Check the shares for comments, and engagement metrics
 
 #### Release Evangelism Examples

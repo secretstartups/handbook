@@ -53,7 +53,7 @@ When reporting on program activity, you may wish to include charts or graphs for
 
 ### Upcoming events
 
-The [GitLab Developer Advocate calendar](/handbook/marketing/developer-relations/developer-evangelism/#-team-calendar) includes a list of our upcoming meetups, hackathons, office hours, and other community events. After opening the calendar, you can click on the `+` in the bottom right corner of the browser window to add `GitLab Developer Evangelism` to your list of calendars in Google Calendar.
+The [GitLab Developer Advocate calendar](/handbook/marketing/developer-relations/developer-advocacy/#-team-calendar) includes a list of our upcoming meetups, hackathons, office hours, and other community events. After opening the calendar, you can click on the `+` in the bottom right corner of the browser window to add `GitLab Developer Advocacy` to your list of calendars in Google Calendar.
 
 ## Meetups
 
@@ -526,7 +526,7 @@ Join GitLab Developer Advocates and community program managers as they host Comm
 - [Community Events Calendar](https://calendar.google.com/calendar/embed?src=gitlab.com_90t5ue1q8kbjoq5b0r91nu7rvc%40group.calendar.google.com&ctz=America%2FNew_York)
 - [Meetups Checklist](/community/meetups/checklist/)
 - [Swag](/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/#ordering-new-swag)
-- [Speakers Bureau](/handbook/marketing/developer-relations/developer-evangelism/speakers-bureau/)
+- [Speakers Bureau](/handbook/marketing/developer-relations/developer-advocacy/speakers-bureau/)
 
 ### Resources for speakers
 

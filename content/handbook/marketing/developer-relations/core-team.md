@@ -96,7 +96,7 @@ A list of the up-to-date channels the Core should/have access to can be found in
 - competition
 - contributor-success
 - core
-- dev-evangelism-and-technical-marketing
+- dev-advocacy-team
 - developer-relations
 - developer-relations-hangout
 - development
