@@ -160,7 +160,7 @@ Meet the Tanukis: `Meet the Tanukis is a stream about the amazing Team members a
 
 Indicate that it is a part of the series ["Meet the Tanukis"](https://dev.to/metzinaround/series/14323) by selecting it from the hexagon at the bottom of the article editor. The series lists all the articles related to the episode.
 
-Finally, post the link to the youtube video in any relevant slack channels, including [#dev-evangelism-and-technical-marketing](https://gitlab.slack.com/archives/CMELFQS4B), [#education-evangelism](https://gitlab.slack.com/archives/C024ZBWK5KJ), and [#social_media_action](https://gitlab.slack.com/archives/C01AZ9C8Z4G).
+Finally, post the link to the youtube video in any relevant slack channels, including [#dev-advocacy-team](https://gitlab.slack.com/archives/CMELFQS4B), [#education-evangelism](https://gitlab.slack.com/archives/C024ZBWK5KJ), and [#social_media_action](https://gitlab.slack.com/archives/C01AZ9C8Z4G).
 
 ### Locating Streams
 

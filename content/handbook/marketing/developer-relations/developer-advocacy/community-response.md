@@ -19,8 +19,8 @@ Our team uses the [Community response board](https://gitlab.com/groups/gitlab-co
 
 ### Notification
 
-* **Upcoming announcement:** To notify the developer advocacy team of an upcoming announcement, product change, or other news event that may elicit a response from our community, the DRI should comment to `@johncoghlan` in a relevant issue or notify the developer advocacy team in the [#dev-evangelism-and-technical-marketing Slack channel](https://gitlab.slack.com/archives/CMELFQS4B). Please also apply the `~Community Interest` and `~Community response` labels to any relevant issues or epics related to this announcement. 
-* **In-progress situation:** To notify the developer advocacy team of an urgent situation that is in-progress, please tag the `@dev-evangelism` User Group in a Slack message in a Slack thread or channel where the situation is being discussed or the [#dev-evangelism-and-technical-marketing Slack channel](https://gitlab.slack.com/archives/CMELFQS4B).
+* **Upcoming announcement:** To notify the developer advocacy team of an upcoming announcement, product change, or other news event that may elicit a response from our community, the DRI should comment to `@johncoghlan` in a relevant issue or notify the developer advocacy team in the [#dev-advocacy-team Slack channel](https://gitlab.slack.com/archives/CMELFQS4B). Please also apply the `~Community Interest` and `~Community response` labels to any relevant issues or epics related to this announcement. 
+* **In-progress situation:** To notify the developer advocacy team of an urgent situation that is in-progress, please tag the `@dev-advocates` User Group in a Slack message in a Slack thread or channel where the situation is being discussed or the [#dev-advocacy-team Slack channel](https://gitlab.slack.com/archives/CMELFQS4B).
 * Please give the developer advocacy team as much notice as possible so we can help influence the messaging of the announcement, prepare responses for the community, and schedule coverage. See **Scheduling** below for more details.
 * Please add the `Community response` label to related issues, epics and MRs. Our team owns the label for the [gitlab-com](https://gitlab.com/groups/gitlab-com/-/labels?search=community+response) and [gitlab-org](https://gitlab.com/groups/gitlab-org/-/labels?search=community+response) groups. You can use this quick action: `/label ~"dev-evangelism" ~"Community response"` to apply the labels. 
 
@@ -81,7 +81,7 @@ This is a set of general recommendations for automating the monitoring processes
 
 * **Hacker News**:
   * New posts and comments containing the keyword "GitLab" are shared in the [#hn-mentions](https://gitlab.slack.com/archives/CBL93C22D) Slack channel.
-  * Posts that reach the front page and contain the keyword "GitLab" are shared in the [#dev-evangelism-and-technical-marketing](https://gitlab.slack.com/archives/CMELFQS4B) Slack channel with additional tags for @dev-evangelism and @sytses 
+  * Posts that reach the front page and contain the keyword "GitLab" are shared in the [#dev-advocacy-team](https://gitlab.slack.com/archives/CMELFQS4B) Slack channel with additional tags for @dev-advocates and @sytses 
   * Note: for both of these automations many posts and comments are captured that do not require a response. For example, posts that link to an open source project hosted on GitLab. 
 * **GitLab Forum**:
   * [Set up a Zap](/handbook/marketing/developer-relations/workflows-tools/zapier/) that posts on the relevant Slack channel created for internal response coordination. The trigger will be any new post created on the monitored thread in the forum. Depending on the topic's activity, this might mean quite a lot of unfiltered traffic. In this case, the Zap updates could be temporarily turned off at the discretion of the DRI assigned to monitor, and only manually posts that require a response.
@@ -105,7 +105,7 @@ Contact the PM or other appropriate DRI in a public Slack channel whenever possi
 Review these additional steps:
 
 * If necessary, the Developer Advocates will provide responses to community questions and concerns on the GitLab Forum, Hacker News, and other forums. 
-* If a post about GitLab reaches the front page of Hacker News, we may use a Zoom room and Google Doc to collaborate on responses in synchrously. We will link to the Zoom room and Google Doc in the Slack thread or channel where the situation is being discussed or the [#dev-evangelism-and-technical-marketing Slack channel](https://gitlab.slack.com/archives/CMELFQS4B).
+* If a post about GitLab reaches the front page of Hacker News, we may use a Zoom room and Google Doc to collaborate on responses in synchrously. We will link to the Zoom room and Google Doc in the Slack thread or channel where the situation is being discussed or the [#dev-advocacy-team Slack channel](https://gitlab.slack.com/archives/CMELFQS4B).
 * The developer advocacy team will rarely engage in responding on Twitter and other social media channels during these announcements and breaking news situations. Twitter, Facebook, and LinkedIn are primarily owned by the [Social Media team](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/) in these situations.  
 * For situations where messaging is sensitive, we will rely on approved messaging from the [Corporate Communications team](/handbook/marketing/corporate-communications/) to create our responses. 
 

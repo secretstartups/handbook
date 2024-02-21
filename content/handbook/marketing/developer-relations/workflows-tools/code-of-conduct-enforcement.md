@@ -15,7 +15,7 @@ The Developer Relations team will contribute to enforce the [GitLab Community Co
 
 Currently, the team will engage in moderation if there is a discussion (generally on an issue or on a Merge Request) that requires urgent or a significant volume of moderation.
 
-Please reach out in the [#developer-relations Slack channel](https://gitlab.slack.com/archives/C0R04UMT9) and tag `@dev-evangelism` when urgent.
+Please reach out in the [#developer-relations Slack channel](https://gitlab.slack.com/archives/C0R04UMT9) and tag `@dev-advocates` when urgent.
 
 ## Moderation process
 
