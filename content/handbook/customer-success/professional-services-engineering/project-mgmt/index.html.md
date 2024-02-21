@@ -40,7 +40,7 @@ Each PS Engagement will include a Project Plan based on the activities outlined 
 3. PS Operations: Research an appropriate Partner if it is determined that a GitLab team member is not available to work the project.
    - See the PS Ops [Partner Process](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-leadership-team/ps-operations/-/wikis/home?_gl=1*8ixlcw*_ga*MTE1NzU1OTg3MS4xNjQ2MjQzNjU3*_ga_ENFH3X7M5Y*MTY2MjU2MjExNS4yMy4xLjE2NjI1NjIxNzIuMC4wLjA.#handshake-partner-process)
 4. PS Engagement Manager: Introduces the Project manager to the customer.
-5. PS Project Manager:  Schedules and conducts PS Stakeholder Introduction meeting with the customer.  The intention of this meeting is to explain HOW we work so that the customer understands how to best tsupport the successful progression of the project.
+5. PS Project Manager:  Schedules and conducts PS Stakeholder Introduction meeting with the customer.  The intention of this meeting is to explain HOW we work so that the customer understands how to best support the successful progression of the project.
    - [PS Stakeholder Introduction Meeting](https://docs.google.com/document/d/1fOmBxXf9MqYHQ8LZD5nIepu5WcFeTiwss59RJbd3BWE/edit?usp=sharing) includes the PM  and customer Project Lead counterpart (Engagement Managers and account team are optional)
    - NOTE: Technical discussions are held for the customer project kick-off meeting
 
@@ -70,7 +70,7 @@ Each PS Engagement will include a Project Plan based on the activities outlined 
 8. PS Engineer: Complete work per the SOW
 9. Project Lead:
     - Keep Kantata up to date: project schedule, project health/pulse report, milestone acceptance, update project tasks via task-tracker, timesheet approvals
-    - Provide Weekly Status Report to customer using the template in the [Project Definition](https://docs.google.com/spreadsheets/d/1tBO5wyQ-lMkHJMSHkpq8rwzDsKXPcIxURaGrYi_HX9Q/edit#gid=1659103486) using the template in the Project Definition
+    - Provide Weekly Status Report to customer using the template in the [Project Definition](https://docs.google.com/spreadsheets/d/1tBO5wyQ-lMkHJMSHkpq8rwzDsKXPcIxURaGrYi_HX9Q/edit#gid=1659103486)
        - Kantata schedule snapshot of the schedule (or other alternative view)
        - Kantata hours burn-down report (for T&M only)
        - Open Action Items [Project Definition](https://docs.google.com/spreadsheets/d/1tBO5wyQ-lMkHJMSHkpq8rwzDsKXPcIxURaGrYi_HX9Q/edit#gid=1659103486) or customer collaboration project in GitLab
@@ -81,7 +81,7 @@ Each PS Engagement will include a Project Plan based on the activities outlined 
 
 10. Project Lead:
    - Inform the customer prior to an activity completion letting them know that they will be asked to approve/sign-off
-   - Send [activity-based acceptance requests](https://docs.google.com/document/d/1RiS5TY5484nQuDTW8YMiB-CibVfoni7NJ8IUG2osUD0/edit?usp=sharing) to the customer for approval upon complete of each milestone
+   - Send [activity-based acceptance requests](https://docs.google.com/document/d/1RiS5TY5484nQuDTW8YMiB-CibVfoni7NJ8IUG2osUD0/edit?usp=sharing) to the customer for approval upon completion of each milestone
 11. Customer:
    - Approves completion for each activity, deliverable, or milestone via email or Slack
 
@@ -116,7 +116,7 @@ Apply the following steps to create a change order issue for tracking and approv
 
 #### Work At Risk
 
-Work at Risk (WAR) is used when seeking approval from PS leadership to staff or start work on a project proior to paperwork being fully executed. Work at risk approvals should be sought in all cases where we need to commit to project start dates for a project (consulting or training) before we have a fully closed opportunity, whether or not the project work actually starts before the opportunity closes.  The WAR should be created by an EM, Regional Manager, or Project Coordinator at the appropriate time in the pre-sales process to effectively manage the staffing of the project.  When work at risk is sought, apply the following steps to create a work at risk issue, which describes the work at risk process.
+Work at Risk (WAR) is used when seeking approval from PS leadership to staff or start work on a project prior to paperwork being fully executed. Work at risk approvals should be sought in all cases where we need to commit to project start dates for a project (consulting or training) before we have a fully closed opportunity, whether or not the project work actually starts before the opportunity closes.  The WAR should be created by an EM, Regional Manager, or Project Coordinator at the appropriate time in the pre-sales process to effectively manage the staffing of the project.  When work at risk is sought, apply the following steps to create a work at risk issue, which describes the work at risk process.
 - Note the engagement Epic number and the scoping issue number (for new SOW not yet closed) or change order number (for scope change/addition)
 - [Create a Work at Risk type issue in PS Plan](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/issues/new?issue%5Bmilestone_id%5D=&issuable_template=work-at-risk&issue%5Btitle%5D=Work%20at%20Risk)
 - Replace `<!-- ADD CUSTOMER EPIC NUMBER HERE, e.g. &65-->` at the bottom of the description under **Quick Actions** with the epic number e.g. `&65`
