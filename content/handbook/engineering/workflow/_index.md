@@ -619,7 +619,7 @@ Sometimes there is an intentional decision to deviate from the agreed-upon [MVC]
 
 For the same reasons as technical debt, we don't want UX debt to grow faster than our code base.
 
-These issues are prioritized like [other technical decisions](/handbook/engineering/development/principles/#prioritizing-technical-decisions) in [product groups](/handbook/company/structure/#product-groups) by [product management](/handbook/product/product-processes/#how-we-prioritize-work). You can see the number of UX debt issues on the [UX Debt dashboard](https://app.periscopedata.com/app/gitlab/641753/UX-Debt).
+These issues are prioritized like [other technical decisions](/handbook/engineering/development/principles/#prioritizing-technical-decisions) in [product groups](/handbook/company/structure/#product-groups) by [product management](/handbook/product/product-processes/#how-we-prioritize-work). 
 
 As with [technical debt](#technical-debt), UX debt should be brought up for [globally optimized](/handbook/values/#global-optimization) prioritization in [retrospectives](/handbook/engineering/management/group-retrospectives/) or directly with the appropriate member of the [Product Leadership team](/handbook/product/product-leadership/).
 
@@ -644,7 +644,7 @@ UI polish issues are visual improvements to the existing user interface, touchin
 
 Open merge requests sometimes become idle (not updated by a human in more than a month). Once a month, engineering managers will receive an [`Merge requests requiring attention triage issue`](/handbook/engineering/infrastructure/engineering-productivity/triage-operations/#group-level-merge-requests-that-may-need-attention) that includes all (non-WIP/Draft) MRs for their group and use it to determine if any action should be taken (such as nudging the author/reviewer/maintainer). This assists in getting merge requests merged in a reasonable amount of time which we track with the [Open MR Review Time (OMRT)](/handbook/engineering/development/performance-indicators/#open-mr-review-time-omrt) and [Open MR Age (OMA)](/handbook/engineering/development/performance-indicators/#open-mr-age-oma) performance indicators.
 
-Open merge requests may also have other properties that indicate that the engineering manager should research them and potentially take action to improve efficiency. One key property is the number of threads, which, when high, may indicate a need to update the plan for the MR or that a synchronous discussion should be considered. Another property is the number of pipelines, which, when high, may indicate a need to revisit the plan for the MR. These metrics are not yet included in an automatically created a triage issue. However, they are available in a [Sisense dashboard](https://app.periscopedata.com/app/gitlab/663398/Merge-requests-that-may-warrant-attention). Engineering managers are encouraged to check this dashboard for their group periodically (once or twice a month) in the interim.
+Open merge requests may also have other properties that indicate that the engineering manager should research them and potentially take action to improve efficiency. One key property is the number of threads, which, when high, may indicate a need to update the plan for the MR or that a synchronous discussion should be considered. Another property is the number of pipelines, which, when high, may indicate a need to revisit the plan for the MR. These metrics are not yet included in an automatically created a triage issue. 
 
 ## Security is everyone's responsibility
 

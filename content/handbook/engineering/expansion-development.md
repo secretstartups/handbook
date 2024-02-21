@@ -121,9 +121,10 @@ Here are some curated resources to get you started:
 
 ### Cross-Functional Metrics
 
-[Link to dashboard](https://app.periscopedata.com/app/gitlab/1008238/Next-Prioritization---VP-of-Development)
+[Link to dashboard](https://10az.online.tableau.com/#/site/gitlab/workbooks/2203014/views)
 
-{{< sisense dashboard="1008238" >}}
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/IssueTypesDetail/OpenIssuesDashboard" >}}
+{{< /tableau >}}
 
 {{% include "includes/cross-functional-prioritization.md" %}}
 
