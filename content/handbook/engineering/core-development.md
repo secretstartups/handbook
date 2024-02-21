@@ -94,18 +94,6 @@ The following members of other functional teams are our stable counterparts:
 
 <%= stable_counterparts(role_regexp: /[,&] Development/, direct_manager_role: 'VP of Development') %> -->
 
-## Team Composition
-
-This is the breakdown of our department by section and by stage.
-
-{{< sisense chart="8817664" dashboard="673088" >}}
-
-{{< sisense chart="8817717" dashboard="673088" >}}
-
-This is the stack-up of our engineers, by level.
-
-{{< sisense chart="8737993" dashboard="673088" >}}
-
 ## Development-Specific People Processes
 
 ### Promotion Process
@@ -192,9 +180,10 @@ Here are some curated resources to get you started:
 
 ### Cross-Functional Metrics
 
-[Link to dashboard](https://app.periscopedata.com/app/gitlab/1008238/Next-Prioritization---VP-of-Development)
+[Link to dashboard](https://10az.online.tableau.com/#/site/gitlab/workbooks/2203014/views)
 
-{{< sisense dashboard="1008238" >}}
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/IssueTypesDetail/OpenIssuesDashboard" >}}
+{{< /tableau >}}
 
 {{% include "includes/cross-functional-prioritization.md" %}}
 

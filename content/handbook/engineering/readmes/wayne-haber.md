@@ -86,8 +86,8 @@ I created and continue to operate the [Engineering director shadow program](/han
 
 I use these dashboards to inform me on metrics for my teams:
 
-* [Cross functional prioritization](https://app.periscopedata.com/app/gitlab/1042933/Cross-Functional-Prioritization)
-* [Merge request trends](https://app.periscopedata.com/app/gitlab/976854/Merge-Request-Types-Detail)
+* [Cross functional prioritization](https://10az.online.tableau.com/t/gitlab/views/DRAFTIssueTypesDetail/MilestoneIssuesDashboard)
+* [Merge request trends](https://10az.online.tableau.com/t/gitlab/views/DRAFTMergeRequestTypes/MergeRequestTypes)
 
 Corresponding handbook pages:
 * [Secure](/handbook/engineering/development/sec/secure/#cross-functional-backlog)
