@@ -83,7 +83,7 @@ You can copy/paste this to make sure you don't miss anything or [create a commen
 The following ~customer is interested in this capability 
 
 - Subscription: ~"GitLab Ultimate" OR ~"GitLab Premium" OR ~"GitLab Free" 
-- Product: ~"self-managed" OR ~SaaS OR ~"SaaS Dedicated"
+- Product: ~"self-managed" OR ~"gitlab.com" OR ~"GitLab Dedicated"
 - Link to request:
 - Priority: ~customer priority::
 - Why interested:
