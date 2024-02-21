@@ -46,9 +46,9 @@ For urgent requests of the Candidate Experience Specialist team, we encourage yo
 | Talent Acquisition (EMEA and APAC Sales) | Jake Foster |
 | Talent Acquisition (Marketing & G&A) | Steph Sarff + Jake Foster |
 | Talent Acquisition (G&A) | Steph Sarff + Jake Foster |
-| Talent Acquisition (Development) | Ursela Knezevic |
-| Talent Acquisition (Specialty Tech): | Jake Foster & Ursela Knezevic |
-| Talent Acquisition (R&D: Infrastructure) | Ursela Knezevic |
+| Talent Acquisition (Development) | TBA |
+| Talent Acquisition (Specialty Tech): | Jake Foster |
+| Talent Acquisition (R&D: Infrastructure) | TBA |
 | Talent Acquisition (Executive) | Rich Kahn |
 | Enablement | Marissa Farris |
 | Candidate Experience | Ale Ayala + Marissa Farris |
