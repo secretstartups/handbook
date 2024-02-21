@@ -388,7 +388,7 @@ Workflow for applying customizations:
 
 1. Create a [new issue in the Developer Advocate Meta Project](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues) to propose changes, including design mockups, screenshots, etc.
 1. Apply the changes to the custom theme, colors, etc.
-1. Persist the changes for the custom theme in the [discourse-assets](https://gitlab.com/gitlab-de/projects/discourse-assets) project.
+1. Persist the changes for the custom theme in the [discourse-assets](https://gitlab.com/gitlab-da/projects/discourse-assets) project.
 
 #### API
 

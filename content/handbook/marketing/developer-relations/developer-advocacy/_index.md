@@ -102,7 +102,7 @@ We are members of the [Developer Relations team](/handbook/marketing/developer-r
 | [Michael Friedrich](/handbook/company/team/#dnsmichi) <br/> Senior Developer Advocate | DevSecOps with a focus on the SRE, Ops and Sec engineers' perspective | English, German, Austrian | [EveryoneCanContribute cafe meetup](/handbook/marketing/developer-relations/developer-advocacy/projects/#everyonecancontribute-cafe), [opsindev.news newsletter](/handbook/marketing/developer-relations/developer-advocacy/projects/#opsindevnews-newsletter), [o11y.love](/handbook/marketing/developer-relations/developer-advocacy/projects/#o11ylove) | CI/CD, Observability, SRE, IaC, Security, Python, Go, C/C++, Rust, Ruby | [Talks](https://dnsmichi.at/talks/), [Portfolio](https://dnsmichi.at/talks/) , [cfps.dev](https://cfps.dev/u/dnsmichi/events) |
 | [William Arias](/handbook/company/team/#warias) <br/> Senior Developer Advocate | DevSecOps with a focus on AI/ML, Sec and Data | English, Spanish |  | CI/CD, AI/ML, Kubernetes, Security, Python, C |  |
 | [Cesar Saavedra](/handbook/company/team/#csaavedra1) <br/> Senior Developer Advocate | DevSecOps with a focus on CD, GitOps, Kubernetes | English, Spanish |  |  Kubernetes, CI/CD, Java |  |
-| [Fernando Diaz](/handbook/company/team/#fjdiaz) <br/> Developer Advocate | DevSecOps with a focus on Security and Compliance | English, Spanish | [Security and Governance tutorials](https://gitlab.com/gitlab-de/tutorials/security-and-governance) | Security, Kubernetes, CI/CD, Python |  |
+| [Fernando Diaz](/handbook/company/team/#fjdiaz) <br/> Developer Advocate | DevSecOps with a focus on Security and Compliance | English, Spanish | [Security and Governance tutorials](https://gitlab.com/gitlab-da/tutorials/security-and-governance) | Security, Kubernetes, CI/CD, Python |  |
 | [Itzik Gan-Baruch](/handbook/company/team/#iganbaruch) <br/> Senior Developer Advocate | DevSecOps with a focus on CI/CD, Remote Development/IDEs and Value Stream Management | English, Hebrew |  |  Remote Development, CI/CD, Value Stream Management |  |
 
 
@@ -142,7 +142,7 @@ We build our thought leadership on social media. See [Developer Advocate on Soci
 
 We build out content to help educate developers around best practices related to DevOps, GitLab, remote work, and other topics where we have expertise. Content includes presentations, demos, workshops, blog posts, and media engagements.
 
-Please read the [Content](/handbook/marketing/developer-relations/developer-advocacy/content) handbook to learn more about the content workflow, library and distribution with UTM tracking. 
+Please read the [Content](/handbook/marketing/developer-relations/developer-advocacy/content) handbook to learn more about the content workflow, library and distribution with UTM tracking.
 
 ### Corporate event support
 
