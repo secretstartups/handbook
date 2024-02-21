@@ -108,19 +108,43 @@ The case logic, context behind the case, and CTA can be viewed on the Case Trigg
 If a GitLab team member needs to loop in the Advocate team on a customer Account, they must create a case.  (Chatter messages sent to the AMER/ APAC/ EMEA Sales Users are not monitored).  
 
 - Navigate to the *Account* in Salesforce.
-- Click on *Cases*, New.
+- Hover over *Cases*, and select *New Case*.
 - Select *SMB Sales Case*, from the Record Type dropdown.
-- Add the *Contact*, to the Contact Name lookup field.
+- Add the *Contact*, to the Contact Name lookup field. (A lead can also be added.)
 - Add the *Opportunity*, to the Opportunity lookup field (if relevant). 
-- Describe the ask of the AE in the case *Description*. Include any relevant links or resources.
+- Describe the ask of the AE in the case *Description* box. Include any relevant links or resources. (Once the case has been created, you can also upload files e.g. a PO, in the *Google Docs & Attachments* section at the bottom of the case record).
 - Select a *Type* that most closely matches the origin of your request. (e.g if you are in Support, select *Inbound Request via Support*)
 - Set the *Priority* to High. 
-- Complete the *Subject* field.
-    - E.g. *Support Ticket*, *Partner Opp*, *Referral*, *AR Request*
+- Complete the *Subject* field, using one of the below options;
+    - *Support Ticket* (if you are an SE)
+    - *Partner Opp* (if you reside in the Partner org)
+    - *Referral* (if you are in Sales)
+    - *FO Opp (Startup)* if you reside in the Community relation team, and a free customer is ready to transition to paid. 
+    - *AR Request* (if you are in AR/ Billing)
     - Note: if you are an SDR creating the case, the *Case Subject* must be either equal *FO Opp*, or *SDR Created* (See *Use Case Specifics* below)
 - Select a *Case Reason* based on the customers needs.
-- **Check the *Assign using active assignment rules* checkbox, and click *Save*.If this is not done, the case will not enter the queue, and will not be actioned**
+- **Check the *Assign using active assignment rules* checkbox, and click *Save*.If this is not done, the case will not enter the SMB Team queue, and will not be actioned**
 - This Case will now drop into the SMB Sales Queue, and will be actioned by a SMB Advocate.
+- Note: if an open SMB Case already exists on the account, do not check the *Assign using active assignment rules* box.  Instead, once you have saved the case, change the *Case Owner* to whoever owns the current open case on the account. 
+
+## Tracking Cases you have created
+
+Once you have created a case, you easily view its progress, by using the report below as a template.
+
+[FY25 - Cases created by Department X](https://gitlab.my.salesforce.com/00OPL000000toc5)
+
+- Click *Customize* on the report. 
+- Click *Edit* next to the *Created* by filter.
+- Enter in your name in the free test box. (You can also add the names of your colleagues who will also be creating cases.  The names must be comma separated).
+- Click *OK*
+- Click *Save As* 
+- Choose a relevant name for the report, and save it in your teams folder. 
+
+You can now return to this report at any time to check;
+
+- Who the current case owner is.  If *SMB Sales Team*, the case has yet to be picked up. If a person, they can be chattered on the case should you have any questions. 
+- Case Status (This should be either *Open*, *In Progress*, or *Closed*)
+- Next Steps (Useful if the case is still set to *In Progress*)
 
 
 
