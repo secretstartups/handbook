@@ -429,7 +429,6 @@ Below are tools in the Marketing Technology stack, organized by tier.
 
 #### Functional Technology - Tier 4
 
-- [Bitergia](/handbook/marketing/developer-relations/workflows-tools/#tool-stack-overview)
 - [Canva](handbook/marketing/brand-and-product-marketing/design/#canva-best-practices)
 - Cision
 - [Common Room](/handbook/marketing/developer-relations/workflows-tools/#tool-stack-overview)
