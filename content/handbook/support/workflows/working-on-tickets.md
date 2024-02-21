@@ -121,6 +121,13 @@ ticket to a great resolution. You're never alone. So go ahead and accept the
 challenge! Assign the ticket to yourself, send out your first response, and
 seek help as soon as you need it.
 
+### Helping with a ticket that has an Assigned Support Engineer
+
+Some customers have an Assigned Support Engineer (ASE) that will own their tickets. This will be
+apparent from the org note in the ticket. For such customers, see
+[the ASE workflow](assigned-support-engineer/working-on-ase-tickets.html) for
+how to handle them.
+
 ### Assigning and handling tickets which have a different preferred region in your SGG
 
 #### Pathway for handling high priority tickets from a different region
