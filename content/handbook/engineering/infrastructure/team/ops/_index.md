@@ -1,15 +1,15 @@
 ---
 aliases: /handbook/engineering/infrastructure/team/reliability/general.html
-title: "Reliability:General Team"
+title: "Reliability:Ops Team"
 ---
 
 ## Mission
 
-The General Team supports the Reliability Team's [overall vision](/handbook/engineering/infrastructure/team/reliability/#vision) by supporting services for GitLab.com that do not fit the mission of the other [Reliability Teams](/handbook/engineering/infrastructure/team/reliability/#reliability-teams). See the [dedicated General Team Page](/handbook/engineering/infrastructure/team/reliability/general.html) for more details.
+The General Team supports the Reliability Team's [overall vision](/handbook/engineering/infrastructure/team/ops/#vision) by supporting services for GitLab.com that do not fit the mission of the other [Reliability Teams](/handbook/engineering/infrastructure/team). 
 
 ## Vision
 
-The General Team exists to ensure that all services at GitLab are properly supported by either providing that support directly or routing requests for new work to the appropriate [Reliability team](/handbook/engineering/infrastructure/team/reliability/#reliability-teams) while also being the primary operators and maintainers of the GitLab.com application.  In the short-term, the goal is shrink the overall pool of what we call "General" by assigning ownership of services to appropriate [Reliability team](/handbook/engineering/infrastructure/team/reliability/#reliability-teams) so that full attention can be paid to the processes, frameworks, architecture and automation required to properly support the GitLab.com application in the long term.
+The General Team exists to ensure that all services at GitLab are properly supported by either providing that support directly or routing requests for new work to the appropriate [Reliability team](/handbook/engineering/infrastructure/team) while also being the primary operators and maintainers of the GitLab.com application.  In the short-term, the goal is shrink the overall pool of what we call "General" by assigning ownership of services to appropriate [Reliability team](/handbook/engineering/infrastructure/team) so that full attention can be paid to the processes, frameworks, architecture and automation required to properly support the GitLab.com application in the long term.
 
 ## Ownership and Responsibilities
 
@@ -23,17 +23,17 @@ It is not always easy or possible to definitively determine the primary services
 
 #### DBRE Support
 
-The [DBRE team](/handbook/engineering/infrastructure/team/reliability/database-reliability.html) occasionally requires SRE support which the General Team, by default, will provide.
+The [DBRE team](/handbook/engineering/infrastructure/database) occasionally requires SRE support which the General Team, by default, will provide.
 
 ## How We Work - Prioritization
 
 ### Issues and Epics
 
-Issues are prioritized utilizing the [Issue Management and Prioritization Process for Reliability](/handbook/engineering/infrastructure/team/reliability/issues.html).  The issues themselves are managed on The [General Team Issue Board](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/3993753?label_name%5B%5D=team%3A%3AGeneral).   This board is reviewed a minimum of once per week by the Engineering Manager for the General Team or by another member of the team if the Engineering Manager is not available.
+Issues are prioritized utilizing the [Issue Management and Prioritization Process for Reliability](/handbook/engineering/infrastructure/team/ops/#issues-and-epics).  The issues themselves are managed on The [General Team Issue Board](https://gitlab.com/gitlab-com/gl-infra/production-engineering/-/boards/3993753?label_name[]=team%3A%3AOps).   This board is reviewed a minimum of once per week by the Engineering Manager for the General Team or by another member of the team if the Engineering Manager is not available.
 
 ### OKRs
 
-OKRs are established following the same process for [issue prioritization](/handbook/engineering/infrastructure/team/reliability/issues.html).  In addition to OKRs, a variable percentage of team capacity is reserved each quarter for unplanned work (as the General Team will, by default, own any work that does not currently have a pre-defined owner).
+OKRs are established following the same process for [issue prioritization](/handbook/engineering/infrastructure/team/ops/#issues-and-epics).  In addition to OKRs, a variable percentage of team capacity is reserved each quarter for unplanned work (as the General Team will, by default, own any work that does not currently have a pre-defined owner).
 
 ### Corrective Actions and Security Issues
 
@@ -46,8 +46,8 @@ OKRs are established following the same process for [issue prioritization](/hand
 
 The General Team is responsible for ensuring the published Monthly Availability Updates are maintained.  This is currently a manual process.   Items to update include:
 
-1. [Historical Service Level Availability](/handbook/engineering/monitoring/#historical-service-level-availability) including [maintenance windows](https://status.gitlab.com/pages/history/5b36dc6502d06804c08349f7]) from the month in the comments
-1. [Executive Summary](/handbook/engineering/infrastructure-quality/performance-indicators/#executive-summary)
+1. [Historical Service Level Availability](/handbook/engineering/monitoring/#historical-service-level-availability) including [maintenance windows](https://status.gitlab.com/pages/history/5b36dc6502d06804c08349f7) from the month in the comments
+1. [Executive Summary](/handbook/engineering/performance-indicators/)
 1. [GitLab.com Availability](/handbook/engineering/infrastructure-quality/performance-indicators/#gitlabcom-availability) (Only last 3 months are required)
 
 Each of these items should be updated to reflect the most recent month.  ([Sample MR](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/127806)).
@@ -91,9 +91,9 @@ All our welcome to participate in the process of identifying trends.  EOCs, espe
 
 ## Team Status Updates
 
-The General Team provides weekly updates all Epics following the [Reliability Process for Epics](/handbook/engineering/infrastructure/team/reliability/issues.html#epics).
+The General Team provides weekly updates all Epics following the [Reliability Process for Epics](/handbook/engineering/infrastructure/team/ops/#issues-and-epics).
 
-OKRs are updated every Wednesday as required by the [Reliability Process for OKR Updates](/handbook/engineering/infrastructure/team/reliability/#okrs)
+OKRs are updated every Wednesday as required by the [Reliability Process for OKR Updates](/handbook/engineering/infrastructure/team/ops/#okrs)
 
 [Current OKRs](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=closed_at_desc&state=opened&type%5B%5D=objective&label_name%5B%5D=Reliability%3A%3AGeneral&first_page_size=100)
 
@@ -122,5 +122,5 @@ The General Team must maintain a broad and diverse set of technical skills while
 
 ## Common Links
 
-- Issue Board: [All issue by priority](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/3993753?label_name%5B%5D=team%3A%3AGeneral)
+- Issue Board: [All issue by priority](https://gitlab.com/gitlab-com/gl-infra/production-engineering/-/boards/3993753?label_name[]=team%3A%3AOps)
 - Slack Channel: #g_infra_general
