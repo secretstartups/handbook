@@ -253,50 +253,29 @@ We hold our Sales Development Org accountable to three pillars:
 
 ## BDR and SDR Compensation and Quota
 
-Quota is made up of the following depending on [sales segment](/handbook/sales/field-operations/gtm-resources/#segmentation):
-- [Sales Accepted Opportunities (SAOs)](/https://about.gitlab.com/handbook/marketing/sales-development/#qualification-criteria-and-saos)
-- [ARR](/handbook/sales/sales-term-glossary/arr-in-practice) pipeline component
+Quota is made up of the following depending on the team and [sales segment](/handbook/sales/field-operations/gtm-resources/#segmentation):
+- SDRs comp is based on [Sales Accepted Opportunities (SAOs)](/https://about.gitlab.com/handbook/marketing/sales-development/#qualification-criteria-and-saos)
+- BDRs are mainly based on their S1 and S3 [ARR](/handbook/sales/sales-term-glossary/arr-in-practice) pipeline component
 - 2-way communication must be documented on the Contact in the Opportunity to receive credit. Opportunities missing this documentation will not be considered for compensation and will not retire quota.
-- For BDRs and SDRs who have SAO/ARR goals, compensation is based on the SAO attainment. ARR attainment is a qualifier for accelerator payments. Our aim is to land net new logos and expand to new customer business units, SAOs being our quantity metric and ARR our quality metric.  Our mission is to create good qualified pipeline for the company. SAO credit is given for licences and not for PS Opportunities (for training, for example) nor pipeline minutes.
+
 
 #### Sales Development Org Compensation Breakdown
-**Team Member OTE (SDR/MM BDR, APAC BDR, & Pub Sec)**
+**Team Member OTE (SDR)**
 * 70% Base Pay
 * 30% Variable Pay:
-    * 100% Individual SAO Quota:
-        * No floor or ceiling
-        * Accelerator x 1.5 after meeting 100% of target
-        * 1.3 x High LAM New Logo Kicker for APAC/Pub Sec BDRs
+    * 100% Individual SAO Quota
+       
 
 
-**Team Member OTE (ENT BDR Strategic)**
+**Team Member OTE (BDRs)**
 * 70% Base Pay
 * 30% Variable Pay:
-    * 80% Individual Quota:
-        * 20% Growth SAOs
-        * 60% First Order SAOs
-        * 1.3 x High LAM New Logo Kicker
-        * No floor or ceiling
-        * Accelerator x 1.75 after meeting 100% of target of either SAO type for that type
-    * 20% Pooled Net ARR Bookings:
-        * 75% Floor
-        * Ceiling of 140%
-        * Accelerator x 1.25 from 100% to 140%
+    * 65% Monthly Stage 1 Pipe Generated ARR$ 
+    * 35% Quarterly Stage 3 Pipe Generated Expected Net ARR$
+* **Pursuit Account Kicker:** Added based on Stage 1 or Stage 3 Pipeline $ by Enterprise / MM Named BDRs–aligned target account list created alongside the Sales team.
+    * **MM territory:** Additional Kicker for FO opportunities
 
-**Team Member OTE (ENT BDR Major)**
-* 70% Base Pay
-* 30% Variable Pay:
-    * 80% Individual Quota:
-        * 50% SAOs
-        * 1.3 x High LAM New Logo Kicker
-        * No floor or ceiling
-        * Accelerator x 1.75 after meeting 100% of SAO target
-        * 30% Net ARR Pipeline
-        * No floor with a 200% ceiling, no accelerator
-    * 20% Pooled Net ARR Bookings:
-        * 75% Floor
-        * Ceiling of 140%
-        * Accelerator x 1.25 from 100% to 140%
+        
 
 ## Activity & Results Metrics
 
