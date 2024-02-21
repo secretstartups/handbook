@@ -71,7 +71,13 @@ The following members of other functional teams are our stable counterparts:
 
 ### Dashboards
 
-{{% cross-functional-dashboards filters="enablement" section=true %}}
+{{< tableau height="600px" toolbar="hidden" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/TopEngineeringMetrics/TopEngineeringMetricsDashboard" >}}
+  {{< tableau/filters "SECTION_LABEL"="enablement" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/MergeRequestMetrics/OverallMRsbyType_1" >}}
+  {{< tableau/filters "SECTION_LABEL"="enablement" >}}
+{{< /tableau >}}
 
 ### Weekly Async Updates (No Status Update In Meetings)
 
