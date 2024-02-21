@@ -124,7 +124,7 @@ Mergers and Acquisitions Committee meetings are attended by:
 
 ## Location
 
-The board meeting is [all remote]({{< ref "all-remote" >}}/) because hybrid is a bad experience for remote participants, see [video calls]({{< ref "communication#video-calls" >}}) point 10.
+Board meetings can happen remotely or in-person. We establish the meeting calendar in advance of the coming fiscal year. During this time, we agree on meeting locations.
 
 ## Board Meeting Schedule
 
