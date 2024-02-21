@@ -692,6 +692,15 @@ When you have accidentally deleted something from the Team Meetings calendar, yo
 - Make sure you are on the correct calendar, by clicking on the name of the calendar in the left sidebar.
 - Hover over the item you'd like to restore and click the arrow to "Restore".
 
+#### Show declined events
+
+We recommend enabling the 'Show declined events' setting if you are unable to attend a meeting but will still contribute to the agenda or attendance list asynchronously. Use this setting if it's helpful for you to see declined meetings in your calendar view for any other reason.
+
+- Navigate to [Event settings](https://calendar.google.com/calendar/u/0/r/settings)
+- Check the box for 'Show declined events' under 'View options'
+
+![Google Calendar - Show declined events](/handbook/tools-and-tips/images/showdeclinedevents.png)
+
 #### Sharing
 
 We recommend you set your Google Calendar access permissions to 'Make available for GitLab - See all event details'. Team member calendars should **not** have access permissions set to 'Make available to public' due to the risk of sensitive data exposure and [zoombombing](https://en.wikipedia.org/wiki/Zoombombing).
