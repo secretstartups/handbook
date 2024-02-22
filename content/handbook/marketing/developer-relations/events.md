@@ -265,7 +265,7 @@ the application.
 
 Please use the [Code challenge checklist template](https://gitlab.com/gitlab-com/marketing/developer-relations/developer-advocacy/developer-advocacy-meta/-/issues/new?issuable_template=codechallenge-checklist) to
 create a new Code challenge issue for the event. Review the requirements and use them as a guide to ensure every component is in place.
-Add the new code challenge issue into the event epic in the [event roadmap](/handbook/marketing/community-relations/developer-evangelism/workflow/#roadmap-view).
+Add the new code challenge issue into the event epic in the [event roadmap](/handbook/marketing/developer-relations/developer-advocacy/workflow/#roadmap-view).
 
 ## Sponsorship
 

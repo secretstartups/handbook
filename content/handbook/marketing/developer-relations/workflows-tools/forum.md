@@ -236,7 +236,7 @@ P --> |Questions answered|Q[ping relevant product channel]
 
 ### Forum Community Response Workflow
 
-[Community response situations](/handbook/marketing/developer-relations/developer-evangelism/community-response/#forum-topic-preparation) include preparing a forum topic as a draft in the [Internal](https://forum.gitlab.com/c/internal/) category.
+[Community response situations](/handbook/marketing/developer-relations/developer-advocacy/community-response/#forum-topic-preparation) include preparing a forum topic as a draft in the [Internal](https://forum.gitlab.com/c/internal/) category.
 
 Team members need to sign-up for a [forum account](/handbook/marketing/developer-relations/workflows-tools/forum/#registration-and-login) in order to create a topic. The Internal category allows team members review and edit the draft together without it being available to the public.
 
