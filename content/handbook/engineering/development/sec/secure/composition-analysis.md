@@ -368,6 +368,13 @@ needed for [Operational Container Scanning](https://docs.gitlab.com/ee/user/clus
 - [license-processor](https://gitlab.com/gitlab-org/security-products/license-db/license-processor)
 - [schema](https://gitlab.com/gitlab-org/security-products/license-db/schema)
 
+### Operational Container Scanning
+
+- [trivy-k8s-wrapper](https://gitlab.com/gitlab-org/security-products/analyzers/trivy-k8s-wrapper)
+- [OCS module](https://gitlab.com/gitlab-org/cluster-integration/gitlab-agent/-/tree/master/internal/module/starboard_vulnerability)
+
+The [OCS module](https://gitlab.com/gitlab-org/cluster-integration/gitlab-agent/-/tree/master/internal/module/starboard_vulnerability) is part of the [GitLab-Agent](https://gitlab.com/gitlab-org/cluster-integration/gitlab-agent) project which is maintained by the `environments` group. The `Composition Analysis` group is responsible for maintaining only the [OCS module](https://gitlab.com/gitlab-org/cluster-integration/gitlab-agent/-/tree/master/internal/module/starboard_vulnerability) module.
+
 ### Upstream scanner mirrors
 
 As some of our analyzers rely on open source software, we include them in our security testing to increase coverage and reduce risk.
