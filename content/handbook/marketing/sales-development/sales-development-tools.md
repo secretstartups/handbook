@@ -149,7 +149,7 @@ As you begin building your new sequence, make sure you are following the proper 
 * **Email Messaging**:
     - For each email step in your sequence, send yourself a test email to ensure formatting is appropriate and all variables are set correctly.
 
-Once you have set your sequence up with the proper name, structure, settings and email messaging, return to the issue and tag your manager for approval. **If your manager rejects your sequence, you will need to make the necessary changes to gain their approval. If they have responded with their approval, you are cleared to move forward with setting your sequence live.**
+Once you have set your sequence up with the proper name, structure, settings and email messaging, return to the issue and tag your manager and sales development operations manager for approval. **If your sequence is rejected, you will need to make the necessary changes to gain approval. If your sequence is approved, you are cleared to move forward with setting your sequence live. A decision on approval will be made within 48 hours of the request.**
 
 #### Setting a Sequence Live
 Go into the sequence settings and toggle the bar in the upper left from gray (paused) to green (active). You are now ready to use your sequence.
