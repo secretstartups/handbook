@@ -21,13 +21,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### AMER Time Zone Webinars & Labs
 
-#### Security and Compliance
-##### February 21st, 2024 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
-
-GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_kNAaDYm_TgiUZTXV7HtfKA#/registration)
-
 ### Jira to GitLab: Helping you transition to planning with GitLab
 ##### February 27th, 2024 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
 
@@ -43,13 +36,6 @@ Join us for a hands-on GitLab AI lab where we will explore Artificial Intelligen
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_tdfeUNKoRwqid6SuRfNfWw)
 
 ### EMEA Time Zone Webinars & Labs
-
-#### Security and Compliance
-##### February 21st, 2024 at 10:00-11:00AM UTC / 11:00AM-12:00PM CET
-
-GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_3gZXFUp6RmeHB_Nu6ubjMw#/registration)
 
 ### Jira to GitLab: Helping you transition to planning with GitLab
 ##### February 27th, 2024 at 10:00-11:00AM UTC / 11:00AM-12:00PM CET
@@ -140,13 +126,6 @@ GitLab enables developers and security to work together in a single tool, allowi
 
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_H4LE0jLcTA-f9r4lRb7DmQ#/registration)
 
-#### AI in DevSecOps - GitLab Hands-On Lab
-##### March 27th, 2023 at 9:00-11:00AM Pacific Time / 12:00-2:00PM Eastern Time
-
-Join us for a hands-on GitLab AI lab where we will explore Artificial Intelligence and how it fits within the DevSecOps lifecycle. In this session, we will cover foundational implementation and use case scenarios such as Code Suggestions and Vulnerability Explanations.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_E7iWMfpCSOOXDuW-mt7uBA#/registration)
-
 ### EMEA Time Zone Webinars & Labs
 
 #### Intro to GitLab
@@ -203,13 +182,6 @@ Expand your CI/CD knowledge while we cover advanced topics that will accelerate 
 GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
 
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_G5BXFRtvREiv2Smo_p2hmg#/registration)
-
-#### AI in DevSecOps - GitLab Hands-On Lab
-##### March 27th, 2023 at 10:00AM-12:00PM UTC / 11:00AM-1:00PM CET
-
-Join us for a hands-on GitLab AI lab where we will explore Artificial Intelligence and how it fits within the DevSecOps lifecycle. In this session, we will cover foundational implementation and use case scenarios such as Code Suggestions and Vulnerability Explanations.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN__w82k991QNmqolAbE3d7dA#/registration)
 
 ### APJ Time Zone Webinars & Labs
 
