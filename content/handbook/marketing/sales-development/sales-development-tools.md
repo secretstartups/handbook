@@ -450,3 +450,78 @@ The full process for offboarding at GitLab differs based on whether it is volunt
 
 * The people team will create an [offboarding issue](/handbook/people-group/offboarding/#offboarding), complete all ‘Manager’ tasks on the issue. If you have any questions use the #managers #people-connect slack channels. You can also reach out to the assigned people ops team member on the issue.
 
+## Monthly Audit Proces
+
+In an effort to increase transparency as well as consistency in terms of credit attribution for opportunities sourced by the Sales Development organization, we will conduct on a monthly basis a full audit of all opportunities giving credit to either a Sales Development or a Business Development Representative. Please do note that SDRs/BDRs that are on their ramping quarter are exempt from being auditors.
+
+Participating and completing the audit on time is mandatory.
+
+Guiding principles: 
+
+1. All activities must be logged and documented in Salesforce. <br>
+2. Timestamps for such activities will be audited and cannot be modified after the fact
+Sourcing cases must be clearly documented. <br>
+3. All opportunities associated with a Sales Development team member must have meaningful engagement for Web Directs and full qualifications criteria for Direct Deals.
+
+**Mandatory SLA:** Audit and XDR response must be completed by the first day of the following month. Rulings will be completed by the management team by the end of the second day.  Invitations and pairing will be sent to the entire Sales Dev team the first week of the month. It is the responsibility of the team member to find a backfill to do their audit if they are unable to complete the audit within set timelines.
+
+### XDR'S RESPONSIBILITY:
+
+1. All activities must be logged in Salesforce 
+Pro-actively flag opportunities with questions or created outside the standard process in the [Audit Doc.](https://docs.google.com/spreadsheets/d/1IBSfKuK6QcvsAIPvW7uYYCjeMtqPmpeDv2swsPAZShc/edit#gid=0). Please note that there's a separate audit worksheet specific to the PubSec team that is shared separately for compliance reasons.
+
+Examples: web directs. AE-created. Partner generated (for now), Opp w/no value, duplicate opp
+
+### AUDITOR'S RESPONSIBILITY:
+
+1. Auditor needs to review all notes and time stamps related to the opportunity
+2. Auditor needs to log an activity #Audited on the activity record of the opportunity as mentioned below, this way we can track completion of monthly audit.
+3. Ensure that relevant activity & products are attached.
+4. Ensure that Products match up to Qualification info in Call Connect and/or Meeting
+5. For BDRs, ensure account was in AWA status
+ensuring that the [RoE](https://handbook.gitlab.com/handbook/marketing/sales-development/#rules-of-engagement-quick-guide) was followed
+6. Flag in the [Audit Doc](https://docs.google.com/spreadsheets/d/1IBSfKuK6QcvsAIPvW7uYYCjeMtqPmpeDv2swsPAZShc/edit#gid=0), any questions related to the audited opportunities.
+
+### AUDIT PROCESS:
+
+Each month you will be assigned one of your peers to Audit. We will share a report with all the S1 opportunities created that month. SDRs will audit SDRs and BDRs will audit BDRs. We will do our best to pair people from the same segment however it is possible that you end up auditing someone from another segment. 
+
+Once you’ve audited an opp, you will create a task by logging a call, choose “other” as type, and write “#Audited” in the subject line. If an opp needs more research, write “#Audited - Pending Review” and add this opp into the Audit Review spreadsheet. 
+
+### AUDIT REVIEW (what to look for): 
+
+| Action | Rationale | Coaching Opportunity | 
+| ------ | ------ | ------ |
+| Opp creator    |    Our standard is to get to credited for creating opportunities that meet the qualification criteria.    |   When you set up a conversation with an AE, you should create the opportunity. If we see that an opp was created by an AE but has the SQS = Sales Dev Generated, there will need to be evidence of meaningful engagement by the Sales Dev rep prior to the opp being created.   |
+| For Web Direct opportunities, check timestamp and for two way meaningful engagement prior to the purchase       | Web Direct opportunities are people that bought directly from the store themselves without necessarily having being influenced by us.       |  Explain that our role in this company is to directly influence purchasing decisions through positive and purposeful interactions with prospects. Requesting credit when we have not added specific value to a prospect's journey diminishes the credibility of our team. | 
+| Check to see whether opportunity qualification fields are populated. | Marketing and Sales are expected to collaborate to move prospects down the funnel based on specific qualifiers. When it comes to Stage-0 opportunities these are the opportunity qualification fields. | It's common that individuals do not fill these fields in the name of agility. This however does not create accountability in progressing these prospects down the funnel in a predictable manner. |
+| Check the date of opportunity creation. | Creation of the opportunity should occur when you're engaged with the prospect and have begun the qualification process | Explain that creating opps as soon as engagement occurs will lead to better management of a BDRs/SDRs pipeline. | 
+| Check to see if there is a contact associated to the opp and that there's meaningful engagement prior to the opp being created. | Our standard process requires that we work specific leads and that we convert the main contact person to a contact/opportunity upon qualification. | Explain that this best practice will help with measuring and moving an opportunity further down the pipeline because of accurately being able to communicate the decision-making team from the prospect's side. |
+| If activity shows up on the record, and the activity is a connected call with notes, verify that the activity matches in Outreach. | Activities on SFDC can be edited freely and therefore questioned by our audit team. | Explain that Outreach is a SSoT that can be used as irrefutable proof of outreach. Even if other systems fail, Outreach is always used as the last back-up. |
+| If activity matches, check that activity happened in accordance with our Actively Working Rules Of Engagement (RoE). | Team members from both Sales and Marketing are expected to contribute pipeline only within their assigned territory. | Explain that making sure that being aligned to the RoE will not create any contigencies when measuring pipeline. |
+
+#### Typical Red Flags:
+
+1. Opportunity Source: Sales Qualified Source should be SDR generated if not validate that there is a sourcing case documented. 
+2. Created by: The XDR should create the opportunity, if not, there should be a written explanation 
+3. Did the XDR set and complete a meeting on the same day without previous activity?
+4. Are there duplicate opportunities?
+5. Is NetARR missing?
+
+_Directors, Ops and JB will select random opps each month to audit and ensure audit process is being followed_
+
+#### Best practices to ensure credit for SAO:
+
+1. Sequence all leads if you’re reaching out
+2. Make sure your activity is logged that shows how you drove the meaningful engagement that led to the opportunity.
+3. Populate all qualification fields
+4. If activity was a phone call or a zoom call, log notes at the time of call
+5. If a meeting was set, make sure you create a stage 0 opportunity prior to the meeting, populate fields during/afterwards. If person will likely web direct, keep opp in your name and update next steps
+6. If engagement is in LinkedIn or Whatsapp, take a picture and attach to chatter/opp
+7. If activity happened at an event, make sure that immediately following the event, you create a stage 0 opportunity and  send follow up email that recaps the conversation that took place
+
+### Reports
+
+[1. SAO Report for SDRs](https://gitlab.my.salesforce.com/00O8X000008QeFh?sdtd=1)
+
+[2. SAO Report BDRs](https://gitlab.my.salesforce.com/00O8X000008QdwB)
