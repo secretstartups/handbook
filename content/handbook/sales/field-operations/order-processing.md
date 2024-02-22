@@ -1141,11 +1141,17 @@ Review the [Professional Services handbook page](/handbook/customer-success/prof
     - Ensure that you have reviewed the standard SOW with your customer **PRIOR** to booking the opportunity. Everything listed in the SOW is what will be provided, no more, no less, no customizations.
 
 
-1. If a Professional Services Opportunity will include a custom SOW with unique deliverables
+1. If a Professional Services Opportunity will include a custom Statement of Work (SOW) or Change Order (CO) with unique deliverables
     - Note: Professional Services must be sold on standalone opportunity with the ***Opportunity Record Type*** set to ***Professional Services Only***. They must not be sold on the same opportunity as subscription products. The opportunity should be created by going to the Open or Closed Won license opportunity and clicking on the New PS Opportunity button. This will generate a related PS opp.
-    - A fully signed copy of the SOW is **required**. Please review the process on obtaining signatures, as the SOW will also need to be counter-signed by an authorized signer at GitLab.
+    - A fully signed copy of the SOW or CO is **required**. Please review the process on obtaining signatures, as the SOW will also need to be counter-signed by an authorized signer at GitLab.
     - Account owners are not approved signers! **ALL** signatures must go through Legal and/or Finance.
-    - A Custom SOW **does not** require a signed order form
+    - A quote needs to be generated, but only for backend billing automation purpsoes. **Do not share quote with customer or reselling partner!**
+        - For Time and Material (T&M) services, the **GitLab Service Package** must be added with the T&M Value from the SOW match the value in the quote line item. 
+        - For Fixed Price (FP) services in the SOW, there must be matching SKUs (usually training or certification) in the quote. Review prices to ensure they match between quote and SOW. 
+        - If the SOW contains T&M and FP services, two quotes need to be created. T&M should use the **GitLab Service Package** SKU and match the T&M value in the SOW. The FP Quote should use the matching SKUs in the catalog. 
+        - DISREGARD ANY DISCOUT APPROVAL REQUIREMENTS. ALL DISCOUNT REQUESTS FOR PROFESSIONAL SERVICES HAPPEN IN SFDC CHATTER. 
+    - The order form generated **does not** require a customer signature. The customer will only sign CO/SOW.
+    - Cost of Goods Sold (COGS) spreadsheet must be attached to the opportunity to book. This outlines project costs and expected margins. 
 
 **Professional Services Opportunities Only** - If the SOW outlines a split payment schedle, **only one opp is needed to book the order**. We do not use multiple opps with PS opps requiring separate payments.
 
