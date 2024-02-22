@@ -445,7 +445,7 @@ Prior to 2020, the team impact overview was created in Slack, and in the years t
 [Infrastructure department performance indicators]: /handbook/engineering/infrastructure/performance-indicators/
 [MTTP]: /handbook/engineering/infrastructure/performance-indicators/#mean-time-to-production-mttp
 [KI lower MTTP]: https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/107
-[Delivery Sisense PIs]: https://app.periscopedata.com/app/gitlab/573702/WIP:-Delivery-team-PIs
+Delivery Sisense PIs
 [triage ops]: https://gitlab.com/gitlab-com/gl-infra/triage-ops
 [DRI]: /handbook/people-group/directly-responsible-individuals/
 [Build board]: https://gitlab.com/gitlab-com/gl-infra/delivery/-/boards/1918862
