@@ -194,6 +194,20 @@ If you delete, rename, or move a page, you can:
 1. [update all existing links]({{< ref "practical-handbook-edits.md#find-and-replace-a-string-in-all-matching-files" >}})
 1. [add an alias to redirect]({{< ref "frontmatter.md#aliases" >}})
 
+## Editing content from shortcodes
+
+When trying to edit content, you may encounter content that is "built" using shortcodes and data files.
+Shortcodes look similar to `{{% performance-indicators "ux_department" %}}`.
+
+When you encounter content in a shortcode and want to edit it:
+
+1. Look for the shortcode in the [shortcodes folder](https://gitlab.com/gitlab-com/content-sites/handbook/-/tree/main/layouts/shortcodes).
+   - In the above example, it's `performance-indicators`.
+1. At the top of the shortcode file should be a comment on where to look for the relevant data file. Ensure you're using "Display source" to view the file.
+   - For example, look in `https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/performance_indicators` for the `ux_department` file.
+   - If there is no comment, you can post in `#handbook` to get help, and make a MR to add it.
+1. [Edit the file](#use-the-web-ide-to-edit-the-handbook), being careful to match the existing formatting.
+
 ## Failing pipelines
 
 To see why your pipeline is failing, there are two main places to look:
