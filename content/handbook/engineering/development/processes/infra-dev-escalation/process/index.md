@@ -365,13 +365,9 @@ To get an idea of [what's expected](#expectation) of an on-call engineer and how
    1. [SLAs](https://dashboards.gitlab.net/d/general-slas/general-slas?orgId=1).
    1. [Web Overview](https://dashboards.gitlab.net/d/web-main/web-overview?orgId=1).
 
-### Pagerslack statistics ([Sisense](https://app.periscopedata.com/app/gitlab/780258/Pagerslack-Stats))
+### Pagerslack statistics ([Tableau](https://10az.online.tableau.com/#/site/gitlab/workbooks/2225419/views))
 
-{{< sisense dashboard="780258" chart="10320020" >}}
-
-{{< sisense dashboard="780258" chart="10320263" >}}
-
-{{< sisense dashboard="780258" chart="10320108" >}}
+https://10az.online.tableau.com/#/site/gitlab/workbooks/2225419/views
 
 ### Notification Settings
 
