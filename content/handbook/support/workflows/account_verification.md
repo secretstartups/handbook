@@ -15,7 +15,7 @@ This workflow covers how a user can provide account verification. While the work
 
 ### User Account Verification
 
-As of Aug 16, 2023, GitLab.com now requires that users without 2FA enabled verify their email address when a login attempt meets certain high-risk criteria. Review the [blog post](https://about.gitlab.com/blog/2023/08/08/gitlab-account-security/) announcing this change. If a user contacts support with questions, use the []`Support::SaaS::Gitlab.com::Abuse::Email Address Verification`](https://gitlab.com/gitlab-com/support/zendesk-global/macros/-/blob/master/active/Support/SaaS/GitLab.com/Abuse/Email%20Address%20Verification.md?ref_type=heads) macro.
+As of Aug 16, 2023, GitLab.com now requires that users without 2FA enabled verify their email address when a login attempt meets certain high-risk criteria. Review the [blog post](https://about.gitlab.com/blog/2023/08/08/gitlab-account-security/) announcing this change. If a user contacts support with questions, use the [`Support::SaaS::Gitlab.com::Abuse::Email Address Verification`](https://gitlab.com/gitlab-com/support/zendesk-global/macros/-/blob/master/active/Support/SaaS/GitLab.com/Abuse/Email%20Address%20Verification.md?ref_type=heads) macro.
 
 If the user has questions about the email, phone, or credit card verification GitLab is requiring, please refer to the [Internal Handbook for the workflow](https://internal.gitlab.com/handbook/support/#phone-number-verification-issues) to follow.
 
@@ -207,24 +207,24 @@ The steps to follow depend on whether or not the customer has a shared Slack cha
      <details>
       <summary markdown="span">2FA Verification Template</summary>
 
-       <p>A user in your organization is requesting to have [GitLab two-factor authentication](https://docs.gitlab.com/ee/user/profile/account/two_factor_authentication.html) removed from their account. Please review and complete the highlighted sections below.</p>
+       A user in your organization is requesting to have [GitLab two-factor authentication](https://docs.gitlab.com/ee/user/profile/account/two_factor_authentication.html) removed from their account. Please review and complete the highlighted sections below.
 
-       <p>## Support Engineer Instructions
-       <p>- [ ] Ping the customer's organization owners in CUSTOMER_SLACK_CHANNEL using the [Notify Customer - Slack](/handbook/support/workflows/account_verification#2-contact-through-slack) template. For this organization the owners are SLACK_USERNAME, SLACK_USERNAME, and SLACK_USERNAME.
-       <p>- [ ] Fill out the `Request Details` section below.
+      **Support Engineer Instructions**
+       - Ping the customer's organization owners in CUSTOMER_SLACK_CHANNEL using the [Notify Customer - Slack](/handbook/support/workflows/account_verification#2-contact-through-slack) template. For this organization the owners are SLACK_USERNAME, SLACK_USERNAME, and SLACK_USERNAME.
+       -Fill out the `Request Details` section below.
 
-       <p>## {+Request Details+}
-       <p>- {+User Requesting Reset: USERS_GITLAB_USERNAME+}
-       <p>- {+Support Ticket: TICKET_NUMBER+}
+      **Request Details**
+       - User Requesting Reset: USERS_GITLAB_USERNAME
+       - Support Ticket: TICKET_NUMBER
 
-       <p>## {+Customer Instructions+}
-       <p>- [ ] {+Review the request and get in contact with the user requesting the reset to verify its authenticity.+}
-       <p>- [ ] {+Comment on this issue indicating your approval.+}
-       <p>- [ ] {+Unassign yourself and any others from this issue.+}
-       <p>- [ ] {+Assign to the Support Engineer who opened this issue.+}
+      **Customer Instructions**
+       - Review the request and get in contact with the user requesting the reset to verify its authenticity.
+       - Comment on this issue indicating your approval.
+       - Unassign yourself and any others from this issue.
+       - Assign to the Support Engineer who opened this issue.
 
-       <p>/assign GITLAB_USERNAME GITLAB_USERNAME GITLAB_USERNAME
-       <p>/label ~"2FA Reset" ~"Awaiting confirmation"
+       /assign GITLAB_USERNAME GITLAB_USERNAME GITLAB_USERNAME
+       /label ~"2FA Reset" ~"Awaiting confirmation"
 
 1. Open a [Support Operations issue](https://gitlab.com/gitlab-com/support/zendesk-global/organizations/-/issues/new) to request that three pieces of information be added to a customer's Zendesk organization:
    1. A link to the `2FA Verification.md` file you created in the previous step, such as `2FA owner vouch: /path/to/2FA Verification.md/` in the notes.
