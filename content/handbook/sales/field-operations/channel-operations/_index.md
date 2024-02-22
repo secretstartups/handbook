@@ -457,7 +457,6 @@ The steps below outline how a Partner Sourced Deal Registration is submitted on 
   - Partner Sourced Deal Registration approval is based on who sourced that particular opportunity. If the partner brought us the deal, then the registration should be approved. For clarity, it is not about first touch with the customer, but the actual creation/conversion of an opportunity.
   - The GitLab Partner Manager should communicate and align with the GitLab Sales Rep and ASM prior to approving or rejecting the Deal Registration.
   - The GitLab ASM should communicate and align with the GitLab Partner Manager and Sales Rep prior to approving or rejecting the Deal Registration.
-  - *Friendly reminder*, a partner and a GitLab SDR cannot both source an opportunity, it has to be one or the other. As noted above, it is not about first touch with the customer, but the actual creation/conversion of an opportunity.
 - **GitLab SLAs**
   - The SLA for GitLab to communicate with partners on a Partner Sourced Deal Registration is two business days. There must be contact with the registering partner within two business days, whether it be initial outreach to discuss the registration, a request for more information, approval, or rejection.
   - The GitLab ASM has one business day to either approve or reject the Registration, which begins when the Registration hits their queue for approval. The ASM *must* communicate with the GitLab Partner Manager if their approval is anticipated to push beyond the one business day SLA.
@@ -1063,38 +1062,6 @@ GCP registrations can be submitted by accessing Google's [Partner Advantage port
 
 The executed compensation letter should be the approved and legal source of truth for compensation. However please use the following resources to assist in clarification or exceptions.
 
-[FY24 Partner Comp & Splits Matrix](https://docs.google.com/spreadsheets/d/1LpNM636JnqQxLtMphxzcyZbdF5MDTgnIXkJEARCV_-4/edit#gid=1399522836)
+[Sales Commissions Internal Handbook](https://internal.gitlab.com/handbook/sales/sales-commission/?redirected-from=internal-handbook.gitlab.io)
 
 [FY24 Partner Comp Exception Process](https://docs.google.com/document/d/1sUVZDDua5JB1omVUbqBkxA1NAhSed66sjzfIBaVIkGg/edit?usp=sharing)
-
-
-### Channel Neutral
-
-Comp Neutrality applies to all GitLab Opportunities where a Partner is involved in the physical transaction (takes paper) ***and*** a Partner Program discount is applied on the executed Partner Order Form.
-The maximum Comp Neutral payout is based on the applicable GitLab Partner Program discount matrix. If additional discount is needed in order to close the deal, that portion is not eligible for Comp Neutrality.
-In the event a lesser discount is applied on the deal then what the Partner Program allocates, then the lesser discount will also be what is calculated for Comp Neutrality.
-Other factors:
-- Starter/Bronze is not applicable even if a discount is approved
-- US PubSec Sales, Channel, and Alliances teams do not qualify
-- For Alliances transactions, the contractual discount is used to calculate comp neutral
-- IBM OEM deals do not qualify
-- For H1 FY22 comp neutral did not apply for Distribution discounts. Starting H2 FY22 the contractual Distribution discounts will apply however no retroactive payments/re-calculations will be made.
-
-As a reminder, comp neutrality only applies to comp and does not retire quota.
-
-For additional information, please review [Channel Neutral Compensation](https://internal.gitlab.com/handbook/sales/sales-commission/#channel-neutral-commissions) within the internal Sales Ops commission section of the Handbook.
-
-Internal: [Partner Program Discount Matrix](/handbook/sales/field-operations/channel-operations/#program-and-incentive-definitions)
-For Partner Program discounts specific to US PubSec, please reach out to #partner-program-ops on Slack.
-
-### 2-Tier Opportunities
-
-If the Opportunity is going through a 2-Tier Channel (Distributor + Reseller), both Partner Accounts must be included on the Opportunity in the Partner Information section in order for both Program discounts to apply AND for Comp Neutral to calculate on both. Reseller should be in the Partner  field and the applicable Distributor in the Distributor field on the Opportunity.
-
-### Opportunities with GCP and AWS
-
-For deals going through GCP and AWS, the Partner fields should still be filled out on the Opportunity but comp neutral will not calculate until the deal closes as partner discounts are done after the quote/order form is generated. Deal Desk will assist with this process.
-
-
-
-
