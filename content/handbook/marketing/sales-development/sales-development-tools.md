@@ -314,7 +314,7 @@ To help structure your usage of the above, you can follow the steps below during
 | :----: | :-----: |
 |  **AMER BDR TEAMS**  | [AMER BDR Action Needed](https://gitlab.my.salesforce.com/01ZPL00000069v3) -  [AMER BDR Manager Attention Needed](https://gitlab.my.salesforce.com/01ZPL00000069VF) |
 |  **EMEA BDR TEAMS**  | [EMEA BDR Action Needed](https://gitlab.my.salesforce.com/01Z4M000000soBO) -  [EMEA BDR Manager Attention Needed](https://gitlab.my.salesforce.com/01ZPL0000006ABB) |
-|  **APAC BDR TEAMS**  | [APAC BDR Action Needed](https://gitlab.my.salesforce.com/01ZPL000000bkbl) -  [APAC BDR Manager Attention Needed](https://gitlab.my.salesforce.com/01ZPL0000006AW9) |
+|  **APAC BDR TEAMS**  | [APAC BDR Action Needed](https://gitlab.my.salesforce.com/01ZPL000000bkbl) -  [APAC BDR Manager Attention Needed](https://gitlab.my.salesforce.com/01ZPL000000cUJd) |
 |  **Global SDR Inbound Teams**  | [SDR Global Action Needed](https://gitlab.my.salesforce.com/01Z4M000000soBT) |
 
 ## Sales_Dev_fyi Channel Information
