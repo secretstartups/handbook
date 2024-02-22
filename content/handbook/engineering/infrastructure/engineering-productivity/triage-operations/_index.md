@@ -803,7 +803,7 @@ Type labels ensure that issues are present in the [group triage report](#group-l
 
 ##### Data
 
-- [Chart displaying the number of open issues by type label](https://app.periscopedata.com/app/gitlab/621211/?widget=8100010&udv=973087)
+- [Chart displaying the number of open issues by type label](https://10az.online.tableau.com/#/site/gitlab/views/DRAFTIssueTypesDetail/TotalIssuesbyTypes?:iid=1)
 
 #### Bug SLO Warning
 
