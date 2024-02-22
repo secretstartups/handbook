@@ -250,7 +250,7 @@ The BDR process that we have defined here in GitLab is meant to provide a repeat
 
 The BDR Process is explained step-by-step in the [main SDR handbook page here](/handbook/marketing/revenue-marketing/sdr/#bdr-outbound-process)
 
-For a newcoming manager, we provide the [Watch and Help Dashboards](/handbook/marketing/sales-development/sales-development-tools/#tracking--monitoring-resources) that will be your main tool in understanding where your team is aligned to our BDR process, and where they need assistance.
+For a newcoming manager, we provide the [Manager attention needed baords](/handbook/marketing/sales-development/sales-development-tools/#tracking--monitoring-resources) that will be your main tool in understanding where your team is aligned to our BDR process, and where they need assistance.
 
 To help structure your usage of the above, you can follow the steps below during your first month at GitLab while [the document here will be your main go-to resource](https://docs.google.com/document/d/18k1_jDHVgNzy2SzcPZ7GAOdJ6zb9i37Z4-V1-dEFKiU/edit#)
 
@@ -308,15 +308,14 @@ To help structure your usage of the above, you can follow the steps below during
 
 |  [Lead View Descriptions](/handbook/marketing/sales-development/#lead-and-contact-views) | There are Manager Lead views in SFDC mirroring the SDR and BDR views which are described on the linked Handbook page on the left. These views need to be checked regularly by managers to ensure all necessary leads are being worked.
 
-##  Watch and Help Boards
+## Action Needed Boards
 
 | Teams | Boards |
 | :----: | :-----: |
-|  **AMER ENTERPRISE TEAMS**  | [AMER ENTERPRISE DAILY BOARD](https://gitlab.my.salesforce.com/01ZPL00000069v3) -  [AMER ENTERPRISE MONTHLY BOARD](https://gitlab.my.salesforce.com/01ZPL00000069VF) |
-|  **EMEA and APAC ENTERPRISE TEAMS**  | [EMEA/APAC ENTERPRISE DAILY BOARD](https://gitlab.my.salesforce.com/01Z4M000000soBO) -  [EMEA/APAC ENTERPRISE MONTHLY BOARD](https://gitlab.my.salesforce.com/01ZPL0000006ABB) |
-|  **MM TEAMS**  | [MM TEAMS DAILY BOARD](https://gitlab.my.salesforce.com/01Z4M000000snjZ) -  [MM TEAMS MONTHLY BOARD](https://gitlab.my.salesforce.com/01ZPL0000006AW9) |
-|  **PubSec Team**  | [PubSec Team BOARD](https://gitlab.my.salesforce.com/01Z4M000000sney) |
-|  **SDR Inbound Teams**  | [SDR Inbound Teams BOARD](https://gitlab.my.salesforce.com/01Z4M000000soBT) |
+|  **AMER BDR TEAMS**  | [AMER BDR Action Needed](https://gitlab.my.salesforce.com/01ZPL00000069v3) -  [AMER BDR Manager Attention Needed](https://gitlab.my.salesforce.com/01ZPL00000069VF) |
+|  **EMEA BDR TEAMS**  | [EMEA BDR Action Needed](https://gitlab.my.salesforce.com/01Z4M000000soBO) -  [EMEA BDR Manager Attention Needed](https://gitlab.my.salesforce.com/01ZPL0000006ABB) |
+|  **APAC BDR TEAMS**  | [APAC BDR Action Needed](https://gitlab.my.salesforce.com/01ZPL000000bkbl) -  [APAC BDR Manager Attention Needed](https://gitlab.my.salesforce.com/01ZPL0000006AW9) |
+|  **Global SDR Inbound Teams**  | [SDR Global Action Needed](https://gitlab.my.salesforce.com/01Z4M000000soBT) |
 
 ## Sales_Dev_fyi Channel Information
 

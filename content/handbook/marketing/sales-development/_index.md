@@ -171,15 +171,14 @@ As part of your [onboarding](/handbook/marketing/sales-development/sdr-playbook-
 
 
 **BDR Team Breakdown**
-     *  PubSec
+     *  AMER PubSec
      *  AMER Mid-Market
      *  AMER West
-     *  AMER Central
      *  AMER East
-     *  EMEA Mid-Market
      *  EMEA NEUR
      *  EMEA DACH
      *  EMEA SEUR
+     *  EMEA EGC META NL
      *  APAC Large/MM
 
 ## Explaining the Sales Development Organizations Structure
