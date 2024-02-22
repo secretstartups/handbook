@@ -164,10 +164,11 @@ The Foundations Team must maintain a broad and diverse set of technical skills w
 
 ### Standup
 
-- We have Geekbot automated checkins on Mondays and Fridays in the [#g_infra_foundations_social](https://gitlab.slack.com/archives/C04QVEXBVL3) channel. 
+We have Geekbot automated checkins on Mondays and Fridays in the [#g_infra_foundations](https://gitlab.enterprise.slack.com/archives/C0313V3L5T6) channel. 
   - Monday questions include: 
     - What are your top priorities this week?
     - What did you accomplish last week?
+    - What else is on your todo list for the week?
     - Any blockers or requests for pairing?
   - Friday questions include:
     - How did your week go?
