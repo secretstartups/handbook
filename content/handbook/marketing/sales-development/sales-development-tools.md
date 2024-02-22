@@ -450,7 +450,7 @@ The full process for offboarding at GitLab differs based on whether it is volunt
 
 * The people team will create an [offboarding issue](/handbook/people-group/offboarding/#offboarding), complete all ‘Manager’ tasks on the issue. If you have any questions use the #managers #people-connect slack channels. You can also reach out to the assigned people ops team member on the issue.
 
-## Monthly Audit Proces
+## Monthly Audit Process
 
 In an effort to increase transparency as well as consistency in terms of credit attribution for opportunities sourced by the Sales Development organization, we will conduct on a monthly basis a full audit of all opportunities giving credit to either a Sales Development or a Business Development Representative. Please do note that SDRs/BDRs that are on their ramping quarter are exempt from being auditors.
 
@@ -467,8 +467,8 @@ Sourcing cases must be clearly documented. <br>
 
 ### XDR'S RESPONSIBILITY:
 
-1. All activities must be logged in Salesforce 
-Pro-actively flag opportunities with questions or created outside the standard process in the [Audit Doc.](https://docs.google.com/spreadsheets/d/1IBSfKuK6QcvsAIPvW7uYYCjeMtqPmpeDv2swsPAZShc/edit#gid=0). Please note that there's a separate audit worksheet specific to the PubSec team that is shared separately for compliance reasons.
+1. All activities must be logged in Salesforce. 
+Pro-actively flag opportunities with questions or created outside the standard process in the monthly [Audit Doc.](https://docs.google.com/spreadsheets/d/1IBSfKuK6QcvsAIPvW7uYYCjeMtqPmpeDv2swsPAZShc/edit#gid=0). Please note that there's a separate audit worksheet specific to the PubSec team that is shared separately for compliance reasons.
 
 Examples: web directs. AE-created. Partner generated (for now), Opp w/no value, duplicate opp
 
@@ -480,7 +480,7 @@ Examples: web directs. AE-created. Partner generated (for now), Opp w/no value, 
 4. Ensure that Products match up to Qualification info in Call Connect and/or Meeting
 5. For BDRs, ensure account was in AWA status
 ensuring that the [RoE](https://handbook.gitlab.com/handbook/marketing/sales-development/#rules-of-engagement-quick-guide) was followed
-6. Flag in the [Audit Doc](https://docs.google.com/spreadsheets/d/1IBSfKuK6QcvsAIPvW7uYYCjeMtqPmpeDv2swsPAZShc/edit#gid=0), any questions related to the audited opportunities.
+6. Flag in the monthly [Audit Doc](https://docs.google.com/spreadsheets/d/1IBSfKuK6QcvsAIPvW7uYYCjeMtqPmpeDv2swsPAZShc/edit#gid=0), any questions related to the audited opportunities.
 
 ### AUDIT PROCESS:
 
