@@ -282,7 +282,9 @@ Team members are entitled to at least 28 vacation days which consist of 20 days 
 
 ### Parental Leave
 
-For more information about Maternity, Paternity, Parental, and Adoption leave, please review the government's [webpage](https://www.gov.uk/browse/childcare-parenting).
+This section details the statutory maternity, paternity, parental, and adoption leave as offered by the UK Government. For more information, please review the government's [webpage](https://www.gov.uk/browse/childcare-parenting).
+
+**Note:** GitLab offers up to 16 weeks of paid [general parental leave benefit]({{< ref "general-and-entity-benefits#parental-leave" >}}) where, if eligible, statutory pay is supplemented up to 100% regular salary.
 
 **Statutory Maternity Leave:** Team members can take up to 52 weeks of Maternity Leave.
 
@@ -318,38 +320,50 @@ You must be taking time off to look after the child and be one of the following:
 
 Team members can receive Statutory Maternity Pay for up to 39 weeks:
 
-- To be eligible for Statutory Maternity Pay, team members must have continuous employment with GitLab for at least 26 weeks leading up to the "qualifying week" (15th week before the expected week of childbirth). Eligible team members are entitled to:
-- 90% of the team member's average weekly earnings (before tax) for the first 6 weeks.
-- £172.48 or 90% of the team member's average weekly earnings (whichever is lower) for the next 33 weeks. This also applies to the leave amounts provided for Paternity Leave and Adoption Leave.
-
-If [eligible]({{< ref "general-and-entity-benefits#parental-leave" >}}), GitLab will supplement the team member's pay to ensure they receive 100% pay for up to 16 weeks of their leave.
+- Eligibility:
+    - Team members must have continuous employment with GitLab for at least 26 weeks leading up to the "qualifying week" (15th week before the expected week of childbirth).
+- Eligible team members are entitled to:
+    - 90% of the team member's average weekly earnings (before tax) for the first 6 weeks.
+    - £172.48 or 90% of the team member's average weekly earnings (whichever is lower) for the next 33 weeks. This also applies to the leave amounts provided for Paternity Leave and Adoption Leave.
 
 To apply for Maternity Leave:
 
-- Submit your time off by selecting the Parental Leave category in Time Off by Deel at least 30 days before your leave starts.
+- Submit your time off by selecting the `Parental Leave` category in Time Off by Deel at least 30 days before your leave starts.
 - Send the Absence Management team at `leaves@gitlab.com` a completed [MATB1 Certificate](https://www.gov.uk/government/publications/maternity-certificate-mat-b1-guidance-for-health-professionals/maternity-certificate-form-mat-b1-guidance-on-completion) no later than 21 days before your leave start date.
 - The Absence Management team will then complete a [Risk Assessment Form](https://docs.google.com/document/d/1qHdbaeFSnqdwkQDTEurHD5QMbLPLuZGBQO_CBnRkpiE/edit) within 1-3 days of receiving notification of your leave. The purpose of the assessment is to make the team member aware of any hazards or “risks” to her in the workplace/home office to reduce potential injury to her or her baby.
 - The Absence Management team will notify payroll and email Vistra a copy of the MATB1, start date of leave, and outline what pay the team member is eligible for (statutory, supplemental, etc). Payroll will then automatically calculate the SMP due each pay period based on this information. The recovery of 90% will be outlined on the monthly payroll spreadsheet so that the finance team has indication of the amounts being offset each month.
 - Payroll will continue to be the same while on parental leave but Vistra will file for reimbursement of any statutory funds once the proper paperwork has been sent.
 If you do not qualify for Statutory Maternity Pay, you may qualify for [Maternity Allowance](https://www.gov.uk/maternity-allowance).
-- If a team member is eligible for maternity allowance and GitLab Parental Leave, GitLab will supplement the allowance so that team members receive 100% of their pay for up to 16 weeks of their leave.
 
 #### Paternity Leave Payment
 
-- Team members can receive Statutory Paternity Pay for up to 2 weeks which is £172.48 or 90% of the team member's average weekly earnings (whichever is lower) OR Shared Parental Leave Pay for up to 37 weeks which is £172.48 a week or 90% of the team member's average weekly earnings, whichever is lower.
-- To qualify, team members must have been continuously employed with GitLab for at least 26 weeks leading up to the "qualifying week" (15th week before the baby is due or the matching week if adopting).
-- If [eligible](general-and-entity-benefits#parental-leave), GitLab will supplement the team member's pay to ensure they receive 100% pay for up to 16 weeks of their leave.
-- To apply for Paternity Leave
-   - Submit your time off by selecting the Parental Leave category in Time Off by Deel at least 30 days before your leave starts.
-   - Send the Absence Management team at `leaves@gitlab.com` a completed [SPP Form](https://public-online.hmrc.gov.uk/lc/content/xfaforms/profiles/forms.html?contentRoot=repository:///Applications/PersonalTax_iForms/1.0/SC3&template=SC3.xdp) if applying for Statutory Paternity Pay or one of the [SPL Forms](https://www.acas.org.uk/shared-parental-leave-forms) if applying for Shared Parental Leave pay.
-   - The Absence Management team will notify payroll and email Vistra a copy of the form, dates of leave and outline what pay the team member is eligible for (statutory, supplemental, etc).
+Team members can receive Statutory Paternity Pay for up to 2 weeks or up to 37 weeks if taking Shared Parental Leave:
+
+- Eligibility:
+    - Team members must have been continuously employed with GitLab for at least 26 weeks leading up to the "qualifying week" (15th week before the baby is due or the matching week if adopting).
+- Eligible team members are entitled to:
+  - £172.48 or 90% of the team member's average weekly earnings (whichever is lower) for up to 2 weeks OR up to 37 weeks if taking Shared Parental Leave.
+
+To apply for Paternity Leave:
+
+- Submit your time off by selecting the `Parental Leave` category in Time Off by Deel at least 30 days before your leave starts.
+- Send the Absence Management team at `leaves@gitlab.com` a completed [SPP Form](https://public-online.hmrc.gov.uk/lc/content/xfaforms/profiles/forms.html?contentRoot=repository:///Applications/PersonalTax_iForms/1.0/SC3&template=SC3.xdp) if applying for Statutory Paternity Pay or one of the [SPL Forms](https://www.acas.org.uk/shared-parental-leave-forms) if applying for Shared Parental Leave pay.
+- The Absence Management team will notify payroll and email Vistra a copy of the form, dates of leave and outline what pay the team member is eligible for (statutory, supplemental, etc).
 
 #### Adoption Leave Payment
 
-- Team members can receive statutory adoption pay for up to 39 weeks:
-   - 90% of your average weekly earnings (before tax) for the first 6 weeks
-   - £172.48 or 90% of your average weekly earnings (whichever is lower) for the next 33 weeks
-   - To be eligible for statutory adoption pay, team members must have had continuous employment with GitLab for at least 26 weeks leading up to the week they were matched with the child.
+Team members can receive statutory adoption pay for up to 39 weeks:
+
+- Eligibility:
+    - Team members must have had continuous employment with GitLab for at least 26 weeks leading up to the week they were matched with the child.
+- Eligible team members are entitled to:
+    - 90% of your average weekly earnings (before tax) for the first 6 weeks
+    - £172.48 or 90% of your average weekly earnings (whichever is lower) for the next 33 weeks
+
+To apply for Adoption Leave:
+
+- Submit your time off by selecting the `Parental Leave` category in Time Off by Deel at least 30 days before your leave starts.
+- The Absence Management team will notify payroll and email Vistra a copy of the form, dates of leave and outline what pay the team member is eligible for (statutory, supplemental, etc).
 
 #### Unpaid Parental Leave
 
