@@ -23,9 +23,11 @@ CI Catalog GA Epic: [https://gitlab.com/groups/gitlab-org/-/epics/12153](https:/
 #### Goals:
 
 - Go-To GA efforts
-  - [POC issue](https://gitlab.com/gitlab-org/gitlab/-/issues/434260) to distributed components for Self managed customers.
-  - [Semantic versioning](https://gitlab.com/gitlab-org/gitlab/-/issues/427286)
-  - Inputs Enhancements for boolean and number [support](https://gitlab.com/gitlab-org/gitlab/-/issues/434826) and text interpolation with [arrays](https://gitlab.com/gitlab-org/gitlab/-/issues/407176).
+  - [POC](https://gitlab.com/gitlab-org/gitlab/-/issues/434260#note_1776822074) to distribute components for Self managed customers.
+  - [Semantic versioning](https://gitlab.com/gitlab-org/gitlab/-/issues/427286) (Complete)
+  - Inputs Enhancements
+    - Boolean and number [support](https://gitlab.com/gitlab-org/gitlab/-/issues/434826) (Complete) 
+    - Text interpolation with [arrays](https://gitlab.com/gitlab-org/gitlab/-/issues/407176)
 - CI/CD Catalog UX improvements
   - [Reorganize information on component detail page](https://gitlab.com/gitlab-org/gitlab/-/issues/438262)
   - [Add badges for components](https://gitlab.com/gitlab-org/gitlab/-/issues/433443)
@@ -35,12 +37,8 @@ CI Catalog GA Epic: [https://gitlab.com/groups/gitlab-org/-/epics/12153](https:/
 
 #### Additional Important Notes:
 
-- Upcoming next steps for Release/Publish process 2.0 [enhancements](https://gitlab.com/gitlab-org/gitlab/-/issues/438066#note_1762774827) week of 2024-02-12
-  - Create detailed plan of how it can work.
-  - Provide estimates on how long it would take to build.
-  - Articulate tradeoffs that'll help leadership understand how both approaches are being evaluated.
-  - Meeting with Product/Engineering leadership to review.
-- Components to GA was moved to `16.10` to include additional semver [support](https://gitlab.com/gitlab-org/gitlab/-/issues/427286#note_1762748626).  Discussion [here](https://docs.google.com/document/d/1-vyU2sgTmmw9FvQN0MpGg4Ravn_O6m4Ew0U3-Fj8o6Q/edit#bookmark=id.831n5q9o8abq).
+- Discussion in follow-up [issue](https://gitlab.com/gitlab-org/gitlab/-/issues/442066) related to publishing via `release-cli` only
+  - 2024-02-22 follow-up meeting to review plan for execution.
 - Awaiting feedback from security on [Threat Model](https://gitlab.com/gitlab-com/gl-security/appsec/threat-models/-/issues/43#note_1764196039) diagrams provided.
 
 ### Milestone 16.11 (March 9, 2024 - April 12, 2024)
