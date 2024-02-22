@@ -42,7 +42,9 @@ Through that process you may:
 
    d. If all High priority tickets are addressed, help with Normal or Low priority tickets that are at risk of breaching.
 
-   e. If the next Normal or Low priority ticket to breach is > 4 hours, focus on your NRTs, your group's NRTs, including unassigned tickets which have the `Handover Status` field set to `Needs Handover`, and finally free user tickets (tickets with no SLA).
+   e. If all Normal or Low priority tickets at risk of breach are addressed, help with already breached FRTs, starting from the longest breached ticket.
+
+   f. If the next Normal or Low priority ticket to breach is > 4 hours, focus on your NRTs, your group's NRTs, including unassigned tickets which have the `Handover Status` field set to `Needs Handover`, and finally free user tickets (tickets with no SLA).
 
    Proceed to
    [ticket assignment](#assigning-tickets)
