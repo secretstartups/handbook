@@ -17,7 +17,7 @@ title: "Reseller Agreement"
 **PLEASE READ THIS AGREEMENT CAREFULLY BEFORE ACCESSING GITLAB’S PARTNER PORTAL OR OTHERWISE, USING, ACCESSING, CONSUMING, PURCHASING, RESELLING OR OTHERWISE DISTRIBUTING THE SOFTWARE OR SERVICES FROM GITLAB. BY CLICKING YOUR ASSENT BELOW OR USING, ACCESSING OR CONSUMING THE GITLAB SOFTWARE OR SERVICES, YOU SIGNIFY YOUR ASSENT TO AND ACCEPTANCE OF THIS AGREEMENT AND ACKNOWLEDGE YOU HAVE READ AND UNDERSTAND THE TERMS. AN INDIVIDUAL ACTING ON BEHALF OF AN ENTITY REPRESENTS AND WARRANTS THAT HE OR SHE HAS THE AUTHORITY TO ENTER INTO THIS AGREEMENT ON BEHALF OF THAT ENTITY. IF YOU DO NOT ACCEPT THE TERMS OF THIS AGREEMENT, THEN YOU MUST NOT USE, ACCESS, CONSUME, PURCHASE, RESELL OR OTHERWISE DISTRIBUTE THE GITLAB SOFTWARE OR SERVICES.**
 
 
-# Master Partner Agreement
+## Master Partner Agreement
 
 **This Master Partner Agreement (the “Agreement”) is made as of the date in which the Partner accepts the terms of this Agreement by clicking “agree” or “accept” (the “Effective Date”) by and between GitLab and Partner (referred to herein as “Party”, or collectively as the “Parties”) and authorizes Partner to participate in one (1) or more of GitLab’s Partner Programs in the Territory (EMEA, North America, LATAM, or APAC) in the region aligning to the Partner’s principal place of business address. Notwithstanding the foregoing, (i) the APAC Territory excludes China, Hong Kong, and Macau; and (ii) authorization to participate in GitLab’s U.S. Public Sector Territory requires separate review and is excluded from the North America Territory, please contact a GitLab channel manager for further details.**
 
