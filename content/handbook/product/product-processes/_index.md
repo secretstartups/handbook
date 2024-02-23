@@ -119,7 +119,7 @@ Milestone start and end dates are defined as follows:
 1. Click on `New milestone` in the top right
 1. Title the milestone with the `dot` release that makes sense.
     - Note: We iterate through the `.0` and further for each release with the `.0` release every May.
-1. Set the start date to be the Saturday prior to the previous releases [release date](/releases/)
+1. Set the start date to be the Saturday prior to the previous releases [release date](https://about.gitlab.com/releases/)
 1. Set the end date to be the Friday prior to the third Thursday of the release month
 1. Closing milestones happens in the [Engineering workflow](/handbook/engineering/workflow/#milestone-cleanup)
 
@@ -130,7 +130,7 @@ Milestone start and end dates are defined as follows:
 1. Click on `New milestone` in the top right
 1. Title the milestone with the `dot` release that matches `.org`.
     - Note: We iterate through the `.0` and further for each release with the `.0` release every May.
-1. Set the start date to be the Saturday prior to the previous releases [release date](/releases/)
+1. Set the start date to be the Saturday prior to the previous releases [release date](https://about.gitlab.com/releases/)
 1. Set the end date to be the Friday prior to the third Thursday of the release month
 1. Closing milestones happens in the [Engineering workflow](/handbook/engineering/workflow/#milestone-cleanup)
 
@@ -296,7 +296,7 @@ which help produce clear internal and external
 messaging. Please also keep in mind that we should avoid using acronyms that others my not recognize, such as "MVC" for Minimal Viable Change. For more guidance you can visit our [writing style guidelines](/handbook/communication/#writing-style-guidelines).
 
 Let's highlight the messaging guidelines mentioned above with a concrete example, Preventing Secrets in your repositories,
-that [we shipped in 8.12](/releases/2016/09/22/gitlab-8-12-released/#preventing-secrets-in-your-repositories-ee).
+that [we shipped in 8.12](https://about.gitlab.com/releases/2016/09/22/gitlab-8-12-released/#preventing-secrets-in-your-repositories-ee).
 
 - Start with the context. Explain what the current situation is without the
 feature. Describe the pain points and connect back to our [Value Drivers](/handbook/marketing/#go-to-market-value-drivers-and-customer-use-cases) (in this case `Reduce Security and Compliance Risk`).
@@ -321,10 +321,10 @@ feature. Describe the pain points and connect back to our [Value Drivers](/handb
 
 Here are some additional examples of well written release blog posts for inspiration:
 
-- [Issue Board Work In Progress Limits](/releases/2020/02/22/gitlab-12-8-released/#issue-board-work-in-progress-limits)
-- [Parent-Child Pipelines](/releases/2020/01/22/gitlab-12-7-released/#parent-child-pipelines)
-- [Drag-and-drop Design badges](/releases/2020/02/22/gitlab-12-8-released/#drag-and-drop-design-badges)
-- [Render charts in GitLab issues using a Grafana URL](/releases/2019/11/22/gitlab-12-5-released/)
+- [Issue Board Work In Progress Limits](https://about.gitlab.com/releases/2020/02/22/gitlab-12-8-released/#issue-board-work-in-progress-limits)
+- [Parent-Child Pipelines](https://about.gitlab.com/releases/2020/01/22/gitlab-12-7-released/#parent-child-pipelines)
+- [Drag-and-drop Design badges](https://about.gitlab.com/releases/2020/02/22/gitlab-12-8-released/#drag-and-drop-design-badges)
+- [Render charts in GitLab issues using a Grafana URL](https://about.gitlab.com/releases/2019/11/22/gitlab-12-5-released/)
 
 ### Recording videos to showcase features
 
@@ -832,7 +832,7 @@ translate the priorities of any given group into action by our engineering
 teams, we need to be able to translate this multi-faceted problem into a flat
 list of priorities for at least the next release cycle. Product Managers are
 [responsible for taking all these prioritization considerations](/handbook/product/cross-functional-prioritization/#planning-for-the-milestone) and creating a
-clear, sequenced list of next priorities. This list should be represented as an [issue board](/stages-devops-lifecycle/issueboard/)
+clear, sequenced list of next priorities. This list should be represented as an [issue board](https://about.gitlab.com/stages-devops-lifecycle/issueboard/)
 so that each team has a clear interface for making decisions about work. From
 this list, Product Designers, Engineering Managers and Product Managers can work together to
 determine what items will be selected for work in the immediate future.
@@ -1181,7 +1181,7 @@ new categories.
 For categories that have already shipped, and that have a marketing
 product page, `categories.yml` should link to the product page, and the product
 page should then have a link to the category strategy (you can see an example for
-GitLab Pages with a Strategy button [here](/stages-devops-lifecycle/pages/)). You should also link
+GitLab Pages with a Strategy button [here](https://about.gitlab.com/stages-devops-lifecycle/pages/)). You should also link
 to your category strategy from your [stage strategy](#stage-strategy) page.
 
 Category direction should be reviewed on a regular basis (at least monthly) by the responsible product

@@ -478,7 +478,7 @@ GitLab customers were interviewed and related data was collected independently b
 
 #### 2019
 
-<big>[Forrester: Manage Your Toolchain Before it Manages You](/resources/whitepaper-forrester-manage-your-toolchain/)</big><br>
+<big>[Forrester: Manage Your Toolchain Before it Manages You](https://about.gitlab.com/resources/whitepaper-forrester-manage-your-toolchain/)</big><br>
 *Multiple tools and toolchains create visibility, security, and productivity challenges for development and operations teams. “Out-of-the-box” toolchain solutions are seen as a solution, increasing security, revenue, and quality.*<br>
 **Value Drivers:** Efficiency, Speed, Risk<br>
 **Differentiators:** Visibility<br>

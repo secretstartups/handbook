@@ -25,7 +25,7 @@ title: "GitLab tiers"
 1. Plans: the paid tiers only.
 1. License: open source vs. source-available, for example moving a feature from a source-available tier to an open-source tier.
 1. [Distribution](#history-of-ce-and-ee-distributions): self-managed CE vs. EE, for example you can have a EE distribution but in the Free tier.
-1. Version: the [release of GitLab](/releases/), for example asking what version a user is on.
+1. Version: the [release of GitLab](https://about.gitlab.com/releases/), for example asking what version a user is on.
 
 ## Types of Users
 
@@ -46,11 +46,11 @@ In general each of the self-managed tiers match the features in the GitLab SaaS 
 1. We want to know if a user is using self-managed or GitLab SaaS based on a just the tier name to prevent internal and external confusion.
 
 When we need to specify which tier includes a particular feature using only one word (for example on our issue tracker), we reference the self-managed tiers by default because they tend to contain a superset of the GitLab SaaS tier features.
-Where we can, we highlight both the self-managed and the GitLab SaaS tiers (like in [a release post](/releases/2018/02/22/gitlab-10-5-released/#instant-ssl-with-lets-encrypt-for-gitlab)).
+Where we can, we highlight both the self-managed and the GitLab SaaS tiers (like in [a release post](https://about.gitlab.com/releases/2018/02/22/gitlab-10-5-released/#instant-ssl-with-lets-encrypt-for-gitlab)).
 
 ## Add on Services
 
-Add on services extend the functionality of the Tier and do not represent a new Tier. These add on services can include, but are not limited to, adding Storage, Compute Minutes, Agile Planning, and AI features to the existing tier the subscription is on. Add-ons can be made available on one, multiple, or all tiers depending upon the tier availability of the add on service being provided.  
+Add on services extend the functionality of the Tier and do not represent a new Tier. These add on services can include, but are not limited to, adding Storage, Compute Minutes, Agile Planning, and AI features to the existing tier the subscription is on. Add-ons can be made available on one, multiple, or all tiers depending upon the tier availability of the add on service being provided.
 
 ## Libre, gratis, and free
 
@@ -73,7 +73,7 @@ GitLab SaaS subscriptions are added to either a personal namespace or a group na
 
 Historically, GitLab was provided as two different software distributions, each with their own separate source code repository and documentation: [Community Edition (CE)](https://gitlab.com/gitlab-org/gitlab-ce/) and [Enterprise Edition (EE)](https://gitlab.com/gitlab-org/gitlab-ce/). As of GitLab version 12.3, released on 2020-09-22, [GitLab moved to a single code base](https://about.gitlab.com/blog/2019/08/23/a-single-codebase-for-gitlab-community-and-enterprise-edition/).
 
-The "CE" and "EE" names referred to the actual software packages that were [downloaded and installed](/install/). Today, the single distribution is referred to as the "Official Linux package".
+The "CE" and "EE" names referred to the actual software packages that were [downloaded and installed](https://about.gitlab.com/install/). Today, the single distribution is referred to as the "Official Linux package".
 
 For a period of time, GitLab pricing tiers also used "CE" and "EE". When the [free, self-managed tier was changed from "CE" to "Free"](https://about.gitlab.com/blog/2018/04/20/gitlab-tiers/), it led to this dynamic:
 

@@ -13,7 +13,7 @@ description: "Guidelines to create and update release posts"
 ## Introduction
 
 
-Release posts are [blog posts](/releases/categories/releases/) that announce changes to the GitLab application. This includes our regular cadence of monthly releases which happen [every month](/handbook/engineering/releases/), and patch/security releases whenever necessary.
+Release posts are [blog posts](https://about.gitlab.com/releases/categories/releases/) that announce changes to the GitLab application. This includes our regular cadence of monthly releases which happen [every month](/handbook/engineering/releases/), and patch/security releases whenever necessary.
 
 Release posts follow a process outlined here, and the templates that are used to create them also highlight what needs to be done, by whom, and when those items are due.
 
@@ -1002,18 +1002,18 @@ It is a required field.
 
 #### Stage
 
-- `stage`: the [stage](/stages-devops-lifecycle/) the feature belongs to (lowercase):
+- `stage`: the [stage](https://about.gitlab.com/stages-devops-lifecycle/) the feature belongs to (lowercase):
 
-  - [`manage`](/stages-devops-lifecycle/)
-  - [`plan`](/stages-devops-lifecycle/plan/)
-  - [`create`](/stages-devops-lifecycle/create/)
-  - [`verify`](/stages-devops-lifecycle/verify/)
-  - [`package`](/stages-devops-lifecycle/package/)
-  - [`release`](/stages-devops-lifecycle/release/)
-  - [`configure`](/stages-devops-lifecycle/configure/)
-  - [`monitor`](/stages-devops-lifecycle/monitor/)
-  - [`secure`](/stages-devops-lifecycle/secure/)
-  - [`govern`](/stages-devops-lifecycle/govern/)
+  - [`manage`](https://about.gitlab.com/stages-devops-lifecycle/)
+  - [`plan`](https://about.gitlab.com/stages-devops-lifecycle/plan/)
+  - [`create`](https://about.gitlab.com/stages-devops-lifecycle/create/)
+  - [`verify`](https://about.gitlab.com/stages-devops-lifecycle/verify/)
+  - [`package`](https://about.gitlab.com/stages-devops-lifecycle/package/)
+  - [`release`](https://about.gitlab.com/stages-devops-lifecycle/release/)
+  - [`configure`](https://about.gitlab.com/stages-devops-lifecycle/configure/)
+  - [`monitor`](https://about.gitlab.com/stages-devops-lifecycle/monitor/)
+  - [`secure`](https://about.gitlab.com/stages-devops-lifecycle/secure/)
+  - [`govern`](https://about.gitlab.com/stages-devops-lifecycle/govern/)
   - [`systems`](/handbook/product/categories/#systems-stage)
   - [`data_stores`](/handbook/product/categories/#data-stores-stage)
 
@@ -1678,8 +1678,8 @@ The What's New MR will be initiated by the Release Post Manager on the Tuesday o
 - [GitLab the product](/handbook/product/gitlab-the-product/#gitlab-the-product)
 - [General guidance on deprecations, remvoals and breaking changes](/handbook/product/gitlab-the-product/#breaking-changes-deprecations-and-removing-features)
 - [Release Post volunteer schedule](managers/)
-- [Security and monthly releases](/releases/categories/releases/)
-- [Features per release](/releases/)
+- [Security and monthly releases](https://about.gitlab.com/releases/categories/releases/)
+- [Features per release](https://about.gitlab.com/releases/)
 - [GitLab CE and GitLab EE changelog](https://gitlab.com/gitlab-org/gitlab/-/blob/master/CHANGELOG.md)
 - [Release managers](/community/release-managers/)
 

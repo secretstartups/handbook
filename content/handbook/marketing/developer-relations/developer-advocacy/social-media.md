@@ -471,7 +471,7 @@ For incoming questions and involving more experts, Developer Advocates can help 
 
 #### Release Management
 
-Example tweets for [GitLab 12.9](/releases/2020/03/22/gitlab-12-9-released/):
+Example tweets for [GitLab 12.9](https://about.gitlab.com/releases/2020/03/22/gitlab-12-9-released/):
 
 - Pick a nice title and encourage everyone to try to create a new release: `Have you created your first release through the in @gitlab yet? Let's do this!`
 - Go to your demo environment and create 1-4 screenshots, including guiding steps (make this a mini tutorial)

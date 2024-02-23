@@ -33,7 +33,7 @@ Testing requires a control and a variant within the same time period, while hold
 
 1. Build a test: If you would like to request an a/b or multivariate test, create an issue for [Digital Marketing Programs using this template](https://gitlab.com/gitlab-com/marketing/growth-marketing/growth/issues/new?issuable_template=ab-test).
 1. Keeping it MVC: Not all changes to changes need to be tested. We should test changes to our key conversion pages, and these pages/elements are key areas we test often:
-    * [Homepage](/)
+    * [Homepage](https://about.gitlab.com/)
     * Top navigation
     * [Pricing page](https://about.gitlab.com/pricing/)
     * [Free trial](/free-trial/)

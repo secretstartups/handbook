@@ -6,7 +6,7 @@ description: How GitLab team members can work with and best ways to contact Supp
 
 ## Overview
 
-The purpose of this page is to direct GitLab team members outside of Support on what GitLab Support does, how to get in contact with us, and where to direct common requests that require our involvement. **Are you a customer looking for technical support? If so, please visit the [Support Page](/support/) instead.**
+The purpose of this page is to direct GitLab team members outside of Support on what GitLab Support does, how to get in contact with us, and where to direct common requests that require our involvement. **Are you a customer looking for technical support? If so, please visit the [Support Page](https://about.gitlab.com/support/) instead.**
 
 ## Quick reference
 
@@ -49,7 +49,7 @@ If your customer contacts you requiring technical support, the following options
 
 1. When directing your customer to the **GitLab Support Portal**, please inform them that they should ensure they have been [added as a support contact](https://about.gitlab.com/support/managing-support-contacts/) for their organization otherwise their tickets may be auto-closed (except for Licensing and Renewals tickets). Aligned with this, if your customer requires their colleagues to be able to also submit a support ticket then will also need to provide a list of managed contacts. A customer can add or manage support contacts by following the inscriptions in [Managing contacts](https://about.gitlab.com/support/managing-support-contacts/). Please note that encouraging customers to have a valid support portal account will help streamline the support process and ensure a smoother experience for both the customers and our support team.
 
-1. To request adjustments to licenses, subscriptions, renewals, trials, trial extensions, temp licenses, etc., you can [open an Internal Request](#internal-requests) on behalf of the customer (more details [below](#internal-requests)).  
+1. To request adjustments to licenses, subscriptions, renewals, trials, trial extensions, temp licenses, etc., you can [open an Internal Request](#internal-requests) on behalf of the customer (more details [below](#internal-requests)).
     - **Note:** If the customer already has a license/subscription, and is getting errors while applying it, it's best for the customer to open a Support ticket directly with us.
     - **Note:** To submit the form you must have a [Zendesk Light Agent account](#requesting-a-zendesk-light-agent-account), which all GitLab team members can request. The account also enables team members to see customer tickets in Zendesk, and leave notes for the Support team.
 

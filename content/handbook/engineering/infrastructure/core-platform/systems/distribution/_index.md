@@ -32,7 +32,7 @@ Responsibilities:
 - Dependency updates
 - License management
 - Submissions to Partners for validations/certifications
-- The [install](/install/), [update](/update/), and [upgrade](/upgrade/) pages
+- The [install](https://about.gitlab.com/install/), [update](/update/), and [upgrade](/upgrade/) pages
 - Build and own the infrastructure used for creating the various installation methods
 - [Maintaining infrastructure](#infrastructure-and-maintenance) used in Distribution
 

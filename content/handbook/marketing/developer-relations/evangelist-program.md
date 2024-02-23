@@ -13,7 +13,7 @@ title: "Evangelist Program"
 
 At GitLab our mission is to change all creative work from read-only to read-write so that **everyone can contribute**. In order to fulfill this mission, we need to create both the tools and platform to enable this change and a community of contributors who share our mission. We are just getting started in building the GitLab community and we encourage everyone to contribute to its growth.
 
-There are many ways to participate in the GitLab community today: [contributing to an open source project](/handbook/marketing/developer-relations/contributor-success/), [contributing to our documentation](https://docs.gitlab.com/ee/development/documentation/), [hosting your open source project on GitLab](/solutions/open-source/), or teaching your colleagues and collaborators about the value of [Concurrent DevOps](/topics/devops/ ).
+There are many ways to participate in the GitLab community today: [contributing to an open source project](/handbook/marketing/developer-relations/contributor-success/), [contributing to our documentation](https://docs.gitlab.com/ee/development/documentation/), [hosting your open source project on GitLab](https://about.gitlab.com/solutions/open-source/), or teaching your colleagues and collaborators about the value of [Concurrent DevOps](/topics/devops/ ).
 
 We are building an evangelist program to support people who share our mission and want to give tech talks, run local meetups, or create videos or blogs. For now, please email `evangelists@gitlab.com` if you have feedback on our vision, ideas for how we can build our community, or suggestions for a name for our evangelist program.
 

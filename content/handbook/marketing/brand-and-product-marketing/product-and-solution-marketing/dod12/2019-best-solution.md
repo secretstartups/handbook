@@ -17,7 +17,7 @@ The GitLab solution is the result of collaboration between thousands of communit
 
 ### GitLab: A complete DevOps platform, in a single application
 
-GitLab fundamentally changes the way development, security, and ops teams collaborate and build software — helping customers on their DevOps journey in ways no other company can — by providing [a single application for the entire DevOps lifecycle](/stages-devops-lifecycle/).
+GitLab fundamentally changes the way development, security, and ops teams collaborate and build software — helping customers on their DevOps journey in ways no other company can — by providing [a single application for the entire DevOps lifecycle](https://about.gitlab.com/stages-devops-lifecycle/).
 
 DevOps toolchains are often complex, fragile, and expensive to maintain. Teams are further slowed by hand-offs and re-work. Across toolchains in a company, teams can be siloed by DevOps software that was supposed to help eliminate siloes.
 

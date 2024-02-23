@@ -16,7 +16,7 @@ title: "GitLab Positioning FAQs"
 
 ## What is the benefit of using GitLab?
 
-GitLab helps organizations deliver better products faster, increase operational efficiencies, and reduce security and compliance risks.  A single application that provides capabilities across DevSecOps lifecycle, GitLab reduces friction through collaboration at the point of code change. GitLab streamlines application delivery with an [out of the box delivery toolchain](/resources/whitepaper-forrester-manage-your-toolchain/) which reduces complexity, lowers maintenance cost, and streamlines delivery. Without GitLab teams need multiple tools which they then must integrate, manage, and maintain. With GitLab, you gain visibility on how long each part of the software development lifecycle is taking and how you can improve it.
+GitLab helps organizations deliver better products faster, increase operational efficiencies, and reduce security and compliance risks.  A single application that provides capabilities across DevSecOps lifecycle, GitLab reduces friction through collaboration at the point of code change. GitLab streamlines application delivery with an [out of the box delivery toolchain](https://about.gitlab.com/resources/whitepaper-forrester-manage-your-toolchain/) which reduces complexity, lowers maintenance cost, and streamlines delivery. Without GitLab teams need multiple tools which they then must integrate, manage, and maintain. With GitLab, you gain visibility on how long each part of the software development lifecycle is taking and how you can improve it.
 
 ## Is it similar to GitHub?
 
@@ -117,11 +117,11 @@ GitLab started as an open source alternative to GitHub. Instead of focusing on h
 ## How does support work?
 
 1. For self-managed
-    1. On-premises EE - [support statement](/support/statement-of-support/#starter-premium-and-ultimate-users)
-    1. On-premises CE or Free - [support statement](/support/statement-of-support/#core-and-community-edition-users)
+    1. On-premises EE - [support statement](https://about.gitlab.com/support/statement-of-support/#starter-premium-and-ultimate-users)
+    1. On-premises CE or Free - [support statement](https://about.gitlab.com/support/statement-of-support/#core-and-community-edition-users)
 1. For GitLab.com
-    1. Paid tiers - [support statement](/support/statement-of-support/#bronze-silver-and-gold-users)
-    1. Free plan users - [support statement](/support/statement-of-support/#free-plan-users)
+    1. Paid tiers - [support statement](https://about.gitlab.com/support/statement-of-support/#bronze-silver-and-gold-users)
+    1. Free plan users - [support statement](https://about.gitlab.com/support/statement-of-support/#free-plan-users)
 
 ## Do you offer a solution for migrating data from GitHub, Bitbucket, SVN to GitLab?
 

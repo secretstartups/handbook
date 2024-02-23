@@ -60,11 +60,11 @@ Listen to how Nico Ochoa (Strategic Account Executive, US West) explains the val
   <iframe src="https://www.youtube.com/embed/vtlAs68YY8M" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-As a follow on to the above, be sure to familiarize yourself with GitLab's [Value Stream Management (VSM)](/solutions/value-stream-management/) & Value Stream Analytics capabilities. Effectively articulating these capabilities plays to two of GitLab's key differentiators:
+As a follow on to the above, be sure to familiarize yourself with GitLab's [Value Stream Management (VSM)](https://about.gitlab.com/solutions/value-stream-management/) & Value Stream Analytics capabilities. Effectively articulating these capabilities plays to two of GitLab's key differentiators:
 1. Single Application for Entire DevOps Lifecycle, and
 1. End-to-End Insight and Visibility
 
-Watch the below video and check out GitLab's [Value Stream Management](/solutions/value-stream-management/) solutions page to learn more. In addition, access short customer-facing VSM videos in the [Agile Management](/learn/#agile_management) section of the Learn@GitLab page.
+Watch the below video and check out GitLab's [Value Stream Management](https://about.gitlab.com/solutions/value-stream-management/) solutions page to learn more. In addition, access short customer-facing VSM videos in the [Agile Management](https://about.gitlab.com/learn/#agile_management) section of the Learn@GitLab page.
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/e2XQB5HFJmc" frameborder="0" allowfullscreen="true"> </iframe>
@@ -148,7 +148,7 @@ And once you have identified compelling answers to these questions, continue to 
 
 ## Assess the Health of Your Metrics
 
-Periodically, conduct a critical review of the below questions. This can be done via a self-assessment and/or with your account team, peers, mentors, or your manager. In some instances, you may even consider reviewing this with your Champion.  
+Periodically, conduct a critical review of the below questions. This can be done via a self-assessment and/or with your account team, peers, mentors, or your manager. In some instances, you may even consider reviewing this with your Champion.
 1. Has the customer bought into the identified metrics?
 1. Are the metrics aligned with the desired business outcomes?
 1. Are your Champions leveraging the identified metrics?

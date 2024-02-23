@@ -263,18 +263,18 @@ Quota is made up of the following depending on the team and [sales segment](/han
 * 70% Base Pay
 * 30% Variable Pay:
     * 100% Individual SAO Quota
-       
+
 
 
 **Team Member OTE (BDRs)**
 * 70% Base Pay
 * 30% Variable Pay:
-    * 65% Monthly Stage 1 Pipe Generated ARR$ 
+    * 65% Monthly Stage 1 Pipe Generated ARR$
     * 35% Quarterly Stage 3 Pipe Generated Expected Net ARR$
 * **Pursuit Account Kicker:** Added based on Stage 1 or Stage 3 Pipeline $ by Enterprise / MM Named BDRs–aligned target account list created alongside the Sales team.
     * **MM territory:** Additional Kicker for FO opportunities
 
-        
+
 
 ## Activity & Results Metrics
 
@@ -754,17 +754,17 @@ This process could take up to 72 hours before completing the reassignment. If af
 Prior to the IQM
 
 * Schedule IQM within 48 hours of the DC. Give at least 24 hours notice to the AE
-Send calendar invite + Zoom link 
-* SDR asks the AE to notify at least 24 hours prior to the IQM if the account is incorrectly routed to them, given the SDR’s best efforts to ensure correct routing + SF/Zoom data being correct 
+Send calendar invite + Zoom link
+* SDR asks the AE to notify at least 24 hours prior to the IQM if the account is incorrectly routed to them, given the SDR’s best efforts to ensure correct routing + SF/Zoom data being correct
 * Send the opportunity to the AE via Slack or email
 * AE verifies they reviewed the opportunity beforehand
 * AE and SDR review the specifics of the call, responsibilities (if differing from the below-referenced introduction), and any nuances
 SDR sends meeting reminders
 * For booking meetings use Outreach and use Google to get a detailed view
-* Ask lead to accept while they still are on the phone - more likely to attend 
-* Send pre-meeting emails 
+* Ask lead to accept while they still are on the phone - more likely to attend
+* Send pre-meeting emails
     * (ATTENTION REQUIRED) - Sent every other day till meeting is accepted
-    * (MEETING STARTED) - Sent at the time of the IQM 
+    * (MEETING STARTED) - Sent at the time of the IQM
 * If the SDR is unable to attend
 SDR will notify the AE via Slack and/or email as soon as possible
 * AE will acknowledge the notification
@@ -778,14 +778,14 @@ IQM
 * Location is quiet and indoors for AE and SDR
 * SDR introduces the call
     * SDR: Good morning/afternoon. Thank you for joining us today, (lead). I discussed your goals with (AE) prior to our call so s/he is best equipped to walk through (insert goals/needs in this section). They are prepared to continue our conversation. I will mute my line but will be here when you and (AE) need me for additional insight or support.
-    * AE: Thank you, (SDR). AE takes over the call. 
+    * AE: Thank you, (SDR). AE takes over the call.
 * Cameras stay on
 
 Responsibilities
 * AE - Further qualification, note taking, slide deck (if applicable)
-* SDR - Camera on, available for questions and insight 
+* SDR - Camera on, available for questions and insight
 * To help develop the SDR skills for their next role, take notes as well. This fosters learning and the skills required for their next role. See note format that is expected in Commercial: https://www.youtube.com/watch?v=CMMQ5R0pq8I
-    * Notes Structure: 
+    * Notes Structure:
         1. Attendees
         2. Raw Notes
         3. Questions
@@ -812,9 +812,9 @@ Post IQM
 No-show IQM
 
 * SDR’s responsibility to rebook
-* Outreach rebook sequence https://web.outreach.io/sequences/12249/overview 
+* Outreach rebook sequence https://web.outreach.io/sequences/12249/overview
 * Calls and emails
-* Will conduct outreach for 2 weeks. If IQM cannot be r/s, AE will unqualify the opp 
+* Will conduct outreach for 2 weeks. If IQM cannot be r/s, AE will unqualify the opp
 * Ongoing follow-up by SDR - 1x cycle/month
     * Week 1
         * AMER SDR - No Show IQM - Email
@@ -846,7 +846,7 @@ There will be times when an SDR or BDR is working a prospect and, after connecti
 ### How do I request SAO credit on a Web Direct opportunity?
 
 On the opportunity record in Salesforce, compose a new Chatter message that includes the following:
-1. Tag a member of the Operations Team (Ramona Elliott or Ed Bao) or the Director of Global Commercial Sales Development (Brian Tabbert). **Do not tag Sales Support Yourself** 
+1. Tag a member of the Operations Team (Ramona Elliott or Ed Bao) or the Director of Global Commercial Sales Development (Brian Tabbert). **Do not tag Sales Support Yourself**
 2. Include a link to the record in Salesforce that shows your related two-way activity in the past 60 days. If your related activity is a phone call, you must have entered the details of the phone call into the Qualification Notes field on the lead record at the time of the call in order for it to be considered. Qualification Notes entered after the Web Direct opportunity has been created will not be considered for credit. If your related activity is a Zoom meeting, you should follow [our process for creating an opportunity](https://handbook.gitlab.com/handbook/marketing/sales-development/#when-do-i-create-an-opportunity).
 3. Explain how you influenced their decision to purchase GitLab (helped with evaluation, uncovered a need, provided value, etc)
 
@@ -919,11 +919,11 @@ Organizing a shared demo makes it more simple for us to offer spontaneously a de
 
 - **BDR is involved only**: When a lead with decision power or significant influence in the org (no individual contributor) expresses a high interest for GitLab (aka: high read/open rates on an email, response received by phone with interest confirmed) AND when the BDR has a tangible reason to think that there is a need in the division/team/company (research, information obtained through other leads in the same org), the BDR can leverage the shared demo for HOT leads to create interest or a sense of urgency, the goal being to have the lead jump on an introductory meeting after the shared demo."
 
-2. Define the criteria for different groups of attendees who can join this demo: 
+2. Define the criteria for different groups of attendees who can join this demo:
 
-- **Attendees coming from a BDR conversation:** in order to attend a demo, this attendee needs to be part of an opportunity in at least stage 1- Discovery. 
+- **Attendees coming from a BDR conversation:** in order to attend a demo, this attendee needs to be part of an opportunity in at least stage 1- Discovery.
 
-- **Attendees coming from the AE’s conversations:** the AE can leverage this shared demo to invite his own contacts. 
+- **Attendees coming from the AE’s conversations:** the AE can leverage this shared demo to invite his own contacts.
 
 3. Step-by-step guide to plan a demo:
 
@@ -931,47 +931,47 @@ Organizing a shared demo makes it more simple for us to offer spontaneously a de
 
 - Go on Zoom SSO > Webinars (on the left under Meetings) > Schedule a webinar. You will be able to save the entire configuration of the webinar as a template, in order not to set it up again.
 
-- Change the topic (this will be the title of your demo, and the name of the event on Google Calendar), the description (describes the content of the demo, the idea is to adapt the focus of the demo depending on your attendees), set the date/time of the demo, and the duration (note that setting a certain duration will not stop the zoom webinar once the time has gone). 
+- Change the topic (this will be the title of your demo, and the name of the event on Google Calendar), the description (describes the content of the demo, the idea is to adapt the focus of the demo depending on your attendees), set the date/time of the demo, and the duration (note that setting a certain duration will not stop the zoom webinar once the time has gone).
 
-- Tick the box ‘Required’ next to registration. 
+- Tick the box ‘Required’ next to registration.
 
-- You can change the Dial country to the country of the demo attendees if the demo is language specific. 
+- You can change the Dial country to the country of the demo attendees if the demo is language specific.
 
-- In the Option Category, tick the following: Q&A, Automatically record webinar, Include email address in attendee report. 
+- In the Option Category, tick the following: Q&A, Automatically record webinar, Include email address in attendee report.
 
-- In the Alternative Hosts category, put your SAL and your Solutions Architect. 
+- In the Alternative Hosts category, put your SAL and your Solutions Architect.
 
-- Click on ‘Schedule’ 
+- Click on ‘Schedule’
 
 - In order to add the event on your calendar, click on the calendar button next to ‘Time’
 
 - Now you can start changing a few settings. Let’s start with the configuration of the registrations. First go on ‘Invitations’ and click on Edit next to Registration Settings:
 
-- You can choose to manually or automatically approve. Automatic approval is advised. 
+- You can choose to manually or automatically approve. Automatic approval is advised.
 
 - You can tick ‘Send an email to host when someone registers’
 
-- Then go on Questions next to ‘registration’ (same window). Here you can set the fields asked in the registration form. Email and first name are already there by default. You can tick: Last Name, Organization and Title, and tick the box ‘Required’ for each. 
+- Then go on Questions next to ‘registration’ (same window). Here you can set the fields asked in the registration form. Email and first name are already there by default. You can tick: Last Name, Organization and Title, and tick the box ‘Required’ for each.
 
-- Lastly, go on Custom Questions and create a new question to ask: “what are your expectations for this demo? What do you want to see?” or something that gives an idea to the SA of what are the attendees' expectations (configure the question as ‘Short answer’). 
+- Lastly, go on Custom Questions and create a new question to ask: “what are your expectations for this demo? What do you want to see?” or something that gives an idea to the SA of what are the attendees' expectations (configure the question as ‘Short answer’).
 
-- Let’s change general settings. Go on Email settings and change: 
+- Let’s change general settings. Go on Email settings and change:
 
-- The email language if your demo is delivered in another language than English. It will automatically change the language of your reminder/follow-up emails/confirmation emails. 
+- The email language if your demo is delivered in another language than English. It will automatically change the language of your reminder/follow-up emails/confirmation emails.
 
-- Email contact set as: you as a BDR or another person, as your team prefers. 
+- Email contact set as: you as a BDR or another person, as your team prefers.
 
-- Confirmation email to registrants: you can add another subject and/or a little paragraph in addition to the event information. 
+- Confirmation email to registrants: you can add another subject and/or a little paragraph in addition to the event information.
 
-- Reminder email: you can choose to send one or several, 1 hour and/or 1 day and/or 1 week before the event starts. Change the subject and/or add a little paragraph. 
+- Reminder email: you can choose to send one or several, 1 hour and/or 1 day and/or 1 week before the event starts. Change the subject and/or add a little paragraph.
 
-- You can activate follow-up emails to attendees, and choose the subject + how much time after the demo the email will be sent + the paragraph to be sent (you can add resources that are relevant to the content of the demo that was delivered). 
+- You can activate follow-up emails to attendees, and choose the subject + how much time after the demo the email will be sent + the paragraph to be sent (you can add resources that are relevant to the content of the demo that was delivered).
 
-- You can also activate a follow-up email to absentees. 
+- You can also activate a follow-up email to absentees.
 
-- Go to Q&A : a few boxes are already ticked already (attendees can submit questions, allow anonymous questions, allow attendees to view answered questions only). You can choose to enable attendees to view all questions and upvote/comment them, or only answered questions. This is a way for your team to control questions that may be sensitive to answer. 
+- Go to Q&A : a few boxes are already ticked already (attendees can submit questions, allow anonymous questions, allow attendees to view answered questions only). You can choose to enable attendees to view all questions and upvote/comment them, or only answered questions. This is a way for your team to control questions that may be sensitive to answer.
 
-- Last but not least: click ‘Save as Template’ above email settings! This way you will not have to set this up again. Now you are done! 
+- Last but not least: click ‘Save as Template’ above email settings! This way you will not have to set this up again. Now you are done!
 
 ## BDR FO Outbound Process
 
@@ -1325,7 +1325,7 @@ Double credit nor double compensation will be given
 **A:** Marketing Operations has a daily scheduled clean at 10:30 PM EST/EDT that update Status = `Inquiry` to `Inquiry Queue`. To prevent the reassignment, you'll want to update the leads from `Inquiry` to `Accepted` or add to an Outreach sequence.
 
 **Q:** What should BDRs do when a prospect or contact responds with a complince related question or objects to being contacted?
-**A:** Immediately reach out to the Privacy Team via #privacy-team-help and forward any email from the contact to dpo@gitlab.com. 
+**A:** Immediately reach out to the Privacy Team via #privacy-team-help and forward any email from the contact to dpo@gitlab.com.
 
 ## BDR Event Promotion and Sales Dev Org Follow Up
 
@@ -1485,7 +1485,7 @@ The US PubSec team does not cover Universities, Agencies, and Contractors who ar
 
 The PubSec BDRs will work closely with PubSec FMM's and MPM's on pre and post-event outreach. For events that are limited in attendance capacity, the PubSec ISRs & SAEs will own pre and post-event strategy, not the BDR's.
 
-[SDR PubSec Issue Board](//gitlab.com/groups/gitlab-com/-/boards/1864446?label_name[]=SDR%20Pub%20Sec) - used to track relevant GitLab issues involving the PubSec BDR team. This is a global issue board and will capture all issues in any group/sub-group in the GitLab.com repo when any of the following scoped labels are used.
+[SDR PubSec Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1864446?label_name[]=SDR%20Pub%20Sec) - used to track relevant GitLab issues involving the PubSec BDR team. This is a global issue board and will capture all issues in any group/sub-group in the GitLab.com repo when any of the following scoped labels are used.
 
 
 - `SDR Pub Sec`- Issues concerning the PubSec BDR team. When PubSec FMM's/MPM's add this tag to an event, these issues will appear on our board. When applicable, the PubSec BDR manager will create a BDR follow-up issue and relate it to the event issue so that marketing members can easily track our work.
@@ -1772,7 +1772,7 @@ Steps:
     * Under partners, add the reseller account as VAR/Reseller"
 
 ## Working with the Developer Relations Team
-The [Developer Relations team](/handbook/marketing/developer-relations/) owns GitLab's [Education](/handbook/marketing/developer-relations/community-programs/education-program/), [Open Source](/handbook/marketing/developer-relations/community-programs/opensource-program/), and [Startups](/solutions/startups/) programs. When a lead fills out the form to apply for one of these free community programs, Salesforce `Lead` ownership will automatically change to the `Community Advocate Queue`. If this Lead was in an Outreach sequence, it will automatically be marked as finished.
+The [Developer Relations team](/handbook/marketing/developer-relations/) owns GitLab's [Education](/handbook/marketing/developer-relations/community-programs/education-program/), [Open Source](/handbook/marketing/developer-relations/community-programs/opensource-program/), and [Startups](https://about.gitlab.com/solutions/startups/) programs. When a lead fills out the form to apply for one of these free community programs, Salesforce `Lead` ownership will automatically change to the `Community Advocate Queue`. If this Lead was in an Outreach sequence, it will automatically be marked as finished.
 
 The [Community Programs team](/handbook/marketing/developer-relations/community-programs/) (a sub-team of Developer Relations), and the Program Managers for each program, will then work to qualify the lead. If the Lead does not end up qualifying for one of the programs, they will be passed straight to sales.
 - Forms
