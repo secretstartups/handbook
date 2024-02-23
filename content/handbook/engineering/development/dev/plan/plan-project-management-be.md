@@ -34,7 +34,9 @@ Check out our [jobs page](/jobs/) for current openings.
 
 ### Team metrics dashboard
 
-{{% include "includes/engineering/plan/project-management-dashboard.md" %}}
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/DevelopmentEmbeddedDashboard/GroupMRRate" >}}
+  {{< tableau/filters "GROUP_LABEL"="project management" >}}
+{{< /tableau >}}
 
 ## Work
 

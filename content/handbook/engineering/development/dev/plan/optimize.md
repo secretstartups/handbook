@@ -314,11 +314,6 @@ The following people are permanent members of the group:
 
 {{< stable-counterparts role="Plan.+Optimize" >}}
 
-## Dashboards
-
-- [Feature usage](https://app.periscopedata.com/app/gitlab/779829/Manage:Optimize-Feature-Usage)
-
-
 ## Links and resources {#links}
 
 - [Milestone retrospectives](https://gitlab.com/gl-retrospectives/manage-stage/optimize/-/issues)
