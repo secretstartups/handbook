@@ -250,7 +250,7 @@ Vendors that meet GitLab's security requirements will have residual risks levels
 
 |Inherent Risk Level| Residual Risk Level|
 |:---------:|:--------------:|
-|Very High|Moderate|
+|Very High|High|
 |High|Moderate|
 |Moderate|Low|
 |Low|Very Low|
