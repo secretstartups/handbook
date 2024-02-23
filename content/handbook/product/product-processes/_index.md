@@ -682,7 +682,7 @@ Thanks and see you soon :bow:
 
 [RICE](https://www.productplan.com/glossary/rice-scoring-model/) is a useful framework for prioritization that can help you stack rank your issues. The RICE framework is a great tool for prioritizing many issues that seem to be of equal value at first glance. In order to drive clarity and alignment in the prioritization of work across the entire DevOps platform, and to help prioritize items that may compete for resources from different teams, we have set a standard for the RICE factors so all prioritization decisions based on RICE are using the same metric.
 
-**Reach** How many customers will benefit in the first quarter after launch? Data sources to estimate this might include qualitative customer interviews, customer requests through [Support/CS/Sales](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/970771/User-Request-Issue-Prioritization---Product), upvotes on issues, surveys, etc.
+**Reach** How many customers will benefit in the first quarter after launch? Data sources to estimate this might include qualitative customer interviews, customer requests through [Support/CS/Sales](https://10az.online.tableau.com/#/site/gitlab/workbooks/2015827/views), upvotes on issues, surveys, etc.
 
 Higher reach means a higher RICE score:
 
@@ -752,8 +752,8 @@ Conducting a RICE prioritization exercise with your cross-functional counterpart
 
 For prioritizing most issues, we should utilize the RICE framework noted [above](#prioritization), which will capture an aggregate of customer demand. You can also augment RICE scores with the [Customer Issues Prioritization Framework Dashboards](/handbook/product/product-processes/customer-issues-prioritization-framework):
 
-[Customer Requested Issues (Product)](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/970771/User-Request-Issue-Prioritization---Product) for product managers
-[Customer Requested Issues (CSM)](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/970772/User-Request-Issue-Prioritization---CSM-Customer-View) for  Sales, CS and CSM
+[Customer Requested Issues (Product)](https://10az.online.tableau.com/#/site/gitlab/workbooks/2015827/views) for product managers
+[Customer Requested Issues (CSM)](https://10az.online.tableau.com/#/site/gitlab/workbooks/2015827/views) for  Sales, CS and CSM
 
 These dashboards provide several inputs for calculating RICE and aggregate all customer requested issues and epics into a single dashboard. These dashboards are not meant as a replacement or sole input for [Top ARR Drivers for Sales/CS](https://docs.google.com/document/d/1TxcJqOPWo4pP1S48OSMBnb4rysky8dRrRWJFflQkmlM/edit#heading=h.t3hg8c37s87g). Further requirements such as the [integration of themes ](https://gitlab.com/gitlab-com/Product/-/issues/3907) need to be implemented before this framework can be used to fully inform or replace tools such as the [Top ARR tracker](https://docs.google.com/spreadsheets/d/1JdtaZYO90pR4_NQgSZRu9qdGuMrFj_H6qkBs5tFMeRc/edit#gid=0).
 
@@ -1288,7 +1288,7 @@ We recently [conducted a GTM and R&D sensing mechanism survey](https://gitlab.co
 1. Asking probing questions in sales support meetings
 1. Reviewing [Top ARR Drivers](#top-arr-drivers)
 1. Reviewing Customer Success designated top issues
-1. Reviewing the most requested issues from customers using the [Customer Requested Issues (Product) dashboard](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/970771/User-Request-Issue-Prioritization---Product) and the [Customer Issues Prioritization Framework handbook page](/handbook/product/product-processes/customer-issues-prioritization-framework/) for guidance.
+1. Reviewing the most requested issues from customers using the [Customer Requested Issues (Product) dashboard](https://10az.online.tableau.com/#/site/gitlab/workbooks/2015827/views) and the [Customer Issues Prioritization Framework handbook page](/handbook/product/product-processes/customer-issues-prioritization-framework/) for guidance.
 1. Tracking open source projects in the same space as part of your competitive analysis is important as well. You can [evaluate these open source options](#evaluating-open-source-software) not just for interesting features and ideas, but potentially to integrate them in our product
 1. [Chorus transcriptions](/handbook/business-technology/tech-stack/#chorus) of sales calls and demos ([how to video - private](https://www.youtube.com/watch?v=5LaxjZ31250))
 1. Reviewing Win/Loss reports
@@ -1708,7 +1708,7 @@ however, there are times when this is not possible or simply doesn't happen. You
 GitLab user page; this page often includes contact information such as Twitter or LinkedIn. Another option is to
 directly mention users in issues to engage async. In popular issues you can just leave a general comment that you're looking for people to interview and many will often volunteer.
 
-**Customer Issues Prioritization Dashboards:** The [customer issues prioritization framework](/handbook/product/product-processes/customer-issues-prioritization-framework) aggregates customer data with the issues and epics that they have requested. When [viewing the dashboard](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/970771/User-Request-Issue-Prioritization---Product), double click on the issue or epic of interest within the "priority score by noteable" table then scroll down to "QA Table - User request weighting by customer" to see the specific customers that are interested in the issue or epic.
+**Customer Issues Prioritization Dashboards:** The [customer issues prioritization framework](/handbook/product/product-processes/customer-issues-prioritization-framework) aggregates customer data with the issues and epics that they have requested. When [viewing the dashboard](https://10az.online.tableau.com/#/site/gitlab/workbooks/2015827/views), double click on the issue or epic of interest within the "priority score by noteable" table then scroll down to "QA Table - User request weighting by customer" to see the specific customers that are interested in the issue or epic.
 
 **GitLab.com Broadcast Messages** Broadcast Messaging is a great tool for acquiring customer feedback from within the product. You can leverage [this workflow](#gitlabcom-in-app-messages-broadcast-messaging) to use broadcast messaging.
 
@@ -2027,9 +2027,6 @@ Product Managers should also regularly assess the performance and cost of featur
 There are a few different tools PM's can utilize to understand the operational costs of their features. Some of these are maintained by Infrastructure, based on the operational data of GitLab.com. Others tools, like service ping, can be utilized to better understand the costs of our self-managed users. Ultimately, each product group is responsible for ensuring they have the data needed to understand and optimize costs.
 
 - Useful Dashboards to Visualize Infrastructure Costs:
-    - [Group Cost PIs](https://app.periscopedata.com/app/gitlab/744908/Group-GCP-Cost-PI's)
-    - [GitLab.com Storage Costs](https://app.periscopedata.com/app/gitlab/690541/WIP:-GitLab.com-Storage-Cost-Stats)
-    - [GitLab.com CI Costs](https://app.periscopedata.com/app/gitlab/690666/WIP:-GitLab.com-CI-Cost-Stats)
 - [Access to Billing Console](https://console.cloud.google.com/billing/) ([Access Request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) required)
 - [Service ping](https://docs.gitlab.com/ee/development/service_ping/)
 - Your Engineering Manager, #infrafin on Slack, and the broader GitLab team
