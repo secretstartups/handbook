@@ -151,8 +151,6 @@ No, not at this time.
 
 | Week of | Shadow(s) | Role |
 | ------ | ------ | ----- |
-| Feb 19 | [Kev](https://gitlab.com/kevslashnull) | Non-GitLab shadow - Software Engineer |
-| Feb 26 | Available | |
 | Mar 4 | Available | |
 | Mar 11 | Available though not a preferred week for shadows | |
 | Mar 18 | Available | |
@@ -204,5 +202,6 @@ No, not at this time.
 | [Sameera Perera](https://www.linkedin.com/in/perera-sameera) | Non-GitLab Shadow - Director of R&D @ Celigo |
 | [Carla Drago](https://gitlab.com/carlad-gl) | Senior Backend Engineer |
 | [Tyler DeCaire](https://gitlab.com/tdecaire) | Solutions Architect |
+| [Kev](https://gitlab.com/kevslashnull) | Non-GitLab shadow - Software Engineer |
 
 
