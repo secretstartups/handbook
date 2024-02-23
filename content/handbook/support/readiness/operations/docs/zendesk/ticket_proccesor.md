@@ -170,6 +170,11 @@ This adds the ticket tag `star_submitted` onto the ticket.
 This determines the ticket's "weight" based on specific criteria. The criteria
 currently used are:
 
+- ARR (the higher value between Ticket ARR and Organization ARR)
+  - `Greater than or equal to 1000000` adds 20 ticket weight
+  - `Greater than or equal to 300000` adds 15 ticket weight
+  - `Greater than or equal to 30000` adds 10 ticket weight
+  - `Greater than 0` adds 5 ticket weight
 - Ticket form
   - `Emergency` adds 100 ticket weight
 - Sales segmentation
