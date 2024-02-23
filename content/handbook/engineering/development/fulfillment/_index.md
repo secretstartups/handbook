@@ -402,6 +402,70 @@ Please be sure to update the workflow labels of your issue to one of the followi
 
 We do this to encourage our team to be more async in collaboration and to allow the community and other team members to know the progress of issues that we are actively working on.
 
+### Async projects update
+
+This template is to be used for larger project progress status updates to be shared with leadership & cross-functional partners. 
+
+Leadership is interested in the following
+
+1. Is the project progressing? --> Look at % completion week to week
+2. Are there blockers that need to be cleared? --> Look at Risks & Blockers
+3. When can we expect the next event? --> Look at Key dates
+
+This template is a guideline and feel free to alter it to specific project needs. Before deviating from the template keep in mind that leadership looks at status updates across multiple projects. The more conformity there is between projects the easier it is for leadership to accurately understand status.
+
+```markdown
+## Status update as of XXXX-XX-XX
+
+### Summary
+
+1. **Key Resources**
+  * **_TBD_ this section is optional**
+
+2. **% Complete**: `X%`
+
+The following calculations can help inform this %.
+
+// Numerator: Calculate total weight of closed issues (use `defaultWeight` for issues without weight)
+const defaultWeight = 1;
+[...document.querySelectorAll('.issue.closed')].reduce((memo, el) => {
+    const weightText = el.querySelector('.issuable-weight')?.innerText;
+    return memo + Number(weightText) || defaultWeight;
+}, 0);
+
+// Denominator: Calculate total weight of open and closed issues (use `defaultWeight` for issues without weight)
+const defaultWeight = 1;
+[...document.querySelectorAll('.issue')].reduce((memo, el) => {
+    const weightText = el.querySelector('.issuable-weight')?.innerText;
+    return memo + Number(weightText) || defaultWeight;
+}, 0);
+
+3. **Status**: `On Track or Behind` (this is determined based on your how your % complete is trending to your key dates -- are you far enough along to hit your key dates?)
+
+4. **Key Dates**:
+    | Event | Estimated Timing | Additional Details | % Complete |
+    |---|---|---|---|
+    | Design complete |  |  |  |
+    | Development complete |  |  |  |
+    | Rolled out in production |  |  |  |
+
+### Risks & Blockers
+
+| Risks & Blockers | Mitigation Approach |
+|------------------|---------------------|
+| **_New!_** |  |
+
+### Results/Challenges/Learnings
+
+_List any type of deliverable, e.g. merged MRs, alignment on solution, copy/designs were completed._
+
+
+1. 
+
+**FYI** TAG FOLKS
+
+```
+
 ### Demos
 
 Some work can take a few milestones to complete. Together with regular async issue updates, it is useful to set demos. Advantages are:
