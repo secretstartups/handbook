@@ -29,9 +29,7 @@ The following people are permanent members of the group:
 
 ## Metrics
 
-You can find our group metrics in the [Manage:Import and Integrate Sisense Dashboard](https://app.periscopedata.com/app/gitlab/1129535/Manage:Import-and-Integrate-Dashboard) and [Import and Integrate Group Engineering Metrics handbook page](/handbook/engineering/metrics/dev/manage/import-and-integrate/).
-
-{{< sisense dashboard="926758" chart="12808907" >}}
+Here is our group page: [Import and Integrate Group Engineering Metrics handbook page](/handbook/engineering/metrics/dev/manage/import-and-integrate/).
 
 {{% cross-functional-dashboards filters="import and integrate" %}}
 
@@ -452,9 +450,6 @@ This is a collection of links for monitoring our features.
     - Links to various Kibana logs, filtered to our feature categories
     - Our [error budget](#error-budget) spend attribution
 - [Worker queues](https://dashboards.gitlab.net/d/sidekiq-queue-detail/sidekiq-queue-detail?orgId=1&var-PROMETHEUS_DS=Global&var-environment=gprd&var-stage=main&var-queue=jira_connect:jira_connect_sync_branch) where you can switch queues with the `queue` dropdown
-
-### Periscope dashboards
-- [Importer - North star metrics](https://app.periscopedata.com/app/gitlab/661967/Manage:Import-Dashboard)
 
 ### Sentry errors
 

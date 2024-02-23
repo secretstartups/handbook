@@ -198,8 +198,6 @@ All meetings should have an agenda prepared at least 12 hours in advance. If thi
 
 ## Dashboards
 
-- [Stage Development Metrics](https://app.periscopedata.com/app/gitlab/855124/Manage:Development-Metrics)
-- [Customer priorities](https://app.periscopedata.com/app/gitlab/882533/Dev:-Manage-Customer-Priorities)
 - [Performance indicator overview](/handbook/engineering/metrics/dev/manage/)
 
 ## Links and resources
