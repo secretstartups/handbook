@@ -14,6 +14,16 @@ The Field Operations Changelog keeps a running log of Field Ops changes related 
 
 To learn more about Field Ops releases, see the [Field Ops Release Schedule handbook page](/handbook/sales/field-operations/release-schedule/).
 
+## Q1-FY25
+
+### 2024-02-26 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/478))
+
+**[Account Cleanup Deadline](https://internal.gitlab.com/handbook/sales/go-to-market/rules-of-engagement/#accounts-eligible-for-immediate-transfer)**
+
+**[Naming Convention Guidelines - GitLab Duo Pro](https://handbook.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunity-naming-convention)**
+
+**[Clari Forecasting - Net ARR + PS Summary Tab](https://internal.gitlab.com/handbook/sales/sales-tools/sales-forecasting/#sales-forecasting)**
+
 ## Q4-FY24
 
 ### 2023-12-18 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/427))
