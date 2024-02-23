@@ -44,7 +44,8 @@ A long-term relocation means that you will establish yourself in a new location.
 It is at the company's discretion to determine whether it can approve the relocation:
 
 - Some job positions require GitLab team members to be located in particular countries, locations, regions, or time zones.  For example, a salesperson hired to serve a specific region may need to stay in that region, or an engineer hired to respond to customer requests in a specific region/country.
-- GitLab only allows relocations to countries in which we already have a formed entity.  Review our [Country hiring guidelines]({{< ref "employment-solutions#country-hiring-guidelines" >}}) to see if the country is eligible for a relocation.
+- GitLab only allows relocations to countries in which we already have a formed entity that carries no hiring restrictions. Review our [Country hiring guidelines]({{< ref "employment-solutions#country-hiring-guidelines" >}}) to see if the country is eligible for a relocation.
+- GitLab cannot accept relocation requests to a location where there might be the possibility of the formation of a new entity until it is formally established, open for hiring, and the business objectives are fully understood.
 - You can only work in countries where you can establish eligibility to work in the country without visa sponsorship provided by GitLab.
 - Relocation may also result in an adjustment to compensation, including equity eligibility, based on the location and the location factor. Depending on the location factor and the benefits offered in the particular country, the adjustment may result in an increase or a decrease to the compensation package. The Company retains discretion to determine whether it can support such an adjustment.
 
