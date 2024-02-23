@@ -105,7 +105,7 @@ A blog can and should be repurposed as a web article/cluster page if the content
 **Blog repurpose workflow**
 1. Work with the SEO team to identify existing, older blogs that are the best options for repurposing.
 2. Ensure that the editorial team is aware of the intention and has approved the redirect.
-3. In a Google doc, copy and paste the existing blog. From there, use the keyword spreadsheets to identify the best possible updates -- this can include changing the title to a better keyword phrase, identifying areas of copyediting improvements, adding links, adding a 'More On' section, and elaborating on longtail keywords throughout the content.  
+3. In a Google doc, copy and paste the existing blog. From there, use the keyword spreadsheets to identify the best possible updates -- this can include changing the title to a better keyword phrase, identifying areas of copyediting improvements, adding links, adding a 'More On' section, and elaborating on longtail keywords throughout the content.
 5. Create a merge request on the `www-gitlab-com` project.
 6. Once the web article is edited and merged, open an [issue to redirect](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/new#set-up-a-new-redirect) the blog URL to the new web article. Add the new URL and old URL in the issue. The labels are included in the issue, do not assign.
 7. After the web article is merged and the blog redirected, add the web article link to the associated Topics page in the sidebar.
@@ -117,8 +117,8 @@ A whitepaper is a technical and focused topic study intended to educate a prospe
 Any technical GitLab team member is welcome to write a whitepaper and collaborate with the content team. If you’re interested in writing a whitepaper, open an issue in the [Content Marketing project](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing) and describe your idea, or post in the [#content](https://gitlab.slack.com/archives/C2R1NED61) Slack channel. Whitepapers should be related to specific use cases and support campaigns, when possible.
 
 **Examples:**
-1. [A seismic shift in application security](/resources/whitepaper-seismic-shift-application-security/)
-2. [How to deploy on AWS from GitLab](/resources/whitepaper-deploy-aws-gitlab/)
+1. [A seismic shift in application security](https://about.gitlab.com/resources/whitepaper-seismic-shift-application-security/)
+2. [How to deploy on AWS from GitLab](https://about.gitlab.com/resources/whitepaper-deploy-aws-gitlab/)
 
 #### eBook
 
@@ -133,7 +133,7 @@ Follow the instructions for creating an internal gated asset and start the eBook
 **Examples:**
 1. [An intermediate guide to GitOps, Kubernetes, and GitLab](https://page.gitlab.com/resources-ebook-gitops-kubernetes-gitlab.html)
 2. [The GitLab Remote Playbook](/handbook/company/culture/all-remote/)
-3. [The benefits of single application CI/CD](/resources/ebook-single-app-cicd/)
+3. [The benefits of single application CI/CD](https://about.gitlab.com/resources/ebook-single-app-cicd/)
 
 #### Infographic
 

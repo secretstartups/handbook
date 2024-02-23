@@ -18,7 +18,7 @@ This page further documents the scope and responsibilities of the DRI and their 
 
 ## What are the content websites?
 
-1. The public [`about.gitlab.com`](/) website:
+1. The public [`about.gitlab.com`](https://about.gitlab.com) website:
     1. While often referred to as "the handbook", this website also serves a wide variety of other content including the [handbook](https://about.gitlab.com/handbook/), the [blog](https://about.gitlab.com/blog/), [releases](https://about.gitlab.com/releases/), category direction pages, many marketing pages, and other uncategorized documentation for various areas of GitLab.
     1. `about.gitlab.com` is primarily backed by the [`gitlab-com/www-gitlab-com`](https://gitlab.com/gitlab-com/www-gitlab-com) project and repo.
     1. Some of the content for `about.gitlab.com` is also backed by the [`gitlab-com/marketing/digital-experience/buyer-experience`](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience) project and repo, such as [small-business](https://about.gitlab.com/small-business) and [enterprise](https://about.gitlab.com/enterprise). The plan is to migrate more content from the `gitlab-com/www-gitlab-com` project to the `gitlab-com/marketing/digital-experience/buyer-experience` project.

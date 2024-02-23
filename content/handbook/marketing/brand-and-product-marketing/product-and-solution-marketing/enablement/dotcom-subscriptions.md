@@ -40,7 +40,7 @@ Unlike Self-managed licenses which grant equal access to features across an inst
 1. Trials should be initiated by users by going to the Settings page of the group that they want to apply the trial to.
 1. At writing (2019-06-05) Premium trials are not generally available. [Support can manually downgrade a trial by request](/handbook/support/internal-support/#common-requests)
 1. At writing (2019-06-05) [Trials must be manually downgraded before a purchase can be made.](https://gitlab.com/gitlab-org/customers-gitlab-com/issues/482)
-1. [Support is **not** included with trials](/support/#trials-support) Please participate in [this issue](https://gitlab.com/gitlab-com/sales/issues/302)
+1. [Support is **not** included with trials](https://about.gitlab.com/support/#trials-support) Please participate in [this issue](https://gitlab.com/gitlab-com/sales/issues/302)
 
 ### Internal namespaces
 
@@ -77,7 +77,7 @@ While many of the links below are included in the email, it would be helpful to 
 1. [Uploading your license](https://docs.gitlab.com/ee/administration/license.html#uploading-your-license) (self-managed only)
 1. Features available by plan: [GitLab SaaS](https://about.gitlab.com/pricing/feature-comparison/) & [Self-Managed](https://about.gitlab.com/pricing/feature-comparison/)
 1. [Support portal](https://support.gitlab.com/hc/en-us)
-1. [Statement of Support](/support/statement-of-support/)
+1. [Statement of Support](https://about.gitlab.com/support/statement-of-support/)
 
 **A few more best practices to ensure a smooth start**
 
