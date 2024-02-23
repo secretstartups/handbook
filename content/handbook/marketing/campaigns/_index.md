@@ -437,7 +437,7 @@ The below were campaigns run historically, and aligned to overall GTM. They have
 
 - *Note: this is being sunsetted in Q4 FY21 and existing records in nurture will continue until all emails have deployed.*
 - [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/367)
-- [Live landing page](/topics/devops/reduce-devops-costs/)
+- [Live landing page](https://about.gitlab.com/topics/devops/reduce-devops-costs/)
 - [Slack](https://gitlab.slack.com/archives/CCWUCP4MS)
 - [SFDC campaign](https://gitlab.my.salesforce.com/7014M000000CyiL)
 

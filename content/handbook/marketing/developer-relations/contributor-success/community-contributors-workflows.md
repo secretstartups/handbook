@@ -218,7 +218,7 @@ To generate the external community message:
 
 ### Hackathons
 
-There will be a quarterly [Hackathon](/community/hackathon/) for GitLab community members to come together to work on merge requests, participate in tutorial sessions, and support each other on the [GitLab Discord](https://discord.gg/gitlab).  Agenda, logistics, materials, recordings, and other information for Hackathons will be available on the [GitLab Community Hackathon](/community/hackathon/) page.
+There will be a quarterly [Hackathon](https://about.gitlab.com/community/hackathon/) for GitLab community members to come together to work on merge requests, participate in tutorial sessions, and support each other on the [GitLab Discord](https://discord.gg/gitlab).  Agenda, logistics, materials, recordings, and other information for Hackathons will be available on the [GitLab Community Hackathon](https://about.gitlab.com/community/hackathon/) page.
 
 The event planning will be done following the [Hackathon issue template](https://gitlab.com/gitlab-org/developer-relations/gitlab-hackathon/-/issues/new?issuable_template=hackathon%20event%20plan) in the [GitLab Hackathon project](https://gitlab.com/gitlab-org/developer-relations/gitlab-hackathon).
 
@@ -309,7 +309,7 @@ Once the merge request is reviewed and merged, the contributor can apply for the
 Contributor Success team members can use the [outreach email/message template](/handbook/marketing/developer-relations/contributor-success/templates/email-templates) when sending the link for the first-time contributor gift.
 
 ### Working with the Core Team
-More information on the [Core Team](/community/core-team/) is available in the [Core Team handbook page](/handbook/marketing/developer-relations/core-team/).
+More information on the [Core Team](https://about.gitlab.com/community/core-team/) is available in the [Core Team handbook page](/handbook/marketing/developer-relations/core-team/).
 
 ### For contributors who don't own a credit card
 
@@ -352,7 +352,7 @@ From time to time, a wider community member will submit a particularly outstandi
 
 ### Top Annual Contributors
 
-In order to recognize regular contributors, the list of top contributors for each calendar year will be published in the [Top Annual Contributors page](/community/top-annual-contributors/). There will be three categories of top contributors:
+In order to recognize regular contributors, the list of top contributors for each calendar year will be published in the [Top Annual Contributors page](https://about.gitlab.com/community/top-annual-contributors/). There will be three categories of top contributors:
 
 *  SuperStar: more than 75 MRs merged
 *  Star: between 11 and 75 MRs merged
@@ -385,7 +385,7 @@ These lifecycle segments are assigned on an individual user level. For organizat
 | Casual contributor | < 10 MRs | Last 6 months |
 | Regular contributor | 10+ MRs | Last 6 months |
 | Leading contributor | 20+ MRs | last 6 months |
-| [Core](/community/core-team/) | Election based | All time |
+| [Core](https://about.gitlab.com/community/core-team/) | Election based | All time |
 
 Segmenting our contributor community will allow us to understand better how contributors "move" across this funnel and how we can better support them through their journey.
 
@@ -430,4 +430,4 @@ As a general rule, a project will be set up for monitoring wider community contr
 
 See the exhaustive list of [monitored `gitlab-org` group projects](https://gitlab.com/Bitergia/c/gitlab/sources/blob/master/projects.json).
 
-Are you interested in contributing to GitLab? Check out the available [contribution opportunities here](/community/contribute/).
+Are you interested in contributing to GitLab? Check out the available [contribution opportunities here](https://about.gitlab.com/community/contribute/).

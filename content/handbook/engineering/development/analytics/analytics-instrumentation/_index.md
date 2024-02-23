@@ -476,6 +476,6 @@ All new team members to the Analytics Instrumentation teams are provided an onbo
 | [Analytics Instrumentation Monitoring and Troubleshooting](./monitoring_troubleshooting.html) | Information around Troubleshooting Analytics Instrumentation infrastructure|
 | [Analytics Instrumentation Infrastructure](./infrastructure.html) | Information about the infrastructure we run |
 | [Service Ping Guide](https://docs.gitlab.com/ee/development/service_ping/)     | An implementation guide for Service Ping      |
-| [Privacy Policy](/privacy/)        | Our privacy policy outlining what data we collect and how we handle it     |
+| [Privacy Policy](https://about.gitlab.com/privacy/)        | Our privacy policy outlining what data we collect and how we handle it     |
 | [Analytics Instrumentation Direction](https://about.gitlab.com/direction/analytics/analytics-instrumentation/)  | The roadmap for Analytics Instrumentation at GitLab  |
 | [GitLab Performance Snowplow Dashboards ](./gitlab_com_performance_dashboard.html) | Performance dashboards for GitLab.com via Snowplow  |

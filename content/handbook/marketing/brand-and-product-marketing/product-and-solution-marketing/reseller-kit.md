@@ -15,7 +15,7 @@ The information contained in this section will provide you with solid understand
 - [GitLab product vision/roadmap](https://about.gitlab.com/direction/)
 - [GitLab personas](/handbook/product/personas/)
 - [GitLab competitive analysis](https://about.gitlab.com/why-gitlab/)
-- [Customer success stories](/customers/)
+- [Customer success stories](https://about.gitlab.com/customers/)
 
 Join GitLab’s Slack Reseller channel by emailing vgoetz@gitlab.com to keep current on new content assets, upcoming sales and technical training sessions and more.
 

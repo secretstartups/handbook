@@ -298,7 +298,7 @@ Initial response to form submission is the responsibility of the Account Owner (
 
 #### Trial Requests
 
-Trials can be requested through [web form](/free-trial/) or within product UI for both self-managed or SaaS.
+Trials can be requested through [web form](https://about.gitlab.com/free-trial/) or within product UI for both self-managed or SaaS.
 Default trial length is thirty (30) days, but can be manually extended by the GitLab team for both the SaaS and self-managed products. Trial extensions for the SaaS product use the [`plan_change_request` issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=plan_change_request) template found in the `dotcom` Group, `internal-requests` project.
 Extending self-managed trials requires access to the internal `Licensing App`.
 

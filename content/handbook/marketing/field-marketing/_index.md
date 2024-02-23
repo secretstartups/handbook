@@ -126,7 +126,7 @@ For more information regarding confidentiality levels and compliancy, please vis
 
 # [Global Field Marketing Vendor Feedback](https://gitlab.com/groups/gitlab-com/marketing/-/epics/4736)
 
-This feedback epic/spreadsheet is only open to GitLab team members. FMMs and managers to keep details in this spreadsheet regarding both positive and negative experiences with various event vendors for team reference. 
+This feedback epic/spreadsheet is only open to GitLab team members. FMMs and managers to keep details in this spreadsheet regarding both positive and negative experiences with various event vendors for team reference.
 
 # Field Marketing Campaign Issue Templates, Epic Codes and Progression Status
 
@@ -1013,7 +1013,7 @@ The below epic is for tracking venues we would like to utilize for future events
 
 **NOTE:** to see the full list of events, you need to be logged into your GitLab account. There are times we make issues private.
 
-To find out what upcoming events GitLab will be involved in please visit our [Events Page](/events/).
+To find out what upcoming events GitLab will be involved in please visit our [Events Page](https://about.gitlab.com/events/).
 
 For details on how we handle events please visit the [GitLab Event Information](/handbook/marketing/events/) page.
 
@@ -1082,9 +1082,9 @@ The [Calendar cleaner spreadsheet](https://docs.google.com/spreadsheets/d/19XsjD
 
 [Video walk through on how to clean.](https://youtu.be/xiABH1Gjkw4) *on GitLab Unfiltered.
 
-After the initial pull, the regional marketers are responsible for adding any new tactics for the quarter if we are mid-quarter. 
+After the initial pull, the regional marketers are responsible for adding any new tactics for the quarter if we are mid-quarter.
 
-The FMCs (for FMM) and the Channel Marketing Programs Manager (for the CMMs) will handle adjusting the existing tactics in the SSoT calendar based on the event [rescheduling or cancellation guidelines](/handbook/marketing/field-marketing/#rescheduling-or-cancelling-events). 
+The FMCs (for FMM) and the Channel Marketing Programs Manager (for the CMMs) will handle adjusting the existing tactics in the SSoT calendar based on the event [rescheduling or cancellation guidelines](/handbook/marketing/field-marketing/#rescheduling-or-cancelling-events).
 
 ### Asks into Digital Campaigns
 Details on how Field Marketing shares quarterly plans with the Digital team can be [found here](/handbook/marketing/integrated-marketing/digital-strategy/digital-strategy-management/).
@@ -1203,7 +1203,7 @@ For more details on what the Channel Programs team does, please head to their [p
 
 As incentive for attending an event, GitLab can promote and process a monetary donation per participant to a charitable organization. For example: GitLab promotes a $25 donation per attendee for attending an event, 100 attendees participate in the event and GitLab donates $2,500 to the selected charity. **Please Note**: Donations are not to be made in a participant's name or reference a participant's organization.
 
-All GitLab donations to charitable organizations must follow the [Philanthropy Approval Process](/handbook/legal/esg/#philanthropic-requests). 
+All GitLab donations to charitable organizations must follow the [Philanthropy Approval Process](/handbook/legal/esg/#philanthropic-requests).
 
 ## PubSec FMM Calendar share
 In alignment with the PubSec team's [process to lock down shared data](https://gitlab.com/gitlab-com/customer-success/okrs/-/issues/150) that is accessible to teams outside of our US PubSec team - (will link to handbook page once its been created!) the Public Sector Field Marketing Managers, by default, will mark their calendar details as private. Google calendar [has a feature](https://support.google.com/calendar/answer/37082?hl=en#zippy=%2Cunderstand-permission-settings-for-shared-calendars%2Cstop-sharing-your-calendar-publicly-with-your-organization-or-with-specific-people) that allows you to share your calendar with individuals once its been marketed as private and at a minimum, the FMM team member should share their calendar with both their direct manager as well as their aligned Field Marketing Specialist, pending those people are US Citizens.
@@ -1261,7 +1261,7 @@ To provide opportunities for discussion, education and community building for in
 1. Contributing: Continue to support the growth and transformation of DevOps within the technical community
 
 ### Code of Conduct
-To ensure a positive experience we will adhere to the GitLab code of conduct [found here](/community/contribute/code-of-conduct/)
+To ensure a positive experience we will adhere to the GitLab code of conduct [found here](https://about.gitlab.com/community/contribute/code-of-conduct/)
 
 ### Boilerplate Verbiage
 Join us as we build a community of GitLab users within Government and Education where peers can share best practices, connect with public sector GitLab Team members and collaborate on how to best serve the public sector.
@@ -1574,7 +1574,7 @@ In Field Marketing, the FMCs manage all [Zip requisitions](/handbook/business-te
 
 ## Field Marketing Procurement Details
 
-[The Field Marketing Contract Request Template](https://gitlab.com/gitlab-com/marketing/field-marketing/issues/new?issuable_template=Contract_Request) noted above has detailed information regarding numerous aspects of the procurement process. Please make sure to reference this template with any questions. If you have any additional concerns or special cases not covered in the template's details, please reach out to your FMC to discuss in advance of submitting your contract request. 
+[The Field Marketing Contract Request Template](https://gitlab.com/gitlab-com/marketing/field-marketing/issues/new?issuable_template=Contract_Request) noted above has detailed information regarding numerous aspects of the procurement process. Please make sure to reference this template with any questions. If you have any additional concerns or special cases not covered in the template's details, please reach out to your FMC to discuss in advance of submitting your contract request.
 
 ## Sourcing New Field Marketing Vendors
 

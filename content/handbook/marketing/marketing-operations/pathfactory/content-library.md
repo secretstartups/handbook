@@ -149,7 +149,7 @@ Unsure what content types align with your asset? Use the table below as a guidel
 | ---- | --- | ------- |
 | Analyst report | Third-party content licensed from an analyst firm | [Gartner Magic Quadrant for ARO](/analysts/gartner-aro19/) |
 | Assessment | Content with the primary purpose of providing a self-assessment, quiz, or maturity model. |  |
-| Case study | Web articles that focus on the stories and opinions of GitLab customers. | [Goldman Sachs improves from 1 build every two weeks to over a thousand per day](/customers/goldman-sachs/) |
+| Case study | Web articles that focus on the stories and opinions of GitLab customers. | [Goldman Sachs improves from 1 build every two weeks to over a thousand per day](https://about.gitlab.com/customers/goldman-sachs/) |
 | Data sheet | A document providing the specifications of GitLab the product or feature/feature set. | [GitLab data sheet](/images/press/gitlab-data-sheet.pdf) |
 | Demo | A live-action video recording demonstrating how to do or use a technical product. | [GitLab Security & Compliance Capabilities Demo](https://www.youtube.com/watch?v=UgCHtr-6uG8) |
 | eBook | An eBook presents educational information that helps the reader gain a comprehensive understanding of a subject. eBooks are casual in tone and are most often an awareness-stage asset. | [Modernize your CI/CD](https://about.gitlab.com/resources/ebook-fuel-growth-cicd/) |

@@ -18,7 +18,7 @@ The Corporate Communications and Developer Advocacy teams want to enable everyon
 So you're interested in becoming a public speaker? That's great!
 
 1. Complete the [GitLab external speaker training](/handbook/marketing/corporate-communications/resources-trainings/#external-speaking-trainings).
-1. Join the [GitLab Speakers Bureau](/speakers/), see the [Developer Advocacy page on the Speakers Bureau](/handbook/marketing/developer-relations/developer-advocacy/speakers-bureau/).
+1. Join the [GitLab Speakers Bureau](https://about.gitlab.com/speakers/), see the [Developer Advocacy page on the Speakers Bureau](/handbook/marketing/developer-relations/developer-advocacy/speakers-bureau/).
 1. If you're looking to learn how to be a more effective and confident public speaker, you can check out:
     - [LinkedIn Learning courses](https://www.linkedin.com/learning/public-speaking-foundations-2018/)
     - Books like _The Art of Public Speaking_ by Dale Carnegie
@@ -109,10 +109,10 @@ If there is an event you would like to attend, are attending, speaking, or have 
 1. Create a [CFP issue](/handbook/marketing/corporate-communications/speaking-resources/#cfp-submission), if not existing already.
 1. Contact your manager for approval to attend/ speak, and document it in the CFP issue.
 1. After getting approval from your manager to attend, follow the steps in the Corporate Communications handbook section on [Speaking Opportunities](/handbook/marketing/corporate-communications/#speaking-opportunities-conferences-meetups-webinars-and-other-events).
-1. [Add your event/ talk](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/content/events/index.yml) to the [events page](/events/) and assign a [Developer Advocacy team member](/handbook/marketing/developer-relations/developer-advocacy/) to review the merge request.
+1. [Add your event/ talk](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/content/events/index.yml) to the [events page](https://about.gitlab.com/events/) and assign a [Developer Advocacy team member](/handbook/marketing/developer-relations/developer-advocacy/) to review the merge request.
 1. If the conference does not cover your travel and expenses, GitLab will cover your expenses (transportation, meals, and lodging for days said event takes place). If those expenses exceed $500, please get approval from your manager. When booking your trip, use our [travel portal](/handbook/travel/), book early, and spend as if it is your own money. Note: Your travel and expenses will not be approved until your event/engagement has been added to the events page.
 1. If you are speaking, please note your talk in the description when you add it to the Events Page.
-1. If you are not already on the [speakers page](/speakers/), please [add yourself](/handbook/marketing/developer-relations/developer-advocacy/speakers-bureau/#join-the-speakers-bureau).
+1. If you are not already on the [speakers page](https://about.gitlab.com/speakers/), please [add yourself](/handbook/marketing/developer-relations/developer-advocacy/speakers-bureau/#join-the-speakers-bureau).
 1. We suggest bringing swag and/or stickers with you. Check the [Requesting Swag handbook](/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/) how to request/order swag and stickers.
 
 ### Presentation Assets
@@ -146,5 +146,5 @@ Below are some tips on being a better presenter. For an in-depth book that cover
 
 To find a speaker for your event, you can see the following resources:
 
-- Speakers Bureau: a catalogue of talks, speaker briefs and speakers can be found on our [Speakers Bureau page](/speakers/). Feel free to add yourself to this page and submit a MR if you want to be in our speaker portal and are interested in being considered for any upcoming speaking opportunities.
+- Speakers Bureau: a catalogue of talks, speaker briefs and speakers can be found on our [Speakers Bureau page](https://about.gitlab.com/speakers/). Feel free to add yourself to this page and submit a MR if you want to be in our speaker portal and are interested in being considered for any upcoming speaking opportunities.
 
