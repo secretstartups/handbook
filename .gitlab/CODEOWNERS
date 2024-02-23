@@ -275,6 +275,32 @@
 /content/handbook/legal/esg/esg-training.md @robin @slcline @kbuncle
 /content/job-families/legal-and-corporate-affairs/ @robin
 
+# This is the Legal and Corporate Affairs section.
+[Legal and Corporate Affairs Documents]
+/content/handbook/legal/subscription-agreement/index.md @robin @rnalen @ktesh @m_taylor @gitlab-com/egroup
+/content/handbook/legal/ai-functionality-terms.md @robin @rnalen @ktesh @m_taylor @gitlab-com/egroup
+/content/handbook/legal/testing-agreement.md @robin @rnalen @ktesh @m_taylor @gitlab-com/egroup
+/content/handbook/legal/agile-planning-terms.md @robin @rnalen @ktesh @m_taylor @gitlab-com/egroup
+/content/handbook/legal/professional-services-agreement.md @robin @rnalen @ktesh @m_taylor @gitlab-com/egroup
+/content/handbook/legal/data-processing-agreement.md @robin @rnalen @ktesh @m_taylor @gitlab-com/egroup
+/content/handbook/legal/dmca.md @robin @rnalen @ktesh @m_taylor @gitlab-com/egroup
+/content/handbook/legal/policies/website-terms-of-use.md @robin @rnalen @ktesh @m_taylor @gitlab-com/egroup
+/content/handbook/legal/acceptable-use-policy.md @robin @rnalen @ktesh @m_taylor @gitlab-com/egroup
+/content/handbook/legal/api-terms.md @robin @rnalen @ktesh @m_taylor @gitlab-com/egroup
+/content/handbook/legal/reseller-agreement.md @robin @rnalen @ktesh @m_taylor @gitlab-com/egroup
+/content/handbook/legal/technology-partner-agreement.md @robin @rnalen @ktesh @m_taylor @gitlab-com/egroup
+/content/handbook/legal/education-agreement.md @robin @rnalen @ktesh @m_taylor @gitlab-com/egroup
+/content/handbook/legal/opensource-agreement.md @robin @rnalen @ktesh @m_taylor @gitlab-com/egroup
+# The second part of the LACA section is for the legacy agreement pages.
+/content/handbook/legal/legacy/legacy-subscription-agreement-v4.md @robin @rnalen @ktesh @m_taylor @gitlab-com/egroup
+/content/handbook/legal/legacy/legacy-subscription-agreement-v3.md @robin @rnalen @ktesh @m_taylor @gitlab-com/egroup
+/content/handbook/legal/legacy/legacy-subscription-agreement-v2.md @robin @rnalen @ktesh @m_taylor @gitlab-com/egroup
+/content/handbook/legal/legacy/legacy-psa-v1.md @robin @rnalen @ktesh @m_taylor @gitlab-com/egroup
+/content/handbook/legal/legacy/legacy-ospa-v1.md @robin @rnalen @ktesh @m_taylor @gitlab-com/egroup
+/content/handbook/legal/testing-agreement-v1.md @robin @rnalen @ktesh @m_taylor @gitlab-com/egroup
+/content/handbook/legal/testing-agreement-v2.md @robin @rnalen @ktesh @m_taylor @gitlab-com/egroup
+/content/handbook/legal/ai-functionality-terms-v1.md @robin @rnalen @ktesh @m_taylor @gitlab-com/egroup
+
 ^[marketing]
 /content/handbook/marketing/ @akramer
 /content/handbook/marketing/marketing-strategy-and-platforms.md @akramer @christinelee @mpreuss22 @s_awezec
