@@ -201,7 +201,7 @@ To generate the external community message:
   - Open floor for the community to bring topics
 - Include instructions on how to join
   - Link to zoom (or any other video platform)
-- Add the event to the [Developer Advocacy team calendar](/handbook/marketing/developer-relations/developer-evangelism/calendar). If you are not a GitLab Team Member, ask a member of the [Developer Relations](/handbook/marketing/developer-relations/) team to add the event to the calendar.
+- Add the event to the [Developer Advocacy team calendar](/handbook/marketing/developer-relations/developer-advocacy/calendar). If you are not a GitLab Team Member, ask a member of the [Developer Relations](/handbook/marketing/developer-relations/) team to add the event to the calendar.
 - Follow the instructions below for social support or open a request at the [Code Contributor's planning repo](https://gitlab.com/gitlab-com/marketing/community-relations/contributor-program/general/issues/new?issuable_template=event-support-request).
 
 ### Social
@@ -238,14 +238,14 @@ To facilitate communication between the wider community and GitLab team members,
 
 Calls will be open to everyone and recordings will be posted after the call. See examples of past office hours from [this playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrXZEInAfyddFlalvwaxL-I). To make it easier for the community to find the videos, each stage should create their own office hours playlist and link to it from their handbook page.
 
-All the community office hour calls should be added to the [Developer Advocacy calendar](/handbook/marketing/developer-relations/developer-evangelism/#-team-calendar) and [meetup.com group](https://www.meetup.com/gitlab-virtual-meetups/).
+All the community office hour calls should be added to the [Developer Advocacy calendar](/handbook/marketing/developer-relations/developer-advocacy/#-team-calendar) and [meetup.com group](https://www.meetup.com/gitlab-virtual-meetups/).
 
 #### How to organize a community office hour call
 
 **Preparation**
 - Once you have a finalized date and time, add it to:
   - the [meetup.com group](https://www.meetup.com/gitlab-virtual-meetups/) (meetup.com account available at your GitLab's 1Password vault)
-  - the [developer advocacy calendar](/handbook/marketing/developer-relations/developer-evangelism/#-team-calendar)
+  - the [developer advocacy calendar](/handbook/marketing/developer-relations/developer-advocacy/#-team-calendar)
 - Update [the office hour running notes doc](https://docs.google.com/document/d/18ddf5d5xASImrYnAG9P8VJXe0I63SBXy7ufDBBNB5H4/edit#) with the Zoom URL and call details
 - Announce it [on Discord](https://discord.gg/gitlab)
 - Tweet about it, [tagging GitLab](https://twitter.com/gitlab)
@@ -266,7 +266,7 @@ All the community office hour calls should be added to the [Developer Advocacy c
 To encourage contribution to priority issues on an on-going basis (and not just during Hackathons), we will maintain a list of up to 5 priority issues for each [product stage](/handbook/product/categories/) and prizes will be given to wider community members who have MRs merged for these issues. These issues will have the label [`Community challenge`](https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=Community+challenge) and more details such as prizes, assignment of these issues, etc.
 
 ### Community Newsletter
-We run a [Community Newsletter](/handbook/marketing/developer-relations/developer-evangelism/#community-newsletter) to share developer-focused content, alert community members about upcoming events, and keep contributors engaged. The focus of the newsletter is on driving contributions and engagement. It will not be used to generate or nurture leads and allow us to connect with and share our community's contributions.
+We run a [Community Newsletter](/handbook/marketing/developer-relations/developer-advocacy/#community-newsletter) to share developer-focused content, alert community members about upcoming events, and keep contributors engaged. The focus of the newsletter is on driving contributions and engagement. It will not be used to generate or nurture leads and allow us to connect with and share our community's contributions.
 
 #### Issues for new contributors
 

@@ -40,7 +40,7 @@ Our operational strategy is [documented in our internal handbook](https://intern
 
 Teams within Developer Relations are reachable in these Slack channels:
 
-- [#dev-advocacy-team](https://gitlab.slack.com/archives/CMELFQS4B): the [Developer Advocate](/handbook/marketing/developer-relations/developer-evangelism/) team shares content updates, thought leadership & product ideas, and support community responses, meetups, CFPs, etc.
+- [#dev-advocacy-team](https://gitlab.slack.com/archives/CMELFQS4B): the [Developer Advocate](/handbook/marketing/developer-relations/developer-advocacy/) team shares content updates, thought leadership & product ideas, and support community responses, meetups, CFPs, etc.
 - [#community-programs](https://gitlab.slack.com/archives/C024ZBWK5KJ): for all inquiries regarding [GitLab Community Programs](/handbook/marketing/developer-relations/community-programs/) (EDU/OSS/Startups)
 - [#contributor-success](https://gitlab.slack.com/archives/C02R0NE6P6C): for all inquiries regarding [Contributor Success](/handbook/marketing/developer-relations/contributor-success/)
 
@@ -81,7 +81,7 @@ Teams within Developer Relations are reachable in these Slack channels:
 Community engagement:
 
 - [<i class="fas fa-shield-alt"></i> Code of Conduct Enforcement](/handbook/marketing/developer-relations/workflows-tools/code-of-conduct-enforcement/)
-- [<i class="fas fa-volume-up"></i> Community Response Process](/handbook/marketing/developer-relations/developer-evangelism/community-response/)
+- [<i class="fas fa-volume-up"></i> Community Response Process](/handbook/marketing/developer-relations/developer-advocacy/community-response/)
 - [<i class="fas fa-calendar-alt"></i> Events](/handbook/marketing/developer-relations/events/)
 
 Community platforms:
@@ -95,7 +95,7 @@ Community platforms:
 Content:
 
 - [<i class="far fa-folder-open"></i> Content Effectiveness Strategy](/handbook/marketing/developer-relations/content-effectiveness/)
-- [<i class="far fa-edit"></i> Community newsletter](/handbook/marketing/developer-relations/developer-evangelism/community-newsletter/)
+- [<i class="far fa-edit"></i> Community newsletter](/handbook/marketing/developer-relations/developer-advocacy/community-newsletter/)
 - [<i class="far fa-edit"></i> Content Review / Fix Fridays](/handbook/marketing/developer-relations/workflows-tools/content-review/)
 - [<i class="fas fa-chart-line"></i> UTM Tracking Strategy](/handbook/marketing/developer-relations/utm-strategy/)
 - [<i class="far fa-folder-open"></i> Campaign management](/handbook/marketing/developer-relations/community-apps/campaign-manager/)
@@ -130,11 +130,11 @@ Our team has a few weekly events that we use to stay connected and aligned on ou
 
 ### <i class="fa fa-calendar fa-fw color-orange font-awesome"></i> Our calendars
 
-We use team-wide calendars for collective notification and to manage team logistics and events. Additionally, specific teams within Developer Relations may maintain calendars specific to their programs (such as the [Developer Advocate team calendar](/handbook/marketing/developer-relations/developer-evangelism/#-team-calendar)).
+We use team-wide calendars for collective notification and to manage team logistics and events. Additionally, specific teams within Developer Relations may maintain calendars specific to their programs (such as the [Developer Advocate team calendar](/handbook/marketing/developer-relations/developer-advocacy/#-team-calendar)).
 
 - [Developer Relations Team](https://calendar.google.com/calendar/u/0?cid=Y190M2JhY2k5MnFoYnJmYTMyMDdpZHZwdnYwMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 - [Community Events](https://calendar.google.com/calendar/b/1?cid=Z2l0bGFiLmNvbV85MHQ1dWUxcThrYmpvcTViMHI5MW51N3J2Y0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-- [Developer Advocate Team](/handbook/marketing/developer-relations/developer-evangelism/#-calendar)
+- [Developer Advocate Team](/handbook/marketing/developer-relations/developer-advocacy/#-calendar)
 
 ### Developer Relations OKRs
 
