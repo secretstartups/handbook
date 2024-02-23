@@ -419,6 +419,10 @@ Whoever gets closest to the customer wins. With this in mind, the Digital Experi
 
 [#website](https://gitlab.slack.com/archives/C62ERFCFM)
 
+### Slack Application
+
+We have created a Slack application called Dex Bot to notify our team about important CMS changes, read more about it [here](/handbook/marketing/digital-experience/dexbot/)
+
 ## GitLab Unfiltered Playlist
 
 Watch our team in action on YouTube!
