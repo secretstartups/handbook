@@ -288,6 +288,7 @@ that need to be regularly completed:
 
 Schedule for Docs project maintenance tasks:
 
+- April, 2024: {{< member-by-name "Lysanne Pinto" >}}
 - March, 2024: {{< member-by-name "Amy Qualls" >}}
 - February, 2024: {{< member-by-name "Marcel Amirault" >}}
 - January, 2024: {{< member-by-name "Phillip Wells" >}}
@@ -300,7 +301,6 @@ Schedule for Docs project maintenance tasks:
 - June, 2023: {{< member-by-name "Ashraf Khamis" >}}
 - May, 2023: {{< member-by-name "Fiona Neill" >}}
 - April, 2023: {{< member-by-name "Lorena Ciutacu" >}}
-- March, 2023: {{< member-by-name "Marcin Sędłak-Jakubowski" >}}
 
 ## Reviews
 
