@@ -23,22 +23,23 @@ CI Catalog GA Epic: [https://gitlab.com/groups/gitlab-org/-/epics/12153](https:/
 #### Goals:
 
 - Go-To GA efforts
-  - [POC](https://gitlab.com/gitlab-org/gitlab/-/issues/434260#note_1776822074) to distribute components for Self managed customers.
+  - SM Support [POC](https://gitlab.com/gitlab-org/gitlab/-/issues/434260#note_1783243937) to distribute components for Self managed customers.
   - [Semantic versioning](https://gitlab.com/gitlab-org/gitlab/-/issues/427286) (Complete)
+  - `~latest` returns [latest](https://gitlab.com/gitlab-org/gitlab/-/issues/442238) semantic version  (In Review)
   - Inputs Enhancements
-    - Boolean and number [support](https://gitlab.com/gitlab-org/gitlab/-/issues/434826) (Complete) 
+    - Boolean and number [support](https://gitlab.com/gitlab-org/gitlab/-/issues/434826) (Back into review due to [revert](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/144065)) 
     - Text interpolation with [arrays](https://gitlab.com/gitlab-org/gitlab/-/issues/407176)
+  - `release-cli` pre-GA [tasks](https://gitlab.com/gitlab-org/gitlab/-/issues/442066)
 - CI/CD Catalog UX improvements
   - [Reorganize information on component detail page](https://gitlab.com/gitlab-org/gitlab/-/issues/438262)
   - [Add badges for components](https://gitlab.com/gitlab-org/gitlab/-/issues/433443)
 - Telemetry instrumentation for GA
-  - [Implement Tracking for release execution time](https://gitlab.com/gitlab-org/gitlab/-/issues/440474)
+  - [Implement Tracking for release execution time](https://gitlab.com/gitlab-org/gitlab/-/issues/440474) (Complete)
   - [Table creation for component tracking usage](https://gitlab.com/gitlab-org/gitlab/-/issues/440382)
 
 #### Additional Important Notes:
 
-- Discussion in follow-up [issue](https://gitlab.com/gitlab-org/gitlab/-/issues/442066) related to publishing via `release-cli` only
-  - 2024-02-22 follow-up meeting to review plan for execution.
+- `release-cli` [iterations](https://gitlab.com/groups/gitlab-org/-/epics/12788#iterations) have been defined for pre/post GA work. 
 - Awaiting feedback from security on [Threat Model](https://gitlab.com/gitlab-com/gl-security/appsec/threat-models/-/issues/43#note_1764196039) diagrams provided.
 
 ### Milestone 16.11 (March 9, 2024 - April 12, 2024)
