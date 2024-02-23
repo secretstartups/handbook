@@ -25,7 +25,7 @@ As we execute on our strategy, it is important to use our financial targets as g
 1. Seed then nurture: [plant seeds and nurture the product to build out depth](#seed-then-nurture).
 1. Speed: ship every change in the next release to maximize responsiveness and learning.
 1. Life balance: we want people to stay with us for a long time, so it is important to [take time off](/handbook/paid-time-off/) and work on life balance; being [all-remote](/handbook/company/culture/#all-remote-work) is a large part of the solution.
-1. Open Source Stewardship: be a good [steward of GitLab](/handbook/company/stewardship/) and [collaborate with the wider community](/community/contribute/) to [improve the product together](/handbook/engineering/development/performance-indicators/#mr-rate).
+1. Open Source Stewardship: be a good [steward of GitLab](/handbook/company/stewardship/) and [collaborate with the wider community](https://about.gitlab.com/community/contribute/) to [improve the product together](/handbook/engineering/development/performance-indicators/#mr-rate).
 
 ### Seed then nurture
 
@@ -82,12 +82,12 @@ graph BT;
 
 ### Flywheel with two turbos
 
-GitLab is a [complete DevOps platform](https://about.gitlab.com/solutions/devops-platform/), delivered as a [single application](/handbook/product/single-application/), with [contributions from the wider community](/community/contribute/).
+GitLab is a [complete DevOps platform](https://about.gitlab.com/solutions/devops-platform/), delivered as a [single application](/handbook/product/single-application/), with [contributions from the wider community](https://about.gitlab.com/community/contribute/).
 
 Compared to other DevOps platforms, GitLab leverages one or two unique turbos that boost the company:
 
 1. [Advantages of a single application](/handbook/product/single-application/), leading to more [Stages per Organization](/handbook/product/performance-indicators/#stages-per-organization-spo)
-1. [Open Source stewardship](/handbook/company/stewardship/), leading to [Wider community contributions](/community/contribute/)
+1. [Open Source stewardship](/handbook/company/stewardship/), leading to [Wider community contributions](https://about.gitlab.com/community/contribute/)
 
 The advantage of a single application manifests itself if people start using more stages of the application.
 In the graph below this is visualized with [Stages per Organization (SpO), knowing that an organization using an extra stage triples conversion](https://about.gitlab.com/direction/#product-strategy).

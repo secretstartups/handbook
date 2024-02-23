@@ -283,7 +283,7 @@ No questions at this time.
 
 - **Short answer**: Coming soon
 - **Context video**: Coming soon
-- **Learn more**: Please look at GitLab's [multi cloud support](/topics/multicloud/)
+- **Learn more**: Please look at GitLab's [multi cloud support](https://about.gitlab.com/topics/multicloud/)
 
 
 #### Does GitLab have reference architectures with sizing information?
@@ -318,7 +318,7 @@ No questions at this time.
 
 - **Short answer**: Coming soon
 - **Context video**: Coming soon
-- **Learn more**: Check out the [Upgrade to Enterprise Edition page](/upgrade/)
+- **Learn more**: Check out the [Upgrade to Enterprise Edition page](https://about.gitlab.com/upgrade/)
 
 
 #### How do customers migrate from GitLab self-managed to .com?

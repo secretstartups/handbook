@@ -121,7 +121,7 @@ NOTE: Talking about "open sourcing a feature" is highly preferred to saying we w
 
 ## GitLab trials
 
-We offer a [free trial for self-managed GitLab](/free-trial/#self-managed?glm_source=about.gitlab.com&glm_content=tiers) as well as a [free trial for GitLab SaaS Ultimate](https://gitlab.com/-/trial_registrations/new?glm_source=about.gitlab.com&glm_content=tiers).
+We offer a [free trial for self-managed GitLab](https://about.gitlab.com/free-trial/#self-managed?glm_source=about.gitlab.com&glm_content=tiers) as well as a [free trial for GitLab SaaS Ultimate](https://gitlab.com/-/trial_registrations/new?glm_source=about.gitlab.com&glm_content=tiers).
 
 ### Why offer a free trial when we already have free tiers?
 

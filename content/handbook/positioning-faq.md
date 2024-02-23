@@ -47,9 +47,9 @@ GitLab started as an open source alternative to GitHub. Instead of focusing on h
 1. TLDR- Yes.
 1. GitLab is used by over 100,000 organizations worldwide, on their own servers.
 1. GitLab.com serves millions of projects and hundreds of thousands of users each month
-1. [Goldman Sachs](/customers/goldman-sachs/) | **Problem**: Needed to increase developer efficiency and software quality | **Result**: Improved 2 builds/day to over a 1000/day; simplified workflow and simplified administration
+1. [Goldman Sachs](https://about.gitlab.com/customers/goldman-sachs/) | **Problem**: Needed to increase developer efficiency and software quality | **Result**: Improved 2 builds/day to over a 1000/day; simplified workflow and simplified administration
 1. [Jaguar Land Rover](https://about.gitlab.com/blog/2018/07/23/chris-hill-devops-enterprise-summit-talk/) | **Problem**: Slow delivery and release cycles taking 4 to 6 weeks leading to infrequent feedback for developers| **Result**: Increased delivery speed from 3-6 weeks to 30 minutes giving teams faster feedback.
-1. [Hemmersbach](/customers/hemmersbach/) | **Problem**: Multiple tools and communication inefficiencies slowed application delivery | **Result**: Increased build speed by 59x; 14.4% improvement in cycle time
+1. [Hemmersbach](https://about.gitlab.com/customers/hemmersbach/) | **Problem**: Multiple tools and communication inefficiencies slowed application delivery | **Result**: Increased build speed by 59x; 14.4% improvement in cycle time
 1. [2019 Gartner Peer Insights **Customers’ Choice - Enterprise Agile Planning Tools**](/press/releases/2019-07-26-gitLab-recognized-in-gartner-peer-insights-customers-choice-for-EAPT.html) average 4.6 rating: [“DevOps without the overhead”](https://www.gartner.com/reviews/review/view/916200) , [“Simple, Intuitive and efficient DevOps Life Cycle tool”](https://www.gartner.com/reviews/review/view/749177), and [“Secure and Scalable Solution”](https://www.gartner.com/reviews/review/view/876321)
 1. Forrester: [Q3 2017 Continuous Integration Wave-Leader](https://about.gitlab.com/blog/2017/09/27/gitlab-leader-continuous-integration-forrester-wave/)
 1. Gartner: [2021 Enterprise Agile Planning Tools - Visionary](/analysts/gartner-eapt21/)

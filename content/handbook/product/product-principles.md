@@ -623,7 +623,7 @@ And for **developers of GitLab** including the third parties, this has significa
 1. Community effort is not wasted on developing multiple plugins that all ultimately do the same thing and compete with each other for usage.
 1. Developers don't have to sacrifice [velocity in favor of predictability](/handbook/engineering/development/principles/#velocity-over-predictability), since they don't have to worry about breaking the plugin API.
 
-Overall, we believe that this approach creates the best possible experience for both the users of and the contributors to GitLab, and to that end we encourage people to [contribute functionality to GitLab directly](/community/contribute/).
+Overall, we believe that this approach creates the best possible experience for both the users of and the contributors to GitLab, and to that end we encourage people to [contribute functionality to GitLab directly](https://about.gitlab.com/community/contribute/).
 
 If adding code directly to GitLab isn't an option, we encourage third-parties to integrate through our [APIs](https://docs.gitlab.com/ee/api/).
 

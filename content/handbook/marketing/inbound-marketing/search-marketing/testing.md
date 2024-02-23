@@ -36,7 +36,7 @@ Testing requires a control and a variant within the same time period, while hold
     * [Homepage](https://about.gitlab.com/)
     * Top navigation
     * [Pricing page](https://about.gitlab.com/pricing/)
-    * [Free trial](/free-trial/)
+    * [Free trial](https://about.gitlab.com/free-trial/)
     * [Contact sales](/sales/)
 1. Please check [CODEOWNERS](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/CODEOWNERS) to see if a page being tested. We updated the `#Active tests` sections, [@shanerice](https://gitlab.com/shanerice) and [@dmor](https://gitlab.com/dmor) will appear as approvers on any MRs with active tests.
 

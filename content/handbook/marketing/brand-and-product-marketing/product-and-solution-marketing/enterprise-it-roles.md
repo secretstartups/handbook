@@ -36,7 +36,7 @@ Related Reading:
 
     Defining key trends and terms:
     - What is digital transformation - Read [Forrester Digital Rewrites the Rules of Business](https://drive.google.com/file/d/16kb47ifUBX5Zp4lAiAbMp7TVo79ba2MY/view) (INTERNAL only)
-    - Why is [cloud native](/topics/cloud-native/) important to digital transformation
+    - Why is [cloud native](https://about.gitlab.com/topics/cloud-native/) important to digital transformation
     - Speed [time to market](https://about.gitlab.com/solutions/faster-software-delivery/) without impacting [risk](https://about.gitlab.com/solutions/dev-sec-ops/)
 
 
@@ -49,7 +49,7 @@ Related Reading:
         1. Resources:
               - [GitLab Pitch Deck](https://docs.google.com/presentation/d/1dVPaGc-TnbUQ2IR7TV0w0ujCrCXymKP4vLf6_FDTgVg/)
               - [GitLab home page](https://about.gitlab.com)
-              - [ROI](/calculator/roi/)
+              - [ROI](https://about.gitlab.com/calculator/roi/)
               - [Product page](https://about.gitlab.com/stages-devops-lifecycle/)
               - [Comparison page](https://about.gitlab.com/why-gitlab/)
               - [Solutions page](https://about.gitlab.com/solutions/), depending upon unique challenges/interests
@@ -79,8 +79,8 @@ Related Reading:
         1. Resources:
             - [GitLab Pitch Deck](https://docs.google.com/presentation/d/1dVPaGc-TnbUQ2IR7TV0w0ujCrCXymKP4vLf6_FDTgVg/)
             - [GitLab home page](https://about.gitlab.com)
-            - [ROI](/calculator/roi/)
-            - [Concurrent DevOps](/topics/devops/ )
+            - [ROI](https://about.gitlab.com/calculator/roi/)
+            - [Concurrent DevOps](https://about.gitlab.com/topics/devops/ )
             - [Cloud Transformation](https://about.gitlab.com/solutions/cloud-native/)
             - Software-defined Infrastructure
             - [Visibility and Velocity](https://about.gitlab.com/blog/2017/06/07/continuous-integration-ticketmaster/)
@@ -105,8 +105,8 @@ Related Reading:
       1. Resources:
           - [GitLab Pitch Deck](https://docs.google.com/presentation/d/1dVPaGc-TnbUQ2IR7TV0w0ujCrCXymKP4vLf6_FDTgVg/)
           - [GitLab home page](https://about.gitlab.com)
-          - [ROI](/calculator/roi/)
-          - [Concurrent DevOps](/topics/devops/ )
+          - [ROI](https://about.gitlab.com/calculator/roi/)
+          - [Concurrent DevOps](https://about.gitlab.com/topics/devops/ )
           - Software-defined Infrastructure
           - [Visibility and Velocity](https://about.gitlab.com/blog/2017/06/07/continuous-integration-ticketmaster/)
           - [Geographically distributed teams](/features/gitlab-geo/)
@@ -124,8 +124,8 @@ Related Reading:
       1. Resources:
             - [GitLab Pitch Deck](https://docs.google.com/presentation/d/1dVPaGc-TnbUQ2IR7TV0w0ujCrCXymKP4vLf6_FDTgVg/)
             - [GitLab home page](https://about.gitlab.com)
-            - [ROI](/calculator/roi/)
-            - [Concurrent DevOps](/topics/devops/ )
+            - [ROI](https://about.gitlab.com/calculator/roi/)
+            - [Concurrent DevOps](https://about.gitlab.com/topics/devops/ )
             - [Auto DevOps](https://about.gitlab.com/stages-devops-lifecycle/auto-devops/)
             - [Geographically distributed teams](/features/gitlab-geo/)
             - [High availability development](https://docs.gitlab.com/ee/administration/reference_architectures/)
@@ -146,9 +146,9 @@ Related Reading:
       1. Resources:
             - [GitLab Pitch Deck](https://docs.google.com/presentation/d/1dVPaGc-TnbUQ2IR7TV0w0ujCrCXymKP4vLf6_FDTgVg/)
             - [GitLab home page](https://about.gitlab.com)
-            - [ROI](/calculator/roi/)
+            - [ROI](https://about.gitlab.com/calculator/roi/)
             - [CI/CD](/features/continuous-integration/)
-            - [Concurrent DevOps](/topics/devops/ )
+            - [Concurrent DevOps](https://about.gitlab.com/topics/devops/ )
             - [Cloud Transformation](https://about.gitlab.com/solutions/cloud-native/)
             - [Google Cloud Platform](/partners/technology-partners/google-cloud-platform/)
             - [AWS](/partners/technology-partners/aws/)

@@ -242,7 +242,7 @@ For a list of analysts with a current understanding of GitLab's capabilities for
 
 ## Proof Points - Customer Recognitions
 
-[General proof points](/handbook/sales/command-of-the-message/proof-points/) and [Customer Recognition](/customers/marketplace/)
+[General proof points](/handbook/sales/command-of-the-message/proof-points/) and [Customer Recognition](https://about.gitlab.com/customers/marketplace/)
 
 ### Quotes and reviews
 
@@ -292,13 +292,13 @@ For a list of analysts with a current understanding of GitLab's capabilities for
 
 ### Case Studies
 
-**[ESA (European Space Agency)](/customers/european-space-agency/)**
+**[ESA (European Space Agency)](https://about.gitlab.com/customers/european-space-agency/)**
 - **Problem**  Geographic separation led to software deployment that used to take weeks.
 - **Solution** GitLab Core (SCM,CI)  allow opportunities for collaboration, synergies and multiple exploitations of efforts in visible way.
 - **Result** More than 140 groups adopted GitLab and more than 1500 software projects have been created. These range from mission control systems, onboard software for spacecraft, image processing and monitoring tools for Labs.
 - **Sales Segment:** Enterprise
 
-**[Goldman Sachs](/customers/goldman-sachs/)**
+**[Goldman Sachs](https://about.gitlab.com/customers/goldman-sachs/)**
 - **Problem** Needed to increase developer efficiency and software quality
 - **Solution:** GitLab Premium (CI/CD, SCM)
 - **Result:** Improved from **1 build every two weeks to over a 1000/day**, or releasing 6 times per day per developer, and an average cycle time from branch to merge is now 30 minutes; simplified workflow and simplified administration
@@ -306,7 +306,7 @@ All the new strategic pieces of ’software development platforms are tied into 
 - **Sales Segment:** Enterprise
 
 
-**[Worldline](/customers/worldline/)**
+**[Worldline](https://about.gitlab.com/customers/worldline/)**
 - **Problem** Worldline faced bottlenecks and lack of ownership when it was using Subversion. It took 1-2 weeks to get a source code repo.
 - **Solution** GitLab Core (SCM)
 - **Result:** With GitLab Core it now takes a few seconds. **Within six months, over 1,000 users were active users because GitLab is so easy to use.** People excited to contribute code reviews with GitLab Merge Requests. Previous code review tools had 10-20 developers using them, while Worldline currently has 3,000 active users of GitLab - an adoption rate increase of 12,000 percent.

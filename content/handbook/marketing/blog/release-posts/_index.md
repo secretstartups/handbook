@@ -1681,7 +1681,7 @@ The What's New MR will be initiated by the Release Post Manager on the Tuesday o
 - [Security and monthly releases](https://about.gitlab.com/releases/categories/releases/)
 - [Features per release](https://about.gitlab.com/releases/)
 - [GitLab CE and GitLab EE changelog](https://gitlab.com/gitlab-org/gitlab/-/blob/master/CHANGELOG.md)
-- [Release managers](/community/release-managers/)
+- [Release managers](https://about.gitlab.com/community/release-managers/)
 
 ### Templates
 
