@@ -15,10 +15,10 @@ You can search for relevant content and contact the team in the linked content e
 
 Click-through demos are product simulation demonstrations that can be used for self-guided training. They are invaluable for delivering demos to customers in areas with limited internet connectivity or complex environments, where preparation is necessary to showcase the flow. Toggle off the click boxes and speaker notes using fn+F2 to experience the real look and feel of the product.
 
-* [GitLab Duo (AI)](https://tech-marketing.gitlab.io/static-demos/ai-demos.html)
-* [Remote Development](https://tech-marketing.gitlab.io/static-demos/workspaces/ws_html.html)
-* [Feature Flags](https://tech-marketing.gitlab.io/static-demos/feature-flags/feature-flags-html.html)
-* [CI Overview](https://tech-marketing.gitlab.io/static-demos/ci_overview_v1.html)
+* [GitLab Duo (AI) - July 23](https://tech-marketing.gitlab.io/static-demos/ai-demos.html)
+* [Remote Development - May 23](https://tech-marketing.gitlab.io/static-demos/workspaces/ws_html.html)
+* [Feature Flags - June 23](https://tech-marketing.gitlab.io/static-demos/feature-flags/feature-flags-html.html)
+* [CI Overview - Oct 20](https://tech-marketing.gitlab.io/static-demos/ci_overview_v1.html)
 
 Note: The demos can be run offline in the absence of internet connectivity. To do so, you can directly obtain the necessary HTML files from [here](https://gitlab.com/tech-marketing/static-demos/-/tree/master/public).
 
@@ -26,10 +26,10 @@ Note: The demos can be run offline in the absence of internet connectivity. To d
 
 Product tours are a self-guided journey emphasizing the 'What' of a feature, skipping the 'How-to' steps to directly showcase the value aspects.
 
-* [Resolving vulnerabilities with GitLab Duo (AI)](https://tech-marketing.gitlab.io/static-demos/pt-explain-vulnerability.html)
-* [CI/CD Catalog beta](https://gitlab.navattic.com/cicd-catalog)
-* [Integrating security to the pipeline](https://gitlab.navattic.com/gitlab-scans)
-* [Code Suggestions](https://gitlab.navattic.com/code-suggestions)
+* [Resolving vulnerabilities with GitLab Duo (AI) - Feb 24](https://tech-marketing.gitlab.io/static-demos/pt-explain-vulnerability.html)
+* [CI/CD Catalog beta - Jan 24](https://gitlab.navattic.com/cicd-catalog)
+* [Integrating security to the pipeline - Jan 24](https://gitlab.navattic.com/gitlab-scans)
+* [Code Suggestions - Jan 24](https://gitlab.navattic.com/code-suggestions)
 
 
 ### Projects
