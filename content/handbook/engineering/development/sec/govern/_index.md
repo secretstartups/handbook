@@ -40,6 +40,7 @@ To contact Govern stage development people leaders leaders use the following ali
 
 - GitLab: `@gitlab-org/govern/managers`
 - Slack: `@s_govern_managers`
+- Slack channel: `#govern-development-people-leaders`
 
 ## All Team Members
 
@@ -73,7 +74,7 @@ To contact Govern stage development people leaders leaders use the following ali
 
 The following members of other functional teams are our stable counterparts:
 
-{{% stable-counterparts role="Govern" other-manager-roles="Engineering Manager(.*)Govern:Authorization and Anti-abuse|Engineering Manager(.*)Govern:Authentication|Engineering Manager(.*)Govern:Compliance|Engineering Manager(.*)Govern:Security Policies|Engineering Manager(.*)Govern:Threat Insights|Engineering Manager(.*)Growth and Govern:Threat Insights|Director of Engineering for Secure(.*)Govern(.*)and Growth|Senior Manager(.*)Govern" %}}
+{{% stable-counterparts role="Govern" other-manager-roles="Engineering Manager(.*)Govern:Authorization and Anti-abuse|Engineering Manager(.*)Govern:Authentication|Engineering Manager(.*)Govern:Compliance|Engineering Manager(.*)Govern:Security Policies|Engineering Manager(.*)Govern:Threat Insights|Engineering Manager(.*)Growth and Govern:Threat Insights|Director of Engineering(.*)Govern" %}}
 
 ## Skills
 
@@ -115,7 +116,7 @@ The following table lists the Govern Stage management [backup plan](/handbook/en
 
 | Team Member                                 | Covered by                                  | Escalation                               |
 |---------------------------------------------|---------------------------------------------|------------------------------------------|
-| {{< member-by-name "Phil Calder" >}}        | {{< member-by-name "Wayne Haber" >}}        | {{< member-by-name "Bartek Marnane" >}}  |
+| {{< member-by-name "Phil Calder" >}}        | Refer to PTO issue                          | {{< member-by-name "Bartek Marnane" >}}  |
 | {{< member-by-gitlab "alan" >}}             | {{< member-by-name "Nathan Rosandich" >}}   | {{< member-by-name "Phil Calder" >}}     |
 | {{< member-by-name "Nathan Rosandich" >}}   | {{< member-by-gitlab "alan" >}}             | {{< member-by-name "Phil Calder" >}}     |
 | {{< member-by-name "Kamil Niechajewicz" >}} | {{< member-by-name "Neil McCorrison" >}}    | {{< member-by-name "Phil Calder" >}}     |
@@ -123,7 +124,7 @@ The following table lists the Govern Stage management [backup plan](/handbook/en
 | {{< member-by-name "Jay Swain" >}}          | {{< member-by-name "Adil Farrukh" >}}       | {{< member-by-name "Phil Calder" >}}     |
 | {{< member-by-name "Adil Farrukh" >}}       | {{< member-by-name "Jay Swain" >}}          | {{< member-by-name "Phil Calder" >}}     |
 
-Team members should contact any Govern Engineering Manager by mentioning in `#sd_govern_engineering` or `#sec-growth-development-people-leaders` if they need management support for a problem that arises, such as a production incident or feature change lock, when their direct manager is not available. The Govern manager can provide guidance and coordination to ensure that the team member receives the appropriate help.
+Team members should contact any Govern Engineering Manager by mentioning in `#sd_govern_engineering` or `#govern-development-people-leaders` if they need management support for a problem that arises, such as a production incident or feature change lock, when their direct manager is not available. The Govern manager can provide guidance and coordination to ensure that the team member receives the appropriate help.
 
 The Engineering Manager will allocate open issues and merge requests to another engineer, ideally in the same [group](#all-team-members), if an engineer is absent.
 
