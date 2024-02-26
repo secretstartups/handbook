@@ -40,15 +40,28 @@ For additional details regarding coverage please review the [AXA Coverage Summar
 
 Please also note that this is a taxable benefit. Team members enrolled will still be responsible for the BIK ("Benefits in-Kind") taxes on their healthcare coverage.
 
-### Obtaining a Medical Insurance Quote
+### Medical Premiums and Benefit In Kind Reporting
 
-During Willis Tower Watson's initial onboarding email to enroll in the scheme, they will provide a quote for a team member to add coverage and an estimate for adding dependents. The cost of dependendent cover can be estimated as follows:
+Please see the Annual 2024 Rates effecitve 01-03-2024:
 
-| Tier | Multiplier |
-|------|------------|
-| Team Member + Spouse | 2x Team Member Premium |
-| Team Member + Child(ren) | 1.6x Team Member Premium |
-| Family | 2.5x Team Member Premium |
+| Tier                     | Total| GitLab's Cover <br> Benefit in Kind Value  | Team Member Cost <br> 34% of Dependent Cost  |
+|--------------------------|:---:|:----:|:----:|
+| Team Member Only         | £904  | £904   | £0   |
+| Team Member + Spouse     | £1,808 | £1500.64 | £307.36 |
+| Team Member + Child.     | £1537  | £1321.78 | £215.22 |
+| Family                   | £2,441  | £1918.42 | £522.58 |
+
+
+Please see the Monthly 2024 Rates effecitve 01-03-2024:
+| Tier                     | Total| GitLab's Cover <br> Benefit in Kind Value  | Team Member Cost <br> 34% of Dependent Cost  |
+|--------------------------|:---:|:----:|:----:|
+| Team Member Only         | £75.34  | £75.34   | £0   |
+| Team Member + Spouse     | £150.67 | £125.05 | £25.62 |
+| Team Member + Child.     | £128.08 | £110.14 | £17.94 |
+| Family                   | £203.41  | £159.87 | £43.55 |
+
+The Team Member cost will be deducted from their paycheck on a monthly basis. The Benefit in Kind amount will be reported on a monthly basis and team members will be taxed on the value of the benefit. An audit and reconciliation of Benefit in Kind reporting and Deductions will occur annually around Februrary.
+
 
 ### Vision
 
@@ -192,7 +205,7 @@ If you decide to opt out of the scheme you can do this within one month of the e
 - You have four weeks from when the Scottish Widows welcome letter is dated.
 - **If you do opt out by this date**, any contributions that have already been taken from your pay will be returned to you and you'll be treated as if you had never joined the pension scheme.
 - **If you don't opt out by this date**, you can stop contributing at any time, in accordance with the pension scheme rules. If you do this, both your contributions and GitLab's, up to that point, will remain invested in your pension pot until you take your benefits.
-- You can opt-out by completing the Scottish Widows ‘Opt-out form for Group Pension Scheme’.  The form can be found line at http://www.scottishwidows.co.uk/aethirdparty. The form must be printed and completed, then returned to Total Rewards at total-rewards@gitlab.com
+- You can opt-out by completing the Scottish Widows [Opt-out form for Group Pension Scheme](https://drive.google.com/file/d/1FDCXW2qa3pniHIbkJ4vSkK-C_KGmLiNa/view?usp=sharing). The form must be completed, then returned to Total Rewards at total-rewards@gitlab.com
 - The pension provider will also be able to tell you when the one month opt-out period started, if you aren’t sure.
 - An opt-out from the pension scheme normally lasts for **three years**. If you've opted out, or stopped contributions to the scheme, GitLab is required to automatically enroll you into the scheme at a later date (normally every three years).
 
