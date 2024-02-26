@@ -49,12 +49,12 @@ Open Source libraries are allowed under this policy if its use complies with the
 
 ### Freeware, Browser Extensions, Add-ons, and Plugins
 
-Freeware, Browser extensions, add-ons and plugins, including Zoom marketplace, Chrome Browser and Google integrations, are not approved for use at GitLab under this policy.  Third Party addons and plugins may create security and privacy risk due to a lack of governance and enterprise controls.
+Individual Use Software (freeware, add-ons and plugins), with the exception of unapproved Google Workspace Integrations, is permitted, subject to retroactive removal at any time by IT, Legal and Security when it is deemed unsafe or insecure.
 
 #### Exceptions
 
-- Third Party Software found on the [Pre-Approved Individual-Use Software] list is permitted for use subject to any "Notes and Restrictions" for each respective Pre-Approved software offering.
-- Third Party Software is permitted for use if it receives prior approval from Legal, Privacy and Security (as applicable).  To obtain approval, please begin the [Individual Use Software](https://about.gitlab.com/handbook/finance/procurement/personal-use-software/#how-do-i-submit-a-request-for-new-individual-use-software) request process for software that costs less than $5,000, or open an [Issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=app_integrations) for a free application.
+- Third Party Software found on the [Pre-Approved Individual-Use Software](https://internal.gitlab.com/handbook/finance/procurement/individual-use-software/) list is permitted for use subject to any "Notes and Restrictions" for each respective Pre-Approved software offering.
+- Third Party Software is permitted for use if it receives prior approval from Legal, Privacy and Security (as applicable).  To obtain approval, please begin the [Individual Use Software](https://about.gitlab.com/handbook/finance/procurement/personal-use-software/#how-do-i-submit-a-request-for-new-individual-use-software) request process.
 
 <div class="panel panel-gitlab-purple">
 **Note**
