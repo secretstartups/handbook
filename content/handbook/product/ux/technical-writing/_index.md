@@ -60,7 +60,7 @@ When evaluating work to meet our stakeholders' needs, we prioritize in the follo
 1. Feature work (including documenting new features, and providing guidance on UI text)
 1. OKR-related work
 1. Backlog issues (including docs technical debt and implementing content topic design)
-1. All other tasks (including creating suggestion- or warning-level [Vale rules](https://docs.gitlab.com/ee/development/documentation/testing.html#vale-result-types))
+1. All other tasks (including creating suggestion- or warning-level [Vale rules](https://docs.gitlab.com/ee/development/documentation/testing/vale.html#result-types))
 
 ### Processes
 
