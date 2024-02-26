@@ -367,7 +367,14 @@ To get an idea of [what's expected](#expectation) of an on-call engineer and how
 
 ### Pagerslack statistics ([Tableau](https://10az.online.tableau.com/#/site/gitlab/workbooks/2225419/views))
 
-https://10az.online.tableau.com/#/site/gitlab/workbooks/2225419/views
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/PagerslackStats/ofEscalationsperMonth" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/PagerslackStats/Responsetime" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/PagerslackStats/Percentageofbotescalatedresponses" >}}
+{{< /tableau >}}
 
 ### Notification Settings
 
