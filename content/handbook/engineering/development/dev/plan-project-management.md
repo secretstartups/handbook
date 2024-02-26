@@ -41,9 +41,7 @@ We're tracking a number of issues that we believe could cause scalability proble
 | Various | Scaling a combined 'Work Items' table consisting of all current issues, epics, requirements and test cases. | Unknown | November 2023 | [100k Work Items][workitems] created per day| | <span style='border-radius:0.2em; font-weight:bold; padding-left:1em; padding-right:1em; color:white; background-color:green;'>Okay</span> |
 
 [events]: https://gitlab.com/gitlab-org/gitlab/-/issues/220023
-[notes]: https://app.periscopedata.com/app/gitlab/865424/WIP:-Dev-Scaling-Targets:-Growth-Forecasting?widget=11744042&udv=0
 [websockets]: https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/11747#action-cable-websockets
-[workitems]: https://app.periscopedata.com/app/gitlab/865424/WIP:-Dev-Scaling-Targets:-Growth-Forecasting?widget=12289309&udv=0
 
 Note: Work is ongoing on [migration helpers](https://gitlab.com/gitlab-org/gitlab/-/issues/292874) to mitigate Int4 Primary Key Overflows. These will provide a standard way to resolve these issues.
 
@@ -170,7 +168,21 @@ When you pick something to work on, please:
 
 ### Dashboards
 
-{{% cross-functional-dashboards filters="Project Management" %}}
+{{< tableau height="600px" toolbar="hidden" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/TopEngineeringMetrics/TopEngineeringMetricsDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="project management" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/MergeRequestMetrics/OverallMRsbyType_1" >}}
+  {{< tableau/filters "GROUP_LABEL"="project management" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/Flakytestissues/FlakyTestIssues" >}}
+  {{< tableau/filters "GROUP_NAME"="project management" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/SlowRSpecTestsIssues/SlowRSpecTestsIssuesDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="project management" >}}
+{{< /tableau >}}
 
 ## Useful links
 

@@ -49,13 +49,11 @@ The following members of other functional teams are our stable counterparts:
 
 ## Metrics and KPIs
 
-These KPIs are a subset of the [Development Department Performance Indicators](/handbook/engineering/development/performance-indicators/) and configured for just the Create:Code Review Backend Team.
-
-{{< sisense dashboard="922124" chart="13660165" >}}
+These KPIs are a subset of the [Development Department Performance Indicators](/handbook/engineering/development/performance-indicators/).
 
 You can find our dashboards here:
 
-- [Code Review BE KPIs](https://app.periscopedata.com/app/gitlab/922124/Code-Review-BE-KPIs)
+- [Centralized Engineering Metrics](https://10az.online.tableau.com/#/site/gitlab/views/TopEngineeringMetrics_16989570521080/TopEngineeringMetricsDashboard)
 - [Development Department Performance Indicators](/handbook/engineering/development/performance-indicators/)
 
 
