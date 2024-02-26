@@ -556,6 +556,9 @@ The following fields have been obtained:
 - Expected entry point use case (e.g. SCM or CI)
 - Potential seats of the first opportunity (if this is a new account or buying group)
 
+**Timing**
+After the initial qualifying meeting with the account leader/executive, there must be a tangible next step agreed upon with the prospect.
+
 ***Before the IQM with the account leader/executive, the BDR will also aim to gather:***
 
 - SaaS vs. Self Hosted
