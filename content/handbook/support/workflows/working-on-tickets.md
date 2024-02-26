@@ -259,7 +259,7 @@ If you need to involve the CSM or AM in the conversation, you can use one or mor
 1. Notify the CSM/AM through Slack, in one of the following ways:
    1. If there is an existing thread discussing the ticket, `@` mention the CSM/AM to add them to the discussion, including a summary in your message for a long thread.
    1. Look for a customer channel (`#a_customerName-internal`) and start a new thread, mentioning the CSM/AM.
-   1. Mention the CSM/AM on a new message in the most relevant Support channel: `#spt_managers`, `#support_gitlab-com`, or `#support-self_managed`.
+   1. Mention the CSM/AM on a new message in the most relevant Support channel: `#support_leadership`, `#support_gitlab-com`, or `#support-self_managed`.
 
 ## FAQ
 
