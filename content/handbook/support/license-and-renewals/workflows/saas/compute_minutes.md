@@ -26,7 +26,7 @@ Support ChatOps documentation</a> for more information.
 ### Process for authorising additional compute minutes for customers as an act of goodwill
 
 - For an existing customer, Support is able to issue compute minutes as an act of goodwill in the following scenarios:
-  - requests from Sales AE during procurement delays (LINK TO FIELD OPS PAGE, https://gitlab.com/gitlab-com/content-sites/handbook/-/merge_requests/1687)
+  - requests from Sales AE during procurement delays as [per the Channel Ops handbook](https://handbook.gitlab.com/handbook/sales/field-operations/channel-operations/partner-faq/#post-sale).
   - customer has encountered a product bug related to compute minutes
   - customer experienced an unplanned GitLab.com downtime.
 
