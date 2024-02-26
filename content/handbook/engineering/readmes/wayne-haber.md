@@ -6,9 +6,7 @@ job: "Engineering Director"
 
 # Priorities
 
-I’m the director of development for these stages:
-* [Secure](/handbook/engineering/development/sec/secure/)
-* [Govern](/handbook/engineering/development/sec/govern/)
+I’m the director of development for the [Secure](/handbook/engineering/development/sec/secure/) stage and also am the leader of the [Vulnerability reseach team in secure](/handbook/engineering/development/sec/secure/vulnerability-research/).
 
 In addition to leading development for these development sub-departments, I also focus on:
 
