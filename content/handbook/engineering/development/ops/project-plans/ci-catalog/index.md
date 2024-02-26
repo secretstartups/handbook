@@ -36,6 +36,7 @@ CI Catalog GA Epic: [https://gitlab.com/groups/gitlab-org/-/epics/12153](https:/
 - Telemetry instrumentation for GA
   - [Implement Tracking for release execution time](https://gitlab.com/gitlab-org/gitlab/-/issues/440474) (Complete)
   - [Table creation for component tracking usage](https://gitlab.com/gitlab-org/gitlab/-/issues/440382)
+- CI/CD [Components](https://gitlab.com/groups/gitlab-org/-/epics/12336) GA 
 
 #### Additional Important Notes:
 
@@ -48,18 +49,32 @@ CI Catalog GA Epic: [https://gitlab.com/groups/gitlab-org/-/epics/12153](https:/
 - Support Self Manage components (carry over)
 - Improve component filtering in the UI -filter by publisher/latest update/popularity
 - CI/CD catalog Upsell opportunity - [https://gitlab.com/gitlab-org/gitlab/-/issues/393326](https://gitlab.com/gitlab-org/gitlab/-/issues/393326)
+- [Inputs](https://gitlab.com/groups/gitlab-org/-/epics/12464) - GA 
 
 ### Milestone 17.0 (April 13, 2024 - May 10, 2024)
 
-- [ ] **CI Catalog GA**
+- [CI/CD Catalog](https://gitlab.com/groups/gitlab-org/-/epics/12153) GA
 
 ### Milestone 17.1 (May 11, 2024 - June 14, 2024)
 
 #### Goals:
+- Release/Publish 2.0 [enhancements](https://gitlab.com/groups/gitlab-org/-/epics/12788) - span multiple milestones
+- Admin [capabilities](https://gitlab.com/groups/gitlab-org/-/epics/12713) in CI/CD Catalog - span multiple milestones
+- Analytics dashboards/Design Sprint [outcomes](https://gitlab.com/groups/gitlab-org/-/epics/12221) - span multiple milestones
 
-### Milestone 17.5 (September 14, 2024 - October 11, 2024)
+### Milestone 17.2 (June 15, 2024 - July 12, 2024)
 
 #### Goals:
+- Release/Publish 2.0 [enhancements](https://gitlab.com/groups/gitlab-org/-/epics/12788) - span multiple milestones
+- Admin [capabilities](https://gitlab.com/groups/gitlab-org/-/epics/12713) in CI/CD Catalog - span multiple milestones
+- Analytics dashboards/Design Sprint [outcomes](https://gitlab.com/groups/gitlab-org/-/epics/12221) - span multiple milestones
+
+### Milestone 17.3 (July 13, 2024 - August 9, 2024)
+
+#### Goals:
+- Release/Publish 2.0 [enhancements](https://gitlab.com/groups/gitlab-org/-/epics/12788) - span multiple milestones
+- Admin [capabilities](https://gitlab.com/groups/gitlab-org/-/epics/12713) in CI/CD Catalog - span multiple milestones
+- Analytics dashboards/Design Sprint [outcomes](https://gitlab.com/groups/gitlab-org/-/epics/12221) - span multiple milestones
 
 ### Archive
 
