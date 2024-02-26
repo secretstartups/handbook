@@ -4,13 +4,6 @@ title: "Field Marketing"
 description: "The role of Field Marketing at GitLab is to work closely with sales to support marketing messages & pipeline building at a regional level through in-person and virtual interactions."
 ---
 
-
-
-
-
-
-
-
 # Field Marketing Mission
 
 The mission of Field Marketing at GitLab is to strategically support the Large, Mid-Market & Public Sector go-to-market teams at **a regional level** through in-person and virtual interactions (quality vs. quantity) as well as serving as the voice of the regional go-to-market teams to the wider marketing team, and being the voice of marketing into the go-to-market teams we support, in order to create, accelerate, and expand the sales pipeline with our direct sellers and partner ecosystem. In alignment with the marketing mission of being New First Order focused, Field Marketing also supports the expand motion with customers.
@@ -33,7 +26,7 @@ We want to be the most innovative and pipeline centric team within the marketing
     - Test out new messaging or positioning
 
 # Countries of Focus
-In alignment with the FY24 Marketing strategy, Field Marketing focuses on specific countries. Details can be found here in our [internal handbook](https://internal.gitlab.com/handbook/marketing/fy24-strategy/#target-markets-and-marketing-prioritization).
+In alignment with the FY25 Marketing strategy, Field Marketing focuses on specific countries. Details can be found here in our [internal handbook](https://internal.gitlab.com/handbook/marketing/fy25-strategy/#target-markets-and-segments).
 
 # Cities of Focus
 
@@ -1044,7 +1037,7 @@ A standard deck will also be used to ensure consistency across the world in term
 
 The SSOT of the plan remains in GitLab on our [various issue boards](/handbook/marketing/field-marketing/#whats-currently-scheduled-in-my-region).
 
-- [FY24 Standard deck](https://docs.google.com/presentation/d/1-dscjXd0g-t9RmaWcgBACFb4pCp7wNlo6uRSpd55cb8/edit?usp=sharing).
+- [FY25 Standard deck](https://docs.google.com/presentation/d/1RtQuOE-mYoVUBygIihJlUvtZqUOhwIco9_xGv3ou17k/edit#slide=id.g1287bf62b57_0_209).
     - Note: The deck is additive. You are only responsible for completing the slides that are due for the quarter we are in.
     - As the slides are due one (1) month before the end of the quarter.
     - The completed deck should be stored in your correct regions [shared folder](https://drive.google.com/drive/folders/1xtePKOl4RSINaPPr3InQNisYTQyOJ5JE). Anyone within GitLab has access to search and find this folder.
@@ -1092,7 +1085,6 @@ Details on how Field Marketing shares quarterly plans with the Digital team can 
 ### Asks into Product Marketing
 ~~By the 15th of the 3rd month of the quarter, all asks for the Portfolio Marketing team for the upcoming quarter should be opened up for their review. Following their process outlined here. It's the responsibility of each FMM to ensure their asks are in by this time. The ~Field Marketing label must be added to the request in order for the PM team to review. We will use [this list](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues?label_name%5B%5D=Field+Marketing&label_name%5B%5D=sm_request&scope=all&sort=due_date&state=opened&utf8=%E2%9C%93) to review.~~
 
-This section is WIP as we have new team members and will need to build a new process.
 
 #### Asks into the Customer Reference team
 After the quarterly FMM plans have been added to the [marketing calendar](/handbook/marketing/#marketing-calendar), the regional Manager of FMM will set up an alignemnt meeting with the Director of Market Strategy & Insights. The regional FMMs as well as the regional customer reference manager should also be invited to this meeting. During this meeting, the team will review asks into the [Customer reference team](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/) and agree on asks for the quarter.
@@ -1109,17 +1101,19 @@ After the quarterly FMM plans have been added to the [marketing calendar](/handb
 
 You will note in Allocadia in the details panel if you need SA support. [Video walk through](https://youtu.be/VYwBXmpJrDg) (you must be logged into GitLab Unfiltered to view.)
 
-# Field Marketing/Channel Marketing Engagement and GTM Strategy
+# Field Marketing/Channel Marketing Engagement
 
-WIP TO BE UPATED based on FY24.
+We know and understand the importance of working with our channel partners in region to help build pipeline, and ultimately contribute to closed won business. Jointly with their regionally algined Channel Marketing Manager & Field Sales teams, Field Marketers should be thinking about which partners will help their sales teams build pipeline in the region and include them in their campaigns. 
 
-The complete list of Select Channel Partners are identified in SFDC [here](https://gitlab.my.salesforce.com/00O4M000004aSq6). (*Please note, SFDC is the SSOT for our roster of Select Partners.)
+#### The Field Marketing team will work with channel partners that have successfully:
 
+1. Executed at least 3 MDF campaigns in the last 12 months - achieving ROI of 10 x Pipe 2 Spend and targeted # of DRs  
+1. Booked business threshold. 
+    * Please revivew the internal handbook for the [required threshold of business booked](https://internal.gitlab.com/handbook/marketing/integrated-marketing/#threshold-of-booked-business).
 
-In order for a GitLab Partner to reach Select status, the Select Partner must:
-- Have a fully executed Partner contract in place
-- Have been fully onboarded/enabled and certified for both sales and technical ability to adequately represent GitLab
-- Have a working business plan (developed with the GitLab CAM) for the next 2 quarters (at minimum) that clearly outlines what and where the Select partner will be focusing in on (e.g., what kind of practices will they be standing up: DevOps, DevSecOps, GitOps, etc., market segment, vertical industry, geographic territory if applicable.)
+The Channel Marketing Manager is responsible for keeping track of which partners fall within this category and will support the FM campaign DRI as the link between channel partner and us to ensure a smooth campaign execution on both sides. 
+
+The complete list of Marketing Channel Partners are identified in SFDC [here](https://gitlab.my.salesforce.com/00OPL0000002muz). 
 
 ## FMM/CAM alignment
 
@@ -1129,36 +1123,42 @@ In order for a GitLab Partner to reach Select status, the Select Partner must:
 | AMER South Central & LATAM | Jonathan Santiago | Rodrigo Rios - LATAM and Joe McAninch - Central |
 | AMER North Central | Julie Wyatt | Joe McAninch - Central |
 | AMER Southwest & Northwest | Lisa Rom | TBD |
-| AMER Public Sector | Kira Aubrey & Haley McComber | Chris Novello|
+| AMER Public Sector | Kira Aubrey | Chris Novello|
 | APAC | Kate Baker | Dirk de Vos |
 | APAC - Japan | Shu Kawaguchi |  |
 | EMEA Southern Europe | Marcus Hall (Juliette Francon on Mat Leave) | Tristan Ouin |
-| EMEA MEA | Marcus Hall (Juliette Francon on Mat Leave) | Matthew Coughlan |
+| EMEA MEA | Marcus Hall (Juliette Francon on Mat Leave) | TBD |
 | EMEA Northern Europe | Neha Pujari| Michal Kulakowski |
-| EMEA UK/I | Neha Pujari | Matthew Coughlan |
+| EMEA UK/I | Neha Pujari | TBD |
 | EMEA Central Europe | Sarina Kraft | Ilaria Pazienza |
 | EMEA CEE | Sarina Kraft | Ilaria Pazienza |
 
 ## Field Marketing initiated and funded campaigns
 
-Jointly with their regionally algined CAM, Field Marketers should be executing 50% of their in region campaigns with Select level regional partners. The primary goal of this activity is to convert MQLs to PSOs.
+Once the partner has reached the threshold, the Channel Marketing Manager will collaborate with the Field Marketing Manager on planning and next steps. 
 
-In order for FMM to engage in lead generation activity, the CAM needs to fill out the [Channel Lead Gen request issue template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Channel_LeadGen_Req).
+Suggested process: 
+1. Identify region/area where there is a pipeline need  
+1. Develop partner campaign objectives and set goal. Set up recurring biweekly cadence with partner, CMM, GitLab sales and FMM to keep planning and campaign action items on track
+1. Agree to campaign tactics and persona targets, develop budget request and expected outcomes in the form of Deal Registrations 
+1. Ensure that you know and understand who/what each team is bringing to the campaign.
+   * If there is an invitaion involved, ensure that both companies have [UTM tracking links](/handbook/marketing/utm-strategy/) to know who has driven who to the event so you all can stay aligned and ensure proper follow ups are taking place. 
 
-Detailed planning process is [outlined here](/handbook/marketing/channel-marketing/#6-month-planning-cycle-channel-marketing-managers). Week by week details can be [found here](https://docs.google.com/spreadsheets/d/1zCdPuLz5EhpM2s1thAGW8uZ785QwmdbE5z56cq59ZXo/edit#gid=0&range=A1).
+Note: The Channel Partner Enablement team is the DRI to make sure each Partner is fully enabled prior to FMM engagement. FMMs should not be involved in any channel enablement.
 
-Note: The Channel Partner Enablement team is the DRI to make sure each Select Partner is fully enabled prior to FMM engagement. FMMs should not be involved in any channel enablement.
+### Funding joint Marketing
 
-Select Partner marketing activities can be:
+Campaigns with partners can be: 
 - Fully funded by FMM budget
-- Funded jointly by FMM budget and Select Partner
-- Funded jointly by FMM, GitLab MDF (see [MDF process](/handbook/marketing/channel-marketing/#requesting-mdf-funds)) and Select Partner
+- Funded jointly by FMM budget and Partner budget 
 
-### Sample types of activities to engage with Select Partners
+We cannot use GitLab MDF dollars to fund joint campaings. 
+
+### Sample types of activities to engage with partners
 
 - Workshops
 - Webcast / Lunch and Learn programs
-- Account Acceleration Programs
+- Account Acceleration Programs such as executive roundtables
 - Direct Mail Programs
 - Surveys
 
@@ -1170,26 +1170,10 @@ All campaigns we are working with channel partners must flow through the outline
 
 ### Tracking success of FMM campaigns with Channel
 
-Please refer to the [Field Marketers within SFDC](/handbook/marketing/field-marketing/#field-marketers-within-sfdc) section.
+Please refer to the [Marketing Performance handbook](/handbook/marketing/strategy-performance/marketing-metrics/#back-up-sfdc-pipeline-reports) for additional information.
 
 ### Useful Fields in SFDC that relate to Vartopia
 1. Please refer to [this handbook page](/handbook/marketing/marketing-operations/vartopia/#partner-prospect-admin) for further details.
-
-### Channel Program
-The below list is not exhaustive.
-
-1. Manage/create SPIFFs
-1. Manage Partner Advisory Boards
-1. Set up MDF program
-1. Manage the updates of the handbook
-1. Operationally Manages Channel Partner Portal
-
-If you are a FMM receiving requests to add a partner logo to our website, then please direct the CAM or partner to Channel Marketing.
-
-If you are a FMM receiving questions about the Channel Portal, then please direct the CAM or partner to Channel Programs.
-
-Please head over to [their page](/handbook/marketing/channel-marketing/) to check out their work and process.
-For more details on what the Channel Programs team does, please head to their [page](/handbook/sales/channel/).
 
 # Field Marketing with Alliance Partners
 ## AWS
@@ -1738,9 +1722,6 @@ Account based marketing is separate but sits next to field marketing. For info o
 ## FMM 6sense Use Cases and set up
 Field Marketing use cases are being migrated from Demandbase to 6sense. More info can be found on the [6sense Handbook page.](/handbook/marketing/marketing-operations/6sense/)
 
-# Field Marketing during COVID-19 Pandemic
-The health and safety of our team members continue to be a top priority.  If you are a Marketer who is planning on attending an event, please follow instructions listed in our [Policy & Guidelines](/handbook/travel/#policy-and-guidelines) section.
-
 # Tiers of support from Field Marketing for Corporate lead events
 In an effort to support the events the corporate marketing team runs, Field Marketing will rank the shows on an annual basis that corporate marketing runs.
 
@@ -1752,18 +1733,19 @@ Field Marketing will:
 1. Be onsite to support the event as needed
 1. Participate in Corporate Events lead stakeholder calls
 
-### FY24 Tier 1
+### FY25 Tier 1
 1. AWS re:Invent
 1. Gartner Application Summits - AMER, EMEA, APAC
 1. Gartner Security Summit - AMER
+1. Google NEXT 
 
 ## Tier 2
 Field Marketing will:
-1. Evangelize the event is taking place with all regional sales teams, but will have no specific ask of the sales team or
+1. Evangelize the event is taking place with all regional sales teams, but will have no specific ask of the sales team
 1. Will not be on onsite to support the event.
 
-### FY24 Tier 2
-1. KubeCon EU/US
+### FY25 Tier 2
+1. KubeCon US
 1. Black Hat US
 
 # Deprecated handbook content
