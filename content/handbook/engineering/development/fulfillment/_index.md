@@ -957,4 +957,4 @@ Google groups can be used for easily sending calendar invites to members of the 
 - [Daily standup Slack channel #s_fulfillment_daily](https://gitlab.slack.com/app_redirect?channel=s_fulfillment_daily)
 - [Fulfillment announcements Slack channel #s_fulfillment_fyi](https://gitlab.slack.com/app_redirect?channel=s_fulfillment_fyi)
 - [Team calendar](https://calendar.google.com/calendar/embed?src=gitlab.com_7199q584haas4tgeuk9qnd48nc%40group.calendar.google.com)
-- [Fulfillment technical debt status](https://app.periscopedata.com/app/gitlab/1054550/Fulfillment:Platform-Team---Milestone-Reporting?widget=15057739&udv=0)
+- [Fulfillment technical debt status (to be migrated to Tableau)](https://gitlab.com/gitlab-data/tableau/-/issues/685)
