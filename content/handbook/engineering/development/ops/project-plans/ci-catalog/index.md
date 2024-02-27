@@ -23,11 +23,11 @@ CI Catalog GA Epic: [https://gitlab.com/groups/gitlab-org/-/epics/12153](https:/
 #### Goals:
 
 - Go-To GA efforts
-  - SM Support [POC](https://gitlab.com/gitlab-org/gitlab/-/issues/434260#note_1783243937) to distribute components for Self managed customers.
+  - [SM Support](https://gitlab.com/gitlab-org/gitlab/-/issues/434260#note_1783243937) to distribute components for Self managed customers.
   - [Semantic versioning](https://gitlab.com/gitlab-org/gitlab/-/issues/427286) (Complete)
   - `~latest` returns [latest](https://gitlab.com/gitlab-org/gitlab/-/issues/442238) semantic version  (In Review)
   - Inputs Enhancements
-    - Boolean and number [support](https://gitlab.com/gitlab-org/gitlab/-/issues/434826) (Back into review due to [revert](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/144065)) 
+    - Boolean and number [support](https://gitlab.com/gitlab-org/gitlab/-/issues/434826) (Complete) 
     - Text interpolation with [arrays](https://gitlab.com/gitlab-org/gitlab/-/issues/407176)
   - `release-cli` pre-GA [tasks](https://gitlab.com/gitlab-org/gitlab/-/issues/442066)
 - CI/CD Catalog UX improvements
