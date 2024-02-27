@@ -49,7 +49,7 @@ Open Source libraries are allowed under this policy if its use complies with the
 
 ### Freeware, Browser Extensions, Add-ons, and Plugins
 
-Individual Use Software (freeware, add-ons and plugins), with the exception of unapproved Google Workspace Integrations, is permitted, subject to retroactive removal at any time by IT, Legal and Security when it is deemed unsafe or insecure.
+Individual Use Software (freeware, add-ons and plugins), with the exception of unauthorized Google Workspace Integrations, is permitted, subject to retroactive removal at any time by IT, Legal and Security when it is deemed unsafe or insecure.
 
 #### Exceptions
 
