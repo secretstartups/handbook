@@ -431,7 +431,7 @@ NB: we use to have a sub-department wide retrospective whose issues are still ac
 
 The Secure group reviews analytics to help understand customers and their usage of the tools. This data helps drive product and technical decisions.  The following links show usage of Secure functionality.
 
-- https://app.periscopedata.com/app/gitlab/895813/Secure-Scan-metrics
+[Secure Scan Metrics Dashboard](https://10az.online.tableau.com/t/gitlab/views/PDSecureScanMetrics_17090087673440/SecureScanMetrics)
 
 ## Cross-functional Backlog
 
