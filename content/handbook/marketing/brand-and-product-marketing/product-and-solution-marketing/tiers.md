@@ -3,12 +3,6 @@
 title: "GitLab tiers"
 ---
 
-
-
-
-
-
-
 ## Overview
 
 | Tier      | Delivery                  | Deployment Type                      |  License           | Fee            |
@@ -60,7 +54,7 @@ Features that are part of GitLab's Free tier refer to open source software that 
 
 ## GitLab SaaS
 
-We call the multi-tenant GitLab SaaS (with the G and L capitalized) since it is unambiguous and common.
+We call the multi-tenant GitLab SaaS, GitLab.com (with the G and L capitalized) since it is unambiguous and common.
 We don't call it GitLab Cloud since most self-managed instances of GitLab are hosted in the cloud as well, and if we introduce single tenant instances it will be even more confusing.
 
 GitLab Dedicated offers a new way to use our enterprise DevSecOps platform as a single-tenant SaaS offering. This offering provides all of the benefits of an enterprise DevSecOps platform, with an added focus on data residency, isolation, and private networking to meet compliance needs.
@@ -121,7 +115,7 @@ NOTE: Talking about "open sourcing a feature" is highly preferred to saying we w
 
 ## GitLab trials
 
-We offer a [free trial for self-managed GitLab](https://about.gitlab.com/free-trial/#self-managed?glm_source=about.gitlab.com&glm_content=tiers) as well as a [free trial for GitLab SaaS Ultimate](https://gitlab.com/-/trial_registrations/new?glm_source=about.gitlab.com&glm_content=tiers).
+We offer a [free trial for self-managed GitLab](https://about.gitlab.com/free-trial/#self-managed?glm_source=about.gitlab.com&glm_content=tiers) as well as a [free trial for GitLab.com Ultimate](https://gitlab.com/-/trial_registrations/new?glm_source=about.gitlab.com&glm_content=tiers).
 
 ### Why offer a free trial when we already have free tiers?
 
