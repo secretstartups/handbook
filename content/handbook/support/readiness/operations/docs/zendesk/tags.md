@@ -581,6 +581,16 @@ important to those working within Zendesk:
 
 </details>
 <details>
+<summary>Support Internal Request Tags</summary>
+
+| Tag                                 | What it means |
+|-------------------------------------|---------------|
+| `support_internal_request`          | Indicates the ticket is a Support internal request |
+| `support_valid_request`             | Indicates the Support internal request was valid for submission |
+| `support_ir_sa_request_for_support` | Indicates the Support internal request is about a SA requesting assistance from Support |
+
+</details>
+<details>
 <summary>License and Renewals Internal Request Tags</summary>
 
 | Tag                                | What it means |
