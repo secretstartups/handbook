@@ -16,13 +16,9 @@ twitter_image: '/images/tweets/handbook-marketing.png'
 
 # <i class="fas fa-bullhorn fa-fw color-orange font-awesome"></i>  Welcome to the GitLab Content Strategy & Ops Handbook
 
-{: .no_toc}
 
-
- **Welcome to the GitLab Content Strategy & Ops Handbook**
-==========================================================
-
-**Meet the GitLab Content Strategy & Ops team. :waving_hand: ** 
+Meet the GitLab Content Strategy & Ops team. 👋
+--------------
 
 [**Grace Madlinger**](https://gitlab.com/gmadlinger)
 
@@ -256,9 +252,9 @@ An ebook tends to be broader in scope than a whitepaper and provides a clear def
 
 **Examples:**
 
-1.  [**Guide to a DevOps platform migration**](https://page.gitlab.com/migrate-to-devops-guide.html)
+1.  [Guide to a DevOps platform migration](https://page.gitlab.com/migrate-to-devops-guide.html)
     
-2.  [**How to drive business success with DevSecOps**](https://page.gitlab.com/resources-ebook-devsecops-success.html)
+2.  [How to drive business success with DevSecOps](https://page.gitlab.com/resources-ebook-devsecops-success.html)
     
 
 #### One pager
@@ -278,7 +274,7 @@ A topic page is a high-level explanatory “pillar” page dedicated to a specif
 
 **Examples:**
 
-1.  [**What is CI/CD?**](https://about.gitlab.com/topics/ci-cd/)
+1.  [What is CI/CD?](https://about.gitlab.com/topics/ci-cd/)
     
 2.  [What is developer-first security?](https://handbook.gitlab.com/topics/devsecops/what-is-developer-first-security/)
     
