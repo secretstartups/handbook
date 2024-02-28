@@ -25,7 +25,9 @@ If you're interested in the team's Objectives and Key Results (OKRs), you can fi
 
 **Engineering Manager & Engineers**
 
-{{< team-by-manager-slug "sean-carroll" >}}
+Engineering Manager: [@sean_carroll](https://gitlab.com/sean_carroll)
+
+{{</* team-by-manager-slug "sean-carroll" */>}}
 
 **Product, Design & Quality**
 
@@ -37,6 +39,15 @@ If you're interested in the team's Objectives and Key Results (OKRs), you can fi
 - Slack Channel: [#g_custom_models](https://gitlab.enterprise.slack.com/archives/C06DCB3N96F)
 - Label Subscription: [`~group::custom models`](https://gitlab.com/groups/gitlab-com/-/labels?subscribed=&search=group%3A%3Acustom+models)
 
+#### Organisational Labels
+
+Issues owned by the Custom Models group should have these labels:
+
+- `~"group::custom models"` 
+- `~"devops::ai-powered"` 
+- `~"section::dev"`
+
+In additional issues should contain the relevant `~type:` and subtype labels.
 ## Team Processes
 
 ### Milestone Planning issues
