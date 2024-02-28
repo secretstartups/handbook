@@ -3,12 +3,6 @@ layout: handbook-page-toc
 title: "SAST analyzer deprecation and removal instructions"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
 ### Analyzer Conversion Lifecycle
 
 Many of the SAST analyzers are in the process of being replaced by semgrep. This involves having semgrep takeover the functionality of the legacy analyzer.
