@@ -169,6 +169,7 @@ For collaboration in other projects and subjects:
 
 Technical writers do not review content in:
 
+- The `doc/architecture` directory. Any Maintainer can merge docs in this directory, though a review from a [coach engineer](/handbook/engineering/architecture/workflow/index.md#the-coach) might be needed.
 - The `doc/development` directory. Any Maintainer can merge docs in the `doc/development` directory.
   The only exception is `/doc/development/documentation`, where the writers maintain guidelines.
 - The `doc/solutions` directory. This information is created, reviewed, merged, and maintained by Solutions Architects.
@@ -339,10 +340,10 @@ These items **do not receive** an edit unless it's specifically requested (and i
 
 - In the GitLab repository, the Contribution guidelines (in the `/development` directory).
 - In the GitLab repository, the `doc/solutions` directory. This information is owned by Solutions Architects.
+- In the GitLab repository, the blueprint documentation (everything in the `architecture/blueprints` directory).
 
 These items receive a **light** edit:
 
-- In the GitLab repository, the blueprint documentation (everything in the `architecture/blueprints` directory).
 - Documentation outside of the five main GitLab repositories (GitLab, Charts, Operator, Omnibus, and Runner).
 - Deprecations and removals.
 - Merge requests authored by other technical writers, unless the MR is part of an OKR, or the author requests a more in-depth edit.
