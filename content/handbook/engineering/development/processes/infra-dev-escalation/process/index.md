@@ -92,7 +92,7 @@ Weekend/Holiday oncall will continue to use the [oncall spreadsheet](https://dri
 
 Holidays will be included in the oncall spreadsheet, those holidays include: [Family & Friends days](/handbook/company/family-and-friends-day/), Christmas Day, New Year's Eve, New Year's Day, and any major holidays that affect multiple timezones.
 
-There are restrictions of eligibility in certain localities, which can be found in the `weekend` column of the [Development-Team-BE](https://docs.google.com/spreadsheets/d/1Uug3QHeGYobzUbB2ajJsw7CKe7vy1xRdflO5FOuHgDw/edit#gid=361355071) spreadsheet (internal only). This spreadsheet is refreshed by the end of each month automactically via the [Employment Automation](https://gitlab.com/gitlab-com/people-group/peopleops-eng/employment-automation/-/blob/main/lib/syncing/on_call_scheduling_spreadsheet.rb).
+There are restrictions of eligibility in certain localities, which can be found in the `weekend` column of the [Development-Team-BE](https://docs.google.com/spreadsheets/d/1rCamrCMZPreBpYwbzFG9zpghtiH3KPiFYu46RbqWjXU/edit#gid=1779774378) spreadsheet (internal only). This spreadsheet is refreshed by the end of each month automactically via the [Employment Automation](https://gitlab.com/gitlab-com/people-group/peopleops-eng/employment-automation/-/blob/main/lib/syncing/on_call_scheduling_spreadsheet.rb).
 
 ##### Escalation
 
