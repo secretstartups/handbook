@@ -21,6 +21,8 @@ The Growth and Development fund is managed by the Learning and Development team.
 | Qualified programs, suggested courses, conferences, etc, and feedback from your learning | Learning and Development team via #learninganddevelopment Slack channel |
 | Other | #people-connect Slack channel for support in determining the best team |
 
+If you're a manager with questions about one of your team members' G&D applications, please refer to the [Manager's Guide](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#how-to-apply-for-growth-and-development-benefits)
+
 ## Growth and Development Fund Eligibility
 
 - Team members who are full-time and have been employed for three months can participate in this fund.
