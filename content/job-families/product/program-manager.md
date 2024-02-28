@@ -31,7 +31,7 @@ The role is a grade 6.
 
 #### Product Program Manager Responsibilities
 
-All responsibilities listed below (applicalbe to all roles) plus:
+All responsibilities listed below (applicable to all roles) plus:
 
 - Identify and coordinate the interdependencies among programs, products and other critical initiatives for a single sub-department
 - Provide insight and suggestions to improving product process and operations
