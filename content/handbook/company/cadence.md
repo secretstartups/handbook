@@ -51,7 +51,7 @@ Below is one example of how the cadence items in [cadence flow](#cadence-flow) f
 
 Successfully achieving our KR of a beta value stream means progress against our Yearly value stream dashboard goal, strategic goal of extending value stream management to more users, vision of an AllOps solution, and mission of everyone contributing. While the KR is a single building block, our successful completion within the quarter leads to progress against our longer term goals.
 
-## Cadence Updates
+## Update cadence
 
 We have a cadence for reviewing our elements. Specifically, each element is reviewed at the cadence of the element that is the next level down. For example, we revisit our 3 year strategy every year. This maps to when we do annual Yearlies. And, we revisit our Yearlies every quarter. This is the timeframe for creating OKRs.
 
