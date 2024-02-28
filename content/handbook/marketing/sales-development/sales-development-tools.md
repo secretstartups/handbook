@@ -450,6 +450,21 @@ The full process for offboarding at GitLab differs based on whether it is volunt
 
 * The people team will create an [offboarding issue](/handbook/people-group/offboarding/#offboarding), complete all ‘Manager’ tasks on the issue. If you have any questions use the #managers #people-connect slack channels. You can also reach out to the assigned people ops team member on the issue.
 
+## Sequence Creation
+
+* We follow the process outlined [here](https://handbook.gitlab.com/handbook/marketing/sales-development/#new-outreach-sequenceworkflow-creation) for creating new content, when it comes to reviewing this content, the Sales Dev Ops team will follow a quarterly cadence of reviewing the sequences/campaigns that are on the In-flight column on the board [here](https://gitlab.com/gitlab-com/marketing/sales-development/-/boards/5540104). We use the criteria below:
+
+### Sequence needs to be a globally applicable
+
+- Only sequences that could be used by any team member globally can be added to the Good Collection. 
+- If a regionalized sequence can be translated to English, then the English copy of it will be added to the GC while the local variant will be added to the Team Collection.
+- Field Marketing event sequences and any other similar type will not be considered for the Good Collection.
+
+### Sequence needs to have completed the requirements set out on the issue descrption.
+
+- At least 200 people enrolled and/or having completed the sequence on a timely manner. 
+- ( Sequence has over 5% reply rate AND No less than 50% negative sentiment rate. ) OR Sequence has over 5% meeting set rate.
+
 ## Monthly Audit Process
 
 In an effort to increase transparency as well as consistency in terms of credit attribution for opportunities sourced by the Sales Development organization, we will conduct on a monthly basis a full audit of all opportunities giving credit to either a Sales Development or a Business Development Representative. Please do note that SDRs/BDRs that are on their ramping quarter are exempt from being auditors.
