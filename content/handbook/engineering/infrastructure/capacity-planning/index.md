@@ -207,7 +207,7 @@ Cases for labeling a capacity warning as `not-useful` include:
 Based on the feedback data collected in comments, we derive a key performance indicator *Precision* and define this as follows.
 
 1. A capacity warning is considered useful, if it has at least one `useful` vote.
-2. For a set of *rated* issues `issues`, we calculate *precision* as the ratio of `|useful| / |issues|`.
+2. For a set of *rated* issues `i`, we calculate *precision* as the ratio of useful issues in `i` to total issues in `i`.
 3. When referring to *precision as a KPI over time*, we use the creation timestamp for a capacity warning.
 
 In addition to precision, we also define a KPI *rated* to indicate the ratio of rated issues to total issues for a given time period.
