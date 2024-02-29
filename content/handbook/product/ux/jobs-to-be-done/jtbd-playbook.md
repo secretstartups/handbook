@@ -22,7 +22,7 @@ If your team wants to conduct in-depth Jobs to be Done research (going through t
 
 ## Step 1: Pick your job performer and main job
 
-The first step in the JTBD playbook is to zoom in on the [main job](/handbook/product/ux/jobs-to-be-done/#main-job-where-do-you-want-to-innovate) and [job performer](/handbook/product/ux/jobs-to-be-done/#job-performer-who-do-you-want-to-innovate-for) you want to learn more about. The main job and job performer are closely related – for instance, the main job ‘Review Code’ is done by a ‘Code Reviewer’. The job of ‘Writing a book’ is done by an ‘Author’. And so on. 
+The first step in the JTBD playbook is to zoom in on the [main job](/handbook/product/ux/jobs-to-be-done/#main-job-where-do-you-want-to-innovate) and [job performer](/handbook/product/ux/jobs-to-be-done/#job-performer-who-do-you-want-to-innovate-for) you want to learn more about. The main job and job performer are closely related – for instance, the main job ‘Ensure code changes meet organizational standards’ is done by a ‘Code Reviewer’. The job of ‘Writing a book’ is done by an ‘Author’. And so on. 
 
 Note: It often makes sense to go through these steps and examine several main jobs that are relevant to your team at the same time. The steps in the playbook are the same for each job performer, and you save some time if you can find users who perform more than one of the main jobs you are working on (because then you can interview them about both jobs during the same session). 
 
