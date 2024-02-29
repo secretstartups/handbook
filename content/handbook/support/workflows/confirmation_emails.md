@@ -46,6 +46,8 @@ Ensure the ticket has the correct:
 
 Zendesk should automatically check for and remove a suppression if found.
 
+The automation will send out an email to the customer letting them know whether there was a suppresion on their account or not and what next steps they can take.
+
 ### Typo Fix
 
 As of 2023-08-07, unconfirmed users are [deleted after a set number of days](https://docs.gitlab.com/ee/user/gitlab_com/#email-confirmation) on GitLab.com.
