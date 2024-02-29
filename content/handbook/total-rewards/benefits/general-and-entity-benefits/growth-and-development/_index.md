@@ -157,7 +157,7 @@ Apply for a coach via Coaching Right Now by opening an issue using the [coaching
 
 *The specifics of your coaching sessions will not be communicated to GitLab.* While not required, we encourage you to share your experience, learnings, reflections, and discoveries with your manager for further support.
 
-**Eligibility for Reimbursement:** Managers or Individual Contributors job grade 8+. Coaching Right Now will invoice GitLab directly. If the opportunity costs more than $1000, you can expense 50% of the cost up front, and 50% upon completion.
+**Eligibility for Reimbursement:** Managers or Individual Contributors job grade 8+. Coaching Right Now will invoice GitLab directly. If team member is involved in a different, approved coaching engagement outside of CRN, then the standard G&D reimbursement workflow applies. If the option is $1000 USD or higher, team members can request the split disbursement (50% reimbursed upfront after payment then the remaining 50% upon completion). Reach out to the Learning & Development team for any questions.
 
 Coaching Right Now is our preferred and vetted coaching partner. If for some reason the coaches offered via Coaching Right Now do not fit your needs, please open an issue using the [Other G&D Types (Under $300 USD) template](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/new?issuable_template=other-GD-under). After approvals, team members will provide a paid invoice to GitLab as proof for reimbursement.
 
