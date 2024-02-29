@@ -42,7 +42,7 @@ Please also note that this is a taxable benefit. Team members enrolled will stil
 
 ### Medical Premiums and Benefit In Kind Reporting
 
-Please see the Annual 2024 Rates effecitve 01-03-2024:
+Please see the Annual 2024 Rates effective 2024-03-01:
 
 | Tier                     | Total| GitLab's Cover <br> Benefit in Kind Value  | Team Member Cost <br> 34% of Dependent Cost  |
 |--------------------------|:---:|:----:|:----:|
@@ -52,7 +52,7 @@ Please see the Annual 2024 Rates effecitve 01-03-2024:
 | Family                   | £2,441  | £1918.42 | £522.58 |
 
 
-Please see the Monthly 2024 Rates effecitve 01-03-2024:
+Please see the Monthly 2024 Rates effective 2024-03-01:
 | Tier                     | Total| GitLab's Cover <br> Benefit in Kind Value  | Team Member Cost <br> 34% of Dependent Cost  |
 |--------------------------|:---:|:----:|:----:|
 | Team Member Only         | £75.34  | £75.34   | £0   |
@@ -60,7 +60,7 @@ Please see the Monthly 2024 Rates effecitve 01-03-2024:
 | Team Member + Child.     | £128.08 | £110.14 | £17.94 |
 | Family                   | £203.41  | £159.87 | £43.55 |
 
-The Team Member cost will be deducted from their paycheck on a monthly basis. The Benefit in Kind amount will be reported on a monthly basis and team members will be taxed on the value of the benefit. An audit and reconciliation of Benefit in Kind reporting and Deductions will occur annually around Februrary.
+The Team Member cost will be deducted from their paycheck on a monthly basis. The Benefit in Kind amount will be reported on a monthly basis and team members will be taxed on the value of the benefit. An audit and reconciliation of Benefit in Kind reporting and Deductions will occur annually around February.
 
 
 ### Vision
@@ -73,7 +73,7 @@ The team member needs to provide documentation (a prescription) from the opticia
 
 If you are enrolled in the AXA Medical plan, please submit any eligible claims through the plan first, any out of pocket cost not covered by the plan can be reimbursed up to the max amount in accordance to the Vision policy.
 
-Please submit your receipts via expensify and prescription to Total Rewards.
+Please submit your receipts via Navan and prescription to Total Rewards.
 
 ## Life Insurance
 
@@ -270,7 +270,7 @@ The [workplace pension page](https://drive.google.com/file/d/1e38np_Q8_s9Ty5JdbX
 - The different groups of funds Scottish Widows offers.
 - A summary of each fund.
 
-A fund factsheet is provided for each fund with usual information such as previous performance.
+A fund fact sheet is provided for each fund with usual information such as previous performance.
 
 Management charges vary by fund and are not on the fact sheets: use the charges sheet tool on the [workplace pension page.](https://drive.google.com/file/d/1e38np_Q8_s9Ty5JdbXTiMFXYVPTa20UQ/view?usp=sharing).
 
