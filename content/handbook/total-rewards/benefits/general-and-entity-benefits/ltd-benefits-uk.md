@@ -36,7 +36,8 @@ The current coverage includes:
 
 \* Current team members enrolled and new joiners to the AXA plan will have cover for treatment of pre-existing medical issues they may have had before joining, without being a member for two years or being required to have 12 consecutive months of "trouble-free" from when the condition began (pre-existing moratorium terms no longer apply).
 
-For additional details regarding coverage please review the [AXA Coverage Summary](https://drive.google.com/file/d/1TMk8xTt6yfzm-wI1X_wMyYfJF3GAgb4k/view?usp=sharing)
+For additional details regarding coverage please review the [AXA Coverage Summary](https://drive.google.com/file/d/1TMk8xTt6yfzm-wI1X_wMyYfJF3GAgb4k/view?usp=sharing).
+For claims assistance, please contact total-rewards@gitlab.com. While we are unable to take over the claims process on behalf of the team member, our broker can assist in reaching out to AXA to escalate.
 
 Please also note that this is a taxable benefit. Team members enrolled will still be responsible for the BIK ("Benefits in-Kind") taxes on their healthcare coverage.
 
@@ -185,14 +186,13 @@ Some other key points of the scheme are as follows:
 
 The certification level that has been chosen is **basic salary** only and will not include commission, bonuses or any over time payments. The contributions will be paid monthly and will be shown on the pay-slips.
 
-- From April 6, 2018 these contributions are a minimum of:
-    - Employee: 2% of basic salary
-    - GitLab:   4% of basic salary
 - From April 6, 2019 to a minimum of:
    - Employee: 5% of basic salary
    - GitLab:   4% of basic salary
+
 - As your contribution is a percentage of your pay, the amounts will automatically increase or decrease in accordance with your basic pay. These contributions will be taken from your pay and will include tax relief.
-- You may increase the contribution percentage you pay by contacting Non US Payroll team via email. Please note the company contribution will remain fixed as above. The total maximum contribution you can make is £40,000 p.a.
+- You may increase the contribution percentage you pay by contacting Non US Payroll team via email. Please note the company contribution will remain fixed as above. The standard Annual Allowance for the 2024/2025 year is £60,000 p.a.  The Annual Allowance includes all contributions, both employer and employee payable to the pension plan in the tax year. You may carry forward unused Annual Allowance for up to three tax years. Your Annual Allowance will be reduced if your Adjusted Income exceeds £260,000 or if you ‘flexibly access’ pension
+benefits from a Defined Contribution pension arrangement. Please see the [Annual Allowance Fact Sheet](https://drive.google.com/file/d/1MMA-0wfzUsO70pBsweDAHK-FVc-P_iR1/view?usp=sharing).
 - These percentages are gross percentages using the [relief at source](https://www.gov.uk/workplace-pensions/managing-your-pension) method. As basic rate tax relief is then added by the pension provider, the amount on your payslip will typically be the net amount, which is 80% of the employee's contribution.
 
 These contribution percentages are in line with [The Pension Regulator's Auto-enrollment legislation](http://www.thepensionsregulator.gov.uk/doc-library/automatic-enrolment-detailed-guidance.aspx).
