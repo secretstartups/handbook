@@ -388,6 +388,16 @@ After the quad decides the work item architecture is suitable, the Product Desig
     - Ensure new components and patterns are contributed back to Pajamas.
 1. Solution validation should be conducted as needed to ensure the workflow and usability meets the user needs.
 
+##### Research Process for Work Items
+
+We use the methods and tools in the [UX Research handbook](/handbook/product/ux/ux-research/). 
+
+In addition to these, we're working on gaining an efficiency bonus by using a common screener and building a mini-database of qualified participants aligned to our research needs.
+
+We do a confidence check at different points in the process, particularly before moving a design into the build phase. Sometimes, a design solution is straightforward enough where we’re very confident to move ahead without solution validation. However, there are times when we’re unsure how the design solution will perform in production, thereby resulting in a low level of confidence. When this happens we will do usability testing to build confidence.
+
+
+
 
 #### UX Paper Cuts
 
