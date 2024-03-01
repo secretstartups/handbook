@@ -41,7 +41,7 @@ For the sandbox site users login directly and do not use Okta.  The number of no
 
 ### Main Site
 
-For the main site groups and group membership is managed using the TableauConMan tool.  To add or remove a group the appropriate changes should be made in `groups` section of the specification file in the Data Team repository.  To add or remove members from a group the group name should be added or removed from the `groups` list for the specific user.  Once the change has been reviewed and merged the `tableau_provision_users` task in the `tableau_workbook_migrate` DAG will apply the changes.
+For the main site groups and group membership is managed using the TableauConMan tool.  To add or remove a group the appropriate changes should be made in the `groups` section of the specification file in the Data Team repository.  To add or remove members from a group, the group name should be added or removed from the `groups` list for the specific user.  Once the change has been reviewed and merged, the `tableau_provision_users` task in the `tableau_workbook_migrate` DAG will apply the changes.
 
 ### Public Site
 
