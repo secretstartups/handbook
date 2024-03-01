@@ -18,6 +18,18 @@ In Elevate+, participants will:
 1. Collaborate with stakeholders to integrate their learnings into their day-to-day work in order to tackle real challenges
 1. Take action on feedback from their team, leader, and cross-functional stakeholders to map out your and your teams’ future growth
 
+## Participant Hub
+
+Are you an active participant in Elevate+? Click here to navigate to the Particpant Hub with relevant links and resources!
+
+<div class="flex-row" markdown="0">
+  <div>
+     <a href= "https://handbook.gitlab.com/handbook/people-group/learning-and-development/elevate-programs/elevate+/_participant-hub" class="btn btn-primary" style="width:200px;margin:5px;">Intersession Work</a>
+  </div>
+</div>
+
+
+
 ## What concepts are taught in Elevate+?
 
 Elevate+ is organized into 5 learning modules. Read more about the skills covered in each module below:
@@ -38,7 +50,7 @@ Elevate+ runs for a total of 6 months and is organized into 5 learning modules. 
 | 1 | 1 | Live Learning Session (Zoom) | Cross-functional synchronous learning session on the relevant module topic | 50 minutes |
 | 2 | 2, 3 | Asynchronous Intersession work (GitLab) | Asynchronous assignment to reinforce concepts learned in the Live Learning Session and support participants in advancing their identified business goals. Each assignment will include conversations led by participant with identified individuals in order to directly apply new concepts and a documented deliverable due prior to the Live Cohort Workshops | 75 minutes |
 | 3 | 4 | Live Cohort Workshop (Zoom) | Cross-functional synchronous cohort workshop sessions with ~8-10 other GitLab people leaders to review Intersession work, give and get feedback on application of concepts, and additional opportunities for practice | 80 minutes |
-| 4 | 5 | Asynchronous Module Assessment (Level Up) | Short quiz in Level Up to demonstrate your understanding and application of new concepts | 15 minutes |
+| 4 | 5 | Share Module Feedback (Google Forms) | Share your perspective on the Elevate+ program by providing input about each module | 5 minutes |
 
 
 ## Certification
