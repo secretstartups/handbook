@@ -420,8 +420,6 @@ Post the MR links in the `#ceo` Slack channel and `@`-reference the CEO so the C
 
 CEO Shadows label the handbook MRs they create with the `ceo-shadow` label. You may do a lot or a few handbook MRs, depending on your other tasks. You can always feel welcome to create an MR. We even track the number of MRs that CEO Shadow participates create.
 
-<iframe class="dashboard-embed" src="https://app.periscopedata.com/shared/40ce74a5-00ff-4a5d-8162-b1fe212d8cbc?embed=true" height="700" width="100%"> </iframe>
-
 #### Drafting a tweet storm
 
 A tweet storm is a series of Twitter posts usually made as replies in a single thread on a topic. CEO Shadows may be asked to draft the tweets in relation to a public livestreamed video recording or some other media content.
