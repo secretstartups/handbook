@@ -25,7 +25,7 @@ The TableauConMan tool is developed in house to assist in automating several asp
 
 For the main site team members login using Okta.  For the team members to be able to see the login option in Okta they must be added to the  [`okta-tableau-users`](https://groups.google.com/a/gitlab.com/g/okta-tableau-users/members) google group.
 
-The specification file in the Data Team repository is used to review and track the changes to users on the main site.  Any changes to users should first be made in the file and reviewed before the changes are made on the site following the appropriate instruction in the users runbook.
+The specification file in the Data Team repository is used to review and track the changes to users on the main site.  Any changes to users should first be made in the file and reviewed before the changes are made on the site following the appropriate instruction in the users [runbook](https://gitlab.com/gitlab-data/runbooks/-/tree/main/tableau?ref_type=heads).
 
 A users group membership is managed using the TableauConMan tool, see Group Management for more details.
 
@@ -41,15 +41,15 @@ For the sandbox site users login directly and do not use Okta.  The number of no
 
 ### Main Site
 
-For the main site groups and group membership is managed using the TableauConMan tool.  To add or remove a group the appropriate changes should be made in the `groups` section of the specification file in the Data Team repository.  To add or remove members from a group, the group name should be added or removed from the `groups` list for the specific user.  Once the change has been reviewed and merged, the `tableau_provision_users` task in the `tableau_workbook_migrate` DAG will apply the changes.
+For the main site groups and group membership is managed using the TableauConMan tool.  To add or remove a group the appropriate changes should be made in the `groups` section of the specification file in the Data Team repository.  To add or remove members from a group, the group name should be added or removed from the `groups` list for the specific user.  Once the change has been reviewed and merged, the `tableau_provision_users` task in the [`tableau_workbook_migrate`](https://gitlab.com/gitlab-data/analytics/-/blob/master/dags/general/tableau_workbook_migrate.py) DAG will apply the changes.
 
 ### Public Site
 
-The groups for the public site are manually maintained.  The general instructions found in the groups runbook can be followed to modify groups or group membership.
+The groups for the public site are manually maintained.  The general instructions found in the groups [runbook](https://gitlab.com/gitlab-data/runbooks/-/tree/main/tableau?ref_type=heads) can be followed to modify groups or group membership.
 
 ### Sandbox Site
 
-The groups for the sandbox site are manually maintained.  The general instructions found in the groups runbook can be followed to modify groups or group membership.
+The groups for the sandbox site are manually maintained.  The general instructions found in the groups [runbook](https://gitlab.com/gitlab-data/runbooks/-/tree/main/tableau?ref_type=heads) can be followed to modify groups or group membership.
 
 ## Project Structure
 
