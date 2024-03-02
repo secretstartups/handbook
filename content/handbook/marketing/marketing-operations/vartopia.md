@@ -348,9 +348,9 @@ When you've selected a number of leads, a button will be unlocked called "Bulk U
 </details>
 
 <details><summary>Do I, as the CAM, have access to Vartopia?</summary>
-Vartopia is not available to administrator nor manufacturer, that being said, only Channel Partners will have access, and CAMs can not get access to Vartopia. You will be able to find the leads share to Partners via these Sisense reports:
+Vartopia is not available to administrator nor manufacturer, that being said, only Channel Partners will have access, and CAMs can not get access to Vartopia. You will be able to find the leads share to Partners via these Tableau reports:
 
-- [Partner Lead Status](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/992265/TD-Partner-Lead-Status)
+- [Partner Lead Status](https://10az.online.tableau.com/#/site/gitlab/views/DraftPartnerMarketingv2/PartnerLeadsContacts?:iid=2)
 </details>
 
 <details><summary>Can Distributors create deal registrations?</summary>
