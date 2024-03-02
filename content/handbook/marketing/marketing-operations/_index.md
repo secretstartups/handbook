@@ -411,37 +411,38 @@ Below are tools in the Marketing Technology stack, organized by tier.
 #### Operational Technology - Tier 2
 
 - [Allocadia](/handbook/marketing/strategy-performance/allocadia/)
-- Base
+- Base (Customer Reference)
 - [Hightouch](/handbook/marketing/marketing-operations/hightouch/)
 - [LinkedIn Sales Navigator](/handbook/sales/training/social-selling/)
-- [OneTrust](/handbook/marketing/digital-experience/onetrust/)
+- [OneTrust](/handbook/marketing/digital-experience/onetrust/) (DEX)
 - [RingLead](/handbook/marketing/marketing-operations/ringlead/)
-- Integrate DAP
+- Integrate DAP (Digital Strategy - Campaigns)
 
 #### Management Technology - Tier 3
 
 - [Litmus](/handbook/marketing/marketing-operations/litmus)
 - [Reachdesk](/handbook/marketing/marketing-operations/reachdesk/)
-- Google Analytics (Search Discovery)
+- Google Analytics (Search Discovery/Further) (DEX)
 - Survey Monkey
 - [Terminus Email Experiences](/handbook/marketing/marketing-operations/terminus-email-experiences)
 - [Typeform](/handbook/marketing/marketing-operations/typeform/)
 
 #### Functional Technology - Tier 4
 
-- [Canva](handbook/marketing/brand-and-product-marketing/design/#canva-best-practices)
+- [Bitergia](/handbook/marketing/developer-relations/workflows-tools/#tool-stack-overview) (Developer Relations)
+- [Canva](handbook/marketing/brand-and-product-marketing/design/#canva-best-practices) (Brand)
 - Cision
-- [Common Room](/handbook/marketing/developer-relations/workflows-tools/#tool-stack-overview)
+- [Common Room](/handbook/marketing/developer-relations/workflows-tools/#tool-stack-overview) (Devoper Relations)
 - ContentKing
-- Frame.io
-- Figma
+- Frame.io (Brand)
+- Figma (UX)
 - [Launch Darkly](handbook/marketing/digital-experience/engineering-ab-tests/)
 - [MeetUp](/handbook/marketing/developer-relations/workflows-tools/#tool-stack-overview)
-- Quantum Metric
-- [SEMRush](/handbook/marketing/inbound-marketing/search-marketing/seo-strategy/)
-- SheerID
+- [Quantum Metric](https://handbook.gitlab.com/handbook/business-technology/tech-stack/#quantum-metric) (DEX)
+- [SEMRush](/handbook/marketing/inbound-marketing/search-marketing/seo-strategy/) (Search Marketing)
+- [SheerID](https://handbook.gitlab.com/handbook/business-technology/tech-stack/#sheerid) (Community Programs)
 - [Sprout Social + Bambu](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/team-member-social-advocacy/#team-member-social-media-advocacy-and-enablement)
-- [Vimeo](/handbook/marketing/marketing-operations/vimeo/)
+- [Vimeo](/handbook/marketing/marketing-operations/vimeo/) (Brand)
 - [Zendesk Community](/handbook/marketing/developer-relations/workflows-tools/#tool-stack-overview)
 
 
@@ -641,6 +642,7 @@ Status in the table below means:
 |Free Registration|core| Sign up via Free User registration|Active|
 |Paid Social|inbound|Sourced from Paid Social Campaigns|Active|
 |Vendor Arranged Meetings|paid demand gen| Registered or attended a vendor arranged meeting|Active|
+| Trust Center | inbound | Requested access to the GitLab [Trust Center](https://handbook.gitlab.com/handbook/security/security-assurance/field-security/trust_center_guide/) | Active |
 
 | Source | Source Bucket | Definition and/or transition plan | Status* |
 | ------ | ------------- | --------------------------------- | ------- |
