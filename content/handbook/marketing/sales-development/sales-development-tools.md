@@ -303,8 +303,7 @@ To help structure your usage of the above, you can follow the steps below during
 | :----: | :-----: |
 |  [SDR Issue Board](https://gitlab.com/gitlab-com/marketing/sales-development/-/boards/5569691)  | Used to track GitLab issues involving the SDR team. This is a global issue board. |
 |  [SDR Event Tracker Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1718115) | Used to follow upcoming events globally |
-|  [SDR Sisense Dashboard](https://app.periscopedata.com/app/gitlab/641469/WIP:-SDR-Metrics-Update) | Dashboard to monitor SDR leads and meetings  |
-|  [MQL & SAO Performance vs. Target Sisense Dashboard](https://app.periscopedata.com/app/gitlab/628196/Revised-Marketing-Metrics) | Monitoring MQL and SAO performance in comparison to our goals  |
+|  [SDR Sisense Dashboard](https://10az.online.tableau.com/#/site/gitlab/views/DraftSalesDevAnalyticsHub/Overview?:iid=1) | SalesDev Analytics Hub Dashboard  |
 
 |  [Lead View Descriptions](/handbook/marketing/sales-development/#lead-and-contact-views) | There are Manager Lead views in SFDC mirroring the SDR and BDR views which are described on the linked Handbook page on the left. These views need to be checked regularly by managers to ensure all necessary leads are being worked.
 
