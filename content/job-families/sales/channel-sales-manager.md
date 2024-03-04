@@ -39,7 +39,7 @@ The Channel Sales Manager is a [grade 8](/handbook/total-rewards/compensation/co
 - Strong personal network within the industry.
 - Driven, highly motivated and results driven.
 - You share our [values](/handbook/values/), and work in accordance with those values.
-- [Leadership at GitLab](/handbook/company/team/structure/#management-group)
+- [Leadership at GitLab](/handbook/company/structure/#management-group)
 - Ability to use GitLab
 - Ability to travel if needed and comply with the company’s [travel policy](/handbook/travel/)
 
@@ -77,7 +77,7 @@ The Associate Channel Sales Manager is a [grade 8](/handbook/total-rewards/compe
 - Strong personal network within the industry.
 - Driven, highly motivated and results driven.
 - You share our [values](/handbook/values/), and work in accordance with those values.
-- [Leadership at GitLab](/handbook/company/team/structure/#management-group)
+- [Leadership at GitLab](/handbook/company/structure/#management-group)
 - Ability to use GitLab
 
 #### Performance Indicators
@@ -116,7 +116,7 @@ The Senior Channel Sales Manager is a [grade 8](/handbook/total-rewards/compensa
 - Strong personal network within the industry.
 - Driven, highly motivated and results driven.
 - You share our [values](/handbook/values/), and work in accordance with those values.
-- [Leadership at GitLab](/handbook/company/team/structure/#management-group)
+- [Leadership at GitLab](/handbook/company/structure/#management-group)
 - Ability to use GitLab
 
 #### Performance Indicators
@@ -133,7 +133,7 @@ The Manager, Channel Sales (people manager) is a [grade 9](/handbook/total-rewar
 
 #### Responsibilities
 
-- Engage Gitlab Regional & or Segment Sales leadership, Sales & Solutions Architects and marketing teams to ensure awareness and leverage of Gitlab channel strategy and philosophy
+- Engage GitLab Regional & or Segment Sales leadership, Sales & Solutions Architects and marketing teams to ensure awareness and leverage of GitLab channel strategy and philosophy
 - Identify demand generation and build pipeline across your territory of focus.
 - Directly manage your territory of focus's channels and alliances team across targeted segments or regions
 - Manage a team of ARR focused channel sellers to develop, build and close channel pipeline - largely focused on greenfield and whitespace opportunities
@@ -204,7 +204,7 @@ The Senior Public Sector Channel Account Manager is a [grade 9](/handbook/total-
 - Strong personal network within the industry.
 - Driven, highly motivated and results driven.
 - You share our [values](/handbook/values/), and work in accordance with those values.
-- [Leadership at GitLab](/handbook/company/team/structure/#management-group)
+- [Leadership at GitLab](/handbook/company/structure/#management-group)
 - Ability to use GitLab
 - Passion for leadership and further advancement in responsibilities as a individual contributor or managing other
 
@@ -230,9 +230,9 @@ The Director, Channel Sales Manager is a [grade 10](/handbook/total-rewards/comp
 
 #### Responsibilities
 
-- Engage Gitlab Regional Sales leadership, Sales & Solutions Architects and marketing teams to ensure awareness and leverage of Gitlab channel strategy and philosophy
-- Build out and own executive VP and C-level relationships across your territory of focus's Devops Ops System Integration, Advisory & VAR network
-- Work with Channel Services & Channel Solutions Architecture to build dedicated Gitlab practices in leading boutique, regional & global system integrators
+- Engage GitLab Regional Sales leadership, Sales & Solutions Architects and marketing teams to ensure awareness and leverage of GitLab channel strategy and philosophy
+- Build out and own executive VP and C-level relationships across your territory of focus's DevOps Ops System Integration, Advisory & VAR network
+- Work with Channel Services & Channel Solutions Architecture to build dedicated GitLab practices in leading boutique, regional & global system integrators
 - Identify demand generation and build pipeline across your territory of focus.
 - Directly manage your territory of focus's channels and alliances team across all market segments (Enterprise, MidMarket & SMB)
 - Work with channel marketing to design and execute your territory of focus channel programs and campaigns
@@ -242,7 +242,7 @@ The Director, Channel Sales Manager is a [grade 10](/handbook/total-rewards/comp
 - Provide understanding of business dynamics and key driver by your territory of focus region / country and set localized strategy
 - Overseeing SFDC for partners and deal registrations for overall region
 - Builds relationship with technology vendors and alliance partners to identify mutual greenfield opportunities
-- Works collaboratively between partners and Gitlab sales team to drive white space discussion and opportunity generation.
+- Works collaboratively between partners and GitLab sales team to drive white space discussion and opportunity generation.
 - Stays abreast of competitive products, technologies and industry trends
 - Preparation of presentations, territory plans and reports
 
@@ -303,10 +303,10 @@ The Senior Director, Channel Sales Manager is a [grade 11](/handbook/total-rewar
 #### Responsibilities
 
 - Strong ability to network, hunt for and manage executive relationships
-- Work closely with sales leadership and field sales teams to significantly leverage SI as part of overall Gitlab strategy. Drive pipeline and revenue growth
-- Identify, recruit and onboard a targeted set of Global SI’s that are committed to Gitlab as their DevOps partner of choice.
-- Work with Global SI’s to incorporate Gitlab technology into service & solutions offerings and to build dedicated Gitlab practices
-- Accountable for the successful deployment of embedded solutions, resale, managed services and cloud offerings from Gitlab’s top SI partners
+- Work closely with sales leadership and field sales teams to significantly leverage SI as part of overall GitLab strategy. Drive pipeline and revenue growth
+- Identify, recruit and onboard a targeted set of Global SI’s that are committed to GitLab as their DevOps partner of choice.
+- Work with Global SI’s to incorporate GitLab technology into service & solutions offerings and to build dedicated GitLab practices
+- Accountable for the successful deployment of embedded solutions, resale, managed services and cloud offerings from GitLab’s top SI partners
 - Drive and lead senior executive governance at WW and Geo levels
 - Directly engage field sales teams on account opportunities. Manage and track partner opportunities as part of partner business plan.
 - Working with appropriate cross functional associates, recommend programs to support SI sales strategies; e.g. marketing programs, Product Marketing, etc..
@@ -318,10 +318,10 @@ The Senior Director, Channel Sales Manager is a [grade 11](/handbook/total-rewar
 - Proven ability to work within and across teams
 - International Travel required.
 - Substantial experience in strategic partner development, channel sales and/or consulting.
-- Strong communication skills. Ability to define & crisply communicate business case for partnering with Gitlab & coordinating activities of WW virtual team calling on the partner
+- Strong communication skills. Ability to define & crisply communicate business case for partnering with GitLab & coordinating activities of WW virtual team calling on the partner
 - Deal maker. Ability to work across internal departments and partner matrix to close revenue generating partnership agreements
 - Organized – ability to keep multiple opportunities moving forward
-- Good knowledge of Gitlab products and solutions. Good understanding and appreciation for new technologies and their potential market impact.
+- Good knowledge of GitLab products and solutions. Good understanding and appreciation for new technologies and their potential market impact.
 - Solid presentation skills required with ability to engage in pre-sales activities to evangelize product and technology benefits to an audience, including General Managers.
 - Prior experience working for and/or with the strategic partner
 - You share our values, and work in accordance with those values.
@@ -352,7 +352,7 @@ The Distribution Sales Manager is accountable for revenue generation in the terr
 - Strong personal network within the industry.
 - Driven, highly motivated and results driven.
 - You share our [values](/handbook/values/), and work in accordance with those values.
-- [Leadership at GitLab](/handbook/company/team/structure/#management-group)
+- [Leadership at GitLab](/handbook/company/structure/#management-group)
 - Ability to use GitLab
 
 ### Alliances
@@ -375,7 +375,7 @@ The Distribution Sales Manager is accountable for revenue generation in the terr
 1. Significant experience with executive presence and a proven ability to lead and facilitate executive meetings including architecture whiteboards
 1. Excellent time management and written/verbal communication skills
 1. Ability to quickly understand technical concepts and explain them to audiences of varying technical expertise
-1. [Leadership at GitLab](/handbook/company/team/structure/#management-group)
+1. [Leadership at GitLab](/handbook/company/structure/#management-group)
 1. Ability to use GitLab
 
 #### Performance Indicators

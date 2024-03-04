@@ -28,7 +28,7 @@ Even though this process is very straight forward, feel free to reference the [H
 
 Your direct login allows you to login in either the [Cognism Web App](https://app.cognism.com/auth/sign-in) or in the Cognism Chrome Extension. Both can be used to access the Cognism data. Additionally, Cognism data is populated directly into our SFDC instance, on the Cognism fields for the leads that meet the criteria to be automatically enriched or, on the leads that have been exported manually from the Chrome Extension or from Cognism Web App.
 
-## Who can use Cognism at Gitlab?
+## Who can use Cognism at GitLab?
 
 For the moment, the Cognism Web App and the Cognism Chrome Extension are only used by the Sales Development Organization and specifically by the BDR role. We do allow for temporary licenses outside of the BDR role if we have them available, however, the temporary license will get revoked as soon as a BDR needs it.
 

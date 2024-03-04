@@ -31,7 +31,7 @@ to check for errors, and handle them as appropriate.
 | 1k Failover & Recovery | Tests failover on a 1k Reference Architecture         | Inactive                          |
 | 1k Rebuild             | Destroys and recreates the 1k Reference Architecture  | Daily at 4AM UTC                  |
 | 3k Rebuild             | Destroys and recreates the 3k Reference Architecture  | Mondays at 4AM UTC                |
-| 3k Update              | Upgrades Gitlab on the 3k Reference Architecture      | Tuesday through Friday at 4AM UTC |
+| 3k Update              | Upgrades GitLab on the 3k Reference Architecture      | Tuesday through Friday at 4AM UTC |
 
 ## Handling
 

@@ -5,7 +5,7 @@ title: OKR Management Single-Engineer Group
 
 ## OKR Management Single-Engineer Group
 
-The OKR Management SEG is a [Single-Engineer Group](/company/team/structure/#single-engineer-groups) within our [Incubation Engineering Department](/handbook/engineering/development/incubation/).
+The OKR Management SEG is a [Single-Engineer Group](/handbook/company/structure/#single-engineer-groups) within our [Incubation Engineering Department](/handbook/engineering/development/incubation/).
 
 ## Goal
 To develop Objectives & Key Results(OKR) functionality within GitLab.
@@ -36,7 +36,7 @@ See the ["Weekly Update" Issue](https://gitlab.com/gitlab-org/incubation-enginee
 ## Resources
 
 ### Product Development Group affinity
-The OKR Management SEG is primarily aligned with the [PLAN](https://about.gitlab.com/handbook/product/categories/#plan-stage) STAGE and more specifically with [PLANNING GROUP](https://about.gitlab.com/handbook/product/categories/#product-planning-group)
+The OKR Management SEG is primarily aligned with the [PLAN](/handbook/product/categories/#plan-stage) STAGE and more specifically with [PLANNING GROUP](/handbook/product/categories/#product-planning-group)
 
 ### Requirement Spec 
 Requirements are captured in this EPIC  [https://gitlab.com/groups/gitlab-org/-/epics/7864](https://gitlab.com/groups/gitlab-org/-/epics/7864).

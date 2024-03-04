@@ -5,17 +5,33 @@ title: "Channel and Alliance Marketing"
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
+# Channel vs Alliance Marketing Campaigns
 
+The Channel and Alliance share the same operations/process in Marketo. They both require [CRM Partner ID](/handbook/marketing/channel-marketing/partner-campaigns/#crm-partner-id) in their [list import](/handbook/marketing/channel-marketing/partner-campaigns/#list-import-for-partner-leads) and [UTM parameter](/handbook/marketing/channel-marketing/partner-campaigns/#utm-parameter-url) (form fills).
 
+We have two smart campaigns the filter the CRM Partner IDs by Alliance and Channel Partner lead.
 
+1. [Channel Partner](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SC32767A1) - When CRM Partner ID reflects a Channel Partner Account ID (18), then it will populate the Vartopia Partner Account required to sync to Vartopia, mark the leads as marketing suspended, and additional fields to support the Channel Partner lead workflow.
+1. [Alliance Partner](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SC33550A1ZN19) - When CRM Partner ID reflects an Alliance Partner Account ID (18), it doesn't populate the Vartopia Partner Account.
 
+The main difference between Channel vs Alliance partner leads are:
 
+|                        | CRM Partner ID (For list import and form fills) | Passed to Partners via Vartopia | Marketing Suspended | Lead Score | Responsible for Lead Follow Up |
+| ---------------------- | ----------------------------------------------- | ------------------------------- | ------------------- | ---------- | ------------------------------ |
+| Channel Partner leads  | Yes                                             | Yes                             | Yes                 | No         | Partner                        |
+| Alliance Partner leads | Yes                                             | No                              | No                  | Yes        | GitLab S/BDRs                    |
 
+An addition, Interesting Moment also highlights whether a lead participates in a Channel or Alliance campaign.
 
+Example:
+> ALLIANCE LEAD with {{my.Partner Name}} visited Booth at {{my.event name}} on {{my.event date}}. Location: {{my.event location}}
+
+and 
+> CHANNEL  LEAD with {{my.Partner Name}} visited Booth at {{my.event name}} on {{my.event date}}. Location: {{my.event location}}
 
 # Channel Marketing Campaigns
 
-This handbook page is to walk through the technical and operational setup of different partner campaign types from Marketo → SFDC → Vartopia, including Marketo and SFDC campaign set up for MDF, Joint Gitlab and Partner, Trials and Partner Managed Campaigns.
+This handbook page is to walk through the technical and operational setup of different partner campaign types from Marketo → SFDC → Vartopia, including Marketo and SFDC campaign set up for MDF, Joint GitLab and Partner, Trials and Partner Managed Campaigns.
 
 The general steps required for creating a partner campaign include:
 1. Clone and update Marketo program template and tokens.
@@ -243,7 +259,7 @@ Follow the steps in [List Import for Partner Leads](/handbook/marketing/channel-
 
 This section is to walk through the technical setup of webcasts hosted by GitLab and/or Alliance Partner. Unlike Channel leads, Alliance leads follow the regular [lead and contact statuses](/handbook/marketing/marketing-operations/#lead-and-contact-statuses) and [scoring model](/handbook/marketing/marketing-operations/#lead-scoring-lead-lifecycle-and-mql-criteria).
 
-## Alliance Partner Lead Sharing via Impartner
+<!--## Alliance Partner Lead Sharing via Impartner
 
 Leads generated from Alliance Marketing campaigns can be shared to Alliance Partners through Impartner. They will **only** see the lead list of the campaign members - unlike Vartopia, they do not need to accept or reject the leads. 
 
@@ -253,7 +269,7 @@ The field requirement for leads to sync to Impartner include:
 1. Partner Account (ImpartnerPRM__PartnerAccount__c)
 2. Partner Contact (ImpartnerPRM__PartnerContact__c)
 
-More information can be found on the [Impartner](/handbook/marketing/marketing-operations/impartner/) page.
+More information can be found on the [Impartner](/handbook/marketing/marketing-operations/impartner/) page. -->
 
 ## Webcast Setup
 
@@ -334,9 +350,11 @@ If a form isn't available to capture registration, follow these additional steps
         1. Phone number is mandatory for Vartopia sync, make sure that field is populated.
 1. Once spreadsheet is completed, proceed with [self service list import](/handbook/marketing/marketing-operations/automated-list-import/) instructions.
 1. (no setup needed) Marketo will process.
-    1. If there is a `CRM Partner ID`
+    1. If there is a `CRM Partner ID` that equals to a Channel Partner Account ID (18),
         1. Set `Vartopia Partner Account` - if CRM Partner ID is asociated to a Channel Partner.
         1. Set `Partner Consent` = `True`
+    1. If `CRM Partner ID` equals to a Alliance Partner Account ID (18),
+        1. Do nothing.
 1. (no setup needed) Interesting moments will dynamically change if there is a partner involved to reflect that.
 
 # UTM Parameter URL
@@ -389,7 +407,7 @@ For a running list of Channel Partners and their CRM IDs, which is critical to t
 
 ### CRM Partner ID (Look up)
 
-The lookup field retrieves the name of the partner account associated with the `Account ID (18)`  used for both Channel and Alliance.
+The lookup field retrieves the name of the partner account associated with the `Account ID (18)` used for both Channel and Alliance.
 
 
 ### Lead Acquisition Source

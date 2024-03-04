@@ -183,8 +183,8 @@ When extracting new data towards Snowflake and the data source is not listed or 
 
 ## Monte Carlo observability
 
-When a new data source is extracted towards the `raw` layer there will be a new separate schema created for that data source in many cases. In order to make sure the new data source is observed by Monte Carlo follow the steps outlined in [Monte Carlo permission](/handbook/business-technology/data-team/platform/monte-carlo/#note-on-dwh-permissions) handbook section.
+When a new data source is extracted towards the `raw` layer there will be a new separate schema created for that data source in many cases. In order to make sure the new data source is observed by Monte Carlo follow the steps outlined in [Monte Carlo permission](https://internal.gitlab.com/handbook/enterprise-data/platform/monte-carlo/#note-on-dwh-permissions) handbook section.
 
 ## Documentation
 
-The new data source will be documented in the handbook, following this [template](/handbook/business-technology/data-team/platform/pipelines/template).
+The new data source will be documented in the handbook, following this [template](https://internal.gitlab.com/handbook/enterprise-data/platform/pipelines/template).

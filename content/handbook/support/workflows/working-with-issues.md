@@ -48,7 +48,7 @@ Here are some tips:
     - We create a milestone for each monthly GitLab release.
     - Consider also searching merge requests by milestone as well.  If you think something changed in a particular release, this will identify actual code changes in that release. The issue might be closed against a later milestone when the whole feature was finally delivered.
   - If you know which product area is responsible for a feature, filter on the `~group::` label.
-    - The [features by group page](../../product/categories/features) is good for finding out the correct group.
+    - The [features by group page](/handbook/product/categories/features) is good for finding out the correct group.
     - Alternatively, look at the labels used on related issues and MRs you may have found already.
 - Sort order: If you get a lot of results in the issue view, look at the options for sorting. For example: `Created date` might be more relevant if you suspect a recent regression in the product.
 - You are likely to spend some time searching for issues you've read before.
@@ -76,13 +76,13 @@ Using the appropriate labels is *critical* to ensuring visibility of issues and 
 Required:
 
 - [Group](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#group-labels): Unsure of which? Check out [documentation metadata](https://docs.gitlab.com/ee/development/documentation/#metadata), [label descriptions](https://gitlab.com/gitlab-org/gitlab/-/labels), [DevOps Stages](/handbook/product/categories/#devops-stages), [features list by stage](https://about.gitlab.com/features) or similar existing issue.
-- [Type Labels](https://about.gitlab.com/handbook/engineering/metrics/#work-type-classification) should be added by the template, but *add* them if any are missing.
+- [Type Labels](/handbook/engineering/metrics/#work-type-classification) should be added by the template, but *add* them if any are missing.
 - `~customer` (if a ZenDesk link is added, the bot will add this automatically if you forget)
 - `~regression ##.x` if applicable; for high-impact ones, add `~"Next Patch Release"` and ping the relevant lead and subject area experts
 
 For `~customer`+ any label that allows severity (most commonly `~"type::bug"`) labeled issues, a Severity estimate is required. If it is missing, please add them to attract PM attention to the issue:
 
-- [Severity](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity): Follow the definitions to the best of your ability when assigning severity. If it's an `~severity::1`, mention the PM and consider posting in the appropriate Slack channel as well.  As Support often has a better idea of the impact on the customer(s), please explain the impact in a comment when you assign the Severity label. Feel free to have the customer add a comment as well, adding any other context they feel might be important.
+- [Severity](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity): Follow the definitions to the best of your ability when assigning severity. If it's an `~severity::1`, mention the PM and consider posting in the appropriate Slack channel as well.  As Support often has a better idea of the impact on the customer(s), please explain the impact in a comment when you assign the Severity label. Feel free to have the customer add a comment as well, adding any other context they feel might be important.
 
 Optional, but highly recommended:
 
@@ -151,7 +151,7 @@ If you create a feature proposal on behalf of a customer, please follow the same
 | Service/Product       | Escalation Type                                                                                  | Escalation Point                                         |  Assignment      |
 |-----------------------|-------------------------------------------------------------------------------------------------|---------------------------------------------------------|----------------------- |
 | GitLab Infrastructure | Anything related to the **running of GitLab.com**, performance, something breaks                | <https://gitlab.com/gitlab-com/infrastructure/issues/new> | Production Lead/Senior Production Engineer
-| Support Engineers with Gitlab.com console access| Anything related to the **use of GitLab.com**, operations that can't be performed with admin access  | See [Console escalation requests]({{< ref "internal_requests.md#gitlabcom-console-escalation" >}}) | Use `~"GitLab.com Console Escalation"` label |
+| Support Engineers with GitLab.com console access| Anything related to the **use of GitLab.com**, operations that can't be performed with admin access  | See [Console escalation requests]({{< ref "internal_requests.md#gitlabcom-console-escalation" >}}) | Use `~"GitLab.com Console Escalation"` label |
 | GitLab Support        | Any and all questions in relation to providing customer service for GitLab users and customers. | <https://gitlab.com/gitlab-com/support/support-team-meta/issues/new>        | Support Team Lead/Senior Support Engineer
 
 **See the [GitLab team page](/handbook/company/team/) for assignments**

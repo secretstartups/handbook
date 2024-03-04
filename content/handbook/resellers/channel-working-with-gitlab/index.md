@@ -363,7 +363,7 @@ Recall Process Overview
 - Phase 2 - recall leads that have not been accepted after 15 days (not accepted nor qualified)
 - Phase 3 - recall leads accepted after 5 days, and not actioned after 10 days. (not qualified)
 
-Once a lead is recalled, it will be reassigned to Gitlab Inc. for internal follow up.
+Once a lead is recalled, it will be reassigned to GitLab Inc. for internal follow up.
 
 
 ##### Video walk-through of the process outlined above

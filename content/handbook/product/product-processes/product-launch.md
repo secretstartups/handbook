@@ -97,6 +97,7 @@ The following areas may need to be considered in the planning:
 1. Revenue readiness including SSP impact and rev rec rules
 1. Tax readiness
 1. Data including operational metrics, impact to reporting, data warehouse ready
+   - If cross functional data pulls/analysis will be required, please identify Data DRIs that can help. As an example, please see what was done for the [Storage Limits Initiative](https://internal.gitlab.com/handbook/product/fulfillment/storage-limits-enforcement/#data-dris)
 1. Metrics and comp including impact to NetARR and compensation
 1. Finance including financial forecast
 1. Investor Relations including investor messaging

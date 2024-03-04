@@ -12,14 +12,14 @@ title: Development Required Approvals
 
 ## Overview
 
-There are specific scenarios we are identifying that will require additional approval before moving forward. At GitLab we value [freedom and responsibility over rigidity](https://about.gitlab.com/handbook/values/#freedom-and-responsibility-over-rigidity), however in the [examples requiring approval](#examples-requiring-approval) section below we outline which decisions will need to go through the approval process before proceeding.
+There are specific scenarios we are identifying that will require additional approval before moving forward. At GitLab we value [freedom and responsibility over rigidity](/handbook/values/#freedom-and-responsibility-over-rigidity), however in the [examples requiring approval](#examples-requiring-approval) section below we outline which decisions will need to go through the approval process before proceeding.
 
 ### Approval Process
 
 Each section requiring approvals will have a considerations section. If you answered yes to all of the questions in the considerations section, then you will need to get approval for your proposal before proceeding with implementation. Steps for the approval process: 
 
 * Submit an issue with your design proposals
-* Make the issue visible to the CEO - [Sid Sijbrandij](https://about.gitlab.com/company/team/#sytses) and all Fellow Engineers: [Stan Hu](https://about.gitlab.com/company/team/#stanhu), [Dmitriy 'DZ' Zaporozhets](https://about.gitlab.com/company/team/#dzaporozhets) and [Gerir Lopez Fernandez](https://about.gitlab.com/company/team/#glopezfernandez).
+* Make the issue visible to the CEO - [Sid Sijbrandij](/handbook/company/team/#sytses) and all Fellow Engineers: [Stan Hu](/handbook/company/team/#stanhu), [Dmitriy 'DZ' Zaporozhets](/handbook/company/team/#dzaporozhets) and [Gerir Lopez Fernandez](/handbook/company/team/#glopezfernandez).
   * Label with ~"CEO Interest"
 * You will need to gain approval from the CEO and one Fellow Engineer
 * Use the issue created in the first step to coordinate how to gain approval
@@ -40,11 +40,11 @@ As we've learned from our discussions around [defining the container registry da
 
 #### Proposing the creation of microservices
 
-The [trouble with microservices](/handbook/engineering/infrastructure/core-platform/data_stores/database/doc/strategy.html#the-trouble-with-microservices) is not a new topic to GitLab. With our company strategy of a [Flywheel with two turbos](/company/strategy/#flywheel-with-two-turbos) we default to delivering GitLab as a [single application](/handbook/product/single-application/). However, we are not opposed to adopting the right architecture to solve our problems at scale, in this case microservices. When submitting your proposal for the creation of microservices for [approval](#approval-process) please be sure to include the following considerations.
+The [trouble with microservices](/handbook/engineering/infrastructure/core-platform/data_stores/database/doc/strategy.html#the-trouble-with-microservices) is not a new topic to GitLab. With our company strategy of a [Flywheel with two turbos](/handbook/company/strategy/#flywheel-with-two-turbos) we default to delivering GitLab as a [single application](/handbook/product/single-application/). However, we are not opposed to adopting the right architecture to solve our problems at scale, in this case microservices. When submitting your proposal for the creation of microservices for [approval](#approval-process) please be sure to include the following considerations.
 
 ##### Considerations
 
-* Given that our direction indicates we are [Saas First](/direction/#saas-first) how will this change improve our SaaS first offering?
+* Given that our direction indicates we are [Saas First](https://about.gitlab.com/direction/#saas-first) how will this change improve our SaaS first offering?
   * How can these improvements be measured going forward?
 * How will this impact our self-managed customers?
 * Can this problem be solved in our current monolithic environment?

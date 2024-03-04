@@ -8,7 +8,7 @@ title: "Security Architecture"
 
 [Security Architects]({{< ref "/job-families/security/security-engineer#security-architect" >}}) are the
 trusted security advisors of GitLab Engineering. Security Architecture is a natural extension of the
-greater [Architecture](https://about.gitlab.com/handbook/engineering/architecture/) initiative at GitLab. It is the
+greater [Architecture](/handbook/engineering/architecture/) initiative at GitLab. It is the
 preliminary and necessary work to build software with security considerations.
 
 ## Objectives
@@ -55,7 +55,7 @@ cycle of source code:
 
 - [AppSec projects policies]
 
-[AppSec projects policies]: {{< ref "../security-engineering/application-security/inventory#policies" >}}
+[AppSec projects policies]: {{< ref "../product-security/application-security/inventory#policies" >}}
 
 ### InfraSec
 

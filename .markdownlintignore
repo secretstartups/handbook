@@ -1,3 +1,4 @@
+content/handbook/markdown-guide/**/*.md
 content/handbook/product/**/*.md
 content/handbook/product-development-budgeting/**/*.md
 content/handbook/product-development-flow/**/*.md
@@ -24,3 +25,4 @@ content/handbook/marketing/efficiency-wg-fy24/**/*.md
 content/handbook/acquisitions/**/*.md
 content/handbook/use-cases/**/*.md
 content/handbook/engineering/**/*.md
+content/handbook/dmca/**/*.md

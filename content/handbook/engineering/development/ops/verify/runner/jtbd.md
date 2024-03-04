@@ -1,13 +1,6 @@
 ---
-
 title: Runner Group - JTBD
 ---
-
-
-
-
-
-
 
 ## Overview
 
@@ -26,8 +19,8 @@ Utilize JTBD and job statements to:
 
 - DevOps teams may be managing hundreds of Runners, which may also mean offering different virtual machine configurations and sizes, which adds operational complexity. JTBDs will help us hone in the complex tasks these users need to successfully use our tools.
 - Runner's strategy must consider and balance the needs of both self-managed and GitLab.com product offerings.
-- Configuring and managining runners are crucial steps in the continuous integration path, but today first-class enterprise management of runners experience is not easily accessible to users. Bringing this capability to a higher level can increase our reach and growth.  
+- Configuring and managining runners are crucial steps in the continuous integration path, but today first-class enterprise management of runners experience is not easily accessible to users. Bringing this capability to a higher level can increase our reach and growth.
 
 ## JTBD
 
-<%= partial("direction/jtbd-list", locals: { stage_key: "Runner" }) %>
+{{% jtbd "Runner" %}}

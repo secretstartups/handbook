@@ -1,13 +1,6 @@
 ---
-
 title: Plan:Product Planning Engineering Team
 ---
-
-
-
-
-
-
 
 ## Plan:Product Planning team
 
@@ -18,31 +11,51 @@ For more details about the vision for this area of the product, see the
 [Plan stage] page.
 
 [Product Planning]: /handbook/product/categories/#product-planning-group
-[Plan stage]: /direction/plan/
+[Plan stage]: /handbook/engineering/development/dev/plan/
 
 ### Team members
 
-<%= direct_team(manager_role: 'Fullstack Engineering Manager, Plan:Product Planning') %>
+{{% team-by-manager-role "Fullstack Engineering Manager(.*)Plan:Product Planning" %}}
 
 ### Stable counterparts
 
-<%= stable_counterparts(role_regexp: /[,&] (Plan(?!:)|Plan:Product Planning)/, direct_manager_role: 'Fullstack Engineering Manager, Plan:Product Planning') %>
+{{% stable-counterparts manger-role="Engineering Manager(.*)Plan:Product Planning" role="[,&] (Planning(.*:)|Plan:Product Planning)" %}}
 
 ### Hiring chart
 
-Check out our [jobs page](/jobs/) for current openings.
+Check out our [jobs page](https://about.gitlab.com/jobs/) for current openings.
 
 ### Team metrics dashboard
 
-<%= partial("handbook/engineering/development/dev/plan/product_planning_dashboard") %>
+We have a [metrics dashboard][dashboard] intended to
+track against some of the [Development Department KPIs][kpis], particularly
+those around merge request creation and acceptance. From that dashboard, the
+following chart shows [MR Rate]. Please reference the dashboard section below.
+
+[dashboard]: https://us-west-2b.online.tableau.com/t/gitlabpublic/views/TopEngineeringMetrics/TopEngineeringMetricsDashboard
+[kpis]: /company/kpis/#development-department-kpis
+[MR Rate]: /handbook/engineering/performance-indicators/#engineering-mr-rate
 
 ### Application performance dashboard
 
-<%= partial("handbook/engineering/development/dev/plan/product_planning_application_dashboard") %>
+We have useful dashboards tracking the performance of parts of the application we're responsible for:
+
+- Application dashboards; showing request throughput, latency, SQL query counts, cache hits, Sidekiq jobs for Web and API endpoints, git usage and error budgets. Also links to other useful resources in Kibana.
+  - [Product Planning]
+- The [Sitespeed Dashboard]; showing the results of ongoing synthetic tests against representative product pages. Useful for identifying changes in page load time (TTFB), LCP, etc.
+
+[Product Planning]: https://dashboards.gitlab.net/d/stage-groups-product_planning/stage-groups-group-dashboard-plan-product-planning?orgId=1&from=now-7d&to=now
+[Sitespeed Dashboard]: https://dashboards.gitlab.net/d/product-plan/product-performance-plan?orgId=1
 
 ## OKRs
 
-<%= partial("handbook/engineering/development/dev/plan/product_planning_backend_okrs") %>
+### Active Quarter OKRs
+
+As we migrate to using GitLab to track OKRs, the active quarter (FY24-Q1) OKRs will be visible [here](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&type%5B%5D=objective&label_name%5B%5D=division%3A%3AEngineering&label_name%5B%5D=group%3A%3Aproduct%20planning&milestone_title=Q4&first_page_size=100) and Key Results [here](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&label_name%5B%5D=division%3A%3AEngineering&label_name%5B%5D=group%3A%3Aproduct%20planning&milestone_title=Q4&type%5B%5D=key_result&first_page_size=100).
+
+### Previous Quarter OKRs
+
+FY23-Q4 OKRs were conducted in Ally.io and are no-longer available.
 
 ## Work
 
@@ -53,11 +66,11 @@ See the [Plan stage page] and the [Plan:Project Management backend team page].
 
 ### Capacity Planning
 
-<%= partial("handbook/engineering/development/dev/plan/capacity_planning") %>
+{{% include "includes/engineering/plan/capacity-planning.md" %}}
 
 #### Weighing bugs
 
-<%= partial("handbook/engineering/development/dev/plan/weighing_bugs") %>
+{{% include "includes/engineering/plan/weighing-bugs.md" %}}
 
 #### Consider a Spike and/or a Design Document
 
@@ -94,7 +107,7 @@ any PoC MRs produced.
 
 #### Historical Capacity
 
-<%= partial("handbook/engineering/development/dev/plan/historical_capacity", locals: { chart_ids: [7693825] }) %>
+{{% include "includes/engineering/plan/historical-capacity.md" %}}
 
 #### Collaborating to Improve Velocity
 
@@ -171,7 +184,21 @@ This avoids the rush to provide documentation that often accompanies the release
 
 ### Dashboards
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Product Planning" } %>
+{{< tableau height="600px" toolbar="hidden" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/TopEngineeringMetrics/TopEngineeringMetricsDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="product planning" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/MergeRequestMetrics/OverallMRsbyType_1" >}}
+  {{< tableau/filters "GROUP_LABEL"="product planning" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/Flakytestissues/FlakyTestIssues" >}}
+  {{< tableau/filters "GROUP_NAME"="product planning" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/SlowRSpecTestsIssues/SlowRSpecTestsIssuesDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="product planning" >}}
+{{< /tableau >}}
 
 More detail is available on our [metrics page].
 
@@ -202,7 +229,7 @@ Items that are customer-facing deliverables and high impact are labeled with ~"d
 
 #### High Severity Issues
 
-<%= partial("handbook/engineering/development/dev/plan/high_severity_items") %>
+{{% include "includes/engineering/plan/high-severity-items.md" %}}
 
 ### Working on unscheduled issues
 
@@ -217,17 +244,17 @@ in the handbook, and it is here to make those explicit:
    is important, you can [request for it to be scheduled], or you can
    [work on a proposal yourself][iteration], as long as you keep your
    other tasks in mind.
-2. From time to time, there are events that GitLab team-members can participate
+1. From time to time, there are events that GitLab team-members can participate
    in, like the [issue bash]. Anyone is welcome
    to participate in these.
-3. If you feel like you want to have some specific time set aside, but
+1. If you feel like you want to have some specific time set aside, but
    aren't interested in the topics of an existing event, feel free to
    label issues with "For Scheduling" and copy your manager for visibility.
 
 When you pick something to work on, please:
 
 1. Follow the standard workflow and assign it to yourself.
-2. Share it in [#s_plan] - if not even more widely (like in #development
+1. Share it in [#s_plan] - if not even more widely (like in #development
    or #backend).
 
 [collaboration]: /handbook/values/#collaboration
@@ -240,4 +267,16 @@ When you pick something to work on, please:
 
 ## Useful links
 
-<%= partial("handbook/engineering/development/dev/plan/useful_links", locals: { board: { name: 'Plan:Product Planning', url: 'https://gitlab.com/groups/gitlab-org/-/boards/1569369?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Aplan&not[label_name][]=group%3A%3Aproject%20management' }}) %>
+- [:Plan:Product Planning] - Apply a milestone filter to see work in the current release
+- [#s_plan] in Slack
+- [Recorded meetings][youtube]
+- [Retrospectives][retros]
+- [Group Conversations] (archive; group conversations now happen at a the
+  [section level])
+
+[:Plan:Product Planning]: https://gitlab.com/groups/gitlab-org/-/boards/1569369?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Aplan&not[label_name][]=group%3A%3Aproject%20management]
+[#s_plan]: https://gitlab.slack.com/archives/s_plan
+[youtube]: https://www.youtube.com/playlist?list=PL05JrBw4t0KoceqcTneOVmAzhEp6NinY0
+[retros]: https://gitlab.com/gl-retrospectives/plan/issues?scope=all&utf8=%E2%9C%93&state=all&label_name[]=retrospective
+[Group Conversations]: http://gitlab-org.gitlab.io/group-conversations/plan/
+[section level]: /company/team/structure/#organizational-structure

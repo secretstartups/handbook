@@ -11,7 +11,7 @@ title: "Plan Frontend Engineer Internship"
 
 ## Overview
 
-The Plan Frontend Team internship is the result of [The Engineering Internship Pilot Program](/handbook/engineering/internships/) that started at the end of 2019. The ultimate goal of this program is to transform an entry-level candidate in to an Individual Contributor who could meet the requirements for a [Junior Engineer](https://handbook.gitlab.com/job-families/engineering/development/frontend/junior/).
+The Plan Frontend Team internship is the result of [The Engineering Internship Pilot Program](/handbook/engineering/internships/) that started at the end of 2019. The ultimate goal of this program is to transform an entry-level candidate in to an Individual Contributor who could meet the requirements for a [Junior Engineer](/job-families/engineering/development/frontend/junior/).
 
 ## First 30 days
 
@@ -21,8 +21,8 @@ The goals for the internship program are laid out in an epic here: [https://gitl
 
 For this program to be successful, the Roles and Responsibilities must be transparent to the Internship Program participants. The primary roles of the program include:
 
-- [Frontend Engineering Manager](https://handbook.gitlab.com/job-families/engineering/backend-engineer/#backend-manager-engineering) - Manager
-- [Frontend Engineer](https://handbook.gitlab.com/job-families/engineering/development/frontend/) - Mentor
+- [Frontend Engineering Manager](/job-families/engineering/backend-engineer/#backend-manager-engineering) - Manager
+- [Frontend Engineer](/job-families/engineering/development/frontend/) - Mentor
 - Intern - Participant
 
 ## Responsibilities

@@ -67,7 +67,7 @@ The version in use can be found on the [Runtime Environment Variables file](http
 
 ### Troubleshooting
 
-Please reach out to [your counterpart SET](https://about.gitlab.com/handbook/engineering/quality/#individual-contributors) or in the `#quality` channel.
+Please reach out to [your counterpart SET](/handbook/engineering/quality/#individual-contributors) or in the `#quality` channel.
 
 ### Helpful Documentation
 

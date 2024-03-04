@@ -74,6 +74,7 @@ The DRI should identify key folks who will be members of the Working Group. They
 1. Reach out to the exec sponsor to help identify leads/contacts throughout the organization who could provide support
 1. Reach out to functional leads from the stages identified as needing to provide support to this effort
 1. Include the folks who the DRI has already been working with on this effort, and ask them if they'd like to continue or have someone they'd recommend taking over
+   - If cross functional data pulls/analysis will be required, please identify Data DRIs that can help. As an example, please see what was done for the [Storage Limits Initiative](https://internal.gitlab.com/handbook/product/fulfillment/storage-limits-enforcement/#data-dris)
 1. Solicit help on the respective stage's/team's Slack channel. The [Features by Group](/handbook/product/categories/features/) page may provide some guidance
 
 For example, if you know that this Working Group will eventually involve customer communications, you should ensure that the team has appropriate representation from the Customer Success department and that the representative is clear on the asks for both the team and the individual within the coming weeks and quarters.
@@ -99,7 +100,7 @@ The Working Group should follow the [GitLab norms for meetings](/handbook/compan
 1. Save time at the end of the meeting to take action items
 1. Turn action items into merge requests or issues
 
-Working Groups should follow the guidance outlined in [Building High Performing Teams](/handbook/leadership/build-high-performing-teams/).
+Working Groups should follow the guidance outlined in [Building High Performing Teams](/handbook/leadership/#strategies-to-build-high-performing-teams).
 
 ### Working Group meetings
 
@@ -199,8 +200,8 @@ If you are unable to attend the existing working group meeting due to time diffe
 
 ## Active Working Groups (alphabetic order)
 
+1. [17.0 Major Release]({{< ref "17-0-major-release" >}})
 1. [Account Escalation Process]({{< ref "account-escalation-process" >}})
-1. [API Vision]({{< ref "api-vision" >}})
 1. [Automotive Development]({{< ref "automotive-development" >}})
 1. [AWS/GCP Partnerships](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/11)
 1. [Bounded Contexts]({{< ref "bounded-contexts" >}})
@@ -209,12 +210,10 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [ClickHouse Datastore]({{< ref "clickhouse-datastore" >}})
 1. [Continue to win against GitHub and ship AI features]({{< ref "yearlies" >}})
 1. [Customer Use Case Adoption]({{< ref "customer-use-case-adoption" >}})
-1. [Demo & Test Data]({{< ref "demo-test-data" >}})
 1. [Emerging Talent]({{< ref "emerging-talent" >}})
 1. [Event Stream]({{< ref "event-stream" >}})
 1. [Expense Management]({{< ref "expense-management" >}})
 1. [FedRAMP Execution]({{< ref "fedramp-execution" >}})
-1. [Frontend Observability]({{< ref "frontend-observability" >}})
 1. [Frontend Vision]({{< ref "frontend-vision" >}})
 1. [Fulfillment Efficiency](https://docs.google.com/presentation/d/1eTH09QZqnazJ4jh-jVGTEYEFA3m6R2jwWuhY5_EtPL4/edit#slide=id.g123a13deda8_0_405)
 1. [GCP Partnership]({{< ref "gcp-partnership" >}})
@@ -222,23 +221,22 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [GitLab.com Disaster Recovery]({{< ref "disaster-recovery" >}})
 1. [GitLab.com SAAS Data Pipeline]({{< ref "gitlab-com-saas-data-pipeline" >}})
 1. [Government Support Offerings (Internal only)](https://internal.gitlab.com/handbook/company/internal-working-groups/govt-support-offerings/)
-1. [Revenue Globalization]({{< ref "globalization" >}})
+1. [Inclusive Practices]({{<ref "inclusive-practices" >}})
 1. [Issue Prioritization Framework]({{< ref "issue-prioritization-framework" >}})
-1. [Leading Organizations]({{< ref "leading-organizations" >}})
 1. [Learning Experience]({{< ref "learning-experience" >}})
+1. [Lighthouse Metric Definitions]({{< ref "lighthouse-metric-definitions" >}})
 1. [Modern Applications Go-To-Market]({{< ref "modern-applications-gtm" >}})
-1. [Next Architecture Workflow]({{< ref "next-architecture-workflow" >}})
-1. [North Star Metric Definitions]({{< ref "north-star-metric-definitions" >}})
 1. [Product Accessibility]({{< ref "product-accessibility" >}})
+1. [Revenue Globalization]({{< ref "globalization" >}})
 1. [Runtime Update Process]({{< ref "runtime-update-process" >}})
 1. [Software Supply Chain Security]({{< ref "software-supply-chain-security" >}})
 1. [Talent Acquisition SSOT]({{< ref "recruiting-ssot" >}})
-1. [Token Management]({{< ref "token-management" >}})
 1. [Vue.js 3 Upgrade]({{< ref "vuejs-3-migration" >}})
 
 ## Past Working Groups (alphabetic order)
 
 1. [AI Integration]({{< ref "ai-integration" >}})
+1. [API Vision]({{< ref "api-vision" >}})
 1. [Architecture Kickoff]({{< ref "architecture-kickoff" >}})
 1. [Category Leadership](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/10)
 1. [China Service]({{< ref "china-service" >}})
@@ -251,6 +249,7 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [Contributor Growth]({{< ref "contributor-growth" >}})
 1. [Dashboards]({{< ref "dashboards" >}})
 1. [Database Scalability]({{< ref "database-scalability" >}})
+1. [Demo & Test Data]({{< ref "demo-test-data" >}})
 1. [Development Metrics]({{< ref "development-metrics" >}})
 1. [DevSecOps Adoption](https://gitlab.com/groups/gitlab-com/sales-team/-/epics/59)
 1. [Dogfood Plan]({{< ref "dogfood-plan" >}})
@@ -260,9 +259,11 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [Enterprise Market Leadership]({{< ref "enterprise-market-leadership" >}})
 1. [Experimentation]({{< ref "experimentation" >}})
 1. [First Order](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/9)
+1. [Frontend Observability]({{< ref "frontend-observability" >}})
 1. [Githost Migration]({{< ref "githost-migration" >}})
 1. [GitLab Administration]({{< ref "administration" >}})
 1. [GitLab.com Cost]({{< ref "gitlab-com-cost" >}})
+1. [GitLab Dedicated]({{< ref "gitlab-dedicated" >}})
 1. [GitLab.com Revenue]({{< ref "gitlab-com-revenue" >}})
 1. [gitlab-ui (CSS and Components)]({{< ref "gitlab-ui" >}})
 1. [GTM Product Analytics]({{< ref "product-analytics-gtm" >}})
@@ -272,7 +273,7 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [Internship Pilot]({{< ref "internship-pilot" >}})
 1. [Internal Feature Flag usage]({{< ref "feature-flag-usage" >}})
 1. [Isolation]({{< ref "isolation" >}})
-1. [Leading Organization Growth](https://gitlab.com/groups/gitlab-com/-/epics/1880)
+1. [Leading Organizations]({{< ref "leading-organizations" >}})
 1. [Learning Restructure]({{< ref "learning-restructure" >}})
 1. [Licensing and Transactions Improvements]({{< ref "licensing-transactions-improvements" >}})
 1. [Log Aggregation]({{< ref "log-aggregation" >}})
@@ -282,6 +283,7 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [Minorities in Tech (MIT) Mentoring Program]({{< ref "mit-mentoring" >}})
 1. [MLOps]({{< ref "mlops" >}})
 1. [Multi-Large]({{< ref "multi-large" >}})
+1. [Next Architecture Workflow]({{< ref "next-architecture-workflow" >}})
 1. [Object Storage]({{< ref "object-storage" >}})
 1. [Pipeline Validation Service Operations]({{< ref "pipeline-validation-service-operations" >}})
 1. [Performance Indicators]({{< ref "performance-indicators" >}})
@@ -304,6 +306,7 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [SOX PMO]({{< ref "sox" >}})
 1. [TeamOps Sales and Marketing Group]({{< ref "teamops-sales-marketing" >}})
 1. [Tiering]({{< ref "tiering" >}})
+1. [Token Management]({{< ref "token-management" >}})
 1. [Transient Bugs]({{< ref "transient-bugs" >}})
 1. [Upstream Diversity]({{< ref "upstream-diversity" >}})
 1. [Usage Reporting](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/1)

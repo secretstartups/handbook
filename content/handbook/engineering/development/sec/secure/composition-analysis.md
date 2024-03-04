@@ -1,38 +1,38 @@
 ---
-
 title: Secure, Composition Analysis
 description: "The Composition Analysis group at GitLab is charged with developing solutions which perform Container and Dependency Scanning and License Compliance."
 ---
 
-
-
-
-
-
-
 ## Composition Analysis
 
 The Composition Analysis group at GitLab is charged with developing solutions which perform [Container Scanning](https://about.gitlab.com/direction/secure/composition-analysis/container-scanning/),
-and [Software Composition Analysis](/direction/secure/composition-analysis/software-composition-analysis/).
+and [Software Composition Analysis](https://about.gitlab.com/direction/secure/composition-analysis/software-composition-analysis/).
 See [the exhaustive list of projects](#projects) the group maintains.
 
 ## Common Links
 
-* Slack channel: #g_secure-composition-analysis
-* Slack alias: @secure_composition_analysis_dev
-* Google groups: composition-analysis-dev@gitlab.com
+- Slack channel: #g_secure-composition-analysis
+- Slack alias: @secure_composition_analysis_dev
+- Google groups: composition-analysis-dev@gitlab.com
 
 ## How we work
 
 ### Workflow
 
-The Composition Analysis group largely follows GitLab's [Product Development Flow](/handbook/product-development-flow/).
+The Composition Analysis group largely follows GitLab's [Engineering Workflow](/handbook/engineering/workflow/) and [Product Development Flow](/handbook/product-development-flow/).
+
+This includes:
+
+- [Issue triage](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/)
+- [Infradev triage](#triage-process)
+- [Wider Community Merge Request Triage](/handbook/engineering/infrastructure/engineering-productivity/merge-request-triage/)
+- [Retrospectives](/handbook/engineering/management/group-retrospectives/)
 
 #### Indicating Status and Raising Risk
 
 We leverage [the issue's health status feature](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#health-status) to communicate the progress of the issue.
 
-All issues should be marked `On Track` at the beginning of a milestone. This is currently done manually by the Engineering Manager.
+All issues should be marked `On Track` at the beginning of a milestone. This is done by the Epic DRI, or the Engineering Manager for unassigned, standalone issues.
 
 Raising risk early is important. The more time we have, the more options we have. As such, the team reviews issues every week and discusses items that `Need Attention` or are `At Risk` to possibly course correct and re-assign resources based on the team's priorities.
 
@@ -43,18 +43,7 @@ Follow these steps when raising or downgrading risk:
     1. `Needs Attention` - the issue is blocked or has other factors that need to be discussed.
     1. `At Risk` - the issue is in jeopardy of missing the cutoff to ship within the planned milestone.
 1. Add a comment about why the risk has increased or decreased.
-1. Copy the Backend Engineering Manager and Product Manager in a comment.
-1. Copy the Frontend Engineering Manager if there is associated frontend work that may be impacted.
-
-#### Experiments
-
-In addition to the above workflow, the Composition Analysis group can be involved in some experiments, which might temporarily alter how we work.
-
-*There are no experiments in progress at the moment.*
-
-### Retrospectives
-
-After the 19th, we conduct [an asynchronous retrospective](https://about.gitlab.com/handbook/engineering/management/group-retrospectives/). You can find current and past retrospectives for Composition Analysis team in https://gitlab.com/gl-retrospectives/secure-sub-dept/composition-analysis.
+1. Copy the Engineering Manager and Product Manager in a comment.
 
 ### Time-off Calendar
 
@@ -81,11 +70,11 @@ On top of our development roadmap, engineering teams need to perform tasks relat
 To avoid excessive context-switching, and better distribute the workload, our team reserves capacity for these tasks as part of milestone planning:
 
 - **Primary engineer**. Fully allocated to the tasks below. They must prioritize these tasks above all other work, in the following order: Security, Support, Maintenance.
-- **Secondary engineer**. Acts as a backup in case the primary engineer has an unplanned absence or exceeds their capacity. They must prioritize requests from the primary engineer, but otherwise focus on `type::maintenance` issues.
+- **Secondary engineer**. Acts as a backup in case the primary engineer has an unplanned absence or exceeds their capacity. They must prioritize requests from the primary engineer, but otherwise focus on `type::bug`, then `type::maintenance` issues.
 
-Neither engineer should be allocated to work on Features or critical deliverables. In the context of [Cross-functional milestone planning](https://handbook.gitlab.com/handbook/product/cross-functional-prioritization/#cross-functional-milestone-planning), their allocation counts towards the maintenance ratio.
+Neither engineer should be allocated to work on Features or critical deliverables. In the context of [Cross-functional milestone planning](/handbook/product/cross-functional-prioritization/#cross-functional-milestone-planning), their allocation counts towards the bugs and maintenance ratio.
 
-The [rotation schedule](https://gitlab.com/groups/gitlab-org/secure/-/epics/2#schedule) follows the development cycle, which means using the start/end dates from the GitLab [product milestones](https://handbook.gitlab.com/handbook/product/milestones/). When creating the schedule, the Engineering Manager should aim to minimize the number of back-to-back rotations that engineers do.
+The [rotation schedule](https://gitlab.com/groups/gitlab-org/secure/-/epics/2#schedule) follows the development cycle, which means using the start/end dates from the GitLab [product milestones](/handbook/product/milestones/). When creating the schedule, the Engineering Manager should aim to minimize the number of back-to-back rotations that engineers do.
 
 Please keep track of the actions you're doing during your rotation and add notes in the corresponding issue (e.g. copying tools command executed locally, sharing relevant changes to projects and processes, etc.)
 
@@ -97,6 +86,7 @@ Please keep track of the actions you're doing during your rotation and add notes
    1. Container base images
    1. Application dependencies
    1. Programming language
+1. Refine scheduled security issues.
 1. Consider creating or updating any automation or tooling (related to security, maintainership or support!)
 
 #### Responsibilities - Support
@@ -110,23 +100,22 @@ If a support engineer requests assistance via Slack and it requires investigatio
     - [#f_container_scanning](https://gitlab.slack.com/archives/C041F2XJACB)
     - [#g_secure-composition-analysis-alerts](https://gitlab.slack.com/archives/C04UX9MQNSJ)
 1. Monitor [Section Sec Request For Help](https://gitlab.com/gitlab-com/sec-sub-department/section-sec-request-for-help/-/issues/?label_name=Help%20group%3A%3Acomposition%20analysis) project for support requests.
-1. Triage bugs and resolve them when given `~priority::1`. (See [Bugs triaging process](#bugs-triaging-process))
-1. Triage infradev issues and resolve them when given `~priority::1`. (See [Infradev triaging process](#infradev-triaging-process))
+1. Refine scheduled bugs and maintenance issues.
 
 These items must be triaged continuously throughout the milestone which means they must be checked multiple times a week.
 
 #### Responsibilities - Maintainership
 
-1. Triage and work with community contributors to help drive their MRs to completion. (See [Community contributions triaging process](#community-contributions-triaging-process))
-1. Check for new versions of languages or package managers that we support, or deprecation / removal of support for the same and notify Engineering Manager and Product Manager via issue
+1. Work with community contributors to help drive [their merge requests](https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&state=opened&label_name[]=group%3A%3Acomposition%20analysis&label_name[]=Community%20contribution) to completion (more information on [community contributions triaging process](/handbook/engineering/infrastructure/engineering-productivity/merge-request-triage/)).
+1. Check for new versions of languages or package managers that we support, or deprecation / removal of support for the same and notify Engineering Manager and Product Manager via issue.
 1. Check for new versions of our dependencies (not related to security):
-   1. Upstream scanners (see [Updating an upstream scanner](#updating-an-upstream-scanner))
-   1. Container base images
-   1. Application dependencies
-   1. Programming language
-1. Check in on test failures. Check relevant slack channels ([#g_secure-composition-analysis-alerts](https://gitlab.slack.com/archives/C04UX9MQNSJ), [#s_secure-alerts](https://gitlab.slack.com/archives/CAU9SFKNU))
+   1. Upstream scanners (see [Updating an upstream scanner](#updating-an-upstream-scanner)).
+   1. Container base images.
+   1. Application dependencies.
+   1. Programming language.
+1. Check in on test failures. Check relevant slack channels ([#g_secure-composition-analysis-alerts](https://gitlab.slack.com/archives/C04UX9MQNSJ), [#s_secure-alerts](https://gitlab.slack.com/archives/CAU9SFKNU)).
 1. Check latest pipelines for any release failures. If any issue is preventing the automated release process from running, begin the [release failure escalation process](#release-failure-escalation-process).
-1. Consider creating or updating any automation or tooling (related to security, maintainership or support!)
+1. Consider creating or updating any automation or tooling (related to security, maintainership or support!).
 1. Monitor failures and errors on license-db project, use the `#f_licese_database` Slack channel for communication about these items, so other team members can provide the support.
    1. Check latest [scheduled pipelines of license-db](https://gitlab.com/gitlab-org/security-products/license-db/deployment/-/pipeline_schedules) for any failures. Ensure that pipelines pass or create an issue to fix the failure.
    1. Monitor the Slack channel `#g_secure-composition-analysis-alerts` for any incidents on the license-db infrastructure.
@@ -138,42 +127,27 @@ These items must be triaged continuously throughout the milestone which means th
 
 We are responsible for triaging vulnerabilities reported on 2 sets of projects: the projects maintained by GitLab and the upstream scanner software we might depend on. Though, we have different processes that apply depending on the situation.
 
-#### Automation
-
-**This only applies to projects maintained by GitLab.**
-
-We use the [security-triage-automation](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation) tool in cunjunction with [scheduled pipelines in the release project](https://gitlab.com/gitlab-org/security-products/release/-/blob/master/.gitlab/ci/security-triage-automation.yml?ref_type=heads) to handle the following tasks:
-
-1. [Create security issues for FedRAMP vulnerabilities (Container Scanning results only) still detected on the default branch ](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation#process-vulnerabilities-for-a-given-project), executed at least once, on the first day of the month to match with FEDRamp compliance report cadence.
-   1. We do not yet automatically create security issues for non-FedRAMP vulnerabilites. Please see the [Non-FedRAMP vulnerabilities section](#non-fedramp-vulnerabilities) for more details.
-1. [Resolve all vulnerabilities (both FedRAMP and non-FedRAMP) no longer detected on the default branch and close their issues](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation#resolve-vulnerabilities-and-close-their-issues), executed every 2 days.
-
-[The Vulnmapper tool](https://gitlab.com/gitlab-com/gl-security/threatmanagement/vulnerability-management/vulnerability-management-internal/vulnmapper) also provides some [automation to vulnerability management](https://handbook.gitlab.com/handbook/security/threat-management/vulnerability-management/#automation) like:
-
-1. adding labels to security issues to further classify the fix availability (fix_available, fix_unavailable, will_not_be_fixed, etc.).
-1. creating Deviation Request issues for FedRAMP related security issues that should have one.
-
-Note: Our goal is to centralize automation for vulnerability management in the [Vulnmapper tool in the nearest future](https://gitlab.com/gitlab-com/gl-security/threatmanagement/vulnerability-management/vulnerability-management-internal/vulnmapper/-/issues/83) and standardize our processes across the company. However, so far we're following the existing process based on the [security-triage-automation tool](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation).
+See the [Secure sub-department vulnerability management process](/handbook/engineering/development/sec/secure/#vulnerability-management-process).
 
 <details>
-  <summary>View manual process fallback when automation fails</summary>
+<summary>View manual process fallback that is specific to Composition Analysis group</summary>
 
   **Please keep track of the commands that were executed and add them to a private note in the reaction rotation issue.**
 
   #### Manually reviewing and resolving vulnerabilities
 
-    On a weekly basis: review the vulnerability report to resolve no longer detected ones and close related issues. Note: It is not necessary to investigate vulnerabilities that are no longer detected.
+  On a weekly basis: review the vulnerability report to resolve no longer detected ones and close related issues. Note: It is not necessary to investigate vulnerabilities that are no longer detected.
 
-    1. Visit `Vulnerability Report Dashboards` to verify that there are vulnerabilities that can be resolved.
-        - [Analyzer vulnerabilities that are no longer detected][Analyzer vulnerabilities that are no longer detected].
-            - If you want to configure the report manually, select all [shared](#shared), [container scanning](#container-scanning), and [dependency scanning](#dependency-scanning) projects, and apply the `No longer detected` activity filter and apply the `Confirmed` and `Needs Triage` status.
-        - [License-db Vulnerability that are no longer detected][License-db vulnerabilities that are no longer detected]
-            - If you want to configure the report manually, select all [license-db](#license-db) projects, and apply the `No longer detected` activity filter and apply the `Confirmed` and `Needs Triage` status.
-    2. Execute the `security-triage-automation` tool to [resolve vulnerabilities and close their issues](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation#resolve-vulnerabilities-and-close-their-issues). This tool must be executed separately for each of the projects in the following categories (if there are vulnerabilities to resolve):
-      - [container scanning](#container-scanning)
-      - [dependency scanning](#dependency-scanning)
-      - [license-db](#license-db)
-    3. Verify in `Vulnerability Report Dashboards` that vulnerabilities have been resolved.
+  1. Visit `Vulnerability Report Dashboards` to verify that there are vulnerabilities that can be resolved.
+      - [Analyzer vulnerabilities that are no longer detected][Analyzer vulnerabilities that are no longer detected].
+          - If you want to configure the report manually, select all [shared](#shared), [container scanning](#container-scanning), and [dependency scanning](#dependency-scanning) projects, and apply the `No longer detected` activity filter and apply the `Confirmed` and `Needs Triage` status.
+      - [License-db Vulnerability that are no longer detected][License-db vulnerabilities that are no longer detected]
+          - If you want to configure the report manually, select all [license-db](#license-db) projects, and apply the `No longer detected` activity filter and apply the `Confirmed` and `Needs Triage` status.
+  1. Execute the `security-triage-automation` tool to [resolve vulnerabilities and close their issues](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation#resolve-vulnerabilities-and-close-their-issues). This tool must be executed separately for each of the projects in the following categories (if there are vulnerabilities to resolve):
+    - [container scanning](#container-scanning)
+    - [dependency scanning](#dependency-scanning)
+    - [license-db](#license-db)
+  1. Verify in `Vulnerability Report Dashboards` that vulnerabilities have been resolved.
 
   #### Manually creating security issues for FedRAMP vulnerabilities
 
@@ -181,42 +155,7 @@ Note: Our goal is to centralize automation for vulnerability management in the [
       - [container scanning](#container-scanning)
       - [dependency scanning](#dependency-scanning)
 
-  #### Manually creating FedRAMP issues
-
-  In cases where automation fails, you must create the [Deviation Requests](/handbook/security/security-assurance/dedicated-compliance/poam-deviation-request-procedure/) manually before the issues reach SLA.
-  To do so, use the following procedure.
-
-  1. Open a DR issue with the [operational requirement template](https://gitlab.com/gitlab-com/gl-security/security-assurance/team-security-dedicated-compliance/poam-deviation-requests/-/issues/new?issuable_template=operational_requirement_template).
-      1. Update the `Vulnerability Details` section with a link to the advisory (RedHat tracker usually), CVE ID, severity, and CVSS score.
-      1. Update the `Justification Section` with:
-
-      > The OS vendor has published an updated advisory for <CVE_ID>, indicating that package <PACKAGE_NAME> has not yet had a fix released for this vulnerability. Until a fix is available for the package, this vulnerability cannot practically be remediated.
-
-      1. Update the `Attached Evidence` section with:
-
-      > As this operational requirement represents a dependency on a vendor-published package to address this vulnerability, no additional evidence has been supplied. Please refer to the linked vendor advisory in the above justification.
-
-      1. Link it to the security issue: `/relate <issue_id>`
-    1. Update the security issue accordingly
-
-      ```
-      /label ~"FedRAMP::Vulnerability" ~"FedRAMP::DR Status::Open"
-      /milestone %Backlog
-      ```
 </details>
-
-#### FedRAMP vulnerabilities
-
-**This only applies to projects maintained by GitLab.**
-
-Management of FedRAMP vulnerability is handled by [automation](#automation). Please check the manual process fallback for details.
-
-#### Non-FedRAMP vulnerabilities
-
-**This only applies to projects maintained by GitLab.**
-
-We do not yet have the same automation in place for non-FedRAMP vulnerabilites as for FedRAMP ones since it represents a too important volume to manage for our team.
-Some necessary [improvements in the vulnmapper tool](https://gitlab.com/gitlab-com/gl-security/threatmanagement/vulnerability-management/vulnerability-management-internal/vulnmapper/-/issues/83) are required prior to enabling this. In the meantime, we favor a more focused approach for these vulnerabilities.
 
 ##### Security Policy
 
@@ -233,12 +172,12 @@ Please utilize all the time you have set aside. If you complete all the ones at 
 
 We use the Vulnerability Report with filters to focus on items matching [our policy](#security-policy) and reported on the relevant projects.
 
-1. [Analyzers Vulnerability Report][Analyzers Vulnerability Report]
+1. [Analyzers Vulnerability Report](https://gitlab.com/groups/gitlab-org/security-products/analyzers/-/security/vulnerabilities/?state=DETECTED&severity=CRITICAL&severity=HIGH&projectId=13150952,15369510,24673064,52241202,6126012,9450192&activity=STILL_DETECTED)
   - To configure the report manually, select all [shared](#shared), [container scanning](#container-scanning), and [dependency scanning](#dependency-scanning) projects and apply the `Still detected` activity filter and apply the `Needs Triage` status.
-1. [License-db Vulnerability Report[License-db Vulnerability Report]
+1. [License-db Vulnerability Report][License-db Vulnerability Report]
   - To configure the report manually, select all [license-db](#license-db) projects and apply the `Still detected` activity filter and apply the `Needs Triage` status.
 
-For each item, investigate and either [dismiss](#dismissing-a-vulnerability) or [confirm](#confirming-a-vulnerability) it. If it's not clear whether there's indeed a threat, escalate to our [Application Security team](/handbook/security/security-engineering/application-security/).
+For each item, investigate and either [dismiss](#dismissing-a-vulnerability) or [confirm](#confirming-a-vulnerability) it. If it's not clear whether there's indeed a threat, escalate to our [Application Security team](/handbook/security/product-security/application-security/).
 
 > Refer to [Vulnerability status definitions](https://docs.gitlab.com/ee/user/application_security/vulnerabilities/#vulnerability-status-values) in case you are unsure of what each of them mean.
 
@@ -317,32 +256,13 @@ You can leverage quick actions to add the necessary labels.
     /label ~"Category:Software Composition Analysis"
     /label ~"Category:Container Scanning"
 
-It's important to add the `~security` and `~"bug::vulnerability"` labels as described above, because the [`AppSec Escalation Engine`](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/automation-team/appsec-escalator/-/blob/3a7e8a4baed7b7e54039558f4f76328046543a0c/README.md#L3) will automatically pick up any issues with these labels and add additional labels `~security-sp-label-missing` and `~security-triage-appsec` as well as mention the issue in the `#sec-appsec` Slack channel. At this point, the [Stable Counterpart](/handbook/engineering/development/sec/secure/#stable-counterparts) or [Application Security team](/handbook/security/security-engineering/application-security/) triage person will pick up the issue and assign a severity as part of the appsec triage rotation.
+It's important to add the `~security` and `~"bug::vulnerability"` labels as described above, because the [`AppSec Escalation Engine`](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/automation-team/appsec-escalator/-/blob/3a7e8a4baed7b7e54039558f4f76328046543a0c/README.md#L3) will automatically pick up any issues with these labels and add additional labels `~security-sp-label-missing` and `~security-triage-appsec` as well as mention the issue in the `#sec-appsec` Slack channel. At this point, the [Stable Counterpart](/handbook/engineering/development/sec/secure/#stable-counterparts) or [Application Security team](/handbook/security/product-security/application-security/) triage person will pick up the issue and assign a severity as part of the appsec triage rotation.
 
 Once the issue is created, please add it to [the vulnerability's linked items](https://docs.gitlab.com/ee/user/application_security/vulnerabilities/#link-a-vulnerability-to-existing-issues) for ease of tracking.
 
-Developers reporting the security issue should help the [Application Security team](/handbook/security/security-engineering/application-security/) assess the impact of the vulnerability, and update the issue description with an `Impact` section.
+Developers reporting the security issue should help the [Application Security team](/handbook/security/product-security/application-security/) assess the impact of the vulnerability, and update the issue description with an `Impact` section.
 
 If immediate feedback is required, then add a comment to the vulnerability issue with an `@`-mention directed at one of the Security Engineers listed in the [Stable Counterpart](/handbook/engineering/development/sec/secure/#stable-counterparts) section, or ping them on slack.
-
-### Community contributions triaging process
-
-1. Leverage the group level [list of Merge Requests](https://gitlab.com/groups/gitlab-org/security-products/analyzers/-/merge_requests?scope=all&state=opened&label_name[]=group%3A%3Acomposition%20analysis&label_name[]=Community%20contribution) with the Composition Analysis group label.
-1. For each open Merge Request whose author is not a GitLab team member, investigate and help move it forward using the [Wider Community Merge Request Guidelines](https://about.gitlab.com/handbook/engineering/quality/merge-request-triage/#).
-
-### Bugs triaging process
-
-1. Leverage the [Bug scrub issues board](https://gitlab.com/groups/gitlab-org/-/boards/1077546?scope=all&label_name[]=devops%3A%3Asecure&label_name[]=group%3A%3Acomposition%20analysis&label_name[]=type%3A%3Abug).
-1. For each open issue that has no Priority label ("Open" column), shortly investigate the bug (< 2h) and comment with your findings. Ideally you'd suggest Priority and Severity levels to guide PM decision. Depending on how confident you are, you can either set the labels by yourself, or make a suggestion in a comment, and ping PM.
-
-   Track how long you actually spent investigating each bug in the [Composition Analysis Bug Triaging Time Tracker spreadsheet](https://docs.google.com/spreadsheets/d/1vCh6DTY9eUK26xXceO4ZUyuNlyv2AwXpKxvGGejieEg).
-
-### Infradev triaging process
-
-1. Leverage the [Infra/Dev issues board](https://gitlab.com/groups/gitlab-org/-/boards/1193197?scope=all&utf8=%E2%9C%93&label_name[]=infradev&label_name[]=section%3A%3Asec) for Sec section. We target the whole section on purpose to cover a larger area and stay aware of other group's issues that could also affect us.
-1. For each open issue that has no Priority label ("Open" column), shortly investigate the issue (< 1h) and comment with your findings. Make sure correct stage and group label are applied.
-
-Please refer to our [infradev process](https://about.gitlab.com/handbook/engineering/workflow/#infradev) for more details.
 
 ### Release failure process
 
@@ -358,7 +278,7 @@ that have impacted composition analysis in the future.
     ```
     <!--
     Select one of the following severities
-    Ref: https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity
+    Ref: https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity
     -->
     /label ~"severity::1"
     /severity S1
@@ -374,7 +294,7 @@ that have impacted composition analysis in the future.
 
     <!--
     Select one of the following priorities
-    Ref: https://about.gitlab.com/handbook/engineering/quality/issue-triage/#priority
+    Ref: https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#priority
     -->
     /label ~"priority::1"
     /label ~"priority::2"
@@ -402,14 +322,14 @@ detection, resolution, and any other events that you feel are worth highlighting
 
 ### Maintenance triaging process
 
-To help our Product Manager prioritize maintenance issues, the engineering team assigns them a [priority label](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#priority).
+To help our Product Manager prioritize maintenance issues, the engineering team assigns them a [priority label](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#priority).
 
 1. Leverage the [Maintenance issues board](https://gitlab.com/groups/gitlab-org/-/boards/2168528?label_name[]=group%3A%3Acomposition%20analysis&label_name[]=type%3A%3Amaintenance).
-1. For each open issue that has no Priority label ("Open" column), shortly investigate the issue (< 1h) and comment with your findings. Make sure the correct sub-category label is applied per our [Work type clasification](https://about.gitlab.com/handbook/engineering/metrics/#work-type-classification) (e.g. `~maintenance::refactor`).
+1. For each open issue that has no Priority label ("Open" column), shortly investigate the issue (< 1h) and comment with your findings. Make sure the correct sub-category label is applied per our [Work type clasification](/handbook/engineering/metrics/#work-type-classification) (e.g. `~maintenance::refactor`).
 
 ### Code review
 
-Upon joining Composition Analysis group, team members are suppose to become either reviewers or maintainers for all [projects](#projects) maintained by the group. The process how to become maintainer is described in the general [Code review guidelines](https://about.gitlab.com/handbook/engineering/workflow/code-review/#how-to-become-a-project-maintainer).
+Upon joining Composition Analysis group, team members are suppose to become either reviewers or maintainers for all [projects](#projects) maintained by the group. The process how to become maintainer is described in the general [Code review guidelines](/handbook/engineering/workflow/code-review/#how-to-become-a-project-maintainer).
 
 ## Projects
 
@@ -446,6 +366,14 @@ needed for [Operational Container Scanning](https://docs.gitlab.com/ee/user/clus
 - [license-interfacer](https://gitlab.com/gitlab-org/security-products/license-db/license-interfacer)
 - [license-processor](https://gitlab.com/gitlab-org/security-products/license-db/license-processor)
 - [schema](https://gitlab.com/gitlab-org/security-products/license-db/schema)
+
+### Operational Container Scanning
+
+- [trivy-k8s-wrapper](https://gitlab.com/gitlab-org/security-products/analyzers/trivy-k8s-wrapper)
+- [OCS module](https://gitlab.com/gitlab-org/cluster-integration/gitlab-agent/-/tree/master/internal/module/starboard_vulnerability)
+
+The OCS module is part of the [`gitlab-agent`](https://gitlab.com/gitlab-org/cluster-integration/gitlab-agent) project which is maintained by the `Environments` group. The `Composition Analysis` group is responsible for maintaining only the OCS module.
+
 
 ### Upstream scanner mirrors
 
@@ -489,21 +417,39 @@ Before releasing an analyzer with a newer version of its upstream scanner, we mu
 
 ##### License check when updating an upstream scanner
 
-Before releasing an analyzer with a newer version of its upstream scanner, we must ensure its license has not changed or is still compatible with [our policy](https://about.gitlab.com/handbook/engineering/open-source/#acceptable-licenses).
+Before releasing an analyzer with a newer version of its upstream scanner, we must ensure its license has not changed or is still compatible with [our policy](/handbook/engineering/open-source/#acceptable-licenses).
 
 ## Dashboards
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Composition Analysis" } %>
+{{< tableau height="600px" toolbar="hidden" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/TopEngineeringMetrics/TopEngineeringMetricsDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="composition analysis" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/MergeRequestMetrics/OverallMRsbyType_1" >}}
+  {{< tableau/filters "GROUP_LABEL"="composition analysis" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/Flakytestissues/FlakyTestIssues" >}}
+  {{< tableau/filters "GROUP_NAME"="composition analysis" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/SlowRSpecTestsIssues/SlowRSpecTestsIssuesDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="composition analysis" >}}
+{{< /tableau >}}
 
 ## Monitoring
 
 - [Stage Group dashboad on Grafana](https://dashboards.gitlab.net/d/stage-groups-composition_analysis/stage-groups-group-dashboard-secure-composition-analysis?orgId=1)
 
 
-[Analyzers Vulnerability Report]: https://gitlab.com/groups/gitlab-org/security-products/analyzers/-/security/vulnerabilities/?state=DETECTED&severity=CRITICAL&severity=HIGH&projectId=13150952,15369510,24673064,6126012,9450192&activity=STILL_DETECTED
-[License-db Vulnerability Report]: https://gitlab.com/groups/gitlab-org/security-products/license-db/-/security/vulnerabilities/?state=DETECTED&severity=CRITICAL,HIGH&projectId=39193358,39229232,39233486,39298809,39622674,40857363,45266022&activity=STILL_DETECTED)
+[License-db Vulnerability Report]: https://gitlab.com/groups/gitlab-org/security-products/license-db/-/security/vulnerabilities/?state=DETECTED&severity=CRITICAL,HIGH&projectId=39193358,39229232,39233486,39298809,39622674,40857363,45266022&activity=STILL_DETECTED
+
 [Upstream Scanners Vulnerability Report]: https://gitlab.com/groups/gitlab-org/security-products/dependencies/-/security/vulnerabilities/?state=DETECTED&projectId=30616761,30684590,35335143,39545454,39545481,51420921&severity=CRITICAL,HIGH&activity=STILL_DETECTED
-[Analyzer vulnerabilities that are no longer detected]: https://gitlab.com/groups/gitlab-org/security-products/analyzers/-/security/vulnerabilities/?state=CONFIRMED,DETECTED&projectId=13150952,15369510,17450826,18446184,24673064,6126012,9450192,9450195,9450197&activity=NO_LONGER_DETECTED
+
+[Analyzer vulnerabilities that are no longer detected]: https://gitlab.com/groups/gitlab-org/security-products/analyzers/-/security/vulnerabilities/?state=CONFIRMED,DETECTED&projectId=13150952,15369510,18446184,24673064,52241202,6126012,9450192&activity=NO_LONGER_DETECTED
+
 [License-db vulnerabilities that are no longer detected]: https://gitlab.com/groups/gitlab-org/security-products/license-db/-/security/vulnerabilities/?state=CONFIRMED,DETECTED&projectId=39193358,39229232,39233486,39298809,39622674,40857363,45266022&activity=NO_LONGER_DETECTED
+
 [Upstream scanner vulnerabilities that are no longer detected]: https://gitlab.com/groups/gitlab-org/security-products/dependencies/-/security/vulnerabilities/?state=CONFIRMED,DETECTED&severity=CRITICAL&severity=HIGH&projectId=25588419,30616761,30684590,35335143,39545454,39545481&activity=NO_LONGER_DETECTED
+
 [Vulnerability SLAs]: /handbook/security/threat-management/vulnerability-management/#remediation-slas

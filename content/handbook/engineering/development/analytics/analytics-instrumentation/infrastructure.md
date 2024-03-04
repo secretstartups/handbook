@@ -69,8 +69,8 @@ In contrast to a typical Snowplow pipeline, after enrichment, GitLab Snowplow ev
 
 #### Why events need to be pseudonymized
 
-GitLab is bound by its [obligations to community](https://about.gitlab.com/handbook/product/analytics-instrumentation-guide/service-usage-data-commitment/)
-and by [legal regulations](https://about.gitlab.com/handbook/legal/privacy/customer-product-usage-information/) to protect the privacy of its users.
+GitLab is bound by its [obligations to community](/handbook/product/analytics-instrumentation-guide/service-usage-data-commitment/)
+and by [legal regulations](/handbook/legal/privacy/customer-product-usage-information/) to protect the privacy of its users.
 
 GitLab must provide valuable insights for business decisions, and there is a need for a better understanding of different users' behavior patterns.
 The pseudonymization process helps you find a compromise between these two requirements.
@@ -89,5 +89,5 @@ Attributes are combined with a secret salt to replace each identifiable informat
 
 ### S3 bucket data lake to Snowflake
 
-See [Data team's Snowplow Overview](https://about.gitlab.com/handbook/business-technology/data-team/platform/snowplow/) for further details how data is ingested into our Snowflake data warehouse.
+See [Data team's Snowplow Overview](/handbook/business-technology/data-team/platform/snowplow/) for further details how data is ingested into our Snowflake data warehouse.
 

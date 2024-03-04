@@ -1,13 +1,6 @@
 ---
-
 title: Front End Plan Team
 ---
-
-
-
-
-
-
 
 ## Frontend Plan Team
 
@@ -24,14 +17,13 @@ stage] page.
 
 ## Team Members
 
-<%= direct_team(role_regexp: /[,&] Plan/, manager_role: 'Frontend Engineering Manager, Plan') %>
+{{< team-by-manager-role role="Frontend Engineering Manager(.*)Plan" team="[,&] Plan" >}}
 
 ## Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /[,&] (Plan(?!:)|Plan:Project Management|Plan:Portfolio Management & Plan:Certify)/, direct_manager_role: 'Frontend Engineering Manager, Plan') %>
-
+{{< stable-counterparts role="[,&] (Plan Stage|Plan:Project Management|Plan:Portfolio Management & Plan:Certify)|Principal(.*)Plan|Security(.*)Plan|Group(.*)Plan" manager-role="Frontend Engineering Manager(.*)Plan" >}}
 
 ## Groups
 
@@ -69,7 +61,7 @@ For more urgent items, feel free to also share the issue in [#s_plan] on Slack.
 
 ### Capacity Planning
 
-<%= partial("handbook/engineering/development/dev/plan/capacity_planning") %>
+{{% include "includes/engineering/plan/capacity-planning.md" %}}
 
 ### Frontend weighting
 
@@ -85,7 +77,7 @@ issue. If there are differences in weights, the highest weight will be used.
 
 #### Weighing bugs
 
-<%= partial("handbook/engineering/development/dev/plan/weighing_bugs") %>
+{{% include "includes/engineering/plan/weighing-bugs.md" %}}
 
 ### Picking something to work on
 
@@ -117,7 +109,7 @@ add the ~"workflow::In dev" label.
 
 #### High Severity Issues
 
-<%= partial("handbook/engineering/development/dev/plan/high_severity_items") %>
+{{% include "includes/engineering/plan/high-severity-items.md" %}}
 
 ### Unknown complexities
 

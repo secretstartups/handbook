@@ -11,7 +11,7 @@ title: ⛅🌱 Cloud Seed
 
 ## ⛅🌱 Cloud Seed
 
-GitLab is the one devops platform. Teams use GitLab (SaaS or self-managed) for development, planning, collaboration and automation. However, digital transformation is incomplete without cloud adoption.
+GitLab is the one DevOps platform. Teams use GitLab (SaaS or self-managed) for development, planning, collaboration and automation. However, digital transformation is incomplete without cloud adoption.
 
 Thus, Cloud Seed — a collaboration with Google Cloud — makes it trivial to consume cloud services from GitLab.
 
@@ -42,7 +42,7 @@ Thus, Cloud Seed — a collaboration with Google Cloud — makes it trivial to c
 
 ### Positive business outcomes (grouped by persona)
 
-List of [user personas](https://about.gitlab.com/handbook/product/personas/) with specific benefits they actualize:
+List of [user personas](/handbook/product/personas/) with specific benefits they actualize:
 
 - `Compliance Manager`, `Security Analyst`, `Security Operations Engineer`
     - Secure, standardized deployment pipelines across the organization
@@ -59,7 +59,7 @@ List of [user personas](https://about.gitlab.com/handbook/product/personas/) wit
 - `Application Ops`, `Release Manager`
     - Standardized pipelines for release automation
     - Support for feature, test and production release environments
-- `Application Development Director`    
+- `Application Development Director`
     - Increase Operational Efficiencies
     - Deliver Better Products Faster
     - Reduce Security and Compliance Risk

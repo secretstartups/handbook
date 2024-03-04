@@ -79,16 +79,14 @@ To be defined by each group on a quarterly basis.
 
 ## Groups, Metrics & Team Members
 
-| Search, Nav, Support Group | Product Marketing Group | Conversion Group | Corporate Marketing Group|
-| ------- |  -------  |  -------  | -------  |
-| **Focus**<br>Awareness & Consideration<br><br>- Navigation<br>- Footer<br>- Search Bar & Results<br>- No Search Results<br>- 404 page<br>- Support<br>- Get Help<br>- Sales<br>- Analysts<br>- Update<br>- AB Testing       | **Focus**<br>Consideration & Evaluation<br><br>- Features<br>- Solutions<br>- Use Cases<br>- Get Started<br>- DevOps Lifecycle<br>- Customer Case Studies<br>- Blog<br>- Lightning Strikes<br>- AB Testing                                                                                                                                                   | **Focus**<br>Conversion & Purchase<br><br>- Homepage<br>- Pricing<br>- Why GitLab<br>- Install<br>- Demo<br>- Ecommerce / No Touch<br>- Path to purchase<br>- User/Buyer Journeys<br>- 3rd Party Marketplace<br>- AB Testing                                                                                                                                                                     | **Focus**<br>Loyalty & Advocacy<br><br>- Partners<br>- Events<br>- Jobs<br>- Learn<br>- Community<br>- All Remote<br>- Company                                                                             |
-| **Metrics**<br>Increased engagement<br><br>- Lower bounce rate<br>- Increased pages/session<br>- Increased time on site                                                                                                                                                                                                                                        | **Metrics**<br>Click through from focus pages to:<br><br>- Pricing Page<br>- Free Trial                                                                                                                                                                                                                                           | **Metrics**<br>Conversion rate past key pages:<br><br>- Pricing Page<br>- Free Trial                                                                                                                                                                                                                                                                                                             | **Metrics**<br>Increased engagement<br><br>- Lower bounce rate<br>- Increased pages/session<br>- Increased time on site                                                                                    |
-| **Product Manager**<br>- [Filza Qureshi](https://gitlab.com/fqureshi)                                                                                                                                                                                                                                                                                      | **Product Manager**<br>- [Filza Qureshi](https://gitlab.com/fqureshi)                                                                                                                                                                                                                                                                                    | **Product Manager**<br>- [Filza Qureshi](https://gitlab.com/fqureshi) | **Product Manager**<br>- [Filza Qureshi](https://gitlab.com/fqureshi)                                                                       |
-| **Engineering Manager**<br>- [Lauren Barker](https://gitlab.com/laurenbarker), [ReadMe](/handbook/marketing/readmes/lauren-barker.html)|**Engineering Manager**<br>- [Justin Vetter](https://gitlab.com/justin.vetter) |**Engineering Manager**<br>- [Justin Vetter](https://gitlab.com/justin.vetter) | **Engineering Manager**<br>- [Lauren Barker](https://gitlab.com/laurenbarker), [ReadMe](/handbook/marketing/readmes/lauren-barker.html)|
-| **Product Design**<br>- [Carrie Tsang](https://gitlab.com/ctsang-ext)<br>- [Trevor Storey](https://gitlab.com/trevor-storey)                               | **Product Design**<br>- [Jess Halloran](https://gitlab.com/jhalloran)                                                                                                                                                                                                                                                                                    | **Product Design**<br>- [Tina Lise Ng](https://gitlab.com/Tinaliseng)                                                                                                                                                                                                                                                                                                                        | **Product Design**<br>- [Jess Halloran](https://gitlab.com/jhalloran)<br>- [Tina Lise Ng](https://gitlab.com/Tinaliseng)                                                                                                                 |
-| **Engineering**<br>- [Megan Filo](https://gitlab.com/meganfilo) (Lead), [ReadMe](https://gitlab.com/meganfilo/meganfilo/-/blob/main/README.md)<br>- [Javi Garcia](https://gitlab.com/jgarc)<br>- [John Arias](https://gitlab.com/jariasc-ext)<br>- [Tieme Akamine](https://gitlab.com/takamine-ext) | **Engineering**<br>- [Laura Duggan](https://gitlab.com/lduggan) (Lead), [ReadMe](/handbook/marketing/readmes/laura-duggan.html)<br>- [Miguel Duque](https://gitlab.com/mduque-ext) <br>- [Mateo Penagos](https://gitlab.com/mpenagos-ext) | **Engineering**<br>- [Nathan Dubord](https://gitlab.com/ndubord) (Lead), [ReadMe](/handbook/marketing/readmes/nathan-dubord.html)<br>- [Miracle Banks](https://gitlab.com/miraclebanks)<br>- [Marg Mañunga](https://gitlab.com/mmanunga-ext) | **Engineering**<br>- TBH<br>- TBH<br>- TBH<br>- TBH                                                                                                                                                    |
-| **Director**<br>- [Michael Preuss](https://gitlab.com/mpreuss22), [ReadMe](/handbook/marketing/readmes/michael-preuss.html)                                                                                                                                                                 | **Director**<br>- [Michael Preuss](https://gitlab.com/mpreuss22), [ReadMe](/handbook/marketing/readmes/michael-preuss.html)                                                                                                                                                               | **Director**<br>- [Michael Preuss](https://gitlab.com/mpreuss22), [ReadMe](/handbook/marketing/readmes/michael-preuss.html)                                                                                                                                                                                                   | **Director**<br>- [Michael Preuss](https://gitlab.com/mpreuss22), [ReadMe](/handbook/marketing/readmes/michael-preuss.html)             |
-
+| Conversion Group | Optimization Group |
+| ------- |  -------  |
+| **Focus**<br>Awareness,  Consideration, Conversion, & Purchase | **Focus**<br>Technical architecture &performance  |                                                                   |
+|  **Product Design**<br> [Tina Lise Ng](https://gitlab.com/Tinaliseng) <sub><sup> Lead</sub></sup><br> [Carrie Tsang](https://gitlab.com/ctsang-ext) | **Product Design**<br> [Trevor Storey](https://gitlab.comtrevor-storey) <sub><sup> Lead</sub></sup>|  
+| **Engineering**<br>[Megan Filo](https://gitlab.com/meganfilo) <sub><sup> Lead</sub></sup> <br> [Javi Garcia](https://gitlab.com/jgarc)<br>[Laura Duggan](https://gitlab.com/lduggan)  <br> [Marg Mañunga](https://gitlab.com/mmanunga-ext)<br> [Miguel Duque](https://gitlab.com/mduque-ext) | **Engineering**<br>[Nathan Dubord](https://gitlab.com/ndubord)  <sub><sup> Lead</sub></sup><br> [Miracle Banks](https://gitlab.com/miraclebanks)<br>[John Arias](https://gitlab.com/jariasc-ext)<br>[Tieme Akamine](https://gitlab.com/takamine-ext)<br> [Mateo Penagos](https://gitlab.com/mpenagos-ext) | 
+| **Product Manager**<br>[Filza Qureshi](https://gitlab.com/fqureshi)|    **Product Manager**<br>[Filza Qureshi](https://gitlab.com/fqureshi)|   
+| **Engineering Manager**<br>[Lauren Barker](https://gitlab.com/laurenbarker)  |  **Engineering Manager**<br> [Lauren Barker](https://gitlab.com/laurenbarker)   | 
+| **Director**<br>[Michael Preuss](https://gitlab.com/mpreuss22)|  **Director**<br>[Michael Preuss](https://gitlab.com/mpreuss22)| 
 
 ## Scope
 
@@ -100,18 +98,13 @@ We collaboratively define OKRs as a team with cross functional partners in advan
 
 ### Current Quarterly Plan
 
-[FY24Q3 Digital Experience Quarterly Plan & OKRs](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/309)
+[FY25Q1 Digital Experience Quarterly Plan & OKRs](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/367)
 
 # Iteration Process
 
 We release every 2 weeks, always on a Wednesday. We can push MRs at any time but for collaborative work initiatives, we plan a package for delivery to ensure we’re consistently improving our prospective customer’s experience.
 
-**Iteration Cycle**
-
-| Monday | Tuesday | Wednesday | Thursday | Friday |
-| ------ | ------- | --------- | -------- | ------ |
-| Iteration Begins |  |  |  |  |
-|  |  | Sprint Release Async | Iteration Ends |  |
+We start iteration a Monday. The following Wednesday is async release day, although we are releasing throughout the iteration. On the thursday a week after our Monday iteration planning, we come together for a syncrornous meeting to share what we've released. This meetings are recorded and can be viewed in our [#digita-experience YouTube playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrakNGW0ruM5UL7DDlrMBba). 
 
 <figure class="video_container">
 <iframe src="https://calendar.google.com/calendar/embed?src=c_g97ibfb3lq183mphm8mnbjfk34%40group.calendar.google.com&ctz=America%2FDenver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
@@ -120,21 +113,20 @@ We release every 2 weeks, always on a Wednesday. We can push MRs at any time but
 ## Issue Board
 - [Digital Experience Board](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/boards/3288685)
 
-- [Current Search, Nav, & Support Sprint Board](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/boards/4305230?label_name[]=dex-group%3A%3Asearch-nav-support&iteration_id=Current)
-- [Current Conversion Sprint Board](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/boards/4291568?label_name[]=dex-group%3A%3Aconversion&iteration_id=Current)
-- [Current Product Marketing Support Sprint Board](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/boards/4291559?label_name[]=dex-group%3A%3Aproduct-marketing&iteration_id=Current)
-
+- [Current DEX Group Conversion Iteration Board](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/boards/7320189?iteration_id=Current&label_name[]=dex-group%3A%3Aconversion)
+- [Current DEX Group Optimization Iteration Board](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/boards/5955968?iteration_id=Current&label_name[]=dex-group%3A%3Aoptimization)
+- [Current DEX Group Leaderhip Iteration Board](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/boards/7320197)
 ### Labels and Workflow Boards
 
 We use issue boards to track issue progress throughout a iteration. Issue boards should be viewed at the highest group level for visibility into all nested projects in a group.
 
 
-The Digital Experience team uses the following issue titles for distinguishing ownership of issues between specialities:
+The Digital Experience team uses the following issue labels for distinguishing ownership of issues between specialities:
 
 | Who          | Title       |
 | ----------    | -----------|
-| User Experience| `UX:`     |
-| Engineering| `ENG:`     |
+| User Experience| ~dex::ux     |
+| Engineering| ~dex::engineering     |
 
 The Digital Experience team uses the following labels for tracking merge request rate and ownership of issues and merge requests.
 
@@ -147,9 +139,8 @@ The Digital Experience team uses the following labels for tracking merge request
 | [Currently being actioned](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/issues/?sort=created_date&state=opened&label_name%5B%5D=dex-status%3A%3Adoing&first_page_size=100)| `~"dex-status::doing"`
 | [Work in review](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/issues/?sort=created_date&state=opened&label_name%5B%5D=dex-status%3A%3Areview&first_page_size=100)| `~"dex-status::review"`  |
 | [Unplanned work](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/issues/?sort=created_date&state=opened&label_name%5B%5D=dex-unplanned&first_page_size=100)| `~"dex-unplanned"`  |
-| [Issue for Search, Nav, & Support team to complete](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/issues/?sort=created_date&state=opened&label_name%5B%5D=dex-group%3A%3Asearch-nav-support&first_page_size=100) |  `~"dex-group::search-nav-support"` |
 | [Issue for Conversion team to complete](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/issues/?sort=created_date&state=opened&label_name%5B%5D=dex-group%3A%3Aconversion&first_page_size=100) |  `~"dex-group::conversion"` |
-| [Issue for Product Marketing team to complete](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/issues/?sort=created_date&state=opened&label_name%5B%5D=dex-group%3A%3Aproduct-marketing&first_page_size=100) |  `~"dex-group::product-marketing"` |
+| [Issue for Optmization team to complete](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/issues/?sort=created_date&state=opened&label_name%5B%5D=dex-group%3A%3Aoptimization&first_page_size=100) |  `~"dex-group::optimization"` |
 | [Issue for product designer to complete](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/issues/?sort=created_date&state=opened&label_name%5B%5D=dex%3A%3Aux&first_page_size=100) |  `~"dex::ux"` |
 | [Issue for engineer to complete](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/issues/?sort=created_date&state=opened&label_name%5B%5D=dex%3A%3Aengineering&first_page_size=100) |  `~"dex::engineering"` |
 
@@ -162,6 +153,7 @@ Digital Experience teams work across the GitLab codebase on multiple groups and 
 - The [gitlab.com/gitlab-com](https://gitlab.com/gitlab-com/) group
 - [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com)
 - [Buyer Experience](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience)
+- [GitLab Blog](https://gitlab.com/gitlab-com/marketing/digital-experience/gitlab-blog)
 - [Slippers Design System](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui)
 - [Marketing Site Navigation Package](https://gitlab.com/gitlab-com/marketing/digital-experience/navigation)
 
@@ -178,7 +170,7 @@ Before work can begin on an issue, we should estimate it first after a prelimina
 | 8 | A complex change, that will involve much of the codebase or will require lots of input from others to determine the requirements. |
 | 13| A significant change that may have dependencies (other teams or third-parties) and we likely still don't understand all of the requirements. It's unlikely we would commit to this in a milestone, and the preference would be to further clarify requirements and/or break in to smaller Issues. |
 
-In planning and estimation, we value [velocity over predictability](https://about.gitlab.com/handbook/engineering/development/principles/#velocity-over-predictability). The main goal of our planning and estimation is to focus on the [MVC](/handbook/values/#minimal-viable-change-mvc), uncover blind spots, and help us achieve a baseline level of predictability without over optimizing. We aim for 70% predictability instead of 90%. We believe that optimizing for velocity (merge request rate) enables our Growth teams to achieve a [weekly experimentation cadence](/handbook/product/growth/#weekly-growth-meeting).
+In planning and estimation, we value [velocity over predictability](/handbook/engineering/development/principles/#velocity-over-predictability). The main goal of our planning and estimation is to focus on the [MVC](/handbook/values/#minimal-viable-change-mvc), uncover blind spots, and help us achieve a baseline level of predictability without over optimizing. We aim for 70% predictability instead of 90%. We believe that optimizing for velocity (merge request rate) enables our Growth teams to achieve a [weekly experimentation cadence](/handbook/product/growth/#weekly-growth-meeting).
 
 - If an issue has many unknowns where it's unclear if it's a 1 or a 5, we will be cautious and estimate high (5).
 - If an issue has many unknowns, we can break it into two issues. The first issue is for research, also referred to as a [Spike](https://en.wikipedia.org/wiki/Spike_(software_development)), where we de-risk the unknowns and explore potential solutions. The second issue is for the implementation.
@@ -330,7 +322,7 @@ Each member of the Digital Experience team should be listed as a participant in 
 
 ## Code Reviews
 
-Our team makes every attempt to complete [code reviews](https://about.gitlab.com/handbook/engineering/workflow/code-review/) on Merge Requests as timely as possible.
+Our team makes every attempt to complete [code reviews](/handbook/engineering/workflow/code-review/) on Merge Requests as timely as possible.
 
 Team members who create a Merge Request should factor in a suitable amount of time for code and/or design review. If an issue has a due date, the MR creator should try have the work code-complete at least 24 hours prior to the intended release. This gives time for any major fixes that the reviewers may point out, and encourages quick [iterations](/handbook/values/#iteration) and [Minimal Viable Change releases](/handbook/values/#move-fast-by-shipping-the-minimal-viable-change).
 
@@ -340,7 +332,7 @@ Digital Experience code request reviews should include the [merge request checkl
 
 ## Production Change Lock (PCL)
 
-Similar to [the engineering department](https://about.gitlab.com/handbook/engineering/infrastructure/change-management/#production-change-lock-pcl), we sometimes temporarily halt production changes to [the Buyer Experience repository](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience) when team availability is reduced, or we expect atypical user behavior (such as during high-visibility public events).
+Similar to [the engineering department](/handbook/engineering/infrastructure/change-management/#production-change-lock-pcl), we sometimes temporarily halt production changes to [the Buyer Experience repository](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience) when team availability is reduced, or we expect atypical user behavior (such as during high-visibility public events).
 
 Risks of making a production environment change during these periods includes immediate customer impact and/or reduced engineering team availability in case an incident occurs. Therefore, we have introduced a mechanism called Production Change Lock (PCL). We are listing the events here so that teams are aware of the PCL periods.
 
@@ -427,6 +419,10 @@ Whoever gets closest to the customer wins. With this in mind, the Digital Experi
 
 [#website](https://gitlab.slack.com/archives/C62ERFCFM)
 
+### Slack Application
+
+We have created a Slack application called Dex Bot to notify our team about important CMS changes, read more about it [here](/handbook/marketing/digital-experience/dexbot/)
+
 ## GitLab Unfiltered Playlist
 
 Watch our team in action on YouTube!
@@ -500,7 +496,6 @@ We love collaborating on work that drives our North Star and supporting metrics.
     <li>@dcharukulvanich</li>
     <li>@fqureshi</li>
     <li>@jgarc</li>
-    <li>@justin.vetter</li>
     <li>@lduggan</li>
     <li>@mpenagos-ext</li>
     <li>@meganfilo</li>

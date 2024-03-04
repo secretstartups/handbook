@@ -13,14 +13,14 @@ title: "Career Development in the Infrastructure Department"
 
 There are a number of tools we use to plot and manage career development:
 
-* [Role descriptions](https://handbook.gitlab.com/job-families/engineering/infrastructure/), which outline role responsibilities, requirements and nice-to-haves for each level in the role.
+* [Role descriptions](/job-families/engineering/infrastructure/), which outline role responsibilities, requirements and nice-to-haves for each level in the role.
 * Big Picture Career Conversations
 * Quarterly checkpoints
 * 1:1s
 * [360 Feedback](/handbook/people-group/360-feedback/)
 * [Talent Assessment](/handbook/people-group/talent-assessment/)
 
-Maintaining current [role descriptions](https://handbook.gitlab.com/job-families/engineering/infrastructure/) which establish expectations for hiring and ongoing performance expectations is an important supporting function for effective Career Development planning.
+Maintaining current [role descriptions](/job-families/engineering/infrastructure/) which establish expectations for hiring and ongoing performance expectations is an important supporting function for effective Career Development planning.
 
 The rest of the tools are for active engagement by the Team Member along with their Manager. The origin activity for this is the Big Picture Career Conversation, followed up with quarterly checkpoints and frequent 1:1s. Finally, 360 Feedback and Talent Assessment provide annual opportunities for additional insight on progress.
 
@@ -92,7 +92,7 @@ There is a reasonable amount of interest to intern with Infrastructure so we wan
 
 Don't know what to learn? Check out the [SRE I](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/SRE%20Introduction.md) and the [SRE II](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/SRE%20II.md) Training Modules, these cover a range of topics related to how we do Reliability Engineering at GitLab. It is recommended that you come to your internship prepared, and by completing both modules, you'll ensure a richer internship experience as you'll make the best use of your time during your internship with an extra focus on more advanced topics.
 
-Additionally, we have a broad set of technical skills listed in the [job description for SRE](https://handbook.gitlab.com/job-families/engineering/infrastructure/site-reliability-engineer/), if you are looking for ideas on what to learn, set up a coffee chat with a team member or one of the managers.
+Additionally, we have a broad set of technical skills listed in the [job description for SRE](/job-families/engineering/infrastructure/site-reliability-engineer/), if you are looking for ideas on what to learn, set up a coffee chat with a team member or one of the managers.
 If you're interested in learning more about SREs in general, you may wish to read Alice Goldfuss's blog post, "[How to Get Into SRE](https://blog.alicegoldfuss.com/how-to-get-into-sre/)." This blog post is an overview of all sorts of SRE related things, some of which may not be in use here at GitLab. However, it can be a valuable tool to learn more about SREs in general, and it links to many resources that you can use to learn more about a variety of SRE related topics.
 
 Specific ways to work in the internship:

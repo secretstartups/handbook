@@ -17,6 +17,7 @@ There are two YouTube channels we use at GitLab:
 
 1. [Branded](https://www.youtube.com/channel/UCnMGQ8QHMAnVIsI3xJrihhg): used for content intended for people in the wider community, including marketing and event content, customer, community and user stories, employment branding, and polished sales videos and demos. For example [our GitLab infomercial](https://www.youtube.com/watch?v=gzYTZhJlHoI).
 1. [Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A/): used for content intended for team and community members, including (but not limited to) team meetings, discussions, monthly release kick-offs, office hours, CEO 101 meetings, and casual demos. For example [a weekly meeting of the Plan group](https://www.youtube.com/watch?v=xXGAcFyBupA).
+1. [Community coders](https://www.youtube.com/channel/UCVxPq_cVcZ5-ga9OTHKmuOg): A **community run channel**, used for content intended for team and community members, including (but not limited to) community coding and pairing sessions.
 
 Everything posted to our **Branded** channel should pass through digital production for quality control on branding and production standards. If you are wondering if your video should go on the Branded channel, reach out to the [Digital Production team in Slack](https://gitlab.slack.com/archives/C01LRUKFQTB).
 
@@ -259,7 +260,7 @@ The GitLab Unfiltered YouTube account **should not** be subscribed to any channe
 The GitLab Unfiltered YouTube account is a shared space. Sometimes team members might accidentally [comment](#commenting) or [subscribe to channels](#subscribing-to-channels) thinking they are on a personal account.
 
 If you see a channel subscription or comment that violates the rules of this handbook, please take a bias-for-action to keep the GitLab Unfiltered
-YouTube account pristine. Delete any accidental channel subscription or comment to return the YouTube account to a pristine state. If you are unable 
+YouTube account pristine. Delete any accidental channel subscription or comment to return the YouTube account to a pristine state. If you are unable
 to remove the relevant comment or subscription, please notify people-connect@gitlab.com immediately.
 
 ## Organizing
@@ -342,11 +343,11 @@ Depending on your needs, you might want use software to provide overlays and/or 
 
 ### Encoder
 
-- [OBS Studio Win/Mac/Lin Open Source](https://obsproject.com/) or install with 'brew cask install obs' on mac
+- [OBS Studio Win/Mac/Lin Open Source](https://obsproject.com/) or install with 'brew install --cask obs' on mac
 
 ### Audio Rerouting
 
-- [Soundflower Mac Open Source](https://github.com/mattingalls/Soundflower) or install with `brew cask install soundflower`
+- [Soundflower Mac Open Source](https://github.com/mattingalls/Soundflower) or install with `brew install --cask soundflower`
 - [Loopback Mac Closed Source](http://www.rogueamoeba.com/loopback/) - Great closed source alternative
 - [Windows alternatives](https://www.reddit.com/r/audioengineering/comments/3geqse/soundflower_alternative_on_windows/)
 - [Linux alternatives](http://askubuntu.com/questions/602593/whats-a-good-soundflower-replacement-for-ubuntu)

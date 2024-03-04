@@ -40,7 +40,7 @@ Currently we have 2
 tests - [email_notification_for_alert_spec.rb](https://gitlab.com/gitlab-org/gitlab/-/blob/master/qa/qa/specs/features/browser_ui/8_monitor/alert_management/email_notification_for_alert_spec.rb),
 and [alert_with_escalation_policy_spec.rb](https://gitlab.com/gitlab-org/gitlab/-/blob/master/qa/qa/specs/features/ee/browser_ui/8_monitor/alert_management/alert_with_escalation_policy_spec.rb).
 These tests can only be run using `gitlab-qa` gem. This gem will launch a separate container for Mailhog and set
-Omnibus config for Gitlab instance to receive SMTP delivery from this container. The current issue is that docker
+Omnibus config for GitLab instance to receive SMTP delivery from this container. The current issue is that docker
 doesn't recognize the `hostname` set in the command when run locally, it always ended up using `0.0.0.0` for hostname, which is not
 what the test expected - expected `gitlab-smtp.test`. The only place where this test can be executed appropriately is
 in our CI (MR pipelines, and pipelines for E2E tests against master - see [#qa-master](https://gitlab.slack.com/archives/CNV2N29DM))
@@ -59,7 +59,7 @@ for an EE feature or not, but for the benefit of this group, we use `email_notif
 $ gitlab-qa Test::Integration::SMTP CE qa/specs/features/browser_ui/8_monitor/alert_management/email_notification_for_alert_spec.rb
 ```
 
-Notice we need to specify the scenario this spec belongs to `::SMTP`, the type of Gitlab license is `CE`. For other types
+Notice we need to specify the scenario this spec belongs to `::SMTP`, the type of GitLab license is `CE`. For other types
 of scenario and license, see -
 [What tests can be run?](https://gitlab.com/gitlab-org/gitlab-qa/-/blob/master/docs/what_tests_can_be_run.md#what-tests-can-be-run).
 The entire process will happen inside docker containers. You won't be able to see browser session.
@@ -67,7 +67,7 @@ The entire process will happen inside docker containers. You won't be able to se
 #### 2. How to run instance scenario test?
 
 `::Instance` scenario are regular tests that don't need special setups. Basically just login as a user and do his things
-against a Gitlab instance type of tests. For these you can also use `gitlab-qa` but you don't have to. You will still need
+against a GitLab instance type of tests. For these you can also use `gitlab-qa` but you don't have to. You will still need
 to be in `gitlab/qa/` and run `$ bundle install` first. Then depends on which environment you want to run tests against:
 
 **GDK**
@@ -89,7 +89,7 @@ $ GITLAB_USERNAME="gitlab-qa" GITLAB_PASSWORD=<in 1password> GITLAB_QA_USER_AGEN
 This way you can `export WEBDRIVER_HEADLESS=false` prior to running test to see browser session. Chrome is used by default,
 so you need to have chromedriver installed. If the test is quarantined, you will need to pass in `--tag quarantine` in
 the command to ignore this metadata. For list of supported environment variables, see
-[Supported Gitlab environment variables](https://gitlab.com/gitlab-org/gitlab-qa/-/blob/master/docs/what_tests_can_be_run.md#supported-gitlab-environment-variables)
+[Supported GitLab environment variables](https://gitlab.com/gitlab-org/gitlab-qa/-/blob/master/docs/what_tests_can_be_run.md#supported-gitlab-environment-variables)
 
 #### 3. I triggered the e2e:package-and-test job. Where do I find the tests?
 
@@ -143,9 +143,9 @@ have a lot of these anyways, it shouldn't be too difficult to track
 
 #### 5. How to find test resources (project, group, user, etc...) for investigation?
 
-In non-dotcom pipelines, unfortunately all resources are wiped out when the docker container that hosted Gitlab instance
+In non-dotcom pipelines, unfortunately all resources are wiped out when the docker container that hosted GitLab instance
 for the pipeline got destroyed. Our only hopes are job logs, screenshots or maybe reproduce locally.
-On dotcoms, we run test using `gitlab-qa` user. His login creds can be found in 1password **Gitlab-QA** vault. The job
+On dotcoms, we run test using `gitlab-qa` user. His login creds can be found in 1password **GitLab-QA** vault. The job
 logs will have links to groups and/or projects that were created by the test or information for other resources
 that can help with the search as well. Worry not, we have a mechanism in place that will only immediately delete resources
 from passing tests. The ones that were created by a failing test will be retained until the Saturday of that week.
@@ -153,7 +153,7 @@ So you should have enough time to investigate what went wrong.
 
 #### 6. What to do if I can't understand what I see?
 
-Please reach out to [your counterpart SET](https://about.gitlab.com/handbook/engineering/quality/#individual-contributors)
+Please reach out to [your counterpart SET](/handbook/engineering/quality/#individual-contributors)
 or in the [#quality](https://gitlab.slack.com/archives/C3JJET4Q6) channel. Someone will gladly offer help!
 
 ### Helpful Documentation

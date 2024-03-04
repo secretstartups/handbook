@@ -54,7 +54,7 @@ In either case, you need a job description (JD). If you are hiring for a tempora
 
 ## Interview Process
 
-For the interview, you will have a lot of agency to structure interviews as an engineering manager looking to make this hire. It is advisable to stay as close as possible to the company-level guidelines, especially as it relates to [diversity inclusion and belonging](/company/culture/inclusion/talent-acquisition-initiatives/). You can also use your own sub-department or group guidelines as a basis for defining the interview process, including the diversity of interviewers and approach to technical vetting (e.g. see Enablement sub-department [interview guidelines](/handbook/engineering/infrastructure/core-platform/#how-do-we-interview-candidates)). 
+For the interview, you will have a lot of agency to structure interviews as an engineering manager looking to make this hire. It is advisable to stay as close as possible to the company-level guidelines, especially as it relates to [diversity inclusion and belonging](/handbook/company/culture/inclusion/talent-acquisition-initiatives/). You can also use your own sub-department or group guidelines as a basis for defining the interview process, including the diversity of interviewers and approach to technical vetting (e.g. see Enablement sub-department [interview guidelines](/handbook/engineering/infrastructure/core-platform/#how-do-we-interview-candidates)). 
 
 ## Contracting and invoicing
 
@@ -66,7 +66,7 @@ You can read more in the handbook section above, but roughly the steps involved 
 - Obtain (or draft yourself) a Statement of Work (SOW) outlining the work that the contractor will perform for GitLab and the terms and conditions as related to this contract. The SOW should specify the dates, the name of the individual (and/or agency) and the max total fees for the full length of the contract (even if the fees will be paid periodically over the extent of the contract). 
 - When creating the SOW, be as specific as possible. Clearly identify the scope of the work, the acceptance criteria and the deliverables. Also consider adding criteria related to how your team works. For example, do you expect the contractor to add daily async updates to their issues or expect merge requests to be under `x` lines? If so, consider adding it to the SOW. 
 - Have the contractor or vendor representative sign the SOW.
-- Create a professional services Coupa requisition with all the details and attach the SOW. If you don’t have access to Coupa, you can [request access](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-access-coupa) or ask somebody with access in your group to submit the request for you. 
+- Create a professional services Coupa requisition with all the details and attach the SOW. If you don’t have access to Coupa, you can [request access](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-access-coupa) or ask somebody with access in your group to submit the request for you. 
 - Look after the approval flow, optionally pinging individuals if they don’t respond in a timely manner to the request.
 
 Once the Coupa requisition is approved, the vendor/contractor will be able to invoice against the budget allocated at regular intervals as per the SOW. When they submit invoices, the Coupa requestor will be notified by Coupa to approve the payment. 

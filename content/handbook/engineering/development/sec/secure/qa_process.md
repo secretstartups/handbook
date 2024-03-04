@@ -20,7 +20,7 @@ We expect and require all contributions to our products to go a merge request wi
 
 ### Additional considerations for Merge Request authors
 
-* Being a globally distributed organization can, and frequently does, add latency to back-and-forth communication between folks. [Don't take it personally](https://about.gitlab.com/handbook/values/#assume-positive-intent) if it's taking longer than you expected to get feedback on your changes.
+* Being a globally distributed organization can, and frequently does, add latency to back-and-forth communication between folks. [Don't take it personally](/handbook/values/#assume-positive-intent) if it's taking longer than you expected to get feedback on your changes.
 
 ## Secure QA Process
 

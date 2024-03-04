@@ -217,18 +217,18 @@ GitLab recognizes the grouping of companies that are related based on their prim
     - This is the account level of classification of industry
     - A list of GitLab's Industry values can be found [HERE](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=Industry&type=Account)
 1. **Sub-Industry**
-    - Sub-Industry is a more granular/detailed classification of Industry.  
+    - Sub-Industry is a more granular/detailed classification of Industry.
     - A list of GitLab's Sub-Industry values can be found [HERE](https://gitlab.my.salesforce.com/00N6100000HIhad).  This list aligns with the industries used by DemandBase
 
-  
+
 The Industry and Sub-Industry of each account is determined by a combination of 3rd party data and manual overrides. The information is stored in the `Industry` and `Sub-Industry` fields on the Account object in SalesForce and inherit data in the following priority:
 
-1. Admin Manual Override  
+1. Admin Manual Override
 1. Zoominfo mapping to `Industry` and `Sub-Industry`
 
 **Industry & Sub-Industry Enrichment Cadence**
 
-The Industry and Sub-Industry data on an Account is enriched and updated automatically on a daily cadence.  
+The Industry and Sub-Industry data on an Account is enriched and updated automatically on a daily cadence.
 
 
 ### Account Ranking for Enterprise Sales
@@ -298,7 +298,7 @@ Initial response to form submission is the responsibility of the Account Owner (
 
 #### Trial Requests
 
-Trials can be requested through [web form](/free-trial/) or within product UI for both self-managed or SaaS.
+Trials can be requested through [web form](https://about.gitlab.com/free-trial/) or within product UI for both self-managed or SaaS.
 Default trial length is thirty (30) days, but can be manually extended by the GitLab team for both the SaaS and self-managed products. Trial extensions for the SaaS product use the [`plan_change_request` issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=plan_change_request) template found in the `dotcom` Group, `internal-requests` project.
 Extending self-managed trials requires access to the internal `Licensing App`.
 
@@ -334,7 +334,7 @@ The owner of the record in SFDC **does not** need to match the owner in Outreach
 #### Record Ownership and Record Visibility
 
 In order to meet compliance standards our SFDC instance uses a private model.
-This private model allows for some records to be visible by all Gitlab team members who use Salesforce, while other records may not be visible to them.
+This private model allows for some records to be visible by all GitLab team members who use Salesforce, while other records may not be visible to them.
 Currently this is in place as it pertains to records owned by the Public Sector team.
 All salesforce records (leads, contacts, accounts, opportunities etc.) owned by the Public Sector team are only visibility to other members of the public sector team and a group of supporting staff who have been reviewed and permitted to view the these records.
 All other records (owned by non-public sector team members) maintain their standard visibility levels.
@@ -555,6 +555,9 @@ The following fields have been obtained:
 - Current DevOps or software development lifecycle tools (from conversation or credible data source)
 - Expected entry point use case (e.g. SCM or CI)
 - Potential seats of the first opportunity (if this is a new account or buying group)
+
+**Timing**
+After the initial qualifying meeting with the account leader/executive, there must be a tangible next step agreed upon with the prospect.
 
 ***Before the IQM with the account leader/executive, the BDR will also aim to gather:***
 
@@ -875,7 +878,8 @@ To help move sales through the sales process, [here](https://docs.google.com/doc
 - What to Complete in This Stage:
     - For BDR/SDR sourced opportunities, the opportunity meets [Sales Accepted Opportunity criteria](/handbook/sales/field-operations/gtm-resources/#opportunities).
     - The BDR/SDR has scheduled a call via Google Calendar, sent invites, created an event on the account object, named the event: GitLab Introductory Meeting - {{Account Name}}
-    - Once it is confirmed that the opportunity meets our Sales Accepted Opportunity criteria, the SAE or AE should move the opportunity to the next stage and the `Amount` field must be populated with estimated pipeline. The date the opportunity moves from this to the next stage in the sales cycle will populate the `Sales Accepted Date` field on the opportunity record.
+    - The opportunity will populate the Stage 1 XDR Net ARR field with an estimate of the Net ARR value of this opportunity based on a per-Geo/Segment/deal type average and median.
+    - Once it is confirmed that the opportunity meets our Sales Accepted Opportunity criteria, the SAE or AE should move the opportunity to the next stage and the `Amount` field must be populated with estimated pipeline. This will then populate the Stage 1 Net ARR field which will demonstrate Net ARR value of this opportunity as it crosses into Stage 1. The date the opportunity moves from this to the next stage in the sales cycle will populate the `Sales Accepted Date` field on the opportunity record.
     - If the details on the opportunity do not meet our Sales Accepted Opportunity criteria, the SAE or AE should move the opportunity to an `9-Unqualified` stage (this is the only time an opportunity can move into `9-Unqualified` stage)
     - All Opps that are sales assisted must first enter this stage before they can be moved further in the pipeline. If they do not enter this stage at some point you will encounter a validation rule error.
     - For renewal opportunities, `0-Pending Acceptance` is only to be used if the renewal is not being actively worked by the Account Executive/Strategic Account Executive.
@@ -898,6 +902,7 @@ To help move sales through the sales process, [here](https://docs.google.com/doc
     - Complete a Demo (Optional)
     - Schedule a Technical Evaluation Call
     - Confirm and collect new [MEDDPPICC](/handbook/sales/meddppicc/) information.
+    - Make adjustments to expected opp amount as this will impact the field Stage 3 Net ARR which popluates the Net ARR value of this opportunity as it crosses into Stage 3.
 
 **3-Technical Evaluation**: Confirming technical requirements. A proof-of-concept (POC) might occur at this stage. This is also the stage to confirm information before a proposal is delivered.
 
@@ -919,7 +924,7 @@ To help move sales through the sales process, [here](https://docs.google.com/doc
 
 - What to Complete in This Stage:
     - Agreement on business terms
-    - All proposals should include the standard GitLab [Terms](/terms/#subscription/)
+    - All proposals should include the standard GitLab [Terms](https://about.gitlab.com/terms/#subscription/)
     - Determine if customer will be referenceable when the opportunity closes. If the answer is:
         - "Yes" update the `Referenceable Customer` section on the Account object with appropriate reference information
         - "No" the discussion of being a reference can be revisited at a later date

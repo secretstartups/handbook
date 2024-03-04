@@ -10,7 +10,7 @@ Welcome to the Billing Ops Handbook
 
 The Billing Operations Team is part of the Revenue Operations organization. Our Billing Team is responsible for the billing functions of our global account portfolio.
 
-**The Gitlab Billing Team comprises three regional teams:**
+**The GitLab Billing Team comprises three regional teams:**
 
 - Americas - West Region
 - Americas - East Region

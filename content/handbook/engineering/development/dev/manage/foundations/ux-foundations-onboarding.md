@@ -23,7 +23,7 @@ description: UX onboarding checklist for the Foundations team
 
 ## Helpful links
 
-- [Navigation & Settings direction page](/direction/manage/foundations/navigation_settings/)
-- [Design system direction page](/direction/manage/foundations/design_system/)
+- [Navigation & Settings direction page](https://about.gitlab.com/direction/manage/foundations/navigation_settings/)
+- [Design system direction page](https://about.gitlab.com/direction/manage/foundations/design_system/)
 - [Milestone planning project](https://gitlab.com/gitlab-org/ecosystem-stage/team-tasks)
 - [Retrospective project](https://gitlab.com/gl-retrospectives/ecosystem-stage/foundations-group)

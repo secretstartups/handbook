@@ -1,17 +1,10 @@
 ---
-
 title: Package Stage
 ---
 
-
-
-
-
-
-
 ## 🎯 Mission and Vision
 
-The Package stage integrates with [GitLab's CI/CD product](/direction/ops/).
+The Package stage integrates with [GitLab's CI/CD product](https://about.gitlab.com/direction/ops/).
 
 Our mission is to create a secure environment where both source code and dependencies can live by
 allowing you to publish, consume, and discover packages of a large variety of languages and platforms
@@ -23,22 +16,23 @@ For more details about the vision for this product area, see the [product vision
 
 The Package stage is made up of two groups:
 
-1. [Package:Container Registry](https://about.gitlab.com/handbook/engineering/development/ops/package/container-registry/)
-1. [Package:Package Registry](https://about.gitlab.com/handbook/engineering/development/ops/package/package-registry/)
+1. [Package:Container Registry](/handbook/engineering/development/ops/package/container-registry/)
+1. [Package:Package Registry](/handbook/engineering/development/ops/package/package-registry/)
 
 ### Package:Container Registry
 
-<%= direct_team(role_regexp: /Container Registry/, manager_slug: 'crystalpoole') %>
+{{< team-by-manager-slug manager="crystalpoole" team="Container Registry" >}}
 
 ### Package:Package Registry
 
-<%= direct_team(role_regexp: /Package Registry/, manager_slug: 'crystalpoole') %>
+{{< team-by-manager-slug manager="crystalpoole" team="Package Registry" >}}
+
 
 ## 📈 Measuring results
 
-In order to better align our effort with our customer's needs we will use the following methodology to measure our results. We believe that our best measure of success and progress is our [product category maturity plan](/direction/maturity/#package). Progress towards these goals will be measured as follows:
+In order to better align our effort with our customer's needs we will use the following methodology to measure our results. We believe that our best measure of success and progress is our [product category maturity plan](https://about.gitlab.com/direction/maturity/#package). Progress towards these goals will be measured as follows:
 
-1. The long term product category maturity goals will be split into each stage: [minimal, viable, complete and, loveable](/direction/maturity/)
+1. The long term product category maturity goals will be split into each stage: [minimal, viable, complete and, loveable](https://about.gitlab.com/direction/maturity/)
 1. For each category's next maturity stage, we'll break down each feature into small iterations and give them [issue weights](/handbook/engineering/development/ops/package/#issue-weighting)
 1. These weighted issues will have the `Package:P1` label applied then be scheduled in upcoming milestones
 1. We'll measure our delivery by the percentage of committed product issues that were completed within a given development phase. Our goal is 100% completion. We track this measurement with a [Say Do Ratio](/handbook/engineering/development/performance-indicators/#say-do-ratios).
@@ -58,7 +52,7 @@ The below epics detail the work required to move each respective category to the
 
 We use quarterly Objectives and Key Results as a tool to help us plan and measure how to achieve Key Performance Indicators (KPIs).
 
-Here is the [standard, company-wide process for OKRs](https://about.gitlab.com/company/okrs/)
+Here is the [standard, company-wide process for OKRs](/handbook/company/okrs/)
 
 <iframe src="https://app.ally.io/public/e4b5sDXtc8Ru0zm" class="dashboard-embed" height="800" width="100%" style="border:none;"> </iframe>
 
@@ -81,11 +75,7 @@ These dashboards are all internal and can be only accessed by GitLab Team member
 - [Container Registry garbage collection details](https://dashboards.gitlab.net/d/registry-gc/registry-garbage-collection-detail?orgId=1&from=now-30d&to=now&var-PROMETHEUS_DS=Global&var-environment=pre&var-cluster=pre-gitlab-gke&var-stage=main&var-namespace=gitlab&var-Deployment=gitlab-registry) (Grafana)
 - [Cleanup policies for Container Images](https://log.gprd.gitlab.net/goto/b03da1dcaf2ac281994f72687347f40a) (Kibana)
 - [Dependency Proxy](https://log.gprd.gitlab.net/goto/3d363d13eaf8133a4216149e335ab1b9) (Kibana)
-- [Package user adoption and growth](https://app.periscopedata.com/app/gitlab/805350/Package:-User-Adoption-and-Growth) (SiSense)
-- [GitLab.com activity dashboard](https://app.periscopedata.com/app/gitlab/527857/Package-GitLab.com-Stage-Activity-Dashboard) (SiSense)
-- [Package usage funnel](https://app.periscopedata.com/app/gitlab/854785/Package-Usage-Funnel) (SiSense)
-- [Package: Costs](https://app.periscopedata.com/app/gitlab/1011032/Package:-Costs) (SiSense)
-- [Package customer adoption](https://app.periscopedata.com/app/gitlab/877343/Package-customer-adoption) (SiSense)
+- [Package: Costs](https://10az.online.tableau.com/#/site/gitlab/workbooks/2269240/views) (Tableau)
 
 ### Error Budget
 
@@ -97,7 +87,7 @@ The engineering manager will review the error budget dashboard weekly to determi
 
 ### Usage Funnels
 
-We expect to track the journey of users through the following funnel. You can view the below metrics in the [Package usage funnel dashboard](https://app.periscopedata.com/app/gitlab/854785/Package-Usage-Funnel).
+We expect to track the journey of users through the following funnel.
 
 [![](https://mermaid.ink/img/eyJjb2RlIjoiY2xhc3NEaWFncmFtXG4gIEFjcXVpc3Rpb24gLS18PiBBY3RpdmF0aW9uXG5cdEFjcXVpc3Rpb24gOiBBcmUgdXNlcnMgYXdhcmUgb2YgdGhlIHByb2R1Y3Qgb3IgZmVhdHVyZSBzZXQ_ICAgIFxuXHRBY3F1aXN0aW9uOiBNZWFzdXJlbWVudCAoVG90YWwgIyBvZiBwcm9qZWN0cyB3aXRoIGF0IGxlYXN0IG9uZSBwYWNrYWdlIGluIHRoZSByZWdpc3RyeSkgXG4gIEFjdGl2YXRpb24gLS18PiBSZXRlbnRpb25cblx0QWN0aXZhdGlvbiA6IEFyZSB1c2VycyBhcHBseWluZyB0aGUgZmVhdHVyZT9cblx0QWN0aXZhdGlvbjogTWVhc3VyZW1lbnQgKCMgb2YgdXNlcnMgcHVibGlzaGluZyBhbmQgaW5zdGFsbGluZyBwYWNrYWdlcyBwZXIgZGF5KSBcdFx0XHRcdFxuICBSZXRlbnRpb24gLS18PiBSZXZlbnVlXG5cdFJldGVudGlvbiA6IEFyZSB1c2VycyBhcHBseWluZyB0aGUgZmVhdHVyZSBvdmVyIHRpbWU_XG5cdFJldGVudGlvbjogTWVhc3VyZW1lbnQgKCMgb2YgcHJvamVjdHMgdGhhdCBoYXZlIHB1Ymxpc2hlZC9pbnN0YWxsZWQgYSBwYWNrYWdlIHZpYSBDSS9DRCBwZXIgZGF5KSBcbiAgUmV2ZW51ZSAtLXw-IFJlZmVycmFsXG5cdFJldmVudWUgOiBBcmUgdXNlcnMgcGF5aW5nIGZvciB0aGUgZmVhdHVyZXM_XG5cdFJldmVudWU6IE1lYXN1cmVtZW50ICgjIHVzZXJzIHB1bGxpbmcgcGFja2FnZXMgdGhyb3VnaCBhIERlcGVuZGVuY3kgUHJveHkpIFxuICBSZWZlcnJhbCAtLXw-IEFjcXVpc3Rpb25cblx0UmVmZXJyYWwgOiBBcmUgdXNlcnMgZW5jb3VyYWdpbmcgb3RoZXJzIHRvIHVzZSB0aGUgZmVhdHVyZT9cblx0UmVmZXJyYWw6IE1lYXN1cmVtZW50ICgjIHByb2plY3RzIHRoYXQgcHVibGlzaCBtb3JlIHRoYW4gMTAgcGFja2FnZXMgcGVyIHdlZWsuKSIsIm1lcm1haWQiOnsidGhlbWUiOiJkZWZhdWx0IiwidGhlbWVWYXJpYWJsZXMiOnsiYmFja2dyb3VuZCI6IndoaXRlIiwicHJpbWFyeUNvbG9yIjoiI0VDRUNGRiIsInNlY29uZGFyeUNvbG9yIjoiI2ZmZmZkZSIsInRlcnRpYXJ5Q29sb3IiOiJoc2woODAsIDEwMCUsIDk2LjI3NDUwOTgwMzklKSIsInByaW1hcnlCb3JkZXJDb2xvciI6ImhzbCgyNDAsIDYwJSwgODYuMjc0NTA5ODAzOSUpIiwic2Vjb25kYXJ5Qm9yZGVyQ29sb3IiOiJoc2woNjAsIDYwJSwgODMuNTI5NDExNzY0NyUpIiwidGVydGlhcnlCb3JkZXJDb2xvciI6ImhzbCg4MCwgNjAlLCA4Ni4yNzQ1MDk4MDM5JSkiLCJwcmltYXJ5VGV4dENvbG9yIjoiIzEzMTMwMCIsInNlY29uZGFyeVRleHRDb2xvciI6IiMwMDAwMjEiLCJ0ZXJ0aWFyeVRleHRDb2xvciI6InJnYig5LjUwMDAwMDAwMDEsIDkuNTAwMDAwMDAwMSwgOS41MDAwMDAwMDAxKSIsImxpbmVDb2xvciI6IiMzMzMzMzMiLCJ0ZXh0Q29sb3IiOiIjMzMzIiwibWFpbkJrZyI6IiNFQ0VDRkYiLCJzZWNvbmRCa2ciOiIjZmZmZmRlIiwiYm9yZGVyMSI6IiM5MzcwREIiLCJib3JkZXIyIjoiI2FhYWEzMyIsImFycm93aGVhZENvbG9yIjoiIzMzMzMzMyIsImZvbnRGYW1pbHkiOiJcInRyZWJ1Y2hldCBtc1wiLCB2ZXJkYW5hLCBhcmlhbCIsImZvbnRTaXplIjoiMTZweCIsImxhYmVsQmFja2dyb3VuZCI6IiNlOGU4ZTgiLCJub2RlQmtnIjoiI0VDRUNGRiIsIm5vZGVCb3JkZXIiOiIjOTM3MERCIiwiY2x1c3RlckJrZyI6IiNmZmZmZGUiLCJjbHVzdGVyQm9yZGVyIjoiI2FhYWEzMyIsImRlZmF1bHRMaW5rQ29sb3IiOiIjMzMzMzMzIiwidGl0bGVDb2xvciI6IiMzMzMiLCJlZGdlTGFiZWxCYWNrZ3JvdW5kIjoiI2U4ZThlOCIsImFjdG9yQm9yZGVyIjoiaHNsKDI1OS42MjYxNjgyMjQzLCA1OS43NzY1MzYzMTI4JSwgODcuOTAxOTYwNzg0MyUpIiwiYWN0b3JCa2ciOiIjRUNFQ0ZGIiwiYWN0b3JUZXh0Q29sb3IiOiJibGFjayIsImFjdG9yTGluZUNvbG9yIjoiZ3JleSIsInNpZ25hbENvbG9yIjoiIzMzMyIsInNpZ25hbFRleHRDb2xvciI6IiMzMzMiLCJsYWJlbEJveEJrZ0NvbG9yIjoiI0VDRUNGRiIsImxhYmVsQm94Qm9yZGVyQ29sb3IiOiJoc2woMjU5LjYyNjE2ODIyNDMsIDU5Ljc3NjUzNjMxMjglLCA4Ny45MDE5NjA3ODQzJSkiLCJsYWJlbFRleHRDb2xvciI6ImJsYWNrIiwibG9vcFRleHRDb2xvciI6ImJsYWNrIiwibm90ZUJvcmRlckNvbG9yIjoiI2FhYWEzMyIsIm5vdGVCa2dDb2xvciI6IiNmZmY1YWQiLCJub3RlVGV4dENvbG9yIjoiYmxhY2siLCJhY3RpdmF0aW9uQm9yZGVyQ29sb3IiOiIjNjY2IiwiYWN0aXZhdGlvbkJrZ0NvbG9yIjoiI2Y0ZjRmNCIsInNlcXVlbmNlTnVtYmVyQ29sb3IiOiJ3aGl0ZSIsInNlY3Rpb25Ca2dDb2xvciI6InJnYmEoMTAyLCAxMDIsIDI1NSwgMC40OSkiLCJhbHRTZWN0aW9uQmtnQ29sb3IiOiJ3aGl0ZSIsInNlY3Rpb25Ca2dDb2xvcjIiOiIjZmZmNDAwIiwidGFza0JvcmRlckNvbG9yIjoiIzUzNGZiYyIsInRhc2tCa2dDb2xvciI6IiM4YTkwZGQiLCJ0YXNrVGV4dExpZ2h0Q29sb3IiOiJ3aGl0ZSIsInRhc2tUZXh0Q29sb3IiOiJ3aGl0ZSIsInRhc2tUZXh0RGFya0NvbG9yIjoiYmxhY2siLCJ0YXNrVGV4dE91dHNpZGVDb2xvciI6ImJsYWNrIiwidGFza1RleHRDbGlja2FibGVDb2xvciI6IiMwMDMxNjMiLCJhY3RpdmVUYXNrQm9yZGVyQ29sb3IiOiIjNTM0ZmJjIiwiYWN0aXZlVGFza0JrZ0NvbG9yIjoiI2JmYzdmZiIsImdyaWRDb2xvciI6ImxpZ2h0Z3JleSIsImRvbmVUYXNrQmtnQ29sb3IiOiJsaWdodGdyZXkiLCJkb25lVGFza0JvcmRlckNvbG9yIjoiZ3JleSIsImNyaXRCb3JkZXJDb2xvciI6IiNmZjg4ODgiLCJjcml0QmtnQ29sb3IiOiJyZWQiLCJ0b2RheUxpbmVDb2xvciI6InJlZCIsImxhYmVsQ29sb3IiOiJibGFjayIsImVycm9yQmtnQ29sb3IiOiIjNTUyMjIyIiwiZXJyb3JUZXh0Q29sb3IiOiIjNTUyMjIyIiwiY2xhc3NUZXh0IjoiIzEzMTMwMCIsImZpbGxUeXBlMCI6IiNFQ0VDRkYiLCJmaWxsVHlwZTEiOiIjZmZmZmRlIiwiZmlsbFR5cGUyIjoiaHNsKDMwNCwgMTAwJSwgOTYuMjc0NTA5ODAzOSUpIiwiZmlsbFR5cGUzIjoiaHNsKDEyNCwgMTAwJSwgOTMuNTI5NDExNzY0NyUpIiwiZmlsbFR5cGU0IjoiaHNsKDE3NiwgMTAwJSwgOTYuMjc0NTA5ODAzOSUpIiwiZmlsbFR5cGU1IjoiaHNsKC00LCAxMDAlLCA5My41Mjk0MTE3NjQ3JSkiLCJmaWxsVHlwZTYiOiJoc2woOCwgMTAwJSwgOTYuMjc0NTA5ODAzOSUpIiwiZmlsbFR5cGU3IjoiaHNsKDE4OCwgMTAwJSwgOTMuNTI5NDExNzY0NyUpIn19LCJ1cGRhdGVFZGl0b3IiOmZhbHNlfQ)](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiY2xhc3NEaWFncmFtXG4gIEFjcXVpc3Rpb24gLS18PiBBY3RpdmF0aW9uXG5cdEFjcXVpc3Rpb24gOiBBcmUgdXNlcnMgYXdhcmUgb2YgdGhlIHByb2R1Y3Qgb3IgZmVhdHVyZSBzZXQ_ICAgIFxuXHRBY3F1aXN0aW9uOiBNZWFzdXJlbWVudCAoVG90YWwgIyBvZiBwcm9qZWN0cyB3aXRoIGF0IGxlYXN0IG9uZSBwYWNrYWdlIGluIHRoZSByZWdpc3RyeSkgXG4gIEFjdGl2YXRpb24gLS18PiBSZXRlbnRpb25cblx0QWN0aXZhdGlvbiA6IEFyZSB1c2VycyBhcHBseWluZyB0aGUgZmVhdHVyZT9cblx0QWN0aXZhdGlvbjogTWVhc3VyZW1lbnQgKCMgb2YgdXNlcnMgcHVibGlzaGluZyBhbmQgaW5zdGFsbGluZyBwYWNrYWdlcyBwZXIgZGF5KSBcdFx0XHRcdFxuICBSZXRlbnRpb24gLS18PiBSZXZlbnVlXG5cdFJldGVudGlvbiA6IEFyZSB1c2VycyBhcHBseWluZyB0aGUgZmVhdHVyZSBvdmVyIHRpbWU_XG5cdFJldGVudGlvbjogTWVhc3VyZW1lbnQgKCMgb2YgcHJvamVjdHMgdGhhdCBoYXZlIHB1Ymxpc2hlZC9pbnN0YWxsZWQgYSBwYWNrYWdlIHZpYSBDSS9DRCBwZXIgZGF5KSBcbiAgUmV2ZW51ZSAtLXw-IFJlZmVycmFsXG5cdFJldmVudWUgOiBBcmUgdXNlcnMgcGF5aW5nIGZvciB0aGUgZmVhdHVyZXM_XG5cdFJldmVudWU6IE1lYXN1cmVtZW50ICgjIHVzZXJzIHB1bGxpbmcgcGFja2FnZXMgdGhyb3VnaCBhIERlcGVuZGVuY3kgUHJveHkpIFxuICBSZWZlcnJhbCAtLXw-IEFjcXVpc3Rpb25cblx0UmVmZXJyYWwgOiBBcmUgdXNlcnMgZW5jb3VyYWdpbmcgb3RoZXJzIHRvIHVzZSB0aGUgZmVhdHVyZT9cblx0UmVmZXJyYWw6IE1lYXN1cmVtZW50ICgjIHByb2plY3RzIHRoYXQgcHVibGlzaCBtb3JlIHRoYW4gMTAgcGFja2FnZXMgcGVyIHdlZWsuKSIsIm1lcm1haWQiOnsidGhlbWUiOiJkZWZhdWx0IiwidGhlbWVWYXJpYWJsZXMiOnsiYmFja2dyb3VuZCI6IndoaXRlIiwicHJpbWFyeUNvbG9yIjoiI0VDRUNGRiIsInNlY29uZGFyeUNvbG9yIjoiI2ZmZmZkZSIsInRlcnRpYXJ5Q29sb3IiOiJoc2woODAsIDEwMCUsIDk2LjI3NDUwOTgwMzklKSIsInByaW1hcnlCb3JkZXJDb2xvciI6ImhzbCgyNDAsIDYwJSwgODYuMjc0NTA5ODAzOSUpIiwic2Vjb25kYXJ5Qm9yZGVyQ29sb3IiOiJoc2woNjAsIDYwJSwgODMuNTI5NDExNzY0NyUpIiwidGVydGlhcnlCb3JkZXJDb2xvciI6ImhzbCg4MCwgNjAlLCA4Ni4yNzQ1MDk4MDM5JSkiLCJwcmltYXJ5VGV4dENvbG9yIjoiIzEzMTMwMCIsInNlY29uZGFyeVRleHRDb2xvciI6IiMwMDAwMjEiLCJ0ZXJ0aWFyeVRleHRDb2xvciI6InJnYig5LjUwMDAwMDAwMDEsIDkuNTAwMDAwMDAwMSwgOS41MDAwMDAwMDAxKSIsImxpbmVDb2xvciI6IiMzMzMzMzMiLCJ0ZXh0Q29sb3IiOiIjMzMzIiwibWFpbkJrZyI6IiNFQ0VDRkYiLCJzZWNvbmRCa2ciOiIjZmZmZmRlIiwiYm9yZGVyMSI6IiM5MzcwREIiLCJib3JkZXIyIjoiI2FhYWEzMyIsImFycm93aGVhZENvbG9yIjoiIzMzMzMzMyIsImZvbnRGYW1pbHkiOiJcInRyZWJ1Y2hldCBtc1wiLCB2ZXJkYW5hLCBhcmlhbCIsImZvbnRTaXplIjoiMTZweCIsImxhYmVsQmFja2dyb3VuZCI6IiNlOGU4ZTgiLCJub2RlQmtnIjoiI0VDRUNGRiIsIm5vZGVCb3JkZXIiOiIjOTM3MERCIiwiY2x1c3RlckJrZyI6IiNmZmZmZGUiLCJjbHVzdGVyQm9yZGVyIjoiI2FhYWEzMyIsImRlZmF1bHRMaW5rQ29sb3IiOiIjMzMzMzMzIiwidGl0bGVDb2xvciI6IiMzMzMiLCJlZGdlTGFiZWxCYWNrZ3JvdW5kIjoiI2U4ZThlOCIsImFjdG9yQm9yZGVyIjoiaHNsKDI1OS42MjYxNjgyMjQzLCA1OS43NzY1MzYzMTI4JSwgODcuOTAxOTYwNzg0MyUpIiwiYWN0b3JCa2ciOiIjRUNFQ0ZGIiwiYWN0b3JUZXh0Q29sb3IiOiJibGFjayIsImFjdG9yTGluZUNvbG9yIjoiZ3JleSIsInNpZ25hbENvbG9yIjoiIzMzMyIsInNpZ25hbFRleHRDb2xvciI6IiMzMzMiLCJsYWJlbEJveEJrZ0NvbG9yIjoiI0VDRUNGRiIsImxhYmVsQm94Qm9yZGVyQ29sb3IiOiJoc2woMjU5LjYyNjE2ODIyNDMsIDU5Ljc3NjUzNjMxMjglLCA4Ny45MDE5NjA3ODQzJSkiLCJsYWJlbFRleHRDb2xvciI6ImJsYWNrIiwibG9vcFRleHRDb2xvciI6ImJsYWNrIiwibm90ZUJvcmRlckNvbG9yIjoiI2FhYWEzMyIsIm5vdGVCa2dDb2xvciI6IiNmZmY1YWQiLCJub3RlVGV4dENvbG9yIjoiYmxhY2siLCJhY3RpdmF0aW9uQm9yZGVyQ29sb3IiOiIjNjY2IiwiYWN0aXZhdGlvbkJrZ0NvbG9yIjoiI2Y0ZjRmNCIsInNlcXVlbmNlTnVtYmVyQ29sb3IiOiJ3aGl0ZSIsInNlY3Rpb25Ca2dDb2xvciI6InJnYmEoMTAyLCAxMDIsIDI1NSwgMC40OSkiLCJhbHRTZWN0aW9uQmtnQ29sb3IiOiJ3aGl0ZSIsInNlY3Rpb25Ca2dDb2xvcjIiOiIjZmZmNDAwIiwidGFza0JvcmRlckNvbG9yIjoiIzUzNGZiYyIsInRhc2tCa2dDb2xvciI6IiM4YTkwZGQiLCJ0YXNrVGV4dExpZ2h0Q29sb3IiOiJ3aGl0ZSIsInRhc2tUZXh0Q29sb3IiOiJ3aGl0ZSIsInRhc2tUZXh0RGFya0NvbG9yIjoiYmxhY2siLCJ0YXNrVGV4dE91dHNpZGVDb2xvciI6ImJsYWNrIiwidGFza1RleHRDbGlja2FibGVDb2xvciI6IiMwMDMxNjMiLCJhY3RpdmVUYXNrQm9yZGVyQ29sb3IiOiIjNTM0ZmJjIiwiYWN0aXZlVGFza0JrZ0NvbG9yIjoiI2JmYzdmZiIsImdyaWRDb2xvciI6ImxpZ2h0Z3JleSIsImRvbmVUYXNrQmtnQ29sb3IiOiJsaWdodGdyZXkiLCJkb25lVGFza0JvcmRlckNvbG9yIjoiZ3JleSIsImNyaXRCb3JkZXJDb2xvciI6IiNmZjg4ODgiLCJjcml0QmtnQ29sb3IiOiJyZWQiLCJ0b2RheUxpbmVDb2xvciI6InJlZCIsImxhYmVsQ29sb3IiOiJibGFjayIsImVycm9yQmtnQ29sb3IiOiIjNTUyMjIyIiwiZXJyb3JUZXh0Q29sb3IiOiIjNTUyMjIyIiwiY2xhc3NUZXh0IjoiIzEzMTMwMCIsImZpbGxUeXBlMCI6IiNFQ0VDRkYiLCJmaWxsVHlwZTEiOiIjZmZmZmRlIiwiZmlsbFR5cGUyIjoiaHNsKDMwNCwgMTAwJSwgOTYuMjc0NTA5ODAzOSUpIiwiZmlsbFR5cGUzIjoiaHNsKDEyNCwgMTAwJSwgOTMuNTI5NDExNzY0NyUpIiwiZmlsbFR5cGU0IjoiaHNsKDE3NiwgMTAwJSwgOTYuMjc0NTA5ODAzOSUpIiwiZmlsbFR5cGU1IjoiaHNsKC00LCAxMDAlLCA5My41Mjk0MTE3NjQ3JSkiLCJmaWxsVHlwZTYiOiJoc2woOCwgMTAwJSwgOTYuMjc0NTA5ODAzOSUpIiwiZmlsbFR5cGU3IjoiaHNsKDE4OCwgMTAwJSwgOTMuNTI5NDExNzY0NyUpIn19LCJ1cGRhdGVFZGl0b3IiOmZhbHNlfQ)
 
@@ -169,7 +159,7 @@ the [group retrospectives handbook page](../../../management/group-retrospective
 Often times during a retrospective (monthly or weekly), there are suggestions on how to improve a given process. However, there are times
 where suggestions are lost and no action is taken. Consider the following possible action items that can be created so that the issues are eventually addressed:
 
-- [Everything starts with a Merge Request](https://about.gitlab.com/handbook/communication/#start-with-a-merge-request)! No matter if it is a small or big change, in the MR, you will have the opportunity to discuss the things you are suggesting with the rest of the team. Add the label `~Retrospective follow-up` and relate the MR to the retrospective issue.
+- [Everything starts with a Merge Request](/handbook/communication/#start-with-a-merge-request)! No matter if it is a small or big change, in the MR, you will have the opportunity to discuss the things you are suggesting with the rest of the team. Add the label `~Retrospective follow-up` and relate the MR to the retrospective issue.
 - For any other follow-up that cannot be resolved through an MR, open an issue in the [Package retrospective issue tracker](https://gitlab.com/gl-retrospectives/package/-/issues) and apply the `~follow-up` label. Assign a due-date to the next month. Link the issue back to the retrospective that prompted the action.
 - Consider bringing some of the [follow-up issues](https://gitlab.com/gl-retrospectives/package/-/issues/?label_name%5B%5D=follow-up) into the weekly retrospective for discussion.
 - Follow the same process for issues raised during the weekly retrospective.
@@ -277,7 +267,7 @@ Issues that we're expecting to work on in the milestone will have the `workflow:
 - Everyone can contribute and collaborate in the milestone issue to propose work, raise concerns and clarify topics.
 - To identify work and their priority, issues are assigned to the milestone and labelled as `Package:P1` or `Package:P2` according to their priority. Our prioritization model can be found below in the section [Priorities](/handbook/engineering/development/ops/package/#milestone-priorities).
 - Before commiting to the work for the milestone, engineers perform [refinement](/handbook/engineering/development/ops/package/#refinement) and confirm all issues are ready for development.
-- We commit to the `Package:P1` work in the milestone by having an engineer add the `workflow::ready for development` label and then having the engineering manager add the `Deliverable` label. We measure our predictability and commitments with [Say/Do ratios](https://app.periscopedata.com/app/gitlab/658030/Say-Do-Ratios).
+- We commit to the `Package:P1` work in the milestone by having an engineer add the `workflow::ready for development` label and then having the engineering manager add the `Deliverable` label. We measure our predictability and commitments with Say/Do ratios.
 
 #### Refinement
 
@@ -358,7 +348,7 @@ When starting work on an MR that involves unfamiliar tools/libraries, be sure to
 
 When working on an MR for a Deliverable, don't lose track of the aim: release the Deliverable in time. That doesn't mean that refactorings can't happen or that we can't take time to investigate side subjects. It means that we need to limit the time allocated for this type of work.
 
-When considering a refactoring or a heavy refactoring, consider working [iteratively](https://about.gitlab.com/handbook/values/#iteration). A refactoring can be implemented and refined many times but consider releasing a good enough first version so that depending work is not delayed or blocked. For an example of how we can work iteratively, please see [how we worked through lifting the npm naming conventioon](https://gitlab.com/gitlab-org/gitlab/-/issues/33685#note_512942088).
+When considering a refactoring or a heavy refactoring, consider working [iteratively](/handbook/values/#iteration). A refactoring can be implemented and refined many times but consider releasing a good enough first version so that depending work is not delayed or blocked. For an example of how we can work iteratively, please see [how we worked through lifting the npm naming conventioon](https://gitlab.com/gitlab-org/gitlab/-/issues/33685#note_512942088).
 
 ### Bug Triaging
 
@@ -395,7 +385,7 @@ Package's features regularly deal with file uploads. When testing these features
 
 #### End to End Testing
 
-The Package team uses [GitLab QA](https://gitlab.com/gitlab-org/gitlab-qa) for End-to-End testing. We have [guidelines](https://about.gitlab.com/handbook/engineering/development/ops/package/quality) for how our team is leveraging these tests.
+The Package team uses [GitLab QA](https://gitlab.com/gitlab-org/gitlab-qa) for End-to-End testing. We have [guidelines](/handbook/engineering/development/ops/package/quality) for how our team is leveraging these tests.
 
 #### HackyStack
 
@@ -404,7 +394,7 @@ The Package team uses [GitLab QA](https://gitlab.com/gitlab-org/gitlab-qa) for E
 The [GitLab Sandbox Cloud](/handbook/infrastructure-standards/realms/sandbox) is GitLab's deployment of HackyStack that is used by GitLab team members. See the handbook page for more details.
 
 The Package team uses this platform to set up its epehemeral demo sandbox environment that launches an Omnibus instance with an active Container Registry and a project that can trigger multiple images/tags leveraging our CI capabilities.
-Instructions on how to use it can be found [here](https://about.gitlab.com/handbook/engineering/development/ops/package/quality).
+Instructions on how to use it can be found [here](/handbook/engineering/development/ops/package/quality).
 
 #### Seeding Utilities
 
@@ -429,13 +419,13 @@ When a merge request needs to be reviewed for the experience or for the copy in 
 
 The Package team has a goal of shipping enterprise grade software with a focus on Quality. The team accomplishes this goal with the following practices:
 
-* Following GitLab's [Culture of Quality](https://about.gitlab.com/handbook/engineering/quality/#culture-of-quality_) with a focus on being champions for better software design.
+* Following GitLab's [Culture of Quality](/handbook/engineering/quality/#culture-of-quality_) with a focus on being champions for better software design.
 
-* Partnering with our [Software Engineer in Test](https://handbook.gitlab.com/job-families/engineering/software-engineer-in-test/) stable counterparts.
+* Partnering with our [Software Engineer in Test](/job-families/engineering/software-engineer-in-test/) stable counterparts.
 
 * Frequently [reviewing the code coverage](https://gitlab.com/gitlab-org/gitlab/-/issues/284185) across our functional areas (GoLang, Ruby, Frontend) and addressing low scoring areas as needed.
 
-* Actively reviewing [Triage reports](https://about.gitlab.com/handbook/engineering/quality/triage-operations/#triage-reports) and working with our Product Manager to prioritize bugs or regressions.
+* Actively reviewing [Triage reports](/handbook/engineering/infrastructure/engineering-productivity/triage-operations/#triage-reports) and working with our Product Manager to prioritize bugs or regressions.
 
 ### Community Contributions
 
@@ -462,8 +452,8 @@ A merge request with the following properties:
 
 A Package group member will adopt the community contribution with the following tasks:
 
-* Confirm the community merge request (MR) is properly [triaged](/handbook/engineering/quality/merge-request-triage/). This step includes important labeling for [work type classification](/handbook/engineering/metrics/#work-type-classification), stage and group and the `Community Contribution` label.
-* If the MR addresses an open issue, ensure that the issue is still valid and the description is up to date. Consider [closing the issue](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#lean-toward-closing) and [closing the MR](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#merge-request-ownership) if it is outdated.
+* Confirm the community merge request (MR) is properly [triaged](/handbook/engineering/infrastructure/engineering-productivity/merge-request-triage/). This step includes important labeling for [work type classification](/handbook/engineering/metrics/#work-type-classification), stage and group and the `Community Contribution` label.
+* If the MR addresses an open issue, ensure that the issue is still valid and the description is up to date. Consider [closing the issue](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#lean-toward-closing) and [closing the MR](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#merge-request-ownership) if it is outdated.
 * Evaluate the review effort and assign it using `package-review-weight::x` labels.
 * Consider reaching out to MR coaches or using the reviewer roulette to leverage support and provide contributors with a smoother and quicker experience.
 * Assign themselves to the issue. This helps to identify a DRI for that issue in the milestone planning.
@@ -490,7 +480,7 @@ Other points to consider for the Package group member:
 * Contributing to features managed by the Package group can mean having to use the Enterprise Edition (EE) version of GitLab. This [guideline](/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows.html#contributing-to-the-gitlab-enterprise-edition-ee) will help with this aspect.
 * Make sure that the merge request size and complexity stay at a reasonable level to ensure a [smooth review process](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#contribution-acceptance-criteria).
 * If the merge request grows to an unexpected size or tries to solve too many issues at once, consider suggesting to the community contributor to split it into smaller ones and use a [feature flag](https://docs.gitlab.com/ee/development/feature_flags/) if necessary.
-* If a merge request gets stalled for a long time, consider suggesting that you will finish the merge request. Check the proper section in [Merge Request Coach responsibilities](https://handbook.gitlab.com/job-families/expert/merge-request-coach/#finishing-merge-requests).
+* If a merge request gets stalled for a long time, consider suggesting that you will finish the merge request. Check the proper section in [Merge Request Coach responsibilities](/job-families/expert/merge-request-coach/#finishing-merge-requests).
   * Do not forget to credit the community contributor.
 * If some aspects of the merge request become a high priority task (for example, a bug fix) and the work from the community contributor is less active or stalled, consider suggesting that you will extract this part to a small merge request to get it implemented as quickly as possible.
   * The other aspects with less priority can still be worked out by the community contributor.
@@ -528,12 +518,12 @@ committing to delivering it in a specific time frame.
 
 ### Returning from PTO
 
-It can be overwhelming to come back to work after taking time off. Remember to review the [returning from PTO](https://about.gitlab.com/handbook/paid-time-off/#returning-from-pto)
+It can be overwhelming to come back to work after taking time off. Remember to review the [returning from PTO](/handbook/paid-time-off/#returning-from-pto)
 section of our time-off policy, especially the key points:
 
 - It is OK to take your time to catch up. You can consider blocking your calendar to do so.
 - Taking time off doesn't mean that you need to work extra hours before or after your vacation.
-- It is [impossible to know everything](https://about.gitlab.com/handbook/values/#its-impossible-to-know-everything) (AKA some things can be ignored).
+- It is [impossible to know everything](/handbook/values/#its-impossible-to-know-everything) (AKA some things can be ignored).
 - Consider scheduling a coffee chat or sync with other team members to help ease your way back.
 - Consider asking in [#s_package](https://gitlab.slack.com/archives/CAGEWDLPQ) for a summary of what happened while you were gone.
 
@@ -545,7 +535,7 @@ These sessions aim to facilitate the sharing of valuable insights and experience
 
 #### Target Audience
 
-These sessions are applicable to all development specialties (backend, frontend, Go, and Rails) across [Package:Container Registry](https://about.gitlab.com/handbook/engineering/development/ops/package/container-registry/) and [Package:Package Registry](https://about.gitlab.com/handbook/engineering/development/ops/package/package-registry/). By making these sessions visible and open to engineers across all functional areas, the goal is to boost awareness and knowledge sharing across a wider audience. Members with non-development roles are also more than welcome to attend.
+These sessions are applicable to all development specialties (backend, frontend, Go, and Rails) across [Package:Container Registry](/handbook/engineering/development/ops/package/container-registry/) and [Package:Package Registry](/handbook/engineering/development/ops/package/package-registry/). By making these sessions visible and open to engineers across all functional areas, the goal is to boost awareness and knowledge sharing across a wider audience. Members with non-development roles are also more than welcome to attend.
 
 #### Process
 
@@ -567,7 +557,7 @@ When hosting a session, the team member should:
 
 ### Cross-Group Dependencies
 
-Cross-group dependencies may exist as pre-requisites to deliver Package features or bug fixes. Issues to deliver such dependencies are owned by groups that Package depends on, such as [Delivery](https://about.gitlab.com/handbook/engineering/infrastructure/team/delivery/) or [Distribution](https://about.gitlab.com/handbook/engineering/infrastructure/core-platform/systems/distribution/).
+Cross-group dependencies may exist as pre-requisites to deliver Package features or bug fixes. Issues to deliver such dependencies are owned by groups that Package depends on, such as [Delivery](/handbook/engineering/infrastructure/team/delivery/) or [Distribution](/handbook/engineering/infrastructure/core-platform/systems/distribution/).
 
 For discoverability, issues that represent cross-group dependencies should be labeled with `package:cross-group-dependency`. If working on one of these issues, Package engineers should ensure that they are labeled correctly. For visibility, these issues are shown in the [Package:Cross-Group Assignments](https://gitlab.com/groups/gitlab-org/-/boards/2470946?label_name[]=package%3Across-group-dependency) issue board.
 
@@ -575,7 +565,7 @@ The product manager should include cross-group dependencies in the milestone pla
 
 ### Communication
 
-We're an all-remote group, [effective](https://about.gitlab.com/handbook/communication/#effective--responsible-communication-guidelines) and [asynchronous communication](https://about.gitlab.com/company/culture/all-remote/asynchronous/) is key for success.
+We're an all-remote group, [effective](/handbook/communication/#effective--responsible-communication-guidelines) and [asynchronous communication](/handbook/company/culture/all-remote/asynchronous/) is key for success.
 
 When requiring attention from all the team members, use any of the following options or mix them.
 
@@ -588,7 +578,7 @@ For any other communication tailored to only certain members, we ping them indiv
 
 ### Partnering with Infrastructure
 
-There are times during the development lifecycle that changes need to be communicated to the [Infrastructure teams](https://about.gitlab.com/handbook/engineering/infrastructure/#teams). For example:
+There are times during the development lifecycle that changes need to be communicated to the [Infrastructure teams](/handbook/engineering/infrastructure/#teams). For example:
 
 - If your work will impact rate-limits as in [GitLab-#778](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/778)
 - If you are considering adjusting the existing [Package limits](https://docs.gitlab.com/ee/administration/instance_limits.html#package-registry-limits)
@@ -598,7 +588,7 @@ There are times during the development lifecycle that changes need to be communi
 
 ## Feature Category Details
 
-* [Container Registry](https://about.gitlab.com/handbook/engineering/development/ops/package/container-registry)
+* [Container Registry](/handbook/engineering/development/ops/package/container-registry)
 
 ## 🔗 Other Useful Links
 

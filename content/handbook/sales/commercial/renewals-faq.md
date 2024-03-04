@@ -50,7 +50,7 @@ More information on this can be found [here](https://docs.gitlab.com/ee/subscrip
 
 Q: I see I was charged for a Quarterly Subscription Reconciliation. What is is this for?
 
-A: Quarterly reconciliation occurs when you exceed your license limit. You will be charged an overage based on the maximum number of seats you used during the quarter.  
+A: Quarterly reconciliation occurs when you exceed your license limit. You will be charged an overage based on the maximum number of seats you used during the quarter.
 
 More information on this can be found [here](https://docs.gitlab.com/ee/subscriptions/quarterly_reconciliation.html).
 
@@ -104,7 +104,7 @@ Q: How can I check to see when my customers subscription is due for renewal?
 
 A: You can find when a Customer is up for renewal by checking the *Next Renewal Date* field on the Account. If an Account has multiple Subscriptions you can navigate to the relevant *Renewal Opportunit*y and check the *Subscription Renewal Date.*
 
-Q: How can I check to see if my customer has successfully linked their Gitlab.com user account to their CDot user account?
+Q: How can I check to see if my customer has successfully linked their GitLab.com user account to their CDot user account?
 
 A: First, navigate to https://customers.gitlab.com/admin/customer/.  From this page, you can use the *Zuora* and *Impersonate* tabs to validate that the information in these portals matches CustomerDot
 

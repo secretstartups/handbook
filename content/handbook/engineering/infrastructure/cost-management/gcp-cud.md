@@ -28,7 +28,7 @@ We can share CUD across projects, but the dimensions CUD are split across are li
 ### CUD Tracking
 - Overview of our current CUD can now be viewed in [Sisense](https://app.periscopedata.com/app/gitlab/848796/WIP:-GCP-CUD-Overview)
 
-- In Infra, we have a PI to cover 80% or more of our total eligible compute usage with [CUD](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#gcp-cud-coverage-)
+- In Infra, we have a PI to cover 80% or more of our total eligible compute usage with [CUD](/handbook/engineering/infrastructure/performance-indicators/#gcp-cud-coverage-)
 
 ### GCP CUD Purchase Approval Process
 #### 1. Fill out [CUD Analysis Template](https://docs.google.com/spreadsheets/d/1yAIpX875Mjcq-DfuyFi4C-y5FaWGoAvoHmW6qHj9Rlc) with relevant details for new request

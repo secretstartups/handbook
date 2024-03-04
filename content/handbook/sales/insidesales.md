@@ -36,7 +36,7 @@ The mission of the Inside Sales department is to create valuable experiences for
 
 ## ISR Alignment
 
-After completing onboarding, Inside Sales Representatives are assigned a territory by *region* or a defined set of *Account Territories*. Current Enterprise ISR territory assignments can be found in the [Territories Mapping File - SSoT](https://docs.google.com/spreadsheets/d/1gElhORjqraKDMQnWzApPelyP_vVa24tAOA85vb5f3Uc/edit#gid=1765694827).  
+After completing onboarding, Inside Sales Representatives are assigned a territory by *region* or a defined set of *Account Territories*. Current Enterprise ISR territory assignments can be found in the [Territories Mapping File - SSoT](https://docs.google.com/spreadsheets/d/1gElhORjqraKDMQnWzApPelyP_vVa24tAOA85vb5f3Uc/edit#gid=1765694827).
 
 #### ISR Account Alignment
 
@@ -65,7 +65,7 @@ In FY23, ISRs will have a narrowed focus and will be responsible for managing re
 In addition to renewing and growing < $50k renewals, the ISRs will be measured on renewal rate for the area(s) they support. SAEs and ASMs should be the primary point-of-contact for renewals > $50k in ARR basis as well as all first order or new business initiatives.
 
 **How does GitLab define ARR Basis?**
-ARR Basis or "Renewal Amount" means the prior period of ARR between GitLab and a Customer or Gitlab and an eligible Partner.
+ARR Basis or "Renewal Amount" means the prior period of ARR between GitLab and a Customer or GitLab and an eligible Partner.
 
 ARR Basis is automatically recalculated after every subscription change.
 

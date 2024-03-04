@@ -15,7 +15,7 @@ This is a working document to specify the design of background migration support
 
 ### Motivation
 
-At Gitlab, we rely heavily on background processing when migrating large volumes of data. This is not only important for typical data fixes related to application logic, but also as an underpinning for future database objectives, such as partitioning and schema redesign.
+At GitLab, we rely heavily on background processing when migrating large volumes of data. This is not only important for typical data fixes related to application logic, but also as an underpinning for future database objectives, such as partitioning and schema redesign.
 
 At the same time, we are [decomposing the GitLab application database into multiple databases](https://gitlab.com/groups/gitlab-org/-/epics/6168) to scale GitLab. This effort has an impact on the entire application, requiring substantial changes to implement the desired design.
 

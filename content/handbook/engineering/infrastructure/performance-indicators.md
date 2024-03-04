@@ -2,4 +2,4 @@
 title: Infrastructure Department Performance Indicators
 ---
 
-{{< performance-indicators "infrastructure_department" >}}
+{{% performance-indicators "infrastructure_department" %}}

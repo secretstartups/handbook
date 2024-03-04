@@ -18,10 +18,10 @@ The team focuses on 'frameworking' services and technical features that have pro
  
 A Framework is a collection of attributes that describe everything necessary to build and operate a highly scalable, observable, reliable system or component, and it may include:
 
-- [Architectural Blueprints](https://about.gitlab.com/handbook/engineering/architecture/workflow/) used to define how the component fits into a bigger picture
+- [Architectural Blueprints](/handbook/engineering/architecture/workflow/) used to define how the component fits into a bigger picture
 - [Developer Documentation and Guidelines](https://docs.gitlab.com/) used to ensure consistency between multiple components
 - Self-service deployment and management tools, used to ensure simpler maintenance of the component
-- [Service Maturity Model](https://about.gitlab.com/handbook/engineering/infrastructure/service-maturity-model/), ensuring that the component has consistent interfaces necessary to operate a robust and reliable component
+- [Service Maturity Model](/handbook/engineering/infrastructure/service-maturity-model/), ensuring that the component has consistent interfaces necessary to operate a robust and reliable component
   - Observability and Forecasting Tools
   - Logging and Alerting Guidelines
   - [Operational Runbooks](https://gitlab.com/gitlab-com/runbooks/)

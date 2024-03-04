@@ -33,7 +33,7 @@ I value commitment and pride in doing good work. I am driven by constant learnin
 ### Learn more
 
 - [LinkedIn](https://www.linkedin.com/in/silvajuan/)
-- [GitLab Team Profile](https://about.gitlab.com/company/team/#juan-silva)
+- [GitLab Team Profile](/handbook/company/team/#juan-silva)
 - [GitLab User](https://gitlab.com/juan-silva)
 - [Twitter](https://twitter.com/mexicoder)
 

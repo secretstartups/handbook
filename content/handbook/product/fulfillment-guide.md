@@ -16,26 +16,20 @@ description: "The Fulfillment Sub-department is responsible for the infrastructu
 | [Fulfillment Direction](https://about.gitlab.com/direction/fulfillment/) | Fulfillment vision and what we are working on next. |
 | [docs.gitlab.com Subscription](https://docs.gitlab.com/ee/subscriptions/) | Customer-facing documentation around GitLab subscriptions, including Customer Portal (customers.gitlab.com) information. |
 | Fulfillment Guide (this page) | Documentation around CustomersDot Admin tools and process documentation that is not part of the docs.gitlab.com Subscription documentation above. |
-| [Fulfillment Development Sub-Department](https://about.gitlab.com/handbook/engineering/development/fulfillment/) | Team members, stable counterparts (PM, UX, Quality, Security, EntApps, Field Ops, Sales, Billing, Customer Success, Support Engineering), project management processes, and more. |
+| [Fulfillment Development Sub-Department](/handbook/engineering/development/fulfillment/) | Team members, stable counterparts (PM, UX, Quality, Security, EntApps, Field Ops, Sales, Billing, Customer Success, Support Engineering), project management processes, and more. |
 | [Internal Handbook - Fulfillment](https://internal.gitlab.com/handbook/product/fulfillment/) | Documentation that can't be in the public handbook. Minimize this to only [Not Public](/handbook/communication/confidentiality-levels/#not-public) information. |
-| [Cloud Licesing Overview (External)](/pricing/licensing-faq/cloud-licensing/) | Why Cloud Licensing, data collected, customer pre-requisites |
+| [Cloud Licesing Overview (External)](https://about.gitlab.com/pricing/licensing-faq/cloud-licensing/) | Why Cloud Licensing, data collected, customer pre-requisites |
 | [Cloud Licensing (Internal)](https://internal.gitlab.com/handbook/product/fulfillment/cloudlicensing/cloud-licensing/) | Internal handbook information about Cloud Licensing |
 | [Deal Desk Handbook](/handbook/sales/field-operations/sales-operations/deal-desk/) | Standard Quote Configuration (new subscription, amend subscription, add-on quote creation, upgrade or product switch during subscription term, renewal, channel deals, true-ups, co-terms, Starter/Bronze End of Availability, SuperSonics, Professional Services), Non-Standard Quotes (Contract Resets, Concurrent Subscriptions, Multi-year Deals, Ramp deals), Alliance Marketplace Private Offers, and more.  |
 | [Sales Order Processing](/handbook/sales/field-operations/order-processing/) | Account and opportunity creation, quote configuration, approvals process, opportunity booking requirements, closing an opportunity. |
 | [Internal Support](/handbook/support/internal-support/) | Submitting all requests around licensing, subscription, trials, and grace periods. |
-| [Licensing FAQ](/pricing/licensing-faq/) | Common questions around purchasing, licensing, billing, contacting sales, and more |
+| [Licensing FAQ](https://about.gitlab.com/pricing/licensing-faq/) | Common questions around purchasing, licensing, billing, contacting sales, and more |
 | [Finance and Legal Authorization Matrix](/handbook/finance/authorization-matrix/) | |
 | [Trade Compliance](/handbook/legal/trade-compliance/) | |
 | [Billing, invoice and payment requests](/handbook/support/license-and-renewals/workflows/billing_contact_change_payments.html) | Zuora contact change, Zuora entity change and effects on SM/SaaS subscriptions, cancellations, downgrades, refunds, invoices, payments, credit card removals, renewal reversals, split payment requests |
 | [Troubleshooting: True Ups, licenses + EULAs](/handbook/business-technology/enterprise-applications/quote-to-cash/troubleshooting/) | |
 | [Quote-to-Cash systems documentation (EntApps)](/handbook/business-technology/enterprise-applications/quote-to-cash/) | Overview of systems, EntApps Architecture, Process Flow Diagrams, Entity Relationship Diagrams |
 | [Quote-to-Cash process](/handbook/business-technology/enterprise-applications/quote-to-cash/#quote-to-cash-introduction) | EntApps documentation including systems and process diagrams. |
-
-## Helpful data links
-
-1. [Supersonics dashboard (Cloud Licensing, QSRs, Auto-renewal, operational data sync)](https://app.periscopedata.com/app/gitlab:safe-dashboard/919356/Supersonics-Executive-Dashboard) - **Limited Access**
-1. [L&R Ticket Ratio](https://app.periscopedata.com/app/gitlab:safe-dashboard/919342/SM-SaaS-Subscription-to-L&R-Ticket-Ratio) **Limited Access**
-1. [Version Upgrade Rate](https://app.periscopedata.com/app/gitlab/406972/Version-Upgrade-Rate) **Not Public**
 
 ## How to connect with us
 
@@ -124,38 +118,40 @@ Please keep in mind:
 
 ## Temporary renewal extensions
 
-*Last updated on 2023-10-26.*
+*Last updated on 2024-02-23.*
 
 | Use Case | Status |
 |---|---|
-| Temporary extensions for **Self-Managed** renewals | Development of this feature is complete, [BETA rollout](#beta-rollout) is planned and pending enablement. |
-| Temporary extensions for **SaaS** renewals | Development not started. Discovery and planning in progress. |
+| Temporary extensions for **Self-Managed** renewals | Available for eligible renewal opportunities |
+| Temporary extensions for **SaaS** renewals | Available for eligible renewal opportunities  |
 
 In the event that a renewal process takes longer then intended (e.g. customer takes longer than average to sign renewal deal), customers run into a problem when their license expires at the subscription term end and they lose complete access to their GitLab instance (Self-managed or SaaS).
 
-Temporary Renewal Extension is an internal feature built in SFDC, and is accessible from a Renewal Opportunity. It enables any Sales Rep to generate the extension on their own, without contacting Support. Extension can be generated 1-15 days before subscription end date, with a default expiration date of 21 days after subscription end date (followed by the [grace period of 14 days](https://docs.gitlab.com/ee/subscriptions/self_managed/#subscription-expiry)).
+Temporary Renewal Extension is an internal feature built in SFDC, and is accessible from a Renewal Opportunity. It enables any Sales Rep to generate the extension on their own, without contacting Support. Extension can be generated 1-15 days before subscription end date or 1-13 days after subscription end date, with a default expiration date of 21 days after subscription end date (followed by the [grace period of 14 days](https://docs.gitlab.com/ee/subscriptions/self_managed/#subscription-expiry)).
 
 Additional context about this feature can be found [here](https://gitlab.com/groups/gitlab-org/-/epics/10173), including a [visual timeline](https://gitlab.com/groups/gitlab-org/-/epics/10173#timeline-of-events) of subscription events related to the temporary renewal extensions.
 
-Please share your feedback about this feature in [this issue](https://gitlab.com/gitlab-org/fulfillment/meta/-/issues/1514).
+Please share your feedback about this feature in [this issue](https://gitlab.com/gitlab-org/fulfillment/meta/-/issues/1728).
 
-### Beta rollout
-
-BETA access to **temporary extensions for Self-Managed renewals** is being rolled via [this issue](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/4544) (confidential).
 
 ### Creating an extension
 
 Please watch [this video](https://www.youtube.com/watch?v=ENRtOQ0DbkM) for an overview of creating an extension. The process is also described below.
 
 1. Go to the SFDC Renewal Opportunity that needs additional processing time.
-1. Click on `Request Temporary License` button. *If you are not part of the beta group, you will see an error message.*
-1. Temporary License form will load, and display the related OpportunityID and ZuoraSubscriptionID.
+1. Click on `Request Temporary Extension` button.
+1. Temporary Renewal Extension form will load, and display the related OpportunityID and ZuoraSubscriptionID.
 1. Select `Reason` from the drop down, specify number of `Users` for the license, add optional `Notes`, then click `Next`.
+   1. If creating a temporary renewal extension for SaaS subscription, the number of `Users` is irrelevant - extension will be created for the same number of users as the current subscription.
 1. Once the extension is created, you will see a success message. Otherwise, you will see an [error message](add-link).
 1. Several updates happen for a successfully created temporary extension:
-   1. `Temporary License Extension End Date` field on the SFDC Renewal Opportunity is updated with a date (equal to subscription end date + 21 days).
+   1. Several fields on the SFDC Renewal Opportunity are updated:
+      1. `Temporary License Extension End Date` is updated with a date (equal to subscription end date + 21 days).
+      1. `Exempt Late Renewal Automation` is set to true.
+      1. `Late Renewal Exception Expiration Date` is updated with the same value as `Temporary License Extension End Date`.
    1. Temporary extension record appears on [CustomersDot Admin > Temporary Extensions page](https://customers.gitlab.com/admin/temporary_extension_history).
    1. For self-managed, a legacy trial license is created and can be accessed from the Temporary extension record in CustomersDot Admin.
+   1. For SaaS, the new temporary extension (once effective) is visible on the gitlab.com group billing page.
    1. An email is sent to the customer with the subject line `[GitLab Transactions] GitLab Temporary Renewal Extension`. For self-managed, a license key is included in the email.
       - This email is also sent to the Revenue Team, as well as copied to SFDC and displayed under Contact Activity.
    1. `Access temporarily extended until YYYY-MM-DD` badge is displayed on the related subscription in the [Customers Portal](https://docs.gitlab.com/ee/subscriptions/customers_portal.html).
@@ -168,6 +164,7 @@ Once the temporary renewal extension is created, the evidence of it can be seen 
 - [CustomersDot Admin > Temporary Extensions](https://customers.gitlab.com/admin/temporary_extension_history) page lists all of the temporary extensions.
 - Customer can see the `Access temporarily extended until YYYY-MM-DD` badge on the related subscription in the [Customers Portal](https://docs.gitlab.com/ee/subscriptions/customers_portal.html).
    - For self-managed, customer can download the license key and apply it to their instance.
+   - For SaaS, the new expiration date is automatically synced to gitlab.com.
 
 Once subscription is renewed, the `Access temporarily extended until YYYY-MM-DD` badge is removed. [This video](https://www.youtube.com/watch?v=cR6odsThHNY) shows what happens when the grace period of the temporary extension has elapsed, and subscription is renewed.
 
@@ -175,13 +172,13 @@ Once subscription is renewed, the `Access temporarily extended until YYYY-MM-DD`
 
 | Error | Description |
 |---------|-----------|
-| Request date is not within the allowable range of 15 days prior to subscription term end date | Temporary extension must be created 1-15 days before subscription end date. |
+| Temporary extension can be requested 15 days prior to subscription expiry up until 13 days after subscription expiry | Temporary extension must be created 15 days before subscription end date or up to 13 days after subscription end date. |
 | Subscription has already availed an extension in the current renewal term | There can only be one 21-day temporary extension per renewal. No additional extensions are allowed. |
 | Subscription has an upcoming extension starting on YYYY-MM-DD | There is an existing temporary extension for the renewal, which hasn't started yet. |
 | Customer account labeled as having bad debt | Billing team has identified this account as having bad debt. You will see either of these fields populated on the Zuora Billing Account: `Support hold`, `Credit hold`. |
 | Customer account belongs to a trade restricted country | Customers with the SoldTo address in [these countries](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/6431#proposal) are not eligible for a temporary extension. |
 
-All technical problems should be shared with Fulfillment according to [these instructions](https://gitlab.com/gitlab-org/fulfillment/meta/-/issues/1514#instructions-please-read-before-posting). Once the problem has been reported, please follow the existing process of submitting an [Internal Request](https://gitlab-com.gitlab.io/support/internal-requests-form/) to Support so that your customer can receive a subscription extension.
+All technical problems should be shared with Fulfillment according to [these instructions](https://gitlab.com/gitlab-org/fulfillment/meta/-/issues/1514#instructions-please-read-before-posting). Once the problem has been reported, please follow the existing process of submitting an [Internal Request](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/) to Support so that your customer can receive a subscription extension. Use either the **GitLab Support Internal Requests for Global customers** or **GitLab Support Internal Requests for Federal customers** request option, then select the appropriate internal request type, either for SaaS or Self-Managed.
 
 ### Accessing GCP logs
 
@@ -726,7 +723,7 @@ If a bug is discovered that impacts Fulfillment, including provisioning, purchas
 **Reporting the issue**
 
 1. Open a new [Fulfillment Meta bug intake issue](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/new) (select the bug_intake template) outlining what is known about the bug.
-   1. Tag [Fulfillment Product Management](https://about.gitlab.com/handbook/engineering/development/fulfillment/#fulfillment-product-management) by mentioning the `@fulfillment-group/leadership/fulfillment-pm` group.
+   1. Tag [Fulfillment Product Management](/handbook/engineering/development/fulfillment/#fulfillment-product-management) by mentioning the `@fulfillment-group/leadership/fulfillment-pm` group.
    1. Assign the issue to `ofernandez2` for review and action.
 1. Post the link to the issue on Slack in #s_fulfillment and in #business-fulfillment-sync for broad awareness and review.
 
@@ -769,7 +766,7 @@ Our [service usage data](/handbook/legal/privacy/customer-product-usage-informat
 
 **Can a customer send subscription data ad-hoc, while keeping their GitLab instance airgapped/not connected to the internet?**
 
-Please see [Offline Cloud Licensing](/pricing/licensing-faq/cloud-licensing/#offline-cloud-licensing) for more information.
+Please see [Offline Cloud Licensing](https://about.gitlab.com/pricing/licensing-faq/cloud-licensing/#offline-cloud-licensing) for more information.
 
 
 ## Fulfillment Roadmap Prioritization
@@ -808,9 +805,9 @@ We will minimize such logic and remove it from the application code whenever pos
 
 ### Prioritization Process
 
-Our roadmap is prioritized and scheduled following our [Project management process](https://about.gitlab.com/handbook/engineering/development/fulfillment/#project-management-process). We aim to update this roadmap every month as a part of our milestone [planning process](https://about.gitlab.com/handbook/engineering/development/fulfillment/#planning).
+Our roadmap is prioritized and scheduled following our [Project management process](/handbook/engineering/development/fulfillment/#project-management-process). We aim to update this roadmap every month as a part of our milestone [planning process](/handbook/engineering/development/fulfillment/#planning).
 
-To request work to be added to the Fulfillment roadmap, please follow our [intake request process](https://about.gitlab.com/handbook/engineering/development/fulfillment/#intake-request). Changes in priorities of this roadmap follow our [prioritization process](https://about.gitlab.com/handbook/engineering/development/fulfillment/#prioritization).
+To request work to be added to the Fulfillment roadmap, please follow our [intake request process](/handbook/engineering/development/fulfillment/#intake-request). Changes in priorities of this roadmap follow our [prioritization process](/handbook/engineering/development/fulfillment/#prioritization).
 
 The source of truth for all Fulfillment projects is our **[in-product Fulfillment Roadmap](https://gitlab.com/groups/gitlab-org/-/roadmap?state=all&sort=end_date_asc&layout=QUARTERS&timeframe_range_type=THREE_YEARS&label_name%5B%5D=Fulfillment+Roadmap&progress=COUNT&show_progress=true&show_milestones=false&milestones_type=GROUP)**.
 
@@ -864,13 +861,13 @@ Prioritization based on the established criteria will drive the order in which w
 
 To minimize impact and give more predictability to partner teams, we will minimize changes to initiatives that we’ve already agreed with cross-functional partners to do within the ongoing quarter.
 
-Anyone can request new items to be added to the roadmap via an [intake request](https://about.gitlab.com/handbook/engineering/development/fulfillment/#intake-request).
+Anyone can request new items to be added to the roadmap via an [intake request](/handbook/engineering/development/fulfillment/#intake-request).
 
 #### Quarterly cross-functional review
 
 One of our prioritization goals is to maximize overall team output across Fulfillment and cross-functional partners. We want to give transparency to all GitLab team members about the work that Fulfillment and its partner teams plan to deliver.
 
-To enable this, we will do a roadmap review with our [stable counterparts](https://about.gitlab.com/handbook/engineering/development/fulfillment/#stable-counterparts) before the beginning of a new fiscal quarter. As part of this review, we gather feedback on roadmap priorities, update the roadmap based on the feedback, and agree with partners on the scope and delivery milestones for the upcoming 3-6 months.
+To enable this, we will do a roadmap review with our [stable counterparts](/handbook/engineering/development/fulfillment/#stable-counterparts) before the beginning of a new fiscal quarter. As part of this review, we gather feedback on roadmap priorities, update the roadmap based on the feedback, and agree with partners on the scope and delivery milestones for the upcoming 3-6 months.
 
 During these quarterly reviews we will aim to commit up to 70% of Fulfillment’s engineering capacity for the upcoming quarter, and no more than 30% of capacity for the quarter after. This is meant to provide enough visibility into upcoming activities for cross-functional partners to plan for them while leaving room for reprioritization and changes as needed.
 
@@ -880,6 +877,6 @@ Any proposed changes to the roadmap will be first communicated to cross-function
 
 ### Fulfillment Prioritization Escalations
 
-If you have an urgent Fulfillment need that is not being prioritized by Fulfillment's regular prioritization process due to competing priorities, and it is both important and urgent, please work with your division's leadership for escalation. The first step can be an async discussion involving Fulfillment leadership (as of now include [ofernandez2](https://gitlab.com/ofernandez2)). Situations in which competing company-priority projects would need to be reprioritized to accommodate your request may require escalation to GitLab's [e-group](/handbook/company/team/structure/#executives).
+If you have an urgent Fulfillment need that is not being prioritized by Fulfillment's regular prioritization process due to competing priorities, and it is both important and urgent, please work with your division's leadership for escalation. The first step can be an async discussion involving Fulfillment leadership (as of now include [ofernandez2](https://gitlab.com/ofernandez2)). Situations in which competing company-priority projects would need to be reprioritized to accommodate your request may require escalation to GitLab's [e-group](/handbook/company/structure/#executives).
 
 Team members in our Sales and Customer Success groups should escalate first via the [Top ARR Drivers meeting](/handbook/product/product-processes/#top-arr-drivers) for cross-team leadership visibility and prioritization. Simply add your item to the list of asks (link in the meeting agenda) for discussion.

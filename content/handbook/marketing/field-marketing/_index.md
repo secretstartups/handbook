@@ -4,13 +4,6 @@ title: "Field Marketing"
 description: "The role of Field Marketing at GitLab is to work closely with sales to support marketing messages & pipeline building at a regional level through in-person and virtual interactions."
 ---
 
-
-
-
-
-
-
-
 # Field Marketing Mission
 
 The mission of Field Marketing at GitLab is to strategically support the Large, Mid-Market & Public Sector go-to-market teams at **a regional level** through in-person and virtual interactions (quality vs. quantity) as well as serving as the voice of the regional go-to-market teams to the wider marketing team, and being the voice of marketing into the go-to-market teams we support, in order to create, accelerate, and expand the sales pipeline with our direct sellers and partner ecosystem. In alignment with the marketing mission of being New First Order focused, Field Marketing also supports the expand motion with customers.
@@ -33,7 +26,7 @@ We want to be the most innovative and pipeline centric team within the marketing
     - Test out new messaging or positioning
 
 # Countries of Focus
-In alignment with the FY24 Marketing strategy, Field Marketing focuses on specific countries. Details can be found here in our [internal handbook](https://internal.gitlab.com/handbook/marketing/fy24-strategy/#target-markets-and-marketing-prioritization).
+In alignment with the FY25 Marketing strategy, Field Marketing focuses on specific countries. Details can be found here in our [internal handbook](https://internal.gitlab.com/handbook/marketing/fy25-strategy/#target-markets-and-segments).
 
 # Cities of Focus
 
@@ -123,6 +116,10 @@ Remember, an account-centric micro-campaign consists of at least 2 different acc
 When working in GitLab issues and epics, please remember that due to GitLab's value of [Transparency](/handbook/values/#transparency), many of our issues and epics are, by default, public. Best practice is to avoid including any PII or login details in issues and epics directly. If posting details of this nature is a necessity, please remember to always make your [issue](https://docs.gitlab.com/ee/user/project/issues/confidential_issues.html#make-an-issue-confidential) or [epic](https://docs.gitlab.com/ee/user/group/epics/manage_epics.html#make-an-epic-confidential) `Confidential` when doing so. Please also be diligent in your issues and epics regarding comments made by other team members as well. If you notice another team member has posted details that should not remain public, immediately make the [issue](https://docs.gitlab.com/ee/user/project/issues/confidential_issues.html#make-an-issue-confidential) or [epic](https://docs.gitlab.com/ee/user/group/epics/manage_epics.html#make-an-epic-confidential) `Confidential`. Other options to allow our issues to remain public, are including PII in a spreadsheet or document posted in the issue or epic that are only accessible by certain people. If logins need to be shared, please utilize the Marketing Vault in [1Password](password-guidelines#1password).
 
 For more information regarding confidentiality levels and compliancy, please visit [this handbook page](/handbook/communication/confidentiality-levels/).
+
+# [Global Field Marketing Vendor Feedback](https://gitlab.com/groups/gitlab-com/marketing/-/epics/4736)
+
+This feedback epic/spreadsheet is only open to GitLab team members. FMMs and managers to keep details in this spreadsheet regarding both positive and negative experiences with various event vendors for team reference.
 
 # Field Marketing Campaign Issue Templates, Epic Codes and Progression Status
 
@@ -430,8 +427,6 @@ Once the FMM has submitted the Contract Request to their FMC and the remaining a
 
 - FMM pings the FMC in the main Field Marketing issue and requests the FMC move the issue to WIP (FMM keeps issue label `mktg-status::plan`)
 - FMC reviews the Allocadia sub-category and line item panel details, as well as checks that the forecasted cost is in the correct month (according to the [prepaid policy](/handbook/finance/accounting/#prepaid-expense-policy)) for the tactic and makes any changes necessary
-- FMC requests the Allocadia line item ID for the tactic be added to NetSuite in [this spreadsheet](https://docs.google.com/spreadsheets/d/1wBqvCvmou4afnb0p8lBXVvFmsl-j0IehS7GdfJybGzg/edit#gid=518252060) (if not already completed during the contract process)
-- FMC adds the Allocadia line item ID to the Event Details section of the issue, where indicated, as well as checks off the box that the Allocadia ID has been created in NetSuite
 - FMC creates the epic and sub-issues utilizing [this list of epics](/handbook/marketing/field-marketing/#field-marketing-campaign-issue-templates-epic-codes-and-progression-status)
 - FMC creates the [Marketo program and SFDC campaign](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-type--progression-status) utilizing the [Program Tracking](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/program-tracking.md) sub-issue previously created
    - FMC pings the FMM in the Program Tracking issue that the Marketo program and SFDC campaign have been created and closes issue
@@ -543,10 +538,9 @@ The FMC will track all open Marketo LPs and will be responsible for requesting t
 To close the LP registration form, the FMC will re-open the Marketo LP issue and request Marketing Ops follow one of the below processes (depending on campaign type, as Marketo program templates vary across different tactics). In the LP issue, the FMC will request Marketing Ops remove the registration form and will provide Marketing Ops specific verbiage for the top of the LP page. Please see standard verbiage options below. If the event is a workshop that was listed on the demo/workshop page, the FMC will also request Marketing Ops remove the listing. The FMC will update the due date of the issue.
 
 ## If an event has reached capacity
-- The FMC will follow the above instructions to close the LP regisrtation form and update the verbiage to specify the event has reached capacity.
+- The FMC will follow the above instructions to close the LP registration form and update the verbiage to specify the event has reached capacity.
 - If there are remaining invite issues open once registration is closed, the FMC will note this in the issue(s) and close them. If an invite is already scheduled to be sent, the FMC will ask Marketing Ops to unschedule the send before closing the issue. The FMC will update the due date of the issue.
-- The FMC will also re-open the sales nominated issue (if utilized) and request Marketing Ops shut down the sales-nominated daily sends. The FMC will update the due date of the issue.
-- If an intelligent nurture email request was opened, the FMC will ping `@dambrold` in the issue to remove the email from the nurture streams.
+- If a LinkedIn campaign was run, the FMC will request the ABM team close the LinkedIn registration form in their ABM issue.
 - There is no need to remove the event listing from the [Events Page](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents) if an event has reached capacity. Having a sold out event listed could create more excitement over the event and encourage future attendees to register for events sooner.
 
 ## Standard verbiage for closing a Marketo LP after the event has occurred
@@ -973,54 +967,11 @@ It is important to note that there is no limit on link sharing when utilizing th
 1. Once you have the Coupa virtual card information from your FMC, proceed to book/pay for your Pizzatime order via the Pizzatime website.
 1. Provide the payment receipt to your FMC for reference.
 
-# Sourcing New Field Marketing Vendors
-
-Field marketers are always looking for new ways to support the sales teams within their regions and to provide unique, alternative ways to draw potential prospects closer to our company and show value to our current customers in order to expand within those accounts. Field marketers have a vast tool kit of marketing initiatives for precisely that. However, sometimes a gap is identified and field marketers will look to external third party vendors to help fill that gap when it comes to achieving their goals to their marketing metrics.
-
-When souring and selecting a new third-party vendor, there are a few things that should be considered:
-
-1. What are you trying to achieve? What is the gap you have identified? Is it filling the top of the funnel? Building relationships within a specific target audience (i.e. C-Level)? Maybe your goal is delivering on more qualified leads? Be clear on your end goal(s) from the beginning.
-1. Can this vendor achieve your goal? Have the vendor show you proven use cases and references on your specific goals.
-1. Have you sourced more than 1 vendor? A good point of reference is to research at least 2 or 3.
-1. Is this vendor willing to proceed with a pilot program with you? Even with the best intentions, not all 3rd party vendors will fulfill your needs as originally discussed. A pilot program will allow you to try out the vendor and/or their product without requiring a full investment up front.
-1. Identify all of the pieces of the contract. Ensure that you and the 3rd party vendor are aligned on the following:
-    - Cost
-    - Timeline of project
-    - Timeline of onboarding
-    - What is required when it comes to integration - Full Access, No Access or Partial Access
-    - What are your deliverables?
-    - What are their deliverables?
-    - Identify who needs to be trained. What does that training involve?
-    - Who will be the DRI for the project (always have 1 person who will support you during your contract process)?
-    - What is the cost of renewal, or, if you are running a pilot, what is the cost of a full term contract?
-    - If you're running a pilot, what are the goals you have in place to determine if you should invest beyond the pilot phase?
-
-Once you feel confident that you have chosen the right 3rd party vendor, now is the time to begin the following review process.
-
-# Software Vendor/Product Approval Process
-
-1. FMM and FMC to review the [Procurement Handbook Page](/handbook/finance/procurement/#when-should-i-contact-procurement) so you are familiar with the procurement process and lead times. Please be aware of the [SLAs](/handbook/finance/procurement/#-how-long-does-it-take-to-approve-my-coupa-purchase-request) for processing all reviews, approvals and contract negotiations. Note that if the overall cost of the product is over $100k, 2-3 comparison bids are required.
-1. FMM to open a Field Marketing issue and detail out the justification for the potential new vendor/product. Include any presentations, slides and demos that have been provided to help explain the product. Tag your regional manager in the issue to review and discuss. Approval must be received to move forward. Make sure to attach all of the following issues to your main Field Marketing Issue for easy access.
-1. FMM to open a [Contract Request](/handbook/marketing/field-marketing/#field-marketing-contract-requests) issue and assign to the regional FMC.
-    - SLA for FMC to complete the Contract Request issue is 3 business days from the date all needed info is filled out by the FMM in the Contract Request issue. FMM to leave a note if turnaround is urgent (FMCs have been averaging 1-2 business days currently).
-1. FMC to process an NDA with the vendor, specified in the procurement handbook [here](/handbook/legal/procurement-guide-collaborating-with-gitlab-legal/#nda-process). Remember to attach your executed NDA when opening your Zip requisition in the steps below.
-1. If you're requesting a new tool, FMM to open a Marketing Ops Eval issue. Marketing Ops will help evaluate the product and will assist in the procurement process. They will also help you determine if an integration is required with any products in our current tech stack and if so, which team will be the DRI for the integration.
-1. FMC to follow [these instructions](/handbook/business-technology/enterprise-applications/guides/zip-guide) for opening a Zip requisition. Please note that you can submit the Zip requisition even before a contract has been provided. This template details the following approvals:
-    - NDA requirement
-    - Privacy review (if applicable)
-    - Security review
-    - Tech stack request (for new software purchases)
-1. If you're requesting a new tool, and if the new product requires integration with any of our existing products (SFDC, Marketo, Outreach, etc.) FMC to open an integration request issue with the appropriate team (see step above where the Marketing Ops team will help determine). Integration will not begin until all approvals are final and the contract has been fully executed, but opening the integration issue early will give the appropriate team advance notice for planning.
-
 # AMER Field Marketing Event Venue Tracking
 
 The below epic is for tracking venues we would like to utilize for future events, or as a way to evaluate event venues we have already worked with to note the pros and cons of various event space across different regions.
 
 - [AMER Field Marketing Event Venues Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/625)
-
-# Field Marketing Contract Requests
-
-In Field Marketing, the FMCs manage all [Zip requisitions](/handbook/business-technology/enterprise-applications/guides/zip-guide) for their regions. For contracts or invoices ready to submit for approval, the FMM will open an issue utilizing the [`Contract_Request`](https://gitlab.com/gitlab-com/marketing/field-marketing/issues/new?issuable_template=Contract_Request) template and follow the instructions to provide important details required before assigning to the regional FMC. SLA for FMC to complete the Contract Request issue is 3 business days from the date all needed info is filled out by the FMM in the Contract Request issue. FMM to leave a note if turnaround is urgent (FMCs have been averaging 1-2 business days currently).
 
 # Corporate Memberships Owned by GitLab Field Marketing
 
@@ -1055,7 +1006,7 @@ In Field Marketing, the FMCs manage all [Zip requisitions](/handbook/business-te
 
 **NOTE:** to see the full list of events, you need to be logged into your GitLab account. There are times we make issues private.
 
-To find out what upcoming events GitLab will be involved in please visit our [Events Page](/events/).
+To find out what upcoming events GitLab will be involved in please visit our [Events Page](https://about.gitlab.com/events/).
 
 For details on how we handle events please visit the [GitLab Event Information](/handbook/marketing/events/) page.
 
@@ -1086,13 +1037,13 @@ A standard deck will also be used to ensure consistency across the world in term
 
 The SSOT of the plan remains in GitLab on our [various issue boards](/handbook/marketing/field-marketing/#whats-currently-scheduled-in-my-region).
 
-- [FY24 Standard deck](https://docs.google.com/presentation/d/1-dscjXd0g-t9RmaWcgBACFb4pCp7wNlo6uRSpd55cb8/edit?usp=sharing).
+- [FY25 Standard deck](https://docs.google.com/presentation/d/1RtQuOE-mYoVUBygIihJlUvtZqUOhwIco9_xGv3ou17k/edit#slide=id.g1287bf62b57_0_209).
     - Note: The deck is additive. You are only responsible for completing the slides that are due for the quarter we are in.
     - As the slides are due one (1) month before the end of the quarter.
     - The completed deck should be stored in your correct regions [shared folder](https://drive.google.com/drive/folders/1xtePKOl4RSINaPPr3InQNisYTQyOJ5JE). Anyone within GitLab has access to search and find this folder.
 
-## Field Marketing QBRs
-Shortly following the day that the regional plans are due, each region will hold its own QBR. The regional Manager of Field Marketing will be responsible for setting up this meeting and inviting the necessary team members. The point of the QBR is for the Field Marketing Manager to share their qtrly long plans with their SDR Manager colleagues, Field Marketing colleagues, and Field Marketing Leadership. This time together is meant to be informative and also educational to all who are attending.
+## Regional Marketing QBRs
+Shortly following the day that the regional plans are due, each region will hold its own QBR. The regional Manager of Marketing will be responsible for setting up this meeting and inviting the necessary team members. The point of the QBR is for the Field & Channel Marketing Managers to share their qtrly long plans with their SDR Manager colleagues, Field Marketing colleagues, and Field Marketing Leadership. This time together is meant to be informative and also educational to all who are attending.
 
 This deck should also be used to present the regional plans to the sales teams.
 
@@ -1112,11 +1063,11 @@ This deck should also be used to present the regional plans to the sales teams.
 | Anyone else the Manager of FMM REGION deems necessary |
 
 ## Next Steps after Quarterly  plans are complete
-In an effort to share the FMM team plans with the rest of the marketing team, the below steps will be followed.
+In an effort to share the regional marketing team's plans with the rest of the marketing team, the below steps will be followed:
 
 ### [Marketing SSOT calendar](/handbook/marketing/#marketing-calendar)
 
-Within two days of the FMM plan being [locked by Finance](/handbook/finance/financial-planning-and-analysis/marketing-finance/#important-dates) in Allocadia, the WW Field & Channel Marketing Director will download the team's plans from Allocadia and will upload to the shared [marketing calendar](/handbook/marketing/#marketing-calendar).
+Within two days of the plan being [locked by Finance](/handbook/finance/financial-planning-and-analysis/marketing-finance/#important-dates) in Allocadia, the Sr. Director, Regional Marketing will download the team's plans from Allocadia and will upload to the shared [marketing calendar](/handbook/marketing/#marketing-calendar).
 
 In order to ensure the formulas carry over properly, the download from Allocadia will need to be cleaned, similiar to how we clean our leads for list upload.
 
@@ -1124,10 +1075,9 @@ The [Calendar cleaner spreadsheet](https://docs.google.com/spreadsheets/d/19XsjD
 
 [Video walk through on how to clean.](https://youtu.be/xiABH1Gjkw4) *on GitLab Unfiltered.
 
-After the initial pull, the FMMs are responsible for adding any new tactics for the quarter. The FMCs will handle adjusting the existing tactics in the SSoT calendar based on the event [rescheduling or cancellation guidelines](/handbook/marketing/field-marketing/#rescheduling-or-cancelling-events).
+After the initial pull, the regional marketers are responsible for adding any new tactics for the quarter if we are mid-quarter.
 
-### Channel plans
-All plans with the various channel partners can be found within the [marketing calendar](/handbook/marketing/#marketing-calendar).
+The FMCs (for FMM) and the Channel Marketing Programs Manager (for the CMMs) will handle adjusting the existing tactics in the SSoT calendar based on the event [rescheduling or cancellation guidelines](/handbook/marketing/field-marketing/#rescheduling-or-cancelling-events).
 
 ### Asks into Digital Campaigns
 Details on how Field Marketing shares quarterly plans with the Digital team can be [found here](/handbook/marketing/integrated-marketing/digital-strategy/digital-strategy-management/).
@@ -1135,7 +1085,6 @@ Details on how Field Marketing shares quarterly plans with the Digital team can 
 ### Asks into Product Marketing
 ~~By the 15th of the 3rd month of the quarter, all asks for the Portfolio Marketing team for the upcoming quarter should be opened up for their review. Following their process outlined here. It's the responsibility of each FMM to ensure their asks are in by this time. The ~Field Marketing label must be added to the request in order for the PM team to review. We will use [this list](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues?label_name%5B%5D=Field+Marketing&label_name%5B%5D=sm_request&scope=all&sort=due_date&state=opened&utf8=%E2%9C%93) to review.~~
 
-This section is WIP as we have new team members and will need to build a new process.
 
 #### Asks into the Customer Reference team
 After the quarterly FMM plans have been added to the [marketing calendar](/handbook/marketing/#marketing-calendar), the regional Manager of FMM will set up an alignemnt meeting with the Director of Market Strategy & Insights. The regional FMMs as well as the regional customer reference manager should also be invited to this meeting. During this meeting, the team will review asks into the [Customer reference team](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/) and agree on asks for the quarter.
@@ -1152,17 +1101,19 @@ After the quarterly FMM plans have been added to the [marketing calendar](/handb
 
 You will note in Allocadia in the details panel if you need SA support. [Video walk through](https://youtu.be/VYwBXmpJrDg) (you must be logged into GitLab Unfiltered to view.)
 
-# Field Marketing/Channel Marketing Engagement and GTM Strategy
+# Field Marketing/Channel Marketing Engagement
 
-WIP TO BE UPATED based on FY24.
+We know and understand the importance of working with our channel partners in region to help build pipeline, and ultimately contribute to closed won business. Jointly with their regionally algined Channel Marketing Manager & Field Sales teams, Field Marketers should be thinking about which partners will help their sales teams build pipeline in the region and include them in their campaigns. 
 
-The complete list of Select Channel Partners are identified in SFDC [here](https://gitlab.my.salesforce.com/00O4M000004aSq6). (*Please note, SFDC is the SSOT for our roster of Select Partners.)
+#### The Field Marketing team will work with channel partners that have successfully:
 
+1. Executed at least 3 MDF campaigns in the last 12 months - achieving ROI of 10 x Pipe 2 Spend and targeted # of DRs  
+1. Booked business threshold. 
+    * Please revivew the internal handbook for the [required threshold of business booked](https://internal.gitlab.com/handbook/marketing/integrated-marketing/#threshold-of-booked-business).
 
-In order for a GitLab Partner to reach Select status, the Select Partner must:
-- Have a fully executed Partner contract in place
-- Have been fully onboarded/enabled and certified for both sales and technical ability to adequately represent GitLab
-- Have a working business plan (developed with the GitLab CAM) for the next 2 quarters (at minimum) that clearly outlines what and where the Select partner will be focusing in on (e.g., what kind of practices will they be standing up: DevOps, DevSecOps, GitOps, etc., market segment, vertical industry, geographic territory if applicable.)
+The Channel Marketing Manager is responsible for keeping track of which partners fall within this category and will support the FM campaign DRI as the link between channel partner and us to ensure a smooth campaign execution on both sides. 
+
+The complete list of Marketing Channel Partners are identified in SFDC [here](https://gitlab.my.salesforce.com/00OPL0000002muz). 
 
 ## FMM/CAM alignment
 
@@ -1172,36 +1123,42 @@ In order for a GitLab Partner to reach Select status, the Select Partner must:
 | AMER South Central & LATAM | Jonathan Santiago | Rodrigo Rios - LATAM and Joe McAninch - Central |
 | AMER North Central | Julie Wyatt | Joe McAninch - Central |
 | AMER Southwest & Northwest | Lisa Rom | TBD |
-| AMER Public Sector | Kira Aubrey & Haley McComber | Chris Novello|
+| AMER Public Sector | Kira Aubrey | Chris Novello|
 | APAC | Kate Baker | Dirk de Vos |
 | APAC - Japan | Shu Kawaguchi |  |
 | EMEA Southern Europe | Marcus Hall (Juliette Francon on Mat Leave) | Tristan Ouin |
-| EMEA MEA | Marcus Hall (Juliette Francon on Mat Leave) | Matthew Coughlan |
+| EMEA MEA | Marcus Hall (Juliette Francon on Mat Leave) | TBD |
 | EMEA Northern Europe | Neha Pujari| Michal Kulakowski |
-| EMEA UK/I | Neha Pujari | Matthew Coughlan |
+| EMEA UK/I | Neha Pujari | TBD |
 | EMEA Central Europe | Sarina Kraft | Ilaria Pazienza |
 | EMEA CEE | Sarina Kraft | Ilaria Pazienza |
 
 ## Field Marketing initiated and funded campaigns
 
-Jointly with their regionally algined CAM, Field Marketers should be executing 50% of their in region campaigns with Select level regional partners. The primary goal of this activity is to convert MQLs to PSOs.
+Once the partner has reached the threshold, the Channel Marketing Manager will collaborate with the Field Marketing Manager on planning and next steps. 
 
-In order for FMM to engage in lead generation activity, the CAM needs to fill out the [Channel Lead Gen request issue template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Channel_LeadGen_Req).
+Suggested process: 
+1. Identify region/area where there is a pipeline need  
+1. Develop partner campaign objectives and set goal. Set up recurring biweekly cadence with partner, CMM, GitLab sales and FMM to keep planning and campaign action items on track
+1. Agree to campaign tactics and persona targets, develop budget request and expected outcomes in the form of Deal Registrations 
+1. Ensure that you know and understand who/what each team is bringing to the campaign.
+   * If there is an invitaion involved, ensure that both companies have [UTM tracking links](/handbook/marketing/utm-strategy/) to know who has driven who to the event so you all can stay aligned and ensure proper follow ups are taking place. 
 
-Detailed planning process is [outlined here](/handbook/marketing/channel-marketing/#6-month-planning-cycle-channel-marketing-managers). Week by week details can be [found here](https://docs.google.com/spreadsheets/d/1zCdPuLz5EhpM2s1thAGW8uZ785QwmdbE5z56cq59ZXo/edit#gid=0&range=A1).
+Note: The Channel Partner Enablement team is the DRI to make sure each Partner is fully enabled prior to FMM engagement. FMMs should not be involved in any channel enablement.
 
-Note: The Channel Partner Enablement team is the DRI to make sure each Select Partner is fully enabled prior to FMM engagement. FMMs should not be involved in any channel enablement.
+### Funding joint Marketing
 
-Select Partner marketing activities can be:
+Campaigns with partners can be: 
 - Fully funded by FMM budget
-- Funded jointly by FMM budget and Select Partner
-- Funded jointly by FMM, GitLab MDF (see [MDF process](/handbook/marketing/channel-marketing/#requesting-mdf-funds)) and Select Partner
+- Funded jointly by FMM budget and Partner budget 
 
-### Sample types of activities to engage with Select Partners
+We cannot use GitLab MDF dollars to fund joint campaings. 
+
+### Sample types of activities to engage with partners
 
 - Workshops
 - Webcast / Lunch and Learn programs
-- Account Acceleration Programs
+- Account Acceleration Programs such as executive roundtables
 - Direct Mail Programs
 - Surveys
 
@@ -1213,26 +1170,10 @@ All campaigns we are working with channel partners must flow through the outline
 
 ### Tracking success of FMM campaigns with Channel
 
-Please refer to the [Field Marketers within SFDC](/handbook/marketing/field-marketing/#field-marketers-within-sfdc) section.
+Please refer to the [Marketing Performance handbook](/handbook/marketing/strategy-performance/marketing-metrics/#back-up-sfdc-pipeline-reports) for additional information.
 
 ### Useful Fields in SFDC that relate to Vartopia
 1. Please refer to [this handbook page](/handbook/marketing/marketing-operations/vartopia/#partner-prospect-admin) for further details.
-
-### Channel Program
-The below list is not exhaustive.
-
-1. Manage/create SPIFFs
-1. Manage Partner Advisory Boards
-1. Set up MDF program
-1. Manage the updates of the handbook
-1. Operationally Manages Channel Partner Portal
-
-If you are a FMM receiving requests to add a partner logo to our website, then please direct the CAM or partner to Channel Marketing.
-
-If you are a FMM receiving questions about the Channel Portal, then please direct the CAM or partner to Channel Programs.
-
-Please head over to [their page](/handbook/marketing/channel-marketing/) to check out their work and process.
-For more details on what the Channel Programs team does, please head to their [page](/handbook/sales/channel/).
 
 # Field Marketing with Alliance Partners
 ## AWS
@@ -1245,6 +1186,8 @@ For more details on what the Channel Programs team does, please head to their [p
 ## Charitable Donations for Event Attendance
 
 As incentive for attending an event, GitLab can promote and process a monetary donation per participant to a charitable organization. For example: GitLab promotes a $25 donation per attendee for attending an event, 100 attendees participate in the event and GitLab donates $2,500 to the selected charity. **Please Note**: Donations are not to be made in a participant's name or reference a participant's organization.
+
+All GitLab donations to charitable organizations must follow the [Philanthropy Approval Process](/handbook/legal/esg/#philanthropic-requests).
 
 ## PubSec FMM Calendar share
 In alignment with the PubSec team's [process to lock down shared data](https://gitlab.com/gitlab-com/customer-success/okrs/-/issues/150) that is accessible to teams outside of our US PubSec team - (will link to handbook page once its been created!) the Public Sector Field Marketing Managers, by default, will mark their calendar details as private. Google calendar [has a feature](https://support.google.com/calendar/answer/37082?hl=en#zippy=%2Cunderstand-permission-settings-for-shared-calendars%2Cstop-sharing-your-calendar-publicly-with-your-organization-or-with-specific-people) that allows you to share your calendar with individuals once its been marketed as private and at a minimum, the FMM team member should share their calendar with both their direct manager as well as their aligned Field Marketing Specialist, pending those people are US Citizens.
@@ -1302,7 +1245,7 @@ To provide opportunities for discussion, education and community building for in
 1. Contributing: Continue to support the growth and transformation of DevOps within the technical community
 
 ### Code of Conduct
-To ensure a positive experience we will adhere to the GitLab code of conduct [found here](/community/contribute/code-of-conduct/)
+To ensure a positive experience we will adhere to the GitLab code of conduct [found here](https://about.gitlab.com/community/contribute/code-of-conduct/)
 
 ### Boilerplate Verbiage
 Join us as we build a community of GitLab users within Government and Education where peers can share best practices, connect with public sector GitLab Team members and collaborate on how to best serve the public sector.
@@ -1558,11 +1501,10 @@ The Field Marketing team works from issues and issue boards. If you need our ass
 - `AMER - CIV`: AMER Civilian tactics
 - `AMER - SLED`: AMER SLED tactics
 - `AMER - NSP`: AMER National Security tactics
-- `FMS AMER NE/SE/PubSec`: Issues that the FMS AMER NE/SE/PubSec is actively working
-- `FMS AMER NE/SE/PubSec - Tracking`: FMS AMER NE/SE/PubSec issue tracking
-- `FMS AMER NE/SE/PubSec - Swag`: FMS AMER NE/SE/PubSec tracking for swag and event assets
-- `FMS AMER NE/SE/PubSec - WS/WC`: FMS AMER NE/SE/PubSec task tracking for workshops and webcasts
-- `FMS AMER NE/SE/PubSec - Contracts`: FMS AMER/NE/SE/PubSec task for tracking contract requests
+- `FMS AMER`: FMS AMER general requests
+- `FMS AMER - Tracking`: FMS AMER event tracking
+- `FMS AMER - Swag`: FMS AMER swag requests
+- `FMS AMER - Contracts`: FMS AMER contract requests
 - `FMC AMER East-Central/West`: Issues that the FMC East-Central/West is actively working
 - `FMC AMER East-Central/West - Contracts`: FMC East-Central/West task for tracking contract requests
 - `FMC AMER East-Central/West - WS/WC`: FMC East-Central/West task tracking for workshops and webcasts
@@ -1608,6 +1550,65 @@ Field Marketing manages its budget in [Allocadia](/handbook/marketing/strategy-p
 
 Please note that there is a limit of $75 USD annually per person on customer speaker gifts.
 
+# Field Marketing and the Procurement Process
+
+## Field Marketing Contract Requests
+
+In Field Marketing, the FMCs manage all [Zip requisitions](/handbook/business-technology/enterprise-applications/guides/zip-guide) for their regions. For contracts or invoices ready to submit for approval, the FMM will open an issue utilizing the [`Contract_Request`](https://gitlab.com/gitlab-com/marketing/field-marketing/issues/new?issuable_template=Contract_Request) template and follow the instructions to provide important details required before assigning to the regional FMC. SLA for FMC to complete the Contract Request issue is 3 business days from the date all needed info is filled out by the FMM in the Contract Request issue. FMM to leave a note if turnaround is urgent (FMCs have been averaging 1-2 business days currently).
+
+## Field Marketing Procurement Details
+
+[The Field Marketing Contract Request Template](https://gitlab.com/gitlab-com/marketing/field-marketing/issues/new?issuable_template=Contract_Request) noted above has detailed information regarding numerous aspects of the procurement process. Please make sure to reference this template with any questions. If you have any additional concerns or special cases not covered in the template's details, please reach out to your FMC to discuss in advance of submitting your contract request.
+
+## Sourcing New Field Marketing Vendors
+
+Field marketers are always looking for new ways to support the sales teams within their regions and to provide unique, alternative ways to draw potential prospects closer to our company and show value to our current customers in order to expand within those accounts. Field marketers have a vast tool kit of marketing initiatives for precisely that. However, sometimes a gap is identified and field marketers will look to external third party vendors to help fill that gap when it comes to achieving their goals to their marketing metrics.
+
+When souring and selecting a new third-party vendor, there are a few things that should be considered:
+
+1. What are you trying to achieve? What is the gap you have identified? Is it filling the top of the funnel? Building relationships within a specific target audience (i.e. C-Level)? Maybe your goal is delivering on more qualified leads? Be clear on your end goal(s) from the beginning.
+1. Can this vendor achieve your goal? Have the vendor show you proven use cases and references on your specific goals.
+1. Have you sourced more than 1 vendor? A good point of reference is to research at least 2 or 3.
+1. Is this vendor willing to proceed with a pilot program with you? Even with the best intentions, not all 3rd party vendors will fulfill your needs as originally discussed. A pilot program will allow you to try out the vendor and/or their product without requiring a full investment up front.
+1. Identify all of the pieces of the contract. Ensure that you and the 3rd party vendor are aligned on the following:
+    - Cost
+    - Timeline of project
+    - Timeline of onboarding
+    - What is required when it comes to integration - Full Access, No Access or Partial Access
+    - What are your deliverables?
+    - What are their deliverables?
+    - Identify who needs to be trained. What does that training involve?
+    - Who will be the DRI for the project (always have 1 person who will support you during your contract process)?
+    - What is the cost of renewal, or, if you are running a pilot, what is the cost of a full term contract?
+    - If you're running a pilot, what are the goals you have in place to determine if you should invest beyond the pilot phase?
+
+Once you feel confident that you have chosen the right 3rd party vendor, now is the time to begin the following review process.
+
+### Working with vendors that are brand new
+New vendors are popping up frequently and in the spirit of iteration and testing, the Field Marketing team at time may want to engage with a vendor that is brand new to the space (remember, at one point in time way back in 2011, GitLab the company was brand new too!). You should work with your leader to assess these opportunties. To ensure we are protecting our own company, you should follow these steps when working with a brand new vendor:
+
+1.  If contacted via social media or other manner by an unknown individual and/or individual(s) related to an event, review all event/program materials, including a detailed review of the organizers website to confirm past events. In addition, review various social media materials.
+1. If an event is unknown, new or first time, the Team Member can engage with Alliance and Channel Team Members to gather feedback on the events organizer and ensure value, use your netowrk internally and ask around if folks know this vendor.
+- Where applicable, request details and documentation related to previous event(s) hosted by the organizer.
+- In situations where an organizer is hosting an inaugural event, Team Members can ask for other partners / sponsors who are participating, and receive direct confirmation from the event space host (e.g, hotel).
+- In situations with first events, the field marketing team can engage the GitLab Legal Team for additional review.
+- [Video walk through](https://youtu.be/Ao-HUl15c1A) with our legal team outlining this process can be found on GitLab Unfiltered.
+
+## Software Vendor/Product Approval Process
+
+1. FMM and FMC to review the [Procurement Handbook Page](/handbook.gitlab.com/handbook/finance/procurement/) so you are familiar with the procurement process and lead times. Please be aware of the SLAs listed in the [Procurement Process](/handbook.gitlab.com/handbook/finance/procurement/#the-procurement-process) for processing all reviews, approvals and contract negotiations. Note the [bid process](/handbook/finance/procurement/#how-to-start-the-procurement-process) based on thresholds as well.
+1. FMM to open a Field Marketing issue and detail out the justification for the potential new vendor/product. Include any presentations, slides and demos that have been provided to help explain the product. Tag your regional manager in the issue to review and discuss. Approval must be received to move forward. Make sure to attach all of the following issues to your main Field Marketing Issue for easy access.
+1. FMM to open a [Contract Request](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Contract_Request) issue and assign to the regional FMC.
+    - SLA for FMC to complete the Contract Request issue is 3 business days from the date all needed info is filled out by the FMM in the Contract Request issue. FMM to leave a note if turnaround is urgent (FMCs have been averaging 1-2 business days currently).
+1. FMC to process an NDA with the vendor, specified in the procurement handbook [here](/handbook/finance/procurement/#documentation). Remember to attach your executed NDA when opening your Zip requisition in the steps below.
+1. If you're requesting a new software tool, FMM to open a [Marketing Ops Tools Eval issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=tools_eval). Marketing Ops will help evaluate the product and will assist in the procurement process. They will also help you determine if an integration is required with any products in our current tech stack and if so, which team will be the DRI for the integration.
+1. FMC to follow [these instructions](/handbook/business-technology/enterprise-applications/guides/zip-guide/) for opening a Zip requisition. Please note that you can submit the Zip requisition even before a contract has been provided. This template details the following approvals:
+    - NDA requirement
+    - Privacy review (if applicable)
+    - Security review
+    - Tech stack request (for new software purchases)
+1. If you're requesting a new tool, and if the new product requires integration with any of our existing products (SFDC, Marketo, Outreach, etc.) FMC to open an integration request issue with the appropriate team (see step above where the Marketing Ops team will help determine). Integration will not begin until all approvals are final and the contract has been fully executed, but opening the integration issue early will give the appropriate team advance notice for planning.
+
 # Field Marketing and Legal
 
 ## Legal Approvals
@@ -1619,16 +1620,6 @@ It should be a rare occasion (and not a result of poor planning), that a contrac
 ## Sweepstakes
 
 Field Marketing follows the legal team's process [here](/handbook/legal/marketing-collaboration/#promotional-games) for contests and sweepstakes.
-
-## Working with vendors that are brand new
-New vendors are popping up frequently and in the spirit of iteration and testing, the Field Marketing team at time may want to engage with a vendor that is brand new to the space (remember, at one point in time way back in 2011, GitLab the company was brand new too!). You should work with your leader to assess these opportunties. To ensure we are protecting our own company, you should follow these steps when working with a brand new vendor:
-
-1.  If contacted via social media or other manner by an unknown individual and/or individual(s) related to an event, review all event/program materials, including a detailed review of the organizers website to confirm past events. In addition, review various social media materials.
-1. If an event is unknown, new or first time, the Team Member can engage with Alliance and Channel Team Members to gather feedback on the events organizer and ensure value, use your netowrk internally and ask around if folks know this vendor.
-- Where applicable, request details and documentation related to previous event(s) hosted by the organizer.
-- In situations where an organizer is hosting an inaugural event, Team Members can ask for other partners / sponsors who are participating, and receive direct confirmation from the event space host (e.g, hotel).
-- In situations with first events, the field marketing team can engage the GitLab Legal Team for additional review.
-- [Video walk through](https://youtu.be/Ao-HUl15c1A) with our legal team outlining this process can be found on GitLab Unfiltered.
 
 
 # Field Marketing Communications
@@ -1731,9 +1722,6 @@ Account based marketing is separate but sits next to field marketing. For info o
 ## FMM 6sense Use Cases and set up
 Field Marketing use cases are being migrated from Demandbase to 6sense. More info can be found on the [6sense Handbook page.](/handbook/marketing/marketing-operations/6sense/)
 
-# Field Marketing during COVID-19 Pandemic
-The health and safety of our team members continue to be a top priority.  If you are a Marketer who is planning on attending an event, please follow instructions listed in our [Policy & Guidelines](/handbook/travel/#policy-and-guidelines) section.
-
 # Tiers of support from Field Marketing for Corporate lead events
 In an effort to support the events the corporate marketing team runs, Field Marketing will rank the shows on an annual basis that corporate marketing runs.
 
@@ -1745,18 +1733,19 @@ Field Marketing will:
 1. Be onsite to support the event as needed
 1. Participate in Corporate Events lead stakeholder calls
 
-### FY24 Tier 1
+### FY25 Tier 1
 1. AWS re:Invent
 1. Gartner Application Summits - AMER, EMEA, APAC
 1. Gartner Security Summit - AMER
+1. Google NEXT 
 
 ## Tier 2
 Field Marketing will:
-1. Evangelize the event is taking place with all regional sales teams, but will have no specific ask of the sales team or
+1. Evangelize the event is taking place with all regional sales teams, but will have no specific ask of the sales team
 1. Will not be on onsite to support the event.
 
-### FY24 Tier 2
-1. KubeCon EU/US
+### FY25 Tier 2
+1. KubeCon US
 1. Black Hat US
 
 # Deprecated handbook content

@@ -10,19 +10,19 @@ job: "Director of Contributor Success"
  - [GitLab profile](https://gitlab.com/nick_vh)
  - [LinkedIn profile](https://www.linkedin.com/in/nickveenhof/) 
  - [Twitter](https://twitter.com/Nick_vh)
- - [Function profile](https://handbook.gitlab.com/job-families/marketing/developer-relations/contributor-success/management/#director-contributor-success)
+ - [Function profile](/job-families/marketing/developer-relations/contributor-success/management/#director-contributor-success)
 
 ## About me
 
-Hi! I started with GitLab in April, 2022 as a [Servant leader](https://handbook.gitlab.com/job-families/engineering/development/management/#requirements) (Director of Contributor Success) in the area of 
-[Contributor Success](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/).
+Hi! I started with GitLab in April, 2022 as a [Servant leader](/job-families/engineering/development/management/#requirements) (Director of Contributor Success) in the area of 
+[Contributor Success](/handbook/marketing/developer-relations/contributor-success/).
 I live in [Ghent, Belgium](https://en.wikipedia.org/wiki/Ghent)  and my primary 
 operating hours are [9 AM to 5:30 PM (CEST)](https://www.timeanddate.com/worldclock/belgium/ghent).
 
 ## Coffee Chat topics
 
 If you're reading this, you might be trying to find things we can talk about 
-for a [coffee chat](https://about.gitlab.com/company/culture/all-remote/informal-communication/#coffee-chats) or 1:1. 
+for a [coffee chat](/handbook/company/culture/all-remote/informal-communication/#coffee-chats) or 1:1. 
 
 Here's a bunch of topics I'll be happy to talk about: 
 
@@ -115,7 +115,7 @@ I can't get there on my own!
 * [What got you here, won't get you there](https://www.amazon.com/What-Got-Here-Wont-There-ebook/dp/B000Q9J128)
 * [The art of doing twice the work in half the time](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X)
 
-There is also a [good book list in our handbook](https://about.gitlab.com/handbook/leadership/#books) if you are looking for more suggestions.
+There is also a [good book list in our handbook](/handbook/leadership/#books) if you are looking for more suggestions.
 
 ## Where do I work
 

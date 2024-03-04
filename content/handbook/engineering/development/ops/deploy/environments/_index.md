@@ -1,22 +1,14 @@
 ---
-
 title: Environments Group
 description: "The Environments group is responsible for the Environments in the Deploy stage of the DevOps lifecycle."
 ---
 
-
-
-
-
-
-
-
 ## Vision
 
-For an understanding of where this team is going, take a look at [the product](/direction/delivery/)
+For an understanding of where this team is going, take a look at [the product](https://about.gitlab.com/direction/delivery/)
 vision.
 
-As a member of the Ops Sub-department, you may also like to understand [our](/direction/ops/)
+As a member of the Ops Sub-department, you may also like to understand [our](https://about.gitlab.com/direction/ops/)
 overall vision.
 
 ## Mission
@@ -32,13 +24,13 @@ overall vision.
 
 ## Team Members
 
-<%= direct_team(manager_slug: 'nicolo-maria-mezzopera') %>
+{{< team-by-manager-slug "nicolo-maria-mezzopera" >}}
 
 ## Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /[,&] Deploy:Environments/, manager_slug: 'nicolo-maria-mezzopera') %>
+{{< stable-counterparts role="Deploy:Environments" manager="nicolo-maria-mezzopera" >}}
 
 ## Common Links
 
@@ -56,11 +48,25 @@ Some dedicated Slack channels:
 
 ## Insights
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "environments" } %>
+{{< tableau height="600px" toolbar="hidden" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/TopEngineeringMetrics/TopEngineeringMetricsDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="environments" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/MergeRequestMetrics/OverallMRsbyType_1" >}}
+  {{< tableau/filters "GROUP_LABEL"="environments" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/Flakytestissues/FlakyTestIssues" >}}
+  {{< tableau/filters "GROUP_NAME"="environments" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/SlowRSpecTestsIssues/SlowRSpecTestsIssuesDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="environments" >}}
+{{< /tableau >}}
 
 ## Processes
 
-### Acronyms 
+### Acronyms
 
 - Engineers: All the Engineers of the Environments group
 - Engineering: Engineers and the Engineering Manager
@@ -71,7 +77,9 @@ Some dedicated Slack channels:
 - UX/PD: User Experience Designer
 - TW: Technical Writer
 
-### Team Meetings
+### Meetings
+
+#### Environments Team Meeting
 
 We have one team meeting each week. The time alternates every week to accommodate APAC/EMEA and EMEA/AMER. The purpose of this meeting is to share information about the ongoing projects. It also contains general announcements that are important for collaboration.
 
@@ -81,7 +89,7 @@ Meeting format:
 - We wait 1 or 2 minutes for the team members who want to join and then start recording when ready.
 - During recording, we go over each point in the document.
 - Anyone can facilitate the discussion. If the EM or PM is there, they will kick things off.
-- If the author of the current point being discussed is available, they can verbalize their point. 
+- If the author of the current point being discussed is available, they can verbalize their point.
 - A short discussion may occur around each point, taking into consideration that we want to get through as much of the document as we can.
 - All team members are welcome and encouraged to help take notes in the document while the discussion takes place.
 - After we get through all the points, we stop recording.
@@ -89,22 +97,25 @@ Meeting format:
 
 If the meeting for the week has already taken place and you would like to add a new item for discussion, create a new section for the next meeting date above the last one and add your item.
 
-### Team issue tracker
+#### Frontend, Go and Ruby Meetings
 
-- We use [team issues tracker](https://gitlab.com/gitlab-org/ci-cd/deploy-stage/environments-group/general/-/issues) for internal discussions such as: milestone planning issues, events planning, etc...
-- We also use a [special project](https://gitlab.com/gitlab-org/ci-cd/deploy-stage/environments-group/info/-/issues) for [Ops Section Async Updates](engineering/development/ops/#async-updates-no-status-in-meetings).
-- These issues are [public by default](/handbook/values/#public-by-default), but can be confidential.
+These are optional meetings on the team calendar. Everyone on the team is welcome. They are prioritized
+to be at a time where as many of the engineers who work primarily on the corresponding topics can attend.
 
-### Issue refinement
+These meetings are not too formal and also provide time for the engineers across
+time zones to discuss ongoing projects, ask questions, pair up, and catch up. We go through any
+agenda items first.
 
-Every week the [refinement bot](https://gitlab.com/gitlab-org/ci-cd/deploy-stage/environments-group/refinement) assigns a team member as the refinement DRI, who is responsible for refining **some issues from the top of the `~"workflow::refinement"` list** (the list is prioritised top to bottom) in the [Milestone Board](#milestone-board) **and another issue of their choice** with a ping to the EM and/or PM explaining the reasoning.
+Meeting Links:
 
-The refinement process is described in the [issue template](https://gitlab.com/gitlab-org/ci-cd/deploy-stage/environments-group/refinement/-/blob/main/templates/default.erb).
+- Frontend: [Frontend ChitChat](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MDE2OWkwamdtOG45aDFjdWFlNHY0aWVhYTFfMjAyNDAxMjNUMTUzMDAwWiBnaXRsYWIuY29tX2tuYWlmZjdiY3BnM3FrcXJ1YmRrZjRpdjEwQGc&tmsrc=gitlab.com_knaiff7bcpg3qkqrubdkf4iv10%40group.calendar.google.com&scp=ALL)
+- Go: [It's time to Go !!!](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=ZGJvaDFvZDBmM3FrcnIyaWJ2NXAyNmw3NG1fMjAyNDAxMjRUMTAwMDAwWiBnaXRsYWIuY29tX2tuYWlmZjdiY3BnM3FrcXJ1YmRrZjRpdjEwQGc&tmsrc=gitlab.com_knaiff7bcpg3qkqrubdkf4iv10%40group.calendar.google.com&scp=ALL)
+- Ruby: [Ruby Chat](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MnRxYWtwM2xkNWdxdDMwbjhuaHNydDQ0cnRfMjAyNDAxMjNUMjMwMDAwWiBnaXRsYWIuY29tX2tuYWlmZjdiY3BnM3FrcXJ1YmRrZjRpdjEwQGc&tmsrc=gitlab.com_knaiff7bcpg3qkqrubdkf4iv10%40group.calendar.google.com&scp=ALL)
 
-### Technical Discovery meetings
+#### Technical Discovery Meetings
 
 Sometimes we will encounter issues that need the input of the whole team to be refined and then worked on, such issues will be selected as a topic for a Technical Discovery meeting.
-We try to be conscious of sync time and so we expect a maximum of two of these meetings for each milestone. 
+We try to be conscious of sync time and so we expect a maximum of two of these meetings for each milestone.
 A technical discovery meeting consists of:
 
 - 2 Meetings across timezones so that everyone has a fair opportunity to join the sync meeting.
@@ -122,16 +133,61 @@ A technical discovery meeting consists of:
 
 The goal of technical discovery meetings is to come up with a concrete technical proposal for the question at hand. We should not force a proposal, but aim to get there and write the conclusion accordingly with potential follow-ups.
 
-### Design pairing
+#### Design Pair Meeting
 
-Each week the Product Designer hosts a design pairing session with the team on Thursdays at 1:30pm UTC. The goal of the design pairing sessions is to give the team more insight into what Product Design is currently working on, share feedback and questions, as well as give us a space to brainstorm and work together through bigger problems. Anyone is encouraged to propose topics or existing user problems that could use some brainstorming together as a team. A design pairing session consists of: 
+Each week the Product Designer hosts a design pairing session with the team on Thursdays at 1:30pm UTC. The goal of the design pairing sessions is to give the team more insight into what Product Design is currently working on, share feedback and questions, as well as give us a space to brainstorm and work together through bigger problems. Anyone is encouraged to propose topics or existing user problems that could use some brainstorming together as a team. A design pairing session consists of:
 
 - [An agenda document](https://docs.google.com/document/d/1osEJL4S2xe7AIgWoInIPoup-A2XuvqSZe5YNMFPTilo/edit?usp=sharing) with the weekly topic prepared the day before.
-- 30 minutes of the call will be dedicated to a design walkthrough or brainstorming session. 
-- 20 minutes of the call will be dedicated to a Q&A from the engineering team (previously know as the FE/UX sync). 
+- 30 minutes of the call will be dedicated to a design walkthrough or brainstorming session.
+- 20 minutes of the call will be dedicated to a Q&A from the engineering team (previously know as the FE/UX sync).
 - A recording which will be posted to the team's [Youtube playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq-lA3_JctMdX0y4um3BGmV).
 
 If there are no topics, the meeting can be cancelled for the week.
+
+#### Engineering Pair Meeting
+
+Due to high distrubtion and full calendars, we can have one of these for as many
+regions for which we have a DRI.
+
+##### AMER
+
+DRI: `@hustewart`
+
+Time: Tuesdays at 6:00pm UTC.
+
+Goal: Solve problems together and build trust/rapport.
+
+[Calendar event](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M2xxMm5kOGYwOXB2YzloZTBvZWg4bGhwczQgZ2l0bGFiLmNvbV9rbmFpZmY3YmNwZzNxa3FydWJka2Y0aXYxMEBn&tmsrc=gitlab.com_knaiff7bcpg3qkqrubdkf4iv10%40group.calendar.google.com)
+
+What we'll do:
+- Introductions for people who don't know each other.
+- Pick a problem to solve.
+- Pair.
+- Document what we learn.
+
+Feel free to submit a topic beforehand (notes are on calendar event), or simply show up.
+
+All team members are welcome.
+
+##### EMEA/APAC
+
+DRI: `@andrei.zubov`
+
+Time: Every second Tuesday at 8:00am UTC.
+
+[Calendar event](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NDIyOG9rNWxhbTU3ZXJoYTVxYmlrcmt2ZW1fMjAyNDAzMjZUMDgwMDAwWiBnaXRsYWIuY29tX2tuYWlmZjdiY3BnM3FrcXJ1YmRrZjRpdjEwQGc&tmsrc=gitlab.com_knaiff7bcpg3qkqrubdkf4iv10%40group.calendar.google.com&scp=ALL)
+
+### Team issue tracker
+
+- We use [team issues tracker](https://gitlab.com/gitlab-org/ci-cd/deploy-stage/environments-group/general/-/issues) for internal discussions such as: milestone planning issues, events planning, etc...
+- We also use a [special project](https://gitlab.com/gitlab-org/ci-cd/deploy-stage/environments-group/info/-/issues) for [Ops Section Async Updates](engineering/development/ops/#async-updates-no-status-in-meetings).
+- These issues are [public by default](/handbook/values/#public-by-default), but can be confidential.
+
+### Issue refinement
+
+Every week the [refinement bot](https://gitlab.com/gitlab-org/ci-cd/deploy-stage/environments-group/refinement) assigns a team member as the refinement DRI, who is responsible for refining **some issues from the top of the `~"workflow::refinement"` list** (the list is prioritised top to bottom) in the [Milestone Board](#milestone-board) **and another issue of their choice** with a ping to the EM and/or PM explaining the reasoning.
+
+The refinement process is described in the [issue template](https://gitlab.com/gitlab-org/ci-cd/deploy-stage/environments-group/refinement/-/blob/main/templates/default.erb).
 
 ### Planning
 
@@ -159,7 +215,7 @@ issue will be scheduled for work before any further breakdown of tasks is perfor
 
 Not all POCs will be successful, and that is OK! Some avenues of research may not be successful, and the POC will have saved us from investing significant time in a solution that will not meet our needs. The goal is early feedback and fast iteration.
 
-As a note, designers use the design weight labels instead of using the weight input within the issue, which is reserved for engineering. 
+As a note, designers use the design weight labels instead of using the weight input within the issue, which is reserved for engineering.
 
 ##### Weight, Velocity, and Planning
 
@@ -205,7 +261,7 @@ Our goal is to move towards a continuous delivery model so the team completes ta
 
 While diligently pursuing our objectives, we also recognize the significance of work that resonates personally with our engineers. To facilitate this, we have introduced the "~Environments::EngineeringChoice" label. Here's how it works:
 
-1. **Selection During Milestones**: In each Milestone Plan, engineers are encouraged to select up to five issues (total for the group) that they find particularly interesting or valuable, marking them with the "~Environments::EngineeringChoice" label. These issues should improve GitLab product or developer experience but they don't have to be in the ~"group::environments" domain. 
+1. **Selection During Milestones**: In each Milestone Plan, engineers are encouraged to select up to five issues (total for the group) that they find particularly interesting or valuable, marking them with the "~Environments::EngineeringChoice" label. These issues should improve GitLab product or developer experience but they don't have to be in the ~"group::environments" domain.
 1. **Limit per Milestone**: To maintain focus, no more than five issues should be labeled with "~Environments::EngineeringChoice" within a single milestone.
 1. **Priority After Deliverables**: Once all mandatory ~Deliverables are completed, the next priority is to address issues labeled "~Environments::EngineeringChoice."
 1. **Refined issues only**: Before applying the "~Environments::EngineeringChoice" label, the issue should be `worfklow::ready for development` and accordingly needs a weight.
@@ -218,8 +274,8 @@ In every milestone plan, we compile a list of bugs due in the coming milestone b
 
 In addition to the self-scheduling of feature development, the manager will from time to time assign bugs, or other work deemed important, directly to a team member.
 
-On top of the official issue-triaging process, when severity labels are assigned/changed, we aim to set the issue due date at the same time. If there are bugs with a severity label and without a deadline, 
-everyone is encouraged to set the deadline based on the date of the last severity label update and [the SLA for the given severity](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity-slos).
+On top of the official issue-triaging process, when severity labels are assigned/changed, we aim to set the issue due date at the same time. If there are bugs with a severity label and without a deadline,
+everyone is encouraged to set the deadline based on the date of the last severity label update and [the SLA for the given severity](/handbook/engineering/quality/issue-triage/#severity-slos).
 
 #### Say-do ratio
 
@@ -304,18 +360,18 @@ Within the Environments group we use the following processes and best practices 
 
 1. We ensure each MR is accompanied with meaningful unit tests and integration tests.
 1. For each major feature we develop and maintain End to End tests that run nightly and confirm no regressions have been introduced to critical paths.
-1. On a weekly basis, we review our [Triage report](https://about.gitlab.com/handbook/engineering/quality/triage-operations/#triage-reports) for bugs and regressions and take the appropriate action.
-1. We review the [quality dashboard](https://app.periscopedata.com/app/gitlab/736012/Quality-Embedded-Dashboard) each milestone to track our long term progress at improving quality.
+1. On a weekly basis, we review our [Triage report](/handbook/engineering/infrastructure/engineering-productivity/triage-operations/#triage-reports) for bugs and regressions and take the appropriate action.
+1. We review the [quality dashboard](https://10az.online.tableau.com/t/gitlab/views/OpenBugAgeOBA/OpenBugAgeOBADashboard) each milestone to track our long term progress at improving quality.
 
 #### End to End Testing
 
-The Environments group uses [GitLab QA](https://gitlab.com/gitlab-org/gitlab-qa) for End-to-End testing. We have [guidelines](https://about.gitlab.com/handbook/engineering/development/ops/deploy/environments/quality) for how our team is leveraging these tests.
+The Environments group uses [GitLab QA](https://gitlab.com/gitlab-org/gitlab-qa) for End-to-End testing. We have [guidelines](/handbook/engineering/development/ops/deploy/environments/quality) for how our team is leveraging these tests.
 
 #### gitlab-agent QA bot
 
 In [`feed_alerts_configure`](https://gitlab.slack.com/archives/C025U6U6HA9) we have a bot that  runs tests at [this project](https://gitlab.com/gitlab-org/configure/k8s-agent-qa/-/pipelines)
 
-If this bot alerts of a failed pipeline, we should treat these the same as a broken master branch. 
+If this bot alerts of a failed pipeline, we should treat these the same as a broken master branch.
 - Check the pipeline for intermittent errors (and retry if this is the case)
 - Otherwise create an investigation issue to dig further/fix.
 
@@ -331,12 +387,12 @@ An engineer might be assigned as a DRI to look into this.
 
 The DRI is neither expected to determine a root cause nor propose a solution on their own.
 
-The DRI should instead reach out to [the Scalability:Projections team](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/projections.html) for support.
+The DRI should instead reach out to [the Scalability:Projections team](/handbook/engineering/infrastructure/team/scalability/projections.html) for support.
 
 ## Async Issue Updates
 
 In order to optimize async collaboration across a big team we use issue updates to share progress completed on a specific issue or epic.
-Weekly updates on progress and status will be added to each issue by its assignee. A weekly update may be skipped if there was no progress. It's preferable to update the issue rather than the related merge requests, as those do not provide a view of the overall progress. This applies to issues with the labels `workflow::in dev` or `workflow::in review` 
+Weekly updates on progress and status will be added to each issue by its assignee. A weekly update may be skipped if there was no progress. It's preferable to update the issue rather than the related merge requests, as those do not provide a view of the overall progress. This applies to issues with the labels `workflow::in dev` or `workflow::in review`
 
 The status comment should include what percentage complete the work is, the confidence of the person that their estimate is correct and, a brief note on what was done. It's perfectly acceptable to have multiple updates if more than one DRI is working on the issue.
 
@@ -358,51 +414,43 @@ To simplify the work of adding and keeping track of async updates [TalTal](https
 
 We want every team member to be advancing in their Career Development.
 
-We follow the Engineering Department [Career Development Framework](https://about.gitlab.com/handbook/engineering/career-development/).
+We follow the Engineering Department [Career Development Framework](/handbook/engineering/career-development/).
 
 ## Maximize asynchronous performance in this team
 
-We're a highly distributed team.
-It's simply hard to find a synchronous call slot that works for everyone,
-therefore it's important that our main communication is asynchronous basis and it's well-optimized for our team dynamics.
+Async practices are particularly important to us because we live in time zones that do not afford much, if any, overlap during our working hours.
 
-For example, when you [refine an issue](#issue-refinement),
-you would like to collect input from various team members, domain experts and stable counterparts.
-Typically, posting a comment with pinging them is enough, however, if the topic is complicated, ambiguous or too broad,
-you wouldn't get useful and relevant feedback. This frustrates both you and participants, which should be avoided.
-
-To maximize our asynchronous performance, we should follow [GitLab Communication](https://about.gitlab.com/handbook/communication/) guideline,
+To maximize our asynchronous performance, we should follow [the GitLab Communication guideline](/handbook/communication/).
 More specifically, the following points are important:
 
 - Have an SSOT discussion page (Issue or MR). This is the main collaboration point that everyone can get the latest information quickly.
   The description section should contain essential and up-to-date information, such as:
   - What's the problem to solve?
-  - Who's DRI in charge of making the decision?
-  - What's the [acceptance criteria](https://www.productplan.com/glossary/acceptance-criteria/) (e.g. user experience goal) ?
-  - What's out of scope? (if any)
+  - Who's the DRI in charge of making the decision?
+  - What's the [acceptance criteria](https://www.productplan.com/glossary/acceptance-criteria/) (e.g. user experience goal)?
+  - Is anything out of scope?
   - What proposals do we have?
   - What are the PROs/CONs and technical difficulty of each proposal?
   - Whose approval do you need for making the decision?
-  - When is the deadline to make the decision?
+  - When is the due date to make the decision?
   - FAQ
-- When DRI got additional input in the discussion page (e.g. Discussion threads), DRI should reflect it to the SSOT description.
-  - In a discussion thread, focus on the proposed topic. Try to avoid mixing multiple topics or switching to another topic.
-- When DRI got additional input outside of the discussion page (e.g. Zoom, Google Doc or Slack), DRI should reflect it to the SSOT description.
-- When Reviewer is asked to give input, Reviewer should respond as soon as possible for unblocking discussions.
-  It's also fine to respond that you don't have any feedback or can't take time for it, so that DRI can avoid waiting for your response.
-- If DRI didn't get much progress from the asynchronous communication, DRI should schedule a synchronous meeting or reach out broader audiences.
-- When DRI schedules a sync meeting, DRI should make sure that agendas are prepared before the meeting starts.
+- The DRI keeps the description updated with latest information based on any
+  decisions made in threads.
+- When a team member is asked to give input, they should respond as soon as possible to unblock discussions.
+  It's also fine to respond that you don't have any feedback or can't take time for it, so that the DRI can avoid waiting for your response.
+- If the DRI didn't get much progress from the asynchronous communication, the DRI should schedule a synchronous meeting or reach out to broader audiences.
+- When the DRI schedules a sync meeting, they should make sure that agendas are prepared before the meeting starts.
 
 ### Monthly Showcases DRI
 
-We participate in the [OPS showcase initiative](https://about.gitlab.com/handbook/engineering/development/ops/#ops-engineering-showcase), to facilitate the selection of topics, the creation of the issues and content we have a Showcase DRI which will:
+We participate in the [OPS showcase initiative](/handbook/engineering/development/ops/#ops-engineering-showcase), to facilitate the selection of topics, the creation of the issues and content we have a Showcase DRI which will:
 
 - Ensure every month at least a showcase issue is created and linked in the right issues/epic
 - Facilitate the selection of the topic of each showcase, paying attention to give space to everyone in the team
 - Help whoever is creating the content with video creation and issue description
 - Ultimately is the showcase DRI responsibility that a showcase issue is produced and ready in time
 
-Currently the showcase DRI for FY24Q3 is: @anna_vovchenko 
+Currently the showcase DRI for FY24Q3 is: @anna_vovchenko
 
 
 ## How to work with us

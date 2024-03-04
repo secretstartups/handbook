@@ -11,7 +11,7 @@ TMRGs are voluntary, team member-led groups focused on fostering diversity, incl
 
 Team Member **Resource Group** provide support for an underrepresented group
 
-- The purpose for this type of TMRG is to develop and elevate that underrepresented group within Gitlab. To provide a voice and a safe space for people who identify as a part of that group and their allies. With aim of increasing and developing the sense of belonging.
+- The purpose for this type of TMRG is to develop and elevate that underrepresented group within GitLab. To provide a voice and a safe space for people who identify as a part of that group and their allies. With aim of increasing and developing the sense of belonging.
 
 Team Member **Advocacy Group**
 
@@ -44,7 +44,7 @@ Ordered alphabetically to avoid the perception that any TMRG is more important t
 | [GitLab Gente]({{< ref "tmrg-gitlab-gente" >}}) | [Pilar Mejia](https://gitlab.com/pmejia), [Hugo Azevedo](https://gitlab.com/hugoazevedo), [Romer Gonzalez](https://gitlab.com/romerg)  | #gente | [Sign up for future meetings (Google group)](https://groups.google.com/a/gitlab.com/g/latinxtmrg) | [Gente Agenda](https://docs.google.com/document/d/15I-Lp9BO1FgnSCxANPiTemrvbcSLppf_xp8I0vIUbPY/edit?usp=sharing) | [Josh Lemos](https://gitlab.com/joshlemos) |
 | [Black @ GitLab]({{< ref "tmrg-gitlab-black" >}}) | [April Marks](https://gitlab.com/aprilmarks), [Marcus Carter](https://gitlab.com/marcusbriancarter), [Madou Coulibaly](https://gitlab.com/madou), [Mam Joof](https://gitlab.com/mjoof1) | #black-at-gitlab |  [Sign up for future meetings (Google group)](https://groups.google.com/a/gitlab.com/g/black-tmrg) | [Black @ GitLab Agenda](https://docs.google.com/document/d/1G9Be3e3hjj3gexLmrmR1bqzaEErP-4BfDgJR4q_jUTw/edit#heading=h.vf9sdppkn4e0) | [David DeSanto](https://gitlab.com/david) |
 | [GitLab Pride]({{< ref "tmrg-gitlab-pride" >}}) | [Alex Hanselka](https://gitlab.com/ahanselka) and [Helen Mason](https://gitlab.com/hmason) | #lgbtq | [Sign up for future meetings (Google group)](https://groups.google.com/a/gitlab.com/g/pride-tmrg) | [Pride Agenda](https://docs.google.com/document/d/11D-Izm5mbopEUCY036Qr0bHx6UePMyfkzhUfNDE-mnk/edit?usp=sharing) | Robin Schulman |
-| [GitLab Women]({{< ref "tmrg-gitlab-women" >}}) | [Kyla Gradin Dahl](https://gitlab.com/kyla), [Samantha Lee](/handbook/company/team/#slee24), [Winnie Chan](https://gitlab.com/wyychan)  | #women | [Sign up for future meetings (google group)](https://groups.google.com/a/gitlab.com/g/womenstmrg) | [Women Agenda](https://docs.google.com/document/d/1bJ3Y8IVjnssPpRa3IUafdzC0wsJUU6rYCGf-YEiDHeg/edit) | Robin Schulman |
+| [GitLab Women]({{< ref "tmrg-gitlab-women" >}}) | [Kyla Gradin Dahl](https://gitlab.com/kyla), [Samantha Lee](/handbook/company/team/#slee24), [Winnie Chan](https://gitlab.com/wyychan), [Gosia Ksionek](/handbook/company/team/#mksionek) | #women | [Sign up for future meetings (google group)](https://groups.google.com/a/gitlab.com/g/womenstmrg) | [Women Agenda](https://docs.google.com/document/d/1bJ3Y8IVjnssPpRa3IUafdzC0wsJUU6rYCGf-YEiDHeg/edit) | Robin Schulman |
 | [GitLab Caregivers](tmrg-caregivers.md) | Jackie Porter, Gena Schwam | #caregivers-tmrg | TBA | [Caregivers Agenda](https://docs.google.com/document/d/1taPLNLkVvTayEzySFUU5XKZeSK9tmsK-WELu_Pp14m8/edit?usp=sharing)| Wendy Barnes|
 
 ## Executive Sponsorship
@@ -534,7 +534,7 @@ Details on how to access to the budget are below
 
 **Expenses could include but not limited to:**
 
-- Paying a speaker to present at Gitlab
+- Paying a speaker to present at GitLab
 - Purchasing TMRG specific Swag
 - External Consultants to help problem solve on TMRG issues
 - Sponsoring a partnership with a external vendor
@@ -559,7 +559,7 @@ As our finance processes are a use it or lose it policy we want to ensure that i
 
 **Submitting/Approval of Expenses**
 
-Purchases made on behalf of Gitlab should follow the [procurement process outlined in the handbook](/handbook/finance/procurement/#--what-is-procurement).
+Purchases made on behalf of GitLab should follow the [procurement process outlined in the handbook](/handbook/finance/procurement/#--what-is-procurement).
 Prior to submitting a Coupa requisition, please adjust the Billing portion of the requisition for each line item by selecting the magnifying glass. Confirm that the expense is coded to Department: G&A: DIB and Class (tag): TMRG. If procurement or The DIB Team are submitting the requisition on your behalf, please give them instructions to make these adjustments. If these changes are not made, then the expense will default to the team member’s department and the expense will not align to the TMRG budget.
 
 **Swag-** If the purchase is Swag, please follow the outlined process in the [handbook](/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/#swag-for-tmrgs).
@@ -606,9 +606,9 @@ This would be a great opportunity to include your Executive Sponsor
 
 In addition to executive sponsorship, some of our TMRGs have found gaining Director+ sponsors very beneficial in the advancement of there TMRG, MIT TMRG is a great example of this.
 
-### Hold your first All Gitlab event/session
+### Hold your first All GitLab event/session
 
-A great way to gain traction and have an initial goal. Is to develop a All Gitlab event. Check out the [Coming Out Day session](https://www.youtube.com/watch?v=OUKWs6hkMQY) from the Pride TMRG.
+A great way to gain traction and have an initial goal. Is to develop a All GitLab event. Check out the [Coming Out Day session](https://www.youtube.com/watch?v=OUKWs6hkMQY) from the Pride TMRG.
 
 Develop a working group and figure out how you want to do this. Ideas could include but not limited to:
 

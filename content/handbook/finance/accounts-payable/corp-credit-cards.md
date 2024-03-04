@@ -34,7 +34,7 @@ anything over $50.   You can add the receipt once the charge reflects in Navan C
 - Non-Permissible items will be flagged upon charge. Please ensure to only use the card for items under permissible items only.
 - Purchases on your card should not exceed $5,000 USD for each transaction.
 - If your purchase will be over $5,000 USD, you will need to enter a Purchase Requisition in Zip. AP prefers to pay vendors by ACH whenever possible. To get started with Zip for a vendor who can be paid by normal invoicing and payment methods, see [Zip End Users Guide](/handbook/business-technology/enterprise-applications/guides/zip-guide/).
-- If a charge is made in error, please reach out to expenses@gitlab.com on the process to reimburse Gitlab. It is an arduous process, so we ask to avoid this at all cost.
+- If a charge is made in error, please reach out to expenses@gitlab.com on the process to reimburse GitLab. It is an arduous process, so we ask to avoid this at all cost.
 - Any reports with continuous violations to our policy will be subject to management review and could be taken away for non-compliance.
 
 ## 3. Permissible Items

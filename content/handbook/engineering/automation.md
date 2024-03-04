@@ -20,7 +20,7 @@ These guidelines ensure consistency for Engineering automation using approved se
 
 ### Merge request automation guidelines
 
-Automation that opens a merge request in projects under `gitlab-org` shall apply the `~"automation:bot-authored"` label for clearer measurements for bot authored MRs that may cause an impact to Engineering PIs. 
+Automation that opens a merge request in projects under `gitlab-org` shall apply the `~"automation:bot-authored"` label for clearer measurements for bot authored MRs that may cause an impact to Engineering PIs.
 
 ## Access token best practices
 
@@ -67,12 +67,12 @@ GitLab uses automation to streamline engineering processes, such as:
 
 ## Current and potential GitLab.com service accounts
 
-* [`@gitlab-bot`](https://gitlab.com/gitlab-bot) owned by the [Engineering Productivity team](/handbook/engineering/quality/engineering-productivity), running various things. We're [breaking this down](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/757) into multiple dedicated service accounts.
+* [`@gitlab-bot`](https://gitlab.com/gitlab-bot) owned by the [Engineering Productivity team](/handbook/engineering/infrastructure/engineering-productivity), running various things. We're [breaking this down](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/757) into multiple dedicated service accounts.
 * [`@gitlab-qa`](https://gitlab.com/gitlab-qa) owned by the [Quality department](/handbook/engineering/quality), running QA-related automation.
 * [`@gitlab-release-tools-bot`](https://gitlab.com/gitlab-release-tools-bot) owned by the [Delivery team](/handbook/engineering/infrastructure/team/delivery), running delivery/release-related automation.
 * [`@gl-build-trigger`](https://gitlab.com/gl-build-trigger) owned by the [Distribution group](/handbook/engineering/infrastructure/core-platform/systems/distribution/), triggering build-related pipelines.
 * [`@gitlab-omnibus-mirror-bot`](https://gitlab.com/gitlab-omnibus-mirror-bot) owned by the [Distribution group](/handbook/engineering/infrastructure/core-platform/systems/distribution/), mirroring various dependency projects of [the `gitlab-org/omnibus-gitlab` project](https://gitlab.com/gitlab-org/omnibus-gitlab).
-* Triage operations for `gitlab-org/quality/triage-ops`, `gitlab-org/gitlab-triage` owned by the [Engineering Productivity team](/handbook/engineering/quality/engineering-productivity).
+* Triage operations for `gitlab-org/quality/triage-ops`, `gitlab-org/gitlab-triage` owned by the [Engineering Productivity team](/handbook/engineering/infrastructure/engineering-productivity).
 
 ## Background on the single `@gitlab-bot` service account
 

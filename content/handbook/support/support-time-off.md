@@ -82,7 +82,8 @@ time off, please:
 
 - ensure you know the [company wide paid time off guidelines](/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off)
 - consider a different time off schedule if your [regional capacity calendar](https://gitlab.com/gitlab-com/support/toolbox/support-calendar) shows that on any of the days you would be absent, the regional team would be short by 20% or more of its people
-- check the regional and global calendars for the groups you are part of (SGG/L&R/etc.) and coordinate with your group to ensure we have sufficient cover for days with low availability.
+- check the regional and global calendars for the groups you are part of (SGG/L&R/etc.) and coordinate with your group to ensure we have sufficient cover for days with low availability.\
+(In EMEA, the aim is to have at least 4 engineers (non L&R) per SGG and 3 engineers from L&R working on each normal business day)
 - schedule your time off as far in advance as you can, especially for days that
   may be popular, are [holidays](#how-support-handles-holidays), or that are particularly important to you
 - don't lock yourself into nonrefundable travel itineraries before you've taken
@@ -156,8 +157,10 @@ If they want to pause, put the ticket on-hold. Otherwise:
 ## How Support Handles Family and Friends Days
 
 During [Family and Friends Days](/handbook/company/family-and-friends-day/#upcoming-family-and-friends-days) GitLab Support continues
-to operate as normal. During the month of a Family and Friends Days, choose a day off to spend as you please.
+to operate as normal. Starting from Q1/FY25, during each quarter you are free to take a day off at your convenience, to celebrate Family and Friends day.
 Please follow the same guidelines as you would in [Choosing and Recording Time Off](#choosing-and-recording-time-off).
+
+
 
 ## How Support Handles Holidays
 

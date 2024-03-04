@@ -163,7 +163,7 @@ Image
 - Skill development
 - Mentorship and sponsorship
 
-### Examples of Allyship at Gitlab
+### Examples of Allyship at GitLab
 
 TBC
 

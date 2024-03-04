@@ -44,7 +44,7 @@ It is important to note that Gainsight brings the entire account team onto a sin
 - **How is it going to help me in my daily job?**
   - It's going to help in our daily jobs since now all the account plans by SAEs, Success plans by TAMS are listed in the same system encouraging collaboration.
 - **Why use gainsight for account planning**
-  - It's an existing platform already loved by existing teams in Gitlab. Gainsight provides metrics, timelines, call to action like reminders. It also has the ability to create playbooks defining different steps in a process for eg: [an ultimate play](/handbook/customer-success/solutions-architects/sales-plays/)
+  - It's an existing platform already loved by existing teams in GitLab. Gainsight provides metrics, timelines, call to action like reminders. It also has the ability to create playbooks defining different steps in a process for eg: [an ultimate play](/handbook/customer-success/solutions-architects/sales-plays/)
 - **How is it related to SFDC?**
   - SFDC is still the best place to record customer information for accurate forecating, creating accounts so on. Gainsight gives you the power to forecast plans for accounts, create objectives, identify tasks to be completed for those objectives. The timeline, attributes section of gainsight is fed back into SFDC.
 - **What if there is no account plan from the SAE?**

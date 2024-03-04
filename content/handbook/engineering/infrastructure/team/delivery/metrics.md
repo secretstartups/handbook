@@ -12,7 +12,8 @@ to deploy application changes into production.
 - [Performance Indicator]
 - **Target: 12 hours.**
 
-{{< sisense chart="10055732" dashboard="764878" >}}
+{{< tableau height="600px" toolbar="hidden" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/InfrastructureKPIs/MTTP" >}}
+{{< /tableau >}}
 
 MTTP measures the elapsed time (in hours) from merging a change in gitlab-org/gitlab project master
 branch, to deploying that change to GitLab.com.
@@ -43,8 +44,8 @@ Deployment SLO measures the deployment frequency and duration by tracking
 the percentage of deployment pipelines that complete within the target duration.
 Deployment duration is measured as the elapsed time between a starting on staging canary (`gstg-cny`)
 through the completion of the deployment on Production (`gprd`).
-Visit the [Releases page](https://about.gitlab.com/handbook/engineering/releases/) for an
-end-to-end overview of the various environments and [deployment process](https://about.gitlab.com/handbook/engineering/releases/#gitlabcom-deployments-process).
+Visit the [Releases page](/handbook/engineering/releases/) for an
+end-to-end overview of the various environments and [deployment process](/handbook/engineering/releases/#gitlabcom-deployments-process).
 
 ![Deployment SLO apdex](https://gitlab.com/api/v4/projects/430285/jobs/artifacts/master/raw/deployment-slo-apdex.png?job=refresh-delivery-slo-apdex-graph)
 

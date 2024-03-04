@@ -22,21 +22,21 @@ This chart reflects the available signatories for each of GitLab's entities. The
 
 | Entity | Signatory |
 |-------- | -----|
-| GitLab Inc | All Recruiting Leads (Jake Foster, Marissa Ferber, Ursela Knezevic), Jess Dallmar, Rob Allen, Other People Group Team Members who are employed by Inc. and of the appropriate grade to sign the document. JCLs can be signed by Morgan Wilkins  |
+| GitLab Inc | All Recruiting Leads (Jake Foster, Marissa Farris), Jess Dallmar, Rob Allen, Other People Group Team Members who are employed by Inc. and of the appropriate grade to sign the document. JCLs can be signed by Morgan Wilkins  |
 | GitLab Federal LLC    |       Bob Stevens     |
-| GitLab BV Belgium, Dutch & English | Rob Allen & Pattie Egan. Backups: Craig Mestel|
-| GitLab BV, Netherlands | Rob Allen & Pattie Egan. Backup: Craig Mestel|
-| GitLab GmbH | Rob Allen & Pattie Egan|
+| GitLab BV Belgium, Dutch & English | Marissa Farris, Pattie Egan. Backups: Craig Mestel|
+| GitLab BV, Netherlands | Marissa Farris & Pattie Egan. Backup: Craig Mestel|
+| GitLab GmbH | Marissa Farris, Rob Allen & Pattie Egan|
 | GitLab PTY Ltd, Australia | Jess Dallmar & Rob Allen. Backup: Craig Mestel|
 | GitLab PTY Ltd, New Zealand | Jess Dallman & Rob Allen. Backup: Craig Mestel|
-| GitLab Ireland LTD | Rob Allen & Pattie Egan. Backup: Craig Mestel|
-| GitLab UK Ltd | Rob Allen, Pattie Egan, Erin Mannix|
-| GitLab Canada Corp | Craig Mestel, Erin Mannix |
-| GitLab GK, Japan | Jess Dallmar, Rob Allen. Backups: Erin Mannix, Craig Mestel |
-| GitLab IT BV | Rob Allen & Pattie Egan. Backup: Craig Mestel|
-| GitLab South Korea | Jess Dallmar & Rob Allen. Backup: Erin Mannix, Craig Mestel |
+| GitLab Ireland LTD | Marissa Farris, Rob Allen & Pattie Egan. Backup: Craig Mestel|
+| GitLab UK Ltd | Marissa Farris, Rob Allen, Pattie Egan|
+| GitLab Canada Corp | Craig Mestel, Simon Mundy |
+| GitLab GK, Japan | Jess Dallmar, Rob Allen. Backups: Simon Mundy, Craig Mestel |
+| GitLab IT BV | Marissa Farris, Pattie Egan. Backup: Craig Mestel|
+| GitLab South Korea | Jess Dallmar & Rob Allen. Backup: Craig Mestel |
 | GitLab France S.A.S. | Rob Allen & Pattie Egan. Backup: Craig Mestel|
-| GitLab Singapore PTE. LTD. | Jess Dallmar & Rob Allen. Backup: Erin Mannix|
+| GitLab Singapore PTE. LTD. | Jess Dallmar & Rob Allen. Backup: Simon Mundy |
 | JCLs | Choose signatory from the list above. For the US, Morgan Wilkins can also sign. |
 | PEOs | The Candidate Experience Specialist processing the offer. For JCLs, choose Morgan Wilkins or Marissa Ferber |
 
@@ -114,7 +114,7 @@ Consistent with GitLab’s policy governing Hiring Significant Others or Family 
 - #1 GitLab Team Member (needs to sign)
 - #2 New Hire (needs to sign)
 - #3 CES (receives a copy)
-1. After all parties have signed, upload a copy into both the new hire and the current GitLab team members Workday profile.
+1. After all parties have signed, upload a copy into the new hire's Workday profile.
 1. Upload Family Member Relationship Acknowledgement form into Workday.
    - Sign into Workday
    - Search the new hire's name
@@ -123,10 +123,11 @@ Consistent with GitLab’s policy governing Hiring Significant Others or Family 
    - Select "Add"
    - Click "Select Files" and choose appropriate saved PDF
    - Select "OK"
-   - Under "Document Category" select "Contracts & Changes"
+   - Under "Document Category" select "Pre-hire documents & Changes"
    - Under "Comment" write "Family Member Relationship Acknowledgement"
    - Upload
    - Repeat same steps above this time finding the GitLab team member in Workday
+1. For the current team member email the form to people-connect@gitlab.com and ask them to upload the document to Workday.
 
 ### How to Update a Start Date After the Contract is Signed
 
@@ -301,7 +302,7 @@ If they have been hired in Greenhouse and exported to BambooHR, Enablement will 
 1. Unhire the candidate in Greenhouse if the req is still open. If the req is closed, Enablement will need to be brought in to unhire.
 1. Ask the Recruiter to reject them in Greenhouse; add reasons in notes, you may add the email that was sent by the candidate. Click ‘reject and don’t send email’.
 1. Cancel any scheduled emails in Greenhouse.
-1. Tag the VP, People Operations in the `#people-group-confidential` Slack channel and ask to remove the profile from BambooHR and @ mention the @people-exp team for visibility. Only a BambooHR owner (at GitLab this is the VP, People Operations) can remove the profile, this is why this step is so important. Note: This isn't a typo---BambooHR is still collecting profiles even though we have migrated to WorkDay.
+1. Tag the VP, People Operations in the `#people-group-confidential` Slack channel and ask to remove the profile from BambooHR and @ mention the People Connect team for visibility. Only a BambooHR owner (at GitLab this is the VP, People Operations) can remove the profile, this is why this step is so important. Note: This isn't a typo---BambooHR is still collecting profiles even though we have migrated to WorkDay.
 1. If they were hired via a PEO, inform the contact person at the PEO of this change immediately, ideally before onboarding starts. If they are in a country that uses outside payroll, we will need to inform the payroll company as well.
 1. Message IT, People Connect, and the Sr. Background Check Specialist in the #peopleops-alerts-private channel to let them know to cancel any laptop orders, onboarding issues, background checks, and remove from Workday.
 1. If the Recruiter has not already tagged the FP&A approver in the Greenhouse notes, please tag them to let them know that the candidate has withdrawn.
@@ -312,7 +313,9 @@ If they have been hired in Greenhouse and exported to BambooHR, Enablement will 
 When a team member applies for and receives a new position through Greenhouse, a Job Change Letter is prepared in lieu of a new contract using DocuSign. The Candidate Experience Specialist will prepare the letter. This document is signed by the Director, Total Rewards or the Sr. Director, Global People Operations or the Chief People Officer and the team member through DocuSign. Using the Offer through DocuSign - Job Change Letter template in Greenhouse the letter is cc'd to peopleops@gitlab.com team for processing.
 
 Effective dates for a job change letter should be the first (1st) of the month or the sixteenth (16th). For Sales or Sales Development team members, they can only be the first of the month. These effective dates do not need to be on a business day and should be adhered to payroll purposes.
-Please note that LOAs cannot be used if a team member is moving from the Federal, LLC. entity into any other entity **or** any entity that is not Federal, LLC into the Federal, LLC. entity. In those cases, a new contract **must** be issued as there are tax implications to this entity.
+Please note that JCLs cannot be used if a team member is moving from the Federal, LLC. entity into any other entity **or** any entity that is not Federal, LLC into the Federal, LLC. entity. In those cases, a new contract **must** be issued as there are tax implications to this entity.
+
+If the team member is making a lateral move where there is no change in compensation, then the start date can be any Monday.
 
 When generating a job change letter for a PEO, the steps remains the same as outlined below. However, select the JCL template that does not include RSUs, and send the RSU details via DocuSign email.
 
@@ -340,6 +343,7 @@ LOAs should be treated like contracts, where RSUs are only features in US ones a
 1. You will be redirected to DocuSign.
 1. On the top left of the screen, click where it says the candidate's name, then click "Edit Recipients". Change the order of recipients to reflect the following order:
     - #1 is Director, Total Rewards (needs to sign)
+    - #1 is Recruiter (receives a copy)
     - #1 Hiring Manager (receives a copy)
     - #2 Candidate (needs to sign)
     - #3 People Ops (receives a copy)
@@ -390,9 +394,9 @@ Always ensure the start date is on a Monday, unless Monday is a holiday or the n
 ## Creating a French Offer
 
 1. You will receive a req to create a French Offer.
-1. Please ensure that you complete the [SSOT document](https://docs.google.com/spreadsheets/d/1HQxOwt30v1qffulaZay61aj_A5edQgb_zfBrhoq0CgA/edit#gid=0).
+1. In Greenhouse, click on Job setup, then hiring team, then add Sarah Rogers & Darren Burr to the job granting them the Job Admin: FPA and Legal permissions, then save.
 1. Ensure the start date is on a Monday, unless Monday is a holiday or the non-Monday date is legally required.
-1. Send the SSOT form to the Legal Team in the [Frenchcontracts_CES](https://gitlab.slack.com/archives/C05R0R495L6) requesting assistance with the offer. When making the request in the channel, please indicate the candidate's name and their number on the SSOT document.
+1. Send a Slack message to the Legal Team in [Frenchcontracts_CES](https://gitlab.slack.com/archives/C05R0R495L6) requesting assistance with the offer. When making the request in the channel, please indicate the candidate's name and include the link to the GH profile
 1. One of the Legal Team members will respond with the following information:
     - The GreenHouse Offer Template that you should use (A,B or C)
     - The wording that should be added to the template (including information on where the wording should be placed). This wording will be placed as provided by Legal on both the English & French sides in English.
@@ -657,7 +661,7 @@ To initiate the process to submit the contract for e-signatures via DocuSign:
 
 Please follow the outlined steps below before sending the unsigned copy of the Contract to the Counsel:
 
-- (*)Open the saved unsigned contract in Google Drive, remove Gitlab signatory from the below fields -
+- (*)Open the saved unsigned contract in Google Drive, remove GitLab signatory from the below fields -
     1. **Summary Key of Terms** - Delete the GitLab Signatory's name and leave the field blank.
     1. **Scroll down to the end of the contract** - replace Signatory's name with “GitLab Signatory”. Save the contract as a PDF format.
 - To send the contract out to the German Counsel, CES can follow the below email structure through Gmail-
@@ -680,6 +684,28 @@ If you cannot find the QES option on your DocuSign, you may need to switch your 
 GitLab has an entity in Japan (GitLab GK) and use the GitLab GK contracts in this location. All team members in this location are employees.
 
 Always ensure the start date is on a Monday, unless Monday is a holiday or the non-Monday date is legally required.
+
+## Intern Employment Contracts
+
+GitLab participates in hiring interns within the INC entity as well as the Code2College program. Code2College is the FIRST and ONLY program that places high school students into paid, technical internships.
+
+The Intern contract template will be used for both C2C interns and all other interns hired into GitLab. However there are some different necessary steps when processing a C2C intern. Processes are described below.
+
+1. When the offer decision is made, Emerging Talent Coordinator/Recruiter will create offer in GH profile and request approvals as normal.
+1. Once approved, CES to send the contract using the "INC Intern" template in GH. Some important details needed in the offer details will be the hourly rate of pay and the end date of the contract (since this is not an indefinite contract). Please ensure these details are in the offer before generating.
+1. After the offer is sent, CES will initiate the background check by selecting the Comprehensive Criminal Check with Employment. **IMPORTANT NOTE - If this is a C2C (Code2College) intern - you will only need to select the Comprehensive Criminal Check in Sterling. Employment check is not needed as most C2C interns will be minors.**
+1. Because most interns from C2C are minors, at the time the BGC is initiated, CES will also need to send the [Parental Consent Form](https://docs.google.com/document/d/1J0xundRL___Hhg0zNkt7KTMMEgTv63U5rseqTlmv8ok/edit) to the interns guardian.
+ - This form can be send via DocuSign
+ - Please add appropriate tokens
+ - Please set up distribution as follows (guardian email can be recieved from Emerging Talent Coordinator):
+    - 1. Guardian - Needs to sign
+    - 2. Emerging Talent Coordinator - receives a copy
+1. Once the offers are signed by the candidate, CES will send the GitLab Inc Intern Welcome Email. **Note: GitLab will provide laptops to these interns. The Welcome Email asks them to fill out form ASAP**
+1. Once the req is cleared, CES can mark the Intern as hired.
+1. CES will ping People Connect in the #peopleops-alerts slack channel to let them know they just hired in an Intern. **please indicate if they are C2C in your messaging to them**
+1. Once Intern is hired into the system - they will move to the responsibility of People Connect who will create onboarding issues and communicate information about the TaNewKi call.
+1. If you are notified that the C2C intern requires a "youth work permit", please send form over to People Connect. They will be required to fill out the "employer" portion and submit to the intern/guardians.
+
 
 ## Employment Agreements for GitLab team members located everywhere else (IT BV contractor agreements)
 

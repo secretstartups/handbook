@@ -107,7 +107,7 @@ Linkedin Learning is another platform with various resources to help SA's during
 
 Here are courses that will facilitate the onboarding process of associate SAs and help them in getting up to speed with the technical concepts required for the role:
 
-**Free for Gitlab members**
+**Free for GitLab members**
 - The learning path [Become a DevOps Engineer](https://www.linkedin.com/learning/paths/become-a-devops-engineer), particularly the following sections:
     - [DevOps Foundations](https://www.linkedin.com/learning/devops-foundations)
     - [Learning Docker](https://www.linkedin.com/learning/learning-docker-2018)

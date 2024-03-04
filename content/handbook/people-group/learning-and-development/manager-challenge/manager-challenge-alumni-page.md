@@ -19,8 +19,6 @@ Join the #manager-challenge-alumni channel to keep up to date with the latest an
 
 ### Self-paced Learning
 
-Take a look at some of the courses the Learning & Development recommends for [People Leaders on LinkedIn Learning]({{< ref "linkedin-learning#people-leaders" >}}).
-
 L&D also has courses on [Level Up](https://levelup.gitlab.com/learn/dashboard) that you can explore for manager training.
 
 ### Professional Coaching

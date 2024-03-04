@@ -151,7 +151,7 @@ Before using feature flags, make sure to read the information on this page and t
 1. [Controlling feature flags](https://docs.gitlab.com/ee/development/feature_flags/controls.html): Learn the process for deploying
   a new feature, enabling it on GitLab.com, communicating the change,
   logging, and cleaning up.
-1. [Feature flags and the change management process](https://about.gitlab.com/handbook/engineering/infrastructure/change-management/#feature-flags-and-the-change-management-process): Learn whether your flag requires use of the change management process or not.
+1. [Feature flags and the change management process](/handbook/engineering/infrastructure/change-management/#feature-flags-and-the-change-management-process): Learn whether your flag requires use of the change management process or not.
 1. [Checking on the status of your teams feature flags](#dashboard--metrics): See if your team has too many, or stale feature flags. See how your feature flags have been toggled over time.
 1. [Conducting an experiment with feature flags](https://docs.gitlab.com/ee/development/experiment_guide/): Learn how the Growth department uses experiment feature flags.
 
@@ -264,7 +264,7 @@ Feature flags must be [documented according to their state (enabled/disabled)](h
 and when the state changes, docs **must** be updated accordingly.
 
 Changing the default state or removing the feature flag has to be done before
-the [release date](https://about.gitlab.com/handbook/engineering/releases/), *at least* 3-4 working days before, in order for the change
+the [release date](/handbook/engineering/releases/), *at least* 3-4 working days before, in order for the change
 to be included in the final self-managed release.
 
 **Note:** consider that, by removing the flag, the feature will become available on
@@ -293,4 +293,4 @@ During the [planning](#planning) phase it is essential that the EM and PM are pi
 
 ## Dashboard & Metrics
 
-For more information on the lifecycle of a feature flag, such as how many are introduced per release, how long they exist in the application, or how long they've been enabled, [see this dashboard](https://app.periscopedata.com/app/gitlab/792066/Engineering-::-Feature-Flags) (internal only). We also carry 7 days worth of data [in Kibana](https://nonprod-log.gitlab.net/app/r/s/cXyLU) (internal only) and a GitLab project [feature-flag-log](https://gitlab.com/gitlab-com/gl-infra/feature-flag-log/-/issues/?state=closed) holds the same indefinitely for feature flags that become disabled or enabled.
+For more information on the lifecycle of a feature flag, such as how many are introduced per release, how long they exist in the application, or how long they've been enabled, [see this dashboard](https://10az.online.tableau.com/#/site/gitlab/views/Engineering-Featureflags/Engineering-FeatureFlags) (internal only). We also carry 7 days worth of data [in Kibana](https://nonprod-log.gitlab.net/app/r/s/cXyLU) (internal only) and a GitLab project [feature-flag-log](https://gitlab.com/gitlab-com/gl-infra/feature-flag-log/-/issues/?state=closed) holds the same indefinitely for feature flags that become disabled or enabled.

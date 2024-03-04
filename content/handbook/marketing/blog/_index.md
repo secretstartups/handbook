@@ -28,7 +28,7 @@ Partner, alliance, and customer contributor guidelines can be found [here](https
 
 ## How to suggest a blog idea - NEW PROCESS
 
-Please create an issue using the [blog submission template](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/-/issues/new?issuable_template=blog-post-submission).
+Please create an issue using the [blog submission template](https://gitlab.com/gitlab-com/marketing/brand-product-marketing/content-strategy-and-ops/blog/-/issues/new?issuable_template=blog-post-submission).
 
 * Answer all the questions on the template. They help us provide feedback on your idea.
 * Submit your idea at least two weeks before your targeted publication date.
@@ -68,13 +68,13 @@ Chat channels:
 - Use `#content` for questions (also tag @sgittlen)
 - Use `#content-updates` to see updates on recently published articles
 - Slack @sgittlen directly
+- Add newsletter content requests to [this issue](https://gitlab.com/gitlab-com/marketing/brand-product-marketing/content-strategy-and-ops/content-ops/-/issues/902)
 
 ## Other related pages
 
 - [Editorial style guide](/handbook/marketing/brand-and-product-marketing/content/editorial-team/)
 - [Brand guidelines](https://design.gitlab.com/)
 - [Monthly release post](/handbook/marketing/blog/release-posts/)
-
 
 ## Considerations when drafting a blog
 
@@ -198,7 +198,7 @@ We limit media embeds to the following providers:
 
 ### Adding code blocks
 
-Below are the two types of code blocks we commonly use on the blog. Find a number of other options in the [Markdown guide](https://about.gitlab.com/handbook/markdown-guide/#code-blocks).
+Below are the two types of code blocks we commonly use on the blog. Find a number of other options in the [Markdown guide](/handbook/markdown-guide/#code-blocks).
 
 #### Inline code
 
@@ -278,21 +278,6 @@ document.querySelectorAll('a[href^="#"]').forEach(elem => {
 - To resize in Preview go to `Tools`, `Adjust size` and adjust the entry in the `Resolution` field. Preview will estimate what the resulting image size will be before you click `OK` to confirm.
 - Keep all the images the same width.
 
-
-#### Image captions
-
-Insert the following beneath an inline image to include a caption:
-
-```
-This is my image caption
-{: .note.text-center}
-```
-
-This will look as below:
-
-This is my image caption
-{: .note.text-center}
-
 #### Screenshots
 
 For technical/tutorial posts, please illustrate your examples with [code blocks](#adding-code-blocks) or screenshots. Be consistent with your examples. E.g., if you are using a generic URL
@@ -307,18 +292,11 @@ to exemplify your steps `domain.com`, be consistent and keep it `domain.com`, th
 
 #### Embedding videos
 
-Please see the [Markdown Guide](https://about.gitlab.com/handbook/markdown-guide/#display-videos-from-youtube) for instructions for embedding videos from YouTube and other sources.
-
-If appropriate, please add a video credit, for example:
-
-```
-Video directed and produced by [Aricka Flowers](/handbook/company/team/#arickaflowers)
-{: .note}
-```
+Please see the [Markdown Guide](/handbook/markdown-guide/#display-videos-from-youtube) for instructions for embedding videos from YouTube and other sources.
 
 #### Embedding tweets or Instagram posts
 
-Please see the [Markdown guide for instructions for embedding posts from social media](https://about.gitlab.com/handbook/markdown-guide/#embed-tweets).
+Please see the [Markdown guide for instructions for embedding posts from social media](/handbook/markdown-guide/#embed-tweets).
 
 #### Creating GIFs
 

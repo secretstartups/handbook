@@ -133,6 +133,7 @@ If at any time during the interview process a candidate is declined due to compe
   - If applicable, Round 2B: 25 minute interview with a Hiring Team member
   - If applicable, Round 3: 50 minute Executive Interview
 - The Recruiter should confirm focus areas have been assigned to the interview team. This should have been taken care of in the [REQ kick-off Issue](https://gitlab.com/gl-talent acquisition/req-intake/-/issues)
+- Interviewing is only available to full time GitLab team members. Under no circumstances should a contractor or outside third party be invited to interview a candidate or to shadow an interview.
 - The candidate should be provided clear expectations of the process, location of interviewers, timeline to hire, etc.
 - When Team Interviews have completed, follow up with the hiring manager on next steps. Depending on the level of the role and outcome of interviews, next steps may include additional interviews including an executive interview or moving to reference checks.
 
@@ -140,7 +141,7 @@ If at any time during the interview process a candidate is declined due to compe
 
 1. Inform the candidate they will need to go through a full interview process for each role and outline the time commitment that may entail (for example, if a candidate is in process for 2 roles they may need to make time for 10+ interviews).
 1. There is no limit on the amount of roles a candidate can apply to but due to recruiter capacity we will only process 3 applications at a time, and will ask the candidate to choose the 3 that are highest priority.
-1. We want to avoid a situation where we have competing offers from multiple teams within Gitlab. In order to prevent this, there will be an added step after the final interview stage where the recruiter discusses with the candidate which role they’re most interested in. Only one offer will be sent to the candidate after the final interviews.
+1. We want to avoid a situation where we have competing offers from multiple teams within GitLab. In order to prevent this, there will be an added step after the final interview stage where the recruiter discusses with the candidate which role they’re most interested in. Only one offer will be sent to the candidate after the final interviews.
 
 ### **Step 6: References**
 

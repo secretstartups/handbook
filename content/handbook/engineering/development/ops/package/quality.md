@@ -33,7 +33,7 @@ The testing strategy for [this level of the pyramid](https://docs.gitlab.com/ee/
 
 **Merge Request** - The whole QA End-to-End test suite can be run on your MR by triggering manually the `package-and-qa` job.
 
-**Scheduled Pipelines** - [Schedule](https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/debugging-qa-test-failures/#qa-test-pipelines).
+**Scheduled Pipelines** - [Schedule](/handbook/engineering/infrastructure/test-platform/debugging-qa-test-failures/#qa-test-pipelines).
 Package tests run in all the scheduled pipelines since we have a few tests tagged as `:reliable`. These tests (`:reliable` and `:smoke`) block deployments in case of failure and are a part of GitLab's sanity test suite.
 Other Package related tests that are not tagged as `:reliable` run when the full suite of tests runs.
 
@@ -194,13 +194,13 @@ More information on how to run tests using the gitlab-qa gem can be found on [Wh
 
 #### How can I have access to the GitLab QA Vault in 1Password?
 There are important variables to run several scenarios listed above. Also when running tests against different environments these variables
-are necessary. To have access to this vault please create an [access request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) to the 1Password GitLab QA Vault.
+are necessary. To have access to this vault please create an [access request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) to the 1Password GitLab QA Vault.
  
 #### I triggered package-and-qa. Where do I find the tests?
 If you have an MR and want to make sure it is running the End-to-End tests, please trigger the manual `package-and-qa` job on the pipeline of your MR. After the pipeline runs there will be a note on your MR titled "Allure report" with a `package-and-qa` test report link. 
 It is also possible to see which jobs failed in the `package-and-qa` pipeline, just follow the downstream pipelines, and within the `gitlab-qa-mirror` pipeline, access the `packages` job to inspect the result. We also have relevant Package tests running in `object_storage` and `registry` jobs.
 
-In Staging, or other environments [that run full tests](https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/debugging-qa-test-failures/#qa-test-pipelines), all the
+In Staging, or other environments [that run full tests](/handbook/engineering/infrastructure/test-platform/debugging-qa-test-failures/#qa-test-pipelines), all the
 tests within the `qa/specs/features/browser_ui/5_package` folder can be found running on the `qa-triggers-browser_ui-5_package` job.
 
 #### What is the difference between orchestrated-level scenarios and instance-level scenarios?
@@ -248,7 +248,7 @@ fdeffd791b69  gitlab/gitlab-ee:nightly      22/tcp, 443/tcp, 0.0.0.0:32768->443/
 Runs locally on `https://0.0.0.0:32768` using `https://` because it is TLS enabled.
 
 ### Troubleshooting
-Please reach out to [your counterpart SET](https://about.gitlab.com/handbook/engineering/quality/#individual-contributors) or in the `#quality` channel.
+Please reach out to [your counterpart SET](/handbook/engineering/quality/#individual-contributors) or in the `#quality` channel.
 
 ### Helpful Documentation
 

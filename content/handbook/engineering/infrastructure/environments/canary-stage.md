@@ -103,7 +103,7 @@ browser/tool you are using to talk to the environment or ensure that "current" i
 The best method when using the UI is to [enable the performance bar](https://docs.gitlab.com/ee/administration/monitoring/performance/performance_bar.html)
 and look at the name of the Kubernetes pod service your page. If it starts
 with `gitlab-cny` (and has a baby chicken next to it), you are using the canary
-stage. There will also be the word "next" in a green box next to the Gitlab logo
+stage. There will also be the word "next" in a green box next to the GitLab logo
 in the top left.
 
 ### How do I view logs specifically for the canary stage of an environment?
@@ -120,7 +120,7 @@ for an environment, choose `cny` from the drop down for `stage` at the top.
 ### How do I change a feature flag for canary stage?
 
 As the database (where feature flags are stored) is shared between main and
-canary stage, enabling a feature flag following the normal [chatops process](https://about.gitlab.com/handbook/support/workflows/chatops.html#feature-flags))
+canary stage, enabling a feature flag following the normal [chatops process](/handbook/support/workflows/chatops.html#feature-flags))
 for the environment will change it for both main and canary stages of an environment.
 
 Some examples for the most commonly used environments are as follows

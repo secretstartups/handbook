@@ -4,15 +4,9 @@ title: "Development Director Shadow Program"
 description: "The development director shadow program provides mentoring, opportunities for learning, and facilitates career development exploration"
 ---
 
-
-
-
-
-
-
 ## Why do we have a Development Director Shadow Program?
 
-As a [Development Director at GitLab](https://handbook.gitlab.com/job-families/engineering/development/management/director/), [Wayne](/handbook/engineering/readmes/wayne-haber/) got massive value out of participating in our [CEO Shadow Program](/handbook/ceo/shadow/) when [he did it in July of 2020](/blog/2020/07/08/ceo-shadow-impressions-takeaways/).
+As a [Development Director at GitLab](/job-families/engineering/development/management/director/), [Wayne](/handbook/engineering/readmes/wayne-haber/) got massive value out of participating in our [CEO Shadow Program](/handbook/ceo/shadow/) when [he did it in July of 2020](https://about.gitlab.com/blog/2020/07/08/ceo-shadow-impressions-takeaways/).
 
 Since the launch of the engineering director shadow program in September of 2021, Wayne has received great feedback from the shadows from various departments that have participated (marketing, professional services, development, and customer success).
 
@@ -25,7 +19,9 @@ Some blogs from previous shadows:
 1. [What I Learned as a Development Director](https://awkwardferny.medium.com/what-i-learned-as-an-engineering-director-shadow-at-gitlab-1a783cb564d0) - [@fjdiaz](https://gitlab.com/fjdiaz)
 1. [The engineering director shadow experience at GitLab](https://about.gitlab.com/blog/2022/04/01/engineering-director-shadow/) - [@warias](https://gitlab.com/warias)
 1. [Exciting Experience at GitLab Shadow Program](https://www.linkedin.com/posts/palwasha-malik_pakistani-gitlab-gitlabshadowprogram-activity-7075930932083310592-RZLr/) - [Palwasha Malik](https://www.linkedin.com/in/palwasha-malik/)
-1. [Reflections from shadowing GitLab's Development Director](https://singhanshuman.hashnode.dev/reflections-from-shadowing-gitlabs-development-director)- [Anshuman Singh](https://www.linkedin.com/in/anshuman-singh-4537731a5/)
+1. [Reflections from shadowing GitLab's Development Director](https://singhanshuman.hashnode.dev/reflections-from-shadowing-gitlabs-development-director) - [Anshuman Singh](https://www.linkedin.com/in/anshuman-singh-4537731a5/)
+1. [One week shadowing Wayne Haber, Director of Engineering at GitLab](https://marcaurele.brothier.org/articles/2024-shadow-gitlab-eng-director-wayne-haber/) - [Marc-Aurele Brothier](https://www.linkedin.com/in/marcaurele) 
+1. [Engineering Leadership at GitLab](https://www.linkedin.com/posts/perera-sameera_leadership-lessons-from-gitlab-activity-7165714252924702720-zvEq) from [Sameera Perera](https://www.linkedin.com/in/perera-sameera)
 
 
 ## Benefits
@@ -155,14 +151,15 @@ No, not at this time.
 
 | Week of | Shadow(s) | Role |
 | ------ | ------ | ----- |
-| December 18| Not Available | |
-| December 25|  Not Available | |
-| January 1, 2024 | Not Available | |
-| January 8 |  [Sameera Perera](https://www.linkedin.com/in/perera-sameera) | Non-GitLab Shadow - Director of R&D @ Celigo |
-| January 15 | Available | |
-| January 22 | Available | |
-| January 29 | [Carla Drago](https://gitlab.com/carlad-gl) | Senior Backend Engineer |
-
+| Mar 4 | Available | |
+| Mar 11 | Available though not a preferred week for shadows | |
+| Mar 18 | Available | |
+| Mar 25 | Available | |
+| Apr 1 | Available though not a preferred week for shadows | |
+| Apr 8 | Available |
+| Apr 15 | Available |
+| Apr 22 | Available |
+| Apr 29 | Available |
 
 ## Shadow Alumni
 
@@ -178,14 +175,14 @@ No, not at this time.
 | [@fjdiaz](https://gitlab.com/fjdiaz) | Marketing |
 | [Rafa Carrasco](https://linkedin.com/in/rafael-carrasco) | Non-GitLab shadow - Developer from [Astronomer.io](https://www.astronomer.io/) |
 | [Siddharth Asthana](https://gitlab.com/edith007) | GitLab community contributor |
-| [Sladyn Nunes](https://www.linkedin.com/in/sladyn-nunes) | Non-Gitlab shadow - Student from [USC](https://www.usc.edu/) |
+| [Sladyn Nunes](https://www.linkedin.com/in/sladyn-nunes) | Non-GitLab shadow - Student from [USC](https://www.usc.edu/) |
 | [Toni Lovejoy](https://linkedin.com/in/tonilovejoy) | Non-GitLab shadow - Developer from [Circulo Health](https://www.circulohealth.com/) |
 | [Anshul Riyal](https://gitlab.com/anshulriyal) | [GitLab Hero Community Contributor](https://about.gitlab.com/community/heroes/members) |
-| [George Tsiolis](https://gitlab.com/gtsiolis) | [GitLab Core Team Community Contributor](https://about.gitlab.com/company/team/?department=core-team) |
+| [George Tsiolis](https://gitlab.com/gtsiolis) | [GitLab Core Team Community Contributor](/handbook/company/team/?department=core-team) |
 | [Mrunal Kapade](https://linkedin.com/in/mrunalk) | Non-GitLab shadow - Engineering Leader |
-| [Alexander Chueshev](https://gitlab.com/achueshev) | Development: [GitLab ModelOps AI Assisted](https://about.gitlab.com/company/team/?department=modelops-ai-assisted) |
+| [Alexander Chueshev](https://gitlab.com/achueshev) | Development: [GitLab ModelOps AI Assisted](/handbook/company/team/?department=modelops-ai-assisted) |
  |[Praveen Elamkootil](http://linkedin.com/in/ekpraveen) | Non-GitLab shadow |
-| [Jonathan Ducharme](https://www.linkedin.com/in/ducharme-jonathan/) | Non-Gitlab shadow - Engineering Manager at [AlleyCorp Nord](https://alleycorp.com/) |
+| [Jonathan Ducharme](https://www.linkedin.com/in/ducharme-jonathan/) | Non-GitLab shadow - Engineering Manager at [AlleyCorp Nord](https://alleycorp.com/) |
 | [Tulika Gupta](https://www.linkedin.com/in/tulika-gupta-30190819/) | Non-GitLab shadow - Principal DevOps Engineer at [Alarm.com](https://alarm.com/) |
 |  [Heejin Han](https://www.linkedin.com/in/heejinhan/) | Non-GitLab shadow - Technical Operations Manager at [Netflix](https://www.netflix.com) |
 |  [Jeremy Neff](https://www.linkedin.com/in/jeremy-r-neff/) | Non-GitLab shadow - Manager at [Joint Communications Unit](https://www.jcu.mil/) |
@@ -193,14 +190,18 @@ No, not at this time.
 | [Anshuman Singh](https://www.linkedin.com/in/anshuman-singh-4537731a5/) | Non-GitLab shadow - Independent software engineer |
 |  [Aleesha Dawson](https://www.linkedin.com/in/aleesha-moran/) | [GitLab shadow](https://gitlab.com/adawson-gitlab) - Customer Success Manager |
 | [Fazal Ur-Rehman](https://www.linkedin.com/in/fazal-ur-rehman-805571128/) | Associate Team Lead at [LexisNexis](https://www.lexisnexis.com/) |
-| [Caden Wright](https://www.linkedin.com/in/caden-wright-643953200/) | Non-Gitlab shadow: CS Student at [University of Virginia](https://www.virginia.edu/) |
+| [Caden Wright](https://www.linkedin.com/in/caden-wright-643953200/) | Non-GitLab shadow: CS Student at [University of Virginia](https://www.virginia.edu/) |
 | [Alejandro Mogollon Medina](https://gitlab.com/mellab) | Non-GitLab shadow: GitLab Hero & HashiCorp Ambassador  |
 | [Olubunmi Odumade](https://www.linkedin.com/in/odumade) | Non-GitLab shadow - engineering leader |
 | [Julia Lopez](https://www.linkedin.com/in/julia-lopez-841b41a/) | Non-GitLab shadow - Manager of Animation & Gaming Technical Support at Netflix |
 | [Reggie Skillman](https://www.linkedin.com/in/reggie1/) | Non-GitLab shadow - Military Veteran tenured in Aerospace and Software Stack |
 | [Davis Bickford](https://www.gitlab.com/dbickford) | Backend Engineer - [Runner Saas](https://about.gitlab.com/direction/verify/runner_saas/) |
-| [Jamie Strachan](https://www.linkedin.com/in/jamiestrachan/)     |  Non-Gitlab engineering manager      |
+| [Jamie Strachan](https://www.linkedin.com/in/jamiestrachan/)     |  Non-GitLab engineering manager      |
 | [Zivago Lee](https://www.linkedin.com/in/zivagolee/) | Non-GitLab shadow - Director of Engineering at [Spin](https://www.spin.app/) |
-|  [Marc-Aurele Brothier](https://www.linkedin.com/in/marcaurele) | Non-GitLab shadow - Senior Engineering Manager at [Pix4D](https://www.pix4d.com/) |
+| [Marc-Aurele Brothier](https://www.linkedin.com/in/marcaurele) | Non-GitLab shadow - Senior Engineering Manager at [Pix4D](https://www.pix4d.com/) |
+| [Sameera Perera](https://www.linkedin.com/in/perera-sameera) | Non-GitLab Shadow - Director of R&D @ Celigo |
+| [Carla Drago](https://gitlab.com/carlad-gl) | Senior Backend Engineer |
+| [Tyler DeCaire](https://gitlab.com/tdecaire) | Solutions Architect |
+| [Kev](https://gitlab.com/kevslashnull) | Non-GitLab shadow - Software Engineer |
 
 

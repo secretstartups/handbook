@@ -72,7 +72,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
    - Please share your thoughts on the question below. This is a classroom discussion board, let's crowdsource some knowledge! Why is it important to understand different buyer personas as a salesperson?
 - **Customer Success Stories & Proof Points (Material - Handbook - 10 Minutes)**
    - References are an age old tenet of sales pros! Your prospective clients will definitely be impressed by the positive business outcomes of our customers. Check out our [customer case studies](https://about.gitlab.com/customers/) and [proof points](/handbook/sales/command-of-the-message/proof-points/) on GitLab value.
-- **Marketing Materials Repository (Material - Gitlab.com - 10 Minutes)**
+- **Marketing Materials Repository (Material - GitLab.com - 10 Minutes)**
    - Check out the GitLab [marketing materials repository](https://docs.google.com/spreadsheets/d/1NK_0Lr0gA0kstkzHwtWx8m4n-UwOWWpK3Dbn4SjLu8I/edit?usp=sharing) to see all of our best and most relevant sales collateral. Please be careful to only view or download these files, and feel free to send copies to your clients to help them understand GitLab value. If you would like to share one of these assests on social media please be careful to only use the gated links to content.
 
 </details>

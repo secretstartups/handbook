@@ -1,7 +1,7 @@
 ---
 
 title: "Highspot at GitLab"
-description: "GitLab uses Highspot as its Sales Asset Management System. This page shares more about how Highspot is used at Gitlab."
+description: "GitLab uses Highspot as its Sales Asset Management System. This page shares more about how Highspot is used at GitLab."
 ---
 
 
@@ -16,7 +16,7 @@ Highspot is a sales enablement tool we use to gather, categorize, and share cont
 1. **Provide a single repository** in which GitLab's go-to-market (GTM) team members can find all of the resources they need.
 1. **Enable more efficient discovery** of new resources and content.
 1. **Drive consistency in GitLab collateral** including the branding and messaging across assets.
-1. **Attribute revenue to GitLab content** to discover ROI and enable a tighter feedback loop between Sales and Marketing.  
+1. **Attribute revenue to GitLab content** to discover ROI and enable a tighter feedback loop between Sales and Marketing.
 
 To learn more about Highspot's features, check out this [Highspot in Action video](https://drive.google.com/file/d/1SL27EzQUKiHSUN_QHxVlIXUrRJivhFNq/view?usp=sharing).
 
@@ -39,7 +39,7 @@ There are two primary Slack channels to communicate with platform DRIs and other
 ### Submitting Highspot Requests
 
 The Highspot team creates GitLab Issue Templates within the Enablement Project for common requests:
-1. Can't find a Spot that meets your business needs? Use [this Highspot Spot Creation template](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/new?issuable_template=Highspot-Spot-Creation-Request) to submit your request.  
+1. Can't find a Spot that meets your business needs? Use [this Highspot Spot Creation template](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/new?issuable_template=Highspot-Spot-Creation-Request) to submit your request.
 1. Need Editor or Owner permissions within a Spot, or Analyst permissions within reporting? Use [this Highspot Permissions template](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/new?issuable_template=highspot-spot-permissions-request) to submit your request.
 1. Need to complete Highspot role-based onboarding? Following the instructions within [this template](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/new?issuable_template=Highspot-Role-Onboarding).
 
@@ -87,8 +87,9 @@ Teams with access to Highspot include:
 1. Alliances
 1. Field Operations
 1. Sales Development
-1. Strategic Marketing (Product Marketing, Technical Marketing, Customer Reference, Analyst Relations, Competitive Intelligence)
+1. Strategic Marketing (Product Marketing, Customer Reference, Analyst Relations, Competitive Intelligence)
 1. Field Marketing
+1. Developer Advocacy
 
 Non-active users, such as team members who have left the company, will be removed from Highspot on a regular basis in order to open seats within the tool.
 
@@ -469,7 +470,7 @@ Similar to PathFactory, Highspot is a tool that can point customers to a set of 
 
 **Can Highspot users send PathFactory content to customers?**
 
-Yes. PathFactory tracks are a type of asset that can be shared using Highspot. Content owners can “upload” (point to) PathFactory tracks within Highspot, and send those tracks to customers and prospects via a Highspot Pitch activity.  
+Yes. PathFactory tracks are a type of asset that can be shared using Highspot. Content owners can “upload” (point to) PathFactory tracks within Highspot, and send those tracks to customers and prospects via a Highspot Pitch activity.
 
 **Can I use Highspot to mass-send a pitch to multiple customers and prospects?**
 
@@ -513,7 +514,7 @@ See recordings for internal, GitLab-specific Highspot trainings below:
 
 When uploading content to Highspot, it is best practice to fill in as many of the Properties as possible. Some Properties may be auto-populated, such as Title, Description, and Expiration Date. You can edit any of these fields.
 
-Please note: Highspot Lists are not auto-populated. It is best practice to check the box for EVERY relevant List item, including Market Segment, Region, and Role, as well as Asset Type, Use Case, and more. This is an important step in the upload process because Highspot uses these Lists to filter content in the Browse menu, as well as within SmartPages that are organized based on these Properties. The more Lists you check, the more your content becomes discoverable.  
+Please note: Highspot Lists are not auto-populated. It is best practice to check the box for EVERY relevant List item, including Market Segment, Region, and Role, as well as Asset Type, Use Case, and more. This is an important step in the upload process because Highspot uses these Lists to filter content in the Browse menu, as well as within SmartPages that are organized based on these Properties. The more Lists you check, the more your content becomes discoverable.
 
 #### Links from Google Drive
 
@@ -550,7 +551,7 @@ Using the embed code will allow Highspot users to view the webpage content direc
 **EXCEPTIONS FOR EMBEDDING**
 
 *The following exceptions should be made for embedding links. Do not select `Use embed code` when adding these types of links.*
-1. PathFactory - In order to allow PathFactory to gather the necessary analytics, external audiences will need to access the link that takes them directly to the asset in PathFactory.  
+1. PathFactory - In order to allow PathFactory to gather the necessary analytics, external audiences will need to access the link that takes them directly to the asset in PathFactory.
 1. External - Some external links (ex. industry articles) will not allow embedding. You can test this by selecting `Use embed code` and then clicking on the item to check. You will see a broken link message if that link is unable to be embedded.
 1. Private YouTube Unfiltered - Links for videos set to private will not embed.
 
@@ -608,7 +609,7 @@ It is likely that this scenario will happen most often with the Customer-Facing 
 
 SmartPages make it easier for Content Owners to design and build sales enablement content and guidance. Highspot offers a series of SmartPage templates to get you started, including what are called Homepages and Sales Plays. Homepages are designed to direct users to relevant content, and are generally used as Spot overviews and directories.
 
-Plays are designed to track internal and external engagement, and come with an analytics feature called a Scorecard. When creating a SmartPage for a marketing campaign or sales initiative, you will generally want to use a Sales Play template.  
+Plays are designed to track internal and external engagement, and come with an analytics feature called a Scorecard. When creating a SmartPage for a marketing campaign or sales initiative, you will generally want to use a Sales Play template.
 
 Learn more about designing and building [SmartPages](https://help.highspot.com/hc/en-us/articles/360003228554-Build-a-SmartPage-in-the-Page-Designer) and [Sales Plays](https://help.highspot.com/hc/en-us/articles/360053638814-Create-a-Sales-Play) in the Highspot Help Center.
 
@@ -618,16 +619,16 @@ Highspot offers what they call pitch templates, which are email templates that c
 
 Once a pitch template is created, currently anyone with access to the Company Pitch Template Spot can access that template, customize it as/if they see fit, send the template to a prospect or customer, and view all tracked activities.
 
-The Highspot Help Center provides instructions on how to create pitch templates, which you can read [here](https://help.highspot.com/hc/en-us/articles/214982823-Create-a-Pitch-Template). In addition, follow these steps to help keep GitLab's pitch templates organized and consistent:  
+The Highspot Help Center provides instructions on how to create pitch templates, which you can read [here](https://help.highspot.com/hc/en-us/articles/214982823-Create-a-Pitch-Template). In addition, follow these steps to help keep GitLab's pitch templates organized and consistent:
 
    - Create new pitch templates in the Company Pitch Templates Spot. Users can bookmark templates to their own Spot, and Spot Owners can bookmark or filter pitch templates in SmartPages to quickly surface these items.
       - If you do not already have Editor access to the Company Pitch Templates Spot, you will not be able to add a new template. You can gain access by creating an Issue using [this Template](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/new?issuable_template=highspot-spot-permissions-request).
-   - Add a descriptive title and description. These fields are internal to Highspot and should help users know when/how/why to use the template. Titles should be consistent, such as when adding a sequence of templates.  
+   - Add a descriptive title and description. These fields are internal to Highspot and should help users know when/how/why to use the template. Titles should be consistent, such as when adding a sequence of templates.
    - Add a message using text and dynamic fields (i.e. Customer name, Company), which will auto-fill for the user when pitching. Users can edit the message when pitching. This will not affect the template. However, the user's edits will show clearly in their own Pitches Spot, as well as in SFDC.
    - Attach an item. All pitch templates must include at least one piece of content from within Highspot. If no content is selected when creating the pitch template, users must add an item when pitching.
    - Tag all relevant lists within the pitch template properties. Lists are how users filter content on Highspot. Assigning the Use Case, Role, Market Segment, and Industry, at a minimum, will support a segment and role-based user experience of Highspot.
    - Remember: Users can relate a pitch template to a lead, contact, opportunity, or account in SFDC using the Relate and Send To fields within the Send Email Pitch window.
-   - Remember: Users can enter a custom email signature in Highspot, which will auto-display when pitching.  
+   - Remember: Users can enter a custom email signature in Highspot, which will auto-display when pitching.
 
 ### Highspot for GitLab Duo Content
 
@@ -638,7 +639,7 @@ Moving forward, **all AI-related content – internal and external – should be
 1. Review the [guidance for uploading content above](/handbook/sales/field-communications/gitlab-highspot/#gitlab-highspot-best-practices-for-content-owners) to ensure you are adding content in accordance with our best-practices.
 1. If it makes sense in a secondary spot (i.e. Customer Outreach, Customer Success, Field Strategy & Enablement, etc.) [bookmark](/handbook/sales/field-communications/gitlab-highspot/#including-content-in-more-than-one-spot) the content into another spot once added in the AI spot.
 1. Apply at LEAST one of the eight lists (tags) available in the AI spot.
-1. New content will appear in the "Revenue-Focused" (owned by PMM) and "Techincal Resources" (owned by Dev Rel/Technical Marketing) sections automatically based on the lists applied. No action is needed from teams owning these sections.
+1. New content will appear in the "Revenue-Focused" (owned by PMM) and "Techincal Resources" (owned by Dev Rel) sections automatically based on the lists applied. No action is needed from teams owning these sections.
 1. To ensure the most relevant resources are served up on the homepage, featured content in “What to Know” section (owned by PMM), “Key Messaging” (owned by PMM) and “Competitive Resources” (owned by Competitive Intelligence) will have to be added manually by owners by editing the overview page for the spot.
 1. To add content to the spot homepage, navigate to the three dots in the righthand corner when on the spot homepage.
 1. Select "view overview for spot".

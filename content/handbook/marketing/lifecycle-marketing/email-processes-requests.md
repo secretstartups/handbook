@@ -13,7 +13,6 @@ twitter_creator: "@gitlab"
 
 
 ## Overview
-{: #overview .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 This page focuses on emails processes, owned and managed by Lifecycle Marketing, Marketing Campaigns, and Marketing Operations.
@@ -23,7 +22,6 @@ This page focuses on emails processes, owned and managed by Lifecycle Marketing,
 
 
 ## GitLab Email Calendar
-{: #calendar .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 We have moved our email calendar to Asana! We will have email stakeholder syncs each Thursday to review emails for the upcoming two weeks. If you need the call added to your calendar, please ask Allie Klatzkin. To ensure this is done smoothly, please add your emails to the calendar as soon as you know that they are upcoming (regardless if you have all information). 
 
@@ -47,14 +45,15 @@ Steps to add to the Asana calendar:
 * Set email issue due date as the send date
 
 #### Email Request Issue Template
-{: #email-request-issue}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 **PLEASE READ IMPORTANT NOTE IN SECTION ABOVE PRIOR TO SUBMITTING**
 
 To request an email send, please [open an issue](https://gitlab.com/gitlab-com/marketing/lifecycle-marketing/-/issues/new?issuable_template=request-email) for consideration of your MVC email idea, and provide as much detail as possible (especially around the audience), and please respect if the determination is that "the juice isn't worth the squeeze" and that we may want to delay the launch until some foundational audience segmentations are established. Please review the `Email Review Protocol` section below for more detail.
 
-**SLA:** There is a standard 5 Business Day SLA in place for new email requests. All details in the "Submitter Checklist" of the issue must be complete in order to be triaged to the appropriate Campaign Manager and/or Lifecycle Marketing Manager.
+**SLA:** There is a standard 5 Business Day SLA in place for new email requests. All details in the "Submitter Checklist" of the issue must be complete in order to be triaged to the appropriate Campaign Manager and/or Lifecycle Marketing Manager. 
+
+Please note: Invitation and follow-up emails will not be sent on Thursdays, due to our ongoing nurture programs. 
 
 **Assign issues to:** You must assign issues to the corresponding Lifecycle Marketing Manager for review before send.
 * `@aklatzkin`: Global, AMER, Corporate Events, Newsletters
@@ -71,7 +70,6 @@ To request an email send, please [open an issue](https://gitlab.com/gitlab-com/m
 All links in email sends, going to about.gitlab.com will need to be appended with utm parameters, following the nomenclature outlined in this [document](https://docs.google.com/spreadsheets/d/12jm8q13e3-JNDbJ5-DBJbSAGprLamrilWIBka875gDI/edit#gid=0). This is the way we track and give attribution to emails.
 
 #### Need-to-know details for the email request
-{: #email-request-details}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 Below are the information from the issue template that will need to be filled out before the Campaign Manager will create the email in the appropriate system:
@@ -82,6 +80,7 @@ Below are the information from the issue template that will need to be filled ou
 - **Subject Line**: 50 character max is preferred (30-40 characters for mobile devices)
 - **Email Body Copy**: Can be a text snippet within issue, clearly identified comment on issue or attach a Google Doc with copy. The copy must be approved before requesting the email.
 - **Target Date to Send Email**: at a minimum a few days notice is preferred because we need to balancing the number of emails being sent to our database so they are not perceived (or marked) as spam; however, a simple email can be turned in a few hours if absolutely necessary
+    - Please note invitation and follow-up emails will not be sent on Thursdays due to our ongoing nurture programs
 - **Recipient List**: Emails can be sent to one of the [existing segments](/handbook/marketing/marketing-operations/marketo#geographic-dma-list ) or a recipient list can be provided as a .csv file
     -  Audience should be appropriately segmented and tokens selected for personalization (if applicable)
     -  All subscribers are selected list are opted-in to receive your message
@@ -89,13 +88,11 @@ Below are the information from the issue template that will need to be filled ou
     -  If personalizing the email to reference a specific project or page, that field must be included in the .csv file and clearly marked using the same terminology used in the email copy. The email copy must clearly identify {{Project}}or {{Page}}where the applicable personalization should be inserted.
 
 #### Types of email requests
-{: #email-request-types}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 Go to [this page](/handbook/marketing/marketing-operations/email-management/#types-of-email) to read more about email management and the different types of emails.
 
 #### Approvals and notifications for email requests
-{: #email-request-approval}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 Marketing related ad-hoc emails are sent at the discretion of the Campaigns team.
@@ -114,17 +111,14 @@ The approval table below applies to non-Marketing emails.
 |  500,000+ | PR, reply-to owner, community advocate, director+ in originating department, e-group member |
 
 ## Ad-hoc (one-time) emails
-{: #one-time-emails .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 #### Important note regarding audience segmentation efforts and efficiency
-{: #note-audience-segmentation}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 Until our foundational Marketo database segmentations (noted in the overview at the top of this handbook page) are rolled out, there are challenges in targeting audiences efficiencly. If you would like to propose an MVC email, please remember that the tactical execution may be beyond bandwidth constraints.
 
 ### Steps to set up and edit emails
-{: #setting-up-emails}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 For one-time emails (i.e. a blast to promote a program for which we do not receive leads):
@@ -142,7 +136,6 @@ For one-time emails (i.e. a blast to promote a program for which we do not recei
 * [Video on how to edit an email](https://www.youtube.com/watch?v=RUvykCohLqI)
 
 ### Target list creation
-{: #target-lists}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 Target list issue templates are an interim solution while foundational work is being complete for overall [Marketo database audience stretegy for lifecycle marketing engine](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2022).
 
@@ -159,7 +152,6 @@ Target list issue templates are an interim solution while foundational work is b
    - **Exclusions:** (if excluding records on previous campaigns, MUST include the name as appears on SFDC campaign, and campaign membership statuses to exclude)
 
 ### Active lists 
-{: #Active-Lists}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 To assist in building email target lists, MktgOps has developed a series of Marketo smart lists that can be used to determine how active a lead is based on specific time increments. Call on these smart lists to get the most up to date active user list for your email sends. The smart lists are located in the Database section of Marketo. They are:
 
@@ -172,7 +164,6 @@ To assist in building email target lists, MktgOps has developed a series of Mark
 
 
 ## QA process
-{: #qa-processes .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 **FY23-Q4**: Lifecycle Marketing will be running a Q4 trial of reviewing **all** emails prior to send to ensure compliance with email best practices. Team members are responsible fo reviewing and optimizing their own emails, following the latest [email best practices from lifecycle marketing](/handbook/marketing/lifecycle-marketing/email-best-practices). Lifecycle will be partnering will email stakeholders to improve email performance and drive the best results for our campaigns, as well as maintain brand consistency across all email touchpoints.
 
@@ -182,14 +173,12 @@ Email workflow:
 First step in requesting an email from lifecycle begins by creating an issue using the appropriate [issue template](/handbook/marketing/lifecycle-marketing/#request-issue-templates) in GitLab.
 
 ### Team variations to QA process
-{: #qa-processes-by-team}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 - Campaigns: build the email yourself and have lifecycle QA.
 - FMM: Request the email to be built by MOps and send to lifecycle for approval.
 - Corp: using the process we outlined previously [here](https://docs.google.com/spreadsheets/d/1aTCrUlc87BDLAqqAju7ZEbL8Wu0VZNfWd1MhdAccRDA/edit#gid=0)
 
 #### Campaigns Team QA process
-{: #qa-process-campaigns}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 _Submit final email for QA and scheduling_
 
@@ -203,7 +192,6 @@ _Submit final email for QA and scheduling_
 - Step 6: Make revisions & schedule the email. Can be done by lifecycle or campaigns team member.
 
 #### Field Marketing QA process
-{: #qa-process-field-marketing}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 _Request for MOps to build the email_
 - Step 1: Submit an email issue as normal with requested send time and date. Assign to lifecycle marketing for advanced visibility.
@@ -215,7 +203,6 @@ _Request for MOps to build the email_
 - Step 4: MOps makes any corrections and will schedule the email
 
 #### Corporate Marketing QA process
-{: #qa-process-corporate}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 _Request for Lifecycle to determine promotional content_
 
@@ -226,12 +213,10 @@ Promotion will only be done for Tier 1 events and events that have ancillary eve
 The process must kick off a month before the event, to ensure we have all of the relevant information for promotion and follow-up.
 
 #### Newsletter QA process
-{: #qa-process-newsletter}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 Full newsletter request information can be found [here](/handbook/marketing/lifecycle-marketing/email-processes-requests/#newsletter).
 
 ### Email QA Checklist - Technical
-{: #qa-checklist-technical}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 The following outlines the technical QA that any email builder including Lifecycle, MOps, and Campaigns should complete after building an email. This also applies to anyone providing a secondary QA prior to deployment.
 
@@ -255,8 +240,7 @@ As the email builder, you are responsible for making sure the email is formatted
 * After your QA is complete, send a sample to the business owner for review.
 
 ### Email QA Checklist - Business owner
-{: #qa-checklist-requestor}
-<!-- DO NOT CHANGE THIS ANCHOR -->
+
 The following outlines the business owner QA that the requestor (not builder) should complete before approving the email. 
 
 As the requestor/business owner, you are responsible for QA on content, spelling, grammar, dates/times, and links. You have joint ownership with the email builder to make sure the email looks good and is easy for the user to read, in line with our email best practices.
@@ -278,7 +262,6 @@ As the requestor/business owner, you are responsible for QA on content, spelling
 * For localized emails, confirm that the email footer is displaying in the requested language. This snippet displays based on the language preference of the user, with the default being English if they do not have a language on file.
 
 #### Creating a nurture email program for the Intelligent Nurture
-{: #create-nurture-email}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 **The following process is the technical process for creating a new email send program that is then activated in the appropriate streams/channels of the Intelligent Nurture. The project management process is integrated into the epic/issue creation for our core tactics that would be dropped into the nurture (new content, webcasts, workshops, analyst reports).
 
@@ -295,7 +278,6 @@ As the requestor/business owner, you are responsible for QA on content, spelling
 
 
 ## Email review protocol
-{: #review-protocol .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 All Campaign Managers and reviewers should adhere to the following protocol for every marketing email that is sent to ensure brand consistency and quality in our email program. While the owner of the email should review the email, they must also assign the emails to the corresponding Lifecycle Marketing Manager as listed on the email templates.
@@ -305,16 +287,14 @@ All Campaign Managers and reviewers should adhere to the following protocol for 
 To send an operational email, fill out an issue and follow protocol found [here](/handbook/marketing/marketing-operations/email-management/operational-email-sends/#customer-comms-email).
 
 ## Sales nominated flows in Marketo
-{: #sales-nominated .gitlab-purple}
-<!-- DO NOT CHANGE THIS ANCHOR -->
+
 
 In some cases, when invitations need to be more specific for an event, the Sales Nominated flows are used to allow sales to nominate who will receive the invite.
 
 Note: if someone is nominated, but is unmailable (due to unsubscribe, invalid email, or hard bounce), they will not receive the invitation.
 
 ### Activating the sales nominated flow in Marketo
-{: #sales-nominated-activation}
-<!-- DO NOT CHANGE THIS ANCHOR -->
+
 
 Sales Nominated automation smart lists are applied to Marketo program templates where sales nominated flows are relevant.
 
@@ -337,8 +317,6 @@ Send sample to the DRI for the program (i.e. workshop owner) who is responsible 
     - End On: Day of the event
 
 ### Removing sales nominated scheduled deployment
-{: #sales-nominated-remove-scheduled-deployment}
-<!-- DO NOT CHANGE THIS ANCHOR -->
 
 You can remove specific recurrences of scheduled sales nominated deployments. The FMC is responsible for this change for field marketing activities, and campaign managers are responsible for this change for demand generation activities.
 
@@ -346,8 +324,6 @@ To cancel a send, follow [these directions](/handbook/marketing/marketing-operat
 
 
 #### Adding a nurture email program to Intelligent Nurture programs/streams
-{: #add-nurture-email}
-<!-- DO NOT CHANGE THIS ANCHOR -->
 
 After you have created the Email Program (see above: [Creating a nurture email program for the Intelligent Nurture](/handbook/marketing/lifecycle-marketing/email-processes-requests/#create-nurture-email)) and tested your email (including checking UTM parameters), your email is ready to be activated in the Intelligent Nurture.
 
@@ -363,7 +339,6 @@ Work with the Campaigns Team to indicate the appropriate streams for the offer t
    - `Edit Availability` if it is an upcoming event and set the "End Date" for the date of the event. This will automatically stop the email from sending when the event has taken place.
 
 #### Alignment of Offer Types (CTAs) in Intelligent Nurture Streams
-{: #nurture-stream-offer-alignment}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 The following is where different offer types should align in the email nurture streams. This is based on the essence of the offers, and the maturity of the person in terms of education about GitLab (i.e. advanced workshops are **not** a fit for RAW > INQ stream as these are leads who have taken no prior action with GitLab and should be receiving top funnel content).
@@ -371,8 +346,6 @@ The following is where different offer types should align in the email nurture s
 [SEE THIS DIAGRAM FOR WHERE CONTENT IS FIT FOR THE INTELLIGENT NURTURE](https://docs.google.com/presentation/d/1j6F-3ZOFtFM9Tjz1srzbqLjSA56sK7lR2LPdKSl57Vo/edit#slide=id.g165f27d5f94_0_10)
 
 #### Adding an A/B test to Intelligent Nurture
-{: #ab-test-nurture}
-<!-- DO NOT CHANGE THIS ANCHOR -->
 
 Because our intelligent nurture is setup calling to programs, we cannot use Marketo's Champion/Challenger to A/B test emails. 
 
@@ -390,7 +363,6 @@ Please see the [A/B testing section](/handbook/marketing/lifecycle-marketing/ema
 
 
 #### Intelligent Nurture - Event promotion
-{: #event-promotional-changes-2022}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 In an effort to ensure audiences are not receiving duplicate emails and to streamline our own processes, we will be updating our current approach for promoting events via Intelligent Nurture and 2 email blasts. For now, all add to nurture issues that have duplicate email blasts will be cancelled. We will roll out a more comprehensive process in February.
@@ -399,7 +371,6 @@ For additional context, please see the [issue here](https://gitlab.com/gitlab-co
 
 
 ## Newsletter
-{: #newsletter .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 #### Process for monthly newsletter
@@ -412,7 +383,6 @@ Open an issue using the [Newsletter Request Template](https://gitlab.com/gitlab-
 **[Epic of Past and Upcoming Newsletters](https://gitlab.com/groups/gitlab-com/marketing/-/epics/179)**
 
 #### Creating the newsletter in Marketo
-{: #newsletter-marketo-creating}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 A day or two before the issue due date, create the newsletter draft. It's easiest to clone the last newsletter in Marketo:
@@ -427,7 +397,6 @@ A day or two before the issue due date, create the newsletter draft. It's easies
 1. In the menu bar that appears along the top of your screen, select `Edit draft`.
 
 #### Editing the newsletter in Marketo
-{: #newsletter-marketo-editing}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 1. Make sure you update the subject line.
@@ -435,7 +404,6 @@ A day or two before the issue due date, create the newsletter draft. It's easies
 1. Don't forget to update the dates in the UTM parameters of your links (including the banner at the top and all default items such as the "We're hiring" button).
 
 #### Sending newsletter test/samples from Marketo
-{: #newsletter-marketo-testing}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 1. When you're ready, select `Email actions` from the menu at the top, then `Send sample` to preview.
@@ -443,7 +411,6 @@ A day or two before the issue due date, create the newsletter draft. It's easies
 1. When you are satisfied with the newsletter, select `Approve and close` from the `Email actions` menu.
 
 #### Sending the newsletter
-{: #newsletter-marketo-sending}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 1. When the edit view has closed, click on the main newsletter item in the left-hand column.
@@ -454,7 +421,6 @@ A day or two before the issue due date, create the newsletter draft. It's easies
 1. Return to the newsletter issue and leave a comment telling requestor  to double check all has been set up correctly. Close the issue when this is confirmed.
 
 ## Template and process for mass-uploading issues for promotional events
-{: #email-mass-upload}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 1. Duplicate [spreadsheet](https://docs.google.com/spreadsheets/d/1NW9KSx_lP-1mrx1Iidfgi42rXx1BMYFbNPVQKZmcxGE/edit?usp=sharing)    
@@ -475,7 +441,6 @@ https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/uploads/c644
 
 
 ## Adding “add to calendar” links in our emails without using 3rd party tools
-{: #email-add-to-calendar}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 Example:
 
@@ -487,7 +452,6 @@ It’s virtually impossible to support all the calendar applications available. 
 [Learn More Here](https://litmus.com/blog/how-to-create-an-add-to-calendar-link-for-your-emails)
 
 ### Steps to manually creating “add to calendar” links in our emails
-{: #steps-email-add-to-calendar}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 * Create google calendar link for your events
     - Use this tool to generate your event information: [http://kalinka.tardate.com/](http://kalinka.tardate.com/)
@@ -508,7 +472,6 @@ It’s virtually impossible to support all the calendar applications available. 
 
 
 ### Additional option for "add to calendar": APIs
-{: #add-event-api}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 * Use AddEvent API (available for $19/month billed annually for up to 50 events/month).<br>
   [https://www.addevent.com/plans-and-pricing ](https://www.addevent.com/plans-and-pricing)
@@ -518,7 +481,6 @@ It’s virtually impossible to support all the calendar applications available. 
 
 
 ## Lifecycle Campaign Development Process
-{: #campaign-process .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 The Lifecycle Marketing Manger is responsible for coordinating execution of Free User campaigns. They will develop an initial strategy in collaboration with Growth Product, Marketing Ops, Data, and other teams. The steps to execute have certain issue templates, which are built into the process (see epic code below).

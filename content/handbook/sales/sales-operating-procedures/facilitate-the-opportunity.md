@@ -105,7 +105,7 @@ The next component of the pitch deck is showing how GitLab can help. This will r
 
 - Research [Customer Use Cases](/handbook/use-cases/)
 - Align the customer’s pain point to a typical customer use case
-- Explain what Gitlab does in relation to the associated customer use case
+- Explain what GitLab does in relation to the associated customer use case
 
 This part of the customer deck will help orient your customer to what GitLab is and how we can help them.
 
@@ -113,7 +113,7 @@ This part of the customer deck will help orient your customer to what GitLab is 
 
 The data gathered from the discovery calls is analyzed by **AE/SAE** to make the determination of whether to qualify the lead in terms of GitLab value to their organization. Upon determination of qualifying, the AE/SAE then should engage a **Solution Architect** to begin the transition to the scoping phase of the sales process.
 
-1. **AE/ SAE performs a Gap Analysis** of data captured from discovery questioning and is held in the Customer Requirements document. Align customer requirements on the spreadsheet to the specific GitLab product line and denote if GitLab does or does not meet the requirement. This analysis will also provide you with possible devOps cycle entry points as customer requirements and goals do vary.
+1. **AE/ SAE performs a Gap Analysis** of data captured from discovery questioning and is held in the Customer Requirements document. Align customer requirements on the spreadsheet to the specific GitLab product line and denote if GitLab does or does not meet the requirement. This analysis will also provide you with possible DevOps cycle entry points as customer requirements and goals do vary.
 1. **AE/SAE introduces and engages** the Solution Architect in technical conversations and reviews Customer Requirement Document with Solution Architect.
 1. **AE/SAE updates relevant SFDC** fields with new information for formal handoff to the Solution Architect for **Scoping**. Utilize the **[Command Plan](/handbook/sales/command-of-the-message/command-plan/)** to track the progress of a deal. It’s an iterative document within Salesforce that gives you and your team macro and micro level visibility into an opportunity.
 
@@ -171,7 +171,7 @@ As you facilitate the deal, you must constantly test your points of contact as p
 
 ## Step 4: Getting the commit from the Economic Buyer
 
-To get an economic commitment you have to help a customer organization understand their common pain points and goals and assist them to plan to address those pain points and goals without being overtly involved in the decision making process. It creates urgency by showing the customer that the pain associated with not partnering with GitLab is greater than any pain associated with moving forward (3 Whys: Why Gitlab, Why Now, Why Do Anything At All).
+To get an economic commitment you have to help a customer organization understand their common pain points and goals and assist them to plan to address those pain points and goals without being overtly involved in the decision making process. It creates urgency by showing the customer that the pain associated with not partnering with GitLab is greater than any pain associated with moving forward (3 Whys: Why GitLab, Why Now, Why Do Anything At All).
 
 When you can do this properly, you will have made a consultative based case that compels the customer to make a decision to buy. This is done on the same side of the table with your identified champions/advocates. Below are the steps that need to be taken to engage and get a commitment from an economic buyer.
 

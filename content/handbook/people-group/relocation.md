@@ -17,9 +17,11 @@ A relocation that results in no change in compensation can be approved by the te
 
 Team Members are required to communicate a relocation by following the short-term or long-term relocation process below prior to their move. The consequences of not communicating to the appropriate group could result in [underperformance]({{< ref "underperformance" >}}) management action or loss of employment, depending on the circumstances.
 
-Generally, team members may live or work outside their permanent residence for an aggregate amount of 183 days (6 months) per year.  However, the amount does depend on the particular country (or state) and what it considers to be a "resident" for tax purposes, as well as what it considers the tax year.  If you are not sure about the aggregate amount allowed by the country or state where you are visiting, you should check with your personal tax advisor. If you believe you or a team member you manage is at risk of exceeding (or has already exceeded) the aggregate amount of 183 days (6 months) (or less in certain countries), you must contact the People group **immediately**.
+Generally, team members may live or work outside their permanent residence for an aggregate amount of 183 days (6 months) per year.  However, the amount does depend on the particular country (or state) and what it considers to be a "resident" for tax purposes, as well as what it considers the tax year.  If you are not sure about the aggregate amount allowed by the country or state where you are visiting, you should check with your personal tax advisor. If you believe you or a team member you manage is at risk of exceeding (or has already exceeded) the aggregate amount of 183 days (6 months) (or less in certain countries), you must contact the People Connect Team **immediately**.
 
 Having team members for 6 months or more working outside of their contractual location poses potential tax liability for both GitLab and the team member. For this reason, it is important to communicate transparently and promptly with the People Team.
+
+Additionally, certain roles require team members to be present in the location for which they were hired to support business activities.  Sales, for example, may require travel to customers and be available for customers within a specific time.  Team members must seek manager approval to work outside of their home location regardless of the length of time at that location. Managers can deny a relocation request or ask for a team member to change their request due to the impact on business results. If a team member fails to communicate and seek approval to work outside of their hired location could also result in underperformance management action or loss of employment, depending on the circumstances. Long-term relocations must follow the application and approval process outlined below (https://handbook.gitlab.com/handbook/people-group/relocation/#how-to-apply-for-a-long-term-relocation).
 
 ### Short-Term Stay Definition
 
@@ -42,7 +44,8 @@ A long-term relocation means that you will establish yourself in a new location.
 It is at the company's discretion to determine whether it can approve the relocation:
 
 - Some job positions require GitLab team members to be located in particular countries, locations, regions, or time zones.  For example, a salesperson hired to serve a specific region may need to stay in that region, or an engineer hired to respond to customer requests in a specific region/country.
-- GitLab only allows relocations to countries in which we already have a formed entity.  Review our [Country hiring guidelines]({{< ref "employment-solutions#country-hiring-guidelines" >}}) to see if the country is eligible for a relocation.
+- GitLab only allows relocations to countries in which we already have a formed entity that carries no hiring restrictions. Review our [Country hiring guidelines]({{< ref "employment-solutions#country-hiring-guidelines" >}}) to see if the country is eligible for a relocation.
+- GitLab cannot accept relocation requests to a location where there might be the possibility of the formation of a new entity until it is formally established, open for hiring, and the business objectives are fully understood.
 - You can only work in countries where you can establish eligibility to work in the country without visa sponsorship provided by GitLab.
 - Relocation may also result in an adjustment to compensation, including equity eligibility, based on the location and the location factor. Depending on the location factor and the benefits offered in the particular country, the adjustment may result in an increase or a decrease to the compensation package. The Company retains discretion to determine whether it can support such an adjustment.
 
@@ -149,7 +152,7 @@ The contract phase is unique based upon the team member's relocation. The differ
 ##### Tasks for People Connect
 
 1. Create a new [contract](https://internal.gitlab.com/handbook/people-group/people-operations/people-connect/employment_contracts/) for the team member confirming new compensation (if applicable) and effective date.
-    - If a team member is relocating to France, you should follow [similar steps to CES](https://handbook.gitlab.com/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#creating-a-french-offer), when creating a French offer, by requesting support from the [Legal,Employment Team](legal-employment@gitlab.com) to determine which contract template should be used and to have the relocating team member classified under the applicable CBA in France. One of the Legal, Employment Team members will respond with the following information:
+    - If a team member is relocating to France, you should follow [similar steps to CES](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#creating-a-french-offer), when creating a French offer, by requesting support from the [Legal,Employment Team](legal-employment@gitlab.com) to determine which contract template should be used and to have the relocating team member classified under the applicable CBA in France. One of the Legal, Employment Team members will respond with the following information:
         - The Template that you should use (A,B or C); and
         - The classification wording that should be added to the template (including information on where the wording should be placed on both the English & French sides)
     - No stock options are given through relocation, so that line can be removed
@@ -239,7 +242,7 @@ Once the contract or Mutual Termination Agreement (MTA) has been created by the 
 1. Stage the documents for signature in DocuSign. This document will be sent to the Signatory first and then to the team member.
   - Once signed, save the file into the team members Workday profile.
 1. Email an unsigned pdf of the document to both the German counsel as well as the team member.
-- Open the saved unsigned contract, remove Gitlab signatory from the below fields:
+- Open the saved unsigned contract, remove GitLab signatory from the below fields:
      1. **Summary Key of Terms** - Delete the GitLab Signatory's name and leave the field
         blank.
      1. **Scroll down to the end of the contract** - replace Signatory's name with “GitLab Signatory”. Save
@@ -274,7 +277,7 @@ Once the contract or Mutual Termination Agreement (MTA) has been created by the 
 
 ## Reporting for Relocations
 
-Access to to the 'Gitlab Team Member Relocations' Workday report can be requested via [this issue](https://gitlab.com/gitlab-com/people-group/people-tools-technology/general/issues/new?issuable_template=intake) and automatically sent on a regular basis.
+Access to to the 'GitLab Team Member Relocations' Workday report can be requested via [this issue](https://gitlab.com/gitlab-com/people-group/people-tools-technology/general/issues/new?issuable_template=intake) and automatically sent on a regular basis.
 
 This report will include the following information:
 

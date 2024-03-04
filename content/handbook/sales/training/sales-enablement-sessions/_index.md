@@ -20,23 +20,18 @@ description: "Continuous education webcast series for GitLab sales team members"
 
 To see what training is coming soon, view the [Field Enablement Spotlight issue list](https://gitlab.com/groups/gitlab-com/sales-team/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=sales%20enablement%20sessions).
 
-**Winter 2023 Lineup**
+**Spring 2024 Lineup**
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|
-| Nov 6 | Sales Ops Update: ASM Clari Best Practices | Clari Team |
-| Nov 9 | Sales Ops Update: AE Clari Best Practices | Clari Team |
-| Nov 16 | Competitive Update  | Joe K. |
-| Nov 23 | *No Session - Thanksgiving - US Holiday*  | N/A |
-| Nov 30 | Customer Win Stories & Enablement - Leveraging Professional Services | Melanie R. |
-| Dec 7 | TBD |  |
-| Dec 14 | TBD |  |
-| Dec 21 | TBD |  |
-| Dec 28 | TBD |  |
-| Jan 4 | TBD |  |
-| Jan 11 | TBD |  |
-| Jan 18 | *No session during the last week of the quarter* | N/A |
-| Jan 25 | *No session during the last week of the quarter* | N/A |
+| Mar 7 | Discovering Agile Planning Opportunities | SA Team  |
+| Mar 14 | **No Session - Summit** |  |
+| Mar 21 | Product Marketing Update | Marketing  |
+| Mar 28 | FY25-Q1 Revenue Play: GitLab Dedicated | Marketing  |
+| Apr 4 | FY25-Q1 - Partner Sales Update | Partner Sales Team |
+| Apr 11 | Cloud Licensing Exemptions Update  | Deal Desk Team |
+| Apr 18 | *No session during the last week of the quarter* | N/A |
+| Apr 25 | *No session during the last week of the quarter* | N/A |
 
 
 ## Past Sessions
@@ -47,6 +42,14 @@ To see what training is coming soon, view the [Field Enablement Spotlight issue 
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2024-02-29 | **[GitLab University Launch](https://drive.google.com/file/d/1C8fg_QMf-2F-QUOKiEj3MFiZvulape_X/view?usp=drive_link)** | Learning & Development Team |
+| 2024-02-15 | **[FY25 Deal Approval Matrix Changes](https://drive.google.com/file/d/1nNuSV6JwmcJfr1htco65czqtjeuU_jlM/view?usp=drive_link)** | Private  |
+| 2024-02-08 | **[Tools to Help You Win: SafeBase](https://drive.google.com/file/d/1QQ931l5ST8fJl8Ce4oNsbNE-Ux3k7CeR/view?usp=drive_link)** | Field Security |
+| 2024-02-01 | **[Tools to Help You Win: ZoomInfo Overview](https://drive.google.com/file/d/1c2iyOWA6RFfNfZeCxEbfaWEI6fs3lp47/view?usp=drive_link)** | Private |
+| 2023-12-14 | **[Code Suggestions GTM Launch Overview](https://drive.google.com/file/d/1NRqKjVdznClZNT2mFqdP7aYHkmSyfyCA/view?usp=drive_link)** | Private |
+| 2023-11-30 | **[Winning with Professional Services: Customer Stories](https://drive.google.com/file/d/1LkNyGpygFHpVY_b-6_nkY3m109lNqmb9/view?usp=drive_link)** | Private |
+| 2023-11-16 | **[FY24-Q4 Competitive Update](https://drive.google.com/file/d/12DsBAI4vC9mwc8_SrJuixNERL1_JKbzu/view?usp=drive_link)**  | Private |
+| 2023-11-09 | **[Sales Ops Update: AE Clari Best Practices](https://drive.google.com/file/d/1RGjNV4XvB-MkW-OTgw3ITu8-oGlKkns1/view?usp=drive_link)** | Private |
 | 2023-11-02 | **[How to Implement DORA Metrics in GitLab](https://drive.google.com/file/d/1XDqR6peiMYIBs-jdNuvXaz4WlTVqJsTU/view?usp=drive_link)** | Private |
 | 2023-10-19 | **[Pitching GitLab and the Top 10 Reasons Why](https://drive.google.com/file/d/1Mod-ZvWgt85gg55JQke0H1OmGlGm-0sp/view?usp=share_link)**  | Private |
 | 2023-10-12 | **[Analyst Relations - New Gartner & Forrester Security Reports](https://drive.google.com/file/d/1eHc9R-hOtnUT9KNB0oGMTi5mANZGLDKd/view?usp=drive_link)**  | Private |

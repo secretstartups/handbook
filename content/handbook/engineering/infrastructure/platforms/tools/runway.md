@@ -14,7 +14,7 @@ description: "Runway is GitLab's internal Platform as a Service, which aims to e
 
 Runway is GitLab's internal Platform as a Service implementation, which aims to enable teams to deploy and run their services quickly and safely. Having built-in capabilities for monitoring and scaling means that Development teams can focus on delivering and enhancing their features. 
 
-Runway is maintained by the [Scalability:Frameworks](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/frameworks.html) team.
+Runway is maintained by the [Scalability:Frameworks](/handbook/engineering/infrastructure/team/scalability/frameworks.html) team.
 
 ## Initial Goals
 
@@ -38,7 +38,7 @@ Please reach out to the team following the links below.
 
 ### How do I get further help?
 
-If you need further support in understanding whether Runway can help you, or you have feedback or questions, please reach out to the [Scalability:Frameworks](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/frameworks.html) team by either creating an [Issue](https://gitlab.com/gitlab-com/gl-infra/platform/runway/team/-/issues/new) or sending a message in [#f_runway](https://gitlab.slack.com/archives/C05G970PHSA).
+If you need further support in understanding whether Runway can help you, or you have feedback or questions, please reach out to the [Scalability:Frameworks](/handbook/engineering/infrastructure/team/scalability/frameworks.html) team by either creating an [Issue](https://gitlab.com/gitlab-com/gl-infra/platform/runway/team/-/issues/new) or sending a message in [#f_runway](https://gitlab.slack.com/archives/C05G970PHSA).
 
 ### Technical Specification
 

@@ -16,7 +16,7 @@ We are running with some limited capacity in the recruiting team and we are aski
 
 ## Hiring Process
 
-The process for Ops is a mix of the current [hiring manager (HM) tasks](/handbook/hiring/talent-acquisition-framework/hiring-manager/) and the [talent acquisition (TA) tasks](/handbook/hiring/talent-acquisition-framework/req-overview/).  We use [Evergreen Requisitions](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/req-creation/#evergreen-requisitions) as a single pipeline for inbound applications to similar roles. In addition, each hiring manager will use a separate Greenhouse requisition for their specific role. The Evergreen Req will be used in conjunction with the team-specific req to track candidates end to end through the hiring process.
+The process for Ops is a mix of the current [hiring manager (HM) tasks](/handbook/hiring/talent-acquisition-framework/hiring-manager/) and the [talent acquisition (TA) tasks](/handbook/hiring/talent-acquisition-framework/req-overview/).  We use [Evergreen Requisitions](/handbook/hiring/talent-acquisition-framework/req-creation/#evergreen-requisitions) as a single pipeline for inbound applications to similar roles. In addition, each hiring manager will use a separate Greenhouse requisition for their specific role. The Evergreen Req will be used in conjunction with the team-specific req to track candidates end to end through the hiring process.
 
 ### Step 1. Identify hiring need
 

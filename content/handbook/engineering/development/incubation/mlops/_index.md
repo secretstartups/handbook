@@ -7,7 +7,7 @@ title: MLOps Incubation Engineering
 
 DRI: [@eduardobonet](https://gitlab.com/eduardobonet)
 
-MLOps is a [Single-Engineer Group](/company/team/structure/#single-engineer-groups) within our [Incubation Engineering Department](/handbook/engineering/development/incubation/). This group works on early feature exploration and validation related to the [MLOps group](/direction/modelops/mlops) within the [ModelOps stage](/direction/modelops/).
+MLOps is a [Single-Engineer Group](/handbook/company/structure/#single-engineer-groups) within our [Incubation Engineering Department](/handbook/engineering/development/incubation/). This group works on early feature exploration and validation related to the [MLOps group](https://about.gitlab.com/direction/modelops/mlops) within the [ModelOps stage](https://about.gitlab.com/direction/modelops/).
 
 ## Vision & Mission
 
@@ -36,7 +36,7 @@ packaging a new model version.
 
 ## Usage
 
-* [Model Experiments Usage](https://app.periscopedata.com/app/gitlab/1138619/Model-experiments) (internal)
+* [Model Experiments Usage](https://gitlab.com/gitlab-data/tableau/-/issues/323) (internal)
 
 ## Jobs to Be Done
 

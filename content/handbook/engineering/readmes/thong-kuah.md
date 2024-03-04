@@ -12,13 +12,13 @@ job: "Staff Backend Engineer"
 
 ## Introduction
 
-Hello, my name is Thong Kuah. I am a Staff Backend Engineer with the [Tenant Scale group](https://about.gitlab.com/handbook/engineering/infrastructure/core-platform/data_stores/tenant-scale/). I currently reside in Wellington, New Zealand.
+Hello, my name is Thong Kuah. I am a Staff Backend Engineer with the [Tenant Scale group](/handbook/engineering/infrastructure/core-platform/data_stores/tenant-scale/). I currently reside in Wellington, New Zealand.
 
 I joined GitLab in 2018, starting with the Configure group.
 
 ## Links
 
-* [Team page](https://about.gitlab.com/company/team/#tkuah)
+* [Team page](/handbook/company/team/#tkuah)
 * [GitLab.com account](https://gitlab.com/tkuah)
 * [LinkedIn](https://www.linkedin.com/in/thong-kuah/)
 

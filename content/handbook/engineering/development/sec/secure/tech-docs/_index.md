@@ -56,7 +56,7 @@ This part is mainly covered by the following groups:
 
 ### Processing, visualization, and management
 
-Once the data is available as Report Artifact, it can be processed by the [GitLab rails application](https://gitlab.com/gitlab-org/gitlab) to enable our security features:
+Once the data is available as Report Artifact, it can be processed by the [GitLab Rails application](https://gitlab.com/gitlab-org/gitlab) to enable our security features:
 
 - [Security Dashboards](https://docs.gitlab.com/ee/user/application_security/security_dashboard/), Merge Request widget, Pipeline view, etc.
 - [Interactions with vulnerabilities](https://docs.gitlab.com/ee/user/application_security/#interacting-with-the-vulnerabilities)

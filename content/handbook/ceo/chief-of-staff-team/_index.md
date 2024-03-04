@@ -39,7 +39,7 @@ The primary project used by the CoST to track work specific to our team is [CoS 
 
 ## Kinds of projects CoST to the CEO works on{#what-projects-does-the-cost-work-on}
 
-Given the cross-functional nature of the [CEO OKRs](/handbook/company/okrs/#okr-process-at-gitlab) and given these projects are important to the CEO, the CoST is often involved in these initiatives as needed and as team member workload permits.
+Given the cross-functional nature of the [company OKRs](/handbook/company/okrs/#okr-process-at-gitlab) and given these projects are important to the CEO, the CoST is often involved in these initiatives as needed and as team member workload permits.
 
 ### Project Criteria
 
@@ -182,7 +182,6 @@ The CEO's GC slides usually cover:
 - A reminder on handbook first
 - Openings on the CEO Shadow Rotation
 - Timely announcements
-- Iteration Office Hours
 - Three things that are on the CEO's mind, usually from the CoS to the CEO agenda
 
 The GCs are stored in the "CEO Evangelism" folder on Google Drive.
@@ -255,7 +254,7 @@ The CoS to the CEO will also assist the CEO in prepping for the CEO's end of yea
 
 ## Managing the Functional Leaders
 
-Functional Leaders is a group comprised of all [CEO-Skips](/handbook/company/team/structure/#ceo-skips), select People Business Partners, and a few other folks as nominated by members of E-Group.
+Functional Leaders is a group comprised of all [CEO-Skips](/handbook/company/structure/#ceo-skips), select People Business Partners, and a few other folks as nominated by members of E-Group.
 The CoS to the CEO enables and manages this group.
 
 ## Maintaining the Mitigating Concerns
@@ -264,17 +263,29 @@ We outline our [Mitigating Concerns](https://internal-handbook.gitlab.io/handboo
 The CoS to the CEO is responsible for maintaining this list.
 There is an issue to also [add DRIs and review the mitigations](https://gitlab.com/gitlab-com/cos-team/-/issues/20).
 
-## Supporting Contribute Challenge
+## Supporting Summit Challenge
 
-The CEO chooses to run a Contribute Challenge in advance of some [Contributes](https://about.gitlab.com/events/gitlab-contribute/). The Challenge is shared at least two weeks in advance of Contribute. As an example, the 2020 Challenge encouraged team members to [beautify docs](https://gitlab.com/groups/gitlab-org/-/epics/3063). The CoST to the CEO is responsible for collaborating with the CEO to create and introduce the challenge. The CEO is responsible for identifying a prize for team members, but the CoST should ensure that a prize is identified and support the CEO in this if needed.
+The CEO chooses to run a Summit Challenge as part of some [Summits](https://about.gitlab.com/events/). The Challenge is shared on the first day of Summit. As an example, the 2020 Challenge encouraged team members to [beautify docs](https://gitlab.com/groups/gitlab-org/-/epics/3063). The CoST to the CEO is responsible for collaborating with the CEO to create and introduce the challenge. The CEO is responsible for identifying a prize for team members, but the CoST should ensure that a prize is identified and support the CEO in this if needed.
 
 ### Meeting Cleanup Day
 
-On February 14, or the Tuesday after if this day falls over the weekend or on Monday, we have an annual calendar cleanup day. This is a day when all team members are encouraged to look at their calendars and reassess the value and frequency of recurring meetings. The goals are to increase team member [efficiency](/handbook/values/#efficiency) as team members stop attending low value meetings and reassess how to make continuing meetings more productive. Team members should be empowered to:
+On February 14, or the Tuesday after if this day falls over the weekend or on Monday, we have an annual calendar cleanup day.
 
-- Cancel meetings or change the frequency if they feel that the current cadence does not add sufficient value
-- Remove themselves as meeting attendees if they don't feel that they are contributing or that participation supports business results
-- Ask other team members to reexamine how existing meetings are managed
+The template Slack post includes more information about the purpose and recommended actions:
+
+```plain
+:google_calendar: :broom: YYYY-MM-DD is Meeting Cleanup Day!
+
+At the start of each new fiscal year, we have a meeting cleanup day to encourage everyone to look at their calendars and assess the value and frequency of recurring meetings.
+
+With the goals of increasing efficiency and looking at how to make recurring meetings more productive, this practice acts as a reminder to:
+
+1. Cancel meetings or change the frequency if you feel that the current cadence does not add sufficient value
+2. Discuss removing yourself as an attendee with the meeting owner if you don’t feel that you are contributing or supporting business results through participation
+3. Ask other team members to reexamine how existing meetings are managed
+
+If you’re looking for possible wording to use when taking the actions above, and for more information about the cleanup day, please look at  https://handbook.gitlab.com/handbook/ceo/chief-of-staff-team/#meeting-cleanup-day.
+```
 
 When cancelling a meeting, a team member can copy and paste this message to send to attendees:
 *I evaluated the need for this meeting as part of [Meeting Cleanup Day](/handbook/communication/#meeting-cleanup-day). I have determined that the meeting is no longer needed. Please get in touch if you have any concerns.*
@@ -285,15 +296,15 @@ When changing the cadence of a meeting, a team member can copy and paste this me
 
 If you are a team member who intends to decline a meeting, the [asynchronous communication](/handbook/company/culture/all-remote/asynchronous/#how-to-decline-meetings-in-favor-of-async) section of the handbook has some good suggestions for what to say when you decline.
 
-Meeting Cleanup Day is intentionally a few weeks after the start of the new fiscal year. The CoS to the CEO will launch this initiative annually a week in advance through posting in the `#company-fyi` Slack channel.
+Meeting Cleanup Day is intentionally near the start of the new fiscal year. The CoST will launch this initiative annually a week in advance through posting in the `#whats-happening-at-gitlab` Slack channel, and by re-posting a reminder at 00:00 UTC on cleanup day. CoST (or CoS) will repost in the `#managers` channel for visibility.
 
 ## Program managing [JiHu](https://about.gitlab.com/pricing/faq-jihu/)
 
 A member of the Chief of Staff Team to the CEO is the DRI within GitLab for the success of GitLab's partnership with JiHu. Coordination with JiHu requires engagement from multiple functions within GitLab. The CoST to the CEO ensures that the appropriate folks are engaged at the right times and that GitLab provides appropriate support to this separate entity.
 
-For example, this member ensures that there is an aligned process among relevant Gitlab functions after a customer requests to [transit to JiHu] (https://about.gitlab.com/pricing/faq-jihu/#customer-details):
+For example, this member ensures that there is an aligned process among relevant GitLab functions after a customer requests to [transit to JiHu] (https://about.gitlab.com/pricing/faq-jihu/#customer-details):
 
-1. After the Customer's request of novation from Gitlab to JiHu is approved, the member of the Chief of Staff Team to the CEO opens a new issue as soon as the contract is issued, and assigns the issue to Gitlab Accounting department.
+1. After the Customer's request of novation from GitLab to JiHu is approved, the member of the Chief of Staff Team to the CEO opens a new issue as soon as the contract is issued, and assigns the issue to GitLab Accounting department.
 1. This issue triggers the Accounting development to update SFDC, Zuora and NS.
 1. If there is no issue raised in the month, it means there is no novation in that month.
 1. This process takes effects from 2023-02-01, and replaces the previous process that an issue is created each month regardless whether there is novation in the month or not.
@@ -304,7 +315,7 @@ As of FY23, the Chief of Staff Team to the CEO is [responsible for the GitLab ha
 This includes maintaining infrastructure and ensuring usability of both the internal and public handbooks.
 
 During FY24, we have started the migration of handbook content from [about.gitlab.com](https://about.gitlab.com/handbook)
-to our [new handbook site]({{< ref "/content/_index.md" >}}).
+to our [new handbook site]({{< ref "/_index.html" >}}).
 
 We are excited by this move which we hope will improve the usability of the handbook and demonstrate our commitment to
 our values of iteration, collaboration, and transparency.  During the coming months we will be iterating over the handbook

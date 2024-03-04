@@ -12,7 +12,7 @@ description: "What Are the Create:IDE Team Principles?"
 
 ## Overview
 
-We outline the Create:IDE team principles as practical applications of our [CREDIT value system](https://about.gitlab.com/handbook/values/). These principles are not meant to be exhaustive. This page contains our formalized observations about how the Create:IDE team operates, and other teams in GitLab may have different perspectives.
+We outline the Create:IDE team principles as practical applications of our [CREDIT value system](/handbook/values/). These principles are not meant to be exhaustive. This page contains our formalized observations about how the Create:IDE team operates, and other teams in GitLab may have different perspectives.
 
 ## Fight for the user
 

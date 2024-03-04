@@ -65,7 +65,7 @@ Steps to uplevel triaging process:
 |                   | G&A Data Fusion | | `@Peter Empey` | `@lisvinueza`  | | | |  
 | `@EngineeringAnalyticsTriage` | Engineering Analytics |  |  | `@Raul Rendon` | |  `@lily` | 
 |                   | Engineering Data Fusion |  | `@Peter Empey`  | `@lisvinueza` |  |     |     |
-| `@DataPlatformTriage` | Data Platform | | [Weekly rotation](https://gitlab.com/gitlab-data/analytics/-/issues/14815#note_1159130336) | [Weekly rotation](https://gitlab.com/gitlab-data/analytics/-/issues/14815#note_1159130336) | [Weekly rotation](https://gitlab.com/gitlab-data/analytics/-/issues/14815#note_1159130336) | [Weekly rotation](https://gitlab.com/gitlab-data/analytics/-/issues/14815#note_1159130336) | [Weekly rotation](https://gitlab.com/gitlab-data/analytics/-/issues/14815#note_1159130336) |
+| `@DataPlatformTriage` | Data Platform | | Weekly rotation | Weekly rotation | Weekly rotation | Weekly rotation | Weekly rotation |
 | `@DataCollaborationTriage` | Data Collaboration |  |  |  |   | | | 
 
 #### Data Platform weekly rotation schedule
@@ -77,13 +77,9 @@ In FY23-Q4 the Data Platform Team ran an experiment to move from a daily triage 
 Also a pulse check amongst Data Platform Team members learned that triage was more efficient because Team members were able to focus better.
 The Data Platform Team will run on a weekly rotation schedule moving forward. This means that a Data Platform Team member is performing triage responsibilities from Monday - Friday. With running a weekly schedule Team members could focus more and better on outstanding issues and incidents and prevent doing handovers each and every day.
 
-Before the start of the quarter the Data Platform Team aligns on the weekly rotation schedule via an issue.
+Before the start of the quarter the Data Platform Team aligns on the weekly rotation schedule via an issue follewed by updating the Data Team calendar.
 
-- FY24-Q2: https://gitlab.com/gitlab-data/analytics/-/issues/16229
-- FY24-Q1: https://gitlab.com/gitlab-data/analytics/-/issues/15407
-- FY23-Q4: https://gitlab.com/gitlab-data/analytics/-/issues/14815
-
-Because of public holidays or unforeseen circumstances (Family and Friends day excluded, on these days we do not perform triage), the schedule can change throughout the quarter where there is still a possibility to handover a single day amongst Data Platform Team members. These changes are arranged between team members and are reflected in the Data Team calendar.
+Because of public holidays or unforeseen circumstances (Family and Friends day excluded, on these days we do not perform triage), the schedule can change throughout the quarter where there is still a possibility to handover a single day amongst Data Platform Team members. These changes are arranged between team members and are reflected in the Data Team calendar. This means that the Data Team calendar is the single source of truth.
 
 ### Enterprise Data Program Triage Instructions
 
@@ -154,7 +150,7 @@ The Central Data Team triager will create [an issue in the Data Team project](ht
 
 ### Incident
 
-The Data Team follows the [incident definition](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management) from Engineering: Incidents are anomalous conditions that result in—or may lead to—service degradation or outages. These events require human intervention to avert disruptions or restore service to operational status.
+The Data Team follows the [incident definition](/handbook/engineering/infrastructure/incident-management) from Engineering: Incidents are anomalous conditions that result in—or may lead to—service degradation or outages. These events require human intervention to avert disruptions or restore service to operational status.
 
 Service degradation or outages in data can be seen as:
 - Data is not available
@@ -166,7 +162,7 @@ This means the following events (not extensive) are likely to be incidents:
 - DBT model failed (and downstream models are skipped)
 - DBT test failure
 - DBT source freshness failure
-- Infrastructural incident (Snowflake not accessible, Sisense not accessible)
+- Infrastructural incident (Snowflake not accessible, Tableau not accessible)
 - Data source not available
 - Data pipeline not running
 
@@ -200,7 +196,7 @@ In order to get better and be more efficient in daily triage, we wrap-up the wor
 - Time Tracking: Listing down the time spent that day on triage and which activities are performed. The general idea is to gain an understanding on where the workload is, in order to optimize those activities. Please list down the work so it is useful for analysis purposes. I.e:
    - 2 hours solving data ingestion issue, for source x
    - 1 hours solving data transformation issue
-   - 1 hour on solving a broken Sisense Dashboard
+   - 1 hour on solving a broken Tableau Dashboard
    - 1 hour triaging and re-routing (new) issues
    - 0.5 hour on answering Slack questions
 - Groundhog Issues. Issues that occur on a regular basis are annoying and costing us unnecessary time. List down any issue that is popping up time after time. This is in order to find any spots in the current landscape to address.
@@ -218,7 +214,7 @@ Although running a weekly rotation, we expect the triager to post an EOD announc
 
 ### GitLab.com databases structure changes
 
-GitLAb.com databases do regularly change. In order not to break the daily operation, changes to the database needs to be tracked and checked. Any change to the GitLab.com database and CustomerDot database is tracked by the Danger Bot. The Data Team gets notified, by applying labels to the MR, if a change to the db/structure\.sql is made.
+GitLab.com databases do regularly change. In order not to break the daily operation, changes to the database needs to be tracked and checked. Any change to the GitLab.com database and CustomerDot database is tracked by the Danger Bot. The Data Team gets notified, by applying labels to the MR, if a change to the db/structure\.sql is made.
 
 A label `Data Warehouse::Impact Check` is added by the Danger Bot as call to action for the data team.
 - On triage, the Triager will [check](https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&state=opened&label_name[]=Data%20Warehouse%3A%3AImpact%20Check&draft=no&approved_by_usernames[]=Any) for MRs with label `Data Warehouse::Impact Check`.
@@ -233,7 +229,8 @@ The following actions are performed by Data Team Triager:
       - The Label will be changed to `Data Warehouse::Impacted`
       - A new issue is opened in the `GitLab Data Team project`, assigned to the correct DRI and linked to the original MR.
       - Impact will be determined in the issue.
-      - Any MRs will be created to overcome loading issues, downstream dbt processing and Sisense usage.
+      - Any MRs will be created to overcome loading issues, downstream dbt processing and Tableau usage.
+         - If impact is beyond data loading, this means the data is used downstream, an Analytics Engineer **must** be included to also determine the business impact of the upstream change. 
       - According to the Merge of the GitLab.com MR, merge will be planned.
    - If the `MR` does not contains the label `group::product intelligence` and it concerns changes to `SQL` structure:
       - Check if it will break the operation / data pipeline, following the Determination matrix below.
@@ -244,7 +241,8 @@ The following actions are performed by Data Team Triager:
       - The Label will be changed to `Data Warehouse::Impacted`
       - A new issue is opened in the `GitLab Data Team project`, assigned to the correct DRI and linked to the original MR.
       - Impact will be determined in the issue.
-      - Any MRs will be created to overcome loading issues, downstream dbt processing and Sisense usage.
+      - Any MRs will be created to overcome loading issues, downstream dbt processing and Tableau usage.
+         - If impact is beyond data loading, this means the data is used downstream, an Analytics Engineer **must** be included to also determine the business impact of the upstream change. 
       - According to the Merge of the GitLab.com MR, merge will be planned.
       - All stakeholders will be informed.
 
@@ -270,7 +268,7 @@ flowchart TD
     CHANGE_LABEL_I-->OI(Open an new issue is opened in the `GitLab Data Team project`)
     subgraph "Data team project" 
        OI-->IM(Impact will be determined in the issue)
-       IM-->CHECK(Check downstream dbt processing and Sisense usage)
+       IM-->CHECK(Check downstream dbt processing and Tableau usage)
        CHECK-->PL(Plan MR)
        PL-->INFORM(Inform stakeholders)
     end
@@ -403,7 +401,7 @@ See the [source contact spreadsheet](https://docs.google.com/spreadsheets/d/1VKv
 | ------------------------- |
 | DAG `sheetload` <br> Task `dbt-sheetload`  <br> |
 | Background: This is an issue with Google sheets when data is being imported from a second sheet using Google sheets' import function. Occasionally the connections between the sheets stop working and the sheet needs to be refreshed. |
-| More information of the setup [here](/handbook/business-technology/data-team/platform/pipelines/#sheetload).  |
+| More information of the setup [here](https://internal.gitlab.com/handbook/enterprise-data/platform/pipelines/#sheetload).  |
 | Possible steps, resolution and actions: <br> - In general you should just need to open the Google sheet which is failing and confirm the data has been re-populated. <br> - If you do not have access to the sheet contact @gitlab-data/engineers and confirm if anyone else does. |
 
 
@@ -492,7 +490,6 @@ We need to work in our normal working hour perform the list of task mentioned fo
 On the Triage day the data team member present will look for all the failures, questions or errors in:
 - The Slack-channels; #data-prom-alerts #analytics-pipelines and #data
 - Newly added [issues](https://gitlab.com/groups/gitlab-data/-/boards/1917859?&label_name[]=Priority%3A%3A1-Ops&label_name[]=Triage)
-- The TDF dashboard in [Sisense](https://app.periscopedata.com/app/gitlab/756199/Trusted-Data-Dashboard)
 
 It includes all the failures since the last person did sign off and will create an issue for all the failures since then till the person signs off.
 If any data pipeline has broken and there is expected to be a delay in getting data loaded or refreshed. The concerned team has to be notified using the [Triage Template (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/new)

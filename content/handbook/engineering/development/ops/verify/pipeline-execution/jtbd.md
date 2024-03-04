@@ -1,18 +1,11 @@
 ---
-
 title: Pipeline Execution Group - JTBD
 description: The jobs-to-be-done that the Pipeline Execution Group is solving for.
 ---
 
-
-
-
-
-
-
 ## Overview
 
-The goal of this page is to document, share and iterate on the Jobs to be Done (JTBD) and their corresponding job statements for the Pipeline Execution group. Using JTBD framework we intend to arrive at the more specific problems to be solved in relation to Continuous Integration workflows. 
+The goal of this page is to document, share and iterate on the Jobs to be Done (JTBD) and their corresponding job statements for the Pipeline Execution group. Using JTBD framework we intend to arrive at the more specific problems to be solved in relation to Continuous Integration workflows.
 
 ## Goals
 
@@ -26,4 +19,4 @@ Utilize JTBD and job statements to:
 
 ## JTBD
 
-<%= partial("direction/jtbd-list", locals: { stage_key: "Pipeline Execution" }) %>
+{{% jtbd "Pipeline Execution" %}}

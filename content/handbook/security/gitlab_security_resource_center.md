@@ -18,7 +18,7 @@ Our Customer Assurance Package contains documents such as our SOC2 report, ISO 2
 
 ### GitLab's Trust Center
 
-Our [Trust Center](https://about.gitlab.com/security/) outlines the various compliance and assurance credentials that GitLab maintains. This page also contains links to important security, legal & privacy, and availability resources, such as an [overview of our security practices]({{< ref "_index.md#security-practices" >}}), our [Environmental, Social, and Governance strategy](/handbook/legal/ESG/), and our [production architecture](https://about.gitlab.com/handbook/engineering/infrastructure/production/architecture/).
+Our [Trust Center](https://about.gitlab.com/security/) outlines the various compliance and assurance credentials that GitLab maintains. This page also contains links to important security, legal & privacy, and availability resources, such as an [overview of our security practices]({{< ref "_index.md#security-practices" >}}), our [Environmental, Social, and Governance strategy](/handbook/legal/ESG/), and our [production architecture](/handbook/engineering/infrastructure/production/architecture/).
 
 ## Frequently asked questions
 
@@ -26,7 +26,7 @@ The following links contain frequently asked security, legal & privacy, and avai
 
 - [Security FAQs](https://about.gitlab.com/security/faq/)
 - [Legal & Privacy FAQs](https://about.gitlab.com/privacy/)
-- [Availability FAQs](https://about.gitlab.com/handbook/engineering/infrastructure/faq/)
+- [Availability FAQs](/handbook/engineering/infrastructure/faq/)
 
 ## Control topics
 
@@ -68,8 +68,8 @@ The following links contain frequently asked security, legal & privacy, and avai
 ### Disaster recovery
 
 - [Disaster recovery plan](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/library/disaster-recovery/index.md)
-- [Database disaster recovery](https://about.gitlab.com/handbook/engineering/infrastructure/database/disaster_recovery.html)
-- [Database overview](https://about.gitlab.com/handbook/engineering/infrastructure/database/)
+- [Database disaster recovery](/handbook/engineering/infrastructure/database/disaster_recovery.html)
+- [Database overview](/handbook/engineering/infrastructure/database/)
 
 ### Endpoint management
 
@@ -96,17 +96,17 @@ The following links contain frequently asked security, legal & privacy, and avai
 
 ### Logging and monitoring
 
-- [Monitoring of gitlab.com](https://about.gitlab.com/handbook/engineering/monitoring/)
-- [Log management for gitlab.com](https://about.gitlab.com/handbook/engineering/monitoring/#logs)
-- [Logging and monitoring architecture](https://about.gitlab.com/handbook/engineering/infrastructure/production/architecture/#monitoring-and-logging)
+- [Monitoring of gitlab.com](/handbook/engineering/monitoring/)
+- [Log management for gitlab.com](/handbook/engineering/monitoring/#logs)
+- [Logging and monitoring architecture](/handbook/engineering/infrastructure/production/architecture/#monitoring-and-logging)
 - [GitLab audit logging policy]({{< ref "audit-logging-policy" >}})
 - [Log and audit requests process]({{< ref "log_requests" >}})
-- [Infrastructure department KPIs](https://about.gitlab.com/handbook/engineering/infrastructure-quality/performance-indicators/#gitlabcom-availability)
+- [Infrastructure department KPIs](/handbook/engineering/infrastructure-quality/performance-indicators/#gitlabcom-availability)
 - [Infrastructure production runbooks](https://gitlab.com/gitlab-com/runbooks/)
 
 ### Network security
 
-- [Network security management procedure](https://about.gitlab.com/handbook/engineering/infrastructure/network-security/)
+- [Network security management procedure](/handbook/engineering/infrastructure/network-security/)
 - [GitLab security requirements for deployment and development]({{< ref "security-development-deployment-requirements" >}})
 
 ### Privacy
@@ -132,10 +132,10 @@ The following links contain frequently asked security, legal & privacy, and avai
 
 - [Threat modeling at GitLab]({{< ref "./threat-modeling" >}})
 - [Threat modeling How To Guide]({{< ref "./threat-modeling/howto" >}})
-- [Application security threat modeling process]({{< ref "./security-engineering/application-security/runbooks/threat-modeling" >}})
+- [Application security threat modeling process]({{< ref "./product-security/application-security/runbooks/threat-modeling" >}})
 
 ### Vulnerability management
 
 - [Vulnerability management standard]({{< ref "./threat-management/vulnerability-management" >}})
-- [Application vulnerability management procedure]({{< ref "./security-engineering/application-security/vulnerability-management" >}})
+- [Application vulnerability management procedure]({{< ref "./product-security/application-security/vulnerability-management" >}})
 - [Infrastructure vulnerability management procedure]({{< ref "./threat-management/vulnerability-management/Infrastructure-vulnerability-procedure" >}})

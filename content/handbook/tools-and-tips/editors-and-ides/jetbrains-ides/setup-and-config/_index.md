@@ -90,6 +90,10 @@ If you have the memory to spare on your workstation, it will help your performac
 
 ## Configuration
 
+### UPDATE 2023=12
+
+Based on demo previews, it looks like the new [Toolbox Enterprise](https://www.jetbrains.com/toolbox-enterprise/) features will finally provide a viable and easy way to share configuration across a team. Jetbrains has said that the features we need should be available sometime around mid-2024.
+
 ### UPDATE 2023-11
 
 With the deprecation of the Settings Repository feature, JetBrains has acknowledged that
@@ -116,7 +120,7 @@ TODO: So, all of the sections below could use a reorg and rewrite in light of th
 ### TL;DR
 
 If you want to get your JetBrains (RubyMine) configured to work (and specifically
-work with Gitlab):
+work with GitLab):
 
 1. Your best bet is probably "Manual Option 1: Manually configure everything".
    This will take maybe an hour or so, but you'll learn your way around the settings.

@@ -37,6 +37,12 @@ Process to be added below.
 | [Kevin Chu](/handbook/company/team/#kevinchu) | Product DRI |
 | [Lin Jen-Shin](/handbook/company/team/#godfat) | Engineering Facilitator |
 
+### JiHu engineering contact
+
+[MAO Chao](https://gitlab.com/chaomao) is the JiHu engineering contact
+for GitLab Inc. When GitLab Inc makes changes which requires JiHu to also
+change, MAO can help coordinate.
+
 ### Projects
 
 JiHu team projects are located at <https://jihulab.com/gitlab-cn/>. Mirrored projects for `gitlab-org` tooling and compliance checks are available at <https://gitlab.com/gitlab-org/gitlab-jh-mirrors/>.
@@ -91,7 +97,7 @@ To notify JiHu of an upcoming security release, please simply post a comment in:
 
 GitLab Inc will follow the [documented vulnerability disclosure process](https://about.gitlab.com/security/disclosure/#vulnerability-disclosure) and will not provide detailed information about vulnerabilities directly to JiHu. No information will be shared prior to or during an in-progress security release.
 
-Only after a GitLab [security release](/handbook/security/#security-releases), GitLab Inc may provide JiHu with:
+Only after a GitLab [security release](https://about.gitlab.com/handbook/engineering/releases/security-releases/), GitLab Inc may provide JiHu with:
 
 - A link to the public security release blog post
 - A link to the GitLab issue describing the vulnerability, which will remain confidential until 30 days after the release in which the vulnerability was patched
@@ -153,7 +159,7 @@ If there is no clear design proposal yet, or there are conflicts with Pajamas or
 To facilitate collaboration and feedback, JiHu plans ahead of GitLab's milestone  planning process to give GitLab product groups time to provide feedback ahead of implementation. The following will happen every milestone:
 
 1. JiHu will create a milestone planning issue in the [gitlab-jh-enablement project](https://gitlab.com/gitlab-jh/gitlab-jh-enablement), such as this [example](https://gitlab.com/gitlab-jh/gitlab-jh-enablement/-/issues/269). JiHu typically provides the plan 2 weeks before the 18th of the month.
-1. For any items which do not already have an issue in the Gitlab.org project, the JiHu team creates an issue. If there is an existing issue, it is linked to from the milestone planning issue. This helps the GitLab product group track JiHu contributions in the same place where other day to day work is tracked.
+1. For any items which do not already have an issue in the GitLab.org project, the JiHu team creates an issue. If there is an existing issue, it is linked to from the milestone planning issue. This helps the GitLab product group track JiHu contributions in the same place where other day to day work is tracked.
 1. The Product DRI will facilitate awareness and encourage collaboration via the [JiHu Milestone Review Template](https://gitlab.com/gitlab-com/Product/-/blob/main/.gitlab/issue_templates/Monthly-JiHu-Milestone-Review.md)
 1. Individual product manager and their engineering counterparts will provide feedback to JiHu as needed
 
@@ -181,4 +187,4 @@ We differentiate proprietary features for JiHu distributions by including them i
 
 - [GitLab licensed its technology to new independent Chinese company](https://about.gitlab.com/blog/2021/03/18/gitlab-licensed-technology-to-new-independent-chinese-company/)
 - [GitLab licensing technology to independent Chinese company FAQ](/handbook/faq-gitlab-licensing-technology-to-independent-chinese-company/)
-- [China Service Working Group](/handbook/company/team/structure/working-groups/china-service/)
+- [China Service Working Group](/handbook/company/working-groups/china-service/)

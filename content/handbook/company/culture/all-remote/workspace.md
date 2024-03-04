@@ -252,7 +252,7 @@ Research has [found](https://www.bbc.com/worklife/article/20160617-the-never-end
 
 - GitLab Head of Remote, Darren M., shares details on his work-from-home arrangement, which includes a mirrorless camera as a webcam for optimal video quality.
 - Job van der Voort, CEO at Remote, provides [a breakdown of his top-notch home office setup](https://remote.com/blog/maximum-productivity-home-office).
-- GitLab Developer Evangelist Michael F. [details his current setup](https://dnsmichi.at/all-remote-workspace) with helpful tips on lighting, apps and settings, and how to personalize your workspace.
+- GitLab Developer Advocate Michael F. [details his current setup](https://dnsmichi.at/all-remote-workspace) with helpful tips on lighting, apps and settings, and how to personalize your workspace.
 - Emma Bostian, Software Engineer at Spotify, [writes about her home-office tech setup for recording courses and podcasts](https://dev.to/emmabostian/lights-camera-action-my-tech-setup-for-recording-courses-podcasts-2p6j)
 - Andreas Klinger, founder at [Remote First Capital](https://www.remotefirstcapital.com), maintains an [ongoing Twitter thread](https://twitter.com/andreasklinger/status/1238325463300202497) of exceptional at-home workspaces.
 

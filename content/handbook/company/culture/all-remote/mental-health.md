@@ -345,7 +345,7 @@ The following tools and strategies are used by the GitLab team to manage burnout
 | ----- | ----- |
 | [Headspace](https://www.headspace.com/subscriptions) | Meditation app |
 | [Non-Linear Workdays]({{< ref "./non-linear-workday" >}}) | All-remote work strategy to increase life harmony |
-| README Files | Space to share bio, remote work setup, and information about working style. Check out the [GitLab's Engineering Team README files](https://about.gitlab.com/handbook/engineering/readmes) as an example.|
+| README Files | Space to share bio, remote work setup, and information about working style. Check out the [GitLab's Engineering Team README files](/handbook/engineering/readmes) as an example.|
 | Slack | Non-work conversation in channels like `#mindfulness` and `#mental-health-aware` |
 | [The donut bot]({{< ref "./informal-communication#the-donut-bot" >}}) | Random coffee chat meeting match bot |
 | [Modern Health Community Circles](https://circles.modernhealth.com) | Public community converstaions hosted by Modern Health |

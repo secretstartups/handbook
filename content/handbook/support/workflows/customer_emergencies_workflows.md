@@ -67,7 +67,7 @@ We [assume positive intent](/handbook/values/#assume-positive-intent) and use ou
 | ...meets the [definition of Severity 1](https://about.gitlab.com/support/definitions/#severity-1), | `General::Emergency::Strict Definition` | ...your plan to work the emergency. |
 | ...qualifies under one of our [exception criteria](/handbook/support/workflows/emergency_exception_workflow#exception-criteria), | `General::Emergency::Exception` | ...that the situation is being treated as an emergency as a courtesy. |
 | ...needs more information to allow us to determine whether it qualifies as an emergency, | `General::Emergency::Needs more info` | ...that you [will proceed asynchronously](#communicating-that-you-need-more-info) until that determination can be made. |
-| ...does not meet the criteria for an [emergency](https://about.gitlab.com/support/definitions/#severity-1) or an [exception](/handbook/support/workflows/emergency_exception_workflow#exception-criteria), | `General::Emergency::Not an Emergency` | ...that their situation [does not qualify for emergency service](#communicate-the-priority-downgrade). |
+| ...does not meet the criteria for an [emergency](https://about.gitlab.com/support/definitions/#severity-1) or an [exception](/handbook/support/workflows/emergency_exception_workflow#exception-criteria), | `General::Emergency::Not an Emergency` and `Downgrade emergency ticket` | ...that their situation does not qualify for emergency service. Follow the section [Handling an emergency downgrade](#handling-an-emergency-downgrade). |
 
 #### Communicating that you need more info
 
@@ -85,15 +85,20 @@ Once you have enough information to make a determination, use one of the other m
 
 #### Handling an emergency downgrade
 
-##### Change the ticket priority
+##### Apply "Downgrade emergency ticket" macro
 
-Using our [Definitions of support impact](https://about.gitlab.com/support/definitions/#definitions-of-support-impact),
-select the most appropriate actual priority for the ticket, and make the change
-to the ticket. If the customer submitted the emergency request related to an
-existing ticket, close the emergency ticket when you deliver the downgrade
-message, and be sure the existing ticket has the priority you selected.
+Applying the macro will lead to the following changes:
+- Form will be set to Self-Managed.
+- Priority will be set to High.
+- Ticket stage will be set to NRT.
 
-##### Communicate the priority downgrade
+Adjust the form depending on the ticket type and set the priority based on our
+[Definitions of support impact](https://about.gitlab.com/support/definitions/#definitions-of-support-impact).
+If the customer submitted the emergency request related to an existing ticket,
+close the emergency ticket when you deliver the downgrade message,
+and be sure the existing ticket has the priority you selected.
+
+##### Communicate the emergency downgrade
 
 It's important that we deliver the downgrade message as carefully and
 thoughtfully as possible. Customers who submit an emergency request are often
@@ -309,9 +314,9 @@ If you are still stuck *and* are having difficulty finding help, contact the [ma
 
 ### Triggering a Developer Escalation
 
-On rare occasions, you and the manager on-call may decide it's necessary to initiate the [developer escalation process](https://about.gitlab.com/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#escalation-process) to get the needed developer input. Keep in mind that the developer who takes the escalation might not be familiar with the aspect of GitLab that is the focus of the emergency, and it can take them time to get up to speed.
+On rare occasions, you and the manager on-call may decide it's necessary to initiate the [developer escalation process](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#escalation-process) to get the needed developer input. Keep in mind that the developer who takes the escalation might not be familiar with the aspect of GitLab that is the focus of the emergency, and it can take them time to get up to speed.
 
-To trigger a developer escalation, see [this process outline](https://about.gitlab.com/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#process-outline).
+To trigger a developer escalation, see [this process outline](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#process-outline).
 
 ## License Emergencies
 
@@ -379,7 +384,7 @@ We're expecting, broadly that emergencies will fall into one of five categories:
 - **broken functionality due to an inconsistency in data unique to the customer**, for example: a group name used to be able to have special characters in it, and now something broke because our group name has a special character in it.
   - Success may mean reproducing the error, identifying it Sentry/Kibana, escalating to have the specific data corrected (and creating a bug report so our code is better)
 - **GitLab.com access or "performance" degradation to the level of unusability**, for example: no access in a geographical area, CI jobs aren't being dispatched. This is the hardest class, but will generally be operational emergencies.
-  - Success here means making sure it's not actually one of the top two before [declaring an incident](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#report-an-incident-via-slack) and letting the SRE team diagnose and correct the root cause.
+  - Success here means making sure it's not actually one of the top two before [declaring an incident](/handbook/engineering/infrastructure/incident-management/#report-an-incident-via-slack) and letting the SRE team diagnose and correct the root cause.
 
 - **License / Consumption issues are preventing access to the product**
   - Success here means getting the customer into a state where they're unblocked and making sure the license team is equipped to take the handover.
@@ -400,9 +405,9 @@ If a customer is reporting that behaviour has recently changed, first check [Git
 
 1. Create a `~"type::bug"` issue and have the customer review it.
 1. Escalate the `~"type::bug"` issue
-   - If it's a new bug, or a bug with [S1/S2 severity](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity) escalate using the [InfraDev Escalation Process](https://about.gitlab.com/handbook/engineering/development/processes/Infra-Dev-Escalation/). In most cases we will generate a roll-back patch and apply it to Gitlab.com.
-   - If it's a feature flag, work with the who turned it on to [disable it through ChatOps](https://docs.gitlab.com/ee/development/feature_flags/controls.html#disabling-feature-flags). In some cases, you may need to use the [InfraDev Escalation Process](https://about.gitlab.com/handbook/engineering/development/processes/Infra-Dev-Escalation/) to raise a developer.
-1. If this is affecting multiple customers, [declare an incident](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#report-an-incident-via-slack) to engage the incident response team who will update the status page.
+   - If it's a new bug, or a bug with [S1/S2 severity](/handbook/engineering/quality/issue-triage/#severity) escalate using the [InfraDev Escalation Process](/handbook/engineering/development/processes/Infra-Dev-Escalation/). In most cases we will generate a roll-back patch and apply it to GitLab.com.
+   - If it's a feature flag, work with the who turned it on to [disable it through ChatOps](https://docs.gitlab.com/ee/development/feature_flags/controls.html#disabling-feature-flags). In some cases, you may need to use the [InfraDev Escalation Process](/handbook/engineering/development/processes/Infra-Dev-Escalation/) to raise a developer.
+1. If this is affecting multiple customers, [declare an incident](/handbook/engineering/infrastructure/incident-management/#report-an-incident-via-slack) to engage the incident response team who will update the status page.
 1. Once the original functionality is restored, update the customer.
 
 #### Broken functionality due to something specific to the customer
@@ -411,7 +416,7 @@ If a customer is reporting that behaviour has recently changed, first check [Git
 
 #### Broken functionality due to an incident
 
-If there is a known incident, it's acceptable to link to the public status page and related incident issue. Consider using [`Support::SaaS::Incident First Response`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/Support/SaaS/Incident%20First%20Response.yaml).
+If there is a known incident, it's acceptable to link to the public status page and related incident issue. Consider using [`Support::SaaS::Gitlab.com::Incident First Response`](https://gitlab.com/gitlab-com/support/zendesk-global/macros/-/blob/master/active/Support/SaaS/GitLab.com/Incident%20First%20Response.md?ref_type=heads).
 
 #### Example tickets
 
@@ -447,7 +452,7 @@ If this occurs:
 
 1. Don't panic! Slack and PD alerts may come quickly and frequently. Consider silencing both temporarily and focus on ZD.
 1. Verify that an [incident has been declared](/handbook/support/workflows/cmoc_workflows#how-are-incidents-declared) and that the incident is actively being worked.
-1. If there is no update on the status page yet, advocate for urgency with the [CMOC](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#communications-manager-on-call-cmoc-responsibilities) so that you can point to it in responses.
+1. If there is no update on the status page yet, advocate for urgency with the [CMOC](/handbook/engineering/infrastructure/incident-management/#communications-manager-on-call-cmoc-responsibilities) so that you can point to it in responses.
 1. Choose a unique tag that will help you identify tickets, using the incident number would be typical. For example: `incident-12345`
 1. Create a bulk response that points to the incident on the status page, `@gitlabstatus` on Twitter and the production issue. If any of these aren't available yet, you can send a response without to keep customers informed. You can include them in a future update.
    - Share the response that you draft or otherwise coordinate with `#support_gitlab-com` and others fielding first responses. There are likely non-emergency tickets being raised about the incident. Using the same response increases the efficiency with which we can all respond to customer inquiries about the problem.

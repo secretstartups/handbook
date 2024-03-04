@@ -18,7 +18,7 @@ Please feel free to contribute to this page by opening a merge request.
 
 * [My LinkedIn profile](https://www.linkedin.com/in/ronnie-a-4a4a6b31/)
 
-* [GitLab Team page](https://about.gitlab.com/company/team/#ronniealfaro)
+* [GitLab Team page](/handbook/company/team/#ronniealfaro)
 
 * [GitLab Profile](https://gitlab.com/ronniealfaro)
 

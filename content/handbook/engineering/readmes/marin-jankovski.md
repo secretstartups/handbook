@@ -13,7 +13,7 @@ job: "Director of Platform Infrastructure"
 ## Purpose
 
 Inspired by the [CEO page](/handbook/ceo/),
-this page is a readme for the [Marin Jankovski](/company/team/#maxlazio).
+this page is a readme for the [Marin Jankovski](/handbook/company/team/#maxlazio).
 
 ## Team(s)
 

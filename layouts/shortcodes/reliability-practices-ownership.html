@@ -27,7 +27,7 @@
             <td><a href="/handbook/product/categories#{{$t.group | anchorize}}-group">{{$k}}</a></td>
             <td>
                 {{- range $t.team }}
-                {{ partial "member" . }}<br>
+                {{ partial "member/with-team-link" . }}<br>
                 {{- end }}
             </td>
         </tr>

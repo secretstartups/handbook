@@ -11,7 +11,7 @@ title: Development Talent Assessment Process
 
 ### Talent Assessment Process
 
-Company-wide guidelines on the Talent Assessment can be found [here](https://handbook.gitlab.com/handbook/people-group/talent-assessment/#q4-formal-talent-assessment). The company timeline for the process remains SSOT, the guidelines below are meant to:
+Company-wide guidelines on the Talent Assessment can be found [here](/handbook/people-group/talent-assessment/#q4-formal-talent-assessment). The company timeline for the process remains SSOT, the guidelines below are meant to:
 
 - Provide additional check points and due dates built into the company-wide timeline for Development specifically (as one of the larger departments at GitLab)
 - Guidance on department-specific calibration section structure (attendees, leveling, etc.) 
@@ -25,11 +25,11 @@ Calibration and assessment are two different steps in the process. The assessmen
 
 For Development specifically, we will calibrate:
 
-1. Anyone in [Box 1](https://handbook.gitlab.com/handbook/people-group/talent-assessment/#the-performancegrowth-potential-matrix) aligned with [company-wide guidelines](https://handbook.gitlab.com/handbook/people-group/talent-assessment/#who-do-i-calibrate). 
+1. Anyone in [Box 1](/handbook/people-group/talent-assessment/#the-performancegrowth-potential-matrix) aligned with [company-wide guidelines](/handbook/people-group/talent-assessment/#who-do-i-calibrate). 
 1. Anyone in Box 9 who has been with GitLab longer than 3 months (_Note: 3 months is measured from the kick off of the Talent Assessment cycle on 2023-10-16_)
 1. Anyone assessed as `Exceeding` for Performance
-1. Anyone hired in the last 3 months **not** assessed as [Too New To Rate](https://handbook.gitlab.com/handbook/people-group/talent-assessment/#too-new-to-rate)
-1. Anyone promoted in the [Q3 promotion cycle](https://handbook.gitlab.com/handbook/people-group/promotions-transfers/#fy24-q3) (August 1st effective) or later **not** assessed as [Too New To Rate](https://handbook.gitlab.com/handbook/people-group/talent-assessment/#too-new-to-rate)
+1. Anyone hired in the last 3 months **not** assessed as [Too New To Rate](/handbook/people-group/talent-assessment/#too-new-to-rate)
+1. Anyone promoted in the [Q3 promotion cycle](/handbook/people-group/promotions-transfers/#fy24-q3) (August 1st effective) or later **not** assessed as [Too New To Rate](/handbook/people-group/talent-assessment/#too-new-to-rate)
 1. Anyone identified as Key Talent
 
 It's important to note that while these will be our focus areas for calibration sessions, managers should feel free to raise any team member's assessment up for discussions if they have any questions or concerns. Calibrating outliers is not a limitation, but rather a structural adjustment to ensure this process is scalable and focused. 
@@ -45,9 +45,9 @@ As the Talent Assessment impacts compensation, and Acting/Interim periods are no
 #### Pre-Calibration Prep Work
 
 
-In addition to the [calibration session pre work](https://handbook.gitlab.com/handbook/people-group/talent-assessment/#calibration-session-pre-work) on the Talent Assessment page, we ask that you complete the following:
+In addition to the [calibration session pre work](/handbook/people-group/talent-assessment/#calibration-session-pre-work) on the Talent Assessment page, we ask that you complete the following:
 
-1. Directors should conduct sub-department level calibration sessions ahead of the department-wide Development calibration sessions. In addition to calibrating on initial assessments, Directors are responsible for ensuring their respective teams assessments fall within the [expected distribution](https://handbook.gitlab.com/handbook/people-group/talent-assessment/#expected-distribution-performancegrowth-potential-company-wide) ahead of the department-wide calibration session for efficiency.
+1. Directors should conduct sub-department level calibration sessions ahead of the department-wide Development calibration sessions. In addition to calibrating on initial assessments, Directors are responsible for ensuring their respective teams assessments fall within the [expected distribution](/handbook/people-group/talent-assessment/#expected-distribution-performancegrowth-potential-company-wide) ahead of the department-wide calibration session for efficiency.
 
 1. Performance and Growth Potential notes need to be added to the [session agenda doc](https://docs.google.com/document/d/1zrlZSfdNXpSZ09uvDM71KxH42RWBJxa6U1QTCTw05iI/edit#) for each team member at least 3 business days before the synchronous calibration session. 
 
@@ -57,7 +57,7 @@ In addition to the [calibration session pre work](https://handbook.gitlab.com/ha
 
   - If an individual is indicated as Key Talent, an explanation should be added to indicate how this individual qualifies as Key Talent against our [Key Talent definition](/handbook/people-group/talent-assessment/#key-talent). Reminder that the bar for Key Talent is set high, and that Key Talent makes up roughly ~10% of the entire population. In Development, we will be calibrating Key Talent from the Senior Manager level and above [aligned with guidelines](/handbook/people-group/talent-assessment/#process-to-determine-key-talent), meaning that while *everyone in the organization is eligible to be identified as Key Talent*, Senior Managers+ will be calibrating and making these final decisions. The rationale behind this decision is that it is important to have a holistic view of all team members when determining who meets the Key Talent criteria, which is why we require a certain scope when assessing Key Talent in the organization.
 
-While calibrations and ultimate determinations will take place at Senior Manager+ level, inital recommendations begin in Workday and sit with team member's direct managers aligned with the [process](https://about.gitlab.com/handbook/people-group/talent-assessment/#process-to-determine-key-talent)
+While calibrations and ultimate determinations will take place at Senior Manager+ level, inital recommendations begin in Workday and sit with team member's direct managers aligned with the [process](/handbook/people-group/talent-assessment/#process-to-determine-key-talent)
 
 1. Every session attendee should review the Performance/Growth Potential assessments and Key Talent overviews for outliers asynchronously ahead of the session to be prepared for live discussion/calibration. 
 
@@ -104,7 +104,7 @@ The calibration schedule below only includes calibration sessions in which depar
 
 #### Timeline 
 
-The company-wide Talent Assessment timeline can be found [here](https://about.gitlab.com/handbook/people-group/talent-assessment/#timeline) and is SSOT. Below are level-specific calibration due dates embedded within the overall timeline for the Development Department. 
+The company-wide Talent Assessment timeline can be found [here](/handbook/people-group/talent-assessment/#timeline) and is SSOT. Below are level-specific calibration due dates embedded within the overall timeline for the Development Department. 
 
 - 2023-11-16: Sub-department level calibration **and* small group calibration sessions are complete
 - 2023-11-20 through 2023-11-24: Development department calibration sessions with Senior Manager+ people manager attendees 

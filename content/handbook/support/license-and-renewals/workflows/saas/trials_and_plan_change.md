@@ -19,7 +19,13 @@ GitLab.com Premium customers who want to trial SaaS Ultimate have two options to
 
 1. Request an Ultimate trial from [GitLab's public trial page](https://about.gitlab.com/free-trial/?hosted=sass). This will require the customer to set up a new namespace to which to apply the trial. No Sales or Support action will be required.
 1. Temporarily upgrade their existing GitLab Premium subscription to a GitLab Ultimate Trial.
-- As part of the initiative to enable current SaaS Premium customers to trial SaaS Ultimate on their primary namespace, the first iteration implementation now grants L&R Support the capability to temporarily upgrade an existing Premium subscription to an Ultimate trial subscription. To facilitate this process, the customer's Account Executive is required to complete a new [Internal Request Form](https://gitlab-com.gitlab.io/support/internal-requests-form/) titled `Request SaaS Ultimate trial for existing Premium customer on behalf of the customer`.
+
+- As part of the initiative to enable current SaaS Premium customers to trial SaaS Ultimate on their primary namespace, the first iteration implementation now grants L&R Support the capability to temporarily upgrade an existing Premium subscription to an Ultimate trial subscription. To facilitate this process, the customer's Account Executive must use the following instructions:
+
+   - Go to the [Support Super Form](https://support-super-form-gitlab-com-support-support-op-651f22e90ce6d7.gitlab.io/); you must have a [Zendesk Light Agent account](/handbook/support/internal-support/#requesting-a-zendesk-light-agent-account) to use this form.
+   - Under `What is this request concerning`, select `License and Renewal Related Requests` > `GitLab Support Internal Request for Global Customers`.
+   - In the form that appears, under `What type of GitLab Support Internal Request is this for?`, select `SaaS Trial Related` > `Request an Ultimate trial for a customer using a Premium subscription`.
+   - Fill out the required fields and click Submit request. If you need assistance filling out the form, please ask in the `#support_operations` Slack channel.
 
 Once the form has been submitted, the L&R Support Engineer should follow the workflow outlined in the following [video](https://www.youtube.com/watch?v=wJCrh45Ug2Q), which entails:
 
@@ -28,12 +34,19 @@ Once the form has been submitted, the L&R Support Engineer should follow the wor
 - Going to the `Zuora Subscriptions` tab.
 - Selecting the appropriate namespace and pressing the `Apply Ultimate Trial` button.
 
+#### Subscription seats during trials-over-subscription
+
+When applying an Ultimate trial over a subscription, the customer's licensed subscription seat count still applies. If the customer wishes to increase their seat count during the Ultimate trial, they will have to purchase the seats as usual. If the customer exceeds their seat allowance during the trial, they will be billed for them at their next reconciliation and the seats will still apply after the end of the trial.
+
+#### Namespaces with a prior Ultimate trial
+
+These namespaces are allowed to start an Ultimate trial over Premium subscription, circumventing the normal guardrails preventing a group from taking out more than one trial.
+
 #### Workflow caveats
 
 - For all trials, the renewal start date must align with the end date of the prior subscription term therefore requests for Ultimate trials with the purpose of extending ahead of the renewal date should be denied. It is GitLab policy to align renewal dates with the end of the prior subscription term.
-- Currently GitLab.com Ultimate trials cannot be extended. Once the trial period has elapsed the `Apply Ultimate Trial` button may be displayed again if the namespace remains on Premium after expiration, however pressing the button will not work, as namespaces can only have one trial. This is a known limitation which will be addressed in future versions.
+- GitLab.com Ultimate trials cannot be extended past the 30-day duration.
 - GitLab.com trials are only available for the GitLab Ultimate Subscription plan.
-- GitLab.com Premium to Ultimate subscription trials are handled similarly to regular trials regarding namespace eligibility. Therefore if a namespace previously underwent a trial (e.g. prior to being upgraded to a Premium subscription), attempting to initiate an Ultimate trial will be unsuccessful, as we only permit one trial per namespace.
 
 ## Extending trials
 
@@ -48,12 +61,25 @@ If any fields when opening the ticket were filled out incorrectly,  send a publi
    1. The `Namespace:` field contains a valid GitLab namespace and it that holds the active trial. This should not be a Salesforce link or email address.
    1. The `Extend the date to:` field contains a future date. (Trial expires around 23:59 UTC on this date)
    1. The `Trial license plan:` field is filled out
-1. Use the [Update GitLab Subscription form]({{ ref "mechanizer#update-gitlab-subscription" >}}) to process the request.
+1. Use the [Manage GitLab Plan and Trials]({{< ref "mechanizer#manage-gitlab-plan-and-trials" >}}) to process the request.
    1. This should create a new internal request issue documenting the change action. Reference this new issue to the ZD Ticket where the extension was requested.
    1. If there is an error while taking action, check the internal issue to see what went wrong. Please also locate the [error in sentry](https://sentry.gitlab.net/gitlab/customersgitlabcom/) (see [Searching Sentry](/handbook/support/workflows/500_errors.html#searching-sentry) if needed) and file an issue, or comment on an existing one.
 1. If namespace needs to be adjusted manually, then raise a new internal issue with details and  `~Console Escalation::Customers` label.
 
 If a customer is requesting a trial extension, please follow [Working with Sales workflow]({{< ref "working_with_sales" >}}) to let Sales team know in case they would like to have a discussion with the customer.
+
+
+### SFDC generated temporary renewal extensions
+
+**Note:** The [Temporary renewal extensions functionality](/handbook/product/fulfillment-guide/#temporary-renewal-extensions), intended to be used by the Sales Team, is currently in **BETA status**, and only a few individuals have access to try it.  Please do not use the `Deviation from GitLab.com Subscription Extension Workflow` macro until the beta period has ended.  The functionality is tentatively scheduled for general availability in the first half of March 2024.
+
+Account Executives (AEs) can use SalesForce.com (SFDC) to issue a SaaS 21-day Subscription extension to a customer when the renewal opportunity is taking longer than expected to close. When an AE uses this functionality, the subscription is automatically extended without any L&R Support involvement. The [Temporary renewal extensions](/handbook/product/fulfillment-guide/#temporary-renewal-extensions) handbook entry documents this approach.
+
+Please note that the above approach has the following caveats:
+
+1. There are guardrails in place to prevent abuse of this functionality. As a result, only one subscription extension can be generated per renewal event. Therefore, there may be occasions when L&R Support will still be required to generate further subscription extensions. If this occurs then please follow the manual process for [extending an active or expired subscription](#extend-an-existing-active-or-expired-subscription).
+1. Additionally, the subscription has to be a non-trial subscription. If the subscription is set to expire within the next 15 days, please redirect the salesperson to utilize the SFDC feature by employing the `Deviation from SM License Extension Workflow macro` and subsequently close the ticket.
+1. If the subscription expiration is more than 15 days away, advise the salesperson to wait until the expiry is within 15 days before utilizing the SFDC feature. Once within the 15-day window, redirect the salesperson to use the SFDC feature using the `Deviation from SM License Extension Workflow` macro and then close the ticket.
 
 ## Extend an existing active or expired subscription
 

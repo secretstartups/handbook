@@ -18,13 +18,13 @@
 {{- end }}
 
 {{- with (.Get "visible") }}
-    {{- $data = merge $data (dict "visible" (string.Split . ",")) }}
+    {{- $data = merge $data (dict "visible" (strings.Split . ",")) }}
 {{- end }}
 
 {{- $knownValues := slice "dashboard" "chart" "height" "visible" }}
 {{- range $k, $v := .Params }}
     {{- if not (in $knownValues $k) }}
-        {{$filters = append (dict "name" $k "value" $v) $filters }}
+        {{$filters = append (dict "name" $k "value" (lower $v)) $filters }}
     {{- end }}
 {{- end }}
 {{- if gt (len $filters) 0 }}

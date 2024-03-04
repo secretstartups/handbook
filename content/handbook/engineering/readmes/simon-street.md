@@ -13,7 +13,7 @@ job: "Support Engineer (EMEA)"
 
 Hello! This page is intended to give you a little bit of information about me.
 
-I started at GitLab in March 2022 as a [Support Engineer](https://handbook.gitlab.com/job-families/engineering/support-engineer/). I live in Bedfordshire, England, UK.
+I started at GitLab in March 2022 as a [Support Engineer](/job-families/engineering/support-engineer/). I live in Bedfordshire, England, UK.
 
 All of my working life has been in tech having started out replacing computers on lease cycles in a primally [Novell NetWare](https://en.wikipedia.org/wiki/NetWare) environment before moving on to a desktop support role at a small stage/projection equipment hire company.
 
@@ -27,8 +27,8 @@ I have been aware of GitLab for quite a while having set it up on and off over t
 
 ### Some links
 
-- [Team Page](https://about.gitlab.com/company/team/#simonstreet)
-- [Team Pet Page](https://about.gitlab.com/company/team-pets/#304-rosie)
+- [Team Page](/handbook/company/team/#simonstreet)
+- [Team Pet Page](/handbook/company/team-pets/#304-rosie)
 - [GitLab Profile](https://gitlab.com/simonstreet)
 - [Personal GitLab Profile](https://gitlab.com/simonsshed)
 

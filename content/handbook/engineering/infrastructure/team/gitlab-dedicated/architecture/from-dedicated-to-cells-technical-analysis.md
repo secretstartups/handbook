@@ -177,7 +177,7 @@ The design of Switchboard has only ever focused on the case of Dedicated, and in
 interaction with their Dedicated instance. Cells was not in scope of GitLab Dedicated when Switchboard was designed, and Switchboard
 is only designed to make onboarding, interacting and information gathering simpler for the GitLab Dedicated customer.
 
-_Using Switchboard for Cells would be a poor choice_. Cells should use Devops workflows and CI/CD pipelines to kickoff Instrumentor
+_Using Switchboard for Cells would be a poor choice_. Cells should use DevOps workflows and CI/CD pipelines to kickoff Instrumentor
 provisioner jobs in the Amp control-plane, just as early iterations of Dedicated did before Switchboard was developed. It was a design
 choice from the start to keep tenant models structured in such a way that an interface would be the same whether one would use
 Switchboard or another type of interface.

@@ -113,18 +113,17 @@ All onboarding related employment templates (country and role based) can be foun
 
 ### Temporary Service Provider (Contractor/Consultant) Onboarding
 
-The People team is not involved in the process for hiring, onboarding, or offboarding temporary service providers. You can work with the Procurement team on these onboardings and review the [temporary service provider handbook page](/handbook/business-technology/end-user-services/onboarding-access-requests/temporary-service-providers/) for templates and other helpful information.
+The People team is not involved in the process for hiring, onboarding, or offboarding temporary service providers. You can work with the Procurement team on these onboardings and review the [temporary service provider internal handbook page](https://internal.gitlab.com/handbook/it/end-user-services/access-request/temporary-service-providers/?search=temporary+service) for templates and other helpful information.
 
 ### Additional onboarding pages
 
-- [Developer onboarding](https://about.gitlab.com/handbook/developer-onboarding/)
+- [Developer onboarding](/handbook/developer-onboarding/)
 - [GitLab onboarding buddies]({{< ref "/handbook/people-group/general-onboarding/onboarding-buddies" >}})
-- [GitLab Onboarding Feedback]({{< ref "/handbook/people-group/general-onboarding/onboarding-feedback" >}})
 - [Merge Request buddies]({{< ref "/handbook/people-group/general-onboarding/mr-buddies" >}})
 - [Onboarding Processes](https://internal.gitlab.com/handbook/people-group/people-operations/people-connect/onboarding_process/)
-- [Quality team onboarding](https://about.gitlab.com/handbook/engineering/quality/onboarding/)
+- [Quality team onboarding](/handbook/engineering/quality/onboarding/)
 - [Sales team onboarding](/handbook/sales/onboarding/)
 - [Support team onboarding]({{< ref "/handbook/support/training" >}})
-- [SRE onboarding](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/sre-onboarding/)
+- [SRE onboarding](/handbook/engineering/infrastructure/team/reliability/sre-onboarding/)
 - [Product Designer onboarding](/handbook/product/ux/product-designer-onboarding/)
 - [UX Researcher onboarding](/handbook/product/ux/ux-research/)

@@ -32,7 +32,7 @@ Responsibilities:
 - Dependency updates
 - License management
 - Submissions to Partners for validations/certifications
-- The [install](/install/), [update](/update/), and [upgrade](/upgrade/) pages
+- The [install](https://about.gitlab.com/install/), [update](https://about.gitlab.com/update/), and [upgrade](https://about.gitlab.com/upgrade/) pages
 - Build and own the infrastructure used for creating the various installation methods
 - [Maintaining infrastructure](#infrastructure-and-maintenance) used in Distribution
 
@@ -94,11 +94,9 @@ Deploy team focus is configuration, deployment, and operation of GitLab as a who
 
 ## Goals
 
-Increase # of active installations
-<embed width="100%" height="300" src="https://app.periscopedata.com/shared/4def0441-92e2-4247-a509-3f5e27eae2ad?border=off&embed=v2&widget=5709313">
+[Increase # of active installations](https://10az.online.tableau.com/#/site/gitlab/workbooks/2298821/views)
 
-Reduce average days behind latest version
-<embed width="100%" height="300" src="https://app.periscopedata.com/shared/3c364984-9985-4d91-b7ba-242933694634?border=off&embed=v2&widget=5697571">
+[Reduce average days behind latest version](https://10az.online.tableau.com/#/site/gitlab/views/VersionUpgradeMetrics/InstallationsonLatestVersionsofGitLab?:iid=1)
 
 ## Team members
 
@@ -116,7 +114,7 @@ The following people are members of the Distribution:Deploy Team:
 
 ### Stable counterparts
 
-The following members of other functional teams are our [stable counterparts](/company/team/structure/#stage-groups):
+The following members of other functional teams are our [stable counterparts](/handbook/company/structure/#stage-groups):
 
 {{< stable-counterparts manager-role="Backend Engineering Manager, Distribution" role="Core Platform:Distribution" >}}
 
@@ -221,7 +219,7 @@ graph TD
 
 
 | Name | Location | Description |
-| -------- | -------- |
+| -------- | -------- | -------- |
 | Omnibus GitLab | [gitlab-org/omnibus-gitlab](https://gitlab.com/gitlab-org/omnibus-gitlab) | Build Omnibus packages with HA support for LTS versions of all major Linux operating systems such as Ubuntu, Debian, CentOS/RHEL, OpenSUSE, SLES |
 | Docker All in one GitLab image | [gitlab-org/omnibus-gitlab/docker](https://gitlab.com/gitlab-org/omnibus-gitlab/tree/master/docker) | Build Docker images for GitLab CE/EE based on the omnibus-gitlab package |
 | GitLab Helm Chart | [gitlab-org/charts/gitlab](https://gitlab.com/gitlab-org/charts/gitlab) | Cloud Native GitLab Helm Charts |
@@ -242,24 +240,24 @@ us forward and helping create a better experience.
 
 In Distribution we strive for the following in our public projects:
 
-1. Uphold our [Community Code of Conduct](/community/contribute/code-of-conduct/).
-1. Enable [GitLab's mission that everyone can contribute.](https://about.gitlab.com/company/mission/#mission).
+1. Uphold our [Community Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct/).
+1. Enable [GitLab's mission that everyone can contribute.](/handbook/company/mission/#mission).
 1. Show our work in [public](#public-by-default).
 1. [Recognize and thank](/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows.html#recognition-for-contributors) contributors for their work.
 1. Respect contributors donated time by providing [a timely review turnaround time](/handbook/engineering/workflow/code-review/#review-turnaround-time).
 
 ### Working with Open Source communities
 
-The [open core of GitLab](https://about.gitlab.com/company/stewardship) is built on top of thousands of open source
-dependencies. These dependencies and their communities are important to the [GitLab strategy](https://about.gitlab.com/company/strategy/#flywheel-with-two-turbos),
+The [open core of GitLab](/handbook/company/stewardship) is built on top of thousands of open source
+dependencies. These dependencies and their communities are important to the [GitLab strategy](/handbook/company/strategy/#flywheel-with-two-turbos),
 and working with these dependencies is an essential part of the projects the Distribution team maintains.
 
 In Distribution we strive to:
 
 1. Consider the impact of our work on the open source communities that we benefit from.
 1. Promote the importance of these open source communities within GitLab.
-1. Raise issue with any decision that goes against our [stewardship promises](https://about.gitlab.com/company/stewardship/#promises).
-1. Find opportunities to [contribute back the changes we make](https://about.gitlab.com/handbook/engineering/open-source/#using-forks-in-your-code).
+1. Raise issue with any decision that goes against our [stewardship promises](/handbook/company/stewardship/#promises).
+1. Find opportunities to [contribute back the changes we make](/handbook/engineering/open-source/#using-forks-in-your-code).
 
 ## Public by default
 
@@ -340,30 +338,30 @@ The following important areas of the GitLab Handbook impact how we work and are 
 * [Distribution workflow page](workflow.html)
 * [General engineering workflow page](/handbook/engineering/workflow/)
 * [How to reinforce our values](/handbook/values/#how-do-we-reinforce-our-values)
-* [Continue to serve smaller users](/handbook/leadership/mitigating-concerns/#serve-smaller-users)
-* [Promises to our Open Source community](/company/stewardship/#promises)
+* [Continue to serve smaller users](https://internal-handbook.gitlab.io/handbook/leadership/mitigating-concerns#serve-smaller-users) (internal only)
+* [Promises to our Open Source community](/handbook/company/stewardship/#promises)
 * [How to follow our Product Principles](/handbook/product/product-principles/#how-we-follow-our-principles)
-* [Principles of our company strategy](/company/strategy/#principles)
+* [Principles of our company strategy](/handbook/company/strategy/#principles)
 * [Effective & Responsible Communication Guidelines](/handbook/communication/#effective--responsible-communication-guidelines)
-* [Quality Engineering in Distribution group](/handbook/engineering/infrastructure/test-platform/enablement-saas-platforms-qe-team/distribution/index.html)
+* [Test Platform in Distribution group](/handbook/engineering/infrastructure/test-platform/self-managed-platform-team/distribution/index.html)
 
 ## Work/life harmony
 
-Working [all-remote](https://about.gitlab.com/company/culture/all-remote/) and [asynchronous first](https://about.gitlab.com/company/culture/all-remote/asynchronous/)
+Working [all-remote](/handbook/company/culture/all-remote/) and [asynchronous first](/handbook/company/culture/all-remote/asynchronous/)
 offer flexibility in how team members approach their workday. Team members must make choices on how best to balance work time with other areas of life.
 
 For new team members, the following resources provide examples on how to focus their time:
 
 - [How team members approach their day](https://gitlab.com/gitlab-org/distribution/team-tasks/-/issues/907)
 - Blog post: [A day in life of a remote worker](https://about.gitlab.com/blog/2019/06/18/day-in-the-life-remote-worker/)
-- The option of a [non-linear workday](https://about.gitlab.com/company/culture/all-remote/non-linear-workday/)
-- GitLab handbook: [Work/life Harmony](https://about.gitlab.com/company/culture/all-remote/people/#worklife-harmony)
+- The option of a [non-linear workday](/handbook/company/culture/all-remote/non-linear-workday/)
+- GitLab handbook: [Work/life Harmony](/handbook/company/culture/all-remote/people/#worklife-harmony)
 
 The following GitLab Handbook areas are key in maintaining a healthy work/life balance.
 
-- [Family and Friends First, work second](https://about.gitlab.com/handbook/values/#family-and-friends-first-work-second)
-- [Combating burnout, isolation, and anxiety in the remote workplace](https://about.gitlab.com/company/culture/all-remote/mental-health/)
-- [Recognizing Burnout](https://about.gitlab.com/handbook/paid-time-off/#recognizing-burnout)
+- [Family and Friends First, work second](/handbook/values/#family-and-friends-first-work-second)
+- [Combating burnout, isolation, and anxiety in the remote workplace](/handbook/company/culture/all-remote/mental-health/)
+- [Recognizing Burnout](/handbook/paid-time-off/#recognizing-burnout)
 
 ## How to work with Distribution
 
@@ -435,5 +433,18 @@ How did Distribution get its name? We iterated, as always. "Distribution" was ch
 
 ## Dashboards
 
-{{% cross-function-dashboard filters="Distribution" %}}
+{{< tableau height="600px" toolbar="hidden" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/TopEngineeringMetrics/TopEngineeringMetricsDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="distribution" >}}
+{{< /tableau >}}
 
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/MergeRequestMetrics/OverallMRsbyType_1" >}}
+  {{< tableau/filters "GROUP_LABEL"="distribution" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/Flakytestissues/FlakyTestIssues" >}}
+  {{< tableau/filters "GROUP_NAME"="distribution" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/SlowRSpecTestsIssues/SlowRSpecTestsIssuesDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="distribution" >}}
+{{< /tableau >}}

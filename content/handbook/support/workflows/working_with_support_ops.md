@@ -112,11 +112,11 @@ If you want to create, edit, or deactivate a macro in Zendesk Global, you can do
 one of two options:
 
 - Create a merge request doing the modifications in the
-  [macros project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros)
+  [macros project](https://gitlab.com/gitlab-com/support/zendesk-global/macros)
   - NOTE: If creating a new macro, leave the `id` field blank. The pipeline
     will fail, but Support readiness will rectify that.
 - Create an issue in the
-  [macros project issue tracker](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/issues/new)
+  [macros project issue tracker](https://gitlab.com/gitlab-com/support/zendesk-global/macros/-/issues/new)
 
 If making an issue, Support Readiness will assist you in getting a merge request
 created. If making a merge request, it will be reviewed by the appropriate

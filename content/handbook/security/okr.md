@@ -80,7 +80,7 @@ Field updates:
 :scissors: Copy and paste the below into the GitLab.com KR Issue(s) at the end of the week
 
 ```text
-## Weekly KR Update for the week of YYYY-MM-DD
+## Weekly KR Update for the week starting on YYYY-MM-DD
 
 ## What was accomplished this week
 

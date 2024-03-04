@@ -1,25 +1,8 @@
 ---
 aliases: /handbook/engineering/infrastructure/database/disaster_recovery.html
 title: "Database: Disaster Recovery"
+controlled_document: true
 ---
-
-
-
-
-
-
-
-
-
-<div class="panel panel-gitlab-orange">
-**This is a Controlled Document**
-{: .panel-heading}
-<div class="panel-body">
-
-Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged.
-
-</div>
-</div>
 
 ## Purpose
 
@@ -131,9 +114,9 @@ confidence in our cold backup and PITR recovery strategy.
 
 ## Exceptions
 
-Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](https://about.gitlab.com/handbook/security/#information-security-policy-exception-management-process).
+Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](/handbook/security/#information-security-policy-exception-management-process).
 
 ## References
 
 * Parent Policy: [Information Security Policy](/handbook/security/)
-* [Controlled Document Procedure](https://about.gitlab.com/handbook/security/controlled-document-procedure.html)
+* [Controlled Document Procedure](/handbook/security/controlled-document-procedure.html)

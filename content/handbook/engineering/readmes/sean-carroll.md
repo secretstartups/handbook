@@ -5,7 +5,7 @@ job: "Engineering Manager, Source Code"
 ---
 ## Sean Carroll's - README
 
-I'm [Sean Carroll](https://gitlab.com/sean_carroll), Engineering Manager for [Source Code](https://about.gitlab.com/handbook/product/categories/features/#createsource-code-group). I have been living in Geneva, Switzerland for a while now. I've also lived in the US, Turkey, Scotland and of course Australia, where I'm from. These experiences have given me a strong understanding of different cultures and work styles.
+I'm [Sean Carroll](https://gitlab.com/sean_carroll), Engineering Manager for [Source Code](/handbook/product/categories/features/#createsource-code-group). I have been living in Geneva, Switzerland for a while now. I've also lived in the US, Turkey, Scotland and of course Australia, where I'm from. These experiences have given me a strong understanding of different cultures and work styles.
 
 I studied [Computer Science](https://www.monash.edu/) and later [Business Systems](https://www.vu.edu.au/), and the first half of my career was in [ERP systems](https://en.wikipedia.org/wiki/Enterprise_resource_planning), mostly in a consulting capacity. Since then I have worked at startups and in innovation environments. I have a personal love for Ruby, and am excited to be working at GitLab, on what is probably one of the largest Ruby codebases in the world.
 
@@ -17,9 +17,9 @@ I am rated as a [Campaigner on 16 Personalities](https://www.16personalities.com
 
 ### I work daily on building and maintaining trust
 
-GitLab does not have junior engineers: everyone is intermediate or senior and among the best in the industry. Trusting people and being able to be trusted is crucial to a happy and productive work environment for everyone and it takes continuous work. I am an open person and the GitLab value of [Transparency](https://about.gitlab.com/handbook/values/#transparency) comes naturally to me.
+GitLab does not have junior engineers: everyone is intermediate or senior and among the best in the industry. Trusting people and being able to be trusted is crucial to a happy and productive work environment for everyone and it takes continuous work. I am an open person and the GitLab value of [Transparency](/handbook/values/#transparency) comes naturally to me.
 
-GitLab is at the forefront of addressing the huge diversity issues in IT. Building a [diverse and inclusive](https://about.gitlab.com/handbook/values/#diversity-inclusion) workplace is a critical part of trust-building that all employees can and should participate in.
+GitLab is at the forefront of addressing the huge diversity issues in IT. Building a [diverse and inclusive](/handbook/values/#diversity-inclusion) workplace is a critical part of trust-building that all employees can and should participate in.
 
 ### Engineers are the technology experts
 
@@ -50,7 +50,7 @@ Please don't hesitate to schedule one with me!
 
 ## My Remote Work Setup
 
-- [MacBook Pro](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#apple-hardware)
+- [MacBook Pro](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#apple-hardware)
 - Paper notebook, I like [Moleskins](https://www.amazon.com/Moleskine-Classic-Cover-Notebook-Ruled/dp/8883701127)
 - [Fully Standing Desk](https://www.fully.com/en-eu/standing-desks/jarvis/jarvis-hardwood-standing-desk.html)
 - Office chair

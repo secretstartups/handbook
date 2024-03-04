@@ -7,7 +7,7 @@ twitter_site: "@gitlab"
 twitter_creator: "@gitlab"
 ---
 
-On this page, we're detailing considerations for both employee and employer as it relates to [remote internships](https://about.gitlab.com/handbook/engineering/internships) (also referred to as apprenticeships and co-ops).
+On this page, we're detailing considerations for both employee and employer as it relates to [remote internships](/handbook/engineering/internships) (also referred to as apprenticeships and co-ops).
 
 ## What are the benefits of remote internships?
 
@@ -185,10 +185,10 @@ If you don't hire your remote intern/s at the end of their internship experience
 1. Acknowledge intern contributions in team meetings, issues, company calls, 1-1 meetings.
 1. Send a gift or a swag bag to commemorate their contributions.
 
-Don't forget to gather information they are willing to share such as their email address, LinkedIn profile, or handles for other social channels so you can stay in touch. Who knows...maybe a [position at GitLab](/jobs) will come available that you can hire them for!
+Don't forget to gather information they are willing to share such as their email address, LinkedIn profile, or handles for other social channels so you can stay in touch. Who knows...maybe a [position at GitLab](https://about.gitlab.com/jobs) will come available that you can hire them for!
 
 ## Contribute your lessons
 
-GitLab is currently piloting an [engineering internship program](https://about.gitlab.com/handbook/engineering/internships). We expect to learn a great deal from the experience, while documenting challenges and solutions. If you or your organization has experience offering remote internships which would benefit the greater world, consider creating a [merge request](https://docs.gitlab.com/ee/user/project/merge_requests) and adding a contribution to this page.
+GitLab is currently piloting an [engineering internship program](/handbook/engineering/internships). We expect to learn a great deal from the experience, while documenting challenges and solutions. If you or your organization has experience offering remote internships which would benefit the greater world, consider creating a [merge request](https://docs.gitlab.com/ee/user/project/merge_requests) and adding a contribution to this page.
 
 Return to the main [all-remote page]({{< ref "_index.md" >}}).

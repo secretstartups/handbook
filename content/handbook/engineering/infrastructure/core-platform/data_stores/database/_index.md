@@ -14,13 +14,13 @@ Focusing on the database, our mission is to provide solutions that allow us to s
 
 The following people are permanent members of the Database Team:
 
-{{< team-by-department "Database BE Team" >}}
+{{< team-by-departments "Database BE Team" >}}
 
 ## Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-{{< stable-counterparts "alexives" "[,&] Database|Application Performance and Database" >}}
+{{< stable-counterparts manager="alexives" role="Cloud Connector and Database" >}}
 
 ### Stable Counterparts to other teams
 
@@ -108,7 +108,7 @@ Tip: In order to remove closed issues from the triage board, use [this search](h
 [Database by Milestone](https://gitlab.com/groups/gitlab-org/-/boards/1318796?&label_name%5B%5D=group%3A%3Adatabase)
 The Milestone board gives us a "big picture" view of issues planned in each milestone.
 
-[Database: Build · Boards · GitLab.org · GitLab](https://gitlab.com/groups/gitlab-org/-/boards/1324138) The build board gives you an overview of the current state of work for `group::database`. These issues have already gone through validation and are on the [Product Development Build Track](https://about.gitlab.com/handbook/product-development-flow/#build-track). Issues are added to this board by adding the current active milestone and `group::database` labels. Issues in the `workflow::ready for development` column are ordered in priority order (top down). Team members use this column to select the next item to work on.
+[Database: Build · Boards · GitLab.org · GitLab](https://gitlab.com/groups/gitlab-org/-/boards/1324138) The build board gives you an overview of the current state of work for `group::database`. These issues have already gone through validation and are on the [Product Development Build Track](/handbook/product-development-flow/#build-track). Issues are added to this board by adding the current active milestone and `group::database` labels. Issues in the `workflow::ready for development` column are ordered in priority order (top down). Team members use this column to select the next item to work on.
 
 [Database: Validation](https://gitlab.com/groups/gitlab-org/-/boards/2305758?scope=all&utf8=%E2%9C%93&label_name[]=group%3A%3Adatabase&label_name[]=database%3A%3Avalidation)
 The validation board is a queue for incoming issues for the Product Manager to review. A common scenario for the Database Team validation board is when an issue is created that requires further definition before it can be prioritized. The issue typically states a big picture idea but is not yet detailed enough to take action. The Database Team will then go through a refinement process to break down the issue into actionable steps, create exit criteria and prioritize against ongoing efforts. If an issue becomes too large, it will be promoted to an epic and small sub-issues will be created.
@@ -118,7 +118,7 @@ The triage board is for incoming issues that require further investigation for t
 
 #### Say/Do Ratio
 
-We use the `~Deliverable` label to track our Say/Do ratio.  At the beginning of each milestone, during a Database Group Weekly meeting, we review the issues and determine those issues we are confident we can deliver within the milestone.  The issue will be marked with the `~Deliverable` label.  At the end of the milestone the successfully completed issues with the `~Deliverable` label are tracked in two places.  We have a dashboard in Sisense that will calculate how many were delivered within the milestone and account for issues that were moved.  Additionally, our milestone retro issue lists all of the `~Deliverable` issues shipped along with those that missed the milestone.
+We use the `~Deliverable` label to track our Say/Do ratio.  At the beginning of each milestone, during a Database Group Weekly meeting, we review the issues and determine those issues we are confident we can deliver within the milestone.  The issue will be marked with the `~Deliverable` label.  At the end of the milestone the successfully completed issues with the `~Deliverable` label are tracked in two places.  We have a dashboard in Tableau that will calculate how many were delivered within the milestone and account for issues that were moved.  Additionally, our milestone retro issue lists all of the `~Deliverable` issues shipped along with those that missed the milestone.
 
 #### Roadmap
 
@@ -148,7 +148,7 @@ We document our insights, road maps and other relevant material in this section.
 
 ### Performance Indicators (Internal)
 
-1. [Enablement::Database - Performance Indicators Dashboard](https://app.periscopedata.com/app/gitlab/754160/Enablement::Database---Performance-Indicators)
+1. [Enablement::Database - Performance Indicators Dashboard](https://10az.online.tableau.com/#/site/gitlab/workbooks/2326872/views)
 1. Average Query Apdex for GitLab.com
    - Master
      - [Target: 100ms - Tolerable 250ms](https://tinyurl.com/64e6acku)
@@ -169,5 +169,20 @@ We document our insights, road maps and other relevant material in this section.
 
 ## Dashboards
 
-{{% cross-function-dashboard filters="database" %}}
+
+{{< tableau height="600px" toolbar="hidden" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/TopEngineeringMetrics/TopEngineeringMetricsDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="database" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/MergeRequestMetrics/OverallMRsbyType_1" >}}
+  {{< tableau/filters "GROUP_LABEL"="database" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/Flakytestissues/FlakyTestIssues" >}}
+  {{< tableau/filters "GROUP_NAME"="database" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/SlowRSpecTestsIssues/SlowRSpecTestsIssuesDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="database" >}}
+{{< /tableau >}}
 

@@ -1,17 +1,8 @@
 ---
-
+controlled_document: true
 title: "Endpoint Detection and Response at GitLab"
 description: "Endpoint Detection and Response: EDR, endpoint security, anti-virus, macOS, Windows, Linux, endpoint management"
 ---
-
-
-
-
-
-
-
-
-# Endpoint Detection & Response Technology
 
 ## Overview
 

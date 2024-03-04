@@ -82,7 +82,7 @@ The last commit to make it into the release will have a message similar to this:
 > :mega: Barring any show-stopping issues, this is the final commit to be released on the [release date](/handbook/engineering/releases/).
 https://gitlab.com/gitlab-org/gitlab/-/commits/13-1-stable-ee
 
-Merge Requests that have been included in the monthly release will receive [a label indicating inclusion](https://about.gitlab.com/handbook/engineering/releases/#labels-indicating-inclusion-in-upcoming-self-managed-release).
+Merge Requests that have been included in the monthly release will receive [a label indicating inclusion](/handbook/engineering/releases/#labels-indicating-inclusion-in-upcoming-self-managed-release).
 
 ## Patch releases overview
 
@@ -179,7 +179,7 @@ guarantees on creation timing. This will depend on factors such as:
 
 - Any incidents on GitLab.com that are or have been going on in the run-up to
   the release.
-- Any (critical) [security releases](../security/index.html#security-releases) that require the attention of release
+- Any (critical) [security releases](https://about.gitlab.com/handbook/engineering/releases/security-releases/) that require the attention of release
   managers.
 - Any issues with our auto-deployment pipelines.
 - Other release related work that may delay or prevent the creation of a release
@@ -269,7 +269,7 @@ If you need any additional help please ask the Release Managers in the [#release
 [release/tasks]: https://gitlab.com/gitlab-org/release/tasks/-/issues
 [labels of importance]: #labels-of-importance
 [auto-deploy]: https://www.youtube.com/watch?v=_G-EWRpCAz4
-[severity]: /handbook/engineering/quality/issue-triage/#severity
+[severity]: /handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity
 [#releases]: https://gitlab.slack.com/archives/C0XM5UU6B
 [#f_upcoming_release]: https://gitlab.slack.com/archives/C0139MAV672a
 [#development]: https://gitlab.slack.com/archives/C02PF508L
@@ -285,7 +285,8 @@ If you need any additional help please ask the Release Managers in the [#release
 [GitLab Security]: https://gitlab.com/gitlab-org/security/
 [security issue template]: https://gitlab.com/gitlab-org/security/gitlab/issues/new?issuable_template=Security+developer+workflow
 [security release backports]: https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/developer.md#backports
-[Hot patch]: https://gitlab.com/gitlab-org/release/docs/blob/master/general/deploy/post-deployment-patches.md[pre.gitlab.com]: /handbook/engineering/infrastructure/environments/#pre
+[Hot patch]: https://gitlab.com/gitlab-org/release/docs/blob/master/general/deploy/post-deployment-patches.md
+[pre.gitlab.com]: /handbook/engineering/infrastructure/environments/#pre
 [release.gitlab.net]: /handbook/engineering/infrastructure/environments/#release
 [How to fix a broken stable branch]: https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/how-to-fix-broken-stable-branch.md
 [post-deploy migrations]: https://docs.gitlab.com/ee/development/database/post_deployment_migrations.html

@@ -369,11 +369,11 @@ Below is the high level timeline for the formal assessment in Q4 FY24 (Nov, Dec,
 - **2023-12-01:** 5:00pm PST Workday Calibration will be locked
 - **2023-12-01 - 2023-12-08:** Total Rewards and final E-Group review and approval
 - **2023-12-11 - 2023-12-22 (5:00pm PST):** Managers will have access to Workday Talent Assessment to finalize evaluations
-- **2024-01-02 - 2024-01-31:** Managers can communicate Performance/Growth Potential assessment to team members
-- **2024-02-01:** Talent Assessments pending in Workday will be auto advanced to team members*
-- **2024 Date TBD:** Annual Compensation Review Kicks off for Managers
+- **2024-01-02 - 2024-02-09:** Managers can communicate Performance/Growth Potential assessment to team members
+- **2024-02-12:** Talent Assessments pending in Workday will be auto advanced to team members*
+- **2024-01-09:** Annual Compensation Review Kicks off for Managers
 
-*Team members who are on Leave of Absence (LOA) on 2023-02-01 are excluded from the auto advancement of their talent assessment until they return to work.
+*Team members who are on Leave of Absence (LOA) on 2024-02-12 are excluded from the auto advancement of their talent assessment until they return to work.
 
 ### Cadence
 
@@ -427,7 +427,7 @@ When assessing team members who have transferred teams or changed roles througho
 
 After calibration sessions are done and performance and growth potential factors are determined, it’s time to communicate the final results with team members. **Communications can begin after you have been notified that final talent assessment factors have been approved by the E-group**. The conversation following the talent assessment process is the most important part; it is a great way to drive alignment with your team members and set them up for success moving forward.  Below are  some of the best practices for communications, but remember, if you are ever in doubt please reach out to your manager or [People Business Partner]({{< ref "/handbook/people-group#people-business-partner-alignment-to-division" >}}) for additional support.
 
-1. **Communicate performance and growth potential factors face-to-face over Zoom**. As a manager, this is the opportunity for you to have a conversation with your team member about their performance and growth potential. Having the conversation over Zoom allows for you to have a dialogue with your team member (versus just sharing their performance and growth potential factor asynchronously) and allows you to pick up other information, like tone and non-verbal cues which can tell you more about how someone is feeling during this conversation.
+1. **Communicate performance and growth potential factors face-to-face over Zoom**. As a manager, this is the opportunity for you to have a conversation with your team member about their performance and growth potential. Having the conversation over Zoom allows for you to have a dialogue with your team member (versus just sharing their performance and growth potential factor asynchronously) and allows you to pick up other information, like tone and non-verbal cues which can tell you more about how someone is feeling during this conversation. You may also choose to share the PDF of the review prior to the conversation so that your team member has time to process the information. If so, ideally share just 1-2 days prior to the conversation so you are able to address questions promptly.
 1. **Prepare for the discussion ahead of time.** As a manager, you should prepare in advance of calibration discussions with your team members. Before communicating a team member’s [performance and growth potential factors]({{< ref "compensation-review-cycle#performance-factor" >}}), it’s beneficial to look back through your preparation document, notes, and anything relevant that was discussed as part of the calibration exercise. Be prepared with notes on the following:
     - Areas the team member is doing well
     - Areas that need improvement
@@ -713,7 +713,7 @@ The succession planning process might vary slightly for different areas of the b
 |-----------|---|
 | Emergency (ER) | Someone who could take over this role if the current person were affected by a [lottery factor](/handbook/total-rewards/compensation/#competitive-rate) or had to take emergency leave. *Note: If there is no one who could assume the role today in an emergency situation, part of the succession coverage plan should include an overview of recommendation steps (I.E. engaging a consultancy, splitting up the team, etc.)* |
 | Ready Now (RN) | Someone who has 90% of the competency & experience to take the role now |
-| Ready in 1-2 years) | With additional responsibility & exposure, could take the role soon  |
+| Ready in 1-2 years | With additional responsibility & exposure, could take the role soon  |
 | Ready in 2-3+ years | Longer term candidate who requires significant development |
 | Interim coverage | Has competency and experience to provide coverage on an interim basis (~6 months), but may not be suitable for the role long-term |
 

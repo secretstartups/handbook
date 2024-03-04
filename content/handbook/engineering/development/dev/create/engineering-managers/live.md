@@ -10,7 +10,7 @@ title: How we live our values
 
 
 
-The Create Engineering Managers lead by example.  This page shares how the EMs live GitLab [values](https://about.gitlab.com/handbook/values/).
+The Create Engineering Managers lead by example.  This page shares how the EMs live GitLab [values](/handbook/values/).
 
 ## Collaboration
 
@@ -28,7 +28,7 @@ The Create Engineering Managers lead by example.  This page shares how the EMs l
 - Participation in Working Groups
 - Regularly Review Dashboards
 - Host Team Retrospectives 
-- Continuously refine and improve team processes based on feedback from Retrospectives, [Skip Level Meetings](https://about.gitlab.com/handbook/engineering/development/dev/create/engineers/skip-level/), 1-1’s, 360 Feedback and [Employee Engagement Surveys](https://about.gitlab.com/handbook/engineering/development/dev/create/engineers/engagement-survey/)
+- Continuously refine and improve team processes based on feedback from Retrospectives, [Skip Level Meetings](/handbook/engineering/development/dev/create/engineers/skip-level/), 1-1’s, 360 Feedback and [Employee Engagement Surveys](/handbook/engineering/development/dev/create/engineers/engagement-survey/)
 - Support Team Members in their Employee Development
 
 ## Efficiency
@@ -42,7 +42,7 @@ The Create Engineering Managers lead by example.  This page shares how the EMs l
 
 **Meetings**
 
-- [Pre-populated Meeting Agendas](https://about.gitlab.com/handbook/engineering/development/dev/create/engineering-managers/meetings/)
+- [Pre-populated Meeting Agendas](/handbook/engineering/development/dev/create/engineering-managers/meetings/)
 - Always prepare agendas as far as possible in advance and ask the attendees to review and fill out as much as they can before the meeting
 - Default meetings to a maximum of 30 minutes
 - If you find you must have a 1 hour meeting determine if you can break it into two sections, Verbalize and Read Only
@@ -71,11 +71,11 @@ The Create Engineering Managers lead by example.  This page shares how the EMs l
 
 ## Diversity
 
-- Participated in the [Minorities in Tech Mentoring Program](https://about.gitlab.com/company/culture/inclusion/erg-minorities-in-tech/mentoring/)
+- Participated in the [Minorities in Tech Mentoring Program](/handbook/company/culture/inclusion/erg-minorities-in-tech/mentoring/)
 - Online Diversity Training for Engineering Managers (5+ hours)
-- [Gitlab Diversity Inclusion And Belonging Certification & Training](https://about.gitlab.com/company/culture/inclusion/dib-training/)
-- [Bias toward Async communication](https://about.gitlab.com/company/culture/all-remote/asynchronous/)
-- Make Family feel welcome through activities such as [Family and Friends Day](https://about.gitlab.com/company/family-and-friends-day/), and  Create Team Day 
+- [GitLab Diversity Inclusion And Belonging Certification & Training](/handbook/company/culture/inclusion/dib-training/)
+- [Bias toward Async communication](/handbook/company/culture/all-remote/asynchronous/)
+- Make Family feel welcome through activities such as [Family and Friends Day](/handbook/company/family-and-friends-day/), and  Create Team Day 
 
 ## Iteration
 

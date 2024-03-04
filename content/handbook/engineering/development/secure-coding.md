@@ -7,7 +7,7 @@ title: Keeping secure coding knowledge fresh in development
 
 
 
-{:toc}
+
 
 # Secure Coding Training Guidelines
 

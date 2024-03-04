@@ -84,6 +84,16 @@ This section provides and overview of potential compensation conversation scenar
         - ***A team member's New hire equity grant was significant***.  "You are meeting performance expectations at this time (if applicable), however, with proposing equity refresh grants we review holdings against hire date and peers for equality. Based on that extensive review, we feel you are well positioned from an equity perspective for your role compared to peers in the organization.
 1. ***Team member was hired after the cut-off date:*** "At GitLab we review compensation (cash + equity + benefits) on a yearly basis. Due to your hire date you were not eligible to receive additional compensation at this time. You will be eligible for the next Annual Compensation Review where we will review both your cash and equity compensation."
 1. ***Team member is receiving either just a compensation adjustment or just an equity grant*** Please refer to the guidance above to explain to a team member why they may be receiving either just a compensation adjustment or just an equity grant.
+1. ***Team member is receiving a (cash compensation increase/equity refresh grant) while on Leave:*** Our recommendation is to send this via email to the team members GitLab email address, but team members are not required to respond.  
+
+    Sample Email:
+
+- "I am so pleased to inform you that you will be receiving a (cash compensation adjustment/equity refresh grant) as a result of this year’s compensation review. You will see your compensation increase effective on February 1st.  Your (compensation increase/equity refresh grant) is based on one or more the following factors (Talent Assessment, Location Factor/Geo Region, Benchmark change and/or Discretionary).
+Details of this will be outlined on the Annual Compensation Statement attached.
+    - Your salary will be increased to (insert $ amount in local currency) which is a (insert %) adjustment (and/or)
+    - I am (also) pleased to inform you that your equity refresh grant is approved at (insert USD). This means your total unvested equity is $XX based on the share price of $X (as listed on the Total Compensation Statement)".
+Thank you for your ongoing commitment to results at GitLab! If you have any questions you can reach out, otherwise this email is for your information only and no reply is required."
+
 1. **Other scenarios:** If you have a scenario different from the above, and/or you need help with messaging, please work with your manager or [People Business Partner](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group).
     - Although informing a team member that they are not getting a compensation adjustment and/or equity grant is a tough message to deliver, managers should have this direct conversation. This is directly aligned with our transparency value. We want everyone to know why they may not have received an adjustment and give them the space to ask questions.
 

@@ -1,26 +1,8 @@
 ---
-
 title: "Data Team Data Management Page"
 description: "The Data Management Page covers the content around managing, securing, and governing the Enterprise Data Platform and related activities."
+controlled_document: true
 ---
-
-
-
-
-
-
-
-
-
-<div class="panel panel-gitlab-orange">
-**This is a Controlled Document**
-{: .panel-heading}
-<div class="panel-body">
-
-Inline with GitLab's regulatory obligations, changes to [controlled documents](/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged.
-
-</div>
-</div>
 
 ## Purpose
 
@@ -46,15 +28,15 @@ The Enterprise Data Platform captures, processes, and stores [data collected fro
 
 We deploy a Role-Based Data Access Scheme in Sisense:
 
-- [User Access is managed with Okta](/handbook/business-technology/data-team/platform/sisensecdt/#accessing-sisense)
-- Data Access is managed with [Roles](/handbook/business-technology/data-team/platform/sisensecdt/#user-roles) and [Spaces](/handbook/business-technology/data-team/platform/sisensecdt/#spaces)
+- User Access is managed with Okta
+- Data Access is managed with Roles
 - Each user is assigned a Sisense Role and this enables Data Access to dashboards and reports
 - The Sisense scheme interacts with the Snowflake Data Access schema to ensure a user does not have a "back door" into data from either system
 
 Additional controls include:
 
-- [Unused Dashboards Are Archived](/handbook/business-technology/data-team/platform/sisensecdt/#auto-archival-of-unused-dashboards)
-- [System Access is managed with an API Key](/handbook/business-technology/data-team/platform/sisensecdt/#sisense-api-key)
+- Unused Dashboards Are Archived
+- System Access is managed with an API Key
 
 ### Snowflake
 
@@ -115,7 +97,7 @@ In the Data Platform at GitLab we have multiple categories. Its good to highligh
 
 A **Quarterly Audit** is performed to validate system security, such as ensuring the right people have correct data access configuration and data pipelines are running correctly.
 
-The process is supported by the [Quarterly Data Health and Security issue template](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Platform%3A%20Quarterly%20Data%20Health%20and%20Security%20Audit.md). The label `~"Quarterly Data Health and Security Audit"` is used for all issues and merge requests related to the Quarterly audit.  
+The process is supported by the [Quarterly Data Health and Security issue template](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Platform%3A%20Quarterly%20Data%20Health%20and%20Security%20Audit.md). The label `~"Quarterly Data Health and Security Audit"` is used for all issues and merge requests related to the Quarterly audit.
 
 Here is a sample checklist of activities:
 
@@ -147,7 +129,6 @@ Here is a sample checklist of activities:
 
 #### Trusted Data
 
-- Review all Golden Record TD tests and make sure they're passing.
 - Review Data Siren to confirm known existence of RED data.
 - Generate a report of Business logic changes to the TD: Sales Funnel dashboard in the quarter. Business logic such as adding new dimensions, new facts, new marts, changing joins, adding new calculated fields.
 

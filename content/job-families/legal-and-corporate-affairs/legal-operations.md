@@ -102,7 +102,7 @@ The Vice President, Legal Operations reports to the [Chief Legal Officer](/job-f
 
 #### Vice President, Legal Operations Job Grade
 
-The Vice President, Legal Operations is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Vice President, Legal Operations is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Vice President, Legal Operations Responsibilities
 

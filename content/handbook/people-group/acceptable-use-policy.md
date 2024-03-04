@@ -1,11 +1,8 @@
 ---
 title: "GitLab Internal Acceptable Use Policy"
 description: "This policy specifies requirements related to the use of GitLab computing resources and data assets"
+controlled_document: true
 ---
-
-{{% alert title="This is a Controlled Document" color="danger" %}}
-Inline with GitLab's regulatory obligations, changes to [controlled documents]({{< ref "controlled-document-procedure" >}}) must be approved or merged by a code owner. All contributions are welcome and encouraged.
-{{% /alert %}}
 
 ## Purpose
 
@@ -102,7 +99,7 @@ In addition to following the [Team Member Social Media Policy](/handbook/marketi
 
 ### Return of GitLab-Owned Assets
 
-All GitLab-owned computing resources must be [returned](/handbook/people-group/offboarding/#returning-property-to-gitlab) upon separation from the company.  Notwithstanding anything contrary in the [Laptop Buy Back Policy](/handbook/business-technology/end-user-services/onboarding-access-requests/#laptop-buy-back-policy) or the [Offboarding Tasks](/handbook/people-group/offboarding/#managing-the-offboarding-tasks), Team Members must return any GitLab-Owned Assets -- irrespective of their valuation -- if they are specifically requested to do so either during their tenure with GitLab or upon offboarding.
+All GitLab-owned computing resources must be [returned]({{< ref "offboarding#returning-property-to-gitlab" >}}) upon separation from the company.  Notwithstanding anything contrary in the [Laptop Buy Back Policy](/handbook/business-technology/end-user-services/onboarding-access-requests/#laptop-buy-back-policy) or the [Offboarding Tasks]({{< ref "offboarding#managing-the-offboarding-tasks" >}}), Team Members must return any GitLab-Owned Assets -- irrespective of their valuation -- if they are specifically requested to do so either during their tenure with GitLab or upon offboarding. In cases of investigation, misconduct, termination for cause or any violation of [GitLab's Code of Business Conduct & Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d), a team member has no right to retain GitLab-owned computing equipment.
 
 ### Bring-Your-Own-Device (BYOD)
 
@@ -116,7 +113,7 @@ All personal mobile computing devices used to access GitLab-managed data, includ
 
 #### Unable to Use Company Laptop
 
-For new employees who have not received a company laptop, there are [exception processes](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#exception-processes) for using non-company devices.
+For new employees who have not received a company laptop, there are [exception processes](/handbook/business-technology/end-user-services/onboarding-access-requests/#exception-processes) for using non-company devices.
 
 The same exception processes apply in the case of a corporate laptop being unavailable or unusable due to loss, theft or disrepair. See [lost or stolen procedures]({{< ref "/handbook/security#reporting-an-incident" >}}) for additional information. You must open [a Policy Exeption Request](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/exceptions/issues/new?issuable_template=exception_request). While the exception processes are considered a temporary solution, you still need to make sure the non-company system meets [basic configuration standards](/handbook/business-technology/it/security/system-configuration/#laptop-or-desktop-system-configuration), and a Microsoft Windows system is still not allowed access under any circumstances.
 
@@ -132,9 +129,13 @@ For [video calls](/handbook/communication/#video-calls), and as a back-up to Sla
 
 The use of removable and external storage devices such as USB flash drives and external backup drives on company-managed devices is not officially sanctioned. If there is a business need for the use of an external storage device, such as a flash drive or an external hard drive on company devices, please contact the Security Team to determine the most suitable encryption-enabled device. All external and removable storage devices must be encrypted and protected by a passcode.
 
+As a reminder, Red Data may not be transmitted from an approved Red data source to any other systems or solutions without first obtaining approval from the Privacy and Security teams. Please refer to GitLab's [Data Classification Standard]({{< ref "data-classification-standard#red" >}}) for further details.
+
 ### Use of file sharing services other than Google Drive
 
-Creating an account with, or using, a file sharing service other than Google Drive for sharing GitLab-related files with other Team Members or those external to GitLab is not permitted unless an exception has been granted. To obtain an exception create an [access request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) outlining the business case, and do not proceed until the exception has been granted.
+Creating an account with, or using, a file sharing service other than Google Drive for sharing GitLab-related files with other team members or those external to GitLab is not permitted unless an exception has been granted. To obtain an exception create an [access request](/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/) outlining the business case, and do not proceed until the exception has been granted.
+
+When creating an account with and using a file sharing service other that Google Drive, team members must:
 
 When creating an account with and using a file sharing service other that Google Drive, Team Members must:
 - Where available, use the `Sign in with Google` single sign-on option using a GitLab Google Workspace account, rather than creating an account using a GitLab (or other provider) email address and password.

@@ -15,7 +15,6 @@ twitter_creator: '@gitlab'
 # <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Lifecycle Marketing
 
 ## Overview
-{: #overview .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 [Lifecycle Marketing](/job-families/marketing/marketing-campaign-manager/#user-lifecycle-marketing) is responsible for strategizing, executing, and optimizing a data-driven user lifecycle communications strategy and overall email marketing plan, including ongoing nurture email campaigns.
@@ -25,14 +24,13 @@ This role works closely across Marketing for all things email, and directly with
 [Read the job family here >>](/job-families/marketing/marketing-campaign-manager/#user-lifecycle-marketing)
 
 For more information on email marketing at GitLab, please visit the following pages:
-* [Nurture programs](/handbook/marketing/lifecycle-marketing/emails-nurture/) 
-* [Best practices](/handbook/marketing/lifecycle-marketing/email-best-practices), 
-* [Email processes and requests](/handbook/marketing/lifecycle-marketing/email-processes-requests)
+* [Nurture programs](https://handbook.gitlab.com/handbook/marketing/lifecycle-marketing/emails-nurture/) 
+* [Best practices](https://handbook.gitlab.com/handbook/marketing/lifecycle-marketing/email-best-practices/), 
+* [Email processes and requests](https://handbook.gitlab.com/handbook/marketing/lifecycle-marketing/email-processes-requests/)
 
 Please reach out to Allie Klatzkin or Luis Diego D'ambrosio with any questions.
 
 ### Meet the Team
-{: #meet-the-team}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 
@@ -63,7 +61,6 @@ Please reach out to Allie Klatzkin or Luis Diego D'ambrosio with any questions.
 
 
 ## Communication
-{: #communication .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 In line with GitLab's overall [communication guidelines](/handbook/communication/), lifecycle marketing managers work through MRs first and issues second (in order to preserve documentation), and our slack channel [#lifecycle-marketing](https://gitlab.slack.com/archives/C02A0MT93DL) is used for team updated and quick questions.
@@ -81,7 +78,6 @@ In between bi-weekly Lifecycle Marketing Team calls:
    - Include link to MR (preferred) or issue
 
 ### Meeting Cadence
-{: #meeting-cadence}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 
@@ -92,7 +88,6 @@ In between bi-weekly Lifecycle Marketing Team calls:
 - Monthly - Marketing All-Hands (all marketing)
 
 ### The Handbook
-{: #handbook}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 Is our single source of truth (SSoT) for processes and relevant links
@@ -102,12 +97,10 @@ Is our single source of truth (SSoT) for processes and relevant links
 - The handbook will be iterated on as we establish and optimize processes for optimal efficiency
 
 ## Project Management
-{: #project-management .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 
 ### Prioritization
-{: #prioritization-boards}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 1. [Lifecycle Marketing - Prioritization](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/2532209?&label_name[]=mktg-demandgen)
@@ -125,7 +118,6 @@ Is our single source of truth (SSoT) for processes and relevant links
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 #### Prioritization labels
-{: #prioritization-labels}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 - `DG-Priority::Top`: Immediate action needed, aligned to OKRs. This category will be limited because not everything can be a priority. Timeframe: Immediate action needed.
@@ -135,7 +127,6 @@ Is our single source of truth (SSoT) for processes and relevant links
 - `DG-Priority::ToBePrioritized`: Requests that have not yet been prioritized by the team.
 
 #### Team labels
-{: #team-labels}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 * `mktg-demandgen`: DRI is in Demand Gen team
@@ -144,7 +135,6 @@ Is our single source of truth (SSoT) for processes and relevant links
 * `dg-request`: Issue requesting Lifecycle Marketing support (did not originate from DRI team)
 
 #### Status labels
-{: #intake-labels}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 - `mktg-status::blocked`: there were insufficient details in the issue for work to be completed
@@ -153,7 +143,6 @@ Is our single source of truth (SSoT) for processes and relevant links
     - This will likely be used mainly by campaign managers on issues that are not high priority but there is a desire to capture the idea/notes.
 
 ### Issue Templates
-{: #issue-templates}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 We ask that teams request work using the following issue templates in the campaigns project. These templates more clearly indicate what information and details are required in order for the request to be triaged.
@@ -161,7 +150,6 @@ We ask that teams request work using the following issue templates in the campai
 Note on timelines: The campaigns team is focused on campaign strategy, execution, and optimization. Team member milestones focus on work to drive MQLs and SAOs, and requests will be committed to as bandwidth permits at discretion of Campaign Team Manager.
 
 #### Request Issue Templates
-{: #request-issue-templates}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 Below are the issue templates to make a lifecycle request. For processes, please see our [processes handbook page](/handbook/marketing/lifecycle-marketing/email-processes-requests).
 
@@ -176,7 +164,6 @@ Below are the issue templates to make a lifecycle request. For processes, please
 
 
 #### Campaign Team Issue Templates
-{: #campaign-issues-templates}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 The following issue templates are used by the campaigns team to organize their work, with appropriate labels applied for project management.
@@ -198,7 +185,6 @@ The following issue templates are used by the campaigns team to organize their w
 - [campaigns-sdr-enablement](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-sdr-enablement)
 
 #### Fundamental principles of issue requests
-{: #fundamentals}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 The following issue templates are used by the campaigns team to organize their work, with appropriate labels applied for project management.
@@ -210,7 +196,6 @@ The following issue templates are used by the campaigns team to organize their w
 - `/epic ` - add epic of the overarching campaign or project to keep things organized. In almost all cases, there is a larger initiative that the issue relates to, so it is best practice to associate issues to the most relevant epic for visibility. (example: `/epic [https://gitlab.com/groups/gitlab-com/marketing/-/epics/370](https://gitlab.com/groups/gitlab-com/marketing/-/epics/370)`)
 
 #### Intake process daily/weekly steps
-{: #intake-steps}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 Team manager completes daily review of [lifecycle marketing issues in triage](https://gitlab.com/groups/gitlab-com/marketing/-/issues/?sort=milestone_due_desc&state=opened&label_name%5B%5D=lifecycle-mktg&label_name%5B%5D=mktg-status%3A%3Atriage&first_page_size=20) assessing the following standards:
@@ -221,7 +206,6 @@ Team manager completes daily review of [lifecycle marketing issues in triage](ht
  - if no, consider realistic timeline given priorities (and share with requester in comments, set up time to discuss if needed)
 
 #### Shortcut issue comments for project management
-{: #shortcut-comments}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 **When a team member is picking up an issue from the backlog:**
@@ -235,7 +219,6 @@ Team manager completes daily review of [lifecycle marketing issues in triage](ht
 This will change the status to wip (work in progress), allow quick assignment and add to the appropriate milestone.
 
 ### Milestones
-{: #milestones}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 The lifecycle marketing team uses the overall 2-week marketing milestones (format of [Mktg: YYYY-MM-DD](https://gitlab.com/groups/gitlab-com/-/milestones?utf8=%E2%9C%93&search_title=mktg%3A+&state=&sort=)) to organize, prioritize, and balance campaigns, projects, and requests.
@@ -245,11 +228,9 @@ The lifecycle marketing team uses the overall 2-week marketing milestones (forma
 - If issues in a milestone are not closed out by end of milestone, they are pulled to the next milestone. We will document **total issues** and **total weight** moved, to understand relative commitment levels and avoid overcommitment as we begin using milestones.
 
 ### Boards and Lists
-{: #boards-lists}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 #### Boards
-{: #boards}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 <b>[Lifecycle Marketing Team Current Milestone](https://gitlab.com/groups/gitlab-com/-/boards/1884920?milestone_title=%23started&&label_name[]=dg-campaigns)</b> - this board provides a high-level status view of issues in the current milestone by team member.
@@ -276,7 +257,7 @@ The lifecycle marketing team uses the overall 2-week marketing milestones (forma
 
 ##### Issue List Current Mile by Team Member
 - [All Team Members Current Milestone](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues?scope=all&state=opened&milestone_title=%23started)
-- [Luis Deigo D'Ambrosio Current Milestone](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues?scope=all&state=opened&milestone_title=%23started&assignee_username[]=dambrold)
+- [Luis Diego D'Ambrosio Current Milestone](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues?scope=all&state=opened&milestone_title=%23started&assignee_username[]=dambrold)
 - [Allie Klatzkin Current Milestone](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues?scope=all&state=opened&milestone_title=%23started&assignee_username[]=aklatzkin)
 
 ##### Issues by Status
@@ -287,7 +268,6 @@ The lifecycle marketing team uses the overall 2-week marketing milestones (forma
 
 
 ### Key Resources
-{: #key-resources}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 * [Lifecycle OKRs](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3556)
 * [Overall Epic for Lifecycle Marketing](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3823)

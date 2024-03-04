@@ -1,33 +1,31 @@
 ---
-
 title: Engineers
 ---
 
-
-
-
-
-
-
 ## Who we are
-
 
 ### Create
 
 #### Create:Source Code
-<%= direct_team(manager_role: 'Backend Engineering Manager, Create:Source Code') %>
+
+{{< team-by-manager-role "Backend Engineering Manager(.*)Create:Source Code" >}}
 
 #### Create:Code Review
-<%= direct_team(manager_role: 'Backend Engineering Manager, Create:Code Review') %>
+
+{{< team-by-manager-role "Backend Engineering Manager(.*)Create:Code Review" >}}
 
 #### Create:IDE
-<%= direct_team(manager_role: 'Engineering Manager, Create:Knowledge & Create:IDE') %>
+
+{{< team-by-manager-role role="Engineering Manager(.*)Create:Knowledge & Create:IDE" team="Create:IDE" >}}
 
 #### Create:Source Code Frontend
-<%= direct_team(manager_role: 'Frontend Engineering Manager, Create:Source Code, Delivery & Scalability') %>
+
+{{< team-by-manager-role role="Frontend Engineering Manager(.*)Create:Source Code" team="Create:Source Code" >}}
 
 #### Create:Code Review Frontend
-<%= direct_team(manager_role: 'Frontend Engineering Manager, Create:Code Review') %>
+
+{{< team-by-manager-role role="Frontend Engineering Manager(.*)Create:Code Review" team="Create:Code Review" >}}
 
 #### Gitaly
-<%= direct_team(manager_slug: 'tim-z', role_regexp: /Gitaly/) %>
+
+{{< team-by-manager-slug manager="tim-z" team="Gitaly" >}}
