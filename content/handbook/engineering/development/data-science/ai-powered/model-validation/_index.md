@@ -162,6 +162,20 @@ We periodically showcase demos, and if there is any specific demo on Machine lea
 - [Suggested Reviewer MLOPS pipeline using GitLab]
 - [Prompt Template for LLM's] (https://youtu.be/jR8Czar0cU8)
 
-{{% cross-functional-dashboards filters="Applied Ml" %}}
+{{< tableau height="600px" toolbar="hidden" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/TopEngineeringMetrics/TopEngineeringMetricsDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="ai model validation" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/MergeRequestMetrics/OverallMRsbyType_1" >}}
+  {{< tableau/filters "GROUP_LABEL"="ai model validation" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/Flakytestissues/FlakyTestIssues" >}}
+  {{< tableau/filters "GROUP_NAME"="ai model validation" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/SlowRSpecTestsIssues/SlowRSpecTestsIssuesDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="ai model validation" >}}
+{{< /tableau >}}
 
 <!-- <%# TBD Mon to update as the dashboads are empty %> -->
