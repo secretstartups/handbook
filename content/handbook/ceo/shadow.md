@@ -143,10 +143,10 @@ For those with regular commitments, look for shorter weeks or timezone variation
 | 2024-05-27 | 2024-05-31 | OPEN | OPEN | REMOTE - PT |
 | 2024-06-03 | 2024-06-07 | OPEN | OPEN | REMOTE - PT |
 | 2024-06-10 | 2024-06-14 | OPEN | OPEN | REMOTE - PT |
-| 2024-06-17 | 2024-06-21 | OPEN | OPEN | REMOTE - PT |
+| 2024-06-17 | 2024-06-21 | [Camilo Villanueva Santiago](https://gitlab.com/cvillanueva1) - Sr. Enterprise Renewals Manager | OPEN | REMOTE - PT |
 | 2024-06-24 | 2024-06-27 | OPEN - VP DIRECTS ONLY | OPEN - VP DIRECTS ONLY | In Person - East Coast |
 | 2024-07-01 | 2024-07-05 | NO SHADOW | NO SHADOW | CEO OOO |
-| 2024-07-08 | 2024-07-12 |  OPEN | OPEN | TBD - Possible limited week/travel in EMEA |
+| 2024-07-08 | 2024-07-12 |  OPEN | [Camilo Villanueva Santiago](https://gitlab.com/cvillanueva1) - Sr. Enterprise Renewals Manager | TBD - Possible limited week/travel in EMEA |
 | 2024-07-15 | 2024-07-19 |  OPEN | OPEN | REMOTE - PT |
 | 2024-07-22 | 2024-07-26 |  OPEN | OPEN | REMOTE - PT |
 | 2024-07-29 | 2024-08-02 |  OPEN | OPEN | REMOTE - PT |
