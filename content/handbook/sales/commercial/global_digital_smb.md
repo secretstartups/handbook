@@ -249,6 +249,8 @@ Before picking up the case, the Advocate checks that they can attend the meeting
 The Advocate should also advise the SDR, by chattering them on the opp, that they have picked up the case.
 The below SDR Handover Process steps, and Handover Criteria, detailed below should also be followed by both the SDR and Advocate.
 
+*Note*: If Prospect is ready to buy (i.e no IQM is required), does not qualify for Advocate support, and is unable to purchase their license via Web (Ex: Multi-Year, Needs PO, Duo Pro, etc), please proceed with the [Blocked Purchase Workflow](https://docs.google.com/spreadsheets/d/18tGE_dpbx7nLu2S6bzD3WkLrHM3IrDv72WWJMgDDi64/edit#gid=920984489). Criteria [here](https://docs.google.com/spreadsheets/d/18tGE_dpbx7nLu2S6bzD3WkLrHM3IrDv72WWJMgDDi64/edit#gid=1849175247). 
+
 ### SDR Created (an SDR engages with a lead that is related to a customer account)
 Before creating a case, the SDR should convert the lead to a contact, under the customer account. 
 When creating the case, this newly created Contact should be added to the Case. 
