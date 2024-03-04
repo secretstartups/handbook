@@ -137,10 +137,10 @@ For those with regular commitments, look for shorter weeks or timezone variation
 | 2024-04-15 | 2024-04-19 | NO SHADOW | NO SHADOW | CEO OOO |
 | 2024-04-22 | 2024-04-26 | [Sam Wiskow - Senior Product Manager, Delivery & Scalability](https://gitlab.com/swiskow)  | [Karen Kwentus](https://gitlab.com/kkwentus1) - Sr Solutions Architect | REMOTE - PT |
 | 2024-04-29 | 2024-05-03 | [Indre Kryzeviciene](https://gitlab.com/ikryzeviciene) - Staff Marketing Campaigns Manager | [Sam Wiskow - Senior Product Manager, Delivery & Scalability](https://gitlab.com/swiskow)  | REMOTE - PT, MON - THURS |
-| 2024-05-06 | 2024-05-10 | [Djordje Micovic](https://gitlab.com/dmicovic) - Sr Data Analyst, Marketing Analytics | [Indre Kryzeviciene](https://gitlab.com/ikryzeviciene) - Staff Marketing Campaigns Manager | REMOTE - PT, MON, FRI |
-| 2024-05-13 | 2024-05-17 | OPEN | [Djordje Micovic](https://gitlab.com/dmicovic) - Sr Data Analyst, Marketing Analytics | REMOTE - PT, MON - TUES |
+| 2024-05-06 | 2024-05-10 | OPEN | [Indre Kryzeviciene](https://gitlab.com/ikryzeviciene) - Staff Marketing Campaigns Manager | REMOTE - PT, MON, FRI |
+| 2024-05-13 | 2024-05-17 | [Djordje Micovic](https://gitlab.com/dmicovic) - Staff Data Analyst, Marketing Analytics | OPEN | REMOTE - PT, MON - TUES |
 | 2024-05-20 | 2024-05-24 | NO SHADOW | NO SHADOW | PRESIDENT'S CLUB |
-| 2024-05-27 | 2024-05-31 | OPEN | OPEN | REMOTE - PT |
+| 2024-05-27 | 2024-05-31 | OPEN | [Djordje Micovic](https://gitlab.com/dmicovic) - Staff Data Analyst, Marketing Analytics | REMOTE - PT |
 | 2024-06-03 | 2024-06-07 | OPEN | OPEN | REMOTE - PT |
 | 2024-06-10 | 2024-06-14 | OPEN | OPEN | REMOTE - PT |
 | 2024-06-17 | 2024-06-21 | OPEN | OPEN | REMOTE - PT |
