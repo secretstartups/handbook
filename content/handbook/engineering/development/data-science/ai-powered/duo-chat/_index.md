@@ -1,11 +1,12 @@
 ---
 title: Duo Chat Group
-description: "The Duo Chat group is focused on adding support to GitLab Duo Chat functionality, and how to support other product groups and the wider community in adding functionality."
+description: "The Duo Chat group is focused on developing GitLab Duo Chat capabilities, while supporting other product groups and the wider community in integrating more functionality."
+aliases: /handbook/engineering/development/data-science/duo-chat
 ---
 
 ## Vision
 
-The Duo Chat group is focused on adding support to GitLab Duo Chat functionality, and how to support other product groups and the wider community in adding functionality
+The Duo Chat group is focused on developing GitLab Duo Chat capabilities, while supporting other product groups and the wider community in integrating more functionality.
 
 ### 🚀 Team Members
 
