@@ -97,7 +97,7 @@ Each PS Engagement will include a Project Plan based on the activities outlined 
 
 #### Work Exception
 
-A Work Exception is used by a PM when seeking approval for a project to go over the alloted time/budget. Use the [Work Exception issue template](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/issues/new?issue%5Bmilestone_id%5D=&issuable_template=work-exception) to gain approvals from PS leadership.
+A Work Exception is used by a PM when seeking approval for a project to go over the allotted time/budget. Use the [Work Exception issue template](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/issues/new?issue%5Bmilestone_id%5D=&issuable_template=work-exception) to gain approvals from PS leadership.
 
 
 #### Change Order
