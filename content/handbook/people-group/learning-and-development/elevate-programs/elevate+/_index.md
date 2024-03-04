@@ -24,7 +24,7 @@ Are you an active participant in Elevate+? Click here to navigate to the Particp
 
 <div class="flex-row" markdown="0">
   <div>
-     <a href= "https://handbook.gitlab.com/handbook/people-group/learning-and-development/elevate-programs/elevate+/_participant-hub" class="btn btn-primary" style="width:200px;margin:5px;">Intersession Work</a>
+     <a href= "https://handbook.gitlab.com/handbook/people-group/learning-and-development/elevate-programs/elevate+/_participant-hub" class="btn btn-primary" style="width:200px;margin:5px;">Click Here: Participant Hub</a>
   </div>
 </div>
 
