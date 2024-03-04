@@ -1,6 +1,7 @@
 ---
 title: AI Framework Group
 description: "The AI Framework group is focused on how to support other product groups at GitLab with the AI Abstraction Layer, and GitLab Duo Chat functionality."
+aliases: /handbook/engineering/development/data-science/ai-framework
 ---
 
 ## Vision

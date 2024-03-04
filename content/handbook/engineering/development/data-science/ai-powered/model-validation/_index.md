@@ -1,6 +1,7 @@
 ---
 title: AI Model Validation Group
 description: "The Model Validation group is focused on how to extend GitLab functionality to provide additional value by leveraging ML/AI."
+aliases: /handbook/engineering/development/data-science/model-validation
 ---
 
 ## Vision
