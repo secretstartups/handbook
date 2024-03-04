@@ -135,8 +135,6 @@ As a reminder, Red Data may not be transmitted from an approved Red data source 
 
 Creating an account with, or using, a file sharing service other than Google Drive for sharing GitLab-related files with other team members or those external to GitLab is not permitted unless an exception has been granted. To obtain an exception create an [access request](/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/) outlining the business case, and do not proceed until the exception has been granted.
 
-When creating an account with and using a file sharing service other that Google Drive, team members must:
-
 When creating an account with and using a file sharing service other that Google Drive, Team Members must:
 - Where available, use the `Sign in with Google` single sign-on option using a GitLab Google Workspace account, rather than creating an account using a GitLab (or other provider) email address and password.
 - Only upload files directly to shared folders created by those external to GitLab and do not upload files to the personal area of the file sharing service.
