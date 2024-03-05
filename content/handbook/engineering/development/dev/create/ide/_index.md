@@ -229,6 +229,8 @@ The pipeline to generate it can also be run [directly from CI](https://gitlab.co
 
 ### Process Phases
 
+NOTE: All issues in this process _must_ be assigned the `~Category:Remote Development` label, _even if they are also assigned another category label_. Otherwise the board and velocity calculation tools will not work properly.
+
 ```mermaid
 graph TD;
   S['Category:Remote Developent' issue created] -->|New issue is added to an epic, and 'rd-workflow::unprioritized' label is applied| V[High Level Validation and Planning]
@@ -532,7 +534,7 @@ We have the following automation goals for the Remote Development Workflow. Unle
 | <a id="automation-11">11</a> | Automate Label Assignment for Ignored Issues | Issues with the `type::ignore` label should have the `rd-workflow::ignored` label assigned. | TODO: implement |
 | <a id="automation-12">12</a> | Ensure all prioritized issues with an assignee have a weight assigned | All issues with `~rd-workflow::prioritized` and an assignee but no weight should get a reminder note to either add a weight estimate or remove the assignee. | TODO: implement |
 | <a id="automation-13">13</a> | Assign a `rd-maturity::*` label of `viable`, `complete`, etc based on epic hierarchy | All issues should have appropriate labels added/removed based on epic hierarchy | TODO: implement |
-
+| <a id="automation-14">14</a> | Add an error comment if an issue is assigned to an iteration in the [RD cadence](https://gitlab.com/groups/gitlab-org/-/cadences/) but not assigned to `~Category:Remote Development` | TODO: implement |
 
 <!-- LINKS START -->
 
