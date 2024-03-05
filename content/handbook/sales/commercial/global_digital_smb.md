@@ -163,6 +163,7 @@ You can now return to this report at any time to check;
  This allows the stakeholder to view case updates, and negates the need for them to chatter the Case Owner requesting an update.  Any updates that *are* requested via chatter, should be answered by the Advocate/ Case Owner within one business day.
 - (If the Advocate is working on an Expansion Opportunity case, any Add On or Growth opp they uncover should be manually created, and linked to the case in question, via the Opportunity lookup field).
 - Once a Case is considered resolved, the Status should be set to one of the four Closed options, and the Resolution Action updated. This will automatically update the Date/ Time Closed field.
+- Note:  Inbound customer requests must only be marked as closed once the customers needs have been addressed. 
 - If applicable, the linked opportunity should also be closed.
 - At any time, a SMB Advocate can view their cases by navigating to the My Cases list view in Salesforce.
 - When working cases, the following Outreach cadence should be followed.
