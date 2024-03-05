@@ -591,7 +591,6 @@
 /.gitignore @gitlab-com/handbook
 /.gitlab-ci.yml @gitlab-com/handbook
 /.markdownlint-cli2.jsonc @gitlab-com/handbook
-/.markdownlint.yaml @gitlab-com/handbook
 /LICENCE @gitlab-com/handbook
 /README.md @gitlab-com/handbook
 /CONTRIBUTING.md @gitlab-com/handbook
