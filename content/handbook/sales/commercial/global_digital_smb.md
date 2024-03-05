@@ -292,7 +292,9 @@ The email templates, and which Case Trigger they are relevant to, are listed in 
 
 All High Priority cases should be picked up and responded to within 24 hours of entering the queue.
 
-All Medium/ Low Priority cases should be picked up and responded to within 48 hours of entering the queue.
+All Medium Priority cases should be picked up and responded to within 48 hours of entering the queue.
+
+All Low Priority cases should be picked up and responded to within 7 days of entering the queue.
 
 ### Open Case Guidelines
 
