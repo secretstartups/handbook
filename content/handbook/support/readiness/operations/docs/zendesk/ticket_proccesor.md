@@ -168,33 +168,8 @@ This adds the ticket tag `star_submitted` onto the ticket.
 #### Add ticket weighting values to Zendesk tickets
 
 This determines the ticket's "weight" based on specific criteria. The criteria
-currently used are:
-
-- ARR (the higher value between Ticket ARR and Organization ARR)
-  - `Greater than or equal to 1000000` adds 20 ticket weight
-  - `Greater than or equal to 300000` adds 15 ticket weight
-  - `Greater than or equal to 30000` adds 10 ticket weight
-  - `Greater than 0` adds 5 ticket weight
-- Ticket form
-  - `Emergency` adds 100 ticket weight
-- Sales segmentation
-  - `Large` adds 10 ticket weight
-  - `Mid-Market` adds 5 ticket weight
-  - `SMB` adds 1 ticket weight
-- Customer Severity
-  - `Severity 1` adds 9 ticket weight
-  - `Severity 2` adds 6 ticket weight
-  - `Severity 3` adds 3 ticket weight
-  - `Severity 4` adds 1 ticket weight
-- Customer Priority
-  - `Urgent` adds 9 ticket weight
-  - `High` adds 6 ticket weight
-  - `Medium` adds 3 ticket weight
-- Has the ticket been STAR'd?
-  - 20 points are added to the ticket weight if it has been
-
-The final sum of all those are the final calculated ticket weight used to update
-the ticket field.
+currently used can be seen within the
+[ticket processor's code](https://gitlab.com/gitlab-support-readiness/zendesk-global/tickets/processor)
 
 ## Change management
 
