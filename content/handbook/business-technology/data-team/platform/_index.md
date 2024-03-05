@@ -93,11 +93,13 @@ The following table indexes all of the RAW data sources we are loading into the 
 | [Adaptive](https://www.adaptiveplanning.com/) | Airflow | `adaptive_custom` | x | Finance |  | Yes | Tier 2 |
 | [Adobe / Bizible](https://experienceleague.adobe.com/docs/bizible/using/home.html) | Airflow | `bizible` | `sensitive` | Marketing | 24h / 36h | No | Tier 2 |
 | [Airflow](https://airflow.apache.org/) | Stitch | `airflow_stitch` | `airflow` | Data Team | 24h / 24h | No | Tier 3 |
+| [AWS Billing](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/billing-what-is.html) | Snowflake external tables | `aws_billing` | `aws_billing` | Engineering | 24h / 24h | No | Tier 2 |
 | [BambooHR](https://www.bamboohr.com/) | Airflow | `bamboohr` | `sensitive` | People | 12h / 24h | No | Tier 2 |
 | [Clari](https://www.clari.com/) | Airflow | `clari` | `clari` | Sales | 24h / 24h | Yes | Tier 2 |
 | [Clearbit](https://clearbit.com/) | x | x | x | x / x |  | No | Tier 3 |
 | [CustomersDot](https://internal.gitlab.com/handbook/enterprise-data/platform/pipelines/#gitlab-customer-dot-database) [ERD](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/staging/doc/db_erd.pdf) | pgp | `tap_postgres` | `customers` | Product | 24h / x | No | Tier 1 |
 | [Demandbase](https://www.demandbase.com/) | Snowflake task | `demandbase` | `demandbase` | Marketing | 24h / x | No | Tier 2 |
+| [Elastic Search Billing](https://www.elastic.co/guide/en/cloud/current/Billing_Costs_Analysis.html) | Airflow | `elasticsearch_billing` | `elastic_billing` | Engineering | 24h / 24h | No | Tier 2 |
 | [Facebook_ads](https://www.facebook.com/business/ads) | Fivetran | `facebook_ads` | `facebook_ads` | Marketing | 24h / 48h | No | Tier 3 |
 | [Gainsight Customer Success](https://gitlab.gainsightcloud.com/v1/ui/home) | Fivetran | `gainsight_customer_success` | `gainsight_customer_success` | Customer Success | 24h / 48h | No | Tier 3 |
 | [GitLab.com](https://internal.gitlab.com/handbook/enterprise-data/platform/pipelines/saas-gitlab-com/) | pgp | `tap_postgres` | `gitlab_dotcom` | Product, Engineering | 12h / 55h | No | Tier 1 |
