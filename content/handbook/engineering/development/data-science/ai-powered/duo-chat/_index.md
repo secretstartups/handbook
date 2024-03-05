@@ -12,7 +12,7 @@ The Duo Chat group is focused on developing GitLab Duo Chat capabilities, while 
 
 **Engineering Manager & Engineers**
 
-{{< team-by-manager-slug "davidoregan" >}}
+{{< team-by-manager-slug "juan-silva" >}}
 
 **Product, Design & Quality**
 
