@@ -159,6 +159,8 @@ You can now return to this report at any time to check;
 - Information pertaining to the case will be displayed in the Case Reason, Context, CTA & Description box.
 - An Advocate must then update the Status to In Progress.(This shows the case is being worked, and takes it out of the queue). 
 - To work the case, the SMB Advocate should contact the customer, with all activities logged on the contact/ account, via Outreach. The Next Steps fields on the case should also be updated to include the case next steps/ date. 
+- Note: when picking up a case created by a GitLab stakeholder e.g the Support Team, it is crucial that the Advocate updates **Next Steps** as soon as the case has been actioned. 
+ This allows the stakeholder to view case updates, and negates the need for them to chatter the Case Owner requesting an update.  Any updates that *are* requested via chatter, should be answered by the Advocate/ Case Owner within one business day.
 - (If the Advocate is working on an Expansion Opportunity case, any Add On or Growth opp they uncover should be manually created, and linked to the case in question, via the Opportunity lookup field).
 - Once a Case is considered resolved, the Status should be set to one of the four Closed options, and the Resolution Action updated. This will automatically update the Date/ Time Closed field.
 - If applicable, the linked opportunity should also be closed.
