@@ -99,7 +99,7 @@ The foundation of the GitLab Partner Services Program consists of two elements o
 2. [GitLab Service Development Framework](/handbook/resellers/services/): Partners can utilize GitLab Service Development Framework to assist their teams as they build the service offerings, market and sell their services, and support their service business growth.
 
 
-#### Becoming a Desigtnated GitLab Professional Services Partner (PSP)
+#### Becoming a Designated GitLab Professional Services Partner (PSP)
 
 GitLab Professional Services Partner Designation (PSP) has partner program, competency, and delivery requirements that must be completed before you can obtain the designation. PSP designations will be awarded on a monthly basis to partners who complete the requirements below.
 
