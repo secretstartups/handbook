@@ -205,9 +205,9 @@ To see who the current manager on-call is you can:
 
 ### Paging the on-call manager
 
-- First, try pinging the on-call manager by name in Slack.
+- First, try pinging the on-call manager by tagging `@support-manager-oncall` in Slack.
 - If it's important and urgent or a weekend, you can:
-    - Use the `/pd-support-manager` command to page the on-call manager
+    - Tag the Support Manager On-Call by name in Slack to page the on-call manager
     - Manually create a new incident from the [Support Managers Service](https://gitlab.pagerduty.com/services/PTFI8XR)
 
 ## Mobile phone service and data reimbursement
