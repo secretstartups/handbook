@@ -89,7 +89,7 @@
 /content/handbook/customer-success/csm/segment/scale/ @afrusciano @esivak @ofalk
 
 ^[eba-team]
-/content/handbook/eba/ @jrotenberry @lsimonot 
+/content/handbook/eba/ @jrotenberry @lsimonot
 
 ^[education-services]
 /content/handbook/customer-success/professional-services-engineering/education-services/ @scottcosentinogitlab @nshah19
@@ -126,6 +126,7 @@
 /content/handbook/engineering/development/dev/training/ic-to-manager.md @dsatcher
 /content/handbook/engineering/development/dev/create/ @dsatcher
 /content/handbook/engineering/development/dev/create/code-creation/ @mnohr
+/content/handbook/engineering/development/dev/create/editor-extensions.md @dashaadu @kisha.mavryck
 /content/handbook/engineering/development/dev/create/ide/ @oregand
 /content/handbook/engineering/development/dev/plan/plan-fe/ @donaldcook @timzallmann @johnhope
 /content/handbook/engineering/development/dev/manage/ @wortschi @m_gill @mksionek
@@ -167,7 +168,7 @@
 /content/handbook/engineering/infrastructure/team/ @marin
 /content/handbook/engineering/infrastructure/team/scalability/ @rnienaber @kwanyangu @lmcandrew @marin
 /content/handbook/engineering/infrastructure/team/delivery/ @marin @mbursi @dawsmith
-/content/handbook/engineering/infrastructure/team/gitlab-dedicated/ @o-lluch @marin @amyphillips 
+/content/handbook/engineering/infrastructure/team/gitlab-dedicated/ @o-lluch @marin @amyphillips
 /content/handbook/engineering/infrastructure/team/gitlab-dedicated/us-public-sector-services.md @sdumesnil @marin @amyphillips
 /content/handbook/engineering/infrastructure/team/gitlab-dedicated/switchboard.md @ashiel @marin @amyphillips
 /content/handbook/engineering/infrastructure/platforms/ @marin @rnienaber @amyphillips
@@ -246,16 +247,15 @@
 /content/handbook/engineering/readmes/wayne-haber.md @wayne
 /content/handbook/engineering/readmes/nick-veenhof.md @nick_vh
 
+# CODEOWNER approvals are required for Source Code to support dogfooding approvals
 [SourceCode]
 /content/handbook/engineering/development/dev/create/source-code-be/ @sean_carroll @robotmay_gitlab @igor.drozdov @vyaklushin
 
+# CODEOWNER approvals are required for Code Review to support dogfooding approvals
 [CodeReview]
 /content/handbook/engineering/development/dev/create/code-review/ @phikai @andr3 @francoisrose
-/content/handbook/engineering/development/dev/create/code-review/backend/ @francoisrose @kerrizor @marc_shaw @dskim_gitlab @garyh @patrickbajao
-/content/handbook/engineering/development/dev/create/code-review/frontend.md @andr3
-
-^[Editor-Extensions]
-/content/handbook/engineering/development/dev/create/editor-extensions.md @dashaadu @kisha.mavryck
+/content/handbook/engineering/development/dev/create/code-review/backend/ @francoisrose @phikai @kerrizor @marc_shaw @dskim_gitlab @garyh @patrickbajao
+/content/handbook/engineering/development/dev/create/code-review/frontend.md @andr3 @phikai
 
 ^[finance]
 /content/handbook/finance/ @brobins
@@ -349,7 +349,7 @@
 /content/handbook/marketing/developer-relations/evangelist-program.md @esalvadorp @johncoghlan
 /content/handbook/marketing/developer-relations/leading-organizations/ @nick_vh
 /content/handbook/marketing/developer-relations/community-programs/ @esalvadorp
-/content/handbook/marketing/developer-relations/community-programs/open-source-program/ @esalvadorp 
+/content/handbook/marketing/developer-relations/community-programs/open-source-program/ @esalvadorp
 /content/handbook/marketing/developer-relations/community-programs/startups-program/ @esalvadorp
 /content/handbook/marketing/developer-relations/strategic-plans/contributor-program-unification.md @nick_vh @johncoghlan
 /content/handbook/marketing/developer-relations/program-resources.md @esalvadorp @johncoghlan
@@ -393,7 +393,7 @@
 /content/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/core-product-marketing/ @dsteer
 /content/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/public-sector-gtm.md @dsteer
 /content/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/version-control-collaboration/ @warias @dsteer
-/content/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/ @iganbaruch @dsteer 
+/content/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/ @iganbaruch @dsteer
 /content/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/ @fjdiaz @dsteer
 /content/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devops-platform/ @warias @dsteer
 /content/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/gitops/ @csaavedra1 @dsteer
@@ -554,7 +554,7 @@
 
 ^[teamops]
 /content/teamops/ @nshah19
-/content/handbook/teamops/ @nshah19 
+/content/handbook/teamops/ @nshah19
 /content/handbook/teamops/partners.md @jmoverley @nshah19
 
 ^[Technical-Writing]
