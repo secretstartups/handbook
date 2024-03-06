@@ -63,20 +63,24 @@ The Growth and Development policy is meant to further team members' learning and
 
 |G&D Issue Template|Notification Timeframe|
 |------------------|----------------------|
-|[Academic Study](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/new?issuable_template=academic_study)|30 days before the commencement date|
-|[Other G&D Types (Under $300 USD)](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/new?issuable_template=other-GD-under)|7 days before the commencement date|
-|[Other G&D Types (Over $300 USD)](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/new?issuable_template=other-growth-development)|30 days before the commencement date|
-|[Coaching Right Now (GitLab's coaching vendor of choice)](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/new?issuable_template=coaching) Learn more about Coaching Right Now below. | 30 days before the commencement date|
-| Your 4th Trimester | For Your 4th Trimester applications, please notify Total Rewards that you would like to participate in the program by sending an email to `growth-development@gitlab.com`. |
+|[Academic Study](https://gitlab.com/gitlab-com/people-group/learning-development/growth-and-development-requests/-/issues/new?issuable_template=g-and-d-academic-study)|30 days before the commencement date|
+|[Conference](https://gitlab.com/gitlab-com/people-group/learning-development/growth-and-development-requests/-/issues/new?issuable_template=g-and-d-conference)|30 days before the commencement date|
+|[Other G&D Types](https://gitlab.com/gitlab-com/people-group/learning-development/growth-and-development-requests/-/issues/new?issuable_template=g-and-d-other)|7 days before the commencement date|
+|[Coaching Right Now (GitLab's coaching vendor of choice)](https://gitlab.com/gitlab-com/people-group/learning-development/growth-and-development-requests/-/issues/new?issuable_template=g-and-d-coaching) Learn more about Coaching Right Now below. | 30 days before the commencement date|
+| Your 4th Trimester | For Your 4th Trimester applications, please notify Talent Development that you would like to participate in the program by sending an email to `growth-development@gitlab.com`. |
 
 - Note: This application process is visible internally. It is preferred and more efficient to create an issue for your application, however, if there is any reason that you would like to keep your application confidential, please send `growth-development@gitlab.com` an email with the details of your application (refer to the issue templates for the information required).
 
-**Step 3:** Request approval on the issue. Manager approval is needed for all applications and Executive Leader approval is needed for applications above $1000 USD.
+**Step 3:** Request approval on the issue. Depending on the cost of the application, different approval levels are required. In all instances, your direct manager should be the first approver in the issue.
+
+Cost Tiers Approval:
+- Manager Approval (with VP's made aware on the issue): $0-$1000
+- Manager + VP Approval: $1000.01 - $5000
+- Manager + eGroup Approval for any spend $5000.01 - $10,000 (Apart from Sales, where VPs can approve $5000.01 - $10,000 spend)
+
 
 - Once the manager has approved, there is no further action to be taken by the manager. They can unassign themselves to the issue if they wish.
-- **Field organization executive signatures should be routed by to the VP of the team member's department.**
-- **Sales Development organization executive signature should be routed by the following:**
-- Sales Development/Business Development: Jean-Baptiste Larramendy (AVP, Sales Development)
+
 
 **Step 4:** Claim for reimbursement:
 
