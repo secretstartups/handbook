@@ -519,10 +519,11 @@ To create the contract:
     - Select “PEO New Hire Template” from the dropdown
     - Click “Generate”
 1. The Candidate Experience Specialist will choose template *Offer through DocuSign -Remote.com* and will copy gitlab@remote.com on the email.
-1. In DocuSign, the CES will update the signing order to CES/Signatory as number 1 and all other copied individuals as number 2.
-1. The Candidate Experience Specialist should add the candidate to the [PEO Tracking Sheet](https://docs.google.com/spreadsheets/d/1gSOVTJ1Yv-YsSaliJwKVf-1H0vBZXxb5NWFiqCwT-uo/edit#gid=0) and keep track of communication between GitLab.
+1. In DocuSign, the CES will update the signing order to CES/Signatory as number 1 to sign and all other copied individuals as number 2, to receive a copy.
+1. CES will send PEO template and sign once it is received in their inbox.
+1. Once PEO template is signed, CES can upload candidate into the Remote.com platform (see more details instructions on how to do so, below).
 1. Remote will prepare the New Employee Contract and will inform the Candidate Experience Specialist when the contract is sgined.
-1. The Candidate Experience Specialist will [mark the candidate as hired]({{< ref "./coordinator#send-contract" >}}). See steps 10-12.
+1. Once  CES receives confirmation that the candidate has signed the Remote.com contract (can be viewed in portal), they will continue steps as normal - send Welcome Email and [mark the candidate as hired]({{< ref "./coordinator#send-contract" >}}). See steps 10-12.
 1. The CES will adjust the 'Accepted' date to match the 'Sent' date.
 
 ## How to add the New Hire to the Remote platform
