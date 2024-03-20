@@ -82,7 +82,7 @@ Sales Systems refreshes the [SFDC staging environment](/handbook/sales/field-ope
 
 ## Forms
 
-Nearly all the forms on our website (`about.gitlab.com`) are Marketo embedded forms. Marketing Operations is responsible for maintaining existing forms and creating any new forms. If you need a new form created, please open a [form creation issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=form_request). If you are using an existing form on a NEW page, please enter a request so that we can build the automation behind the form. If there is no automation created for the form, the person filling out the form will enter Marketo, but will not be processed into a campaign or sent into follow up.
+Nearly all the forms on our website (`about.gitlab.com`) are Marketo embedded forms. Marketing Operations is responsible for maintaining existing forms and creating any new forms. If you need a new form created, please open a [form creation issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=form_request). If you are using an existing form on a NEW page, please [enter a request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=form_processing) so that we can build the automation behind the form. If there is no automation created for the form, the person filling out the form will enter Marketo, but will not be processed into a campaign or sent for follow up.
 
 Form documentation can be found [here](https://docs.google.com/spreadsheets/d/1cV_hI2wAzLxYYDI-NQYF5-FDDPXPXH0VV5qRBUJAQQk). It contains all of our current forms, as well as standardized country and state picklists.
 
@@ -197,9 +197,13 @@ Some leads are exluded from scoring if they:
 - Company name of `student`, `personal`, `test` and similar
 - Actively worked by a partner (`Prospect Share Status` = `Sending to Partner`, `Accepted`, or `Pending`)
 
+#### Why Do We Use A Scoring Model?
+
+A slide deck of the "why" we use a scoring model, along with a few pointers, can be found [here](https://docs.google.com/presentation/d/1Xl1xcrOeFsDar2B9kTmMH1Hrw5WKsNx7mDL9xtVeBMs/edit#slide=id.g1d24c3e4ddd_5_252). Note, this is the slide deck used in the LevelUp course. 
+
 #### Scoring Revamp FY25Q1
 
-For details on the data driven changes made to lead scoring at the beginning of FY25 please refer to [this slide deck](https://docs.google.com/presentation/d/14bTq_KOyG7jHJR7vghcUVAZ_tMSOgbAN7hI8auI49eU/edit#slide=id.g1d24c3e4ddd_5_252). 
+For details on the data driven changes made to lead scoring at the beginning of FY25, refer to [this slide deck](https://docs.google.com/presentation/d/14bTq_KOyG7jHJR7vghcUVAZ_tMSOgbAN7hI8auI49eU/edit#slide=id.g1d24c3e4ddd_5_252) and [this slide deck](https://docs.google.com/presentation/d/1B8Q3Rq6O7-641rFoGOJOG6TxKHM_uAU29Ejbzqr2KMI/edit#slide=id.g1d24c3e4ddd_5_252) to review the data set findings.
 
 #### Auto-MQL
 
@@ -215,7 +219,7 @@ WIP
 | ------ | ------ | ------ | ------|
 |   Follow Up Requested  | Follow Up Requested, <br> Conference > Meeting Attended   | +100 | Everytime | 
 |  Inbound  | Contact Request, <br> Renewals, <br> [Hand Raise PQL](https://handbook.gitlab.com/handbook/product/product-principles/#a-pql-can-be-further-broken-down-into-two-types-usage-and-hand-raise), <br> In-app Health Check, <br> Duo Requests <br> | +100 | 1/day | 
-| PTP Score  |Assigned a 4 or 5 score via the Propensity Model<br>- [Educational deck](https://docs.google.com/presentation/d/1dxSXekzw-SIF1g4pjNf6QGNBUY1L6euggsqqr9BTHUY/edit#slide=id.g1d24c3e4ddd_5_252)<br> -[Internal Handbook](https://internal.gitlab.com/handbook/sales/propensity_models/) | +100 | 1/90 days |
+| [PTP Score]((https://internal.gitlab.com/handbook/sales/propensity_models/))  |Assigned a 4 or 5 score via the Propensity Model.<br> See [Educational deck](https://docs.google.com/presentation/d/1dxSXekzw-SIF1g4pjNf6QGNBUY1L6euggsqqr9BTHUY/edit#slide=id.g1d24c3e4ddd_5_252) or handbook for details <br>  | +100 | 1/90 days |
 | Web Chat - <br>Qualified  |Web chat interaction or meeting scheduled | +100 | 1/day | 
 |* Inbound - Med|Inbound form, not above |    +100|1/day|
 
@@ -228,7 +232,7 @@ Behavior scoring is based on the actions that person has taken. The cadence of h
 |Registered |Registered, <br> Conference > Meeting Requested|    +20    |Everytime|
 |* Program High| Executive Roundtables, <br> Owned Event, <br> Speaking Session,<br> Vendor Arranged Meetings,<br> Webcast <br>  |    +40    |Everytime|
 |* Program Med|Conference > Visited Booth, <br> Sponsored Webcast <br> Visited Booth, <br> Workshop / Demo   |+20    |Everytime|
-|* Program Low | Conference > Attended    |+10| Everytime|
+|* Program Low | Conference > Attended, <br> Paid Social  |+10| Everytime|
 |* Content - High|Analyst Reports| +35|Everytime|
 |* Content - Med|Gated Content|+15|  Everytime|
 |* Content -  Low|Content Syndication|+10| Everytime|
@@ -248,8 +252,6 @@ Boosts to scores occur when a special action takes place above the traditional a
 |**Interaction Boosters**|Campaign Description|**Points Assigned**|**Schedule/Flow Limit**|
 |:-------------:|:-------:|:-----:|:--------:|
 |Re-MQL Score|    Status is Nurture,user takes an activity that increases behaviour score<br>MQL Counter >0    |+20    |    1/month|
-|LinkedIn Form Fill Booster| Fills out LinkedIn Lead Gen Form | +30|Everytime|
-|PF Demo Booster|Consumes PF content that is a demo|+20|1/day|
 
 <!--|PF Engagement Booster 2|Engagement Time > 4 minutes|+15|Everytime|
 |PF Engagement Booster 1|Engagement Time >  2 minutes < 4 minutes|+10|Everytime|
@@ -258,7 +260,7 @@ Boosts to scores occur when a special action takes place above the traditional a
 
 #### Demographic Scoring
 
-For Job role/function and seniority descriptions can be found [here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing). There is a 60 pt soft limit on demographic scoring that applies to both demographic and person score.
+For Job role/function and seniority descriptions can be found [here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing). There is a 60 pt hard limit on demographic scoring that applies to both demographic and person score.
 
 |**Demographic Characteristic**|Campaign Type|**Points**|**Schedule/Flow Limit**|
 |:-------------:|:-------:|:-----:|:--------:|
@@ -292,7 +294,7 @@ The Lead Classification Matrix and the Lead Classification Definitions Table [ex
 
 To streamline prospecting with lead scoring, as of January 2024 Salesforce now displays a `lead score classification` on all `new` leads moving forward and all leads Marketing has tracked as `active` since Jan 2023. Leads that do not meet this criteria may not feature a classification, but eventually more leads _may_ have the field populated. The field can be found in the `Person Status` section of leads and and `Contact Detail` section of contacts. 
 
-A `lead score classification` is a 2-character score/designation meant to classify the likelihood of a prospect leading into a closed-won opportunity - with the score being modeled after the lead's current `demographic` and `behavior` scores. A Marketo automation sets or changes the lead score classification a few minutes after two types of events: 1) when a lead is created 2) when a lead experiences a change in either their `demographic` or `behavior` scores. A visual representation of the scores and their definitions are pictured below in the `Lead Classification Matrix`. 
+A `lead score classification` is a 2-character score/designation meant to classify the likelihood of a prospect leading into a closed-won opportunity - with the score being modeled after the lead's current `demographic` and `behavior` scores. A Marketo automation sets or changes the lead score classification a few minutes after two types of events: 1) when a lead is created 2) when a lead experiences a change in either their `demographic` or `behavior` scores. A visual representation of the scores and their definitions are pictured below in the `Lead Classification Matrix`. Lead that have their lead status set into `Ineligible` or `Disqualified` will have their `lead score classification` set to `Disqualified` or `Ineligible`. 
 
 ![Lead Classification Matrix](/handbook/marketing/marketing-operations/marketo/lead_classification_matrix.png)
 
