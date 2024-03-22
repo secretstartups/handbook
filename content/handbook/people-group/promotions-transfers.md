@@ -41,7 +41,8 @@ At times, the business may need to change job attributes such as the direct mana
 **In-Cycle Promotions:**  An in-cycle promotion is any individual that is within the same job family, and has a similar but increased job scope. A promotion is not necessarily defined with a new grade due to differences in job families. This process does not require interview(s), does not create backfill headcount and occurs semi-annually through the calibrated promotion process. All in-cycle promotions are processed in **Workday and not in Greenhouse.**  
 
 **Internal Mobility Promotions:**  Internal Mobility promotions occur when a team member applies for an open position and accepts a role at a higher grade/job responsibilities when compared to their current role.  
-- In order for promotions through internal mobility to occur, approval from the department specific People Business Partner is required.
+- In order for promotions through internal mobility to occur, approval from the skip-level leader is required.
+- Additionally, the aligned People Business Partner should be consulted for alignment and visibility. 
 
 ## Promotion Philosophy
 
