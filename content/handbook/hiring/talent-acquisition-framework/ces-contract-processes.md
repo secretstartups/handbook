@@ -24,18 +24,18 @@ This chart reflects the available signatories for each of GitLab's entities. The
 |-------- | -----|
 | GitLab Inc | All Recruiting Leads (Jake Foster, Marissa Farris), Jess Dallmar, Rob Allen, Other People Group Team Members who are employed by Inc. and of the appropriate grade to sign the document. JCLs can be signed by Morgan Wilkins  |
 | GitLab Federal LLC    |       Bob Stevens     |
-| GitLab BV Belgium, Dutch & English | Marissa Farris, Pattie Egan. Backups: Craig Mestel|
-| GitLab BV, Netherlands | Marissa Farris & Pattie Egan. Backup: Craig Mestel|
+| GitLab BV Belgium, Dutch & English | Marissa Farris, Pattie Egan|
+| GitLab BV, Netherlands | Marissa Farris & Pattie Egan|
 | GitLab GmbH | Marissa Farris, Rob Allen & Pattie Egan|
-| GitLab PTY Ltd, Australia | Jess Dallmar & Rob Allen. Backup: Craig Mestel|
-| GitLab PTY Ltd, New Zealand | Jess Dallman & Rob Allen. Backup: Craig Mestel|
-| GitLab Ireland LTD | Marissa Farris, Rob Allen & Pattie Egan. Backup: Craig Mestel|
+| GitLab PTY Ltd, Australia | Jess Dallmar & Rob Allen|
+| GitLab PTY Ltd, New Zealand | Jess Dallman & Rob Allen|
+| GitLab Ireland LTD | Marissa Farris, Rob Allen & Pattie Egan|
 | GitLab UK Ltd | Marissa Farris, Rob Allen, Pattie Egan|
-| GitLab Canada Corp | Craig Mestel, Simon Mundy |
-| GitLab GK, Japan | Jess Dallmar, Rob Allen. Backups: Simon Mundy, Craig Mestel |
-| GitLab IT BV | Marissa Farris, Pattie Egan. Backup: Craig Mestel|
-| GitLab South Korea | Jess Dallmar & Rob Allen. Backup: Craig Mestel |
-| GitLab France S.A.S. | Rob Allen & Pattie Egan. Backup: Craig Mestel|
+| GitLab Canada Corp | Simon Mundy |
+| GitLab GK, Japan | Jess Dallmar, Rob Allen. Backup: Simon Mundy|
+| GitLab IT BV | Marissa Farris, Pattie Egan |
+| GitLab South Korea | Jess Dallmar & Rob Allen |
+| GitLab France S.A.S. | Rob Allen & Pattie Egan|
 | GitLab Singapore PTE. LTD. | Jess Dallmar & Rob Allen. Backup: Simon Mundy |
 | JCLs | Choose signatory from the list above. For the US, Morgan Wilkins can also sign. |
 | PEOs | The Candidate Experience Specialist processing the offer. For JCLs, choose Morgan Wilkins or Marissa Ferber |
@@ -366,6 +366,17 @@ JCLs should be treated like contracts, where RSUs are only features in US ones a
     - Attachment : CES to attach the unsigned PDF JCL
 1. In order to inform the candidate regarding the physical copies sent out via post, go to the Greenhouse profile of the ​​candidate, using the “email the “candidate name” function, select the template “German Job Change Letter already sent to counsel”.
 1. Once the candidate has confirmed that they have received the physical JCL in mail, CES will send the email template “German Job Change Letter step 2” to the candidate and close out the issue.
+
+## Contractor Conversions
+
+A contractor conversion is when a GitLab contractor is moving into a permanent position. Recruiters should communicate to their CES partner that a candidate is going through a contractor conversion process. You can confirm this by checking that the “source” says Contractor Conversion, which will show up on the requisition. CES team members will follow the same steps as a regular contract, however there are a few nuances to note:
+
+1. **Reference Check Forms:** You will need to ensure the candidate has completed the reference check form. You may need to remind recruiters that this is required when contractors transition to a permanent position. The candidate does not need to provide references again however, they will need to disclose outside work and PIAA.
+1. **Start Dates:** You may find that start dates with contractor conversions have quicker turnaround times so there are no gaps between a contract end date and a new hires’ start date (i.e. a request to start in less than 10 business days, or to start on a non-start date). Please continue to follow the [Hiring SLA Exception](https://handbook.gitlab.com/handbook/hiring/talent-acquisition-framework/coordinator/#send-contract) workflow to gain People Connect’s approval in these instances and indicate that this is a contractor conversion.
+1. **Background Checks:** Please check with the Senior Background Check Specialist in the [backgroundchecks-ces](https://gitlab.enterprise.slack.com/archives/C05ATK8B4V9) Slack channel to confirm if you need to initiate a new background check. If there is no gap between the contract and the permanent position, you may not need to initiate a new background check.
+1. **Mark as Hired:** After you mark a candidate as hired in Greenhouse, you will need to leave a comment notifying People Connect in the [peopleops-alerts](https://gitlab.enterprise.slack.com/archives/CLTBQ9XC7) Slack channel that it is a contractor conversion.
+1. **Laptop/IT:** For all contractor conversions, CES will need to confirm with IT Ops via the [people-connect_CES](https://gitlab.enterprise.slack.com/archives/GJT1K944Q) Slack channel whether the candidate will need a new laptop or not.
+    - If they do not need a new laptop, CES will remove the “Ordering your laptop” section from the Welcome email to the candidate.
 
 ## Rehires
 

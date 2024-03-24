@@ -32,7 +32,7 @@ Those receiving GitLab-provided assets are responsible for exercising good judgm
 
 As per the [onboarding issue procedures](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md) outlined in our handbook, evidence of device encryption and device serial number must be provided to IT Ops prior to the completion of onboarding period.
 
-We are currently using Jamf as our endpoint management solution for Mac laptops. All macOS laptops procured by GitLab will come configured with [Jamf](/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/). GitLab Team Members procuring and expensing Mac Laptops will require [Jamf](/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/) to be installed as part of their [Day 1 Security tasks](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#day-1-getting-started-accounts-and-paperwork). Upon their discretion, IT Ops may install additional security tools via Jamf.
+We are currently using Jamf as our endpoint management solution for Mac laptops. All macOS laptops procured by GitLab will come configured with [Jamf](https://internal.gitlab.com/handbook/it/endpoint-tools/). GitLab Team Members procuring and expensing Mac Laptops will require [Jamf](https://internal.gitlab.com/handbook/it/endpoint-tools/) to be installed as part of their [Day 1 Security tasks](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#day-1-getting-started-accounts-and-paperwork). Upon their discretion, IT Ops may install additional security tools via Jamf.
 
 Linux users must install [SentinelOne](/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/edr/#how-do-i-install-the-sentinelone-agent-on-linux) and [DriveStrike](/handbook/it/guides/drivestrike/#installation-process) as part of their onboarding process.
 
@@ -48,19 +48,14 @@ Open Source libraries are allowed under this policy if its use complies with the
 
 Individual Use Software (freeware, add-ons and plugins) is permitted, with the exception of unauthorized Google Workspace Integrations. Individual Use Software is subject to retroactive removal at any time by IT, Legal and Security when it is deemed unsafe or insecure.
 
-#### Exceptions
+Authorized Google Workspace Integrations and other approved Individual Use Software can be found on the [Pre-Approved Individual-Use Software](https://internal.gitlab.com/handbook/finance/procurement/individual-use-software/) list and are permitted for use subject to any "Notes and Restrictions" for each respective Pre-Approved software offering.
 
-- Third Party Software found on the [Pre-Approved Individual-Use Software](https://internal.gitlab.com/handbook/finance/procurement/individual-use-software/) list is permitted for use subject to any "Notes and Restrictions" for each respective Pre-Approved software offering.
-- Third Party Software is permitted for use if it receives prior approval from Legal, Privacy and Security (as applicable).  To obtain approval, please begin the [Individual Use Software](https://about.gitlab.com/handbook/finance/procurement/personal-use-software/#how-do-i-submit-a-request-for-new-individual-use-software) request process.
+To request approval for new Individual Use Software, please follow the [Individual Use Software](https://about.gitlab.com/handbook/finance/procurement/personal-use-software/#how-do-i-submit-a-request-for-new-individual-use-software) request process.
 
-<div class="panel panel-gitlab-purple">
-**Note**
-{: .panel-heading}
-<div class="panel-body">
 
+{{% alert title="Note" %}}
 In order to abide by the [SAFE Framework](/handbook/legal/safe-framework/), to preempt third party processing of company data under permissive individual use licensing terms, or to prevent Team Member misuse of certain Third Party Software features, IT, Legal, Privacy and Security will generally err on the side of disallowing exceptions to enterprise level software, particularly if there is an enterprise option already in our [Tech Stack Applications](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/) that achieves a similar purpose.
-</div>
-</div>
+{{% /alert %}}
 
 
 ### Unacceptable Use
@@ -88,6 +83,7 @@ Prohibited system and network activities include, but are not limited to, the fo
 - Given the potential sensitivity of the data contained in screenshot images, the use of tools that capture and share screenshots to hosted sites online is prohibited without the explicit approval of the Security and Legal Departments.  Screenshots should be stored locally or within Google drive folders associated with your GitLab.com account. Access to these drives and files should be managed in accordance with our [Access Management policy](/handbook/security/access-management-policy.html), and handled according to our [Data Classification Standard](/handbook/security/data-classification-standard.html). Tools such as [Lightshot](https://app.prntscr.com/en/index.html), where upload functionality cannot be disabled and could result in inadvertent uploads, should not be used.
 - The use of high risk remote administration tools, such as TeamViewer and AnyDesk, which are [commonly used by attackers](https://attack.mitre.org/techniques/T1219/) to gain and remotely control systems.
 - Tools that emulate another operating system or create compatibility layers such as [WINE](https://www.winehq.org/)
+- The use of torrent or other P2P software on GitLab computing assets.
 
 #### Unacceptable Email and Communications Activities
 

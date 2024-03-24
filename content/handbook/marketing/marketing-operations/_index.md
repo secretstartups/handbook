@@ -27,11 +27,11 @@ Marketing Operations (MktgOps) supports the marketing organization to streamline
 | Person | Role |
 | ------ | ------ |
 | [Christine Lee](https://gitlab.com/christinelee ) | VP, Marketing Ops and Analytics |
-| [Amy Waller](https://gitlab.com/amy.waller) | [Senior Manager, Marketing Operations](/job-families/marketing/marketing-operations-manager/#senior-manager-marketing-operations) |
+| [Amy Waller](https://gitlab.com/amy.waller) | [Director, Marketing Operations](/job-families/marketing/marketing-operations-manager/#director-marketing-operations) |m
 | [Gillian Murphy](https://gitlab.com/gillmurphy) | [Manager, Marketing Operations Manager](/job-families/marketing/marketing-operations-manager/#manager-marketing-operations) |
 | [Nikki Silverberg](https://gitlab.com/nikkiroth) | [Staff Marketing Operations Manager](/job-families/marketing/marketing-operations-manager/#staff-marketing-operations-manager) |
-| [Jenny Tiemann](https://gitlab.com/jennyt) | [Senior Marketing Operations Manager](/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
-| [Robert Rosu](https://gitlab.com/RobRosu) | [Senior Marketing Operations Manager](/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
+| [Jenny Tiemann](https://gitlab.com/jennyt) | [Staff Marketing Operations Manager](/job-families/marketing/marketing-operations-manager/#staff-marketing-operations-manager) |
+| [Robert Rosu](https://gitlab.com/RobRosu) | [Staff Marketing Operations Manager](/job-families/marketing/marketing-operations-manager/#staff-marketing-operations-manager) |
 | [Mihai Conteanu](https://gitlab.com/MihaiConteanu) | [Senior Marketing Operations Manager](/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
 | [Salina Tran](https://gitlab.com/stran5) | [Senior Marketing Operations Manager](/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager/) |
 | [Jameson Burton](https://gitlab.com/jburton) | [Marketing Operations Manager](/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) |
@@ -237,7 +237,6 @@ Stage
 
 
 ### Milestones
-{: .no_toc}
 
 The MktgOps team works in two week iterations which are tracked as milestones at the `GitLab.com` level. Each individual contributor (IC) is responsible for adding issues to the milestone that will be completed in the two-week time frame. If needed, the IC will separate the main issue into smaller pieces that are _workable_ segments of the larger request.
 
@@ -377,7 +376,6 @@ Insights from Discovery research calls will be used to inform the Marketing Oper
 ## <i class="fas fa-toolbox" id="biz-tech-icons"></i> Marketing Technology Stack
 
 ### Marketing Technology Tiering System
-{: .no_toc}
 
 The Marketing Operations team maintains the [Marketing technology tiering system](/handbook/marketing/marketing-operations/marketing-technology-tiering-system/) in order to prioritize requests, provide support, and optimize processes.
 
@@ -453,12 +451,10 @@ To request access to an existing tool in the stack, [please follow the access re
 If you are working with a contractor or consultant that requires access to a tool in our stack, [please follow the professional services access request process](/handbook/finance/procurement/) as outlined in the procurement handbook.
 
 ## Tool User Management
-{: .no_toc}
 
 Technical owners should perform quarterly, bi-quaterly and, for some tools, monthly user audits. If a team member has not been actively taking advantage of a tool for 45 days (30 days for Zoominfo) or more, they will have access to that tool revoked with 5 business days of notification via email or slack (for Zoominfo). Activity will be determined by user reports pulled by the tools' technical owner. These reports can be found by viewing issues from the Marketing Ops project with the issue label `Mktg Tool Audit`. The reports will utilize the audit issue template from the Marketing Ops project. To regain access to revoked tools, the team member will need to submit a new access request and follow standard access request procedures. However, user seats will be on a first-come-first-serve basis unless it is determined additional seats should be purchased.
 
 ### Tech Stack Status Pages
-{: .no_toc}
 
 Below is a collection of links leading to status pages of several listed MktgOps DRI tools. Unclickable links did not offer **official** status pages during the 2023 review of available webpages, but there are several **unofficial** and **unaffiliated** websites that offer webpage uptime checking as a service, e.g. www.isitdownrightnow.com, www.downdetector.com and www.downforeveryoneorjustme.com. Feel free to search on these sites during a perceived downtime, but keep in mind it may not be as accurate as an official source. 
 
@@ -490,7 +486,6 @@ Click to see dropdown list of available status page URLs.
 </details>
 
 ### Renewal process for marketing technology budget owners
-{: .no_toc}
 
 - Renewal discussion timing is determined by tier.
 - For new software that has been approved create a business case to attach to the Zip Request ([example](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/6171)).
@@ -505,7 +500,6 @@ Align with Procurement and Finance:
 Marketing Operations role:
 - Marketing Operations will help to define requirements and be a trusted advisor.
 - Submit an issue ([example](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/6513#note_1079813146)) for new software evaluations.
-
 
 
 ## MarTech Change Management 
