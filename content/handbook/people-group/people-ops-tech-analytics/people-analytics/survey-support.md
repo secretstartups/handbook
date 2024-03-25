@@ -14,7 +14,7 @@ The People Analytics team can provide support with surveys that are needed by st
 
 The requester is to provide a list of participants to receive the survey. This can be a file with the participants or it can be criteria that is used to create a list. Since we have an integration between Workday and Culture Amp ([handbook page](https://handbook.gitlab.com/handbook/people-group/tech-stack-guide-workday/#system-diagrams)), only employees in Workday whose information is sent to Culture Amp can be selected to participate in our employee surveys. At the moment, this will exclude and contactors who are not in Workday.  
 
-An example of criteria is `hire_date`. We often filter our engagement surveys by date of hire, so if an employee is hired after a specified date, they would be excluded from the survey. 
+An example of criteria is `hire_date`. We often filter our engagement surveys by date of hire, so if an employee is hired after a specified date, they would be excluded from the survey.
 
 ### Question Review
 
