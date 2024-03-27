@@ -112,6 +112,7 @@
 /content/handbook/security/security-assurance/dedicated-compliance/POAM-Deviation-Request-Procedure.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab
 /content/handbook/security/security-assurance/control-health-effectiveness-rating.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab
 /content/handbook/security/change-management-policy.md @joshlemos @jlongo_gitlab
+/content/handbook/security/software-development-lifecycle-policy.md @joshlemos @jlongo_gitlab @juliedavila @gitlab-com/egroup @gitlab-com/content-sites
 
 # These optional entries are for when no codeowner is found.
 ^[content-sites]
