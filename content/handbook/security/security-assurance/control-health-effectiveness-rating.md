@@ -1,10 +1,7 @@
 ---
 title: "Control Health and Effectiveness Rating (CHER) Procedure"
+controlled_document: true
 ---
-
-{{% alert title="This is a Controlled Document" color="danger" %}}
-Inline with GitLab's regulatory obligations, changes to [controlled documents]({{< ref "controlled-document-procedure" >}}) must be approved or merged by a code owner. All contributions are welcome and encouraged.
-{{% /alert %}}
 
 ## Purpose
 
@@ -154,7 +151,7 @@ The process of completing control assessments will always require an associated 
 
 - [System Risk Scoring]({{< ref "system-risk-score" >}})
 - [GCF Control Lifecycle]({{< ref "security-compliance/security-control-lifecycle" >}})
-- [Sarbanes-Oxley (SOX) Compliance](https://about.gitlab.com/handbook/internal-audit/sarbanes-oxley/)
+- [Sarbanes-Oxley (SOX) Compliance](/handbook/internal-audit/sarbanes-oxley/)
 - [Observation Creation Procedure]({{< ref "observation-management-procedure" >}})
 - [Observation remediation Procedure]({{< ref "observation-remediation-procedure" >}})]
 - [Observation Management Project](https://gitlab.com/gitlab-com/gl-security/security-assurance/observation-management)

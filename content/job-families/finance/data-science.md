@@ -2,7 +2,7 @@
 title: Data Science
 ---
 
-The [Data Science program](https://about.gitlab.com/handbook/business-technology/data-team/organization/data-science/) at GitLab focuses on supporting internal teams and developing model-based insights to help us understand our business, customers, and product better. Data Scientists work across the entire development lifecycle, from inception to final delivery. As a result of helping GitLab understand major trends across our business, Data Scientists make significant strategic contributions to new and existing business initiatives.
+The [Data Science program](/handbook/business-technology/data-team/organization/data-science/) at GitLab focuses on supporting internal teams and developing model-based insights to help us understand our business, customers, and product better. Data Scientists work across the entire development lifecycle, from inception to final delivery. As a result of helping GitLab understand major trends across our business, Data Scientists make significant strategic contributions to new and existing business initiatives.
 
 Data Scientists work with peers on the Data Team and functional teams to:
 
@@ -20,17 +20,17 @@ Example Data Science projects include:
 - customer churn and uplift prediction
 - hypothesis testing and forecasting
 
-Data Scientists are a part of the [Data Team](https://about.gitlab.com/handbook/business-technology/data-team/) and report to the [Director/ Sr. Director, Data & Analytics](/job-families/finance/data-and-insights-executive/).
+Data Scientists are a part of the [Data Team](/handbook/business-technology/data-team/) and report to the [Director/ Sr. Director, Data & Analytics](/job-families/finance/data-and-insights-executive/).
 
 ## Job Grades
 
-Read more about GitLab [Job Grades](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+Read more about GitLab [Job Grades](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Data Scientist (Intermediate)
 
 #### Data Scientist (Intermediate) Job Grade
 
-The Data Scientist (Intermediate)  is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Data Scientist (Intermediate)  is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Data Scientist (Intermediate) Responsibilities
 
@@ -42,7 +42,7 @@ The Data Scientist (Intermediate)  is a [grade 6](https://about.gitlab.com/handb
 - Apply data mining or NLP techniques to cleanse and prepare large data sets
 - Help grow the Data Science function by defining and socializing best practices, particularly within a [DataOps](https://en.wikipedia.org/wiki/DataOps) and [MLOps](https://en.wikipedia.org/wiki/MLOps) data ecosystem
 - Craft code that meets our internal standards for style, maintainability, and best practices for a high-scale database environment. Maintain and advocate for these standards through code review
-- Document every action in either issue/MR templates, the [handbook](https://about.gitlab.com/handbook/), or READMEs so your learnings turn into repeatable actions and then into automation following the GitLab tradition of [handbook first!](https://about.gitlab.com/handbook/handbook-usage/#why-handbook-first)
+- Document every action in either issue/MR templates, the [handbook](https://about.gitlab.com/handbook/), or READMEs so your learnings turn into repeatable actions and then into automation following the GitLab tradition of [handbook first!](/handbook/handbook-usage/#why-handbook-first)
 
 #### Data Scientist (Intermediate) Requirements
 
@@ -66,7 +66,7 @@ The Data Scientist (Intermediate)  is a [grade 6](https://about.gitlab.com/handb
 #### Data Scientist (Intermediate) Performance Indicators
 
 - Number of Models Operationalized
-- Number of Strategic Insights Discovered ([Data Value Calculator](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/#data-team-value-calculator) score 2 or higher)
+- Number of Strategic Insights Discovered ([Data Value Calculator](/handbook/business-technology/data-team/how-we-work/#data-team-value-calculator) score 2 or higher)
 - Business Partner Customer Satisfaction Score ([CSAT](https://en.wikipedia.org/wiki/Customer_satisfaction))
 - Merge Request Rate
 
@@ -78,7 +78,7 @@ The next step in the  Data Scientist job family is to move to Senior Data Scient
 
 #### Job Grade
 
-The Senior Data Scientist is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Data Scientist is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -104,7 +104,7 @@ The Senior Data Scientist meets all of the requirements of an Intermediate Data 
 #### Senior Data Scientist Performance Indicators
 
 - Number of Models Operationalized
-- Number of Strategic Insights Discovered ([Data Value Calculator](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/#data-team-value-calculator) score 3 or higher)
+- Number of Strategic Insights Discovered ([Data Value Calculator](/handbook/business-technology/data-team/how-we-work/#data-team-value-calculator) score 3 or higher)
 - Business Partner Customer Satisfaction Score ([CSAT](https://en.wikipedia.org/wiki/Customer_satisfaction))
 - Merge Request Rate
 
@@ -112,7 +112,7 @@ The Senior Data Scientist meets all of the requirements of an Intermediate Data 
 
 #### Job Grade
 
-The Staff Data Scientist is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Data Scientist is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -146,7 +146,7 @@ The Staff Data Scientist meets all of the requirements of a Senior Data Scientis
 
 #### Job Grade
 
-The Principal Data Scientist is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Principal Data Scientist is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -170,7 +170,7 @@ The Principal Data Scientist meets all of the requirements of an Staff Data Scie
 #### Principal Data Scientist Performance Indicators
 
 - $ARR Impact (New Business, Cost Savings, or Efficiency Improvement)
-- Number of Business Functions which achieve Level 4 of the [Data Capability Model](https://about.gitlab.com/handbook/business-technology/data-team/direction/#data-capability-model)
+- Number of Business Functions which achieve Level 4 of the [Data Capability Model](/handbook/business-technology/data-team/direction/#data-capability-model)
 - E-Group Customer Satisfaction Score ([CSAT](https://en.wikipedia.org/wiki/Customer_satisfaction)) of 4 or higher
 
 ## Hiring Process
@@ -178,7 +178,7 @@ The Principal Data Scientist meets all of the requirements of an Staff Data Scie
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
 - Selected candidates will be invited to fill out a short questionnaire.
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule an interview with a member from our Data Science team
 - Next, candidates will be invited to schedule an interview with a member from our Data team
 - Next, candidates will be invited to schedule an interview with the business division DRI
@@ -190,7 +190,7 @@ Candidates for this position can expect the hiring process to follow the order b
 
 #### Full Stack Data Scientist Description
 
-Full Stack Data Scientist is a hybrid position between [Data Scientist](https://about.gitlab.com/job-families/finance/data-science/) and [Analytics Engineer](https://about.gitlab.com/job-families/finance/analytics-engineer/)
+Full Stack Data Scientist is a hybrid position between [Data Scientist](/job-families/finance/data-science/) and [Analytics Engineer](/job-families/finance/analytics-engineer/)
 
 In order for the Data Science team to scale and be successful, we need to develop and promote skills of Analytics Engineers on the team to deliver predictive models faster and more accurately. Full Stack Data Scientist will perform duties of Data Scientist by building predictive models, but also be responsible for backend to ensure smooth delivery.
 
@@ -210,4 +210,4 @@ The job requirements of this specialization include all of the requirements for 
 - 2+ years working with a large-scale (1B+ Rows) Data Warehouse, preferably in a cloud environment
 - 2+ years experience building reports and dashboards in a data visualization tool
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

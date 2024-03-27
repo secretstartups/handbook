@@ -69,7 +69,7 @@ Watch as [Dr. Jeb Hurley](https://linkedin.com/in/jebhurley), Co-founder of Xmet
 
 ### Hard Conversations
 
-Difficult and constructive feedback is valuable when delivered with compassion. It's important to consider the individual recieving the feedback and anticipate how they might react. As explained in [Crucial Conversations]({{< ref "/handbook/leadership/crucial-conversations" >}}), if the person feels threatened, they might shift into Silence or Verbal Violence.
+Difficult and constructive feedback is valuable when delivered with compassion. It's important to consider the individual recieving the feedback and anticipate how they might react. As explained in [Crucial Conversations](/handbook/leadership/crucial-conversations), if the person feels threatened, they might shift into Silence or Verbal Violence.
 
 To optimize for a open, honest, and effective conversation, reflection on the following before sharing difficult feedback:
 
@@ -78,9 +78,19 @@ To optimize for a open, honest, and effective conversation, reflection on the fo
 1. What do I really want for the relationship?
 1. How would I behave if I really wanted these results?
 
+Preparing for hard conversations is important, tips [in this article](https://psyche.co/guides/use-mediation-techniques-to-overcome-the-muck-of-blame-and-anger) about using mediation techniques can help you prepare to have these conversations in an authentic and honest manner.
+
+### Radical candor
+
+Radical Candor is a framework about HOW to deliver feedback. It’s a powerful, assertive, and caring place that demonstrates to an individual that you both care about them personally and that you’re willing to challenge them directly. When you’re not caring personally or challenging directly, it can lead to Ruinous Empathy, Manipulative Insincerity, or Obnoxious Aggression.
+
+- [Radical Candor — The Surprising Secret to Being a Good Boss First Round Review](https://www.youtube.com/watch?v=4yODalLQ2lM)
+- [How To Use Radical Candor To Drive Great Results](https://www.forbes.com/sites/roncarucci/2017/03/14/how-to-use-radical-candor-to-drive-great-results/?sh=39085db24e23)
+- [Brutal Honesty and Radical Candor: 6 Ways You’re Getting Radical Candor Wrong and 6 Ways to Get It Right](https://www.radicalcandor.com/blog/radical-candor-not-brutal-honesty/)
+
 ### Cross-Cultural Feedback Considerations
 
-GitLab has 2000+ team members from diverse [cultures and backgrounds](https://about.gitlab.com/company/culture/inclusion/identity-data/). We should get to know our team members well enough to understand how best to share feedback. It's important to adapt tone and style according to each individual and relationship. Consider:
+GitLab has 2000+ team members from diverse [cultures and backgrounds](/handbook/company/culture/inclusion/identity-data/). We should get to know our team members well enough to understand how best to share feedback. It's important to adapt tone and style according to each individual and relationship. Consider:
 
 1. Do you need to build relationship before candor is comfortable?
 1. Consider comfort with direct vs indirect feedback

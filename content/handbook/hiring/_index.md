@@ -35,9 +35,9 @@ We strive to be as transparent as possible, but these sections are only availabl
 ### Team Process Pages
 
 - [TA Key Performance Indicators](https://internal.gitlab.com/handbook/people-group/talent-acquisition/key-performance-indicators/) Note: this page is currently in our internal handbook as they are a work in progress.
-- [Meeting Cadence]({{< ref "/handbook/hiring/meetings" >}})
+- [Meeting Cadence](/handbook/hiring/meetings)
 - [Talent Acquisition Alignment]({{< ref "recruiting-alignment" >}})
-- [Diversity, Inclusion & Belonging Talent Acquisition Initiatives](/company/culture/inclusion/talent-acquisition-initiatives/)
+- [Diversity, Inclusion & Belonging Talent Acquisition Initiatives](/handbook/company/culture/inclusion/talent-acquisition-initiatives/)
 - [Triad Process]({{< ref "triadprocess" >}})
 - [Quarterly Updates](https://internal.gitlab.com/handbook/people-group/talent-acquisition/quarterly-updates/) Note: Internal only
 
@@ -74,7 +74,7 @@ Please find pages for potential and active applicants below.
 - [DocuSign](https://support.greenhouse.io/hc/en-us/articles/205633569-DocuSign-integration)
 {{% /details %}}
 
-- [Candidate Experience Specialist Responsibilities]({{< ref "/handbook/hiring/talent-acquisition-framework/coordinator" >}})
+- [Candidate Experience Specialist Responsibilities](/handbook/hiring/talent-acquisition-framework/coordinator)
 - [Prelude]({{< ref "prelude" >}})
 - [How to Complete a Contract - CES Process]({{< ref "ces-contract-processes" >}})
 
@@ -83,7 +83,7 @@ Please find pages for potential and active applicants below.
 #### Opening a job
 
 {{% details summary="Get your headcount assignments" %}}
-- [How to open headcount on R&D](https://about.gitlab.com/handbook/engineering/#hiring-practices)
+- [How to open headcount on R&D](/handbook/engineering/#hiring-practices)
 - [How to open headcount on Sales and G&A]({{< ref "req-creation#creation-and-approval" >}})
 {{% /details %}}
 
@@ -123,7 +123,7 @@ Please find pages for potential and active applicants below.
 
 {{% details summary="Set up scorecards and interview plans" %}}
 - There are two elements of a scorecard: the Scorecard section and the Interview Plan section. Both are accessible through Job Setup.
-- [**Scorecard**](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/req-creation/#update-the-scorecard) Depending on your department, you may have a lot of your scorecard options pre-filled. R&D scorecards are always set up for you, and may only require small tweaks depending on technical language or job grade.
+- [**Scorecard**](/handbook/hiring/talent-acquisition-framework/req-creation/#update-the-scorecard) Depending on your department, you may have a lot of your scorecard options pre-filled. R&D scorecards are always set up for you, and may only require small tweaks depending on technical language or job grade.
 - [**Interview Plan**](https://support.greenhouse.io/hc/en-us/articles/115002276366-Add-an-interview-question-to-an-interview-kit)
 - {{% details summary="Tips and Tricks" %}}
 - Name your interviews in a way that will help your Candidate Experience Specialist partner schedule your interview. We recommend ‘Topic -  Interviewer - Time’ i.e. ‘Values Interview - Beyonce Knowles - 45 min’. If you are pulling from a large interviewer pool, you can discuss with your Candidate Experience Specialist partner if it makes sense to create a Prelude interviewer pool that will help with scheduling.
@@ -214,7 +214,8 @@ Scorecards are required in all stages that require interviews. Confidential, per
 {{% /details %}}
 - [Verbal offer information]({{< ref "offer-process#verbal-job-offer" >}})
 - [Declined offer steps]({{< ref "offer-process#declined-offers" >}})
-- {{% details summary="Background screens" %}}
+
+{{% details summary="Background screens" %}}
 - Contact the Senior Background Check Specialist at backgroundchecks@gitlab.com with any questions or requests for status updates.
 - The most commonly asked question for candidates outside the US is, “Why can’t I enter more than one past employer?” Outside of ​the US, candidates will only submit one former employer and Sterling is working as expected.
 {{% /details %}}
@@ -222,7 +223,7 @@ Scorecards are required in all stages that require interviews. Confidential, per
 
 #### Sourcing at GitLab
 
-- [Sourcing overview]({{< ref "/handbook/hiring/sourcing" >}})
+- [Sourcing overview](/handbook/hiring/sourcing)
 - [Identifying prospects]({{< ref "req-overview#step-4-identify--engage-top-talent-prospects" >}})
 
 #### Notifications
@@ -316,8 +317,8 @@ Processing for the United Arab Emirates could take up to a month, so we recommen
 
 ## Additional Resources
 
-- [Overview of Job Families]({{< ref "/handbook/hiring/job-families" >}})
-- [Background checks]({{< ref "/handbook/people-policies#background-checks" >}})
+- [Overview of Job Families](/handbook/hiring/job-families)
+- [Background checks](/handbook/people-policies#background-checks)
 - [Benefits]({{< ref "benefits" >}})
 - [Compensation]({{< ref "compensation" >}})
 - [Contracts](https://internal.gitlab.com/handbook/people-group/people-operations/people-connect/employment_contracts/)

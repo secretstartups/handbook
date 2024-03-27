@@ -61,4 +61,4 @@ the final step described above: remove the support level tag that doesn't
 align with the ticket's problem statement.
 
 For details on the Support Ops side of the process, please see
-[Setting Up an Organization for an Offering Migration](../support-ops/workflows/setting_up_organizations_for_offering_migrations.html).
+[Setting Up an Organization for an Offering Migration](/handbook/support/gratis-support/#a-current-customer-migrating-from-one-product-to-another).

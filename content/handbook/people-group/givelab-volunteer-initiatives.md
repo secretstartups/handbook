@@ -5,7 +5,7 @@ description: "Discover GitLab's volunteering opportunities with GiveLab"
 
 ## About GiveLab
 
-Throughout the course of the year, GitLab encourages team members to take part in various sponsorship and volunteer initiatives that support and ultimately uplift their local communities.  As with our unique ways of working, GitLab and its team members have identified and sought out opportunities for impact that speak back not only to our [values]({{< ref "values" >}}) but our [all-remote](https://about.gitlab.com/company/culture/all-remote/guide/) nature.
+Throughout the course of the year, GitLab encourages team members to take part in various sponsorship and volunteer initiatives that support and ultimately uplift their local communities.  As with our unique ways of working, GitLab and its team members have identified and sought out opportunities for impact that speak back not only to our [values]({{< ref "values" >}}) but our [all-remote](/handbook/company/culture/all-remote/guide/) nature.
 
 Along with documenting our active programs within the handbook team members can create awareness and initiate a call to action through the `#givelab` Slack Channel, extending awareness to our team member community which spans over sixty-five countries!
 
@@ -31,13 +31,13 @@ The first `GitLab Donation Drive` in 2020 started as an internal challenge to Gi
 
 Having identified a talent gap in both the technology and the university system which speaks predominantly to Underrepresented Groups, the [Upstream Diversity Working Group]({{< ref "incentives" >}}) was established.
 
-Geared toward knowledge sharing, the [recently piloted program](https://about.gitlab.com/handbook/engineering/volunteer-coaches-for-urgs/) sees GitLab team members extending their technical skills and time to those in Underrepresented Groups (URGs) with a view to creating `future career opportunities` for them within the technology sector.  The program mobilises GitLab team members to serve as `coaches` in partnership with [Latinitas](https://latinitasmagazine.org/); [FreeCodeCamp](https://www.freecodecamp.org/) and [re:Learn](https://relearn.ng/).
+Geared toward knowledge sharing, the [recently piloted program](/handbook/engineering/volunteer-coaches-for-urgs/) sees GitLab team members extending their technical skills and time to those in Underrepresented Groups (URGs) with a view to creating `future career opportunities` for them within the technology sector.  The program mobilises GitLab team members to serve as `coaches` in partnership with [Latinitas](https://latinitasmagazine.org/); [FreeCodeCamp](https://www.freecodecamp.org/) and [re:Learn](https://relearn.ng/).
 
 ## Trusted Interns
 
 As a pioneer in the `all-remote` space, GitLab is uniquely leveraged to prepare youth around the globe for the `future of work`. Recently, GitLab Alumni Jean du Plessis, in collaboration with Trusted Interns as part of [The Knowledge Trust](https://knowledgetrust.org/) which places a focus on making jobs more accessible to South African Youth, presented a webinar around [Preparing for your First Remote Job](https://knowledgetrust.org/trusted-interns-webinar-jean-du-plessis-prepare-for-your-first-remote-job/).
 
-This was a springboard for around 650 South African Youth from within the Trusted Interns program to complete the [GitLab All-Remote Certification](https://about.gitlab.com/company/culture/all-remote/remote-certification/).
+This was a springboard for around 650 South African Youth from within the Trusted Interns program to complete the [GitLab All-Remote Certification](/handbook/company/culture/all-remote/remote-certification/).
 
 ## Rails Girls
 
@@ -57,4 +57,4 @@ Hack for She, a completely virtual hackathon aimed to find solutions to Women’
 
 ----
 
-Return to the [People Group Handbook]({{< ref "/handbook/people-group" >}}).
+Return to the [People Group Handbook](/handbook/people-group).

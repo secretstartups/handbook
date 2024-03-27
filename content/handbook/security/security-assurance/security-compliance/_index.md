@@ -65,8 +65,8 @@ We utilize GitLab Epics and Issue to track projects, deliverables and milestones
 
 ## Metrics and Measures of Success
 
-1. [Security Control Risk by System]({{< ref "/handbook/security/performance-indicators#security-control-risk-by-system" >}})
-1. [Securty Observations]({{< ref "/handbook/security/performance-indicators#security-observations-tier-3-risks" >}})
+1. [Security Control Risk by System](/handbook/security/performance-indicators#security-control-risk-by-system)
+1. [Securty Observations](/handbook/security/performance-indicators#security-observations-tier-3-risks)
 
 ## Contact the Team
 
@@ -75,8 +75,8 @@ We utilize GitLab Epics and Issue to track projects, deliverables and milestones
 | Security Compliance (Commercial) Team manager | [@lcoleman](https://gitlab.com/lcoleman) | Establish direction, roadmap and oversight of the team core competencies and owned programs |
 | External Certifications | [@madlake](https://gitlab.com/madlake) | External Audit coordination and execution for existing certifications (SOC 2 Type 2, ISO 27001, 27017, 27018) |
 |  Observations | [@madlake](https://gitlab.com/madlake) | Observation Program management and metrics including observation validation, remediation recommendations and progress reporting |
-|  User Access Reviews | [@alexfrank09](https://gitlab.com/alexfrank09) | Oversight of [UAR Program/ Automated UAR Tool](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/access-reviews.html) including launching UAR campaigns, identifying access changes and removals, campaign ownership, metrics and reporting |
-|  [Gap Analysis Program](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/gap-analysis-program.html) | [@DanEckhardt](https://gitlab.com/DanEckhardt) | Oversight of Gap Analysis program and procedures, prioritize gap analysis requests, gap analysis status tracking and reporting |
+|  User Access Reviews | [@alexfrank09](https://gitlab.com/alexfrank09) | Oversight of [UAR Program/ Automated UAR Tool](/handbook/security/security-assurance/security-compliance/access-reviews.html) including launching UAR campaigns, identifying access changes and removals, campaign ownership, metrics and reporting |
+|  [Gap Analysis Program](/handbook/security/security-assurance/security-compliance/gap-analysis-program.html) | [@DanEckhardt](https://gitlab.com/DanEckhardt) | Oversight of Gap Analysis program and procedures, prioritize gap analysis requests, gap analysis status tracking and reporting |
 |  GitLab Control Framework | [@davoudtu](https://gitlab.com/davoudtu) | Ongoing GCF review and refinement of applicable controls based on certifications and CCM coverage |
 |  BCP and ISCP | [@byronboots](https://gitlab.com/byronboots) | DRI for driving and documenting BCP and ISCP activities and remediation |
 |  CCM Automation | [@byronboots](https://gitlab.com/byronboots) | Stable counterpart for identifying, defining and driving automation activities for continuous control monitoring program |
@@ -91,7 +91,7 @@ We utilize GitLab Epics and Issue to track projects, deliverables and milestones
 - Email
    - `security-compliance@gitlab.com`
 - [Commercial Compliance team project](https://gitlab.com/gitlab-com/gl-security/security-assurance/team-commercial-compliance/compliance)
-- Interested in joining our team? Check out more [here]({{< ref "/job-families/security/security-compliance" >}})!
+- Interested in joining our team? Check out more [here](/job-families/security/security-assurance-job-family)!
 
 ## <i class="fas fa-book" style="color:rgb(110,73,203)" aria-hidden="true"></i> References
 

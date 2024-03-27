@@ -1,0 +1,7 @@
+{{ $slug := . }}
+{{- $data := index (where site.Data.public.team "slug" "eq" $slug) 0 }}
+{{- with $data }}
+<span  style="white-space: nowrap;">{{- partial "member/with-team-link" . -}}</span>
+{{- else -}}
+<span class="not-found" style="white-space: nowrap;"><img class="avatar" src="https://about.gitlab.com/images/gitlab-logo-extra-whitespace.png" width="40" height="40" alt="{{ $slug }}" class="my-2">{{ $slug }}</span>
+{{- end -}}

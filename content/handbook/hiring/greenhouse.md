@@ -1,14 +1,14 @@
 ---
-layout: handbook-page-toc
+
 title: "Greenhouse"
 description: "Greenhouse is GitLab's ATS (Applicant Tracking System). All Hiring Managers and Interviewers will use Greenhouse to review resumes, provide feedback, communicate with candidates, and more."
 ---
 
 ### How to join Greenhouse
 
-[Greenhouse](https://www.greenhouse.io) is GitLab's ATS (Applicant Tracking System). All Hiring Managers and Interviewers will use Greenhouse to review resumes, provide feedback, communicate with candidates, and more.
+[Greenhouse](https://www.greenhouse.com/) is GitLab's ATS (Applicant Tracking System). All Hiring Managers and Interviewers will use Greenhouse to review resumes, provide feedback, communicate with candidates, and more.
 
-You will receive an email to log-in to Greenhouse for the first time. When you [log-in to Greenhouse](https://app2.greenhouse.io/users/sign_in), enter your GitLab email, click `Next`, and fill in your [Okta](https://about.gitlab.com/handbook/business-technology/okta/) information as prompted. All GitLab team-members are granted *Basic* access, which will allow you to track *Referral* submissions, interview candidates (if assigned to a requisition), and share requisition postings on social media. Until your access is changed by an Admin, you will only have access to the Greenhouse [dashboard](https://app2.greenhouse.io/dashboard).
+You can log into Greenhouse in your Okta homepage. All GitLab team-members are granted *Basic* access, which will allow you to track *Referral* submissions, interview candidates (if assigned to a requisition), and share requisition postings on social media. Until your access is changed by an Admin, you will only have access to the Greenhouse [dashboard](https://app2.greenhouse.io/dashboard).
 
 During onboarding, all new team members are assigned permissions based on their role in the hiring process. If a current team member needs to change their access level, they'll need to submit a [new access request issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=New_Access_Request) in the GitLab `access-requests` project. Their Manager and the Talent Acquisition Team will be pinged to approve and action that request.
 
@@ -149,6 +149,12 @@ To view candidates in the `Application Review` stage, go to the job dashboard fo
 
 Some roles may be sent questions after we've sourced them. If this is applicable you can view the questions and answers outside of the review portal, go to their profile, click `Application` on the left side, scroll down and expand `Job Post Questions`. If there are no questions listed this was not a step in this search.
 
+### Setting Up Interview Questions
+
+Greenhouse includes the ability to [include specific questions within the interview kits](https://support.greenhouse.io/hc/en-us/articles/115002276366-Add-an-interview-question-to-an-interview-kit) made available to interviewers. Setting interview questions in advance makes the interviewing process more consistent. Having a consistent interviewing process [improves the efficiency and fairness of the hiring process](https://www.linkedin.com/pulse/why-consistency-matters-hiring-george-oehlert/).
+
+To add interview questions to a position from the `Job Dashboard` click the `Interview Plan` link on the right sidebar. In the `Team Interview` section select the interviewer you would like to assign the question to and click the edit link for them. In the `Interview Questions` section press the add button to bring up a modal form for adding your specific question. A video walkthrough of using this feature can be found on the GitLab unfiltered YouTube channel [here](https://youtu.be/CpShUn7kjI8).
+
 ## For Talent Acquisition
 
 ### Access levels and permissions
@@ -209,7 +215,7 @@ Assuming that you've already been assigned a LinkedIn seat, here's how to enable
 1. Search *"LinkedIn Recruiter System Connect"* and select the result of the same name
 1. Enable the integration
 
-If you have **not** been assigned a seat and would like one, please add your GitLab email to your LinkedIn profile and submit an [Access Request](https://gitlab.com/gl-talent acquisition/operations/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#) issue using the `LinkedIn Access Request` template.
+If you have **not** been assigned a seat and would like one, please add your GitLab email to your LinkedIn profile and submit an [Access Request](https://gitlab.com/gl-talent-acquisition/operations/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#) issue using the `LinkedIn Access Request` template.
 
 To add your email to your LinkedIn profile, click `Me` > `Settings & Privacy` > `Sign in & security` > `Email addresses` > add your GitLab email address and verify it.
 
@@ -306,7 +312,7 @@ Rejected candidates will stay in our talent community and we may revisit them fo
 
 Generally, we will leave a minimum gap of 6-months before reconsidering someone. We will only reconsider candidates who were rejected because they lacked skills or experience.
 
-We will not reconsider candidates who were mismatched with our [values competencies](https://about.gitlab.com/handbook/competencies/#values-competencies) and/or our [remote work competencies](https://about.gitlab.com/handbook/competencies/#remote-work-competencies).
+We will not reconsider candidates who were mismatched with our [values competencies](/handbook/competencies/#values-competencies) and/or our [remote work competencies](/handbook/competencies/#remote-work-competencies).
 
 #### Single-vetos
 
@@ -420,7 +426,7 @@ The Greenhouse CRM is the entry point for prospective candidates (a.k.a. *Prospe
 
 ### Greenhouse Inclusion
 
-We use Greenhouse Inclusion to mitigate unconscious bias, ensure consistent candidate evaluations, and to measure the impact of these practices in our [Diversity, Inclusion & Belonging](https://about.gitlab.com/company/culture/inclusion/) efforts.
+We use Greenhouse Inclusion to mitigate unconscious bias, ensure consistent candidate evaluations, and to measure the impact of these practices in our [Diversity, Inclusion & Belonging](/handbook/company/culture/inclusion/) efforts.
 
 Enabled features include:
 - Nudges, or reminders, to all users when creating a requisition description, adding a referral, and/or filling out a scorecard.

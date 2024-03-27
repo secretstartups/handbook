@@ -4,7 +4,7 @@ title: Individual Development Plan
 
 ## From FY24-Q2 - Individual Growth Plan
 
-Since the launch of the company wide [Individual Growth Plan](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/igp-guide/) in Workday per FY24-Q2 we recommend Security team members to leverage that tool in Workday to collaborate with their manager on their career path and growth opportunities. Team members can read all about that progress in [this guide](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/igp-guide/). We have deprecated the [The Individual Development Plan (IDP) template](https://docs.google.com/document/d/1Df4ITI_ZBXK51B5MP2nzAXS24O-9lmi5itVUniop8MU/edit?usp=sharing)
+Since the launch of the company wide [Individual Growth Plan](/handbook/people-group/learning-and-development/career-development/igp-guide/) in Workday per FY24-Q2 we recommend Security team members to leverage that tool in Workday to collaborate with their manager on their career path and growth opportunities. Team members can read all about that progress in [this guide](/handbook/people-group/learning-and-development/career-development/igp-guide/). We have deprecated the [The Individual Development Plan (IDP) template](https://docs.google.com/document/d/1Df4ITI_ZBXK51B5MP2nzAXS24O-9lmi5itVUniop8MU/edit?usp=sharing)
 
 ## Till FY24-Q2 - Individual Development Plan
 
@@ -12,7 +12,7 @@ Since the launch of the company wide [Individual Growth Plan](https://about.gitl
 
 ### Process
 
-The process a manager and team member follow is entirely up to them. However, it is strongly encouraged to use team member 1:1 meetings to discuss career opportunities and growth in conjunction with the performance review process. This template and any process that is followed, is not intended to replace the [Engineering Performance Review](https://about.gitlab.com/handbook/support/workflows/team/performance_review.html) process. Lastly, while managers should be engaging their team members and actively involved in their direct report’s growth, it is the responsibility of the team member to take the initiative to start this process with their manager and subsequently follow through with actions assigned to them. A team member should drive this process and their own personal development at a pace they are comfortable with. IDPs should be shared with the team member's direct manager and others only as chosen by the team member.
+The process a manager and team member follow is entirely up to them. However, it is strongly encouraged to use team member 1:1 meetings to discuss career opportunities and growth in conjunction with the performance review process. This template and any process that is followed, is not intended to replace the [Engineering Performance Review](/handbook/support/workflows/team/performance_review.html) process. Lastly, while managers should be engaging their team members and actively involved in their direct report’s growth, it is the responsibility of the team member to take the initiative to start this process with their manager and subsequently follow through with actions assigned to them. A team member should drive this process and their own personal development at a pace they are comfortable with. IDPs should be shared with the team member's direct manager and others only as chosen by the team member.
 
 ### Professional goals and aspirations
 

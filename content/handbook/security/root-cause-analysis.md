@@ -28,7 +28,7 @@ The DRI is also responsible for setting the correct metadata labels on the incid
 
 ## Progressing an RCA
 
-The DRI is responsible for reminding others to contribute to the RCA, and for ensuring any stakeholders from relevant [Product Groups](https://about.gitlab.com/handbook/product/categories/) or other parts of the company, which have been involved in the incident, have been given an opportunity to contribute.
+The DRI is responsible for reminding others to contribute to the RCA, and for ensuring any stakeholders from relevant [Product Groups](/handbook/product/categories/) or other parts of the company, which have been involved in the incident, have been given an opportunity to contribute.
 
 The DRI is responsible for creating issues for corrective actions the team have identified and assigning a DRI for those follow up issues. The DRI is empowered to make decisions about which corrective actions are specific, measurable, achievable and relevant enough to create an issue on. Because not all issues raised by team members may meet this criteria, the DRI is also empowered to decline corrective actions while at the same time explaining why it was declined. Leadership will assist with resolving any potential conflicts.
 Note the DRI does not need to come up with all the ideas! This is mainly an administrative task.
@@ -44,7 +44,7 @@ The DRI for an RCA should aim to meet these timeframes:
 
 The RCA is considered complete when the tasks in the RCA issue are marked as completed and the issue is closed. This means that the root cause of the vulnerability is well understood and we have a path forward to reduce the likelihood of a similar vulnerability happening again. For example this can be a [custom SAST rule](https://docs.gitlab.com/ee/user/application_security/sast/#customize-rulesets), new security enhancement addressing the vulnerability class holistically, secure coding training, threat model, more secure application settings, etc.).
 
-Issues for corrective actions can be labeled with `~"corrective action"` and [an SLO will apply depending on the severity](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity-slos).
+Issues for corrective actions can be labeled with `~"corrective action"` and [an SLO will apply depending on the severity](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity-slos).
 
 ## Where can I find past RCAs?
 

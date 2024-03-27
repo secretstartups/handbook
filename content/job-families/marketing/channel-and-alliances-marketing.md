@@ -12,7 +12,7 @@ This team works from a global charter to develop key services offerings and repe
 
 ### Job Grade
 
-The Channel Marketing Program Specialist is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Channel Marketing Program Specialist is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -51,7 +51,7 @@ This team works from a regional charter to develop key services offerings and re
 
 ### Job Grade
 
-The Channel Marketing Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Channel Marketing Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -92,7 +92,7 @@ This team works from a global charter to develop key services offerings and repe
 
 ### Job Grade
 
-The Senior Channel Marketing Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Channel Marketing Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -135,7 +135,7 @@ The Senior Partner Program manager, Channel reports to the Director of Global Ch
 
 ### Job Grade
 
-The Senior Partner Program Manager, Channel is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Partner Program Manager, Channel is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -184,7 +184,7 @@ The Senior Partner Program manager, Programs reports to the Director of Global C
 
 ### Job Grade
 
-The Senior Partner Program manager, Programs is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Partner Program manager, Programs is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -227,7 +227,7 @@ The Senior Partner Program manager, Executive Engagement reports to the Director
 
 ### Job Grade
 
-The Senior Partner Program manager, Executive Engagement is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Partner Program manager, Executive Engagement is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -267,8 +267,8 @@ Within this department, this team member would take on more strategic projects t
 
 Candidates for these positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Upon successful screening, all candidates will be interviewed by two individual contributors for 30 min each.  One from the global channel and alliances marketing team.  That interview will focus on sharing team culture, team dynamics, and role clarity.  The other individual contributor interview will be someone from Channel or Alliances sales that is be peer of this candidate.  This interview focuses on the candidates relative experience and it's applicability to the role.
 - The final interview will be with the Director of Global Channels and Alliances marketing who will focus on the candidates applicable experience and ensure it's in alignment with the needs of the business.  This interview will last 45 minutes.  The Director of Global Channels and Alliances marketing is deeply focused on building a team with a diverse skill set so the team can learn and grow together.  Softer skills will be assessed to see how the best candidate can add to the existing teams skill set as well as grow from their experience.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

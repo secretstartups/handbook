@@ -1,0 +1,9 @@
+{{- /*  Initialize. */}}
+{{- $gitlab := "" }}
+{{- /* Get params. */}}
+{{- with (.Get 0) }}
+  {{- $gitlab = . }}
+{{- else }}
+  {{- errorf "The %q shortcode requires a single positional argument."}}
+{{- end }}
+{{- partial "member-by-gitlab" $gitlab -}}

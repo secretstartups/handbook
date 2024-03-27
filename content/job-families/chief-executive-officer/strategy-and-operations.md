@@ -13,7 +13,7 @@ The Senior Strategy and Operations Manager reports to the [Chief of Staff to the
 
 #### Senior Strategy and Operations Manager Job Grade
 
-The Senior Manager Strategy and Operations is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
+The Senior Manager Strategy and Operations is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
 
 #### Senior Strategy and Operations Manager Responsibilities
 
@@ -43,7 +43,7 @@ The Staff Strategy and Operations reports to the [Chief of Staff to the CEO](/jo
 
 #### Staff Strategy and Operations Job Grade
 
-The Staff Strategy and Operations is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
+The Staff Strategy and Operations is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
 
 #### Staff Strategy and Operations Responsibilities
 
@@ -77,7 +77,7 @@ The Principal Strategy and Operations reports to the [Chief of Staff to the CEO]
 
 #### Principal Strategy and Operations Job Grade
 
-The Principal Strategy and Operations is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
+The Principal Strategy and Operations is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
 
 #### Principal Strategy and Operations Responsibilities
 
@@ -100,7 +100,7 @@ The Director of Strategy and Operations reports to the [Chief of Staff to the CE
 
 #### Director of Strategy and Operations Job Grade
 
-The Director of Strategy and Operations is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
+The Director of Strategy and Operations is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
 
 #### Director of Strategy and Operations Responsibilities
 
@@ -135,12 +135,12 @@ The Senior Director of Strategy and Operations reports to the [Chief of Staff to
 
 #### Senior Director of Strategy and Operations Job Grade
 
-The Senior Director of Strategy and Operations is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
+The Senior Director of Strategy and Operations is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
 
 #### Senior Director of Strategy and Operations Responsibilities
 
 - Owns initiatives of great importance to the business and consistently delivers great results
-- Act as a [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) for top priority initiatives. Play a leadership role in achieving desired business outcomes for projects of high importance to the business
+- Act as a [DRI](/handbook/people-group/directly-responsible-individuals/) for top priority initiatives. Play a leadership role in achieving desired business outcomes for projects of high importance to the business
 - Exercise great autonomy in guiding a project, including leading decision making. This means both having good discretion in making decisions and escalating and involving others, as appropriate
 - Enter projects of great complexity at any point (scoping, alignment, execution, etc.) and can successfully align key stakeholders and steward them toward results
 - Can lead when projects have limited scoping and asks are abstract
@@ -241,17 +241,17 @@ dependencies to achieve project goals
 
 ## Performance Indicators
 
-- [Throughput - Issues or merge requests closed as measurement of projects iterated on](https://about.gitlab.com/handbook/ceo/chief-of-staff-team/performance-indicators/#throughput-for-the-cost)
+- [Throughput - Issues or merge requests closed as measurement of projects iterated on](/handbook/ceo/chief-of-staff-team/performance-indicators/#throughput-for-the-cost)
 
-In addition, we are exploring [additional ways to measure performance](https://about.gitlab.com/handbook/ceo/chief-of-staff-team/#measuring-results).
+In addition, we are exploring [additional ways to measure performance](/handbook/ceo/chief-of-staff-team/#measuring-results).
 
 ## Career Ladder
 
-This is a cross-functional role, so team members will have exposure to broader parts of the organization. They may choose to join other teams. They may also be considered for the [Chief of Staff to the CEO role](https://about.gitlab.com/job-families/chief-executive-officer/chief-of-staff/) as the Chief of Staff to the CEO completes the rotation.
+This is a cross-functional role, so team members will have exposure to broader parts of the organization. They may choose to join other teams. They may also be considered for the [Chief of Staff to the CEO role](/job-families/chief-executive-officer/chief-of-staff/) as the Chief of Staff to the CEO completes the rotation.
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/)
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/)
 
 - Qualified candidates will be invited to schedule a 30 minute screening call with one of our global recruiters
 - Next, candidates will be invited to schedule a 50 minute interview with a team member from another department
@@ -260,4 +260,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Then candidates will be invited to schedule a 50 minute interview with our CLO or another member of the executive team
 - Finally, candidates will meet with our CEO who will conduct the final interview
 
-As always, the interviews and screening call will be conducted via a video call. See more details about our hiring process on the [hiring handbook](https://about.gitlab.com/handbook/hiring/).
+As always, the interviews and screening call will be conducted via a video call. See more details about our hiring process on the [hiring handbook](/handbook/hiring/).

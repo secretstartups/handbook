@@ -20,15 +20,15 @@ We are able to combine the advantages of consensus organizations and hierarchica
 
 ### A directly responsible individual (DRI)
 
-A [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) is a single person who owns decision making authority and responsibility for the success of a given workstream or initiative. We avoid confusion and empower team members by being clear about the DRI. With a few documented exceptions, the person who does the work resulting from the decision gets to make the decision. DRIs tend to have the context required for good decision making and are empowered by their ability to use their own judgement in doing what is best for the business.
+A [DRI](/handbook/people-group/directly-responsible-individuals/) is a single person who owns decision making authority and responsibility for the success of a given workstream or initiative. We avoid confusion and empower team members by being clear about the DRI. With a few documented exceptions, the person who does the work resulting from the decision gets to make the decision. DRIs tend to have the context required for good decision making and are empowered by their ability to use their own judgement in doing what is best for the business.
 
 ### Organize informal communications
 
-[Informal team member communications](https://about.gitlab.com/company/culture/all-remote/informal-communication/), such as a chat about life outside of work, are necessary for building trust. Trust is essential for great business results. Many businesses invest heavily in offices and facilities, because they believe offices are necessary for informal communication.
+[Informal team member communications](/handbook/company/culture/all-remote/informal-communication/), such as a chat about life outside of work, are necessary for building trust. Trust is essential for great business results. Many businesses invest heavily in offices and facilities, because they believe offices are necessary for informal communication.
 
 During the pandemic, many businesses that were forced to work remotely discovered that productivity increased. Many of these same businesses are now making plans to return to the office. One reason given is that not everyone can work from home. We solve this by allowing people to rent work space. The other main reason given is that people miss working from a central office with co-workers. I don’t think that people miss the commute or the office furniture. They miss informal communication. Central offices are a really expensive, inconvenient, and indirect way to facilitate information communication. It is more efficient to directly organize informal communication.
 
-For example, every person who joins GitLab has to schedule at least 5 [coffee chats](https://about.gitlab.com/company/culture/all-remote/informal-communication/#coffee-chats) during their onboarding. We also have social calls, [Ask Me Anything](https://about.gitlab.com/company/culture/all-remote/informal-communication/#ama-ask-me-anything) meetings with senior leaders, and 15 other explicit ways to encourage employee connections and relationship building. Intentionally organizing informal communication enables the trust-building conversations that are essential for collaboration. This can be more effective than relying on chance encounters in an office building. You can connect with team members throughout the world and across departments through a coffee chat. You may not meet people outside of your own floor in an office setting.
+For example, every person who joins GitLab has to schedule at least 5 [coffee chats](/handbook/company/culture/all-remote/informal-communication/#coffee-chats) during their onboarding. We also have social calls, [Ask Me Anything](/handbook/company/culture/all-remote/informal-communication/#ama-ask-me-anything) meetings with senior leaders, and 15 other explicit ways to encourage employee connections and relationship building. Intentionally organizing informal communication enables the trust-building conversations that are essential for collaboration. This can be more effective than relying on chance encounters in an office building. You can connect with team members throughout the world and across departments through a coffee chat. You may not meet people outside of your own floor in an office setting.
 
 ### Challenge conventions
 
@@ -44,12 +44,12 @@ Some companies talk about being a 'Family.' We don't think that is the right per
 
 ### Time based release
 
-We have introduced a new, enhanced version of our software [every month](https://about.gitlab.com/handbook/engineering/releases/) for over nine years. A [time based release](https://about.gitlab.com/releases/) ensures that when a feature is ready, its release will not be held up by another that is not. Aligned with our value of iteration, we try to reduce the scope of each feature so that it fits in a single release.
+We have introduced a new, enhanced version of our software [every month](/handbook/engineering/releases/) for over nine years. A [time based release](https://about.gitlab.com/releases/) ensures that when a feature is ready, its release will not be held up by another that is not. Aligned with our value of iteration, we try to reduce the scope of each feature so that it fits in a single release.
 
 ### Individual innovation
 
-We empower individuals to innovate. For example, we have designated coaches who support contributors from the wider community in getting their contributions to the point where they can be merged by GitLab. We also have an [incubation department](https://about.gitlab.com/handbook/engineering/incubation/) dedicated to quickly turning ideas into viable features and products.
+We empower individuals to innovate. For example, we have designated coaches who support contributors from the wider community in getting their contributions to the point where they can be merged by GitLab. We also have an [incubation department](/handbook/engineering/incubation/) dedicated to quickly turning ideas into viable features and products.
 
 ### Dogfooding
 
-The best way to quickly improve GitLab is to use it ourselves, or [dogfood](https://about.gitlab.com/handbook/engineering/development/principles/) it, so that we have a quick feedback loop. We use our own product even when a feature is in its early stages of development. This helps us to develop empathy with users and better understand what to build next.
+The best way to quickly improve GitLab is to use it ourselves, or [dogfood](/handbook/engineering/development/principles/) it, so that we have a quick feedback loop. We use our own product even when a feature is in its early stages of development. This helps us to develop empathy with users and better understand what to build next.

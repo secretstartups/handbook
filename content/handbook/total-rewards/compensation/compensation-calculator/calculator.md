@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+
 title: Compensation Calculator
 manual_cookiebot: true
 ---

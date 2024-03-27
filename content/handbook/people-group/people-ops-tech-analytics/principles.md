@@ -42,6 +42,6 @@ classDef classB fill:#f7dcf1, stroke:#521144
 
 - We all have a responsibility for People Data Security, Compliance and Confidentiality
 - The confidential information we have access to must always be processed fairly and lawfully, and limited to only what is necessary
-- Confidential information is never shared other than strict and specific guidelines and processes, according to our [Privacy Policy](https://about.gitlab.com/handbook/legal/privacy/employee-privacy-policy/)
+- Confidential information is never shared other than strict and specific guidelines and processes, according to our [Privacy Policy](/handbook/legal/privacy/employee-privacy-policy/)
 
 ### Additional beliefs held by the People Ops, Tech & Analytics Team include:

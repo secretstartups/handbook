@@ -1,0 +1,44 @@
+{{- $categories := dict }}
+{{- $maturities := dict }}
+{{- $stages := false }}
+{{- if .IsNamedParams }}
+    {{- with .Get "categories" }}
+        {{- $categories = (strings.Split . ",") }}
+    {{- end }}
+    {{- with .Get "maturities" }}
+        {{- $maturities = (strings.Split . ",") }}
+    {{- end }}
+    {{- with .Get "stages" }}
+        {{- $stages = true  }}
+    {{- end }}
+{{- end }}
+<table>
+    <thead>
+        <tr>
+            <th>SKU</th>
+            <th>Item</th>
+            {{- if gt (len $categories) 0 }}
+            <th>Category</th>
+            {{- end }}
+            {{- if $stages }}
+            <th>Product Stages</th>
+            {{- end }}
+        </tr>
+    </thead>
+    <tbody>
+        {{- range site.Data.public.services }}
+        {{- if and (in $categories .category) (in $maturities .maturity) (or (not $stages) (.stages))  }}
+        <tr>
+            <td><a href="{{- .standard_sow }}">{{- .sku }}</a></td>
+            <td><a href="{{- .desc_url }}">{{- .name }}</a></td>
+            {{- if gt (len $categories) 0 }}
+            <td>{{.category}}</td>
+            {{- end }}
+            {{- if $stages }}
+            <td>{{- .stages }}</td>
+            {{- end }}
+        </tr>
+        {{- end }}
+        {{- end }}
+    </tbody>
+</table>

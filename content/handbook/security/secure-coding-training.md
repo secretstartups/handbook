@@ -174,7 +174,7 @@ You can find the recorded, private YouTube stream at the following:
 - [Day 2 Morning](https://www.youtube.com/watch?v=bJYUxKn88so )
 - [Day 2 Afternoon](https://www.youtube.com/watch?v=8tP2KVKHO7A)
 
-These videos are private by default. To view them, you will need to [switch to the GitLab Unfiltered account](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube).
+These videos are private by default. To view them, you will need to [switch to the GitLab Unfiltered account](/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube).
 
 #### Recommendations
 

@@ -7,16 +7,39 @@ The following benefits are provided by [Remote](https://www.remote.com/) and app
 
 ## Brazil
 
-All of the benefits listed below are administered and managed by [Remote](https://remote.com/country-explorer/brazil). Queries can be directed to help@remote.com.
+All of the benefits listed below are administered and managed by [Remote](https://remote.com/country-explorer/brazil). Queries can be directed to help@remote.com. See [Benefits Guide](https://remote.com/benefits-guide/brazil) for the complete list of benefits offered through Remote.
 
 - 13th Salary - Also known as a 'Christmas Bonus', this payment is an amount equal to one month’s salary which is paid out to employees in two parts in November (by the 20th) and December. The pro-rated 13th-month salary is also due upon termination. The 13th-month payment is a legally mandated benefit and not part of the base salary. During negotiations with candidates, it is important to clearly state what salary is being offered and whether it is inclusive or exclusive of the 13th-month payment. The Christmas Bonus is calculated at 8.33% of the base annual salary
 - Vacations Bonus - Professionals in Brazil are entitled to 30 calendar days of vacation per year after every 12 months of service, and the employee must be paid 1/3rd of a month’s salary as a Vacations bonus. Holiday pay and holiday bonus payments are pro-rated upon termination. The Vacation bonus is calculated at 2.77% of the base annual salary.
 
-### Medical
+### Medical & Dental
 
 Remote will offer healthcare through Omint all hired from April 2022 onwards. Team members have the option to add dependents to the healthcare plan at an additional cost.
 
 Team Members hired prior to April 2022 are legacied in to the medical allowance policy. Team Members hired after April 2022 are not eligible for this policy.
+
+### Meal Vouchers & Grocery Card
+
+#### Meal Vouchers
+
+- Employees are entitled to a monthly meal voucher payment in Brazil.
+- Remote pays the vouchers once a month (by the 30th) to the employees into their meal/food cards (VR Card).
+- This amount is annually updated per the union renewal.
+- The amount is only due for the days worked by the employee, meaning the employer is not obliged to pay during justified or unjustified absences, sick leaves, and vacations.
+
+#### Grocery Card
+
+- All employees who receive a monthly gross salary of 6,189.94 BRL or less (approx. $1,200 USD, annually adjusted) receive this benefit.
+- If the employee is taking sick leave this should be paid for 30 days (but no longer).
+- In the case of PTO, maternity leave, or other absences allowed by law, the payment is still required.
+
+### Life Insurance
+
+- Death: BRL 50,000
+- Total or partial permanent disability due to accident: BRL 50,000
+- Family funeral assistance: BRL 5,000
+
+Note: All amounts stated above are estimates and may change during the course of the year as more employees in Brazil are added or removed from the policy.
 
 ### Remote - Brazil  Statutory Leave policies
 
@@ -24,7 +47,9 @@ Below is the information related to Brazil's statutory leave policies.  Please n
 
 ### Annual leave
 
-Team Members in Brazil are entitled to a statutory minimum of 30 calendar days of paid annual leave per year after each 12 months of service. The vacation period is typically taken in one block (or split between 20 days and 10 days).  Team members are eligible for GitLab's PTO policy; which will run concurrently with this Annual Leave policy. In addition, team members must be paid 1/3rd of a month’s salary as holiday bonus.
+Team Members in Brazil are entitled to a statutory minimum of 30 calendar days of paid annual leave per year (based on employment year) after each 12 months of service. The vacation period is typically taken in one block (or split between 20 days and 10 days).  Team members are eligible for GitLab's PTO policy; which will run concurrently with this Annual Leave policy.
+
+In addition, team members must be paid 1/3rd of a month’s salary as holiday bonus.
 
 To ensure all statutory annual leave is tracked appropriately, please enter all requested into Time Off by Deel by selecting the `Vacation` option.
 
@@ -76,6 +101,8 @@ More information can be found below:
 - [Allianz](https://drive.google.com/file/d/1hMw61FsriqRPfcFRQ-mzQsu6HF03IUFB/view)
 
 Team members in Denmark can also access the [public healthcare system](https://www.healthcaredenmark.dk/). This healthcare system covers all the team members and their family members.
+
+Team members can expense up to $250 for eye examination and glasses if they require corrective eyeware to work at a computer screen for extended periods of time. (Login required to see [policy](https://support.remote.com/hc/en-us/articles/20050865403149-Screen-Work-Eye-Examination))
 
 ### Pension
 
@@ -190,10 +217,17 @@ This plan has required enrollment for all employees. There is no opt-out option.
 
 *Contribution rates are:*
 
-- On Pensionable Salary between 0 and 7.5 x the Income Base Amount (IBA*) = 4.5% On Pensionable Salary between 7.5 and 30 x the IBA = 30% No contributions are payable on Pensionable Salary above 30 x the IBA.
+- Pensionable Salary between 0 and 7.5 x the [Income Base Amount (IBA*)](https://ec.europa.eu/social/main.jsp?catId=1130&langId=en&intPageId=4814#:~:text=The%20income%20base%20amount%20is,is%20also%20a%20lower%20limit.) = 4.5% On Pensionable Salary between 7.5 and 30 x the IBA = 30% No contributions are payable on Pensionable Salary above 30 x the IBA.
 - The company pays all the contributions and no contributions are required from employees.
 - Pensionable salary is defined as Basic Salary only.
 - Membership of the pension scheme is open to employees aged 18 to 65.
+
+Example for 2024 Income Base Amount:
+
+An employee with an annual salary of 800 000 SEK.
+- the 2024 IBA (income base amount) is 76 200 SEK. This means that 7,5 IBA x 76 200 is= 571 500
+- Up to a salary of 571 500 the employee has 4,5% contribution (coming from the employer), and above 571 500 (up to 800 000) they have a 30% contribution. There is also a roof of 30% IBA, so if an employee has an annual salary over 30 IBA (2 286 000 SEK), there would be no contribution beyond that level.
+To the top of that amount, 24,26% taxes should be added.
 
 ### Life Insurance
 
@@ -221,12 +255,19 @@ As long as you are a legal resident of Sweden you are entitled to the basic pare
 
 ## South Africa
 
-### Healthcare Monthly Allowance
+### Medical
 
-- Healthcare Monthly Allowance will be paid by Remote as an allowance to the team members for their own Medical Coverage.
-- This amount will be paid on monthly basis with the regular payroll as a reimbursement.
-- Proof of coverage must be shared or forwarded to help@remote.com (CC in total-rewards@domain) in order to receive the correct allowance amount.
-- The allowance will be up to R5,000 per month for team member and up to R8,500 per month for team member plus Dependants.
+#### Registered Medical Aid Plan
+
+Effective November 1, 2023, Remote will offer a Registered Medical Aid plan for Team Members. GitLab will cover the cost to enroll in the "Priority Plan" for the Team Members. Team Members can opt to upgrade to a higher plan at their own cost, the difference will be deducted from their payslip.
+
+#### Dependents
+
+Team Members can add dependents to their plans. While the actual cost will be deducted from the team member's payslips, GitLab will subsidize the benefit through a Dependent Medical Allowance up to R3500 a month. Please send total-rewards@gitlab.com an email with documentation of your dependent's enrollment along with the cost of enrollment. The Total Rewards team will verify and send to Remote & the Non-US payroll Team to process the monthly allowance.
+
+#### Grandfathered Medical Policy
+
+Team Members who were hired before November 1, 2023 have the option to join the Registered Medical Plan in place of their medical allowance, or opt out of the plan and keep their monthly allowance. Should the team member move to the group plan, they will be unable to revert back to the allowance policy at a later time. The allowance policy is not available for team members hired after November 1, 2023.
 
 ### Discovery Life Provident Umbrella Fund (Provident fund match)
 
@@ -271,6 +312,21 @@ To initiate your parental leave, submit the dates via Time Off by Deel under the
 If you are eligible to for GitLab's parental leave, your payments will be made up of payments from UIF and then supplemented up to 100%.
 
 Please submit the dates of your leave in Time Off by Deel by selecting the `Parental Leave` option.  The Absence Management team will contact you with more information.  Once you send your parental leave notification in Time Off by Deel, the Absence Management team will notify Remote. Remote will then get in touch with you to explain the UIF payment claim process.
+
+### Expenses
+
+**Important note:**
+
+Please read carefully the additional requirements outlined in Remote's taxation of [expenses article](https://support.remote.com/hc/en-us/articles/21097725062285-Taxation-of-expenses-in-South-Africa) accessible by logging into the Remote platform.
+
+Team members located in South Africa must submit all expenses via Navan (GitLab's expense tool). Additionally, Remote is committed to ensuring team member's tax compliance and may require additional details for specific Navan-approved expenses to process through the payroll in accordance with local tax regulations.
+
+**Example:**
+
+A team member has an approved expense on Navan for incidental costs like meals and parking related to a business event.
+Remote will require the team member to complete an additional spreadsheet containing details of the business trip (local or abroad) and submit this spreadsheet through the Remote portal. Please refer to this [guide](https://support.remote.com/hc/en-us/articles/4411238221965-Add-an-expense) for more detailed instructions on submitting expenses.
+
+If you experience any issues, please contact Remote via email: help@remote.com. **No other expenses need to be submitted via the Remote portal, only Navan should be used.**
 
 ## Spain
 
@@ -383,7 +439,7 @@ More information can be found below:
 - [Remote Allianz Benefit Guide](https://drive.google.com/file/d/1krO_RGt_H1_kPNgudHeuSIFjJohJuq-h/view)
 - [Allianz](https://drive.google.com/file/d/1hMw61FsriqRPfcFRQ-mzQsu6HF03IUFB/view)
 - Team members also have access to government-subsidized supplementary healthcare, either Fondo Est or Qu.AS, depending on their role. The annual cost for Fond Est is 24 EUR paid by the team member and 120 EUR paid by the company. There's more information [on the Fondo Est website](https://www.fondoest.it/). The annual cost for Qu.AS. (available for quadro level only) is 56 EUR paid by the team member and 350 EUR paid by the company. There's more information [on the Qu.AS website](https://www.quas.it/).
-- Pension and Life Insurance - As part of Remote payroll, mandatory contributions are made towards social security funds. Remote currently does not offer a supplementary pension but will be reviewing this in the upcoming year. The [GitLab Life Insurance plan](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#life-insurance) still applies.
+- Pension and Life Insurance - As part of Remote payroll, mandatory contributions are made towards social security funds. Remote currently does not offer a supplementary pension but will be reviewing this in the upcoming year. The [GitLab Life Insurance plan](/handbook/total-rewards/benefits/general-and-entity-benefits/#life-insurance) still applies.
 
 ### Statutory Leave Policies
 
@@ -446,16 +502,16 @@ Below is the information related to Italy's statutory leave policies.  Please no
 
 All of the benefits listed below are administered and managed by [Remote](https://remote.com/)
 
-As part of the social security obligations, for its part, the employer pays:
+The social security obligations through Remote are divided between the employee and the employer, with each party contributing their respective shares:
 
-- Half of the Unemployment Insurance
-- The whole of the Non Occupational Accident insurance contribution (professional)
-- The whole of the Occupational Accident insurance contribution (professional)
-- Half of the Supplementary Unemployment insurance (if over a certain value).
-- Half of the Old age, survivors disability insurance
-- The whole of the Family Compensation Fund
-- All Administrative fees
-- Pension plan: [AXA Basisvorsorge AG J25](https://docs.google.com/document/d/1OlFzuWWJQfw5wOEr6hq0yGM4JoNoxjZTzKIFct2FlEQ/edit), per retirement credits
+- The Unemployment Insurance is 50% paid by the Employer & 50% paid by the employee.
+- The whole of the Non Occupational Accident insurance contribution is paid by the employee.
+- The whole of the Occupational Accident insurance contribution is paid by the employer.
+- The Supplementary Unemployment insurance (if over a certain value) is 50% paid by the employer and 50% paid by the employee.
+- The Old age, survivors disability insurance is 50% paid by the employer and 50% paid by the employee.
+- The whole of the Family Compensation Fund is paid by the employer.
+- All Administrative fees are paid by the employer.
+- Pension plan: [AXA Basisvorsorge AG J25](https://docs.google.com/document/d/1OlFzuWWJQfw5wOEr6hq0yGM4JoNoxjZTzKIFct2FlEQ/edit), per the retirement credits.
 
 ### Statutory Leave Policies
 
@@ -550,11 +606,11 @@ Employees in Mexico are covered by the Social Security Law, under IMSS who is re
 
 - Healthcare Monthly Allowance will be paid by Remote as an allowance to the team members.
 - The allowance will be 5000 USD per annum.
-- This amount will be paid on monthly basis with the regular payroll as a reimbursement.
+- This amount will be paid on monthly basis with the regular payroll
 
 ### Life Insurance
 
-- Life insurance cover provided via Remote (Details to be added by Total Rewards)
+- Life insurance cover provided via Remote. Effective January 1, 2024, all Team Members will be enrolled in the Remote Global Life Insurance plan with a cover level of 200,000 USD at no cost to the team member.
 
 ### Christmas Bonus (Aguinaldo)
 

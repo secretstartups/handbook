@@ -10,7 +10,7 @@ On this page, we have outlined how we make decisions at GitLab.
 
 GitLab's **[values]({{< ref "values" >}})** are the guiding principles for our business. They inform hiring, performance management, and promotion assessments. They also guide other decisions that we make. At times, values may be in conflict. To address this, GitLab has a [values hierarchy]({{< ref "values#hierarchy" >}}). At the top of this [hierarchy is "results"]({{< ref "values#hierarchy" >}}). While items higher in the hierarchy don't always override items lower in the hierarchy, this structure guides team members as they weigh decision making alternatives.
 
-GitLab has a **decision making process** that avoids the short falls of [hierarchical and consensus organizations](https://about.gitlab.com/company/culture/all-remote/management/#separating-decision-gathering-from-decision-making). Hierarchical organizations can make decisions quickly, but aren't great at gathering data. This leads people to say "yes," but have relatively low follow through on their commitments. Consensus organizations are good at gathering data but lack decision making speed. This can lead to projects happening under the radar.
+GitLab has a **decision making process** that avoids the short falls of [hierarchical and consensus organizations](/handbook/company/culture/all-remote/management/#separating-decision-gathering-from-decision-making). Hierarchical organizations can make decisions quickly, but aren't great at gathering data. This leads people to say "yes," but have relatively low follow through on their commitments. Consensus organizations are good at gathering data but lack decision making speed. This can lead to projects happening under the radar.
 
 To avoid the undesirable outcomes of hierarchical and consensus organizations, GitLab splits decisions into two phases:
 
@@ -46,7 +46,7 @@ DRIs are not project or program managers unless they are team members who work w
 
 1. Make [data-driven decisions](https://online.hbs.edu/blog/post/data-driven-decision-making).
 1. When analyzing data for a decision, focus on growth and trends. Most of the time cumulative graphs shouldn't be used because a standalone cumulative chart can be misleading as it goes up even if growth is flat or declining. If you must show a cumulative graph always include growth and trends on the same slide.
-1. Be aware of your [unconscious biases](https://about.gitlab.com/company/culture/inclusion/unconscious-bias/) and emotional triggers.
+1. Be aware of your [unconscious biases](/handbook/company/culture/inclusion/unconscious-bias/) and emotional triggers.
 1. When making decisions, explicitly acknowledge the quality/quantity of the data that is available for the decision. Resist using poor data to justify judgment calls. It is ok to make a judgment call with limited data, but make sure that is known.
 1. Consider environments that do not allow reliable data collection. According to [research by the Harvard Business Review](https://hbr.org/2016/02/the-rise-of-data-driven-decision-making-is-real-but-uneven), "experience and knowledge of leaders in the subject matter still outperforms purely data-driven approaches."
 

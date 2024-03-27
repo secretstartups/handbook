@@ -7,9 +7,15 @@ description: "Discover GitLab's benefits for team members in Ireland"
 
 GitLab offers a private medical plan through VHI which gives you access to cutting-edge medical treatments, health screenings and protection against the high medical costs of private care. GitLab covers 100% of the premiums for team members and eligible dependents.
 
+Please see the [brochure](https://drive.google.com/file/d/1s2Wa8K1tJm9E720ml5r1eJehjkQjIx-p/view?usp=sharing) to help guide you through the range of benefits and services available.  
+
 For a full breakdown of plan descriptions please review the following [Company Plan Plus Level 1.3 details](https://drive.google.com/file/d/1pnyWAp71MMYzdsUm1rk0o4gq7k8cdvJO/view?usp=sharing) and [Table of Benefits](https://drive.google.com/file/d/1-0cfnrKSTyQIyAEro3wR7i2aBLHsvXEv/view?usp=sharing).
 
 To find out which hospitals and treatment centers are covered on your plan, please refer to the directories of approved facilities which are available at `Vhi.ie/downloads` or contact VHI directly via the Corporate Advice Line: `056 777 5800`.
+
+### Dependent Eligiblity
+
+Dependents eligible for the GitLab Medical subsidy are Spouse or Domestic Partner, and Children.
 
 **Does Lifetime Community Rating (LCR) Apply?**
 
@@ -50,7 +56,7 @@ Please submit your receipts via expensify and prescription to Total Rewards.
 
 GitLab offers a private pension plan via a defined contribution scheme. Orca Financial is an Irish owned Financial Services company to help with the administration of the pension on behalf of GitLab. The pension provider is **Aviva**. Aviva allows for transfers into the plan and can set up an AVC pension for any members that wish to contribute above the minimum required contribution.
 
-Orca has put together the following [video](https://drive.google.com/file/d/1IkVkLVtKonn8JsJ2hNGZI_89V3FZyPIU/view?usp=sharing) with information about the plan as a resource.
+Orca has put together the following [video](https://docs.google.com/document/d/1i5ir2xMWMIQznq-tEGCmTkSfZ_GuuV46ARlKhAGYrS0/edit) with information about the plan as a resource.
 
 ### Pension Match
 
@@ -68,7 +74,7 @@ You will be able to review the investment strategy once enrolled through the Fun
 
 ## Death in Service
 
-All full-time GitLab team members in Ireland are eligible for death in service at 4x annual salary. Team members are automatically enrolled in this benefit. This benefit is administered through Aviva. Team members may be contacted to complete an additional questionniare if their covered amount is over the scheme limits, with potential medical underwriting required.  More information can be found on the [Retirement and Death Benefit Scheme Rules document](https://drive.google.com/file/d/1T1HjLXj2f3FmMiX3D4HVhpYF_k8zwvyr/view?usp=sharing).
+All full-time GitLab team members in Ireland are eligible for death in service at 4x base annual salary. Team members are automatically enrolled in this benefit. This benefit is administered through Aviva. Team members may be contacted to complete an additional questionniare if their covered amount is over the scheme limits, with potential medical underwriting required.  More information can be found on the [Retirement and Death Benefit Scheme Rules document](https://drive.google.com/file/d/1T1HjLXj2f3FmMiX3D4HVhpYF_k8zwvyr/view?usp=sharing).
 
 Team members can complete a [Expression of Wish Form](https://drive.google.com/file/d/1YSkmogbYIsAVhSESJXLSYBr-T_uH1x2c/view?usp=sharing) to request a beneficiary for this benefit.  Once completed, please send directly to `employeebenefits@orca.ie`
 
@@ -124,7 +130,7 @@ From 1 January 2023, team members in Ireland are entitled to 3 days of paid sick
 - 2025: 7 days
 - 2026: 10 days
 
-Ireland's statutory sick leave policy is separate from GitLab's [Sick Time policy]({{< ref "paid-time-off#sick-time---taking-and-reporting" >}}) but when allowed by law will run concurrently with this leave policy.  If a team member needs more time away, GitLab's Sick Time policy will take precedence.
+Ireland's statutory sick leave policy offers a floor level of protection and does not interfere with existing, more favorable, sick pay schemes such as GitLab's [Sick Time policy]({{< ref "paid-time-off#sick-time---taking-and-reporting" >}}). When allowed by law, GitLab's Sick Leave policy will run concurrently with this leave policy.
 
 #### Statutory Sick Leave Pay Calculations
 
@@ -159,6 +165,12 @@ Team Members may also be eligible for Ireland's [Illness Benefit](https://www.ci
 **Adoptive Leave:** All team members who qualify as [“qualifying adopters”](https://www.citizensinformation.ie/en/employment/employment_rights_and_conditions/leave_and_holidays/adoptive_leave.html) are entitled to a minimum of 24 consecutive weeks of ordinary Adoptive Leave beginning on the first day of the placement of the child, and up to 16 weeks of additional unpaid Adoptive Leave, beginning immediately after the end of the 24 weeks of ordinary Adoptive Leave. If you wish to take additional unpaid Adoptive Leave, please notify the Absence Management team at `leaves@domain.com` at least 4 weeks before the ordinary Adoptive Leave is due to end.
 
 **Paternity Leave:** All team members who qualify as [“relevant parents”](https://www.citizensinformation.ie/en/employment/employment_rights_and_conditions/leave_and_holidays/paternity_leave.html) can take up to 2 consecutive weeks of Paternity Leave, taken within the first 6 months following the birth/adoption.
+
+Relevant parents can take paternity leave. These are:
+
+    - The father of the child
+    - The partner (spouse, civil partner or cohabitant) of the mother of the child
+    - The parent of a donor-conceived child
 
 **Parent’s Leave:** All team members who qualify as [“relevant parents”](https://www.citizensinformation.ie/en/employment/employment_rights_and_conditions/leave_and_holidays/parents_leave.html) can take up to 7 weeks of Parent's Leave during the first 2 years of their child's life, or within 2 years of the adoption event. Leave may be taken in one continuous period, or in several periods of not less than one week.
 

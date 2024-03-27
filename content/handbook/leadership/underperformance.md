@@ -19,7 +19,7 @@ Managing and identifying underperformance can be one of the most difficult respo
 
 <figure class="video_container"><iframe src="https://www.youtube.com/embed/-mLpytnQtlY"></iframe></figure>
 
-> If someone is still not performing at an adequate level after going through the underperformance process, recognize that it's not only better for the company for the team member to move on, it's frequently also better for the team member. Making a decision to move the team member out of the role allows them to find a role where they can be successful, whether in or outside of GitLab. The longer you wait, the harder it will be to make a change. If it's not going to work out, take action as soon as possible. - GitLab co-founder and CEO [Sid Sijbrandij]({{< ref "/handbook/ceo" >}})
+> If someone is still not performing at an adequate level after going through the underperformance process, recognize that it's not only better for the company for the team member to move on, it's frequently also better for the team member. Making a decision to move the team member out of the role allows them to find a role where they can be successful, whether in or outside of GitLab. The longer you wait, the harder it will be to make a change. If it's not going to work out, take action as soon as possible. - GitLab co-founder and CEO [Sid Sijbrandij](/handbook/ceo)
 
 ### Managing Performance at GitLab
 
@@ -115,8 +115,8 @@ Remediation options will vary based on the identified  underperformance being  s
 
 Managers are expected to address performance concerns (skill-based or will-based) in a timely manner. Managers should address concerns verbally during one-on-one meetings or in impromptu private coaching sessions with their team members. These conversations must be documented by the manager and shared with the team member so that both have access  to the record of the discussion and are in alignment on where improvements need to be made and within a specified timeframe. Documentation should be brief (a few key bullet points or a paragraph), and will normally be sent via email to the team member following the verbal discussion. See the example coaching email below:
 
+----
 
-```text
 Dear (Team member name)
 
 Thank you for meeting with me today to discuss (insert topics of concern or issues discussed and any agreed-upon actions).
@@ -125,7 +125,8 @@ Please know that I am fully committed to working with you in addressing these is
 
 Thanks,
 (Manager name)
-```
+
+----
 
 Underperformance feedback should be included on your [1-1 agenda]({{< ref "suggested-agenda-format" >}}). Helping GitLab team members understand clearly how their performance is below the expected standard expected quickly is very important to foster immediate improvement and continued success.  Managers should be as specific as possible and provide clear examples of where the team member is falling short. Make sure the team member has the opportunity to respond to your concerns  and give them the time to explain their performance.  Keep an open mind, listen actively, and ask open questions when you want to find out more.  When discussing performance, it’s important that the manager and team member are aligned on the expectations moving forward.  It is best practice for the manager to meet with their team member at least once a week to monitor and discuss their performance.be critical.
 
@@ -190,7 +191,7 @@ Our values should be top of mind in administering a PIP.
 
 #### Experience
 
-It is important to remember that the root cause of issues can be a variety of things, PIPs are not intended to be a negative document. They are an opportunity for the manager and the team member to work together to get the team member back on track. We have an example of this to share here, it is anonymized in line with keeping job feedback private as per the [General Guidelines]({{< ref "/handbook" >}});
+It is important to remember that the root cause of issues can be a variety of things, PIPs are not intended to be a negative document. They are an opportunity for the manager and the team member to work together to get the team member back on track. We have an example of this to share here, it is anonymized in line with keeping job feedback private as per the [General Guidelines](/handbook);
 
 **GitLab team member:**
 
@@ -231,7 +232,7 @@ A performance improvement plan includes the following:
 
 #### PIP Compensation Impact
 
-It is important to note that when a PIP is active, the team member is not eligible for compensation increases from the [annual compensation review](/handbook/total-rewards/compensation/compensation-review-cycle/) or the [annual refresh grant program](https://about.gitlab.com/handbook/stock-options/#refresh-grants).
+It is important to note that when a PIP is active, the team member is not eligible for compensation increases from the [annual compensation review](/handbook/total-rewards/compensation/compensation-review-cycle/) or the [annual refresh grant program](/handbook/stock-options/#refresh-grants).
 
 ### Internal Applications and Transfers during underperformance remediation
 

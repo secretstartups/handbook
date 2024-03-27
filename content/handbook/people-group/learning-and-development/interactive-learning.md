@@ -5,14 +5,14 @@ description: "All elearning courses tied to the Field Certification Program will
 
 All elearning courses at GitLab will utilize the Handbook as the Single Source of Truth (SSOT).
 
-![gitlab-learning-content-diagram](/handbook/people-group/learning-and-development/interactive-learning/gitlab-learning-content-diagram.png)
+![gitlab-learning-content-diagram](gitlab-learning-content-diagram.png)
 
-All our available learning material can be found on [Level Up](https://levelup.gitlab.com/learn/dashboard). Team members should follow [these important steps](https://about.gitlab.com/handbook/marketing/digital-experience/website/#updating-content-on-gitlab-learn) to update this page every time a new course or certification is created.
+All our available learning material can be found on [Level Up](https://levelup.gitlab.com/learn/dashboard). Team members should follow [these important steps](/handbook/marketing/digital-experience/website/#updating-content-on-gitlab-learn) to update this page every time a new course or certification is created.
 
 ## Examples
 
-1. Teams like Field Enablement use a handbook-first approach to learning in their [Field Certification Program](https://about.gitlab.com/handbook/sales/training/field-certification/), built with Articulate 360 Storyline Suite. Learners refer to the Handbook directly within elearning courses.
-1. L&D hosts [Mini and Extended Challenges]({{< ref "/handbook/people-group/learning-and-development#gitlab-mini-and-extended-challenges" >}}) to engage team members in bite sized learning about a specific topic. Participants in the challenge collaborate on issues and are driven to the handbook to review learning content.
+1. Teams like Field Enablement use a handbook-first approach to learning in their [Field Certification Program](/handbook/sales/training/field-certification/), built with Articulate 360 Storyline Suite. Learners refer to the Handbook directly within elearning courses.
+1. L&D hosts [Mini and Extended Challenges](/handbook/people-group/learning-and-development#gitlab-mini-and-extended-challenges) to engage team members in bite sized learning about a specific topic. Participants in the challenge collaborate on issues and are driven to the handbook to review learning content.
 
 ## Self-Paced Learning Outline
 
@@ -29,10 +29,6 @@ Below is an outlined example of how the field enablement team created a handbook
 ### Best Practices
 
 The Instructional Designer on the Learning & Development Team maintains a [Content Creation Best Practices Guide](https://docs.google.com/document/d/1YZnPU5qCO6VhXttqTt97A69jsQyUsO0oPCNJe_Adv4o/edit?usp=sharing) to provide team members with a guide when creating learning content.
-
-<figure class="video_container">
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vSBYFxRxMH36U03Eo-Ko2WbMdM-JJgj03Rel4WH9napbzcOQepFOXatixlBwTXyJEROg4hnGXsxt52j/pub?embedded=true"></iframe>
-</figure>
 
 ### Course Development Workflow
 
@@ -87,7 +83,7 @@ The following best practices should be followed when using video to create handb
 
 1. Upload recorded video to the GitLab Unfiltered channel
 1. Embed videos into the handbook on the appropriate content page
-1. Ensure that embedded videos have a sub-header on the page. This will be an essential piece when linking to the handbook using iframes. Here is an [example of this layout](https://about.gitlab.com/company/culture/all-remote/mental-health/#do-not-celebrate-working-long-hours).
+1. Ensure that embedded videos have a sub-header on the page. This will be an essential piece when linking to the handbook using iframes. Here is an [example of this layout](/handbook/company/culture/all-remote/mental-health/#do-not-celebrate-working-long-hours).
 1. Build iframes within a lesson to display video by linking to these sub headers
 
 Other best practices for recording new learning video include:
@@ -124,7 +120,7 @@ The following best practices should be followed when building learning content t
 
 ## Toolkit
 
-Use the following resources when building handbook first learning. Review the [tech stack](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/) to find the current application owner at GitLab.
+Use the following resources when building handbook first learning. Review the [tech stack](/handbook/business-technology/tech-stack-applications/) to find the current application owner at GitLab.
 
 1. Articulate360
 1. [ScribehHow](https://scribehow.com/)

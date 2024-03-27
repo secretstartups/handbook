@@ -18,7 +18,7 @@ Workday will be accessible to all GitLab team members through Okta SSO. Go to [g
 
 ![Accesing Workday through Okta](../okta-wd.png)
 
-**Important:** Please note that Workday will be temporarily unavailable due to scheduled weekly maintenance each Friday between 11:00 PM - 3:00 AM PST.
+**Important:** Please note that Workday will be temporarily unavailable due to scheduled weekly maintenance each Friday between 11:00 PM - 3:00 AM PST (Saturday between 6am UTC to 9am UTC).
 
 ## Workday Guides
 
@@ -44,6 +44,7 @@ Use these helpful resources for completing team member self-service tasks in Wor
 |Team Members|change self-identification of veteran status (US Only)|[Link](https://docs.google.com/document/d/1-xbCLsdzn9R2zwG5zMzkBRx6BX6vbtCjAsEI6eQRdfM/edit)|[Link](https://drive.google.com/file/d/1QSosr0W0CW2AYou2rjUCyrZrV6m1c_OB/view)|
 |Team Members|upload a signed document|[Link](https://docs.google.com/document/d/1FDUdF9AxiRGHh8v9k1zkVL_5-kWUR9JGgv4AfdyvGeU/edit)|-|
 |Team Members|view compensation changes|&bull;Click your profile photo, then View Profile<br />&bull;Click "Actions"<br />&bull;Click `Compensation > View Compensation Statement History`|-|
+|Team Members|set Team Page export preferences|[Link](https://docs.google.com/document/d/16_G0jQEjV3f08rGZ65g6RHTCSX5IfFalo9ZUdLEqH1s/edit)|-|
 |Managers|request a one-time payment|[Link](https://docs.google.com/document/d/15_cqMAIoqkxNhoCTL42X3XUpr0E9fNZXFmY3Yitk2LQ/edit)|-|
 |Managers|terminate team members (voluntary)|[Link](https://docs.google.com/document/d/1Fr1G1i1kssfADgDf3D6LbZHR8RZmWKZYDNV8AfduZ1c/edit)|-|
 |Managers|view team information|[Link](https://docs.google.com/document/d/1HlvaxIvmUPL6GLB3z6TqHWMf95RrDD7aOaeZPE0Hm7Q/edit)|-|
@@ -52,6 +53,10 @@ Use these helpful resources for completing team member self-service tasks in Wor
 |Managers|access and use reports|[Link](https://docs.google.com/document/d/19Isxod-o2CJ9GkurkVPqK8dCxbkQO743LoJ12OonOHY/edit)|-|
 |Managers|move team member to another manager|[Link](https://docs.google.com/document/d/1JEobACNSMeHU4pU5DaaF7aqmv9wmSDoXx7veZ6_SM_I/edit)|-|
 |Managers|view job history of a report prior to the HRIS migration|under that team member: `Job -> Worker History -> Worker History by Category -> Staffing & Compensation from Prior System`|-|
+
+## Job Title Speciality Creation/Update
+
+If you require any changes to a job title speciality or need a new job title speciality created, please open an [issue](https://gitlab.com/gitlab-com/people-group/people-tools-technology/general/-/issues/new) for the People Tech team to review. Select the `Workday: Job Title Speciality Request` template option. Once the job title speciality has been created, and you need changes to team members profiles in Workday, please send an email to `people-connect@gitlab.com` for assistance.
 
 ## How is Workday being implemented?
 

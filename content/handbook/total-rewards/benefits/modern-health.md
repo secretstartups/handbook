@@ -71,7 +71,7 @@ Modern Health’s model is grounded in evidence-based approaches, primarily Cogn
 
 ### When do my Modern Health benefits reset?
 
-Your benefits reset on March 20, 2023.
+These benefits reset annually on 03-20.
 Note: Unused sessions do not rollover when your benefits reset.
 
 ### What languages/countries is Modern Health available in?
@@ -94,9 +94,10 @@ Adult family members 18+ have full access to Modern Health's resources via the a
 
 Minor Family Members:
 
-- In the US, family members ages 6-17 can be invited to participate in Therapy via Modern Health.
+- In the US, family members of all ages can be invited to participate in Therapy via Modern Health.
 - Globally outside the US, family members ages 13-17 can be invited to participate in Therapy via Modern Health
 - In both instances, the eligible parent and/or legal guardian will be responsible for facilitating the minor dependent's introduction to Modern Health. Modern Health will work with the parent/guardian in connecting the minor dependent to Therapy
+- Coaching is not available for minors.
 
 ### Team Member & Family Registration
 
@@ -200,7 +201,7 @@ In addition to Coaching, please see additional Modern Health Manager Resources:
 - You have unlimited access to your coach over text and/or email.
 - Coaching and therapy sessions are held over video/phone.
 - If you need to miss a scheduled session please let your coach/therapist know at least 24 hours before your appointment. If you cancel after that time, or miss the session, it will count towards your total covered sessions.
-- Remember that the [GitLab PTO policy](/handbook/paid-time-off/) and a [non-linear workday structure](/company/culture/all-remote/non-linear-workday/) are meant to enable you to make time for your mental health. Team members should feel empowered to make an appointment for therapy in the middle of the day or take time off to attend an appointment.
+- Remember that the [GitLab PTO policy](/handbook/paid-time-off/) and a [non-linear workday structure](/handbook/company/culture/all-remote/non-linear-workday/) are meant to enable you to make time for your mental health. Team members should feel empowered to make an appointment for therapy in the middle of the day or take time off to attend an appointment.
 
 **What do I do if I need support in between sessions?**
 

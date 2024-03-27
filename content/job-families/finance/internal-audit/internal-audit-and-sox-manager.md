@@ -7,7 +7,7 @@ The position will have a key role in assessing the company’s compliance with t
 
 ### Job Grade
 
-The Internal Audit and SOX Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Internal Audit and SOX Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 Market Justification: This individual will own the program management of Internal Audit and SOX programs. In the market, this type of role is equivalent to a manager level due to the level of management and influence over strategy and execution of large programs with significant impact. Based on market data there are over 100 companies that have this level with an average of two to three incumbents in the role.
 
@@ -46,17 +46,17 @@ Market Justification: This individual will own the program management of Interna
 
 ### Performance Indicators
 
-- [Percentage of Desktop procedures documented](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
-- [Percentage of controls tested](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
-- [Percentage of recommendations implemented](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
-- [Percentage of audits completed](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of Desktop procedures documented](/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of controls tested](/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of recommendations implemented](/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of audits completed](/handbook/internal-audit/#internal-audit-performance-measures)
 
 
 ### Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a first interview with our VP, Internal Audit
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

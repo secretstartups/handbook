@@ -6,7 +6,7 @@ Backend Engineers at GitLab work on our product. This includes both the open sou
 
 ## Job Grade
 
-The Senior Backend Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Backend Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
 
@@ -18,7 +18,7 @@ The Senior Backend Engineer is a [grade 7](https://about.gitlab.com/handbook/tot
 - Recognize impediments to our efficiency as a team ("technical debt"), propose and implement solutions.
 - Represent GitLab and its values in public communication around specific projects and community contributions.
 - Ship small features and improvements with minimal guidance and support from other team members. Collaborate with the team on larger projects.
-- Participate in Tier 2 or Tier 3 weekday and weekend and occasional night [on-call rotations](https://about.gitlab.com/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html) to assist troubleshooting product operations, security operations, and urgent engineering issues.
+- Participate in Tier 2 or Tier 3 weekday and weekend and occasional night [on-call rotations](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html) to assist troubleshooting product operations, security operations, and urgent engineering issues.
 
 ## Requirements
 
@@ -58,7 +58,7 @@ The Senior Backend Engineer is a [grade 7](https://about.gitlab.com/handbook/tot
 - Represent GitLab and its values in public communication around broader initiatives, specific projects, and community contributions.
 - Provide mentorship for Junior and Intermediate Engineers on your team to help them grow in their technical responsibilities and remove blockers to their autonomy.
 - Confidently ship moderately sized features and improvements with minimal guidance and support from other team members. Collaborate with the team on larger projects.
-- Improves the [engineering projects](https://about.gitlab.com/handbook/engineering/projects/) at GitLab as a [project maintainer](https://about.gitlab.com/handbook/engineering/workflow/code-review/#maintainer). For more information regarding timelines and exceptions, [see this page](https://about.gitlab.com/handbook/engineering/workflow/code-review/#senior-maintainers).
+- Improves the [engineering projects](/handbook/engineering/projects/) at GitLab as a [project maintainer](/handbook/engineering/workflow/code-review/#maintainer). For more information regarding timelines and exceptions, [see this page](/handbook/engineering/workflow/code-review/#senior-maintainers).
 
 #### Senior Requirements
 
@@ -119,7 +119,7 @@ The Distribution Deploy team is involved with diverse projects and tasks that in
 
 ### Package
 
-Package engineers are focused on creating and maintaining the dependency management system that extends GitLab to function as a universal package management tool. The Package team is also improving the [Container Registry](https://gitlab.com/gitlab-org/container-registry) and is responsible for items listed under [Package product category](https://about.gitlab.com/handbook/product/categories/#package-stage).
+Package engineers are focused on creating and maintaining the dependency management system that extends GitLab to function as a universal package management tool. The Package team is also improving the [Container Registry](https://gitlab.com/gitlab-org/container-registry) and is responsible for items listed under [Package product category](/handbook/product/categories/#package-stage).
 
 #### Requirements
 
@@ -131,7 +131,7 @@ Package engineers are focused on creating and maintaining the dependency managem
 
 ### Runner
 
-Runner engineers are primarily responsible for the [GitLab-Runner](https://gitlab.com/gitlab-org/gitlab-runner). The GitLab-Runner service acts as the interface between the rest of GitLab and a user's CI infrastructure, so that whether CI is running on a cluster of Raspberry Pis, a super-computer, or, as in the case with GitLab.com, thousands of virtual machines running in the cloud - it’s the GitLab-Runner that makes this happen. You can learn more about the Runner group on the [Runner product category](https://about.gitlab.com/handbook/product/categories/#runner-group) handbook page.
+Runner engineers are primarily responsible for the [GitLab-Runner](https://gitlab.com/gitlab-org/gitlab-runner). The GitLab-Runner service acts as the interface between the rest of GitLab and a user's CI infrastructure, so that whether CI is running on a cluster of Raspberry Pis, a super-computer, or, as in the case with GitLab.com, thousands of virtual machines running in the cloud - it’s the GitLab-Runner that makes this happen. You can learn more about the Runner group on the [Runner product category](/handbook/product/categories/#runner-group) handbook page.
 
 #### Requirements
 
@@ -207,7 +207,7 @@ CI/CD Backend Engineers are primarily tasked with improving the Continuous Integ
 
 - Provide value to the user and communicate such with product managers,
 - Introduce features that work at scale and in untrusting environments,
-- Always focus on defining and shipping [the Minimal Viable Change](https://about.gitlab.com/handbook/product/product-principles/#the-minimal-viable-change-mvc).
+- Always focus on defining and shipping [the Minimal Viable Change](/handbook/product/product-principles/#the-minimal-viable-change-mvc).
 
 We, as a team, cover end-to-end integration of CI/CD in GitLab, with components being written in Rails and Go. We work on a scale of processing a few million of CI/CD jobs on GitLab.com monthly. CI/CD engineering is interlaced with a number of teams across GitLab. We build new features by following our [direction](https://about.gitlab.com/direction/#ci--cd). Currently, we focus on providing a deep integration of Kubernetes with GitLab:
 
@@ -237,7 +237,7 @@ The CI/CD Engineering Manager also does weekly stand-up with a team and product 
 - Work with the Product Manager to carefully assess technical feasibility of feature requests.
 - Deliver proof-of-concept proposals to help guide technical discussions.
 - Identify ways to deliver complex technical projects in an iterative fashion.
-- Take [ownership](https://about.gitlab.com/handbook/engineering/development/enablement/systems/geo/process.html#epic-ownership) of feature implementation.
+- Take [ownership](/handbook/engineering/infrastructure/core-platform/systems/geo/process.html#epic-ownership) of feature implementation.
 - Respond quickly to customer requests for support.
 
 #### Requirements
@@ -319,7 +319,7 @@ to understand what is working and what is not.
 - Experience using Continuous Integration systems (e.g., GitLab CI, Jenkins, Travis).
 - Experience using Docker and containerized architectures (e.g. Kubernetes).
 
-See the description of the [Quality team](https://about.gitlab.com/handbook/engineering/quality/) for more details. The position also involves working with the community as [Merge Request Coach](/job-families/expert/merge-request-coach/), and working together with our [Backend Engineers](/job-families/engineering/backend-engineer/) to respond and address issues from the community.
+See the description of the [Quality team](/handbook/engineering/quality/) for more details. The position also involves working with the community as [Merge Request Coach](/job-families/expert/merge-request-coach/), and working together with our [Backend Engineers](/job-families/engineering/backend-engineer/) to respond and address issues from the community.
 
 ### Application Performance
 
@@ -367,7 +367,7 @@ The Ecosystem team is responsible for seamless integration between GitLab and 3r
 
 #### Responsibilities
 
-- Design, build, and maintain APIs, Webhooks, and SDK of Gitlab products.
+- Design, build, and maintain APIs, Webhooks, and SDK of GitLab products.
 - Design, build, and maintain solutions to integrate to partner and 3rd party platforms.
 - Design, build, and maintain solutions for integrating with cloud service provider marketplaces, such as AWS.
 - Develop documentation and instructions of how to work with GitLab SDK & APIs.
@@ -403,19 +403,6 @@ Gitaly is a service that handles git and other filesystem operations for GitLab 
 - Highly desirable: a good understanding of git’s internal data structures or experience running git servers. You can reason about software, algorithms, and performance from a high level.
 - Understanding of how to build instrumented, observable software systems.
 - Experience highly-available systems in production environments.
-
-### Meltano (BizOps Product)
-
-[Meltano](https://gitlab.com/meltano/meltano) is an early stage project at GitLab focused on delivering an open source framework for analytics, business intelligence, and data science. It leverages version control, data science tools, CI, CD, Kubernetes, and review apps.
-
-A Meltano Engineer will be tasked with executing on the vision of the Meltano project, to bring the product to market.
-
-#### Requirements
-
-- A passion for data science and analytics.
-- Experience with doing initial prototyping, architecture, and engineering work.
-- In-depth experience with Python (no Ruby or Rails experience required for this role).
-- Experience with Kubernetes, Helm, and CI/CD is a **strict requirement**.
 
 ### Database
 
@@ -458,7 +445,7 @@ Unlike the [Database Engineer](/job-families/engineering/database-engineer/) pos
 
 ### Infrastructure
 
-[Infrastructure](https://about.gitlab.com/handbook/engineering/infrastructure/) specialists work alongside DBREs and SREs and are experienced Ruby/GoLang developers who work in the product with a focus on reliability, observability, performance and scalability at the application level, as well as on resource optimization from an Infrastructure perspective and on operationally relevant features.
+[Infrastructure](/handbook/engineering/infrastructure/) specialists work alongside DBREs and SREs and are experienced Ruby/GoLang developers who work in the product with a focus on reliability, observability, performance and scalability at the application level, as well as on resource optimization from an Infrastructure perspective and on operationally relevant features.
 
 #### Requirements
 
@@ -480,7 +467,7 @@ Delivery specialist is an engineer that focuses on improving the engineering rel
 
 #### Responsibilities
 
-- Assures the [GitLab Release Process](https://about.gitlab.com/handbook/engineering/releases/).
+- Assures the [GitLab Release Process](/handbook/engineering/releases/).
 - Creates new tools to automate the release process.
 - Builds new GitLab release features to replace existing custom tooling.
 - Works with individual teams on defining and implementing solutions that will help them release quicker.
@@ -493,7 +480,7 @@ Delivery specialist is an engineer that focuses on improving the engineering rel
 
 ### Scalability
 
-The [Scalability team](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/) is responsible for optimising GitLab.com
+The [Scalability team](/handbook/engineering/infrastructure/team/scalability/) is responsible for optimising GitLab.com
 performance through improving the reliability, availability and performance of individual GitLab services and the application as a whole.
 
 #### Responsibilities
@@ -504,7 +491,7 @@ performance through improving the reliability, availability and performance of i
 - Work with other engineering stakeholders on resolving larger architectural bottlenecks and participate as a representative of GitLab.com.
 - Provide guidance to other engineering stakeholders on scaling considerations.
 - Work closely with embedded Site Reliability Engineers to prepare and perform production changes.
-- Deliver scaling projects as a [Directly Responsible Individual (DRI)](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/#project-ownership).
+- Deliver scaling projects as a [Directly Responsible Individual (DRI)](/handbook/engineering/infrastructure/team/scalability/#project-ownership).
 
 #### Requirements
 
@@ -543,18 +530,18 @@ Elasticsearch engineers are focused on delivering a first class global search ex
 
 ## Performance Indicators
 
-- [Backend Unit Test Coverage](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#backend-unit-test-coverage)
-- [Open MR Review Time (OMRT)](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#open-mr-review-time-omrt)
-- [Open MR Age (OMA)](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#open-mr-age-oma)
+- [Backend Unit Test Coverage](/handbook/engineering/development/performance-indicators/#backend-unit-test-coverage)
+- [Open MR Review Time (OMRT)](/handbook/engineering/development/performance-indicators/#open-mr-review-time-omrt)
+- [Open MR Age (OMA)](/handbook/engineering/development/performance-indicators/#open-mr-age-oma)
 
 ## Hiring Process
 
-Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more specialties, the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more specialties, the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 - As part of the application, candidates are asked to complete a short technical questionnaire, with a possibility of additional technical questions being asked if needed after the application is submitted.
-- Next, candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Technical Recruiters.
+- Next, candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Technical Recruiters.
 - Next, candidates will be invited to schedule a 90 minute technical interview with one of our Backend Engineers.
 - Next, candidates will be invited to schedule a 60 minute interview with one of our Backend Engineering Managers.
 - Next, candidates will be invited to schedule a 60 minute interview with our Director of Engineering
 - Successful candidates will subsequently be made an offer.
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

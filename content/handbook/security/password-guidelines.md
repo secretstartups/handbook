@@ -12,15 +12,35 @@ Passwords are one of the primary mechanisms that protect GitLab information syst
 1Password is a password manager that can be used in two different ways - as a standalone application
 (by purchasing a standalone license) or as a hosted service (by subscribing). GitLab uses 1Password for Teams which is a hosted service.
 
+
+**Important:** Any personal Passwords stored in your GitLab vault will be inaccessible upon separation with GitLab. Please use the complimentry 1Passsword Families membership subscription that comes with your business account to store any personal passwords. This account will stay with you even in the event that you stop working with GitLab.
+ For more inforamtion on how to redeem your free subscription, please follow the steps outlined in [this article](https://support.1password.com/link-family/).
+
+
 Ideally you memorize one strong password - hence the name - and let 1Password generate and manage strong, unique passwords
 for every site for which you have a login.
 
-GitLab requires all team members to use [Okta](https://about.gitlab.com/handbook/business-technology/okta/) as a primary entry and access point for SaaS and other company applications while utilizing 1Password for password management. GitLab utilizes Okta for SAML/SSO and passwordless authentication for many applications, so the need to store passwords in a password manager will diminish over time.
+GitLab requires all team members to use [Okta](/handbook/business-technology/okta/) as a primary entry and access point for SaaS and other company applications while utilizing 1Password for password management. GitLab utilizes Okta for SAML/SSO and passwordless authentication for many applications, so the need to store passwords in a password manager will diminish over time.
 
 If you want to use 1Password for your private passwords not related to your work
 at GitLab, [there are a few options](#1password-for-your-private-passwords).
 
 Please note our 1Password for Business license agreement [includes the 1Password for Families feature](https://support.1password.com/link-family/), which you can share with up to 5 family members.
+
+For your Okta password and other passwords that you won't store in Okta, use [1Password](https://1password.com/) as your password manager and set a **strong and unique** master password.
+
+- Keep your Master Password a secret. No other team members
+  should know it, including admins. If the Master Password is known or
+  disclosed to someone else, it should be changed immediately.
+- Post a message in #it-ops if you forget your Master Password.
+- Consider using a generated Master Password. Most human-created passwords
+  are easy to guess. Let 1Password create a strong Master Password. But: you *will*
+  need to memorize this Master Password.
+- Do not let your password manager store the **master password**. It is okay to
+  store the username.
+- For more information, review [1Password's Getting Started guide](https://support.1password.com/explore/team-member/)
+  and view [this video](https://youtu.be/2cFWk0sBgyM) that guides you through the sign-up process.
+- For account administrators, review [1Password's admin guide](https://support.1password.com/explore/teams-admin/).
 
 ### Terminology
 
@@ -128,6 +148,11 @@ After the Team is added, you should see some notifications about vaults being
 added to 1Password. By default you'll have the **Private** vault, but
 may have access to others.
 
+#### Shared Vault Etiquette
+
+1. In general, 1Password items should be self-documenting. This is especially important for items in team vaults such as those to which a team member gains access once part of the GitLab team or they are granted access via their baseline entitlements issue. Always make sure the `title`, `username`, and `notes` fields are meaningful.
+1. Deleting items is fine as they are kept in the "recently deleted" tab indefinetely. It's also fine to leave them in their respective vault but delete the account on the system associated with the item. In the second case, and in order to prevent confusing team members, edit the title (e.g. `[Deleted on 2024-02-14]`) to reflect the purposeful deletion of the account and explain briefly who and why removed it in the notes.
+
 #### Updating 1Password to support the Teams feature {#1password-update}
 
 *Read this section only if you could not follow the instructions in "Adding
@@ -163,7 +188,7 @@ Click the **Vault Selector** in the upper-left corner of the window:
 
 GitLab team members have access to a **Private** vault by default, which is your *hosted, private* vault that is part of the GitLab 1Password for Teams account. Since the Private vault is part of the
 GitLab Teams account, it should be thought of as company property (like the
-@gitlab.com email account), however the vault *can not* be viewed by anyone
+@gitlab.com email account), however the vault *cannot* be viewed by anyone
 else on the team, including admins. If you choose to store truly personal
 information in the Private vault, it opens up the possibility that you would
 be separated from this information if you offboard. Such truly personal
@@ -173,7 +198,7 @@ added an [individual account](#1password-for-your-private-passwords).
 
 People may request access to other vaults such as shared vaults that their teams/departments have created.
 
-#### Browser extension
+### Browser extension
 
 Go to [Browser extensions](https://agilebits.com/onepassword/extensions) and
 install the extension for whatever browser you're using. You *should not* need a
@@ -194,7 +219,7 @@ the correct vault:
 </div>
 
 
-#### Saving logins
+### Saving logins
 
 When 1Password detects a login form submission, it may ask if you want to save
 the login with a dialog like this:
@@ -206,13 +231,13 @@ the login with a dialog like this:
 If you do want to save it, make sure the appropriate **Vault** is selected
 first.
 
-#### Managing SSH keys
+### Managing SSH keys
 
 Starting with version 8, 1Password can operate as the single source of truth for your SSH keys. This includes generating private keys, storing them securely, filling your public keys in to sites like GitLab.com, and unlocking the keys automatically when performing git operations.
 
 More information is available [in the official documentation](https://developer.1password.com/docs/ssh/).
 
-#### CLI integration
+### CLI integration
 
 [1Password CLI integration](https://developer.1password.com/docs/cli) supports secure
 handling of secrets used in command line tools, config files, and scripts executed on your laptop.
@@ -250,7 +275,7 @@ glab api version
 {"version":"15.4.0-pre","revision":"3e84f577d51"}
 ```
 
-#### Several accounts and unlocking the app
+### Several accounts and unlocking the app
 
 Please refer to [1Password FAQ](https://support.1password.com/faq/#i-have-several-accounts-and-vaults-which-password-do-i-use-to-unlock-1password).
 
@@ -263,7 +288,7 @@ If you were using 1Password before joining GitLab, and you receive a prompt
 titled **Migrate To Account**, choose **I'll move later**. There is no harm in
 doing this, and it is easy to move items between vaults.
 
-#### 1Password for your private passwords{#1password-private-use}
+### 1Password for your private passwords{#1password-private-use}
 
 You are encouraged to use 1Password for your private passwords, not related to
 your work at GitLab.
@@ -272,11 +297,17 @@ standalone license or start an individual subscription, or take advantage of the
 [complimentary 1Password for Families feature](https://support.1password.com/link-family/),
 which you can share with up to 5 family members.
 
-#### Two factor authentication and time-based one time passwords
+### Two factor authentication and time-based one time passwords
 
-As stated in the [GitLab Password Standards]({{< ref "password-standard" >}}), the usage of 2FA is mandatory for all GitLab team members.
+As stated in the [GitLab Password Standards]({{< ref "password-standard" >}}), the usage of 2FA is mandatory for all GitLab team members. **Users without 2FA enabled that are stale for over 30 days will be blocked/suspended until resolved. This improves the security posture for both the user and GitLab.** If any systems provide an option to use SMS text as a second factor, this is highly discouraged. Phone company security can be easily subverted by attackers allowing them to take over a phone account.
 
 Okta is configured such that it only supports the use of WebAuthn. 1Password TOTP should only be used when WebAuthn is unavailable.
+
+A FIDO2/WebAuthn hardware token can be used as a secure and convenient 2-factor authentication method for Okta, Google Workspace, GitLab instances, and many other sites. If you do not have one, you may consider [purchasing one](/handbook/spending-company-money/). GitLab's standard is Yubico's YubiKey. For more information on FIDO2/WebAuthn, visit the [Tools and Tips page](/handbook/tools-and-tips/#fido2webauthn-devices).
+
+If shared access to a single account is required by multiple team members, for example, a social media account, an Okta [new application setup Issue](https://gitlab.com/gitlab-com/business-technology/change-management/issues/new?issuable_template=change_management_okta&_gl=1*hvl1g4*_ga*ODQwNzAxNjM0LjE2NjYwNDc2Njc.*_ga_ENFH3X7M5Y*MTY4Njk0MTkzOC43MDIuMS4xNjg2OTQyMTc4LjAuMC4w) should be created. The credentials will be stored and shared via Okta.
+
+If you find an existing shared account in 1Password, [create an Issue](https://gitlab.com/gitlab-com/business-technology/change-management/issues/new?issuable_template=change_management_okta) to get it migrated to Okta.
 
 1Password provides an alternative solution that does not
 require using your smartphone: 1Password Time-based One Time Passwords
@@ -321,7 +352,7 @@ Follow this [guideline](https://gizmodo.com/how-to-easily-switch-your-two-factor
 
 There may be cases where TOTP might be used with a non-GitLab account. If you have any questions and need to speak with the Security Team, you can contact [Security]({{< ref "_index.md#-contacting-the-team" >}})
 
-#### Passkeys
+### Passkeys
 
 1Password has implemented a feature supporting for Passkeys, which are the credentials used in FIDO2/WebAuthn on sites such as [Okta](https://adamhuss-master-patch-a4f4.about.gitlab-review.app/handbook/business-technology/okta/#adding-1password-passkey). This feature can allow passwordless sign in to sites that require username and password. Passkeys can also serve as a type of MFA. Passkeys store a public key in the app and a private key within the 1Password vault.
 
@@ -373,7 +404,7 @@ one of our developers, uses 1Password:
     <img src="../1password-teams-login.png" alt="Teams Login" width="560px"/>
   </div>
 
-#### Traveling with 1Password{#travel-mode}
+### Traveling with 1Password{#travel-mode}
 
 When traveling with a device that has access to the GitLab 1Password vaults, be
 sure to [enable Travel Mode](https://support.1password.com/travel-mode/) in 1Password. Travel Mode removes copies of any
@@ -391,11 +422,11 @@ For more information on Travel Mode and how it works, see the [AgileBits blog].
 [agilebits blog]: https://blog.agilebits.com/2017/05/18/introducing-travel-mode-protect-your-data-when-crossing-borders/
 [macOS app]: https://agilebits.com/downloads
 
-#### Securing Docker Registry User Credentials
+### Securing Docker Registry User Credentials
 
 Docker can store user credentials in an [external credential store](https://docs.docker.com/engine/reference/commandline/login/#credential-stores) as a more secure alternative to storing credentials in the Docker configuration file.
 
-##### Using `osxkeychain` (macOS)
+#### Using `osxkeychain` (macOS)
 
 To configure Docker to use `osxkeychain` for secure credential storage, follow these steps:
 
@@ -416,7 +447,7 @@ To configure Docker to use `osxkeychain` for secure credential storage, follow t
 1. Log in using `docker login registry.gitlab.com`, and enter your email and password (PAT) when prompted.
 1. Validate that the credentials were not saved as base64-encoded text in `~/.docker/config.json`.
 
-##### Using `pass` (Linux)
+#### Using `pass` (Linux)
 
 **Prerequisites**
 

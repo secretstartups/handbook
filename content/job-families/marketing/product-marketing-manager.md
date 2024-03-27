@@ -1,19 +1,21 @@
 ---
 title: "Product Marketing Manager"
 summary: Help tell the story about the value of how GitLab helps to unlock the potential of sharing and contribution.
+aliases:
+- /job-families/marketing/product-marketing-manager-public-sector/
 ---
-Product Marketing Managers at GitLab have a unique opportunity to contribute to our [mission](https://about.gitlab.com/company/mission/#mission):
+Product Marketing Managers at GitLab have a unique opportunity to contribute to our [mission](/handbook/company/mission/#mission):
 
 To change all creative work from read-only to read-write so that everyone can contribute.
 When everyone can contribute, consumers become contributors, and we greatly increase the rate of human progress.
 
 Product marketing managers at GitLab help tell the story about the value of how GitLab helps to unlock the potential of sharing and contribution. As a Product Marketing Manager, you understand our customers, our community, and the challenges they face.  You write about their story and help them understand how GitLab can help them become the heroes they really are.
 
-We work in a unique way at GitLab, where flexibility meets a high paced, pragmatic way of working. And everything we do is in the open. We recommend looking at our [product marketing handbook](https://about.gitlab.com/handbook/marketing/strategic-marketing/) to get started.
+We work in a unique way at GitLab, where flexibility meets a high paced, pragmatic way of working. And everything we do is in the open. We recommend looking at our [product marketing handbook](/handbook/marketing/strategic-marketing/) to get started.
 
 ### Job Grade
 
-The Product Marketing Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Product Marketing Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -64,7 +66,7 @@ Senior product marketing managers are leaders and bring deep experience in a spe
 
 ### Job Grade
 
-The Senior Product Marketing Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Product Marketing Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior Product Marketing Managers also
 
@@ -91,7 +93,7 @@ The Senior Product Marketing Manager is a [grade 8](https://about.gitlab.com/han
 
 ### Job Grade
 
-The Principal Product Marketing Manager is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Principal Product Marketing Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 **Market Justification:** The principal level of this role exists at GitLab to ensure thought leadership in the market to inform future strategy. This role protects revenue growth in future fiscal years. This is a very niche role, with a specialised skill set reporting to the Director, Product Marketing.
 
@@ -115,6 +117,35 @@ The Principal Product Marketing Manager is a [grade 9](https://about.gitlab.com/
 - Has experience aligned with the additional responsibilities of a Principal Product Marketing Manager
 
 ## Specializations
+
+### Public Sector
+
+## Job Grade
+
+- The Product Marketing Manager, Public Sector is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+- The Senior Product Marketing Manager, Public Sector is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+## Responsibilities
+
+The Product Marketing Manager, Public Sector has the same responsibilities as other [Product Marketing Managers](/job-families/marketing/product-marketing-manager/), but specializes in the public sector in the United States and has a separate compensation benchmark for the federal responsibilities.
+
+## Requirements
+
+The Product Marketing Manager, Public Sector has the same requirements as other [Product Marketing Managers](/job-families/marketing/product-marketing-manager/), as well as additional public sector requirements.
+
+### Regulated Industries Specialist (Public Sector)
+
+As a Senior Product Marketing Manager, Public Sector, you will work bring your knowledge and experience of marketing to the federal government to help shape our go to market strategy, messaging and execution.  You will partner closely with our marketing, engineering, business development, sales team and partners to help them address the unique requirements of this market.
+
+#### Requirements
+
+- At least 5 years of product marketing experience marketing and selling public sector.
+- Deep understanding of Agile and DevOps methodologies across the entire Software Development Lifecycle, especially the processes and controls typically found in large regulated industries such as public sector and financial services.
+- Experience marketing and selling to the US Federal Govt, DOD and civilian agencies.
+- Experience around GSA, Federal procurement and the various buying vehicles to enable growth in software sales via our distribution partners.
+- A security clearance is a plus.
+- Ability to use GitLab
+
 
 ### Security
 
@@ -275,7 +306,7 @@ As a Customer Advocacy Product Marketer, you will identify, activate, and amplif
 - Define and develop a cross-functional programmatic strategy to create customer success content that reinforces key marketing messages including customer pain points, jobs-to-be-done, GitLabs’ solutions, and other marketing content areas as defined.
 - Define and develop, in collaboration with Sales and other stakeholders, a customer incentive strategy and approach that results in additional net new and growth customer references.
 - Own internal advocacy efforts by cultivating and promoting champions; this includes embracing an “always-on” advocacy methodology that highlights the importance of customer references, a definition of internal economic/non-economic incentives and recognition programs for surfacing stories.
-- Leverage customer advocacy insights and lessons learned in relation to Gitlab’s marketing plan and deliverables to influence the overall product marketing strategy and roadmap.
+- Leverage customer advocacy insights and lessons learned in relation to GitLab’s marketing plan and deliverables to influence the overall product marketing strategy and roadmap.
 
 ### Market Insights
 
@@ -336,13 +367,13 @@ As a Product Marketing Manager, Market Insights, you will bring your market know
 
 ## Career Ladder
 
-The next step in a Senior Product Marketing Manager's career at GitLab is to be a [Manager, Product Marketing.](https://about.gitlab.com/job-families/marketing/product-marketing-management/).
+The next step in a Senior Product Marketing Manager's career at GitLab is to be a [Manager, Product Marketing.](/job-families/marketing/product-marketing-management/).
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Candidates then may be offered a 45 minute interview with our Chief Marketing Officer
 - Next, candidates will be invited to schedule a interview with the Senior Director of Marketing and Sales
 - Candidates will then be invited to schedule 45 minute interviews with our Regional Sales Director of the US East Coast
@@ -351,4 +382,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Finally, our CEO may choose to conduct a final interview.
 - Successful candidates will subsequently be made an offer via email.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

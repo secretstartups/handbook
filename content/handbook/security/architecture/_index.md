@@ -6,9 +6,9 @@ title: "Security Architecture"
 
 ## Overview
 
-[Security Architects]({{< ref "/job-families/security/security-engineer#security-architect" >}}) are the
+[Security Architects](/job-families/security/security-engineer#security-architect) are the
 trusted security advisors of GitLab Engineering. Security Architecture is a natural extension of the
-greater [Architecture](https://about.gitlab.com/handbook/engineering/architecture/) initiative at GitLab. It is the
+greater [Architecture](/handbook/engineering/architecture/) initiative at GitLab. It is the
 preliminary and necessary work to build software with security considerations.
 
 ## Objectives
@@ -28,7 +28,7 @@ The process is designed with these constraints in mind:
 
 - aligned with our [values]({{< ref "values" >}})
 - asynchronous
-- [self-service](https://about.gitlab.com/company/culture/all-remote/self-service/) as much as possible
+- [self-service](/handbook/company/culture/all-remote/self-service/) as much as possible
 - avoid being a bottleneck in the software development life cycle
 - deliberately simple and concise
 - automated as much as possible
@@ -55,7 +55,7 @@ cycle of source code:
 
 - [AppSec projects policies]
 
-[AppSec projects policies]: {{< ref "../security-engineering/application-security/inventory#policies" >}}
+[AppSec projects policies]: {{< ref "../product-security/application-security/inventory#policies" >}}
 
 ### InfraSec
 
@@ -210,7 +210,7 @@ Make attacks less attractive.
 
 #### Links
 
-- [Zero Trust]({{< ref "/handbook/security/architecture/zero-trust" >}}) at GitLab
+- [Zero Trust](/handbook/security/architecture/zero-trust) at GitLab
 
 </details>
 
@@ -396,7 +396,7 @@ aka Fail Safe Defaults.
 #### Links
 
 - <https://en.wikipedia.org/wiki/Defense_in_depth_(computing)>
-- [Zero Trust]({{< ref "/handbook/security/architecture/zero-trust" >}}) at GitLab
+- [Zero Trust](/handbook/security/architecture/zero-trust) at GitLab
 
 </details>
 

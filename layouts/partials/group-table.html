@@ -1,0 +1,96 @@
+<table>
+    <thead>
+        {{- if .slack.channel }}<th>Slack Channel</th>{{end}}
+        {{- if .slack.alias }}<th>Slack Alias</th>{{end}}
+        {{- if .gitlab_group }}<th>GitLab Group</th>{{end}}
+        {{- if .handbook }}<th>Handbook</th>{{end}}
+        {{- if .pm_team_tag }}<th>Product Management</th>{{end}}
+        {{- if .pm }}<th>Product Manager</th>{{end}}
+        {{- if .pmm }}<th>Product Marketing Manager</th>{{end}}
+        {{- if .spd }}<th>Staff Product Designer</th>{{end}}
+        {{- if .ux }}<th>Product Designer</th>{{end}}
+        {{- if .em }}<th>Engineering Manager</th>{{end}}
+        {{- if .fullstack_managers }}<th>Fullstack Manager</th>{{end}}
+        {{- if .backend_engineering_manager }}<th>Backend Engineering Manager</th>{{end}}
+        {{- if .frontend_engineering_manager }}<th>Frontend Engineering Manager</th>{{end}}
+    </thead>
+    <tbody>
+        {{- if .slack.channel }}<td><a href="https://gitlab.slack.com/app_redirect?channel=#{{ .slack.channel }}">#{{ .slack.channel }}</a></td>{{end}}
+        {{- if .slack.alias }}<td>@{{.slack.alias}}</td>{{end}}
+        {{- if .gitlab_group }}<td>@{{.gitlab_group}}</td>{{end}}
+        {{- if .handbook }}<td><a href="/handbook/{{.handbook}}">Handbook</a></td>{{end}}
+        {{- if .pm_team_tag }}<td></td>{{end}}
+        {{- if .pm }}<td>
+            {{- if reflect.IsSlice .pm }}
+                {{- range .pm }}
+                {{- partial "member-by-name" . -}}
+                {{- end }}
+            {{- else -}}
+                {{- partial "member-by-name" .pm -}}
+            {{- end -}}
+        </td>{{end}}
+        {{- if .pmm }}<td>
+            {{- if reflect.IsSlice .pmm }}
+                {{- range .pmm }}
+                {{- partial "member-by-name" . "data" -}}
+                {{- end }}
+            {{- else -}}
+                {{- partial "member-by-name" .pmm -}}
+            {{- end -}}
+        </td>{{end}}
+        {{- if .spd }}<td><td>
+                {{- if reflect.IsSlice .spd }}
+                    {{- range .spd }}
+                    {{- partial "member-by-name" . "data" -}}
+                    {{- end }}
+                {{- else -}}
+                    {{- partial "member-by-name" .spd -}}
+                {{- end -}}
+            </td></td>{{end}}
+        {{- if .ux }}<td>
+                {{- if reflect.IsSlice .ux }}
+                    {{- range .ux }}
+                    {{- partial "member-by-name" . "data" -}}
+                    {{- end }}
+                {{- else -}}
+                    {{- partial "member-by-name" .ux -}}
+                {{- end -}}
+            </td>{{end}}
+        {{- if .em }}<td>
+            {{- if reflect.IsSlice .em }}
+                {{- range .em }}
+                {{- partial "member-by-name" . "data" -}}
+                {{- end }}
+            {{- else -}}
+                {{- partial "member-by-name" .em -}}
+            {{- end -}}
+        </td>{{end}}
+        {{- if .fullstack_managers }}<td>
+            {{- if reflect.IsSlice .fullstack_managers }}
+                {{- range .fullstack_managers }}
+                {{- partial "member-by-name" . "data" -}}
+                {{- end }}
+            {{- else -}}
+                {{- partial "member-by-name" .fullstack_managers -}}
+            {{- end -}}
+        </td>{{end}}
+        {{- if .backend_engineering_manager }}<td>
+            {{- if reflect.IsSlice .backend_engineering_manager }}
+                {{- range .backend_engineering_manager }}
+                {{- partial "member-by-name" . "data" -}}
+                {{- end }}
+            {{- else -}}
+                {{- partial "member-by-name" .backend_engineering_manager -}}
+            {{- end -}}
+        </td>{{end}}
+        {{- if .frontend_engineering_manager }}<td>
+            {{- if reflect.IsSlice .frontend_engineering_manager }}
+                {{- range .frontend_engineering_manager }}
+                {{- partial "member-by-name" . "data" -}}
+                {{- end }}
+            {{- else -}}
+                {{- partial "member-by-name" .frontend_engineering_manager -}}
+            {{- end -}}
+        </td>{{end}}
+    </tbody>
+</table>

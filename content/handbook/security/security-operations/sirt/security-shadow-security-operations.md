@@ -1,5 +1,7 @@
 ---
 title: "Security Shadow: Security Operations"
+description: " "
+weight: 40
 ---
 
 Completion of each course you will receive a certificate.  At the completion of all 3 courses your name will be recognized on this page.
@@ -28,10 +30,10 @@ If you answered yes to the above, [Trust and Safety]({{< ref "trustandsafety" >}
 The Trust and Safety teams' purpose is to try and ensure that users of GitLab.com operate within the scope of the [GitLab Website Terms of Use](https://about.gitlab.com/terms/#gitlab-com), more specifically, our Acceptable Use Policy (AUP). As the name implies, the AUP is a policy that governs what the business has deemed to be the acceptable use of GitLab.com.
 The AUP mainly consists of 3 parts:
 - Compliance: Ensuring that we are enforcing the relevant laws and regulations that are applicable to GitLab.com.
-    - These are non-negtiables and include things like complying with the [DMCA](https://about.gitlab.com/handbook/dmca/) and removing illegal content.
+    - These are non-negtiables and include things like complying with the [DMCA](/handbook/dmca/) and removing illegal content.
 - Principles: Ensuring that GitLab.com is not used in a way that negatively impacts others.
     - This is primarily based on our [Values]({{< ref "values" >}}) and include things like removing content that is concidered harmful and protecting others privacy.
-- Goal: Ensuring that GitLab.com is not used in a way that would negatively impact our [Vision](https://about.gitlab.com/company/vision/#vision).
+- Goal: Ensuring that GitLab.com is not used in a way that would negatively impact our [Vision](/handbook/company/vision/#vision).
     - This is primarily used to ensure that GitLab.com is used for it's intented purpose, and to reduce any negatvie impact caused by an unintended and/or unforseen use of it.
 
 If you think this is something you would be interested in learning about, maybe even do one day, come join us for a crash course in understanding the world of the Trust and Safety team!

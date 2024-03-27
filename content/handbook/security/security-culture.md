@@ -24,7 +24,14 @@ The committee should draft the ways to reach these goals for an open, approachab
 
 ## Participation
 
-Current (July - December 2022) nominated committee members:
+Current (September 2023 - February 2024) nominated committee members:
+- [Madeline Lake](https://gitlab.com/madlake)
+- [Janina Roppelt](https://gitlab.com/jroppelt)
+- [Greg Myers](https://gitlab.com/greg)
+- [James Hebden](https://gitlab.com/jhebden)
+- [Sofia Duarte](https://gitlab.com/sofiadas)
+
+Previously nominated committee members (July 2022 - September 2023):
 
 - [Jeff Burrows](https://gitlab.com/jburrows001)
 - [Mark Loveless](https://gitlab.com/mloveless)
@@ -66,7 +73,7 @@ We are tracking our efforts in this issue: https://gitlab.com/gitlab-com/gl-secu
 
 Once a security culture committee cohort nears the end of their term, they are responsible for the formation of the next committee. The committee must ensure that the nomination process is tailored to the current size and state of the security department and sub-departments. There is an [issue template](https://gitlab.com/gitlab-com/gl-security/security-culture/-/issues/new?issuable_template=committee_formation) that can be used to track the progress of the nomination effort and have any necessary discussions.
 
-For FY22 and the first half of FY23, the committee was selected by sending out a Google Form with a list of everyone in the department separated into the three sub-departments: Security Assurance, Security Operations, and Security Engineering/Research. Security department members were encouraged to nominate one person from each department. The people earning the most nominations from each group were selected. The two people receiving the most nominations overall were selected, for a total of 5 people.
+For FY22 and the first half of FY23, the committee was selected by sending out a Google Form with a list of everyone in the department separated into the three sub-departments: Security Assurance, Security Operations, and Product Security/Research. Security department members were encouraged to nominate one person from each department. The people earning the most nominations from each group were selected. The two people receiving the most nominations overall were selected, for a total of 5 people.
 
 In the event of a tie, the team members tied for nominations will be sent a group direct message notifying them of the tie and asking if any of them would prefer to decline the nomination. If this does not resolve the tie, the nominees will be determined by a dice roll.
 

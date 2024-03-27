@@ -40,9 +40,9 @@ GitLab.com is a unique site and brings with it unique challenges: it is the larg
 
 - Coding infrastructure automation with [Chef](https://gitlab.com/gitlab-cookbooks/), Ansible, Terraform, and GitLab CI/CD
 - Improving our [Prometheus Monitoring](https://gitlab.com/gitlab-cookbooks/gitlab-prometheus) or building new [metrics](https://gitlab.com/gitlab-org/gitlab-exporter)
-- Helping [release managers](https://about.gitlab.com/handbook/engineering/#release-managers) deploy and fix new versions of GitLab-EE.
-- Plan, prepare for, and execute the [migration of GitLab.com](https://about.gitlab.com/handbook/engineering/infrastructure/production/architecture/#infra-proposed-cloud-native) from virtual machines running on Google Cloud to cloud-native container-based deployments with Kubernetes using Google Kubernetes Engine.
-- Develop a relationship with a [product group](https://about.gitlab.com/handbook/product/categories/), define their SLAs, share GitLab.com data on those SLAs and improve their reliability
+- Helping [release managers](/handbook/engineering/#release-managers) deploy and fix new versions of GitLab-EE.
+- Plan, prepare for, and execute the [migration of GitLab.com](/handbook/engineering/infrastructure/production/architecture/#infra-proposed-cloud-native) from virtual machines running on Google Cloud to cloud-native container-based deployments with Kubernetes using Google Kubernetes Engine.
+- Develop a relationship with a [product group](/handbook/product/categories/), define their SLAs, share GitLab.com data on those SLAs and improve their reliability
 
 ## Leveling of Site Reliability Engineering at GitLab
 
@@ -85,7 +85,7 @@ GitLab.com is a unique site and brings with it unique challenges: it is the larg
 
 #### Job Grade
 
-The Associate Site Reliability Engineer is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Associate Site Reliability Engineer is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ##### Technical
 
@@ -120,7 +120,7 @@ The Associate Site Reliability Engineer is a [grade 5](https://about.gitlab.com/
 
 #### Job Grade
 
-The Site Reliability Engineer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Site Reliability Engineer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ##### Technical
 
@@ -135,7 +135,7 @@ The Site Reliability Engineer is a [grade 6](https://about.gitlab.com/handbook/t
    1. Block and object storage configuration
    1. Networking VPCs, proxies and CDNs
 
-1. Working knowledge of GitLab product, including deeper knowledge in areas of [stages and groups](https://about.gitlab.com/handbook/product/categories/#hierarchy) which may be part of stable counterpart assignments
+1. Working knowledge of GitLab product, including deeper knowledge in areas of [stages and groups](/handbook/product/categories/#hierarchy) which may be part of stable counterpart assignments
 
 ##### Execution
 
@@ -161,7 +161,7 @@ The Site Reliability Engineer is a [grade 6](https://about.gitlab.com/handbook/t
 
 #### Job Grade
 
-The Senior Site Reliability Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Site Reliability Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 Are Site Reliability Engineers who meet the following criteria:
 
@@ -184,7 +184,7 @@ Are Site Reliability Engineers who meet the following criteria:
 
 1. Identifies significant projects that result in substantial improvements in reliability, cost savings and/or revenue.
 1. Identifies changes for the product architecture from the reliability, performance and availability perspectives with a data driven approach.
-1. Influences the product roadmap and works with engineering and product counterparts to influence improved resiliency and reliability of the Gitlab product.
+1. Influences the product roadmap and works with engineering and product counterparts to influence improved resiliency and reliability of the GitLab product.
 1. Proactively work on the efficiency and capacity planning to set clear requirements and reduce the system resources usage to make GitLab cheaper to run for all our customers.
 1. Identify parts of the system that do not scale, provides immediate palliative measures and drives long term resolution of these incidents.
 1. Identify Service Level Indicators (SLIs) that will align the team to meet the availability and latency objectives.
@@ -192,7 +192,7 @@ Are Site Reliability Engineers who meet the following criteria:
 ##### Collaboration and Communication
 
 1. Leads initiatives and problem definition and scoping, design, and planning through epics and blueprints.
-1. Deep domain knowledge and radiation that knowledge through recorded demos, technical presentations, discussions, and [Incident Reviews](https://about.gitlab.com/handbook/engineering/infrastructure/incident-review/).
+1. Deep domain knowledge and radiation that knowledge through recorded demos, technical presentations, discussions, and [Incident Reviews](/handbook/engineering/infrastructure/incident-review/).
 1. Perform and run blameless RCAs on incidents and outages aggressively looking for answers that will prevent the incident from ever happening again.
 1. For stable counterpart assignments, maintain awareness and actively influence stage group plans and priorities through participation in stage group meetings and async discussions. Act as a champion for reliability.
 
@@ -206,7 +206,7 @@ Are Site Reliability Engineers who meet the following criteria:
 
 #### Job Grade
 
-The Staff Site Reliability Engineer is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Site Reliability Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 Are Senior Production SREs who meet the following criteria:
 
@@ -283,7 +283,7 @@ In each of these responsibilities, we focus on the long-term mindset required to
 SREs in Scalability are expected to be part of the on-call rotation.
 
 Further details about Scalability SRE's involvement with incidents is available on
-the [team handbook page](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/#engagement-with-incidents).
+the [team handbook page](/handbook/engineering/infrastructure/team/scalability/#engagement-with-incidents).
 
 ### Environment Automation
 
@@ -310,7 +310,7 @@ SRE's with Cloud Efficiency Engineering specialization primarily focus on improv
 
 ## Career Ladder
 
-Further career progression is available as a Principle Engineer, [Distinguished Engineer](https://about.gitlab.com/job-families/engineering/infrastructure/distinguished-engineer/#infrastructure) and then an [Engineering Fellow](https://about.gitlab.com/job-families/engineering/infrastructure/engineering-fellow/).
+Further career progression is available as a Principle Engineer, [Distinguished Engineer](/job-families/engineering/infrastructure/distinguished-engineer/#infrastructure) and then an [Engineering Fellow](/job-families/engineering/infrastructure/engineering-fellow/).
 
 Individual Contributors in SRE roles can also move to roles in the [Engineering Management - Infrastructure](/job-families/engineering/infrastructure/engineering-management/) job family.
 
@@ -318,14 +318,14 @@ Individual Contributors in SRE roles can also move to roles in the [Engineering 
 
 Site Reliability Engineers have the following job-family performance indicators:
 
-- [GitLab.com Availability](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#gitlab-com-availability)
-- [GitLab.com Performance](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#gitlab-com-performance)
-- [Apdex and Error SLO per Service](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#apdex-and-error-slo-per-service)
-- [Mean Time to Detection](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#mean-time-to-detection-mttd)
-- [Mean Time to Resolution](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#mean-time-to-resolution-mttr)
-- [Mean Time Between Failure](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#mean-time-between-failures-mtbf)
-- [Mean Time to Production](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#mean-time-to-production-mttp)
-- [Disaster Recovery Time to Recovery](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#disaster-recovery-dr-time-to-recover)
+- [GitLab.com Availability](/handbook/engineering/infrastructure/performance-indicators/#gitlab-com-availability)
+- [GitLab.com Performance](/handbook/engineering/infrastructure/performance-indicators/#gitlab-com-performance)
+- [Apdex and Error SLO per Service](/handbook/engineering/infrastructure/performance-indicators/#apdex-and-error-slo-per-service)
+- [Mean Time to Detection](/handbook/engineering/infrastructure/performance-indicators/#mean-time-to-detection-mttd)
+- [Mean Time to Resolution](/handbook/engineering/infrastructure/performance-indicators/#mean-time-to-resolution-mttr)
+- [Mean Time Between Failure](/handbook/engineering/infrastructure/performance-indicators/#mean-time-between-failures-mtbf)
+- [Mean Time to Production](/handbook/engineering/infrastructure/performance-indicators/#mean-time-to-production-mttp)
+- [Disaster Recovery Time to Recovery](/handbook/engineering/infrastructure/performance-indicators/#disaster-recovery-dr-time-to-recover)
 
 ## Hiring Process
 

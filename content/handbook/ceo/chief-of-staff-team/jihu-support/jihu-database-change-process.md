@@ -55,7 +55,7 @@ a partial index to reduce its size on GitLab, for example:
 CREATE INDEX user_details_phone ON user_details (phone_number) WHERE phone_number IS NOT NULL
 ```
 
-Adding indexes to an existing GitLab column will need to be reviewed by the [database group](https://about.gitlab.com/handbook/engineering/development/enablement/data_stores/database/) on a case-by-case basis.
+Adding indexes to an existing GitLab column will need to be reviewed by the [database group](/handbook/engineering/infrastructure/core-platform/data_stores/database/) on a case-by-case basis.
 
 In all cases, we annotate the index with a PostgreSQL comment to indicate the index is JiHu-specific.
 
@@ -63,17 +63,13 @@ Optional: In order to reduce the overhead on GitLab.com, we may want to choose t
 
 #### Additional objects
 
-Other types of database objects, e.g. triggers, functions, extensions, etc., will need to be reviewed by the [database group](https://about.gitlab.com/handbook/engineering/development/enablement/data_stores/database/) on a case-by-case basis.
+Other types of database objects, e.g. triggers, functions, extensions, etc., will need to be reviewed by the [database group](/handbook/engineering/infrastructure/core-platform/data_stores/database/) on a case-by-case basis.
 
 ### Data migrations
 
 A migration that mutates existing data is also merged into the upstream project. However, we'd like to avoid executing JiHu-specific data migrations in a regular GitLab environment, particularly on GitLab.com.
-In order to facilitate this, we are going to implement the ability to target a data migration to a specific environment (e.g. "only in JiHu").
-Later, we plan to extend this mechanic to support targeting on other aspects (e.g. "only on GitLab.com", "only on a particular database" etc.).
 
-[Epic &6705](https://gitlab.com/groups/gitlab-org/-/epics/6705) details this work, which the [database group](https://about.gitlab.com/handbook/engineering/development/enablement/data_stores/database/) will execute upon.
-
-Until those mechanics are available, any JiHu-specific data migration (including background migrations) will need to be reviewed by the [database group](https://about.gitlab.com/handbook/engineering/development/enablement/data_stores/database/) on a case-by-case basis.
+Any JiHu-specific data migration (including background migrations) is encouraged to target JiHu environments only and will need to go through the standard [database review process](https://docs.gitlab.com/ee/development/database_review.html).
 
 ### Switching between GitLab and JiHu
 
@@ -116,4 +112,4 @@ In order to increase the review efficiency when creating a merge request from a 
 
 ### Questions?
 
-Please engage with the [database group](https://about.gitlab.com/handbook/engineering/development/enablement/data_stores/database/) for any questions and support.
+Please engage with the [database group](/handbook/engineering/infrastructure/core-platform/data_stores/database/) for any questions and support.

@@ -12,7 +12,7 @@ We have several training modules that Support team members can complete to gain 
 
 #### Creating a Module Checklist
 
-If a topic has a link to **Docs**, you will need to create and document the learning path as you go. Take a look at the [Geo Checklist](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/Geo.md) for a complete example. Replace the link to the **Docs** with a link to the checklist and put a **(WIP)** after your link to let people know that they won't get the expert badge by finishing the list in its current state.
+If a topic has a link to **Docs**, you will need to create and document the learning path as you go. Take a look at the [Geo Checklist](https://gitlab.com/gitlab-com/support/support-training/blob/main/.gitlab/issue_templates/Geo.md) for a complete example. Replace the link to the **Docs** with a link to the checklist and put a **(WIP)** after your link to let people know that they won't get the expert badge by finishing the list in its current state.
 
 #### Picking a Topic
 
@@ -41,9 +41,9 @@ A **Deep Dive** is a session is to share knowledge about a particular topic, wit
 
 Some examples of deep dives would be:
 
-- GitLab Geo on Omnibus (building off the [Geo module](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/Geo.md))
+- GitLab Geo on Omnibus (building off the [Geo module](https://gitlab.com/gitlab-com/support/support-training/blob/main/.gitlab/issue_templates/Geo.md))
 - ElasticSearch with GitLab (building off [GitLab's ElasticSearch documentation](https://docs.gitlab.com/ee/integration/elasticsearch.html))
-- Configure CI for an advanced use case (e.g., Configuring docker-in-docker, using it to build an image, and then optimizing the Docker image build time by utilizing Docker layer caching) (building off the [CI module](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/CI.md))
+- Configure CI for an advanced use case (e.g., Configuring docker-in-docker, using it to build an image, and then optimizing the Docker image build time by utilizing Docker layer caching) (building off the [CI module](https://gitlab.com/gitlab-com/support/support-training/blob/main/.gitlab/issue_templates/CI.md))
 
 #### Goals
 

@@ -1,0 +1,11 @@
+{{- /*  Initialize. */}}
+{{- $department := "" }}
+
+{{- /* Get params. */}}
+{{- with (.Get 0) }}
+  {{- $department = . }}
+{{- else }}
+  {{- errorf "The %q shortcode requires a single positional argument."}}
+{{- end }}
+
+{{ len (where site.Data.public.team "departments" "intersect" (slice $department)) }}

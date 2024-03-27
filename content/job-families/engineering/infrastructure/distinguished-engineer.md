@@ -19,7 +19,7 @@ This role reports to Director-level managers.
 
 ### Job Grade
 
-The Distinguished Engineer is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Distinguished Engineer is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Requirements
 
@@ -94,7 +94,7 @@ The Senior Distinguished Engineer role reports to and acts as the individual con
 
 ### Job Grade
 
-The Senior Distinguished Engineer is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Distinguished Engineer is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Requirements
 
@@ -116,4 +116,4 @@ Share our company values, and work in accordance with those values.
 
 ## Career Ladder
 
-For more details on the engineering career ladders, please review the [engineering career development](https://about.gitlab.com/handbook/engineering/career-development/#roles) handbook page.
+For more details on the engineering career ladders, please review the [engineering career development](/handbook/engineering/careers/#roles) handbook page.

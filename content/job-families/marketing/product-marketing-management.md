@@ -9,7 +9,7 @@ The Senior Manager, Product Marketing reports to the Director of Product Marketi
 
 #### Senior Manager, Product Marketing Job Grade
 
-The Senior Manager, Product Marketing is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Product Marketing is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Product Marketing Responsibilities
 
@@ -42,7 +42,7 @@ The Director, Product Marketing reports to the Senior Director, Product & Soluti
 
 #### Director, Product Marketing Job Grade
 
-The Director, Product Marketing is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Director, Product Marketing is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Director, Product Marketing Responsibilities
 
@@ -76,7 +76,7 @@ The Senior Director, Product & Solutions Marketing reports to the Vice President
 
 #### Senior Director, Product & Solutions Marketing Job Grade
 
-The Senior Director, Product & Solutions Marketing is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Senior Director, Product & Solutions Marketing is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Senior Director, Product & Solutions Marketing Responsibilities
 
@@ -114,7 +114,7 @@ This Manager, Partner and Channel Marketing reports to the Director of Product M
 
 #### Manager, Partner and Channel Marketing Job Grade
 
-The Manager, Partner and Channel Marketing is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Partner and Channel Marketing is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Partner and Channel Marketing Responsibilities
 
@@ -148,14 +148,14 @@ The Director, Global Partner Marketing reports to
 
 #### Director, Global Partner Marketing Job Grade
 
-The Director, Global Partner Marketing is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Global Partner Marketing is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, Global Partner Marketing Responsibilities
 
 - Develop worldwide partner marketing strategy, develop GTM partner marketing plans, metrics and KPIs in alignment with FY22 planning and GTM goals for Partner Initiated Opportunities (PIOs) that are both incremental to our business or represent growth opportunities with existing customers.
 - Work with Technology and Ecosystem alliance partners to identify, develop and execute joint Go To Market (GTM) campaigns.  Identify and integrate Channel partners into these campaigns as appropriate.
 - Lead a team of partner marketers focused on developing scalable, global campaigns aligned to our approved major GTM motions, developed and executed jointly with partners and our demand generation, field marketing, corporate marketing teams to drive demand resulting in PIOs.
-- Develop unique marketing campaigns and messaging to attract and recruit high value partners to become Gitlab channel partners.
+- Develop unique marketing campaigns and messaging to attract and recruit high value partners to become GitLab channel partners.
 - Develop Technology, Ecosystem and Channel Partner  marketing engagement strategy to build share of voice and sales preference for GitLab with partner sales, sales engineers, marketing and C-level.
 - Implement channel partner marketing enablement initiatives, inclusive of programs, tactics, communication vehicles, and enablement tools that will help Channel Partners drive increased market adoption and channel revenue goals.
 - Manage our Market Development Fund (MDF) program including strategy, rules, requests and reimbursement processes.
@@ -194,11 +194,11 @@ The next step for managers of people is to move to the [Director of Product Mark
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates may be invited to interview with the Hiring Manager
 - Next, candidates may be invited to interview with 2-4 Team Members
 - Finally, candidates may be invited to interview with someone from leadership
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

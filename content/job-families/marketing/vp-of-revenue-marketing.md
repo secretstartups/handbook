@@ -5,7 +5,7 @@ description: "Our Vice President of Revenue Marketing is an innovative and energ
 
 Our Vice President of Revenue Marketing is an innovative and energetic leader, with a knack for empowering high performing teams and an ability to get things done. Reporting to the CMO, the Vice President of Revenue Marketing is accountable for creating and executing a scalable marketing strategy to achieve new business pipeline and revenue targets. The Vice President of Revenue Marketing plays an integral role in driving revenue growth for the company across all channels and geos. This is a highly visible global role in the organization, responsible for the development and implementation of effective demand generation programs with an emphasis on lead generation, pipeline creation and nurturing prospects/customers along the buyer’s journey.
 
-The Vice President of Revenue Marketing is an experienced sales and marketing leader with a proven track record of building high performance teams, in rapid-growth environments, to deliver both predictable and sustainable results.  He or she thrives in a fast-paced environment and has a reputation for creating alignment with sales and inspiring trust with sales, based on proven process and metrics. Field Marketing, Account Based Marketing, Marketing Operations and Sales Development (in-bound and outbound lead generation) report into this leader.
+The Vice President of Revenue Marketing is an experienced sales and marketing leader with a proven track record of building high performing teams, in rapid-growth environments, to deliver both predictable and sustainable results.  He or she thrives in a fast-paced environment and has a reputation for creating alignment with sales and inspiring trust with sales, based on proven process and metrics. Field Marketing, Account Based Marketing, Marketing Operations and Sales Development (in-bound and outbound lead generation) report into this leader.
 
 They are accountable for KPIs and quotas that align to sales revenue goals and encompass all sources of pipeline generation. Top areas of focus are tracking the impact of marketing programs on pipeline values, average deal size and close rates globally and by segment.
 
@@ -13,7 +13,7 @@ Our Vice President of Revenue Marketing has proven success collaborating with al
 
 #### Job Grade
 
-The Vice President of Revenue Marketing role is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Vice President of Revenue Marketing role is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
 
@@ -40,7 +40,7 @@ The Vice President of Revenue Marketing role is a [grade 12](https://about.gitla
 - Must understand the difference between a leader and a manager
 - Experience managing external vendors and agencies
 - Exemplary work ethic; takes the initiative and thinks creatively to get the job done
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
+- [Leadership at GitLab](/handbook/company/structure/#director-group)
 - Ability to use GitLab
 
 ## Performance Indicators
@@ -53,10 +53,10 @@ The Vice President of Revenue Marketing role is a [grade 12](https://about.gitla
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
-Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#conducting-a-screening-call) with one of our Global Recruiters.
+Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#conducting-a-screening-call) with one of our Global Recruiters.
 
 - A 45 minute interview with Chief Marketing Officer
 - A 30 minute interview with Senior Director of Strategic Marketing
@@ -66,4 +66,4 @@ Qualified candidates will be invited to schedule a 30 minute [screening call](ht
 
 ## Relevant Links
 
-- [Marketing Handbook](https://about.gitlab.com/handbook/marketing/)
+- [Marketing Handbook](/handbook/marketing/)

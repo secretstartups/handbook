@@ -1,8 +1,12 @@
 ---
 title: "Migration Details"
 description: "Handbook Content is on the move.  This gives the time table and the individual files which are being migrated."
+aliases: /handbook/content-websites/handbook-migration/migration-details/
 ---
+
 ## Migration Timetable and Status
+
+The handbook migration is now completed and the old handbook content has been removed.
 
 {{% migration-timetable %}}
 
@@ -853,7 +857,7 @@ company/culture/all-remote/scaling/index.html.md.erb
 company/culture/all-remote/in-person/index.html.md
 company/culture/all-remote/parenting/index.html.md.erb
 company/culture/all-remote/getting-started/index.html.md.erb
-company/culture/all-remote/handbook-first-documentation/index.html.md.erb
+company/culture/all-remote/handbook-first/index.html.md.erb
 company/culture/all-remote/internship/index.html.md
 company/culture/all-remote/people/index.html.md.erb
 company/culture/all-remote/history/index.html.md
@@ -2809,11 +2813,11 @@ engineering/career-development/matrix/engineering/principal/index.html.md.erb
 engineering/career-development/matrix/engineering/_engineering_staff_leadership_competency.erb
 engineering/career-development/matrix/engineering/_engineering_senior_leadership_competency.erb
 engineering/career-development/matrix/engineering/quality/_quality_career_matrix_nav.erb
-engineering/career-development/matrix/engineering/quality/engineering-productivity/senior/index.html.md.erb
-engineering/career-development/matrix/engineering/quality/engineering-productivity/_ep_career_matrix_nav.erb
-engineering/career-development/matrix/engineering/quality/engineering-productivity/staff/index.html.md.erb
-engineering/career-development/matrix/engineering/quality/engineering-productivity/intermediate/index.html.md.erb
-engineering/career-development/matrix/engineering/quality/engineering-productivity/index.html.md.erb
+engineering/career-development/matrix/engineering/infrastructure/engineering-productivity/senior/index.html.md.erb
+engineering/career-development/matrix/engineering/infrastructure/engineering-productivity/_ep_career_matrix_nav.erb
+engineering/career-development/matrix/engineering/infrastructure/engineering-productivity/staff/index.html.md.erb
+engineering/career-development/matrix/engineering/infrastructure/engineering-productivity/intermediate/index.html.md.erb
+engineering/career-development/matrix/engineering/infrastructure/engineering-productivity/index.html.md.erb
 engineering/career-development/matrix/engineering/quality/software-engineer-in-test/senior/index.html.md.erb
 engineering/career-development/matrix/engineering/quality/software-engineer-in-test/principal/index.html.md.erb
 engineering/career-development/matrix/engineering/quality/software-engineer-in-test/staff/index.html.md.erb
@@ -2939,13 +2943,13 @@ engineering/fast-boot/index.html.md
 engineering/performance-indicators/maturity/index.html.md.erb
 engineering/performance-indicators/index.html.md.erb
 engineering/okrs/index.html.md
-engineering/quality/engineering-productivity/gdk/index.html.md
-engineering/quality/engineering-productivity/workflow-automation/index.html.md
-engineering/quality/engineering-productivity/flaky-tests/index.html.md
-engineering/quality/engineering-productivity/prioritization.html.md
-engineering/quality/engineering-productivity/index.html.md.erb
-engineering/quality/triage-operations/index.html.md
-engineering/quality/triage-operations/onboarding/index.html.md
+engineering/infrastructure/engineering-productivity/gdk/index.html.md
+engineering/infrastructure/engineering-productivity/workflow-automation/index.html.md
+engineering/infrastructure/engineering-productivity/flaky-tests/index.html.md
+engineering/infrastructure/engineering-productivity/prioritization.html.md
+engineering/infrastructure/engineering-productivity/index.html.md.erb
+engineering/infrastructure/engineering-productivity/triage-operations/index.html.md
+engineering/infrastructure/engineering-productivity/triage-operations/onboarding/index.html.md
 engineering/quality/performance-indicators/index.html.md.erb
 engineering/quality/quality-engineering/tips-and-tricks/index.html.md
 engineering/quality/quality-engineering/ops-qe-team/index.html.md.erb
@@ -2960,18 +2964,18 @@ engineering/quality/quality-engineering/test-metrics-dashboards/index.html.md.er
 engineering/quality/quality-engineering/learning-resources/index.html.md.erb
 engineering/quality/quality-engineering/oncall-rotation/index.html.md.erb
 engineering/quality/quality-engineering/fulfillment-growth-qe-team/index.html.md.erb
-engineering/quality/quality-engineering/enablement-saas-platforms-qe-team/distribution/index.html.md
-engineering/quality/quality-engineering/enablement-saas-platforms-qe-team/index.html.md.erb
+engineering/quality/quality-engineering/self-managed-platform-team/distribution/index.html.md
+engineering/quality/quality-engineering/self-managed-platform-team/index.html.md.erb
 engineering/quality/quality-engineering/test-coverage/index.html.md.erb
 engineering/quality/quality-engineering/dev-qe-team/index.html.md.erb
 engineering/quality/quality-engineering/bug-prioritization/index.html.md.erb
 engineering/quality/quality-engineering/index.html.md.erb
 engineering/quality/roadmap/index.html.md.erb
 engineering/quality/engineering-analytics/index.html.md.erb
-engineering/quality/project-management/index.html.md
-engineering/quality/issue-triage/index.html.md
+engineering/infrastructure/engineering-productivity/project-management/index.html.md
+engineering/infrastructure/engineering-productivity/issue-triage/index.html.md
 engineering/quality/performance-and-scalability/index.html.md.erb
-engineering/quality/merge-request-triage/index.html.md
+engineering/infrastructure/engineering-productivity/merge-request-triage/index.html.md
 engineering/quality/onboarding/index.html.md
 engineering/quality/index.html.md.erb
 engineering/development/database/index.html.md.erb

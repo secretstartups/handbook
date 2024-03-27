@@ -31,7 +31,7 @@ The Senior Creative Operations Manager reports to the Director, Brand.
 
 #### Job Grade
 
-The Senior Creative Operations Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Creative Operations Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 

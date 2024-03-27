@@ -3,7 +3,7 @@ title: "GitLab Continuous Security Framework"
 description: "The GitLab Continuous Security Framework workflow"
 ---
 
-## Gitlab Continuous Security Framework
+## GitLab Continuous Security Framework
 
 *Disclaimer: This page is part of a
 [POC](https://gitlab.com/groups/gitlab-com/gl-security/-/epics/169) and should not be used without
@@ -14,7 +14,7 @@ please comment in this
 Security is often being involved late in the life cycle of feature development. To prevent this,
 security is bundled into the [Software Development Lifecycle](https://about.gitlab.com/stages-devops-lifecycle/), in every
 stage of the workflow. Eventually, features are meant to reach production, but have to pass the
-[production readiness review](https://about.gitlab.com/handbook/engineering/infrastructure/production/readiness/) gate
+[production readiness review](/handbook/engineering/infrastructure/production/readiness/) gate
 first. In order to facilitate this process, the framework supports the engineering team all along
 the life cycle of the feature, to facilitate the creation of the required documentation and other
 artifacts.
@@ -26,7 +26,7 @@ level increases, up to Red data.
 
 The framework targets mostly Engineering Managers and their team, but also Product Managers, to
 track progress from the early phases of the [Product Development
-Workflow](https://about.gitlab.com/handbook/product-development-flow/), to the release or deployment to production.
+Workflow](/handbook/product-development-flow/), to the release or deployment to production.
 
 Once released or deployed, the SDLC loops and a new iteration can start. The framework continues to
 support the team with insights and recommendations. More importantly, changes in the framework
@@ -122,5 +122,5 @@ efforts.
 
 [Security Assurance]: {{< ref "security-assurance" >}}
 [Security Architects]:{{< ref "../architecture" >}}
-[InfraSec]: {{< ref "../security-engineering/infrastructure-security" >}}
-[AppSec]: {{< ref "../security-engineering/application-security" >}}
+[InfraSec]: {{< ref "../product-security/infrastructure-security" >}}
+[AppSec]: {{< ref "../product-security/application-security" >}}

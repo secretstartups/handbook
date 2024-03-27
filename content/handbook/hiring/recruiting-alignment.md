@@ -7,33 +7,33 @@ description: "This page is an overview of the search team alignment and the tale
 
 | Department                    | Recruiter   | Candidate Experience Specialist    |
 |--------------------------|-----------------|-------------------------------------|
-| Executive          | Rich Kahn    | Sruthy Menon  |
-| Executive          | Zach Choquette   | Sruthy Menon  |
-| Enterprise Sales, NA | Kevin Rodrigues |Michelle Jubrey |
-| Enterprise Sales, APAC | Yas Priatna | Lerato Thipe |
-| Enterprise Sales, EMEA | Kannwal Matharu | Lerato Thipe |
-| Commercial Sales, AMER | Marcus Carter | Michelle Jubrey |
-| Commercial Sales, AMER | Hannah Stewart  | Michelle Jubrey |
-| Commercial Sales, EMEA | Ben Cowdry | Lerato Thipe |
-| Channel Sales, EMEA | Kanwal Matharu  | Lerato Thipe |
-| Field Operations, US/EMEA | Kelsey Hart  | Alice Crosbie |
-| Customer Success, EMEA | Joanna Muttiah | Lerato Thipe |
-| Customer Success, NA | Barbara Dinoff |  Sruthy Menon |
-| All Sales, APAC | Yas Priatna  | Lerato Thipe |
-| Marketing, Global | Steph Sarff | Michelle Jubrey |
-| Marketing, BDR/SDR (Global)| Caroline Rebello |  Alice Crosbie |
-| G&A, Legal | Steph Sarff | Michelle Jubrey |
-| G&A, Accounting, People | Steph Sarff | Michelle Jubrey |
-| G&A, IT | Kelsey Hart | Alice Crosbie |
-| Internal | Jenna VanZutphen | Sruthy Menon |
-| Development | Mark Deubel & Sara Currie | Guido Rolli |
-| Quality | Riley Smith & Dielle Kuffel |  Guido Rolli |
-| Infrastructure   | Riley Smith & Dielle Kuffel | Guido Rolli |
-| Support | Joanna Michniewicz  |  Alice Crosbie |
-| Security | Matt Angell | Alice Crosbie |
-| Incubation | Matt Angell  | Alice Crosbie |
-| Product Management  | Matt Angell  | Alice Crosbie |
-| UX  | Riley Smith | Guido Rolli |
+| Executive          | Rich Kahn    | Michelle Jubrey  |
+| Executive          | Zach Choquette   | Michelle Jubrey  |
+| Enterprise Sales, AMER | Kevin Rodrigues |Sarah Lynch |
+| Enterprise Sales, EMEA | Joanna Tourne | Lerato Thipe |
+| Customer Success & Solutions Architect | Ornella Miles | Lerato Thipe |
+| Commercial Sales/R&D, EMEA | Ben Cowdry | Lerato Thipe |
+| Sales, AMER | Marcus Carter | Jazmin Armstrong |
+| Sales | Kelsey Hart  | Fernando Khubeir |
+| Customer Success, AMER | Barbara Dinoff |  Sarah Lynch |
+| All Business, APAC | Yas Priatna  | Lerato Thipe |
+| Marketing/ G&A, Global | Steph Sarff | Michelle Jubrey |
+| Marketing, BDR/SDR/G&A (Global)| Caroline Rebello |  Michelle Jubrey |
+| G&A | Hannah Stewart  | Jazmin Armstrong |
+| G&A | Jenna VanZutphen  | Fernando Khubeir |
+| G&A | Aiste Juozaponyte  | Fernando Khubeir |
+| Engineering, Development | Matt Angell, Chux Ugorji | Alice Crosbie |
+| Engineering, Development | Sara Currie | Jazmin Armstrong |
+| Engineering, Development | Heather Tarver | Sarah Lynch |
+| Engineering, Development | Joe Guiler, Seema Anand, Anna Kioukis | Teranay Dixon |
+| Engineering, Infrastucture   | Maxx Snow | Teranay Dixon  |
+| Engineering, Infrastucture   | Michelle A. Kemp | Sarah Lynch  |
+| Engineering, Infrastucture   | Aziz Quadri | Alice Crosbie  |
+| Customer Support | Joanna Michniewicz  |  Alice Crosbie |
+| Product Management | Holly Nesselroad | Fernando Khubeir |
+| Security | Holly Nesselroad | Fernando Khubeir |
+| Design/UX  | Riley Smith | Lerato Thipe  |
+
 
 For urgent requests of the Candidate Experience Specialist team, we encourage you to contact them by also tagging @CES in Slack messages and CC'ing CES@gitlab.com on emails.
 
@@ -42,24 +42,22 @@ For urgent requests of the Candidate Experience Specialist team, we encourage yo
 | Department                    | Leader      |
 |--------------------------|-----------------|
 | Talent Acquisition         | Jess Dallmar |
-| Talent Brand and Enablement | Devin Rogozinski |
+| Talent Brand | Devin Rogozinski |
 | Talent Acquisition (Sales) | Jake Foster|
 | Talent Acquisition (EMEA and APAC Sales) | Jake Foster |
-| Talent Acquisition (Marketing) | Steph Sarff/Jake Foster |
-| Talent Acquisition (G&A) | Jake Foster |
-| Talent Acquisition (R&D) | Ursela Knezevic |
-| Talent Acquisition (R&D: Customer Support & Development) | Paul Hardy/Ursela Knezevic |
-| Talent Acquisition (R&D: Infrastructure/Quality, Security, Product/UX, Incubation) | Ursela Knezevic |
+| Talent Acquisition (Marketing & G&A) | Steph Sarff + Jake Foster |
+| Talent Acquisition (G&A) | Steph Sarff + Jake Foster |
+| Talent Acquisition (Development) | TBA |
+| Talent Acquisition (Specialty Tech): | Jake Foster |
+| Talent Acquisition (R&D: Infrastructure) | TBA |
 | Talent Acquisition (Executive) | Rich Kahn |
-| Enablement | Marissa Ferber |
-| Candidate Experience | Ale Ayala/Marissa Ferber |
+| Enablement | Marissa Farris |
+| Candidate Experience | Ale Ayala + Marissa Farris |
 
 ## Talent Acquisition Platform Directly Responsible Individual
 
 | Platform                    | Responsibility        | DRI     |
 |--------------------------|-----------------|-----------------|
-| Comparably | Admin  | Devin Rogozinski/Marissa Ferber |
-| Comparably | Content Management | Devin Rogozinski |
 | Glassdoor | Admin  | Devin Rogozinski |
 | Glassdoor | Responding to Reviews  | Devin Rogozinski |
 | Glassdoor | Content Management | Devin Rogozinski |
@@ -69,5 +67,3 @@ For urgent requests of the Candidate Experience Specialist team, we encourage yo
 | LinkedIn | Media - Talent Acquisition | Devin Rogozinski |
 | LinkedIn | Content Management | Marketing |
 | LinkedIn | Content Management - Life at GitLab | Devin Rogozinski |
-| New Platform(s) | Requests | @domain |
-| Recruitment Marketing  | Requests | @domain |

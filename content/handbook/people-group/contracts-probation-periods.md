@@ -40,7 +40,7 @@ The Senior Manager, Global Enablement reviews if all Greenhouse tokens are corre
     - Make a copy of the template and save it to the working documents folder on Google Drive to edit
 1. Once the new contract and cover letter have been created, ping a Candidate Experience Specialist for auditing.
 1. Send the audited created documents and any additional details on the correction to Legal for review.
-1. Once approved by Legal stage the cover letter and new contract in DocuSign and send it for signature first to the [Company signatory](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#entity-contract-signatories) and subsequently to the team member.
+1. Once approved by Legal stage the cover letter and new contract in DocuSign and send it for signature first to the [Company signatory](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#entity-contract-signatories) and subsequently to the team member.
 1. Upload the signed documents to the team member's documents folder in Workday.
 1. If applicable, make any necessary updates to the team member's Workday profile and email Total Rewards total-rewards@ gitlab.com and Payroll uspayroll@ gitlab.com or nonuspayroll@ gitlab.com to notify them of the changes.
 
@@ -66,8 +66,13 @@ If an exception request is made to end a probation period early, this should be 
 
 1. Managers are responsible for monitoring and specifically reviewing performance halfway through the probation period of their direct report.
 1. If **underperformance is an issue**, or there is any hesitation regarding the successful completion of a probation period, this should be discussed immediately with Team Member Relations.
-1. 14 days prior to the end of their direct reports' Probation Period, the manager will receive an email from the People Connect Team, reminding them that their direct reports' probation period is coming to an end.
-1. The Hiring Manager will respond confirming their approval of their direct reports' completion of their probation period as well as the scheduled date of their [121]({{< ref "1-1" >}}) to communicate the successful completion, or that they are in discussions with Team Member Relations.
+1. 28 days prior to the end of their direct reports' Probation Period, the manager will receive an email from Workday reminding them that their direct reports' probation period is coming to an end, and that there is a task in Workday for the manager to submit the outcome of the probation period.
+   - **Note:** For team members located in the Netherlands or Austria, the manager will receive an email from Workday, 14 days prior to the end of the probation period.
+1. The Hiring Manager will select the appropriate probation outcome in Workday based on the team member's performance. A helpful job aid can be found [here](https://docs.google.com/document/d/1NSIaigEqFnouax9s_NGB_nXGA1y_8zJB5aZUW63bvog/edit) on this process.
+
+***For Team Members***
+1. If you have successfully passed your probation period, in addition to receiving the good news through your manager, you will also receive a probation period confirmation letter in Workday.
+1. In your inbox, you can review this letter and then select `Submit`. This letter will then be saved in your Workday documents for future reference if needed.
 
 ### Current Locations With Probationary Periods
 
@@ -113,7 +118,7 @@ any inventions or side projects that should be listed on the PIAA.
     - Candidate’s role in the outside employment, project, or activity
 1. Approval will follow the process set out for current team members. Any potential conflict of interest must be disclosed to and approved by the Chief Legal Officer in line with the Code of Business Conduct & Ethics.
 1. If the candidate entered No or None CES will continue processing the application.
-1. If the candidate discloses any inventions or side projects that should be listed on the PIAA, CES will notify the People Connect Team by emailing people-connect@gitlab.com with the link to the candidate's Greenhouse profile and PDF of the form. The subject line will include the candidate's name. From there, People Connect will follow their process per the [internal handbook](https://internal.gitlab.com/handbook/people-group/people-operations/people-connect/onboarding_process/#piaa). Both teams can reach out to legal_employment@gitlab.com for review of the disclosures and specific wording that may need to be added to the PIAA if necessary.
+1. If the candidate discloses any inventions or side projects that should be listed on the PIAA, CES will notify the People Connect Team by emailing `people-connect@gitlab.com` with the link to the candidate's Greenhouse profile and PDF of the form. The subject line will include the candidate's name. From there, People Connect will follow their process per the [internal handbook](https://internal.gitlab.com/handbook/people-group/people-operations/people-connect/onboarding_process/#piaa). Both teams can reach out to `legal_employment@gitlab.com` for review of the disclosures and specific wording that may need to be added to the PIAA if necessary.
 
 #### Steps as a current team member
 
@@ -130,7 +135,7 @@ any inventions or side projects that should be listed on the PIAA.
 
 1. The manager will ask any additional questions if necessary. A manager may not approve a request for outside projects or activities for a variety of reasons, including team member performance or a provision in an individual employment contract which provides otherwise.
 1. If the manager and Team Member Relations **approves**, they will then confirm this in the thread and add the applicable Director-level leader to the thread, for their review and approval. If the direct manager is also at a Director-level, they will add the next level leader (VP or C-level as appropriate) to the email thread for review and approval.
-1. If a decision by the manager and Team Member Relations is made to **deny**, the manager will relay this to the team member, and then will forward the email thread to the People Connect Team member at `people-connect@gitlab.com' to be saved in the team member's Workday Documents folder.
+1. If a decision by the manager and Team Member Relations is made to **deny**, the manager will relay this to the team member, and then will forward the email thread to the People Connect Team member at `people-connect@gitlab.com` to be saved in the team member's Workday Documents folder.
 1. If the Director/next-level leader feels additional review and approval is needed, they will then add the next level leader (VP or C-level as appropriate) to the email thread. If this is not deemed necessary, the Director/next-level leader will respond indicating their approval.
 *Note: A minimum of two leaders must review all outside projects up to the E-group leader. If the E-group leader is the next level manager, the E-group leader approval or denial is sufficient.  Direct manager and Director-level are the usual levels. If the direct manager is at a Director-level, an additional level must approve or deny.*
 1. If the next level leader (VP or C-level) and Team Member Relations team feels additional review and guidance is needed, they will add the Senior Director of Legal, Employment and any other relevant leader to the thread. Any potential conflict of interest must be disclosed to and approved by the Chief Legal Officer in line with the [Code of Business Conduct & Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d)
@@ -144,7 +149,7 @@ For any approved outside activity in which the GitLab team member will use their
 
 Employees are required to review and acknowledge GitLab's [Code of Business Conduct & Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d) (aka "CoBCE") upon starting employment at GitLab, and annually thereafter, regardless if there are any changes to the code.
 
-The [People Connect Team]({{< ref "/job-families/people-group/people-connect" >}}) tracks the Code of Business Conduct & Ethics [signature completion by new hires](https://internal.gitlab.com/handbook/people-group/people-operations/people-connect/onboarding_process/#request-signature-for-code-of-conduct-2021-acknowledgement-of-relocation-2021-consent-to-collect-and-use-data-regarding-race-ethnicity-and-social-media-policy-acknowledgment) during onboarding. The [People Compliance team]({{< ref "/job-families/people-group/people-compliance" >}}) oversees and administers the annual signature process, which is tracked and distributed through Workday. The annual signature process usually launches in April if every year. Process steps include:
+The [People Connect Team](/job-families/people-group/people-connect) tracks the Code of Business Conduct & Ethics [signature completion by new hires](https://internal.gitlab.com/handbook/people-group/people-operations/people-connect/onboarding_process/#request-signature-for-code-of-conduct-2021-acknowledgement-of-relocation-2021-consent-to-collect-and-use-data-regarding-race-ethnicity-and-social-media-policy-acknowledgment) during onboarding. The [People Compliance team](/job-families/people-group/people-compliance) oversees and administers the annual signature process, which is tracked and distributed through Workday. The annual signature process usually launches in April if every year. Process steps include:
 
 1. Legal reviews the most current version of the CoBCE. If any changes are suggested, they are incorporated and a most up-to-date version is created and updated to the Investor Relations section of our handbook.
 1. The most current and updated CoBCE is uploaded to Workday and is formatted as to log team member's acknowledgment of the document, as well as the date it was acknowledged.
@@ -187,16 +192,17 @@ When renewing a contract, if it is to be for 12 months, the timeframes are at be
 
 1. Add the team member's contract details to the People Connect Task [Tracker](https://docs.google.com/spreadsheets/d/1Z45eOZ2rCRIKgGae3eOKQ8lhIbAPikSs5gLz3V8Kh9U/edit?ts=5e7a2c42#gid=84302455) under the Contracts tab. On the sheet you will assign the People Connect Team member owner, if you are the owner be sure to note the end date and start the below process 2 months before the end date.
 1. Take note of the team members details and reach out to the team members manager via email using the following [template](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/netherlands_temp_contract_renewal.md).
-1. Once you have received confirmation on next steps from the team members line manager, be sure to save the thread under the team members profile in Workday.
-1. Using the correct contract template from the [templates folder](https://internal.gitlab.com/handbook/people-group/people-operations/people-connect/employment_contracts/#employment-agreements) complete with required team member details. These details can be found on the team members Workday profile.
-1. Do not keep the `Stock Options` line in the Key Terms section, unless additional shares are being given.
-1. Be sure to write both the Start date and Birth date of the team member in the **Month DD, YYYY** format to prevent confusion.
-1. Remove any wording regarding Probation Period [if applicable](#probation-period).
+1. Once you have received confirmation on next steps from the team members line manager, be sure to save the thread under the team member's profile in Workday in the 'Approvals - Confidential' document folder.
+1. Using the correct contract template from the [templates folder](https://internal.gitlab.com/handbook/people-group/people-operations/people-connect/employment_contracts/#employment-agreements) complete with required team member details. These details can be found on the team member's Workday profile.
+- As we would honour the original hire date in terms of GitLab seniority add the following sentence into the contract after the contract start date: "Your continuity of service for statutory purposes begins on the {{Original Hire Date}}."
+- Do not keep the `Stock Options` line in the Key Terms section, unless additional shares are being given.
+- Be sure to write both the Start date and Birth date of the team member in the **Month DD, YYYY** format to prevent confusion.
+- Remove any wording regarding Probation Period [if applicable](#probation-period).
 1. When you have a completed contract be sure to allow a team member to peer review it for you. This can be done by posting the document link in the connect-ops-team private slack channel. Indicate that you are reviewing it by using the 'Eyes' emoji.
 1. Once reviewed, stage the contract for signing in Docusign.
 1. Ensure that the GitLab signatory is the first to sign, followed by the team member. This can be done by selecting the assign signing order option.
 1. When signed by both parties, save the contract to the team member's Workday Documents folder.
-1. Update Workday to reflect the correct Job Information. Ensure the new contract information is added along with an end date if applicable.
+1. [Update Workday](https://docs.google.com/document/d/1qnRUH2vkBGDi1hWnpGjvfF0G1GvfZLVHUVFuKeu9vKI/edit) to reflect the new contract information along with an end date if applicable.
 1. Notify the People Connect team so that they may audit any Workday changes.
 1. The People Connect Team member updates the People Connect Task [Tracker](https://docs.google.com/spreadsheets/d/1Z45eOZ2rCRIKgGae3eOKQ8lhIbAPikSs5gLz3V8Kh9U/edit?ts=5e7a2c42#gid=84302455) confirming the contract has been completed.
 
@@ -213,13 +219,16 @@ When renewing a contract, if it is to be for 12 months, the timeframes are at be
 1. At least 1 month before the end of the contract, the manager informs the team member of the extension or not.
 1. If a salary increase is required due to updated [visa salary requirements]({{< ref "visas#right-to-immigrate-to-the-netherlands" >}}) the People Connect Team member requests approvals from the team member's manager, total rewards and finally the team member's Division's E-Group leader.
 1. The People Connect Team member uploads the approval to the Workday Documents folder.
-1. If the contract extension is approved, the People Connect Team member creates the contract and stages it via Docusign for the team member and [GitLab signatory](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#entity-contract-signatories) to sign. Add hr@savvy-group.eu to 'Receive a copy' once signed.
+1. If the contract extension is approved, the People Connect Team member creates the contract
+- As we would honour the original hire date in terms of GitLab seniority add the following sentence into the contract after the contract start date: "Your continuity of service for statutory purposes begins on the {{Original Hire Date}}."
 - Do not keep the `Stock Options` line in the Key Terms section, unless additional shares are being given.
 - Be sure to write both the Start date and Birth date of the team member in the **Month DD, YYYY** format to prevent confusion.
 - Check whether the team member is currently paid the holiday allowance monthly. If yes, confirm with the team member whether we can update to yearly. If the team member agrees to update, ensure to update pay frequency. If no, confirm okay with Legal - Employment and ensure to add correct wording to this effect in new contract. To streamline the process all team members should receive the holiday allowance yearly.
 - Remove any wording regarding Probation Period [if applicable](#probation-period).
 - Note: A second [probation period](#probation-period) should only be implemented if the team member's new contract reflects the start of an [entirely new role](https://wsadvocaten.nl/probationary-period-netherlands-dutch-law/). If the contract is simply a continuation of employment in the current role, a second probation period should not be applied.
 - Remove any wording regarding certificate of good conduct, as this was already requested as part of their first Netherlands contract.
+1. The People Connect team member stages the contract via Docusign for the [GitLab signatory](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#entity-contract-signatories) and the team member to sign. Add hr@savvy-group.eu to 'Receive a copy' once signed.
+- If another temporary contract is issued follow [these steps](https://gl-people-operations.gitlab.io/internal-handbook/people_connect/lead/#netherlands-renewal-process---temporary-contracts) and include the mentioned message when sending the contract via DocuSign
 1. The People Connect Team member uploads the signed contract to the team members Workday Documents folder.
 1. The People Connect Team member [updates Workday to reflect the new contract](https://docs.google.com/document/d/1qnRUH2vkBGDi1hWnpGjvfF0G1GvfZLVHUVFuKeu9vKI/edit?usp=sharing): Open the team member's Workday profile > Click on actions > Job Change > add contract. Fill in start and end date, contract type and reason (if applicable)
 1. Notify another People Connect Team member so that they may audit any Workday changes.
@@ -239,8 +248,8 @@ CXC contracts are issued on a yearly basis, with contracts expiring after one ye
 
 - CXC will make contact with team members 2 weeks before their contracts are due to expire.
 - CXC will create renewal contract and send for signing to the relevant team members.
-- Once signed, CXC will send the renewed contract to GitLab.
-- The People Connect Team member files the renewed contract to the team members Workday Documents folder and updates Workday to reflect the new contract: Open the team member's Workday profile > Click on actions > Job Change > add contract. Fill in start and end date, contract type and reason (if applicable)
+- Once signed, CXC will send the renewed contract to People Connect.
+- The People Connect Team member uploads the renewed contract to the team member's Workday Contracts & Changes folder and [updates Workday](https://docs.google.com/document/d/1qnRUH2vkBGDi1hWnpGjvfF0G1GvfZLVHUVFuKeu9vKI/edit?usp=sharing) to reflect the new contract.
 
 Standard practice is to automatically renew CXC contracts. The [offboarding process]({{< ref "offboarding" >}}) will apply should a team member be terminated voluntarily or involuntarily.
 

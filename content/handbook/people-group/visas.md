@@ -13,7 +13,7 @@ For assistance with any employment or relocation visa please reach out to the Pe
 
 ## Expensing
 
-You can expense:
+You can expense (for approved GitLab/company events):
 
 - Cost of the VISA
 - Cost of pictures for the VISA
@@ -22,6 +22,9 @@ You can expense:
 - Cost of applying for the [30% ruling](#30-ruling-in-the-netherlands)
 
 You can *not* expense relocation costs.
+
+Please note, that GitLab is only able to cover the costs of one VISA attempt. If your VISA request is rejected, team members are free to re-submit at their discretion and any additional costs will be need to be covered by the team member.
+Please refer to the [Global Travel and Expense Policy Handbook Page](https://handbook.gitlab.com/handbook/finance/expenses/#visaspermitscovid-tests) for more information regarding the reimbursement.
 
 ### Arranging a visa for travel
 
@@ -98,12 +101,12 @@ It is possible to make an appointment within 2 weeks.
 
 ### Right to Immigrate to the Netherlands
 
-If a team member wishes to immigrate and relocate to the Netherlands, they will need to first follow the [relocation process](https://about.gitlab.com/handbook/people-group/relocation/) and requirements and obtain approval to relocate.  Once approved, team members will also need to pass the formal visa application process to qualify. The requirements are:
+If a team member wishes to immigrate and relocate to the Netherlands, they will need to first follow the [relocation process](/handbook/people-group/relocation/) and requirements and obtain approval to relocate.  Once approved, team members will also need to pass the formal visa application process to qualify. The requirements are:
 
 1. When using the [compensation calculator]({{< ref "calculator" >}}) you must meet the Dutch salary requirement for [highly skilled migrants for 3 more years](https://ind.nl/en/Pages/required-amounts-income-requirement.aspx#Application_for_residence_permit_highly_skilled_migrant_and_European_Blue_Card)
     - Note, that the Dutch government has a higher requirement for team members aged 30 and above. The age related wage requirement does not increase when reaching 30 if you already have an approved migrant visa (with the same employer).
     - The following pay elements are not included in the salary criterion and can't be used to meet the mimimum salary requirement: Vacation allowance; the value of payment made in kind; Uncertain, non-regular pay elements (for example overtime allowances, variable boni and payments from funds).
-    - *Note: This calculation should be based on what GitLab*would*pay the team member in the Netherlands in accordance with the compensation calculator,*not*based on the team member's current salary.*
+    - *Note: This calculation should be based on what GitLab **would** pay the team member in the Netherlands in accordance with the compensation calculator, **not** based on the team member's current salary.*
 1. You have been a team member at GitLab for one year.
 1. You are not on a Performance Improvement Plan (PIP).
 
@@ -111,7 +114,7 @@ If a team member wishes to immigrate and relocate to the Netherlands, they will 
 
 Tenure of less than 1 year at GitLab may be possibly waived as a requirement if:
 
-- You are a member of an [underrepresented](https://about.gitlab.com/company/culture/inclusion/#definitions) group that is unsafe or in any way mistreated in your country.
+- You are a member of an [underrepresented](/handbook/company/culture/inclusion/#definitions) group that is unsafe or in any way mistreated in your country.
 - Violence in your country does not provide a safe environment.
 
 If you meet these requirements, kindly read our [Relocation]({{< ref "relocation" >}}) handbook page, as well as our specific [Netherlands section]({{< ref "relocation#relocating-to-the-netherlands" >}}), to ensure that your request is evaluated and approved following our protocols. **Please email people-connect@gitlab.com if you have any questions.**
@@ -242,7 +245,7 @@ Everyone that meets the following requirements can request to immigrate and relo
 
 1. When using the [compensation calculator]({{< ref "calculator" >}}) you must meet the salary requirement for [Requirements to receive a Blue Card](https://www.make-it-in-germany.com/en/visa-residence/types/eu-blue-card)
 - The following pay elements are not included in the salary criterion and can't be used to meet the minimum salary requirement: The value of payment made in kind; Uncertain, non-regular pay elements (for example overtime allowances, variable bonus and payments from funds).
-- *Note: This calculation should be based on what GitLab*would*pay the team member in Germany in accordance with the compensation calculator,*not*based on the team member's current salary.*
+- *Note: This calculation should be based on what GitLab **would** pay the team member in Germany in accordance with the compensation calculator, **not** based on the team member's current salary.*
 1. You have been a team member at GitLab for one year.
 1. You are not on a Performance Improvement Plan (PIP).
 

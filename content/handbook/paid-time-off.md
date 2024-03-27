@@ -1,5 +1,5 @@
 ---
-title: "Paid time off at GitLab"
+title: "Paid Time Off at GitLab"
 ---
 
 ## Introduction
@@ -8,9 +8,9 @@ This policy relates to the types of leaves that GitLab offers and the guidelines
 
 ## Paid Time Off
 
-Time away from work can be extremely helpful for maintaining a [healthy work/life balance](https://about.gitlab.com/company/culture/all-remote/people/#worklife-harmony). GitLab encourages managers and [leadership]({{< ref "leadership" >}}) to set the example by taking time off when needed, and ensuring their reports do the same.
+Time away from work can be extremely helpful for maintaining a [healthy work/life balance](/handbook/company/culture/all-remote/people/#worklife-harmony). GitLab encourages managers and [leadership]({{< ref "leadership" >}}) to set the example by taking time off when needed, and ensuring their reports do the same.
 
-Taking time off is not a selfish behavior. Not only is time away from work aligned with GitLab's operating principle [Family and friends first, work second]({{< ref "values#family-and-friends-first-work-second" >}}), but it is vital to maintaining [mental health](https://about.gitlab.com/company/culture/all-remote/mental-health/). It is also a core part of the creative process.
+Taking time off is not a selfish behavior. Not only is time away from work aligned with GitLab's operating principle [Family and friends first, work second]({{< ref "values#family-and-friends-first-work-second" >}}), but it is vital to maintaining [mental health](/handbook/company/culture/all-remote/mental-health/). It is also a core part of the creative process.
 
 It is important to take time off to recharge batteries and refresh the mind so you can come back to GitLab with renewed energy and be prepared to do your best work ever!
 
@@ -31,15 +31,19 @@ Paid time off is in addition to any [official public holidays](#holidays) that a
 
 As we all work remotely it can sometimes be difficult to know when and how to plan time off. Here is some advice and guidance on how this can be done in an easy and collaborative way. **Please note that for audit and compliance purposes, all team members are required to use [Time Off by Deel](#time-off-by-deel) as the single source of truth to accurately track and communicate all time off.**
 
-**Note:** Time off by Deel should not be used if working but working asynchronously. Instead, please follow the [communicating your async work days](https://about.gitlab.com/company/culture/all-remote/asynchronous/#communicating-your-async-work-days) section of the asynchronous handbook.
-{: .note}
+{{< note >}}
+Time off by Deel should not be used if working but working asynchronously. Instead, please follow the [communicating your async work days](/handbook/company/culture/all-remote/asynchronous/#communicating-your-async-work-days) section of the asynchronous handbook.
+{{< /note >}}
 
 1. As of 2022-05-01, we’ve created a Flexible PTO policy to better outline communication expectations for team members and managers. This means that:
-    - Our move to a Flexible PTO policy means that as long as you have coordinated your planned time off with your manager, you are free to take PTO. There continues to be no set limit per year on the amount of PTO a team member can take.
-    - As a guideline, you should inform your manager of your planned PTO at least twice as many days in advance as the total number of days that you plan to take off. For example, if you plan to take 3 days off, you should let your manager know at a minimum of 6 business days before.
+    - Our move to a Flexible PTO policy means that as long as you have coordinated with your manager about your planned time off and made a coverage plan, you are free to take PTO. There continues to be no set limit per year on the amount of PTO a team member can take.
+    - You are required to coordinate with your manager about your planned PTO at least twice as many days in advance as the total number of days that you plan to take off. For example, if you plan to take 3 days off, you are required to coordinate with your manager a minimum of 6 business days before. Please inform your manager of your PTO plans as soon as possible to allow for appropriate planning.
+    - Once you have discussed with your manager, please coordinate with your team before taking time off, especially during popular or official holidays, so that we can ensure business continuity. We want to ensure we have adequate coverage and avoid situations where all/most of the team is taking time off at the same time. Some departments have specific windows during the quarter where the team’s presence is critical to accomplishing key results. Check out your departments’ handbook page for more information if applicable.
+    - What we care about are your results, not how long you work, but we require managers to ensure that appropriate coverage is in place for their team. This requires managers to assess all PTO against team deliverables.
+    - Note that your manager is required to ensure that your PTO does not impact business results disproportionately and as such may request that you modify your dates when necessary.
+    - When asking for PTO plans to be adjusted, managers are required to specify the goal or result that may be impacted by planned PTO and share how time off may interfere with that result or goal. Managers will be given the guidance that any requested changes they ask a team member to make need to be shared within 48 hours of the team member originally sharing their PTO plans. If there isn't a compromise that can be reached, the team member and manager should escalate to the manager's manager.
+    - At GitLab, team members are required to enter all days away (such as PTO, public holidays, Family & Friends Days, bereavement) in [Time Off by Deel](#time-off-by-deel). It creates an event, captures your out-of-office dates in Workday, and notifies your manager.
     - If your planned leave exceeds the 25 calendar days (including weekends and holidays), please make sure to reach out to your Manager, relevant [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division), and the Absence Management Team at `leaves@gitlab.com` for a special request. You will need additional permission if you want to take more than 25 consecutive calendar days (including weekends and holidays) off. The 25 calendar day limit is per vacation, not per year. You can have multiple vacations per year that add up to more than 25 calendar days in total; there is no limit to this.
-    - When planning your time off make sure your manager is aware of your absence by telling your manager about your plans. Documenting specific dates you’ll be away can be done by using [Time Off by Deel](#time-off-by-deel) as it will create an event, capture your out-of-office dates in Workday, and notify your manager.
-    - What we care about are your results, not how long you work. While you don't need to ask approval for time off, it shouldn’t be at the expense of business getting done. Please coordinate with your team before taking time off, especially during popular or official holidays, so that we can ensure business continuity. We want to ensure we have adequate coverage and avoid situations where all/most of the team is taking time off at the same time. Some departments have specific windows during the quarter where the team’s presence is critical to accomplishing key results. Check out your departments’ handbook page for more information if applicable.
     - If you're gone for 72 hours without notification, this could be deemed as [Job Abandonment](/handbook/people-policies/#job-abandonment).
     - It can be helpful to take longer breaks to re-energize. If this is helpful to you, we strongly recommend taking at least two consecutive weeks of time off and at minimum 25 days total throughout the year.
 1. We don't frown on people taking time off, but rather encourage people to take care of themselves and others by having some time away. If you notice that your co-worker is working long hours over a sustained period, you may want to let them know about the time off policy.
@@ -47,7 +51,7 @@ As we all work remotely it can sometimes be difficult to know when and how to pl
 1. For some countries, GitLab is required to pay out unused statutory vacation balances at the end of the team members employment. To prevent any discrepancies, make sure you select the correct category for your time off (e.g. vacation).
 1. Not taking time off is viewed as a weakness and people shouldn't boast about it. It is viewed as a lack of humility about your role, not fostering collaboration in training others in your job, and not being able to document and explain your work. You are doing the company a disservice by being a single point of failure. The company must be able to go for long periods without you. We don't want to lose you permanently by you burning yourself out by not taking regular time off.
 1. Working hours are flexible. We encourage you to read the [#whats-happening-at-gitlab](https://gitlab.slack.com/archives/general) Slack channel on your return to catch up on the announcements made while you were on your time off.
-1. You don't need to worry about taking time off to go to the gym, [take a nap](https://m.signalvnoise.com/sleep-deprivation-is-not-a-badge-of-honor-f24fbff47a75), go grocery shopping, do household chores, help someone, take care of a loved one, etc. If you have urgent tasks, but something comes up or takes longer than expected, just ensure the rest of the team **knows** and someone can pick up the tasks (assuming you're able to communicate).
+1. You don't need to worry about taking time off to go to the gym, take a nap, go grocery shopping, do household chores, help someone, take care of a loved one, etc. If you have urgent tasks, but something comes up or takes longer than expected, just ensure the rest of the team **knows** and someone can pick up the tasks (assuming you're able to communicate).
 1. GitLab encourages team members to volunteer within their community to take care of others. Consider taking time in support of causes that matter to you and support your personal commitment to GitLab's values such as diversity, inclusion and belonging.
 1. GitLab also encourages you to use your leave for jury duty, bereavement leave, or other needs. You are not expected to work during this time off, but we recommend following the guidance under [Communicating Your Time Off](#communicating-your-time-off) when these situations arise.
 1. GitLab also encourages you to take time off to vote, volunteer at the polls or volunteer in your community.
@@ -59,10 +63,10 @@ As we all work remotely it can sometimes be difficult to know when and how to pl
 
 ### Holidays
 
-1. We encourage all team members to take time off for holidays observed in their country. No one is expected to attend calls on days they are not working or out of the office for an official public holiday. As a company that prides itself on a [family & friends first](/handbook/values/#family-and-friends-first-work-second) approach, it’s a general guideline that if public schools or government offices in your area are closed for a particular national or regional holiday, that it’s recognized for GitLab team members in that location to take that time off as a public holiday as well. For a general listing of official holidays by country, follow these steps:
-    1. Go to the [timeanddate.com site](https://www.timeanddate.com/holidays/)
+1. We encourage all team members to take time off for public holidays observed in their country. No one is expected to attend calls on days they are not working or out of the office for an official public holiday. As a company that prides itself on a [family & friends first](/handbook/values/#family-and-friends-first-work-second) approach, it’s a general guideline that if public schools or government offices in your area are closed for a particular national or regional holiday, that it’s recognized for GitLab team members in that location to take that time off as a public holiday as well. For a general listing of public holidays by country, follow these steps:
+    1. Go to the [timeanddate.com](https://www.timeanddate.com/holidays/)
     1. Select your country of residence
-    1. Change the dropdown from 'All holidays and national observances' to 'Official holidays'
+    1. Change the dropdown from 'All holidays and national observances' to 'Public Holidays'
 
 We recognize this list may not encompass all state or local public holidays, but please follow the guidance above--if public schools or government offices in your location are closed--then please enter your time off as a public holiday in Time Off by Deel.  For any questions related to holidays or how to categorize time off please reach out to `leaves@gitlab.com`.
 
@@ -87,7 +91,7 @@ Communicate broadly when you will be away so other people can manage time effici
 1. If your team or work group has a specific scheduling calendar, ensure to update it with your out of office plans.
 1. Decline any meetings you will not be present for so the organizer can make appropriate arrangements.
     - Cancel, move, or find coverage for any meetings for which you are the organizer.
-    - Optionally, if you partake in [Donut coffee chat pairings](https://about.gitlab.com/company/culture/all-remote/tips/#coffee-chats) you can temporarily “snooze” them by opening a direct message with Donut and typing `help` to indicate which weeks you won't be able to participate. Pairings will automatically resume when you’re back.
+    - Optionally, if you partake in [Donut coffee chat pairings](/handbook/company/culture/all-remote/tips/#coffee-chats) you can temporarily “snooze” them by opening a direct message with Donut and typing `help` to indicate which weeks you won't be able to participate. Pairings will automatically resume when you’re back.
 1. If you are an interviewer, review your calendar to address any scheduled interviews. To ensure we provide a great candidate experience, if you find that you cannot attend an interview, you will be responsible for finding a replacement interviewer. You must communicate directly with your recruiter, as being out of the office does not always mean that you will be unavailable to interview.
 1. If you're one of the people who typically handle availability emergencies (the on-call heroes), you **do** need to ensure that someone will be available to cover for you while you're out of office. You can check for this with your manager. Managers can import their team's calendars into their Google Calendar to get a quick view of their team members' availability.
 1. Being part of a global remote team means you need to be highly organized and a considerate team player. Each team has busy times so it is always a good idea to check with them to ensure there is adequate coverage in place.
@@ -107,7 +111,7 @@ Communicate broadly when you will be away so other people can manage time effici
         - > Hello team, I am out of the office for the next several days. Please double check the pending tasks on our team's Google Doc for any upcoming deadlines.
 1. Please see the [On-Call](/handbook/on-call/) page for information on how to handle scheduled leave for someone from the On-Call team.
 1. If you are a people manager, please complete the following:
-    - BambooHR: submit a job information request to move direct reports to the interim manager if you will be out of office for more than 25 calendar days.
+    - Workday: set up a [delegate](https://docs.google.com/document/d/1BDME_47-mif1ZihO5Id-wejbjAU_-PLIr1dJ46z1F_c/edit) in Workday to be able to approve transactions on your behalf while you are away
     - Navan Expense: delegate expense approval to your back-up team member by following these steps:
         - Navan Expense
         - Settings
@@ -125,9 +129,9 @@ Returning from PTO of any length can feel overwhelming. Consider implementing th
 
 1. Remember that it's normal to take extra time to catch up after returning from paid time off. Taking time off doesn't mean that you need to work extra hours before or after your vacation. When taking extended time off, expect to have reduced capacity to take on new work the week of your return while you're catching up on the work that happened while you were away. Remember that [it's impossible to know everything]({{< ref "values#its-impossible-to-know-everything" >}}).
 
-1. Honor a window of transition when returning from PTO and recognize that [rest and time off is productive](https://about.gitlab.com/company/culture/all-remote/mental-health/#rest-and-time-off-are-productive). Big, reflective moments may happen when you take a step back and reflect. Before catching up on all missed emails and Slack messages, consider first revisiting priority projects to take action on these reflections. In our [interview about managing burnout](https://about.gitlab.com/company/culture/all-remote/mental-health/#rest-and-time-off-are-productive), John Fitch described this approach as spending time working *on* your projects, rather than *in* your projects. This could look like blocking off a few days with no meetings to complete deep work on an OKR or hosting a collaborative session with your team to brainstorm.
+1. Honor a window of transition when returning from PTO and recognize that [rest and time off is productive](/handbook/company/culture/all-remote/mental-health/#rest-and-time-off-are-productive). Big, reflective moments may happen when you take a step back and reflect. Before catching up on all missed emails and Slack messages, consider first revisiting priority projects to take action on these reflections. In our [interview about managing burnout](/handbook/company/culture/all-remote/mental-health/#rest-and-time-off-are-productive), John Fitch described this approach as spending time working *on* your projects, rather than *in* your projects. This could look like blocking off a few days with no meetings to complete deep work on an OKR or hosting a collaborative session with your team to brainstorm.
 
-1. When returning from paid time off, it can be helpful to schedule a [coffee chat](https://about.gitlab.com/company/culture/all-remote/informal-communication/#coffee-chats) or two on the day of your return to get caught up, share stories from your time off, and simply reconnect with your team members. It also provides a nice break from to-dos and unread emails. This type of conversation may occur organically in a colocated office but needs to be managed with intent in an all-remote company.
+1. When returning from paid time off, it can be helpful to schedule a [coffee chat](/handbook/company/culture/all-remote/informal-communication/#coffee-chats) or two on the day of your return to get caught up, share stories from your time off, and simply reconnect with your team members. It also provides a nice break from to-dos and unread emails. This type of conversation may occur organically in a colocated office but needs to be managed with intent in an all-remote company.
 
 #### Adjust/Remove PTO from past events
 
@@ -177,12 +181,11 @@ Employees of GitLab B.V. have further rights and responsibilities regarding sick
 - Team members must notify their manager of any sick leave needed.
 - Team members must then enter the sick time via Time Off by Deel as aligned above.
 - If the sick leave extends 8 days it should be reported to the Absence Management team via `leaves@gitlab.com` by the Manager and team member (if able).
-- If team members are reporting multiple instances of sick leave in a 28 day timeframe, please reach out to the Absence Management team and your People Business Partner to discuss.
+- If team members are reporting multiple instances of sick leave in a 28 day timeframe, please reach out to the Absence Management team.
 - Once the Absence Management team has been notified of the sick time they will inform HRSavvy.
 - HRSavvy will be registering the sick time in their HR portal from the first day of absence (retrospectively).
-- GitLab has engaged with an occupational health and safety centre, called [Zorg van de Zaak](https://www.zorgvandezaak.nl/), to assist employees of GitLab B.V. who may need support while being on long-term sick leave.
+- GitLab has engaged with an occupational health and safety centre, called Leuk Personeel, to assist employees of GitLab B.V. who may need support while being on long-term sick leave.
 - If the team members is on long-term sick leave (8 days of more), the Absence Management team will instruct HRSavvy to register the team member at the occupational health and safety service, depending on the situation and agreement with the team member.
-- Zorg van de Zaak's contact details can be found in the People Operations 1Password vault.
 
 #### Sick Time Procedures - France
 
@@ -315,6 +318,10 @@ Especially in large channels and during popular vacation times, PTO's role remin
 
 #### Bulk Add holidays
 
+{{% alert title="Note" color="primary" %}}
+It is worth considering the impact to your role/team before bulk adding regional holidays to your time off by Deel app. Many functions of GitLab necessitate coverage on holidays and if your team is region-centric you may want to opt to take alternative days off instead of the official regional holiday in order to provide coverage for others who are observing.
+{{% /alert %}}
+
 You can bulk add holidays based on your region and then modify them manually if needed. Any Public Holidays added to Time Off by Deel in your dashboard will not auto-set an OOO event for you, you will still need to create an OOO event if observing that holiday. To add a Public Holiday, follow the below instructions.
 
 - Visit `Apps` in the menu bar within Slack, and search for or select Time Off by Deel
@@ -324,7 +331,7 @@ You can bulk add holidays based on your region and then modify them manually if 
 
 #### Monthly reminder to consider taking PTO
 
-We get it — life gets busy. So busy, in fact, that you may need a little nudge to consider taking time off to recharge. Time Off by Deel allows you to subscribe (and unsubscribe) to a monthly prompt, sent on the first *working* day of each month, reminding you to pause and think about time away from work and prioritizing [mental health](https://about.gitlab.com/company/culture/all-remote/mental-health/).
+We get it — life gets busy. So busy, in fact, that you may need a little nudge to consider taking time off to recharge. Time Off by Deel allows you to subscribe (and unsubscribe) to a monthly prompt, sent on the first *working* day of each month, reminding you to pause and think about time away from work and prioritizing [mental health](/handbook/company/culture/all-remote/mental-health/).
 
 The reminder will read as follows.
 
@@ -409,7 +416,7 @@ Understanding the PTO that teams have taken, and plan to take, helps managers ha
     - How many vacation days did your team take? Remind team members to take time off of work to rest and recharge.
         - How much sick leave did your team take? If you have a team member who has taken 5 or more consecutive sick days, or non-consecutive if related to the same illness, please contact the Absence Management Team at `leaves@gitlab.com` to address the next steps to take in line with applicable law.
         - Did your team take days off for Family and Friends day? Remind team members to take off F&F day following the [documented policy]({{< ref "family-and-friends-day#im-in-a-role-which-requires-me-to-work-that-day-how-can-i-still-benefit-from-this-initiative" >}}) and labeling the time away as `Friends and Family` in Time Off by Deel.
-        - Has your team logged any local holiday time off? Remind team members to take off local holidays even if the rest of the team is working and lableing the time away as `Public Holiday` in Time Off by Deel.
+        - Has your team logged any local holiday time off? Remind team members to take off local holidays even if the rest of the team is working and labeling the time away as `Public Holiday` in Time Off by Deel.
 1. Use your 1:1s to check in with team members and make sure they are taking enough PTO.
 
 #### Planning and decision making for future projects
@@ -436,7 +443,7 @@ Taking time off should be a chance for a team members to step away from work and
 
 ### Recognizing Burnout
 
-It is important for us to take a step back to recognize and acknowledge the feeling of being "[burned out](https://about.gitlab.com/company/culture/all-remote/mental-health/)".
+It is important for us to take a step back to recognize and acknowledge the feeling of being "[burned out](/handbook/company/culture/all-remote/mental-health/)".
 We are not as effective or efficient when we work long hours, miss meals or forego nurturing our personal lives
 for sustained periods of time. If you feel that you or someone on your team may be experiencing [burnout](http://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/burnout/art-20046642), be sure to address it right away.
 

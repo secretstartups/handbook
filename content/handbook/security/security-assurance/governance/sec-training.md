@@ -1,11 +1,8 @@
 ---
 title: "Security Awareness Training Standard"
 description: "Security Training Standard"
+controlled_document: true
 ---
-
-{{% alert title="This is a Controlled Document" color="danger" %}}
-Inline with GitLab's regulatory obligations, changes to [controlled documents]({{< ref "controlled-document-procedure" >}}) must be approved or merged by a code owner. All contributions are welcome and encouraged.
-{{% /alert %}}
 
 ## Purpose
 
@@ -51,7 +48,7 @@ Remember: If you see something, say something, and always report suspicious emai
 
 ### Data Classification Training
 
-To maintain our culture of security and transparency, and to minimize the risk to our sensitive data and our customers, GitLab team members are encouraged to complete [Data Classification Training](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab-data-classification-training) to help understand the different types of data at GitLab and how to keep it [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/). This is a recommended training.
+To maintain our culture of security and transparency, and to minimize the risk to our sensitive data and our customers, GitLab team members are encouraged to complete [Data Classification Training](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab-data-classification-training) to help understand the different types of data at GitLab and how to keep it [SAFE](/handbook/legal/safe-framework/). This is a recommended training.
 
 ### Secure Coding Training
 
@@ -65,11 +62,11 @@ As our Security Training Program matures, additional trainings will be identifie
 
 ## Exceptions
 
-Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process]({{< ref "/handbook/security#information-security-policy-exception-management-process" >}}).
+Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](/handbook/security#information-security-policy-exception-management-process).
 
 ## References
 
-- Parent Policy: [Information Security Policy]({{< ref "/handbook/security" >}})
+- Parent Policy: [Information Security Policy](/handbook/security)
 - [Security Awareness Training Program]({{< ref "sec-awareness-training" >}})
 - [Phishing Program]({{< ref "phishing" >}})
 - [Data Classification Standard]({{< ref "data-classification-standard" >}})

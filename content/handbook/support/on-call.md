@@ -14,7 +14,7 @@ There are four on-call rotations in Support:
 - [US Federal Emergencies](/handbook/support/workflows/customer_emergencies_workflows#us-federal-on-call) - which is similar to Customer Emergencies, but has different hours and a US Citizen requirement to participate in
 - [Support Manager On-call](/handbook/support/workflows/support_manager-on-call) - in which Support Manager are an escalation point for issues raised by Support Engineers and GitLab team members and missed PagerDuty notifications
 
-For customers that have [Priority Support](/support/#priority-support), the Support Engineering Team is on-call in these capacities and available to assist with emergencies. What constitutes an emergency is defined in our [definitions of support impact](https://about.gitlab.com/support/definitions/#definitions-of-support-impact).
+For customers that have [Priority Support](https://about.gitlab.com/support/#priority-support), the Support Engineering Team is on-call in these capacities and available to assist with emergencies. What constitutes an emergency is defined in our [definitions of support impact](https://about.gitlab.com/support/definitions/#definitions-of-support-impact).
 
 We take on-call seriously. There are [escalation policies](https://gitlab.pagerduty.com/escalation_policies#PKV6GCH) in place so that if a first responder does not respond fast enough another team member or members is/are alerted. Such policies aren't expected to ever be triggered, but they cover extreme and unforeseeable circumstances.
 
@@ -22,7 +22,7 @@ We take on-call seriously. There are [escalation policies](https://gitlab.pagerd
 
 ### Be alert and available
 
-When you are on call you are expected to be available and ready to respond to PagerDuty pings as soon as possible, and certainly within the emergency response time set by our [Service Level Agreements](/support/#priority-support).
+When you are on call you are expected to be available and ready to respond to PagerDuty pings as soon as possible, and certainly within the emergency response time set by our [Service Level Agreements](https://about.gitlab.com/support/#priority-support).
 
 If you have plans outside of your work space while being on call, then being available may require bringing a laptop and reliable internet connection with you.
 
@@ -30,9 +30,15 @@ You should not be chained to your desk, but you should be equipped to acknowledg
 
 Be proactive in communicating your availability. Sometimes you can't be *immediately* available for every minute of your on-call shift. If you expect to be unavailable for a short period of time, send an FYI in Slack.
 
+### Prepare ahead of your shift
+
+Before your scheduled on-call shift begins, check [the Customer Events calendar](https://calendar.google.com/calendar/u/0/embed?src=c_8d5a8e9b8c3fc74901bad1799b18e8eafc9e499f7805f9c82f79f9d1e1f9ac4b@group.calendar.google.com) for any customer activities to be aware of that may coincide with your shift. Familiarize yourself with the details of those events in case the customer ends up paging out for help.
+
+**Note:** the Customer Events calendar is also linked at the top of the [#support_self-managed](https://gitlab.enterprise.slack.com/archives/C4Y5DRKLK) Slack channel for quick reference.
+
 ### Communicate
 
-**Involve relevant stakeholders**: whether it's the e-group, a CSM, subject matter experts or Support leadership, customer and operational emergencies should be known. See your rotation specific workflow for more detailed notes.
+**Involve relevant stakeholders**: whether it's the e-group, a CSM, an [ASE (Assigned Support Engineer)](../assigned-support-engineer/emergencies.md), subject matter experts or Support leadership, customer and operational emergencies should be known. See your rotation specific workflow for more detailed notes.
 
 **Note:** You may sometimes be required to contact GitLab users on behalf of another GitLab team (such as the SIRT team). Please follow the [Sending Notices workflow](/handbook/support/workflows/sending_notices) to action these requests.
 
@@ -72,7 +78,7 @@ PagerDuty is the single source of truth for on-call hours, rotation order and es
 
 There are several ways to view current and future schedules:
 
-1. On gitlab.io: [View the current and next week's assignments](https://gitlab-com.gitlab.io/support/team/oncall.html)
+1. On gitlab.io: [View the current and next week's assignments](https://gitlab-com.gitlab.io/support/team/oncall)
 1. In PagerDuty: View the [Customer Emergencies schedule](https://gitlab.pagerduty.com/schedules) and the [escalation policy](https://gitlab.pagerduty.com/escalation_policies#PKV6GCH)
 1. In Google Calendar, [subscribe to your on-call schedule](https://support.pagerduty.com/docs/schedules-in-apps#section-export-only-your-on-call-shifts)
 1. In the `#spt-gg-forest` slack channel, you can see who is on-call for the different schedules today
@@ -95,7 +101,7 @@ When removing a user from a schedule the manager will need to delete the email a
 
 #### Your first on-call shift
 
-For new team members approaching their first on-call shift, your [Support onboarding issue](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/New-Support-Team-Member-Start-Here.md) includes a section suggesting that you shadow a current on-call to gain familiarity with the process. After completing your shadow shift, work with your manager to get yourself added to the on-call rotation. For your first on-call week we recommend asking your Onboarding Buddy to be available as a secondary to help if an emergency comes in.
+For new team members approaching their first on-call shift, your [Support onboarding issue](https://gitlab.com/gitlab-com/support/support-training/-/blob/main/.gitlab/issue_templates/New-Support-Team-Member-Start-Here.md) includes a section suggesting that you shadow a current on-call to gain familiarity with the process. After completing your shadow shift, work with your manager to get yourself added to the on-call rotation. For your first on-call week we recommend asking your Onboarding Buddy to be available as a secondary to help if an emergency comes in.
 
 #### Make the schedule work for you
 
@@ -143,7 +149,7 @@ Team members employed by GitLab PTY Ltd *must* take time off in lieu within two
 weeks of completing their on-call shift. Time in lieu should be requested via
 Time Off by Deel, selecting the `On-Call Time in Lieu` option.
 
-For more details, see the [GitLab PTY Australia Specific Benefits](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia/#on-call-engineering-only)
+For more details, see the [GitLab PTY Australia Specific Benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia/#on-call-engineering-only)
 page.
 
 ##### New Zealand (Employees of GitLab PTY Ltd NZ)
@@ -152,7 +158,7 @@ Team members employed by GitLab PTY Ltd NZ must avoid taking an on-call shift
 which falls on a New Zealand public holiday. If this cannot be avoided, your
 manager must be informed.
 
-For more details, see the [GitLab PTY Ltd NZ Specific Benefits](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia/#on-call-engineering-only-1) page.
+For more details, see the [GitLab PTY Ltd NZ Specific Benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia/#on-call-engineering-only-1) page.
 
 ### Starting on-call
 
@@ -175,8 +181,8 @@ Generally: if there's a situation that occurred (or is actively happening) durin
 
 Some rotations have specific handover procedures:
 
-- [CMOC - End of Shift Handover Procedure](/handbook/support/workflows/cmoc_workflows.html#end-of-shift-handover-procedure)
-- [CEOC - Post-call](/handbook/support/workflows/customer_emergencies_workflows.html#post-call)
+- [CMOC - End of Shift Handover Procedure](/handbook/support/workflows/cmoc_workflows#end-of-shift-handover-procedure)
+- [CEOC - Post-call](/handbook/support/workflows/customer_emergencies_workflows#post-call)
 
 ### Viewing all on-call pages in one place
 
@@ -195,7 +201,7 @@ To see who the current manager on-call is you can:
     - [Support Manager - APAC](https://gitlab.pagerduty.com/schedules/PWBXTYX)
     - [Support Manager - EMEA](https://gitlab.pagerduty.com/schedules/PXQ2ZAZ)
 - In the `#spt-gg-forest` slack channel, the regional bot message lists who is on-call for the different schedules today
-- Ask in `#spt_managers` (where you may or may not be referred to the above steps!)
+- Ask in `#support_leadership` (where you may or may not be referred to the above steps!)
 
 ### Paging the next on-call engineer
 
@@ -205,9 +211,9 @@ To see who the current manager on-call is you can:
 
 ### Paging the on-call manager
 
-- First, try pinging the on-call manager by name in Slack.
+- First, try pinging the on-call manager by tagging `@support-manager-oncall` in Slack.
 - If it's important and urgent or a weekend, you can:
-    - Use the `/pd-support-manager` command to page the on-call manager
+    - Tag the Support Manager On-Call by name in Slack to page the on-call manager
     - Manually create a new incident from the [Support Managers Service](https://gitlab.pagerduty.com/services/PTFI8XR)
 
 ## Mobile phone service and data reimbursement
@@ -285,7 +291,7 @@ Note that some teams in GitLab are using Zapier with a paid plan, but Support En
 1. Zapier will now look for emails with that label and should find the test email we triggered earlier
 1. Choose the test email and "Continue with selected record" to start setting up the action
 1. For the Action, use the `Slack` app with the `Set Status` event
-1. Continue until you can specifiy the input for the status:
+1. Continue until you can specify the input for the status:
    - `Status Text` – you'll likely want to specify your rotation name here
    - `Status Emoji` – you'll likely want to use `:pagerduty:` here
    - `Expiration Time` – you'll want to use the duration of your shift here so the status is automatically cleared when your shift is done

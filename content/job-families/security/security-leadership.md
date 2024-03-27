@@ -39,17 +39,17 @@ Leaders in the security department at GitLab are customer focused. While they ar
 - Ability to use GitLab
 - Exceptional communication skills, including verbal, written, and presentation skills, to a variety of stakeholders
 - You share our [values](/handbook/values/), and work in accordance with those values
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
+- [Leadership at GitLab](/handbook/company/structure/#director-group)
 
 ## Levels
 
 ### Senior Manager, Security
 
-The Senior Manager, Security role is defined for each [Security Team](https://about.gitlab.com/job-families/engineering/) individually. However, a Senior Security Manager may be appointed at the sub-department level.
+The Senior Manager, Security role is defined for each [Security Team](/job-families/engineering/) individually. However, a Senior Security Manager may be appointed at the sub-department level.
 
 #### Senior Manager, Security Job Grade
 
-The Senior Security Manager is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Security Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Security Responsibilities
 
@@ -61,7 +61,7 @@ The Senior Security Manager is a [grade 9](https://about.gitlab.com/handbook/tot
 - Responsible for overflow Director responsibilities
 - Ensure alignment across sub-department teams with Security department and Engineering orgnization objectives
 - Generate and implement process improvements, especially cross-team processes
-- Hold regular [1:1s](https://about.gitlab.com/handbook/leadership/1-1/) with team managers and skip-level 1:1s with all members of their team
+- Hold regular [1:1s](/handbook/leadership/1-1/) with team managers and skip-level 1:1s with all members of their team
 - Assist in building morale, support and alignment within their sub-department
 - Work cross-functionally (both within and outside of Security) to promote and gain prioritization of sub-department needs
 
@@ -76,43 +76,45 @@ The Senior Security Manager is a [grade 9](https://about.gitlab.com/handbook/tot
 
 #### Hiring Process
 
-Candidates for the senior manager positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for the senior manager positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 45-60 minute interview with a Director of Security to which the position reports to
 - Candidates will then be invited to schedule 3 separate 45-60 minute interviews with additional directors and managers within the Security Organization
 - Candidates will then be invited to schedule an interview with the CISO
 - Successful candidates will subsequently be made an offer via email
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ### Director, Security
 
-This position reports to the [CISO](https://about.gitlab.com/job-families/legal-and-corporate-affairs/chief-legal-officer/)
+This position reports to the [CISO](/job-families/legal-and-corporate-affairs/chief-legal-officer/)
 
 #### Director, Security Job Grade
 
-The Director, Security Assurance is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Security Assurance is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ##### Director, Security Responsibilities
 
 - Proven ability to successfully recruit, manage, motivate and develop high performing teams
 - Relevant, progressive experience managing information security and engineering teams
 
-#### Director, Security Assurance Responsibilities
+#### Hiring Process
 
-- Partners with the CISO in planning and development of enterprise information security strategy and best practices
-- Drives strategy for the Security Assurance organization, aligned with broader GitLab business initiatives, with a specific focus on expansion of the security certification portfolio
-- Consults with senior leaders regarding their information security risks and responsibilities in minimizing those risks
-- Drives operational efficiencies through process improvement and implementation of technical solutions
-- Manages a risk-based prioritization model for reviewing new project and work efforts
-- Participate in key customer calls, contract reviews and/or assessments providing leadership assurance on GitLab security
-- Act as an advocate for information security practices
+Candidates for the director positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-#### Director, Security Assurance Requirements
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Next, candidates will be invited to schedule a 45-60 minute interview with CISO
+- Candidates will then be invited to schedule 2-3 separate 45-60 minute interviews with peer directors and reporting managers of the Security Organization
+- Candidates will then be invited to schedule 2-3 separate 45-60 minute interviews with cross-functional partners
+- Candidates may be requested to meet again with the CISO for a shortened conversation
+- Successful candidates will subsequently be made an offer via email
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
-- Proficient experience with industry standard security and risk frameworks/standards/laws/regulations: NIST 800-53, NIST CSF, HITRUST, PCI, FedRAMP, ISO27002, ISO 31000, etc.
+#### Director, Security Specialties
 
-#### Director, Product Security Responsibilities
+##### Product Security
+
+###### Responsibilities
 
 - Partners with the CISO in planning and development of enterprise information security strategy and best practices
 - Drives strategy for the Product Security organization, aligned with broader GitLab business initiatives, with a specific focus on Application Security, Product Security and Infrastructure Security.
@@ -124,27 +126,31 @@ The Director, Security Assurance is a [grade 10](https://about.gitlab.com/handbo
 - Partners with the CISO to build and maintain the most transparent security program in the world
 - Acts as an advocate for information security practices
 
-#### Director, Product Security Requirements
+###### Requirements
 
 - Proficient experience with security technologies and engineering domains such as application security, cloud security, infrastructure security, containerized workloads and security automation
 
-#### Director, Platform Security Engineering Responsibilities
 
-- Partners with the CISO in planning and development of platform security capabiliites
-- Drives strategy for the Platform Security Engineering organization, aligned with broader GitLab business initiatives, with a specific focus on production security services, data security engineering, applied machine learning, and security automation.
-- Consults with senior leaders regarding their security requirements and drive mitigation efforts to reduce risk
+##### Security Assurance
+
+###### Responsibilities
+
+- Partners with the CISO in planning and development of enterprise information security strategy and best practices
+- Drives strategy for the Security Assurance organization, aligned with broader GitLab business initiatives, with a specific focus on expansion of the security certification portfolio
+- Consults with senior leaders regarding their information security risks and responsibilities in minimizing those risks
 - Drives operational efficiencies through process improvement and implementation of technical solutions
-- Drives efforts to improve security awareness in the areas of application security and the secure development of code through education and training
-- Champion technical efforts to obtain and maintain compliance with customer, regulatory, and security compliance framework requirements
-- Secure the product and the company with innovative and industry leading technical security controls and practices
-- Partner with the CISO to build and maintain the most transparent security program in the world
+- Manages a risk-based prioritization model for reviewing new project and work efforts
+- Participate in key customer calls, contract reviews and/or assessments providing leadership assurance on GitLab security
 - Act as an advocate for information security practices
 
-#### Director, Platform Security Engineering Requirements
+###### Requirements
 
-- Proficient experience with software development and engineering domains such as data engineering, machine learning, distrbuted systems, and security engineering
+- Proficient experience with industry standard security and risk frameworks/standards/laws/regulations: NIST 800-53, NIST CSF, HITRUST, PCI, FedRAMP, ISO27002, ISO 31000, etc.
 
-#### Director, Security Operations Responsibilities
+
+##### Security Operations
+
+###### Responsibilities
 
 - Secure our product, services (GitLab.com, package servers, other infrastructure), and company (laptops, email)
 - Define and plan priorities for security related activities based on that risk analysis
@@ -160,7 +166,7 @@ The Director, Security Assurance is a [grade 10](https://about.gitlab.com/handbo
 - Ensures we're compliant with our legal and contractual security obligations
 - Evangelise GitLab Security and Values to staff, customers and prospects
 
-#### Director, Security Operations Requirements
+###### Requirements
 
 - Significant application and SaaS security experience in production-level settings
 - This position does not require extensive development experience but the
@@ -169,25 +175,34 @@ controls, and common security flaws that apply to Ruby on Rails applications
 - Experience managing teams of engineers, and leading managers
 - Experience with incident management
 
-#### Hiring Process
 
-Candidates for the director positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+##### Platform Security
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
-- Next, candidates will be invited to schedule a 45-60 minute interview with CISO
-- Candidates will then be invited to schedule 2-3 separate 45-60 minute interviews with peer directors and reporting managers of the Security Organization
-- Candidates will then be invited to schedule 2-3 separate 45-60 minute interviews with cross-functional partners
-- Candidates may be requested to meet again with the CISO for a shortened conversation
-- Successful candidates will subsequently be made an offer via email
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+###### Responsibilities
+
+- Partners with the CISO in planning and development of platform security capabiliites
+- Drives strategy for the Platform Security Engineering organization, aligned with broader GitLab business initiatives, with a specific focus on production security services, data security engineering, applied machine learning, and security automation.
+- Consults with senior leaders regarding their security requirements and drive mitigation efforts to reduce risk
+- Drives operational efficiencies through process improvement and implementation of technical solutions
+- Drives efforts to improve security awareness in the areas of application security and the secure development of code through education and training
+- Champion technical efforts to obtain and maintain compliance with customer, regulatory, and security compliance framework requirements
+- Secure the product and the company with innovative and industry leading technical security controls and practices
+- Partner with the CISO to build and maintain the most transparent security program in the world
+- Act as an advocate for information security practices
+
+###### Requirements
+
+- Proficient experience with software development and engineering domains such as data engineering, machine learning, distrbuted systems, and security engineering
+
+
 
 ### Senior Director, Security
 
-This position reports to the [CISO](https://about.gitlab.com/job-families/legal-and-corporate-affairs/chief-legal-officer/)
+This position reports to the [CISO](/job-families/legal-and-corporate-affairs/chief-legal-officer/)
 
 #### Senior Director, Security Job Grade
 
-The Senior Director, Security is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, Security is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Director, Security Responsibilities
 
@@ -211,7 +226,23 @@ The Senior Director, Security is a [grade 11](https://about.gitlab.com/handbook/
 - Ability to be successful managing at a remote-only company
 - Humble, servant leader
 
-#### Senior Director, Security Assurance Responsibilities
+#### Hiring Process
+
+Candidates for the director positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
+
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Next, candidates will be invited to schedule a 45-60 minute interview with CISO
+- Candidates will then be invited to schedule 3 separate 45-60 minute interviews with directors and reporting managers within the Security Organization
+- Candidates may be requested to meet again with the CISO for a shortened conversation
+- Candidates will then be invited to schedule an interview with CTO of Engineering
+- Successful candidates will subsequently be made an offer via email
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+
+#### Senior Director, Security Specialties
+
+##### Security Assurance
+
+###### Responsibilities
 
 - Partner with the CISO, and other Security leadership, in planning and development of enterprise information security strategy and best practices aligned with broader GitLab business initiatives
 - Provide vision and leadership for developing and supporting initiatives in the areas of security policy, external security audits, continuous control monitoring, customer assurance, risk assessments and security training
@@ -222,7 +253,7 @@ The Senior Director, Security is a [grade 11](https://about.gitlab.com/handbook/
 - Participate in key customer calls, contract reviews and/or security assessments providing leadership assurance on GitLab security
 - Develop and provide key performance indicators, operational metrics and related reports
 
-#### Senior Director, Security Assurance Requirements
+###### Requirements
 
 - Superior understanding of the organization’s goals and objectives
 - Ability to act as a champion for Security and convey cyber-security risks in layman terms
@@ -232,88 +263,111 @@ The Senior Director, Security is a [grade 11](https://about.gitlab.com/handbook/
 - Outstanding cross-functional partnership skills, with a confirmed ability to identify, initiate and lead efforts with both internal and external teams
 - Embrace GitLab Values of [Collaboration](/handbook/values/#collaboration), [Results](/handbook/values/#results), [Efficiency](/handbook/values/#efficiency), [Diversity, Inclusion & Belonging](/handbook/values/#diversity-inclusion), [Iteration](/handbook/values/#iteration), and [Transparency](/handbook/values/#transparency)
 
-#### Hiring Process
+##### Corporate Security & IT Operations
 
-Candidates for the director positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+The Corporate Security & IT Operations function leads a team of highly-collaborative and results-oriented Security and IT team members tasked with delivering and securing global IT services across the company. The Senior Director, Corporate Security & IT Operations is in charge of securing, scaling, increasing performance, and providing great team member experience in order to help drive forward business success based on world class infrastructure & operations.
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
-- Next, candidates will be invited to schedule a 45-60 minute interview with CISO
-- Candidates will then be invited to schedule 3 separate 45-60 minute interviews with directors and reporting managers within the Security Organization
-- Candidates may be requested to meet again with the CISO for a shortened conversation
-- Candidates will then be invited to schedule an interview with CTO of Engineering
-- Successful candidates will subsequently be made an offer via email
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+###### Responsibilities
 
-### Vice President (VP) of Security
+- Head a multi-continent team in an all-remote Organization
+- Build and lead a team of Corporate Security & IT Operations and Service Management staff
+- Create the Strategy and roadmap, effectively defining and delivering on new SOPs, process improvements, and projects
+- ITIL: Lead the design, implementation, and enhancement of ITIL processes like Incident, Problem, Change, Configuration, and Release Management to achieve operational excellence
+- Service Desk: Foster customer-centricity in IT operations, manage a responsive IT service desk, focusing on end-user satisfaction. Prioritize incident resolution, escalate effectively, and strategize for optimal first-call resolution
+- Identity & Access: Oversee secure identity and access management and data protection programs in conjunction with the InfoSec team to enforce policies and uphold data integrity
+- Manage the IT Ops departmental budget
+- Vendor Management: Build / maintain relationships with software and hardware vendors and service providers
+- Directly participate in IT Security improvements and support as required (i.e., be hands-on)
+- Establish seamless processes to onboard, change and offboard resources from IT services
+- Own and maintain Corporate Security & IT Operations applications
+- Document and enforce new and current IT policies and procedures
+- Measure, monitor, and maintain team’s ability to meet or exceed contact and resolution Service Level Agreements (SLA)
+- Run the IT Service desk, define and manage ticket SLAs, and move towards greater automation (and where appropriate) self-service of tickets
+- Proven ability to successfully recruit, manage, motivate and develop high performing teams
+- Negotiates and influences the opinions and decision making of internal senior leaders on matters of significance to the division
+- Consistently demonstrates, models and coaches managers and senior managers on GitLab's remote working competencies
+- Proactively communicates with leadership about progress and outcomes and how strategy and contributions support higher-level priorities and initiatives
+- Focuses the team’s communication and productivity
 
-This position reports to the [CISO](https://about.gitlab.com/job-families/legal-and-corporate-affairs/chief-legal-officer/)
+###### Requirements
+
+- Bachelor's degree in IT, Computer Science, or related field
+- 10+ years of IT and/or Security leadership experience
+- 5+ years' experience in IT operations management, focusing on ITIL processes, service desk, identity and access management, infrastructure, and support
+- Strong understanding of Identity Management (SSO, SAML, OAuth, etc.), API integration (REST), Scripting (Bash, Powershell)
+- SaaS experience: Expert level understanding of tools like Google Workspace, Okta, Zoom, Slack etc.
+- InfoSec experience partnering with internal information security and compliance teams. SOX experience is a plus
+- Team building experience. Past experience managing a global support team
+- Experience working on a fleet of MacOS and ChromeOS endpoints  
+- Proven ability to effectively lead and meet business objectives in a global, collaborative and high performance work environment
+- Change management knowledge and ability to operate effectively in fast-paced environment
+- Desirable: PMP, ITIL certification. CISSP or similar certification is a plus
+- Demonstrated experience in vendor management and capacity planning in a fast growth environment
+
+
+### Vice President (VP), Security
+
+This position reports to the [CISO](/job-families/legal-and-corporate-affairs/chief-legal-officer/)
 
 #### VP of Security Job Grade
 
-The VP of Security is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The VP of Security is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### VP of Security Responsibilities
 
-- Set the vision of the Gitlab Security Department with a clear roadmap
+- Extends that of the Senior Director, Security requirements
+- Set the vision of a GitLab Security function with a clear roadmap
 - Build and maintain a rapidly growing team with top-tier talent
-- Run the most transparent security organization in the world
+- Embrace GitLab's values by balancing transparency and security
 - Establish and implement security policies, procedures, standards, and guidelines
 - External communications: Blog, conference speaking, stream company events to YouTube
 - Work with customers and prospects to address security concerns
-- Manage a best-in-class bug bounty program with the highest rewards
-- Maintain Investor relations with regard to security
+- Manage a best-in-class bug-bounty program with the highest rewards
 - Act as central point-of-contact to Facility Security Officer for cleared facilities
-- Collaborate closely with People Ops, Legal, and any third-party firms to ensure the health and safety of organization’s employees globally
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
+
 
 #### VP of Security Requirements
 
-GitLab’s VPs of Security must have all of the following attributes.
+VPs of Security must have all of the following attributes.
 
 Must-haves:
 
 - Relevant, progressive experience managing information security teams
 - Excellent written and verbal communication skills
-- Be able to quickly hire top-quality team members and managers
-- Experience managing a multi-level security organization with managers and IC’s
-- Collaborate with other groups outside engineering such as Sales, Legal, People Ops, and Finance
+- Be able to hire and retain high-performing team members and managers
+- Experience managing a multi-level security organization with managers and individual contributors
+- Collaborate cross-functional teams such as Engineering, Product, Sales, Legal, People Ops, and Finance
 - Ability to excel in a remote-only, multicultural, distributed environment
-- Possess domain knowledge of common information security management frameworks and regulatory requirements and applicable standards such as ISO 27001, SOC 2, HIPAA, GDPR, PCI, SOX, etc.
+- Possess domain knowledge of common information security management frameworks, regulatory requirements, and applicable standards
 - Excellent project and program management skills and techniques
+- Experience leading security teams in a SaaS company
+- Demonstrable success securing high-availability cloud services
 
 Nice-to-haves
 Great candidates will have some meaningful proportion of the following.
 
 - Working knowledge of the GitLab application
-- Relevant Bachelor's degree
-- Prior fast-growing startup experience
-- US Government security clearance
-- Product/Platform company experience
 - Self-managed (on-prem) software experience
-- SaaS software experience
-- Experience with consumer-scale services
+- Experience with internet-scale services
 - Developer platform/tool industry experience
 - Deep open source software (OSS) experience
+- Relevant academic background
+- US Government security clearance
+
+#### VP, Security Performance Indicators
 
 #### Hiring Process
 
-Candidates for the director positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for the director positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule an interview with CISO
 - Candidates will then be invited to schedule separate 60 minute interviews with three leaders of the organization
-- Candidates will then be invited to schedule an interview with CEO
+- Candidates will then be invited to schedule separate two 45 minute interviews with cross-functional team members
 - Successful candidates will subsequently be made an offer via email
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ## Career Ladder
 
-For more details on the security engineering career ladders, please review the [security engineering career development](https://handbook.gitlab.com/job-families/security/security-engineer/) handbook page.
+For more details on the security engineering career ladders, please review the [security engineering career development](/job-families/security/security-engineer/) handbook page.
 
-## Performance Indicators
-
-- [Security Impact on IACV](https://about.gitlab.com/handbook/security/performance-indicators/#security-impact-on-iacv)
-- [Security Control Health](https://about.gitlab.com/handbook/security/performance-indicators/#security-control-health)
-- [MTTM (Mean-Time-To-Mitigation) for severity::1-severity::2-severity::3 security vulnerabilities](https://about.gitlab.com/handbook/security/performance-indicators/#mttm-mean-time-to-mitigation-for-severity1-severity2-severity3-security-vulnerabilities)
-- [SIRT (former Security Operations) Page Volume](https://about.gitlab.com/handbook/security/performance-indicators/#sirt-former-security-operations-page-volume)
-- [Cost of Abuse](https://about.gitlab.com/handbook/security/performance-indicators/#cost-of-abuse)

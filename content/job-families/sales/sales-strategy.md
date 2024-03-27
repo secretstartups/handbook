@@ -5,24 +5,59 @@ description: "The Sales Strategy Job Family helps develop and execute GitLab's G
 
 The Sales Strategy Job Family helps develop and execute GitLab's Global Sales Strategy. The Sales Strategy Job Family partners close with Sales Leadership to identify opportunities and improve efficiencies.
 
-### Sales Strategy Senior Analyst
+### Sales Strategy Analyst
 
-The Sales Strategy Senior Analyst reports to the Manager or Senior Manager, Sales Strategy.
+The Sales Strategy Analyst reports to the Manager or Senior Manager, Sales Strategy.
 
-#### Sales Strategy Senior Analyst Job Grade
+#### Sales Strategy Analyst Job Grade
 
-The Sales Strategy Senior Analyst is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Sales Strategy Analyst is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Sales Strategy Senior Analyst Responsibilities
+#### Sales Strategy Analyst Responsibilities
+
+- Be a trusted advisor to Regional Sales Leadership
+- Provide analysis that supports the development of Global Go-to-Market sales strategies
+- Analyze and determine key insights from business trends and metrics
+- Track performance comparing and analyzing actual results with plans & forecasts
+- Identify opportunities to improve operational efficiency and lead efforts to scale, align and invest in the business
+- Support overall strategic and operational cadence for the sales organization.
+- Ability to conduct sophisticated, detailed and creative analysis and clearly communicate results through written and verbal channels
+- Partner cross-functionally with Marketing, Sales, Finance, Channel and Customer Success
+
+#### Sales Strategy Analyst Requirements
+
+- BA/BS degree
+- Demonstrated experience in an analytical role within a technology business. Preference for Sales Strategy, Business Intelligence/Analytics, Management Consulting, Venture Capital/Private Equity, and/or Investment Banking backgrounds
+- Excellent quantitative analytical skills, creativity in problem solving, and a keen business sense
+- Ability to think strategically, but also have exceptional attention to detail to drive program management and execution
+- Track record of building high-quality and complex spreadsheets, models and presentations
+- Strong interpersonal and communication skills effective across all levels of management
+- Experience with SQL, Tableau, and/or similar analytical packages a plus
+- SaaS and B2B experience preferred
+- Interest in GitLab, and open source software
+- You share our values, and work in accordance with those values
+- Ability to thrive in a fully remote organization
+
+### Senior Sales Strategy Analyst
+
+The Senior Sales Strategy Analyst reports to the Manager or Senior Manager, Sales Strategy.
+
+#### Senior Sales Strategy Analyst Job Grade
+
+The Senior Sales Strategy Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Senior Sales Strategy Analyst Responsibilities
 
 - Be a trusted advisor to Sales Leadership
 - Partner cross-functionally with Sales Leadership, Marketing, Channel and Product teams to formulate and develop go-to-market and Global Sales strategies, independently managing initiatives from ideation to execution
+- Partner with sales on annual planning activities and the territory carving
 - Identify opportunities to improve operational efficiency and lead efforts to scale, align and invest in the business
 - Develop an understanding of and stay current with the competitive landscape
 - Author and deliver high-impact presentations and plans to support CRO and Theater Sales Leaders in internal Sales events
 - Ability to conduct sophisticated, detailed and creative analysis and clearly communicate results through written and verbal channels
+- Collaborate with regional sales leaders and teams to develop and execute sales management disciplines and processes (weekly/quarterly forecast, QBRs, pipeline analysis and development, etc)
 
-#### Sales Strategy Senior Analyst Requirements
+#### Senior Sales Strategy Analyst Requirements
 
 - BA/BS degree
 - Demonstrated progressive experience in an analytical role within a technology business. Preference for Sales Strategy, Business Intelligence/Analytics, Management Consulting, Venture Capital/Private Equity, and/or Investment Banking backgrounds
@@ -45,7 +80,7 @@ The Sales Strategy Manager reports to the Senior Director, Sales Strategy.
 
 #### Sales Strategy Manager Job Grade
 
-The Sales Strategy Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Sales Strategy Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Sales Strategy Manager Responsibilities
 
@@ -77,7 +112,7 @@ The Sales Strategy Manager is a [grade 8](https://about.gitlab.com/handbook/tota
 - You share our values, and work in accordance with those values
 - Ability to thrive in a fully remote organization
 - You share our values, and work in accordance with those values.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
+- [Leadership at GitLab](/handbook/company/structure/#director-group)
 - Ability to use GitLab
 
 ### Sales Strategy Senior Manager
@@ -86,7 +121,7 @@ The Sales Strategy Senior Manager reports to the Senior Director, Sales Strategy
 
 #### Sales Strategy Senior Manager Job Grade
 
-The Sales Strategy Senior Manager is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Sales Strategy Senior Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Sales Strategy Senior Manager Responsibilities
 
@@ -103,7 +138,7 @@ The Director, Sales Strategy reports to the Senior Director, Sales Strategy.
 
 #### Director, Sales Strategy Job Grade
 
-The Sales Strategy Senior Manager is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Sales Strategy Senior Manager is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, Sales Strategy Responsibilities
 
@@ -135,7 +170,7 @@ The Sales Strategy Senior Manager is a [grade 10](https://about.gitlab.com/handb
 - You share our values, and work in accordance with those values
 - Ability to thrive in a fully remote organization
 - You share our values, and work in accordance with those values.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
+- [Leadership at GitLab](/handbook/company/structure/#director-group)
 - Ability to use GitLab
 
 ### Senior Director, Sales Strategy
@@ -144,7 +179,7 @@ The Senior Director, Sales Strategy reports to the [VP, Field Operations](/job-f
 
 #### Senior Director, Sales Strategy Job Grade
 
-The Senior Director, Sales Strategy is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, Sales Strategy is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Director, Sales Strategy Responsibilities
 
@@ -161,7 +196,7 @@ The Vice President, Sales Strategy reports to the [VP, Field Operations](/job-fa
 
 #### Vice President, Sales Strategy & Analytics Job Grade
 
-The Vice President, Sales Strategy & Analytics is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Vice President, Sales Strategy & Analytics is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Vice President, Sales Strategy & Analytics Responsibilities
 
@@ -230,4 +265,4 @@ Candidates for this position can expect the hiring process to follow the order b
 1. Video Interview with the Hiring Manager
 1. Team Interviews with 1-4 team members
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

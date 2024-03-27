@@ -9,7 +9,7 @@ GitLab's VP Sales, Channel and Alliances, is an experienced leader who is at the
 
 ## Job Grade
 
-The VP Sales, Channel and Alliances is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The VP Sales, Channel and Alliances is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
 
@@ -24,7 +24,7 @@ The VP Sales, Channel and Alliances is a [grade 12](https://about.gitlab.com/han
 
 ## Requirements
 
-- Demonstrated progressive progressive channel leadership experience globally within the software devops industry.
+- Demonstrated progressive progressive channel leadership experience globally within the software DevOps industry.
 - Experience building and managing channel programs in multiple regions around the world (Americas, EMEA, APAC, US Public Sector)
 - Demonstrable track record of success in worldwide channels strategic planning, owning sales targets and managing sales forecast.
 - Experience in a high-growth company. Strong ability to interact and influence effectively with C-level executives and team members
@@ -34,9 +34,9 @@ The VP Sales, Channel and Alliances is a [grade 12](https://about.gitlab.com/han
 - Excellent time management and written/verbal communication skills.
 - Ability to travel globally as needed
 - You share our values, and work in accordance with those values.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#s-group)
+- [Leadership at GitLab](/handbook/company/structure/#s-group)
 - Ability to use GitLab
-- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
+- Ability to travel if needed and comply with the company’s [travel policy](/handbook/travel/)
 
 {{% job-families/sales/performance %}}
 

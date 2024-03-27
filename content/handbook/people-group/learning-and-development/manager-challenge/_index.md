@@ -6,9 +6,9 @@ title: Manager Challenge
 
 **Please note that the next Manager Challenge has been paused until further notice.**
 
-Team member can reach out in the [#learninganddevelopment Slack channel](https://app.slack.com/client/T02592416/CMRAWQ97W) with any questions about upcoming manager training or utilize their [Growth and Development benefit]({{< ref "growth-and-development" >}}) for external training opportunities.
+Team member can reach out in the [#learninganddevelopment Slack channel](https://app.slack.com/client/T02592416/CMRAWQ97W) with any questions about upcoming manager training or utilize their [Growth and Development benefit](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development) for external training opportunities.
 
-You can learn more about our current manager development program on our [Elevate handbook page]({{< ref "elevate" >}}).
+You can learn more about our current manager development program on our [Elevate handbook page]({{< ref "elevate-programs" >}}).
 
 ## Introduction
 
@@ -24,7 +24,7 @@ The program was awarded a Gold Excellence in Leadership Development by the [Bran
 
 ### Team Member Time Investment Level
 
-If you plan to participate in the Manager Challenge, please discuss with your manager. Let them know you are interested and will be dedicating the three weeks to actively participating. This is not like the [CEO Shadow program]({{< ref "/handbook/ceo/shadow" >}}), but the Manager Challenge will **require a heavy time investment**. If you plan to participate, try to do everything you can to block one to two hours each day during the program. This is an intensive program with the goal of covering a lot of material in a short amount of time to increase knowledge retention. **There will be more synchronous activities, less async, this challenge due to feedback from past participants.**
+If you plan to participate in the Manager Challenge, please discuss with your manager. Let them know you are interested and will be dedicating the three weeks to actively participating. This is not like the [CEO Shadow program](/handbook/ceo/shadow), but the Manager Challenge will **require a heavy time investment**. If you plan to participate, try to do everything you can to block one to two hours each day during the program. This is an intensive program with the goal of covering a lot of material in a short amount of time to increase knowledge retention. **There will be more synchronous activities, less async, this challenge due to feedback from past participants.**
 
 Make the program part of your [career development]({{< ref "career-development" >}}), and include in your [Individual Growth Plan]({{< ref "career-development#internal-resources-1" >}}).
 
@@ -45,10 +45,10 @@ You may be asking yourself what you will achieve by taking part in the Manager C
 In addition, the program ties into GitLab's strategic priorities through the following:
 
 1. Mitigating concerns associated with:
-     1. [Lack of Performance Management]({{< ref "mitigating-concerns#underperformance" >}})
-     1. [Ineffective Management]({{< ref "mitigating-concerns#ineffective-management" >}})
+     1. [Lack of Performance Management](https://internal-handbook.gitlab.io/handbook/leadership/mitigating-concerns/#underperformance)
+     1. [Ineffective Management](https://internal-handbook.gitlab.io/handbook/leadership/mitigating-concerns/#ineffective-management)
 1. Achieving GitLab Strategy of:
-     1. [Inclusive Growth & Development for Team Members]({{< ref "strategy#4-inclusive-growth--development-for-team-members" >}})
+     1. [Inclusive Growth & Development for Team Members](/handbook/company/strategy#4-inclusive-growth--development-for-team-members)
 
 Below is a video L&D recorded with Sid on manager enablement:
 
@@ -186,7 +186,7 @@ The document is intended to be a starting point for managers to document where t
 1. **What skills will I be building?**
     - You will be building a range of skills that include: coaching, managing performance, crucial conversations, feedback, building an inclusive culture, developing high performing teams, getting to know your team, and much more!
 1. **How does this complement our values?**
-    - All of the challenges will reinforce our values by applying management techniques to lead teams in a remote environment. In the weekly charts above, each day or topic will have a [values competency](https://about.gitlab.com/handbook/competencies/#list) that you can expect to improve upon.
+    - All of the challenges will reinforce our values by applying management techniques to lead teams in a remote environment. In the weekly charts above, each day or topic will have a [values competency](/handbook/competencies/#list) that you can expect to improve upon.
 1. **Is the content in the slides in the Handbook?**
     - Yes! All of the content will be in the Handbook. We are creating Google Slides to visualize the content for the challenges but all of it will live in the handbook.
 1. **What if I can’t attend a Live Learning session or complete a challenge?**

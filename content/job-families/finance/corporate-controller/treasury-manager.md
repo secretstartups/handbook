@@ -4,19 +4,19 @@ title: "Treasury"
 
 ### Levels
 
-## Senior Treasury Analyst
+## Treasury Analyst
 
-The Senior Treasury Analyst reports to the [Director Treasury](https://about.gitlab.com/job-families/finance/corporate-controller/treasury-manager/#director---treasury)
+The Treasury Analyst reports to the [Director Treasury](/job-families/finance/corporate-controller/treasury-manager/#director---treasury)
 
-#### Senior Treasury Analyst Job Grade
+#### Treasury Analyst Job Grade
 
-The Senior Treasury Analyst is a [grade #7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Treasury Analyst is a [grade #6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Senior Treasury Analyst Responsibilities
+#### Treasury Analyst Responsibilities
 
-- Partner effectively across functional teams (AP, Payroll, Accounting, Legal, and Tax) to drive key Treasury initiatives and cross-functional projects involving Treasury
-- Responsible for maintaining worldwide banking relationships
-- Drive the 13-week Cash Forecasting Process and recommend/implement ways to improve accuracy
+- Partner effectively across functional teams (AP, Payroll, Accounting, Legal, and Tax) to execute on key Treasury initiatives and cross-functional projects involving Treasury
+- Maintain worldwide banking relationships
+- Execute the 13-week Cash Forecasting Process
 - Execute and continuously improve daily treasury operations not limited to cash management, Treasury systems, processes and controls, foreign exchange, domestic and international intercompany settlement/funding and short-term investments
 - Assist with ongoing bank account administration including opening and closing of accounts, updating account documentation, maintain authorized signatories, and KYC (Know Your Customer) requirements
 - Ensures compliance with SOX controls, FBAR, anti-money laundering regulations, and other rules governing cash transactions and banking
@@ -25,11 +25,39 @@ The Senior Treasury Analyst is a [grade #7](https://about.gitlab.com/handbook/to
 - Support internal /external audit requirements and reporting
 - Ad-hoc Treasury projects as needed
 
+#### Treasury Analyst Requirements
+
+- Bachelor’s Degree in Finance, Business Administration, or Accounting preferred
+- 1-2 years' progressive experience in corporate treasury or international commercial bank
+- Basic understanding of cash management, corporate finance and accounting
+- Experience with Netsuite or similar ERP software
+- Experience with major banking portals
+- Ability to work remote and independently
+
+
+## Senior Treasury Analyst
+
+The Senior Treasury Analyst reports to the [Director Treasury](/job-families/finance/corporate-controller/treasury-manager/#director---treasury)
+
+#### Senior Treasury Analyst Job Grade
+
+The Senior Treasury Analyst is a [grade #7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Senior Treasury Analyst Responsibilities
+
+- Manage the global cash positions, optimize cash flows across global subsidiaries, provide support for tax/international accounting related cash flows and support of funding entities. Continue to leverage best in class tools to drive business requirements.
+- Help develop short and long-term strategies for the Company and be responsible to prioritize and execute treasury and cash management initiatives
+- Assist with building out FX trading & hedging activities by driving forecasting efforts, developing strategy, mitigating risk, and optimizing execution for hedging
+- Support the global ERP system to help implement Treasury best practices and actively contribute to cross-functional organizational development such as business process management with accounts receivable and accounts payable (automation, lockbox structure, credit card program, etc.) within the ERP platform
+- Help manage annual insurance renewals by directing and coordinating data collection and application submission
+- Keep up to date with Treasury best practices and trends
+- Ad-hoc Treasury projects as needed
+
 #### Senior Treasury Analyst Requirements
 
 - Bachelor’s Degree in Finance, Business Administration, or Accounting preferred
 - 3-5 years' progressive experience in corporate treasury or international commercial bank
-- Basic understanding of cash management, corporate finance and accounting
+- Deep understanding of cash management, corporate finance and accounting
 - Experience with Netsuite or similar ERP software
 - Experience with major banking portals
 - Ability to work remote and independently
@@ -47,7 +75,7 @@ The Director Treasury reports to the VP Cash Management
 
 #### Director - Treasury Job Grade
 
-The Director - Treasury is a [grade #10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director - Treasury is a [grade #10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director - Treasury Responsibilities
 
@@ -91,8 +119,8 @@ The next step in the Treasury job family is to move to the Principal Accounting 
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Meet with Director Treasury for 50 minutes
 - Meet with VP Cash Management for 30 minutes
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

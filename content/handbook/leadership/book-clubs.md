@@ -6,7 +6,7 @@ From time to time, we run internal book clubs on a book from one of our resource
 each club has a suggested audience to indicate roles to which the content is tailored.
 
 - [Leadership]({{< ref "_index.md#books" >}})
-- [Development](https://about.gitlab.com/handbook/engineering/development/#books)
+- [Development](/handbook/engineering/development/#books)
 
 To propose a new book club, [create an
 issue](https://gitlab.com/gitlab-com/books-clubs/combined-book-clubs/-/issues/new) in the [book
@@ -95,7 +95,7 @@ This book club was internal-only.
        the more people can attend.
 1. [Set up the meeting schedule.]({{< ref "tools-and-tips#gitlab-team-meetings-calendar" >}})
     1. Record the meetings and [post them to
-       YouTube](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/). If the participants
+       YouTube](/handbook/marketing/marketing-operations/youtube/). If the participants
        agree, make the videos public.
     1. Consider having the same section of the book covered in different
        meeting slots, to allow people in different time zones to attend.

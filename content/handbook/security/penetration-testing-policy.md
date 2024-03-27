@@ -1,10 +1,7 @@
 ---
 title: "Penetration Testing Policy"
+controlled_document: true
 ---
-
-{{% alert title="This is a Controlled Document" color="danger" %}}
-Inline with GitLab's regulatory obligations, changes to [controlled documents]({{< ref "controlled-document-procedure" >}}) must be approved or merged by a code owner. All contributions are welcome and encouraged.
-{{% /alert %}}
 
 A penetration test is a process to identify security vulnerabilities in an application or infrastructure in order to evaluate the security of the system.
 
@@ -67,7 +64,7 @@ Validation issues should be tagged based on the severity recommended by the thir
 
 ### 4. Remediation
 
-Remediation is the part of the process in which a validated findings is fixed. SLAs are in place to help prioritize findings based on severity. The remediation SLA timeframes begin as soon as a finding is formally communicated and reported by the third-party pen testing. Once a finding is remediated, the third-party pen testing will validate that the finding is indeed remediated.
+Remediation is the part of the process in which a validated findings is fixed. [SLAs]({{< ref "./threat-management/vulnerability-management#remediation-slas" >}}) are in place to help prioritize findings based on severity. The remediation SLA timeframes begin as soon as a finding is formally communicated and reported by the third-party pen testing. Once a finding is remediated, the third-party pen testing will validate that the finding is indeed remediated.
 
 ## Exceptions
 

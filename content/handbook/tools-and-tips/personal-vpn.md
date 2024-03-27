@@ -3,7 +3,7 @@ title: "Personal VPN"
 description: "Basic questions answered, tips, and recommendations for using a personal VPN."
 ---
 
-GitLab does not use a [corporate VPN](https://about.gitlab.com/handbook/security/#why-we-dont-have-a-corporate-vpn). We have selected [NordLayer](https://about.gitlab.com/handbook/it/guides/nordlayer/) as our personal VPN solution.
+GitLab does not use a [corporate VPN](/handbook/security/#why-we-dont-have-a-corporate-vpn). We have selected [NordLayer](/handbook/it/guides/nordlayer/) as our personal VPN solution.
 
 ## What is a personal VPN?
 
@@ -15,12 +15,12 @@ The personal VPN has a few other advantages. All personal VPN companies maintain
 
 ## Why would a GitLab team member use one?
 
-There are a few reasons why a GitLab team member might want to use [NordLayer](https://about.gitlab.com/handbook/it/guides/nordlayer/):
+There are a few reasons why a GitLab team member might want to use [NordLayer](/handbook/it/guides/nordlayer/):
 
 - You use public Wi-Fi frequently. This could be because of travel, deciding to work from a coffee shop for the afternoon, or some other reason.
 - You are using a private network but you do not trust it to be secure. You are working from a relative's home, a university network, or some other network that is not public but may not have tight security controls (or they are unknown).
 - You share your home network with housemates that work at other companies, are students, and even neighbors, and you'd like to ensure that your communications remain private.
-- You wish to [isolate your work environment from your home environment](https://about.gitlab.com/handbook/security/network-isolation/).
+- You wish to [isolate your work environment from your home environment](/handbook/security/network-isolation/).
 
 ## Important tips
 
