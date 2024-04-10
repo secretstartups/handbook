@@ -42,6 +42,9 @@ At times, the business may need to change job attributes such as the direct mana
 
 **Internal Mobility Promotions:**  Internal Mobility promotions occur when a team member applies for an open position and accepts a role at a higher grade/job responsibilities when compared to their current role.  
 
+- In order for promotions through internal mobility to occur, approval from the skip-level leader is required.
+- Additionally, the aligned People Business Partner should be consulted for alignment and visibility.
+
 ## Promotion Philosophy
 
 Our promotion philosophy comprises core pillars surrounding the approach and process alignment to our values.
