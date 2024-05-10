@@ -266,8 +266,8 @@ Extends that of the Manger, Enterprise Architecture & Integration Engineering re
 
 ## Performance Indicators
 
-- [Evaluating System or Process Efficiency](/handbook/business-technology/metrics/#evaluating-system-or-process-efficiency)
-- [Average Merge Request](/handbook/business-technology/metrics/#average-merge-request)
+- [Evaluating System or Process Efficiency](https://internal.gitlab.com/handbook/it/it-performance-indicators/#evaluating-system-or-process-efficiency)
+- [Average Merge Request](https://internal.gitlab.com/handbook/it/it-performance-indicators/#average-merge-request)
 - Evaluating health of integrations
 - Number of integrations implemented that increase the efficiency of the company
 - Total hours saved by improving systems integrations

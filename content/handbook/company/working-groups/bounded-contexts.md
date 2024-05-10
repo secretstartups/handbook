@@ -9,8 +9,8 @@ description: "Identify backend bounded contexts composing the GitLab Rails monol
 |-----------------|-----------------|
 | Date Created    | 2023-11-28 |
 | Target End Date | 2024-03-31 |
-| Slack           | #wg_bounded_contexts (only accessible from within the company) |
-| Google Doc      | TBD (only accessible from within the company) |
+| Slack           | [#wg_bounded_contexts](https://gitlab.enterprise.slack.com/archives/C069VRRN70S) (only accessible from within the company) |
+| Google Doc      | [Agenda doc](https://docs.google.com/document/d/1Ss2lvZHm1ID5CTVQJS3ivM7Nc1FgLaPCBCSm2RDawKI/edit) (only accessible from within the company) |
 
 ### Summary
 
@@ -127,9 +127,11 @@ For stages still missing participants we will seek support from Engineering lead
 | Member                | Remy Coutable         | Principal Engineer, Quality |
 | Member                | Eduardo Bonet         | Staff Incubation Engineer, MLOps |
 | Member                | Vij Hawoldar          | Senior Backend Engineer, Fulfillment::Utilization |
+| Member                | Suraj Tripathi        | Senior Backend Engineer, Fulfillment::Utilization |
 | Member                | Kassio Borges         | Staff Backend Engineer, Plan::Knowledge |
 | Member                | Aakriti Gupta         | Senior Backend Engineer, Systems:Geo |
 | Member                | Peter Leitzen         | Staff Backend Engineer, Engineering Productivity |
 | Member                | Abhinaba Ghosh        | Engineering Manager, Test & Tools Infrastructure |
 | Member                | Mohamed Hamda         | Backend Engineer, Fulfillment::Provision |
 | Member                | Andrei Zubov          | Senior Frontend Engineer, Environments |
+| Member                | Fabien Catteau        | Staff Backend Engineer, Secure::Composition Analysis |

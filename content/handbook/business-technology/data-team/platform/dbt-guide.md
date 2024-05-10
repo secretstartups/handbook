@@ -1,23 +1,12 @@
 ---
-
 title: "dbt Guide"
 description: "data build tool (dbt) Guide"
 ---
 
-
-
-
-
-
-
-
-
----
-
 ## Quick Links
 
-[Primary Project](https://gitlab.com/gitlab-data/analytics/){:.btn .btn-purple-inv}
-[dbt docs](https://dbt.gitlabdata.com/){:.btn .btn-purple-inv}
+- [Primary Project](https://gitlab.com/gitlab-data/analytics/)
+- [dbt docs](https://dbt.gitlabdata.com/)
 
 ## What and why
 
@@ -51,7 +40,7 @@ A full list of packages available are on the [dbt Hub site](https://hub.getdbt.c
 
 If you're interested in using dbt, the [dbt documentation has a great tutorial](https://tutorial.getdbt.com/tutorial/setting-up/) on getting setup to work on data from a fictional business called Jaffle Shop.
 
-If you wish to use dbt and contribute to the data team project, you'll need to gain access to our Snowflake instance, which can be done via an [access request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/).
+If you wish to use dbt and contribute to the data team project, you'll need to gain access to our Snowflake instance, which can be done via an [access request](/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/).
 
 ### Configuration
 
@@ -295,16 +284,9 @@ Add this in your `settings.json` file:
 }
 ```
 
-<div class="panel panel-warning">
-**Note**
-{: .panel-heading}
-
-  <div class="panel-body">
-
-    If the code base is updated with new values for these environment variables, you will have to update them in your `settings.json` according to the values of variables located in the `Makefile` at the root of the analytics repository.
-
-  </div>
-</div>
+{{% panel header="**Note**" header-bg="warning" %}}
+If the code base is updated with new values for these environment variables, you will have to update them in your `settings.json` according to the values of variables located in the `Makefile` at the root of the analytics repository.
+{{% /panel %}}
 
 - Edit `DBT_PROFILES_DIR` so that it points to your `~/.dbt/` folder (it seems that path must be relative and pointing to your `~/.dbt` folder, from the `/analytics` folder)
 - Restart VScode and re-open the analytics workspace
@@ -323,17 +305,10 @@ dbt.exceptions.RuntimeException: Runtime Error
 ```
 
   - then change the target profile used by dbt: navigate to dbt-power-user extension settings (Extensions > dbt-power-user > cog > Extension settings) and edit the setting called `Dbt: Run Model Command Additional Params` (same for build)
-<div class="panel panel-warning">
-**Note**
-{: .panel-heading}
 
-  <div class="panel-body">
-
-    When running/building/testing a model from VS code UI, the terminal window popping is only a log output. Cmd+C does not stop the job(s), nor clicking the Trash icon in VS code. If you want to stop a job started via VScode, go through the Snowflake UI and your job list and kill the job(s) from there.
-
-  </div>
-</div>
-
+{{% panel header="**Note**" header-bg="warning" %}}
+When running/building/testing a model from VS code UI, the terminal window popping is only a log output. Cmd+C does not stop the job(s), nor clicking the Trash icon in VS code. If you want to stop a job started via VScode, go through the Snowflake UI and your job list and kill the job(s) from there.
+{{% /panel %}}
 
 ### Configuration for contributing to dbt project
 
@@ -367,37 +342,23 @@ As we transition to a more Kimball-style warehouse, we are improving how we orga
 The following sections will all be top-level directories under the `models` directory, which is a dbt default.
 This structure is inspired by how Fishtown Analytics [structures their projects](https://discourse.getdbt.com/t/how-we-structure-our-dbt-projects/355).
 
-<div class="panel panel-warning">
-**Legacy Structure**
-{: .panel-heading}
+{{% panel header="**Legacy Structure**" header-bg="warning" %}}
+Prior to our focus on Kimball dimensional modeling, we took inspiration from the BEAM\* approach to modeling introduced in ["Agile Data Warehouse Design" by Corr and Stagnitto](https://books.google.com/books/about/Agile_Data_Warehouse_Design.html?id=TRWFmnv8jP0C&source=kp_book_description).
+Many of the existing models still follow that pattern.
+The information in this section is from previous iterations of the handbook.
 
-  <div class="panel-body">
-
-  Prior to our focus on Kimball dimensional modeling, we took inspiration from the BEAM\* approach to modeling introduced in ["Agile Data Warehouse Design" by Corr and Stagnitto](https://books.google.com/books/about/Agile_Data_Warehouse_Design.html?id=TRWFmnv8jP0C&source=kp_book_description).
-  Many of the existing models still follow that pattern.
-  The information in this section is from previous iterations of the handbook.
-
-  - The goal of a (final) `_xf` dbt model should be a `BEAM*` table, which means it follows the business event analysis & model structure and answers the who, what, where, when, how many, why, and how question combinations that measure the business.
-  - `base models`- the only dbt models that reference the source table; base models have minimal transformational logic (usually limited to filtering out rows with data integrity issues or actively flagged not for analysis and renaming columns for easier analysis); can be found in the `legacy` schema; is used in `ref` statements by `end-user models`
-  - `end-user models` - dbt models used for analysis. The final version of a model will likely be indicated with an `_xf` suffix when it’s goal is to be a `BEAM*` table. It should follow the business event analysis & model structure and answer the who, what, where, when, how many, why, and how question combinations that measure the business. End user models are found in the `legacy` schema.
+- The goal of a (final) `_xf` dbt model should be a `BEAM*` table, which means it follows the business event analysis & model structure and answers the who, what, where, when, how many, why, and how question combinations that measure the business.
+- `base models`- the only dbt models that reference the source table; base models have minimal transformational logic (usually limited to filtering out rows with data integrity issues or actively flagged not for analysis and renaming columns for easier analysis); can be found in the `legacy` schema; is used in `ref` statements by `end-user models`
+- `end-user models` - dbt models used for analysis. The final version of a model will likely be indicated with an `_xf` suffix when it’s goal is to be a `BEAM*` table. It should follow the business event analysis & model structure and answer the who, what, where, when, how many, why, and how question combinations that measure the business. End user models are found in the `legacy` schema.
 
 Look at the [Use This Not That](https://docs.google.com/spreadsheets/d/1yr-J4ztkyl9vmJ6Euj58gczDLTIss7xIher5SV-1VDY/edit?usp=sharing) mapping to determine which new Kimball model replaces the legacy model.
+{{% /panel %}}
 
-  </div>
-</div>
+{{% panel header="**FY21-Q4 Model Migration**" header-bg="success" %}}
+In FY21-Q4 the `prod` and `prep` databases were introduced to replace the `analytics` database. These 2 new databases will fully replace the `analytics` database.
 
-<div class="panel panel-success">
-**FY21-Q4 Model Migration**
-{: .panel-heading}
-
-  <div class="panel-body">
-
-  In FY21-Q4 the `prod` and `prep` databases were introduced to replace the `analytics` database. These 2 new databases will fully replace the `analytics` database.
-
-  Local development was also switched from custom schemas to custom databases.
-
-  </div>
-</div>
+Local development was also switched from custom schemas to custom databases.
+{{% /panel %}}
 
 #### Sources
 
@@ -880,7 +841,7 @@ This configuration can be done using the `generate_warehouse_name` macro within 
 
 ### Sample Data in Development
 
-To streamline local development on local models, a way to sample, or use a subset of the data, is made available to the developers. This tool will allow developers the option of using sample data, or full data depending on what the situation calls for, allowing them to iterate quickly on the structure of models using sample data and then switch to full data when validation is needed. Using this in conjunction with local cloning of tables should improve the developer cycle time.  
+To streamline local development on local models, a way to sample, or use a subset of the data, is made available to the developers. This tool will allow developers the option of using sample data, or full data depending on what the situation calls for, allowing them to iterate quickly on the structure of models using sample data and then switch to full data when validation is needed. Using this in conjunction with local cloning of tables should improve the developer cycle time.
 
 When selecting the tool to use, the developer should consider speed gained from the tool and the consequence of leaving the sampling in the code. A Random Sample is easy to add to the code, but if left in the code base, it puts the quality of the production data at risk, whereas a Sample Table will take longer to set up, but has no risk to the production data.
 
@@ -921,7 +882,7 @@ Workflow steps:
       - name: dim_date
         clause: "{{ sample_table(3) }}"
 
-    # Or 
+    # Or
 
     samples:
       - name: dim_date
@@ -941,7 +902,7 @@ Workflow steps:
   - Override the `local_data` variable to be `full-data` as part of the dbt execution
 
     ```
-    dbt run -s dim_date --vars 'local_data: full_data'    
+    dbt run -s dim_date --vars 'local_data: full_data'
     ```
 
 - Remove sample configuration
@@ -1240,17 +1201,6 @@ To run the `zuora_revenue_revenue_contract_line_source` rowcount tests, we can u
 
 > :warning:  Please note, whenever you make changes to the underlying tests in the data-tests project, you need to push those changes to the remote and re-run steps 3-5,  to start a dbt container with the latest changes from your branch.
 
-
-#### Trusted Data Operations Dashboard
-
-The Trusted Data Operations Dashboard is used to quickly evaluate the health of the Data Warehouse. The most important data is presented in a simple business-friendly way with clear color-coded content for test PASS or FAIL status.
-
-<iframe class="dashboard-embed" src="https://app.periscopedata.com/shared/09d9881e-f5ac-474c-b5a3-cc21b2b96d33??embed=true" height="700"> </iframe>
-
-#### Trusted Data Health Dashboard
-
-Trusted data health dashboard gives business partners a high level overview of health status if the data in the Snowflake Data-warehouse could be trusted or not. This is defined based on criteria such as if quality checks are met, date until data is refreshed and if the data is up to date. Health Status in the dashboard is presented separately for Data extraction (RAW data layer) and Data transformation (Prod data layer) with a  PASS, FAIL, WARNING status and color coded accordingly to give business partners better insights into status of the data.
-
 ##### Data extraction (RAW data layer)
 
 Data extraction is loading data from the source system to Snowflake data warehouse in the RAW data layer.
@@ -1258,8 +1208,6 @@ Data extraction is loading data from the source system to Snowflake data warehou
 ##### Data transformation (Prod data layer)
 
 Data transformation is downstream transformation via dbt for Dimensions, Facts, Marts and reports models.
-
-<iframe class="dashboard-embed" src="https://app.periscopedata.com/app/gitlab/891891/WIP-TD:-Trusted-Data-Health-Dashboard" height="700"> </iframe>
 
 ### Snapshots
 
@@ -1312,7 +1260,7 @@ The following is an example of how we implement a snapshot:
 
 #### Snapshot Model Types
 
-While the DBT Snapshot tables are built directly over sources to capture changed records, tables are built over the snapshots to be used for analysis.  
+While the DBT Snapshot tables are built directly over sources to capture changed records, tables are built over the snapshots to be used for analysis.
 1. A DBT Snapshot model captures changed records for a single table.
    - The single table being snapshotted may be a Source table or a table already being used for analysis.
    - A Snapshot table is defined with {% snapshot table_name %} in the configuration section of the model.
@@ -1328,7 +1276,7 @@ The `strategy` to determine when a new snaphot record is written can be configur
 
 The `record version` is determined by the `dbt_valid_from` and `dbt_valid_to` columns.  These TIMESTAMP columns are created automatically by DBT and utilized by the snapshot model to determine the timeframe of each snapshotted row.
  - When a new snapshot record is written, `dbt_valid_from` has the current date time and.  `dbt_valid_to` is NULL to show this is the most recent snapshot row.
- - `dbt_valid_to` in the previous version of the record is updated with the same current date time as the new record.  
+ - `dbt_valid_to` in the previous version of the record is updated with the same current date time as the new record.
 
 DBT Snapshots, by default, are loaded incrementally. Records that have changed are picked up each time the snapshot operation runs.
 
@@ -1342,7 +1290,7 @@ DBT Snapshots, by default, are loaded incrementally. Records that have changed a
 
 **Snapshot Model Type Features**
 
-The different types of snapshots are determined by basic features used when building models with snapshot data.  
+The different types of snapshots are determined by basic features used when building models with snapshot data.
 
 Some basic features of Snapshot models are:
 - `DBT Snapshot` - The DBT Snapshot model is built in RAW over a single table and is not available for analysis
@@ -1351,7 +1299,7 @@ Some basic features of Snapshot models are:
 - `History Rebuild` - Model built over one or more Snapshot models using the same logic used to build out the SCD Dimension.  The history in these models can be rebuilt if the columns or logic changes.
 
 **Snapshot Model Type Examples:**
-- Snapshot Methods used for ARR Data can be found [HERE](/handbook/business-technology/data-team/data-catalog/finance-arr/)  
+- Snapshot Methods used for ARR Data can be found [HERE](/handbook/business-technology/data-team/data-catalog/finance-arr/)
 - Here are examples of snapshot models with the variation of features that help determine the type:
 
 | DBT Snapshot | Over Snapshot | Spined Dates | History ReBuild | Example                          |
@@ -1424,63 +1372,8 @@ If you are using date spining to generate record for each day, consider material
 
 ### Testing Downstream Impact
 
-As a way to manually test the downstream impact of the changes made to dbt models the `sisense_check.py` is included within the transform dbt project.  This script will check the [Periscope](https://gitlab.com/gitlab-data/periscope/-/tree/periscope/master) and [Sisense Safe](https://gitlab.com/gitlab-data/sisense-safe/-/tree/periscope/master) repositories for views, snippets, dashboards, and charts that reference any of a provided list of dbt models.  With the output of the this script individual views, snippets, and charts can be manually evaluated for column level impact.
+To manually review the downstream impacts a change to a model may have use the asset and filed level lineage in [Monte Carlo](https://getmontecarlo.com/).
 
-To provide a list of models to check use the [`dbt list`](https://docs.getdbt.com/reference/commands/list) command with relevant conditions to output the desired set of models and export the list of a file named `to_check.txt`.
-
-```
-dbt list -m sfdc_account_source+ netsuite_transaction_lines_source+ --exclude date_details dim_date > to_check.txt
-```
-
-The script assumes that the Periscope and the Sisense Safe repositories are checked out in the same parent directory as the analytics repository.  If the repository is not checked out the script will not return any results, additionally if the repository is not up to date the results may be incomplete.   The script will check for nested references, a table is references in a snippet that is then referenced in a chart, adding the nested references to the output of the check.  However, the script will only check for direct database references in the following schemas:
-- legacy
-- boneyard
-- common*
-- restricted_safe*
-- workspace*
-
-
-Running the script will produce a JSON, `sisense_elements.json` file as an output that will contain the name of all of the views, snippets, dashboards, and charts that reference and of the models provided to check.
-
-```json
-"mart_arr": {
-        "periscope-snippets": [
-            "base_pricing_customer_overview.sql",
-            "mrarr_base.sql",
-            "nf_ptb_account_features.sql"
-        ],
-        "periscope-dashboards": {
-            "Investor Relations": [
-                "Licensed users -- Saas/self-managed",
-                "Total ARPU Breakdown",
-                "Customer (Parent Customer) Count by ARR Buckets"
-            ]
-        },
-        "sisense-safe-dashboards": {
-            "TD: ARR per Licensed User (ARPU)": [
-                "Customer ARR by Product, Sales Segment, Account Owner Team",
-                "Total ARPU Breakdown",
-                "ARPU: Self-Managed by Customer Segment",
-                "ARPU: Other by Customer Segment",
-                "ARPU: Total"
-            ],
-        }
-}
-```
-
-Views and snippets included in the output will be surrounded by square brackets `[]` and listed at the same level of the output as the models checked.
-
-```json
-    "[nf_ptb_account_features]": {
-        "sisense-safe-dashboards": {
-            "NF - WIP Sandbox": [
-                "ARR per Periods - Extra data",
-                "SMB - ARR per Periods - Extra data",
-                "Current Period - PTB For Prediction"
-            ]
-        }
-    }
-```
 
 ### Dropping DBT Models
 
@@ -1489,7 +1382,7 @@ Here is an [Example MR](https://gitlab.com/gitlab-data/analytics/-/merge_request
 
 ## Model Performance
 
-Performance should be balanced between model execution times, which directly affect Snowflake Credit spend, and developer time, which impacts how long a developer is waiting during development, troubleshooting, and bug fixes. Generally, model execution should strike a balance between running as fast as possible and with as little cost as possible. This can be a difficult balance as some of the methods to improve run time also increase the cost, however there are methods and techniques that can be used to achieve both improved run time and decreased cost. As the number and complexity of models grow, general model run time performance criteria is needed. The overall performance goals for the data warehouse are that:  
+Performance should be balanced between model execution times, which directly affect Snowflake Credit spend, and developer time, which impacts how long a developer is waiting during development, troubleshooting, and bug fixes. Generally, model execution should strike a balance between running as fast as possible and with as little cost as possible. This can be a difficult balance as some of the methods to improve run time also increase the cost, however there are methods and techniques that can be used to achieve both improved run time and decreased cost. As the number and complexity of models grow, general model run time performance criteria is needed. The overall performance goals for the data warehouse are that:
 
 - All models should individually execute in less than 60 minutes.
 - All models should be run on the smallest warehouse allowable
@@ -1597,7 +1490,7 @@ Using the [model_build_performance](https://gitlab.com/gitlab-data/runbooks/-/bl
 #### Check model Run Time
 
 If the model run time is less than `L` then the effort needed to improve the model is not likely to yield significant returns at this time and the model can be left as it is.
-  
+
 #### Check the Model Efficiency
 
 A Model Efficiency worse than Acceptable, represents significant spillage thus reducing the performance because of the Remote and Local disk reads.

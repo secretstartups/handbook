@@ -108,7 +108,11 @@ However, hybrid-remote is a [tempting compromise that masks many downsides]({{< 
 
 While such organizations work well for some employees, it's important to note that many hybrid-remote companies are not comfortable being publicly labeled as such. Their job vacancies may not be listed as remote-friendly. Should you apply for such a role, be prepared to lobby for assuming the role in a remote environment every step of the way.
 
-{{% tweet user="sytses" id="1264341436138270720" %}}
+<!-- TODO: Replace with screenshots. -->
+
+> Sid Sijbrandij on [Twitter/X](https://twitter.com/sytses/status/1264341436138270720)
+>
+> Below is a thread about the future of remote work after the COVID-19 pandemic is over. I predict that remote will go through a trough of sorrow due to hybrid not working out, and most companies will return to being office based. But many all remote companies will see success.
 
 Want to know more? Read GitLab CEO Sid Sijbrandij's WIRED article: [Hybrid Remote Work Offers the Worst of Both Worlds](https://www.wired.com/story/hybrid-remote-work-offers-the-worst-of-both-worlds)
 
@@ -178,7 +182,7 @@ However, this does come with disadvantages. These may include loneliness, challe
 
 ## 10. Strictly remote
 
-Taken to its extreme, a strictly remote company would never meet in person and never permit synchronous meetings. This seems impractical, and we are not yet aware of a company that adheres to this. If you are aware of any such company, please [create a merge request](https://about.gitlab.com/handbook/git-page-update#13-edit-the-handbook) and assign to `@dmurph` to evaluate.
+Taken to its extreme, a strictly remote company would never meet in person and never permit synchronous meetings. This seems impractical, and we are not yet aware of a company that adheres to this. If you are aware of any such company, please [create a merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html) and assign to `@dmurph` to evaluate.
 
 ## GitLab Remote Foundations Badge
 

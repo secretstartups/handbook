@@ -36,6 +36,10 @@ reproduction purposes. This instance can be accessed at the following URLs:
 
 To receive an invite, ask Armin, Brie, Matthew or Wei-Meng.
 
+When running a test on the GitLab Support Dedicated instance, please communicate about it on the Slack channel [#spt_pod_dedicated](https://gitlab.enterprise.slack.com/archives/C058LM1RL3V).
+As we are all sharing the same test instance, and if your test may impact the whole instance, post a message at the beginning of a test with an estimate duration.
+Upon test completion, please use the emoji `:done:` to show you reverted the changes and the test is completed.
+
 The Switchboard console can be accessed at https://console.gitlab-private.org/tenants/40.
 Follow [these instructions](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/switchboard/-/tree/main#process-to-provision-new-users-pre-production-environment)
 to request access. You may use this [example access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/25151)
@@ -117,6 +121,8 @@ When any changes are required besides those listed below, raise an issue in the 
 1. Fill in the issue with the information provided by the customer and follow next steps in the issue.
 
 #### IP Allowlist Request
+
+In most cases, customers should use **Switchboard** to update the IP allowlist for their GitLab Dedicated instance. If this is not possible:
 
 1. Ask the customer to provided the [required information](https://docs.gitlab.com/ee/administration/dedicated/#ip-allowlist) in the ticket. In this case, it's a comma-separated list of IP addresses.
 1. Open a [Request for Help issue](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues/new?issuable_template=request_for_help) and confirm that the `support::request-for-help`) in the GitLab Dedicated issue tracker.

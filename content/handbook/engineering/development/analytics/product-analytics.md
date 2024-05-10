@@ -5,7 +5,7 @@ description: "The Product Analytics group works on the tools that enable custome
 ---
 ## Vision
 
-The Product Analysis Group is part of the [Analytics section](/handbook/product/categories/analytics/).
+The Product Analytics Group is part of the [Analytics section](/handbook/product/categories/analytics/).
 
 How we work:
 - We work in accordance with our [GitLab values](/handbook/values/).
@@ -61,3 +61,24 @@ We have dedicated Slack channels for the Product Analytics group:
 
 * Our weekly sync meeting switches fortnightly on Tuesdays between EMEA/AMER (1400UTC) and AMER/APAC (1930UTC) friendly times. Attendance is not mandatory (although encouraged, if you are available) and the meeting is recorded on GitLab Unfiltered. You can find the meeting link in the `#g_monitor_product_analytics` channel.
 * All analytics meetings can be found by searching for the `Analytics Shared` meeting room in Google calendar and all GitLab team members are welcome to join.
+
+## How we work
+
+We base our workflow on the company's [Product Development Flow](https://handbook.gitlab.com/handbook/product-development-flow/). Any modifications or clarifications on how we apply the workflow are detailed below.
+
+### Estimation
+
+We estimate issues async and aim to provide an initial estimate (weight) for all issues scheduled for an upcoming milestone. Engineering are responsible for estimating issues at the `~workflow::solution validation` stage and issues require a weight and milestone before proceeding to `~workflow::scheduling`. They are used by engineering and product management to most effectively decide which issues are picked for a particular milestone.
+
+Weight estimates are just that: estimates. They _do not equate_ to time spent, but in the ideal world they _do generally correlate_.
+
+#### Weight definitions
+
+| Weight | Definition |
+| ------ | ---------- |
+| 1 | The simplest possible change. We are confident there will be no side effects. |
+| 2 | A simple change (minimal code changes), where we understand all of the requirements. |
+| 3 | A simple change, but the code footprint is bigger (e.g. lots of different files, or tests effected). The requirements are clear. |
+| 5 | A more complex change that will impact multiple areas of the codebase, there may also be some refactoring involved. Requirements are understood but you feel there are likely to be some gaps along the way. |
+| 8 | A complex change, that will involve much of the codebase or will require lots of input from others to determine the requirements. |
+| 13| A significant change that may have dependencies (other teams or third-parties) and we likely still don't understand all of the requirements. It's unlikely we would commit to this in a milestone, and the preference would be to further clarify requirements and/or break in to smaller Issues. |

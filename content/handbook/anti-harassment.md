@@ -284,7 +284,7 @@ The Company is aware of and recognises the effect that bullying, harassment and 
 
 ### GitLab Inc and GitLab Federal LLC
 
-In addition to [EthicsPoint](http://gitlab.ethicspoint.com/) and [Lighthouse](/handbook/people-group/#how-to-report-violations), please review the [Team Member Relations Specialist](/handbook/people-group/#team-member-relations-specialist) section. GitLab also offers a [Harassment Complaint Form](https://docs.google.com/document/d/1Xk5SXvh2kpO-w-TdykiczjhXNrEBjbMwDQHEt6lMhIk/edit?usp=sharing) that any team member may use to document any instance of any type of workplace harassment. Simply copy the form, fill it out with your information and send it to our Team Member Relations Specialist at teammemberrelations@gitlab.com.
+In addition to [EthicsPoint](https://secure.ethicspoint.com/domain/media/en/gui/74686/index.html) and [Lighthouse](/handbook/people-group/#how-to-report-violations), please review the [Team Member Relations Specialist](/handbook/people-group/#team-member-relations-specialist) section. GitLab also offers a [Harassment Complaint Form](https://docs.google.com/document/d/1Xk5SXvh2kpO-w-TdykiczjhXNrEBjbMwDQHEt6lMhIk/edit?usp=sharing) that any team member may use to document any instance of any type of workplace harassment. Simply copy the form, fill it out with your information and send it to our Team Member Relations Specialist at teammemberrelations@gitlab.com.
 
 ### California Law Requirements
 
@@ -342,6 +342,6 @@ We are continuously gathering country specific references to review regulation a
 
 ## Further Guidance (Country-Specific)
 
-- [UK: Acas (advisory service for employees and employers)](https://www.acas.org.uk/index.aspx?articleid=1864)
-- [The Netherlands: Inspectorate SZW](https://www.inspectieszw.nl/)
+- [UK: Acas (advisory service for employees and employers)](https://www.acas.org.uk/discrimination-and-bullying)
+- [The Netherlands: Inspectorate SZW](https://www.nlarbeidsinspectie.nl/)
 - [Belgium: Unia: For equality, against discrimination](https://www.unia.be/en)

@@ -31,7 +31,6 @@ Teams in the Ops Sub-Department map to several Product Sections.  Product direct
 * [CI Section Direction](https://about.gitlab.com/direction/ci)
 * [CD Section Direction](https://about.gitlab.com/direction/cd)
 * [Observability Direction](direction/analytics/observability/)
-* [Service Management Direction](https://about.gitlab.com/direction/service_management/service_desk)
 
 ## Slack channels
 
@@ -39,7 +38,7 @@ Teams in the Ops Sub-Department map to several Product Sections.  Product direct
 - [#cd-section](https://gitlab.slack.com/archives/C05BTB4CBGQ) - CD Section discussions spanning Deploy Stage
 - [#ops_staff_plus](https://gitlab.slack.com/archives/C0305PJB9JR) - Foster collaboration and technical leadership within Ops section
 - [#doe-ops](https://gitlab.slack.com/archives/CT9CM1VDJ) - Channel for GitLab's Director of Engineering, Ops
-- [🔒ops-staff-confidential](#private) - Channel for reviewing Ops promotion docs or sharing other confidential information.  Please use #doe-ops or #ops-section for topics that don’t require confidentiality.
+- [🔒ops-staff-confidential](#private) - Channel for reviewing Ops promotion docs or sharing other confidential information.  Please use #doe-ops or other public channels for topics that don’t require confidentiality.
 
 ## Meetings
 
@@ -68,7 +67,8 @@ Team members are encouraged to use these videos to transparently showcase the cu
 
 | Year | Quarter | Links |
 | ------ | ------ | ------ |
-| 2023 | FY24-Q3  | [August](https://gitlab.com/gitlab-com/ops-sub-department/ops-engineering-management/-/issues/242), [September](https://gitlab.com/gitlab-com/ops-sub-department/ops-engineering-management/-/issues/246)|
+| 2023 | FY24-Q1  | [November](https://gitlab.com/gitlab-com/ops-sub-department/ops-engineering-management/-/issues/260), [December](https://gitlab.com/gitlab-com/ops-sub-department/ops-engineering-management/-/issues/263), [January](https://gitlab.com/gitlab-com/ops-sub-department/ops-engineering-management/-/issues/269)|
+| 2023 | FY24-Q3  | [August](https://gitlab.com/gitlab-com/ops-sub-department/ops-engineering-management/-/issues/242), [September](https://gitlab.com/gitlab-com/ops-sub-department/ops-engineering-management/-/issues/246), [October](https://gitlab.com/gitlab-com/ops-sub-department/ops-engineering-management/-/issues/250)|
 | 2023 | FY24-Q2 | [Videos](https://gitlab.com/groups/gitlab-com/-/epics/2151) |
 | 2023 | FY24-Q1 | [Videos](https://gitlab.com/groups/gitlab-com/-/epics/2099) |
 
@@ -104,7 +104,7 @@ Planning processes followed by teams in the Sub-department:
 
 ### Forced Priority planning/scheduling
 
-Our [prioritization framework](/handbook/product/product-processes/#prioritization-framework) describes a number of [Forced Priority](/handbook/product/product-processes/#forced-prioritization) labels that present a high risk to our customers and our business. As such, it's critical that we complete this work within the appropriate SLO/SLAs where possible. An example of this are security issues, here's a dashboard for past due and soon to be due security issues: https://app.periscopedata.com/app/gitlab/913607/Past-Due-Security-Issues-Development
+Our [prioritization framework](/handbook/product/product-processes/#prioritization-framework) describes a number of [Forced Priority](/handbook/product/product-processes/#forced-prioritization) labels that present a high risk to our customers and our business. As such, it's critical that we complete this work within the appropriate SLO/SLAs where possible. An example of this are security issues, here's a dashboard for past due and soon to be due security issues: https://10az.online.tableau.com/t/gitlab/views/DRAFTIssueTypesDetail/PastDueIssueList/d1401498-2050-4321-b0f4-ab51047fbeb1/1909fa14-fdf0-4682-8a07-f02d8c8d4803
 
 With this in mind, here's a process that groups are encouraged to use and iterate on in the event that they don't have an existing approach or are falling behind on SLA/SLOs.
 
@@ -156,6 +156,17 @@ These lists should include:
     1. Whether the doc has received any Ops Manager or Ops Senior Manager approvals.
 1. Review Ops team member promotion docs planned to be presented at Development Department quarterly promotion review meeting.
 
+#### Promotion Mentor for Staff+ Roles
+
+Team members who aspire to advance within our organization are advised to identify a [mentor](/handbook/people-group/learning-and-development/mentor/) in the targeted role, and reach out to them about a mentorship. Involving a mentor in the peer promotion review process is beneficial, as it ensures:
+
+1. The feedback is informed by comprehensive understanding and relevance to the individual's development.
+1. The feedback, being familiar and constructive, will not catch the mentee off guard and will provide clear directions for improvement from peers they'd work with directly.
+
+Individuals pursuing promotion, possibly in consultation with their managers, should maintain regular communication with their mentor to evaluate progress and explore further opportunities for growth. This initiative also aims to cultivate leadership qualities among our senior Staff+ engineers.
+
+We plan to trial this optional process in Ops during Q1FY25. Progress and established mentor/mentee pairs can be found in this [epic](https://gitlab.com/groups/gitlab-org/ci-cd/-/epics/6)
+
 ## Ops Hiring process
 
 We have limited capacity in the recruiting team so hiring managers are experimenting with the [Ops Hiring process](/handbook/engineering/development/ops/hiring-process/).  We also hold a weekly hiring manager sync meeting (see Meetings section).
@@ -192,21 +203,27 @@ For projects that span many milestones we are experimenting with additional proj
 
 Key projects will be listed in the table below:
 
-| Project Name                                  | Link to Project Plan                                                                                                                                  | DRI                       |
-|-----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
-| CI Catalog                                    | [Project plan](/handbook/engineering/development/ops/project-plans/ci-catalog/)                                                                       | Mark Nuzzo                |
-| CI Data Partitioning                          | [Project plan](/handbook/engineering/development/ops/verify/pipeline-execution/project-plans/ci-data-partitioning/)                                   | Caroline Simpson          |
-| CI Primary Key Conversion                     | [Project plan](/handbook/engineering/development/ops/verify/pipeline-execution/project-plans/ci-pk-conversion/)                                       | Drew Stachon / Caroline Simpson |
-| Merge Train Improvements (Fast-Foward Support)| Project Complete - Fast-forward merge support shipped                                                                                                 | Caroline Simpson          |
-| Container Registry v2 Self-Managed            | [Project plan](/handbook/engineering/development/ops/project-plans/container-registry-v2/)                                                            | Crystal Poole             |
-| CI Secrets Management                         | [Project plan](/handbook/engineering/development/ops/project-plans/secrets-manager/)                                                                  | Scott Hampton             |
-| GCP Secrets Integration                       | [Project plan](/handbook/engineering/development/ops/project-plans/gcp-secrets-integration/)                                                          | Scott Hampton             |
-| O11y Distributed Tracing                      | [Project plan](/handbook/engineering/development/ops/monitor/observability/#weekly-project-plan)                                                      | Nicholas Klick            |
-| Cluster Web Terminal                          | [Project plan](/handbook/engineering/development/ops/project-plans/cluster-web-terminal/)                                                             | Nicolò Maria Mezzopera    |
-| Kubernetes Dashboard                          | [Project plan](/handbook/engineering/development/ops/project-plans/k8s-dashboard/)                                                                    | Nicolò Maria Mezzopera    |
-| Autoscaling for GitLab Runner                 | [Project Plan](/handbook/engineering/development/ops/verify/runner/project-plans/#autoscaling-provider-for-gitLab-runner-to-replace-docker-machine)   | Nicole Williams           |
-| Dedicated SaaS Runners For GitLab Dedicated   | [Project Plan](/handbook/engineering/development/ops/verify/runner/project-plans/#dedicated-saas-runners-for-gitlab-dedicated)                        | Nicole Williams           |
-| CI Steps                                      | [Project plan](/handbook/engineering/development/ops/verify/project-plans/ci-steps/)                                                                  | Cheryl Li                 |
+| Project Name                                  | Link to Project Plan                                                                                                                                  | DRI                         | [Tech Leads](/handbook/engineering/ic-leadership/tech-lead/#the-tech-lead-role)                  |
+|-----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------| --------------------------- |
+| CI/CD Catalog                                 | [Project plan](/handbook/engineering/development/ops/project-plans/ci-catalog/)                                                                       | Mark Nuzzo                  | Fabio Pitino (transitioning to Laura Montemayor and Avielle Wolfe) |
+| CI Data Partitioning                          | [Project plan](/handbook/engineering/development/ops/verify/pipeline-execution/project-plans/ci-data-partitioning/)                                   | Caroline Simpson            | Marius Bobin                |
+| CI Primary Key Conversion                     | [Project plan](/handbook/engineering/development/ops/verify/pipeline-execution/project-plans/ci-pk-conversion/)                                       | Drew Stachon / Caroline Simpson | Tianwen Chen            |
+| Container Registry v2 Self-Managed            | [Project plan](/handbook/engineering/development/ops/project-plans/container-registry-v2/)                                                            | Crystal Poole               | Hayley Swimelar             |
+| CI Secrets Management                         | [Project plan](/handbook/engineering/development/ops/project-plans/secrets-manager/)                                                                  | Scott Hampton               | Albert Salim                |
+| Cluster Web Terminal                          | [Project plan](/handbook/engineering/development/ops/project-plans/cluster-web-terminal/)                                                             | Nicolò Maria Mezzopera      |                             |
+| Kubernetes Dashboard                          | [Project plan](/handbook/engineering/development/ops/project-plans/k8s-dashboard/)                                                                    | Nicolò Maria Mezzopera      |                             |
+| Autoscaling for GitLab Runner                 | [Project Plan](/handbook/engineering/development/ops/verify/runner/project-plans/#autoscaling-provider-for-gitLab-runner-to-replace-docker-machine)   | Nicole Williams             |                             |
+| Dedicated SaaS Runners For GitLab Dedicated   | [Project Plan](/handbook/engineering/development/ops/verify/runner/project-plans/#dedicated-saas-runners-for-gitlab-dedicated)                        | Nicole Williams             |                             |
+| CI Steps                                      | [Project plan](/handbook/engineering/development/ops/verify/project-plans/ci-steps/)                                                                  | Kamil Trzciński / Cheryl Li | Joe Burnett              |
+
+### Completed Projects
+
+| Project Name                                  | Link to Project Plan                                                                                                                                  | DRI                       | Tech Leads                | Completed |
+|-----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------| --------------------------| ------- |
+| Merge Train Improvements (Fast-Foward Support)| [Project plan](/handbook/engineering/development/ops/verify/pipeline-execution/project-plans/merge-trains/) | Caroline Simpson | Allison Browne, Hordur Yngvason | FY24-Q4 |
+| O11y Distributed Tracing | [Project plan](/handbook/engineering/development/ops/monitor/observability/#weekly-project-plan) | Nicholas Klick | | FY24-Q4 |
+| GCP Secrets Integration | [Project plan](/handbook/engineering/development/ops/project-plans/gcp-secrets-integration/) | Scott Hampton | Albert Salim | FY24-Q4 |
+
 
 ### Key Project Planning
 
@@ -283,7 +300,7 @@ The content of these updates varies by individual and role:
 
 #### Engineering Manager
 
-1. Cadence: Weekly
+1. Cadence: Weekly to Monthly (Optional)
 1. Topics:
     1. Highlights & Accomplishments
     1. Team Projects & Priorities (progress, blockers, key decisions, etc.)
@@ -291,7 +308,7 @@ The content of these updates varies by individual and role:
 
 #### Senior Engineering Manager
 
-1. Cadence: Monthly
+1. Cadence: Monthly (Optional)
 1. Topics:
     1. Milestone Review
         1. Allocation of focus in milestone plans (major features, maintenance, etc.)
@@ -301,16 +318,11 @@ The content of these updates varies by individual and role:
 
 #### Principal Engineer
 
-1. Cadence: Weekly
+1. Cadence: Weekly (Optional)
 1. Topics:
     1. Highlights & Accomplishments
     1. Projects & Priorities (progress, blockers, key decisions, etc.)
 
-#### Director
-
-1. Cadence: Monthly
-1. Topics:
-    1. Summary of Highlights & Accomplishments across the section
 
 ### To create a weekly async update:
 
@@ -318,7 +330,7 @@ The content of these updates varies by individual and role:
 2. Apply the label `~OpsSection::AsyncUpdate`.  (The label `~OpsSection::Weekly-Update` can also be used for backwards compatibility reasons.)
 3. Choose a descriptive title.  Include your update in the issue description.
 
-### To HIGHLIGHT an item for inclusion in the Director update
+### To HIGHLIGHT an item for broader sharing
 
 1. Begin any paragraph in your update with the text `HIGHLIGHT:`
 1. These paragraphs will automatically be copied into the Highlights & Accomplishments section of the monthly Director's update.

@@ -154,59 +154,111 @@ Epic: [https://gitlab.com/groups/gitlab-org/-/epics/5521](https://gitlab.com/gro
 - Plan:
   - Investigation into validation of self-managed imports [epic](https://gitlab.com/groups/gitlab-org/-/epics/11973)
   - Continue progress on Omnibus registry database migrate command MR
+- Completed:
+  - Omnibus registry database migrate command MR is in review
 
 #### Week of Nov 13-17
 - Plan:
   - Release issues related to feedback from first phase of beta users.
+  - Build [guides for omnibus installs](https://gitlab.com/gitlab-org/omnibus-gitlab/-/issues/8255) including import and migrate commands.
+  - Started a blog post to announce availability of the container registry database.
+  - Developing plans to migrate .com only features (currently behind feature flags) to self-managed.
+- Completed:
+  - Evaluate adding a progress bar and better log presentation for the importer.
+  - Engage with users and customers who are running the importer on large registries.
+  - Created [list](https://docs.google.com/spreadsheets/d/1xlYrk33zEH9mazq3px5ex8E4AnwzHa9Z5D6mxsIaORw/edit?usp=sharing) of feature flagged container registry endpoints that exist in Gitlab Rails for .com.
 
-### Milestone 16.7 (November 13, 2023 - December 8, 2023)
+### Milestone 16.7 (November 13, 2023 - December 21, 2023)
 
 #### Goals:
 - Engage with beta users after 16.6 release improvements and gather feedback from self-managed installations.
-- Automatically apply DB migrations during upgrades with Omnibus (blocked)
-- Utility support for registry database commands, such as in gitlab-ctl, equivalent to what is already present for offline garbage collection for charts
+- Create imported image validation command [issue](https://gitlab.com/gitlab-org/container-registry/-/issues/1159)
 
-#### Week of Nov 20-24
-- Plan:
+#### Week of Nov 20-24 
+- Plan: 
+  - Finalize the MR for Omnibus registry database migrate command.
+- Completed:
+  - Engage with users and customers who are running the importer on large repositories.  Responding to feedback.
 
 #### Week of Nov 27-Dec 1
-- Plan:
+- Plan: 
+  - Finalize progress bar and UX improvements for the importer.
+  - Continue communication with beta customers who are testing the import process.
+- Completed: 
+  - [Discussion](https://gitlab.com/gitlab-org/gitlab/-/issues/431701) regarding regarding expansion of usage ping metrics.
+  - Draft of importer progress bar is ready for review.
+  
 
 #### Week of Dec 4-8
 - Plan: 
+  - Evaluate options for validating images after they are imported.
+  - Respond to feedback in Omnibus MR to add the import command.
+- Completed:
+  - Blog post published [GitLabs next-generation container registry is now available](https://about.gitlab.com/blog/2023/12/04/gitlabs-next-generation-container-registry-is-now-available/)
+  - Omnibus [import command](https://gitlab.com/gitlab-org/omnibus-gitlab/-/merge_requests/7265) completed and merged.
+  - Added a comment at the completion of /offline/ garbage collection linking to the beta issue.
+  - Progres bar completed.
 
 #### Week of Dec 11-15
 - Plan:
-  - Refine issues for addressing second phase of beta feedback
-
-### Milestone 16.8 (December 11, 2023 - January 12, 2024)
+  - Create [plans](https://gitlab.com/groups/gitlab-org/-/epics/12218) for adding/testing new features for self-managed, now available to users with the metadata database.
+  - Continue research into container image validation after import.
+- Completed:
+  - Evaluate tools for validating images after import. ([issue](https://gitlab.com/gitlab-org/container-registry/-/issues/1159))
+### Milestone 16.8 (December 22, 2023 - January 18, 2024)
 
 #### Goals:
 - Implement issues related to feedback from second phase of beta users
-- Create import guides specific to charts
-- Automatically apply DB migrations during upgrades with Charts. (blocked)
 - [Validate Self-Managed Imports](https://gitlab.com/gitlab-org/container-registry/-/issues/938)
+- Utility support for registry database commands, such as in gitlab-ctl, equivalent to what is already present for offline garbage collection for charts
 
 #### Week of Dec 18-22
-- Plan:
+- Plan: 
+  - Working with major registry user who will do their data migration over the holiday break.  Most of the container registry team is unavailable this week.
 
 #### Week of Dec 25-29
-- Plan:
+-  Plan: 
+  - Continue working with major registry user on setup and migration of their registry database.  Most of the container registry team is unavailable this week.
+- Completed: 
+  - Migration for this user was a huge success!  We'll address the follow-up issues in our next milestone.
 
 #### Week of Jan 1-5
 - Plan: 
+  - Catching up after holidays and continued engagement with beta users.
+- Completed:
+  - Reviewed customer migration successes and concerns, and developed follow-up issues.
 
 #### Week of Jan 8-12
-- Plan: Release issues related to feedback from second phase of beta users.
+- Plan: 
+  - Release issues related to feedback from second phase of beta users.
+  - Develop next steps plan and a communcation campaign to increase visibility.
+- Completed:
+  - Reorganized the project plan and delivery targets [issue](https://gitlab.com/groups/gitlab-org/-/epics/5521#project-phases).
 
-### Milestone 16.9 (January 13, 2023 - February 9, 2024)
+### Milestone 16.9 (January 13, 2024 - February 15, 2024)
 
 #### Goals:
+- Create import guides specific to charts
+- Test: [Ensure container registry doesn't lose Geo support](https://gitlab.com/gitlab-org/gitlab/-/issues/247139)
+
+#### Week of Jan 22-26
+- Plan: 
+  - Start testing Geo support
+  - Continue testing and documentation for manual Charts migration
+- Completed:
+  - Progress on Charts documentation [issue](https://gitlab.com/gitlab-org/gitlab/-/issues/436406)
+  - Merged Omnibus documentation [docs](https://docs.gitlab.com/ee/administration/packages/container_registry_metadata_database.html)
+
+#### Week of Jan 29-Feb 2
+- Plan: 
+  - Continue testing Geo support
+  - Continue Charts migration documentation
+
+### Milestone 16.10 (February 16, 2024 - March 21, 2024)
+
+#### Goals:
+- Automatically apply DB migrations during upgrades with Charts. (blocked)
 - [Importer: Retry Entire Step on Transient Error](https://gitlab.com/gitlab-org/container-registry/-/issues/72)
 - [Importer: Pass on ErrDigestUnsupported](https://gitlab.com/gitlab-org/container-registry/-/issues/977) 
-
-### Milestone 16.10 (February 10, 2023 - March 15, 2024)
-
-#### Goals:
 - [Importer: Disable the Blob Descriptor Cache](https://gitlab.com/gitlab-org/container-registry/-/issues/970)
 - [Importer: Reconsider the Clean Database Option](https://gitlab.com/gitlab-org/container-registry/-/issues/943)

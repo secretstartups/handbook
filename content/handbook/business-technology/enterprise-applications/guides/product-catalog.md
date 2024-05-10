@@ -4,15 +4,7 @@ title: "Product Catalog Guide"
 description: "How to request the creation or modification of a SKU."
 ---
 
-
-
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
-
-
-
-
-
-
 
 ## Change Management and SDLC Process
 
@@ -24,11 +16,7 @@ For SOX/audit purposes, all changes to the Zuora Billing product catalog must be
 
 There are 3 issue templates in [this directory](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/issues/new#) that the Business Sponsor can choose from to help log their SKU request.
 
-<div class="panel panel-success">
-**Common Use Cases**
-{: .panel-heading}
-<div class="panel-body">
-
+{{% panel header="**Common Use Cases**" header-bg="success" %}}
 1. To **create** or **update** a **Professional Services SKU**:
     - Open an issue in [this directory](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/issues/new#) using the `CM: Add_New_PS_SKU` template
     - Follow the steps from the [How to Create New or Update a SKU](#how-to-create-new-or-update-a-sku) section of this handbook page
@@ -38,9 +26,7 @@ There are 3 issue templates in [this directory](https://gitlab.com/gitlab-com/bu
 3. To **retire** an **existing SKU**:
     - Open an issue in [this directory](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/issues/new#) using the `CM: Retire_SKU` template
     - Follow the steps from the [How to Retire a SKU](#how-to-retire-a-sku) section of this handbook page
-
-</div>
-</div>
+{{% /panel %}}
 
 ## How to Create New or Update a SKU
 
@@ -72,32 +58,22 @@ This section business and technical requirements for product offerings. Most of 
 6. `What type of GitLab instance will this SKU support? Please check any applicable boxes below:`
    - Identify which GitLab instance(s) can purchase this SKU.
    - If required, multiple options can be selected
-7. `Do we need to create a separate SKU for each for those services?`
-   - Identify whether a seperate SKU for each supported GitLab instances
-   - This is often a Revenue Accounting requirement if different instances are supported; please consult the Revenue Accounting Team for guidance
-8. `Will we have restrictions on the type of subscriptions (i.e. SaaS, Self-Managed, Premium, Ultimate, etc.) this product offering can be added to?`
+7. `Will we have restrictions on the type of subscriptions (i.e. SaaS, Self-Managed, Premium, Ultimate, etc.) this product offering can be added to?`
    - Identify whether only specific types of customers can purchase this SKU
    - Cross-functional Approval from SalesOps required for any restrictions
    - Please note this will increase time for a SKU to be available for quoting as additional development work outside of configuring the SKU will be required
-9. `Are there restrictions to the minimum or maximum quantity of this SKU?`
+8. `Are there restrictions to the minimum or maximum quantity of this SKU?`
    - Identify whether customers can only purchase this SKU if they meet a minimum or maximum requirement (i.e. number of seats, storage, licenses, etc.)
    - Cross-functional Approval from SalesOps required for any restrictions
    - Please note this will increase time for a SKU to be available for quoting as additional development work outside of configuring the SKU will be required
-10. `Will we allow customers to remove the SKU from their subscription mid-term?`
-    - Identify if customers will be allowed to remove/downgrade the SKU prior to the end of their contracted term
-11. `Will renewals be handled via the webstore (self-service) or only by a sales rep (sales-assisted)?`
+9. `Will renewals be handled via the webstore (self-service) or only by a sales rep (sales-assisted)?`
     - **This only applies to recurring products** as subscriptions renew with recurring SKUs if it is not removed prior to renewal
     - Identify whether customers can renew their subscription without assistance from the sales team or if the customer must go through a sales rep
     - If required, both options can be selected
-12. `Should we allow customers to automatically renew with this SKU?`
+10. `Should we allow customers to automatically renew with this SKU?`
     - **This only applies to recurring products** as subscriptions renew with recurring SKUs if it is not removed prior to renewal
     - Identify whether customers should be allowed to automatically renew their subscription with this SKU
-13. `Will customers sign a SOW (Statement of Work) for this SKU?`
-    - Identify whether a custom must sign a Statement of Work for this SKU
-    - If required, we can include the URL to the service description when configuring the SKU (typical for Professional Service SKUs)
-14. `Will reps need the ability to specify a quantity for this SKU when quoting?`
-    - Identify whether the sales team should be allowed to set a quantity for the SKU when building a sales-assisted quote
-15. `Will this SKU replace any of GitLab's current product offerings?`
+11. `Will this SKU replace any of GitLab's current product offerings?`
     - Identify whether this SKU will be replacing a current SKU being sold to customers
     - If this new SKU replaces a current SKU, please follow open an issue in [this directory](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/issues/new#) to retire the current SKU using the `CM: Retire_SKU` template (see **[How to Retire a SKU](#how-to-retire-a-sku)**
 
@@ -141,8 +117,12 @@ In the issue template, three asterisks are considered a "non-standard" configura
 - This is required to configure the SKU and properly recognize revenue
 
 **Taxation Requirements**
-- Assign Fang Wang and Sally Tian `@fwanggitlab` and `@stian13` for input on the Taxation section and include a service description to help them identify the correct tax code to use
+- Assign Sally Tian `@stian13` for input on the Taxation section and include a service description to help them identify the correct tax code to use
 - This is required to configure the SKU and properly collect sales tax
+
+**Data Requirements**
+- Assign Sushma N `@snalamaru` and Israel Weeks `@iweeks` for input on the Product Tier, Delivery, and Deployment fields for this offering based on the definitions in the [GitLab Handbook](https://handbook.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/)
+- This is required to configure the SKU and ensure data integrity
 
 
 ### Step 2. Cross-functional Approval For Pricing and Non-Standard Requests
@@ -179,17 +159,11 @@ Assign the Issue to the management approvers in Step 4. It is the Business Spons
 The required approvals will differ depending on whether it is a Professional Services SKU or a Non-Professional Services SKU request and how to reach each approver can be found in the applicable SKU issue template.
 {: .alert .alert-warning}
 
-<div class="panel panel-success">
-**Next Steps**
-{: .panel-heading}
-<div class="panel-body">
-
+{{% panel header="**Next Steps**" header-bg="success" %}}
 - After all above steps are complete and required approval have been obtained, remove the ~"SKU - Gathering Requirements" label and tag `@gitlab-com/business-technology/enterprise-apps/financeops` for intake and prioritization of the SKU request so that it can be configured in the Zuora Billing product catalog and made quotable in Salesforce. Please note that all changes must follow the [Business Technology Change Management](/handbook/business-technology/change-management/) for SOX/Audit purposes.
 - If the SKU will be sold through the channel, assign the issue to the `Sales Operations Analyst` listed in Step 6 to add the SKU to the quarterly update issue, the upcoming Pricebook and any other necessary information
 - If the SKU requires a service description, it is the Business Sponsor's responsibility to complete step 7
-
-</div>
-</div>
+{{% /panel %}}
 
 ## Post Go Live SKU Modifications
 
@@ -270,5 +244,4 @@ Please note that all changes must follow the [Business Technology Change Managem
     - Unfortunately, no. For SOX/audit purposes, all changes to the Zuora Billing product catalog must be properly tested, adhering to [Business Technology Change Management](/handbook/business-technology/change-management/) policies and the [Software Development Lifecycle Process for Finance Systems](https://gitlab.com/groups/gitlab-com/business-technology/enterprise-apps/financeops/-/wikis/SDLC-for-Finance-Systems).
 7. **I only want to update the name/description of an existing SKU, do I need to go through this entire process?**
     - If you are not changing the charge type, unit of measure, charge model, charge timing or list price then you can simply submit an issue in [this directory](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/issues/new#) using the template `CM: Configuration Change [Generic]` and fill out the `Requestor` section.
-
-{::options parse_block_html="false" /}
+    

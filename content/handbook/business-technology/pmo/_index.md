@@ -119,7 +119,7 @@ The release management plan helps the IT team:
 
 ### Release Calendar
 
-![it-pmo](/handbook/business-technology/pmo/calendar.png)
+![it-pmo](/handbook/business-technology/pmo/calendar2024.png)
 
 # <i class="fas fa-bullhorn" id="biz-tech-icons"></i> How We Work
 
@@ -350,7 +350,3 @@ The team follows [GitLab meeting practices and standards](https://about.gitlab.c
 The IT PMO team primarily uses the below groups and projects on GitLab:
 
 - [Program Management Office](https://gitlab.com/gitlab-com/business-technology/program-management-office) group: main group for the IT PMO team.
-
-
-
-{::options parse_block_html="false" /}

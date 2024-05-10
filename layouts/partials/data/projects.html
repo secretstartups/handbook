@@ -1,9 +1,0 @@
-{{- $projects := dict }}
-{{- with resources.GetRemote "https://gitlab.com/gitlab-com/www-gitlab-com/-/raw/master/data/projects.yml" }}
-  {{- with .Err }}
-	<h2>Unable to fetch projects.yml</h2>
-  {{- else }}
-	  {{ $projects = . | transform.Unmarshal }}
-  {{- end }}
-{{- end }}
-{{- return $projects }}

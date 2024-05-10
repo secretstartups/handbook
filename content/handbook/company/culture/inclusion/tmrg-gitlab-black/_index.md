@@ -23,8 +23,7 @@ This group is open to all members of the GitLab community.
 
 ## Leads
 
-- [April Marks](/handbook/company/team/#aprilmarks)
-- [Marcus Carter](/handbook/company/team/#marcusbriancarter)
+- [Erran Carey](/handbook/company/team/#erran)
 - [Madou Coulibaly](/handbook/company/team/#madou)
 
 ## Executive Sponsors
@@ -37,7 +36,7 @@ This group is open to all members of the GitLab community.
 
 - [Darva Satcher](/handbook/company/team/#dsatcher)
 - [Mam Joof](/handbook/company/team/#mjoof1)
-- [Erran Carrey](/handbook/company/team/#erran)
+- [Erran Carey](/handbook/company/team/#erran)
 
 ## How to Join
 

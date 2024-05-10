@@ -7,10 +7,6 @@ description: IT Business Technology
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
 ## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 # <i id="biz-tech-icons" class="fas fa-map-marked-alt fa-fw"></i> Quick Links
 
@@ -55,23 +51,9 @@ The broader Finance and Business Technology team is focused on the principles of
 
 ![it](/handbook/business-technology/it-vision.png)
 
-## IT Strategy for FY24
+## Business Technology Strategy and Organization Structure for FY25
 
-### Team
-- Upskill, Identify Gaps, Hire Key Roles
-- Expansion through low cost geo model
-- Centralize IT - starting with sales and finance applications
-
-### Process
-- FY24 SOX program
-- IT Governance & Compliance
-- IT Portfolio Management
-
-### Technology
-
-- Project Execution & Delivery to align with company top 5
-- Application Health Check & Enterprise Architecture
-
+<a href="https://docs.google.com/presentation/d/1MdMvsm_gTqCnBYbcfPEvpeUbJf44fqFk8BljVeLonK0/edit#slide=id.p" class="btn btn-purple" style="width:200px;margin:5px;">Business Technology FY25 Deck</a>
 
 ## IT FY24-25 Execution Plan (WORK IN PROGRESS)
 
@@ -117,7 +99,7 @@ The [IT Engineering - Access Management](/handbook/business-technology/engineeri
 
 ## Cloud Infrastructure Management
 
-The [IT Engineering - Infrastructure](/handbook/business-technology/engineering/infrastructure) team collaborates with the [Engineering Infrastructure Reliability (SRE)](/handbook/engineering/infrastructure/) and [Infrastructure Security](/handbook/security/security-engineering-and-research/infrastructure-security/) teams to provide Infrastructure Shared Services for all AWS, Azure, and GCP related requests and support across the organization. See the [Infrastructure Standards](/handbook/infrastructure-standards) handbook page to learn more.
+The [IT Engineering - Infrastructure](/handbook/business-technology/engineering/infrastructure) team collaborates with the [Engineering Infrastructure Reliability (SRE)](/handbook/engineering/infrastructure/) and [Infrastructure Security](/handbook/security/product-security/infrastructure-security/) teams to provide Infrastructure Shared Services for all AWS, Azure, and GCP related requests and support across the organization. See the [Infrastructure Standards](/handbook/infrastructure-standards) handbook page to learn more.
 
 Our focus is on organizational policy management, access request provisioning, and services that are outside of the [Reliability Engineering](/handbook/engineering/infrastructure/) scope of hosting the Gitlab.com SaaS service, such as the provisioning of demo/sandbox/test infrastructure for team members.
 
@@ -138,7 +120,7 @@ As a SaaS company, our Engineering division also has an [infrastructure SRE team
 * [Customer Success Operations](/handbook/sales/field-operations/customer-success-operations/)
 * [Customer Support Operations](https://handbook.gitlab.com/handbook/support/readiness/operations/)
 * [Engineering Infrastructure (Reliability SREs)](/handbook/engineering/infrastructure/)
-* [Engineering Productivity](/handbook/engineering/quality/engineering-productivity/)
+* [Engineering Productivity](/handbook/engineering/infrastructure/engineering-productivity/)
 * [Engineering Security](/handbook/security/)
 * [Finance Systems](/handbook/business-technology/enterprise-applications/financeops/)
 * [Marketing Operations](/handbook/marketing/marketing-operations/)

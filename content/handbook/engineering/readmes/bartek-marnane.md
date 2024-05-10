@@ -1,15 +1,15 @@
 ---
 
 title: "Bartek Marnane's README"
-description: "Personal readme page for Bartek Marnane, VP Incubation Engineering, GitLab"
-job: "VP Incubation Engineering"
+description: "Personal readme page for Bartek Marnane, VP Expansion Software Development, GitLab"
+job: "VP Expansion Software Development"
 ---
 
 Hi 👋
 
-I’m Bartek Marnane, the VP of Incubation Engineering at GitLab.  I live in Sydney, Australia, with my wife, 2 young daughters, and 2 miniature Schnauzers.  
+I’m Bartek Marnane, the VP, Expansion Software Development at GitLab.  I live in Sydney, Australia, with my wife, 2 young daughters, and 2 miniature Schnauzers.  
 
-I’ve been at GitLab for over 4 years in a variety of Engineering Leadership positions and now look after the Expansion Development Department.   Whenever I’ve hired or taken on new teams, there’s always a phase of learning how we work well together.  This README aims to build trust and help alleviate some of the anxiety while we work that out.
+I’ve been at GitLab for 5 years in a variety of Engineering Leadership positions and now look after the Expansion Development Department.  Whenever I’ve hired or taken on new teams, there’s always a phase of learning how we work well together.  This README aims to build trust and help alleviate some of the anxiety while we work that out.
 
 Find out more about me on my [team page](/handbook/company/team/#bmarnane) or [LinkedIn profile](https://www.linkedin.com/in/bartekmarnane/).
 

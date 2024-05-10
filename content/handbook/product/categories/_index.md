@@ -11,12 +11,12 @@ community. This makes it more efficient for everyone to contribute or to get
 a question answered. Therefore, the following interfaces are based on the
 product categories defined on this page:
 
-- [Home page](/)
-- [Product page](/stages-devops-lifecycle/)
-- [Product Features](/features/)
-- [Pricing page](/pricing/)
-- [DevOps Lifecycle](/stages-devops-lifecycle/)
-- [DevOps Tools](/competition/)
+- [Home page](https://about.gitlab.com/)
+- [Product page](https://about.gitlab.com/stages-devops-lifecycle/)
+- [Product Features](https://about.gitlab.com/features/)
+- [Pricing page](https://about.gitlab.com/pricing/)
+- [DevOps Lifecycle](https://about.gitlab.com/stages-devops-lifecycle/)
+- [DevOps Tools](https://about.gitlab.com/why-gitlab/)
 - [Product Direction](https://about.gitlab.com/direction/)
 - [Stage visions](https://about.gitlab.com/direction/#devops-stages)
 - [Documentation](https://docs.gitlab.com/)
@@ -36,7 +36,7 @@ We then add the **value stages** that we talk about in marketing. These include 
 These stages have groups that rally around the same users, GitLab integrators, GitLab itself, and GitLab administrators, respectively.
 Stages are maintained in [`data/stages.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/stages.yml).
 Each stage has a corresponding [`devops::<stage>` label](https://docs.gitlab.com/ee/development/labels/index.html#stage-labels) under the `gitlab-org` group.
-1. **Group**: A stage has one or more [groups](/handbook/company/team/structure/#product-groups).
+1. **Group**: A stage has one or more [groups](/handbook/company/structure/#product-groups).
 Groups are maintained in [`data/stages.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/stages.yml).
 Each group has a corresponding [`group::<group>` label](https://docs.gitlab.com/ee/development/labels/index.html#group-labels) under the `gitlab-org` group.
 1. **Categories**: A group has one or more categories. Categories are high-level
@@ -125,7 +125,7 @@ As a result, it is considered an anti-pattern to how we've organized for categor
 of concern for available capacity.
 
 When designing the hierarchy, the number of sections should be kept small
-and only grow as the company needs to re-organize for [span-of-control](/handbook/company/team/structure/#management-group)
+and only grow as the company needs to re-organize for [span-of-control](/handbook/company/structure/#management-group)
 reasons. i.e. each section corresponds to a Director of Engineering and a
 Director of Product, so it's an expensive add. For stages, the DevOps loop
 stages should not be changed at all, as they're determined from an [external](https://en.wikipedia.org/wiki/DevOps_toolchain)
@@ -147,7 +147,7 @@ captured as different groups. Groups are also a non-marketing construct, so we
 expand the number of groups as needed for organizational purposes. Each group
 usually corresponds to a backend engineering manager and a product manager, so
 it's also an expensive add and we don't create groups just for a cleaner
-hierarchy; it has to be justified from a [span-of-control](/handbook/company/team/structure/#management-group)
+hierarchy; it has to be justified from a [span-of-control](/handbook/company/structure/#management-group)
 perspective or limits to what one product manager can handle.
 
 ### Category Statuses
@@ -163,7 +163,7 @@ Typically, product direction pages will transparently state the investment statu
 
 ## Changes
 
-The impact of changes to sections, stages and groups is felt [across the company](/handbook/company/team/structure/#product-groups).
+The impact of changes to sections, stages and groups is felt [across the company](/handbook/company/structure/#product-groups).
 
 All new category creation needs to be specifically approved via our Opportunity Canvas review process. This is to avoid scope creep and breadth at the expense of depth and user experience.
 
@@ -236,6 +236,7 @@ When changing the name of a group, make sure to go through the following steps:
 - Share MR in #product, #development, #g_engineering_analytics and relevant #s_, #g_, and #f_ Slack channels
 - Review direction pages, groups, projects, epics, issues, templates and documentation to ensure the name change is applied consistently.
 - Rename Slack channels to reflect the new group name
+- Update the event and metric definitions belonging to the group by following [this guide](https://docs.gitlab.com/ee/development/internal_analytics/metrics/metrics_lifecycle.html#group-name-changes)
 
 ### Changing category name
 
@@ -292,7 +293,6 @@ Maybe we should make our features easier to search to replace the section below.
 ### Other functionality in [Plan](/handbook/product/categories/#plan-stage) stage
 
 #### [Project Management group](/handbook/product/categories/#project-management-group)
-- markdown functionality
 - assignees
 - milestones
 - due dates
@@ -302,6 +302,11 @@ Maybe we should make our features easier to search to replace the section below.
 - email notifications
 - to-do list
 - Real-time features (excluding [real-time collaboration](/handbook/engineering/development/incubation/real-time-collaboration/))
+
+#### [Knowlege group](/handbook/product/categories/#knowledge-group)
+
+- markdown functionality
+- rich text editor
 
 ### Other functionality in [Create](/handbook/product/categories/#create-stage) stage
 
@@ -328,8 +333,8 @@ Maybe we should make our features easier to search to replace the section below.
 
 ### Other functionality in [Manage](/handbook/product/categories/#manage-stage) stage
 
-### Other functionality in [Engineering Productivity](/handbook/engineering/quality/engineering-productivity/)
-- [GDK](/handbook/engineering/quality/engineering-productivity/gdk/)
+### Other functionality in [Engineering Productivity](/handbook/engineering/infrastructure/engineering-productivity/)
+- [GDK](/handbook/engineering/infrastructure/engineering-productivity/gdk/)
 
 ### Other functionality in [Test Platform](/handbook/engineering/infrastructure/test-platform/)
 - [Reference Architectures](https://docs.gitlab.com/ee/administration/reference_architectures/)
@@ -379,5 +384,7 @@ Whatever the source of the functionality, rather than thinking of these componen
 It does not mean, however, that a single group should necessarily be solely responsible for all of these activities. Multiple groups could end up collaborating in execution. This coordination however requires a careful triage of the shared responsibility issues in the issue tracker where a single [DRI](/handbook/people-group/directly-responsible-individuals/) coordinates these activities.
 
 For more information please review [this section in the quality department handbook](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#shared-responsibility-issues) to learn more about a decentralized approach to triaging these types of issues.
+
+### Categories A-Z
 
 {{< categories-index >}}

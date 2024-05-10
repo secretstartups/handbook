@@ -1,7 +1,4 @@
-{{- /*  Initialize. */}}
-{{- $department := "" }}
-
-{{ $mentors := where (partials.IncludeCached "data/team" page) "mentor" "eq" true }}
+{{ $mentors := where site.Data.public.team "mentor" "eq" true }}
 
 <table>
     <thead>
@@ -11,7 +8,7 @@
     <tbody>
         {{ range $mentors }}
         <tr>
-            <td>{{ partial "member" . }}</td>
+            <td>{{ partial "member/with-team-link" . }}</td>
             <td>{{.role | safe.HTML}}</td>
         </tr>
         {{ end }}

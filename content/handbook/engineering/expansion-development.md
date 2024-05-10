@@ -37,8 +37,6 @@ The development team is responsible for developing products in the following cat
 - [Sec](/handbook/engineering/development/sec/)
 - [Data Science](/handbook/engineering/development/data-science/)
 - [Fulfillment](/handbook/engineering/development/fulfillment/)
-- [Growth](/handbook/engineering/development/growth/)
-
 
 ## Team Members
 
@@ -123,9 +121,10 @@ Here are some curated resources to get you started:
 
 ### Cross-Functional Metrics
 
-[Link to dashboard](https://app.periscopedata.com/app/gitlab/1008238/Next-Prioritization---VP-of-Development)
+[Link to dashboard](https://10az.online.tableau.com/#/site/gitlab/workbooks/2203014/views)
 
-{{< sisense dashboard="1008238" >}}
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/IssueTypesDetail/OpenIssuesDashboard" >}}
+{{< /tableau >}}
 
 {{% include "includes/cross-functional-prioritization.md" %}}
 
@@ -160,7 +159,7 @@ At GitLab we value [freedom and responsibility over rigidity](/handbook/values/#
 
 Development's headcount planning follows the Engineering [headcount planning](/handbook/engineering/#headcount-planning) and [long term profitability targets](/handbook/engineering/#long-term-profitability-targets). Development headcount is a percentage of overall engineering headcount. For FY20, the headcount size is 271 or ~58% of overall engineering headcount.
 
-We follow normal span of control both for our managers and directors of [4 to 10](/handbook/company/team/structure/#management-group). Our sub-departments and teams match as closely as we can to the [Product Hierarchy](/handbook/product/categories/#hierarchy) to best map 1:1 to [Product Managers](/handbook/product/).
+We follow normal span of control both for our managers and directors of [4 to 10](/handbook/company/structure/#management-group). Our sub-departments and teams match as closely as we can to the [Product Hierarchy](/handbook/product/categories/#hierarchy) to best map 1:1 to [Product Managers](/handbook/product/).
 
 ### Development Staff Meeting
 
@@ -185,7 +184,7 @@ The following is a non exhaustive list of daily duties for engineering directors
 1. Review hiring dashboards
 1. Personal todo list
 1. Personal GitLab board(s) if any
-1. [Working groups](/handbook/company/team/structure/working-groups/) that the director drives or participates in
+1. [Working groups](/handbook/company/working-groups/) that the director drives or participates in
     1. Action items in agenda documents
     1. Issue boards
     1. Slack channel
@@ -298,7 +297,7 @@ The shared services and components below are extracted from the GitLab [product 
 | Email - Inbound |  |  |  |  |  |
 | Email - Outbound |  |  |  |  |  |
 | GitLab K8S Agent |  | Centralized with Specific Team | @nicholasklick | Configure |  |
-| GitLab Pages |  | Centralized with Specific Team | @johnhope | [Knowledge](/handbook/engineering/development/dev/plan/knowledge/) |  |
+| GitLab Pages |  | Centralized with Specific Team | @vshushlin | [Knowledge](/handbook/engineering/development/dev/plan/knowledge/) |  |
 | GitLab Rails |  | Decentralized |  |  | DRI for each controller is determined by the feature category specified in the class. [app/controllers](https://gitlab.com/gitlab-org/gitlab/-/tree/master/app/controllers) and [ee/app/controllers](https://gitlab.com/gitlab-org/gitlab/-/tree/master/ee/app/controllers) |
 | GitLab Shell |  | Centralized with Specific Team | @sean_carroll | [Create:Source Code](/handbook/engineering/development/dev/create/source-code-be/) | [Reference](/handbook/product/categories/#source-code-group-1) |
 | HAproxy |  | Centralized with Specific Team | @amoter | [Infrastructure](/handbook/engineering/infrastructure/team/reliability/foundations.html) |  |
@@ -444,7 +443,8 @@ These are the stakeholders:
 | [Create:IDE](/handbook/engineering/development/dev/create/ide)                                                                         | Owns the WebIDE ([maintainers](https://gitlab-org.gitlab.io/gitlab-roulette/?currentProject=gitlab-web-ide&mode=show&hidden=reviewer))  |
 | [Editor Extensions](/handbook/engineering/development/dev/create/editor_extensions/)                                                   | Maintains the GitLab Workflow VS Code Extension ([maintainers](https://gitlab-org.gitlab.io/gitlab-roulette/?currentProject=gitlab-vscode-extension&mode=show&hidden=reviewer)), [Jetbrains](https://gitlab.com/groups/gitlab-org/-/epics/6349), [Neovim](https://gitlab.com/groups/gitlab-org/-/epics/10739), [Visual Studio](https://gitlab.com/groups/gitlab-org/-/epics/10668) extensions and the [language server](https://gitlab.com/groups/gitlab-org/-/epics/2431). Also contributes with UX improvements for Code Suggestions within GitLab Workflow. |
 | [Enablement:Cloud Connector](/handbook/engineering/infrastructure/core-platform/systems/cloud-connector/) (`@mkaeppler`, `@nmilojevic1`) | AI-Assissted for Self-Managed |
-| [AI Framework](/handbook/engineering/development/data-science/ai-framework/)                                                           | GitLab Chat / Abstraction Layer and  GitLab Chat for VSCode and WebIDE|
+| [AI Framework](/handbook/engineering/development/data-science/ai-powered/ai-framework/)                                                           | Abstraction Layer for GitLab Chat, Code Suggestions and other AI capabilities |
+| [Duo Chat](/handbook/engineering/development/data-science/ai-powered/duo-chat/)                                                           | GitLab Chat for VSCode and WebIDE|
 | [Create:Code Creation](/handbook/engineering/development/dev/create/code-creation/)                                                    | Code Suggestions |
 | [AI Model Validation Group](/handbook/engineering/development/data-science/ai-assisted/)                                               | Suggested Reviewer, Code Suggestions AI Gateway functionality, Evaluating and tuning ML Models |
 | [Infrastructure](/handbook/engineering/infrastructure/)                                                                                | Code Suggestions AI Gateway scalability |

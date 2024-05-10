@@ -5,7 +5,7 @@ description: "Learn and ask questions at GitLab's Ask Me Anything (AMA) meetings
 
 ## Purpose
 
-Ask Me Anything (AMA) meetings are arranged to allow team members the opportunity to learn from and ask questions of our [E-Group](/handbook/company/team/structure/#e-group), [Board of Directors](/handbook/board-meetings/#board-of-directors), and others groups who would like to host an AMA on a specific topic. AMAs can be arranged for many purposes, including the following:
+Ask Me Anything (AMA) meetings are arranged to allow team members the opportunity to learn from and ask questions of our [E-Group](/handbook/company/structure/#e-group), [Board of Directors](/handbook/board-meetings/#board-of-directors), and others groups who would like to host an AMA on a specific topic. AMAs can be arranged for many purposes, including the following:
 
 - Allow team members to meet new leaders joining the company
 - Clarify a company-wide initiative or change that requires more discussion
@@ -27,6 +27,24 @@ They can be initiated by anyone who wants to schedule an AMA, but are typically 
 AMAs do not need to have a host, but there should be a person or people available to answer questions related to the AMA topic.
 
 Occasionally an AMA might be held for a smaller audience. It is encouraged for all AMAs to be open to the full company whenever possible. Occasionally an AMA may not make sense to be sent to the whole company. In those instances, it is still encouraged to add the calendar invitation to the GitLab Team Meetings Calendar as sometimes team members may want to join a call that may not be directly directly applicable to them. Whenever creating an AMA for a smaller group, be sure to invite the team directly in the calendar invite.
+
+### AMA Kick off (best practices when starting an AMA)
+
+This guidance is primarily for the person or people who will be answering questions at a given AMA.
+
+Adding context to the AMA agenda and using the first 1-2 minutes of an AMA to ensure the audience understands how the time will be used has shown to lead to more engaging AMAs.
+
+Ensure the following items are added to the AMA agenda and follow these steps to set your AMA up for success:
+
+- The person or people responsible for answering questions should be listed in the AMA agenda and start the AMA by introducing themselves and their roles at GitLab.
+- If a brief explanation about *why* this AMA is being hosted may help the audience understand the purpose for the session, add a first agenda item that adds context and verbalize that point after introducing yourself.
+    - If multiple people will be responding to questions, identify one person to speak about *why* this AMA is being hosted by adding their name to the agenda item.
+- Information about how and where questions can be asked by the audience should be captured in the AMA agenda.
+    - For most AMAs, questions will be asked in an agenda doc, if this is the case please share that questions can also be asked in the Zoom chat if the agenda doc cannot be accessed.
+    - If sli.do or another platform is being used to ask questions, this should be noted.
+- If there is additional context the audience should be aware of to fully participate in the AMA or any documents that provide additional information that the audience should know about, it's a good practice to highlight these things up front by adding them as agenda items.
+- After that, onto the first question!
+
 
 ### Agenda document recommendations
 

@@ -15,7 +15,7 @@ The Utilization group manages the [Utilization category](/handbook/product/categ
 
 ## Team members
 
-{{< team-by-manager-role role="Fullstack Engineering Manager, Fulfillment:Utilization" team="[,&] Fulfillment" >}}
+{{% team-by-departments "Fulfillment:Utilization Team" %}}
 
 ## Stable counterparts
 
@@ -50,6 +50,34 @@ All team members are encouraged to add topics to the [weekly agenda](https://doc
 #### Engineers
 
 Engineers are responsible for providing async issue updates on active, assigned issues when progress is made. Following the [template and guidance](/handbook/engineering/development/fulfillment/#weekly-async-issue-updates) for async updates for the entire Fulfillment Sub-department, updates should be made at least weekly. These updates help keep collaborators, stakeholders, and community contributors informed on the progress of an issue.
+
+In addition to weekly issue updates, we ask that engineeering DRIs also provide a weekly status update for the bodies of work where they're focussed. 
+
+- **When**: We aim to provide these updates every Tuesday 
+- **Who**: Anyone who is listed as a DRI against our current milestone priority projects
+- **What**: The updates should include accomplishments, any blockers and a sense of how the work is progressing against the timeline. As an added bonus, a link to a demo that has been posted in the #s_fulfillment_demo Slack channel would also be beneficial.
+- **Where**: Please provide them in the comments of the primary/parent epic of your work and tag Alex and Chase when you do so.
+
+An example template to use in these updates looks like:
+
+```markdown
+# BE Weekly Update YYYY-MM-DD
+
+* **Timeline Confidence**: :thumbsup:
+* **% Complete**: X% (Y weight closed / Z total weight)
+* **Blockers**: None
+* **Accomplishments**:
+  * 3 MRs created 
+  * 1 issue closed
+
+cc/ @alex_martin @csouthard 
+```
+
+Initially we are using the following formula for `% Complete`, rounded down to the nearest multiple of 5:
+
+```markdown
+(issue weight closed / total issue weight) * 100
+```
 
 #### Engineering Manager
 
@@ -118,7 +146,7 @@ We have [cross-functional prioritization](/handbook/product/cross-functional-pri
 - The team uses the [#g_utilization_planning](https://gitlab.slack.com/archives/C04108X3FDG) Slack channel to discuss cross-functional prioritization.
 - The team reviews [this dashboard](#merged-merge-request-types) which shows the distribution of MRs that are bugs, maintenance, and features to ensure the team's efforts are properly aligned to our target prioritization ratio (60% features / 30% maintenance / 10% bugs).
 - The team uses [this prioritization board](https://gitlab.com/gitlab-org/gitlab/-/boards/4416231?label_name%5B%5D=group%3A%3Autilization) to order our top features, bugs, maintenance, and [System Usability Scale (SUS)](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#sus-impacting) impacting issues.
-- For a quick view and controls on bugs by priority, [this board](https://gitlab.com/groups/gitlab-org/-/boards/2874336?label_name[]=group%3A%3Autilization&label_name[]=type%3A%3Abug) can be used. More detailed information on bugs, including backlog and open rate, both of which are factors in determining their desired bug percentage for the upcoming milestone, is shown in this [dashboard](https://app.periscopedata.com/app/gitlab/1037965/Bug-Prioritization) (select Utilization from filters).
+- For a quick view and controls on bugs by priority, [this board](https://gitlab.com/groups/gitlab-org/-/boards/2874336?label_name[]=group%3A%3Autilization&label_name[]=type%3A%3Abug) can be used. More detailed information on bugs, including backlog and open rate, both of which are factors in determining their desired bug percentage for the upcoming milestone, is shown in this [dashboard](https://10az.online.tableau.com/t/gitlab/views/OpenBugAgeOBA/BugPrioritizationDashboard) (select Utilization from filters).
 - The team collaborates on a prioritization issue that documents and discusses our current prioritization scheme.
 
 ### Planning Issues
@@ -509,6 +537,22 @@ a typical DRI.
 
 ## Performance Indicators
 
-{{% cross-functional-dashboards filters="Utilization" %}}
+{{< tableau height="600px" toolbar="hidden" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/TopEngineeringMetrics/TopEngineeringMetricsDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="utilization" >}}
+{{< /tableau >}}
 
-{{% engineering/child-dashboards filters="Utilization" %}}
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/MergeRequestMetrics/OverallMRsbyType_1" >}}
+  {{< tableau/filters "GROUP_LABEL"="utilization" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/Flakytestissues/FlakyTestIssues" >}}
+  {{< tableau/filters "GROUP_NAME"="utilization" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/SlowRSpecTestsIssues/SlowRSpecTestsIssuesDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="utilization" >}}
+{{< /tableau >}}
+
+
+You can find more centralized engineering metrics at [this page](https://handbook.gitlab.com/handbook/engineering/metrics/dashboards/).
+

@@ -74,6 +74,8 @@ Create a [webcast idea issue](https://gitlab.com/gitlab-com/marketing/demand-gen
 * [ ] [main salesforce campaign]()
 * [ ] [main marketo program]()
 * [ ] [ON24 webcast preview link]()
+* [ ] [Developer Relations Influenced](https://handbook.gitlab.com/handbook/marketing/developer-relations/content-effectiveness/#developer-relations-influenced-campaigns), Add the `DevRel-Influenced` label.
+
 
 ## :books: Issue creation
 
@@ -135,6 +137,7 @@ Partner webcasts are managed and moderated by Partner Marketing, working closely
 * [ ] [main salesforce campaign]()
 * [ ] [main marketo program]()
 * [ ] Sharing leads with our partner (check box if yes) - campaign manager to use *Form 2432: Partners*
+* [ ] [Developer Relations Influenced](https://handbook.gitlab.com/handbook/marketing/developer-relations/content-effectiveness/#developer-relations-influenced-campaigns), Add the `DevRel-Influenced` label.
 
 /label ~"Partner Marketing" ~"Marketing Programs" ~"Webcast - GitLab Hosted" ~"Webcast" ~"mktg-status::wip" ~mktg-demandgen
 
@@ -244,28 +247,24 @@ Try to get a good sleep the night before, and, if the presentation is in the mor
 {: #technical-demo-series .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 Technical demos are aligned with the GTM Motions and cover a range of topics relevant to leads in consideration & purchase stages.
-Demo series run on a weekly cadence as live or pre-recorded sessions on Zoom / On24 Platforms with an option for written or live Q&A.
+Demo series run on a bi-weekly cadence as live or pre-recorded sessions on On24 Platform. Participants have the flexibility to engage in either written or live Q&A sessions.
 
-**Primary goal:**
-* Accelerate MQL > SAO conversion
+**Key objectives:**
+* **Pipeline Acceleration:** Increase conversion from Marketing Qualified Leads (MQL) to Sales Accepted Opportunities (SAO).
+* **Prospect and Customer Education:** Inform our prospects and existing customers about the value offered by GitLab's features. 
 
 ### Technical demo landing pages
 {: #technical-demo-landing-pages .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
 
-Technical Demo Series are managed by Marketing Campaign Managers, in collaboration with Technical Marketing Managers who deliver the content. The technical set-up is executed by Campaign Managers and Verticurl agency.
+Technical Demo Series are managed by Marketing Campaign team, in collaboration with DevRel and Solution Architects who deliver the content. 
 
-Campaign Managers are responsible to maintaining the following technical demo pages:
+Global Campaign Managers are responsible for creating technical demo bundles as a pivotal element within the overarching Go-To-Market (GTM) Campaign strategy. Regional Campaign Managers are responsible for activation in the region as integral part of the regional demand generation plans.   
 
-- [AMER/EMEA Demo Page](https://page.gitlab.com/technical-demo-series.html)
-- [APAC Demo Page](https://page.gitlab.com/technical-demo-series-apac.html)
-- [APAC Workshop/Demo Page](https://page.gitlab.com/events-pd-technical-apac.html)
+Regional Campaign Managers are responsible for updating the technical demo page through our CMS platform - Contentful:
 
-Instructions video on adding/removing the technical demos from landing page are available [here](https://www.youtube.com/watch?v=dj9DA7seGuo).
+- [Global Technical Demo Page](https://about.gitlab.com/gitlab-technical-demo-series/)
 
-The following landing pages combining technical demos and workshops are being maintained by Field Marketing Managers:
-
-- [AMER Workshop/Demo Page](https://page.gitlab.com/events-amer-enterprise.html)
-- [EMEA Workshop/Demo Page](https://page.gitlab.com/events-pd-emea.html)
+Instructions video on adding/removing the technical demos from landing page are available [here](https://youtu.be/yhPGuyRkTno).
 
 # Logistical Setup
 {: #logistical-setup .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->

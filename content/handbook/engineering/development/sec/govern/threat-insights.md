@@ -3,9 +3,26 @@ title: Govern, Threat Insights
 description: "The Threat Insights group at GitLab is charged with developing solutions to enable customers to manage their security risks effectively and efficiently."
 ---
 
-## Threat Insights
+## Customer outcomes we are driving for at GitLab
 
-We are responsible for developing solutions to give customers insights into threats and enable them to manage their security risks effectively and efficiently.
+As a developer it is imperative to know if you are introducing vulnerabilities as you merge into protected branches in addition to the default branch. In FY25, we will allow users to track vulnerabilities across multiple branches. If there is something a developer wants to remediate, but aren’t sure where to get started, they can use our features AI to learn more and get a suggestion for a fix.
+
+As a security engineer, you want to know what vulnerabilities to work on first. Over the next year we will be adding key risk metrics so you can quickly triage and mitigate vulnerabilities that have the potential to be exploited.
+
+Leadership wants to make sure their organization is mitigating risks and their security programs are effective. With enhancements to the Security Dashboards, leaders will have a place to get an overview and answer key questions about metrics, trends and vulnerabilities that need
+to be addressed quickly.
+
+## Top Priorities for FY25
+
+**Enable users to identify risk and visualize trends** - We will be making enhancements to Security Dashboards at the project and group level.
+
+**Estimate potential impact and likelihood of vulnerability exploitation** - Give users the ability to access risk directly in the vulnerability report through industry known risk scores like CVSS (Common Vulnerability Scoring System) and exploitability probability.
+
+E**nable users to track vulnerabilities across multiple branches** - Allow users to track vulnerabilities outside the default branch.
+
+**Offer guidance for users to get started with vulnerability remediation** - leverage the power of AI and security training to help developers understand and remediate vulnerabilities.
+
+**Threat Insights features are reliable and perform at scale** - As we add more group and organization level features, we will be optimizing query performance and move forward with confidence that our database will scale and perform as we grow.
 
 ## Common Links
 
@@ -19,19 +36,37 @@ We are responsible for developing solutions to give customers insights into thre
 * Google groups: eng-dev-secure-threat-insights-members@gitlab.com
 * [Threat Insights calendar](https://calendar.google.com/calendar/u/0?cid=Y19iNGQxYmYzYzY4ZTBjODZkYTE0ZDc4N2M0MjZhMDUxYWEzYzljYWRlZjIwZTcwMmNmOWRjZmEwNzQzMmRmMDNkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) (internal link)
 
+### Prioritization
+
+We use our Threat Insights Priorities pages [16.x](https://about.gitlab.com/direction/govern/threat_insights/16_threat_insights_priorities.html) and [17.x](https://about.gitlab.com/direction/govern/threat_insights/17_threat_insights_priorities.html) page to track what we are doing, and what order to do it in.
+
 ## How we work
 
 Threat Insights is a large group, and to reduce planning overhead, engineering is organized into two teams, Navy and Tangerine, that each approach work in [vertical slices](https://www.visual-paradigm.com/scrum/user-story-splitting-vertical-slice-vs-horizontal-slice/). This is more efficient because it virtually eliminates the cross-team dependency that comes from organizing a large group by technical expertise.
 
 Both teams have Backend and Frontend engineers, and as such work on any part of our codebase. However, Team Navy primarily focuses on features that affect the user interface, while Team Tangerine concentrates on data management.
 
-We use the scoped labels `~"Threat Insights::Navy"` `~"Threat Insights::Tangerine"` to designate work for each team. Navy engineers report to {{< member-by-gitlab "nmccorrison" >}} and Tangerine engineers report to {{< member-by-gitlab "kniechajewicz" >}}.
+We use the scoped labels `~"Threat Insights::Navy"` `~"Threat Insights::Tangerine"` to designate work for each team. Navy engineers report to {{< member-by-gitlab "nmccorrison" >}} and Tangerine engineers report to {{< member-by-gitlab "sming-gitlab" >}}.
 
-### Prioritization
 
-We use our [Threat Insights Priorities](https://about.gitlab.com/direction/govern/threat_insights/16_threat_insights_priorities.html) page to track what we are doing, and what order to do it in.
+### Metrics
 
-{{% cross-functional-dashboards filters="Threat Insights" %}}
+
+{{< tableau height="600px" toolbar="hidden" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/TopEngineeringMetrics/TopEngineeringMetricsDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="threat insights" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/MergeRequestMetrics/OverallMRsbyType_1" >}}
+  {{< tableau/filters "GROUP_LABEL"="threat insights" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/Flakytestissues/FlakyTestIssues" >}}
+  {{< tableau/filters "GROUP_NAME"="threat insights" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/SlowRSpecTestsIssues/SlowRSpecTestsIssuesDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="threat insights" >}}
+{{< /tableau >}}
 
 ### Workflow
 
@@ -46,6 +81,11 @@ Additional information can be found on the [Planning page](/handbook/engineering
 - During the team meeting, on the third Tuesday of the month the team meets for a cross-functional review of the scope, and finalizes the milestone's planning issue.
 - All issues scheduled for the milestone should have the `~Deliverable` label as well as `Health Status: On Track` at the beginning of the milestone.
 - The planning issue is created in this [epic](https://gitlab.com/groups/gitlab-org/-/epics/9951) for 16.0-16.11.
+
+### Tracking Deliverables 
+- Issues that are marked as Deliverables for a milestone serve as the single source of truth for what we aimed to deliver for a given milestone. Throughout the milestone, things may change, become blocked, etc. _Ideally, we'd like to keep the Planning Issue unchanged after the milestone starts._
+- Something is considered delivered if it is either a. merged into production in time for the release date, b. completed before the next milestone start, or c. the feature flag enabling the feature is turned on.  It is important to keep track of the milestone of the deliverable; we encourage self-managed customers to turn on feature flags so they can try different features. Ensuring the milestone is correct, allows someone to tell if that change is available in a specific release.
+
 
 ### MR Reviews
 
@@ -134,7 +174,9 @@ and also keep the initial review internal.
 This will help ensure that the changes follow best practice, are well tested, have no unintended side effects, and help the team be across any changes that go into the Threat Insights codebase.
 
 ### Community Contributions
-The Threat Insights grop welcomes community contributions. Any community contribution should get prompt feedback from one of the Threat Insights engineers. All engineers on the team are responsible for working with community contributions. If a team member does not have time to review a community contribution, please tag the Engineering Manager, so that they can assign the community contribution to another team member.
+The Threat Insights group welcomes community contributions. Any community contribution should get prompt feedback from one of the Threat Insights engineers. All engineers on the team are responsible for working with community contributions. If a team member does not have time to review a community contribution, please tag the Engineering Manager, so that they can assign the community contribution to another team member.
+
+If a team member creates an issue or finds an issue where we would be open to a community contribution, it should be labelled with ~"Seeking community contributions". If the contributor needs an EE license, we can point towards the [Contributing to the GitLab Enterprise Edition (EE)](/handbook/marketing/developer-relations/contributor-success/community-contributors-workflows/#contributing-to-the-gitlab-enterprise-edition-ee) section on the Community contributors workflows page.
 
 ### Group discussion
 We hold weekly group discussions alternating on APAC/AMER, and EMEA/AMER time zones. Everyone is invited to attend, and it's a great forum to ask questions about Vulnerability Management, customer queries, our road map, and what the Threat Insights team might be thinking about. You can find the meetings on the [Threat Insights calendar](#common-links); take a look at [the agenda](https://docs.google.com/document/d/1mbXHw6EYT-IqlEFguYRyLrm35f_DGA7EzGPGBCOc9ao/edit#heading=h.pt5d0o3avmun) (internal link). We hope to see you there!

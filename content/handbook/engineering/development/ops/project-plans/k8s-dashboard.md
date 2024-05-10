@@ -106,7 +106,7 @@ Epic: [https://gitlab.com/groups/gitlab-org/-/epics/11112](https://gitlab.com/gr
 
 #### Week of Dec 25-28
 
-- [ ] *forecast*: [Iteration 1 of the Kubernetes cronJobs page](https://gitlab.com/gitlab-org/gitlab/-/issues/428318) is done
+- [x] *forecast*: [Iteration 1 of the Kubernetes cronJobs page](https://gitlab.com/gitlab-org/gitlab/-/issues/428318) is done
 
 #### Week of Jan 1-5
 
@@ -114,8 +114,8 @@ Epic: [https://gitlab.com/groups/gitlab-org/-/epics/11112](https://gitlab.com/gr
 
 #### Week of Jan 8-12
 
-- [ ] *forecast*: [Iteration 1 of the Kubernetes services page](https://gitlab.com/gitlab-org/gitlab/-/issues/428322) is done
-- [ ] *forecast*: Iteration 1 of the Kubernetes dashboard pages are enriched with detailed resource spec information
+- [x] *forecast*: [Iteration 1 of the Kubernetes services page](https://gitlab.com/gitlab-org/gitlab/-/issues/428322) is done
+- [-] *forecast*: Iteration 1 of the Kubernetes dashboard pages are enriched with detailed resource spec information
 
 
 ### Milestone 16.9 (January 15, 2024 - February 9, 2024)

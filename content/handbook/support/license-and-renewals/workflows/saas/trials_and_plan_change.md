@@ -34,13 +34,13 @@ Once the form has been submitted, the L&R Support Engineer should follow the wor
 - Going to the `Zuora Subscriptions` tab.
 - Selecting the appropriate namespace and pressing the `Apply Ultimate Trial` button.
 
+#### Subscription seats during trials-over-subscription
+
+When applying an Ultimate trial over a subscription, the customer's licensed subscription seat count still applies. If the customer wishes to increase their seat count during the Ultimate trial, they will have to purchase the seats as usual. If the customer exceeds their seat allowance during the trial, they will be billed for them at their next reconciliation and the seats will still apply after the end of the trial.
+
 #### Namespaces with a prior Ultimate trial
 
-GitLab.com Premium to Ultimate subscription trials are handled similarly to regular trials regarding namespace eligibility. If a namespace previously underwent a trial (e.g. prior to being upgraded to a Premium subscription), attempting to initiate an Ultimate trial will result in the error `Validation failed: Gl namespace can have only one trial`.
-
-In order to bypass this validation:
-1. **Interim curent state:** Support team should submit a [Request for Help (RFH)](https://gitlab.com/gitlab-com/fulfilment-sub-department/section-fulfilment-request-for-help) to Fulfillment to clear the trial history for the namespace. Once cleared, the trial can be applied.
-1. **Coming soon:** The Fulfillment team is working to [update this validation](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/7382) to skip the existing trial history check for this specific trial type and allow for more than one trial per namespace.
+These namespaces are allowed to start an Ultimate trial over Premium subscription, circumventing the normal guardrails preventing a group from taking out more than one trial.
 
 #### Workflow caveats
 
@@ -61,12 +61,23 @@ If any fields when opening the ticket were filled out incorrectly,  send a publi
    1. The `Namespace:` field contains a valid GitLab namespace and it that holds the active trial. This should not be a Salesforce link or email address.
    1. The `Extend the date to:` field contains a future date. (Trial expires around 23:59 UTC on this date)
    1. The `Trial license plan:` field is filled out
-1. Use the [Update GitLab Subscription form]({{ ref "mechanizer#update-gitlab-subscription" >}}) to process the request.
+1. Use the [Manage GitLab Plan and Trials]({{< ref "mechanizer#manage-gitlab-plan-and-trials" >}}) to process the request.
    1. This should create a new internal request issue documenting the change action. Reference this new issue to the ZD Ticket where the extension was requested.
-   1. If there is an error while taking action, check the internal issue to see what went wrong. Please also locate the [error in sentry](https://sentry.gitlab.net/gitlab/customersgitlabcom/) (see [Searching Sentry](/handbook/support/workflows/500_errors.html#searching-sentry) if needed) and file an issue, or comment on an existing one.
+   1. If there is an error while taking action, check the internal issue to see what went wrong. Please also locate the [error in sentry](https://sentry.gitlab.net/gitlab/customersgitlabcom/) (see [Searching Sentry](/handbook/support/workflows/500_errors/#searching-sentry) if needed) and file an issue, or comment on an existing one.
 1. If namespace needs to be adjusted manually, then raise a new internal issue with details and  `~Console Escalation::Customers` label.
 
 If a customer is requesting a trial extension, please follow [Working with Sales workflow]({{< ref "working_with_sales" >}}) to let Sales team know in case they would like to have a discussion with the customer.
+
+
+### SFDC generated temporary renewal extensions
+
+Account Executives (AEs) can use SalesForce.com (SFDC) to issue a SaaS 21-day Subscription extension to a customer when the renewal opportunity is taking longer than expected to close. When an AE uses this functionality, the subscription is automatically extended without any L&R Support involvement. The [Temporary renewal extensions](/handbook/product/fulfillment-guide/#temporary-renewal-extensions) handbook entry documents this approach.
+
+Please note that the above approach has the following caveats:
+
+1. There are guardrails in place to prevent abuse of this functionality. As a result, only one subscription extension can be generated per renewal event. Therefore, there may be occasions when L&R Support will still be required to generate further subscription extensions. If this occurs then please follow the manual process for [extending an active or expired subscription](#extend-an-existing-active-or-expired-subscription).
+1. Additionally, the subscription has to be a non-trial subscription. If the subscription is set to expire within the next 15 days, please redirect the salesperson to utilize the SFDC feature by employing the `Deviation from SM License Extension Workflow macro` and subsequently close the ticket.
+1. If the subscription expiration is more than 15 days away, advise the salesperson to wait until the expiry is within 15 days before utilizing the SFDC feature. Once within the 15-day window, redirect the salesperson to use the SFDC feature using the `Deviation from SM License Extension Workflow` macro and then close the ticket.
 
 ## Extend an existing active or expired subscription
 
@@ -99,7 +110,7 @@ graph TD;
   G-->H[Note Issue and Close];
   F-->I[No];
   I-->L[Locate Error in Sentry or comment on existing issue];
-  click L "/handbook/support/workflows/500_errors.html#searching-sentry" "Diagnose Errors on GitLab.com"
+  click L "/handbook/support/workflows/500_errors/#searching-sentry" "Diagnose Errors on GitLab.com"
   L-->M[Adjust Namespace Manually];
   M-->N[Apply Status::On Hold, Set Due Date];
 ```

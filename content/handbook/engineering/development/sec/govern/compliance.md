@@ -2,6 +2,10 @@
 title: "Compliance Group"
 ---
 
+## Mission
+
+The Compliance group's mission is to provide visibility into an organizations compliance posture within GitLab and provide tools for organization's to identify non-compliant activities and scope enforcement of compliance requirements.
+
 ## What we work on
 
 - We use the [Group Direction page](https://about.gitlab.com/direction/govern/compliance/) to describe our high-level goals and direction for our group.
@@ -9,6 +13,15 @@ title: "Compliance Group"
 - This prioritised list we then use when planning each Milestone. Each Milestone will have its own Issue in our [Planning Epic](https://gitlab.com/groups/gitlab-org/govern/compliance/-/epics/2)
   - In addition to using the high-level goals and direction as an input to planning Milestones, the Compliance Product Manager considers input from Sales, customers, and internal stakeholders (dogfooding) to decide on the priority for the issues added to each Milestone.
 - We also use [OKRs](/handbook/company/okrs/) to help prioritise strategic initiatives within the group. We use Issues for planning and collate them in our [OKR Epic](https://gitlab.com/groups/gitlab-org/govern/compliance/-/epics/4)
+
+## Top Priorities FY25
+
+- The biggest priority for FY25 is to continue to integrate Compliance Frameworks with Security Policies. Expanding the abilities within the Compliance Center and moving towards removal of Compliance Pipelines.
+- Continue expanding on the Adherence Report by adding more Standards/Checks, while also integrating violations as the other side of the compliance posture (enforcement vs violation).
+- We are also looking at building customizable checks and the highest priority standards for our customers.
+- Rollout full usage of ClickHouse as the DB for audit events. Unblocking features to give better insights into compliance across the GitLab platform.
+- Provide a standard way for adding new Streaming Audit Event destination types and filtering, then increasing our streaming audit event offering through more 3rd party integrations and filtering options.
+- Create a platform for easily allowing contributions outside the Compliance group to add audit events throughout the product. This includes planning and standardizing all current open audit event issues, creating easily consumable tutorials and guidelines, and potentially creating an audit event day (similar to pajamas migration days but for backend).
 
 ## How we work
 
@@ -134,7 +147,7 @@ We plan in monthly cycles in accordance with our [Product Development Timeline](
 - We try to plan 1-2 Milestones ahead, we include a max of 2 planning issues (`workflow::planning breakdown` and `workflow::solution validation`) per person at the start of a Milestone, this is a rule of thumb.
   - When a planning issue is included in a Milestone it is also assigned to team members. This is to provide clarity on what and who is doing what planning in the Milestone.
 - By the 20th, Product should review the release that just concluded development (currently, we transition development work from one release to the next on the 18th) for issues that slipped from the milestone. Please evaluate issues that weren't merged in time and reschedule them appropriately.
-- Identify any issues which may have security implications, and ping the [Application Security Stable Counterpart](/handbook/security/security-engineering/application-security/stable-counterparts/) and/or [request an Application Security Review](/handbook/security/security-engineering/application-security/appsec-reviews/#adding-features-to-the-queue--requesting-a-security-review). The Product Manager will list these in the planning issue.
+- Identify any issues which may have security implications, and ping the [Application Security Stable Counterpart](/handbook/security/product-security/application-security/stable-counterparts/) and/or [request an Application Security Review](/handbook/security/product-security/application-security/appsec-reviews/#adding-features-to-the-queue--requesting-a-security-review). The Product Manager will list these in the planning issue.
 
 ### Issue Prioritization
 
@@ -302,7 +315,7 @@ __Verifier: the engineer verifying the issue on .com/production (not the MR auth
 
 1. Verifier: documents findings by commenting on the verification thread on the issue.
 1. Verifier: opens new issues ~"type::bug"  or ~"type::feature" based on fiindings.
-   1. Verifier: sets the severity and/or priority based on [priority](/handbook/engineering/quality/issue-triage/#priority)/[severity](/handbook/engineering/quality/issue-triage/#severity-slos) triage process and the issue type (~"type::bug"  or ~"type::feature").
+   1. Verifier: sets the severity and/or priority based on [priority](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#priority)/[severity](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity-slos) triage process and the issue type (~"type::bug"  or ~"type::feature").
    1. ~"severity::1" / ~"severity::2" to be pulled directly into the milestone with comment added to ping(`@`) the engineering manager.
 1. Verifier: assigns the MR author to newly opened issues.
 1. Verifier: closes the issue and unassigns themself. The issue will automatically get the `~workflow::complete` label added.
@@ -341,6 +354,11 @@ Meetings that are not 1:1s or covering confidential topics should be added to th
 
 All meetings should have an agenda prepared at least 12 hours in advance. If this is not the case, you are not obligated to attend the meeting. Consider meetings canceled if they do not have an agenda by the start time of the meeting.
 
+
+## Planning for PTO
+
+We follow the [Govern stage PTO process](/handbook/engineering/sec/govern/#pto) and [GitLab team members Guide to Time Off](/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off).
+
 ## Group Shared Calendar
 
 The [Compliance Group Shared Calendar](https://calendar.google.com/calendar/embed?src=c_e21c4d99155603fa2f3b06f41628bebfe6013218000c822ec2fdfe7ed877d3e1%40group.calendar.google.com) is used to make sure PTO events are visible to everyone on the team.
@@ -375,9 +393,23 @@ The following people are permanent members of the group:
 
 ### Product
 
-[Product performance indicators / North star metrics](https://app.periscopedata.com/app/gitlab/663045/Manage:-Compliance-Dashboard)
+[Product performance indicators / North star metrics](https://10az.online.tableau.com/#/site/gitlab/workbooks/2200383/views)
 
-{{% cross-functional-dashboards filters="compliance" %}}
+{{< tableau height="600px" toolbar="hidden" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/TopEngineeringMetrics/TopEngineeringMetricsDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="compliance" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/MergeRequestMetrics/OverallMRsbyType_1" >}}
+  {{< tableau/filters "GROUP_LABEL"="compliance" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/Flakytestissues/FlakyTestIssues" >}}
+  {{< tableau/filters "GROUP_NAME"="compliance" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/SlowRSpecTestsIssues/SlowRSpecTestsIssuesDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="compliance" >}}
+{{< /tableau >}}
 
 ## Links and resources {#links}
 

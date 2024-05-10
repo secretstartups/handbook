@@ -1,11 +1,10 @@
-{{- $services := partials.IncludeCached "data/service-maturity" . }}
-{{- range $k, $v := $services }}
+{{- range $k, $v := site.Data.public.service_maturity }}
 
 ### {{ $k }} detail
 
 - {{ $v.level }}
 - [Link to {{ $k }} dashboard ](https://dashboards.gitlab.net/d/{{ $k }}-main)
-- [Service definition of {{ $k }}]([https://gitlab.com/gitlab-com/runbooks/-/blob/master/metrics-catalog/services/{{ $k }}.jsonnet)
+- [Service definition of {{ $k }}](https://gitlab.com/gitlab-com/runbooks/-/blob/master/metrics-catalog/services/{{ $k }}.jsonnet)
 
 <table>
     <thead>

@@ -82,7 +82,6 @@ The charter of this working group is to bridge the gap between different teams t
 
 | Working Group Role    | Person                | Title                                           |
 |-----------------------|-----------------------|-------------------------------------------------|
-| Executive Sponsor     | Laurence Bierner      | Director, Security Engineering       |
 | Facilitator           | Alex Groleau          | Security Automation Manager |
 | Functional Lead                | Roger Ostrander       | Senior Security Engineer, Trust & Safety        |
 | Functional Lead                | Alexander Chueshev         | Senior Backend Engineer, AI Framework |

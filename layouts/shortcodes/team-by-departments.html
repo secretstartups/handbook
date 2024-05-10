@@ -17,25 +17,9 @@
   {{- $departments = (slice (.Get 0)) }}
 {{- end }}
 
-{{- $team := partials.IncludeCached "data/team" page }}
-{{- $teamDict := dict }}
-{{- range $departments }}
-  {{- $department := . }}
-  {{ range  $team }}
-    {{- if in .departments $department }}
-      {{- $teamDict = merge $teamDict (dict .name . ) }}
-    {{- end }}
-  {{- end }}
-{{- end }}
-
-{{- range $managerRoles }}
-  {{- $role := . }}
-  {{ range $team }}
-    {{- if eq .job_title $role}}
-      {{- $teamDict = merge $teamDict (dict .name . ) }}
-    {{- end }}
-  {{- end }}
-{{- end }}
+{{- $members := where site.Data.public.team "departments" "intersect" $departments }}
+{{- $members = append (where site.Data.public.team "job_title" "intersect" $managerRoles) $members }}
+{{- $members = sort (uniq $members) "name" }}
 
 <table>
     <thead>
@@ -43,10 +27,10 @@
         <th>Role</th>
     </thead>
     <tbody>
-        {{- range $k, $v := $teamDict }}
+        {{- range $members }}
           <tr>
-              <td>{{ partial "member-by-gitlab" $v.gitlab }}</td>
-              <td>{{ $v.role | safe.HTML }}</td>
+              <td>{{ partial "member/with-team-link" . }}</td>
+              <td>{{ .role | safe.HTML }}</td>
           </tr>
         {{- end }}
     </tbody>

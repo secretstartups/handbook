@@ -90,6 +90,8 @@ If the requestor is not an existing CustomersDot user when doing an email search
 
 **Note 3:** If you need to escalate any ownership verification requests to the Legal and Compliance team please open a [Subscription-Ownership-Change-Escalation](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=Subscription-Ownership-Change-Escalation) issue.
 
+**Note 4:** This process is slightly more stringent than that of the steps for [proving entitlement to Manage Support Contacts](https://support.gitlab.com/hc/en-us/articles/11626528150172).  Notably, we cannot accept screenshots for proving entitlement to subscription management access.
+
 We need **one** of the following in order to verify eligibility for the subscription ownership change:
 
 1. Approval from the existing contact
@@ -114,7 +116,10 @@ We need **one** of the following in order to verify eligibility for the subscrip
       1. Copy/paste the returned data to the support ticket.
    1. Using a gitlab.com admin account to verify the accuracy of the provided
       subscription data and then approving or denying the request accordingly.
-1. Option for unactivated licenses purchased through a reseller only: A reseller can verify an account ownership change through a ticket request. Support is responsible for [confirming the account was purchased through a reseller](/handbook/support/license-and-renewals/workflows/working_with_reseller_related_requests#identifying-whether-a-customer-purchased-through-reseller), and verifying that the email address domain used by the reseller to make the request matches the `Key Contacts` email domain in the subscription details in Zuora as detailed in the related [legal compliance issue](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/1564#note_1451657920). The request can be initiated by the reseller through the opening of a ticket, or alternatively, the customer has the option to CC the reseller while confirming their authorization for the reseller's participation in the ticket. In cases where a customer has made a purchase through a series of resellers, the reseller matching the email domain identified in Zuora as the `Invoice owner` of the subscription should be employed for verification confirmation.
+1. Option for unactivated licenses purchased through a reseller only: A reseller can vouch for an account ownership change through a ticket request. The reseller can open a ticket, or alternatively, the customer can CC the reseller to authorize their request.
+   1. [Confirm that the subscription was purchased through a reseller](/handbook/support/license-and-renewals/workflows/working_with_reseller_related_requests#identifying-whether-a-customer-purchased-through-reseller)
+   1. Verify that the email address domain used by the ticket requester matches the `Sold To` email domain of the `Invoice Owner` account in Zuora as detailed in the related [legal compliance issue](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/1564#note_1451657920). In cases where a customer has made a purchase through a series of resellers, the reseller matching the email domain identified in Zuora as the `Invoice owner` of the subscription should be used for verification confirmation.
+
 
 ### Fixing typos
 

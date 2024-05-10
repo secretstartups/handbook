@@ -169,7 +169,7 @@ Please refer the customer to these guides on how to locate their admin dashboard
 Our customer has blocked/deactivated/removed users from their subscription. Will these users count towards billable users/seats currently in use at renewal? How will these users be reflected/charged?
 </summary>
 
-Deactivated, blocked, and removed users don’t count as “Billable Users (Self-Managed) / “Seats currently in use” (SaaS) in the current subscription. However, they may count toward overages in the subscribed seat count which will be charged as true-ups at renewal. Refer to [Self-Managed](https://docs.gitlab.com/ee/subscriptions/self_managed/#billable-users) and [SaaS]([https://docs.gitlab.com/ee/subscriptions/gitlab_com/#remove-users-from-your-subscription](url)) subscription documentation for more information.
+Deactivated, blocked, and removed users don’t count as “Billable Users (Self-Managed) / “Seats currently in use” (SaaS) in the current subscription. However, they may count toward overages in the subscribed seat count which will be charged as true-ups at renewal. Refer to [Self-Managed](https://docs.gitlab.com/ee/subscriptions/self_managed/#billable-users) and [SaaS](https://docs.gitlab.com/ee/subscriptions/gitlab_com/#remove-users-from-your-subscription) subscription documentation for more information.
 
 </details>
 
@@ -315,5 +315,19 @@ My customer did not receive the purchase confirmation email with license/activat
 The partner that received the GitLab invoice (i.e., Distributor for two-tier deal, Reseller for one-tier deal) needs to [submit the support ticket](https://support.gitlab.com/hc/en-us/requests/new) with the GitLab invoice attached to request the purchase confirmation email be sent to a new end user contact.
 
 **Important to note**, the GitLab Sales Rep cannot change the end user contact post-sale on behalf of the partner or customer. The request to change the end user contact must either be submitted by the (i) partner that received the GitLab invoice as outlined above or (ii) customer contact listed on the final GitLab quote (i.e., the person that received the license).
+
+</details>
+
+<details>
+<summary markdown="span">
+The customer received an error stating they are out of Compute Minutes so their instance has stopped working. How can I quickly resolve this?
+</summary>
+
+The customer must add Compute Minutes via the same procurement path as the original order (i.e., if they purchased the original subscription through a partner, they must purchase the additional minutes through the same partner). Please take the following steps:
+
+1. Work with your GitLab Sales Rep to obtain a quote for additional Compute Minutes.
+2. Request that the GitLab Sales Rep submit an internal support ticket to provide additional Compute Minutes so the customer can get back online while the quote and order process is being completed.
+
+For additional information, the Support team's process can be found [here](https://handbook.gitlab.com/handbook/support/license-and-renewals/workflows/saas/compute_minutes/#process-for-authorising-additional-compute-minutes-for-customers-as-an-act-of-goodwill).
 
 </details>

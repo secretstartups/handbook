@@ -30,7 +30,7 @@ In addition, we empower our teams to ship world class enterprise software at sca
 
 ## FY23 Direction
 
-In FY23 we will be focused on contributor success & customer results while delivering impact to the company's bottomline via alignment to [top cross-functional initiatives](/handbook/company/team/structure/working-groups/#top-cross-functional-initiatives). Key directional highlights; be more customer centric in our work, execute on 10x contributor strategy jointly with Marketing, provide timely operational analytics insights & improve team member engagement. In FY23 we anticipate a large increase of cross-functional activity within the company. Fostering an open-collaborative environment is more important than ever for us to deliver results.
+In FY23 we will be focused on contributor success & customer results while delivering impact to the company's bottomline via alignment to [top cross-functional initiatives](/handbook/company/working-groups/#top-cross-functional-initiatives). Key directional highlights; be more customer centric in our work, execute on 10x contributor strategy jointly with Marketing, provide timely operational analytics insights & improve team member engagement. In FY23 we anticipate a large increase of cross-functional activity within the company. Fostering an open-collaborative environment is more important than ever for us to deliver results.
 
 ### Customer Centric Quality
 
@@ -202,7 +202,7 @@ The cut-line also serves as a healthy discussion between engineers and their man
 
 - [Dev & Analytics QE Team](https://gitlab.com/groups/gitlab-org/-/boards/425899)
 - [Ops QE Team](https://gitlab.com/groups/gitlab-org/-/boards/978348)
-- [Enablement QE Team](https://gitlab.com/groups/gitlab-org/-/boards/978354)
+- [Self Managed Platform Team](https://gitlab.com/groups/gitlab-org/-/boards/978354)
 - [Fulfillment QE Team](https://gitlab.com/groups/gitlab-org/-/boards/1512645)
 - [Sec & Data Science QE Team](https://gitlab.com/groups/gitlab-org/-/boards/1524991)
 - [Engineering Productivity Team](https://gitlab.com/groups/gitlab-org/-/boards/978615)
@@ -295,7 +295,7 @@ If additional input is needed from the Quality team, the DRI for this is the Dir
 | Quality Department Bi-Weekly | Department management team | `@meks` | Every 2 weeks | Review meeting |
 | Quality Department Social Call | All team members | All team members | Every 2 weeks | Meet and Greet |
 | Quality Hiring Bi-Weekly | All QEMs, Directors, and VP | `TBD` | Every 2 weeks | Review meeting |
-| Ops section stakeholder review | `TBD` | `@dcroft` <br>`@zeffmorgan` | Every 4 weeks | Review meeting |
+| Ops section stakeholder review | `TBD` | `@dcroft` | Every 4 weeks | Review meeting |
 | Enablement Sync with AppSec | `@vincywilson` | `TBD` | Monthly | Review meeting |
 
 ## Quality Engineering initiatives
@@ -379,41 +379,11 @@ instance. We use the Tool every day to monitor for potential performance degrada
 by GitLab customers to directly test their on-premise instances. More information is available on our
 [Performance and Scalability](/handbook/engineering/quality/performance-and-scalability/) page.
 
-### MRARR
-
-The Quality department is the DRI for [MRARR](/handbook/engineering/performance-indicators/#mrarr) tooling and tracking. MRARR is an important part of the [Open Core 3 year strategy](/handbook/company/strategy/#2-build-on-our-open-core-strength) to increase contributions from the Wider community.
-
 ### Demo and Test Data
 
 Whether automatically generating production-like data, test data, or [data to be used for a demo](https://gitlab.com/gitlab-learn-labs/webinars/project-management/gitlab-project-management-data-import); the Data Seeder can be used to generate this data.
 
 See the [GitLab Data Seeder](/handbook/engineering/quality/gitlab-data-seeder) documentation for more information.
-
-#### Customer contributor tracking
-
-Customer contributors are currently tracked in [a Google Sheet](https://docs.google.com/spreadsheets/d/1yIASbQOS2TcHIFmSW_e3xTiQzgkYSLSgiujFJ7Dg834/edit#gid=447581669) that is imported to Sisense every day. Data has been sourced from Bitergia and reviewing previous Wider community contributions.
-
-#### Customer contributor additions
-
-Additions have been identified through the following means and added to the source above once confirmed by a Manager in the Quality Department.
-
-1. Indication from a member of the Sales team
-1. Contributor is linked to a Salesforce contact
-1. Confirmation with other public sources
-    - Identifying the organization, commit email or other public user information on the merge request.
-    - Validating that contributor is associated with a customer organization by using other public sources such as LinkedIn.
-    - Verify the organization is a paying customer of GitLab in using Salesforce.com to open the Account and look at the CARR fields.
-
-After verifying a contributor is associated with a customer, these steps are how to add a new contributor to the tracking [sheet](https://docs.google.com/spreadsheets/d/1yIASbQOS2TcHIFmSW_e3xTiQzgkYSLSgiujFJ7Dg834/edit#gid=447581669)
-
-1. Check if the customer organization is already defined in the spreadsheet by the Salesforce Account ID. If not, add a new row with the following information:
-    - Salesforce Account name for the Contributor Organization (a)
-    - Full 18 character Salesforce Account ID for the SFDC Account ID column (c). This can be retrieved from converting the 15 character ID with a gem like `salesforce_id_formatter`
-1. Add the Contributor's GitLab.com username to the Contributor Usernames column (b). **The format of this column is a JSON array. Please use double quoted strings and commas after each username.**
-
-#### Diagnostic dashboard
-
-The [MRARR Diagnostics](https://app.periscopedata.com/app/gitlab/790656/) dashboard contains some helpful supplemental charts to understand changes in MRARR and untracked contributors.
 
 ## Other related pages
 

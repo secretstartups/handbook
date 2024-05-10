@@ -1,5 +1,3 @@
-{{ $techStack := partials.IncludeCached "data/tech-stack" page }}
-
 <table>
     <thead>
       <tr>
@@ -10,7 +8,7 @@
       </tr>
     </thead>
     <tbody>
-    {{ range $techStack }}
+    {{ range site.Data.public.tech_stack }}
      {{ if or (eq .group_owner "Developer Relations") (strings.Contains .title "Zapier") }}
         <tr>
             <td>{{ .title }}</td>

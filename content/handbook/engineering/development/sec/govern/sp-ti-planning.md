@@ -148,8 +148,7 @@ Note the following differences when refining bugs:
 
 #### Refinement for Security Issues
 
-The [Security Release Process for
-Developers](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/developer.md#security-releases-critical-non-critical-as-a-developer)
+The [Security Developer process](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/engineer.md)
 can be daunting for first-timers. As part of refinement, ask for a volunteer to act as a "Security
 Issue Release Buddy".
 
@@ -221,14 +220,7 @@ The issue verification should be done by someone else other than the MR author[^
 
 ## Planning for PTO
 
-When a team-member takes some time off, it is important that their work is still being followed up on if needed. We want to make sure that any MR that lands in staging and production environments while we are out gets proper attention and is verified by a counterpart. Therefore, when getting close to our time-off period, we should do the following:
-
-* Any MR that can be put on hold until we're back from PTO should be put in the `Draft` status. This ensures that the MR won't be merged accidentally without a clear DRI to follow up on it.
-* Other non-draft MRs and freshly merged MRs, which need to be verified on staging, should be assigned to another engineer. The additional DRI will be responsible to verify the changes if they land in staging while we're out. When doing this, we must ensure that enough context has been provided in the MR's description and/or the related issue (setup, testing, potential impact, design decisions, etc.).
-
-Keep in mind that, while we strongly recommend following this process when taking some time off, it might not be relevant all the time. For example, if our time-off period is going to be short and/or our active MRs are minor enough, it might make sense to ignore these recommendations and follow up when we're back.
-
-In any case, it's always a good idea to give the company-wide PTO policy another read before going on leave: [A GitLab team members Guide to Time Off](/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off).
+We follow the [Govern stage PTO process](/handbook/engineering/sec/govern/#pto) and [GitLab team members Guide to Time Off](/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off).
 
 ## Epic Engineering DRI
 

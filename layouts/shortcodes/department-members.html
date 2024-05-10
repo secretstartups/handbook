@@ -8,13 +8,7 @@
   {{- errorf "The %q shortcode requires a single positional argument for department."}}
 {{- end }}
 
-{{- $departmentMembers := slice }}
-{{- $teamMembers := partials.IncludeCached "data/team" page}}
-{{- range $teamMembers }}
-  {{- if in .departments $department  }}
-    {{- $departmentMembers = append . $departmentMembers }}
-  {{- end }}
-{{- end }}
+{{- $departmentMembers := where site.Data.public.team "departments" "intersect" (slice $department) }}
 
 <table>
   <thead>
@@ -27,7 +21,7 @@
   <tbody>
     {{- range $departmentMembers }}
     <tr>
-      <td>{{ partial "member" . }}</td>
+      <td>{{ partial "member/with-team-link" . }}</td>
       <td>
         {{- $group := "None" }}
         {{- range .departments }}

@@ -10,12 +10,14 @@ The Infrastructure Department enables GitLab (the company) to deliver a single D
 The Infrastructure Department does this by focusing on **availability**, **reliability**, **performance**, and **scalability** efforts.
 These responsibilities have cost efficiency as an additional driving force, reinforced by the properly prioritized [**dogfooding**](#dogfooding) efforts.
 
-Many other teams also contribute to the success of the SaaS platform because [GitLab.com is not a role](/handbook/company/team/structure/#gitlabcom-isnt-a-role).
+Many other teams also contribute to the success of the SaaS platform because [GitLab.com is not a role](/handbook/company/structure/#gitlabcom-isnt-a-role).
 However, it is the responsibility of the Infrastructure Department to drive the ongoing evolution of the SaaS platform, enabled by platform observability data.
 
 ## Getting Assistance
 
 If you’re a GitLab team member and are looking to alert the Infrastructure teams about an availability issue with GitLab.com, please find quick instructions to report an incident here: [Reporting an Incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident).
+
+Queries to Infrastructure team can be directed to a dedicated Slack channel [#infrastructure_lounge](https://gitlab.slack.com/archives/CB3LSMEJV). The Infrastructure department actively engages with these queries or Slack messages here, which are then converted into issues in a separate [GitLab project tracker](https://gitlab.com/gitlab-com/gl-infra/infrastructure-lounge-slack-issue-tracker) for efficient tracking and resolution.
 
 ## Vision
 
@@ -45,7 +47,8 @@ flowchart LR
     I[Infrastructure]
     click I "/handbook/engineering/infrastructure/"
 
-    I --> TPM
+    I --> TPM[Technical Program Management]
+    click TPM "/handbook/engineering/infrastructure/technical-program-management/"
 
     I --> EP[Engineering Productivity]
     click EP "/handbook/engineering/infrastructure/engineering-productivity/"
@@ -54,8 +57,9 @@ flowchart LR
     I --> EA[Engineering Analytics]
     click EA "/handbook/engineering/quality/engineering-analytics/"
     I --> TP[Test Platform]
-    click TP "https://about.gitlab.com/handbook/engineering/infrastructure/test-platform/"
+    click TP "/handbook/engineering/infrastructure/test-platform/"
     I --> SP[SaaS Platforms]
+    click SP "/handbook/engineering/infrastructure/platforms/"
 
     C --> SS[Systems Stage]
     click SS "/handbook/engineering/infrastructure/core-platform/systems/"
@@ -104,12 +108,12 @@ flowchart LR
     D --> Switchboard
     click Switchboard "/handbook/engineering/infrastructure/team/gitlab-dedicated/switchboard/"
 
-    TP --> TTI[Test and Tools Infrastructure]
-    click TTI "/handbook/engineering/infrastructure/test-platform/test-and-tools-infrastructure-team/"
     TP --> SMP[Self-Managed Platform]
     click SMP "/handbook/engineering/infrastructure/test-platform/self-managed-platform-team/"
     TP --> TE[Test Engineering]
     click TE "/handbook/engineering/infrastructure/test-platform/test-engineering-team/"
+    TP --> TTI[Test and Tools Infrastructure]
+    click TTI "/handbook/engineering/infrastructure/test-platform/test-and-tools-infrastructure-team/"
 ```
 
 ## Design
@@ -139,7 +143,7 @@ The [handbook usage page guide](/handbook/handbook-usage/) lists a number of gen
 
 Classification of the Infrastructure department projects is described on the [infrastructure department projects page](/handbook/engineering/infrastructure/projects).
 
-The [infrastructure issue tracker](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues) is the backlog and a catch-all project for the infrastructure teams and tracks the work our teams are doing–unrelated to an ongoing change or incident.
+The [infrastructure issue tracker](https://gitlab.com/gitlab-com/gl-infra/production-engineering/-/issues) is the backlog and a catch-all project for the infrastructure teams and tracks the work our teams are doing–unrelated to an ongoing change or incident.
 
 In addition to tracking the backlog, Infrastructure Department projects are captured in our [Infrastructure Department Epic](https://gitlab.com/groups/gitlab-com/-/epics/1049) as well as in our [Quarterly Objectives & Key Results](https://gitlab.com/groups/gitlab-com/-/epics/1420)
 
@@ -181,14 +185,14 @@ The Infrastructure department hires for a number of different technical speciali
 - [SRE Onboarding](/handbook/engineering/infrastructure/team/ops/sre-onboarding/)
 - [GitLab.com data breach notification policy](/security/#data-breach-notification-policy)
 - [Infrastructure careers and internships][interning]
-- [Coding at scale](/handbook/engineering/infrastructure/coding-at-scale/)
+- [Coding at scale](/handbook/engineering/infrastructure/team/scalability/#regarding-coding-at-scale)
 
 
 [status]: https://status.gitlab.com/
 [help]: /handbook/engineering/infrastructure/production/#how-to-get-help
 [incident]: /handbook/engineering/infrastructure/incident-management/
 [change]: /handbook/engineering/infrastructure/change-management/
-[infra]: https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues/
+[infra]: https://gitlab.com/gitlab-com/gl-infra/production-engineering/-/issues
 [production]: https://gitlab.com/gitlab-com/gl-infra/production/issues/
 [delivery]: https://gitlab.com/gitlab-com/gl-infra/delivery/issues/
 [scalability]: https://gitlab.com/gitlab-com/gl-infra/scalability/issues

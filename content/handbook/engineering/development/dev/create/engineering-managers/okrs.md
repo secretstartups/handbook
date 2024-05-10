@@ -11,7 +11,7 @@ title: Objectives & Key Results (OKRs)
 
 ## Cascading OKRs
 
-GitLab OKRs allow us to align our work to the overall GitLab objectives. All Create Stage OKRs are derived from the Sub Department, Department and Division where it resides.
+GitLab OKRs allow us to align our work to the overall GitLab objectives. Create Stage OKRs are typically derived from the Sub Department, Department and Division where it resides. [Impactful OKRs](https://handbook.gitlab.com/handbook/company/okrs/#fundamentals-of-impactful-okrs) outisde of this cascade are allowed to be set provided a signoff is gotten from the Stage.
 
 1. [GitLab OKRs](/handbook/company/okrs/).
 1. [Engineering OKRs](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues?scope=all&utf8=✓&state=opened&label_name[]=OKR&label_name[]=EVP%20of%20Engineering).
@@ -21,11 +21,11 @@ GitLab OKRs allow us to align our work to the overall GitLab objectives. All Cre
 
 Team OKRs
 
-* [Code Review](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues?scope=all&utf8=✓&state=all&label_name[]=OKR&label_name[]=group%3A%3Acode%20review).
-* [Ecosystem](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues?scope=all&utf8=✓&state=all&label_name[]=OKR&label_name[]=group%3A%3Aecosystem).
-* [Editor](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues?scope=all&utf8=✓&state=all&label_name[]=OKR&label_name[]=group%3A%3Aeditor).
-* [Gitaly](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues?scope=all&utf8=✓&state=all&label_name[]=OKR&label_name[]=group%3A%3Agitaly).
-* [Source Code](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues?scope=all&utf8=✓&state=all&label_name[]=OKR&label_name[]=group%3A%3Asource%20code).
+* [Code Creation](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=updated_desc&state=all&label_name%5B%5D=OKR&label_name%5B%5D=group%3A%3Acode%20creation&first_page_size=100)
+* [Code Review](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=updated_desc&state=all&label_name%5B%5D=OKR&label_name%5B%5D=group%3A%3Acode%20review&first_page_size=100)
+* [Editor Extensions](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=updated_desc&state=all&label_name%5B%5D=OKR&label_name%5B%5D=group%3A%3Aeditor%20extensions&first_page_size=100)
+* [IDE](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=updated_desc&state=all&label_name%5B%5D=OKR&label_name%5B%5D=group%3A%3Aide&first_page_size=100)
+* [Source Code](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=updated_desc&state=all&label_name%5B%5D=OKR&label_name%5B%5D=group%3A%3Asource%20code&first_page_size=100)
 
 ## OKR Authors
 

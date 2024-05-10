@@ -96,7 +96,7 @@ We have a market-based approach to compensation because:
 
 1. It allows for us to adapt to market changes, thus remaining competitive for local talent
 1. Role, location, and level benchmarks keep compensation bands consistent. Market-based benchmarks also help with keeping it fair and consistent rather than expecting our team members to negotiate their pay.
-1. Prevents wage compression which is when new employees negotiate and get higher wages than those being paid to current team members.
+1. Prevents wage compression which occurs when new employees negotiate and get higher wages than those being paid to current team members.
 1. As long as budget permits, we do what’s right for the market even if it means paying a team member higher than their “expected” pay.
 
 ## Compensation Group
@@ -296,7 +296,8 @@ Directors and above are eligible for the Company Bonus Plan.
 **Payout:**
 
 - The bonus will be paid out semi-annually.
-- The first semi-annual payment will be funded up to a maximum of 80% of Company Plan performance against targets. Any full plan year adjustments will be made as part of the final bonus payout.
+- The first semi-annual payment will be funded up to a maximum of 80% of target bonus amount for the period of February through July. Any full plan year adjustments will be made as part of the final bonus payout.
+     - Example: A director who has been eligible for the bonus plan from February 1 has an annual target of 30,000 USD. Their target bonus amount for the first half of the fiscal year, February through July, is 15,000 USD. Therefore, they will receive 80% of 15,000 USD or 12,000 USD for their first semi-annual payment.
 - The final bonus payout will be based on actual performance against plan less amount paid at the semi-annual payout.
 - If the first semi-annual bonus is achieved but Company performance falls below the annual threshold the second half bonus will not be achieved but the first half bonus will not be rescinded or otherwise payable back to the Company.
 

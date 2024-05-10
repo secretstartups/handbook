@@ -1,9 +1,0 @@
-{{- $services := dict }}
-{{- with resources.GetRemote "https://gitlab.com/gitlab-com/www-gitlab-com/-/raw/master/data/service_maturity.yml" (dict "mediaType" "application/yaml")}}
-  {{- with .Err }}
-    <h2>Unable to fetch data_assets.yml</h2>
-  {{- else }}
-      {{- $services = . | transform.Unmarshal }}
-  {{- end }}
-{{- end }}
-{{- return $services }}

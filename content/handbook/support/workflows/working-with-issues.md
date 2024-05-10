@@ -48,7 +48,7 @@ Here are some tips:
     - We create a milestone for each monthly GitLab release.
     - Consider also searching merge requests by milestone as well.  If you think something changed in a particular release, this will identify actual code changes in that release. The issue might be closed against a later milestone when the whole feature was finally delivered.
   - If you know which product area is responsible for a feature, filter on the `~group::` label.
-    - The [features by group page](../../product/categories/features) is good for finding out the correct group.
+    - The [features by group page](/handbook/product/categories/features) is good for finding out the correct group.
     - Alternatively, look at the labels used on related issues and MRs you may have found already.
 - Sort order: If you get a lot of results in the issue view, look at the options for sorting. For example: `Created date` might be more relevant if you suspect a recent regression in the product.
 - You are likely to spend some time searching for issues you've read before.
@@ -65,7 +65,7 @@ Please see the product handbook to see [what information product wants us to pro
 
 Optional:
 
-[Search for Zendesk tickets based on the `GitLab Issues` custom field]({{< ref "/handbook/support/readiness/operations/docs/zendesk/searching#searching-by-custom-ticket-field" >}}). Copy and add the link to the search query as a comment to the issue, specifying that it's an internal link to a ZenDesk search of related tickets. This will give the PM more insight into how many customers have encountered an open bug, or have requested a certain feature.
+[Search for Zendesk tickets based on the `GitLab Issues` custom field](/handbook/support/readiness/operations/docs/zendesk/searching#searching-by-custom-ticket-field). Copy and add the link to the search query as a comment to the issue, specifying that it's an internal link to a ZenDesk search of related tickets. This will give the PM more insight into how many customers have encountered an open bug, or have requested a certain feature.
 
 **Note:** To obtain the field ID for the `GitLab Issues` field, you can reference [this repository file](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/ticket-forms-and-fields/-/blob/master/ticket_fields/active/GitLab%20Issues.yaml).
 

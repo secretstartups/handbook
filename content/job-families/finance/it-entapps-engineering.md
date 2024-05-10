@@ -105,6 +105,15 @@ Extends the Intermediate IT Enterprise Applications Administrator responsibiliti
     - Experience working with Zuora, including experience with the Zuora 360, API and ZOQL.
     - Experience integrating Zuora with other systems such as Salesforce, Netsuite, and Avalara.
     - Zuora Certified Platform Admin, Zuora Billing and Revenue Certifications a plus.
+  - ServiceNOW
+    - Full understanding of ServiceNOW products, its modules and how object relate to them within the platform.
+    - Export knowledge in ITIL and ITSM Processes and terminologies.
+    - Experience with building and generating reports based on SLAs and OLAs withing ServiceNOW.
+    - ServiceNOW Certified Application Developer, System Administrator or Implementation Specialist a plus.
+  - CloudBlue
+    - Strong technical experience managing Cloudblue configuration and service deployment.
+    - Full understanding of how hyperscaler and distributor marketplaces (GCP/AWS) integrate with third party applications.
+    - Experience dealing with software or license inventory control, order management and logistics processes.
 
 ## Manager, IT Enterprise Applications Engineering
 
@@ -203,9 +212,9 @@ Extends the Principal IT Enterprise Applications Engineer requirements plus:
 
 ## Performance Indicators (PI)
 
-- [Evaluating System or Process Efficiency](/handbook/business-technology/metrics/#evaluating-system-or-process-efficiency)
-- [Average Issues](/handbook/business-technology/metrics/#average-issues)
-- [Average Merge Requests](/handbook/business-technology/metrics/#average-merge-request)
+- [Evaluating System or Process Efficiency](https://internal.gitlab.com/handbook/it/it-performance-indicators/#evaluating-system-or-process-efficiency)
+- [Average Issues](https://internal.gitlab.com/handbook/it/it-performance-indicators/#average-issues)
+- [Average Merge Requests](https://internal.gitlab.com/handbook/it/it-performance-indicators/#average-merge-request)
 
 ## Career Ladder
 

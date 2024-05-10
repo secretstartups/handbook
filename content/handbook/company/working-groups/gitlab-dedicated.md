@@ -9,7 +9,7 @@ status: active
 | Property            | Value             |
 |---------------------|-------------------|
 | Date Created        | 2022-06-29 |
-| End Date            | [Launch date of General Availability](https://about.gitlab.com/direction/saas-platforms/dedicated/#phase-9-general-availability) |
+| End Date            | 2023-06-15 |
 | Slack               | [#f_gitlab_dedicated](https://gitlab.slack.com/archives/C01S0QNSYJ2) for GitLab Dedicated questions (only accessible from within the company) |
 | Slack               | [#wg_dedicated_cross_functional](https://gitlab.slack.com/archives/C046P7F0N2J) for working group items (only accessible from within the company) |
 | Google Doc          | [Working Group Agenda](https://docs.google.com/document/d/1vuKnUwJYrSKAqu0kYtR503LQbuYM_VSD4_z90MR_cQU/edit) (only accessible from within the company) |
@@ -99,7 +99,7 @@ In addition to the [status process from Dedicated team page](/handbook/engineeri
 
 1. **Exec Sponsor**: David DeSanto - Chief Product Officer
 1. **Initiative DRI**: Ryan Wedmore - Director, Strategy & Operations
-    - [Working Group DRI responsibilities](/handbook/company/team/structure/working-groups/#required-roles) and [Cross Functional Initiative DRI responsibilities](/handbook/company/top-cross-functional-initiatives/#cross-functional-initiative-dris)
+    - [Working Group DRI responsibilities](/handbook/company/working-groups/#required-roles) and [Cross Functional Initiative DRI responsibilities](/handbook/company/top-cross-functional-initiatives/#cross-functional-initiative-dris)
     - DRI for cross-functional initiative strategy, collaboration, and work streams
 1. **Engineering DRI**: Marin Jankovski - Director of Infrastructure, Platforms
     - Overall DRI for Engineering, Infrastructure, and Engineering Strategy
@@ -128,7 +128,7 @@ Functional DRIs are also mentioned at the top of the description of their functi
 
 ### Function DRI Responsibilities
 
-Please see [Functional Lead on Working Group page]({{< ref "/handbook/company/working-groups#required-roles" >}}).
+Please see [Functional Lead on Working Group page](/handbook/company/working-groups#required-roles).
 
 Functional DRIs are responsible for maintaining their function's epics by following process mentioned in [Epic Owner Responsibilities](/handbook/engineering/infrastructure/team/gitlab-dedicated/#epic-owner-responsibilities) and [Epic Structure](/handbook/engineering/infrastructure/team/gitlab-dedicated/#epic-structure).
 
@@ -143,8 +143,8 @@ Below are the specific areas of responsibility within the Dedicated team:
 | Customer Success (CS) | [Define onboarding PS package](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues/1316), outline CS engagement post-sales | `@rwedmore` |
 | Environment Automation Roadmap  | Updating direction page, prioritization changes etc. | `@awthomas` consulting and collaborating with `@o-lluch` |
 | Switchboard Roadmap  | Updating direction page, prioritization changes etc. | `@fzimmer` consulting and collaborating with `@marin` |
-| PRE deal Customer interactions | Meeting with customer prospects, customer qualification, steps 1-6 in [onboarding process](https://internal.gitlab.com/handbook/engineering/horse/#new-customer-process) Supporting customers until CS packages are defined | `@awthomas` |
-| POST deal onboarding management | steps 7-9 in in [onboarding process](https://internal.gitlab.com/handbook/engineering/horse/#new-customer-process); until CS package defined | `@rwedmore` or `@fzimmer` |
+| PRE deal Customer interactions | Meeting with customer prospects, customer qualification, steps 1-6 in [onboarding process](https://internal.gitlab.com/handbook/engineering/dedicated/#new-customer-process) Supporting customers until CS packages are defined | `@awthomas` |
+| POST deal onboarding management | steps 7-9 in in [onboarding process](https://internal.gitlab.com/handbook/engineering/dedicated/#new-customer-process); until CS package defined | `@rwedmore` or `@fzimmer` |
 | [Automate manual onboarding tasks](https://gitlab.com/groups/gitlab-com/gl-infra/gitlab-dedicated/-/epics/56) | Includes driving documentation changes.  | `@awthomas`  |
 | Drive cross-product feature requests needed for Dedicated | examples include Maintenance mode prometheus metric, silent mode | `@awthomas` |
 | [Go to market definition](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/482) | PMM and PM to define the remaining GTM items, rest in cross-functional workstream coordination, | `@awthomas`|

@@ -16,23 +16,35 @@ The Global Search Group focuses on bringing world class search functionality to 
 
 The group is responsible for improving and expanding upon our current global search implementations using Elasticsearch, PostgreSQL, and Gitaly. Areas of responsibility will include global search functionality, UI, ingestion mechanisms, optimal indexing, administrative tools, and installation mechanisms for self-managed installations.
 
+Additionally, we will support AI features via Retrieval Augmented Generation work which includes:
+- Identifying and preparing new useful data for our AI-powered features in collaboration with feature teams and the AI Framework team
+- Storing vector embeddings of epics, issues, MRs, source code, and more
+- Providing retrieval APIs for those vector embeddings, metadata filtering, and ensuring permissions are enforced
+
 This team doesn't own custom searches for specific features, such as the "filter bar" on issues which is part of the [Issue Tracking](https://about.gitlab.com/direction/plan/project_management/team_planning/) category owned by the [Project Management group](/handbook/product/categories/#project-management-group).
 
 ## Team Members
 
 The following team members are permanent members of the Global Search Group:
 
-<%= direct_team(manager_slug: 'cliu', role_regexp: /Global Search|Core Platform/) %>
+{{< team-by-manager-slug manager="cliu" role="Global Search|Core Platform" >}}
 
 ## Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-| **Person**                                       | **Role** |
-| [Ben Venker](/handbook/company/team/#bvenker)             | [Senior Product Manager, Global Search](/job-families/product/product-manager/) |
-| [Ashraf Khamis](/handbook/company/team/#ashrafkhamis)     | [Senior Technical Writer](/job-families/product/technical-writer/) |
-| [Cleveland Bledsoe Jr](/handbook/company/team/#cleveland) | [Senior Support Engineer](/job-families/engineering/support-engineer/) |
-| [Brenda Nyaringita](/handbook/company/team/#bnyaringita)  | [Support Engineer(EMEA)](/job-families/engineering/support-engineer/) |
+| **Name**                                                 | **Role** |
+| ---------------------------------------------------------| ------------------------------------------------------------------------------- |
+| [Ben Venker](/handbook/company/team#bvenker)             | [Senior Product Manager, Global Search](/job-families/product/product-manager/) |
+| [Ashraf Khamis](/handbook/company/team#ashrafkhamis)     | [Senior Technical Writer](/job-families/product/technical-writer/) |
+| [Cleveland Bledsoe Jr](/handbook/company/team#cleveland) | [Senior Support Engineer](/job-families/engineering/support-engineer/) |
+| [Brenda Nyaringita](/handbook/company/team#bnyaringita)  | [Support Engineer(EMEA)](/job-families/engineering/support-engineer/) |
+
+
+## Shared Responsibilities
+
+The Global Search team shares responsibilites with the AI Framework team in the area of [Retrieval Augmented Generation](./rag_ownership_framework.png) (RAG). Specifically, we will collaborate in the data preparation stage and information retrieval stage of the RAG process.
+
 
 ## Meetings
 
@@ -84,6 +96,7 @@ The team has been actively working on enabling Elasticsearch powered Advanced Se
 ### Severity Labels for Search Issues (`~advanced search`, `~global search`)
 
 | Type of Operation | `~severity::1` - Blocker | `~severity::2` - Critical | `~severity::3` - Major  | `~severity::4` - Low |
+| ------------------|--------------------------|---------------------------|-------------------------|----------------------|
 | Recall Record, Global | Above 10 seconds to timing out | Between 7 and 10 seconds | Between 4 and 7 seconds | Between 2 and 4 seconds |
 | Time until inserted record is recallable | Above 15 minutes | Between 15 and 10 minutes | Between 10 and 5 minutes | Between 3 and 5 minutes|
 
@@ -176,4 +189,18 @@ We are exploring [Rally](https://esrally.readthedocs.io) for performance testing
 
 ## Dashboards
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Global Search" } %>
+{{< tableau height="600px" toolbar="hidden" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/TopEngineeringMetrics/TopEngineeringMetricsDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="global search" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/MergeRequestMetrics/OverallMRsbyType_1" >}}
+  {{< tableau/filters "GROUP_LABEL"="global search" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/Flakytestissues/FlakyTestIssues" >}}
+  {{< tableau/filters "GROUP_NAME"="global search" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/SlowRSpecTestsIssues/SlowRSpecTestsIssuesDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="global search" >}}
+{{< /tableau >}}

@@ -39,7 +39,7 @@ Trusted subject matter experts for GitLab’s internal and partner teams, provid
 ### How to Contact Us
 
 The **#partner-programs-ops** Slack channel can be leveraged for inquiries. Both the Partner Operations Team and the Channel Programs Team monitor this slack channel.
-If you are reporting a problem or have suggestions, changes, or similar, please open an issue on the [Partner Operations Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/2552402?&label_name[]=Channel%20Ops) for operational issues, or the [Channel Team’s Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1508300?label_name[]=Channel) for program issues.
+If you are reporting a problem or have suggestions, changes, or similar, please open an issue on the [Partner Operations Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/2552402?label_name[]=Partner%20Ops) for operational issues, or the [Channel Team’s Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1508300?label_name[]=Channel) for program issues.
 
 ### The Partner Operations Issue Board
 
@@ -66,7 +66,7 @@ Once a template has been selected, the description box will be populated with th
 - Select `Feature Request` for requesting enhancements to current systems.
 - Select `Partner M&A and Name Changes` when requesting a partner account change related to mergers and acquisitions, merging duplicate accounts or moving them into an account hierarchy, or to change a partner account name.
 - Select `Procedures & HB Updates` to request edits or reviews for certain procedures/processes or handbook updates managed by Partner Operations, especially if more discussion is needed prior to submitting a MR for a page.
-- Select `Partner Funding Request` to request _non-MDF_ funding for partner events, MOUs, funded headds, SPIFFS, etc.
+- Select `Partner Funding Request` to request _non-MDF_ funding for partner events, MOUs, funded heads, SPIFFS, etc.
 
 
 **3. Before you submit**
@@ -91,16 +91,16 @@ There are a number of different slack channels to serve the different needs of t
 
 | Slack Channel | Description | Topic | Audience | Posting Permissions |
 | ------ | ------ | ------ | ------ | ------ |
-| partner-fyi | Updates to the Channel & Sales teams on Channel program, operations, enablement and marketing. Questions from team members should be posted on the #partner-programs-ops or #channel-sales | *blank* | any | Channel Operations, Channel Programs, Nima Badiey
+| ~~~partner-fyi~~~ | Updates to the Channel & Sales teams on Channel program, operations, enablement and marketing. Questions from team members should be posted on the #partner-programs-ops or #channel-sales | *blank* | any | Channel Operations, Channel Programs, Nima Badiey
 | partner-program-ops | Questions and comments about channel programs and operations | https://about.gitlab.com/handbook/resellers/ and https://about.gitlab.com/handbook/sales/field-operations/channel-operations/ | any | any |
 | channel-sales |  Questions and comments about opportunities, partner connections, field engagement, and other channel sales questions |  | any | any |
 | channels-emea | A channel for the EMEA channels team and stakeholders to collaborate |  | any | any |
 | channels-amer | A channel for the AMER channels team and stakeholders can collaborate |  | any | any |
 | pub-sec-channels | A channel for the Pubsec channels team and stakeholders to collaborate |  | any | any |
-| apac_partners | A channel for the APAC channels team and stakeholders can collaborate |  | any | any |
+| ~~~apac_partners~~~ | A channel for the APAC channels team and stakeholders can collaborate |  | any | any |
 | channel-services | Questions and comments about channel services program, enablement and field engagement |  | any | any |
-| alliances | A channel for collaboration with the alliances Team | https://about.gitlab.com/handbook/alliances/ | any | any |
-| alliance_sales_ops | Questions and comments about alliance operations | https://about.gitlab.com/handbook/alliances/ and https://about.gitlab.com/handbook/sales/field-operations/channel-operations/ | any | any |
+| #cloud-aws and #cloud-gcp| A channel for collaboration with the alliances Team | https://about.gitlab.com/handbook/alliances/ | any | any |
+| ~~~alliance_sales_ops~~~ | Questions and comments about alliance operations | https://about.gitlab.com/handbook/alliances/ and https://about.gitlab.com/handbook/sales/field-operations/channel-operations/ | any | any |
 
 
 
@@ -195,11 +195,12 @@ GitLab is building out a global Authorized Distributor network similar to many o
 - Open Partners located in regions/countries with active Authorized GitLab Distributors must purchase GitLab via those distributors
 - Select Partners may choose to transact directly with GitLab (excluding certain regions) or via the region's authorized distributor(s)
 - In NORTH AMERICA, Partners transact with [Climb Solutions](https://www.climbcs.com/) via `sales@climbcs.com` and `sales@climbcs.ca` in the US and Canada, respectively
-- In EMEA: Partners transact with Amazic via `gitlab@amazic.com`
+- In EMEA: Partners transact with [Amazic](https://distribution.amazic.com/) via `gitlab@amazic.com`
+  - In META (Middle East, Turkey, and Africa): Partners may also choose to transact with [Mindware](https://www.mindware.net/contact-us) via `sales@mindware.net`
 - In APAC (several countries):  Partners transact with [Tech Data/TD Synnex](https://www.techdata.com/apac/en/partner-with-us/become-a-partner.html) via `GitLab.APJ@techdata.com`
-    - In India: Partners may also choose to transact with Redington via `gitlab@redington.co.in`
-    - In Japan: Partners may also choose to transact with [Networld](https://www.networld.co.jp/product/gitlab/) via `gitlab-info@networld.co.jp`
-    - In Thailand: Partners may also choose to transact with [Get On Technology](https://www.got.co.th/contact) via `gitlab@got.co.th`
+  - In India: Partners may also choose to transact with Redington via `gitlab@redington.co.in`
+  - In Japan: Partners may also choose to transact with [Networld](https://www.networld.co.jp/product/gitlab/) via `gitlab-info@networld.co.jp`
+  - In Thailand: Partners may also choose to transact with [Get On Technology](https://www.got.co.th/contact) via `gitlab@got.co.th`
 
 GitLab sellers can also refer to the [partner billing section](/handbook/sales/field-operations/channel-operations/#how-to-find-partner-billing-records-in-sfdc-and-use-for-quoting) of this handbook for a link to our distributor billing records and guidance on how these records are used in the quoting process.
 
@@ -240,38 +241,36 @@ Partners and GitLab Sellers frequently ask questions on how to collaborate with 
 
 ### Section I: Partner Sourced Deal Registration
 
-- **DR - Partner**: The reseller partner that ‘submitted’ the Partner Sourced Deal Registration that the GitLab Sales Team subsequently ‘approved’ in the system.
-- **DR - Distributor**: The GitLab-authorized distributor from which the DR - Partner is buying, when applicable.
+- **DR - Partner**: The reseller partner that ‘submitted’ the Partner Sourced Deal Registration that the GitLab Sales Team subsequently ‘approved’ in the system
 - **DR - Partner Deal Type**:
-  - *MSP*: The partner purchases *and owns* the license on behalf of the customer.
-  - *Resale*: The partner is actually transacting the deal on their paper.
-  - *Referral*: The partner is bringing us the lead/opportunity but will either transact directly with GitLab or through another partner.
-  - *DR - Status*: Dictates whether the Partner Sourced Deal Registration is approved or denied.
+  - *MSP*: The partner purchases *and owns* the license on behalf of the customer
+  - *Resale*: The partner is actually transacting the deal on their paper
+  - *Referral*: The partner is bringing us the lead/opportunity but will either transact directly with GitLab or through another partner
+- **DR - Status**: Dictates whether the Partner Sourced Deal Registration is Pending, Approved or Denied
+- **DR - Distributor**: The GitLab-authorized distributor from which the DR - Partner is buying, when applicable
 
-![1-PSDR_Definitions](/handbook/sales/field-operations/channel-operations/images/1-PSDR_Definitions.png)
+    ![PSDR](image-9.png)
 
 
-### Section II: Primary Partner Quote Data (Closed-Won Order Data)*
+### Section II: Primary Quote Partner Data*
 
-- **Partner**: The resale partner on the primary quote; the transacting partner
-- **Partner Track**: Either Select or Open based off of the resale partner
-- **Distributor**: The GitLab-authorized distributor that transacts according to the primary quote:
-- **Deal Type**:
-  - *MSP*: The partner purchases *and owns* the license on behalf of the customer.
-  - *Resale*: The partner is actually transacting the deal on their paper.
-  - *Referral*: The partner is bringing us the lead/opportunity but will either transact directly with GitLab or through another partner.
-***Stamped from primary quote when approved. Fields are locked.***
+- **Resale Partner**: The resale partner on the primary quote; the transacting partner
+- **Distributor**: The GitLab-authorized distributor that transacts according to the primary quote
+- **Resale Partner Track**: Value will be Select, Open, or Technology, and is determined based on `Resale Partner`
+***Stamped from primary quote when approved. Fields are locked.**
 
-![2-Primary_Quote_Definitions](/handbook/sales/field-operations/channel-operations/images/2-Primary_Quote_Definitions.png)
+    ![Primary_Quote](image-10.png)
 
 ### Section III: Partner Contribution Data
 
-- **Influence Partner**: Other partners, generally SI/GSIs or alliance partners, that have helped influence a deal but are not part of the actual transaction
-- **Influence Partner**: Other partners, generally SI/GSIs or alliance partners
-- **Platform Partner**:  Customer's platform that GitLab is being deployed.
-- **GCP Requests**
+- **Influence Partner**: Partner for which a Partner Influence Registration was submitted and approved. Partner influenced the opportunity but did not source or transact the deal
+- **Referral**: A link to the Labra/AWS registration record
+- **PTM/PAM Notes**: PTMs and PAMs enter partner opportuity notes and next steps here
+- **Alliance Partner Opp ID**: PTMs and PAMs enter the cloud partner(AWS or GCP) co-sell registration ID here
+- **Platform Partner**:  Customer's platform that GitLab is being deployed
+- **Hyperscaler Engaged**: PTMs and PAMs can select the cloud partner (AWS or GCP) engaged on early stage marketplace deals to identify the opportuity for forecasting in Clari. Refer to [Clari Cheat Sheet](https://docs.google.com/presentation/d/1MzRR0Y5y4J9OCyAxoPzvxsY8cnzeQlPJp0C5_r4oaZ4/edit#slide=id.g133719dda83_2_102) for more details
 
-![3-Partner_Contribution_Definitions](/handbook/sales/field-operations/channel-operations/images/3-Partner_Contribution_Definitions.png)
+    ![Partner_Contribution](image-11.png)
 
 ### Services Resale
 
@@ -310,48 +309,51 @@ Partners and GitLab Sellers frequently ask questions on how to collaborate with 
 The process to request the [legal team’s involvement in partner contracts](/handbook/legal/customer-negotiations/#to-request-a-legal-review-for-a-channel-partner-contract) can be found on the legal team’s handbook page. Please note that the process for getting partner contracts signed is different from the [process for any other legal request](/handbook/legal/customer-negotiations/#how-to-reach-legal).
 
 
-## Channel Reporting and Tagging
+## Partner Reporting and Tagging
 
-![4-Ch_Reporting_Tagging](/handbook/sales/field-operations/channel-operations/images/4-Ch_Reporting_Tagging.png)
+![Partner Reporting and Tagging](image-5.png)
 
 ### Definitions
 
-1. **Deal Path**: How the deal is transacted. Values can be Partner, Direct, or Web. Includes Referral Ops for Partner.
-2. **Partner Sourced Deal Reg**: Partner submits a Registration for their sourced opportunity via the Partner Portal. For the purposes of this matrix the assumption is the Deal Reg is approved. If the deal is not Partner Sourced then Deal Reg does not apply.
-3. **Initial Source**: SFDC Lead value that is populated based on lead source. Will default to PQL (Partner Qualified Lead) when a Partner submits a Partner Sourced Deal Reg and an Opportunity does not already exist in the system.
-4. **SQS (Sales Qualified Sourced)**: Who converts/creates the Opportunity in SFDC. Can only be 1 value
-5. **Deal Type**: Whether or not the partner is taking paper or not
-6. **Order Type**: Customer order designation in SFDC. New First Order or Growth
+1. **Deal Path**: How the deal is transacted. Values can be Partner, Direct, Web Direct. _Note, Partner includes Referral and Influence opportunities_
+1. **Partner Sourced Deal Reg**: Partner submits a Registration for their sourced opportunity via the Partner Portal. For the purposes of this matrix the assumption is the Deal Reg is approved. If the deal is not Partner Sourced then Deal Reg does not apply
+1. **DR - Deal Type**: The type of Partner Sourced Deal Registration submitted by the Partner. Options include Resale, Referral, and MSP. _Note, this field will be blank if there is no Partner Source Deal Registration_
+1. **Influence Partner**: Partner Manager submits an internal Partner Influence Registration to log contribution for a partner that did not source or transact the deal. For the purposes of this matrix the assumption is the Partner Influence Registration is approved. Partner Influence Registration should only be submitted and approved for _one partner_ that _did not_ source and/or transact the opportunity
+1. **Initial Source**: SFDC Lead value that is populated based on lead source. Defaults to PQL (Partner Qualified Lead) when a Partner submits a Partner Sourced Deal Reg and an Opportunity does not already exist in the system
+1. **Sales Qualified Sourced (SQS)**: Who converts/creates the Opportunity in SFDC. Can only be 1 value
+1. **Order Type**: Customer order designation in SFDC. New First Order or Growth
 
 
 ### Use Cases
 
-- **Numbers 1 & 4**
-  - Channel Partner submits Partner Sourced Deal Reg and no Opportunity exists in the system. Therefore, the Initial source is PQL and SQS defaults to Partner Generated.
+- **Numbers 1 & 2**
+  - Two potential paths:
+    - Partner submits Partner Sourced Deal Reg and no Opportunity exists in the system. Initial source is PQL and SQS defaults to Partner Generated
+    - AE or SDR creates an opportunity prior to a valid Partner Sourced Deal Reg being submitted and approved. Opportunity will automatically update SQS to Partner Generated when a Deal Registration is linked and approved
+  - Number 1 is transacted via the partner that sourced the opportunity, while Number 2 is a sourced referral that was transacted directly with the customer
   - This applies to both New and Growth orders
-- **Number 2**
-  - Channel submits an order for a deal that we did not have an opportunity in the system for but did not submit a Partner Sourced Deal Reg
+
 - **Number 3**
-  - Deal is transacting thru the channel but it was sourced by either a GitLab AE or SDR
-- ***Exception***
-  - AE or SDR creates an opportunity prior to a valid Partner Sourced Deal Reg being submitted and approved. *If the Deal Registration is approved the opportinity will automatically update SQS = Partner Generated when the approved Deal Registration has been approved and linked.
+  - Partner submits an order for a deal where we did not have an opportunity in the system did not submit a Partner Sourced Deal Reg
+
+- **Number 4**
+  - Deal is transacting thru the partner but was sourced by either a GitLab AE or SDR
+
+- **Number 5**
+  - Opportunity was not sourced or transacted by a partner, but was influenced by a partner
 
 ### Default Logic
 
 1. If `Partner Sourced Deal Reg = True` and no opportunity exists, then `Initial Source = PQL` and `SQS = Partner Generated`
-2. Alliances and OEM Logic: No Deal Registration applied but if `Initial Source = PQL` then
-`SQS = Partner Generated`
+2. If `Partner Sourced Deal Reg` is linked to an existing opportunity and approved, then `SQS = Partner Generated`
+3. If `Initial Source = PQL` then `SQS = Partner Generated`
 
 ### SFDC Opportunity Source Field Values for Channel
 
-- **Initial Source**:
-  - *Partner Qualified Lead (PQL)*: GitLab Channel Partner created and/or qualified the Lead whether they sourced it themselves or GitLab provided the inquiry to them to work.
-- **Sales Qualified Source**:
-  - *Partner*: The Partner has converted the Lead/PQL to a qualified opportunity, or has created a brand new opportunity without a prior lead being in the system. This field defaults to Partner when `Initial Source = PQL`.
-- **DR - Deal Engagement**:
-  - *Partner Sourced*: Partner has either found the original opportunity or an upsell to a current customer. If the `Initial Source  = Partner Qualified Lead` or `Sales Qualified Source = Partner Generated`, then the deal is Partner Sourced.
-*Please visit the [Marketing Handbook Page](/handbook/marketing/marketing-operations/#initial-source) for Intial Source definition and context.
-
+- **Initial Source** - _Partner Qualified Lead (PQL)_: Partner created and/or qualified the Lead whether they sourced it themselves or GitLab provided the inquiry to them to work.
+- **Sales Qualified Source**: - _Partner Generated_:
+  - Partner has converted the Lead/PQL to a qualified opportunity, or has created a brand new opportunity without a prior lead being in the system. SQS defaults to Partner when `Initial Source = PQL`
+  - Partner submits Partner Sourced Deal Reg which (i) creates a new opportunity or (ii) is attached to an existing opportunity and approved by GitLab
 
 ## Managing Partner Opportunities
 
@@ -456,7 +458,6 @@ The steps below outline how a Partner Sourced Deal Registration is submitted on 
   - Partner Sourced Deal Registration approval is based on who sourced that particular opportunity. If the partner brought us the deal, then the registration should be approved. For clarity, it is not about first touch with the customer, but the actual creation/conversion of an opportunity.
   - The GitLab Partner Manager should communicate and align with the GitLab Sales Rep and ASM prior to approving or rejecting the Deal Registration.
   - The GitLab ASM should communicate and align with the GitLab Partner Manager and Sales Rep prior to approving or rejecting the Deal Registration.
-  - *Friendly reminder*, a partner and a GitLab SDR cannot both source an opportunity, it has to be one or the other. As noted above, it is not about first touch with the customer, but the actual creation/conversion of an opportunity.
 - **GitLab SLAs**
   - The SLA for GitLab to communicate with partners on a Partner Sourced Deal Registration is two business days. There must be contact with the registering partner within two business days, whether it be initial outreach to discuss the registration, a request for more information, approval, or rejection.
   - The GitLab ASM has one business day to either approve or reject the Registration, which begins when the Registration hits their queue for approval. The ASM *must* communicate with the GitLab Partner Manager if their approval is anticipated to push beyond the one business day SLA.
@@ -694,12 +695,70 @@ Rebate payouts will be reported and paid after each GitLab quarter close.
 - Partner Service Attach incentives are outlined in the [GitLab Channel Partner Program Discounts and Incentive Guide](https://gitlab.highspot.com/items/626018776705c7e7d2df0bce?lfrm=rhp.0)
 - Partners must hold an approved Service Attached Registration and provide proof of performance/execution to qualify for the incentive.
 - Rebates and referral fees may require CRO approval.
-- Discounts are off list price.  If GitLab is deeply discounting a large ARR customer engagement, the partner can reasonably expect to share in that with a discount reduction.  The Partner, GitLab Sales, Channel Account Manager must agree on the negotiated discount amount.
+- Discounts are off list price.  If GitLab is deeply discounting a large ARR customer engagement, the partner can reasonably expect to share in that with a discount reduction.  The Partner, GitLab Sales, Partner Manager must agree on the negotiated discount amount.
 
 For more information on quoting or the Partner Program, please visit:
 - [Deal Desk Quote Configuration](/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes)
 - [Partner Program](/handbook/resellers/)
 - [Channel Discount Matrices for GitLab Team Members](https://docs.google.com/document/d/1qiT_2EsnL20c4w0hyZ_CGaJQIzj8CSCsHERoR80cwws/edit?usp=sharing).
+
+## Partner Influence 
+
+Partners can influence GitLab opportunities without sourcing or transacting the deal. The Partner Sales team is required to submit an internal Partner Influence Registration which must be approved by the ASM to receive influence credit for an opportunity.
+
+Qualifying partner influence activities include customer executive engagement and advocacy and/or working side by side with GitLab on the customer pursuit, and at least one of the following must be met to submit a Registration:
+- Intro to customer decision maker/C-Suite
+- Host/participate in Exec briefing, advocating for GitLab
+- Trusted exec or technical advisor proactively advocating for GitLab
+- Intro and/or position GitLab as part of a better together software sale
+- Deliver presentation, demo, POC, or RFP response
+- Deliver customer strategy that recommends GitLab
+- Advise GitLab acct. Team on customer strategy/use case/pain points
+
+Partner Influence Registration should only be submitted and approved for: 
+1. a partner that did not source and/or transact the opportunity
+2. one partner (i.e., one approved Influence Registration/Partner per opportunity). Only the first approved record will qualify if multiple influence registrations are submitted and/or approved for one opportunity.
+
+The GitLab ASM has one business day to either approve or reject the Influence Registration, which begins when the Registration hits their queue for approval. The ASM must communicate with the GitLab Partner Manager if their approval is anticipated to push beyond the one business day SLA. Approval by the ASM will update the Influence Registration's `Status` to Approved and stamp `Influence Partner` on the opportunity with the partner account.
+
+Follow the steps below to register partner influence on an opportunity:
+
+### Partner Manager for Submission
+
+1. From the Related List Quick Links at the top of the opportunity page, hover your cursor over Influence Partners and select `New Influence Partner`
+    ![Alt text](image.png)
+1. Add a partner to the `Influence Partner` field using the lookup button
+1. Select the applicable `Influence Type`:
+    - Customer executive engagement and advocacy
+    - Working side by side with GitLab on customer pursuit. 
+1. Select one or more applicable partner influence activities using `Influence Details`: 
+   - Introduction to a customer decision maker or C-Suite
+   - Host or participate in exec briefing advocating for GitLab
+   - Trusted exec or technical advisor proactively advocating for GitLab
+   - Introduce and/or position GitLab as part of better together software sale
+   - Deliver presentation demo, POC, or RFP response
+   - Develop customer strategy that recommends GitLab
+   - Advise GitLab account team on customer strategy/use case/pain points
+1. Provide a detailed description of the partner’s influence activities using `Description of Partner Influence`
+1. Do not edit `Opportunity Owner`, `ASM`, `Partner Territory Manager` and `Customer Account`. These will auto-populate upon save
+1. `Save` the Influence Partner Record
+    ![Alt text](image-1.png)
+1. Attach any supporting documentation that highlights the partner's influence on the opportunity via `Google Docs, Notes, & Attachments` section. 
+1. Click `Submit for Approval` to route the Influence Registration to the ASM for final review and action
+    ![Alt text](image-2.png)
+
+### Area Sales Manager (ASM) for final review and action
+1. You will receive an approval request email when an influence registration has entered your queue for review and approval. Click the link in your email to open the influence record in SFDC.
+1. Confirm alignment with the Partner Manager and GitLab Sales Rep prior to providing final approval or rejection on the influence registration.
+1. Click `Approve/Reject`
+    ![Alt text](image-3.png)
+1. Add any message for the partner manager in the Comments field if applicable. Select `Approve`or `Reject` to complete the process.
+    ![Alt text](image-4.png)
+
+_Please reach out to @Partner Operations via chatter if you have any questions or if the ASM approver needs to be reassigned._
+
+
+
 
 ## Channel Approvals
 
@@ -882,9 +941,7 @@ The GitLab Partner Operations team is responsible for compiling the reports outl
 - [Regional] Partner of the Year
   - Total revenue
   - Partner Sourced - approved deal reg
-
-- # new logos
-
+  - New logos
   - Example of great deal, service offering, campaign or field collaboration
 
 - [Regional] Emerging Partner of the Year (optional award)
@@ -908,34 +965,28 @@ The GitLab Partner Operations team is responsible for compiling the reports outl
 
 ## Partner Forecast Salesforce Dashboards
 
-The following partner forecast dashboards have been published for FY24. Please use the dashboard relevant to your partner type and region or segment. You will only have access to view data from your region based on salesforce permissions.
-- Alliance Dashboards
-  - [Global](https://gitlab.my.salesforce.com/01Z8X000000u6oG)
-  - [AMER](https://gitlab.my.salesforce.com/01Z8X000000u6lM)
-  - [APAC](https://gitlab.my.salesforce.com/01Z8X000000u6lR)
-  - [EMEA](https://gitlab.my.salesforce.com/01Z8X000000u6lW)
-- Channel Dashboards
-  - [Global](https://gitlab.my.salesforce.com/01Z4M000000xdrC)
-  - [AMER](https://gitlab.my.salesforce.com/01Z4M000000xfGm)
-  - [APAC](https://gitlab.my.salesforce.com/01Z4M000000xfGr)
-  - [EMEA](https://gitlab.my.salesforce.com/01Z4M000000xfGw)
-  - [Japan](https://gitlab.my.salesforce.com/01ZPL000000BPXm)
-  - [Partner Managed](https://gitlab.my.salesforce.com/01Z8X000000u6ks)
-  - [PubSec](https://gitlab.my.salesforce.com/01Z8X000000u6kE)
+The following partner forecast dashboards have been published for FY25. Please use the dashboard relevant to your region or segment. You will only have access to view data from your region based on salesforce permissions.
+
+- [Global](https://gitlab.lightning.force.com/lightning/r/Dashboard/01ZPL000000gIzp2AE/view?queryScope=userFolders)
+- [AMER](https://gitlab.lightning.force.com/lightning/r/Dashboard/01ZPL000000ZuQj2AK/view?queryScope=userFolders)
+- [APAC](https://gitlab.lightning.force.com/lightning/r/Dashboard/01ZPL000000glNV2AY/view?queryScope=userFolders)
+- [EMEA](https://gitlab.lightning.force.com/lightning/r/Dashboard/01ZPL000000eZ2H2AU/view?queryScope=userFolders)
+- [Japan](https://gitlab.lightning.force.com/lightning/r/Dashboard/01ZPL000000hFmz2AE/view?queryScope=userFolders)
+- [PubSec](https://gitlab.lightning.force.com/lightning/r/Dashboard/01ZPL000000hF3p2AE/view?queryScope=userFolders)
 
 
 ## Clari Forecasting for Partner Managers and Leaders
 
 All forecasting for the partner organization is done in Clari. Please use the following enablement guides to learn how to naivgate the tool and understand the forecasting process.
 - [Clari Partner Handbook](https://internal.gitlab.com/handbook/sales/sales-tools/sales-forecasting/#partner-forecasting)
-- [Clari Cheat Sheet and Enablement Deck](https://docs.google.com/presentation/d/1uEJR85CGuwUSSoKtLx4X-CSz6u3hKxZtL3QznemoUOE/edit#slide=id.g28468b8eaf0_0_36)
-- [Clari Demo](https://youtu.be/tmLr-ssdgHQ) - open link -> click your profile icon in upper right hand corner -> click Switch Account -> select GitLab Unfiltered
+- [Clari Cheat Sheet and Enablement Deck](https://docs.google.com/presentation/d/1MzRR0Y5y4J9OCyAxoPzvxsY8cnzeQlPJp0C5_r4oaZ4/edit#slide=id.g28468b8eaf0_0_36)
+- [Clari Demo](https://gitlab.zoom.us/rec/play/7ZHwgYej0z7TGLDn_-Gi8NpUz0Adx0c8Z2mu0mVnyFF7pyKIvIpYvwrAP_Zx95AXQBen2SPcEPR4gZIM.MjCFFXOxTc8aPfO8) 
 
 
 ## Alliances and OEMs
 
 Please visit the [Alliances Handbook](/handbook/alliances/) for an overview of the GitLab Alliance Team. If you are a GitLab employee, the [Private Alliance Handbook](https://internal.gitlab.com/handbook/alliances/) is another available resource. The [Alliances Salesforce Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYAp) is also available.
-For any questions regarding our Alliance partners, please reach out to the #alliances Slack channel. If your inquiry is deal-specific, please use one of these Slack channels: **#a_gcp_deal_registration, #a_aws_deal_registration, #a_ibm_deal_registration**.
+For any questions regarding our Alliance partners, please reach out to the #cloud-aws or #cloud-gcp Slack channel. If your inquiry is deal-specific, please use one of these Slack channels: **#a_gcp_deal_registration, #a_aws_deal_registration, #a_ibm_deal_registration**.
 
 ### Opportunity Tagging for Marketplace Deals
 
@@ -981,17 +1032,7 @@ For deals transacting through the Carahsoft DSOR program, the quote should refle
 
 To recognize and properly compensate these transactions, please ensure the `CPPO or DSOR Partner` field = "Amazon Web Services" on the opportunity record. Please chatter Chris Novello or Pilar Meija on your DSOR opportunity so they can review the opportunity and update the `CPPO or DSOR Partner` field.
 
-### Marketplace Transaction Fees
 
-Deals booked through the Amazon and Google markeplaces use the fee schedules as shown in the [Deal Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#bookmark=kix.16z0a5v6j1e2).
-
-### Requesting Google Cloud Credits
-
-Required fields when requesting Google Cloud Credits on an Opportunity
-1. Have you engaged with the GCP Team already? (Drop down: Yes, No)
-2. Customer open to being a reference? (drop down: logo use, case-study, joint speaking session, etc.)
-3. Credits being requested (Sales Rep enters in the amount of credits required to close the deal)
-Once all required information is submitted, the request  will be routed internally for approval. If approved, the opportunity is updated to ‘approved’ and the opportunity owner  is notified via email. GCP Credits are provided directly to the customer by the GCP Team after acceptance of the private offer. For more information, visit the [Private Alliance Handbook](https://gitlab-com.gitlab.io/alliances/alliances-internal/gcp/).
 
 ### IBM (OEM) Partner Requests & QTC Process
 
@@ -999,44 +1040,23 @@ See [IBM (OEM) Partner Requests & QTC Process](https://docs.google.com/document/
 
 ### Consulting Partner Private Offers (CPPO)
 
-For more information on our AWS CPPO Pilot Program, please reference the following [program guide.](https://docs.google.com/document/d/1cH0pJP6xaY0I-Fxra212VjYwn_MvNTH1hHOtkhGVC-4/edit#heading=h.lpzn62rdfa90)
+For more information on our AWS CPPO Program, please reference the following [program guide.](https://docs.google.com/document/d/11P1Iva6ksIuw-UrxCvq5G5i2k0a-cplxAsCKi4msjpY/edit)
+
+### Registering Opportunities with Marketplace Providers
+Just as our partners register opportunities with GitLab, Partner Managers should register their marketplace opportunities with the prospective cloud provider. Instructions for submitting registrations to AWS and GCP are shown below.
+
+#### Amazon Web Services
+AWS registrations can be received and submitted directly through your SFDC opportunity using the Labra Referrals and Labra Leads tools. Instructions can be found in this [Labra Process Guide](https://docs.google.com/document/d/1wdru-IPPj-lKnq4n25XQGPH3d06Z1xClxXnNdHE7LwU/edit#heading=h.rfec1j50uxik).
+
+#### Google Cloud
+GCP registrations are submitted on GitLab's behalf by the GCP team. To register a new opportunity with GCP, please click the following link and fill out the form. 
+
+[New GitLab Opportunity Registration for GCP](https://docs.google.com/forms/d/e/1FAIpQLScEsVcfRBILkrSs73vUeqkzfi_nTuK4Tluv-HBUw230pWuRXw/viewform)
 
 ## Compensation on Partner Opportunities
 
 The executed compensation letter should be the approved and legal source of truth for compensation. However please use the following resources to assist in clarification or exceptions.
 
-[FY24 Partner Comp & Splits Matrix](https://docs.google.com/spreadsheets/d/1LpNM636JnqQxLtMphxzcyZbdF5MDTgnIXkJEARCV_-4/edit#gid=1399522836)
+[Sales Commissions Internal Handbook](https://internal.gitlab.com/handbook/sales/sales-commission/?redirected-from=internal-handbook.gitlab.io)
 
-[FY24 Partner Comp Exception Process](https://docs.google.com/document/d/1sUVZDDua5JB1omVUbqBkxA1NAhSed66sjzfIBaVIkGg/edit?usp=sharing)
-
-
-### Channel Neutral
-
-Comp Neutrality applies to all GitLab Opportunities where a Partner is involved in the physical transaction (takes paper) ***and*** a Partner Program discount is applied on the executed Partner Order Form.
-The maximum Comp Neutral payout is based on the applicable GitLab Partner Program discount matrix. If additional discount is needed in order to close the deal, that portion is not eligible for Comp Neutrality.
-In the event a lesser discount is applied on the deal then what the Partner Program allocates, then the lesser discount will also be what is calculated for Comp Neutrality.
-Other factors:
-- Starter/Bronze is not applicable even if a discount is approved
-- US PubSec Sales, Channel, and Alliances teams do not qualify
-- For Alliances transactions, the contractual discount is used to calculate comp neutral
-- IBM OEM deals do not qualify
-- For H1 FY22 comp neutral did not apply for Distribution discounts. Starting H2 FY22 the contractual Distribution discounts will apply however no retroactive payments/re-calculations will be made.
-
-As a reminder, comp neutrality only applies to comp and does not retire quota.
-
-For additional information, please review [Channel Neutral Compensation](https://internal.gitlab.com/handbook/sales/sales-commission/#channel-neutral-commissions) within the internal Sales Ops commission section of the Handbook.
-
-Internal: [Partner Program Discount Matrix](/handbook/sales/field-operations/channel-operations/#program-and-incentive-definitions)
-For Partner Program discounts specific to US PubSec, please reach out to #partner-program-ops on Slack.
-
-### 2-Tier Opportunities
-
-If the Opportunity is going through a 2-Tier Channel (Distributor + Reseller), both Partner Accounts must be included on the Opportunity in the Partner Information section in order for both Program discounts to apply AND for Comp Neutral to calculate on both. Reseller should be in the Partner  field and the applicable Distributor in the Distributor field on the Opportunity.
-
-### Opportunities with GCP and AWS
-
-For deals going through GCP and AWS, the Partner fields should still be filled out on the Opportunity but comp neutral will not calculate until the deal closes as partner discounts are done after the quote/order form is generated. Deal Desk will assist with this process.
-
-
-
-
+[FY25 Partner Comp Exception Process](https://internal.gitlab.com/handbook/sales/sales-commission/#request-for-splits-additional-credits-new-logo-exception-lam-dev-count-override-or-churn-exception)

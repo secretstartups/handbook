@@ -25,36 +25,46 @@ Every week Analytics Instrumentation team holds open office hours on Zoom for an
 The historical and upcoming meeting agendas can be accessed in [our agenda document](https://docs.google.com/document/d/13GHTIfaPTHKh_eYXAhhCyYHHisZQvKlVNqhlo6EyqbE).
 
 ## Incidents
+The process below outlines the different stages of the incident detection and resolution process and the steps to be taken by the corresponding Directly Responsible Individuals (DRIs).
+Please reach out to the [Analytics Instrumentation Group EM/PM](/handbook/engineering/development/analytics/analytics-instrumentation/#team-members) for any recommendations to changes in the process.
 
-We define incidents as a deviation from the intended process that significantly disrupts the reporting of metrics to the point that immediate action is required. The process below outlines the different stages of the incident resolution process and the steps to be taken by the corresponding Directly Responsible Individuals (DRIs). Please reach out to the [Analytics Instrumentation Group EM/PM](/handbook/engineering/development/analytics/analytics-instrumentation/#team-members) for any recommendations to changes in the process.
+### Incident Definition
 
-### Incident Detection
-_(DRI: The team/individual detecting the issue)_
+We define incidents as a deviation from the intended process that significantly disrupts the reporting of metrics to the point that immediate action is required. These reasons should lead to the creation of an incident:
 
-1. Create an issue and fill all necessary information using the [Analytics Instrumentation Incident Template](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/issue_templates/Analytics_Instrumentation_Incident_Template).
+1. Any SEV-1 Monte Carlo alert posted into #g_analytics_instrumentation_alerts that's not directly associated with an exisiting incident.
+2. Any suspected loss or delay of analytics data that might affect metrics with a `performance_indicator_type` and could be originating in the Analytics Instrumentation domain.
+Examples of incidents
+1. [High severity incidents](https://gitlab.com/gitlab-org/gitlab/-/issues/442875)
+2. [Medium severity incidents](https://gitlab.com/gitlab-org/gitlab/-/issues/443639)
+When choosing whether to declare an incident:
+
+1. Rather err on the side of declaring an incident even if you run the risk of it not being one. We'd rather close an incident as false positive than miss out on one.
+2. If there's an existing incident issue with the data team still follow our process and link the data team's issue in ours.
+
+### Incident Creation
+_(DRI: The team/individual detecting the issue or first team member to see the
+alert)_
+
+1. Create an issue and fill all necessary information using the [Analytics Instrumentation Incident Template](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Analytics+Instrumentation+Incident).
 1. Add appropriate label using the below guideline
     - `~"Analytics Instrumentation::Incident-High Severity"` for impending loss of data for many metrics or moderate to severe loss in business critical metrics that have a performance_indicator_type value.
     - `~"Analytics Instrumentation::Incident-Medium Severity"` for data delay.
+    - Add an appropriate bug severity as per the [definition](https://handbook.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity)
     - For cases when there is minimal impact on data and manual steps or correction is needed, please raise a bug rather than an incident.
 1. Assign the issue to [Analytics Instrumentation Group PM and EM](/handbook/engineering/development/analytics/analytics-instrumentation/#team-members).
 1. Post in the [#g_analyze_analytics_instrumentation](https://gitlab.slack.com/archives/CL3A7GFPF) slack channel and tag [Analytics Instrumentation Group PM and EM](/handbook/engineering/development/analytics/analytics-instrumentation/#team-members).
-
-### Incident Notification
-_(DRI: The PM of the Analytics Instrumentation group)_
-
 1. Notify these slack channels [#g_analyze_product_analytics](https://gitlab.slack.com/archives/C03M4R74NDU), [#data_rd_fusion](https://gitlab.slack.com/archives/C02C82WDP0U), [#data](https://gitlab.slack.com/archives/C8D1LGC23) with link to the issue.
-1. Inform Analytics stage Engineering & Product GPM.
-1. Update aforementioned slack channels and individuals on resolution time, changes to resolution times, and when incident is resolved.
-1. Ensure the incident and status is reflected in the next [monthly state of data issue](https://gitlab.com/groups/gitlab-com/-/epics/1608 "Monthly State of Data").
+1. Depending on your own experience either take on the role of resolution DRI, or actively tag EM and engineers in slack to find DRI for incident.
 
 ### Incident Resolution
-_(DRI: To be identified by the EM of the Analytics Instrumentation group)_
+_(DRI: To be identified by EM of the Analytics Instrumentation group)_
 
-1. EM to review severity assigned by detection DRI, label issue as ~"type::bug" and add a bug severity if needed.
 1. DRI to work on resolving the issue as quickly as possible. The first priority is to find a fix, even if that is a temporary one, before working on a long term resolution.
+1. EM to review severities assigned by detection DRI.
 1. In case of a ~"Analytics Instrumentation::Incident-High Severity" issue:
-    - EM to create a temporary channel for the incident in Slack and invite the whole group including PM and relevant stakeholders based on the incident.
-    - EM to announce a feature change lock specific to the analytics instrumentation group.
+    - DRI to create a temporary channel for the incident in Slack and invite the whole group including PM and relevant stakeholders based on the incident.
+    - EM (or DRI if EM not available) to announce a feature change lock specific to the analytics instrumentation group.
     - All group members concentrate on finding a fix for the issue.
     - DRI to post an update in the channel about the current status at least twice per day.
 1. In case of a ~"Analytics Instrumentation::Incident-Medium Severity" issue:
@@ -65,8 +75,15 @@ _(DRI: To be identified by the EM of the Analytics Instrumentation group)_
 1. If a patch release is necessary:
     - DRI to create a merge request for a patch release if required and link the merge request to the main issue
     - DRI to announce in the main issue when the Patch release is completed
-1. DRI to create a root cause analysis (RCA) issue using this [template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/rca.md) and assign it to the EM.
-1. EM to identify other assignees for the RCA and create related epics/issues if needed.
+
+### Incident Notification
+
+_(DRI: The PM of the Analytics Instrumentation group)_
+1. Notify these slack channels [#g_analyze_product_analytics](https://gitlab.slack.com/archives/C03M4R74NDU), [#data_rd_fusion](https://gitlab.slack.com/archives/C02C82WDP0U), [#data](https://gitlab.slack.com/archives/C8D1LGC23) with link to the issue.
+1. Inform Monitor stage Engineering & Product GPM.
+1. Update aforementioned slack channels and individuals on resolution time, changes to resolution times, and when incident is resolved.
+1. Ensure the incident and status is reflected in the next [monthly state of data issue](https://gitlab.com/groups/gitlab-com/-/epics/1608 "Monthly State of Data").
+
 
 ## Responsibilities
 
@@ -349,7 +366,7 @@ A milestone commitment is a list of issues our team aims to complete in the mile
 
 #### Work Type Classification
 
-Per the [Next Prioritization](/handbook/company/team/structure/working-groups/cross-functional-prioritization/) initiative, we will review our team's performance in applying appropriate [type labels](https://docs.gitlab.com/ee/development/labels/index.html#type-labels) to MRs. At the close of the milestone, on the Planning Issue, the EM or PM will post a link to [this dashboard](/handbook/engineering/development/analytics/analytics-instrumentation/#merged-merge-request-types) along with a summary of shipped work by type label (include null) to ensure we are observing the [recommended work split](/handbook/company/team/structure/working-groups/cross-functional-prioritization/#exit-criteria) of 60% feature, 30% maintenance, 10% bugs, and <=5% undefined.
+Per the [Next Prioritization](/handbook/company/working-groups/cross-functional-prioritization/) initiative, we will review our team's performance in applying appropriate [type labels](https://docs.gitlab.com/ee/development/labels/index.html#type-labels) to MRs. At the close of the milestone, on the Planning Issue, the EM or PM will post a link to [this dashboard](/handbook/engineering/development/analytics/analytics-instrumentation/#merged-merge-request-types) along with a summary of shipped work by type label (include null) to ensure we are observing the [recommended work split](/handbook/company/working-groups/cross-functional-prioritization/#exit-criteria) of 60% feature, 30% maintenance, 10% bugs, and <=5% undefined.
 
 ##### Clarifying Maintenance vs. Feature Work
 
@@ -377,29 +394,11 @@ We group related issues together using parent [epics](https://docs.gitlab.com/ee
 - The description of the parent epic should always be kept up-to-date as the single source of truth.
 - Epics and Child Epics must have the same section and group labels to see them on our roadmap.
 
-### Issue labels
+### Issues
 
-We use issue labels to keep us organized. Every issue has a set of required labels that the issue must be tagged with. Every issue also has a set of optional labels that are used as needed.
+When creating an issue, use the [linked template](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Analytics%20Instrumentation%20Issue) and follow its instructions.
 
-**Required labels**
-- Section `~devops::analytics`
-- Group `~"group::analytics instrumentation"`
-- [Workflow:](/handbook/product-development-flow/#workflow-summary) `~"workflow::planning breakdown"`, `~"workflow::ready for development"`, `~"workflow::in dev"`, etc.
-- [Type:](/handbook/engineering/metrics/#work-type-classification) `~"type::bug"`, `~"type::feature"`, `~"type::tooling"`, `~"type::maintenance"`
-
-(Easy to copy list: `~devops::analytics ~"group::analytics instrumentation" ~"workflow::planning breakdown" ~"workflow::ready for development" ~"workflow::in dev" ~"type::bug" ~"type::feature" ~"type::tooling" ~"type::maintenance"`)
-
-### Issue description
-
-The description for an issue assigned to our group should always include the following sections:
-
-- **Problem**: The problem being adressed by this issue.
-- **Desired Outcome**: The desired state of the affected system after this issue has been completed.
-- **Potential Solution(s)**: An outline of potential solutions to get to the desired outcome. These solution(s) can still be adjusted throughout the implementation as long as the desired outcome is achieved.
-- **How to verify**: How can we verify that the desired outcome has been achieved? The instrcutions from this section should be used to move the issue from ~"worfklow::verification".
-- **Further actions needed**: Any further tasks that need to be completed after the main work of the issue is done, such as announcing the changes or updating documentation.
-
-The sections **Potential Solution(s)** and **How to verify** can initially be empty but should to be filled when preparing the issue for development.
+In case the issue is not created for the [GitLab project](https://gitlab.com/gitlab-org/gitlab), copy the template's content into the appropriate project.
 
 ### Merge request labels
 
@@ -451,7 +450,21 @@ If you would like to propose a new knowledge session for a topic you want to lea
 
 ## Development metrics
 
-{{% cross-functional-dashboards filters="Analytics Instrumentation" %}}
+{{< tableau height="600px" toolbar="hidden" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/TopEngineeringMetrics/TopEngineeringMetricsDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="analytics instrumentation" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/MergeRequestMetrics/OverallMRsbyType_1" >}}
+  {{< tableau/filters "GROUP_LABEL"="analytics instrumentation" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/Flakytestissues/FlakyTestIssues" >}}
+  {{< tableau/filters "GROUP_NAME"="analytics instrumentation" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/SlowRSpecTestsIssues/SlowRSpecTestsIssuesDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="analytics instrumentation" >}}
+{{< /tableau >}}
 
 ## Error budget
 
@@ -480,7 +493,6 @@ All new team members to the Analytics Instrumentation teams are provided an onbo
 | [Analytics Instrumentation Monitoring and Troubleshooting](./monitoring_troubleshooting.html) | Information around Troubleshooting Analytics Instrumentation infrastructure|
 | [Analytics Instrumentation Infrastructure](./infrastructure.html) | Information about the infrastructure we run |
 | [Service Ping Guide](https://docs.gitlab.com/ee/development/service_ping/)     | An implementation guide for Service Ping      |
-| [Privacy Policy](/privacy/)        | Our privacy policy outlining what data we collect and how we handle it     |
+| [Privacy Policy](https://about.gitlab.com/privacy/)        | Our privacy policy outlining what data we collect and how we handle it     |
 | [Analytics Instrumentation Direction](https://about.gitlab.com/direction/analytics/analytics-instrumentation/)  | The roadmap for Analytics Instrumentation at GitLab  |
 | [GitLab Performance Snowplow Dashboards ](./gitlab_com_performance_dashboard.html) | Performance dashboards for GitLab.com via Snowplow  |
-| [FAQ](/handbook/product/analytics-instrumentation-guide/faq) | A list of questions and answers related with Service Ping and Snowplow |
