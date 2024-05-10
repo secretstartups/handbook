@@ -18,7 +18,7 @@ description: "Customer Support Areas of Focus workgroup description and overview
 
 ## KPIs that triggered this action
 
-[Service Level Agreement (SLA)](https://about.gitlab.com/handbook/support/performance-indicators/#service-level-agreement-sla)
+[Service Level Agreement (SLA)](/handbook/support/performance-indicators/#service-level-agreement-sla)
 
 ## Exit Criteria
 

@@ -32,7 +32,7 @@ For feature proposals, guide the customer on how to create the issues in [GitLab
 
 ### Refunds
 
-If a customer requests a refund, please follow the [Handling Refund Requests](/handbook/support/license-and-renewals/workflows/billing_contact_change_payments.html#refunds) workflow.
+If a customer requests a refund, please follow the [Handling Refund Requests](/handbook/support/license-and-renewals/workflows/billing_contact_change_payments#refunds) workflow.
 
 ### Customer Feedback submitted in the ticket, or feedback provided indirectly to a Sales or CSM team member
 
@@ -54,7 +54,7 @@ appropriate action.
 In the meantime, you should continue to assist the customer with their queries
 and address their feedback if appropriate. If you are unsure on how to proceed,
 pleaes ask for help in the
-[#spt_managers](https://gitlab.slack.com/archives/C01F9S37AKT) Slack channel.
+[#support_leadership](https://gitlab.slack.com/archives/C01F9S37AKT) Slack channel.
 
 ### Venting
 

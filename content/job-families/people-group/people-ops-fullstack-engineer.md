@@ -10,7 +10,7 @@ The People Group Junior Fullstack Engineer reports to Director, People Tools & T
 
 #### People Group Junior Fullstack Engineer Job Grade
 
-The People Group Junior Fullstack Engineer is [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The People Group Junior Fullstack Engineer is [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### People Group Junior Fullstack Engineer Responsibilities
 
@@ -65,7 +65,7 @@ The People Group Fullstack Engineer reports to Director, People Tools & Technolo
 
 #### People Group Fullstack Engineer Job Grade
 
-The People Group Fullstack Engineer is [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The People Group Fullstack Engineer is [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### People Group Fullstack Engineer Responsibilities
 
@@ -99,7 +99,7 @@ The Senior People Group Fullstack Engineer reports to Director, People Tools & T
 
 #### Senior People Group Fullstack Engineer Job Grade
 
-The Senior People Group Fullstack Engineer is [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior People Group Fullstack Engineer is [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior People Group Fullstack Engineer Responsibilities
 
@@ -129,7 +129,7 @@ The Staff People Group Fullstack Engineer reports to Director, People Tools & Te
 
 #### Staff People Group Fullstack Engineer Job Grade
 
-The Staff People Group Fullstack Engineer is [Job Grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff People Group Fullstack Engineer is [Job Grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff People Group Fullstack Engineer Responsibilities
 
@@ -137,11 +137,11 @@ WIP (and pulling inspiration from: <https://gitlab.com/gitlab-com/www-gitlab-com
 
 ## Performance Indicators
 
-- [Narrow MR Rate](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#people-group-engineering-narrow-mr-rate)
-- [Overall Handbook Update Frequency Rate](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#people-group-engineering-overall-handbook-update-frequency-rate)
-- [Bug to first action](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#people-group-engineering-bug-to-first-action)
-- [Workscope done within a milestone](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#people-group-engineering-workscope-done-within-a-milestone)
-- [New requests are triaged](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#people-group-engineering-new-requests-are-triaged)
+- [Narrow MR Rate](/handbook/people-group/people-success-performance-indicators/#people-group-engineering-narrow-mr-rate)
+- [Overall Handbook Update Frequency Rate](/handbook/people-group/people-success-performance-indicators/#people-group-engineering-overall-handbook-update-frequency-rate)
+- [Bug to first action](/handbook/people-group/people-success-performance-indicators/#people-group-engineering-bug-to-first-action)
+- [Workscope done within a milestone](/handbook/people-group/people-success-performance-indicators/#people-group-engineering-workscope-done-within-a-milestone)
+- [New requests are triaged](/handbook/people-group/people-success-performance-indicators/#people-group-engineering-new-requests-are-triaged)
 
 ## Career Ladder
 
@@ -157,4 +157,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Candidates will then have two 30 minute meetings with members from the People Group.
 - Finally, candidates will be invited to a 30 minute interview with the VP, People Operations, Technology & Analytics.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

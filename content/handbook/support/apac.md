@@ -12,7 +12,7 @@ found a home for in the wider Support Team Handbook.
 The intent is to enable APAC Support team members to contribute to Results for
 APAC-specific iniatitives, policies, processes and workflows by prioritizing:
 
-1. Transparency, through being [handbook first](https://about.gitlab.com/handbook/handbook-usage/#why-handbook-first)
+1. Transparency, through being [handbook first](/handbook/handbook-usage/#why-handbook-first)
    and providing a single source of truth for APAC-specific.
 1. Iteration, through providing a safe space where APAC Support team members can
    introduce or update APAC-specific policies, workflows and processes without
@@ -20,7 +20,7 @@ APAC-specific iniatitives, policies, processes and workflows by prioritizing:
 
 Where appropriate, we should always look to move content from this page into
 other pages of the wider Support Team Handbook. For an example of how this can
-be done, see the [Considerations in APAC section](https://about.gitlab.com/handbook/support/on-call/#considerations-in-apac)
+be done, see the [Considerations in APAC section](/handbook/support/on-call/#considerations-in-apac)
 of the GitLab Support On-Call Guide Handbook page.
 
 ## General policies
@@ -37,7 +37,13 @@ of the GitLab Support On-Call Guide Handbook page.
 
 ### Support engineers should spend time on work other than L&R work
 
-- ???
+- Support engineers join GitLab with a mix of backgrounds in development, systems administration or
+  support engineering. We want to support people's growth and development by ensuring they maintain
+  and improve the relevant skills they bring with them.
+- While L&R problems are often challenging and complex, they are not suited to maintaining those
+  hands-on technical skills. An over-focus on solving L&R problems causes many of these skills to
+  atrophy.
+- To avoid this, support engineers in APAC should spend no more than 30% of their time on L&R work.
 
 ## Working principles
 
@@ -65,12 +71,22 @@ apply this operating principle:
 As we learn more about this operating principle, please leave any thoughts or
 feedback in the [discussion issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4921).
 
+### Make it easy, remove obstacles
+
+We strive to make all of our interactions easy, and to remove obstacles that increase the amount of effort needed to get results. This applies to interactions with our customers, with each other, with the wider team, and anywhere we can live this out. We can ask ourselves: "How can I make this easier? What obstacles can I remove?". Making it easy helps create [loyal customers](https://hbr.org/2010/07/stop-trying-to-delight-your-customers).
+
+Some examples of how we do that:
+
+- Noticing that a docs page is ambiguous or has poor flow, and raising an MR to make it easier to apply. This makes it easier for customers and team members alike, along with potentially preventing further tickets.
+- Helping a customer with a configuration problem and bringing their attention to something else that is likely to come up once they get past their current blocker. If we alert them to it ahead of them encountering it, we remove the need for them to raise another support ticket.
+- Giving a customer a clear and succinct summary of what we've understood of their problem and how we're going to proceed to troubleshoot it with them. This makes it easy for them to rapidly identify if we've grasped their situation accurately and can course correct us if we haven't. It also enables the customer to understand where we're going with the actions we're asking them to take, making it easier for them to understand the value of putting in the time they'll need to spend on it.
+- Noticing when our own policies are causing us to say "no" and considering if the policy needs to be reviewed. In some cases, that won't be an option -- for example in matters of compliance -- but where it is, taking the time to consider what we can change is worthwhile.
+
 ## Operating metrics and measurements
 
 ### Cliff of definite underperformance
 
-A support engineer is definitively underperforming when they handle less than 7 tickets in any of 3 of the past 4 weeks.
-{: .alert .alert-warning}
+A support engineer is definitively underperforming when they handle less than 8 tickets in any of 3 of the past 4 weeks. <i class="fa-solid fa-triangle-exclamation"></i>
 
 A support engineer is considered to have handled a ticket when they leave either
 a public or internal comment on a ticket.
@@ -81,19 +97,13 @@ To set clear expectations of when a support engineer's ticket productivity is
 so low that they are no longer performing the basic responsibilities of the
 role.
 
-<div class="panel panel-warning">
-**Warning**
-{: .panel-heading}
-<div class="panel-body">
+{{% alert title="Warning" color="warning" %}}
 
 If you are above the cliff, it does not necessarily mean that you are meeting
 ticket productivity expectations. The full picture of ticket productivity
 performance cannot be derived from a single number and must be looked at
 holistically with other quantitative and qualitative inputs.
-
-</div>
-</div>
-{::options parse_block_html="false" /}
+{{% /alert %}}
 
 **Frequency**
 
@@ -104,14 +114,24 @@ The measurement itself should be updated on a quarterly cadence, at the start of
 each financial quarter.
 
 <details>
-  <summary markdown="span">Historical data</summary>
+  <summary markdown="span">Historical & current data</summary>
 
-- FY23-Q1: 5
-- FY23-Q2: 5
-- FY23-Q3: 5
-- FY23-Q4: 5
-- FY24-Q1: 6
-- FY24-Q2: 7
+  The following shows:
+   - the number for the Cliff of Definite Underperformance (CoDU) as observed for the 12 month period concluding prior to the listed quarter.
+   - a link to the notification issue when the number was reviewed for that period.
+
+| **Quarter** | **Cliff Number** | **Notification Issue**  |
+|------------| -------- |------|--------------------------|
+| FY25-Q1 (Current) | 9 | [STM#5821](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/5821) |
+| FY24-Q4 | 8 | [STM#5672](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/5672) |
+| FY24-Q3 | 7 | [STM#5494](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/5494) |
+| FY24-Q2 | 7 | Nil - practice started in FY24-Q3 |
+| FY24-Q1 | 6 | |
+| FY23-Q4 | 5 | |
+| FY23-Q3 | 5 | |
+| FY23-Q2 | 5 | |
+| FY23-Q1 | 5 | |
+
 
 </details>
 
@@ -243,6 +263,19 @@ each financial quarter.
 
 </details>
 
+<details>
+  <summary markdown="span">Documenting the measurement</summary>
+
+  When a review of the measurement is carried out:
+
+- Create an MR to:
+   - Update the number in the first paragraph of the [Cliff of Definite Underperformance section](#cliff-of-definite-underperformance) if the number has changed.
+   - Add a new row to the top of the `Historical & Current Data` table for the current quarter's number. Also move the reference to `(Current)` data to this row.
+- Create a notification issue in [Support Team Meta](https://gitlab.com/gitlab-com/support/support-team-meta) to record that the number has been reviewed and if it has changed.  (Copy a previous notification issue to use as a template).
+- Add a link to the notification issue to the relevant column in the `Historical and Current data` table.
+
+  </details>
+
 ## Daily Bot in the #support_licensing-subscription slack channel
 
 There is a daily bot that follows the SGG bot format and tags all APAC Support
@@ -264,7 +297,7 @@ coverage.
 
 ## Holiday Coverage Planning
 
-We are mindful of [holidays](https://about.gitlab.com/handbook/support/support-time-off.html#holiday-time-off-ticket-management) that impact large parts of the team. The following are official holidays for mostly APAC team members, which we plan coverage for outside of global practices:
+We are mindful of [holidays](/handbook/support/support-time-off#holiday-time-off-ticket-management) that impact large parts of the team. The following are official holidays for mostly APAC team members, which we plan coverage for outside of global practices:
 
 | **Holiday**                             | **Date**           | **Countries**              | **Notes**                                                                                                                                  |
 |-----------------------------------------|--------------------|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
@@ -310,11 +343,19 @@ To refer to past planning issues, see issues linked to the [[APAC] Holiday Cover
           <li>Release Review Party</li>
           <li>APAC Office Hours</li>
           <li>Social Call</li>
-          <li>APAC Book Club - [Tribal Leadership](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4854) <br>weekly between 2023-02-16 to 2023-04-06</li>
-         </ul>
+        </ul>
       </td>
     </tr>
   </tbody>
 </table>
 
 - ???
+
+## Understanding our working hours in relation to Zendesk
+
+The following images visualise the typical working hours in various team member locations in
+relation to SLA timers and [APAC regional business hours](https://about.gitlab.com/support/#effect-on-support-hours-if-a-preferred-region-for-support-is-chosen)
+in Zendesk. Pay attention to the months shown in each section - the difference is due to some
+countries observing daylight savings time.
+
+![APAC Working hours](../assets/APACWorkingHours.png)

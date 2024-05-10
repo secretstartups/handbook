@@ -1,0 +1,19 @@
+<table style="display: table;">
+    <thead>
+        <tr>
+            <th style="width: 30%;">Contact</th>
+            <th>Division - Department</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{- range site.Data.public.people_business_partners }}
+        {{- $member := index (where site.Data.public.team "name" "eq" .name) 0 }}
+        {{- if $member }}
+        <tr>
+            <td>{{ partial "member/with-team-link" $member }}</td>
+            <td>{{ .present }}</td>
+        </tr>
+        {{- end }}
+        {{- end }}
+    </tbody>
+</table>

@@ -1,0 +1,8 @@
+{{- $name := replaceRE `\s\(.*\)` "" . -}}
+{{- $meta := index (findRE `\s\(.*\)` .) 0 -}}
+{{- $data := index (where site.Data.public.team "name" "eq" $name) 0 }}
+{{- with $data }}
+<span  style="white-space: nowrap;">{{- partial "member/with-team-link" . -}} {{ $meta }}</span>
+{{- else -}}
+<span class="not-found" style="white-space: nowrap;"><img class="avatar" src="https://about.gitlab.com/images/gitlab-logo-extra-whitespace.png" width="40" height="40" alt="{{ $name }}">{{$name}} {{$meta}}</span>
+{{- end -}}

@@ -12,7 +12,7 @@ The Associate Learning System Administrator reports into the [Learning & Develop
 
 #### Associate Learner Engagement Specialist Job Grade
 
-The Associate Learner Engagement Specialist is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Associate Learner Engagement Specialist is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Associate Learner Engagement Specialist Responsibilities
 
@@ -54,7 +54,7 @@ The Intermediate Learner Engagement Specialist reports into the [Learning & Deve
 
 #### Intermediate Learner Engagement Specialist Job Grade
 
-The Intermediate Learner Engagement Specialist is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Intermediate Learner Engagement Specialist is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Intermediate Learner Engagement Specialist Responsibilities
 
@@ -79,7 +79,7 @@ The Senior Learner Engagement Specialist reports into the [Learning & Developmen
 
 #### Senior Learner Engagement Specialist Job Grade
 
-The Senior Learner Engagement Specialist is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Learner Engagement Specialist is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Learner Engagement Specialist Responsibilities
 
@@ -99,8 +99,8 @@ The Senior Learner Engagement Specialist is a [grade 7](https://about.gitlab.com
 
 ## Performance Indicators
 
-- [Engagement Survey Growth and Development Score](https://about.gitlab.com/handbook/people-group/learning-and-development/#performance-indicators)
-- [Exit Survey Data < 5 % of team members exiting GitLab related to L&D](https://about.gitlab.com/handbook/people-group/learning-and-development/#performance-indicators)
+- [Engagement Survey Growth and Development Score](/handbook/people-group/learning-and-development/#performance-indicators)
+- [Exit Survey Data < 5 % of team members exiting GitLab related to L&D](/handbook/people-group/learning-and-development/#performance-indicators)
 - Engagement metrics for LinkedIn Learning & GitLab Learn
 
 ## Career Ladder
@@ -111,9 +111,9 @@ The next step for the Learner Engagement Specialist is not yet defined.
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 30 minute interview with our Learning & Development Manager.
 - Next, candidates will be asked to submit a short writing sample to answer a question that the Learning and Development team often sees from customers and community members.
 - Next, the candidate will be invited to interview with a member of the Learning & Development team, a team member from our Sales Enablement, Professional Services, and/or Developer Relations team.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

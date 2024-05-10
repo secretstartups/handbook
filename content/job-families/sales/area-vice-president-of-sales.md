@@ -30,7 +30,7 @@ The Area Vice President reports into the [VP, Enterprise Sales](/job-families/sa
 - Polished presentation skills
 - Ability to handle a fast-paced environment and ambitious workload
 - Bachelor degree
-- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
+- Ability to travel if needed and comply with the company’s [travel policy](/handbook/travel/)
 
 ## Segment
 
@@ -47,7 +47,7 @@ The Area Vice President reports into the [VP, Enterprise Sales](/job-families/sa
 - Demonstrated progressive second line leadership experience leading teams in strategic sales specific to Public Sector.
 - Proven second line sales management experience with deep domain experience in the Public Sector/Federal vertical, including a history of successfully selling through the Public Sector channel.
 - Must have proven experience leading teams who sell to mission owners, identifying, uncovering, and developing new account opportunities in their territory.
-- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/#travel-guidance-covid-19). Federal, LLC team members need to also comply with the applicable vaccination policies.
+- Ability to travel if needed and comply with the company’s [travel policy](/handbook/travel/#travel-guidance-covid-19). Federal, LLC team members need to also comply with the applicable vaccination policies.
 
 ## Performance Indicators
 
@@ -61,12 +61,12 @@ The Area Vice President Job Family would move to the [VP of Enteprise Sales](/jo
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Selected candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with our Global Recruiters
+- Selected candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with the Hiring Manager
 - Next, candidates will be invited to schedule one or more interviews with members of the Enterprise sales team.
 - Next, candidates will be invited to schedule one or more interviews with Business Partners
 - Finally, candidates may be asked to interview with our CRO.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

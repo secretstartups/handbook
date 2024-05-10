@@ -7,20 +7,53 @@ The Accounts Payable team is responsible for timely and accurate processing and 
 
 ## Levels
 
+### Junior Accounts Payable Analyst
+
+The Junior Accounts Payable Analyst reports to the Manager, Accounts Payable.
+
+### Junior Accounts Payable Analyst Job Grade
+
+The Junior Accounts Payable Analyst is a grade 5. (/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### Junior Accounts Payable Analyst Responsibilities
+
+- Experience with Coupa and Netsuite preferred
+- Process full-cycle accounts payable including vendor and invoice management approval
+- Ensure proper GL coding for all AP activity recorded in accordance with the GitLab chart of accounts
+- Assist in obtaining documents for year-end 1099 filings
+- Assist with audit requests related to the accounts payable function
+- Assist with journal entries such as AP accruals/reclasses, along with reconciliations, and other assigned tasks related to accounts payable, in a timely manner to comply with the close calendar and checklists
+- Assist team with ad hoc projects, as needed
+- Assist with implementation of accounting tools to help automate and streamline processes
+
+#### Junior Accounts Payable Analyst Requirements
+
+- Experience with Netsuite preferred
+- Experience with Navan and Coupa is a plus
+- 1+ years of related accounts payable experience is required
+- Flexible to meet changing priorities and the ability to prioritize workload to achieve on time accurate results
+- Knowledge of SOX
+- Proficient with Excel and Google Sheets
+- International experience is a plus
+- Knowledge of basic accounting principles
+- Self-starter with the ability to work remotely and independently and interact with various teams when needed.
+- You share our values, and work in accordance with those values.
+- Ability to use GitLab
+
 ### Accounts Payable Analyst (Intermediate)
 
 The Accounts Payable Analyst (Intermediate) reports to [Senior Manager, Accounts Payable](/job-families/finance/accounts-payable/).
 
 #### Accounts Payable Analyst (Intermediate) Job Grade
 
-The Accounts Payable Analyst (Intermediate) is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Accounts Payable Analyst (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Accounts Payable Analyst (Intermediate) Responsibilities
 
 - Process full-cycle accounts payable including vendor and invoice management, approval and weekly disbursement activities
 - Ensure proper GL coding for all AP activity recorded in accordance with the GitLab chart of accounts
-- Process expense reports as needed and serve as an administrator for Expensify
-- Administrator for Expensify expense reporting tool including the review of all corporate card transactions to ensure proper coding and processing in NetSuite
+- Process expense reports as needed and serve as an administrator for Navan
+- Administrator for Navan expense reporting tool including the review of all corporate card transactions to ensure proper coding and processing in NetSuite
 - Update cash flow report for disbursements on a daily basis
 - Credit card account reconciliation
 - Assist in year-end 1099 filings
@@ -34,7 +67,7 @@ The Accounts Payable Analyst (Intermediate) is a [grade 6](https://about.gitlab.
 #### Accounts Payable Analyst (Intermediate) Requirements
 
 - Experience with Netsuite preferred
-- Experience with Expensify and Tipalti is a plus
+- Experience with Navan and Coupa is a plus
 - 3+ years of related accounts payable experience is required
 - Flexible to meet changing priorities and the ability to prioritize workload to achieve on time accurate results
 - Knowledge of SOX
@@ -51,7 +84,7 @@ The Senior Accounts Payable Analyst reports to [Senior Manager, Accounts Payable
 
 #### Senior Accounts Payable Analyst Job Grade
 
-The Senior Accounts Payable Analyst is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Accounts Payable Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Accounts Payable Analyst Responsibilities
 
@@ -77,7 +110,7 @@ Accounts Payable Manager reports to The [Senior Manager, Accounts Payable](/job-
 
 #### Accounts Payable Manager Job Grade
 
-The Accounts Payable Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Accounts Payable Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Accounts Payable Manager Responsibilities
 
@@ -104,7 +137,7 @@ The Senior Manager, Accounts Payable reports to the [Senior Director, Corporate 
 
 #### Job Grade
 
-The Senior Manager, Accounts Payable is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Accounts Payable is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager Responsibilities
 
@@ -163,9 +196,9 @@ The Director, Accounts Payable is a grade 10.
 
 ## Performance Indicators
 
-- [Average days to close](https://about.gitlab.com/handbook/finance/accounting/#average-days-to-close-kpi-definition)
-- [Number of material audit adjustments = 0](https://about.gitlab.com/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
-- [Percentage of ineffective Sox Controls = 0%](https://about.gitlab.com/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
+- [Average days to close](/handbook/finance/accounting/#average-days-to-close-kpi-definition)
+- [Number of material audit adjustments = 0](/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
+- [Percentage of ineffective Sox Controls = 0%](/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
 
 ## Career Ladder
 
@@ -173,11 +206,11 @@ The next step in the Accounts Payable job family is to move to the [General Ledg
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 - 30 minute screening call with our Recruiters
 - 30 minute interview with Hiring Manager
 - 2 - 4 30 minute peer interviews
 - 45 minute interview with an Executive for any Manager and above role.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/interviewing/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/).

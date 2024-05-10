@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+
 title: How to Perform Customer Emergencies Duties
 category: On-call
 description: "Describes the role and responsibilities for Customer Emergencies rotation in Support Engineering"
@@ -34,7 +34,7 @@ Due to an increase in concurrent emergencies, we have split the AMER shift into 
 - AMER 2 hours: 1:00 PM to 7:00 PM EDT (17:00 to 23:00 UTC)
 - AMER 3 hours: 2:00 PM to 8:00 PM EDT (18:00 to 24:00 UTC)
 
-This leaves the first and last hours of the AMER on-call window with a single engineer on-call. If multiple emergencies come in during these times, follow the [Handling multiple simultaneous emergencies](/handbook/support/workflows/customer_emergencies_workflows.html#handling-multiple-simultaneous-emergencies) workflow.
+This leaves the first and last hours of the AMER on-call window with a single engineer on-call. If multiple emergencies come in during these times, follow the [Handling multiple simultaneous emergencies](/handbook/support/workflows/customer_emergencies_workflows#handling-multiple-simultaneous-emergencies) workflow.
 
 Each group is encouraged to coordinate a DRI role for the shift. The DRI will be responsible for taking assignment of the first emergency. The non-DRIs will take concurrent emergencies as they come in.
 
@@ -46,7 +46,7 @@ An example DRI schedule is below. Note that AMER 2 is DRI for 30 minutes longer 
 
 ### Communicate
 
-When you get an alert, you should immediately use the PagerDuty message in Slack to start a thread and take notes therein. Tag the Customer Success Manager (CSM) - "cc @user" is good enough - if the customer has one (steps [here](/handbook/support/workflows/support-sales-escalations.html#role-customer-success-manager-csm) for how to identify CSMs). This creates visibility around the situation and opens the door to let the team join in.
+When you get an alert, you should immediately use the PagerDuty message in Slack to start a thread and take notes therein. Tag the Customer Success Manager (CSM) - "cc @user" is good enough - if the customer has one (steps [here](/handbook/support/workflows/support-sales-escalations#role-customer-success-manager-csm) for how to identify CSMs). This creates visibility around the situation and opens the door to let the team join in.
 
 Good notes in Slack help others follow along, and help you with your follow-ups after the call.
 
@@ -54,20 +54,20 @@ Try to communicate complete ideas rather than snippets of thought. Something lik
 
 Take and share screenshots of useful info the customer is showing you. Make sure you're not sharing anything sensitive. Let the customer know you're taking screenshots: "Could you pause there? I want to screenshot this part to share with my team".
 
-**Note:** You may sometimes be required to contact GitLab users on behalf of another GitLab team (such as the SIRT team). Please follow the [Sending Notices workflow](/handbook/support/workflows/sending_notices.html) to action these requests.
+**Note:** You may sometimes be required to contact GitLab users on behalf of another GitLab team (such as the SIRT team). Please follow the [Sending Notices workflow](/handbook/support/workflows/sending_notices) to action these requests.
 
 ### Determine if the situation qualifies as an emergency
 
 According to our [definition of Severity 1](https://about.gitlab.com/support/definitions/#severity-1) an emergency exists when a "GitLab server or cluster in production is not available, or otherwise unusable". In the event that the situation does not clearly qualify under the strict definition of emergency, an exception may be granted.
 
-We [assume positive intent](/handbook/values/#assume-positive-intent) and use our [criteria for exceptions](/handbook/support/workflows/emergency_exception_workflow.html#exception-criteria) in the [Emergency Exception Workflow](/handbook/support/workflows/emergency_exception_workflow.html) as a framework for understanding the business impact of situations customers raise. During any crisis, the customer may be stressed and have immense pressure on them. Later, after the crisis, if we've determined that the ticket didn't strictly qualify as an emergency, the CSM for the customer or a Support Manager can discuss that with the customer.
+We [assume positive intent](/handbook/values/#assume-positive-intent) and use our [criteria for exceptions](/handbook/support/workflows/emergency_exception_workflow#exception-criteria) in the [Emergency Exception Workflow](/handbook/support/workflows/emergency_exception_workflow) as a framework for understanding the business impact of situations customers raise. During any crisis, the customer may be stressed and have immense pressure on them. Later, after the crisis, if we've determined that the ticket didn't strictly qualify as an emergency, the CSM for the customer or a Support Manager can discuss that with the customer.
 
 | When you decide the request... | Then apply the Zendesk macro... | and communicate to the customer... |
 | ------------------------------ | ------------------------------- | ---------------------------------- |
 | ...meets the [definition of Severity 1](https://about.gitlab.com/support/definitions/#severity-1), | `General::Emergency::Strict Definition` | ...your plan to work the emergency. |
-| ...qualifies under one of our [exception criteria](/handbook/support/workflows/emergency_exception_workflow.html#exception-criteria), | `General::Emergency::Exception` | ...that the situation is being treated as an emergency as a courtesy. |
+| ...qualifies under one of our [exception criteria](/handbook/support/workflows/emergency_exception_workflow#exception-criteria), | `General::Emergency::Exception` | ...that the situation is being treated as an emergency as a courtesy. |
 | ...needs more information to allow us to determine whether it qualifies as an emergency, | `General::Emergency::Needs more info` | ...that you [will proceed asynchronously](#communicating-that-you-need-more-info) until that determination can be made. |
-| ...does not meet the criteria for an [emergency](https://about.gitlab.com/support/definitions/#severity-1) or an [exception](/handbook/support/workflows/emergency_exception_workflow.html#exception-criteria), | `General::Emergency::Not an Emergency` | ...that their situation [does not qualify for emergency service](#communicate-the-priority-downgrade). |
+| ...does not meet the criteria for an [emergency](https://about.gitlab.com/support/definitions/#severity-1) or an [exception](/handbook/support/workflows/emergency_exception_workflow#exception-criteria), | `General::Emergency::Not an Emergency` and `Downgrade emergency ticket` | ...that their situation does not qualify for emergency service. Follow the section [Handling an emergency downgrade](#handling-an-emergency-downgrade). |
 
 #### Communicating that you need more info
 
@@ -85,15 +85,20 @@ Once you have enough information to make a determination, use one of the other m
 
 #### Handling an emergency downgrade
 
-##### Change the ticket priority
+##### Apply "Downgrade emergency ticket" macro
 
-Using our [Definitions of support impact](https://about.gitlab.com/support/definitions/#definitions-of-support-impact),
-select the most appropriate actual priority for the ticket, and make the change
-to the ticket. If the customer submitted the emergency request related to an
-existing ticket, close the emergency ticket when you deliver the downgrade
-message, and be sure the existing ticket has the priority you selected.
+Applying the macro will lead to the following changes:
+- Form will be set to Self-Managed.
+- Priority will be set to High.
+- Ticket stage will be set to NRT.
 
-##### Communicate the priority downgrade
+Adjust the form depending on the ticket type and set the priority based on our
+[Definitions of support impact](https://about.gitlab.com/support/definitions/#definitions-of-support-impact).
+If the customer submitted the emergency request related to an existing ticket,
+close the emergency ticket when you deliver the downgrade message,
+and be sure the existing ticket has the priority you selected.
+
+##### Communicate the emergency downgrade
 
 It's important that we deliver the downgrade message as carefully and
 thoughtfully as possible. Customers who submit an emergency request are often
@@ -120,7 +125,7 @@ The important details to include in the message are:
 
 ### (Optional) Contact the on-call Support Manager
 
-If at any point you would like advice or help finding additional support, [contact the on-call Support Manager](/handbook/support/on-call/#paging-the-on-call-manager). The on-call manager is there to support you. They can locate additional Support Engineers if needed. This can make it easier to handle a complex emergency by having more than one person on the call, so you can share responsibilities (e.g., one person takes notes in Slack while the other communicates verbally on the call). Managers are on-call during weekends, so you can page for help at any time.
+If at any point you would like advice or help finding additional support, [contact the on-call Support Manager](/handbook/support/on-call/#engaging-the-on-call-manager). The on-call manager is there to support you. They can locate additional Support Engineers if needed. This can make it easier to handle a complex emergency by having more than one person on the call, so you can share responsibilities (e.g., one person takes notes in Slack while the other communicates verbally on the call). Managers are on-call during weekends, so you can page for help at any time.
 
 ### Respond to PagerDuty alerts
 
@@ -164,23 +169,32 @@ In rare cases, the on-call engineer may experience concurrent emergencies trigge
 1. **Support Manager**: In Slack, ping the regional support group (*e.g.* `@support-team-americas`) and request assistance from anyone who is available to assist with the new incoming emergency case.
 1. **Second Support Engineer**: Acknowledge and resolve the emergency page to indicate that you are assisting the customer with the case.
 
-#### FY23Q4-FY24Q1 Trial - Backup engineers on weekends in APAC
+#### Backup engineers on weekends in APAC
 
-[(RFC) Dealing with concurrent emergencies over the weekend in APAC STM#4583](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4583) observed an increase of concurrent emergencies over the weekend period. In APAC, the team will trial a pool of Support Engineers volunteering as **backup engineers**. This pool is independent of the existing escalation policies in Pagerduty, as outlined:
+Concurrent emergencies are anticipated to become more frequent over weekends. There is active discussion with the APAC managers on
+the next iteration of emergency coverage but as a stop gap solution, the APAC Support team have a backup pool of Support Engineers
+that can be paged by the Manager on call to assist with simultaneous emergencies if needed.
+
+Support Engineers participating in the backup pool are referred to as **backup engineers** and are strictly on a volunteer basis.
+
+This pool is independent of the existing escalation policies in Pagerduty, as outlined:
 
 ```text
 Pool 1: On call engineer -> Support Manager on call -> Directors
 Pool 2: Backup engineers
 ```
 
+Changes to the backup policy (including adding/removing members) can be made by Support Managers and Support Engineers by creating an issue within the PagerDuty project using the
+[Edit an existing escalation policy](https://gitlab.com/gitlab-com/support/support-ops/other-software/pagerduty/-/blob/master/.gitlab/issue_templates/Edit%20an%20existing%20escalation%20policy.md?ref_type=heads) issue template.
+
 *For further details, please refer to [STM#4583](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4583).*
 
 ##### Escalate to initiate page to backup engineers
 
-During FY23Q4-FY24Q1 in APAC, in the event that a concurrent emergency comes through while you are still working on the current emergency:
+In the event that a concurrent emergency comes through while you are still working on the current emergency:
 
 1. **You**: **Escalate** the page, instead of acknowledging/resolving it. The Support Manager is responsible for finding an engineer to own the new emergency page.
-1. **Support Manager**: Assess the situation. It's possible to [initiate a page of the backup pool](/handbook/support/workflows/support_manager-on-call.html) to request assistance from backup engineers if the situation calls for it.
+1. **Support Manager**: Assess the situation. It's possible to [initiate a page of the backup pool](/handbook/support/workflows/support_manager-on-call) to request assistance from backup engineers if the situation calls for it.
 1. **Backup Support Engineer**: Acknowledge and resolve the emergency page to indicate that you are assisting the customer with the case.
 
 ### Situations that Might or Might not Be Emergencies
@@ -196,7 +210,7 @@ If this situation arises during the weekend:
 - Handle the page as a `high` priority ticket that requires an immediate response. Work with the customer to try to resolve or mitigate the issue before it becomes an emergency.
 - If you are actively engaged with another emergency, [contact the on-call Support Manager](/handbook/support/on-call/#paging-the-on-call-manager) to request assistance. They will assist the customer or work to find another Support Engineer to handle the ticket as a `high` priority that requires an immediate response.
 
-See more examples of [situations that might be emergencies](/handbook/support/workflows/emergency_exception_workflow.html#examples-of-situations-that-might-or-might-not-qualify-for-an-exception) and [situations that are not emergencies](/handbook/support/workflows/emergency_exception_workflow.html#situations-that-are-not-emergencies).
+See more examples of [situations that might be emergencies](/handbook/support/workflows/emergency_exception_workflow#examples-of-situations-that-might-or-might-not-qualify-for-an-exception) and [situations that are not emergencies](/handbook/support/workflows/emergency_exception_workflow#situations-that-are-not-emergencies).
 
 ### Taking an emergency customer call
 
@@ -221,10 +235,10 @@ For example:
 
 When the call has ended:
 
-1. Write post-call notes (using macro [`Support::Self-Managed::Post Customer Call`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360028010274)) relevant to the customer in a public reply on the ticket.
+1. Write post-call notes (using macro [`Support::Customer Calls::Call Completed - Summary`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360028010274)) relevant to the customer in a public reply on the ticket.
 1. Add all relevant internal-only information as an internal note on the ticket.
 1. Tag the next on-call engineer in the emergency's Slack thread.
-1. Review the guidance in the general [On-call - Ending your on-call shift](/handbook/support/on-call/index.html#ending-your-on-call-shift) section and follow the relevant steps.
+1. Review the guidance in the general [On-call - Ending your on-call shift](/handbook/support/on-call/index#ending-your-on-call-shift) section and follow the relevant steps.
 
 #### When the customer incident is not resolved
 
@@ -236,7 +250,7 @@ For example:
 
 When the call has ended:
 
-1. Write post-call notes (using macro [`Support::Self-Managed::Post Customer Call`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360028010274)) relevant to the customer in a public reply on the ticket.
+1. Write post-call notes (using macro [`Support::Customer Calls::Call Completed - Summary`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360028010274)) relevant to the customer in a public reply on the ticket.
 1. Add all relevant internal-only information as an internal note on the ticket.
 1. Tag the next on-call engineer in the emergency's Slack thread.
 1. Merge into non-emergency ticket to consolidate and link everything.
@@ -249,7 +263,7 @@ As soon as the customer incident is resolved, mark the emergency ticket as solve
    1. Add an internal comment linking to the (solved) emergency ticket.
    1. Add an internal comment in the emergency ticket, linking to this ticket as the follow-up ticket.
    1. Check that the priority of the follow-up ticket fits.
-   1. Write post-call notes (using macro [`Support::Self-Managed::Post Customer Call`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360028010274)) relevant to the customer in a public reply on the follow-up ticket.
+   1. Write post-call notes (using macro [`Support::Customer Calls::Call Completed - Summary`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360028010274)) relevant to the customer in a public reply on the follow-up ticket.
   - Be sure to let the customer know that follow up work will continue in this ticket.
 
 - **Option 2: There is no related ticket:**
@@ -282,8 +296,8 @@ Your primary job is to coordinate the emergency response. That could mean:
 
 It could *equally* mean:
 
-- [identifying other experts](/handbook/support/workflows/how-to-get-help.html#expand-to-support-pods-and-other-subject-matter-experts) on the Support team to help do the above
-- [reaching out to development teams](/handbook/support/workflows/how-to-get-help.html#how-to-find-the-correct-development-section-and-group-to-reach-out-for-help) to find a subject matter expert (SME)
+- [identifying other experts](/handbook/support/workflows/how-to-get-help#expand-to-support-pods-and-other-subject-matter-experts) on the Support team to help do the above
+- [reaching out to development teams](/handbook/support/workflows/how-to-get-help#how-to-find-the-correct-development-section-and-group-to-reach-out-for-help) to find a subject matter expert (SME)
 - suggesting that the customer reach out to additional experts on their side (for example, if the problem is slow storage, you might suggest getting someone from their storage team)
 
 Remember to say only things that help the customer and that maintain their confidence in you as the person in charge of getting their problem resolved. When you're not sure what to do, you might also be unsure what to say. Here are some phrases that might help:
@@ -300,15 +314,15 @@ If you are still stuck *and* are having difficulty finding help, contact the [ma
 
 ### Triggering a Developer Escalation
 
-On rare occasions, you and the manager on-call may decide it's necessary to initiate the [developer escalation process](https://about.gitlab.com/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#escalation-process) to get the needed developer input. Keep in mind that the developer who takes the escalation might not be familiar with the aspect of GitLab that is the focus of the emergency, and it can take them time to get up to speed.
+On rare occasions, you and the manager on-call may decide it's necessary to initiate the [developer escalation process](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#escalation-process) to get the needed developer input. Keep in mind that the developer who takes the escalation might not be familiar with the aspect of GitLab that is the focus of the emergency, and it can take them time to get up to speed.
 
-To trigger a developer escalation, see [this process outline](https://about.gitlab.com/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#process-outline).
+To trigger a developer escalation, see [this process outline](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#process-outline).
 
 ## License Emergencies
 
 ### During the week
 
-For license emergencies during the week, reach out to [`#support_licensing-subscription`](https://gitlab.slack.com/archives/C018C623KBJ) and ask for an expert there to handle the case. Ping the current [Support Manager On-call](/handbook/support/workflows/support_manager-on-call.html) in your request so they can ensure it gets picked up. Once pinged, the Support Manager On-call is the DRI for ensuring the emergency gets handled.
+For license emergencies during the week, reach out to [`#support_licensing-subscription`](https://gitlab.slack.com/archives/C018C623KBJ) and ask for an expert there to handle the case. Ping the current [Support Manager On-call](/handbook/support/workflows/support_manager-on-call) in your request so they can ensure it gets picked up. Once pinged, the Support Manager On-call is the DRI for ensuring the emergency gets handled.
 
 ### On a weekend
 
@@ -318,17 +332,20 @@ There may be times when a customer's subscription expires **over the weekend**, 
 
 For non-trial subscriptions, you can remind the customer that subscriptions have [a 14-day grace period](https://about.gitlab.com/pricing/licensing-faq/#what-happens-when-my-subscription-is-about-to-expire-or-has-expired). If the grace period will still be active on the next business day, kindly let the user know that their request will be handled as a standard L&R case during normal business hours. You should close the emergency ticket and ask the customer to open a [new L&R ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000071293) in case one doesn't exist yet.
 
-Otherwise, use the `Mechanizer` app on the ticket to resolve the situation via the [`Emergency License Generation`](https://handbook.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/mechanizer/#emergency-license-generation) option.
+Otherwise, follow the [Self-Managed Weekend Emergencies - License Request](/handbook/support/license-and-renewals/workflows/self-managed/license_for_weekend_emergencies/) workflow.
 
 #### SaaS Subscription Emergencies
 
+##### Subscription expired and downgraded to Free
+
 A customer may be blocked because of a license expiring or neglecting to apply a renewal. If this happens over the weekend:
 
-1. Look up the namespace details using [chatops](https://about.gitlab.com/handbook/support/workflows/chatops.html#namespace) or a GitLab.com Admin account via the namespaces API (https://gitlab.com/api/v4/namespaces/<NAMESPACE>)
+1. Look up the namespace details using [chatops](/handbook/support/workflows/chatops#namespace) or a GitLab.com Admin account via the namespaces API (https://gitlab.com/api/v4/namespaces/<NAMESPACE>)
 1. Check the `Trial ends on` date.
     - If it has a date, you will not need to provide a `Subscription Name` in the next step. Proceed to step 3.
     - If it is empty or null **and the namespace is on a Free plan**, guide the customer to navigate to the Settings -> Billing page and click on `Start a Free Ultimate trial`.
-1. In the `Mechanizer` app on the ticket use the [`Manage GitLab Plan and Trials`](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html#manage-gitlabcom-plan-and-trials) option to resolve the situation.
+1. In the ticket, apply the `Trial Subscription - Exclusions Sign Off` macro and send the generated message to the customer. Do not proceed further until the customer has provided a **written** response confirming they understand the trial subscription exclusions.
+1. In the `Mechanizer` app on the ticket use the [`Manage GitLab Plan and Trials`](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer#manage-gitlabcom-plan-and-trials) option to resolve the situation.
     - Enter the namespace path.
     - Select the Plan the customer had initially purchased, or use `Ultimate` if you do not have this information.
     - Set the end date to 10 days later.
@@ -337,9 +354,23 @@ A customer may be blocked because of a license expiring or neglecting to apply a
     - Click `Submit request`.
 1. Wait for the pipeline to complete and check the output of Mechanizer in the [Internal Requests issue tracker](https://gitlab.com/gitlab-com/support/internal-requests/-/issues) where Mechanizer will have automatically assigned you to a new issue.
     - If it is successful, proceed to the next step.
-    - If there are any failures, please see [Problems extending trials](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change.html#problems-extending-trials) for some troubleshooting steps.
+    - If there are any failures, please see [Problems extending trials](/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change#problems-extending-trials) for some troubleshooting steps.
 1. When the customer confirms, close the emergency ticket.
 1. Alert [`#support_licensing-subscription`](https://gitlab.slack.com/archives/C018C623KBJ) by linking to the ticket for follow-up.
+
+##### Multi-year subscriptions
+
+- **Note:** Refer to [Handling multi-year subscriptions](/handbook/support/license-and-renewals/workflows/self-managed/handling_multi-years_subscription/) for Self Managed licensing.
+
+Some legacy-type subscriptions are called "multi-year" but are actually multiple, separate subscriptions sold up front to cover a multi-year period.  When a customer has a deal like this, each anniversary of the renewal requires that the next subscription be associated, or else the customer's namespace can fall back to `Free`. If this occurs, send the customer the following steps.
+
+1. Ask the customer to login to the [Customers Portal](https://docs.gitlab.com/ee/subscriptions/customers_portal.html) located at https://customers.gitlab.com/customers/sign_in for subscription management.
+1. Follow these [steps to ensure their GitLab.com account is linked](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#change-the-linked-account).
+1. Follow these [steps to update the linked namespace](https://docs.gitlab.com/ee/subscriptions/gitlab_com/index.html#change-the-linked-namespace).
+
+If a customer is an [Unlinked CustomersDot account](https://handbook.gitlab.com/handbook/support/license-and-renewals/workflows/troubleshoot_purchases_on_gitlab/#unlinked-customersdot-account-for-purchases-via-sales) and you need to act on their behalf, you can try [Force Association of the subscription](https://handbook.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/mechanizer#force-associate) as a workaround.
+
+If neither of the above resolves the issue for the customer, [contact the on-call Support Manager](#optional-contact-the-on-call-support-manager) requesting further guidance.
 
 ## SaaS Emergencies
 
@@ -359,8 +390,8 @@ During a SaaS Emergency, you have additional visibility into problems that a cus
 
 Review:
 
-- [Using Kibana](/handbook/support/workflows/kibana.html) - explore GitLab.com log files to find the errors customers are encountering.
-- [Using Sentry](/handbook/support/workflows/sentry.html) - get access to the full stacktrace of errors a customer might encounter.
+- [Using Kibana](/handbook/support/workflows/kibana) - explore GitLab.com log files to find the errors customers are encountering.
+- [Using Sentry](/handbook/support/workflows/sentry) - get access to the full stacktrace of errors a customer might encounter.
 
 We're expecting, broadly that emergencies will fall into one of five categories:
 
@@ -369,7 +400,7 @@ We're expecting, broadly that emergencies will fall into one of five categories:
 - **broken functionality due to an inconsistency in data unique to the customer**, for example: a group name used to be able to have special characters in it, and now something broke because our group name has a special character in it.
   - Success may mean reproducing the error, identifying it Sentry/Kibana, escalating to have the specific data corrected (and creating a bug report so our code is better)
 - **GitLab.com access or "performance" degradation to the level of unusability**, for example: no access in a geographical area, CI jobs aren't being dispatched. This is the hardest class, but will generally be operational emergencies.
-  - Success here means making sure it's not actually one of the top two before [declaring an incident](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#report-an-incident-via-slack) and letting the SRE team diagnose and correct the root cause.
+  - Success here means making sure it's not actually one of the top two before [declaring an incident](/handbook/engineering/infrastructure/incident-management/#report-an-incident-via-slack) and letting the SRE team diagnose and correct the root cause.
 
 - **License / Consumption issues are preventing access to the product**
   - Success here means getting the customer into a state where they're unblocked and making sure the license team is equipped to take the handover.
@@ -390,9 +421,9 @@ If a customer is reporting that behaviour has recently changed, first check [Git
 
 1. Create a `~"type::bug"` issue and have the customer review it.
 1. Escalate the `~"type::bug"` issue
-   - If it's a new bug, or a bug with [S1/S2 severity](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity) escalate using the [InfraDev Escalation Process](https://about.gitlab.com/handbook/engineering/development/processes/Infra-Dev-Escalation/). In most cases we will generate a roll-back patch and apply it to Gitlab.com.
-   - If it's a feature flag, work with the who turned it on to [disable it through ChatOps](https://docs.gitlab.com/ee/development/feature_flags/controls.html#disabling-feature-flags). In some cases, you may need to use the [InfraDev Escalation Process](https://about.gitlab.com/handbook/engineering/development/processes/Infra-Dev-Escalation/) to raise a developer.
-1. If this is affecting multiple customers, [declare an incident](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#report-an-incident-via-slack) to engage the incident response team who will update the status page.
+   - If it's a new bug, or a bug with [S1/S2 severity](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity) escalate using the [InfraDev Escalation Process](/handbook/engineering/development/processes/Infra-Dev-Escalation/). In most cases we will generate a roll-back patch and apply it to GitLab.com.
+   - If it's a feature flag, work with the who turned it on to [disable it through ChatOps](https://docs.gitlab.com/ee/development/feature_flags/controls.html#disabling-feature-flags). In some cases, you may need to use the [InfraDev Escalation Process](/handbook/engineering/development/processes/Infra-Dev-Escalation/) to raise a developer.
+1. If this is affecting multiple customers, [declare an incident](/handbook/engineering/infrastructure/incident-management/#report-an-incident-via-slack) to engage the incident response team who will update the status page.
 1. Once the original functionality is restored, update the customer.
 
 #### Broken functionality due to something specific to the customer
@@ -401,7 +432,7 @@ If a customer is reporting that behaviour has recently changed, first check [Git
 
 #### Broken functionality due to an incident
 
-If there is a known incident, it's acceptable to link to the public status page and related incident issue. Consider using [`Support::SaaS::Incident First Response`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/Support/SaaS/Incident%20First%20Response.yaml).
+If there is a known incident, it's acceptable to link to the public status page and related incident issue. Consider using [`Support::SaaS::Gitlab.com::Incident First Response`](https://gitlab.com/gitlab-com/support/zendesk-global/macros/-/blob/master/active/Support/SaaS/GitLab.com/Incident%20First%20Response.md?ref_type=heads).
 
 #### Example tickets
 
@@ -416,7 +447,7 @@ If there is a known incident, it's acceptable to link to the public status page 
 A customer may be blocked because they have run out of compute minutes.
 
 1. Advise them to purchase additional compute minutes or set up individual runners.
-1. At your discretion, as a courtesy, [set an additional 1000 compute minutes on their namespace through ChatOps](/handbook/support/workflows/chatops.html#setting-additional-minutes-quota-for-a-namespace)
+1. At your discretion, as a courtesy, [set an additional 1000 compute minutes on their namespace through ChatOps](/handbook/support/workflows/chatops#setting-additional-minutes-quota-for-a-namespace)
 
 #### Customer has exceeded their storage quota
 
@@ -436,8 +467,8 @@ Success in such a situation is two-fold:
 If this occurs:
 
 1. Don't panic! Slack and PD alerts may come quickly and frequently. Consider silencing both temporarily and focus on ZD.
-1. Verify that an [incident has been declared](https://about.gitlab.com/handbook/support/workflows/cmoc_workflows.html#how-are-incidents-declared) and that the incident is actively being worked.
-1. If there is no update on the status page yet, advocate for urgency with the [CMOC](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#communications-manager-on-call-cmoc-responsibilities) so that you can point to it in responses.
+1. Verify that an [incident has been declared](/handbook/support/workflows/cmoc_workflows#how-are-incidents-declared) and that the incident is actively being worked.
+1. If there is no update on the status page yet, advocate for urgency with the [CMOC](/handbook/engineering/infrastructure/incident-management/#communications-manager-on-call-cmoc-responsibilities) so that you can point to it in responses.
 1. Choose a unique tag that will help you identify tickets, using the incident number would be typical. For example: `incident-12345`
 1. Create a bulk response that points to the incident on the status page, `@gitlabstatus` on Twitter and the production issue. If any of these aren't available yet, you can send a response without to keep customers informed. You can include them in a future update.
    - Share the response that you draft or otherwise coordinate with `#support_gitlab-com` and others fielding first responses. There are likely non-emergency tickets being raised about the incident. Using the same response increases the efficiency with which we can all respond to customer inquiries about the problem.
@@ -474,26 +505,43 @@ You can bulk edit tickets by:
 
 1. Click Submit with the appropriate status change
 
-![ZD Bulk Update View](/images/support/zd-bulk-update.png){: .shadow}
+![ZD Bulk Update View](/images/support/zd-bulk-update.png)
 
-## US Federal Emergencies
+## US Government On-call
 
-US Federal on-call support is provided 7 days a week between the hours of 0500 and 1700 Pacific Time.
+US Government on-call support is provided 7 days a week between the hours of 0500 and 1700 Pacific Time for [severity one](https://about.gitlab.com/support/definitions/#severity-1) issues that arise with premium and ultimate customers who have purchased 12x5 US Gov support. Customers who have opted for the 24x7 ultimate for high and emergency coverage can page at any time.
 
-The current on-call schedule can be viewed in [PagerDuty](https://gitlab.pagerduty.com/schedules#P89ZYHZ)(Internal Link), or in the [Support Team on-call page](https://gitlab-com.gitlab.io/support/team/oncall.html)(GitLab Employees only). The schedule is currently split into two, 6 hour shifts, an AM and a PM shift. The AM shift starts at 0500 Pacific Time and runs until 1100 Pacific Time. The PM shift starts at 1100 Pacific Time and runs until 1700 Pacific Time.
+The current on-call schedule can be viewed in [PagerDuty](https://gitlab.pagerduty.com/schedules#P89ZYHZ)(Internal Link), or in the [Support Team on-call page](https://gitlab-com.gitlab.io/support/team/oncall.html)(GitLab Employees only). The schedule is currently split into three, 8 hour shifts which roughly correlate with the dayshift, evening, and overnight team member hours:
 
-Customers are permitted to submit emergencies via email or via the emergency form in the US Federal support portal.
+- Dayshift: 05:00 - 13:00 PT
+- Evenings: 13:00 - 21:00 PT
+- Overnight: 21:00 - 05:00 PT
+
+Customers are permitted to submit emergencies via email or via the emergency form in the US Government support portal.
 
 #### Emergencies outside on-call hours
 
-If a customer submits an emergency case outside the [working hours of Federal Support](https://about.gitlab.com/support/us-federal-support/#hours-of-operation) the following will occur:
+If a non-24x7 eligible customer submits an emergency case outside the [working hours of Government Support](https://about.gitlab.com/support/us-government-support/#hours-of-operation) the following will occur:
 
-- A slack notification will trigger in the #spt_us-federal channel alerting the team to an off hours emergency and indicating follow-up is needed at the start of business hours
-- The `Off hours emergency request` trigger will inform the ticket submitter that it is after hours and give them the option to either create an emergency case in Global support or wait for US Federal support to follow-up at the next start of business hours.
+- A slack notification will trigger in the #spt_us-government channel alerting the team to an off hours emergency and indicating follow-up is needed at the start of business hours
+- The `Off hours emergency request` trigger will inform the ticket submitter that it is after hours and give them the option to either create an emergency case in Global support or wait for US Government support to follow-up at the next start of business hours.
+
+##### Responding to after hours emergencies
+
+Team members who are working after the 12x5 hours may opt to provide support for customers who are having a production incident at the engineer's own discretion. When addressing these it is important to ensure the following is clear with the customer:
+
+   - They are not entitled to 24x7 support based on their subscription
+   - Emergency support is being provided as a one off exception based on the engineer's availability and future after hours support is not guaranteed
+
+The responding engineer should also add their manager as a follower and indicate in an internal note that after hours support is being provided. This will help ensure the appropriate follow-up occurs with the customer's account team.
+
+#### US Gov Emergencies in Global
+
+US Government customers with 12x5 support packages are permitted to use the global support portal for after hours emergencies if their organization's policies permit interacting and sharing information with non-US citizens. The US Gov support team **cannot confirm or deny** whether a specific case belongs to a user or organization entitled to US Government support. There is no requirement or restriction on who can reply to emergencies filed in the global support portal. If a user asks for a US citizen please remind them they are using the global support portal where US citizenship is not guaranteed and let them know if that is a requirement they should use the US Government Support portal for future communication instead.
 
 ## GitLab Dedicated Emergencies
 
-Emergencies from [GitLab Dedicated](https://docs.gitlab.com/ee/subscriptions/gitlab_dedicated/) come through the Customer Emergency On Call rotation. The [GitLab Dedicated Handbook](/handbook/support/workflows/dedicated.html) has information about [working with logs](/handbook/support/workflows/dedicated_logs.html) and a section on [escalating emergency issues](/handbook/support/workflows/dedicated.html#escalating-an-emergency-issue).
+Emergencies from [GitLab Dedicated](https://docs.gitlab.com/ee/subscriptions/gitlab_dedicated/) come through the Customer Emergency On Call rotation. The [GitLab Dedicated Handbook](/handbook/support/workflows/dedicated) has information about [working with logs](/handbook/support/workflows/dedicated_logs) and a section on [escalating emergency issues](/handbook/support/workflows/dedicated#escalating-an-emergency-issue).
 
 ## Special handling notes
 

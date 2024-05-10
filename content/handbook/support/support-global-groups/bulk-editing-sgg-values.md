@@ -15,7 +15,7 @@ Engineer changing to a new group would find this useful.
 
 To get a listing in Zendesk of all of your tickets that are not assigned to your
 group, the best way is to
-[search in Zendesk](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/searching/).
+[search in Zendesk](/handbook/support/readiness/operations/docs/zendesk/searching/).
 
 ### Ready-to-use query links
 

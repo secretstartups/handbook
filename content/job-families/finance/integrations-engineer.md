@@ -1,7 +1,7 @@
 ---
 title: "Integrations Engineering"
 ---
-The Integrations Engineering job family is responsible for ownership and delivery of the core services and APIs that serve as an enterprise data backbone, using an array of different platforms, APIs, databases, protocols and data formats to ensure that the data and the business processes that intersect in the Enterprise Applications Ecosystem are as efficient and high fidelity as possible. Integrations Engineering works to align Gitlab's Enterprise Architecture by building and maintaining key integrations that connect the GitLab Enterprise Application Ecosystem, from the GitLab product ecosytem to cloud systems.
+The Integrations Engineering job family is responsible for ownership and delivery of the core services and APIs that serve as an enterprise data backbone, using an array of different platforms, APIs, databases, protocols and data formats to ensure that the data and the business processes that intersect in the Enterprise Applications Ecosystem are as efficient and high fidelity as possible. Integrations Engineering works to align GitLab's Enterprise Architecture by building and maintaining key integrations that connect the GitLab Enterprise Application Ecosystem, from the GitLab product ecosytem to cloud systems.
 
 ## Responsibilities
 
@@ -26,7 +26,7 @@ The Integrations Engineer develops core services and APIs that serve as an enter
 
 ### Job Grade
 
-The Integrations Engineer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Integrations Engineer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -47,7 +47,7 @@ The Senior Integrations Engineer is the owner of core services and APIs that ser
 
 ### Job Grade
 
-The Senior Integrations Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Integrations Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -73,11 +73,12 @@ The Senior Integrations Engineer shares the same responsibilities outlined above
 
 ## Manager, Integrations Engineering
 
-The Manager, Integrations Engineering reports to the [Senior Director, Enterprise Applications](https://about.gitlab.com/job-families/finance/senior-director-enterprise-applications/)
+The Manager, Integrations Engineering reports to the Senior Manager, Integrations Engineering
+
 
 ### Job Grade
 
-The Manager, Integrations Engineering is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Integrations Engineering is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Manager, Integrations Engineering Responsibilities
 
@@ -97,13 +98,53 @@ The Manager, Integrations Engineering is a [grade 8](https://about.gitlab.com/ha
 - Experience as owning a portion of system delivery for business function as a Business Technology partner.
 - 5-7 years of experience in an integration engineering or full stack engineer role ideally with an enterprise SaaS software model company.
 
-## Senior Manager, Integrations Engineering
+## Manager, Robotics Process Automation (RPA)
 
-Senior Manager, Integrations Engineering reports to the [Senior Director, Enterprise Applications](https://about.gitlab.com/job-families/finance/senior-director-enterprise-applications/)
+The Manager, Integrations Engineering reports to the Senior Manager, Integrations Engineering
 
 ### Job Grade
 
-The Senior Manager, Integrations Engineering is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Integrations Engineering is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### Manager, Robotics Process Automation (RPA) Responsibilities
+
+
+- business Operations: Build, maintain, automate manual & repetitive processes to more efficiently deliver for our business partners. All processes should be documented in the handbook.
+- Technical Delivery: Drive end to end delivery processes with minimal guidance.
+- Project Management: Run medium-sized projects that improve our ability to make better data driven insights or make the company more efficient.
+- Communication: Target audience Sr. Manager, Director, Sr. Director and functional VP.
+- Communicate and document technical details clearly to various stakeholders of different technical capabilities (VP of IT, Sales Operations, Software Engineer)
+- Ensure that RPA Automations are designed and implemented as reusable building block in alignment Enterprise Architecture & COE
+
+### Manager, Robotics Process Automation (RPA)
+
+
+- Bachelor’s degree, preferably in Computer Science, Information Technology, Computer Engineering, or related IT discipline; or equivalent experience.
+- 5+ years of Ui Path experience and Strong proficiency in Ui Path Studio, Robots, Orchestrator, Automation Hub and other UI Path products
+- In-depth knowledge of RPA concepts, best practices, design patterns, frameworks & error management
+- Hands-on experience in designing and deploying RPA Solutions with Ui Path.
+- Hands-on Automation experience across enterprise systems: SalesForce, Netsuite, Zuora Billing,Zuora Revenue, Coupa, Zip, Navan, Workday, ADP, eTrade etc.
+- Experience as UiPath Solution Architect or UiPath Senior Engineer in a mature, large-scale automation center of excellence (COE) Preferred
+- Experience in Agile, CI/CD, DevOps practices and SOX environment
+- Experience in building & enhancing RPA microsoft infrastructure
+- Familiarity with cloud-based technologies, such as AWS, Azure, or Google Cloud Platform
+- Strong proficiency in data querying languages (SQL), programming languages (Python, R), and data visualization tools.
+- Skilled in working with security standards & protocols like SAML,OAuth, etc.
+- Skilled in working with various integration patterns and technologies such as REST, SOAP, JSON, XML, and other data formats
+- Collaborate with peers to write, review, and provide feedback on technical design proposals and participate in and contribute to code/configuration reviews. Partner with Enterprise Apps team for QA to ensure scalable tests, release plans and end user documentation
+- Be a self-starter, and thrive in a fast paced environment, customer centric and have the interpersonal skills necessary to manage business and technology relationships.
+- Exceptional time management and prioritization skills, resilient under pressure, able to meet deadlines and able to work in a constantly changing environment.
+- Exhibit strong security and confidentiality practices with systems that handle sensitive data.
+- Multiple Ui Path certifications highly preferred
+
+
+## Senior Manager, Integrations Engineering
+
+Senior Manager, Integrations Engineering reports to the [Senior Director, Enterprise Applications](/job-families/finance/senior-director-enterprise-applications/)
+
+### Job Grade
+
+The Senior Manager, Integrations Engineering is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior Manager, Integrations Engineering Responsibilities
 
@@ -138,8 +179,8 @@ The Senior Manager, Integrations Engineering is a [grade 9](https://about.gitla
 
 ### Performance Indicators
 
-- [Evaluating System or Process Efficiency](https://about.gitlab.com/handbook/business-technology/metrics/#evaluating-system-or-process-efficiency)
-- [Average Merge Request](https://about.gitlab.com/handbook/business-technology/metrics/#average-merge-request)
+- [Evaluating System or Process Efficiency](https://internal.gitlab.com/handbook/it/it-performance-indicators/#evaluating-system-or-process-efficiency)
+- [Average Merge Request](https://internal.gitlab.com/handbook/it/it-performance-indicators/#average-merge-request)
 - Evaluating health of integrations
 - Number of integrations implemented that increase the efficiency of the company
 - Total hours saved by improving systems integrations
@@ -152,9 +193,9 @@ The next step in the Integrations Engineering job family is to move a higher lev
 
 ## Hiring Process
 
-- Selected candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Global Recruiters.
+- Selected candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to a 45 minute interview with a senior member of the team.
 - Second round interviews will involve interviews with 2 members of the Data Team and/or others.
 - Third round interview is with the Senior Director of Enterprise Applications.
 - At final stage candidates will meet with the VP of Information Technology.
-- Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+- Additional details about our process can be found on our [hiring page](/handbook/hiring/).

@@ -7,7 +7,7 @@ You might describe yourself as inquisitive, creative, organized, and curious. Yo
 
 ### Job Grade
 
-The Marketing Program Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Marketing Program Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -42,7 +42,7 @@ The Marketing Program Manager is a [grade 6](https://about.gitlab.com/handbook/t
 
 ### Job Grade
 
-The Senior Marketing Program Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Marketing Program Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 

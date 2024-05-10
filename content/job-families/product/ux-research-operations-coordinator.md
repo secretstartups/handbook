@@ -35,22 +35,24 @@ The UX Research Operations Coordinator (Intermediate) reports to a [UX Research 
 
 #### Job Grade
 
-The UX Research Operations Coordinator (Intermediate) is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The UX Research Operations Coordinator (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### UX Research Operations Coordinator (Intermediate) Responsibilities
 
 - Manage all aspects of participant recruitment for user experience research studies, including but not limited to: recruiting from multiple sources, outreach, screening, scheduling, participation agreements, privacy, and incentives management.
 - Identify team needs and gaps. Continuously examine, experiment, and measure improvements to our research operations and processes.
-- Grow, foster, and administer new participant panels, along with our existing panel, [GitLab First Look](https://about.gitlab.com/community/gitlab-first-look/).
+- Grow, foster, and administer new participant panels.
 - Maintain UX research operations handbook documentation with accurate, standardized, and transparent processes and procedures.
-- Use our databases to filter and screen participants.
-- Create and manage libraries of screeners for team members to use.
+- Create, document and follow our recruitment best practices and use the most appropriate databases / tools to filter and screen participants.
+- Create and manage libraries of templates for team members to use, for example, but not limited to, recruitment screeners, issue templates, email templates.
+- Manage Research Operations budget / credits allocated by tracking and forecasting spending on incentives, credits spent on studies, and working with the UX Research Manager to adjust accordingly.
 - Collaborate with Product Designers, Product Managers, and UX Researchers to effectively understand their research recruitment needs and to drive their requests to successful completion.
-- Proactively and routinely use social media to showcase UX Research insights and solutions to the wider GitLab community.
 - Manage relationships with third-party providers, such as recruitment platforms, digital rewards solutions, etc.
 - Respond to inquiries from research participants.
 - Monitor progress of research operations by creating, maintaining, and communicating monthly reports on key data points such as: budget, number of participants by research study type, forecasting, and other metrics.
-- Administration of our research toolsets:  Qualtrics, UserTesting.com, Dovetail, Respondent, Rybbon, etc.
+- Keep training materials and handbook instructions for Study DRIs / UX Researchers up to date, so they adhere to best practices when conducting their own recruitment.
+- Administration of our research toolsets:  Qualtrics, UserTesting.com, Dovetail, Respondent, Rybbon, Rally, etc.
+- Work with Procurement, Legal and Security, on onboarding new tools, payments of POs, contract renewals etc.
 
 #### UX Research Operations Coordinator (Intermediate) Requirements
 
@@ -68,7 +70,7 @@ The Senior UX Research Operations Coordinator reports to a [UX Research Manager]
 
 #### Senior UX Research Operations Coordinator Job Grade
 
-The UX Research Operations Coordinator is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The UX Research Operations Coordinator is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior UX Research Operations Coordinator Responsibilities
 
@@ -76,7 +78,7 @@ The UX Research Operations Coordinator is a [grade 7](https://about.gitlab.com/h
 - Proactively identify, build, and streamline processes that result in efficient research operations.
 - Proactively solicit requirements and feedback from Product Designers, Product Managers, and UX Researchers to further optimize research operations.
 - Act as the strategic owner of our research participant panels, advancing their overall health, growth, and usage within GitLab.
-- Establish, drive, and/or identify social events to grow our participant panel.
+- Working with the relevant teams to establish, drive, and/or identify social events to grow our participant panel.
 - Be the social media ambassador for UX Research at GitLab. Maintain social media accounts that promote our research efforts and aid participant recruitment.
 - Formalize the research operations coordination effort into a program of work with extensive processes and documentation to improve visibility and increase efficiency.
 - Define and deliver on a UX research operations roadmap that improves efficiency and addresses gaps.
@@ -87,23 +89,18 @@ The UX Research Operations Coordinator is a [grade 7](https://about.gitlab.com/h
 - Extends the UX Research Operations Coordinator (Intermediate) requirements.
 - Experience in UX Research Operations Coordination or a related role that involves administration and coordination.
 
-## Performance Indicators
-
-- [Perception of System Usability](https://about.gitlab.com/handbook/product/ux/performance-indicators/#perception-of-system-usability)
-- [Proactive vs Reactive UX Work](https://about.gitlab.com/handbook/product/ux/performance-indicators/#ratio-of-proactive-vs-reactive-ux-work)
-
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Selected candidates will be invited to schedule a 30-minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters. In this call, we will discuss your experience, understand what you are looking for in a UX Research Operations Coordinator role, discuss your compensation expectations and reasons why you want to join GitLab, and answer any questions you have.
+- Selected candidates will be invited to schedule a 30-minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters. In this call, we will discuss your experience, understand what you are looking for in a UX Research Operations Coordinator role, discuss your compensation expectations and reasons why you want to join GitLab, and answer any questions you have.
 - After that, we'll invite you to create a 90-day plan in the form of a slide deck using this [template](https://docs.google.com/presentation/d/1FTiFcwxY1MoMSjg9KUAxSuvhF2mL0ZdAZ8Dd96gcPD0/edit?usp=sharing). The slide deck should be no more than 4 slides: intro, 3 slides for the 90-day plan, and final slide. The slide deck will be leveraged in discussion during the three rounds of interviews.
 
 > ### Why we ask for a 90-day plan slide deck
 >
 > 1. It helps create a shared understanding of how you work between you and our interviewers ahead of the first interview.
 > 1. It allows us to ask more informed questions about your experience and work during the interview process.
-> 1. Generally, we [avoid using meetings as a means to present](https://about.gitlab.com/handbook/communication/#common-meeting-problems). Instead, we record presentations or share slide decks, and use a meeting as a Q&A. This interview exercise provides you with an opportunity to experience this style of work.  
+> 1. Generally, we [avoid using meetings as a means to present](/handbook/communication/#common-meeting-problems). Instead, we record presentations or share slide decks, and use a meeting as a Q&A. This interview exercise provides you with an opportunity to experience this style of work.  
 >
 > ### 90-day plan topics
 >
@@ -124,7 +121,7 @@ Candidates for this position can expect the hiring process to follow the order b
 > ### Some useful resources
 >
 > - [Template](https://docs.google.com/presentation/d/1FTiFcwxY1MoMSjg9KUAxSuvhF2mL0ZdAZ8Dd96gcPD0/edit?usp=sharing) to use when creating the 90-day plan slide deck.
-> - Interested in the type of work our UX team does? Search [GitLab Unfiltered for UX Showcase](https://www.youtube.com/c/GitLabUnfiltered/search?query=ux%20showcase), review our [UX Research handbook](https://about.gitlab.com/handbook/product/ux/ux-research/), and our [UX Department's handbook](https://about.gitlab.com/handbook/product/ux/).
+> - Interested in the type of work our UX team does? Search [GitLab Unfiltered for UX Showcase](https://www.youtube.com/c/GitLabUnfiltered/search?query=ux%20showcase), review our [UX Research handbook](/handbook/product/ux/ux-research/), and our [UX Department's handbook](/handbook/product/ux/).
 > - We work with a [low level of shame](/handbook/values/#low-level-of-shame) at GitLab. In this context, this means we don't expect your presentation to be highly polished.
 > - Other questions? Want the Recruiter to review your presentation before the review from the Hiring Manager? Don't hesitate to get in touch with the Recruiter who conducted your screening call.
 
@@ -136,4 +133,4 @@ Candidates for this position can expect the hiring process to follow the order b
 
 - Successful candidates will subsequently be made an offer via Zoom.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

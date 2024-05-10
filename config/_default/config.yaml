@@ -1,4 +1,3 @@
-baseURL: https://handbook.gitlab.com
 languageCode: en-US
 locale: en-US
 title: The GitLab Handbook
@@ -7,8 +6,6 @@ enableRobotsTXT: true
 enableGitInfo: true
 
 googleAnalytics: G-41B5X0RBD8
-social:
-  twitter: GitLab
 
 sitemap:
   changefreq: monthly
@@ -17,9 +14,16 @@ sitemap:
 
 params:
   title: The GitLab Handbook
+  social:
+    twitter: GitLab
   defaultContentLanguage: en
   locale: en-US
   description: Learn more about GitLab and what makes us tick.
+  search:
+    algolia:
+      appId: 3IIMMA8IDY
+      apiKey: 71feb3efa6044f78ab6b8a7422e727b7
+      indexName: handbook-gitlab
   images:
       - images/gitlab-cover.png
   branch: main
@@ -30,7 +34,7 @@ params:
     # svg: true
   mermaid:
     enable: true
-  offlineSearch: true
+  offlineSearch: false
   ui:
     sidebar_menu_compact: false
     sidebar_menu_foldable: true
@@ -42,39 +46,19 @@ params:
   privacy_policy: https://about.gitlab.com/privacy/
   links:
     user:
-      - name: "Preferences"
-        url: "/preferences/"
-        icon: "fa-solid fa-sliders"
-        desc: "Handbook Preferences"
-      - name: "Contribute"
-        url: "/docs/"
-        icon: "fa fa-pen"
-        desc: "Contribute to the internal handbook"
-      - name: "GitLab Repository"
-        url: "https://gitlab.com/gitlab-com/content-sites/handbook"
-        icon: "fab fa-gitlab"
-        desc: "Contribute on GitLab"
-      - name: "Slack Discussions"
+      - name: "Slack"
         url: "https://gitlab.slack.com/archives/C81PT2ALD"
         icon: "fab fa-slack"
-        desc: "Discuss GitLab Handbook on Slack"
-    developer:
-      - name: "GitLab"
-        url: "https://about.gitlab.com/"
-        icon: "fab fa-gitlab"
-        desc: "GitLab"
-      - name: "TeamOps"
-        url: "https://about.gitlab.com/teamops"
-        icon: "fa-solid fa-arrows-spin"
-        desc: "TeamOps"
-      - name: "Handbook"
-        url: "/handbook/"
-        icon: "fa fa-book"
-        desc: "The Handbook"
-      - name: "Job Families"
-        url: "/job-families/"
-        icon: "fa-solid fa-users"
-        desc: "Job Families"
+        desc: "#handbook on Slack"
+      - name: "Repository"
+        url: "https://gitlab.com/gitlab-com/content-sites/handbook"
+        icon: "fa-solid fa-code-branch"
+        desc: "GitLab project"
+      - name: "Edit the site"
+        url: "/docs/development"
+        icon: "fa-solid fa-edit"
+        desc: "Contribute to the handbook"
+    developer: []
 
 staticDir:
         - data
@@ -125,7 +109,6 @@ security:
     getenv: [ "^HUGO_", "PERISCOPE_EMBED_API_KEY", "PRODUCT_ANALYTICS_APP_KEY", "PRODUCT_ANALYTICS_HOST" ]
 
 canonifyURLs: true
-enableGitInfo: true
 pluralizeListTitles: false
 enableEmoji: true
 
@@ -134,9 +117,10 @@ theme:
 - github.com/google/docsy
 
 module:
+  proxy: https://proxy.golang.org
   hugoVersion:
     extended: true
-    min: 0.95
+    min: 0.123
   imports:
   - path: gitlab.com/gitlab-com/content-sites/docsy-gitlab
     disable: false
@@ -144,3 +128,9 @@ module:
     disable: false
   - path: github.com/google/docsy/dependencies
     disable: false
+
+# Ignore build errors
+ignoreErrors:
+  # Do not fail to build when we fail to fetch a tweet
+  # https://gitlab.com/gitlab-com/content-sites/handbook/-/issues/178
+  - error-tweet-failed

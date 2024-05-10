@@ -147,12 +147,12 @@ This will generate a table such as this:
 ```plaintext
 15 Minute Meeting                   https://api.calendly.com/event_types/DGFGYBLAHK4CNXJF
 30 Minute Coffee Call               https://api.calendly.com/event_types/DEBLAHWQSO3GGUES
-GitLab Federal Customer Call        https://api.calendly.com/event_types/DADPABBLAHWZY57A
+GitLab Government Customer Call        https://api.calendly.com/event_types/DADPABBLAHWZY57A
 GitLab Support Call                 https://api.calendly.com/event_types/CEGFRWO2BLAHSAQE
 Upgrade Assistance             https://api.calendly.com/event_types/AHBRCBLAH6ECV5E6
 Pairing Session                     https://api.calendly.com/event_types/EBLAHIHDJDJRSS42
 Support call with me                https://api.calendly.com/event_types/DBLAH4WXTM7ADUB2
-US Federal Upgrade Assistance  https://api.calendly.com/event_types/BLAHTQKLLSHV3GL3
+US Government Upgrade Assistance  https://api.calendly.com/event_types/BLAHTQKLLSHV3GL3
 ```
 
 To generate a single-use link for the "Support call with me" event:
@@ -235,9 +235,9 @@ need to attend a customer call
 1. In Google Calendar **Other calendars > + > Subscribe to calendar**,
    start typing the name of your colleague and
    click on their auto-completed name to subscribe.
-1. In Calendly, navigate to **Account > Calendar Connections > Configuration > Check for conflicts**
+1. In Calendly, [navigate](https://calendly.com/app/personal/availability/connected_calendars) to **Account > Calendar Sync > Configuration > Check for conflicts**
    and click the **Edit** button.
-1. Select your colleague's calendar via their `…@gitlab.com` entry.
+1. Add your colleague's calendar to the availability check via their `…@gitlab.com` entry.
 1. After the call has been scheduled, remove that entry again.
 
 ## Suggestions

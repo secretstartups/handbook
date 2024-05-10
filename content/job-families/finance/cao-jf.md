@@ -6,7 +6,7 @@ The Chief Accounting Officer (CAO) leads the accounting function including spann
 
 ## Job Grade
 
-The Chief Accounting Officer (CAO) is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Chief Accounting Officer (CAO) is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Primary Job Responsibilities
 
@@ -45,11 +45,11 @@ The Chief Accounting Officer (CAO) is a [grade 12](https://about.gitlab.com/hand
 
 ## Performance Indicators
 
-1. [Average days to close](https://about.gitlab.com/handbook/finance/accounting/#average-days-to-close-kpi-definition)
-1. [Number of material audit adjustments = 0](https://about.gitlab.com/handbook/internal-audit/#performance-measures-for-accounting-related-to-audit)
-1. [Average days of sales outstanding](https://about.gitlab.com/handbook/finance/accounting/#11-accounts-receivable)
+1. [Average days to close](/handbook/finance/accounting/#average-days-to-close-kpi-definition)
+1. [Number of material audit adjustments = 0](/handbook/internal-audit/#performance-measures-for-accounting-related-to-audit)
+1. [Average days of sales outstanding](/handbook/finance/accounting/#11-accounts-receivable)
 1. [New hire location factor](/#new-hire-location-factor)
-1. [Percentage of ineffective SOX Controls = 0%](https://about.gitlab.com/handbook/internal-audit/#performance-measures-for-accounting-related-to-audit)
+1. [Percentage of ineffective SOX Controls = 0%](/handbook/internal-audit/#performance-measures-for-accounting-related-to-audit)
 
 ## Interview team and focus areas for each person
 

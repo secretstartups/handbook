@@ -14,6 +14,12 @@ The Okta Admin Onboarding runbook provides setup instructions for team members t
 - **Who Can Provision:** [Marcus Whitaker](https://gitlab.com/Mwhitaker), [Mohammed Al Kobaisy](https://gitlab.com/malkobaisy)
 - **Runbook DRI:** [Marcus Whitaker](https://gitlab.com/Mwhitaker), [Peter Kaldis](https://gitlab.com/pkaldis)
 
+## Transferring Black Accounts to New Laptops
+
+If you're transferring a Black account to a new laptop, you will not need to follow all of the same tasks. This should be able to be self-serviced without a member of IT.
+
+You should follow the process beginning at [### Task 1.2: Open a Chrome Incognito Browser Window](#task-12-open-a-chrome-incognito-browser-window). After that step, steps that are unique to the laptop transfer process are called out as notes under the relevant steps. If no note exists, you should assume the step is required for the transfer process.
+
 ## Step 0: Provisioner Pre-Work
 
 ### Provisioner Task 0.1: Verify Approvals
@@ -91,6 +97,8 @@ This runbook requires an access request using the [Admin_Black_Account](https://
 
 ### Task 1.1: Copy 1Password Temporary Credentials to Vault
 
+> **Laptop Transfer?**: You can skip this task.
+
 1. Open the 1Password share link that the provisioner provided you in the Slack DM.
     1. If you are not signed into 1Password, you will
 1. Copy the 1Password record to your `Private` vault.
@@ -99,6 +107,8 @@ This runbook requires an access request using the [Admin_Black_Account](https://
 ### Task 1.2: Open a Chrome Incognito Browser Window
 
 > Until we have a Chrome Profile set up with your new email account, we will perform the next few tasks using an incognito browser window to avoid interfering with your existing Okta account.
+>
+> **Laptop Transfer?**: You should start with this task.
 
 1. Open **Google Chrome**.
 1. Press **Cmd+Shift+N** to open a new incognito browser window.
@@ -106,6 +116,8 @@ This runbook requires an access request using the [Admin_Black_Account](https://
 ### Task 1.3: Sign in to Okta with temporary password
 
 > These steps should be performed in a Chrome incognito browser window.
+>
+> **Laptop Transfer?** Use your existing 1Password credentials and recovery information from their previous device. Hint: Mac will copy and paste between devices if both use the same Apple ID to avoid typing out your passwords.
 
 1. Open the 1Password record for your temporary credentials to allow you to easily copy the password.
 1. Copy and paste `https://gitlab.okta.com` into the URL bar of your incognito browser window.
@@ -116,6 +128,8 @@ This runbook requires an access request using the [Admin_Black_Account](https://
 
 ### Task 1.4: Change Password
 
+> **Laptop Transfer?** You can skip this task.
+
 1. You will be prompted that `Your Okta password has expired`.
 1. Edit the 1Password record and generate a new password with 64 characters (maximum length in 1Password Web UI). Click **Save**.
     <img style="width: 300px; border: 1px #DCDCDE solid; padding: 2px;" alt="OktaAdminOnboarding_1_4_2.png" src="/handbook/it/runbooks/okta/admin/onboarding/images/OktaAdminOnboarding_1_4_2.png" />
@@ -125,6 +139,8 @@ This runbook requires an access request using the [Admin_Black_Account](https://
 ### Task 1.5: Set up MFA with YubiKey 5 FIPS
 
 > Our Okta admin account policies require `YubiKey 5 FIPS` models that are verified by IT Engineering behind-the-scenes. There is no way to restrict these models in the Okta configuration, so please be sure not to enroll your Mac Touch ID or other WebAuthn factors. You will be contacted by IT if any of your factors are not allowed and were removed administratively.
+>
+> **Laptop Transfer?** You can skip this task if you are using the same YubiKey from your old laptop.
 
 1. You will be prompted to `Set up security methods`.
 1. Click the **Set up** button for `Security Key or Biometric Authenticator`.
@@ -141,6 +157,8 @@ This runbook requires an access request using the [Admin_Black_Account](https://
 
 ### Task 2.1: Configure your Google Account Profile Picture
 
+> **Laptop Transfer?** You can skip this task.
+
 1. On the Okta user dashboard for your new account, click the `G Suite SSO Account` tile.
 1. On the `Welcome to your new account` screen with the terms and conditions, click the **I understand** button.
     <img style="width: 700px; border: 1px #DCDCDE solid; padding: 2px;" alt="OktaAdminOnboarding_2_1_2.png" src="/handbook/it/runbooks/okta/admin/onboarding/images/OktaAdminOnboarding_2_1_2.png" />
@@ -151,6 +169,8 @@ This runbook requires an access request using the [Admin_Black_Account](https://
     <img style="width: 700px; border: 1px #DCDCDE solid; padding: 2px;" alt="OktaAdminOnboarding_2_1_5.png" src="/handbook/it/runbooks/okta/admin/onboarding/images/OktaAdminOnboarding_2_1_5.png" />
 
 ### Task 2.2: Configure Google Account 2FA
+
+> **Laptop Transfer?** You can skip this task if you are using the same YubiKey from your old laptop.
 
 1. Click the **Security** link in the left navigation.
     <img style="width: 700px; border: 1px #DCDCDE solid; padding: 2px;" alt="OktaAdminOnboarding_2_2_1.png" src="/handbook/it/runbooks/okta/admin/onboarding/images/OktaAdminOnboarding_2_2_1.png" />
@@ -202,6 +222,8 @@ This runbook requires an access request using the [Admin_Black_Account](https://
 
 ### Task 2.4: Add bookmarks for Okta and Gmail
 
+> **Laptop Transfer?** You can skip this task since your profile should automatically sync.
+
 1. In your Chrome browser window with your `GitLab Admin (Black)` profile selected, press **Cmd+Shift+B** to show the bookmarks menu bar.
 1. Navigate to `https://gitlab.okta.com` and sign in with your `{handle}-admin@gitlab.com` account using the credentials stored in 1Password. You will be prompted to verify your identity with USB Key MFA and touching your YubiKey.
 1. On the Okta user dashboard, **right click** on the `Admin` button and **open in a new tab**.
@@ -217,6 +239,8 @@ This runbook requires an access request using the [Admin_Black_Account](https://
 ## Step 3: 1Password Configuration
 
 ### Task 3.1: Activate 1Password Account
+
+> **Laptop Transfer?** You can skip this task.
 
 1. In the Gmail browser tab, open the email titled `Join gitlab on 1Password`.
     <img style="width: 700px; border: 1px #DCDCDE solid; padding: 2px;" alt="OktaAdminOnboarding_3_1_1.png" src="/handbook/it/runbooks/okta/admin/onboarding/images/OktaAdminOnboarding_3_1_1.png" />
@@ -243,6 +267,8 @@ This runbook requires an access request using the [Admin_Black_Account](https://
 ### Task 3.2: Configure Browser Extension
 
 > **Warning:** You need to wait to receive a `Welcome to 1Password` email in your new `{handle}-admin@gitlab.com` Gmail inbox (not your normal email account). Please refresh your email inbox until this email appears indicating that your account has been provisioned. This allows time for the background job automation to provision your 1Password account. No manual intervention is needed by an administrator, this simply takes up to 5 minutes usually.
+>
+> **Laptop transfer?**: You will not receive an email, however you should follow all other steps to setup 1Password properly for your `-admin` credentials ONLY.
 
 1. After you have received the email (see above), open a new browser tab, and navigate to `https://gitlab.1password.com`.
 1. Sign in with your email address (`{handle}-admin@gitlab.com`), secret key, and master password.
@@ -281,6 +307,8 @@ This runbook requires an access request using the [Admin_Black_Account](https://
 
 ### Task 3.4 Add Okta Account to New 1Password Vault
 
+> **Laptop Transfer?**: You can skip this task.
+
 1. In the 1Password webpage, click the `+` button to add a new `Login` record.
 1. Use the following to fill out the record details.
     - **Title:** `Okta Admin`
@@ -293,6 +321,8 @@ This runbook requires an access request using the [Admin_Black_Account](https://
 ### Task 3.5 Change Okta Password
 
 > This password change allows us to rotate your credentials now that the record is stored in your BLACK account vault, and ensures that your PURPLE account vault does not have the credentials to sign into your Okta Admin account.
+>
+> **Laptop Transfer?**: You can skip this task as long as you did not expose your password at any point.
 
 1. Using the original browser window, click on the `Okta Admin` bookmark that you created.
 1. In the top right corner of the Okta webpage, click on your name and click **Settings** from the dropdown list.

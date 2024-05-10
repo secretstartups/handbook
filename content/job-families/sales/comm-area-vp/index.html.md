@@ -4,7 +4,7 @@ title: "Area Vice President, Commercial Sales"
 
 The Area Vice President is responsible for building and managing a team of Area Sales Managers who are leading teams of Account Executives selling GitLab's industry leading single application for the full software development lifecycle.
 
-The Area Vice President reports into the [VP, Commercial Sales](https://handbook.gitlab.com/job-families/sales/vp-of-commercial-sales/).
+The Area Vice President reports into the [VP, Commercial Sales](/job-families/sales/vp-of-commercial-sales/).
 
 ## Responsibilities
 
@@ -30,7 +30,7 @@ The Area Vice President reports into the [VP, Commercial Sales](https://handbook
 - Polished presentation skills
 - Ability to handle a fast-paced environment and ambitious workload
 - Bachelor degree
-- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
+- Ability to travel if needed and comply with the company’s [travel policy](/handbook/travel/)
 
 ## Segment
 
@@ -54,12 +54,12 @@ The Area Vice President Job Family would move to the [VP of Enteprise Sales](/jo
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Selected candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with our Global Recruiters
+- Selected candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with the Hiring Manager
 - Next, candidates will be invited to schedule one or more interviews with members of the Commercial sales team.
 - Next, candidates will be invited to schedule one or more interviews with Business Partners
 - Finally, candidates may be asked to interview with our CRO.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

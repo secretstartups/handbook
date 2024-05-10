@@ -4,11 +4,11 @@ title: Director, Digital Success
 
 The Director, Digital Success is responsible for defining, leading, and tracking strategic and operational programs to improve GitLab’s ability to effectively and efficiently deliver excellent customer outcomes through the digital experience. The Director, Digital Success works cross-functionally to orchestrate results with Customer Success, Sales, Marketing, Product and Engineering, Support, and Finance.
 
-The Director, Digital Success reports to the [Director Customer Success Operations](https://about.gitlab.com/job-families/sales/director-customer-operations/).
+The Director, Digital Success reports to the [Director Customer Success Operations](/job-families/sales/director-customer-operations/).
 
 ## Job Grade
 
-The Director, Digital Success is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Director, Digital Success is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 ## Responsibilities
 
@@ -41,8 +41,8 @@ The Director, Digital Success is a [grade 10](https://about.gitlab.com/handbook/
 
 ## Performance Indicators
 
-- Bookings and revenue growth as measured by [ARR](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/), including gross renewal, expansion, and net retention
-- Key [customer success](https://about.gitlab.com/handbook/customer-success/vision/#measurement-and-kpis) measures (e.g., time-to-value, product adoption / health score, expansion win rates, etc.). A number of these measures need to evolve to be developed.
+- Bookings and revenue growth as measured by [ARR](/handbook/sales/sales-term-glossary/arr-in-practice/), including gross renewal, expansion, and net retention
+- Key [customer success](/handbook/customer-success/vision/#measurement-and-kpis) measures (e.g., time-to-value, product adoption / health score, expansion win rates, etc.). A number of these measures need to evolve to be developed.
 
 ## Career Ladder
 
@@ -50,9 +50,9 @@ The next step for the Director, Digital Success is a Senior Director level that 
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Interviews will be then setup with:
 - Hiring manager, Director CS Operations
 - Vice President of Customer Success
@@ -60,4 +60,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Senior Director of Technical Account Management
 - Stakeholder team member (i.e., Product, Marketing, Customer Success, etc.)
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

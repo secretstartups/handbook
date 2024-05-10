@@ -2,7 +2,7 @@
 title: "Incubation Engineering Leadership"
 ---
 
-The Incubation Engineering Leadership manage the [Incubation Engineering Department](https://about.gitlab.com/handbook/engineering/incubation/). The team members in this department focus on long-term trends and features that are too early to measure via usage or revenue, but are critical to the long term growth and success of GitLab. The projects this department works on align with the "new markets" [investment type](https://internal-handbook.gitlab.io/handbook/product/investment/). Long term, the budget for this area will be ~10% of R&D.
+The Incubation Engineering Leadership manage the [Incubation Engineering Department](/handbook/engineering/incubation/). The team members in this department focus on long-term trends and features that are too early to measure via usage or revenue, but are critical to the long term growth and success of GitLab. The projects this department works on align with the "new markets" [investment type](https://internal-handbook.gitlab.io/handbook/product/investment/). Long term, the budget for this area will be ~10% of R&D.
 
 ## Levels
 
@@ -12,7 +12,7 @@ The Incubation Engineering Leadership manage the [Incubation Engineering Departm
 
 #### Director, Incubation Engineering Job Grade
 
-The Director, Incubation Engineering is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Incubation Engineering is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, Incubation Engineering Responsibilities
 
@@ -41,13 +41,13 @@ Experience in a variety of stages of the startup lifecycle, from inception to la
 
 #### VP of Incubation Engineering Job Grade
 
-The VP of Incubation Engineering is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The VP of Incubation Engineering is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### VP of Incubation Engineering Responsibilities
 
-- Recruit excellent senior individual contributors to act as [Single-engineering Groups (SEGs)](https://about.gitlab.com/company/team/structure/#single-engineer-groups)
+- Recruit excellent senior individual contributors to act as [Single-engineering Groups (SEGs)](/handbook/company/structure/#single-engineer-groups)
 - Effectively wield technical influence within a larger company and codebase
-- Provide [lightweight project management](https://about.gitlab.com/handbook/engineering/demos/) to the Single-Engineer Groups under their purview
+- Provide [lightweight project management](/handbook/engineering/demos/) to the Single-Engineer Groups under their purview
 - Provide transparent status to stakeholders
 - Stay abreast of long term technical trends in the market
 - Stay informed about other products' functionality and positioning
@@ -88,4 +88,4 @@ We'd like the successful candidate to have at least a simple majority of the fol
 
 ## Career Ladder
 
-For more details on the engineering career ladders, please review the [engineering career development](https://about.gitlab.com/handbook/engineering/career-development/#roles) handbook page.
+For more details on the engineering career ladders, please review the [engineering career development](/handbook/engineering/careers/#roles) handbook page.

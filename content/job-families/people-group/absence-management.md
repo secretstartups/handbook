@@ -10,7 +10,7 @@ The Absence Management Specialist reports to the Manager, Absence Management.
 
 ### Absence Management Specialist Job Grade
 
-The Absence Management Specialist is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Absence Management Specialist is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Absence Management Specialist Responsibilities
 
@@ -42,7 +42,7 @@ The Senior Absence Management Specialist reports to the Manager, Absence Managem
 
 ### Job Grade
 
-The Senior Absence Management Specialist is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Absence Management Specialist is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -73,9 +73,9 @@ The Senior Absence Management Specialist is a [grade 6](https://about.gitlab.com
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ### Senior Absence Management Partner
 
@@ -83,7 +83,7 @@ The Senior Absence Management Partner reports to Manager, Absence Management.
 
 ### Senior Absence Management Partner Job Grade
 
-The Senior Absence Management Partner is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Absence Management Partner is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior Absence Management Partner Responsibilities
 
@@ -131,7 +131,7 @@ The Absence Management Manager reports to the Director, Team Member Relations.
 
 ### Absence Management Manager Job Grade
 
-The Absence Management Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Absence Management Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Absence Management Manager Responsibilities
 
@@ -175,7 +175,7 @@ The next step in the job family is Team Member Relations Manager.
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 - Qualified candidates will be invited to schedule a 30 minute screening call with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 45 minute interview with our Senior Manager, People Operations
@@ -184,4 +184,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - After that, candidates will be invited to interview with the Senior Director, People Success
 - Finally, our CPO may choose to conduct a final interview
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
