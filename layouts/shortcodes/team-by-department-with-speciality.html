@@ -1,0 +1,42 @@
+{{- /*  Initialize. */}}
+{{- $department := "" }}
+
+{{- /* Get params. */}}
+{{- with (.Get 0) }}
+  {{- $department = . }}
+{{- else }}
+  {{- errorf "The %q shortcode requires a single positional argument for department."}}
+{{- end }}
+
+{{- $members := where site.Data.public.team "departments" "intersect" (slice $department) }}
+
+<table>
+  <thead>
+    <th>Name</th>
+    <th>Role</th>
+    <th>Speciality</th>
+  </thead>
+  <tbody>
+  {{- range $members }}
+    <tr>
+      <td>{{ partial "member/with-team-link" . }}</td>
+      <td>{{.role | safe.HTML}}</td>
+      <td>
+          {{- if reflect.IsSlice .specialty }}
+            {{- if gt (len .specialty) 1 }}
+              <ul>
+              {{ range .specialty }}
+                <li>{{.}}</li>
+              {{ end }}
+              </ul>
+            {{- else }}
+              {{ index .specialty 0 }}
+            {{- end }}
+          {{- else }}
+            {{ .specialty }}
+          {{- end }}
+      </td>
+    </tr>
+  {{- end }}
+  </tbody>
+</table>

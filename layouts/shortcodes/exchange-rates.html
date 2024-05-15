@@ -1,0 +1,21 @@
+{{- $currency := site.Data.public.currency_conversions }}
+<p>Point in time rate as {{ $currency.updated_at }}</p>
+
+<table style="display: table; width: 50%;">
+    <thead>
+        <tr>
+            <th>Currency</th>
+            <th>Rate from USD</th>
+            <th>Rate to USD</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{- range $currency.currency_rates }}
+        <tr>
+            <td>{{ .currency_code }}</td>
+            <td>{{ .rate_from_usd }}</td>
+            <td>{{ .rate_to_usd }}</td>
+        </tr>
+        {{- end }}
+    </tbody>
+</table>

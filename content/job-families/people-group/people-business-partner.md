@@ -10,11 +10,11 @@ PBPs contribute to the overall success of People Group driven initiatives by fac
 
 ## Associate People Business Partner (PBP)
 
-### Job Grade
+### Associate People Business Partner (PBP) Job Grade
 
-The Associate People Business Partner is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Associate People Business Partner is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Responsibilities
+### Associate People Business Partner (PBP) Responsibilities
 
 - Forms effective relationships with the client groups and consults with line management, providing People guidance when appropriate. Typically supports front line managers through director-level
 - Gathers data to aid in trend analysis and gain insight to contribute to solutions, programs, and opportunities for learning.
@@ -25,7 +25,7 @@ The Associate People Business Partner is a [grade 5](https://about.gitlab.com/ha
 - Provides insight on division restructures, workforce planning and succession planning with guidance and support from their manager.
 - Executes on company-wide Talent Programs within their client group, including Annual Talent Assessment and Compensation Reviews with support from PBP team. May provide tactical support on these programs which benefit the broader PBP team.
 
-### Requirements
+### Associate People Business Partner (PBP) Requirements
 
 - Relevant, progressive people experience in recruiting, employee relations, people operations, compensation/benefits, and/or organizational development.
 - Demonstrate discretion and sound judgment while working with sensitive and confidential materials.
@@ -40,11 +40,11 @@ The Associate People Business Partner is a [grade 5](https://about.gitlab.com/ha
 
 ## Intermediate People Business Partner (PBP)
 
-### Job Grade
+### Intermediate People Business Partner (PBP) Job Grade
 
-The People Business Partner is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The People Business Partner is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Responsibilities
+### Intermediate People Business Partner (PBP) Responsibilities
 
 - Forms effective relationships with the client groups and consults with line management, providing People guidance when appropriate. Typically supports front line managers through director-level; may support VP/EVP depending on organizational structure.
 - Analyzes trends and metrics in partnership with the People Ops group to develop solutions, programs, and opportunities for learning.
@@ -55,7 +55,7 @@ The People Business Partner is a [grade 6](https://about.gitlab.com/handbook/tot
 - Provides guidance and input on business unit restructures, workforce planning and succession planning.
 - Executes on company-wide Talent Programs within their client group, including Annual Talent Assessment and Compensation Reviews.
 
-### Requirements
+### Intermediate People Business Partner (PBP) Requirements
 
 - Relevant, progressive in recruiting, employee relations, people operations, compensation/benefits, and/or organizational development. Prefer at least 2 years in a business partner role.
 - Demonstrate discretion and sound judgment while working with sensitive and confidential materials.
@@ -70,11 +70,11 @@ The People Business Partner is a [grade 6](https://about.gitlab.com/handbook/tot
 
 ## Senior People Business Partner (PBP)
 
-### Job Grade
+### Senior People Business Partner (PBP) Job Grade
 
-The Senior People Business Partner is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior People Business Partner is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Responsibilities
+### Senior People Business Partner (PBP) Responsibilities
 
 - Provides support and feedback to client groups, and consults with managers at all levels in areas of talent strategy, including management training and coaching, team member engagement programs, organizational development, and employee relations. Typically supports 1 or more VPs across a function; may support a more senior executive based on organizational structure.
 - Identifies great talent, internally and externally, who will raise the bar across GitLab.  Mentors others both in the client group and in the People team.
@@ -87,12 +87,12 @@ The Senior People Business Partner is a [grade 7](https://about.gitlab.com/handb
 - Participate in driving iterations related to company-wide Talent Programs based on feedback from client group.
 - Executes on company-wide Talent Programs within their client group, including Annual Talent Assessment and Compensation Reviews.
 
-### Requirements
+### Senior People Business Partner (PBP) Requirements
 
 - Relevant, progressive People Business Partner experience supporting front line, mid-level and executive leaders.
 - Expert-level experience in a variety of HR competency areas such as organizational design and development, leadership development, change management, performance management, and employee relations.
 - Strong attention to detail and ability to work well with fluid information.
-- Comfortable using technology, including Google Workspace and Gitlab.
+- Comfortable using technology, including Google Workspace and GitLab.
 - Effective and concise verbal and written communication skills; ability to collaborate cross-functionally.
 - Obsessed with results that matter; able to create and deliver full-cycle projects (start to finish) and results in a timely manner.
 - Team player who acts with a sense of urgency and adapts to a fast-paced and ever-changing environment.
@@ -104,14 +104,14 @@ The Senior People Business Partner is a [grade 7](https://about.gitlab.com/handb
 
 ## Manager, People Business Partner (PBP)
 
-### Job Grade
+### Manager, People Business Partner (PBP) Job Grade
 
-The Manager, People Business Partner is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, People Business Partner is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 This job may be an individual contributor or a manager of people, but the title is aligned with the market practice and scope of influence for the role.
 
 **Market Justification:** The business need for this role as an individual contributor is to ensure the proper experience and expertise in partnering with leadership at the company. The PBP team brings a vast amount of knowledge with respect to strategic operations in the role. In the market it is common to have this role as an individual contributor with over 50 companies reporting data for this role for an average of 2 incumbents in the role.
 
-### Responsibilities
+### Manager, People Business Partner (PBP) Responsibilities
 
 - Provides support and feedback to client groups, and consults with managers at all levels in areas of talent strategy, management training and coaching, team member engagement programs, organizational development, and employee relations. Typically supports multiple VPs across a function; likely supports a more senior executive based on organizational structure.
 - Identifies great talent, internally and externally, who will raise the bar across GitLab. Mentors others both in the client group and in the People team.
@@ -124,12 +124,12 @@ This job may be an individual contributor or a manager of people, but the title 
 - Own specific iterations related to company-wide Talent Programs based on feedback from their client group and PBP team.
 - Executes on company-wide Talent Programs within their lines of business, including Annual Talent Assessment and Compensation Reviews.
 
-### Requirements
+### Manager, People Business Partner (PBP) Requirements
 
 - Relevant, progressive People Business Partner experience supporting front line, mid-level and executive leaders.
 - Expert-level experience in a variety of HR competency areas such as organizational design and development, leadership development, change management, performance management, and employee relations.
 - Strong attention to detail and ability to work well with fluid information.
-- Comfortable using technology, including Google Workspace and Gitlab.
+- Comfortable using technology, including Google Workspace and GitLab.
 - Effective and concise verbal and written communication skills; ability to collaborate cross-functionally.
 - Obsessed with results that matter; able to create and deliver full-cycle projects (start to finish) and results in a timely manner.
 - Team player who acts with a sense of urgency and adapts to a fast-paced and ever-changing environment.
@@ -141,11 +141,11 @@ This job may be an individual contributor or a manager of people, but the title 
 
 ## Senior Manager, People Business Partner (PBP)
 
-### Job Grade
+### Senior Manager, People Business Partner (PBP) Job Grade
 
-The Senior Manager, People Business Partner is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Senior Manager, People Business Partner is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
-### Responsibilities
+### Senior Manager, People Business Partner (PBP) Responsibilities
 
 - Typically supports e-group and multiple VPs across one or more functions. Partners with senior leadership on a wide range of matters related to talent and is seen as a thought leader on people/business issues of all levels. May consult on talent strategy, management development, team member engagement programs, organizational design/development.
 - Constantly forecasting and predicting issues and takes measures to course correct before impact within client group
@@ -159,12 +159,12 @@ The Senior Manager, People Business Partner is a [grade 9](https://about.gitlab.
 - Executes on company-wide Talent Programs within their client groups, including Annual Talent Assessment and Compensation Reviews, ensuring alignment to broader People priorities in execution.
 - Facilitates connection to other People Group DRI's when appropriate to remain focused on the most impactful work while ensuring relevant DRI's are engaged
 
-### Requirements
+### Senior Manager, People Business Partner (PBP) Requirements
 
 - Relevant, progressive People Business Partner experience supporting front line, mid-level and executive leaders.
 - Expert-level experience in a variety of HR competency areas such as organizational design and development, leadership development, change management, performance management, and employee relations.
 - Strong attention to detail and ability to work well with fluid information.
-- Comfortable using technology, including Google Workspace and Gitlab.
+- Comfortable using technology, including Google Workspace and GitLab.
 - Effective and concise verbal and written communication skills; ability to collaborate cross-functionally.
 - Obsessed with results that matter; able to create and deliver full-cycle projects (start to finish) and results in a timely manner.
 - Team player who acts with a sense of urgency and adapts to a fast-paced and ever-changing environment.
@@ -176,11 +176,11 @@ The Senior Manager, People Business Partner is a [grade 9](https://about.gitlab.
 
 ## Director, People Business Partner (PBP)
 
-### Job Grade
+### Director, People Business Partner (PBP) Job Grade
 
-The Director People Business Partner is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director People Business Partner is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Responsibilities
+### Director, People Business Partner (PBP) Responsibilities
 
 - Partners with senior leaders across GitLab to develop a talent strategy by Division including organizational design and effectiveness, talent management, team member engagement, and other key people initiatives. Typically supports e-group members and multiple VPs across one or more functions
 - Mentors, coaches and provides feedback to managers at all levels; also mentors other People team members
@@ -194,8 +194,7 @@ The Director People Business Partner is a [grade 10](https://about.gitlab.com/ha
 - Scope of influence may extend beyond immediately aligned client group at times
 - Is a role model and champion of GitLab values themselves, and challenges leaders to maintain commitment to our CREDIT values through our People practices as we scale.
 
-
-### Requirements
+### Director, People Business Partner (PBP) Requirements
 
 - Relevant, progressive HR experience, with at least 10 years as a business partner supporting Senior Executive and/or C-level leaders
 - Experience leading People Business Partner teams or other People teams
@@ -208,14 +207,13 @@ The Director People Business Partner is a [grade 10](https://about.gitlab.com/ha
 - Able to switch between strategic and tactical work daily and make recommendations to improve tactical processes for scale
 - Bachelor's degree preferred; Master's degree and/or HR Certification strongly preferred.
 
+## Senior Director, People Business Partner (PBP)
 
-## Senior Director, People Business Partner
+### Senior Director, People Business Partner (PBP) Job Grade
 
-### Job Grade
+The Senior Director, People Business Partner is a [job grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-The Senior Director, People Business Partner is a [job grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-### Responsibilities
+### Senior Director, People Business Partner (PBP) Responsibilities
 
 - Partner with executive leaders across GitLab to develop a talent strategy by Division including organizational design and effectiveness, talent management, team member engagement, and other key people initiatives. Typically supports multiple e-group members along with VPs within their client groups.
 - Mentors, coaches and provides feedback to leaders as appropriate; also mentors other People team members.
@@ -226,7 +224,7 @@ The Senior Director, People Business Partner is a [job grade 11](https://about.g
 - Leverages understanding of multiple Divisions needs and goals to make connections across the business to increase collaboration, efficiency and results across teams
 - Is a role model and champion of GitLab values themselves, and challenges leaders to maintain commitment to our CREDIT values through our People practices as we scale
 
-### Requirements
+### Senior Director, People Business Partner (PBP) Requirements
 
 - Extends that of the Director, PBP
 - Relevant, progressive HR experience, with at least 10 years as a business partner supporting Senior Executive and/or C-level leaders.
@@ -240,7 +238,7 @@ The Senior Director, People Business Partner is a [job grade 11](https://about.g
 - Able to switch between strategic and tactical work daily and make recommendations to improve tactical processes for scale.
 - Bachelor's degree preferred; Master's degree and/or HR Certification strongly preferred.
 
-## Specialties
+## People Business Partner (PBP) Specialties
 
 ### PBP, Engineering
 
@@ -263,25 +261,34 @@ The Senior Director, People Business Partner is a [job grade 11](https://about.g
 - Understand GitLab’s sales strategy in order to align people strategies to meet business goals.
 - Drive equality, diversity, and inclusion throughout all of our programs and initiatives.
 
+### PBP, EMEA
+
+- Primary People Business Partner support for the Go-To-Market teams in EMEA; develops a people strategy that helps support local organization and business goals
+- Consult on global expansion efforts in the EMEA region; including participating in the due diligence process
+- Partners closely with the broader People Business Partners and People Group to support the implementation of GitLab's People programs and policies locally
+- Advises on People programs and solutions to support EMEA regional needs based on deep local expertise
+- Collaborate with our team member relations (TMR) and legal teams to provide additional guidance and support on HR compliance, local employment law, and regulatory requirements in the EMEA region based on local expertise
+- Consult and inform local regulatory bodies such as Works Councils on topics that impact employment or working conditions
+
 ## Performance Indicators
 
 Performance indicators are done in partnership with the PBP and the organizational leaders.
 
-- Organizational Design and [Talent Assessment](https://about.gitlab.com/handbook/people-group/talent-assessment/) to drive leadership effectiveness - Complete Talent Assessment for 100% of eligible team members on time annually
-- In collaboration with leadership: Organizational Health Metrics - Turnover aligned with People Group OKRs, [Team Member Engagement](https://about.gitlab.com/handbook/people-group/engagement/)
+- Organizational Design and [Talent Assessment](/handbook/people-group/talent-assessment/) to drive leadership effectiveness - Complete Talent Assessment for 100% of eligible team members on time annually
+- In collaboration with leadership: Organizational Health Metrics - Turnover aligned with People Group OKRs, [Team Member Engagement](/handbook/people-group/engagement/)
 - Change management related to organizational and leadership iterations - measured by engagement scores and regrettable turnover
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 50 minute interview with a Director, People Business Partner
 - After that, candidates will be invited to schedule a 50 minute interview with members of the People Business Partner team and/or other members of the People team.
 - After that, candidates will be invited to interview with several leaders from the client group you will be supporting.
 - Finally, our CPO may choose to conduct a final interview.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ### Career Ladder
 

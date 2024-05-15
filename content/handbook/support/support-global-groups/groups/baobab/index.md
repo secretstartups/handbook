@@ -7,7 +7,6 @@ description: Home Page for Support's Baobab Group
 <!-- Search for all occurrences of NAME and replace them with the group's name.
      Search for all occurrences of URL HERE and replace them with the appropriate url -->
 
-
 ## Baobab resources
 
 - Our Slack Channel: [spt_gg_baobab](https://gitlab.slack.com/archives/C03C9DU3ED8)
@@ -20,7 +19,7 @@ Suggestions for improvements to these workflows are encouraged at any time, from
 
 ## When a new ticket preferred region is not your region
 
-- Follow the global [Assigning a ticket with a different preferred region](/handbook/support/workflows/working-on-tickets.html#assigning-a-ticket-with-a-different-preferred-region) workflow.
+- Follow the global [Assigning a ticket with a different preferred region](/handbook/support/workflows/working-on-tickets#assigning-a-ticket-with-a-different-preferred-region) workflow.
 - Until another SE has taken assignment, keep the ticket assigned to yourself and continue to work with the customer.
 - The `Unsorted::Clarify preferred region assignment` [macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+5602977263388) can be used to inform a customer that their ticket has been assigned to an engineer outside of their preferred region, and to gather confirmation from the customer on how they'd like to proceed in this regard.
 
@@ -57,7 +56,7 @@ Suggestions for improvements to these workflows are encouraged at any time, from
 
 ## How to handle tickets before going to PTO
 
-- Follow the global guide on [preparing for time off](https://about.gitlab.com/handbook/support/support-time-off.html#preparing-for-time-off) and [coverage for assigned tickets](https://about.gitlab.com/handbook/support/support-time-off.html).
+- Follow the global guide on [preparing for time off](/handbook/support/support-time-off/#preparing-for-time-off) and [coverage for assigned tickets](/handbook/support/support-time-off/#coverage-for-assigned-tickets).
 - Notify the team the day before you start PTO that you are leaving, and thank them in advance for responding to
 any that need it while you are away.
 - All team members should make a note of this to assist with determining whether to respond immediately to an open
@@ -87,8 +86,8 @@ There are Ticket Crush sessions scheduled at the following times:
 There is also a social chat on Fridays at 10:30 UTC.
 
 Adding a trial NRTea party:
-- Mondays at 12:00 UTC (EMEA)
 
+- Mondays at 12:00 UTC (EMEA)
 
 ## Focus Time
 
@@ -104,9 +103,9 @@ In case you need to change or reschedule your focus time, please notify your reg
 | ------------| -------------- | --------| ----------| ---------| -------|
 | Asmaa Hassan| 1:00 - 3:00 PM |  | | | 1:00 - 3:00 PM |
 | Katrin | | | | all day | |
-| Niklas |
-| Julius |
-| Paul |
+| Niklas | | | | | |
+| Julius | | | | | |
+| Paul | | | | | |
 | Olivier | 7:00 - 11:00 AM|||||
 
 **AMER Focus Time:**
@@ -115,11 +114,11 @@ In case you need to change or reschedule your focus time, please notify your reg
 | ------------| -------------- | --------| ----------| ---------| -------|
 | Harish | |  | | |  |
 | Davin Walker | | | | | |
-| Caleb Williamson |
-| Alejandro Guerrero |
-| Bo Carbonell |
-| Jio Castillo |
-| Jessie Lee |
+| Caleb Williamson | | | | | |
+| Alejandro Guerrero | | | | | |
+| Bo Carbonell | | | | | |
+| Jio Castillo | | | | | |
+| Jessie Lee | | | | | |
 
 **APAC Focus Time:**
 
@@ -127,6 +126,6 @@ In case you need to change or reschedule your focus time, please notify your reg
 | ------------| -------------- | --------| ----------| ---------| -------|
 | Matthew Badeau | | | 06:00 - 09:00 AM | 06:00 - 09:00 AM | |
 | James Reed | | | | | |
-| Shaik Azhar |
-| Sam Hewitt |
-| Justin Farmiloe |
+| Shaik Azhar | | | | | |
+| Sam Hewitt | | | | | |
+| Justin Farmiloe | | | | | |

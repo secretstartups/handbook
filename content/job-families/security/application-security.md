@@ -11,13 +11,13 @@ extra_js:
 
 🎉 **Hear from two team members about what it's like working here at GitLab in our Security department.** 🎉
 
-*AppSec Engineer [Nick Malcolm](https://about.gitlab.com/company/team/#nmalcolm) talks about what makes him proud to work at GitLab and what makes the experience unique, as well as what helps someone succeed on the team.*
+*AppSec Engineer [Nick Malcolm](/handbook/company/team/#nmalcolm) talks about what makes him proud to work at GitLab and what makes the experience unique, as well as what helps someone succeed on the team.*
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/DgJhvait4gI" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-*[Andrew Kelly](https://about.gitlab.com/company/team/#ankelly), one of our AppSec team managers talks about his experience here at GitLab, including what makes GitLab a unique and exciting place to learn and grow.*
+*[Andrew Kelly](/handbook/company/team/#ankelly), one of our former AppSec team managers talks about his experience here at GitLab, including what makes GitLab a unique and exciting place to learn and grow.*
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/5RYc0KqX48Q" frameborder="0" allowfullscreen="true"> </iframe>
@@ -32,7 +32,7 @@ extra_js:
 - Support the preparation of security releases.
 - Assist in development of security processes and automated tooling that prevent classes of security issues.
 
-Learn more about our role [on the Application Security Handbook page](https://about.gitlab.com/handbook/security/security-engineering/application-security/) including our work as [Stable Counterparts](https://about.gitlab.com/handbook/security/security-engineering/application-security/stable-counterparts.html) and our [HackerOne process](https://about.gitlab.com/handbook/security/security-engineering/application-security/runbooks/hackerone-process.html)
+Learn more about our role [on the Application Security Handbook page](/handbook/security/product-security/application-security/) including our work as [Stable Counterparts](/handbook/security/product-security/application-security/stable-counterparts.html) and our [HackerOne process](/handbook/security/product-security/application-security/runbooks/hackerone-process.html)
 
 ## Requirements
 
@@ -53,7 +53,7 @@ This position reports to the [Security Manager, Application Security](#security-
 
 #### Application Security Engineer (Intermediate) Job Grade
 
-The role is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The role is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Application Security Engineer (Intermediate) Responsibilities
 
@@ -69,7 +69,7 @@ This position reports to the [Security Manager, Application Security](#security-
 
 #### Senior Application Security Engineer Job Grade
 
-The role is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The role is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Application Security Engineer Responsibilities
 
@@ -97,7 +97,7 @@ This position reports to the [Security Manager, Application Security](#security-
 
 #### Staff Application Security Engineer Job Grade
 
-The role is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The role is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Application Security Engineer Responsibilities
 
@@ -120,16 +120,16 @@ The role is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensa
 
 ### Distinguished Application Security Engineer
 
-This position reports to the [Security Engineering Director](/job-families/security/security-leadership/) role at GitLab.
+This position reports to the [Product Security Director](/job-families/security/security-leadership/) role at GitLab.
 
 #### Distinguished Application Security Engineer Job Grade
 
-The role is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The role is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Distinguished Application Security Engineer Responsibilities
 
 - Includes all [Staff level responsibilities listed](#staff-application-security-engineer-responsibilities).
-- Drive the technical direction, roadmap, and [6-month architecture blueprints](https://about.gitlab.com/handbook/engineering/architecture/#architecture-at-gitlab) of the Application Security program.
+- Drive the technical direction, roadmap, and [6-month architecture blueprints](/handbook/engineering/architecture/#architecture-at-gitlab) of the Application Security program.
 - Drive the business value relation of metrics calculations for the Application Security program.
 - Represent the Application Security team across and outside of GitLab as a subject matter expert in technology, development, and application security concepts.
 - Work in a leveraged manner influencing other organizations and teams across GitLab with application security approaches and a focus on problem solving.
@@ -161,7 +161,7 @@ In addition to the general requirements for [Application Security Engineers](#ap
 - Experience working for or closely with the United States government or associated contractors.
 - Ability and willingness to obtain a federal security clearance should it be necessary to perform job responsibilities.
 - Experience working with Defense Information Security Agency (DISA) Security Technical Implementation Guides (STIGs).
-- Successful completion of a [background check](https://about.gitlab.com/handbook/people-policies/).
+- Successful completion of a [background check](/handbook/people-policies/).
 
 #### Responsibilities
 
@@ -176,7 +176,7 @@ This position reports to the [Application Security Senior Manager](/job-families
 
 #### Job Grade
 
-The Application Security Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Application Security Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -192,7 +192,7 @@ The Application Security Manager is a [grade 8](https://about.gitlab.com/handboo
 - Sense of ownership, urgency, and drive.
 - Excellent written and verbal communication skills, especially experience with executive-level communications.
 - Ability to make concrete progress in the face of ambiguity and imperfect knowledge.
-- Prepare and deliver meaningful metrics to Security Engineering leadership.
+- Prepare and deliver meaningful metrics to Product Security leadership.
 
 #### Requirements
 
@@ -214,11 +214,11 @@ Enjoys working hard; is action-oriented and full of energy for the things he/she
 
 ### Application Security Senior Manager
 
-This position reports to the [Security Engineering Director](/job-families/security/security-leadership/#director-security-engineering--research).
+This position reports to the [Product Security Director](/job-families/security/security-leadership/#director-security-engineering--research).
 
 #### Job Grade
 
-The Application Security Senior Manager is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Application Security Senior Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -228,13 +228,13 @@ The Application Security Senior Manager is a [grade 9](https://about.gitlab.com/
 
 #### Requirements
 
-- At least 5 years prior experience managing security engineering teams.
+- At least 5 years prior experience managing Product Security teams.
 
 ## Segment
 
 ### Security Leadership
 
-For details on the Security organization leadership roles, to include the Security Engineering Director and VP of Security, see the Security Leadership page.
+For details on the Security organization leadership roles, to include the Product Security Director and VP of Security, see the Security Leadership page.
 
 ## Performance Indicators
 
@@ -250,16 +250,16 @@ For details on the Security organization leadership roles, to include the Securi
   sec:stse(Staff Security Engineer, Application Security) --> sec:dse(Distinguished Security Engineer, Application Security);
   sec:sse(Senior Security Engineer, Application Security)-->sec:sem(Security Manager, Application Security);
   sec:sem(Security Manager, Application Security)-->sec:sesm(Senior Security Manager, Application Security);
-  sec:sesm(Senior Security Manager, Application Security)-->sec:ds(Director of Security Engineering);
+  sec:sesm(Senior Security Manager, Application Security)-->sec:ds(Director of Product Security);
 ```
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule 1 or 2 50-minute interviews with Application Security team member peers.
 - Then, candidates will be invited to schedule a 50-minute interview with the Application Security team hiring manager.
-- Finally, candidates will be invited to schedule a 30-minute interview with the Director, Security Engineering.
+- Finally, candidates will be invited to schedule a 30-minute interview with the Director, Product Security.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

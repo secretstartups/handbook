@@ -1,0 +1,16 @@
+<table style="display: table;">
+    <thead>
+        <tr>
+            <th>Country</th>
+            <th>Notice Period</th>
+        </tr>
+    </thead>
+    <tbody>
+      {{- range sort (where site.Data.public.entity_mapper "probation" "eq" "None") "country" }}
+        <tr>
+            <td>{{ .country }}</td>
+            <td>{{ .notice_after_probation }}</td>
+        </tr>
+      {{- end }}
+    </tbody>
+</table>

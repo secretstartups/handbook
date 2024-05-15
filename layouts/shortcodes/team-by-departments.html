@@ -1,0 +1,37 @@
+{{- /* <!-- TODO: make this list dynamic based on the `borrow` field in yaml files --> */}}
+{{- /*  Initialize. */}}
+{{- $departments := slice }}
+{{- $managerRoles := slice }}
+
+{{- if .IsNamedParams }}
+  {{- with .Get "departments"}}
+    {{- $departments = strings.Split . "," }}
+  {{- end }}
+  {{- with .Get "manager-roles" }}
+    {{- $managerRoles = strings.Split . "," }}
+  {{- end }}
+  {{- with .Get "department" }}
+    {{- $departments = append (strings.Split . ",") $departments }}
+  {{- end }}
+{{- else }}
+  {{- $departments = (slice (.Get 0)) }}
+{{- end }}
+
+{{- $members := where site.Data.public.team "departments" "intersect" $departments }}
+{{- $members = append (where site.Data.public.team "job_title" "intersect" $managerRoles) $members }}
+{{- $members = sort (uniq $members) "name" }}
+
+<table>
+    <thead>
+        <th>Name</th>
+        <th>Role</th>
+    </thead>
+    <tbody>
+        {{- range $members }}
+          <tr>
+              <td>{{ partial "member/with-team-link" . }}</td>
+              <td>{{ .role | safe.HTML }}</td>
+          </tr>
+        {{- end }}
+    </tbody>
+</table>

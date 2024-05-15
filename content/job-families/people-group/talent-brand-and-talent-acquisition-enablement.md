@@ -12,7 +12,7 @@ The Talent Brand Program Manager reports to the Senior Director of Talent Brand 
 
 #### Talent Brand Program Manager Job Grade
 
-The Talent Brand Program Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Talent Brand Program Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Talent Brand Program Manager Responsibilities
 
@@ -54,7 +54,7 @@ The Program Manager, Enablement reports to the Senior Manager, Global Enablement
 
 #### Program Manager, Enablement Job Grade
 
-The Progam Manager, Enablement is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Progam Manager, Enablement is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Program Manager, Enablement Responsibilities
 
@@ -88,7 +88,7 @@ The Senior Program Manager, Enablement reports to the Senior Manager, Global Ena
 
 #### Senior Program Manager, Enablement Job Grade
 
-The Progam Manager, Enablement is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Progam Manager, Enablement is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Program Manager, Enablement Responsibilities
 
@@ -123,7 +123,7 @@ The Manager, Global Enablement reports to the Senior Director of Talent Brand & 
 
 #### Manager, Global Enablement Job Grade
 
-The Manager, Recruiting Operations is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Recruiting Operations is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Global Enablement Responsibilities
 
@@ -132,7 +132,7 @@ The Manager, Recruiting Operations is a [grade 8](https://about.gitlab.com/handb
 - Partner with finance and our PBP team to ensure that the necessary process flows are built for scale
 - Partner with our Data and Analytics team to build a solid reporting suite for the Head of TA, their leadership team and the hiring manager community
 - Provide coaching to improve performance of team members and drive accountability
-- Develop, own and run the Gitlab hiring planning process in collaboration with the various operations teams, finance and the PBP’s
+- Develop, own and run the GitLab hiring planning process in collaboration with the various operations teams, finance and the PBP’s
 - Build trusted partnerships within GitLab and externally to collaborate, drive alignment and stay on top of trends
 - Leverage our candidate facing teams to advocate for our employer brand and deliver a world-class experience
 - Help define and leverage data-focused metrics in order to develop and deliver on the goals
@@ -158,7 +158,7 @@ The Senior Manager, Global Enablement reports to the Senior Director of Talent B
 
 #### Senior Manager, Global Enablement Job Grade
 
-The Senior Manager, Recruiting Operations is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Recruiting Operations is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Global Enablement Responsibilities
 
@@ -172,7 +172,7 @@ The Senior Manager, Recruiting Operations is a [grade 9](https://about.gitlab.co
 - Partner with our Legal team to ensure our practices and processes are in line with employment laws in locations where we operate
 - Provide coaching to improve performance of team members and drive accountability
 - Onboard, mentor, and grow the careers of all team members in the TA Enablement and Candidate Experience teams
-- Develop, own and run the Gitlab hiring planning process in collaboration with the various operations teams, finance and the PBP’s
+- Develop, own and run the GitLab hiring planning process in collaboration with the various operations teams, finance and the PBP’s
 - Build trusted partnerships within GitLab and externally to collaborate, drive alignment and stay on top of trends
 - Leverage our candidate facing teams to advocate for our employer brand and deliver a world-class experience
 - Help define and leverage data-focused metrics in order to develop and deliver on the goals
@@ -204,13 +204,13 @@ The Director of Talent Brand & Talent Acquisition Enablement reports to the [VP 
 
 #### Director of Talent Brand & Talent Acquisition Enablement Job Grade
 
-The Director Talent Brand is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director Talent Brand is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director of Talent Brand & Talent Acquisition Enablement Responsibilities
 
 - Establish a 3-year global talent branding/marketing strategy and position talent brand as a
-core priority for Global Talent Acquisition and the recruiting community at Gitlab.
-- Overall responsibility for continuing and building upon the Gitlab global talent brand to
+core priority for Global Talent Acquisition and the recruiting community at GitLab.
+- Overall responsibility for continuing and building upon the GitLab global talent brand to
 position us as an employer of choice across all functions
 - Establish the talent value proposition; partnering internally to ensure a consistent experience
 throughout the employee lifecycle
@@ -252,12 +252,12 @@ The Senior Director of Talent Brand & Talent Acquisition Enablement reports to t
 
 #### Senior Director of Talent Brand & Talent Acquisition Enablement Job Grade
 
-The Senior Director Talent Brand is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director Talent Brand is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Director of Talent Brand & Talent Acquisition Enablement Responsibilities
 
-- Establish a 3-year global talent branding/marketing & enablement strategy and position talent brand & enablement as a core priority for Global Talent Acquisition and the recruiting community at Gitlab.
-- Overall responsibility for continuing and building upon the Gitlab global talent brand to position us as an employer of choice across all functions
+- Establish a 3-year global talent branding/marketing & enablement strategy and position talent brand & enablement as a core priority for Global Talent Acquisition and the recruiting community at GitLab.
+- Overall responsibility for continuing and building upon the GitLab global talent brand to position us as an employer of choice across all functions
 - Establish the talent value proposition; partnering internally to ensure a consistent experience throughout the employee lifecycle
 - Manage and own external vendors and award-body relationships. Ensuring that we are well positioned and intentional about the work with our external partners is a key part of this role (Glassdoor, Builtin, LinkedIN, GPTW, Forbes, Fortune etc)
 - Establish a recruiter talent brand “toolkit”
@@ -282,10 +282,10 @@ The Senior Director Talent Brand is a [grade 11](https://about.gitlab.com/handbo
 
 ## Performance Indicators
 
-- [Glassdoor engagement](https://about.gitlab.com/handbook/people-group/employment-branding/#glassdoor-engagement)
-- [LinkedIn Talent Brand metrics](https://about.gitlab.com/handbook/people-group/employment-branding/#linkedin-talent-brand-metrics)
-- [Team member engagement score](https://about.gitlab.com/handbook/people-group/employment-branding/#team-member-engagement-score)
-- [Team member voluntary turnover](https://about.gitlab.com/handbook/people-group/people-group-metrics/#team-member-voluntary-turnover)
+- [Glassdoor engagement](/handbook/people-group/employment-branding/#glassdoor-engagement)
+- [LinkedIn Talent Brand metrics](/handbook/people-group/employment-branding/#linkedin-talent-brand-metrics)
+- [Team member engagement score](/handbook/people-group/employment-branding/#team-member-engagement-score)
+- [Team member voluntary turnover](/handbook/people-group/people-group-metrics/#team-member-voluntary-turnover)
 - [Hires vs. plan](/#hires-vs-plan)
 - [Social Referrals](https://about.gitlab.com/#social-referrals)
 
@@ -295,11 +295,11 @@ The next step in the Talent Brand job family is to move a to management role whi
 
 ## Hiring Process
 
-Applicants for this position can expect the hiring process to follow the order below. Please keep in mind that applicants can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Applicants for this position can expect the hiring process to follow the order below. Please keep in mind that applicants can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 - Selected candidates will be invited to schedule a 30min screening call with one of our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with the Hiring Manager
 - Next, candidates will be invited to interview with 2-5 team members
 - There may be a final executive interview
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

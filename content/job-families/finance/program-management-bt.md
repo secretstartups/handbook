@@ -212,7 +212,7 @@ Extends the Director, IT Program Management requirements plus:
 
 ### Performance Indicators (PI)
 
-- [Evaluating System or Process Efficiency](https://about.gitlab.com/handbook/business-technology/metrics/#evaluating-system-or-process-efficiency)
+- [Evaluating System or Process Efficiency](https://internal.gitlab.com/handbook/it/it-performance-indicators/#evaluating-system-or-process-efficiency)
 - IT Program efficacy and on-time delivery
 
 ## Career Ladder
@@ -221,12 +221,12 @@ The next step in the IT PMO job family is to move to the [IT Management](https:/
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Next, candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with our Global Recruiters
+- Next, candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with our VP IT in a panel interview
 - Next, candidates will be invited to schedule a one to two interviews with a business stakeholder in accounting, sales or product (m
 - Candidates will then be invited to schedule with a leader in the Data, IT Ops, BSA team or FinSys team
 - Then the candidate will be invited to interview with the VP Finance or CFO
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/)
+Additional details about our process can be found on our [hiring page](/handbook/hiring/)

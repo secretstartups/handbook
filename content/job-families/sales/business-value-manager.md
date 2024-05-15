@@ -25,7 +25,7 @@ The Business Value Manager (Intermediate) reports to the [Manager, Business Valu
 
 #### Business Value Manager (Intermediate) Job Grade
 
-The Business Value Manager (Intermediate) is a [grade #9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Business Value Manager (Intermediate) is a [grade #9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Business Value Manager (Intermediate) Responsibilities
 
@@ -47,7 +47,7 @@ The Senior Business Value Manager reports to the [Manager, Business Value Servic
 
 #### Senior Business Value Manager Job Grade
 
-The Senior Business Value Manager is a [grade #9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Business Value Manager is a [grade #9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Business Value Manager Responsibilities
 
@@ -66,11 +66,11 @@ The Senior Business Value Manager is a [grade #9](https://about.gitlab.com/handb
 
 ### Manager, Business Value Services Team
 
-The Manager, Business Value Services Team reports to the [Senior Director, Solutions Archtiecture](https://about.gitlab.com/job-families/sales/solutions-architect/#senior-director-solutions-architects).
+The Manager, Business Value Services Team reports to the [Senior Director, Solutions Archtiecture](/job-families/sales/solutions-architect/#senior-director-solutions-architects).
 
 #### Manager, Business Value Services Team Job Grade
 
-The Manager, Business Value Services Team is a [grade #9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Business Value Services Team is a [grade #9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Business Value Services Team Responsibilities
 
@@ -92,10 +92,10 @@ The Manager, Business Value Services Team is a [grade #9](https://about.gitlab.c
 
 ## Performance Indicators
 
-As with all roles in the Sales Department, the Business Value Services job family participates in a subset the [Sales KPIs](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/sales/#kpi-summary).
+As with all roles in the Sales Department, the Business Value Services job family participates in a subset the [Sales KPIs](https://internal.gitlab.com/handbook/company/performance-indicators/sales/#kpi-summary).
 
-- [Net ARR versus Plan](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/sales/#net-arr-vs-plan)
-- [New Logos](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/sales/#new-logos)
+- [Net ARR versus Plan](https://internal.gitlab.com/handbook/company/performance-indicators/sales/#net-arr-vs-plan)
+- [New Logos](https://internal.gitlab.com/handbook/company/performance-indicators/sales/#new-logos)
 
 ## Career Ladder
 
@@ -104,14 +104,14 @@ As with all roles in the Sales Department, the Business Value Services job famil
   - A Manager role within another job family
   - Roles within Sales or Cusomter Success
 - The next steps for a Manager, Business Value Services Team would be to move into a Senior Manager within this Job Family
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
+- [Leadership at GitLab](/handbook/company/structure/#director-group)
 
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 
 *{add a bulleted list of the hiring process steps here}
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
