@@ -87,6 +87,7 @@ The Staff IT Program Manager is a [grade 8](https://about.gitlab.com/handbook/t
 ### Staff IT Program Manager Responsibilities
 
 Extends the Senior IT Program Management responsibilities plus:
+
 - Understands and works on complex problems that requires a deep understanding of multiple sources of data to make a recommendation.
 - Leads others by sharing solutions and problem solving approaches with others.
 - Leverages business acumen, functional expertise and good judgement when evaluating possible outcomes.
@@ -112,6 +113,7 @@ The Principal, IT Program Management is a [grade 9](https://about.gitlab.com/ha
 ### Principal, IT Program Management Responsibilities
 
 Extends the Staff IT Program Management responsibilities plus:
+
 - Play a critical role in steering complex IT programs toward successful outcomes, ensuring that they align with the organization's strategic goals and deliver value.
 - Develop and articulate a clear and comprehensive program strategy aligned with the organization's long-term goals and vision.
 - Provide strong leadership and direction to program teams, ensuring alignment with the program's strategic objectives.
@@ -123,6 +125,7 @@ Extends the Staff IT Program Management responsibilities plus:
 ### Principal, IT Program Management Requirements
 
 Extends the Staff IT Program Manager requirements plus:
+
 - 10+ years of experience in IT program management or a related field. This experience should include successfully managing large and highly complex programs, overseeing multiple project teams, and delivering results.
 - Strong track record of leadership roles, including supervising and mentoring program and project managers, leading cross-functional teams, and managing senior stakeholders effectively.
 
@@ -162,11 +165,13 @@ The Senior Manager, IT Program Management is a [grade 9](https://about.gitlab.c
 ### Senior Manager, IT Program Management Responsibilities
 
 Extends the Manager, IT Program Management responsibilities plus:
+
 - Responsible for overseeing and managing complex IT programs and initiatives within an organization. This role involves strategic planning, leadership, and managing a team of program managers and project managers.
 
 ### Senior Manager, IT Program Management Requirements
 
 Extends the Manager, IT Program Management requirements plus:
+
 - 10+ years of experience in IT program management or a related field. This experience should include successfully managing large and highly complex programs, overseeing multiple project teams, and delivering results.
 
 ## Director, IT Program Management
@@ -201,11 +206,13 @@ The Senior Director, IT Program Management is a [grade 11](https://about.gitlab
 ### Senior Director, IT Program Management Responsibilities
 
 Extends the Director, IT Program Management responsibilities plus:
+
 - High-level executive position responsible for overseeing and leading the organization's IT program management function. This role involves strategic planning, leadership, and management of a team of program managers and project managers.
 
 ### Senior Director, IT Program Management Requirements
 
 Extends the Director, IT Program Management requirements plus:
+
 - 15+ years of experience in IT program management or a related field. This experience should demonstrate a track record of successfully managing complex programs and projects and leading teams.
 
 ## Performance Indicators
