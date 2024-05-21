@@ -137,7 +137,7 @@ Recent entries should indicate successful requests to Puma (i.e. when you reload
 1. SSH into your **GitLab Runner server**.
 
 ```bash
-ssh -i <SSH_host_keyY>.pem ec2-user@<GitLab_runner_host>
+ssh -i <SSH_HOST_KEY>.pem ec2-user@<GITLAB_runner_host>
 ```
 
 8. Download Git if it is not already installed.
@@ -169,7 +169,7 @@ git status
 14. Open an SSH session on your **GitLab Omnibus instance**.
 
 ```bash
-ssh -i <SSH_host_key>.pem ec2-user@<GitLab_omnibus_host>
+ssh -i <SSH_HOST_KEY>.pem ec2-user@<GITLAB_OMNIBUS_HOST>
 ```
 
 15. Verify Gitaly is running.
@@ -241,7 +241,7 @@ git fetch
 29. Re-initiate an SSH session on your **GitLab Omnibus instance**.
 
 ```bash
-ssh -i <SSH_host_key>.pem ec2-user@<GitLab_omnibus_host>
+ssh -i <SSH_HOST_KEY>.pem ec2-user@<GITLAB_OMNIBUS_HOST>
 ```
 
 30. Restart Gitaly services.
@@ -287,7 +287,7 @@ sudo ./gitlabsos.rb
 
 ```bash
 ls
-tar -tvf gitlabsos.<GitLab_FQDN>.<timestamp>.tar.gz
+tar -tvf gitlabsos.<GITLAB_FQDN>.<timestamp>.tar.gz
 ```
 
 GitLab Support may ask for this report to assist with troubleshooting.

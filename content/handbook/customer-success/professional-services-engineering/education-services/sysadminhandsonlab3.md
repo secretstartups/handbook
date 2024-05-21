@@ -14,17 +14,17 @@ The objective of this lab is to demonstrate how to create and register a GitLab 
 
 1. Use your assigned IP address and SSH key file to log into your **GitLab Runner** server (*not* your Omnibus server).
 
-```bash
-ssh -i <YOUR_ASSIGNED_SSH_KEYFILE> ec2-user@<YOUR_RUNNER_SERVER_PUBLIC_IP>
-```
+    ```bash
+    ssh -i <YOUR_ASSIGNED_SSH_KEYFILE> ec2-user@<YOUR_RUNNER_SERVER_PUBLIC_IP>
+    ```
 
 1. If your system displays an authentication warning, type `yes` and press <kbd>Enter</kbd>
 
 1. Add the GitLab Runner installation repository.
 
-```bash
-curl -L "https://packages.gitlab.com/install/repositories/runner/gitlab-runner/script.rpm.sh" | sudo bash
-```
+    ```bash
+    curl -L "https://packages.gitlab.com/install/repositories/runner/gitlab-runner/script.rpm.sh" | sudo bash
+    ```
 
 4. Install the GitLab Runner agent.
 
@@ -46,11 +46,9 @@ curl -L "https://packages.gitlab.com/install/repositories/runner/gitlab-runner/s
 
 1. Select **New instance runner**.
 
-1. In the **Operating systems** section, select **Linux**.
-
 1. In the **Tags** section, select **Run untagged jobs**.
 
-  > This will allow the runner to pick up any jobs rather than just jobs with specific tags.
+    > This will allow the runner to pick up any jobs rather than just jobs with specific tags.
 
 1. Leave all other options as default and select **Create runner**.
 
@@ -62,7 +60,7 @@ curl -L "https://packages.gitlab.com/install/repositories/runner/gitlab-runner/s
 
 1. When you are prompted for an executor, type `shell`.
 
-  > A shell executor will run jobs using your instance's shell. For more information about executors, check the [documentation](https://docs.gitlab.com/runner/executors/).
+    > A shell executor will run jobs using your instance's shell. For more information about executors, check the [documentation](https://docs.gitlab.com/runner/executors/).
 
 1. Run `sudo gitlab-runner list` to verify the runner after registration.
 
