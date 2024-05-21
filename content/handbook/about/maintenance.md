@@ -1,5 +1,6 @@
 ---
 title: "Content Websites"
+aliases: /handbook/content-websites/
 ---
 
 ## Overview
@@ -60,9 +61,10 @@ Handbook issues typically fall under one of the following:
 1. Content: Anything related to updating the text in the handbook, including required fixes.
 1. Feature: New or an enhancement of how the handbook works, such as theme, or shortcode.
 1. Operations: Theme, pipeline, local development, linters, other maintenance, and related documentation.
-1. Bug: Problem that prevents users from contributing, typically related to handbook operations.
 
-The team overseeing the content websites generally only resources operations and bug issues,
+Issues may be considered a bug separately from the category when applicable (not a feature).
+
+The team overseeing the content websites generally only resources operations issues,
 unless the issue is a blocker for contributing or using the handbook.
 
 ### Priority
@@ -85,17 +87,14 @@ We encourage contributions for all issues, especially priority 3 and 4 issues, t
 
 ### Severity
 
-Severity labels help us determine urgency and clearly communicate the impact of a ~"Handbook::bug" on users.
-
-Content issues, such as typos, are *not* bug issues.
-Severity may be applied, but
+Severity labels help us determine urgency and clearly communicate the impact of a ~"Handbook::Operations" issue on users.
 
 The severity should be determined based the various factors in the table below.
 When an issue falls under multiple categories, use your best judgment.
 
 Once you've determined a severity for an issue add a note that explains in summary why you selected the severity you did. This will help future team members understand your rationale so they will know how to proceed with acting upon the issue.
 
-| Type of `~"Handbook::bug"` | `~"hb-severity::1"`: Blocker | `~"hb-severity::2"`: High | `~"hb-severity::3"`: Medium  | `~"hb-severity::4"`: Low |
+| `~"Handbook::Operations" ~"type::bug"` | `~"hb-severity::1"`: Blocker | `~"hb-severity::2"`: High | `~"hb-severity::3"`: Medium  | `~"hb-severity::4"`: Low |
 |----------------|--------------------------|---------------------------|-------------------------|----------------------|
 | General bugs   | Broken feature with no workaround or any data-loss. | Broken feature with an unacceptably complex workaround. | Broken feature with a workaround. | Functionality is inconvenient. |
 | Impact on users | Impacts 20% or more of users without an available workaround | Impacts 20% or more of users, but a reasonable workaround is available<br/><br/>**AND/OR**<br/><br/>Impacts between 5%-20% of users without an available workaround | Impacts up to 20% of users with a reasonable workaround, or workaround not required. | Minimal impact on typical user's workflow. Workaround is available or not needed. |
