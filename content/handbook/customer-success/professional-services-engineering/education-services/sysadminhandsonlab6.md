@@ -45,7 +45,7 @@ Admins are able to set minimum log levels for some GitLab services. Note that on
 sudo grep -n -E 'log_level|logging_level' /etc/gitlab/gitlab.rb
 ```
 
-2. Note the line number for `nginx['logging_level']`.
+2. Note the line number for `nginx['error_log_level']`.
 
 3. Change the minimum log level for `nginx`. Replace "1731" with the appropriate line number from the `grep` output in the previous step.
 
@@ -140,7 +140,7 @@ Many logs are JSON formatted by default. Admins may wish to configure text forma
 
 1. Run `sudo gitlab-ctl tail gitaly/current` to see the current JSON output for Gitaly logging.
 
-3. Change Gitaly's log format from JSON to text formatting. In your preferred text editor, locate the line `gitaly['configuration]`. Inside this configuration object, you will see a logging configuration similar to below:
+3. Change Gitaly's log format from JSON to text formatting. Ensure you align the line numbers to the correct lines from above. 
 
     ```bash
     sudo sed -i '2588s/json/text/' /etc/gitlab/gitlab.rb
