@@ -3,7 +3,8 @@ title: "Diversity, Inclusion & Belonging"
 description: "Diversity, Inclusion & Belonging is fundamental to the success of GitLab. We include it in every way possible and in all that we do."
 ---
 
-![Our Global Team](/images/summits/2019_new-orleans_team.png){:.illustration}*<small>In May of 2019, our team of 638 GitLab team-members from around the world had our annual company trip in New Orleans!</small>*
+<!-- blank line -->
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/947155019/7725ecc570" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ## Diversity, Inclusion & Belonging at GitLab
 
