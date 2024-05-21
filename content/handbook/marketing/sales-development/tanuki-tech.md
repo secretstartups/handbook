@@ -22,7 +22,7 @@ The average coding bootcamp here in the United States costs 13.5k and graduates 
 * Enablement should be quick and effective. We are not trying to inundate you with information to eat up all of your time. Most courses in our curriculum are designed to take up around two hours including examination.
 * We test often and we test behaviors that apply to your actual job. Research shows that the most effective teachers consistently test more than their peers. **Do not get discouraged if you fail a test; it is better to fail in front of a peer who is trying to help you than in front of a customer.**
 * Classes are generally offered in hybrid format (live and recorded options). Examinations are mostly offered in a written format.
-* All classes are available on demand. Recordings and assets (slides, exams) are listed [here](https://levelup.gitlab.com/) under "Sales Development."
+* All classes are available on demand. Recordings and assets (slides, exams) are listed [here](https://levelup.gitlab.com/pages/sales-development) under "Sales Development."
 
 ## Curriculum
 
@@ -195,12 +195,20 @@ To hand in written exams:
 
 ## Enrollment
 Coursework will be assigned at the beginning of each quarter. To see your assigned coursework, see [here](https://docs.google.com/spreadsheets/d/1P7QvZ09F8OT7LJTeMRYbu6_Oxjw9UdouaJ5Oeo8SU8k/edit?usp=sharing).
-* To complete coursework virtually, take classes at your on pace on [Level Up](https://levelup.gitlab.com/).
+* To complete coursework virtually, take classes at your on pace on [Level Up](https://levelup.gitlab.com/pages/sales-development).
 * Some sessions are offered live. Those that are offered live will be communicated to team members.
+
+## Onboarding
+All team members are required to meet certain enablement milestones by the end of their first and third months. To see these requirements, see "Sales Development Leveling" below.
+* For links to the Tanuki Tech courses, see [here](https://levelup.gitlab.com/pages/sales-development).
+* For the link to the onboarding checklist, see [here](https://docs.google.com/spreadsheets/d/14YdcHbQizanNRf-emYOdow6UP_Z246pIHo_KIWrrzyU/edit#gid=1023692240).
+* For the link to Inbound (SDR), see [here](https://university.gitlab.com/pages/sales-development?labels=%5B%22Sales%20Development%22%5D&values=%5B%22Inbound%20(SDR)%22%5D).
+* For the link to Outbound (BDR), see [here](https://university.gitlab.com/pages/sales-development?labels=%5B%22Sales%20Development%22%5D&values=%5B%22Outbound%20(BDR)%22%5D).
+
+For Inbound (SDR) and Outbound (BDR), take the quiz at the end to pass.
 
 ## Sales Development Leveling
 To qualify for promotions, sales development team members are required to keep up with their quarterly enablement. The following are the current course requirements and are subject to change.
-* Note: in Q1FY2023 we moved to enrollment based on tenure in the organization. Because of this, we have adopted a transition plan from the old system to the new system.
 
 | Tenure         | SDR         | BDR         |
 | -------------- | ----------- | ----------- |
