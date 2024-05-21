@@ -73,7 +73,7 @@ Examples of an under-resourced project:
 There may be projects with no clear leader for a myriad of reasons, including that we're still hiring the point person or the lead is on leave.
 Because of the team's ability to come up to speed quickly, they may be tasked with something totally out of their domain with the expectation that they bring their leadership experience to the table, will do the work to make good decisions, and will lean on team members who are subject-matter experts.
 
-For example, there has historically been no DRI for the [handbook or related content sites]({{< ref content-websites >}}). As it became clear that this was a GitLab priority, but no function planned to prioritize this within the coming year, the Office of the CEO stepped in to take on handbook ownership.
+For example, there has historically been no DRI for the [handbook or related content sites](/handbook/about/maintenance/). As it became clear that this was a GitLab priority, but no function planned to prioritize this within the coming year, the Office of the CEO stepped in to take on handbook ownership until an owner could be identified.
 
 Examples of projects with no clear leader:
 
