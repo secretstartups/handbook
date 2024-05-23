@@ -4,7 +4,7 @@ title: Understanding SOCIAL STYLES
 
 ## Introducing SOCIAL STYLES
 
-On this page, we will detail a unique approach developed by the [TRACOM Corporation](https://tracom.com/social-style-training/model#) called SOCIAL STYLES&reg; that can be used by Managers and Individual Contributors. It is a framework to improve interpersonal effectiveness and [emotional intelligence]({{< ref "emotional-intelligence" >}}). As a Manager, you can be more effective in your relationships with team members if you learn to focus on their behavior in an objective fashion. SOCIAL STYLES is a structured approach for observing, understanding, and anticipating an individual's behavior. Managing in an all-remote company comes down to trust, communication, and [company-wide support of shared goals](https://about.gitlab.com/company/culture/all-remote/management/). Use this page as a frame of reference to help [build trust]({{< ref "building-trust" >}}) within your teams.
+On this page, we will detail a unique approach developed by the [TRACOM Corporation](https://tracom.com/social-style-training/model#) called SOCIAL STYLES&reg; that can be used by Managers and Individual Contributors. It is a framework to improve interpersonal effectiveness and [emotional intelligence]({{< ref "emotional-intelligence" >}}). As a Manager, you can be more effective in your relationships with team members if you learn to focus on their behavior in an objective fashion. SOCIAL STYLES is a structured approach for observing, understanding, and anticipating an individual's behavior. Managing in an all-remote company comes down to trust, communication, and [company-wide support of shared goals](/handbook/company/culture/all-remote/management/). Use this page as a frame of reference to help [build trust]({{< ref "building-trust" >}}) within your teams.
 
 ## Drawbacks of Using Personality & Behavioral Assessments
 
@@ -274,6 +274,7 @@ Use the persona as a roadmap to implementing the SOCIAL STYLEs assessment within
 ## Additional Resources on SOCIAL STYLES
 
 Below are additional resources on social styles for review
+
 - [TRACOM SOCIAL STYLE Model](https://tracom.com/social-style-training/model)
 - [Social Styles and Conflict Resolution](https://legadima.co.za/conflict-management-social-styles/)
 - [Managerial Success Stories](https://tracom.com/wp-content/uploads/2019/01/Managerial-Success-Story-TRACOM_ss2018.pdf)

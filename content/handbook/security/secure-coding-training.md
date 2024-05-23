@@ -7,7 +7,7 @@ This page contains information on secure training initiatives sponsored by the G
 ## Security Development Process
 
 For information on developing security fixes in GitLab, please see the
-[Security Release Documentation](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/developer.md). (Required)
+[Patch Release runbook for preparing security fixes](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/engineer.md). (Required)
 
 ## Secure Coding Guidelines
 
@@ -49,7 +49,7 @@ The criteria used to determine inclusion were:
   - This is typically Individual Contributors and their direct Managers. Senior Managers and above are excluded, at present.
 - Does AppSec believe the role benefit from Secure Code Training anyway?
 
-If a role should be added or removed, please open an MR and @ mention `@gitlab-com/gl-security/appsec`. If your role is in the list already but SCW doesn't show up in Okta, ask for help in `#secure-code-warrior` on Slack. An AppSec team member will add you to [the Google Group](https://groups.google.com/a/gitlab.com/g/okta-securecodewarrior-users/members) and update any baseline entitlements / onboarding checklists to ensure those in your role are included in the future.
+If a role should be added or removed, please open an MR and @ mention `@gitlab-com/gl-security/product-security/appsec`. If your role is in the list already but SCW doesn't show up in Okta, ask for help in `#secure-code-warrior` on Slack. An AppSec team member will add you to [the Google Group](https://groups.google.com/a/gitlab.com/g/okta-securecodewarrior-users/members) and update any baseline entitlements / onboarding checklists to ensure those in your role are included in the future.
 
 The roles are:
 
@@ -174,7 +174,7 @@ You can find the recorded, private YouTube stream at the following:
 - [Day 2 Morning](https://www.youtube.com/watch?v=bJYUxKn88so )
 - [Day 2 Afternoon](https://www.youtube.com/watch?v=8tP2KVKHO7A)
 
-These videos are private by default. To view them, you will need to [switch to the GitLab Unfiltered account](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube).
+These videos are private by default. To view them, you will need to [switch to the GitLab Unfiltered account](/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube).
 
 #### Recommendations
 

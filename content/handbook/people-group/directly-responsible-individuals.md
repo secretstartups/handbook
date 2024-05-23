@@ -14,7 +14,7 @@ The DRI might be a manager or team leader, they might even be an executive.
 Or, they may themselves be individually responsible for fulfilling all the needs of their project.
 The selection of a DRI and their specific role will vary based on their own skillset and the requirements of their assigned task.
 What's most important is that they're empowered.
-We may [disagree, commit, and disagree]({{< ref "values#disagree-commit-and-disagree" >}}), but we all have to achieve results on every decision while it stands, even when if trying to have it changed.
+We may [disagree, commit, and disagree]({{< ref "values#disagree-and-commit" >}}), but we all have to achieve results on every decision while it stands, even when if trying to have it changed.
 
 While the DRI is the individual who is ultimately held accountable for the success or failure of any given project, they are not necessarily the individual that does the tactical project work. The DRI should **consult and collaborate** with all teams and stakeholders involved to ensure they have all relevant context, to gather input/feedback from others, and to divide action items and tasks amongst those involved.
 
@@ -51,7 +51,7 @@ While they're empowered to make all final decisions, they should know how and wh
 
 ## Characteristics of a Project DRI
 
-DRIs are most often assigned at the task-level. For example, when building a new product feature [the Product Manager is the DRI for the prioritization and the Engineering Manager is the DRI for delivery](https://about.gitlab.com/handbook/product/product-processes/#working-with-your-group). As [managers of one]({{< ref "values#managers-of-one" >}}) GitLab team members are most often the DRI for the tasks they accomplish.
+DRIs are most often assigned at the task-level. For example, when building a new product feature [the Product Manager is the DRI for the prioritization and the Engineering Manager is the DRI for delivery](/handbook/product/product-processes/#working-with-your-group). As [managers of one]({{< ref "values#managers-of-one" >}}) GitLab team members are most often the DRI for the tasks they accomplish.
 
 At times, someone may be a DRI for an entire process or project. Because this comes with additional responsibility, there are some suggested characteristics to keep in mind when assigning the DRI.
 [Mike Brown](https://www.brainzooming.com/team#MikeBrownBio) in his November 2015 article, [Project Management – 8 Characteristics of a DRI](http://brainzooming.com/project-management-8-chracteristics-of-a-dri/25340/), lists the following:
@@ -73,11 +73,11 @@ The DRI will also be responsible for making sure the team gets there.
 A DRI should be able to articulate the objectives, check progress and give and receive feedback.
 This will ensure the DRI can change direction or plan ahead to avoid any setbacks.
 
-At GitLab we communicate and work [asynchronously](https://about.gitlab.com/company/culture/all-remote/management/#asynchronous), you can read more about it on [this page]({{< ref "communication" >}}).
+At GitLab we communicate and work [asynchronously](/handbook/company/culture/all-remote/management/#asynchronous), you can read more about it on [this page]({{< ref "communication" >}}).
 
 One thing to consider when a DRI needs to give or receive feedback is that they may not be the actual manager of the other members of the team.
 
-Giving or receiving feedback is tough and we have looked at this in our previous [Guidance on Feedback Training]({{< ref "guidance-on-feedback" >}}). See also GitLab's [guide to communicating effectively and responsibly through text](https://about.gitlab.com/company/culture/all-remote/effective-communication/).
+Giving or receiving feedback is tough and we have looked at this in our previous [Guidance on Feedback Training]({{< ref "guidance-on-feedback" >}}). See also GitLab's [guide to communicating effectively and responsibly through text](/handbook/company/culture/all-remote/effective-communication/).
 
 ## DRI, Consulted, Informed (DCI)
 
@@ -110,5 +110,5 @@ In these instances, another person may own the final decision, but this doesn't 
 
 1. [How well does Apple's DRI model work in practice](https://www.forbes.com/sites/quora/2012/10/02/how-well-does-apples-directly-responsible-individual-dri-model-work-in-practice/#4d83402d194c)
 1. [Matthew Mamet, DRI](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4)
-1. [Communicating effectively and responsibly through text](https://about.gitlab.com/company/culture/all-remote/effective-communication/)
+1. [Communicating effectively and responsibly through text](/handbook/company/culture/all-remote/effective-communication/)
 1. [GitLab Handbook, Guidance on Feedback]({{< ref "guidance-on-feedback" >}})

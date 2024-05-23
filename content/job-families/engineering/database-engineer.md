@@ -1,6 +1,6 @@
 ---
 title: "Database Engineer Roles"
-description: "Learn more about Database Engineer roles at Gitlab including requirements, responsibilities and more."
+description: "Learn more about Database Engineer roles at GitLab including requirements, responsibilities and more."
 ---
 
 ## Database Engineer
@@ -13,13 +13,13 @@ This role is focused on application changes and explicitly not an infrastructure
 
 ## Job Grade
 
-The Database Engineer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Database Engineer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
 
 - Pro-actively identify database performance impediments and resolve them by proposing and delivering changes to the GitLab codebase. Own this process end-to-end, from triaging issues to verifying your solution in production (GitLab.com)
 - Deliver application changes that allow us to scale the application and its database further and make sure we're prepared for data growth on both GitLab.com and self-managed installs
-- Act as a Database [Maintainer](https://about.gitlab.com/handbook/engineering/workflow/code-review/#maintainer) for the GitLab codebase and [review database-related application changes](https://docs.gitlab.com/ee/development/database_review.html) before they are released
+- Act as a Database [Maintainer](/handbook/engineering/workflow/code-review/#maintainer) for the GitLab codebase and [review database-related application changes](https://docs.gitlab.com/ee/development/database_review.html) before they are released
 - Providing database expertise to engineering teams through code reviews, pairing and training to help deliver optimal database designs and queries
 - Review, optimize and refactor the existing database schema
 - Create and incrementally improve documentation to reduce tribal knowledge, including
@@ -46,7 +46,7 @@ The Database Engineer is a [grade 6](https://about.gitlab.com/handbook/total-rew
 
 ## Requirements
 
-- Significant [professional software engineering experience](https://about.gitlab.com/job-families/engineering/backend-engineer/#professional-experience) with Ruby on Rails and PostgreSQL in large production environments
+- Significant [professional software engineering experience](/job-families/engineering/backend-engineer/#professional-experience) with Ruby on Rails and PostgreSQL in large production environments
 - Expert-level understanding of relational databases, SQL and query optimization techniques and demonstrated ability to both diagnose and prevent performance problems
 - Expert-level understanding of the internals of PostgreSQL
 - Proficiency in the English language, both written and verbal, sufficient for success in a remote and largely asynchronous work environment
@@ -80,15 +80,15 @@ The Database Engineer is a [grade 6](https://about.gitlab.com/handbook/total-rew
 
 ## Hiring Process
 
-Candidates for this position can generally expect the hiring process  to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team).
+Candidates for this position can generally expect the hiring process  to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team).
 
 - As part of the application, candidates are asked to complete a short technical questionnaire, with a possibility of additional technical questions being asked if needed after the application is submitted.
-- Next, candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Technical Recruiters
+- Next, candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Technical Recruiters
 - Next, candidates will be invited to schedule a 90 minute technical interview with one of our Database Engineers or Backend Engineers
 - Next, candidates will be invited to schedule a 60 minute interview with one of our Backend Engineering Managers
 - Next, candidates will be invited to schedule a 60 minute interview with our Director of Engineering
-- Successful candidates will subsequently be made an offer. Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+- Successful candidates will subsequently be made an offer. Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ## Career Ladder
 
-For more details on the engineering career ladders, please review the [engineering career development](https://about.gitlab.com/handbook/engineering/career-development/#roles) handbook page.
+For more details on the engineering career ladders, please review the [engineering career development](/handbook/engineering/careers/#roles) handbook page.

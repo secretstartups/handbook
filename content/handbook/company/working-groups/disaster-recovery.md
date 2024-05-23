@@ -1,6 +1,6 @@
 ---
 title: "Disaster Recovery Working Group"
-description: "The Disaster Recovery Working Group will determine what is needed to introduce a disaster recovery mechanism for GitLab.com."
+description: "The Disaster Recovery Working Group improves the disaster recovery mechanism for GitLab SaaS and Self-Hosted Products."
 status: active
 ---
 
@@ -15,11 +15,7 @@ status: active
 | Google Doc     | [Working Group Agenda](https://docs.google.com/document/d/1dLgmLlvET5WyWF0CpX5JUxiyQKyDzctocs7unwLueY8) (only accessible from within the company) |
 | Issue Board    | [Working Group Issue Board](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/5908541?label_name[]=WG%3A%3ADisasterRecovery&group_by=epic) |
 | Epic           | [Link](https://gitlab.com/groups/gitlab-com/-/epics/1899) |
-| Overview & Status | [Main Epic](https://gitlab.com/groups/gitlab-com/-/epics/1899), [Internal Handbook (more specific)](https://internal.gitlab.com/handbook/engineering/disaster-recovery/disaster-recovery-wg-sow/#status) |
-
-### Charter
-
-The Disaster Recovery Working Group will determine the work needed to improve the disaster recovery mechanism for GitLab SaaS Products, and the effort is necessary to build a reliable and predictable disaster recovery at the largest scale, leveraging existing tools.
+| Overview & Status | [Main Epic](https://gitlab.com/groups/gitlab-com/-/epics/1899), [Internal Handbook (more specific)](https://internal.gitlab.com/handbook/engineering/disaster-recovery/disaster-recovery-wg-sow/#current-goals-and-status) |
 
 ### Scope and Definitions
 
@@ -52,6 +48,7 @@ Completed:
 | Executive Stakeholder  | Jörg Heilig             | CTO                                            |
 | Facilitator/DRI        | Andras Horvath          | Engineering Manager, Gitaly                    |
 | Product Management DRI | Mark Wood               | Senior Product Manager, Gitaly                 |
+| Member                 | Ethan Guo               | Director, Infrastructure Technical Program Management |
 | Member                 | Gerardo Lopez-Fernandez | Engineering Fellow, Infrastructure             |
 | Member                 | Chun Du                 | Director of Engineering, Enablement            |
 | Member                 | Juan Silva              | Fullstack Engineering Manager, Geo             |
@@ -60,7 +57,7 @@ Completed:
 | Member                 | Michele Bursi           | Engineering Manager, Delivery                  |
 | Member                 | Sami Hiltunen           | Senior Backend Engineer, Gitaly                |
 | Member                 | Joshua Lambert          | Director of Product Management, Enablement     |
-| Member                 | Steve Azzopardi         | Staff SRE, Infrastructure.                     |
+| Member                 | Ahmad Sherif            | Senior SRE, Infrastructure                     |
 | Member                 | Fabian Zimmer           | Director of Product Management, SaaS Platforms |
 | Member                 | Nick Westbury           | Senior Software Engineer in Test, Geo          |
 | Member                 | Sean Carroll            | Engineering Manager, Source Code               |
@@ -68,5 +65,4 @@ Completed:
 ## Related Links
 
 - [Disaster Recovery at GitLab](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/library/disaster-recovery/index.md)
-- [Q1 OKR - Improve SaaS Disaster Recovery](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/122397485)
 - [DR presentation (internal)](https://docs.google.com/presentation/d/1-8KxO31IvOb7DYT3N0j8Add-3A0FZquIYQ2vjmLLU2s/edit#slide=id.g1319217f3a3_0_0)

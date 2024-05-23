@@ -14,7 +14,7 @@ The reasons for creating a Gender and Sexual Orientation Identity page in the Gi
 ### Additional resources
 
 - [GitLab Ally Resources]({{< ref "ally-resources" >}})
-- [Diversity, Inclusion and Belonging at GitLab](https://about.gitlab.com/company/culture/inclusion/)
+- [Diversity, Inclusion and Belonging at GitLab](/handbook/company/culture/inclusion/)
 - [Human Rights Campaign website][hrc]
   - [HRC Sexual Orientation and Gender Identity Definitions](https://www.hrc.org/resources/sexual-orientation-and-gender-identity-terminology-and-definitions)
   - [HRC Transgender FAQ](https://www.hrc.org/resources/transgender-faq)
@@ -31,9 +31,9 @@ The reasons for creating a Gender and Sexual Orientation Identity page in the Gi
 
 A person's internal perception of their own gender and the words they use to label themselves. A person may identify as a woman, or a man, a blend of the two (keep reading for more information on this), or neither. A person's gender identity may or may not be the same as their sex assigned at birth.
 
-In our HRIS (Human Resource Information System) [Workday]({{< ref "/handbook/people-group/systems-architecture#Workday" >}}), we have two self-identification fields related to Gender, which we ask our team members to complete during the onboarding process, although it is completely optional. We have one **Gender** field with only two options. This field is a default field in the HRIS and is not inclusive due to the fact that it is primarily used for mandatory Governmental reports and data classification.
+In our HRIS (Human Resource Information System) [Workday](/handbook/people-group/systems-architecture#Workday), we have two self-identification fields related to Gender, which we ask our team members to complete during the onboarding process, although it is completely optional. We have one **Gender** field with only two options. This field is a default field in the HRIS and is not inclusive due to the fact that it is primarily used for mandatory Governmental reports and data classification.
 
-At GitLab, we have the additional **Other Gender Options** field, which currently has a number of options for our team members to choose if you would like to. If you would like an additional option added, please contact our DIB team at `diversityinclusion@gitlab.com`. We are transparent in our results in our anonymous [Identity Data](https://about.gitlab.com/company/culture/inclusion/identity-data/).
+At GitLab, we have the additional **Other Gender Options** field, which currently has a number of options for our team members to choose if you would like to. If you would like an additional option added, please contact our DIB team at `diversityinclusion@gitlab.com`. We are transparent in our results in our anonymous [Identity Data](/handbook/company/culture/inclusion/identity-data/).
 
 #### Gender expression
 
@@ -100,7 +100,7 @@ Gender transition is a process of changing to align more closely with one's gend
 
 The enduring pattern of emotional, romantic, and/or sexual attraction (or lack of attraction) to other people. Sexual orientation is an inherent, unchanging attribute (i.e. not a preference or a choice.) People do change how they describe and/or understand their own sexual orientation.
 
-### Some common terms to describe Sexual orientation include:
+### Some common terms to describe Sexual orientation include
 
 #### Homosexual
 

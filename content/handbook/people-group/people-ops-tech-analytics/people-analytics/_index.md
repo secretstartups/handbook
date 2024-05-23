@@ -9,18 +9,19 @@ This handbook page is meant to cover who we are and why we exist at GitLab. On t
 
 ## People Analytics Team Members
 
-- [Adrian Perez](/company/team/#aperez349): [Sr. Manager, People Analytics]({{< ref "people-systems-and-analytics#senior-manager-people-analytics" >}})
-- [Shane McCormack](/company/team/#mccormack514): [Sr. Analyst, People Analytics]({{< ref "people-systems-and-analytics#senior-analyst-people-analytics" >}})
+- [Adrian Perez](/handbook/company/team/#aperez349): [Sr. Manager, People Analytics]({{< ref "people-systems-and-analytics#senior-manager-people-analytics" >}})
+- [Shane McCormack](/handbook/company/team/#mccormack514): [Sr. Analyst, People Analytics]({{< ref "people-systems-and-analytics#senior-analyst-people-analytics" >}})
 
 ## People Analytics Handbook Contents
 
-- [People Analytics Data Guide]({{< ref "./data-guide.md" >}})
-- [People Analytics Tableau Dashboard Overview]({{< ref "people-tableau" >}})
+- [People Analytics Data Guide]({{< ref "./data-guide.md" >}}) - If you are an analyst trying to use People data sets, this guide will help you get started with our data models.
+- [People Data Governance]({{< ref "data-governance" >}}) - This is an overview of how we ensure quality of our People data.
+- [People Analytics Tableau Dashboard Overview]({{< ref "people-tableau" >}}) - This page covers how we use Tableau to share data and insights at GitLab. It includes some of our commonly used dashboards.
+- [People Analytics Survey Support]({{< ref "survey-support" >}}) - We help build employee surveys in Culture Amp. This page covers some of the details we need to help administer a survey and the additional support the People Analytics team can provide.
 
 ## What is People Analytics?
 
-
-The study of people at work! Human Resource departments (the [People Group]({{< ref "/handbook/people-group" >}}) here at GitLab) everywhere are flipping their approach to organizational behavior. Instead of only using experience, opinions, or intuition to make decisions they are leveraging the power of data for decision making processes.
+The study of people at work! Human Resource departments (the [People Group](/handbook/people-group) here at GitLab) everywhere are flipping their approach to organizational behavior. Instead of only using experience, opinions, or intuition to make decisions they are leveraging the power of data for decision making processes.
 
 According to [AIHR](https://www.aihr.com/blog/people-analytics/) (Academy to Innovate HR):
 
@@ -51,7 +52,7 @@ We have a data governance process in place to ensure that we are only extracting
     - Work with stakeholders to develop automated reporting solutions used to gather relevant and reliable People metrics as quickly as possible.
     - Stakeholders include People Business Partners, Talent Acquisition, Divisional Leadership, etc.
 1. **Data Solutions**
-    - Work with the [Data Team](https://about.gitlab.com/handbook/business-technology/data-team/) to ensure scalable data models are being built to support the various reporting and analytic solutions to be provided to the business.
+    - Work with the [Data Team](/handbook/business-technology/data-team/) to ensure scalable data models are being built to support the various reporting and analytic solutions to be provided to the business.
 1. **Analytical Solutions**
     - Using various statistical techniques (e.g. cluster analysis, linear & logistic regression, survival analysis) to drive insights for the business so that data informed decisions can be made by the People Group and others at GitLab.
 
@@ -61,7 +62,7 @@ It is not necessary to have a large suite of tools in order to be an effective P
 
 1. **Tableau** - Tableau is currently being used to build prototypes of new dashboards and to conduct ad-hoc analysis. This is a very robust tool and provides a great opportunity for self-service exploration of data by our stakeholders.
 1. **Sisense** - This is our main reporting tool here at GitLab. This is used as our Single Source of Truth (SSOT) for metric reporting. This is available to all Team Members for exploration and to get information they need quickly.
-1. **RStudio/R** - We use R for our statistical modeling and analysis. It is also used to cleaning data for report building. For more information on how to use RStudio with GitLab and connect to Snowflake, head over to this [page](https://about.gitlab.com/handbook/business-technology/data-team/platform/rstudio/).
+1. **RStudio/R** - We use R for our statistical modeling and analysis. It is also used to cleaning data for report building. For more information on how to use RStudio with GitLab and connect to Snowflake, head over to this [page](/handbook/business-technology/data-team/platform/rstudio/).
 1. **Snowflake** - Snowflake is where we house our data and it has a SQL editor to allow for data exploration in the tool itself.
 
 ## Generic Rules and Guidance
@@ -73,12 +74,9 @@ It is not necessary to have a large suite of tools in order to be an effective P
 - Anonymize sensitive data that is used in metric calculations and reporting to reduce risk whenever possible.
 - Please submit requests and ideas using the issue templates in the [People Analytics project](https://gitlab.com/gitlab-com/people-group/people-operations/people-analytics2/).
 
-
 ## General People Analytics Resources
 
 - [Wharton People Analytics](https://analytics.wharton.upenn.edu/programs/wharton-people-analytics/) - Wharton hosts an annual People Analytics Conference and dedicates a lot of effort to research in this space.
 - [AIHR](https://www.aihr.com/blog/people-analytics-resource-library/) - AIHR is generally a good resource for HR and they have resources specific to People Analytics as well.
 - [HR Predictive Analytics](https://www.koganpage.com/product/predictive-hr-analytics-9780749484446) - A textbook that walks through People Analytics concepts and specific examples (with code!).
 - [re:Work](https://rework.withgoogle.com/subjects/people-analytics/) - While not updated in some time, this is a great introductory resource created by Google to help teams get started with People Analytics.
-
-

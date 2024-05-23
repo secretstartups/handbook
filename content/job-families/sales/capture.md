@@ -10,7 +10,7 @@ The Capture Specialist reports into FSI Manager.
 
 #### Program Capture Manager Job Grade
 
-The Capture Specialist is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Capture Specialist is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Program Capture Manager Responsibilities
 
@@ -47,11 +47,11 @@ The next steps for the Capture job family is not yet defined.
 
 ## Hiring Process
 
-Applicants for this position can expect the hiring process to follow the order below. Please keep in mind that applicants can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Applicants for this position can expect the hiring process to follow the order below. Please keep in mind that applicants can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Selected candidates will be invited to schedule a 30min [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
+- Selected candidates will be invited to schedule a 30min [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with the Hiring Manager
 - Next, candidates will be invited to interview with 2-5 team members
 - There may be a final executive interview
 
-Please note that a candidate may be declined from the position at any stage of the process. Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Please note that a candidate may be declined from the position at any stage of the process. Additional details about our process can be found on our [hiring page](/handbook/hiring/).

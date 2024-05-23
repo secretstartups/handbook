@@ -8,14 +8,14 @@ The Director of Partner Programs & Enablement helps manage and support the growt
 
 ### Job Grade
 
-The Director, Channel Programs & Enablement is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Channel Programs & Enablement is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
-- Responsible for the design, build and management of partner programs to support Gitlab Channel working in collaboration with the Channel Sales team
+- Responsible for the design, build and management of partner programs to support GitLab Channel working in collaboration with the Channel Sales team
 - Develop Partner Program collateral/documents and onboarding tools to enhance overall partner experience and communicate to partners
 - Develop Partner Portal; leveraging SFDC & PRM - working with marketing & Channel Ops
-- Provide management of Partner Portal to create an engaging platform for partners to interact with Gitlab (lead registration, opportunity tracking, commissions, etc)
+- Provide management of Partner Portal to create an engaging platform for partners to interact with GitLab (lead registration, opportunity tracking, commissions, etc)
 - Work with channel operations/IT to implement channel strategy, data/reporting, system workflows, and overall operational governance for the program
 - Design Channel Enablement Certification & Badge Model.  Work closely with Channel Marketing, Channel Services, Customer Success & Sales enablement on partner enablement tools/training and implement as part of overall program
 - Manage and provide administration of partner agreements/partner contracting working in coordination with legal
@@ -36,17 +36,17 @@ The Director, Channel Programs & Enablement is a [grade 10](https://about.gitlab
 - Innovation and the ability to gain consensus is necessary
 - Works extremely well as a member of a team, but also excels as an individual contributor
 - You share our values, and work in accordance with those values.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
+- [Leadership at GitLab](/handbook/company/structure/#director-group)
 - Ability to use GitLab
-- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
+- Ability to travel if needed and comply with the company’s [travel policy](/handbook/travel/)
 
 ## Senior Channel Program Manager
 
-The Channel Program Manager will be responsible for the design, management & execution of Gitlab’s Channels & Alliances Partner Programs.  In addition to the partner programs, the Channel Programs Managers will manage deal registration, recruitment and partner success programs and manage the partner advisory council.
+The Channel Program Manager will be responsible for the design, management & execution of GitLab’s Channels & Alliances Partner Programs.  In addition to the partner programs, the Channel Programs Managers will manage deal registration, recruitment and partner success programs and manage the partner advisory council.
 
 ### Job Grade
 
-The Senior Channel Program Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Channel Program Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -78,7 +78,7 @@ The Senior Director, Channel Programs & Enablement reports to the [VP of Global 
 
 ### Job Grade
 
-The Senior Director, Channel Programs & Enablement is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, Channel Programs & Enablement is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -86,7 +86,7 @@ The Senior Director, Channel Programs & Enablement is a [grade 11](https://about
 
 ### Performance Indicators
 
-[Sales KPI's](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/sales/#kpi-summary)
+[Sales KPI's](https://internal.gitlab.com/handbook/company/performance-indicators/sales/#kpi-summary)
 
 ## Career Ladder
 
@@ -99,4 +99,4 @@ Candidates for this position can expect the hiring process to follow the order b
 1. Phone screen with a GitLab Recruiting team member
 1. Video Interview with the Hiring Manager
 1. Team Interviews with 1-4 teammates
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

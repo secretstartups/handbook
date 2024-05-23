@@ -1,9 +1,9 @@
 ---
 title: PubSec Entity Board Director
-description: "The Gitlab PubSec Entity Board will support the leadership of Company's PubSec Practice, as well as the Company's Corporate Leadership."
+description: "The GitLab PubSec Entity Board will support the leadership of Company's PubSec Practice, as well as the Company's Corporate Leadership."
 ---
 
-The Gitlab PubSec Entity Board (the "Entity Board") will support the leadership of Company's PubSec Practice, as well as the Company's Corporate Leadership with the following responsibilities:
+The GitLab PubSec Entity Board (the "Entity Board") will support the leadership of Company's PubSec Practice, as well as the Company's Corporate Leadership with the following responsibilities:
 
 ## Responsibilities
 
@@ -25,7 +25,7 @@ The Gitlab PubSec Entity Board (the "Entity Board") will support the leadership 
 
 ## Relevant Links
 
-- [Sales Handbook](https://about.gitlab.com/handbook/sales/public-sector/)
+- [Sales Handbook](/handbook/sales/public-sector/)
 
 ## Hiring Process
 

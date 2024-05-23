@@ -1,11 +1,8 @@
 ---
 title: People Policies
 description: "GitLab's People policies support all GitLab team members and ensures their safe and thriving work environment."
+controlled_document: true
 ---
-
-{{% alert title="This is a Controlled Document" color="danger" %}}
-Inline with GitLab's regulatory obligations, changes to [controlled documents]({{< ref "controlled-document-procedure" >}}) must be approved or merged by a code owner. All contributions are welcome and encouraged.
-{{% /alert %}}
 
 ## Purpose
 
@@ -23,6 +20,10 @@ These policies apply to all GitLab team members, contractors, advisors, and cont
 | PeopleOps | Responsible for implementing and executing these policies |
 | Legal & PeopleOps Management (Code Owners) | Responsible for approving significant changes and exceptions to these policies |
 
+## Translations
+
+There are translations available of many of our policies, for reference purposes, currently in Dutch, French, German and Spanish, with further additions planned during FY25. They can be accessed [here](https://drive.google.com/drive/folders/1ZYIAuqGcIpaYVg8hMVDneK1FJg1b8zkN?usp=drive_link).
+
 ## General Employment Practices
 
 ### Open Door Policy
@@ -30,33 +31,6 @@ These policies apply to all GitLab team members, contractors, advisors, and cont
 We encourage communication between team members at all levels of the organization. This is an important part of our culture. Whenever problems or concerns arise, it is expected that they will be addressed as quickly as possible. Your immediate manager is the person on the management team who is closest to you and your work. When you need help or have questions, concerns, problems, or suggestions, please contact your manager first. It is your manager's responsibility to assist you - so please ask, and be willing to work the issue out with your manager. They are interested in your success, the success of every team member in their department, and the overall success of GitLab.
 
 If your manager cannot help you or answer your questions, your questions will be referred to someone who can. If you feel your particular question, concern, or suggestion cannot be discussed with your manager, you are encouraged to contact your manager's manager, your assigned People Business Partner or Team Member Relations. It is important to remember that a team member who takes these steps will not be subject to retaliation. You can expect to be treated fairly and with respect.
-
-### Background Screenings
-
-GitLab uses appropriate controls to ensure that its assets and its customer relationships and information are protected. To reduce these risks, GitLab will obtain and review background information of covered prospective, and, as applicable, current team members as allowed by local law.
-Contractors will also be required to complete a background screening per GitLab's [Third Party Risk Management Policy]({{< ref "third-party-risk-management#independent-contractors" >}}) and as allowed by local law. GitLab will run background screenings for independent contractors that are hired directly, but otherwise, will defer to each contractor's hiring agency's background screening policies and processes. GitLab will complete a background screening for contractors employed by agencies that do not conduct their own background screenings.
-
-GitLab currently contracts with Sterling Talent Solutions to provide background screenings. For all candidates being considered for a position at GitLab, an employment history for the last 5 years and/or the three most recent employers will be verified in accordance with applicable local law (if applicable local law limits the review of employment history to fewer years and/or employers, then GitLab follows local law) and screening will be performed against various denied party lists including but not limited to the Office of Foreign Asset Control's Specially Designated Nationals and Blocked Persons List. In jurisdictions where criminal records may be reviewed, criminal records will be requested. Additional screenings may include, where applicable and in accordance with local law, a search against the U.S. Department of Health and Human Services Office of Inspector General's List of Excluded Individuals/Entities and/or screening for financial related offenses and credit checks, when relevant to the position. GitLab may use the returned background information to make decisions regarding employment, where allowed by local law. No background screening will be run until a conditional offer has been made, unless local law explicitly requires otherwise.
-
-In the event the background screening is not available on the scheduled hire date due to delays in processing, GitLab will run the background screening as soon as possible. The same adjudication guidelines will apply to current employees as they do with prospective employees. The Senior Background Check Specialist will monitor background screenings for completion and accuracy and will follow up accordingly regarding any concerns or issues.
-
-The Candidate Experience Specialists will [initiate](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/coordinator/#background-screenings) all employment verifications and background screenings for candidates. The Senior Background Check Specialist will initiate any applicable retroactive background screenings or requested enhanced background screenings for current team members.
-
-Please contact the Senior Background Check Specialist at backgroundchecks@gitlab.com regarding any questions.
-
-#### Disclosure and Authorization
-
-Candidates (and, as applicable, current team members) will receive an email to fill out the background screening application. The application will ask for personal and professional information. The application process includes signing a disclosure and a consent form which explains the rights of an individual undergoing a background screening. The application process is designed to take less than fifteen minutes to complete.
-
-To prepare for the employment verification for those candidates being considered for Director level positions or higher, candidates should gather each previous employer's name and address, position title held, employment start and end dates, manager’s name and title, their phone number, and email address. Details for a Human Resources contact can be entered instead of a manager's contact details. Occasionally, and where permitted by law, Sterling will reach out to the candidate to retrieve additional information, such as backup documentation to act as proof of previous employment or picture IDs. Proof of employment can typically be provided in various ways, such as tax returns (e.g. W2s), pay stubs, LLC documentation, official company registrations, etc. In certain circumstances, the Senior Background Check Specialist may also reach out to candidates and/or team members for additional documentation.
-
-Background screenings will act as an additional mechanism of transparency and will help to build trust with our clients.
-
-#### Review Criteria for Candidates and Team Members
-
-Reviews of the background screening are conducted by the Senior Background Check Specialist in accordance with the applicable law of the candidate’s jurisdiction. The Senior Background Check Specialist will first review the report for omissions, inaccuracies, and/or discrepancies with employment, including, but not limited to, dates of employment, employer names, or positions held. If the report includes discrepancies related to employment, the Senior Background Check Specialist will take the necessary steps to investigate and adjudicate the discrepancies and/or reach out to Team Member Relations for additional support and collaboration. The Senior Background Check Specialist and Team Member Relations may escalate the report, as necessary, to the Legal Employment team. Employment decisions based on the employment verification portions of the background screening report shall be finalized before any review of the criminal records information takes place.
-
-If criminal record information has been provided, then it will be adjudicated in accordance with applicable local law. Generally, and subject to local law, criminal records are reviewed to determine if criminal convictions have a direct connection with an applicant’s ability to fulfill the job duty with competence and integrity, while also considering the safety and/or security of Gitlab team members, customers, vendors, and/or overall business. Decisions are made that are job related and consistent with business necessity. Arrest records are not considered during the adjudication process, nor is any criminal conviction information that is prohibited from being reviewed by applicable local law.
 
 ### Romantic and Family Relationships at Work
 
@@ -93,9 +67,9 @@ Team members shall not take for themselves, or for family members, or any other 
 
 Team members also have obligations to protect the personal and sensitive information of our fellow team members. Therefore, you may not access and/or disseminate any team member's personal information (i.e. address, personal phone number, salary, etc.) that the team member has not made publicly available, unless the team member has provided written permission to share this information. An exception to this restriction would be when access is a necessary function of your job duties. A violation of this obligation is considered severe and could result in disciplinary action, up to and including termination.
 
-### Exceptions
+#### Exceptions
 
-Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process]({{< ref "/handbook/security#information-security-policy-exception-management-process" >}}). For reference see the [Parent Policy: Information Security Policy]({{< ref "/handbook/security" >}}).
+Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](/handbook/security#information-security-policy-exception-management-process). For reference see the [Parent Policy: Information Security Policy](/handbook/security).
 
 ### Anti-Harassment
 
@@ -103,30 +77,30 @@ Please see the [Anti-Harassment Policy]({{< ref "anti-harassment" >}}).
 
 ### Anti-Retaliation
 
-Please see the [Anti-Retaliation Policy](https://about.gitlab.com/handbook/legal/anti-retaliation-policy/).
+Please see the [Anti-Retaliation Policy](/handbook/legal/anti-retaliation-policy/).
 
 ### Complaint Procedure
 
-Please see the [Complaint Procedure](https://about.gitlab.com/handbook/people-group/#how-to-report-violations).
+Please see the [Complaint Procedure](/handbook/people-group/#how-to-report-violations).
 
 ### Social Responsibility
 
-Please see our [Environmental, Social, and Governance]({{< ref "esg" >}}) page.
+Please see our [Environmental, Social, and Governance](/handbook/company/esg/) page.
 
 ### Personal Appearance
 
-The image GitLab projects to the public is reflected in the appearance of our team members. Simply stated, team members should be dressed and groomed appropriately for their specific duties. Team members are expected to use good judgment in their appearance and grooming. Read our [GitLab Events Code of Conduct](https://about.gitlab.com/company/culture/ecoc/) for more information. Please read our GitLab Events Code of Conduct for more information regarding team member responsibility during attendance at company-sponsored events.
+The image GitLab projects to the public is reflected in the appearance of our team members. Simply stated, team members should be dressed and groomed appropriately for their specific duties. Team members are expected to use good judgment in their appearance and grooming. Read our [GitLab Events Code of Conduct](/handbook/company/culture/ecoc/) for more information. Please read our GitLab Events Code of Conduct for more information regarding team member responsibility during attendance at company-sponsored events.
 
 ### Job Abandonment
 
-When a team member is absent from work for three consecutive workdays, there is no entry on the availability calendar for time off, and fails to contact their supervisor, they may be [terminated](https://about.gitlab.com/handbook/people-group/offboarding/#involuntary-terminations) for job abandonment unless otherwise required by law. If a manager is unable to reach a team member via email or slack within a 24 hour period they should contact their [People Business Partner](https://about.gitlab.com/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group). The People Business partner will access the team member's information to obtain additional contact methods and numbers. The manager and People Business Partner will create an action plan to make all attempts to contact the team member.
+When a team member is absent from work for three consecutive workdays, there is no entry on the availability calendar for time off, and fails to contact their supervisor, they may be [terminated](/handbook/people-group/offboarding/#involuntary-terminations) for job abandonment unless otherwise required by law. If a manager is unable to reach a team member via email or slack within a 24 hour period they should contact their [People Business Partner](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group). The People Business partner will access the team member's information to obtain additional contact methods and numbers. The manager and People Business Partner will create an action plan to make all attempts to contact the team member.
 
 #### Exceptions
 
 GitLab understands there are extenuating circumstances that can occur. In the instance that a team member is absent from work for three consecutive workdays due to an emergency outside of the team members' control (ex. an internet outage in their country of residence), the recommendation is:
 
 - The team member should notify their manager about the situation, should a period of unavailability be a foreseen possibility.
-- The team member and manager should consider exchanging cell phone numbers to stay in contact as much as possible in the case that the situation should escalate. If you are based in different countries, consider ensuring you and your manager both have an app that facilitates international communication (ex. Whatsapp, Zalo, etc.). If costs are incurred when trying to contact your manager, this can be considered a business expense and can be submitted for reimbursement through [Navan Expense](https://about.gitlab.com/handbook/finance/expenses/).
+- The team member and manager should consider exchanging cell phone numbers to stay in contact as much as possible in the case that the situation should escalate. If you are based in different countries, consider ensuring you and your manager both have an app that facilitates international communication (ex. Whatsapp, Zalo, etc.). If costs are incurred when trying to contact your manager, this can be considered a business expense and can be submitted for reimbursement through [Navan Expense](/handbook/finance/expenses/).
 - Consider leveraging GitLab's flexible [time off policy]({{< ref "paid-time-off" >}}) to take the time you need.
 
 ## Team Member Safety
@@ -143,7 +117,7 @@ In general, please consider the following recommendations to ensure safety when 
 1. Try not to draw attention. People who appear to be from out of town are more vulnerable to crimes. Try to respect the culture you are visiting by blending in. Consider protective clothing to avoid pickpockets or other theft. Do not flash money or credit cards unnecessarily.
 1. Make copies of important documents. Consider carrying hard copies of important documents (passport, driver's license) in a separate location in the event your documents are misplaced or stolen.
 1. Keep friends and family updated. No matter whether you’re going on an overnight jaunt or a week-long international journey, it’s always a good idea to let friends or family know your plans. Before you leave, send a copy of your itinerary to a few trusted people who can keep tabs on your whereabouts. Check in regularly with your contacts so they know you’re where you’re supposed to be.
-1. Be wary of public Wi-Fi. Be aware that hackers can steal sensitive information in the public forum. Use a VPN or other secure access if you plan to access sensitive data. More information on [VPN usage at GitLab]({{< ref "/handbook/security#why-we-dont-have-a-corporate-vpn" >}}) and the [Personal VPN]({{< ref "personal-vpn" >}}) page.
+1. Be wary of public Wi-Fi. Be aware that hackers can steal sensitive information in the public forum. Use a VPN or other secure access if you plan to access sensitive data. More information on [VPN usage at GitLab](/handbook/security#why-we-dont-have-a-corporate-vpn) and the [Personal VPN]({{< ref "personal-vpn" >}}) page.
 1. Safeguard your hotel. Lock and deadbolt the door while you are in the room. Ensure the door is locked when you leave. Keep the windows closed. Try to give the impression that you’re in your room even when you’re away, such as placing the Do Not Disturb sign on the outside of your door and keeping the blinds or windows closed. Don’t let any strangers into your room, even if they say they work for the hotel. You can always call the front desk to check whether someone was ordered by hotel staff to come to your room.
 1. Be aware of your surroundings. Always keep an eye on your personal belongings and use good judgment when talking to strangers. A big part of the joy of traveling is the opportunities it affords to meet new people and learn about their cultures. But if someone near you is acting suspiciously, or if you feel uncomfortable, leave the area immediately. Trust your instincts.
 1. Adhere to any recommended safety recommendations made by the GitLab group. For all large self-hosted events we (jointly completed by our internal security team and our contracted security agency) will do a full risk assessment before we converge. It will be up to employees to read said risk assessment and adhere to recommendations outlined.
@@ -166,7 +140,7 @@ The following are GitLab’s procedures in the event a team member feels threate
 1. If at any point, a team member feels like they or another team member may require immediate medical assistance, please contact the local authorities.
 1. Once the immediate threat is controlled, team members should report any safety concerns to People Connect.
 1. If you believe that a certain location, event or area presents greater risk or exposure to individuals, please notify People Connect. People Connect will strive to proactively communicate the concerns to other potentially affected team members.
-1. If at any point you believe you, personally, may commit an unsafe act, People Connect can assist in providing information about available [Employee Assistance](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#employee-assistance-program) options.
+1. If at any point you believe you, personally, may commit an unsafe act, People Connect can assist in providing information about available [Employee Assistance](/handbook/total-rewards/benefits/general-and-entity-benefits/#employee-assistance-program) options.
 
 ## Workers' Compensation
 
@@ -211,22 +185,23 @@ GitLab strives to maintain a workplace that is free from illegal use, possession
         - "It's always OK to ask for help."
         - "It’s hard for me to understand exactly what you’re going through, but I can see that it’s distressing for you."
 
-        For additional information, please see the Mental Wellness Services offered through [Modern Health](https://about.gitlab.com/handbook/total-rewards/benefits/modern-health/) and tips on [Leading Through Adversity](https://about.gitlab.com/handbook/leadership/managing-conflict/leading-through-adversity/). Additionally, team members should learn to [recognize burnout](https://about.gitlab.com/handbook/paid-time-off/#recognizing-burnout) and to [prevent it](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/).
+        For additional information, please see the Mental Wellness Services offered through [Modern Health](/handbook/total-rewards/benefits/modern-health/) and tips on [Leading Through Adversity](/handbook/leadership/managing-conflict/leading-through-adversity/). Additionally, team members should learn to [recognize burnout](/handbook/people-group/paid-time-off/#recognizing-burnout) and to [prevent it](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/).
 
 Any questions or concerns? Please feel free to contact the People Connect team in the #people-connect Slack channel or email people-connect@gitlab.com.
 
 ## Other People Policies
 
-- [Contracts, Probation Periods, and PIAA](https://about.gitlab.com/handbook/people-group/contracts-probation-periods/#piaa-proprietary-information-and-assignment-agreement)
-- [Outside Employment and Activities](https://about.gitlab.com/handbook/people-group/contracts-probation-periods/#outside-employment-paid-or-unpaid-projects-and-potentially-conflicting-activities)
+- [Backgound Screenings](/handbook/people-group/contracts-probation-periods/#background-screenings)
+- [Contracts, Background Screenings, Probation Periods, and PIAA](/handbook/people-group/contracts-probation-periods/#piaa-proprietary-information-and-assignment-agreement)
+- [Outside Employment and Activities](/handbook/people-group/contracts-probation-periods/#outside-employment-paid-or-unpaid-projects-and-potentially-conflicting-activities)
 - [Paid Time Off]({{< ref "paid-time-off" >}})
-- [General Benefits](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/)
-- [Leave of Absence](https://about.gitlab.com/handbook/people-policies/leave-of-absence/)
-- [Return of Property](https://about.gitlab.com/handbook/people-group/offboarding/#returning-property-to-gitlab)
+- [General Benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/)
+- [Leave of Absence](/handbook/people-policies/leave-of-absence/)
+- [Return of Property](/handbook/people-group/offboarding/#returning-property-to-gitlab)
 
-## Gitlab Legal Policies
+## GitLab Legal Policies
 
-There are a number of GitLab Legal Policies which are important for GitLab team members to read and understand, and they are listed [here](https://about.gitlab.com/handbook/legal/#gitlab-policies).
+There are a number of GitLab Legal Policies which are important for GitLab team members to read and understand, and they are listed [here](/handbook/legal/#gitlab-policies).
 
 ## Entity-Specific Employment Policies
 
@@ -241,7 +216,6 @@ There are a number of GitLab Legal Policies which are important for GitLab team 
 - [Draft GitLab BV (Belgium) Work Regulations - English](https://docs.google.com/document/d/1HKxLs8AQ9TM-ud2y7EWS6R1ZJ982eeXR1UTKyIu9kPo/edit?usp=sharing)
 - [Comment book](https://docs.google.com/document/d/1UDsYcvkGPHJUF_--EZgxu_ONoiImFzxAavaAFkL5AtA/edit?usp=sharing)
 {{% /details %}}
-
 
 {{% details summary="GitLab BV (Netherlands)" %}}
 
@@ -341,11 +315,11 @@ To ensure the physical and mental health and safety of our team members in the U
 
 The handbook also has a wealth of information and recommendations for setting up your workspace and procuring the proper equipment:
 
-- [How to Create an Ergonomic Workspace](https://about.gitlab.com/company/culture/all-remote/tips/#create-an-ergonomic-workspace)
-- [Focus your Workspace](https://about.gitlab.com/company/culture/all-remote/getting-started/#focus-your-workspace)
-- [Combating Burnout, Isolation, and Anxiety in a Remote Workplace](https://about.gitlab.com/company/culture/all-remote/mental-health/)
-- [Considerations for a Productive Home Office](https://about.gitlab.com/company/culture/all-remote/workspace/#introduction)
-- [Equipment Examples](https://about.gitlab.com/handbook/finance/procurement/office-equipment-supplies/)
+- [How to Create an Ergonomic Workspace](/handbook/company/culture/all-remote/tips/#create-an-ergonomic-workspace)
+- [Focus your Workspace](/handbook/company/culture/all-remote/getting-started/#focus-your-workspace)
+- [Combating Burnout, Isolation, and Anxiety in a Remote Workplace](/handbook/company/culture/all-remote/mental-health/)
+- [Considerations for a Productive Home Office](/handbook/company/culture/all-remote/workspace/#introduction)
+- [Equipment Examples](/handbook/finance/procurement/office-equipment-supplies/)
 
 **Working Time Regulations**
 
@@ -397,15 +371,15 @@ To ensure the physical and mental health and safety of our team members in New Z
 
 **Health and Safety**
 
-- [How to Create an Ergonomic Workspace](https://about.gitlab.com/company/culture/all-remote/tips/#create-an-ergonomic-workspace)
-- [Focus your Workspace](https://about.gitlab.com/company/culture/all-remote/getting-started/#focus-your-workspace)
-- [Combating Burnout, Isolation, and Anxiety in a Remote Workplace](https://about.gitlab.com/company/culture/all-remote/mental-health/)
-- [Considerations for a Productive Home Office](https://about.gitlab.com/company/culture/all-remote/workspace/#introduction)
-- [Equipment Examples](https://about.gitlab.com/handbook/finance/procurement/office-equipment-supplies/)
+- [How to Create an Ergonomic Workspace](/handbook/company/culture/all-remote/tips/#create-an-ergonomic-workspace)
+- [Focus your Workspace](/handbook/company/culture/all-remote/getting-started/#focus-your-workspace)
+- [Combating Burnout, Isolation, and Anxiety in a Remote Workplace](/handbook/company/culture/all-remote/mental-health/)
+- [Considerations for a Productive Home Office](/handbook/company/culture/all-remote/workspace/#introduction)
+- [Equipment Examples](/handbook/finance/procurement/office-equipment-supplies/)
 
 **Data Protection/Privacy Policy**
 
-- [Employee Privacy Policy](https://about.gitlab.com/handbook/legal/privacy/employee-privacy-policy/)
+- [Employee Privacy Policy](/handbook/legal/privacy/employee-privacy-policy/)
 - [GitLab Privacy Policy](https://about.gitlab.com/privacy/)
 
 **Workplace Harassment Policy**

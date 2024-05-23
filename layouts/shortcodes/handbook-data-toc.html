@@ -1,5 +1,5 @@
 {{ range .Site.Data.toc }}
-	<h3>{{ .name }}</h3>
+	<h3 id={{ .name | anchorize }}>{{ .name }}</h3>
 	<ul>
 		{{ $u := urls.Parse .url }}
 		{{ $url := .url }}

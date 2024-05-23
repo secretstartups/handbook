@@ -15,11 +15,11 @@ They must also coordinate across departments to accomplish collaborative goals.
 
 ## Job Grade
 
-The *Engineering Manager* role is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The *Engineering Manager* role is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
 
-- Manage a [team](https://about.gitlab.com/handbook/engineering/starting-new-teams/#team-construction) of engineers.
+- Manage a [team](/handbook/engineering/starting-new-teams/#team-construction) of engineers.
 - Help your engineers grow their skills and experience
 - Author project plans for epics
 - Run agile project management processes
@@ -29,13 +29,13 @@ The *Engineering Manager* role is a [grade 8](https://about.gitlab.com/handbook/
 - Conduct managerial interviews for candidates, and train the team to do technical interviews
 - Contribute to the sense of psychological safety on your team
 - Generate and implement process improvements
-- Hold regular [1:1s](https://about.gitlab.com/handbook/leadership/1-1/) with all members of their team
-- Give regular and clear feedback around the [individual's performance](https://about.gitlab.com/handbook/leadership/1-1/suggested-agenda-format/)
+- Hold regular [1:1s](/handbook/leadership/1-1/) with all members of their team
+- Give regular and clear feedback around the [individual's performance](/handbook/leadership/1-1/suggested-agenda-format/)
 - Foster technical decision making on the team, but make final decisions when necessary
-- Draft quarterly OKRs and [Engineering KPIs](https://about.gitlab.com/company/kpis/#engineering-kpis)
+- Draft quarterly OKRs and [Engineering KPIs](/handbook/company/kpis/#engineering-kpis)
 - Improve product quality, security, and performance
-- May have more than one specialty on their team, per our [shared manager team](https://about.gitlab.com/handbook/engineering/starting-new-teams/#team-construction) concept
-- Participate in the [Incident Management on-call rotation](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) to help ensure the availability goals for GitLab.com are met, by working with reliability engineers and development team members.
+- May have more than one specialty on their team, per our [shared manager team](/handbook/engineering/starting-new-teams/#team-construction) concept
+- Participate in the [Incident Management on-call rotation](/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) to help ensure the availability goals for GitLab.com are met, by working with reliability engineers and development team members.
 
 ## Requirements
 
@@ -71,28 +71,28 @@ The *Engineering Manager* role is a [grade 8](https://about.gitlab.com/handbook/
 
 Engineering Managers have the following job-family performance indicators. Performance indicators for a Manager role usually apply to the team, meaning the manager and their direct reports.
 
-- [Key Performance Indicators](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#key-performance-indicators)
-  - [Past Due Infradev Issues](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#past-due-infradev-issues)
-  - [Open MR Review Efficiency (OMRE)](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#open-mr-review-efficiency-omre)
-  - [Development Team Member Retention](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#development-team-member-retention)
-  - [Development Average Age of Open Positions](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#development-average-age-of-open-positions)
+- [Key Performance Indicators](/handbook/engineering/development/performance-indicators/#key-performance-indicators)
+  - [Past Due Infradev Issues](/handbook/engineering/development/performance-indicators/#past-due-infradev-issues)
+  - [Open MR Review Efficiency (OMRE)](/handbook/engineering/development/performance-indicators/#open-mr-review-efficiency-omre)
+  - [Development Team Member Retention](/handbook/engineering/development/performance-indicators/#development-team-member-retention)
+  - [Development Average Age of Open Positions](/handbook/engineering/development/performance-indicators/#development-average-age-of-open-positions)
 
-- [Regular Performance Indicators](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#regular-performance-indicators)
-  - [Development Department MR Rate](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#development-department-mr-rate)
-  - [New Hire Average Location Factor](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#development-department-new-hire-average-location-factor)
-  - [Open MR Age (OMA)](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#open-mr-age-oma)
-  - [Open To Merge](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#open-to-merge)
-  - [Overall MRs By Type](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#overall-mrs-by-type)
+- [Regular Performance Indicators](/handbook/engineering/development/performance-indicators/#regular-performance-indicators)
+  - [Development Department MR Rate](/handbook/engineering/development/performance-indicators/#development-department-mr-rate)
+  - [New Hire Average Location Factor](/handbook/engineering/development/performance-indicators/#development-department-new-hire-average-location-factor)
+  - [Open MR Age (OMA)](/handbook/engineering/development/performance-indicators/#open-mr-age-oma)
+  - [Open To Merge](/handbook/engineering/development/performance-indicators/#open-to-merge)
+  - [Overall MRs By Type](/handbook/engineering/development/performance-indicators/#overall-mrs-by-type)
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to a 60 minute interview with the Hiring Manager.
 - Candidates will then be invited to a 60 minute peer interview with another Engineering Manager
 - Candidates may then be invited to a 60 minute product manager interview
 - Candidates may then be invited to a 60 minute interview with a senior leader in the development department (optional)
 - Successful candidates will subsequently be made an offer
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

@@ -7,7 +7,7 @@ As a Public Sector Channel Manager your primary goal will be to build pipeline a
 
 ### Job Grade
 
-The Public Sector Channel Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Public Sector Channel Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -35,7 +35,7 @@ The Public Sector Channel Manager is a [grade 8](https://about.gitlab.com/handbo
 - Strong customer service orientation and ability to develop and maintain relationships
 - You share our values, and work in accordance with those values.
 - Ability to use GitLab
-- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/#travel-guidance-covid-19). Federal, LLC team members need to also comply with the applicable vaccination policies.
+- Ability to travel if needed and comply with the company’s [travel policy](/handbook/travel/#travel-guidance-covid-19). Federal, LLC team members need to also comply with the applicable vaccination policies.
 
 ## Career Ladder
 

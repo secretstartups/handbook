@@ -1,10 +1,7 @@
 ---
 title: "System Risk Scoring Procedure"
+controlled_document: true
 ---
-
-{{% alert title="This is a Controlled Document" color="danger" %}}
-Inline with GitLab's regulatory obligations, changes to [controlled documents]({{< ref "controlled-document-procedure" >}}) must be approved or merged by a code owner. All contributions are welcome and encouraged.
-{{% /alert %}}
 
 ## Purpose
 
@@ -75,7 +72,6 @@ That's the base risk risk score plus the weight of moderate risk observations ti
 #### System Risk Score Override
 
 To account for edge case scenarios or other extenuating circumstances that may not be modeled appropriately using the outlined System Risk Scoring methodology, the final system risk score can be downgraded (i.e the risk impact to the organization is less) at the discretion of the Security Compliance Senior Director if it is determined that the observation's risk ratings and therefore system risk score does not appropriately reflect the current system risk. The rating cannot be upgraded (i.e the risk impact to the organization is more) to ensure a conservative approach to securing the organization and managing risk.
-
 
 ## Exceptions
 

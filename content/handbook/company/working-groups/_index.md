@@ -13,14 +13,14 @@ Working groups are for important work that needs to be done quickly, when asynch
 
 ### CEO Handbook Learning Discussion on Working Groups
 
-GitLab's CEO, Sid, and Chief of Staff to the CEO, Stella, and the Learning & Development team discuss Working Groups in detail during a [CEO handbook learning session](https://about.gitlab.com/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions).
+GitLab's CEO, Sid, and Chief of Staff to the CEO, Stella, and the Learning & Development team discuss Working Groups in detail during a [CEO handbook learning session](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions).
 
 Topics covered include:
 
 1. What is a working group
 1. When to start a working group
 1. Difference between project managers and working groups.
-   - Note: GitLab does not internally have project managers. Individual team members should have agency and accountability. We don't want someone who just tracks the status of work and makes updates. We want people to do this directly, and we want the [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) to own the process and outcome. This supports accountability. We sometimes have project managers when interacting with external organizations, because accountability is harder when working with external parties.
+    - Note: GitLab does not internally have project managers. Individual team members should have agency and accountability. We don't want someone who just tracks the status of work and makes updates. We want people to do this directly, and we want the [DRI](/handbook/people-group/directly-responsible-individuals/) to own the process and outcome. This supports accountability. We sometimes have project managers when interacting with external organizations, because accountability is harder when working with external parties.
 1. Lessons learned from previous working groups
 1. Why and how working groups support cross-functional projects
 
@@ -59,7 +59,7 @@ Any subject matter expert, attends meetings synchronously or asynchronously on a
 1. An executive sponsor is required, in part, to prevent proliferation of working groups.
 1. A person should not facilitate more than one concurrent working group.
 1. Participation in some Working Groups requires a significant time commitment. Participants should be clear on their role and expectations for what they are expected to deliver. They should manage their time and capacity and quickly escalate if they feel unable to serve in or deliver in their role.
-1. It is highly recommended that anyone in the working group with [OKRs](/company/okrs/) aligns them to the effort.
+1. It is highly recommended that anyone in the working group with [OKRs](/handbook/company/okrs/) aligns them to the effort.
 
 ## Process
 
@@ -74,7 +74,8 @@ The DRI should identify key folks who will be members of the Working Group. They
 1. Reach out to the exec sponsor to help identify leads/contacts throughout the organization who could provide support
 1. Reach out to functional leads from the stages identified as needing to provide support to this effort
 1. Include the folks who the DRI has already been working with on this effort, and ask them if they'd like to continue or have someone they'd recommend taking over
-1. Solicit help on the respective stage's/team's Slack channel. The [Features by Group](https://about.gitlab.com/handbook/product/categories/features/) page may provide some guidance
+    - If cross functional data pulls/analysis will be required, please identify Data DRIs that can help. As an example, please see what was done for the [Storage Limits Initiative](https://internal.gitlab.com/handbook/product/fulfillment/storage-limits-enforcement/#data-dris)
+1. Solicit help on the respective stage's/team's Slack channel. The [Features by Group](/handbook/product/categories/features/) page may provide some guidance
 
 For example, if you know that this Working Group will eventually involve customer communications, you should ensure that the team has appropriate representation from the Customer Success department and that the representative is clear on the asks for both the team and the individual within the coming weeks and quarters.
 
@@ -92,14 +93,14 @@ The DRI should establish how the Working Group will work, including:
 1. Ship iterations and track the metrics
 1. Communicate the results
 
-The Working Group should follow the [GitLab norms for meetings](https://about.gitlab.com/company/culture/all-remote/meetings/) including:
+The Working Group should follow the [GitLab norms for meetings](/handbook/company/culture/all-remote/meetings/) including:
 
 1. Have an agenda
 1. Document everything
 1. Save time at the end of the meeting to take action items
 1. Turn action items into merge requests or issues
 
-Working Groups should follow the guidance outlined in [Building High Performing Teams](https://about.gitlab.com/handbook/leadership/build-high-performing-teams/).
+Working Groups should follow the guidance outlined in [Building High Performing Teams](/handbook/leadership/#strategies-to-build-high-performing-teams).
 
 ### Working Group meetings
 
@@ -107,11 +108,11 @@ The DRI should stand up meetings at the cadence appropriate for the Working Grou
 
 For example, you may have a high priority project in which decisions have been signed off on and change is not anticipated. Folks are clear on their roles and are staying on top of their activities as tracked in issues and epics. You may not need to meet more than once every two weeks to ensure alignment. Alternatively, you may be part of a project in which new deliverables are being reviewed daily and fast decisions have to be made. In this instance, it is appropriate to meet more than once a week.
 
-All meetings should have an [agenda](https://about.gitlab.com/company/culture/all-remote/meetings/#4-all-meetings-must-have-an-agenda). [Live Doc Meetings](/company/culture/all-remote/live-doc-meetings/) have Google Docs as the preferred tool for taking meeting notes in an agenda. Please use the [GitLab Live Doc Meeting Agenda Template](https://docs.google.com/document/d/1eH-adpjfyo_RnlfbPvJ3i0e1Qb-aVoNc4yajnkZgJcU) as a starting point. If there's no agenda for an upcoming session, cancel the meeting.
+All meetings should have an [agenda](/handbook/company/culture/all-remote/meetings/#4-all-meetings-must-have-an-agenda). [Live Doc Meetings](/handbook/company/culture/all-remote/live-doc-meetings/) have Google Docs as the preferred tool for taking meeting notes in an agenda. Please use the [GitLab Live Doc Meeting Agenda Template](https://docs.google.com/document/d/1eH-adpjfyo_RnlfbPvJ3i0e1Qb-aVoNc4yajnkZgJcU) as a starting point. If there's no agenda for an upcoming session, cancel the meeting.
 
 ### Create a page in the handbook
 
-Working Groups should have a page in the handbook in the current `working-groups` folder and added to the [list of active working groups](#active-working-groups-alphabetic-order) below. If you inherited an existing Working Group, make sure that the page is up-to-date. This ensures that other team members have a place to go if they are looking to learn about what you are working on. At GitLab, we’re [public handbook first](/handbook/handbook-usage/#why-handbook-first), but if your work is [not public](/handbook/communication/confidentiality-levels/#internal), please use the internal handbook to keep the content [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/).
+Working Groups should have a page in the handbook in the current `working-groups` folder and added to the [list of active working groups](#active-working-groups-alphabetic-order) below. If you inherited an existing Working Group, make sure that the page is up-to-date. This ensures that other team members have a place to go if they are looking to learn about what you are working on. At GitLab, we’re [public handbook first](/handbook/about/handbook-usage/#why-handbook-first), but if your work is [not public](/handbook/communication/confidentiality-levels/#internal), please use the [internal working groups folder](https://internal.gitlab.com/handbook/company/internal-working-groups/) to keep the content [SAFE](/handbook/legal/safe-framework/).
 
 Items to cover on your handbook page should include:
 
@@ -122,7 +123,7 @@ Items to cover on your handbook page should include:
 1. Key milestones and their delivery timeline
 1. Who is involved. This should include who the DRI and Exec Sponsor (if there is one) are. Ensure that responsibilities for all participants are clearly documented and understood.
 
-When possible, we work [handbook first](/handbook/handbook-usage/#why-handbook-first) and start with a [Merge Request](/handbook/communication/#start-with-a-merge-request). Google Docs can be used for drafting a proposal in which multiple folks need to collaborate in real-time. It may also be something that you'd consider when material is [limited access](/handbook/communication/confidentiality-levels/#limited-access). Once the confidentiality concerns are addressed and real-time editing is less crucial, the content should be moved to a [Merge Request](/handbook/communication/#start-with-a-merge-request) and the Google Doc should be marked deprecated with a link to the Merge Request.
+When possible, we work [handbook first](/handbook/about/handbook-usage/#why-handbook-first) and start with a [Merge Request](/handbook/communication/#start-with-a-merge-request). Google Docs can be used for drafting a proposal in which multiple folks need to collaborate in real-time. It may also be something that you'd consider when material is [limited access](/handbook/communication/confidentiality-levels/#limited-access). Once the confidentiality concerns are addressed and real-time editing is less crucial, the content should be moved to a [Merge Request](/handbook/communication/#start-with-a-merge-request) and the Google Doc should be marked deprecated with a link to the Merge Request.
 
 ### Create issues and epics
 
@@ -134,7 +135,8 @@ As work is being fleshed out and sub-projects are identified, some issues should
 
 Like the handbook, issues and epics should be public by default. If an issue or epic contains material that needs to remain internal, they should be made [confidential](https://docs.gitlab.com/ee/user/project/issues/confidential_issues.html) or be in a [project](https://docs.gitlab.com/ee/user/project/) which is [private](https://docs.gitlab.com/ee/user/public_access.html#private-projects-and-groups). If an issue or epic can remain public, but a comment needs to be added that is internal only, you can use [internal notes](https://docs.gitlab.com/ee/user/discussions/#add-an-internal-note) to allow the issue to remain public while having a confidential conversation.
 
-Working Groups should leverage issues and epics in the projects, groups, and sub-groups that drive maximum efficiency.  For Working Groups operating within the [GitLab.com](https://gitlab.com/gitlab-com) group on GitLab company related projects, the following resources are available:
+Working Groups should leverage issues and epics in the projects, groups, and sub-groups that drive maximum efficiency. For Working Groups operating within the [GitLab.com](https://gitlab.com/gitlab-com) group on GitLab company related projects, the following resources are available:
+
 - Per Working Group scoped labels
     - `WorkingGroup::<NewWorkingGroupName>`
 - [Working Group status labels](https://gitlab.com/groups/gitlab-com/-/labels?subscribed=&search=wg-status) for tracking status of issues and epics
@@ -155,7 +157,7 @@ Changes to the timeline or schedule can have rippling downstream impacts. It is 
 
 ### Trust Building
 
-When a Working Group forms, it is important to [build trust](https://about.gitlab.com/handbook/leadership/building-trust/) amongst the team members. This will help the Working Group function better, build credibility, and allow team members to be vulnerable with each other, if needed. Just as it’s important to do the work itself, it’s also important to take time for coffee-chats, activities, games, etc. that allow Working Group members to build a personal connection.
+When a Working Group forms, it is important to [build trust](/handbook/leadership/building-trust/) amongst the team members. This will help the Working Group function better, build credibility, and allow team members to be vulnerable with each other, if needed. Just as it’s important to do the work itself, it’s also important to take time for coffee-chats, activities, games, etc. that allow Working Group members to build a personal connection.
 
 ### Disband the working group
 
@@ -174,22 +176,22 @@ Some things can't be made public and are either internal to the company or have 
 If something isn't on our [Not Public list](/handbook/communication/confidentiality-levels/#not-public), we should make it available externally. If a working group is working on something on the Not Public List, working group team members should take precautions to limit access to information until it is determined that information can be shared more broadly. To highlight a few modifications to the process above:
 
 1. Preparation
-   1. Determine an appropriate project name using [limited access naming conventions](/handbook/communication/confidentiality-levels/#limited-access).
-   1. Create an overview page and add the link to [Active Working Groups](#active-working-groups-alphabetic-order). You can share limited information, but capture key team members, including the facilitator, executive stakeholder, and functional lead.
-   1. If working in the handbook, evaluate whether the page should be confidential or be housed in a new project with limited access. Consider working in the [staging handbook](/handbook/handbook-usage/#the-staging-handbook). We use this when information may need to be iterated on or MR branches may need to be created in staging before it is made public. Outside of E-Group, temporary access may be granted on a project-specific basis.
-   1. Maintain a list of working group members and other folks who are participating in or informed of the project. This list should be available to all participating team members. Folks should not be added to this list until it is confirmed that they understand what can be communicated.
-   1. Ensure that each working group team member understands what can be communicated externally and internally.
-   1. Have private Slack channels that include folks who are directly working on the project.
-   1. Limit the agenda to a specific set of folks.
+    1. Determine an appropriate project name using [limited access naming conventions](/handbook/communication/confidentiality-levels/#limited-access).
+    1. Create an overview page and add the link to [Active Working Groups](#active-working-groups-alphabetic-order). You can share limited information, but capture key team members, including the facilitator, executive stakeholder, and functional lead.
+    1. If working in the handbook, evaluate whether the page should be confidential or be housed in a new project with limited access. Consider working in the [staging handbook](/handbook/about/handbook-usage/#the-staging-handbook). We use this when information may need to be iterated on or MR branches may need to be created in staging before it is made public. Outside of E-Group, temporary access may be granted on a project-specific basis.
+    1. Maintain a list of working group members and other folks who are participating in or informed of the project. This list should be available to all participating team members. Folks should not be added to this list until it is confirmed that they understand what can be communicated.
+    1. Ensure that each working group team member understands what can be communicated externally and internally.
+    1. Have private Slack channels that include folks who are directly working on the project.
+    1. Limit the agenda to a specific set of folks.
 1. Communicate the results
-   - Communicate results and progress to the direct working group or other key stakeholders to ensure that folks are aligned and have context on key happenings. Do not share sensitive information outside of private channels.
+    - Communicate results and progress to the direct working group or other key stakeholders to ensure that folks are aligned and have context on key happenings. Do not share sensitive information outside of private channels.
 1. Proactively share information if the project is no longer limited access
-   1. Notify widely of progress or exit outcomes when information can be shared more broadly.
-   1. Evaluate which artifacts and communication material can be made internally available or public.
-      1. If you were working in the [staging handbook](/handbook/handbook-usage/#the-staging-handbook), follow instructions to make a merge request against the public repo.
-      1. Transition members to public Slack channels and archive private channels.
-      1. Deprecate private agendas. Link this to a new agenda document.
-      1. Consider making GitLab Groups and Projects public or avialable to a broader audience.
+    1. Notify widely of progress or exit outcomes when information can be shared more broadly.
+    1. Evaluate which artifacts and communication material can be made internally available or public.
+        1. If you were working in the [staging handbook](/handbook/about/handbook-usage/#the-staging-handbook), follow instructions to make a merge request against the public repo.
+        1. Transition members to public Slack channels and archive private channels.
+        1. Deprecate private agendas. Link this to a new agenda document.
+        1. Consider making GitLab Groups and Projects public or avialable to a broader audience.
 
 ## Participating in a Working Group
 
@@ -199,47 +201,46 @@ If you are unable to attend the existing working group meeting due to time diffe
 
 ## Active Working Groups (alphabetic order)
 
+1. [17.0 Major Release]({{< ref "17-0-major-release" >}})
 1. [Account Escalation Process]({{< ref "account-escalation-process" >}})
-1. [AI Integration]({{< ref "ai-integration" >}})
-1. [API Vision]({{< ref "api-vision" >}})
 1. [Automotive Development]({{< ref "automotive-development" >}})
 1. [AWS/GCP Partnerships](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/11)
 1. [Category Leadership]({{< ref "category-leadership" >}})
 1. [CI/CD Build Speed time-to-result]({{< ref "ci-build-speed" >}})
-1. [ClickHouse Datastore]({{< ref "clickhouse-datastore" >}})
 1. [Continue to win against GitHub and ship AI features]({{< ref "yearlies" >}})
 1. [Customer Use Case Adoption]({{< ref "customer-use-case-adoption" >}})
-1. [Demo & Test Data]({{< ref "demo-test-data" >}})
+1. [Digital SMB + Solutions Architects]({{< ref "digital-smb-sa" >}})
 1. [Emerging Talent]({{< ref "emerging-talent" >}})
 1. [Event Stream]({{< ref "event-stream" >}})
 1. [Expense Management]({{< ref "expense-management" >}})
 1. [FedRAMP Execution]({{< ref "fedramp-execution" >}})
-1. [Frontend Observability]({{< ref "frontend-observability" >}})
-1. [Frontend Vision]({{< ref "frontend-vision" >}})
 1. [Fulfillment Efficiency](https://docs.google.com/presentation/d/1eTH09QZqnazJ4jh-jVGTEYEFA3m6R2jwWuhY5_EtPL4/edit#slide=id.g123a13deda8_0_405)
 1. [GCP Partnership]({{< ref "gcp-partnership" >}})
 1. [GitLab Dedicated]({{< ref "gitlab-dedicated" >}})
 1. [GitLab.com Disaster Recovery]({{< ref "disaster-recovery" >}})
-1. [GitLab.com SAAS Data Pipeline]({{< ref "gitlab-com-saas-data-pipeline" >}})
-1. [Revenue Globalization]({{< ref "globalization" >}})
+1. [Government Support Offerings (Internal only)](https://internal.gitlab.com/handbook/company/internal-working-groups/govt-support-offerings/)
+1. [Inclusive Practices]({{<ref "inclusive-practices" >}})
 1. [Issue Prioritization Framework]({{< ref "issue-prioritization-framework" >}})
-1. [Leading Organizations]({{< ref "leading-organizations" >}})
 1. [Learning Experience]({{< ref "learning-experience" >}})
+1. [Lighthouse Metric Definitions]({{< ref "lighthouse-metric-definitions" >}})
 1. [Modern Applications Go-To-Market]({{< ref "modern-applications-gtm" >}})
-1. [Next Architecture Workflow]({{< ref "next-architecture-workflow" >}})
 1. [Product Accessibility]({{< ref "product-accessibility" >}})
+1. [Revenue Globalization]({{< ref "globalization" >}})
 1. [Runtime Update Process]({{< ref "runtime-update-process" >}})
 1. [Software Supply Chain Security]({{< ref "software-supply-chain-security" >}})
 1. [Talent Acquisition SSOT]({{< ref "recruiting-ssot" >}})
-1. [Token Management]({{< ref "token-management" >}})
 1. [Vue.js 3 Upgrade]({{< ref "vuejs-3-migration" >}})
 
 ## Past Working Groups (alphabetic order)
 
+1. [AI Integration]({{< ref "ai-integration" >}})
+1. [API Vision]({{< ref "api-vision" >}})
 1. [Architecture Kickoff]({{< ref "architecture-kickoff" >}})
+1. [Bounded Contexts]({{< ref "bounded-contexts" >}})
 1. [Category Leadership](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/10)
 1. [China Service]({{< ref "china-service" >}})
 1. [CI Queue Time Stabilization]({{< ref "ci-queue-stability" >}})
+1. [ClickHouse Datastore]({{< ref "clickhouse-datastore" >}})
 1. [Cloud Licensing](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/2)
 1. [Commercial & Licensing]({{< ref "commercial-licensing" >}})
 1. [Continuous Scanning]({{< ref "continuous-scanning" >}})
@@ -248,6 +249,7 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [Contributor Growth]({{< ref "contributor-growth" >}})
 1. [Dashboards]({{< ref "dashboards" >}})
 1. [Database Scalability]({{< ref "database-scalability" >}})
+1. [Demo & Test Data]({{< ref "demo-test-data" >}})
 1. [Development Metrics]({{< ref "development-metrics" >}})
 1. [DevSecOps Adoption](https://gitlab.com/groups/gitlab-com/sales-team/-/epics/59)
 1. [Dogfood Plan]({{< ref "dogfood-plan" >}})
@@ -257,10 +259,14 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [Enterprise Market Leadership]({{< ref "enterprise-market-leadership" >}})
 1. [Experimentation]({{< ref "experimentation" >}})
 1. [First Order](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/9)
+1. [Frontend Observability]({{< ref "frontend-observability" >}})
+1. [Frontend Vision]({{< ref "frontend-vision" >}})
 1. [Githost Migration]({{< ref "githost-migration" >}})
 1. [GitLab Administration]({{< ref "administration" >}})
 1. [GitLab.com Cost]({{< ref "gitlab-com-cost" >}})
+1. [GitLab Dedicated]({{< ref "gitlab-dedicated" >}})
 1. [GitLab.com Revenue]({{< ref "gitlab-com-revenue" >}})
+1. [GitLab.com SAAS Data Pipeline]({{< ref "gitlab-com-saas-data-pipeline" >}})
 1. [gitlab-ui (CSS and Components)]({{< ref "gitlab-ui" >}})
 1. [GTM Product Analytics]({{< ref "product-analytics-gtm" >}})
 1. [IACV - Delta ARR]({{< ref "iacv-delta-arr" >}})
@@ -269,7 +275,7 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [Internship Pilot]({{< ref "internship-pilot" >}})
 1. [Internal Feature Flag usage]({{< ref "feature-flag-usage" >}})
 1. [Isolation]({{< ref "isolation" >}})
-1. [Leading Organization Growth](https://gitlab.com/groups/gitlab-com/-/epics/1880)
+1. [Leading Organizations]({{< ref "leading-organizations" >}})
 1. [Learning Restructure]({{< ref "learning-restructure" >}})
 1. [Licensing and Transactions Improvements]({{< ref "licensing-transactions-improvements" >}})
 1. [Log Aggregation]({{< ref "log-aggregation" >}})
@@ -279,6 +285,7 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [Minorities in Tech (MIT) Mentoring Program]({{< ref "mit-mentoring" >}})
 1. [MLOps]({{< ref "mlops" >}})
 1. [Multi-Large]({{< ref "multi-large" >}})
+1. [Next Architecture Workflow]({{< ref "next-architecture-workflow" >}})
 1. [Object Storage]({{< ref "object-storage" >}})
 1. [Pipeline Validation Service Operations]({{< ref "pipeline-validation-service-operations" >}})
 1. [Performance Indicators]({{< ref "performance-indicators" >}})
@@ -301,6 +308,7 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [SOX PMO]({{< ref "sox" >}})
 1. [TeamOps Sales and Marketing Group]({{< ref "teamops-sales-marketing" >}})
 1. [Tiering]({{< ref "tiering" >}})
+1. [Token Management]({{< ref "token-management" >}})
 1. [Transient Bugs]({{< ref "transient-bugs" >}})
 1. [Upstream Diversity]({{< ref "upstream-diversity" >}})
 1. [Usage Reporting](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/1)
@@ -309,6 +317,6 @@ If you are unable to attend the existing working group meeting due to time diffe
 
 ## What were Top Cross-Functional Initiatives?
 
-Top Cross-Functional Initiatives were [Working Groups]({{< ref "working-groups" >}}) that were key to GitLab's success in the fiscal year and beyond. While there were other important business initiatives and priorities that existed within functions or required engagement across the business, we elevated these initiatives to address cross-functional dependencies, align on goals, and ensure ongoing reporting and monitoring.
+Top Cross-Functional Initiatives were [Working Groups](/handbook/company/working-groups) that were key to GitLab's success in the fiscal year and beyond. While there were other important business initiatives and priorities that existed within functions or required engagement across the business, we elevated these initiatives to address cross-functional dependencies, align on goals, and ensure ongoing reporting and monitoring.
 
 We retired this concept in FY24-Q3, because we had layered these initiatives under [Yearlies]({{< ref "yearlies" >}}) as sub-objectives. This list was duplicative and confusing to team members who were trying to manage these and other priorities. Top Cross-Functional Initiatives were moved to this page. The Top Cross-Functional Initiative concept was deprecated.

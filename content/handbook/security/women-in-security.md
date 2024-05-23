@@ -4,7 +4,7 @@ title: "Women in Security"
 
 ## Women in Security Mission Statement
 
-GitLab’s Women in Security group is established to provide support , skills and leadership development, and networking and mentorship opportunities for the women in GitLab’s security department. The group also seeks to inspire women and girls interested in entering or learning about the security industry.
+GitLab’s Women in Security group is established to provide support, skills and leadership development, and networking and mentorship opportunities for the women in GitLab’s security department. The group also seeks to inspire women and girls interested in entering or learning about the security industry.
 
 ### Membership
 
@@ -19,11 +19,11 @@ While tailored for current female team members of the GitLab Security organizati
 
 ### Leadership Sponsor
 
-PENDING
+[Julie Davila](https://gitlab.com/juliedavila), VP Product Security
 
 ## Catalog of Events and Publications
 
-- [Applying Risk Management to Pandemic-driven Remote Learning](/blog/2020/08/27/applying-risk-management-to-remote-learning/)
+- [Applying Risk Management to Pandemic-driven Remote Learning](https://about.gitlab.com/blog/2020/08/27/applying-risk-management-to-remote-learning/)
 - [Understanding Compliance: Liz Coleman](https://www.youtube.com/watch?v=WfbAQfUz-_w)
 - [Understanding Compliance: Meghan Maneval](https://www.youtube.com/watch?v=h95ddzEsTog)
 - [WIS Blog 1: How to break into security](https://about.gitlab.com/blog/2020/11/12/breaking-into-security/)

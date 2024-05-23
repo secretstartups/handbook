@@ -12,7 +12,7 @@ The speed with which we can grow our team is dependent on the rate at which we f
 - **Applications** - a person who has actively applied to one of our open roles through a job advertisement/posting or an event.
 - **Referrals** - a person has been referred by a current GitLab team member.
 - **Sourced (aka Passive)** - a person who is found during sourcing (searching) efforts by the TA team with or without the help of the hiring team (Source-a-thon).
-This person is of interest, but has not interacted with the Talent Acquisition (TA) team or Hiring Manger yet.
+This person is of interest, but has not interacted with the Talent Acquisition (TA) team or Hiring Manager yet.
 
 ## Prospects vs. Candidates
 
@@ -44,6 +44,7 @@ This person is of interest, but has not interacted with the Talent Acquisition (
 
 - Internal Applicant
 - Job Pages On Your Website
+
 </td>
 </tr>
 <tr>
@@ -57,6 +58,7 @@ This person is of interest, but has not interacted with the Talent Acquisition (
 - Social Media
 - Greenhouse Sourcing (Prospecting via our CRM)
 - Other Sourcing Tools - this indicates any tool we used that we do not have a paid agreement.
+
 </td>
 </tr>
 <tr>
@@ -71,6 +73,7 @@ This person is of interest, but has not interacted with the Talent Acquisition (
 
 - Referral
 - Note: Social Referrals (applications via a link shared by team members) are counted as direct applicants in our metrics.
+
 </td>
 </tr>
 <tr>
@@ -94,6 +97,7 @@ See Greenhouse for the complete list.
 - Glassdoor
 - LinkedIn
 - LinkedIn (Ad Posting)
+
 </td>
 </tr>
 <tr>
@@ -103,13 +107,14 @@ See Greenhouse for the complete list.
 
 - Social Media
   - Example: someone responding to a LinkedIn post that isn’t a referral or someone actively sourced by a recruiter.
+
 </td>
 </tr>
 </table>
 
 ## Our Top of Funnel Commitment
 
-GitLab uses the term ["underrepresented"](https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups) and it is meant to be a way of recognizing that we need more of what we do not have in all aspects of our business. There are many studies that have focused on understanding the benefits of representation in the workforce, and one worth noting is a McKinsey & Company study from 2020. This study found that companies in the top quartile for ethnic and cultural diversity were 36% more likely to have above-average profitability than companies in the bottom quartile. The study analyzed data from more than 1,000 companies in 15 countries*.
+GitLab uses the term ["underrepresented"](/handbook/company/culture/inclusion/#examples-of-select-underrepresented-groups) and it is meant to be a way of recognizing that we need more of what we do not have in all aspects of our business. There are many studies that have focused on understanding the benefits of representation in the workforce, and one worth noting is a McKinsey & Company study from 2020. This study found that companies in the top quartile for ethnic and cultural diversity were 36% more likely to have above-average profitability than companies in the bottom quartile. The study analyzed data from more than 1,000 companies in 15 countries*.
 
 As a Talent Acquisition team, we are in a unique position to impact the future of GitLab through intentionally building inclusive hiring practices. One of the key elements of that is the application of thoughtful sourcing strategies to build a balanced top of the funnel. This is not the only thing we are doing to ensure we set ourselves up for success, but it is a main focus for FY24.
 
@@ -122,6 +127,7 @@ Statistically, our application and referral candidate pools look very similar to
 ### How will we measure the impact of our efforts?
 
 Sourcing rate % is a metric that depicts the total number of candidates sourced using a sourcing strategy that has a high probability of reaching underrepresented talent*. This gives an indication of the % of time each of our recruiters spend focused on sourcing underrepresented talent, while also ensuring we are not making any assumptions on how someone may identify. When a recruiter runs a search that is designed to have a greater chance of identifying candidates who are underrepresented at GitLab, they will utilize tags within Greenhouse to enable this metric for us to goal to as a team. Each quarter, we will set team and individual sourcing rate % goals and measure regularly.
+
 - Sourcing Rate % Calculation: candidates sourced using DIB strategy / divided by the total number of passively sourced candidates.
 
 ### The Sourcing Rate % Metric
@@ -130,17 +136,20 @@ Sourcing rate % is a metric that depicts the total number of candidates sourced 
 
 **How does it work**: Per the definition above, we are measuring our sourcing strategy and it’s effectiveness in building representation in our pipelines.
 
-
 ## How to Source Candidates
 
 ### For Talent Acquisition Team Members
 
 At GitLab, we consider each of our recruiter team members on the Talent Acquisition team 'full life cycle' which means, sourcing is a skill and part of the craft in what we do. In order to ensure we are able to bring a snap shot of the total addressable market for each role that we hire against, cultivating a passive pipeline of talent is an essential part of that process. It is also our opportunity to get very intentional when it comes to building representation into our pipelines.
 
-In accordance with our [values](https://about.gitlab.com/company/culture/inclusion/#values) of Diversity, Inclusion and Belonging, and to build teams as diverse as our users, Talent Acquisition provides a collection of sourcing tools [here](https://docs.google.com/spreadsheets/d/1Hs3UVEpgYOJgvV8Nlyb0Cl5P6_8IlAlxeLQeXz64d8Y/edit#gid=2017610662) to expand our hiring teams’ candidate pipelines. If you have any questions on how to implement these resources into your current sourcing strategy or have suggestions for new tools, please reach out to the Talent Acquisition team.
+In accordance with our [values](/handbook/company/culture/inclusion/#values) of Diversity, Inclusion and Belonging, and to build teams as diverse as our users, Talent Acquisition provides a collection of sourcing tools [here](https://docs.google.com/spreadsheets/d/1Hs3UVEpgYOJgvV8Nlyb0Cl5P6_8IlAlxeLQeXz64d8Y/edit#gid=2017610662) to expand our hiring teams’ candidate pipelines. If you have any questions on how to implement these resources into your current sourcing strategy or have suggestions for new tools, please reach out to the Talent Acquisition team.
 
 Our strategy to building representative teams is rooted in our top of funnel strategy. At a high level, our approach and expectations for recruiters and sourcers is as follows:
+
 1. At the beginning of every role, recruiters are responsible to build a DIB first approach to their sourcing strategy. We believe healthy pipelines show a balance between source types (applications, referrals, passive talent and internal talent) in order for our hiring teams to have an adequate view of the talent market before making their hiring decision.
+
+- As a best practice, Recruiters will focus on screening internal candidates, referrals, and sourced candidates for the first 5 business days a req is open.
+
 1. Recruiters run targeted searches leveraging some of our internal resources and sourcing tools (ex: LinkedIn Recruiter, SeekOut, our our CRM)
 1. For each candidate that is sourced in step 2 utilizing a DIB sourcing strategy (ie: leveraging HCBUs in a boolean string, utilizing GraceHopper resume books, etc), apply the appropriate tag.
 
@@ -193,9 +202,14 @@ Simply add all your filters as described above in the LinkedIn Recruiter sourcin
 
 You can download several profiles in bulk in an XLS file and you can run your searches in the spreadsheet. For this, click on the blue “Export” button on the top of your search results in the “All candidates” section of a search result tab.
 
+#### Greenhouse CRM
+
+In today’s talent market, a CRM enables us to efficiently and quickly engage with talent that opted into learning and potentially growing at GitLab. Learn more about how to use our Greenhouse CRM [here](https://docs.google.com/document/d/16DzE9bsgeflGiRMntncdhMTc6CpHjE5hlQqOnLBQpwo/edit).
+
 #### DIB Enablement
 
 Examples of searches:
+
 1. Use of SeekOut’s gender or race & ethnicity-specific search tools
 A list of all HBCUs (Historically Black Colleges and Universities) in the United States
 1. A search of all sororities in the United States
@@ -262,7 +276,7 @@ the candidate and add them to Greenhouse. You can check the Talent Acquisition a
 If you want to reach out to a sourced candidate directly, you should discuss your communication strategy with your
 recruiting partner beforehand in order to avoid duplication and/or poor candidate experience.
 
-Take a look at the [Content library - life at GitLab]({{< ref "content-library" >}}) for the latest team member count, employer awards, blog posts, and more facts about working at GitLab. These resources are meant to help guide your outreach to potential candidates.
+Take a look at the [Content library - life at GitLab](/handbook/people-group/employment-branding/content-library) for the latest team member count, employer awards, blog posts, and more facts about working at GitLab. These resources are meant to help guide your outreach to potential candidates.
 
 **Upgrading Your LinkedIn Account to Hiring Manager**
 

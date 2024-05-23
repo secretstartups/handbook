@@ -63,7 +63,6 @@ If the training is not completed within 1 week, a reminder will be sent from Pro
 | Did nothing with the email             | No further action.   |
 | Clicked on the link                    | Training will be assigned  |
 
-
 #### Phishing Simulation and Training Metrics
 
 The Security Governance team will initiate and track the quarterly phishing simulation campaign within ProofPoint. Once the campaign has completed, the Security Governance team will provide non-identifying results in the [Phishing Program](https://gitlab.com/gitlab-com/gl-security/security-assurance/governance/phishing) project.
@@ -115,7 +114,7 @@ Feel free to complete the assigned training and consider it as taking an extra s
 
 *Is this an invasion of privacy?*
 
-- The phishing program is covered by the [Employee Privacy Policy](https://about.gitlab.com/handbook/legal/privacy/employee-privacy-policy/).
+- The phishing program is covered by the [Employee Privacy Policy](/handbook/legal/privacy/employee-privacy-policy/).
 
 *Will I be publicly shamed?*
 
@@ -138,7 +137,7 @@ If you hover your mouse cursor over a link in Google Chrome it will show you
 the link destination in the status bar at the bottom left corner of your browser
 window.
 
-![Hover Example](/images/phishing/hover-status-bar-example-chrome.png)
+![Hover Example](/handbook/security/security-assurance/images/hover-status-bar-example-chrome.png)
 
 In Safari the status bar must be enabled to view the true link destination
 (View -> Show Status Bar).
@@ -149,19 +148,19 @@ phishing forms include:
 - Using HTTP(S) with a hostname that begins with the name of a trusted
 site but ends with a malicious site.
 
-![Malicious Domain](/images/phishing/malicious-domain.png)
+![Malicious Domain](/handbook/security/security-assurance/images/malicious-domain.png)
 
 - Using a username or password inside the request that corresponds to the name
 of a trusted domain and assuming the viewer won't view the whole URL.
 
-![Trick Username](/images/phishing/username-password.png)
+![Trick Username](/handbook/security/security-assurance/images/username-password.png)
 
 - Using a data URI scheme instead of HTTP(S) is a particularly devious means of
 tricking users. Data schemes allow the embedding of an entire web page inside
 the URI itself. Data schemes will not show the typical green lock in the address
 bar of a browser that is customarily associated with a verified SSL connection.
 
-![Data Scheme](/images/phishing/data-scheme.png)
+![Data Scheme](/handbook/security/security-assurance/images/data-scheme.png)
 
 When viewing the source of an HTML email it is important to remember that the
 text inside the "HREF" field is the actual link destination/target and the text
@@ -177,7 +176,7 @@ that signify a validated SSL service. This icon alone is not enough to verify th
 authenticity of a website, however the lack of the green icon does mean you
 should never enter sensitive data into that website.
 
-![Green Lock Example](/images/phishing/green-lock-example.png)
+![Green Lock Example](/handbook/security/security-assurance/images/green-lock-example.png)
 
 ### What to do if you suspect an email is a phishing attack
 
@@ -216,14 +215,27 @@ To forward the email as an attachment to GitLab's Security Team using Gmail:
 
 ### CEO & Executive Fraud
 
-The CEO (and Executive team) will not send you an [email to wire cash](http://blog.centrify.com/ceo-fraud-business-email-compromise/), or a text message to ask for gift cards, or anything else that feels like a [CEO fraud or CEO scam](https://www.knowbe4.com/ceo-fraud). These types of [spear attack](https://nakedsecurity.sophos.com/2019/09/05/scammers-deepfake-ceos-voice-to-talk-underling-into-243000-transfer/) events will be more common as we grow. Feel free to verify any unusual requests via the #ceo Slack channel.
+The CEO (and Executive team) will not send you an email to wire cash, or a text message to ask for gift cards, or anything else that feels like a [CEO fraud or CEO scam](https://www.knowbe4.com/ceo-fraud). These types of spear attack events will be more common as we grow. Feel free to verify any unusual requests via the #ceo Slack channel.
 
 What should you do if you receive a potential phishing email or text [\(smishing\)](https://www.proofpoint.com/us/threat-reference/smishing) from GitLab's CEO?
 
 1. If you are unsure whether the text or email is legitimate, contact [Security]({{< ref "." >}}) to review, and confirm via the #ceo Slack channel.
 1. If the email is determined to be fake, follow the instructions for [phishing attacks]({{< ref "phishing#what-to-do-if-you-suspect-an-email-is-a-phishing-attack" >}}) below.
-1. If the text is determined to be fake: block the number, notify [Security](/handbook/security/#-contacting-the-team), and delete the text.
+1. If the text, including those received on apps like WhatsApp or Signal, is determined to be fake: block the number, notify [Security](/handbook/security/#-contacting-the-team), and delete the text.
+
   - If using iOS, [report the message as spam or junk](https://support.apple.com/guide/iphone/block-filter-and-report-messages-iph203ab0be4/ios)
+
+### Suspicious LinkedIn profiles
+
+Team members can [verify their employment at GitLab on LinkedIn](https://www.linkedin.com/help/linkedin/answer/a1423367).
+
+If a person on LinkedIn claims to work at GitLab:
+
+1. Look for a verification badge on their LinkedIn profile. It should read `GitLab: Verified using work email`.
+1. Look up their name on Workday, which is our Single Source of Truth for current team members. Note that alumni and those who have not yet joined GitLab will not appear in Workday.
+
+If you believe that the profile has inaccurate information, [report inaccurate information on another member's LinkedIn profile](https://www.linkedin.com/help/linkedin/answer/a1337291). If the user reaches out to you with a suspicious work-related message please
+[use the `/security` Slack command]({{< ref "engaging-security-on-call#engage-the-security-engineer-on-call" >}}).
 
 ### What to do if you suspect something else is suspicious
 

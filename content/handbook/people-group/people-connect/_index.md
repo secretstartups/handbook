@@ -8,11 +8,9 @@ GitLab Team Members can now reach out to us at the touch of a button via our #pe
 
 If you are external to GitLab but have a question for our team be sure to hit the email button below.
 
-
 <a href="https://gitlab.slack.com/archives/C02360SQQFR" class="btn btn-primary btn-lg"><i class="fa-brands fa-slack"></i> #people-connect</a>
 <a href="https://gitlab.slack.com/app_redirect?app=A023FJVH54M" class="btn btn-primary btn-lg"><i class="fa-brands fa-slack"></i> Direct Message</a>
 <a href="mailto:people-connect@gitlab.com" class="btn btn-primary btn-lg"><i class="fa-solid fa-envelope-open-text"></i> Email</a>
-
 
 ### Introduction
 
@@ -24,7 +22,7 @@ Moving away from a multi-channel support model team members can now route all pe
 
 Team Members are encouraged to reach out to People Connect around any topic that could be considered 'employment related' such as compensation, benefits and equity; leave accruals; onboarding processes; bonus nominations; country hiring; relocations; the growth and development benefit; name changes etc.
 
-People Connect provides team member support for all of the functional areas within the [People Group](https://about.gitlab.com/handbook/people-group/) including Total Rewards; Diversity Inclusion and Belonging; Learning and Development; People Operations; the People Business Partners and Employment Solutions.
+People Connect provides team member support for all of the functional areas within the [People Group](/handbook/people-group/) including Total Rewards; Diversity Inclusion and Belonging; Learning and Development; People Operations; the People Business Partners and Employment Solutions.
 
 Additionally our team of generalists are equally able to support queries and requests that are external but in many ways still related to the People Group such as Expense Reporting (Accounts Payable) and Payroll.
 
@@ -46,7 +44,7 @@ The team collaborates intensively with various internal and external stakeholder
 
 #### Service Desk
 
-Our Service Desk was created by the [People Group Engineering Team]({{< ref "/handbook/people-group/engineering" >}}) using or [dogfooding]({{< ref "values#dogfooding" >}}) our own product. You can read more about the **People Connect Bot** [here]({{< ref "people-connect-bot#people-connect-bot" >}})
+Our Service Desk was created by the [People Group Engineering Team](/handbook/people-group/engineering) using or [dogfooding]({{< ref "values#dogfooding" >}}) our own product. You can read more about the **People Connect Bot** [here]({{< ref "people-connect-bot#people-connect-bot" >}})
 
 #### Methods of Engagement
 

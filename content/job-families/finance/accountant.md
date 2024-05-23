@@ -2,11 +2,37 @@
 title: "Accounting"
 ---
 
+## International Accountant
+
+### Job Grade
+
+The International Accountant is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### Responsibilities
+
+- Supporting all aspects of international statutory accounting operations together with some US GAAP responsibilities
+- Engage with external service providers to ensure maintenance of local accounting records and preparation of high quality statutory financial statements
+- Ensuring changes to local accounting requirements are captured, understood and operationalised
+- Engage with local auditors, ensuring local statutory audits are executed on time and within budget while also helping to navigating any audit complexities as they arise
+- Supporting the  US GAAP to STAT GAAP reconciliation process
+- Preparation of  intercompany reconciliations and manage resolution of reconciling items
+- Preparation of monthly intercompany settlement file
+- Collaborating with internal legal, tax and treasury teams for intercompany and other activities while always keeping a lens on statutory implications
+- Critically evaluate current systems and processes and act as a driver for identifying and implementing new initiatives
+
+### Requirements
+
+- International statutory experience, ideally in a multinational environment
+- Self-starter with the ability to work remotely and independently and interact with various teams when needed
+- Proficient with Excel, GSuite and Slack
+- You share our [values](/handbook/values/), and work in accordance with those values
+- Ability to use GitLab
+
 ## Accountant
 
 ### Job Grade
 
-The Accountant is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Accountant is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -33,7 +59,7 @@ The Accountant is a [grade 6](https://about.gitlab.com/handbook/total-rewards/co
 
 ### Job Grade
 
-The Senior Accountant is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Accountant is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -69,7 +95,7 @@ The Senior Accountant is a [grade 7](https://about.gitlab.com/handbook/total-rew
 
 ### Job Grade
 
-The Manager, Accounting is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Accounting is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -95,14 +121,14 @@ The Manager, Accounting is a [grade 8](https://about.gitlab.com/handbook/total-r
 - Detail-oriented, self-directed and able to effectively complete tasks with minimal supervision
 - Proficiency with GitLab
 - You share our [values](/handbook/values/), and work in accordance with those values.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
+- [Leadership at GitLab](/handbook/company/structure/#management-group)
 - Ability to use GitLab
 
 ## Senior Manager, Accounting
 
 ### Job Grade
 
-The Senior Manager, Accounting is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Accounting is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -121,13 +147,13 @@ The next step in the Accounting job family is to move to the [Controller](/job-f
 
 ## Performance Indicators
 
-- [Average days to close](https://about.gitlab.com/handbook/finance/accounting/#average-days-to-close-kpi-definition)
-- [Number of material audit adjustments = 0](https://about.gitlab.com/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
-- [Percentage of ineffective Sox Controls = 0%](https://about.gitlab.com/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
+- [Average days to close](/handbook/finance/accounting/#average-days-to-close-kpi-definition)
+- [Number of material audit adjustments = 0](/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
+- [Percentage of ineffective Sox Controls = 0%](/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 - Selected candidates will be invited to schedule a 30 minute screening call with our Global Recruiters
 - Next, candidates will be invited to schedule a 45 minute interview with our Controller
@@ -135,7 +161,7 @@ Candidates for this position can expect the hiring process to follow the order b
 - Finally, candidates may be asked to interview with the CEO
 - Successful candidates will subsequently be made an offer via email
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/interviewing/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/).
 
 ## Specialties
 
@@ -207,19 +233,19 @@ TODO
 
 #### Performance Indicators
 
-- [Effective Tax Rate](https://about.gitlab.com/handbook/tax/performance-indicators/#effective-tax-rate-etr)
-- [Budget vs. Actual](https://about.gitlab.com/handbook/tax/performance-indicators/#budget-vs-actual)
-- [Audit Adjustments](https://about.gitlab.com/handbook/tax/performance-indicators/#audit-adjustments)
+- [Effective Tax Rate](/handbook/tax/performance-indicators/#effective-tax-rate-etr)
+- [Budget vs. Actual](/handbook/tax/performance-indicators/#budget-vs-actual)
+- [Audit Adjustments](/handbook/tax/performance-indicators/#audit-adjustments)
 
 #### Hiring Process
 
 Candidates for the Tax Accountant position can expect the hiring process to follow the order below:
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Global Recruiters
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Global Recruiters
 - Next, candidates will be invited to attend a 45 minute interview with Director of Tax
 - Candidates will then be invited to attend a 30 minute interview with our Corporate Controller
 - Candidates will then be inbited to attend a 30 minute interview with Sr. External Accounting & Reporting Manager
 - At final stage, candidates will be invited to a 30 minute interview with our Principle Accounting Officer
 
 Please note that a candidate may be declined from the position at any stage of the process.
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

@@ -1,10 +1,7 @@
 ---
 title: "Observation Creation Procedure"
+controlled_document: true
 ---
-
-{{% alert title="This is a Controlled Document" color="danger" %}}
-Inline with GitLab's regulatory obligations, changes to [controlled documents]({{< ref "controlled-document-procedure" >}}) must be approved or merged by a code owner. All contributions are welcome and encouraged.
-{{% /alert %}}
 
 ## Purpose
 
@@ -47,6 +44,7 @@ graph TD;
 ### Identifying Observations
 
 Observations can be identified through the following channels:
+
 1. Security control testing activities (CCM)
 1. Third Party Risk Management (TPRM) activities
 1. Customer Assurance activities (CAA)
@@ -351,10 +349,8 @@ Exceptions to this procedure will be tracked as per the [Information Security Po
 - [Observation remediation Procedure]({{< ref "observation-remediation-procedure" >}})
 - [Observation Management Project](https://gitlab.com/gitlab-com/gl-security/security-assurance/observation-management)
 - [Insight Charts](https://gitlab.com/gitlab-com/gl-security/security-assurance/observation-management/insights/#/Observation_Issues_Chart)
-- [Sarbanes-Oxley (SOX) Compliance](https://about.gitlab.com/handbook/internal-audit/sarbanes-oxley/)
+- [Sarbanes-Oxley (SOX) Compliance](/handbook/internal-audit/sarbanes-oxley/)
 
 ## Contact & Feedback
 
 If you have any questions or feedback about the observation management process please [contact the GitLab Security Assurance Team]({{< ref "security-assurance#contacting-the-team" >}}), or comment in this [feedback issue](https://gitlab.com/gitlab-com/gl-security/security-assurance/observation-management/-/issues/943).
-
-

@@ -14,6 +14,8 @@ Note that Vakantiegeld is built into offers as well as our [Compensation Calcula
 
 ## Medical
 
+### Medical Allowance
+
 Effective 1 August 2023, Full-Time Netherlands team members will be paid a gross monthly allowance of 100 Euros to subsidize healthcare costs.
 
 Team Members will still need to purchase their own health insurance package (basisverzekering) with a a health insurance company, as required by the Netherland's statutory healthcare system. If you do not have health insurance, you can be fined by the Sociale Verzekeringsbank.
@@ -22,12 +24,39 @@ Team Members will automatically receive the allowance via payroll. No documentat
 
 The allowance will be prorated for New Hires that start in the middle of the month and terminations that are effective in the middle of the month. Team members on sick pay or unpaid parental leave will still receive the monthly allowance. Team members who are on other unpaid leaves will not receive the stipend during their leave.
 
+### Medical Collective Healthcare Policy
+
+GitLab has partnered with [CZ](https://www.cz.nl/en) to offer GitLab Team Members a collective healthcare policy in the Netherlands, effective 2023-10-01
+The collective policy offers discounted rates for team members towards their supplementary insurance policies.
+
+Instructions on enrolling on the policy, the policy number, and ID can be found on the [Netherlands CZ Collective Policy Enrollment Instructions](https://docs.google.com/document/d/1waw2rNECdmsinqqmtj4XNuL0zMQvFeyI17-0YBvKURM/edit).
+The policy number is also listed on the [CZ Insurance document](https://docs.google.com/document/d/1waw2rNECdmsinqqmtj4XNuL0zMQvFeyI17-0YBvKURM/edit).
+
+Team Members can include their dependents on the collective agreement as well.
+Team members who join the plan will be able to pay CZ directly through their own bank account through invoice or direct debit. For more details on the policy please see the [GitLab CZ page](https://www.cz.nl/collectief/015418634)
+
+In 2023 only, current Team Members can join the plan mid-year, starting in 2024 current Team Members can only enroll in the plans during the enrollment period at the end of each year. Team members must cancel their old insurance before January 1 and take out new insurance before February 1, you will be insured with a retroactive effective from January 1. For more details on transferring insurance, please see the ["Changing Health Insurance"](https://www.government.nl/topics/health-insurance/standard-health-insurance/changing-your-health-insurance) page on the Government of the Netherlands website.
+
+Team Members can contact CZ directly if they have any questions at 088 555 7777
+
+GitLab Team Members are not obligated to join CZ collective health policy. If they choose not to join the plan, they still must purchase their own health insurance package with another approved provider, as required by the Netherlands statutory healthcare system.
+
+### Occupational Saftey and Health
+
 Due to the [Working Conditions Act](https://www.arboineuropa.nl/en/legislation/wetgeving-in-het-engels/), GitLab contracts an occupational safety and health service. The OSH-service can assist employees who are not able to work because of illness. The contact information for GitLab's designated Occupational Health Service provider is:
 
-**[Zorg van de Zaak](https://www.zorgvandezaak.nl/)**, Beneluxlaan 901, 3526 KK Utrecht, the Netherlands
+**Leuk Personeel, Dorresteinweg 72-08, 3763 LL, Soest, the Netherlands
 
-Tel: 088-2778870
-Email: info@zorgvandezaak.nl
+Tel: +0355436137
+
+## Computer Glasses Reimbursement
+
+Team Members experiencing eye problems due to work could be entitled to a reimbursement of corrective eye wear.
+The Team Member must be seen by an optician and must provide proof that lenses are specifically required for reading a display screen only and not required for general day to day use.
+
+Team Members should send their documentation (prescription) from the optician to total-rewards@gitlab.com for approval. The Team Member can request to be reimbursed for the frame, lenses, and eye test for a maximum reimbursement of 250 Euros.
+
+Once Total Rewards approves, the team member should submit their reimbursement through [Navan](/handbook/business-technology/enterprise-applications/guides/navan-expense-guide/). For the Navan entry under "Expense Type" select "Other" and under "GL" select "Benefits Medical & Other".
 
 ## Pension
 
@@ -47,7 +76,7 @@ work, this portion of the plan continues to pay part or all of the pension contr
 **Voluntary Pension Plan Summary:**
 
 - Extra Pension: Team members can make additional voluntary contributions to have extra funds to purchase a retirement pension and a partner's pension that pays benefits upon their death after retirement.
-- Extra Death Benefits: Team members with a partner have the option of insuring an extra partner's pension upon their death prior to the retirement date. The following [doc](https://drive.google.com/file/d/1NGD1MNEqYI-acKECh7xNR73su_c-xesK/view?usp=sharing) outlines additional information on how the voluntary ANW-gap pension works.
+- Extra Death Benefits: Team members with a partner have the option of insuring an extra partner's pension upon their death prior to the retirement date. The following [2024 doc](https://docs.google.com/document/d/1vHUp7koRsOMVZk87uMGIpU8QJ0NhRE7x/edit) outlines additional information on how the voluntary ANW-gap pension works.
 
 **Individual value transfer:**
 
@@ -85,7 +114,7 @@ Eligible team members may apply for the 30% Tax Ruling. More information can be 
 
 GitLab uses HR Savvy to assist with the administration of [the bike to work/tax saver commuter scheme](https://business.gov.nl/running-your-business/environmental-impact/making-your-business-sustainable/buy-or-lease-a-company-bicycle/).
 
-Cycle to work will have a maximum expenditure of 1200 EUR for a bike. The team members can avail this benefit every 2 years. This duration will be calculated based on the start date of the previously availed bike scheme benefit.
+Effective 15-02-2024, The Cycle to work plan's maximum purchase limit will increase to 2000 EUR for a bike. The team members can avail this benefit every 2 years. This duration will be calculated based on the start date of the previously availed bike scheme benefit.
 
 *Bike Applications:*
 
@@ -94,11 +123,11 @@ Cycle to work will have a maximum expenditure of 1200 EUR for a bike. The team m
 1. HR Savvy will purchase the bike on behalf of GitLab and send the invoice to Payroll.
 1. Payroll will reduce the team member's gross salary by the cost of the bike as per the addendum.
 
-If a team member would want to purchase a bike more expensive than the 1200 EUR maximum the process is as follows:
+If a team member would want to purchase a bike more expensive than the 2000 EUR maximum the process is as follows:
 
 - HRSavvy will invoice the seller for the entirety of the bike.
-- The difference between the cost of the bike and 1200 EUR will be deducted from the team member's net salary.
-- This means the team member will only have a tax benefit over the first 1200 euro.
+- The difference between the cost of the bike and 2000 EUR will be deducted from the team member's net salary.
+- This means the team member will only have a tax benefit over the first 2000 euro.
 
 ## GitLab B.V. Netherlands Leave Policy
 

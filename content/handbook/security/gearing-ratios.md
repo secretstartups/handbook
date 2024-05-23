@@ -1,6 +1,6 @@
 ---
 title: "Security Department Gearing Ratios"
-description: Gearing ratios are used as [Business Drivers](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#business-drivers-also-known-as-gearing-ratios) to forecast long term financial goals by function.
+description: Gearing ratios are used as [Business Drivers](/handbook/finance/financial-planning-and-analysis/#business-drivers-also-known-as-gearing-ratios) to forecast long term financial goals by function.
 ---
 
 ## Bug bounties
@@ -21,7 +21,7 @@ Approximate monthly budget should be set at total budget divided by 12. It shoul
 - Participation of research community
 - Reward ranges
 
-This gearing ratio is owned by the [Security Engineering]({{< ref "security-engineering" >}}) Sub-department. The cost of a compromise should be re-evaluated at least annually based on the average market cap of GTLB over the previous 6 months.
+This gearing ratio is owned by the [Product Security]({{< ref "product-security" >}}) Sub-department. The cost of a compromise should be re-evaluated at least annually based on the average market cap of GTLB over the previous 6 months.
 
 ## Security Incident Response Team (SIRT) size
 

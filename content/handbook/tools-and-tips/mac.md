@@ -92,7 +92,7 @@ The options being used here are `-d` to prevent the display from sleeping, `-i` 
 
 ## Docker Desktop
 
-With the licensing changes for Docker Desktop commercial use, we are obligated to purchase a software subscription for use with Docker Desktop. This software [cannot be expensed](https://about.gitlab.com/handbook/finance/expenses/#-software) as it requires a subscription.
+With the licensing changes for Docker Desktop commercial use, we are obligated to purchase a software subscription for use with Docker Desktop. This software [cannot be expensed](/handbook/finance/expenses/#-software) as it requires a subscription.
 
 Please consider using the following alternatives:
 
@@ -174,7 +174,7 @@ Make sure to join the [#macOS](https://gitlab.slack.com/archives/CDKA4RCE7) Slac
 | Notes | [Tyke](https://tyke.app/) | A little bit of scratch paper that lives on your macOS menu bar. |
 | Productivity | [HazeOver](https://hazeover.com/) | This app automatically highlights the front window by fading out all the background windows. |
 | Productivity | [Maccy](https://maccy.app/) | Clipboard manager - keeps a history of your clipboard. |
-| Productivity | [Skitch](https://evernote.com/products/skitch) | A simple tool to snap a part of your screen and point out details with annotations, shapes, and highlights. **IMPORTANT:** Do not save screenshots to Evernote as it violates the [Acceptable Use Policy](https://about.gitlab.com/handbook/people-group/acceptable-use-policy/#unacceptable-system-and-network-activities). |
+| Productivity | [Skitch](https://evernote.com/products/skitch) | A simple tool to snap a part of your screen and point out details with annotations, shapes, and highlights. **IMPORTANT:** Do not save screenshots to Evernote as it violates the [Acceptable Use Policy](/handbook/people-group/acceptable-use-policy/#unacceptable-system-and-network-activities). |
 | System control | [Lungo](https://apps.apple.com/us/app/lungo/id1263070803) | Lungo prevents macOS from falling asleep and your screen from dimming. |
 | System control | [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704) | Amphetamine can keep your macOS, and optionally its display(s), awake through a super simple on/off switch, or automatically through easy-to-configure Triggers |
 | System control | [Keeping You Awake (Free & Open Source)](https://github.com/newmarcel/KeepingYouAwake) | Prevents your macOS from entering sleep mode for a predefined duration or as long as it is activated |

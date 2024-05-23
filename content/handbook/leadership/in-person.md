@@ -13,7 +13,7 @@ decsription: "This page outlines resources for managers who organize in person t
 
 As a leader in all-remote work, it's important that we recognize the value and impact of time spent in the same location. Meaningful time spent together influences the trust and results our teams build. Co-located companies often gather for `offsites` to connect in a new location. In our all-remote environment, we call in-person team meetings `onsites`.
 
-This page is an `onsite` planning resource for people managers at GitLab. Use these suggestions to guide the way you plan in-person time for your team. Our additional [considerations for in person time](https://about.gitlab.com/company/culture/all-remote/in-person/) advise the wider GitLab community on how to make the most of time spent at conferences, in person meetings, and other types of meetups.
+This page is an `onsite` planning resource for people managers at GitLab. Use these suggestions to guide the way you plan in-person time for your team. Our additional [considerations for in person time](/handbook/company/culture/all-remote/in-person/) advise the wider GitLab community on how to make the most of time spent at conferences, in person meetings, and other types of meetups.
 
 Leading an `onsite` for your team might be outside your comfort zone. The resources on this page will equip you to feel confident organizing an in-person team event. Lean into the skills that make you a great manager as you plan.
 
@@ -24,7 +24,7 @@ After your team `onsite`, we hope you'll feel:
 1. Connected with shared understanding and trust
 1. Trusting and connected with those with whom you work most closely
 
-### Let us help you plan your onsite!
+### Let us help you plan your onsite
 
 The GitLab Talent Engagement team is here to support your onsite planning. We can help you plan activities and make suggestions on how you can best spend this time together in person. To request this custom support, please [open an issue here using the `onsite-support` template](https://gitlab.com/gitlab-com/people-group/learning-development/custom-ld-engagement/-/issues/new).
 
@@ -52,7 +52,7 @@ Be transparent in your planning to maximize both attendance and engagement:
 
 1. **Ask for input from your team early and often:** What do folks on your team want to do during their time together? What are they not interested in?
 1. **Set expectations:** Leave nothing as a suprise. Build psychological safety by planning out in the open so folks know what to expect.
-1. **Share resources:** Share resources like our [expense handbook](https://about.gitlab.com/handbook/finance/expenses/), [travel handbook](https://about.gitlab.com/handbook/travel/), [support for nursing mothers](https://about.gitlab.com/handbook/finance/expenses/#supporting-nursing-mothers), and [considerations for working while traveling](https://about.gitlab.com/company/culture/all-remote/working-while-traveling/).
+1. **Share resources:** Share resources like our [expense handbook](/handbook/finance/expenses/), [travel handbook](/handbook/travel/), [support for nursing mothers](/handbook/finance/expenses/#supporting-nursing-mothers), and [considerations for working while traveling](/handbook/company/culture/all-remote/working-while-traveling/).
 1. **Plan in advance:** Some functions and roles at GitLab are accustomed to work travel - others are not. Give time to plan and organize scheules to maximize attendance and presence.
 
 ### Develop a shared reality
@@ -61,7 +61,6 @@ Spending time during a team meeting to set norms for your `onsite` will begin to
 
 1. **Assign prework:** Depending on the goals you've set and the activities you've planned, assign prework to help your team prepare. This might be a video, article, or activity to complete prior to meeting in person.
 1. **Clarify expectations around attendance:** Make it clear that remote participation will be offered, but in person attendance is preferred whenever possible.
-
 
 ## Activity Planning
 
@@ -82,7 +81,6 @@ Make the most of `onsites` with intentional time to get to know one another.
      - Temperature Check: ask folks to share how they are feeling to start the day on a color or number scale. Give space to elaborate if comfortable.
 1. **Incorproate flexible social time:** Plan team lunch or dinner, exercise classes, group walks, cooking classes, or tours to explore the city where you're meeting. Be mindful of mobility limitations and your team members' individual needs.
 1. **Balance team building with independent time:** We all need space to recharge. Avoid booking each day solid with activities. Ensure there is time for folks to return to their hotel room or spend time alone to feel ready for each day's activities.
-
 
 ### Consider Utilizing Design Thinking Exercises
 
@@ -121,7 +119,6 @@ It's challenging to include remote participants in team building, especially in 
 1. Plan team building that allows for remote participation. For example, in a cooking or painting class, you could accommodate with a Zoom set up so remote participants can follow along. [WithConfetti](https://www.withconfetti.com/) is a great resource for sessions and ideas.
 1. Encourage, and provide budget, for remote participants to get together with other remote participants. This could look like a Zoom happy hour, or a shared meal for all remote participants.
 
-
 ## Ready to get planning?
 
 The content and suggestions from this page are neatly captured in 2 planning templates. Simply open the template, make a copy, and use this resource to plan your event!
@@ -135,10 +132,10 @@ Customize the templates as needed. We suggestion you start with the `Onsite Plan
 
 ## Additional Resources
 
-1. [Travel Guidelines](https://about.gitlab.com/handbook/travel/)
-1. [Travel support for nursing mothers](https://about.gitlab.com/handbook/finance/expenses/#supporting-nursing-mothers)
-1. [Expense Guidelines](https://about.gitlab.com/handbook/finance/expenses/)
-1. [Considerations for working while traveling](https://about.gitlab.com/company/culture/all-remote/working-while-traveling/)
+1. [Travel Guidelines](/handbook/travel/)
+1. [Travel support for nursing mothers](/handbook/finance/expenses/#supporting-nursing-mothers)
+1. [Expense Guidelines](/handbook/finance/expenses/)
+1. [Considerations for working while traveling](/handbook/company/culture/all-remote/working-while-traveling/)
 
 ## Contribute
 

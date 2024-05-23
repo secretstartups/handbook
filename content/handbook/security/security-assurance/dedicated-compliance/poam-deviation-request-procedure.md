@@ -1,12 +1,9 @@
 ---
 title: "FedRAMP Vulnerability Deviation Request Procedure"
+controlled_document: true
 ---
 
-{{% alert title="This is a Controlled Document" color="danger" %}}
-Inline with GitLab's regulatory obligations, changes to [controlled documents]({{< ref "controlled-document-procedure" >}}) must be approved or merged by a code owner. All contributions are welcome and encouraged.
-{{% /alert %}}
-
-## Submit a Request!
+## Submit a Request
 
 <div class="d-grid gap-2 my-4">
 <a href="https://gitlab.com/gitlab-com/gl-security/security-assurance/security-compliance-commercial-and-dedicated/team-security-dedicated-compliance/poam-deviation-requests/-/issues" class="btn bg-primary text-white btn-lg">Click here to submit a Deviation Request!</a>
@@ -16,7 +13,7 @@ Team members working with security vulnerabilities should read this procedure in
 
 ## Purpose
 
-In accordance with expectations set by the FedRAMP Authorization Act and FedRAMP Program Management Office (PMO), GitLab must follow a formal process to track and request approval (risk acceptance) from our sponsoring Agency Authorizing Official (AO) for any vulnerabilities that cannot be [remediated within SLAs](https://about.gitlab.com/handbook/security/threat-management/vulnerability-management/#remediation-slas) due to scenarios described in the Scope section below. These are called vulnerability Deviation Requests (DRs) and are formally reported to our AO every month using [GitLab's Plan of Action & Milestones (POA&M) (internal only)](https://docs.google.com/spreadsheets/d/1Tj3_vqNp34CSIHZsiSI0eM2zdfG574CD/edit?usp=sharing&ouid=107738356047141217629&rtpof=true&sd=true). Deviation requests for risk adjustments (severity downgrades), false positives, and operational requirements require Authorizing Official (AO) approval.
+In accordance with expectations set by the FedRAMP Authorization Act and FedRAMP Program Management Office (PMO), GitLab must follow a formal process to track and request approval (risk acceptance) from our sponsoring Agency Authorizing Official (AO) for any vulnerabilities that cannot be [remediated within SLAs](/handbook/security/product-security/vulnerability-management/#remediation-slas) due to scenarios described in the Scope section below. These are called vulnerability Deviation Requests (DRs) and are formally reported to our AO every month using [GitLab's Plan of Action & Milestones (POA&M) (internal only)](https://docs.google.com/spreadsheets/d/1Tj3_vqNp34CSIHZsiSI0eM2zdfG574CD/edit?usp=sharing&ouid=107738356047141217629&rtpof=true&sd=true). Deviation requests for risk adjustments (severity downgrades), false positives, and operational requirements require Authorizing Official (AO) approval.
 
 ## Scope
 
@@ -30,9 +27,9 @@ For further detail on each type, see the definitions in the [DR types](#dr-types
 
 ### Assets in scope
 
-Only the assets and scan types listed [here (internal)](https://internal.gitlab.com/handbook/engineering/horse/pubsec/fedramp-boundary-vulnerability-scanning/) are in-scope. Do not submit a DR for a scan type (e.g. SAST) or asset not included within the FedRAMP production authorization boundary.
+Only the assets and scan types listed [here (internal)](https://internal.gitlab.com/handbook/engineering/dedicated/pubsec/fedramp-boundary-vulnerability-scanning/) are in-scope. Do not submit a DR for a scan type (e.g. SAST) or asset not included within the FedRAMP production authorization boundary.
 
-Vulnerabilities in-scope for FedRAMP get the `FedRAMP::Vulnerability` label applied. See AppSec's [FedRAMP Vulnerability Scanning and Triage Process](https://about.gitlab.com/handbook/security/security-engineering/application-security/runbooks/fedramp-scanners-process.html#for-each-finding-from-dast-and-container-scanners) for more details, as well as the [standard vulnerability labels (internal)](https://gitlab.com/gitlab-com/gl-security/threatmanagement/vulnerability-management/vulnerability-management-internal/vulnerability-management-tracker/-/issues/34199373).
+Vulnerabilities in-scope for FedRAMP get the `FedRAMP::Vulnerability` label applied. See AppSec's [FedRAMP Vulnerability Scanning and Triage Process](/handbook/security/product-security/application-security/runbooks/fedramp-scanners-process.html#for-each-finding-from-dast-and-container-scanners) for more details, as well as the [standard vulnerability labels (internal)](https://gitlab.com/gitlab-com/gl-security/threatmanagement/vulnerability-management/vulnerability-management-internal/vulnerability-management-tracker/-/issues/34199373).
 
 ## Roles & Responsibilities
 
@@ -92,7 +89,7 @@ For Vendor Dependency vulnerabilities, in which GitLab is dependent on a 3rd par
 
 | Step | Description | Label applied to the Vulnerability Issue | Label applied to the Deviation Request Issue |
 | ------ | ------ | ------ | ------ |
-| 1 | Discover a deviation request is required for a FedRAMP-applicable vulnerability issue |  `workflow::verification` , `FedRAMP::DR Status::Open` | n/a |
+| 1 | Discover a deviation request is required for a FedRAMP-applicable vulnerability issue |  `FedRAMP::DR Status::Open` | n/a |
 | 2 | Submit a Deviation Request using the appropriate issue template for review by security engineer | *label remains unchanged* | `FedRAMP::DR Status::Ready for review` (*applied automatically using the issue templates*) |
 | 3 | Security (Vulnerability Management team) performs a technical review of the vulnerability and classification/justification provided in the Deviation Request | If approved, *label remains unchanged* or if denied, `FedRAMP::DR Status::Denied` | If approved `FedRAMP::DR Status::Compliance review` or if denied `FedRAMP::DR Status::Denied` |
 | 4 | Security Compliance reviews and if approved, tracks vulnerability deviation on POA&M and discusses with Authorizing Official during next monthly meeting | If approved *label remains unchanged* or if denied `FedRAMP::DR Status::Denied` | If approved `FedRAMP::DR Status::AO review`; If denied `FedRAMP::DR Status::Denied` |
@@ -137,7 +134,7 @@ There are no exceptions allowed to this procedure.
 
 ## References
 
-- [Vulnerability Management Procedure: Scanners]({{< ref "../../threat-management/vulnerability-management" >}})
+- [Vulnerability Management Procedure: Scanners]({{< ref "../../product-security/vulnerability-management" >}})
 
 ### Other helpful definitions
 

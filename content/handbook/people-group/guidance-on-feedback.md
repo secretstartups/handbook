@@ -69,7 +69,7 @@ Watch as [Dr. Jeb Hurley](https://linkedin.com/in/jebhurley), Co-founder of Xmet
 
 ### Hard Conversations
 
-Difficult and constructive feedback is valuable when delivered with compassion. It's important to consider the individual recieving the feedback and anticipate how they might react. As explained in [Crucial Conversations]({{< ref "/handbook/leadership/crucial-conversations" >}}), if the person feels threatened, they might shift into Silence or Verbal Violence.
+Difficult and constructive feedback is valuable when delivered with compassion. It's important to consider the individual recieving the feedback and anticipate how they might react. As explained in [Crucial Conversations](/handbook/leadership/crucial-conversations), if the person feels threatened, they might shift into Silence or Verbal Violence.
 
 To optimize for a open, honest, and effective conversation, reflection on the following before sharing difficult feedback:
 
@@ -78,9 +78,19 @@ To optimize for a open, honest, and effective conversation, reflection on the fo
 1. What do I really want for the relationship?
 1. How would I behave if I really wanted these results?
 
+Preparing for hard conversations is important, tips [in this article](https://psyche.co/guides/use-mediation-techniques-to-overcome-the-muck-of-blame-and-anger) about using mediation techniques can help you prepare to have these conversations in an authentic and honest manner.
+
+### Radical candor
+
+Radical Candor is a framework about HOW to deliver feedback. It’s a powerful, assertive, and caring place that demonstrates to an individual that you both care about them personally and that you’re willing to challenge them directly. When you’re not caring personally or challenging directly, it can lead to Ruinous Empathy, Manipulative Insincerity, or Obnoxious Aggression.
+
+- [Radical Candor — The Surprising Secret to Being a Good Boss First Round Review](https://www.youtube.com/watch?v=4yODalLQ2lM)
+- [How To Use Radical Candor To Drive Great Results](https://www.forbes.com/sites/roncarucci/2017/03/14/how-to-use-radical-candor-to-drive-great-results/?sh=39085db24e23)
+- [Brutal Honesty and Radical Candor: 6 Ways You’re Getting Radical Candor Wrong and 6 Ways to Get It Right](https://www.radicalcandor.com/blog/radical-candor-not-brutal-honesty/)
+
 ### Cross-Cultural Feedback Considerations
 
-GitLab has 2000+ team members from diverse [cultures and backgrounds](https://about.gitlab.com/company/culture/inclusion/identity-data/). We should get to know our team members well enough to understand how best to share feedback. It's important to adapt tone and style according to each individual and relationship. Consider:
+GitLab has 2000+ team members from diverse [cultures and backgrounds](/handbook/company/culture/inclusion/identity-data/). We should get to know our team members well enough to understand how best to share feedback. It's important to adapt tone and style according to each individual and relationship. Consider:
 
 1. Do you need to build relationship before candor is comfortable?
 1. Consider comfort with direct vs indirect feedback
@@ -99,7 +109,7 @@ It's safer to give and receive feedback from those with whom you have already es
 
 ## Giving Feedback
 
-![Feedback Image](/images/Training/Feedback_Image.png)
+![Feedback Image](/images/handbook/Training/Feedback_Image.png)
 
 1. Have positive intent
    - If you have the intent to hurt someone and not to help them, reconsider giving the feedback.
@@ -174,6 +184,7 @@ Receiving all types of feedback can be difficult. Our brains want to protect us 
 {{< youtube "ZdUMoI1jMvI" >}}
 
 *Originally hosted on 2020-02-25*
+
 - [Slide Deck](https://docs.google.com/presentation/d/1yziTxwnAHD6vA1deSPf4DCwGLNYRijAmHiYcdoAxOmo/edit?usp=sharing)
 - [Meeting Agenda](https://docs.google.com/document/d/1k5ja-8qJRMnguVOUOOsMUAQ2PEbXiuDBsbpstJPkSEo/edit?usp=sharing).
 
@@ -212,7 +223,7 @@ Example:
 1. Share an update of the team member(s) recognition during the next team meeting
 1. Highlight the recognition of the team members during a group conversation with the broader organization
 1. Showcase the recognition during an e-group meeting to executives
-1. Consider a [discretionary bonus per team member](/handbook/incentives/) as a form of superior recognition
+1. Consider a [discretionary bonus per team member](/handbook/total-rewards/incentives/) as a form of superior recognition
 1. Managers can also recognize team members during 1-1 meetings
 1. Quarterly [Skip Level](/handbook/leadership/skip-levels/) Meetings.
 
@@ -236,7 +247,6 @@ Take a moment to identify situations in which you or your team are saying "Thank
 - [Coaching Feedback Model](https://www.coachingcultureatwork.com/coaching-feedback-model/)
 - COIN & COILED feedback models - [World of Work Project Article](https://worldofwork.io/2019/07/the-coin-coiled-feedback-models/), 3 minute LinkedIn Learning [video](https://www.linkedin.com/learning/coaching-virtually/use-the-coin-model-to-give-feedback-virtually?u=2255073) on COIN.
 - CEDAR Feedback model - introduction and overview from [join.com](https://join.com/recruitment-hr-blog/feedback-models#6thecedarfeedbackmodel:~:text=6.%20The%20CEDAR,way%20of%20working), and a more comprehensive article and sample conversation at [World of Work Project](https://worldofwork.io/2019/07/the-cedar-feedback-model/)
-
 
 ## Modeling a Culture of Feedback Manager Competency
 

@@ -7,7 +7,7 @@ Additionally, they prepare and implement a risk-based audit plan to assess, repo
 
 ### Job Grade
 
-The Manager, Internal Audit is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Internal Audit is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -43,10 +43,10 @@ The Manager, Internal Audit is a [grade 8](https://about.gitlab.com/handbook/tot
 
 ### Performance Indicators
 
-- [Percentage of Desktop procedures documented](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
-- [Percentage of controls tested](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
-- [Percentage of recommendations implemented](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
-- [Percentage of audits completed](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of Desktop procedures documented](/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of controls tested](/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of recommendations implemented](/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of audits completed](/handbook/internal-audit/#internal-audit-performance-measures)
 
 ### Career Ladder
 

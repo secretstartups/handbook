@@ -1,0 +1,14 @@
+{{- $grade := . }}
+{{- if eq $grade "a" }}
+<span class="badge rounded-pill text-bg-success">{{ strings.Title $grade }}</span>
+{{- else if eq $grade "b" }}
+<span class="badge rounded-pill text-bg-success">{{ strings.Title $grade }}</span>
+{{- else if eq $grade "c" }}
+<span class="badge rounded-pill text-bg-warn">{{ strings.Title $grade }}</span>
+{{- else if eq $grade "d" }}
+<span class="badge rounded-pill text-bg-danger">{{ strings.Title $grade }}</span>
+{{- else if eq $grade "f" }}
+<span class="badge rounded-pill text-bg-danger">{{ strings.Title $grade }}</span>
+{{- else }}
+<span class="badge rounded-pill text-bg-light">-</span>
+{{- end }}

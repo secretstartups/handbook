@@ -26,7 +26,7 @@ Introductory text, logos, or whatever the group wants here
 - If you are sending a first response without taking assignment, [check our guidelines](/handbook/support/workflows/working-on-tickets/#helping-with-a-first-response-without-taking-assignment), and try to help find an assignee for it.
   - Consider keeping yourself CCed on ticket, at least till an assignee is found.
   - If nobody volunteered or has the knowledge to take it, extend the audience to the wider support team by cross-posting your request on either #support_self-managed, or #support_gilab-com.
-  - Consider tagging specific team members referring to the [Skills by person](https://gitlab-com.gitlab.io/support/team/skills-by-person.html) page, to increase your chances of finding the best DRI for the case.
+  - Consider tagging specific team members referring to the [Skills by person](https://gitlab-com.gitlab.io/support/team/skills-by-person) page, to increase your chances of finding the best DRI for the case.
   - As a last resort, ask the manager on-call to help find an assignee.
 
 ### How to handle High Priority tickets
@@ -50,6 +50,12 @@ We aim for not having any unassigned tickets and at least no > 5 days NRT breach
 - Next try to help with the near breaching NRTs first.
 - Offer pairing with SEs with the longest breached tickets or leave some tips in internal comments.
 - Remember to reach out to the team for help with tricky ones.
+
+### PTO
+
+Maple follows the [general guidelines](/handbook/support/support-time-off/#choosing-and-recording-time-off) laid out in the handbook for taking time off. In addition to following those guidelines, consider making a post in `#spt_gg_maple` several days before your planned PTO that includes a list of your active tickets that will require either a complete handover to another engineer or an infrequent check up while you're away.
+
+For extended PTO (five days or longer), consider sharing your plans with the team in one of the daily Maple standup threads in `#spt_gg_maple`. This allows the team to plan accordingly or make any adjustments.
 
 ### Communication in Slack
 
@@ -89,7 +95,6 @@ We also added some experimental pairings:
 - APAC/EMEA Maple Hour every 2 weeks on Tuesdays 07:00 UTC
 - EMEA/AMER Maple Hour every 2 weeks on Mondays 14:00 UTC
 - Maple NRTea Party (EMEA) on Thursdays 12:00 UTC
-
 
 ### Sync Calls
 

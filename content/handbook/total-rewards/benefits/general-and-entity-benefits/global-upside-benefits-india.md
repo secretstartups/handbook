@@ -148,6 +148,7 @@ All of the benefits listed below are administered and managed by [Global Upside
 - Healthcare Monthly Allowance will be paid by Global Upside as an allowance to the team members for their own Medical Coverage.
 - This amount will be paid on monthly basis with the regular payroll as a reimbursement.
 - Proof of coverage must be shared or forwarded to total-rewards@ domain in order to receive the correct allowance amount.
+- New Proof of coverage must be shared anytime your plan renews.
 - The allowance will be up to 300 USD per month for team member and up to 500 USD per month for team member plus Dependents. (USD amount can be converted to the local currency using the latest [Currency Conversion Factor]({{< ref "compensation#exchange-rates" >}}))
 - The Total Rewards team will send a confirmation email to Global Upside to have the reimbursement processed.
 - The Total Rewards team will email the non-uspayroll team of the allowance and include the amount in the current month's payroll changes report
@@ -323,7 +324,6 @@ All team members are entitled to up to 1 ½ years of parental leave for the birt
 
 - This leave may be taken in a single period or in parts. If taken in parts, the total leave must not exceed  1 ½ years.
 - Team members must notify the Absence Management team at `leaves@gitlab.com` one month in advance of beginning parental leave, and at least two weeks in advance if returning from leave early.
-
 
 #### Maternity Leave Payment
 

@@ -1,11 +1,8 @@
 ---
 title: "GitLab France S.A.S. Right to Disconnect Charter"
 description: GitLab France S.A.S. Right to Disconnect Charter - French and English language versions.
+controlled_document: true
 ---
-
-{{% alert title="This is a Controlled Document" color="danger" %}}
-Inline with GitLab's regulatory obligations, changes to [controlled documents]({{< ref "controlled-document-procedure" >}}) must be approved or merged by a code owner. All contributions are welcome and encouraged.
-{{% /alert %}}
 
 ## Français: GITLAB FRANCE S.A.S. CHARTE SUR LE DROIT À LA DÉCONNEXION
 
@@ -88,7 +85,6 @@ Il incom be à tous les gestionnaires/superviseurs de:
 
 (vii) Ne pas encourager, valoriser ou récompenser un comportement différent susceptible d'entrer en conflit avec la Charte; et
 
-
 (b) *Collaborateurs*
 
 Il incombe à tous les Salariés de:
@@ -137,7 +133,7 @@ Nous communiquons de manière respectueuse et professionnelle à tout moment, co
 
 Lorsqu'il envoie une communication, l'expéditeur doit tenir compte du moment et du fait que cela risque de déranger, et le destinataire doit comprendre qu'il n'est pas tenu d'y répondre avant la reprise de son horaire de travail. Les salariés doivent être attentifs à la quantité de télécommunications qu'ils ont chaque jour et savoir la gérer.
 
-Nous sommes conscients que de nombreux salariés sont actifs sur les réseaux sociaux mais nous vous rappelons que si vous choisissez de communiquer avec d'autres salariés de GitLab sur les réseaux sociaux, vous devez rester professionnel et prendre en compte les  [Gitlab's Communication Guidelines]({{< ref "communication" >}})  (« Directives de communication de GitLab ») en toutes circonstances, dans les limites permises par la loi. Les salariés ne doivent pas se sentir obligés de répondre aux messages de leurs collègues sur les réseaux sociaux en dehors de leurs heures de travail, voir la [Team Member Social Media Policy](https://about.gitlab.com/handbook/marketing/team-member-social-media-policy/) (« Politique des médias sociaux des salariés ») pour plus de détails.
+Nous sommes conscients que de nombreux salariés sont actifs sur les réseaux sociaux mais nous vous rappelons que si vous choisissez de communiquer avec d'autres salariés de GitLab sur les réseaux sociaux, vous devez rester professionnel et prendre en compte les  [GitLab's Communication Guidelines]({{< ref "communication" >}})  (« Directives de communication de GitLab ») en toutes circonstances, dans les limites permises par la loi. Les salariés ne doivent pas se sentir obligés de répondre aux messages de leurs collègues sur les réseaux sociaux en dehors de leurs heures de travail, voir la [Team Member Social Media Policy](/handbook/marketing/team-member-social-media-policy/) (« Politique des médias sociaux des salariés ») pour plus de détails.
 
 #### 8. Réunions
 
@@ -188,7 +184,6 @@ En cas de conflit entre les versions en langue française et anglaise de la Char
 La présente Charte entre en vigueur le 3 Avril 2023.
 
 La présente Charte est conclue pour une durée indéterminée.
-
 
 ## English: GITLAB FRANCE S.A.S. RIGHT TO DISCONNECT CHARTER
 
@@ -264,9 +259,7 @@ It is the responsibility of all managers to:
 
 (i) Know the regular working hours of their direct reports, and communicate any changes in scheduling to team members in as timely a manner as possible to the extent permitted by French law;
 
-
 (ii) Set clear and reasonable expectations with respect to workload and  deliverables;
-
 
 (iii) Set clear and reasonable expectations with respect to when work, and engaging in work-related communications, outside of regular working hours may be required as a normal part of the team member’s job;
 
@@ -383,4 +376,3 @@ This Charter is concluded for an indefinite period.
 ## Current and Past Versions (accessible internally only)
 
 A PDF of the current version of the Charter is available [here](https://drive.google.com/file/d/11yL_Lw1qpoHp1dZ_zYowR1Dlcvmn7kfV/view?usp=drive_link). If/when the Charter is updated, PDFs of previous versions will be made available here for transparency.
-

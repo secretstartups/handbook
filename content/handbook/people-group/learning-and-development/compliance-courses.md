@@ -10,7 +10,7 @@ GitLab has several compliance courses and resources. Explore the chart below to 
 
 | Training     | Tool  | Frequency   |  Responsible Team   |
 |---------|-----------------|------------------|------------------|
-| [Anti-Harassment](/handbook/anti-harassment/)    | WILL Interactive | Onboarding <br> Varies based on Location | Learning & Development |
+| [Anti-Harassment](/handbook/people-group/anti-harassment/)    | WILL Interactive | Onboarding <br> Varies based on Location | Learning & Development |
 | [Security](/handbook/security/#training-delivery)    | KnowBe4 | Onboarding <br> Annually by the end of August | Security |
 | Compliance    | Navex | Annual | Legal |
 
@@ -115,7 +115,7 @@ When current team members transition to roles and become managers of people, the
 
 ### Payment Process
 
-Please follow the payment process outlined on the [coupa handbook page](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/) starting at [how to create a requisition](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) when purchasing new licenses from WILL Interactive. Before you start the process in Coupa, you will need to request an invoice from WILL Interactive.
+Please follow the payment process outlined on the [coupa handbook page](/handbook/business-technology/enterprise-applications/guides/coupa-guide/) starting at [how to create a requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) when purchasing new licenses from WILL Interactive. Before you start the process in Coupa, you will need to request an invoice from WILL Interactive.
 
 If you have questions throughout the process, reach out to the Senior Accounts Payable Specilaist via the `#finance` Slack channel.
 

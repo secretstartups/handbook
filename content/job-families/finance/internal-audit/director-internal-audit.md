@@ -9,7 +9,7 @@ The Director, Internal Audit reports to the Vice-President, Internal Audit.
 
 ### Job Grade
 
-The Director, Internal Audit is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Internal Audit is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -29,6 +29,7 @@ The Director, Internal Audit is a [grade 10](https://about.gitlab.com/handbook/t
 ### Requirements
 
 *Subject matter expertise in auditing and enterprise risk management concepts (e.g., risk assessment/prioritization, process & internal controls, root cause analysis)
+
 - Demonstrated strong professional judgment, critical thinking and written/oral communication skills (e.g., persuasion, influence, conflict resolution)
 - Experienced in leading teams leveraging data and analytical tools to solve business problems and in the audit lifecycle (e.g., audit plan development, risk assessment, engagement execution, reporting, findings management)
 - Experienced in leading, coaching and developing team members
@@ -45,27 +46,27 @@ The Director, Internal Audit is a [grade 10](https://about.gitlab.com/handbook/t
 
 ### Performance Indicators
 
-- [Percentage of Desktop procedures documented](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
-- [Percentage of controls tested](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
-- [Percentage of recommendations implemented](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
-- [Percentage of audits completed](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
-- [New Hire Location Factor < 0.69](https://about.gitlab.com/handbook/business-technology/metrics/#new-hire-location-factor--069)
+- [Percentage of Desktop procedures documented](/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of controls tested](/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of recommendations implemented](/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of audits completed](/handbook/internal-audit/#internal-audit-performance-measures)
+- [New Hire Location Factor < 0.69](https://internal.gitlab.com/handbook/it/it-performance-indicators/#new-hire-location-factor--069)
 - Completing tasks and audits timely and efficiently
 - Utilizing Best Practices related to audit findings and recommendations.
 - Approval ratings based on surveys above 80% in the first year, moving to 90% in subsequent years.
 
 ### Career Ladder
 
-The next step in the Internal Audit job family is to move to the [PAO](/job-families/finance/pao-jf/) job family.
+The next step in the Internal Audit job family is to move to the [Internal Audit](/handbook.gitlab.com/job-families/finance/#internal-audit/) job family.
 
 ### Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 45 minute interview with our Controller.
 - Candidates will then be invited to schedule a 45 minute interview with our CFO.
 - Finally, candidates will interview with Chairman of the Audit Committee.
 - Successful candidates will subsequently be made an offer via email.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/interviewing/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/).

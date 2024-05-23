@@ -24,14 +24,14 @@ quickly as updating the roadmap, so they don't need to be mentioned here unless 
 
 | What                                   | When                     | Status    |
 |----------------------------------------|--------------------------|-----------|
-| Handbook Migration                     | March 2023 to March 2024 | Ongoing   |
-| Handbook AMA Livestream                | October 2023             | Planning  |
-| Handbook Issue Triage Livestream       | October 2023             | Planning  |
-| Handbook Client-side Features          | December 2023            |           |
+| Handbook Migration                     | March 2023 to 2023-12-22 | Completed |
+| Handbook AMA Livestream                | February 2024            | Planning  |
+| Handbook Issue Triage Livestream       | February 2024            | Planning  |
+| Handbook Client-side Features          | February 2024            |           |
 | Handbook Search Improvements           | TBC                      |           |
 | New Team and Pets Site                 | TBC                      |           |
 
-### Handbook Migration
+### Handbook Migration (Completed)
 
 After years of exponential growth and evolution and the significant accumulation of technical debt the decision was taken
 to migrate the Handbook from `www-gitlab-com` to its own repository and rearchitect how the handbook is generated.
@@ -106,32 +106,7 @@ This is the order we have identified to migrate content but it is subject to cha
 
 ### Migration Status
 
-#### What is moving next?
-
-**What are we moving:** People-Group
-
-**Status** Expected to complete: {{% migration-finish-date section="people-group" %}}
-
-#### What content is moving
-
-The following content has been earmarked as the next content to move.  This will be done as a set of merge requests from {{% migration-start-date section="people-group" %}}.  The content will then be checked, markdown errors fixed and merged in to the new handbook.  The content on the about site will be removed and redirects setup {{% migration-finish-date section="people-group" %}}.
-
-- [x] Anti-Harassment
-- [x] Entity
-- [ ] Hiring
-- [x] Incentives
-- [x] Labor and Employment
-- [x] Leadership
-- [x] Paid Time Off
-- [x] People Group
-- [x] Total Rewards
-- [x] Travel
-
-#### How will this be done
-
-We hope to do this as a series of small MRs over the course of a week.  Each of these sections is typically only a page or two.  So we shall one small section at a time over the course of 4 days.  Each move is a pair of MRs.  One brings the content over to the new handbook while the other removes the content from `www-gitlab-com` and sets up a redirect to the new content.
-
-If you have any questions about this please feel free to ask in [#handbook](https://gitlab.slack.com/archives/C81PT2ALD) on Slack or reach out directly to @jamiemaynard.
+**Completed 2023-12-22**
 
 ### The break down of whats moving
 
@@ -170,7 +145,7 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 - [x] About the handbook
 - [x] Content Websites Responsibility
 - [x] Style-Guide
-- [x] Inspired By Gitlab
+- [x] Inspired By GitLab
 - [x] Executive Business Administrators
 
 A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/about/migration-details/#company-handbook-content)
@@ -215,14 +190,14 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 
 A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/about/migration-details/#support)
 
-#### CEO and CoST Team
+#### CEO and Office of the CEO
 
 **Completed:** {{% migration-finish-date section="ceo-and-cost-team" %}}
 
 **Content to move:**
 
 - [x] CEO pages
-- [x] CoST Team Pages
+- [x] Office of the CEO Pages
 
 A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/about/migration-details/#ceo-and-cost-team)
 
@@ -249,7 +224,7 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 
 #### Security
 
-**Expected Date:** {{% migration-finish-date section="security" %}}
+**Completed:** {{% migration-finish-date section="security" %}}
 
 **Content to move:**
 
@@ -260,13 +235,13 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 
 #### People Group
 
-**Expected Date:** {{% migration-start-date section="people-group" %}}
+**Completed:** {{% migration-start-date section="people-group" %}}
 
 **Content to move:**
 
 - [x] Anti-Harassment
 - [x] Entity
-- [ ] Hiring
+- [x] Hiring
 - [x] Incentives
 - [x] Labor and Employment
 - [x] Leadership
@@ -279,75 +254,75 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 
 #### Culture
 
-**Expected Date:** {{% migration-start-date section="culture" %}}
+**Completed:** {{% migration-start-date section="culture" %}}
 
 **Content to move:**
 
-- [ ] Company Culture
+- [x] Company Culture
 
 A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/about/migration-details/#culture)
 
 #### Finance
 
-**Expected Date:** {{% migration-start-date section="finance" %}}
+**Completed:** {{% migration-start-date section="finance" %}}
 
 **Content to move:**
 
-- [ ] Board Meetings
-- [ ] Finance
-- [ ] Internal Audit
-- [ ] Spending Company Money
-- [ ] Stock Options
-- [ ] Tax
+- [x] Board Meetings
+- [x] Finance
+- [x] Internal Audit
+- [x] Spending Company Money
+- [x] Stock Options
+- [x] Tax
 
 A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/about/migration-details/#finance)
 
 #### Product
 
-**Expected Date:** {{% migration-start-date section="product" %}}
+**Completed:** {{% migration-start-date section="product" %}}
 
 **Content to move:**
 
-- [ ] Acquisitions
-- [ ] Business Technology
-- [ ] Product
-- [ ] Product Development
+- [x] Acquisitions
+- [x] Business Technology
+- [x] Product
+- [x] Product Development
 
 A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/about/migration-details/#product)
 
 #### Marketing
 
-**Expected Date:** {{% migration-start-date section="marketing" %}}
+**Completed:** {{% migration-start-date section="marketing" %}}
 
 **Content to move:**
 
-- [ ] Marketing
-- [ ] Use-Cases
+- [x] Marketing
+- [x] Use-Cases
 
 A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/about/migration-details/#marketing)
 
 #### Sales
 
-**Expected Date:** {{% migration-start-date section="sales" %}}
+**Completed:** {{% migration-start-date section="sales" %}}
 
 **Content to move:**
 
-- [ ] Alliances
-- [ ] Customer Success
-- [ ] Resellers
-- [ ] Sales
+- [x] Alliances
+- [x] Customer Success
+- [x] Resellers
+- [x] Sales
 
 A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/about/migration-details/#sales)
 
 #### Legal
 
-**Expected Date:** {{% migration-start-date section="legal" %}}
+**Completed:** {{% migration-start-date section="legal" %}}
 
 **Content to move:**
 
-- [ ] DMCA Policy
-- [ ] GDPR Policy
-- [ ] Legal
+- [x] DMCA Policy
+- [x] GDPR Policy
+- [x] Legal
 
 A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/about/migration-details/#legal)
 
@@ -357,8 +332,52 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 
 **Content to move:**
 
-- [ ] Developer Onboarding
-- [ ] Engineering
+- [x] Developer Onboarding
+- [x] Engineering
+    - [x] architecture
+    - [x] automation
+    - [x] career-development
+    - [x] communication
+    - [x] compensation-roadmaps
+    - [x] core-development
+    - [x] cross-functional-prioritization
+    - [x] cto-staff
+    - [x] demos
+    - [x] deployments-and-releases
+    - [x] development
+    - [x] engineering-allocation
+    - [x] error-budgets
+    - [x] expansion-development
+    - [x] fast-boot
+    - [x] fellow
+    - [x] frontend
+    - [x] gitlab-repositories
+    - [x] hiring
+    - [x] ic-leadership
+    - [x] incident-management
+    - [x] infrastructure
+    - [x] infrastructure-quality
+    - [x] internships
+    - [x] management
+    - [x] mentorship
+    - [x] metrics
+    - [x] monitoring
+    - [x] okrs
+    - [x] open-source
+    - [x] performance
+    - [x] performance-indicators
+    - [x] plato
+    - [x] projects
+    - [x] quality
+    - [x] readmes
+    - [x] recognition
+    - [x] releases
+    - [x] root-cause-analysis
+    - [x] secondments
+    - [x] starting-new-teams
+    - [x] tax-credits
+    - [x] volunteer-coaches-for-urgs
+    - [x] workflow
 
 A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/about/migration-details/#engineering)
 
@@ -375,7 +394,7 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 
 ### Refactor and move data
 
-**Target Date:** End of Q4 2023
+**Target Date:** TBD
 
 #### Why move data
 

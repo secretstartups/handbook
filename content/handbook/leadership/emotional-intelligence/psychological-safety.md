@@ -34,23 +34,17 @@ Why is psychological safety important? When you have psychological safety in the
 - Wellbeing
 - Culture
 
-<figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQn6_E_jGgOUz9OBe0hYopG5MYF4k6-MV2NsdESCpxjYenS9ikKD8mylL_Id44GXzl5-lHLltwHsWLD/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</figure>
+![Psychological Safety How it Works](/images/handbook/leadership/psych-safety-how-it-works.png)
 
 Amy Edmondson uses David Kantor's model to show the [relationship between Psychological Safety and Accountability & Motivation](https://peopletalking.com.au/project/psychological-safety/). When there is an environment where psychological safety is low or non-existent, it can be very stress or anxiety filled. When there is high psychological safety, it can make people more comfortable. You can get a better picture of this from the diagram below.
 
-<figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRvy9_S6SM97risN1JCRC4Hy0rTRt3PQXdMhl_D_xxEFi-W4F5FYL04FrZp62HgrPlt6N-O8Um-gnCk/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</figure>
+![Psychological Safety Model](/images/handbook/leadership/psych-safety-model.png)
 
 ## Psychological Safety vs Danger
 
 When you have psychological safety people become more motivated because they feel more able to take risks. When people feel psychologically safe, they will learn from their failure rather than feeling the need to blame others.
 
-<figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRzAtUx8ptPA5FbZ1Pn_GKRQB_9I_K98Sxr7GBfssU3FxpkVUXCA9kyg7j5xWV6X9NEOR0zC7SdGuJb/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</figure>
+![Psychological Safety vs Danger](/images/handbook/leadership/psych-safety-vs-danger.png)
 
 ## Diversity and Inclusion
 
@@ -82,7 +76,7 @@ It is important to enable a human-to-human approach and realize the other party 
 ## Psychological Safety Learning & Development
 
 {{% alert %}}
-[Psychological Safety Short Course](https://about.gitlab.com/handbook/leadership/emotional-intelligence/psychological-safety-short-course/)
+[Psychological Safety Short Course](/handbook/leadership/emotional-intelligence/psychological-safety-short-course/)
 {.h4}
 {{% /alert %}}
 
@@ -91,7 +85,7 @@ If you want to learn more about how you can impact psychological safety, you can
 You can:
 
 - Access the [Psychological Safety Short Course here](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/psychological-safety-understanding-empowerment-and-self-reflection).
-- Read the [content of the course here](https://about.gitlab.com/handbook/leadership/emotional-intelligence/psychological-safety-short-course/).
+- Read the [content of the course here](/handbook/leadership/emotional-intelligence/psychological-safety-short-course/).
 
 ## Live Learning Session
 
@@ -126,7 +120,7 @@ The challenge was organized in [an Epic](https://gitlab.com/groups/gitlab-com/pe
 
 | Day | Challenge | Time | Format | Activity | Competency |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| Day 1 | Introduction to Psychological Safety | 20 minutes | Self-paced Daily Challenge | Read the [Psychological Safety Handbook Page](https://about.gitlab.com/handbook/leadership/emotional-intelligence/psychological-safety/) <br> Comment on the daily issue in response to: What does psychological safety mean to you? | <ul><li>Diversity, Inclusion, & Belonging</li><li>Emotional Intelligence</li></ul> |
+| Day 1 | Introduction to Psychological Safety | 20 minutes | Self-paced Daily Challenge | Read the [Psychological Safety Handbook Page](/handbook/leadership/emotional-intelligence/psychological-safety/) <br> Comment on the daily issue in response to: What does psychological safety mean to you? | <ul><li>Diversity, Inclusion, & Belonging</li><li>Emotional Intelligence</li></ul> |
 | Day 2 | Importance of Psychological Safety | 20 minutes | Self-paced Daily Challenge | Watch [The importance of psychological safety: Amy Edmondson](https://www.youtube.com/watch?v=eP6guvRt0U0) <br> Comment on the daily issue in response to: Throughout your career, what zone(s) (Comfort, Apathy, Learning, or Anxiety - outlined here) have you found yourself in? | <ul><li>Diversity, Inclusion, & Belonging</li><li>Emotional Intelligence</li></ul> |
 | Day 3 | Increasing Psychological Safety | 20 minutes | Self-paced Daily Challenge | Read [7 ways to create psychological safety in your workplace](https://blog.jostle.me/blog/psychological-safety-at-work) <br> Comment on the daily issue in response to: What can you do to increase psychological safety within the teams you are a part of at GitLab? Have you tried or experienced any of these things in the past? | <ul><li>Diversity, Inclusion, & Belonging</li><li>Emotional Intelligence</li></ul> |
 | Day 4 | Attend Live Learning | 50 minutes | Live Learning - Psychological Safety in the Workplace | Participate in the live learning | <ul><li>Diversity, Inclusion, & Belonging</li><li>Emotional Intelligence</li></ul> |

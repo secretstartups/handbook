@@ -54,7 +54,7 @@ Your compensation = [SF benchmark](#sf-benchmark) x [Location Factor](#location-
 
 The calculator will output the amount as `base + variable = total target cash (TTC)`
 
-Your options can be found on [stock options](https://about.gitlab.com/handbook/stock-options/) and benefits can be found on relevant [entity specific benefits pages]({{< ref "general-and-entity-benefits" >}}).
+Your options can be found on [stock options](/handbook/total-rewards/stock-options/) and benefits can be found on relevant [entity specific benefits pages]({{< ref "general-and-entity-benefits" >}}).
 
 The compensation calculator is updated in December and June with the proper exchange rate, keeping compensation levels in line with local purchasing power.
 
@@ -260,7 +260,7 @@ If the location of a metropolitan area is higher than the regional minimum, the 
 GitLab will gather and analyze the data for each location factor annually as part of annual compensation review. We will also iterate on location factors as needed throughout the year.
 
 1. Data Gathering
-    - ERI: Review the Cost of Labor Market Analysis of each Geo Area to San Francisco at the 100,000, 125,000, and 150,000 salary rate. Take the average of all three data points.
+    - ERI: Review the Cost of Labor Market Analysis of each Geo Area to San Francisco at the 100,000, 150,000, and 200,000 salary rate. Take the average of all three data points.
     - Comptryx: Pull a report from Comptryx with all job families in SF as well as each location available in Comptryx to evaluate the differential.
     - Radford: Pull a report from Radford with all job families in SF as well as each location available in Radford to evaluate the differential.
     - In reviewing the data set, determine if a new geo area needs to be added to the list.
@@ -268,7 +268,7 @@ GitLab will gather and analyze the data for each location factor annually as par
     - For geographical areas:
         - Take the average of all non-metro data to determine the location factor for the geographical area. If insufficient non-metro data is available, use all available data and deflate for metros.
     - For metro areas, take the maximum of:
-        - the average of all data sources rounded to the nearest 0.01 OR
+        - the average of all data sources rounded up to the nearest 0.05 OR
         - the current location factor or geographic area (so as to not reduce location factors).
         - If the location factor for the metro area is higher than for the geographical area, pull this out as its own location factor.
         - Analyze the output based on geo areas to adjust location factors where needed. Add a comment with the rationale for the adjustment.
@@ -295,7 +295,7 @@ The nomenclature can be adjusted for each job family to ensure the appropriate l
 
 GitLab job grades aid in mapping a role for internal equity with respect to cash and equity. For example, if there is a stock option update, this mapping can act as a reference to update the compensation calculator for the various roles to ensure alignment. Job Grades can also provide an alternative path to finding the current number of options offered without having to fill out the compensation calculator.
 
-#### Job Grades:
+#### Job Grades
 
 *Note: This table excludes Enterprise Sales, Commercial Sales, Channel Sales, and Sales Development. Grading can be seen in the table below.*
 
@@ -310,12 +310,12 @@ GitLab job grades aid in mapping a role for internal equity with respect to cash
 | 8        | Manager          | Staff <br> Senior Product Manager <br> Consultant |
 | 7            |                  | Senior <br> Product Manager                       |
 | 6            |                  | Intermediate              |
-| 5            |                  | Junior                    |
+| 5            |                  | Junior  <br> Associate        |
 | 4            |                  | Intern                    |
 
 Dual career tracks can be added to each job family (regardless of division) when supported by data. Each individual contributor level above senior (grade 7) will have links to market examples of that level in the relevant section of the job family.
 
-##### Sales/Sales Development:
+##### Sales/Sales Development
 
 | Grade    | Management      | Individual Contributor          |
 |-------|-----------------|---------------------------------|
@@ -325,12 +325,12 @@ Dual career tracks can be added to each job family (regardless of division) when
 | 11    | Senior Director |                                    |
 | 10    |    Director          |                                 |
 | 9        | Manager (Sales) <br> Senior Manager (Sales)        |                                   |
-| 8        | Manager (Demand Generation)                |    Alliance Business Development Manager <br> Enterprise  |
+| 8        | Manager (SDR/BDR)   <br> Associate Manager (Sales)             |    Alliance Business Development Manager <br> Enterprise  |
 | 7            |                 | Mid Market                      |
-| 6            |                 | SMB/SDR Lead & Acceleration                             |
-| 5            |                 | Analyst/ SDR  |
+| 6            |                 | SMB                            |
+| 5            |                 | SDR/BDR  |
 
-##### Customer Success:
+##### Customer Success
 
 | Grade    | Management       | Individual Contributor    |
 |-------|------------------|---------------------------|

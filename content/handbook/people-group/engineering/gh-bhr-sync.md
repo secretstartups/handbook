@@ -9,7 +9,7 @@ Considering we are retaining BambooHR for team member data, we need to make sure
 
 Whenever a candidate is marked as hired, a webhook is send to the [conservatory app](https://gitlab.com/gitlab-com/people-group/peopleops-eng/conservatory).
 
-Our current implementation of this for Workday, is handled by the [Platypus](https://about.gitlab.com/handbook/business-technology/enterprise-applications/integrations/platypus/) project.
+Our current implementation of this for Workday, is handled by the [Platypus](/handbook/business-technology/enterprise-applications/integrations/platypus/) project.
 
 ### Synced fields
 

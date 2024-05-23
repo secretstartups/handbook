@@ -35,7 +35,7 @@ At GitLab, there can be many instances where a crucial conversation is needed. W
 1. **Make It Safe:** Nothing kills dialogue faster than fear. When you make it safe, you can talk about almost anything and people will listen. If you spot safety risks as they happen, you can step out of the conversation, build safety, and then find a way to dialogue about almost anything.
 1. **Master Your Stories:** Learn to exert influence over your feelings by slowing down the storytelling process, take a step back, and retrace your path to action one element at a time.
 
-These are just a few strategies outlined in the Crucial Conversation book. We [highly recommend reading it](https://about.gitlab.com/handbook/leadership/#books) for leading teams at GitLab. Team members can also sign up to take our in-house [Crucial Conversations training](/handbook/people-group/learning-and-development/learning-initiatives/crucial-conversations/).
+These are just a few strategies outlined in the Crucial Conversation book. We [highly recommend reading it](/handbook/leadership/#books) for leading teams at GitLab. Team members can also sign up to take our in-house [Crucial Conversations training](/handbook/people-group/learning-and-development/learning-initiatives/crucial-conversations/).
 
 ## How Crucial Conversations align with GitLab Values
 
@@ -43,11 +43,10 @@ These are just a few strategies outlined in the Crucial Conversation book. We [h
 | ----- | ----- |
 | [Collaboration]({{< ref "values#collaboration" >}}) | Crucial conversations are introduced not just by people leaders but by all GitLab team members. We are all managers of one and should feel enabled to open crucial conversations whenever necessary. Building a shared pool of meaning in a discussion requires everyone in the conversation to share to be successful. |
 | [Results]({{< ref "values#results" >}}) | Crucial conversations are results-oriented. Conversations should focus on action that will improve the situation or problem for all members involved in the conversation. |
-| [Efficient]({{< ref "values#efficiency" >}}) | Crucial conversations can be evaluated via the CPR (Content, Pattern, Relationship) method to determine the root cause of the conflict or problem. This method allows for efficiency in approaching crucial conversations with specific tools depending on the context.
+| [Efficient]({{< ref "values#efficiency" >}}) | Crucial conversations can be evaluated via the CPR (Content, Pattern, Relationship) method to determine the root cause of the conflict or problem. This method allows for efficiency in approaching crucial conversations with specific tools depending on the context. |
 | [Diversity, Inclusion, and Belonging](/handbook/values/#diversity-inclusion) | Everyone has a shared voice in a crucial conversation. The goal is to fill a shared pool of knowledge with facts and stories from all points of view. Hosts of crucial conversations should be open to having their stories challenged. |
 | [Iteration]({{< ref "values#iteration" >}}) | Crucial conversations should happen early and often. The CPR (Content, Pattern, Relationship) encourages conversation early and often in the `content` category before something becomes a `pattern` |
 | [Transparency]({{< ref "values#transparency" >}})| Results, goals, and stories about crucial conversations are shared throughout teams to encourage more crucial conversations. While the content of specific conversations isn't always shared to maintain a safe space, the discussion about practicing crucial conversations keeps us accountable. |
-
 
 ## Strategies for Successful Crucial Conversations
 
@@ -149,3 +148,4 @@ Below are additional resources on influencing and leadership for you to review.
 - [5 Leadership Strategies Proven to Improve Performance on Your Team](https://crestcomleadership.com/2016/12/01/5-leadership-strategies-to-improve-performance-in-your-company/)
 - [The 7 Best Books to Improve Influencing Skills](https://www.roffeypark.com/influencing-skills/the-7-best-books-to-improve-influencing-skills/)
 - [7 Ways to Build Influence in the Workplace](https://www.inc.com/jayson-demers/7-ways-to-build-influence-in-the-workplace.html)
+- [The Power of Vulnerability](https://www.youtube.com/watch?v=iCvmsMzlF7o)

@@ -15,7 +15,7 @@ If you know something we don't or just want to share your solution to abuse prev
 
 ## Self-managed customers: preventing, detecting and mitigating spam
 
-GitLab uses [Spamcheck](/https://docs.gitlab.com/ee/administration/reporting/spamcheck.html) to check for spam when users create issues and reCaptcha as an added level of spam and abuse prevention.
+GitLab uses [Spamcheck](https://docs.gitlab.com/ee/administration/reporting/spamcheck.html) to check for spam when users create issues and reCaptcha as an added level of spam and abuse prevention.
 
 This tooling helps respond to the symptoms of abuse, but the root of the problem remains: malicious actors register new accounts, or take over existing accounts and then use the accounts to spam and abuse instances and projects.
 
@@ -41,7 +41,7 @@ Email confirmation on sign-up; making it more difficult for bots to register new
 
 ### Harden your instance
 
-Customizing your instance configuration can go a long way to discouraging and reducing spam and abuse. This includes [defining how users access your instance and who can have access](/blog/2020/05/20/gitlab-instance-security-best-practices/#restricting-how-and-who).
+Customizing your instance configuration can go a long way to discouraging and reducing spam and abuse. This includes [defining how users access your instance and who can have access](https://about.gitlab.com/blog/2020/05/20/gitlab-instance-security-best-practices/#restricting-how-and-who).
 
 ### Understand how abuse is reported and managed by self-managed Admins
 

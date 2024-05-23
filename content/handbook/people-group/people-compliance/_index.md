@@ -30,7 +30,7 @@ Understanding GitLab's strategic priorities lays the foundation for a better und
 
 ## People Compliance Core Competencies & Responsibilities
 
-All Responsibilities are listed in the [People Compliance job family page]({{< ref "/job-families/people-group/people-compliance" >}}), and they can be summarized as follows:
+All Responsibilities are listed in the [People Compliance job family page](/job-families/people-group/people-compliance), and they can be summarized as follows:
 
 1. To identify needs and propose strategies to collaborate and support the enablement of compliant protocols.
 1. Implement compliance initiatives and templates that can be utilised for initiatives.
@@ -56,12 +56,12 @@ Please see the [README.md](https://gitlab.com/gitlab-com/people-group/compliance
 
 ## Relevant Handbook Pages
 
-- [Privacy](https://about.gitlab.com/handbook/legal/privacy/) and [Privacy Laws and GitLab](https://about.gitlab.com/handbook/legal/privacy/privacy-laws.html) - More information on GitLab's privacy practices.
-- [Employee Privacy Policy](https://about.gitlab.com/handbook/legal/privacy/employee-privacy-policy/) - GitLab's policy for how we handle the personal information of our team members.
-- [Records Retention Policy](https://about.gitlab.com/handbook/legal/record-retention-policy/) - GitLab's policy on the implementation of procedures, best practices, and tools to promote consistent life cycle management of GitLab records.
+- [Privacy](/handbook/legal/privacy/) and [Privacy Laws and GitLab](/handbook/legal/privacy/privacy-laws.html) - More information on GitLab's privacy practices.
+- [Employee Privacy Policy](/handbook/legal/privacy/employee-privacy-policy/) - GitLab's policy for how we handle the personal information of our team members.
+- [Records Retention Policy](/handbook/legal/record-retention-policy/) - GitLab's policy on the implementation of procedures, best practices, and tools to promote consistent life cycle management of GitLab records.
 - [Data Classification Policy]({{< ref "data-classification-standard" >}}) - GitLab's Security Compliance policies related to data retention and disposal.
-- [Data Protection Impact Assessment (DPIA) Policy](https://about.gitlab.com/handbook/legal/privacy/dpia-policy) - GitLab's policies related to Data Protection.
-- [GitLab Audit Committee](https://about.gitlab.com/handbook/board-meetings/committees/audit/) - Information regarding GitLab's Audit Committee of the Board of Directors of GitLab Inc.
+- [Data Protection Impact Assessment (DPIA) Policy](/handbook/legal/privacy/dpia-policy) - GitLab's policies related to Data Protection.
+- [GitLab Audit Committee](/handbook/board-meetings/committees/audit/) - Information regarding GitLab's Audit Committee of the Board of Directors of GitLab Inc.
 - [Total Rewards Audits]({{< ref "total-rewards-processes" >}}) - Information on some of our People Group audits.
 
 ## Performance Indicators
@@ -76,7 +76,7 @@ This PI encompasses the 100% completion of all mandated, annual HR reports to al
 
 ## Meet the People Compliance team
 
-[**Cassiana Gudgenov**](https://about.gitlab.com/company/team/#cgudgenov)
+[**Cassiana Gudgenov**](/handbook/company/team/#cgudgenov)
 
 - Title: People Compliance Specialist
 - GitLab handle: @cgudgenov
