@@ -42,7 +42,7 @@ For Engineering, please see [Engineering Mobility Principles](/handbook/engineer
 
 ### Promotions
 
-**In-Cycle Promotions:**  An in-cycle promotion is any individual that is within the same job family, and has a similar but increased job scope. A promotion is not necessarily defined with a new grade due to differences in job families. This process does not require interview(s), does not create backfill headcount and occurs semi-annually through the calibrated promotion process. All in-cycle promotions are processed in **Workday and not in Greenhouse.**  
+**In-Cycle Promotions:**  An in-cycle promotion is any individual that is within the same job family, and has a similar but increased job scope. A promotion is not necessarily defined with a new grade due to differences in job families. This process does not require interview(s), does not create backfill headcount and occurs semi-annually through the calibrated promotion process or monthly for level 5 team members in the Sales Development job family. All in-cycle promotions are processed in **Workday and not in Greenhouse.**  
 
 **Internal Mobility Promotions:**  Internal Mobility promotions occur when a team member applies for an open position and accepts a role at a higher grade/job responsibilities when compared to their current role.  
 
@@ -81,6 +81,8 @@ Most promotions are processed through our twice per year Promotion Calibrations,
 
 At GitLab, we promote on a twice per year basis. This means that there is **one effective date every 6 months when team members can be promoted**. We process promotions in Q1 (effective date February 1st) and Q3 (effective date August 1st). There are three core stages to the promotion process: Planning, Calibration, and Processing.
 
+The Sales Development organization reviews In-Cycle Promotions on a monthly basis, due to the specific [promotion criteria](https://about.gitlab.com/handbook/marketing/sales-development/#sales-development-fy24-career-path) for each level within the job family structure. Planning, calibration and processing steps are aligned to the details below.
+
 | Stage | Purpose |
 | ---------- | ----- |
 | [Planning]({{< ref "promotions-transfers#planning" >}}) | Managers and leaders to review their respective teams to determine promotion readiness, business need, and timeline for the upcoming quarters and project promotions. |
@@ -97,10 +99,49 @@ At GitLab, we promote on a twice per year basis. This means that there is **one 
 
 *Status:* Completed
 
-- Planning: 2023-12-01 to 2023-12-15
-- Calibrations: 2023-12-18 to 2024-01-08
-- Workday Entry (manager responsibility): 2024-01-09 to 2024-01-17
-- Processing (Total Rewards): 2024-02-19 to 2024-03-01
+- Planning: 2022-12-20 to 2023-01-06
+- Calibrations: 2023-01-09 to 2023-01-20
+- Processing: 2023-01-23 to 2023-02-01 (Promotions must be added to Workday by 2023-01-20)
+    - Effective date for promotions: 2023-02-01.
+    - Communication: In conjunction with [annual compensation review raises]({{< ref "compensation-review-cycle#february" >}}). After communicating 1:1 with individuals, updates can be posted publicly in #team-member-updates.
+
+### FY24-Q2
+
+*Status:* Completed.
+
+- Planning: 2023-03-15 to 2023-04-01
+- Calibrations: 2023-04-01 to 2023-04-15
+- Processing: 2023-04-15 to 2023-05-01 (promotions must be added to Workday by 2023-04-20)
+    - Effective date for promotions: 2023-05-01.
+    - Communication: After fully approved in either Greenhouse or Workday
+    - After communicating 1:1 with individuals **on or after 2023-04-24**, updates can be posted publicly in #team-member-updates. Managers should *not* communicate until Total Rewards communicates that the promotions are approved.
+
+### FY24-Q3
+
+*Status:* In progress.
+
+- Planning: 2023-06-12 to 2023-06-23
+- Calibrations: 2023-06-26 to 2023-07-14
+- Processing: 2023-07-17 to 2023-08-01 (promotions must be added to HRIS by 2023-07-20)
+    - Effective date for promotions: 2023-08-01.
+    - Communication: After fully approved in either Greenhouse or Workday
+    - After communicating 1:1 with individuals **on or after 2023-07-24**, updates can be posted publicly in #team-member-updates. Managers should *not* communicate until Total Rewards communicates that the promotions are approved.
+
+#### Sales Development Process
+
+Sales Development promotions will be reviewed on a monthly basis.
+
+- Planning & Calibration: by the third week of each month
+- Processing: promotions must be added to HRIS by the 5th day of each effective month
+    - Effective date for promotions: 2023-11-01, 2023-12-01, 2024-01-01
+
+### FY25-Q1
+
+*Status:* Upcoming. Aligned with [Annual Compensation Cycle]({{< ref "compensation-review-cycle#annual-compensation-review-timeline" >}})
+
+- Planning: 2023-12-18 to 2024-01-05
+- Calibrations: 2024-01-08 to 2024-01-19
+- Processing: 2024-01-22 to 2024-02-01 (Promotions must be added to Workday by 2024-01-19)
     - Effective date for promotions: 2024-02-01.
     - Communication: In conjunction with [annual compensation review raises]({{< ref "compensation-review-cycle#february" >}}). After communicating 1:1 with individuals, updates can be posted publicly in #team-member-updates.
          - There will be a window from 2024-02-21 to 2024-02-29 for manager to proactively communicate promotion approval and new job titles.
