@@ -127,8 +127,7 @@ The Sales Development organization reviews In-Cycle Promotions on a monthly basi
     - Communication: After fully approved in either Greenhouse or Workday
     - After communicating 1:1 with individuals **on or after 2023-07-24**, updates can be posted publicly in #team-member-updates. Managers should *not* communicate until Total Rewards communicates that the promotions are approved.
 
-
-#### FY24 - Q4 Sales Development Process
+#### Sales Development Process
 
 Sales Development promotions will be reviewed on a monthly basis.
 
