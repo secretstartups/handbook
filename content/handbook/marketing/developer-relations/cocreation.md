@@ -23,12 +23,14 @@ GitLab has [a list of smaller issues](https://gitlab.com/groups/gitlab-org/-/iss
 Identify areas that are of high priority to the customer together with the Solutions Architect & Contributor Success. Alignment with Product & Engineering is a required prerequisite.
 
 1. Identify the opportunity and create a Slack channel with the following pattern #cocreation-initiative-CUSTOMERNAME.
+1. Determine the level of willingness and ability of the customer to [contribute to GitLab](https://docs.gitlab.com/ee/development/contributing/)
 1. Invite the CSM, SA, AE, Nick Veenhof & Raimund Hook. 
-1. Share your thinking on what we could work on with the customer. Contributor Success will lead the triage process, and partner with the appropriate PMs. We will invite the PMs and other stakeholders of the problem-space to get their buy-in. This will result in 3 pathways.
+1. Share your understanding on what we could work on with the customer. Contributor Success will qualify that the opportunity meets the requirments of the co-create program.
+1. Contributor Success will lead the triage process, and partner with the appropriate PMs. We will invite the PMs and other stakeholders of the problem-space to get their buy-in. This will result in 3 pathways.
     1. The opportunity is not aligned with our roadmap or product strategy.
     1. The opportunity is considered a 'minor' contribution and can entirely be handled by contributor success like any other community contribution.
     1. The co-creation opportunity is considered a major/relevant contribution, aligned with our roadmap and product strategy.
-1. Present this to the customer & align with the customer. Don’t make any commitments to the customer until engineering & contributor success has aligned and allocated.
+1. CSM and Contributor Success present the co-create program and identified pathway & align with the customer. Don’t make any commitments to the customer until engineering & contributor success has aligned and allocated.
 1. Involve Contributor Success (Raimund Hook) to schedule an onboarding session with the customer' engineers.
 1. Only in case of a major/relevant contribution: as outlined above we will proceed with going on-site. Invite Shekhar Patnaik into the channel & collaborate with engineering to find the right engineer we can send on-site to co-create together.
 1. Only in case of a major/relevant contribution: Have the on-site with the GitLab engineer & the customer's engineer(s) to work on the identified problem together.
