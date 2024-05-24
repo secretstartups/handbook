@@ -1,5 +1,5 @@
 ---
-title: "GitLab Project Management - Hands-On Lab: Create an Organizational Structure in GitLab"
+title: "GitLab Agile Portfolio Management - Hands-On Lab: Create an Organizational Structure in GitLab"
 description: "This Hands-On Guide walks you through creating groups, projects, and project members in GitLab."
 ---
 

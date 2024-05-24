@@ -1,5 +1,5 @@
 ---
-title: "GitLab Project Management - Hands-On Lab: Organize and Manage Issues"
+title: "GitLab Agile Portfolio Management - Hands-On Lab: Organize and Manage Issues"
 description: "This Hands-On Guide walks you through creating metadata for issues, as well as creating a description template in GitLab."
 ---
 
