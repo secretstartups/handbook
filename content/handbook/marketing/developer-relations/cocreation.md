@@ -22,7 +22,7 @@ To ensure effective use of this collaborative period, GitLab will **co-locate 1 
 GitLab has [a list of smaller issues](https://gitlab.com/groups/gitlab-org/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=quick%20win&label_name%5B%5D=Seeking%20community%20contributions&first_page_size=100) ready to work on. Identifying and resolving a common problem together while learning the process is the quickest way to get started.
 Identify areas that are of high priority to the customer together with the Solutions Architect & Contributor Success. Alignment with Product & Engineering is a required prerequisite.
 
-1. Identify the opportunity and create a Slack channel with the following pattern #cocreation-initiative-CUSTOMERNAME.
+1. Identify the opportunity and create a Slack channel with the following pattern #cocreate-initiative-CUSTOMERNAME.
 1. Determine the level of willingness and ability of the customer to [contribute to GitLab](https://docs.gitlab.com/ee/development/contributing/)
 1. Invite the CSM, SA, AE, Nick Veenhof & Raimund Hook. 
 1. Share your understanding on what we could work on with the customer. Contributor Success will qualify that the opportunity meets the requirments of the co-create program.
@@ -35,7 +35,7 @@ Identify areas that are of high priority to the customer together with the Solut
 1. Only in case of a major/relevant contribution: as outlined above we will proceed with going on-site. Invite Shekhar Patnaik into the channel & collaborate with engineering to find the right engineer we can send on-site to co-create together.
 1. Only in case of a major/relevant contribution: Have the on-site with the GitLab engineer & the customer's engineer(s) to work on the identified problem together.
 
-## Roles & Responsabilities
+## Roles & Responsibilities
 
 1. **Opportunity Identification**: Solution Architects (SAs) and Customer Success Managers (CSMs) will collaborate with their technical counterparts within the customer's organization to introduce the program and identify opportunities for collaboration. They will also work with internal stakeholders such as Product managers.
 2. **Enablement**: Upon identifying a viable opportunity and the right stakeholders, Developer Relations will conduct an interactive workshop to identify specific co-creation opportunities and enable technically the customer’s engineers to contribute to GitLab
@@ -45,8 +45,8 @@ Identify areas that are of high priority to the customer together with the Solut
 
 ### Q2 
 
-* Target account list: Please see the spreadsheet linked in the Slack Channel of #cocreation-initiative or find the file in Drive named "Co-Creation SPIFF Target Account List (Data as of April 2024)".
-* Eligibility Criteria: Please see the slide linked in the Slack Channel of #cocreation-initiative or find the file in Drive named "FY25 Q2 Customer & Partner Co-Creation SPIFF"
+* Target account list: Please see the spreadsheet linked in the Slack Channel of #cocreate-initiative or find the file in Drive named "Co-Creation SPIFF Target Account List (Data as of April 2024)".
+* Eligibility Criteria: Please see the slide linked in the Slack Channel of #cocreate-initiative or find the file in Drive named "FY25 Q2 Customer & Partner Co-Creation SPIFF"
 
 ## Resources
 
