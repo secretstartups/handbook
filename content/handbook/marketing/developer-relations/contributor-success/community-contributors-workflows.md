@@ -321,11 +321,9 @@ Wider community members may run out of monthly compute minutes, or run into othe
 
 The solution is to work from the [GitLab community forks](https://gitlab.com/gitlab-community/meta#about).
 
-### Community outreach
+### Contacting contributors
 
-#### Contacting contributors
-
-To be respectful to the contributor's privacy, we will only contact data that is publicly available to reach out to them.
+To be respectful to the contributor's privacy, we will only use contact data that is publicly available to reach out to them.
 
 Here are some ways to reach out to contributors to e.g. distribute Hackathon prizes or MVP swag:
 
@@ -338,11 +336,100 @@ If you need assistance finding a contributor's email address please see [Finding
 
 Once you've found out the best way to contact them, you can choose to use a mention, e-mail or Twitter for instance.
 
-#### Contributor blog post series
+### Contributor blog post series
 
 Goal is to publish a regular blog post featuring contributors from the community.  The format will be a [casual Q&A with a community member](https://about.gitlab.com/blog/2018/08/08/contributor-post-vitaliy/) and will be posted on the [GitLab blog page](https://about.gitlab.com/blog/).
 
 When developing a blog post, follow the [blog guidelines](/handbook/marketing/blog/).
+
+## Contributor outreach campaigns
+
+Outreach campaigns help us reconnect with past contributors to GitLab who have stopped
+or users who have expressed interest in contributing but have not started.
+When reaching out, we plant trees in the [GitLab forest](https://tree-nation.com/profile/gitlab)
+in their name to recognize their past and/or potential future contributions. 
+
+### Outreach goals
+
+The Contributor Success team experimented with different criteria and messages to create a repeatable
+outreach campaign with three goals:
+
+1. Maximize community members opening new merge requests 
+1. Minimize time commitment from Contributor Success to run the campaign
+1. Prevent outreach campaigns from being a nuisance or appearing like marketing spam
+
+### Candidate criteria for return contributors
+
+- 0 opened merge requests in the last 3 months
+- Must have merged 2 or more merge requests in the last 12 months
+- Has not previously been contacted in an outreach campaign
+
+### Candidate criteria for new contributors
+
+- Requested and received access to the community forks at least 1 month ago
+- No merged merge requests in their history
+- Has not previously been contacted in an outreach campaign
+
+### Tracking Results
+
+Outreach campaign results are tracked in the [Outreach resuts spreadsheet](https://docs.google.com/spreadsheets/d/1oAkJsYoeRmcYevacWb_PK339C1F-wi-cfy4p7F7BlSg/edit?usp=sharing)
+and reported in the [Report on all outreach campaigns issue](https://gitlab.com/gitlab-org/developer-relations/contributor-success/team-task/-/issues/517).
+
+#### Results for return contributor campaigns
+
+| Outreach campaign    | Criteria         | Total outreach users | Returned users | User return rate | Merged MR | Opened MR | Closed MR |
+|----------------------|------------------|----------------------|----------------|------------------|-----------|-----------|-----------|
+| December 2023        | 6 months idle    | 49                   | 7              | 14.29%           | 11        | 0         | 2         |
+| January 2024         | 3 months idle    | 124                  | 12             | 9.68%            | 15        | 2         | 2         |
+| April 2024           | 3 months idle    | 40                   | 5              | 12.50%           | 12        | 1         | 1         |
+
+#### Results for new contributor campaigns
+
+| Outreach campaign    | Criteria         | Total outreach users | Returned users | User return rate | Merged MR | Opened MR | Closed MR |
+|----------------------|------------------|----------------------|----------------|------------------|-----------|-----------|-----------|
+| April 2024           | 0 contributions  | 274                  | 6              | 2.19%            | 4         | 2         | 1         |
+
+#### Observations on results
+
+- To date, the return contributor campaigns has been a success with an average user return rate of 11%, 24 returned contributors, and 38 merged merge requests.
+- The April experiment with a new contributor campaign was less successful with a 2% contribution rate.
+  - This campaign did not have a time restriction on how long ago users requested community forks access and likely many users had lost interest in getting started.
+  - It is expected that return contributors would be more successful than new contributors in opening a merge request.
+- In addition to opened and merged merge request results, we observed user engagement in the issues, onboarding task completion, and apreciation of the tree planting.
+- Many contributors will not have the availability to make a merge request within 1 month of the outreach to appear in these results. The campaign might be a positive reminder of the opportunity to contribute at a later time.
+
+### Outreach campaign scheduling
+
+Outreach campaigns are targeted to run every 3 months but should coincide with an announcement that might entice contributors.
+For example, announcing an upcoming hackathon or a new contributing feature like GDK-in-a-box.
+
+### Outreach campaign workflow
+
+#### Review candidate pool
+
+The Contributor Success team reviews the candidate pool to remove:
+
+- Any known GitLab team members with either a GitLab account or a personal account
+- Longstanding contributors who have lapsed but should be contacted separately outside of the campaign (e.g. Core members, former MVPs, GitLab Heroes, etc.)
+- Any known community members who have had code of conduct violations, expressed they do not want to be contacted,
+or expressed they do not want to contribute to GitLab
+
+#### Create issues and plant trees
+
+- Use the temporary branch [`temp-outreach-path` in the reward engine project](https://gitlab.com/gitlab-org/developer-relations/contributor-success/reward-engine/-/tree/temp-outreach-patch?ref_type=heads)
+- Paste candidate usernames into the `recipients` variable in [the `RewardIssuer` module](https://gitlab.com/gitlab-org/developer-relations/contributor-success/reward-engine/-/blob/temp-outreach-patch/lib/reward_issuer/gitlab.rb?ref_type=heads)
+- Run `bundle exec bin/reward_engine`
+- Use a personal access token so the outreach message comes from a real team member instead of a bot
+
+#### Responding and closing outreach issues
+
+- Answer any questions or acknowledge feedback in the outreach issues
+- Close outreach issues after 2 month period with a closing message encouraging the contributor to reopen the issue and reach out if they would like support
+
+### Potential iterations 
+
+- Reduce the manual review step with automation by checking candidates against role criteria or list of candidates to exclude
+- Thank users who contribute after the outreach campaign in their respective issues which might give opportunity for them to share why they came back
 
 ## Recognition for contributors
 
