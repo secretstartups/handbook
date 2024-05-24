@@ -1,5 +1,5 @@
 ---
-title: "GitLab Project Management - Hands-On Lab: Use GitLab Planning Tools"
+title: "GitLab Agile Portfolio Management - Hands-On Lab: Use GitLab Planning Tools"
 description: "This Hands-On Guide walks you through creating epics, iterations, and milestones in GitLab."
 ---
 
