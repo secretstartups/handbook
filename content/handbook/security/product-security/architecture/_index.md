@@ -212,7 +212,7 @@ Make attacks less attractive.
 
 #### Links
 
-- [Zero Trust](/handbook/security/architecture/zero-trust) at GitLab
+- [Zero Trust](/handbook/security/product-security/architecture/zero-trust) at GitLab
 
 </details>
 
@@ -398,7 +398,7 @@ aka Fail Safe Defaults.
 #### Links
 
 - <https://en.wikipedia.org/wiki/Defense_in_depth_(computing)>
-- [Zero Trust](/handbook/security/architecture/zero-trust) at GitLab
+- [Zero Trust](/handbook/security/product-security/architecture/zero-trust) at GitLab
 
 </details>
 
