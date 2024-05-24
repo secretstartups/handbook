@@ -31,7 +31,7 @@
 /content/handbook/about/ @gitlab-com/content-sites
 /content/handbook/editing-handbook/ @gitlab-com/content-sites
 
-# Job Families needs to be outside of a section and near the top to be a fallback
+# The higher level job-families directory needs to be outside of a section and near the top of this CODEOWNERS file as job-families require additional approvals beyond what's listed in other sections below
 /content/job-families/ @cbednarz @anjali_kaufmann @dparsonage @glucchesi @carlierussell @mwilkins @gitlab-com/content-sites @gitlab-com/egroup
 
 ^[Acquisitions]
