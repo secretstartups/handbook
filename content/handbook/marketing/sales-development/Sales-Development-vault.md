@@ -100,11 +100,21 @@ Steps:
 
 ## Automatic Enrollment to Sequences
 
-From FY24Q4 onwards, we will pilot [automatic triggers](https://support.outreach.io/hc/en-us/articles/221361788-How-To-Create-an-Outreach-Trigger) through Outreach. As a first iteration, we will be automatically enrolling leads that indicate a high Propensity to Purchase (PTP) score to a full High Touch outreach sequence. The filters applicable for this trigger are:
+
+From FY24Q4 onwards, we will pilot [automatic triggers](https://support.outreach.io/hc/en-us/articles/221361788-How-To-Create-an-Outreach-Trigger) through Outreach. 
+
+
+### Automatic High PTP Sequence
+
+As a first iteration, we will be automatically enrolling leads that indicate a high Propensity to Purchase (PTP) score to a full High Touch outreach sequence. The filters applicable for this trigger are:
 
 - Lead has direct phone in their record
 - Lead has a high PTP score (4 or 5)
 - Lead is actively enrolled to a Low Touch Sequence
+
+### Automatic Bounced Sequence
+
+We have an additional process where leads that [were automatically moved to disqualify lead status because of a wrong email]https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/7718(), BUT have a phone number associated to them, will automatically be enrolled to a [sequence.](https://web.outreach.io/sequences/13842)
 
 ## BDR Territory Movement Rules of Engagement
 
