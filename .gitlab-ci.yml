@@ -68,6 +68,11 @@ variables:
 
   PAGES_PREFIX: ""
 
+  ### TOOLING ###
+  # Specify versions of tools used in pipelines
+  HUGO_VERSION: '0.124.1'
+  MARKDOWNLINT_VERSION: '0.13.0'
+
 .default-branch: &default-branch
   if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH && $BUILD_AND_TEST_ONLY != "true"
 
@@ -90,7 +95,7 @@ variables:
 ###################################
 
 build:
-  image: registry.gitlab.com/pages/hugo/hugo_extended:0.123.7
+  image: registry.gitlab.com/pages/hugo/hugo_extended:${HUGO_VERSION}
   stage: build
   script:
     - echo -e "\e[0Ksection_start:`date +%s`:group1\r\e[0KGroup 1"
@@ -124,7 +129,7 @@ build:
     variables:
       PAGES_PREFIX: 'mr$CI_MERGE_REQUEST_IID'
       ENVIRONMENT: 'mr$CI_MERGE_REQUEST_IID'
-      HUGO_BASEURL: "${CI_PAGES_URL}/${PAGES_PREFIX}"  
+      HUGO_BASEURL: "${CI_PAGES_URL}/${PAGES_PREFIX}"
 
 ###################################
 #
@@ -146,9 +151,9 @@ pages:
     path_prefix: "$PAGES_PREFIX"
   artifacts:
     paths:
-      - public    
+      - public
   script:
-    - echo "Pages accessible through ${CI_PAGES_URL}/${PAGES_PREFIX}"    
+    - echo "Pages accessible through ${CI_PAGES_URL}/${PAGES_PREFIX}"
   rules:
     - <<: *default-branch
     - <<: *scheduled-pipeline
@@ -167,7 +172,7 @@ pages:
 
 markdownlint:
   image:
-    name: davidanson/markdownlint-cli2:v0.12.1
+    name: davidanson/markdownlint-cli2:v${MARKDOWNLINT_VERSION}
     entrypoint: ["/bin/sh", "-c"]
     docker:
       user: root
