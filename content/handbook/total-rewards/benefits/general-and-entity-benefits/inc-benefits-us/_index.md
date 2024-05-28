@@ -974,8 +974,8 @@ If you are enrolled in medical, dental, and/or vision when you terminate from Gi
 
 <summary>COBRA Timeline</summary>
 
-1. Typically terminations are updated in Workday  on the date of the termination and once updated, will then be updated in PlanSource by the end of the next business day.
-1. Once the termination has been added to PlanSource, the information will then be sent over to [WEX (Discovery Benefits)](https://cobra.discoverybenefits.com/), our COBRA administrator. Government guidelines give 30 days for WEX (Discovery) to be notified of the COBRA eligibility, but typically this will take about 1-2 weeks.
+1. Typically terminations are updated in Workday on the date of the termination and once updated, will then be updated in PlanSource by the end of the next business day.
+1. Once the termination has been added to PlanSource, the information will then be sent over to [WEX (Discovery Benefits)](https://cobra.discoverybenefits.com/), our COBRA administrator. The file feeds over every Wednesday morning. Government guidelines give 30 days for WEX (Discovery) to be notified of the COBRA eligibility, but typically this will take about 1-2 weeks.
 1. Once notified, WEX (Discovery) has 14 days to generate and send the COBRA enrollment packet. Allow normal mailing timelines (5-10 business days) to receive the packet once sent. You may also contact `total-rewards@ gitlab` at least a week after your termination date and we can send an electronic copy of your COBRA enrollment packet to you if it has been generated.
 1. You will have 60 days from the time you receive the COBRA packet to enroll either through the mail or online. Instructions for how to enroll will be included in your COBRA packet. Coverage will be retro-effective to the date coverage was lost.
 1. From the day you enroll, you have 45 days to bring your payments to current.
