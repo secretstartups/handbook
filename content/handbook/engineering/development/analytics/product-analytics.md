@@ -75,6 +75,29 @@ We have dedicated Slack channels for the Product Analytics group:
 
 We base our workflow on the company's [Product Development Flow](/handbook/product-development-flow/). Any modifications or clarifications on how we apply the workflow are detailed below.
 
+### Milestone goals
+
+During milestone planning it is the responsibility of the issue scheduler to add one of the five scoped goal labels to set clear expectations for a given milestone:
+
+| Goal label          | Expectation                                                        |
+|---------------------|--------------------------------------------------------------------|
+| `goal::design`      | Design work completed.                                             |
+| `goal::planning`    | Implementation plan created and if needed reviewed and approved.   |
+| `goal::development` | Development has begun and either has in dev or in review workflow. |
+| `goal::complete`    | Development complete and issue verified.                           |
+| `goal::stretch`     | Added as a stretch goal, no expectation to start.                  |
+
+### Issue prioritization
+
+Our priorities should follow [overall guidance for Product](/handbook/product/product-processes/#how-we-prioritize-work). This should be reflected in the priority label for scheduled issues:
+
+| Priority | Description | Probability of shipping in milestone |
+| ------ | ------ | ------ |
+| priority::1 | **Urgent**: top priority for achieving in the given milestone. These issues are the most important goals for a release and should be worked on first; some may be time-critical or unblock dependencies. | ~100% |
+| priority::2 | **High**: important issues that have significant positive impact to the business or technical debt. Important, but not time-critical or blocking others.  | ~75% |
+| priority::3 | **Normal**: incremental improvements to existing features. These are important iterations, but deemed non-critical. | ~50% |
+| priority::4 | **Low**: stretch issues that are acceptable to postpone into a future release. | ~25% |
+
 ### Estimation
 
 We estimate issues async and aim to provide an initial estimate (weight) for all issues scheduled for an upcoming milestone. Engineering are responsible for estimating issues at the `~workflow::solution validation` stage and issues require a weight and milestone before proceeding to `~workflow::scheduling`. They are used by engineering and product management to most effectively decide which issues are picked for a particular milestone.
