@@ -114,3 +114,7 @@ Weight estimates are just that: estimates. They _do not equate_ to time spent, b
 | 5 | A more complex change that will impact multiple areas of the codebase, there may also be some refactoring involved. Requirements are understood but you feel there are likely to be some gaps along the way. |
 | 8 | A complex change, that will involve much of the codebase or will require lots of input from others to determine the requirements. |
 | 13| A significant change that may have dependencies (other teams or third-parties) and we likely still don't understand all of the requirements. It's unlikely we would commit to this in a milestone, and the preference would be to further clarify requirements and/or break in to smaller Issues. |
+
+### Feature flags
+
+Engineering are responsible for maintaining an up to date [list of active feature flags](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/doc/howto/product_analytics.md#feature-flags) and their statuses.
