@@ -1072,6 +1072,7 @@ The process for setting up a new Data Spigot is as follows:
 | Gainsight        |  | `prod.common_mart_product.mart_product_usage_free_user_metrics_monthly` | No |
 | Gainsight        |  | `prod.restricted_safe_common_mart_sales.mart_arr` | Yes |
 | Salesforce       | [Snowflake API](/handbook/business-technology/data-team/platform/#Sales-Systems-Use-Case:-Using-the-Snowflake-API) | `mart_product_usage_paid_user_metrics_monthly`, `mart_product_usage_paid_user_metrics_monthly_report_view` | No |
+| Zapier           | t.b.d. | `prod.workspace_customer_success.mart_product_usage_health_score` | No |
 
 Sales Systems Use-Case: Using the Snowflake API
 
