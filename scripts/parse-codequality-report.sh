@@ -2,6 +2,7 @@
 REPORT=markdownlint-cli2-codequality.json
 ERRORS=()
 MSG=""
+REPO_URL="https://gitlab.com/gitlab-com/content-sites/handbook"
 
 generate_message() {
     MSG+="## ⚠️ Pipeline Failure - Linting Errors\n\n"
@@ -20,7 +21,7 @@ generate_table() {
       URL="https://github.com/DavidAnson/markdownlint/blob/main/doc/Rules.md#$ERROR"
       FILE=$(yq ".[$i].location.path" $REPORT -o yaml)
       LINE=$(yq ".[$i].location.lines.begin" $REPORT -o yaml)
-      LOC="https://gitlab.com/gitlab-com/content-sites/handbook/-/blob/$CI_COMMIT_SHA/$FILE#L$LINE"
+      LOC="$REPO_URL/-/blob/$CI_COMMIT_SHA/$FILE#L$LINE"
       ERRORS+=( $ERROR )
       if [[ $ERROR == "Missing CODEOWNER entry" ]]; then
         MSG+="| $ERROR | [$FILE]($LOC) | [$LINE]($LOC) | $DESCRIPTION |  |\n"
@@ -35,7 +36,7 @@ generate_addition_messages() {
     eval ERRORS=($(printf "%q\n" "${ERRORS[@]}" | sort -u))
     for e in ${ERRORS[@]}; do
         case $e in
-            MD009)          MSG+="> 🛑 You have a Trailing spaces error.  The [practical handbook edits handbook](https://about.gitlab.com/handbook/practical-handbook-edits/) provides more tips, for example [removing trailing whitespaces](https://about.gitlab.com/handbook/practical-handbook-edits/#remove-trailing-whitespaces).\n\n"
+            MD009)          MSG+="> 🛑 You have a Trailing spaces error.  The [practical handbook edits handbook](https://handbook.gitlab.com/handbook/practical-handbook-edits/) provides more tips, for example [removing trailing whitespaces](https://handbook.gitlab.com/handbook/practical-handbook-edits/#remove-trailing-whitespaces-in-a-merge-request).\n\n"
             ;;
             CODEOWNER)      MSG+="> 🛑 You have marked a handbook page as a controlled document without adding an entry to the controlled-documents section of CODEOWNERS.\n\n"
         esac
@@ -49,8 +50,7 @@ fi
 
 if [ -f handbook-codequality.json ] && [ -f markdownlint-cli2-codequality.json ]; then
     echo "Using combined codequality.json"
-    sed 's|\]|,|' handbook-codequality.json >> codequality.json
-    sed 's|\[||' markdownlint-cli2-codequality.json >> codequality.json
+    jq -s '.[0] + .[1]' handbook-codequality.json markdownlint-cli2-codequality.json > codequality.json
     REPORT=codequality.json
 elif [ -f handbook-codequality.json ]; then
     echo "markdownlint-cli2-codequality.json not present... using handbook-codequality.json only"

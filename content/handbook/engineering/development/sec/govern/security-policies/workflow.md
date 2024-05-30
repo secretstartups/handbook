@@ -4,14 +4,6 @@ aliases: /handbook/engineering/development/sec/govern/security-policies/workflow
 title: Security Policies - How we prioritize our current work?
 ---
 
-# On this page
-
-
-
-
-
-
-
 ## How do we prioritize our current work?
 
 Please refer to the flowchart provided below to understand the process we follow when determining the next task to work on after completing all assigned tasks.
@@ -37,5 +29,6 @@ flowchart TD
     BD -->|Yes| BE(Prepare implementation issues according<br/>to the Epic Refinement Process.)
     BD -->|No| BF(Take a look at the board<br/>for future milestone for issues to in<br/>`workflow::refinement`<br/>or `workflow::ready for development` states<br/>and start working on them.) 
 ```
+
 </div>
 </div>

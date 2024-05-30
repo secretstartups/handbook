@@ -40,7 +40,7 @@ proceeding.
     - `Project Description (optional)`: Something to describe the project's use
   - Visibility, project features, permissions
     - `Project visibility`: Private
-    - `Issues`: Checked
+    - `Issues`: Unchecked
     - `Respository`: Checked
     - `Merge requests`: Checked
     - `Forks`: Unchecked
@@ -152,7 +152,8 @@ proceeding.
   - Suggested reviewers: Do not enable
   - Merge request branch workflow: There should be none
 - CI/CD
-  - Leave as is
+  - Ensure `Public pipelines` under `General pipelines` is unchecked
+  - Leave the rest as it
 - Packages and registries
   - Leave as is
 - Monitor
@@ -186,10 +187,11 @@ or the blue `New schedule` button (for subsequent ones). For the description,
 enter a description that states what it is doing (syncing to Zendesk, posting in
 Slack, etc.). For the Interval Pattern, enter a cron-style string that reflects
 when it will run ([crontab.guru](https://crontab.guru/) can help with that). For
-the Cron timezone, enter `[UTC 0] UTC`. For Select target branch or tag, use
-`master` (this is our default). If you have any variables dependent on this
-specific pipeline schedule, you can enter them here. Make sure the `Activate`
-checkbox is checked, and then click the blue `Create pipeline schedule` button.
+the Cron timezone, enter `Pacific Time (US & Canada)`. For Select target branch
+or tag, use `master` (this is our default). If you have any variables dependent
+on this specific pipeline schedule, you can enter them here. Make sure the
+`Activate` checkbox is checked, and then click the blue
+`Create pipeline schedule` button.
 
 Once that is done, so is the project setup!
 

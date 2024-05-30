@@ -11,7 +11,7 @@ title: Self Healing Dependencies
 
 ## Self Healing Dependencies Single-Engineer Group
 
-The Self Healing Dependencies is a [Single-Engineer Group](/handbook/company/team/structure/#single-engineer-groups) within our [Incubation Engineering Department](/handbook/engineering/development/incubation/).
+The Self Healing Dependencies is a [Single-Engineer Group](/handbook/company/structure/#single-engineer-groups) within our [Incubation Engineering Department](/handbook/engineering/development/incubation/).
 
 The Self Healing Dependencies group aims to provide users/developments with automated assistance that helps them to keep their dependencies updated.  
 

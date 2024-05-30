@@ -6,6 +6,7 @@ description: "Information on automations related to syncing to our team page, jo
 ## Team page entry daily sync
 
 Once/day we run a pipeline that syncs the the following fields for all team members:
+
 - `name`, team members preferred name or nick name.
   - This can be changed at any time in the YAML entry itself, as a team member may want to set a custom nickname or preferred name.
   - Only updated if the team member has opted out of having their information on the team page, in which case this will be updated to reflect their current job title.
@@ -16,8 +17,11 @@ Once/day we run a pipeline that syncs the the following fields for all team memb
 - `job_title`, person's current job title.
 - `reports_to`, the `slug` reference of the team members manager team page entry.
 - `gitlab` the `customGitLabUsername` value from Workday.
+- `public` whether or not the team member has selected having their information exported or not.
 
 This means that if team members edit that field in the file, this will result in the sync overwriting when it runs again. The reason for this is that we consider Workday as the single source of truth for this data. Thus team members and managers will need to make adjustments in Workday first and this will be automatically propagated in the team page entry.
+
+Team members can edit their export preferences at any time by following [this job aid](https://docs.google.com/document/d/16_G0jQEjV3f08rGZ65g6RHTCSX5IfFalo9ZUdLEqH1s), which will reflect their export preferences the next time the sync runs.
 
 ### Diagram
 

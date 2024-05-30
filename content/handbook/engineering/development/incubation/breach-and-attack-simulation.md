@@ -11,7 +11,7 @@ title: Breach and Attack Simulation (BAS) Single-Engineer Group
 
 ## Breach and Attack Simulation (BAS) Single-Engineer Group
 
-The Breach and Attack Simulation (BAS) SEG is a [Single-Engineer Group](/handbook/company/team/structure/#single-engineer-groups) within our [Incubation Engineering Department](/handbook/engineering/development/incubation/).
+The Breach and Attack Simulation (BAS) SEG is a [Single-Engineer Group](/handbook/company/structure/#single-engineer-groups) within our [Incubation Engineering Department](/handbook/engineering/development/incubation/).
 
 ### Updates
 
@@ -127,7 +127,7 @@ Data sets:
 * Subdomain brute forcing
 * URL collection/datasets
 
-The first iteration where can immediately add value is to provide our users with asset discovery/attack surface & inventories. 
+The first iteration where can immediately add value is to provide our users with asset discovery/attack surface & inventories.
 
 ### Jobs to be Done
 

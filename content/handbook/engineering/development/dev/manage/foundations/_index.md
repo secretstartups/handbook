@@ -4,7 +4,6 @@ description: The Manage Foundations team is responsible for foundational Fronten
 ---
 
 <!-- Common Links -->
-[engineering workflow]: /handbook/engineering/workflow/
 [GitLab]: https://gitlab.com/gitlab-org/gitlab
 [GitLab UI]: https://gitlab.com/gitlab-org/gitlab-ui
 [Pajamas]: https://gitlab.com/gitlab-org/gitlab-services/design.gitlab.com
@@ -24,7 +23,7 @@ We hope it's a good entry point to learn more about who we are and what we do.
 
 ## What do we work on?
 
- -  **Design System** ([Direction Page](https://about.gitlab.com/direction/manage/foundations/design_system/))
+ - **Design System** ([Direction Page](https://about.gitlab.com/direction/manage/foundations/design_system/))
 
     We are currently focused on integrating our design system, [Pajamas], into the GitLab product.
 
@@ -48,6 +47,7 @@ For more urgent items or if you are unsure who to ask, ping `@gitlab-org/manage/
 ### Capacity Planning
 
 In general, we use the standard GitLab [Product Development Flow](/handbook/product-development-flow/). Here are some specific workflows we use:
+
 #### How we weight issues
 
 We use a Fibonacci scale and in terms of complexity, we use [this table](https://www.scrum.org/resources/blog/practical-fibonacci-beginners-guide-relative-sizing) from Practical Fibonacci.
@@ -62,6 +62,23 @@ We use a Fibonacci scale and in terms of complexity, we use [this table](https:/
 - **8 - Extra Large.** This is going to take some time and research and probably more than one engineer to complete within the milestone. At this size, we should be looking at how we can split this into smaller issues/tasks.
 - **13+ - Ludicrous!** This issue is far too complex, large, or under-defined. Anything with a weight of this size should go back to `~workflow::refinement` to be refined and split into more manageable chunks.
 
+## Fifth week of focus
+
+With our [release schedule](/handbook/engineering/workflow/#product-development-timeline) our milestones are either four or five weeks long.
+To make planning more predictable and encourage experimentation, we treat the fifth week of any longer milestone as a week of focus.
+During this week, our engineers are encouraged to work on a project of their own choosing.
+It could be starting a proof-of-concept, learning a new skill, burning down neglected issues, writing a blog post, or something else.
+The only requirement is that it contributes to the team, or their personal development.
+
+We trialed this as an [OKR](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/5528) in December 2023 and it was a great success.
+
+The five week milestones occur at these places in 2024.
+All other milestones are four weeks long:
+
+- February 9 to March 15, 2024
+- May 10 to June 14, 2024
+- August 9 to September 13, 2024
+- October 11 to November 15, 2024
 
 ## Employee Development
 
@@ -74,7 +91,21 @@ Here are some resources team members can use for employee development:
 
 ## Metrics
 
-{{% cross-functional-dashboards filters="Foundations" %}}
+{{< tableau height="600px" toolbar="hidden" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/TopEngineeringMetrics/TopEngineeringMetricsDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="foundations" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/MergeRequestMetrics/OverallMRsbyType_1" >}}
+  {{< tableau/filters "GROUP_LABEL"="foundations" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/Flakytestissues/FlakyTestIssues" >}}
+  {{< tableau/filters "GROUP_NAME"="foundations" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/SlowRSpecTestsIssues/SlowRSpecTestsIssuesDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="foundations" >}}
+{{< /tableau >}}
 
 ## Team onboarding
 

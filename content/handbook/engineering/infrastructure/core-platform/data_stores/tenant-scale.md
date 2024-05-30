@@ -65,12 +65,15 @@ the project, ensuring clarity on objectives with the responsibility of looking
 forward 3-6 months to identify potential blocks or risks. Their work is not
 limited to that area and they also work in other areas as needed.
 
-| Project | DRI |
-| ------ | ------ |
-| Cells: Essential workflows | Manoj |
-| Cells: Routing layer | Thong |
-| Organization | Alex |
-| Self-managed decomposition | Rutger |
+| Project | DRI | Team |
+| ------ | ------ | ------ |
+| Application Readiness questions | Manoj | |
+| [Organization for Cells 1.0](https://gitlab.com/groups/gitlab-org/-/epics/10018) | Alex | Abdul, Rutger, Peter, Zack Cuddy |
+| [Organization isolation](https://gitlab.com/groups/gitlab-org/-/epics/11670) | Manoj | |
+| Cells Services: [HTTP Routing](https://gitlab.com/groups/gitlab-org/-/epics/12491) | Thong | Bojan, Filipe Santos |
+| Cells Services: [SSH Routing](https://gitlab.com/groups/gitlab-org/-/epics/12708) | Vasilii Iakliushin | |
+| Cells Services: [Topology Service](https://gitlab.com/groups/gitlab-org/-/epics/13153) | Thong | Omar, Manoj, David Leach, Jonathon Sisson |
+| Cells Services: [Database sequences](https://gitlab.com/groups/gitlab-org/-/epics/13155) | Prabakaran Murugesan | |
 
 ## Meetings
 
@@ -98,6 +101,7 @@ counterparts. Quality engineering is included in our workflow via the
 
 Before starting a milestone, the group coordinates using [planning issues](https://gitlab.com/gitlab-org/tenant-scale-group/group-tasks/-/issues/?label_name%5B%5D=Planning%20Issue).
 We follow this process:
+
 - The PM defines the goals of the milestone.
 - The team members comment about the issues they consider relevant for the milestone.
 - The PM and EM work together to decide the final list of issues.
@@ -127,6 +131,7 @@ guidelines. To get a high-level overview of the status of all issues in the
 current milestone, check the [development workflow board](https://gitlab.com/groups/gitlab-org/-/boards/2594854).
 
 The process primarily follows this:
+
 - `workflow::ready for design` to signal an issue was ready to begin the design.
 - `workflow::design` designer would use this to signal it was actively being worked on.
 - `workflow::refinement` to signal that the design is complete and the issue is ready for engineering input. Please also tag the PM to assign the appropriate milestone for implementation.
@@ -170,16 +175,17 @@ graph LR
 
 We track our work on the following issue boards:
 
-- [Data Stores:Tenant Scale milestone prioritization](https://gitlab.com/groups/gitlab-org/-/boards/5548886)
-- [Data Stores:Tenant Scale cross-functional prioritization](https://gitlab.com/groups/gitlab-org/-/boards/4424394)
-- [Data Stores:Tenant Scale planning](https://gitlab.com/gitlab-org/gitlab/-/boards/3782673)
-- [Data Stores:Tenant Scale validation](https://gitlab.com/gitlab-org/gitlab/-/boards/4403984)
-- [Data Stores:Tenant Scale build](https://gitlab.com/groups/gitlab-org/-/boards/2594854)
-- [Data Stores:Tenant Scale bug](https://gitlab.com/gitlab-org/gitlab/-/boards/4620745)
-- [Data Stores:Tenant Scale release posts](https://gitlab.com/gitlab-org/gitlab/-/boards/4908764)
-- [Data Stores:Tenant Scale milestones](https://gitlab.com/groups/gitlab-org/-/boards/5549104)
-- [Data Stores:Tenant Scale team members](https://gitlab.com/groups/gitlab-org/-/boards/5549106)
-- [Data Stores:Tenant Scale important](https://gitlab.com/groups/gitlab-org/-/boards/1438588)
+- [Core Platform:Tenant Scale milestone prioritization](https://gitlab.com/groups/gitlab-org/-/boards/5548886?label_name[]=group%3A%3Atenant%20scale)
+- [Core Platform:Tenant Scale cross-functional prioritization](https://gitlab.com/groups/gitlab-org/-/boards/4424394?label_name[]=group%3A%3Atenant%20scale)
+- [Core Platform:Tenant Scale planning](https://gitlab.com/groups/gitlab-org/-/boards/7487616?label_name[]=group%3A%3Atenant%20scale)
+- [Core Platform:Tenant Scale validation](https://gitlab.com/groups/gitlab-org/-/boards/7487708?label_name[]=group%3A%3Atenant%20scale)
+- [Core Platform:Tenant Scale development workflow](https://gitlab.com/groups/gitlab-org/-/boards/2594854?label_name[]=group%3A%3Atenant%20scale)
+- [Core Platform:Tenant Scale bugs](https://gitlab.com/groups/gitlab-org/-/boards/7487700?label_name[]=group%3A%3Atenant%20scale&label_name[]=type%3A%3Abug)
+- [Core Platform:Tenant Scale release posts](https://gitlab.com/groups/gitlab-org/-/boards/7487687?label_name[]=group%3A%3Atenant%20scale)
+- [Core Platform:Tenant Scale milestones](https://gitlab.com/groups/gitlab-org/-/boards/5549104?label_name[]=group%3A%3Atenant%20scale)
+- [Core Platform:Tenant Scale team members](https://gitlab.com/groups/gitlab-org/-/boards/5549106?label_name[]=group%3A%3Atenant%20scale)
+- [Core Platform:Tenant Scale important](https://gitlab.com/groups/gitlab-org/-/boards/1438588?label_name[]=group%3A%3Atenant%20scale)
+- [Core Platform:Tenant Scale community contributions](https://gitlab.com/groups/gitlab-org/-/boards/7487739?label_name[]=group%3A%3Atenant%20scale&label_name[]=Community%20contribution)
 
 ### Capacity Planning
 
@@ -207,12 +213,12 @@ To weigh an issue, consider the following important factors:
 
 When estimating development work, please assign an issue the appropriate weight:
 
-| Weight | Description  | Examples |
-| --- | --- |
-| 1: Trivial | The simplest possible change. We are confident there will be no side effects. Negligible complexity. | Documentation updates, simple regressions, and other bugs that have already been investigated and discussed and can be fixed with a few lines of code, or technical debt that we know exactly how to address, but just haven't found time for yet. |
-| 2: Small | A simple change (minimal code changes), where we understand all of the requirements. Some small uncertainties exist but we are confident of a solution. | Simple features, like a new API endpoint to expose existing data, or regular bugs or performance issues where all investigation has already taken place. |
-| 3: Medium | A change with a bigger code footprint (e.g. lots of different files, or tests affected). There are uncertainties that we will need to work through. | Regular features, potentially with a backend and frontend component, or most bugs or performance issues. |
-| 5: Large | A more complex change that will impact multiple areas of the codebase. There may also be some refactoring involved. Requirements are poorly understood and you feel there are multiple important gaps. We will need to break this issue into smaller pieces before we can begin a merge request. | Large features with a backend and frontend component, or bugs or performance issues that have seen some initial investigation but have not yet been reproduced or understood. |
+| Weight     | Description                                                                                                                                                                                                                                                                                      | Examples                                                                                                                                                                                                                                           |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1: Trivial | The simplest possible change. We are confident there will be no side effects. Negligible complexity.                                                                                                                                                                                             | Documentation updates, simple regressions, and other bugs that have already been investigated and discussed and can be fixed with a few lines of code, or technical debt that we know exactly how to address, but just haven't found time for yet. |
+| 2: Small   | A simple change (minimal code changes), where we understand all of the requirements. Some small uncertainties exist but we are confident of a solution.                                                                                                                                          | Simple features, like a new API endpoint to expose existing data, or regular bugs or performance issues where all investigation has already taken place.                                                                                           |
+| 3: Medium  | A change with a bigger code footprint (e.g. lots of different files, or tests affected). There are uncertainties that we will need to work through.                                                                                                                                              | Regular features, potentially with a backend and frontend component, or most bugs or performance issues.                                                                                                                                           |
+| 5: Large   | A more complex change that will impact multiple areas of the codebase. There may also be some refactoring involved. Requirements are poorly understood and you feel there are multiple important gaps. We will need to break this issue into smaller pieces before we can begin a merge request. | Large features with a backend and frontend component, or bugs or performance issues that have seen some initial investigation but have not yet been reproduced or understood.                                                                      |
 
 Anything with a weight of 5 or larger should be broken down if possible.
 
@@ -309,10 +315,20 @@ to allow the group to focus on long-term scalability work.
 
 ## Dashboards
 
-You can find our group metrics in the [Data Stores:Tenant Scale Sisense dashboard](https://app.periscopedata.com/app/gitlab/1134433/Data-Stores:Tenant-Scale-Dashboard)
-and [Tenant Scale Group Engineering Metrics page](/handbook/engineering/metrics/enablement/data-stores/tenant-scale).
+You can find our group metrics in the [Tenant Scale Group Engineering Metrics page](/handbook/engineering/metrics/enablement/data-stores/tenant-scale).
 
+{{< tableau height="600px" toolbar="hidden" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/TopEngineeringMetrics/TopEngineeringMetricsDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="tenant scale" >}}
+{{< /tableau >}}
 
-{{% sisense chart="16599181" dashboard="1134433" %}}
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/MergeRequestMetrics/OverallMRsbyType_1" >}}
+  {{< tableau/filters "GROUP_LABEL"="tenant scale" >}}
+{{< /tableau >}}
 
-{{% cross-functional-dashboards filters="Tenant Scale" %}}
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/Flakytestissues/FlakyTestIssues" >}}
+  {{< tableau/filters "GROUP_NAME"="tenant scale" >}}
+{{< /tableau >}}
+
+{{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/SlowRSpecTestsIssues/SlowRSpecTestsIssuesDashboard" >}}
+  {{< tableau/filters "GROUP_LABEL"="tenant scale" >}}
+{{< /tableau >}}

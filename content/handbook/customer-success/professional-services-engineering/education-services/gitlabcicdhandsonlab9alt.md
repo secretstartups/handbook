@@ -1,19 +1,17 @@
 ---
-title: "GitLab CI/CD - Hands-On Lab 9 (alternative)"
-description: "This Hands-On Guide walks you through the lab exercises in the GitLab CI/CD course."
+title: "GitLab CI/CD - Hands-On Lab: Code Quality Scanning"
+description: "This Hands-On Guide walks you through using the Code Quality scanner to find and fix a code issue."
 ---
-
-# Lab 9: Code Quality Scanning
 
 > Estimated time to complete: 15 - 20 minutes
 
 ## Objectives
 
-> Code quality scans allow you to analyze your source code for quality and complexity. The goal of a code quality scan is to keep your project's code simple, readable, and easier to maintain. In this lab, you will learn how to enable and view a code quality scan in your project. To learn more about code quality scans, click [here](https://docs.gitlab.com/ee/ci/testing/code_quality.html).
+Code quality scans allow you to analyze your source code for quality and complexity. The goal of a code quality scan is to keep your project's code simple, readable, and easier to maintain. In this lab, you will learn how to enable and view a code quality scan in your project. To learn more about code quality scans, click [here](https://docs.gitlab.com/ee/ci/testing/code_quality.html).
 
 ### Task A. Add a Python file with code quality problems
 
-1. In the left navigation pane, click **Repository > Files**.
+1. Using the left navigation pane, click **Code > Repository**.
 
 1. Create a new file by going to the top of the window and clicking **+ > This directory > New file**.
 
@@ -33,14 +31,13 @@ description: "This Hands-On Guide walks you through the lab exercises in the Git
 
 1. Click `Commit changes`.
 
-
 ### Task B. Configure the .gitlab-ci.yml with Code Quality Scanning
 
-1. In the left navigation pane, click **Repository > Files**.
+1. In the left navigation pane, click **Code > Repository**.
 
 1. Click on your existing `.gitlab-ci.yml` file.
 
-1. Edit the file by clicking **vertical ellipses -> Edit in single-file editor**.
+1. Edit the file by clicking the blue **Edit** dropdown and selecting **Edit single file**.
 
 1. Delete all of the existing code in the file. Replace the code with the following file content:
 
@@ -59,7 +56,7 @@ description: "This Hands-On Guide walks you through the lab exercises in the Git
     # TODO: should we refactor this file?
     ```
 
-  > Note: This code starts by defining a single stage named `test`. Next, a single job is defined named `test-job`, which runs as a part of the `test` stage. The `include` section enables code quality scanning by including the code quality template. Finally, the `TODO` command is added as an example of code that is flagged as a code quality problem.
+  > This code starts by defining a single stage named `test`. Next, a single job is defined named `test-job`, which runs as a part of the `test` stage. The `include` section enables code quality scanning by including the code quality template. Finally, the `TODO` command is added as an example of code that is flagged as a code quality problem.
 
 1. In the **Commit message** field, type `Add CI/CD configuration file that includes code quality scanning`.
 
@@ -67,10 +64,9 @@ description: "This Hands-On Guide walks you through the lab exercises in the Git
 
 1. Click `Commit changes`.
 
-
 ### Task C. View code quality scan results
 
-1. In the left navigation pane, click **CI/CD > Pipelines**.
+1. In the left navigation pane, click **Build > Pipelines**.
 
 1. The top row represents the pipeline that started running when you committed the `.gitlab-ci.yml` file in the previous section. Wait until the status icon at the left of that pipeline says **passed**.
 
@@ -84,7 +80,7 @@ description: "This Hands-On Guide walks you through the lab exercises in the Git
 
 ### Task D. Make a branch
 
-1. In the left navigation pane, click **Repository > Branches**.
+1. In the left navigation pane, click **Code > Branches**.
 
 1. Click **New branch**. In the **Branch name** field, type `branch-A`.
 
@@ -96,7 +92,7 @@ description: "This Hands-On Guide walks you through the lab exercises in the Git
 
 ### Task E. Fix issues on the branch
 
-1. In the left navigation pane, click **Repository > Files**.
+1. In the left navigation pane, click **Code > Repository**.
 
 1. In the branch dropdown in the top left of the window, pick **branch-A**.
 
@@ -112,10 +108,9 @@ description: "This Hands-On Guide walks you through the lab exercises in the Git
 
 1. Commit these changes with the commit message `Fix code quality problems`
 
-
 ### Task F. Compare the code quality of **branch-A** to the code quality of **main**
 
-1. In the left navigation pane, click **CI/CD > Pipelines**.
+1. In the left navigation pane, click **Build > Pipelines**.
 
 1. Wait for the most recent pipeline to show **passed** status. This might take as long as 5 minutes.
 
