@@ -27,7 +27,6 @@ The Talent Brand Program Manager is a [grade 6](https://about.gitlab.com/handboo
 - Define our approach for employer awards and lists that will help GitLab be recognized as an employer of choice; complete applications and manage related internal surveys for these awards
 - Create recruiter enablement tools to assist the recruiting team in sharing the GitLab talent brand with candidates
 
-
 ### Talent Brand Program Manager Requirements
 
 - Applicable experience in Marketing or Human Resources that allows you to deliver on the defined responsibilities for the role
@@ -41,7 +40,6 @@ The Talent Brand Program Manager is a [grade 6](https://about.gitlab.com/handboo
 - Self-motivated with the ability to work both independently and collaboratively
 - Proficient in Google Docs
 - You share our [values](/handbook/values/), and work in accordance with those values
-
 
 ### Senior Talent Brand Program Manager
 
@@ -64,7 +62,6 @@ The Senior Talent Brand Program Manager is a [grade 7](https://about.gitlab.com/
 - Define our approach for employer awards and lists that will help GitLab be recognized as an employer of choice; complete applications and manage related internal surveys for these awards
 - Create recruiter enablement tools to assist the recruiting team in sharing the GitLab talent brand with candidates
 
-
 ### Senior Talent Brand Program Manager Requirements
 
 - Applicable experience in Marketing or Human Resources that allows you to deliver on the defined responsibilities for the role
@@ -81,7 +78,6 @@ The Senior Talent Brand Program Manager is a [grade 7](https://about.gitlab.com/
 - Proficient in Google Docs
 - You share our values, and work in accordance with those values
 - Ability to use GitLab
-
 
 ## Enablement
 
