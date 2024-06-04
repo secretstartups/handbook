@@ -177,12 +177,14 @@ We ask that the structure above be followed for business results consistently to
 
 GitLab considers both individual readiness and business need when we think about promotions. Managers are responsible for completing the business justification section of the promotion document to include what justifies the need for the team members skills and work to be completed at the higher level. Possible business justifications typically include: more complex projects, additional scope of work required as the team scales, and/or additional responsibility due to XYZ business reason.
 
+##### Additional Tips
+
 When creating promotion documents, remember:
 
 - Promotions are based on performance, not growth potential.
 - Promotion documents should not exceed 3 pages total.
 - Please reference the [job frameworks]({{< ref "structure#job-frameworks" >}}) in the handbook for guidance pertaining to expectations at the various levels at GitLab. The job levels should help guide data chosen to be included in the promotion document, in addition to discussion during calibration sessions.
-- Please be sure that the promotion document has “comment” access enabled to ‘Anyone at GitLab who has the link!’ to ensure the review and approval process is not delayed. Please delete the instructions associated with each section of the promotion document below before submitting the promotions.
+- Please be sure that the promotion document has “comment” access enabled to ‘GitLab’ to ensure the review and approval process is not delayed. Please delete the instructions associated with each section of the promotion document below before submitting the promotions.
 - If you find yourself struggling to articulate your accomplishments, your manager can help support you and provide feedback. You can also consider reaching out to stakeholders for feedback, or meeting with a trusted colleague or mentor to brainstorm.
 - It should not include Talent Assessment ratings, such as "Exceeding Performance", as these must remain confidential and only discussed in confidential settings such as [Promotion Calibration]({{< ref "promotions-transfers#calibration" >}}), talent assessment calibrations, and within reporting structures.
 
