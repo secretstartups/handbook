@@ -219,7 +219,6 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [GitLab Dedicated]({{< ref "gitlab-dedicated" >}})
 1. [GitLab.com Disaster Recovery]({{< ref "disaster-recovery" >}})
 1. [Government Support Offerings (Internal only)](https://internal.gitlab.com/handbook/company/internal-working-groups/govt-support-offerings/)
-1. [Inclusive Practices]({{<ref "inclusive-practices" >}})
 1. [Issue Prioritization Framework]({{< ref "issue-prioritization-framework" >}})
 1. [Learning Experience]({{< ref "learning-experience" >}})
 1. [Lighthouse Metric Definitions]({{< ref "lighthouse-metric-definitions" >}})
