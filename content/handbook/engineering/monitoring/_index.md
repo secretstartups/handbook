@@ -240,4 +240,4 @@ Tool that helps you monitor, analyze and optimize your website speed and perform
 
 --
 
-[the monitoring policy]: /content/handbook/engineering/gitlab-com/policies/monitoring/
+[the monitoring policy]: /handbook/engineering/gitlab-com/policies/monitoring/
