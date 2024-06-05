@@ -54,15 +54,11 @@ Depending on the context here are the most appropriate ways to reach out to the 
    * **When:** Every Monday, alternating between 09:00 AM GMT+1 and 17:00 PM GMT+1
    * **What:** This meeting replaces the previous Work Assignment Meeting and focuses on refining and assigning weights to issues. The Engineering Manager and Product Manager ensure all issues are properly refined and weighted.
 
-2. **Bi-Weekly Engineering Sync**
-   * **When:** Every other Thursday, alternating between 11:00 AM GMT+1 and 18:00 PM GMT+1
-   * **What:** This meeting is dedicated to the engineering team for the purpose of syncing up on progress, discussing technical challenges, and planning upcoming sprints.
-
-3. **Monthly Capacity Review Meeting**
+2. **Monthly Capacity Review Meeting**
    * **When:** Once a month
    * **What:** This meeting focuses on reviewing the team's capacity, monitoring fluctuations, and reacting to any drops in capacity. It includes a review of the points completed in the past month and adjustments to estimates if necessary.
 
-4. **Think BIG sessions**
+3. **Think BIG sessions**
    * **When:** Once a month
    * **What:** This session will alternate between EMEA/AMER and APAC regions every other month, focusing on broad discussions about group dynamics and strategic planning.
 
