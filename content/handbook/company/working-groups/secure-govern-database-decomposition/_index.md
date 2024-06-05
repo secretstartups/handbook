@@ -170,16 +170,11 @@ If gradual decomposition is not possible, then we would pursue decomposition wit
 | DRI - Data                           | Ved Prakash       | Staff Data Engineer|
 | DRI - Secure: Composition Analysis   |                   ||
 | DRI - Secure: Dynamic Analysis       | Arpit Gogia       | Backend Engineer - Secure, Dynamic Analysis |
-| DRI - Secure: Static Analysis        |                   ||
+| DRI - Secure: Static Analysis        | Schmil Monderer   | Staff Backend Engineer - Secure, Static Analysis |
 | DRI - Secure: Secret Detection       |                   ||
 | DRI - Govern: Security Policies      |                   ||
-| DRI - Govern: Compliance             |                   ||
-| DRI - Govern: Anti Abuse             |                   ||
-| DRI - Govern: Authentication         |                   ||
-| DRI - Govern: Authorization          |                   ||
 | Member                               | Dylan Griffith    | Principal Engineer, Create |
 | Member                               | Thong Kuah        | Principal Engineer, Data Stores |
-| Member                               |                   ||
 | Member                               |                   ||
 
 ## Useful References
