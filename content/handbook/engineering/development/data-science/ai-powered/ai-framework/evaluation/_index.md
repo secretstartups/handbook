@@ -1,5 +1,5 @@
 ---
-title: AI Framework Group - Eval like I am 5
+title: AI Framework Group - Eval like I'm 5
 description: "The AI Framework group is focused on how to support other product groups at GitLab with the AI Abstraction Layer, and GitLab AI feature development."
 aliases: /handbook/engineering/development/data-science/ai-framework
 ---
@@ -16,22 +16,14 @@ This guide is designed to help Backend and Frontend developers at GitLab conduct
 - Python Installation:
   - Make sure Python is installed on your machine. You can download and install it from the [official Python website](https://www.python.org/downloads/).
 - API Keys and Tokens:
-  - Obtain the necessary API keys for LangSmith and Anthropic. You can get these from `@oregand`, `@m_gill` or `@tzallmann`. You can also reach out to the `#g_ai_framework` slack channel and ask. An account will be created for you under `https://smith.langchain.com`.
-  - Ensure you have a GitLab private token with the necessary permissions from **your local GDK instance**. You can generate one from your GitLab profile settings under [“Access Tokens”](https://gitlab.com/-/user_settings/personal_access_tokens). Make sure it has `api` and `ai_features` checked.
+  - [Create an issue using the AI Acesss Request template](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=AI_Access_Request). Specify LangSmith and Anthropic as the required providers.
+  - Ensure you have a GitLab private token with the necessary permissions from **your local GDK instance**. You can generate one from your GitLab profile settings under [“Access Tokens”](http://127.0.0.1:3000/-/user_settings/personal_access_tokens). Make sure it has `api` and `ai_features` checked.
 
 ### Step 1: Setting Up Your Environment
 
 #### Install Python and Necessary Libraries
 
 Ensure Python 3 is installed on your machine. If not, download and install it from the official [Python website](https://www.python.org/downloads/).
-
-#### Install Required Python Libraries
-
-Open your terminal and install the following libraries
-
-```bash
-pip install requests langsmith langchain langchain-openai python-dotenv langchain_anthropic langchainhub
-```
 
 #### Clone the ELI5 Cookbook
 
@@ -40,6 +32,14 @@ Clone the `eli5` project which has everything set up for you.
 ```bash
 git clone https://gitlab.com/gitlab-org/ai-powered/eli5
 cd eli5
+```
+
+#### Setup the project
+
+From the `eli5` folder, run the following:
+
+```bash
+./setup.sh
 ```
 
 #### Set Environment Variables
@@ -67,10 +67,9 @@ The example project includes pre-configured evaluation scripts. Navigate to the 
 
 #### Running the Script Locally
 
-Make sure your GDK is running. Open a new terminal window, navigate to your GDK directory, and start it:
+Make sure your GDK is running:
 
 ```bash
-cd path/to/your/gdk
 gdk start
 ```
 
