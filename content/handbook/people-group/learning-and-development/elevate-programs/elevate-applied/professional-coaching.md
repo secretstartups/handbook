@@ -6,8 +6,6 @@ title: Elevate Applied 1:1 Coaching
 
 ![visual displaying the content in each elevate+ module](/handbook/people-group/learning-and-development/elevate-programs/images/elevate-applied.png)
 
-## 1:1 Coaching
-
 Elevate Applied 1:1 Coaching is an opportunity for managers to work 1:1 with GitLab-trained professional coaches on specific skills. Eligibility is open to all people managers with priority given to applicants who have completed Elevate/Elevate+. This offering is covered by your [Growth and Development Fund](https://handbook.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/) as a recommended coaching experience. Unlike other G&D submissions, participants will not cover costs up front; this will be directly billed to GitLab and covered by the G&D allocation for each participant.
 
 Keep reading for information on the next Elevate Applied 1:1 Coaching Cohort.
