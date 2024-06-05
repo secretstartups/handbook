@@ -11,7 +11,7 @@ description: "Learn about the processes that the GitLab Project Management team 
 
 Customer success = GitLab product implementation, on time, on budget delivery of agreed upon scope, faster time to value that leads to satisfied customers that see the added value of Gitlab products and PS
 
-![<PS Delivery Customer Journey Flow - Page 1 (10).png>](<PS Delivery Customer Journey Flow - Page 1 (10).png>)
+![<PS Delivery Customer Journey Flow - Page 1 (10).png>](<PS Delivery Customer Journey Flow - Page 1 (11).png>)
 
 ### SOW Close
 
@@ -19,33 +19,31 @@ Given the close collaboration between the PS Project Management and PS Operation
 
 ### Project Initiate & Plan
 
-1. After gaining Legal approval, PS Quote triggers an Epic in Gitlab.com around the recently sold Professional Services Project, at the [Professional Services Group](https://gitlab.com/gitlab-com/customer-success/professional-services-group) level. This _Customer Epic_ is labeled as SOW# + Customer and includes links to relevant Customer & contract information
-2. Once a prosepctive Services deal reaches "Stage 5" (likely to close) or "Stage 6" (closing) in the PS Customer Journey, the PSOps team refers to the _Customer Epic_ to find the _"Scheduling Intake" issue_. From this issue, the Resource Scheduling team works to assign the PS Resources (PM, PSE, TA)
+1. After obtaining Legal approval, PS Quote triggers an Epic in Gitlab.com around the recently sold Professional Services Project, at the [Professional Services Group](https://gitlab.com/gitlab-com/customer-success/professional-services-group) level. This _Customer Epic_ is labeled as SOW# + Customer and includes links to relevant Customer & contract information
+1. Once a prosepctive Services deal reaches "Stage 5" (likely to close) or "Stage 6" (closing) in the PS Customer Journey, the PSOps team refers to the _Customer Epic_ to find the [_"Scheduling Intake" issue_](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/blob/master/.gitlab/issue_templates/SchedulingIntakeQuestions.md?ref_type=heads). From this issue, the Resource Scheduling team works to gather the initial information needed to assign the PS Resources (PM, PSE, TA)
    * To find the right resources required, the PSOPs team will refer back to the Customer Epic to find the _"Scope Engagement and Write SoW"_ issue (managed by the Engagement Managment Team). This is where the scheduling team confirm skillsets needed, timing of the project, Project type (Time & Materials or Fixed Fee), etc.
    * This scoping issue this is where the PM's, TA's, and PSE's work to gather the initial project information, scoping breakdown, and estimated schedule
    * For [Consulting Blocks](#for-consulting-blocks-and-dedicated-engineer-projects) please see below
-3. Once the resources are assigned in <a href="##### Kantata" >Kantata</a>, the EM introduces the PM to the customer via email
-   * The PM will begin to gather access requirements per the scheduling intake issue checklist, and schedule the initial Stakeholder meeting
-4. Once the EM checklist is complete & confirmed by the Delivery team in the scheduling intake issue, the PM can begin setting up the Project within Gitlab.com, setup Project folders, and create the internal Slack channel
-   1. Find and rename the _Project Retrospective_ issue and follow the steps outlined in the [Project Retrospective template](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/blob/master/.gitlab/issue_templates/project_retrospective.md?ref_type=heads)
-      * Consider the Project Retrospective issue as the internal Project journal. PS uses labels to generate reports around Project wins, Customer stories, and lessons learned (not to be shared with Customers)
-   2. Create Project in Gitlab.com using CPR (Customer Project requirements) _new steps to CPR coming soon_
-      *Create sub group with customer name under [Gitlab Professional Services Group](https://gitlab.com/gitlab-com/customer-success/professional-services-group/professional-services-delivery/gitlab-professional-services) if staffed internally or [Gitlab Partner Collaboration Group](https://gitlab.com/gitlab-com/customer-success/professional-services-group/professional-services-delivery/gitlab-partner-collaboration) if staffed fully or partially with partners
-      *Create a blank project under your new subgroup with SOW-<sow_number>
-      *Add epics for each activity including labels: “PM::name” “PSD Workflow::Not Started” “SOW-00”. Issues will be created at a later stage by the technical team under the right epic.
-   3. After creating the Project in Gitlab.com, be sure to link the CPR to the _Customer Epic_
-   4. Make an internal Slack Chanel titled "a_customer_name_internal"
-      * Pin a link to the internal Project Retrosoective issue (not customer facing)
-      * Pin a link to the Customer RAID issue (customer facing)
-   5. Add a [Customer Project folder](https://drive.google.com/drive/folders/1ozPKiAlUzbKwpkscaYVTp9PVoi9hWm4U) sorted by Customer & SOW#
-      * Make a copy of the [project kick-off template](https://docs.google.com/presentation/d/1XUljBcQUZgQA-0fhQ5UayiEGtp4Of3xsaFGpVxdoDS4/edit?usp=sharing) to your project's Drive folder
-5. PMs then schedule and conduct the EM>PS Transition Meeting with the Technical Delivery team- the goal is to ultimately review the engagement purpose, expectations and assumptions, and SoW/DoW
-6. PMs to conduct the [Stakeholder Introduction](https://docs.google.com/document/d/1fOmBxXf9MqYHQ8LZD5nIepu5WcFeTiwss59RJbd3BWE/edit?usp=sharing) Meeting & prepare for Kickoff
-7. Create an external Slack channel to collaborate with the customer and add a link to it to the kick-off deck
-   * Guidelines around Access Requests can be found [here](https://handbook.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/#slack-google-groups-1password-vaults-or-groups-access-requests)
-   * [AR example](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/24542)
-8. PMs to conduct the [Initial Customer Kickoff](https://docs.google.com/presentation/d/1XUljBcQUZgQA-0fhQ5UayiEGtp4Of3xsaFGpVxdoDS4/edit?usp=sharing)
-9. The PM to ensure the communiation plan, delivery methodology, scope definitions, time, and budget are aligned as we head into Delivery
+1. Below you can follow the steps of the Scheduling Intake process. _Note: Before the PSOPs team can begin PM assignment The Engagement Management Team must ensure Steps 1-2 are considered_ [The full checklist](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/blob/master/.gitlab/issue_templates/SchedulingIntakeQuestions.md?ref_type=heads) is available within the Scheduling Intake Issue, found within the Customer Project Epic
+   * [Step 1: Customer Goal Summary - EM to provide](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/blob/master/.gitlab/issue_templates/SchedulingIntakeQuestions.md?ref_type=heads#step-1-customer-goal-summary---em-to-provide)
+   * [Step 2: EM/Sales defines the roles and personalities of all customer stakeholders](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/blob/master/.gitlab/issue_templates/SchedulingIntakeQuestions.md?ref_type=heads#step-2-emsales-defines-the-roles-and-personalities-of-all-customer-stakeholders)
+   * [Step 3: PSops works with PMO Manager on PM assignment](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/blob/master/.gitlab/issue_templates/SchedulingIntakeQuestions.md?ref_type=heads#step-3-psops-works-with-pmo-manager-on-pm-assignment)
+   * [Step 4: PM confirms information & PSops Schedules PSE](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/blob/master/.gitlab/issue_templates/SchedulingIntakeQuestions.md?ref_type=heads#step-4-pm-confirms-information--psops-schedules-pse)
+   * [Step 5: Introductions - EM/AE](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/blob/master/.gitlab/issue_templates/SchedulingIntakeQuestions.md?ref_type=heads#step-5-introductions---emae)
+   * [Step 6: Collaboration approach & Onboarding Gathered by PM](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/blob/master/.gitlab/issue_templates/SchedulingIntakeQuestions.md?ref_type=heads#step-6-collaboration-approach--onboarding-gathered-by-pm)
+   * [Step 7: Collaboration Space Preparation - PM](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/blob/master/.gitlab/issue_templates/SchedulingIntakeQuestions.md?ref_type=heads#step-7-collaboration-space-preparation---pm)
+   * [Step 8: Conduct Stakeholder Meeting - PM](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/blob/master/.gitlab/issue_templates/SchedulingIntakeQuestions.md?ref_type=heads#step-8-conduct-stakeholder-meeting---pm)
+   * [Step 9: Step 9: Conduct Kickoff & Forecast Updates - PM](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/blob/master/.gitlab/issue_templates/SchedulingIntakeQuestions.md?ref_type=heads#step-9-conduct-kickoff--forecast-updates---pm)
+
+#### Collaboration Space Guidelines
+
+1. Create Project in Gitlab.com using CPR (Customer Project requirements) _new steps to CPR coming soon_
+   * Create sub group with customer name under [Gitlab Professional Services Group](https://gitlab.com/gitlab-com/customer-success/professional-services-group/professional-services-delivery/gitlab-professional-services) if staffed internally or [Gitlab Partner Collaboration Group](https://gitlab.com/gitlab-com/customer-success/professional-services-group/professional-services-delivery/gitlab-partner-collaboration) if staffed fully or partially with partners
+   * Create a blank project under your new subgroup with SOW-<sow_number>
+   * Add epics for each activity including labels: “PM::name” “PSD Workflow::Not Started” “SOW-00”. Issues will be created at a later stage by the technical team under the right epic
+
+1. The PM to ensure the communiation plan, delivery methodology, scope definitions, time, and budget are aligned as we head into Delivery
+   * _add Methodology steps_
 
 #### For Consulting Blocks and Dedicated Engineer Projects
 
@@ -150,31 +148,28 @@ Forecast allocations impact PS revenue forecast and team members availability, u
 
 ### Deliver, Train, and Monitor
 
-1. PM to manage against the Gitlab.com Project:
-
-   1. The RAID, Risks, Actions, Issues, and Decisions is our way to ensure a single source of truth for project risk & resolution.
-      *It is where our internal project stakeholders and leadership can reference the latest project information when the project is trending or sitting in a Y/R health status
+1. PM to manage within Gitlab.com Customer Requirements Project (CPR)
+   1. Tracking & Reporting on Project Status (with our Customers)
+      * _coming soon_
+   1. Tracking Risk (with our Customer) through the RAID issue
+      * The RAID, Risks, Actions, Issues, and Decisions is our way to ensure a single source of truth for project risk & resolution
+      * It is where our internal project stakeholders and leadership can reference the latest project information when the project is trending or sitting in a Y/R health status
       * The RAID is automatically created when the PM creates the CPR template. First step is to rename template “RAID - Customer - SOW/PO#
-      * While the RAID is created, managed, and reported by the PM, the internal team is encouraged to be updated the RAID as we work through Project challenges and mitigationsP
+      * While the RAID is created, managed, and reported by the PM, **the internal team is encouraged to be updated the RAID as we work through Project challenges and mitigations**
       * [Example](https://gitlab.com/gitlab-com/customer-success/professional-services-group/professional-services-delivery/gitlab-professional-services/southwest/sow-2206/-/issues/8)
-
-   2. Tracking progress within the Weekly Status issue
-      _coming soon_
-
-   3. Track internal Project team wins and lessons learned within the Project Retrospective issue:
-      * A Customer Retrospective Issue is automatically attached to the Customer Epic
-      * [The process of a project retrospective is started when the project starts](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/blob/master/.gitlab/issue_templates/project_retrospective.md?ref_type=heads), as this is a collection of team celebration, lessons learned, what could be improved, questions, comments, assets created, etc. It is highly encouraged the entire GitLab project team contributes to the below information throughout the course of the Project
+   1. [Reporting on Risk via RAID](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=Escalated&first_page_size=20)
+      * "Escalated" items are are labeled as such to create immediate attention as it impacts the progress of the project. for internal visibility, the RAID link is included in the Top Customer Report when a project is Y/R
+1. Track internal Project team wins, lessons learned, and Customer Stories within the Internal Project Retrospective issue
+   * [The process of a project retrospective is started when the project starts](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/blob/master/.gitlab/issue_templates/project_retrospective.md?ref_type=heads), as this is a collection of team celebration, lessons learned, what could be improved, questions, comments, assets created, etc. It is highly encouraged the entire GitLab project team contributes to the below information throughout the course of the Project
       * A meeting towards the end of each PS engagement will be held to celebrate our delivery as a team, review areas of improvement around our PS methodology, and to share our Customer Success stories. A PM will facilitate & work with the Project team to fill out the appropriate areas.
       * When in doubt, add it to the Project Journal!
       * It is asked by the PMs, PSE, TA’s callout “ProjectWin”’s throughout the course of the project within the Journal/Issue and attach it to the ps-internal Slack update - celebrating team wins!
       * Be sure to pin to internal Slack
       * If giving out a "thanks" or noticing a "thanks" related to a Project team member in Slack - be sure to track within the Project issue
-
-2. Customer Reports - (not managed by Partner PM)
-   * [Escalated Projects](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=Escalated&first_page_size=20) - RAID information in Y/R state + Support Ticket callouts
-   * [Project Wins](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=ProjectWin&first_page_size=20) - Team & Project wins tracked throughout the Delivery Engagement
-   * [Lessons learned](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/issues/?sort=updated_desc&state=opened&or%5Blabel_name%5D%5B%5D=llPsProcess&or%5Blabel_name%5D%5B%5D=llProduct&or%5Blabel_name%5D%5B%5D=llExpectation&or%5Blabel_name%5D%5B%5D=llSupport&or%5Blabel_name%5D%5B%5D=llFinanceDelays&first_page_size=20) from Project Delivery
-   * [Customer Story](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/issues/?sort=updated_desc&state=opened&or%5Blabel_name%5D%5B%5D=RetroComplete&or%5Blabel_name%5D%5B%5D=CustomerStory&first_page_size=20) - information that can be used to generate a Customer story
+   * Reporting on Project Wins, leasons learned, and Customer stories
+      * [Project Wins](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=ProjectWin&first_page_size=20) - Team & Project wins tracked throughout the Delivery Engagement
+      * [Lessons learned](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/issues/?sort=updated_desc&state=opened&or%5Blabel_name%5D%5B%5D=llPsProcess&or%5Blabel_name%5D%5B%5D=llProduct&or%5Blabel_name%5D%5B%5D=llExpectation&or%5Blabel_name%5D%5B%5D=llSupport&or%5Blabel_name%5D%5B%5D=llFinanceDelays&first_page_size=20) from Project Delivery
+      * [Customer Story](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/issues/?sort=updated_desc&state=opened&or%5Blabel_name%5D%5B%5D=RetroComplete&or%5Blabel_name%5D%5B%5D=CustomerStory&first_page_size=20) - information that can be used to generate a Customer story
 
 ### Iterate and Validate
 
