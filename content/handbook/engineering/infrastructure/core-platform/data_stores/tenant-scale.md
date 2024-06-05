@@ -187,6 +187,14 @@ We track our work on the following issue boards:
 - [Core Platform:Tenant Scale important](https://gitlab.com/groups/gitlab-org/-/boards/1438588?label_name[]=group%3A%3Atenant%20scale)
 - [Core Platform:Tenant Scale community contributions](https://gitlab.com/groups/gitlab-org/-/boards/7487739?label_name[]=group%3A%3Atenant%20scale&label_name[]=Community%20contribution)
 
+### Tracking Dashboards
+
+In addition to issue boards, we also track progress on major initiatives with bespoke dashboards such as the [Cells Progress Tracker](https://gitlab.com/gitlab-org/tenant-scale-group/cells-progress-tracker).
+
+The team has also spun off [Epic Dashboards](https://gitlab.com/gitlab-org/tenant-scale-group/epic-dashboard) into a project that other teams can use to create their own epic-based tracking dashboards.
+
+@manojmj is the creator and DRI of [Epic Dashboards](https://gitlab.com/gitlab-org/tenant-scale-group/epic-dashboard) and supports this project on a best-effort basis outside of core project responsibilities.
+
 ### Capacity Planning
 
 We use a simple issue weighting system for capacity planning, ensuring a
