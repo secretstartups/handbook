@@ -94,7 +94,6 @@ Create a [webcast idea issue](https://gitlab.com/gitlab-com/marketing/demand-gen
 * [ ] [Invitation and reminder](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-email-invitation-reminder-follow-up) issues created
 * [ ] Optional: Organic social issue created for social media manager
 * [ ] [Follow-up email](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-email-invitation-reminder-follow-up) issue created
-* [ ] [Add to nurture stream](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-email-nurture-add) issue created
 * [ ] [Host dry run](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-webcast-dryrun-host) issue created
 * [ ] [Prepare for webcast](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-webcast-prep) issue created
 * [ ] [On-demand switch issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-post-webcast) issue created
