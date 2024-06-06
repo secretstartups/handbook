@@ -82,8 +82,8 @@ Our preference is to work asynchronously, within our project issue tracker as de
 The team does have set of regular synchronous calls:
 
 - A fortnightly team sync to discuss progress, blockers, and anything related to the InfraSec team.
-    - Everyone in the company is welcome to join.
-    - The [agenda is public within GitLab](https://docs.google.com/document/d/1mvmPrG66JpTkj3dbDpnhNybADrUVQwP96DM1trQT89Y) as well.
+  - Everyone in the company is welcome to join.
+  - The [agenda is public within GitLab](https://docs.google.com/document/d/1mvmPrG66JpTkj3dbDpnhNybADrUVQwP96DM1trQT89Y) as well.
 - A quarterly team retrospective to reflect on what went well in the previous quarter, and discuss what can be improved going forward.
 - 1-1s between Individual Contributors and the Engineering Manager.
 
@@ -105,9 +105,9 @@ We use Epics, Issues, and Issue Boards to organize our work, as they complement 
 #### Team Planning
 
 - For the **long term strategy** of the InfraSec Team, you can refer to:
-    - 🎯 [InfraSec Goals](https://gitlab.com/groups/gitlab-com/gl-security/product-security/infrastructure-security/-/wikis/InfraSec-Goals)
+  - 🎯 [InfraSec Goals](https://gitlab.com/groups/gitlab-com/gl-security/product-security/infrastructure-security/-/wikis/InfraSec-Goals)
 - From a **tactical point of view**, you can refer to:
-    - 🎛 [InfraSec Planning Board](https://gitlab.com/groups/gitlab-com/-/boards/7549315?label_name%5B%5D=Department%3A%3AInfraSec) (for the tasks we are currently working on)
+  - 🎛 [InfraSec Planning Board](https://gitlab.com/groups/gitlab-com/-/boards/7549315?label_name%5B%5D=Department%3A%3AInfraSec) (for the tasks we are currently working on)
 
 #### Project Ownership
 

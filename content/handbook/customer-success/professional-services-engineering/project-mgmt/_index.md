@@ -3,12 +3,6 @@ title: "Professional Services Project Management"
 description: "Learn about the processes that the GitLab Project Management team uses to deliver successful engagements with Customers."
 ---
 
-
-
-
-
-
-
 Customer success = GitLab product implementation, on time, on budget delivery of agreed upon scope, faster time to value that leads to satisfied customers that see the added value of Gitlab products and PS
 
 ![<PS Delivery Customer Journey Flow - Page 1 (10).png>](<PS Delivery Customer Journey Flow - Page 1 (11).png>)
@@ -47,18 +41,18 @@ Given the close collaboration between the PS Project Management and PS Operation
 
 #### For Consulting Blocks and Dedicated Engineer Projects
 
-   1. Description of Work (DoW) is used when a scope discrepancy (or lack of definition/clarity) is identified in the SoW and both GitLab and the customer agree to the scope change that does not impact the project budget ($0), project duration, project finances or any legal aspects. Unlike the Change Order process, for the DoW, the GitLab & customer signatory will be the technical stakeholder, or, a Director.
-   2. The DoW is also used to add additional detail to a Consulting Block SKU that has been sold. A DoW is created by the Engagement Management team and attached to the Customer Epic prior to the Customer Success Planning call.
-   3. If the DoW is intended to be reviewed and completed/approved during the Discovery meeting with the Customer, the EM needs to request this in the intake issue so the Delivery team can work on gathering the necessary inputs for Delivery.
-   4. [Template for a DoW](https://docs.google.com/document/d/1ZsMUvBUL9kt3CqB4YjYlX-E1uEJz-elO/edit) can be found here
-   5. The DoW does not need to be signed by the client. Simply attach the document, or write out the confirmation in an email, and request for Customer approval. Whichever is more convenient for the Customer. Attach the screenshot in the Epic.
+1. Description of Work (DoW) is used when a scope discrepancy (or lack of definition/clarity) is identified in the SoW and both GitLab and the customer agree to the scope change that does not impact the project budget ($0), project duration, project finances or any legal aspects. Unlike the Change Order process, for the DoW, the GitLab & customer signatory will be the technical stakeholder, or, a Director.
+2. The DoW is also used to add additional detail to a Consulting Block SKU that has been sold. A DoW is created by the Engagement Management team and attached to the Customer Epic prior to the Customer Success Planning call.
+3. If the DoW is intended to be reviewed and completed/approved during the Discovery meeting with the Customer, the EM needs to request this in the intake issue so the Delivery team can work on gathering the necessary inputs for Delivery.
+4. [Template for a DoW](https://docs.google.com/document/d/1ZsMUvBUL9kt3CqB4YjYlX-E1uEJz-elO/edit) can be found here
+5. The DoW does not need to be signed by the client. Simply attach the document, or write out the confirmation in an email, and request for Customer approval. Whichever is more convenient for the Customer. Attach the screenshot in the Epic.
 
 #### Forecasting Process for PMO Team
 
 ##### PS/PMO Cadence Schedule
 
-   * Pinned to the ps_pmo Slack channel
-   * The purpose of this reference is to understand the relationship between PMO updates to Projects (health, forecasts, timecards) and PS Operations (reports, resource scheduling). Goal is to ensure Project and Program Managers are updating Project forecast in a consistent and symbiotic way to support both our PS Ops teams, as well as communicate our PS Project Portfolio review across the Gitlab organization
+* Pinned to the ps_pmo Slack channel
+* The purpose of this reference is to understand the relationship between PMO updates to Projects (health, forecasts, timecards) and PS Operations (reports, resource scheduling). Goal is to ensure Project and Program Managers are updating Project forecast in a consistent and symbiotic way to support both our PS Ops teams, as well as communicate our PS Project Portfolio review across the Gitlab organization
 
 ##### Kantata
 
@@ -77,7 +71,7 @@ Kantata is our primary Resource Management software. From here the PMO team revi
 
 _Billable vs NonBillable information_, please refer to [Team Metrics](https://handbook.gitlab.com/handbook/customer-success/professional-services-engineering/#team-metrics) page
 
-##### Reporting Project Health  
+##### Reporting Project Health
 
 The PMO team ensures our forecast & upside is updated by Monday, 11am EST, as the PS Ops team prepares the weekly reports per the PS Reporting schedule. The Top Customer is provided to the PM team by PS Ops by 12pm EST on Tuesdays, and the PM team is expected to update the notes (as outlined below) by The PS Reporting Schedule, Weekly Revenue Forecast Reports, and Kantata information pinned to the ps_PMO Slack channel
 
@@ -88,43 +82,43 @@ _Time & Materials (T&M) vs Fixed Fee (Fixed Fee)_
 
 Forecast allocations impact PS revenue forecast and team members availability, utilization and planning
 
-   * Soft allocations are used when final schedule is not known yet, for visibility and planning. Soft allocation will not promise team member availability for a project, and will not be projected into the revenue forecast
-   * Hard allocations will promise team member availability, for the requested hours, once approved by the project coordinator. The allocated hours will also project into the revenue forecast
+* Soft allocations are used when final schedule is not known yet, for visibility and planning. Soft allocation will not promise team member availability for a project, and will not be projected into the revenue forecast
+* Hard allocations will promise team member availability, for the requested hours, once approved by the project coordinator. The allocated hours will also project into the revenue forecast
 
-   * For T&M and FF projects, it is the responsibility of the PM to forecast (hard-book) the PM, PSE, and TA time for the project 2 months out in Kantata. Our goal is to be able to be accurate within  +/- 5% of our estimated forecast.
-   * For Consulting Blocks and Dedicated Engineer Services,  we sometimes enter these engagements knowing very little about the project (as it is generally purchased as a SKU). Therefore, our goal is to be within +/- 10% of our estimated forecast after we have our initial EM>PS Transition Meeting
+* For T&M and FF projects, it is the responsibility of the PM to forecast (hard-book) the PM, PSE, and TA time for the project 2 months out in Kantata. Our goal is to be able to be accurate within  +/- 5% of our estimated forecast.
+* For Consulting Blocks and Dedicated Engineer Services,  we sometimes enter these engagements knowing very little about the project (as it is generally purchased as a SKU). Therefore, our goal is to be within +/- 10% of our estimated forecast after we have our initial EM>PS Transition Meeting
 
-   * To ensure forecast revenue is accurate go under Resource Center in Kantata:
-      1. Select “Project Tab” and filter via “My Projects”
-      1. Expand project you are allocating for so you can see all PS Engineers and yourself
-      1. Click on each team member’s name and submit RR request via the “activity” window opened and assign to Project Coordinator as recipient
+* To ensure forecast revenue is accurate go under Resource Center in Kantata:
+  1. Select “Project Tab” and filter via “My Projects”
+  1. Expand project you are allocating for so you can see all PS Engineers and yourself
+  1. Click on each team member’s name and submit RR request via the “activity” window opened and assign to Project Coordinator as recipient
 
-   * If it's a FF project, we need to update the dates on the Milestones in order for it to reflect in our forecast:
-      1. Open your project and open the “Task Tracker” tab
-      1. Expand milestones
-      1. Update sign off date
+* If it's a FF project, we need to update the dates on the Milestones in order for it to reflect in our forecast:
+  1. Open your project and open the “Task Tracker” tab
+  1. Expand milestones
+  1. Update sign off date
 
-   * It is helpful to call out forecast that "pushes" in the Top Customer report
+* It is helpful to call out forecast that "pushes" in the Top Customer report
 
 ##### How to Track Upside
 
-   * Upside is reviewed on a weekly, monthly and quarterly basis. There are four scenarios around when we need to track upside within our weekly revenue tracking sheet (which is pinned to our ps-pmo channel)
-   * If we are unable to confidently forecast the project resources 2 months out, we need to soft-book their/our time in Katata, and ensure that time is added to the upside report.
-   * If we have a pending CO that is not yet reflected in Katata, add it to Upside if the work in the CO will be completed this quarter
-   * If we anticipate a Milestone date will be adjusted to complete in the quarter, but it has not yet been confirmed/verified, add it to the Upside
-   * It is helpful to call upside out in the customer report. ex: can only soft-forecast “x” amount because of “y” restraints
+* Upside is reviewed on a weekly, monthly and quarterly basis. There are four scenarios around when we need to track upside within our weekly revenue tracking sheet (which is pinned to our ps-pmo channel)
+* If we are unable to confidently forecast the project resources 2 months out, we need to soft-book their/our time in Katata, and ensure that time is added to the upside report.
+* If we have a pending CO that is not yet reflected in Katata, add it to Upside if the work in the CO will be completed this quarter
+* If we anticipate a Milestone date will be adjusted to complete in the quarter, but it has not yet been confirmed/verified, add it to the Upside
+* It is helpful to call upside out in the customer report. ex: can only soft-forecast “x” amount because of “y” restraints
 
 ##### Top Customer Report
 
-   * Updated by 8am EST Wed
-   * Pinned to ps_pmo Slack channel
-   * Update the following in the Notes section
-   * 1-lined progress update
-   * If there is an issue, what is the proposed action + timing of fix.
-   * If there is assistance needed
-   * DRI & contributors
-   * Internal temperature (R-Y-G) | Customer temperature (R-Y-G)
-   * Link to RAID & Internal Customer Epic if Y/R (to review WE, CO, WaR)*
+* Updated by 8am EST Wed
+* Pinned to ps_pmo Slack channel
+* Update the following in the Notes section
+* 1-lined progress update
+* If there is an issue, what is the proposed action + timing of fix.
+* If there is assistance needed
+* DRI & contributors
+* Internal temperature (R-Y-G) | Customer temperature (R-Y-G)
+* Link to RAID & Internal Customer Epic if Y/R (to review WE, CO, WaR)
 
 ##### Forecast call prep (to be complete by 10am est Mondays)
 
@@ -181,22 +175,22 @@ Project scope for Professional Services is the outline of the work required to d
       * Change orders (CO) are common elements of Professional Services engagements that can modify the scope definitions, duration, or cost of an ongoing project. A [change order issue](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/blob/master/.gitlab/issue_templates/change-order.md?ref_type=heads) and a [change order template](https://docs.google.com/document/d/1ogvv4MkEXy9ub4bldw-8m015j49R5HB0C7ayb2xw_Ss/edit) is created by the Project/Program Manager and communicated with the Engagement Manager and Account Team. It is always attached to the Internal Customer Epic Issue.
 
       * Common project scope change scenarios:
-         * Does need a CO:
-         * Change of scope definitions where the project budget requires additional funds. The PM should work with the EM/Account Team to fill out the Change Order template. From here, the EM will create a new PS opportunity for the amount required to fulfill the scope change. A new Kantata project will then be created by the PSOps team.
-         * If an existing project is requested to be pushed out two months, with similar project activities and deliverables as the original scope, and the customer agrees to use the original SOW, a change order must be created and associated with a new PS opportunity that reflects the extension.
-         * If the Project moves from T&M to FF (or vice versa)
-         * If you feel the Project needs a CO (especially on FF projects)
+        * Does need a CO:
+        * Change of scope definitions where the project budget requires additional funds. The PM should work with the EM/Account Team to fill out the Change Order template. From here, the EM will create a new PS opportunity for the amount required to fulfill the scope change. A new Kantata project will then be created by the PSOps team.
+        * If an existing project is requested to be pushed out two months, with similar project activities and deliverables as the original scope, and the customer agrees to use the original SOW, a change order must be created and associated with a new PS opportunity that reflects the extension.
+        * If the Project moves from T&M to FF (or vice versa)
+        * If you feel the Project needs a CO (especially on FF projects)
 
       * Does not need a CO:
-         * If there is a change of project scope definitions within the SOW duration and budget, no change order is needed. The PM must get written confirmation with the Customer on the change of Scope definitions. This written confirmation must be screenshot & attached to the associated Project Epic.  
-         * For extensions less than 2 months past the SOW expiration, the PM should capture [written confirmation](https://docs.google.com/document/d/1t2mkVr0eRs67rFkEOJVRLzC6u55aLWwGB5VCZm6G-iU/edit) (from email or Slack) and attach the Confirmation to the Epic.
+        * If there is a change of project scope definitions within the SOW duration and budget, no change order is needed. The PM must get written confirmation with the Customer on the change of Scope definitions. This written confirmation must be screenshot & attached to the associated Project Epic.  
+        * For extensions less than 2 months past the SOW expiration, the PM should capture [written confirmation](https://docs.google.com/document/d/1t2mkVr0eRs67rFkEOJVRLzC6u55aLWwGB5VCZm6G-iU/edit) (from email or Slack) and attach the Confirmation to the Epic.
 
    2. Work at Risk (WaR)
       * A [WaR issue](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/issues/new?issue%5Bmilestone_id%5D=&issuable_template=work-at-risk&issue%5Btitle%5D=Work%20at%20Risk) serves as a means to gain approval from PS leadership to commence project staffing or initiation before all paperwork is finalized. This approval is necessary whenever there's a requirement to commit to project start dates before the opportunity is completely closed. It's essential for both consulting and training projects. The responsibility for initiating WaR lies with the assigned Project or Program Manager, enabling them to start staffing the project promptly. When seeking approval for Work at Risk, specific steps are followed to create an issue outlining the process involved in managing the work at risk
       * A WaR is not billed to the customer until after the contract is signed
       * Common scenarios:
-         * Kicking off a project before SOW is signed by the Customer
-         * Resuming work before the CO is signed by the Customer, or the change is captured in writing
+        * Kicking off a project before SOW is signed by the Customer
+        * Resuming work before the CO is signed by the Customer, or the change is captured in writing
 
    3. Work Exception (WE)
       * A Work Exception is used by a PM when seeking approval for a project to exceed the hours/budget originally allotted. Use the Work Exception issue template to gain approvals from PS leadership. It can be used independently or including a CO.
@@ -208,9 +202,9 @@ Project scope for Professional Services is the outline of the work required to d
 
 _to be updated_
 
-   * Complete this [sign off workflow](/handbook/customer-success/professional-services-engineering/workflows/project_execution/sign-off.html)
-   * Schedule [Project closure meeting](https://docs.google.com/document/d/1Cw5eLe8VKFtHG9xGqUiCua8Pbu52reMzHujcPWq3ofQ/edit?usp=sharing)
-   * Schedule [Project Retrospective](https://docs.google.com/document/d/1CXfnCzjF_hwapy0R-89txiFUmSmvX7jvlEqWn48zN8A/edit?usp=sharing)  
-   * Regional Manager to provide a closeout report including estimated hours, actual hours, deliverable documents, and lessons learned to broader team. Post this in [#ps-project-leadership](https://gitlab.slack.com/archives/GR4A7UJSF) and make sure to mention the Engagement Manager team `@em`
-   * Request/capture CSAT responses from Customer
-   * Close Project in Kantata
+* Complete this [sign off workflow](/handbook/customer-success/professional-services-engineering/workflows/project_execution/sign-off.html)
+* Schedule [Project closure meeting](https://docs.google.com/document/d/1Cw5eLe8VKFtHG9xGqUiCua8Pbu52reMzHujcPWq3ofQ/edit?usp=sharing)
+* Schedule [Project Retrospective](https://docs.google.com/document/d/1CXfnCzjF_hwapy0R-89txiFUmSmvX7jvlEqWn48zN8A/edit?usp=sharing)
+* Regional Manager to provide a closeout report including estimated hours, actual hours, deliverable documents, and lessons learned to broader team. Post this in [#ps-project-leadership](https://gitlab.slack.com/archives/GR4A7UJSF) and make sure to mention the Engagement Manager team `@em`
+* Request/capture CSAT responses from Customer
+* Close Project in Kantata
