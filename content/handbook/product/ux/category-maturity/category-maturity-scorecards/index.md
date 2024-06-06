@@ -158,11 +158,11 @@ The [Single Ease Question (SEQ)](https://measuringu.com/single-question/) is a n
 - Difficult
 - Extremely difficult
 
-**Question 2: User Experience rating**
+**Question 2: Satisfaction rating**
 
 Admittedly, the term ‘user experience’ is broad; as it encompasses many components we care about (ex: efficiency, speed, usability, etc) that are completely applicable to how one rates an overall user experience. Because of that, we’re intentionally not defining ‘user experience’ and feel that given our audience, the definition will be collectively understood with a high level of accuracy. This question is also used for the UX Scorecard formative evaluation approach.
 
-*Q2: “How would you rate the quality of the user experience?”*
+*Q2: “How would you rate the quality of this experience?”*
 
 - Extremely good
 - Good
