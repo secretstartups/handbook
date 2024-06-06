@@ -25,12 +25,18 @@ This guide is designed to help Backend and Frontend developers at GitLab conduct
 
 Ensure Python 3 is installed on your machine. If not, download and install it from the official [Python website](https://www.python.org/downloads/).
 
+You can check if Python is installed by running the following command:
+
+```bash
+python --version
+```
+
 #### Clone the ELI5 Cookbook
 
 Clone the `eli5` project which has everything set up for you.
 
 ```bash
-git clone https://gitlab.com/gitlab-org/ai-powered/eli5
+git clone git@gitlab.com:gitlab-org/ai-powered/eli5.git
 cd eli5
 ```
 
