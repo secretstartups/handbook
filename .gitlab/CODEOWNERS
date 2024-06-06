@@ -111,6 +111,9 @@
 /content/job-families/engineering/ @sabrinafarmer @cbednarz @anjali_kaufmann @dparsonage @glucchesi @carlierussell @mwilkins
 /content/job-families/engineering/incubation/ @bmarnane @cbednarz @anjali_kaufmann @dparsonage @glucchesi @carlierussell @mwilkins
 
+^[Eng-Architecture]
+/content/handbook/engineering/architecture/ @ayufan @grzesiek @glopezfernandez @andrewn @mappelman @DylanGriffith @theoretick @shekharpatnaik @stanhu @fabiopitino @tkuah @ntepluhina @jessieay @vitallium
+
 ^[Eng-Development-department]
 /content/handbook/engineering/core-development.md @timzallmann @sgoldstein @m_gill @dsatcher
 /content/handbook/engineering/development/ @timzallmann @bmarnane @cdu1 @sgoldstein @dsatcher @m_gill @jeromezng @pcalder
