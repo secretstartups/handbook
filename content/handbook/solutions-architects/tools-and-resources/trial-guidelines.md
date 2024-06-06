@@ -40,12 +40,12 @@ All internal requests regarding licensing, subscriptions, trials, and grace peri
 
 Once you access the form, enter your email and choose "GitLab L&R Internal Request for Global Customers" or "GitLab L&R Internal Request for US Federal Customers" to renew and extend a trial license.  
 
-Note you also need to have [Zendesk Light Agent account](content/handbook/support/internal-support/#requesting-a-zendesk-light-agent-account) before you make this request.
+Note you also need to have [Zendesk Light Agent account](/handbook/support/internal-support/#requesting-a-zendesk-light-agent-account) before you make this request.
 
 References
 
-- [Support Internal Requests](content/handbook/support/internal-support/#internal-requests)
-- [Support Super Form](content/handbook/support/readiness/operations/docs/gitlab/support_super_form/)
+- [Support Internal Requests](/handbook/support/internal-support/#internal-requests)
+- [Support Super Form](/handbook/support/readiness/operations/docs/gitlab/support_super_form/)
 
 ### Populating your group with project data
 
