@@ -100,8 +100,8 @@ To learn more about these factors, see [our definition of usability](#usability-
 - What’s being measured?
   - Satisfaction can be determined by understanding the participants' perception of how the experience is.
 - How is it measured?
-  - After all tasks are completed, ask the [User Experience rating question](/handbook/product/ux/category-maturity/category-maturity-scorecards/#the-3-questions-we-ask).
-    - *“How would you rate the quality of the user experience?”* <br> *- Extremely good* <br> *- Good* <br> *- Neither good nor bad* <br> *- Bad* <br> *- Extremely bad*
+  - After all tasks are completed, ask the [Satisfaction rating question](/handbook/product/ux/category-maturity/category-maturity-scorecards/#the-3-questions-we-ask).
+    - *“How would you rate the quality of this experience?”* <br> *- Extremely good* <br> *- Good* <br> *- Neither good nor bad* <br> *- Bad* <br> *- Extremely bad*
   - Ensure that you are asking *why* participants rated it this way right after they reply.
 - Why are we measuring it?
   - We also collect this during CM Scorecards. Collecting it as part of a usability test gives a prediction and pulse check for a later CM Scorecards study.
