@@ -1,8 +1,7 @@
 ---
 
 title: Success Services
-description: >-
-  Success Services are customer-funded services offered to GitLab customers to accelerate their adoption and value realization of GitLab products. Driven by a Customer Success architect in partnership with Assigned Support Engineer and Education.
+ 
 
 ---
 The Success Services department is part of the [Customer Success](/handbook/customer-success/) function who partners with our customers to deliver value and positive business outcomes throughout their journey with GitLab.
@@ -13,11 +12,27 @@ For content for positioning the value of the service, how to price/quote the ser
 
 ## Success Services
 
-### CSA Accelerators
+### Overview
 
-Success plan services comes with 4 "accelerators", 1 per quarter, that your [customer success architect (CSA)](/handbook/customer-success/csm/segment/csa/) will deliver.
+Our Success Services drive adoption and value realization of GitLab products whilst providing customers with Best Practices and a higher tier of White Glove support.   We achieve this by bundling a named Support Engineer, a Customer Success Architect (CSA) and Education services into a single orderable SKU as an annual renewable service.
+
+The [Assigned Support Engineer (ASE)](/handbook/support/workflows/assigned-support-engineer/) is the primary point of contact for their customers and will  triage any support ticket logged by that customer.  Over time, because of this consistent resourcing, the knowledge of the customer's needs, environment and architecture results in faster resolution times to the most common logged issues.
+
+The [Customer Success Architect (CSA)](/job-families/sales/customer-success-architect/) is accountable for their customer's success through GitLab product adoption using well understood Best Practices.  CSA's bring deeper product knowledge and technical depth than the industries traditional CSM role.  With experience across many customers, they are experts at ensuring features are leveraged the right way for maximum value.   This customer experience has lead to development of best practice content and prescriptive road-maps.  This content is folded into the Success Services offering as "Accelerators".
+
+> Customer Success is not permitted to be "Hands on Keyboard" with customers.   We can and do provide best practices, architectural guidance and will tailor adoption and success plans to a specific customer need.  If a customer needs GitLab to develop a bespoke solutions or actively change or manage their configuration, we will need to engage our [Professional Services](/handbook/customer-success/professional-services-engineering/) team.
+
+Education Services included with Success Services encompasses 1day of Instructor-led Training  as well as a significant number of Training Certification Exam vouchers.   This enables us to partner the running of specific accelerators, aligned to training and certification, to ensure your team is ready and able to drive the cost benefits that GitLab brings.
+
+### Accelerators
+
+Success Services include up to 4 Accelerators, 1 per quarter, that your [Customer Success Architect (CSA)](/handbook/customer-success/csm/segment/csa/) will deliver.  
 
 > An accelerator is a customized form of enablement that a GitLab CSA will define and deliver to a customer. These accelerators span a quarter and they're mapped to your mutual success plan.
+
+An Accelerator, depending on customer requirements and defined outcomes, will pull together one or more of the below content modules.   Typically the accelerator runs over 12 weeks.  It kicks off with a discovery workshop to document required customer outcomes.  From that, we will run a planning workshop outlining with the customer the steps necessary to achieve their outcomes.   The output of the Planning Workshop is a backlog of issues logged, in a GitLab project, that includes all the necessary activities that will be managed over the following 10 weeks to achieve those outcomes and close out the Accelerator
+
+#### Accelerator Content Modules
 
 | Category | Content Modules | Description | Outcome|
 |---|---|---|---|
