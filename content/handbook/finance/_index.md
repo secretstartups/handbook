@@ -35,6 +35,13 @@ The GitLab Finance Department includes multiple Teams: Accounting, Financial Pla
 - **Accounts Receivable** - customer payment/remittance inquiries should be sent to our Accounts Receivable mailbox - *AR@gitlab.com*
 - **Payroll**- inquiries which relate to contractor invoices should be sent to our Payroll mailbox - *nonuspayroll@gitlab.com*.
 
+## CFO Approvals
+
+- Please use the `#cfo-approvals` chat channel in Slack for alerting the CFO to a request for his approval
+- Tag the CFO's Staff EBA in the Slack request for visibility and followup
+- Appropriate Finance team members in the approval flow must approve prior to requesting CFO approval
+- All requests must go through the appropriate approvals process, include a link to the Issue or description and receive all approvals prior to requesting CFO approval
+
 ---
 
 <div class="text-center rounded-3 p-3 display-6 text-primary" style="border: 2px solid #5468ff;"><strong>We <i class="fas fa-heart orange font-awesome" aria-hidden="true"></i> Finance</strong></div>
