@@ -60,12 +60,6 @@ This is a GitLab-hosted virtual event with Webcast type configuration in Zoom. T
 
 Please note that all Webcasts are considered webcasts with new content, which means they have a **-45 business day** SLA requirement. If you are considering a Webcast, please make sure to provide your [Zoom License Request](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/request_zoom_license_date.md) within the [SLA timeframe](https://docs.google.com/spreadsheets/d/1YXriQ1clvYyBn-TDbbCVvNP6NEbrAF-0w6tIHKhDeZM/edit#gid=1983708280).
 
-## Hosted on Hopin
-
-### [Virtual Conference - Self-Hosted](/handbook/marketing/virtual-events/external-virtual-events/#virtual-conferences)
-
-Please work with the Corporate Marketing Events team on planning these large scale events. This event type is only intended if you need more tracked attendees than is capable with Zoom and/or you need multiple simultaneous tracks. It also allows for a partner expo hall. The tool we have in place allows for a cleaner experience for the end user than switching between Zoom calls. It more mirrors a physical event experience with a keynote stage, tracks, expo halls and networking options.
-
 ## Additional Virtual Event Details
 
 For more information on Virtual Event type comparisons, promotion, Zoom capabilities, participant engagement, etc., please visit the [Virtual Events page](/handbook/marketing/virtual-events/). For best practices and instructions on how to set up and run your event using Zoom, please visit the [Self-Service Virtual Events page](handbook/marketing/virtual-events/self-service-virtual-events/).
