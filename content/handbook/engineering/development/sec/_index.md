@@ -277,6 +277,11 @@ When creating a new project, all settings should be left to the default options,
          - `Disabled`
       - `Code owner approval`
          - `Enabled`
+   - `Settings -> Repository -> Protected tags`
+      - `Tag`
+         - `v*`
+      - `Allowed to create`
+         - `Maintainers`
    - `Settings -> Merge Requests`
       - `Squash commits when merging`
          - `Require`
