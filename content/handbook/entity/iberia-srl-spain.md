@@ -165,12 +165,12 @@ Team Members are automatically enrolled into the benefit with an insured lump su
 - Total and Permanent Disability for the own occupation by any cause,
 - Accidental Total and Permanent Disability for the own occupation (additional lump sum to TPD)
 
-The Free cover Limit is 500,000 EUR.
+The Free cover Limit is 500,000 EUR. If your cover is over the Free Cover Limit, you will be asked to fill out a form by the Total Rewards team.
 
 <details markdown="1">
 <summary>Taxability of Life and Disability Insurance Plans</summary>
 
- Group Life insurance premiums are benefit in kind and taxable on the employee's income tax. The premiums are subject to withholding tax.
+ Group Life insurance premiums are benefit in kind and taxable on the employee's income tax. The premiums are subject to withholding tax. See the [2024 premium rates](https://docs.google.com/spreadsheets/d/1GD79QjfMkIEMxukH0t8vTE949oup_Hco/edit?usp=sharing&ouid=115600862362829120699&rtpof=true&sd=true), which are based on age and salary.
 
 </details>
 
