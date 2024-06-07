@@ -17,13 +17,20 @@ This guide is designed to help Backend and Frontend developers at GitLab conduct
   - Make sure Python is installed on your machine. You can download and install it from the [official Python website](https://www.python.org/downloads/).
 - API Keys and Tokens:
   - [Create an issue using the AI Acesss Request template](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=AI_Access_Request). Specify LangSmith and Anthropic as the required providers.
-  - Ensure you have a GitLab private token with the necessary permissions from **your local GDK instance**. You can generate one from your GitLab profile settings under [“Access Tokens”](http://127.0.0.1:3000/-/user_settings/personal_access_tokens). Make sure it has `api` and `ai_features` checked.
+    - [How to create an Anthropic API key](https://docs.anthropic.com/en/api/getting-started)
+    - [How to create a LangSmith API key](https://docs.smith.langchain.com/#2-create-an-api-key).
+  - A GitLab personal access token with the `api` and `ai_features` scopes from **your local GDK instance**.
+    - [How to generate a personal access token](https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html#create-a-personal-access-token).
 
 ### Step 1: Setting Up Your Environment
 
 #### Install Python and Necessary Libraries
 
-Ensure Python 3 is installed on your machine. If not, download and install it from the official [Python website](https://www.python.org/downloads/).
+Ensure Python 3 is installed on your machine.
+
+If you are already using `asdf` to manage tool versions, you can [install python with `asdf`](https://github.com/asdf-community/asdf-python).
+
+If not, download and install it from the official [Python website](https://www.python.org/downloads/).
 
 You can check if Python is installed by running the following command:
 
@@ -62,14 +69,13 @@ Edit the `.env` files to include your API keys and tokens.
 ### Step 2: Create and upload your dataset
 
 - [See our dataset guide here](./datasets/)
-
-**The goal would be to use an exisitng dataset, or create and upload a new one specific to your evaluations. See `duo_chat_questions_0shot` as an example.**
-
-Follow the instructions in the example project to create and upload datasets, you can see some sample datsets in `https://gitlab.com/gitlab-org/ai-powered/eli5/datasets`.
+- You can use an existing dataset or create and upload a new one specific to your evaluations.
+- Follow the [instructions in the example project](https://gitlab.com/gitlab-org/ai-powered/eli5#creating-and-uploading-datasets) to create and upload datasets.
+- You can see some sample datasets in [the eli5 repository](https://gitlab.com/gitlab-org/ai-powered/eli5/-/tree/main/datasets).
 
 ### Step 3: Running the Evaluation Scripts
 
-The example project includes pre-configured evaluation scripts. Navigate to the respective directories and run the scripts. [See our evaluators guide here](./evaluators/) for more information.
+The [example project](https://gitlab.com/gitlab-org/ai-powered/eli5) includes pre-configured evaluation scripts. Navigate to the respective directories and run the scripts. [See our evaluators guide here](./evaluators/) for more information.
 
 #### Running the Script Locally
 
