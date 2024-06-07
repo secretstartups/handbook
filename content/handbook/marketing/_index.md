@@ -25,13 +25,13 @@ Each stage has a purpose which is the guiding indicator for the marketing team t
 
 ## Marketing Strategy
 
-Our FY24 Marketing Strategy and Plan can be found in [the internal handbook](https://internal.gitlab.com/handbook/marketing/fy24-strategy/).
+Our FY25 Marketing Strategy and Plan can be found in [the internal handbook](https://internal.gitlab.com/handbook/marketing/fy25-strategy/).
 
 ## Marketing OKRs
 
 Each quarter, the Marketing team creates OKRs (Objectives and Key Results) that cascade from the [CEO's OKRs](/handbook/company/okrs/#most-recent-okrs).
 
-Each department within the Marketing team manages their own cascading OKRs.
+Each department within the Marketing team manages their own cascading OKRs. Team members can access the [filtered OKR search](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&label_name%5B%5D=division%3A%3AMarketing&label_name%5B%5D=OKR&search=marketing&search=okr&first_page_size=20).
 
 ## <i class="fas fa-users fa-fw color-orange font-awesome"></i> How we work
 
@@ -316,7 +316,7 @@ The GitLab Growth department is dedicated to making it easier for teams to find 
 
 Developer Relations drives platform awareness and adoption by reaching deep into wider communities and engaging developers where they are. GitLab currently engages with more than 3000 developers every month on GitLab.com alone, and receives more than 250 contributions every month, giving us a unique level of influence in the DevSecOps space and helping accelerate our innovation. Our ultimate goal is to raise awareness of GitLab and drive customer success by winning the hearts & minds of developers through best-in-class technical enablement and an active community of contributors.
 
-<a href="/handbook/marketing/integrated-marketing/" class="btn btn-purple">Handbook</a>
+<a href="/handbook/marketing/developer-relations/" class="btn btn-primary">Handbook</a>
 
 Handbook Links
 {.h4}
