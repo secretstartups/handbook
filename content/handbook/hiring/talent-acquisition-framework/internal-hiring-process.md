@@ -81,11 +81,12 @@ As you are both aware, XXX has been interviewing for the XXX role and the team i
     - Team members who are assessed at a Performing or Exceeding Performance level during Talent Assessment are eligible to be considered for another role
     - Team members whose Performance is assessed as Developing or are actively undergoing written performance management, may not be eligible. These situations require manager and/or PBP approval to proceed.
     - Team members that have not had a Talent Assessment require manager and/or PBP approval to proceed
-  - Time in role eligibility will be 6 months in current role. Exceptions to this:
-    - Job Family specialty changes
-    - Business Impact  (revenue-dependencies, interim role to perm)
-    - Business driven transfers (example of realignments)
-    - SDR 12 month in role
+    - Time in role eligibility will be 6 months in current role. Exceptions to this:
+      - Job Family specialty changes
+      - Business Impact  (revenue-dependencies, interim role to perm)
+      - Business driven transfers (example of realignments)
+      - SDR 12 months in role
+      - SDR/BDR Team Lead 3 months in role
 - For any situations where further discussion may be needed, People Connect Leads will go to the department specific [PBP](/handbook/people-group#people-business-partner-alignment-to-division).
 - At the offer stage, the Recruiter will submit a request via HelpLab to attain current compensation information:
   - People Connect checks Workday for current team member base compensation.
