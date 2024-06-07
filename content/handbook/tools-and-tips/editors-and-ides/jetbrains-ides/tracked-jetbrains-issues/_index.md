@@ -97,6 +97,14 @@ Keep these sections sorted alphabetically. They are headers so that they can be 
       it has written its own DSL. We'll create an issue requesting support for this library (so that you can mention it in your comments), but there isn't any timeframe
       on implementing it right now sorry."
 
+### RUBY-32975
+
+- Title: Update unconventional name inspections to match RuboCop further
+- Link: https://youtrack.jetbrains.com/issue/RUBY-32975
+- Notes:
+  - Requires `# noinspection RubyClassModuleNamingConvention`
+  - Required to allow 2-character module names like `EE`
+
 ## Closed Issues
 
 ### RUBY-31540
