@@ -244,7 +244,7 @@ When renewing a contract, if it is to be for 12 months, the timeframes are at be
 1. Two months before the contract ends, HR Savvy will send an email to the People Connect Team member email address.
 1. The People Connect Team member that is in charge of allocating contract renewals will assign a member of the People Connect team to complete the contract renewal process.
 1. The People Connect Team member adds the team member's contract details to the People Connect Task [Tracker](https://docs.google.com/spreadsheets/d/1Z45eOZ2rCRIKgGae3eOKQ8lhIbAPikSs5gLz3V8Kh9U/edit?ts=5e7a2c42#gid=84302455) under the Netherlands Contracts tab.
-1. The People Connect Team member will send an [email](https://gitlab.com/gitlab-com/people-group/people-operations/General/-/blob/master/.gitlab/email_templates/netherlands_temp_contract_renewal.md) to the team member's manager two months before the team member's contract ends.
+1. The People Connect Team member will follow [this HelpLab Job Aid](https://docs.google.com/document/d/1hm707ieQVskaRhBl_89AHq-V3wXbsaiSbYmCiFF3_40/edit) to request approval from the team member's manager two months before the team member's contract ends.
 1. GitLab offers one fixed term 12-month contract to start. After the year-long fixed term contract, if the team member is in good standing, they are given an Indefinite Agreement beginning at the team member's second year with the company. If a team member has been with GitLab for over one year after their first fixed term contract finished due to a relocation, they are given an Indefinite Contract.
 1. The Manager has then 2 weeks to evaluate the performance of the team member.
 
