@@ -100,7 +100,7 @@ handbook page.
 - Encourage customers to use and review [Self-service Information Gathering](/handbook/security/security-assurance/field-security/customer-security-assessment-process.html).
 - SAs can attempt a first-pass for all security questionnaires if time permits
   - Do it, it’s fun and educational!
-  - You can also make use of the [GitLab AnswerBase](/handbook/security/security-assurance/field-security/answerbase.html) (200+ pre-answered questions)
+  - You can also make use of the [GitLab's Trust Center](https://trust.gitlab.com/)
 - Additional requests can be made in [#sec-fieldsecurity](https://gitlab.slack.com/archives/CV5A53V70) Slack Channel.
 - When spending time on a security questionnaire ensure you capture the initial time dedicated via our SA Activity Capture system (troops).
 

@@ -181,7 +181,7 @@ If no update has been provided in an epic or issue for over a week, the issue wi
 
 #### Reporting
 
-We provide reports on status of GitLab Dedicated to meet [Top Cross-Functional Initiative requirements](/handbook/company/top-cross-functional-initiatives/#cross-functional-initiative-dris).
+We provide regulat status reports in our epic descriptions in order to keep leadership informed, ensure the team is aligned and can find the latest information, and for purposes of reporting to applicable [Working Groups](/handbook/company/working-groups/_index.md#active-working-groups-alphabetic-order) we participate in.
 
 ### Backlog Refinement
 

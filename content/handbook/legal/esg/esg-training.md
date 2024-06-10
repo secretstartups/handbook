@@ -109,7 +109,7 @@ To learn more about how GitLab supports and encourages team members to support N
 
 ## Responding to ESG questions in RFPs
 
-- Please follow the steps outlined in the [RFP process](/handbook/security/security-assurance/field-security/Field-Security-RFP.html). Frequently asked questions and answers are available in AnswerBase.
+- Please follow the steps outlined in the [RFP process](/handbook/security/security-assurance/field-security/field-security-rfp/). Frequently asked questions and answers are available in AnswerBase.
 
 ## Responding to Investor Questions
 
