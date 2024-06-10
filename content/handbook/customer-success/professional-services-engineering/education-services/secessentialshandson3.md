@@ -14,7 +14,7 @@ In this lab, you will learn how to scan for vulnerabilities in your containers.
 
 ## Prerequisites
 
-1. Open your browser to to the **Security Labs** project that you created in Lab 1.
+1. Open your browser to the **Security Labs** project that you created in Lab 1.
 
     > If you closed the tab or lost the link, open a browser tab and start typing https://gitlab.com/gitlab-learn-labs in your URL if you are in Self-Paced Training, or https://ilt.gitlabtraining.cloud if you are in Instructor-Lead Training, and the project should appear in your history.
 
