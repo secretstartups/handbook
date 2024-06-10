@@ -85,7 +85,7 @@ a valid and authorized partner. Once confirmed by Partner Operations, Legal will
 
 #### RFP Process
 
-With regards to completing RFPs, sometimes referred to as RFIs, RFQs or RFXs, please find information in the [RFP Process handbook page](/handbook/security/security-assurance/field-security/Field-Security-RFP.html) on how sales team members can operate as the DRI to utilize the existing Answer Base and collect relevant information from cross-functional stakeholders.
+With regards to completing RFPs, sometimes referred to as RFIs, RFQs or RFXs, please find information in the [RFP Process handbook page](/handbook/security/security-assurance/field-security/field-security-rfp/) on how sales team members can operate as the DRI to utilize the existing Answer Base and collect relevant information from cross-functional stakeholders.
 
 ### Completing Vendor Request Forms
 
@@ -104,9 +104,9 @@ With regards to completing RFPs, sometimes referred to as RFIs, RFQs or RFXs, pl
 
 1. If there are answers which are not found in the Company Information Page, the Sales team member should read, understand, and determine which GitLab departments should be involved and are the owner of the remaining matters. If you are uncertain, Legal  can assist in guiding you to the right department or contact.
 1. W9 is located on the Finance [Forms page](/handbook/finance/#forms)
-1. If there are Security-related questions that are not found at the GitLab [Trust Center Page](https://about.gitlab.com/security/) or the GitLab [Customer Assurance Package Page](https://about.gitlab.com/security/cap/), the Sales team member should engage the Field Security Team per their process, which can be found at GitLab's [Customer Assurance Activities Pag](/handbook/security/security-assurance/field-security/customer-security-assessment-process.html).
+1. If there are Security-related questions that are not found in GitLab's [Trust Center](https://trust.gitlab.com/), the Sales team member should engage the Field Security Team per their process, which can be found at GitLab's [Customer Assurance Activities Page](/handbook/security/security-assurance/field-security/customer-security-assessment-process).
 1. If there are questions / elements that are not found in the Company Information Page, the Sales Rep should engage Deal Desk to organize requests of finance and tax. Information regarding contacting Deal Desk and overall process can be found at the [Sales Order Process Page](/handbook/sales/field-operations/order-processing/#how-to-process-customer-requested-vendor-setup-forms).
-1. If there are Security related questions / elements that are not found at the [GitLab Trust Center Page](https://about.gitlab.com/security/) or the [GitLab Customer Assurance Package Page](https://about.gitlab.com/security/cap/), the Sales Rep should engage the Field Security Team per their process, which can be found at [GitLab's Customer Assurance Activities Page](/handbook/security/security-assurance/field-security/customer-security-assessment-process.html).
+1. If there are Security related questions / elements that are not found in GitLab's [Trust Center](https://trust.gitlab.com/), the Sales Rep should engage the Field Security Team per their process, which can be found at [GitLab's Customer Assurance Activities Page](/handbook/security/security-assurance/field-security/customer-security-assessment-process/).
 1. If there are tax related questions, the Sales team member should engage the Tax Team within the Tax Slack Channel. For Tax Certificate requests please email the Finance team at 'tax@gitlab.com'.
 1. If there are finance related questions, the Sales team member should engage the Finance team within the Finance Slack channel.
 
@@ -171,7 +171,7 @@ For matters that necessitate being handled outside of SFDC (e.g. project-based w
 
 #### RFP Process
 
-With regards to completing RFPs, sometimes referred to as RFIs, RFQs or RFXs, please find information in the [RFP Process](/handbook/security/security-assurance/field-security/Field-Security-RFP.html) handbook page.
+With regards to completing RFPs, sometimes referred to as RFIs, RFQs or RFXs, please find information in the [RFP Process](/handbook/security/security-assurance/field-security/field-security-rfp/) handbook page.
 
 ### Best Practices for a Legal Call
 
