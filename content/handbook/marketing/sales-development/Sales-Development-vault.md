@@ -309,7 +309,7 @@ A Professional Services Opportunity will be used to cover any integration, consu
 | Warm Calling              | The method used to strategically incorporate phone calls and voicemails into an outbound prospecting workflow.                                                               |
 | Rules of Engagement (RoE) | Defines ownership of a lead, SAO credit, and collaboration between SDRs and BDRs.                                                                                          |
 | BDR Prospecting Status    | Salesforce status includes Queued, Actively Working, Worked in FY, and Restricted.                                                                                         |
-| Partner Prospecting Status| If populated, the lead/contact is worked by a partner, and Sales Dev should not proceed with outreach.                                                                     |
+| Vartopia Partner Account | If populated, the lead/contact is worked by a partner, and Sales Dev should not proceed with outreach.                                                                     |
 | Actively Working Status   | Accounts chosen for strategic outreach based on alignment, news, initiatives, etc. Recycles after 10 weeks if not worked.                                                    |
 | Actively Working Status Requirements | BDR Account Strategy field must be populated. Research and Next Steps notes within 10 days. Minimum 5 people in sequences.                                               |
 | Queued status             | Accounts waiting to be moved into Actively Working. SDRs work MQLs in this status.                                                                                          |
