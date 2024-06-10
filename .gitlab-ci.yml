@@ -283,24 +283,3 @@ notify_slack_on_build_failures:
   script: ./scripts/send-failure-notification-to-slack.sh
   rules:
   - <<: *default-branch
-
-####################################
-##
-## MAINTENANCE STAGE
-##
-####################################
-
-modules:tidy:
-  image: $HUGO_IMAGE
-  stage: maintenance
-  allow_failure: true
-  rules:
-    - <<: *merge-request-only
-  needs: []
-  script:
-    - apk update
-    - apk upgrade
-    - apk add go
-    - hugo mod tidy
-    - echo "If this job failed, please commit changes to the go.mod and go.sum files"
-    - git diff --exit-code go.mod go.sum
