@@ -44,7 +44,7 @@ DRI: {{< member-by-gitlab "nmccorrison" >}}
 
 DRI: {{< member-by-gitlab "ryaanwells" >}}
 
-{{< member-and-role-by-gitlab "balakumar" "lorenzvanherwaarden" "Quintasan" "svedova" >}}
+{{< member-and-role-by-gitlab "bala.kumar" "lorenzvanherwaarden" "Quintasan" "svedova" >}}
 
 ### [AI](https://about.gitlab.com/direction/govern/threat_insights/17_threat_insights_priorities.html#ai)
 
