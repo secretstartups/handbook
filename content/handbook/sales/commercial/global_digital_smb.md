@@ -416,6 +416,8 @@ Due to the high case volume, it is imperative that the Required 10 is followed, 
   - The case will now reappear in the queue in 6 months time, and any Advocate will be free to work the case.
 - Q. If a prospect/ customer emails me directly requesting assistance, what do I do?
 - A. First check the account to see if there is an In Progress SMB Sales Case owned by a different Advocate.  If there is, add the nature of the customers request to the Description field, and chatter the Advocate on the case. If no case is present, and this enquiry represents a nARR opportunity, follow the above process (*Working with the Global Digital SMB Account Team*.), and assign the case directly to yourself. Note: for general enquiries, you should direct customers to smallbusiness@gitlab.com
+- Q. As an Advocate, when I go on PTO, what happens to my cases?
+- A. Whilst on PTO, your *In Progress* cases will remain in your name. In your OOO email signature however, you should include the contact details of a fellow Advocate who has agreed to cover you whilst you are away. Ideally, this Advocate should be located in a similar region with similar langauge skills. When a customer emails you (and the Advocate providing coverage), the Advocate providing coverage should assign the active case to themself, and work it through to completion
 
 ## Escalation Paths
 
