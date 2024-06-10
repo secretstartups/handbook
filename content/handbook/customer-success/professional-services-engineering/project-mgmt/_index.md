@@ -152,7 +152,7 @@ Forecast allocations impact PS revenue forecast and team members availability, u
       * While the RAID is created, managed, and reported by the PM, **the internal team is encouraged to be updated the RAID as we work through Project challenges and mitigations**
       * [Example](https://gitlab.com/gitlab-com/customer-success/professional-services-group/professional-services-delivery/gitlab-professional-services/southwest/sow-2206/-/issues/8)
    1. [Reporting on Risk via RAID](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=Escalated&first_page_size=20)
-      * "Escalated" items are are labeled as such to create immediate attention as it impacts the progress of the project. for internal visibility, the RAID link is included in the Top Customer Report when a project is Y/R
+      * "Escalated" items are labeled as such to create immediate attention as it impacts the progress of the project. for internal visibility, the RAID link is included in the Top Customer Report when a project is Y/R
 1. Track internal Project team wins, lessons learned, and Customer Stories within the Internal Project Retrospective issue
    * [The process of a project retrospective is started when the project starts](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/blob/master/.gitlab/issue_templates/project_retrospective.md?ref_type=heads), as this is a collection of team celebration, lessons learned, what could be improved, questions, comments, assets created, etc. It is highly encouraged the entire GitLab project team contributes to the below information throughout the course of the Project
       * A meeting towards the end of each PS engagement will be held to celebrate our delivery as a team, review areas of improvement around our PS methodology, and to share our Customer Success stories. A PM will facilitate & work with the Project team to fill out the appropriate areas.
@@ -182,7 +182,7 @@ Project scope for Professional Services is the outline of the work required to d
         * If you feel the Project needs a CO (especially on FF projects)
 
       * Does not need a CO:
-        * If there is a change of project scope definitions within the SOW duration and budget, no change order is needed. The PM must get written confirmation with the Customer on the change of Scope definitions. This written confirmation must be screenshot & attached to the associated Project Epic.  
+        * If there is a change of project scope definitions within the SOW duration and budget, no change order is needed. The PM must get written confirmation with the Customer on the change of Scope definitions. This written confirmation must be screenshot & attached to the associated Project Epic.
         * For extensions less than 2 months past the SOW expiration, the PM should capture [written confirmation](https://docs.google.com/document/d/1t2mkVr0eRs67rFkEOJVRLzC6u55aLWwGB5VCZm6G-iU/edit) (from email or Slack) and attach the confirmation to the _"Scope Engagement and Write SoW"_ issue found within the customer Epic.
 
    2. Work at Risk (WaR)
@@ -194,7 +194,7 @@ Project scope for Professional Services is the outline of the work required to d
 
    3. Work Exception (WE)
       * A Work Exception is used by a PM when seeking approval for a project to exceed the hours/budget originally allotted. Use the Work Exception issue template to gain approvals from PS leadership. It can be used independently or including a CO.
-      * Ensuring we include labels as a PM is crucial, as this is how we will better track and and improve our transition process from Sales to PS.
+      * Ensuring we include labels as a PM is crucial, as this is how we will better track and improve our transition process from Sales to PS.
 
       [Work Exception Report](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/issues/?sort=updated_desc&state=opened&or%5Blabel_name%5D%5B%5D=WE-product&or%5Blabel_name%5D%5B%5D=WE-ps&or%5Blabel_name%5D%5B%5D=WE-scoping&or%5Blabel_name%5D%5B%5D=WE-time&first_page_size=20) - callouts for reasonings behind additional PS effort without a CO request. This  includes Product challenges, scoping definition misalignment, insufficient PS hours, or other PS related items.
 
