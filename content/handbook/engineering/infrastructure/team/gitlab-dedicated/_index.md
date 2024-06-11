@@ -651,12 +651,31 @@ Some tips:
    [Capacity Planning Issue Tracker](https://gitlab.com/gitlab-com/gl-infra/capacity-planning-tracker/gitlab-dedicated/-/issues) can be a good source of information,
    as some recurring saturation forecast share the same or similar causes,
    or just to gain some insight into how these issues have been investigated and resolved in the past.
+1. Remember that some items may alert across multiple tenants.
+   If possible, treat them as a unit rather than per-tenant,
+   unless the causes and fixes are truly distinct.
+   This is particularly important for false-positives or items needing tuning
 1. Trust your instincts.
    If it looks concerning, raise a remediation issue; they are free, and can easily be closed again after additional input.
    If it looks fine it probably is,
    and even if it isn't then there's a rotating schedule of other engineers in the following weeks who can spot something you missed.
    This process is designed to get warning of things that are coming when possible,
    not to be a perfect predictor in all cases.
+
+#### Example responses
+
+Here are some concrete examples of responses to capacity planning alerts.
+
+- Removing a metric from capacity planning - [Advanced search memory pressure](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/instrumentor/-/merge_requests/3322)
+  does not follow long-term trends and was not a useful prediction.
+  It remains a metric that is _alerted_ on if it exceeds practical limits.
+- Remove saturation metric entirely - [kube_pool_cpu](https://gitlab.com/gitlab-com/runbooks/-/merge_requests/7412)
+  was incorrect in many cases, and difficult to get right.
+  It needed to be replaced with a different saturation metric (node-based CPU).
+- Add Saturation metrics - [Kubernetes PVCs](https://gitlab.com/gitlab-com/runbooks/-/merge_requests/7411)
+  were not being monitored at all, leading to near-miss incidents
+- Fix the saturation metric - [Advanced search disk](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/instrumentor/-/merge_requests/3331)
+  was inaccurate and needed to be replaced with better promql expressions
 
 ### Resources
 
