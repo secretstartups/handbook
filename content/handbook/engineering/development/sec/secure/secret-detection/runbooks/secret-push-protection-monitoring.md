@@ -570,7 +570,27 @@ This panel displays average number of requests per second (RPS) made to the `/in
 
 _Panel Information_
 
-max by(component) (max_over_time(gitlab_component_saturation:ratio{env="gprd", environment="gprd", stage="main", type="internal-api", component="ruby_thread_contention"}[$__interval]))
+* Metrics:
+  * `controller_action:gitlab_transaction_duration_seconds_count:rate1m`
+* Label Filters:
+  * `action` = `POST /api/internal/allowed`
+  * `controller` = `Grape`
+  * `environment` = `gprd`
+  * `stage` = `main`
+  * `type` = `internal-api`
+* Operations:
+  * Avg over time: `range | $__interval`
+  * Sum:
+    * Label: `controller`
+    * Label: `action`
+* Legends:
+  * `{{action}}`
+
+**[Internal API / Memory Saturation Rate](https://dashboards.gitlab.net/d/fdk7i56zibv28d/secret-push-protection-e28093-overview?orgId=1&viewPanel=42)**
+
+This panel displays the memory saturation rate for two components of the internal API, which are [Ruby VM](https://dashboards.gitlab.net/goto/ptHVRjsIR?orgId=1) and [Puma Workers](https://dashboards.gitlab.net/goto/dJXnRjyIR?orgId=1). This is helpful to understand if the memory consumption in Rails had increased to the point of saturation, which indicates a performance and a scalability issue and requires attention. Note: this panel isn't specific to `/internal/allowed` endpoint.
+
+_Panel Information_
 
 * Metrics:
   * `gitlab_component_saturation:ratio`
@@ -586,12 +606,6 @@ max by(component) (max_over_time(gitlab_component_saturation:ratio{env="gprd", e
     * Label: `component`
 * Legends:
   * Auto
-
-**[Internal API / Memory Saturation Rate](https://dashboards.gitlab.net/d/fdk7i56zibv28d/secret-push-protection-e28093-overview?orgId=1&viewPanel=42)**
-
-This panel displays the memory saturation rate for two components of the internal API, which are [Ruby VM](https://dashboards.gitlab.net/goto/ptHVRjsIR?orgId=1) and [Puma Workers](https://dashboards.gitlab.net/goto/dJXnRjyIR?orgId=1). This is helpful to understand if the memory consumption in Rails had increased to the point of saturation, which indicates a performance and a scalability issue and requires attention. Note: this panel isn't specific to `/internal/allowed` endpoint.
-
-_Panel Information_
 
 ### Where else to look for help?
 
