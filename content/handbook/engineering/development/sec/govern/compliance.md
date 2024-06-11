@@ -164,7 +164,7 @@ Our priorities should follow [overall guidance for Product](/handbook/product/pr
 
 - Engineering manager (EM): Posts a comment on the current planning issue on the first day of the week, to prompt team members to update.
   - Format: | NUMBER | EPIC | GOAL | [DRI](https://handbook.gitlab.com/handbook/people-group/directly-responsible-individuals/) |
-- Implementing team member: post a short update (1-2 sentences) on each item where you are the directly responsible individual (DRI). If there is nothig to report omit the item or use "see previous update"
+- Implementing team member: Posts a short update (1-2 sentences) in comment thread on each item where you are the directly responsible individual (DRI). The update should be in reference to the milestone goal set out during planning. If there is nothing to report omit the item or use "see previous update"
 
 Intention of this is to:
 
