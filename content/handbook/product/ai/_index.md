@@ -25,12 +25,12 @@ This page serves as a resource for team members looking for information about wo
 ## Special considerations for AI features
 
 * [AI ethics principles](/handbook/legal/ethics-compliance-program/ai-ethics-principles/#1-avoid-unfair-bias): Principles to guide our decision making as we continue to build AI features into GitLab and to ensure that these features properly embody our values.
-* [AI data usage and privacy](https://docs.gitlab.com/ee/user/ai_features.html#data-usage): Public facing docs about how we use and protect data.
+* [AI data usage and privacy](https://docs.gitlab.com/ee/user/gitlab_duo/data_usage.html): Public facing docs about how we use and protect data.
 
 ## Engineering AI features
 
 * [Development process AI features](https://docs.gitlab.com/ee/development/ai_features/index.html)
-* [List of language models](https://docs.gitlab.com/ee/user/ai_features.html#language-models): All the models we are using to power features.
+* [List of language models](https://docs.gitlab.com/ee/user/gitlab_duo/index.html): All the models we are using to power features.
 * [Process for choosing or switching AI vendors](/handbook/product/ai/continuity-plan/)
 
 ## Support engineering AI features
@@ -40,5 +40,5 @@ This page serves as a resource for team members looking for information about wo
 ## Current AI features and teams
 
 * [List of AI features](/handbook/engineering/development/data-science/ai-powered/#features): Current AI features in developement, the team that owns them and whether they are integrated into Duo Chat.
-* [AI features by tier](https://docs.gitlab.com/ee/user/ai_features.html): All features that are available to use, and how to access them.
+* [AI features by tier](https://docs.gitlab.com/ee/user/gitlab_duo/index.html): All features that are available to use, and how to access them.
 * [AI teams](/handbook/engineering/development/data-science/ai-powered/#stage-groups)

@@ -46,16 +46,16 @@ After the initial assessment, we have a dynamic dataset pull from scheduled runs
 
 We are further iterating and documenting an evaluation-centric way of building GenAI features. This is mainly for the internal team, and the epic to track this can be found here.
 
-Our current customers include GitLab [AI-powered Duo feature teams:](https://docs.gitlab.com/ee/user/ai_features.html)
+Our current customers include GitLab [AI-powered Duo feature teams:](https://docs.gitlab.com/ee/user/gitlab_duo/index.html)
 
 **The immediate customers include:**
 
 1. [AI Powered: Duo-Chat team](https://about.gitlab.com/direction/ai-powered/duo_chat/)
 2. [Create: Code Creation team](https://about.gitlab.com/direction/create/code_creation/)
 3. [Govern: Threat Insights `AI Vulnerability Management` team](https://about.gitlab.com/direction/govern/threat_insights/vulnerability_management/)
-4. [Root Cause Analysis](https://docs.gitlab.com/ee/user/ai_features.html#root-cause-analysis)
+4. [Root Cause Analysis](https://docs.gitlab.com/ee/user/gitlab_duo/index.html#root-cause-analysis)
 5. [RAG Evaluation](https://handbook.gitlab.com/handbook/engineering/infrastructure/core-platform/data_stores/search/)
-6. [Issue Summarization](https://docs.gitlab.com/ee/user/ai_features.html#issue-description-generation)
+6. [Issue Summarization](https://docs.gitlab.com/ee/user/gitlab_duo/index.html#issue-description-generation)
 7. [AI Powered: Group Custom Models](https://about.gitlab.com/direction/ai-powered/custom_models/)
 
 ## 🧪 Top FY25 Priorities

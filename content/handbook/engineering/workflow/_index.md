@@ -183,7 +183,7 @@ When an incident is attributed to a group, a notification will be sent to the tr
 
 #### Pro-tips for Triage DRI
 
-1. For an initial assessment of what might have contributed to the failure, we can try the experimental AI-assisted [root cause analysis](https://docs.gitlab.com/ee/user/ai_features.html#root-cause-analysis) feature by clicking the "Root cause analysis" button on the failed job page.
+1. For an initial assessment of what might have contributed to the failure, we can try the experimental AI-assisted [root cause analysis](https://docs.gitlab.com/ee/user/gitlab_duo/index.html#root-cause-analysis) feature by clicking the "Root cause analysis" button on the failed job page.
 2. To confirm flakiness, you can use the `@gitlab-bot retry_job <job_id>` or the `@gitlab-bot retry_pipeline <pipeline_id>` command to retry the failed job(s), even if you are not a project maintainer.
 
    - **Note**, The `retry_job` command can fail for the following reasons:

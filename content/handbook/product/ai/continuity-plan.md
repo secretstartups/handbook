@@ -48,7 +48,7 @@ When a model is validated, a recommendation is made to the [AI Framework group](
 
 GitLab has developed an [AI abstraction layer](https://docs.gitlab.com/ee/development/ai_architecture.html#saas-based-ai-abstraction-layer), which GitLab uses to switch the underlying models that power our AI features. This abstraction layer helps reduce the technical complexity of changes, increases the speed at which GitLab can react to changes or failures from AI vendors, and standardizes the way GitLab Rails application interacts with AI models. The AI Abstraction layer also provides centralized telemetry and monitoring to help ensure that all AI vendors meet the production needs of GitLab AI functionality.
 
-When GitLab identifies the need to switch an AI model powering GitLab’s AI functionality, assuming the model is from an existing AI vendor and there is no other material change in the processing, no notification of change is triggered to customers. However, any [relevant documentation](https://docs.gitlab.com/ee/user/ai_features.html#language-models) will be updated to reflect the AI model change as part of our Transparency policy with AI functionality.
+When GitLab identifies the need to switch an AI model powering GitLab’s AI functionality, assuming the model is from an existing AI vendor and there is no other material change in the processing, no notification of change is triggered to customers. However, any [relevant documentation](https://docs.gitlab.com/ee/user/gitlab_duo/index.html) will be updated to reflect the AI model change as part of our Transparency policy with AI functionality.
 
 If the model is from a new AI vendor, the Process to Add AI Vendors (described above) is triggered.
 

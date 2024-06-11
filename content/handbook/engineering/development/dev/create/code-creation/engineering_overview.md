@@ -133,9 +133,9 @@ Existing Repository X Ray reports are included into code generation requests as 
 ## Code Tasks
 
 A user can also use one of the predefined chat commands to suggest changes in the selected code.
-We currently support [refactoring](https://docs.gitlab.com/ee/user/gitlab_duo_chat.html#refactor-code-in-the-ide),
-[explaining code](https://docs.gitlab.com/ee/user/gitlab_duo_chat.html#explain-code-in-the-ide),
-and [writing tests](https://docs.gitlab.com/ee/user/gitlab_duo_chat.html#write-tests-in-the-ide).
+We currently support [refactoring](https://docs.gitlab.com/ee/user/gitlab_duo_chat/examples.html#refactor-code-in-the-ide),
+[explaining code](https://docs.gitlab.com/ee/user/gitlab_duo_chat/examples.html#explain-code-in-the-ide),
+and [writing tests](https://docs.gitlab.com/ee/user/gitlab_duo_chat/examples.html#write-tests-in-the-ide).
 These commands can be used in Duo Chat and also its response is displayed in Duo Chat window.
 
 ```mermaid
