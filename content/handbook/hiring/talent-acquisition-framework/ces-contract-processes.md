@@ -217,6 +217,20 @@ The hiring manager or PBP should provide confirmation of the new start date via 
    - In the "Make a Note" section in Greenhouse, state the old start date and the new state date, and tag the person on FP&A (typically the second approver) who approved the offer.
    - Save
 
+### How to Update a Start Date After a French contract has been signed
+
+   Please follow the normal start date change [process](https://handbook.gitlab.com/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#how-to-update-a-start-date-after-the-contract-is-signed), thereafter, please follow the following steps:
+
+   1. Make a copy of this Start Date Amendment [letter](https://docs.google.com/document/d/1qpxTi6nPrT4KXDi87tDAWm49D9NZNvTS/edit)
+   1. Edit all the highlighted details and save the document on your desktop
+   1. In Docusign, create a new envelope and set the signing order as follows:
+      - 1 - GitLab France Signatory (sign)
+      - 2 - The candidate (sign)
+      - 3 - Alessio Spaggiari (copy)
+   1. Use the TextExpander ‘Francesd’ in the body of the email in Docusign
+   1. Request the signatory in the contracts Slack Channel `#contracts-to-sign` to sign the letter
+   1. Once the document has been signed, load it onto the candidate's profile in WorkDay
+
 ### How to Void a Contract Before a Candidate Signs
 
 In rare cases, we may rescind our offer before a candidate signs the contract. Work with the Recruiter, Hiring Manager, People Business Partner, VP of Talent Acquisition, and Contract Employment Counsel on ensuring uniform communication. Once the candidate has been informed verbally and via email by the talent acquisition team, follow these steps:
