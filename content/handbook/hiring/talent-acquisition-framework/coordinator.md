@@ -60,13 +60,13 @@ No action is needed by the CES team on this step. For additional information:
 
 #### Technical Interview Scheduling
 
-Certain positions require technical interviews (i.e. Ruby on Rails, Golang, Frontend, etc) where candidates are asked to demonstrate their knowledge and skills. Technical interview requests can be identified within the schedule request ticket as recruiters will utilize the following format: "Technical Interview, type of interview - 90 minutes".
+Certain positions require technical interviews (i.e. Ruby on Rails, Golang, Frontend, etc) where candidates are asked to demonstrate their knowledge and skills. Technical interview requests can be identified within the schedule request ticket as recruiters will utilize the following format: “Technical interview, level & coding language pool - 90 mins”.
 
 **Important to Note:**
 
 - These interviews are 90 minutes in duration
 - Candidates must submit a GitLab username *before* CES can schedule their interview
-- Interviewers and candidates need time to prepare prior to the interview, therefore interviews will be scheduled 4-5 business days out as the merge request will be sent by the interviewer 2-3 business days out.
+- Interviewers and candidates need time to prepare prior to the interview, therefore interviews will be scheduled 3.5-4  business days out as the merge request will be sent by the interviewer 3 working days (or 72 hours) before the interview.
 - Interviewers must be the same job grade or above to the candidate.  An interviewer can not interview a candidate for a higher job grade than theirs.
 
 To schedule a technical interview, CES should follow the process outlined below:
@@ -77,10 +77,16 @@ To schedule a technical interview, CES should follow the process outlined below:
   - CES will immediately receive the scheduling request from the recruiter, and;
   - The completed GitLab Username form. This will only come into the service desk once the candidate replies to the email, and the username will automatically be added to the Details tab of the candidate's profile under Details > Other. CES should check that the GL username is valid and ensure that the GL username is in a URL format.
 - Once CES has received and confirmed that the candidate’s GL username is valid, the CES team member can proceed with scheduling the interview in Prelude. Prelude processes can be found [here]({{< ref "prelude" >}}).
-  - Note: CES has specific “pools” of interviewers to use in Prelude when scheduling technical interviews. Unless advised otherwise by the recruiter, please use “ruby on rails”, “frontend” and “golang” pools when selecting an interviewer for these specific interviews.
+  - Note: when you send the interview invite to the interviewer, select the template ‘Technical Interview with MR’.
 - CES will then open the Guide extension in Greenhouse
   - Under Guide Process click Team Interview. Then click the interview you just scheduled. You will see a section to “add a description”. CES will insert the appropriate text expander snippet here. This provides the candidate with additional information about what they can expect for their technical interview.
 - CES will proceed with sending the Guide. Guide processes can be found [here](/handbook/hiring/guide).
+
+**No Work Submitted on the MR 24 hours Before Interview?**
+
+- If the candidate has not submitted any work on the MR 24 hours before the scheduled interview, the interviewer will notify the CES team.
+- The CES team member will cancel the interview, and email the candidate the 'Email to candidate - MR Not submitted' template in Greenhouse. CES will also leave a note on the candidate's Greenhouse profile notifying the recruiter.
+- CES will not reschedule the interview until they have received direction from the recruiter.
 
 #### Executive Interview Scheduling
 
