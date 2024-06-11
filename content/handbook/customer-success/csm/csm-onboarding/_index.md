@@ -27,7 +27,7 @@ Alternatively once you are active on [Slack](/handbook/communication/chat), whic
 
 ## 30-60-90 Day Program
 
-As a task in your onboarding issue, you will directed to our learning platform, Level up, to enroll in a CSM onboarding pathway based on your respective CSM Segment. Learning modules in this course provide guidance as to where you can find the processes & tools needed during your first months at GitLab.  
+As a task in your onboarding issue, you will directed to our learning platform, Level up, to enroll in a CSM onboarding pathway based on your respective CSM Segment. Learning modules in this course provide guidance as to where you can find the processes & tools needed during your first months at GitLab.
 
 ## Meeting shadowing
 
@@ -117,7 +117,7 @@ Collection of initial set of key product links, which will help in the first 4-6
   - [**Upgrade & Update of GitLab**](https://docs.gitlab.com/ee/update/)
     - [**Upgrade Path**](https://gitlab-com.gitlab.io/support/toolbox/upgrade-path/)
 - **Key functionality of GitLab**
-  - [**AI**](https://docs.gitlab.com/ee/user/ai_features.html)
+  - [**AI**](https://docs.gitlab.com/ee/user/gitlab_duo/index.html)
   - [**CI / CD**](https://docs.gitlab.com/ee/ci/)
   - [**SCM**](https://docs.gitlab.com/ee/user/get_started/get_started_managing_code.html)
 - **GitLab Product**
@@ -128,8 +128,8 @@ Collection of initial set of key product links, which will help in the first 4-6
 
 ## GitLab Certifications
 
-At the moment (Feb. 2023) there are 6 [GitLab Technical Certifications - Self-Paced Options](/services/education/gitlab-technical-certification-self-paced/). All of those are relevant and great learning material for CSMs at GitLab.  
-The [GitLab Certified DevOps Professional Pathway](https://levelup.gitlab.com/courses/gitlab-certified-devops-professional-bundle) includes the GitLab Certified [Git Associate](https://levelup.gitlab.com/courses/gitlab-certified-associate), [CI/CD Associate](https://levelup.gitlab.com/courses/gitlab-ci-cd-specialist-self-paced-bundle), [Project Management Associate](https://levelup.gitlab.com/courses/gitlab-certified-project-management-specialist-bundle) and [Security Specialist](https://levelup.gitlab.com/courses/gitlab-certified-security-specialist).  
+At the moment (Feb. 2023) there are 6 [GitLab Technical Certifications - Self-Paced Options](/services/education/gitlab-technical-certification-self-paced/). All of those are relevant and great learning material for CSMs at GitLab.
+The [GitLab Certified DevOps Professional Pathway](https://levelup.gitlab.com/courses/gitlab-certified-devops-professional-bundle) includes the GitLab Certified [Git Associate](https://levelup.gitlab.com/courses/gitlab-certified-associate), [CI/CD Associate](https://levelup.gitlab.com/courses/gitlab-ci-cd-specialist-self-paced-bundle), [Project Management Associate](https://levelup.gitlab.com/courses/gitlab-certified-project-management-specialist-bundle) and [Security Specialist](https://levelup.gitlab.com/courses/gitlab-certified-security-specialist).
 So if you are planing on doing **all 4** of those, start directly with the **DevOps Professional**.
 
 ## GitLab Webinars
