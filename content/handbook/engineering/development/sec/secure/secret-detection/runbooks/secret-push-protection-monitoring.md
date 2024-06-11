@@ -145,7 +145,7 @@ _Panel Information_
   * `stage` = `main`
   * `type` = `git`
 * Operations:
-  * Average over Time: `range | $__interval`
+  * Avg over time: `range | $__interval`
 * Legend:
   * RPS
 
@@ -290,7 +290,7 @@ This panel displays average number of requests per second (RPS) made to `gitlab-
   * `stage` = `main`
   * `type` = `git`
 * Operations:
-  * Average over Time: `range | $__interval`
+  * Avg over time: `range | $__interval`
 * Legend:
   * Error %
 
@@ -407,7 +407,7 @@ This panel displays average number of requests per second (RPS) made to `workhor
   * `stage` = `main`
   * `type` = `git`
 * Operations:
-  * Average over Time: `range | $__interval`
+  * Avg over time: `range | $__interval`
 * Legend:
   * Error %
 
@@ -531,7 +531,67 @@ _Panel Information_
 
 #### Rails
 
-_Placeholder, will be added in an upcoming iteration._
+This section monitors the stability of the [`/internal/allowed` endpoint](https://docs.gitlab.com/ee/development/internal_api/internal_api_allowed.html) which is a focal point in the feature's journey to protect against leaked secrets in a `git` push. The endpoint is part of GitLab's [Internal API](https://docs.gitlab.com/ee/development/internal_api/), and is responsible for assessing if a user has permission to perform certain operations on the repository.
+
+The section can be used to ensure there are no performance degradations related to the `/internal/allowed` endpoint when changes in a certain `git` push are scanned for secrets.
+
+**[Internal API / Request Latency](https://dashboards.gitlab.net/d/fdk7i56zibv28d/secret-push-protection-e28093-overview?orgId=1&viewPanel=40)**
+
+This panel displays the average, p95, p99, and mean latencies for requests made to the `/internal/allowed` endpoint over time. The panel can be used to monitor request latency and understand if there's a performance or scalability issue with that specific endpoint. Use the link for more detailed overview of this metric.
+
+_Panel Information_
+
+* Metrics:
+  * `controller_action:gitlab_transaction_duration_seconds_sum:rate5m`
+  * `controller_action:gitlab_transaction_duration_seconds:p95`
+  * `controller_action:gitlab_transaction_duration_seconds:p99`
+  * `controller_action:gitlab_transaction_duration_seconds_sum:rate1m`
+  * `controller_action:gitlab_transaction_duration_seconds_count:rate1m`
+* Label Filters:
+  * `action` = `POST /api/internal/allowed`
+  * `controller` = `Grape`
+  * `environment` = `gprd`
+  * `stage` = `main`
+  * `type` = `internal-api`
+* Operations:
+  * Avg over time: `range | $__interval`
+  * Avg:
+    * Label: `controller`
+    * Label: `action`
+* Legends:
+  * `{{action}} – avg`
+  * `{{action}} – p95`
+  * `{{action}} – p99`
+  * `{{action}} – mean`
+
+**[Internal API / RPS (Requests Per Second)](https://dashboards.gitlab.net/d/fdk7i56zibv28d/secret-push-protection-e28093-overview?orgId=1&viewPanel=41)**
+
+This panel displays average number of requests per second (RPS) made to the `/internal/allowed` endpoint over time. The panel can be used to monitor request rates and understand if there's a performance or scalability issue with that specific endpoint. Use the link for more detailed overview of this metric.
+
+_Panel Information_
+
+max by(component) (max_over_time(gitlab_component_saturation:ratio{env="gprd", environment="gprd", stage="main", type="internal-api", component="ruby_thread_contention"}[$__interval]))
+
+* Metrics:
+  * `gitlab_component_saturation:ratio`
+* Label Filters:
+  * `env` = `grpd`
+  * `environemnt` = `gprd`
+  * `stage` = `main`
+  * `type` = `internal-api`
+  * `component` = `ruby_thread_contention` | `puma_workers`
+* Operations:
+  * Max over time: `range | $__interval`
+  * Max:
+    * Label: `component`
+* Legends:
+  * Auto
+
+**[Internal API / Memory Saturation Rate](https://dashboards.gitlab.net/d/fdk7i56zibv28d/secret-push-protection-e28093-overview?orgId=1&viewPanel=42)**
+
+This panel displays the memory saturation rate for two components of the internal API, which are [Ruby VM](https://dashboards.gitlab.net/goto/ptHVRjsIR?orgId=1) and [Puma Workers](https://dashboards.gitlab.net/goto/dJXnRjyIR?orgId=1). This is helpful to understand if the memory consumption in Rails had increased to the point of saturation, which indicates a performance and a scalability issue and requires attention. Note: this panel isn't specific to `/internal/allowed` endpoint.
+
+_Panel Information_
 
 ### Where else to look for help?
 
