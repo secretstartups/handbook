@@ -51,3 +51,7 @@ I am extremely data-driven. While not beholden to it, I consult and leverage dat
 I'm a pretty informal communicator who values responsiveness, and you can expect a speedy reply from me if I am not otherwise occupied. The more detailed you can be in your communication, the better. Based on the scope of the topic, I'm always open to Slack, video huddle, scheduled Zoom call, or Salesforce Chatter. Feel free to book meetings with me over free slots on my calendar without needing to confirm if it will work, but please be mindful of my working hours. I have hard starts and stops for my kids.
 
 I am always looking to improve myself and my team and am always open to feedback. Please (a) be constructive and (b) consider the privacy of others when deciding to share feedback in a group setting or 1:1.
+
+### How Sales Development Contributes
+
+Our department helps GitLab deliver on overall business goals by initially qualifying prospective and existing customers and connecting them with Sales team members. We do this through articulating GitLab’s differentiated platform vision and value in our customer outreach, driving Security adoption by positioning Ultimate as a solution, and introducing new capabilities to the market such as Duo Pro.
