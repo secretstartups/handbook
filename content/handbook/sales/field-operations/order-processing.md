@@ -621,6 +621,37 @@ The quoting system will provide visibility into the correct programmatic partner
 
 ### Service Attach Quote Approval
 
+#### Required EDU Attach (All Segments/Geos)
+
+IF:
+
+1. **Opportunity Record Type** = `Standard`
+2. **Type** = `New Business` OR `Add-on`
+3. **Stamped Opp Owner User Geo** = `AMER`, `EMEA`, `PubSec`
+4. **Booked ARR** BETWEEN `50,000` AND `250,000`
+
+THEN:
+
+Require 1 AND 2 below
+
+1. Include at least qty 12 GitLab Certification Exam Voucher
+2. Include qty 1 Private Instructor Led Trainings.
+
+#### Required EDU Attach (Commercial Segment)
+
+IF:
+
+1. **User Segment** = `Mid-Market`
+2. **Stamped Opp Owner User Geo** = `AMER`, `EMEA`, `PubSec`
+3. **Booked ARR** BETWEEN `20,000` AND `50,000`
+
+THEN:
+
+Require 1 OR 2 below
+
+1. Include at least qty 12 GitLab Certification Exam Voucher
+2. Include qty 1 Private Instructor Led Trainings.
+
 #### Enterprise Service Attach Opportunity Criteria (All Products)
 
 IF:
