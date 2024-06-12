@@ -76,6 +76,12 @@ As part of your SDR responsibilities, you are expected to perform due diligence 
 1. BDRs receiving leads not associated with `Actively Working` accounts must assign back to SDR team or chatter mktgops support.
 1. Qualified leads associated with “Actively Working” accounts are routed to BDR assigned to the Actively Working Account.
 
+#### Telco and Finserv Routing
+
+For leads that connect to companies that operate in the Financial Services (AMER only) and Telecommunications (EMEA only) industries. We have a seperate routing process that supercedes all of our current [Rules of Engagement](https://handbook.gitlab.com/handbook/marketing/sales-development/roe-kpis-faq/#rules-of-engagement-roe).
+
+Only named TELCO/FinServe accounts are rolling up to the TELCO/FinServe territories. If a new account is a subsidiary of an existing carved company, it will need to be assigned to the AE owning the ultimate account. If it is a totally separate entity then it can be allocated to the regional AE. If a lead comes in that is related to a TELCO/FinServe account, it must be assigned to the BDR assigned on the account.
+
 ### Company Address Based Routing Information
 
 In **[this video](https://www.youtube.com/watch?v=QT-oOceFU6k&ab_channel=GitLabUnfiltered)**, a member of the Marketing Ops team goes over the Company address fields and how they are used for Accounting Routing and Opp assignment.
