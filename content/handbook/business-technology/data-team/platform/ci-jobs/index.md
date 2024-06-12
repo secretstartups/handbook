@@ -112,16 +112,15 @@ Run this if you want to test a new sheetload load. This jobs runs against the cl
 This pipeline needs to be executed when doing changes to any of the below manifest files present in path `analytics/extract/postgres_pipeline/manifests`.
 
 - el_saas_customers_scd_db_manifest.yaml
-- el_saas_gitlab_com_ci_db_manifest.yaml
-- el_saas_gitlab_com_ci_scd_db_manifest.yaml
-- el_saas_gitlab_com_db_manifest.yaml
-- el_saas_gitlab_com_scd_db_manifest.yaml
+- el_gitlab_com_db_manifest.yaml
+- el_gitlab_com_scd_db_manifest.yaml
 
 This pipeline requires.
 
 1. Clone of `TAP_POSTGRES` schema(Mandatory): The `TAP_POSTGRES` schema can be cloned by using CI JOB `clone_raw_postgres_pipeline` which is part of `❄️ Snowflake`.
-2. Variable `MANIFEST_NAME`(Mandatory): The value is manifest yaml filename except postfix `_db_manifest.yaml`, For example if modified file is `el_gitlab_com_ci_db_manifest.yaml` the variable passed will be `MANIFEST_NAME`=`el_saas_gitlab_com_ci`.
-3. Variable `TASK_INSTANCE`(Optional): This do not apply to any of the incremental table. It is only required to be passed for table listed in the SCD manifest file for who has `advanced_metadata` flag value set to `true`. For example for table `bulk_import_entities` in manifest file `el_saas_gitlab_com_scd_db_manifest.yaml`. We need to pass this variable `TASK_INSTANCE`. For testing purpose this can be any unique identifiable value.
+2. Variable `MANIFEST_NAME`(Mandatory): The value is manifest yaml filename except postfix `_db_manifest.yaml`, For example if modified file is `el_gitlab_com_db_manifest.yaml` the variable passed will be `MANIFEST_NAME`=`el_gitlab_com`.
+3. Variable `DATABASE_TYPE`(Mandatory): The value of the database type(ci or main). For example if the target table for modification is from `ci` database, the variable passed will be `DATABASE_TYPE`=`ci`.
+4. Variable `TASK_INSTANCE`(Optional): This do not apply to any of the incremental table. It is only required to be passed for table listed in the SCD manifest file for who has `advanced_metadata` flag value set to `true`. For example for table `bulk_import_entities` in manifest file `el_gitlab_com_scd_db_manifest.yaml`. We need to pass this variable `TASK_INSTANCE`. For testing purpose this can be any unique identifiable value.
 
 #### `gitlab_ops_pgp_test`
 
@@ -136,7 +135,8 @@ This pipeline requires.
 
 1. Clone of `TAP_POSTGRES` schema(Mandatory): The `TAP_POSTGRES` schema can be cloned by using CI JOB `clone_raw_postgres_pipeline` which is part of `❄️ Snowflake`.
 2. Variable `MANIFEST_NAME`(Mandatory): The value is manifest yaml filename except postfix `_db_manifest.yaml`, For example if modified file is `el_gitlab_ops_db_manifest.yaml` the variable passed will be `MANIFEST_NAME`=`el_gitlab_ops`.
-3. Variable `TASK_INSTANCE`(Optional): This do not apply to any of the incremental table. It is only required to be passed for table listed in the SCD manifest file for who has `advanced_metadata` flag value set to `true`. For example for table `ci_builds` in manifest file `el_gitlab_ops_scd_db_manifest.yaml`. We need to pass this variable `TASK_INSTANCE`. For testing purpose this can be any unique identifiable value.
+3. Variable `DATABASE_TYPE`(Mandatory): The value of the database type(ops). For example if the modified table was of `ops` database, the variable passed will be `DATABASE_TYPE`=`ops`.
+4. Variable `TASK_INSTANCE`(Optional): This do not apply to any of the incremental table. It is only required to be passed for table listed in the SCD manifest file for who has `advanced_metadata` flag value set to `true`. For example for table `ci_builds` in manifest file `el_gitlab_ops_scd_db_manifest.yaml`. We need to pass this variable `TASK_INSTANCE`. For testing purpose this can be any unique identifiable value.
 
 ### ⚙️ dbt Run
 
