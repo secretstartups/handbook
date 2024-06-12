@@ -240,7 +240,7 @@ FP&A tracks budget impact by Department/Division twice per year.
 
 ### Promotion Budget
 
-Promotion budget is held at the division leader level, and optionally scaled down to department heads twice per year depending on department size. Decision to scale the budget down is at the division leader's discretion.
+Promotion budget is held at the division leader level and is scaled down to the director and above level for planning in Workday.
 
 Please review the [Compensation Program Budget]({{< ref "compensation-review-cycle#compensation-program-budget" >}}) to understand how the promotion budget is allocated and the process to review potential tradeoffs if divisions/departments are over/under budget for any given quarter.
 
