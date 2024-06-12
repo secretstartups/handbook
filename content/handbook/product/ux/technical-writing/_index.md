@@ -16,7 +16,7 @@ Anyone can contribute to the documentation. Follow our [GitLab documentation gui
 
 - A group of [Technical Writers](/job-families/product/technical-writer/).
 - Two [Technical Writing Managers](/job-families/product/technical-writing-manager/).
-- A [Senior Fullstack Engineer, Technical Writing](/job-families/product/ux-fullstack-engineer/).
+- Two [Fullstack Engineers, Technical Writing](/job-families/product/ux-fullstack-engineer/).
 - A [Technical Writing Director](/job-families/product/technical-writing-manager/#director-technical-writing).
 
 ## Contact Us
