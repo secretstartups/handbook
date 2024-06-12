@@ -1,11 +1,7 @@
 ---
 title: "Product Design"
-description: "We support the business of GitLab by becoming experts in our stage group, educating ourselves about the entire product, and staying engaged with user and business goals"
+description: "We support the business of GitLab by becoming experts in our stage group, educating ourselves about the entire product, and staying engaged with user and business goals. We partner closely with our stable counterparts in Product Management and Development."
 ---
-
-## Product Design at GitLab
-
-We support the business of GitLab by becoming experts in our stage group, educating ourselves about the entire product, and staying engaged with user and business goals. We partner closely with our stable counterparts in Product Management and Development.
 
 ### Process and DRI
 
