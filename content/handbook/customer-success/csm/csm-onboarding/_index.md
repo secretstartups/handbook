@@ -128,9 +128,9 @@ Collection of initial set of key product links, which will help in the first 4-6
 
 ## GitLab Certifications
 
-At the moment (Feb. 2023) there are 6 [GitLab Technical Certifications - Self-Paced Options](/services/education/gitlab-technical-certification-self-paced/). All of those are relevant and great learning material for CSMs at GitLab.
-The [GitLab Certified DevOps Professional Pathway](https://levelup.gitlab.com/courses/gitlab-certified-devops-professional-bundle) includes the GitLab Certified [Git Associate](https://levelup.gitlab.com/courses/gitlab-certified-associate), [CI/CD Associate](https://levelup.gitlab.com/courses/gitlab-ci-cd-specialist-self-paced-bundle), [Project Management Associate](https://levelup.gitlab.com/courses/gitlab-certified-project-management-specialist-bundle) and [Security Specialist](https://levelup.gitlab.com/courses/gitlab-certified-security-specialist).
-So if you are planing on doing **all 4** of those, start directly with the **DevOps Professional**.
+At the moment (Feb. 2023) there are 6 [GitLab Technical Certifications - Self-Paced Options](https://handbook.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-technical-certifications/). All of those are relevant and great learning material for CSMs at GitLab.
+The [Customer Success Manager Onboarding Pathway](https://university.gitlab.com/learn/learning-path/technical-account-manager-tam-onboarding) includes the GitLab Certified [Git Associate](https://university.gitlab.com/learning-paths/certified-git-associate-learning-path), [CI/CD Associate](https://university.gitlab.com/learning-paths/certified-ci-cd-specialist-learning-path), [Project Management Associate](https://university.gitlab.com/learning-paths/gitlab-project-management-associate-learning-path) and [Security Specialist](https://university.gitlab.com/learning-paths/certified-security-specialist-learning-path) learning paths.
+So if you are planning on doing **all 4** of those, start directly with the **CSM Onboarding Pathway**.
 
 ## GitLab Webinars
 
