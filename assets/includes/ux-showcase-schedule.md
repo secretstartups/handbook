@@ -1,6 +1,5 @@
 | Date       | Host                 | Speaker 1              | Speaker 2              | Speaker 3              |
 |------------|----------------------|------------------------|------------------------|------------------------|
-| 2024-06-12 | Emily Sybrant        | Veethika Mishra        | Sascha Eggenberger     | Katie Macoy            |
 | 2024-06-26 | APAC                 | Libor Vanc             | Bonnie Tsang           |                        |
 | 2024-07-03 | Taurie Davis         | Tim Noah               | Austin Regnery         | Graham Bachelder       |
 | 2024-07-24 | Rayana Verissimo     | Mike Nichols           | Gina Doyle             |                        |
