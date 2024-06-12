@@ -58,7 +58,7 @@ and [Display if a user has Duo Pro seat assigned in Admin page](https://gitlab.c
 
 ## How to check if a customer has a valid GitLab Duo Pro trial
 
-When a customer follows [these steps to start a GitLab Duo Pro trial](https://docs.gitlab.com/ee/subscriptions/subscription-add-ons.html#start-gitlab-duo-pro-trial), they get a 30 day trial for a maximum of 50 seats by default.
+When a customer follows [these steps to start a GitLab Duo Pro trial](https://docs.gitlab.com/ee/subscriptions/subscription-add-ons.html#start-gitlab-duo-pro-trial), they get a 60 day trial for a maximum of 50 seats by default.
 
 ### Self-Managed Duo Pro trials
 
