@@ -44,13 +44,19 @@ GiveLab is GitLab’s Team Member Volunteer Program. The GiveLab Program lives u
 
 GitLab encourages team members to take part in volunteer initiatives that support their local communities, participate in virtual volunteer activities, and organize volunteer activities as part of team events and get togethers.
 
-Team members may self organize volunteer events at any point throughout the year. To submit a request for a team volunteer activity with a Registered Nonprofit Organization, please go to the [Philanthropic Requests epic](https://gitlab.com/groups/gitlab-com/-/epics/2145) and open a new issue using the [Volunteer_Support Template](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/new?issuable_template=volunteer_support).
+Team members may self organize volunteer events at any point throughout the year. To submit a request for a team volunteer activity with a Registered Nonprofit Organization that isn’t on the current [GiveLab Nonprofit Directory](https://docs.google.com/spreadsheets/d/1koFKQbKqm4jpKtZlteLDTPM3HYv20nffXaqRJ2C8YBA/edit?gid=0#gid=0), please go to the [Philanthropic Requests epic](https://gitlab.com/groups/gitlab-com/-/epics/2145) and open a new issue using the [Volunteer_Support Template](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/new?issuable_template=volunteer_support).
 
-Team members can also request support from the ESG Team to organize local or virtual volunteer opportunities on their behalf by reaching out to the ESG team in the #givelab slack channel.
+Team members can also request support from the ESG Team to organize local or virtual volunteer opportunities on their behalf by going to the [Philanthropic Requests epic](https://gitlab.com/groups/gitlab-com/-/epics/2145) and opening a new issue using the [Volunteer_Support Template](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/new?issuable_template=volunteer_support). Please write “yes” for the question, “Would you like the ESG team’s help organizing the volunteer activity?”
 
-All team members and volunteer activities must adhere to the [GitLab Philanthropy Policy](/handbook/legal/philanthropy-policy/).
+All team members and volunteer activities must adhere to the [GitLab Philanthropy Policy](/handbook/legal/philanthropy-policy/). Team members must follow GitLab’s paid time off (PTO) policy if volunteering during work hours and use the “public service/volunteer” option in Time Off by Deel.
 
 As with our unique ways of working, GitLab and its team members have identified and sought out opportunities for impact that speak not only to our [values](/handbook/values/) but also to our [all-remote](/handbook/company/culture/all-remote/guide/) nature. To review previous opportunities that team members participated in, visit the [historical activities page](/handbook/people-group/givelab-volunteer-initiatives/#gitlab-donation-drives).
+
+#### GiveLab Nonprofits
+
+We have created an internal [GiveLab Volunteer Directory](https://docs.google.com/spreadsheets/d/1koFKQbKqm4jpKtZlteLDTPM3HYv20nffXaqRJ2C8YBA/edit?usp=sharing) that features a list of vetted nonprofit organizations with available volunteer opportunities. Team members can search the document for virtual volunteer opportunities, opportunities to volunteer with [GitLab Foundation](https://www.gitlabfoundation.org/) grantees and search for local opportunities.
+
+We encourage all team members to contribute to our GiveLab Volunteer Directory. To recommend a nonprofit organization to add to the Directory, please open a [Volunteer Recommendation Issue](https://gitlab.com/gitlab-com/legal-and-compliance/-/blob/master/.gitlab/issue_templates/volunteer_recommendation.md).
 
 #### GiveLab Champions
 
