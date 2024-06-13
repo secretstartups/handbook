@@ -307,3 +307,15 @@ terms of customer experience.
 
 If this happens repeatedly to the same customer, consider reaching out to their
 Account Manager regarding it.
+
+#### Pipeline failed due to "Unable to create user"
+
+This reflects a Zendesk caching issue. It normally is a problem indicating that
+the user *was* created but the response from the creation task didn't render
+properly via the API. You can normally wait 5 or so minutes and then re-run the
+pipeline to resolve this problem. If you continue seeing issues:
+
+- Create the user manually
+- Associate the user to the org manually
+- Wait 5 minutes
+- Run a new sync by triggering the webhook on the project
