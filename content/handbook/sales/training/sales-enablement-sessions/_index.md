@@ -13,12 +13,11 @@ To see what training is coming soon, view the [Field Enablement Spotlight issue 
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|
-| Jun 13 | GitLab 17 Launch  | Product Marketing |
 | Jun 20 | TBD |  |
-| Jun 27 | Business Value Services & Ecosystems | Field Enablement |
-| Jul 4 | TBD |  |
-| Jul 11 | TBD |  |
-| Jul 18 | *No session during the last week of the quarter* | N/A |
+| Jun 27 | GitLab 17 Launch - Marketing Enablement | Field Enablement |
+| Jul 3 | Leveraging Partners Throughout the Customer Journey | Partner Team  |
+| Jul 11 | Spekit - RealTime Enablement - Tool Launch | Spekit & RSOE Team |
+| Jul 18 | GTM Rev Play: GitLab Duo Enterprise| Marketing |
 | Jul 25 | *No session during the last week of the quarter* | N/A |
 
 ## Past Sessions
@@ -28,6 +27,7 @@ To see what training is coming soon, view the [Field Enablement Spotlight issue 
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2024-06-13 | **[Business Value Services & Ecosystems](https://drive.google.com/file/d/1Y1cm7tGc8_-Kx4av4ML2135AhWFpemVX/view?usp=drive_link)**  | Private |
 | 2024-05-30 | **[Partner e-marketplace](https://drive.google.com/file/d/13pJQu_gAIwtFDvvc-Xriq1g4huOZkaOb/view?usp=drive_link)** | Private |
 | 2024-05-23 | **[Winning with Analyst Relations](https://drive.google.com/file/d/13kyzyQ6CYMampDNCTkF5I6_CMA_G1Cbc/view?usp=drive_link)** | Private  |
 | 2024-05-16 | **[GitLab Ultimate vs. GitHub Advanced Security Comparison](https://drive.google.com/file/d/1G93ZjvcGL1UmBl9R5Rm-DqBq0wSamW8u/view?usp=drive_link)** | Private |
