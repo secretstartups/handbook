@@ -282,10 +282,14 @@
   icon: fa-solid fa-handshake
   url: /handbook/sales
   links:
+  - name: Alliances
+    url: /handbook/alliances
   - name: Commercial
     url: /handbook/sales/commercial
   - name: Customer Success
     url: /handbook/customer-success
+  - name: Customer Success Management
+    url: /handbook/customer-success/csm
   - name: Reseller Channels
     url: /handbook/resellers
   - name: Field Operations
@@ -306,10 +310,8 @@
       url: /handbook/sales/field-operations/sales-systems
   - name: Reporting
     url: /handbook/business-technology/#reporting
-  - name: Customer Success Management
-    url: /handbook/customer-success/csm
-  - name: Alliances
-    url: /handbook/alliances
+  - name: Solutions Architecture
+    url: /handbook/solutions-architects/
 - name: Finance
   icon: fa-solid fa-landmark
   url: /handbook/finance
