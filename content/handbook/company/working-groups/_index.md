@@ -221,7 +221,6 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [Government Support Offerings (Internal only)](https://internal.gitlab.com/handbook/company/internal-working-groups/govt-support-offerings/)
 1. [Issue Prioritization Framework]({{< ref "issue-prioritization-framework" >}})
 1. [Learning Experience]({{< ref "learning-experience" >}})
-1. [Lighthouse Metric Definitions]({{< ref "lighthouse-metric-definitions" >}})
 1. [Modern Applications Go-To-Market]({{< ref "modern-applications-gtm" >}})
 1. [Product Accessibility]({{< ref "product-accessibility" >}})
 1. [Revenue Globalization]({{< ref "globalization" >}})
@@ -313,6 +312,7 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [Usage Reporting](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/1)
 1. [User Engagement](https://gitlab.com/groups/gitlab-com/-/epics/1794)
 1. [Webpack (Frontend build tooling)]({{< ref "webpack" >}})
+1. [Lighthouse Metric Definitions]({{< ref "lighthouse-metric-definitions" >}})
 
 ## What were Top Cross-Functional Initiatives?
 
