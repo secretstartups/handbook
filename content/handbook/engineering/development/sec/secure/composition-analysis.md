@@ -78,6 +78,8 @@ The [rotation schedule](https://gitlab.com/groups/gitlab-org/secure/-/epics/2#sc
 
 Please keep track of the actions you're doing during your rotation and add notes in the corresponding issue (e.g. copying tools command executed locally, sharing relevant changes to projects and processes, etc.)
 
+At the end of the rotation, add the next engineers as Owners of [`@gitlab-org/secure/composition-analysis-dev/reaction-rotation`](https://gitlab.com/groups/gitlab-org/secure/composition-analysis-dev/reaction-rotation/-/group_members?with_inherited_permissions=exclude), and remove the current engineers. This group is used to tag the engineers on rotation without having to look-up the schedule.
+
 #### Responsibilities - Security
 
 1. Triage vulnerabilities reported on the projects we maintain and help resolving them depending on their priority. (See [Security vulnerabilities triaging process](#security-vulnerabilities-triaging-process))
