@@ -1534,6 +1534,14 @@ Here are some examples of feedback issues:
 - [Fonts](https://gitlab.com/gitlab-org/gitlab/-/issues/386205)
 - [`master` -> `main`](https://gitlab.com/gitlab-org/gitlab/-/issues/221164)
 
+##### Feedback issue considerations
+
+Feedback issues are intended to collect feedback from the wider community and users. In some cases, internal user will be posting on behalf of users and customers. As a result we need to consider the following:
+
+1. Feedback issues that are public cannot contain [SAFE](/handbook/legal/safe-framework/#what-is-safe) information
+1. A linked confidential issue for Field feedback can be used, if needed, to support the exchange of customer details and feedback
+1. Leverage [internal comments](https://docs.gitlab.com/ee/user/discussions/#add-an-internal-note) as needed if customer details are being shared
+
 #### Other Best Practice Considerations
 
 Consider the following to improve iteration:
