@@ -19,15 +19,15 @@ Given the close collaboration between the PS Project Management and PS Operation
    * This scoping issue this is where the PM's, TA's, and PSE's work to gather the initial project information, scoping breakdown, and estimated schedule
    * For [Consulting Blocks](#for-consulting-blocks-and-dedicated-engineer-projects) please see below
 1. Below you can follow the steps of the Scheduling Intake process. _Note: Before the PSOPs team can begin PM assignment The Engagement Management Team must ensure Steps 1-2 are considered_ [The full checklist](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/blob/master/.gitlab/issue_templates/SchedulingIntakeQuestions.md?ref_type=heads) is available within the Scheduling Intake Issue, found within the Customer Project Epic
-   * [Step 1: Customer Goal Summary - EM to provide](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/blob/master/.gitlab/issue_templates/SchedulingIntakeQuestions.md?ref_type=heads#step-1-customer-goal-summary---em-to-provide)
-   * [Step 2: EM/Sales defines the roles and personalities of all customer stakeholders](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/blob/master/.gitlab/issue_templates/SchedulingIntakeQuestions.md?ref_type=heads#step-2-emsales-defines-the-roles-and-personalities-of-all-customer-stakeholders)
-   * [Step 3: PSops works with PMO Manager on PM assignment](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/blob/master/.gitlab/issue_templates/SchedulingIntakeQuestions.md?ref_type=heads#step-3-psops-works-with-pmo-manager-on-pm-assignment)
-   * [Step 4: PM confirms information & PSops Schedules PSE](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/blob/master/.gitlab/issue_templates/SchedulingIntakeQuestions.md?ref_type=heads#step-4-pm-confirms-information--psops-schedules-pse)
-   * [Step 5: Introductions - EM/AE](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/blob/master/.gitlab/issue_templates/SchedulingIntakeQuestions.md?ref_type=heads#step-5-introductions---emae)
-   * [Step 6: Collaboration approach & Onboarding Gathered by PM](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/blob/master/.gitlab/issue_templates/SchedulingIntakeQuestions.md?ref_type=heads#step-6-collaboration-approach--onboarding-gathered-by-pm)
-   * [Step 7: Collaboration Space Preparation - PM](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/blob/master/.gitlab/issue_templates/SchedulingIntakeQuestions.md?ref_type=heads#step-7-collaboration-space-preparation---pm)
-   * [Step 8: Conduct Stakeholder Meeting - PM](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/blob/master/.gitlab/issue_templates/SchedulingIntakeQuestions.md?ref_type=heads#step-8-conduct-stakeholder-meeting---pm)
-   * [Step 9: Step 9: Conduct Kickoff & Forecast Updates - PM](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/blob/master/.gitlab/issue_templates/SchedulingIntakeQuestions.md?ref_type=heads#step-9-conduct-kickoff--forecast-updates---pm)
+   * Step 1: Customer Goal Summary - EM to provide
+   * Step 2: EM/Sales defines the roles and personalities of all customer stakeholders
+   * Step 3: PSops works with PMO Manager on PM assignment
+   * Step 4: PM confirms information & PSops Schedules PSE
+   * Step 5: Introductions - EM/AE
+   * Step 6: Collaboration approach & Onboarding Gathered by PM
+   * Step 7: Collaboration Space Preparation - PM
+   * Step 8: Conduct Stakeholder Meeting - PM
+   * Step 9: Step 9: Conduct Kickoff & Forecast Updates - PM
 
 #### Collaboration Space Guidelines
 
