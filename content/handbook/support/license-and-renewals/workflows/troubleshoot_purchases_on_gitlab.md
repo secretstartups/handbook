@@ -16,7 +16,7 @@ Many subscription and consumption purchases can be made through GitLab.com. At t
 Our most reported known issues are:
 
 1. [Blank lastname/surname field](https://gitlab.com/groups/gitlab-org/-/epics/5785)
-1. [3D Secure](https://en.wikipedia.org/wiki/3-D_Secure) credit-card authentication protocol is [only supported for purchases in GitLab.com](https://gitlab.com/gitlab-org/gitlab/-/issues/443490) and [not supported in the Customers Portal](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/9069).
+1. [3D Secure](https://en.wikipedia.org/wiki/3-D_Secure) credit-card authentication protocol [is supported](https://gitlab.com/groups/gitlab-org/-/epics/7714). There are, however, a few exceptions where the payment might fail. See [3D Secure Authentication 3DS](#3d-secure-authentication-3ds) for more information.
 1. [Email already taken](https://gitlab.com/gitlab-org/gitlab/-/issues/330608)
 
 We use an Issue to [document any issues](https://gitlab.com/gitlab-com/support/toolbox/console-training-wheels/-/issues/19) that might be a result of the workarounds described in this workflow.
@@ -46,7 +46,7 @@ Request the user to add a second name in their GitLab account profile as a tempo
 1. Scroll to the bottom and click on `Update profile settings` (Don't forget this)
 1. Retry the purchase
 
-### 3D Secure Authentication (3DS)
+### 3D Secure Authentication 3DS
 
 >
 > Transaction declined.generic_decline - Your card was declined
