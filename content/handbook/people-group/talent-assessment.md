@@ -774,7 +774,7 @@ Four scenarios exist in the context of our Talent Assessment:
 - Team member identified as Key Talent and SPOF
 - Team member identified as neither one
 
-To review the SPOF definition in more detail along with a few examples, please review our [Organizational Design](/handbook/people-group/organizational-design/) handbook page.
+To review the SPOF definition in more detail along with a few examples, please review our [Organizational Design](https://internal.gitlab.com/handbook/people-group/people-business-partners/organizational-design/) handbook page.
 
 ## Process To Determine Key Talent
 
