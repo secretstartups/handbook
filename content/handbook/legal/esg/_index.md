@@ -44,11 +44,28 @@ GiveLab is GitLab’s Team Member Volunteer Program. The GiveLab Program lives u
 
 GitLab encourages team members to take part in volunteer initiatives that support their local communities, participate in virtual volunteer activities, and organize volunteer activities as part of team events and get togethers.
 
-Team members may self organize volunteer events at any point throughout the year. To submit a request for a team volunteer activity with a Registered Nonprofit Organization that isn’t on the current [GiveLab Nonprofit Directory](https://docs.google.com/spreadsheets/d/1koFKQbKqm4jpKtZlteLDTPM3HYv20nffXaqRJ2C8YBA/edit?gid=0#gid=0), please go to the [Philanthropic Requests epic](https://gitlab.com/groups/gitlab-com/-/epics/2145) and open a new issue using the [Volunteer_Support Template](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/new?issuable_template=volunteer_support).
+Team members may self organize volunteer events at any point throughout the year. To submit a request for a team volunteer activity with a [Registered Nonprofit Organization](https://handbook.gitlab.com/handbook/legal/philanthropy-policy/#who-we-support) that isn’t on the current [GiveLab Nonprofit Directory](https://docs.google.com/spreadsheets/d/1koFKQbKqm4jpKtZlteLDTPM3HYv20nffXaqRJ2C8YBA/edit?gid=0#gid=0), please go to the [Philanthropic Requests epic](https://gitlab.com/groups/gitlab-com/-/epics/2145) and open a new issue using the [Volunteer_Support Template](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/new?issuable_template=volunteer_support).
 
 Team members can also request support from the ESG Team to organize local or virtual volunteer opportunities on their behalf by going to the [Philanthropic Requests epic](https://gitlab.com/groups/gitlab-com/-/epics/2145) and opening a new issue using the [Volunteer_Support Template](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/new?issuable_template=volunteer_support). Please write “yes” for the question, “Would you like the ESG team’s help organizing the volunteer activity?”
 
 All team members and volunteer activities must adhere to the [GitLab Philanthropy Policy](/handbook/legal/philanthropy-policy/). Team members must follow GitLab’s paid time off (PTO) policy if volunteering during work hours and use the “public service/volunteer” option in Time Off by Deel.
+
+If volunteering in person, team members may incur some expenses. All expenses should be submitted in Navan using the “GiveLab” classification. Please note that GitLab does not allow team members to travel to in-person volunteer events. All in-person volunteering should be local to the team member.
+
+As with all [company expenses](https://handbook.gitlab.com/handbook/finance/expenses/#1-policy), team members must be thoughtful in spending the company’s money and use best judgment to ensure that all expenses are deemed “ordinary and necessary.” Team members should follow all [team member expense responsibilities](https://handbook.gitlab.com/handbook/finance/expenses/#2-responsibilities).
+
+Expenses allowed for reimbursement (for in-person volunteer events):
+
+- Local travel only -  [mileage](https://handbook.gitlab.com/handbook/finance/expenses/#mileage), [train](https://handbook.gitlab.com/handbook/finance/expenses/#train), [taxi/rideshares](https://handbook.gitlab.com/handbook/finance/expenses/#transportationparking). Must follow and comply with the current limits of our Expense Policy. Code under their individual travel category and use the “GiveLab” classification in Navan
+- [Parking](https://handbook.gitlab.com/handbook/finance/expenses/#transportationparking) for the event.  Must follow and comply with the current limits of our Expense Policy.  Please use the “GiveLab” classification in Navan
+- [Meal](https://handbook.gitlab.com/handbook/finance/expenses/#meals-company-provided-while-traveling) during the event.  Must follow and comply with the current limits of our Expense Policy.  Code under Travel-Meals for Myself and use the “GiveLab” classification in Navan
+
+Expenses not allowed for reimbursement:
+
+- Any airfare, lodging, rental cars, coworking space, internet expenses are not allowed
+- Any supplies or items needed for the event
+- Donations to the nonprofit
+- Any expenses that are not mentioned as “allowed” above are not reimbursable and there will be no exceptions
 
 As with our unique ways of working, GitLab and its team members have identified and sought out opportunities for impact that speak not only to our [values](/handbook/values/) but also to our [all-remote](/handbook/company/culture/all-remote/guide/) nature. To review previous opportunities that team members participated in, visit the [historical activities page](/handbook/people-group/givelab-volunteer-initiatives/#gitlab-donation-drives).
 
