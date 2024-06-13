@@ -1280,10 +1280,10 @@ Once service is restored, go back to Slack.
 
 #### Zoom is down
 
-To use Slack calls:
+To use Slack Huddle:
 
 1. Navigate to the appropriate Slack channel or direct message.
-1. Use `/call` to trigger a call.
+1. Use `/huddle` to trigger a huddle, which supports both audio and video calls.
 1. You may need to give permissions if it's the first time you are using Slack calls.
 
 Once service is restored, go back to Zoom.
