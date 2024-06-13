@@ -26,7 +26,8 @@
     "no-duplicate-heading": { "siblings_only": true },
     "no-emphasis-as-heading": false,
     "no-inline-html": false,
-    "no-trailing-punctuation": { "punctuation": ".,;:!。，；：！？" }
+    "no-trailing-punctuation": { "punctuation": ".,;:!。，；：！？" },
+    "no-trailing-spaces": false
   },
   "ignores": [
     "content/handbook/company/culture/all-remote/remote-work-report-2020.md",
