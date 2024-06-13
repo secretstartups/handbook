@@ -47,7 +47,7 @@ These awards and lists recognize GitLab's unique culture and help us spread the 
 - [Best Places to Work, Builtin, 2024](https://builtin.com/awards/remote/2024/best-large-places-to-work?utm_source=bambu&utm_medium=social&utm_campaign=advocacy&blaid=5510421)
 - [Great Place to Work Certified, 2024-2025](https://www.greatplacetowork.com/certified-company/7013799)
 - [Best Workplaces in the Bay Area, Fortune, 2024](https://www.greatplacetowork.com/best-workplaces/bay-area/2024?mkt_tok=NTIwLUFPTy05ODIAAAGToW2DF6DFcjmJx7mX7Syzanz8QeeemZx_ylMFFyzwjw4hUz3QiiDbC29FO4FzTp8lEg3nb3Ksh9d-AhfrRKRT91u0o3ZYYgG_X3-uc58fXUxJsw)
-- Best Companies to Work for in IT, Software & Services, U.S. Newsweek, 2024-2025
+- [Best Companies to Work for in IT, Software & Services, U.S. Newsweek, 2024-2025](https://money.usnews.com/careers/companies/rankings/best-companies/it-software-and-services)
 
 </details>
 
