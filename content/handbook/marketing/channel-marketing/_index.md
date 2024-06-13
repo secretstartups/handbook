@@ -346,9 +346,6 @@ Partners have many different type of campaigns that fit into specific categories
   - Events
   - Webinar
   - [Partner Sponsored Events](/handbook/marketing/channel-marketing/#partner-sponsored-events)
-- [Trial Campaigns](/handbook/marketing/channel-marketing/#trials-from-partners)
-  - SaaS Free Trial
-  - Self-Managed Free Trial
 - [Partner Managed Campaigns](/handbook/marketing/channel-marketing/#partner-managed-campaigns)
   - Impartner Program
   - Partner Campaign
@@ -460,48 +457,6 @@ GitLab allows Channel Partners to sponsor our owned events. The leads acquired b
  > If `Vartopia Partner Account` is empty, leave blank (Do Nothing).
 
 **Step 2c**: Add Choice: If `Vartopia Partner Account` is equal to `Account ID of the Partner Sponsor (s)`, `Lead Acquisition Source` change value to `Partner Sponsored Event`
-
-### Trials from Partners
-
-#### Self-Managed Free Trial
-
-Partners can host our self-managed trial form. They will have a specific UTM parameter that is captured upon form submit that allows us to pass that lead directly to the partner. Each page must have the UTM `utm_partnerid` in the URL populated, otherwise we cannot pass to the partner. See the [UTM Paramter URL](/handbook/marketing/channel-marketing/#utm-parameter-url) section for more on how to set up the URL for partners.
-
-🖇️ Quick Links:
-
-- [Lead Routing](/handbook/marketing/marketing-operations/traction-lead-complete/#free-trial-campaign)
-- [Self-Managed Free Trial Page](https://page.gitlab.com/sm-free-trial-partner.html)
-- [Salesforce Campaign](https://gitlab.my.salesforce.com/7014M000001dqjG?srPos=1&srKp=701)
-
-Every partner trial campaign can utilize setup from `Partner - Trial - Self-managed` campaign, without creating a new Marketo or SFDC campaign.
-
-**Returning Trial Requesters**
-
-GitLab allows only one self-managed trial license key per user. In the case, when a lead returns and attempts to fill out the self-managed trial form from Partners, they will be prompt with a rejection email.
-
-As partner leads are [suspended](/handbook/marketing/channel-marketing/#email-management) from receiving marketing communications, the `Marketing Suspended` status is temporarily switch to `False` to send the email to the recipient.
-
-#### SaaS Free Trial
-
-Partners can use the SaaS free trial submission via GitLab.com. They will have a specific UTM parameter that is captured upon form submit that allows us to pass that lead directly to the partner. Below explains the backend for the activity.
-
-🖇️ Quick Links:
-
-- [Lead Routing](/handbook/marketing/marketing-operations/traction-lead-complete/#free-trial-campaign)
-- [SaaS Free Trial Page](https://gitlab.com/-/trial_registrations/new)
-- [Salesforce Campaign](https://gitlab.my.salesforce.com/7018X000001OHIF?srPos=0&srKp=701)
-
-Each page must have the UTMs in the URL :
-
-- `glm_source` and `glm_content` to pass to the partner
-- `utm_source` to track online touchpoints
-
-Example
-> https://gitlab.com/-/trial_registrations/new?glm_source=partner&utm_source=partner&glm_content=0014M00001pg2zmQAA
-
-**NOTE:** `glm source` and `utm_source` should always be equal to `partner` and `glm_content` will be equal to the `CRM Partner ID` associated with the partner account.
-
-There is no marketo program or SFDC campaign setup necessary to track SaaS trials. Every partner trial campaign can utilize setup from `Partner - Trial - SaaS` campaign, without creating a new Marketo or SFDC campaign.
 
 ### Partner Managed Campaigns
 
