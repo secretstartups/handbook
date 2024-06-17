@@ -27,12 +27,16 @@ Use this runbook for troubleshooting Production issues related to the
 
 ## Enabling/Disabling for Gitlab.com
 
-To **disable the feature across all of Gitlab.com**, disable pre-receive
-secret detection, [as described in the
-docs](https://docs.gitlab.com/ee/user/application_security/secret_detection/pre_receive/index.html#enable-secret-push-protection). This will require a change access request ([production example](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/17907)), as it requires administrator access.
+To **disable the feature across all of Gitlab.com**, there are two options.
 
-This will disable the feature for all Gitlab.com users and should be
-used in cases where the feature is causing significant performance degradition.
+The first option, and most likely quickest, is to disable the feature via ChatOps. Use the following command: `/chatops run feature set pre_receive_secret_detection_push_check false`
+
+The second option is to disable pre-receive
+secret detection, [as described in the
+docs](https://docs.gitlab.com/ee/user/application_security/secret_detection/secret_push_protection/index.html#enable-secret-push-protection). This will require a change access request ([production example](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/17907)), as it requires administrator access.
+
+Either of these options will disable the feature for all Gitlab.com users and should be
+used in cases where the feature is causing significant performance degradation.
 
 ## Other properties that can be enabled/disabled
 
