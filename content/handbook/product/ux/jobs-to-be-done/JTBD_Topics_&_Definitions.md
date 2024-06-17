@@ -46,7 +46,7 @@ The Job Performer is a critical concept referring to the individual undertaking 
 
 The Main Job serves as the central focus for innovation efforts. It represents a goal and has specific criteria. What is the Job Performer trying to get done in the selected Domain? Main Jobs should be timeless and as unchanging as possible. It should be expressed in functional terms, like a utilitarian goal. It’s an act that should be performed and have a clear end state… the “done” part of JTBD. It is not what your company needs to do to deliver a service. Always think in terms of the Job Performer’s perspective. The level of granularity for the Main Job can vary, depending on the innovation's purpose and feasibility.
 
-Main Jobs follow the Job Statement format: [verb] + [object] + [(optional) clarifier]
+Main Jobs follow the [Job Statement](https://handbook.gitlab.com/handbook/product/ux/jobs-to-be-done/jtbd_topics__definitions/#Job-Statements) format: [verb] + [object] + [(optional) clarifier]
 
 >💡 Main Jobs are mapped using a Job Map.
 
@@ -92,11 +92,11 @@ Related Jobs are often within the same or adjacent Domain. For example, A relate
 
 ![Job Map](JTBD_MainJob_Alt.png)
 
-### Main Job Statements
+### Job Statements
 
-The Main Job statement is a structured way to write clear and concise job statements that capture the essence of what the Job Performer is trying to accomplish no matter the level of the Job. The formula is:
+The Job statement is a structured way to write clear and concise job statements that capture the essence of what the Job Performer is trying to accomplish no matter the level of the Job. The formula is:
 
-[verb] + [object] + [(optional) clarifier]
+**[verb] + [object] + [clarifier _(optional)_]**
 
 - **Verb**: The action the Job Performer is taking to accomplish the job.
 - **Object**: The target or focus of the verb's action.
@@ -117,7 +117,7 @@ The key is to focus on the Job Performer's goal and desired outcome, rather than
 
 Job Stages should represent high-level job statements that describe the step or _stage_ the Job Performer is in during this process of achieving their Main Job. The complete set of Stages and their Job Steps form a Job Map.
 
-Job Stages follow the Job Statement form. Examples of Job Stage verbs include:
+Job Stages follow the [Job Statement](https://handbook.gitlab.com/handbook/product/ux/jobs-to-be-done/jtbd_topics__definitions/#Job-Statements) format. Examples of Job Stage _verbs_ include:
 
 - Define. Plan, Select, Determine
 - Locate, Gather, Access, Receive
@@ -134,7 +134,7 @@ Job Stages follow the Job Statement form. Examples of Job Stage verbs include:
 
 Job Steps are the small objectives a user must complete to accomplish the Stages and, therefore Main Job. These should be self-explanatory and easy to understand without much context. They are the sequential series of objectives a Job Performer must complete to accomplish the Stage. Each Job Step is high-level and can be broken out into it's own workflow if you were to zoom-in on it; they are not individual tasks. Avoid being too granular when writing Job Steps in order to keep them relevant to all performers executing the job.
 
-Job Steps follow the Job Statement format.
+Job Steps follow the [Job Statement](https://handbook.gitlab.com/handbook/product/ux/jobs-to-be-done/jtbd_topics__definitions/#Job-Statements) format.
 
 ## Job Differentiators
 
@@ -196,10 +196,10 @@ Customer requirements or desires that are adequately and satisfactorily addresse
 
 Key Characteristics of Properly Served Needs:
 
-1. High Satisfaction: Customers/users are generally satisfied with how their needs are being met. The existing products or services deliver the desired outcomes effectively and efficiently.
-2. Minimal Frustration: Current solutions cause little to no frustration or inconvenience. Users find them easy to use and reliable.
-3. Mature Solutions: The market has mature solutions that have evolved to address these needs well. These solutions are often refined through continuous improvement and user feedback.
-4. Low Demand for Change: Because these needs are well met, there is typically less demand for new or radically different solutions. Customers may be loyal to existing brands and products.
+1. **High Satisfaction:** Customers/users are generally satisfied with how their needs are being met. The existing products or services deliver the desired outcomes effectively and efficiently.
+2. **Minimal Frustration:** Current solutions cause little to no frustration or inconvenience. Users find them easy to use and reliable.
+3. **Mature Solutions:** The market has mature solutions that have evolved to address these needs well. These solutions are often refined through continuous improvement and user feedback.
+4. **Low Demand for Change:** Because these needs are well met, there is typically less demand for new or radically different solutions. Customers may be loyal to existing brands and products.
 
 By focusing on properly serving needs, businesses can maintain customer/user satisfaction, build brand loyalty, and ensure sustained success in the market.
 
@@ -209,10 +209,10 @@ Refers to a requirement or desire of customers that is not adequately addressed 
 
 Key Characteristics of Underserved Needs:
 
-1. Partial Fulfillment: The current solutions might address the need to some extent but fail to provide a complete or satisfactory solution. Users might be using workarounds or supplementary products to bridge the gap.
-2. Lack of Awareness: Users might not fully recognize that their needs are underserved until they encounter a better solution. Due to a lack of better alternatives, they might accept subpar solutions as the norm.
-3. High User Frustration: Underserved needs often lead to significant frustration, inconvenience, or inefficiency for users. These pain points can be critical drivers of dissatisfaction and highlight areas ripe for improvement.
-4. Opportunity for Innovation: Addressing underserved needs presents a significant opportunity for innovation. By understanding and fulfilling these needs, we can create products or services that offer superior value and differentiate the market.
+1. **Partial Fulfillment:** The current solutions might address the need to some extent but fail to provide a complete or satisfactory solution. Users might be using workarounds or supplementary products to bridge the gap.
+2. **Lack of Awareness:** Users might not fully recognize that their needs are underserved until they encounter a better solution. Due to a lack of better alternatives, they might accept subpar solutions as the norm.
+3. **High User Frustration:** Underserved needs often lead to significant frustration, inconvenience, or inefficiency for users. These pain points can be critical drivers of dissatisfaction and highlight areas ripe for improvement.
+4. **Opportunity for Innovation:** Addressing underserved needs presents a significant opportunity for innovation. By understanding and fulfilling these needs, we can create products or services that offer superior value and differentiate the market.
 
 Understanding and addressing underserved needs is a powerful strategy for achieving business success. It allows companies to deliver exceptional value, differentiate themselves from competitors, and build loyal customer relationships.
 
