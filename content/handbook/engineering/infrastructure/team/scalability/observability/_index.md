@@ -112,6 +112,10 @@ Refer to the Scalability group [issue boards section](/handbook/engineering/infr
 | Issues where we are investigating the work to be done. | Issues that will be built next, or are actively in development. |
 | ![Triage](../img/label-triage.png) <br/>![Proposal](../img/label-proposal.png) <br/>![Ready](../img/label-ready.png) | ![Ready](../img/label-ready.png) <br/>![In Progress](../img/label-in_progress.png) <br/>![Under Review](../img/label-under_review.png) <br/>![Verify](../img/label-verify.png) <br/>![Done](../img/label-done.png)|
 
+#### Retrospectives
+
+A team-level retrospective issue is created every 6 weeks, allowing the team to regularly reflect and to encourage a culture of continuous improvement. The creation of the retrospective issue is the responsibility of the Engineering Manager. You can find retrospectives [here](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/?sort=created_date&state=all&label_name%5B%5D=team%3A%3AScalability-Observability&label_name%5B%5D=Retrospective&first_page_size=100). 
+
 ### Updates in Slack
 
 In order to stay informed with everyone's immediate topics, we post regular status updates in our Slack channel.
