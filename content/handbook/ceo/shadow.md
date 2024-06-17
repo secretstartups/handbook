@@ -834,3 +834,4 @@ CEO Shadow Program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2024-05-06 | 2024-05-17 | Karen Murphy | Chief Editorial Officer, Sijbrandij Family Office | |
 | 2024-05-13 | 2024-05-31 | [Djordje Micovic](https://gitlab.com/dmicovic) | Staff Data Analyst, Marketing Analytics | |
 | 2024-05-27 | 2024-06-07 | [Rigerta Demiri](https://gitlab.com/Rigerta) | Senior Data Engineer, Data | |
+| 2024-06-03 | 2024-06-14 | [Christopher Wang](https://gitlab.com/cs.wang) | Sr. Manager Strategy and Enablement (Sales Development) | |
