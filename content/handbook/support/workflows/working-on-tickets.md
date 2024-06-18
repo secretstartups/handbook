@@ -133,7 +133,7 @@ handling. Exceptions should be made only under the following conditions:
 The Slack Handover Form is designated for tickets with high weight values, high priority, or those that are business critical. This streamlines the process for urgent transfers, allowing Support Engineers to manage lower-priority tickets autonomously via the Handover Ticket Summary macro. To ensure a smooth handover, follow these steps:
 
 - **Select the Appropriate Form:** Choose a handover form from the Handovers
-   folder in your SGG channel, based on the ticket's target region (e.g.,
+   folder pinned at the top of your SGG channel, based on the ticket's target region (e.g.,
    Handover to EMEA).
 - **Complete the Form:** Fill in all required fields and submit the form.
 - **Communication:** Upon submission, a notification will be sent to your
