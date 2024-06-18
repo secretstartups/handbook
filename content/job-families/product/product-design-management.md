@@ -85,7 +85,7 @@ The Senior Manager of Product Design is a [grade 9](/handbook/total-rewards/comp
 
 - **Product knowledge:** Understand the technology and features across all [product sections](/handbook/product/categories/) in order to drive cross-product workflows and identify improvement opportunities.
 - **Cross-product collaboration:** Actively advocate for product design throughout the organization. Coach product design managers on how to identify large, strategic UX opportunities and how to move them forward.
-- **Design quality:** Use your product knowledge across all stages to have a positive impact in design reviews, UX Showcases, and group conversations. Mentor product design managers to be an active participant in monthly milestones to ensure high-quality output.
+- **Design quality:** Use your product knowledge across all stages to have a positive impact in design reviews, UX Forum, and group conversations. Mentor product design managers to be an active participant in monthly milestones to ensure high-quality output.
 - **Research:** Improve research quality and [frequency](/handbook/product/ux/performance-indicators/#average-research-projects-per-product-designer) by helping designers and design managers identify strategic user research initiatives.
 - **UX evangelism:** Ensure UX is prioritized by working with product leadership to identify opportunities for validation and better cross-functional collaboration.
 - **UX process:** Improve processes across the organization to ensure that product design is an active participant throughout the entire [product development flow](/handbook/product-development-flow/). Identify efficiency improvements and scale them across the organization.
@@ -131,7 +131,7 @@ The Director of Product Design is a [grade 10](/handbook/total-rewards/compensat
 
 - **Performance tracking:** Define and manage performance indicators for the product design team by independently managing product design KPIs on the [UX KPIs](/handbook/product/ux/performance-indicators/) page in the handbook.
 - **Cross-product collaboration:** Actively advocate for product design throughout the organization by ensuring product design responsibilities are reflected in the product development flow.
-- **Product knowledge:** Help drive cross-product workflows by having an awareness of what's happening across all sections through active participation in design reviews, UX Showcases, and group conversations.
+- **Product knowledge:** Help drive cross-product workflows by having an awareness of what's happening across all sections through active participation in design reviews, UX Forum, and group conversations.
 - **Goal setting:** Independently manage the creation and execution of product design [OKRs](/handbook/company/okrs/) with feedback from the product design team and UX leadership.
 - **UX evangelism:** Ensure UX is prioritized by working with product leadership to identify opportunities for validation and better cross-functional collaboration.
 - **Design strategy:** Communicate significant product design strategy decisions to leadership and the wider company.
