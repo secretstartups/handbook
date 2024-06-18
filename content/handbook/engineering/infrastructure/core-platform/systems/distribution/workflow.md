@@ -70,10 +70,10 @@ work toward overall team priorities and goals laid out by the team managers.
 
 ## Workflow Summary
 
-Distribution groups use the [GitLab product development flow](https://handbook.gitlab.com/handbook/product-development-flow/#workflow-summary) and labels in principle, we usually skip below phases due to the nature of our work:
+Distribution groups use the [GitLab product development flow](/handbook/product-development-flow/#workflow-summary) and labels in principle, we usually skip below phases due to the nature of our work:
 
-* [Validation phase 3: Design](https://handbook.gitlab.com/handbook/product-development-flow/#validation-phase-3-design)
-* [Validation phase 4: Solution Validation](https://handbook.gitlab.com/handbook/product-development-flow/#validation-phase-4-solution-validation)
+* [Validation phase 3: Design](/handbook/product-development-flow/#validation-phase-3-design)
+* [Validation phase 4: Solution Validation](/handbook/product-development-flow/#validation-phase-4-solution-validation)
 
 ### Planning process
 
@@ -115,7 +115,7 @@ Sometimes, there are works that were not originally planned but require urgent a
 
 ### Required labels
 
-Besides the [GitLab product development flow](https://handbook.gitlab.com/handbook/product-development-flow/#workflow-summary) labels, there are a number of additional **required** labels applied at any time to Epics, issues and merge requests (items):
+Besides the [GitLab product development flow](/handbook/product-development-flow/#workflow-summary) labels, there are a number of additional **required** labels applied at any time to Epics, issues and merge requests (items):
 
 * `group::distribution` - Items specific to, or authored by Distribution team. It is a [scoped label](https://docs.gitlab.com/ee/user/project/labels.html#scoped-labels) to be applied to all Distribution subgroups items until further guidance.
 * `group::distribution::*` - Items specific to, or authored by one of Distribution subgroups. They are [nested scope labels](https://docs.gitlab.com/ee/user/project/labels.html#nested-scopes), and mutually exclusive, but can be used with `group::distribution` scoped label together.
@@ -150,10 +150,10 @@ The Distribution DRI works on the following areas per the order of the list.
 #### During the week
 
 1. Support incidents escalated from production.
-1. [Support customer requests](https://handbook.gitlab.com/handbook/engineering/infrastructure/core-platform/systems/distribution/#engaging-distribution-for-expertise-in-support)
+1. [Support customer requests](/handbook/engineering/infrastructure/core-platform/systems/distribution/#engaging-distribution-for-expertise-in-support)
     * ([Distribution support request issues](https://gitlab.com/gitlab-org/distribution/team-tasks/-/issues/?sort=created_date&state=opened&label_name%5B%5D=support%20request&or%5Blabel_name%5D%5B%5D=Help%20group%3A%3ADistribution%20Build&or%5Blabel_name%5D%5B%5D=Help%20group%3A%3ADistribution%20Deploy&first_page_size=20)).
 1. Answer or redirect questions in [#g_distribution](https://gitlab.slack.com/archives/C1FCTU4BE) Slack channel.
-1. [Perform issue triage](https://handbook.gitlab.com/handbook/engineering/infrastructure/core-platform/systems/distribution/triage/).
+1. [Perform issue triage](/handbook/engineering/infrastructure/core-platform/systems/distribution/triage/).
 1. Respond to `@gitlab-org/distribution` group mentions in GitLab.
 1. **Optional:** Work on deliverables for the current milestone or other Distribution related tasks.
 
