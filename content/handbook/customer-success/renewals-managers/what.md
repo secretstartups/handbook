@@ -42,12 +42,14 @@ The Renewals team primarily uses these key fields on Renewal Opportunities:
 - `Net ARR` - the delta between the ATR and the Amount. Positive NetARR reflects Growth while negative NetARR reflects Churn or Contraction.
 - `ATR` - Used for calculating Renewal Rate. This is the revenue that is Available to Renew (ATR)
 - `Won ATR` - Used for calculating Renewal Rate. This is the forecasted renewal revenue for the deal. This field caps out at 100% of the ATR field to reflect no more than a 100% renewal.
+- `Active Mitigation` - Used to describe the primary mitigation if the opportunity is at risk
+- `(Best Case / Most Likely / Commit) Forecasted Churn` - Describe the best case, most likely and worst case (committ) scenarios. Best Case and Commit are calculated fields that are dependent on other risk forecasting fields. ML is a manually entered field that should describe what the renewal manager believes is the most likey amount of churn or contraction. 
+- `Renewal Manager Notes` - A field often populated with a template that describes risk reason, customer brief, intervnetion in process notes, and intervention required observations.  
 
 ## Ownership
 
 - `Opportunity Owner` - the DRI for the outcome of the Opportunity
 - `Renewals Manager` - the Renewals Manager supporting this Opportunity
-- `Renewals Ownership` - this field determines ROE and ownership for the Renewal between the RM and the AE
 - `Carahsoft Renewals Manager` - indicates the Carahsoft Renewals Manager supporting this deal
 
 ## Analytics
@@ -97,8 +99,8 @@ The key risk fields for capturing risk on the renewal are:
 
     1. Fill in the `Amount` field with the annual value that is expected to renew (i.e. how much we predict will actually book). The Renewal Forecast Health field will automatically update to Red if the Amount is less than the ATR.
     2. Fill in the `Renewal ARR Swing` amount with how much of the churn/contraction may be saved with intervention. (Note the Renewal Swing ARR must be a positive number and not greater in magnitude than the Forecasted Churn. Ex. if Forecasted Churn is -$100k the Renewal Swing ARR cannot be greater than +$100k)
-    3. Record your `Next Steps`
-    4. Record the risk intervention idea/ask/motion in the `Manager Notes` section (you can use the risk intervention table for ideas)
+    3. Record your `Next Steps` 
+    4. Record the risk intervention idea/ask/motion in the `Renewal Manager Notes` section (you can use the risk intervention table for ideas)
 
         For the other two categories - `Will Churn` and `Will Contract` - use same steps, but no Renewal ARR Swing field is needed
 
@@ -156,7 +158,7 @@ These tactics/motions may not always be approved or appropriate for each risk sc
 
    - *LT Intervention Needed*: What intervention tactic is needed, mark N/A if one is “in process" and outlined in the above note.
 
-5. **Update the Manager note section with one or more of the following hashtags** to demonstrate the appropriate status
+5. **Update the Renewal Manager note section with one or more of the following hashtags** to demonstrate the appropriate status
    - A. [#UserMigration] - demonstrates C&C in a scenario where actual revenue is not leaving the company but rather being shifted to another opportunity (RM needs to document the opportunity where the revenue is captured by including the link in manager notes in accompaniment of the hashtag)
    - B. [#Risk] - leverage when the renewal opportunity should be on a "watch-list" but the risk is not vetted enough to be reflected in the forecasting fields. Also can be used to describe contraction risk when we cannot match the risk with the quote.
    - C. [#DeferredChurn] - leverage on renewal opportunities where a negative impact to renewal rate and/or arr basis occurred due to activity outside of standard practices. Example 1, we waive a true-up {at renewal prep stage} and add on the users, increasing the arr basis spend knowing the customer will likely decrease seat count at the next renewal. Example 2, we have two opportunities that are related due to a migration project and close win the opportunity with the nARR attached to it at the end of the quarter and wait to close loss the opportunity with negative arr in the new quarter.
