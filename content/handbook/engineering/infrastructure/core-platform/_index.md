@@ -42,7 +42,7 @@ The following people are permanent members of teams that belong to the Core Plat
 
 ### Geo
 
-{{< team-by-manager-slug manager="juan-silva" >}}
+{{< team-by-manager-slug manager="luciezhao" >}}
 
 ### Gitaly
 
