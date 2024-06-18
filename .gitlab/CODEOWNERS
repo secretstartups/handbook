@@ -189,7 +189,7 @@
 /content/handbook/engineering/infrastructure/core-platform/data_stores/tenant-scale.md @arturoherrero
 /content/handbook/engineering/infrastructure/core-platform/systems/cloud-connector/ @pjphillips
 /content/handbook/engineering/infrastructure/core-platform/systems/distribution/ @cdu1 @plu8
-/content/handbook/engineering/infrastructure/core-platform/systems/geo/ @juan-silva
+/content/handbook/engineering/infrastructure/core-platform/systems/geo/ @luciezhao
 /content/handbook/engineering/infrastructure/core-platform/systems/gitaly.md @andrashorvath @jcaigitlab
 /content/handbook/engineering/infrastructure/emergency-change-processes.md @marin @meks
 /content/handbook/engineering/infrastructure/incident-management/ @dawsmith @kwanyangu @marin
