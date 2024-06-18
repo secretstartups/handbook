@@ -212,9 +212,7 @@ You should have a list of who to invite from your previous work in the ticket.
 
 To invite the users, do the following:
 
-1. Click `Project information` on the top-left hand side of the page
-1. Click `Members` on the top-left hand side of the page (under
-   `Project information`)
+1. Select `Manage > Members` from the menu in the left hand side of the page
 1. Click the blue `Invite members` button at the top-right hand side of the page
 1. Enter the email(s) to use under the `Username or email address` text box
 1. Under `Select a role`, select `Developer`
