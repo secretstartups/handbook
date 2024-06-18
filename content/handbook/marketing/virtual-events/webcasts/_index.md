@@ -692,17 +692,18 @@ If you have 3 webcasts, you will have 3 Zoom webcasts and 3 Marketo programs. Ti
 
    * Update the `formButtonCopy` token to be `Watch now`
    * Update the `formHeaderCopy` token to be `Watch the webcast today`
-   * Update the `ondemandUrl` token with the Pathfactory link
+   * Update the `ondemandUrl` token with the Pathfactory track link
      * This URL should *not* contain `https://` (it should begin with `learn.gitlab.com/`)
      * This URL should *not* contain any `?` question marks (if it does, you did not update the custom URL slug) - [WATCH THE EXPLAINER VIDEO](https://www.youtube.com/watch?v=VHgR33cNeJg)
      * This URL should *not* contain the Pathfactory tracking parameter `lb_email=` (this is already incorporated into all assets of the Marketo program template)
 
-1. **Marketo**: In the Marketo program, right click on the "Registration Page" and choose `Edit Draft`
+1. **Marketo**: In the Marketo program, right click on the "Registration Page" and choose `Create Draft`
 
    * On the right side rail, under "Elements" right click on the "Form Custom" element and choose `Edit`
    * The form should currently be set to the Webcast form (`FORM 1592: webcast` or relevant localized form) - you will change this to be `FORM 2076: On-demand Webcast`
    * Change the "Follow-up Type" to be `Landing Page`
    * Change the "Follow-up Page" to be the thank you page in your program (begin to type in the Marketo program name and select your thank you page)
+   * Right-click on "Registration landing page" >> select "Approve draft"
 
 1. **Marketo**: Send sample of the "On-demand Autoresponder" email to your inbox
 
