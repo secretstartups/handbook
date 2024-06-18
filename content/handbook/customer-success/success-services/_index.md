@@ -32,6 +32,8 @@ Success Services include up to 4 Accelerators, 1 per quarter, that your [Custome
 
 An Accelerator, depending on customer requirements and defined outcomes, will pull together one or more of the below content modules.   Typically the accelerator runs over 12 weeks.  It kicks off with a discovery workshop to document required customer outcomes.  From that, we will run a planning workshop outlining with the customer the steps necessary to achieve their outcomes.   The output of the Planning Workshop is a backlog of issues logged, in a GitLab project, that includes all the necessary activities that will be managed over the following 10 weeks to achieve those outcomes and close out the Accelerator
 
+![Accelerator Timeline](accelerator-timeline-graphic.png "Accelerator Timeline")
+
 #### Accelerator Content Modules
 
 | Category | Content Modules | Description | Outcome|
