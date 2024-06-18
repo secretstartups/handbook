@@ -1954,17 +1954,19 @@ When we speak to users and customers directly during this workflow, we must be m
 
 #### Overall process
 
-1. Product leaders go through the list of CSAT responders who have agreed to a followup conversation. They either sign up for outreach or tag in their Group Product Managers and Product Managers as appropriate.
-1. Those Group Product Managers and Product Managers then view the sheet and confirm who they want to talk with.
-1. They reach out to users and schedule interviews.
-1. They mark which users they interview.
-1. They add notes and video recordings from the interviews to the CSAT column in this [Dovetail project](https://gitlab.dovetailapp.com/projects/36nmGVKvkaT7SGMXtUeHVg/v/70xPTo5RzTRZnCNEVz1fWH).
+1. UX Researcher DRI opens a Responder Outreach issue and notifies Product team members in the comments that the issue is ready.
+1. Product leaders go through the list of CSAT responders who have agreed to a follow up conversation. Those Product leaders either sign up for outreach or tag in their Group Product Managers and Product Managers as appropriate.
+1. Group Product Managers and Product Managers then view the sheet and confirm who they want to talk with.
+1. Product team members reach out to users and schedule interviews.
+1. Product team members add notes and video recordings from the interviews to the CSAT column in this [Dovetail project](https://gitlab.dovetailapp.com/projects/36nmGVKvkaT7SGMXtUeHVg/v/70xPTo5RzTRZnCNEVz1fWH).
+1. Product team members mark which users they interviewed and include any additional notes about the session in the follow up users sheet.
+1. As Product team members create or continue to work on issues related to CSAT follow up interviews, they use the following label (CSAT::Responder Outreach) to help the UX Research team track the impact of these interviews.
 
 **Note:** GitLab Customer Success Managers will also follow the process above so please be mindful to coordinate with them if they reach out or if they've already signed up for a user. Users should never be contacted by more than one GitLab team member. Users should never be contacted more than twice if they do not respond to an outreach email.
 
 #### Instructions for Product leaders
 
-1. Look at the CSAT Follow-up Users Google Sheet that will be shared with you in an issue. Identify any users you think a Group Product Manager or Product Manager from your group would be interested in speaking to. Assign the specific Group Product Manager or Product Manager to reach out to that user by putting their name in the appropriate column. This will also serve as a "hold" on the user and if others are interested they will need to coordinate with this Group Product Manager or Product Manager.
+1. Look at the `CSAT Follow Up Users` Google Sheet that will be shared with you in an issue. Identify any users you think a Group Product Manager or Product Manager from your group would be interested in speaking to. Assign the specific Group Product Manager or Product Manager to reach out to that user by putting their name in the appropriate column. This will also serve as a "hold" on the user and if others are interested they will need to coordinate with this Group Product Manager or Product Manager.
 1. If you think another Group Product Manager or Product Manager in your group or another group would be interested in speaking to the same customer, consider notifying that Group Product Manager or Product Manager for the sake of efficiency.
 1. If you're interested in having one of your Group Product Managers or Product Managers speak with a user that has already been "claimed" by another GitLab team member, have your Group Product Manager or Product Manager reach out to that team member so they can coordinate a joint conversation. **We need to be mindful of our users' time and should limit this outreach to a single conversation rather than successive conversations.**
 
@@ -2019,7 +2021,7 @@ When we speak to users and customers directly during this workflow, we must be m
 1. Collect all notes that were taken and Zoom recording from the interview and add them to the CSAT column in this [Dovetail project](https://gitlab.dovetailapp.com/projects/36nmGVKvkaT7SGMXtUeHVg/v/70xPTo5RzTRZnCNEVz1fWH).
 1. If you told the user you'd follow up on anything or promised to send them further information, make sure you do so, ideally within two business days.
 1. Go back to the spreadsheet and mark that you spoke to a user in the _Status_ column.
-1. If you create any epics/issues to address feedback gathered in the calls, add the label `CSAT improvement` and link them to the corresponding CSAT responder outreach issue from that quarter.
+1. If you create any epics/issues to address feedback gathered in the calls, add the label `CSAT:Responder Outreach` and link them to the corresponding CSAT responder outreach issue from that quarter.
 
 Note: It's important to tag your CSAT related issues to help tracking/reporting such as the [improvement slides](https://docs.google.com/presentation/d/1ZXEfR1lo5y5tpRi0i5l-OSX3v3wMe6jepjJcZfKyTvw/edit#slide=id.ge2b883c896_6_0) in Product Key Reviews.
 
