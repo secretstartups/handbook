@@ -197,7 +197,7 @@ contact's email. Both are required, so if you do not know the `NAME_OF_CONTACT`,
 use the `EMAIL_OF_CONTACT` value.
 
 An example of a working and valid contacts.yaml can be found
-[here](https://gitlab.com/support/zd-global-orgs/organization-380989798980/-/blob/master/contacts.yaml).
+[here](https://gitlab.com/support/zd-global-orgs/aaa-jason-test-setup-zzz/-/blob/master/contacts.yaml).
 
 You should ensure the contacts listed matching what the Zendesk organization
 *currently* has in place.
