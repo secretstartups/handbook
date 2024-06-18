@@ -162,7 +162,7 @@ We know GitLab team members are multi-faceted and there may be opportunities to 
 
 In these instances, it’s necessary to keep your role at GitLab and affiliation with the company separate from the presentation. Additionally, you should not use GitLab branding, resources, or time allocated to your work at GitLab to prepare or deliver your presentation. Please add “these views are my own” to your comments, presentation, or social media.
 
-If you’re considering a speaking opportunity that could be perceived as being associated with GitLab even if it is not, please share the opportunity with your manager and #external-comms for review before accepting it to avoid any potential conflicts.
+If you’re considering a speaking opportunity, which includes participating in podcasts or developing your podcast, that could be perceived as being associated with GitLab even if it is not, please share the opportunity with your manager and #external-comms for review before accepting it to avoid any potential conflicts.
 
 #### Event Booth Staffing
 
