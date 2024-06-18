@@ -267,7 +267,7 @@ To gain access to Snowflake:
 - Do not request a shared account - each account must be tied to a user.
 - We loosely follow the paradigm explained in [this blog post](https://blog.fishtownanalytics.com/how-we-configure-snowflake-fc13f1eb36c4) around permissioning users.
 - When asking to mirror an existing account, please note that access to restricted SAFE data will **not** be provisioned/mirrored (currently provided via `restricted_safe` role).
-- Snowflake is part of the [Access Review Procedure](https://handbook.gitlab.com/handbook/security/security-assurance/security-compliance/access-reviews/) and manager will be asked on a quarterly basis to review the access their team members have in Snowflake. It is expected from the manager to understand the available roles(structure) in Snowflake if approving an AR or reviewing their team member access.
+- Snowflake is part of the [Access Review Procedure](/handbook/security/security-assurance/security-compliance/access-reviews/) and manager will be asked on a quarterly basis to review the access their team members have in Snowflake. It is expected from the manager to understand the available roles(structure) in Snowflake if approving an AR or reviewing their team member access.
   - In the access review, only the first level of Snowflake roles are reported (the ones that are directly attached to the user). I.e. If a team member does have the `analyst_marketing` role, only the `analyst_marketing` is reported and all inherited roles in the `analyst_marketing` are not.
     - Roles could be distinguished between functional roles and object roles
       - See this list of functional roles in Snowflake [here](/handbook/business-technology/data-team/platform/#Functional_Role_Assignment) and object roles.
