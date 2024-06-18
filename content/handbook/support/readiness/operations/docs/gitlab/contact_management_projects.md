@@ -148,7 +148,7 @@ You then need to create a new webhook using the following information:
 
 - URL:
   `https://ops.gitlab.net/api/v4/projects/619/ref/master/trigger/pipeline?token=TOKEN&variables[PROJECT_ID]=PROJECT_ID`
-  - Replace TOKEN with the Contact Sync Token found within the Support Ops Vault
+  - Replace TOKEN with the Contact Management Project Token found within the Support Ops Vault
     in 1Password.
   - Replace PROJECT_ID with the project's ID.
 - Click the bubble next to `Mask portions of URL`
