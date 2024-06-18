@@ -20,6 +20,17 @@ The Pricing team owns the definition and execution of pricing strategy at GitLab
 - Comfort working in a highly agile, intensely iterative software development process
 - Ability to use GitLab
 
+## Performance Indicators
+
+The pricing team measures its success by tracking growth in the following areas:
+
+- Net Annual Recurring Revenue (nARR)
+- Net Revenue Retention (NRR)
+- Average Selling Price (ASP)
+- Average Revenue Per User (ARPU)
+
+Additional performance indicators may be added as the team expands. 
+
 ## Levels
 
 ### Pricing Analyst
@@ -190,11 +201,6 @@ Candidates for this position can expect the hiring process to follow the order b
 - Finally, candidates may be invited to schedule an interview with the VP of Product Management
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
-
-## Performance Indicators
-
-- Average Revenue per User
-- Average Selling Price
 
 ## Career Ladder
 
