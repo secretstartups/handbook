@@ -151,7 +151,7 @@ We currently have three main C360 layouts:
 
 ## Removing Gainsight Access
 
-When a user leaves GitLab or no longer requires access to Gainsight, you can remove deactivate their account and remove their license. For GitLab employees who leave GitLab, an offboarding issue should be created as detailed in [GitLab Access Requests and Offboarding Issues](/#gitLab-access-requests-and-offboarding-issues).
+When a user leaves GitLab or no longer requires access to Gainsight, you can remove deactivate their account and remove their license. For GitLab employees who leave GitLab, an offboarding issue should be created as detailed in [GitLab Access Requests and Offboarding Issues](/#gitlab-access-requests-and-offboarding-issues).
 
 To deactive a user's Gainsight account:
 

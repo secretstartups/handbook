@@ -152,11 +152,11 @@ This program will leverage content from the GitLab Manager Challenge and address
 ## Core Team
 
 - [Carolyn Bednarz](/handbook/company/team/#cbednarz) (People Business Partner, Sales)
-- [Josh Zimmerman](/handbook/company/team/#Josh_Zimmerman) (Learning & Development Manager)
+- [Josh Zimmerman](/handbook/company/team/#josh_zimmerman) (Learning & Development Manager)
 - [David Somers](/handbook/company/team/#dcsomers) (Sr. Director, Field Enablement)
 - Field Manager Advisors
   - [Dave Astor](/handbook/company/team/#disastor) (Manager, Solutions Architects, US East)
-  - [Robbie Byrne](/handbook/company/team/#RobbieB) (Area Sales Manager, EMEA)
+  - [Robbie Byrne](/handbook/company/team/#robbieb) (Area Sales Manager, EMEA)
   - [Ed Cepulis](/handbook/company/team/#ecepulis) (Sr. Director, Channel Programs and Enablement)
   - [Michael Leutz](/handbook/company/team/#mrleutz) (Manager, Customer Success Managers, EMEA)
   - [Helen Mason](/handbook/company/team/#hmason) (Area Sales Manager (Mid-Market), EMEA)

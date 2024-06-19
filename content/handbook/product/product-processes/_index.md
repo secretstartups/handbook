@@ -992,7 +992,7 @@ Once the resolution criteria have been satisfied:
 1. Host a retrospective to understand what about the rapid action process could be improved. (Note: there could also be other retros that happen related to more specific sub-efforts of the rapid action, this retro should act as a touch point to ensure collaboration + communication worked.)
 1. Consider making the epic public. If the problem is related to security, ask `@gitlab-com/gl-security/secops` to determine when the epic can be made public.
 1. Communicate the resolution to stakeholders.
-1. Consider awarding [discretionary bonuses](../../incentives/#sts=Discretionary%20Bonuses) to the people who stepped in to help resolve the problem.
+1. Consider awarding [discretionary bonuses](../../incentives/#sts=discretionary%20bonuses) to the people who stepped in to help resolve the problem.
 
 ### Borrow
 

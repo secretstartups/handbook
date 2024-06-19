@@ -38,7 +38,7 @@ This page provides an overview on relevant CSM leadership processes.
 | [Chenje Katanda](/handbook/company/team/#ckatanda) | EMEA | Manager | CSM |
 | [Christina Souleles](/handbook/company/team/#csouleles) | EMEA | Manager | CSM |
 | [Robert Clark](/handbook/company/team/#robclark14) | PubSec | Manager | CSM & CSE |
-| [Steven Terhar](/handbook/company/team/#SteveTerhar) | PubSec | Manager | CSM & CSE |
+| [Steven Terhar](/handbook/company/team/#steveterhar) | PubSec | Manager | CSM & CSE |
 
 ## CSM Manager Responsibilities & Requirements
 
@@ -278,7 +278,7 @@ This is a suggested cadence that can be used by regional CSM managers in their w
 4th week:
 
 1. KPIs: nARR, renewal rate (async)
-1. Ultimate Customers. Sisence dashboard OR Gainsight Dashboard - **Use Case Adoption**  
+1. Ultimate Customers. Sisence dashboard OR Gainsight Dashboard - **Use Case Adoption**
    1. Purchased last Qtr
    1. By ARR
 1. OKR / Big Rock initiatives progress
