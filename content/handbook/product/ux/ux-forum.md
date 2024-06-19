@@ -122,7 +122,7 @@ For more tips, see the [communication handbook page](/handbook/communication/#pr
 
 ## Hosting
 
-Product Design Managers take turns hosting the UX Forum. Managers can use the [UX Forum issue template](https://gitlab.com/gitlab-org/gitlab-design/-/issues/new?issuable_template=UX%20Showcase) to create a tracking issue for their hosting date. See [how to use templates](https://docs.gitlab.com/ee/user/project/description_templates.html#use-the-templates).
+Product Design Managers take turns hosting the UX Forum. Managers can use the [UX Forum issue template](https://gitlab.com/gitlab-org/gitlab-design/-/issues/new?issuable_template=UX%20Forum) to create a tracking issue for their hosting date. See [how to use templates](https://docs.gitlab.com/ee/user/project/description_templates.html#use-the-templates).
 
 ### Recording the sessions
 
