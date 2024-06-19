@@ -2061,7 +2061,7 @@ There are a few different tools PM's can utilize to understand the operational c
 #### Tools to understand end user experience
 
 - [Snowplow data](/handbook/business-technology/data-team/platform/snowplow/) on GitLab.com
-- Quarterly NPS and SUS surveys
+- Quarterly Product CSAT and SUS surveys
 - [Page load performance](../product-processes/#page-load-performance-metrics)
 
 ## Roadmaps, Boards, Issues & Epics
