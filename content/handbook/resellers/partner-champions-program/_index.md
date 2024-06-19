@@ -83,14 +83,14 @@ GitLab Champions enlists, supports, rewards, and recognizes members of the GitLa
 
 ### Program Manager
 
-1. [ ] Monitor the Champions Nomination form for new applicants
-1. [ ] Work with the nominee to create an account on partners.gitlab.com
-1. [ ] Request the "GitLab Champion" user field in Impartner be set to "Nominated"
-1. [ ] Once approval is granted, notify the Sponsor GitLab SA to begin onboarding the new Champion.
+1. Monitor the Champions Nomination form for new applicants
+1. Work with the nominee to create an account on partners.gitlab.com
+1. Request the "GitLab Champion" user field in Impartner be set to "Nominated"
+1. Once approval is granted, notify the Sponsor GitLab SA to begin onboarding the new Champion.
 
-### Sposor GitLab SA
+### Sponsor GitLab SA
 
-1. [ ] Invite the new Champion via email address to be a `Developer` member of the [https://gitlab.com/gitlab-partners-public/gitlab-champions](https://gitlab.com/gitlab-partners-public/gitlab-champions) group.
-1. [ ] Create an [onboarding issue in the champions project](https://gitlab.com/gitlab-partners-public/gitlab-champions/champions/-/issues/new#) for the new Champion with the New_Champion_Onboarding template.
-1. [ ] Complete the `GitLab Sponsoring SA Tasks` section of the issue
-1. [ ] Work with the new gitLab Champion to complete the `Partner Champion Tasks` section of the issue
+1. Invite the new Champion via email address to be a `Developer` member of the [https://gitlab.com/gitlab-partners-public/gitlab-champions](https://gitlab.com/gitlab-partners-public/gitlab-champions) group.
+1. Create an [onboarding issue in the champions project](https://gitlab.com/gitlab-partners-public/gitlab-champions/champions/-/issues/new#) for the new Champion with the New_Champion_Onboarding template.
+1. Complete the `GitLab Sponsoring SA Tasks` section of the issue
+1. Work with the new gitLab Champion to complete the `Partner Champion Tasks` section of the issue
