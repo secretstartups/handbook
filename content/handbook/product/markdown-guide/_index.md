@@ -435,8 +435,7 @@ There are two ways to insert diagrams via Markdown:
 
 ### Mermaid
 
-See the [examples in the GitLab
-docs](https://docs.gitlab.com/ee/user/markdown.html#mermaid)
+See the [examples in the GitLab docs](https://docs.gitlab.com/ee/user/markdown.html#mermaid)
 on how to use Mermaid.
 We have a number of Handbook-specific example in the [Tools and Tips Section](/handbook/tools-and-tips/#using-mermaid).
 

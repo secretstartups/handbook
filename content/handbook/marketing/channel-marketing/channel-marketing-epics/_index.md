@@ -85,8 +85,7 @@ Please read through the [Event Handbook page](/handbook/marketing/events/#employ
 * [ ]  All calls scheduled or covered in regular synch meetings with attendees
    * [ ]  Kick-off call with all DRI's scheduled 6 weeks pre-event
    * [ ]  Prep call scheduled 1 week pre-event
-* [ ]  Logo, company description and artwork sent to organizer - [Company description, product messaging and
-GitLab positioning](/handbook/marketing/product-marketing/) and [GitLab Logos](https://about.gitlab.com/press/#press-kit)
+* [ ]  Logo, company description and artwork sent to organizer - [Company description, product messaging and GitLab positioning](/handbook/marketing/product-marketing/) and [GitLab Logos](https://about.gitlab.com/press/#press-kit)
 * [ ]  Press list requested and shared with GitLab PR (Highwire PR for AMER, Speakeasy for EMEA, Bench PR for APAC)
 * [ ]  Slack channel created and attendees invited
 * [ ]  Tickets allocated and ordered

@@ -83,8 +83,7 @@ At the end of the rotation, add the next engineers as Owners of [`@gitlab-org/se
 #### Responsibilities - Security
 
 1. Triage vulnerabilities reported on the projects we maintain and help resolving them depending on their priority. (See [Security vulnerabilities triaging process](#security-vulnerabilities-triaging-process))
-1. Check for security [automation
-   failures](/handbook/engineering/development/sec/secure/#automation-failures)
+1. Check for security [automation failures](/handbook/engineering/development/sec/secure/#automation-failures)
 1. Check for new security releases of our dependencies and ensure we use them:
    1. Upstream scanners (see [Updating an upstream scanner](#updating-an-upstream-scanner))
    1. Container base images
@@ -156,8 +155,7 @@ On a weekly basis: review the vulnerability report to resolve no longer detected
 
 #### Manually creating security issues for FedRAMP vulnerabilities
 
-Follow the Secure sub-department process on [manually creating security
-issues for FedRAMP vulnerabilities](/handbook/engineering/development/sec/secure/#manually-creating-security-issues-for-fedramp-vulnerabilities)
+Follow the Secure sub-department process on [manually creating security issues for FedRAMP vulnerabilities](/handbook/engineering/development/sec/secure/#manually-creating-security-issues-for-fedramp-vulnerabilities)
 for each of these projects:
 
 - [container scanning](#container-scanning)
@@ -165,8 +163,7 @@ for each of these projects:
 
 #### Manually creating deviation requests for FedRAMP vulnerabilities
 
-Follow the Secure sub-department process on [manually creating deviation
-requests for FedRAMP vulnerabilities](/handbook/engineering/development/sec/secure/#manually-creating-deviation-requests-for-fedramp-vulnerabilities)
+Follow the Secure sub-department process on [manually creating deviation requests for FedRAMP vulnerabilities](/handbook/engineering/development/sec/secure/#manually-creating-deviation-requests-for-fedramp-vulnerabilities)
 for each of the [vulnerabilities near SLA breach][Vulnerabilities near
 SLA breach].
 

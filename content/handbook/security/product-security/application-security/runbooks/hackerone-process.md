@@ -299,9 +299,8 @@ reports which are unique and interesting.
 If a researcher requests public disclosure of a closed non-resolved
 report (e.g. Informative or Not Applicable), we opt to cancel
 disclosure requests using the `08 - Canceled Disclosure Message`
-template. Reporters should instead consider [opening a public GitLab
-issue](https://about.gitlab.com/submit-feedback/) as this is the best
-way to raise and address non-vulnerability issues.
+template. Reporters should instead consider [opening a public GitLab issue](https://about.gitlab.com/submit-feedback/)
+as this is the best way to raise and address non-vulnerability issues.
 
 If a researcher *insists* on disclosure via HackerOne we should agree to
 disclose it regardless of quality unless there is a good reason not to.

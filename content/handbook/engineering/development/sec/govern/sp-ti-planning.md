@@ -127,8 +127,7 @@ Note the following differences when refining bugs:
 1. As a guideline, spend no more than 1 hour per issue. Bugs that take too long to refine are
    indicative of a more complex issue.
 1. Do not add weight. Our velocity represents the capacity to deliver new, bug-free features.
-1. When you hit the time limit for refinement, it's ok to have uncertainty in the [Implementation
-   Plan](#implementation-plan). It's sufficient just to direct where you expect the code change to be (high or low level).
+1. When you hit the time limit for refinement, it's ok to have uncertainty in the [Implementation Plan](#implementation-plan). It's sufficient just to direct where you expect the code change to be (high or low level).
 
 #### Refinement for Spikes
 
@@ -253,10 +252,8 @@ issues. An exception is when a single engineer agrees to work on both tech stack
 
 **A:** we use them to communicate certain steps in our process.
 
-* 🥕 you have reviewed an issue in preparation for [Planning
-  Breakdown](#planning-breakdown).
-* 🥒 request to add a specification using [Gherkin
-  Keyworks](https://cucumber.io/docs/gherkin/reference/#keywords) (when life gives you a cucumber,
+* 🥕 you have reviewed an issue in preparation for [Planning Breakdown](#planning-breakdown).
+* 🥒 request to add a specification using [Gherkin Keyworks](https://cucumber.io/docs/gherkin/reference/#keywords) (when life gives you a cucumber,
   you pickle it).
 
 ## Footnotes

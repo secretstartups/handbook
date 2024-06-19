@@ -48,7 +48,7 @@ Head to the [corporate marketing project](https://gitlab.com/gitlab-com/marketin
 
 ##### GTM Templates
 
-[GTM Coverage Epic](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/epic_templates/social-gtm-epic.md){:.btn .btn-purple-inv}  
+[GTM Coverage Epic](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/epic_templates/social-gtm-epic.md){:.btn .btn-purple-inv}
 [GTM Coverage Issue for each tactic](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=social-gtm-organic){:.btn .btn-purple-inv}
 
 ##### Other Specialized Templates
@@ -112,8 +112,7 @@ GTM Campaign Manager should create a new issue, fill out the details, and attach
 
 For each new reporting period (Quarter of Half); the social team will open a new organic social child epic. We'll use this child-epic as a repo after the work on an issue is completed. Since tactics (webinar, whitepaper, etc) each have their own child-epic already, we'll execute the work with an issue attached to these epics, close the issue and move to our social epic for record keeping.
 
-[Social GTM Child Epic Code](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/epic_templates/social-gtm-epic.md
-){:.btn .btn-purple-inv}
+[Social GTM Child Epic Code](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/epic_templates/social-gtm-epic.md){:.btn .btn-purple-inv}
 
 ## Data needed on pages in order for links to work on social media
 

@@ -5,8 +5,7 @@ title: "Secret push protection troubleshooting"
 ### When to use this runbook?
 
 Use this runbook for troubleshooting Production issues related to the
-[secret push protection
-](https://docs.gitlab.com/ee/user/application_security/secret_detection/pre_receive/index.html) feature.
+[secret push protection](https://docs.gitlab.com/ee/user/application_security/secret_detection/pre_receive/index.html) feature.
 
 ### Relevant settings
 
@@ -32,8 +31,7 @@ To **disable the feature across all of Gitlab.com**, there are two options.
 The first option, and most likely quickest, is to disable the feature via ChatOps. Use the following command: `/chatops run feature set pre_receive_secret_detection_push_check false`
 
 The second option is to disable pre-receive
-secret detection, [as described in the
-docs](https://docs.gitlab.com/ee/user/application_security/secret_detection/secret_push_protection/index.html#enable-secret-push-protection). This will require a change access request ([production example](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/17907)), as it requires administrator access.
+secret detection, [as described in the docs](https://docs.gitlab.com/ee/user/application_security/secret_detection/secret_push_protection/index.html#enable-secret-push-protection). This will require a change access request ([production example](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/17907)), as it requires administrator access.
 
 Either of these options will disable the feature for all Gitlab.com users and should be
 used in cases where the feature is causing significant performance degradation.
@@ -82,9 +80,7 @@ pre_receive_secret_detection_push_check false`
 ### The `pre_receive_secret_detection_beta_release` flag
 
 The `pre_receive_secret_detection_beta_release` flag will be used to
-enable the [Secret Detection section in the Security and Compliance Admin
-section](https://gitlab.com/admin/application_settings/security_and_compliance
-) (https://gitlab.com/admin -> Settings -> Security and Compliance)
+enable the [Secret Detection section in the Security and Compliance Admin section](https://gitlab.com/admin/application_settings/security_and_compliance) (<https://gitlab.com/admin> -> Settings -> Security and Compliance)
 , but _**turning the flag on does not turn on pre-receive secret
 detection**_. Conversely, turning the flag off does not turn
 the feature off.

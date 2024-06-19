@@ -23,17 +23,14 @@ end-to-end visibility and traceability so they can work to improve their
 software development and operations over time. But for most teams, getting this
 tooling right is incredibly difficult.
 
-This demonstration will highlight [GitLab’s single platform for the complete
-DevOps lifecycle](https://about.gitlab.com/direction/#scope), from plan to
+This demonstration will highlight [GitLab’s single platform for the complete DevOps lifecycle](https://about.gitlab.com/direction/#scope), from plan to
 monitor, through issues, planning, merge request, CI, CD, and monitoring.
 
 ![''](/images/press/devsecops-lifecycle.svg)
 
 If you encounter issues replicating this demo on GKE or on your own Kubernetes
-cluster please [open an
-issue](https://gitlab.com/gitlab-com/marketing/product-marketing/-/issues/new). We're still
-working to improve this demo further, please see [all open idea-to-production
-issues](https://gitlab.com/gitlab-org/gitlab-ce/boards/814228?label_name[]=idea-to-production).
+cluster please [open an issue](https://gitlab.com/gitlab-com/marketing/product-marketing/-/issues/new). We're still
+working to improve this demo further, please see [all open idea-to-production issues](https://gitlab.com/gitlab-org/gitlab-ce/boards/814228?label_name[]=idea-to-production).
 
 ## Preparation
 

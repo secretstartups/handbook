@@ -334,8 +334,7 @@ Product Development teams are encouraged to:
 
 #### 2. Increase visibility into Error Budgets (error portion)
 
-- Stage groups are provided with error count information. This can be supplemented with further detail by [making error information
-explorable with Sentry](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/396).
+- Stage groups are provided with error count information. This can be supplemented with further detail by [making error information explorable with Sentry](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/396).
 
 #### 3. Tune the scope of Error Budgets
 

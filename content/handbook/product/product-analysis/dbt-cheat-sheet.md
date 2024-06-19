@@ -35,8 +35,7 @@ running the onboarding script.
 - `role:` This is your Snowflake role, usually first initial + last name (ex: `JSMITH`)
 - `database:` This is your first initial + last name (ex: `JSMITH`)
 - Set up targets for different sized warehouses (ex: one for `DEV_XS` and one for `DEV_L`)
-  - Note: You should always default to using an XS warehouse. The [example provided in the
-  dbt guide](/handbook/business-technology/data-team/platform/dbt-guide/#example) defaults
+  - Note: You should always default to using an XS warehouse. The [example provided in the dbt guide](/handbook/business-technology/data-team/platform/dbt-guide/#example) defaults
   to an XS warehouse.
 
 ## Setting up development databases in Snowflake

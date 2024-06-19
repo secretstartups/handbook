@@ -390,8 +390,7 @@ https://10az.online.tableau.com/#/site/gitlab/workbooks/2286852/views
 
 ## Leading Organizations
 
-All wider community members, and their organizations, [can
-contribute](/handbook/company/mission/#contribute-with-gitlab). We strongly believe that contributing to
+All wider community members, and their organizations, [can contribute](/handbook/company/mission/#contribute-with-gitlab). We strongly believe that contributing to
 open source, and particularly to GitLab is a competitive advantage for organizations and their members, and want to
 reward those organizations for doing so. GitLab highly encourages, celebrates & rewards those that contribute in
 [frequent and atomic iterations](/handbook/values/#iteration). When an organization or individual without affiliations
@@ -399,8 +398,7 @@ reaches 20 merged merge requests or more within the last 3 completed months, we 
 a ```Leading Organization```.
 
 Organizations are matched based on the ```Organization``` field in [your profile](https://gitlab.com/-/profile). GitLab
-can also match individuals to organizations using other metadata available to the Contributor Success team. [Create an
- issue in the Contributor Success queue](https://gitlab.com/gitlab-com/quality/contributor-success/-/issues) if you
+can also match individuals to organizations using other metadata available to the Contributor Success team. [Create an  issue in the Contributor Success queue](https://gitlab.com/gitlab-com/quality/contributor-success/-/issues) if you
 think you or your organization should qualify but is not receiving the label ```Leading Organization``` on your merge
 requests.
 

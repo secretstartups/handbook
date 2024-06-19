@@ -41,8 +41,7 @@ ambition of [1000+ contributors with merged MRs per month to GitLab](/handbook/c
 
 Note: FY24 Direction will come up shortly
 
-In FY23 we will be focused on growing the number of unique new monthly contributors, reducing [Open Community MR Age
-(OCMA)](#open-community-mr-age-ocma) and increasing [MRARR](#mrarr). This will increase development velocity without
+In FY23 we will be focused on growing the number of unique new monthly contributors, reducing [Open Community MR Age (OCMA)](#open-community-mr-age-ocma) and increasing [MRARR](#mrarr). This will increase development velocity without
 requiring additional engineering resources.
 
 Parallel to this we'll increase

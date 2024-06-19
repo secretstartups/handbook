@@ -126,8 +126,7 @@ These design doc documents the high level implementation strategy and key design
 
 To start discussing a new design:
 
-1. [Create a new issue](https://gitlab.
-com/gitlab-com/gl-security/security-operations/infrastructure-security/team-charter/-/issues/new?issuable_template=design_doc) in the InfraSec Team Charter repo
+1. [Create a new issue](https://gitlab.com/gitlab-com/gl-security/security-operations/infrastructure-security/team-charter/-/issues/new?issuable_template=design_doc) in the InfraSec Team Charter repo
 1. Select the `design_doc` template
 1. Fill the data as requested
 

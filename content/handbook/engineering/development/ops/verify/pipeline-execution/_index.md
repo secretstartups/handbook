@@ -7,8 +7,7 @@ This team maps to [Verify](/handbook/product/categories/#verify-stage) DevOps st
 
 ## Vision
 
-For an understanding of what this team is going to be working on take a look at [the product
-vision](https://about.gitlab.com/direction/verify/). This team is responsible for delivering on the following directions:
+For an understanding of what this team is going to be working on take a look at [the product vision](https://about.gitlab.com/direction/verify/). This team is responsible for delivering on the following directions:
 
 - [Continuous Integration](https://about.gitlab.com/direction/verify/continuous_integration/)
 - [Merge Trains](https://about.gitlab.com/direction/verify/merge_trains/)

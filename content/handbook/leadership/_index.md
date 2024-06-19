@@ -104,8 +104,7 @@ feedback, we often feel like we have to either justify our actions or promise
 change, and since change isn't always easy when you're responsible for a
 large team, justification becomes the default. It's OK to say you need time to
 evaluate the feedback and decide how to proceed.
-- [The Right Way to Respond to Negative
-Feedback](https://hbr.org/2018/05/the-right-way-to-respond-to-negative-feedback)
+- [The Right Way to Respond to Negative Feedback](https://hbr.org/2018/05/the-right-way-to-respond-to-negative-feedback)
 - If a team member from your department or another part of the org comes to you and says they do not feel like they or their reports' contributions are valued by your reports, the manager should try to resolve this. Research shows that this is more likely to happen to underrepresented minorities. Please note that [DRIs are free to ignore feedback](/handbook/people-group/directly-responsible-individuals/) without acknowledging it and that [valuing contributions isn't the same as agreeing with them](/handbook/values/#collaboration-is-not-consensus). This is about co-opting someone else's idea without attribution and/or dismissing an idea with an ad-hominem remark.
 
 ## 1-to-1

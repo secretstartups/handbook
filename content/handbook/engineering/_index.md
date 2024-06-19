@@ -255,8 +255,7 @@ Following this procedure will:
 
 ## Canary Testing
 
-Information on canary testing has been moved to dedicated page [covering the
-canary stage and how to use it](/handbook/engineering/infrastructure/environments/canary-stage)
+Information on canary testing has been moved to dedicated page [covering the canary stage and how to use it](/handbook/engineering/infrastructure/environments/canary-stage)
 
 ## Engineering private handbook
 

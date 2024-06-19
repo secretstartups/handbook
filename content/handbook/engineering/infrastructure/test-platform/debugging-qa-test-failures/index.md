@@ -251,8 +251,7 @@ The `#quality` Slack channel should receive two notifications:
 1. An announcement from the release team when the security release has started.
 2. A notification from GitLab ChatOps when the security release has been published.
 
-For other ways to check if there is an ongoing security release, you can visit the `#releases` Slack channel's `Next Security Release` bookmark, or [search the GitLab project's issues
-by the `~"upcoming security release"` label](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=created_date&state=opened&label_name%5B%5D=upcoming%20security%20release&first_page_size=20).
+For other ways to check if there is an ongoing security release, you can visit the `#releases` Slack channel's `Next Security Release` bookmark, or [search the GitLab project's issues by the `~"upcoming security release"` label](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=created_date&state=opened&label_name%5B%5D=upcoming%20security%20release&first_page_size=20).
 
 Please note that a security release issue can sometimes be created before a release is in progress.
 If you have any questions on the status, you can also reach out to the `@release-managers` in Slack.

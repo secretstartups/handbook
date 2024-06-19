@@ -150,8 +150,7 @@ Directions on how to know whether a MR is deployed to GitLab.com are in the [rel
 
 ### When will my merge request be deployed?
 
-We currently create an auto-deployment branch at a [specific
-timeline](/handbook/engineering/deployments-and-releases/deployments/#gitlabcom-deployments-process). The current Mean Time To Production time and target can be seen on the [Infrastructure performance indicators page](/handbook/engineering/infrastructure/performance-indicators/#mean-time-to-production-mttp).
+We currently create an auto-deployment branch at a [specific timeline](/handbook/engineering/deployments-and-releases/deployments/#gitlabcom-deployments-process). The current Mean Time To Production time and target can be seen on the [Infrastructure performance indicators page](/handbook/engineering/infrastructure/performance-indicators/#mean-time-to-production-mttp).
 
 For a merge request with [the pick label](/handbook/engineering/deployments-and-releases/deployments/#gitlabcom-pick-label), the
 process is different.

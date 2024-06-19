@@ -56,9 +56,7 @@ Here are some steps you can take to get started optimizing your profile.
 
 #### More training for rocking your profile on LinkedIn
 
-- [How to optimize your LinkedIn presence
-(and why it matters)
-](https://docs.google.com/presentation/d/12APD_Ov1bCufRAyQEGGAnPHUq1PzHhR1U_57avtmP9g/edit#slide=id.g12b319f6181_0_0)
+- [How to optimize your LinkedIn presence (and why it matters)](https://docs.google.com/presentation/d/12APD_Ov1bCufRAyQEGGAnPHUq1PzHhR1U_57avtmP9g/edit#slide=id.g12b319f6181_0_0)
 
 ### 2. Share what life is like as part of the GitLab team
 

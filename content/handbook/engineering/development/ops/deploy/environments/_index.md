@@ -365,8 +365,7 @@ The entire bug resolution process includes the following phases in order:
   This takes place on the milestone planning issue.
 - Reprioritazation will have a dedicated section in the milestone planning
   issue.
-- Outdated bugs are closed in accordance with [the existing handbook
-  practice](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#outdated-issues)
+- Outdated bugs are closed in accordance with [the existing handbook practice](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#outdated-issues)
 
 ###### Best practices
 
@@ -431,8 +430,7 @@ following milestone planning. For example, for Deferred UX issues opened in the 
 milestone, engineers should evaluate and ensure appropriate prioritization of
 the issue during the planning of the 16.4 milestone. This does not mean that the
 issue must be resolved during the 16.4 milestone, but that the issue is placed
-into the appropriate step of our [product development
-flow](/handbook/product-development-flow), or closed if appropriate.
+into the appropriate step of our [product development flow](/handbook/product-development-flow), or closed if appropriate.
 
 This helps to ensure that Deferred UX issues are resolved in a timely manner,
 keeping with the overall goals of the group and adherence to broader

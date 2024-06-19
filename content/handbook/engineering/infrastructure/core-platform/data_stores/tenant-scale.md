@@ -5,8 +5,7 @@ description: "The Tenant Scale Group is the direct outcome of applying our value
 
 ## About
 
-The Tenant Scale group (formerly Pods or Sharding group) is part of the [Data
-Stores stage](/handbook/engineering/infrastructure/core-platform/data_stores/). We
+The Tenant Scale group (formerly Pods or Sharding group) is part of the [Data Stores stage](/handbook/engineering/infrastructure/core-platform/data_stores/). We
 offer support for groups, projects, and user profiles within our product, but
 our main focus is a long-term horizontal scaling solution for GitLab.
 
@@ -254,8 +253,7 @@ to generate an issue with all the issues identified for refinement.
 #### Step 2: Refining Issues
 
 Over the week, each engineer on the team will look at the list of issues
-selected for backlog refinement. [Current backlog refinement
-issues](https://gitlab.com/gitlab-org/tenant-scale-group/group-tasks/-/issues/?label_name%5B%5D=workflow%3A%3Arefinement).
+selected for backlog refinement. [Current backlog refinement issues](https://gitlab.com/gitlab-org/tenant-scale-group/group-tasks/-/issues/?label_name%5B%5D=workflow%3A%3Arefinement).
 
 For each issue, team members will review the issues and provide:
 
@@ -290,8 +288,7 @@ retrospectives.
 
 We have [milestone retrospectives issues](https://gitlab.com/gl-retrospectives/enablement-section/tenant-scale/-/issues).
 These include the EM, PM, engineers, UX, and all stable counterparts.
-Participation is highly encouraged for every milestone. For more information, see [group
-retrospectives](/handbook/engineering/management/group-retrospectives/) created on the 26th of each
+Participation is highly encouraged for every milestone. For more information, see [group retrospectives](/handbook/engineering/management/group-retrospectives/) created on the 26th of each
 month, for the currently running milestone.
 
 #### Per Project

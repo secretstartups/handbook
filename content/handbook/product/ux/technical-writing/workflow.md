@@ -404,8 +404,7 @@ the [Structural Check](/handbook/marketing/blog/release-posts/#structural-check)
 
 ## Monthly documentation releases
 
-When a new GitLab version is released, the Technical Writing team releases [version-specific published
-documentation](https://gitlab.com/gitlab-org/gitlab-docs/-/blob/main/doc/releases.md).
+When a new GitLab version is released, the Technical Writing team releases [version-specific published documentation](https://gitlab.com/gitlab-org/gitlab-docs/-/blob/main/doc/releases.md).
 
 ## Documentation feedback and improvements
 
