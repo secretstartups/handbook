@@ -16,7 +16,7 @@ The Objection Handling Process can be broken down into the following steps:
 - **Question**
   - Ask [questions](http://changingminds.org/techniques/questioning/questioning.htm) if it makes sense, generally we find open ended questions are the best way to retrieve information. This not only shows you are interested in them, but it also gives you more information with which to make the sale.
   - As you question them, watch carefully for body language that gives you more information about what they are thinking and feeling.
-  - You might also use the "tip the bucket technique" to see if they more objections that can be answered.
+  - You might also use the "[tip the bucket technique](http://changingminds.org/disciplines/sales/objection/tip_the_bucket.htm)" to see if there are more objections that can be answered.
 - **Think**
   - Take a pause to think & figure out which [technique](http://changingminds.org/disciplines/sales/objection/objection_handling.htm) is the best for their objection. You will see that these techniques will become second nature with practice.
 - **Handle**
