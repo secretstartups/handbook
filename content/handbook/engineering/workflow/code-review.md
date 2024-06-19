@@ -493,12 +493,6 @@ time frame, let the author know as soon as possible in the comments
 and try to help them find another reviewer or maintainer who is able to, so that they can be unblocked
 and get on with their work quickly. Remove yourself as a reviewer.
 
-If you are at capacity and are unable to accept any more reviews until
-some have been completed, communicate this through your GitLab status by setting
-the 🔴 `:red_circle:` emoji and mentioning that you are at capacity in the status
-text. This guides contributors to pick a different reviewer, helping us to
-meet the SLO.
-
 Reviewers may also communicate their status through the use of several other emoji. For more details
 on these other statuses, please refer to the [code review](https://docs.gitlab.com/ee/development/code_review.html#reviewer-roulette)
 page in the developer documentation.
