@@ -168,7 +168,8 @@ If gradual decomposition is not possible, then we would pursue decomposition wit
 | DRI - Infrastructure                 |                   ||
 | DRI - Database                       | Jon Jenkins       | Senior Backend Engineer, Database |
 | DRI - Data                           | Ved Prakash       | Staff Data Engineer|
-| DRI - Secure: Composition Analysis   |                   ||
+| DRI - Secure                         | Thiago Figueiró   | Manager, Software Engineering |
+| DRI - Secure: Composition Analysis   | Fabien Catteau    | Staff Engineer, Secure: Composition Analysis |
 | DRI - Secure: Dynamic Analysis       | Arpit Gogia       | Backend Engineer - Secure, Dynamic Analysis |
 | DRI - Secure: Static Analysis        | Schmil Monderer   | Staff Backend Engineer - Secure, Static Analysis |
 | DRI - Secure: Secret Detection       | Ethan Urie        | Staff Backend Engineer - Secure: Secret Detection |
