@@ -23,7 +23,7 @@ Examples of how we engage with analysts include:
 - Inquiries where analysts answer specific questions we have about product strategy, messaging, competitive positioning
 - Advisory days for a deeper dive into the products, markets, and strategies
 - Responding to analyst RFIs in support of comparative analyst research such as Forrester Waves, Gartner Magic Quadrants, and IDC MarketScapes
-- Collaborating on market research procucts, surveys, sales enablement tools, etc.
+- Collaborating on market research products, surveys, sales enablement tools, etc.
 - Providing an analyst newsletter to update analysts on what GitLab is doing between briefings
 - Promoting analyst reports that feature GitLab to help enhance or clarify our story for customers, prospects, and partners
 - Inviting analysts to participate in webinars, speaking engagements, media engagement, and other events where an analyst presence would be beneficial
