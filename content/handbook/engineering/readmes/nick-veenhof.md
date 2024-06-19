@@ -70,7 +70,7 @@ I'm here for you. You in my role is a really wide interpretation. This means
 
 I prefer to deep-dive into an issue so I can get a great understanding of the
 topic at hand. I don't function very well without a deep understanding of the
-technicalities behind the conversation, so please do not withold any information
+technicalities behind the conversation, so please do not withhold any information
 because of the words in my title!
 
 Next to that I like to brainstorm and have direct conversations to dig deeper
