@@ -204,6 +204,8 @@ separately for each project.
 
 #### Manually creating deviation requests for FedRAMP vulnerabilities
 
+Vulnmapper automatically creates Deviation Requests but may fail for various reasons, such as the absence of analysis from NVD.
+
 In cases where automation fails, you must create the [Deviation Requests](/handbook/security/security-assurance/dedicated-compliance/poam-deviation-request-procedure/) manually before the issues reach SLA.
 To do so, use the following procedure.
 
