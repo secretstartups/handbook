@@ -269,7 +269,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
     - Make note of Support's [internal-requests](https://gitlab.com/gitlab-com/support/internal-requests) project - you will be filing issues under this for some of the workflows listed in the above page.
 - **Review the Zendesk Workflow (Material - Handbook - 15 minutes)**
   - Zendesk is the tool the GitLab Support Team uses to work tickets for customers. Please familiarize yourself with the associated workflows.
-  - Review the workflows in this section of the [Handbook](/handbook/support/workflows/#Zendesk).
+  - Review the workflows in this section of the [Handbook](/handbook/support/workflows/#zendesk).
 - **Sign up for Zendesk (Assignment - 5 Minutes - 10 Points - Pre Work)**
   - All GitLab staff can request a 'Light Agent' account so that you can see customer tickets in Zendesk and leave notes for the Support team.
     - To do so, follow the process outlined in the [handbook](/handbook/support/internal-support/#requesting-a-zendesk-light-agent-account). Once the account is created, you'll need to wait 24 hours for it to be assigned in Okta. Once Zendesk is assigned, you should be able to login to Zendesk at https://gitlab.zendesk.com/agent.

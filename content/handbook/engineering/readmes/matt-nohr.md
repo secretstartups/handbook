@@ -26,7 +26,7 @@ This document is a living breathing thing and likely incomplete. I update it fre
 - I believe in the [servant leadership](https://wheniwork.com/blog/the-ultimate-guide-to-the-servant-leadership-model/) model
 - I tend to follow a mindset like: "If you are running, I'll let you run. If you trip, I'll be there to help you back up."
 - I have a [Defender](https://www.16personalities.com/isfjs-at-work) personality
-- I prefer a [bias towards action](/handbook/values/#sts=Bias%20for%20Action).
+- I prefer a [bias towards action](/handbook/values/#sts=bias%20for%20action).
 - I respond well to being asked for help ("Can you help with X?"). I don't respond well to being told what to do ("Do X!")
 - I have worked for Fortune 100 companies and small startups. They each have advantages and disadvantages.
 - I look for small, incremental deliveables and a willingness to work on any task.

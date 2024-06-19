@@ -120,7 +120,7 @@ At GitLab, your GitLab email address is your username. If you've forgotten your 
 
 ## How do I make a safe password?
 
-Okta supports strong passwords through the use of password complexity rules and length, consistent with our password policy. Please follow [GitLab’s Password Policy guidelines](/handbook/security/#GitLab-password-policy-guidelines) to determine the rules.
+Okta supports strong passwords through the use of password complexity rules and length, consistent with our password policy. Please follow [GitLab’s Password Policy guidelines](/handbook/security/#gitlab-password-policy-guidelines) to determine the rules.
 
 ## How does Multi-­factor Authentication (MFA) work?
 
