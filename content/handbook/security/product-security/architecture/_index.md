@@ -495,9 +495,6 @@ load, and not achievements. Instead, we are measuring success in terms of maturi
 The [OWASP SAMM] framework is currently used, but this is subject to change (see discussions in this
 [issue](https://gitlab.com/gitlab-com/gl-security/security-department-meta/-/issues/1315)).
 
-We are targeting the Maturity Level 1 for FY23-Q1, and our roadmap is discussed in this
-[issue](https://gitlab.com/gitlab-com/gl-security/security-architecture/general/-/issues/8).
-
 [OWASP SAMM]: https://owaspsamm.org/about/
 
 ## Communication channels
