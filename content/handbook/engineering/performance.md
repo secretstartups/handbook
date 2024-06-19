@@ -314,8 +314,7 @@ Consider the scenario of a user opening their browser, and surfing to their dash
       are two separate AJAX calls, triggered by `DOMContentLoaded`. (The
       `DOMContentLoaded` event "marks the point when both the [DOM](https://css-tricks.com/dom/)
       is ready and there are no stylesheets that are blocking JavaScript
-      execution" (taken from an article about the [critical rendering
-      path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/measure-crp))).
+      execution" (taken from an article about the [critical rendering path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/measure-crp))).
       The alternative to using AJAX would be to include the full Rails code to
       generate the calendar and activity feed within the same controller that
       is called by the gitlab.com/username URL; which would lead to slower First
@@ -462,8 +461,7 @@ pick:
 1. How frequently something is used.
 2. How likely it is for something to cause an outage.
 
-For strictly performance related work you can use the [Controller Timings
-Overview](https://dashboards.gitlab.net/dashboard/db/controller-timings-overview?)
+For strictly performance related work you can use the [Controller Timings Overview](https://dashboards.gitlab.net/dashboard/db/controller-timings-overview?)
 Grafana dashboard. This dashboard categorises data into three different
 categories, each with their associated severity label:
 

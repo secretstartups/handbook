@@ -40,12 +40,9 @@ The goal of this page is to document resources needed for day-to-day work within
 
 For
 [`gitlab-org/gitlab-runner`](https://gitlab.com/gitlab-org/gitlab-runner)
-we have the [Merge Request
-Bot](https://gitlab.com/merge-request-bot/merge-request-bot) enabled which posts
-[comments for community
-contributions](https://gitlab.com/gitlab-org/gitlab-runner/-/merge_requests/2407#note_411098266).
-This is configured via [Merge Request webhook
-events](https://gitlab.com/gitlab-org/gitlab-runner/hooks).
+we have the [Merge Request Bot](https://gitlab.com/merge-request-bot/merge-request-bot) enabled which posts
+[comments for community contributions](https://gitlab.com/gitlab-org/gitlab-runner/-/merge_requests/2407#note_411098266).
+This is configured via [Merge Request webhook events](https://gitlab.com/gitlab-org/gitlab-runner/hooks).
 
 - [Appliation code](https://gitlab.com/merge-request-bot/merge-request-bot)
 - [CloudRun deployment](https://gitlab.com/gitlab-org/ci-cd/merge-request-bot/infrastructure/cloud-run)

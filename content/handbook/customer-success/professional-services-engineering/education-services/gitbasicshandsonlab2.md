@@ -16,8 +16,7 @@ In this lab you will practice using a repository on your local computer and lear
 
 Please take time to understand any code that you are asked to copy and paste in any lab. Ask your instructor to explain any code that’s not clear.
 
-> Many of the Git commands used in this lab are summarized in GitLab’s helpful [git cheat sheet](
-  https://about.gitlab.com/images/press/git-cheat-sheet.pdf). This lab will require you to be able to use your local computer to have SSH access to the internet. Please make sure your machine has the required permissions.
+> Many of the Git commands used in this lab are summarized in GitLab’s helpful [git cheat sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf). This lab will require you to be able to use your local computer to have SSH access to the internet. Please make sure your machine has the required permissions.
 
 ## Task A. Verify that Git is installed locally
 

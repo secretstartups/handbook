@@ -40,8 +40,7 @@ The following people are permanent members of the Verify:Runner group:
 
 {{< stable-counterparts role="Verify:Runner" manager-role="Engineering Manager(.*)Verify:Runner" >}}
 
-For a more comprehensive list of counterparts, look at the [runner product
-categtory](/handbook/product/categories/#runner-group)
+For a more comprehensive list of counterparts, look at the [runner product categtory](/handbook/product/categories/#runner-group)
 
 ## Dashboards
 
@@ -242,8 +241,7 @@ This allows the onboarding developer to grow organically over time in their resp
 ### Becoming a maintainer for one of our projects
 
 Although maintainer access is provided from day one for practical purposes,
-we follow the same process [outlined
-here](/handbook/engineering/workflow/code-review/#how-to-become-a-project-maintainer).
+we follow the same process [outlined here](/handbook/engineering/workflow/code-review/#how-to-become-a-project-maintainer).
 Any engineeer inside of the organization is welcome to become a
 maintainer of a project owned by the Runner team.
 

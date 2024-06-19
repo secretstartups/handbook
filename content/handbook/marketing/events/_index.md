@@ -564,7 +564,7 @@ The sales nominated process allows for records to be added to the campaign in or
 - [Hardened Containers: The Right Application Platform Can Help DoD Develop Its DevSecOps Culture](https://drive.google.com/file/d/1cszlj5fKFE12qFd4aMNij0a83v-3Fe4r/view)
 - [VPAT Template](https://docs.google.com/document/d/1o6gCe2Se_Cuia-VsrUTdGvESNZVefyoqFAu1NY8rJpQ/edit)
 - [What is GitLab? Speed. Efficiency. Trust](https://www.youtube.com/watch?v=-_CDU6NFw7U&list=PL05JrBw4t0KpEQDAhM3Txia7QHdYlngMa&index=2&t=16s)
-- [A Beginner's Guide to GitOps](https://learn.gitlab.com/c/beginner-guide-gitops?x=H2TMk5&utm_medium=email&utm_source=marketo&utm_campaign=iacgitops&utm_content=beginnerguidegitops&mkt_tok=MTk0LVZ
+- [A Beginner's Guide to GitOps](https://learn.gitlab.com/c/beginner-guide-gitops?x=H2TMk5&utm_medium=email&utm_source=marketo&utm_campaign=iacgitops&utm_content=beginnerguidegitops&mkt_tok=MTk0LVZ)
 
 ##### Quick Booth quality check
 

@@ -266,8 +266,7 @@ Additional resources on how to be an ally:
 
 - [Allyship at GitLab]({{< ref "ally-resources" >}})
 - [Live Learning Ally Training at GitLab](https://ctb.ku.edu/en/table-of-contents/culture/cultural-competence/be-an-ally/main)
-- [Chapter 27. Cultural Competence in a Multicultural World | Section 5. Learning to be an Ally for People from Diverse Gro…
-Straight for Equality](https://ctb.ku.edu/en/table-of-contents/culture/cultural-competence/be-an-ally/main)
+- [Chapter 27. Cultural Competence in a Multicultural World | Section 5. Learning to be an Ally for People from Diverse Gro…Straight for Equality](https://ctb.ku.edu/en/table-of-contents/culture/cultural-competence/be-an-ally/main)
 - [Guide to Allyship](http://www.guidetoallyship.com/#the-work-of-allyship)
 
 ## TMRG or TMAG Leads

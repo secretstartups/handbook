@@ -19,9 +19,8 @@ GitLab's six core values are
 [**👣 Iteration**](#iteration), and
 [**👁️ Transparency**](#transparency),
 and together they spell the **CREDIT** we give each other by assuming
-good intent. We react to them [with values
-emoji](/handbook/communication/#values-emoji) and they are made
-actionable below.
+good intent. We react to them [with values emoji](/handbook/communication/#values-emoji)
+and they are made actionable below.
 
 ##### About our values
 
@@ -1096,8 +1095,8 @@ Because some information is [not public](/handbook/communication/confidentiality
 
 ##### Directness
 
-Being direct is about being transparent with each other. We try to channel our inner [Ben Horowitz](https://en.wikipedia.org/wiki/Ben_Horowitz) by being [both straightforward
-and kind](https://medium.com/@producthunt/ben-horowitz-s-best-startup-advice-7e8c09c8de1b). Feedback is always about your work and not your person. That doesn't mean it will be easy to give or receive it.
+Being direct is about being transparent with each other. We try to channel our inner [Ben Horowitz](https://en.wikipedia.org/wiki/Ben_Horowitz) by being [both straightforward and kind](https://medium.com/@producthunt/ben-horowitz-s-best-startup-advice-7e8c09c8de1b).
+Feedback is always about your work and not your person. That doesn't mean it will be easy to give or receive it.
 
 ##### Articulate when you change your mind
 

@@ -93,8 +93,7 @@ Our principles are based on two simple pillars:
 1. **Network isolation**
 
 They are detailed below with the principles taken from the book Software Systems Architecture (see
-[references](#references)) and this [ACCU 2019 related
-video](https://www.youtube.com/watch?v=YbjoaMN67Hw). These are very close to the [OWASP Security
+[references](#references)) and this [ACCU 2019 related video](https://www.youtube.com/watch?v=YbjoaMN67Hw). These are very close to the [OWASP Security
 Design Principles] but are easier to understand and apply.
 
 [OWASP Security Design Principles]: https://github.com/OWASP/DevGuide/blob/master/02-Design/01-Principles%20of%20Security%20Engineering.md
@@ -169,8 +168,7 @@ Make attacks less attractive.
 
 #### Links
 
-- [OWASP Access Control
-  Models](https://owasp.org/www-community/Access_Control#access-control-models)
+- [OWASP Access Control Models](https://owasp.org/www-community/Access_Control#access-control-models)
 - <https://en.wikipedia.org/wiki/Compartmentalization_%28information_security%29>
 
 </details>
@@ -207,8 +205,7 @@ Make attacks less attractive.
   application.
 - Downloading 3rd party libraries or scripts at runtime can lead to many security issues, including
   cache poisoning, XSS, and whatnot. Without checking the integrity of the external asset, malicious
-  actors can tamper the files, like this example of [BGP
-  Hijacking](https://medium.com/s2wblog/post-mortem-of-klayswap-incident-through-bgp-hijacking-en-3ed7e33de600)
+  actors can tamper the files, like this example of [BGP Hijacking](https://medium.com/s2wblog/post-mortem-of-klayswap-incident-through-bgp-hijacking-en-3ed7e33de600)
 
 #### Links
 
@@ -251,8 +248,7 @@ Make attacks less attractive.
 #### Links
 
 - [Keep it simple, stupid](https://en.wikipedia.org/wiki/KISS_principle)
-- [Complexity and exponential
-  change](https://nextconf.eu/2020/02/complexity-and-exponential-change/)
+- [Complexity and exponential change](https://nextconf.eu/2020/02/complexity-and-exponential-change/)
 
 </details>
 
@@ -318,8 +314,7 @@ aka Fail Safe Defaults.
 #### Examples
 
 - Do not trust invalid/expired TLS certificates
-- Some components like Grafana come with a [default `admin/admin`
-  user/password](https://grafana.com/docs/grafana/v7.5/administration/configuration/#security).
+- Some components like Grafana come with a [default `admin/admin` user/password](https://grafana.com/docs/grafana/v7.5/administration/configuration/#security).
 - Related to above, some components might fail over to a plain user/password authentication (with
   default credentials) under certain conditions, like a service not reachable.
 - Some frameworks tend to render error pages with details that should not be shared, like hostnames

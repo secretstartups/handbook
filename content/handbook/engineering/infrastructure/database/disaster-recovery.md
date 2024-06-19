@@ -13,8 +13,7 @@ incident).
 
 The overview here is not complete and is going to be extended soon.
 
-We base our strategy on PostgreSQL's [Point-in-Time Recovery
-(PITR)](https://www.postgresql.org/docs/9.6/static/continuous-archiving.html) feature.
+We base our strategy on PostgreSQL's [Point-in-Time Recovery (PITR)](https://www.postgresql.org/docs/9.6/static/continuous-archiving.html) feature.
 
 This means we're shipping daily snapshots and transaction logs (WAL) to
 an external storage (the archive). Given a snapshot, we are now able to

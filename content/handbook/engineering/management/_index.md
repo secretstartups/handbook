@@ -18,8 +18,7 @@ This page will serve as a training resource and operational guide for current an
 
 ## General leadership principles
 
-All Engineering Managers should follow the [general leadership
-principles](/handbook/leadership/) set out in the handbook. In particular, it is
+All Engineering Managers should follow the [general leadership principles](/handbook/leadership/) set out in the handbook. In particular, it is
 not uncommon for Engineering Managers to struggle with one or more of the
 following areas, so we recommend you review them carefully and discuss your
 confidence with your manager:
@@ -62,8 +61,7 @@ work to an extent. However, please keep the following advice in mind:
   task.
 - Focus on where you can add the most value. As mentioned above, you won't add
   value on critical path work, but that doesn't mean you can't add value in
-  other ways. For a great discussion on this, see this article on [How (and why)
-  Should Managers Code](https://medium.com/@johnbarton/how-and-why-should-managers-code-323751799664).
+  other ways. For a great discussion on this, see this article on [How (and why) Should Managers Code](https://medium.com/@johnbarton/how-and-why-should-managers-code-323751799664).
 - Plan to review more than you write. Following from all of this, most of your
   "coding-related work" should be in code review - you add more value reviewing
   code to stay up to date with your team and provide them feedback and guidance.

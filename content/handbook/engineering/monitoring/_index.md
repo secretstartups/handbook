@@ -145,8 +145,7 @@ The dashboards for stage groups are at a very early stage. All contributions are
 ## Logs
 
 Network, System, and Application logs are processed, stored, and searched using
-the [ELK stack](https://www.elastic.co/products). We use a [managed
-Elasticsearch cluster on GCP](https://www.elastic.co/gcp) and as such our only
+the [ELK stack](https://www.elastic.co/products). We use a [managed Elasticsearch cluster on GCP](https://www.elastic.co/gcp) and as such our only
 interface to this is through APIs, Kibana and the elastic.co web UI.  For
 monitoring system performance and metrics, Elastic's x-pack monitoring metrics are used. They are sent to a dedicated monitoring cluster. Long-term we intend to switch to Prometheus and Grafana as the preferred
 interface. As it is managed by Elastic they run the VMs and we do not have

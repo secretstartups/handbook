@@ -34,8 +34,7 @@ And more generally:
 
 - Everything built by GitLab, and meant to be deployed in our infrastructure or our customers'
   infrastructure.
-- New or updated architectures processing, storing, or transferring any kind of [RED or ORANGE
-  data]({{< ref "data-classification-standard" >}})
+- New or updated architectures processing, storing, or transferring any kind of [RED or ORANGE data]({{< ref "data-classification-standard" >}})
 
 [Architecture workflow]: https://about.gitlab.com/handbook/engineering/architecture/workflow/
 

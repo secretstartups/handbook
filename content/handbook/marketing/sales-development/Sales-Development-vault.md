@@ -415,8 +415,7 @@ We have an end-to-end process and tool walkthrough that walks manager through al
 
 ### General leadership principles
 
-This page will serve as a training resource and operational guide for current and future managers. All Sales Development Managers should follow the [general leadership
-principles](/handbook/leadership/) set out in the handbook.
+This page will serve as a training resource and operational guide for current and future managers. All Sales Development Managers should follow the [general leadership principles](/handbook/leadership/) set out in the handbook.
 
 - [1-1s](/handbook/leadership/1-1/)
 - [Providing regular feedback](/handbook/leadership/#giving-feedback)
