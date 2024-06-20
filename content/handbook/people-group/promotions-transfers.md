@@ -126,7 +126,7 @@ Status: In progress
 
 Q3 Promotion Planning is generally done via spreadsheets to maintain confidentiality and enable collaboration across department leaders where appropriate. Prior to the Planning phase in the timeline above, People Business Partners will make sure the spreadsheets are up to date before going into the Calibration phase.
 
-Once the Calibration phase by Division is complete, Directors and above will have the ability to enter promotion compensation recommendations into the Workday planning grid. For specific Division calibration meeting timelines, please reach out to your People Business Partner.
+Once the Calibration phase by Division is complete, Directors and above will have the ability to enter promotion compensation recommendations into the [Workday planning grid](https://docs.google.com/document/d/1KwpFnZC5MFpCwS9ElqkSh0f1bdZ3l0Gp-B4lDdJwIg0/edit?usp=sharing). For specific Division calibration meeting timelines, please reach out to your People Business Partner.
 
 ### Promotion Document
 
