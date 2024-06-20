@@ -58,6 +58,8 @@ Blog editors, please add the following two sentences at the beginning of contrib
 
 ***Editor's note: From time to time, we invite members of the community to contribute to the GitLab Blog. Thanks to [entity name] for co-creating with us.***
 
+External contributions are subject to the [External Blog Submissions Terms](https://about.gitlab.com/externalblogsubmissionsterms/). Please read this document and agree to terms before submitting material to GitLab.
+
 ## How to submit a blog draft once your idea is approved
 
 Once a blog pitch is approved, the author will use the [Blog Submission template](https://docs.google.com/document/d/1iWk0a5T14dG5fvIxvG4doqqRxx0pyv3ej_aMDqYXjgA/template/preview) (Google Doc) to write the blog, ensuring the Google Doc is linked in the issue. **All fields in the template will have to be completed for the blog team to accept the submission.**
