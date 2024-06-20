@@ -88,6 +88,10 @@ In **[this video](https://www.youtube.com/watch?v=QT-oOceFU6k&ab_channel=GitLabU
 
 If you need to do edits to the database by merging leads together for any of the above steps, please reference the videos below for an explanation.
 
+### SDR Territory Map
+
+![SDRTerritoryMap](content/handbook/marketing/sales-development/SDRTerritoryMap.png)
+
 ### Merging Leads
 
 |                                   |
