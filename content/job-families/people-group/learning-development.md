@@ -7,7 +7,7 @@ The Learning and Development (L&D) job family is responsible for building and ma
 
 ## Associate Learning & Development Program Manager
 
-The Associate Learning & Development Program Manager reports to the [Learning & Development Mnanager](#manager-learning--development).
+The Associate Learning & Development Program Manager reports to the [Learning & Development Manager](#manager-learning--development).
 
 ### Associate Learning & Development Program Manager Job Grade
 
