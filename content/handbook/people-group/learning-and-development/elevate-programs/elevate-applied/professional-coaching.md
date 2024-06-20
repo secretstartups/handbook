@@ -64,6 +64,6 @@ If you are not accepted into the FY25 cohort, consider these options for future 
 | 2024-06-05 | Applications Open |
 | 2024-06-14 | Applications Close |
 | 2024-06-21 | Selected participants notified |
-| 2024-07-01 | Coaching Begins |
+| 2024-07-15 | Coaching Begins |
 | 2024-08-30 | Coaching Ends |
 | 2024-08-02 | Participant feedback collected |
