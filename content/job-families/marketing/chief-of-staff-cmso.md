@@ -1,5 +1,5 @@
 ---
-title: {Chief of Staff (CMSO)}
+title: Chief of Staff (CMSO)
 ---
 
 This is a key leadership position on the Chief Marketing & Strategy Officer’s (CMSO) team. This highly visible role is a trusted partner to the CMSO to drive operational excellence and deliver repeatable business results. This role serves as a partner to the CMSO as a strategic advisor and executes cross-functional and cross-organization initiatives and activities supporting the CMSO’s strategy and vision in alignment with our company values. This role reports directly to the CMSO.
@@ -33,6 +33,7 @@ The responsibilities include both directed work initiated by the CMSO as well as
 - This role does not overlap with the responsibilities [Executive Business Administrators](/job-families/people-group/executive-business-administrator/) already handle. This role could have EBA support, will work closely with the EBA to the CMSO to ensure the CMSO’s time is well managed and prioritized according to the top business objectives.
 
 ### Administration and Meetings
+
 - Manage weekly executive staff meetings, including, but not limited to, setting the agenda, and providing insights and analysis to inform strategic conversations. Documents and communicates decisions and action items from meetings. Ensures follow-up and closure of action items to increase accountability
 - Prepare for external meetings including board meetings
 - Compile and edit all briefing materials for all CMSO meetings; conduct primary research and work with key stakeholders to prepare the background for meetings with key executives, partners, and events (e. g., identify goals and talking points, provide background on attendees, analyze the current business relationship, and summarize opportunities)
