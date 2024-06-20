@@ -10,20 +10,21 @@ This page details processes and general guidelines specific to the Executive Bus
 
 | ORG |  EBA / SR EBA  | EXECUTIVE  |
 | --- | --- | --- |
-| [CEO](/job-families/chief-executive-officer/) | **Jeanne Rotenberry**<br>Staff EBA, **Liki Simonot**<br>Sr EBA  | Sid Sijbrandij (CEO) |
-| [Chief of Staff](/job-families/chief-executive-officer/chief-of-staff/) | **Liki Simonot**<br>Sr EBA  | Stella Treas (Chief of Staff) |
+| [CEO](/job-families/chief-executive-officer/) | **Jeanne Rotenberry**<br>Staff EBA<br>**Carla Sylva**<br>Sr EBA  | Sid Sijbrandij (CEO) |
+| [Chief of Staff](/job-families/chief-executive-officer/chief-of-staff/) | **Carla Sylva**<br>Sr EBA  | Stella Treas (Chief of Staff) |
 | [Engineering](/handbook/engineering/) | **Vange Ingan**<br>Sr EBA  | Sabrina Farmer (CTO) |
+| [Engineering](/handbook/engineering/) | **Liki Simonot**<br>Sr EBA | Mek Stittri (VP of Infrastructure & Quality)<br>Tim Zallmann (Sr. Director of Engineering, Core Development) |
 | [Finance](/handbook/finance/) | **Darci Tadich**<br>Staff EBA |  Brian Robins (CFO) |
 | [Finance](/handbook/finance/) | **OPEN**<br> EBA| Erin Mannix (Chief Accounting Officer)<br>Jim Gladen (VP of Tax)<br>Brijen Joshi (VP of Internal Audit) |
 | [Finance](/handbook/finance/) | **Anita Mall**<br>Sr EBA | James Shen (VP of Finance )<br>Nabitha Rao (VP of IT/EntApps)<br>Kelsey Turcotte (VP of Investor Relations) |
 | [Legal](/handbook/legal/) | **Sharlene Seemungal**<br>Staff EBA  | Robin Schulman (CLO and Head of Corporate Affairs) |
 | [Legal](/handbook/legal/)  | **Lauren Lopez**<br>EBA  | Eliran Mesika (VP of Corporate Development)<br>Emily Plotkin (Sr. Director of Legal, Employment)<br>Lynsey Sayers (VP of Legal, Privacy & IP)<br>Matt Taylor (VP of Legal, Commercial)<br>Rashmi Chachra (Sr. Director of Legal & Corporate Affairs, Corporate)<br>Stacy Cline (Sr. Director of ESG)<br>Dan Hodes (Sr. Director of Legal, Risk Management and Dispute Resolution) |
-| [Marketing](/handbook/marketing/)| **Laura Vickerman**<br> Sr EBA | Ashley Kramer (CMSO) |
-| [Marketing](/handbook/marketing/)| **Linsea O'Shea**<br>Sr EBA | Dave Steer (VP of Brand & Product Marketing)<br>Carrie Maynard (VP of Integrated Marketing)<br> Jean-Baptiste Larramendy (VP of Sales Development) |
+| [Marketing](/handbook/marketing/)| **OPEN**<br> Sr EBA | Ashley Kramer (CMSO) |
+| [Marketing](/handbook/marketing/)| **Linsea O'Shea**<br>Sr EBA | Dave Steer (VP of Brand & Product Marketing)<br>Carrie Maynard (VP of Integrated Marketing)<br> Jean-Baptiste Larramendy (VP of Sales Development)<br>Laura Fagan (Sr. Chief of Staff, CMSO) |
 | [Marketing](/handbook/marketing/)| **Erin Talanda**<br>EBA | Emilio Salvador (VP of Developer Relations & Growth)<br>Lisa Boughner (VP of Corporate Communications)<br>Christine Lee (VP of Marketing Ops & Analytics)<br> Amie Bright (VP of Data & Insights) |
 | [People](/handbook/people-group/) | **Julia Nishioki**<br>EBA  | Wendy Barnes (CPO)<br>Pattie Egan (VP of People Operations, Technology and Analytics)<br> Rob Allen (VP of Talent Acquisition)<br>Sherida McMullan (VP of Diversity, Inclusion and Belonging) |
 | [Product](/handbook/product/) | **Gena Schwam**<br>Sr EBA|  David DeSanto (CProdO) |
-| [Product](/handbook/product/) | **Jennifer Garcia**<br>EBA | Justin Farris (VP of Product Management)<br>Hillary Benson (Sr Director of Product Management)<br>Mike Flouton (VP of Product Management) |
+| [Product](/handbook/product/) | **Jennifer Garcia**<br>EBA | Justin Farris (VP of Product Management)<br>Hillary Benson (Sr Director of Product Management)<br>Mike Flouton (VP of Product Management)<br>Steve Evangelista (Sr. Dir of Product, Dev & Analytics) |
 | [Sales](/handbook/sales/) | **Alexa Schrauth**<br>Staff EBA | Chris Weber (CRO) |
 | [Sales](/handbook/sales/) | **Becky Piccone**<br>Sr EBA | Sherrod Patching (VP of CSMS)<br>Jonathan Fullam (VP of Global Solutions Architecture) <br> Kevin Lake (VP of Professional Services & Education) |
 | [Sales](/handbook/sales/) | **Kiran Gill**<br>Sr EBA | Jake Bielecki (VP of Field Operations) <br> Patty Cheung (VP of WW Channels & Alliances) |
