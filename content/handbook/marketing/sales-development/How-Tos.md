@@ -90,7 +90,7 @@ If you need to do edits to the database by merging leads together for any of the
 
 ### SDR Territory Map
 
-![SDRTerritoryMap](content/handbook/marketing/sales-development/SDRTerritoryMap.png)
+![SDRTerritoryMap](/handbook/marketing/sales-development/SDRTerritoryMap.png)
 
 ### Merging Leads
 
