@@ -235,8 +235,6 @@ Kibana is not typically used to locate `5XX` errors, but there are times where t
 1. Choose relevant fields from the sidebar. For a `500` error, you want to filter for `json.status` and choose `is`, then enter `500`.
 1. Continue to use relevant fields from the list on the sidebar to narrow down the search.
 
-It's recommended to apply a **Negative Filter** to the `gitlab_error.log` and `gitlab_access.log` log files. These two generate a large amount of noise and may not be relevant to your search.
-
 See the [500 errors workflow]({{< ref "500_errors" >}}) for more information on searching and finding errors on GitLab.com
 
 #### Filter by IP Range
