@@ -133,42 +133,6 @@ We are responsible for triaging vulnerabilities reported on 2 sets of projects: 
 
 See the [Secure sub-department vulnerability management process](/handbook/engineering/development/sec/secure/#vulnerability-management-process).
 
-<details>
-<summary>View manual process fallback that is specific to Composition Analysis group</summary>
-
-**Please keep track of the commands that were executed and add them to a private note in the reaction rotation issue.**
-
-#### Manually reviewing and resolving vulnerabilities
-
-On a weekly basis: review the vulnerability report to resolve no longer detected ones and close related issues. Note: It is not necessary to investigate vulnerabilities that are no longer detected.
-
-1. Visit `Vulnerability Report Dashboards` to verify that there are vulnerabilities that can be resolved.
-    - [Analyzer vulnerabilities that are no longer detected][Analyzer vulnerabilities that are no longer detected].
-        - If you want to configure the report manually, select all [shared](#shared), [container scanning](#container-scanning), and [dependency scanning](#dependency-scanning) projects, and apply the `No longer detected` activity filter and apply the `Confirmed` and `Needs Triage` status.
-    - [License-db Vulnerability that are no longer detected][License-db vulnerabilities that are no longer detected]
-        - If you want to configure the report manually, select all [license-db](#license-db) projects, and apply the `No longer detected` activity filter and apply the `Confirmed` and `Needs Triage` status.
-1. Execute the `security-triage-automation` tool to [resolve vulnerabilities and close their issues](https://gitlab.com/gitlab-org/secure/tools/security-triage-automation#resolve-vulnerabilities-and-close-their-issues). This tool must be executed separately for each of the projects in the following categories (if there are vulnerabilities to resolve):
-    - [container scanning](#container-scanning)
-    - [dependency scanning](#dependency-scanning)
-    - [license-db](#license-db)
-1. Verify in `Vulnerability Report Dashboards` that vulnerabilities have been resolved.
-
-#### Manually creating security issues for FedRAMP vulnerabilities
-
-Follow the Secure sub-department process on [manually creating security issues for FedRAMP vulnerabilities](/handbook/engineering/development/sec/secure/#manually-creating-security-issues-for-fedramp-vulnerabilities)
-for each of these projects:
-
-- [container scanning](#container-scanning)
-- [dependency scanning](#dependency-scanning)
-
-#### Manually creating deviation requests for FedRAMP vulnerabilities
-
-Follow the Secure sub-department process on [manually creating deviation requests for FedRAMP vulnerabilities](/handbook/engineering/development/sec/secure/#manually-creating-deviation-requests-for-fedramp-vulnerabilities)
-for each of the [vulnerabilities near SLA breach][Vulnerabilities near
-SLA breach].
-
-</details>
-
 ##### Security Policy
 
 We prioritize findings by their CVSS severities and [SLAs][Vulnerability SLAs], and currently focus on security findings with these severity levels:
@@ -460,10 +424,4 @@ Before releasing an analyzer with a newer version of its upstream scanner, we mu
 
 [Upstream Scanners Vulnerability Report]: https://gitlab.com/groups/gitlab-org/security-products/dependencies/-/security/vulnerabilities/?state=DETECTED&projectId=30616761,30684590,35335143,39545454,39545481,51420921&severity=CRITICAL,HIGH&activity=STILL_DETECTED
 
-[Analyzer vulnerabilities that are no longer detected]: https://gitlab.com/groups/gitlab-org/security-products/analyzers/-/security/vulnerabilities/?state=CONFIRMED,DETECTED&projectId=13150952,15369510,18446184,24673064,52241202,6126012,9450192&activity=NO_LONGER_DETECTED
-
-[License-db vulnerabilities that are no longer detected]: https://gitlab.com/groups/gitlab-org/security-products/license-db/-/security/vulnerabilities/?state=CONFIRMED,DETECTED&projectId=39193358,39229232,39233486,39298809,39622674,40857363,45266022&activity=NO_LONGER_DETECTED
-
 [Vulnerability SLAs]: /handbook/security/product-security/vulnerability-management/#remediation-slas
-
-[Vulnerabilities near SLA breach]: https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=created_date&state=opened&label_name%5B%5D=group%3A%3Acomposition%20analysis&label_name%5B%5D=bug%3A%3Avulnerability&label_name%5B%5D=SLA%3A%3ANear%20Breach&amp;not%5Blabel_name%5D%5B%5D=FedRAMP%3A%3ADR%20Status%3A%3ADenied&amp;not%5Blabel_name%5D%5B%5D=FedRAMP%3A%3ADR%20Status%3A%3AOpen&amp;not%5Blabel_name%5D%5B%5D=FedRAMP%3A%3ADR%20Status%3A%3AAccepted&first_page_size=20
