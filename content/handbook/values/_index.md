@@ -349,7 +349,7 @@ We give people agency to focus on what they think is most beneficial. If a meeti
 
 ##### Challenger mindset
 
-Challenging the status quo can lead to remarkable results - we must never stop. A [challenger mindset](https://books.forbes.com/author-articles/whats-a-challenger-mindset-and-why-adopt-it-in-2021/) requires that we continually ask ourselves bold, difficult questions about our business the problems we solve while resisting complacency. To succeed we must innovate and delight our customers with the value of the products we build. A challenger mindset requires a relentless persuit of excellence - we must be [tenacious](/handbook/values/#tenacity). Each win for our customers builds reputational capital we can use to earn the trust of prospects in a competitive market. While competition is a feature of capitalism internally as GitLab team members we must focus our efforts inwardly on achieving our very best results for customers to win market share.
+Challenging the status quo can lead to remarkable results - we must never stop. A [challenger mindset](https://books.forbes.com/author-articles/whats-a-challenger-mindset-and-why-adopt-it-in-2021/) requires that we continually ask ourselves bold, difficult questions about our business the problems we solve while resisting complacency. To succeed we must innovate and delight our customers with the value of the products we build. A challenger mindset requires a relentless pursuit of excellence - we must be [tenacious](/handbook/values/#tenacity). Each win for our customers builds reputational capital we can use to earn the trust of prospects in a competitive market. While competition is a feature of capitalism internally as GitLab team members we must focus our efforts inwardly on achieving our very best results for customers to win market share.
 
 ##### Growth mindset
 
@@ -610,7 +610,7 @@ At GitLab we believe that everyone is entitled to a safe working space where the
 
 We believe that team members seeking feedback from a diverse group of team members, inside and outside of their group or function, leads to better decisions and a greater sense of team member belonging. For more guidance on how we define Diversity, please refer to [GitLab's definition of Diversity, Inclusion & Belonging](/handbook/company/culture/inclusion/#gitlabs-definition-of-diversity-inclusion--belonging). Feedback from a more heterogenous group often leads to better business outcomes as we incorporate diverse perspectives and uncover unconscious bias.
 
-An example of this operating principle in action showcases the value of actively seeking diverse perspectives. The term "Brag Document" was used to describe when individuals documented their accomplishments. Documenting accomplishments is critical to team member development. However, team members had the **psychological safety** to raise the question of whether or not the title of the document made some feel uncomfortable. In an effort to seek a **diverse perspective**, a survey was conducted in one of the [TMRG](/handbook/company/culture/inclusion/erg-guide/#what-is-not-an-tmrg-at-gitlab) channels. The poll results showed that 100% of those polled preferred a different title and the title was changed.
+An example of this operating principle in action showcases the value of actively seeking diverse perspectives. The term "Brag Document" was used to describe when individuals documented their accomplishments. Documenting accomplishments is critical to team member development. However, team members had the **psychological safety** to raise the question of whether or not the title of the document made some feel uncomfortable. In an effort to seek a **diverse perspective**, a survey was conducted in one of the [Team Member and Advocacy Resource Group (TMRG)](/handbook/company/culture/inclusion/erg-guide/#what-is-not-an-tmrg-at-gitlab) channels. The poll results showed that 100% of those polled preferred a different title and the title was changed.
 
 ##### Make family feel welcome
 
@@ -680,7 +680,7 @@ team members, customers, candidates for jobs, and anyone else.
 
 People whose name is repeatedly mispronounced might feel unimportant or self-conscious, and might not
 speak up about it.
-Other negative behaviours include giving a person a nickname without their permission, or
+Other negative behaviors include giving a person a nickname without their permission, or
 actively avoiding using their name in sync calls.
 
 It might be challenging to pronounce names from a different language or culture than your
@@ -689,7 +689,7 @@ own, but with some effort, name pronunciation can be learned by anyone. Some way
 - Ask the person for help in a private space: "I'm sorry, I don't think I am pronouncing your name correctly. Can you help me with the correct pronunciation?"
 - Use the written and recorded pronunciation tools in Slack.
 - Use online tools such as videos recorded on YouTube or [NameShouts](https://www.nameshouts.com/).
-- Practice the pronunciation with a friend or team member who knows the correct pronunication.
+- Practice the pronunciation with a friend or team member who knows the correct pronunciation.
 - Always avoid making jokes or comments about how it is difficult to pronounce their name.
 
 ###### Use of nicknames
@@ -862,7 +862,7 @@ But we set a due date because having something out there builds trust and gives 
 
 ##### Cleanup over sign-off
 
-As discussed in [Sid's interview on iteration](https://youtu.be/tPTweQlBS54?t=1030), waiting for approval can slow things down. We can prevent this with automation (e.g. tests of database migration performance) or clean-up after the fact (refactor a Pajamas if something was added that isn't coherent), but we try to ensure that people don't need to wait for signoff.
+As discussed in [Sid's interview on iteration](https://youtu.be/tPTweQlBS54?t=1030), waiting for approval can slow things down. We can prevent this with automation (e.g. tests of database migration performance) or clean-up after the fact (refactor a Pajamas if something was added that isn't coherent), but we try to ensure that people don't need to wait for sign-off.
 
 ##### Start off by impacting the fewest users possible
 
@@ -1229,7 +1229,7 @@ particularly for [newer team members](/handbook/company/culture/all-remote/getti
 
 ###### Process for removing operating principles
 
-*Values are not just things we do, but things that actively drive good behaviour.  When we remove them it doesn't mean we stopped believing in it, just that it wasn't actively helping to drive behaviour. If we don't prune our operating principles, then we will be like every other company: things that make sense but are not leading to a better culture.*
+*Values are not just things we do, but things that actively drive good behavior.  When we remove them it doesn't mean we stopped believing in it, just that it wasn't actively helping to drive behavior. If we don't prune our operating principles, then we will be like every other company: things that make sense but are not leading to a better culture.*
 
 1. To **remove** an operating principle from the Handbook page, submit your change through a merge request and explain your reasons in the merge request description.
 1. The GitLab Value Handbook Page owner must approve and merge the request.
