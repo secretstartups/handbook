@@ -151,7 +151,7 @@ get involved before proceeding with development.
 
 The ~"backend complete" label is added to issues with multiple specializations (usually backend and
 frontend) to indicate that the backend component is complete. Backend engineers should add this label when the backend work is
-functionally complete, merged and verified but frontend, or other, work is ongoing.
+functionally complete, merged and verified but frontend, or other work is ongoing.
 
 #### Health Status
 
@@ -221,6 +221,8 @@ means the issue should be better specified.
 [workflow columns]: /handbook/product-development-flow/
 [Build Board]: https://gitlab.com/groups/gitlab-org/-/boards/1569369?label_name[]=devops%3A%3Aplan&label_name[]=group%3A%3Aproduct%20planning&milestone_title=Started
 [#s_plan]: https://gitlab.slack.com/archives/s_plan
+[#development]: https://gitlab.slack.com/archives/development
+[#backend]: https://gitlab.slack.com/archives/backend
 
 ### Direction Items
 
@@ -253,8 +255,8 @@ in the handbook, and it is here to make those explicit:
 When you pick something to work on, please:
 
 1. Follow the standard workflow and assign it to yourself.
-1. Share it in [#s_plan] - if not even more widely (like in #development
-   or #backend).
+1. Share it in [#s_plan] - if not even more widely (like in [#development]
+   or [#backend]).
 
 [collaboration]: /handbook/values/#collaboration
 [results]: /handbook/values/#results
@@ -266,14 +268,14 @@ When you pick something to work on, please:
 
 ## Useful links
 
-- [:Plan:Product Planning] - Apply a milestone filter to see work in the current release
+- [Plan:Product Planning] - Apply a milestone filter to see work in the current release
 - [#s_plan] in Slack
 - [Recorded meetings][youtube]
 - [Retrospectives][retros]
 - [Group Conversations] (archive; group conversations now happen at a the
   [section level])
 
-[:Plan:Product Planning]: https://gitlab.com/groups/gitlab-org/-/boards/1569369?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Aplan&not[label_name][]=group%3A%3Aproject%20management]
+[Plan:Product Planning]: https://gitlab.com/groups/gitlab-org/-/boards/1569369?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Aplan&not[label_name][]=group%3A%3Aproject%20management]
 [youtube]: https://www.youtube.com/playlist?list=PL05JrBw4t0KoceqcTneOVmAzhEp6NinY0
 [retros]: https://gitlab.com/gl-retrospectives/plan/issues?scope=all&utf8=%E2%9C%93&state=all&label_name[]=retrospective
 [Group Conversations]: http://gitlab-org.gitlab.io/group-conversations/plan/
