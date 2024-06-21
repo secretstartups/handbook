@@ -8,7 +8,7 @@ controlled_document: true
 
 #### 1. Objet
 
-Chez GitLab (ci-après la «Société»), nous veillons à la sécurité, à la santé et au bien-être de tous les collaborateurs et mettons l'accent non pas sur le nombre d’heures travaillées mais plutôt sur la communication asynchrone ainsi que sur les résultats. Nous pensons que [la famille et les amis sont prioritaires et que le travail est secondaire]({{< ref "values#collaboration" >}}). Dans la droite ligne des valeurs de la Société, nous comprenons qu'il est essentiel de se « déconnecter » du travail pour favoriser une vie saine et équilibrée. Les progrès technologiques, les événements internationaux et les exigences professionnelles peuvent parfois nous faire oublier que nous avons besoin d'une pause pour nous ressourcer.
+Chez GitLab (ci-après la «Société»), nous veillons à la sécurité, à la santé et au bien-être de tous les collaborateurs et mettons l'accent non pas sur le nombre d’heures travaillées mais plutôt sur la communication asynchrone ainsi que sur les résultats. Nous pensons que [la famille et les amis sont prioritaires et que le travail est secondaire](/handbook/values/#collaboration). Dans la droite ligne des valeurs de la Société, nous comprenons qu'il est essentiel de se « déconnecter » du travail pour favoriser une vie saine et équilibrée. Les progrès technologiques, les événements internationaux et les exigences professionnelles peuvent parfois nous faire oublier que nous avons besoin d'une pause pour nous ressourcer.
 
 Le présent document (ci-après la « Charte ») a été établi afin de rappeler et de renforcer le droit à la déconnexion des salariés vis-à-vis des outils informatiques disponibles au sein de l'entreprise.
 

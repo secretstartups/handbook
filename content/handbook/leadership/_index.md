@@ -8,7 +8,7 @@ defined on our [team structure page]({{< ref "structure" >}}).
 
 ## Managers of One
 
-In an all-remote organization, we want each team member to be a [manager of one](https://signalvnoise.com/posts/1430-hire-managers-of-one). A [manager of one]({{< ref "values#managers-of-one" >}}) is an attribute associated with our [Efficiency value]({{< ref "values#efficiency" >}}). To be successful at GitLab, team members need to develop their daily priorities to achieve goals. Managers of one set the tone for their work, assign items and determine what needs to get done. No matter what role you serve, self-leadership is an essential skill needed to be successful as a manager of one.
+In an all-remote organization, we want each team member to be a [manager of one](https://signalvnoise.com/posts/1430-hire-managers-of-one). A [manager of one]({{< ref "values#managers-of-one" >}}) is an attribute associated with our [Efficiency value](/handbook/values/#efficiency). To be successful at GitLab, team members need to develop their daily priorities to achieve goals. Managers of one set the tone for their work, assign items and determine what needs to get done. No matter what role you serve, self-leadership is an essential skill needed to be successful as a manager of one.
 
 1. At GitLab, leadership is requested from everyone, whether an individual contributor or member of the leadership team.
 1. As a leader, GitLab team members will follow your behavior, so always do the right thing. Lead by example with effort.
@@ -34,7 +34,7 @@ In an all-remote organization, we want each team member to be a [manager of one]
 ### Examples of actions from managers of one at GitLab
 
 1. When asked to attend a synchronous brainstorming call, a team member instead opens an issue and [requests for their team's ideas asynchronously](/handbook/company/culture/all-remote/asynchronous/#how-to-decline-meetings-in-favor-of-async).
-1. A people leader champions our value of [Diversity, Inclusion and Belonging]({{< ref "values#diversity-inclusion" >}}) by [becoming a mentor]({{< ref "values#be-a-mentor" >}}).
+1. A people leader champions our value of [Diversity, Inclusion and Belonging](/handbook/values/#diversity-inclusion) by [becoming a mentor]({{< ref "values#be-a-mentor" >}}).
 1. A team member blocks out dedicated time for learning and development to implement a regular practice of [self-serving and self-learning]({{< ref "values#self-service-and-self-learning" >}}).
 1. A team member in a new role finds an inefficiency in a process they are learning. Without being asked or supervised, they open a merge request (MR) proposing a change and assign it to their manager for review.
 1. When a scheduled meeting agenda is complete 10 minutes before the call is set to end, an attendee ends the call early.
@@ -70,7 +70,7 @@ Most companies communicate from top to bottom through a chain of command. This c
 
 Managers should not be bottlenecks or silos for communication.
 Anyone should feel [comfortable]({{< ref "values#short-toes" >}}) reaching out to anyone else with the best information they can to solve a problem.
-This is a more [efficient]({{< ref "values#efficiency" >}}), [transparent]({{< ref "values#transparency" >}}), and [collaborative]({{< ref "values#collaboration" >}}) way to work.
+This is a more [efficient](/handbook/values/#efficiency), [transparent](/handbook/values/#transparency), and [collaborative](/handbook/values/#collaboration) way to work.
 
 ## Giving Feedback
 
@@ -119,7 +119,7 @@ Please see [skip-levels]({{< ref "skip-levels" >}}).
 
 A team member's README page is intended to help others understand what it might be like to work with them, especially people who haven’t worked with them before. It's also a well-intentioned effort at building some trust by being intentionally vulnerable, and to share your ideas of a good working relationship, to reduce the anxiety of people who may be on your team, now or in the future.
 
-READMEs provide a genuine report on how a person works, reducing bias/assumption and enabling people to work together based on a common framework. As part of GitLab's [transparency]({{< ref "values#transparency" >}}) value, we encourage each GitLab team member to consider creating their own README.
+READMEs provide a genuine report on how a person works, reducing bias/assumption and enabling people to work together based on a common framework. As part of GitLab's [transparency](/handbook/values/#transparency) value, we encourage each GitLab team member to consider creating their own README.
 
 ### READMEs by Division
 
@@ -157,7 +157,7 @@ Once your README is created, consider adding a link to it from following places:
 
 This provides maximum visibility to others, so that they may read your README in advance of working with you. This allows them to take your working style and communication preferences into account, ideally increasing the overall level of empathy expressed.
 
-READMEs are particularly powerful when working with those *outside* of GitLab, who may be unfamiliar with our [values]({{< ref "values" >}}). A README is a beacon of [transparency]({{< ref "values#transparency" >}}), and helps set the tone for any working relationship.
+READMEs are particularly powerful when working with those *outside* of GitLab, who may be unfamiliar with our [values]({{< ref "values" >}}). A README is a beacon of [transparency](/handbook/values/#transparency), and helps set the tone for any working relationship.
 
 ## Coaching
 
@@ -218,7 +218,7 @@ GitLab leadership and management approach was built using principles covered in 
 
 ## Building High Performing Teams
 
-Building a team to deliver [results]({{< ref "values#results" >}}) is a very important aspect of improving [efficiency]({{< ref "values#efficiency" >}}) and [iteration]({{< ref "values#iteration" >}}). A high-performing team will always deliver results. As a leader at GitLab, your role is to develop a high-performing team to reach the desired level of performance and productivity. There are certain traits that high-performing teams display at GitLab:
+Building a team to deliver [results](/handbook/values/#results) is a very important aspect of improving [efficiency](/handbook/values/#efficiency) and [iteration](/handbook/values/#iteration). A high-performing team will always deliver results. As a leader at GitLab, your role is to develop a high-performing team to reach the desired level of performance and productivity. There are certain traits that high-performing teams display at GitLab:
 
 - Have a clear vision of their objectives and goals
 - Stay committed to achieving their goals

@@ -28,7 +28,7 @@ The Distribution team uses the [Reviewers feature](https://docs.gitlab.com/ee/de
       - A reviewer checks the [Distribution merge requests ready for review dashboard](https://gitlab-org.gitlab.io/distribution/monitoring/mrs/) per their priority regularly, and then picks up the merge request when they are able to work on it by adding themselves under the Reviewers section, and adding the "workflow::in review" label.
 1. Once approved, the Reviewer adds a Maintainer under the Reviewers section for final review/merge. At this point, the Reviewer may decide whether to keep themselves listed as a Reviewer or to remove themselves (so the MR no longer appears in their MR list). If the Maintainer has any comments, then they work with the Author to clarify. It is the responsibility of the Maintainer to find another Maintainer to look at a merge request that is assigned to them if they are unable.
 
-**NOTE**: If you are working on a merge request that requires a response quicker than the [SLO][], please `@` mention the `gitlab-org/distribution` group in order to alert the Distribution team. The team will exercise best effort in handling these requests.
+**NOTE**: If you are working on a merge request that requires a response quicker than the [SLO](#service-level-objective), please `@` mention the `gitlab-org/distribution` group in order to alert the Distribution team. The team will exercise best effort in handling these requests.
 
 ## Reviewers
 
@@ -40,11 +40,11 @@ Additionally, in the spirit of "everyone can contribute", anyone who is interest
 
 Anyone who plans on actively participating in the Reviewer process is encouraged to [update their entry on the team page](/handbook/editing-handbook/#add-yourself-to-the-team-page).
 
-When looking for merge requests to review, consider checking the [Merge Request Report][] to see what reviews are in danger of breaching the [SLO][].
+When looking for merge requests to review, consider checking the [Merge Request Report](https://gitlab-org.gitlab.io/distribution/monitoring/mrs/) to see what reviews are in danger of breaching the [SLO](#service-level-objective).
 
 ## Maintainers
 
-Project Maintainers are encouraged to ensure that Reviewers, and in particular Reviewers who have designated themselves [enrolled in the Reviewer mentorship program](/handbook/engineering/workflow/code-review/#reviewer-mentorship-program), look at a Merge Request before they spend time on it. There are times when it makes sense for a Maintainer to not wait for a reviewer, so judgment should be used here. For example, we do need to keep the [SLO][] in mind. If an MR is in danger of missing that deadline, a Maintainer should not hesitate to respond.
+Project Maintainers are encouraged to ensure that Reviewers, and in particular Reviewers who have designated themselves [enrolled in the Reviewer mentorship program](/handbook/engineering/workflow/code-review/#reviewer-mentorship-program), look at a Merge Request before they spend time on it. There are times when it makes sense for a Maintainer to not wait for a reviewer, so judgment should be used here. For example, we do need to keep the [SLO](#service-level-objective) in mind. If an MR is in danger of missing that deadline, a Maintainer should not hesitate to respond.
 
 ## Assigning Merge Requests
 
@@ -54,7 +54,7 @@ If a merge request is assigned directly to you as a Maintainer without prior rev
 
 ## Service-level objective
 
-When looking for a merge request to work on, consider the [GitLab Review-response SLO][]. Anything in danger of breaching that deadline should be looked at first.
+When looking for a merge request to work on, consider the [GitLab Review-response SLO](/handbook/engineering/workflow/code-review/#review-response-slo). Anything in danger of breaching that deadline should be looked at first.
 
 Due to the load on the Distribution team, the SLO is longer than that of the rest
 of the company:
@@ -82,7 +82,3 @@ Because the squash and merge feature is set to [encourage](https://docs.gitlab.c
 
 1. [Distribution team projects](/handbook/engineering/infrastructure/core-platform/systems/distribution/#projects) - The full list of projects the Distribution team maintains
 1. [Engineering Projects](/handbook/engineering/projects/) - The full list of supported GitLab projects. Clicking on the project name will bring you to the list of Maintainers and Reviewers for each project.
-
-[Merge Request Report]: https://gitlab-org.gitlab.io/distribution/monitoring/mrs/
-[GitLab review-response SLO]: /handbook/engineering/workflow/code-review/#review-response-slo
-[SLO]: #service-level-objective

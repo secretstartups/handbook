@@ -181,7 +181,7 @@ For each risk identified, a formal risk response decision is made to determine h
 
 The risk object in the GRC application will be updated to reflect the agreed upon risk response. If "Remediate the Risk" is selected, the Risk Owner will execute a Risk Treatment Plan. The documented plan and status of the risk treatment will be captured within the GRC application as well. See below for more information about risk response options.
 
-#### Monitor (nothing beyond expected [iteration]({{< ref "values#iteration" >}}))
+#### Monitor (nothing beyond expected [iteration](/handbook/values/#iteration))
 
 In the cases where a risk owner has concluded that a risk is within [tolerance](#translating-gitlabs-security-risk-appetite-to-risk-tolerance), no additional action is required besides ensuring that the StORM Program DRI agrees with the treatment option.
 
@@ -194,7 +194,7 @@ When choosing to remediate the risk, a specific path must be selected:
 - Remediate by sharing or transferring the risk with a third party
 - Remediate by avoiding the risk by deciding not to start or continue with the activity that gives rise to the risk
 
-Once a path is selected, the Risk Owner is required to provide a [SMART](https://en.wikipedia.org/wiki/SMART_criteria), detailed plan that includes milestones and due dates for working towards risk remediation. The treatment plan must be achievable and address the root cause of the risk event. Additionally and in alignment with our value of [Transparency]({{< ref "values#transparency" >}}), each treatment plan will include a step for documenting the results/outcome of the remediation within the Handbook. If the result of the remediation is considered [not public]({{< ref "values#not-public" >}}) and cannot be documented within the Handbook, it should be documented within our Internal Handbook or an internal runbook. The Security Risk Team will leverage these risk treatment plans to track the status of risk remediation.
+Once a path is selected, the Risk Owner is required to provide a [SMART](https://en.wikipedia.org/wiki/SMART_criteria), detailed plan that includes milestones and due dates for working towards risk remediation. The treatment plan must be achievable and address the root cause of the risk event. Additionally and in alignment with our value of [Transparency](/handbook/values/#transparency), each treatment plan will include a step for documenting the results/outcome of the remediation within the Handbook. If the result of the remediation is considered [not public]({{< ref "values#not-public" >}}) and cannot be documented within the Handbook, it should be documented within our Internal Handbook or an internal runbook. The Security Risk Team will leverage these risk treatment plans to track the status of risk remediation.
 
 If the risk treatment plan is executed and results in a downgrading of the residual risk level for the risk (ex. the residual risk level goes from High to Moderate), validation of the remediation will be performed and captured within the associated risk object in ZenGRC. Quality review of the downgrade support documentation will be completed by the Security Risk Manager and captured via comment in the GRC application.
 

@@ -22,7 +22,7 @@ To better understand this, we're using this page to detail the phases of remote 
 
 *In the [GitLab Unfiltered](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq7QUX-Ux5fOunQotqJbECc) video above, Darren (Head of Remote, GitLab) and Luke (Founder, [Friday](https://www.friday.app)) unpack the phases of remote adaptation, and discuss projections for societal shifts related to remote work.*
 
-It's important to frame one's transition to remote in terms of phases, as opposed to an all-or-nothing approach. Breaking adaptation down into smaller chunks creates less overwhelm. The goal for any suddenly remote company should be to graduate from one phase to another in a sustainable and efficient manner, instead of what will otherwise feel like a massive leap from nothing to mastery. This is [iteration]({{< ref "values#iteration" >}}) in practice.
+It's important to frame one's transition to remote in terms of phases, as opposed to an all-or-nothing approach. Breaking adaptation down into smaller chunks creates less overwhelm. The goal for any suddenly remote company should be to graduate from one phase to another in a sustainable and efficient manner, instead of what will otherwise feel like a massive leap from nothing to mastery. This is [iteration](/handbook/values/#iteration) in practice.
 
 ## Phase 1: Skeuomorph
 
@@ -67,7 +67,7 @@ Some businesses will choose not to invest time, energy, and resources to moving 
 
 Entering Phase 2 is simple. It begins with leadership asking a fundamental question: "What if we didn't do things the way we've always done them?"
 
-Remote enables you to function differently than a conventional colocated company. It challenges preconceived notions and it provides new opportunities to increase [efficiency]({{< ref "values#efficiency" >}}) of work and [agency]({{< ref "values#give-agency" >}}) of people.
+Remote enables you to function differently than a conventional colocated company. It challenges preconceived notions and it provides new opportunities to increase [efficiency](/handbook/values/#efficiency) of work and [agency]({{< ref "values#give-agency" >}}) of people.
 
 ### Evolving processes
 

@@ -33,7 +33,7 @@ GitLab has partnered with Coursera to produce a ten-hour course, **[How to Manag
 
 ### Work from anywhere
 
-At GitLab, when we say our people can work from [anywhere]({{< ref "./people#travelers" >}}), we really mean it. We care about the [results]({{< ref "values#results" >}}) of their work, not where it's getting done.
+At GitLab, when we say our people can work from [anywhere]({{< ref "./people#travelers" >}}), we really mean it. We care about the [results](/handbook/values/#results) of their work, not where it's getting done.
 
 This flexibility often means something different for [each person at GitLab]({{< ref "./people" >}}). We have team members who are completely [location independent]({{< ref "./people#nomads" >}}) and [travel full time](https://about.gitlab.com/blog/2019/06/25/how-remote-work-at-gitlab-enables-location-independence).
 
@@ -88,11 +88,11 @@ Similar to managing employees in-person, a remote manager must use their leaders
 
 Transparency is a term that is often tossed around as a value within most companies. In all-remote environments, it is vital that transparency be more than a buzzword, but something that is embraced and allowed to guide every decision.
 
-This will often feel unnatural and uncomfortable — a sign that your organization truly is living out the [value of transparency]({{< ref "values#transparency" >}}).
+This will often feel unnatural and uncomfortable — a sign that your organization truly is living out the [value of transparency](/handbook/values/#transparency).
 
 It helps to recognize all-remote organizations not as a collection of rigidly structured machines, but as a living, evolving organism. Leaders must trust their colleagues to operate with empathy, kindness, and concern for the well-being of one another, seeing the free flow of information as universally beneficial.
 
-Learn more on how GitLab [defines and implements transparency in our Handbook]({{< ref "values#transparency" >}}).
+Learn more on how GitLab [defines and implements transparency in our Handbook](/handbook/values/#transparency).
 
 ## Managing time zones in a remote team
 
@@ -119,7 +119,7 @@ You can also learn from the experiences of GitLab team members collected in [thi
 
 *In the [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) video above, Darren (GitLab) and Anna-Karin (Because Mondays) discuss a number of challenges and solutions related to remote work, transitioning a company to remote, working asynchronously, and defaulting to documentation.*
 
-Remote work is what led to the development of our publicly viewable [handbook](/handbook), which captures everything you'd need to know about the company. If you can't tell, we like [efficiency]({{< ref "values#efficiency" >}}) and don't like having to explain things twice.
+Remote work is what led to the development of our publicly viewable [handbook](/handbook), which captures everything you'd need to know about the company. If you can't tell, we like [efficiency](/handbook/values/#efficiency) and don't like having to explain things twice.
 
 Each department and team's quarterly goals, or ["objectives and key results" (OKRs)](/handbook/company/okrs), are also clearly documented in our handbook for visibility across the company. We check in on these goals monthly, so there's as much transparency as possible around what each team is accomplishing.
 
@@ -152,7 +152,7 @@ The GitLab way of working is more [inclusive]({{< ref "inclusion#fully-distribut
 
 {{< youtube "2g-XmZeB2qk?start=853" >}}
 
-*In the [interview](https://youtu.be/2g-XmZeB2qk) above between GitLab co-founder and CEO Sid Sijbrandij and [The New Stack](https://thenewstack.io)'s Alex Williams, Sid explains the importance of "handbook first" when it comes to maintaining velocity and [efficiency]({{< ref "values#efficiency" >}}) in scaling a team.*
+*In the [interview](https://youtu.be/2g-XmZeB2qk) above between GitLab co-founder and CEO Sid Sijbrandij and [The New Stack](https://thenewstack.io)'s Alex Williams, Sid explains the importance of "handbook first" when it comes to maintaining velocity and [efficiency](/handbook/values/#efficiency) in scaling a team.*
 
 > Because we're all-remote, we've been forced to adopt a lot of best practices early on. It scales a lot better. If you're colocated and on the same floor, that works well. If you're on multiple floors in the same building, that starts to deteriorate a bit. If you're in multiple buildings in the same city, that gets worse. If you're in multiple cities, it's harder, and if you're in multiple countries, it starts to break down. It's how most companies work, and that's one of the reasons why companies are really hard to scale.
 >
@@ -215,7 +215,7 @@ When referencing time and productivity, Remote CTO Marcelo Lebre shares a potent
 
 > Async communication shines with great power here, as it shields everyone’s time and focus while reducing meaningless time sinks. When you’re communicating async, this types of interruptions happen much less. And the total time that you’re able to do deep work is longer, the chance of achieving Flow much higher.
 
-Learn more about GitLab's approach to asynchronous working by viewing our [Efficiency]({{< ref "values#efficiency" >}}) and [Collaboration]({{< ref "values#collaboration" >}}) values.
+Learn more about GitLab's approach to asynchronous working by viewing our [Efficiency](/handbook/values/#efficiency) and [Collaboration](/handbook/values/#collaboration) values.
 
 ## Separating decision gathering from decision making
 
@@ -224,11 +224,11 @@ Learn more about GitLab's approach to asynchronous working by viewing our [Effic
 
 Paralysis by analysis is something all companies should seek to avoid. In managing through this at an all-remote company, leaders should ensure that all colleagues understand that consensus doesn't scale.
 
-Thus, there should be [no goal to achieve consensus](/handbook). This may feel awkward or unnatural to those coming from colocated corporate environments, but trusting decision makers and living out [the value of iteration]({{< ref "values#iteration" >}}) prevents unnecessary slowdowns in your organization.
+Thus, there should be [no goal to achieve consensus](/handbook). This may feel awkward or unnatural to those coming from colocated corporate environments, but trusting decision makers and living out [the value of iteration](/handbook/values/#iteration) prevents unnecessary slowdowns in your organization.
 
 By intentionally separating the process of decision *gathering* and decision *making*, you provide ample opportunity for everyone to add input, offering up fresh angles for consideration that may well sway the mind of the DRI ([directly responsible individual]({{< ref "directly-responsible-individuals" >}})).
 
-It is vital for all-remote companies to foster an atmosphere of [trust and learning]({{< ref "values#five-dysfunctions" >}}), such that grudges are not held against decision makers after decision gathering has occurred. At GitLab, this is manifested in our [Collaboration]({{< ref "values#collaboration" >}}) value, which includes kindness, sharing, [short toes]({{< ref "values#short-toes" >}}), no ego, and assuming positive intent.
+It is vital for all-remote companies to foster an atmosphere of [trust and learning]({{< ref "values#five-dysfunctions" >}}), such that grudges are not held against decision makers after decision gathering has occurred. At GitLab, this is manifested in our [Collaboration](/handbook/values/#collaboration) value, which includes kindness, sharing, [short toes]({{< ref "values#short-toes" >}}), no ego, and assuming positive intent.
 
 ## Applying iteration to everything
 
@@ -236,9 +236,9 @@ It is vital for all-remote companies to foster an atmosphere of [trust and learn
 
 *In the [video](https://www.youtube.com/watch?v=T4fQp9jtKWU) above, published on the [GitLab Unfiltered YouTube channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A), Emilie Schario, Data Analyst, and Sid Sijbrandij, co-founder and CEO, discuss the best way to organize the Metrics pages in the company Handbook.*
 
-Iteration is oft applied to engineering, but asking only part of the company to iterate can create [discord]({{< ref "values#five-dysfunctions" >}}). All-remote companies must empower every member of the team, across every function and job level, to approach their work with an [iterative mindset]({{< ref "values#iteration" >}}).
+Iteration is oft applied to engineering, but asking only part of the company to iterate can create [discord]({{< ref "values#five-dysfunctions" >}}). All-remote companies must empower every member of the team, across every function and job level, to approach their work with an [iterative mindset](/handbook/values/#iteration).
 
-By applying [iteration]({{< ref "values#iteration" >}}) to everything, it removes the barrier of fear and judgement. It also enables faster cycles, and it makes miscues far less damaging.
+By applying [iteration](/handbook/values/#iteration) to everything, it removes the barrier of fear and judgement. It also enables faster cycles, and it makes miscues far less damaging.
 
 For example, don't write a large plan, only write the first step. Trust that you'll know better how to proceed after something is released. Iteration can be uncomfortable, even painful. If you're doing iteration correctly, it should be.
 
@@ -246,11 +246,11 @@ Instilling this in an all-remote team is difficult. Most people are naturally in
 
 Leaders should work diligently to ensure that teams have a low level of shame and believe that everything is in draft and subject to change.
 
-Learn more about [GitLab's value of iteration in our Handbook]({{< ref "values#iteration" >}}), and read how [one team used survey results to iterate on culture](https://about.gitlab.com/blog/2018/06/26/iterating-improving-frontend-culture).
+Learn more about [GitLab's value of iteration in our Handbook](/handbook/values/#iteration), and read how [one team used survey results to iterate on culture](https://about.gitlab.com/blog/2018/06/26/iterating-improving-frontend-culture).
 
 ## Company-wide organizational chart
 
-There are no corner offices in an all-remote company. Although you should consider the organizational structure that makes the most sense for you (and [iterate]({{< ref "values#iteration" >}}) as the company evolves), one thing that should not change is the level of transparency.
+There are no corner offices in an all-remote company. Although you should consider the organizational structure that makes the most sense for you (and [iterate](/handbook/values/#iteration) as the company evolves), one thing that should not change is the level of transparency.
 
 To give each member of the company an equal view of how the organization is structured, how job levels/families are established, and what reporting structures look like, it's wise to consider an org chart accessible to all team members.
 
@@ -278,13 +278,13 @@ Learn more about GitLab's approach in the [Leadership section of our Handbook]({
 
 *In the [video](https://www.youtube.com/watch?v=6QC1OwoddD8) above, published to [GitLab's YouTube channel](https://www.youtube.com/channel/UCnMGQ8QHMAnVIsI3xJrihhg), members of the engineering team demonstrate a focus on metrics.*
 
-Perhaps the easiest way to avoid overanalyzing management in an all-remote company is to focus on [results]({{< ref "values#results" >}}). Focusing on results over hours worked creates an atmosphere where colleagues direct effort on the [right things](https://about.gitlab.com/blog/2018/09/07/mvcs-with-big-results) — shipping [great code](https://about.gitlab.com/blog/2019/03/20/enabling-global-search-elasticsearch-gitlab-com), making a client happy, solving a teammate's problem, etc.
+Perhaps the easiest way to avoid overanalyzing management in an all-remote company is to focus on [results](/handbook/values/#results). Focusing on results over hours worked creates an atmosphere where colleagues direct effort on the [right things](https://about.gitlab.com/blog/2018/09/07/mvcs-with-big-results) — shipping [great code](https://about.gitlab.com/blog/2019/03/20/enabling-global-search-elasticsearch-gitlab-com), making a client happy, solving a teammate's problem, etc.
 
 This enables team members to complete their work and turn their attention to non-work activities (family, exercise, reading, caregiving, philanthropy, etc.) as quickly as possible.
 
 By focusing on results, each team member has less of a mental burden to carry. They're aware that results are what matter as opposed to items like [personal success, status, and ego]({{< ref "values#five-dysfunctions" >}}).
 
-Learn more on GitLab's [Results value in our Handbook]({{< ref "values#results" >}}).
+Learn more on GitLab's [Results value in our Handbook](/handbook/values/#results).
 
 ### Objectives and Key Results (OKRs)
 

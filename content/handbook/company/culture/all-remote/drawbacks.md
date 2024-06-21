@@ -7,7 +7,7 @@ twitter_site: "@gitlab"
 twitter_creator: "@gitlab"
 ---
 
-Despite all of its [advantages]({{< ref "remote-benefits" >}}), all-remote work isn't for everyone. It can have disadvantages for potential employees depending on their lifestyle and work preferences, as well as the organization. In the spirit of [transparency]({{< ref "values#transparency" >}}), we'll also highlight counterpoints and solutions to these challenges.
+Despite all of its [advantages]({{< ref "remote-benefits" >}}), all-remote work isn't for everyone. It can have disadvantages for potential employees depending on their lifestyle and work preferences, as well as the organization. In the spirit of [transparency](/handbook/values/#transparency), we'll also highlight counterpoints and solutions to these challenges.
 
 {{< youtube "CwOLAKSdlfs" >}}
 
@@ -76,7 +76,7 @@ It can be hard to separate your personal and work life. It's important to encour
 **Solutions**
 
 - [Preventing a culture of burnout starts at the top](https://about.gitlab.com/blog/2018/03/08/preventing-burnout/). In all-remote companies, it's important to reinforce this from the [interview process](https://about.gitlab.com/blog/2019/03/28/what-its-like-to-interview-at-gitlab/), to [onboarding]({{< ref "./learning-and-development#how-do-you-onboard-new-team-members" >}}), to regular [1:1s]({{< ref "1-1" >}}).
-- All-remote companies should consider implementing a [Results value]({{< ref "values#results" >}}), where [results (as opposed to hours) are measured]({{< ref "values#measure-results-not-hours" >}}). Fundamentally, this requires organizational trust — believing that colleagues will do the right thing rather than implementing rigid rules.
+- All-remote companies should consider implementing a [Results value](/handbook/values/#results), where [results (as opposed to hours) are measured]({{< ref "values#measure-results-not-hours" >}}). Fundamentally, this requires organizational trust — believing that colleagues will do the right thing rather than implementing rigid rules.
 - At GitLab, we encourage team members to [communicate with their manager when they recognize burnout]({{< ref "paid-time-off#recognizing-burnout" >}}), and to be mindful of the last time a team member [took time off from work]({{< ref "paid-time-off#paid-time-off" >}}).
 
 ### Challenge: Time management

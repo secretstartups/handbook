@@ -10,13 +10,9 @@ The Custom Models group focuses on additional, custom models that power GitLab D
 
 ## Organisation
 
-The AI-powered:Custom Models team focuses on GitLab's suite of Custom Model features and is responsible for all backend aspects of the product categories that fall under the [Custom Models group][group] of the [AI Powered stage][stage] of the [DevOps lifecycle][lifecycle]. Our Product direction is found on the [Category Direction - Custom Models Management](https://about.gitlab.com/direction/ai-powered/custom_models/) page.
+The AI-powered:Custom Models team focuses on GitLab's suite of Custom Model features and is responsible for all backend aspects of the product categories that fall under the [Custom Models group](/handbook/product/categories/#custom-models-group) of the [AI Powered stage](/handbook/product/categories/#ai-powered-stage) of the [DevOps lifecycle](/handbook/product/categories/#devops-stages). Our Product direction is found on the [Category Direction - Custom Models Management](https://about.gitlab.com/direction/ai-powered/custom_models/) page.
 
 The features we work with are listed on the [Features by Group Page](/handbook/product/categories/features/#custom-models).
-
-[group]: /handbook/product/categories/#custom-models-group
-[stage]: /handbook/product/categories/#ai-powered-stage
-[lifecycle]: /handbook/product/categories/#devops-stages
 
 ### Team OKRs
 

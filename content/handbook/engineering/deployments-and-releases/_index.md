@@ -6,8 +6,8 @@ title: "Deployments and Releases"
 
 This page describes the deployment and release approach used to deliver changes to users. The overall process consists of two significant parts:
 
-1 **Monthly self-managed release**: GitLab version (XX.YY.0) [published every month][process-monthly-release]. From this monthly release, [patch][process-patch-release], [non-critical][process-security-release-non-critical], and [critical][process-security-release-critical] security releases are created as needed
-1 **GitLab.com deployment**: A Continous Delivery process to deploy [branches created from master branch][auto-deploy], on regular intervals.
+1 **Monthly self-managed release**: GitLab version (XX.YY.0) [published every month](https://gitlab.com/gitlab-org/release/docs/blob/master/general/monthly/process.md). From this monthly release, [patch](https://gitlab.com/gitlab-org/release/docs/blob/master/general/patch/process.md), [non-critical](https://gitlab.com/gitlab-org/release/docs/blob/master/general/security/process.md#non-critical-security-releases), and [critical](https://gitlab.com/gitlab-org/release/docs/blob/master/general/security/process.md#critical-security-releases) security releases are created as needed
+1 **GitLab.com deployment**: A Continous Delivery process to deploy [branches created from master branch](https://www.youtube.com/watch?v=_G-EWRpCAz4), on regular intervals.
 
 For more details on the individual processes and how to use them please see the [Deployments page](/handbook/engineering/deployments-and-releases/deployments) for GitLab.com changes and the [Releases page](/handbook/engineering/releases/) for changes for self-managed users.
 
@@ -42,7 +42,7 @@ For a more detailed explaination of the processes see the [deployments page](/ha
 
 The overall coordination and operation of the deployment and release process is the responsibility of the release managers.
 
-See the GitLab [Release Managers schedule] to find out who the current release managers are.
+See the GitLab [Release Managers schedule](https://about.gitlab.com/community/release-managers/) to find out who the current release managers are.
 
 ### How to contact a Release Manager
 
@@ -77,10 +77,3 @@ Each week, the current Release Managers walk through the key Delivery Group metr
 | Deployment process | [Link](/handbook/engineering/deployments-and-releases/deployments/) |
 | Release process | [Link](/handbook/engineering/releases/) |
 | Maintenance Policy | [Link](https://docs.gitlab.com/ee/policy/maintenance.html) |
-
-[auto-deploy]: https://www.youtube.com/watch?v=_G-EWRpCAz4
-[process-monthly-release]: https://gitlab.com/gitlab-org/release/docs/blob/master/general/monthly/process.md
-[process-patch-release]: https://gitlab.com/gitlab-org/release/docs/blob/master/general/patch/process.md
-[process-security-release-critical]: https://gitlab.com/gitlab-org/release/docs/blob/master/general/security/process.md#critical-security-releases
-[process-security-release-non-critical]: https://gitlab.com/gitlab-org/release/docs/blob/master/general/security/process.md#non-critical-security-releases
-[Release Managers schedule]: https://about.gitlab.com/community/release-managers/

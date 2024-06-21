@@ -55,33 +55,25 @@ would impact our security posture. Our security posture is defined by:
 The Application Security team provides guidelines and requirements to follow during all the life
 cycle of source code:
 
-- [AppSec projects policies]
-
-[AppSec projects policies]: {{< ref "../application-security/inventory#policies" >}}
+- [AppSec projects policies](../application-security/inventory#policies)
 
 ### InfraSec
 
 <!-- Using this page until infrasec requirements are in the handbook -->
 
-- [Security Requirements for Development and Deployment]
-
-[Security Requirements for Development and Deployment]: {{< ref "security-development-deployment-requirements" >}}
+- [Security Requirements for Development and Deployment]({{< ref "security-development-deployment-requirements" >}})
 
 ### Compliance
 
-- [GitLab Audit Logging Policy]
-
-[GitLab Audit Logging Policy]: {{< ref "audit-logging-policy" >}}
+- [GitLab Audit Logging Policy]({{< ref "audit-logging-policy" >}})
 
 ### Cryptography
 
-- [Do not roll your own crypto] (also one of our [Security Architecture Principles](#security-architecture-principles)
+- [Do not roll your own crypto]({{< ref "encryption-policy#rolling-your-own-crypto" >}}) (also one of our [Security Architecture Principles](#security-architecture-principles)
 )
 - Reference our [GitLab Cryptography Standard]({{< ref "cryptographic-standard" >}})
 
 <!-- Add FIPS and FedRamp requirements here when available -->
-
-[Do not roll your own crypto]: {{< ref "encryption-policy#rolling-your-own-crypto" >}}
 
 ## Security Architecture Principles
 
@@ -93,10 +85,7 @@ Our principles are based on two simple pillars:
 1. **Network isolation**
 
 They are detailed below with the principles taken from the book Software Systems Architecture (see
-[references](#references)) and this [ACCU 2019 related video](https://www.youtube.com/watch?v=YbjoaMN67Hw). These are very close to the [OWASP Security
-Design Principles] but are easier to understand and apply.
-
-[OWASP Security Design Principles]: https://github.com/OWASP/DevGuide/blob/master/02-Design/01-Principles%20of%20Security%20Engineering.md
+[references](#references)) and this [ACCU 2019 related video](https://www.youtube.com/watch?v=YbjoaMN67Hw). These are very close to the [OWASP Security Design Principles](https://github.com/OWASP/DevGuide/blob/master/02-Design/01-Principles%20of%20Security%20Engineering.md) but are easier to understand and apply.
 
 <style>
 .security-architecture-principle {
@@ -162,9 +151,7 @@ Make attacks less attractive.
 #### Examples
 
 - A system/service that only needs to read git commits should not be able to access user data
-- GitLab team members don't have access to billing data, nor anything else [classified red data]
-
-[classified red data]: {{< ref "data-classification-standard" >}}
+- GitLab team members don't have access to billing data, nor anything else [classified red data]({{< ref "data-classification-standard" >}})
 
 #### Links
 
@@ -223,21 +210,16 @@ Make attacks less attractive.
 #### Why
 
 - Simple solutions are easier to deploy, maintain, and secure
-- Aligned with our [Iteration] and [Efficiency] values
+- Aligned with our [Iteration](/handbook/values/#iteration) and [Efficiency](/handbook/values/#efficiency) values
 - Security requires understanding of the design
 - Complexity increases exponentially
 - Attack-ability or attack surface of the software is reduced
-
-[Iteration]: {{< ref "values#iteration" >}}
-[Efficiency]: {{< ref "values#efficiency" >}}
 
 #### How
 
 - Avoid complex failure modes, implicit behaviours, unnecessary features
 - Use well-known, tested, and proven components
-- Avoid over-engineering and strive for [MVCs] instead
-
-[MVCs]: https://about.gitlab.com/handbook/product/product-principles/#the-minimal-viable-change-mvc
+- Avoid over-engineering and strive for [MVCs](https://about.gitlab.com/handbook/product/product-principles/#the-minimal-viable-change-mvc) instead
 
 #### Examples
 
@@ -273,9 +255,9 @@ Make attacks less attractive.
 
 #### Examples
 
-- Enable [GuardDuty] in AWS or [Cloud Audit Logs] in GCP to record activity and detect malicious
+- Enable [GuardDuty](https://aws.amazon.com/guardduty/) in AWS or [Cloud Audit Logs](https://cloud.google.com/logging/docs/audit?hl=en) in GCP to record activity and detect malicious
   intent.
-- Leverage [Panther] (for gitlab.com only) to collect, normalize, and analyze logs.
+- Leverage [Panther](/handbook/business-technology/tech-stack/#panther) (for gitlab.com only) to collect, normalize, and analyze logs.
 - Provide notifications to users when:
   - Changes to their accounts
   - New keys generated or added to their accounts
@@ -283,10 +265,6 @@ Make attacks less attractive.
   - Signal passing a threshold (rate limiting in action)
   - Component signature not matching
   - Unauthorized access to sensitive resources
-
-[GuardDuty]: https://aws.amazon.com/guardduty/
-[Cloud Audit Logs]: https://cloud.google.com/logging/docs/audit?hl=en
-[Panther]: /handbook/business-technology/tech-stack/#panther
 
 #### Links
 
@@ -336,7 +314,7 @@ aka Fail Safe Defaults.
 #### Why
 
 - Hiding things is difficult, someone is going to find them, accidentally or on purpose
-- We're a very [transparent]({{< ref "values#transparency" >}}) company and are more likely to share
+- We're a very [transparent](/handbook/values/#transparency) company and are more likely to share
   implementation details, sometimes leaking something sensitive.
 - Offboarded employees leave with sensitive knowledge. While tokens can be rotated, we can't ensure
   this knowledge won't leak
@@ -375,12 +353,9 @@ aka Fail Safe Defaults.
 - Don't rely on a single point/layer of security:
   - Secure every level
   - Stop failures at one level propagating
-- [Encrypt data at rest] and [in transit]
+- [Encrypt data at rest]({{< ref "encryption-policy#encryption-at-rest" >}}) and [in transit]({{< ref "encryption-policy#encryption-in-transit" >}})
 - Use vulnerability scanners
 - Close unnecessary ports and disable unused features
-
-[Encrypt data at rest]: {{< ref "encryption-policy#encryption-at-rest" >}}
-[in transit]: {{< ref "encryption-policy#encryption-in-transit" >}}
 
 #### Examples
 
@@ -445,17 +420,15 @@ aka Fail Safe Defaults.
 
 #### How
 
-- [Threat model]({{< ref "../application-security/threat-modeling" >}}) the system, repeat, iterate.
+- [Threat model](../application-security/threat-modeling) the system, repeat, iterate.
 - Identify central components that
   - share more privileges than the others
   - have more connections to other components
   - are entrypoints (login modules, APIs, ...)
-- Run [Dependency Scanning]
+- Run [Dependency Scanning](https://docs.gitlab.com/ee/user/application_security/dependency_scanning/)
 - Avoid weak ciphers and algorithms
 - Sometimes consider the humans (users) as the weakest link. Phishing is still widely used for a
   good reason
-
-[Dependency Scanning]: https://docs.gitlab.com/ee/user/application_security/dependency_scanning/
 
 #### Examples
 
@@ -466,9 +439,7 @@ aka Fail Safe Defaults.
 - The weakest link could also be a user. Not enforcing strong passwords and MFA could lead to
   sensitive data exposure, but users can also do harmful actions without being aware of it.
 - OS (system) commands often leads to bypassing most, if not all, the security controls of an
-  applicaton. It is a common vector for [RCEs] and should be avoided as much as possible.
-
-[RCEs]: https://en.wikipedia.org/wiki/Arbitrary_code_execution
+  applicaton. It is a common vector for [RCEs](https://en.wikipedia.org/wiki/Arbitrary_code_execution) and should be avoided as much as possible.
 
 #### Links
 
@@ -479,12 +450,10 @@ aka Fail Safe Defaults.
 
 ## Security Architecture reviews
 
-As part of the [Production Readiness Process], it is highly recommended to include a Security
+As part of the [Production Readiness Process](https://about.gitlab.com/handbook/engineering/infrastructure/production/readiness/), it is highly recommended to include a Security
 Architecture review.
 
 The Security Architecture review process is detailed in this [page]({{< ref "review." >}}).
-
-[Production Readiness Process]: https://about.gitlab.com/handbook/engineering/infrastructure/production/readiness/
 
 ## Measuring results
 
@@ -492,10 +461,8 @@ Security Architecture, by nature, doesn't generate measurable data, apart from t
 architecture diagrams and reviews. While this could be used as a metric, it's only reflecting work
 load, and not achievements. Instead, we are measuring success in terms of maturity.
 
-The [OWASP SAMM] framework is currently used, but this is subject to change (see discussions in this
+The [OWASP SAMM](https://owaspsamm.org/about/) framework is currently used, but this is subject to change (see discussions in this
 [issue](https://gitlab.com/gitlab-com/gl-security/security-department-meta/-/issues/1315)).
-
-[OWASP SAMM]: https://owaspsamm.org/about/
 
 ## Communication channels
 

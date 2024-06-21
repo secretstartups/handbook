@@ -19,21 +19,21 @@ All GitLab Product Designers can (and are encouraged to) perform design and code
 
 To perform a review, you should familiarize yourself with and follow:
 
-- Our general [Code Review guidelines][code-review-guidelines].
+- Our general [Code Review guidelines](https://docs.gitlab.com/ee/development/code_review.html).
 - Our general [MR review guidelines for Product Designers](/handbook/product/ux/product-designer/mr-reviews/).
 - The contribution guidelines for the [Pajamas projects](#overview).
 
-Note that while all designers can review all MRs, the ability to accept MRs is restricted to maintainers. You can find all design reviewers and maintainers on the list of [GitLab Engineering Projects][eng-projects].
+Note that while all designers can review all MRs, the ability to accept MRs is restricted to maintainers. You can find all design reviewers and maintainers on the list of [GitLab Engineering Projects](/handbook/engineering/projects/).
 
 ## Maintainer
 
 Maintainers are GitLab designers who:
 
-- Are experts at design and [code review][code-review-guidelines], including reviewing commit messages.
+- Are experts at design and [code review](https://docs.gitlab.com/ee/development/code_review.html), including reviewing commit messages.
 - Know the GitLab product, design guidelines, and code base very well.
 - Are empowered to accept MRs in one or several of the [Pajamas projects](#overview).
 
-Every project has at least one maintainer, but most have multiple, and some projects (like `gitlab-ui` and `design.gitlab.com`) have separate maintainers for design and frontend. As with reviewers, design maintainers can be found on the list of [GitLab Engineering Projects][eng-projects].
+Every project has at least one maintainer, but most have multiple, and some projects (like `gitlab-ui` and `design.gitlab.com`) have separate maintainers for design and frontend. As with reviewers, design maintainers can be found on the list of [GitLab Engineering Projects](/handbook/engineering/projects/).
 
 Read more about what makes great maintainers in the [Engineering Review Workflow](/handbook/engineering/workflow/code-review/#maintainer).
 
@@ -50,13 +50,13 @@ If you are interested in becoming a Maintainer of UI (`.scss`) for the `gitlab` 
 
 ### How to become a maintainer
 
-We follow the same maintainer guidelines as our Engineering counterparts. Get familiar with those guidelines and how to become a maintainer in the [Engineering Review Workflow][eng-become-maintainer].
+We follow the same maintainer guidelines as our Engineering counterparts. Get familiar with those guidelines and how to become a maintainer in the [Engineering Review Workflow](/handbook/engineering/workflow/code-review/#how-to-become-a-project-maintainer).
 
 Three key aspects of that process:
 
-1. **“Maintainer-level” MRs**: Candidates should have specific examples of recent “maintainer-level” MRs. They can work on any kind of MR, but “maintainer-level” ones are the focus of the maintainership. “Maintainer-level” MRs are described in the [Engineering Review Workflow][eng-become-maintainer].
+1. **“Maintainer-level” MRs**: Candidates should have specific examples of recent “maintainer-level” MRs. They can work on any kind of MR, but “maintainer-level” ones are the focus of the maintainership. “Maintainer-level” MRs are described in the [Engineering Review Workflow](/handbook/engineering/workflow/code-review/#how-to-become-a-project-maintainer).
 1. **Reviews or contributions**: Contributing MRs also counts. Whether MRs are reviewed or contributed by a candidate, they should consistently make it through reviewer and/or maintainer review without significant required changes.
-1. **Traineeship optional**: The [trainee maintainer program](#trainee-maintainer) (traineeship) supports reviewers in becoming maintainers, but the program is not a requirement. Designers that have been recenly involved in a fair amount of “maintainer-level” MRs can become maintainers without the traineeship. Anyone can nominate oneself (or someone else) for maintainership, following the process described in the [Engineering Review Workflow][eng-become-maintainer].
+1. **Traineeship optional**: The [trainee maintainer program](#trainee-maintainer) (traineeship) supports reviewers in becoming maintainers, but the program is not a requirement. Designers that have been recenly involved in a fair amount of “maintainer-level” MRs can become maintainers without the traineeship. Anyone can nominate oneself (or someone else) for maintainership, following the process described in the [Engineering Review Workflow](/handbook/engineering/workflow/code-review/#how-to-become-a-project-maintainer).
 
 #### Trainee maintainer
 
@@ -93,7 +93,3 @@ See the [Pajamas maintainer ratio dashboard (internal)](https://10az.online.tabl
 | Pajamas Design System (Figma) - PAUSED | [Michael Le](https://gitlab.com/mle)          | [Jeremy Elder](https://gitlab.com/jeldergl)       |
 | Pajamas Design System (UX)             | [Dan Mizzi-Harris](https://gitlab.com/danmh)  | [Amelia Bauerly](https://gitlab.com/ameliabauerly) |
 | Pajamas Design System (UX) - PAUSED    | [Austin Regnery](https://gitlab.com/aregnery) | [Amelia Bauerly](https://gitlab.com/ameliabauerly) |
-
-[code-review-guidelines]: https://docs.gitlab.com/ee/development/code_review.html
-[eng-become-maintainer]: /handbook/engineering/workflow/code-review/#how-to-become-a-project-maintainer
-[eng-projects]: /handbook/engineering/projects/

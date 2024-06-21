@@ -173,7 +173,7 @@ Make a copy of this [health tracker in Google Sheets](https://docs.google.com/sp
 
 {{< youtube "xuisSgBQtaU" >}}
 
-Epics are a great way to [transparently]({{< ref "values#transparency" >}}) and [efficiently]({{< ref "values#efficiency" >}}) track your work and connect learning to your [results]({{< ref "values#results" >}}).
+Epics are a great way to [transparently](/handbook/values/#transparency) and [efficiently](/handbook/values/#efficiency) track your work and connect learning to your [results](/handbook/values/#results).
 
 1. Open an epic in a personal or team project
 1. Use the description to highlight your learning goals, ideal programs or resources you want to review, considerations when planning, etc.

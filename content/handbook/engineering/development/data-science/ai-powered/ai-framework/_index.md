@@ -39,14 +39,14 @@ If you're interested in the team's Objectives and Key Results (OKRs), you can fi
 
 Depending on the context here are the most appropriate ways to reach out to the IDE Group:
 
-* Slack Channel: [`#g_ai_framework`][slack]
+* Slack Channel: `#g_ai_framework`
 * Slack Groups: `@ai-framework` (entire team) and `@ai-framework-engs` (just engineers)
 
 ## 📦 Team Processes
 
 ### 📆 Regular team meetings
 
-**❗️Important**: For every meeting, the [AI Framework team's meeting document][gdoc] should be used, and filled with the meeting notes, as well as references to any other sync meeting agendas/notes/recordings which have recently occurred. This will make it easier for people to find any meeting notes.
+**❗️Important**: For every meeting, the [AI Framework team's meeting document](https://docs.google.com/document/d/1rSJNmRZJ0q8hd9S6W_AXlCMvtNTC6cfWr6VU0e2fJCQ/edit#heading=h.3xbjtjtrp0e9) should be used, and filled with the meeting notes, as well as references to any other sync meeting agendas/notes/recordings which have recently occurred. This will make it easier for people to find any meeting notes.
 
 #### Team Meetings
 
@@ -142,11 +142,11 @@ The AI Framework Team communicates based on the following guidelines:
 1. Always prefer async communication over sync meetings.
 1. Don't shy away from arranging a [sync call](#-ad-hoc-sync-calls) when async is proving inefficient, however always record it to share with team members.
 1. By default communicate in the open.
-1. All work-related communication in Slack happens in the [#g_ai_framework][slack] channel.
+1. All work-related communication in Slack happens in the `#g_ai_framework` channel.
 
 ### ⏲ Time Off
 
-Team members should add any [planned time off][paid-time-off] in the "Time Off by Deel" slack app, so that the Engineering Manager can use the proper number of days off during capacity planning.
+Team members should add any [planned time off](/handbook/people-group/paid-time-off/#paid-time-off) in the "Time Off by Deel" slack app, so that the Engineering Manager can use the proper number of days off during capacity planning.
 
 ### 🤙 Ad-hoc sync calls
 
@@ -177,7 +177,7 @@ We operate using async communication by default. There are times when a sync dis
 
 ### 📹 GitLab Unfiltered Playlist
 
-The AI Framework Group collates all video recordings related to the group and its team members in [a playlist][youtube] in the [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) YouTube channel.
+The AI Framework Group collates all video recordings related to the group and its team members in [a playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kpt0DsmS5WSZbeiMgrBeZXv) in the [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) YouTube channel.
 
 {{< tableau height="600px" toolbar="hidden" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/TopEngineeringMetrics/TopEngineeringMetricsDashboard" >}}
   {{< tableau/filters "GROUP_LABEL"="ai framework" >}}
@@ -194,12 +194,3 @@ The AI Framework Group collates all video recordings related to the group and it
 {{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/SlowRSpecTestsIssues/SlowRSpecTestsIssuesDashboard" >}}
   {{< tableau/filters "GROUP_LABEL"="ai framework" >}}
 {{< /tableau >}}
-
-<!-- LINKS START -->
-
-[slack]: TBA
-[youtube]: https://www.youtube.com/playlist?list=PL05JrBw4t0Kpt0DsmS5WSZbeiMgrBeZXv
-[paid-time-off]: /handbook/people-group/paid-time-off/#paid-time-off
-[gdoc]: https://docs.google.com/document/d/1rSJNmRZJ0q8hd9S6W_AXlCMvtNTC6cfWr6VU0e2fJCQ/edit#heading=h.3xbjtjtrp0e9
-
-<!-- LINKS END -->

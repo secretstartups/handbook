@@ -132,4 +132,4 @@ If a GitLab team member provides a positive or negative feedback on a candidate,
 
 ### Backchannel References
 
-At no time should a backchannel reference be completed. A backchannel reference is defined as reaching out to someone in a candidates network (professional or personal), to gather feedback about the candidate without their consent or knowledge. Doing backchannel reference checks is counter to GitLab's value of [transparency]({{< ref "values#transparency" >}}). It may also have unintended, negative consequences for the person being backchanneled.
+At no time should a backchannel reference be completed. A backchannel reference is defined as reaching out to someone in a candidates network (professional or personal), to gather feedback about the candidate without their consent or knowledge. Doing backchannel reference checks is counter to GitLab's value of [transparency](/handbook/values/#transparency). It may also have unintended, negative consequences for the person being backchanneled.

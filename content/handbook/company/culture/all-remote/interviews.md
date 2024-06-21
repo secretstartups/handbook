@@ -77,7 +77,7 @@ Before a remote interview, check your front-facing camera or webcam to ensure yo
 
 ### Place
 
-Pick a neutral location that is quiet and comfortable. That way, neither you nor the interviewer will be distracted by your environment. We encourage you to display your [quirkiness]({{< ref "values#diversity-inclusion" >}}) and personality, but for an interview, it's best to avoid chaos.
+Pick a neutral location that is quiet and comfortable. That way, neither you nor the interviewer will be distracted by your environment. We encourage you to display your [quirkiness](/handbook/values/#diversity-inclusion) and personality, but for an interview, it's best to avoid chaos.
 
 ### Practice
 
@@ -214,7 +214,7 @@ If you have yet to work within an all-remote environment, it can be difficult to
 
 *In the [GitLab Unfiltered video](https://youtu.be/QTPeyRW766Q) above, two GitLab team members share their experiences on working in an all-remote setting, providing a glimpse at what's possible when embracing this style of work.*
 
-To provide insight and [transparency]({{< ref "values#transparency" >}}) into the lives of GitLab team members — and give those considering remote work [ideas for structuring their own lives]({{< ref "./resources#blogs-from-gitlab-team-members" >}}) — we ask the below questions in a video interview. While GitLab's entire team is remote, there can be great diversity in answers.
+To provide insight and [transparency](/handbook/values/#transparency) into the lives of GitLab team members — and give those considering remote work [ideas for structuring their own lives]({{< ref "./resources#blogs-from-gitlab-team-members" >}}) — we ask the below questions in a video interview. While GitLab's entire team is remote, there can be great diversity in answers.
 
 1. Who are you, how long have you been at GitLab, and what do you do at GitLab?
 1. What attracted you to GitLab?

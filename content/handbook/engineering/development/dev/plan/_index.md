@@ -134,13 +134,9 @@ UX Research calls are scripted calls designed to mitigate bias and to address sp
 ### Board Refinement
 
 We perform many board refinement tasks asynchronously, using GitLab issues
-in the [Plan project]. The policies for these issues are defined in
-[triage-ops/policies/plan-stage]. A full list of refinement issues is available
-by [filtering by the ~"Plan stage refinement" label][refinement-issues].
-
-[Plan project]: https://gitlab.com/gitlab-org/plan
-[triage-ops/policies/plan-stage]: https://gitlab.com/gitlab-org/quality/triage-ops/tree/master/policies/plan-stage
-[refinement-issues]: https://gitlab.com/gitlab-org/plan/issues?label_name%5B%5D=Plan+stage+refinement
+in the [Plan project](https://gitlab.com/gitlab-org/plan). The policies for these issues are defined in
+[triage-ops/policies/plan-stage](https://gitlab.com/gitlab-org/quality/triage-ops/tree/master/policies/plan-stage). A full list of refinement issues is available
+by [filtering by the ~"Plan stage refinement" label](https://gitlab.com/gitlab-org/plan/issues?label_name%5B%5D=Plan+stage+refinement).
 
 ### Tracking Committed Work for an Upcoming Release
 
@@ -207,14 +203,14 @@ OKRs should have the following labels:
 
 ### Retrospectives
 
-The Plan stage conducts [monthly retrospectives asynchronously using GitLab issues][retros]. Monthly retrospectives are performed in a Confidential Issue made Public upon Close. Confidentiality of these Issues while Open aligns with [GitLab SAFE Framework](/handbook/legal/safe-framework/).
+The Plan stage conducts [monthly retrospectives asynchronously using GitLab issues](https://gitlab.com/gl-retrospectives/plan/issues?scope=all&utf8=%E2%9C%93&state=all&label_name[]=retrospective). Monthly retrospectives are performed in a Confidential Issue made Public upon Close. Confidentiality of these Issues while Open aligns with [GitLab SAFE Framework](/handbook/legal/safe-framework/).
 
 The Plan Stage team encourages the use of Internal Notes as well to further adhere to SAFE Guidelines. Internal notes remain confidential to participants of the retrospective even after the issue is made public, including Guest users of the parent group. Dogfooding this feature aligns with an FY23 Q4 OKR of improving the GitLab Product development flow by driving the adoption of Plan features.
 
 Examples of information that should remain Confidential per SAFE guidelines are any company confidential information that is not public, any data that reveals information not generally known or not available externally which may be considered sensitive information, and material non-public information.
 
 The retrospective issue is created by a scheduled pipeline in the
-[async-retrospectives] project. It is then updated once the milestone
+[async-retrospectives](https://gitlab.com/gitlab-org/async-retrospectives) project. It is then updated once the milestone
 is complete with shipped and missed deliverables. For more information on how
 it works, see that project's README.
 
@@ -271,9 +267,6 @@ The DRI is responsible for completing the following actions:
 - Finding a DRI for each corrective action. Creating an issue in `gl-retrospectives/plan` for each is optional, but doing so and adding the ~"follow-up" label will ensure they're included automatically in the next retrospective.
 - Recording a short summary video and sharing in #s_plan. This can be discussed in the next weekly team call and can be added to the Plan Stage playlist on Youtube so that it shows up on team pages.
 - Closing the issue and making it public.
-
-[async-retrospectives]: https://gitlab.com/gitlab-org/async-retrospectives
-[retros]: https://gitlab.com/gl-retrospectives/plan/issues?scope=all&utf8=%E2%9C%93&state=all&label_name[]=retrospective
 
 In both the summary comment and video the DRI should be particularly careful to ensure all information disclosed is [SAFE](/handbook/legal/safe-framework/). If the retrospective discussion contains examples of unSAFE information, the issue should not be made public.
 
@@ -461,26 +454,21 @@ The responsibility of the DRI is simply to collect information and to ensure the
 ### Meetings
 
 Most of our group meetings are recorded and publicly available on
-YouTube in the [Plan group playlist][youtube].
+YouTube in the [Plan group playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KoceqcTneOVmAzhEp6NinY0).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL05JrBw4t0KoceqcTneOVmAzhEp6NinY0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-[youtube]: https://www.youtube.com/playlist?list=PL05JrBw4t0KoceqcTneOVmAzhEp6NinY0
-
 #### Weekly group meeting
 
-Plan held a weekly team-meeting as a stage until 2023-11-01. The [agenda] is still available.
+Plan held a weekly team-meeting as a stage until 2023-11-01. The [agenda](https://docs.google.com/document/d/1cbsjyq9XAt9UYLIxDq5BYFk47VA5aaTeHfkY2dttqfk/edit) is still available.
 
 The meeting was removed as its functions are now covered in other ways:
 
 - Slack
-- [Stage Working Groups]
+- [Stage Working Groups](#stage-working-groups)
 - Group meetings
 - Smaller ad-hoc meetings
 - Social call
-
-[Stage Working Groups]: #stage-working-groups
-[agenda]: https://docs.google.com/document/d/1cbsjyq9XAt9UYLIxDq5BYFk47VA5aaTeHfkY2dttqfk/edit
 
 #### Links / References
 
@@ -626,11 +614,9 @@ We're tracking a number of issues that we believe could cause scalability proble
 
 | Type | Description | Estimated Timeline for Failure | Resolution Due Date | 12 Month Target | Issue | Status |
 | ---- | ---          | ---                            | ---                | ---    | ---   | ---    |
-| Redis Primary CPU | Unexpected load on the Shared State Redis instance caused by `SUBSCRIBE`, `UNSUBSCRIBE` and `PUBLISH` commands. | Unknown | November 2023 | [150k Concurrent WebSocket Connections][websockets] at peak | | <span style='border-radius:0.2em; font-weight:bold; padding-left:1em; padding-right:1em; color:white; background-color:green;'>Okay</span> |
-| Redis Memory | Retention of Action Cable messages in Redis Shared State memory due to high numbers of and/or stalled/hung clients.  | Unknown | November 2023 | [150k Concurrent WebSocket Connections][websockets] at peak | [#326364](https://gitlab.com/gitlab-org/gitlab/-/issues/326364) | <span style='border-radius:0.2em; font-weight:bold; padding-left:1em; padding-right:1em; color:white; background-color:green;'>Okay</span> |
+| Redis Primary CPU | Unexpected load on the Shared State Redis instance caused by `SUBSCRIBE`, `UNSUBSCRIBE` and `PUBLISH` commands. | Unknown | November 2023 | [150k Concurrent WebSocket Connections](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/11747#action-cable-websockets) at peak | | <span style='border-radius:0.2em; font-weight:bold; padding-left:1em; padding-right:1em; color:white; background-color:green;'>Okay</span> |
+| Redis Memory | Retention of Action Cable messages in Redis Shared State memory due to high numbers of and/or stalled/hung clients.  | Unknown | November 2023 | [150k Concurrent WebSocket Connections](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/11747#action-cable-websockets) at peak | [#326364](https://gitlab.com/gitlab-org/gitlab/-/issues/326364) | <span style='border-radius:0.2em; font-weight:bold; padding-left:1em; padding-right:1em; color:white; background-color:green;'>Okay</span> |
 | Primary DB | Scaling a combined 'Work Items' table consisting of all current issues, epics, requirements and test cases. | Unknown | November 2024 | [50k Work Items](#work-items) created per day| | <span style='border-radius:0.2em; font-weight:bold; padding-left:1em; padding-right:1em; color:white; background-color:green;'>Okay</span> |
-
-[websockets]: https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/11747#action-cable-websockets
 
 Note: Work is ongoing on [migration helpers](https://gitlab.com/gitlab-org/gitlab/-/issues/292874) to mitigate Int4 Primary Key Overflows. These will provide a standard way to resolve these issues.
 

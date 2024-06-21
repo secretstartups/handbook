@@ -244,7 +244,7 @@ We develop and document processes that are designed to help us in achieving bett
 For example, the following processes exist to reduce the risk and improve code quality:
 
 - [Feature Flags Usage](https://docs.gitlab.com/ee/development/feature_flags/index.html)
-- [Code Review Guidelines](https://docs.gitlab.com/ee/development/code_review.html))
+- [Code Review Guidelines](https://docs.gitlab.com/ee/development/code_review.html)
 
 We find opportunities for improvement through analyzing metrics to identify trends, hosting retrospectives (e.g. [Group Retrospectives](/handbook/engineering/management/group-retrospectives/), [Iteration Retrospectives](/handbook/engineering/development/dev/create/engineers/iteration/)), performing [Root Cause Analyses](/handbook/customer-success/professional-services-engineering/workflows/internal\root-cause-analysis.html), and receiving feedback from team members. Team members are encouraged to identify opportunities to improve our processes and propose solutions, examples of this could be an MR or and issue describing these opportunities.
 
@@ -252,10 +252,7 @@ Everyone can contribute by proposing new processes and improving upon existing p
 
 ## Quality
 
-It is important to remember that quality is everyone's responsibility. Everything you merge to master should be production ready. Familiarize yourself with the [definition of done].
-
-[Development Guides]: https://docs.gitlab.com/ee/development/
-[definition of done]: https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/merge_request_workflow.md#definition-of-done
+It is important to remember that quality is everyone's responsibility. Everything you merge to master should be production ready. Familiarize yourself with the [definition of done](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/merge_request_workflow.md#definition-of-done).
 
 ### Release when it's ready
 
@@ -311,7 +308,7 @@ Follow the [dogfooding process described in the Product Handbook](/handbook/prod
 
 ### Code Quality and Standards
 
-We need to maintain code quality and standards. It's very important that you are familiar with the [Development Guides] in general, and the ones that relates to your group in particular:
+We need to maintain code quality and standards. It's very important that you are familiar with the [Development Guides](https://docs.gitlab.com/ee/development/) in general, and the ones that relates to your group in particular:
 
 - [UX Guides](https://docs.gitlab.com/ee/development/ux)
 - [Backend Guides](https://docs.gitlab.com/ee/development/#backend-guides)

@@ -115,9 +115,7 @@ Once your access has been provisioned, you will receive an email notification th
 
 The number of licenses is limited, so provisioning might take time, or might not be temporarily possible to gain access to the team.
 
-If at some point in the future you do not want to use the product anymore, please [file an Access Change request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issue%5Bmilestone_id%5D=#), assign to provisioner listed in the [Tech Stack] so that we can assign the license to someone else.
-
-[Tech Stack]: https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml
+If at some point in the future you do not want to use the product anymore, please [file an Access Change request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issue%5Bmilestone_id%5D=#), assign to provisioner listed in the [Tech Stack](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) so that we can assign the license to someone else.
 
 ## Usage of Java
 

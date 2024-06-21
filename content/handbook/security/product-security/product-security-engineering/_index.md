@@ -105,7 +105,7 @@ Below is a step-by-step process for team members to walk through when refining b
 
 ### Weights
 
-We use a lightweight system of issue weighting with the knowledge that [things take longer than you think].
+We use a lightweight system of issue weighting with the knowledge that [things take longer than you think](https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html).
 It's OK if an issue takes longer than the weight indicates. The weights are intended to be used in aggregate, and what takes one person a day might take another person a week, depending on their level of background knowledge about the issue. That's explicitly OK and expected.
 
 These weights we use are:
@@ -119,8 +119,6 @@ These weights we use are:
 | 5 | Large, will take a major portion of the milestone to finish |
 
 Anything larger than 5 should be broken down if possible.
-
-[things take longer than you think]: https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html
 
 ### Choosing what to work on
 

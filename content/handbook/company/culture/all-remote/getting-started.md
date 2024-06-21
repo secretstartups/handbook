@@ -150,7 +150,7 @@ Below are a number of intentional facets of [GitLab's culture](/handbook/company
 
 Spend time getting to know [GitLab's publicly viewable handbook](/handbook), which captures everything you need to know about the company.
 
-Technology is ever-changing. Which is one reason why GitLab's [onboarding process]({{< ref "./onboarding" >}}) includes exercises in self-service via an [onboarding issue]({{< ref "general-onboarding" >}}) with multiple tasks broken down into small, digestible chunks. Each issue guides new hires to complete certain tasks on certain days, being a [manager of one]({{< ref "values#managers-of-one" >}})  — an operating principle of [Efficiency]({{< ref "values#efficiency" >}}) — applies from the very beginning.
+Technology is ever-changing. Which is one reason why GitLab's [onboarding process]({{< ref "./onboarding" >}}) includes exercises in self-service via an [onboarding issue]({{< ref "general-onboarding" >}}) with multiple tasks broken down into small, digestible chunks. Each issue guides new hires to complete certain tasks on certain days, being a [manager of one]({{< ref "values#managers-of-one" >}})  — an operating principle of [Efficiency](/handbook/values/#efficiency) — applies from the very beginning.
 
 ### Develop a schedule that you can initially follow
 

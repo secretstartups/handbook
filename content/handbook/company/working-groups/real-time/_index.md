@@ -85,8 +85,6 @@ Technical decisions and rationale are captured in [this design document]({{<ref 
 ## Meetings
 
 Meetings are recorded and publicly available on
-YouTube in the [Real-Time Working Group playlist][youtube].
+YouTube in the [Real-Time Working Group playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KoMOc_LID1fKWWR4H_2n2hQ).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL05JrBw4t0KoMOc_LID1fKWWR4H_2n2hQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[youtube]: https://www.youtube.com/playlist?list=PL05JrBw4t0KoMOc_LID1fKWWR4H_2n2hQ

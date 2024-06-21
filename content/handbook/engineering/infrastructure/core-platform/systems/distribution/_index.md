@@ -123,7 +123,7 @@ The following members of other functional teams are our [stable counterparts](/h
 
 ## Common links
 
-- [Distribution team issue tracker][issue tracker]
+- [Distribution team issue tracker](https://gitlab.com/gitlab-org/distribution/team-tasks)
 - [Slack chat channel](https://gitlab.slack.com/archives/distribution)
 
 ## Team responsibility
@@ -291,7 +291,7 @@ The team regularly publishes demos, discussions and meetings to these playlists:
 In addition to general company on-boarding and off-boarding, Distribution team
 has its own process to get new team members up to speed more quickly.
 
-If you are starting with your onboarding, open an issue in [Distribution team issue tracker][issue tracker], select `Team-onboarding` template and assign the issue to yourself.
+If you are starting with your onboarding, open an issue in [Distribution team issue tracker](https://gitlab.com/gitlab-org/distribution/team-tasks), select `Team-onboarding` template and assign the issue to yourself.
 
 Going through the steps noted in the issue should be your top priority, higher
 than the general company on-boarding issue. This is because items in team on-boarding are specific to your role and it will allow you to get up-to-speed quicker.
@@ -420,14 +420,12 @@ request.
 
 There are occasions where the experise of the Distribution team may be needed in
 support of a customer issue. When this does occur, the appropriate method of requesting
-our engagement is by opening an issue on the [Distribution team tracker][issue tracker]
+our engagement is by opening an issue on the [Distribution team tracker](https://gitlab.com/gitlab-org/distribution/team-tasks)
 using the `Support Request` template. This process allows us to track time involved
 and ensure that the right parties are involved at the correct time.
 
 Requests should be opened **two or more** business
 days before action is needed to ensure the team has time to prepare.
-
-[issue tracker]: https://gitlab.com/gitlab-org/distribution/team-tasks
 
 ## Trivia
 

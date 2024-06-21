@@ -119,7 +119,7 @@ The conclusion section should contain a brief summary of the findings,
 potentially highlighting any critical findings. When the review process itself
 went very well this section should also be used to point out the participating
 team members for their
-[collaboration]({{< ref "values#collaboration" >}})
+[collaboration](/handbook/values/#collaboration)
 efforts.
 
 #### Coverage
@@ -139,7 +139,7 @@ filled out manually to point to the accordin remediation MRs or issues.
 
 If any blockers or problems occurred during the review those should be
 mentioned as well. In order to stay
-[results]({{< ref "values#results" >}}) oriented any
+[results](/handbook/values/#results) oriented any
 problem should come with a suggestion how to do it better or how to avoid the
 problem in future reviews.
 

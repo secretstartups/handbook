@@ -68,7 +68,7 @@ In this [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDR
 </figure>
 <!-- blank line -->
 
-> To be [transparent]({{< ref "values#transparency" >}}), we showcase our culture to prospective hires in advance. For example, there's a section of our Jobs FAQ called "[What's it like to work at GitLab?]({{< ref "candidate-faq" >}})"
+> To be [transparent](/handbook/values/#transparency), we showcase our culture to prospective hires in advance. For example, there's a section of our Jobs FAQ called "[What's it like to work at GitLab?]({{< ref "candidate-faq" >}})"
 >
 > You cannot expect to hire people who are passionate about executing your strategy if you wait to share the plan *after* they are onboard. Some candidates may opt out of the interview funnel if they realize they aren't a good fit for the company's mission, vision, and values.
 >
@@ -97,7 +97,7 @@ We've gathered extra ways to attract top talent to your organization (Note: this
 1. [De-location stipend](https://zapier.com/blog/move-away-from-sf-get-remote-job) (supporting relocation away from a high cost-of-market location)
 1. 4-day workweek, Summer Fridays, no-meeting days, and other efforts that provide company-wide time off for employees to rest, recharge, and connect with community
 1. Supporting the purchase of a complete and ergonomic [remote workspace]({{< ref "./workspace" >}}) uniquely tailored to each team member
-1. Transparent policies for investing in and championing [diversity, inclusion & belonging]({{< ref "values#diversity-inclusion" >}}) (and published goals for improvement)
+1. Transparent policies for investing in and championing [diversity, inclusion & belonging](/handbook/values/#diversity-inclusion) (and published goals for improvement)
 1. Restricted stock units (RSU) or stock options
 1. Enhanced hiring bonuses and higher salaries
 1. Large annual bonuses based on performance (*remote work [measures results]({{< ref "values#measure-results-not-hours" >}}), not hours spent, input, or time-in-seat*)
@@ -193,8 +193,8 @@ For more, watch Shane Bouchard, UX Manager, and Jeremy Watson, Senior Product Ma
 
 This approach reinforces several of GitLab's [values]({{< ref "values" >}}).
 
-- [Efficiency]({{< ref "values#efficiency" >}}): We can provide a better candidate experience and hire faster since neither candidate nor interviewer must travel.
-- [Diversity, Inclusion & Belonging]({{< ref "values#diversity-inclusion" >}}): We create a level playing field for all candidates by allowing them to interview from a space where they are comfortable.
+- [Efficiency](/handbook/values/#efficiency): We can provide a better candidate experience and hire faster since neither candidate nor interviewer must travel.
+- [Diversity, Inclusion & Belonging](/handbook/values/#diversity-inclusion): We create a level playing field for all candidates by allowing them to interview from a space where they are comfortable.
 
 ## What to do after you hire a remote worker
 
@@ -310,7 +310,7 @@ While GitLab is location-agnostic, we ensure that we have local Sourcers based i
 
 Our sourcing effort is extremely important for bringing [diverse]({{< ref "inclusion" >}}) talent onboard. Our Sourcers regularly network with recruiters and business verticals so they can quickly tap into real-time knowledge of specific markets when a niche position comes available.
 
-Driven by our [Collaboration value]({{< ref "values#collaboration" >}}), we organize [source-a-thons](/handbook/hiring/sourcing#source-a-thons), which become a place for everyone to share market insights and contribute to hiring. These sessions are extremely productive as they help Sourcers better partner with their hiring managers and calibrate expectations. You can learn more about how GitLab's Sourcing team operates [here](/handbook/hiring/sourcing).
+Driven by our [Collaboration value](/handbook/values/#collaboration), we organize [source-a-thons](/handbook/hiring/sourcing#source-a-thons), which become a place for everyone to share market insights and contribute to hiring. These sessions are extremely productive as they help Sourcers better partner with their hiring managers and calibrate expectations. You can learn more about how GitLab's Sourcing team operates [here](/handbook/hiring/sourcing).
 
 ## Contribute your lessons
 

@@ -3,11 +3,7 @@ title: "Create:Code Review Group"
 description: The Create:Code Review Group is responsible for all product categories that fall under the Code Review group of the Create stage.
 ---
 
-The Create:Code Review Group is responsible for all aspects of the product categories that fall under the [Code Review group][group] of the [Create stage][stage] of the [DevOps lifecycle][lifecycle].
-
-[group]: /handbook/product/categories/#code-review-group
-[stage]: /handbook/product/categories/#create-stage
-[lifecycle]: /handbook/product/categories/#devops-stages
+The Create:Code Review Group is responsible for all aspects of the product categories that fall under the [Code Review group](/handbook/product/categories/#code-review-group) of the [Create stage](/handbook/product/categories/#create-stage) of the [DevOps lifecycle](/handbook/product/categories/#devops-stages).
 
 ## Group overview
 
@@ -36,19 +32,13 @@ The Code Review group is responsible for the following product categories:
 
 ## Work
 
-In general, we use the standard GitLab [engineering workflow]. To get in touch with the Create:Code Review team, it's best to create an issue in the relevant project (typically [GitLab]) and add the `~"group::code review"` label, along with any other appropriate labels (`~devops::create`, `~section::dev`). Then, feel free to ping the relevant Product Manager and/or Engineering Manager as listed above.
+In general, we use the standard GitLab [engineering workflow](/handbook/engineering/workflow/). To get in touch with the Create:Code Review team, it's best to create an issue in the relevant project (typically [GitLab](https://gitlab.com/gitlab-org/gitlab)) and add the `~"group::code review"` label, along with any other appropriate labels (`~devops::create`, `~section::dev`). Then, feel free to ping the relevant Product Manager and/or Engineering Manager as listed above.
 
-For more urgent items, feel free to use [#g_create_code_review] on Slack.
+For more urgent items, feel free to use [#g_create_code_review](https://gitlab.slack.com/archives/g_create_code-review) on Slack.
 
-Work on the [GitLab VS Code Extension] follows a simplified development process. Learn more about it by looking at [CONTRIBUTING.md].
+Work on the [GitLab VS Code Extension](https://gitlab.com/gitlab-org/gitlab-vscode-extension) follows a simplified development process. Learn more about it by looking at [CONTRIBUTING.md](https://gitlab.com/gitlab-org/gitlab-vscode-extension/-/blob/main/CONTRIBUTING.md).
 
 [Take a look at the features we support per category here.](/handbook/product/categories/features/#createcode-review-group)
-
-[engineering workflow]: /handbook/engineering/workflow/
-[GitLab]: https://gitlab.com/gitlab-org/gitlab
-[#g_create_code_review]: https://gitlab.slack.com/archives/g_create_code-review
-[GitLab VS Code Extension]: https://gitlab.com/gitlab-org/gitlab-vscode-extension
-[CONTRIBUTING.md]: https://gitlab.com/gitlab-org/gitlab-vscode-extension/-/blob/main/CONTRIBUTING.md
 
 ## Metrics of success
 

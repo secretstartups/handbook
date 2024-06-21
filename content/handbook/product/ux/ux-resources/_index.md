@@ -46,9 +46,9 @@ The GitLab design project is primarily used by the Product Design team to docume
 
 ### Pajamas Design System
 
-The GitLab Design System, [Pajamas][pajamas], was developed to increase iteration speed and bring consistency to the UI through reusable and robust components. This system helps keep the application [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) and allows designers to focus their efforts on solving user needs, rather than recreating elements and reinventing solutions. It also empowers Product, Engineering, and the Community to use these defined patterns when proposing solutions.
+The GitLab Design System, [Pajamas](https://design.gitlab.com), was developed to increase iteration speed and bring consistency to the UI through reusable and robust components. This system helps keep the application [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) and allows designers to focus their efforts on solving user needs, rather than recreating elements and reinventing solutions. It also empowers Product, Engineering, and the Community to use these defined patterns when proposing solutions.
 
-- [Visit design.gitlab.com][pajamas]
+- [Visit design.gitlab.com](https://design.gitlab.com)
 - [View the Pajamas UI Kit on Figma](https://www.figma.com/community/file/781156790581391771)
 - [View the project](https://gitlab.com/gitlab-org/gitlab-services/design.gitlab.com)
 - [View dev object model (video)](https://www.youtube.com/watch?v=GMCS1sBzw9I&feature=youtu.be)
@@ -130,5 +130,3 @@ Not only do our team members create great work for the wider GitLab community, b
 - [Craft Awesome Web Typography](https://betterwebtype.com/web-typography-book/), by Matej Latin
 - [Hemingway - Figma plugin](https://www.figma.com/community/plugin/760035865558407437/Hemingway), by Michael Le
 - [GitLab-ipsum](https://ipsum.reali.sh/), by Patrick Deuley and Jeremy Elder
-
-[pajamas]: https://design.gitlab.com/

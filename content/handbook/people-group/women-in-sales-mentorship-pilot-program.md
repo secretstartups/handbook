@@ -7,7 +7,7 @@ description: "The GitLab Women in Sales Mentorship Program pilot aims to create 
 
 As discussed in [GitLab’s Remote Playbook](/handbook/company/culture/all-remote/), the intentionality behind communication, especially in remote settings, is a critical element of success. This pilot program aims to support GitLab’s communications plan by purposefully creating and cultivating opportunities for mentors, mentees, and connection.
 
-The goal of the Women in Sales Pilot Program is to provide mentorship opportunities to women in Sales as a ***pilot***. If successful, we will consider an expansion to other groups across the company. In the spirit of [iteration]({{< ref "values#iteration" >}}), we would like to get started soon and expand and improve as we go.
+The goal of the Women in Sales Pilot Program is to provide mentorship opportunities to women in Sales as a ***pilot***. If successful, we will consider an expansion to other groups across the company. In the spirit of [iteration](/handbook/values/#iteration), we would like to get started soon and expand and improve as we go.
 
 ## Program Benefits
 

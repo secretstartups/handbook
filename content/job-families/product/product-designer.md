@@ -5,7 +5,7 @@ description: "At GitLab, product designers collaborate closely with product mana
 
 ## Product Design Roles at GitLab
 
-At GitLab, product designers collaborate closely with [product managers](/job-families/product/product-manager/), [engineers](/job-families/engineering/), [UX researchers](/job-families/product/ux-researcher/), [technical writers](/job-families/product/technical-writer/), and other product designers to create a [productive, minimal, and human][pajamas] experience.
+At GitLab, product designers collaborate closely with [product managers](/job-families/product/product-manager/), [engineers](/job-families/engineering/), [UX researchers](/job-families/product/ux-researcher/), [technical writers](/job-families/product/technical-writer/), and other product designers to create a [productive, minimal, and human](https://design.gitlab.com) experience.
 
 A Product Designer reports to a [Product Design Manager](/job-families/product/product-design-management/#product-design-manager).
 
@@ -48,7 +48,7 @@ The Product Designer is a [grade 6](http://about.gitlab.com/handbook/total-rewar
 - **Communication:** Communicate the results of UX activities within your product area to the UX department, cross-functional partners within your product area, and other interested GitLab team-members using clear language that simplifies complexity.
 - **Usability:** Proactively identify both small and large usability issues within your group(s).
 - **Iteration:** Practice design iteration within the [validation track](http://about.gitlab.com/handbook/product-development-flow/#validation-track) and take part in the [monthly release process](http://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline) by [breaking down the designs](http://about.gitlab.com/handbook/product/ux/product-designer/#ideate-and-iterate) to fit the release cadence of your group(s). [Review and approve merge requests](http://about.gitlab.com/handbook/product/ux/product-designer/mr-reviews/) submitted by developers within the [build track](http://about.gitlab.com/handbook/product-development-flow/#build-track).
-- **Design system:** Actively contribute to the [Pajamas Design System][pajamas] by keeping design components available and up to date in design and prototyping tools, and ensuring that components fit together visually and functionally.
+- **Design system:** Actively contribute to the [Pajamas Design System](https://design.gitlab.com) by keeping design components available and up to date in design and prototyping tools, and ensuring that components fit together visually and functionally.
 - **UI copy:** Collaborate closely with a technical writer on microcopy and documentation suggestions.
 - **Design reviews:** Participate in [Design Reviews](http://about.gitlab.com/handbook/product/ux/product-designer/#design-reviews), giving and receiving feedback in an appropriate way.
 - **Deferred UX:** Understand Deferred UX and make recommendations for its resolution with the help from a senior or staff product designer or your product design manager.
@@ -74,7 +74,7 @@ Everything in the Product Designer role, plus:
 - **Communication:** Communicate the results of UX activities with a strong point of view to the UX department, cross-functional partners with your group(s), and other interested GitLab team-members using clear language that simplifies complexity.
 - **Usability:** Proactively identify both small and large usability issues within your group(s), and help influence your product manager to prioritize them.
 - **Iteration:** Lead and coach iteration of design work within the [validation track](http://about.gitlab.com/handbook/product-development-flow/#validation-track) for your group(s).
-- **Design system:** Actively contribute to the [Pajamas Design System][pajamas], help determine whether components are single-use or multi-use, and provide recommendations to designers regarding new component requests.
+- **Design system:** Actively contribute to the [Pajamas Design System](https://design.gitlab.com), help determine whether components are single-use or multi-use, and provide recommendations to designers regarding new component requests.
 - **UI copy:** Collaborate early and often with a technical writer on microcopy to ensure user experiences are efficient. Help improve docs and incorporate documentation within the UI as needed to assist users in moving through their workflows.
 - **Design reviews:** Participate in [Design Reviews](http://about.gitlab.com/handbook/product/ux/product-designer/#design-reviews), and model best practices for giving and receiving feedback.
 - **Deferred UX:** Help reduce the creation of additional deferred UX with [MVCs](http://about.gitlab.com/handbook/product/product-principles/#the-minimal-viable-change-mvc) and advocate within your group the importance of releasing value to users. Identify and influence the prioritization to fix deferred UX when it occurs.
@@ -181,7 +181,7 @@ Everything in the various levels of product designer roles, plus:
 
 - [UX Team](http://about.gitlab.com/handbook/product/ux/)
 - [GitLab Design Project](https://gitlab.com/gitlab-org/gitlab-design)
-- [GitLab Design System][pajamas]
+- [GitLab Design System](https://design.gitlab.com)
 
 ## Hiring Process
 
@@ -222,5 +222,3 @@ Here are some helpful tips for when you are sharing a case study:
 The hiring process for internal candidates may be slightly adjusted from the above, but in general the goal is still to evaluate the best fit for the role. Interview questions may be adapted to gauge interest and skills in specific areas the team would like to grow, or about specific team responsibilities. A case study review is not necessary; instead, consider current or previous work assignments and experience in light of the position.
 
 Additional details about our process can be found on our [hiring page](http://about.gitlab.com/handbook/hiring/).
-
-[pajamas]: https://design.gitlab.com

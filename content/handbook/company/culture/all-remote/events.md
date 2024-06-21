@@ -92,8 +92,8 @@ If you're a founder or hiring manager, these events offer a platform to promote 
 
 As remote work becomes more popular, a number of conferences and summits are emerging to serve a few key purposes.
 
-1. Educate the world on the [power]({{< ref "./remote-benefits" >}}) and [efficiency]({{< ref "values#efficiency" >}}) of working remotely, including those who have not yet embraced remote work.
-1. Bring remote workers and companies together to fuel [collaboration]({{< ref "values#collaboration" >}}) and share learnings.
+1. Educate the world on the [power]({{< ref "./remote-benefits" >}}) and [efficiency](/handbook/values/#efficiency) of working remotely, including those who have not yet embraced remote work.
+1. Bring remote workers and companies together to fuel [collaboration](/handbook/values/#collaboration) and share learnings.
 1. Provide a platform for experts to share knowledge with the [broader remote work community]({{< ref "./jobs" >}}).
 1. Create a tighter, more unified network of all-remote and remote-first advocates to evangelize for the creation of [more remote roles]({{< ref "./hiring" >}}).
 

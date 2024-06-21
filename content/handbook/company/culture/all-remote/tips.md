@@ -28,7 +28,7 @@ Learn more about [enabling informal communication in an all-remote company]({{< 
 
 ### Handbook, goals, and documentation
 
-Remote work is also what led to the development of our publicly viewable [handbook](/handbook), which captures everything you'd need to know about the company. If you can't tell, we like [efficiency]({{< ref "values#efficiency" >}}) and don't like having to explain things twice.
+Remote work is also what led to the development of our publicly viewable [handbook](/handbook), which captures everything you'd need to know about the company. If you can't tell, we like [efficiency](/handbook/values/#efficiency) and don't like having to explain things twice.
 
 Each department and team's quarterly goals, or ["objectives and key results" (OKRs)](/handbook/company/okrs), are also clearly documented in our handbook for visibility across the company. We check in on these goals monthly, so there's as much transparency as possible around what each team is accomplishing.
 
@@ -56,7 +56,7 @@ The GitLab way of working is more [inclusive]({{< ref "inclusion#fully-distribut
 #### Hiring
 
 We've published our [hiring process](/handbook/hiring/interviewing), including example screening questions, in our handbook.
-While this may be unique, we see it as simply staying true to our [transparency value]({{< ref "values#transparency" >}}). The process shouldn't be a mystery.
+While this may be unique, we see it as simply staying true to our [transparency value](/handbook/values/#transparency). The process shouldn't be a mystery.
 
 Letting candidates know what to expect allows them to focus on whether the role and the company are right for them, while we evaluate that too.
 
@@ -82,7 +82,7 @@ Find out more about how we handle this in our [country hiring guidelines](/handb
 
 *In the [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) video above, two GitLab colleagues discuss the benefits of living in a lower cost-of-living environment near friends, family, and community.*
 
-At GitLab, when we say our people can work from [anywhere]({{< ref "./people#travelers" >}}), we really mean it. We care about the [results]({{< ref "values#results" >}}) of their work, not where it's getting done.
+At GitLab, when we say our people can work from [anywhere]({{< ref "./people#travelers" >}}), we really mean it. We care about the [results](/handbook/values/#results) of their work, not where it's getting done.
 
 This flexibility often means something different for [each person at GitLab]({{< ref "./people" >}}). We have team members who are completely [location independent]({{< ref "./people#nomads" >}}) and [travel full time](https://about.gitlab.com/blog/2019/06/25/how-remote-work-at-gitlab-enables-location-independence).
 
@@ -121,7 +121,7 @@ Here are some best practices that may help your all-remote team be successful.
 ### Communication
 
 - Encourage people to [write down all information]({{< ref "./meetings#document-everything-live-yes-everything" >}}).
-- Allow everyone in the company to [view and edit every document]({{< ref "values#transparency" >}}).
+- Allow everyone in the company to [view and edit every document](/handbook/values/#transparency).
 - Consider every document a draft, don't wait to share until it's done.
 - Use screenshots in an issue tracker instead of a whiteboard, ensuring that everyone at any time can follow the thought process.
 - Encourage [non-work related communication]({{< ref "./informal-communication" >}}) (talking about private life on a team call) for [relationship building](https://medium.com/@markfrein70/the-distributed-workplace-15ef447fa926).

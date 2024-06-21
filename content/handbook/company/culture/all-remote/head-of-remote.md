@@ -185,7 +185,7 @@ Study the links below. They point to various educational sections within the Git
 1. Organizational savvy and the ability to garner influence to positively impact the working lives of team members
 1. A native visionary and problem solver who seeks outside perspectives, tools, and workflows to continually evolve an organization’s workplace design, culture, and strategy
 1. Propensity to form and foster interdepartmental relationships
-1. A default to working [transparently]({{< ref "values#transparency" >}}) and with a [low level of shame]({{< ref "values#low-level-of-shame" >}}) is vital given the extreme cross-functional nature of the role
+1. A default to working [transparently](/handbook/values/#transparency) and with a [low level of shame]({{< ref "values#low-level-of-shame" >}}) is vital given the extreme cross-functional nature of the role
 1. A sound advisor to other executives, guiding decisions through a global and inclusive lens
 1. Appreciation for [self-learning and self-service]({{< ref "./self-service" >}})
 1. Appreciation for [documentation]({{< ref "./handbook-first" >}}) and knowledge taxomony/codification

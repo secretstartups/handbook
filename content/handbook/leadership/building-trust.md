@@ -10,7 +10,7 @@ twitter_creator: "@gitlab"
 
 ## Introduction
 
-Trust is the cornerstone of how we operate at GitLab. We trust team members to [do the right thing instead of having rigid rules]({{< ref "values#measure-results-not-hours" >}}). Trust at GitLab [increases results](/handbook/people-group/guidance-on-feedback/), [efficiency]({{< ref "values#efficiency" >}}), and [collaboration]({{< ref "values#collaboration" >}}).
+Trust is the cornerstone of how we operate at GitLab. We trust team members to [do the right thing instead of having rigid rules]({{< ref "values#measure-results-not-hours" >}}). Trust at GitLab [increases results](/handbook/people-group/guidance-on-feedback/), [efficiency](/handbook/values/#efficiency), and [collaboration](/handbook/values/#collaboration).
 
 Trust takes time and energy to build. We leverage [informal communication](/handbook/company/culture/all-remote/informal-communication/) to build trust, but there are additional strategies [people leaders]({{< ref "_index.md" >}}) and team members can implement on their teams.
 
@@ -38,7 +38,7 @@ Sid Sijbrandij, GitLab's CEO, shared what he has identified as the ten dimension
 1. Information
     1. Providing and receiving [feedback](/handbook/people-group/guidance-on-feedback/)
     1. Bad news travels fast
-    1. [Transparency]({{< ref "values#transparency" >}}) (show your intermediate work)
+    1. [Transparency](/handbook/values/#transparency) (show your intermediate work)
     1. Wide access to information, meetings, and meeting notes
 1. Responsiveness
     1. Availability

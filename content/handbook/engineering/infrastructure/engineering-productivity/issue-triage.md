@@ -1,17 +1,9 @@
 ---
-
 title: Issue Triage
 description: "Guidelines for triaging new issues opened on GitLab.com projects"
 ---
 
-
-
-
-
-
-
-
-GitLab believes in [Open Development][open-development], and we encourage the community to file issues and open merge requests for our projects on [GitLab.com](https://gitlab.com/groups/gitlab-org). Their contributions are valuable, and we should handle them as effectively as possible. A central part of this is triage - the process of categorization according to type and severity.
+GitLab believes in [Open Development](https://about.gitlab.com/blog/2015/12/16/improving-open-development-for-everyone/), and we encourage the community to file issues and open merge requests for our projects on [GitLab.com](https://gitlab.com/groups/gitlab-org). Their contributions are valuable, and we should handle them as effectively as possible. A central part of this is triage - the process of categorization according to type and severity.
 
 Any GitLab team-member can triage issues. Keeping the number of un-triaged issues low is essential for maintainability, and is our collective responsibility. Consider triaging a few issues around your other responsibilities, or scheduling some time for it on a regular basis.
 
@@ -274,9 +266,9 @@ Initial triage involves (at a minimum) labelling an issue appropriately, so un-t
 
 Follow one of these links:
 
-- [GitLab][issues-query]
-- [GitLab Omnibus][omnibus-issues-query]
-- [GitLab.com Support Tracker][support-issues-query]
+- [GitLab](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=None&assignee_id=None)
+- [GitLab Omnibus](https://gitlab.com/gitlab-org/omnibus-gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=None&assignee_id=None)
+- [GitLab.com Support Tracker](https://gitlab.com/gitlab-com/support-forum/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=None&assignee_id=None)
 
 Pick an issue, with preference given to the oldest in the list, and evaluate it with a critical eye, bearing the [issue triage practices](#issue-triage-practices) below in mind. Some questions to ask yourself:
 
@@ -449,25 +441,13 @@ any owner of that group for access.
 
 ## Notes
 
-The original issue about these policies is [#17693][17693]. We'll be working to improve the situation from within GitLab itself as time goes on.
+The original issue about these policies is [#17693](https://gitlab.com/gitlab-org/gitlab-ce/issues/17693). We'll be working to improve the situation from within GitLab itself as time goes on.
 
 The following projects, resources, and blog posts were very helpful in crafting these policies:
 
-- [CodeTriage][code-triage]
-- [How to be an open source gardener][open-source-gardener]
-- [Managing the Deluge of Atom Issues][atom-issues]
-- [Handling Large OSS Projects Defensively][handling-big-projects]
-- [My condolences, you’re now the maintainer of a popular open source project][my-condolences]
-- [The Art of Closing][art-of-closing]
-
-[open-development]: https://about.gitlab.com/blog/2015/12/16/improving-open-development-for-everyone/
-[issues-query]: https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=None&assignee_id=None
-[omnibus-issues-query]: https://gitlab.com/gitlab-org/omnibus-gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=None&assignee_id=None
-[support-issues-query]: https://gitlab.com/gitlab-com/support-forum/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=None&assignee_id=None
-[17693]: https://gitlab.com/gitlab-org/gitlab-ce/issues/17693
-[code-triage]: https://www.codetriage.com/
-[open-source-gardener]: http://words.steveklabnik.com/how-to-be-an-open-source-gardener
-[atom-issues]: http://blog.atom.io/2016/04/19/managing-the-deluge-of-atom-issues.html
-[handling-big-projects]: http://artsy.github.io/blog/2016/07/03/handling-big-projects/
-[my-condolences]: https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/
-[art-of-closing]: https://blog.jessfraz.com/post/the-art-of-closing/
+- [CodeTriage](https://www.codetriage.com/)
+- [How to be an open source gardener](http://words.steveklabnik.com/how-to-be-an-open-source-gardener)
+- [Managing the Deluge of Atom Issues](http://blog.atom.io/2016/04/19/managing-the-deluge-of-atom-issues.html)
+- [Handling Large OSS Projects Defensively](http://artsy.github.io/blog/2016/07/03/handling-big-projects/)
+- [My condolences, you’re now the maintainer of a popular open source project](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+- [The Art of Closing](https://blog.jessfraz.com/post/the-art-of-closing/)

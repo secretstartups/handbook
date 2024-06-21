@@ -40,11 +40,11 @@ For that, Security Engineers need to follow these steps:
 
 1. On the security merge request, click on the `qa` stage and then trigger the `package-and-qa` build.
 1. Internally the `package-and-qa` build will trigger a pipeline on the [Omnibus GitLab Mirror] project.
-1. On the [Omnibus GitLab Mirror] pipeline, wait for the `Trigger:gitlab-docker` build to finish.
+1. On the [Omnibus GitLab Mirror](https://gitlab.com/gitlab-org/build/omnibus-gitlab-mirror/) pipeline, wait for the `Trigger:gitlab-docker` build to finish.
 1. In the meantime,
     - Ensure you're logged in to `registry.gitlab.com`. You can login with your pre-configured Docker credentials,
-      or with a [Personal Access Token] or a [Deploy Token] using the command `docker login registry.gitlab.com` (or `nerdctl login registry.gitlab.com -u <username>` depending on what you're using).
-    - Complete the [Set up volumes location] on the Omnibus
+      or with a [Personal Access Token](https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html) or a [Deploy Token](https://docs.gitlab.com/ee/user/project/deploy_tokens/) using the command `docker login registry.gitlab.com` (or `nerdctl login registry.gitlab.com -u <username>` depending on what you're using).
+    - Complete the [Set up volumes location](https://docs.gitlab.com/omnibus/docker/#set-up-the-volumes-location) on the Omnibus
 1. Once `Trigger:gitlab-docker` has been completed, scroll down to the end of the log
 and find the docker image that was pushed to `registry.gitlab.com`.
 1. To start the docker image on your local environment, follow the [documentation](https://docs.gitlab.com/omnibus/docker/) and replace the `gitlab/gitlab-ee:latest` image with the one from the previous step.
@@ -84,10 +84,5 @@ Our default credit will be `This vulnerability was reported by a customer` for c
 
 ## Updating CVEs
 
-To update a CVE after it has been published, open a merge request in [https://gitlab.com/gitlab-org/cves] which modifies `published/CVE-YYYY-IDIDID.json`.
+To update a CVE after it has been published, open a merge request in <https://gitlab.com/gitlab-org/cves> which modifies `published/CVE-YYYY-IDIDID.json`.
 Ping `gitlab-org/secure/vulnerability-research` to review and merge. The Vulnerability Research team will then handle updating the CVE with MITRE and/or NVD.
-
-[Omnibus GitLab Mirror]: https://gitlab.com/gitlab-org/build/omnibus-gitlab-mirror/
-[Personal Access Token]: https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html
-[Deploy Token]: https://docs.gitlab.com/ee/user/project/deploy_tokens/
-[Set up volumes location]: https://docs.gitlab.com/omnibus/docker/#set-up-the-volumes-location

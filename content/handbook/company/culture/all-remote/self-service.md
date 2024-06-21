@@ -28,13 +28,13 @@ For many — particularly team members joining from a colocated environment — 
 ![GitLab commit path illustration](/images/all-remote/gitlab-commit-illustration.jpg)
 {style="max-width: 50%;"}
 
-GitLab's [onboarding process]({{< ref "./onboarding" >}}) is highly unique. Each new hire is assigned an [onboarding issue]({{< ref "general-onboarding" >}}) with dozens upon dozens of tasks, broken down into small, digestible chunks. While the issue guides new hires to complete certain tasks on certain days, being a [manager of one]({{< ref "values#managers-of-one" >}})  — an operating principle of [Efficiency]({{< ref "values#efficiency" >}}) — applies from the very beginning.
+GitLab's [onboarding process]({{< ref "./onboarding" >}}) is highly unique. Each new hire is assigned an [onboarding issue]({{< ref "general-onboarding" >}}) with dozens upon dozens of tasks, broken down into small, digestible chunks. While the issue guides new hires to complete certain tasks on certain days, being a [manager of one]({{< ref "values#managers-of-one" >}})  — an operating principle of [Efficiency](/handbook/values/#efficiency) — applies from the very beginning.
 
 There is a stark lack of hand-holding. Those who prefer to be heavily guided may struggle with this, but acclimating is vital.
 
 This way of working permeates the GitLab [culture]({{< ref "remote-values" >}}), from a bias towards [asynchronous communication]({{< ref "./management#asynchronous" >}}), to maintaining a [low level of shame]({{< ref "values#low-level-of-shame" >}}), to [being deliberate about scale]({{< ref "values#be-deliberate-about-scale" >}}).
 
-Through continual [iteration]({{< ref "values#iteration" >}}), the onboarding issue has become a comprehensive list. Those coming from colocated backgrounds may view this as overwhelming, or perhaps even unnecessary. GitLab would rather you be inundated with useful information to absorb at your own pace than be uninformed. It comes naturally when a company values [transparency]({{< ref "values#transparency" >}}).
+Through continual [iteration](/handbook/values/#iteration), the onboarding issue has become a comprehensive list. Those coming from colocated backgrounds may view this as overwhelming, or perhaps even unnecessary. GitLab would rather you be inundated with useful information to absorb at your own pace than be uninformed. It comes naturally when a company values [transparency](/handbook/values/#transparency).
 
 ### Proactive approach to answering questions
 
@@ -48,7 +48,7 @@ GitLab's use of [onboarding buddies is well documented]({{< ref "onboarding-budd
 
 1. An onboarding buddy asked a new hire what [feedback]({{< ref "./effective-communication#feedback-is-a-gift" >}}) she had after two weeks of onboarding.
 1. She responded with feedback that the process felt siloed, and lacked the sense of community she had experienced prior. She referenced onboarding in a colocated space, where all new hires in a given week were forced to be in the same physical setting regardless of what department they would go on to serve in. This created a sense of belonging — that they were all in this thing together.
-1. In discussing a remote solution to this, it was determined that a merge request should be put forth to encourage new hires (announced within the `#new_team_members` Slack channel) to organize an optional group call with each other for those who prefer a more social new hire orientation experience. This may not be a comprehensive solution, but it is a [minimal viable change]({{< ref "values#minimal-viable-change-mvc" >}}) which can be bolstered in future [iterations]({{< ref "values#iteration" >}}).
+1. In discussing a remote solution to this, it was determined that a merge request should be put forth to encourage new hires (announced within the `#new_team_members` Slack channel) to organize an optional group call with each other for those who prefer a more social new hire orientation experience. This may not be a comprehensive solution, but it is a [minimal viable change]({{< ref "values#minimal-viable-change-mvc" >}}) which can be bolstered in future [iterations](/handbook/values/#iteration).
 1. In turn, [this merge request](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/29045) was produced and merged into [Onboarding Buddy Responsibilities]({{< ref "onboarding-buddies#buddy-responsibilities" >}}), creating a path for a more social onboarding experience for every successive wave of new team members.
 
 ## Paying it forward
@@ -79,14 +79,14 @@ Humans tend to trust other humans more than words written in an online repositor
 
 A commonly-rooted habit that requires breaking at GitLab is this: oftentimes, people assume that by asking someone a question privately, they are doing everyone else a favor by bothering the fewest number of people.
 
-At GitLab, we flip that notion on its head. We [prefer public discourse over private]({{< ref "communication#avoid-direct-messages" >}}), as this enables deeper [collaboration]({{< ref "values#collaboration" >}}). We [encourage]({{< ref "values#share" >}}) team members to consider making private issues public wherever possible so that we can all learn from the experience, rather than requiring a small group to spend effort translating those learnings in the future.
+At GitLab, we flip that notion on its head. We [prefer public discourse over private]({{< ref "communication#avoid-direct-messages" >}}), as this enables deeper [collaboration](/handbook/values/#collaboration). We [encourage]({{< ref "values#share" >}}) team members to consider making private issues public wherever possible so that we can all learn from the experience, rather than requiring a small group to spend effort translating those learnings in the future.
 
 ## Answer with a link
 
 ![GitLab customer path illustration](/images/all-remote/gitlab-customer-path.jpg)
 {style="max-width: 50%;"}
 
-While making conversations [public]({{< ref "values#public-by-default" >}}) may feel inefficient in the moment, it is much more [efficient]({{< ref "values#efficiency" >}}) long-term. It leads to significantly fewer interruptions. Team members should **search for their own answers**, and, if an answer is not readily found or the answer is not clear, ask in public as we all should have a [low level of shame]({{< ref "values#low-level-of-shame" >}}). [Write down any new information discovered](values#write-things-down) and pay it forward so that those coming after will have better efficiency built on top of practicing collaboration, inclusion, and documenting the results.
+While making conversations [public]({{< ref "values#public-by-default" >}}) may feel inefficient in the moment, it is much more [efficient](/handbook/values/#efficiency) long-term. It leads to significantly fewer interruptions. Team members should **search for their own answers**, and, if an answer is not readily found or the answer is not clear, ask in public as we all should have a [low level of shame]({{< ref "values#low-level-of-shame" >}}). [Write down any new information discovered](values#write-things-down) and pay it forward so that those coming after will have better efficiency built on top of practicing collaboration, inclusion, and documenting the results.
 
 Minimizing interruptions creates a less chaotic workplace for all, and leads to something that is increasingly precious: [long, uninterrupted periods of time](https://www.ted.com/talks/jason_fried_why_work_doesn_t_happen_at_work?language=en) where you can get into a [state of flow](https://medium.com/steveglaveski/37-lessons-on-productivity-and-work-from-basecamps-jason-fried-4815bb87c52d).
 

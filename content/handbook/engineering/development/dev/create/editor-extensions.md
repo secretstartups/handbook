@@ -3,11 +3,7 @@ title: "Create:Editor Extensions Group"
 description: The Create:Editor Extensions Group is responsible for all product categories that fall under the Editor Extensions group of the Create stage.
 ---
 
-The Create:Editor Extensions Group is responsible for all aspects of the product categories that fall under the [Editor Extensions group][group] of the [Create stage][stage] of the [DevOps lifecycle][lifecycle].
-
-[group]: /handbook/product/categories/#editor-extensions-group
-[stage]: /handbook/product/categories/#create-stage
-[lifecycle]: /handbook/product/categories/#devops-stages
+The Create:Editor Extensions Group is responsible for all aspects of the product categories that fall under the [Editor Extensions group](/handbook/product/categories/#editor-extensions-group) of the [Create stage](/handbook/product/categories/#create-stage) of the [DevOps lifecycle](/handbook/product/categories/#devops-stages).
 
 ## Group overview
 

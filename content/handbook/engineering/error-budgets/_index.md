@@ -3,15 +3,15 @@ title: "Engineering Error Budgets"
 description: "The error budget provides a clear, objective metric that determines how unreliable the service is allowed to be within a single quarter."
 ---
 
-As part of [our strategy][strategy] to [reinforce GitLab SaaS][product strategy] as an enterprise grade platform ready for business critical workloads, GitLab.com has specific [Availability][availability] and [Performance][performance] targets.
+As part of [our strategy](https://about.gitlab.com/direction/#3-year-strategy) to [reinforce GitLab SaaS](https://about.gitlab.com/direction/enablement/dotcom/) as an enterprise grade platform ready for business critical workloads, GitLab.com has specific [Availability](/handbook/engineering/infrastructure/performance-indicators/#gitlabcom-availability) and [Performance](/handbook/engineering/infrastructure/performance-indicators/#gitlabcom-performance) targets.
 
 These targets give our users indication of the platform reliability.
 
-Additionally, [GitLab.com Service Level Availability][SLA methodology] is also a part of our contractual agreement with platform customers. The contract might define a specific target number, and not honouring that agreement may result in financial and reputational burdens.
+Additionally, [GitLab.com Service Level Availability](/handbook/engineering/monitoring/#gitlabcom-service-availability) is also a part of our contractual agreement with platform customers. The contract might define a specific target number, and not honouring that agreement may result in financial and reputational burdens.
 
 ## What are error budgets?
 
-The Google SRE book is generally a recommended read and under the ["Motivation for Error Budgets"][motivation] section, it states:
+The Google SRE book is generally a recommended read and under the ["Motivation for Error Budgets"](https://landing.google.com/sre/sre-book/chapters/embracing-risk/#id-na2u1S2SKi1) section, it states:
 
 > The error budget provides a clear, objective metric that determines how unreliable the service is allowed to be within a single quarter. This metric removes the politics from negotiations between the SREs and the product developers when deciding how much risk to allow.
 
@@ -110,20 +110,20 @@ The error budgets process has a few distinct items:
 
 The stakeholders in the Error Budget process are:
 
-1. Stage teams (Product department and the supporting Engineering teams represented on the [product categories page][categories])
-1. Infrastructure teams (Teams represented on the [infrastructure team page][infra teams])
+1. Stage teams (Product department and the supporting Engineering teams represented on the [product categories page](/handbook/product/categories/))
+1. Infrastructure teams (Teams represented on the [infrastructure team page](/handbook/engineering/infrastructure/team/))
 1. [VP of Infrastructure and Infrastructure Leadership](/handbook/engineering/infrastructure/#mstaff)
 1. VP of Development and VP of Product
 
 ## Budget allocation
 
-Error budget is calculated based on the [availability] targets.
+Error budget is calculated based on the [availability](/handbook/engineering/infrastructure/performance-indicators/#gitlabcom-availability) targets.
 
 With the current target of `99.95%` availability, allowed unavailability window is `20 minutes per 28 day period`.
 
 We elected to use the 28 day period to match Product reporting methods.
 
-The budget is set on the SaaS platform and is shared between stage and infrastructure teams. Service Availability calculation methodology is covered in details at [the GitLab.com Service Availability page][SLA methodology].
+The budget is set on the SaaS platform and is shared between stage and infrastructure teams. Service Availability calculation methodology is covered in details at [the GitLab.com Service Availability page](/handbook/engineering/monitoring/#gitlabcom-service-availability).
 
 This includes all Rails Controllers, API Endpoints, Sidekiq workers, and other SLIs defined in the service catalog. This is attributed to groups by defining a feature category. Documentation about feature categorization is available in the [developer guide](https://docs.gitlab.com/ee/development/feature_categorization/index.html#feature-categorization).
 
@@ -147,9 +147,9 @@ Feature categories with monthly spend above the allocated budget for three conse
 
 ## Budget spend(by service)
 
-The current budget spend can be found on the [general Service Availability dashboard][SLA dashboard].
+The current budget spend can be found on the [general Service Availability dashboard](https://dashboards.gitlab.net/d/general-slas/general-slas?orgId=1&from=now-30d&to=now).
 
-Spent budget is the time (in minutes) during which user facing services have experienced a percentage of errors below the specified threshold and latency is above the specified objectives for the service. The details on how Service  Availability is calculated can be  found at [the GitLab.com Service Availability page][SLA methodology].
+Spent budget is the time (in minutes) during which user facing services have experienced a percentage of errors below the specified threshold and latency is above the specified objectives for the service. The details on how Service  Availability is calculated can be  found at [the GitLab.com Service Availability page](/handbook/engineering/monitoring/#gitlabcom-service-availability).
 
 The budget spend is currently aggregated at the primary service level.
 
@@ -163,7 +163,7 @@ Details on what contributed to the budget spend can be further found by examinin
 
 There is [an example available](error-budget-by-stage-group-example.html) with a more detailed look at how this is built.
 
-The current [28 day](/handbook/business-technology/data-team/programs/data-for-product-managers/#usage_ping_metric_count-snippet) budget spend can be found on each [stage group dashboard][stage group dashboards]. Feature categories for that stage group are rolled up to a single value.
+The current [28 day](/handbook/business-technology/data-team/programs/data-for-product-managers/#usage_ping_metric_count-snippet) budget spend can be found on each [stage group dashboard](https://dashboards.gitlab.net/dashboards/f/stage-groups/stage-groups). Feature categories for that stage group are rolled up to a single value.
 
 Stage groups can use their dashboards to explore the cause of their budget spend. The process to investigate the budget spend is described in [the developer documentation](https://docs.gitlab.com/ee/development/stage_group_dashboards.html#check-where-budget-is-being-spent)
 
@@ -327,7 +327,7 @@ The changes below aim to increase the maturity of the Error Budgets.
 
 Product Development teams are encouraged to:
 
-- Continue working on [Rapid Action][rapid action], [Infradev][infradev], [Corrective Actions][corrective action], [Security][security vulnerabilities], and [Engineering Allocation][engineering allocation] issues per our [Prioritization guidelines][engineering prioritization]
+- Continue working on [Rapid Action](/handbook/engineering/development/#rapid-action), [Infradev](/handbook/engineering/workflow/#availability-and-performance-refinement), [Corrective Actions](/handbook/engineering/infrastructure/incident-review/#incident-review-issue-creation-and-ownership), [Security](/handbook/security/product-security/vulnerability-management/#vulnerability-management-overview), and [Engineering Allocation](/handbook/engineering/#engineering-allocation) issues per our [Prioritization guidelines](/handbook/engineering/development/principles/#prioritizing-technical-decisions)
 - Propose SLOs for their endpoints
 - [Opt-in to using the new apdex calculation methods that use the custom target durations](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/1451)
 - Provide further feedback for future improvements to Error Budgets
@@ -345,20 +345,3 @@ Product Development teams are encouraged to:
 - [Error Budget AMA](https://docs.google.com/presentation/d/1yYnLlTN8KOYNHww91nJgnbFK7l2xf3Cy1mRvUAxHa08/edit)
 - [Understanding Stage Level Error Budget Dashboards](https://docs.gitlab.com/ee/development/stage_group_observability/#error-budget)
 - [Setting up recurring Slack updates](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/uncategorized/error-budget-weekly.md)
-
-[strategy]: /direction/#3-year-strategy
-[product strategy]: /direction/enablement/dotcom/
-[availability]: /handbook/engineering/infrastructure/performance-indicators/#gitlabcom-availability
-[performance]: /handbook/engineering/infrastructure/performance-indicators/#gitlabcom-performance
-[SLA methodology]: /handbook/engineering/monitoring/#gitlabcom-service-availability
-[motivation]: https://landing.google.com/sre/sre-book/chapters/embracing-risk/#id-na2u1S2SKi1
-[infradev]: /handbook/engineering/workflow/index.html#availability-and-performance-refinement
-[categories]: /handbook/product/categories/
-[infra teams]: /handbook/engineering/infrastructure/team/
-[SLA dashboard]: https://dashboards.gitlab.net/d/general-slas/general-slas?orgId=1&from=now-30d&to=now
-[stage group dashboards]: https://dashboards.gitlab.net/dashboards/f/stage-groups/stage-groups
-[rapid action]: /handbook/engineering/development/#rapid-action
-[corrective action]: /handbook/engineering/infrastructure/incident-review/#incident-review-issue-creation-and-ownership
-[security vulnerabilities]: /handbook/security/product-security/vulnerability-management/#vulnerability-management-overview
-[engineering allocation]: /handbook/engineering/#engineering-allocation
-[engineering prioritization]: /handbook/engineering/development/principles/#prioritizing-technical-decisions

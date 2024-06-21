@@ -125,7 +125,7 @@ Encourage and show enthusiasm by identifying strengths in the coachee to build t
 
 - Acknowledging: Focuses on the coachee - who they are as a person and what they have done in their life, their inner character. Make the coachee feel unique and that you recognize what sets them apart.
 - Appreciating: Focuses on the positive impact and contribution of the deed to others.
-- Praising: Focuses on the deed, what people do - [results]({{< ref "values#results" >}}), [transparency]({{< ref "values#transparency" >}}), [efficiency]({{< ref "values#efficiency" >}}), [inclusion](/handbook/company/culture/inclusion/), and performance.
+- Praising: Focuses on the deed, what people do - [results](/handbook/values/#results), [transparency](/handbook/values/#transparency), [efficiency](/handbook/values/#efficiency), [inclusion](/handbook/company/culture/inclusion/), and performance.
 {{% /details %}}
 
 {{% details summary="Challenge" %}}

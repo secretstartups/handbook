@@ -24,7 +24,7 @@ Managing remotely is much like managing in-person, but there are certain traits 
 
 ### Self-awareness
 
-Self-awareness is critical for relationship building and trust, particularly in an all-remote setting. The reality is that people prefer to learn, and to be managed, differently. GitLab's CEO goes so far as to [publicize his communication preferences](/handbook/ceo#communication) and [flaws](/handbook/ceo#flaws), which requires a high degree of self-awareness, a [low level of shame]({{< ref "values#low-level-of-shame" >}}), and a penchant for [transparency]({{< ref "values#transparency" >}}).
+Self-awareness is critical for relationship building and trust, particularly in an all-remote setting. The reality is that people prefer to learn, and to be managed, differently. GitLab's CEO goes so far as to [publicize his communication preferences](/handbook/ceo#communication) and [flaws](/handbook/ceo#flaws), which requires a high degree of self-awareness, a [low level of shame]({{< ref "values#low-level-of-shame" >}}), and a penchant for [transparency](/handbook/values/#transparency).
 
 Self-aware managers will be open with reports on their learning and communication preferences, enabling those who report to them to interact without ambiguity.
 
@@ -72,7 +72,7 @@ Use weekly [1-1 meetings]({{< ref "1-1" >}}) to discuss business topics, challen
 
 Not everyone is capable of going fully-remote or mentally prepared to go days without a human interaction. Set up regular video chats and be sure to make space for [intentional informal communication]({{< ref "./informal-communication" >}}).
 
-Being a remote manager means building a support system for your team, while at the same time striking a balance to hold them accountable. [Building trust]({{< ref "building-trust" >}}), maintaining [transparency]({{< ref "values#transparency" >}}), communicating frequently and openly, and ensuring a supportive working environment are critical for success.
+Being a remote manager means building a support system for your team, while at the same time striking a balance to hold them accountable. [Building trust]({{< ref "building-trust" >}}), maintaining [transparency](/handbook/values/#transparency), communicating frequently and openly, and ensuring a supportive working environment are critical for success.
 
 #### Maintain constant communication
 
@@ -155,7 +155,7 @@ The manager should be intentional about selecting an onboarding buddy. Aim to se
 
 ### Balance self-learning and nurturing
 
-In a remote setting, it's vital that a new hire recognize the importance of [working handbook-first]({{< ref "./handbook-first" >}}). This reality needs to be balanced with nurturing — an empathetic approach to working with a colleague. During onboarding, ask for feedback on this. A manager should be willing and able to adapt to a new hire's preferred communication methods, and be willing to [iterate]({{< ref "values#iteration" >}}) on this.
+In a remote setting, it's vital that a new hire recognize the importance of [working handbook-first]({{< ref "./handbook-first" >}}). This reality needs to be balanced with nurturing — an empathetic approach to working with a colleague. During onboarding, ask for feedback on this. A manager should be willing and able to adapt to a new hire's preferred communication methods, and be willing to [iterate](/handbook/values/#iteration) on this.
 
 ## How do you motivate remote workers?
 
@@ -175,7 +175,7 @@ GitLab's expertise in managing a remote team has been turned into a free course 
 
 ## Red flags to watch out for
 
-Despite its many [advantages]({{< ref "./remote-benefits" >}}), all-remote work isn't for everyone. It can have disadvantages for potential employees depending on their lifestyle and work preferences, as well as the organization. In the spirit of [transparency]({{< ref "values#transparency" >}}), we'll also highlight counterpoints and solutions to these challenges.
+Despite its many [advantages]({{< ref "./remote-benefits" >}}), all-remote work isn't for everyone. It can have disadvantages for potential employees depending on their lifestyle and work preferences, as well as the organization. In the spirit of [transparency](/handbook/values/#transparency), we'll also highlight counterpoints and solutions to these challenges.
 
 ### Loneliness and isolation
 
@@ -215,7 +215,7 @@ A natural inclination when managing a team is to manage people — the *individu
 
 To better understand how this impacts management style, consider this example. Each time a manager is asked a question by a direct report, there is a loss of productivity and focus in answering. If this answer is delivered verbally and privately, its benefit is highly specific and ephemeral. If, however, the manager considers the answer, documents it in a searchable location, and [answers with a link]({{< ref "./self-service#answer-with-a-link" >}}), the process of answering becomes far more useful long-term.
 
-In the latter case, this act of managing a *process* instead of a *person* creates outsized long-term [efficiency]({{< ref "values#efficiency" >}}). Every future direct report who has the same question will now be able to side-step the interruption and locate the answer themselves, creating two positive loops in the process.
+In the latter case, this act of managing a *process* instead of a *person* creates outsized long-term [efficiency](/handbook/values/#efficiency). Every future direct report who has the same question will now be able to side-step the interruption and locate the answer themselves, creating two positive loops in the process.
 
 One, new hires recognize that they are [empowered to search for answers]({{< ref "./self-service" >}}), securing important information to keep projects moving even when their manager is on vacation, out of the office, or engaged in other work. This should lead to fewer blockers, less [dysfunction]({{< ref "values#five-dysfunctions" >}}), greater [autonomy]({{< ref "values#give-agency" >}}), improved [mental health]({{< ref "./mental-health" >}}), and greater productivity.
 
@@ -229,11 +229,11 @@ Two, managers carve out more bandwidth in their day to focus, rather than re-ans
 
 It is the job of a manager to ensure a direct report has what they need to be successful on an ongoing basis. By [documenting]({{< ref "./management#scaling-by-documenting" >}}) processes, guides, solutions, how-tos, and policies, a manager is practicing [servant leadership](https://www.shrm.org/resourcesandtools/hr-topics/organizational-and-employee-development/pages/the-art-of-servant-leadership.aspx) in a powerful way.
 
-If your company has yet to implement their own handbook, start now and start small. Don't be overwhelmed with the notion of building a complete handbook from the get-go; simply start with one process, then document the next, and so on. This is the power of [iteration]({{< ref "values#iteration" >}}). GitLab (the company) uses GitLab ([the product](https://about.gitlab.com/stages-devops-lifecycle/)) to build and maintain our public-facing [handbook](/handbook), and options from [Almanac](https://almanac.io/) and [Trainual](https://trainual.com/) are available as well.
+If your company has yet to implement their own handbook, start now and start small. Don't be overwhelmed with the notion of building a complete handbook from the get-go; simply start with one process, then document the next, and so on. This is the power of [iteration](/handbook/values/#iteration). GitLab (the company) uses GitLab ([the product](https://about.gitlab.com/stages-devops-lifecycle/)) to build and maintain our public-facing [handbook](/handbook), and options from [Almanac](https://almanac.io/) and [Trainual](https://trainual.com/) are available as well.
 
 In the event that a direct report asks a question that has yet to be documented, agree to document the eventual solution so that the work put forth in answering benefits a wider swath of people.
 
-By embracing a documentarian mindset as a manager, you show that you are proactively and [transparently]({{< ref "values#transparency" >}}) working to equip your direct report(s) with everything they need to succeed.
+By embracing a documentarian mindset as a manager, you show that you are proactively and [transparently](/handbook/values/#transparency) working to equip your direct report(s) with everything they need to succeed.
 
 This may feel as if it's placing an added burden on a manager. The reality is that short-term pangs derived from time spent on documenting will be greatly overshadowed by long-term efficiencies. If you, as a manager, believe that you "simply don't have time to document," pause and consider the current scenario from a perspective involving more than yourself.
 
@@ -286,7 +286,7 @@ To improve managerial productivity:
 1. Prioritize tasks and have a clear expectation of what everyone is working on with due dates.
 1. Use GitLab Issues and Merge Requests to track work.
 
-With GitLab's commitment to [transparency]({{< ref "values#results" >}}), team members have a great deal of visibility to what is going on throughout the organization. A manager's role is to focus the team on cross-functional activities relevant to their [results]({{< ref "values#results" >}}).
+With GitLab's commitment to [transparency](/handbook/values/#results), team members have a great deal of visibility to what is going on throughout the organization. A manager's role is to focus the team on cross-functional activities relevant to their [results](/handbook/values/#results).
 
 ## How to engage remote employees
 

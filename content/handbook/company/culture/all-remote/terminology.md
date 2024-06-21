@@ -76,7 +76,7 @@ Working remotely also doesn't mean you're physically constrained to home. You're
 
 At the organizational level, "all-remote" does not mean simply offshoring work. Instead, it means you're able to [hire the best talent from all around the world]({{< ref "./hiring" >}}). It's also not a management paradigm. You still have a hierarchical organization, but with a [focus on output instead of input]({{< ref "./management" >}}).
 
-All in all, remote is fundamentally about *freedom* and *individual choice*. At GitLab, we [value your results]({{< ref "values#results" >}}), regardless of where you get your work done.
+All in all, remote is fundamentally about *freedom* and *individual choice*. At GitLab, we [value your results](/handbook/values/#results), regardless of where you get your work done.
 
 ### Careers, not outsourcing or offshoring
 
@@ -89,7 +89,7 @@ It's important to recognize that all-remote is *not* a synonym for outsourcing o
 
 GitLab believes that [in-person interactions]({{< ref "./in-person" >}}) are valuable. We are intentional about gathering the entire team every 9 to 12 months for a shared experience ([GitLab Contribute](https://about.gitlab.com/events/gitlab-contribute)), and we encourage team members to gather in-person for [reimbursed holiday gatherings](https://about.gitlab.com/handbook/spending-company-money#year-end-holiday-party-budget), [GitLab Commit](https://about.gitlab.com/events/commit) events, and other opportunities such as conferences and trade shows.
 
-GitLab also gathers its [e-group]({{< ref "structure#e-group" >}}) for a [quarterly four-day offsite]({{< ref "offsite" >}}). These offsites are planned and highly structured as to create exceptional efficiencies. The agenda, takeaways, and changes are all documented for the rest of the company to see, with broader company discussion in a dedicated `#e-group` Slack channel. This is intentionally designed to be [transparent]({{< ref "values#transparency" >}}).
+GitLab also gathers its [e-group]({{< ref "structure#e-group" >}}) for a [quarterly four-day offsite]({{< ref "offsite" >}}). These offsites are planned and highly structured as to create exceptional efficiencies. The agenda, takeaways, and changes are all documented for the rest of the company to see, with broader company discussion in a dedicated `#e-group` Slack channel. This is intentionally designed to be [transparent](/handbook/values/#transparency).
 
 There is a marked difference between being intentional and selective about in-person interactions, and forcing a team to endure a daily commute.
 
@@ -102,7 +102,7 @@ We feel that terminology is important when detailing the future of work. Brushin
 
 ## Alternative terms that miss the mark
 
-Remote is fundamentally about *freedom* and *individual choice*. At GitLab, we [value your results]({{< ref "values#results" >}}), regardless of where you get your work done.
+Remote is fundamentally about *freedom* and *individual choice*. At GitLab, we [value your results](/handbook/values/#results), regardless of where you get your work done.
 
 {{< youtube "jdN5mj5ieLk?start=2115" >}}
 

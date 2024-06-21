@@ -180,14 +180,9 @@ The Technical Writing team gets assistance with the `gitlab-docs` project from s
 
 | Subject          | Person                                 |
 |:-----------------|:---------------------------------------|
-| Backend reviews  | [Ash McKenzie], [David O'Regan]        |
-| Frontend reviews | [Lukas 'Eipi' Eipert], [David O'Regan] |
-| Support          | [Mike Lockhart]                        |
-
-[Ash McKenzie]: https://gitlab.com/ashmckenzie
-[Lukas 'Eipi' Eipert]: https://gitlab.com/leipert
-[David O'Regan]: https://gitlab.com/oregand
-[Mike Lockhart]: https://gitlab.com/mlockhart
+| Backend reviews  | [Ash McKenzie](https://gitlab.com/ashmckenzie), [David O'Regan](https://gitlab.com/oregand)        |
+| Frontend reviews | [Lukas 'Eipi' Eipert](https://gitlab.com/leipert), [David O'Regan](https://gitlab.com/oregand) |
+| Support          | [Mike Lockhart](https://gitlab.com/mlockhart)                        |
 
 ## Docs site stats
 

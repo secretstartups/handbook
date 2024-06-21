@@ -411,7 +411,7 @@ The CEO Shadows maintain a project called [CEO Shadow Tasks](https://gitlab.com/
 Here are some examples:
 
 1. Make [handbook]({{< ref handbook >}}) updates (use the [ceo-shadow](https://gitlab.com/gitlab-com/content-sites/handbook/-/merge_requests?scope=all&state=all&label_name[]=ceo-shadow) label).
-Post the MR links in the `#ceo` Slack channel and `@`-reference the CEO so the CEO knows they have been completed. It is not required to create issues for these tasks. Go directly to a merge request if it is more [efficient]({{< ref "values#efficiency" >}}).
+Post the MR links in the `#ceo` Slack channel and `@`-reference the CEO so the CEO knows they have been completed. It is not required to create issues for these tasks. Go directly to a merge request if it is more [efficient](/handbook/values/#efficiency).
 1. [Draft a "tweet storm"](#drafting-a-tweet-storm).
 1. Solve urgent issues. For example, help solve a complaint from a customer or coordinate the response to a technical issue.
 1. Go through open merge requests and work towards merging or closing any that have [not been merged](https://gitlab.com/gitlab-com/content-sites/handbook/-/merge_requests?scope=all&state=opened&label_name[]=ceo-shadow).

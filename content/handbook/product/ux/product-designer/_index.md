@@ -332,7 +332,7 @@ For iteration inspiration watch our Product Designers discuss [iteration at GitL
 - Anticipate questions that others might have, and try to answer them in your proposal comments. You don’t have to explain everything, but try to communicate a bit of your rationale every time you propose something. This is particularly important when proposing changes or challenging the status quo, because it reduces the feedback loop and time spent on unnecessary discussions. It also builds the UX Department’s credibility, because we deal with a lot of seemingly subjective issues.
   - Consider using the [questions as headings](https://gitlab.com/gitlab-org/gitlab/-/issues/118442#note_276666054) in framing your proposal
 - Keep the SSOT updated with what’s already agreed upon so that everyone can know where to look. This includes images or links to your design work.
-- If you’re working with design files, follow the instructions in the [GitLab Design project contribution guidelines][gitlab-design-project-contribution-guidelines] and regularly commit them.
+- If you’re working with design files, follow the instructions in the [GitLab Design project contribution guidelines](https://gitlab.com/gitlab-org/gitlab-design/blob/master/CONTRIBUTING.md) and regularly commit them.
 - If you are proposing a solution that will introduce a new UX paradigm, or change an existing one, please consider the following:
     1. Will this pattern be inconsistent with other areas of the application?
     1. Will other areas of the application need to be updated to match?
@@ -456,5 +456,3 @@ Figma has four levels of access, also called Permissions, for Professional teams
 #### File backup
 
 Figma's cloud storage contains all design files under our Organization account and only the Pajamas UI Kit files are published to our [GitLab Product Design](https://www.figma.com/@gitlabdesign) community page and available publicly. It's recommended that you back up any non-confidential design files you'd like to have a record of for future reference or portfolio use by saving a .fig file and storing via your preferred method.
-
-[gitlab-design-project-contribution-guidelines]: https://gitlab.com/gitlab-org/gitlab-design/blob/master/CONTRIBUTING.md

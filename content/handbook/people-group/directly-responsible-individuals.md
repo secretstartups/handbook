@@ -40,10 +40,10 @@ As part of a Harvard Business School case study [interview](https://youtu.be/jdN
 
 ## DRIs and our Values
 
-**At the end of the day, it's about [results]({{< ref "values#results" >}}) and [efficiency]({{< ref "values#efficiency" >}}).**
+**At the end of the day, it's about [results](/handbook/values/#results) and [efficiency](/handbook/values/#efficiency).**
 DRIs work conceptually because they leave no room for ambiguity about who has the final say on all questions that arise within a project or team.
 
-**Assigning one, ultimately responsible person to a project might seem to impair our ability to [collaborate]({{< ref "values#collaboration" >}}) effectively at first glance, but that's misleading.**
+**Assigning one, ultimately responsible person to a project might seem to impair our ability to [collaborate](/handbook/values/#collaboration) effectively at first glance, but that's misleading.**
 The DRI should be wholly invested in their assignment and welcome collaboration in order to succeed.
 While they're empowered to make all final decisions, they should know how and when to trust in the experience and judgment of their teams and peers.
 

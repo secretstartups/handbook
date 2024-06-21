@@ -11,7 +11,7 @@ Being an ally is a verb, this means that you proactively and purposefully take a
 
 ## How to be an ally
 
-It is not required to be an ally to work at GitLab. At GitLab it is required to [be inclusive]({{< ref "values#diversity-inclusion" >}}).
+It is not required to be an ally to work at GitLab. At GitLab it is required to [be inclusive](/handbook/values/#diversity-inclusion).
 
 Being an ally goes a step beyond being inclusive to taking action to support marginalized groups. The first step in being an ally is self-educating.
 

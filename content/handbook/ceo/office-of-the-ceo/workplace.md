@@ -319,7 +319,7 @@ The [Work-from-Home Field Guide](/handbook/company/culture/all-remote/work-from-
 
 ### Remote Work playlist on GitLab Unfiltered
 
-GitLab is a very [transparent]({{< ref "values#transparency" >}}) company. As such, our AMAs, webinars, and other conversations with team members and other companies are uploaded to a dedicated [Remote Work playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq7QUX-Ux5fOunQotqJbECc) on the GitLab Unfiltered YouTube channel.
+GitLab is a very [transparent](/handbook/values/#transparency) company. As such, our AMAs, webinars, and other conversations with team members and other companies are uploaded to a dedicated [Remote Work playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq7QUX-Ux5fOunQotqJbECc) on the GitLab Unfiltered YouTube channel.
 
 ### Universal Remote webcast playlist on GitLab YouTube channel
 
@@ -410,7 +410,7 @@ The team's primary home for publishing informational guides and content is the [
 
 ### Video
 
-GitLab is a very [transparent]({{< ref "values#transparency" >}}) company. As such, our remote-centric AMAs, webinars, and other conversations with team members and other companies are uploaded to a dedicated [Remote Work playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq7QUX-Ux5fOunQotqJbECc) on the GitLab Unfiltered YouTube channel.
+GitLab is a very [transparent](/handbook/values/#transparency) company. As such, our remote-centric AMAs, webinars, and other conversations with team members and other companies are uploaded to a dedicated [Remote Work playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq7QUX-Ux5fOunQotqJbECc) on the GitLab Unfiltered YouTube channel.
 
 ### Events, panels, keynotes and webinars
 
