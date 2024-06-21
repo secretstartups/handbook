@@ -130,9 +130,7 @@ For those with regular commitments, look for shorter weeks or timezone variation
 
 | Start date | End date | See one | Teach one | Schedule Notes |
 | ---------- | -------- | ------- | --------- | -------------- |
-| 2024-06-10 | 2024-06-14 | [Sacha Guyon](https://gitlab.com/sguyon) - Sr. Product Manager (Observability) | [Christopher Wang](https://gitlab.com/cs.wang) - Sr. Manager - Enablement and Strategy (Sales Development) | REMOTE - ET |
-| 2024-06-17 | 2024-06-21 | [Stacy Cline](https://gitlab.com/slcline) - Sr Director, ESG | OPEN | REMOTE - ET |
-| 2024-06-24 | 2024-06-27 | [Sherrod Patching](https://gitlab.com/spatching) - VP, Customer Success | [Emilio Salvador](@esalvadorp) - VP Developer Relations & Community | REMOTE - ET |
+| 2024-06-24 | 2024-06-27 | NO SHADOW| NO SHADOW | E-GROUP OFFSITE |
 | 2024-07-01 | 2024-07-05 | NO SHADOW | NO SHADOW | CEO OOO |
 | 2024-07-08 | 2024-07-12 | NO SHADOW | NO SHADOW | travel in EMEA |
 | 2024-07-15 | 2024-07-19 |  [Kristine Setschin](https://gitlab.com/KSetschin) - Sr. Manager Regional Marketing, EMEA | [David Tuan](https://gitlab.com/dtuan) - Director, Strategy and Operations | REMOTE - ET |
@@ -835,3 +833,5 @@ CEO Shadow Program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2024-05-13 | 2024-05-31 | [Djordje Micovic](https://gitlab.com/dmicovic) | Staff Data Analyst, Marketing Analytics | |
 | 2024-05-27 | 2024-06-07 | [Rigerta Demiri](https://gitlab.com/Rigerta) | Senior Data Engineer, Data | |
 | 2024-06-03 | 2024-06-14 | [Christopher Wang](https://gitlab.com/cs.wang) | Sr. Manager Strategy and Enablement (Sales Development) | |
+| 2024-06-10 | 2024-06-14 | [Sacha Guyon](https://gitlab.com/sguyon) | Sr. Product Manager (Observability) | |
+| 2024-06-17 | 2024-06-21 | [Stacy Cline](https://gitlab.com/slcline) | Sr Director, ESG | |
