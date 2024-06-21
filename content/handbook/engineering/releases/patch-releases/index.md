@@ -4,19 +4,19 @@ title: "Patch Releases"
 
 ## Patch release overview
 
-Patch releases are performed according to the [GitLab Maintenance Policy]:
+Patch releases are performed according to the [GitLab Maintenance Policy](https://docs.gitlab.com/ee/policy/maintenance.html):
 
 * Backport bug fixes to the current stable released version of GitLab.
 * Backport security fixes to the current, and previous two GitLab Versions.
 
-Patches that are outside of our maintenance policy must be requested and agreed upon by the release managers and the requester (see [backporting to versions outside the maintenance policy] for details).
+Patches that are outside of our maintenance policy must be requested and agreed upon by the release managers and the requester (see [backporting to versions outside the maintenance policy](https://docs.gitlab.com/ee/policy/maintenance.html#backporting-to-older-releases) for details).
 
 Patch releases are prepared in parallel with regular GitLab.com deployments so that continuous deployment is not blocked. In this way we can apply security fixes to GitLab.com instances before the public release.
 
 If you're a GitLab engineer looking to:
 
-* Include a security fix in a patch release, please follow the steps on the [security runbook for GitLab engineers].
-* Include a bug fix in a patch release, please follow the steps on the [patch release runbook for GitLab engineers].
+* Include a security fix in a patch release, please follow the steps on the [security runbook for GitLab engineers](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/process.md#guides-by-role).
+* Include a bug fix in a patch release, please follow the steps on the [patch release runbook for GitLab engineers](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/patch/engineers.md).
 
 ## Patch release process
 
@@ -32,7 +32,7 @@ An overview of both types of patch release and their touchpoints is included bel
 
 ### Planned patch release process
 
-Planned patch releases are driven by the [bug SLO] and [Security Remediation SLAs], they are scheduled twice a month on
+Planned patch releases are driven by the [bug SLO](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity-slos) and [Security Remediation SLAs](/handbook/security/product-security/vulnerability-management/#remediation-slas), they are scheduled twice a month on
 the second and fourth Wednesdays, around the monthly release week. These are best-effort dates and they might
 be subject to change.
 
@@ -40,7 +40,7 @@ The patch release includes all bug and security fixes ready at the time of the p
 worked on in the canonical GitLab repositories, while security fixes are worked on in the mirrored GitLab security repositories
 to avoid revealing vulnerabilities before the release.
 
-Security vulnerabilities in GitLab and its dependencies are to be addressed following the [Security Remediation SLAs].
+Security vulnerabilities in GitLab and its dependencies are to be addressed following the [Security Remediation SLAs](/handbook/security/product-security/vulnerability-management/#remediation-slas).
 
 The end-to-end process consists of the following stages:
 
@@ -56,7 +56,7 @@ to the current and previous two GitLab versions:
   * The merge request executes end-to-end tests via package-and-test pipeline to guarantee the bug fix meets the quality standards.
   * If the package-and-test pipeline fails, a review from a Software Engineer in Test is required.
   * The merge request is merged by a GitLab maintainer in the stable branch associated
-* **Step 1b: Vulnerability fix prepared** - Engineers fix vulnerabilities in the relevant [Security repository]. A fix is considered complete only when it has a [security implementation issue] with the following:
+* **Step 1b: Vulnerability fix prepared** - Engineers fix vulnerabilities in the relevant [Security repository]. A fix is considered complete only when it has a [security implementation issue](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/process.md#terminology) with the following:
   * All checkboxes checked to show all steps have been completed.
   * An AppSec and Maintainer approved MR targeting the default branch.
   * A backport MR for each intended version. In most cases this will mean 4 MRs to cover each supported version. Each MR must have passing pipelines, required approvals and be assigned to the release bot for processing.
@@ -81,10 +81,10 @@ A patch release has the following phases:
 ### Unplanned critical patch release process
 
 Unplanned critical patch releases are ad-hoc processes used to immediately patch and
-mitigate a high-severity vulnerability in order to meet the [Security Remediation SLAs].
+mitigate a high-severity vulnerability in order to meet the [Security Remediation SLAs](/handbook/security/product-security/vulnerability-management/#remediation-slas).
 
-Following the [GitLab Maintenance Policy], the vulnerability will be
-fixed in all supported versions following the [Security Remediation SLAs].
+Following the [GitLab Maintenance Policy](https://docs.gitlab.com/ee/policy/maintenance.html), the vulnerability will be
+fixed in all supported versions following the [Security Remediation SLAs](/handbook/security/product-security/vulnerability-management/#remediation-slas).
 
 The AppSec team is responsible for assessing the vulnerability and working with development to decide on the best approach to resolve it. If an unplanned critical
 patch release is needed, the AppSec engineer will work with Release Managers to agree on a timeline for the release.
@@ -116,17 +116,17 @@ Patch release information, including targeted versions, scheduled date and statu
 
 ### A security issue was assigned to me, where should I start?
 
-See the [Security process as Engineer] documentation for more information.
+See the [Security process as Engineer](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/engineer.md) documentation for more information.
 
 ### Why wasn't my security fix included in the Patch Release?
 
-Security issues created on [GitLab Security] need to be associated with the Security Tracking issue for them to be included on the Security
-Release. Make sure to use the [security issue template] and follow the listed steps.
+Security issues created on [GitLab Security](https://gitlab.com/gitlab-org/security/) need to be associated with the Security Tracking issue for them to be included on the Security
+Release. Make sure to use the [security issue template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Security%20developer%20workflow.md) and follow the listed steps.
 
 ### How many backports do I need when working on a security issue?
 
 Besides the merge request targeting `master`, three backports will be needed targeting the last two monthly releases and the current release.
-For more information, see [security backports].
+For more information, see [security backports](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/engineer.md#backports).
 
 ### How can I revert a security merge request?
 
@@ -143,18 +143,3 @@ If a security vulnerability introduced a non-vulnerability bug, in most cases, t
 If a security vulnerability introduced a high severity non-vulnerability bug, engage with AppSec and release managers to coordinate next steps.
 
 For more information, see [How to Mitigate Bugs Introduced by Security Merge Request] runbook.
-
-[backporting to versions outside the maintenance policy]: https://docs.gitlab.com/ee/policy/maintenance.html#backporting-to-older-releases
-[bug SLO]: https://handbook.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity-slos
-[GitLab Security]: https://gitlab.com/gitlab-org/security/
-[GitLab Maintenance Policy]: https://docs.gitlab.com/ee/policy/maintenance.html
-[How to Mitigate Bugs Introduced by Security Merge Request]: https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/bugs_introduced_by_security_merge_request.md
-[patch release runbook for GitLab engineers]: https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/patch/engineers.md
-[release dashboard]: https://dashboards.gitlab.net/d/delivery-release_info/delivery3a-release-information?orgId=1
-[security backports]: https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/engineer.md#backports
-[security issue template]: https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Security%20developer%20workflow.md
-[security implementation issue]: https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/process.md#terminology
-[Security process as Engineer]: https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/engineer.md
-[Security Remediation SLAs]: https://handbook.gitlab.com/handbook/security/product-security/vulnerability-management/#remediation-slas
-[security runbook for GitLab engineers]: https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/process.md#guides-by-role
-[Security repository]: https://gitlab.com/gitlab-org/security/

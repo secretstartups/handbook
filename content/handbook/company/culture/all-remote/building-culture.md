@@ -41,7 +41,7 @@ It starts by being intentional about [informal communication]({{< ref "./informa
 
 *In the [video](https://youtu.be/IU2nTj6NSlQ) above, GitLab's Head of Remote discusses the topic of scaling culture during an interview with [Stuart Miniman](https://twitter.com/stu/), host of [theCUBE](https://www.thecube.net/) and GM of Content at [SiliconANGLE Media](https://siliconangle.com/).
 
-It's challenging to build and maintain a healthy remote culture. Despite its [advantages]({{< ref "./remote-benefits" >}}), all-remote work isn't for everyone. It can have disadvantages as well. In the spirit of [transparency]({{< ref "values#transparency" >}}), here are some of the [challenges and solutions to maintaining remote work culture](./drawbacks/).
+It's challenging to build and maintain a healthy remote culture. Despite its [advantages]({{< ref "./remote-benefits" >}}), all-remote work isn't for everyone. It can have disadvantages as well. In the spirit of [transparency](/handbook/values/#transparency), here are some of the [challenges and solutions to maintaining remote work culture](./drawbacks/).
 
 ## Culture looks different in a pandemic
 
@@ -67,7 +67,7 @@ As leaders and team members were grappling with going remote, the pandemic force
 
 ## Why inclusion matters more than ever
 
-GitLab believes that combining many perspectives creates a more innovative environment to work in, with more satisfied teammates, leading to a better product and increased profitability. [Diversity, Inclusion & Belonging]({{< ref "values#diversity-inclusion" >}}) is one of our company values.
+GitLab believes that combining many perspectives creates a more innovative environment to work in, with more satisfied teammates, leading to a better product and increased profitability. [Diversity, Inclusion & Belonging](/handbook/values/#diversity-inclusion) is one of our company values.
 
 Inclusion allows us to recognize, respect, and value differences in those around us. Being inclusive requires skills such as empathy, openness, and listening. Inclusion also means we are keenly aware of both [positive and negative biases]({{< ref "unconscious-bias" >}}) and how those biases impact our daily interactions, work, and employee retention.
 
@@ -136,7 +136,7 @@ Remote [interviewers]({{< ref "./interviews" >}}) should link a company's values
 ![GitLab values illustration](/images/all-remote/gitlab-values-tanukis.jpg)
 {style="max-width: 50%;"}
 
-There should be no unwritten rules in remote culture. Intentional documentation is essential to avoiding [dysfunction]({{< ref "values#five-dysfunctions" >}}) within a remote company, and this also applies to culture. At GitLab, this begins with our company values: [Collaboration]({{< ref "values#collaboration" >}}), [Results]({{< ref "values#results" >}}), [Efficiency]({{< ref "values#efficiency" >}}), [Diversity, Inclusion & Belonging]({{< ref "values#diversity-inclusion" >}}), [Iteration]({{< ref "values#iteration" >}}), and [Transparency]({{< ref "values#transparency" >}}).
+There should be no unwritten rules in remote culture. Intentional documentation is essential to avoiding [dysfunction]({{< ref "values#five-dysfunctions" >}}) within a remote company, and this also applies to culture. At GitLab, this begins with our company values: [Collaboration](/handbook/values/#collaboration), [Results](/handbook/values/#results), [Efficiency](/handbook/values/#efficiency), [Diversity, Inclusion & Belonging](/handbook/values/#diversity-inclusion), [Iteration](/handbook/values/#iteration), and [Transparency](/handbook/values/#transparency).
 
 **Culture is best defined not by how a company or team acts when all is well; rather, by the behaviors shown during times of crisis or duress**.
 
@@ -186,7 +186,7 @@ A healthy remote work environment clearly defines its culture and expectations. 
 
 Be open about as many things as possible by making information public. This transparency helps reduce confusion and makes collaboration easier. Use public issue trackers, projects, and repositories when possible.
 
-[Transparency]({{< ref "values#transparency" >}}) creates awareness for GitLab. It does that by allowing us to recruit people that care about our values, gets us more and faster feedback from people outside the company, and makes it easier to collaborate with them. It also helps us share great software, documentation, examples, lessons, and processes in the spirit of open source, which we believe creates more value than it captures.
+[Transparency](/handbook/values/#transparency) creates awareness for GitLab. It does that by allowing us to recruit people that care about our values, gets us more and faster feedback from people outside the company, and makes it easier to collaborate with them. It also helps us share great software, documentation, examples, lessons, and processes in the spirit of open source, which we believe creates more value than it captures.
 
 ### Continually promote and enhance work-life balance and flexibility
 
@@ -216,7 +216,7 @@ This creates an environment where your [mental health]({{< ref "./mental-health"
 
 ## The importance of gratitude and transparency
 
-Persistent negativity can erode culture. While [feedback]({{< ref "guidance-on-feedback" >}}) is a gift, there's a fine line between reacting with hope and determination when facing a challenge and allowing a sense of apathy or dread to permeate a company. Leaders should be cognizant of this and act swiftly if there's a noted drop in outward gratitude or [transparency]({{< ref "values#transparency" >}}) in communications.
+Persistent negativity can erode culture. While [feedback]({{< ref "guidance-on-feedback" >}}) is a gift, there's a fine line between reacting with hope and determination when facing a challenge and allowing a sense of apathy or dread to permeate a company. Leaders should be cognizant of this and act swiftly if there's a noted drop in outward gratitude or [transparency](/handbook/values/#transparency) in communications.
 
 {{< youtube "cy6WGuzArgY?start=232" >}}
 

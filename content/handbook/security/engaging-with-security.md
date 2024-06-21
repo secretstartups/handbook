@@ -54,10 +54,10 @@ The GitLab issue should then be closed and - after 30 days - sanitized and made 
 
 ### Process for disclosing security issues
 
-At GitLab we value [being as transparent as possible]({{< ref "values#transparency" >}}), even [when it costs]({{< ref "values#transparency-is-most-valuable-if-you-continue-to-do-it-when-there-are-costs" >}}). Part of this is making confidential GitLab issues about security vulnerabilities public 30 days after a patch. The process is as follows:
+At GitLab we value [being as transparent as possible](/handbook/values/#transparency), even [when it costs]({{< ref "values#transparency-is-most-valuable-if-you-continue-to-do-it-when-there-are-costs" >}}). Part of this is making confidential GitLab issues about security vulnerabilities public 30 days after a patch. The process is as follows:
 
 1. Check for a `~keep confidential` tag. If one exists
-   1. Decide whether this tag is still appropriate and in line with our [Transparency value]({{< ref "values#transparency" >}})
+   1. Decide whether this tag is still appropriate and in line with our [Transparency value](/handbook/values/#transparency)
    1. Start a discussion with issue participants, if needed
 1. If an issue does not have `~keep confidential`, remove sensitive information from the description and comments, e.g.
    1. Proof-of-concept videos & screenshots showing researcher account information
@@ -218,7 +218,7 @@ The issue description should have a `How to reproduce` section to ensure clear r
 
 Issues labelled with the `security` but without `~type::bug + ~bug::vulnerability` labels are **not** considered vulnerabilities, but rather security enhancements, defense-in-depth mechanisms, or other security-adjacent bugs. For example, issues labeled `~"type::feature"` or `~"type::maintenance"`. This means the security team does not set the `~severity` and `~priority` labels or follow the vulnerability triage process as these issues will be triaged by [product](/handbook/product/) or other appropriate team owning the component.
 
-Implementation of security feature issues should be done publicly in line with our [Transparency]({{< ref "values#transparency" >}}) value, i.e. not following the [security developer workflow](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/engineer.md).
+Implementation of security feature issues should be done publicly in line with our [Transparency](/handbook/values/#transparency) value, i.e. not following the [security developer workflow](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/engineer.md).
 
 On the contrary, note that issues with the `security`, `~type::bug`, and `severity::4` labels are considered `Low` severity vulnerabilities and will be handled according to the standard vulnerability triage process.
 

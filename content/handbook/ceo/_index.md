@@ -64,7 +64,7 @@ Sid is easy to talk to on any subject. He is good at drawing people out and chal
 1. Sid is worth managing up to. The learning curve he’s on is as steep as it gets, and he does learn/change/adapt readily, so you will see a return from investment.
 1. Sid is GitLab's product visionary.
 1. He’s the anchor of all-remote.
-1. Sid is the source of our [transparency value]({{< ref "values#transparency" >}}).
+1. Sid is the source of our [transparency value](/handbook/values/#transparency).
 1. Sid is also the driving force for our iteration value. For example, he may hold [Iteration Office Hours](#iteration-office-hours).
 1. Sid really values 1:1 preparation.
 1. Sid believes in “strong opinions, weakly held.” He doesn’t always seem like it, but he will change his mind quickly if you present him with compelling new information and a data driven perspective.
@@ -82,7 +82,7 @@ This section was started by GitLab's Head of Remote Darren M. to coach and provi
    1. Make it personal. Ask Sid “*Why do you feel this way?*” or "*What did you learn from this?*" or “*What happens in your day that relates to this?*” Sid is able to craft stories which involve personal anecdotes that create deeper understanding and learning for the audience.
 1. ***Be bold in your questions***. Sid enjoys the challenge of a hard or (thoughtfully) audacious question. Sid fields a lot of questions on a daily basis, many of which can be answered by [referencing the GitLab handbook](/handbook/company/culture/all-remote/self-service/#answer-with-a-link). By referencing a current state in the handbook and digging for more context and nuance, this provides opportunity for Sid to answer and provide value to more than just the interviewer — the new context should be added to the handbook after the interview to benefit all.
 1. ***Apply to the [CEO Shadow](/handbook/ceo/shadow/) program***. There is no equivalent to watching Sid meet with and interview a global array of people for two weeks. The program is an efficient way to gain a deeper understanding of Sid's style and personality. Moreover, the program enables GitLab team members to realize that Sid is not only a CEO, but also an individual who enjoys working with others who will challenge him and accelerate his personal growth.
-1. ***Don’t be ashamed with ending early***. It is natural to try to fill an allotted time block with a CEO. Remember GitLab's value of [Efficiency]({{< ref "values#efficiency" >}}) and be bold if you're able to progress through an agenda quickly. A recommend close-out statement is: “*We were very efficient driving through the agenda. Any final points before we close?*”
+1. ***Don’t be ashamed with ending early***. It is natural to try to fill an allotted time block with a CEO. Remember GitLab's value of [Efficiency](/handbook/values/#efficiency) and be bold if you're able to progress through an agenda quickly. A recommend close-out statement is: “*We were very efficient driving through the agenda. Any final points before we close?*”
 1. ***Listen to Sid's [interview](https://changelog.com/founderstalk/70) on the Changelog podcast***. There are hundreds of hours of Sid speaking on the internet, but this interview showcases a talented interviewer (Adam) extracting nuance and detail from Sid in a comfortable and professional way. The interviewer is thoughtful yet audacious in his questions, while also bold and considerate. He challenges Sid and commands mutual respect.
 
 ## Communication
@@ -117,7 +117,7 @@ Sometimes I will ask to be kept apprised of an action item or follow up. One com
 
 I get a lot of @ mentions in Slack, often when I'm being discussed. Please only @ mention me when you need me to see something or approve something, when you just want to refer to me you can just say Sid. This saves time and enables increased efficiency.
 
-If there is a suggested message draft that you’d like me to post in Slack, you should send two messages to me. The first message should include the context behind the ask, the suggested timing for posting, and a link to the channel that the draft will be posted in. Under this message reply in thread with your second message. This should only contain the draft message. This allows me to easily copy and paste on mobile.  
+If there is a suggested message draft that you’d like me to post in Slack, you should send two messages to me. The first message should include the context behind the ask, the suggested timing for posting, and a link to the channel that the draft will be posted in. Under this message reply in thread with your second message. This should only contain the draft message. This allows me to easily copy and paste on mobile.
 
 ### No Sacred Cows
 
@@ -400,7 +400,7 @@ An applicant asked how we manage to do this and these are the factors that come 
 1. Everyone in the business wants to do the right thing for the existing users and customers. The problem is that people already using you prefer stability in scope over change in scope. You need to optimize for all people, both the current users and people not using GitLab yet because it is missing features.
 1. Separate execution from goal-setting. At GitLab, product decides what to ship and engineering is responsible for shipping it. Both report in to the CEO. If you have a head of product that also runs engineering, they are more likely to slow down because it will make engineers' tasks easier.
 1. Separate decision making from giving input. [As detailed in our handbook](/handbook/leadership/#making-decisions) we leave the decision to the person doing the work or their manager, this prevents the need for exponentially more coordination as we grow.
-1. We [iterate]({{< ref "values#iteration" >}}) so that we keep learning quickly and reduce the risk of decisions.
+1. We [iterate](/handbook/values/#iteration) so that we keep learning quickly and reduce the risk of decisions.
 1. We have [functional teams](/handbook/leadership/#no-matrix-organization) that make us efficient but as mentioned in that text we promote organic cross-functional collaboration by giving people stable natural counterparts.
 
 ## Evolution of the handbook

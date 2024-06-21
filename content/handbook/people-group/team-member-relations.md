@@ -73,10 +73,10 @@ GitLab believes in preserving the dignity of each team member and expects everyo
 
 We have built this philosophy to focus on these 4 pillars in line with our values:
 
-- [Collaboration]({{< ref "values#collaboration" >}})
-- [Diversity, Inclusion & Belonging]({{< ref "values#diversity-inclusion" >}})
-- [Results]({{< ref "values#results" >}})
-- [Transparency]({{< ref "values#transparency" >}})
+- [Collaboration](/handbook/values/#collaboration)
+- [Diversity, Inclusion & Belonging](/handbook/values/#diversity-inclusion)
+- [Results](/handbook/values/#results)
+- [Transparency](/handbook/values/#transparency)
 
 ## Commitments
 

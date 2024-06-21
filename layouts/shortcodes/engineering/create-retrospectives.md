@@ -16,14 +16,14 @@
 {{- end }}
 
 <!-- markdownlint-disable MD052 -->
-The Create: {{ $groupLabel }} group conducts [monthly retrospectives in GitLab issues][retros]. These include
+The Create: {{ $groupLabel }} group conducts [monthly retrospectives in GitLab issues](https://gitlab.com/gl-retrospectives/create-stage/{{ $groupSlug }}/issues?scope=all&utf8=%E2%9C%93&state=all&label_name[]=retrospective). These include
 <!-- markdownlint-enable MD052 -->
 the backend team, plus any people from frontend, UX, and PM who have worked with
 that team during the release being retrospected.
 
 These are confidential during the initial discussion, then made public in time
-for each month's [GitLab retrospective]. For more information, see [team
-retrospectives].
+for each month's [GitLab retrospective](/handbook/engineering/workflow/#retrospective).
+For more information, see [team retrospectives](/handbook/engineering/management/group-retrospectives/).
 
 {{- if .Get "use-coordinator" }}
 
@@ -37,7 +37,3 @@ For each retrospective we assign a retrospective coordinator whose responsibilit
 * Ensure a retrospective coordinator is assigned for the next retrospective
 
 {{- end}}
-
-[retros]: https://gitlab.com/gl-retrospectives/create-stage/{{ $groupSlug }}/issues?scope=all&utf8=%E2%9C%93&state=all&label_name[]=retrospective
-[GitLab retrospective]: /handbook/engineering/workflow/#retrospective
-[team retrospectives]: /handbook/engineering/management/group-retrospectives/

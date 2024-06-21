@@ -184,7 +184,7 @@ When taking over management of an existing team member, consider the following g
 
 ### Manager Transition Meeting
 
-In an effort to be [transparent]({{< ref "values#transparency" >}}), managers should consider ensuring that all of the information provided to the future manager by the current manager is done in full view of the team member. This might not work for all team members. You should ask whether the team member will feel comfortable having this conversation openly, and respect their boundaries. When choosing to remain transparent, schedule a transition meeting and follow the [Manager Transition Meeting Agenda](#manager-transition-meeting-agenda-example).
+In an effort to be [transparent](/handbook/values/#transparency), managers should consider ensuring that all of the information provided to the future manager by the current manager is done in full view of the team member. This might not work for all team members. You should ask whether the team member will feel comfortable having this conversation openly, and respect their boundaries. When choosing to remain transparent, schedule a transition meeting and follow the [Manager Transition Meeting Agenda](#manager-transition-meeting-agenda-example).
 
 ### 1-1-1 Transition Schedule
 

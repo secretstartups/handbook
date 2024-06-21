@@ -239,7 +239,7 @@ Current experiments shows the total number of experiments in the codebase (pendi
 
 #### Growth Section Metrics
 
-Complete list of [Growth Section engineering metrics].
+Complete list of [Growth Section engineering metrics](/handbook/engineering/metrics/growth/).
 
 {{< tableau height="600px" toolbar="hidden" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/TopEngineeringMetrics/TopEngineeringMetricsDashboard" >}}
   {{< tableau/filters "SECTION_LABEL"="growth" >}}
@@ -261,16 +261,9 @@ On occasion we hold virtual team days or meetings to take a break and participat
 
 ## Common Links
 
-- [Growth stage]
-- [Growth workflow board]
+- [Growth stage](/handbook/engineering/development/growth/)
+- [Growth workflow board](https://gitlab.com/groups/gitlab-org/-/boards/4152639)
 - `#s_growth` in [Slack](https://gitlab.slack.com/archives/s_growth) (GitLab internal)
-- [Growth opportunities]
-- [Growth meetings and agendas] (GitLab internal)
-- [GitLab values]
-
-[GitLab values]: /handbook/values/
-[Growth stage]: /handbook/engineering/development/growth/
-[Growth workflow board]: https://gitlab.com/groups/gitlab-org/-/boards/4152639
-[Growth opportunities]: https://gitlab.com/gitlab-org/growth/product/-/issues
-[Growth meetings and agendas]: https://drive.google.com/drive/search?q=type:document%20title:%22Growth%20Weekly%22
-[Growth section engineering metrics]: /handbook/engineering/metrics/growth/
+- [Growth opportunities](https://gitlab.com/gitlab-org/growth/product/-/issues)
+- [Growth meetings and agendas](https://drive.google.com/drive/search?q=type:document%20title:%22Growth%20Weekly%22) (GitLab internal)
+- [GitLab values](/handbook/values/)

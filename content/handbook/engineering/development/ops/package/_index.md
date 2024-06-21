@@ -10,7 +10,7 @@ Our mission is to create a secure environment where both source code and depende
 allowing you to publish, consume, and discover packages of a large variety of languages and platforms
 all in one place.
 
-For more details about the vision for this product area, see the [product vision] page.
+For more details about the vision for this product area, see the [product vision](https://about.gitlab.com/direction/package/) page.
 
 ## Who We Are
 
@@ -90,17 +90,17 @@ We expect to track the journey of users through the following funnel.
 ```mermaid
 classDiagram
   Acquisition --|> Activation
-  Acquisition : Are users aware of the product or feature set?    
-  Acquisition: Measurement (Total # of projects with at least one package in the registry) 
+  Acquisition : Are users aware of the product or feature set?
+  Acquisition: Measurement (Total # of projects with at least one package in the registry)
   Activation --|> Retention
   Activation : Are users applying the feature?
-  Activation: Measurement (# of users publishing and installing packages per day)         
+  Activation: Measurement (# of users publishing and installing packages per day)
   Retention --|> Revenue
   Retention : Are users applying the feature over time?
-  Retention: Measurement (# of projects that have published/installed a package via CI/CD per day) 
+  Retention: Measurement (# of projects that have published/installed a package via CI/CD per day)
   Revenue --|> Referral
   Revenue : Are users paying for the features?
-  Revenue: Measurement (# users pulling packages through a Dependency Proxy) 
+  Revenue: Measurement (# users pulling packages through a Dependency Proxy)
   Referral --|> Acquistion
   Referral : Are users encouraging others to use the feature?
   Referral: Measurement (# projects that publish more than 10 packages per week.)
@@ -616,12 +616,12 @@ There are times during the development lifecycle that changes need to be communi
 
 ## 🔗 Other Useful Links
 
-* [Package backend board]
-* [#s_package] in Slack
-* [Recorded meetings][youtube] - This is where we post all of our team meetings and discussions.
+* [Package backend board](https://gitlab.com/groups/gitlab-org/-/boards/892745)
+* [#s_package](https://gitlab.slack.com/archives/s_package) in Slack
+* [Recorded meetings](https://www.youtube.com/playlist?list=PL05JrBw4t0KoPiSySNHTfvxC20i0LppMf) - This is where we post all of our team meetings and discussions.
 * [Recorded user research (internal only)](https://www.youtube.com/watch?v=2A-VGtP-RJg&list=PL05JrBw4t0KoPiSySNHTfvxC20i0LppMf&index=1)
-* [Monthly Retrospectives][retros]
-* [Timezones][timezones]
+* [Monthly Retrospectives](https://gitlab.com/gl-retrospectives/package/issues?scope=all&utf8=%E2%9C%93&state=all&label_name[]=retrospective)
+* [Timezones](https://timezone.io/team/gitlab-package-team)
 * [Package Registry processes](/handbook/engineering/development/ops/package/product/package-registry/)
 * [Package use case](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/package/)
 * [Package risk map](/handbook/engineering/development/ops/package/risk-map/)
@@ -693,10 +693,3 @@ There are times during the development lifecycle that changes need to be communi
 * [Group repositories](https://youtu.be/js4ibAL7kyk)
 * [Publish to a private repository](https://youtu.be/NNMQ8d-68es)
 * [Closing remarks](https://youtu.be/W8X1eain51c)
-
-[product vision]: /direction/package/
-[Package backend board]: https://gitlab.com/groups/gitlab-org/-/boards/892745
-[#s_package]: https://gitlab.slack.com/archives/s_package
-[youtube]: https://www.youtube.com/playlist?list=PL05JrBw4t0KoPiSySNHTfvxC20i0LppMf
-[retros]: https://gitlab.com/gl-retrospectives/package/issues?scope=all&utf8=%E2%9C%93&state=all&label_name[]=retrospective
-[timezones]: https://timezone.io/team/gitlab-package-team

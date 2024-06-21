@@ -7,7 +7,7 @@ controlled_document: true
 
 ## Purpose
 
-GitLab takes the security of our clients’ information extremely seriously, regardless of whether it’s on GitLab.com or in a self-managed instance. In keeping with GitLab’s [value of transparency]({{< ref "values#transparency" >}}) we believe in communicating about security incidents clearly and promptly.
+GitLab takes the security of our clients’ information extremely seriously, regardless of whether it’s on GitLab.com or in a self-managed instance. In keeping with GitLab’s [value of transparency](/handbook/values/#transparency) we believe in communicating about security incidents clearly and promptly.
 
 ## Scope
 

@@ -184,7 +184,7 @@ All-remote enables greater harmony by being more [forgiving of the unknown](http
 
 It also allows you to weave the common chores of life into one's working day. Tasks such as laundry, collecting mail, exercising, cooking/preparing meals, finding private space for sensitive phone calls (e.g. calls to a financial institution), and even napping can be accomplished during short breaks in the day for someone who is able to work at home.
 
-This creates tremendous [efficiency]({{< ref "values#efficiency" >}}), and can easily add one to two hours of leisure time back to a worker's day. If forced to endure a commute and be away from home in a colocated working arrangement, all of the aforesaid tasks would need to be handled after office hours, creating unhealthy competition between work and life.
+This creates tremendous [efficiency](/handbook/values/#efficiency), and can easily add one to two hours of leisure time back to a worker's day. If forced to endure a commute and be away from home in a colocated working arrangement, all of the aforesaid tasks would need to be handled after office hours, creating unhealthy competition between work and life.
 
 ### Adjustable working hours
 

@@ -36,7 +36,7 @@ While working one additional hour to move a given project forward is likely not 
 
 This becomes toxic when managers fail to recognize that a given sprint should not reset the baseline of what is achievable on an ongoing, sustained basis. It becomes disastrous when team members do not feel safe bringing this up to their managers in a [1:1 setting]({{< ref "1-1" >}}).
 
-Particularly in a company where [results]({{< ref "values#results" >}}) are valued above all, managers should be careful to not assume that results garnered in a given period of overwork are the new norm. This places team members in an unfair scenario where they feel pressured to perpetually overwork in order to meet expectations. More broadly, as other team members witness this, they will be less likely to go above and beyond in special cases for fear of trapping themselves in a similar cycle of overworking just to meet ever-increasing (and unsustainable) expectations.
+Particularly in a company where [results](/handbook/values/#results) are valued above all, managers should be careful to not assume that results garnered in a given period of overwork are the new norm. This places team members in an unfair scenario where they feel pressured to perpetually overwork in order to meet expectations. More broadly, as other team members witness this, they will be less likely to go above and beyond in special cases for fear of trapping themselves in a similar cycle of overworking just to meet ever-increasing (and unsustainable) expectations.
 
 ### Rest and time off are productive
 
@@ -177,9 +177,9 @@ You can learn more at GitLab's [remote team solutions page]({{< ref "./gitlab-fo
 ![GitLab values illustration](/images/all-remote/gitlab-values-tanukis.jpg)
 {style="max-width: 50%;"}
 
-[Transparency]({{< ref "values#transparency" >}}) is a core value at GitLab, and should be a value at any organization employing remote team members. Leaders should assume that some team members will feel uncomfortable surfacing issues involving isolation, burnout, and anxiety at work. This can stem from prior experiences, where bringing such issues to light could lead to negative consequences.
+[Transparency](/handbook/values/#transparency) is a core value at GitLab, and should be a value at any organization employing remote team members. Leaders should assume that some team members will feel uncomfortable surfacing issues involving isolation, burnout, and anxiety at work. This can stem from prior experiences, where bringing such issues to light could lead to negative consequences.
 
-To combat this and destigmatize such issues, leadership should work to [build and sustain a non-judgemental culture]({{< ref "./building-culture" >}}). This starts by celebrating a [diverse team]({{< ref "values#diversity-inclusion" >}}), and creating an [inclusive work environment]({{< ref "inclusion" >}}).
+To combat this and destigmatize such issues, leadership should work to [build and sustain a non-judgemental culture]({{< ref "./building-culture" >}}). This starts by celebrating a [diverse team](/handbook/values/#diversity-inclusion), and creating an [inclusive work environment]({{< ref "inclusion" >}}).
 
 At GitLab, we encourage team members to include overall feedback on how their life is going during [routine 1:1 meetings]({{< ref "1-1" >}}). Managers are responsible for creating a safe atmosphere, where team members can openly discuss issues related to mental health, and work with the team member to a resolution.
 
@@ -198,7 +198,7 @@ Learn more about [how to build a psychologically safe environment]({{< ref "psyc
 ![GitLab code illustration](/images/all-remote/gitlab-code-review.jpg)
 {style="max-width: 50%;"}
 
-There should be no stigma in questioning [efficiency]({{< ref "values#efficiency" >}}). What was ultimately most efficient a year ago may not be true today. If you sense that a team is overworking and creating a cycle of overwork for those in proximity, consider pausing to workshop how to work *less*.
+There should be no stigma in questioning [efficiency](/handbook/values/#efficiency). What was ultimately most efficient a year ago may not be true today. If you sense that a team is overworking and creating a cycle of overwork for those in proximity, consider pausing to workshop how to work *less*.
 
 This environment creates a space where individuals can surface new tools and technologies which may be able to lighten the human load, or surface new realities in how the market has shifted to a point where certain elements of work are no longer as valuable.
 
@@ -287,11 +287,11 @@ This nuance requires a leader who is adept at understanding a team member's stre
 
 This can be more pronounced in a remote setting. Leaders should pay close attention to blockers and struggles, and be proactive in asking about these during [1:1 sessions]({{< ref "suggested-agenda-format" >}}). Phrasing questions such as "Are there any assignments that you do not feel comfortable or equipped to handle?" is a better way to uncover truth compared to a blanket "Why isn't this working?"
 
-It's also important to understand that not every team members prefers to discuss these topics using the same medium. While some may prefer video communication, others may prefer voice, writing, or something else. Remote leaders should strive to be [inclusive]({{< ref "values#diversity-inclusion" >}}) when searching for answers and solutions.
+It's also important to understand that not every team members prefers to discuss these topics using the same medium. While some may prefer video communication, others may prefer voice, writing, or something else. Remote leaders should strive to be [inclusive](/handbook/values/#diversity-inclusion) when searching for answers and solutions.
 
 ### Sentiment tracking and feedback
 
-Particularly in remote companies, leadership should consider implementing processes around internal feedback. Companies will often wait to gather [internal feedback]({{< ref "internal-feedback" >}}) until an exit interview after someone's resigned, or they'll organize an occasional survey to take a pulse on the company’s engagement. GitLab prefers shorter, but more frequent, check-ins, aligned to our values of [collaboration]({{< ref "values#collaboration" >}}) and [iteration]({{< ref "values#iteration" >}}).
+Particularly in remote companies, leadership should consider implementing processes around internal feedback. Companies will often wait to gather [internal feedback]({{< ref "internal-feedback" >}}) until an exit interview after someone's resigned, or they'll organize an occasional survey to take a pulse on the company’s engagement. GitLab prefers shorter, but more frequent, check-ins, aligned to our values of [collaboration](/handbook/values/#collaboration) and [iteration](/handbook/values/#iteration).
 
 Ask questions that shed light on whether or not a team member is thriving or struggling, and pay close attention to any adjustable workplace factors that are [contributing](https://about.gitlab.com/blog/2018/06/26/iterating-improving-frontend-culture) either positively or negatively.
 

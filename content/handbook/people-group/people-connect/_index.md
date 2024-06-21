@@ -55,7 +55,7 @@ Our Service Desk was created by the [People Group Engineering Team](/handbook/pe
 
 GitLab remains a [Handbook First]({{< ref "handbook-usage#why-handbook-first" >}}) organization. However, in instances where the answer to a people-related question is not apparent, the next port of call would be People Connect.
 
-In the interests of [knowledge sharing]({{< ref "values#findability" >}}) and [transparency]({{< ref "values#transparency" >}}) team members are encouraged to use **#people-connect** [by default]({{< ref "communication#avoid-direct-messages" >}}) when initiating an interaction with the team.
+In the interests of [knowledge sharing]({{< ref "values#findability" >}}) and [transparency](/handbook/values/#transparency) team members are encouraged to use **#people-connect** [by default]({{< ref "communication#avoid-direct-messages" >}}) when initiating an interaction with the team.
 
 Should the interaction include **personal data or potentially sensitive information** team members **must** direct message the **People Connect Bot** which can be found by searching the 'apps' section of Slack. This can be found at the bottom of the left pane.
 

@@ -135,7 +135,7 @@ See the [Secure sub-department vulnerability management process](/handbook/engin
 
 ##### Security Policy
 
-We prioritize findings by their CVSS severities and [SLAs][Vulnerability SLAs], and currently focus on security findings with these severity levels:
+We prioritize findings by their CVSS severities and [SLAs](/handbook/security/product-security/vulnerability-management/#remediation-slas), and currently focus on security findings with these severity levels:
 
 - Critical
 - High
@@ -150,7 +150,7 @@ We use the Vulnerability Report with filters to focus on items matching [our pol
 
 1. [Analyzers Vulnerability Report](https://gitlab.com/groups/gitlab-org/security-products/analyzers/-/security/vulnerabilities/?state=DETECTED&severity=CRITICAL&severity=HIGH&projectId=13150952,15369510,24673064,52241202,6126012,9450192&activity=STILL_DETECTED)
     - To configure the report manually, select all [shared](#shared), [container scanning](#container-scanning), and [dependency scanning](#dependency-scanning) projects and apply the `Still detected` activity filter and apply the `Needs Triage` status.
-1. [License-db Vulnerability Report][License-db Vulnerability Report]
+1. [License-db Vulnerability Report](https://gitlab.com/groups/gitlab-org/security-products/license-db/-/security/vulnerabilities/?state=DETECTED&severity=CRITICAL,HIGH&projectId=39193358,39229232,39233486,39298809,39622674,40857363,45266022&activity=STILL_DETECTED)
     - To configure the report manually, select all [license-db](#license-db) projects and apply the `Still detected` activity filter and apply the `Needs Triage` status.
 
 For each item, investigate and either [dismiss](#dismissing-a-vulnerability) or [confirm](#confirming-a-vulnerability) it. If it's not clear whether there's indeed a threat, escalate to our [Application Security team](/handbook/security/product-security/application-security/).
@@ -169,7 +169,7 @@ We currently have a limited capacity to triage vulnerabilities reported on our u
 
 We use the Vulnerability Report with filters to focus on items matching [our policy](#security-policy) and reported on the relevant projects.
 
-1. [Upstream Scanners Vulnerability Report][Upstream Scanners Vulnerability Report]
+1. [Upstream Scanners Vulnerability Report](https://gitlab.com/groups/gitlab-org/security-products/dependencies/-/security/vulnerabilities/?state=DETECTED&projectId=30616761,30684590,35335143,39545454,39545481,51420921&severity=CRITICAL,HIGH&activity=STILL_DETECTED)
     - To configure the report manually, select all [upstream scanner](#upstream-scanner-mirrors) projects.
 
 For vulnerabilities discovered in upstream scanners, an issue must be created in GitLab's issue tracker, and we should work with the relevant Open Source community to help provide a resolution. As a last resort, we can patch locally or fork the upstream project temporarily to fix the vulnerability sooner.
@@ -368,7 +368,7 @@ To do so, we mirror their repository and execute our security scans on them (whe
 - [trivy-db-glad](https://gitlab.com/gitlab-org/security-products/dependencies/trivy-db-glad)
 - [vuln-list-update](https://gitlab.com/gitlab-org/security-products/dependencies/vuln-list-update)
 
-The vulnerabilities reported on the currently used version of the scanner are automatically reported in [the group level Vulnerability Report][Upstream scanners Vulnerability Report] and triaged as part of our [security vulnerabilities triaging process](#security-vulnerabilities-triaging-process).
+The vulnerabilities reported on the currently used version of the scanner are automatically reported in [the group level Vulnerability Report](https://gitlab.com/groups/gitlab-org/security-products/dependencies/-/security/vulnerabilities/?state=DETECTED&projectId=30616761,30684590,35335143,39545454,39545481,51420921&severity=CRITICAL,HIGH&activity=STILL_DETECTED) and triaged as part of our [security vulnerabilities triaging process](#security-vulnerabilities-triaging-process).
 
 #### Setting up a mirror
 
@@ -419,9 +419,3 @@ Before releasing an analyzer with a newer version of its upstream scanner, we mu
 ## Monitoring
 
 - [Stage Group dashboad on Grafana](https://dashboards.gitlab.net/d/stage-groups-composition_analysis/stage-groups-group-dashboard-secure-composition-analysis?orgId=1)
-
-[License-db Vulnerability Report]: https://gitlab.com/groups/gitlab-org/security-products/license-db/-/security/vulnerabilities/?state=DETECTED&severity=CRITICAL,HIGH&projectId=39193358,39229232,39233486,39298809,39622674,40857363,45266022&activity=STILL_DETECTED
-
-[Upstream Scanners Vulnerability Report]: https://gitlab.com/groups/gitlab-org/security-products/dependencies/-/security/vulnerabilities/?state=DETECTED&projectId=30616761,30684590,35335143,39545454,39545481,51420921&severity=CRITICAL,HIGH&activity=STILL_DETECTED
-
-[Vulnerability SLAs]: /handbook/security/product-security/vulnerability-management/#remediation-slas

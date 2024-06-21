@@ -35,14 +35,14 @@ open to a [soft-landing acquisition](https://about.gitlab.com/blog/2019/07/30/gi
 - Experience with performance and optimization problems and a demonstrated ability to both diagnose and prevent these problems
 - Experience building web-crawlers at scale
 - Experience designing databases to match functional business needs for BI use and data extrapolation
-- Comfort working in a highly agile, [intensely iterative][iteration] software development process
+- Comfort working in a highly agile, [intensely iterative](/handbook/values/#iteration) software development process
 - Demonstrated ability to onboard and integrate with an organization long-term
 - Positive and solution-oriented mindset
-- Effective communication skills: [Regularly achieve consensus with peers][collaboration], and clear status updates
+- Effective communication skills: [Regularly achieve consensus with peers](/handbook/values/#collaboration), and clear status updates
 - An inclination towards communication, inclusion, and visibility
-- [Self-motivated and self-managing][efficiency], with strong organizational skills.
+- [Self-motivated and self-managing](/handbook/values/#efficiency), with strong organizational skills.
 - Demonstrated ability to work closely with other parts of the organization
-- Share [our values][values], and work in accordance with those values
+- Share [our values](/handbook/values/), and work in accordance with those values
 - Ability to thrive in a fully remote organization
 - Ability to use GitLab
 
@@ -61,8 +61,3 @@ Additional details about our process can be found on our [hiring page](/handbook
 - Dir. Corporate Development
 - Dir. Engineering
 - Chief Product Officer
-
-[values]: /handbook/values/
-[collaboration]: /handbook/values/#collaboration
-[efficiency]: /handbook/values/#efficiency
-[iteration]: /handbook/values/#iteration

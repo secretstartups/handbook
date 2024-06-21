@@ -124,7 +124,7 @@ When [hiring in an all-remote organization](./hiring), a cohesive onboarding pro
 At GitLab, we believe the best way to operate is by [documenting]({{< ref "./management#scaling-by-documenting" >}}) processes, guides, solutions, how-tos, and policies. Be sure to empower remote workers to  adopt [remote-first communication and workflow practices]({{< ref "./how-to-work-remote-first" >}}).
 
 - **Identify employee concerns and answer questions.**
-GitLab is committed to [transparency]({{< ref "values#transparency" >}}). This value gives team members access to a great deal of visibility to what is going on throughout the organization. However, it does not negate the need to invite employees to ask questions.
+GitLab is committed to [transparency](/handbook/values/#transparency). This value gives team members access to a great deal of visibility to what is going on throughout the organization. However, it does not negate the need to invite employees to ask questions.
 
 - **Add some excitement.**
 In addition to the [incredible benefits of all-remote work]({{< ref "remote-benefits" >}}), getting to network and interact with their team, whether remote or [in-person]({{< ref "./in-person" >}}) is part of what makes work fun and exciting - especially in an all-remote [culture]({{< ref "culture" >}}).
@@ -150,7 +150,7 @@ At GitLab, [the first thirty days](https://gitlab.com/gitlab-com/people-group/pe
 
 Onboarding is the first impression a new hire gets of your organization. It's critical to invest the time to do it well so that your new team members get to know you, understand what is expected of them, introduces them to co-workers and teammates, and sets them up to succeed.
 
-At GitLab, we document to create a [single source of truth]({{< ref "values#single-source-of-truth" >}}) so we can operate [handbook-first](/handbook/about/handbook-usage/#why-handbook-first) and value [transparency]({{< ref "values#transparency" >}}) by making the handbook [publicly accessible to all](/handbook).
+At GitLab, we document to create a [single source of truth]({{< ref "values#single-source-of-truth" >}}) so we can operate [handbook-first](/handbook/about/handbook-usage/#why-handbook-first) and value [transparency](/handbook/values/#transparency) by making the handbook [publicly accessible to all](/handbook).
 
 ## Remote onboarding tips
 
@@ -189,19 +189,19 @@ For new team members, this is even more crucial: if your culture is not self-rei
 ## Remote first company values
 
 GitLab's six core values are
-[**🤝 Collaboration**]({{< ref "values#collaboration" >}}),
-[**📈 Results**]({{< ref "values#results" >}}),
-[**⏱️ Efficiency**]({{< ref "values#efficiency" >}}),
-[**🌐 Diversity, Inclusion & Belonging**]({{< ref "values#diversity-inclusion" >}}),
-[**👣 Iteration**]({{< ref "values#iteration" >}}), and
-[**👁️ Transparency**]({{< ref "values#transparency" >}}),
+[**🤝 Collaboration**](/handbook/values/#collaboration),
+[**📈 Results**](/handbook/values/#results),
+[**⏱️ Efficiency**](/handbook/values/#efficiency),
+[**🌐 Diversity, Inclusion & Belonging**](/handbook/values/#diversity-inclusion),
+[**👣 Iteration**](/handbook/values/#iteration), and
+[**👁️ Transparency**](/handbook/values/#transparency),
 and together they spell the **CREDIT** we give each other by assuming good intent.
 
 Feel free to adopt or remix our values for your remote-first team.
 
 ## How to evaluate your existing onboarding process
 
-In the spirit of [transparency]({{< ref "values#transparency" >}}), GitLab's People Connect Team will evaluate the onboarding process by having new employees fill out an [Onboarding Survey](https://docs.google.com/forms/d/1sigbOqWKuEtGyLROghvivgWErRnfbUI1_-57XhAwu_8/edit).
+In the spirit of [transparency](/handbook/values/#transparency), GitLab's People Connect Team will evaluate the onboarding process by having new employees fill out an [Onboarding Survey](https://docs.google.com/forms/d/1sigbOqWKuEtGyLROghvivgWErRnfbUI1_-57XhAwu_8/edit).
 
 ## High-touch and low-touch flexibility
 

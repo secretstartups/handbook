@@ -28,7 +28,7 @@ By hiring remote interns, organizations are able to broaden their usual scope an
 
 ### Fresh perspective
 
-Interns are capable of offering valuable perspective. Given that many are only working for a few months, they're able to evaluate an organization with fresh eyes, and they have little to lose by offering [transparent]({{< ref "values#transparency" >}}) feedback along the way.
+Interns are capable of offering valuable perspective. Given that many are only working for a few months, they're able to evaluate an organization with fresh eyes, and they have little to lose by offering [transparent](/handbook/values/#transparency) feedback along the way.
 
 Particularly for interns who are in university, or recently graduated, they may also bring new tools and methodologies to the table.
 
@@ -130,7 +130,7 @@ Because remote internships are learning-based and fast-paced, there are some [re
 
 It's important for organizations to remember that remote interns are essentially learning **two** fundamental things: the job itself, and how to work well [with no office]({{< ref "./getting-started" >}}). In turn, it's important to calibrate expectations and what is measured.
 
-This may be particularly challenging in fast-paced all-remote settings. All-remote companies tend to be highly [efficient]({{< ref "values#efficiency" >}}). In a firm where [results, not hours]({{< ref "values#measure-results-not-hours" >}}), are measured, there is a natural inclination to expect expediency. When a remote intern is learning two major lessons at once, progress may feel slower than usual.
+This may be particularly challenging in fast-paced all-remote settings. All-remote companies tend to be highly [efficient](/handbook/values/#efficiency). In a firm where [results, not hours]({{< ref "values#measure-results-not-hours" >}}), are measured, there is a natural inclination to expect expediency. When a remote intern is learning two major lessons at once, progress may feel slower than usual.
 
 For organizations with a strong desire to use their remote internship program as an intern-to-hire mechanism, be sure to screen for this during the interview process. Encourage prospective interns to be transparent about their intentions and readiness to start if successful.
 
@@ -164,7 +164,7 @@ If possible, avoid time critical work. Great intern projects tend to be items wh
 
 At GitLab, we make our [strategy](/handbook/company/strategy) and [OKRs](/handbook/company/okrs) (objectives and key results) public, and offer copious context on the question of "[What's it like to work at GitLab?]({{< ref "candidate-faq" >}})" This shows respect for job seekers, and it ensures that those who apply resonate with our [values]({{< ref "values" >}}).
 
-Hiring remote interns is hard. An organization shouldn't make it harder by concealing their vision and values until *after* an intern is hired. Given the remarkably short duration of the internship experience, it's vital to act [transparently]({{< ref "values#transparency" >}}) in order to create as much pre-start alignment as possible.
+Hiring remote interns is hard. An organization shouldn't make it harder by concealing their vision and values until *after* an intern is hired. Given the remarkably short duration of the internship experience, it's vital to act [transparently](/handbook/values/#transparency) in order to create as much pre-start alignment as possible.
 
 ## How can interns make the most of a remote internship?
 

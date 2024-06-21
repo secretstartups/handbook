@@ -19,7 +19,7 @@ Talking about the weather; sharing photos of pets, favorite foods or holidays; s
 
 ## What is the difference between formal and informal communication in the workplace?
 
-Since GitLab is an all-remote organization that [works asynchronously]({{< ref "./asynchronous" >}}), nearly all work communication is [documented](/handbook/product/ux/technical-writing/documentation/), making all work-related communications "formal" communications. This helps support our value of [transparency]({{< ref "values#transparency" >}}).
+Since GitLab is an all-remote organization that [works asynchronously]({{< ref "./asynchronous" >}}), nearly all work communication is [documented](/handbook/product/ux/technical-writing/documentation/), making all work-related communications "formal" communications. This helps support our value of [transparency](/handbook/values/#transparency).
 
 We are big on relationship-buiding. We highly value intentionally creating time to build relationships via informal communications.
 
@@ -59,7 +59,7 @@ Informal team member communications, such as a chat about life outside of work, 
 
 ### Valuing conversation on non-work topics
 
-Informal communication is important, as it enables friendships to form at work related to matters *other* than work. Those who feel they have genuine friends at work are [more likely to enjoy their job](https://onlinelibrary.wiley.com/doi/full/10.1111/peps.12109), perform at a high level, feel invested in the company, and serve others within the organization. At GitLab, we desire those outcomes as well, reinforcing our [Results value]({{< ref "values#results" >}}).
+Informal communication is important, as it enables friendships to form at work related to matters *other* than work. Those who feel they have genuine friends at work are [more likely to enjoy their job](https://onlinelibrary.wiley.com/doi/full/10.1111/peps.12109), perform at a high level, feel invested in the company, and serve others within the organization. At GitLab, we desire those outcomes as well, reinforcing our [Results value](/handbook/values/#results).
 
 For all-remote companies, leaders should not expect informal communication to happen naturally. There are no hallways for team members to cross paths in, no carpools to the office, etc.
 

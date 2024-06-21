@@ -13,15 +13,13 @@ we integrate and build scanning tools to supply security and compliance assessme
 where we develop our vulnerability management system and other features.
 While it might be technically feasible, we do not aim at building standalone products that provide this data independently from the GitLab application.
 
-For more details about the vision for this area of the product, see the [Secure stage] page.
-
-[Secure stage]: /stages-devops-lifecycle/secure/
+For more details about the vision for this area of the product, see the [Secure stage](https://about.gitlab.com/stages-devops-lifecycle/#secure) page.
 
 ## Mission
 
 To support the success of GitLab by developing highly usable, hiqh quality tools for customers to build more secure software.
 
-The Secure team works on GitLab's [Secure stage].
+The Secure team works on GitLab's [Secure stage](https://about.gitlab.com/stages-devops-lifecycle/#secure).
 
 ## Sub-department development people leaders
 
@@ -308,10 +306,10 @@ What did you do since yesterday?
 
 As our teams focus on different areas, we have Geekbot configured to broadcast to separate channels in addition to our common one at [#s_secure-standup].
 
-1. Composition Analysis: [#g_secure-composition-analysis-standup]
-1. Static Analysis: [#g_secure-static-analysis-standup]
-1. Dynamic Analysis: [#g_secure-dynamic-analysis-standup]
-1. Frontend: [#s_secure-frontend-standup]
+1. Composition Analysis: [#g_secure-composition-analysis-standup](https://gitlab.slack.com/archives/g_secure-composition-analysis-standup)
+1. Static Analysis: [#g_secure-static-analysis-standup](https://gitlab.slack.com/archives/g_secure-static-analysis-standup)
+1. Dynamic Analysis: [#g_secure-dynamic-analysis-standup](https://gitlab.slack.com/archives/g_secure-dynamic-analysis-standup)
+1. Frontend: [#s_secure-frontend-standup](https://gitlab.slack.com/archives/s_secure-frontend-standup)
 
 #### Recorded meetings
 
@@ -431,15 +429,6 @@ MR Type labels help us report what we're working on to industry analysts in a wa
 
 ## Common Links
 
-* [Secure team board]
-* [#s_secure] in Slack
+* [Secure team board](https://gitlab.com/groups/gitlab-org/-/boards/588843?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Asecure)
+* [#s_secure](https://gitlab.slack.com/archives/s_secure) in Slack
 * [Secure and Govern Glossary of Terms](https://docs.gitlab.com/ee/user/application_security/terminology/)
-
-[Secure team board]: https://gitlab.com/groups/gitlab-org/-/boards/588843?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Asecure
-
-[#s_secure]: https://gitlab.slack.com/archives/s_secure
-[#s_secure-standup]: https://gitlab.slack.com/archives/s_secure-standup
-[#g_secure-composition-analysis-standup]: https://gitlab.slack.com/archives/g_secure-composition-analysis-standup
-[#g_secure-static-analysis-standup]: https://gitlab.slack.com/archives/g_secure-static-analysis-standup
-[#g_secure-dynamic-analysis-standup]: https://gitlab.slack.com/archives/g_secure-dynamic-analysis-standup
-[#s_secure-frontend-standup]: https://gitlab.slack.com/archives/s_secure-frontend-standup

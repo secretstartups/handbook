@@ -156,7 +156,7 @@ It's understandable for team members to long for social gatherings in and around
 Leaders who enable this should be mindful of the following.
 
 1. It's important to budget for travel to include remote team members in onsite social events.
-1. Work should not happen in social rooms, as it hinders [transparency]({{< ref "values#transparency" >}}) and creates [dysfunction]({{< ref "values#five-dysfunctions" >}}) through the formation of communication silos.
+1. Work should not happen in social rooms, as it hinders [transparency](/handbook/values/#transparency) and creates [dysfunction]({{< ref "values#five-dysfunctions" >}}) through the formation of communication silos.
 
 ### Equitable benefits and perks
 
@@ -271,7 +271,7 @@ There are considerations when accepting a role in a hybrid-remote company, and i
 
 ## Overcoming the hybrid-remote model’s problems
 
-Clear communication is one of the best ways to overcome hybrid-remote challenges.[GitLab's handbook](/handbook) captures everything an employee needs to know promoting autonomy and [efficiency]({{< ref "values#efficiency" >}}) for communication, processes, and procedures.
+Clear communication is one of the best ways to overcome hybrid-remote challenges.[GitLab's handbook](/handbook) captures everything an employee needs to know promoting autonomy and [efficiency](/handbook/values/#efficiency) for communication, processes, and procedures.
 
 Each department and team should set, share, and track both monthly and quarterly goals, or ["objectives and key results" (OKRs)](/handbook/company/okrs). GitLab's OKRs are also clearly documented in our handbook for visibility across the company.
 

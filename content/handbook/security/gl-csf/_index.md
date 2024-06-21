@@ -68,10 +68,10 @@ The framework is architected around 3 stages:
 
 | Activity | Security Team | Green & Yellow Data | Orange Data | Red Data |
 | -------- | ------------- | ------------------- | ----------- | -------- |
-| [Data classification](#data-classification) | [Security Assurance] | N/A | N/A | N/A |
-| [Architecture](architecture.html) | [Security Architects] | Optional| Recommended | Required |
-| Define Target Environment | [InfraSec] | Optional | Required | Required |
-| Threat Modeling | [AppSec] | Optional | Recommended | Required |
+| [Data classification](#data-classification) | [Security Assurance]({{< ref "security-assurance" >}}) | N/A | N/A | N/A |
+| [Architecture](architecture.html) | [Security Architects]({{< ref "../product-security/architecture" >}}) | Optional| Recommended | Required |
+| Define Target Environment | [InfraSec]({{< ref "../product-security/infrastructure-security" >}}) | Optional | Required | Required |
+| Threat Modeling | [AppSec]({{< ref "../product-security/application-security" >}}) | Optional | Recommended | Required |
 
 #### Data classification
 
@@ -111,10 +111,3 @@ infrastructure or our product inform the Security Research Team
 (`@gitlab-com/gl-security/security-research`) for potential inclusion of the dependency into the
 [OSS Ecosystem Testing]({{< ref "../product-security/security-research#gitlab-ecosystem-security-testing" >}})
 efforts.
-
-## Additional resources and references
-
-[Security Assurance]: {{< ref "security-assurance" >}}
-[Security Architects]:{{< ref "../product-security/architecture" >}}
-[InfraSec]: {{< ref "../product-security/infrastructure-security" >}}
-[AppSec]: {{< ref "../product-security/application-security" >}}

@@ -20,7 +20,7 @@ Those activities and behaviors include:
 
 ### Defining Diversity, Inclusion & Belonging
 
-A great place to begin is to set a foundation of the basic understanding of how your company defines these terms. An example is GitLab's [Diversity, Inclusion & Belonging  value]({{< ref "values#diversity-inclusion" >}}), supported by an evolving list of operating principles.
+A great place to begin is to set a foundation of the basic understanding of how your company defines these terms. An example is GitLab's [Diversity, Inclusion & Belonging  value](/handbook/values/#diversity-inclusion), supported by an evolving list of operating principles.
 
 In other places, you may hear them used interchangeably. Understanding their differences is essential to driving the initiatives. As an example, you may hire many diverse candidates, but if you don't create an inclusive environment the work can be in vain.
 

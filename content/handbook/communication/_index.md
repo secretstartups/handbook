@@ -201,10 +201,10 @@ When referring to email that recipients should have received, reference the send
 
 If something is behaving strangely on [https://gitlab.com](https://gitlab.com), it might be a bug. It could also mean that something was changed intentionally.
 
-Please search if the issue has already [been reported][issue-list]. If it has not been reported, and you are sure it is a bug, please [file an issue](#issues).
+Please search if the issue has already [been reported](https://gitlab.com/groups/gitlab-org/-/issues). If it has not been reported, and you are sure it is a bug, please [file an issue](#issues).
 
-If you are unsure whether the behavior you experience is a bug, you may ask in the Slack channel [#is-this-known][is-this-known-slack].
-If you know which stage of the DevOps lifecycle is affected, it is also okay to ask in #s\_{stage}, for example [#s_manage][s_manage-slack].
+If you are unsure whether the behavior you experience is a bug, you may ask in the Slack channel [#is-this-known](https://gitlab.slack.com/messages/CETG54GQ0/).
+If you know which stage of the DevOps lifecycle is affected, it is also okay to ask in #s\_{stage}, for example [#s_manage](https://gitlab.slack.com/messages/CBFCUM0RX).
 
 When you ask:
 
@@ -212,15 +212,7 @@ When you ask:
 - Describe the behavior you are experiencing, this makes it searchable and easier to understand.
   Different people might look for different things in the same screenshots.
 - Asking in a single channel helps discoverability, duplicated efforts and reduces noise in other channels.
-  Please refrain from asking in general purpose channels like [#frontend][fe-slack], [#backend][be-slack], [#development][dev-slack] or [#questions][q-slack].
-
-[issue-list]: https://gitlab.com/groups/gitlab-org/-/issues
-[is-this-known-slack]: https://gitlab.slack.com/messages/CETG54GQ0/
-[s_manage-slack]: https://gitlab.slack.com/messages/CBFCUM0RX
-[fe-slack]: https://gitlab.slack.com/messages/C0GQHHPGW/
-[be-slack]: https://gitlab.slack.com/messages/C8HG8D9MY/
-[dev-slack]: https://gitlab.slack.com/messages/C02PF508L/
-[q-slack]: https://gitlab.slack.com/messages/C0AR2KW4B/
+  Please refrain from asking in general purpose channels like [#frontend](https://gitlab.slack.com/messages/C0GQHHPGW/), [#backend](https://gitlab.slack.com/messages/C8HG8D9MY/), [#development](https://gitlab.slack.com/messages/C02PF508L/) or [#questions](https://gitlab.slack.com/messages/C0AR2KW4B/).
 
 #### Numbering is for reference, not as a signal
 

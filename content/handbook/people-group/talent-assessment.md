@@ -757,7 +757,7 @@ Below are a few examples to help managers think through Key Talent designations 
 1. A team member that has a performance assessment of “Exceeding” is not automatically indicated as Key Talent. Perhaps they are doing exceptionally well in their role, but the impact on the business would not be considered “critical” if they were to leave.
 1. A team member that is new to the role due to recent promotion and still "Developing" could be identified as Key Talent if they work in an area of the business that is highly specialized and critical to the success of key results at the company.
 
-*Note: Intentionally hoarding knowledge is in direct conflict with our [transparency value]({{< ref "values#transparency" >}}) and is viewed as a performance issue as we measure performance based on alignment with our values.*
+*Note: Intentionally hoarding knowledge is in direct conflict with our [transparency value](/handbook/values/#transparency) and is viewed as a performance issue as we measure performance based on alignment with our values.*
 
 ### Key Talent and Single Points of Failure (SPOF)
 

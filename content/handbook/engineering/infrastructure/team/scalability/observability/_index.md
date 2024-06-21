@@ -45,14 +45,14 @@ The following gives an overview of our scope and ownership.
    1. [Operational aspects for GitLab Dedicated capacity planning](https://docs.gitlab.com/ee/architecture/blueprints/capacity_planning/)
    1. Developing [Tamland](https://gitlab.com/gitlab-com/gl-infra/tamland), the forecasting tool
    1. [Capacity reporting for GitLab Dedicated](https://gitlab.com/gitlab-com/gl-infra/capacity-planning-trackers/gitlab-dedicated)
-1. [Service Maturity model][service maturity model] which covers GitLab.com's production services.
+1. [Service Maturity model](/handbook/engineering/infrastructure/service-maturity-model/) which covers GitLab.com's production services.
 1. [GitLab.com availability reporting](/handbook/engineering/monitoring/): Provide underlying data and aggregate numbers
 
 ### Indicators
 
 The group is an owner of several performance indicators that roll up to the Infrastructure department indicators:
 
-1. [Service Maturity model][service maturity model] which covers GitLab.com's production services.
+1. [Service Maturity model](/handbook/engineering/infrastructure/service-maturity-model/) which covers GitLab.com's production services.
 1. The forecasting [project named Tamland](/handbook/engineering/infrastructure/team/scalability/observability/tamland.html) which generates capacity warnings to prevent incidents.
 
 These are combined to enable us to better prioritize team projects.
@@ -63,8 +63,6 @@ An overly simplified example of how these indicators might be used, in no partic
 * Tamland reports - Provides a forecast for a specific service
 
 Between these different signals, we have a relatively (im)precise view into the past, present and future to help us prioritise scaling needs for GitLab.com.
-
-[service maturity model]: /handbook/engineering/infrastructure/service-maturity-model/
 
 ### Provisioned Services
 
@@ -114,7 +112,7 @@ Refer to the Scalability group [issue boards section](/handbook/engineering/infr
 
 #### Retrospectives
 
-A team-level retrospective issue is created every 6 weeks, allowing the team to regularly reflect and to encourage a culture of continuous improvement. The creation of the retrospective issue is the responsibility of the Engineering Manager. You can find retrospectives [here](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/?sort=created_date&state=all&label_name%5B%5D=team%3A%3AScalability-Observability&label_name%5B%5D=Retrospective&first_page_size=100). 
+A team-level retrospective issue is created every 6 weeks, allowing the team to regularly reflect and to encourage a culture of continuous improvement. The creation of the retrospective issue is the responsibility of the Engineering Manager. You can find retrospectives [here](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/?sort=created_date&state=all&label_name%5B%5D=team%3A%3AScalability-Observability&label_name%5B%5D=Retrospective&first_page_size=100).
 
 ### Updates in Slack
 

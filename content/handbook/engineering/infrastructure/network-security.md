@@ -64,9 +64,9 @@ To make it easier to know where to put the rule priority-wise, categorize the ty
 
 Then add the firewall tracker issue ID to the range. For example an attack, that is tracked in issue 1234 would get assigned priority `15000+1234` = `16234`.
 
-[cf_allowlists]: https://ops.gitlab.net/gitlab-com/gl-infra/terraform-modules/cf_allowlists
+### How we use Page Rules and WAF Rules to Counter Abuse and Attacks
 
-### [How we use Page Rules and WAF Rules to Counter Abuse and Attacks](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/10277)
+[How we use Page Rules and WAF Rules to Counter Abuse and Attacks](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/10277)
 
 ### Updating the WAF and Page Rules in Cloudflare
 
@@ -94,7 +94,7 @@ rule above it will need to be updated to depend on the new rule.
 This forces Terraform to apply the rules in a specific order, preserving their
 priority.
 
-### Adding WAF Rules to the [cf_allowlists]
+### Adding WAF Rules to the cf_allowlists
 
 With any modification to the WAF rules in Cloudflare, the first step is
 creating an issue in the [Firewall Issue Tracker](https://gitlab.com/gitlab-com/gl-infra/cloudflare-firewall).

@@ -28,7 +28,7 @@ Letting Slack pings dictate your working life is a recipe for burnout. It's also
 
 To solve for this, only pay for a chat plan that retains messages for 90 days or less. If your team knows that they'll never be able to query a message thread for context on a project, they will not use the tool for work. Instead, they'll be forced to start, discuss, and complete work in the place where it should end up. At GitLab (the company), this is GitLab ([the product](https://about.gitlab.com/stages-devops-lifecycle)).
 
-This not only forces work to happen [in the open]({{< ref "values#transparency" >}}), where more people can provide feedback as they work to [see each other succeed]({{< ref "values#see-others-succeed" >}}), but it's also a far more inclusive way to work.
+This not only forces work to happen [in the open](/handbook/values/#transparency), where more people can provide feedback as they work to [see each other succeed]({{< ref "values#see-others-succeed" >}}), but it's also a far more inclusive way to work.
 
 {{< youtube "IU2nTj6NSlQ?" >}}
 

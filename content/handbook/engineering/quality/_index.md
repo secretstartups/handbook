@@ -311,13 +311,13 @@ More on our [Triage Operations](/handbook/engineering/infrastructure/engineering
 
 The GitLab test automation framework is distributed across two projects:
 
-- [GitLab QA], the test orchestration tool.
-- The scenarios and spec files within the GitLab codebase under `/qa` in [GitLab].
+- [GitLab QA](https://gitlab.com/gitlab-org/gitlab-qa), the test orchestration tool.
+- The scenarios and spec files within the GitLab codebase under `/qa` in [GitLab](https://gitlab.com/gitlab-org/gitlab).
 
 #### Installation and execution
 
 - Install and set up the [GitLab Development Kit](https://gitlab.com/gitlab-org/gitlab-development-kit)
-- Install and run [GitLab QA] to kick off test execution.
+- Install and run [GitLab QA](https://gitlab.com/gitlab-org/gitlab-qa) to kick off test execution.
   - The spec files (test cases) can be found in the [GitLab codebase](https://gitlab.com/gitlab-org/gitlab/tree/master/qa)
 
 ### Test results tracking
@@ -373,8 +373,8 @@ Once GitLab stores test data, we can improve failure reporting and management.
 ### Performance and Scalability
 
 The Quality Department is committed to ensuring that self-managed customers have performant and scalable configurations.
-To that end, we are focused on creating a variety of tested and certified [Reference Architectures]. Additionally, we
-have developed the [GitLab Performance Tool], which provides several tools for measuring the performance of any GitLab
+To that end, we are focused on creating a variety of tested and certified [Reference Architectures](https://docs.gitlab.com/ee/administration/reference_architectures/index.html). Additionally, we
+have developed the [GitLab Performance Tool](https://gitlab.com/gitlab-org/quality/performance), which provides several tools for measuring the performance of any GitLab
 instance. We use the Tool every day to monitor for potential performance degradations, and this tool can also be used
 by GitLab customers to directly test their on-premise instances. More information is available on our
 [Performance and Scalability](/handbook/engineering/quality/performance-and-scalability/) page.
@@ -391,8 +391,3 @@ See the [GitLab Data Seeder](/handbook/engineering/quality/gitlab-data-seeder) d
 - [Performance of GitLab](/handbook/engineering/performance/)
 - [Monitoring of GitLab.com](/handbook/engineering/monitoring/)
 - [Production Readiness Guide](https://gitlab.com/gitlab-com/infrastructure/blob/master/.gitlab/issue_templates/production_readiness.md)
-
-[GitLab QA]: https://gitlab.com/gitlab-org/gitlab-qa
-[GitLab Performance Tool]: https://gitlab.com/gitlab-org/quality/performance
-[GitLab]: https://gitlab.com/gitlab-org/gitlab
-[Reference Architectures]: https://docs.gitlab.com/ee/administration/reference_architectures/index.html

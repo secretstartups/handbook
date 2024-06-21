@@ -329,19 +329,13 @@ We have 1 regularly scheduled "Per Milestone" retrospective, and can have ad-hoc
 
 #### Per Milestone
 
-The Import and Integrate group conducts [milestone retrospectives in GitLab
-issues][retros]. These include the engineers, UX, PM, and
+The Import and Integrate group conducts [milestone retrospectives in GitLab issues](https://gitlab.com/gl-retrospectives/manage-stage/import-and-integrate/-/issues). These include the engineers, UX, PM, and
 all stable counterparts who have worked with that team during the milestone.
 
 Participation by our team members is highly encouraged for every milestone.
 
 These are confidential during the initial discussion, then made public in time
-for each month's [GitLab retrospective]. For more information, see [group
-retrospectives].
-
-[retros]: https://gitlab.com/gl-retrospectives/manage-stage/import-and-integrate/-/issues
-[GitLab retrospective]: /handbook/engineering/workflow/#retrospective
-[group retrospectives]: /handbook/engineering/management/group-retrospectives/
+for each month's [GitLab retrospective](/handbook/engineering/workflow/#retrospective). For more information, see [group retrospectives](/handbook/engineering/management/group-retrospectives/).
 
 #### Per Project
 
@@ -456,7 +450,7 @@ This is a collection of links for monitoring our features.
 
 ### Grafana dashboards
 
-- [Import and Integrate group dashboard][grafana-dashboard] which contain:
+- [Import and Integrate group dashboard](https://dashboards.gitlab.net/d/stage-groups-import_and_integrate/stage-groups-import-and-integrate-group-dashboard?orgId=1) which contain:
   - Links to various Kibana logs, filtered to our feature categories
   - Our [error budget](#error-budgets) spend attribution
 - [Worker queues](https://dashboards.gitlab.net/d/sidekiq-queue-detail/sidekiq-queue-detail?orgId=1&var-PROMETHEUS_DS=Global&var-environment=gprd&var-stage=main&var-queue=jira_connect:jira_connect_sync_branch) where you can switch queues with the `queue` dropdown
@@ -485,9 +479,9 @@ This is a collection of links for monitoring our features.
 
 ### Error budgets
 
-GitLab uses [error budgets][error-budgets-handbook] to measure the availability and performance of our features.
+GitLab uses [error budgets](/handbook/engineering/error-budgets/) to measure the availability and performance of our features.
 Each engineering group has its own budget spend. The current 28-day spend for the Import and Integrate team
-shows in this [Grafana dashboard][grafana-dashboard].
+shows in this [Grafana dashboard](https://dashboards.gitlab.net/d/stage-groups-import_and_integrate/stage-groups-import-and-integrate-group-dashboard?orgId=1).
 
 Error budget spend happens when either of the following exceeds a certain threshold:
 
@@ -496,7 +490,7 @@ Error budget spend happens when either of the following exceeds a certain thresh
 
 #### Determine the highest-impact fixes
 
-To determine the highest-priority problems in our [Grafana dashboard][grafana-dashboard]:
+To determine the highest-priority problems in our [Grafana dashboard](https://dashboards.gitlab.net/d/stage-groups-import_and_integrate/stage-groups-import-and-integrate-group-dashboard?orgId=1):
 
 1. Go to the **Error budget** panel.
 1. Expand **Budget spend attribution**. The **Budget failures** panel is ordered by top failures.
@@ -508,13 +502,10 @@ Fixing the top offenders will have the biggest impact on the budget spend.
 
 Learn more about error budgets with these resources:
 
-- [Error budgets and how they are calculated][error-budgets-handbook]
+- [Error budgets and how they are calculated](/handbook/engineering/error-budgets/)
 - [What Apdex is and how it works](https://docs.gitlab.com/ee/development/application_slis/rails_request_apdex.html)
 - [Error budget in Grafana dashboards](https://docs.gitlab.com/ee/development/stage_group_observability/index.html#error-budget)
 - [Feature categorization](https://docs.gitlab.com/ee/development/feature_categorization): our code is attributed to us by `feature_category: :api`, `feature_category: :integrations`, `feature_category: :internationalization`, `feature_category: :importers`, and `feature_category: :webhooks`
-
-[error-budgets-handbook]: /handbook/engineering/error-budgets/ "Error budgets handbook page"
-[grafana-dashboard]: https://dashboards.gitlab.net/d/stage-groups-import_and_integrate/stage-groups-import-and-integrate-group-dashboard?orgId=1 "Grafana Error Budget Dashboard for Integrations"
 
 ## Links and resources {#links}
 

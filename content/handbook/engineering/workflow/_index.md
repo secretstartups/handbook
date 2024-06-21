@@ -37,14 +37,11 @@ The `pipeline::expedited` label, and `master:broken` or `master:foss-broken` lab
 
 ## Broken `master`
 
-If you notice that pipelines for the `master` branch of [GitLab] or [GitLab FOSS] are failing, returning the build to a passing state takes priority over everything else development related, since everything we do while tests are broken may:
+If you notice that pipelines for the `master` branch of [GitLab](https://gitlab.com/gitlab-org/gitlab) or [GitLab FOSS](https://gitlab.com/gitlab-org/gitlab-foss) are failing, returning the build to a passing state takes priority over everything else development related, since everything we do while tests are broken may:
 
 - break existing functionality
 - introduce new bugs and security issues
 - impede productivity for all of engineering and our release processes
-
-[GitLab]: https://gitlab.com/gitlab-org/gitlab
-[GitLab FOSS]: https://gitlab.com/gitlab-org/gitlab-foss
 
 ### What is a broken `master`?
 
@@ -356,7 +353,7 @@ For better efficiency, it's common for a regression to be fixed in an MR without
 
 ## Basics
 
-1. Start working on an issue you’re assigned to. If you’re not assigned to any issue, find the issue with the highest priority and relevant label you can work on, and assign it to yourself. [You can use this query, which sorts by priority for the started milestones][priority-issues], and filter by the label for your team.
+1. Start working on an issue you’re assigned to. If you’re not assigned to any issue, find the issue with the highest priority and relevant label you can work on, and assign it to yourself. [You can use this query, which sorts by priority for the started milestones](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&milestone_title=%23started&assignee_id=None&sort=priority), and filter by the label for your team.
 1. If you need to schedule something or prioritize it, apply the appropriate labels (see [Scheduling issues](#scheduling-issues)).
 1. If you are working on an issue that touches on areas outside of your expertise, be sure to mention someone in the other group(s) as soon as you start working on it. This allows others to give you early feedback, which should save you time in the long run.
 1. If you are working on an issue that requires access to specific features, systems, or groups, open an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Access_Change_Request) to obtain access on staging and production for testing your changes after they are merged.
@@ -381,7 +378,7 @@ For better efficiency, it's common for a regression to be fixed in an MR without
 1. You are responsible for the issues assigned to you. This means it has to ship with the milestone it's associated with. If you are not able to do this, you have to communicate it early to your manager and other stakeholders (e.g. the product manager, other engineers working on dependent issues). In teams, the team is responsible for this (see [Working in Teams](#working-in-teams)). If you are uncertain, err on the side of overcommunication. It's always better to communicate doubts than to wait.
 1. You (and your team, if applicable) are responsible for:
 
-   - Ensuring that your changes [apply cleanly to GitLab Enterprise Edition][ce-ee-docs].
+   - Ensuring that your changes [apply cleanly to GitLab Enterprise Edition](https://docs.gitlab.com/ee/development/ee_features.html).
    - The testing of a new feature or fix, especially right after it has been merged and packaged.
    - Creating any [relevant feature or API documentation](https://docs.gitlab.com/ee/development/documentation/workflow.html#developers)
    - Shipping secure code, (see [Security is everyone's responsibility](#security-is-everyones-responsibility)).
@@ -389,9 +386,6 @@ For better efficiency, it's common for a regression to be fixed in an MR without
 1. Once a release candidate has been deployed to the staging environment, please verify that your changes work as intended. We have seen issues where bugs did not appear in development but showed in production (e.g. due to CE-EE merge issues).
 
 Be sure to read general guidelines about [issues](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html) and [merge requests](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html).
-
-[priority-issues]: https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&milestone_title=%23started&assignee_id=None&sort=priority
-[ce-ee-docs]: https://docs.gitlab.com/ee/development/ee_features.html
 
 ## Updating Workflow Labels Throughout Development
 
@@ -402,9 +396,7 @@ Team members use labels to track issues throughout development. This gives visib
 - `workflow::verification`: A developer indicates that all the development work for the issue has been done and is waiting to be deployed, then verified.
 - `workflow::complete`: A developer indicates the issue has been verified and everything is working by adding the `workflow::complete` label and closing the issue.
 
-Workflow labels are described in our [Development Documentation][development-docs-labels] and [Product Development Flow](/handbook/product-development-flow/).
-
-[development-docs-labels]: https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/labels/index.md#workflow-labels
+Workflow labels are described in our [Development Documentation](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/labels/index.md#workflow-labels) and [Product Development Flow](/handbook/product-development-flow/).
 
 ## Working in Teams
 
@@ -443,13 +435,13 @@ To filter very precisely, you could filter all issues for:
 - Label: Your label of choice. For instance `CI/CD`, `Discussion`, `Quality`, `frontend`, or `Platform`
 - Sort by priority
 
-[Use this link to quickly set the above parameters][priority-issues]. You'll still need to filter by the label for your own team.
+[Use this link to quickly set the above parameters](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&milestone_title=%23started&assignee_id=None&sort=priority). You'll still need to filter by the label for your own team.
 
 If you’re in doubt about what to work on, ask your lead. They will be able to tell you.
 
 ## Triaging and Reviewing Code from the rest of the Community
 
-It's every [developers' responsibilities] to triage and review code contributed by the rest of the community, and work with them to get it ready for production.
+It's every [developers' responsibilities](/job-families/engineering/backend-engineer/#responsibilities) to triage and review code contributed by the rest of the community, and work with them to get it ready for production.
 
 Merge requests from the rest of the community should be labeled with the `Community contribution` label.
 
@@ -458,8 +450,6 @@ When evaluating a merge request from the community, please ensure that a relevan
 This should be to be part of your daily routine. For instance, every morning you could triage new merge requests from the rest of the community that are not yet labeled `Community contribution` and either review them or ask a relevant person to review it.
 
 Make sure to follow our [Code Review Guidelines](https://docs.gitlab.com/ee/development/code_review.html).
-
-[developers' responsibilities]: /job-families/engineering/backend-engineer/#responsibilities
 
 ## Working with GitLab.com
 

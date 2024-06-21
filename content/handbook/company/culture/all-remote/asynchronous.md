@@ -149,7 +149,7 @@ The importance of [strong documentation]({{< ref "./handbook-first" >}}) for asy
 
 GitLab has a [handbook-first]({{< ref "handbook-usage#why-handbook-first" >}}) approach to all communication. Our goal is to ensure that our handbook is always up to date and that it is a powerful resource to make our team massively more efficient. The [GitLab handbook](/handbook) would be over 2,000 pages if printed, and it is available to read for any visitor who wants to know how we work.
 
-While you may not choose to have this level of transparency, be aware that [transparent information-sharing]({{< ref "values#transparency" >}}) within your organization is crucial to asynchronous work. Every team member should be empowered to do their work at any time, whether or not their teammates are online and available.
+While you may not choose to have this level of transparency, be aware that [transparent information-sharing](/handbook/values/#transparency) within your organization is crucial to asynchronous work. Every team member should be empowered to do their work at any time, whether or not their teammates are online and available.
 
 #### Using GitLab for remote collaboration
 
@@ -161,7 +161,7 @@ You can learn more at GitLab's [remote team solutions page]({{< ref "gitlab-for-
 
 ### When to use asynchronous instead of synchronous communication
 
-While GitLab has [a bias towards asynchronous communication]({{< ref "values#bias-towards-asynchronous-communication" >}}), a strategic balance between synchronous and asynchronous is useful for achieving maximum [efficiency]({{< ref "values#efficiency" >}}). Working asynchronously is not a goal unto itself; rather, being considerate and opting to move a discussion or project forward asynchronously when feasible *creates* more space for synchronous moments.
+While GitLab has [a bias towards asynchronous communication]({{< ref "values#bias-towards-asynchronous-communication" >}}), a strategic balance between synchronous and asynchronous is useful for achieving maximum [efficiency](/handbook/values/#efficiency). Working asynchronously is not a goal unto itself; rather, being considerate and opting to move a discussion or project forward asynchronously when feasible *creates* more space for synchronous moments.
 
 Highly capable asynchronous work still allows for, and includes at appropriate moments, some synchronous discussion. Async is very powerful for GitLab, but not an absolute — especially if at the expense of our [values]({{< ref "values" >}}).
 
@@ -171,7 +171,7 @@ At GitLab, if you schedule a work-related meeting (e.g. not a [coffee chat]({{< 
 
 If you are creating double work for yourself or others — holding a meeting simply to document what will need to be written down in order to [work handbook-first]({{< ref "handbook-usage#why-handbook-first" >}}) — it is likely more efficient to not hold a meeting and instead work asynchronously.
 
-When considering meetings, review the GitLab value of [Efficiency]({{< ref "values#efficiency" >}}) and following the meeting guidelines in [being respectful of others' time]({{< ref "values#be-respectful-of-others-time" >}}). Do not schedule a coffee chat which is a work-related meeting in disguise.
+When considering meetings, review the GitLab value of [Efficiency](/handbook/values/#efficiency) and following the meeting guidelines in [being respectful of others' time]({{< ref "values#be-respectful-of-others-time" >}}). Do not schedule a coffee chat which is a work-related meeting in disguise.
 
 ## How to implement asynchronous workflows
 
@@ -183,7 +183,7 @@ This removes the temptation to take shortcuts, or to call a [meeting]({{< ref ".
 
 ### Focus on iteration
 
-Practicing [iteration 👣]({{< ref "values#iteration" >}}) at GitLab requires intention and effort. It is often referred to as the most difficult [value](/handbook/values/) to embrace. Iterating on numerous ongoing projects is an ideal forcing function to ensure a [bias toward asynchronous communication]({{< ref "values#bias-towards-asynchronous-communication" >}}).
+Practicing [iteration 👣](/handbook/values/#iteration) at GitLab requires intention and effort. It is often referred to as the most difficult [value](/handbook/values/) to embrace. Iterating on numerous ongoing projects is an ideal forcing function to ensure a [bias toward asynchronous communication]({{< ref "values#bias-towards-asynchronous-communication" >}}).
 
 Asynchronous work can feel taxing and inefficient if you're only working on a single project and you're stuck waiting for another person's contribution. Scheduling your work so you can pick up other tasks while waiting to be unblocked can reduce this downtime.
 
@@ -310,10 +310,10 @@ Examples:
 At GitLab, we have a [bias towards asynchronous communication]({{< ref "#bias-towards-asynchronous-communication" >}}). As a meeting participant, whether you are scheduling or an invitee, question every work-related meeting.
 
 1. What is the outcome I am trying to achieve that has led to my desire to schedule a meeting?
-1. Can the desired outcome be broken down into [smaller tasks]({{< ref "values#iteration" >}})?
+1. Can the desired outcome be broken down into [smaller tasks](/handbook/values/#iteration)?
 1. Can the desired outcome be achieved or worked towards by [dogfooding](/handbook/engineering/development/principles/#dogfooding) and using a [GitLab issue](https://docs.gitlab.com/ee/user/project/issues/) or [merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)?
 1. Am I trying to gather consensus? (*If so, this can be done asynchronously*.)
-1. Am I trying to make a decision after consensus is gathered and there is a [proposal]({{< ref "#make-a-proposal" >}}) to react to? (If so, a meeting may be acceptable if it cannot be agreed upon asynchronously, but remember that outcomes must [still be documented in the handbook]({{< ref "handbook-usage#why-handbook-first" >}}). If your outcome(s) will be documented in the end, it calls into question the [efficiency]({{< ref "values#efficiency" >}}) of a synchronous meeting.)
+1. Am I trying to make a decision after consensus is gathered and there is a [proposal]({{< ref "#make-a-proposal" >}}) to react to? (If so, a meeting may be acceptable if it cannot be agreed upon asynchronously, but remember that outcomes must [still be documented in the handbook]({{< ref "handbook-usage#why-handbook-first" >}}). If your outcome(s) will be documented in the end, it calls into question the [efficiency](/handbook/values/#efficiency) of a synchronous meeting.)
 
 ### When to start synchronously
 
@@ -506,7 +506,7 @@ GitLab team members may question meetings, suggesting an asynchronous alternativ
 
 1. Conduct an asynchronous pilot. This could mean attending half of your weekly meetings async for a week and conducting a retrospective on the differences between sync attendance and async attendance.
 1. Conduct a [non-linear workday]({{< ref "./non-linear-workday" >}}) pilot. Consider shifting your schedule to better suit your peak productivity hours, caregiving hours, or experiment with alternative work schedules that would not be supported in rigidly synchronous organizations.
-1. For any given piece of work, seek to optimize the mix of synchronous and asynchronous engagements for maximum [efficiency]({{< ref "values#efficiency" >}}) and potential for [iteration]({{< ref "values#iteration" >}}).
+1. For any given piece of work, seek to optimize the mix of synchronous and asynchronous engagements for maximum [efficiency](/handbook/values/#efficiency) and potential for [iteration](/handbook/values/#iteration).
 1. Team members have varying learning and communication style preferences (e.g. [neurodiversity]({{< ref "values#embracing-neurodiversity" >}})) that make audio discussion much more effective than written. Thoughtfully timed synchronous discussions ensure that everyone can contribute.
 1. Every meeting should be [a review of a concrete proposal]({{< ref "values#make-a-proposal" >}}) or to catalyze a future series of asynchronous events, and only called when it will lead to a more efficient outcome than would be possible asynchronously.
 1. An initial team-building sync at the start of a project or milestone can unlock a highly efficient follow-on series of asynchronous events. Be mindful to structure these initial syncs intentionally to build rapport and trust. The goal of gathering the group in a shared space should be unambiguous: it serves to equip team members with the context they need to switch primarily to asynchronous afterwards. Note that even these intentionally structured kickoff calls may not be inclusive of all time zones. Thus, it is important to adhere to GitLab's [meeting guidelines]({{< ref "communication#scheduling-meetings" >}}), affixing a Google Doc agenda to the calendar invite, encourging all parties to contribute textually if they cannot attend in person, and recording the full session for future viewing.
@@ -539,13 +539,13 @@ Responses are open to interpretation, though the data provide key insights that 
 1. GitLab is [public by default]({{< ref "values#public-by-default" >}}). If you believe a matter is confidential, check this in the [Not Public]({{< ref "confidentiality-levels#not-public" >}}) section of the Communication handbook.
 1. If you find it difficult to get someone's attention via asynchronous means, consider leveraging a synchronous engagement to discuss potential gaps in expectations. While GitLab is articulate about where work happens, some team members work exclusively from [GitLab's To-Do List](https://docs.gitlab.com/ee/user/todos.html) or Scoped Labels and have varying approaches to prioritization (*see Brand and Digital Design's [Working With Us](/handbook/marketing/digital-experience/#working-with-us) handbook for an example*). Assume positive intent, as delays in response may be attributable to putting [family and friends first]({{< ref "values#family-and-friends-first-work-second" >}}).
 1. The majority of respondents indicated that they leverage synchronous engagements to build rapport and catalyze future async conversations. Having a meeting not because it's *easy*, but because it will create *future efficiencies and cohesion*, is a positive outcome.
-1. It is encouraging that GitLab team members feel that they have the tools, support, and training to rely on asynchronous workflows. However, leaders should be mindful of new tools and practices that GitLab can pilot and surface these in the public `#values` Slack channel. [Iteration]({{< ref "values#iteration" >}}) also applies to our approach to asynchronous communication.
+1. It is encouraging that GitLab team members feel that they have the tools, support, and training to rely on asynchronous workflows. However, leaders should be mindful of new tools and practices that GitLab can pilot and surface these in the public `#values` Slack channel. [Iteration](/handbook/values/#iteration) also applies to our approach to asynchronous communication.
 
 #### GitLab experts advise on when to use sync vs async
 
 1. "I use sync meetings to help others when an urgent matter comes up such as incidents or deadlines."
 1. "I use sync mainly for troubleshooting where more live dialog is faster for all parties to solve the particular issue than async explanations and back and forth."
-1. "I use sync when I have exhausted async options or async is not leading towards [Results]({{< ref "values#results" >}})."
+1. "I use sync when I have exhausted async options or async is not leading towards [Results](/handbook/values/#results)."
 1. "I use sync meetings to generate creative ideas/proposals with my team that quite frankly would be difficult to do async."
 1. "10 minutes on Zoom is more efficient than 100 Slack replies over a few hours or 10 days waiting for GitLab issue thread replies from tagged team members."
 1. "For work-related, formal comms, I prefer async (and choose async when the format is up to me). Sync is great for relationship building (coffee chats, group social chats)."

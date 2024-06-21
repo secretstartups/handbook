@@ -107,7 +107,7 @@ Conversely, small colocated teams are apt to eschew documentation with the assum
 
 As any team scales, greater depths of organizational knowledge are acquired. Each additional hire brings in added expertise and experience. In a colocated setting, this influx of knowledge takes place, but it is unequally disseminated. Those physically close to the next new person are most likely to reap the benefits, while those in a different office — or even a different floor — will be disadvantaged in gleaning the same insights.
 
-In an all-remote setting, everyone is equidistant in practical terms. When your "office" is a Slack room, there is less friction in reaching out to a new employee to seek advice. This has a profound impact at scale, and contributes to a more [transparent]({{< ref "values#transparency" >}}) work climate.
+In an all-remote setting, everyone is equidistant in practical terms. When your "office" is a Slack room, there is less friction in reaching out to a new employee to seek advice. This has a profound impact at scale, and contributes to a more [transparent](/handbook/values/#transparency) work climate.
 
 {{% include "includes/is_this_advice_any_good_remote.md" %}}
 

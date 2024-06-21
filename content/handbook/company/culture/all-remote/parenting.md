@@ -71,7 +71,7 @@ If a work meeting can be scheduled, so can anything else. That could be lunch, t
 ![GitLab commit illustration](/images/all-remote/gitlab-commit-illustration.jpg)
 {style="max-width: 50%;"}
 
-Rules will look different for each family, and they will likely require [iteration]({{< ref "values#iteration" >}}) as projects change and children age. Setting rules of when and how a child (or children) may engage with a working parent is vital. While this may feel rigid or harsh, ambiguity in this area will likely lead to disappointment on both sides. These rules are empowering to the worker, as they're able to share with their manager and teams and weave this into their day-to-day work.
+Rules will look different for each family, and they will likely require [iteration](/handbook/values/#iteration) as projects change and children age. Setting rules of when and how a child (or children) may engage with a working parent is vital. While this may feel rigid or harsh, ambiguity in this area will likely lead to disappointment on both sides. These rules are empowering to the worker, as they're able to share with their manager and teams and weave this into their day-to-day work.
 
 Waiting for work to neatly carve out time for a parent to engage with their child or children is an unwise approach. Be intentional about these ground rules and work with your manager to ensure that they are communicated up/out and respected by your team.
 
@@ -148,7 +148,7 @@ Planning and preparation is wonderful, but as any parent knows, each day brings 
 
 ## Q: How do you manage employees working from home with kids?
 
-Much of the [how to be a great remote manager]({{< ref "./being-a-great-remote-manager" >}}) applies to any and all remote-work situations. However, a truly great manager is able to adapt to their employees' work/home/life situations and be willing to [iterate]({{< ref "values#iteration" >}}) accordingly.
+Much of the [how to be a great remote manager]({{< ref "./being-a-great-remote-manager" >}}) applies to any and all remote-work situations. However, a truly great manager is able to adapt to their employees' work/home/life situations and be willing to [iterate](/handbook/values/#iteration) accordingly.
 
 Some best practices for motivating remote employees balancing caregiving include:
 
@@ -164,7 +164,7 @@ It's not impossible to work from home while being a parent or caregiver; it's in
 
 > What has worked for me is to integrate GitLab into my life, and not the other way around. I set very clear boundaries in my calendar of when is work time and when is family time. Per GitLab's [recommendation]({{< ref "communication#google-calendar" >}}), my calendar is viewable by anyone and clearly has time for: `kids test prep`, `visual therapy for one`, `judo pick-up` and other appointments I have outside of work. This prevents team members from scheduling over these instances.
 >
-> If someone *does* schedule over family time or personal time, I feel confident to decline, unless it is very urgent and I'm blocking it (I always suggest a new time first, before using family time for a meeting). I am also inclined to say that if folks keep scheduling outside of your work time, to make sure you [respond back and highlight that]({{< ref "values#transparency" >}}), and check if you can find an alternative time that works for both of you. — [*Nadia V.*](https://gitlab.com/Vatalidis)
+> If someone *does* schedule over family time or personal time, I feel confident to decline, unless it is very urgent and I'm blocking it (I always suggest a new time first, before using family time for a meeting). I am also inclined to say that if folks keep scheduling outside of your work time, to make sure you [respond back and highlight that](/handbook/values/#transparency), and check if you can find an alternative time that works for both of you. — [*Nadia V.*](https://gitlab.com/Vatalidis)
 >
 > When I joined GitLab, it was great to see things in people's calendars like `baby time`, `homework with kids`, `date night`, etc. Part of [onboarding]({{< ref "./getting-started" >}}) was [coffee chats]({{< ref "./informal-communication#coffee-chats" >}}) so I saw these “meetings” on calendars as I tried to schedule chats. It reinforced our [family first operating principle]({{< ref "values#family-and-friends-first-work-second" >}}), and also normalized these activities. It helped me understand that I could set up similar boundaries and not sacrifice bed time or something similar just to have an empty hour on my calendar. — [*Seth B.*](https://gitlab.com/sethgitlab)
 

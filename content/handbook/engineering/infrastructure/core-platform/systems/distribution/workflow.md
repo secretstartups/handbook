@@ -51,19 +51,19 @@ acting as the [Distribution DRI](#distribution-dri) is prioritized as follows:
 | Priority level | Work item |
 | -|- |
 | 1 | Unblock in-review `~priority::1` Merge Requests |
-| 1 | Pick up `~priority::1` [Merge Requests for review][MR dashboard] |
-| 1 | Work on in-progress `~priority::1` [Deliverable Issues][Deliverable board] |
-| 1 | Pick up available `~priority::1` [Deliverable Issues][Deliverable board] |
+| 1 | Pick up `~priority::1` [Merge Requests for review](https://gitlab-org.gitlab.io/distribution/monitoring/mrs/) |
+| 1 | Work on in-progress `~priority::1` [Deliverable Issues](https://gitlab.com/groups/gitlab-org/-/boards/2415614?label_name[]=Deliverable&label_name[]=group%3A%3Adistribution&assignee_id=None&milestone_title=Upcoming) |
+| 1 | Pick up available `~priority::1` [Deliverable Issues](https://gitlab.com/groups/gitlab-org/-/boards/2415614?label_name[]=Deliverable&label_name[]=group%3A%3Adistribution&assignee_id=None&milestone_title=Upcoming) |
 | 2 | Unblock remaining in-review Merge Requests |
-| 3 | Work on in-progress `~priority::2` [Deliverable Issues][Deliverable board] |
-| 3 | Pick up [SLO-breaching][SLO] [Merge Requests for review][MR dashboard] |
-| 4 | Pick up [SLO-near-breaching][SLO] [Merge Requests for review][MR dashboard] |
-| 5 | Pick up available `~priority::2` [Deliverable Issues][Deliverable board] |
-| 6 | Work on in-progress `~priority::3` [Deliverable Issues][Deliverable board] |
-| 6 | Pick up available `~priority::3` [Deliverable Issues][Deliverable board] |
-| 6 | Pick up [SLO-non-breaching][SLO] [Merge Requests for review][MR dashboard] |
-| 7 | Work on in-progress `~priority::4` [Deliverable Issues][Deliverable board] |
-| 7 | Pick up available `~priority::4` [Deliverable Issues][Deliverable board] |
+| 3 | Work on in-progress `~priority::2` [Deliverable Issues](https://gitlab.com/groups/gitlab-org/-/boards/2415614?label_name[]=Deliverable&label_name[]=group%3A%3Adistribution&assignee_id=None&milestone_title=Upcoming) |
+| 3 | Pick up [SLO-breaching](/handbook/engineering/infrastructure/core-platform/systems/distribution/merge_requests/#service-level-objective) [Merge Requests for review](https://gitlab-org.gitlab.io/distribution/monitoring/mrs/) |
+| 4 | Pick up [SLO-near-breaching](/handbook/engineering/infrastructure/core-platform/systems/distribution/merge_requests/#service-level-objective) [Merge Requests for review](https://gitlab-org.gitlab.io/distribution/monitoring/mrs/) |
+| 5 | Pick up available `~priority::2` [Deliverable Issues](https://gitlab.com/groups/gitlab-org/-/boards/2415614?label_name[]=Deliverable&label_name[]=group%3A%3Adistribution&assignee_id=None&milestone_title=Upcoming) |
+| 6 | Work on in-progress `~priority::3` [Deliverable Issues](https://gitlab.com/groups/gitlab-org/-/boards/2415614?label_name[]=Deliverable&label_name[]=group%3A%3Adistribution&assignee_id=None&milestone_title=Upcoming) |
+| 6 | Pick up available `~priority::3` [Deliverable Issues](https://gitlab.com/groups/gitlab-org/-/boards/2415614?label_name[]=Deliverable&label_name[]=group%3A%3Adistribution&assignee_id=None&milestone_title=Upcoming) |
+| 6 | Pick up [SLO-non-breaching](/handbook/engineering/infrastructure/core-platform/systems/distribution/merge_requests/#service-level-objective) [Merge Requests for review](https://gitlab-org.gitlab.io/distribution/monitoring/mrs/) |
+| 7 | Work on in-progress `~priority::4` [Deliverable Issues](https://gitlab.com/groups/gitlab-org/-/boards/2415614?label_name[]=Deliverable&label_name[]=group%3A%3Adistribution&assignee_id=None&milestone_title=Upcoming) |
+| 7 | Pick up available `~priority::4` [Deliverable Issues](https://gitlab.com/groups/gitlab-org/-/boards/2415614?label_name[]=Deliverable&label_name[]=group%3A%3Adistribution&assignee_id=None&milestone_title=Upcoming) |
 
 Use this prioritization outline as a general guide when determining what to do each day. This list helps direct
 work toward overall team priorities and goals laid out by the team managers.
@@ -216,7 +216,3 @@ For new OS release, Distribution team aims to provide Linux package support per 
 
 See the [`hiring-process`](https://gitlab.com/gitlab-com/people-group/hiring-processes/-/tree/master/Engineering/Infrastructure/CorePlatforms/Distribution)
 project for information on conducting interviews for positions on the Distribution team.
-
-[SLO]: https://about.gitlab.com/handbook/engineering/infrastructure/core-platform/systems/distribution/merge_requests.html#service-level-objective
-[MR dashboard]: https://gitlab-org.gitlab.io/distribution/monitoring/mrs/
-[Deliverable board]: https://gitlab.com/groups/gitlab-org/-/boards/2415614?label_name[]=Deliverable&label_name[]=group%3A%3Adistribution&assignee_id=None&milestone_title=Upcoming

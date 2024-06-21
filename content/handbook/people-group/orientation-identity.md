@@ -7,7 +7,7 @@ The content on this page is inspired by [other sites](#additional-resources) wit
 
 The reasons for creating a Gender and Sexual Orientation Identity page in the GitLab handbook:
 
-1. Many organizations, including the [HRC][hrc], have put careful thought and effort into how these delicate concepts can be explained with clarity, fairness, and respect. At GitLab we should leverage this work.
+1. Many organizations, including the [HRC](https://www.hrc.org/), have put careful thought and effort into how these delicate concepts can be explained with clarity, fairness, and respect. At GitLab we should leverage this work.
 1. Adding it as readable content rather than directing to a new website means this information is searchable within the handbook for folks who are looking for answers as well as making sections directly linkable from elsewhere in the handbook, in issues, slack, etc.
 1. GitLab has employees from around the globe, where the language used may be different. This gives all employees the opportunity to establish a common language framework to help create a healthy, supportive, and inclusive environment.
 
@@ -15,7 +15,7 @@ The reasons for creating a Gender and Sexual Orientation Identity page in the Gi
 
 - [GitLab Ally Resources]({{< ref "ally-resources" >}})
 - [Diversity, Inclusion and Belonging at GitLab](/handbook/company/culture/inclusion/)
-- [Human Rights Campaign website][hrc]
+- [Human Rights Campaign website](https://www.hrc.org/)
   - [HRC Sexual Orientation and Gender Identity Definitions](https://www.hrc.org/resources/sexual-orientation-and-gender-identity-terminology-and-definitions)
   - [HRC Transgender FAQ](https://www.hrc.org/resources/transgender-faq)
 - [The Genderbread Person](https://www.itspronouncedmetrosexual.com/2018/10/the-genderbread-person-v4/)
@@ -224,5 +224,3 @@ The answer to this question, unfortunately, largely depends on where you are in 
 Race, color, religion, national origin, sex (including pregnancy), age, disability, HIV status, sexual orientation, gender identity, marital status, past or present military service, or any other status protected by the laws or regulations in the locations where we operate.
 
 Please review our [anti-discrimination guidelines]({{< ref "anti-harassment#discrimination" >}}) for more information on what is not tolerated at GitLab.
-
-[hrc]: https://www.hrc.org/

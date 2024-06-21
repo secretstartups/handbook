@@ -51,7 +51,7 @@ To talk through Best Practices for Remote Compensation, GitLab partnered with [C
 
 Plainly, we want our compensation to be at a level were we can recruit and retain people who meet our requirements. A far more elaborate explanation can be found in the [Compensation Principles section of GitLab's Handbook]({{< ref "compensation#compensation-principles" >}}).
 
-Deciding how much we pay people who live and work in a multitude of regions across the globe is a continual process. [Iteration]({{< ref "values#iteration" >}}) and [Transparency]({{< ref "values#transparency" >}}) are values at GitLab, and both apply to compensation calculations.
+Deciding how much we pay people who live and work in a multitude of regions across the globe is a continual process. [Iteration](/handbook/values/#iteration) and [Transparency](/handbook/values/#transparency) are values at GitLab, and both apply to compensation calculations.
 
 {{< youtube "CgQNFffuHrc?start=34" >}}
 

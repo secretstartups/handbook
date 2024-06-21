@@ -20,7 +20,7 @@ Hi! 👋 I'm **Cassiana Gudgenov, People Compliance Partner**
 - I'm enthusiastic and empathetic
 - I joined GitLab in Feb 2019
 - I love British comedy and rom coms 😀
-- My favorite GitLab value is [Iteration]({{< ref "values#iteration" >}})
+- My favorite GitLab value is [Iteration](/handbook/values/#iteration)
 - My 5 favorite sub-values are:
   - [Don't wait]({{< ref "values#dont-wait" >}})
   - [Family and friends first, work second]({{< ref "values#family-and-friends-first-work-second" >}})
@@ -47,7 +47,7 @@ People with the S (Supporter) personality type tend to be "calm, patient and res
 - Asking for and taking constructive, direct feedback.
 - Taking ownership and following up.
 - Collaborating across teams.
-- Driven by [efficiency]({{< ref "values#efficiency" >}}) and [results]({{< ref "values#results" >}}).
+- Driven by [efficiency](/handbook/values/#efficiency) and [results](/handbook/values/#results).
 - Taking metrics and OKRs very seriously, and finding healthy ways to achieve them.
 - Measuring the capabilities of others in an positive, encouraging, and optimistic way.
 - Reminding others to stop working, taking time off, and encouraging others to remain healthy (mentally and physically) and family and friends-first.
@@ -59,7 +59,7 @@ People with the S (Supporter) personality type tend to be "calm, patient and res
 
 ## My Working Style
 
-- I prefer long, uninterrupted windows of time for [deep work](/handbook/company/culture/all-remote/asynchronous/#mental-health). I disable **all*- notifications on my Mac and on my phone. This allows me to focus deeply on one task at a time, which is a more [efficient]({{< ref "values#efficiency" >}}) way of working than attempting to [multitask](https://signalvnoise.com/posts/1589-multitasking-is-the-fastest-way-to-mediocrity). In return, I will devote my full attention to your request and respond thoughtfully, with context and passion.
+- I prefer long, uninterrupted windows of time for [deep work](/handbook/company/culture/all-remote/asynchronous/#mental-health). I disable **all*- notifications on my Mac and on my phone. This allows me to focus deeply on one task at a time, which is a more [efficient](/handbook/values/#efficiency) way of working than attempting to [multitask](https://signalvnoise.com/posts/1589-multitasking-is-the-fastest-way-to-mediocrity). In return, I will devote my full attention to your request and respond thoughtfully, with context and passion.
 - Unless specifically mentioned, I don’t expect immediate responses from anyone. I [respect others’ time]({{< ref "communication#be-respectful-of-others-time" >}}) and want you to have the space for a thoughtful response.
 - I embrace [asynchronous workflows](/handbook/company/culture/all-remote/asynchronous/). I prefer variety in my workday [as opposed to routine]({{< ref "values#freedom-and-responsibility-over-rigidity" >}}). I work best when leveraging a [non-linear workday](/handbook/company/culture/all-remote/non-linear-workday/), maximizing daylight hours for being outdoors (if weather permits), hopefully traveling and exploring a new place.
 - I have many strong opinions, but they’re [weakly held](https://blog.codinghorror.com/strong-opinions-weakly-held/). I love finding a new perspective that makes me change my opinion, because it means that I’ve gotten a chance to learn something substantive and new. This also means that I expect my working style will evolve over time.

@@ -81,24 +81,24 @@ We currently measure with an empty cache, the connection limited to `Cable` and 
 
 The URLs from GitLab.com listed in the table below form the basis for measuring performance improvements - these are heavy use cases. The times indicate time passed from web request to "the average time at which visible parts of the page are displayed" (per the definition of Speed Index). Since the "user" of these URLs is a controlled entity in this case, it represents an _external_  measure of our previous performance metric "Speed Index".
 
-| Type |  [2018-04] | [2019-09] | [2020-02] | Now* |
-| Issue List: [GitLab FOSS Issue List] | 2872 | <span class="text-success">1197</span> | - | N/A |
-| Issue List: [GitLab Issue List] |  |  | <span class="text-danger">1581</span> | [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>][grafana gitlab issue list] |
-| Issue: [GitLab FOSS #4058] | 2414 | <span class="text-success">1332</span> | <span class="text-danger">1954</span> | [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>][grafana 4058] |
-| Issue Boards: [GitLab FOSS repo boards] | 3295 | <span class="text-success">1773</span> | - | N/A |
-| Issue Boards: [GitLab repo boards] | | | <span class="text-danger">2619</span> | [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>][grafana gitlab boards] |
-| Merge request: [GitLab FOSS !9546] | 27644 | <span class="text-success">2450</span> | <span class="text-success">1937</span> | [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>][grafana 9546] |
-| Pipelines: [GitLab FOSS pipelines] | 1965 | <span class="text-danger">4098</span> | - | N/A |
-| Pipelines: [GitLab pipelines] | | | <span class="text-danger">4289</span> | [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>][grafana gitlab pipelines] |
-| Pipeline: [GitLab FOSS pipeline 9360254] | 4131 | <span class="text-success">2672</span> |  <span class="text-success">2546</span> | [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>][grafana pipeline 9360254] |
-| Project: [GitLab FOSS project] | 3909 | <span class="text-success">1863</span> | - | N/A |
-| Project: [GitLab project] | | | <span class="text-success">1533</span> | [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>][grafana gitlab project] |
-| Repository: [GitLab FOSS Repository] | 3149 | <span class="text-success">1571</span> | - | N/A |
-| Repository: [GitLab Repository] | | | <span class="text-danger">1867</span> | [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>][grafana gitlab repository] |
-| Single File: [GitLab FOSS Single File Repository] | 2000 | <span class="text-success">1292</span> | - | N/A |
-| Single File: [GitLab Single File Repository] | | | <span class="text-danger">2012</span> | [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>][grafana gitlab single file repository] |
-| Explore: [GitLab explore] | 2346 | <span class="text-success">1354</span> | <span class="text-success">1336</span> | [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>][grafana gitlab explore] |
-| Snippet: [GitLab Snippet 1662597] | 1681 | <span class="text-success">1082</span> | <span class="text-danger">1378</span> | [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>][grafana snippet] |
+| Type |  [2018-04](https://storage.googleapis.com/sitespeed-results-gitlab/gitlab.com/2018-04-24-17-10-35/pages.html) | [2019-09](https://storage.googleapis.com/sitespeed-results-gitlab/gitlab.com/2019-09-13-08-28-42/pages.html) | [2020-02](https://storage.googleapis.com/sitespeed-results-gitlab/gitlab.com/2020-02-27-00-22-14/pages.html) | Now* |
+| Issue List: [GitLab FOSS Issue List](https://gitlab.com/gitlab-org/gitlab-foss/issues) | 2872 | <span class="text-success">1197</span> | - | N/A |
+| Issue List: [GitLab Issue List](https://gitlab.com/gitlab-org/gitlab/issues) |  |  | <span class="text-danger">1581</span> | [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>](https://dashboards.gitlab.net/d/000000043/sitespeed-page-summary?orgId=1&var-base=sitespeed_io&var-path=desktop&var-group=gitlab_com&var-page=_gitlab-org_gitlab_issues&var-browser=chrome&var-connectivity=cable&var-function=median) |
+| Issue: [GitLab FOSS #4058](https://gitlab.com/gitlab-org/gitlab-foss/issues/4058) | 2414 | <span class="text-success">1332</span> | <span class="text-danger">1954</span> | [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>](https://dashboards.gitlab.net/d/000000043/sitespeed-page-summary?orgId=1&var-base=sitespeed_io&var-path=desktop&var-group=gitlab_com&var-page=_gitlab-org_gitlab-foss_issues_4058&var-browser=chrome&var-connectivity=cable&var-function=median) |
+| Issue Boards: [GitLab FOSS repo boards](https://gitlab.com/gitlab-org/gitlab-foss/boards) | 3295 | <span class="text-success">1773</span> | - | N/A |
+| Issue Boards: [GitLab repo boards](https://gitlab.com/gitlab-org/gitlab/-/boards/) | | | <span class="text-danger">2619</span> | [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>](https://dashboards.gitlab.net/d/000000043/sitespeed-page-summary?orgId=1&var-base=sitespeed_io&var-path=desktop&var-group=gitlab_com&var-page=_gitlab-org_gitlab_boards&var-browser=chrome&var-connectivity=cable&var-function=median) |
+| Merge request: [GitLab FOSS !9546](https://gitlab.com/gitlab-org/gitlab-foss/merge_requests/9546) | 27644 | <span class="text-success">2450</span> | <span class="text-success">1937</span> | [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>](https://dashboards.gitlab.net/d/000000043/sitespeed-page-summary?orgId=1&var-base=sitespeed_io&var-path=desktop&var-group=gitlab_com&var-page=_gitlab-org_gitlab-foss_merge_requests_9546&var-browser=chrome&var-connectivity=cable&var-function=median) |
+| Pipelines: [GitLab FOSS pipelines](https://gitlab.com/gitlab-org/gitlab-foss/pipelines) | 1965 | <span class="text-danger">4098</span> | - | N/A |
+| Pipelines: [GitLab pipelines](https://gitlab.com/gitlab-org/gitlab/pipelines) | | | <span class="text-danger">4289</span> | [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>](https://dashboards.gitlab.net/d/000000043/sitespeed-page-summary?orgId=1&var-base=sitespeed_io&var-path=desktop&var-group=gitlab_com&var-page=_gitlab-org_gitlab_pipelines&var-browser=chrome&var-connectivity=cable&var-function=median) |
+| Pipeline: [GitLab FOSS pipeline 9360254](https://gitlab.com/gitlab-org/gitlab-foss/pipelines/9360254) | 4131 | <span class="text-success">2672</span> |  <span class="text-success">2546</span> | [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>](https://dashboards.gitlab.net/d/000000043/sitespeed-page-summary?orgId=1&var-base=sitespeed_io&var-path=desktop&var-group=gitlab_com&var-page=_gitlab-org_gitlab-foss_pipelines_9360254&var-browser=chrome&var-connectivity=cable&var-function=median) |
+| Project: [GitLab FOSS project](https://gitlab.com/gitlab-org/gitlab-foss) | 3909 | <span class="text-success">1863</span> | - | N/A |
+| Project: [GitLab project](https://gitlab.com/gitlab-org/gitlab) | | | <span class="text-success">1533</span> | [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>](https://dashboards.gitlab.net/d/000000043/sitespeed-page-summary?orgId=1&var-base=sitespeed_io&var-path=desktop&var-group=gitlab_com&var-page=_gitlab-org_gitlab&var-browser=chrome&var-connectivity=cable&var-function=median) |
+| Repository: [GitLab FOSS Repository](https://gitlab.com/gitlab-org/gitlab-foss/tree/master) | 3149 | <span class="text-success">1571</span> | - | N/A |
+| Repository: [GitLab Repository](https://gitlab.com/gitlab-org/gitlab/tree/master) | | | <span class="text-danger">1867</span> | [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>](https://dashboards.gitlab.net/d/000000043/sitespeed-page-summary?orgId=1&var-base=sitespeed_io&var-path=desktop&var-group=gitlab_com&var-page=_gitlab-org_gitlab_tree_master&var-browser=chrome&var-connectivity=cable&var-function=median) |
+| Single File: [GitLab FOSS Single File Repository](https://gitlab.com/gitlab-org/gitlab-foss/blob/master/app/assets/javascripts/main.js) | 2000 | <span class="text-success">1292</span> | - | N/A |
+| Single File: [GitLab Single File Repository](https://gitlab.com/gitlab-org/gitlab/blob/master/app/assets/javascripts/main.js) | | | <span class="text-danger">2012</span> | [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>](https://dashboards.gitlab.net/d/000000043/sitespeed-page-summary?orgId=1&var-base=sitespeed_io&var-path=desktop&var-group=gitlab_com&var-page=_gitlab-org_gitlab_blob_master_app_assets_javascripts_main_js&var-browser=chrome&var-connectivity=cable&var-function=median) |
+| Explore: [GitLab explore](https://gitlab.com/explore) | 2346 | <span class="text-success">1354</span> | <span class="text-success">1336</span> | [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>](https://dashboards.gitlab.net/d/000000043/sitespeed-page-summary?orgId=1&var-base=sitespeed_io&var-path=desktop&var-group=gitlab_com&var-page=_explore&var-browser=chrome&var-connectivity=cable&var-function=median) |
+| Snippet: [GitLab Snippet 1662597](https://gitlab.com/snippets/1662597) | 1681 | <span class="text-success">1082</span> | <span class="text-danger">1378</span> | [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>](https://dashboards.gitlab.net/d/000000043/sitespeed-page-summary?orgId=1&var-base=sitespeed_io&var-path=desktop&var-group=gitlab_com&var-page=_snippets_1662597&var-browser=chrome&var-connectivity=cable&var-function=median) |
 
 *To access the sitespeed grafana dashboards you need to be logged into your Google account
 
@@ -113,47 +113,6 @@ The URLs from GitLab.com listed in the table below form the basis for measuring 
 [Sitespeed - Page timing summaries](https://dashboards.gitlab.net/d/000000044/sitespeed-page-timing-metrics)
 
 If you activate the `runs` toggle you will have annotations with links to all full reports. Currently we are running measurements every 2 hours.
-
-<!-- issue links -->
-[GitLab FOSS Issue List]: https://gitlab.com/gitlab-org/gitlab-foss/issues
-[GitLab Issue List]: https://gitlab.com/gitlab-org/gitlab/issues
-[GitLab FOSS #4058]: https://gitlab.com/gitlab-org/gitlab-foss/issues/4058
-[2018-04]: https://storage.googleapis.com/sitespeed-results-gitlab/gitlab.com/2018-04-24-17-10-35/pages.html
-[2019-09]: https://storage.googleapis.com/sitespeed-results-gitlab/gitlab.com/2019-09-13-08-28-42/pages.html
-[2020-02]: https://storage.googleapis.com/sitespeed-results-gitlab/gitlab.com/2020-02-27-00-22-14/pages.html
-<!-- MR links -->
-[GitLab FOSS !9546]: https://gitlab.com/gitlab-org/gitlab-foss/merge_requests/9546
-<!-- Pipeline links -->
-[GitLab FOSS pipeline 9360254]: https://gitlab.com/gitlab-org/gitlab-foss/pipelines/9360254
-[GitLab FOSS pipelines]: https://gitlab.com/gitlab-org/gitlab-foss/pipelines
-[GitLab pipelines]: https://gitlab.com/gitlab-org/gitlab/pipelines
-<!-- Repo links -->
-[GitLab FOSS project]: https://gitlab.com/gitlab-org/gitlab-foss
-[GitLab project]: https://gitlab.com/gitlab-org/gitlab
-<!-- Issue board links -->
-[GitLab FOSS repo boards]: https://gitlab.com/gitlab-org/gitlab-foss/boards
-[GitLab repo boards]: https://gitlab.com/gitlab-org/gitlab/-/boards/
-<!-- GitLab Explore -->
-[GitLab explore]: https://gitlab.com/explore
-<!-- GitLab Repository-->
-[GitLab FOSS Repository]: https://gitlab.com/gitlab-org/gitlab-foss/tree/master
-[GitLab Repository]: https://gitlab.com/gitlab-org/gitlab/tree/master
-[GitLab FOSS Single File Repository]: https://gitlab.com/gitlab-org/gitlab-foss/blob/master/app/assets/javascripts/main.js
-[GitLab Single File Repository]: https://gitlab.com/gitlab-org/gitlab/blob/master/app/assets/javascripts/main.js
-<!-- GitLab Snippets -->
-[GitLab Snippet 1662597]: https://gitlab.com/snippets/1662597
-<!-- Grafana links -->
-[grafana gitlab issue list]: https://dashboards.gitlab.net/d/000000043/sitespeed-page-summary?orgId=1&var-base=sitespeed_io&var-path=desktop&var-group=gitlab_com&var-page=_gitlab-org_gitlab_issues&var-browser=chrome&var-connectivity=cable&var-function=median
-[grafana 4058]: https://dashboards.gitlab.net/d/000000043/sitespeed-page-summary?orgId=1&var-base=sitespeed_io&var-path=desktop&var-group=gitlab_com&var-page=_gitlab-org_gitlab-foss_issues_4058&var-browser=chrome&var-connectivity=cable&var-function=median
-[grafana 9546]: https://dashboards.gitlab.net/d/000000043/sitespeed-page-summary?orgId=1&var-base=sitespeed_io&var-path=desktop&var-group=gitlab_com&var-page=_gitlab-org_gitlab-foss_merge_requests_9546&var-browser=chrome&var-connectivity=cable&var-function=median
-[grafana pipeline 9360254]: https://dashboards.gitlab.net/d/000000043/sitespeed-page-summary?orgId=1&var-base=sitespeed_io&var-path=desktop&var-group=gitlab_com&var-page=_gitlab-org_gitlab-foss_pipelines_9360254&var-browser=chrome&var-connectivity=cable&var-function=median
-[grafana gitlab boards]: https://dashboards.gitlab.net/d/000000043/sitespeed-page-summary?orgId=1&var-base=sitespeed_io&var-path=desktop&var-group=gitlab_com&var-page=_gitlab-org_gitlab_boards&var-browser=chrome&var-connectivity=cable&var-function=median
-[grafana gitlab pipelines]: https://dashboards.gitlab.net/d/000000043/sitespeed-page-summary?orgId=1&var-base=sitespeed_io&var-path=desktop&var-group=gitlab_com&var-page=_gitlab-org_gitlab_pipelines&var-browser=chrome&var-connectivity=cable&var-function=median
-[grafana gitlab explore]: https://dashboards.gitlab.net/d/000000043/sitespeed-page-summary?orgId=1&var-base=sitespeed_io&var-path=desktop&var-group=gitlab_com&var-page=_explore&var-browser=chrome&var-connectivity=cable&var-function=median
-[grafana gitlab repository]: https://dashboards.gitlab.net/d/000000043/sitespeed-page-summary?orgId=1&var-base=sitespeed_io&var-path=desktop&var-group=gitlab_com&var-page=_gitlab-org_gitlab_tree_master&var-browser=chrome&var-connectivity=cable&var-function=median
-[grafana gitlab single file repository]: https://dashboards.gitlab.net/d/000000043/sitespeed-page-summary?orgId=1&var-base=sitespeed_io&var-path=desktop&var-group=gitlab_com&var-page=_gitlab-org_gitlab_blob_master_app_assets_javascripts_main_js&var-browser=chrome&var-connectivity=cable&var-function=median
-[grafana snippet]: https://dashboards.gitlab.net/d/000000043/sitespeed-page-summary?orgId=1&var-base=sitespeed_io&var-path=desktop&var-group=gitlab_com&var-page=_snippets_1662597&var-browser=chrome&var-connectivity=cable&var-function=median
-[grafana gitlab project]: https://dashboards.gitlab.net/d/000000043/sitespeed-page-summary?orgId=1&var-base=sitespeed_io&var-path=desktop&var-group=gitlab_com&var-page=_gitlab-org_gitlab&var-browser=chrome&var-connectivity=cable&var-function=median
 
 ---
 
@@ -388,16 +347,16 @@ Guide to this table:
 |<a name="tb-haproxy2azlb"></a>&nbsp;&nbsp;&nbsp;&nbsp;[_HAProxy to Azure LB_](#haproxy2azlb)               |      1        |~2| ? |~2|                        |
 |<a name="tb-azlb2browser"></a>&nbsp;&nbsp;&nbsp;&nbsp;[_Azure LB to Browser_](#azlb2browser)               |      1        |~20| ? |~20|                        |
 |<a name="tb-renderpage"></a>[**RENDER PAGE**](#renderpage) |  |         |         |              |                        |
-|<a name="tb-browser-firstbyte"></a> [**FIRST BYTE**](#browser-firstbyte) (see [note 1](#note-blackbox))]  |   | **1080 - 6347** |   [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>](https://dashboards.gitlab.net/dashboard/db/gitlab-web-status)      | **1000**  |                        |
-|<a name="tb-reaching-speed-index"></a>[**SPEED INDEX**](#reaching-speed-index) (see [note 2](#note-fp-times)) |  | **3230 - 14454** | [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>](http://207.154.197.115/gl/sitespeed-result/gitlab.com/)  |   **2000**     | [Remove inline scripts](https://gitlab.com/gitlab-org/gitlab-ce/issues/34903), [Defer script loading when possible](https://gitlab.com/gitlab-org/gitlab-ce/merge_requests/12759), [Lazy load images](https://gitlab.com/gitlab-org/gitlab-ce/issues/34361), [Set up a CDN for faster asset loading](https://gitlab.com/gitlab-com/infrastructure/issues/2092), [Use image resizing in CDN](https://gitlab.com/gitlab-org/gitlab-ce/issues/34364) |
-|<a name="tb-reaching-fullyloaded"></a>[Fully Loaded](#reaching-fullyloaded) (see [note](#note-fl-time)) |  |   6093 - 14003   |  [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>](http://207.154.197.115/gl/sitespeed-result/gitlab.com/)  |  not specified  |   [Enable webpack code splitting](https://gitlab.com/gitlab-org/gitlab-ce/issues/33391) |
+|<a name="tb-browser-firstbyte"></a> [**FIRST BYTE**](#browser-firstbyte) (see [note 1][^1])]  |   | **1080 - 6347** |   [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>](https://dashboards.gitlab.net/dashboard/db/gitlab-web-status)      | **1000**  |                        |
+|<a name="tb-reaching-speed-index"></a>[**SPEED INDEX**](#reaching-speed-index) (see [note 2][^2]) |  | **3230 - 14454** | [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>](http://207.154.197.115/gl/sitespeed-result/gitlab.com/)  |   **2000**     | [Remove inline scripts](https://gitlab.com/gitlab-org/gitlab-ce/issues/34903), [Defer script loading when possible](https://gitlab.com/gitlab-org/gitlab-ce/merge_requests/12759), [Lazy load images](https://gitlab.com/gitlab-org/gitlab-ce/issues/34361), [Set up a CDN for faster asset loading](https://gitlab.com/gitlab-com/infrastructure/issues/2092), [Use image resizing in CDN](https://gitlab.com/gitlab-org/gitlab-ce/issues/34364) |
+|<a name="tb-reaching-fullyloaded"></a>[Fully Loaded](#reaching-fullyloaded) (see [note][^3]) |  |   6093 - 14003   |  [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>](http://207.154.197.115/gl/sitespeed-result/gitlab.com/)  |  not specified  |   [Enable webpack code splitting](https://gitlab.com/gitlab-org/gitlab-ce/issues/33391) |
 |---------------------------------------------------------|---------------|---------|---------|--------------|------------------------|
 
 **Notes:**
 
-- 1\. <a name="note-blackbox"></a> The range here corresponds to the range in First Byte times of the 4 sample URLs provided in the First Byte [table](#first-byte). However, based on all _non-staging_ URL's measured in [this dashboard](https://dashboards.gitlab.net/dashboard/db/gitlab-web-status?refresh=1m&panelId=14&fullscreen&orgId=1&from=now-90d&to=now), between 2017-03-30 and 2017-06-28, the number would be 3,833 ms.
-- 2\. <a name="note-fp-times"></a> The range here corresponds to the range in Speed Indices of the 4 sample URLs provided in the Speed Index table.
-- 3\. <a name="note-fl-time"></a> The range here corresponds to the range in Fully Loaded times of the 4 sample URLs provided in the Speed Index table.
+[^1]: 1\. <a name="note-blackbox"></a> The range here corresponds to the range in First Byte times of the 4 sample URLs provided in the First Byte [table](#first-byte). However, based on all _non-staging_ URL's measured in [this dashboard](https://dashboards.gitlab.net/dashboard/db/gitlab-web-status?refresh=1m&panelId=14&fullscreen&orgId=1&from=now-90d&to=now), between 2017-03-30 and 2017-06-28, the number would be 3,833 ms.
+[^2]: 2\. <a name="note-fp-times"></a> The range here corresponds to the range in Speed Indices of the 4 sample URLs provided in the Speed Index table.
+[^3]: 3\. <a name="note-fl-time"></a> The range here corresponds to the range in Fully Loaded times of the 4 sample URLs provided in the Speed Index table.
 
 ### Git Commit Push
 
@@ -419,22 +378,10 @@ Timing history for First Byte are listed in the table below (click on the tachom
 
 | Type |  End of Q4-17 | Now |
 |------|--------------:|-------------:|-------------:|-----|
-| Issue: [GitLab CE #4058] | [857]| [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>](http://207.154.197.115/gl/sitespeed-result/gitlab.com/) |
-| Merge request: [GitLab CE !9546] | [18673] | [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>](http://207.154.197.115/gl/sitespeed-result/gitlab.com/) |
-| Pipeline: [GitLab CE pipeline 9360254] | [1529] | [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>](http://207.154.197.115/gl/sitespeed-result/gitlab.com/) |
-| Repo: [GitLab CE repo] | [1076] | [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>](http://207.154.197.115/gl/sitespeed-result/gitlab.com/) |
-
-<!-- issue links -->
-[GitLab CE #4058]: https://gitlab.com/gitlab-org/gitlab-ce/issues/4058
-[857]: http://207.154.197.115/gl/sitespeed-result/gitlab.com/2017-12-27-19-26-37/pages/gitlab.com/gitlab-org/gitlab-ce/issues/4058/index.html
-<!-- MR links -->
-[GitLab CE !9546]: https://gitlab.com/gitlab-org/gitlab-ce/merge_requests/9546
-[18673]: http://207.154.197.115/gl/sitespeed-result/gitlab.com/2017-12-27-19-26-37/pages/gitlab.com/gitlab-org/gitlab-ce/merge_requests/9546/index.html
-<!-- Pipeline links -->
-[1529]: http://207.154.197.115/gl/sitespeed-result/gitlab.com/2017-12-27-19-26-37/pages/gitlab.com/gitlab-org/gitlab-ce/pipelines/9360254/index.html
-<!-- Repo links -->
-[GitLab CE repo]: https://gitlab.com/gitlab-org/gitlab-ce/tree/master
-[1076]: http://207.154.197.115/gl/sitespeed-result/gitlab.com/2017-12-27-19-26-37/pages/gitlab.com/gitlab-org/gitlab-ce/tree/master/index.html
+| Issue: [GitLab CE #4058](https://gitlab.com/gitlab-org/gitlab-ce/issues/4058) | [857](http://207.154.197.115/gl/sitespeed-result/gitlab.com/2017-12-27-19-26-37/pages/gitlab.com/gitlab-org/gitlab-ce/issues/4058/index.html) | [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>](http://207.154.197.115/gl/sitespeed-result/gitlab.com/) |
+| Merge request: [GitLab CE !9546](https://gitlab.com/gitlab-org/gitlab-ce/merge_requests/9546) | [18673](http://207.154.197.115/gl/sitespeed-result/gitlab.com/2017-12-27-19-26-37/pages/gitlab.com/gitlab-org/gitlab-ce/merge_requests/9546/index.html) | [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>](http://207.154.197.115/gl/sitespeed-result/gitlab.com/) |
+| Pipeline: [GitLab CE pipeline 9360254] | [1529](http://207.154.197.115/gl/sitespeed-result/gitlab.com/2017-12-27-19-26-37/pages/gitlab.com/gitlab-org/gitlab-ce/pipelines/9360254/index.html) | [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>](http://207.154.197.115/gl/sitespeed-result/gitlab.com/) |
+| Repo: [GitLab CE repo](https://gitlab.com/gitlab-org/gitlab-ce/tree/master) | [1076](http://207.154.197.115/gl/sitespeed-result/gitlab.com/2017-12-27-19-26-37/pages/gitlab.com/gitlab-org/gitlab-ce/tree/master/index.html) | [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>](http://207.154.197.115/gl/sitespeed-result/gitlab.com/) |
 
 ### Internal
 

@@ -664,7 +664,7 @@ In the case where we mark an incident as a duplicate, we should issue the follow
 
 ### Related Issues
 
-There are [related issue links] on the incident template that should be used to create related issues from an incident.
+There are [related issue links](https://gitlab.com/gitlab-com/gl-infra/production/-/blob/5343440ac4ef41fa5a27053a6938480d229bee3e/.gitlab/issue_templates/incident.md#create-related-issues) on the incident template that should be used to create related issues from an incident.
 
 - Corrective action: Creates a new corrective action in the reliability tracker.
 - Investigation followup: Investigation follow-ups for any root cause investigation, analysis or tracking an alert silence that will be done after the incident is resolved
@@ -692,7 +692,7 @@ There are [related issue links] on the incident template that should be used to 
 ### Alert Silences
 
 If an [alert silence](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/monitoring/alerts_manual.md#silencing) is created for an active incident, the incident should be resolved with the `~"alertmanager-silence"` label and the appropriate root cause label if it is known.
-There should also be a linked ~infradev issue for the long term solution or an investigation issue created using the [related issue links] on the incident template.
+There should also be a linked ~infradev issue for the long term solution or an investigation issue created using the [related issue links](https://gitlab.com/gitlab-com/gl-infra/production/-/blob/5343440ac4ef41fa5a27053a6938480d229bee3e/.gitlab/issue_templates/incident.md#create-related-issues) on the incident template.
 
 ### Incident Board
 
@@ -721,5 +721,3 @@ When a near miss occurs, we should treat it in a similar manner to a normal inci
 1. Open an [incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident) issue, if one is not already opened. Label it with the severity label appropriate to the incident it would have caused, had the incident actually occurred. Label the incident issue with the `~Near Miss` label.
 1. [corrective actions](/handbook/engineering/infrastructure/incident-management/#corrective-actions) should be treated in the same way as those for an actual incident.
 1. Ownership of the incident review should be assigned to the team-member who noticed the near-miss, or, when appropriate, the team-member with the most knowledge of how the near-miss came about.
-
-[related issue links]: https://gitlab.com/gitlab-com/gl-infra/production/-/blob/5343440ac4ef41fa5a27053a6938480d229bee3e/.gitlab/issue_templates/incident.md#create-related-issues

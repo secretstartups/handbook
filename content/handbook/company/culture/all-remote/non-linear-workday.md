@@ -26,7 +26,7 @@ A common recommendation for those new to remote work is to find a routine early 
 
 Routine is a common suggestion not necessarily because it is *good*, but because it is *tradition*. Routine is mandated in a colocated environment, where team members are required to commute and work between fixed hours. We have been conditioned to believe that routine keeps us disciplined, when in reality, routine simply makes it easier for colocated companies to keep workers in line.
 
-Many people adhere to routines simply because they know no other way. Remote allows another option, thanks to the tremendous benefits of [asynchronous workflows]({{< ref "./asynchronous" >}}), [handbook-first documentation]({{< ref "./handbook-first" >}}), and companywide [transparency]({{< ref "values#transparency" >}}).
+Many people adhere to routines simply because they know no other way. Remote allows another option, thanks to the tremendous benefits of [asynchronous workflows]({{< ref "./asynchronous" >}}), [handbook-first documentation]({{< ref "./handbook-first" >}}), and companywide [transparency](/handbook/values/#transparency).
 
 ## What is a non-linear workday?
 
@@ -117,7 +117,7 @@ There is more benefit to working remotely than simply getting rid of the commute
 
 You can explore our [complete guide for remote workers]({{< ref "./getting-started" >}}), which contains great tips for staying organized such as:
 
-- Invest time [learning the company's technology & tools]({{< ref "./getting-started#familiarize-yourself-with-the-companys-technology--tools" >}}) to maximize [efficiency]({{< ref "values#efficiency" >}})
+- Invest time [learning the company's technology & tools]({{< ref "./getting-started#familiarize-yourself-with-the-companys-technology--tools" >}}) to maximize [efficiency](/handbook/values/#efficiency)
 - Develop a [schedule]({{< ref "./getting-started#develop-a-schedule-that-you-can-initially-follow" >}}) that you can test and tweak
 - Create strategic [connections with co-workers]({{< ref "./getting-started#how-to-connect-with-people-when-starting-a-remote-job" >}})
 - Set up [work-life boundaries]({{< ref "./getting-started#set-up-work-life-boundaries" >}})
@@ -137,7 +137,7 @@ The more this bothers you, the further you need to distance your organization fr
 
 Answering the above will allow you to truly evaluate what elements of routine are beneficial to you, and which are holding you back.
 
-The above skiing example is a maximally [efficient]({{< ref "values#efficiency" >}}) day. It was a full working day, and a full day of exploring and spending meaningful time with family. The above team member could've opted to take PTO ([paid time off]({{< ref "paid-time-off" >}})), or opted for a shorter ski session. He could've taken a half-day, thereby extending the ski session or simply providing more buffer time between work and play.
+The above skiing example is a maximally [efficient](/handbook/values/#efficiency) day. It was a full working day, and a full day of exploring and spending meaningful time with family. The above team member could've opted to take PTO ([paid time off]({{< ref "paid-time-off" >}})), or opted for a shorter ski session. He could've taken a half-day, thereby extending the ski session or simply providing more buffer time between work and play.
 
 You could swap anything in for skiing and envision how it could apply to you. From participating in midday school activities with your children, to helping with a midday community service event, to being available to serve as support during an important medical appointment for a loved one — the examples are endless.
 

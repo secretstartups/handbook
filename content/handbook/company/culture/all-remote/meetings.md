@@ -73,7 +73,7 @@ When you work in a global all-remote company, the usual assumptions about availa
 
 In many companies, synchronous meetings are used as a mechanism to create consensus. As you'll read in the [Leadership](/handbook/leadership) portion of GitLab's handbook, we are not a democratic or consensus driven company. People are encouraged to give their comments and opinions, but in the end one person decides the matter after they have listened to all the feedback.
 
-This works because of our values, which leads GitLab to hire individuals who enjoy being a manager of one, a point detailed in our [Efficiency value]({{< ref "values#efficiency" >}}). Team members are empowered to decide whether a sync meeting is the best use of their time, and [set boundaries]({{< ref "./mental-health#be-transparent-about-boundaries" >}}) when needed.
+This works because of our values, which leads GitLab to hire individuals who enjoy being a manager of one, a point detailed in our [Efficiency value](/handbook/values/#efficiency). Team members are empowered to decide whether a sync meeting is the best use of their time, and [set boundaries]({{< ref "./mental-health#be-transparent-about-boundaries" >}}) when needed.
 
 #### Record meetings to encourage async participation
 
@@ -192,11 +192,11 @@ Learn more in the [Communication section of GitLab's Handbook]({{< ref "communic
 
 ### 10. Say thanks and be creative
 
-At GitLab, we have a dedicated Slack channel [devoted to saying thanks]({{< ref "communication#say-thanks" >}}). Kindness is embedded in our [Collaboration]({{< ref "values#collaboration" >}}) value, and gratitude is an essential part of our culture. This reinforces what connects us as a [geographically diverse](/handbook/company/culture/inclusion#fully-distributed-and-completely-connected) team.
+At GitLab, we have a dedicated Slack channel [devoted to saying thanks]({{< ref "communication#say-thanks" >}}). Kindness is embedded in our [Collaboration](/handbook/values/#collaboration) value, and gratitude is an essential part of our culture. This reinforces what connects us as a [geographically diverse](/handbook/company/culture/inclusion#fully-distributed-and-completely-connected) team.
 
 A great example of several GitLab's [values]({{< ref "values" >}}) being used to generate a creative outcome from a regularly scheduled meeting is detailed on the company blog: ["How we turned a dull weekly all-hands into a podcast"](https://about.gitlab.com/blog/2019/06/03/how-we-turned-40-person-meeting-into-a-podcast)
 
-While we can thanks team members within meetings, we do not thank each other for meeting participation as this is not part of our values and could reward folks attending meetings that they are not required in. This would not support [efficiency]({{< ref "values#efficiency" >}}), a GitLab value.
+While we can thanks team members within meetings, we do not thank each other for meeting participation as this is not part of our values and could reward folks attending meetings that they are not required in. This would not support [efficiency](/handbook/values/#efficiency), a GitLab value.
 
 ## Remote meeting FAQ's
 
@@ -304,7 +304,7 @@ When agendas are shared at least 72 hours in advance, you can have efficient asy
 
 ### How do you create a low meeting culture?
 
-In addition to making it effective and efficient for participants to contribute asynchronously, don't thank people for showing up in meetings. At GitLab [results]({{< ref "values#results" >}}) and [efficiency]({{< ref "values#efficiency" >}}) are values, participation is not.
+In addition to making it effective and efficient for participants to contribute asynchronously, don't thank people for showing up in meetings. At GitLab [results](/handbook/values/#results) and [efficiency](/handbook/values/#efficiency) are values, participation is not.
 
 ### How do you keep participants engaged in a remote meeting?
 

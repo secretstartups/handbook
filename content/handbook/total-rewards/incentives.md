@@ -252,19 +252,19 @@ We do what we promised to each other, customers, users, and investors. The value
 
 ##### Efficiency Award
 
-Working efficiently on the most important business initiatives enables us to make fast progress, which makes our work more fulfilling. The value award for [Efficiency]({{< ref "values#efficiency" >}}) should be awarded to a team member that helped make fast progress through for example championing writing things down, embracing change or being a manager of one.
+Working efficiently on the most important business initiatives enables us to make fast progress, which makes our work more fulfilling. The value award for [Efficiency](/handbook/values/#efficiency) should be awarded to a team member that helped make fast progress through for example championing writing things down, embracing change or being a manager of one.
 
 ##### Diversity, Inclusion & Belonging Award
 
-We aim to make a significant impact in our efforts to foster an environment where everyone can thrive. The value award for [Diversity, Inclusion and Belonging]({{< ref "values#diversity-inclusion" >}}) should be awarded to a team member that contributed to creating an environment where people from every background and circumstance feel like they belong and can contribute through for example: their bias towards asynchronous communication, seeking diverse perspectives or embracing neurodiversity.
+We aim to make a significant impact in our efforts to foster an environment where everyone can thrive. The value award for [Diversity, Inclusion and Belonging](/handbook/values/#diversity-inclusion) should be awarded to a team member that contributed to creating an environment where people from every background and circumstance feel like they belong and can contribute through for example: their bias towards asynchronous communication, seeking diverse perspectives or embracing neurodiversity.
 
 ##### Iteration Award
 
-We do the smallest thing possible and get it out as quickly as possible. The value award for [Iteration]({{< ref "values#iteration" >}}) should be awarded to a team member that contributed or displayed iteration that led to faster results through for example: setting a due date, minimal viable change (MVC) or low level of shame.
+We do the smallest thing possible and get it out as quickly as possible. The value award for [Iteration](/handbook/values/#iteration) should be awarded to a team member that contributed or displayed iteration that led to faster results through for example: setting a due date, minimal viable change (MVC) or low level of shame.
 
 ##### Transparency Award
 
-By making information public, we can reduce the threshold to contribution and make collaboration easier. The value award for [Transparency]({{< ref "values#transparency" >}}) should be awarded to a team member that contributed or displayed transparency through for example: determining what is not public, use of a single source of truth and saying why not what.
+By making information public, we can reduce the threshold to contribution and make collaboration easier. The value award for [Transparency](/handbook/values/#transparency) should be awarded to a team member that contributed or displayed transparency through for example: determining what is not public, use of a single source of truth and saying why not what.
 
 #### Criteria for value awards
 
@@ -297,7 +297,7 @@ Chances are that if you work at GitLab, you have great friends and peers who wou
 - In the past, we had a tiered system of referral bonuses, but we've simplified the structure to add a flat bonus amount.
 - [$1,500](/handbook/total-rewards/compensation/#exchange-rates) base referral bonus for a new hire.
 
-We encourage and support [diversity]({{< ref "values#diversity-inclusion" >}}) on our team and in our hiring practices and encourage team members to consider whether their are potential candidates in their networks who identify as members of underrepresented groups in tech.
+We encourage and support [diversity](/handbook/values/#diversity-inclusion) on our team and in our hiring practices and encourage team members to consider whether their are potential candidates in their networks who identify as members of underrepresented groups in tech.
 
 Please note if the team member has a hire date effective **before 2023-11-20**, then the [previous](/handbook/hiring/referral-operations/#adding-a-referral-to-workday-people-connect-team) mentioned referral bonus amounts apply.
 
@@ -377,11 +377,9 @@ Please note in FY21-Q1, GitLab suspended the Original Visiting Grant program unt
 
 Note that meals and local travel while visiting are not typically covered for anyone as that wouldn't really be fair to those being visited. It may be acceptable to cover a meal, however, if the meeting is pre-announced to other people in the region to encourage as many of them to attend as possible and there are four or more GitLab team-members attending.
 
-There are many regular meet-ups of GitLab team-members in many cities. We have a [shared calendar][meetup-calendar] to view the schedule. Subscribe to it, make use of the visiting grant, and join meet-ups near you (or far away!).
+There are many regular meet-ups of GitLab team-members in many cities. We have a [shared calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV85cWZnajRuMm9nZHMydmlhMDFrb3ZoaGpub0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) to view the schedule. Subscribe to it, make use of the visiting grant, and join meet-ups near you (or far away!).
 
 To claim the grant, include a line item on your expense report or invoice along with the receipt of your flights, trains, and/or transportation to and from the airport with a list of the team members you visited. The expense report may be submitted during the first month of travel or up to 3 months after your trip has concluded. That said, if it's more [frugal]({{< ref "values#frugality" >}}) to book and expense your travel further in advance, please do so.
-
-[meetup-calendar]: https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV85cWZnajRuMm9nZHMydmlhMDFrb3ZoaGpub0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t
 
 ### Significant Life Event Grants (suspended)
 

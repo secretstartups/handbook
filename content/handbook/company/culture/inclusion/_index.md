@@ -267,7 +267,7 @@ Our [all-remote culture]({{< ref "all-remote" >}}) provides an ideal work enviro
 
 We encourage military veterans and spouses to [read testimonials](/handbook/company/culture/all-remote/people#military-spouses-and-families) from GitLab team members to understand the benefits of all-remote when [joining the workforce](/handbook/company/culture/all-remote/getting-started) following military service. We are committed to our [Military Leave](/handbook/people-policies/leave-of-absence#military-leave) policy.
 
-*GitLab is actively [iterating]({{< ref "values#iteration" >}}) within Diversity, Inclusion & Belonging and Talent Acquisition to ensure that additional underrepresented groups are pursued, embraced, and positioned for success.*
+*GitLab is actively [iterating](/handbook/values/#iteration) within Diversity, Inclusion & Belonging and Talent Acquisition to ensure that additional underrepresented groups are pursued, embraced, and positioned for success.*
 
 ### Disability Inclusion
 
@@ -322,7 +322,7 @@ If you are a team member on a GitLab Inc or Federal contract and a disabled vete
 
 ## Diversity, Inclusion and Belonging and Learning and Development Quality Check: Internal and External Training
 
-In order to ensure that the training we provide is inclusive to all, we have a quality check process to ensure that all learning, development and training material and courses adhere to [our Diversity, Inclusion, and Belonging Value]({{< ref "values#diversity-inclusion" >}}).
+In order to ensure that the training we provide is inclusive to all, we have a quality check process to ensure that all learning, development and training material and courses adhere to [our Diversity, Inclusion, and Belonging Value](/handbook/values/#diversity-inclusion).
 
 The quality check will ensure that all materials and courses are:
 
