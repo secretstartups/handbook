@@ -339,6 +339,10 @@ For more information regarding Jamf, refer to our [Endpoint Management](https://
 
 For more information regarding DriveStrike, refer to our [DriveStrike](/handbook/it/guides/drivestrike/) handbook page.
 
+### Backblaze
+
+From time to time, a tool named Backblaze may be deployed to backup data on your company owned device. This is only done at the request of the Legal and People Ops teams and is subject to local data, privacy and employment laws.
+
 ### Google Workspace Deprovisioning
 
 IT Ops has an automated workflow that triggers upon a notification from PeopleOps of a team-member offboarding. This automated workflow is composed of 2 parts that are outlined below. The first part happens within 1 hour of the offboarding. The second part occurs after 90 days of the offboarding. This workflow will send out notifications throughout this 90 day period to let the Former Team member's manager know that the final deadline is approaching.
