@@ -9,52 +9,51 @@ The Success Services Management team combines technical expertise with a custome
 
 ## Levels
 
-### Success Services Manager (Intermediate)
+| Role | Grade |
+| -- | - |
+| [Customer Success Architect](/job-families/sales/customer-success-architect/#customer-success-architect-csa-intermediate) | [Grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
+| [Senior Customer Success Architect](/job-families/sales/customer-success-architect/#senior-customer-success-architect-csa) | [Grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
+| [Staff Customer Success Architect](/job-families/sales/customer-success-architect/#staff-customer-success-architect-csa) | [Grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
+| [Manager, Success Services](#manager-success-services) | [Grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
+| [Senior Manager, Success Services](#senior-manager-success-services) | [Grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
+| [Director, Success Services](#director-success-services) | [Grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
 
-The Success Services Manager (Intermediate) reports to the Director, Success Services
+### Manager, Success Services
 
-#### Success Services Manager (Intermediate) Job Grade
+The Manager, Success Services is a strategic leader who drives the success and adoption of our paid success plan offerings and services within a designated region (EMEA, AMER, or APJ). They are responsible for managing a team of Customer Success Architects (CSAs) and collaborating with sales teams to identify and pursue opportunities to sell success services to new and existing customers.
 
-The SSM (Intermediate) is a job grade [level 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Success Services reports to the Director, Success Services.
 
-#### Success Services Manager Responsibilities
+#### Manager, Success Services Job Grade
 
-- Work closely with customer success and support teams to ensure effective service delivery and customer satisfaction.
-- Gather feedback from customers and the sales team to identify areas for improvement in the success services offering and customer experience
-- Collaborate with the sales team to identify and pursue opportunities to sell success services to new and existing customers
-- Drive the success and adoption of our paid success plan offerings and services within a designated region (EMEA, AMER or APJ)
+The Manager, Success Services is a job grade [level 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Manager, Success Services Responsibilities
+
+- Team Leadership: Manage, coach, and mentor a team of Customer Success Architects (CSAs) to ensure effective service delivery and customer satisfaction.
 - Sales Enablement: Collaborate with sales teams to develop and deliver compelling service offerings, value propositions, and commercial collateral. Explain GitLab Services value proposition, catalog of service offerings, and methodologies.
-- Participate in sales meetings, product demos, and customer calls to provide expertise on success services and how they can help customers achieve their goals.
+- Revenue Management: Drive revenue growth by identifying and pursuing opportunities to sell success services to new and existing customers. Monitor and report on key performance indicators, including pipeline, revenue, and renewal rates.
+- Customer Engagement: Participate in strategic customer meetings, product demos, and customer calls to provide expertise on success services and how they can help customers achieve their goals.
+- Continuous Improvement: Gather feedback from customers and the sales team to identify areas for improvement in the success services offering and customer experience. Drive continuous improvement of service offerings based on customer feedback, performance data, and best practices.
+- Cross-functional Collaboration: Work closely with customer success, support, professional services, product management, engineering, and marketing teams to ensure effective service delivery and alignment with company goals and objectives.
 - Performance Tracking: Monitor and report on key performance indicators for service offerings, identifying trends and areas for improvement.
-- Continuous Improvement: Drive continuous improvement of service offerings based on customer feedback, performance data, and best practices.
-- Stakeholder Management: Build and maintain strong relationships with key stakeholders, including customers, partners, and internal teams.
+Stakeholder Management: Build and maintain strong relationships with key stakeholders, including customers, partners, and internal teams.
 
-### Success Services Manager Requirements
+#### Manager, Success Services Requirements
 
-- Proven experience in customer success services or professional services, preferably in DevOps or a similar technical domain.
-- Strong understanding of the DevOps methodology, software development lifecycle, and related technologies
-- Ability to develop and maintain strong relationships with customers, understanding their needs, and identifying opportunities to improve their experience and time to value
-- Excellent communication and interpersonal skills, with the ability to collaborate effectively with sales teams, customers, and internal stakeholders.
+- Proven experience in managing customer success services or professional services teams, preferably in DevSecOps or a similar technical domain.
+- Strong understanding of the DevSecOps methodology, software development lifecycle, and related technologies.
+- Demonstrated ability to lead, coach, and mentor a team of customer success professionals to drive customer satisfaction, adoption, and retention.
+- Excellent communication and interpersonal skills, with the ability to collaborate effectively with sales teams, customers, and internal stakeholders at all levels.
+- Strong sales acumen and experience in identifying and pursuing opportunities to sell services to new and existing customers.
 - Data-driven mindset with the ability to analyze customer data, identify trends, and make data-informed decisions to optimize success services and improve customer time to value.
 - Experience with customer success metrics, KPIs, and reporting.
 - Strong problem-solving skills and the ability to think creatively to develop innovative solutions that address customer challenges and improve their experience.
 - Experience in creating and delivering compelling presentations, demonstrations, and training sessions to showcase the value of success services and educate customers on best practices.
-- Collaborative and team-oriented mindset, with the ability to work closely with cross-functional teams, including product management, engineering, and marketing, to align success services with company goals and objectives.
-- Willingness to travel as required - up to 25%.
+- Collaborative and team-oriented mindset, with the ability to work closely with cross-functional teams to align success services with company goals and objectives.
+- Willingness to travel as required - up to 40%.
 
-### Senior Success Services Manager
-
-The Senior Success Services Manager reports to the Director, Success Services
-
-#### Senior Success Services Manager Job Grade
-
-The Senior Success Services Manager is a job grade [level 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-### Senior Success Services Manager Responsibilities
-
-[content to be added when the need for the role arises]
-
-### Senior Success Services Manager Requirements
+### Senior Manager, Success Services
 
 [content to be added when the need for the role arises]
 
@@ -68,7 +67,7 @@ The Director, Success Services reports to the VP, Customer Success
 
 The Director, Success Services is a job grade [level 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Director, Success Services Responsibilities
+#### Director, Success Services Responsibilities
 
 - Strategic Leadership: Develop and articulate a clear vision for paid success plan offerings, ensuring alignment with company goals and customer needs.
 - Product and Service Development: Lead the design and iterative development of new and existing service offerings, ensuring they are customer-centric, scalable, and technologically advanced.
@@ -80,7 +79,7 @@ The Director, Success Services is a job grade [level 10](/handbook/total-rewards
 - Communication: Regularly report on service offerings' progress and outcomes to senior leadership and stakeholders.
 - Commercial Management: Oversee the services product portfolio, manage commercial collateral, and ensure alignment with commercial targets.
 
-### Director, Success Services Requirements
+#### Director, Success Services Requirements
 
 - Proven track record of building and maintaining strong relationships with sales teams and customers to drive revenue growth and customer satisfaction.
 - Deep understanding of the DevOps landscape, software development lifecycle, and the challenges faced by organizations adopting DevOps practices.
@@ -91,6 +90,7 @@ The Director, Success Services is a job grade [level 10](/handbook/total-rewards
 - Ability to think strategically and execute tactically, balancing short-term wins with long-term objectives.
 - Strong project management skills, with the ability to prioritize and manage multiple initiatives simultaneously.
 - Experience in defining and tracking key performance indicators (KPIs) related to customer adoption
+- Willingness to travel as required - up to 40%.
 
 ## Performance Indicators
 
