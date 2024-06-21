@@ -49,7 +49,7 @@ This role is outlined [here](/handbook/engineering/ic-leadership/tech-lead/#the-
 | [X-Ray CI Minutes](https://gitlab.com/groups/gitlab-org/-/epics/14100)                             | Vitali Tatarintev |
 | RAG for Code Completion                                                                            | Allen Cook        |
 | [RAG Integration with Global Search](https://gitlab.com/groups/gitlab-org/-/epics/14106)           | Vitali Tatarintev |
-| [RAG Source Code Embeddings](https://gitlab.com/groups/gitlab-org/-/epics/14106)                   | Jan Provaznik     |
+| [RAG Source Code Embeddings](https://gitlab.com/groups/gitlab-org/-/epics/14107)                   | Jan Provaznik     |
 | [Chat/Code Suggestions Alignment](https://gitlab.com/groups/gitlab-org/-/epics/14104)              | Tian Gao          |
 
 ## How is a Tech Lead different from a Domain Expert
