@@ -58,5 +58,5 @@ This information is restricted due to confidential data or privacy concerns rela
 - Information related to GitLab.com abusive activity and follow-up activity taken by the Trust & Safety team
   - Due to customer, individual privacy requirements
   - Due to the necessity to keep our anti-abuse processes unknown to abusive actors
-- Information about security incidents or investigations that have not yet been marked as closed/resolved by the SIRT
+- Information about security incidents or investigations that have not yet been marked as closed/resolved by the SIRT, or incidents or investigations that if made more transparent, may be harmful to team members, GitLab, or its customers
   - Due to the sensitive nature of security incidents and the information involved (unpatched vulnerabilities, compromised credentials)
