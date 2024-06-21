@@ -20,7 +20,7 @@ Click Submit (or Save & close if you need to come back to add more information).
 
 ### Engineering Quarterly Achiever's Chat
 
-The Quarterly Achiever's Chat recognizes Engineering team members who have excelled in a given quarter by inviting them to join the Chief Executive Officer, Chief Technical Officer and Chief Product Officer in a congratulatory chat. The benefit is three-fold:
+The Quarterly Achiever's Chat recognizes Engineering team members who have excelled in a given quarter by inviting them to join the Chief Technology Officer and 2 members of E-Group in a congratulatory chat. The benefit is three-fold:
 
 1. Top performers receive facetime and recognition directly at the executive level
 1. Knowledge sharing of best practices that can be replicated by other Engineering team members
