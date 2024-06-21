@@ -117,6 +117,7 @@ Examples of minimal forums:
 - Is your internet connection limited? Stop the Zoom camera feed or try [these tips](https://www.canr.msu.edu/od/educational-technology/tips-zoom-slow-connection).
 - Ask people to share their questions after a section of your story.
 - It’s normal to have anxiety when everyone is looking at you. Remember: We’re here to support each other, not to judge each other.
+- To increase collaboration and transparency after the meeting, consider linking to your recording from the related epics or issues.
 
 For more tips, see the [communication handbook page](/handbook/communication/#presentations).
 
