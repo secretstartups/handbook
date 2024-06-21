@@ -496,5 +496,5 @@
   - Consumption Pricing
   use_instead:
   - The more specific consumption building block from the [Internal Pricing Handbook](https://internal.gitlab.com/handbook/product/pricing/glossary-of-terms-and-resources/consumption-pricing/#core-consumption-building-blocks)
-  reason: Consumption can be defined in multiple ways, and when discussing a particrular pricing strategy or product it's important to be specific. 
+  reason: Consumption can be defined in multiple ways, and when discussing a particular pricing strategy or product it's important to be specific. 
   exclude_from_exports: false
