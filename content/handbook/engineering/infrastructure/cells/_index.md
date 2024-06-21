@@ -98,21 +98,6 @@ Cells overall architecture [blueprint](https://docs.gitlab.com/ee/architecture/b
 <tr>
 <td>
 
-[Ethan Guo](https://gitlab.com/yanguo1)
-
-</td>
-<td>Director, Infra Technical Program Management</td>
-<td>
-
-1. Develop project plan and drive schedule
-2. Inter-team connection, collaboration and communication
-3. Project management
-
-</td>
-</tr>
-<tr>
-<td>
-
 [Chun Du](https://gitlab.com/cdu1)
 
 </td>
@@ -183,6 +168,19 @@ Cells overall architecture [blueprint](https://docs.gitlab.com/ee/architecture/b
 2. Product definition, requirements, roadmap for Cells workstreams within Tenant Scale
 3. Point of contact to collaborate with product managers from other teams
 4. Investment and staffing of Tenant Scale
+
+</td>
+</tr>
+<tr>
+<td>
+
+[Darby Frey](https://gitlab.com/darbyfrey)
+
+</td>
+<td>Staff Fullstack Engineer, Expansion</td>
+<td>
+
+DRI of Expansion Software Development
 
 </td>
 </tr>
