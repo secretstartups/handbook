@@ -54,9 +54,9 @@ Depending on the context here are the most appropriate ways to reach out to the 
    * **When:** Every Monday, alternating between 09:00 AM GMT+1 and 17:00 PM GMT+1
    * **What:** This meeting replaces the previous Work Assignment Meeting and focuses on refining and assigning weights to issues. The Engineering Manager and Product Manager ensure all issues are properly refined and weighted.
 
-2. **Monthly Capacity Review Meeting**
-   * **When:** Once a month
-   * **What:** This meeting focuses on reviewing the team's capacity, monitoring fluctuations, and reacting to any drops in capacity. It includes a review of the points completed in the past month and adjustments to estimates if necessary.
+2. **Duo Workflow Weekly**
+   * **When:** Every Monday at 17:00 – 18:00 PM GMT+1 Wednesday at 09:00 – 10:00 GMT+1.
+   * **What:** This meeting focuses on reviewing Duo Workflow related items. 
 
 3. **Think BIG sessions**
    * **When:** Once a month
