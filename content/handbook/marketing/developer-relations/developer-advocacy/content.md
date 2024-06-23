@@ -42,6 +42,7 @@ Click-through demos are product simulation demonstrations that can be used for s
 
 | Title | Area | Last updated |
 |-------|------|--------------|
+| [Duo chat](https://tech-marketing.gitlab.io/static-demos/duo-chat.html) | GitLab Duo | 2024-06-19 |
 | [GitLab Duo (AI)](https://tech-marketing.gitlab.io/static-demos/ai-demos.html) | GitLab Duo | 2023-07-23 |
 | [Remote Development](https://tech-marketing.gitlab.io/static-demos/workspaces/ws_html.html) | Dev section, Create | 2023-05-23 |
 | [Feature Flags](https://tech-marketing.gitlab.io/static-demos/feature-flags/feature-flags-html.html) | CD | 2023-06-23 |
