@@ -30,6 +30,15 @@ of the GitLab Support On-Call Guide Handbook page.
 - APAC Support Readiness department members are part of Support Team APAC too.
 - Avoid calling individual manager's direct reports group "my team" or "your team".
 
+### Support Engineering team members should work primarily during APAC support business hours
+
+- Support Engineering team members are hired in specific locations with an aim to cover specific
+  parts of APAC support business hours.
+- When located in a different time zone, team members are granted flexibility to work outside their
+  usual time zone's working hours, but must continue to work within APAC support business hours.
+- Exceptions can be made on a case-by-case basis, but must be discussed with and approved by your
+  manager.
+
 ### Support engineers should be able to work across all GitLab product platforms
 
 - Support engineers should be willing and able to work on problems for all
