@@ -457,15 +457,15 @@ Since GitLab is an [all remote](/handbook/company/culture/all-remote/) company w
 
 ### Oregon
 
-- [Breaks and Overtime](https://www.oregon.gov/boli/employers/Documents/BOLI_breaks_pay.pdf)
-- [Equal Pay](https://www.oregon.gov/boli/employers/Documents/BOLI_EqualPay.pdf)
+- [Breaks and Overtime](https://www.oregon.gov/boli/employers/Documents/BOLI_Printable_Break_Pay.pdf)
+- [Equal Pay](https://www.oregon.gov/boli/employers/Documents/BOLI_Printable_Equal_Pay.pdf)
 - [Family Leave Act](https://www.oregon.gov/boli/employers/Documents/BOLI_Printable_FamilyMedLv.pdf)
-- [Minimum Wage](https://www.oregon.gov/boli/employers/Documents/BOLI_MinWage_2021-2.pdf)
+- [Minimum Wage](https://www.oregon.gov/boli/employers/Documents/BOLI_Printable_MinWage.pdf)
 - [Oregon Occupational Safety and Health Administration](https://osha.oregon.gov/OSHAPubs/1507.pdf)
-- [Protections for Victims of Domestic Violence, Harassment, Sexual Assault and Stalking](https://www.oregon.gov/boli/employers/Documents/BOLI_SHDVP.pdf)
+- [Protections for Victims of Domestic Violence, Harassment, Sexual Assault and Stalking](https://www.oregon.gov/boli/employers/Documents/BOLI_Printable_SHDVP.pdf)
 - [Sick Time](https://www.oregon.gov/boli/employers/Documents/BOLI_Printable_SickLeave.pdf)
-- [Oregon OSHA's COVID-19 Standard for all Workplaces](https://osha.oregon.gov/OSHAPubs/5504.pdf)
-- [Workplace Accommodations Notice](https://docs.google.com/document/d/1AC8QVQing7WZGNp3scTeD_LBCX0cAKaQ/edit?usp=drive_link&ouid=108582647308078356493&rtpof=true&sd=true)
+- [Oregon OSHA's COVID-19 Standard for all Workplaces](https://osha.oregon.gov/OSHAPubs/1507.pdf)
+- [Workplace Accommodations Notice](https://docs.google.com/document/d/1xKeuKD-tOjhtYv-wryZH-91fzrNB3p9SKTbs-aR1gZw/edit?usp=sharing)
 - [Paid Leave Notice Poster](https://d1o0i0v5q5lp8h.cloudfront.net/paidleave/live/assets/resources/Paid-Leave-ModelNotice-Poster-EN.pdf)
 
 ### Pennsylvania
