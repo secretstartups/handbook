@@ -1,5 +1,7 @@
 ---
+
 title: "HelpLab Information Guide"
+description: "Contains FAQs and instruction guides for Gitlab's ServiceNow implementation."
 ---
 
 ## What is HelpLab

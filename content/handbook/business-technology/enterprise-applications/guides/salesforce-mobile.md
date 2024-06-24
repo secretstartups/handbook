@@ -1,4 +1,10 @@
-# How to Login To The Salesforce Mobile App
+---
+
+title: "Salesforce Mobile App Users Guide"
+description: "Instructions on where to download and how to login to the Salesforce Mobile App"
+---
+
+## How to Login To The Salesforce Mobile App
 
 Below you can find instructions on how to login to the Salesforce mobile app via Okta. If you run into any issues attempting to login, please reach out via #it_help channel in Slack.
 
