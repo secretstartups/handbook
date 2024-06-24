@@ -380,14 +380,11 @@ These are the full list of CI job arguments, all are **OPTIONAL**:
 1. `IS_TEST_RUN`:
     - Defaults to `False`, but accepts `True`.
     - If True, will only **print** the `GRANT` sql statements, but will not run them.
-1. `USERS_TO_ADD`:
-    - Defaults to the usernames **added** to [`snowflake_users.yml`](https://gitlab.com/gitlab-data/analytics/-/blob/master/permissions/snowflake/snowflake_users.yml?ref_type=heads) within the MR.
-    - To override, pass in a string value like so `USERS_TO_ADD: username_to_add1 username_to_add2`
 1. `IS_DEV_DB`:
     - Defaults to `False`, but accepts `True`.
     - If True, will create development databases for each username in `usernames_to_add`.
 
-Note: `USERS_TO_REMOVE` argument is not available for this job because all deactivated users will be removed in Snowflake via separate airflow job.
+Note: `USERS_TO_ADD/USERS_TO_REMOVE` optional arguments are not available for this job to minimize security risks.
 </details>
 
 #### `snowflake_provisioning_roles_yaml`
