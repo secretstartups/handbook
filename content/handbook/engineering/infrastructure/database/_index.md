@@ -20,29 +20,12 @@ perspective as much as we can. As such, we start by defining Service
 Level Objectives below and document what service levels we currently aim
 to maintain for GitLab.com.
 
-## Database Architectural Diagrams
-
-The Database diagram:
-
-![Database diagram](infra-db/db-arch.png)
-
-The pgbouncer setup for Read Write traffic:
-
-![PGBouncer RW diagram](infra-db/rw-arch.png)
-
-The pgbouncer setup for Read Only traffic:
-
-![PGBouncer RO diagram](infra-db/ro-arch.png)
-
 ## Database SLOs
 
 We use [Service Level Objects](https://en.wikipedia.org/wiki/Service_level_objective) (SLOs) to reason about the performance and
 reliability aspects of the database. We think of SLOs as "commitments by
 the architects and operators that guide the design and operations of the
 system to meet those commitments."[^1]
-
-This list is by no means complete and we're just about to define SLOs
-and document them here. See [#147](https://gitlab.com/gitlab-com/database/issues/147).
 
 ### Backup and Recovery
 
@@ -51,9 +34,8 @@ In backup and recovery, there are two SLOs:
 | SLO           | Current level | Definition |
 | ------------- |:-------------:| -----:|
 | `DB-DR-TTR`  | 8 hours       | Maximum time to recovery from a full database backup in case of disaster|
-| `DB-DR-RETENTION-MULTIREGIONAL`  | 14 days       | The number of days we keep backups for recovery purposes in [Multi-regional](https://cloud.google.com/storage/docs/storage-classes#standard) Storage class in GCS. |
-| `DB-DR-RETENTION-NEARLINE`  | From 15 to 40 days       | The number of days we keep backups for recovery purposes in [Nearline](https://cloud.google.com/storage/docs/storage-classes#nearline) storage class in GCS. |
-| `DB-DR-RETENTION-NEARLINE`  | From 40 to 120 days       | The number of days we keep backups for recovery purposes in [Coldline](https://cloud.google.com/storage/docs/storage-classes#coldline) storage class in GCS. |
+| `DB-DR-RETENTION-MULTIREGIONAL`  | 7 days       | The number of days we keep backups for recovery purposes in [Multi-regional](https://cloud.google.com/storage/docs/storage-classes#standard) Storage class in GCS. |
+| `DB-DR-RETENTION-COLDLINE`  | From 8 to 90 days       | The number of days we keep backups for recovery purposes in [Coldline](https://cloud.google.com/storage/docs/storage-classes#coldline) storage class in GCS. |
 
 The backup strategy is to take a daily snapshot of the full database
 (basebackup) and store this in Google Cloud Storage. Additionally, we capture the
@@ -112,8 +94,9 @@ As a database specialist the following tools can be very helpful:
 
 The following (private) Grafana dashboard are important / useful for database specialists:
 
-- [PostgreSQL Overview](https://dashboards.gitlab.net/dashboard/db/postgresql-overview)
-- [PostgreSQL Tuple Statistics](https://dashboards.gitlab.net/dashboard/db/postgresql-tuple-statistics)
+- [PostgreSQL Database Overview](https://dashboards.gitlab.net/d/000000144/postgresql-overview?orgId=1)
+- [Patroni PostgreSQL HA cluster Overview](https://dashboards.gitlab.net/d/patroni-main/patroni3a-overview?orgId=1)
+- [PgBouncer Database Proxy Overview](https://dashboards.gitlab.net/d/PwlB97Jmk/pgbouncer-overview?orgId=1)
 
 ### Documentation
 
