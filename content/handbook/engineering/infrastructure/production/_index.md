@@ -150,10 +150,9 @@ Production database backups
 
 Backups of our production databases are taken every 24 hours with continuous incremental data (at 60 sec intervals), streamed into [GCS](https://cloud.google.com/storage). These backups are encrypted, and follow the lifecycle:
 
-- Initial 14 days in [Multi-regional](https://cloud.google.com/storage/docs/storage-classes#standard) storage class.
-- After 14 days migrated to [Nearline](https://cloud.google.com/storage/docs/storage-classes#nearline) storage class.
-- After 40 days migrated to [Coldline](https://cloud.google.com/storage/docs/storage-classes#coldline) storage class.
-- After 120 days, backups are deleted.
+- Initial 7 days in [Multi-regional](https://cloud.google.com/storage/docs/storage-classes#standard) storage class.
+- After 7 days migrated to [Coldline](https://cloud.google.com/storage/docs/storage-classes#coldline) storage class.
+- After 90 days, backups are deleted.
 - Snapshots of non Patroni-managed database (e.g. PostgreSQL DR replicas) and non-database (e.g. Gitaly, Redis, Prometheus) data filesystems are taken every hour and kept for at least 7 days.
 - Snapshots of Patroni-managed databases (a designated replica, in fact) are taken every 6 hours and kept for 7 days.
 
