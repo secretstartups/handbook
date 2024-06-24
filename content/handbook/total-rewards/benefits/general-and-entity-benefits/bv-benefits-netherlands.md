@@ -41,7 +41,7 @@ Team Members can contact CZ directly if they have any questions at 088 555 7777
 
 GitLab Team Members are not obligated to join CZ collective health policy. If they choose not to join the plan, they still must purchase their own health insurance package with another approved provider, as required by the Netherlands statutory healthcare system.
 
-### Occupational Saftey and Health
+### Occupational Safety and Health
 
 Due to the [Working Conditions Act](https://www.arboineuropa.nl/en/legislation/wetgeving-in-het-engels/), GitLab contracts an occupational safety and health service. The OSH-service can assist employees who are not able to work because of illness. The contact information for GitLab's designated Occupational Health Service provider is:
 
