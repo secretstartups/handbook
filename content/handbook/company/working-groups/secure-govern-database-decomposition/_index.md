@@ -164,7 +164,6 @@ If gradual decomposition is not possible, then we would pursue decomposition wit
 | Executive Stakeholder                | Bartek Marnane    | VP, Expansion |
 | Facilitator/DRI                      | Gregory Havenga   | Senior Backend Engineer, Govern: Threat Insights  |
 | Functional Lead                      | Lucas Charles     | Principal Software Engineer, Secure & Govern |
-| DRI - Distribution                   |                   ||
 | DRI - Infrastructure                 |                   ||
 | DRI - Database                       | Jon Jenkins       | Senior Backend Engineer, Database |
 | DRI - Data                           | Ved Prakash       | Staff Data Engineer|
