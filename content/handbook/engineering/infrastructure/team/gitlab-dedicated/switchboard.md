@@ -29,9 +29,9 @@ To engage with the Switchboard team:
   - `workflow-infra::Triage`
   - `team::Switchboard`
 - When creating an issue, it is not necessary to `@`mention anyone
-- In case you want to get attention, use a specific team handle (Ex: @gitlab-dedicated/switchboard ) as defined in [Dedicated group hierarchy](/handbook/engineering/infrastructure/team/gitlab-dedicated/#gitlab-group-hierarchy)
+- In case you want to get attention please use the specific team handle, `@gitlab-dedicated/switchboard`, as defined in [Dedicated group hierarchy](/handbook/engineering/infrastructure/team/gitlab-dedicated/#gitlab-group-hierarchy)
+- As a cross-functional team Switchboard uses `@gitlab-dedicated/switchboard/frontend-engineers` and `@gitlab-dedicated/switchboard/backend-engineers` internally to seek input from engineers with specific expertise
 - [Switchboard issue board](https://gitlab.com/groups/gitlab-com/gl-infra/gitlab-dedicated/-/boards/4498935?label_name[]=component%3A%3ASwitchboard) tracks all of the team's current work
-- We are in the process of adapting to use the [Product Development Flow](/handbook/product-development-flow/)
 
 - Slack channels
   - For Switchboard specific questions, you can find us in [#g_dedicated-switchboard-team](https://gitlab.slack.com/archives/C04DG7DR1LG)
