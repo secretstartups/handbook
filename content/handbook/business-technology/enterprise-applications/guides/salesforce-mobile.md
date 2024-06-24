@@ -20,67 +20,67 @@ Below you can find instructions on how to login to the Salesforce mobile app via
 
 1. Open the Salesforce app.
 2. On the Login page, select **Use Custom Domain** in the bottom right-hand corner.
-3. In the "Custom Domain" field enter `gitlab`, select **Continue**
-4. On the login page, select Log in with Okta
-5. Enter your Okta username and password, select Verify
-6. You'll be presented with options to verify your identity, select Use Okta FastPass
-    1. Warning: Selecting Security Key or Biometric Authentication may cause an error and be unable to login
-7. Verify your identity in Okta Verify and complete any additional login prompts. Biometric is required
-8. You'll be redirected back to the Salesforce App and the authentication process is complete
-    1. If this is your first time logging in, you may need to select Allow on the "Allow Access?" page
-9. You have logged into the Salesforce app 🎉
+3. In the "Custom Domain" field enter `gitlab`, select **Continue**.
+4. On the login page, select **Log in with Okta**.
+5. Enter your Okta username and password, select **Verify**.
+6. You'll be presented with options to verify your identity, select `Use Okta FastPass`.
+    1. Warning: Selecting **Security Key or Biometric Authentication** may cause an error and be unable to login.
+7. Verify your identity in Okta Verify and complete any additional login prompts. Biometric is required.
+8. You'll be redirected back to the Salesforce App and the authentication process is complete.
+    1. If this is your first time logging in, you may need to select **Allow** on the "Allow Access?" page.
+9. You have logged into the Salesforce app 🎉.
 
 #### Alternative Method
 
-1. Open the Salesforce app
-2. On the Log In page, select the menu (three-dots) in the top right-hand corner
-3. Select Change Server
-4. Select Add Connection
+1. Open the Salesforce app.
+2. On the Log In page, select the menu (three-dots) in the top right-hand corner.
+3. Select **Change Server**.
+4. Select **Add Connection**.
 5. Give the new connection a name (e.g. Gitlab)
-6. Enter https://gitlab.my.salesforce.com for the url, then select Apply
-7. Select the newly created connection
-8. Select the <- arrow to return to the Login page
-9. On the login page, select Log in with Okta
-10. Enter your Okta username and password, select Verify
+6. Enter `https://gitlab.my.salesforce.com` for the URL, then select **Apply**.
+7. Select the newly created connection.
+8. Select the <- arrow to return to the Login page.
+9. On the login page, select **Log in with Okta**.
+10. Enter your Okta username and password, select **Verify**.
 11. You'll be presented with options to verify your identity, select
-    1. Use Okta FastPass to login via Okta Verify
-    2. Verify your identity in Okta Verify and complete any additional login prompts. Biometric is required
-12. You'll be redirected back to the Salesforce App and the authentication process is complete
-    1. If this is your first time logging in, you may need to select Allow on the "Allow Access?" page
-13. You have logged into the Salesforce app 🎉
+    1. `Use Okta FastPass` to login via Okta Verify.
+    2. Verify your identity in Okta Verify and complete any additional login prompts. Biometric is required.
+12. You'll be redirected back to the Salesforce App and the authentication process is complete.
+    1. If this is your first time logging in, you may need to select **Allow** on the "Allow Access?" page.
+13. You have logged into the Salesforce app 🎉.
 
 ### iOS
 
 #### Recommended Method
 
-1. Open the Salesforce app
-2. on the Login page, select Use Custom Domain in the bottom right-hand corner
-3. In the "Custom Domain" field enter gitlab, select Continue
-4. On the login page, select Log in with Okta
-5. Enter your Okta username and password, select Verify
-6. You'll be presented with options to verify your identity, select Use Okta FastPass
-    1. Warning: Selecting Security Key or Biometric Authentication may cause an error and be unable to login
-7. Verify your identity in Okta Verify and complete any additional login prompts. Biometric is required
-8. You'll be redirected back to the Salesforce App and the authentication process is complete
-    1. If this is your first time logging in, you may need to select Allow on the "Allow Access?" page
-9. You have logged into the Salesforce app 🎉
+1. Open the Salesforce app.
+2. on the Login page, select Use Custom Domain in the bottom right-hand corner.
+3. In the "Custom Domain" field enter `gitlab`, select **Continue**.
+4. On the login page, select **Log in with Okta**.
+5. Enter your Okta username and password, select **Verify**.
+6. You'll be presented with options to verify your identity, select `Use Okta FastPass`.
+    1. Warning: Selecting **Security Key or Biometric Authentication** may cause an error and be unable to login.
+7. Verify your identity in Okta Verify and complete any additional login prompts. Biometric is required.
+8. You'll be redirected back to the Salesforce App and the authentication process is complete.
+    1. If this is your first time logging in, you may need to select **Allow** on the "Allow Access?" page.
+9. You have logged into the Salesforce app 🎉.
 
 #### Alternative Method
 
-1. Open the Salesforce app
-2. On the Log In page, select the ⚙ icon
-3. Select ➕ to add a login host
-4. Give the new host a label (e.g. Gitlab)
-5. Enter gitlab.my.salesforce.com for the host name, then select Done
-6. Select the newly created host
-7. On the login page, select Log in with Okta
-8. Enter your Okta username and password, select Verify
+1. Open the Salesforce app.
+2. On the Log In page, select the ⚙ icon.
+3. Select ➕ to add a login host.
+4. Give the new host a label (e.g. Gitlab).
+5. Enter `gitlab.my.salesforce.com` for the host name, then select **Done**.
+6. Select the newly created host.
+7. On the login page, select **Log in with Okta**.
+8. Enter your Okta username and password, select **Verify**.
 9. You'll be presented with options to verify your identity, select
-    1. Use Okta FastPass to login via Okta Verify
-    2. Verify your identity in Okta Verify and complete any additional login prompts. Biometric is required
-10. You'll be redirected back to the Salesforce App and the authentication process is complete
-    1. If this is your first time logging in, you may need to select Allow on the "Allow Access?" page
-11. You have logged into the Salesforce app 🎉
+    1. `Use Okta FastPass` to login via Okta Verify.
+    2. Verify your identity in Okta Verify and complete any additional login prompts. Biometric is required.
+10. You'll be redirected back to the Salesforce App and the authentication process is complete.
+    1. If this is your first time logging in, you may need to select **Allow** on the "Allow Access?" page.
+11. You have logged into the Salesforce app 🎉.
 
 ## FAQ
 
@@ -96,7 +96,7 @@ Below you can find instructions on how to login to the Salesforce mobile app via
 
 ### I received an "OAuth client" error when attempting to login via the Alternative Method and cannot load the login screen. How do I fix this?
 
-* If you receive an error and cannot load the login screen, select the settings option and select Clear Cookies. Then close the app completely and reload it.
+* If you receive an error and cannot load the login screen, select the settings option and select `Clear Cookies`. Then close the app completely and reload it.
 
 ### I do not wish to use biometric login with Okta Verify, can I login with a different method?
 
