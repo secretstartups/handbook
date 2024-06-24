@@ -2,6 +2,10 @@
 title: Mobile DevOps Single-Engineer Group
 ---
 
+{{% alert title="Note" color="danger" %}}
+This Incubation Engineering project is currently [on hold](handbook/engineering/development/incubation/#on-hold--cancelled).
+{{% /alert %}}
+
 ## Mobile DevOps Single-Engineer Group
 
 The Mobile DevOps SEG is a [Single-Engineer Group](/handbook/company/structure/#single-engineer-groups) within our [Incubation Engineering Department](/handbook/engineering/development/incubation/).
