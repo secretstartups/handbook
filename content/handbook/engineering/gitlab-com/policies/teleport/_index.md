@@ -1,6 +1,5 @@
 ---
 title: "GitLab Teleport Access Policy"
-controlled_document: true
 ---
 
 ## Purpose
