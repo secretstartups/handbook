@@ -311,7 +311,7 @@ Giving and receiving feedback is a critical part of building high performing tea
 The steps below outline the process promotion candidates should follow to request feedback as part of our bi-annual promotion process, key due dates, and helpful resources for both promotion candidates and feedback providers to review.
 
 1. Team members aligns with manager on promotion readiness and candidacy
-    - Ahead of requesting feedback, team members should have a conversation on promotion readiness with their manager. If there is alignment on readiness for the upcoming promotion cycle between both manager and team member, the team member qualifies as a "promotion candidate".
+    - Ahead of requesting feedback, team members should have a conversation on promotion readiness with their manager. If there is alignment on readiness for the upcoming promotion cycle between both manager and team member, the team member qualifies as a "promotion candidate". Managers should ensure that the CISO direct in their leadership chain is also aware and supportive of the promotion candidacy before kicking off the process. This also creates space for early feedback.
     - **Due date: 2024-05-31**
 2. Team member completes their [promotion document](/handbook/people-group/promotions-transfers/#promotion-document)
     - The promotion document completion should be team member driven with manager support, review, and feedback. Ahead of requesting feedback, the promotion document should be complete, as it will serve as the baseline to provide feedback. Team members should ensure their manager has reviewed their promotion document and is aligned with the content ahead of requesting feedback.
@@ -339,8 +339,9 @@ The steps below outline the process promotion candidates should follow to reques
     - Team member and manager compile themes to share with CISO direct. Leverage [this template](https://docs.google.com/document/d/11w4fI2iJj0-GRgtQxRGgRMiUyt60Z1Xv1w19UkC2ubE/edit) for theme compilation and analysis to ensure consistency. Analysis should focus on key themes and feedback provided in the Google Form.
     - CISO direct has the opportunity to review, provide feedback, and ask any clarifying questions to ensure they are able to represent the feedback in the CISO directs [calibration session](/handbook/people-group/promotions-transfers/#calibration).
     - **Due date: 2024-06-28**
-7. CISO direct adds feedback summary to calibration agenda
-    - CISO direct is responsible for adding promotion themes reviewed in Step 6 to the CISO directs promotion calibration agenda to ensure visibility ahead of the calibration session.
+7. CISO direct adds feedback summary to calibration spreadsheet
+    - CISO direct is responsible for adding the promotion feedback analysis compiled in Step 6 to the CISO directs promotion calibration spreadsheet to ensure visibility ahead of the calibration session. The spreadsheet is titled `Security Promotion Projections` for reference. 
+    - Add the complete [feedback analysis](https://docs.google.com/document/d/11w4fI2iJj0-GRgtQxRGgRMiUyt60Z1Xv1w19UkC2ubE/edit) for each promotion candidate to column J and ensure that the CISO, CISO directs, and the Security [People Business Partner](/handbook/people-group/people-business-partners/#people-business-partner-alignments) have access.
     - **Due date: 2024-07-05**
 8. Calibration session occurs
     - Calibration is scheduled for 2024-07-08 where CISO directs calibrate promotion candidates across the division.
