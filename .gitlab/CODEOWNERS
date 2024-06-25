@@ -182,12 +182,12 @@
 /content/handbook/engineering/infrastructure/ @cdu1 @marin @meks @vincywilson
 /content/handbook/engineering/infrastructure/capacity-planning/ @andrewn @gitlab-org/scalability @marin
 /content/handbook/engineering/infrastructure/core-platform/ @cdu1
+/content/handbook/engineering/infrastructure/core-platform/tenant-scale.md @sissiyao
 /content/handbook/engineering/infrastructure/core-platform/data_stores/database-reliability/ @rmar1
 /content/handbook/engineering/infrastructure/core-platform/data_stores/database/ @alexives
 /content/handbook/engineering/infrastructure/core-platform/data_stores/help.md @alexives @rmar1 @nhxnguyen
 /content/handbook/engineering/infrastructure/core-platform/data_stores/search/ @changzhengliu
-/content/handbook/engineering/infrastructure/core-platform/data_stores/tenant-scale.md @sissiyao
-/content/handbook/engineering/infrastructure/core-platform/systems/cloud-connector/ @pjphillips
+/content/handbook/engineering/infrastructure/core-platform/data_stores/cloud-connector/ @pjphillips
 /content/handbook/engineering/infrastructure/core-platform/systems/distribution/ @cdu1 @plu8
 /content/handbook/engineering/infrastructure/core-platform/systems/geo/ @luciezhao
 /content/handbook/engineering/infrastructure/core-platform/systems/gitaly.md @andrashorvath @jcaigitlab

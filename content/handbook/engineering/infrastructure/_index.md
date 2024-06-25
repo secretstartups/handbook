@@ -80,7 +80,7 @@ flowchart LR
     C --> DS[Data Stores Stage]
     click DS "/handbook/engineering/infrastructure/core-platform/data_stores/"
     DS --> TS[Tenant Scale]
-    click TS "/handbook/engineering/infrastructure/core-platform/data_stores/tenant-scale/"
+    click TS "/handbook/engineering/infrastructure/core-platform/tenant-scale/"
     DS --> Database
     click Database "/handbook/engineering/infrastructure/core-platform/data_stores/database/"
     DS --> GS[Global Search]

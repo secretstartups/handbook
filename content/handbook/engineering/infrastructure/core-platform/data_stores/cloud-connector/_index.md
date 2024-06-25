@@ -1,5 +1,6 @@
 ---
 title: Cloud Connector Group
+aliases: /handbook/engineering/infrastructure/core-platform/systems/cloud-connector/
 ---
 
 ## Vision
