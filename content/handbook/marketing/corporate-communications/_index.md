@@ -281,7 +281,7 @@ Any use of GitLab’s name, brand, or logo requires prior email approval by GitL
     - New partners: please reach out to your account representative for guidance.
   - Please note: GitLab requires up to 6 weeks of lead time to support external communications requests.
   - Please email your account representative for guidance on the approvals required and copy the GitLab Corporate Communications team at press@gitlab.com.
-  - GitLab account representatives: Any requests for public relations support requires approval from your executive sponsor, Patty Cheung. Please reach out via #external-comms in Slack if you have questions about this.
+  - GitLab account representatives: Any requests for public relations support requires approval from your executive sponsor, Nick Cayou. Please reach out via #external-comms in Slack if you have questions about this.
 
 ### GitLab Vendor Reference Requests
 
