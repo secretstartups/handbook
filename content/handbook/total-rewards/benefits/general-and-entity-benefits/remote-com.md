@@ -14,7 +14,7 @@ All of the benefits listed below are administered and managed by [Remote](https:
 
 ### Medical & Dental
 
-Remote will offer healthcare through Omint all hired from April 2022 onwards. Team members have the option to add dependents to the healthcare plan at an additional cost.
+Remote will offer healthcare through Remote. See [Benefits Guide](https://remote.com/benefits-guide/brazil) for the complete list of benefits offered through Remote. . Team members have the option to add dependents to the healthcare plan at an additional cost.
 
 Team Members hired prior to April 2022 are legacied in to the medical allowance policy. Team Members hired after April 2022 are not eligible for this policy.
 
