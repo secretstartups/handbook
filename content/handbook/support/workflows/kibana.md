@@ -201,7 +201,10 @@ In the `pubsub-rails-inf-gprd-*` log:
    - `/api/scim/v2/groups/<group name>` when looking at the SCIM requests for a whole group. This path can also be found in the group's SAML settings.
    - `/api/scim/v2/groups/<group name>/Users/<user's SCIM identifier>` when looking at the SCIM requests for a particular user.
 1. Add a positive filter on `json.methhod` for `POST` or `PATCH` (first time provisioning or update/de-provisioning respectivley).
-1. Check `json.params.value` for information.
+1. Add a filter on `json.params.value` to further identify specific actions:
+   - `json.params.value` = `Add` reveals first time provisioning, or account detail changes
+   - `json.params.value` = `Replace` reveals SCIM deprovisioning, happens when a user has been removed from the IdP App/group
+   - `json.params.value` = `<External ID>` reveals any SCIM activity related to the identified External ID.
 
 In cases where the SCIM provisioned account is deleted:
 
