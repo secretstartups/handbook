@@ -162,7 +162,7 @@ but if there are two, the code will use both to create the issue, if there is ju
 
 The issue will be created in the [AR project](https://gitlab.com/gitlab-com/team-member-epics/access-requests).
 
-The bot will announce in Slack (#peopleops-alerts) the list of people that we were able to
+The bot will announce in Slack (#peopleops-alerts-private) the list of people that we were able to
 create the AR. As well as the list of people (with their role) that we weren't
 able to create the AR for. This way we can connect with the teams so they can add a template for this role.
 
