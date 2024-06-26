@@ -83,7 +83,7 @@ Below is a list of the different technical skill sets found on the Sales System 
 
 | Team / Lane                 | Main Approver                                                | Backup Approver                                                 |
 |-----------------------------|--------------------------------------------------------------|-----------------------------------------------------------------|
-| Quote To Cash               | Director, Quote to Cash                     | Senior Director, Sales Operations                |
+| Quote To Cash               | Director, Quote to Cash                     | Senior Director, Sales Strategy & Analytics                |
 | Territory Management        | Director, Sales Operations                  | Senior Director, Sales Operations                |
 | Partner Operations          | Sales Operations                            | Sales Operations                                 |
 | Customer Success Operations | Senior Director, CS Strategy & Operations   | VP of Field Operations                           |
