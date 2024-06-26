@@ -109,6 +109,10 @@ graph LR
 - [Time to First Failure P80](/handbook/engineering/infrastructure/performance-indicators/#time-to-first-failure-p80)
 - [Time to First Failure](/handbook/engineering/infrastructure/performance-indicators/#time-to-first-failure)
 
+### SPACE
+
+- [SPACE](/handbook/engineering/infrastructure/engineering-productivity/space/)
+
 ### Shared
 
 - [Quality Handbook MR Rate](/handbook/engineering/infrastructure/performance-indicators/#quality-handbook-mr-rate)
