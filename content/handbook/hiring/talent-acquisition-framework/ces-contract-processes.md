@@ -132,7 +132,7 @@ Consistent with GitLab’s policy governing Hiring Significant Others or Family 
    - Under "Comment" write "Family Member Relationship Acknowledgement"
    - Upload
    - Repeat same steps above this time finding the GitLab team member in Workday
-1. For the current team member email the form to people-connect@gitlab.com and ask them to upload the document to Workday.
+1. Lastly, please open a General People Team request in HelpLab asking them to upload the acknowledgement into the exisiting family members Workday profile. You will need to attach the acknowledgement in the request and provide them the team members name.
 
 ### How to Update a Start Date After the Contract is Signed
 
