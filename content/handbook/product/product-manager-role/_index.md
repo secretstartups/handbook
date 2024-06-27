@@ -53,7 +53,7 @@ The first thing to do is to familiarize yourself with the following handbook pag
 As a GitLab Product Manager, your product scope is huge! It may seem daunting at first, but GitLab is constantly iterating on our processes and organization so that you can be successful. Since everything is in draft, please [make a proposal](/handbook/values/#make-a-proposal) to improve things.
 
 As a PM you may be extremely busy if you try to do everything that people ask you to do. This is not our expectation for the role.
-We do expect you to prioritize expertly and be a [manager of one](/handbook/values/#managers-of-one). And remember what your [core responsibilities](/handbook/product/product-manager-responsibilities/#core-pm-responsibilities) are! If you find yourself drowning in To-Dos, take a step back, prioritize, push-back, and focus your energy on the most important things.
+We do expect you to prioritize expertly and be a [manager of one](/handbook/values/#managers-of-one). And remember what your [core responsibilities](/job-families/product/product-manager/#core-pm-responsibilities) are! If you find yourself drowning in To-Dos, take a step back, prioritize, push-back, and focus your energy on the most important things.
 
 Some helpful reminders:
 
