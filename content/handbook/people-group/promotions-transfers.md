@@ -510,7 +510,7 @@ If you receive a [Job Change letter](/handbook/people-group/contracts-probation-
 1. Update Acting/Interim Tracker Spreadsheet
 1. Update Transition Tracker Spreadsheet (if required)
 
-Note: There are no changes that are made in Workday for acting roles. To track acting positions please follow [this process](/handbook/total-rewards/compensation/#tracking).
+Note: There are no changes that are made in Workday for acting roles. To track acting positions please complete this [form](https://forms.gle/KdB4TBtfuHxgGLzE8).
 
 ### Acting
 
