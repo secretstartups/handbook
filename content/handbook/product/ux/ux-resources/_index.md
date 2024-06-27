@@ -23,7 +23,7 @@ To add the UX Department Calendar to your list of calendars:
 1. Select `Subscribe to calendar`
 1. Enter in the search field `gitlab.com_9psh26fha3e4mvhlrefusb619k@group.calendar.google.com` and then press enter on your keyboard
 
-NOTE: Please do NOT remove any meetings from this calendar or any other shared calendars, as it removes the event from everyone’s calendar.
+NOTE: Please do NOT remove any meetings from this calendar or any other shared calendars, as it removes the event from everyone's calendar.
 
 ## Design resources
 

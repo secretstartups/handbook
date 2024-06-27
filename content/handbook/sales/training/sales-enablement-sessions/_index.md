@@ -57,7 +57,7 @@ To see what training is coming soon, view the [Field Enablement Spotlight issue 
 | 2023-08-03 |  **[FY24-Q3 - Deal Desk Update: Quote Approvals](https://drive.google.com/file/d/1cSDLF-pPUZgWd1FQB5BzWBpfzlY0oNcT/view?usp=sharing)** | Private |
 | 2023-07-13 | **[GitLab Security Competitors Overview](https://drive.google.com/file/d/1-AWkTHU5h1AhpNJTaWwDJCBYuNS4YNXw/view?usp=sharing)**  | Private |
 | 2023-06-15 | **[New Gartner & Forrester Reports: GitLab Named DevOps Platform Leader](https://drive.google.com/file/d/1cEy97VfXZ80UbywyeD5l6fMvlTuuBHMJ/view?usp=drive_link)** | Private |
-| 2023-06-08 | **[GitLab’s AI Vision & Strategy AMA & Course Launch](https://drive.google.com/file/d/1JHsZWwzzhaJQKYpUxSi8sn61cNMIGyyu/view?usp=sharing)**  | Private |
+| 2023-06-08 | **[GitLab's AI Vision & Strategy AMA & Course Launch](https://drive.google.com/file/d/1JHsZWwzzhaJQKYpUxSi8sn61cNMIGyyu/view?usp=sharing)**  | Private |
 | 2023-06-01 | **[GitLab Dedicated - General Availability Launch](https://gitlab.highspot.com/items/6478cd2f94e64c47fe04e6f5)** | Private |
 | 2023-05-25 | **[GitLab AI Competitors Overview](https://gitlab.highspot.com/items/6474ca9b3df78ba1b4baac4c)** | Private |
 | 2023-05-18 | **[Global DevSecOps Trends - Survey Results](https://gitlab.highspot.com/items/64668846776d67e6807de286?lfrm=shp.0)** | Private |
@@ -256,7 +256,7 @@ There are a few places to see previous Sales Enablement sessions:
   - Director, Sales & Customer Enablement (David Somers)
 - After alignment call, John Blevins to open issues for each enablement session with
   - Documentation of preliminary learning objectives, title, expected outcomes, etc.
-  - Tentative dates listed as “TENTATIVE - ZZZ”
+  - Tentative dates listed as "TENTATIVE - ZZZ"
   - Intended SME/speaker(s) assigned to the issue
   - Ping the SME in the issue to ask if they can commit to it, get their commitment before you schedule.
 

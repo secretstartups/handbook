@@ -34,7 +34,7 @@ Given the close collaboration between the PS Project Management and PS Operation
 1. Create Project in Gitlab.com using CP (Customer Project requirements) _new steps to CP coming soon_
    * Create sub group with customer name under [Gitlab Professional Services Group](https://gitlab.com/gitlab-com/customer-success/professional-services-group/professional-services-delivery/gitlab-professional-services) if staffed internally or [Gitlab Partner Collaboration Group](https://gitlab.com/gitlab-com/customer-success/professional-services-group/professional-services-delivery/gitlab-partner-collaboration) if staffed fully or partially with partners
    * Create a blank project under your new subgroup with SOW-<sow_number>
-   * Add epics for each activity including labels: “PM::name” “PSD Workflow::Not Started” “SOW-00”. Issues will be created at a later stage by the technical team under the right epic
+   * Add epics for each activity including labels: "PM::name" "PSD Workflow::Not Started" "SOW-00". Issues will be created at a later stage by the technical team under the right epic
 
 1. The PM to ensure the communiation plan, delivery methodology, scope definitions, time, and budget are aligned as we head into Delivery
    * _add Methodology steps_
@@ -89,12 +89,12 @@ Forecast allocations impact PS revenue forecast and team members availability, u
 * For Consulting Blocks and Dedicated Engineer Services,  we sometimes enter these engagements knowing very little about the project (as it is generally purchased as a SKU). Therefore, our goal is to be within +/- 10% of our estimated forecast after we have our initial EM>PS Transition Meeting
 
 * To ensure forecast revenue is accurate go under Resource Center in Kantata:
-  1. Select “Project Tab” and filter via “My Projects”
+  1. Select "Project Tab" and filter via "My Projects"
   1. Expand project you are allocating for so you can see all PS Engineers and yourself
-  1. Click on each team member’s name and submit RR request via the “activity” window opened and assign to Project Coordinator as recipient
+  1. Click on each team member's name and submit RR request via the "activity" window opened and assign to Project Coordinator as recipient
 
 * If it's a FF project, we need to update the dates on the Milestones in order for it to reflect in our forecast:
-  1. Open your project and open the “Task Tracker” tab
+  1. Open your project and open the "Task Tracker" tab
   1. Expand milestones
   1. Update sign off date
 
@@ -106,7 +106,7 @@ Forecast allocations impact PS revenue forecast and team members availability, u
 * If we are unable to confidently forecast the project resources 2 months out, we need to soft-book their/our time in Katata, and ensure that time is added to the upside report.
 * If we have a pending CO that is not yet reflected in Katata, add it to Upside if the work in the CO will be completed this quarter
 * If we anticipate a Milestone date will be adjusted to complete in the quarter, but it has not yet been confirmed/verified, add it to the Upside
-* It is helpful to call upside out in the customer report. ex: can only soft-forecast “x” amount because of “y” restraints
+* It is helpful to call upside out in the customer report. ex: can only soft-forecast "x" amount because of "y" restraints
 
 ##### Top Customer Report
 
@@ -148,7 +148,7 @@ Forecast allocations impact PS revenue forecast and team members availability, u
    1. Tracking Risk (with our Customer) through the RAID issue
       * The RAID, Risks, Actions, Issues, and Decisions is our way to ensure a single source of truth for project risk & resolution
       * It is where our internal project stakeholders and leadership can reference the latest project information when the project is trending or sitting in a Y/R health status
-      * The RAID is automatically created when the PM creates the CP template. First step is to rename template “RAID - Customer - SOW/PO#
+      * The RAID is automatically created when the PM creates the CP template. First step is to rename template "RAID - Customer - SOW/PO#
       * While the RAID is created, managed, and reported by the PM, **the internal team is encouraged to be updated the RAID as we work through Project challenges and mitigations**
       * [Example](https://gitlab.com/gitlab-com/customer-success/professional-services-group/professional-services-delivery/gitlab-professional-services/southwest/sow-2206/-/issues/8)
    1. [Reporting on Risk via RAID](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=Escalated&first_page_size=20)
@@ -157,7 +157,7 @@ Forecast allocations impact PS revenue forecast and team members availability, u
    * [The process of a project retrospective is started when the project starts](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/blob/master/.gitlab/issue_templates/project_retrospective.md?ref_type=heads), as this is a collection of team celebration, lessons learned, what could be improved, questions, comments, assets created, etc. It is highly encouraged the entire GitLab project team contributes to the below information throughout the course of the Project
       * A meeting towards the end of each PS engagement will be held to celebrate our delivery as a team, review areas of improvement around our PS methodology, and to share our Customer Success stories. A PM will facilitate & work with the Project team to fill out the appropriate areas.
       * When in doubt, add it to the Project Journal!
-      * It is asked by the PMs, PSE, TA’s callout “ProjectWin”’s throughout the course of the project within the Journal/Issue and attach it to the ps-internal Slack update - celebrating team wins!
+      * It is asked by the PMs, PSE, TA's callout "ProjectWin"'s throughout the course of the project within the Journal/Issue and attach it to the ps-internal Slack update - celebrating team wins!
       * Be sure to pin to internal Slack
       * If giving out a "thanks" or noticing a "thanks" related to a Project team member in Slack - be sure to track within the Project issue
    * Reporting on Project Wins, leasons learned, and Customer stories
@@ -239,7 +239,7 @@ These principles underly a disciplined 11 step implementation approach.
 
 #### 11 Steps to Success
 
-It is important to point out that GitLab’s PSDM is agnostic to popular implementation and process methodologies and can seamlessly be applied regardless of what the specific customer circumstances are.The steps are:
+It is important to point out that GitLab's PSDM is agnostic to popular implementation and process methodologies and can seamlessly be applied regardless of what the specific customer circumstances are.The steps are:
 
  1. Identify, document, and conduct an engagement strategy based on the specific customer situation
  2. Build awareness and excitement at all levels - regularly communicate status to all relevant parties: executives, buyers, stakeholders
@@ -263,7 +263,7 @@ Each engagement will successfully deliver one or several [MVP pilot(s)](./profes
 
 MVP Pilot Phases of an engagement consist of:
 
-1. [Discovery](./professional-services-delivery-methodology/discovery/_index.md) - The initial phase to assess capabilities  and validate assumptions to ensure we’re **building the right thing and meeting customer needs**
+1. [Discovery](./professional-services-delivery-methodology/discovery/_index.md) - The initial phase to assess capabilities  and validate assumptions to ensure we're **building the right thing and meeting customer needs**
 2. [Team Readiness](./professional-services-delivery-methodology/team-readiness/_index.md) - The process to define people, process and structures to **prepare teams operating in an iterative way**
 3. [Sprint 0](./professional-services-delivery-methodology/sprint0/_index.md) - The initial sprint where the **team aligns on norms and objectives, and key technology choices**
 4. [Sprinting](./professional-services-delivery-methodology/cadence-backlog-sprints/_index.md) - The execution and delivery process for teams to **deliver the GitLab engagement**
@@ -274,7 +274,7 @@ MVP Pilot Phases of an engagement consist of:
 
 Integrating business and IT needs is accomplished through a disciplined decomposition of higher level Vision and Goals into Epics and User Stories, which in turn drive the technical implementation of the customer engagement.Depending on the size and complexity of the engagement, one or several Program Managers are closely coordinating with executive level stakeholders and business sponsors in order to ensure that key business goals are achieved.Lower level technical coordination and tasking is done by one or several projects managers, working with the GitLab TA/PSE Team and the customer sourced Dev Team.
 
-![IntegrateBizAndIT.jpg](./IntegrateBizAndIT.jpg) 
+![IntegrateBizAndIT.jpg](./IntegrateBizAndIT.jpg)
 
 ##### 3. Adopt GitLab's Consistent Tools
 
@@ -290,10 +290,10 @@ Helping customers adopt the GitLab platform across the entire software developme
 By optimizing and automating internal controls (sign-offs / approvals), cycle times are significantly reduced and Time to Market windows are shortened. Collaboration is streamlined, context switching is eliminated, and velocity is increased. Overall productivity increases.
 
  ![ValueStreamOptimization.jpg](./ValueStreamOptimization.jpg)
- 
+
 ##### 5. Establish Thought Leadership through Continuous Value Delivery and Cost Savings
 
-* GitLab consultants are “catalysts” who show direction and provide coaching
+* GitLab consultants are "catalysts" who show direction and provide coaching
 * Focus is on setting up systems for people to work effectively
 * Small, autonomous cross-functional teams deliver value constantly using GitLab, we live our values
 * Teams are empowered to make decisions and are responsible for end-to-end outcomes

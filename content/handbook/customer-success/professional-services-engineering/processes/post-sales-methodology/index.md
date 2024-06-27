@@ -1,14 +1,7 @@
 ---
-
 title: "Post-Sales"
 description: "Describes the workflow governing delivery of GitLab professional service projects."
 ---
-
-
-
-
-
-
 
 ## Overview
 
