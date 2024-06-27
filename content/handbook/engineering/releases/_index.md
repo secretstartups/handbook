@@ -142,7 +142,7 @@ For information on backports, visit the [backports page](/handbook/engineering/r
 
 The release process has a few labels of specific importance.
 
-#### Delivery impact labels
+### Delivery impact labels
 
 Incidents may optionally have a `Delivery impact:*` label to indicate the impact the incident has when active. This label is intended to help with prioritizing between multiple incidents.
 

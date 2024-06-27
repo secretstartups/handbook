@@ -155,7 +155,7 @@ For more details on logistics of ending an interim or acting period please refer
 
 ## Roles
 
-#### Development Department
+### Development Department
 
 <div style="overflow-x: auto">
 <div style="width: 1800px;">
@@ -255,7 +255,7 @@ For more details on logistics of ending an interim or acting period please refer
 </div>
 </div>
 
-#### Quality Department
+### Quality Department
 
 <div style="overflow-x: auto">
 <div style="width: 1800px;">
@@ -300,7 +300,7 @@ For more details on logistics of ending an interim or acting period please refer
 </div>
 </div>
 
-#### Support Department
+### Support Department
 
 <div style="overflow-x: auto">
 <div style="width: 1800px;">
@@ -332,7 +332,7 @@ For more details on logistics of ending an interim or acting period please refer
 </div>
 </div>
 
-#### Infrastructure Department
+### Infrastructure Department
 
 <div style="overflow-x: auto">
 <div style="width: 1800px;">
@@ -414,7 +414,7 @@ subgraph Based on Merit & Company Need
 </div>
 </div>
 
-#### Incubation Engineering Department
+### Incubation Engineering Department
 
 <div style="overflow-x: auto">
 <div style="width: 1800px;">

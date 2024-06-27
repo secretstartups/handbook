@@ -95,7 +95,7 @@ We fetch some other data besides the region as well:
 
 This data is used to populate the email that we then send to them. The email address used to send the email is `onboarding@domain` and is set with a `reply-to: people-connect@domain` as nobody monitors replies to `onboarding@`. The email address is strictly used for automation.
 
-#### Manual Onboarding E-Mail
+### Manual Onboarding E-Mail
 
 If for some reason the e-mail could not be sent, we have added functionality for a People Connect Team member to be able to manually send this by running the `onboardingemail` Slack command.
 
