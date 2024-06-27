@@ -97,10 +97,20 @@ deleted. You might need to edit it first to remove rules and persons first.
   - Escalates after 5 min
 - Level 3:
   - Notify the following users or schedules
+    - Support Director Oncall
+  - Escalates after 5 min
+- Level 4:
+  - Notify the following users or schedules
     - Shaun McCann
     - Lee Matos
     - Lyle Kozloff
     - Val Parsons
+  - Escalates after 5 min
+- Level 5:
+  - Notify the following users or schedules
+    - Johnny Scarborough
+  - Escalates after 5 min
+- If no one acknowledges, repeat this policy `5` times
 
 #### Customer Support SSAT
 
