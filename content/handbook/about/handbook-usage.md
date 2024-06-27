@@ -152,7 +152,7 @@ The handbook is **organized by function and result** to ensure every item in it 
 We've learned over the years that keeping content in context helps to ensure consistency when making future updates.
 - At times, a change of perspective may be desired.
 In those cases, link to relevant sections of the handbook but don't include the content itself.
-See the [onboarding template](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md) as an example.
+See the [onboarding template](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md) (internal) as an example.
 Or for example a list of [Key Performance Indicators](/handbook/company/kpis/) that links to performance indicators but doesn't duplicate definitions.
 
 ### Style guide
