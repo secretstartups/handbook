@@ -1,13 +1,7 @@
 ---
-
 title: "Go To Market (Pre-Sales)"
-description: “Discover how GitLab Scopes Professional Services for customers who have requirements that fall outside the scope of the packaged services.”
+description: "Discover how GitLab Scopes Professional Services for customers who have requirements that fall outside the scope of the packaged services."
 ---
-
-
-
-
-
 
 ## Overview
 
