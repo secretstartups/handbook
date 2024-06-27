@@ -43,7 +43,7 @@ If you would like the Hiring Manager to receive an email when the form has been 
 
 Your Hiring Manager will be responsible for completing their reference checks.
 
-#### Recruiter Quality Check (Engineering Only)
+### Recruiter Quality Check (Engineering Only)
 
 Once a candidate has gone through the whole process before creating an offer the recruiter will ensure the scorecard requirements in [Engineering Hiring Practices](/handbook/engineering/hiring/#hiring-practices) are met.
 
