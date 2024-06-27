@@ -376,6 +376,34 @@ This rotation is used for Support Managers during EMEA hours.
     - Friday:    0800-1600
     - Saturday:  0800-1600
 
+#### Support Director Oncall
+
+This rotation is used for Support Directors.
+
+- [Schedule link](https://gitlab.pagerduty.com/schedules/P6KUUJP)
+- Timezone: UTC
+- Layer 1
+  - Name: APAC
+  - Rotation type: weekly
+  - Handoff time: Sunday 0800
+  - Hours: 0000-0800
+  - Members
+    - Shaun McCann
+- Layer 2
+  - Name: EMEA
+  - Rotation type: weekly
+  - Handoff time: Sunday 1600
+  - Hours: 0800-1600
+  - Members
+    - Val Parsons
+- Layer 3
+  - Name: AMER
+  - Rotation type: weekly
+  - Handoff time: Sunday 0000
+  - Hours: 1600-0000
+  - Members
+    - Lee Matos
+
 #### SSAT Reviewing Manager
 
 This rotation is used for assigning Support Managers SSAT reviewing duties.
