@@ -227,6 +227,9 @@ By dogfooding GitLab we have a structured and simplified cadence of quantifying 
 **Maintain Equal Contributions in a Shared Reality**
 By maintaing a Single Source of Truth (SSoT) we give the best possible forum for cross-functional collaboration with specific guidelines
 
+**Ramping BDRs**
+Ramping BDRs should only be using OB sequences from the Good and Testing collections. A ramping BDR can only create a Sequence Creation Request if there is no sequences that fit their needs or strategy in our current library.
+
 ### Follow Up Outreach Sequences
 
 - For SDRS and BDRS that want to sequence leads in their qualifying views we created [this video](https://www.youtube.com/watch?v=IKE24LRJbcc) to help you create a workflow around this follow up [sequence.](https://app1a.outreach.io/sequences/9383)
