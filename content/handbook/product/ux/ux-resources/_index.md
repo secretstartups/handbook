@@ -76,6 +76,15 @@ View how we collect [synchronous and asyncrhonous design feedback](/handbook/pro
 
 **Figma** We use [Figma](https://www.figma.com/design/) for designing and prototyping. Our [Pajamas UI kit](https://www.figma.com/file/qEddyqCrI7kPSBjGmwkZzQ/Pajamas-UI-Kit) contains design assets, components, and styles for GitLab's design system, [Pajamas](https://design.gitlab.com/). Additionally, there is a [Figma plugin](https://www.figma.com/community/plugin/860845891704482356/GitLab) available that allows designers to upload design files directly into a GitLab issue. Every product designer should receive access to Figma during onboarding. If you don't have the access you need, reach out to your manager. If you are not a product designer but want View access (including the ability to leave comments), create a free Figma account and ask your stage group designer for a link to the relevant files.
 
+Figma admins and their role scope are defined as:
+
+|Admin|Scope|
+|-----|-----|
+|@tauriedavis|Tech stack owner, user management (Provisioning/deprovisioning), billing|
+|@vkarnes|Tech stack owner fall back|
+|@jeldergl|User management (Provisioning/deprovisioning), design ops|
+|@danmh|Design ops|
+
 **Figjam** We use [Figjam](https://www.figma.com/figjam/) for collecting design feedback, mapping workflows, brainstorming, affinity mapping, and anything else where we need a visual, whiteboard-like workspace.
 
 Everyone in the UX department and all Product Managers can get a Figma account with the ability to create new Figjam boards. If you want to share your Figjam board to get feedback from members of your team who do not have a Figma account, you can send an anonymous link via the Share dialog.
