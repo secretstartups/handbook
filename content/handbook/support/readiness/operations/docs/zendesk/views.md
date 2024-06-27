@@ -24,11 +24,11 @@ Currently, Zendesk has 3 view types:
 
 Currently, Zendesk views have some limitations:
 
-- Only 12 visible views (Default and Shared) will be displayed.
+- Only 30 (previously 12) visible views (Default and Shared) will be displayed.
 - Views cannot use criteria that is not "defined", meaning it must be selectable
   data (text fields will not work, as an example).
-- You can only display up to 8 personal views and Support Ops cannot manage/view
-  them.
+- You can only display up to 10 personal views and Support Ops cannot manage or
+  view them.
 - Views will not include
   [archived tickets](https://support.zendesk.com/hc/en-us/articles/203657756-About-ticket-archiving)
   (i.e. Closed tickets after 120 days.)
