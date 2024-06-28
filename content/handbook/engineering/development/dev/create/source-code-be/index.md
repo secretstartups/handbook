@@ -102,6 +102,10 @@ As a team we strive to be responsive and accommodating when we communicate. When
 | ✅    | Task is complete                                                                                                    |
 | ⏭    | I've seen this but I don't think I'm the best person for the job. Ping me if no one else responds and you need help |
 
+### Merge Request reviews
+
+When giving Merge Request review feedback, we aim to provide additional context by utilizing the [conventional: comments](https://conventionalcomments.org/) standard.
+
 ### Triage process
 
 The weekly Triage Report is generated automatically by the [GitLab bot](https://gitlab.com/gitlab-bot) and this report is reviewed by the EM. Here is [an example](https://gitlab.com/gitlab-org/quality/triage-reports/-/issues/2700) of a previous report.
