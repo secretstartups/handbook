@@ -99,6 +99,8 @@ Team members will be expected to fill out a monthly timesheet at the end of each
 
 For any questions relating to this process please reach out to the Non US Payroll team via HelpLab. For new hires or any relocations, this information will be in the relevant onboarding/relocation issue/channel.
 
+Timesheets contain 4 columns for logging worked time: **Time In, Time Out, Breaks, and OOO**. Only enter “OOO” in the OOO column for any half or full days that you are Out of Office, whether it is paid or unpaid. **Team members must also accurately log all OOO time into Time Off by Deel and provide sick notes per statutory sick leave guidelines.**
+
 ## Spain-Specific Team Member Benefits
 
 ### Medical Plans
