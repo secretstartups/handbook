@@ -745,6 +745,14 @@ You can also choose to front-load the team member portion of your HSA contributi
 
 </details>
 
+<details markdown="1">
+
+<summary>Health Savings Account and Offboarding GitLab </summary>
+
+Your Health Savings Account and any funds within the account as of your date of termination are yours to keep. You may continue to use the dollars in your account for eligible healthcare expenses at your next employer, and/or allow the money to remain in the account and grow over time. Wex may charge fees to manage your HSA account directly. Please contact WEX (Discovery) at 866.451.3399, via live chat or customerservice@discoverybenefits.com with any questions about your HSA accounts. 
+
+</details>
+
 ### Flexible Spending Account (FSA) Plans
 
 FSAs help you pay for eligible out-of-pocket health care and dependent day care expenses on a pretax basis. You determine your projected expenses for the Plan Year and then elect to set aside a portion of each paycheck into your FSA. FSA contributions can only be updated during open enrollment or through a [qualifying life event (QLE)](#qualifying-life-events).
@@ -761,9 +769,15 @@ In 2023 the maximum salary deferral contribution has increased to $3,050 USD, wi
 
 In 2024 the maximum salary deferral contribution has increased to $3,200 USD, with the maximum rollover amount increasing to $$640 USD.
 
-FSAs are employer-owned accounts. If you leave GitLab, your Medical FSA account will be terminated on your date of termination unless you continue this through COBRA. You are able to use your full FSA amounts up to and on your last day, but not afterwards unless you enroll into COBRA. WEX (Discovery) asks that all claims be submitted up to 90 days after termination date. You can enroll into COBRA FSA if you have spent less out of your account than you have contributed to it. If you decide to enroll, you will be required to continue making your monthly contributions on a post-tax status.  For additional information, please reach out to WEX (Discovery) at 866.451.3399 or `customerservice@discoverybenefits.com`. Dependent Care FSAs cannot be continued via COBRA.
+</details>
 
-FSAs (and Dependent Care FSAs) are subject to annual testing by the Internal Revenue Code guidelines to ensure the pre-tax benefits do not disproportionately benefit highly compensated employees. At the end of each plan year, GitLab will work with WTW to conduct the nondiscrimination testing. If a test returns that highly compensated employees benefit, you may not be able to pre-tax the full amount of your election. This can vary each year and is based upon the dollar amount of non-highly compensated employees' elections.
+<details markdown="1">
+
+<summary> Flexible Spending Accounts and Leaving GitLab </summary>
+
+FSAs are employer-owned accounts. If you leave GitLab Medical FSA account will be terminated on your date of termination unless you continue this through COBRA. You are able to use your full FSA amounts up to and on your last day, but not afterwards unless you enroll into COBRA. WEX (Discovery) requires that all claims be submitted up to 90 days after termination date. You can enroll into COBRA FSA if you have spent less out of your account than you have contributed to it. If you decide to enroll, you will be required to continue making your monthly contributions on a post-tax status. For additional information, please reach out to WEX (Discovery) at 866.451.3399 or customerservice@discoverybenefits.com. 
+
+Dependent Care FSAs cannot be continued via COBRA. You are able to use your dependent care FSA for expenses that occur up to your last day, but not afterwards. Wex requires that all claims be sumbitted up to 90 days after termination date. For additional information, please reach out to WEX (Discovery) at 866.451.3399 or customerservice@discoverybenefits.com. 
 
 </details>
 
