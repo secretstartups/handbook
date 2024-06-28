@@ -147,6 +147,13 @@ No waiting periods except for the following procedures:
 
 No medical questionnaire required (pre existing illness will be accepted, except serious illness).
 
+</details>
+
+<details markdown="1">
+<summary>Offboarding GitLab</summary>
+
+Your benefits will cease on the date of termination. You may be able to transfer your coverage to a personal plan through our brokers Willis Tower Watson (WTW). Reach out to WTW to Soportehb@wtwco.com and cc Fernanda.Dallagnese@wtwco.com to receive the guidelines for the plan. 
+
 **Life Event Enrollment**
 
 Other than during enrollment, Team Members can add dependents during certain life events such as birth or marriage, with an effective date of the life event. Please fill out the [Life Event Form](https://docs.google.com/forms/d/e/1FAIpQLSd8YRqlEqfvlZgqUFm2fZ8A6JC5hKrm2JlZKInkUl_nQD3nww/viewform?usp=sf_link) to enroll your dependent.
