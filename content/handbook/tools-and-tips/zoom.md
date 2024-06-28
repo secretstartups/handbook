@@ -415,6 +415,22 @@ a co-host.
 For cloud recordings, the file name ends with `.transcript.txt` and the full transcription is always
 available. Processing takes about 15 minutes, so the video files appear before the transcription.
 
+### Zoom AI Companion
+
+#### Meeting summary with AI Companion
+
+1. Start a meeting with the Zoom desktop client.
+1. Click `AI Companion` in the meeting control toolbar.
+1. Click `Start summary`. 
+1. Participants will see a notification that AI Companion is active and analyzing the discussion.
+1. Once the meeting ends, the summary will be emailed to the meeting host and meeting invitees in our organization.
+
+#### Accessing AI Companion Meeting Summaries
+
+1. Go to https://gitlab.zoom.us/.
+1. In the side bar expand `AI Companion` and then click on `Meeting Summary`.
+1. To edit or share, click on a meeting topic and you will have the option to `Share`, `Edit`, or `Delete` meeting summaries
+
 ### How to share a presentation in Zoom
 
 At some point, you may need to give a slide presentation using Zoom.
