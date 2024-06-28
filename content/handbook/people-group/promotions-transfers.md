@@ -501,16 +501,14 @@ Regardless of the outcome, when the interim period ends, the manager should revi
 
 If you receive a [Job Change letter](/handbook/people-group/contracts-probation-periods/#job-change-letter) to an interim role, process the change by:
 
-1. Saving the letter to `Documents` > `Contracts & Changes` Document Category (Do not choose `Contracts & Changes - Confidential (No Employee View)`)
+1. Saving the letter to `Documents` > `Contracts & Changes` Document Category in Workday
 1. Review for compensation change
 1. Access Level
     - Interim roles - Access changed (if required)
 1. Update Job title (if required)
 1. Update Manager (if required)
-1. Update Acting/Interim Tracker Spreadsheet
-1. Update Transition Tracker Spreadsheet (if required)
 
-Note: There are no changes that are made in Workday for acting roles. To track acting positions please complete this [form](https://forms.gle/KdB4TBtfuHxgGLzE8).
+Note: There are no changes that are made in Workday for acting roles. To track acting positions, managers should complete this [form](https://forms.gle/KdB4TBtfuHxgGLzE8).
 
 ### Acting
 
@@ -542,7 +540,7 @@ Demotions are not always considered a step backwards.  It may be an opportunity 
 - If the demotion is due to performance, the manager should discuss any performance issues or possible demotions with Team Member Relations.
 - Demotions should also include a review of [compensation]({{< ref "compensation" >}}) and [equity](/handbook/total-rewards/stock-options/#equity-incentive-plans) in the google doc. Managers should consult with Total Rewards team on these topics; and of course always adhere to the Global Compensation Calculator.
 - Once agreement is reached on the demotion and changes (if any) in Team will act as the point of escalation to have any demotion reviewed and approved by the Compensation Group once the relevant google doc is complete.
-- Once approved, the manager informs the individual. Please cc 'peopleops@gitlab.com'  once the individual has been informed, so the changes can be processed in the relevant administrative systems. A [Job Change Letter](https://docs.google.com/document/d/12AscsmP3qnTqCC9h6cx1UpIVrnZUfoN6AvfMjf8guyg/editm) will then be created.
+- Once approved, the manager informs the individual and should request the necessary changes by submitting a [request via HelpLab](https://helplab.gitlab.systems/esc?id=emp_taxonomy_topic&topic_id=c15e3b45478c069067429ee0026d43e1). A [Job Change Letter](https://docs.google.com/document/d/12AscsmP3qnTqCC9h6cx1UpIVrnZUfoN6AvfMjf8guyg/editm) will then be created.
 - The People Connect team should then follow the process listed under the [For People Connect Team: Processing Promotions & Compensation Changes]({{< ref "promotions-transfers#for-people-connect-team-processing-promotions--compensation-changes" >}}).
 - Communication should be on a need-to-know basis only and should not be made public out of respect for the individual.
 - The manager will initiate any necessary access requests or access change requests.
@@ -551,7 +549,7 @@ Demotions are not always considered a step backwards.  It may be an opportunity 
 
 Job title specialties are used to indicate a stage, group and/or a specific focus area of the team member within their responsibilities. These specialties are not part of the job title, but are used to feed into reporting around stage, group and/or focus area investments. It is also a resource for the People Group and leaders to leverage to review organizational health metrics and ratios.
 
-**If any changes are required to a team members Job Title Speciality, the manager should email the People Connect team (people-connect@gitlab.com) promptly with the new job title specialty information along with the effective date of the change. If a new Job Title Specialty that does not already exist needs to be created, please open an [issue](https://gitlab.com/gitlab-com/people-group/people-tools-technology/general/-/issues/new#) to get it created in Workday using the `Workday: Job Title Specialty Request` template. It is an important manager responsibility to ensure this field remains accurate in Workday.**
+**If any changes are required to a team members Job Title Speciality, the manager should create a [HelpLab](https://helplab.gitlab.systems/esc?id=emp_taxonomy_topic&topic_id=6de369b997804e50a326158de053af7b) case for the People Connect team with the new job title specialty information along with the effective date of the change. If a new Job Title Specialty that does not already exist needs to be created, please open an [issue](https://gitlab.com/gitlab-com/people-group/people-tools-technology/general/-/issues/new#) to get it created in Workday using the `Workday: Job Title Specialty Request` template. It is an important manager responsibility to ensure this field remains accurate in Workday.**
 
 ### Job Title Specialty Guidance For Managers
 
