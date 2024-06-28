@@ -203,6 +203,17 @@ Here are details for [time tracking and submission of timesheets](/handbook.gitl
 Each month end, our partners will submit their invoices for time spent on our projects into the Coupa Procurement System. The PC who originally submitted the PO request within the Procurement System will receive an email notification that there is an invoice waiting for approval.
 Invoies should be submitted in Coupa on the first week each month for the previos month. For example, work performed between May 1-31 would be submitted in Coupa on the first week of June. If invoices are not submitted by the 15th of each month, the PS Operations Team will follow up with the Partner lead to ensure the invoices are submitted on time.
 
+Invoices should be submitted in Coupa with the following details:
+
+- Partner Name
+- PO Number
+- Dates of work performed
+- Name of Consultant
+- Name of Project
+- Hours worked
+- Hourly Rate
+- Total
+
 ### Customer Project Onsite Travel
 
 When a GitLab Partner Travels:
