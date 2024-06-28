@@ -69,6 +69,16 @@ App information:
 - This application was developed in-house and can be found
   [GitLab Search project](https://gitlab.com/gitlab-support-readiness/zendesk-us-government/apps/gitlab-search).
 
+## GitLab Duo
+
+This app enables the use of GitLab Duo in Zendesk.
+
+App information:
+
+- Located in the topbar
+- This application was developed in-house and can be found
+  [GitLab duo project](https://gitlab.com/gitlab-support-readiness/zendesk-us-government/apps/gitlab-duo).
+
 ## Out of Office
 
 <sup>*Introduced via [support-team-meta#4303](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4303)*</sup>
