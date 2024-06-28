@@ -174,20 +174,21 @@ Workday examples:
 - An Engineering Manager takes on an interim role as a Senior Engineering Manager
 - A Product Manager takes on an interim role as a Senior Backend Engineer (after having gone through an interview process)
 
-The process for tracking interim/acting roles in both cases is as follows:
+The process for tracking interim/acting roles is as follows:
 
-1. Managers send an email to `people-connect@gitlab.com` with their People Business Partner in copy with the following information:
+1. *(For Acting)*, Managers will align with their Manager and People Business Partner and align on the following:
     - Whether the role is interim or acting
     - Whether the role is in a new job family or the same job family
     - Whether the interim/acting role is lateral or a higher level
     - The effective start date of the interim/acting period
-1. *(for interim)* People Business Partner will submit a [Job Change - Change Job Details](https://docs.google.com/document/d/1hpPikG0STncYKamaY8XlfMTwYdoszP-0Xogvpp5hyZ4/edit?usp=sharing) request in Workday. Job title should not be changed, as compensation and job family are not altered as part of the interim/acting process. Only a modification to the team member's `Business Title` is required. This step is only done for interim positions as acting positions are not tracked in Workday.
+    - Once agreed and approved, Managers will the form(https://docs.google.com/forms/d/e/1FAIpQLSd5CkHvcDYx6oaNzrAm8QqFZpCVLcoDrcTpaAl-cuKCUERc2A/viewform).
+1. *(For Interim)* People Business Partner will submit a [Job Change - Change Job Details](https://docs.google.com/document/d/1hpPikG0STncYKamaY8XlfMTwYdoszP-0Xogvpp5hyZ4/edit?usp=sharing) request in Workday. Job title should not be changed, as compensation and job family are not altered as part of the interim/acting process. Only a modification to the team member's `Business Title` is required. This step is only done for interim positions as acting positions are not tracked in Workday.
 
 #### Submitting
 
 When the interim/acting period ends, the following process should be followed to submit the interim bonus request:
 
-- *(For Acting bonuses)* The manager replies to the initial email to `people-connect@gitlab.com` and their People Business Partner to confirm the start/end date of the acting period and their initial bonus calculation
+- *(For Acting bonuses)* The manager references the start/end dates Acting period as initially submitted through the Acting form for the bonus calculation.
 - *(For Interim bonuses)* The manager references the Workday `Job` tab and clicks into `Job History` and review the 'Business Title' column to confirm the start date of the interim period
 - Once confirmed, the Manager submits the bonus in Workday. Follow the [Request a One-Time Payment job-aid](https://docs.google.com/document/d/15_cqMAIoqkxNhoCTL42X3XUpr0E9fNZXFmY3Yitk2LQ/edit?usp=sharing) to submit an OTP. Manager must also provide the start and end date of the of interim period in Workday under the *Additional Information* section in Workday
 
