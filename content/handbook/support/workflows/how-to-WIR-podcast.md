@@ -29,7 +29,7 @@ Much of this is done in the [Support Week in Review Project](https://gitlab.com/
          - [Publish](#publishing-the-podcast) the podcast
          - [Prepare SWIR for the next week](#prepare-swir-for-the-next-week)
    - Metrics analyst:
-      - take screenshots of the key metrics from the [Support Metrics Dashboard - SWIR](https://gitlab.zendesk.com/explore/dashboard/36925DBD1F5E3C7BA541DB38D11AC51E0EAAFDD30DCB63FDE83CF1389E555D96/tab/10602202) and insert them into the SWIR digest issue. Change your profile timezone in Zendesk to Pacific Time before screen grabbing this so that it is comparable to previous week's graphs (in your Zendesk profile, look for "Time zone" in the left side bar)
+      - take screenshots of the key metrics from the [Support Metrics Dashboard - Suport KPIs](https://gitlab.zendesk.com/explore/dashboard/D9951578C8EC2AC68212FD96F1B5DB90C7E9BD20D7119D47F08BD82BC5616498/tab/36611332) and insert them into the SWIR digest issue. Change your profile timezone in Zendesk to Pacific Time before screen grabbing this so that it is comparable to previous week's graphs (in your Zendesk profile, look for "Time zone" in the left side bar)
       - in text, enter key metrics into the appropriate sections of the SWIR digest issue (US Fed stats are shared by a manager in the private channel spt_managers-internal - copy and paste these in if you have access. Alternatively ask a manager to copy these to you in Slack. It is also ok to proceed without them on occasion if necessary).
       - gather pairing data by observing the number of issues against the current [pairing milestone](https://gitlab.com/groups/gitlab-com/support/-/milestones?search_title=pairing&state=&sort=) and compare to the previous week's digest issue data for the week on week (WoW) metric
       - read and record this section during the recording call
@@ -59,7 +59,7 @@ Once you have the compiled audio:
 #### Prepare SWIR for the next week
 
 1. Run the `close_week_and_create_new_milestone` pipeline
-1. Check pagerduty or the [Support Team Page](https://gitlab-com.gitlab.io/support/team/oncall.html?search=ssat) to find the incoming SSAT manager (the one starting on the current Thursday) and reassign the new Positive SSAT issue to them.
+1. Check [pagerduty for the SSAT Reviewing Manager(https://gitlab.pagerduty.com/schedules#P9UIIDY) to find the incoming SSAT manager (the one starting on the current Thursday) and reassign the new Positive SSAT issue to them.
 1. You're done!
 
 #### Notes on SSAT content
