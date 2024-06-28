@@ -427,9 +427,9 @@ available. Processing takes about 15 minutes, so the video files appear before t
 
 #### Accessing AI Companion Meeting Summaries
 
-1. Go to https://gitlab.zoom.us/.
+1. Go to your Zoom account's [profile](https://gitlab.zoom.us/profile).
 1. In the side bar expand `AI Companion` and then click on `Meeting Summary`.
-1. To edit or share, click on a meeting topic and you will have the option to `Share`, `Edit`, or `Delete` meeting summaries
+1. To edit or share, click on a meeting topic and you will have the option to `Share`, `Edit`, or `Delete` meeting summaries.
 
 ### How to share a presentation in Zoom
 
