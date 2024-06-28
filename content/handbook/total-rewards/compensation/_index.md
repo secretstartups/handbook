@@ -155,7 +155,7 @@ For team members on an OTE (On Target Earnings) compensation plan in Go-to-Marke
 
 #### Tracking
 
-Interim/acting roles should be tracked in Workday, in some cases the process is initated in Greenhouse or may also be tracked in the [Acting/Interim Tracker](https://docs.google.com/spreadsheets/d/1Uoz0frqDYEDINeodeeKBGMFVzdTuoe4x63LpHxU9WMo/edit#gid=0) managed by the People Connect Team.
+Interim/acting roles should be tracked in Workday, in some cases the process is initiated in Greenhouse or may also be tracked by the manager by completing a Submission of Acting Role for a Team Member [form](https://forms.gle/KdB4TBtfuHxgGLzE8).
 
 Guidance on different processes can be found below:
 
@@ -181,8 +181,7 @@ The process for tracking interim/acting roles in both cases is as follows:
     - Whether the role is in a new job family or the same job family
     - Whether the interim/acting role is lateral or a higher level
     - The effective start date of the interim/acting period
-1. *(for interim)* People Business Partner will submit a [Job Change - Change Job Details](https://docs.google.com/document/d/1hpPikG0STncYKamaY8XlfMTwYdoszP-0Xogvpp5hyZ4/edit?usp=sharing) request in Workday. Job title should not be changed, as compensation and job family are not altered as part of the interim/acting process. Only a modification to the team member's `Business Title` is required. This step is only done for interim positions as acting positions are not tracked in Workday, but exclusively on the spreadsheet.
-1. People Connect will either, 1) confirm that the interim/acting period has been added to the [Acting/Interim Tracker](https://docs.google.com/spreadsheets/d/1Uoz0frqDYEDINeodeeKBGMFVzdTuoe4x63LpHxU9WMo/edit#gid=0), or 2) confirm that the job title has been added to Workday.
+1. *(for interim)* People Business Partner will submit a [Job Change - Change Job Details](https://docs.google.com/document/d/1hpPikG0STncYKamaY8XlfMTwYdoszP-0Xogvpp5hyZ4/edit?usp=sharing) request in Workday. Job title should not be changed, as compensation and job family are not altered as part of the interim/acting process. Only a modification to the team member's `Business Title` is required. This step is only done for interim positions as acting positions are not tracked in Workday.
 
 #### Submitting
 
