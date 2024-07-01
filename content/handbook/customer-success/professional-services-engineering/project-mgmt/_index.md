@@ -142,28 +142,7 @@ Forecast allocations impact PS revenue forecast and team members availability, u
 
 ### Deliver, Train, and Monitor
 
-1. PM to manage within Gitlab.com Customer Project (CP)
-   1. Tracking & Reporting on Project Status (with our Customers)
-      * _coming soon_
-   1. Tracking Risk (with our Customer) through the RAID issue
-      * The RAID, Risks, Actions, Issues, and Decisions is our way to ensure a single source of truth for project risk & resolution
-      * It is where our internal project stakeholders and leadership can reference the latest project information when the project is trending or sitting in a Y/R health status
-      * The RAID is automatically created when the PM creates the CP template. First step is to rename template "RAID - Customer - SOW/PO#
-      * While the RAID is created, managed, and reported by the PM, **the internal team is encouraged to be updated the RAID as we work through Project challenges and mitigations**
-      * [Example](https://gitlab.com/gitlab-com/customer-success/professional-services-group/professional-services-delivery/gitlab-professional-services/southwest/sow-2206/-/issues/8)
-   1. [Reporting on Risk via RAID](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=Escalated&first_page_size=20)
-      * "Escalated" items are labeled as such to create immediate attention as it impacts the progress of the project. for internal visibility, the RAID link is included in the Top Customer Report when a project is Y/R
-1. Track internal Project team wins, lessons learned, and Customer Stories within the Internal Project Retrospective issue
-   * [The process of a project retrospective is started when the project starts](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/blob/master/.gitlab/issue_templates/project_retrospective.md?ref_type=heads), as this is a collection of team celebration, lessons learned, what could be improved, questions, comments, assets created, etc. It is highly encouraged the entire GitLab project team contributes to the below information throughout the course of the Project
-      * A meeting towards the end of each PS engagement will be held to celebrate our delivery as a team, review areas of improvement around our PS methodology, and to share our Customer Success stories. A PM will facilitate & work with the Project team to fill out the appropriate areas.
-      * When in doubt, add it to the Project Journal!
-      * It is asked by the PMs, PSE, TA's callout "ProjectWin"'s throughout the course of the project within the Journal/Issue and attach it to the ps-internal Slack update - celebrating team wins!
-      * Be sure to pin to internal Slack
-      * If giving out a "thanks" or noticing a "thanks" related to a Project team member in Slack - be sure to track within the Project issue
-   * Reporting on Project Wins, leasons learned, and Customer stories
-      * [Project Wins](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=ProjectWin&first_page_size=20) - Team & Project wins tracked throughout the Delivery Engagement
-      * [Lessons learned](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/issues/?sort=updated_desc&state=opened&or%5Blabel_name%5D%5B%5D=llPsProcess&or%5Blabel_name%5D%5B%5D=llProduct&or%5Blabel_name%5D%5B%5D=llExpectation&or%5Blabel_name%5D%5B%5D=llSupport&or%5Blabel_name%5D%5B%5D=llFinanceDelays&first_page_size=20) from Project Delivery
-      * [Customer Story](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/issues/?sort=updated_desc&state=opened&or%5Blabel_name%5D%5B%5D=RetroComplete&or%5Blabel_name%5D%5B%5D=CustomerStory&first_page_size=20) - information that can be used to generate a Customer story
+Please reference the [PSDM (Professional Services Delivery Methodology)](./professional-services-engineering/professional-services-delivery-methodology/_index.md)
 
 ### Iterate and Validate
 
