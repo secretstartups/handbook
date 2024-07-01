@@ -18,6 +18,16 @@ App information:
   available in the
   [Zendesk Marketplace](https://www.zendesk.com/apps/support/advanced-search/).
 
+## GitLab Duo
+
+This app enables the use of GitLab Duo in Zendesk.
+
+App information:
+
+- Located in the topbar
+- This application was developed in-house and can be found
+  [GitLab duo project](https://gitlab.com/gitlab-support-readiness/zendesk-global/apps/gitlab-duo).
+
 ## GitLab Reminders App
 
 <sup>*Introduced via [support-team-meta#3036](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3036)*</sup>
@@ -40,6 +50,17 @@ App information:
 - Located in the navbar
 - This application was developed in-house and can be found
   [GitLab Reminders App project](https://gitlab.com/gitlab-support-readiness/zendesk-global/apps/reminders-app).
+
+## GitLab Search
+
+This app lets you use the gitlab.com API to search for issues/merge requests
+within Zendesk.
+
+App information:
+
+- Located in the topbar
+- This application was developed in-house and can be found
+  [GitLab Search project](https://gitlab.com/gitlab-support-readiness/zendesk-global/apps/gitlab-search).
 
 ## GitLab Super App
 
