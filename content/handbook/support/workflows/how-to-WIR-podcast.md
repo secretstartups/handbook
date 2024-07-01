@@ -59,7 +59,6 @@ Once you have the compiled audio:
 #### Prepare SWIR for the next week
 
 1. Run the `close_week_and_create_new_milestone` pipeline
-1. Check [pagerduty for the SSAT Reviewing Manager(https://gitlab.pagerduty.com/schedules#P9UIIDY) to find the incoming SSAT manager (the one starting on the current Thursday) and reassign the new Positive SSAT issue to them.
 1. You're done!
 
 #### Notes on SSAT content
@@ -71,7 +70,7 @@ The purpose of including SSAT content in the Support Week in Review is two-fold:
 
 We do not include every SSAT review every week, both for brevity and because not every SSAT review fulfills the purposes above.
 
-Depending on what the [SSAT Reviewing Manager](/handbook/support/workflows/how-to-respond-to-feedback/#who-is-responsible-for-reviewing-support-satisfaction-feedback) has populated the weekly SSAT issue with as a SWIR host you may need to edit the content.
+Depending on what [managers reviewing SSAT](/handbook/support/workflows/how-to-respond-to-feedback/#who-is-responsible-for-reviewing-support-satisfaction-feedback) have populated the weekly SSAT issue with as a SWIR host you may need to add additional content.
 
 With the above purposes in mind, SSAT comments in the Support Week in Review should:
 
