@@ -270,6 +270,14 @@ The Senior Director, People Business Partner is a [job grade 11](/handbook/total
 - Collaborate with our team member relations (TMR) and legal teams to provide additional guidance and support on HR compliance, local employment law, and regulatory requirements in the EMEA region based on local expertise
 - Consult and inform local regulatory bodies such as Works Councils on topics that impact employment or working conditions
 
+### PBP, APJ
+
+- Primary People Business Partner support for the Go-To-Market teams in APJ; develops a people strategy that helps support local organization and business goals
+- Consult on global expansion efforts in the APJ region; including participating in the due diligence process
+- Partners closely with the broader People Business Partners and People Group to support the implementation of GitLab's People programs and policies locally
+- Advises on People programs and solutions to support APJ regional needs based on deep local expertise
+- Collaborate with our team member relations (TMR) and legal teams to provide additional guidance and support on HR compliance, local employment law, and regulatory requirements in the APJ region based on local expertise
+
 ## Performance Indicators
 
 Performance indicators are done in partnership with the PBP and the organizational leaders.
