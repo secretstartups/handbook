@@ -226,6 +226,23 @@ When extracting new data towards Snowflake and the data source is not listed or 
   - For instances where Red data (fields) must be ingested into Snowflake, [masking](/handbook/business-technology/data-team/platform/#data-masking) will be applied upon extraction.
 - BT/Data VP-level, Legal and Security must sign off to start the implementation.
 
+## Personal data
+
+Extracting [Personal Data](/handbook/legal/privacy/#:~:text=DPIAs%20here.-,Personal%20Data,-Any%20data%2C%20individually) into the Data Platofrm (Snowflake) is allowed, but it will require additional review from our Legal Privacy team and, where applicable, the People Team. When requesting to add a new data source, the team member that requests the upstream system/data source is responsible to indicate if the data source contains personal data and which data elements it concerns. If a team member doesn't have enough knowledge to determine whether certain infomration is Personal Data, they should tag a subject matter expert and, if needed, a data engineer.
+
+Please note that "pseudonymized" data is still Personal Data under privacy legislation.
+
+If the upstream system (data source) contains Personal Data, the Data Team will either:
+
+- exclude the indicated Personal Data elements from the extract if the extract can fulfill the requester's purpose **without retaining** the Personal Data; or
+- obtain Legal Privacy review and approval to action the extraction to and processing of Personal Data in our Data Platform.
+
+### Sensitive Personal Data
+
+Certain Personal Data elements are deemed "sensitive" under various privacy legislation. Sensitive Personal Data generally includes racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, genetic data, biometric data, data related to health, data related to sex life or sexual orientation, criminal offenses, and citizenship/immigraion status.
+
+Privacy legislation prohibits the processing of these types of data elements, except in limited circumstances. If a request is made to extract data that contains sensitive Personal Data, it will generally be denied unless true consent has been obtained to the processing, and Legal Privacy and, where applicable, the People Team, have approved this processing.
+
 ## Monte Carlo observability
 
 When a new data source is extracted towards the `raw` layer there will be a new separate schema created for that data source in many cases. In order to make sure the new data source is observed by Monte Carlo follow the steps outlined in [Monte Carlo permission](https://internal.gitlab.com/handbook/enterprise-data/platform/monte-carlo/#note-on-dwh-permissions) handbook section.
