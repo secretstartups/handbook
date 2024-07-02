@@ -930,9 +930,11 @@ Use a short and strong name for all feature names.
 
 #### Feature Availability
 
-Use the following pattern to apply the correct badge to the feature (Free, Premium, Ultimate).
+Use the following pattern to apply the correct badge to the feature (Free, Premium, Ultimate) and to specify any add-ons (Duo Pro, Duo Enterprise).
 
-For the feature availability tier, use `available_in` with:
+##### Subscription tier
+
+For the subscription tier where the feature is available, use `available_in` with:
 
 - For GitLab Free, `[core, premium, ultimate]`
 - For GitLab Premium, `[premium, ultimate]`
@@ -940,7 +942,9 @@ For the feature availability tier, use `available_in` with:
 
   **Important note**: The GitLab Free tier is listed as `core` in the data file. This is intentional and the page templates will apply the proper tier name on the frontend.
 
-For features available on both self-managed and SaaS:
+##### Offering (GitLab.com or self-managed)
+
+For features available on both self-managed and GitLab.com:
 
 - Use `gitlab_com: true`, or do not include `gitlab_com` in the yaml file.
 
@@ -967,6 +971,19 @@ You can also mix the GitLab.com badges with the self-managed badges. However, fo
   - For availability in all tiers on GitLab.com and only Premium and Ultimate tiers on self-managed, use `[free, silver, gold, premium, ultimate]` and set `gitlab_com: false`
   - For availability in the Silver and Gold tiers on GitLab.com and all tiers on self-managed, use `[core, premium, ultimate, silver, gold]` and set `gitlab_com: false`
   - For availability in the Gold tier on GitLab.com and only Premium and Ultimate tiers on self-managed, use `[premium, ultimate, gold]` and set `gitlab_com: false`
+
+##### Add-ons
+
+To specify a subscription add-on, enter text in the `add_ons: [ ]` field.
+Each entry adds a badge. For Duo Pro and Duo Enterprise, specify both. For example:
+
+```yaml
+add_ons: ["Duo Pro", "Duo Enterprise"]
+```
+
+If only Duo Pro applies, use `add_ons: ["Duo Pro"]`.
+
+##### Features behind flags
 
 From time to time a feature may be developed behind a feature flag and made [available slowly](https://docs.gitlab.com/ee/development/feature_flags/#development-type) to larger audiences. If this is the case, do not include the item in the release post unless you are deliberately seeking beta testers. This may result in a feature issue being closed in a milestone earlier than it is announced.
 
