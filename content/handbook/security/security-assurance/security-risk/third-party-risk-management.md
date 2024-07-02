@@ -56,6 +56,8 @@ When considering new software to address business needs and objectives, see belo
 <details>
 <summary markdown="span">Professional Services</summary>
 
+GitLab has an obligation to ensure that all individuals accessing Orange or Red data are subject to sufficient endpoint controls, either by issuing a GitLab-managed device or by performing a TPRM review to ensure appropriate endpoint security controls are in place. Professional services firms are often able to provide sufficient documentation of their security environment, as such we can rely on their endpoints once sufficient assurance is obtained. Independent contractors and firms without sufficiently documented endpoint controls will be provided GitLab-managed endpoints by IT.
+
 See below for high level recommendations to leverage when evaluating professional services vendors.
 
 - Will GitLab documents be shared with the vendor?
@@ -307,7 +309,7 @@ Vendors that fail to meet GitLab's Third Party Risk Assessment requirements will
 
 ### Leveraging BitSight
 
-Bitsight's partnership with GitLab provides the Security Risk team with a comprehensive and continuous view of the external security posture of GitLab's vendor ecosystem. BitSight enables Security Risk to identify and assess potential security risks across our vendors in real-time, allowing us to prioritize our resources and focus on addressing the potentially critical vulnerabilities that could impact GitLab. BitSight offers GitLab two services:
+Usage of BitSight provides the Security Risk team with a comprehensive and continuous view of the external security posture of GitLab's vendor ecosystem. BitSight enables Security Risk to identify and assess potential security risks across our vendors in real-time, allowing us to prioritize our resources and focus on addressing the potentially critical vulnerabilities that could impact GitLab. GitLab leverages two services:
 
 - **BitSight Total Risk Monitoring**
 
