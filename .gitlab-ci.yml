@@ -71,10 +71,10 @@ variables:
 
   ### TOOLING ###
   # Specify versions of tools used in pipelines
-  HUGO_VERSION: '0.124.1'
+  HUGO_VERSION: '0.128.0'
   HUGO_IMAGE: "registry.gitlab.com/pages/hugo/hugo_extended:$HUGO_VERSION"
   MARKDOWNLINT_VERSION: '0.13.0'
-  VALE_VERSION: '3.4.2'
+  VALE_VERSION: '3.6.0'
 
 .default-branch: &default-branch
   if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH && $BUILD_AND_TEST_ONLY != "true"
