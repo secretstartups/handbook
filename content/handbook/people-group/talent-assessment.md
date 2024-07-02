@@ -625,9 +625,9 @@ Recommended process for our FY'25 Q2 cycle will be as follows:
 
 1. *Team Member Led: Team member provides a self-assessment on their own performance in their [1:1 document]({{< ref "1-1" >}})*
 
-   Team members can leverage their 1:1 document and should reflect on their achievements, strengths, and opportunity areas since the last formal Talent Assessment in Q4. It is the team member's responsibility to provide the self-assessment and bring it to the conversation with their manager to discuss and align. Documenting in the 1:1 agenda ensures the material is available to come back to throughout the rest of the year.
+   A [Google docs template](https://docs.google.com/document/d/1KOmpCXAGTJdS7hMKsuOZZpo803ECUsCd1xnryj7z0B4/edit) is available to guide the self-assessment process. Team members are encouraged to author a document based on this template, share it with their manager and link it to the top of their 1:1 document. Team members should reflect on their achievements, strengths, and opportunity areas since the last formal Talent Assessment in Q4. It is the team member's responsibility to provide the self-assessment and bring it to the conversation with their manager to discuss and align on. Linking the document to the 1:1 agenda ensures the self-assessment is available to come back to throughout the rest of the year.
 
-    A recommended agenda for the Mid-Year check-in 1:1 is as follows:
+    The template contains an agenda for the Mid-Year check-in as follows:
 
     - **Achievements**
 
