@@ -395,9 +395,10 @@ Use the following workflows based on the type of request submitted.
 
 ### **Data Export Requests (Right to Portability)**
 
-Use this workflow for data export request submissions. Note that we can only action on this if the request is for personal namespace projects, or projects in groups where the user is the *only* member. You can visit the [#privacy-team_help](https://gitlab.slack.com/archives/C04357HVCJD) Slack channel if you have any questions.
+Use this workflow for data export request submissions. Note that we can only action on this if the request is for personal namespace projects, or projects in groups where the user is the *only* member. This workflow cannot be completed if the request indicates the user's country is Cuba, Iran, North Korea, Syria, Russia, Belaru or the Crimea, Donetsk or Luhanks regions of Ukraine as these are embargoed countries and we are not permitted under Trade Compliance laws to engage with individuals in those locations. You can visit the [#privacy-team_help](https://gitlab.slack.com/archives/C04357HVCJD) Slack channel if you have any questions.
 
 1. The user will receive an auto-response directing them to [the project export steps for self-serve](https://docs.gitlab.com/ee/user/project/settings/import_export.html#export-a-project-and-its-data). Keep this issue opened for 7 days and close after that time if there are no further updates. Apply the `Export Request::self-serve` label.
+1. If the user is located in an embargoed country they will receive an auto-response informing them that GitLab is unable to fulfill their request and the Issue will be auto-closed
 1. If the user runs into any issues using the self-serve steps, they can reply to the auto-response with more details about the error they are receiving. If they reply *after* the issue has been closed, re-open the issue.
 1. Before we continue to assist, we must validate their identity. Manually send the customer the [Verification Challenge questions](https://internal.gitlab.com/handbook/support/#account-verification-challenge-questions) through the issue. Users have a total of **7 calendar days** to respond to the challenge questions.
 1. Follow the same steps we use for account deletion requests to validate their account:
