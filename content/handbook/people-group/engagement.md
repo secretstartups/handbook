@@ -105,10 +105,11 @@ Our Engagement Survey for FY'25 is scheduled to run from 2024-06-17 to 2024-06-2
 
 - 202-06-17: Survey launch @ 8am PT
 - 2024-06-28: Survey close @ 5pm PT
-- 2024-07-08: High-level summary shared with CPO and PBPs
+- 2024-07-08: High-level summary shared with People Leadership Team
 - 2024-07-09: High-level summary shared with E-Group
-- 2024-07-18: High-level summary release (company-wide)
-- 2024-07-18 through 2024-07-31: E-group division-level summary release
+- 2024-07-18: High-level summary release (company-wide) and followed by handbook updates
+- 2024-07-18 through 2024-07-31: E-group & leadership division-level summary release
+- Q3 - Finalize Division specific action plans 
 
 ### Summit Pulse Surveys Overview
 
