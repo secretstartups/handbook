@@ -224,14 +224,16 @@ summary and corrective actions. The rotation for upcoming milestones is as follo
 | 16.11 | Kushal Pandya |
 | 17.0 | John Hope |
 | 17.1 | Brandon Labuschagne |
-| 17.2 | Donald Cook |
+| 17.2 | Vladimir Shushlin |
 | 17.3 | Kushal Pandya |
-| 17.4 | Vladimir Shushlin |
+| 17.4 | Donald Cook |
 | 17.5 | John Hope |
-| 17.6 | Brandon Labuschagne |
-| 17.7 | Donald Cook |
-| 17.8 | Kushal Pandya |
-| 17.9 | Vladimir Shushlin |
+| 17.6 | Donald Cook |
+| 17.7 | Kushal Pandya |
+| 17.8 | Vladimir Shushlin |
+| 17.9 | John Hope |
+| 17.10 | Donald Cook |
+| 17.11 | Kushal Pandya |
 
 The role of the DRI is to facilitate a psychologically safe environment where team-members
 feel empowered to give feedback with candour. As such they should refrain from participating
@@ -434,16 +436,19 @@ The responsibility of the DRI is simply to collect information and to ensure the
 
 | Issue creation (auto) | DRI |
 |---   | ---       |
-| 2024-05-27 | Donald Cook |
-| 2024-06-03 | Vladimir Shushlin |
-| 2024-06-10 | Kushal Pandya |
-| 2024-06-17 | Donald Cook |
 | 2024-06-24 | Brandon Labuschagne |
 | 2024-07-01 | John Hope |
 | 2024-07-08 | Vladimir Shushlin |
 | 2024-07-15 | Kushal Pandya |
 | 2024-07-22 | John Hope |
-| 2024-07-29 | Brandon Labuschagne |
+| 2024-07-29 | Vladimir Shushlin |
+| 2024-08-05 | Kushal Pandya |
+| 2024-08-12 | Donald Cook |
+| 2024-08-19 | John Hope |
+| 2024-08-26 | Vladimir Shushlin |
+| 2024-09-02 | Kushal Pandya |
+| 2024-09-09 | Donald Cook |
+| 2024-09-16 | John Hope |
 
 #### Links
 
