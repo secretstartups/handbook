@@ -191,7 +191,7 @@ Since GitLab is an [all remote](/handbook/company/culture/all-remote/) company w
 - [Right to Employment Free from Discrimination and Sexual Harassment](https://dhr.illinois.gov/content/dam/soi/en/web/dhr/documents/idhr-employer-notice-poster-v9.22.pdf)
 - [Workers' Compensation Notice - Inc.](https://drive.google.com/file/d/1PjPrd9_YG_5YumpJxaqDG-KDaUj4sLAD/view?usp=sharing)
 - **City of Chicago**
-  - [Minimum Wage, Paid Sick Leave, Wage Theft and Human Trafficking](https://www.chicago.gov/content/dam/city/depts/bacp/OSL/20220701mwandpslenglishletterfv.pdf)
+  - [Minimum Wage, Paid Sick Leave, Wage Theft and Human Trafficking](https://www.chicago.gov/content/dam/city/depts/bacp/OSL/07012024mwplenglish.pdf)
 - **Cook County**
   - [Earned Sick Leave Ordinance](https://www.cookcountyil.gov/sites/g/files/ywwepo161/files/service/model-earned-sick-leave-notice-employees-workplace-poster.pdf)
 
