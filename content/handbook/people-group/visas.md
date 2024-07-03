@@ -30,7 +30,7 @@ Please refer to the [Global Travel and Expense Policy Handbook Page](/handbook/f
 
 In some cases when traveling to a conference or summit you might need to arrange a visa to enter that specific country.
 
-Always **check the website of the Embassy of the Country you want to visit** located in your home country. They will have the most updated information on whether or not you need a visa and what is needed for your application. In some instances you can travel under a visa waiver program (e.g. [ESTA](https://esta.cbp.dhs.gov/esta/)) in other cases you might need to arrange a tourist or business visa. Read their website carefully and if you need an invitation letter for your application you can request one following [this process](https://internal.gitlab.com/handbook/people-group/people-operations/people-connect/frequently_requested#visa-invitation-letter). If you need any further help with acquiring the needed documents for your application, please reach out in #people-connect or email people-connect@gitlab.com if your query contains sensitive information.
+Always **check the website of the Embassy of the Country you want to visit** located in your home country. They will have the most updated information on whether or not you need a visa and what is needed for your application. In some instances you can travel under a visa waiver program (e.g. [ESTA](https://esta.cbp.dhs.gov/esta/)) in other cases you might need to arrange a tourist or business visa. Read their website carefully and if you need an invitation letter for your application you can request one following [this process](https://internal.gitlab.com/handbook/people-group/people-operations/people-connect/frequently_requested#visa-invitation-letter). If you need any further help with acquiring the needed documents for your application, please create a case for the People Connect team via [HelpLab](https://helplab.gitlab.systems/esc?id=emp_taxonomy_topic&topic_id=57e1ad3997804e50a326158de053af3d) with the information required.
 
 #### Tips & Tricks for visa arrangements {#visa-tips}
 
@@ -118,11 +118,11 @@ Tenure of less than 1 year at GitLab may be possibly waived as a requirement if:
 - You are a member of an [underrepresented](/handbook/company/culture/inclusion/#definitions) group that is unsafe or in any way mistreated in your country.
 - Violence in your country does not provide a safe environment.
 
-If you meet these requirements, kindly read our [Relocation]({{< ref "relocation" >}}) handbook page, as well as our specific [Netherlands section]({{< ref "relocation#relocating-to-the-netherlands" >}}), to ensure that your request is evaluated and approved following our protocols. **Please email people-connect@gitlab.com if you have any questions.**
+If you meet these requirements, kindly read our [Relocation]({{< ref "relocation" >}}) handbook page, as well as our specific [Netherlands section]({{< ref "relocation#relocating-to-the-netherlands" >}}), to ensure that your request is evaluated and approved following our protocols. **Please reach out to the People Connect team via HelpLab if you have any questions.**
 
 #### Transferring a partner visa to a highly skilled migrant visa
 
-Someone already in the Netherlands on a partner visa can be transferred to their own highly skilled migrant visa in order to not be dependent anymore. The process can take up to three months and is subject to above [eligibility criteria]({{< ref "visas#right-to-immigrate-to-the-netherlands" >}}) and executive approval. Please email people-connect@gitlab.com to start this process.
+Someone already in the Netherlands on a partner visa can be transferred to their own highly skilled migrant visa in order to not be dependent anymore. The process can take up to three months and is subject to above [eligibility criteria]({{< ref "visas#right-to-immigrate-to-the-netherlands" >}}) and executive approval. Please reach out to the People Connect team via HelpLab to get this process started.
 
 Tasks for People Connect:
 

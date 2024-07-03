@@ -594,7 +594,7 @@ Job information changes are used to update any information on the team member's 
 
 ### For Current Manager: Processing Manager Changes
 
-[This job aid](https://docs.google.com/document/d/1JEobACNSMeHU4pU5DaaF7aqmv9wmSDoXx7veZ6_SM_I/edit?usp=sharing) will help provide people managers with instructions on how to move team members to another manager within Workday. If the manager you need to move your direct report to is not available, it likely means they do not have a "supervisory organization" created.  Even if their management level shows "Manager" a supervisory organization is needed in Workday for a team member to have a direct report. Supervisory organizations should have a name unique to the team they are managing (e.g. Commercial Sales - EMEA, Content Marketing (John Smith), Backend Engineering - Ruby). Please reach out to #people-connect with the name of the team member who needs the supervisory organization set up, the unique name, and the effective date of the supervisory organization. We can gladly help set it up in Workday.
+[This job aid](https://docs.google.com/document/d/1JEobACNSMeHU4pU5DaaF7aqmv9wmSDoXx7veZ6_SM_I/edit?usp=sharing) will help provide people managers with instructions on how to move team members to another manager within Workday. If the manager you need to move your direct report to is not available, it likely means they do not have a “supervisory organization” created.  Even if their management level shows “Manager” a supervisory organization is needed in Workday for a team member to have a direct report. Supervisory organizations should have a name unique to the team they are managing (e.g. Commercial Sales - EMEA, Content Marketing (John Smith), Backend Engineering - Ruby). Please reach out to the People Connect team via [HelpLab](https://helplab.gitlab.systems/esc?id=emp_taxonomy_topic&topic_id=14aff309478c069067429ee0026d4372) with the name of the team member who needs the supervisory organization set up, the unique name, and the effective date of the supervisory organization. We can gladly help set it up in Workday.
 
 Note for Sales Managers: If team members are not moved under the correct sales manager in Workday, credits will not be rolled-up to the correct manager for sales commissions. See additional promotion and transfer considerations for commissionable roles [here]({{< ref "promotions-transfers#promotions-and-transfers-of-employees-in-commissionable-roles" >}}).
 
@@ -606,7 +606,7 @@ Note for Sales Managers: If team members are not moved under the correct sales m
 
 **Process for EBA to update senior leadership:**
 
-1. Send an email to People Connect, `people-connect@gitlab.com` requesting the changes to be made in Workday and provide an effective date.
+1. Create a case in [HelpLab](https://helplab.gitlab.systems/esc?id=emp_taxonomy_topic&topic_id=c15e3b45478c069067429ee0026d43e1) for the People Connect team requesting the changes to be made in Workday and provide an effective date.
 1. The People Connect Team will process the changes in Workday.
 1. Once complete, the team will follow-up with the EBA to let them know all changes have been made.
 1. The EBA will then need to make the changes on the Team Page.
@@ -614,7 +614,7 @@ Note for Sales Managers: If team members are not moved under the correct sales m
 ### For People Connect: Processing Job Information Change Requests
 
 1. Audit all job change requests and ensure the changes are captured in the Payroll tracker.
-1. In case of `Job Title Specialty` change requests, managers will reach out to the People Connect Team (email people-connect@gitlab.com) to have a team members `Speciality` updated in Workday.
+1. In case of `Job Title Specialty` change requests, managers will reach out to the People Connect Team (via HelpLab) to have a team members `Speciality` updated in Workday.
     - The People Connect Team member should check whether the title already exists in Workday. If not, check whether the `Job Speciality` has been added to the respective departments Handbook page (example: [https://about.gitlab.com/handbook/engineering/development/enablement/data_stores/search/](/handbook/engineering/development/enablement/data_stores/search/) or if the People Connect Team members are tagged in a respective issue to have it added. If unclear, reach out to the [respective People Business Partner](/handbook/people-group#people-business-partner-alignment-to-division)
 
 ## Department Transfers
@@ -747,7 +747,7 @@ When a career mobility may not be needed (but can be requested):
 
 - Team/Speciality change but no access request needed
 
-Any other role changes where a Manager feels their team member's role may require a career mobility issue, please reach out to people-connect@gitlab.com.
+Any other role changes where a Manager feels their team member's role may require a career mobility issue, please reach out to the People Connect team via HelpLab.
 
 ## Career Mobility Issue Creation Process
 
