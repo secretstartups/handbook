@@ -133,6 +133,7 @@ When an incident is attributed to a group, a notification will be sent to the tr
         /label ~"flaky-test::transient bug"
         /label ~"flaky-test::unreliable dom selector"
         /label ~"flaky-test::unstable infrastructure"
+        /label ~"flaky-test::too-many-sql-queries" 
         ```
 
       - Close the incident
