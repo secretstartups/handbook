@@ -390,10 +390,14 @@ Please reach out to the [Analytics Instrumentation Group EM/PM](/handbook/engine
 We define incidents as a deviation from the intended process that significantly disrupts the reporting of metrics to the point that immediate action is required. These reasons should lead to the creation of an incident:
 
 1. Any SEV-1 Monte Carlo alert posted into #g_analytics_instrumentation_alerts that's not directly associated with an exisiting incident.
-1. Any suspected loss or delay of analytics data that might affect metrics with a `performance_indicator_type` and could be originating in the Analytics Instrumentation domain.
-Examples of incidents
-1. [High severity incidents](https://gitlab.com/gitlab-org/gitlab/-/issues/442875)
-1. [Medium severity incidents](https://gitlab.com/gitlab-org/gitlab/-/issues/443639)
+1. Any disruption of event collection on our main Snowplow event collection infrastructure.
+1. Any other suspected loss or delay of analytics data that might affect metrics with a `performance_indicator_type` and could be originating in the Analytics Instrumentation domain.
+
+Examples of incidents:
+
+   1. [High severity incidents](https://gitlab.com/gitlab-org/gitlab/-/issues/442875)
+   1. [Medium severity incidents](https://gitlab.com/gitlab-org/gitlab/-/issues/443639)
+
 When choosing whether to declare an incident:
 
 1. Rather err on the side of declaring an incident even if you run the risk of it not being one. We'd rather close an incident as false positive than miss out on one.
@@ -419,7 +423,7 @@ alert)_
 
 _(DRI: To be identified by EM of the Analytics Instrumentation group)_
 
-1. DRI to work on resolving the issue as quickly as possible. The first priority is to find a fix, even if that is a temporary one, before working on a long term resolution.
+1. DRI to work on resolving the issue as quickly as possible. The first priority is to find a fix, even if that is a temporary one, before working on a long term resolution. Our [monitoring and troubleshooting guide](./monitoring_troubleshooting.html) can be helpful here.
 1. EM to review severities assigned by detection DRI.
 1. In case of a ~"Analytics Instrumentation::Incident-High Severity" issue:
     - DRI to create a temporary channel for the incident in Slack and invite the whole group including PM and relevant stakeholders based on the incident.
