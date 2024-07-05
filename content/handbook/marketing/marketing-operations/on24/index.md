@@ -331,3 +331,7 @@ The On24 Engagement Score is an aggregate of all of the activities that an atten
 ### ON24 FAQ
 
 The campaigns team has started a FAQ document [here](https://docs.google.com/document/d/1UI5EzypN1j6_Gx5xcM8mR2gKFcM9QFxs-OZwkpK0QDU/edit#). *Once it is completed, the text will be added to this page.
+
+### Data Removal Requests
+
+If a user requests we remove their data from On24, email `dsr@on24.com` with the request and On24 will manage the removal. 
