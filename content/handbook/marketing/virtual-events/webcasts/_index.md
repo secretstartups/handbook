@@ -533,7 +533,7 @@ If additional assistance is required, please comment in the [#marketing_programs
 
 {: #zoom-multiple-timeslots} <!-- DO NOT CHANGE THIS ANCHOR -->
 
-:exclamation: **Note from @jgragnola: let's see if we can simplify and remove the "multiple timeslot webcast" section so that there is just instruction on updating the form (or create a new program template in Marketo)**
+:exclamation: **Note from @aoetama: let's see if we can simplify and remove the "multiple timeslot webcast" section so that there is just instruction on updating the form (or create a new program template in Marketo)**
 
 Note: These instructions are for a single webcast with multiple timeslots and the person can only register for one time. If you would like instructions for a single landing page for a webcast series of different topics, see `Scheduling a multi-webcast series - Single landing page` below.
 
@@ -648,7 +648,7 @@ If you have 3 webcasts, you will have 3 Zoom webcasts and 3 Marketo programs. Ti
 
 {: #zoom-webcast-invites} <!-- DO NOT CHANGE THIS ANCHOR -->
 
-:exclamation: **Note from @jgragnola: we are working on further templatizing these invitations so that copy changes are not needed and tokens take care of these emails.** ([issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/3422))
+:exclamation: **Note from @aoetama: we are working on further templatizing these invitations so that copy changes are not needed and tokens take care of these emails.** ([issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/3422))
 
 1. Update emails `invitation 1 - 2 weeks prior`,  `invitation 2 - 1 week prior` , and if needed `invitation 3 - Day before` with relevant copies related to the webcast. *Note: We normally use the same copy for all 3 emails and simply tweaked the templated subject lines to sound more like "Reminders".*
 2. Approve copy and send samples to the requestor, and the presenter (if different from requestor).
@@ -809,11 +809,11 @@ In the event you need to cancel your webcast, please follow the steps outlined b
 * [ON24 Webcast Login Portal](https://wcc.on24.com/webcast/login)
 * [ON24 Knowledge Centre](https://on24support.force.com/Support/s/knowledge)
 
-### Types of ON24 Webcasts
+### ON24 Event Types
 
 {: #on24-types} <!-- DO NOT CHANGE THIS ANCHOR -->
 
-* **ON24 Live (with Screen Share):** traditional live webcast with live speakers and Q&A.
+* **Live Video (Video and audio with screen share):** traditional live webinar with speakers and Q&A.
   * Pre-event registration takes place
   * The event automatically converts to on-demand upon completion
 * **ON24 Live Audio (no Screen Share):** multiple presenters can present a live webcast using the telephone. Presenters will dial into the ON24 presenter phone bridge for the live event. Live screen share is not available with this event type.
@@ -1386,7 +1386,7 @@ If additional assistance is required, please comment in the [#marketing_programs
 
 ### Webcast invitation - WebEx
 
-:exclamation: **Note from @jgragnola: we are working on further templatizing these invitations so that copy changes are not needed and tokens take care of these emails.** ([issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/3422))
+:exclamation: **Note from @aoetama: we are working on further templatizing these invitations so that copy changes are not needed and tokens take care of these emails.** ([issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/3422))
 
 1. Update emails `invitation 1 - 2 weeks prior`,  `invitation 2 - 1 week prior` , and if needed `invitation 3 - Day before` with relevant copies related to the webcast. *Note: We normally use the same copy for all 3 emails and simply tweaked the templated subject lines to sound more like "Reminders".*
 2. Update email `Registration Confirmation`, and if desired `Reminder 1` , and  `Reminder 3` with relevant copies related to the webcast. *Note: We normally use the same copy for all 3 emails and simply tweaked the templated subject lines to sound more like "Reminders".*
