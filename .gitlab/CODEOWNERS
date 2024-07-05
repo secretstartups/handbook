@@ -530,6 +530,7 @@
 
 ^[security]
 /content/handbook/security/ @joshlemos @jlongo_gitlab @plafoucriere @juliedavila
+/content/handbook/security/corporate/ @smanzuik @ericrubin @dzhu-gl @mbeee
 /content/handbook/security/identity/ @gitlab-com/gl-security/identity
 /content/handbook/security/product-security/ @juliedavila
 /content/handbook/security/product-security/infrastructure-security.md @juliedavila
