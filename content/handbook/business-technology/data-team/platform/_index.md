@@ -1,7 +1,6 @@
 ---
 title: "Data Team Platform"
 description: "GitLab Data Team Platform"
-controlled_document: true
 ---
 
 ## Purpose

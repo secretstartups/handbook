@@ -1,8 +1,25 @@
 ---
 title: "GitLab Ireland Ltd Right to Disconnect Policy"
 description: GitLab Ireland Ltd Right to Disconnect Policy
-controlled_document: true
 ---
+
+<div class="panel panel-gitlab-orange">
+**This is a Secure Document**
+{: .panel-heading}
+<div class="panel-body">
+
+Per the stated [Roles & Responsibilities](/handbook/people-policies/ireland-ltd/#roles--responsibilities), changes to this page must be approved or merged by a code owner. All contributions are welcome and encouraged.
+
+</div>
+</div>
+
+## Roles and Responsibilities
+
+| Role | Responsibility |
+|-----------|-----------|
+| GitLab Ireland Ltd Team Members | Responsible for following the requirements in these policies |
+| People Ops | Responsible for implementing and executing these policies |
+| Legal & People Ops Management (Code Owners) | Responsible for approving significant changes and exceptions to these policies |
 
 ## 1. Purpose
 

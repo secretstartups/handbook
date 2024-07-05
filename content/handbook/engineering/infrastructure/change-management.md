@@ -1,6 +1,5 @@
 ---
 title: "Change Management"
-controlled_document: true
 ---
 
 ## Purpose

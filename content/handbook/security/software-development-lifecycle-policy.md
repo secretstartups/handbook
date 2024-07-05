@@ -1,6 +1,5 @@
 ---
 title: "Software Development Lifecycle Policy"
-controlled_document: true
 ---
 
 ## Purpose
