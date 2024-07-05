@@ -1,8 +1,26 @@
 ---
 title: "GitLab France S.A.S. Right to Disconnect Charter"
 description: GitLab France S.A.S. Right to Disconnect Charter - French and English language versions.
-controlled_document: true
 ---
+
+<div class="panel panel-gitlab-orange">
+**This is a Secure Document**
+{: .panel-heading}
+<div class="panel-body">
+
+Per the stated [Roles & Responsibilities](/handbook/people-policies/france-sas/#roles--responsibilities), changes to this page must be approved or merged by a code owner. All contributions are welcome and encouraged.
+
+</div>
+</div>
+
+## Roles and Responsibilities
+
+| Role | Responsibility |
+|-----------|-----------|
+| GitLab France S.A.S. Team Members | Responsible for following the requirements in these policies |
+| People Ops | Responsible for implementing and executing these policies |
+| Legal & People Ops Management (Code Owners) | Responsible for approving significant changes and exceptions to these policies |
+
 <!-- vale handbook.Spelling = NO -->
 ## Français: GITLAB FRANCE S.A.S. CHARTE SUR LE DROIT À LA DÉCONNEXION
 
