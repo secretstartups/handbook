@@ -390,7 +390,8 @@ We check for new releases of the upstream scanners on a monthly basis, as part o
    1. [Trivy K8S wrapper](https://gitlab.com/gitlab-org/security-products/analyzers/trivy-k8s-wrapper/-/blob/main/docs/update_scanner.md)
 1. [OpenTofu](https://opentofu.org/)
    1. [Deployment](https://gitlab.com/gitlab-org/security-products/license-db/deployment)
-
+1. [OpenTofu component](https://gitlab.com/components/opentofu)
+   1. [Deployment](https://gitlab.com/gitlab-org/security-products/license-db/deployment/-/blob/main/.gitlab-ci.yml#L5)
 Every analyzer relying on an upstream scanner has a "*How to update the upstream Scanner*" section in their readme detailing the process. This includes a verification for possible new security vulnerabilities and a license check which are detailed below.
 
 ##### Security checks when updating an upstream scanner
