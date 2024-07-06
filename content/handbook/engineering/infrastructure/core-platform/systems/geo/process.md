@@ -265,7 +265,7 @@ Bugs that have gone through screening can then be assessed by the engineer that 
 - Devise a high-level possible resolution approach and identify the type of bug it is
 - Roughly estimate the effort for resolution by assigning a weight
 
-The backlog from where the DRI engineer works are all bugs labelled with `group::geo`, `geo::planning` and `workflow::solution validation`. These are the bugs that have gone through screening.
+The backlog from where the DRI engineer works are all bugs labelled with `group::geo`, `geo::planning` and `workflow::solution validation` and `type::bug` and are listed on this [Geo Bug Awaiting Triage issue board](https://gitlab.com/groups/gitlab-org/-/boards/7636877). These are the bugs that have gone through screening.
 
 When trying to reproduce, the engineer may recruit help from the QA stable counterpart if needed (e.g. to get help setting up a test framework and/or environment that meets the conditions to reproduce the problem).
 
@@ -287,7 +287,7 @@ If after investing some time and reasonable effort the engineer is unable to rep
 
 If the bug was triggered by a customer, the PM can then work with the customer to open a customer support request to investigate the problem in the context of the customer's own data and infrastructure. This investigation may lead to a new bug being opened with more specific and reliable reproduction steps.
 
-Refer to the [Geo Bug Triage issue board](https://gitlab.com/groups/gitlab-org/-/boards/1077712).
+Refer to the [Geo Bug Awaiting Triage issue board](https://gitlab.com/groups/gitlab-org/-/boards/7636877).
 
 ##### Phase 3: Scheduling
 
