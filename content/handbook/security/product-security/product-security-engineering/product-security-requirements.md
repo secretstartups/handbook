@@ -151,3 +151,28 @@ The table below describes the responsibilities for each stakeholding team that m
 | Product Security teams | Submitting requirement issues, participating in refinement and solution validation discussions, providing feedback |
 | Product Security Engineering | Refining submitted requirements and potential solutions, facilitating discussions and decision-making with other stakeholders, implementing + maintaining + supporting solutions until handover occurs |
 | GitLab Product and Engineering Managers | Participating in discussions around solutions + ownership + transition, eventually owning functionality and features after handover |
+
+## Tips and Tricks
+
+### Sunset Roadmaps
+
+A sunset roadmap describes the phases and steps needed to move functionality from custom tooling into GitLab. It provides a high-level overview to leadership that answers "what needs to happen so we can secure GitLab _with_ GitLab, instead of with this custom tooling". These steps are optional guidance, not prescriptive.
+
+1. Create a "Sunset Roadmap" issue in the tool's issue tracker when you create the project.
+    1. As functionality is added to the tool, update the sunset roadmap. Remember to keep it high level. Technical detail can live elsewhere, like the README.
+1. If the tool has no existing sunset issue, or the existing one is out of date, perform a gap analysis of functionality between GitLab and the custom tooling
+    1. Identify the stakeholders that use the tool and involve them early - they can point you to relevant context quickly, and might need to remain informed of sunsetting efforts.
+    1. The gap analysis might identify requirements that neither the tooling nor GitLab currently meet. These don't need to be added to the Sunset Roadmap.
+1. Identify any GitLab issues and/or architectural blueprints that describe plans the product team might have for GitLab functionality
+1. Segment the work into "phases". 
+    1. Each phase has the steps needed to move a piece of functionality into GitLab. It will include at least two steps: adding to GitLab, and removing from the custom tooling
+    1. Link to existing issues, epics, blueprints
+    1. Each phase should state "This phase is complete when ...".
+    1. Consider any process changes that might be required.
+1. Have the Sunset Roadmap peer reviewed
+1. Inform a Product Security Manager that the Roadmap is ready for prioritization. This too can follow the same "Build vs. Wait vs. Buy" process documented above.
+
+Example:
+
+1. https://gitlab.com/gitlab-com/gl-security/product-security/product-security-engineering/product-security-engineering-team/-/work_items/60/ is an example of a Gap Analysis on two ProdSecEng tools
+1. https://gitlab.com/groups/gitlab-com/gl-security/-/epics/294#sunset-roadmap is an example of a Sunset Roadmap created after the Gap Analysis
