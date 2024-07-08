@@ -382,7 +382,8 @@ Note that the budget spend is calculated proportionally by requests failing apde
 
 ## Incidents
 
-The process below outlines the different stages of the incident detection and resolution process and the steps to be taken by the corresponding Directly Responsible Individuals (DRIs).
+Within Analytics Instrumentation we have an incident process that's separate to [GitLab's main incident management process](https://docs.gitlab.com/ee/operations/incident_management/slack.html#declare-an-incident), because most incidents that Analytics Instrumentation faces are not customer facing and can be resolved more effectively within the team.
+The process below outlines the different stages of the Analytics Instrumentation incident detection and resolution process and the steps to be taken by the corresponding Directly Responsible Individuals (DRIs).
 Please reach out to the [Analytics Instrumentation Group EM/PM](/handbook/engineering/development/analytics/analytics-instrumentation/#team-members) for any recommendations to changes in the process.
 
 ### Incident Definition
