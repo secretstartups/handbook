@@ -116,6 +116,7 @@ Status: In progress
 
 - Planning: 2024-06-10 to 2024-06-21
 - Calibrations & Workday input by Director+: 2024-06-24 to 2024-07-10
+- PBP & E-Group leader approvals: 2024-07-12
 - Workday Approvals: 2024-07-16 to 2024-07-18
 - Communication: 2024-07-24 to 2024-08-01
 - Effective date for promotions: 2024-08-01
