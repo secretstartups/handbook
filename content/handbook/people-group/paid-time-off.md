@@ -136,7 +136,7 @@ Returning from PTO of any length can feel overwhelming. Consider implementing th
 
 #### Adjust/Remove PTO from past events
 
-The People Operations team is able to adjust active PTO events and past PTO events. If you need the team to adjust an event, please send an email to `people-connect@gitlab.com` with the dates and time e.g. 'please remove two hours of PTO from October 31st'.
+The People Operations team is able to adjust active PTO events and past PTO events. If you need the team to adjust an event, please submit a HelpLab - Paid Time Off request with the details e.g. 'please remove two hours of PTO from October 31st'.
 
 We encourage everyone to fully step away from work on their days off but understand that unforseen events can arise.
 
@@ -234,7 +234,7 @@ All team members and Managers, including those employed under a PEO, are expecte
 
 Please be aware that new team members' Time Off by Deel accounts are activated and synced automatically once a day, so if you try to access Time Off by Deel on your first day and receive an error message, please attempt to access Time Off by Deel on Day 2. If you still receive an error message, let your assigned People Connect Team member know in your onboarding issue.
 
-GitLab team member questions about Time Off by Deel can be directed to `#people-connect` Slack channel.
+GitLab team member questions about Time Off by Deel can be directed to the HelpLab portal.
 
 ### Slack Commands
 
@@ -293,7 +293,7 @@ If you receive an error message **"Uh-oh! It doesn't look like you have access t
         - Select Email and follow the sets to change your email address.
     - Update your BambooHR email by logging into BambooHR - selecting the personal tab and scroll to the bottom. Update the Work Email field with the correct email address.
 1. Once these two emails match, it will take a few hours for the sync to catch up to the change.
-1. If these two are the same, please reach out in the `#people-connect` channel.
+1. If these two are the same, please reach out in HelpLab.
 
 ### Additional Features
 
@@ -388,7 +388,7 @@ For audit and compliance purposes, managers have a responsibility to be aware of
 
 If you discover that multiple people in your team want to be off at the same time, see what the priorities are, review the impact to the business, and use your best judgement. Discuss this with your team so you can manage the time off together. It is also a good idea to remind your team to give everyone an early heads-up, if possible, about upcoming vacation plans. Reminders can be sent in Slack, shared on a team calendar, or noted during team meetings.
 
-If as a manager you are notified that your direct report has been incapacitated or unable to submit an OOO request in Time Off by Deel and needs to take time off, be it Sick Time or otherwise, please document this information, and relay it to the People Connect Team at `people-connect@gitlab.com` without disclosing private medical information in compliance with applicable privacy laws. The People Connect Team will submit an OOO request on the team members behalf and mark the reason as `Per Manager Name`, and save the email thread in the team members `Sickness` folder in Workday. This documentation will be unshared and will not contain any personal medical information.
+If as a manager you are notified that your direct report has been incapacitated or unable to submit an OOO request in Time Off by Deel and needs to take time off, be it Sick Time or otherwise, please document this information, and relay it to the People Connect Team via HelpLab without disclosing private medical information in compliance with applicable privacy laws. The People Connect Team will submit an OOO request on the team members behalf and mark the reason as `Per Manager Name`, and save the email thread in the team members `Sickness` folder in Workday. This documentation will be unshared and will not contain any personal medical information.
 
 ### Time Off by Deel Manager Reporting
 
