@@ -102,7 +102,7 @@
 /content/handbook/customer-success/professional-services-engineering/education-services/ @scottcosentinogitlab @nshah19
 
 ^[eba-team]
-/content/handbook/eba/ @jrotenberry @lsimonot
+/content/handbook/eba/ @jrotenberry @csylva227
 
 ^[engineering]
 /content/handbook/engineering/ @sabrinafarmer
@@ -341,7 +341,7 @@
 /content/handbook/marketing/blog/ @dsteer @Sgittlen
 /content/handbook/marketing/blog/release-posts/  @justinfarris @dsteer @Sgittlen
 /content/handbook/marketing/campaigns/ @aoetama @eirinipan @ikryzeviciene @srances @meilynda @ttran5
-/content/handbook/marketing/channel-marketing/ @cmaynard1 @lblanchard
+/content/handbook/marketing/channel-marketing/ @laurafagan
 /content/handbook/marketing/corporate-communications/ @akramer @cweaver1
 /content/handbook/marketing/corporate-communications/incident-communications-plan.md @robin @johncoghlan @award4
 /content/handbook/marketing/corporate-communications/resources-trainings.md @cweaver1 @award4
@@ -365,7 +365,7 @@
 /content/handbook/marketing/digital-experience/ @fqureshi @laurenbarker
 /content/handbook/marketing/emergency-response.md @akramer @rkohnke @amy.waller
 /content/handbook/marketing/events/ @akramer
-/content/handbook/marketing/growth/ @akramer @s_awezec @gdoud
+/content/handbook/marketing/growth/ @akramer @gdoud
 /content/handbook/marketing/growth/engineering/ @kniechajewicz
 /content/handbook/marketing/inbound-marketing/ @akramer
 /content/handbook/marketing/inbound-marketing/search-marketing/ @ncregan @hsmith-watson @akramer
@@ -379,10 +379,8 @@
 /content/handbook/marketing/marketing-career-development/ @akramer
 /content/handbook/marketing/marketing-enablement.md  @justinfarris
 /content/handbook/marketing/marketing-operations/ @christinelee @amy.waller
-/content/handbook/marketing/marketing-strategy-and-platforms.md @akramer @christinelee @s_awezec
+/content/handbook/marketing/marketing-strategy-and-platforms.md @akramer @christinelee
 /content/handbook/marketing/netlifycms.md @laurenbarker
-/content/handbook/marketing/plan-fy22.md @lblanchard
-/content/handbook/marketing/plan-fy23.md @lblanchard
 /content/handbook/marketing/positioning-faq.md @akramer @dsteer
 /content/handbook/marketing/project-management-guidelines/ @johncoghlan
 /content/handbook/marketing/readmes/ @akramer
@@ -390,7 +388,7 @@
 /content/handbook/marketing/sales-development/ @akramer @jlarramendy
 /content/handbook/marketing/sales-plays-cicd/ @dsteer
 /content/handbook/marketing/smb-marketing.md @ikryzeviciene @meilynda @bstallings @warias @dsteer
-/content/handbook/marketing/strategy-performance/allocadia/ @rcallam @emathis @lblanchard
+/content/handbook/marketing/strategy-performance/allocadia/ @rcallam @emathis
 /content/handbook/marketing/team-member-social-media-policy.md @rchachra @robin @award4
 /content/handbook/marketing/utm-strategy.md @ikryzeviciene @rkohnke @aoetama
 /content/job-families/marketing/ @akramer @cbednarz @anjali_kaufmann @dparsonage @glucchesi @carlierussell @mwilkins
@@ -424,10 +422,10 @@
 /content/handbook/marketing/use-cases.md @dsteer
 
 ^[Marketing-Integrated-Marketing]
-/content/handbook/marketing/field-marketing/ @cmaynard1 @lblanchard
-/content/handbook/marketing/integrated-marketing/ @akramer @cmaynard1
-/content/handbook/marketing/integrated-marketing/corporate-events.md @cmaynard1 @kdemarest
-/content/handbook/marketing/integrated-marketing/digital-strategy/ @cmaynard1 @bstallings
+/content/handbook/marketing/field-marketing/ @laurafagan
+/content/handbook/marketing/integrated-marketing/ @akramer @laurafagan
+/content/handbook/marketing/integrated-marketing/corporate-events.md @kdemarest
+/content/handbook/marketing/integrated-marketing/digital-strategy/ @bstallings
 /content/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/ @award4
 /content/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/social-reporting.md @award4
 
@@ -502,13 +500,13 @@
 /content/handbook/resellers/ @ecepulis
 /content/handbook/resellers/training.md @chrisweber44  @ecepulis
 /content/handbook/sales/ @chrisweber44  @jakebielecki @james_harrison
-/content/handbook/sales/account-planning/ @lschoenfeld @chrisweber44  @emelier @kgavalas
+/content/handbook/sales/account-planning/ @lschoenfeld @chrisweber44 @emelier
 /content/handbook/sales/assistance-from-investors.md @james_harrison
 /content/handbook/sales/build-value-with-customers.md @chrisweber44
 /content/handbook/sales/channel/ @ecepulis
 /content/handbook/sales/club/ @kdemarest @kagarrett
 /content/handbook/sales/command-of-the-message/ @chrisweber44  @dsteer
-/content/handbook/sales/commercial/ @hmason @jvpotter @mzimmers @chrisweber44 @kyla @steve_xu @carolynharding
+/content/handbook/sales/commercial/ @hmason @jvpotter @chrisweber44 @kyla @steve_xu @carolynharding
 /content/handbook/sales/commissions/ @james_harrison
 /content/handbook/sales/faq-from-prospects.md @chrisweber44
 /content/handbook/sales/field-communications/ @monicaj @shannonthompson
