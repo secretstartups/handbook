@@ -232,7 +232,7 @@ GitLab tracks Internal Mobility rate. Market data indicates a 15% rolling promot
 
 #### Average % Compensation Change
 
-GitLab targets an average of [5-10% compensation change]({{< ref "promotions-transfers#recommend-a-compensation-increase" >}}) in general for promotions. This metric is in place to ensure we are consistent and equitable across the company when allocating promotion compensation raises to team members, in addition to ensuring competitive and meaningful promotion increases across the board.
+GitLab targets an average of [5-10% compensation change]({{< ref "promotions-transfers#recommending-a-compensation-increase" >}}) in general for promotions. This metric is in place to ensure we are consistent and equitable across the company when allocating promotion compensation raises to team members, in addition to ensuring competitive and meaningful promotion increases across the board.
 
 ### Budget Impact (see below)
 
