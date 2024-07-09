@@ -257,7 +257,7 @@ that have impacted composition analysis in the future.
     ```text
     <!--
     Select one of the following severities
-    Ref: https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity
+    Ref: https://handbook.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#severity
     -->
     /label ~"severity::1"
     /severity S1
@@ -273,7 +273,7 @@ that have impacted composition analysis in the future.
 
     <!--
     Select one of the following priorities
-    Ref: https://about.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#priority
+    Ref: https://handbook.gitlab.com/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#priority
     -->
     /label ~"priority::1"
     /label ~"priority::2"
@@ -373,7 +373,7 @@ The vulnerabilities reported on the currently used version of the scanner are au
 #### Setting up a mirror
 
 1. create a new project in https://gitlab.com/gitlab-org/security-products/dependencies (blank project).
-2. set up the project repository as [a pull mirror](https://docs.gitlab.com/ee/user/project/repository/repository_mirroring.html#pulling-from-a-remote-repository) of the upstream repository.
+2. set up the project repository as [a pull mirror](https://docs.gitlab.com/ee/user/project/repository/mirror/#pulling-from-a-remote-repository) of the upstream repository.
 3. find the git tag that matches the version currently used by our analyzer (usually represented by the `SCANNER_VERSION` variable in the analyzer's `Dockerfile`). Use exact commit if there is no git tag for the corresponding release we use.
 4. create a branch from that ref following naming convention `VERSION-security-checks` where `VERSION` is the version of the upstream scanner we currently use (e.g. `v6.12.0`).
 5. add a `.gitlab-ci.yml` configuration file to configure all compatible security scans.

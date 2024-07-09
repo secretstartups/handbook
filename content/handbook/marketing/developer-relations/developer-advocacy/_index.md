@@ -132,7 +132,7 @@ Our team regularly engages with the wider GitLab community. We do this organical
 
 The Developer Advocate team is the DRI for questions and strategy on the platforms below:
 
-<!-- This partially duplicates https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/#tool-stack-overview - when making updates, ensure to keep it in sync. -->
+<!-- This partially duplicates https://handbook.gitlab.com/handbook/marketing/developer-relations/workflows-tools/#tool-stack-overview - when making updates, ensure to keep it in sync. -->
 
 | Platform | Description | Workflows |
 |-------------|-------------|-----------|

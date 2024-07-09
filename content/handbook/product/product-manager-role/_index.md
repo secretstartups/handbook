@@ -116,13 +116,12 @@ projects:
 * about.gitlab.com
 * customers.gitlab.com
 * version.gitlab.com
-* license.gitlab.com
 
 This includes the entire stack and all its facets. The product team needs to weigh and prioritize not only bugs, features, regressions, and performance, but also architectural changes and other aspects required for ensuring GitLab's excellence. Product managers are the [DRIs](/handbook/people-group/directly-responsible-individuals/) for overall work prioritization but work collaboratively with their EM, UX, and QEM stable counterparts to ensure the right priorities from each [work type](/handbook/engineering/metrics/#work-type-classification) are considered as [each has a different DRI](/handbook/product/product-processes#prioritization-for-feature-maintenance-and-bugs).
 
 ## Learning and Development for Product Management
 
-We have a library dedicated to collecting and highlighting the best resources to support the growth and success of product managers in doing their job at GitLab as well as beyond, to achieve their long term career goals. We encourage product managers to work with their managers to identify areas for improvement, and leverage the [learning and development for product management](./learning-and-development/) resources accordingly.
+We have a library dedicated to collecting and highlighting the best resources to support the growth and success of product managers in doing their job at GitLab as well as beyond, to achieve their long term career goals. We encourage product managers to work with their managers to identify areas for improvement, and leverage the [learning and development for product management](learning-and-development/) resources accordingly.
 
 ## Product Manager Onboarding
 

@@ -462,7 +462,7 @@ Click to see dropdown list of available status page URLs.
 - [ZoomInfo](https://status.zoominfo.com/)
 - Vartopia - Lead Sharing Module
 - [Allocadia](https://support.allocadia.com/hc/en-us/sections/115001724228-System-Maintenance-Alerts)
-- [Hopin](https://status.hopin.com/)
+- Hopin
 - [Iterable](https://status.iterable.com/)
 - [Litmus](https://status.litmus.com/)
 - [On24](https://on24.my.site.com/Support/s/platform-status)

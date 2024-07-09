@@ -46,7 +46,7 @@ Three boards are used to monitor this process
 #### Plan
 
 We use the [Kanban Plan board](https://gitlab.com/groups/gitlab-org/-/boards/1181258)
-to triage issues that are not yet planned for a milestone. Issues in this board are labelled "geo::planning".
+to triage issues that are not yet planned for a milestone. Issues in this board are labeled "geo::planning".
 
 The Product Manager(PM) owns this board and uses it to advance issues through to becoming feasible Epics. When work leaves this
 board, it is in a fit state for the engineering team to implement the issue.
@@ -220,7 +220,7 @@ Triaging bugs is a team effort. Ultimately the process of triage is necessary to
 
 The following process attempts to mitigate these issues and increase the efficiency of engineers working toward a resolution.
 
-The entire process is broken down into phases, where issues classified as bugs are reviewed by different stakeholders, labelled in specific ways to be classified, and moved through a workflow through their resolution.
+The entire process is broken down into phases, where issues classified as bugs are reviewed by different stakeholders, labeled in specific ways to be classified, and moved through a workflow through their resolution.
 
 ##### Phase 1: Screening
 
@@ -243,13 +243,13 @@ The PM should also make a determination if certain bugs should be immediately cl
 
 The PM should use the [Triage Report](https://gitlab.com/gitlab-org/quality/triage-reports/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=group%3A%3Ageo&label_name%5B%5D=triage%20report&first_page_size=20) generated and sent through email as one of the sources of untriaged bugs that need screening. Another source is any bug with the `group::geo` tag that does not have a workflow label.
 
-Once a Bug is under screening, it can be labelled with `geo::planning` and `workflow::problem validation`. If during screening the DRI needs to ask for more information, the bug can be labelled with `awaiting feedback`
+Once a Bug is under screening, it can be labeled with `geo::planning` and `workflow::problem validation`. If during screening the DRI needs to ask for more information, the bug can be labeled with `awaiting feedback`
 
-Once the bug has passed screening it should be relabelled to `workflow::solution validation`.
+Once the bug has passed screening it should be relabeled to `workflow::solution validation`.
 
 Bugs that have been screened should meet the following criteria:
 
-- Labelled with: `group::geo`, `geo::planning` and `workflow::solution validation`
+- labeled with: `group::geo`, `geo::planning` and `workflow::solution validation`
 - A `severity` label has been set
 - The body of the issue is fully completed with the template information cited above
 - Should no longer have an `awaiting feedback` label
@@ -265,17 +265,17 @@ Bugs that have gone through screening can then be assessed by the engineer that 
 - Devise a high-level possible resolution approach and identify the type of bug it is
 - Roughly estimate the effort for resolution by assigning a weight
 
-The backlog from where the DRI engineer works are all bugs labelled with `group::geo`, `geo::planning` and `workflow::solution validation` and `type::bug` and are listed on this [Geo Bug Awaiting Triage issue board](https://gitlab.com/groups/gitlab-org/-/boards/7636877). These are the bugs that have gone through screening.
+The backlog from where the DRI engineer works are all bugs labeled with `group::geo`, `geo::planning` and `workflow::solution validation` and `type::bug` and are listed on this [Geo Bug Awaiting Triage issue board](https://gitlab.com/groups/gitlab-org/-/boards/7636877). These are the bugs that have gone through screening.
 
 When trying to reproduce, the engineer may recruit help from the QA stable counterpart if needed (e.g. to get help setting up a test framework and/or environment that meets the conditions to reproduce the problem).
 
-When in doubt about the resolution approach, the DRI engineer can ask for help from other engineers. If during the technical assessment, the DRI needs to ask for more information, the bug can be labelled with `awaiting feedback`
+When in doubt about the resolution approach, the DRI engineer can ask for help from other engineers. If during the technical assessment, the DRI needs to ask for more information, the bug can be labeled with `awaiting feedback`
 
 Once the engineer has been able to reproduce and assigned a weight, the bug should be moved to `workflow::scheduling`
 
 Bugs that have been technically assessed should meet the following criteria:
 
-- Labelled with: `group::geo`, `geo::planning` and `workflow::scheduling`
+- labeled with: `group::geo`, `geo::planning` and `workflow::scheduling`
 - A `bug::<subtype>` label has been assigned
 - The severity label has been updated (if necessary) according to workaround options found
 - Weight value has been assigned
@@ -293,7 +293,7 @@ Refer to the [Geo Bug Awaiting Triage issue board](https://gitlab.com/groups/git
 
 The PM is the DRI for scheduling bugs that have already been technically assessed. There are two scheduling scenarios to be considered:
 
-1. Bug issues estimated at weight = 1 or 2. These may be added to the active Geo build board for asap execution. For this purpose, the bug can be labelled with `geo::active` and `workflow::ready for development`. Engineers are then responsible to pick these up at their own discretion "in parallel" to their regular work during any given iteration. Engineers are expected to take at least one of these "small" bugs per iteration.
+1. Bug issues estimated at weight = 1 or 2. These may be added to the active Geo build board for asap execution. For this purpose, the bug can be labeled with `geo::active` and `workflow::ready for development`. Engineers are then responsible to pick these up at their own discretion "in parallel" to their regular work during any given iteration. Engineers are expected to take at least one of these "small" bugs per iteration.
 
 2. Bugs weighted > 3. These should be treated as other feature work and prioritized in relation to other roadmap items. When the PM is ready to have these move ahead they can assign the labels `geo::active` and `workflow::ready for development`. It will then wait for an engineer to finish their long-term assignments before they can shift their focus to one of them.
 
@@ -308,14 +308,14 @@ For a bug to be ready for execution it must meet the following criteria:
   - The possible resolution approach is understood
   - An effort estimate has been provided
   - Its severity and priority are understood
-- Labelled with: `group::geo`, `geo::active` and `workflow::ready for development`
+- labeled with: `group::geo`, `geo::active` and `workflow::ready for development`
 - Labels for `severity` and `priority` have been set
 
 Refer to the [Geo Bug Triage issue board](https://gitlab.com/groups/gitlab-org/-/boards/1077712).
 
 #### Engineering Customer/Support Rotation Process (Trial Phase)
 
-Every week, a Geo engineer is assigned to be the DRI for doing the technical assessment of customer support tickets + monitoring [#g_geo](https://gitlab.enterprise.slack.com/archives/C32LCGC1H) channel for support issues. 
+Every week, a Geo engineer is assigned to be the DRI for doing the technical assessment of customer support tickets + monitoring [#g_geo](https://gitlab.enterprise.slack.com/archives/C32LCGC1H) channel for support issues.
 
 A different backend engineer is assigned to support rotation each week and we schedule shifts 2 to 6 months in advance. This is a new rotation documented here in this [issue](https://gitlab.com/gitlab-org/geo-team/discussions/-/issues/5118)
 
@@ -327,7 +327,7 @@ Process summary:
   - Be first on point to triage questions in our [#g_geo](https://gitlab.enterprise.slack.com/archives/C32LCGC1H) channel. Now that we have a test workflow -> this should be taught/triggered per more complex questions and quickly answer anything that's short and sweet.
   - Expected duties are: triaging, creating issues, documenting initial research, adding priority labels etc. so that a customer support issue can enter our usual workflow. One dev continuing to take ownership of an issue they started on is preferred over handing it over.
 - If the DRI is unable to perform an upcoming triage rotation shift due to any reason (e.g. PTO, sick leave, other responsibilities taking precedence), they are expected to swap their rotation with another team member or notify the EM to facilitate. Once the swap is identified, the schedule should be updated with via a MR.
-- The DRI needs to update this [issue](https://gitlab.com/gitlab-org/geo-team/discussions/-/issues/5120) for example for the 2024 rotation similiar to the bug triage process. 
+- The DRI needs to update this [issue](https://gitlab.com/gitlab-org/geo-team/discussions/-/issues/5120) for example for the 2024 rotation similiar to the bug triage process.
 
 ##### Combined Schedule
 

@@ -8,142 +8,142 @@ View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional
 
 Onboarding for Customer Success Managers is a guided, methodical process to ensure new team members have the knowledge they need to be effective.
 
-There is a lot to learn to make you a great GitLab Customer Success Manager. It is important for new team members to gain competency on how our platform solutions provide customer value, and how we partner with customers to build a productive relationship. This handbook page will provide an overview of what can be expected during the onboarding journey including learning objectives, milestones, and ways in which a manager and onboarding buddy can support a new team member during their onboarding. 
+There is a lot to learn to make you a great GitLab Customer Success Manager. It is important for new team members to gain competency on how our platform solutions provide customer value, and how we partner with customers to build a productive relationship. This handbook page will provide an overview of what can be expected during the onboarding journey including learning objectives, milestones, and ways in which a manager and onboarding buddy can support a new team member during their onboarding.
 
 ## Overview of Role Based Customer Success Manager (CSM) Onboarding
 
 As a CSM, your onboarding experience will be a blended learning experience that includes virtual synchronous meetings, a self-paced [role-based learning path](https://levelup.gitlab.com/learn/learning-path/technical-account-manager-tam-onboarding) on LevelUp (our internal Learning Management System), and a hands-on virtual workshop called [Sales Quick Start](/handbook/sales/onboarding/) (SQS).
 
-The role-based learning path is highlighted in this [role-specific onboarding guide](https://docs.google.com/document/d/1D5hhfQsqiNlljnC5cfvSqjE3hqIYsdoLWIpgIJ3BRkg/edit). It is recommended that you make a copy of this document and check off items as you complete them. 
+The role-based learning path is highlighted in this [role-specific onboarding guide](https://docs.google.com/document/d/1D5hhfQsqiNlljnC5cfvSqjE3hqIYsdoLWIpgIJ3BRkg/edit). It is recommended that you make a copy of this document and check off items as you complete them.
 
-## Learning Objectives for CSM Onboarding 
+## Learning Objectives for CSM Onboarding
 
-As a CSM, in addition to the [SQS learning objectives](/handbook/sales/onboarding/sqs-learning-objectives/), your onboarding is intended to fulfill the following learning objectives: 
+As a CSM, in addition to the [SQS learning objectives](/handbook/sales/onboarding/sqs-learning-objectives/), your onboarding is intended to fulfill the following learning objectives:
 
 **Module 1: CSM Basics and Call Shadowing**
 
-- Complete Pulse+ Customer Success Manager Certificate I 
-- Complete Pulse+ Advanced Customer Success Manager Certificate II 
+- Complete Pulse+ Customer Success Manager Certificate I
+- Complete Pulse+ Advanced Customer Success Manager Certificate II
 - Understand the different stages of call shadowing
 
 **Module 1.5: Demo Environment**
 
-- Demonstrate understanding of GitLab Basics 
-- Understand the stages of the DevSecOps Lifecycle 
-- Understand the different pricing tiers of GitLab 
-- Complete Demo Systems Initial Set Up 
+- Demonstrate understanding of GitLab Basics
+- Understand the stages of the DevSecOps Lifecycle
+- Understand the different pricing tiers of GitLab
+- Complete Demo Systems Initial Set Up
 
 **Module 2: CSM at GitLab**
 
-- Understand the role of a CSM at GitLab 
-- Understand the mission and vision of the Customer Success organization 
-- Understand the CSM’s responsibilities within the customer journey 
-- Understand the distinction between CSMs and Customer Success Engineers (CSEs) 
-- Understand the rhythm of business for a CSM 
-- Demonstrate customer readiness by completing role play exercise 
+- Understand the role of a CSM at GitLab
+- Understand the mission and vision of the Customer Success organization
+- Understand the CSM’s responsibilities within the customer journey
+- Understand the distinction between CSMs and Customer Success Engineers (CSEs)
+- Understand the rhythm of business for a CSM
+- Demonstrate customer readiness by completing role play exercise
 
-**Module 3: Technical Deep Dive** 
+**Module 3: Technical Deep Dive**
 
-- Complete the following certification: GitLab Certified Git Associate 
-- Understand the CSM’s responsibilities as it relates to customer cadence calls 
+- Complete the following certification: GitLab Certified Git Associate
+- Understand the CSM’s responsibilities as it relates to customer cadence calls
 
 **Module 4: CSM Deep Dive**
 
-- Understand Value Based Conversations 
-- Understand your role and responsibilities as a CSM as it relates to Success Plans 
-- Understand how to navigate and what resources to find on Highspot 
-- Understand the direction, value, and methodology of Professional Services at GitLab 
+- Understand Value Based Conversations
+- Understand your role and responsibilities as a CSM as it relates to Success Plans
+- Understand how to navigate and what resources to find on Highspot
+- Understand the direction, value, and methodology of Professional Services at GitLab
 
-**Module 5: Tools and Best Practices** 
+**Module 5: Tools and Best Practices**
 
-- Complete the following certification: GitLab Certified CI/CD Associate 
-- Understand the workflow and documentation practices for Gainsight and Salesforce 
-- Understand reference architectures and their associated costs 
+- Complete the following certification: GitLab Certified CI/CD Associate
+- Understand the workflow and documentation practices for Gainsight and Salesforce
+- Understand reference architectures and their associated costs
 
 **Module 6: EBR and Customer Conversations**
 
-- Understand the CSM’s role and responsibilities as it relates to Executive Business Reviews (EBRs) with your customer 
-- Complete the following certification: GitLab Certified Security Specialist 
-- Understand value based discovery for DevSecOps 
+- Understand the CSM’s role and responsibilities as it relates to Executive Business Reviews (EBRs) with your customer
+- Complete the following certification: GitLab Certified Security Specialist
+- Understand value based discovery for DevSecOps
 
 **Module 7: CSM Onboarding Conclusion**
 
-- Complete the following certification: GitLab Certified Project Management 
+- Complete the following certification: GitLab Certified Project Management
 
-## Milestones and Onboarding Roadmap 
+## Milestones and Onboarding Roadmap
 
 ![CSM Onboarding Journey Roadmap](/handbook/customer-success/csm/csm-onboarding/CSM Onboarding Journey Roadmap.png)
 
-## Expectations for Manager support during onboarding 
+## Expectations for Manager support during onboarding
 
-As a new CSM, your manager will be there to support you during your onboarding journey. Beyond the expectations laid out for your manager in your onboarding issue, you can anticipate they will also provide you support on the following: 
+As a new CSM, your manager will be there to support you during your onboarding journey. Beyond the expectations laid out for your manager in your onboarding issue, you can anticipate they will also provide you support on the following:
 
 **Month 1**
 
-- Schedule recurring 1:1s and check in calls 
-- Provide guidance on who the new team member should schedule coffee chats with during their onboarding journey 
-- Review and discuss company policies 
+- Schedule recurring 1:1s and check in calls
+- Provide guidance on who the new team member should schedule coffee chats with during their onboarding journey
+- Review and discuss company policies
   - PTO policy
-  - Family and Friends first culture 
-  - CREDIT Values 
-- Discuss any team specific expectations 
-- Review organizational structure 
-- Ensure new team member has access to role-specific tools and appropriate Slack channels 
-- Align on a general plan to get customer ready including who to schedule your onboarding role plays with and shadow at least 4 calls per week 
-- Ensure new team member is meeting expected milestones from week to week 
-- Identify skills to be mastered and resources available to accomplish learning objectives 
+  - Family and Friends first culture
+  - CREDIT Values
+- Discuss any team specific expectations
+- Review organizational structure
+- Ensure new team member has access to role-specific tools and appropriate Slack channels
+- Align on a general plan to get customer ready including who to schedule your onboarding role plays with and shadow at least 4 calls per week
+- Ensure new team member is meeting expected milestones from week to week
+- Identify skills to be mastered and resources available to accomplish learning objectives
 
 **Month 2**
 
-- Check in regularly with your new team member  
+- Check in regularly with your new team member
   - Ask them if they are experiencing any challenges with GitLab’s asynchronous culture
-  - Discuss any general concerns 
-- Share constructive feedback on role plays that were completed during the onboarding learning path 
-- Ensure onboarding milestones are met and that new team member is completing required courses and certifications 
-- Align on whether your new team member is on track to be customer ready and how else you can provide support to get them ramped 
-- Discuss best practices and rules of engagement for CSMs  
+  - Discuss any general concerns
+- Share constructive feedback on role plays that were completed during the onboarding learning path
+- Ensure onboarding milestones are met and that new team member is completing required courses and certifications
+- Align on whether your new team member is on track to be customer ready and how else you can provide support to get them ramped
+- Discuss best practices and rules of engagement for CSMs
 
 **Month 3**
 
-- Decide on a regular cadence for 1:1 calls 
-- Prep your new team member for taking over assigned customers/accounts 
-- Consider shadowing your new team member’s customer calls and provide feedback as needed 
-- Confirm that new team member has completed all mandatory and necessary onboarding activities including SQS and role-based learning path 
-- Discuss how their performance will be formally evaluated 
+- Decide on a regular cadence for 1:1 calls
+- Prep your new team member for taking over assigned customers/accounts
+- Consider shadowing your new team member’s customer calls and provide feedback as needed
+- Confirm that new team member has completed all mandatory and necessary onboarding activities including SQS and role-based learning path
+- Discuss how their performance will be formally evaluated
 
 **Beyond 3 months**
 
-- Provide regular feedback on performance 
-- Partner with employee to develop an individual growth plan for goals they want to achieve in the coming year 
-- Discuss the following topics at length in the coming months by providing an overview of the topic, why is it important to customer / GitLab / CSM, what does good look like, what are some common pitfalls, and how success is measured: 
-  - Cadence Calls 
-  - Success Plans 
-  - EBRs 
-  - Customer Escalations 
-  - Customer Enablement 
-  - Gainsight Hygiene 
+- Provide regular feedback on performance
+- Partner with employee to develop an individual growth plan for goals they want to achieve in the coming year
+- Discuss the following topics at length in the coming months by providing an overview of the topic, why is it important to customer / GitLab / CSM, what does good look like, what are some common pitfalls, and how success is measured:
+  - Cadence Calls
+  - Success Plans
+  - EBRs
+  - Customer Escalations
+  - Customer Enablement
+  - Gainsight Hygiene
 
-## Expectations for Buddy support during onboarding 
+## Expectations for Buddy support during onboarding
 
 **Month 1**
 
-- Nurture a welcoming environment for the new team member 
-- Establish a recurring 1:1 meeting to check in on the new team member’s progress on onboarding activities 
-- Provide assistance with any barriers or difficulty understanding concepts covered in the onboarding learning path and SQS 
+- Nurture a welcoming environment for the new team member
+- Establish a recurring 1:1 meeting to check in on the new team member’s progress on onboarding activities
+- Provide assistance with any barriers or difficulty understanding concepts covered in the onboarding learning path and SQS
 - Connect the new team member with members of the broad team to build a network
-- Share helpful tips and resources that are beneficial during their onboarding and beyond 
+- Share helpful tips and resources that are beneficial during their onboarding and beyond
 
 **Month 2**
 
-- Provide opportunities for new team member to shadow you on calls as defined in the [shadow criteria](https://docs.google.com/document/d/1jY0YnL7whNVVK_VeoxRPjn-Iloj8_Su_3YOx0X1bKtw/edit#heading=h.1g07abmamci3) and assist with note taking 
-- Debrief on calls and discuss feedback 
-- Align with new team member’s manager on ways you can provide support 
+- Provide opportunities for new team member to shadow you on calls as defined in the [shadow criteria](https://docs.google.com/document/d/1jY0YnL7whNVVK_VeoxRPjn-Iloj8_Su_3YOx0X1bKtw/edit#heading=h.1g07abmamci3) and assist with note taking
+- Debrief on calls and discuss feedback
+- Align with new team member’s manager on ways you can provide support
 
 **Month 3**
 
-- Co-lead calls with the new team member until they are ready to take over customer interactions independently 
-- Share constructive feedback 
-- Inform new team member on how you can support them beyond their onboarding journey 
+- Co-lead calls with the new team member until they are ready to take over customer interactions independently
+- Share constructive feedback
+- Inform new team member on how you can support them beyond their onboarding journey
 
 The buddy should join the first 5-10 customer meetings led by the new joiner.
 
@@ -154,29 +154,29 @@ The buddy should join the first 5-10 customer meetings led by the new joiner.
 
 ## Graduation from CSM Onboarding
 
-In order to be considered as having graduated from your CSM onboarding journey, you need to have completed the following: 
+In order to be considered as having graduated from your CSM onboarding journey, you need to have completed the following:
 
-- Completed Sales Quick Start (SQS) prework on GitLab University 
-- Attended the SQS workshop and completed all relevant activities 
-- Completed your role-based learning path on GitLab University 
-- Completed the Pulse+ CSM Certificate I and Advanced CSM Certificate II  
-- Attained the following certificates: 
-  - GitLab Certified Git Associate 
-  - Gitlab Certified CI/CD Associate 
-  - GitLab Certified Project Management Associate 
-  - GitLab Certified Security Specialist 
-- Completed role play activities and discussed feedback with your manager /  onboarding buddy 
-- Shadowed at least 4 calls per week throughout your onboarding and discussed with your manager 
+- Completed Sales Quick Start (SQS) prework on GitLab University
+- Attended the SQS workshop and completed all relevant activities
+- Completed your role-based learning path on GitLab University
+- Completed the Pulse+ CSM Certificate I and Advanced CSM Certificate II
+- Attained the following certificates:
+  - GitLab Certified Git Associate
+  - GitLab Certified CI/CD Associate
+  - GitLab Certified Project Management Associate
+  - GitLab Certified Security Specialist
+- Completed role play activities and discussed feedback with your manager /  onboarding buddy
+- Shadowed at least 4 calls per week throughout your onboarding and discussed with your manager
 
-## Continuous Enablement 
+## Continuous Enablement
 
-For high level information on enablement initiatives for the Customer Success Manager/Engineer teams, please refer to the [CS Enablement Corner](https://docs.google.com/document/d/1xyaxc37iCDtfeabo2NXCRV31pNOdvieXoVDxJw_aXoM/edit). Additionally, please be sure to check out the [CS Development Handbook](/handbook/customer-success/csm/csm-development/) page. 
+For high level information on enablement initiatives for the Customer Success Manager/Engineer teams, please refer to the [CS Enablement Corner](https://docs.google.com/document/d/1xyaxc37iCDtfeabo2NXCRV31pNOdvieXoVDxJw_aXoM/edit). Additionally, please be sure to check out the [CS Development Handbook](/handbook/customer-success/csm/csm-development/) page.
 
 You will be receiving calendar invitations for [Customer Success Skills Exchange](/handbook/sales/training/customer-success-skills-exchange/) and [Field Enablement Spotlight](/handbook/sales/training/sales-enablement-sessions/#field-enablement-spotlight-sessions) sessions. Customer Success Skills Exchange is a biweekly series while Field Enablement Spotlight is a weekly session. Both cover various topics related to and pertinent to the field. Please be sure to join and participate in these sessions!
 
-## Feedback 
+## Feedback
 
-Your feedback on the onboarding process is important to us and we welcome your thoughts and ideas about how we can improve in the future. Please share your feedback in the following issue: [CSM Onboarding Feedback](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/2063). 
+Your feedback on the onboarding process is important to us and we welcome your thoughts and ideas about how we can improve in the future. Please share your feedback in the following issue: [CSM Onboarding Feedback](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/2063).
 
 ## Support and our Single Source of Truth
 

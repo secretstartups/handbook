@@ -889,7 +889,7 @@ features:
   primary:
     - name: "Do great things with this feature"
       available_in: [core, premium, ultimate]
-      documentation_link: 'https://docs.gitlab.com/ee/ci/multi_project_pipelines.html#multi-project-pipeline-visualization-premium'
+      documentation_link: 'https://docs.gitlab.com/ee/ci/pipelines/downstream_pipelines.html#multi-project-pipelines#multi-project-pipeline-visualization-premium'
       image_url: '/images/topics/multi-project_pipelines.png'
       reporter: bikebilly
       stage: secure

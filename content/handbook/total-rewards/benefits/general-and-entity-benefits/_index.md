@@ -39,7 +39,7 @@ Our contractor agreements and employment contracts are all on the [Employment Co
 
 ## Spending Company Money
 
-GitLab will [pay for the items you need to get your job done](https://about.gitlab.com/handbook/spending-company-money).
+GitLab will [pay for the items you need to get your job done](/handbook/spending-company-money).
 
 ## Equity Compensation
 
@@ -63,9 +63,9 @@ In the unfortunate event that a GitLab team member passes away, GitLab will prov
     - Upload to your Documents folder in Workday - [here](https://docs.google.com/document/d/19B0lsMu7dMhof1ghPuBxHP23DuDqi2qpWF8pCWyEUN4/edit) is the job aid for quick reference.
   - For part-time GitLab team members, the lump sum is calculated pro-rata, so for example for a team member that works for GitLab 50% of the time, the lump sum would be [$10,000]({{< ref "compensation#exchange-rates" >}}).
 
-## Discount Wellbeing Platform
+## Discount Well-being Platform
 
-Starting 2024, GitLab has partnered with HealthKick, a global wellbeing platform providing Team Members discounts across wellbeing, fitness, & overall lifestyle offerings/services.
+Starting 2024, GitLab has partnered with HealthKick, a global well-being platform providing Team Members discounts across well-being, fitness, & overall lifestyle offerings/services.
 
 - *This program is offered at no cost for team members.
 
@@ -310,7 +310,7 @@ GitLab team members compiled tips in a four-part blog series, linked below, look
 1. [How to make your home a space that works with kids](https://about.gitlab.com/blog/2019/08/01/working-remotely-with-children-at-home/)
 1. [5 Things to keep in mind while working remotely with kids](https://about.gitlab.com/blog/2019/08/08/remote-kids-part-four/)
 
-Tips from GitLab team members are the greater community are below, as well as how each aligns with at least one of [GitLab's values]({{< ref "values" >}}).
+Tips from GitLab team members are the greater community are below, as well as how each aligns with at least one of [GitLab's values](/handbook/values/).
 
 > What has worked for me is to integrate GitLab into my life, and not the other way around. I set very clear boundaries in my calendar of when is work time and when is family time. Per GitLab's [recommendation]({{< ref "communication#google-calendar" >}}), my calendar is viewable by anyone and clearly has time for: `kids test prep`, `visual therapy for one`, `judo pick-up` and other appointments I have outside of work. This prevents team members from scheduling over these instances.
 >

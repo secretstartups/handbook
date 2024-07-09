@@ -104,7 +104,7 @@ Please use this template when creating Epics for activities that should appear f
 
 ```markdown
 > Epic Title Guide:
-> Dates should be using ISO dates, see https://about.gitlab.com/handbook/communication/#writing-style-guidelines
+> Dates should be using ISO dates, see https://handbook.gitlab.com/handbook/communication/#writing-style-guidelines
 > Format:
 >  Content: Title - Author - Publish Month, Publish Year
 
@@ -172,7 +172,7 @@ FY25 epic https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/e
 
 ```markdown
 > Epic Title Guide:
-> Dates should be using ISO dates, see https://about.gitlab.com/handbook/communication/#writing-style-guidelines
+> Dates should be using ISO dates, see https://handbook.gitlab.com/handbook/communication/#writing-style-guidelines
 > Format:
 >  Content: Title - Author - Publish Month, Publish Year
 >  Event: Event Name, Location, ISO Date
