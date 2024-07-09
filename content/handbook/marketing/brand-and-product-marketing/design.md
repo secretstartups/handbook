@@ -378,7 +378,7 @@ We upload and pull work locally from the [corporate-marketing repository](https:
 
 #### Digital ads
 
-- Digital ads often need to be customized after creation, and for that reason we encourage Canva for easier self-service. Some ads need to be edited by Demandbase under certain specs and [file requirements](https://support.demandbase.com/hc/en-us/articles/360027082151-Ad-Banner-Specifications#h_39c21461-d044-42c3-8ac3-414ebd00977e).
+- Digital ads often need to be customized after creation, and for that reason we encourage Canva for easier self-service. Some ads need to be edited by Demandbase under certain specs and [file requirements](https://support.demandbase.com/hc/en-us/articles/4403962757133-Reference-Non-Personalized-Ad-Specifications).
 
 #### Events
 

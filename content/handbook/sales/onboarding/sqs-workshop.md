@@ -26,7 +26,7 @@ This [SQS 2024 Agenda sheet](https://docs.google.com/spreadsheets/d/1f64fZCKbrz7
 | DATE | START TIME | END TIME | ACTIVITY | SME ASSIGNED |
 |------|------------|----------|----------|--------------|
 | May 15, 2024 | 10:30a ET | 11:20a ET | Welcome Call | Field Enablement Team |
-| Jun 3, 2024 | 10:30a ET | 10:55a ET | Operational Excellence: Into to Gitlab Field Security | Field Security Team |
+| Jun 3, 2024 | 10:30a ET | 10:55a ET | Operational Excellence: Into to GitLab Field Security | Field Security Team |
 | Jun 3, 2024 | 11:00a ET | 11:50a ET | Solution Focus: Intro to Competition | Marketing Team |
 | Jun 4, 2024 | 10:30a ET | 10:55a ET | Operational Excellence: Intro to GitLab Legal | Legal Team  |
 | Jun 4, 2024 | 11:30a ET | 12:20p ET | Operational Excellence: Working with Marketing + Sales Dev | Makerting Enablement |
@@ -53,7 +53,7 @@ This [SQS 2024 Agenda sheet](https://docs.google.com/spreadsheets/d/1f64fZCKbrz7
 | Jul 17, 2024 | 10:30a ET | 11:50a ET | Command of the Message: Discovery Question Exercise | Field Enablement  |
 | Jul 18, 2024 | 10:30a ET | 11:50a ET | Command of the Message: Differentiator Exercise | Field Enablement  |
 | Jul 19, 2024 | 10:00a ET | 10:50a ET | Mock Discovery Call | Mock Customers  |
-| Jul 22, 2024 | 10:00a ET | 10:25a ET | Operational Excellence: Into to Gitlab Field Security | Field Security Team |
+| Jul 22, 2024 | 10:00a ET | 10:25a ET | Operational Excellence: Into to GitLab Field Security | Field Security Team |
 | Jul 22, 2024 | 10:30a ET | 11:50a ET | Command of the Message: MEDDPPICC  | Field Enablement |
 | Jul 23, 2024 | 10:30a ET | 10:55a ET | Operational Excellence: Intro to GitLab Legal | Legal Team |
 | Jul 23, 2024 | 11:00a ET | 11:50a ET | Solution Focus: Intro to Competition | Marketing |

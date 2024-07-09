@@ -20,7 +20,7 @@ CRM Systems exists to support the GitLab field organization by providing reliabl
 - **Tai Schuller - Staff IT Enterprise Applications Engineer** GitLab handle: [tschuller](https://gitlab.com/tschuller) Slack handle: @Tai Schuller
 - **Analissa Moreno - IT Enterprise Applications Engineer** GitLab handle: [ana-moreno](https://gitlab.com/ana-moreno) Slack handle: Ana Moreno
 - **Brett Latham - Senior Business Systems Administrator** GitLab handle: [Dlatham](https://gitlab.com/Dlatham) Slack handle: @Brett Latham
-- **Mohamed Hussain - Business Systems Administrator** GitLab handle: [Moh.hussain](https://gitlab.com/Moh.hussain) Slack handle: @Mohamed Hussain 
+- **Mohamed Hussain - Business Systems Administrator** GitLab handle: [Moh.hussain](https://gitlab.com/Moh.hussain) Slack handle: @Mohamed Hussain
 - **Neha Sharma - IT Enterprise Applications Administrator** GitLab handle: [nksharma2](https://gitlab.com/nksharma2) Slack handle: @Neha Sharma
 - **Pooja Chowdary Nayidi - IT Enterprise Applications Administrator** GitLab handle: [pnayidi](https://gitlab.com/pnayidi) Slack handle: @Pooja Chowdary Nayidi
 
@@ -221,7 +221,7 @@ Sandboxes which are managed as part of our team's SDLC process will follow a reg
 
 1. Create an issue in our [project](https://gitlab.com/gitlab-com/sales-team/field-operations/systems), making sure to provide detailed business requirements for the ask or problem. Please leave assignee blank
     - If this issue removes any existing functionality, or requires any components to be deprecated, please include the `technical debt` label on the issue.
-2. In order to align our working style with the Labels, the Systems team prioritizes working on issues in the order as they get added & the issues get labelled accordingly
+2. In order to align our working style with the Labels, the Systems team prioritizes working on issues in the order as they get added & the issues get labeled accordingly
 3. The Systems Label Workflow and Label Description are as follows
 
       ![The Systems Label Workflow](/handbook/sales/images/Systemsworkflow.png)

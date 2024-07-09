@@ -457,7 +457,7 @@ You can use this template which is fairly manual or choose your own methods.
 There may be times that you are asked to comment on the state of DIB at GitLab or your TMRG. When or if that happens, please contact/notify PR, Talent Brand and the DIB Manager.  Here are some general best practices that we share are helpful for all GitLab team members to know.
 
 - Don't share information that hasn't already been disclosed publicly. This includes retention and turnover rates, associate demographics, compensation trends, hiring plans or numbers, headcount, new products, corporate strategy, and more.
-- If you're asked about our Diversity, Inclusion & Belonging  stats, refer to our [GitLab identity data]({{< ref "identity-data" >}})
+- If you're asked about our Diversity, Inclusion & Belonging  stats, refer to our [GitLab identity data](/handbook/company/culture/inclusion/identity-data/)
 - Always remember that although we work in transparency, we want to me mindful of GitLab's reputation and brand.
 
 ### TMRG Success measurement (Capturing Data)

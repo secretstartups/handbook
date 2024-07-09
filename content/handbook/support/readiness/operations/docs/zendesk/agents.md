@@ -7,7 +7,7 @@ canonical_path: "/handbook/support/readiness/operations/docs/zendesk/agents"
 ## User fields
 
 For information about user fields, please refer to
-[User Fields](./user-fields.md).
+[User Fields](user-fields.md).
 
 ### Agent Provisioning
 

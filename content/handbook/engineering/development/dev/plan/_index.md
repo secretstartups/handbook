@@ -243,7 +243,7 @@ process itself.
 #### Timeline
 
 - **27th (Previous Month)** A retrospective issue is automatically created for the milestone in progress.
-- **18th** The milestone is **closed** and open issues in the build phase are labelled with ~"missed deliverable".
+- **18th** The milestone is **closed** and open issues in the build phase are labeled with ~"missed deliverable".
 - **21st** The issue description is automatically updated with shipped and missed deliverables and the team are tagged to add feedback.
 - **4th (Next Month)** A final reminder is created automatically in #s_plan for final feedback.
 - **5th (Next Month)** The DRI [concludes the retrospective](#concluding-the-retrospective).

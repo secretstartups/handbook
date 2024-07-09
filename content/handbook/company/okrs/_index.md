@@ -433,7 +433,7 @@ An Objective/Key Results health status should be maintained as the SSOT on the s
 During Key Reviews, teams should include material that covers [key OKR progress details](key-review/#okr-slides) and links to relevant OKRs.
 Each KR should have a clear scoring
 
-Company OKR progress that does not involve MPNI can be viewed [in the Gitlab OKR project with the ~"Company OKR" label](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&label_name%5B%5D=Company%20OKR).
+Company OKR progress that does not involve MPNI can be viewed [in the GitLab OKR project with the ~"Company OKR" label](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&label_name%5B%5D=Company%20OKR).
 
 ## Scoring OKRs
 
