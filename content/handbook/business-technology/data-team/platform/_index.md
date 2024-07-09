@@ -587,6 +587,13 @@ These users will be dropped by running the following [deprovision_user.sql](http
 
 This process is not exposed via CI job due to its sensitive nature and because it is less time sensitive. Therefore, a weekly 'cleanup' task via Airflow will be run instead.
 
+#### Snowflake user/service account
+
+The `permifrost_bot_user` is used to run both Snowflake provisioning and deprovisioning processes. This is for 2 reasons:
+
+1. `permifrost_bot_user` already has the proper permissions to run provisioning/deprovisioning as the same perms are needed to run existing Permifrost jobs.
+1. The `permifrost_bot_user` already runs existing Permifrost jobs using both Airflow and Gitlab CI, so the applied NSP IP addresses will not be redundant when added for both provisioning (run via CI) /deprovisioning (run via Airflow).
+
 #### Provisioning permissions to external tables to user roles
 
 Provisioning USAGE permissions for external tables to user roles inside snowflake is not handled by permifrost in the moment. If you have to provision access for an external table to a user role, then it must be granted manually via GRANT command in snowflake[docs](https://docs.snowflake.com/en/sql-reference/sql/grant-privilege) using a `securityadmin` role. This implies that the user role already has access to the schema and the db in which the external table is located, if not add them to the [roles.yml](https://gitxlab.com/gitlab-data/analytics/-/blob/master/permissions/snowflake/roles.yml).
