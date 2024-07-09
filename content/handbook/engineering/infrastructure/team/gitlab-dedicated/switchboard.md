@@ -36,8 +36,9 @@ To engage with the Switchboard team:
 - Slack channels
   - For Switchboard specific questions, you can find us in [#g_dedicated-switchboard-team](https://gitlab.slack.com/archives/C04DG7DR1LG)
   - Our Slack group handle is `@dedicated-switchboard-team`
+  - Issues relevant to the wider Dedicated Group may be raised [#g_dedicated-team](https://gitlab.slack.com/archives/C025LECQY0M)
   - Other teams in Dedicated group have their own work channels for team work discussions:
-    - [#g_dedicated-team](https://gitlab.slack.com/archives/C025LECQY0M)
+    - [#g_dedicated-environment-automation-team](https://gitlab.slack.com/archives/C074L0W77V0)
     - [#g_dedicated-us-pubsec](https://gitlab.slack.com/archives/C03R5837WCV)
 
 ## Requesting Access to the Switchboard application
