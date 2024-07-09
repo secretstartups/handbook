@@ -48,7 +48,7 @@ If the Key Review meeting will not contain MNPI, it can be privately livestreame
 Functions that have these quarterly meetings are:
 
 1. Sales (Chris Weber - function DRI)
-1. Marketing (Ashley Kramer - function DRI)
+1. Marketing & Strategy (Ashley Kramer - function DRI)
 1. People Group (Rob Allen - function DRI)
 1. Finance (Brian Robins - function DRI)
 1. Product (David DeSanto - function DRI)
@@ -119,7 +119,7 @@ The following Key Reviews are automated: (all links are internal)
 
 - [Finance](https://gitlab-com.gitlab.io/kpi-slides/slides-html/finance/#/)
 - [Infrastructure](https://gitlab-com.gitlab.io/kpi-slides/slides-html/infrastructure/#/)
-- [Marketing](https://gitlab-com.gitlab.io/kpi-slides/slides-html/marketing/#/)
+- [Marketing & Strategy](https://gitlab-com.gitlab.io/kpi-slides/slides-html/marketing/#/)
 - [People](https://gitlab-com.gitlab.io/kpi-slides/slides-html/people/#/)
 - [Product](https://gitlab-com.gitlab.io/kpi-slides/slides-html/product/#/)
 
