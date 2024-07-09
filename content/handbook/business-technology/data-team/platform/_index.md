@@ -99,6 +99,7 @@ The following table indexes all of the RAW data sources we are loading into the 
 | [BambooHR](https://www.bamboohr.com/) | Airflow | `bamboohr` | `sensitive` | People | 12h / 24h | No | Tier 2 |
 | [Clari](https://www.clari.com/) | Airflow | `clari` | `clari` | Sales | 24h / 24h | Yes | Tier 2 |
 | [Clearbit](https://clearbit.com/) | x | x | x | x / x |  | No | Tier 3 |
+| [Common Room](https://https://commonroom.io/) | Snowflake task | `commonroom` | `commonroom` | `DevRels`/`Developer Advocates` |  | No | Tier 3 |
 | [CustomersDot](https://internal.gitlab.com/handbook/enterprise-data/platform/pipelines/#gitlab-customer-dot-database) [ERD](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/staging/doc/db_erd.pdf) | pgp | `tap_postgres` | `customers` | Product | 24h / x | No | Tier 1 |
 | [Demandbase](https://www.demandbase.com/) | Snowflake task | `demandbase` | `demandbase` | Marketing | 24h / x | No | Tier 2 |
 | [Elastic Search Billing](https://www.elastic.co/guide/en/cloud/current/Billing_Costs_Analysis.html) | Airflow | `elasticsearch_billing` | `elastic_billing` | Engineering | 24h / 24h | No | Tier 2 |
