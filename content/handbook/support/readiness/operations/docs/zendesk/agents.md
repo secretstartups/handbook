@@ -21,7 +21,7 @@ is required.
 
 Once one has been received, the process will go as follows:
 
-1. Email `people-connect@gitlab.com` the following:
+1. Submit a general HelpLab request to the People team:
    - Subject: US Citizenship Verification Request
    - Body:
      > Greetings all!
