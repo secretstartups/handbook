@@ -52,7 +52,7 @@ GitLab also offers a [Harassment Complaint Form](https://docs.google.com/documen
 
 Team members and the TMR should both respond to questions or queries via slack or email within 24 hours to continue making progress on the issue and get to a timely resolution.
 
-For urgent requests that need immediate attention please ask for urgent assistance by sending a message marked URGENT to `teammemberrelations@gitlab.com` and in the #people-connect Slack channel. If you do not receive support in a timely manner, below is the escalation path:
+For urgent requests that need immediate attention please ask for urgent assistance by sending a message marked URGENT to `teammemberrelations@gitlab.com`. If you do not receive support in a timely manner, below is the escalation path:
 
 - Vice President of People Operations, Technology and Analytics
 - Chief People Officer

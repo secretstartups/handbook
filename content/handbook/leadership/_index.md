@@ -337,7 +337,7 @@ When you give leadership training please [screen share the handbook instead of c
 
 ## People Group
 
-Feel free to reach out to anyone in the [People Group](/handbook/people-group/) for further support on leadership development topics. You can find us on the [team page](/handbook/company/team/), using the `People Group` dropdown. The team may also be reached in the `#people-connect` chat channel.
+Feel free to reach out to anyone in the [People Group](/handbook/people-group/) for further support on leadership development topics. You can find us on the [team page](/handbook/company/team/), using the `People Group` dropdown. The team may also be reached via HelpLab.
 
 ## Being a public company
 

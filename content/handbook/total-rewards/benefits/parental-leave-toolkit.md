@@ -84,7 +84,7 @@ Responsibilities may include but are not limited to:
     - Make it fun! Returning to work can be stressful, so coffee chats are a great time to step away from work and talk about something else.
 1. Be available to help your team member navigate through any company or departmental changes that occurred while on leave.
 
-*Future iterations are still being considered, and will be added to this section as the program evolves. If you have any feedback regarding this program, please contact `leaves@domain` or share in the `#people-connect` Slack channel.*
+*Future iterations are still being considered, and will be added to this section as the program evolves. If you have any feedback regarding this program, please contact `leaves@domain` or share with the People Connect team via HelpLab.*
 
 ### What Makes a Successful Reentry Buddy
 
@@ -101,7 +101,7 @@ Visit the [GitLab Team page](/handbook/company/team/) and search for 'Parental L
 
 ### Volunteer to Become a Parental Leave Reentry Buddy
 
-1. Contact `leaves@domain` or post in the `#people-connect` Slack channel if you're interested in becoming a Parental Leave Reentry buddy or would like more information.
+1. Contact `leaves@domain` or create a request in HelpLab if you're interested in becoming a Parental Leave Reentry buddy or would like more information.
 
 ### Adding Parental Leave Reentry Buddy to your GitLab Profile
 

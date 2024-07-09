@@ -44,7 +44,6 @@ title: GitLab's Guide to Total Rewards
 For feedback or questions relating to compensation, benefits and equity, you can reach out to us via:
 
 - **Email:** `total-rewards@gitlab.com`
-- **Slack:** [#people-connect](https://gitlab.slack.com/archives/C02360SQQFR) <sup>*\*Internal Only*</sup>
 - **Issue:** [Open an issue on GitLab.com](https://gitlab.com/gitlab-com/people-group/total-rewards/issues/new)
 
 Total Rewards Calendar
