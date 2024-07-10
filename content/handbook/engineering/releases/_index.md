@@ -119,7 +119,7 @@ Overview of the steps involved with creating a patch release:
 
 - [Diagram source](https://docs.google.com/presentation/d/12JXlLnZ8lQp7ATdaSoL4x_oCUv04rmqzYp6dQb8AXHE/edit#slide=id.g2d0bc50ab08_0_5)
 
-Details of the patch release lifecycle can be found on the [patch release section]((/handbook/engineering/releases/patch_releases/#planned-patch-release-process)
+Details of the patch release lifecycle can be found on the [patch release section](/handbook/engineering/releases/patch_releases/)
 
 ### Patch release information dashboard
 
