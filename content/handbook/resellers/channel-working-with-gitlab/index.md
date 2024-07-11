@@ -151,9 +151,9 @@ To submit a purchase order for a resell-direct opportunity, please submit your P
 Open Partners are required to purchase through a distribution partner in every territory with an active distributor. All quote requests and purchase orders can be sent directly to the distributor.
 
 - In EMEA: Partners transact with Amazic via gitlab@amazic.com.
-- In APAC (several countries): Partners transact with [Tech Data/TD Synnex](https://www.techdata.com/apac/en/partner-with-us/become-a-partner.html)
+- In Japan: Partners transact with [Networld](https://www.networld.co.jp/product/gitlab/)
+- In APAC (several countries but excluding Japan): Partners transact with [Tech Data/TD Synnex](https://www.techdata.com/apac/en/partner-with-us/become-a-partner.html)
   - In India: Partners may also choose to transact with Redington via gitlab@redington.co.in.
-  - In Japan: Partners may also choose to transact with [Networld](https://www.networld.co.jp/product/gitlab/)
 - US PubSec: Partners transact with Carahsoft via gitlab@carahsoft.com
 
 ###### License Key Delivery
