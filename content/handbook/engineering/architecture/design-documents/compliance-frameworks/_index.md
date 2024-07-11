@@ -1,4 +1,5 @@
 ---
+title: Compliance Frameworks
 status: ongoing
 creation-date: "2024-07-08"
 authors: [ "@nrosandich" ]
@@ -11,15 +12,15 @@ participating-stages: []
 <!-- Blueprints often contain forward-looking statements -->
 <!-- vale gitlab.FutureTense = NO -->
 
-# Compliance Frameworks
+## Compliance Frameworks
 
 This blueprint serves as living documentation of the technical considerations in the implementation of [Compliance Frameworks](https://docs.gitlab.com/ee/user/group/compliance_frameworks.html). This includes functionality in [Compliance Center](https://docs.gitlab.com/ee/user/compliance/compliance_center/) and the relationship with [Security Policies](https://docs.gitlab.com/ee/user/application_security/policies/).
 
-## Proposal
+### Proposal
 
 Outline how compliance enforcement and visibility will be handled through Compliance Frameworks as an evolution from [Compliance Standards Adherence](https://docs.gitlab.com/ee/user/compliance/compliance_center/compliance_standards_adherence_dashboard.html).
 
-## Motivation
+### Motivation
 
 There are three main parts to compliance posture of a customer Enforcement, Visibility, and History.
 
@@ -27,7 +28,7 @@ There are three main parts to compliance posture of a customer Enforcement, Visi
 
 Enforcement within GitLab is currently done through [Security Policies](https://docs.gitlab.com/ee/user/application_security/policies/) and [Compliance Pipelines](https://docs.gitlab.com/ee/user/group/compliance_pipelines.html). This gives users two very different ways of implementing the same functionality, which has been described as confusing for users. Compliance pipelines also have some inherent technical limitation, see [epic](https://gitlab.com/groups/gitlab-org/-/epics/6241).
 
-### Visibility
+#### Visibility
 
 Currently the Standards are hard coded in the Adherence report (renamed to Status report) and separate from Compliance Frameworks. This makes the system inflexible as we look to:
 
@@ -38,11 +39,11 @@ Currently the Standards are hard coded in the Adherence report (renamed to Statu
 1. Allow users to create their own Standards
 1. Allow users to create customisable Checks
 
-### History
+#### History
 
 This is currently achieved through compliance events ([Audit events](https://docs.gitlab.com/ee/user/compliance/audit_events.html) and [Violations within MRs](https://docs.gitlab.com/ee/user/compliance/compliance_center/compliance_violations_report.html)). Both of these are outside the scope of this blueprint
 
-### Goals
+#### Goals
 
 1. Provide support need for multiple frameworks
 1. Incongruence with compliance pipelines and security policies
@@ -52,14 +53,14 @@ This is currently achieved through compliance events ([Audit events](https://doc
 1. Allow users to customise Standards
 1. Allow users to create their own Standards
 
-### Non-Goals
+#### Non-Goals
 
 1. Allow users to create customisable Checks
 1. Compliance events
    1. [Violations within MRs](https://docs.gitlab.com/ee/user/compliance/compliance_center/compliance_violations_report.html)
    1. [Audit events](https://docs.gitlab.com/ee/user/compliance/audit_events.html)
 
-## Terminology/Glossary
+### Terminology/Glossary
 
 1. Framework
    1. A [Compliance Framework](https://docs.gitlab.com/ee/user/group/compliance_frameworks.html) is a user-modifiable capability within GitLab to identify projects that have certain compliance requirements or need additional oversight. Compliance Frameworks generally align with established industry compliance frameworks such as SOC2 or ISO 27001.
@@ -75,16 +76,16 @@ This is currently achieved through compliance events ([Audit events](https://doc
 1. Control
    1. A control is a compliance enforcement mechanism which enforces certain requirements. This is achieved in GitLab through settings, Security Policies or Compliance Pipelines.
 
-## Decisions
+### Decisions
 
-## Design Details
+### Design Details
 
-## Implementation Details
+### Implementation Details
 
 | Issue | Milestone | MR | Status |
 | ----- | --------- | -- | ------ |
 |  |  |  |  |
 
-## FAQ
+### FAQ
 
 - 
