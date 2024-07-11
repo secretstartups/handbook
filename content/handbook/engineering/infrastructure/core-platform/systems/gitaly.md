@@ -44,20 +44,21 @@ The following members of other functional teams are our stable counterparts:
 
 ### Urgent issues and outages
 
-Gitaly team members do not carry pagers, but we live around the world and there's a good chance that someone is available during their working hours. There is no coverage for weekends; instead, we strive to empower incident responders to mitigate any circumstance.
+If you're not part of the Support organization, please consider seeking help from them first -- Support has better availability and can help in most common cases.
 
-These issues relate to ongoing production outages or similar. They interrupt our process used to [schedule work](https://gitlab.com/groups/gitlab-org/-/boards/1140874?label_name%5B%5D=group%3A%3Agitaly&milestone_title=Upcoming) and get attention as soon as possible.
-Please only interrupt us sparingly, in these cases:
+If you still need help, please file an issue [here](https://gitlab.com/gitlab-org/gitaly/-/issues/new?issuable_template=Support%20Request). Post it on [#g_gitaly](https://gitlab.slack.com/archives/g_gitaly) for more immediate visibility and tag EM and PM, and the Support person you're working with.
 
-- [Severity 1 or 2](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/#availability) issues, where you believe that Gitaly team has _immediately actionable_ work to do
-- Ongoing incidents where no mitigation exists that would tide us over until the next business day.
+#### Future oncall rotation
 
-**Getting attention on an urgent, interrupting issue**
+NOTE: Gitaly is working on second-tier [on-call coverage](#gitaly-oncall-rotation) for well-defined emergencies only. This is not enabled yet; the tentative start date is 2025-01-01.
 
-- If there's no issue filed yet, file one in the [Gitaly issue tracker](https://gitlab.com/gitlab-org/gitaly/issues) (remember that Security incidents and those containing customer details should be Confidential).
-- Tag Engineering Manager and Product manager (listed above) as well as `@gl-gitaly` (the [whole team](https://gitlab.com/groups/gl-gitaly/-/group_members)) on the issue.
-- Post on [#g_gitaly](https://gitlab.slack.com/archives/g_gitaly) on Slack, mention the issue, and tag EM and PM again.
-- The issue will be attended to by the first available staff member during their working hours, who will assign it to themselves, and explicitly hand it off by reassigning to the next person should this be necessary.
+Please do not page oncall outside of these cases; contact Support instead!
+
+- For **production incidents only**, SRE or IMOC on-call can page the current [Gitaly oncall](#gitaly-oncall-rotation) manually.
+- For **customer emergencies**, Support engineers and managers can page the current [Gitaly oncall](#gitaly-oncall-rotation) manually.
+- If you're working on a customer emergency but not part of Support, please contact Support instead.
+
+For these cases, use `/pd trigger` on Slack, then select the Gitaly rotation. For all other cases please file an issue under [Customer issues](#customer-issues).
 
 ### Customer issues
 
@@ -97,6 +98,39 @@ For information requests and other quick one-offs, feel free to use [#g_gitaly](
 These are typically [Corrective Actions or other followup items](/handbook/engineering/workflow/#infradev) that have strict
 SLO tracking. They will be scheduled through either of the above paths, by EM
 and/or PM polling [these dashboards](#useful-links).
+
+### Gitaly oncall rotation
+
+Gitaly team is in the process of establishing an oncall rotation to provide focused expertise to production SaaS systems. This is currently in [pilot](https://gitlab.com/groups/gitlab-org/core-platform-section/-/epics/4), and replaces the **Incident Manager On-Call (IMOC)** and **Engineer On-Call (EOC)** responsibilities for Gitaly team members. **The tentative start date is 2025-01-01.**
+
+- Rotation is staffed during working hours of team members (no weekends). This still covers 24h of workdays, given the distribution of Gitaly team members, but without guarantees (see [Who is oncall](#who-is-oncall) below)
+  - Weekends are explicitly out of scope (not staffed), and escalation must fall back to the current EOC rotation.
+  - Given that responsibilities are only during working hours, there's no additional compensation unless explicitly specified otherwise.
+  - You can choose to take time in lieu via Time Off by Deel, selecting `the On-Call Time in Lieu` option after a shift.
+- Gitaly team members are expected to provide technical assistance for ONLY the cases described in [Urgent issues and outages](#urgent-issues-and-outages)
+  - There is no intention to trigger this rotation directly from monitoring at this time.
+  - All contact **must** follow the process described in [How to contact the team](#how-to-contact-the-team) above, including who and why can page.
+- Team members provide 15 minutes response time while oncall.
+  - The team member on-call is expected to be _available and reachable_ (but not necessarily actively working, as long as you can start the investigation within this SLO.)
+  - If paged less than 15 minutes before the end of a shift, you still must respond and explicitly hand off the incident.
+- Ongoing production incidents and customer escalations are explicitly handed off by the person leaving shift to the next Gitaly oncall using the incident channel on Slack.
+
+#### Training material
+
+- https://handbook.gitlab.com/handbook/engineering/on-call/#expectations-for-on-call
+- TBD
+
+#### Joining the rotation
+
+TBD
+
+#### Who is oncall
+
+The source of truth is the PagerDuty rotation. If you're scheduled but want to take PTO, you're responsible for finding coverage. (In case of emergencies, managers will take over this duty.)
+
+#### Roster management
+
+Please refer to https://handbook.gitlab.com/handbook/engineering/on-call/#pagerduty for the mechanics (swapping oncall, adding new team members to the rotation).
 
 ## Cluster team
 
