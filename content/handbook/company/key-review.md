@@ -43,7 +43,7 @@ Optional attendees are other team members as designated by their E-Group leader.
 
 Key Review Meetings may contain MNPI. As materials are limited access, participation is limited. Key Review agendas and recordings should not be shared with anyone not on the invite.
 
-If the Key Review meeting will not contain MNPI, it can be privately livestreamed to GitLab Unfiltered. 
+If the Key Review meeting will not contain MNPI, it can be privately livestreamed to GitLab Unfiltered.
 
 Functions that have these quarterly meetings are:
 
@@ -77,8 +77,8 @@ Content to cover in each Key Review:
 
 Important notes:
 
-1. Key Reviews are the primary forum for synchronously getting alignment and dependency commitments on function-level OKRs. 
-1. Before every Key Review, Key Review leades should update OKRs to capture progress from the previous quarter [Maintaining the status of OKRs](/handbook/company/okrs/#maintaining-the-status-of-okrs). As the Key Reviews often falls deep into the first month of the quarter, this update can include updates up until the date of the meeting.
+1. Key Reviews are the primary forum for synchronously getting alignment and dependency commitments on function-level OKRs.
+1. Before every Key Review, Key Review leads should update OKRs to capture progress from the previous quarter [Maintaining the status of OKRs](/handbook/company/okrs/#maintaining-the-status-of-okrs). As the Key Reviews often falls deep into the first month of the quarter, this update can include updates up until the date of the meeting.
 1. A document will be linked from the calendar invite for participants to log questions or comments for discussion and to any additional track decisions & action items.
 1. Every department KPI should be covered. This can be in the presentation and/or links to the handbook.
 1. Wherever possible, the KPI or KR being reviewed should be compared to Plan, Target, or industry benchmark.
@@ -165,13 +165,21 @@ For functions or departments for which this is true, it is recommended to use a 
 
 The Key Review should address new OKRs **and** an update on [scoring](okrs/_index.md#scoring-okrs) of what we have achieved in the previous quarter. This can include updates in the first quarter leading up to the time of the Key Review. Slides should:
 
-1. Recap top department OKRs and KRs
-      1. Link to the department epics
-      1. Share completion status and provide a health score
-      1. Flag key achievements
-      1. Highlight risks or dependencies in need of discussion
-1. Share OKRs for the current quarter
-       1. Link to the department epics
-       1. Highlight risks or dependencies in need of discussion  
+1. Attainment against function level OKRs from the previous quarter, including:
+     1. Link to OKRs in GitLab
+     1. [DRI](/handbook/people-group/directly-responsible-individuals/)
+     1. Completion [score](okrs/_index.md#scoring-okrs)
+     1. Update summary
+     1. Learnings
+     1. Remaining dependencies to achievement
+     1. Next steps, if incomplete
+
+1. Plans for function level OKRs for the current quarter, including:
+     1. Link to OKRs in GitLab
+     1. [DRI](/handbook/people-group/directly-responsible-individuals/)
+     1. Score (work may have already started in quarter)
+     1. Health status (at risk, needs attention, on track)
+     1. Status
+     1. Risks and dependencies
 
 At the end of each meeting, all attendees should be able to clearly answer what we are trying to achieve and whether we are on track.
