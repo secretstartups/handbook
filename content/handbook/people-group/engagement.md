@@ -515,7 +515,7 @@ All links should be added by 2022-01-21 aligned with our [timeline]({{< ref "eng
 
 #### Questions and Support
 
-The GitLab Team Member Engagement Survey is managed by the People Connect Team. If you require support or have any questions around the survey please be sure to reach out via `#people-connect` in Slack or email `people-connect@gitlab.com`.
+The GitLab Team Member Engagement Survey is managed by the People Connect Team. If you require support or have any questions around the survey please be sure to reach out via HelpLab.
 
 ## Previous Engagement Survey Results
 
@@ -576,7 +576,7 @@ GitLab scored 5% below the industry benchmark i.e. New Tech +1,000 2020 for the 
 
 #### Questions and Support
 
-The GitLab Team Member Engagement Survey is managed by the People Connect Team. If you require support or have any questions around the survey please be sure to reach out via `#people-connect` in Slack or email `people-connect@gitlab.com`.
+The GitLab Team Member Engagement Survey is managed by the People Connect Team. If you require support or have any questions around the survey please be sure to reach out via HelpLab.
 
 ### FY' 20 Engagement Survey
 
