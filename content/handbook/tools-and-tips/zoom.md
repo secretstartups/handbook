@@ -433,6 +433,12 @@ available. Processing takes about 15 minutes, so the video files appear before t
 1. In the side bar expand `AI Companion` and then click on `Meeting Summary`.
 1. To edit or share, click on a meeting topic and you will have the option to `Share`, `Edit`, or `Delete` meeting summaries.
 
+### Enabling email notifications for hosts when attendees join first
+
+1. Go to your Zoom account [settings](https://gitlab.zoom.us/profile/setting).
+1. Click the `Meeting` tab.
+1. Under `Email notification`, click the `When attendees join meeting before host` toggle to enable or disable it.
+
 ### How to share a presentation in Zoom
 
 At some point, you may need to give a slide presentation using Zoom.
