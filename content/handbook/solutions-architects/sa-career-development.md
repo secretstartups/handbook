@@ -17,6 +17,8 @@ Solutions Architecture team members you should review the [GitLab People Group C
 Because of the valuable experience and skills gained while driving customer outcomes, Solutions Architects can move to a variety of technical, sales and leadership roles in GitLab and across industries.
 The diagram below can help you exploring potential evolutions of your career development.
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fboard%2FGbJpPTw3N06rIoDk93HQG9%2FSA-Career-Path%3Fnode-id%3D0-1%26t%3D3bKqHgWXxzLX3oSk-1" allowfullscreen></iframe>
+
 While maturing a decision or assessing options, the below steps can help you throughout the process:
 
 1. Have a [career development conversation](/handbook/people-group/learning-and-development/career-development/#what-is-career-development) with your manager to discuss the learning opportunity. It's important to:
