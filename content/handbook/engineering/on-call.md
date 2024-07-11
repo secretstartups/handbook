@@ -77,6 +77,14 @@ In addition to incident management responsibilities, the EOC also is responsible
 - Check out [process description and on-call workflow](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html) when escalating GitLab.com operational issue(s).
 - Check out more detail for [general information](/handbook/engineering/development/processes/Infra-Dev-Escalation/) of the escalation process.
 
+### Gitaly Engineer On-Call
+
+**This is currently not active; tentative start date is 2025-01-01.**
+
+- Gitaly team provides an expert oncall rotation via PagerDuty, currently in [pilot](https://gitlab.com/groups/gitlab-org/core-platform-section/-/epics/4).
+- SLO is 15 minutes, during working hours only (which still tends to cover 24h of workdays, given team member distribution).
+- For more details, see the [team page](/handbook/engineering/infrastructure/core-platform/systems/gitaly/#gitaly-oncall-rotation)
+
 ## Security Team On-Call Rotation
 
 ### Security Operations (SecOps)
