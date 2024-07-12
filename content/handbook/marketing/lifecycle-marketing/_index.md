@@ -208,7 +208,6 @@ Team manager completes daily review of [lifecycle marketing issues in triage](ht
 This will change the status to wip (work in progress), allow quick assignment and add to the appropriate milestone.
 
 ### Milestones
-<!-- DO NOT CHANGE THIS ANCHOR -->
 
 The lifecycle marketing team uses the overall 2-week marketing milestones (format of [Mktg: YYYY-MM-DD](https://gitlab.com/groups/gitlab-com/-/milestones?utf8=%E2%9C%93&search_title=mktg%3A+&state=&sort=)) to organize, prioritize, and balance campaigns, projects, and requests.
 
@@ -217,10 +216,8 @@ The lifecycle marketing team uses the overall 2-week marketing milestones (forma
 * If issues in a milestone are not closed out by end of milestone, they are pulled to the next milestone. We will document **total issues** and **total weight** moved, to understand relative commitment levels and avoid overcommitment as we begin using milestones.
 
 ### Boards and Lists
-<!-- DO NOT CHANGE THIS ANCHOR -->
 
 #### Boards
-<!-- DO NOT CHANGE THIS ANCHOR -->
 
 <b>[Lifecycle Marketing Team Current Milestone](https://gitlab.com/groups/gitlab-com/-/boards/1884920?milestone_title=%23started&&label_name[]=dg-campaigns)</b> - this board provides a high-level status view of issues in the current milestone by team member.
 
@@ -248,7 +245,6 @@ The lifecycle marketing team uses the overall 2-week marketing milestones (forma
 * [Upcoming MIlestone by Team Members](https://gitlab.com/groups/gitlab-com/-/boards/1948068?scope=all&label_name[]=dg-campaigns&milestone_title=%23upcoming)
 
 #### Lists
-<!-- DO NOT CHANGE THIS ANCHOR -->
 
 ##### Issue List Current Mile by Team Member
 
@@ -264,9 +260,10 @@ The lifecycle marketing team uses the overall 2-week marketing milestones (forma
 * [Issues in plan status (campaigns)](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=mktg-status%3A%3Aplan)
 
 ### Key Resources
-<!-- DO NOT CHANGE THIS ANCHOR -->
-* [Lifecycle OKRs](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3556)
-* [Overall Epic for Lifecycle Marketing](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3823)
-* [FY24 Trial](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3559)
-* [FY24 Intelligent Nurture](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3557)
-* [FY24 - Personalized, efficient, and scaled email experiences](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3551)
+
+* [Overall Epic for Lifecycle Marketing](https://gitlab.com/groups/gitlab-com/marketing/-/epics/4795)
+* [FY25 Trial](https://gitlab.com/groups/gitlab-com/marketing/-/epics/4797)
+* [FY25 Persona Nurture](https://gitlab.com/groups/gitlab-com/marketing/-/epics/4798)
+* [FY25 Email Template Work](https://gitlab.com/groups/gitlab-com/marketing/-/epics/5125)
+* [Email UTM generator](https://docs.google.com/spreadsheets/d/12jm8q13e3-JNDbJ5-DBJbSAGprLamrilWIBka875gDI/edit?gid=2078854818#gid=2078854818)
+* [Nurture documentation](https://docs.google.com/spreadsheets/d/1ra3jTCzYSZIE5nL_PsbDBSl9Bab9_Amr_sjLOJ-W1Ik/edit?usp=sharing)
