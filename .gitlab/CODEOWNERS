@@ -641,7 +641,7 @@
 [CODEOWNERS] @gitlab-com/office-of-the-ceo @gitlab-com/content-sites @gitlab-com/egroup
 /.gitlab/
 
-[handbook-operations] @gitlab-com/content-sites @gitlab-com/content-sites/handbook-backend @gitlab-com/egroup
+[handbook-operations] @gitlab-com/content-sites @gitlab-com/content-sites/handbook-tools @gitlab-com/egroup
 /.editorconfig 
 /.gitignore
 /.gitlab-ci.yml
