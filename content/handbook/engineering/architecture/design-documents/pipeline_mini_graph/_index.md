@@ -37,9 +37,9 @@ While the Pipeline Mini Graph primarily functions via REST, we are updating the 
 
 To break down implementation, we are taking the following steps:
 
-1. Separate the REST version and the GraphQL version of the component into 2 directories called `pipeline_mini_graph` and `legacy_pipeline_mini_graph`. This way, developers can contribute with more ease and we can easily remove the REST version once all apps are using GraphQL.
+1. [COMPLETE] Separate the REST version and the GraphQL version of the component into 2 directories called `pipeline_mini_graph` and `legacy_pipeline_mini_graph`. This way, developers can contribute with more ease and we can easily remove the REST version once all apps are using GraphQL.
+1. [COMPLETE] Optimize GraphQL query structure to be more performant.
 1. Finish updating the newer component to fully support GraphQL
-1. Optimize GraphQL query structure to be more performant.
 1. Roll out `ci_graphql_pipeline_mini_graph` to globally enable GraphQL instances of the component.
 
 ## Implementation Details
@@ -52,17 +52,19 @@ To break down implementation, we are taking the following steps:
 | [GraphQL Query Optimization](https://gitlab.com/gitlab-org/gitlab/-/issues/465309) | [17.1](https://gitlab.com/groups/gitlab-org/-/milestones/99#tab-issues) | [465309](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/155129) | ✅ |
 | [Dedicated component for downstream pipelines](https://gitlab.com/gitlab-org/gitlab/-/issues/466238) | [17.1](https://gitlab.com/groups/gitlab-org/-/milestones/99#tab-issues) | [155382](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/155382) | ✅ |
 | [Fetch Stage by ID](https://gitlab.com/gitlab-org/gitlab/-/issues/464100) | [17.2](https://gitlab.com/groups/gitlab-org/-/milestones/100#tab-issues) | [157506](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/157506) | ✅ |
-| [Job Item](https://gitlab.com/gitlab-org/gitlab/-/issues/467278) | [17.2](https://gitlab.com/groups/gitlab-org/-/milestones/100#tab-issues) | [157798](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/157798) | In Review |
-| [Job Actions](https://gitlab.com/gitlab-org/gitlab/-/issues/467279) | [17.2](https://gitlab.com/groups/gitlab-org/-/milestones/100#tab-issues) | TBD | In Dev |
-| [Rollout `ci_graphql_pipeline_mini_graph`](https://gitlab.com/gitlab-org/gitlab/-/issues/407818) | [17.2](https://gitlab.com/groups/gitlab-org/-/milestones/100#tab-issues) | TBD | Blocked |
-| [Migrate MR PMG to GraphQL instance](https://gitlab.com/gitlab-org/gitlab/-/issues/419725) | [17.2](https://gitlab.com/groups/gitlab-org/-/milestones/100#tab-issues) | TBD | Blocked |
-| [Migrate pipeline editor PMG to GraphQL instance](https://gitlab.com/gitlab-org/gitlab/-/issues/466275) | TBD | TBD | Blocked |
-| [Migrate commit page PMG to GraphQL instance](https://gitlab.com/gitlab-org/gitlab/-/issues/466274) | TBD | TBD | Blocked |
+| [Job Item](https://gitlab.com/gitlab-org/gitlab/-/issues/467278) | [17.2](https://gitlab.com/groups/gitlab-org/-/milestones/100#tab-issues) | [157798](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/157798) | ✅  |
+| [Job Actions](https://gitlab.com/gitlab-org/gitlab/-/issues/467279) | [17.3](https://gitlab.com/groups/gitlab-org/-/milestones/101#tab-issues) | [159004](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/159004) | In Review |
+| [Rollout `ci_graphql_pipeline_mini_graph`](https://gitlab.com/gitlab-org/gitlab/-/issues/407818) | [17.3](https://gitlab.com/groups/gitlab-org/-/milestones/101#tab-issues) | TBD | Blocked |
+| [Migrate MR PMG to GraphQL instance](https://gitlab.com/gitlab-org/gitlab/-/issues/419725) | [17.4](https://gitlab.com/groups/gitlab-org/-/milestones/103#tab-issues) | TBD | Blocked |
+| [Migrate pipeline editor PMG to GraphQL instance](https://gitlab.com/gitlab-org/gitlab/-/issues/466275) | [17.4](https://gitlab.com/groups/gitlab-org/-/milestones/103#tab-issues)  | TBD | Blocked |
+| [Migrate commit page PMG to GraphQL instance](https://gitlab.com/gitlab-org/gitlab/-/issues/466274) | [17.4](https://gitlab.com/groups/gitlab-org/-/milestones/103#tab-issues)  | TBD | Blocked |
 | [Remove dead logic from PMG codebase](https://gitlab.com/gitlab-org/gitlab/-/issues/466277) | TBD | TBD | Blocked |
 
 ## Design Details
 
 ### REST Structure
+
+All data for the legacy pipeline mini graph is passed into the REST instance of the component. This data comes from various API calls throughout different apps which use the component.
 
 #### File Structure
 
@@ -75,8 +77,6 @@ To break down implementation, we are taking the following steps:
 │       ├── legacy_pipeline_stage.vue
 │       └── legacy_pipeline_stages.yml
 ```
-
-All data for the legacy pipeline mini graph is passed into the REST instance of the component. This data comes from various API calls throughout different apps which use the component.
 
 #### Properties
 
@@ -93,21 +93,30 @@ All data for the legacy pipeline mini graph is passed into the REST instance of 
 
 The GraphQL instance of the pipeline mini graph has self-managed data.
 
-#### Current File Structure
+#### File Structure
 
 ```plaintext
 ├── pipeline_mini_graph/
-|   ├── job_item.vue
-│   ├── linked_pipelines_mini_list.vue
+│   ├── downstream_pipelines.vue
+│   ├── job_action_button.vue
+│   ├── job_item.vue.vue
 │   ├── pipeline_mini_graph.vue
 │   ├── pipeline_stage.vue
-│   └── pipeline_stages.yml
-├── ├── graphql/
-│       ├── get_pipeline_stage_query.query.graphql
-│       └── get_pipeline_stages_query.query.graphql
+│   └── pipeline_stages.vue
+├────── graphql/
+│       └── fragments/
+│           └── job.fragment.graphql
+│       └── mutations/
+│           ├── job_cancel.mutation.graphql
+│           ├── job_play.mutation.graphql
+│           ├── job_retry.mutation.graphql
+│           └── job_unschedule.mutation.graphql
+│       └──queries/
+│           ├── get_pipeline_mini_graph_query.query.graphql
+│           └── get_pipeline_stage_jobs.query.graphql
 ```
 
-#### Current Properties
+#### Properties
 
 | Name | Type | Required | Description |
 | --- | --- | --- | --- |
@@ -124,29 +133,6 @@ The GraphQL instance of the pipeline mini graph has self-managed data.
 - `isMergeTrain`: This property is specific to the MR page and is used to display a message in the job dropdown to warn users that merge train jobs cannot be retried. This is an odd flow. Perhaps we should consider either having this data come from somewhere else within the pipeline mini graph, or living in the merge train widget itself. It is worth noting here that this boolean is not used for any other logic outside of displaying this message.
 
 - `pipelineEtag`: Consider whether this data must be passed into the pipeline mini graph, or whether we can generate this within the component through a query.
-
-##### Query Structure
-
-Currently the approach is to use 2 queries in the parent file
-
-- [getPipelineStages](https://gitlab.com/gitlab-org/gitlab/-/blob/master/app/assets/javascripts/ci/pipeline_mini_graph/graphql/queries/get_pipeline_stages.query.graphql?ref_type=heads): populates the stages of the current pipeline
-- [getLinkedPipelines](https://gitlab.com/gitlab-org/gitlab/-/blob/master/app/assets/javascripts/ci/pipeline_details/graphql/queries/get_linked_pipelines.query.graphql?ref_type=heads): if there is an upstream pipeline or any downstream pipelines, this query will populate those
-
-Another query called [getPipelineStage](https://gitlab.com/gitlab-org/gitlab/-/blob/master/app/assets/javascripts/ci/pipeline_mini_graph/graphql/queries/get_pipeline_stage.query.graphql?ref_type=heads) will be used to populate the dropdown when a stage icon is clicked. 
-
-We need to consider whether this is the most performant way to query for the mini graph. 
-
-Should pipeline stages and linked pipelines populate in 2 separate queries or is it okay to just have a single query for all icons and statuses in the mini graph to be displayed? Considerations below: 
-
-- The reason this is currently split is because the upstream/downstream sections of the mini graph were added as a feature enhancement after the initial component already existed and they used to be a premium feature. Since we have restructured this to all exist as free, we should reconsider. 
-- The pmg exists in several pipelines lists, so there will be up to 15 on a page rendering at a time.
-- Since we have not implemented subscriptions, we are still using polling to update this component.
-- If we merge two queries, do we hit maximum complexity or not?
-- Loading time and the UI: What information do we want to render the fastest? Can we defer some information to load with the second query?
-
-##### Directory Structure
-
-There has been an [interest](https://gitlab.com/gitlab-org/gitlab/-/issues/345571) in more information from downstream pipelines. As such, we may want to consider rethinking `linked_pipelines_mini_list.vue` and having the downstream pipelines into their own file called `downstream_pipelines.vue` instead. The upstream pipeline could then be rendered with a simple `ci-icon`. 
 
 ## Future Improvements
 
