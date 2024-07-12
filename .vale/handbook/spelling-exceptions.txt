@@ -995,6 +995,7 @@ scriptable
 scrollable
 SDKs
 SDRs
+sed
 segmentations
 SEGs
 SELinux
@@ -1124,6 +1125,7 @@ superset
 supersets
 supertype
 supertypes
+svlogd
 SVGs
 swappiness
 swimlane
