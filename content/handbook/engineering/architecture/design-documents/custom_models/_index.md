@@ -133,34 +133,6 @@ When the standard prompts are migrated into either the AI Gateway or a prompt te
 
 Installation instructions will be added to the Developer documentation. [issue](https://gitlab.com/gitlab-org/gitlab/-/issues/452509)
 
-### GitLab Duo Feature Support
-
-| Feature             | Default Model                | Mistral 7B | Mixtral-8x7B | Mixtral 8x22B  | CodeGemma 7B | CodeGemma 2B |
-|---------------------|------------------------------|------------|--------------|----------------|--------------|--------------|
-| GitLab Duo Chat     | Anthropic Claude-3           | 🔎         | 🔎            | 🔎             | 🔎           | 🔎           |
-| Code Completion     | Vertex AI Codey code-gecko   | 🚫         | 🚫            | 🚫             |  ✅          | ✅           |
-| Code Generation     | Anthropic Claude-3           | ✅         | ✅            |  ✅            | 🔎           | 🔎           |
-| Git Suggestions     | Vertex AI Codey codechat-bison  | 🔎      | 🔎            | 🔎             | 🔎           | 🔎           |
-| Discussion Summary  | Vertex AI Codey text-bison   | 🔎         | 🔎            | 🔎             | 🔎           | 🔎           |
-| Issue Description Generation | Anthropic Claude-2  | 🔎         | 🔎            | 🔎             | 🔎           | 🔎           |
-| Test Generation     | Anthropic Claude-2           | 🔎         | 🔎            | 🔎             | 🔎           | 🔎           |
-| MR template population | Vertex AI Codey text-bison | 🔎        | 🔎            | 🔎             | 🔎           | 🔎           |
-| Suggested Reviewers | GitLab In-House Model         | 🔎        | 🔎            | 🔎             | 🔎           | 🔎           |
-| Merge request summary | Vertex AI Codey text-bison  | 🔎        | 🔎            | 🔎             | 🔎           | 🔎           |
-| Code review summary | Vertex AI Codey text-bison    | 🔎        | 🔎            | 🔎             | 🔎           | 🔎           |
-| Vulnerability explanation | Vertex AI Codey text-bison Anthropic | 🚫 | 🔎      | 🔎             | 🔎           | 🔎           |
-| Vulnerability resolution | Vertex AI Codey code-bison  | 🔎     | 🔎            | 🔎             | 🔎           | 🔎           |
-| Code explanation | Vertex AI Codey codechat-bison      | 🔎        | 🔎            | 🔎             | 🔎           | 🔎           |
-| Root cause analysis | Vertex AI Codey text-bison       | 🔎        | 🔎            | 🔎             | 🔎           | 🔎           |
-| Value stream forecasting | GitLab In-House Model       | 🔎        | 🔎            | 🔎             | 🔎           | 🔎           |
-
-- The `Suggested Reviewers` and `Value stream forecasting` models are Convolutional Neural Networks (CNNs) developed in-house by GitLab.
-- ✅ `Supported` : means the GitLab Duo feature is supported for this model
-- 🚫 `Not Supported`: the GitLab Duo feature is not supported for this model
-- 🔎 `To be Evaluated`: research is needed to determine if this feature will be supported
-- GitLab Duo Chat can also use Vertex AI Codey textembedding-gecko
-- Vulnerability explanation can fall back to Claude-2 if degraded performance
-
 #### RAG / Duo Chat tools
 
 Most of the tools available to Duo Chat behave the same for self-hosted models as
