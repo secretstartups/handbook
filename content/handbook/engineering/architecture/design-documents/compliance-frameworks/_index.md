@@ -7,10 +7,12 @@ coach: "@theoretick"
 approvers: [  ]
 owning-stage: "~govern::compliance"
 participating-stages: []
+toc_hide: true
 ---
 
 <!-- Blueprints often contain forward-looking statements -->
 <!-- vale gitlab.FutureTense = NO -->
+{{< design-document-header >}}
 
 ## Compliance Frameworks
 

@@ -7,6 +7,7 @@ coach: "@grzesiek"
 approvers: [ "@nhxnguyen", "@stkerr" ]
 owning-stage: "~workinggroup::clickhouse"
 participating-stages: [ "~section::ops", "~section::dev" ]
+toc_hide: true
 ---
 
 {{< design-document-header >}}
