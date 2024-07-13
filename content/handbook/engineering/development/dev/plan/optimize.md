@@ -208,7 +208,7 @@ Issues labeled `Stretch` are stretch goals for delivering in the current milesto
 
 Issues that have previously been agreed upon and labeled as `Community contribution` should be [triaged](/handbook/engineering/infrastructure/engineering-productivity/issue-triage/) to ensure they have:
 
-- A clear [implementation plan](/handbook/engineering/development/dev/create/ide/community-contributions/#treat-wider-community-as-primary-audience).
+- A clear [implementation plan](/handbook/engineering/development/dev/create/remote-development/community-contributions/#treat-wider-community-as-primary-audience).
 - A relevant weight estimate.
 - The `Seeking community contributors` label assigned.
 

@@ -89,7 +89,7 @@ Each SEG page has a list of the targets and progress for each month, and these s
     <a href="/handbook/engineering/development/incubation/apm/" class="btn btn-primary" style="width:30%;margin:5px;white-space:normal;">Application Performance Monitoring</a> matured to <a href="/handbook/product/categories/#observability-group" class="btn btn-primary" style="width:30%;margin:5px;white-space:normal;">Observability Group</a>
   </div>
   <div>
-    <a href="/handbook/engineering/development/incubation/server-runtime/" class="btn btn-primary" style="width:30%;margin:5px;white-space:normal;">Server Runtime</a> matured to <a href="/handbook/product/categories/#ide-group" class="btn btn-primary" style="width:30%;margin:5px;white-space:normal;">IDE Group</a>
+    <a href="/handbook/engineering/development/incubation/server-runtime/" class="btn btn-primary" style="width:30%;margin:5px;white-space:normal;">Server Runtime</a> matured to <a href="/handbook/product/categories/#remote-development-group" class="btn btn-primary" style="width:30%;margin:5px;white-space:normal;">Remote Development Group</a>
   </div>
   <div>
     <a href="/handbook/engineering/development/incubation/okr/" class="btn btn-primary" style="width:30%;margin:5px;white-space:normal;">OKR Management</a> matured to <a href="/handbook/product/categories/#product-planning-group" class="btn btn-primary" style="width:30%;margin:5px;white-space:normal;">Product Planning Group</a>
