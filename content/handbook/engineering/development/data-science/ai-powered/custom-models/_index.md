@@ -44,9 +44,9 @@ Issues owned by the Custom Models group should have these labels, as appropriate
 
 - `~"group::custom models"`
 - `~"devops::ai-powered"`
-- `~"section::dev"`
-- `~"category::model personalization"`
-- `~"category::self-hosted model deployment"`
+- `~"section::data science"`
+- `~"Category:Model personalization"`
+- `~"Category:Self-Hosted models"`
 
 In addition, issues should contain the relevant `~type:` and subtype labels.
 
