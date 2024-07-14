@@ -14,7 +14,7 @@ toc_hide: true
 <!-- vale gitlab.FutureTense = NO -->
 {{< design-document-header >}}
 
-## Compliance Frameworks
+## Summary
 
 This blueprint serves as living documentation of the technical considerations in the implementation of [Compliance Frameworks](https://docs.gitlab.com/ee/user/group/compliance_frameworks.html). This includes functionality in [Compliance Center](https://docs.gitlab.com/ee/user/compliance/compliance_center/) and the relationship with [Security Policies](https://docs.gitlab.com/ee/user/application_security/policies/).
 
