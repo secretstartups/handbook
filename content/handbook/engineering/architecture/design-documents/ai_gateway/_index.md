@@ -588,17 +588,8 @@ Self-managed instances can either use GitLab-hosted AI Gateway or have their own
 
 While AI Gateway centralizes _access_ to AI features and models, it interacts with other components to help users achieve their goals:
 
-- AI Agents: create and manage agents and prompts
 - Model registry: manage and deployment machine learning models
 
 ### Model registry
 
 [Model registry](https://docs.gitlab.com/ee/user/project/ml/model_registry/index.html) is a feature that allows users to use GitLab to manage the machine learning models. While not solely focused on large language models, and currently more targeted at smaller model applications, which could be deployed in various ways: as a standalone library, a service, a pod, a cloud deployment, and so forth. For these user-deployed models, the ability to auto-configure an API that's accessible through the AI Gateway could be a significant feature.
-
-### AI Agents
-
-[AI Agents](https://gitlab.com/groups/gitlab-org/-/epics/12330) is a feature that allows users to implement and manage their own chats and AI features, managing prompts, models and tools. Development is currently in its early stages. Once mature, we intend to move GitLab feature to agents, but there are blockers that currently prevent us from doing so:
-
-- [Lack of prompt templating](https://gitlab.com/gitlab-org/gitlab/-/issues/441081).
-- Implement replication of user-defined prompts into ai-gateway.
-- Implement replication of GitLab-defined prompts into self-managed installations (e.g., organization-level agents where we prepopulate with a few agents).
