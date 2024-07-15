@@ -453,7 +453,7 @@ To review and triage documentation feedback and improvement issues for your grou
 ## Stage leads (experiment)
 
 {{% alert title="Note" color="primary" %}}
-This section outlines a process that we have not yet used or implemented in the Technical Writing team. We plan to experiment with stage leads in Q1 and Q2 of 2024. This process is subject to change.
+This section outlines a process that we are implementing in the Technical Writing team. We plan to experiment with stage leads in Q1, Q2, and Q3 of FY2025. This process is subject to change.
 {{% /alert %}}
 
 Some Technical Writers are assigned as *stage leads* for a given DevOps stage.
