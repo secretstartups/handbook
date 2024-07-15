@@ -133,6 +133,7 @@ details summary * {
 - ux_coworking
 - vim
 - website
+- workspaces-gdk
 
 </details>
 
