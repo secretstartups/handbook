@@ -46,6 +46,22 @@ Docker is a platform commonly used by developers to build container applications
     ```yml
     build image:
       stage: build
+      image: docker:27
+      services:
+        - docker:27-dind
+      variables:
+        IMAGE: $CI_REGISTRY_IMAGE/$CI_COMMIT_REF_SLUG:$CI_COMMIT_SHA
+      script:
+        - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD $CI_REGISTRY
+        - docker build -t $IMAGE .
+        - docker push $IMAGE
+    ```
+
+    > There are alternative methods that can be used for building Docker based images. If you runners do not support Docker in Docker, you can consider using a tool like `kaniko`, as shown in the configuration below:
+    
+    ```yml
+    build image:
+      stage: build
       image:
         name: gcr.io/kaniko-project/executor:v1.14.0-debug
         entrypoint: [""]
