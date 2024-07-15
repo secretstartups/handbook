@@ -46,15 +46,14 @@ Docker is a platform commonly used by developers to build container applications
     ```yml
     build image:
       stage: build
-      image: docker:27
-      services:
-        - docker:27-dind
-      variables:
-        IMAGE: $CI_REGISTRY_IMAGE/$CI_COMMIT_REF_SLUG:$CI_COMMIT_SHA
-      script:
-        - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD $CI_REGISTRY
-        - docker build -t $IMAGE .
-        - docker push $IMAGE
+      image:
+        name: gcr.io/kaniko-project/executor:v1.14.0-debug
+        entrypoint: [""]
+    script:
+      - /kaniko/executor
+        --context "${CI_PROJECT_DIR}"
+        --dockerfile "${CI_PROJECT_DIR}/Dockerfile"
+        --destination "${CI_REGISTRY_IMAGE}:${CI_COMMIT_TAG}"
     ```
 
 1. In the **Commit message** field, type `Add "build image" job definition`, ensure the **Target Branch** is set to `main`, and click **Commit changes**.
