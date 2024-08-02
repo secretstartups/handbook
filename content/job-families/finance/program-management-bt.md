@@ -131,7 +131,17 @@ Extends the Staff IT Program Manager requirements plus:
 
 ## Manager, IT Program Management
 
-The Manager, IT Program Management is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+- Build and lead a Program Management function in line with GitLab's CREDIT and leadership values, including the concept of manager of one.
+- This role will lead, influence, develop a strategy and deliver capabilities to support GitLab's business technology initiatives
+- Develop strong partnerships with functional leaders to drive focus on business objectives and solve business problems
+- Be a trusted partner for executive management to ensure program success
+- Drive teams through the Software engineering experience, SaaS system deployment using Agile and demonstrated analytical and technical skills
+- Lead multiple programs by achieving alignment on program scope, release planning, as well as aligning one or more teams on vision, business goals, creating program structure, and securing cross-functional alignment
+- Drive stakeholder meetings with key stakeholders for each program to help make key decisions, remove obstacles, and address key program issues including prioritization, sequencing of work.
+- Develop deep understanding of the business problems, business process and technology solutions to drive and recommend outcomes.
+- Anticipate and remove obstacles with a sense of urgency that slow down or prevent project teams from delivering on project goals If a manager of people:
+- Set the vision, hire, build, coach and manage a highly productive team day to day.
+- Expert management skills, especially at developing talent. Set goals and priorities for the team.
 
 ### Manager, IT Program Management Responsibilities
 
