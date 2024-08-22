@@ -129,7 +129,7 @@ For those with regular commitments, look for shorter weeks or timezone variation
 ### Rotation schedule
 
 | Start date | End date | See one | Teach one | Schedule Notes |
-| ---------- | -------- | ------- | --------- | -------------- | 
+| ---------- | -------- | ------- | --------- | -------------- |
 | 2024-08-12 | 2024-08-16 | [Emily Plotkin](https://gitlab.com/emilyplotkin) - Senior Director, Legal - Employment | Ivan French - CEO, Sijbrandij Foundation | REMOTE - PT |
 | 2024-08-19 | 2024-08-23 | OPEN | [Emily Plotkin](https://gitlab.com/emilyplotkin) - Senior Director, Legal - Employment | REMOTE - PT - limited week (M-W)|
 | 2024-08-26 | 2024-08-30 | [Sam Wiskow - Senior Product Manager, Delivery & Scalability](https://gitlab.com/swiskow) | OPEN | REMOTE - PT |
@@ -644,7 +644,7 @@ If your CEO Shadow rotation is two consecutive weeks, it is expected you will be
 
 #### Airfare
 
-Airfare can be booked according to our [travel policy](/handbook/travel/) or [spending company money](/handbook/finance/spending-company-money/) policy.
+Airfare can be booked according to our [travel policy](/handbook/finance/travel/) or [spending company money](/handbook/finance/spending-company-money/) policy.
 In case your shadow rotation includes time without shadowing, it is possible to expense airfare to fly home and back within the continental USA. If you are from outside of the USA, it is also possible to expense airfare during the time without shadowing because of the possible high cost of lodging in San Francisco if you choose to stay at a different location.
 
 #### Meals
@@ -829,5 +829,5 @@ CEO Shadow Program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2024-06-10 | 2024-06-14 | [Sacha Guyon](https://gitlab.com/sguyon) | Sr. Product Manager (Observability) | |
 | 2024-06-17 | 2024-06-21 | [Stacy Cline](https://gitlab.com/slcline) | Sr Director, ESG | |
 | 2024-07-15 | 2024-07-26 | [Kristine Setschin](https://gitlab.com/KSetschin) | Senior Manager Regional Marketing, EMEA | |
-| 2024-07-22 | 2024-08-02 | [Lesley Razzaghian](https://gitlab.com/lesley-r) | Backend Engineer | | 
+| 2024-07-22 | 2024-08-02 | [Lesley Razzaghian](https://gitlab.com/lesley-r) | Backend Engineer | |
 | 2024-07-29 | 2024-08-09 | [Gary Holtz](https://gitlab.com/garyh) | Senior Backend Engineer | |
