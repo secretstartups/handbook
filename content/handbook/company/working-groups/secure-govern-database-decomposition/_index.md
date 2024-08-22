@@ -161,7 +161,7 @@ If gradual decomposition is not possible, then we would pursue decomposition wit
 
 | Working Group Role                   | Name              | Title |
 | -----------                          | -----------       | ----------- |
-| Executive Stakeholder                | Bartek Marnane    | VP, Expansion |
+| Executive Stakeholder                | Jerome Ng         | Engineering Director, Expansion |
 | Functional Lead                      | Gregory Havenga   | Senior Backend Engineer, Govern: Threat Insights  |
 | Functional Lead                      | Lucas Charles     | Principal Software Engineer, Secure & Govern |
 | Facilitator AMER                     | Neil McCorrison   | Manager, Software Engineering |
