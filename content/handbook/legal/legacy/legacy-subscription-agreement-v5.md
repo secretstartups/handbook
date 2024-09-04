@@ -1,7 +1,7 @@
 ---
 title: "GitLab Subscription Agreement V5"
 ---
-
+<!-- vale off -->
 *Deprecated 2024-08-29*
 
 ## Subscription Agreement

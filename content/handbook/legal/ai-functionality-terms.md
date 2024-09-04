@@ -12,7 +12,7 @@ These AI Functionality Terms (“Terms’’) are between GitLab Inc. with offic
 
 1.2. “Customer Integrated Models” means AI models powering AI Functionality which, irrespective of the source from which they are obtained, are (i) hosted by, or on behalf of, Customer, and (ii) listed as available for use with AI Functionality and implemented consistent with the Documentation.
 
-1.3. “Data Processing Addendum” means the GitLab Data Processing Addendum and Standard Contractual Clauses available at <https://about.gitlab.com/handbook/legal/data-processing-agreement/>, or such other written data processing addendum between the parties.
+1.3. “Data Processing Addendum” means the GitLab Data Processing Addendum and Standard Contractual Clauses available at <https://handbook.gitlab.com/handbook/legal/data-processing-agreement/>, or such other written data processing addendum between the parties.
 
 1.4. “GitLab Integrated Models” means AI models powering AI Functionality which are hosted by GitLab, or by a third party listed as a GitLab sub-processor of GitLab as listed on the Website.
 
