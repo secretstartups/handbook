@@ -220,9 +220,9 @@ Zendesk as `Account Owner`. To involve a CSM or AM, use the following methods:
 
 ### Helping with a ticket that has an Assigned Support Engineer
 
-Some customers have an Assigned Support Engineer (ASE) that will own their
+Some customers have an Assigned Support Engineer (ASE) who will own their
 tickets. This will be apparent from the org note in the ticket. For such
-customers, see [the ASE workflow](assigned-support-engineer/working-on-ase-tickets.html).
+customers, see [the ASE workflow](../assigned-support-engineer/working-on-ase-tickets.html).
 
 ## FAQ
 
