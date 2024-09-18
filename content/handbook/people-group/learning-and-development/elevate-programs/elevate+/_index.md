@@ -3,6 +3,8 @@ title: Elevate+
 
 ---
 
+Elevate+: a live virtual leadership development program for leaders of leaders at GitLab, focused on strengthening leadership identity, mastering GitLab business acumen, building and executing team strategy, maintaining effective cross-functional partnership, and efficient change management.
+
 Leaders at GitLab enable our mission that [everyone can contribute](/handbook/company/mission/). We need to equip our people leaders with the skills to lead globally dispersed, all-remote teams to support our business growth at scale.
 
 Through small group cohorts and interactive workshops, Elevate+ is designed to enable senior leaders at GitLab to better understand and practice behaviours anchored in GitLab's values and leadership competencies, develop new skills to support high priority business needs, and help establish and strengthen cross-functional connections.
