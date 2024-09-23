@@ -284,7 +284,7 @@ If a field needs to be created in Marketo AND SFDC, it must be created in SFDC f
 
 If you need assistance with Sales Systems follow the next steps:
 
-1. Open an [Sales System issue](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/new) in their project and assign the label `EntAppsCustomer::MOPS`. 
+1. Open an [Sales System issue](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/new) in their project and assign the label `EntAppsCustomer::MOPS`.
     - If the issue is a part of a committed PMO project, please add the label `MktgSystems-PMO`
 2. If Mops member can create a changeset, please do so shortly after creating the issue to decrease time to deploy,
 3. Add [prioritization label](/handbook/marketing/marketing-operations/#labeling) of `MktgOpsPrio::00: Requested`
@@ -431,7 +431,7 @@ Below are tools in the Marketing Technology stack, organized by tier.
 
 ### Requesting access to an existing tool
 
-To request access to an existing tool in the stack, [please follow the access request process](/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/) as outlined in the business operations handbook.
+To request access to an existing tool in the stack, [please follow the access request process](/handbook/it/end-user-services/onboarding-access-requests/access-requests/) as outlined in the business operations handbook.
 
 If you are working with a contractor or consultant that requires access to a tool in our stack, [please follow the professional services access request process](/handbook/finance/procurement/) as outlined in the procurement handbook.
 

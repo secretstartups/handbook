@@ -20,7 +20,7 @@ We are a global team, and we know there are sustainability initiatives and offer
 
 1. Unplug devices at the end of the day. You can save anywhere between $100 and $200 each year by unplugging devices not in use.<sup>1</sup>
 2. Use sleep mode instead of a screensaver. Screensavers might actually use more energy than not using one.<sup>2</sup>
-3. Repair devices instead of replacing. [ifixit](https://www.ifixit.com/) provides manuals for how to fix a variety of electronic and other household items. For GitLab laptop repairs, follow the [steps listed in the handbook](/handbook/business-technology/end-user-services/onboarding-access-requests/#laptop-repair).
+3. Repair devices instead of replacing. [ifixit](https://www.ifixit.com/) provides manuals for how to fix a variety of electronic and other household items. For GitLab laptop repairs, follow the [steps listed in the handbook](/handbook/it/end-user-services/onboarding-access-requests/#laptop-repair).
 
 ## Lighting
 

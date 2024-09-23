@@ -74,13 +74,13 @@ Other requirements
 
 ## Performance Indicators
 
-- [12 month team member retention](/handbook/people-group/people-group-metrics/#team-member-retention)
-- [12 month voluntary team member turnover](/handbook/people-group/people-group-metrics/#team-member-turnover)
-- [12 month PIP Success Rate](/handbook/people-group/people-group-metrics/#regrettable-attrition)
+- [12 month team member retention](/handbook/people-group/people-success-performance-indicators/#team-member-retention)
+- [12 month voluntary team member turnover](/handbook/people-group/people-success-performance-indicators/#team-member-turnover)
+- [12 month PIP Success Rate](/handbook/people-group/people-success-performance-indicators/#regrettable-attrition)
 - [Discretionary bonus per employee per month](/handbook/total-rewards/incentives/#discretionary-bonuses)
 - [Engagement survey inclusion questions](/handbook/company/culture/inclusion/#performance-indicators)
 - [New Hire Location Factor](/#new-hire-location-factor)
-- [Percent of team members over compensation band](/handbook/people-group/people-group-metrics/#percent-over-compensation-band)
+- [Percent of team members over compensation band](/handbook/people-group/people-success-performance-indicators/#percent-over-compensation-band)
 - [Plan vs Actual](/handbook/finance/financial-planning-and-analysis/#plan-vs-actual)
 - [Women in company](/handbook/company/culture/inclusion/#performance-indicators)
 - [Women in leadership](/handbook/company/culture/inclusion/#performance-indicators)

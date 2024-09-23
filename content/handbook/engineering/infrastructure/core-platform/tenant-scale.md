@@ -319,7 +319,7 @@ to allow the group to focus on long-term scalability work.
 
 ## Dashboards
 
-You can find our group metrics in the [Tenant Scale Group Engineering Metrics page](/handbook/engineering/metrics/enablement/data-stores/tenant-scale).
+You can find our group metrics in the [Tenant Scale Group Engineering Metrics page](/handbook/product/groups/product-analysis/engineering/dashboards/enablement/data-stores/tenant-scale).
 
 {{< tableau height="600px" toolbar="hidden" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/TopEngineeringMetrics/TopEngineeringMetricsDashboard" >}}
   {{< tableau/filters "GROUP_LABEL"="tenant scale" >}}

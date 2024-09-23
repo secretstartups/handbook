@@ -449,7 +449,7 @@ We have a huge opportunity in front of us and we want to be ambitious. Therefore
 
 ##### Success criteria
 
-The success of the Engineer relates to getting a rapid, high-quality answer to the question of product-market fit. That answer can absolutely be "no", so performance is not contingent on the group graduating to a larger, multi-person group. The measure of this is [GMAU](/handbook/product/performance-indicators/#group-monthly-active-users-gmau).
+The success of the Engineer relates to getting a rapid, high-quality answer to the question of product-market fit. That answer can absolutely be "no", so performance is not contingent on the group graduating to a larger, multi-person group. The measure of this is [GMAU](https://internal.gitlab.com/handbook/company/performance-indicators/product/#group-monthly-active-users-gmau).
 
 ##### Sponsorship
 
@@ -551,7 +551,7 @@ We do have an exception to the above, which is a senior leader in Product Manage
 
 Here are some examples of the things that this senior leader will coordinate:
 
-- Growth Group: [Stages per User (SpU)](/handbook/product/performance-indicators/)
+- Growth Group: [Stages per User (SpU)](https://internal.gitlab.com/handbook/company/performance-indicators/product/)
 - Pricing: [Tiers](https://about.gitlab.com/pricing/)
 - Infrastructure Department: Cloud spend (within limits, not cost per user)
 - Development Department: Prioritization of large enterprise features

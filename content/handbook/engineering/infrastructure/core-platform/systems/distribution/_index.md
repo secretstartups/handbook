@@ -302,7 +302,7 @@ using the appropriate issue template in the same issue tracker.
 ## Work Resources
 
 General resources available to developers are listed in the
-[Sandbox cloud page](/handbook/infrastructure-standards/realms/sandbox/).
+[Sandbox cloud page](/handbook/company/infrastructure-standards/realms/sandbox/).
 
 In the Distribution team specifically, everyone should have access to the
 following resources:

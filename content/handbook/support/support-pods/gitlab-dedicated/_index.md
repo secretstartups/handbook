@@ -37,7 +37,7 @@ Enable others within the Support Team to answer GitLab Dedicated tickets.
 
 Use the [Slack, Google Groups, 1Password Vaults or Groups Access Requests](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=slack_googlegroup_1Passwordgroupvault) issue template to get added to the `@spt-pod_dedicated` group on Slack.
 
-There is more information about [Slack, Google Groups, 1Password Vaults or Groups Access Requests](/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/#slack-google-groups-1password-vaults-or-groups-access-requests) in the handbook.
+There is more information about [Slack, Google Groups, 1Password Vaults or Groups Access Requests](/handbook/it/end-user-services/onboarding-access-requests/access-requests/#slack-google-groups-1password-vaults-or-groups-access-requests) in the handbook.
 
 ## 🍐 Syncs
 

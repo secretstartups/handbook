@@ -9,7 +9,7 @@ As GitLab has grown organically, several departments and functional groups have 
 
 - [Customer Success Operations](/handbook/sales/field-operations/customer-success-operations/)
 - [Customer Support Operations](/handbook/support/readiness/operations/)
-- [(Business Intelligence) Data Team](/handbook/business-technology/data-team/)
+- [(Business Intelligence) Data Team](/handbook/enterprise-data/)
 - [Engineering Infrastructure (Reliability SREs)](/handbook/engineering/infrastructure/)
 - [Engineering Productivity](/handbook/engineering/infrastructure/engineering-productivity/)
 - [Enterprise Applications](/handbook/business-technology/enterprise-applications/)

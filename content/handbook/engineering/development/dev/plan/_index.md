@@ -648,4 +648,4 @@ By continually monitoring these tables and applying the planned mitigations, we 
 
 #### Plan xMAU
 
-- [Product Planning Performance Indicators](/handbook/product/performance-indicators/)
+- [Product Planning Performance Indicators](https://internal.gitlab.com/handbook/company/performance-indicators/product/)

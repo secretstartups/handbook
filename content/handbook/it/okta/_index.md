@@ -109,7 +109,7 @@ These steps are for an iPhone, and may be slightly different for Android.  If yo
 1. On the computer, the next step depends on the browser and version.
     1. In Chrome and Safari you will see a pop up asking to "Use Touch ID to sign in?" Click "Cancel" to continue setting up your mobile device.
 
-    <img src="/handbook/business-technology/okta/images/okta-apple-touch-id-pop-up.png" alt="Okta Apple Touch ID width="300"/>" 
+    <img src="/handbook/business-technology/okta/images/okta-apple-touch-id-pop-up.png" alt="Okta Apple Touch ID width="300"/>"
 
     1. In Chrome, the pop up that opens states "Create a passkey for gitlab.okta.com" and has your email address listed. Choose "Use a different passkey" at the bottom left.
 
@@ -223,7 +223,7 @@ If you have any questions or require assistance please reach out to the IT team 
 Create a [new application setup issue](https://gitlab.com/gitlab-com/business-technology/change-management/-/issues/new?issuable_template=okta_new_app_request) and fill in as much information as you can.
 
 Okta is currently configured with assigned groups/roles based on a team member's role/group.
-Refer to the [Access Change Request](/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/#access-change-request) section of the handbook for additional information on why an application may not be available in Okta.
+Refer to the [Access Change Request](/handbook/it/end-user-services/onboarding-access-requests/access-requests/#access-change-request) section of the handbook for additional information on why an application may not be available in Okta.
 
 ### How do I get my application set up within Okta?
 

@@ -16,7 +16,7 @@ Please tag `@Jeff Martin` in one of the following Slack channels with any questi
 - `#demo-systems` is for SA, CSM, and PSE team members with questions or needing technical assistance. No longer for training/workshop related posts.
 - `#demo-architect-partners` is for workshop-related discussions.
 - `#demo-systems-ps-education` is for ILT/SPT/etc related discussions for Professional Services.
-- `#sandbox-cloud-questions` is for help and support with the [Sandbox Cloud](/handbook/infrastructure-standards/realms/sandbox/) (AWS Accounts and GCP Projects).
+- `#sandbox-cloud-questions` is for help and support with the [Sandbox Cloud](/handbook/company/infrastructure-standards/realms/sandbox/) (AWS Accounts and GCP Projects).
 
 Please consider this handbook documentation to be the single source of truth ("SSOT") for all resources that use the `gitlabdemo.com`, `gitlabdemo.cloud`, and `gitlabtraining.cloud` domain names.
 
@@ -88,7 +88,7 @@ These instructions provide you access to one or more of our [shared environments
 
 ### AWS Account or GCP Project (Sandbox Cloud)
 
-See the [Sandbox Realm](/handbook/infrastructure-standards/realms/sandbox/#how-to-get-started) handbook page for instructions on creating your own AWS account and/or GCP project that you can use for deploying your own infrastructure with the benefit of centralized billing.
+See the [Sandbox Realm](/handbook/company/infrastructure-standards/realms/sandbox/#how-to-get-started) handbook page for instructions on creating your own AWS account and/or GCP project that you can use for deploying your own infrastructure with the benefit of centralized billing.
 
 ### Invitation Code Creation
 
@@ -196,9 +196,9 @@ The Demo Systems v1 repositories can be found in [gitlab.com/gitlab-com/customer
 
 ### Handbook Links for Related Infrastructure
 
-- [GitLab Sandbox Cloud](/handbook/infrastructure-standards/realms/sandbox/)
+- [GitLab Sandbox Cloud](/handbook/company/infrastructure-standards/realms/sandbox/)
 - [GitLab Infrastructure Standards](/handbook/infrastructure-standards/)
-- [GitLab Infrastructure Standards - Labels and Tags](/handbook/infrastructure-standards/labels-tags/)
+- [GitLab Infrastructure Standards - Labels and Tags](/handbook/company/infrastructure-standards/labels-tags/)
 - [Demo Systems Kubernetes Architecture Docs](/handbook/customer-success/demo-systems/infrastructure/kubernetes/)
 - [Demo Systems Network Architecture and Subnet Docs](/handbook/customer-success/demo-systems/infrastructure/networking/)
 

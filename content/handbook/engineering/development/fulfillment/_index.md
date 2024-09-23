@@ -535,7 +535,7 @@ The following list contains some of the standard departments and teams who shoul
 - IT Helpdesk
 - Support Team
 
-When in doubt, err on the side of rejecting access as it can be easily restored through another [access request](/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/).
+When in doubt, err on the side of rejecting access as it can be easily restored through another [access request](/handbook/it/end-user-services/onboarding-access-requests/access-requests/).
 
 ### Deployment
 
@@ -857,7 +857,7 @@ See the [Fulfillment Section DIB page](/handbook/engineering/development/fulfill
 ## Performance indicators
 
 See the [Fulfillment Section Performance Indicators](/handbook/engineering/development/performance-indicators/fulfillment/) as well as the
-[Centralized Engineering Dashboards](/handbook/engineering/metrics/).
+[Centralized Engineering Dashboards](/handbook/product/groups/product-analysis/engineering/dashboards/).
 
 ## Maintainer ratios
 
@@ -899,7 +899,7 @@ This table lists recurring activities between managers and their reports. Most o
 | [1-1 Meetings](/handbook/leadership/1-1/)                                                               | Weekly    | Sync | Manager, Report                                 |
 | [Career Development Conversations](/handbook/people-group/learning-and-development/career-development/) | Quarterly | Sync | Manager, Report                                 |
 | [Skip-Levels Meetings](/handbook/leadership/skip-levels/)                                               | Quarterly | Sync | Manager's Manager, Report                       |
-| [Promotion Planning](/handbook/engineering/career-development/#promotion)                               | Annually  | Sync | Manager, Report, Function Leadership, PeopleOps |
+| [Promotion Planning](/handbook/engineering/careers/#promotion)                               | Annually  | Sync | Manager, Report, Function Leadership, PeopleOps |
 | [Talent Assessment](/handbook/people-group/talent-assessment/)                                          | Annually  | Sync | Manager, Report, Function Leadership, PeopleOps |
 | [Annual Compensation Reviews](/handbook/total-rewards/compensation/compensation-review-cycle/)          | Annually  | Sync | Manager, Report, Function Leadership, PeopleOps |
 

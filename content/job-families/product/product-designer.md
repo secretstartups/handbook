@@ -112,7 +112,7 @@ Everything in the Senior Product Designer role, plus:
 
 #### Staff Requirements
 
-A Staff Product Designer is expected to meet the [base requirements](#base-requirements-for-all-roles) and execute their responsibilities while [coaching team members to collaborate and work iteratively](/handbook/product/performance-indicators/).
+A Staff Product Designer is expected to meet the [base requirements](#base-requirements-for-all-roles) and execute their responsibilities while [coaching team members to collaborate and work iteratively](https://internal.gitlab.com/handbook/company/performance-indicators/product/).
 
 ### Principal Product Designer
 
@@ -143,7 +143,7 @@ Everything in the Staff Product Designer role, plus:
 
 #### Principal Requirements
 
-A Principal Product Designer is expected to meet the [base requirements](#base-requirements-for-all-roles) and execute their responsibilities while [fostering a culture of ownership of personal performance](/handbook/product/performance-indicators/).
+A Principal Product Designer is expected to meet the [base requirements](#base-requirements-for-all-roles) and execute their responsibilities while [fostering a culture of ownership of personal performance](https://internal.gitlab.com/handbook/company/performance-indicators/product/).
 
 ## Foundations Specialty
 

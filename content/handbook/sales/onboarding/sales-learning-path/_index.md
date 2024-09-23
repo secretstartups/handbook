@@ -365,7 +365,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 - **ACTIVITY: Obtain Gold Level Access to Enable All Features on GitLab.com (Assignment - 15 minutes - 10 points)**
    -An [example request](https://gitlab.com/gitlab-com/support/internal-requests/issues/310)
 - **ACTIVITY: Create a demo account on gitlabdemo.com (Assignment - 10 points)**
-  - Log in with your GitLab credentials using Okta. After login, a GitLab group will be created automatically and accessible on the [Cloud Sandbox](https://gitlabsandbox.cloud). From there, this group can serve as a ground for future demo projects. For an oveview of our demo systems, please review the [Demo Systems Handbook page](/handbook/customer-success/demo-systems/). For an overview of the Cloud Sandbox, please review the [Sandbox Cloud Realm Handbook Page](/handbook/infrastructure-standards/realms/sandbox/).
+  - Log in with your GitLab credentials using Okta. After login, a GitLab group will be created automatically and accessible on the [Cloud Sandbox](https://gitlabsandbox.cloud). From there, this group can serve as a ground for future demo projects. For an oveview of our demo systems, please review the [Demo Systems Handbook page](/handbook/customer-success/demo-systems/). For an overview of the Cloud Sandbox, please review the [Sandbox Cloud Realm Handbook Page](/handbook/company/infrastructure-standards/realms/sandbox/).
 - **ACTIVITY: Set Up Standby Demo Project (Assignment - 1 day - 10 points)**
   - At any point in the day, you may be called in to do a quick demo and its helpful to have a standby project in your back pocket with commonly requested workflows.
   - Pair up with a member of your team on creating a standby project. Bonus - Collaborate on storytelling ideas when creating the standby project.
@@ -383,7 +383,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
    -Be sure to invite your manager and onboarding buddy.
    -Upload the below recorded scenarios to the below [Google Drive folder](https://drive.google.com/drive/folders/1EIN5iZnTWVUvWOsdCNkINIWOBfPGe4Bz)
 - **OPTIONAL: Sign up for a Sandbox Cloud Environment**
-  - [Sandbox Cloud](/handbook/infrastructure-standards/realms/sandbox/) is an automated provisioning platform for AWS or GCP environments. These environments are helpful for demo/sandbox/testing purposes and is paid for by GitLab.
+  - [Sandbox Cloud](/handbook/company/infrastructure-standards/realms/sandbox/) is an automated provisioning platform for AWS or GCP environments. These environments are helpful for demo/sandbox/testing purposes and is paid for by GitLab.
 
 </details>
 

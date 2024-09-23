@@ -482,7 +482,7 @@ As highlighted in the Definition section, all interim roles (regardless of the n
 
 When the interim period comes to a close, one of two outcomes can occur:
 
-- The team member successfully completes the interim period aligned with [the success criteria](/handbook/engineering/career-development/#interim-manager) and moves into the interim role permanently.
+- The team member successfully completes the interim period aligned with [the success criteria](/handbook/engineering/careers/#interim-manager) and moves into the interim role permanently.
   - As a general guideline, the interim period should last no *less* than 30 days, and no *more* than 4 months .
   - The People Business Partner should submit the promotion request through Workday using the [Change Job](https://docs.google.com/document/d/1hpPikG0STncYKamaY8XlfMTwYdoszP-0Xogvpp5hyZ4/edit) job aid including the promotion document to make the change official. In Workday, the reason for the change should be `Promotion - Promotion`. The accomplishments leading up to the interim and during the interim can be used for the promotion document. The manager is responsible for creating the promotion document and [recommending a compensation increase]({{< ref "promotions-transfers#recommending-a-compensation-increase" >}}). *Note: Promotion documents are only required if the team member's move results in a promotion. For lateral moves, we do not require promotion documents.*
 - The team member does not complete the interim period successfully or decides that the manager track is not something they want to pursue, and moves back to their role prior to the interim period.
@@ -731,7 +731,7 @@ A [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/people-oper
 - Migration from Manager to Individual Contributor (defined as a decrease in management level from Mgr+ to IC within Workday)
 - Migration of Team (for purposes of Career Mobility issues, team changes are defined as a change in both manager & cost center)
 
-Individual contributors moving into a Management level may or may not need their access to be reviewed, please check-in with your current and new manager to confirm this step. If access should be updated follow the AR process documented [here](/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/).
+Individual contributors moving into a Management level may or may not need their access to be reviewed, please check-in with your current and new manager to confirm this step. If access should be updated follow the AR process documented [here](/handbook/it/end-user-services/onboarding-access-requests/access-requests/).
 
 Or, if the team member already has access to the systems and tools needed, the manager can open 'Becoming a GitLab Manager' and 'Interview Training' issues that are housed within the [Training Project](https://gitlab.com/gitlab-com/people-group/Training/-/issues/?sort=created_date&state=opened&first_page_size=100) in GitLab.
 

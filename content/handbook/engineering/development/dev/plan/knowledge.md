@@ -127,7 +127,7 @@ are essential. The table below describes these and gives the reason why.
 | Label | Use | Handbook Guidance | DRI |
 |---    | --- | ---               | --- |
 | ~workflow::* | Communicates the current workflow state of an issue. Important for understanding progress & quantifying risk during the course of a milestone. | [Updating Issues Throughout Development](/handbook/engineering/workflow/#updating-issues-throughout-development) | Engineer |
-| ~type::* | Communicates the type of work being done. Used to quantify and report the split of work to roles inside and outside GitLab. | [Work Type Classification](/handbook/engineering/metrics/#work-type-classification) | |
+| ~type::* | Communicates the type of work being done. Used to quantify and report the split of work to roles inside and outside GitLab. | [Work Type Classification](/handbook/product/groups/product-analysis/engineering/dashboards/#work-type-classification) | |
 | ~Deliverable/~Stretch | ~Deliverable communicates to customers and stakeholders that we intend to deliver an issue within the assigned milestone. ~Stretch indicates that it might be started during the milestone but is not expected to complete. | [Release Scoping Labels](https://docs.gitlab.com/ee/development/labels/#release-scoping-labels) | Engineering Manager |
 
 ### Priority labels
@@ -171,7 +171,7 @@ To avoid rework we reach out to other teams early when working on the following 
   {{< tableau/filters "GROUP_LABEL"="knowledge" >}}
 {{< /tableau >}}
 
-Detailed metrics are available on the [Engineering Metrics page](/handbook/engineering/metrics/dashboards/).
+Detailed metrics are available on the [Engineering Metrics page](/handbook/product/groups/product-analysis/engineering/dashboards/dashboards/).
 
 ### Application Performance
 

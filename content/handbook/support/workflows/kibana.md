@@ -66,7 +66,7 @@ There are some useful tips [here]({{< ref "ip-blocks" >}}) about searching kiban
 
 Not sure what to look for? Consider using a Self-Managed instance to replicate the bug/action you're investigating. This will allow you to confirm whether or not an issue is specific to GitLab.com, while also providing easily accessible logs to reference while searching through Kibana.
 
-Support Engineers looking to configure a Self-Managed instance should review our [Sandbox Cloud page](/handbook/infrastructure-standards/realms/sandbox/) for a list of available (company provided) hosting options.
+Support Engineers looking to configure a Self-Managed instance should review our [Sandbox Cloud page](/handbook/company/infrastructure-standards/realms/sandbox/) for a list of available (company provided) hosting options.
 
 ### Sharing logs
 

@@ -109,7 +109,7 @@ A few additional resources that can be helpful when working with Mermaid are:
 - Examples of Mermaid charts that have been created by GitLab team members:
   - [Talent Development Program Chart]({{< ref "talent-development-program#talent-development-program-chart" >}}) by [Cassiana Gudgenov](https://gitlab.com/cgudgenov), People Compliance Partner
   - [CEO Year at a Glance]({{< ref "cadence#year-at-a-glance" >}})
-  - [Data Infrastructure System Diagram](/handbook/business-technology/data-team/platform/infrastructure/#system-diagram)
+  - [Data Infrastructure System Diagram](/handbook/enterprise-data/platform/infrastructure/#system-diagram)
 - [Advanced layout demos](mermaid) for Mermaid diagrams
 
 *Note: When creating Mermaid charts in the GitLab handbook, you need to type `three back tick symbols` followed by the word `mermaid` before the chart, and `three back tick symbols` at the end of the chart. This will enable Markdown to distinguish between .md and Mermaid. Please reference the example Mermaid charts linked above to see how this looks live.*
@@ -985,7 +985,7 @@ Jamboard is a collaborative whiteboarding platform, accessible at <https://jambo
   - Hide the bookmarks bar: `cmd shift b` (e.g. for screenshots, or shared screen presentations)
   - Open the developer tools: `cmd option i` (e.g. for debugging website errors)
 - You can [organize tabs into tab groups](https://www.google.com/chrome/tips/#organize), assign names and custom colors, and collapse or reorder them. Moving tabs between groups also works across browser windows.
-- Logging in to the browser (with your GitLab Workspace account) preserves [your profile across installations](https://www.google.com/chrome/tips/#customize). This is helpful to migrate bookmarks, extensions, and configuration [when refreshing your laptop](/handbook/business-technology/end-user-services/onboarding-access-requests/#gitlab-laptop-refreshes-for-team-members).
+- Logging in to the browser (with your GitLab Workspace account) preserves [your profile across installations](https://www.google.com/chrome/tips/#customize). This is helpful to migrate bookmarks, extensions, and configuration [when refreshing your laptop](/handbook/it/end-user-services/onboarding-access-requests/#gitlab-laptop-refreshes-for-team-members).
 
 #### Chrome Performance Settings
 

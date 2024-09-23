@@ -91,7 +91,7 @@ The VP of Product Management is a [grade 12](/handbook/total-rewards/compensatio
 - Demonstrated understanding of DevOps markets, competition, and underlying technologies
 - Track record of leading products to successful commercial outcomes
 - Excellent at boardroom and big stage presentations, and able to inspire and motivate customers and employees through written and verbal communications
-- Demonstrated ability to teach and coach the product management skills as outlined [here](/handbook/product/product-manager-role/product-CDF-competencies/)
+- Demonstrated ability to teach and coach the product management skills as outlined [here](/handbook/product/product-management/product-cdf-competencies/)
 
 #### VP of Product Management - Hiring Process
 
@@ -122,7 +122,7 @@ The VP of Product Management - Monetization is the PM DRI for the Fulfillment Se
 
 - [Fulfillment Section](/handbook/product/categories/#fulfillment-section) - Fulfillment Stage
 - [Pricing](/handbook/company/pricing/) - Pricing team
-- [Product Data Insights](/handbook/product/product-analysis/) - Product Data Insights Stage
+- [Product Data Insights](/handbook/product/groups/product-analysis/) - Product Data Insights Stage
 
 ### Senior Director of Product Management
 

@@ -8,7 +8,7 @@ Several dashboards have been published to the Engineering project in the Tableau
 
 ### Centralized Engineering Metrics
 
-Please refer to our Centralized Engineering Metrics page [here](/handbook/engineering/metrics/dashboards/).
+Please refer to our Centralized Engineering Metrics page [here](/handbook/product/groups/product-analysis/engineering/dashboards/dashboards/).
 
 ### Tableau Dashboards
 
@@ -35,7 +35,7 @@ You can find published dashboards in [Ad-hoc/Development/General](https://10az.o
   * `CASE WHEN date_month = date_trunc('month',current_date) THEN MEDIAN(open_age_in_days) ELSE NULL END AS "Current Median Open Days",`
 * List a DRI for the KPI/PI if the metric is being delegated by the VP of that Engineering department.
 * Each dashboard for KPIs should consider the following settings to ensure timely updates:
-  * [Setting up auto-refresh](/handbook/business-technology/data-team/platform/periscope/#sts=Requesting%20Automatic%20Dashboard%20Refresh) for a frequency that fits the KPI
+  * [Setting up auto-refresh](/handbook/enterprise-data/platform/periscope/#sts=Requesting%20Automatic%20Dashboard%20Refresh) for a frequency that fits the KPI
   * [Excluding Dashboards from Auto Archive](https://dtdocs.sisense.com/article/auto-archive)
 * Each KPI should have a standalone dashboard with a single chart representing the KPI and a text box with a link back to the handbook definition.
   * In Sisense, [create a shared dashboard link](https://dtdocs.sisense.com/article/share-dashboards) to get the shared dashboard ID.

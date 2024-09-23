@@ -502,7 +502,7 @@ Note: this is currently a working list of all locations where we can currently g
 
 ### Tableau dashboards
 
-Internally, GitLab uses [Tableau](/handbook/business-technology/data-team/platform/tableau/) for tracking down the performance of various KPIs. Below you can find a list of community-related dashboards.
+Internally, GitLab uses [Tableau](/handbook/enterprise-data/platform/tableau/) for tracking down the performance of various KPIs. Below you can find a list of community-related dashboards.
 
 | Dashboard | Description |
 | --- | --- |

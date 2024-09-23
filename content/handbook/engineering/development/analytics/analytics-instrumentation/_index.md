@@ -344,7 +344,7 @@ MR labels should mirror issue labels (which is automatically done when created f
 
 - Section: `~section::analytics`
 - Group: `~group::analytics instrumentation`
-- [Type:](/handbook/engineering/metrics/#work-type-classification) `~"type::bug"`, `~"type::feature"`, `~"type::tooling"`, `~"type::maintenance"`
+- [Type:](/handbook/product/groups/product-analysis/engineering/dashboards/#work-type-classification) `~"type::bug"`, `~"type::feature"`, `~"type::tooling"`, `~"type::maintenance"`
 
 ### Milestones
 

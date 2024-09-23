@@ -173,7 +173,7 @@ If possible, visit a physical store to try out a variety of ergonomic seating op
 
 [Steelcase](https://www.steelcase.com/products/office-chairs) and [MillerKnoll](https://www.hermanmiller.com/products/seating) both offer solid options. While retail pricing on chairs from these firms is very high, you can often find them used for less. To assist in your research, consider [Wirecutter's exhaustive (and continually updated) guide to office chairs](https://thewirecutter.com/reviews/best-office-chair).
 
-**Employers:** Consider offering an [allowance](/handbook/spending-company-money) for employees to invest in a high-quality ergonomic chair.
+**Employers:** Consider offering an [allowance](/handbook/finance/spending-company-money/) for employees to invest in a high-quality ergonomic chair.
 
 ### Desk
 
@@ -280,7 +280,7 @@ Get creative if you cannot dedicate space for a permanent home office. You can a
 
 Whether an organization is [fully remote, remote-first, or hybrid](stages/), it's up to company leaders to enable an equitable and inclusive employee experience. Just as you'd invest in a team's workspace in a physical office, enabling team members to create healthy and productive spaces is a core part of building remote infrastructure. An optimized workspace leads to [team member happiness, wellness, and engagement](stories/), and it also leads to better overall results for your organization.
 
-Keep in mind that there's no "one size fits all" for a home office setup, because each member of your team has different needs, work preferences, and home environments. Consider providing budget for your team to spend on their home workspace, a coworking space, or equipment needed to be productive on the go. For example, at GitLab, team members are [allowed to spend company money](/handbook/spending-company-money) as they would their own, with [guidance provided](/handbook/finance/expenses#-setting-up-a-home-office-for-the-first-time) for various types of equipment. Keep in mind that team members' needs may change as they [experiment to find their ideal work environment](getting-started/#experiment-with-work-environments).
+Keep in mind that there's no "one size fits all" for a home office setup, because each member of your team has different needs, work preferences, and home environments. Consider providing budget for your team to spend on their home workspace, a coworking space, or equipment needed to be productive on the go. For example, at GitLab, team members are [allowed to spend company money](/handbook/finance/spending-company-money/) as they would their own, with [guidance provided](/handbook/finance/expenses#-setting-up-a-home-office-for-the-first-time) for various types of equipment. Keep in mind that team members' needs may change as they [experiment to find their ideal work environment](getting-started/#experiment-with-work-environments).
 
 ## GitLab Knowledge Assessment: Considerations for a productive home office or remote workspace
 

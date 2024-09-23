@@ -39,7 +39,7 @@ Our contractor agreements and employment contracts are all on the [Employment Co
 
 ## Spending Company Money
 
-GitLab will [pay for the items you need to get your job done](/handbook/spending-company-money).
+GitLab will [pay for the items you need to get your job done](/handbook/finance/spending-company-money/).
 
 ## Equity Compensation
 
@@ -263,9 +263,9 @@ On the day you return from leave, the utilization payout returns to the establis
 
 ### Commission Payments on Non-Parental Leave
 
-Effective Q1 FY25, team members on leave for 30 days or more will be eligible for Commissions to be paid for the first five weeks of non-parental leave. Commissions will be paid based on the 6 prior months of performance with a cap at 100% of plan. After five weeks of non-parental leave, the team member would become ineligible for commissions. Any local requirements for commission payments on non-parental leave would supersede this policy. 
+Effective Q1 FY25, team members on leave for 30 days or more will be eligible for Commissions to be paid for the first five weeks of non-parental leave. Commissions will be paid based on the 6 prior months of performance with a cap at 100% of plan. After five weeks of non-parental leave, the team member would become ineligible for commissions. Any local requirements for commission payments on non-parental leave would supersede this policy.
 
-For Solution Architects and Sales Management and Customer Success Management, payment will be calculated for individuals using actual team performance for the first five weeks of non-parental leave. These roles will not be eligible for quota relief during non-parental leave. 
+For Solution Architects and Sales Management and Customer Success Management, payment will be calculated for individuals using actual team performance for the first five weeks of non-parental leave. These roles will not be eligible for quota relief during non-parental leave.
 
 #### Quota Relief While On Non-Parental Leave
 

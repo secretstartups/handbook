@@ -110,10 +110,10 @@ For demos that require debugging the deployments, prefer shared resources, for e
 
 Shared cloud resources examples:
 
-1. All team members can manage resources in Google Cloud in the [community-group project](https://console.cloud.google.com/kubernetes/list/overview?hl=en&project=group-community-a29572) and `Editor` role. Create an [access request](/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/) to add/remote team members.
+1. All team members can manage resources in Google Cloud in the [community-group project](https://console.cloud.google.com/kubernetes/list/overview?hl=en&project=group-community-a29572) and `Editor` role. Create an [access request](/handbook/it/end-user-services/onboarding-access-requests/access-requests/) to add/remote team members.
 1. Google Cloud/AWS also allows you to [register domains that are not trademarked](/handbook/it/guides/domains-dns/#non-trademark-domain-names) (no `gitlab` in the name!) and use the domains for demo setups.
 
-For individual short-lived tutorials or demo setups for a blog post, prefer the [Cloud Sandbox Realm](/handbook/infrastructure-standards/realms/sandbox/#how-to-get-started). This provides automated shutdown, generated domains for easier access, etc.
+For individual short-lived tutorials or demo setups for a blog post, prefer the [Cloud Sandbox Realm](/handbook/company/infrastructure-standards/realms/sandbox/#how-to-get-started). This provides automated shutdown, generated domains for easier access, etc.
 
 ```mermaid
 flowchart TD;

@@ -329,7 +329,7 @@ The Compensation Leadership Development Committee approves all bonus payouts for
 
 ## Compensation Data Analysis and Modeling Sheet
 
-This is an internal process for the Total Rewards team which details how to refresh the Compensation Data Analysis and Modeling sheet which is used for processes such as calculating [percent outside of compensation band](/handbook/people-group/people-group-metrics/#percent-over-compensation-band).
+This is an internal process for the Total Rewards team which details how to refresh the Compensation Data Analysis and Modeling sheet which is used for processes such as calculating [percent outside of compensation band](/handbook/people-group/people-success-performance-indicators/#percent-over-compensation-band).
 
 To update:
 

@@ -8,7 +8,7 @@ The Secure engineering sub-department is responsible for the [Secure Stage](/han
 
 To provide content and tools to support the best possible assessment at the earliest possible moment.
 
-Following our [single application](/handbook/product/single-application/) paradigm,
+Following our [single application](/handbook/product/categories/gitlab-the-product/single-application/) paradigm,
 we integrate and build scanning tools to supply security and compliance assessment data to the main GitLab application
 where we develop our vulnerability management system and other features.
 While it might be technically feasible, we do not aim at building standalone products that provide this data independently from the GitLab application.

@@ -1,16 +1,16 @@
 ---
-title: Product Procedures 
+title: Product Procedures
 ---
 
-## Overview 
+## Overview
 
-This section of the handbook is a collection of processes that a required to be followed under certain conditions. For example, if a change is being made or if a request is submitted to leadership for approval. 
+This section of the handbook is a collection of processes that a required to be followed under certain conditions. For example, if a change is being made or if a request is submitted to leadership for approval.
 
-## How this page works 
+## How this page works
 
- In the spirit of "every can co-create", these procedures can be contributed by any one in the Product Division (or even GitLab!). The custodian of the procedures are Program Management. If you are interested in contributing to this page, please open a merge request and assign to Natalie Pinto, GitLab Handle `@natalie.pinto`. 
- 
-## Procedures 
+ In the spirit of "every can co-create", these procedures can be contributed by any one in the Product Division (or even GitLab!). The custodian of the procedures are Program Management. If you are interested in contributing to this page, please open a merge request and assign to Natalie Pinto, GitLab Handle `@natalie.pinto`.
+
+## Procedures
 
 ### Making changes to stages, groups, or categories
 
@@ -180,7 +180,7 @@ The DRI is responsible for coordinating the effort to resolve the problem, from 
 - Running the daily standup related to the epic.
 - Tasking sub-DRIs as necessary. These sub-DRIs might be responsible for specific parts of the problem (part A/B/C), specific perspectives (Engineering/Infrastructure/Product), specific timezones (AMER/EUR/APAC), etc.
 - Ensuring that progress is being made toward mitigation and resolution. This may include coordinating problem-solving efforts across timezones so we can have GitLab team members working on the problem 24 hours a day.
-- Ensuring that work that is in-scope as part of a Rapid Action isn't included in the [Development Escalation Processes](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#escalation-process) (a.k.a. infradev).
+- Ensuring that work that is in-scope as part of a Rapid Action isn't included in the [Development Escalation Processes](/handbook/engineering/development/processes/infra-dev-escalation/process/#escalation-process) (a.k.a. infradev).
 - Updating stakeholders at least daily.
 - Detailing recommended follow-up actions once the problem has been solved (enhancements, refactoring, etc).
 
