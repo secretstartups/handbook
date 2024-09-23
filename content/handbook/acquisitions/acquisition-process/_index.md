@@ -202,7 +202,7 @@ The primary acquisition team is designed as a compact unit, and will consist of 
 
 1. Corporate Development Champion - VP of Corporate Development
     1. Corporate Development Deal Process Manager - Corporate Development Manager
-1. Product Champion - [Product Section Leader](/handbook/product/product-leadership/#general-product-organizational-structure) (reporting to the Chief Product Officer)
+1. Product Champion - [Product Section Leader](/handbook/product/product-leaders/product-leadership/#general-product-organizational-structure) (reporting to the Chief Product Officer)
    1. Product Manager
 1. Engineering Champion - Dir. Engineering
    1. Engineering team member

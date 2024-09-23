@@ -125,7 +125,7 @@ The airfare policy in Navan is set up as a "Dynamic Policy" which calculates a f
 #### International Flights
 
 - **Flights greater than 5 hours of consecutive flight time** - For international flights with a duration greater than 5 hours of consecutive flight time (each segment must be 5+ hours), team members are authorized to book the next class up from standard economy as long as it is below business class.
-- **Flights exceeding 8 hours of consecutive flight time** - For those who travel frequently, defined as 3 or more trips per quarter internationally on flights of 8 hrs+ continuous flight time (minimum 6 flight segments with 8+ hours per segment), business class is permitted when traveling for any of the following reasons: 
+- **Flights exceeding 8 hours of consecutive flight time** - For those who travel frequently, defined as 3 or more trips per quarter internationally on flights of 8 hrs+ continuous flight time (minimum 6 flight segments with 8+ hours per segment), business class is permitted when traveling for any of the following reasons:
   - Meeting with customers
   - Speaking engagement
   - Representing GitLab at a conference
@@ -445,7 +445,7 @@ The company will cover all work-related travel expenses. This includes lodging a
 ### Laptops, insurance and repairs
 
 - All laptops are purchased through GitLab unless a Team Member is in a region where GitLab cannot deliver a laptop.
-- Team Member laptops can be refreshed after three years of employment. If a Team Member needs a replacement laptop due to damage, they must reach out to IT via an issue before purchasing a new one. See [Laptop handbook page](/handbook/business-technology/end-user-services/onboarding-access-requests/) for your reference.
+- Team Member laptops can be refreshed after three years of employment. If a Team Member needs a replacement laptop due to damage, they must reach out to IT via an issue before purchasing a new one. See [Laptop handbook page](/handbook/it/end-user-services/onboarding-access-requests/) for your reference.
 
 #### Repairs to company issued equipment
 

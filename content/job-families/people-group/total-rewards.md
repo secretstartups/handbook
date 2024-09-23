@@ -131,15 +131,15 @@ The Compensation Coordinator is a [grade 5](/handbook/total-rewards/compensation
 
 ### Compensation Analyst
 
-- Support all aspects of job family creation and maintenance, partnering with the business to ensure alignment with the job architecture, conducting market benchmarking, reviewing FLSA classification, and updating related systems and tools. 
+- Support all aspects of job family creation and maintenance, partnering with the business to ensure alignment with the job architecture, conducting market benchmarking, reviewing FLSA classification, and updating related systems and tools.
 - Participate in external compensation surveys.
 - Assist with updating and refreshing the Compensation Calculator.
-- Maintain accuracy and integrity of compensation-related data in Workday through regular audits and data coordination. 
+- Maintain accuracy and integrity of compensation-related data in Workday through regular audits and data coordination.
 - Support the full lifecycle of all compensation programs, including Annual Compensation Review, promotion cycles, quarterly RSU grant approvals, and bonus programs
 - Act as the primary point of contact for compensation-related team member inquiries in collaboration with the People Connect team including creating documentation to support major program and policy implementations.
 - Participate in the development of communications and education materials, collaborating with the broader team to refresh the handbook to ensure user-friendly, concise, and informative pages.
-- Partner with Talent Acquisition to review offers in Greenhouse and respond to inquiries. 
-- Coordinate the collection of materials required for audit controls. 
+- Partner with Talent Acquisition to review offers in Greenhouse and respond to inquiries.
+- Coordinate the collection of materials required for audit controls.
 - Assist with ad hoc data requests and special projects.
 - Ensure compliance with all global rules and regulations
 
@@ -297,8 +297,8 @@ The next step in the Total Rewards job family is to move to the VP, Total Reward
 
 ## Total Rewards Performance Indicators
 
-- [Percentage over compensation band](/handbook/people-group/people-group-metrics/#percent-over-compensation-band)
-- [Average location factor](/handbook/people-group/people-group-metrics/#average-location-factor)
+- [Percentage over compensation band](/handbook/people-group/people-success-performance-indicators/#percent-over-compensation-band)
+- [Average location factor](/handbook/people-group/people-success-performance-indicators/#average-location-factor)
 - [New hire location factor](/#new-hire-location-factor)
 - [Pay equality](/handbook/company/culture/inclusion/#performance-indicators)
 

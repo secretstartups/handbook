@@ -204,13 +204,13 @@ But process also has good aspects. Having a documented process for how to commun
 
 ## Talent Acquisition and retention
 
-Managers have an tremendous responsibility around talent acquisition and [retention](/handbook/people-group/people-group-metrics/#team-member-retention) of team members.
+Managers have an tremendous responsibility around talent acquisition and [retention](/handbook/people-group/people-success-performance-indicators/#team-member-retention) of team members.
 
 - Voluntary departures should be low, especially unexpected ones. The most common reasons for resignations can be tied back to the manager.
 - We want few candidates to decline an offer, especially when the reason isn't compensation.
 - We need adequate candidate pipeline volume and quality, especially for crucial positions.
 - Candidates that have a proposed offer should meet the bar, especially for more senior positions.
-- Build a *global team*. Unless shown with a business case, "we can't find the talent out of the bay" goes against our [diversity, inclusion and belonging mission](/handbook/company/culture/inclusion/#diversity-inclusion--belonging-mission-at-gitlab) and the [Location Factor KPI](/handbook/people-group/people-group-metrics/#average-location-factor).
+- Build a *global team*. Unless shown with a business case, "we can't find the talent out of the bay" goes against our [diversity, inclusion and belonging mission](/handbook/company/culture/inclusion/#diversity-inclusion--belonging-mission-at-gitlab) and the [Location Factor KPI](/handbook/people-group/people-success-performance-indicators/#average-location-factor).
 
 ## High Output Management
 
@@ -290,7 +290,7 @@ If you're interested in starting or joining an m-team meeting, reach out to othe
 
 ## Books
 
-Books in this section [can be expensed](/handbook/spending-company-money).
+Books in this section [can be expensed](/handbook/finance/spending-company-money/).
 
 Notable books from the [E-Group Offsite Book Selections]({{< ref "offsite#previous-reads" >}}) may be added to the list below.
 

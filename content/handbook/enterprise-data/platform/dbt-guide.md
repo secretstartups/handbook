@@ -41,7 +41,7 @@ A full list of packages available are on the [dbt Hub site](https://hub.getdbt.c
 
 If you're interested in using dbt, the [dbt documentation has a great tutorial](https://docs.getdbt.com/docs/get-started-dbt) on getting setup to work on data from a fictional business called Jaffle Shop.
 
-If you wish to use dbt and contribute to the data team project, you'll need to gain access to our Snowflake instance, which can be done via an [access request](/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/).
+If you wish to use dbt and contribute to the data team project, you'll need to gain access to our Snowflake instance, which can be done via an [access request](/handbook/it/end-user-services/onboarding-access-requests/access-requests/).
 
 ### Local environment
 
@@ -1368,7 +1368,7 @@ This should never be set to `RAW` as it will overwrite production data.
 
 #### Snapshots and GDPR
 
-Sometimes the data team receives requests to delete personal data from the Snowflake Data Warehouse, because of GDPR. To address these deletions, we use `dbt` macros. A macro scans all applicable data that needs to be removed, this also applies to snapshot tables. These maros could be used manually following this [issue template](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Data:%20GDPR%20Deletion.md?ref_type=heads) and are also scheduled to be run in Airflow following this [runbook](https://gitlab.com/gitlab-data/runbooks/-/blob/main/gdpr_deletions/gdpr_deletions.md?ref_type=heads) and [handbook page](/handbook/business-technology/data-team/platform/gdpr-deletions/).
+Sometimes the data team receives requests to delete personal data from the Snowflake Data Warehouse, because of GDPR. To address these deletions, we use `dbt` macros. A macro scans all applicable data that needs to be removed, this also applies to snapshot tables. These maros could be used manually following this [issue template](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Data:%20GDPR%20Deletion.md?ref_type=heads) and are also scheduled to be run in Airflow following this [runbook](https://gitlab.com/gitlab-data/runbooks/-/blob/main/gdpr_deletions/gdpr_deletions.md?ref_type=heads) and [handbook page](/handbook/enterprise-data/platform/gdpr-deletions/).
 
 There are 2 flavours:
 

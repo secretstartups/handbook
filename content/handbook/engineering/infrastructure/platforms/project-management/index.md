@@ -155,7 +155,7 @@ This was discussed on a [Scalability issue](https://gitlab.com/gitlab-com/gl-inf
 
 ### Labels in gitlab-org group
 
-Stage groups use [type labels](/handbook/engineering/metrics/#data-classification) to label merge requests in projects in the `gitlab-org` group.
+Stage groups use [type labels](/handbook/product/groups/product-analysis/engineering/dashboards/#data-classification) to label merge requests in projects in the `gitlab-org` group.
 If you need a stage group to perform work, it is best to apply the relevant stage group label when the issue is created.
 
 ## Issue Trackers

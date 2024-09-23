@@ -36,14 +36,14 @@ _Example outcomes: MAU Attainment, Dogfooding Implementation %, Use of Growth Ex
 
 #### Competencies
 
-- [Iteration](/handbook/product/product-manager-role/learning-and-development/#-iteration)
+- [Iteration](/handbook/product/product-management/learning-and-development/#-iteration)
 - [Jobs to Be Done]( /handbook/product/product-manager-role/learning-and-development/#-jobs-to-be-done)
-- [Lean Product Development](/handbook/product/product-manager-role/learning-and-development/#-lean-product-development)
-- [User Stories](/handbook/product/product-manager-role/learning-and-development/#-user-stories)
-- [Backlog Management](/handbook/product/product-manager-role/learning-and-development/#-backlog-management)
-- [KPIs and Metrics](/handbook/product/product-manager-role/learning-and-development/#-kpis-and-metrics)
-- [Product Strategy](/handbook/product/product-manager-role/learning-and-development/#-product-strategy)
-- [Growth, Product-led Growth, and Experimentation](/handbook/product/product-manager-role/learning-and-development/#-growth-product-led-growth-and-experimentation)
+- [Lean Product Development](/handbook/product/product-management/learning-and-development/#-lean-product-development)
+- [User Stories](/handbook/product/product-management/learning-and-development/#-user-stories)
+- [Backlog Management](/handbook/product/product-management/learning-and-development/#-backlog-management)
+- [KPIs and Metrics](/handbook/product/product-management/learning-and-development/#-kpis-and-metrics)
+- [Product Strategy](/handbook/product/product-management/learning-and-development/#-product-strategy)
+- [Growth, Product-led Growth, and Experimentation](/handbook/product/product-management/learning-and-development/#-growth-product-led-growth-and-experimentation)
 
 #### Role Expectations
 
@@ -62,11 +62,11 @@ _Example outcomes: Uses appropriate methods of Customer Interviewing, Competitiv
 
 #### Competencies
 
-- [User Research](/handbook/product/product-manager-role/learning-and-development/#-user-research)
-- [Customer Interviewing](/handbook/product/product-manager-role/learning-and-development/#-customer-interviewing)
-- [Design](/handbook/product/product-manager-role/learning-and-development/#-design)
-- [Competitive Analysis](/handbook/product/product-manager-role/learning-and-development/#-competitive-analysis)
-- [Relationships with Customers](/handbook/product/product-manager-role/learning-and-development/#-relationships-with-customers)
+- [User Research](/handbook/product/product-management/learning-and-development/#-user-research)
+- [Customer Interviewing](/handbook/product/product-management/learning-and-development/#-customer-interviewing)
+- [Design](/handbook/product/product-management/learning-and-development/#-design)
+- [Competitive Analysis](/handbook/product/product-management/learning-and-development/#-competitive-analysis)
+- [Relationships with Customers](/handbook/product/product-management/learning-and-development/#-relationships-with-customers)
 
 #### Role Expectations
 
@@ -85,7 +85,7 @@ _Example outcomes: Participation in Webinars, Prospect calls, #thanks shoutouts 
 
 #### Competencies
 
-- [Product management thought leadership](/handbook/product/product-manager-role/learning-and-development/#product-management-thought-leadership)
+- [Product management thought leadership](/handbook/product/product-management/learning-and-development/#product-management-thought-leadership)
 
 #### Role Expectations
 
@@ -104,9 +104,9 @@ _Example outcomes: Say/Do, MR Rate, Validation Track Cycle Time and Build Track 
 
 #### Competencies
 
-- [Leadership and influence](/handbook/product/product-manager-role/learning-and-development/#-leadership-and-influence)
-- [Communicating to inspire, align, and activate](/handbook/product/product-manager-role/learning-and-development/#-communicating-to-inspire-align-and-activate)
-- [Cross-functional team management](/handbook/product/product-manager-role/learning-and-development/#-cross-functional-team-management)
+- [Leadership and influence](/handbook/product/product-management/learning-and-development/#-leadership-and-influence)
+- [Communicating to inspire, align, and activate](/handbook/product/product-management/learning-and-development/#-communicating-to-inspire-align-and-activate)
+- [Cross-functional team management](/handbook/product/product-management/learning-and-development/#-cross-functional-team-management)
 
 #### Role Expectations
 
@@ -163,7 +163,7 @@ _Example outcomes: Say/Do, MR Rate, Validation Track Cycle Time and Build Track 
 
 ## CDF for Product Leadership
 
-The below table outlines the Career Development Framework used for [Product Leaders](/handbook/product/product-leadership/#product-leaders).
+The below table outlines the Career Development Framework used for [Product Leaders](/handbook/product/product-leaders/product-leadership/#product-leaders).
 
 Typical scope and reporting structure is documented in the [Product Management Leadership job family](/job-families/product/product-management-leadership/).
 
@@ -276,7 +276,7 @@ We can think about the Product Manager's potential primarily on two axis: value 
 
 ### Value Creation
 
-Product managers are in the business of creating value, measurable by [Product KPIs](/handbook/product/performance-indicators/#structure). They prioritize the most important thing to unlock the most value at the intersection of the business and the user or buyer. At GitLab, Product Managers are often the [business owner](https://www.svpg.com/product-managers-vs-business-owners/) of their segment and outputs are not just in the delivery of features to production, rather can include go-to-market, sales enablement, partner/channel/alliances relationships, and understanding revenue impact of the product offering.
+Product managers are in the business of creating value, measurable by [Product KPIs](https://internal.gitlab.com/handbook/company/performance-indicators/product/#structure). They prioritize the most important thing to unlock the most value at the intersection of the business and the user or buyer. At GitLab, Product Managers are often the [business owner](https://www.svpg.com/product-managers-vs-business-owners/) of their segment and outputs are not just in the delivery of features to production, rather can include go-to-market, sales enablement, partner/channel/alliances relationships, and understanding revenue impact of the product offering.
 
 We expect product managers to create value across the business by excelling at execution in at least the following levels. When thinking of a PM's potentials, consider their capacity to expand their influence beyond their current level.
 

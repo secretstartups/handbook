@@ -392,7 +392,7 @@ These [frequently asked questions](/handbook/engineering/infrastructure/incident
 ### Development Escalation Process
 
 - [General information](/handbook/engineering/development/processes/Infra-Dev-Escalation/)
-- [Process outline](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html)
+- [Process outline](/handbook/engineering/development/processes/infra-dev-escalation/process/)
 
 ### Reducing the impact of far-reaching work
 

@@ -258,7 +258,7 @@ Next steps for you:
 - [Responsibility Matrix and Transitions](/handbook/customer-success/#responsibility-matrix-and-transitions)
 - [Customer Success' FAQ](/handbook/customer-success/faq/)
 - [Using Salesforce within Customer Success](/handbook/customer-success/using-salesforce-within-customer-success/)
-- [Customer Success Vision](/handbook/customer-success/vision/)
+- [Customer Success Vision](/handbook/customer-success/customer-success-vision/)
 - [GitLab Positioning](/handbook/marketing/positioning-faq/)
 - [Product Stages and the POCs for each](/handbook/product/categories/#devops-stages)
 - [How to Provide Feedback to Product](/handbook/product/product-management/#feedback-template)

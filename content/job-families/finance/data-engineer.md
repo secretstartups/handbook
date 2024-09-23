@@ -27,7 +27,7 @@ The Data Engineer (Junior) is a [grade 5](/handbook/total-rewards/compensation/c
 
 ### Data Engineer (Junior) Responsibilities
 
-- Maintain our [data platform](/handbook/business-technology/data-team/platform/) with timely and quality data
+- Maintain our [data platform](/handbook/enterprise-data/platform/) with timely and quality data
 - Build and maintain data pipelines from internal databases and SaaS applications
 - Create and maintain systems documentation
 - Write maintainable, performant code
@@ -35,7 +35,7 @@ The Data Engineer (Junior) is a [grade 5](/handbook/total-rewards/compensation/c
 - Plan and execute system expansion as needed to support the company's growth and analytic needs
 - Collaborate with [Analytics Engineers](/job-families/finance/analytics-engineer/) and [Data Analysts](/job-families/finance/data-analyst/) to drive efficiencies for their work
 - Collaborate with other functions to ensure data needs are addressed
-- This position is always [central](/handbook/business-technology/data-team/organization/) and reports to the Manager, Data
+- This position is always [central](/handbook/enterprise-data/organization/) and reports to the Manager, Data
 
 ## Data Engineer (Intermediate)
 
@@ -72,7 +72,7 @@ The Data Engineer (Intermediate) is a [grade 6](/handbook/total-rewards/compensa
 - Plan and execute system expansion as needed to support the company's growth and analytic needs
 - Collaborate with Data Analysts to drive efficiencies for their work
 - Collaborate with other functions to ensure data needs are addressed
-- This position is always [central](/handbook/business-technology/data-team/organization/) and reports to the Manager, Data
+- This position is always [central](/handbook/enterprise-data/organization/) and reports to the Manager, Data
 
 ## Senior Data Engineer
 
@@ -129,7 +129,7 @@ The Prinicipal Data Engineer role extends the [Staff Data Engineer](#responsibil
 
 The Prinicipal Data Engineer is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-Business Justification: The principle level is to ensure data is captured, collected, stored and processed not only within a siloed Data Team environment, but in collaboration and communication with other functions within GitLab. 
+Business Justification: The principle level is to ensure data is captured, collected, stored and processed not only within a siloed Data Team environment, but in collaboration and communication with other functions within GitLab.
 
 ### Prinicipal Data Engineer Responsibilities
 

@@ -4,7 +4,7 @@ description: "GitLab's Tableau Developer guide"
 ---
 ## Quick Links
 
-- [Tips and Tricks](/handbook/business-technology/data-team/platform/tableau/tableau-developer-guide/tips-and-tricks-for-developers/)
+- [Tips and Tricks](/handbook/enterprise-data/platform/tableau/tableau-developer-guide/tips-and-tricks-for-developers/)
 
 ## Data Source Approach
 
@@ -85,7 +85,7 @@ The first place that you get the option to embed your rolename is when you first
 
 If you want other people to be able to access your data source, you need to leave it blank. There is no reason to enter your rolename at this step, you will do it at a later step, so the proper workflow is to leave it blank at this step.
 
-From here, set up your datasource and develop as you would like. Then, when you are ready, publish your workbook/datasource. This is where you will follow the steps from the [start of this section](.../tableau-developer-guide/#connection-types-in-workbooks) for embedding your rolename as you publish the workbook. 
+From here, set up your datasource and develop as you would like. Then, when you are ready, publish your workbook/datasource. This is where you will follow the steps from the [start of this section](.../tableau-developer-guide/#connection-types-in-workbooks) for embedding your rolename as you publish the workbook.
 
 If you forget to embed your rolename at this step, then your users will be asked to sign into Snowflake or otherwise send an error instead of letting them access the dashboard.
 
@@ -101,7 +101,7 @@ In the niche use-case that you want an Explorer without Snowflake access to be a
 
 In order for views from workbooks to be embedded and viewable in the handbook, public or internal, the workbook and their data sources must be prepared in a specific way. To be embedded in the public handbook the workbook and relevant datasource must be copied from the [internal GitLab Tableau](https://10az.online.tableau.com/#/site/gitlab) site to the [public GitLab Tableau](https://us-west-2b.online.tableau.com/#/site/gitlabpublic) site. To facilitate correct viewing of embedded views and the synchronization of content to the public site, workbooks must be set up in a specific way and given a specific tag.  Views that are meant to be embedded on the internal site do not need to be in a specific project, but should still meet the set up guidelines.
 
-Instructions for how to embed a Tableau chart can be found on the [Handbook Embedding Demonstration](/handbook/business-technology/data-team/platform/tableau/embed-demo/) page.
+Instructions for how to embed a Tableau chart can be found on the [Handbook Embedding Demonstration](/handbook/enterprise-data/platform/tableau/embed-demo/) page.
 
 ### Workbook Set Up
 
@@ -123,11 +123,11 @@ Make sure that if you do use the Data Team's credentials to publish the workbook
 
 If your view is public and embedded in the public handbook (aka, people do not need to sign-in to view it), then it needs to be on the Public GitLab Tableau Cloud site due to the viewer license agreements. To tag a workbook as public, click on the workbook. On the main page for the workbook where you can see each of the views, next to the name, there is a "more settings" option '...'. Select that, and find "Tag...". Here, you can add "Public" as a tag.
 
-It will take about a day for the URL to show up in [this list](/handbook/business-technology/data-team/platform/tableau/embed-demo/#views-availble-for-public-embedding). Once it does, copy that URL and use it in the embedding information. If your view has not shown up after a day or so, it is likely because one of your data sources is not following the guidelines of A\) being an extracted connection or B\) using the data team's service account's credentials.
+It will take about a day for the URL to show up in [this list](/handbook/enterprise-data/platform/tableau/embed-demo/#views-availble-for-public-embedding). Once it does, copy that URL and use it in the embedding information. If your view has not shown up after a day or so, it is likely because one of your data sources is not following the guidelines of A\) being an extracted connection or B\) using the data team's service account's credentials.
 
 ### Workbook Synchronization
 
-Each workbook with views that are meant to be embedded in the public handbook must be tagged with the `Public` tag. This will ensure that the workbook, and their datasources are copied to the public GitLab Tableau site.  Only Creators and Explorers who can access the workbook can tag the workbook, see the Tableau [documentation](https://help.tableau.com/current/pro/desktop/en-us/tags.htm#add-tags) for more information.  The individual tagging must it/data-team/stand if the data should be shared publicly and if there is any question please work with the BI team to check and apply the tag.  Removing this tag from a workbook will delete the workbook from the public GitLab Tableau site, this will cause handbook pages trying to load a view from that workbook to display an error. It should be noted that it can currently take up to 48 hours for the synchronized workbook to show up in the list of [views available for embedding](/handbook/business-technology/data-team/platform/tableau/embed-demo/#views-availble-for-public-embedding).
+Each workbook with views that are meant to be embedded in the public handbook must be tagged with the `Public` tag. This will ensure that the workbook, and their datasources are copied to the public GitLab Tableau site.  Only Creators and Explorers who can access the workbook can tag the workbook, see the Tableau [documentation](https://help.tableau.com/current/pro/desktop/en-us/tags.htm#add-tags) for more information.  The individual tagging must it/data-team/stand if the data should be shared publicly and if there is any question please work with the BI team to check and apply the tag.  Removing this tag from a workbook will delete the workbook from the public GitLab Tableau site, this will cause handbook pages trying to load a view from that workbook to display an error. It should be noted that it can currently take up to 48 hours for the synchronized workbook to show up in the list of [views available for embedding](/handbook/enterprise-data/platform/tableau/embed-demo/#views-availble-for-public-embedding).
 
 ### Workbook Naming Convention
 
@@ -169,12 +169,12 @@ Refer to the workflow diagram below for details on the process to publish to Pro
     D["4.Department Project Lead reviews issue and validates"]
     E["5.Project Lead Publishes to Production"]
 
-    A  
+    A
     subgraph Create Content
     A
     end
     A ---> B
-    subgraph Verifications and Approvals 
+    subgraph Verifications and Approvals
     B ---> C ---> D
     end
     D ---> E
@@ -189,7 +189,7 @@ Project Leaders have the ability to promote workbooks to Production. After a con
 
 - If the workbook is being published for the first time
   1. Select **Move** by navigating to the ellipse to the right of the workbook
-  1. From the pop-up window select the appropriate department folder for the workbook promotion. Be sure to place sensitive workbooks in SAFE or restricted folders. 
+  1. From the pop-up window select the appropriate department folder for the workbook promotion. Be sure to place sensitive workbooks in SAFE or restricted folders.
   1. If the workbook title contains \[Draft\], rename the workbook and remove *Draft* from the title. The workbook may have a tag `Draft` which should also be removed by clicking the ellipse and selecting **Tags**. The associated tag can then be removed by clicking the `X` next to the tag.
 - If publishing over / updating a workbook that is already Production with a newer version from Development in Tableau Cloud then:
   1. Select **Edit Workbook**
@@ -204,8 +204,8 @@ Project Leaders have the ability to promote workbooks to Production. After a con
         1. Click **Edit Connection**
         1. From the pop-up click **Embedded credentials in the connection**
         1. From the drop down select your name and select **Save**
-      
-     1. When updating a workbook in Production will leave the original workbook in Development. This is a duplicate workbook which can cause confusion for which content to use. This workbook can be removed by either archival or deletion. To Archive ask the BI Team to move to Archive. When deleting ensure you are removing the correct workbook and also know that deleted content cannot be restored. 
+
+     1. When updating a workbook in Production will leave the original workbook in Development. This is a duplicate workbook which can cause confusion for which content to use. This workbook can be removed by either archival or deletion. To Archive ask the BI Team to move to Archive. When deleting ensure you are removing the correct workbook and also know that deleted content cannot be restored.
 
 ## Tags
 
@@ -242,9 +242,9 @@ In order to update the performance indicator, you need to find the yml file whic
 
 To find this file, you are going to go to the GitLab-com repository, which is a repo "for the public-facing marketing website of GitLab, including improvements to the docs and the handbook". From [the repository](https://gitlab.com/gitlab-com/www-gitlab-com), find "Find File" and then paste in the name of the file you are looking for. In this example, you would paste developer_relations_department.
 
-This will bring you to the yml file which you are looking for. From here, you can follow the instructions below to modify the file to include the Tableau view (dashboard or sheet) which you are looking for. Be sure to follow the [Embedding Instructions](/handbook/business-technology/data-team/platform/tableau/tableau-developer-guide/#embedding-in-the-handbook) when embedding views.
+This will bring you to the yml file which you are looking for. From here, you can follow the instructions below to modify the file to include the Tableau view (dashboard or sheet) which you are looking for. Be sure to follow the [Embedding Instructions](/handbook/enterprise-data/platform/tableau/tableau-developer-guide/#embedding-in-the-handbook) when embedding views.
 
-Two reminders, first - *make sure that any public views (does not need login access) that are embedded into the public handbook are coming from the public Tableau site*. This means that the workbook they come from has been tagged "Public", and you are getting the URL from the [views available for embedding](/handbook/business-technology/data-team/platform/tableau/embed-demo/#views-availble-for-public-embedding) page. More information on this process can be found on the [Handbook Embedding Demonstration Page](/handbook/business-technology/data-team/platform/tableau/embed-demo/).
+Two reminders, first - *make sure that any public views (does not need login access) that are embedded into the public handbook are coming from the public Tableau site*. This means that the workbook they come from has been tagged "Public", and you are getting the URL from the [views available for embedding](/handbook/enterprise-data/platform/tableau/embed-demo/#views-availble-for-public-embedding) page. More information on this process can be found on the [Handbook Embedding Demonstration Page](/handbook/enterprise-data/platform/tableau/embed-demo/).
 
 Second, *if you are embedding a non-public view (requires login), make sure to copy the URL from the "share" button on the top right of the view, not the URL at the top of the page*.
 
@@ -327,11 +327,11 @@ Create a Data Source filter using the `USERNAME()` function and the `tableau_use
 1. **Extract Scheduling** - Schedule Extract refreshes between 18:00 and 05:00 UTC. Ideally, limit refreshes to business weekdays.
 
 1. **Optimize Extracts** - Consider the following strategies to shrink and improve extract refresh performance:
-   
+
    - **Aggregate Data** - Aggregate data at a higher level before creating an extract to reduce size and improve performance.
-  
+
    - **Filter Data** - Apply filters to include only relevant data in the extract. This can help reduce size and improve refresh times.
-  
+
    - **Use Incremental Refreshes** - For large datasets, configure incremental refreshes instead of full refreshes. This updates only the new or changed data, which is more efficient. Consider using Tableau Prep to implement incremental and merge/update refreshes.
 
 1. **Extract Refresh Suspension** - Tableau Cloud will automatically suspend data sources that remain unused for 30 days.

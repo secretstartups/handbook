@@ -77,7 +77,7 @@ Read more about GitLab [Job Grades](/handbook/total-rewards/compensation/compens
 
 ### Intern Frontend Engineer
 
-Intern Frontend Engineers, while sharing the same requirements and responsibilities outlined above, typically join with less or alternate experience than typical Frontend Engineers. More information on intern hiring and the intern program can be found [here](/handbook/engineering/career-development/#internships-in-engineering).
+Intern Frontend Engineers, while sharing the same requirements and responsibilities outlined above, typically join with less or alternate experience than typical Frontend Engineers. More information on intern hiring and the intern program can be found [here](/handbook/engineering/careers/#internships-in-engineering).
 
 ### Associate Frontend Engineer
 

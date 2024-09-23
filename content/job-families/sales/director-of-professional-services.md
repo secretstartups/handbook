@@ -96,11 +96,11 @@ The Senior Manager, Professional Services reports into the Director, Professiona
 - Ability to be an evangelist for GitLab customers and serve according to GitLab's values
 - Ability to travel up to 20%
 - Ability to use GitLab
-- Ability to travel if needed and comply with the company's [travel policy](/handbook/travel/)
+- Ability to travel if needed and comply with the company's [travel policy](/handbook/finance/travel/)
 
 ## Senior Director of Professional Services
 
-A Senior Director of Professional Services (Delivery) is responsible for overseeing the delivery of services to clients and ensuring the satisfaction and success of those clients. This position typically requires a blend of leadership, strategic planning, and client management skills, along with deep industry knowledge. 
+A Senior Director of Professional Services (Delivery) is responsible for overseeing the delivery of services to clients and ensuring the satisfaction and success of those clients. This position typically requires a blend of leadership, strategic planning, and client management skills, along with deep industry knowledge.
 
 ### Responsibilities
 

@@ -290,10 +290,10 @@ stage, we can see that the team owns responsibilities that align with some of
 the types of requests we generally see in the queue, in particular the
 `Conversion` group.
 
-- Activation Group: [New Group Namespace Verify Stage Adoption Rate](/handbook/product/performance-indicators/#new-group-namespace-verify-stage-adoption-rate)
-- Adoption Group: [New Group Namespace Create Stage Adoption Rate](/handbook/product/performance-indicators/#new-group-namespace-create-stage-adoption-rate)
-- Expansion Group: [New Group Namespace with at least two users added](/handbook/product/performance-indicators/#new-group-namespace-with-at-least-two-users-added)
-- Conversion Group:[New Group Namespace Trial to Paid Conversion Rate](/handbook/product/performance-indicators/#new-group-namespace-trial-to-paid-conversion-rate)
+- Activation Group: [New Group Namespace Verify Stage Adoption Rate](https://internal.gitlab.com/handbook/company/performance-indicators/product/#new-group-namespace-verify-stage-adoption-rate)
+- Adoption Group: [New Group Namespace Create Stage Adoption Rate](https://internal.gitlab.com/handbook/company/performance-indicators/product/#new-group-namespace-create-stage-adoption-rate)
+- Expansion Group: [New Group Namespace with at least two users added](https://internal.gitlab.com/handbook/company/performance-indicators/product/#new-group-namespace-with-at-least-two-users-added)
+- Conversion Group:[New Group Namespace Trial to Paid Conversion Rate](https://internal.gitlab.com/handbook/company/performance-indicators/product/#new-group-namespace-trial-to-paid-conversion-rate)
 
 ## What is **not in the scope** of L&R work in Support?
 

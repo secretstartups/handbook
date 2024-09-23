@@ -284,7 +284,7 @@ To align our education and enablement with our product, each of the topics below
 - [Terraform AWS Provider Docs](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
 - [Terraform GCP Provider Docs](https://registry.terraform.io/providers/hashicorp/google/latest/docs)
 - [Terraform GitLab Provider Docs](https://registry.terraform.io/providers/gitlabhq/gitlab/latest/docs)
-- [GitLab Sandbox Cloud](/handbook/infrastructure-standards/realms/sandbox/#how-to-get-started)
+- [GitLab Sandbox Cloud](/handbook/company/infrastructure-standards/realms/sandbox/#how-to-get-started)
 - [GitLab Demo Systems Terraform Modules](https://gitlab.com/gitlab-com/demo-systems/terraform-modules)
 
 #### Advanced Level

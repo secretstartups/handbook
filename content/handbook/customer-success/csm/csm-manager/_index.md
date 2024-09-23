@@ -103,7 +103,7 @@ While the SAE owns the transition-to-CSM aspect, the CSM Manager will then ensur
 
 ### Customer Onboarding Review
 
-On a regular basis, the CSM Manager should review their team's active Onboarding plays. The Onboarding plays can be reviewed with each individual in one-on-one meetings. Onboarding is measured by the [time to value metrics](/handbook/customer-success/vision/#time-to-value-kpis). Consider:
+On a regular basis, the CSM Manager should review their team's active Onboarding plays. The Onboarding plays can be reviewed with each individual in one-on-one meetings. Onboarding is measured by the [time to value metrics](/handbook/customer-success/customer-success-vision/#time-to-value-kpis). Consider:
 
 1. How many and which accounts are in onboarding?
 2. What do Time to Value metrics look like?

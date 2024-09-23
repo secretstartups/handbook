@@ -214,7 +214,7 @@ Sometimes fast deployments are needed to fix a service or application outage tha
 
 #### Parity between SaaS and Self-managed deployments
 
-We want to provide the same capabilities to end users regardless of the method they choose to use GitLab (GitLab SaaS or Self-managed). At the same time, we believe in the power of a [single code base](/handbook/product/single-application/#single-codebase). Therefore we strive to maintain feature parity between SaaS and Self-managed installations.
+We want to provide the same capabilities to end users regardless of the method they choose to use GitLab (GitLab SaaS or Self-managed). At the same time, we believe in the power of a [single code base](/handbook/product/categories/gitlab-the-product/single-application/#single-codebase). Therefore we strive to maintain feature parity between SaaS and Self-managed installations.
 
 In line with our [SaaS-first](#saas-first) principle, some features may be released on SaaS to gain operational experience prior to recommending and supporting customers using it. All features will eventually be made available across SaaS and self-managed once those learnings have been applied.
 

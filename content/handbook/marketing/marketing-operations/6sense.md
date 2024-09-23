@@ -59,7 +59,7 @@ The following teams have role-based access to 6sense:
 - Field Marketing
 - Sales & Business Development
 
-6sense is access is managed through Okta. To request access, open an [access request](/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/). After receiving manager approval, tag the provisioner listed in the [tech stack](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml). When requesting access, please specify a role from the list below along with justification as to why this role is needed.
+6sense is access is managed through Okta. To request access, open an [access request](/handbook/it/end-user-services/onboarding-access-requests/access-requests/). After receiving manager approval, tag the provisioner listed in the [tech stack](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml). When requesting access, please specify a role from the list below along with justification as to why this role is needed.
 
 ### User Configuration
 
@@ -83,7 +83,7 @@ The following steps must be taken in order for users to access both the 6sense p
 
 ### 6sense User Seat
 
-We have a limited user seat in 6sense, in order to manage our user seats and provide more seats for new users, we are eliminating inactive users. 
+We have a limited user seat in 6sense, in order to manage our user seats and provide more seats for new users, we are eliminating inactive users.
 
 During our user audit review, if the user hasn't logged into either the 6sense platform or the dashboards in Sales in the last 6 monmth, their seat willl be revoked.
 

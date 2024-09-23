@@ -30,7 +30,7 @@ The following people are permanent members of the group:
 
 ## Metrics
 
-Here is our group page: [Import and Integrate Group Engineering Metrics handbook page](/handbook/engineering/metrics/dev/manage/import-and-integrate/).
+Here is our group page: [Import and Integrate Group Engineering Metrics handbook page](/handbook/product/groups/product-analysis/engineering/dashboards/dev/manage/import-and-integrate/).
 
 {{< tableau height="600px" src="https://us-west-2b.online.tableau.com/t/gitlabpublic/views/MergeRequestMetrics/OverallMRsbyType_1" >}}
   {{< tableau/filters "GROUP_LABEL"="import and integrate" >}}
@@ -114,7 +114,7 @@ All issues should have:
   - `~"Category:Integrations"`
   - `~"Category:Internationalization"`
   - `~"Category:Webhooks"`
-- A [type label](/handbook/engineering/metrics/#work-type-classification)
+- A [type label](/handbook/product/groups/product-analysis/engineering/dashboards/#work-type-classification)
 - A [workflow label](/handbook/engineering/workflow/#updating-workflow-labels-throughout-development)
 - `~"backend"` or `~"frontend"` if appropriate
 

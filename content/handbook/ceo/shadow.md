@@ -146,7 +146,7 @@ For those with regular commitments, look for shorter weeks or timezone variation
 | 2024-12-02 | 2024-12-06 | OPEN |  [Francesca Gianfiglio](https://gitlab.com/fgianfiglio) - Senior Business Development Representative EMEA  | REMOTE - PT |
 | 2024-12-09 | 2024-12-13 | VP DIRECTS ONLY | VP DIRECTS ONLY | REMOTE - PT |
 | 2024-12-16 | 2024-12-20 | NO CEO SHADOW | NO CEO SHADOW | CEO TRAVELING |
-| 2024-12-23 | 2024-12-27 | NO CEO SHADOW | NO CEO SHADOW | CEO TRAVELING | 
+| 2024-12-23 | 2024-12-27 | NO CEO SHADOW | NO CEO SHADOW | CEO TRAVELING |
 | 2024-12-30 | 2025-01-03 | NO CEO SHADOW | NO CEO SHADOW | CEO PTO |
 | 2025-01-06 | 2025-01-10 | OPEN | OPEN | REMOTE - PT |
 | 2025-01-13 | 2025-01-17 | OPEN | OPEN | REMOTE - PT |
@@ -228,7 +228,7 @@ The CEO has a [section in the handbook](/handbook/ceo/) that details processes a
 
 #### Review acronyms
 
-If you're not familiar with some of the business acronyms, take a bit of time to review them. The [Product Performance Indicators](/handbook/product/performance-indicators/) handbook page has some useful acronyms as well as concepts you're likely to come across.
+If you're not familiar with some of the business acronyms, take a bit of time to review them. The [Product Performance Indicators](https://internal.gitlab.com/handbook/company/performance-indicators/product/) handbook page has some useful acronyms as well as concepts you're likely to come across.
 
 - [KPI (Key Performance Indicator)](/handbook/company/kpis/#what-are-kpis)
 - [OKRs (Objectives and Key Results)](/handbook/company/okrs/#what-are-okrs)
