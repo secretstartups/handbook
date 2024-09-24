@@ -52,7 +52,7 @@ The Product Designer is a [grade 6](/handbook/total-rewards/compensation/compens
 - **Design system:** Actively contribute to the [Pajamas Design System](https://design.gitlab.com) by keeping design components available and up to date in design and prototyping tools, and ensuring that components fit together visually and functionally.
 - **UI copy:** Collaborate closely with a technical writer on microcopy and documentation suggestions.
 - **Design reviews:** Participate in [Design Reviews](/handbook/product/ux/product-designer/#design-reviews), giving and receiving feedback appropriately.
-- **Deferred UX:** Understand Deferred UX and make recommendations for its resolution with the help from a senior or staff product designer or your product design manager.
+- **Deferred UX:** Understand [deferred UX](/handbook/product/ux/performance-indicators/#deferred-ux) and make recommendations to address it in your group.
 - **Recruiting:** Evaluate case studies during the product designer candidate interview process and interview product manager candidates.
 
 #### Requirements
@@ -78,7 +78,7 @@ Everything in the Product Designer role, plus:
 - **Design system:** Actively contribute to the [Pajamas Design System](https://design.gitlab.com), help determine whether components are single-use or multi-use, and provide recommendations to other designers regarding new component requests.
 - **UI copy:** Collaborate early and often with a technical writer on microcopy to ensure user experiences are efficient. Help improve docs and incorporate documentation within the UI as needed to assist users in moving through their workflows.
 - **Design reviews:** Participate in [Design Reviews](/handbook/product/ux/product-designer/#design-reviews), and model best practices for giving and receiving feedback.
-- **Deferred UX:** Help reduce the creation of additional deferred UX with [MVCs](/handbook/product/product-principles/#the-minimal-valuable-change-mvc) and advocate within your group the importance of releasing value to users. Identify and influence the prioritization to fix deferred UX when it occurs.
+- **Deferred UX:** Mitigate the risk for [deferred UX](/handbook/product/ux/performance-indicators/#deferred-ux) in your group with [MVCs](/handbook/product/product-principles/#the-minimal-valuable-change-mvc), and help identify, prioritize, and fix when it occurs.
 - **Public presence:** Help promote GitLab publicly by writing blog articles, giving talks, publishing videos to GitLab Unfiltered, or responding on social media, where appropriate.
 - **Cross-stage collaboration:** Support your product design manager and product manager in identifying dependencies between groups and stages and advocating for cross-stage collaboration when needed.
 
@@ -101,7 +101,6 @@ Everything in the Senior Product Designer role, plus:
 - **Deliverables:** Create tactical and strategic deliverables for your group (for example: JTBD, UX Scorecards, wireframes, competitive evaluations, prototypes, journey maps, storyboards, design vision, and so on).
 - **Communication:** Set an example for frequent and effective asynchronous communication.
 - **Iteration:** Understand long-term goals in your group and help other designers break down designs into actionable steps.
-- **Deferred UX:** Help the product teams of the group you support to prioritize and [close Deferred UX](/handbook/product/ux/performance-indicators/#deferred-ux).
 - **Thought leadership:** Promote best practices and support other designers in advocating for them within their teams.
 - **Recruiting:** Conduct independent portfolio reviews of qualified design candidates to help identify top talent in the candidate pool.
 - **Cross-stage collaboration:** Promote a holistic UX by proactively helping other designers navigate the organization and consider product overlaps, connections, and potential collisions.
@@ -129,7 +128,7 @@ Everything in the Staff Product Designer role, plus:
 - **Deliverables:** Solve design problems of the highest scope, complexity, and ambiguity for your stage.
 - **Communication:** Guide conversations to remove blockers and encourage collaboration across teams.
 - **Iteration:** Lead and coach iteration in your stage, encourage quick feedback loops and completion over perfection, and help cross-functional team members break down solutions into actionable steps, aligned with long-term goals.
-- **Deferred UX:** Help the stage you support to prioritize and close Deferred UX.
+- **Deferred UX:** Mitigate the risk for [deferred UX](/handbook/product/ux/performance-indicators/#deferred-ux) in your stage with [MVCs](/handbook/product/product-principles/#the-minimal-valuable-change-mvc), and help identify, prioritize, and fix when it occurs.
 - **Thought leadership:** Lead and bring a UX voice to complex scenarios, build trust between UX and other disciplines, interface with managers and leaders, and enable other designers to engage on large (stage or section-wide) initiatives.
 - **Recruiting:** Conduct portfolio reviews with staff product designers of qualified design candidates, and help retain a world-class team of product designers and product design managers.
 - **Cross-stage collaboration:** Identify innovation opportunities, and collaborate with teams to help them make informed decisions and iterate on those opportunities.
