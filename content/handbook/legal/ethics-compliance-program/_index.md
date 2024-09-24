@@ -23,7 +23,7 @@ Listed below are GitLab's policies and procedures, as well as guidance and other
 - [Anti-Harassment Policy](/handbook/people-group/anti-harassment/)
 - [Anti-Retaliation Policy](/handbook/legal/anti-retaliation-policy/)
 - [Authorization Matrix](/handbook/finance/authorization-matrix/)
-- [Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d)
+- [Code of Business Conduct and Ethics](https://s204.q4cdn.com/984476563/files/doc_downloads/govdoc/GitLab-Code-of-Business-Conduct-Ethics-2024-06-25.pdf)
 - [Corporate Communication Policy](/handbook/legal/corporate-communications/)
 - [Data Privacy Impact Assessment (DPIA) Policy](/handbook/legal/privacy/dpia-policy)
 - [Employee Privacy Policy](/handbook/legal/privacy/employee-privacy-policy/)
