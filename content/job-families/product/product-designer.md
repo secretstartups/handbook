@@ -112,7 +112,7 @@ Everything in the Senior Product Designer role, plus:
 - **Cross-stage collaboration:** Promote a holistic UX by proactively helping other designers navigate the organization and consider product overlaps, connections, and potential collisions.
 - **Mentoring:** Provide impactful feedback to ICs of the UX department and mentor them throughout product development.
 - **Vision:** Collaborate with your group to create a user-centric vision and shape the long-term roadmap based on user needs, connecting it to the broader product and company objectives.
-- **Early adoption:** Experiment with and drive the adoption of new processes, tools, and methods to improve the product design practice.
+- **UX process:** Expose needs in [design](/handbook/product-development-flow/#validation-phase-3-design) and [solution validation](/handbook/product-development-flow/#validation-phase-4-solution-validation). Address them through experimentation and change management.
 - **Open source:** Create a welcoming community for every contributor by driving engagement of design community contributions.
 
 #### Staff Requirements
@@ -143,8 +143,7 @@ Everything in the Staff Product Designer role, plus:
 - **Mentoring:** Actively engage with and support other designers' career development, mentor cross-functional team members and UX leaders, and foster a skill-building environment within the department.
 - **Vision:** Influence the vision and roadmap of your projects, connecting it to the broader product and company objectives.
 - **Goal setting:** Help set achievable, measurable, and impactful goals for your projects that drive results.
-- **Operations:** Expose cultural, operational, and organizational needs in the department, address them or enable others to help.
-- **Early adoption:** Experiment with and drive the adoption of new processes, tools, and methods to improve practices in the UX department.
+- **UX process:** Expose needs in our culture, organization, and operations. Address them through experimentation and change management. Enable others to help and drive changes.
 - **Public presence:** Be an active voice in the UX of DevSecOps and in the broader UX industry, and evangelize the learnings, successes, and methods of the department to the public.
 - **Supporting others:** Support peers in their working rhythm and self-care, and translate their successes, concerns, feedback, and morale to their managers and leadership.
 
