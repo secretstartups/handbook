@@ -48,7 +48,7 @@ The best way to reach out to our team if you have a technical program management
 
 Why use the channel and not direct message a PM I already know? 
 
-* Even though this can seem like a good idea, it [limits visibility to the larger program management team](/handbook.gitlab.com/handbook/communication/) and doesn’t allow for proper resource allocation.  Sending your requests in this channel will allow for full visibility and ensure our team is connecting you with the program manager who is a good fit for your project and has bandwidth to take on something new.
+* Even though this can seem like a good idea, it [limits visibility to the larger program management team](/handbook/communication/) and doesn’t allow for proper resource allocation.  Sending your requests in this channel will allow for full visibility and ensure our team is connecting you with the program manager who is a good fit for your project and has bandwidth to take on something new.
 
 ### More About The Team
 
@@ -74,4 +74,4 @@ Michaela: Technical Program Manager
 * Email: mseferian-jenkins@gmail.com
 * [READ.me](https://gitlab.com/mseferian-jenkins)
 
-[Click here](/handbook.gitlab.com/job-families/product/program-manager/) to learn more about technical program management roles & responsibilites.
+[Click here](/job-families/product/program-manager/) to learn more about technical program management roles & responsibilites.

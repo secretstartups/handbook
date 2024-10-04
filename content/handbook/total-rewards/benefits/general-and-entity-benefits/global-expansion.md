@@ -338,7 +338,7 @@ Life insurance cover provided via GX AXA plan
 - **Erganomic Chair Allowance** 
 Team members are entitled to a one-time claim of up to 3000MXN for the purchase of an ergonomic chair to support their comfort and health while working remotely. 
 
-**Instructions** for reimbursement is outlined in the [Navan policy](/handbook.gitlab.com/handbook/finance/expenses/#equipment)
+**Instructions** for reimbursement is outlined in the [Navan policy](/handbook/finance/expenses/#equipment)
 
 ### Christmas Bonus (Aguinaldo)
 
