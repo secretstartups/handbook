@@ -54,24 +54,27 @@ Why use the channel and not direct message a PM I already know?
 
 Product TPgM team
 
-Natalie: Staff Technical Program Manager
+Natalie Pinto: Manager of Technical Program Management
 
 * Slack handle: @natalie
-* GitLab handle: @natalie.pinto
-* Email: npinto@gitlab.com
+* GitLab handle: @natalie.pinto 
 * [READ.me](https://gitlab.com/natalie.pinto)
 
-Clarissa: Technical Program Manager
+Clarissa Ersoz: Technical Program Manager
 
 * Slack handle: @cersoz
 * GitLab handle: @cersoz
-* Email: cersoz@gitlab.com
 
-Michaela: Technical Program Manager
+Michaela Seferian-Jenkins: Technical Program Manager
 
 * Slack handle: @Michaela SJ
 * GitLab handle: @mseferian-jenkins
-* Email: mseferian-jenkins@gmail.com
 * [READ.me](https://gitlab.com/mseferian-jenkins)
 
-[Click here](/job-families/product/program-manager/) to learn more about technical program management roles & responsibilites.
+TBH: Technical Program Manager, Escalation Specialist
+
+* Slack handle: 
+* GitLab handle: 
+* Email: 
+
+[Click here](/handbook.gitlab.com/job-families/product/program-manager/) to learn more about technical program management roles & responsibilites.
