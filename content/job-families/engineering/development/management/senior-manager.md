@@ -124,6 +124,19 @@ The Senior Engineering Manager is a [grade 9](/handbook/total-rewards/compensati
   3. Existing SEMs are at full capacity in their current roles
 - Because existing SEM capacity would be a factor in new promotions, it is likely that a business need will occur outside of the promotion cycle, requiring an existing engineering manager to take the SEM role in an acting, interim, or temporary capacity in order to alleviate pressure quickly from other SEMs and Directors. For this reason, SEM promotions might occur [outside of the promotion cycle](/handbook/people-group/promotions-transfers/#twice-per-year-promotion-calibration-process--timeline).
 
+### Career Matrix
+
+The Senior Engineering Manager (SEM) role accommodates managers who have a broad span of control (multiple teams) and/or a broad sphere of influence (multiple initiati$
+
+**How to use:**
+  
+- Scores range from 1 (no examples of this behavior) to 5 (strong and frequent examples of this behavior)
+- Span of control and Sphere of influence sections have required minimums
+- Competencies have weighted percentages in the top right corner of each section to allow equitability in Senior Managers who have different strengths. These percentag$
+- While demonstrating competencies at level 3 is acceptable, exceptional candidates should consistently aim to perform at levels 4 and 5, showcasing strong and frequen$
+- Use this rubric loosely to allow for nuances, and as a career development discussion starter
+- Consider organizational readiness to accommodate a new SEM, and seek out other opportunities within the organization that might have these capabilities
+
 ## Hiring Process
 
 Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more specialties, the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
