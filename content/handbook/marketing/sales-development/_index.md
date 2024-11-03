@@ -218,10 +218,11 @@ You will find the lead views below. These views are split per use-case for your 
 
 As part of your SDR responsibilities, you are expected to perform due diligence on each lead you receive. This includes checking the database for duplicate records, as well as referencing against our [RoE](/handbook/marketing/sales-development/roe-kpis-faq/).
 
-1. Open the lead you want to investigate and press the `Find Duplicates` on the top of the lead's record.
-1. Check through all the records that show up, from leads to Acccounts. Make sure to search for `Domain` and `Last Name` if the data you have seems incomplete.
+1. Open the lead you want to investigate and press the `Find Duplicates` on the top of the lead's record in Salesforce Classic.
+1. Check through all the records that show up, from Leads to Acccounts. Make sure to search for `Domain` and `Last Name` if the data you have seems incomplete.
 1. Check the `Matched Account Info` section on the lead record.
-   1. For SMB leads, if there's a matched account where the type is `Customer`, please press the `Convert` button at the top of the lead page and match this lead to the existing account.
+   1. For SMB leads, if there's a matched account where the type is `Customer`, please press the `Convert` button at the top of the lead page and match this lead to the existing account and alert the relevant AE if there is an action to be taken by them, eg if there is a Contact Request.
+   1. If the `Company` name on the lead is either an accronym or an abbreviation of the company name, update the company name. Make sure to match the account name that already exists in Salesforce if there is one. Check the `Re-Run Traction Complete` box which will re-route the lead to the correct BDR if it's an Actively Working Account.
    1. If there's not a customer record but you find an existing open opportunity, update the `Lead Status` to `Recycle` and `Recycle Reasons` to `Evaluating.`
    1. For Universities/Education leads (non-US Pub Sec), work as regular lead if technical contact.
    1. If there's a matched account, check if the field `BDR Prospecting Status` is `Actively Working` and, if so, reroute the lead to the team mentioned on the `BDR Assigned` field.
