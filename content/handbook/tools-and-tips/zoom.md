@@ -346,7 +346,7 @@ automatically be saved to a folder on Google Drive under `GitLab Videos Recorded
 The name of the folder will be prefixed by the host's e-mail
 address. For example, if the host is `someuser@gitlab.com` and the
 meeting title is `Company Training [REC]`, the folder will appear as
-`someuser@gitlab.com-Company Training`. The script will sync the recordings every hour.
+`someuser@gitlab.com-Company Training`. [The script](https://gitlab.com/gitlab-com/zoom-sync/-/blob/a73aee8f5921ac3fec16b74232ac17add4e33afb/zoom-sync.rb) (from [the zoom-sync project](https://gitlab.com/gitlab-com/zoom-sync)) will sync the recordings every hour.
 
 To make it easier for meetings to be uploaded automatically without
 changing the title, the sync script also uses an [allow list](https://gitlab.com/gitlab-com/zoom-sync#allow-list).
