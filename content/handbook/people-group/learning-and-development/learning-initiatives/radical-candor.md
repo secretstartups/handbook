@@ -53,6 +53,30 @@ Refer to the timeline below for a breakdown of each course requirement, as well 
 | Week of 2024-11-02 | Attend second Live Practice session |
 | By 2024-12-13 | Complete all self-paced course work |
 
+## Practice Sessions
+
+Plan to attend Practice Session #1 and Practice Session #2, offered during Week 3 and 5 of the course.
+
+### Practice Session #1
+
+Attend **one** session, and come prepared to discuss and practice with concepts from the self-paced work, including:
+`Introduction`, `Understand Radical Candor`, `Ask for and Recieve Feedback` and `Offer Powerful Praise`.
+
+1. 2024-11-19 @ 1am UTC (best for APAC)
+2. 2024-11-20 @ 1pm UTC (best for EMEA)
+3. 2024-11-21 @ 11pm UTC (best for west AMER)
+4. 2024-11-22 @ 6:30pm UTC (best for east AMER)
+
+### Practice Session #2
+
+Attend **one** session, and come prepared to discuss and practice with concepts from the self-paced work, including: 
+`Give Criticism Effectively`, `Gauge How your Feedback Lands`, `Put Radical Candor to Work`, and `Cultivate a Candid Culture`.
+
+1. 2024-12-03 @ 1am UTC (best for APAC)
+2. 2024-12-04 @ 1pm UTC (best for EMEA)
+3. 2024-12-04 @ 11pm UTC (best for west AMER)
+4. 2024-12-06 @ 6:30pm UTC (best for east AMER)
+
 ## Additional Program Requirements
 
 1. Radical Candor is open to all team members at GitLab.
