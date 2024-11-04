@@ -48,10 +48,10 @@ In the context of this working group:
 | Working Group Role     | Person                           | Title                                                 |
 |------------------------|----------------------------------|-------------------------------------------------------|
 | Executive Stakeholder  | [Tim Zallmann](@timzallmann)      | Senior Director, ~"Department::Development"           |
-| Facilitator/DRI        | [James Fargher](@proglottis)     | Senior Backend Engineer, ~"group::gitaly::git"        |
+| Facilitator/DRI        | [James Fargher](@proglottis)     | Senior Backend Engineer, ~"group::gitaly"             |
 | Product DRI            | [Mark Wood](@mjwood)             | Product Manager, ~"group::gitaly"                     |
-| Member                 | [Sami Hiltunen](@samihiltunen)   | Staff Backend Engineer, ~"group::gitaly::cluster"     |
-| Member                 | [John Cai](@jcaigitlab)          | Engineering Manager, ~"group::gitaly::git"            |
+| Member                 | [Sami Hiltunen](@samihiltunen)   | Staff Backend Engineer, ~"group::gitaly"              |
+| Member                 | [John Cai](@jcaigitlab)          | Engineering Manager, ~"group::gitaly"                 |
 | Member                 | [David Kim](@dskim_gitlab)       | Senior Backend Engineer, ~"group::code review"        |
 | Member                 | [Kai Armstrong](@phikai)         | Principal Product Manager, ~"group::code review"      |
 | Member                 | [Hordur Freyr Yngvason](@hordur) | Senior Backend Engineer, ~"group::pipeline execution" |

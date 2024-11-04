@@ -66,8 +66,8 @@ flowchart LR
 
     SS --> GC[Gitaly::Cluster]
     click GC "/handbook/engineering/infrastructure/core-platform/systems/gitaly/"
-    SS --> GG[Gitaly::Git]
-    click GG "/handbook/engineering/infrastructure/core-platform/systems/gitaly/"
+    SS --> Git[Git]
+    click GG "/handbook/engineering/infrastructure/core-platform/systems/git/"
     SS --> Geo
     click Geo "/handbook/engineering/infrastructure/core-platform/systems/geo/"
     SS --> DB[Distribution::Build]
