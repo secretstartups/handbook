@@ -1,5 +1,5 @@
-hugo extended_0.135.0
+hugo extended_0.136.5
 nodejs 20.18.0
-golang 1.22.8
-vale 3.7.1
+golang 1.23.0
+vale 3.8.0
 markdownlint-cli2 0.14.0
