@@ -1,5 +1,5 @@
 ---
-title: Signals Engineering Team (SIT)
+title: Signals Engineering Team (SET)
 ---
 
 ## Engaging Signals Engineering
@@ -121,7 +121,7 @@ Initial metrics we report on are listed below:
 1. MITRE coverage
 2. Coverage by log sources
 3. MTTDC (Mean time to detection creation)
-4. overage by threat actor
+4. Coverage by threat actor
 
 ### Metric Labels
 
