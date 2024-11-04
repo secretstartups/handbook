@@ -195,7 +195,7 @@ could be a viable method to reduce the stored data.
 
 One possible risk is that re-calculating older notes whose cached Markdown was dropped
 could have a thrashing effect on both the Rails application and the PostgreSQL hosts.
-In the past, it's been observed that rendering many notes and updating the cache severly strained
+In the past, it's been observed that rendering many notes and updating the cache severely strained
 the application and the database whenever the cached Markdown version was bumped for notes.
 
 It's worth investigating caching Markdown solely to Redis and
