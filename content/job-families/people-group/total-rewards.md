@@ -327,7 +327,7 @@ The next step in the Total Rewards job family is to move to the VP, Total Reward
 
 - [Percentage over compensation band](/handbook/people-group/people-success-performance-indicators/#percent-over-compensation-band)
 - [Average location factor](/handbook/people-group/people-success-performance-indicators/#average-location-factor)
-- [New hire location factor](/#new-hire-location-factor)
+- New hire location factor
 - [Pay equality](/handbook/company/culture/inclusion/#performance-indicators)
 
 ### Hiring Process
