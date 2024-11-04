@@ -23,9 +23,9 @@ On her website, Kim Scott, the creator of Radical Candor, describes the framewor
 
 In partnership with MasterClass@Work, GitLab's Talent Development team is hosting a pilot for 50 team members to dive deeply into caring personally and challenging directly.
 
-[Sign Up Here](https://docs.google.com/forms/d/e/1FAIpQLSfH8bZlFkAwRF3CFafzIay-V1a5pQlOYOLuk6SVJaFBB7qE1w/viewform?usp=sf_link)! Sign ups are open from 2024-10-14 through 2024-11-01.
-
 _By signing up, you agree to spend approx. 45 minutes per week for the 6 week course._
+
+Sign ups are closed as of 2024-11-01. For information about the next Radical Candor cohort, reach out in the #learninganddevelopment Slack channel.
 
 ## Course Details
 
@@ -34,23 +34,23 @@ Radical Candor at GitLab embraces a semi-synchronous learning model, including a
 | Course Element | Description |
 | ----- | ---------- |
 | Self-Paced Course | Complete a 3 hour, self-paced course in MasterClass, led by Kim Scott, founder of Radical Candor. |
-| Live Practice | Meet for two 25-minute practice sessions with other learners. In breakout groups, discuss concepts of Radical Candor and practice scenario-based discussions. |
-| Async Discussion | Contribute to thought-provoking conversation in Slack around bringing Radical Candor to life at GitLab |
+| Practice Session | Meet for two 25-minute practice sessions with other learners. In breakout groups, discuss concepts of Radical Candor and practice scenario-based discussions. |
+| Threads | Contribute to thought-provoking conversation in Slack around bringing Radical Candor to life at GitLab |
 
 ## Timeline
 
 Refer to the timeline below for a breakdown of each course requirement, as well as an outline of what self-paced material should be finished by each date in order to fully participate in the live and async discussions.
 
 | Date | Learner Expectation |
-| ----- | ---------- |
+| -------- | ---------- |
 | Week of 2024-11-04 | Activate your MasterClass@Work access via email invite; Begin self-paced course |
-| 2024-11-07 | Contribute to first async discussion in Slack |
-| 2024-11-13 | Contribute to second async discussion in Slack |
+| 2024-11-07 | Contribute to `Thread #1` in Slack |
+| 2024-11-13 | Contribute to `Threads #2` in Slack |
 | By 2024-11-18 | Complete sections 1 through 4 of the self-paced course: `Introduction`, `Understand Radical Candor`, `Ask for and Recieve Feedback` and `Offer Powerful Praise` |
-| Week of 2024-11-18 | Attend first Live Practice session |
-| 2024-11-26 | Contribute to third async discussion in Slack |
+| Week of 2024-11-18 | Attend `Practice Session #1` |
+| 2024-11-26 | Contribute to `Thread #3` in Slack |
 | By 2024-12-02 | Complete sections 5 through 8 of the self-paced course: `Give Criticism Effectively`, `Gauge How your Feedback Lands`, `Put Radical Candor to Work`, and `Cultivate a Candid Culture` |
-| Week of 2024-11-02 | Attend second Live Practice session |
+| Week of 2024-12-02 | Attend `Practice Session #2` |
 | By 2024-12-13 | Complete all self-paced course work |
 
 ## Additional Program Requirements
