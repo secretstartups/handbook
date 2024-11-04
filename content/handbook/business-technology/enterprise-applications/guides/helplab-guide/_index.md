@@ -29,7 +29,7 @@ The following teams are available through HelpLab:
 - [Stock Admin](/job-families/finance/stock-administrator/)
 - [Expenses](/handbook/finance/accounts-payable/)
 - [Payroll (US & Non-US)](https://internal.gitlab.com/handbook/finance/payroll/)
-- [IT services](/handbook/business-technology/end-user-services/)
+- [IT services](/handbook/it/end-user-services/)
 
 ## How do I use HelpLab?
 

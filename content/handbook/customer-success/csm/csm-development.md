@@ -181,9 +181,9 @@ Access codes and recording links can be found in this [internal doc](https://doc
 
 ### LinkedIn Learning
 
-[Handbook details about LinkedIn Learning](/handbook/people-group/learning-and-development/linkedin-learning/).
+[Handbook details about LinkedIn Learning](/handbook/people-group/learning-and-development/self-paced-learning/#linkedin-learning).
 
-We also have a list of [Recommended Learning Paths](/handbook/people-group/learning-and-development/linkedin-learning/#recommended-learning-paths).
+We also have a list of [Recommended Learning Paths](/handbook/people-group/learning-and-development/self-paced-learning/#linkedin-learning).
 
 ### Coursera
 

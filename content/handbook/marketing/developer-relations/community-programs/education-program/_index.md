@@ -198,7 +198,7 @@ We do this with the following guidelines and strategies in mind:
 * Channel back feedback to product and engineering teams.
 * Adopt new ideas with live streaming or community coffee chats.
   * Engage community members in discussions.
-  * Tag people and keep the tone ["at the table"](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/)
+  * Tag people and keep the tone ["at the table"](https://design.gitlab.com/brand-overview/resources)
 * Just as you are more than your work, your social accounts are more than work related. Be yourself and don't be afraid to share your own life to the degree that you're comfortable with.
 * Share your impressions and thoughts on work with `#allremote` and `#remotework`
 * Regularly tweet about daily work. Use the hash tag `#LifeAtGitLab` to share insights and funny moments.

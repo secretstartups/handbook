@@ -16,7 +16,7 @@ We develop our brand visual identity design to ensure it stays relevant in the m
 
 *Why we exist*
 
-As stewards of the [GitLab brand](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/), our goal is to educate and enable the wider organization with resources to effectively and honestly communicate what the company does to our internal and external audiences.
+As stewards of the [GitLab brand](https://design.gitlab.com/brand-overview/resources), our goal is to educate and enable the wider organization with resources to effectively and honestly communicate what the company does to our internal and external audiences.
 
 ### Vision
 
@@ -142,7 +142,7 @@ If your team works on a larger initiative, please refer to our [program lockup g
 
 ### Working with the brand
 
-To learn more about our [Brand Guidelines](https://design.gitlab.com/brand/overview?_gl=1%2a19y18w7%2a_ga%2aNzk5NDI4OTg0LjE2ODA4MDA5Nzk.%2a_ga_ENFH3X7M5Y%2aMTY4MjAyMjM3Ni4xMS4xLjE2ODIwMjI5MDUuMC4wLjA.), self-service resources and assets, and training materials, check out the [Brand Resources](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/#brand-resources) handbook. Below you will find more details about working with our brand and creative materials.
+To learn more about our [Brand Guidelines](https://design.gitlab.com/brand/overview?_gl=1%2a19y18w7%2a_ga%2aNzk5NDI4OTg0LjE2ODA4MDA5Nzk.%2a_ga_ENFH3X7M5Y%2aMTY4MjAyMjM3Ni4xMS4xLjE2ODIwMjI5MDUuMC4wLjA.), self-service resources and assets, and training materials, check out the [Brand Resources](https://design.gitlab.com/brand-overview/resources) handbook. Below you will find more details about working with our brand and creative materials.
 
 #### Providing feedback
 

@@ -102,7 +102,7 @@ Also items can be shipped from the Eu warehouse from the countries listed [here]
 1. Go to Triggered Campaign > Create Triggered Campaign. Then under Campaign Trigger, select Connector (Salesforce).
 1. Select Salesforce as your connector and choose Object. This will depend on what you have in your own Salesforce.
 1. Under Field, select Stage. Other options are  Status, Opportunity ID, Opportunity Type, Probability, and Close Date.
-1. Under Field, Select Campaign ID (to ensure it is sent to those in that specific campaign), Comparator is Equals. Under Value, copy and paste the Campaign ID from the URL of the campaign in Salesforce. (You have to create a SFDC campaign first with [these steps](/handbook/marketing/marketing-operations/reachdesk/))
+1. Under Field, Select Campaign ID (to ensure it is sent to those in that specific campaign), Comparator is Equals. Under Value, copy and paste the Campaign ID from the URL of the campaign in Salesforce. (You have to create a SFDC campaign first with [these steps](/handbook/marketing/marketing-operations/))
 1. Press AND + to add another field. This will then be sent to all members of that SF campaign.
 1. Click Next and Save campaign
 TIP: it's advisable to `Pause` triggered campaigns until it's ready to go live/active.
@@ -142,7 +142,7 @@ Brilliant can ship items from our warehouses to events!
 1. In the Account & Amount section, select either Company Balance or User Balance and populate the amount of money and currency account you want to top-up.
 1. In the Billing Entity section, select which Billing Entity you want the invoice to be addressed. In some cases, there is only one so this should be pre-selected. If there is no billing entity, or you cannot find the right billing entity, please contact `support@reachdesk.com` so we can add this billing entity to our invoicing system.
 
-All campaigns must have a Salesforce.com attached. If this campaign involves Marketo, please skip to [those instructions](/handbook/marketing/marketing-operations/reachdesk/#marketo-campaigns), otherwise follow directions [below](/handbook/marketing/marketing-operations/reachdesk/#salesforce-campaigns).
+All campaigns must have a Salesforce.com attached. If this campaign involves Marketo, please skip to [those instructions](/handbook/marketing/marketing-operations/#marketo-campaigns), otherwise follow directions [below](/handbook/marketing/marketing-operations/#salesforce-campaigns).
 
 ## Integrations
 

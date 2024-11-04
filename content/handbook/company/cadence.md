@@ -34,7 +34,7 @@ How elements of our cadence fit together over time:
 
 How other elements relate to our cadence:
 
-1. [Top Cross-Functional Initiatives](/handbook/company/top-cross-functional-initiatives/) typically last a year and should be closely aligned to the yearlies.
+1. Top Cross-Functional Initiatives typically last a year and should be closely aligned to the yearlies.
 1. [Key Performance Indicators (KPIs)](/handbook/company/kpis/) are measures of performance for important things we do as a company all the time. If you want to change a KPI in a quarter this typically will be an OKR.
 1. [Our Values](/handbook/values/) are the principles we follow in pursuing the items on this Cadence page but are not part of any cadence.
 

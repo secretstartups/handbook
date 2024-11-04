@@ -461,7 +461,7 @@ For both GitLab-owned and external events, speakers and content DRIs should buil
 
 ## Virtual Events at GitLab
 
-At GitLab, the Corporate Events team owns events that meet specific criteria (link), including those events that have a global hybrid or virtual element. By design, virtual events at GitLab are not a simple video call nor are they a static playlist. GitLab virtual events aim to retain the same [brand personality](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/), engagement, inclusivity, and fun as our in-person events.
+At GitLab, the Corporate Events team owns events that meet specific criteria (link), including those events that have a global hybrid or virtual element. By design, virtual events at GitLab are not a simple video call nor are they a static playlist. GitLab virtual events aim to retain the same [brand personality](https://design.gitlab.com/brand-overview/resources), engagement, inclusivity, and fun as our in-person events.
 
 ### Lead time
 

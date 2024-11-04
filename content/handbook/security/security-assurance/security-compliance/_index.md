@@ -22,7 +22,7 @@ We support the Security division's [mission and operating principles](content/ha
    - [Policy-as-code]({{< ref "../../security-assurance/security-compliance/policy-as-code" >}})
    - Automated evidence collection and control testing
    - [User Access Reviews]({{< ref "access-reviews" >}})
-   - [Business Continuity Plan (BCP)](/handbook/business-technology/gitlab-business-continuity-plan/) and [Information System Continuity (ISCP)]({{< ref "information-system-contingency-plan-iscp" >}}) testing
+   - [Business Continuity Plan (BCP)](/handbook/business-technology/entapps-documentation/policies/gitlab-business-continuity-plan/) and [Information System Continuity (ISCP)]({{< ref "information-system-contingency-plan-iscp" >}}) testing
 1. [Observation and Remediation Management]({{< ref "observation-management-procedure" >}})
    - Specific to Tier 3 (system-level) risks
    - Identify control weaknesses and gaps (observations)
@@ -121,11 +121,11 @@ Each immediate child epic under our top-level team epic must include the followi
 ## Objective
 
 ## Exit criteria
-- [ ] 
+- [ ]
 
 /label ~"FY26-Q1" ~"seccomp-function::gap assessments"  ~"seccomp workflow::triage" ~"team::security compliance" ~"seccomp-roadmap"
 /health_status on_track
-/set_parent &289 
+/set_parent &289
 
 -----------
 <!--DO NOT EDIT BELOW THIS LINE-->

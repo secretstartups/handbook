@@ -48,7 +48,7 @@ Read the ["What to know about a fake job scam impersonating GitLab"](https://abo
 
 Team members can choose to refresh their laptop, no questions asked, after 3 years of use (not necessarily 3 years of employment if a used laptop was issued at the time of onboarding). If the laptop is sufficient for your needs, you may opt to continue using the laptop until it no longer receives the latest macOS version from Apple (approximately 5 years).
 
-The old laptop must be [wiped](/handbook/business-technology/end-user-services/#laptop-wipe-schedules-for-it-analysts) or [returned](#laptop-recyclereturn) **within 2 weeks of receiving the replacement laptop**, so please prioritize transferring information between laptops within this timeframe.
+The old laptop must be [wiped](/handbook/it/end-user-services/#laptop-wipe-schedules-for-it-analysts) or [returned](#laptop-recyclereturn) **within 2 weeks of receiving the replacement laptop**, so please prioritize transferring information between laptops within this timeframe.
 
 Laptops being requested as part of the refresh program use [this template](https://gitlab.com/gitlab-com/it/end-user-services/issues/laptop-issue-tracker/-/issues/new?issuable_template=Laptop_Refresh_Upgrade).
 
@@ -260,7 +260,7 @@ Reformatting a computer is not sufficient in these cases because it is possible 
 
 ### Laptop Wipe
 
-Laptop wipes must be performed via [scheduling an appointment](/handbook/business-technology/end-user-services/#laptop-wipe-schedules-for-it-analysts) with an IT analyst to wipe the machine and re-install the base operating system, and remove any and all software and configurations that were supplied by GitLab. Laptops must be wiped with [Jamf](https://internal.gitlab.com/handbook/it/endpoint-tools/jamf/) for macOS, and [DriveStrike](https://internal.gitlab.com/handbook/it/endpoint-tools/#drivestrike) for Linux. Using these tools ensures a clean disk wipe is performed and GitLab can retain evidence of the disk wipe.
+Laptop wipes must be performed via [scheduling an appointment](/handbook/it/end-user-services/#laptop-wipe-schedules-for-it-analysts) with an IT analyst to wipe the machine and re-install the base operating system, and remove any and all software and configurations that were supplied by GitLab. Laptops must be wiped with [Jamf](https://internal.gitlab.com/handbook/it/endpoint-tools/jamf/) for macOS, and [DriveStrike](https://internal.gitlab.com/handbook/it/endpoint-tools/#drivestrike) for Linux. Using these tools ensures a clean disk wipe is performed and GitLab can retain evidence of the disk wipe.
 
 Under no circumstance should you perform your own disk wipe unless you are doing so at the request of IT to troubleshoot a technical problem with the laptop. If GitLab discovers that a device has not been wiped according to policy, GitLab may act to enforce a remote wipe without notice.
 

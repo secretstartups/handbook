@@ -34,7 +34,7 @@ The SKO core team also includes an executive sponsor (VP, Field Ops) with respon
 | Sub-Team | Responsibilities | Key Collaborators |
 | ------ | ------ | ------ |
 | Event Support & Logistics | - Brand / Design<br>- Budget management<br>- Venue details<br>- Partner Summit logistics<br>- F&B (onsite & offsite)<br>- Registration<br>- Run of show<br>- Event check-in<br>- Signage<br>- Mobile app<br>- Ancillary events (if applicable) | - Brand<br>- Field Enablement<br>- Channel Programs |
-| Content | - Mainstage content<br>- Non-mainstage content<br>- Partner Summit content<br>- Awards & Compensation<br>- Production Video<br><br> ** *see additional details in the [Content Sub-Team Deeper Dive](/handbook/sales/training/SKO/SKO-planning/#content-sub-team-deeper-dive) section below* | ** *see additional details in the [Content Sub-Team Deeper Dive](/handbook/sales/training/SKO/SKO-planning/#content-sub-team-deeper-dive) section below* |
+| Content | - Mainstage content<br>- Non-mainstage content<br>- Partner Summit content<br>- Awards & Compensation<br>- Production Video<br><br> ** *see additional details in the [Content Sub-Team Deeper Dive](/handbook/sales/training/sko/SKO-planning/#content-sub-team-deeper-dive) section below* | ** *see additional details in the [Content Sub-Team Deeper Dive](/handbook/sales/training/sko/SKO-planning/#content-sub-team-deeper-dive) section below* |
 | Communications | - Comms plan<br>- Event copy<br>- Slack channels<br>- Survey planning & execution<br>- Post-event content sharing<br>- Event summary / wrap-up | Events |
 
 ### Content Sub-Team Deeper Dive
@@ -119,7 +119,7 @@ Below is are the criteria used to select submissions for SKO breakout sessions.
 
 **Criteria**
 
-1. Content directly supports the [SKO objectives](/handbook/sales/training/SKO/#sales-kickoff-sko-overview)
+1. Content directly supports the [SKO objectives](/handbook/sales/training/sko/#sales-kickoff-sko-overview)
 1. Proposed session is interactive and takes advantage of in-person modality
 1. High content quality
 1. Fresh content (not a rehash of old ideas or topics)

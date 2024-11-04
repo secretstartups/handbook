@@ -29,8 +29,8 @@ In most cases we work closely with an advocate within an account to drive produc
 
 1. The FMM works with the account team (SAL, AE, SA, TAM) to determine accounts to be targeted and choose the relevant topic ([currrently vailable topics](https://drive.google.com/drive/folders/1L_kd6QudSWcvAKDM-h6oPvvC6LiNj_ER))
 1. The FMM sets up the [event](/handbook/marketing/events/#event-execution) and is hosted on the team member's personal zoom account.
-1. Before the Lunch and Learn session, the participants receive an e-voucher (example value $25), uber eat gift card, Just Eat or similar depending on availability in their area. The FMC will coordinate the advanced purchase of these vouchers and send through a [Reachdesk campaign](/handbook/marketing/marketing-operations/reachdesk/#e-gift-cards-and-reward-pass). Small swag items (e.g Stickers and socks) can be sent instead of food vouchers.
-1. If budget allows, the participants may receive a GitLab swag gift through a [Reachdesk Landing Page](/handbook/marketing/marketing-operations/reachdesk/#creating-a-landing-page)
+1. Before the Lunch and Learn session, the participants receive an e-voucher (example value $25), uber eat gift card, Just Eat or similar depending on availability in their area. The FMC will coordinate the advanced purchase of these vouchers and send through a [Reachdesk campaign](/handbook/marketing/marketing-operations/#e-gift-cards-and-reward-pass). Small swag items (e.g Stickers and socks) can be sent instead of food vouchers.
+1. If budget allows, the participants may receive a GitLab swag gift through a [Reachdesk Landing Page](/handbook/marketing/marketing-operations/#creating-a-landing-page)
 1. All participants are followed up by email with session recording and SDR/SALs direct follow-up.
 
 ## Hosted on Field Marketing Zoom License

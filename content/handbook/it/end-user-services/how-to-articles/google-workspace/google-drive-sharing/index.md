@@ -36,7 +36,7 @@ There are multiple ways to share Google Drive files and folders.
 
 1. Select the `Send` Button
 
-1. You will now see the ![Google Drive File Shared Icon](/handbook/business-technology/end-user-services/how-to-articles/google-workspace/google-drive-sharing/google_drive_file_shared_icon.png) next to the shared file or folder
+1. You will now see the ![Google Drive File Shared Icon](/handbook/it/end-user-services/how-to-articles/google-workspace/google-drive-sharing/google_drive_file_shared_icon.png) next to the shared file or folder
 
 ## How to Access Shared Google Drive Files
 

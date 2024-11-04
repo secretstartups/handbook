@@ -118,7 +118,7 @@ The data plaform along with the data it delivers is consitent in availability an
 The Data Platform doesn't put people at risk
 
 * Data is only accisible to those authorized by documented approvals
-* The GitLab data team will stick with the [Principle of Least Privilege](/handbook/security/access-management-policy/#principle-of-least-privilege) regarding the authorization and authentication
+* The GitLab data team will stick with the [Principle of Least Privilege](/handbook/security/security-and-technology-policies/access-management-policy/#principle-of-least-privilege) regarding the authorization and authentication
 
 ### Is Maintainable
 

@@ -33,11 +33,11 @@ Allocadia integrates with multiple systems described further [below](/handbook/m
 
 ## Partnership with Finance
 
-Marketing and Finance partner together when using Allocadia. The [Marketing Finance handbook](/handbook/finance/financial-planning-and-analysis/marketing-finance/#important-dates) page lists out:
+Marketing and Finance partner together when using Allocadia. The [Marketing Finance handbook](https://internal.gitlab.com/handbook/finance/financial-planning-and-analysis/marketing-finance/#important-dates) page lists out:
 
-1. [Finance Marketing Allocadia Training](/handbook/finance/financial-planning-and-analysis/marketing-finance/#allocadia-training-materials)
-1. [Financial terminology](/handbook/finance/financial-planning-and-analysis/marketing-finance/#finance-terminology) as it relates to your view in Allocadia
-1. [Important dates](/handbook/finance/financial-planning-and-analysis/marketing-finance/#important-dates) to be aware of between finance and marketing
+1. [Finance Marketing Allocadia Training](https://internal.gitlab.com/handbook/finance/financial-planning-and-analysis/marketing-finance/#allocadia-training-materials)
+1. [Financial terminology](https://internal.gitlab.com/handbook/finance/financial-planning-and-analysis/marketing-finance/#finance-terminology) as it relates to your view in Allocadia
+1. [Important dates](https://internal.gitlab.com/handbook/finance/financial-planning-and-analysis/marketing-finance/#important-dates) to be aware of between finance and marketing
 1. And more!
 
 ## Allocadia Internal communication

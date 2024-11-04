@@ -286,7 +286,7 @@ Due at least 4-5 business days before the end of the month, Digital Marketing wo
 
 Once the month has ended, PMG will update the accruals sheet with actuals (final invoice amounts) with related invoice numbers, and there is typically a small buffer between estimated accruals & actuals. PMG will email PDF invoices to Digital Marketing and GitLab Accounting, automatically pushing invoices into Coupa for approval. Digital Marketing will verify that invoices are 1:1 match with actuals in the accrual sheet, then approve the invoices in Coupa.
 
-For information on the Financial Planning processes & timelines for Digital Marketing, please follow the [Marketing Finance handbook page](/handbook/finance/financial-planning-and-analysis/marketing-finance/).
+For information on the Financial Planning processes & timelines for Digital Marketing, please follow the [Marketing Finance handbook page](https://internal.gitlab.com/handbook/finance/financial-planning-and-analysis/marketing-finance/).
 
 ### Digital Campaign Ad Specs {#specs}
 

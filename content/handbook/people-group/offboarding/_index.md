@@ -13,7 +13,7 @@ If you have any questions around the offboarding process, please be sure to revi
 
 ### Offboarding Support
 
-For system access questions and [laptop wipes](/handbook/business-technology/end-user-services/gitlab-laptop-offboarding/) related to offboarding, send an email to `itops@gitlab.com`.
+For system access questions and [laptop wipes](/handbook/it/end-user-services/gitlab-laptop-offboarding/) related to offboarding, send an email to `itops@gitlab.com`.
 
 For payroll questions or outstanding expense claims, please reach out to either `uspayroll@gitlab.com` or `nonuspayroll@gitlab.com`.
 

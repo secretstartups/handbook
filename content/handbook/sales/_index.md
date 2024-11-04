@@ -16,7 +16,7 @@ description: "The GitLab Field team includes multiple functions: Enterprise Sale
 | **Where to Begin** | **Field Enablement Resources** | **Sales Processes & Standard Operating Procedures** | **Sales Meetings & Events** |
 | ------ | ------ | ------ | ------ |
 | [Sales & Customer Success Onboarding](/handbook/sales/onboarding/) | [Sales Training](/handbook/sales/training/) | [Sales Order Processing](/handbook/sales/field-operations/order-processing/) | [President's Club](/handbook/sales/club/) |
-| [Commercial Sales](/handbook/sales/commercial/)  |[Sales Enablement Sessions](/handbook/sales/training/sales-enablement-sessions/) | [Engage & Educate the Customer](/handbook/sales/sales-operating-procedures/engage-and-educate-the-customer/) |[Sales Kickoff](/handbook/sales/training/SKO/) |
+| [Commercial Sales](/handbook/sales/commercial/)  |[Sales Enablement Sessions](/handbook/sales/training/sales-enablement-sessions/) | [Engage & Educate the Customer](/handbook/sales/sales-operating-procedures/engage-and-educate-the-customer/) |[Sales Kickoff](/handbook/sales/training/sko/) |
 | [Enterprise Sales](/handbook/sales/playbook/) |  [Command of the Message](/handbook/sales/command-of-the-message/)  |  [Facilitate The Opportunity](/handbook/sales/sales-operating-procedures/facilitate-the-opportunity/)  | [Sales Meetings](/handbook/sales/sales-meetings/) |
 | [Inside Sales](/handbook/sales/insidesales/) | [Most Commonly Used Sales Resources](https://gitlab.highspot.com/spots/615dd7e3911d70c4887812a7) | [Deal Closure](/handbook/sales/sales-operating-procedures/deal-closure/) |  |
 | [Channels](/handbook/sales/channel/#channels-handbook)  | [Field Certification Program](/handbook/sales/training/field-certification/) | [Retain and Expand](/handbook/sales/sales-operating-procedures/retain-and-expand/) |  |
@@ -76,7 +76,7 @@ The Sales team is led by the [Chief Revenue Officer (CRO)](/job-families/sales/c
 - [VP, Enterprise Sales](/job-families/sales/vp-enterprise-sales/)
 - [VP, Commercial Sales](/job-families/sales/vp-of-commercial-sales/) (Mid-Market and SMB)
 - [VP, Field Operations](/job-families/sales/vp-of-field-operations/)
-- [VP, Customer Success](/job-families/sales/vp-of-customer-success/)
+- [VP, Customer Success](/job-families/sales/customer-success-leadership/#vice-president-of-customer-success)
 - [VP, Global Channels](/job-families/sales/vp-of-global-channels/)
 - [VP, Alliances](/job-families/alliances/alliances-job-family-matrix/)
 - [Chief of Staff, CRO](/job-families/sales/chief-of-staff-cro/)

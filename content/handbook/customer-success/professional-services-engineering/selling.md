@@ -9,7 +9,7 @@ You can also [watch the sales enablement session](/handbook/customer-success/pro
 Please remember to follow the [Rules of Engagement for Selling Professional Services](/handbook/sales/selling-professional-services) with the following highlights:
 
 - Always start by finding out if your customer/prospect has a qualified and preferred professional services partner and start by engaging with that partner to explore a solution for your customer/prospect
-- **SMB** clients are welcome to purchase [SKU offerings](/services/catalog/). Please route all custom **SMB** needs through professional services Channel Partners as outlined in the [ROE](/handbook/sales/selling-professional-services). Please see additional detail in the FAQ below.
+- **SMB** clients are welcome to purchase [SKU offerings](https://about.gitlab.com/services/catalog/). Please route all custom **SMB** needs through professional services Channel Partners as outlined in the [ROE](/handbook/sales/selling-professional-services). Please see additional detail in the FAQ below.
 - Remember to update the SFDC Professional Services Opportunity to **"closed lost"** if for any reason after you have created a GitLab Professional Services Opportunity in SFDC the work is transitioned to being sold and delivered by a partner.  Then make sure that any Services Attach Registration that the partner registers for that work is attached to the relevant Licensing Opportunity in SFDC.  Please work with the Channel Account Manager for the partner (found in SFDC account for the partner) if you have any questions about this process.
 
 ## Workflow for GitLab selling Professional Services
@@ -33,7 +33,7 @@ graph LR;
 
 ### Step 1: Identify the right service
 
-The SAE/ISR can find the general services the PS team offers on the [services page](/services/) or for more details specific SKU offerings, on the [full catalog](/services/catalog/). The SAE/ISR can pull the SA/CSM in for help selecting services needed based on customer requirements.
+The SAE/ISR can find the general services the PS team offers on the [services page](/services/) or for more details specific SKU offerings, on the [full catalog](https://about.gitlab.com/services/catalog/). The SAE/ISR can pull the SA/CSM in for help selecting services needed based on customer requirements.
 
 ### Step 2: Create the opportunity in SFDC
 
@@ -53,7 +53,7 @@ After following the above process steps, click `Generate PDF` to obtain an Order
 
 ### Custom-Scoped Services
 
-If the account team (SAE/ISR/SA/CSM) determines that the customer requires additional services outside of those listed in the [full catalog](/services/catalog/), they should initiate a scoping engagement with the PS team by opening the [Services Calculator](http://services-calculator.gitlab.io/) and submitting with the information required (customer name, GitLab username and email address). If you don't know the specifics, you can submit with the defaults. This will add an issue to the  PS Engagement Manager's queue to follow up with you on next steps. Check out the [detailed steps below](#custom-scoped-services-detailed-workflow) for custom-scoped engagements for more details.
+If the account team (SAE/ISR/SA/CSM) determines that the customer requires additional services outside of those listed in the [full catalog](https://about.gitlab.com/services/catalog/), they should initiate a scoping engagement with the PS team by opening the [Services Calculator](http://services-calculator.gitlab.io/) and submitting with the information required (customer name, GitLab username and email address). If you don't know the specifics, you can submit with the defaults. This will add an issue to the  PS Engagement Manager's queue to follow up with you on next steps. Check out the [detailed steps below](#custom-scoped-services-detailed-workflow) for custom-scoped engagements for more details.
 
 ### Instructions for creating a Professional Services Quote
 
@@ -110,7 +110,7 @@ Remember to update the SFDC Professional Services Opportunity to **"closed lost"
 
 ### Do we have set SKUs I can use?
 
-Yes - for off the shelf items, we have [SKUs](/services/catalog/).
+Yes - for off the shelf items, we have [SKUs](https://about.gitlab.com/services/catalog/).
 
 ### What are our daily or hourly rates?
 
@@ -134,6 +134,6 @@ If a customer is upgrading from CE to EE, Professional Services should be engage
 
 ### What options exist for SMB Customers?
 
-SMB customers often do not have sufficient budget for our professional services offerings, and we traditionally try to meet their needs through [channel partners](https://about.gitlab.com/partners/). If your client had budget for one or more of our [SKUs](/services/catalog/), you are welcome to attach the SKU and do not need to create a scoping issue with the professional services team.
+SMB customers often do not have sufficient budget for our professional services offerings, and we traditionally try to meet their needs through [channel partners](https://about.gitlab.com/partners/). If your client had budget for one or more of our [SKUs](https://about.gitlab.com/services/catalog/), you are welcome to attach the SKU and do not need to create a scoping issue with the professional services team.
 
 Please note: Migrations to GitLab SaaS currently require the use of an admin token, which is unavailable to partners. Therefore, these migrations **must** run through our GitLab professional services team currently.

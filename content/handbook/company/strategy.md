@@ -135,7 +135,7 @@ To make sure our goals are clearly defined and aligned throughout the organizati
 
 ## North Star KPI
 
-Our North Star KPI is [revenue](/handbook/company/kpis/#sales-kpis) vs. plan. While our revenue data is [limited access](/handbook/communication/confidentiality-levels/#limited-access) given that it is [material nonpublic information (MNPI)](/handbook/product/product-safe-guidance/#materially-non-public-information), revenue versus plan is a leading indicator of our likelihood of success in achieving revenue targets. Predictable revenue attainment is critical for continued business success.
+Our North Star KPI is [revenue](/handbook/company/kpis/#sales-kpis) vs. plan. While our revenue data is [limited access](/handbook/communication/confidentiality-levels/#limited-access) given that it is [material nonpublic information (MNPI)](/handbook/product/product-processes/product-safe-guidance/#materially-non-public-information), revenue versus plan is a leading indicator of our likelihood of success in achieving revenue targets. Predictable revenue attainment is critical for continued business success.
 
 ## Plan
 

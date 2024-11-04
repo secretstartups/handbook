@@ -29,7 +29,7 @@ The Annual Plan process [finishes two quarters after](/handbook/company/offsite/
 1. As a result, [OKRs](/handbook/company/okrs/) are aligned to one of the yearlies.
 1. While [OKRs](/handbook/company/okrs/) are not directly aligned to one of the three pillars of the [three year strategy](/handbook/company/strategy/#three-year-strategy), since OKRs are aligned to one of the Yearlies, and the Yearlies are aligned to our strategic pillars, OKRs are indirectly aligned to GitLab's strategy.
 1. [OKRs](/handbook/company/okrs/) have a duration of one quarter while Yearlies are annual goals with a duration of a year.
-1. [OKRs](/handbook/company/okrs/) are composed of Objectives and Key Results. Yearlies have an annual goal and a few key supporting goals and initiatives. [Top Cross-Functional Iniative](/handbook/company/top-cross-functional-initiatives/) exit outcomes will be listed among supporting goals.
+1. [OKRs](/handbook/company/okrs/) are composed of Objectives and Key Results. Yearlies have an annual goal and a few key supporting goals and initiatives. Top Cross-Functional Iniative exit outcomes will be listed among supporting goals.
 
 ## Cadence
 

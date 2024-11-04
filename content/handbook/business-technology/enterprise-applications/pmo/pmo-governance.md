@@ -110,7 +110,7 @@ Each program should have an operating rhythm including when the core team meets 
 
 #### Rolly - Weekly Roll Up Reporting
 
-The IT Program Manager updates the [Rolly](/handbook/business-technology/pmo/#weekly-roll-up-reporting) section in the project Epic every week to provide regular updates about the on going program.
+The IT Program Manager updates the [Rolly](/handbook/business-technology/enterprise-applications/pmo/#weekly-roll-up-reporting) section in the project Epic every week to provide regular updates about the on going program.
 
 #### Status Report
 

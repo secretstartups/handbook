@@ -40,7 +40,7 @@ Note: Trademarks aren't just words.  As mentioned above, trademarks can be symbo
 - **Sounds**  NBC trademarked the chimes that you hear during intermissions. Intel has a trademarked sound.
 - **Shapes** One of the most famous non-word trademarks is the shape of a Coke bottle.  Once you start getting into how something looks, it is called trade dress. Trade dress is a fancy term for trademarked product presentation.
 
-Marketing owns GitLab's [Brand Guidelines](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/).
+Marketing owns GitLab's [Brand Guidelines](https://design.gitlab.com/brand-overview/resources).
 
 ### Third-party use of GitLab trademarks on marketing materials
 

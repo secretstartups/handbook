@@ -37,7 +37,7 @@ The parent google group of the sales team is sales-all. Several child groups fal
 | sales-ops | team | Members of the sales operations team |
 | field-enablement | team | Members of the field enablement team |
 
-To confirm if you are in a particular Google Group, see the [Google Workspace Group Membership Reports.](/handbook/business-technology/end-user-services/#automated-group-membership-reports-for-managers) To gain access to new Google Groups, please [fill out an access request (AR) form.](/handbook/it/end-user-services/onboarding-access-requests/access-requests/)
+To confirm if you are in a particular Google Group, see the [Google Workspace Group Membership Reports.](/handbook/it/end-user-services/#automated-group-membership-reports-for-managers) To gain access to new Google Groups, please [fill out an access request (AR) form.](/handbook/it/end-user-services/onboarding-access-requests/access-requests/)
 
 ## Slack Channels and Groups
 

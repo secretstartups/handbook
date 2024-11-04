@@ -170,4 +170,4 @@ A Senior Director of Professional Services (Delivery) is responsible for oversee
 
 ## Career Ladder
 
-The next steps for the Manager, Professional Services Job Family would be to move into the [VP, Customer Success](/job-families/sales/vp-of-customer-success/) Job Family.
+The next steps for the Manager, Professional Services Job Family would be to move into the [VP, Customer Success](/job-families/sales/customer-success-leadership/#vice-president-of-customer-success) Job Family.

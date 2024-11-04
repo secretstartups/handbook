@@ -60,7 +60,7 @@ Ensuring everyone can contribute requires a conscious effort to ensure the commu
 #### Community Programs
 
 * Free community programs:
-  * [OSS](/handbook/marketing/developer-relations/community-programs/opensource-program/)
+  * [OSS](/handbook/marketing/developer-relations/community-programs/open-source-program/)
   * [Developer Evangelism](/handbook/marketing/developer-relations/developer-advocacy/)
   * [Education Program](/handbook/marketing/developer-relations/community-programs/education-program/)
   * [StartUps Program](/handbook/marketing/developer-relations/community-programs/startups-program/)
