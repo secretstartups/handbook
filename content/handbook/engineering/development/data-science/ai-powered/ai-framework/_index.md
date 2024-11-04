@@ -50,16 +50,8 @@ Depending on the context here are the most appropriate ways to reach out to the 
 #### Team Meetings
 
 1. **Weekly Refinement Assignment Meeting**
-   * **When:** Every Monday, alternating between 09:00 AM GMT+1 and 17:00 PM GMT+1
+   * **When:** Every Monday, alternating between 14:00 AM GMT+1 and 19:00 PM GMT+1
    * **What:** This meeting replaces the previous Work Assignment Meeting and focuses on refining issues. The Engineering Manager and Product Manager ensure all issues are properly refined.
-
-2. **Duo Workflow Weekly**
-   * **When:** Every Monday at 17:00 – 18:00 PM GMT+1 Wednesday at 09:00 – 10:00 GMT+1.
-   * **What:** This meeting focuses on reviewing Duo Workflow related items.
-
-3. **Think BIG sessions**
-   * **When:** Once a month
-   * **What:** This session will alternate between EMEA/AMER and APAC regions every other month, focusing on broad discussions about group dynamics and strategic planning.
 
 ### Shared calendars
 
@@ -120,6 +112,38 @@ These guidelines apply to all issues we use for planning and scheduling work wit
 * Design and frontend engineering use one issue. The same issues moves from workflow::design to workflow::refinement to workflow::ready for development. This ensures that there is a single source of truth for customer-facing issues. If a design issue is too large to be implemented, it may be promoted to an epic.
 
 It's okay to create specific engineering-driven implementation issues for more complex features. These would be called **Child Issues** and they should always link back to their parent. If one issue would spawn many child issues, consider creating an Epic.
+
+### 🏋 Weighting and Estimation Process
+
+#### New OKR Implementation (3-Milestone Learning Period)
+
+* **Duration**: 3 milestones
+* **Goal**: Implement and refine a lightweight weighting process
+* **Ownership**: Issue assignee is the weight owner
+* **Process**: 
+  * Initial weight assignment when issue is created
+  * Weight updates as understanding evolves
+  * Process review after 3 milestones
+
+#### Weight Guidelines
+
+Issues are weighted using the Fibonacci sequence (0, 1, 2, 3, 5, 8, 13+):
+
+* **Weight 0:** Smallest issues (typos, minor formatting, simple code changes without tests)
+* **Weight 1:** Simple issues with minimal uncertainty (good for new contributors)
+* **Weight 2:** Straightforward issues requiring multiple code/test updates
+* **Weight 3:** Larger issues with some complexity but manageable scope
+* **Weight 5:** Should typically be broken down; acceptable for large manual updates with low risk
+* **Weight 8/13+:** Placeholder weights indicating need for breakdown; too large or uncertain for immediate implementation
+
+#### Weight Update Process
+
+1. Initial weight assigned upon issue creation
+2. Assignee owns responsibility for weight accuracy
+3. Weights can be adjusted as understanding of complexity evolves
+4. Team reviews weight accuracy during milestone retrospectives
+
+This new process will be evaluated after 3 milestones to assess effectiveness and make necessary adjustments.
 
 ## 📝 AI Feature Evaluations Guidelines - Evaluate like I am 5
 
