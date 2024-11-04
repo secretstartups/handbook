@@ -150,11 +150,11 @@ The following teams comprise the sub-department:
   - Threat Insights group - [handbook](/handbook/engineering/development/sec/govern/threat-insights/)
 - Secure stage - [handbook](/handbook/engineering/development/sec/secure/)
   - Composition Analysis group - [handbook](/handbook/engineering/development/sec/secure/composition-analysis/)
-  - Dynamic Analysis group - [handbook](/handbook/engineering/development/sec/secure/dynamic-analysis/)
+  - Dynamic Analysis group - [handbook](/handbook/engineering/development/sec/secure/dynamic-analysis/dynamic-analysis/)
   - Static Analysis group - [handbook](/handbook/engineering/development/sec/secure/static-analysis/)
   - Secret Detection group - [handbook](/handbook/engineering/development/sec/secure/secret-detection/)
   - Vulnerability Research group - [handbook](/handbook/engineering/development/sec/secure/vulnerability-research/)
-  - API Security - [handbook](/handbook/engineering/development/sec/secure/api-security)
+  - API Security - [handbook](/handbook/engineering/development/sec/secure/dynamic-analysis/api-security/)
 
 It is important to delineate who the EM and PM DRIs are for every functionality, especially where this may not be obvious. This is documented on a dedicated [delineation page](delineate-sec.html).
 

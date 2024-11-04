@@ -50,7 +50,7 @@ Team Page: [Static Analysis](static-analysis/)
 
 ### Dynamic Analysis
 
-Team Page: [Dynamic Analysis](dynamic-analysis/)
+Team Page: [Dynamic Analysis](dynamic-analysis/dynamic-analysis.md)
 
 {{< team-by-manager-role role="Engineering(.*)Manager(.*)Secure:Dynamic Analysis" team="Engineer" >}}
 

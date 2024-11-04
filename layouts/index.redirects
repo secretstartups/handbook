@@ -179,3 +179,7 @@
 
 # about.gitlab.com handbook guide redirects - remove 2025-05-25
 /handbook/product/markdown-guide/ https://about.gitlab.com/community/markdown-guide-middleman/ 301
+
+# Dynamic analysis page moved - remove 2025-02-03
+/handbook/engineering/development/sec/secure/dynamic-analysis/ /handbook/engineering/development/sec/secure/dynamic-analysis/dynamic-analysis/ 301
+/handbook/engineering/development/sec/secure/api-security/ /handbook/engineering/development/sec/secure/dynamic-analysis/api-security/ 301
