@@ -76,6 +76,14 @@ This feature was recently released and is the direction our product team is movi
 
 - [Migrated project items (direct transfer)](https://docs.gitlab.com/ee/user/group/import/index.html#migrated-project-items-beta)
 
+#### GitLab Log Analysis Tool
+
+[This tool](https://gitlab.com/gitlab-org/foundations/import-and-integrate/gitlab-logs-analysis) could come in handy when one needs to debug a filed Direct Transfer migration.
+
+It spins up a complete ELK Stack (Elasticsearch, Logstash, Kibana) environment specifically tailored for GitLab logs.
+
+Clone the repo and then with just a single command, the environment is ready to go! Customer’s logs will automatically get indexed, and Kibana will launch with pre-configured dashboards, giving you an immediate visual analysis of GitLabSOS, KubeSOS, or GDK logs.
+
 ### 3. Congregate
 
 [Congregate](https://gitlab-org.gitlab.io/professional-services-automation/tools/migration/congregate/) - used by [GitLab Professional Services](https://about.gitlab.com/services/) - is GitLab's most mature migration solution and supports many options. **Note that migrations to SaaS require the involvement of GitLab PS due to restricted access to GitLab SaaS (multi-tenant) data.** More information about the latter can be found [here](/handbook/customer-success/professional-services-engineering/engagement-mgmt/scoping-information/migrations/SM-to-SaaS/#faq).
