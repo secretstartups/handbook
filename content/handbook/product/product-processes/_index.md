@@ -1241,39 +1241,39 @@ new features that we release, and help them to adopt all our own features.
 
 ### PCSAT responder outreach
 
-Each quarter we reach out to [Product Customer Satisfaction (PCSAT)](/handbook/product/ux/performance-indicators/csat) survey responders who opted-in to speak with us. This is a fantastic opportunity to build bridges with users and for Product Managers to get direct feedback for their specific product area. If a customer has taken the time to share a verbatim with us and offered to have a conversation, they deserve to be followed up with - especially if that customer is dissatisfied with GitLab.
+Each quarter, we reach out to [Product Customer Satisfaction (PCSAT)](/handbook/product/ux/performance-indicators/csat) survey responders who opted-in to speak with us. This is a fantastic opportunity to build bridges with users and for Product Managers and Product Designers to get direct feedback for their specific product area. If a customer has taken the time to share a verbatim with us and offered to have a conversation, they deserve to be followed up with - especially if that customer is dissatisfied with GitLab.
 
 When we speak to users and customers directly during this workflow, we must be mindful of [Product Legal guidance](/handbook/product/product-safe-guidance/) and the [SAFE framework](/handbook/legal/safe-framework/), just as we would be with any other documentation or communication we do as Product Managers.
 
 #### Overall process
 
 1. UX Researcher DRI opens a Responder Outreach issue and notifies Product team members in the comments that the issue is ready.
-1. Product leaders go through the list of PCSAT responders who have agreed to a follow up conversation. Those Product leaders either sign up for outreach or tag in their Group Product Managers and Product Managers as appropriate.
-1. Group Product Managers and Product Managers then view the sheet and confirm who they want to talk with.
+1. Product team members go through the list of PCSAT responders who have agreed to a follow up conversation. Those team members either sign up for outreach or tag in Product Managers or Product Designers where appropriate.
+1. Product team members then view the sheet and confirm who they want to talk with.
 1. Product team members reach out to users and schedule interviews.
 1. Product team members add notes and video recordings from the interviews to the PCSAT column in this [Dovetail project](https://gitlab.dovetailapp.com/projects/36nmGVKvkaT7SGMXtUeHVg/v/70xPTo5RzTRZnCNEVz1fWH).
-1. Product team members mark which users they interviewed and include any additional notes about the session in the follow up users sheet.
-1. As Product team members create or continue to work on issues related to PCSAT follow up interviews, they use the following label (CSAT::Responder Outreach) to help the UX Research team track the impact of these interviews.
+1. Product team members mark which users they interviewed, the link to the session recording, and include any additional notes about the session in the follow up users sheet.
+1. As Product team members create or continue to work on issues related to PCSAT follow up interviews, they should the following label (CSAT::Responder Outreach) to help the UX Research team track the impact of those interviews.
 
 **Note:** GitLab Customer Success Managers will also follow the process above so please be mindful to coordinate with them if they reach out or if they've already signed up for a user. Users should never be contacted by more than one GitLab team member. Users should never be contacted more than twice if they do not respond to an outreach email.
 
 #### Instructions for product leaders
 
-1. Look at the `PCSAT Follow Up Users` Google Sheet that will be shared with you in an issue. Identify any users you think a Group Product Manager or Product Manager from your group would be interested in speaking to. Assign the specific Group Product Manager or Product Manager to reach out to that user by putting their name in the appropriate column. This will also serve as a "hold" on the user and if others are interested they will need to coordinate with this Group Product Manager or Product Manager.
-1. If you think another Group Product Manager or Product Manager in your group or another group would be interested in speaking to the same customer, consider notifying that Group Product Manager or Product Manager for the sake of efficiency.
-1. If you're interested in having one of your Group Product Managers or Product Managers speak with a user that has already been "claimed" by another GitLab team member, have your Group Product Manager or Product Manager reach out to that team member so they can coordinate a joint conversation. **We need to be mindful of our users' time and should limit this outreach to a single conversation rather than successive conversations.**
+1. Look at the `PCSAT Follow Up Users` Google Sheet that will be shared with you in an issue. Identify any users you think a Product Manager or Product Designer from your group would be interested in speaking to. Assign the specific Product Manager or Product Designer to reach out to that user by putting their name in the appropriate column. This will also serve as a "hold" on the user and if others are interested they will need to coordinate with that team member.
+1. If you think another Product Manager or Product Designer in your group or another group would be interested in speaking to the same customer, consider notifying that team member for the sake of efficiency.
+1. If you're interested in having one of your Product Managers or Product Designers speak with a user that has already been "claimed" by another GitLab team member, have your Product Manager or Product Designer reach out to that team member so they can coordinate a joint conversation. **We need to be mindful of our users' time and should limit this outreach to a single conversation rather than successive conversations.**
 
-#### Instructions for Group Product Managers and Product Managers
+#### Instructions for Product Managers and Product Designers
 
-1. Your Group Product Manager Director will have put your name next to users they felt were relevant for you to speak with.
+1. Another team member may put your name next to users they felt were relevant for you to speak with.
 1. If you are unable or unwilling to speak with the customer, please speak with your manager so they can find a replacement.
-1. If you see other users that have not been assigned to another Product Manager and you feel may be relevant to speak with, assign that user to yourself.
-1. If you see other users that have been assigned to another Product Manager, reach out to that Product Manager and coordinate a joint conversation. It is very important you do not reach out to users that have been assigned to other Product Managers as we want to be mindful of our users time and not risk negative sentiment due to over-communication. We are limiting these conversations to one per user for these reasons.
+1. If you see other users that have not been assigned to another team member and you feel may be relevant to speak with, assign that user to yourself.
+1. If you see other users that have been assigned to another team member, reach out to that team member and coordinate a joint conversation. It is very important you do not reach out to users that have been assigned to other team member as we want to be mindful of our users time and not risk negative sentiment due to over-communication. We are limiting these conversations to one per user for these reasons.
 
 #### Process for reaching out to users
 
 1. Calendly is the best method for scheduling users. [Set up your free Calendly account](https://calendly.com/signup) if you haven't done so. Add details to the invite description describing yourself and the conversation purpose. Also add your personal Zoom link, either via connecting your Zoom account or pasting in your personal Zoom URL.
-1. You'll need to add two extra questions to the invite form in order to ask for consent to record, example below. Please use these questions as written in the example as they closely mirror the content that has been validated by the UX Research Team.
+1. You'll need to add three extra questions to the invite form in order to ask for consent to record, example below. Please use these questions as written in the example as they closely mirror the content that has been validated by the UX Research Team.
 1. Draft an email that you'll send to users. Example copy is below. You can re-phrase things as you wish but make sure you still cover the same points as the example.
 1. **BE ON TIME TO YOUR CALL**. Better yet, be 2 minutes early. Be ready to coach people through getting Zoom to work properly. Make sure everyone on the call introduces themselves.
 1. If people have agreed to recording, still ask them once again if it's OK if you record before turning it on. Obviously, do not record people who did not give consent.
@@ -1294,7 +1294,7 @@ When we speak to users and customers directly during this workflow, we must be m
 > Best,
 > Your name
 
-**Copy for two extra questions in Calendly invite**:
+**Copy for three extra questions in Calendly invite**:
 
 > To make sure we correctly represent what you say in any followup issues or discussions, we would like to record this conversation. Please indicate if you give permission to record this conversation.
 >
@@ -1307,6 +1307,12 @@ When we speak to users and customers directly during this workflow, we must be m
 > Yes, you may share the recording publicly on GitLab.
 >
 > No, you MAY NOT share the recording publicly on GitLab.
+> 
+> I agree that by participating in this, and any future, research activities with GitLab, GitLab B.V. will retain all intellectual property rights in any suggestions, ideas, enhancement requests, feedback, or other recommendations I provide which are hereby assigned to GitLab B.V.
+>
+> Yes
+>
+> No
 
 #### After the call
 
@@ -1314,7 +1320,7 @@ When we speak to users and customers directly during this workflow, we must be m
 1. Collect all notes that were taken and Zoom recording from the interview and add them to the PCSAT column in this [Dovetail project](https://gitlab.dovetailapp.com/projects/36nmGVKvkaT7SGMXtUeHVg/v/70xPTo5RzTRZnCNEVz1fWH).
 1. If you told the user you'd follow up on anything or promised to send them further information, make sure you do so, ideally within two business days.
 1. Go back to the spreadsheet and mark that you spoke to a user in the _Status_ column.
-1. If you create any epics/issues to address feedback gathered in the calls, add the label `CSAT:Responder Outreach` and link them to the corresponding PCSAT responder outreach issue from that quarter.
+1. If you create any epics/issues to address feedback gathered in the calls, add the label `CSAT::Responder Outreach` and link them to the corresponding PCSAT responder outreach issue from that quarter.
 
 Note: It's important to tag your PCSAT related issues to help tracking/reporting such as the [improvement slides](https://docs.google.com/presentation/d/1ZXEfR1lo5y5tpRi0i5l-OSX3v3wMe6jepjJcZfKyTvw/edit#slide=id.ge2b883c896_6_0) in Product Key Reviews.
 
