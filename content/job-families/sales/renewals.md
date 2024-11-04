@@ -8,7 +8,7 @@ The Renewals job family delivers to an essential moment in the customer journey,
 
 ### Senior Director, Renewals
 
-The Senior Director, Renewals reports to the [Vice President of Customer Success](/job-families/sales/vp-of-customer-success/).
+The Senior Director, Renewals reports to the [Vice President of Customer Success](/job-families/sales/customer-success-leadership/#vice-president-of-customer-success).
 
 #### Senior Director, Renewals Job Grade
 

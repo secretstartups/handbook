@@ -49,7 +49,7 @@ The following links contain frequently asked security, legal & privacy, and avai
 
 ### Business continuity
 
-- [Business Continuity Plan](/handbook/business-technology/gitlab-business-continuity-plan/)
+- [Business Continuity Plan](/handbook/business-technology/entapps-documentation/policies/gitlab-business-continuity-plan/)
 - [Business Impact Analysis]({{< ref "business-impact-analysis" >}})
 - [Information System Contingency Plan]({{< ref "Information-System-Contingency-Plan-ISCP" >}})
 

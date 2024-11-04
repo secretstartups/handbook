@@ -6,7 +6,7 @@ description: >-
 
 ## Using Jobs to be Done in mixed methods research
 
-JTBD can be used in many UX research methods, from surveys to usability benchmarking. Once you validate your [JTBD through interviews](/handbook/product/ux/jobs-to-be-done/deep-dive/#how-do-i-discover-jtbd-relevant-to-my-group) and create your JTBD Canvas, you can use pieces of the canvas to inform numerous GitLab processes. For example, you can use the needs and circumstances of your jobs to help you increase the realism and readability of your solution validation tests. Likewise, the main jobs can help you [create recruitment screener](https://docs.google.com/document/d/13ywnQHXOHNgF4F4IcJksAqrnyI0-si1R2MbsRS-Rgdc/edit#heading=h.47623lbekxlj) options to find the right participants for your study.
+JTBD can be used in many UX research methods, from surveys to usability benchmarking. Once you validate your [JTBD through interviews](/handbook/product/ux/jobs-to-be-done/#how-do-i-discover-jtbd-relevant-to-my-group) and create your JTBD Canvas, you can use pieces of the canvas to inform numerous GitLab processes. For example, you can use the needs and circumstances of your jobs to help you increase the realism and readability of your solution validation tests. Likewise, the main jobs can help you [create recruitment screener](https://docs.google.com/document/d/13ywnQHXOHNgF4F4IcJksAqrnyI0-si1R2MbsRS-Rgdc/edit#heading=h.47623lbekxlj) options to find the right participants for your study.
 
 ### Using JTBD to help build Recruitment Screeners
 
@@ -18,7 +18,7 @@ For example: Say we have a study that needs security professionals using the vul
 
    Using the [JTBD for the Secure and Govern](/handbook/product/ux/stage-group-ux-strategy/sec/jtbd/#job-statements) stages, we could identify two or three ideal jobs/job performers for our study. Look at these job statements for example: "I identify risk in my org's assets" and "I address detected business-critical vulnerabilities." Additionally, we can include jobs from other workflows in the Secure section if we want to include invalid options to weed out unfit candidates. This screener question would be a handful of options that participants can select, and the result is a participant that accurately reflects your ideal candidate.
 
-To make it easier, you can save all of the main jobs for your stage as a template and allow only selected ones for each study you have, like in [this example](https://docs.google.com/document/d/1317XpsPeRBdpMb3rrVnPPPSR90xVyiWAJI6IZsot3PM/edit?usp=sharing). If participants do not match their main job, that can signal you to go back and accurately check how you [discovered your JTBD](/handbook/product/ux/jobs-to-be-done/deep-dive/#how-do-i-discover-jtbd-relevant-to-my-group).
+To make it easier, you can save all of the main jobs for your stage as a template and allow only selected ones for each study you have, like in [this example](https://docs.google.com/document/d/1317XpsPeRBdpMb3rrVnPPPSR90xVyiWAJI6IZsot3PM/edit?usp=sharing). If participants do not match their main job, that can signal you to go back and accurately check how you [discovered your JTBD](/handbook/product/ux/jobs-to-be-done/#how-do-i-discover-jtbd-relevant-to-my-group).
 
 ### Using JTBD to help write Solution Validation Scripts
 
@@ -28,7 +28,7 @@ You can follow these steps to incorporate JTBD within your script:
 
 1. Identify the main job your user is trying to accomplish when using your feature. The goal of every service or product should be to provide a solution for the user's problem. So, identify which job your design is helping to solve.
 1. It may also be helpful to identify potentially invalid candidates and use their job statements to [create screener questions](https://docs.google.com/document/d/13ywnQHXOHNgF4F4IcJksAqrnyI0-si1R2MbsRS-Rgdc/edit#heading=h.47623lbekxlj) to disqualify those respondents.
-   - Identify the circumstances, process, and needs for that job. This information should be included in the JTBD Canvas when [discovering your jobs](/handbook/product/ux/jobs-to-be-done/deep-dive/#how-do-i-discover-jtbd-relevant-to-my-group).
+   - Identify the circumstances, process, and needs for that job. This information should be included in the JTBD Canvas when [discovering your jobs](/handbook/product/ux/jobs-to-be-done/#how-do-i-discover-jtbd-relevant-to-my-group).
 1. Use the circumstances to establish the scenario(s) at the beginning of your tasks. This provides the participants' context for the tasks, similar to a user's context when performing their role.
    - For example, a previously discovered [JTBD Canvas](https://app.mural.co/t/gitlab2474/m/gitlab2474/1683826081288/619308d762c47782e3ed36fdd6260914c55b0913?sender=u8b3435b2496ba7d2d7ba2448) for the Security Policy group found that users implement security controls when "A new security policy was published in their organization." To turn this circumstance into a scenario for an unmoderated test, we can say, "In this scenario, your organization recently published a new security policy with the parameters provided below. Your task is to implement the necessary security control(s), so your assets comply with the security policy."
 1. Create solution validation tasks by using the job process and smaller jobs within it. This will avoid biasing users with information they may not have otherwise. Since JTBD uses language identified during user research, it gives users a more natural experience.
@@ -43,7 +43,7 @@ You can follow these steps to incorporate JTBD within your script:
 You can follow these general steps to integrate the JTBD Framework into your heuristic evaluation:
 
 1. Identify the job the user is trying to accomplish with your feature. The goal of any product or service is to provide a solution for the user's (or customer's) problem - so identify which of your stage's jobs the design is helping solve.
-1. Identify the process and needs for that job. This information should be included in the JTBD Canvas when [discovering your jobs](/handbook/product/ux/jobs-to-be-done/deep-dive/#how-do-i-discover-jtbd-relevant-to-my-group).
+1. Identify the process and needs for that job. This information should be included in the JTBD Canvas when [discovering your jobs](/handbook/product/ux/jobs-to-be-done/#how-do-i-discover-jtbd-relevant-to-my-group).
 1. Create a planning document for your heuristic evaluation similar to [this template](https://docs.google.com/document/d/1MJXl2d-dYLm8m9sisTmESJcK2D5uThQrLwVMipIopxI/edit?usp=sharing).
 1. Use the job process to identify the steps to take during the evaluation process. This is the general workflow you should follow.
 1. Use the circumstances to establish the scenarios to create for the evaluation. Sometimes it requires following the steps again, but from a different perspective.

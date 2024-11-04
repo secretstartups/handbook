@@ -211,7 +211,7 @@ A: You won't need to action anything until day one! We are going to want you to 
 
 **Q: I already have an existing personal GitLab username, can I use this for my account at GitLab?**
 
-A: Whilst this is possible, it is not a recommended option. If you ever choose to leave GitLab the account will be disabled and you will no longer have any access to it per our [access management policy](/handbook/security/access-management-policy/#reclaiming-gitlab-accounts-during-offboarding). We like to encourage new hires to create a new username as a mark that starts their career at GitLab :) If you would still like to use your personal GitLab username, please reach out to the IT Ops team on day one for them to link this to your GitLab account with the relevant permissions.
+A: Whilst this is possible, it is not a recommended option. If you ever choose to leave GitLab the account will be disabled and you will no longer have any access to it per our [access management policy](/handbook/security/security-and-technology-policies/access-management-policy/#reclaiming-gitlab-accounts-during-offboarding). We like to encourage new hires to create a new username as a mark that starts their career at GitLab :) If you would still like to use your personal GitLab username, please reach out to the IT Ops team on day one for them to link this to your GitLab account with the relevant permissions.
 
 ### GitLab Culture
 

@@ -80,5 +80,5 @@ Corporate Security also supports the onboarding of both types of contractors, ho
 
 ## Policies and Processes
 
-- [Access Management Policy](/handbook/security/access-management-policy/)
+- [Access Management Policy](/handbook/security/security-and-technology-policies/access-management-policy/)
 - [Baseline Entitlements](https://internal.gitlab.com/handbook/it/end-user-services/access-request/baseline-entitlements/)

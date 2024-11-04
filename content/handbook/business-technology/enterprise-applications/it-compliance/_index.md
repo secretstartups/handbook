@@ -69,7 +69,7 @@ The most common ITGCs:
 
 #### Business Continuity Plan
 
-IT Compliance works closely with our Security Compliance team to ensure that GitLab's [Business Continuity Plan](/handbook/business-technology/gitlab-business-continuity-plan/) is up to date.  In the future, we will look to expand or capabilities to further ensure we are doing more in the area of BCP and resiliency to ensure we are meeting all requirements.
+IT Compliance works closely with our Security Compliance team to ensure that GitLab's [Business Continuity Plan](/handbook/business-technology/entapps-documentation/policies/gitlab-business-continuity-plan/) is up to date.  In the future, we will look to expand or capabilities to further ensure we are doing more in the area of BCP and resiliency to ensure we are meeting all requirements.
 
 #### Business Technology Change Management
 

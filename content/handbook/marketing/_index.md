@@ -325,7 +325,7 @@ Handbook Links
 - [Developer Advocacy](/handbook/marketing/developer-relations/developer-advocacy/)
 - [Community Programs](/handbook/marketing/developer-relations/community-programs/)
   - [Education Program](/handbook/marketing/developer-relations/community-programs/education-program/)
-  - [Open Source Program](/handbook/marketing/developer-relations/community-programs/opensource-program/)
+  - [Open Source Program](/handbook/marketing/developer-relations/community-programs/open-source-program/)
 
 ### Corporate Communications
 

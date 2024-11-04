@@ -298,7 +298,7 @@ Using our examples, we can produce a JTBD hierarchy, confirming we operate at th
 
 ### Using JTBD at GitLab
 
-There are many methods a stage group may use to find or define strategic opportunities with JTBD. You can see more detailed uses of JTBD on our [How to use Jobs to Be Done](/handbook/product/ux/jobs-to-be-done/using-jtbd/) handbook page. If you plan on using one of these methods, remember to use [interviews to validate your jobs](/handbook/product/ux/jobs-to-be-done/deep-dive/#how-do-i-discover-jtbd-relevant-to-my-group) before spending too much time learning about inaccurate jobs.
+There are many methods a stage group may use to find or define strategic opportunities with JTBD. You can see more detailed uses of JTBD on our [How to use Jobs to Be Done](/handbook/product/ux/jobs-to-be-done/using-jtbd/) handbook page. If you plan on using one of these methods, remember to use [interviews to validate your jobs](/handbook/product/ux/jobs-to-be-done/#how-do-i-discover-jtbd-relevant-to-my-group) before spending too much time learning about inaccurate jobs.
 
 ## Quick methods to increase confidence
 
@@ -308,7 +308,7 @@ There are many methods a stage group may use to find or define strategic opportu
 
 ## Job stories and user stories
 
-Read "[What is and isn't a JTBD](/handbook/product/ux/jobs-to-be-done/deep-dive/#what-is-a-jtbd)".
+Read "[What is and isn't a JTBD](/handbook/product/ux/jobs-to-be-done/#what-is-a-jtbd)".
 
 [Job stories differ from user stories](https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27) because they are persona, product, and solution agnostic. This allows us to think more deeply about the user's context, motivations, and needs rather than just a *title, task, and goal*.
 
@@ -320,7 +320,7 @@ Read "[What is and isn't a JTBD](/handbook/product/ux/jobs-to-be-done/deep-dive/
 
 Job stories offer a higher-level view of the main objective. However, when written at a lower altitude, they can serve the same function as user stories, guiding your solutions while keeping the Main Job, circumstances, and need in mind.
 
-If you want a detailed breakdown of each segment of the JTBD, learn more about the [structure of a JTBD](/handbook/product/ux/jobs-to-be-done/deep-dive/#how-do-i-structure-a-jtbd). -->
+If you want a detailed breakdown of each segment of the JTBD, learn more about the [structure of a JTBD](/handbook/product/ux/jobs-to-be-done/#how-do-i-structure-a-jtbd). -->
 
 <!--
 ---

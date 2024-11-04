@@ -716,10 +716,10 @@ It is the FMM's responsibility to not only ship assets to events, but to also en
 ### Warehouse Address
 
 AMER Warehouse
-Attn: GitLab AMER FM Store - c/o Kerry Phan  
-Brilliant  
-1605 S Waukegan Rd  
-Waukegan, IL 60085  
+Attn: GitLab AMER FM Store - c/o Kerry Phan
+Brilliant
+1605 S Waukegan Rd
+Waukegan, IL 60085
 415-980-4600.
 
 ### Stickers
@@ -732,7 +732,7 @@ In order to stay environmentally-friendly, we generally do not provide large qua
 
 ## EMEA Field Marketing Swag
 
-The EMEA Field Marketing team utilises [Reachdesk](/handbook/marketing/marketing-operations/reachdesk/#project-management) to source, fulfill, ship and store (European and UK warehouses) swag branded swag items.  We also utilise vendor [Ten&One](https://www.tenandone.com) who can source swag items and who also currently store all EMEA event material. The FMC is responsible for ensuring adequate stock levels and coordinating field event swag logistics. Additional event assets utilized for shows (including backwalls, tablecloths, popup banners, etc.) are stocked at the Ten&One warehouse and can be shipped
+The EMEA Field Marketing team utilises [Reachdesk](/handbook/marketing/marketing-operations/#project-management) to source, fulfill, ship and store (European and UK warehouses) swag branded swag items.  We also utilise vendor [Ten&One](https://www.tenandone.com) who can source swag items and who also currently store all EMEA event material. The FMC is responsible for ensuring adequate stock levels and coordinating field event swag logistics. Additional event assets utilized for shows (including backwalls, tablecloths, popup banners, etc.) are stocked at the Ten&One warehouse and can be shipped
 
 - **Budget Allocation:**
   - If there is an individual order dedicated to support one specific event (e.g Cloud Expo) an Allocadia line item should be created by the FMM in their regional activity plan under this specific event.
@@ -1138,7 +1138,7 @@ In an effort to share the regional marketing team's plans with the rest of the m
 
 ### Marketing SSoT calendar
 
-Within two days of the quarterly plan being [locked by Finance](/handbook/finance/financial-planning-and-analysis/marketing-finance/#important-dates) in Allocadia, the Regional Managers will download the teams' plans from Allocadia and will upload to the shared [marketing calendar](/handbook/marketing/#marketing-calendar).
+Within two days of the quarterly plan being [locked by Finance](https://internal.gitlab.com/handbook/finance/financial-planning-and-analysis/marketing-finance/#important-dates) in Allocadia, the Regional Managers will download the teams' plans from Allocadia and will upload to the shared [marketing calendar](/handbook/marketing/#marketing-calendar).
 
 In order to ensure the formulas carry over properly, the download from Allocadia will need to be cleaned, similiar to how we clean our leads for list upload.
 
@@ -1154,7 +1154,7 @@ If an event is created after this quarterly transfer, the event DRI is responsib
 
 In the AMER region, managers are responsible for the [Marketing SSoT above](/handbook/marketing/field-marketing/#marketing-ssot-calendarhandbookmarketingmarketing-calendar), but also the AMER SSoT [here](https://docs.google.com/spreadsheets/d/1Tss2_8rz9vZdDE68T11dOMlCZPRowhANKLHgAazmSJA/edit#gid=222941017) (internal).
 
-Within two days of the quarterly plan being [locked by Finance](/handbook/finance/financial-planning-and-analysis/marketing-finance/#important-dates) in Allocadia, the AMER Regional Manager will download the team's plans from Allocadia and will upload to the [AMER SSoT](https://docs.google.com/spreadsheets/d/1Tss2_8rz9vZdDE68T11dOMlCZPRowhANKLHgAazmSJA/edit#gid=222941017) (internal).
+Within two days of the quarterly plan being [locked by Finance](https://internal.gitlab.com/handbook/finance/financial-planning-and-analysis/marketing-finance/#important-dates) in Allocadia, the AMER Regional Manager will download the team's plans from Allocadia and will upload to the [AMER SSoT](https://docs.google.com/spreadsheets/d/1Tss2_8rz9vZdDE68T11dOMlCZPRowhANKLHgAazmSJA/edit#gid=222941017) (internal).
 
 After the initial pull, the regional marketers are responsible for adding all details not included in the pull, any new tactics for the quarter that weren't pulled from Allocadia, and also moving completed tactics to the `Completed Events - Results` tab and providing all retrospective information required.
 

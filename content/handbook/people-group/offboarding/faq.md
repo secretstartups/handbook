@@ -64,7 +64,7 @@ Set up accounts that you'll need access to after your last day. Ensure your pers
 
 ### Laptop Wipe
 
-It is required that your laptop is wiped on your last day. Please [book an appointment](/handbook/business-technology/end-user-services/#laptop-wipe-schedules-for-it-analysts) with an IT Ops team member for your last day.
+It is required that your laptop is wiped on your last day. Please [book an appointment](/handbook/it/end-user-services/#laptop-wipe-schedules-for-it-analysts) with an IT Ops team member for your last day.
 
 Under **no circumstance** should you be wiping your own laptop. Laptop wipes must be done from an IT Ops team member for logs. Reach out to [#it_help](https://gitlab.slack.com/archives/CK4EQH50E) if you have any other questions.
 

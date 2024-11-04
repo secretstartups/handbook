@@ -21,7 +21,7 @@ If the user has questions about the email, phone, or credit card verification Gi
 
 ### GitLab Team Members
 
-If the user is a GitLab team member, have them [contact IT Ops](/handbook/business-technology/end-user-services/_index.md).
+If the user is a GitLab team member, have them [contact IT Ops](/handbook/it/end-user-services/_index.md).
 
 ## 2FA removal within GitLab
 

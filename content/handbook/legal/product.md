@@ -16,7 +16,7 @@ description: "Legal Product team page"
 
 ## Trademark
 
-- Visit [Brand Resources](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/#trademark) and [Trademark Guidelines](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/trademark-guidelines/) for information about using GitLab's trademark.
+- Visit [Brand Resources](https://design.gitlab.com/brand-overview/resources) and [Trademark Guidelines](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/trademark-guidelines/) for information about using GitLab's trademark.
 - [Use of Third-party Trademarks in GitLab](/handbook/legal/policies/product-third-party-trademarks-guidelines/)
 - [Trademarks Training Materials](/handbook/legal/trademarks-training-materials/)
 

@@ -65,7 +65,7 @@ Please ensure that the vendor meets this criteria before proceeding with the app
 - E-group member approval for all reference requests except logo use. (E-group member will be for the specific organization using the vendor. For example, if it is a tool the Product team uses, David DeSanto will be the approver for e-group.)
 - If the request involves GitLab logo/brand use, please ensure the vendor follows the below:
     1. [Trademark Guidelines](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/trademark-guidelines/)
-    1. [Brand Standards](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/#brand-guidelines)
+    1. [Brand Standards](https://design.gitlab.com/brand-overview/resources)
 
 #### Approval process
 

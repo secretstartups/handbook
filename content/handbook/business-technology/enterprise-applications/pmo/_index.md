@@ -16,7 +16,7 @@ We are a global team, focused on building and managing world-class information t
 
 ## IT Enterprise Applications Portfolio Planning & Prioritization
 
-![it-pmo](/handbook/business-technology/pmo/it-pmo-planning.png)
+![it-pmo](/handbook/business-technology/enterprise-applications/pmo/it-pmo-planning.png)
 
 The IT portfolio planning & prioritization process has 6 steps:
 
@@ -35,7 +35,7 @@ The inventory of all committed and planned projects for the quarter in IT Operat
 
 The [IT Project Prioritization tracker](https://docs.google.com/spreadsheets/d/1fnV3nWI0sNdbakHUys78d-lpbpKexFD_1kdO8JoVySY/edit#gid=745075679) is used to log new projects / initiatives with the IT team. The IT PMO team will review it as part of the IT Quarterly Portfolio Planning:
 
-![it-pmo](/handbook/business-technology/pmo/quarterly-planning.png)
+![it-pmo](/handbook/business-technology/enterprise-applications/pmo/quarterly-planning.png)
 
 ### Resources & Capacity Planning
 
@@ -81,13 +81,13 @@ The release management plan helps the IT team:
 
 ### Release Calendar
 
-![it-pmo](/handbook/business-technology/pmo/calendar2024.png)
+![it-pmo](/handbook/business-technology/enterprise-applications/pmo/calendar2024.png)
 
 ## <i class="fas fa-bullhorn" id="biz-tech-icons"></i> How We Work
 
 ## Governance and Program Management Methodology
 
-Visit the [Governance and IT Program Management](/handbook/business-technology/pmo/pmo-governance/) page to understand the methodology adopted by the IT PMO team for all GitLab IT programs aimed at achieving the following objectives:
+Visit the [Governance and IT Program Management](/handbook/business-technology/enterprise-applications/pmo/pmo-governance/) page to understand the methodology adopted by the IT PMO team for all GitLab IT programs aimed at achieving the following objectives:
 
 - Ensuring robust results and efficient execution.
 - Ensuring proper scoping aligned with our value of iteration.
@@ -98,9 +98,9 @@ Visit the [Governance and IT Program Management](/handbook/business-technology/p
 
 Every week, the IT PMO Management team review the [IT-Intake-PMO](https://gitlab.com/groups/gitlab-com/-/boards/5982959?label_name[]=it-intake-pmo) board, with only a single outcome for the issues listed under the _Open_ list:
 
-- The issue is related to an ongoing project from the [IT Portfolio of Projects](/handbook/business-technology/pmo/#it-portfolio-of-projects) and it will be picked up by the IT Program Manager that is assigned to the project.
-  - IT PMO will add the appropriated [team label](/handbook/business-technology/pmo/#labels) and work with the business requestor to get all necessary information so the issue can be placed into the appropriated EntApps Milestone.
-- The issue **is not** related to an ongoing project from the [IT Portfolio of Projects](/handbook/business-technology/pmo/#it-portfolio-of-projects) and so it will be placed in the backlog in the [IT Prioritization tracker](/handbook/business-technology/pmo/#it-project-prioritization). The IT Prioritization tracker is reviewed during the [IT Portfolio Review (monthly) meeting](/handbook/business-technology/pmo/#it-portfolio-review-meetings-lead-to-cash-cro-and-ga)
+- The issue is related to an ongoing project from the [IT Portfolio of Projects](/handbook/business-technology/enterprise-applications/pmo/#it-portfolio-of-projects) and it will be picked up by the IT Program Manager that is assigned to the project.
+  - IT PMO will add the appropriated [team label](/handbook/business-technology/enterprise-applications/pmo/#labels) and work with the business requestor to get all necessary information so the issue can be placed into the appropriated EntApps Milestone.
+- The issue **is not** related to an ongoing project from the [IT Portfolio of Projects](/handbook/business-technology/enterprise-applications/pmo/#it-portfolio-of-projects) and so it will be placed in the backlog in the [IT Prioritization tracker](/handbook/business-technology/enterprise-applications/pmo/#it-project-prioritization). The IT Prioritization tracker is reviewed during the [IT Portfolio Review (monthly) meeting](/handbook/business-technology/enterprise-applications/pmo/#it-portfolio-review-meetings-lead-to-cash-cro-and-ga)
   - The _it-pmo-backlog_ label will be added.
 
 ## Project Epics & Issues
@@ -113,7 +113,7 @@ To maintain uniformity across all PMO-led projects, the team follows the same [E
 
 The System Development Lifecycle outlines a structured set of activities conducted at each project stage.
 
-![it-pmo](/handbook/business-technology/pmo/sdlc.png)
+![it-pmo](/handbook/business-technology/enterprise-applications/pmo/sdlc.png)
 
 #### Intake
 
@@ -178,7 +178,7 @@ To better organize and manage their work, the IT teams have different label cate
 
 ## Compliance Documentation
 
-The IT PMO team supports project stakeholders in gathering all the essential information required for SOX (Sarbanes-Oxley Act) and compliance purposes throughout the project's lifecycle. We have developed multiple templates following the [guidelines](/handbook/business-technology/pmo/pmo-governance/#clear-documentation-for-compliance) provided by the [IT Compliance team](/handbook/business-technology/it-compliance/). These templates aid in creating comprehensive and well-structured documentation, facilitating the gathering of essential information.
+The IT PMO team supports project stakeholders in gathering all the essential information required for SOX (Sarbanes-Oxley Act) and compliance purposes throughout the project's lifecycle. We have developed multiple templates following the [guidelines](/handbook/business-technology/enterprise-applications/pmo/pmo-governance/#clear-documentation-for-compliance) provided by the [IT Compliance team](/handbook/business-technology/it-compliance/). These templates aid in creating comprehensive and well-structured documentation, facilitating the gathering of essential information.
 
 The IT PMO team collaborates with project stakeholders to create these documents and ensures that all necessary approvals are captured within them.
 
@@ -203,19 +203,19 @@ There are several activities that take place to prepare for new OKRs / commits a
 
 ### FY25 Q1 Calendar
 
-![it-pmo](/handbook/business-technology/pmo/it-pmo-fy25-q1.png)
+![it-pmo](/handbook/business-technology/enterprise-applications/pmo/it-pmo-fy25-q1.png)
 
 ### FY25 Q2 Calendar
 
-![it-pmo](/handbook/business-technology/pmo/it-pmo-fy25-q2.png)
+![it-pmo](/handbook/business-technology/enterprise-applications/pmo/it-pmo-fy25-q2.png)
 
 ### FY25 Q3 Calendar
 
-![it-pmo](/handbook/business-technology/pmo/it-pmo-fy25-q3.png)
+![it-pmo](/handbook/business-technology/enterprise-applications/pmo/it-pmo-fy25-q3.png)
 
 ### FY25 Q4 Calendar
 
-![it-pmo](/handbook/business-technology/pmo/it-pmo-fy25-q4.png)
+![it-pmo](/handbook/business-technology/enterprise-applications/pmo/it-pmo-fy25-q4.png)
 
 ## Weekly Roll Up Reporting
 

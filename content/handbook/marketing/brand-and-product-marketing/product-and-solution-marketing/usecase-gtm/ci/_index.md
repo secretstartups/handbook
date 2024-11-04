@@ -27,7 +27,7 @@ CI makes software development easier, faster, and less risky for developers. By 
 - **Time to restore service:** Automated pipelines enable fixes to be deployed to production faster reducing Mean Time to Resolution (MTTR)
 - **Change failure rate:** Early automated testing greatly reduced the number of defects that make their way out to production.
 
-[GitLab CI/CD](/features/continuous-integration/) comes built-in to GitLab's complete DevOps platform delivered as a single application. There's no need to cobble together multiple tools and users get a seamless experience out-of-the-box.
+[GitLab CI/CD](https://about.gitlab.com/solutions/continuous-integration/) comes built-in to GitLab's complete DevOps platform delivered as a single application. There's no need to cobble together multiple tools and users get a seamless experience out-of-the-box.
 
 ## Personas
 

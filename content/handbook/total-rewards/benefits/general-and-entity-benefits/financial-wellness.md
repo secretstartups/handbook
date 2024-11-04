@@ -42,7 +42,7 @@ GitLab hosted a kickoff call with SageView to discuss an overview of the program
 
 ### LinkedIn Learning
 
-Self Learning around money management is also available through the company sponsored [LinkedIn Learning](/handbook/people-group/learning-and-development/linkedin-learning/) account.
+Self Learning around money management is also available through the company sponsored [LinkedIn Learning](/handbook/people-group/learning-and-development/self-paced-learning/#linkedin-learning) account.
 
 Examples of Learning Courses include:
 

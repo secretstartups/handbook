@@ -89,7 +89,7 @@ In addition to the [status process from Dedicated team page](/handbook/engineeri
 
 ## Top Initiative Quarterly Meeting
 
-- [Top Initiative Quarterly Meeting](/handbook/company/top-cross-functional-initiatives/) occurs once per quarter to review initiative health, risks, and blockers.
+- Top Initiative Quarterly Meeting occurs once per quarter to review initiative health, risks, and blockers.
 - Initiative DRI provides current status for Dedicated during this meeting along with plan for the initiative.
 - The Initiative DRI will provide a summary from the most recent update from the [Top-Level Initiative Epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/479).
 - The Initiative DRI will share a draft of the Quarterly Update with the Dedicated leadership team and Dedicated Executive Sponsor at least 3 business days before the scheduled presentation date order to gather feedback in order to add responses to the Top Initiatives agenda at least 1.5 days before Top Initiatives meeting.
@@ -100,7 +100,7 @@ In addition to the [status process from Dedicated team page](/handbook/engineeri
 
 1. **Exec Sponsor**: David DeSanto - Chief Product Officer
 1. **Initiative DRI**: Ryan Wedmore - Director, Strategy & Operations
-    - [Working Group DRI responsibilities](/handbook/company/working-groups/#required-roles) and [Cross Functional Initiative DRI responsibilities](/handbook/company/top-cross-functional-initiatives/#cross-functional-initiative-dris)
+    - [Working Group DRI responsibilities](/handbook/company/working-groups/#required-roles) and Cross Functional Initiative DRI responsibilities
     - DRI for cross-functional initiative strategy, collaboration, and work streams
 1. **Engineering DRI**: Marin Jankovski - Director of Infrastructure, Platforms
     - Overall DRI for Engineering, Infrastructure, and Engineering Strategy

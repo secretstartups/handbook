@@ -213,7 +213,7 @@ This content is divided into five key competencies for Product Managers.
 
 #### Deeper dive
 
-- [GitLab Jobs to be Done (JTBD) Deep Dive](/handbook/product/ux/jobs-to-be-done/deep-dive/)
+- [GitLab Jobs to be Done (JTBD) Deep Dive](/handbook/product/ux/jobs-to-be-done/)
 - [Bob Moesta & Chris Spiek - Uncovering the Jobs to be Done](https://businessofsoftware.org/2014/06/bos-2013-bob-moesta-and-chris-spiek-uncovering-the-jobs-to-be-done/) (57 min video)
 - [Tony Ulwick - Customer Centered Innovation](https://businessofsoftware.org/2015/08/tony-ulwick/) (57 min video)
 - [Xavier Russo - A step-by-step guide to using Outcome Driven Innovataion](https://medium.com/envato/a-step-by-step-guide-to-using-outcome-driven-innovation-odi-for-a-new-product-ded320f49acb)

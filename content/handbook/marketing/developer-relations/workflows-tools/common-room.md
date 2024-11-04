@@ -102,7 +102,7 @@ which runs via a scheduled pipeline to injest data.
 
 **Description**:
 
-* Monitor potential organizations for the [Open Source program](/handbook/marketing/developer-relations/community-programs/opensource-program/).
+* Monitor potential organizations for the [Open Source program](/handbook/marketing/developer-relations/community-programs/open-source-program/).
 * Review the activities, trending keywords, and sentiment of existing partners (via segment) to identify potential collaborations.
 
 **KPI**:

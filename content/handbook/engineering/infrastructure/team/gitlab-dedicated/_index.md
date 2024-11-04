@@ -411,7 +411,7 @@ If no update has been provided in an epic or issue for over a week, the issue wi
 
 #### Reporting
 
-We provide reports on status of GitLab Dedicated to meet [Top Cross-Functional Initiative requirements](/handbook/company/top-cross-functional-initiatives/#cross-functional-initiative-dris).
+We provide reports on status of GitLab Dedicated to meet Top Cross-Functional Initiative requirements.
 
 ### Backlog Refinement
 

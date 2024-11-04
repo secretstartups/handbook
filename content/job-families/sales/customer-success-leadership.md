@@ -15,7 +15,7 @@ The Customer Success Leadership team is responsible for leading a cross-cuntiona
 
 ### Director of Customer Success
 
-The Director of Customer Success reports to the [VP of Customer Success](/job-families/sales/vp-of-customer-success/).
+The Director of Customer Success reports to the [VP of Customer Success](/job-families/sales/customer-success-leadership/#vice-president-of-customer-success).
 
 #### Director of Customer Success Job Grade
 
@@ -55,7 +55,7 @@ The Director of Customer Success is a job grade [level 10](/handbook/total-rewar
 
 ### Senior Director of Customer Success
 
-The Senior Director of Customer Success reports to the [VP of Customer Success](/job-families/sales/vp-of-customer-success/)
+The Senior Director of Customer Success reports to the [VP of Customer Success](/job-families/sales/customer-success-leadership/#vice-president-of-customer-success)
 
 #### Senior Director of Customer Success Job Grade
 
