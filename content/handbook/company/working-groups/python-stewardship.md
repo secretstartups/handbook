@@ -92,6 +92,7 @@ Development experience:
 | Member | Dylan Bernardi | Backend Engineer, Editor Extensions |
 | Member | Shola Quadri | Associate Backend Engineer, Code Creation |
 | Member | Vitali Tatarintev | Senior Backend Engineer, Code Creation |
+| Member | Mikołaj Wawrzyniak | Staff Backend Engineer, Duo Workflow (Borrow) |
 
 ### Non-goals
 
