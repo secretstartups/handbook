@@ -36,7 +36,7 @@ There are five teams in the Security Assurance sub-department.
       </td>
       <td>
         <ul>
-            <li><a href="{{< ref "security-compliance" >}}"> Security Compliance, Commercial Team Page </a></li>
+            <li><a href="{{< ref "security-compliance" >}}"> Security Compliance Team Page </a></li>
         </ul>
       </td>
       <td>
