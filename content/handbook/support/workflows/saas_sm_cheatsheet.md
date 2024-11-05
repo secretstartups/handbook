@@ -99,4 +99,4 @@ Use the [Admin Area docs](https://docs.gitlab.com/ee/administration/admin_area.h
 |:----:| ----- |
 |Self-managed| Instance adminsitrator can [enable feature flags through the rails console](https://docs.gitlab.com/ee/administration/feature_flags.html).|
 |DotCom| On GitLab.com some features flags [can be enabled through chatops](/handbook/support/workflows/saas_feature_flags/). |
-|Dedicated| Feature Flags are not available for dedicated until the feature flab is enabled by default. |
+|Dedicated| Feature Flags are not available for GitLab Dedicated until the feature flag is enabled by default. Read more about how to [handle feature flag requests from GitLab Dedicated customers](/handbook/support/workflows/dedicated/#feature-flags-are-not-supported). |
