@@ -1,10 +1,10 @@
 ---
 title: "Product Customer Satisfaction (PCSAT) Survey"
-description: "The Customer Satisfaction (PCSAT) survey is a performance indicator we use within the Product division to measure the customer satisfaction of our product."
+description: "The Customer Satisfaction (PCSAT) survey is a performance indicator we use within the Product division to measure the user satisfaction of our product."
 ---
 
 * Within the Product division, we have adopted [Product Customer Satisfaction Score (PCSAT)](https://www.qualtrics.com/uk/experience-management/customer/what-is-csat/) and are conducting this survey on a quarterly basis.
-  * We previously surveyed customers using the Net Promoter Score (NPS) metric, which we moved away from starting in FY25 Q1 ([see internal only proposal deck](https://docs.google.com/presentation/d/18FYO0UoUQi__7hPnD0uhVmeJrN16n23OISQnom0eRE8/edit?usp=sharing)).
+  * We previously surveyed users with the Net Promoter Score (NPS) metric, which we moved away from starting in FY25 Q1 ([see internal only proposal deck](https://docs.google.com/presentation/d/18FYO0UoUQi__7hPnD0uhVmeJrN16n23OISQnom0eRE8/edit?usp=sharing)).
 * We are using PCSAT because it allows us to:
   * Measure satisfaction directly vs. indirectly.
   * Connect satisfaction ratings and open ended responses back to changes in our product.
@@ -12,13 +12,13 @@ description: "The Customer Satisfaction (PCSAT) survey is a performance indicato
 
 ### How the PCSAT survey is run
 
-UX Research determines our PCSAT score for paid users of GitLab.com on a quarterly basis through a survey launched through Qualtrics. A [PCSAT template issue](https://gitlab.com/gitlab-org/ux-research/-/blob/master/.gitlab/issue_templates/PCSAT%20Survey%20(UX%20Research%20only).md?ref_type=heads) is created by the UX Research DRI at the beginning of each quarter. The issue template contains background information, research goals, and processes on conducting the survey from start to finish. Data is collected over a period of four weeks starting in the beginning of each quarter and the survey stays open until we have met our [data collection goals](/handbook/product/ux/performance-indicators/csat/#sampling-goals). The next two weeks after data collection are used to clean, analyze, and report on the survey responses. All documents created are stored in an [internal only Google Drive within UX Research](https://drive.google.com/drive/u/0/folders/1ia-SJujFRWgOpnBGUdLE6gAWE8ldf0DM).
+UX Research determines our PCSAT score for paid users of GitLab.com and self-managed GitLab on a quarterly basis through a survey launched through Qualtrics. A [PCSAT template issue](https://gitlab.com/gitlab-org/ux-research/-/blob/master/.gitlab/issue_templates/PCSAT%20Survey%20(UX%20Research%20only).md?ref_type=heads) is created by the UX Research DRI at the beginning of each quarter. The issue template contains background information, research goals, and processes on conducting the survey from start to finish. Data is collected over a period of four weeks starting in the beginning of each quarter and the survey stays open until we have met our [data collection goals](/handbook/product/ux/performance-indicators/csat/#sampling-goals). The next two weeks after data collection are used to clean, analyze, and report on the survey responses. All documents created are stored in an [internal only Google Drive within UX Research](https://drive.google.com/drive/u/0/folders/1ia-SJujFRWgOpnBGUdLE6gAWE8ldf0DM).
 
 ### Current workflow
 
 #### Sampling goals
 
-UX Research aims for a sample size of 384 total responses with plan type proportions for our sample to be +/- 3% compared to the population proportion. Self-managed users are excluded from this proportion because we've traditionally had difficulty recruiting them for research. When we do capture responses from self-managed users (roughly once a year) we aim for 50-100 responses, which is based on the number of responses to past System Usability Scale surveys.
+UX Research aims for a **sample size of 384 total responses** with plan type proportions for our sample to be +/- 3% compared to the population proportion. Self-managed users are excluded from this proportion because we've traditionally had difficulty recruiting them for research. When we do capture responses from self-managed users (roughly once a year), we aim for 50-100 responses, which is based on the number of self-managed user responses to past System Usability Scale surveys.
 
 #### Data analysis
 
@@ -53,7 +53,7 @@ An example with fake numbers:
     In this example, the sample is under the population, hence the next wave percentage is higher than the population to try to get within 3% of the population percentage for Ultimate.
 
 3. Waves should be ~5,000 users each. Mark the desired number of users out of that 5,000 that fit your percentages for each plan type with the name of the wave you are sending.
-4. In your Rally UXR project, filter out `@gitlab.com` email addresses and people contacted for previous PCSAT surveys from the past 12 months.
+4. In your Rally UXR project, filter out `@gitlab.com` email addresses, users who are on cooldowns/opted out of emails, and users contacted for previous PCSAT surveys from the past 12 months.
 5. After filtering out those individuals, select the number of emails for your most recent wave.
 6. Create a new email distribution using the `CSAT survey template` email in Rally.
 7. Send the email distribution. Typically emails are scheduled to go out Monday - Friday early in the morning US time (8 - 9am Eastern Time) with the goal of maximizing visibility and responses.
