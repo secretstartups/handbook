@@ -58,21 +58,20 @@ As promised above!
 
 ## More about hobbies
 
-A long while ago I did a [series of blog posts](https://nztebs.blogspot.com/search/label/Open%20Office%20Writer) on getting comfortable with using Open Office Write and a bit of OO Calc.
+Recent hobbies have included:
 
-Recent hobbies these have included:
-
+- [speedpuzzling!](https://themissingpiecepuzzle.com/blogs/jigsaw-puzzle-talk/unleashing-the-thrill-of-speed-puzzling-a-puzzle-revolution) I had no idea how much I'd enjoy this.  I'm actually not very fast but I love it anyway.
 - needlefelting fanciful forest critters (no photos yet)
-- fermented foods ([sauerkraut](https://www.instagram.com/p/B4EjBRdhSFc/), [sourdough](https://www.instagram.com/p/B8ahzBZpihR/) bread, kombucha, kefir water, [pickles](https://www.instagram.com/p/B4JopFphgmm/)),
-- [water color painting](https://www.instagram.com/p/BkZySmClad2/),
-- acrylic painting (I paint emotions, and my general guideline is "if my husband likes it, I'm not painting in my personal style" - it's a bit of a standing joke in my household!),
 - [calligraphy](https://www.instagram.com/p/BkNIQCjlXBc/),
 - book-binding,
 - [zentangle](https://www.instagram.com/p/BwBNKd3hidH/).
 - boardgames!
 - Dr Who
+- Star Trek
 - Reading - fairly eclectic taste, but for escapism: sci-fi and a bit of fantasy
 
-Further back hobbies included [crochet](https://www.flickr.com/photos/unplain-jane/albums/72157608410004917), [sewing](https://www.flickr.com/photos/unplain-jane/albums/72157622880198139), [New Zealand Sign Language](https://www.nzsl.nz/) (sadly I've forgotten most of what I learnt),  [photography](https://www.flickr.com/photos/unplain-jane/albums/72157616370056642).
+Further back hobbies included [crochet](https://www.flickr.com/photos/unplain-jane/albums/72157608410004917), [sewing](https://www.flickr.com/photos/unplain-jane/albums/72157622880198139), [New Zealand Sign Language](https://www.nzsl.nz/) (sadly I've forgotten most of what I learnt),  [photography](https://www.flickr.com/photos/unplain-jane/albums/72157616370056642), fermented foods ([sauerkraut](https://www.instagram.com/p/B4EjBRdhSFc/), [sourdough](https://www.instagram.com/p/B8ahzBZpihR/) bread, kombucha, kefir water, [pickles](https://www.instagram.com/p/B4JopFphgmm/)), [water color painting](https://www.instagram.com/p/BkZySmClad2/), acrylic painting, 
+
+A long while ago I did a [series of blog posts](https://nztebs.blogspot.com/search/label/Open%20Office%20Writer) on getting comfortable with using Open Office Write and a bit of OO Calc.
 
 Way back hobbies included horse-riding, singing, playing guitar, Hamilton Community Gospel Choir, softball, Girl Guides (yep, that far back!)
