@@ -77,6 +77,16 @@ Use the [Admin Area docs](https://docs.gitlab.com/ee/administration/admin_area.h
 |DotCom| Gitaly is managed by the infrastructure team of GitLab, so customers do not have access to it.|
 |Dedicated| [Raise issue with Dedicated team](/handbook/support/workflows/dedicated/#filing-issues) |
 
+### Subscription
+
+|      |       |
+|:----:| ----- |
+|Dedicated|GitLab Dedicated customers [get **Ultimate**](https://docs.gitlab.com/ee/subscriptions/gitlab_dedicated/#application) but please note that [some features are not available in GitLab Dedicated](https://docs.gitlab.com/ee/subscriptions/gitlab_dedicated/#unavailable-features).|
+|DotCom| For folks who make use of GitLab.com, the [available plans](https://about.gitlab.com/pricing/) include **Free**, **Premium** and **Ultimate**.|
+|Self-managed| For self-managed instances, folks can use either GitLab CE (Community Edition) or GitLab EE (Enterprise Edition) without a license. GitLab EE can be [activated](https://docs.gitlab.com/ee/administration/license.html) with a **Premium** or an **Ultimate** license.|
+
+Note that [GitLab Duo add-ons](https://docs.gitlab.com/ee/subscriptions/subscription-add-ons.html) are handled separately from the subscription.
+
 ### Runners
 
 |      |       |
