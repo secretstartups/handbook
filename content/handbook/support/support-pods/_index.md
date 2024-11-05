@@ -60,6 +60,7 @@ different uses of the word `pod` in the GitLab context.
 1. Duplicate the [Example Pod](example-pod.md) template page.
 1. Rename your newly-created page to the name of your Support Pod.
 1. Modify your Support Pod's page to include content relevant to your Support Pod.
+1. Add yourself (and other leads) to the `^[support-pods]` section in the [CODEOWNERS](https://gitlab.com/gitlab-com/content-sites/handbook/-/blob/main/.gitlab/CODEOWNERS?ref_type=heads) file.
 
 ### After starting
 
