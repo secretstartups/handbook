@@ -89,8 +89,7 @@ To reflect this, we have structured the Security Division around four key tenets
       <td>
         <ul>
             <li><a href="security-assurance/field-security/">Field Security</a></li>
-            <li><a href="security-assurance/security-compliance/">Security Compliance, Commercial</a></li>
-            <li><a href="security-assurance/dedicated-compliance/">Security Compliance, Dedicated Markets</a></li>
+            <li><a href="security-assurance/security-compliance/">Security Compliance</a></li>
             <li><a href="security-assurance/governance/">Security Governance</a></li>
             <li><a href="security-assurance/security-risk/">Security Risk</a></li>
         </ul>
