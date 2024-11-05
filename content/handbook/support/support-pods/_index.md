@@ -33,6 +33,7 @@ different uses of the word `pod` in the GitLab context.
 | [CI/CD](ci-cd) | [#spt_pod_cicd](https://gitlab.enterprise.slack.com/archives/C04DHQ91WJE) | <ul><li>{{< member-by-name "Manuel Grabowski" >}}</li></ul> |
 | [Code Contributions](code-contributions) | [#spt_pod_code-contributions](https://gitlab.enterprise.slack.com/archives/C05DUHAG3EY) | <ul><li>{{< member-by-name "Anton Smith" >}}</li><li>{{< member-by-name "Manuel Grabowski" >}}</li></ul> |
 | [Database](database) | [#spt_pod_database](https://gitlab.enterprise.slack.com/archives/C05K0R2830A) | <ul><li>{{< member-by-name "Ben Prescott" >}}</li></ul> |
+| [Documentation](docs) | [#spt_pod_docs](https://gitlab.enterprise.slack.com/archives/C07UU2R5SKU) | <ul><li>{{< member-by-name "Keelan Lang" >}}</li><li>{{< member-by-name "Michelle Almendarez" >}}</li><li>{{< member-by-name "Michael Gibson" >}}</li></ul> |
 | [Geo](geo) | [#spt_pod_geo](https://app.slack.com/client/T02592416/C03D96JF4LD) | <ul><li>{{< member-by-name "Ronald van Zon" >}}</li><li>{{< member-by-name "Anton Smith" >}}</li><li>{{< member-by-name "Keelan Lang" >}}</li></ul> |
 | [GET](get) | [#spt_pod_get](https://app.slack.com/client/T02592416/C05NL747NMD) | <ul><li>{{< member-by-name "Lewis Brown" >}}</li></ul> |
 | [Git and Gitaly](git-and-gitaly) | [#spt_pod_git](https://gitlab.enterprise.slack.com/archives/C04D5FUADAM) | <ul><li>{{< member-by-name "Jessie Lee" >}}</li></ul> |
