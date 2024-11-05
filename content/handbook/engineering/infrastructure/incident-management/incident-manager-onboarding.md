@@ -85,7 +85,7 @@ When your on-call shift starts, you will get notification(s) that your shift is 
 You are expected to respond to announcements in the [`#incident-management` Slack channel](https://gitlab.slack.com/archives/CB7P5CJS1). Review the [`General guidelines for production incidents`](https://gitlab.com/gitlab-com/runbooks#general-guidelines-for-production-incidents), verify the severity label on the issue, and update it if
 neccesary.
 
-When an S1 or S2 happens during a current incident, decide which incident has the highest customer impact and work on that issue. Reach out to infrastructure leadership escalation](/handbook/engineering/infrastructure/incident-management/#infrastructure-leadership-escalation)
+When an S1 or S2 happens during a current incident, decide which incident has the highest customer impact and work on that issue. Reach out to [infrastructure leadership escalation](/handbook/engineering/infrastructure/incident-management/#infrastructure-leadership-escalation)
 to get help with the lesser customer impact issue.
 
 ### Ending your on-call shift
