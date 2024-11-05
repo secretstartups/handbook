@@ -1528,7 +1528,7 @@ For BDRs and SDRs joining on the first Monday of the month
 - Month 3 = 75% quota
 - Month 4 = 100% quota
 
-For BDRs and SDRs joining GitLab on the 15th or after of the month
+For BDRs and SDRs joining GitLab on the 16th or after of the month
 
 - Month 0 = no quota
 - Month 1 = 25% quota
