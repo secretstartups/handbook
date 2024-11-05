@@ -5,8 +5,8 @@ description: "Video recordings and written tips for team members on additional t
 
 This page contains instructions, tips, and historical recordings for non-technical team members on how to work handbook-first.
 
-Content on this page is to provide additional tips as a supplement to the [editing handbook page]({{< ref "editing-handbook.md" >}}).
-Please keep the basics of how to edit the handbook, including how to get help on the [editing handbook page]({{< ref "editing-handbook.md" >}}).
+Content on this page is to provide additional tips as a supplement to the [editing handbook page](_index.md).
+Please keep the basics of how to edit the handbook, including how to get help on the [editing handbook page](_index.md).
 
 ## Before you begin in command line
 
@@ -25,7 +25,7 @@ git checkout main
 git pull
 ```
 
-On macOS it is advised to use Homebrew and install the GNU tools. See [this blogpost](https://about.gitlab.com/blog/2020/04/17/dotfiles-document-and-automate-your-macbook-setup/) for a macOS setup.
+On macOS it is advised to use Homebrew and install the GNU tools. See [this blog post](https://about.gitlab.com/blog/2020/04/17/dotfiles-document-and-automate-your-macbook-setup/) for a macOS setup.
 
 ```shell
 brew install gnu-sed
@@ -53,7 +53,7 @@ You can replace `-name` with `-regex` to do more sensitive matching, for example
 find . -type f -regex '.*\.md[.erb]*'
 ```
 
-This can be useful to **check whether a blog post was merged to master**:
+This can be useful to **check whether a blog post was merged to the default branch**:
 
 ```shell
 git checkout master
@@ -65,7 +65,7 @@ find . -type f -name '*blogpost-filename*'
 
 This comes in handy when you want to print all matches with a prefix, or perform additional replace actions. The main principle is to follow the matching rules explained above, and add the `-exec` parameter.
 
-The `exec` action should start a shell and execute a command in there. `sh -c '' \;` takes care of this for every file that matches. Imagine this as a loop of sequential steps to perform the action. The last missing bit is accessing the file in the current loop iteration. This is done via the `{}` marker inside the `echo` example printing the output.
+The `exec` action should start a shell and execute a command in there. `sh -c '' \;` takes care of this for every file that matches. Imagine this as a loop of sequential steps to perform the action. The last missing bit is accessing the file in the current loop iteration. This is done through the `{}` marker inside the `echo` example printing the output.
 
 Run the command in a terminal to see how it works:
 
@@ -132,15 +132,15 @@ There are times when you need to find every instance of a word, phrase or link a
 
 Please see the following suggestions for doing a bulk find and replace.
 
-If you rename a file/URL in one of the handbook repositories, please [add a redirect using an alias](/docs/frontmatter/).
+If you rename a file/URL in one of the handbook repositories, please [add a redirect](https://handbook.gitlab.com/docs/development/#redirects).
 
 If you rename a file/URL in the `www-gitlab-com` repository, please remember to add a redirect to [`redirects.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/redirects.yml) by [following this process](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/redirects_on_about_gitlab_com.md).
 
 ### Using a terminal
 
-Sometimes a project, URL target or Slack channel is being renamed. You can easily search and edit with the Web IDE on GitLab.com but for other files there is a quick and automated way required.
+Sometimes a project, URL target or Slack channel is being renamed. You can easily search and edit with the Web IDE on GitLab.com, but for other files there is a quick and automated way required.
 
-This method combines the find, exec and sed tips explained above. The `exec` action is now to use sed to perform an inline replacement of a pattern/string.
+This method combines the find, exec, and sed tips explained above. The `exec` action is to use `sed` to perform an inline replacement of a pattern/string.
 
 The following example is used in [this MR](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/49617) for updating the Corporate Marketing project URL in all files.
 
@@ -165,22 +165,22 @@ git push -u origin handbook/corp-mktg-project-url
 To cut it down:
 
 - Find and match all files in the `source/handbook` directory. The URL might be found in other files too.
-- `exec` runs a `sed/gsed` action
-- The replacement is `https://gitlab.com/gitlab-com/marketing/corporate-marketing` with `https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing`
-- Verify the changes with `git status` and `git diff` before committing them
-- Commit, push and create the MR from the URL
+- `exec` runs a `sed/gsed` action.
+- The replacement is `https://gitlab.com/gitlab-com/marketing/corporate-marketing` with `https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing`.
+- Verify the changes with `git status` and `git diff` before committing them.
+- Commit, push, and create the MR from the URL.
 
 ### Using Visual Studio Code
 
 You can also do bulk find and replace operations using [Visual Studio Code](https://code.visualstudio.com/download) along with the [GitLab Workflow extension for VS Code](https://docs.gitlab.com/ee/editor_extensions/visual_studio_code/). The following steps were used in this [MR](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/106599) for updating `sub-value` to `operating principle`.
 
-On macOS this can be a fairly seamless experience if you clone the project ([`www-gitlab-com`](https://gitlab.com/gitlab-com/www-gitlab-com) for the Handbook) [using SSH](/handbook/about/editing-handbook/#clone-via-ssh) and then use [1Password for SSH & Git](https://developer.1password.com/docs/ssh/).
+Follow the [editing the handbook locally instructions](_index.md#editing-the-handbook-locally) to clone the relevant repositories.
 
-Once you've configured and installed `Visual Studio Code` and logged into the `GitLab Workflow extension for VS Code` open the `www-gitlab-com` directory where you've synced the repo.
+Once you've configured and installed `Visual Studio Code`, open the relevant directory where you've cloned the repository.
 
 Create a new branch by:
 
-1. Clicking on `master` in the bottom bar
+1. Clicking on `main` in the bottom bar
 1. Select `Create new branch`
 1. Enter a branch name
 1. Press the enter key
