@@ -1,6 +1,8 @@
-# All-Customer CSAT Survey (Customer Success) | Overview
-
-## *What is the “All-Customer CSAT Survey (Customer Success) Survey?*
+---
+title: "All-Customer CSAT Survey (CS)"
+description: "A deep dive into Customer Succeess's (CS) twice-yearly CSAT survey"
+---
+## *What is the “All-Customer CSAT Survey Survey?*
 
 Administered by the Customer Success team via Gainsight to a larger audience, these surveys assess customer satisfaction with GitLab's overall support, service levels, and customer experience. Further, this survey represents a macro-level baseline for Customer Satisfaction Scoring, not drive customer-level interactions and escalation.
 
