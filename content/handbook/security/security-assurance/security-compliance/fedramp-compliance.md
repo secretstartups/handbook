@@ -55,6 +55,7 @@ FedRAMP Authorization is very challenging and requires prescriptive security con
 
 - [FIPS 140-2 validated cryptography](https://csrc.nist.gov/projects/cryptographic-module-validation-program) for all data at rest and in transit (to/from/within) the system
 - Vulnerability Scanning of all hosts, web applications, containers, and databases
+- [SCAP](/handbook/security/security-assurance/security-compliance/scap-scanning.md) scanning of host OS and containers for CIS and STIG compliance
 - Remediation of all vulnerabilities within prescribed SLAs and a deviation request process
 - Reporting of vulnerability posture, complete asset inventory, and significant changes to the system or product
 - Timely application of security updates/patches
