@@ -57,6 +57,19 @@ on-call in Slack.
   - #spt_on-call
   - #spt_pod_dedicated
 
+#### Incident Management - GitLab Dedicated for US Gov CMOC
+
+- [Service link](https://gitlab.pagerduty.com/service-directory/PQRVHA8)
+- Escalation policy: Incident Management - GitLab Dedicated for US Gov CMOC
+- Integrations
+  - N/A
+- Extensions and Add-Ons
+  - Slack V2
+- Integrated Slack Channels
+  - #spt_on-call
+  - #spt_pod_dedicated
+  - #spt_us-government
+
 #### Support Managers
 
 - [Service link](https://gitlab.pagerduty.com/service-directory/PTFI8XR)

@@ -161,6 +161,25 @@ deleted. You might need to edit it first to remove rules and persons first.
     - Lyle Kozloff
     - Val Parsons
 
+### Incident Management - GitLab Dedicated for US Gov CMOC
+
+- [Escalation policy link](https://gitlab.pagerduty.com/escalation_policies#P05JE7M)
+- Level 1
+  - Notify the following users or schedules
+    - US Government On-call
+  - Escalates after 10 min
+- Level 2
+  - Notify the following users or schedules
+    - Support Manager - AMER
+    - Support Manager - APAC
+    - Support Manager - EMEA
+  - Escalates after 5 min
+- Level 3:
+  - Notify the following users or schedules
+    - Lee Matos
+    - Lyle Kozloff
+    - James Lopes
+
 ### Support Managers
 
 - [Escalation policy link](https://gitlab.pagerduty.com/escalation_policies#PGNLUZ1)
