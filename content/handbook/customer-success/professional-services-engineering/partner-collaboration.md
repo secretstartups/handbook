@@ -191,7 +191,7 @@ The Consulting subcontracting Prime Partner SOW includes a work authorization fo
         - Dates of work completed
         - Travel and expenses (if on site required)
 
-### Delivery Kits
+### Delivery Kits 
 
 Delivery kits are comprehensive packages of resources, tools, and documentation that partners can use to streamline the delivery of GitLab professional services. These kits include:
 
