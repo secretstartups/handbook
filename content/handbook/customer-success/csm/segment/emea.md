@@ -18,6 +18,7 @@ CSM EMEA is further divided into different regions. There are four different tea
 * CSM DACH - aligned with customers in Germany, Austria and Switzerland
 * CSM NORTH - responsible for customers in northern Europe, for example in the UK and the Scandinavian countries
 * CSM META - manages customers in the Middle East, Turkey and Africa
+* CSA EMEA - responsible for Customer Success Architecture across the region
 
 ## Team Contacts and Responsibilities
 
