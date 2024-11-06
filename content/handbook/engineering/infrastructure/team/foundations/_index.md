@@ -78,7 +78,7 @@ We rotate triage duties weekly between team members as part of our [interrupt ro
 
 **Note:** Due to the complexity of our systems, we cannot commit to a resolution-based SLA when you open an issue with a given priority level, because we don't know how long something will take to resolve, and there is often more information we need from the stakeholder or external customer, which takes time to obtain. Therefore, we can only commit to an SLA for how quickly we will engage with an issue and prioritize the work.
 
-We endeavor to triage incoming requests twice per week. If you have an issue that is very urgent and requires immediate attention (i.e. Priority 1), please also send us a link to the request issue in our Slack channel: [#g_infra_foundations](https://gitlab.slack.com/archives/C0313V3L5T6).
+We endeavor to triage incoming requests twice per week. If you have an issue that is very urgent and requires immediate attention (i.e. Priority 1), please also send us a link to the request issue in our Slack channel: [#g_foundations](https://gitlab.slack.com/archives/C0313V3L5T6).
 
 ## Considerations for tooling and maintaining our services
 
@@ -123,10 +123,10 @@ The Foundations Team must maintain a broad and diverse set of technical skills w
 - [Foundations team meeting agenda](https://docs.google.com/document/d/1T5LIBt3RZR5TBLzkmRd08oMwfwiNFAr5ImPD5NP7lOw/edit?usp=sharing)
 - [Foundations OKRs](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=team%3A%3AFoundations&first_page_size=20)
 - GitLab Issues capture smaller, concrete pieces of work, and those labeled `~workflow-infra::In Progress` should be updated weekly or whenever a portion of work has been completed.
-- [#g_infra_foundations](https://gitlab.slack.com/archives/C0313V3L5T6) - work related discussions, external requests, etc
-- [#g_infra_foundations_social](https://gitlab.slack.com/archives/C04QVEXBVL3) - socializing and standups
-- [#g_infra_foundations_notifications](https://gitlab.slack.com/archives/C04RZC5TPPD) - automated MR notifications
-- [#g_infra_foundations_alerts](https://gitlab.enterprise.slack.com/archives/C04Q7RQC7FF) - pipeline failures and service alerts
+- [#g_foundations](https://gitlab.slack.com/archives/C0313V3L5T6) - work related discussions, external requests, etc
+- [#g_foundations_social](https://gitlab.slack.com/archives/C04QVEXBVL3) - socializing and standups
+- [#g_foundations_notifications](https://gitlab.slack.com/archives/C04RZC5TPPD) - automated MR notifications
+- [#g_foundations_alerts](https://gitlab.enterprise.slack.com/archives/C04Q7RQC7FF) - pipeline failures and service alerts
 
 ## How We Work
 
@@ -143,7 +143,7 @@ The Foundations Team must maintain a broad and diverse set of technical skills w
 
 ### Standup
 
-We have Geekbot automated checkins on Mondays and Fridays in the [#g_infra_foundations](https://gitlab.enterprise.slack.com/archives/C0313V3L5T6) channel.
+We have Geekbot automated checkins on Mondays and Fridays in the [#g_foundations](https://gitlab.enterprise.slack.com/archives/C0313V3L5T6) channel.
 
 - Monday questions include:
   - What are your top priorities this week?
@@ -208,8 +208,8 @@ The team member on rotation is responsible for:
 - Raising any `Reliability::1` or `Reliability::2` issues and ensuring they have a DRI and are being actively worked on.
 - Completing any issues that come up that can be completed during the week. Weight 5 issues can be considered depending on the priority.
   - Anything weight 8 or larger (more than 1 week of work) should be made clear that it will need to be scheduled around other work.
-- Responding to alerts in [`#g_infra_foundations_alerts`](https://gitlab.enterprise.slack.com/archives/C04Q7RQC7FF).
-- Working on Renovate MRs posted in [`#g_infra_foundations_notifications`](https://gitlab.enterprise.slack.com/archives/C04RZC5TPPD).
+- Responding to alerts in [`#g_foundations_alerts`](https://gitlab.enterprise.slack.com/archives/C04Q7RQC7FF).
+- Working on Renovate MRs posted in [`#g_foundations_notifications`](https://gitlab.enterprise.slack.com/archives/C04RZC5TPPD).
   - Patch updates with passing pipelines should be merged.
   - Minor updates should have their changelogs be reviewed before merging.
   - Major updates should be looked at closely to understand breaking changes before considering merging.
