@@ -78,7 +78,7 @@ Please tag `@jeffersonmartin` for any architecture, decisions, discussions, guid
   counterparts:
     - sabrams
   gitlab_saas_tag: '@sabrams'
-  slack_channel: '#g_infra_foundations'
+  slack_channel: '#g_foundations'
   handbook_page: 'https://handbook.gitlab.com/handbook/engineering/infrastructure/team/reliability/foundations.html'
   issue_tracker: 'https://gitlab.com/gitlab-com/gl-infra/production-engineering/-/issues'
 - infra_ops:

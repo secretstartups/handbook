@@ -47,7 +47,7 @@ We can help with:
 1. Teleport connections: create an issue with the [teleport-troubleshooting template](https://gitlab.com/gitlab-com/gl-infra/production-engineering/-/issues/new?issuable_template=teleport-troubleshooting)
 1. Cloudflare: create an issue with the [Cloudflare Troubleshooting template](https://gitlab.com/gitlab-com/gl-infra/production-engineering/-/issues/new?issuable_template=Cloudflare%20Troubleshooting)
 
-Our Slack channel is: [#g_infra_foundations](https://gitlab.enterprise.slack.com/archives/C0313V3L5T6)
+Our Slack channel is: [#g_foundations](https://gitlab.enterprise.slack.com/archives/C0313V3L5T6)
 
 ### Delivery
 
