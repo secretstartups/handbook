@@ -7,17 +7,25 @@ description: "Continuous education webcast series for GitLab sales team members"
 
 The Field Enablement Spotlight is a weekly continuous education series for all GitLab Sales, Customer Success, Solution Architects, Partner Ecosystem, Renewals, Professional Services & Sales Development team members.
 
+The Field Enablement Spotlight takes place each week on Thursday, with two session options to accomidate GitLab's global field sales audience.
+
+- **(Option 1) 11:00 AM (US Eastern Time)(UTC -5)** = (8 AM Pacific Time) = **(5 PM Central European Time)**
+
+- **(Option 2) 12:00 PM (Australian Eastern Time)(UTC +11)** = (5 PM US Pacific Time)
+
+Attending the weekly Field Enablement Spotlight session is mandatory, with two options provided to accommodate our global audience. If team members are on paid time off or have a scheduling conflict with a customer, they may watch the session recording instead.
+
 ## Upcoming Training
 
 To see what training is coming soon, view the [Field Enablement Spotlight issue list](https://gitlab.com/groups/gitlab-com/sales-team/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=sales%20enablement%20sessions).
 
-**Fall 2024 Lineup**
+**Winter 2024 Lineup**
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|
 | Nov 7 |  GtHub Universe Competitive Update  | Marketing  |
 | Nov 14 | New Forrester TEI Report   | Marketing  |
-| Nov 21 |  Salesforce Lightning   | RSOE Team  |
+| Nov 21 |  SFDC Case Revamp & New Quote Approval Process   | RSOE Team  |
 | Nov 28 |  **No Session**  |  |
 | Dec 5 |  Beyond the Role: GitLab Personas  |   |
 | Dec 12 |  Global Ecosystem Team Quarterly Update   | Ecosystem Team |
@@ -25,7 +33,7 @@ To see what training is coming soon, view the [Field Enablement Spotlight issue 
 | Dec 26 |  **No Session**   |  |
 | Jan 2 |  TBD  |  |
 | Jan 9 |  Gong 201 Training  |  |
-| Jan 16 |  TBD  |  |
+| Jan 16 |  Azure DevOps Competitive Enablement  | Marketing |
 | Jan 23 | *No session during the last two weeks of the quarter*   |  |
 | Jan 30 | *No session during the last two weeks of the quarter* |    |
 
@@ -222,6 +230,11 @@ To see what training is coming soon, view the [Field Enablement Spotlight issue 
 
 **Note: To watch private videos on GitLab Unfiltered, please look at the Handbook page on [watching private videos.](/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube) which includes a link to [this 2-minute video](https://www.youtube.com/watch?v=dZtCuOf5aGk).**
 
+## To request new sales enablement sessions
+
+- Complete and submit this [Field Enablement Spotlight Request issue template](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/new?issuable_template=sales_enablement_sessions)
+- For urgent requests, please send a Slack message to #field-enablement-team and mention @John Blevins
+
 ## Get an invite to the weekly session
 
 To get a calendar invite to the weekly Field Enablement Spotlight, make sure you are added to the one of the following email groups.
@@ -240,20 +253,6 @@ There are a few places to see previous Sales Enablement sessions:
   - [Sales enablement Youtube playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrirMKe3CyWl4ZBCKna5rJX) on GitLab Unfiltered YouTube
   - [Sales enablement Youtube playlist](https://www.YouTube.com/watch?v=ZyyBq3_rzJo&list=PLFGfElNsQthYe-_LZdge1SVc1XEM1bQfG) on GitLab YouTube
   - Historical sessions that were recorded in Google drive can be accessed via this [deprecated spreadsheet](https://docs.google.com/spreadsheets/d/1ETY7FfCzb2q9h2EkYttlW_Qpl7IHUF-F2rOJG2W03Yk/edit#gid=0)
-
-## Recording
-
-### Public vs Private
-
-- Some enablement sessions, typically those that focus on industry or technical product knowledge, are [made public](/handbook/values/#public-by-default), including the Q&A
-- Other sessions that focus on topics like competitive analysis or openly discussing customers are [kept private](/handbook/communication/confidentiality-levels/#not-public)
-- At the start of every session, and before moving into Q&A, the facilitator will announce to the audience if the call is public or private
-- Here is a [how-to video](https://www.youtube.com/watch?v=LKZ23pRfpBg&list=PL05JrBw4t0KrirMKe3CyWl4ZBCKna5rJX&index=33&t=0s) on accessing private videos on GitLab Unfiltered.
-
-## To request new sales enablement sessions
-
-- Complete and submit this [Field Enablement Spotlight Request issue template](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/new?issuable_template=sales_enablement_sessions)
-- For urgent requests, please send a Slack message to #field-enablement-team and mention @John Blevins
 
 ## Scheduling trainings
 
@@ -313,17 +312,26 @@ There are a few places to see previous Sales Enablement sessions:
 
 Field Enablement Spotlight sessions are scheduled on the [Sales Enablement calendar](https://calendar.google.com/calendar/embed?src=gitlab.com_5n3g60l58thum9aovp8iisav34%40group.calendar.google.com&ctz=America%2FLos_Angeles) so that everyone on the Sales and Customer Enablement and PMM team has the ability to edit the calendar event.
 
-Whenever possible, two options for each weekly Spotlight session will be held to accomidate GitLab's global field sales audience.
+The Field Enablement Spotlight takes place each week on Thursday, with two session options to accomidate GitLab's global field sales audience.
 
-- **(Option 1) 11:00a (US Eastern Time)(UTC -4)** = (8 AM Pacific Time) = (5 PM Central European Time)
+- **(Option 1) 11:00 AM (US Eastern Time)(UTC -5)** = (8 AM Pacific Time) = **(5 PM Central European Time)**
 
-- **(Option 2) 8:00p (US Eastern Time)(UTC -4)** = (5 PM Pacific Daylight Time) = (11 AM Australian Eastern Daylight Time)
+- **(Option 2) 12:00 PM (Australian Eastern Time)(UTC +11)** = (5 PM US Pacific Time)
 
 ## How to conduct a Field Enablement Spotlight Session
 
 - Each training session has a [speaker](#speaker) and a [moderator](#moderator)
 - Sessions are 30 minutes long
 - The presentation portion should be 15 minutes, leaving 15 minutes for Q&A
+
+## Recording
+
+### Public vs Private
+
+- Some enablement sessions, typically those that focus on industry or technical product knowledge, are [made public](/handbook/values/#public-by-default), including the Q&A
+- Other sessions that focus on topics like competitive analysis or openly discussing customers are [kept private](/handbook/communication/confidentiality-levels/#not-public)
+- At the start of every session, and before moving into Q&A, the facilitator will announce to the audience if the call is public or private
+- Here is a [how-to video](https://www.youtube.com/watch?v=LKZ23pRfpBg&list=PL05JrBw4t0KrirMKe3CyWl4ZBCKna5rJX&index=33&t=0s) on accessing private videos on GitLab Unfiltered.
 
 ## Speaker
 
