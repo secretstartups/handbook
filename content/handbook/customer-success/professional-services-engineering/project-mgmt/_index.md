@@ -168,53 +168,53 @@ Project scope for Professional Services is the outline of the work required to d
 
 ### Deploy & Close
 
-#### 1. Project Closure Meeting
+   1. Project Closure Meeting
 
-Schedule a 30-minute meeting with the customer’s point of contact (POC) to review the external project retrospective. It’s recommended that the retrospective be maintained as a living document or issue throughout the project, allowing both teams to collaborate and update it regularly. During the closure meeting, this retrospective will serve as the primary agenda and a reliable source for capturing customer feedback. The meeting should cover key successes, challenges, and areas for improvement.
+      Schedule a 30-minute meeting with the customer’s point of contact (POC) to review the external project retrospective. It’s recommended that the retrospective be maintained as a living document or issue throughout the project, allowing both teams to collaborate and update it regularly. During the closure meeting, this retrospective will serve as the primary agenda and a reliable source for capturing customer feedback. The meeting should cover key successes, challenges, and areas for improvement.
 
-#### 2. CSAT Survey
+   2. CSAT Survey
 
-Before the project closure meeting, send the [Customer Satisfaction (CSAT) Engagement Survey](https://www.surveymonkey.com/r/GitLabPSEngagement) to gather formal feedback. A template or example communication for this can be found [here](https://docs.google.com/document/d/15U1LxwHCMmhlmkFHptxtuH-4w4BiLImuFkJ30Wp7BoA/edit). The CSAT survey provides insights into customer satisfaction and highlights areas for future improvement.
+      Before the project closure meeting, send the [Customer Satisfaction (CSAT) Engagement Survey](https://www.surveymonkey.com/r/GitLabPSEngagement) to gather formal feedback. A template or example communication for this can be found [here](https://docs.google.com/document/d/15U1LxwHCMmhlmkFHptxtuH-4w4BiLImuFkJ30Wp7BoA/edit). The CSAT survey provides insights into customer satisfaction and highlights areas for future improvement.
 
-#### 3. Revenue Sign Off
+   3. Revenue Sign Off
 
-##### Revenue Release T&M Projects
+      Revenue Release T&M Projects
 
-* Revenue is recognized and released at the end of each month.
-* Project hours must be logged weekly via the time sheet function in Kantata. Professional Services Engineers (PSEs) or Project Managers (PMs) log time against the project, and the Project Lead or PM approves these entries weekly.
-* At the end of each month, the Project Coordinator (PC) compiles all approved timesheets and submits the consolidated report to Finance for review and revenue release.
+      * Revenue is recognized and released at the end of each month.
+      * Project hours must be logged weekly via the time sheet function in Kantata. Professional Services Engineers (PSEs) or Project Managers (PMs) log time against the project, and the Project Lead or PM approves these entries weekly.
+      * At the end of each month, the Project Coordinator (PC) compiles all approved timesheets and submits the consolidated report to Finance for review and revenue release.
 
-##### Revenue Release FP Projects
+      Revenue Release FP Projects
 
-* Revenue is recognized upon receipt of customer acceptance or upon the completion of passive acceptance (according to the SOW terms).
-* The PM sends a formal request for acceptance to the customer, copying the Operations Manager and Project Coordinator. The PM then updates the Billing/Revenue Milestone in Kantata.
-* If passive acceptance is applicable, Day 1 is counted as the day the notification is sent, and business days are calculated from this date to determine when passive acceptance is complete.
+      * Revenue is recognized upon receipt of customer acceptance or upon the completion of passive acceptance (according to the SOW terms).
+      * The PM sends a formal request for acceptance to the customer, copying the Operations Manager and Project Coordinator. The PM then updates the Billing/Revenue Milestone in Kantata.
+      * If passive acceptance is applicable, Day 1 is counted as the day the notification is sent, and business days are calculated from this date to determine when passive acceptance is complete.
 
-##### Key Updates for Kantata
+      Key Updates for Kantata
 
-* Sign-Off Sent: Update this custom field when the acceptance request email is sent.
-* Sign-Off Received: Update this custom field when customer acceptance is received or passive acceptance is achieved. Attach the acceptance email (in PDF form) to the milestone.
-* Passive Acceptance Utilized: If passive acceptance is used, update this field accordingly.
-* For both acceptance scenarios, attach the acceptance email or milestone document to the milestone.
+      * Sign-Off Sent: Update this custom field when the acceptance request email is sent.
+      * Sign-Off Received: Update this custom field when customer acceptance is received or passive acceptance is achieved. Attach the acceptance email (in PDF form) to the milestone.
+      * Passive Acceptance Utilized: If passive acceptance is used, update this field accordingly.
+      * For both acceptance scenarios, attach the acceptance email or milestone document to the milestone.
 
-Note: Only top-level milestone fields should be updated. Sub-activities within the milestone remain unchanged.
+      Note: Only top-level milestone fields should be updated. Sub-activities within the milestone remain unchanged.
 
-#### 4. Internal Project Retrospective
+   4. Internal Project Retrospective
 
-Schedule an internal project retrospective meeting with the GitLab Account Team, GitLab PS Project Team, Engagement Manager, and Delivery Leads as applicable.  The [internal retrospective](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/blob/master/.gitlab/issue_templates/project_retrospective.md) is essential for documenting lessons learned, scoping insights, and opportunities for continuous improvement.
+      Schedule an internal project retrospective meeting with the GitLab Account Team, GitLab PS Project Team, Engagement Manager, and Delivery Leads as applicable.  The [internal retrospective](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/blob/master/.gitlab/issue_templates/project_retrospective.md) is essential for documenting lessons learned, scoping insights, and opportunities for continuous improvement.
 
-Note: The retrospective runs most effectively when it is prepared in advance, with relevant sections updated throughout the project lifecycle. This ensures the meeting is focused and productive.
+      Note: The retrospective runs most effectively when it is prepared in advance, with relevant sections updated throughout the project lifecycle. This ensures the meeting is focused and productive.
 
-The internal retrospective serves several key purposes:
+      The internal retrospective serves several key purposes:
 
-* Tracking Scoping Efforts: Evaluate how well the project was scoped, including any scope changes or challenges.
-* Celebrating Success: Highlight key customer milestones and wins.
-* Promoting Continuous Improvement: Encourage feedback loops to improve both processes and outcomes.
+      * Tracking Scoping Efforts: Evaluate how well the project was scoped, including any scope changes or challenges.
+      * Celebrating Success: Highlight key customer milestones and wins.
+      * Promoting Continuous Improvement: Encourage feedback loops to improve both processes and outcomes.
 
-Additionally, labels should be used strategically within the retrospective documentation. These labels make it easier to filter and search for specific types of feedback across projects, enabling the organization to implement changes more effectively.
+      Additionally, labels should be used strategically within the retrospective documentation. These labels make it easier to filter and search for specific types of feedback across projects, enabling the organization to implement changes more effectively.
 
-The Project Manager (PM) is encouraged to celebrate project accomplishments by posting a shout-out in the PS-Internal Slack channel. This not only acknowledges the team’s hard work but also enhances visibility and transparency of the project’s success across the organization, fostering a culture of recognition and collaboration.
+      The Project Manager (PM) is encouraged to celebrate project accomplishments by posting a shout-out in the PS-Internal Slack channel. This not only acknowledges the team’s hard work but also enhances visibility and transparency of the project’s success across the organization, fostering a culture of recognition and collaboration.
 
-#### 5. Kantata Updates
+   5. Kantata Updates
 
-Once the project is fully completed, with all hours submitted and accounted for, and milestone acceptance confirmed (for fixed-price projects), update the project status in Kantata to “Completed.”
+      Once the project is fully completed, with all hours submitted and accounted for, and milestone acceptance confirmed (for fixed-price projects), update the project status in Kantata to “Completed.”
