@@ -91,7 +91,7 @@ Staff Executive Business Administrators (EBA) support the CEO or an E-Group memb
 
 #### Staff Executive Business Administrator
 
-The Staff Executive Business Administrator to the CEO is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Executive Business Administrator is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Executive Business Administrator Responsibilities
 
