@@ -90,6 +90,18 @@ Product tours are a self-guided journey emphasizing the 'What' of a feature, ski
 | [Integrating security to the pipeline](https://gitlab.navattic.com/gitlab-scans) | DevSecOps | 2024-01-24 | @iganbaruch |
 | [Code Suggestions](https://gitlab.navattic.com/code-suggestions) | GitLab Duo | 2024-01-24 | @iganbaruch |
 
+### Internal Product tours 
+
+While the [product tours](#product-tours) provide guided walkthroughs with navigation dialogs and explanations at each step and can serve as self-guided tours for customers, the internal product tours are designed to help GitLab team members demo features to customers and prospects. These tours omit the explanation dialogs, creating a seamless live demo experience. Refer to the navigation guides to learn how to navigate through the flows.
+
+| Title | Area | Last updated |DRI |
+|-------|------|--------------|-----|
+| [Advanced SAST](https://gitlab.navattic.com/advanced-sast-internal) | DevSecOps Platform | 2024-09-24 | @iganbaruch |
+| [AI Impact analytics](https://gitlab.navattic.com/ai-impact-internal) | GitLab Duo | 2024-10-30 | @iganbaruch |
+| [Duo Enterprise](https://gitlab.navattic.com/duo-enterprise-internal) | GitLab Duo | 2024-10-28 | @iganbaruch |
+
+Please search for the "[product name] tour - navigation guide" (ex: Advanced SAST tour - navigation guide) in Google Drive to find the step by step instructions to navigate through these tours.
+
 ### YouTube playlists
 
 GitLab YouTube channel:
