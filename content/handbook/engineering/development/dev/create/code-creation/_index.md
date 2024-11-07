@@ -134,12 +134,17 @@ This is the template to use for the updates
 ```markdown
 ## Async Status Update yyyy-mm-dd
 
-- Current Status: _What is the current status of this issue?_
-- Next Steps: _What are the next steps for you?_
-- Blockers: _List any blockers you have_
-- Shipping this milestone? _Do you expect this to ship this milestone? If not, why?_
+- Progress & Status: _What progress have you made? What's the current state?_
+- Next Steps: _What are your planned next actions?_
+- Blockers: _Are you blocked or need assistance with this?_
+- How confident are you that this will make it to the current milestone?
+    - [ ] Not confident
+    - [ ] Slightly confident
+    - [ ] Very confident
 
-/cc @mnohr @jordanjanes
+_Remember to update the workflow label!_
+
+/cc @mnohr @jordanjanes 
 ```
 
 Be sure to tag the engineering manager, product manager, and any team members you are collaborating with.
