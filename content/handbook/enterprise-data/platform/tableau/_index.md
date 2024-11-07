@@ -3,20 +3,12 @@ title: "Tableau"
 description: "Tableau at GitLab"
 ---
 
----
-
-## Quick Links
-
-- [Tableau Online GitLab instance](https://10az.online.tableau.com/#/site/gitlab/home)
-- [Tableau eLearning Portal](https://elearning.tableau.com)
-- [Tableau Customer Portal](https://customer-portal.tableau.com/s/)
-- [Tableau Status Page](https://trust.tableau.com)
-- [Internal Slack channel](https://app.slack.com/client/T02592416/C03RMCEHVCP)
-- [External Slack channel](https://app.slack.com/client/T02592416/C031QE95QJU)
-- [GitLab Tableau Developer Guide](/handbook/enterprise-data/platform/tableau/tableau-developer-guide/)
-- [GitLab Tableau Administration Guide](/handbook/enterprise-data/platform/tableau/tableau-admin-guide/)
-- [Reporting Data Catalog](/handbook/enterprise-data/platform/tableau/reporting-data-catalog/)
-- [Tableau Embedding to Handbook Demonstration](/handbook/enterprise-data/platform/tableau/embed-demo/)
+| Quick Links | Developer Resources  | Communications |
+| ---         | ---        | ---            |
+| [Tableau Cloud - GitLab](https://10az.online.tableau.com/#/site/gitlab/home) | [GitLab Tableau Developer Guide](/handbook/enterprise-data/platform/tableau/tableau-developer-guide/) | [Internal Slack channel](https://app.slack.com/client/T02592416/C03RMCEHVCP)  | 
+| [Tableau eLearning Portal](https://elearning.tableau.com) |  [Tableau Style Guide](/handbook.gitlab.com/handbook/enterprise-data/platform/tableau/tableau-developer-guide/tableau-style-guide/)  | [External Slack channel](https://app.slack.com/client/T02592416/C031QE95QJU)   |
+| [Tableau Customer Portal](https://customer-portal.tableau.com/s/) | [Developer Tips and Tricks](/handbook.gitlab.com/handbook/enterprise-data/platform/tableau/tableau-developer-guide/tips-and-tricks-for-developers/) | |
+| [Tableau Status Page](https://trust.tableau.com) | [Tableau Embedding to Handbook](/handbook/enterprise-data/platform/tableau/embed-demo/) | |
 
 ## Tableau
 
@@ -29,23 +21,23 @@ Tableau is our Enterprise Business Intelligence tool. It is a [leader](https://w
 - **Connections:** The method Tableau used to communicate with a source of data.
   - **Direct to Source:** When Tableau uses a built in connector to communicate with source of data like Snowflake or Google Drive.
   - **Virtual Connection:** A curated connection where the communication to the source of data has been set by the admin team.  Will generally simulate a Direct to Source connection.
-  - **Published Data Source:** A curated connection to a single tableau that is the result of data modeling. It is stored on Tableau Online.
+  - **Published Data Source:** A curated connection to a single tableau that is the result of data modeling. It is stored on Tableau Cloud.
   - **Connect to A File:** A method of getting data from the files in your system into Tableau. This includes Excel files, CSV, PDF, etc.
-  - **Connect to A Server:** A method of connecting to an online data source. This includes any connection to any online data sources, including Tableau Online and Snowflake
+  - **Connect to A Server (Cloud):** A method of connecting to a data source. This includes any connection to any online data sources, including Tableau Cloud and Snowflake
 - **Connection Credentials:** The information used to certify connection to a source of data.
   - **Embedded:** Credentials are saved as part of the connection.
   - **Prompt User:** Credentials must be input every time the connection is used.
 - **Connection Freshness:** Determines how often a connection will communicate with the source of data.
   -**Live:** Will send a query to the source of data each time the data is needed.
   - **Extract:** Well send a query when prompted to the source of data storing the result in custom micro database.
-  - **Scheduled Extract:** An extract hosted on Tableau Online that will, on a fixed frequency, communicate with the source of data and update the stored data.
+  - **Scheduled Extract:** An extract hosted on Tableau Cloud that will, on a fixed frequency, communicate with the source of data and update the stored data.
 - **Data Modeling:** The method of combining multiple tables of data into a single result table.
   - **Data Warehouse:** The query to combine the table is stored in the data warehouse repository and is materialized in the data warehouse.
   - **Tableau Data Modeling:** Relationships are defined between tables, in the connection interface, directly in Tableau.
   - **Tableau Blending:** Relationships between data sources defined in the visualization construction interface.
   - **Custom SQL:** Using SQL within a connection to define the relationships between tables.
 - **Tableau Objects:** The elements that a developer will work with to create visualizations.
-  - **Project:** The folder structure maintained in Tableau Online.  This is where content permissions are administered.
+  - **Project:** The folder structure maintained in Tableau Cloud.  This is where content permissions are administered.
   - **Data Source:** A collection of connections and data modeling that results in a single result table that can be published and a stand alone file.
   - **Flow:** A collection of connections and transformation steps that will typically result in creating one or more Data Sources. A Flow is created using the Tableau application called Prep which performs data transformations. Some individuals may use the works Prep and Flow interchangeably. At GitLab we prefer all transformations go through DBT at the Data Warehouse Level.
   - **Workbook:** The base file time for creating visitations.
@@ -104,7 +96,7 @@ Our Tableau self-governing model is administered and enforced in the [GitLab Tab
 
 ### Tableau Project Architecture
 
-The Project Architecture in Tableau Online is replicated and governed in the GitLab Tableau Project. Please see the [GitLab Tableau Project](https://gitlab.com/gitlab-data/tableau) for more details. Below are descriptions of the project folders and a sample of the project architecture found in Tableau online.
+The Project Architecture in Tableau Cloud is replicated and governed in the GitLab Tableau Project. Please see the [GitLab Tableau Project](https://gitlab.com/gitlab-data/tableau) for more details. Below are descriptions of the project folders and a sample of the project architecture found in Tableau Cloud.
 
 The top-level folders in our Tableau Project, and their corresponding levels of governance, include:
 
@@ -179,7 +171,7 @@ The top-level folders in our Tableau Project, and their corresponding levels of 
 
 Please see the [project-permission-structure](/handbook/enterprise-data/platform/tableau/#project-permission-structure) section for details on the permissions for the BIOps roles.
 
-1. **Tableau Admins / Maintainer Responsibilities:** These leaders are responsible for publishing content in the Sub-Projects that role up to the Top Level Projects and are responsible for maintaining the GitLab Tableau Project. This role does not specifically include Tableau Online Site Administration responsibilities although several Top Level Project Leaders are also [Tableau Online Site Admins](/handbook/enterprise-data/platform/tableau/#tableau-online-admins).
+1. **Tableau Admins / Maintainer Responsibilities:** These leaders are responsible for publishing content in the Sub-Projects that role up to the Top Level Projects and are responsible for maintaining the GitLab Tableau Project. This role does not specifically include Tableau Cloud Site Administration responsibilities although several Top Level Project Leaders are also [Tableau Cloud Site Admins](/handbook/enterprise-data/platform/tableau/#tableau-online-admins).
 2. **Project Leader / Code Owner Responsibilities:** Project Leaders come from functional departments and teams. These leaders are responsible for reviewing and approving content for publishing in their department's folder and in cross-functional Sub-Project folders like the Go To Market folder as Code Owners. A full list of Project Leads can be found [here](https://10az.online.tableau.com/#/site/gitlab/workbooks/2730535/views).
 
 </details>
@@ -260,7 +252,7 @@ To maintain an efficient, clean, and user-friendly Tableau environment an automa
 
 Scope of Archiving:
 
-90+ days unused workbooks and data sources are archived and made inaccessible by search or via direct links. Archived items can be retrieved upon request to the BI team. The archival process is automated and ocurs on the 15th of each month by moving content to the `Admin Archive` Folder.
+90+ days unused workbooks and data sources are archived and made inaccessible by search or via direct links. Archived items can be retrieved upon request to the BI team. The archival process is automated and occurs on the 15th of each month by moving content to the `Admin Archive` Folder.
 
 Archival Exclusions:
 
@@ -509,26 +501,40 @@ Inactive licenses will be reclaimed quarterly following our [Data Health and Sec
 
 ### Access
 
-#### Tableau Online Access
+#### Tableau Cloud Access
 
-Users can request access by [creating an issue in the access requests project using the **Tableau_Request** issue template](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Tableau_Request). Follow the instructions in the template to ensure it will be picked up by the Central Data Team for provisioning.
+Users can request access by creating an issue in the access requests project using the [Tableau_Request issue template](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Tableau_Request). Follow the instructions in the template to ensure it will be picked up by the Central Data Team for provisioning.
 
 All users will be given access to their Division's sub-project by default. For access to another team's space please submit your request in a [Tableau Project issue](https://gitlab.com/gitlab-data/tableau/-/issues) via the **All Requests** template and tag the designated Lead Approver(s) for that team from the [BIOps Roles and Responsibilities](/handbook/enterprise-data/platform/tableau/#biops-roles-and-responsibilities) section for approval in your issue.
 
-Tableau Desktop users will also need a Yubikey set up in Okta to access content published in Tableau Online. Due to our new security method that only accepts Biometric or Yubikey for authentication, please request a Yubikey via the [Yubibot](/handbook/it/guides/yubikey/) to ensure that logging into Tableau will be secure and smooth. Currently biometrics are not supported yet in Tableau Desktop.
+Tableau Creators who use Tableau Desktop will need a [Yubikey](/handbook.gitlab.com/handbook/security/corporate/systems/yubikey/purchasing/#yubikey-5c-nano-fips) set up in Okta to access content published in Tableau Cloud. If you're unsure which one to get, the recommended device is the [YubiKey 5C Nano FIPS](https://www.yubico.com/product/yubikey-5c-nano-fips/). Currently biometrics are not yet supported in Tableau Desktop.
 
-Once approved, the BI Platform team will then add the user to the `okta-tableau-users` [Google Group](https://groups.google.com/a/gitlab.com/g/okta-tableau-users), add the user in [Tableau Online](https://10az.online.tableau.com/#/site/gitlab/users) and assign the correct license, then add the user to the right [Tableau Group](https://10az.online.tableau.com/#/site/gitlab/groups).
+Once approved, the BI Platform team will then add the user to the `okta-tableau-users` [Google Group](https://groups.google.com/a/gitlab.com/g/okta-tableau-users), add the user in [Tableau Cloud](https://10az.online.tableau.com/#/site/gitlab/users) and assign the correct license, then add the user to the right [Tableau Group](https://10az.online.tableau.com/#/site/gitlab/groups).
 
 #### Tableau Desktop Access
 
-Creators with an active license to Tableau Online are encouraged to use Tableau Desktop for development. Locally developed Data Sources or Workbooks can later be published to Tableau Online. All Creators will be assigned access to Tableau Online and Desktop. The BI Platform team will assign Desktop keys from the [Licenses](https://customer-portal.tableau.com/s/my-keys) section of the [Tableau Customer Portal](https://customer-portal.tableau.com/s/). Those assigned a Desktop key can follow email instructions from Tableau to set up their client.
+Creators with an active license to Tableau Cloud are encouraged to use Tableau Desktop for development. Locally developed Data Sources or Workbooks can later be published to Tableau Cloud. All Creators will be assigned access to Tableau Cloud and Desktop. Tableau Desktop keys are automatically assigned by Tableau Cloud when first connecting.
 
-One can download Tableau Desktop using the links below, or follow the link from the [Home Page](https://10az.online.tableau.com/#/site/gitlab/home) of Tableau Online.
+One can download Tableau Desktop using the links below, or follow the link from the [Home Page](https://10az.online.tableau.com/#/site/gitlab/home) of Tableau Cloud.
 
 - [Tableau Desktop Releases Download](https://www.tableau.com/support/releases)
 - [Tableau Prep Builder Releases Download](https://www.tableau.com/support/releases/prep)
 
 If you want to automatically download the latest version of Tableau Desktop for Mac, you can use [this link](https://www.tableau.com/downloads/desktop/mac).
+
+<details markdown=1>
+
+<summary><b>Updating Tableau Desktop</b></summary>
+
+To update Tableau Desktop to the latest release, follow these steps:
+
+1. **Download the Latest Version:** Visit [Tableau’s Download Page](https://www.tableau.com/support/releases) and download the latest version of Tableau Desktop.
+
+1. **Install the Latest Version:** Run the downloaded installer and follow the on-screen instructions to complete the installation of the latest version of Tableau Desktop.
+
+1. **Uninstall Previous Versions:** To maintain a clean environment and reduce any version conflicts, uninstall any previous versions of Tableau Cloud applications that may still be on your device. This can be done by closing all Tableau Desktop instances, open applications folder, locate previous versions of Tableau Desktop, and then moving them to trash. 
+
+</details>
 
 ### Tableau Desktop vs. Tableau Cloud
 
@@ -544,7 +550,7 @@ Tableau Cloud allows users to interact with content (that you've created and pub
 
 Fore more details on features offered by each version please see this Tableau article on [Web Authoring and Tableau Desktop Feature Comparison](https://help.tableau.com/current/pro/desktop/en-us/server_desktop_web_edit_differences.htm)
 
-#### Data Source Access: Tableau Online
+#### Data Source Access: Tableau Cloud
 
 Please refer to this [Connecting to Data in Tableau Guide](https://docs.google.com/document/d/17DdnVs_KrCw7ic5eJRj7D0i5x5WjfNtYRLGAozdjzSo/edit) for more details.
 
@@ -587,14 +593,14 @@ In order to use the Snowflake connector, you must have a Snowflake account assig
 
 #### Data Source Access: Tableau Desktop or Tableau Prep Builder
 
-*Important:* In order to connect Tableau Desktop to Tableau Cloud, you need to set up a [Yubikey]({{ ref "okta/#i-want-to-add-touch-id--face-id--face-authentication--yubikey-to-okta" }}) in Okta. Fingerprints will not work. Please see the [Tableau Online Access](/handbook/enterprise-data/platform/tableau/#tableau-online-access) section above for more details on how to order a Yubikey.
+*Important:* In order to connect Tableau Desktop to Tableau Cloud, you need to set up a Yubikey in Okta. Fingerprints will not work. Please see the [Tableau Cloud Access](/handbook/enterprise-data/platform/tableau/#tableau-online-access) section above for more details on how to order a Yubikey.
 
 <details markdown=1>
 
 <summary><b>Data Sources published in Tableau Cloud</b></summary>
 
 1. Connect > Search for Data > Tableau Server
-1. Quick Connect > Tableau Online
+1. Quick Connect > Tableau Cloud
 1. Log in to Okta - if Okta isn't set up for your account, login using your Tableau login & MFA
 1. Pick a published data source
 
@@ -647,7 +653,7 @@ GitLab team members who realize the full potential of analytical insights can do
 
 <summary><b>Third Party Training Resources</b></summary>
 
-- [YouTube Intellipaat - Tableau Online Training](https://www.youtube.com/watch?v=ttCDqyfrcEc)
+- [YouTube Intellipaat - Tableau Cloud Training](https://www.youtube.com/watch?v=ttCDqyfrcEc)
 - [YouTube edureka! - Tableau Full Course](https://www.youtube.com/watch?v=aHaOIvR00So)
 - [YouTube Simplilearn - Tableau Tutorial](https://www.youtube.com/watch?v=fO7g0pnWaRA)
 
@@ -790,13 +796,13 @@ For additional troubleshooting support you can [submit a support case](https://k
 | Environment | Problem | Solution |
 | ------- | ------- |------- |
 | Tableau Desktop | Error FAB9A2C5 Connecting to Snowflake when using Tableau Desktop | Check to see if the simba.snowflake.ini file is showing as DriverManagerEncoding=UTF-32. If it is set to 16 you'll have trouble connecting. [Tableau Knowledge article](https://kb.tableau.com/articles/issue/error-fab9a2c5-connecting-to-snowflake-via-odbc?lang=en-gb). |
-| Tableau Online | Invalid Consent Request when opening a workbook that asks you to log into Snowflake. | If the data source for the workbook was created using Oauth, have the workbook owner republish it using the `Embed password for data source` feature, or alternatively ask the Data Team to switch it to using the service account instead. |
-| Tableau Desktop | When publishing to Tableau Online from Tableau Desktop, all project folders are greyed out. | Click on the `>` icon next to your department's foldername to see the subfolders. You should be able to publish into those subfolders. |
+| Tableau Cloud | Invalid Consent Request when opening a workbook that asks you to log into Snowflake. | If the data source for the workbook was created using Oauth, have the workbook owner republish it using the `Embed password for data source` feature, or alternatively ask the Data Team to switch it to using the service account instead. |
+| Tableau Desktop | When publishing to Tableau Cloud from Tableau Desktop, all project folders are greyed out. | Click on the `>` icon next to your department's foldername to see the subfolders. You should be able to publish into those subfolders. |
 | Tableau eLearning | Error Message: "Missing Authentication Cookie" |  Change your browser settings as described on the [Skilljar Help Center](https://support.skilljar.com/hc/en-us/articles/360033553054) |
-| Tableau Online or Desktop | When using "Initial SQL": "An error occurred when connecting to Snowflake" | To run your own SQL queries in Tableau, don't use the `Initial SQL` functionality. Snowflake doesn't support that in this context. Use `Customer SQL Query` instead. It will be found on the bottom left of the screen after connecting to Snowflake, picking a warehouse and schema. It's found underneath the listed tables. |
-| Tableau Online or Desktop | Error "There was a problem connecting to the data source "Untitled Data Source"" when connecting to Virtual Connections  |  The password for the Snowflake service account expired. For Tableau admins: Connect to Snowflake via Oath as the service account. It will prompt you to change the password. Afterwards, edit all the virtual connections and republish them. |
-| Tableau Online or Desktop | Nondescript error when connecting to Virtual Connections |  The underlying table changed, likely with fields removed. Ask a Tableau admin to Edit the virtual connection, find the affected table/field (check 'Alerts' when editing the virtual connection), and `Exclude` the deleted field. Then republish the virtual connection. |
-| Tableau Desktop | Screen gets stuck on authenticating to Okta when connecting Tableau Desktop to Tableau Online |  Use a Yubikey to connect to Okta when using Tableau Desktop. Fingerprint authentication will not work. |
+| Tableau Cloud or Desktop | When using "Initial SQL": "An error occurred when connecting to Snowflake" | To run your own SQL queries in Tableau, don't use the `Initial SQL` functionality. Snowflake doesn't support that in this context. Use `Customer SQL Query` instead. It will be found on the bottom left of the screen after connecting to Snowflake, picking a warehouse and schema. It's found underneath the listed tables. |
+| Tableau Cloud or Desktop | Error "There was a problem connecting to the data source "Untitled Data Source"" when connecting to Virtual Connections  |  The password for the Snowflake service account expired. For Tableau admins: Connect to Snowflake via Oath as the service account. It will prompt you to change the password. Afterwards, edit all the virtual connections and republish them. |
+| Tableau Cloud or Desktop | Nondescript error when connecting to Virtual Connections |  The underlying table changed, likely with fields removed. Ask a Tableau admin to Edit the virtual connection, find the affected table/field (check 'Alerts' when editing the virtual connection), and `Exclude` the deleted field. Then republish the virtual connection. |
+| Tableau Desktop | Screen gets stuck on authenticating to Okta when connecting Tableau Desktop to Tableau Cloud |  Use a Yubikey to connect to Okta when using Tableau Desktop. Fingerprint authentication will not work. |
 
 </details>
 
@@ -806,9 +812,9 @@ For additional troubleshooting support you can [submit a support case](https://k
 
 | Environment | Tips |
 | ------- | ------- |
-| Tableau Desktop | Certain features are only available to Creators when using Tableau Desktop, and might not be there in Tableau Online. For the best experience building dashboards, use Tableau Desktop if the size of the data and the performance of your laptop allows it. |
-| Tableau Online / Desktop | When your data set allows it, use data extracts for the best performance and end user experience |
-| Tableau Online | Always save a newly created workbook first in your personal space before working on it. If you run into any issues while developing, the latest draft version can always be retrieved from there. If you don't it could disappear if you run into any issues. |
+| Tableau Desktop | Certain features are only available to Creators when using Tableau Desktop, and might not be there in Tableau Cloud. For the best experience building dashboards, use Tableau Desktop if the size of the data and the performance of your laptop allows it. |
+| Tableau Cloud / Desktop | When your data set allows it, use data extracts for the best performance and end user experience |
+| Tableau Cloud | Always save a newly created workbook first in your personal space before working on it. If you run into any issues while developing, the latest draft version can always be retrieved from there. If you don't it could disappear if you run into any issues. |
 | Tableau Desktop | If you run into a problem where Tableau Desktop crashes, clear out the logs and try to reproduce the error. Then send the logs to @mlaanen or @ttnguyen28 or post it in our external slack channel with Tableau. Follow these steps to generate the logs: Close Tableau Desktop, go to Documents > My Tableau Repository > logs, delete all the logs, Open Tableau Desktop, replicate the issue, close Tableau Desktop, open up the log files in the file path mentioned above. |
 
 </details>
@@ -820,7 +826,7 @@ For additional troubleshooting support you can [submit a support case](https://k
 1. Post your questions in the `#data-tableau` internal slack channel to see if someone in the company has the answer.
 1. Post your questions in the `#ext-gitlab-tableau` external slack channel if you need someone from Tableau to look at it.
 1. Post your questions in the [Tableau Community](https://community.tableau.com/s/) to see if someone in the wider Tableau user community has the answer.
-1. Open a support case with [Tableau Support](https://www.tableau.com/support) if you're experiencing a technical issue with the Tableau Online platform or Tableau Desktop.
+1. Open a support case with [Tableau Support](https://www.tableau.com/support) if you're experiencing a technical issue with the Tableau Cloud platform or Tableau Desktop.
     - Anyone can open a support case, however if you want expedited response and resolutions times based on [Tableau Premium Support's](https://www.tableau.com/resources/teams-organizations/premium-support) SLAs, please reach out to the BI team in #data-tableau to get support from a Tableau Admin.
 
 </details>
@@ -831,6 +837,6 @@ As more and more users are onboarded and the use of analytics grows across GitLa
 
 Because Tableau is integrated with our enterprise architecture, including hardware, network, databases, and applications, understanding how everything interoperates is key for routine monitoring, performance, and troubleshooting. The monitoring function is focused on these systems and their integration with Tableau Cloud. It is primarily technical in nature and performed by IT roles. Tableau Cloud Site Administrators will work together to ensure the platform meets evolving business needs.
 
-### Tableau Online Status
+### Tableau Cloud Status
 
-To check the current status of Tableau Online and if there are any reported outages, visit the [Tableau Status Page](https://trust.tableau.com). On that page you can also sign up for notifications in the event of an outage. For reference, GitLab's Tableau Online instance is located in `United States - West - (10AZ)`.
+To check the current status of Tableau Cloud and if there are any reported outages, visit the [Tableau Status Page](https://trust.tableau.com). On that page you can also sign up for notifications in the event of an outage. For reference, GitLab's Tableau Cloud instance is located in `United States - West - (10AZ)`.
