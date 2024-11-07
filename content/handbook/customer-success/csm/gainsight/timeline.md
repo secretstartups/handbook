@@ -17,20 +17,24 @@ The Timeline view in Gainsight gives us a chronological overview of our activiti
 
 ## Activity types
 
-The following activities can be logged in Gainsight:
+The following activities can be logged in Gainsight and automatically sync-ed to Salesforce:
 
+- **Customer Call**: Conversation with the customer using Zoom or other synchronous channel.
 - **Update**: General update on the customer, could be from an internal conversation.
-- **Customer Call**: Conversation with the customer via Zoom or other synchronous channel.
 - **In-Person Meeting**: On-site or otherwise in-person meeting with the customer.
 - **Email**: Message sent to the customer, or message thread between the CSM and the customer.
-- **At-Risk Update**: An update (similar to above) and used exclusively with red customers for providing updates specific to a risk. See [At-Risk CTA](/handbook/customer-success/csm/health-score-triage/#at-risk-cta) for details.
+- **Health Update**: An update on the customer, could be from an internal conversation and used exclusively with red customers for providing updates specific to a risk. See [At-Risk CTA](/handbook/customer-success/csm/health-score-triage/#at-risk-cta) for details.
 - **Workshop**: A customer workshop, which can include GitLab Days, Workshops, Lunch and & Learns, and more.
+- **CSE Engagement**: Conversation with a CSE/Scale customer using Zoom or other synchronous channel.
+- **CSA Engagement**: Used to track CSA engagements aligned with a Success Services engagement.
+- **Verified Outcomes**: An activity type used to provide an update regarding work aligned with a customer verified outcome.
+- **At-Risk/Escalation**: An update on the customer, could be from an internal conversation. This timeline entry type is part of a process to push update notifications to the Escalations Slack channel for visibility and collaboration.
 
-### Chorus Recordings
+### Gong Recordings
 
-When Chorus is used to record a call, a record is created in Salesforce. That activity record is then synced to Gainsight and will appear on the Timeline. CSMs can edit these activities and add additional information such as External Attendees, CSM Sentiment, etc.
+When Gong is used to record a call, a record is created in Gainsight Timeline. CSMs can edit these activities and add additional information such as External Attendees, CSM Sentiment, etc.
 
-Note: these activities will only count towards the Last Activity Date and the Engagement score if they are created by the CSM (or in other words, if the CSM was the owner of the Chorus call).
+Note: these activities will only count towards the Last Activity Date and the Engagement score if they are created by the CSM (or in other words, if the CSM was the owner of the Gong call).
 
 ### Last Activity Date
 
