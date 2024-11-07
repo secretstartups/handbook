@@ -710,6 +710,41 @@ Our guidelines for configuring models:
   - If <50% of models in a directory require the same configuration, then configure the individual models
   - If >=50% of models in a directory require the same configuration, strongly consider setting a default in the `dbt_project.yml`, but think about whether that setting is a sensible default for any new models in the directory
 
+##### Versions
+
+Model versions within dbt allow for a controlled transition between model changes that may break or significantly impact downstream uses.  When versions are defined for a model all enabled versions will be produced in the target database and schema.  This allows users of the model to access the versions side by side so that any breaking changes can be addressed while still delivering reports and analysis using an earlier version.  This is most effective when columns are removed or significant refactor of several models is taking place over multiple development cycles.
+
+###### Defining Model Versions
+
+Model versions are implemented by creating a new model file with the same name as the target model but with an added version suffix, and by defining version properties in the relevant `schema.yml` file. More details can be found in the [dbt documentation](https://docs.getdbt.com/docs/collaborate/govern/model-versions) for model versions.
+
+```yml
+# dim_date.sql
+# dim_date_v2.sql
+
+models:
+  name: dim_date
+  ...
+  versions:
+    - v: 1
+      defined_in: dim_date.sql # Only needed if there is no suffix on the model file.
+    - v: 2
+  latest_version: 1
+
+```
+
+###### Referencing Model Versions
+
+With the provided model definitions, two models will be created when the model is included in a selection, such as `dbt run --models dim_date`; `database.schema.dim_date_v1` and `database.schema.dim_date_v2`.  Additionally, with the `create_latest_version_view` post-hook, a view will be created of the latest version; `database.schema.dim_date`. This view allows users to always be on the latest version of a model without needing to know what that version is.
+
+Within dbt, if a specific version of a model needs to be used to build an other model, it can be defined in the `ref` function:
+
+```jinja
+{{ ref('dim_date', v=2) }}
+```
+
+If a version is not defined in the `ref` function then the latest version of the model will be used.
+
 ##### Depends On
 
 In normal usage, dbt knows the proper order to run all models based on the usage of the `{{ ref('...') }}` syntax. There are cases though where dbt doesn't know when a model should be run. A specific example is when we use the [`schema_union_all`](https://dbt.gitlabdata.com/#!/macro/macro.gitlab_snowflake.schema_union_all) or [`schema_union_limit`](https://dbt.gitlabdata.com/#!/macro/macro.gitlab_snowflake.schema_union_limit) macros. In this case, dbt thinks the model can run first because no explicit references are made at compilation time. To address this, a comment can be added in the file, after the configuration setting, to indicate which model it depends on:
