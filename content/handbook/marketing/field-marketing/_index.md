@@ -724,7 +724,7 @@ Waukegan, IL 60085
 
 ### Stickers
 
-Approved sticker designs are located in the [Brilliant store portal](https://app.brilliantmade.com/users/sign_in). Stickers are no bulk ordered in advance and will be produced per order. Please add the number of stickers you would like to order and then proceed to checkout. `Finalizing process with Brilliant, more to come.`
+For sticker orders, please reach out to `@krogel` for details.
 
 ### Print Collateral
 
