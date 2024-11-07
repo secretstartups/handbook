@@ -69,7 +69,7 @@ To onboard, [create an Incident Manager onboarding issue](https://gitlab.com/git
 
 ### Offboard as an Incident Manager
 
-If your eligibility status changes or you have been exempted from Incident Manager On Call assignment, [create an Incident Manager offboarding issue](https://gitlab.com/gitlab-com/gl-infra/reliability/-/blob/master/.gitlab/issue_templates/offboarding-im.md).
+If your eligibility status changes or you have been exempted from Incident Manager On Call assignment, [create an Incident Manager offboarding issue](https://gitlab.com/gitlab-com/gl-infra/production-engineering/-/issues/new?issuable_template=offboarding-im).
 
 ## What to expect during your shift
 
