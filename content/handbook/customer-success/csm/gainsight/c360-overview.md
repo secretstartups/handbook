@@ -18,13 +18,9 @@ The left side panel of the 360 contains the following sections:
 - Scorecard - [health score](/handbook/customer-success/csm/health-score-triage/)
 - Success Plan - [success plans](/handbook/customer-success/csm/success-plans/)
 - Account Hierarchy - provides a tree of parent and child account hierarchy if applicable
-- Sponsor Tracking - ability to add your key customer contacts and be notified if they leave the company
 - Cockpit - holds all of your tasks and [CTAs](/handbook/customer-success/csm/gainsight/ctas/) for the account
 - Contacts - all contacts for the account ([synced from Salesforce](/handbook/customer-success/csm/gainsight/#salesforce-and-zendesk-syncing))
-- Zendesk Tickets - recent Zendesk tickets ([synced from Zendesk](/handbook/customer-success/csm/gainsight/#salesforce-and-zendesk-syncing))
-- Subscriptions - GitLab subscription details ([synced from Salesforce](/handbook/customer-success/csm/gainsight/#salesforce-and-zendesk-syncing))
 - Opportunities - open opportunities ([synced from Salesforce](/handbook/customer-success/csm/gainsight/#salesforce-and-zendesk-syncing))
-- Salesforce Activities - "Activity History" section [from Salesforce](/handbook/customer-success/csm/gainsight/#salesforce-and-zendesk-syncing)
 - License Utilization - [license utilization](/handbook/customer-success/product-usage-data/use-case-adoption/)
 - Product Usage Trends - [product usage trends](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#gainsight-reports-and-dashboards)
 - Product Usage Scorecard Calcs - shows [calculations](/handbook/customer-success/product-usage-data/use-case-adoption/) of product usage health score
@@ -32,6 +28,7 @@ The left side panel of the 360 contains the following sections:
 - Whitespace (Use Case) - [use case technology tracking](/handbook/sales/understand-customer-gitlab-use/#use-case-technology-tracking)
 - Whitespace (Use Case Visual) - visualization of inputs from above report
 - Whitespace (Stages until transition) - tracks whitespace information based on stage
+- Webinar Participants - gives insight into registations / attendance for 1:many events (webinars, hands-on labs, etc)
 - Survey - holds all survey response data from Journey Orchestrator customer programs
 - Program Logs - automatically logs Journey Orchestrator customer program emails to the account history for visibility
 
@@ -46,10 +43,6 @@ On each account's 360, there is a "Follow" button next to the account name. If y
 ### Referenceable customers
 
 The `Referenceable Customers` field on the C360 Attributes section highlights [if a customer is a Referenceable Customer](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/). If a Customer is *not* a Referenceable Customer and they would make a great one, follow the process to Nominate a Reference Customer.
-
-### Chorus Opt Out
-
-The `Chorus/Notetaker Opt Out` field on the C360 Attributes section allows a CSM to check the box if they know that the customer does not want calls to be recorded. This field is currently only for the CSM's information and does not update any other system.
 
 ### NPS and CSAT Scores
 
