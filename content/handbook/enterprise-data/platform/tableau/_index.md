@@ -298,6 +298,8 @@ Each section below corresponds to a limited access user group and the designated
 
 - **Customer Success Access:** Please work with the Customer Success team and/or Brandon Butterfield @bbuterfield for access approval.
 
+- **Ecosystem Sales and Operations:** Please work with the Ecosystem Sales and Operations team and Evan Ludaway @Evan Ludaway or Niles Jamshaid @Niles
+
 - **Internal Audit Restricted Access:** Please work with the Internal Audit team and/or Harinakshi Poojary @hpoojary for access approval.
 
 - **People Restricted Access:** Please work with the People Analytics team and/or Adrian Perez @aperez349 for access approval.
