@@ -28,7 +28,7 @@ The left side panel of the 360 contains the following sections:
 - Whitespace (Use Case) - [use case technology tracking](/handbook/sales/understand-customer-gitlab-use/#use-case-technology-tracking)
 - Whitespace (Use Case Visual) - visualization of inputs from above report
 - Whitespace (Stages until transition) - tracks whitespace information based on stage
-- Webinar Participants - gives insight into registations / attendance for 1:many events (webinars, hands-on labs, etc)
+- Webinar Participants - gives insight into registrations / attendance for 1:many events (webinars, hands-on labs, etc)
 - Survey - holds all survey response data from Journey Orchestrator customer programs
 - Program Logs - automatically logs Journey Orchestrator customer program emails to the account history for visibility
 
