@@ -9,9 +9,9 @@ The Field Enablement Spotlight is a weekly continuous education series for all G
 
 The Field Enablement Spotlight takes place each week on Thursday, with two session options to accomidate GitLab's global field sales audience.
 
-- **(Option 1) 11:00 AM (US Eastern Time)(UTC -5)** = (8 AM Pacific Time) = **(5 PM Central European Time)**
+- **(Option 1) 11:00 AM (US Eastern Time)(UTC -5)** = (8 AM Pacific Time) = **(5 PM Central European Time)(UTC +1)**
 
-- **(Option 2) 12:00 PM (Australian Eastern Time)(UTC +11)** = (5 PM US Pacific Time)
+- **(Option 2) 12:00 PM (Australian Eastern Time)(UTC +11)** = (5 PM US Pacific Time)(UTC -8) 
 
 Attending the weekly Field Enablement Spotlight session is mandatory, with two options provided to accommodate our global audience. If team members are on paid time off or have a scheduling conflict with a customer, they may watch the session recording instead.
 
@@ -23,7 +23,7 @@ To see what training is coming soon, view the [Field Enablement Spotlight issue 
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|
-| Nov 7 |  GtHub Universe Competitive Update  | Marketing  |
+| Nov 11 |  GitHub Universe Competitive Update  | Marketing  |
 | Nov 14 | New Forrester TEI Report   | Marketing  |
 | Nov 21 |  SFDC Case Revamp & New Quote Approval Process   | RSOE Team  |
 | Nov 28 |  **No Session**  |  |
@@ -32,7 +32,7 @@ To see what training is coming soon, view the [Field Enablement Spotlight issue 
 | Dec 19 |  Analyst Relations Update  | Analyst Relations Team  |
 | Dec 26 |  **No Session**   |  |
 | Jan 2 |  TBD  |  |
-| Jan 9 |  Gong 201 Training  |  |
+| Jan 9 |  Gong 201 Training  | RSOE Team |
 | Jan 16 |  Azure DevOps Competitive Enablement  | Marketing |
 | Jan 23 | *No session during the last two weeks of the quarter*   |  |
 | Jan 30 | *No session during the last two weeks of the quarter* |    |
@@ -44,6 +44,7 @@ To see what training is coming soon, view the [Field Enablement Spotlight issue 
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2024-11-07 |  **[GitHub Universe Competitive Update](https://drive.google.com/file/d/1TIT5CBhk0wBk8dhyviFJB7Md2PnxHEWh/view?usp=drive_link)**  | Private  |
 | 2024-10-17  | **[Maximizing Sales with Customer Advocacy & References](https://drive.google.com/file/d/1JLVWoC6fxppw6e0jRpk5w68aqzxCxouL/view?usp=drive_link)**   |  Private  |
 | 2024-10-10  | **[FY25-Q3 - Competitive Intelligence Update](https://drive.google.com/file/d/1MhhqRlb-693pjrkspWIW4YJGjXx-fHv4/view?usp=drive_link)** | Private |
 | 2024-09-26  | **[Winning with Analyst Relations](https://drive.google.com/file/d/1Mtg3ifv4kozGtBBqrNfbIamwSdNcukLC/view?usp=drive_link)** | Private |
