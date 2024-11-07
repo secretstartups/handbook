@@ -4,15 +4,15 @@ title: Leadership People Operations, Technology, Analytics, TMR, & Risk
 
 ## Levels
 
-### Director, People Tools and Technology
+### Director, People Technology
 
 The Director, People Tools and Technology reports to VP, People Operations.
 
-#### Director, People Tools and Technology Job Grade
+#### Director, People Technology Job Grade
 
 The Director, People Group Tools and Technology is [Job Grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Director, People Tools and Technology Responsibilities
+#### Director, People Technology Responsibilities
 
 - Collaborate across GitLab to implement various systems to improve scalability and efficiency.
 - Create and execute a 3-Year technology roadmap.
@@ -28,7 +28,7 @@ The Director, People Group Tools and Technology is [Job Grade 10](/handbook/tota
 - Craft code that meets our internal standards for style, maintainability, and best practices for a high-scale web environment. Maintain and advocate for these standards through code review.
 - Represent GitLab and its values in public communication around specific projects and community contributions.
 
-#### Director, People Tools and Technology Requirements
+#### Director, People Technology Requirements
 
 - Ten+ years' experience in People Technology, with seven+ years' experience leading and managing a People Technology organization or Applications group at a fast growing high technology company.
 - Excellent change management skills and ability to operate effectively in a fast-paced environment.
@@ -43,7 +43,7 @@ The Director, People Group Tools and Technology is [Job Grade 10](/handbook/tota
   Relevant business/industry acumen with the ability to quickly and thoroughly understand business priorities, operations, and People enablement potential.
 - Ability to use GitLab
 
-#### Director, People Tools and Technology Hiring Process
+#### Director, People Technology Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
@@ -53,23 +53,22 @@ Candidates will then be invited to schedule a second interview with our CPO, Dir
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
-#### Director, People Tools and Technology Career Ladder
+#### Director, People Technology Career Ladder
 
 The next step is to move to Sr. Director, People Technology & Analytics
 
-### Sr. Director, People Technology & Analytics
+### Sr. Director, People Technology
 
-The Sr. Director, People Technology & Analytics reports to VP, People Operations.
+The Sr. Director, People Technology reports to VP, People Operations.
 
-#### Sr. Director, People Technology & Analytics
+#### Sr. Director, People Technology 
 
-The Sr. Director, People Technology & Analytics is [Job Grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Sr. Director, People Technology is [Job Grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Sr. Director, People Technology & Analytics Responsibilities
+#### Sr. Director, People Technology Responsibilities
 
 - Leads collaboration across GitLab to implement various systems to improve scalability and efficiency.
 - Create and execute a 3-Year technology roadmap aligned to business objectives.
-- Create and execute a data analytics roadmap, ensuring data elements required are available to support decision making and to create business insights.
 - Improve and automate our people processes that result in significant efficiencies and effectiveness across GitLab.  Process examples include Compensation planning, onboarding, career mobility and offboarding processes in particular to ensure streamlined workflows and compliance.
 - Create a scalable technology stack for the People Team that continually evaluates the most important business needs where automation would have the highest impact.
 - Create a scalable technology stack that improves the Team Member experience at GitLab.
@@ -98,7 +97,7 @@ The Sr. Director, People Technology & Analytics is [Job Grade 11](/handbook/tota
   Relevant business/industry acumen with the ability to quickly and thoroughly understand business priorities, operations, and People enablement potential.
 - Ability to use GitLab
 
-#### Sr. Director, People Technology a& Analytics Hiring Process
+#### Sr. Director, People Technology Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
@@ -108,7 +107,7 @@ Candidates will then be invited to schedule a second interview with our CPO, Dir
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
-#### Sr. Director, People Technology & Analytics Career Ladder
+#### Sr. Director, People Technology Career Ladder
 
 The next step is to move to VP, People Operations.
 
@@ -162,15 +161,15 @@ Additional details about our process can be found on our [hiring page](/handbook
 
 The next step is to move to VP, People Operations.
 
-### VP People Operations, Technology & Analytics
+### VP People Operations, Technology & Team Member Relations
 
 The VP, People Operations, Technology & Analytics reports to the [Chief People Officer](/job-families/people-group/chief-people-officer/).
 
-#### VP People Operations, Technology & Analytics Job Grade
+#### VP People Operations, Technology & Team Member Relations Job Grade
 
-The VP, People Operations, Technology & Analytics is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The VP, People Operations, Technology & Team Member Relations is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### VP People Operations, Technology & Analytics Responsibilities
+#### VP People Operations, Technology & Team Member Relations Responsibilities
 
 - Optimize and maintain all people technology systems and tools. Identify opportunities to increase efficiency, automation and data flow.
 Oversee development and management of thoughtful, scalable, People processes that balance our candidate and team member experience with compliance and legal requirements.
@@ -183,7 +182,7 @@ Oversee development and management of thoughtful, scalable, People processes tha
 - Use people-related data to drive better decision making and develop key metrics to measure candidate and team member happiness, performance, engagement, and retention
 - Conduct working sessions with users to gather, understand, and analyze business requirements.
 
-#### VP People Operations, Technology & Analytics Requirements
+#### VP People Operations, Technology & Team Member Relations Requirements
 
 - 7+ years of leading people operations in a high speed, high growth, technology-based environment
 - Advanced project management experience in handling multiple projects at once with competing priorities
@@ -212,7 +211,7 @@ Oversee development and management of thoughtful, scalable, People processes tha
 
 ## Career Ladder
 
-The next step in the VP People Operations, Technology & Analytics job family is to move to the Chief People Officer job family.
+The next step in the VP People Operations, Technology & Team Member Relations job family is to move to the Chief People Officer job family.
 
 ## Hiring Process
 
