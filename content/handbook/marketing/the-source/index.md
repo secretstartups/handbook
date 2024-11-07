@@ -26,6 +26,6 @@ Content that belongs on the [GitLab Blog](https://about.gitlab.com/blog/):
 - Open source community content
 - Company announcements
 
-If you’d like to learn more about contributing to the GitLab Blog, visit the [Blog Handbook](/blog/).
+If you’d like to learn more about contributing to the GitLab Blog, visit the [Blog Handbook](/blog/) or reach out on our internal Slack channel at `#the-source`.
 
 You can contribute to the success of [The Source](https://about.gitlab.com/the-source/) by spreading the word and sharing new posts with your network.
