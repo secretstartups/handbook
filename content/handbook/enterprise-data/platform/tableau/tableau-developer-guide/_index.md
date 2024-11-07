@@ -5,6 +5,7 @@ description: "GitLab's Tableau Developer guide"
 ## Quick Links
 
 - [Tips and Tricks](/handbook/enterprise-data/platform/tableau/tableau-developer-guide/tips-and-tricks-for-developers/)
+- [Tableau Style Guide](handbook.gitlab.com/handbook/enterprise-data/platform/tableau/tableau-developer-guide/tableau-style-guide/)
 
 ## Data Source Approach
 
