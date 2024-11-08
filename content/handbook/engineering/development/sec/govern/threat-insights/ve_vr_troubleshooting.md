@@ -27,3 +27,9 @@ Also check: [VR troubleshooting guide](https://docs.gitlab.com/ee/user/applicati
 
 1. [Production log dashboard](https://log.gprd.gitlab.net/app/r/s/Bfmiw)
 1. [Staging log dashboard](https://nonprod-log.gitlab.net/app/r/s/2OKmz)
+
+### Monitoring VR alerts
+
+1. [Elastic watcher](https://log.gprd.gitlab.net/app/management/insightsAndAlerting/watcher/watches/watch/test_g_srm_security_insights_ai_error_watcher/status)
+1. Slack channel to see alerts: [`#g_srm_security_insights_ai_error_alerts`](https://gitlab.enterprise.slack.com/archives/C07V46USRHT)
+1. Elastic logs used in watcher: https://log.gprd.gitlab.net/app/r/s/foNLr
