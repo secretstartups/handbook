@@ -31,7 +31,7 @@ The Compliance group's mission is to provide visibility into an organizations co
 - Everyone can contribute; no silos.
   - The goal is to have product give engineering and design the opportunity to be involved with direction and issue definition from the very beginning.
 - We do an optional, asynchronous daily stand-up in our stand-up channel:
-  - Govern:Compliance [#g_govern_compliance_daily](https://gitlab.slack.com/archives/C013E163FD0)
+  - Software Supply Chain Security:Compliance [#g_sscs_compliance_updates](https://gitlab.slack.com/archives/C013E163FD0)
 
 ### Code Review
 
@@ -289,7 +289,7 @@ The following is an example of an implementation approach from [https://gitlab.c
 ```
 
 The [DRI](/handbook/people-group/directly-responsible-individuals/) will ping a relevant counterpart (Quality, UX, etc) and domain expert (database, backend, frontend) before moving the issue to `workflow::scheduling`. This gives the domain expert the opportunity to approve the implementation plan or raise any potential pitfalls or concerns before work begins.
-For domain expert review of development implementation plan, in case of trivial changes, the approval can be solicited from any of the relevant compliance development team members. Do try to find a person who has context around the topic. In case of non-trivial changes, opinions from the whole relevant compliance backend or frontend or both team members should be solicited by tagging respective group (`@gitlab-org/govern/compliance/frontend` or `@gitlab-org/govern/compliance/backend`) in the issue's comment. Deciding whether the implementation is trivial or non-trivial depends on the discretion of DRI and the initial domain expert asked for review.
+For domain expert review of development implementation plan, in case of trivial changes, the approval can be solicited from any of the relevant compliance development team members. Do try to find a person who has context around the topic. In case of non-trivial changes, opinions from the whole relevant compliance backend or frontend or both team members should be solicited by tagging respective group (`@gitlab-org/govern/compliance/engineering`) in the issue's comment. Deciding whether the implementation is trivial or non-trivial depends on the discretion of DRI and the initial domain expert asked for review.
 
 Once an issue has been estimated, it can then be moved to `workflow::scheduling` to be assigned a milestone before finally being `workflow::ready for development`.
 
@@ -363,13 +363,13 @@ For one-off, topic specific meetings, please always consider recording these cal
 
 Agenda documents and recordings can be placed in the [shared Google drive](https://drive.google.com/drive/u/0/folders/0ALpc3GhrDkKwUk9PVA) (internal only) as a single source of truth.
 
-Meetings that are not 1:1s or covering confidential topics should be added to the Govern Shared calendar.
+Meetings that are not 1:1s or covering confidential topics should be added to the Software Supply Chain Security Shared calendar.
 
 All meetings should have an agenda prepared at least 12 hours in advance. If this is not the case, you are not obligated to attend the meeting. Consider meetings canceled if they do not have an agenda by the start time of the meeting.
 
 ## Planning for PTO
 
-We follow the [Govern stage PTO process](/handbook/engineering/development/sec/govern/#pto) and [GitLab team members Guide to Time Off](/handbook/people-group/paid-time-off/#a-gitlab-team-members-guide-to-time-off).
+We follow the [Software Supply Chain Security stage PTO process](/handbook/engineering/development/sec/govern/#pto) and [GitLab team members Guide to Time Off](/handbook/people-group/paid-time-off/#a-gitlab-team-members-guide-to-time-off).
 
 ## Group Shared Calendar
 
@@ -393,13 +393,13 @@ Great job! 🎉 Your PTO events will be synced to Compliance Group Shared Calend
 The EM will usually create a general update for the group on what is happening within the company and within the group on a weekly basis.
 This update currently takes the form of an issue within the [compliance update Epic](https://gitlab.com/groups/gitlab-org/govern/compliance/-/epics/3)
 
-The Compliance EM also contributes to issues in the [Govern stage weekly updates](https://gitlab.com/groups/gitlab-com/-/epics/2126) epic.
+The Compliance EM also contributes to issues in the [Software Supply Chain Security stage weekly updates](https://gitlab.com/groups/gitlab-com/-/epics/2126) epic.
 
 ## Group Members
 
 The following people are permanent members of the group:
 
-{{< stable-counterparts role="Govern.+Compliance" >}}
+{{< stable-counterparts role="Software Supply Chain Security.+Compliance" >}}
 
 ## Dashboards
 
@@ -436,12 +436,12 @@ The following people are permanent members of the group:
     - [Build board](https://gitlab.com/groups/gitlab-org/-/boards/1305010)
     - [Planning board](https://gitlab.com/groups/gitlab-org/-/boards/4657720)
 - Our Slack channels
-  - Govern:Compliance [#g_govern_compliance](https://gitlab.slack.com/messages/CN7C8029H)
-  - Daily standups [#g_govern_compliance_updates](https://gitlab.slack.com/archives/C013E163FD0)
-  - Group related sentry errors [#g_govern_compliance_alerts](https://gitlab.slack.com/archives/C05GEBG97V3)
-  - Complaince engineering alias: `@govern_compliance`
+  - Software Supply Chain Security:Compliance [#g_sscs_compliance](https://gitlab.slack.com/messages/CN7C8029H)
+  - Daily standups [#g_sscs_compliance_updates](https://gitlab.slack.com/archives/C013E163FD0)
+  - Group related sentry errors [#g_sscs_compliance_alerts](https://gitlab.slack.com/archives/C05GEBG97V3)
+  - Compliance engineering alias: `@sscs_compliance`
 - Google Group
-  - [sec-govern-compliance](https://groups.google.com/a/gitlab.com/g/sec-govern-compliance)
+  - [sec-software_supply_chain_security-compliance](https://groups.google.com/a/gitlab.com/g/sec-software_supply_chain_security-compliance)
 
 - Compliance group playlists on GitLab Unfiltered channel
   - [Product](https://www.youtube.com/playlist?list=PL05JrBw4t0KqWds1BN41IJxLd1AvpZxGu)
