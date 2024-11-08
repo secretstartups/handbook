@@ -118,7 +118,7 @@ page.
 Please see our [Becoming and Being an ASE page](becoming-and-being-an-ase.html) if:
 
 - you are considering whether to become an ASE
-- you are about to become and ASE
+- you are about to become an ASE
 - you are a new ASE
 
 ### Zendesk for ASEs
