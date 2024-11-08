@@ -5,7 +5,7 @@ description: "The key aspects of using Gainsight at GitLab to drive success for 
 
 ## What is Gainsight?
 
-Gainsight is a tool for Account Executives, Solutions Architects, and Customer Success Managers to manage the ongoing customer lifecycle.
+Gainsight is a tool for Customer Success Managers, Renewal Managers, Account Executives, and Solutions Architects to manage the ongoing customer lifecycle.
 
 ### Key Benefits of Gainsight
 
@@ -20,9 +20,9 @@ Gainsight will help across several different areas of the customer's lifecyle. S
 
 ## Getting Started
 
-There are two ways to access Gainsight: [through Salesforce](#access-via-salesforce) (recommended), and by [logging in directly](#logging-in-directly).
+There are two ways to access Gainsight: [through Salesforce](#access-through-salesforce) (strongly recommended), and by [logging in directly](#logging-in-directly).
 
-### Access via Salesforce
+### Access through Salesforce
 
 *Salesforce is the recommended way of accessing Gainsight, since you will have access to the full set of account information, including opportunities, subscription information, and activity.*
 
@@ -38,8 +38,10 @@ If you are logging in through Salesforce, you can also quickly open the Salesfor
 
 To access Gainsight directly, go to [gitlab.gainsightcloud.com](https://gitlab.gainsightcloud.com/) and when prompted for your username and password, enter *only* your GitLab email address. As soon as it is entered, the screen should change to indicate that you are using single sign-on, and when you click "log in" it will redirect you to Okta.
 
+**Not able to log in? Here is how you can get help:**
+
 - If you need to request access to Gainsight, fill out an [Access Request](/handbook/it/end-user-services/onboarding-access-requests/access-requests/#individual-or-bulk-access-request) and have your manager add the manager approved label.
-- If you need help locating the Gainsight NXT tab in Salesforce or the Gainsight Okta tile, submit an issue using the [Gainsight Request Template](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=).
+- For any Gainsight-related access questions, ping the Gainsight Admin team on the [#gainsight-users](https://gitlab.enterprise.slack.com/archives/C011ACG9MJB) Slack channel.
 
 ### Confirm your timezone
 
@@ -57,9 +59,9 @@ To adjust your individual notifications, click on your name in the upper right c
 
 ### Feature Requests
 
-New feature requests can be submitted by creating an issue and selecting the [Gainsight Request template](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=) in the Customer Success Operations project. Make sure the `gainsight` label, and optionally ether the `gainsight::feature_request` or `gainsight::bug` scoped label, are successfully applied when opening the issue. The status of all Gainsight-related issues can be viewed on the [Gainsight issue board](https://gitlab.com/groups/gitlab-com/-/boards/1609037?label_name[]=gainsight).
+New feature requests can be submitted by creating an issue and selecting the [Gainsight Request template](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/issues/new) in the Customer Success Operations project. Make sure the `gainsight` label, and optionally the `gainsight::feature_request`, `gainsight::enhancement_request`,or `gainsight::bug` labels, are successfully applied when opening the issue. The status of all Gainsight-related issues can be viewed on the [Gainsight issue board](https://gitlab.com/groups/gitlab-com/-/boards/1609037?label_name[]=gainsight).
 
-To request new email templates be added to Gainsight, open an issue in the [Sales Operations project](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues) and apply the program request or new program template if relevant. Then `@mention` a Gainsight administrator.
+To request new email templates be added to Gainsight, open an issue in the [Customer Success Operations project](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/new) and apply the program request or new program template if relevant. If you have connected with one of the team members prior to opening the issue, please go ahead and @ mention them on the request. Otherwise, we will review all asks periodically and, if accepted, assign to one of the upcoming milestones depending on workload.
 
 To view recent updates to Gainsight, view [the running changelog](https://docs.google.com/spreadsheets/d/1QknfSfX50JFOhkHZoz2VjovREWK2fJkYBxr5HEjkT9Q/edit#gid=0).
 
@@ -67,7 +69,7 @@ To view recent updates to Gainsight, view [the running changelog](https://docs.g
 
 To submit a support ticket about Gainsight, you have two options.
 
-1. Email support@gainsight.com and cc GitLab's CS Ops Manager and Gainsight Account Manager.
+1. Email support@gainsight.com and cc the GitLab Gainsight Admin team. Optionally, you can cc the Gainsight CSM.
 1. Go to the [Gainsight support website](https://support.gainsight.com/), choose Gainsight NXT, and fill out the required fields.
 
 ### Common errors & troubleshooting
@@ -99,6 +101,5 @@ If this doesn't solve the issue, reach out to [Gainsight support](#support-ticke
 
 ### Role Specific Gainsight Usage
 
-- You can find more information about how Sales uses Gainsight on the [Using Gainsight within Sales](/handbook/sales/gainsight/account-planning/) page
-- You can find more information about how Customer Success Managers use Gainsight on the [Using Gainsight for CSMs](/handbook/customer-success/csm/gainsight/) page
-- You can find more information about how Solutions Architect use Gainsight on the [Using Gainsight for SAs](/handbook/solutions-architects/processes/account-planning)
+- You can find more information about how Sales uses Gainsight on the [Using Gainsight within Sales](/handbook/sales/gainsight/account-planning/) page.
+- You can find more information about how Customer Success Managers use Gainsight on the [Using Gainsight for CSMs](/handbook/customer-success/csm/gainsight/) page.
