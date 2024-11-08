@@ -286,7 +286,8 @@ Accurate time tracking records of hours is essential to ensure revenue can be re
 - Billable hours represent work hours that a staff member reports as being aligned to a specific SOW. The format for daily time tracking for each team member is shown below, and is reviewed weekly by PS Operations and Manager
 - Hours for PTO, Holidays and Family and Friends day are no longer required to be submitted in the weekly time sheet
 - If a team member did not work the time allocated for the week, then hours would be added to the PTO feature in Kantata
-- Notes are required for the PS Time Tracking Non Credit projects only, not on customer projects
+- Notes are not required for the PS Time Tracking - Non Creditable project
+- Notes may be required for customer projects, please confirm with your Project/Program Manager before submitting time
 
   - PTO should be submitted in the time off feature in Kantata, and also follow the company guidelines, [time off process](/handbook/people-group/paid-time-off/#a-gitlab-team-members-guide-to-time-off)
   - Holidays along with Family and Friends day are scheduled on the Kantata calendar
@@ -298,9 +299,9 @@ Accurate time tracking records of hours is essential to ensure revenue can be re
 
 ****Kantata Internal Projects****
 
-Internal projects are set up to track internal time that is not customer project related. Below is the project name along with tasks and examples.
+Internal projects are set up to track internal time that is not customer project related. Below is the project link along with tasks and examples.
 
-- [PS Time Tracking Non- Creditable](https://gitlab.mavenlink.com/workspaces/34595955/?tab=project-workspace)
+- [PS Time Tracking - Non Creditable](https://gitlab.mavenlink.com/workspaces/34595955/?tab=project-workspace)
 
 ****Customer consulting projects****
 
