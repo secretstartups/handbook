@@ -177,7 +177,7 @@ Please see the [2024 Annual Notice](https://drive.google.com/file/d/1fB5r88VUiyd
 
 ### PlanSelect Tool
 
-**Need help selecting a plan? Check out the [PlanSelect Tool](https://gitlab.com/gitlab-com/content-sites/handbook/-/blob/0e31cb757a15eb669636bc33d41a9abd0c17fcfd/content/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/_index.md#:~:text=Need%20help%20selecting%20a%20plan%3F%20Check%20out%20the%20PlanSelect%20Tool%20to%20help%20you%20find%20a%20plan%20that%20best%20suits%20your%20needs.%20You%20can%20also%20reach%20out%20to%20the%20Cigna%20One%20Guide%20Service%20to%20walk%20through%20the%20GitLab%20Cigna%20plans%20available.) to help you find a plan that best suits your needs. You can also reach out to the [Cigna One Guide Service](https://gitlab.com/gitlab-com/content-sites/handbook/-/blob/0e31cb757a15eb669636bc33d41a9abd0c17fcfd/content/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/_index.md#:~:text=Need%20help%20selecting%20a%20plan%3F%20Check%20out%20the%20PlanSelect%20Tool%20to%20help%20you%20find%20a%20plan%20that%20best%20suits%20your%20needs.%20You%20can%20also%20reach%20out%20to%20the%20Cigna%20One%20Guide%20Service%20to%20walk%20through%20the%20GitLab%20Cigna%20plans%20available.) to walk through the GitLab Cigna plans available.
+**Need help selecting a plan? Check out the [PlanSelect Tool](https://myplanselect.com/navigation/Gitlab/2025) to help you find a plan that best suits your needs. You can also reach out to the [Cigna One Guide Service](https://drive.google.com/file/d/1eIvtYtYPSt3Q0h-Byd16CFFfT0bxv8yF/view) to walk through the GitLab Cigna plans available.
 
 ### Medical Allowance
 
