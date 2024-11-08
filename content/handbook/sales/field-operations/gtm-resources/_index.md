@@ -12,16 +12,16 @@ description: "Operations, Procedures, Documentation"
 - [Sales](https://gitlab.com/groups/gitlab-com/sales-team/-/issues) - general sales related needs & issues
 - [Marketing](https://gitlab.com/groups/gitlab-com/marketing/-/issues) - all issues related to website, product, design, events, webcasts, lead routing, social media and Developer Relations
 - [Customer Success SA Triage](https://gitlab.com/gitlab-com/customer-success/sa-triage-boards) - technical pre-sales requests
+- [Requesting Internal Support in Salesforce](/handbook/sales/field-operations/requesting-internal-support/) 
+- [HelpLab](https://helplab.gitlab.systems/esc) (through Okta) - Salesforce bug fixes and feature requests (IT)
 
 ### Slack: A short list of the helpful Slack channels
 
 - `#customer-success`
 - `#sales-support`
-- `#sfdc-users`
 - `#sdr_global`
 - `#smb`
 - `#mktgops`
-- `#outreach`
 - `#it_help`
 - `#marketing_programs`
 - `#marketing`
