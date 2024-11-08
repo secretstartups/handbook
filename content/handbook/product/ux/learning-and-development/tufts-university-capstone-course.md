@@ -26,9 +26,9 @@ Each year in the fall, the project lead recruits GitLab Team Member [volunteers]
 
 At the start of the spring semester (usually in January), the participating students vote on which proposal they would like to work on.
 
-The volunteer team begins meeting weekly with the students once they have decided on a proposal. Weekly meetings continue throughout the spring semester (usually until late April or early May).
+The volunteer team begins meeting weekly with the students once they have decided on a proposal. Weekly meetings continue throughout the spring semester (In 2025, the students' spring semester is **January 15, 2025 through May 9, 2025**).
 
-At the end of the semester, the students present their results to an internal audience at GitLab (which is open to the entire org). They also present their final project to their professors.
+At the end of the semester, the students present their results to an internal audience at GitLab (which is open to the entire org). They also present their final project to their professor.
 
 Following the end of the semester, the project lead solicits feedback from volunteers and students, documents the results of the project, and arranges for the following year's project leadership.
 
@@ -117,7 +117,7 @@ In the lead up to the project start, the project lead should:
 - Recruit GitLab Team Member [volunteers](#how-to-volunteer), keeping in mind the ideal [volunteer team composition](#volunteer-team-composition).
 - Solicit at least 2 [project proposals](#project-proposals) from GitLab team members for students to vote on.
 - Communicate with the Product team DRIs (Product Manager, Product Designer, UX Researcher) that own the feature area for each project proposal.
-- Coordinate with the professors, Linda Borghesani (`Linda.Borghesani@tufts.edu`) & Nick Katis (`Nick.Katis@tufts.edu`). They will arrange for the students to choose which proposal.
+- Coordinate with the professor, Linda Borghesani (`Linda.Borghesani@tufts.edu`). She will arrange for the students to choose which proposal.
 
 #### During the project
 
@@ -137,7 +137,7 @@ While the project is in progress, the project lead should:
 - Hold stakeholder review sessions for larger deliverables, such as the discovery research proposal. These meetings should _at least_ include the Product Manager, Product Designer, and UX Researcher of the product area the project focuses on. These can take place instead of a weekly sync or at a separate time depending on the team's preference.
 - Use issues in the project to track sponsor-assigned tasks, such as project prep and reviewing student deliverables.
 - Record weekly check-ins and add them to the [Tufts Capstone Project playlist](https://www.youtube.com/watch?v=ykRgoFRjNkE&list=PL05JrBw4t0KoZr3rjOL2xv5c66_C526nE) on Unfiltered. This playlist is private, as some recordings will contain confidential information, such as reviews of confidential research or competitors.
-- If the students and professors are interested, organize a final presentation for them in a GitLab-held Zoom meeting. Be sure to:
+- If the students and professor are interested, organize a final presentation for them in a GitLab-held Zoom meeting. Be sure to:
   - include the Product Department as attendees.
   - Add the event to the GitLab team meetings calendar by following [these steps](/handbook/tools-and-tips/#adding-an-event-to-the-gitlab-team-meetings-calendar).
   - Post in `#whats-happening-at-gitlab` for extra transparency.
