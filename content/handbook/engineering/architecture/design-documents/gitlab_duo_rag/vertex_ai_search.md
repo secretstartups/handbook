@@ -17,7 +17,7 @@ toc_hide: true
   - Date access level: Green (No authorization required)
   - Data source: `https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc`
   - Data size: approx. 56,000,000 bytes. 2194 pages.
-  - Service: `https://docs.gitlab.com/` ([source repo](https://gitlab.com/gitlab-org/gitlab-docs)
+  - Service: `https://docs.gitlab.com/` ([source repo](https://gitlab.com/gitlab-org/gitlab-docs))
   - Example of user input: "How do I create an issue?"
   - Example of expected AI-generated response: "To create an issue:\n\nOn the left sidebar, select Search or go to and find your project.\n\nOn the left sidebar, select Plan > Issues, and then, in the upper-right corner, select New issue."
 
