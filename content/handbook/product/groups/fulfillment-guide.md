@@ -47,6 +47,49 @@ Not all Fulfillment features are available at the time for all types of customer
 
 > You can access the [internal handbook page](https://internal.gitlab.com/handbook/engineering/fulfillment/namespace-storage-enforcement/) for more details about the storage enforcement.
 
+## Fufillment support admin tooling  
+
+Last updated on 11-Nov-2024
+
+Most of [mechanizer](https://gitlab.com/gitlab-com/support/toolbox/mechanizer) functions that are used by support L&R team is being migrated into CustomersDot admin [view](https://customers.staging.gitlab.com/admins/sign_in)
+
+- More details on phased approach can be found in this epic [here](https://gitlab.com/groups/gitlab-org/-/epics/14169)
+- We are currently making 2 functions available in production as part of our BETA roll out. 
+- The goal here is to have these new CustomersDot functions co-exist with Mechanizer and identify any significant gaps during usage
+- Please provide feeback [here](https://gitlab.com/gitlab-org/fulfillment/meta/-/issues/2086 ) for future improvements or fixes as needed
+
+### New functionality in CustomersDot admin view 
+
+Please navigate to **support** menu item on CustomersDot admin view to find the below functionalities
+
+#### Trial updates for Saas 
+
+- This new functionality replaces the use of UpdateGitlabplan function on Mechanizer for .com trials
+- Shows a list of trials to edit
+- Click the pencil icon to open edit view of particular trial
+- Edit the end date of the trial 
+- Convert to other applicable trials (Premium or Ultimate as applicable) More plans will be available in the future
+- Verify if updated trial is synced to Gitlab.com
+- [Demo](https://gitlab.com/gitlab-org/customers-gitlab-com/-/merge_requests/10561#screenshots-or-screen-recordings)
+
+#### Trial updates for SM  
+
+- This new page replaces the use of `UpdateGitlabplan` function on Mechanizer for SM trials
+- Displays a list of all trials for self managed
+- Add new license tab will allow creation of trial license for user email and user count with a start and end date
+- Please add the Zendesk ticket ID in the notes section for reference
+- [Demo](https://gitlab.com/groups/gitlab-org/-/epics/14262#note_2178647916)
+
+### How to get access to this feature on CustomersDot Admin view 
+ 
+This feature is currently limited a few users from LnR support team but can be rolled out others in support once we have tested everything
+
+- Please note you will require the following permissions to be set via Okta to access these functions on CustomersDot view
+  - `okta-cdot-prod-support-admins` for production
+  - `okta-cdot-stg-support-admins` for staging
+- To be added to these groups - Please raise an AR request and get an approval from support team managers
+- Please note **you will not need** `license read/write permissions` on CustomersDot to use these new functions under support menu item.
+
 ## Temporary renewal extensions
 
 Sales Rep can generate a temporary extension via SFDC for one of the approved reasons. Extension can be generated 1-15 days before subscription end date or 1-13 days after subscription end date, with a default expiration date of 21 days after subscription end date (followed by the [grace period of 14 days for SaaS extensions only](https://docs.gitlab.com/ee/subscriptions/self_managed/#subscription-expiry)).
