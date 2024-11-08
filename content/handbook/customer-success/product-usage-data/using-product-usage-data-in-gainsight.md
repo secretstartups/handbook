@@ -24,30 +24,48 @@ For a high level overview (7 minutes), see the [Using Product Usage Reporting in
 
 ## Quick links
 
-<div class="flex-row" markdown="0" style="height:80px">
-<a href="/handbook/customer-success/product-usage-data/" class="btn btn-purple" style="width:50%;height:100%;margin:5px;display:flex;justify-content:center;align-items:center;">Operational Data <br> Vision Page</a>
-<a href="https://metrics.gitlab.com/" class="btn btn-purple" style="width:50%;height:100%;margin:5px;display:flex;justify-content:center;align-items:center;">Metrics Dictionary</a>
+<div class="grid-container" markdown="0">
+  <a href="/handbook/customer-success/product-usage-data/" class="btn btn-purple">Operational Data <br> Vision Page</a>
+  <a href="https://metrics.gitlab.com/" class="btn btn-purple">Metrics Dictionary</a>
+  <a href="/handbook/sales/field-operations/sales-systems/license-usage-app/" class="btn btn-purple">Salesforce License <br> Utilizaton App</a>
+  <a href="/handbook/business-technology/data-team/data-catalog/product-usage-data/" class="btn btn-purple">Data Team Handbook</a>
+  <a href="/handbook/customer-success/product-usage-data/use-case-adoption/" class="btn btn-purple">Health Scoring - Calculations and Methodology</a>
+  <a href="/handbook/customer-success/product-usage-data/using-gainsight-data-in-sfdc/" class="btn btn-purple">Using Gainsight Usage Reporting <br> in Salesforce</a>
+  <a href="/handbook/customer-success/product-usage-data/use-case-adoption/#license-utilization-in-gainsight" class="btn btn-purple">License Utilization <br> in Gainsight</a>
+  <a href="/handbook/customer-success/csm/health-score-triage/#gainsight-scorecard-attributes-and-calculations" class="btn btn-purple">Gainsight Scorecard <br> Attributes and Calculations</a>
+  <a href="/handbook/customer-success/product-usage-data/freemium-saas-usage-data/" class="btn btn-purple">SaaS Free/Trial <br>Usage Reporting</a>
+  <a href="/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#frequently-asked-questions" class="btn btn-purple"> Product Usage Reporting FAQs </a>
 </div>
-<div class="flex-row" markdown="0" style="height:80px">
-<a href="/handbook/sales/field-operations/sales-systems/license-usage-app/" class="btn btn-purple" style="width:50%;height:100%;margin:5px;display:flex;justify-content:center;align-items:center;">Salesforce License <br> Utilizaton App</a>
-<a href="/handbook/business-technology/data-team/data-catalog/product-usage-data/" class="btn btn-purple" style="width:50%;height:100%;margin:5px;left;display:flex;justify-content:center;align-items:center;">Data Team Handbook</a>
-</div>
-<div class="flex-row" markdown="0" style="height:80px">
-<a href="/handbook/customer-success/product-usage-data/use-case-adoption/" class="btn btn-purple" style="width:50%;height:100%;margin:5px;left;display:flex;justify-content:center;align-items:center;">Health Scoring - Calculations and Methodology</a>
-<a href="/handbook/customer-success/product-usage-data/using-gainsight-data-in-sfdc/" class="btn btn-purple" style="width:50%;height:100%;margin:5px;left;display:flex;justify-content:center;align-items:center;">Using Gainsight Usage Reporting <br> in Salesforce</a>
-</div>
-<div class="flex-row" markdown="0" style="height:80px">
-<a href="/handbook/customer-success/product-usage-data/use-case-adoption/#license-utilization-in-gainsight" class="btn btn-purple" style="width:50%;height:100%;margin:5px;left;display:flex;justify-content:center;align-items:center;">License Utilization <br> in Gainsight</a>
-<a href="/handbook/customer-success/csm/health-score-triage/#gainsight-scorecard-attributes-and-calculations" class="btn btn-purple" style="width:50%;height:100%;margin:5px;left;display:flex;justify-content:center;align-items:center;">Gainsight Scorecard <br> Attributes and Calculations</a>
-</div>
-<div class="flex-row" markdown="0" style="height:80px">
-<a href="/handbook/customer-success/product-usage-data/freemium-saas-usage-data/" class="btn btn-purple" style="width:50%;height:100%;margin:5px;left;display:flex;justify-content:center;align-items:center;">SaaS Free/Trial <br>Usage Reporting</a>
-<a href="/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#frequently-asked-questions" class="btn btn-purple" style="width:50%;height:100%;margin:5px;left;display:flex;justify-content:center;align-items:center;">Product Usage Reporting FAQs</a>
-</div>
+
+<style>
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 10px;
+  width: 100%;
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 15px;
+  height: 100%;
+  min-height: 80px;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.btn-purple {
+  background-color: #6666c4;
+  color: white;
+}
 
 ## Gainsight reports and dashboards
 
-Use the [Product Usage Reporting - v2](https://gitlab.gainsightcloud.com/v1/ui/home#/191fa30f-7632-4000-b57a-edb62d9bb81b) Dashboard to see the full list of your accounts.
+Use the [Product Usage Reporting - v2](https://gitlab--jbcxm.vf.force.com/one/one.app#eyJjb21wb25lbnREZWYiOiJvbmU6YWxvaGFQYWdlIiwiYXR0cmlidXRlcyI6eyJhZGRyZXNzIjoiaHR0cHM6Ly9naXRsYWItLWpiY3htLnZmLmZvcmNlLmNvbS9hcGV4L0dhaW5zaWdodE5YVCNkYXNoYm9hcmQlMjMlMkYxNzE0MTVhNy04ZTJhLTQ3YWYtODFmMy1iYTU1N2IxNjlhOGQifX0=) Dashboard to see the full list of your accounts.
 
 When using the Account C360 page, these topics are most relevant for evaluating usage:
 
@@ -187,24 +205,11 @@ The instance types are synced from Gainsight to Snowflake weekly and updated Sun
 
 ### Multiple Production Instances Health Scoring
 
-When an account has multiple GitLab instances identified as Production (Instructions on how to [Update Self-Managed Instance Type](#self-managed)), the Product Usage health measures the most recently updated instance instead of the primary instance, causing scoring inconsistencies.
+When an account has multiple GitLab instances identified as Production (Instructions on how to [Update Self-Managed Instance Type](#self-managed)).
 
-*Note: this is less than 5% of the time because the vast majority of accounts have a single production instance.*
+Health Scores are now calculated by aggregating usage data at the Account level combining all the instances across the organization as well as in Gainsight health scoring. The values are provided to Gainsight and the proper Red/Yellow/Green values are displayed based on the following [thresholds](handbook/customer-success/product-usage-data/use-case-adoption/). 
 
-#### Solution
-
-[Video Instructions](https://youtu.be/N0JUABX88Hg) to update instance data in Gainsight to include only one instance in Product Usage health measure.
-
-1. On the account C360 scroll to the **Instance and Namespace Details Section**
-2. Scroll right to see the **Included in Health Measure** column
-3. To exclude instances, click **⋮**, **Edit**, and then select "Opt-Out" in the `Included in Health Measures` to EXCLUDE the instance section. NOTE: Make sure you select "Opt-Out" rather than null, or the system may overwrite your update. Then click Update
-4. To select your **primary** instance for health scoring, click on **⋮**, Edit, and click "Included in Health Score" then click "Update"
-
-**Best Practices**:
-
-1. Only have ONE instance marked as "Included in Health Measure"
-2. All Production instances are automatically marked "Included in Health Measure" unless they are marked "Opt-Out"
-3. Select "Opt-Out" rather than null, or the system may overwrite your update
+Users will still need to verify and assign which instance is the primary one if there are any issues observed.
 
 <details>
 
@@ -230,7 +235,7 @@ The Product Stage definitions have been extracted from the [Metrics Dictionary](
 
 Eventually, the metrics list and definitions will be embedded directly in the handbook. As a first iteration, the list of metrics and their definitions are in the [Data Mart - Table Definitions](https://docs.google.com/spreadsheets/d/1EhSXqx6YXcpqHg2TpS0ZN5Rk_d2hhrTPrW5FTbmuZjw/edit#gid=0) spreadsheet.
 
-See our technical documentation for our [instance of Gainsight's Adoption Explorer](https://docs.google.com/document/d/1TvSCT_yj73AS0PuLxPonuF5QHWyM3dqG_i8H1U1cwf0/edit).
+See our technical documentation for our [instance of Gainsight Adoption Explorer](https://docs.google.com/document/d/1TvSCT_yj73AS0PuLxPonuF5QHWyM3dqG_i8H1U1cwf0/edit).
 
 ### User and project adoption metrics
 
