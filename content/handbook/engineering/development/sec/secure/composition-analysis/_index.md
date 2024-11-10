@@ -378,6 +378,7 @@ The Composition Analysis group maintains several projects to provide our scannin
 - [gemnasium analyzer](https://gitlab.com/gitlab-org/security-products/analyzers/gemnasium)
 - [gemnasium-maven-plugin](https://gitlab.com/gitlab-org/security-products/analyzers/gemnasium-maven-plugin)
 - [gemnasium-gradle-plugin](https://gitlab.com/gitlab-org/security-products/analyzers/gemnasium-gradle-plugin)
+- [dependency-scanning analyzer](https://gitlab.com/gitlab-org/security-products/analyzers/dependency-scanning)
 - **Internal only** [gitlab-depscan](https://gitlab.com/gitlab-org/security-products/gitlab-depscan)
 
 Additional notes:
@@ -387,8 +388,6 @@ Additional notes:
 ### Container Scanning
 
 - [container-scanning analyzer](https://gitlab.com/gitlab-org/security-products/analyzers/container-scanning/)
-- [Cluster Image Scanning related code](https://gitlab.com/gitlab-org/cluster-integration/gitlab-agent/-/blob/master/internal/module/starboard_vulnerability/agent/scanner.go),
-needed for [Operational Container Scanning](https://docs.gitlab.com/ee/user/clusters/agent/vulnerabilities.html) feature.
 
 ### License-db
 
@@ -404,6 +403,8 @@ needed for [Operational Container Scanning](https://docs.gitlab.com/ee/user/clus
 
 - [trivy-k8s-wrapper](https://gitlab.com/gitlab-org/security-products/analyzers/trivy-k8s-wrapper)
 - [OCS module](https://gitlab.com/gitlab-org/cluster-integration/gitlab-agent/-/tree/master/internal/module/starboard_vulnerability)
+- [Cluster Image Scanning related code](https://gitlab.com/gitlab-org/cluster-integration/gitlab-agent/-/blob/master/internal/module/starboard_vulnerability/agent/scanner.go)
+  - Needed for [Operational Container Scanning](https://docs.gitlab.com/ee/user/clusters/agent/vulnerabilities.html) feature.
 
 The OCS module is part of the [`gitlab-agent`](https://gitlab.com/gitlab-org/cluster-integration/gitlab-agent) project which is maintained by the `Environments` group. The `Composition Analysis` group is responsible for maintaining only the OCS module.
 
@@ -424,6 +425,9 @@ To do so, we mirror their repository and execute our security scans on them (whe
 
 - [trivy](https://gitlab.com/gitlab-org/security-products/dependencies/trivy)
 - [trivy-db](https://gitlab.com/gitlab-org/security-products/dependencies/trivy-db)
+- [trivy-java-db](https://gitlab.com/gitlab-org/security-products/dependencies/trivy-java-db)
+  - The [`oras-mirror-config`](https://gitlab.com/gitlab-org/security-products/dependencies/trivy-java-db/-/tree/oras-mirror-config?ref_type=heads)
+    branch contains a scheduled pipeline that keeps the `registry.gitlab.com/gitlab-org/security-products/dependencies/trivy-java-db:1` image up to date.
 - [trivy-db-data](https://gitlab.com/gitlab-org/security-products/dependencies/trivy-db-data)
 - [trivy-db-glad](https://gitlab.com/gitlab-org/security-products/dependencies/trivy-db-glad)
 - [vuln-list-update](https://gitlab.com/gitlab-org/security-products/dependencies/vuln-list-update)
