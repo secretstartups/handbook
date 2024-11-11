@@ -77,6 +77,38 @@ Approvers for net new flows are dependent on the team creating the flow.
   - Renewals Managers: `Suzy Verdin`
   - SMB Advocates: `Mike Smith`
 
+### New Sales Dev Manager Flow Approval Process (Nov 2024)
+
+**Mandatory Manager Approval Checks:**
+
+- Is the name of the flow inline with our naming conventions? If no, adjust it
+  - Department, Inbound/Outbound, High Touch/Low Touch, Region, Description, Language
+  - Example: SD IB LT EMEA CONTENT GER
+  - All Sales Dev flows begin with “SD”
+- Are there labels used that align to our naming convention? (Do not create new labels)
+- Is email tracking on/off for each email step?
+- Consider toggling manual steps to allow them to include their own template
+- Are the steps inline with HT/LT principles? HT should always have Phone calls and LI steps
+- Are there A/B tests included? (not mandatory but recommended)
+- Recommend previewing/testing the flow to ensure that variables are set up correctly
+- Note: Setting email steps to manual is the only way they’ll be able to customize messaging
+
+**Look at the Settings:**
+
+- Should this be a Master Flow or Individual Flow? Groove Master Flows are designed for multiple people to use, while Individual Flows are intended for individual use (1 rep). By default flows made by reps will be individual flows which the managers can change in the settings. 
+- Is the Unsubscribe Footer on?
+- If you are sharing a flow with sales do not turn on edit permissions
+- Should there be an expiration date for this flow (use when only to be used for certain date range like an event)
+- Global Block Rules should be toggled on (should be automatic)
+- Make sure the flow is shared with each team you would like to have access to the flow. 
+- Do not grant edit permissions on master flows. 
+
+**Manager Recommendations:**
+
+- Come up with an intake process otherwise you will have duplicate efforts from team members and you will spend a ton of time approving flows rather than analyzing results. 
+- Only approve LT flows for very specific reasons - include that in the description of the flow
+- Schedule recurring monthly checks of flow analytics to help with deprecation and promotion of flows
+
 ### Sales Flows
 
 For Sales, blank flows have been pre built for each team member to choose based on frequency of communication, and if you would like to majority call versus email, or a mix of both.
@@ -109,7 +141,7 @@ In the email body of some emails of flows, there are references to a meeting lin
 
 ### Labels and Searching for Flows
 
-Labels are how Flows and Templates are organized in Groove. Currently there are no collections in Groove so we must use labels to search for the flows we are looking for.
+Labels are how Flows and Templates are organized in Groove. 
 
 **Label Categories:**
 
@@ -123,6 +155,16 @@ Important Notes on Searching using Labels:
 
 - When you filter by choosing multiple labels it creates an “and” statement between all of the labels you choose. For example, if you choose the labels “SD OB HT AMER” and “Motion: Competitive Atlassian” it will show every flow that has EITHER of those labels.
 - Best practice is to only filter down by one label and then search for the key word in the flow you are looking for. For example, you can filter by “SD IB HT AMER” and then in the search bar you can search the word “trial” to narrow your search down to all of the HT AMER Trial flows.
+
+### Groove Collections
+
+- Team Collections:  Managers own flow approvals for their team members. They are responsible for their team collection which includes: defining their process for content submissions, adhering to naming conventions & labels, quarterly deprecation and reporting on what’s converting. ex. SD EMEA DACH TEAM
+
+- Inbound collections: are required for all MQLs. Ops would own editing etc. To have these changed, approval would require ops.
+
+- SD Good outbound collection: owned by Ops and will only include highest performing flows. These flows will be added over the next 90 days as data from Groove comes in 
+
+- SD Assist: Flow to be used for special circumstances (Action Qualifying, Move High Priority Leads, Web Directs ect.)
 
 ### Notable Flows
 
