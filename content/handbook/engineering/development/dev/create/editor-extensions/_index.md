@@ -108,6 +108,8 @@ We prioritise technical debt in the monthly TypeScript Contributors
 meeting ([example meeting issue](https://gitlab.com/gitlab-org/editor-extensions/meta/-/issues/160)).
 This meeting can be found in the team calendar (also in the frontend and Create stage calendars).
 
+The detailed process for setting up the meeting can be found in this [team snippet](https://gitlab.com/gitlab-org/editor-extensions/meta/-/snippets/4767546).
+
 We vote on [all technical debt issues](https://gitlab.com/groups/gitlab-org/-/issues/?sort=created_date&state=opened&label_name%5B%5D=tech-debt&or%5Blabel_name%5D%5B%5D=group%3A%3Aeditor+extensions&or%5Blabel_name%5D%5B%5D=Category%3AWeb+IDE&not%5Blabel_name%5D%5B%5D=Deliverable&first_page_size=100)
 with emoji reactions and then discuss the top priority issues in the meeting. The most upvoted issues
 are prioritised (if capacity allows it) in our next milestone.
