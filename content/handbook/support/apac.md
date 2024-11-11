@@ -131,7 +131,9 @@ each financial quarter.
 
 | **Quarter** | **Cliff Number** | **Notification Issue**  |
 |-------------| ---------------- | ------------------------|
-| FY25-Q2 (Current) | 8 | [STM#6046](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/6046) |
+| FY25-Q4 (Current) | 9 | [STM#6468](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/6468) |
+| FY25-Q3     | 9 | Not calculated until Q4 so not notified                   |
+| FY25-Q2 | 8 | [STM#6046](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/6046) |
 | FY25-Q1 | 9 | [STM#5821](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/5821) |
 | FY24-Q4 | 8 | [STM#5672](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/5672) |
 | FY24-Q3 | 7 | [STM#5494](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/5494) |
