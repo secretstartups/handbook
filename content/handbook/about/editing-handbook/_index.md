@@ -195,6 +195,23 @@ If you delete, rename, or move a page, you should:
    - Note: When searching for links, use the page name. Sometimes links use references or relative links, meaning it doesn't use the full path.
 1. [add a redirect](https://handbook.gitlab.com/docs/development/#redirects).
 
+## Editing page maintainers
+
+On the right side of the page, there is a list "Maintainers".
+
+The list is generated from the `CODEOWNERS` file in the relevant repository, such as in [the handbook repository](https://gitlab.com/gitlab-com/content-sites/handbook/-/blob/main/.gitlab/CODEOWNERS):
+
+- Only specific users are listed. Members of a group are not listed.
+- The list is generated based on the most specific path:
+
+  - If users are specified for a directory and then for a specific page in that directory,
+    the list includes the users for the specific page.
+  - If groups or subgroups are listed for a specific page without any specific users,
+    the list of maintainers is empty.
+
+Changes to the `.gitlab/CODEOWNERS` file require approval.
+Review the bot comment for instructions on how to get the appropriate approval.
+
 ## Editing content from shortcodes
 
 When trying to edit content, you may encounter content that is "built" using [shortcodes](https://handbook.gitlab.com/docs/shortcodes/) and data files.
