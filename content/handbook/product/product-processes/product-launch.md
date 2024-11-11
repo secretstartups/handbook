@@ -10,6 +10,7 @@ description: How to launch a product or service at GitLab.
 Launching a product or service at GitLab involves coordination across a wide range of teams. Launching products smoothly is a critical part of delivering value to the customer, ensuring a positive customer experience, and positioning us to meet our financial targets. Our ability to efficiently manage the New Product Introduction (NPI) process will become increasingly important as we bring new products to market more frequently. To ensure that we launch new product offerings, service offerings, or SKUs effectively; we require a set of steps that happen in phases.
 
 To launch features into our existing product set and tiers, use [this process](/handbook/product/tiering-guidance-for-features/) instead.
+This process often interlocks with the Go-to-Market Field Enablement function which supports launching and ensuring adoption of new products and services within our sales field team and ultimately with our customers. Learn more about this process on the [GTM Enablement page](/handbook/sales/field-operations/field-enablement/gtm-enablement.md).
 
 ### Summary of phases
 
