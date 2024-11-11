@@ -33,11 +33,18 @@ reproduction purposes. This instance can be accessed at the following URLs:
 - OpenSearch: https://opensearch.dedicatedtestsandbox.gitlab-private.org/_dashboards/
 - Grafana: https://grafana.dedicatedtestsandbox.gitlab-private.org/
 
-To receive an invite, ask Armin, Brie, Matthew or Wei-Meng.
+To receive an invite, ask Armin, Brie, Daphne or Wei-Meng.
 
-When running a test on the GitLab Support Dedicated instance, please communicate about it on the Slack channel [#spt_pod_dedicated](https://gitlab.enterprise.slack.com/archives/C058LM1RL3V).
-As we are all sharing the same test instance, and if your test may impact the whole instance, post a message at the beginning of a test with an estimate duration.
-Upon test completion, please use the emoji `:done:` to show you reverted the changes and the test is completed.
+### Conducting a test
+
+When running a test on the GitLab Support Dedicated instance, 
+
+- consider whether your test can be conducted in an instance deployed via the [Sandbox Cloud Realm](/handbook/company/infrastructure-standards/realms/sandbox/)
+- communicate about it on the Slack channel [#spt_pod_dedicated](https://gitlab.enterprise.slack.com/archives/C058LM1RL3V)
+- revert your changes when you are done
+
+As the test instance is shared within the GItLab Support team, post a message at the beginning of a test with an estimate duration if the test is likely to impact the performance of the instance.
+Upon test completion, revert your changes and use the emoji `:done:` to show the test is completed and the instance has been restored to the previous state.
 
 The Switchboard console can be accessed at https://console.gitlab-private.org/tenants/40.
 Follow [these instructions](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/switchboard/-/tree/main#process-to-provision-new-users-pre-production-environment)
