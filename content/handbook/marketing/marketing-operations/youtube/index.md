@@ -137,9 +137,19 @@ If you mark a video private when it doesn't need to be, it is be easy to undo: s
 
 Secrets (e.g. access tokens, private keys, passwords, and credentials to systems running on GitLab infrastructure) and GitLab team member personal data (phone numbers, home address) should never be shared in public. Any video that exposes secrets or team member personal data should not be shared as a public YouTube recording.
 
-Similarly, internal-only documents and private or confidential issues should not be shared publicly in YouTube videos. If a video uploaded to the unfiltered channel exposes non-public information, [make it private quickly](#make-private-quickly).
+Similarly, internal-only documents and private or confidential issues should not be shared publicly in YouTube videos.
 
-Videos which expose secrets or internal information can be made public again after ensuring that all sensitive information has been redacted using the [Blur feature in YouTube Studio](https://support.google.com/youtube/answer/9057652?hl=en).
+If a video contains secrets or sensitive information:
+
+1. Do not publish the video on YouTube or any other public platform.
+2. Immediately revoke any secrets that were exposed in the video.
+3. For other sensitive information like personal data, redact the information using the [Blur feature in YouTube Studio](https://support.google.com/youtube/answer/9057652?hl=en).
+4. Only after all secrets have been revoked and sensitive information redacted, you may proceed with publishing the video.
+
+Remember that blurring is not a substitute for revoking exposed secrets. Always prioritize revoking secrets over relying solely on blurring.
+
+If a video containing secrets or non-public information is accidentally uploaded to the Unfiltered channel, [make it private quickly](#make-private-quickly) and use `/security` in Slack to [engage the security engineer on call](/handbook/security/security-operations/sirt/engaging-security-on-call/#engage-the-security-engineer-on-call) to follow up on the leak.
+Videos which initially exposed secrets or internal information can be made public again only after ensuring that all secrets have been revoked and sensitive information redacted.
 
 ## Why not Google Drive
 
