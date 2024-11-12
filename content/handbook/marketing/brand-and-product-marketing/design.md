@@ -134,12 +134,6 @@ The best way to get in contact with the Brand design team is to fill out one of 
 - Ask your question in the #marketing-design Slack channel.
 - For video specific questions or assistance, please reach out in the #brand_video Slack channel.
 
-#### Team logo requests
-
-In the past we have accommodated internal team logo requests, typically in the form of customized tanukis. As our company grows, this approach is not scalable for the Brand Design team. Additionally, altering the logo or using too many logos diminishes the integrity of our brand identity and dilutes our brand awareness. We understand the desire for teams within GitLab to have their own identity, but this should not be prioritized over the business value that comes from preserving our core branding. For this reason, all designs should complement and adhere to our brand guidelines.
-
-If your team works on a larger initiative, please refer to our [program lockup guidelines](https://design.gitlab.com/brand-logo/branded-lockups#program-lockups). These lockups should be used in conjunction with the GitLab logo and branding. If you are unsure if your program or initiative requires a lockup, please [contact the Brand Design team](/handbook/marketing/brand-and-product-marketing/design/#contacting-the-team).
-
 ### Working with the brand
 
 To learn more about our [Brand Guidelines](https://design.gitlab.com/brand/overview?_gl=1%2a19y18w7%2a_ga%2aNzk5NDI4OTg0LjE2ODA4MDA5Nzk.%2a_ga_ENFH3X7M5Y%2aMTY4MjAyMjM3Ni4xMS4xLjE2ODIwMjI5MDUuMC4wLjA.), self-service resources and assets, and training materials, check out the [Brand Resources](https://design.gitlab.com/brand-overview/resources) handbook. Below you will find more details about working with our brand and creative materials.
@@ -207,10 +201,6 @@ Artwork that draws inspiration from or is based on GitLab's intellectual propert
 - Do not combine Fanart with other companies' materials or anything else unrelated to GitLab.
 
 If you have questions, reach out to the Brand Design and Brand Strategy teams in the `#brand` Slack channel.
-
-#### Team member resource group (TMRG) requests
-
-We take a unique, creative approach specifically for [TMRGs](/handbook/company/culture/inclusion/erg-guide/#definition-of-the-tmrg---team-member-resource-groups). In lieu of custom logos for the groups, our team delivers expressive art that can be used for swag and other requested collateral. TMRGs are an essential part of our company's culture, and we tailor the graphics to capture each group's essence and values. TMRG graphics should always be paired with the GitLab logo and incorporate the TMRG name in plain text. All art should lean on the foundations of our [core branding](https://design.gitlab.com/brand/overview).
 
 ## Canva best practices
 
