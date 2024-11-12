@@ -28,7 +28,7 @@ When thinking about the users of your product, you will likely come up with a nu
 
 When thinking about your screener questions, try to organize them like a funnel to narrow down participants, starting with broad questions and moving to more specific questions.
 
-![Start with broad questions and move to more specific questions to narrow down participants](screener_funnel.png)
+![Start with broad questions and move to more specific questions to narrow down participants](/handbook/product/ux/ux-research/screener_funnel.png)
 
 ### Step 3: Build the screener
 
