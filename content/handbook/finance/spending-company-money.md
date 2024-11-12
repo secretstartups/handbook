@@ -10,7 +10,7 @@ title: "Spending Company Money"
 1. Spending Company money includes travel and expenses.
 1. You may privately use GitLab property, a MacBook for example, to check your private e-mails or watch a movie as long as it does not violate the law, harm GitLab, or interfere with Intellectual Property. More details can be found in the [Internal Acceptable Use Policy](/handbook/people-group/acceptable-use-policy).
 1. File your expense report in a timely manner, as expense claims over 90 days from purchase date will not be reimbursed unless approved by your Manager.  The sooner it is submitted, the sooner you will get reimbursement.
-1. If team members knowingly submit expenses for reimbursement for personal purchases that are not covered in the expense policy, this is a violation of our [Code of Business Conduct & Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).
+1. If team members knowingly submit expenses for reimbursement for personal purchases that are not covered in the expense policy, this is a violation of our [Code of Business Conduct & Ethics](https://s204.q4cdn.com/984476563/files/doc_downloads/govdoc/GitLab-Code-of-Business-Conduct-Ethics-2024-06-25.pdf).
 
 ## Policy Links and Resources
 
