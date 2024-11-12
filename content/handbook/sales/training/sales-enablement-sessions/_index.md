@@ -13,7 +13,7 @@ The Field Enablement Spotlight takes place each week on Thursday, with two sessi
 
 - **(Option 2) 12:00 PM (Australian Eastern Time)(UTC +11)** = (5 PM US Pacific Time)(UTC -8) 
 
-Attending the weekly Field Enablement Spotlight session is mandatory, with two options provided to accommodate our global audience. If team members are on paid time off or have a scheduling conflict with a customer, they may watch the session recording instead.
+Attending the weekly Field Enablement Spotlight session is mandatory, with two options provided to accommodate our global audience. If team members are on paid time off or have a scheduling conflict with a customer, they may watch the session recording in a timely manner.
 
 ## Upcoming Training
 
@@ -23,7 +23,6 @@ To see what training is coming soon, view the [Field Enablement Spotlight issue 
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|
-| Nov 11 |  GitHub Universe Competitive Update  | Marketing  |
 | Nov 14 | New Forrester TEI Report   | Marketing  |
 | Nov 21 |  SFDC Case Revamp & New Quote Approval Process   | RSOE Team  |
 | Nov 28 |  **No Session**  |  |
@@ -231,10 +230,51 @@ To see what training is coming soon, view the [Field Enablement Spotlight issue 
 
 **Note: To watch private videos on GitLab Unfiltered, please look at the Handbook page on [watching private videos.](/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube) which includes a link to [this 2-minute video](https://www.youtube.com/watch?v=dZtCuOf5aGk).**
 
-## To request new sales enablement sessions
+## To request new Field Enablement Spotlight sessions
 
-- Complete and submit this [Field Enablement Spotlight Request issue template](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/new?issuable_template=sales_enablement_sessions)
+- Complete and submit this [Field Enablement Spotlight Request issue template](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/new#)
 - For urgent requests, please send a Slack message to #field-enablement-team and mention @John Blevins
+- An example of the template is shown below with guidance on how to fill out each section. 
+
+### **Overview** 
+
+> *Please provide a brief overview for the session that articulates why the field audience will want to attend, this will be used to create communications for the session.*
+
+### **Date & Time** 
+
+> *Please list the desired date for the session. The Field Enablement Spotlight takes place each week on Thursday, with two session options to accomidate GitLab’s global field sales audience.*
+
+### **Presenter(s)** 
+
+> *Make sure the presenter(s) are able to cover both session options, or find alternative presenter(s) that can cover both session options. If possible please consider inviting a member of the field sales team to speak about their experiences to support your topic.*   
+
+- **(Option 1) 11:00 AM (US Eastern Time)(UTC -5)** = (8 AM Pacific Time) = **(5 PM Central European Time)(UTC +1)**
+
+- **(Option 2) 12:00 PM (Australian Eastern Time)(UTC +11)** = (5 PM US Pacific Time)(UTC -8)
+
+### **Learning Objectives** 
+
+> *Please write 2-3 key takeaways you would like for the audience to be informed about as a result of the session.*
+
+### **Resources** 
+
+> *Please list all session resources within the planning issue, including presentations and other related content. All session content must be ready for review by Field Enablement and departmental leadership one week prior to the session air date.* 
+
+### **Session Format** 
+
+> *Consider the desired session format and style including but not limited to Interview, Ask Me Anything, Presentation with Q&A, and Panel Discussion.*
+
+### **Session Length** 
+
+> *The Field Enablement Spotlight takes place every week on Thursday. Please choose a session length appropriate for the topic, length of presentation, and expected volume of questions from the audience. 30 minutes is the standard session length, with 15 minutes for presentation and 15 minutes for questions from our audience. When needed sessions can be extended to 45 or 50 minutes.*
+
+### **Call to Action** 
+
+> *What action(s) do you want field team members to take after this session?*
+
+### **Polling** 
+
+> *If you would like to add a poll to your session, please write the poll question and answer choices that should be presented to the audience.*
 
 ## Get an invite to the weekly session
 
@@ -389,6 +429,38 @@ The moderator should serve as the host of the call and overall wingperson for th
 - Promote the recorded session availability on #sales & #customer-success Slack channels.
 - Check the zoom meeting report & record the number of total attendees as a comment in the issue.
 - Update the quarterly Spotlight attendace report with .csv attendance report from zoom to show attendance by region, department, and leader.
+
+## Spotlight Reporting 
+
+### Attendance Reporting
+
+The Spotlight Attendance Report is available as of FY25-Q3 and is the single source of truth for attendance which includes live session attendance and async recording views via Highspot. The report is updated weekly and shows attendance for all Spotlight sessions sorted by geo, team, and leader.
+
+### Satisfaction & Usefulness Reporting 
+
+At the end of each Spotlight session, a zoom survey launches automatically and asks attendees 3 questions. Each week, ratings for satisfaction and usefulness are averaged, then divided by 5 to calculate a percentage, the ratings scale is outlined below. 
+
+- On a scale of 1 - 5 please rate **your satisfaction with the information presented.**
+
+- On a scale of 1 - 5 please rate **if this was a good use of your time.**
+
+- Optional (free response): **Do you have any feedback you'd like to share on this topic?**
+
+**Ratings Scale:**
+
+- **Highly Effective (90%+):** Indicates excellent engagement and alignment with audience needs. 
+
+- **Effective (85%-89%):** Shows strong value and relevance with minor areas for improvement.
+
+- **Moderately Effective (70%-84%):** Acceptable value, though adjustments are recommended.
+
+- **Needs Improvement (50%-70%):** Limited impact; significant changes to content or delivery may be needed.
+
+- **Ineffective (below 50%):** Low relevance or engagement, requiring major content overhaul or redirection.
+
+**A report is provided each week** to the presenter(s) and regional leaders containing the post meeting survey results on slack via #field-enablement-team. Scores are analyzed to identify areas for improvement. Insights are used to refine session content, pacing, and relevance, ensuring ongoing alignment with field needs and optimizing engagement.
+
+**At the end of each quarter**, a quarterly program results readout for Onboarding & Continuous education is created. In this report all Spotlight sessions are listed along with all survey, attendance, and recording view data. 
 
 ## Additional Enablement Pages
 
