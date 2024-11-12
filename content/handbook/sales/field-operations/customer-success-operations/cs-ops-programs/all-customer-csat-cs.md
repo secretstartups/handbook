@@ -2,7 +2,7 @@
 title: "All-Customer CSAT Survey (CS)"
 description: "A deep dive into Customer Succeess's (CS) twice-yearly CSAT survey"
 ---
-## *What is the “All-Customer CSAT Survey Survey?*
+## *What is the “All-Customer CSAT Survey?"*
 
 Administered by the Customer Success team via Gainsight to a larger audience, these surveys assess customer satisfaction with GitLab's overall support, service levels, and customer experience. Further, this survey represents a macro-level baseline for Customer Satisfaction Scoring, not drive customer-level interactions and escalation.
 
@@ -46,11 +46,6 @@ Survey results are analyzed and made available in the following formats:
 * **Gainsight:** CSAT scores are comprehensively tracked in the Customer 360, providing a detailed view of customer satisfaction over time. Additionally, a universal dashboard offers a consolidated overview of all CSAT surveys sent, enabling easy monitoring and analysis.  
 * **Salesforce:** Survey responses can also be found in the embedded Gainsight widget on any account page in Salesforce.
 
-**Key Terms:**
-
-* **Promoters:** Customers who are highly satisfied with GitLab and are likely to recommend it to others.  
-* **Detractors:** Customers who are dissatisfied with GitLab and may be less likely to continue using the product or recommend it to others.
-
 **Scoring Methodology**
 
 Each question is scored by dividing the total number of customers who select “Very Satisfied” (5) or “Satisfied” (4) by the total number of responses, then multiplied by 100\.
@@ -85,7 +80,7 @@ In customer success, the primary teams in Customer Success who action survey fee
 
 **Customer Success Leadership:**
 
-* Customer Success leadership (both CSM and CSE) will schedule calls with customers, focusing on those who score as ‘detractors’ to understand where the customer experience is insufficient and what improvements we can make.
+* Customer Success leadership (both CSM and CSE) will schedule calls with customers, focusing on those who score as dissatisfied responses to understand where the customer experience is insufficient and what improvements we can make.
   * Future state: there will be a formal program to track and manage customer programs that are born as a direct result of customer feedback (likely in FY26 Q1).  
 * The CSSO team will provide resources and guidance for CS leaders and their teams to ensure that they have the tools and knowledge necessary to effectively manage CSAT surveys and leverage customer feedback to improve GitLab's products and services.
 
