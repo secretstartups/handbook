@@ -1,3 +1,7 @@
+---
+title: "Google Analytics 4"
+---
+
 ## Google Analytics 4
 
 [Google Analytics 4](https://analytics.google.com/analytics/web/#/p267713722/) (GA4) is a web analytics tool and the successor to Universal Google Analytics, which was discontinued in July 2024. GA4 provides metrics and dimensions for website traffic and user experience on GitLab's web properties, including:

@@ -1,4 +1,5 @@
 ---
+title: "Cells: Infrastructure"
 stage: core platform
 group: Tenant Scale
 description: 'Cells: Infrastructure'
@@ -9,8 +10,6 @@ toc_hide: true
 ---
 
 {{< design-document-header >}}
-
-# Cells: Infrastructure
 
 ## Pre-reads
 

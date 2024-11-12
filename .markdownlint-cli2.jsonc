@@ -16,8 +16,6 @@
   "config": {
     "default": true,
     "code-block-style": { "style": "fenced" },
-    "first-header-h1": false,
-    "first-line-h1": false,
     "header-style": { "style": "atx" },
     "hr-style": { "style": "---" },
     "line-length": {

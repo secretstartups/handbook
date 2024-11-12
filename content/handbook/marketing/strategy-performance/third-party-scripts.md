@@ -1,3 +1,7 @@
+---
+title: "Marketing Third-Party Scripts"
+---
+
 ## Marketing Third-Party Scripts
 
 A marketing script, pixel, or tag is a small piece of code embedded on a web page by a third-party provider, typically an advertising or analytics platform, to gather data or perform specific functions. These scripts can track user interactions, collect demographic information, or enable targeted advertising by monitoring user behavior. They are often used for website analytics, ad retargeting, conversion tracking, or audience segmentation. While these tools can be valuable for optimizing marketing campaigns and enhancing user experiences, they also need to comply with privacy and security policies, as they may share data with third-party providers.

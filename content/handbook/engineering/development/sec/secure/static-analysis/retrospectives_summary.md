@@ -1,3 +1,7 @@
+---
+title: "Retrospective summaries"
+---
+
 ## Retrospectives
 
 This page contains executive summaries of retrospectives done by the Secure::static analysis group. The purpose of these summaries is to externalize lessons learned during the retrospective process.

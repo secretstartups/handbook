@@ -1,6 +1,8 @@
 ---
+title: Placeholder
 draft: true
 description: Partial not currently in use
+toc_hide: true
 ---
 
 ### Labels
