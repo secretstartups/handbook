@@ -300,7 +300,7 @@
 /content/handbook/company/infrastructure-standards/ @gitlab-com/gl-security/identity/infra
 
 ^[it]
-/content/handbook/it/ @NabithaRao
+/content/handbook/it/ @mbeee @ericrubin @dzhu-gl @smanzuik @joshlemos 
 
 ^[legal]
 /content/handbook/company/esg.md @robin @slcline
