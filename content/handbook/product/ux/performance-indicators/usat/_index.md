@@ -64,7 +64,7 @@ Once all email waves have been sent and you've hit the sample size goal for the 
 
 When filling in the survey, UX Research gives USAT respondents the option to indicate whether they would be open to a follow up interview. As part of the analysis, the UX Research DRI will compile a list of users who agreed to the follow up interview (see [Google Sheet template for USAT follow up users](https://docs.google.com/spreadsheets/d/1425a6pwfjTKjTpiNKPGYzvwzEHUgm5L3JorFv8cE2wk/edit?usp=sharing)).
 
-After the research report is shared out, the UX Research DRI will notify Product Managers, Product Designers, and Customer Success Managers about USAT responders who opted into contact via this [USAT Responder Outreach issue template](https://gitlab.com/gitlab-org/ux-research/-/blob/master/.gitlab/issue_templates/USAT%20Responder%20Outreach%20(UX%20Research%20only).md?ref_type=heads). The USAT responder outreach workflow is described in more detail [here](/handbook/product/product-processes/#pcsat-responder-outreach).
+After the research report is shared out, the UX Research DRI will notify Product Managers, Product Designers, and Customer Success Managers about USAT responders who opted into contact via this [USAT Responder Outreach issue template](https://gitlab.com/gitlab-org/ux-research/-/blob/master/.gitlab/issue_templates/USAT%20Responder%20Outreach%20(UX%20Research%20only).md?ref_type=heads). The USAT responder outreach workflow is described in more detail [here](/handbook/product/product-processes/#usat-responder-outreach).
 
 ### Displaying the data
 
@@ -77,7 +77,7 @@ There are two internal dashboards in Tableau meant for presenting USAT results:
 * [USAT Scores](https://10az.online.tableau.com/#/site/gitlab/views/DRAFT-UXKPIs/WIPDRAFTCSATScores?:iid=7): This dashboard shows the number and percentage of responses between those who are satisfied with GitLab the product (ratings of `satisfied` and `very satisfied`) and those who are not (ratings of `neutral`, `dissatisfied`, and `very dissatisfied`).
 * [USAT Line Chart](https://10az.online.tableau.com/#/site/gitlab/views/DRAFT-UXKPIs/WIPDRAFTCSATLineChart?:iid=7): This dashboard shows the USAT score on a quarterly basis in order to track our score over time.
 
-These dashboards can also be found in the [UX Department Performance Indicators page](/handbook/product/ux/performance-indicators/#product-customer-satisfaction-pcsat-score).
+These dashboards can also be found in the [UX Department Performance Indicators page](/handbook/product/ux/performance-indicators/#regular-performance-indicators).
 
 The survey data in the [analysis template](https://docs.google.com/spreadsheets/d/1Klb9RO83F7EiB6TojIxvr-qEqyXjr36P7LJ-S4b0924/edit?usp=sharing) gets connected to Tableau to show data from the current and previous quarters. UX Research is responsible for working with Product Data Insights to update these Tableau dashboards each quarter.
 
