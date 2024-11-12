@@ -131,6 +131,82 @@ This structure has the following benefits:
 
 The definitions can be potentially improved by introducing inheritance. When a feature has mostly the same definition for all models, it can inherit from or include a base definition and extend it.
 
+#### Versioning
+
+By versioning our prompts, we allow feature developers to pin the prompt they are using to an immutable value, enabling other developers to safely work on iterations with the guarantee that this [will not cause regressions](https://gitlab.com/groups/gitlab-org/-/epics/15816). For example, [Custom Models prompts for Duo Chat on Mistral prompts were broken due to changes to upstream Claude prompts](https://gitlab.com/gitlab-org/gitlab/-/issues/498290).
+
+##### Why Semantic Versioning
+
+ We use semantic versioning for versioning our prompts, where each version is a file within the target prompt. Using semantic version enables us to communicate expectations about compatibility:
+ 
+- A bump to the patch means a fix to the prompt that is backwards compatible.
+  - Example: [removing a rogue `\n`](https://gitlab.com/gitlab-org/modelops/applied-ml/code-suggestions/ai-assist/-/merge_requests/1589)
+- A bump to the minor means a feature addition that doesn't require any changes to the api 
+  - Example: a new parameter is added to the template but a default is provided
+- A bump to the major means a non-backwards compatible change: 
+  - Example: the template prompt new parameters but providing a default is not possible.
+
+Since this versions are pinned on consumers of the prompts, new iterations will not affect existing released features.
+
+Another benefit we get by using semantic versioning is the extensive [tooling](https://pypi.org/project/semantic-version/) for resolving a version. Intead of receiving a specific version, AIGW can resolve a version based on a spec (for example, `1.x` would fetch the highest stable version with major being 1).
+
+##### Version structure
+
+If we have a version `1.0.0` and `2.0.0` for prompts support completion for gpt, versions `1.0.0` and `1.0.1` for claude_3 and only `1.0.0` for the default model, then the versioned prompt directory will look like:
+
+```yaml
+definitions/
+  code_suggestions/
+    completion/
+      gpt/
+        1.0.0.yml
+        1.0.0-rc.yml
+        2.0.0.yml
+      claude_3/
+        1.0.0.yml
+        1.0.1.yml
+    partials/
+      completion/
+        user/
+          1.0.0.yml
+```
+
+##### Pinning a version
+
+Clients should provide a specific range of the prompt to indicate which updates they want to use automatically (patch, minor). For most AI features, this means setting a version range in the Rails app (e.g. `^1.0`), which also allows us to control version changes using feature flags. Some other features, like code completions, will require setting the range in their respective clients (e.g. the VSCode extension, the GitLab Language Server, etc).
+
+##### Releasing new versions and version expectations
+
+Release candidates (`-alpha`, `-beta`, `-rc`) are ignored by version resolvers, and must be mentioned manually. They are not required to be immutable, which makes them useful for testing a new feature or fix behind a feature flag:
+
+```ruby
+def prompt_version
+  return '1.0.1-rc' if Feature.enabled?(:feature_fix)
+
+  '^1.0'
+end
+```
+
+This ensures that self-hosted instances can still receive tested updates: self-hosted will only fetch stable versions, as well as evaluations with CEF.
+
+Once results with the release candidate prompt match the expectations, the suffix can be removed. At this point, the version becomes immutable. This can be done once usage was tested (ideally with a feature flag) AND evaluations were run and taken into account.
+
+Some prompts also use template partials to reuse parts across different features: these must also be versioned, since changing them can affect multiple different features. To release a new version of a prompt partial, first create a release version of the partial, and mention that partial in the a new release version for the main prompt.
+
+##### Migration process
+
+This change requires no action by feature teams initially. The change will be automated: the current prompt directory will be migrated automatically, and every prompt will be assigned `1.0.0` as initial version. The version requested by clients, when not provided, will be `1.0.0` as well. That way, changes initially transparent to feature teams. Once the migration to prompt versioning takes place however, the versioning expectations will be enforced.
+
+Migration work is highlighted in [this epic](https://gitlab.com/groups/gitlab-org/-/epics/15837)
+
+##### Disadvantages
+
+- We do not have diffing between consecutive versions in GitLab. We can still diff between files using command line.
+
+- The immutability of a prompt file might not fit our workflow, and require too many new files to be created. As alternative, we can relax the requirement for patches, and just create new files at the minor updates. 
+
+Both downsides can be tackled by moving prompts to it's own repository, so that version updates become new commits instead of new files.
+
 ### Code Completion
 
 #### Current behavior
