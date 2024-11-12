@@ -20,14 +20,13 @@ Please see the internal [Wiki](https://gitlab.com/gitlab-com/Finance-Division/fi
 ## Meet the Team
 
 - [Sarah McCauley](/handbook/company/team/#s_mccauley) - Senior Director, Billing & Accounts Receivable (Global)
-- [Anna Piaseczna](/handbook/company/team/#annapiaseczna) - Senior Manager, GPO Billing Operations (Global)
 - [Josephine Hararah](/handbook/company/team/#josephinehararah) - Senior Manager, Billing Operations (Global)
-- [Simone Polverini](/handbook/company/team/#spolverini) - Manager, Billing Operations (EMEA and APAC)
+- [Kinga Polgardi](/handbook/company/team/#kingapolgardi) - Manager, Billing Operations (EMEA and APAC)
 - [Cristine Sotomango Marquardt](/handbook/company/team/#csotomango) - Manager, Billing Operations (AMER)
 - [Karen McKinney](/handbook/company/team/#k.mckinney) - Senior Billing Operations Analyst (AMER)
-- [Kinga Polgardi](/handbook/company/team/#kingapolgardi) - Senior Billing Operations Analyst (EMEA)
 - [Ausha Saptouw](/handbook/company/team/#aushas) - Senior Billing Operations Analyst (EMEA)
 - [Laura Robins](/handbook/company/team/#laurarobins) - Senior Billing Operations Analyst (EMEA)
+- [Nicole Ann Garcia](/handbook/company/team/#nicoleannprecilla) - Billing Operations Associate (EMEA/APAC)
 - [Christian Willis](/handbook/company/team/#christianwillis) - Senior Billing Operations Analyst (AMER)
 - [Diana Quitevis](/handbook/company/team/#dquitevis) - Billing Operations Specialist (AMER)
 
