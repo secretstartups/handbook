@@ -968,7 +968,7 @@ Most decisions are easy to reverse. In these cases, the [Directly Responsible In
 
 ##### Changing proposals isn't iteration
 
-Changing something without shipping it is a revision, not iteration. Only when the change is rolled out to users, [these can be internal users or a limited customer group](#start-off-by-impacting-the-fewest-users-possible), can you learn from feedback. When you're changing a proposal based on different opinions, you're frequently wasting time; it would be better to roll out a small change quickly and get real world feedback. Never call a revision an iteration because it is almost the opposite.
+Changing something without shipping it is a revision, not iteration. Only when the change is rolled out to users, whether [internal users or a limited customer group](#start-off-by-impacting-the-fewest-users-possible), can you learn from feedback. When you're changing a proposal based on different opinions, you're frequently wasting time; it would be better to roll out a small change quickly and get real world feedback. Never call a revision an iteration because it is almost the opposite.
 
 ##### Embracing Iteration
 
