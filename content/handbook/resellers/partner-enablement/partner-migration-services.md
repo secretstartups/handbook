@@ -28,6 +28,8 @@ The [Migration Readiness Checklist](https://gitlab.com/gitlab-org/professional-s
 
 Communicating clearly [What are a customer's obligations and responsibilities prior to, during, and after a migration?](https://gitlab.com/gitlab-org/professional-services-automation/tools/migration/congregate/-/blob/master/customer/famq.md#what-are-a-customers-obligations-and-responsibilities-prior-during-and-after-a-migration) and [What level of instance access and permission are needed for migrating?](https://gitlab.com/gitlab-org/professional-services-automation/tools/migration/congregate/-/blob/master/customer/famq.md#what-level-of-instance-access-and-permission-are-needed-for-migrating) with your customer will also ensure a smooth migration.
 
+Similarly, the [Migration group](https://gitlab.com/gitlab-org/professional-services-automation/delivery-kits/migration-delivery-kits) of our [GitLab Professional Services Delivery Kits](https://gitlab.com/gitlab-org/professional-services-automation/delivery-kits) can be very helpful, because these projects "provide step-by-step instructions on delivering everything from a single activity to an entire statement of work (SOW)"
+
 ## From other DevOps platforms to GitLab
 
 To migrate projects from systems other than GitLab, please review the list of [Supported import sources](https://docs.gitlab.com/ee/user/project/import/#supported-import-sources) and [Other Import Sources](https://docs.gitlab.com/ee/user/project/import/#other-import-sources) (anchor link on the same page).
@@ -97,6 +99,12 @@ Important to note about Congregate:
 - [Customer's obligations and responsibilities - Congregate FAMQ](https://gitlab.com/gitlab-org/professional-services-automation/tools/migration/congregate/-/blob/master/customer/famq.md#what-are-a-customers-obligations-and-responsibilities-prior-during-and-after-a-migration)
 
 - [Limitations of Self-Managed to SaaS migrations via Congregate - Congregate FAMQ](https://gitlab.com/gitlab-org/professional-services-automation/tools/migration/congregate/-/blob/master/customer/famq.md#what-level-of-instance-access-and-permission-are-needed-for-migrating)
+
+## Migrating package/container registries
+
+[Recommendation](https://gitlab.com/gitlab-org/professional-services-automation/tools/migration/congregate/-/blob/master/customer/famq.md#does-congregate-migrate-data-from-packagecontainer-management-tools-like-artifactory-or-nexus) (regardless of the use of Congregate): "We typically suggest customers establish pipeline jobs in GitLab after source code migration to publish these containers/packages to the GitLab registry as desired. For customers who are interested in maintaining audit history, we suggest keeping the legacy package/container registry tool around with a reduced license spend until the audit window expires."
+
+In case the migration of history is also required, the [packages importer tool](https://gitlab.com/gitlab-org/ci-cd/package-stage/pkgs_importer) can be used. Documentation [here](https://docs.gitlab.com/ee/user/packages/package_registry/supported_functionality.html#importing-packages-from-other-repositories).
 
 ## GitLab Professional Migration Services
 
