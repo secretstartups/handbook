@@ -134,10 +134,10 @@ This is the template to use for the updates
 ```markdown
 ## Async Status Update yyyy-mm-dd
 
-- Progress & Status: _What progress have you made? What's the current state?_
-- Next Steps: _What are your planned next actions?_
-- Blockers: _Are you blocked or need assistance with this?_
-- How confident are you that this will make it to the current milestone?
+- **Progress & Status**: _What progress have you made? What's the current state?_
+- **Next Steps**: _What are your planned next actions?_
+- **Blockers**: _Are you blocked or need assistance with this?_
+- **How confident are you that this will make it to the current milestone?**
     - [ ] Not confident
     - [ ] Slightly confident
     - [ ] Very confident
