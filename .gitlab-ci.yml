@@ -345,7 +345,7 @@ secret_detection:
 ####################################
 
 post_comment_on_failure:
-  needs: ["markdownlint", "handbooklint", "vale"]
+  needs: ["markdownlint", "handbooklint", "vale", "hugolint"]
   when: on_failure
   stage: notify
   image:
