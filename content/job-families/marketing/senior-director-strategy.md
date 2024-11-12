@@ -1,3 +1,6 @@
+---
+title: "Senior Director, Strategy"
+---
 
 ### Senior Director, Strategy
 

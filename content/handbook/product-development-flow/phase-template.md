@@ -1,3 +1,7 @@
+---
+title: "Phase template"
+---
+
 ### Track Phase X: Phase Name
 
 Label: `~label`

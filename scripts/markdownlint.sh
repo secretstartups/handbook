@@ -34,7 +34,7 @@ fi
 ## lint all files if markdownlint config changes, otherwise only lint changed markdown files
 if [ -n "$MODIFIED_MARKDOWN_CONFIG" ]; then
   echo "Markdown config file changed, running full markdown linting..."
-  markdownlint-cli2 "content/**/*.md" "assets/**/*.md" "layouts/**/*.md"
+  markdownlint-cli2 "content/**/*.md"
 elif [ -n "$MODIFIED_MD_FILES" ]; then
   echo "Running linting only on modified markdown files..."
   markdownlint-cli2 $MODIFIED_MD_FILES

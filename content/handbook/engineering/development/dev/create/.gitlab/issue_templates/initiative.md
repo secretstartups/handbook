@@ -1,3 +1,8 @@
+---
+title: "Initiative issue template"
+toc_hide: true
+---
+
 ## Overview
 
 ### Description

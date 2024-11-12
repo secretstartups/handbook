@@ -1,5 +1,5 @@
 ---
-tite: "SAST IDE Integration ADR 001: Provide API-based security scans"
+title: "SAST IDE Integration ADR 001: Provide API-based security scans"
 owning-stage: "~devops::secure"
 description: 'SAST IDE Integration ADR 001: Provide API-based security scans'
 toc_hide: true
