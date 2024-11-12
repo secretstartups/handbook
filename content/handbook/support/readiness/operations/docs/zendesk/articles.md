@@ -11,6 +11,11 @@ foremost.
 
 ### Creating a new article
 
+**NOTE** This is for informational purposes only. We should let the
+[Support Super Form Processor](https://gitlab.com/gitlab-support-readiness/processors/support-super-form-processor)
+handle the creation of articles. The below information is how one would do it
+manually if ever required.
+
 You will first need to get the managed content file in the Support managed
 content project. Remember to use the correct filenames for all of this to
 prevent potential pipeline errors in the sync repo project later on.
