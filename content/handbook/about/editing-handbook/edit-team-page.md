@@ -9,7 +9,7 @@ For the handbook, see the [editing handbook page]({{< ref "editing-handbook" >}}
 
 ## Add yourself to the Team Page
 
-We are happy to have you join our company and to include you in our [team page](https://about.gitlab.com/company/team/)! [A sync](/handbook/people-group/engineering/onboarding/#sync-to-team-page) will add a basic entry for you on our team page on your third day of employment at GitLab. You are invited to personalize this entry and add more information to it. If an update is not properly reflected on the team page, verify that your Workday setting is correct.
+We are happy to have you join our company and to include you in the team pages found on [our website](https://about.gitlab.com/company/team/) and [in the handbook](/handbook/company/team/)! [A sync](/handbook/people-group/engineering/onboarding/#sync-to-team-page) will add a basic entry for you on your third day of employment at GitLab. You are invited to personalize this entry and add more information to it. If an update is not properly reflected, verify that your Workday setting is correct. The same file is referenced for both team pages, however some of the fields that display are different. All of the available fields are documented in the [team member data schema](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/team_members/person/README.md).
 
 Ask anyone in the company for help if you need it, including the `#mr-buddies` Slack channel. There are **three** ways to update the website:
 
@@ -73,7 +73,7 @@ Choose the method below that feels most comfortable and have the following infor
    - Add your Mastodon account in the format `mastodon.instance/@username`. Basically, the profile link without the `https://`.
    - Ensure your list of `departments` is accurate. Use other team members' as a reference.
    - Add your [`specialty`](/handbook/company/structure/#specialist).
-   - Add your [`expertise`](/handbook/company/structure/#expert).
+   - Add your [`expertise`](/handbook/company/structure/#expert). This must be formatted as HTML. An array will display incorrectly.
    - Add your own `story`. Use other team members' stories as a reference.
    - If remote work has [changed your life](/handbook/company/culture/all-remote/people/) in a meaningful way, consider adding your own `remote_story`, using other team members' remote stories as a [reference](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/uploads/8161ceac4523a9f36244f9533960ccbd/remote-story-example.png)
    - Update any data that was filled in but is incorrect.
