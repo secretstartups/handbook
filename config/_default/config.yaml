@@ -1,6 +1,6 @@
 languageCode: en-US
 locale: en-US
-title: The GitLab Handbook
+title: The SecretStartups Handbook
 
 enableRobotsTXT: true
 enableGitInfo: true
@@ -11,21 +11,21 @@ sitemap:
   priority: 0.5
 
 params:
-  title: The GitLab Handbook
+  title: The SecretStartups Handbook
   social:
-    twitter: GitLab
+    twitter: SecretStartups
   defaultContentLanguage: en
   locale: en-US
-  description: Learn more about GitLab and what makes us tick.
+  description: Learn more about SecretStartups and what makes us tick.
   search:
     algolia:
       appId: 3IIMMA8IDY
       apiKey: 71feb3efa6044f78ab6b8a7422e727b7
-      indexName: handbook-gitlab
+      indexName: handbook-secretstartups
   images:
       - images/gitlab-cover.png
   branch: main
-  project: gitlab-com/content-sites/handbook
+  project: secretstartups/content-sites/handbook
   repoid: 42817607
   plantuml:
     enable: true
@@ -41,7 +41,7 @@ params:
     navbar_logo: true
     footer_about_disable: true
   copyright: "GitLab"
-  privacy_policy: https://about.gitlab.com/privacy/
+  privacy_policy: https://about.secretstartups.org/privacy/
   links:
     user:
       - name: "Slack"
@@ -70,11 +70,11 @@ menu:
   main:
     - weight: -2
       name: GitLab
-      url: https://about.gitlab.com/
+      url: https://about.secretstartups.org/
       pre: '<i class="fab fa-gitlab"></i>'
     - weight: 2
       name: TeamOps
-      url: https://about.gitlab.com/teamops
+      url: https://about.secretstartups.org/teamops
       pre: '<i class="fa-solid fa-arrows-spin"></i>'
 
 mediaTypes:
