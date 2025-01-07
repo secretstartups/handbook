@@ -37,7 +37,7 @@ params:
     sidebar_menu_compact: false
     sidebar_menu_foldable: true
     sidebar_cache_limit: 1000
-    sidebar_menu_truncate: 100
+    sidebar_menu_truncate: 150
     navbar_logo: true
     footer_about_disable: true
   copyright: "GitLab"
